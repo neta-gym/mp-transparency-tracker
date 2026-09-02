@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5542.jpg"
   },
   "criminal_record": {
-    "total_cases": 3,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 3,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 47297973.0,
-    "liabilities": 5039079.0,
-    "net_worth": 42258894.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 37.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 16.25,
-    "released": 16.25,
-    "sanctioned": 10.76,
-    "expended": 7.11,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:34.694611Z",
-        "notes": "Official eSAKSHI REST API — Works: 175 recommended, 168 sanctioned, 96 completed"
+        "fetched_at": "2026-09-02T14:50:51.876945Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:47:03.229398Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:47:03.227178Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 175,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 43.753846153846155
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:29.314560Z",
+        "fetched_at": "2026-09-02T14:47:03.226316Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "CJP says Lok Sabha disallowed 3 sets of questions on youth protests - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ1lhYWx4MTVoakhHdzNlNS1XaXMxTDRkUmtrWGd6Ym1ZVWxSbFRveGFBOVFnT0F2a3ctUUFJWXZHamdOUnU2bmJCcW9TWGg4aWZNTkpra194dGxEd09sREdpVk9fQl9xclQ2OEg0dnRGZW9TUXhnWjhiUEIzSzA3UGVUdFVDTFVuejNUUVlad2dGNjdtRlYzdUI1YXJ1dFBUZVg2aFplNDdHVC1MbTJoSlpZLUpxS0c0ek1IV3k1NGthM2NmR21acUU0elNET2JxR2Qw0gHaAUFVX3lxTFBZWUpLU1BlZGxmRGo5UGRhQ0V2aTBXdzVTYjhraDNEUm5SQTZiMnRQbEhRel9rTnZ0RHJGMUF5TXhhZkphb1hkUkdpSzhPMkJBakN2NmJ0eC11UGUzaGNESFRZN3JlVUh1WHctRjgyVGVVUkRqVnhvSjNKTkE3cXoxXzNkb3AtcmhXZW92aGtvamtxem1BQlRnMzFlZWN1WTdpLVYxSWlxUGVuMmZPWHBBRE0xRHBpYi1Wc3Q0ZnQ2R00xUVlsTl9BdHZRX3J3blVCYWY0TGd5QmJR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Namakkal farmers observe hunger strike demanding release of water from Jedarpalayam barrage - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNWJQdURxX1NEVVNIb05odFJfQnFNaGYzYl82ZVVVdWRBVXBLTV8yNElCMUxDblVuSTBCR0FySGlEeWM0UDhENkhNRjMtR2pMUkhIOVpaSDQzYVRuUndmbEJOQ2xUNDZzbVg1TUUzcllFY21OR05NR0QtelFOd3hGSmViUElyemlCeVJ5eFlGQkVsTFZSTHBESWpIREZHaG9fLUdtV05TWEdRY3VGaFUxeEltNDlRdUtZejJpN0dabE5zV3czYlI3VzRKc1NXWDlKd1YxMjIydzJDZGhRaDd4XzA0SkZGMEZnYUpYXzkwOEY3Z044bTFnMVBTcHBxZ9IBgwJBVV95cUxOako3enNwdFVDT3pVRXk3NGNLbWgwaE43NzFkb2FqQXdIblRQY2RyX2ViYk80RXFzN3hyZmgwNEFvQ1N6YjZwYll3bHJCRkh0bWxWYXpWbjZfMGdFSmFwQXpzMTgtaTZsbzVkM2c4cTBNYlpTSGUxWTM2UlJVZm9Qd3BTM1lOT3BObjlnYUlHNThaOUViZ1NsZHdWRkRzWG5Jc1gwdUFVcFBjVVM5aDhHLVc3SHRPN2JkX21WSUFod0tWeDlseXV0TENhWUQ0ZUFaMVotUWVsNVdmRE80OW1KcXVqOHg4bzdCNTJWN0FjSTFaOWotRlBtUnJacGNDek1sV2Rj?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Posters against Namakkal MP for not participating in voting against Waqf Bill in Parliament - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaFFBZ2lPUkJRNVk3ZktROG1BRlkzd3BKZENkd294R25oenRPTURLbWJQV2h4QXBLVmQydlpCQUJZZlAxSUtETWN0XzJ5bkFmVU40TjljTDRZYkk2MnpGUGJXMFdPUGRPT3JEcUZ0RnNyaUF5OGw2c0prYjhGcEpKUGE2S09UeDFQRVZHcnpSczM1azl1YXNlTzBUX0J0Z3NSTmY4RktWUVRsTlVvWE5nU0hyVVowX25XbVIzWWZVWUU1ZlFISVp5S1hEdVFBQUMyNUFMVS0zSTg5ekw1WXFWYTJnQmdjbW14QUJHYzFXNGbSAfcBQVVfeXFMUDdDUV9wbkNnTTg1SGpRN1NobmZLdkFOUVVzcTJiLU5LR3otTmpqSURYZW5QMDlkbGhiLTQweGxXYTdWQWdXemF4Zm9objVKUjRhY0RuaFM1VFFHb1QzcHJVQUlLWFo3dEtucjFGZXQybjFzMUJnRzhudDNVYWltNVl1Q1hHQl8zOE9IWVU1N252RWFCaEZLUG95WkRILVh0ZTJCTF90Uy1hN2R3OVdJLTFQY2tpbnJ2amUzRXhvUzZSenc1Nk85QmQ2eVprbWhZREU2bXVKMHdIT19NWFBnSlkybmRxUWRKM1dYWDZaYVRjd2MtY05JYw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Matheswaran V S , DMK candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSllXcXdPUl9TMnBZX00zc0daNUZYSzc1dVlhbmRCV1FDT0poeUJDT1dINDZuenBwTjBtMjNnTjB5OXI0MWlyaDZkenljWHAwWnhsamI1eHZOdlVUODZtazFEWEZLbXM1NHRQeHloU0ZoNVlJZkJvSE5RYzVoSS1NcG0tcU9aQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Centre urged to rename Salem Railway Junction or airport after T M Kaliannan - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ280YWxZcmIxMGd0dDNCaGtKNUFYR0EzZE4tTm1EY05Xc1ljQzR1TENmVktNWFNTVTMtem9TQm9FWWt5TTJZUVkyOHlDaGN0T1ZMYUZmUEVWTHlOTEs5MGpwV0VPMTNJdDN2YnJvUG5VN0Z6YklTNV9pV3lhelFoYnNfX08tSHF2QVJtSHNsTjMxWWNjOC15aENnb2pSUDYzZnZpcVA5WVh4bm1uQ3VHZVJGNG1qQnpfazFmVXJsNDVCNU9mekZobjlfSDR5dmtFdmxKb1dzTGhtbEFIWEFMTXFhc9IB6AFBVV95cUxNZzJPdk9oaWVvWXNIYkdwWVhPZHZRSU8wUTRwdUdKUm1nRHFlTktXcF9iZGc5cE5lbUNCUU9WMzh3UkphYTJLMW55RmhtLVdrYU41VlFPX05jdDFidVowZWJ3dlRIQ3dhTXVCVXVfc2x2YzRWZjFFSDBwMlBBSXFXekhab29PNXZDMlptVlBZWkVqTzZldUJKOFZZNlVQWnRrVE9JVDhGVUZNM2laR3djbVJLMmo5QmVmaG1mVjlfcDZwbUVQQlRQNEk3eVhvWkkwR0JiVEFFWTAySVlfc09TQmo5bGl4Um5t?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:35.328431Z",
+  "collected_at": "2026-09-02T14:50:51.877740Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.511952Z",
+        "fetched_at": "2026-09-02T18:38:10.014677Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.511960Z",
+        "fetched_at": "2026-09-02T18:38:10.014694Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.511965Z",
+        "fetched_at": "2026-09-02T18:38:10.014703Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.511969Z",
+        "fetched_at": "2026-09-02T18:38:10.014711Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.511974Z",
+        "fetched_at": "2026-09-02T18:38:10.014729Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.511979Z",
+        "fetched_at": "2026-09-02T18:38:10.014738Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.511983Z",
+        "fetched_at": "2026-09-02T18:38:10.014746Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -253,43 +309,43 @@
     "neutral": 9,
     "top_headlines": [
       {
+        "headline": "CJP says Lok Sabha disallowed 3 sets of questions on youth protests - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ1lhYWx4MTVoakhHdzNlNS1XaXMxTDRkUmtrWGd6Ym1ZVWxSbFRveGFBOVFnT0F2a3ctUUFJWXZHamdOUnU2bmJCcW9TWGg4aWZNTkpra194dGxEd09sREdpVk9fQl9xclQ2OEg0dnRGZW9TUXhnWjhiUEIzSzA3UGVUdFVDTFVuejNUUVlad2dGNjdtRlYzdUI1YXJ1dFBUZVg2aFplNDdHVC1MbTJoSlpZLUpxS0c0ek1IV3k1NGthM2NmR21acUU0elNET2JxR2Qw0gHaAUFVX3lxTFBZWUpLU1BlZGxmRGo5UGRhQ0V2aTBXdzVTYjhraDNEUm5SQTZiMnRQbEhRel9rTnZ0RHJGMUF5TXhhZkphb1hkUkdpSzhPMkJBakN2NmJ0eC11UGUzaGNESFRZN3JlVUh1WHctRjgyVGVVUkRqVnhvSjNKTkE3cXoxXzNkb3AtcmhXZW92aGtvamtxem1BQlRnMzFlZWN1WTdpLVYxSWlxUGVuMmZPWHBBRE0xRHBpYi1Wc3Q0ZnQ2R00xUVlsTl9BdHZRX3J3blVCYWY0TGd5QmJR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Namakkal farmers observe hunger strike demanding release of water from Jedarpalayam barrage - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNWJQdURxX1NEVVNIb05odFJfQnFNaGYzYl82ZVVVdWRBVXBLTV8yNElCMUxDblVuSTBCR0FySGlEeWM0UDhENkhNRjMtR2pMUkhIOVpaSDQzYVRuUndmbEJOQ2xUNDZzbVg1TUUzcllFY21OR05NR0QtelFOd3hGSmViUElyemlCeVJ5eFlGQkVsTFZSTHBESWpIREZHaG9fLUdtV05TWEdRY3VGaFUxeEltNDlRdUtZejJpN0dabE5zV3czYlI3VzRKc1NXWDlKd1YxMjIydzJDZGhRaDd4XzA0SkZGMEZnYUpYXzkwOEY3Z044bTFnMVBTcHBxZ9IBgwJBVV95cUxOako3enNwdFVDT3pVRXk3NGNLbWgwaE43NzFkb2FqQXdIblRQY2RyX2ViYk80RXFzN3hyZmgwNEFvQ1N6YjZwYll3bHJCRkh0bWxWYXpWbjZfMGdFSmFwQXpzMTgtaTZsbzVkM2c4cTBNYlpTSGUxWTM2UlJVZm9Qd3BTM1lOT3BObjlnYUlHNThaOUViZ1NsZHdWRkRzWG5Jc1gwdUFVcFBjVVM5aDhHLVc3SHRPN2JkX21WSUFod0tWeDlseXV0TENhWUQ0ZUFaMVotUWVsNVdmRE80OW1KcXVqOHg4bzdCNTJWN0FjSTFaOWotRlBtUnJacGNDek1sV2Rj?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Posters against Namakkal MP for not participating in voting against Waqf Bill in Parliament - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaFFBZ2lPUkJRNVk3ZktROG1BRlkzd3BKZENkd294R25oenRPTURLbWJQV2h4QXBLVmQydlpCQUJZZlAxSUtETWN0XzJ5bkFmVU40TjljTDRZYkk2MnpGUGJXMFdPUGRPT3JEcUZ0RnNyaUF5OGw2c0prYjhGcEpKUGE2S09UeDFQRVZHcnpSczM1azl1YXNlTzBUX0J0Z3NSTmY4RktWUVRsTlVvWE5nU0hyVVowX25XbVIzWWZVWUU1ZlFISVp5S1hEdVFBQUMyNUFMVS0zSTg5ekw1WXFWYTJnQmdjbW14QUJHYzFXNGbSAfcBQVVfeXFMUDdDUV9wbkNnTTg1SGpRN1NobmZLdkFOUVVzcTJiLU5LR3otTmpqSURYZW5QMDlkbGhiLTQweGxXYTdWQWdXemF4Zm9objVKUjRhY0RuaFM1VFFHb1QzcHJVQUlLWFo3dEtucjFGZXQybjFzMUJnRzhudDNVYWltNVl1Q1hHQl8zOE9IWVU1N252RWFCaEZLUG95WkRILVh0ZTJCTF90Uy1hN2R3OVdJLTFQY2tpbnJ2amUzRXhvUzZSenc1Nk85QmQ2eVprbWhZREU2bXVKMHdIT19NWFBnSlkybmRxUWRKM1dYWDZaYVRjd2MtY05JYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Matheswaran V S , DMK candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSllXcXdPUl9TMnBZX00zc0daNUZYSzc1dVlhbmRCV1FDT0poeUJDT1dINDZuenBwTjBtMjNnTjB5OXI0MWlyaDZkenljWHAwWnhsamI1eHZOdlVUODZtazFEWEZLbXM1NHRQeHloU0ZoNVlJZkJvSE5RYzVoSS1NcG0tcU9aQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Centre urged to rename Salem Railway Junction or airport after T M Kaliannan - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ280YWxZcmIxMGd0dDNCaGtKNUFYR0EzZE4tTm1EY05Xc1ljQzR1TENmVktNWFNTVTMtem9TQm9FWWt5TTJZUVkyOHlDaGN0T1ZMYUZmUEVWTHlOTEs5MGpwV0VPMTNJdDN2YnJvUG5VN0Z6YklTNV9pV3lhelFoYnNfX08tSHF2QVJtSHNsTjMxWWNjOC15aENnb2pSUDYzZnZpcVA5WVh4bm1uQ3VHZVJGNG1qQnpfazFmVXJsNDVCNU9mekZobjlfSDR5dmtFdmxKb1dzTGhtbEFIWEFMTXFhc9IB6AFBVV95cUxNZzJPdk9oaWVvWXNIYkdwWVhPZHZRSU8wUTRwdUdKUm1nRHFlTktXcF9iZGc5cE5lbUNCUU9WMzh3UkphYTJLMW55RmhtLVdrYU41VlFPX05jdDFidVowZWJ3dlRIQ3dhTXVCVXVfc2x2YzRWZjFFSDBwMlBBSXFXekhab29PNXZDMlptVlBZWkVqTzZldUJKOFZZNlVQWnRrVE9JVDhGVUZNM2laR3djbVJLMmo5QmVmaG1mVjlfcDZwbUVQQlRQNEk3eVhvWkkwR0JiVEFFWTAySVlfc09TQmo5bGl4Um5t?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "TN govt urged to revive abandoned Namakkal District Heavy Vehicle Construction Industrial Park - MSN",
-        "source": "MSN",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVFpLd3pWOHNFT1YxVHJDVTZIdDlveTEzd2RlZUhYdmxHa1lfa0ZSNEVxRTFWaHVhT3JsU1ZaVEpfcUF0WVVtX05oR2NlT3FsaUh0T3hUTUtfSDRfSVd6WG1maXBjdzNXei02eG1ZTndjZmo0YVNtVmR2Nm5TYjV4OENCNFZVVFhObW5rSnNJV0FwNy0wbDVHaktkZmVnWlJxaENoOXVjajNSckRpTkpTb25NMlc0Rklta0piNkozZC1Wd2RLcWgzYUsxSlc5SFltc2MzWllDZzVnam8?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Namakkal bypass roads inaugurated - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHdxZHJMeWIycnlMS2EzQ2FWcS1TbUNWMGkyU1MwYzU3VTZ3MG9hdmk5TF9fNEFDYnI5US1sOVo1OWFRUGgxbUVtUVhjUXNtRklLOVotUHdxOUFZX3Y3WU9PT21OYVlCdzRvbHBwLXBnX285cnllaEtiNlVuSHFiQjRldmNYMlNERmxUSkZ3UURkdGkta2NwVUJXYVcyUWfSAaYBQVVfeXFMUFd6V0wwbDNCQ1U1c0lsU3Nxb0ZMMGxPTHpRd00yTjlZa2ZvVWY3S1p2X0xqd2hUc192Q1Z2UHBwaHVlR3BtRHkwWG5rWFN1OTRxWEdPLXA1QS1VaFVYX0VRSGNoZVdMVndXRnA0RUpRa082Ml9UcHpTbDVsU0JFcXk2OTZ1OWIyMmNuRkRHOWlXeEQzd19wLXo5RDF0c09ROTM2NjhQQQ?oc=5",
-        "sentiment": "positive"
-      },
-      {
-        "headline": "TN govt urged to revive abandoned Namakkal District Heavy Vehicle Construction Industrial Park - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVFU3MXd1aVQwMUsxT24yTU55cFdFYzZ2TWhmVnJVbm41eXh4WG1ydDFVVXJZUTJIRWtodGs1S1dkWGdkLVYtSDBpVHpmS2hUeVhjNmd0d2NjZTE0Y3QtNXNIUW1ITUNTRDd5dXNSeVg1T0Mxd2llWFZKaGdRRkRUMlZYYUZzVGx2QXluOVJoVzVURU51NV9hVUVOcE9jNDFmNW81MHlzblk3b0FidmRaa0FTTHA1enduQ3B5UjI2SktKd0xydXlWMDBXeHRXR2NoUmtaOVJXVnROa2hfZFRTN0F3elFuaGRIYWZHOTFIeEJ6WU5VUUVNVm9QLXh4QdIBgwJBVV95cUxOZ0E3cG1YUXA0cXBzMmRtaGdjd3lfVGdSNEhZall5RG5xODQ5WXAyMUw5YWgtb2I4WDRGQVFqRjJnUjVwX1ZNYjJLZ1V6YUUwNDJPaldpYzZWckhFRlVPVklaNk9mY0U0RW0zZkNVRVRqUFo0VGdCeVRnNmNHU0N1dWExT0xKWUk5SFJRblktaVp1MWdEaGhldnNWOGEzaVVORFYtenV1b2RWZ3k1ZjZkREFoaUl6Z2swLU1fdmEtT0ZjNWhUNHhGQkFuYW5kdjF3dE5xWlY3NFYwS3NIbThkUm1KMWlXNldhMm5wdVZ6VER1eHFURFNKcVljb3JyaW1rYWZv?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Demand to Rename Salem Junction or Airport After T M Kaliyannan - GK Today",
-        "source": "GK Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRktlOUgxTy11R2ZUbkVSM0dDMGVHdGZla3lDYk9CVVRQWEVxWnd3RlhXeUVCeU5tWVBWYUg2Vm9NbVFZTE1mdXZzcS1hdU9DOGhHZE9xc3JEbVV6bm1uUUpaWUEwQjUzVmU0b3Z2OTN3S0RGVmo0OVk0YklFQ2FETlVNUGp0aTRXazNHWnF3YUw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -323,15 +379,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 30,
+    "starred_questions": 9,
+    "unstarred_questions": 21,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 58.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

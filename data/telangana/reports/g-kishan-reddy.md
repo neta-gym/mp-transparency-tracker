@@ -3,24 +3,22 @@
 **Constituency:** Secunderabad, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Others
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (24%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.3 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 0.2 | 25% |
-| Asset Growth | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 19.22 Crore
-- **Liabilities:** Rs 1.63 Crore
-- **Net Worth:** Rs 17.59 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 3
-- **Expended:** Rs 0
-- **Utilization Rate:** 0.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,38 +66,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/kishanreddybjp](https://x.com/http://www.twitter.com/kishanreddybjp) | No | Yes |
+| Facebook | [@http://www.facebook.com/gkishanreddy](https://facebook.com/http://www.facebook.com/gkishanreddy) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Kishan Reddy seeks Telangana CM’s intervention to expedite road widening for Cherlapally, Secunderabad stations - The Hindu (The Hindu) [neutral]
-- Hyderabad's new Railway Terminal: Charlapalli station set to open - Dailyhunt (Dailyhunt) [neutral]
-- Kishan Reddy urges CM Revanth to expedite Hyderabad Metro Phase II - The Statesman (The Statesman) [neutral]
+- Rs 2K cr railway station works in progress in Telangana: Minister Kishan Reddy - The New Indian Express (The New Indian Express) [positive]
+- Minister Kishan Reddy Flags Rs 1600-Crore Coal Scam, Writes To Revanth Reddy - NDTV (NDTV) [neutral]
 - Centre announces eight new trains for Telangana - The Siasat Daily (The Siasat Daily) [neutral]
-- Jubilee Hills bypoll defeat a rude wake-up call for BJP in Telangana - The New Indian Express (The New Indian Express) [neutral]
+- Kishan Reddy makes it to Union Cabinet - The Hindu (The Hindu) [neutral]
+- BJP MP G Kishan Reddy to be part of Modi 3.0 cabinet - ANI News (ANI News) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Rs 2K cr railway station works in progress in Telangana: Minister Kishan Reddy - The New Indian Express** (The New Indian Express)
+- ! **Minister Kishan Reddy Flags Rs 1600-Crore Coal Scam, Writes To Revanth Reddy - NDTV** (NDTV)
+- ! **Centre announces eight new trains for Telangana - The Siasat Daily** (The Siasat Daily)
+- ! **Kishan Reddy makes it to Union Cabinet - The Hindu** (The Hindu)
+- ! **BJP MP G Kishan Reddy to be part of Modi 3.0 cabinet - ANI News** (ANI News)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-G Kishan Reddy has a below-average transparency score of 48.3/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+G Kishan Reddy shows moderate transparency with a score of 56.5/100. No criminal cases declared. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 192,241,721. MPLADS utilization: 0.3%. Low confidence data: Parliament activity. 2 warning(s) noted.
+No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -140,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 192,241,721. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -219,8 +240,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for G Kishan Reddy's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -238,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

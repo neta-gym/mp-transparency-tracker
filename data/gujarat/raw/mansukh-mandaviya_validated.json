@@ -4,16 +4,16 @@
     "constituency": "Porbandar",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3459,
+    "myneta_candidate_id": null,
     "slug": "mansukh-mandaviya",
     "house": "lok_sabha",
     "sansad_member_id": 5555,
     "profile_url": null,
     "canonical_name": "Mansukh Mandaviya",
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 51,
+    "age": null,
     "photo_url": "/mp-photos/5555.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Porbandar",
       "state": "gujarat",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3459,
+      "myneta_candidate_id": null,
       "slug": "mansukh-mandaviya",
       "house": "lok_sabha",
       "sansad_member_id": 5555,
       "profile_url": null,
       "canonical_name": "Mansukh Mandaviya",
       "name_aliases": [],
-      "education": "Doctorate",
+      "education": null,
       "profession": null,
-      "age": 51,
+      "age": null,
       "photo_url": "/mp-photos/5555.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:58.149076Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 79504705.0,
-      "liabilities": 0.0,
-      "net_worth": 79504705.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3459",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.485979Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 52.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.92,
-      "expended": 2.19,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:07.004613Z",
-          "notes": "Official eSAKSHI REST API — Works: 169 recommended, 158 sanctioned, 54 completed"
+          "fetched_at": "2026-09-02T14:42:35.564326Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:38:51.932599Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:38:51.929706Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 169,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 14.897959183673471
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:25:35.294120Z",
+          "fetched_at": "2026-09-02T14:38:51.928671Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Union Minister Mansukh Mandaviya chairs Viksit Porbandar Furniture Park Summit in Porbandar - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMi1CMF9HQU9BaDZQb0FucURKRlowSW9nTW1qZl81RmlENWRxbUlNM08tZ2FKNFM5eTFCQWh0RWIwX05Ta1l3OHZSMENSYkFOTFRodzkzR29aM0NueGp5VXFrVW12RnNiLVJ3ZjZtUmZpR0JORGJ0LW9LVDRwSzNfUXFSM2ZCOEktb3lQbmN0bm85OEc1ckxuZldUc3MtVUdlUmhTNDJXTmRDaElldkltbDlMSURsbG93aklzZzBnLUg5QWwxa21wT2JucU5vMHM3TmdZWTlVYVdqOG9zLXpiOVpscEF5bVNLdXc0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mansukh Mandaviya wins Porbandar against Lalit Vasoya - GujaratSamachar English",
+        "source": "GujaratSamachar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFRmNWRfY2xTaFRoMk1YbkowX2pndWJpNWVaNVF2LVM4SmpQcEtudVVtQzdYeDgtNVliVndkZ1ZmWmNpczQzZGYzcElGeTJjZFlvaklGZTlpWHpYY0NCSkRZT29hajBsSVdjcHZ6M1dzS1FVY3pJd0U5czZySTljRU9vcFhUUTBkcFktVjJUT3hmVUJLU210cE0tYm1aZDYwV0FxRFZ1d3RCbFBDYnZHRFVIVUNaTEk1cW1TVnlmNWRUc1U?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Porbandar election results 2024 live updates: BJP's Mansukh Mandaviya wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVnhSV2hIWmYtSnAxMXZsWXNYbEpxeW41R1NtNXZrQ0o0SWsyZ0lTazVyZVVVcWJ5SGNnbTM5cTFQVnFZS1g1Y0k4MDk2eTBUWkNPaUo4dEhNYWVUNU5MbWpEMzRvRGxIRnlXbDFwNVkyeENfQ1cxM25XUXdFNDlHWVFQdVVfSXMwVmx4dWFLZE42ZjYxUWxQUUFWWXY1bkY2QnZydmZoSHpDN1RHUXVBU2QzdzF0eTdrNk0wb1JWN2Q4SjRpcW9vaFhJWGp0eS11Ti1aSGxDTEQ4SzVfbGhlMUcyTXc0dXFpWDB3UlJSUFZSd1dIUmVuaGhzX1dwa01WaDFtS3ZGZHBVcGJYLWVURHBObndKV2ItZEhIa01XdWo1UWF2cWxDdmFMUGZ0bHlMZkFjQ9IBugJBVV95cUxQQmN2X0NLcjB0YlJzbXdGVV9NZmY1dXJfX21XazZ6QmN2ZnRtUVlJUGpSN2R4SHI0VkN3RlhhNkZEdkE0QXRQWXFfaGpJc0QyTUJrT1hNWTdyaF9VcFAtbklZYTBzWi1nU2tMWHBBR2swZ1N3b1lqcmJka2JDcC1CNXlrQmUzVkRReTZzOG1rdGU1alRaWjgxdXJfRVNSWjFlVTY4QjJrRnBUZU9fU3VWZ2ZDel9remNWNW11MkRjeU9LalBOc2xKdWdnVDhRb3g0UU1tQWVrYjVhYUJpaWpRYWN2ZGJhT2tBUTJfY2dwMm1scncyMWM0TUNlVHVKSUhYUnBaMUkydFl6U090ajBma0hwaXRlUG5kc3hQMTNsUGZlN0tWRmFiSkFyc2FBanhzQm5MMlVCcVMzQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "After 2 Rajya Sabha Stints, Mansukh Mandaviya To Make Lok Sabha Polls Debut - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVNHdFlkNUhXM3I1bzl3c2ViVlVrVzVwTEhtZWFiVElPQkxlbE14Vk9idmZ4anRycGRGVjBnU2N1Qm5qWmJIWmdFQmpLSFByS2NIWV82WkNaTmdvNlo2MHBNanF6QVFWdkRaTEpJM3V5S1gxeVd3XzBPM2FialF6SG9Ob0Y0RzA3RG53NEU3ekw0SFd5VE1KaEg5UFJQQXpFSzR4TXNNWGtYSDBtOUFHYUwwdXrSAbwBQVVfeXFMTkRoMTFsejNaZmNfdTQ0UVdpakZnR1JXZmhLUndUQ2lwaTJGcF9OQ01udU5Bazk3NG42bU9jNW1vY1VxSmRLalVxOU1Vek9rTkJIOHZqRmNfMWhjT1V1R1RQQUYtNTBRU3NPS0QyZVZHa2VwRjhDeEdKYm1Pa0dOTkxYME02SHBzT2YxQjktY2dLVm9zMktQNi1LN3hMc0lFczZZaUgzS0pCTy14ZUdkejAxQ3dMbU12dVp0ZVU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha election: Union minister Mansukh Mandaviya kickstarts his campaign in Mahatma Gandhi’s Porbandar - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdDFYMzF6X1d1VlJQN1J3a3pwX0tnWFhhbG5vZ1liZFNpTUx3UW0xTU9rMGlaVHJiTGtXWnZxbmVmVnltNkZzazZ6dXhkaTlfZlpzWkVNYzdHU1BoMjBjTjBwcE5FVVFyd1VTekkwWVc1WnZjTzZFdGozSXlCTUIyNWVtNTBXQ3I3Z3RmOTltTTdWcksyeHFUTmF2WUxHT2t3MVBSUGxSOU5iRlBySVR1RHE5SmdSWVNwa0F5Q21R0gHEAUFVX3lxTE9SRURyUVZycHRvMzVmdzM5QlA4WTFOVTBJVXhGUVM2ZXlmMFdlMkNYNXRLeVZHOWlEZUZPMmVpT2M3cmlKRms4Y1BlNl96ckg2VnFMYjFVekJXWDlLTzJ3S1pGRGt1RlF3M2JNYmFTUl9lbmpIbDA4NEhWZGRJLUxpSDVkVi1Jc1dLSDZSSUl3dnRLR0swb1cyMWdsRnBCbG5GSkl0ZkdPVWE5eGs4S291OU1ZZ0dJZ1IzQl94RkppdVpzdmY?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:26:35.558506Z",
+    "collected_at": "2026-09-02T14:42:35.565447Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.108460Z",
+          "fetched_at": "2026-09-02T18:38:05.703470Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.108468Z",
+          "fetched_at": "2026-09-02T18:38:05.703481Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.108473Z",
+          "fetched_at": "2026-09-02T18:38:05.703487Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.108508Z",
+          "fetched_at": "2026-09-02T18:38:05.703493Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.108514Z",
+          "fetched_at": "2026-09-02T18:38:05.703499Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.108519Z",
+          "fetched_at": "2026-09-02T18:38:05.703504Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.108523Z",
+          "fetched_at": "2026-09-02T18:38:05.703509Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,19 +335,19 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Gujarat: Mansukh Mandaviya Mourns Deaths Of Four Youths In Porbandar Accident - Ommcom News",
-          "source": "Ommcom News",
+          "headline": "Union Minister Mansukh Mandaviya chairs Viksit Porbandar Furniture Park Summit in Porbandar - aninews.in",
+          "source": "aninews.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHM0MGdWWUdIWkdDenVuNUhuZVZwSjRwenR3QjNaR0drRHFCWVpSZkJKRjFmM1ZySzRYaFA3TWtaQk1hVmgtZmYySlp5LU5CUll1M0czSVZYZkJSbENZMGdDdEtITVprek9lemxCSnUzeG5CNkNuNkRXTWdZb2lzaTFvRV9DMF96YXI3Q2NBVHdWUWxGY1ZfSHJPbHpzbXdqbV9udEdaNk14ZmEwdDhxYQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMi1CMF9HQU9BaDZQb0FucURKRlowSW9nTW1qZl81RmlENWRxbUlNM08tZ2FKNFM5eTFCQWh0RWIwX05Ta1l3OHZSMENSYkFOTFRodzkzR29aM0NueGp5VXFrVW12RnNiLVJ3ZjZtUmZpR0JORGJ0LW9LVDRwSzNfUXFSM2ZCOEktb3lQbmN0bm85OEc1ckxuZldUc3MtVUdlUmhTNDJXTmRDaElldkltbDlMSURsbG93aklzZzBnLUg5QWwxa21wT2JucU5vMHM3TmdZWTlVYVdqOG9zLXpiOVpscEF5bVNLdXc0?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Lok Sabha Election Results 2024: Union Minister Mansukh Mandaviya Wins Porbandar By Margin Of 3.83 Lakh Votes - NDTV",
-          "source": "NDTV",
+          "headline": "Mansukh Mandaviya wins Porbandar against Lalit Vasoya - GujaratSamachar English",
+          "source": "GujaratSamachar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNFl4VjJ0SDFvcnVBQXl4M3o5U1FWYlNQa3pWUW5fTHZfZklkdGo1c1p2YmdTX2ZnM0xLbkhBMkZKMDhmdGoydnpxNHdkNmx3X0dzU2FTYzBwZ251Q2xPaXU0U3JON1ZVaXllb2F0X2VWOVRiZTZQQXgxemtLV0htTWJ2WEE2d3dQTk1xT3RxYlo2bGl5ZEpuZmEyUFNZZURjWjZpM1dXNDFBY2Z3M3M5cU1SWVIwb0FyOHRJOXZUZlNfUndDUEtsUXRyZE93U0dlT0ZJNkh5WkpZSHR6Q2otUG96LWNvY2FC0gHwAUFVX3lxTE5yQ3IyTXJ0MWhfY1hkVGUzWkRFUUJVMmZGM19kbUJ6bTFSSk1EaWFOZWVEYmpSU1ZHMS1zTXpoY1F5aVZLemg2MF95enpXS2U1MWJtc2R3M29uV2pLcFhRYmtHTlo4ZkVjZzNZVzNyUWp5VUhQNHJEUTdsbUdiZ0pKbGlPQ2Npb18tWERtanAtVDNUUGtlMlhWbHU4blF1WWlFZ2tJVEpoLVBLTTdUa0RDaVhNQlptOGp0THRaSXkwZjRZTVFqcENvMV8yXzdoM2FIeVdWYTdlWF9PZS0xM2VrTmZwRTZTNkw2M2Q5cnRxVA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFRmNWRfY2xTaFRoMk1YbkowX2pndWJpNWVaNVF2LVM4SmpQcEtudVVtQzdYeDgtNVliVndkZ1ZmWmNpczQzZGYzcElGeTJjZFlvaklGZTlpWHpYY0NCSkRZT29hajBsSVdjcHZ6M1dzS1FVY3pJd0U5czZySTljRU9vcFhUUTBkcFktVjJUT3hmVUJLU210cE0tYm1aZDYwV0FxRFZ1d3RCbFBDYnZHRFVIVUNaTEk1cW1TVnlmNWRUc1U?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,19 +359,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "State-Level Celebration of 79th Independence Day Held in Mahatma Gandhi’s Birthplace, Porbandar - CMO Gujarat",
-          "source": "CMO Gujarat",
+          "headline": "After 2 Rajya Sabha Stints, Mansukh Mandaviya To Make Lok Sabha Polls Debut - NDTV",
+          "source": "NDTV",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGdUazczcy1LVEt5SXIwTmRQZ0g3QXhKOEQtVENvSWNkS1U2eWVEMVJ0bnNrUTdJUlI4Qy1sOFpwNXRZckxPeXpIdlR5V1hHejgtNmhtZFhKMkZjRGZWWXBIRzNscEpPd1NDS2xXYjAtOVAza3hwQ09idk0ydkpZU0d5QkowWkJfbC12MnVBNWZZLVBFbS1FblNJOE1TUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVNHdFlkNUhXM3I1bzl3c2ViVlVrVzVwTEhtZWFiVElPQkxlbE14Vk9idmZ4anRycGRGVjBnU2N1Qm5qWmJIWmdFQmpLSFByS2NIWV82WkNaTmdvNlo2MHBNanF6QVFWdkRaTEpJM3V5S1gxeVd3XzBPM2FialF6SG9Ob0Y0RzA3RG53NEU3ekw0SFd5VE1KaEg5UFJQQXpFSzR4TXNNWGtYSDBtOUFHYUwwdXrSAbwBQVVfeXFMTkRoMTFsejNaZmNfdTQ0UVdpakZnR1JXZmhLUndUQ2lwaTJGcF9OQ01udU5Bazk3NG42bU9jNW1vY1VxSmRLalVxOU1Vek9rTkJIOHZqRmNfMWhjT1V1R1RQQUYtNTBRU3NPS0QyZVZHa2VwRjhDeEdKYm1Pa0dOTkxYME02SHBzT2YxQjktY2dLVm9zMktQNi1LN3hMc0lFczZZaUgzS0pCTy14ZUdkejAxQ3dMbU12dVp0ZVU?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Porbandar Election Results 2024: BJP's Mansukh Mandaviya takes lead in early trends - India TV News",
-          "source": "India TV News",
+          "headline": "Lok Sabha election: Union minister Mansukh Mandaviya kickstarts his campaign in Mahatma Gandhi’s Porbandar - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNXI0cHN0LVhDZHVTX1ZFdTBsWG1HS3UyelVlNDR6dXdWdDlLOC1mMFBOVUlaaVA0dENQTTVzOFdkZkdQNGh1ZERZNFVGcHB2Q2ZfNXVkZlJ1X3VjWkd6QXdiQ21zMUxRUFhFNV9wYlpWNm9RMnkxR1NiQ0NValRESElXUkduREdpV3Y4cFA3UTdEQlNxZ1N1SWV4ZWdDQVdERkpDYXBSMnptUUxUZjQtNzB3YVd5RkZ4d1k5STROb21kNndWdHA4ckFrYkxNVF84bnV0ZVlQNEhCS0JfdUdwWm43OFhzODQ1TmVzcHpULXVMYWFyRkpNQXI3aUZ1ZHpZY2Y1dGh1SVJSWms50gGSAkFVX3lxTFBtc3diS3UwZHpFUVBHNnNjWDJSRUNicmdVUlZham1PRVFHUm9lQ2h4R0dXYi1BUEZ1T1ZWeEJCbzBKejR0QndoYWFtMkhPS1RWRjlVTkRvSzVvZmtGQUt1TWxSb3ZrbGVRVnlRUDdXTk1waFJfSFRFRkFBNXlvbGsxVTFBYWx4U3kySzUtOXJRMlVfV3lPZEktejA5WWRncms5U2dEU084WlFaY3NtMDA5VWNBLURpbjlXU3pOcEVwTmEzQUNPc2ppRlFDRkxzWWpjQVpGODhYanJKdmRYYjdjLXd4M3RHUnhsdXVzTDNxbkN1N1U0R3E1WkoxMmgtcWptZV9uUl9oTzY2aEptVmxTZFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdDFYMzF6X1d1VlJQN1J3a3pwX0tnWFhhbG5vZ1liZFNpTUx3UW0xTU9rMGlaVHJiTGtXWnZxbmVmVnltNkZzazZ6dXhkaTlfZlpzWkVNYzdHU1BoMjBjTjBwcE5FVVFyd1VTekkwWVc1WnZjTzZFdGozSXlCTUIyNWVtNTBXQ3I3Z3RmOTltTTdWcksyeHFUTmF2WUxHT2t3MVBSUGxSOU5iRlBySVR1RHE5SmdSWVNwa0F5Q21R0gHEAUFVX3lxTE9SRURyUVZycHRvMzVmdzM5QlA4WTFOVTBJVXhGUVM2ZXlmMFdlMkNYNXRLeVZHOWlEZUZPMmVpT2M3cmlKRms4Y1BlNl96ckg2VnFMYjFVekJXWDlLTzJ3S1pGRGt1RlF3M2JNYmFTUl9lbmpIbDA4NEhWZGRJLUxpSDVkVi1Jc1dLSDZSSUl3dnRLR0swb1cyMWdsRnBCbG5GSkl0ZkdPVWE5eGs4S291OU1ZZ0dJZ1IzQl94RkppdVpzdmY?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,7 +421,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.17,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -420,12 +485,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Gujarat: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 79,504,705. MPLADS utilization: 14.9%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:48.109189Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.704626Z"
 }

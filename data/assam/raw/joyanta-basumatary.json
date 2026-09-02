@@ -4,16 +4,16 @@
     "constituency": "Kokrajhar",
     "state": "assam",
     "party": "United Peoples Party, Liberal",
-    "myneta_candidate_id": 3672,
+    "myneta_candidate_id": null,
     "slug": "joyanta-basumatary",
     "house": "lok_sabha",
     "sansad_member_id": 5548,
     "profile_url": null,
     "canonical_name": "Joyanta Basumatary",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 48,
+    "age": null,
     "photo_url": "/mp-photos/5548.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,97 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "03/2023, Sidli PS, Dist. Chirang, BTR Assam",
+        "ipc_sections": [
+          "323",
+          "294"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "03/2023, Sidli PS, Dist. Chirang, BTR Assam",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:08.697488Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 22865797.0,
-    "liabilities": 0.0,
-    "net_worth": 22865797.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3672",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.480316Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 19.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.21,
-    "expended": 5.08,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:19:23.706130Z",
-        "notes": "Official eSAKSHI REST API — Works: 84 recommended, 65 sanctioned, 19 completed"
+        "fetched_at": "2026-09-02T14:44:12.805315Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:39:22.633152Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:39:25.337073Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 84,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 34.5578231292517
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +127,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:42.692104Z",
+        "fetched_at": "2026-09-02T14:39:23.961812Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +135,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Add Bathouism in Religion Column, Urges UPPL MP Joyanta Basumatary Ahead of Census 2027 - Northeast Live",
+      "source": "Northeast Live",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU1BfRnowR3FobXRpbG1KbW11b25aZU04a0dDbWJibWk2Rml5cnhpRGJxQ1R1Qy1tYmxJSGxNaldJZzF5eG9SLWtlWnl0ZzV2bE9jdTF2QkI2eFM0M1o0ZHdSQ2NvcHpWNUkzenY3ZGZBdnJjdWY2RF8yRlR3ZHNxa2RsNEtVaDI4NEtHa0RiaDBCZ05nYjZHZDFBdUN5UUxGNU5jVS1UY3pIZWVuWXJneTFneUo0d2lrZWRRdkN4R1EtZ0w3VGlDYkZDdy1aMm1xdGVfaTJIaV9oeWFtQm1MQg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kokrajhar election results 2024 live updates: UPPL's Jayanta Basumatary wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdWpwdGQ2NkE3ODdKcTViblRUcEpxeGtjQ1pFNmhWVlFhMU5DU0pmR05EbmlWYnE5cGxQVDZtMjBkN094MURGbjYyQmJvZEFRRGYwMjRxZWZza3R6MjBqbnVpeG1jRllDRnNfY08wZS1OT2VCbm85X1o3UkdZdm9yWjlWUGVyZnBEVHZSbV9IU2prQWc1ODRTTzgxRFk5cGRJanJac1ktb1dVUFMtSVljWVRLcndkU1VxRDZtMERoNlZid0hxUng3aTJIcGIxYTF1T3ZmY1VyQW9rYWNPYzE5SlZVTkxfc1hsT1JoQ1VoNmhjYktuNzQ5Y0YxMG94eVZ1UUU0YlJKd3NPX01sNjJMWHNTaGNCX3VQTDI5Sy1jZXQyZG5QR1hqUHN5eDJIUE10SE5KT9IBugJBVV95cUxNT3BscTNYbG9raUNjZlcxTmtRMzZXVkZFQ2NMbHVxN3VLaWVkc1NBcnZEMEtvcGlWTWJoQ05Gd054dW1iYmxXN0lGeVRCTU1kYTVqR2Q5QVRvamhZc0dRV2RtS1FMZlRWamJXVnEteU1wek5TYUJ6bVNRWDhIVlFRaGZzbmhhYm9pcGtyNzA4dW45ckxkNkVzZU1NZm9JOEQxVVRqc3I2b2p6MGV4WGZESVp1R2ItX1o5Q1F4UEtHWUpzYzVfNVFCY056VS14X3ZITUFqelNvTGNWOWJkMXRvMVJhd0oya2QybVM5S1VVaDc2Qjc1aU5GWjJuZ2RDM2I4QTBtQnk5Q0pWSnl1NE5ycnpBdkJrM0k0MWtZOS0xMnR3TnFnUDBTdWQtaUJKSUZNeUx0RmpvODhrdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "NDA ally UPPL names MLA Joyanta Basumatary for Kokrajhar LS seat - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnNDbjg4QWF4WXk1NlFKNXVPMTQzMzZYZF9vQ3hqN3VVME4ycjF2SC1NQ09EN0U4MGJCZHhpNks3VFI5cmFrUzZqM2h2bFpTUkpUTThnTWFhXzFVRUV0MzFIWHhlRVlHdVIxc253SFY0M2RXZ3Y2MUxkMzBnREJaUDlQdHljVFhHSUQxLWVxbWJwbHU3allBeWtQTkRSTW9o0gGmAUFVX3lxTFB5Mzg1aUlDNGpxLVpPbDRNelF2ZEpob2c0WG80VU1wbUp2SDZTWEp1MVd3VHNYTGMzR3RnYWtzMy0zaEYxNGpRXzVhUG1OVE9SRUZYbmlEblZiZ1pVUHUydUtoeHRDYmxOeENqaEpnSU9ROEVOQ1ZEQlIwX1VCRkxWN3JseU5UY0dINjZaUHJISzZLNXVsLVVOSVBoczhId0NrSkp1d3c?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kokrajhar welcomes Amrit Bharat Express, hails boost to rail connectivity in Assam - India Today NE",
+      "source": "India Today NE",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSnpDZ0NOYVpxQmpWSUpuazBqWWpHbk1HV0xsZWs3ZzRZRDJzcVZ2cDZoaUJGdHByMTBmTkxyeGdkQWFENk04RnkwRVN0QkIxRkVWejR6MmpGMHBtcWpwZ3pxQ00zdzJpUVE1MGZxaWZVc1RLLVpvaTRiTmFQU1dLVEFPbmV4LU9udk5EaEFqMk9WTEVRbTY4NHBWRVNFYVlQb2M0VDZBbzhlczJtbTBRd0RxT1RCSDRRbGpDdzA1UWlqQWFIYjAyckVaT2tEMDR5SHUtM3E1UdIB3AFBVV95cUxQbVpOaU9vUjhoUkI0MTBZT0hKQjZZNUNWenU5U1lOVkhUTWl1S1gwM2hOTkFKYlNyZUwzUmp2aTFQbFNZZ3Q3U3pMWVlYQWtCUEtWc19EQlRQXzFjX3NqMlVsRDViSkctd2VYVmN2T3RNNldYRlptcjdrdzJ4UUdQQmRnZ1ltenE2SzB0czVaV2FkbmJFV3hZaGd3YzJTZm1XRkV4bEdER0VtNkl3ZGdRNmZMdXgwM0MySjN0UzhwYlcySUxFU1lmd1V2cDlpS29zbEZDUEpncmI2UXR4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kokrajhar lok sabha election results 2024: Kokrajhar Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczN5T3FnaFRHUjdKMU1vZzhleXl3WVhxbE8zdTk5dks2LXppQ0dXMUxCMnhJMG5LTnZpUVZYU1hmcDRYWF9xbnhUbEpSUzM0Vlp5M21YUVhpWWJlUlVJbkRVZzRIb2pWN3ZnbjVNTWRpc3h2TUlCWlZ5TFVncTVnQmdfQVU1LUxzdUxYQXNuMA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:05.650373Z",
+  "collected_at": "2026-09-02T14:44:39.810184Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +204,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.801160Z",
+        "fetched_at": "2026-09-02T18:38:04.259744Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +220,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.801170Z",
+        "fetched_at": "2026-09-02T18:38:04.259755Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +236,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.801176Z",
+        "fetched_at": "2026-09-02T18:38:04.259761Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +252,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.801180Z",
+        "fetched_at": "2026-09-02T18:38:04.259767Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +268,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.801186Z",
+        "fetched_at": "2026-09-02T18:38:04.259773Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +284,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.801190Z",
+        "fetched_at": "2026-09-02T18:38:04.259777Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +300,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.801195Z",
+        "fetched_at": "2026-09-02T18:38:04.259782Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +325,28 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/MLAof31No.SidliConstituency/",
+        "url": "https://facebook.com/https://www.facebook.com/MLAof31No.SidliConstituency/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:39:24.977442Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,27 +355,11 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Promod Boro To Lead Again, Says Kokrajhar MP Jayanta Basumatary - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "Add Bathouism in Religion Column, Urges UPPL MP Joyanta Basumatary Ahead of Census 2027 - Northeast Live",
+        "source": "Northeast Live",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUU92V3FsYVpKZUl6MTJrYmxwcWp5cTBIWS1lRzdiY1RjbzdWbWlhM2tBaktyNEEyaW5nU284eG9UdHZELUxRbkZsaEl2WC03aHZETWNOZk9fVjhiajJpQ2wzVDlveEs1c3JVTWZGc2kwZkpqUmZYbEhQaDIyX2NoVkRSQjZPMTBwa1RMUm9xdndxNUdiMVVfQzlha2o2UTQ4ejNvQjJGekJPRFh1ZzdXcU5aMjdmd2RkdXFnTWFqcDRiNmtlc0tLMVJhNWtSeVVhdFV0ckxleGZuSmhTakNNNExhLWg?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Bodo MPs demand democratic realignment and constitutional justice for Northeast - The Sentinel - of this Land, for its People",
-        "source": "The Sentinel - of this Land, for its People",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMXVtMGRUdTQzRVdZYUp5X1hhdWktLWlNTjdnbWhpdmFaSkljUUdua3hTYVRlNFFpYlo3VXcwUTNndUM0VHQ5WnM3TVNmZHcyVExYQV96azgyTnh2dVBIQlh2N2p2OGtEZ25pV2p1cjNtSEU5cmNrdk9hOXFVWHZvRHlpVEE1YkNhdFNlTUczSVNOWWVhN0NSckZQTXlVRlhOQWpjeG04bjN1bjU2UGMxekhnem1QdFZ0aDJjTlluNXZlOVNIXzJPdUY5UjdqbmtWVUdrMkRHMHZQQdIB5wFBVV95cUxNZEt6Y2ZBX1RiMUJRRWU0OE5CY3VWUzZqLV9TaVJKNHNYOWVsM1NSTUhEY05EY0tjU2huLWdnZzZiZWkySHNsWGRnSjhzSlB6SllQeVVpYmU5LW1tOXNCQUZTRmxKXzBwWm5jeHU0bURSN2tQRnFXUXVtTWl6MWh0NkxjaVB3UmFZbHZTLUxVOEdiM2VTRnd2UGFLQXYzZWNlcl81RkMtOV9Ha3g3eDRaY3dqaldEN0h6d1Vva0NFdFNWTzU0VU14cURGcG9VWTRpUWVaMTZnMzE2Vmphcm5LZGE1VDM4VW8?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kokrajhar welcomes Amrit Bharat Express, hails boost to rail connectivity in Assam - India Today NE",
-        "source": "India Today NE",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSnpDZ0NOYVpxQmpWSUpuazBqWWpHbk1HV0xsZWs3ZzRZRDJzcVZ2cDZoaUJGdHByMTBmTkxyeGdkQWFENk04RnkwRVN0QkIxRkVWejR6MmpGMHBtcWpwZ3pxQ00zdzJpUVE1MGZxaWZVc1RLLVpvaTRiTmFQU1dLVEFPbmV4LU9udk5EaEFqMk9WTEVRbTY4NHBWRVNFYVlQb2M0VDZBbzhlczJtbTBRd0RxT1RCSDRRbGpDdzA1UWlqQWFIYjAyckVaT2tEMDR5SHUtM3E1UdIB3AFBVV95cUxQbVpOaU9vUjhoUkI0MTBZT0hKQjZZNUNWenU5U1lOVkhUTWl1S1gwM2hOTkFKYlNyZUwzUmp2aTFQbFNZZ3Q3U3pMWVlYQWtCUEtWc19EQlRQXzFjX3NqMlVsRDViSkctd2VYVmN2T3RNNldYRlptcjdrdzJ4UUdQQmRnZ1ltenE2SzB0czVaV2FkbmJFV3hZaGd3YzJTZm1XRkV4bEdER0VtNkl3ZGdRNmZMdXgwM0MySjN0UzhwYlcySUxFU1lmd1V2cDlpS29zbEZDUEpncmI2UXR4?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU1BfRnowR3FobXRpbG1KbW11b25aZU04a0dDbWJibWk2Rml5cnhpRGJxQ1R1Qy1tYmxJSGxNaldJZzF5eG9SLWtlWnl0ZzV2bE9jdTF2QkI2eFM0M1o0ZHdSQ2NvcHpWNUkzenY3ZGZBdnJjdWY2RF8yRlR3ZHNxa2RsNEtVaDI4NEtHa0RiaDBCZ05nYjZHZDFBdUN5UUxGNU5jVS1UY3pIZWVuWXJneTFneUo0d2lrZWRRdkN4R1EtZ0w3VGlDYkZDdy1aMm1xdGVfaTJIaV9oeWFtQm1MQg?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -296,11 +371,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "UPPL's Kokrajhar Candidate Joyanta Basumatary Confident Of Winning LS Elections - Guwahati Plus News",
-        "source": "Guwahati Plus News",
+        "headline": "NDA ally UPPL names MLA Joyanta Basumatary for Kokrajhar LS seat - ThePrint",
+        "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcy1xTXo4S3IteV9nTVEzeWtTSGJrSlBaM3pYaHVLb3g4WWtLSkRhN0s5ODRIREdDSmU3dXh5NkRLcURhNFlXU3NMTlpYcHhrSk5MYjQweVdfelFEanJLTjR3aUNJSndjb0xBbUhuZmVFZlR4bzZtQW1pZjN1WmJuMzZZeWtRMjE2cUV6MmQ1T1huZko4MmxXbktwMFdwem9oU2I3eEtIMzNsTm02OVAwMU5qaVRrSjZBeFk4MjQ4cw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnNDbjg4QWF4WXk1NlFKNXVPMTQzMzZYZF9vQ3hqN3VVME4ycjF2SC1NQ09EN0U4MGJCZHhpNks3VFI5cmFrUzZqM2h2bFpTUkpUTThnTWFhXzFVRUV0MzFIWHhlRVlHdVIxc253SFY0M2RXZ3Y2MUxkMzBnREJaUDlQdHljVFhHSUQxLWVxbWJwbHU3allBeWtQTkRSTW9o0gGmAUFVX3lxTFB5Mzg1aUlDNGpxLVpPbDRNelF2ZEpob2c0WG80VU1wbUp2SDZTWEp1MVd3VHNYTGMzR3RnYWtzMy0zaEYxNGpRXzVhUG1OVE9SRUZYbmlEblZiZ1pVUHUydUtoeHRDYmxOeENqaEpnSU9ROEVOQ1ZEQlIwX1VCRkxWN3JseU5UY0dINjZaUHJISzZLNXVsLVVOSVBoczhId0NrSkp1d3c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kokrajhar welcomes Amrit Bharat Express, hails boost to rail connectivity in Assam - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSnpDZ0NOYVpxQmpWSUpuazBqWWpHbk1HV0xsZWs3ZzRZRDJzcVZ2cDZoaUJGdHByMTBmTkxyeGdkQWFENk04RnkwRVN0QkIxRkVWejR6MmpGMHBtcWpwZ3pxQ00zdzJpUVE1MGZxaWZVc1RLLVpvaTRiTmFQU1dLVEFPbmV4LU9udk5EaEFqMk9WTEVRbTY4NHBWRVNFYVlQb2M0VDZBbzhlczJtbTBRd0RxT1RCSDRRbGpDdzA1UWlqQWFIYjAyckVaT2tEMDR5SHUtM3E1UdIB3AFBVV95cUxQbVpOaU9vUjhoUkI0MTBZT0hKQjZZNUNWenU5U1lOVkhUTWl1S1gwM2hOTkFKYlNyZUwzUmp2aTFQbFNZZ3Q3U3pMWVlYQWtCUEtWc19EQlRQXzFjX3NqMlVsRDViSkctd2VYVmN2T3RNNldYRlptcjdrdzJ4UUdQQmRnZ1ltenE2SzB0czVaV2FkbmJFV3hZaGd3YzJTZm1XRkV4bEdER0VtNkl3ZGdRNmZMdXgwM0MySjN0UzhwYlcySUxFU1lmd1V2cDlpS29zbEZDUEpncmI2UXR4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kokrajhar lok sabha election results 2024: Kokrajhar Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczN5T3FnaFRHUjdKMU1vZzhleXl3WVhxbE8zdTk5dks2LXppQ0dXMUxCMnhJMG5LTnZpUVZYU1hmcDRYWF9xbnhUbEpSUzM0Vlp5M21YUVhpWWJlUlVJbkRVZzRIb2pWN3ZnbjVNTWRpc3h2TUlCWlZ5TFVncTVnQmdfQVU1LUxzdUxYQXNuMA?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +425,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 10,
+    "starred_questions": 3,
+    "unstarred_questions": 7,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 19.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +441,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

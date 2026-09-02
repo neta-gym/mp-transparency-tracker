@@ -4,16 +4,16 @@
     "constituency": "Latur",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 4318,
+    "myneta_candidate_id": null,
     "slug": "shivaji-bandappa-kalge",
     "house": "lok_sabha",
     "sansad_member_id": 5746,
     "profile_url": null,
     "canonical_name": "Shivaji Bandappa Kalge",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5746.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Latur",
       "state": "maharashtra",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 4318,
+      "myneta_candidate_id": null,
       "slug": "shivaji-bandappa-kalge",
       "house": "lok_sabha",
       "sansad_member_id": 5746,
       "profile_url": null,
       "canonical_name": "Shivaji Bandappa Kalge",
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/5746.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4318",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.286023Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:35:23.983576Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 322619499.0,
-      "liabilities": 23891845.0,
-      "net_worth": 298727654.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4318",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.286035Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 78.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 2.62,
-      "expended": 2.33,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:31:24.967371Z",
-          "notes": "Official eSAKSHI REST API — Works: 115 recommended, 30 sanctioned, 18 completed"
+          "fetched_at": "2026-09-02T15:02:25.665314Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:58:45.052842Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:58:45.049973Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 115,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 15.850340136054422
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:28:24.741718Z",
+          "fetched_at": "2026-09-02T14:58:45.048860Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Latur (SC) election results 2024 live updates: Cong's Dr Kalge Shivaji Bandappa emerges winner - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcW1ybG4zUXBKdmZ6aXZNdEpGT2lELVFUQnFIaFBxWHRILUk3a3dKekVjTUhUWlBhQVhFSzVyR2c1aldnM0pvOTh2UmZfVWFUNXlDQ2V6eTVMOUpPWHIxbkJwYnNUNWdJNURUVC1kSk8xb2lkaFJZQ3N6cHZ1aFpXSnpNb0ROSG03Xy0xbjRWQ3BLUGRpODA0bk9yN2lETmY2cmNPVzdSQlQ2UlFMTVBsWXoxQnNtLU82Y0RlcFp1VS03dlExbEJlOHFnc1g1REtDN0VvVUtpY2RTSEpkallTOHNGNHV1MEhHSjFjejYycjdHWVlZcEcwbi1JVnVhTGFRVnpfTV9jRk9wMWPSAZACQVVfeXFMTWVMbkpWUE5MNVBzZk5tTVNfeVM2dko2WldRdndhdGRBSE9kRS1sZ0ZyaGlVY1JBM1ZnTjJUOXFTc252OTJweGxtTFFXZlhFNy1pRGFtY0pDb3pWMml5clRiX3EtUVFSS1psSWlOQ0ZyNXFQcGMwOGtJQ0hqZnRiU0pJQkdpRGFwZzhKNU1UT2lqR2g5bTdYVnplbGpfY1E1bUhtVU1NVjNYUUdVdTZ1Wk1meFVrVjJmU1JBMER1cHlaUVhGUU1RZFktUlo1S2cxb2oyQTVtS1FSanVvS0Z5RGhqa3JYZlg5SGRmRUMzdUMxSDRWaW1zc2UwX1h2SEJ4MWFkV0pKRGU1LUNVdU1zSmo?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Petition challenging Lok Sabha election of Congress MP SB Kalge dismissed - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWlh5dHdzS0w2bldMNUlrS1pQb1VlTFJBRzFzWENBMHRoeVI3T1ZROENITlFtTV9oZDlIRmJSckt3cVprbzZnYjQ4bHN1dXg0NWx5VUNZbTBoMnp3Yldfc0d6VWRXaXdybDZEME5RTW5UWWoyLWh4bUs3MkR0MVg4cmpXcG9FUjBaOEJoZmdFenpWVzh4UDNaQlBMTm13VUhOQTFfSmxxOTQwSEFzcDVxU3o2NEpMeFZTTldNUDFCME53Z1BIaHZJ0gHMAUFVX3lxTE9kaUoxZ1hrRThacDJjZFdnazdvV3FRYlJMMXhZaDQzQWJtMzE3amNHUnNJWW1zMnREbFNoSXI1OUFYMmtRWlZVOWpoMjBNYkxFMHY4a1oyaVYzN2JManRDVlE3THNOZk1zTWVTVGVuOWFOamI4V016T0dnMnNkWk5yRVdCVFRDWFhiODBKSjJ2WTRnNFhSYldtTGVMVmtQcXBfeVBnNmJoZ0xBNGxkZF9qeVRDS3VNNHlVZ3RTZWlIaUNsamVpRXYtN00yQw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Petitions bereft of material particulars’; Bombay HC dismisses plea challenging Congress MP Shivaji Bandappa Kalge’s election - SCC Online",
+        "source": "SCC Online",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHp0UkFBN0I4MzhnT3E2N3ZBRnE0OEc1cmdfRUd4SVBScjFQV2pqMFRRMFNhM3l3dVBRaG9lM2xEWXpzbzJwbUZMOUo3ZV9PXzBZbm1Lc2RJWXlQLWhMOFp0bEFvN2x2dDB1cWs2VjRaUFVUcm1obC1SWGZzTEJxbUV0b1VjTWRKbERzZUJIdElxZ3J1dUdXVTU3MFVpVmtzdlFoVlF6WmxxdWVsa1pfVkxaczRtLWx6UHpLQjE0VEM4YWs?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Riteish, Genelia Deshmukh cast their vote in Latur - Awaz The Voice",
+        "source": "Awaz The Voice",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYklaVGp6dWlhZVhKVjVBdHpwQ3lUTWFlZzMzNEIwQm1YNnYxZ3Z2cGpycDlVZEZTR3o3eURLM01nUXFCQUl6cUpWOTNrdWUzYlVVT1EyU19jeTgtZlY0d1ZsUnBZOUh1eGZxTk5JSzRxWHFMVktBSFU5bksycUNWS1BwcmR6SnhPQzhzTmRMQUQ1amVIaVoxeThONHVpcUhH?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:29:23.977436Z",
+    "collected_at": "2026-09-02T15:02:25.666508Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.782707Z",
+          "fetched_at": "2026-09-02T18:38:08.322837Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.782723Z",
+          "fetched_at": "2026-09-02T18:38:08.322848Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.782732Z",
+          "fetched_at": "2026-09-02T18:38:08.322854Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.782741Z",
+          "fetched_at": "2026-09-02T18:38:08.322859Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.782751Z",
+          "fetched_at": "2026-09-02T18:38:08.322865Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.782759Z",
+          "fetched_at": "2026-09-02T18:38:08.322870Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.782766Z",
+          "fetched_at": "2026-09-02T18:38:08.322875Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,17 +322,42 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/shivaji.kalge/",
+          "url": "https://facebook.com/https://www.facebook.com/shivaji.kalge/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/dr._shivaji_kalge/",
+          "url": "https://instagram.com/https://www.instagram.com/dr._shivaji_kalge/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:58:47.376449Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 9,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
           "headline": "Latur (SC) election results 2024 live updates: Cong's Dr Kalge Shivaji Bandappa emerges winner - The Times of India",
@@ -306,14 +376,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "“An Erroneous Decision of the Caste Scrutiny Committee Can’t Be Challenged Through an Election Petition”: HC Rejects Petition Against Congress MP Shivaji Kalge’s - LawChakra",
-          "source": "LawChakra",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhPck43TnVvUWQwbEw0bG9JcHpkcERaWWZORUZrNUlGS2NFa2wzbjhjc0xPQkMwbUxoWFlzWWgtVGU0Mjk2S3pYSGFTQ2FnYkkxMVdMd01zWVZXOWJEMnlfZVVJeWk1VkpGYTlUT0lDOEJGc3pCTGhHRVZiNHV4NjY1NEpYZ1otNmVaRjhsZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "‘Petitions bereft of material particulars’; Bombay HC dismisses plea challenging Congress MP Shivaji Bandappa Kalge’s election - SCC Online",
           "source": "SCC Online",
           "severity": "low",
@@ -322,15 +384,23 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Latur Election Result 2024 Live Updates: Congress' Kalge Shivaji Bandappa Has Won This Lok Sabha Seat - The Quint",
-          "source": "The Quint",
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+          "source": "Sarkaritel.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ1VsdXhwWlREZ0tiTzBRcHZ0WW5JSFhFNWVHWXkxcVZKUGVhYmVscjk5MDZRcWhWM3NEa2NSOV9XWlg2eWhEQnpfcE4tTFVhWjFjeTdkWlN0YWwwTWlOMDNiSTdPQ285VGRXcXRYaXZtZGtvLWZxejhhUVZCTk1UZ1YySE52VDk4cy1aUXZmZ3JaQnBPdnFrbll3MlNJNVJjNzNsQmFSbEVyTGJHc3hLamtNLVRYaW1iakRxZHdfZUhZaE8y0gHSAUFVX3lxTE5sWTlkcVBHZTJMMGwtOTVlVW02V2stSlFKRmYxQVAtRWZ4Ump3NFRXSExlYnlQSXJacUxUOEw0V09MZFhWXzFKYWxaQ3FLMmtjWThKNWoyZVltVWw4UVFPTG5XbjBRbml2WnlFdDRJWmExS3J0bUs3U1A5M3RoZDJkakF4R08tLWRjLU9HcGRhb2xZak5iLWhNZm9LUzVnVFdVZFNIQnVHMllXblhTaTdCcjRIekg3cWlNckFDcHdEeXhrbjNqbnZtY3ZfS3h1RTc5dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Riteish, Genelia Deshmukh cast their vote in Latur - Awaz The Voice",
+          "source": "Awaz The Voice",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYklaVGp6dWlhZVhKVjVBdHpwQ3lUTWFlZzMzNEIwQm1YNnYxZ3Z2cGpycDlVZEZTR3o3eURLM01nUXFCQUl6cUpWOTNrdWUzYlVVT1EyU19jeTgtZlY0d1ZsUnBZOUh1eGZxTk5JSzRxWHFMVktBSFU5bksycUNWS1BwcmR6SnhPQzhzTmRMQUQ1amVIaVoxeThONHVpcUhH?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -360,15 +430,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 24,
+      "starred_questions": 7,
+      "unstarred_questions": 17,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 46.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +446,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +477,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +504,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 322,619,499. MPLADS utilization: 15.9%. Parliament attendance: 90.0%. Questions asked: 24. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:50.783795Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 24. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.323609Z"
 }

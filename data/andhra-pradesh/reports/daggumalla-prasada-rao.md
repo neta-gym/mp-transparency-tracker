@@ -76,8 +76,18 @@
 - Delimitation and women reservation bills will be inevitable, says Chittoor MP - The Times of India (The Times of India) [neutral]
 - Chittoor MLA surrenders his gunmen, later withdraws decision - The Times of India (The Times of India) [neutral]
 - Former IRS officer sees big scope for ‘MSMEs revolution’ in Chittoor - The Hindu (The Hindu) [neutral]
+- Alliance with NDA is only for the State’s development, says TDP’s Chittoor MP candidate - The Hindu (The Hindu) [neutral]
 - Chittoor MP highlights IAF’s role in national security and self-reliance - The Hindu (The Hindu) [neutral]
-- Chittoor Election Result 2024 LIVE Updates Highlights: Daggumalla Prasada Rao of TDP Wins - News18 (News18) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Delimitation and women reservation bills will be inevitable, says Chittoor MP - The Times of India** (The Times of India)
+- ! **Chittoor MLA surrenders his gunmen, later withdraws decision - The Times of India** (The Times of India)
+- ! **Former IRS officer sees big scope for ‘MSMEs revolution’ in Chittoor - The Hindu** (The Hindu)
+- ! **Alliance with NDA is only for the State’s development, says TDP’s Chittoor MP candidate - The Hindu** (The Hindu)
+- ! **Chittoor MP highlights IAF’s role in national security and self-reliance - The Hindu** (The Hindu)
 
 ---
 
@@ -139,7 +149,7 @@ No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 51. D
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

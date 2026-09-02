@@ -4,16 +4,16 @@
     "constituency": "Salem",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 176,
+    "myneta_candidate_id": null,
     "slug": "selvaganapathi-t-m",
     "house": "lok_sabha",
     "sansad_member_id": 407,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
-    "profession": "Agriculturist, Real estate, Money Lender",
-    "age": 65,
+    "education": null,
+    "profession": null,
+    "age": null,
     "photo_url": "/mp-photos/407.jpg"
   },
   "findings": {
@@ -22,107 +22,118 @@
       "constituency": "Salem",
       "state": "tamil nadu",
       "party": "Dravida Munnetra Kazhagam",
-      "myneta_candidate_id": 176,
+      "myneta_candidate_id": null,
       "slug": "selvaganapathi-t-m",
       "house": "lok_sabha",
       "sansad_member_id": 407,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
-      "profession": "Agriculturist, Real estate, Money Lender",
-      "age": 65,
+      "education": null,
+      "profession": null,
+      "age": null,
       "photo_url": "/mp-photos/407.jpg"
     },
     "criminal_record": {
-      "total_cases": 2,
+      "total_cases": 1,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 2,
+      "pending_cases": 1,
       "disposed_cases": 0,
       "cases": [
         {
-          "description": "Details and present status of appeal",
-          "ipc_sections": [],
-          "is_serious": false,
-          "is_convicted": false,
-          "status": "unknown",
-          "court": ""
-        },
-        {
-          "description": "",
+          "description": "569/2013 Veeranam PS",
           "ipc_sections": [
-            "569/2013 Veeranam PS"
+            "147",
+            "148",
+            "294B",
+            "323",
+            "506 (ii)"
           ],
           "is_serious": false,
           "is_convicted": false,
-          "status": "unknown",
-          "court": ""
+          "status": "pending",
+          "court": "Judicial Magistrate court No.IV, Salem",
+          "fir_no": "569/2013 Veeranam PS",
+          "case_no": "CC.230/2016",
+          "other_acts": "",
+          "charges_framed": "Yes",
+          "date_charges_framed": "08 Nov 2016",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
         }
       ],
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=176",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-05-23T18:17:17.306499Z",
+          "fetched_at": "2026-09-02T15:36:30.180969Z",
           "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 136811976.0,
-      "immovable_assets": 617210000.0,
-      "total_assets": 754021976.0,
-      "liabilities": 280309918.0,
-      "net_worth": 473712058.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=176",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-05-23T18:17:17.318201Z",
-          "notes": "MyNeta candidate affidavit data"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 89.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 0.0,
-      "expended": 0.0,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T18:20:16.922404Z",
-          "notes": "Official eSAKSHI REST API — Works: 17 recommended, 0 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:58:11.880975Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:54:31.209326Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:54:31.206983Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 17,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 0.0
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -137,7 +148,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:17.261119Z",
+          "fetched_at": "2026-09-02T14:54:31.206070Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -145,22 +156,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "No big projects in five years, growth hit: Salem residents - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEJiZTcwbThqUjFXX2s2MF84OXNldUxkSmRXVHJ2TDVUUHBZOEhMZHdYMk9tbUVkWTlUUE94anN4dUpmMW9SWHRVMmJiTXhsdTVnQlJRWmZUenhmeHNPZW1wdF9kVXhyQ3J6Y1pYdHpnS0h0dExTVV9UdFVxaDZIdHNqZTRiNk9fdUhvYzZIZjk0MUJTRVdEbDJRUzhldEdCMnNtMVdPSXRnNGdSTk81S1piWHVta19tYkdr0gHIAUFVX3lxTFB3bmQtT1ZTeURNdzRyTEx1U2JFZGpIaXNZMy1tYm9IekRka0x4NVpMNl9IdVlyVUJtT2lmM3FDZkdwU19waGhXVFB5R2V6NFRoVEgyZ2Q4b2Z5WFBISGViME12WVczS1NvbnNXLWt0aXZ0UUpNc2p0UGVTVGR5cDBQdmpYaEstQ0hSOVIzNkpNdUZWMG9WMldQLVNuMmR4dnVHTS1rWl8xM3p0U2x6aUNKNnF3Wkp4M0F0bmZ5LVdoZnRoVTNLZnFI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Vice President inaugurates the new academic building of Indian Institute of Handloom Technology in Salem - pib.gov.in",
+        "source": "pib.gov.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlbEV1d2o1MjJ6Wm9kS3lqdmpTVXQ4SzU0TGV3LW5kZGJNd3NLZzZyaHhnRjcwWnlkNXRwX2lkNExITzEzeW9yb0NOOEFyYmFTb20xQW1jT2dNUmdJRXFLbVBuWTV1ckJ4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Salem election results 2024 live updates: DMK's Selvaganapathi TM wins with over 5.66 lakh votes - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNzJoNV9NWHlKZWVtSVczRDVKT0RpX3lHSVlVT3hUVE5qdnMwbGFTeGRDcGxPMzFBSV9QLXhlUFN3dzRrZ1dDTU8wajBPaEtiOXFkbWVyVm9HQnlDc1JuQTg4d05abGx6UzM4S3ZnWFQyQ3MyMV94c0RZU0dqTjlOaUo2S1VXeVlrdmtQOURpWUlrcF80WnItUnJlTTVvclFncFhVRkd1LTF5ZnVCWG5qck9iT0pxWndNZVJUSTctS3ZwYzhpOVNYdy12aGZ4bDJEQnE3bVVMMzd0RDNvbjZ0dkptZlJiWUZYR09xeWpnMFRSSmVtd3JuNHdBUUE1NVYwdnFJbTd0ZGZRTmUySElHNElDVThKNnN5VHRXTjRlVUQ0S0lpQjRyZ09leGpPOW4wUWlB0gG4AkFVX3lxTE1xa2ZINEVJSW83a0Q3dXU3XzFTUWQ5VENRbFR6THlKa0NUTmI0MkNfNExGdGZvaXI0N2hmenlJczNHM0NGVTZ3RVkwWnJJZ0tkYkw2eEFPc1FzSER5YkNCVDlaVXZIdUplU0wzSl9EZEpnWHdXQW9DdWFSLXNuYllGZEh1bWpVMU1Kb1Q4Yzl6VXNkWlRSeFdtTElVVGY0XzhDdnZWUmhHdHIyWFJyT240d0haYnZOTjBzY3lvcDVzS1lYYUFZQnZxcWF0RzVvVEhxYlV4SFlmbjQya1F4aldneUZBZXJMZ1FIbi11emt2QjJJbGhjTktVSVhlUklQQ01uVXpFd2xZdUxWSHAyVFNRTWdOMlJEWWluSldiTm9ZVmw1LVgxbm9qVDN3Z3cyM0VwcDdWZFpTMg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "DMK, alliance parties stage demonstration against SIR in Salem - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnpVLW84MlJqVkhKQnZrV0pkcmlNM0FzSFE1N0h5WU1DOGxpN0tnNk96Z3BoclJIT3ItU0Z3dGQ2MGxPTTFwV0U3clc0Q3lmekRuYzVBRkZETmVMdzVCeGt1VTlEMjE3TUR0U0V0bTlaUWdjUmtsSjYtdG1LNmxMTHowUGZna0VkS2xZeVExcWFWVjVXTmNXMnBwbWxhanV1X3pzWnkzUGNZeDBjU2xMbXpuTGloMUNtOWk5RGVJMUY0ODdIekwxZtIBzwFBVV95cUxOYkJVejJqUXUwSHJnTkRjMHE2RHlmcm9pM1ExYjNzb2xWTlNvRjlKZDRiNmVGaVQyR1hOUldibnptbVprTWlJSnRGNkRNYmoxamtlM25yVU9vSk1meWtEbTg0SU5jcDZJZXc0VlZZWm9TcHpYZTRHR0NNQWFFd0RyOGRJUFBmeGhpc3REVXo2MzRHYzRaTlZOWElyYTAzZWxfNXM1el9rX2xfc1F0RWNDX2VWMUVYR05IeHRvQmhuSXpUcnRObEJzbWh0ZWdWWms?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Despite Divisional HQ status, Salem Junction lacks key pit line facility - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUFqdUZlVXlhRV9rN1FsQnloYk5jREVGRGFNZjh1R3JlckdOMjFmaC1jOGExZUJMM3FDMnVVcm9IUU9LRzBHZ3pySEtIbHBRV3N1NWExMENlc1Foc1FuZk02dFIwT2YyT09sYkpKSkZ6emV3ZmxEbzR5Wm5jVUlOMkJObzExNGYzV2lYYWVOUlFuUHhTQU50NGtUM0pYLTVqN1lEOUN5ME9DeUdGcS1RbElDR0pvVFJENHYtRkZnTVRjVFBqeGVET3JSVEo3ZF96cUHSAd8BQVVfeXFMTXlfOWNObl9UeEtodGtWMTh1ZmZ5Z2JQaXhUQkRRS05WU1lJV2pQMVp5dlNrZ2s0QjNPSUEyOXlyYlY2LS0zT2NXY3IxWTU0UW1HVW1ETFdQbTJrbDNWWlN1RVIwQzVXcWdvdjAzNm1RQlUxd2RrT2lVeFNtWGVNamlacXVENXR0TzBWWGFtdDk5cnFLcmxhQ3NVSDEzVVYxcHBNamtaUjd2ZnMxTVI2cE1HU01mam0wbFRDN1FFVzMtajBiakswSU95MmNlNFp5aWswX2VDM0hnZFFIOXNNSQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:32:18.859979Z",
+    "collected_at": "2026-09-02T14:58:11.881948Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -175,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.711806Z",
+          "fetched_at": "2026-09-02T18:38:10.225529Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -191,7 +241,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.711815Z",
+          "fetched_at": "2026-09-02T18:38:10.225540Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -207,7 +257,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.711819Z",
+          "fetched_at": "2026-09-02T18:38:10.225546Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -223,7 +273,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.711824Z",
+          "fetched_at": "2026-09-02T18:38:10.225552Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -239,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.711830Z",
+          "fetched_at": "2026-09-02T18:38:10.225559Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -255,7 +305,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.711834Z",
+          "fetched_at": "2026-09-02T18:38:10.225563Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -271,7 +321,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.711838Z",
+          "fetched_at": "2026-09-02T18:38:10.225568Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -296,56 +346,89 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "@tmselvanganapathi",
+          "url": "https://x.com/@tmselvanganapathi",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "tmselvanganapathi",
+          "url": "https://facebook.com/tmselvanganapathi",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "tmselvanganapathi",
+          "url": "https://instagram.com/tmselvanganapathi",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:54:33.761240Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 2,
-      "neutral": 8,
+      "negative": 0,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "No big projects in five years, growth hit: Salem residents - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "No big projects in five years, growth hit: Salem residents - newindianexpress.com",
+          "source": "newindianexpress.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEJiZTcwbThqUjFXX2s2MF84OXNldUxkSmRXVHJ2TDVUUHBZOEhMZHdYMk9tbUVkWTlUUE94anN4dUpmMW9SWHRVMmJiTXhsdTVnQlJRWmZUenhmeHNPZW1wdF9kVXhyQ3J6Y1pYdHpnS0h0dExTVV9UdFVxaDZIdHNqZTRiNk9fdUhvYzZIZjk0MUJTRVdEbDJRUzhldEdCMnNtMVdPSXRnNGdSTk81S1piWHVta19tYkdr0gHIAUFVX3lxTFB3bmQtT1ZTeURNdzRyTEx1U2JFZGpIaXNZMy1tYm9IekRka0x4NVpMNl9IdVlyVUJtT2lmM3FDZkdwU19waGhXVFB5R2V6NFRoVEgyZ2Q4b2Z5WFBISGViME12WVczS1NvbnNXLWt0aXZ0UUpNc2p0UGVTVGR5cDBQdmpYaEstQ0hSOVIzNkpNdUZWMG9WMldQLVNuMmR4dnVHTS1rWl8xM3p0U2x6aUNKNnF3Wkp4M0F0bmZ5LVdoZnRoVTNLZnFI?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "DMK betrayed women: Madhya Pradesh CM Mohan Yadav - The Times of India",
-          "source": "The Times of India",
+          "headline": "Vice President inaugurates the new academic building of Indian Institute of Handloom Technology in Salem - pib.gov.in",
+          "source": "pib.gov.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUk8tNzBBMkExeGRxUEhTT0h3cEtwZWdKelpZeUhGMk1odGktRUhOYlNUeWlqT0haU0szWUxHZXJUZnhtZkx1T1ZZdm40enJRUkhPZGJXT0E2Wms2Z1JadGRXOS01Z2NPODBoR2JlaXQ2WFVUWE9vSHdMRWxQeF9ieldBdEVoOHpuMDlma0w3M1BUU2Z6ZmxaaU4xX0pOMnlpd1lmUzBNSGtWRmt1VW9VaS1QVU9iYWZQWUhfeWVR0gHDAUFVX3lxTE1mODY4QjVEek4tVF84Tk0tck9TWXNKRHRVUXBoZEdfQUx2ZkQ0YTMzeHBic3hlMHF4dE81bWtQdWdjckJuU18wTzJRcXVtV0FNY29mTVZrUVNBTHpxRHBwV1NxWkdsZGZuTXJMVzEwOFRBWVVUQzBBVVV6cHh3VnpoMEtTSlBHc0hjV3dKdlFweVpLcGFoOGo0YXFvUFgwSmVwR0VMMnUwLWVYakdLYkFIUl9KVTl0dk9Gd2I2TmJPdkV4cw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlbEV1d2o1MjJ6Wm9kS3lqdmpTVXQ4SzU0TGV3LW5kZGJNd3NLZzZyaHhnRjcwWnlkNXRwX2lkNExITzEzeW9yb0NOOEFyYmFTb20xQW1jT2dNUmdJRXFLbVBuWTV1ckJ4?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "AIADMK MP Inbadurai files complaint with CEO alleging MCC voilation - ANI News",
-          "source": "ANI News",
-          "severity": "medium",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFhiVHhMUmJqM1JPejAzVnowVDJIaTdvb2M2SE9LYnZGR1pzeUFnMFpnc013RFRMdkpvazBvSTVOSE5iT0t2Ynd1LWRvb1pjSnlxcjFZQ25BR0lpZHZ2RXQtc0pENFFqYVJWVXFyaXZJdkg1Y1RCNjZBTUlPTGhLNmZTVXdwcmhXemllUjNKcUIxUnBVZU5yWG1vS21ZMUdFM21LNmJoUFhySWZmUmNRUFNoN3Z5WHhtcHgzOGdvVnN2Q0tHTEE?oc=5",
-          "sentiment": "negative"
-        },
-        {
-          "headline": "2026 TN elections | DMK workers stage protest at MP SR Sivalingam’s residence over Veerapandi candidate - DT Next",
-          "source": "DT Next",
-          "severity": "medium",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXBacm9Seko5YUotQkN1czZoQ2pFRzZhYTM5NVFTOXFVYm13ZnNYUVpwWmw4NGRfd3VhaGU4YWQtWFF3VmVaZnRZTldzWUVuQmZzUi1GdjJvSlJ3a2F5OXMzdzI3azltaDRhX0wtM3BoaTJvVWxoXzZXWFFfQ2JlRC1MVTFmdE1jdDNNWFB6MHJKVzV4NnFIc2c3RFZOYm5weUNwTGR4LTZGc3I3ODBjcVRkakR2eHUzMGhmM1RncUZrNGdjSFlGVFRXZU9VQlhpaWfSAd8BQVVfeXFMUGJxUjdVSzk1MFA4YnUzN01YX2Q3akNFMHBmTHdCdkFCQzBMTG9RdzZwWjBfNEZsZl9JbXlVazE3TVFucnpwcFBpYjlGdnVIUDBFYmtxbEFQeTkxcU9TYzRLTV9YdzJ1cUVsMC1zQUhXZGhzWnRSaWxPbnMyOGtoNVM4SzZ2Rk9BaFpoeVFkRzlHa2dLRkY3V2JwOVg0RElWeUx0SnBJQm0zY3AtcGpmRXl4RWhRUV9GY2JOeGdUZTlXTDVuOThjVC1KVnB6aS11T2c5ZHlTc0Q1amJtY2JqOA?oc=5",
-          "sentiment": "negative"
-        },
-        {
-          "headline": "MP: नशे में धुत कार चालक ने 3 लोगों को कुचला, 2 की मौत और एक गंभीर - AajTak",
-          "source": "AajTak",
+          "headline": "Salem election results 2024 live updates: DMK's Selvaganapathi TM wins with over 5.66 lakh votes - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakhSaFYtc3VsTE16dDdSSWpTMVMweHhaTWtlQ050V1AzV3FRbFB1YUlfNEJRZDQ5eFBwWDAtRHVCczBFZTBfQU1ic2xPMklac3M0THFmWFlNNHZyOVRLUnRJcnUwWERqeVB0MTBhQ2dVUlo5ZndQdWZPRHNwTWZQWURfdTdoMmpKRFpOUjNCdmhydG1QRlJvMEFFb2FyWGlTQ3daQVNRTEhkTV96NF9JSkJ4Zzg0RTRzY25yYmpfeWZOM1nSAcgBQVVfeXFMTl9peEYwZkZhZEZvblJETDRVWnB0WmgwVFJiMUJiRXUyaUpmbTJVSHdVd0ZQS0NxWjBMQzhLLTJlZ2ZXYnF1c0RJcFVzZGlGQ0xneGRtMklUOFFZMVpyQzB5bFRUaVdVaGxJWjVyUnkyRlhFT19WS2d0Ujkya1ptWDYtVW9DZ3RsTGJSM2laZGI0bkV1amRvbFNndV9XSkI0akxBeGROaWdaV2Q0bWhRV1JFTHdhaTBnZ1JHWV9BTWVpQjZNN1VqMXE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNzJoNV9NWHlKZWVtSVczRDVKT0RpX3lHSVlVT3hUVE5qdnMwbGFTeGRDcGxPMzFBSV9QLXhlUFN3dzRrZ1dDTU8wajBPaEtiOXFkbWVyVm9HQnlDc1JuQTg4d05abGx6UzM4S3ZnWFQyQ3MyMV94c0RZU0dqTjlOaUo2S1VXeVlrdmtQOURpWUlrcF80WnItUnJlTTVvclFncFhVRkd1LTF5ZnVCWG5qck9iT0pxWndNZVJUSTctS3ZwYzhpOVNYdy12aGZ4bDJEQnE3bVVMMzd0RDNvbjZ0dkptZlJiWUZYR09xeWpnMFRSSmVtd3JuNHdBUUE1NVYwdnFJbTd0ZGZRTmUySElHNElDVThKNnN5VHRXTjRlVUQ0S0lpQjRyZ09leGpPOW4wUWlB0gG4AkFVX3lxTE1xa2ZINEVJSW83a0Q3dXU3XzFTUWQ5VENRbFR6THlKa0NUTmI0MkNfNExGdGZvaXI0N2hmenlJczNHM0NGVTZ3RVkwWnJJZ0tkYkw2eEFPc1FzSER5YkNCVDlaVXZIdUplU0wzSl9EZEpnWHdXQW9DdWFSLXNuYllGZEh1bWpVMU1Kb1Q4Yzl6VXNkWlRSeFdtTElVVGY0XzhDdnZWUmhHdHIyWFJyT240d0haYnZOTjBzY3lvcDVzS1lYYUFZQnZxcWF0RzVvVEhxYlV4SFlmbjQya1F4aldneUZBZXJMZ1FIbi11emt2QjJJbGhjTktVSVhlUklQQ01uVXpFd2xZdUxWSHAyVFNRTWdOMlJEWWluSldiTm9ZVmw1LVgxbm9qVDN3Z3cyM0VwcDdWZFpTMg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "DMK, alliance parties stage demonstration against SIR in Salem - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnpVLW84MlJqVkhKQnZrV0pkcmlNM0FzSFE1N0h5WU1DOGxpN0tnNk96Z3BoclJIT3ItU0Z3dGQ2MGxPTTFwV0U3clc0Q3lmekRuYzVBRkZETmVMdzVCeGt1VTlEMjE3TUR0U0V0bTlaUWdjUmtsSjYtdG1LNmxMTHowUGZna0VkS2xZeVExcWFWVjVXTmNXMnBwbWxhanV1X3pzWnkzUGNZeDBjU2xMbXpuTGloMUNtOWk5RGVJMUY0ODdIekwxZtIBzwFBVV95cUxOYkJVejJqUXUwSHJnTkRjMHE2RHlmcm9pM1ExYjNzb2xWTlNvRjlKZDRiNmVGaVQyR1hOUldibnptbVprTWlJSnRGNkRNYmoxamtlM25yVU9vSk1meWtEbTg0SU5jcDZJZXc0VlZZWm9TcHpYZTRHR0NNQWFFd0RyOGRJUFBmeGhpc3REVXo2MzRHYzRaTlZOWElyYTAzZWxfNXM1el9rX2xfc1F0RWNDX2VWMUVYR05IeHRvQmhuSXpUcnRObEJzbWh0ZWdWWms?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Despite Divisional HQ status, Salem Junction lacks key pit line facility - newindianexpress.com",
+          "source": "newindianexpress.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUFqdUZlVXlhRV9rN1FsQnloYk5jREVGRGFNZjh1R3JlckdOMjFmaC1jOGExZUJMM3FDMnVVcm9IUU9LRzBHZ3pySEtIbHBRV3N1NWExMENlc1Foc1FuZk02dFIwT2YyT09sYkpKSkZ6emV3ZmxEbzR5Wm5jVUlOMkJObzExNGYzV2lYYWVOUlFuUHhTQU50NGtUM0pYLTVqN1lEOUN5ME9DeUdGcS1RbElDR0pvVFJENHYtRkZnTVRjVFBqeGVET3JSVEo3ZF96cUHSAd8BQVVfeXFMTXlfOWNObl9UeEtodGtWMTh1ZmZ5Z2JQaXhUQkRRS05WU1lJV2pQMVp5dlNrZ2s0QjNPSUEyOXlyYlY2LS0zT2NXY3IxWTU0UW1HVW1ETFdQbTJrbDNWWlN1RVIwQzVXcWdvdjAzNm1RQlUxd2RrT2lVeFNtWGVNamlacXVENXR0TzBWWGFtdDk5cnFLcmxhQ3NVSDEzVVYxcHBNamtaUjd2ZnMxTVI2cE1HU01mam0wbFRDN1FFVzMtajBiakswSU95MmNlNFp5aWswX2VDM0hnZFFIOXNNSQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -379,15 +462,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 44,
+      "starred_questions": 13,
+      "unstarred_questions": 31,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 85.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -395,17 +478,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -426,11 +509,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -447,12 +536,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 754,021,976. MPLADS utilization: 0.0%. Parliament attendance: 85.0%. Questions asked: 44. Debates participated: 9. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:52.712632Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 85.0%. Questions asked: 44. Debates participated: 9. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.226277Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Kaziranga",
     "state": "assam",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 732,
+    "myneta_candidate_id": null,
     "slug": "kamakhya-prasad-tasa",
     "house": "lok_sabha",
     "sansad_member_id": 4739,
     "profile_url": null,
     "canonical_name": "Kamakhya Prasad Tasa",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 49,
+    "age": null,
     "photo_url": "/mp-photos/4739.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:08.993613Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 20017297.0,
-    "liabilities": 1586170.0,
-    "net_worth": 18431127.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=732",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.501710Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 17.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.55,
-    "expended": 0.25,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:19:24.350498Z",
-        "notes": "Official eSAKSHI REST API — Works: 87 recommended, 57 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:56:39.804596Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:52:45.096828Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:52:45.094550Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 87,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 1.7006802721088436
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:28.939327Z",
+        "fetched_at": "2026-09-02T14:52:45.093680Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Centre Details Assam Tourism Projects in Lok Sabha After MP Kamakhya Prasad Tasa Seeks Plans to Boost Footfall - guwahati Plus News",
+      "source": "guwahati Plus News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSUdpLVpEQXZ4cnBUS09faXNoczZwbEQwNVZGVUdXOGptdi1aQjV1Q19CQWsySnhDTTJfOU1rRThuQ2tKU043MXVVZWp3ZXVaNlA4c2hoVHJHZEhDaGY4TWxRa2N3dzhIejZDSGZFUzJ2bUxWRk90Q3JaR0xGQVhrSEhlbk1SWkFyZ2dwbUlqOUpCMDJybTloUzZXYWZ1ZkpNSTRNdjVKeXFic0QxeEtZT0dURGVjZDJUemxzWGtWTi15Ul9GR2Ita0ZQX1hRVWtsR0dZWGNheXF2V2FMSlE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Adivasi student body slams MP Tasa’s 'Christians don’t qualify for ST status' remark - The Assam Tribune",
+      "source": "The Assam Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWF9DNGFzZXcycXoxd1V4cmdtUzNQNzVUd3lNUmtVM1VpQ2t0czlCaTQwdU1jeEpsNTV4NzNNQUo2UTAzUlZJQUJoMW41bEF6Q2JMcGZDTHoyek1WWUc4Zmp2OTBtWkhvdmx5ZEh2d2FURWxKZnJkWl9nNzRrUGNqVUZNR1Y5dWNJZU41aE1SdkpfUUV2YTRvclZWaTdlSEF5NE1RREc0UEpjQW40bXJnY1ZjV2RUdGJlVXpjQ0EzUG1HbGlB0gHKAUFVX3lxTFBsT0FJdlQ1WHdLeFJORzZFQjlkaEN1czJ1U2dINmVfTk56V3FVZ19BQ0wyeEItbzZEcktmQ0tCQUgtb2xySlZPa0wwamdaTW5lb1NWTFA3MXc3eXRIWkdfaUVQVzVVZnpvYUE0UHhfSHAzMk1KYVZNMFUxRE13LWw3MUJ3aXNDUDRrRWhkczdCYlAxaDBETHp3d1VNdGFqNDhheF9melhtMVVjcWRGUXFOZ21aOVlfWWhQUWdrcktSbmlPeWJGT1lLMnc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kaziranga election results 2024 live updates: BJP's Kamakhya Prasad Tasa won, defeating Congress' Roselin - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPR1hLdjJCbWZHMWJIb3pLV09jRU9XQnBfZWZtaFB2YnZ2LVdFR1NyTGE2N3E5RE8wNVBjUjV0VlllX0VBUFYwQzVFRVJDQW5zRjFBQUQ5dHR6VjEzYlRvWVd5b0tsNXhoZDB5WGN1RXRaUkowbDF6WWozSzFiRjQxOWE0VklsUDhjekxPS3BVWW1BX0Q2SXVyenZGOEpLYVMtbE01a1EzalQ1VTVSX3FuMjgzcEJsM0kxOGN0a2pjUkhlWjVOM3VRdWU4Vk5KaEd2cUNqU0szNm1zZU83U0VhRnU5SWhRRUFyVmU5Z280VmlYWkNuTU5ZNGdrRTRSWWxmZTRpX3hSRm5mSkFNekpYdW01VE5RaVFRR2hBQkRpWlljcnI4VzRfME5zY0g1VWh0TWdMa3FjLULSAb4CQVVfeXFMTkVVNnF2MUlfUXZQdTEyV2wtb1pISXJkS29ROWs4NFp3eS01aWNfbU1CUTFVQTBLb3lMRzY4RU0wYm0wWjRvQVhRZzNjdmNWSkxOZ3pFQ0hoRU5WWUFvSVBCa2p4Ql9ja19xbUFjTWdnNFdYMTdVc2h5WHhvUDhJR2ZvdFRSZG5Hc2ZVazFId0JTTS1xQi1lb1lGOWZuMGFrNkRlN3lIQlYxMVk1ZGJ3aUFPVkZlTUh5T2N1WVhnUi1zdGhWcXpIZm93WjFHU2lyMVRLdUgzc205MkU5SVV3cnBPV3ZtSy0wVnlPeFRKLTAzR2lBLVVDTWYyLThmOFBjYTUwQUFGbk1GUzIyOE9HN2RhM084R2I4NXpQNW40c0wyQk95bkRIaHM5MU43YnBXYm44ZFp4cUp1aUtnNGpB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Assam: Kaziranga National Park and Tiger Reserve authority opens Bagori Range for tourists - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeHlrVm9zUjZKRE1jYjAxbGR4bTdfUHR0VnZISjNaaDVJVTBwZGI4S2Vad1hJaHcwSk4yd0l5bkhvYzFjTl9kMWFFTzZQQnFWblpucWxLeFpoUDVuWWZ5S2prcHFXWHduQWpRUDkzdml0eGJtVFhxd1NOekVpVGJpZnZuSmhXOUE4cGRvSUwtU0h3VFpGLS1Kd2ZvcGN5S2c2YXdpSFBmakR6TFptMzgzVjBMTWFvR2hXWjBod20yMndMbkRORE56QUx4aU1VNjVGUTV6eTExZmNSSFh2NVJwNjVtcXR1R2pl?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Assam Lok Sabha Constituency 2024 - Know your candidates for Kaziranga constituency, last election, election date - India Today NE",
+      "source": "India Today NE",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWC13MVhOVFJ1cTMxSWE1UVR5OFFYS3NnRGZaYW9YSjdGbGhXbHNFVURQX1FveUFEdTlOMVhFVHRJc05OcWk1MUkyNnlqc0N6OWxjSjlpSjBvbkZaM2QxS05mOU0xVEVvUlB3WWRva2hXUUpfSnhIblZUQ0Y3bTFLOUNRclhITDF2WUN6M18xS0d6ZnB0VURrak04dzM4UmpkOHZuLXduRHVNbUZLUllFb19ReTl2TjdYZXRqM1NCeG1KQ3haV1hRODdhUHVPVXZEdWJmRUhoWkM3RVJudDhRQ01UTlpwQk5OLXdKUGpkV25BcGZzU09IVU5mSFprOGQ40gGGAkFVX3lxTE0wRnJ1UFM1TmtQQnpzMW9YcVZMZDlVNGhVbGtVUnF6NWRYUkNneEM5ZHZpcGxFX0FvYy15RmY2X0RnR01ubVlrUkMwdFdPOEs5VUN0b3R4eklsdjhrbWdYSFJWeG5fcmlPTkVqc0xLR05Xc0Y2Y0Q3THU0Ul9rWjVpdVc5MFlndzFHNmZmT1g4ZExxT1JGblltRU40R3lSNWdNR2dWNXptdDJDS0xXSzE2YUtzd0pVaHQ2U1EzdHB4WktGNDVxWXRxNzhpNUpHT0dpVGlxM1NySzlHSmhPeW9EZnVHYTl2dWxpdklxN2dUZzFBUGpCTHlXNXk3ekJYZGNPUVVDV2c?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:25.930674Z",
+  "collected_at": "2026-09-02T14:56:39.805678Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.813220Z",
+        "fetched_at": "2026-09-02T18:38:04.270636Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.813230Z",
+        "fetched_at": "2026-09-02T18:38:04.270647Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.813236Z",
+        "fetched_at": "2026-09-02T18:38:04.270653Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.813241Z",
+        "fetched_at": "2026-09-02T18:38:04.270658Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.813248Z",
+        "fetched_at": "2026-09-02T18:38:04.270665Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.813252Z",
+        "fetched_at": "2026-09-02T18:38:04.270670Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.813256Z",
+        "fetched_at": "2026-09-02T18:38:04.270675Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,6 +317,14 @@
     "neutral": 10,
     "top_headlines": [
       {
+        "headline": "Centre Details Assam Tourism Projects in Lok Sabha After MP Kamakhya Prasad Tasa Seeks Plans to Boost Footfall - guwahati Plus News",
+        "source": "guwahati Plus News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSUdpLVpEQXZ4cnBUS09faXNoczZwbEQwNVZGVUdXOGptdi1aQjV1Q19CQWsySnhDTTJfOU1rRThuQ2tKU043MXVVZWp3ZXVaNlA4c2hoVHJHZEhDaGY4TWxRa2N3dzhIejZDSGZFUzJ2bUxWRk90Q3JaR0xGQVhrSEhlbk1SWkFyZ2dwbUlqOUpCMDJybTloUzZXYWZ1ZkpNSTRNdjVKeXFic0QxeEtZT0dURGVjZDJUemxzWGtWTi15Ul9GR2Ita0ZQX1hRVWtsR0dZWGNheXF2V2FMSlE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Adivasi student body slams MP Tasa’s 'Christians don’t qualify for ST status' remark - The Assam Tribune",
         "source": "The Assam Tribune",
         "severity": "low",
@@ -272,35 +333,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Kamakhya Prasad Tasa - The Times of India",
-        "source": "The Times of India",
+        "headline": "Kaziranga election results 2024 live updates: BJP's Kamakhya Prasad Tasa won, defeating Congress' Roselin - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQVBMV1JSQjFKUkZqM2M4V1dyZDAwOUtGUDBCUTF1NTQtb2c0WnR2QU84OVAzRnZ4c24zcHBXQWxzR05PYy0zbkNidzhfMG5uOFgtT05jTXhySTFIYkFXa0MtUVhXSHlPYkN5NDBNS1RFQlF3ckM1T1ZZdEl5VUJJWG92bEoyM09RS2UtcDVkbEhYT1ZnUmhXR0o4MjJjeGxiWHJ5RlRQS3BYdEVmRUNTY0F6RFRnOHhLYnN2bkxR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPR1hLdjJCbWZHMWJIb3pLV09jRU9XQnBfZWZtaFB2YnZ2LVdFR1NyTGE2N3E5RE8wNVBjUjV0VlllX0VBUFYwQzVFRVJDQW5zRjFBQUQ5dHR6VjEzYlRvWVd5b0tsNXhoZDB5WGN1RXRaUkowbDF6WWozSzFiRjQxOWE0VklsUDhjekxPS3BVWW1BX0Q2SXVyenZGOEpLYVMtbE01a1EzalQ1VTVSX3FuMjgzcEJsM0kxOGN0a2pjUkhlWjVOM3VRdWU4Vk5KaEd2cUNqU0szNm1zZU83U0VhRnU5SWhRRUFyVmU5Z280VmlYWkNuTU5ZNGdrRTRSWWxmZTRpX3hSRm5mSkFNekpYdW01VE5RaVFRR2hBQkRpWlljcnI4VzRfME5zY0g1VWh0TWdMa3FjLULSAb4CQVVfeXFMTkVVNnF2MUlfUXZQdTEyV2wtb1pISXJkS29ROWs4NFp3eS01aWNfbU1CUTFVQTBLb3lMRzY4RU0wYm0wWjRvQVhRZzNjdmNWSkxOZ3pFQ0hoRU5WWUFvSVBCa2p4Ql9ja19xbUFjTWdnNFdYMTdVc2h5WHhvUDhJR2ZvdFRSZG5Hc2ZVazFId0JTTS1xQi1lb1lGOWZuMGFrNkRlN3lIQlYxMVk1ZGJ3aUFPVkZlTUh5T2N1WVhnUi1zdGhWcXpIZm93WjFHU2lyMVRLdUgzc205MkU5SVV3cnBPV3ZtSy0wVnlPeFRKLTAzR2lBLVVDTWYyLThmOFBjYTUwQUFGbk1GUzIyOE9HN2RhM084R2I4NXpQNW40c0wyQk95bkRIaHM5MU43YnBXYm44ZFp4cUp1aUtnNGpB?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Political Profile of Kamakhya Prasad Tasa, Bjp Party, Kaziranga, and Net Worth - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVhPY19VblJIcWFYaHFNWl9Jbk1nNnh2N2EwZTJISVFqcUZHYnJRLS1VMDBZbWRzN2R1RUxiR00xTlRYNkRodDR2WE5GQ2JlajVndEZyZ2pDaWhfZV9oT2EtakR3ZlJILTlYOFUydm1ya3dWRTAzcl96NWFENzBMR1RLVm0xOG5ORVRObnB6Wk1OWGp4QXhnZW14WVdIUGxUTXVHN0w3MDNuNmVsd3o3ekllNXRQeVFVY0xtR2p2elcxR290MVZpYnQ3VUF4TGF5YkU4ekJwUG9HMW1XN1lRQQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kaziranga’s Agoratoli forest opens for tourists, minister Atul Bora inaugurates with jeep safari - India Today NE",
-        "source": "India Today NE",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdmx6bVBSeUFyclFFU3RJaW9YSU92R0dHRUpnLVZaVmFtemNVRDhJRHQ2U3U3N1JpLWZyTVk5ckE0SzNsUVZWOUI0VXphTmNsblNtREsyRExXRERXRjEtUnZNdVM5ZjdaV2ZOLWRXTnliVUdDYW9JZ2NhOHZrb3JFcWVQRmZNZ1E1V2xTeXJRTGlzZWRYUC0taVJKT2JhTWhldDBvX2FfeTB4ZG9QQTVfVHZmY0dwcTJRbFZUbHp2ZkJhLTE4TF96eGpHMGxQcnlyZlhCMUVVQ3dIYTFLd01neVZtdmlweEx10gHuAUFVX3lxTE1uaXlCcml0SlJSMUdsclM5MGpFNWxCUTVSWTAzcUU4OGlnSzRsQmJpTE5RUjRiMFdkZk53WGplR3RpZkdqQkg3TFd0czhPUVRZenZjdFpZQU9uNnBIM3Y0LVgzaFhxSU1qMmdabUhtSHlXaktfV3M5cWlScXVmVFZfRDcyWjh0TTZ4cjlpbWUySndZSldiaWlydUc0VlNxVDN3U1BvOXV2X3BYbmpQdlBuWEFNZFNmc3BYVWVQa0lGME9Sd3lMa3FGLWxPcUp6VFpQMnhpUjI3dEFIWjJYRjVmeFNNWXBONUNNc2tIM0E?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Assam: Kaziranga National Park and Tiger Reserve authority opens Bagori Range for tourists - ANI News",
-        "source": "ANI News",
+        "headline": "Assam: Kaziranga National Park and Tiger Reserve authority opens Bagori Range for tourists - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeHlrVm9zUjZKRE1jYjAxbGR4bTdfUHR0VnZISjNaaDVJVTBwZGI4S2Vad1hJaHcwSk4yd0l5bkhvYzFjTl9kMWFFTzZQQnFWblpucWxLeFpoUDVuWWZ5S2prcHFXWHduQWpRUDkzdml0eGJtVFhxd1NOekVpVGJpZnZuSmhXOUE4cGRvSUwtU0h3VFpGLS1Kd2ZvcGN5S2c2YXdpSFBmakR6TFptMzgzVjBMTWFvR2hXWjBod20yMndMbkRORE56QUx4aU1VNjVGUTV6eTExZmNSSFh2NVJwNjVtcXR1R2pl?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Assam Lok Sabha Constituency 2024 - Know your candidates for Kaziranga constituency, last election, election date - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWC13MVhOVFJ1cTMxSWE1UVR5OFFYS3NnRGZaYW9YSjdGbGhXbHNFVURQX1FveUFEdTlOMVhFVHRJc05OcWk1MUkyNnlqc0N6OWxjSjlpSjBvbkZaM2QxS05mOU0xVEVvUlB3WWRva2hXUUpfSnhIblZUQ0Y3bTFLOUNRclhITDF2WUN6M18xS0d6ZnB0VURrak04dzM4UmpkOHZuLXduRHVNbUZLUllFb19ReTl2TjdYZXRqM1NCeG1KQ3haV1hRODdhUHVPVXZEdWJmRUhoWkM3RVJudDhRQ01UTlpwQk5OLXdKUGpkV25BcGZzU09IVU5mSFprOGQ40gGGAkFVX3lxTE0wRnJ1UFM1TmtQQnpzMW9YcVZMZDlVNGhVbGtVUnF6NWRYUkNneEM5ZHZpcGxFX0FvYy15RmY2X0RnR01ubVlrUkMwdFdPOEs5VUN0b3R4eklsdjhrbWdYSFJWeG5fcmlPTkVqc0xLR05Xc0Y2Y0Q3THU0Ul9rWjVpdVc5MFlndzFHNmZmT1g4ZExxT1JGblltRU40R3lSNWdNR2dWNXptdDJDS0xXSzE2YUtzd0pVaHQ2U1EzdHB4WktGNDVxWXRxNzhpNUpHT0dpVGlxM1NySzlHSmhPeW9EZnVHYTl2dWxpdklxN2dUZzFBUGpCTHlXNXk3ekJYZGNPUVVDV2c?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 24,
+    "starred_questions": 7,
+    "unstarred_questions": 17,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 46.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

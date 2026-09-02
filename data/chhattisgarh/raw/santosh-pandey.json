@@ -4,80 +4,131 @@
     "constituency": "Rajnandgaon",
     "state": "chhattisgarh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1936,
+    "myneta_candidate_id": null,
     "slug": "santosh-pandey",
     "house": "lok_sabha",
     "sansad_member_id": 5015,
     "profile_url": null,
     "canonical_name": "Santosh Pandey",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 56,
+    "age": null,
     "photo_url": "/mp-photos/5015.jpg"
   },
   "criminal_record": {
     "total_cases": 1,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "807/2021, Police Station Kawardha  District Kabirdham Chhattisgarh | Section 3 Prevention of Damage to Public Property Act",
+        "ipc_sections": [
+          "147",
+          "148",
+          "149",
+          "109",
+          "353",
+          "332",
+          "153A",
+          "186",
+          "188",
+          "295",
+          "427",
+          "120B",
+          "144",
+          "152",
+          "440",
+          "452",
+          "455",
+          "295A"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Chief Judicial Magistrate, Kawardha",
+        "fir_no": "807/2021, Police Station Kawardha  District Kabirdham Chhattisgarh",
+        "case_no": "133/22",
+        "other_acts": "Section 3 Prevention of Damage to Public Property Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:38.519822Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 42916375.0,
-    "liabilities": 3229688.0,
-    "net_worth": 39686687.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1936",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:45.824606Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 34.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.59,
-    "expended": 4.58,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:21.893222Z",
-        "notes": "Official eSAKSHI REST API — Works: 172 recommended, 160 sanctioned, 52 completed"
+        "fetched_at": "2026-09-02T14:40:09.990692Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:36:25.328739Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:36:25.326138Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 172,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 31.156462585034017
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +143,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:23:46.693071Z",
+        "fetched_at": "2026-09-02T14:36:25.325091Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +151,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP MP Santosh Pandey compares Congress leader P Chidambaram with owl - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSGhTRkk5TTYwOWxUeENKU3JjeUZOWFpYMDlFWjFRZWcyOEUyYnZzb3A4ekh2R1dFcGNNV2l4UXplQ2Zwam1RVkRrZ0FjU2dzWFc0ZkVCSVhvaHhMdkV1ZUw3dHdZcEZncE5zNXd2UGtjLWE0bGZuZV9aV1pRQlR5Rm9kTHZxZ1VvM2FlZ09fZE50YWZFTFpuM1FhQV9zMWhUX3VwZG5nQmZXa0kwNVZMcFpsVjRIZDBxMVZTZTFqRzZnenZ4UU0yTQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bhupesh Baghel Loses From Rajnandgaon Seat To BJP's Santosh Pandey - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUWJndm1uTmJ5anNsYkItY09OcFdqbzFZWGFiZHlFOUJORExMUTAtSzl0WUVIQUhPOV9MRXB0dWZRMDFhOEZnRlh5RXZJSFlWOW9icGZoNjgyYVJvVzVkOEZpX2xNajNlck1JYUZWS0JwSl9FX200UjlsOU12Vm44Vkg0SkhmeW5oTWFRUGZEb1BZLXFJTDBIc1dhc2hocDBNZ3BQaHdxMFRWSjFoWVAtQWtVMWxMb1ZkekEySGc2aE5TTXI4bjlYX09tSzJlMHB2YW9qZExFdVHSAeABQVVfeXFMTldTWU1VTy0zOFo4WVVENHNFbFhuOEh1MFA3SlV2d2NTWEFJQUJGZGZaVzlETF84ZU02UU1EeWg1QjhIRTRMOExfRnV0NUs3aHNrYUo4M21xNm9iYUp3dEFlVV9yZjRHNjFBZm92T05reFd6SmRxZ3ZHaUdlY2RpV1phYTd2ODFfV0JCcUduLTNlS3RJSm1mRktSU2hqSExPYklYYUZkeEljRHhmTzc1VzJ4TkJxRXZLN3UwdS01VnpDTmIyTWNUYWhmVVA4bTJxZkRXM0xaalY1cWg5VnNZQUs?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP, Cong to fight for 3 Chhattisgarh seats on Friday; ex-CM Baghel eyes saffron turf - The Federal",
+      "source": "The Federal",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRGJybEV4LUhtY01aZHRGMUtQTFp5R1FYQU5jNnJ6QzBLM1owRURYUlVZWmx5Vi13TXZKT0JkLUJPaUNHSnZ0WC1Jb3pHVGlTYXh3bU9WNHVWTVVqbDJFUjZXRDBMcVpoYUdja0xhMmN1WXdpX3RlWGh1c2xrM0JFZWlLaUpHTGU3VFVYQTBfYzAyYW1aakJ0dFkyNTNqeVl0NjRCMDJmTUYwTmRFbTJKcjMtWHhoQkRxSVM1OEJGQUxaZG9CM21BOFJIblc5QnRqVlFMaUl6ZzJzcDJ0ay16QlJNVQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nitin Gadkari extends warm birthday wishes to MP Santosh Pandey | Gadkari birthday wishes to Santosh Pandey | Inshorts - Inshorts",
+      "source": "Inshorts",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXgyMmtWUlBSSTQ3bzRvXzRhd01FVUFJd1lMb1UtVDFlbVhpWl9WcElNeEotdzZmNVR4R2JYTmFuR1ZBRmJJcmFCT0hQN0RaVkVLMXhva0VQMkxYcVdnaGFkSW4tRHRxOEZqLVJkdE04Q0JEUWxQV0ljdVhqSGE1NEhRemV6eW1rbGlQQWxBTFFoSk1LcnJTRDB1cnNac1pJOWFwZWVUYmp0UdIBrwFBVV95cUxPM21fX2dFS3dMTU5rMk9DZzNiVlB3cDNRRnh0MFVNQTAyNVdoZHZCVENHZ1RwMUk3eTFyeDAxNXNNYzhYMzZSY3RiNy1JUVFsbml3cFlUY0pjd3RDZklNVUZ5OUsyYUVGR0JPMlBhNDJfZG40MDllVC0wTW56ZktCbzIwWmpJdkFOVzNuQ0ppVzlRZVpjWUV1cG1MalBYNlp2VnBiY1oyVVlXWkJIeGlB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chhattisgarh: Abhishek Singh son of ex-CM Raman Singh booked for rioting along with BJP PM Santosh Pandey - SabrangIndia",
+      "source": "SabrangIndia",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVy1GYmFLOHhseXNPUHRwUmM5MlNaZjAwQ0YxaWVOM1BzdWpnOUVJZExvZlJrbDR3OVo3LTVUM29IdndDb2xpaXdMdHlleFhYaVN1NEhZQ3NfYXpSaG5aMzBSMjgxNUhSX1E3MjA1N2NvSlJudUNocUh5alRISEpmREJqN2JiaEJ1Y3NPbzJrQ3dHNzUteHR3TGtNbjhpdkdWS2JvU1hlWGhGQVZDT25wajVFaktxYjlya0E?oc=5",
+      "sentiment": "negative"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:24:52.200973Z",
+  "collected_at": "2026-09-02T14:40:09.992002Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +220,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.713019Z",
+        "fetched_at": "2026-09-02T18:38:05.310091Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +236,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.713029Z",
+        "fetched_at": "2026-09-02T18:38:05.310101Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +252,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.713034Z",
+        "fetched_at": "2026-09-02T18:38:05.310107Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +268,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.713038Z",
+        "fetched_at": "2026-09-02T18:38:05.310113Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +284,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.713044Z",
+        "fetched_at": "2026-09-02T18:38:05.310147Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +300,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.713048Z",
+        "fetched_at": "2026-09-02T18:38:05.310156Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +316,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.713053Z",
+        "fetched_at": "2026-09-02T18:38:05.310162Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,24 +341,49 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@santosh pandey 44",
+        "url": "https://x.com/http://www.twitter.com/@santosh pandey 44",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/santosh pandey 44",
+        "url": "https://facebook.com/http://www.facebook.com/santosh pandey 44",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:36:52.789975Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Political Profile of Santosh Pandey, Bjp Party, Rajnandgaon, and Net Worth - India TV News",
-        "source": "India TV News",
+        "headline": "BJP MP Santosh Pandey compares Congress leader P Chidambaram with owl - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZlZONm9IMTV3RmFlRTdkWEpLdHFoR2t0OWpOcy03UzlQeEtDYkRDMnV0S2R1TnVNeVRob0JHT253YkNMQ1NKT093VTZJbGhsbmtJZ1d0dHk4U1h3LVNnV1dFb2VoVzdFUVRwQXpLZGhldjNuWmJ2emNWNzQxbFhLQUJJd0IxM0dmTFpBSDBuVzVKWUEzTVRqS2pRcmk5OThuYmJNN1d0cE1sUDFDTGdDR2N0c3YxSjlHV2E4ZkhjYmhkSVdnQ0VqYTBBZXgzSF9pc2h5a2M0WDNBRjRya1oyTU5zMVE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSGhTRkk5TTYwOWxUeENKU3JjeUZOWFpYMDlFWjFRZWcyOEUyYnZzb3A4ekh2R1dFcGNNV2l4UXplQ2Zwam1RVkRrZ0FjU2dzWFc0ZkVCSVhvaHhMdkV1ZUw3dHdZcEZncE5zNXd2UGtjLWE0bGZuZV9aV1pRQlR5Rm9kTHZxZ1VvM2FlZ09fZE50YWZFTFpuM1FhQV9zMWhUX3VwZG5nQmZXa0kwNVZMcFpsVjRIZDBxMVZTZTFqRzZnenZ4UU0yTQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -280,28 +395,28 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Lok Sabha Election 2024 | Chhattisgarh’s results in bipolar battle hinges on Bhupesh Baghel’s fate in Rajnandgaon - Frontline Magazine",
-        "source": "Frontline Magazine",
+        "headline": "BJP, Cong to fight for 3 Chhattisgarh seats on Friday; ex-CM Baghel eyes saffron turf - The Federal",
+        "source": "The Federal",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa2R5UnNkaGZ1M0lGbENqYUJUMHc5TlJWQi1Vdlc3YkhvczhUOE41VFBSa2lPdzVoeUlpOTJsR3UyY1FRTk5fYnpXaW5SYmc1ZnpQeFdCQ1BCNTh5VnZtY3U3YjZhLXRSSVJpQ3g1aWZic0l4SDhxcnJlZ1BxUi1rV1JRcWVQMng4TjJpYW9lcjJLbjdNSnlFTWJHQUdzcG1pUDluYjVtYndPQ3lybzVQRE1LYnVCUHJtdmlRZ19VT1dLcUdQTFdnaklJNTNiblFQckNkbWd4Q2pla2tsZXFFQU1NU2wxOTI4LTBuLWtn0gH0AUFVX3lxTE4tcG1xOG84bG50c1RVQkFwb0FLYWtyekNrZ3l0OVYtSVlwcVNjRzdLQjVCb3VJQnZKVk1RSmt0SldEUmRsaF9QREhnc0REaWJQRF9jc3F1ZENlWnF2bEJrTzhZVy1Fd0ltS1dsTUlNVFdBZFVxSWNSVUU0cDZvQ3RfZnBBUDRqNnhIN0t4blhfRUdpS1V6UVJQLXBJdGJQNGZ3bnRxRkNsWkZKM011SFcybVI1dHRWU21kZDVzS1RwUnVDZHpJWVkzNlp1TjNGVExTcDBaWlZsS3RjMFMxeGI1aENTNzVoM284OVpCNnVmTnlwWGQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRGJybEV4LUhtY01aZHRGMUtQTFp5R1FYQU5jNnJ6QzBLM1owRURYUlVZWmx5Vi13TXZKT0JkLUJPaUNHSnZ0WC1Jb3pHVGlTYXh3bU9WNHVWTVVqbDJFUjZXRDBMcVpoYUdja0xhMmN1WXdpX3RlWGh1c2xrM0JFZWlLaUpHTGU3VFVYQTBfYzAyYW1aakJ0dFkyNTNqeVl0NjRCMDJmTUYwTmRFbTJKcjMtWHhoQkRxSVM1OEJGQUxaZG9CM21BOFJIblc5QnRqVlFMaUl6ZzJzcDJ0ay16QlJNVQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Chhattisgarh records 73% voter turnout in second phase of Lok Sabha poll - The Times of India",
-        "source": "The Times of India",
+        "headline": "Nitin Gadkari extends warm birthday wishes to MP Santosh Pandey | Gadkari birthday wishes to Santosh Pandey | Inshorts - Inshorts",
+        "source": "Inshorts",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUFRPOXlsLU5COUt3Z01ERzJDa0ZBTllNUHI5dk9FM2FXYkNLZ015UGtXeDhEd2h2QmQ0RzlkeVJia1lrbW9IVTlvOVN6b1lIRnpVbGdRVHhTTWtLTG5xZzhlMWVOcnU2RGRFdDA5REQ5RFY4RlpDWnBibkRfdndPMDA5Z1BlZWJoNTBTSWhyWkhWSFZmdTFvYzBzTUVvbXdYZGh2N0laaFZob05EM0RmWFRING5fdkVBT1dpMDRmeHZYelN1ZFF0dk9tLTZOcVJMcmNPQWduR0ZTQXo1YzlZOFNQRzhBaUdEZGZRSXBlVTdWM21iTkxaTThYcTR6VTZodTdnQW5CRHF6MGdFM3duMmQ3UGVZQdIBmwJBVV95cUxPTHJUcHBDRVZXeFEzeFJVSlFNMXVJb19ZQVNGQUJManNXNDNGRUVabG1OOTJ1WG9PNzYwQXdjVWpRelZOc1FLSzFPQWhXMEJFRWZIbXdXdVEySHJHRUFndlNDOWZjWnVMV3hIMFNWQS1NbElhTFpGeVhCUHJPOFpOcjRRY2h3N2JLMEpuQVkzSWN0TE00a1ZTZExHUEYyV1hsZHpaX1RtYnlBdVF1My1QYjlFTG9fMFk5ZEIzRkRBUDBRS2pxTzh2Rk1hOUlYR3dzS0NCdi1odWIyR21LOWFxSjJvRVBNMjB4OFlHUlRPZF9oRXFDM2F3MzFTdThHb1Y3NnBGd1dNRFZXUmJiN0lJZjlvakY4WVV6aWZ3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXgyMmtWUlBSSTQ3bzRvXzRhd01FVUFJd1lMb1UtVDFlbVhpWl9WcElNeEotdzZmNVR4R2JYTmFuR1ZBRmJJcmFCT0hQN0RaVkVLMXhva0VQMkxYcVdnaGFkSW4tRHRxOEZqLVJkdE04Q0JEUWxQV0ljdVhqSGE1NEhRemV6eW1rbGlQQWxBTFFoSk1LcnJTRDB1cnNac1pJOWFwZWVUYmp0UdIBrwFBVV95cUxPM21fX2dFS3dMTU5rMk9DZzNiVlB3cDNRRnh0MFVNQTAyNVdoZHZCVENHZ1RwMUk3eTFyeDAxNXNNYzhYMzZSY3RiNy1JUVFsbml3cFlUY0pjd3RDZklNVUZ5OUsyYUVGR0JPMlBhNDJfZG40MDllVC0wTW56ZktCbzIwWmpJdkFOVzNuQ0ppVzlRZVpjWUV1cG1MalBYNlp2VnBiY1oyVVlXWkJIeGlB?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Rajnandgaon Election Results 2024: BJP's Santosh Pandey stuns former CM Bhupesh Baghel - India TV News",
-        "source": "India TV News",
-        "severity": "low",
+        "headline": "Chhattisgarh: Abhishek Singh son of ex-CM Raman Singh booked for rioting along with BJP PM Santosh Pandey - SabrangIndia",
+        "source": "SabrangIndia",
+        "severity": "medium",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNWFZlN3pRVHA2eEZOUkd1Z2JYdUFmY3hCd1pzUlM4ZkVYSjFlR2NUTUJDSFdmU0wxMHVNZDVyVTlia1hTelE1b3dtenFpSTZoUWtwYWxvd0NDZEM4d0ZFM1NQbGZpbzQ5YkxTOFJ0V3V4SDZVellWZjZWWUFGMXlQdzhNM2lHMzBqOG0yZTBlU1BJV0FlTFV3bmpYQlBTZWEyODdSeG4wcWwybnVZQmRVTko0VENsb01aeWhuM0x6VU1GamZhMEllejdabTloZ0dtTXNleUttejFxNllYMHBPVFUtM1A4cmdPb3B5bkwyYnQ1WW15Und0MTVWZVdRNkRzMjdtWjY1UnRXdXdydXdRQ0ppUk9wMUnSAZwCQVVfeXFMTmJIaHpBNXVyOXA3cWFtYlZVRXdETmhOdnJRczd6TmU1MjM4a3BrcFVnTG5DalkydmNoNW1ZSDVDd1JnRU0xWk9ZdFJOcmo0RTFiaVNDcm81VHVpaF9sMTlZYksyQlNMWlh0U0Y5Mk4xT0RyTm1BMUlvNGdzT0NaZnFfTmxULTQzS1pMLTIzenJDZWVuS25INlJZNjFMTUtNYVRVV2pSRjkyeEthYUw1TEg2Rk1UT2lEQlUyTDVXZXRrYkk1cTNabDZYeFl4YkxkZnZHeU5zWHcxVm9qQjU1bUpQaVZ3cTk4dFRvZ09maFZKdjVtbExmZFJ3MmhvVFhiSV9heElsZkZiam1VRlpiZlpzZG5Ua3dlMVJvUWk?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVy1GYmFLOHhseXNPUHRwUmM5MlNaZjAwQ0YxaWVOM1BzdWpnOUVJZExvZlJrbDR3OVo3LTVUM29IdndDb2xpaXdMdHlleFhYaVN1NEhZQ3NfYXpSaG5aMzBSMjgxNUhSX1E3MjA1N2NvSlJudUNocUh5alRISEpmREJqN2JiaEJ1Y3NPbzJrQ3dHNzUteHR3TGtNbjhpdkdWS2JvU1hlWGhGQVZDT25wajVFaktxYjlya0E?oc=5",
+        "sentiment": "negative"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -334,15 +449,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 4,
+    "starred_questions": 1,
+    "unstarred_questions": 3,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 7.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +465,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

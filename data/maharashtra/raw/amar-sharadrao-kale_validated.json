@@ -4,16 +4,16 @@
     "constituency": "Wardha",
     "state": "maharashtra",
     "party": "Nationalist Congress Party - Sharadchandra Pawar",
-    "myneta_candidate_id": 1969,
+    "myneta_candidate_id": null,
     "slug": "amar-sharadrao-kale",
     "house": "lok_sabha",
     "sansad_member_id": 5820,
     "profile_url": null,
     "canonical_name": "Amar Sharadrao Kale",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/5820.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Wardha",
       "state": "maharashtra",
       "party": "Nationalist Congress Party - Sharadchandra Pawar",
-      "myneta_candidate_id": 1969,
+      "myneta_candidate_id": null,
       "slug": "amar-sharadrao-kale",
       "house": "lok_sabha",
       "sansad_member_id": 5820,
       "profile_url": null,
       "canonical_name": "Amar Sharadrao Kale",
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 50,
+      "age": null,
       "photo_url": "/mp-photos/5820.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:09.301723Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 106175044.0,
-      "liabilities": 29504353.0,
-      "net_worth": 76670691.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1969",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.396897Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 59.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 3.33,
-      "expended": 2.63,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:29:50.893799Z",
-          "notes": "Official eSAKSHI REST API — Works: 96 recommended, 40 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T15:01:51.667114Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:58:12.049134Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:58:12.046415Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 96,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 17.891156462585034
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:28:13.974951Z",
+          "fetched_at": "2026-09-02T14:58:12.045316Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Amar Sharadrao Kale - thehindu.com",
+        "source": "thehindu.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWTRxZEYwdTEwdEJkQzdnVXN2bE5FNVlYWktRZ2JzZ3hoMlB2allsTDdzbDRyelpKWHBNbUZvQjJ3cS1zdm9pV0JFUWtnLTE4a3ZhSUtqd1ZlaUpISWhKcDNVQ21TbE1JSm9wUXd5bldpa1lJVkR4eWl0SEJKWVVWRzJtcVMtNUtTRGhGUA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kale opens doors for Sharad Pawar’s entry in region - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVlR1dTY4bVFZRzQyQTl4WExtMFd2c3gtbkdhWTg4aDFKZjVqd3g1d3hqU05MNHZfTldTbVp3aW4xUjNUMTlld1NRSU94aVhZUEpwVU1MRDh3Z0pQMXQwUXJKeFBKelpvcTFNRDI0T25oZHowQk9fNDZuY0pQVVc4WUpSbWgwRFBNbkg0TUVLc0V5MXJ2R0NVamUxZDhpWXhEbG1oYTJXSEZ1WFhsd2Vqal9JSTZlLTlwbHBndm9iWFVhaE9ZUGNsSUNaQ2ZEQ2xvR1BES9IB2gFBVV95cUxNNTVsRTNsWlBrQkY5TnZXTWYydDMyV09FaEFxbkRzMG1SVTdubWZjaGkzREcyNHAydVI1YmJsQkZoeFJKSzZ0OUtJcmh1MHUxUnJMZWVieXFLNUhNM2hTTHdLdEJaT09aUmRyNHdrbmlKak5tNkRQdWVRZ3cxZFRCa0R1a1BnN1RRMlRqVTJNdlU3VzhwN09hRDl1TWFZUUdSRW1acURfNW03MmR3NUMtUkJwVm1MazAwUjlqeXRwblZxTmFmUkRScHAxYjg4U3pvUTdPV1hoMkZEUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Wardha election results 2024 live updates: NCP (SP)'s Amar Sharadrao Kale wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPX1VlbDR2WTRZVXlIeEUxY1JmT1R5bXMtX05Dd3hpa3VpdHNMUGUzTVg5TmNQenU5V3BuN1hoTTZFUTVSR19maUg1TFRTSEN3STVnVkNPd1AwbkpRUEZZMnFycldEbXFra1NUNVd6eE5fakYxYzZfVU0wOVl0VWFrLV9TMU5oQVpLRWx2eExCZ19pTDJ4eHJweTg0WGp0X09PMVNMUGN2RTl3MldhNVJNaU9HR21KSmpyMjk3aGVKSWk5Z2g5SkN1TW9wcHl5Yk8tcjVVSXdaWWl0RHkyM2ZYZmxaZDdNZzQxV2xSQThZUVJNdEIyeVB1MFE0b1hTWWN2OGpPZDd5Zy1BRU8wVFdYVUktVTNmNmM0dld1NGxxanBaMFpkc0l5QXl3TnNXMXJ3bzQ1ZFJMeWFpZlJwRVHSAcMCQVVfeXFMTU92VGwtc3BZM3E1ZzJoM3FtZGV2MUhuVUtoeml6enlYLW9sa0VGZGtRN3VjUHdlX0NrdDhrTlB3X1l0aEZiNUk1VGtRSWN6TzdFNlRTYTJmNV9BbUxJUWIxYV95RVdEWW9WelY0TDBJQ1didjg3S0dkZ1VmYzlmVkJGNmppVFhlLWFDMjFmU3FzMTBlRllNYTlrVENTdTdzTXNrWE5ZZDExTzBhTFRodUJuVzRWWHJobXNkaFBNaHdWUWdIUk1QY1NpaWM4VkhtN0pxb3d5YWthZHZZLWJ1c1Exc1IycnZIVU82aDEyb1c4Qi1ZWWR4TGh4c2dqM1Y0X1pIMHRQby12UWtHZDhyQVRlR25lM01rdmdTaktqVEZTNm5pWWdWZXBMQ3QzcFN3a2tfS1VWWXNiel96QjQwbkg1TEk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nepal General Election - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXZnN2V2UnVzWEJIUVM3VUFSZnB1dktsaWNibG9XWUc5akVVR1dvTkhseG81SVJhN2tBVXljVE5TdkZSZmJkY3M0MWdsOU9NVXVTa0J4VnlOWU9yYWRFc1o4T3JvTXlJNHY0SHQyeG1YeXRLOE1BaFU0NkpVMThqT1lXNmZ2YzU1V08xVGJrdmFnMjRL?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:29:13.098346Z",
+    "collected_at": "2026-09-02T15:01:51.668514Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.186670Z",
+          "fetched_at": "2026-09-02T18:38:07.719104Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.186681Z",
+          "fetched_at": "2026-09-02T18:38:07.719153Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.186686Z",
+          "fetched_at": "2026-09-02T18:38:07.719165Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.186691Z",
+          "fetched_at": "2026-09-02T18:38:07.719173Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.186697Z",
+          "fetched_at": "2026-09-02T18:38:07.719183Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.186702Z",
+          "fetched_at": "2026-09-02T18:38:07.719191Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.186706Z",
+          "fetched_at": "2026-09-02T18:38:07.719198Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,6 +335,14 @@
       "neutral": 9,
       "top_headlines": [
         {
+          "headline": "Amar Sharadrao Kale - thehindu.com",
+          "source": "thehindu.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWTRxZEYwdTEwdEJkQzdnVXN2bE5FNVlYWktRZ2JzZ3hoMlB2allsTDdzbDRyelpKWHBNbUZvQjJ3cS1zdm9pV0JFUWtnLTE4a3ZhSUtqd1ZlaUpISWhKcDNVQ21TbE1JSm9wUXd5bldpa1lJVkR4eWl0SEJKWVVWRzJtcVMtNUtTRGhGUA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Kale opens doors for Sharad Pawar’s entry in region - The Times of India",
           "source": "The Times of India",
           "severity": "low",
@@ -290,11 +351,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Wardha lok sabha election results 2024: Wardha Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+          "source": "Sarkaritel.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNHJ6cHloOHJiTF94cEt2NVF2dGNTNGxCT0JWdU1GUjQ1S2RNVTZyMzc1UTNEaU9tdndVM0g1akpXcF9mM09KUUp6X2ZSOWpSZDY2d3c1eFhHam9IMEpzbDVtNTlWbmFMMk9ORkJUZzRPbl96ckw5emZqMGZsVF9OS3p0bEwxZUJON0I2bnRvdWhnOHA0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,19 +367,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Wardha Election Result 2024 LIVE Updates Highlights: Amar Sharadrao Kale of NCPSP Wins - News18",
+          "headline": "Nepal General Election - News18",
           "source": "News18",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcTlWUDk2bzBqbnRhekxra29ZbGw4OGdRM3p4UVRBYjNOeVlGcWE1Q0Y4dF9pT1huOXlRajhvQ2NDSjMzQTdwZ1N6REFrekxDdHpyXzB4WXkzaERNM1Qxd0ZyVVVLRFBTQUc2OGV0LVc2TEc2TkJBcGx2MzZ2WWlzalZaR2RhUGNTV3BSOHlpZ2FoMGotSlpFY0N5a2FDblhlbTNXMm93c3hCSlNNOUF6WTR0Sk9kWjU0a2FKbHZaa0R1b1pvdGEwUkZETENITVotNVd5ZWJuOUM4MzRXQUdLYtIB5gFBVV95cUxQOHBtcVhnanR1Zm5JM25PR1UzbmJyVC14U3Exd3BtSzFUTHVGR2pzME55ZmowdktibXZwZTJ5VWhrWktOdjVRVFlDV0JILS1nZGtXenN4eGRYVEhXeDdTR0swRnhIUzhxTnBBSzd0NUtqcmgxMnhzd0YwSU5nc1o4cUlYQ2xENXZWbDVjWmhxS05oVnF3VWYzQUNyT18zV1MtX0xRUjZidnVaTzFVcjVEZlNSbUpKeENEcHFpQVVXMHdCSklneUM1eS10N1ozYmVFWkw5YjBSZU1KQnlJZVJnd3Y1NU5ldw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Parliament of India : Lok Sabha Member of Parliament – K - Sarkaritel.com",
-          "source": "Sarkaritel.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXZnN2V2UnVzWEJIUVM3VUFSZnB1dktsaWNibG9XWUc5akVVR1dvTkhseG81SVJhN2tBVXljVE5TdkZSZmJkY3M0MWdsOU9NVXVTa0J4VnlOWU9yYWRFc1o4T3JvTXlJNHY0SHQyeG1YeXRLOE1BaFU0NkpVMThqT1lXNmZ2YzU1V08xVGJrdmFnMjRL?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 41,
+      "starred_questions": 12,
+      "unstarred_questions": 29,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 79.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 106,175,044. MPLADS utilization: 17.9%. Parliament attendance: 85.0%. Questions asked: 41. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:50.187417Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 41. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.720304Z"
 }

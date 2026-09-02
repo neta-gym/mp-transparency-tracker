@@ -3,24 +3,22 @@
 **Constituency:** Madha, Maharashtra
 **Party:** Nationalist Congress Party - Sharadchandra Pawar
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 47
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 36.2 / 100
+## Composite Transparency Score: 45.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 3.6 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,34 +26,72 @@
 ## Criminal Record
 
 - **Total Cases:** 36
-- **Serious Cases:** 0
+- **Serious Cases:** 31
 - **Convictions:** 0
 - **Pending Cases:** 36
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. CR No. 459/2022, Akluj Police Station | Section 3, 25 Arms Act (Sections: 327, 323, 504, 506, 34) [pending] 
+2. CR No. 285/2021, Sadar Bazar Police Station, Solapur (Sections: 143, 188, 269, 336) [pending] 
+3. No description (Sections: 143, 188, 341, 147, 149) [pending] 
+4. Section 51(B) Disaster Management Act, Section 135 Mumbai Police Act (Sections: 188, 269, 336) [pending] 
+5. Section 3  Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+6. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+7. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+8. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+9. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+10. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+11. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+12. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+13. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+14. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+15. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+16. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+17. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+18. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+19. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+20. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+21. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+22. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+23. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+24. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+25. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+26. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+27. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+28. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+29. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+30. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+31. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+32. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+33. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+34. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+35. Section 3 Maharashtra Protection of Interest of Depositors (in Financial Establishments) Act 1999 (Sections: 406, 408, 409, 420, 477A, 34) [pending] **SERIOUS**
+36. Section 138 of Negotiable Instrument Act (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 48.94 Crore
-- **Liabilities:** Rs 20.50 Crore
-- **Net Worth:** Rs 28.44 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 84% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 20
-- **Released:** Rs 20
-- **Sanctioned:** Rs 2
-- **Expended:** Rs 1
-- **Utilization Rate:** 4.5%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,37 +105,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/dhairysheelMP/](https://facebook.com/https://www.facebook.com/dhairysheelMP/) | No | Yes |
+| Instagram | [@https://www.instagram.com/dhairyasheelmohitepatil/?hl=en](https://instagram.com/https://www.instagram.com/dhairyasheelmohitepatil/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (9 articles)*
+*Mixed/neutral coverage (10 articles)*
 
-- **Total Articles:** 9
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
+- **Total Articles:** 10
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Nationalist Congress Party – Sharadchandra Pawar - The Hindu (The Hindu) [neutral]
-- Mohite-Patil Dhairyasheel Rajsinh - Madha - Maharashtra - India TV News (India TV News) [neutral]
-- Madha Election Result 2024 LIVE Updates Highlights: Mohite-Patil Dhairyasheel Rajsinh of NCPSP Wins - News18 (News18) [neutral]
-- His entry in MVA has ruffled BJP in Madha and Solapur; who is Vijaysinh Mohite-Patil? - The Indian Express (The Indian Express) [neutral]
-- Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18 (CNBC TV18) [neutral]
+- Mohite-Patil Dhairyasheel Rajsinh - The Hindu (The Hindu) [neutral]
+- Setback for BJP in Madha as Dhairyasheel Mohite Patil quits party ahead of LS polls - ANI News (ANI News) [neutral]
+- Over lunch, Pawar convinces Dhairyasheel to join NCP (SCP) - The Times of India (The Times of India) [neutral]
+- Similar poll symbols led to skewed results: NCP (SP) - The Hindu (The Hindu) [neutral]
+- Maharashtra Lok Sabha Results 2024: Complete list of constituencies NCP (SP) won and lost - Moneycontrol.com (Moneycontrol.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Mohite-Patil Dhairyasheel Rajsinh - The Hindu** (The Hindu)
+- ! **Setback for BJP in Madha as Dhairyasheel Mohite Patil quits party ahead of LS polls - ANI News** (ANI News)
+- ! **Over lunch, Pawar convinces Dhairyasheel to join NCP (SCP) - The Times of India** (The Times of India)
+- ! **Similar poll symbols led to skewed results: NCP (SP) - The Hindu** (The Hindu)
+- ! **Maharashtra Lok Sabha Results 2024: Complete list of constituencies NCP (SP) won and lost - Moneycontrol.com** (Moneycontrol.com)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mohite Patil Dhairyasheel Rajsinh has a below-average transparency score of 36.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Mohite Patil Dhairyasheel Rajsinh has a below-average transparency score of 45.2/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 36 criminal case(s) (0 serious), 36 pending, 0 conviction(s). Declared assets: Rs 489,434,188. MPLADS utilization: 4.5%. Parliament attendance: 95.0%. Questions asked: 66. Debates participated: 1. 1 warning(s) noted.
+Has 36 criminal case(s) (31 serious), 36 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 66. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +199,7 @@ Has 36 criminal case(s) (0 serious), 36 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +278,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Mohite Patil Dhairyasheel Rajsinh's MPLADS account: Released: Rs 20, Expended: Rs 1, Utilization: 4.5%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -237,12 +295,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

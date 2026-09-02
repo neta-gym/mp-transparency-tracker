@@ -4,16 +4,16 @@
     "constituency": "Hardwar",
     "state": "uttarakhand",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 277,
+    "myneta_candidate_id": null,
     "slug": "trivendra-singh-rawat",
     "house": "lok_sabha",
     "sansad_member_id": 5556,
     "profile_url": null,
     "canonical_name": "Trivendra Singh Rawat",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/5556.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Hardwar",
       "state": "uttarakhand",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 277,
+      "myneta_candidate_id": null,
       "slug": "trivendra-singh-rawat",
       "house": "lok_sabha",
       "sansad_member_id": 5556,
       "profile_url": null,
       "canonical_name": "Trivendra Singh Rawat",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 63,
+      "age": null,
       "photo_url": "/mp-photos/5556.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=277",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.453603Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:37:20.119321Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 67552039.0,
-      "liabilities": 7500000.0,
-      "net_worth": 60052039.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=277",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.453615Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 46.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 1.32,
-      "expended": 0.35,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:35.729205Z",
-          "notes": "Official eSAKSHI REST API — Works: 34 recommended, 21 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:37:27.836687Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:32:10.529007Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:32:13.812259Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 34,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 2.380952380952381
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:06.230382Z",
+          "fetched_at": "2026-09-02T14:32:13.224769Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Trivendra Singh Rawat Latest News, Updates in Hindi | त्रिवेंद्र सिंह रावत के समाचार और अपडेट - Aaj Tak News",
+        "source": "Aaj Tak News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLUnlqRlhfQlZaY05ybzAyam5uR01MRnM5RXpHcF9HVzhCMG1KOVZXeUIzT3J3YUNHMGJqS1NGd3dxSUEtSFVQNHFIaEdqNFg3dG84SS1COEhIWDRNZVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXRYVVN2OE9QTHQ0NWdSbklRVjhYbFFkclRfYklCWDl4VlA1MWZWLWpld3pPczdOd3p2QmIwckxYZWh3a3VXNHB6emJFTkN6Q1h5V0dUamlabGQ2TEVlMW9HRWstdmd0ZVhXbEdhTDFKcFBsTWlJbFhZS1VpSzBqYmh2bmZrVXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Zero tolerance for corruption in Uttarakhand, says Rajya Sabha MP Anil Baluni - The Hindu",
+        "source": "The Hindu",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkdnZUduS0EzaExneUJFeWVKQkRxOHdEcEdDRUVYaHBzenJPLTEzZURXdzE3Vm43ZWtBZEJMOUlaQzllWUxRbEtITi0yNXI2U1d2UGlvVTlFSmZEampkWG4yNGVrbHJzUFhvaXhMNFQyNG1YMkk3ek5jYTE1c3J0T2xUQ24zSU9nazlQM2phZnhodnY3QUJLT1pqVnd0NmFHOGE4U1RsRTY4RjQ0WmdfcDVKeU1BUHYwZGpZ0gHCAUFVX3lxTE01cDdKWVoyNVRITFVSLWE4b0lORk5tallZcUktaUFhdWpmVFB1dU5SYktkbnlic2pOc05VRkFtQzVSb2oweFJQUzlvc3oybGpWWURlVnpHbEtKbDhzRk1KTm5zOFZMQ2hpa3Y1Z0tKdGMyRF80aVVlRjB1Si1tczBya1RJbHd2ZW1yVjNuNzhna2R5QlVqM3FoMXlhWW1yX1VDdEo3OVpWQnl1NW1GZjJieUt0MTZrNHRXMW5DcHlhVndn?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "BJP LS candidates second list out, Anurag Thakur and Gadkari among the big guns - Prag News",
+        "source": "Prag News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVBYNllXcXZ6SlBGaEJKTUM3bEpQYVZXSVVGd2ZOZmlpVkZaWFc5aFVVTEJkQndpTnppc1lpempTRmlaN1ZpMmZYWnZXUG83aC1rekVmVUx5ZzJfZ0dLbDIwZTZTVVdwdDd0aml3c2pCUGZvSVNsVVl5RDZDc3hHUklOVlpTN0xVbEFCM09DUjhpYTZWTmpnNmt2c0ZLODlQQWhFMg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttarakhand CM offers prayers at Tapkeshwar Mahadev Temple for better health of people ahead of polls - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWlZ2VnY1cUptcmh0TERkeUUwc3drSDA2RzRIb245S1E4UFhKbGJaTGJqajlhakYwd25GY0cwWUk4VGRyd0hTM1ZmSWliNHBiMXRVbm5DY05vVkhrS2o2STZncWdwbXQzeTRHRDBmeE1PWmlPX1BhZEwxaDNzWjNPRFlBQVBrcEtBLTcyOGtHLVhldU14Z2o4SlM4TUFYMGxtRG1hSTFlVmFvSHVwWmsxNDJKR1UxdFpOMFAycDNVLTRNRlVQc09ySDFEOU13Uk1uUnFFMmdRRndWSTJnQTNJV1oybzdOWkNIb3lhNm1GWlN6SEs0VFVBWA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:09.424795Z",
+    "collected_at": "2026-09-02T14:37:34.827869Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.481057Z",
+          "fetched_at": "2026-09-02T18:38:12.082071Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.481066Z",
+          "fetched_at": "2026-09-02T18:38:12.082084Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.481071Z",
+          "fetched_at": "2026-09-02T18:38:12.082090Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.481075Z",
+          "fetched_at": "2026-09-02T18:38:12.082095Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.481080Z",
+          "fetched_at": "2026-09-02T18:38:12.082103Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.481085Z",
+          "fetched_at": "2026-09-02T18:38:12.082114Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.481089Z",
+          "fetched_at": "2026-09-02T18:38:12.082143Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -286,27 +331,19 @@
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 0,
-      "neutral": 10,
+      "negative": 1,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Trivendra Singh Rawat Latest News, Updates in Hindi | त्रिवेंद्र सिंह रावत के समाचार और अपडेट - AajTak",
-          "source": "AajTak",
+          "headline": "Trivendra Singh Rawat Latest News, Updates in Hindi | त्रिवेंद्र सिंह रावत के समाचार और अपडेट - Aaj Tak News",
+          "source": "Aaj Tak News",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLUnlqRlhfQlZaY05ybzAyam5uR01MRnM5RXpHcF9HVzhCMG1KOVZXeUIzT3J3YUNHMGJqS1NGd3dxSUEtSFVQNHFIaEdqNFg3dG84SS1COEhIWDRNZVE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Trivendra Singh Rawat - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUWs1Um1wRmJpVmc2aHZaQUJQWXk4aFdZSE9QU083Zk91MUdjRGVMeWtza1l3dklrcDB3LV9FdUdxMHhZaHdvQ29HTlRqaG5fLURocHZrSnF3SnE0aHNLMUhfV1JGOERfZ0t2VjRISGdRMHhHaW9iMTB6QVpyel9hYXpsbEZ6dk5rUUdnQ052UmNSeVc3OXFuVElpeG9hNjRhT1BYTzBQRnpKVE5lenpwMm96UWZ6U25mS04wT0R3bmpMRXBY?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Parliament of India : Lok Sabha Member of Parliament – R - Sarkaritel.com",
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com",
           "source": "Sarkaritel.com",
           "severity": "low",
           "verified": false,
@@ -314,19 +351,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Haridwar election results 2024 live updates: BJP’s Trivendra Singh Rawat wins against CONG’s Virendra Raw - The Times of India",
-          "source": "The Times of India",
+          "headline": "Zero tolerance for corruption in Uttarakhand, says Rajya Sabha MP Anil Baluni - The Hindu",
+          "source": "The Hindu",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkdnZUduS0EzaExneUJFeWVKQkRxOHdEcEdDRUVYaHBzenJPLTEzZURXdzE3Vm43ZWtBZEJMOUlaQzllWUxRbEtITi0yNXI2U1d2UGlvVTlFSmZEampkWG4yNGVrbHJzUFhvaXhMNFQyNG1YMkk3ek5jYTE1c3J0T2xUQ24zSU9nazlQM2phZnhodnY3QUJLT1pqVnd0NmFHOGE4U1RsRTY4RjQ0WmdfcDVKeU1BUHYwZGpZ0gHCAUFVX3lxTE01cDdKWVoyNVRITFVSLWE4b0lORk5tallZcUktaUFhdWpmVFB1dU5SYktkbnlic2pOc05VRkFtQzVSb2oweFJQUzlvc3oybGpWWURlVnpHbEtKbDhzRk1KTm5zOFZMQ2hpa3Y1Z0tKdGMyRF80aVVlRjB1Si1tczBya1RJbHd2ZW1yVjNuNzhna2R5QlVqM3FoMXlhWW1yX1VDdEo3OVpWQnl1NW1GZjJieUt0MTZrNHRXMW5DcHlhVndn?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "BJP LS candidates second list out, Anurag Thakur and Gadkari among the big guns - Prag News",
+          "source": "Prag News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOUHhPNkplVk1rcDl0QlhPZHdKMDhjNHNLRjhnUnZVNU1VVmRyMUFpOUIwd1dSaHpib1A1by1VNHloNHpITjdiZHZ5S184NGwyRDk5TVhWbjJYRDZNSmNhdERSd0gwSWJHMlBDVXpzMTlKM3kwNmlBVDA5LTF0Zmt2cmpHeV9tUkFzQVBFRFRNSGx3T0l4eU40cUxUYm1ZX0x5RmxEUXNGRnpTZW9ZNmwwaEVtWUVMdUJiVGI3bEhzakxGRl84dk9kaFU0MVZSSGNTcnFNbFhkV0pHclo0Qk1ZNklfZFN0bEN5QTZhaGc5SWI2a0FFc0JucFRUUzBLN1JUS01YUWR6MXpZelFTa2dYSmpjTFpta2l1QmdVbmFQUkxGY2JrUjJsb1VzLVrSAbICQVVfeXFMT2pXYkVsMkhuSTJ3YlF3SmlUUHV1UzF0eUFLZnEzZl9veVZsSVJGMDNKN2otZl9TQ2Q2Vks3X1FxRVE5UWV3aHU5Q3hSMHNoTi01SU1GZVM5VnVvZlpqbzZ0Q0ZIVzd1MVd4U2s3RFRWS3Bzay0wTkFBaEtmRWZ6VHphdzJibXN4LWE4RjU0cFpXamhSSklqNjdYemxkZEYtOGxLRFBxc3pkWllBTWc4alRPRDUzeUV0Q1FqWWtlUnVPS1N2b29jVW1IYTFVakxmVWpxd25FQmNTNHZGQ3lhVmNUV2ZXMGQ3eVJWLXNpbVJfQTdUVE1nclUyNGtvQ25aZWo2Q3RGbGgzMVZDcW1rdHh3OGE0WXNwa3AtTjBjTVRHdEJLYkpOdTFRVmc0Mzh4OS1n?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVBYNllXcXZ6SlBGaEJKTUM3bEpQYVZXSVVGd2ZOZmlpVkZaWFc5aFVVTEJkQndpTnppc1lpempTRmlaN1ZpMmZYWnZXUG83aC1rekVmVUx5ZzJfZ0dLbDIwZTZTVVdwdDd0aml3c2pCUGZvSVNsVVl5RDZDc3hHUklOVlpTN0xVbEFCM09DUjhpYTZWTmpnNmt2c0ZLODlQQWhFMg?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Gadkari, Anurag Thakur, Piyush Goyal, Khattar Among Big Guns In BJP's 2nd List of Lok Sabha Candidates - News18",
-          "source": "News18",
+          "headline": "Uttarakhand CM offers prayers at Tapkeshwar Mahadev Temple for better health of people ahead of polls - ANI News",
+          "source": "ANI News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVjNkdjdrSHNBWkdBTzdGV0ZRVGdncjd4Q1FSU3BYOVE3eS1NVzhQWHdQT1RZeXpWcDl0dHctTHI4VHk3ZUVCU1VpMEtDS2VBNVZrQ3BJM2Fsa2Q4WjRUMzhOWnZmbkk5b1FpTm5Eam9tdWRHN1czdHpoTVVSeTJRNFJwOFJzcEJtdGZGcV9JSjB1NTROMjVHWWR4ZlpKV3ZaOHZWVGlCTGFqZVZLV3gwUEJicjNEYzk5cmxwYngwb1VhdkE5TEdseVlPNGlKeHQtcndldXVIWnl5WWl5bGVz0gHkAUFVX3lxTE04T0EyQ0V1LUl6MnlZR0NQVWNua2VhVm1LT0xTa0VPdFMzbkltSnhsOGJlc3plQmZjZ291LThIRTRNVm5DM0IzR2xkNENVNWtuaUpmVGx2a290SFRZcHRWRFNMOTU2RFp1cFVhXzJWTkp6cjF5eXRGNlJsUWxqWWVqenpMX01UM0Rpd0drRnhpWGt6UkZpUUY4ZHhiUmE4TDY0cHdDbEFTVnFkRFY4VzE1dXFQNTBiZlJlNUliejNUeWRnSkRGUDg3NU5JLU45YmRTYzdkd2hycnNscDZGbXFrZUZfNw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWlZ2VnY1cUptcmh0TERkeUUwc3drSDA2RzRIb245S1E4UFhKbGJaTGJqajlhakYwd25GY0cwWUk4VGRyd0hTM1ZmSWliNHBiMXRVbm5DY05vVkhrS2o2STZncWdwbXQzeTRHRDBmeE1PWmlPX1BhZEwxaDNzWjNPRFlBQVBrcEtBLTcyOGtHLVhldU14Z2o4SlM4TUFYMGxtRG1hSTFlVmFvSHVwWmsxNDJKR1UxdFpOMFAycDNVLTRNRlVQc09ySDFEOU13Uk1uUnFFMmdRRndWSTJnQTNJV1oybzdOWkNIb3lhNm1GWlN6SEs0VFVBWA?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -360,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 6,
+      "starred_questions": 1,
+      "unstarred_questions": 5,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 10.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.24,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -428,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttarakhand: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 67,552,039. MPLADS utilization: 2.4%. Parliament attendance: 95.0%. Questions asked: 6. Debates participated: 1. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:54.481810Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 6. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.083103Z"
 }

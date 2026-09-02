@@ -4,16 +4,16 @@
     "constituency": "Nagapattinam",
     "state": "tamil nadu",
     "party": "Communist Party of India",
-    "myneta_candidate_id": 161,
+    "myneta_candidate_id": null,
     "slug": "selvaraj-v",
     "house": "lok_sabha",
     "sansad_member_id": 5800,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 62,
+    "age": null,
     "photo_url": "/mp-photos/5800.jpg"
   },
   "criminal_record": {
@@ -22,70 +22,94 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "RPF/ Thanjavur Crime No 33/2017 | Section 147, 174(a) R. Act 1989",
+        "ipc_sections": [],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Spl. Judicial 1st Class Magistrate, (Railways) Thanjavur",
+        "fir_no": "RPF/ Thanjavur Crime No 33/2017",
+        "case_no": "CC No 07/2020",
+        "other_acts": "Section 147, 174(a) R. Act 1989",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=161",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.790972Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:36:31.306520Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 11062368.0,
-    "liabilities": 2853957.0,
-    "net_worth": 8208411.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=161",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.790988Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 9.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.03,
-    "expended": 3.51,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:48:48.355756Z",
-        "notes": "Official eSAKSHI REST API — Works: 73 recommended, 55 sanctioned, 24 completed"
+        "fetched_at": "2026-09-02T14:50:40.890702Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:46:41.181151Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:46:41.179121Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 73,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 23.877551020408163
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -100,7 +124,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:28.696785Z",
+        "fetched_at": "2026-09-02T14:46:41.178315Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +132,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Nagapattinam MP seeks introduction of passenger services on the newly constructed Karaikal - Peralam BG line - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSEZkeEIycFVCcUZJYTV5Q19NSHBTQWNwVGxyblVCbDFOTmVmSDhoaWFja2VpVU1XX21iN2docTJKYkxmaGtseUFUSWxNZk44NnVPUko1U29INzk0YndpTFh6OHg1Um50ck5kdjZEMXYzbzZUMEZVU0RJdUh0M0dLV2R1MG04eF9xZFB6c2xVbnVVWGpwWUdUM183cGhWcUtka2hYVGZkMW05Rlo4aDkwNmcwazFlMURhN2pqRjdQQWhmZDBnM2FyOUdOUlN2a0xnX2JZYmJRMlk4MnJxVHlhYjhCUkFxUWxBT3J2d0MxMUptcFQ2VTUzbWJTemU5czE1ZXFZN09MV0VaQdIBkAJBVV95cUxNRTNkR3NRdFQ3MHlCTDctMy1oR2d6aFlXaDJyNVV5TG9wQllHc293eDdtUC1Kd1NSTi1mM0tYUEVSVTZ5R2ZBYUdOUHNLMnVfYmJNUDIyQnQyVGp6RzVvM2I2bllPY0R2QWtyVU5RWTFrUE9HaUpJc3ZPNlpmb21HcUpvMGxPUHpLUkNWNFFncmJRTFQwWlN5TGpkbTVGNktSMUo1SDVEcXFFNFhsN09tZDE4blVGZ2ZTclZjRk9tMmJGWmxTSmoxb1lqLWFVX3NmdEYxZXNQNDNwMkU5c2lGOExaLTdrVEZQd0VDUlR2TG1vVWRzMWJaeW9FZm1RQWhVd19NXy1yeUh4YjAxbWpvNw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "CPI’s V Selvaraj wins Nagapattinam in debut general election with overwhelming margin - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUk16ZlltLUF3WVZCc0kyQ2Zqc2hza3hWZVpwRUNKYXdfVnl5TWdmNndXcDlYSDg3MkR6WnRTQ21EYkNQeDJUTDZVem9XeGRsS1ZHWU84YV9TeV9WUVpwYm02aWlPa3lxSVRrTTJ3U2xIdHVxN3JySEdXZ1NPZWxBN296ZzFaZXNMVkVwZ3lDNS1oU21DZExMb2xuVWZQVmRaWGRtb1ZiRHpocmlfZHozc1NxOEM5dEZwN3ZEUk96OUpyOE9sRGlPUFV0bGFoV29GZHgyUnR1MWpScDAzZ3oxTtIB7gFBVV95cUxOMno0TFRLYjY5NGYtQkQwWVY4OVk1N3Q4aXAyaWI5Nl80Q01hMTMyaTBySmFpMmdYdVpQSld3aGJBZVVoVlRCc2dRT3VISl9ia3VWN3NtNk10QlA1bGEzRVNBVmlfWnZ6dlV6YnR6UkIwbUMxMVNuY0k1NGt6T2dWaHl5VnZ6NkdDWXJqN2dScXpSLU5ZRFhTdjE3ai1nY2dUWHZndnUyZHUxMGhicmpUOVFQajc1TVZLaWVpdkZPWU5weWQzSEQ0dFRad1lJOE5VQnVKUjVOeEV5c25YMG9YMEEySF9rYkdDeFdhcmt3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tamil Nadu: Four-time CPI MP M Selvaraj passes away at 67 - The News Minute",
+      "source": "The News Minute",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0VUY0UwcGZ5X0RCVXBWUmIzejhfNkNYWk15ZzdWcEVTV05MR19jSmlnWUtiV2dHQ1JuMVJWMHFQNy1nUjg2QnFXSnVTSVFVd1pLblNQcVJ5Tkc5emtQLW5kUkRUYzJtYWRIa3djdzBkanI2Y2dRWXFhYUlYWmNqMFRsdjY5aE5EaG9JWVhLY3NudW9mMmdkUU5nTXRrd9IBqwFBVV95cUxOamZScGNHQmRrczg2Yl9VOEJQY3U4WnBFb1JLbWNlV2tSTFh5OVZiQTVrNm1XUDFpMWxpNU9HdmxIUlNYTG1jV0h2ZmNDbzdhVWFZbnkzcVUzTG1RQk1EMWxscll2dFVhRlJFbUtRcUV4RDc4Sk1BNTl3Vkd5NF9OMERZTDItU2VKb1pqN0VQZ2w5MnRzbmxaakNiMGkzcWh2dHFabUwwb3hkeU0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nagapattinam election results 2024 live updates: CPI's Selvaraj wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOa0VvRzh2QzZFYkhvaEVMcEJRUk02cDlzZTZDMkQwWTJraWZwY3J2c1RUVm1RSmg1SVpBVWN0cjFsT0ZRZ3NTNXlWX2U3NHRFNnRvZHdicU1FMlNfRlVidW14cU9qSUhLMEEwakRIeVpTT3hHU0gyMURRcDAzQk1DR2N6M0dwcWI2UXN3c0xOekF4Z3RNd1NxMW9uelE3dUVDaWZWc29qTm9vTXhYeE1QdGJVMU5vcXVwUE8yb21KMHNhUXVDRFJRR2lFRU91SDVOQkhQbzhiNEg0aV9XYTNRTUVfaTFfVHlVdG8yM1NRV0FnRDFCOHZ5T2RJbzk4VElDQk9ncXJXMWNja0h5UXRjckNuNmgwOWlnV0l4dWFYWU9nZW1KTlcxWWxjbkpWbnlFUnBoTmtJWFJYWGtRdXJzWGNEbndzaWhVRXJVQmZnMC1sV0tnN2lId3Y0OHfSAeICQVVfeXFMUGlIZmNrS1VZaTJKN1VKOHBvblN5bGFkNGdVeTl1eENTbGtBTlkwdFdCUk9JU1dfTmFoTG5aRTNDS1NraWtFM3BsSnMxMGQ4U0JVb05ycTY1VUdFdFBFSVdxbkIzLWI1TDI1dlkwM3IzRDVlT25tSVdaejl1RV9GYnM5RF85SmU3dGswbGk5cmZ4VTFoaHZWNHYzdm1sbmlLX2taY3kybFZja1ljX29yRG50ZFZwXzR3RWg5VkxfYXVyZkNqWTktM043TG5MQmllREU2S3ZpUzJ4dkZsTXNrMTRVZEJ3ZEl4dHZrbFNIVEdWVE5EMWZrTUlzbldSQVFjMDd2RFNoa2ZiWmNMSXlIdk5XVVVtYVY0cHpmXzk1WlQxTWZvTXhKSlJPdERqNnNtU19YMV9yV1ZMcEs4VEhHUTZpaklIbjJBUFpKdUxZQzAwSFRkV3dTbDBMejZVLU1EQk13?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nagapattinam MP and veteran CPI leader, M. Selvaraj, no more - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDF5RVMtd2xEY196dnNtYkZvX1hHejZZMFNRMmhfWjRYX0NXOXAya3k3ZWVTc1UzMDVjTVllMXZYdjRSNnItSlhrMTFRYzdtVEZGLVVFMWI3WFJJVkNjWkVrTVlZbXpNamMzRy1pSUt2akptdVdKYi14aE4tYXJqd01QdmZiNGpsZXUxbHhrTFZLbGtqVEh1cnpxdjdfYUhlSEpyZDE3dFJpaXBrbk93R2lGUW1tVmRRN3NEWFY4bllPdndSS0HSAcwBQVVfeXFMTjVMSHhQQ2FiOEtxMXcwaHhmakw2QzRXMHdCNXlTT0lRX0JxUW1lRUI4aHFDSEs2Wm1IQ1hUTGNZU3REQUNvNlVabzFFUngzMFU4ZlpVSGZWaVpDSFZON1NRRVZNNEF1aWxleGVackhxVGxMb2JQa3NNUGNOa0VyM2UtRTV3d1BnOEJVRFNXMXFMRGVvUWVpNC1MVk9wSmdHd2RyYTNMdXBtbTVGZW5rNDB1UzJiMFM4ai1vYmhxQWNkaEp1UjltTHl6aHA5?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:31.187566Z",
+  "collected_at": "2026-09-02T14:50:40.891505Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +201,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.730810Z",
+        "fetched_at": "2026-09-02T18:38:10.245535Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +217,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.730819Z",
+        "fetched_at": "2026-09-02T18:38:10.245545Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +233,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.730824Z",
+        "fetched_at": "2026-09-02T18:38:10.245551Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +249,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.730828Z",
+        "fetched_at": "2026-09-02T18:38:10.245556Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +265,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.730834Z",
+        "fetched_at": "2026-09-02T18:38:10.245563Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +281,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.730838Z",
+        "fetched_at": "2026-09-02T18:38:10.245567Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +297,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.730842Z",
+        "fetched_at": "2026-09-02T18:38:10.245572Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,40 +322,49 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/i/flow/login?redirect_after_login=%2FVSELVARAJCPI",
+        "url": "https://x.com/https://x.com/i/flow/login?redirect_after_login=%2FVSELVARAJCPI",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:46:43.989146Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
-      {
-        "headline": "Roadwork yet to begin in SC hamlet near Nagapattinam, residents flag delay - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX1NvWWZ4WXpXQTFMLXg0R0pPcUQtQ3pJT3pyV0prRkN0bFBZNmYyblRIekV5M1NJZlF5enp1M3NMMlEzSHJmZVJINjhvZmVIVXlJYV92SWhlWlhaS05ENUdmYXBuajg3dG54VktETzdDeXkyeVhWTFExWXVqalo5VXJGcU1taUZGV1RtaEJuTEYwcnpQaERHRjFRMFlHZXMwOGdiV0hJVXlWcDJMZHFhWWZnd21KaXAwaVNVRDZfMGFqT0t5WWE4TkF3OHRZSmxYeFBtN3d5aXNlRkNncVHSAeQBQVVfeXFMTjFYYXVlTW8tVWRpNG9BQnMtVU1fNWViYWxkeFpENzkzMmtPWnZBSmFzTlpDdEFhOWxfYTk5QldwQjNXbXk4eUJfZFE3cVMxb1kzUkxVekdsZi1YWEhtS0NCOWVKX3JZTzR0RHBhOWVMSU43cm5oNHRnbDdKS01uS1ZTeEVxdnpLX0thTU9LeFBWUFUtc19kanlzcHZaNV9NTDJuTndKODBZTVgyQmhyVzBvQWhQX25UdHRzcHpXMW5vcFZrMzVDOGRPNHlfNzctb1NyUVduTXZaeDdhMERyM2NaYUhM?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "CPI’s V Selvaraj wins Nagapattinam in debut general election with overwhelming margin - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUk16ZlltLUF3WVZCc0kyQ2Zqc2hza3hWZVpwRUNKYXdfVnl5TWdmNndXcDlYSDg3MkR6WnRTQ21EYkNQeDJUTDZVem9XeGRsS1ZHWU84YV9TeV9WUVpwYm02aWlPa3lxSVRrTTJ3U2xIdHVxN3JySEdXZ1NPZWxBN296ZzFaZXNMVkVwZ3lDNS1oU21DZExMb2xuVWZQVmRaWGRtb1ZiRHpocmlfZHozc1NxOEM5dEZwN3ZEUk96OUpyOE9sRGlPUFV0bGFoV29GZHgyUnR1MWpScDAzZ3oxTtIB7gFBVV95cUxOMno0TFRLYjY5NGYtQkQwWVY4OVk1N3Q4aXAyaWI5Nl80Q01hMTMyaTBySmFpMmdYdVpQSld3aGJBZVVoVlRCc2dRT3VISl9ia3VWN3NtNk10QlA1bGEzRVNBVmlfWnZ6dlV6YnR6UkIwbUMxMVNuY0k1NGt6T2dWaHl5VnZ6NkdDWXJqN2dScXpSLU5ZRFhTdjE3ai1nY2dUWHZndnUyZHUxMGhicmpUOVFQajc1TVZLaWVpdkZPWU5weWQzSEQ0dFRad1lJOE5VQnVKUjVOeEV5c25YMG9YMEEySF9rYkdDeFdhcmt3?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Nagapattinam MP seeks introduction of passenger services on the newly constructed Karaikal - Peralam BG line - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSEZkeEIycFVCcUZJYTV5Q19NSHBTQWNwVGxyblVCbDFOTmVmSDhoaWFja2VpVU1XX21iN2docTJKYkxmaGtseUFUSWxNZk44NnVPUko1U29INzk0YndpTFh6OHg1Um50ck5kdjZEMXYzbzZUMEZVU0RJdUh0M0dLV2R1MG04eF9xZFB6c2xVbnVVWGpwWUdUM183cGhWcUtka2hYVGZkMW05Rlo4aDkwNmcwazFlMURhN2pqRjdQQWhmZDBnM2FyOUdOUlN2a0xnX2JZYmJRMlk4MnJxVHlhYjhCUkFxUWxBT3J2d0MxMUptcFQ2VTUzbWJTemU5czE1ZXFZN09MV0VaQdIBkAJBVV95cUxNRTNkR3NRdFQ3MHlCTDctMy1oR2d6aFlXaDJyNVV5TG9wQllHc293eDdtUC1Kd1NSTi1mM0tYUEVSVTZ5R2ZBYUdOUHNLMnVfYmJNUDIyQnQyVGp6RzVvM2I2bllPY0R2QWtyVU5RWTFrUE9HaUpJc3ZPNlpmb21HcUpvMGxPUHpLUkNWNFFncmJRTFQwWlN5TGpkbTVGNktSMUo1SDVEcXFFNFhsN09tZDE4blVGZ2ZTclZjRk9tMmJGWmxTSmoxb1lqLWFVX3NmdEYxZXNQNDNwMkU5c2lGOExaLTdrVEZQd0VDUlR2TG1vVWRzMWJaeW9FZm1RQWhVd19NXy1yeUh4YjAxbWpvNw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "CPI’s V Selvaraj wins Nagapattinam in debut general election with overwhelming margin - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUk16ZlltLUF3WVZCc0kyQ2Zqc2hza3hWZVpwRUNKYXdfVnl5TWdmNndXcDlYSDg3MkR6WnRTQ21EYkNQeDJUTDZVem9XeGRsS1ZHWU84YV9TeV9WUVpwYm02aWlPa3lxSVRrTTJ3U2xIdHVxN3JySEdXZ1NPZWxBN296ZzFaZXNMVkVwZ3lDNS1oU21DZExMb2xuVWZQVmRaWGRtb1ZiRHpocmlfZHozc1NxOEM5dEZwN3ZEUk96OUpyOE9sRGlPUFV0bGFoV29GZHgyUnR1MWpScDAzZ3oxTtIB7gFBVV95cUxOMno0TFRLYjY5NGYtQkQwWVY4OVk1N3Q4aXAyaWI5Nl80Q01hMTMyaTBySmFpMmdYdVpQSld3aGJBZVVoVlRCc2dRT3VISl9ia3VWN3NtNk10QlA1bGEzRVNBVmlfWnZ6dlV6YnR6UkIwbUMxMVNuY0k1NGt6T2dWaHl5VnZ6NkdDWXJqN2dScXpSLU5ZRFhTdjE3ai1nY2dUWHZndnUyZHUxMGhicmpUOVFQajc1TVZLaWVpdkZPWU5weWQzSEQ0dFRad1lJOE5VQnVKUjVOeEV5c25YMG9YMEEySF9rYkdDeFdhcmt3?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -309,6 +381,14 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOa0VvRzh2QzZFYkhvaEVMcEJRUk02cDlzZTZDMkQwWTJraWZwY3J2c1RUVm1RSmg1SVpBVWN0cjFsT0ZRZ3NTNXlWX2U3NHRFNnRvZHdicU1FMlNfRlVidW14cU9qSUhLMEEwakRIeVpTT3hHU0gyMURRcDAzQk1DR2N6M0dwcWI2UXN3c0xOekF4Z3RNd1NxMW9uelE3dUVDaWZWc29qTm9vTXhYeE1QdGJVMU5vcXVwUE8yb21KMHNhUXVDRFJRR2lFRU91SDVOQkhQbzhiNEg0aV9XYTNRTUVfaTFfVHlVdG8yM1NRV0FnRDFCOHZ5T2RJbzk4VElDQk9ncXJXMWNja0h5UXRjckNuNmgwOWlnV0l4dWFYWU9nZW1KTlcxWWxjbkpWbnlFUnBoTmtJWFJYWGtRdXJzWGNEbndzaWhVRXJVQmZnMC1sV0tnN2lId3Y0OHfSAeICQVVfeXFMUGlIZmNrS1VZaTJKN1VKOHBvblN5bGFkNGdVeTl1eENTbGtBTlkwdFdCUk9JU1dfTmFoTG5aRTNDS1NraWtFM3BsSnMxMGQ4U0JVb05ycTY1VUdFdFBFSVdxbkIzLWI1TDI1dlkwM3IzRDVlT25tSVdaejl1RV9GYnM5RF85SmU3dGswbGk5cmZ4VTFoaHZWNHYzdm1sbmlLX2taY3kybFZja1ljX29yRG50ZFZwXzR3RWg5VkxfYXVyZkNqWTktM043TG5MQmllREU2S3ZpUzJ4dkZsTXNrMTRVZEJ3ZEl4dHZrbFNIVEdWVE5EMWZrTUlzbldSQVFjMDd2RFNoa2ZiWmNMSXlIdk5XVVVtYVY0cHpmXzk1WlQxTWZvTXhKSlJPdERqNnNtU19YMV9yV1ZMcEs4VEhHUTZpaklIbjJBUFpKdUxZQzAwSFRkV3dTbDBMejZVLU1EQk13?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nagapattinam MP and veteran CPI leader, M. Selvaraj, no more - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDF5RVMtd2xEY196dnNtYkZvX1hHejZZMFNRMmhfWjRYX0NXOXAya3k3ZWVTc1UzMDVjTVllMXZYdjRSNnItSlhrMTFRYzdtVEZGLVVFMWI3WFJJVkNjWkVrTVlZbXpNamMzRy1pSUt2akptdVdKYi14aE4tYXJqd01QdmZiNGpsZXUxbHhrTFZLbGtqVEh1cnpxdjdfYUhlSEpyZDE3dFJpaXBrbk93R2lGUW1tVmRRN3NEWFY4bllPdndSS0HSAcwBQVVfeXFMTjVMSHhQQ2FiOEtxMXcwaHhmakw2QzRXMHdCNXlTT0lRX0JxUW1lRUI4aHFDSEs2Wm1IQ1hUTGNZU3REQUNvNlVabzFFUngzMFU4ZlpVSGZWaVpDSFZON1NRRVZNNEF1aWxleGVackhxVGxMb2JQa3NNUGNOa0VyM2UtRTV3d1BnOEJVRFNXMXFMRGVvUWVpNC1MVk9wSmdHd2RyYTNMdXBtbTVGZW5rNDB1UzJiMFM4ai1vYmhxQWNkaEp1UjltTHl6aHA5?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -342,15 +422,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 42,
+    "starred_questions": 12,
+    "unstarred_questions": 30,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 81.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +438,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

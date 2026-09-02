@@ -4,16 +4,16 @@
     "constituency": "Shahdol",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3,
+    "myneta_candidate_id": null,
     "slug": "himadri-singh",
     "house": "lok_sabha",
     "sansad_member_id": 5070,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 37,
+    "age": null,
     "photo_url": "/mp-photos/5070.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Shahdol",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3,
+      "myneta_candidate_id": null,
       "slug": "himadri-singh",
       "house": "lok_sabha",
       "sansad_member_id": 5070,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 37,
+      "age": null,
       "photo_url": "/mp-photos/5070.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:59.092740Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 50180267.0,
-      "liabilities": 4284426.0,
-      "net_worth": 45895841.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.008020Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 39.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 6.33,
-      "expended": 5.02,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:27:32.641800Z",
-          "notes": "Official eSAKSHI REST API — Works: 132 recommended, 95 sanctioned, 39 completed"
+          "fetched_at": "2026-09-02T14:58:05.438568Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:54:02.813330Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:54:02.810327Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 132,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 34.14965986394557
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:30:55.716643Z",
+          "fetched_at": "2026-09-02T14:54:02.809182Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "BJP leader crushed to death by Bolero: Murder mystery deepens in BJP MP Himadri Singh’s female assistant ca... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckU1UEx6aEV2ZjA1Uk50Wk91Q2MtN1NlcnJlN0doZTdieVRNbi14OGRzbWd6M2QyU3JkeW5sT3NSWnBmOVY0UEFOTkVDU2gzUW5HbF9aNzZ5b0JPZ0dBblBjUllaZ3lhcDVfdXlVTk5NTEtpUnFucjVQNkx0aktQOUpUblNKYmFhVk0yS2xUc2JVWGZxRUlRZUlaZEJDVWdLbnBtMk1OdXpFSUxYaFI1OVdkXzlQYk1HVU9WdWV1OG_SAcYBQVVfeXFMTWxOd0hTZ1lVMDZSbDB2bGFPZmVRdkc4TUQ1WVZQcnZ0bndfYldWQTNSbUNRa2gyT2l2VGZiV2E4VFhUTFFneUpJaVJ6cXlzMmUxQ3VCNFBVQUJSS2dXRDJLV0xCOHUwZTE0QnlpcVA3QzBUa1o4ZG5QenpZSnAyTHNHeVAtbHB2OXdacUF4RDBYdC1BNVEyamdNbTM3WjNuZ1FRcWlBVWRzalBDRUE0NkRpaUt6Ry1jYkpWYzEzZmlRSHJDTGpB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Two women slug it out in Shahdol - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFNjbWwxVEdlWmo3M3BoMnJtQ3pFYXBXU3VtNFJOT1lLVU41MGtzWG4zT0FycWpfdldMSHkySEVBaWZkZF9SR283eGpiNzV4MUxzamJfeGkyMU5hZFczeXFFbk9nNXo0TWF0d0hYWVBuNUxlemRfNE5fNHZmQjItei1LZThZVkI3SHZhY0ZjMmRtMU1PcGhhLS1hMkN2elFjRW1JZzBkSErSAa4BQVVfeXFMUEUzTkNoOGxCSS1GZjJOTEpWTFU0dlV4bWpsdmlpdkxRaHJtdXFYMW1XeU1ZbFRodmNSWkxhNmNwOGp3MXRidEtMazFjRTkwX01lRkNyVlhpNzdERUtMR0RsbmFiMmV2MWdOV05FeGZxd3pIWHVGVDJBTm5Lcm5Gd2doT0xzNFlaNlc2MUo1M0VvNTRzZDJ4cURHeTBlVGxFZGJ6TXNQSXp0UWRIUFRn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Denied ticket from Shahdol, MP Gyan Singh announces to contest LS polls as independent - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUVBnanppWjZ2bGtZTzNFVnoxSVVvZWl3RnRmUGpTM0ZqSFFvcHdyRHlBemlxRV9CTUZOS2EtVzFoY1E3ODZUTnFydEVHTWhOd2VwdjlmYWlOYWhlc195Q3FmOHo5em43NTJRd1pRVmZ3WnhxVC1pck1UOXdyNWF2LUYwTEJtN1d6b0hrZHA2Szh6XzRHRE1vei1CMTJNWWZGNExDaWNxbVdiVmg1UDdpZ0dLSjNPTVhna2Z1YWg1LUxkQWs0bE03eWc0NkVrenVBS0ZyWGVjRE5fdV94aFo2bmpSONIB8AFBVV95cUxQdTNfbC01LWphVlZobmFXUEhULWFKa3BxemNXZnQ4T2pFRVg0Y0ZpVGxVb3F2WkJLazhhWWV5MzRpdmxIUmdPQXc5NE5aYkhabHZzZkg3X2dhdXhKc1BZSXNqTjVEUVNnTWNpVEtHejZodE1BRmVMaDUtUHItcVJIeUx6N1diM3dvVkdJNnJIYmk2em9EeE52X0hCa01Hdmd5dWY3Sm1sNVJMcEdzR0dWaFdTSmtMWWUwbl80NmloaElXU1lYTmpZVGF5RTdvckFsczlyZXlqaE01cy1teU1QLXJfVU5GSEJ5WkkyNlRQLVo?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shahdol lok sabha election results 2024: Shahdol Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQzBKZjRNdXR3OXBTekI0djZMSFpRbnFwN0RBSUgzbFdwbDBKSDlFN1J2UEVsQkpJWksxcmM0Qk9kM1FfdDZzaWI4eF9hekh3bGxUUUJfZkNnWWtQZ05pY3dzOEpFeWIzZThzOGFadlc4a04yb0pCdU5RZWlDcW83X0dtSW8xVG5sYlhzbTVUY1B5VHBCNzJGVkxR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shivraj Singh Chouhan from Vidisha, Jyotiraditya Scindia fielded in Guna in BJP's 1st list - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNV3kwRElWZUJxQlVjWUVkNHI1VnM1QmFVZnNjRXNmTXZnRVpTYUNQWHpKcGJ1N0FRakpGbnh4NjZUTHFWdXd2UlBUWUllVmthUFR1eVd5VmhIX2pBcDhIMUotcmJsel9zSXd1X2k3dFAzVmF0SE5TaFZ5T2Rlblp4Z1B0SmNoVGdtdXBGckp2MnNOWWVMeWtyeDAzRUN2eWt0YlZpajJET3JEVTJsNjFYQWJxaDZzX1RMT2VRQ19yVkV0T29Qd3JDYjJZbmNuZnExLXgwQ19heVotUk91Z0FXZGpMbXZGWXVrTFRqTDZPam1qVUt20gH6AUFVX3lxTE54TjhHNEdva1prdGhQS1Z6TllIMGpUVWhUajJYeUktX0x5N1E3MHlFUE5SNDhUWWRuanFkQ2g4M0FnSFFId1hyaGcydzNxRFJDMU1QWm9IdVNJN0pWY1RqYkVYd0JWRlRBSjM3NUgyVXhPVTdmaHlYX2FtTWV5UzFKQ0tUbXl0QVdnZE42WmtfZktFTEFLeGpzZGV0VU52TUtqdFQxQXphai02ZnRfa1JPd2x5VWtqckpCdFNLdUZzTGRlZ0lEeVYxU2wtZTNlMjE5V3laMUlKcnBXeWhfOXVhNFhWUGJzcW8taUMyOXYxVmlfU3ZhZXdoQVE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:31:56.897057Z",
+    "collected_at": "2026-09-02T14:58:05.439611Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.894069Z",
+          "fetched_at": "2026-09-02T18:38:07.388624Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.894078Z",
+          "fetched_at": "2026-09-02T18:38:07.388636Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.894083Z",
+          "fetched_at": "2026-09-02T18:38:07.388641Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.894088Z",
+          "fetched_at": "2026-09-02T18:38:07.388647Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.894093Z",
+          "fetched_at": "2026-09-02T18:38:07.388652Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.894098Z",
+          "fetched_at": "2026-09-02T18:38:07.388659Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.894103Z",
+          "fetched_at": "2026-09-02T18:38:07.388664Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.894107Z",
+          "fetched_at": "2026-09-02T18:38:07.388668Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,11 +338,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/HIMADRI 4 BJP",
+          "url": "https://x.com/http://www.twitter.com/HIMADRI 4 BJP",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/HIMADRI SINGH",
+          "url": "https://facebook.com/http://www.facebook.com/HIMADRI SINGH",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "http://www.instagram.com/HIMADRI 4 BJP",
+          "url": "https://instagram.com/http://www.instagram.com/HIMADRI 4 BJP",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:54:05.641232Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -306,14 +392,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "दिल्ली से पढ़ीं BJP सांसद ने अपनी बेटी का गांव के सरकारी स्कूल में कराया एडमिशन, उमा भारती ने बताया आदर्श उदाहरण - AajTak",
-          "source": "AajTak",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQlREbGFFR2hkUVhuUmxaR0oyall1XzBSU3lxdGVhTENhamhqZl9tWFh0d2xNVHJSaHItYmE1M0Q3dUJoX3psOUR6N2JnNnZHc2plM3BWcGpQMEc0bnBXd3A3dGtwcmJqeXh5MmNYVUQ2UkxVOVVVdTZ2MXVEZTMyR3dCcHA3TTFXVG14d1NMX2I0QjlESE5oVm1PQXB6T2ZwWlpkemNJMkNsQklOcDY3REFUMWE5bm1uek5QR21iR3NKNXNWcDNQQVp3bVYwbWFVb1dJYUlfbHhFdmhsRHUyNFFFUi05TlN1b3gtR0pjNzdiWjNUNE81UHZXY2ZlZ9IBgwJBVV95cUxNakJWMGhGZnhOTFMxOEdWTnVFWEdTV0FVN28wclV3RUFrX1RDdTdidWZUakZYb2tMcVhMb2xVX2FkWmFlV0l2N1hCSks1Q1Y4aGFJYklLazNHcXVEeEFGNkxvS05TMHFXNEQwcmE5ckttUmk2S0NLLXU2TWc5aGRJUVNycXMwMVZsUW1HbFhMMmRGSHZndC1GX2FxQmR0VzJQREt5T2dKb0UxZUgtRVZhMDMzV2lObE5CZ1Z1bEpNUXZwdG1VQ2Njc2ZxenY0d1BvMWs0SlhkbUNlaUQ3NWpVNDhEOGpLUGVlR1pMeHhfaHpaWTRacE9zaElXaTdodkc2bmc0?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Two women slug it out in Shahdol - The Times of India",
           "source": "The Times of India",
           "severity": "low",
@@ -322,11 +400,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Himadri Singh, Daughter of Former Congress Union Minister, Joins BJP in Madhya Pradesh - News18",
-          "source": "News18",
+          "headline": "Denied ticket from Shahdol, MP Gyan Singh announces to contest LS polls as independent - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeEpJTU1aaGpxWVhjeXFxM2hsNVlsLXhlN0ZuY19PN3ZReERfSk9HT1Fjd1QzU1Y3dzhYdmVKam04c3RzLTZKN3kzeDJuMXQ1T0JPemdHMkdESzJ4WlUyNmV6SVF6WXpHcWlIZHpYd1RUX3NXeFdCZXV5eTFEQVNUOVNOTDZfYWRvTXoxOWdQc3ZqLVdYeUQyQ0hIMEJvZnBHX0NmZThxeGZUR2pSSFJJT0l0Wkk5MEpFeUJIYXhiR1NXT0NWUHkzdFVxZ2pYVUHSAdQBQVVfeXFMUFJIRE9sWHJ0cDVWZ3BOVGZlNWwzd1lMSTlwWEY0UVI3NWZhOTF5OXhaQ2xhUFBObDVickV6Qlk1VGw5MjAtMDVkNWQwMUxXaTY2eDlYa1puNDdwNUVZM0tUWjhGaElnZDQxTHBsSzRJd0M0TWMtWURUeUlRRDRLUGx2c0xrOVR3RkhXdnRWSnFoUWF5QlVKWjJPVHpCWFBjRmtkSmIzSk5hNHlXelVkMnhfb3RvWE56N1B3RGx5V2NrdXBtdlNSMGtBdXVxbzVWUTZ6TGI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUVBnanppWjZ2bGtZTzNFVnoxSVVvZWl3RnRmUGpTM0ZqSFFvcHdyRHlBemlxRV9CTUZOS2EtVzFoY1E3ODZUTnFydEVHTWhOd2VwdjlmYWlOYWhlc195Q3FmOHo5em43NTJRd1pRVmZ3WnhxVC1pck1UOXdyNWF2LUYwTEJtN1d6b0hrZHA2Szh6XzRHRE1vei1CMTJNWWZGNExDaWNxbVdiVmg1UDdpZ0dLSjNPTVhna2Z1YWg1LUxkQWs0bE03eWc0NkVrenVBS0ZyWGVjRE5fdV94aFo2bmpSONIB8AFBVV95cUxQdTNfbC01LWphVlZobmFXUEhULWFKa3BxemNXZnQ4T2pFRVg0Y0ZpVGxVb3F2WkJLazhhWWV5MzRpdmxIUmdPQXc5NE5aYkhabHZzZkg3X2dhdXhKc1BZSXNqTjVEUVNnTWNpVEtHejZodE1BRmVMaDUtUHItcVJIeUx6N1diM3dvVkdJNnJIYmk2em9EeE52X0hCa01Hdmd5dWY3Sm1sNVJMcEdzR0dWaFdTSmtMWWUwbl80NmloaElXU1lYTmpZVGF5RTdvckFsczlyZXlqaE01cy1teU1QLXJfVU5GSEJ5WkkyNlRQLVo?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -335,6 +413,14 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQzBKZjRNdXR3OXBTekI0djZMSFpRbnFwN0RBSUgzbFdwbDBKSDlFN1J2UEVsQkpJWksxcmM0Qk9kM1FfdDZzaWI4eF9hekh3bGxUUUJfZkNnWWtQZ05pY3dzOEpFeWIzZThzOGFadlc4a04yb0pCdU5RZWlDcW83X0dtSW8xVG5sYlhzbTVUY1B5VHBCNzJGVkxR?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Shivraj Singh Chouhan from Vidisha, Jyotiraditya Scindia fielded in Guna in BJP's 1st list - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNV3kwRElWZUJxQlVjWUVkNHI1VnM1QmFVZnNjRXNmTXZnRVpTYUNQWHpKcGJ1N0FRakpGbnh4NjZUTHFWdXd2UlBUWUllVmthUFR1eVd5VmhIX2pBcDhIMUotcmJsel9zSXd1X2k3dFAzVmF0SE5TaFZ5T2Rlblp4Z1B0SmNoVGdtdXBGckp2MnNOWWVMeWtyeDAzRUN2eWt0YlZpajJET3JEVTJsNjFYQWJxaDZzX1RMT2VRQ19yVkV0T29Qd3JDYjJZbmNuZnExLXgwQ19heVotUk91Z0FXZGpMbXZGWXVrTFRqTDZPam1qVUt20gH6AUFVX3lxTE54TjhHNEdva1prdGhQS1Z6TllIMGpUVWhUajJYeUktX0x5N1E3MHlFUE5SNDhUWWRuanFkQ2g4M0FnSFFId1hyaGcydzNxRFJDMU1QWm9IdVNJN0pWY1RqYkVYd0JWRlRBSjM3NUgyVXhPVTdmaHlYX2FtTWV5UzFKQ0tUbXl0QVdnZE42WmtfZktFTEFLeGpzZGV0VU52TUtqdFQxQXphai02ZnRfa1JPd2x5VWtqckpCdFNLdUZzTGRlZ0lEeVYxU2wtZTNlMjE5V3laMUlKcnBXeWhfOXVhNFhWUGJzcW8taUMyOXYxVmlfU3ZhZXdoQVE?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +454,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 25,
+      "starred_questions": 7,
+      "unstarred_questions": 18,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 48.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +470,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +501,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +528,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 50,180,267. MPLADS utilization: 34.1%. Parliament attendance: 90.0%. Questions asked: 25. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:49.894918Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 25. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.389422Z"
 }

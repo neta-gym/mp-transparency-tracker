@@ -4,16 +4,16 @@
     "constituency": "Haveri",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3579,
+    "myneta_candidate_id": null,
     "slug": "basavaraj-bommai",
     "house": "lok_sabha",
     "sansad_member_id": 5561,
     "profile_url": null,
     "canonical_name": "Basavaraj Bommai",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 64,
+    "age": null,
     "photo_url": "/mp-photos/5561.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:29.440406Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 539504552.0,
-    "liabilities": 54634074.0,
-    "net_worth": 484870478.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3579",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.560442Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 85.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.5,
-    "expended": 4.99,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:24:08.378579Z",
-        "notes": "Official eSAKSHI REST API — Works: 159 recommended, 110 sanctioned, 8 completed"
+        "fetched_at": "2026-09-02T14:31:12.502008Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:26:21.872170Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:26:24.611042Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 159,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 33.94557823129252
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 70.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:22.212985Z",
+        "fetched_at": "2026-09-02T14:26:22.936657Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "\"Congress depends on other parties for survival\": BJP MP Basavaraj Bommai - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWXozZW1qd0loUmNxNm1pR1FhYUZlSC05WTZtTGtZdG05bXJXaHFNT195TDFRdUJCaFh5MjJlQkVZVkhOaGdobDljbktyalNORmpScmFsNTR3Wko3Y01fSmVjRTRMNlc5bnpJbUtpM1ZjY1oyS3ZXd2luV2xkVHlqa0Mxa09yc1BmSkpiNThOZDhBSC1vUVpsUDRqTXBRQ0k0XzdYaTR1TFlXM2c0bHJ1TU5xSVp0bW9YeUI0REFRMUNyMlN5b2hEMFk4Y2x0UUk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Karnataka BJP says SIR diluted by State government, urges ECI to order probe - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTGlBNnBJdlZBUjNWOGY3YWdfcEpaTEprY19oTm8zWVk1T0JkUWs3TVdNeVlvdUNvdnFHWjh2OGdRSUp6TS1IemtjTXBsaHBoVHE5UnNIZlluMk11N3J2VkdNenFJRFo5X1FJNVRKSVYyZXZLREtwTlhHNHBSaUp4eGtlRXlhVFdlaXRhLUFQSGM3bTBWbnBOVG1odkdNY3FaakNxX21tSk5uOGtMdEprMEtockZJYU1xR1NtUmV1ajFHWHRPWW9ZdHVzVEdYSG51Wjcw0gHgAUFVX3lxTE1wZGo2Y2prNmZPOFF5M1RDWW9yRTJiNVhwTDZEaTNFREZUMFUtYkNMd0c3R3dUcUFPQ19oQ1B3VUFTM2wyUUwzSTJIRXZIZXJTRzNjTEplM1V2cnYzOWI5aVhZV0V2WkZPWEg0SHgtd21FSFlldVdCYVBuMnNXRHc0a2tncllyUTVMY2NyYm1ab1pXUmVOOFBzeGhYX2d1RTJTd01GUWJQMDNFN3hEVW1GM1ZuZ1FfQkUtdmhmYk9leGloN1RVV2g4NlRjUGNlbTZSUFNBX0xILU9XS2kwcjQt?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Indi Alliance Has No Moral Right to Speak on Constitution: Basavaraj Bommai - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQmo3TndJRS0xTFA0U0xkSkl5VjJJOXpXX0FnQS1Cd0hEUWxYY2pudWt4OC0wZlVxdm4zZmplWDJrUlp1U3QzVnMwTHZ1Y2JXZkljSVhCTG8tNnFuTWpBQkxNdTBMZHFBbDNLdnBLUTBIekczOHZqbUZGREFSUTdOamNZT0R3Z1ZaYU10ejg1MVdXUUxKN2FqSkpRVkZVSkt6Z0d4Z01EVHNJdjNRbF9fR1dXLThoSnVzSnFCYVFWV0hYM0k3eVgtRVMzcVBCZU9VQTRVN240d9IB3AFBVV95cUxPX1NEODFTdEVFOVAyTWNNeDZic3BVdlVZY2RjeXZUbzR1a3hNV3Jjb0F3aDBWbXhZc09CT05nQWRqRzZ2enZMZ1RvOW5QY1hkYUoyUmlVeHJMOTZWZlg0R0VqSlJSTHNsZVFwZVlneGducmo2QVVDSWs0dU1zWF9RRHpNZG5kNi02S3NPaUhpNFhkOWVqTFhlNkpkN1doczU0amZzajZBUTMwWW40WVhFcUZzb0FQMEtlTGNFajJnRjZfYzNjS3VsN1RVekdDTk8tNHI5eExUNTZuRFB2?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Naregal clash: Bommai demands SIT probe, action against cops - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ01tUDc0cXg0d21CNXZSd095R1QzSHk5M2FRcXhFNEJZWmJ6enMtYVVPTW9QWUhtakZPR1Myc3FSMDNtejQ3RzJFZkI0d3k2TlRIaTNBaGV0eXRsMm1fUFpxQnNMcDEzYjlocGxnTVZSTnp0UjlJVmFpVF9WUVJIUUl1Vm5qTTd1RndYcUxnYk1VNkRhMzk2SHdMUmI0MWdSeGtTQWxWREZyLWFaTnNFams0M1p4NElBbE9qcHplUUU3UzFBd1ZhNm1YWXdRcWfSAdQBQVVfeXFMT0hJVEF4U3BEa200Nk9MMG1rSDJnT0NZclRjT0NHVWVUNlRBZmlyNFY2eUc0OWxUc0M1cGRpSTg4RzJRWmtlZTdJOU5kbG80MmUyelFuVDhKbDB6WVZDdWpWTEpLbUJWV1NRX0NfQnp2cWtjYTlDNUlmcFg5SW9GZ3I4MjAwYjl2TXJUZjhZUkhLdUwwM3dfSmhhNHExbThYSEZlRzhycGxXN2dEeVFqNEdRUUYwMzd2ZVBnc3E1ZzVPcVZmS3lTY3piNjVHTzZvX0xCWEw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Three family members die in Karnataka truck-car accident - The Assam Tribune",
+      "source": "The Assam Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0Qyc1pHNjNTLXJYYlB0VXlCTkxFaXV3YTBZMnNIejlhRVBUeXpvc1JwTG9ZaFEta2o0U3B4cVFvSm5wTUFmcUtMUXNLSGJET0xMTkI1NG1vOXBIRERmVHFtdlFPNXpsY1pfeEFaUmJ4amYyQzVJMTB4eTVRbzZ1OE5FMjJvT1AzT0xhRG5MUHRaajNNNFdiLUFkY0M1MWvSAaQBQVVfeXFMTm9WQ1Z6YmhVLTg4NFdpcWhHbnB5d0U0clRGRy1TRlJBcWtNamZTNzZ2UFhlTTRIUy1YVGpVaVFHWFZZLVhTUmdfYW1ackEzdTFPeXZXS2RjbWV0WDl4cEoxSkU1NWw1UHd0dkpidDlPYkhDU2lmOEcwZkhMdFMyWFloSDFXZTlSbEtnOFZta3ZfaVU3cDJfcXNITjRBWFY0SFpYR2U?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:20:45.344836Z",
+  "collected_at": "2026-09-02T14:31:45.501697Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.923956Z",
+        "fetched_at": "2026-09-02T18:38:06.462016Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.923965Z",
+        "fetched_at": "2026-09-02T18:38:06.462028Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.923970Z",
+        "fetched_at": "2026-09-02T18:38:06.462034Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.923975Z",
+        "fetched_at": "2026-09-02T18:38:06.462039Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.923980Z",
+        "fetched_at": "2026-09-02T18:38:06.462046Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.923985Z",
+        "fetched_at": "2026-09-02T18:38:06.462050Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.923989Z",
+        "fetched_at": "2026-09-02T18:38:06.462055Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -260,9 +313,25 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
+      {
+        "headline": "\"Congress depends on other parties for survival\": BJP MP Basavaraj Bommai - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWXozZW1qd0loUmNxNm1pR1FhYUZlSC05WTZtTGtZdG05bXJXaHFNT195TDFRdUJCaFh5MjJlQkVZVkhOaGdobDljbktyalNORmpScmFsNTR3Wko3Y01fSmVjRTRMNlc5bnpJbUtpM1ZjY1oyS3ZXd2luV2xkVHlqa0Mxa09yc1BmSkpiNThOZDhBSC1vUVpsUDRqTXBRQ0k0XzdYaTR1TFlXM2c0bHJ1TU5xSVp0bW9YeUI0REFRMUNyMlN5b2hEMFk4Y2x0UUk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Karnataka BJP says SIR diluted by State government, urges ECI to order probe - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTGlBNnBJdlZBUjNWOGY3YWdfcEpaTEprY19oTm8zWVk1T0JkUWs3TVdNeVlvdUNvdnFHWjh2OGdRSUp6TS1IemtjTXBsaHBoVHE5UnNIZlluMk11N3J2VkdNenFJRFo5X1FJNVRKSVYyZXZLREtwTlhHNHBSaUp4eGtlRXlhVFdlaXRhLUFQSGM3bTBWbnBOVG1odkdNY3FaakNxX21tSk5uOGtMdEprMEtockZJYU1xR1NtUmV1ajFHWHRPWW9ZdHVzVEdYSG51Wjcw0gHgAUFVX3lxTE1wZGo2Y2prNmZPOFF5M1RDWW9yRTJiNVhwTDZEaTNFREZUMFUtYkNMd0c3R3dUcUFPQ19oQ1B3VUFTM2wyUUwzSTJIRXZIZXJTRzNjTEplM1V2cnYzOWI5aVhZV0V2WkZPWEg0SHgtd21FSFlldVdCYVBuMnNXRHc0a2tncllyUTVMY2NyYm1ab1pXUmVOOFBzeGhYX2d1RTJTd01GUWJQMDNFN3hEVW1GM1ZuZ1FfQkUtdmhmYk9leGloN1RVV2g4NlRjUGNlbTZSUFNBX0xILU9XS2kwcjQt?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "Indi Alliance Has No Moral Right to Speak on Constitution: Basavaraj Bommai - Deccan Chronicle",
         "source": "Deccan Chronicle",
@@ -272,35 +341,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "\"Congress depends on other parties for survival\": BJP MP Basavaraj Bommai - lokmattimes.com",
-        "source": "lokmattimes.com",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ05yekFERlo1blljdzFUX0FNMjU1OTVYeFRFNHJmU05ZMzVqLWZVSnhUSXRDVkVMOWhGVTFrb0tEbjI5UVNzVGcwQVZCUHB3LVRZM0t2c2JaemVWR1A5aU1VY19JZU9JSWFkMi1OdzFtMTZNUzR4N0pFN0lpQ0JnN0lDOWt1X25jY3FPcnRHVGxBN05mN0ROTEQ3Nm9MZTFHblAxSmlvVkE5RHB2?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "'Politicians shouldn't get it': Former Karnataka CM Basavaraj Bommai declines honorary doctorate - Deccan Herald",
-        "source": "Deccan Herald",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN25zbHJaN3FnOXF0eXJza2dfbHF1bTMyZnJ5UnhTV1IwWG55Y2dTc0t1RlBmNEdEcm5sMzhDS3dzekZCSE5VaXMybjFYSk1fOHJsSDN1N2hwVE5DaXNoNnNLdm1GdVVGOWQzbG1SV0VwOXAyWFFDUEhYaHpMbVhRNVhTU2xwUm04RF9lZVNQckFSbmdTczczNzRGUFRDeXM2SnYtNFpwOXJOb0NoaUlxNGVaSkRZRnNBN3FfRE9GOWIySzhyMnNKaDZxdU5hNHlmeVNTT3M2clBXaHVmNTZFM0tfM0FHQ29xc1ZjX0toZU0yWDJEZTJhOG5nUXI?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Bedthi–Varada river interlinking project is fight for life: MP Basavaraj Bommai - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUTlYRTYwb2ctQjkyNXEzU1kwRzJTVFVnVC1USy1hYUtMYkxnejlGYWh1M0ZqMXFCUnhXb1pCdXRwcXFPbzhVOHpQaWhLSjJXenNHUGRGanB1Q1dyMnlBakdERmZFUE9tRnd3RnEtWEs0bnpHbUg4UHlhSnFKcXpxU2Ffd1V1MXE5WmVNd1FfZnVDV0R4SXVsQzQzTlhoYzZzVmYyVzQ4THBkMFl3QS1OX09Ya1pBRHlCMU5tZjhsNlJqMk9KVUFBenQ3V0JRbE12TVFGRlh30gHjAUFVX3lxTE9QNV80VDBiak5UN3NpSnFjVWdjWUZpYjJ6ZGt6V1E5MGNncUd4by1xT3ZvQ3pjRWs5a3JaNWMyUFRrYWVkYjlhaFdHdzl6anFDQktCMko2bXJURXVfcl9KVkZsNFVmZEFoY3NINVNDU1JEVGktdTVNeC0tVFFvUVcxaDBua0thUllXNkc0YVRhYXM2dXVrb1pJUHdSYm02LXJ3ZkVBMFJUeGRHRHZzUkpYYzl3UE4yclIyZTZYOFo4OV9LYks2Si1raTcyWXNtQnJHRTVDNEJiay01d2taa0tkY2pn?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "MP Basavaraj Bommai criticises Congress over vote theft allegations - The Times of India",
+        "headline": "Naregal clash: Bommai demands SIT probe, action against cops - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa2pxODM3QWJYUmwtNFpmTEE5R0NfR1hkT2l1bVpWZjNvREx4TFlCLUo4Ym5VX3UwOHJ3ZXBxX1pjUGxyeW1POVNqZGVKU1hzMFRtOVZZYW1LUnV5MGhSMU9DMGMwYkZpcjNkUEFhTXpOMDEzWnNSTEVnUEpDWWthMlUwNXR2Z09SMmF3a2V1ZVVUOVpMb3Q5Wng4bUNmVlMzVXo5U0pYM2ljcFByZHBPQ18tRW11dlNrTE1Fb0Fwdk9yQXBET29Rem5zMXZoOVVLVy1RRE1iMUhwb1HSAeABQVVfeXFMTURPTmdtMy0xT2RMZ0RIQ09LVTlvbHNYVjZTN1NMYm55V3hyT3FGUktWQ1hZSHNjNENkQ010NE1Kb3FrWERLTGMwdzl2ajY3cjFrSjRBWUlCTHppa0YwNU5sczMtUDVpTDdGck45R2JGcWdVZlNwMElWMDFkSkFCbGx1S3dhSHpBVWhKcDdIXzlORzZhVUpfNWEwaXk5Q3hKT2xaQTVvVnVoRnFnaXI4TUdIQ1Q2LTM4LU5kWTZtX2s3QzhlQXlvbHdTeUdFT0EwTHlOQmxFQkFueEhId08yT0U?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ01tUDc0cXg0d21CNXZSd095R1QzSHk5M2FRcXhFNEJZWmJ6enMtYVVPTW9QWUhtakZPR1Myc3FSMDNtejQ3RzJFZkI0d3k2TlRIaTNBaGV0eXRsMm1fUFpxQnNMcDEzYjlocGxnTVZSTnp0UjlJVmFpVF9WUVJIUUl1Vm5qTTd1RndYcUxnYk1VNkRhMzk2SHdMUmI0MWdSeGtTQWxWREZyLWFaTnNFams0M1p4NElBbE9qcHplUUU3UzFBd1ZhNm1YWXdRcWfSAdQBQVVfeXFMT0hJVEF4U3BEa200Nk9MMG1rSDJnT0NZclRjT0NHVWVUNlRBZmlyNFY2eUc0OWxUc0M1cGRpSTg4RzJRWmtlZTdJOU5kbG80MmUyelFuVDhKbDB6WVZDdWpWTEpLbUJWV1NRX0NfQnp2cWtjYTlDNUlmcFg5SW9GZ3I4MjAwYjl2TXJUZjhZUkhLdUwwM3dfSmhhNHExbThYSEZlRzhycGxXN2dEeVFqNEdRUUYwMzd2ZVBnc3E1ZzVPcVZmS3lTY3piNjVHTzZvX0xCWEw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Three family members die in Karnataka truck-car accident - The Assam Tribune",
+        "source": "The Assam Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0Qyc1pHNjNTLXJYYlB0VXlCTkxFaXV3YTBZMnNIejlhRVBUeXpvc1JwTG9ZaFEta2o0U3B4cVFvSm5wTUFmcUtMUXNLSGJET0xMTkI1NG1vOXBIRERmVHFtdlFPNXpsY1pfeEFaUmJ4amYyQzVJMTB4eTVRbzZ1OE5FMjJvT1AzT0xhRG5MUHRaajNNNFdiLUFkY0M1MWvSAaQBQVVfeXFMTm9WQ1Z6YmhVLTg4NFdpcWhHbnB5d0U0clRGRy1TRlJBcWtNamZTNzZ2UFhlTTRIUy1YVGpVaVFHWFZZLVhTUmdfYW1ackEzdTFPeXZXS2RjbWV0WDl4cEoxSkU1NWw1UHd0dkpidDlPYkhDU2lmOEcwZkhMdFMyWFloSDFXZTlSbEtnOFZta3ZfaVU3cDJfcXNITjRBWFY0SFpYR2U?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 39,
+    "starred_questions": 11,
+    "unstarred_questions": 28,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 75.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 70.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

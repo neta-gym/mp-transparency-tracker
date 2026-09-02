@@ -4,16 +4,16 @@
     "constituency": "Akola",
     "state": "maharashtra",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2367,
+    "myneta_candidate_id": null,
     "slug": "anup-sanjay-dhotre",
     "house": "lok_sabha",
     "sansad_member_id": 5562,
     "profile_url": null,
     "canonical_name": "Anup Sanjay Dhotre",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 39,
+    "age": null,
     "photo_url": "/mp-photos/5562.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,96 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "68/2023 City Kotwali Police Station, Akola | Section 135 Of Maharashtra Police Act",
+        "ipc_sections": [
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "68/2023 City Kotwali Police Station, Akola",
+        "case_no": "",
+        "other_acts": "Section 135 Of Maharashtra Police Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:10.440407Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 109259962.0,
-    "liabilities": 37201641.0,
-    "net_worth": 72058321.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2367",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.464156Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 60.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.87,
-    "expended": 4.03,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:29:54.712044Z",
-        "notes": "Official eSAKSHI REST API — Works: 99 recommended, 62 sanctioned, 36 completed"
+        "fetched_at": "2026-09-02T14:50:56.664965Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:47:11.054317Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:47:11.051239Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 99,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.414965986394563
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +126,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:04.505305Z",
+        "fetched_at": "2026-09-02T14:47:11.050170Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +134,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Akola Election Results 2024: BJP's Anup Sanjay Dhotre emerges winner - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGo3c2owMm5FeWptWUEtTmFibWw3czN5bDlLTm9id1VZc2c2d01qNm40R2FSRmRieHUzSTVacUpiNUw1eDhWeW91b2dtcnlKNU5Db09iRUVpa3NnZ3pOZWp1aHBzTHFibEIxTjA0djF2S2hSVEZnd1I2M2VDLURuWFBWRl9tVW5Rd0RGVEVaMm1McDh5MUVPcmhjd9IBoAFBVV95cUxNaDZfUklSaFdwT0wyeEFEWUhwc1ZQeUpsQW1IeVdYZmZVVTNBQUlCbzVoMXNyOGpDX19HZEl3bHkzQl92VHF4Tkw1OWZ6QUJXTjF2Vm1KMlBTanNZUXI1OTZiZmttZnBWVHRhcTNhNUJNX256TmFXaEZ1V3RvcUpjcVdMRFExRUNhTXVkMl9icGdnblY4Z2FpdnBBd09wNXJN?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Akola: In BJP bastion, a real triangular fight this time | Mumbai news - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2lBeUZlVTNMWGlOdlViN0V5TUhnYktWZWdneXRDRWViS25lM1lDOTg3ZlZRanZxVGJCNzVPS01Yb2xzNEVBU0w5WmlvLUJNLTFzS2E2elZjYjNvYU9BQ25RN2pObE40cEY4bTltaHBQZ0RBNFF1bUFPMjhfQlhYUmhjZmFPZ1laZkNQREphazVsWlcyMm9Rd2xad0NQZ2poX2NzRDZ1Snp5TFNPdmN3QV83Qm9mZlFkeXJBMVlmc1RCaknSAcgBQVVfeXFMT2dvc25Wa1hoRFBieEpXSGtMdHdKMXo2UktoU3JVVEVMdFhpODRvNlV2YWtXcGVSc2ZkWnBYa1I3RFFaNGhzMVNibU1tNGxDaGdXR0tZQ2tkaWd2eXdtUzhLUC1rRzNnSmhMTlZuUHhPc042dEhZQU44SE1kamwyR1p1dW14czVsaF96MVlQMXMyS3pXOXFfVXFUUUFuTGZ3X3p5WnBseFhfN3NpeXlKcW1KTVV6MlhwdTFfRE1oNjJzcm1hMTJ2VEQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Akola Election Result 2024 Live Updates: BJP Anup Sanjay Dhotre Has Won This Lok Sabha Seat - The Quint",
+      "source": "The Quint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONVE2TVZXdUNSZW9wVGVRSHQ5Wm5uWGtvRGVnbXhLd2tkZzFrN2wyU21ESTJVckZXb0VMbzZVSjhDY3dlaVlzNGZXWWZCbUlSajE1emNhX2dteV9FbzB0eXhoX0t0YkZ6V1cyd2x6WE9td3lPczR6bUZXNmVJQlR1Z0FaZWpSaHRuaFl4Y09YMzVFc2loR0NwNWVaSmxyN2hmX2xsREw1dDZ2X0lFeWdGbDNGTHBZdE1SeVZNallLRGFZc1hX0gHSAUFVX3lxTE12clMyNkYyZTJPUlhaZk1oeTlIbkh1WVFKOENvS3Rva00tRkNEVzVGR3VXaUd2V0VvZHJBZzNIYUVpZTRET3RRU3MzeFY1Y0VTODQ4b05laUwxVG5IWTRjRzFLdkVjejZicDhNN1F4VDNfSjNUQWNnWGg2NUJJTFhsaTByT2djbnZJRWx6N0g3VnFHcFNkN3hGWml6MHB6Q0F6Q3JJakowY1k4SFViY3lYV184SF9wOXdnMlc5ZkpMNzNaa3lQRk9fZUtVc1ZHb0kxZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Akola Lok Sabha Elections 2024: In Own Bastion, BJP Faces Prakash Ambedkar Comeback, Cong's Maratha Candida - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX2lWa2xNbGR5STNjN2l4Q09FenRxSFVxOEw5QlBEOGJSR3I1N1I1bTAxMjBvTlhZVGhFaWNIX2VTWlN4dDQ3WkQ5TzRVWk8xX2Q3ZlRMZmxsSkpOQWQ4S0tfc2V4Tm56UHdjdUdGMkg0elhaSXp0eEdxN3lvODN0WUhEN0dUMm8ybTFYNDNVeGNWZDh6MVZhTjVUdnZBeTlSb2tjX1VVREF5bUk4TjZrMy16UzFxTWtBT2dEZzJWdWdPUDFZRmw1YnE2YmlLV0hRUk1lX3VtRVFHSU0wdndBT1BqdGxtUdIB6wFBVV95cUxORzlUZkRrTDVfRXhqNkxsZlJJcEFra0xDc2Uxa1FCWnc4Nm9PeGNHWE1zSXFoN3FOb3FLQUMyRnJYTmdJLWFSeTBxcWVRdFAtZW5LSTJ0dlI2elFSaTMtWVdOSG9IOWRVNmVlSmRHS2Jodi1aQVFpc1A4X05RemdmMzNoWF9Xa1NPSVZkdnUzUVZCMXpDMDBtOEJYRElSV05hWTRUb3ZEeWZESUlXYjZVTU5WTUh2RWdtazctamgtTEZqV1JKU1BGejJ1VWJIN2N1dUpDSkYzYlAzV1cyaEJqX3hYSFdJM0FZY0Fz?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nine candidates became crorepatis in just 5 years - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlNwVzRfUlpXc1JQYjhtQmt5N29kZkdLR3pvbTlaOGJOMi1vemlsZmNZV1d6MFdqNnVyWFdzQjRLOWJEVlBvaTVqX2RyWVUxWWI4WW5kbWJCT1VjZTRtcWNIb3J6ZU5JZ0FBR3AtbUJJV1JlVEZ4U0NzdkFMR3hZSjZUb1puMW1OUVp5dVZWQmU4X3ZRNWctLW1CSnY0ZWRZZTFwZUNXV1lFY1NpZnZkbWJ0VUJvZ1pheGhxcEY1M2vSAcYBQVVfeXFMTjZLOU1qWWE1VnA3NEZRbDVubWpCSFhWZTlxRU5TX2FmY0tpdGpnTVBxZ01Ya1pLTjJhT1U2V0cyNkFENld1dE15TEsyS1BWVld5Tk9jSlJTQk9MT2VCaEZESTJaYVpyc3czQURKdUVWVkN3U2ZLZGJxN2QxcmR6Z1pxYmNyVnZDcDhzQThmTE84WnlQNm0xOVl2aERxanltbG1KYTdULUphQ1NQRXpBZEdkLWNjMHVoWXJwMUhZR3VKSDliUTVn?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:06.147574Z",
+  "collected_at": "2026-09-02T14:50:56.666221Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +203,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.247243Z",
+        "fetched_at": "2026-09-02T18:38:07.773649Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +219,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.247252Z",
+        "fetched_at": "2026-09-02T18:38:07.773661Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +235,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.247257Z",
+        "fetched_at": "2026-09-02T18:38:07.773667Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +251,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.247261Z",
+        "fetched_at": "2026-09-02T18:38:07.773673Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +267,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.247266Z",
+        "fetched_at": "2026-09-02T18:38:07.773679Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +283,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.247271Z",
+        "fetched_at": "2026-09-02T18:38:07.773684Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +299,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.247277Z",
+        "fetched_at": "2026-09-02T18:38:07.773688Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,14 +353,6 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Political Profile of Anup Sanjay Dhotre, Bjp Party, Akola, and Net Worth - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOXpRS1hzM0JhQ2tUTXNFMWRoTzlZMzhzSjZDSnVLY19veVVmZGdVZndzWmpkQ1VGc1JSM2dzTXZaYWxURDRHTk5XVzByZ09DcTY3anBQc2RwVjlmYWp4VVB2M3lPaVpLczVEZ1VXbjBrWHByRWV3N0VZLVBPTmVMZm8teFN2aV9PVlJteHpqa09SbEY5djdsNDBhRUU3NnNITERNbDdYOHdlNk1QOTh2VVlsOGZhRjV5MU5zRmQ5aXJ5WXd4V3d0RlB2OGZwNHE5Ql9BRGJmUUwzaFN6V01tTQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Akola Election Result 2024 Live Updates: BJP Anup Sanjay Dhotre Has Won This Lok Sabha Seat - The Quint",
         "source": "The Quint",
         "severity": "low",
@@ -296,11 +361,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Changed caste dynamics with non-Muslim Maratha candidate: Akola in a triangular fight - The Indian Express",
-        "source": "The Indian Express",
+        "headline": "Akola Lok Sabha Elections 2024: In Own Bastion, BJP Faces Prakash Ambedkar Comeback, Cong's Maratha Candida - News18",
+        "source": "News18",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVgzMHpzVEdKOUw3ZlZxVG53RzNLSXMyTHROLU85a0pTMXg0aThVVG9EZ3UycHN3aDVjTXNhSkJScHRTazdubVhBUzViVGFPeDZQaDlsd1hCOGJ6ajIzdDN3YmZRR2tha1VZTXZSWk5kUjBGUlRMc0ZqdkU2WnMtTTJSMmtreE5xZm9hVHdxTGVybzJKRkpoUWQwUkdRZ3Q3LUVDWmhxYzdHWmVTLVplM0ZXSU1vYzNXblNNdklQMHTSAccBQVVfeXFMTlpYVkhUcmgwOXF5QlpjZ1JfVDZMT2tCeW5vR2ZmcGhPcWY3dEZSZVpCVXdQOE0ycWs2TDJUZWVneHFhLVk3aGZsOHlFZWcydXAxNWpudUZjVjcxUzFrVHR5cUNZZDgtSGpuamRBMWJjSjFOeXlLUUpjZmNvQnJZRkdXZlNuempaaVR5d0pRYWxPc3gyc1lOZno3QkdzMjdiR3ViajJfLThaSklPTERiR3BDY2VJVGc4R3FJYmZkRHlWSkZxUVVmbw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX2lWa2xNbGR5STNjN2l4Q09FenRxSFVxOEw5QlBEOGJSR3I1N1I1bTAxMjBvTlhZVGhFaWNIX2VTWlN4dDQ3WkQ5TzRVWk8xX2Q3ZlRMZmxsSkpOQWQ4S0tfc2V4Tm56UHdjdUdGMkg0elhaSXp0eEdxN3lvODN0WUhEN0dUMm8ybTFYNDNVeGNWZDh6MVZhTjVUdnZBeTlSb2tjX1VVREF5bUk4TjZrMy16UzFxTWtBT2dEZzJWdWdPUDFZRmw1YnE2YmlLV0hRUk1lX3VtRVFHSU0wdndBT1BqdGxtUdIB6wFBVV95cUxORzlUZkRrTDVfRXhqNkxsZlJJcEFra0xDc2Uxa1FCWnc4Nm9PeGNHWE1zSXFoN3FOb3FLQUMyRnJYTmdJLWFSeTBxcWVRdFAtZW5LSTJ0dlI2elFSaTMtWVdOSG9IOWRVNmVlSmRHS2Jodi1aQVFpc1A4X05RemdmMzNoWF9Xa1NPSVZkdnUzUVZCMXpDMDBtOEJYRElSV05hWTRUb3ZEeWZESUlXYjZVTU5WTUh2RWdtazctamgtTEZqV1JKU1BGejJ1VWJIN2N1dUpDSkYzYlAzV1cyaEJqX3hYSFdJM0FZY0Fz?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nine candidates became crorepatis in just 5 years - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlNwVzRfUlpXc1JQYjhtQmt5N29kZkdLR3pvbTlaOGJOMi1vemlsZmNZV1d6MFdqNnVyWFdzQjRLOWJEVlBvaTVqX2RyWVUxWWI4WW5kbWJCT1VjZTRtcWNIb3J6ZU5JZ0FBR3AtbUJJV1JlVEZ4U0NzdkFMR3hZSjZUb1puMW1OUVp5dVZWQmU4X3ZRNWctLW1CSnY0ZWRZZTFwZUNXV1lFY1NpZnZkbWJ0VUJvZ1pheGhxcEY1M2vSAcYBQVVfeXFMTjZLOU1qWWE1VnA3NEZRbDVubWpCSFhWZTlxRU5TX2FmY0tpdGpnTVBxZ01Ya1pLTjJhT1U2V0cyNkFENld1dE15TEsyS1BWVld5Tk9jSlJTQk9MT2VCaEZESTJaYVpyc3czQURKdUVWVkN3U2ZLZGJxN2QxcmR6Z1pxYmNyVnZDcDhzQThmTE84WnlQNm0xOVl2aERxanltbG1KYTdULUphQ1NQRXpBZEdkLWNjMHVoWXJwMUhZR3VKSDliUTVn?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +407,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 26,
+    "starred_questions": 7,
+    "unstarred_questions": 19,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 49.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +423,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

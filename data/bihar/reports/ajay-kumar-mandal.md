@@ -7,21 +7,21 @@
 **Education:** Graduate Professional
 **Profession:** Agriculture
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 46.6 / 100
+## Composite Transparency Score: 58.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 22.8 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 25.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,24 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.22 Crore
-- **Liabilities:** Rs 49.80 Lakh
-- **Net Worth:** Rs 72.52 Lakh
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 10% of Lok Sabha MPs
+- **Movable Assets:** Rs 2.63 Lakh
+- **Immovable Assets:** N/A
+- **Total Assets:** Rs 2.63 Lakh
+- **Liabilities:** Rs 1.00 Lakh
+- **Net Worth:** Rs 1.63 Lakh
+- **Previous Total Assets:** Rs 36955.03 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 0% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 8
-- **Expended:** Rs 4
-- **Utilization Rate:** 28.5%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -70,23 +70,48 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Bihar Politics: JDU Faces Internal Turmoil as MP Ajay Mandal Offers Resignation, MLA Gopal Mandal Stages Protest Over Ticket Fears - MSN (MSN) [negative]
+- JD(U) MP seeks CAPF units, permanent NDRF battalion for Bhagalpur - The Times of India (The Times of India) [neutral]
+- Bhagalpur MP’s office burgled; security cameras, guard’s pistol stolen - ThePrint (ThePrint) [neutral]
 - ‘Not consulted’ on ticket distribution, JD(U) MP Ajay Kumar Mandal wants to quit - The Hindu (The Hindu) [neutral]
-- Bihar Assembly Elections 2025: JD(U) MP Ajay Kumar Mandal seeks to resign over ticket distribution - Deccan Herald (Deccan Herald) [neutral]
-- JD (U) MP Ajay Kumar Mandal Resigns From Post Ahead Of Bihar Assembly Elections - ABP News (ABP News) [neutral]
-- JDU MP Ajay Mandal writes to Nitish Kumar, seeks permission to resign amid seat-sharing turmoil - India TV News (India TV News) [neutral]
+- Bhagalpur MP Ajay Mandal Offers To Resign Over Ticket Allocation Process, Says Not Being Allowed To Meet Nitish Kumar - ETV Bharat (ETV Bharat) [neutral]
+- Bihar polls: Dissatisfaction grows within JDU over seat-sharing; MP Ajay threatens to quit - The Federal (The Federal) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **JD(U) MP seeks CAPF units, permanent NDRF battalion for Bhagalpur - The Times of India** (The Times of India)
+- ! **Bhagalpur MP’s office burgled; security cameras, guard’s pistol stolen - ThePrint** (ThePrint)
+- ! **‘Not consulted’ on ticket distribution, JD(U) MP Ajay Kumar Mandal wants to quit - The Hindu** (The Hindu)
+- ! **Bhagalpur MP Ajay Mandal Offers To Resign Over Ticket Allocation Process, Says Not Being Allowed To Meet Nitish Kumar - ETV Bharat** (ETV Bharat)
+- ! **Bihar polls: Dissatisfaction grows within JDU over seat-sharing; MP Ajay threatens to quit - The Federal** (The Federal)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -95,11 +120,11 @@
 
 ## Qualitative Assessment
 
-Ajay Kumar Mandal has a below-average transparency score of 46.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
+Ajay Kumar Mandal shows moderate transparency with a score of 58.8/100. No criminal cases declared. Low parliament attendance is notable.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 12,232,756. MPLADS utilization: 28.5%. Parliament attendance: 25.0%. Questions asked: 32.
+No criminal cases declared. Declared assets: Rs 263,000. Parliament attendance: 25.0%. Questions asked: 32. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -139,7 +164,7 @@ No criminal cases declared. Declared assets: Rs 12,232,756. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +243,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Ajay Kumar Mandal's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 28.5%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -238,11 +261,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,16 +4,16 @@
     "constituency": "Durg",
     "state": "chhattisgarh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3442,
+    "myneta_candidate_id": null,
     "slug": "vijay-baghel",
     "house": "lok_sabha",
     "sansad_member_id": 5007,
     "profile_url": null,
     "canonical_name": "Vijay Baghel",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 64,
+    "age": null,
     "photo_url": "/mp-photos/5007.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Durg",
       "state": "chhattisgarh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3442,
+      "myneta_candidate_id": null,
       "slug": "vijay-baghel",
       "house": "lok_sabha",
       "sansad_member_id": 5007,
       "profile_url": null,
       "canonical_name": "Vijay Baghel",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 64,
+      "age": null,
       "photo_url": "/mp-photos/5007.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:39.334772Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 37162950.0,
-      "liabilities": 3854273.0,
-      "net_worth": 33308677.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3442",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.871433Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 30.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.11,
-      "expended": 4.47,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:23.200130Z",
-          "notes": "Official eSAKSHI REST API — Works: 172 recommended, 145 sanctioned, 60 completed"
+          "fetched_at": "2026-09-02T14:31:38.983835Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:26:48.946783Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:26:51.285557Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 172,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 30.408163265306122
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:44.825412Z",
+          "fetched_at": "2026-09-02T14:26:50.062393Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "BJP’s first list of nominations seeks to win an uncle-nephew electoral battle in Chhattisgarh - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV2FIckdkcnl3ajlPY0JQdkZtV0JqbElKV2xLOUprQnJRX19tWVVUdGk2QWJGN0NKb0lONUY5OTg0ZUg0ZHB3LWthamc5WkRIdzd2YUdLcnZBcTlVU2Y0RXAwVVgzNFB0VV9UQ1FjQ1BfcVVOU3UxQ2VYUUZkS1NJZk5rNEJBdkxEY3BFNndST0dTQTlJOFk4cTU3ckk1YmFHWWQ0NnR2Smh6SkJkeFM4bUg3UG10NTBKOGE4TVUzT3lSNjNuSmtoTWZ3QUZXZlFpb3psWHdWYjI4ZnZYb3BEY2tsbDhuNXlUTGljRU10ekV0bmY2ektj0gH-AUFVX3lxTE5WYVpJWUZSajhBN1hUVHlicXNBVjhneUtYT3d6N0Z3UkxISzNzbDFSTUFuZFNfcm8yYTVvQXdxWl9KSURFaVJwWndndkF4UlZqXzZpT3Jqbkd1S0NVbld0OFVPMFM5MzAtLXR6OXNjV1l2aEMxYkVxdFpEUlcyWFU0bzM5WEwwUkpfY29zSFRZTDJIZkdUOTRRYTI1dGZZa2F4Rkx0SHo5QldNX3p3a1BqazAtdDFpQnd3S0tMM1BNVVFBVElYMm5QcEtPdXJLbl9hMGw5V2hZZmV5N0xsN1NBRzlDNUw3aDRxZ3VPS3NGYWVFczdud3pxUzRYMnB3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "It's Uncle Bhupesh Baghel vs Nephew Vijay Baghel In Chhattisgarh - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFRISkNsR2xEX21kcEdYVUcxN1RJbWxLQ0FoZDl2TjNDRU56NDdRNGdDdi1keHJyTUJZNV9CZExSZGozNkoydktUdG9lUk5jZ3FpaEl5U2tlX1gzZlhRUTVkVnc0NVdaRjMzczBjN3V3YkFwWWQ2Ynp3MW1lVmJvVWI3elJkMGwtdVEwMGRiOFd2WUF3N0o5alVvNFBLUi1xRzJDamxnS3Rndjk0cGU0c29B0gG6AUFVX3lxTE1SbmxFek0tanFERnpQTDlHSy0yUkc1a2JDVXRIY2NNQ2ZIVXlWaTh0OE8wbWZ4eGU1T3A0aWpZRV9TaDBNS3BQaXN2VkFodEduVWlZaDA5LS03TnhxZmozX1B0ZkIxXzVzdGxJc3ZtUU8tbzMtN1VFVU5FdTBiSm1TYks2cWY3eTc4aTI1WDNGRHg0X0RjejRhTTgwN0FxcDcwNm1RdzNNT2VFUURwTW9yRUFQY1Q0ZzhoUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "13th National Gatka Championship showcases India’s glorious martial heritage: MP Vijay Baghel - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb1lMV1FGOVVfbFRJOGsxZndvMkVXel8yVmdwTjEzNWRMdGN4T0xnXzl2cmdudy1aOTRUMVJxWnpxd1FwUWI0dVNPWFpxM0RqQWctYm5tTF9kSFAzQzMyVUN2S092bGlQX1NGeDdGQ1JxNTFNeEFNSE9MRGtqd3k0cU9jdDFMQjFldWZGX1FYT2FXdE1hTUlzZHNROHdMZTVaNTZqOGRjay1NYzBkaHE2QXluakxlbU1aY2t2ZXc2YmRiazUxUEhJZXpyaDlhZlNpR1BpTnB6VWE1NlHSAeABQVVfeXFMTk9hbk93NFZ6LXROUmZZem5vWlZSZDV6SF9VRGZuSGM0Y2NzZlkyd1pUbFRXbXp4UHdLRXo4UFRuOG5jRjIxalk3WFFiOVN0VmVoVDVySDJNR0xLNUpCSHdJT1M2VnFKOVlLckluM0ZkeVprMHVjQWJ3c2pJUDlDOEtWQkVXLWJhYUp5TzlTTnVDaWdJZWJNcnQ4dmFrWWw5QXQ3amxxTllQb2gwNkx4SDVYZjNyQTdoRW4tUzJtbXJYN3cyWmxQYXlSLWg0ZFRVSFM2ZjhZSEVwd0FWZG1Ncy0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Battle for Raipur: BJP releases 21 names; MP-nephew from CM Baghel seat - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3ltdGd5Z1dHZi1IamJBZURzTHJyeFhNRTFxelFQbDF6RHpTVWlrdGtMcjVDVzRsOEdlWGJVNEp6Xy1KSUdpY0FwYkpob1JNU2M4R2tuaklrZTI0YmZWbnd0Z0hFUF9GaUNvRnRDN0VXR19YeWwzRzYwbGs5TC1FbWxWakNyZHd5aUU0Q1p2T21DUUY1d3hReG5GX0ltU2lOQ19YVC1VOWtDOXPSAbIBQVVfeXFMUERxeWQyX0ZoMERCM2tHLWpLOTFPTjI2aEpZVzM4UkdVUVBhZ20zNkpPb3RFcDlNWGhpdmdoRHFpdU5rVHNQX1QteFZHYXZXSi0tMThtU0hmOElQMHBzZnAxTHZxRXgzRmw5cXpQVFhfZzQ4aGtQYnlQcWVrQ2VkME5PRU1LV2tFWGlBbExDaGZ5c1l3cTFNcks5WDFTcUVGV0xPQi1pQ3JxTEtNX3RBTlROUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "In Chhattisgarh’s Baghel vs Baghel battle, CM Bhupesh defeats nephew Vijay by over 19,000 votes - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmRxMDRreEZtbnBkRFNqeFdOUjJBXzgwZ3o1SWl6Z2F4QlJNWHVEWFUtRVVESDRqQS1HU3lKbTZqc29jVUxVNjNETk96ZW9PanBHNnFqYVBjejVfNmwxM2RvZG55cjBpbUo0NGowVU1lX1c2cnZBUGhHaXExNFJsVk91MjduVThyVFdlR0JPX3Q2WkppY2dYNVBfWkcxUzFwZnRwcWE3YUhrdU4yX1o2RXd1Nm9YZjFnRTBnZFhMSkt6TFlqWVctN0dRWDjSAdIBQVVfeXFMUEVuTXg2UEQ3bjhoSW5DWGFDc1VnTDNKUE11ZXFuR1lEbVAwYlp2ODFFMHNrNllrQXkxNEV4YXVsZ09CNnBlRXRmMkQyMHA5bXF4Sm80Rk5wX0t6X3FINE5xaXBGbUJ4MEo1em15N2E2amJHS0FVci1vRS1MdnBJZ1BsaDNvdk53YUluaXByZ1R4X3I3WXRVajBrVTc2OXhBWTBkQWs4R2pvS2hCZkw2LUhPS0dXNDh0TDhweW1KWlJnbC1QdDAtSlZPVEpWWmhsUDN3?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:50.683668Z",
+    "collected_at": "2026-09-02T14:32:05.991425Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.734454Z",
+          "fetched_at": "2026-09-02T18:38:05.328063Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.734468Z",
+          "fetched_at": "2026-09-02T18:38:05.328074Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.734502Z",
+          "fetched_at": "2026-09-02T18:38:05.328080Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.734513Z",
+          "fetched_at": "2026-09-02T18:38:05.328085Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.734522Z",
+          "fetched_at": "2026-09-02T18:38:05.328091Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.734529Z",
+          "fetched_at": "2026-09-02T18:38:05.328096Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.734537Z",
+          "fetched_at": "2026-09-02T18:38:05.328101Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +322,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/VijayBaghelCG",
+          "url": "https://x.com/http://www.twitter.com/VijayBaghelCG",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/baghel.vijay.official",
+          "url": "https://facebook.com/http://www.facebook.com/baghel.vijay.official",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "http://www.instagram.com/vijaybaghel.official",
+          "url": "https://instagram.com/http://www.instagram.com/vijaybaghel.official",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:26:51.288293Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -298,11 +384,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Durg Lok Sabha Election 2024 Results Live: BJP’s Vijay Baghel wins against CONG’s Rajendra Sahu with a ma - The Times of India",
-          "source": "The Times of India",
+          "headline": "13th National Gatka Championship showcases India’s glorious martial heritage: MP Vijay Baghel - The Statesman",
+          "source": "The Statesman",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSUJSUXhDeDhhLXJZTTZMalRmMEVXdHBJUnJqQXo4Z2tsZFRzczIzRF9sazNIT0cyd1d6Y2ZNVVQ0Tk9UcjI1dUNSUVJoWTdTaGczSlVfTXhwZjR6ank4T3F3MVdMdnpib2VkZjVSbFB1WDZfWl92VWp3ZjhlbzdhRW0yTkpIalNyaTJDQXhJbE9GVnBfai0wSXNlS0tScVoySzV6ZExsaVdxaGx3VW9WUWtrUTZVdE9xOFpJd0pHLS01T2d0RXBacEU1ZFBLQnNwUEdQTEZxcFA1ZXNZVWFyVDh6Y05aalhlbmVFOHc5dTZIVWtiOVE4RGpDaWM1QTdKY0xsS1otWWM5YXVKTzg1MUMxQ0hPRWfSAZwCQVVfeXFMTjZ6Ym5ERFlmTXZ0cXk0U0kyclplVmZOVFE2eEp1LWVXSjdYWW10Yjhpa3FEeHR6dk9kY1M4VHJNV2Z3dEZLVzNMRGlRUllFZDItbTdsRG83QzhPeDR6LU1rcVZtbVhCdWNacFNBUWRmbi1NVnh5U1lEVl93LVB1bmd1UHVoS2ZOWGdkbTFleWRVb1I3QUh5T29vWXZiU2o1VnA2b2FxdUQ2Sm1TVGNuUlRIdlUwX2E0RVd2YmxaWFl1eEFNQ1V5NzAtVGJhWUVOa0RZZzhMd1Y2d3hFdVlqcVRHdVBpc0RHR1BWWm42dDlyM2hpNTgyNnNGSHREQmpHYzRiMEROVS1leklDbEpRaURqWlhPSjBxTk14RWE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb1lMV1FGOVVfbFRJOGsxZndvMkVXel8yVmdwTjEzNWRMdGN4T0xnXzl2cmdudy1aOTRUMVJxWnpxd1FwUWI0dVNPWFpxM0RqQWctYm5tTF9kSFAzQzMyVUN2S092bGlQX1NGeDdGQ1JxNTFNeEFNSE9MRGtqd3k0cU9jdDFMQjFldWZGX1FYT2FXdE1hTUlzZHNROHdMZTVaNTZqOGRjay1NYzBkaHE2QXluakxlbU1aY2t2ZXc2YmRiazUxUEhJZXpyaDlhZlNpR1BpTnB6VWE1NlHSAeABQVVfeXFMTk9hbk93NFZ6LXROUmZZem5vWlZSZDV6SF9VRGZuSGM0Y2NzZlkyd1pUbFRXbXp4UHdLRXo4UFRuOG5jRjIxalk3WFFiOVN0VmVoVDVySDJNR0xLNUpCSHdJT1M2VnFKOVlLckluM0ZkeVprMHVjQWJ3c2pJUDlDOEtWQkVXLWJhYUp5TzlTTnVDaWdJZWJNcnQ4dmFrWWw5QXQ3amxxTllQb2gwNkx4SDVYZjNyQTdoRW4tUzJtbXJYN3cyWmxQYXlSLWg0ZFRVSFM2ZjhZSEVwd0FWZG1Ncy0?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Battle for Raipur: BJP releases 21 names; MP-nephew from CM Baghel seat - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3ltdGd5Z1dHZi1IamJBZURzTHJyeFhNRTFxelFQbDF6RHpTVWlrdGtMcjVDVzRsOEdlWGJVNEp6Xy1KSUdpY0FwYkpob1JNU2M4R2tuaklrZTI0YmZWbnd0Z0hFUF9GaUNvRnRDN0VXR19YeWwzRzYwbGs5TC1FbWxWakNyZHd5aUU0Q1p2T21DUUY1d3hReG5GX0ltU2lOQ19YVC1VOWtDOXPSAbIBQVVfeXFMUERxeWQyX0ZoMERCM2tHLWpLOTFPTjI2aEpZVzM4UkdVUVBhZ20zNkpPb3RFcDlNWGhpdmdoRHFpdU5rVHNQX1QteFZHYXZXSi0tMThtU0hmOElQMHBzZnAxTHZxRXgzRmw5cXpQVFhfZzQ4aGtQYnlQcWVrQ2VkME5PRU1LV2tFWGlBbExDaGZ5c1l3cTFNcks5WDFTcUVGV0xPQi1pQ3JxTEtNX3RBTlROUQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -311,14 +405,6 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmRxMDRreEZtbnBkRFNqeFdOUjJBXzgwZ3o1SWl6Z2F4QlJNWHVEWFUtRVVESDRqQS1HU3lKbTZqc29jVUxVNjNETk96ZW9PanBHNnFqYVBjejVfNmwxM2RvZG55cjBpbUo0NGowVU1lX1c2cnZBUGhHaXExNFJsVk91MjduVThyVFdlR0JPX3Q2WkppY2dYNVBfWkcxUzFwZnRwcWE3YUhrdU4yX1o2RXd1Nm9YZjFnRTBnZFhMSkt6TFlqWVctN0dRWDjSAdIBQVVfeXFMUEVuTXg2UEQ3bjhoSW5DWGFDc1VnTDNKUE11ZXFuR1lEbVAwYlp2ODFFMHNrNllrQXkxNEV4YXVsZ09CNnBlRXRmMkQyMHA5bXF4Sm80Rk5wX0t6X3FINE5xaXBGbUJ4MEo1em15N2E2amJHS0FVci1vRS1MdnBJZ1BsaDNvdk53YUluaXByZ1R4X3I3WXRVajBrVTc2OXhBWTBkQWs4R2pvS2hCZkw2LUhPS0dXNDh0TDhweW1KWlJnbC1QdDAtSlZPVEpWWmhsUDN3?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "BJP Chhattisgarh Focuses On Weak Areas, Chooses Nephew Vijay Baghel In CM Bhupesh Baghel's Patan - Swarajyamag",
-          "source": "Swarajyamag",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRW9PaFdOa1J3SG9CUlYxMXp1djV4REJWbnhocXRXZUF0VlBFQ3ZrejVRTGxOdFV0S28zRFUxUE9YcndJRklycUkzXzNqTUVmOS10WmdqVzJPM01pR2RPcDZ3Nko4SlFxamF1dGxCUUpnbi1RdlJhVERJQUl2UFB5eVhnSXVyOHM0bDI2REFxMzc2MmVTUW5VcUtZSnRPVUdNRlFRamNFaFVtVVE0VVVYSDM0ZWN3TG9zUnFCUUhZNXppdUVtbE5rRNIB2AFBVV95cUxQLW5wM3ItTmxmRzU5dDZRN0JNajZfeElzSGF5NGgzb3JkeHZQZ1FuUGwwdkpTZ2drQzVpRGZZQ1NwLXRDbWV1UXJmYjQzMFhWRzRtd3dMbHdyZUdCaTI3ZkdVN1YydDdsVVlpcnZqNl9wTUVLMEZWUUU5OEpTdUpmblBSb3U5N2JKTkFzcjFqQlVIOUJZRmM1NkVJX1VJanFXdlJsMVlqaEdraVAzMXl0cm9PS05neTQ4eVJoUFBUeWI1Qk14LVozTEoxbnR3bU1UUG1wY1pQRGs?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 75,
+      "starred_questions": 22,
+      "unstarred_questions": 53,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Chhattisgarh: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 37,162,950. MPLADS utilization: 30.4%. Parliament attendance: 100.0%. Questions asked: 75. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:47.735596Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 75. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.328823Z"
 }

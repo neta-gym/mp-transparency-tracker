@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 514346283.0,
-    "liabilities": 9570794.0,
-    "net_worth": 504775489.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 84.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 2.56,
-    "expended": 2.07,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:52:53.565408Z",
-        "notes": "Official eSAKSHI REST API — Works: 107 recommended, 44 sanctioned, 25 completed"
+        "fetched_at": "2026-09-02T15:11:21.518693Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:07:36.764106Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:07:36.762262Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 107,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 14.081632653061224
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:30:05.893498Z",
+        "fetched_at": "2026-09-02T15:07:36.761594Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "West Bengal has no room for NCPI. TMC rebels may soon have to choose BJP - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMDBydHEzX0xya3NMTlBURWpnYkZzYkhoOVdhQ2oxWl9VUmprXzRRUnl3WVp2OTB1bDFtTFN5QlkyWDkzTHBxdDdTRk4tczJQekNZT3pmSDJJcWhDTnVIenAtMTJqUnlWR3VPWEo4MEZ3a3NhUXBV0gF8QVVfeXFMUHpia1hDYWJhMEJqb2JaTXhJRnR2SUxQd2RFc3BtN01acHNVR3JkalJDQ3VENGg0bzQ4N2prRU4xNlowTTJ4eUFmNG1DcmJUNEo0dFVTTHFUN2lXa0VwZHE0Sk5fN3BZcHEzeFVKVFZhMDk0V1NFQ3E5czFQeA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Saugata keeps alive talk on three Muslim MPs' return, all 20 Lok Sabha members are in NCPI: Satabdi - Telegraph India",
+      "source": "Telegraph India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQzlicU9vbDhydFRxSTZWRFlXTWNCcDFtbV9xc2hrQVl6ZldkTTRDQ195YUVpNm5IZnYwM2hXMEo3WVhLckxBNk1FdElqTkdlams2MURvcFhYMmxUdnJ2WVJwR1JDcXpIOUVfQy0wSF93UGtPZE9aNFBhY0RheUQ2bndORmJyMTNEZVlpalRLbk93TXBZY0RQQlY4Mlk5TUYyZXVfSENacG1hYVVyd0lXQWF0cVBZNjg1NlpxcXJCUkVxY1lwT0I2SVlJUFd1TkthcHRxTUk1N0JBbkRwTXBIaE1PSVByYzQtMEcxX3ROZGZtTXRnZE1hSUZfclpaakhyTjVFX2pTSUxsalJzYVNMWEJiY3BYZEIzanpQckc2Y3RpUVllRnZUM2dB0gGvAkFVX3lxTE5HVlQyMERpWUZrMDlITm5RcVBwTGlIRWRHV3ctd0tNVzM0cnVaOFpIcDBRRHU4YUdCSWtSSWF4Rml5dE5abXJscjN5V3lLVDVleG52dTNaMTZxeHQxU2I0ajJmaVFfbnRQWkZPVy1oblZma21sQmVFWTBhd2lmZXhtQmxHci1ZVVdhUXp1cUJHMWt4UDYtdkprRjRsVXQ2WVZZMTFvMFBxcVdjUll3aTFBOXpod2p4S1hUTW5hdlBwMS1BVjcxY2NpM2Jvd2daYzNBUnNyNXo1TlFIaHhoMHYwc0drV2oyRjhrcjhiVzJybWRCZWtWT1ktZXhlSm8xTGFuczdKSDZaQVZMRnZWSTktMjBjbWxrNGl2N2p0d3Z2eGJ5bGJmWDJ1SGYyamZSVQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Three NCPI MPs skip NDA meet again, signalling rift within TMC breakaway group - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUF5VjRxRTlUMGVfb1VXT3JXOVNzR2w5b2ROZGdPdVdOcG1vdkswNTBCdTlfNDFrb0wtRjhURzZhbEwzZy1hSnhXRlZmcFIySllOZEk3NzJFVFAzaXFLaUplaDJ3SUtXMi14SFQ5UG9HT0tWQ2c5RkZRLXBpSVJoTGFlM25hemZTOU9wU2JoeFdKMjhQSXRWY3dkQk45WlZFVS1XQVJ2dnp5RzctaUNOSnRjVkhSQmVnamhUMDVzU3FaUHk5OVow0gHUAUFVX3lxTE01WnAwUEpaNHFUVzB4WjZKcDNhNG8xaktrd2UxN0ZIejlyWDVsZ1JVRzVWQjM0VFh0SkFBcXU5eEdWX3BreGpYdTBxR2EtLWhWb1BpY1pwVUhiT2VzdWVNWGE0dzhCN0V5OHEzbjhYbVpleGViUFFQLTdVM24tN1FoczFoQ0RxVjllRE5WRm0tbVhIWEltVS02U0FGeHgxOG01Umxia2lmWU9BaGxJS1dxeHFUdlFaNV9pclh3cUZwMG9qcnc2dE9MOWtld3FtZFE3WVRG?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘We have voters to answer to’: Why three rebel TMC MPs won’t join NDA meetings - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmtHVUlKS0hHUHBvakVSSklOc3BuRE9nbzd6RVNJRXBnZDhTTXRZdUF2SVh4ZHpjb3pwOUJxcGhJcjlTREVwSHZndi1uX3RjUzdIMUJVQV9qaXpNVU94ZnBZZno5NjctdWFBWFMwVnRWTTBEUk1telJaV3ZTdjNmdzV4amlJNmFoTTdHR2gxeWNQZ3F5NHZUbTB2MnJqUVZRVWdGUHp1VC02UFZMU0RocdIBtwFBVV95cUxPY0hrTXdiMmJoTThFdUFZMncwbk5fNlhKamRZTnFUU09sM0p5WjVwQ3R0UnU0OExKZHpUNEp4R3ZMeTJkTXBFNXhJQU1CMUd1Z3FzSEtBM2I2eE5oTDVnQ0RTRTd6eFNrYmhCYzRWeFI0Z2ZSOGQtajkxOWpJWmJpSHQxMGcwMi11YUVKVjF4RTNLLU9LblBLX05yNjlDLTlTeS13Tmd0VV9qQzlYUzNpZzRxcklBOVU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Khalilur Rahaman’s Zero Hour mention on the need for a fully operational ESIC Hospital in Jangipur in his constituency - AITC in Parliament",
+      "source": "AITC in Parliament",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQREZFM2lMSUJOU2Y2QlUxcnZCZHBIT3dqUWE1a3RZUzAyYmswb1M3Tm53bTR1RFVGQy10Z1lSdldNRUZVd095OEczeWtIQTZsaWJhUEc3T29jZkRsX2lMZnc4QnpRNlRmWjktMlVILW90MW9GazBJSkpJUjVBRXVaTHpPOG54UDlrRTFRUUFiWDZhbnpfV0RkN1RrT3U5SEJSS3ZZekNrNGlwOFRONjk4VHhNMU1admxOMEE3cVVzZnJ4dXVfWTJHSjFqZDZyX2tCNmJhemhIYXdZbEE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:31:12.667370Z",
+  "collected_at": "2026-09-02T15:11:21.519645Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.748938Z",
+        "fetched_at": "2026-09-02T18:38:12.377987Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.748947Z",
+        "fetched_at": "2026-09-02T18:38:12.377997Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.748952Z",
+        "fetched_at": "2026-09-02T18:38:12.378003Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.748957Z",
+        "fetched_at": "2026-09-02T18:38:12.378007Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.748963Z",
+        "fetched_at": "2026-09-02T18:38:12.378014Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.748967Z",
+        "fetched_at": "2026-09-02T18:38:12.378019Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.748972Z",
+        "fetched_at": "2026-09-02T18:38:12.378024Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -253,43 +309,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Bengal poll 2026: SIR shadow puts ministers’ election plans in limbo - The Times of India",
-        "source": "The Times of India",
+        "headline": "West Bengal has no room for NCPI. TMC rebels may soon have to choose BJP - ThePrint",
+        "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWVVYbUQtLWVvejF1TGdmTjlnRFVXS21qUDc1OXJHaVpBTEdGbnF0QkNFblNXZG1CeV9GYW0tMlhFT3RxV1lQUGh4SnlnVnlhYnQzYmNpdGx3cTJzYkwyY0t1THRiQlMzYnplSXpXZWYxbS1zdm4tcGR0cmRBcTdYdUxYT2lFcDIzb0ZKRE9RR2FPckdPZ0NNQWRzS1ZRS24xQmRLOUdOU0pXN0dlQnhpOTVSRnNGcGZMNlZEc1UtY0xld9IBxwFBVV95cUxPclhkTDJxMXNlODdkM0tET0dlZ3NqZmNlZVJXV0ozQ044UC03ZlpCRnZBRFZGSWRBRmg3aWhOMzBGZ2hsaTk3MWNJN2dnUEpTVlZBeVducC1wZGo1Zk16OVBRelFSRlQwMU45RU01MklTcEN6OTBzRGZzTVJsb3RGSVdhMWVyY0FfWURoT0J2b2FNRV9tM28xbXJ1cFV1ZlE1V0ZFTVg1QUViMmhPejltMDFXMW5uVDVQSVZLal95ODZxY3AzS0hJ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMDBydHEzX0xya3NMTlBURWpnYkZzYkhoOVdhQ2oxWl9VUmprXzRRUnl3WVp2OTB1bDFtTFN5QlkyWDkzTHBxdDdTRk4tczJQekNZT3pmSDJJcWhDTnVIenAtMTJqUnlWR3VPWEo4MEZ3a3NhUXBV0gF8QVVfeXFMUHpia1hDYWJhMEJqb2JaTXhJRnR2SUxQd2RFc3BtN01acHNVR3JkalJDQ3VENGg0bzQ4N2prRU4xNlowTTJ4eUFmNG1DcmJUNEo0dFVTTHFUN2lXa0VwZHE0Sk5fN3BZcHEzeFVKVFZhMDk0V1NFQ3E5czFQeA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Khalilur Rahaman , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-        "source": "The Hindu",
+        "headline": "Saugata keeps alive talk on three Muslim MPs' return, all 20 Lok Sabha members are in NCPI: Satabdi - Telegraph India",
+        "source": "Telegraph India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeF9TQ1B5V3lFZjA3UmcxRXJXS0wwWmJFZDVybmpfbkplMXg3V2g5UUNJTjVQaEdBWEx4bzVpUlFQVU9NeUpqcEl6d29DVVdzNm5jT0YyZFBtUEZtQUhNR3N3MHJzT1hRS1RqS1haeVQzUWpTSWhobkNlSzNSWTJEamZxWmZVak1l?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQzlicU9vbDhydFRxSTZWRFlXTWNCcDFtbV9xc2hrQVl6ZldkTTRDQ195YUVpNm5IZnYwM2hXMEo3WVhLckxBNk1FdElqTkdlams2MURvcFhYMmxUdnJ2WVJwR1JDcXpIOUVfQy0wSF93UGtPZE9aNFBhY0RheUQ2bndORmJyMTNEZVlpalRLbk93TXBZY0RQQlY4Mlk5TUYyZXVfSENacG1hYVVyd0lXQWF0cVBZNjg1NlpxcXJCUkVxY1lwT0I2SVlJUFd1TkthcHRxTUk1N0JBbkRwTXBIaE1PSVByYzQtMEcxX3ROZGZtTXRnZE1hSUZfclpaakhyTjVFX2pTSUxsalJzYVNMWEJiY3BYZEIzanpQckc2Y3RpUVllRnZUM2dB0gGvAkFVX3lxTE5HVlQyMERpWUZrMDlITm5RcVBwTGlIRWRHV3ctd0tNVzM0cnVaOFpIcDBRRHU4YUdCSWtSSWF4Rml5dE5abXJscjN5V3lLVDVleG52dTNaMTZxeHQxU2I0ajJmaVFfbnRQWkZPVy1oblZma21sQmVFWTBhd2lmZXhtQmxHci1ZVVdhUXp1cUJHMWt4UDYtdkprRjRsVXQ2WVZZMTFvMFBxcVdjUll3aTFBOXpod2p4S1hUTW5hdlBwMS1BVjcxY2NpM2Jvd2daYzNBUnNyNXo1TlFIaHhoMHYwc0drV2oyRjhrcjhiVzJybWRCZWtWT1ktZXhlSm8xTGFuczdKSDZaQVZMRnZWSTktMjBjbWxrNGl2N2p0d3Z2eGJ5bGJmWDJ1SGYyamZSVQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Murshidabad violence: Bengal Govt planning compensation for victims, says TMC MP Khalilur Rahaman - ANI News",
-        "source": "ANI News",
+        "headline": "Three NCPI MPs skip NDA meet again, signalling rift within TMC breakaway group - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYlFGQ3hiZTFnZW9UcWxNUHRiVFZLakZNMjZWaTJvTnQ4SThLaEIweDZvNlNXWXhvUjlTZlpaajFBM2w4Y0JDUVB4VzgzcDF3TTlGWnRTVE9NczJmTHVtbXBERjBfYUN3MVRxYjJFQUhHeUpjZGNQdlhBZlR1MUVyT1Z3M3otMFQxa3BWenVjMDFST3JGcnRsS213QmlVaW84bzZiaFIycms0WlJqWEx4alR0ZklnM0Z4ZGd3VUtjLUdmV1BzSWNYSF9IUEw1enk2azJsbG1FX284UTZpUm5RQVc0VE00M1VTclpZ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUF5VjRxRTlUMGVfb1VXT3JXOVNzR2w5b2ROZGdPdVdOcG1vdkswNTBCdTlfNDFrb0wtRjhURzZhbEwzZy1hSnhXRlZmcFIySllOZEk3NzJFVFAzaXFLaUplaDJ3SUtXMi14SFQ5UG9HT0tWQ2c5RkZRLXBpSVJoTGFlM25hemZTOU9wU2JoeFdKMjhQSXRWY3dkQk45WlZFVS1XQVJ2dnp5RzctaUNOSnRjVkhSQmVnamhUMDVzU3FaUHk5OVow0gHUAUFVX3lxTE01WnAwUEpaNHFUVzB4WjZKcDNhNG8xaktrd2UxN0ZIejlyWDVsZ1JVRzVWQjM0VFh0SkFBcXU5eEdWX3BreGpYdTBxR2EtLWhWb1BpY1pwVUhiT2VzdWVNWGE0dzhCN0V5OHEzbjhYbVpleGViUFFQLTdVM24tN1FoczFoQ0RxVjllRE5WRm0tbVhIWEltVS02U0FGeHgxOG01Umxia2lmWU9BaGxJS1dxeHFUdlFaNV9pclh3cUZwMG9qcnc2dE9MOWtld3FtZFE3WVRG?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Khalilur Rahaman speaks on the need for health facilities for labourers in his constituency - AITC",
-        "source": "AITC",
+        "headline": "‘We have voters to answer to’: Why three rebel TMC MPs won’t join NDA meetings - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZkdxbFhGV202NF9uMWFnT0JzbWtqSzR4ZlVqd2lsLUVieHp6T2dSMGhfa3JacDgwTnJLUFQzV0FCY1ZYMHZYRkpGWmZaajU2dHlHMU5CM0VOek9CbXhodlVWTkdLcGZrZ1hZd3EyMkhYT3NHSFMtcFU2aHNSR1RCOHN0dXpJaFVKa3hNVzhSYTJ4LTgzTEtQRGhkQWpEMGZSQTdKVmZQUmlRZ3l6RXNCckxFTjZkdy1F?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmtHVUlKS0hHUHBvakVSSklOc3BuRE9nbzd6RVNJRXBnZDhTTXRZdUF2SVh4ZHpjb3pwOUJxcGhJcjlTREVwSHZndi1uX3RjUzdIMUJVQV9qaXpNVU94ZnBZZno5NjctdWFBWFMwVnRWTTBEUk1telJaV3ZTdjNmdzV4amlJNmFoTTdHR2gxeWNQZ3F5NHZUbTB2MnJqUVZRVWdGUHp1VC02UFZMU0RocdIBtwFBVV95cUxPY0hrTXdiMmJoTThFdUFZMncwbk5fNlhKamRZTnFUU09sM0p5WjVwQ3R0UnU0OExKZHpUNEp4R3ZMeTJkTXBFNXhJQU1CMUd1Z3FzSEtBM2I2eE5oTDVnQ0RTRTd6eFNrYmhCYzRWeFI0Z2ZSOGQtajkxOWpJWmJpSHQxMGcwMi11YUVKVjF4RTNLLU9LblBLX05yNjlDLTlTeS13Tmd0VV9qQzlYUzNpZzRxcklBOVU?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Jangipur lok sabha election results 2024: Jangipur Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Khalilur Rahaman’s Zero Hour mention on the need for a fully operational ESIC Hospital in Jangipur in his constituency - AITC in Parliament",
+        "source": "AITC in Parliament",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnFtYjRmQUxxZHliUFZvTU9XaXZGclZnODJFM2tyT1RGQV9HN2dqWkJRQ2VTMzhLd2NTdVl5Ti05SmdjeG9JY1ZuS2lWNFdGUVppMjJZMmMyM29hcHFaeWZBVFdRYV80THQ3b256bktKa3BDM3kzdlBONVNtNE5iQnRIQXl2TmFNWEloaFJXUS1Kb0FWT2xB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQREZFM2lMSUJOU2Y2QlUxcnZCZHBIT3dqUWE1a3RZUzAyYmswb1M3Tm53bTR1RFVGQy10Z1lSdldNRUZVd095OEczeWtIQTZsaWJhUEc3T29jZkRsX2lMZnc4QnpRNlRmWjktMlVILW90MW9GazBJSkpJUjVBRXVaTHpPOG54UDlrRTFRUUFiWDZhbnpfV0RkN1RrT3U5SEJSS3ZZekNrNGlwOFRONjk4VHhNMU1admxOMEE3cVVzZnJ4dXVfWTJHSjFqZDZyX2tCNmJhemhIYXdZbEE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -323,15 +379,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 30,
+    "starred_questions": 9,
+    "unstarred_questions": 21,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 58.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,16 +4,16 @@
     "constituency": "Karauli-Dholpur",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 451,
+    "myneta_candidate_id": null,
     "slug": "bhajan-lal-jatav",
     "house": "lok_sabha",
     "sansad_member_id": 5734,
     "profile_url": null,
     "canonical_name": "Bhajan Lal Jatav",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/5734.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Karauli-Dholpur",
       "state": "rajasthan",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 451,
+      "myneta_candidate_id": null,
       "slug": "bhajan-lal-jatav",
       "house": "lok_sabha",
       "sansad_member_id": 5734,
       "profile_url": null,
       "canonical_name": "Bhajan Lal Jatav",
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 55,
+      "age": null,
       "photo_url": "/mp-photos/5734.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,98 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "285/2017 ,Police Station Bhusawar, District Bharatpur | Pending in CID CB Jaipur",
+          "ipc_sections": [
+            "143",
+            "283",
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "",
+          "fir_no": "285/2017 ,Police Station Bhusawar, District Bharatpur",
+          "case_no": "",
+          "other_acts": "Pending in CID CB Jaipur",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:07.023576Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 33282184.0,
-      "liabilities": 18978157.0,
-      "net_worth": 14304027.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=451",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:51.539891Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 27.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 1.8,
-      "expended": 0.5,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:44:47.287247Z",
-          "notes": "Official eSAKSHI REST API — Works: 41 recommended, 26 sanctioned, 5 completed"
+          "fetched_at": "2026-09-02T14:35:11.643086Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:31:29.946607Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:31:29.944467Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 41,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 3.4013605442176873
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +146,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:55.235066Z",
+          "fetched_at": "2026-09-02T14:31:29.943630Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +154,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVWw5dFl1Q01hTjZYalhOd0trTVZMY3IyYTRGTmc4S055MjBZSW1uMGRrM0NZTnJ2X2JBVzMwdFdIN3ZuM0JwalJhQWtZVElueGRkS0ZfWEd6UEw1SHRKMTBVR3BVVDI2eUx0M1RZU0FBeWRqd0xmemRJWmZnTjh0SlFXM3VUSFpUSHBQMWFpNXFRZURCclIxNG4xeXowQ0Z2eVFQNHlCVWlMRVFNaEVCa19SSng5S0lQUkhXNnBVUXVSTjNpM05UWlBTQ2lCRUNS0gHWAUFVX3lxTE82UVBla1Q4NURDQVdKNWlsaHgyVFhCUElMZm9vOThrM3N3Vk1HejlLRUFRRXY0VjZLMm1TSFZYS3BRMnItYXVQdDREVGNCOGRxNzJTMVU1dDNjdHIySGdMM2dXZWJxcjRjMWpxQ1VpQzN5SFcxb1NkczRZNFBYMThkdHgtZmhfTEo2X1J3cVFvcFpHZkNlcDJSSnZTZ2g2amlHcmgyRm1JVWsxRXppWEI5Z2VZT1BNLUJFZm9xQ3QzZW9IcGdvZFJmYU5vMl9BVGU4UEUyUFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress weighs Punjab leadership shift as top brass discusses observers’ report - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVlN3NlFjRndmWVNfV2xCbEZmV2dzQUxfZjY3M0Y2SlhvX3Q4dGxNSG1kb295TWZRMlhoWnpIeWdYcWZvSTlHNHU3YTBlQ3JzcDBTUVpIOGgzdnh3MGNpckdHQVJHeDhSNzBCUGs4QlhoalE3YmY1RkNjMmlCR1pCQy1YN0dPM2QtWEZQWDlRQ0duTzBsTWZ5WDNwS21sMUYwYW1IcXZBaWhhTmhWRnZkMXN5WXdXa1ZKUnJEc2JVekVwWUVTX0dxcFkwSjRYVU5ZRG1OLVhWWkU5TmR4QU8xR2JTUVJMT0dJSF9lTmVR0gHzAUFVX3lxTFBNdWlmOXRMR1RxMmtGQUF2WWxJMi04OTRCdFQtaHZ6b2xYSVhCNG1uVmVKMk9lT2hyc2FmWnNqWjJPaF9HQnFsekFqOGtoSWlYcU5MVERhbVdTWE9fOE1yM01VaElJUjJYWVFkbXNDUUFTeE9weHZIb0JVQnZUYS1vdzF0Z1VzUDVpaXFaZkotMjNNZEVDWmVtdU0zODV4WnZBMks3S0drSldXS3JCSDFiLTlnWUVlcUJuTkJhd2tkYnJJNGZSSVBJT2tUaWtMRjEtdHBGczZ2WmtKS1hHbFJhQV96YkZ1Z3Z4c3E2TGphZ01FVQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Centre stalls funds for tribal scheme in state - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjR6YmpsV3pudFg3TlFmZk01WWloVGk0WFQzWVU4ZDBTdEduOVI4QWt2dms0ajBJTzI5Z2J4UVN0Sy1zMnBLSnF6enNCVFdPcDAteHlubXRrSTZ6U1p6Tk1pSktwamRxWDRMckJST1F0aFRYaFV6MjRYLXZMcl9Ub1BSeENxVEJSRWtLc1RKRmRxaXJOVWFyekJqdUJodHBUbkFkNXdIYXhVXzFBcUpTNmRUN1IxeXYzWWlsMNIBwgFBVV95cUxOYV9RMEtvY2JpQVBwNUZGWFRJS1daNlFhWVVhVHZGTlR4dDNBc2dDTk92UWNJcnpsUld3a2l6M1FGb21OaHI3YWFVS000cElabjVJNlJBdTlYRzlWZm5laXNuRUpZYVI4UjlodlRlaVhvWTYwTU4wcGlLVURVbnlTMV9kSXFNLVpSbGZzVkRBeHNBOW4zcFFIb0xTbUNGSkw4TEFxNm11cm9NaXlWT1NpbHpoU1RMYVp1X3laMjEtRlpTdw?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Nepal General Election - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHJXZ2xEUjdaNTJtbU9fcElqb2tIQmdJdWVORnV1ZHp2c0dvZ2d1WlVBWm5jYlk4NDJZYWplZGlkc0tHWUVJd2IxUGt3a0t6TDFfT3FqUWY3bFYzOGdsMzhrRk1tNTloaVJMQVFoY0tSclRKMUhvNTFrcUVPUkpEMVlvTXBjcXRzR0VjQUhLX3VNVlVrQnpmQ0JacDhQUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress leaves Nagaur for RLP as it announces two more names - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWNwZjFFUjlxUTl3QndTcmQxMWI5MmlnR1FGM2tJWTVZT1RlaG12VmJvQzBEaDdaRHVqdTNmZWw5UWhkMlg2aG9nNUU1Wl9sYktwTm9ZY20tazlkSU84a2pvMUVCeHd5c0pJckdtZE9iREdNUGdBeHotR2ZsNWZ2Wnc0WEFOUXVrUXpTZlNKMDBBNjk0dUlBaDJCLS1ISkd0Z0NXalJaRDk0Z9IBsAFBVV95cUxPTTVVVV9ka0xUd3BkcTA5NTU0R1R1TDFseU80eHZ4ZS0talE4TTNHWFFaR1Z4T1ROcGxBVmkwYm02NFQycmJsQzZqUzhrYng4LWZKX2ZiMzNQY3ZramNCM08xY1o4ZlFIckx6dm1nVDZLQWdTTDJEQURGNmRJYUlCeGU5dmwtSkxuajczbXVHRlV2RURiUkhDXzVTSzd0QkdZOXg5RHdBY1FkVHhDa1RHbA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:53.656256Z",
+    "collected_at": "2026-09-02T14:35:11.644138Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +223,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.846729Z",
+          "fetched_at": "2026-09-02T18:38:09.302984Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +239,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.846748Z",
+          "fetched_at": "2026-09-02T18:38:09.302996Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +255,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.846756Z",
+          "fetched_at": "2026-09-02T18:38:09.303002Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +271,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.846765Z",
+          "fetched_at": "2026-09-02T18:38:09.303007Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +287,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.846775Z",
+          "fetched_at": "2026-09-02T18:38:09.303014Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +303,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.846782Z",
+          "fetched_at": "2026-09-02T18:38:09.303019Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +319,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.846829Z",
+          "fetched_at": "2026-09-02T18:38:09.303024Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -276,53 +351,53 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 9,
-      "positive": 0,
+      "total_articles": 10,
+      "positive": 1,
       "negative": 0,
       "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Public wants PM Modi again, I will secure the highest Jatav votes, says Indu Devi - The Times of India",
-          "source": "The Times of India",
+          "headline": "Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - bhaskarenglish.in",
+          "source": "bhaskarenglish.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZW9RNFBUbU9Ka0hiV2c0Tm5aWGVXYjUwNXo5U2UxdWM0WnA0LTF4LTlkZEJ6RlNTRTI2VUk2NGlnNU1ITmtrT1hCRmEyREI0VE9qemRFVFNQbkZoQ1l6V3NHQlp6czk0UFgzblFkeUZDZFpIYUhFdEhsd2xUNW9USmdRejJBNkt2VHVqMGZaRGR5MERTbmZ0MmZEMHNRZFY3WXhQWGRrdGx0RnpyeHFhbEI4dnBtM3VUUkt5VUI1UnRYTDZwbE9iT0psQm13bjBMXzNERmxGR0Fncko4Z19hMHp6MEFVT1lp0gHuAUFVX3lxTE1oRFMyMDNkbktEZnd5UFN0MGRfeHd6YklWbFA3Y2t1THhsS0xTc2c5ckQwRGVPMjhFLVZQczBqRHdrdkEzb0Zsbjg3M0xYdkMtX3B6N2VIYnpicVFRSEdPdlhJS1VWV2RrcG5CeTZqQ3N2VGhod29LdlM5cXRHUWpBcG1sd1BxYnhkMXdodDJZOGFtcUQtZnJHSE93VjJzbFU4d2pvSWRQS3UxdXNkQjIwRXdGQ3hRSWtvRGpESWVhbjRKUHozc0NGZGR1eGpyUUVtM01ScVVsbjdDNk9rbm1yM3l5WVMyMERFZFhjQ0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVWw5dFl1Q01hTjZYalhOd0trTVZMY3IyYTRGTmc4S055MjBZSW1uMGRrM0NZTnJ2X2JBVzMwdFdIN3ZuM0JwalJhQWtZVElueGRkS0ZfWEd6UEw1SHRKMTBVR3BVVDI2eUx0M1RZU0FBeWRqd0xmemRJWmZnTjh0SlFXM3VUSFpUSHBQMWFpNXFRZURCclIxNG4xeXowQ0Z2eVFQNHlCVWlMRVFNaEVCa19SSng5S0lQUkhXNnBVUXVSTjNpM05UWlBTQ2lCRUNS0gHWAUFVX3lxTE82UVBla1Q4NURDQVdKNWlsaHgyVFhCUElMZm9vOThrM3N3Vk1HejlLRUFRRXY0VjZLMm1TSFZYS3BRMnItYXVQdDREVGNCOGRxNzJTMVU1dDNjdHIySGdMM2dXZWJxcjRjMWpxQ1VpQzN5SFcxb1NkczRZNFBYMThkdHgtZmhfTEo2X1J3cVFvcFpHZkNlcDJSSnZTZ2g2amlHcmgyRm1JVWsxRXppWEI5Z2VZT1BNLUJFZm9xQ3QzZW9IcGdvZFJmYU5vMl9BVGU4UEUyUFE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Karauli-Dholpur Election Result 2024 LIVE Updates Highlights: Bhajan Lal Jatav of INC Wins - News18",
+          "headline": "Congress weighs Punjab leadership shift as top brass discusses observers’ report - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVlN3NlFjRndmWVNfV2xCbEZmV2dzQUxfZjY3M0Y2SlhvX3Q4dGxNSG1kb295TWZRMlhoWnpIeWdYcWZvSTlHNHU3YTBlQ3JzcDBTUVpIOGgzdnh3MGNpckdHQVJHeDhSNzBCUGs4QlhoalE3YmY1RkNjMmlCR1pCQy1YN0dPM2QtWEZQWDlRQ0duTzBsTWZ5WDNwS21sMUYwYW1IcXZBaWhhTmhWRnZkMXN5WXdXa1ZKUnJEc2JVekVwWUVTX0dxcFkwSjRYVU5ZRG1OLVhWWkU5TmR4QU8xR2JTUVJMT0dJSF9lTmVR0gHzAUFVX3lxTFBNdWlmOXRMR1RxMmtGQUF2WWxJMi04OTRCdFQtaHZ6b2xYSVhCNG1uVmVKMk9lT2hyc2FmWnNqWjJPaF9HQnFsekFqOGtoSWlYcU5MVERhbVdTWE9fOE1yM01VaElJUjJYWVFkbXNDUUFTeE9weHZIb0JVQnZUYS1vdzF0Z1VzUDVpaXFaZkotMjNNZEVDWmVtdU0zODV4WnZBMks3S0drSldXS3JCSDFiLTlnWUVlcUJuTkJhd2tkYnJJNGZSSVBJT2tUaWtMRjEtdHBGczZ2WmtKS1hHbFJhQV96YkZ1Z3Z4c3E2TGphZ01FVQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Centre stalls funds for tribal scheme in state - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjR6YmpsV3pudFg3TlFmZk01WWloVGk0WFQzWVU4ZDBTdEduOVI4QWt2dms0ajBJTzI5Z2J4UVN0Sy1zMnBLSnF6enNCVFdPcDAteHlubXRrSTZ6U1p6Tk1pSktwamRxWDRMckJST1F0aFRYaFV6MjRYLXZMcl9Ub1BSeENxVEJSRWtLc1RKRmRxaXJOVWFyekJqdUJodHBUbkFkNXdIYXhVXzFBcUpTNmRUN1IxeXYzWWlsMNIBwgFBVV95cUxOYV9RMEtvY2JpQVBwNUZGWFRJS1daNlFhWVVhVHZGTlR4dDNBc2dDTk92UWNJcnpsUld3a2l6M1FGb21OaHI3YWFVS000cElabjVJNlJBdTlYRzlWZm5laXNuRUpZYVI4UjlodlRlaVhvWTYwTU4wcGlLVURVbnlTMV9kSXFNLVpSbGZzVkRBeHNBOW4zcFFIb0xTbUNGSkw4TEFxNm11cm9NaXlWT1NpbHpoU1RMYVp1X3laMjEtRlpTdw?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "Nepal General Election - News18",
           "source": "News18",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUlpnU1FST3lkMmNrbXZJTG5YbWhhN2pxS0RfX3V0VHVfby0xVEItMGlEMWloZzVNVU9Rd3VEU3J2bjZZa1oxYk0yNGlqc3BGbGZ3NFlZY2h5bHJDUUtUeFhCUndad3dGQ2xidUlJaTN5SE5HQ0FLX3ctNENQRXFnc3pGS2VwUFlqRXhsb2pyLVNzblZQc2JqcHlWWG1HR0RyRGVUR2JJR2dqYWpvaHFTelluSUVKLVBRMjRsT2JyWmNjUEVZY2N5TDhEZVlBRFM2blJGNHpjSEdKX19jQTlfWVNVbFcwM1FMckdFZdIB8gFBVV95cUxPZjJ4d1dQX2NyQnNFZVJVWXhRUlVpVnBOS1hvQ2lpNERVMUk0WHJ2dXpsX09tSWgtTkNGRTN2Tk43THJMRzZTRmlvcktfanJ5bjNiVmtsTUxFbjVDTHBYUW9kUGJ1Rmc5OGVMa3FqQ2d6ZmtQQUhfTk5veGRuaWZqa2ZLSGkwbkdvU185MUU1Mlppd1FUMkhDWVB5SnMzMEZzSFFKekNYTk56TFNwWG9ycVFIRnBVcmlNMjZtbG9Qc3ZqaE1IZ0VncmpiRjh5SWp3bmZzYWhUdlp0ZDJkdkNwMXYtblc0S3JkTGc4cE14cHRyUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHJXZ2xEUjdaNTJtbU9fcElqb2tIQmdJdWVORnV1ZHp2c0dvZ2d1WlVBWm5jYlk4NDJZYWplZGlkc0tHWUVJd2IxUGt3a0t6TDFfT3FqUWY3bFYzOGdsMzhrRk1tNTloaVJMQVFoY0tSclRKMUhvNTFrcUVPUkpEMVlvTXBjcXRzR0VjQUhLX3VNVlVrQnpmQ0JacDhQUQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Karauli-Dholpur lok sabha election results 2024: Karauli-Dholpur Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "Congress leaves Nagaur for RLP as it announces two more names - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGE3NkRtcHhfU3NHcDJyZEhGakRvOHpSRWVSYjFlUVU3Nk9hWmV4SnZEb3R4bjNKRmlNWG9iOTVNVXJ0UlIyWnZVWm5pZ2w4bDJNa1ZVUmI1YmN6UlpNa3NlMmVNVDNkZnhpNzJmcFo3b0J2V1B1bllHOTdJUHV5Q0IzS2VQUDZZVllQWDJVUmo4NzVNcmxtZ0ZVcGEtZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Congress MP slams party traitors in Bharatpur: Bhajanlal Jatav says, 'they took work from us, voted for BJP' - Bhaskar English",
-          "source": "Bhaskar English",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT3lFUGhnUUNBOU43QURyOWlaU0xTUDhHVWtxTHlmaFQ0RVhNZUQxdE0xUkIyWXhXWGRWWERXYjN6X29JYldyS0VaU1RHaFhoSzFpaGIxOU5adHNpdF9ZVUxRQTRpSWlYME0zSkJZMU5mZjIzSkZuZWh5dFZGLUxrX1dMenN6cko5cEJtYVVIbGV1NkFobkFtRmRubnFXaHdISzh4OW1VYWNoeEpJWTMxYnJMeVc0eEphd1poMU1YVUhwYnRGamtsNW9oMUJFQWU5YzV5Yk9vTUViWkVTb2FKSXdLQzBSOHRHSDdoUkw5em9PSy03UWNkRExScGlPZ9IBgwJBVV95cUxQSzdNb1VfV2ltaE1Mc2FtekdKWU1zNW5XSHpLUEhtNVk5RW5QdWE2Mzh3RUdVWEZHS1dubERGQzV3RGtVTy1RbThHaE5DSENlOU1FMHFYN09ObnEtTExSangxUGJ0TmR1ZFhEaUhqZG9leHhPLVRxUWlFcnlnYl9waWduMHFxd0s4RjFleTB5eUg5aVVia0hOSUtCS3Z3OS10bWFBR2tvNmh3azhuemkzSHVMdDc1V1IyeVJJRzFLNlVOamZuakZOQnVkRklDSjJfblY2TjRmY0loMkhCdTdWd0tqWWU2LWdPeklKVkFyOFl2WnJWS0pHVjR4LXdZWGF4RGtz?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Doongri Dam stalemate turns into BJP-Cong tussle between Kirori and Jatav - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQblU1MkFCb2VjXzNPWW0zdi1tdUZ3X1JyT1J3a1lrdTNKRTVxRVJ6RENrSU1uV0pTUEJxOWktcUI0Vm9kMmVvMk56RGVtWkNqaE1XRW1yOVFzQnk1ZGtRbnZjZEh3QVZjaGNQcDl5RzBzWHFhZWYxWEhXUnQ1RHVPWkRycnphV1A5Z2dYNW9pZmQwdy1qU3g5amQ4U1hfYmIxOWNYNE00a1lyRjRUZWJQTDBKeGE2cjRkZjhxa2VBTnNsNEttcDFERjVkX3JRdDI0cTBNNjdWSmtVS0paaVIwQtIB5gFBVV95cUxQVVVJV2V0SXVnYXphbVpsT2dyME9fQWRjRFpXdWIzeHNfNFBIRE04T3drVGZtNFRKRjEzTi1JeHZsVkU4bXloeURfQnJNOEdXUnVEaUttWm9PUU9Nb0RqdkVrOUNWNHVjTzFxSmhPZUZRTnNIZjFhZ0JRRTV2OTZtckg4bU0ta2xfUUdLNzYyX2NCbFFyQkI1OWRmY2Z0czZGRnVoQllpRjNpZlgxU1FmV1FHV2NVSlVIVnZwVVFiVXR2U0FJelgzNFEzYUF1bVR6MGhaMDhEamtrckhra2tDRDk2YktWQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWNwZjFFUjlxUTl3QndTcmQxMWI5MmlnR1FGM2tJWTVZT1RlaG12VmJvQzBEaDdaRHVqdTNmZWw5UWhkMlg2aG9nNUU1Wl9sYktwTm9ZY20tazlkSU84a2pvMUVCeHd5c0pJckdtZE9iREdNUGdBeHotR2ZsNWZ2Wnc0WEFOUXVrUXpTZlNKMDBBNjk0dUlBaDJCLS1ISkd0Z0NXalJaRDk0Z9IBsAFBVV95cUxPTTVVVV9ka0xUd3BkcTA5NTU0R1R1TDFseU80eHZ4ZS0talE4TTNHWFFaR1Z4T1ROcGxBVmkwYm02NFQycmJsQzZqUzhrYng4LWZKX2ZiMzNQY3ZramNCM08xY1o4ZlFIckx6dm1nVDZLQWdTTDJEQURGNmRJYUlCeGU5dmwtSkxuajczbXVHRlV2RURiUkhDXzVTSzd0QkdZOXg5RHdBY1FkVHhDa1RHbA?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -352,15 +427,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 5,
+      "starred_questions": 1,
+      "unstarred_questions": 4,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 9.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +443,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +474,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +501,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Rajasthan: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 33,282,184. MPLADS utilization: 3.4%. Parliament attendance: 85.0%. Questions asked: 5. Debates participated: 1. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:51.848438Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 85.0%. Questions asked: 5. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.303789Z"
 }

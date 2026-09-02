@@ -4,16 +4,16 @@
     "constituency": "Bharuch",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3455,
+    "myneta_candidate_id": null,
     "slug": "mansukhbhai-dhanjibhai-vasava",
     "house": "lok_sabha",
     "sansad_member_id": 501,
     "profile_url": null,
     "canonical_name": "Mansukhbhai Dhanjibhai Vasava",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 66,
+    "age": null,
     "photo_url": "/mp-photos/501.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:58.475881Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 25499808.0,
-    "liabilities": 1104414.0,
-    "net_worth": 24395394.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3455",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:46.508826Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 22.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.19,
-    "expended": 5.75,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:07.661256Z",
-        "notes": "Official eSAKSHI REST API — Works: 365 recommended, 356 sanctioned, 171 completed"
+        "fetched_at": "2026-09-02T14:57:49.581230Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:54:09.944254Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:54:09.941442Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 365,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 39.1156462585034
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:31:12.404532Z",
+        "fetched_at": "2026-09-02T14:54:09.940342Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Bharuch Lok Sabha Seat 2024 Result: Mansukhbhai Dhanjibhai Vasava of BJP Wins By Over 85,000 votes - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQT2JlRHRPMnB4b1RieUxBZGRsdHdHLXNYb3hLSG5lVlNjWG1uajNwTlFIR0RhRG1kTmozanhRV0FkSjY3bW13ZkpqUXJic09COFU2bVhYRVl2RHU4OFAtYlZrelpNM0dzZDFRUktmVmFOdjhMZ1l0UGtQd2NmVFRiSUxkZkM4cHY3aEZpTTJyMUxYN3RteTJIME9BRmI2QXdneHBNamEzLUNKRXVqbXFKbXhocXFQd0N1YjZSY0N6bUV3WWlDcG14RHM2NndNV2lIQ2NOUUYtX0pvZ18ybW5wR2VYVms2WjNnTWgzU0JFUWMwMmMyVVJLRnkxT2JKN0ljN3VUMHVxYWJpajJFZnFrWFZyc3lBa09LbnfSAZ8CQVVfeXFMTXZtSUctUk1hdjB0R1NaV1JCNlNIdW9EVGQzWDduQXB5VU5qV3lKb016QjdibG5QcjFTVVY0N2xiZHY5M0dENTJaX0NBMlBtSFZTZkJ0OTRMdU82VWhoYnNwZlhmN2FfRWtxeVo1b3JUbjhGdUQyZGo0RnV6bFE3VWZaSWZ3REtGR2V6bUh3aHZCSHZsNXc0bll4bDBraFhlazlkZE94Q2VXbUxCUFVycnFpaHVQWXJKMS1xVEhtVDN2My03WHZiS2p0NVpKVU1NTkRWRlplYnhWdDl5SjNqcVlORnRLejJDUjNkMWtNRW5Od1VIZjBSZ3BxVjFjXzF0UjZGOFNGeS1wa0kyTXpkZEh5NUxjdTBYZGVSVTBzLVE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Veteran BJP leader Mansukhbhai Vasava to contest from Gujarat's Bharuch in Lok Sabha elections - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMnhWQ0NMNUVuNzA0TE1KTC1keDV1ZXBYQzFqeFBuZUhCVU5iWUJuT0E3c1lBemstYmtpa2xWdHVyZXQ3eURLaWNBLVJIN3R1dGlFUTB3ZDlnZFNjNk5iUU9qempUUlExbFRURXd0aUJvSDFNRDFheTZkajd4dnhmSzJKUm8yMzNTV29GS3c5RWNEREFQbWhHSTd3TmVLRExVeEVVcC1yVkdXdGFyTkVkdFp6Zi1OUklqTVdrSzhjNHNQZG1TN1dDZXc2eDdGN0JWMC1iSkZWQ3IyZ0dCMGRUMEo5dm1FNmp1b294M3pB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bharuch election results 2024 live updates: AAP's Chaitarbhai Damjibhai Vasava vs BJP's Mansukhbhai Dhanj - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNT2NVYm1kYW1EYkU4ckVBUjBESmxqV2hST3NLOHFjUnFuTk9US1pPNW5LamxsaGNhOXhoSGNoc0V1S1B1Y1I1bUFReU9DTkk3NzNrdTZxLXJQU0ktQUZDNFpzOTBHT3BzNTRCMFI2b0xweHZtbzYza3lRcE5sazBubXh4VUs0eWN5TG9Ld0dWejFsaDJlRGhabkJEaUVvbVM5UlVmVkhoazUwT3FQLWVvZm1TN3VBOW1oUlFxNzJBdm05NG01YmdhVUFRaWhoakVBWDVtSDJ6RTdQR2FhakZEbDhMeU1TUjA2LXVzcFdIR3Vhc255WTdOU0NnZGRTbERLNW1rblU3bzZ6cEl5ckZtNEZ1RjEzeXhxQTExMEhqTGQtUdIBpwJBVV95cUxOT0dTdFFERnIwZFBMR0lmX1RRcWpiby1SYUNPVUlOcXZZLWc2bFhfZVhPZFgzODBCV2JqLUlJczlEeU1kVUlmbkdnb2ZpSjdKYk9qYVVxdzFqMjA4T2VuR210RGR2bFJnM0hibFpqMjNuLVNMTUZBSS14RlZpRk5wSEY4eFFubG90ODZuQ3F3UGpieTlDRW55QUMtNU54dW54enRNaFhQVmVXVXNQZ200YkhiaVltbTdWY2hvSDgzZV90TlphS0lmaFJCTXE4RFFUUUxQQ1V6ci16aDcwSW44ZWp4MjNQRTJZcFNfOWtaSE1KcGlHR2FjYzFWTy1KYjFkVHVKUmJBdGtXQXJqamFTRlMwcXkyZjZ2eGtVSXptUmx6M2ZWdXl3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bharuch Election Result 2024 LIVE Updates Highlights: Mansukhbhai Dhanjibhai Vasava of BJP Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ3ZQY254aElfZFgxaGtaZVVEN19mM1FTcjlJTTNTT0lxUFpLZEhZLS00V3pJOFRGMV9HLVM1NFF3MG9raUVHeVlSTXVuczRtVDh2d0JyaG5MRXFVdllMVElRb0laSkdnYWhocWZ0ZVRaSGl1dUtlMUk2MDBweFltZm9idW5VRndiQ2s4UFhhOEtKNV95Vi1WRk5qRTdNMmlqNUd5ekxoM1FLai1zc0VkbGllRi1WamxPUFlnV1UxLXNXZTRJZ1Y3RGpnUDF0b1hsSjdjazJJSkU5OWd3bGl4TzR30gHnAUFVX3lxTFBxd2libjdrN1prZ2tXZnkwdDFUbW5RZTF6bmdCUDMxSXdLSFg0VmFVSTIyUmNNZEtHSVI1NDkxamNwRHR2X2dCMF92RGg2SHhERjQzclBTMTVtbmVYLWhjN0tsMFlBYUNUUHVabW1PNVZ1ZG0xOVRNdWkyNXRha3BoZXRkdE5Qel9teTI1bWNicEt5bUlUZFM3VDN2cV93TjN6RkNyaE9MbS05NVNYa1FlN2ZSQ1FGZG1rTmdGSkMtQkdPU0xBU2oyaGNJU040WlJxc0RUWDljUUlEcEM0QUFkOG0wSFVzdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mansukh Vasava not quitting BJP - Telegraph India",
+      "source": "Telegraph India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1dQZXAwM3ZEVWxoQ3RyaU83c2JqWlZtX2xHQXJmcFo3TzE4M005TDNvbldvU0E1Ukc5SHhYNUd3VXB4QVlCQ0RjaGI4ZDhrZjY2RXo0cUEzVVg5b05DaDVEajlnX1V6Uk5XMjFiVDdQNDloZ2I4cGtaVnY1MGREWDl5TGtEX2PSAYwBQVVfeXFMTjZJX2hTMjZNd0RFWER2bnV3aEpBckpIUkJHVlc1N05abkRlT3VmaXA2TWtMekg0SmVmWkI5cnptcUszbjIxV2pIdmRaeElRbHFpMzhtR3RUdE5mRWpPSG1ORGI1eHoyMWw1Ym8wMXhnaHJDRXNLRUFENGFSWjAtUmVwM1dZNk9sZl9HLTI?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:31:59.626235Z",
+  "collected_at": "2026-09-02T14:57:49.582215Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.117667Z",
+        "fetched_at": "2026-09-02T18:38:05.714567Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.117676Z",
+        "fetched_at": "2026-09-02T18:38:05.714580Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.117681Z",
+        "fetched_at": "2026-09-02T18:38:05.714586Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.117686Z",
+        "fetched_at": "2026-09-02T18:38:05.714591Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.117692Z",
+        "fetched_at": "2026-09-02T18:38:05.714598Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.117696Z",
+        "fetched_at": "2026-09-02T18:38:05.714603Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.117701Z",
+        "fetched_at": "2026-09-02T18:38:05.714607Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -272,35 +325,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "ICMAI expresses Disappointment Over Exclusion from Definition of 'Accountant' in New Income Tax Bill, 2025 - Taxscan",
-        "source": "Taxscan",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQzdDOUp5ZTl6VEpHVkY2djM3OHRheXV1dk51bzFNU3lZRTNydXFHTjBGYi1ESkRpQ2xBWDV1TzZXczFCUWFFYjJQck9mMU9UTzIwQlBESHVzbEsyNHp5YzVqbUtyQ19jUktrdVNNTTIwYjBlcHhvNFZGV1FVZGlKWHFPdS0xbm80OEQ0Q1k1ZURfVlBzNVFMdWlHQlhtbXpHUzk4Nksyc3FkUUZkd3E2SXNnWjEzWEFENUpUOWI2SThWY0dvTlJBWDNOWDlVb2tyTXhwSlY4OW5ackxvYW1j?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Veteran BJP leader Mansukhbhai Vasava to contest from Gujarat's Bharuch in Lok Sabha elections - ANI News",
-        "source": "ANI News",
+        "headline": "Veteran BJP leader Mansukhbhai Vasava to contest from Gujarat's Bharuch in Lok Sabha elections - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMnhWQ0NMNUVuNzA0TE1KTC1keDV1ZXBYQzFqeFBuZUhCVU5iWUJuT0E3c1lBemstYmtpa2xWdHVyZXQ3eURLaWNBLVJIN3R1dGlFUTB3ZDlnZFNjNk5iUU9qempUUlExbFRURXd0aUJvSDFNRDFheTZkajd4dnhmSzJKUm8yMzNTV29GS3c5RWNEREFQbWhHSTd3TmVLRExVeEVVcC1yVkdXdGFyTkVkdFp6Zi1OUklqTVdrSzhjNHNQZG1TN1dDZXc2eDdGN0JWMC1iSkZWQ3IyZ0dCMGRUMEo5dm1FNmp1b294M3pB?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Bharuch election results 2024 live updates: AAP's Chaitarbhai Damjibhai Vasava vs BJP's Mansukhbhai Dhanj - The Times of India",
-        "source": "The Times of India",
+        "headline": "Bharuch election results 2024 live updates: AAP's Chaitarbhai Damjibhai Vasava vs BJP's Mansukhbhai Dhanj - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNT2NVYm1kYW1EYkU4ckVBUjBESmxqV2hST3NLOHFjUnFuTk9US1pPNW5LamxsaGNhOXhoSGNoc0V1S1B1Y1I1bUFReU9DTkk3NzNrdTZxLXJQU0ktQUZDNFpzOTBHT3BzNTRCMFI2b0xweHZtbzYza3lRcE5sazBubXh4VUs0eWN5TG9Ld0dWejFsaDJlRGhabkJEaUVvbVM5UlVmVkhoazUwT3FQLWVvZm1TN3VBOW1oUlFxNzJBdm05NG01YmdhVUFRaWhoakVBWDVtSDJ6RTdQR2FhakZEbDhMeU1TUjA2LXVzcFdIR3Vhc255WTdOU0NnZGRTbERLNW1rblU3bzZ6cEl5ckZtNEZ1RjEzeXhxQTExMEhqTGQtUdIBpwJBVV95cUxOT0dTdFFERnIwZFBMR0lmX1RRcWpiby1SYUNPVUlOcXZZLWc2bFhfZVhPZFgzODBCV2JqLUlJczlEeU1kVUlmbkdnb2ZpSjdKYk9qYVVxdzFqMjA4T2VuR210RGR2bFJnM0hibFpqMjNuLVNMTUZBSS14RlZpRk5wSEY4eFFubG90ODZuQ3F3UGpieTlDRW55QUMtNU54dW54enRNaFhQVmVXVXNQZ200YkhiaVltbTdWY2hvSDgzZV90TlphS0lmaFJCTXE4RFFUUUxQQ1V6ci16aDcwSW44ZWp4MjNQRTJZcFNfOWtaSE1KcGlHR2FjYzFWTy1KYjFkVHVKUmJBdGtXQXJqamFTRlMwcXkyZjZ2eGtVSXptUmx6M2ZWdXl3?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "गुजरात के बीजेपी सांसद मनसुख वसावा का पार्टी से इस्तीफा, संसद सदस्यता भी छोड़ेंगे - AajTak",
-        "source": "AajTak",
+        "headline": "Bharuch Election Result 2024 LIVE Updates Highlights: Mansukhbhai Dhanjibhai Vasava of BJP Wins - News18",
+        "source": "News18",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzVJY3dqMDQyakNLZENUTXBMdmN1d01XdkJQNkowcTFFVjVkLU9uTWpqQ2VpaGw0aVJZaWpseHRwTmtaNUdjblVRdkFGdXE5VTNfcXhkVm5SYTN1Vm1kWjJha2xxdlBCUnJmY3hDX0NoeVZPRmlZeUZwSWRyeWtLUTlxZUJQTkVOTEZrQ3FTdjV0VWNVLXozX0dQT0JjYmtYYV9wejNrSzF6QzZib3pQeDF6Qm5lWDjSAbwBQVVfeXFMTjF5azZTQkViOXA0ZUtWOVltaVVKRWNRY3lheGl0M3JLY2pIaUh2bkZsVVZYc0I1T1JHY1ZvMzJ3ckMzbVVQaUZHdkhsR2E3Yk02Y0dvRFppREJhQmRadWRpRkRsOWNmazdHNzUzb0dXbUx5WEN4elUybnVJeVMwZzhWMFI0YzRTRjJlZkJtRTBwM183ZzlCUmU5ZmRhOHBzOFVGQVRxamp0VS1wRkdtTElEUkwtRlEtM1A0ZEY?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ3ZQY254aElfZFgxaGtaZVVEN19mM1FTcjlJTTNTT0lxUFpLZEhZLS00V3pJOFRGMV9HLVM1NFF3MG9raUVHeVlSTXVuczRtVDh2d0JyaG5MRXFVdllMVElRb0laSkdnYWhocWZ0ZVRaSGl1dUtlMUk2MDBweFltZm9idW5VRndiQ2s4UFhhOEtKNV95Vi1WRk5qRTdNMmlqNUd5ekxoM1FLai1zc0VkbGllRi1WamxPUFlnV1UxLXNXZTRJZ1Y3RGpnUDF0b1hsSjdjazJJSkU5OWd3bGl4TzR30gHnAUFVX3lxTFBxd2libjdrN1prZ2tXZnkwdDFUbW5RZTF6bmdCUDMxSXdLSFg0VmFVSTIyUmNNZEtHSVI1NDkxamNwRHR2X2dCMF92RGg2SHhERjQzclBTMTVtbmVYLWhjN0tsMFlBYUNUUHVabW1PNVZ1ZG0xOVRNdWkyNXRha3BoZXRkdE5Qel9teTI1bWNicEt5bUlUZFM3VDN2cV93TjN6RkNyaE9MbS05NVNYa1FlN2ZSQ1FGZG1rTmdGSkMtQkdPU0xBU2oyaGNJU040WlJxc0RUWDljUUlEcEM0QUFkOG0wSFVzdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mansukh Vasava not quitting BJP - Telegraph India",
+        "source": "Telegraph India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1dQZXAwM3ZEVWxoQ3RyaU83c2JqWlZtX2xHQXJmcFo3TzE4M005TDNvbldvU0E1Ukc5SHhYNUd3VXB4QVlCQ0RjaGI4ZDhrZjY2RXo0cUEzVVg5b05DaDVEajlnX1V6Uk5XMjFiVDdQNDloZ2I4cGtaVnY1MGREWDl5TGtEX2PSAYwBQVVfeXFMTjZJX2hTMjZNd0RFWER2bnV3aEpBckpIUkJHVlc1N05abkRlT3VmaXA2TWtMekg0SmVmWkI5cnptcUszbjIxV2pIdmRaeElRbHFpMzhtR3RUdE5mRWpPSG1ORGI1eHoyMWw1Ym8wMXhnaHJDRXNLRUFENGFSWjAtUmVwM1dZNk9sZl9HLTI?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 13,
+    "starred_questions": 3,
+    "unstarred_questions": 10,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 24.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

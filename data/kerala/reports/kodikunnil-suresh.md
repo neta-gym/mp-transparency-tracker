@@ -3,24 +3,22 @@
 **Constituency:** Mavelikkara, Kerala
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 60
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 46.4 / 100
+## Composite Transparency Score: 49.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 14.5 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 40.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 30.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,34 +26,47 @@
 ## Criminal Record
 
 - **Total Cases:** 6
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 6
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 1650/23 ,
+Trivandrum Mucium Police Station (Sections: N/A) [pending] 
+2. 307/2023,
+Pulimkunnu (Sections: 141, 143, 147, 148, 149, 353, 332) [pending] **SERIOUS**
+3. 253/2022 ,
+Trivandrum Contonment | Section 4(2)(e), 4(2)FR/W5 (Sections: 143, 147, 149, 283) [pending] 
+4. 1690/21 ,
+Maradu | Section 4(2)(e)(j) (Sections: 143, 147, 149, 283) [pending] 
+5. 2401/2020, Kottarakkara | Section 118(e) KP Act, Section 5 of KEDO (Sections: 143, 149, 188) [pending] 
+6. 223/2007,
+Kottarakkara | Section 38/52 of KP Act. (Sections: 143, 147, 149, 188, 283) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.53 Crore
-- **Liabilities:** Rs 8.81 Lakh
-- **Net Worth:** Rs 1.44 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 13% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 17
-- **Released:** Rs 17
-- **Sanctioned:** Rs 8
-- **Expended:** Rs 3
-- **Utilization Rate:** 18.2%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +80,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/kodikunnilmp?lang=en](https://x.com/https://x.com/kodikunnilmp?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/kodikunnilMP/](https://facebook.com/https://www.facebook.com/kodikunnilMP/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +99,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Kodikunnil Suresh MP's intervention: Three special trains sanctioned for Kerala during Onam - Kerala Kaumudi (Kerala Kaumudi) [neutral]
 - Lok Sabha Speaker contest: Kodikunnil Suresh once saw his election declared void before SC restored it - The Hindu (The Hindu) [neutral]
+- Kerala: To contest or not to contest, MP Kodikunnil Suresh on a sticky wicket - The New Indian Express (The New Indian Express) [neutral]
 - Mavelikkara (SC) election results 2024 live updates: Congress' Kodikunnil Suresh wins - The Times of India (The Times of India) [neutral]
 - Congress appoints Gaurav Gogoi as Deputy Leader, Kodikunnil Suresh as Chief Whip in Lok Sabha - The News Minute (The News Minute) [neutral]
-- ‘I’ve been sidelined in Congress due to my caste’: MP Kodikunnil Suresh - The New Indian Express (The New Indian Express) [neutral]
-- LS poll victory: Kodikunnil Suresh clinches record for most MP terms from Kerala - Mathrubhumi English (Mathrubhumi English) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Kodikunnil Suresh MP's intervention: Three special trains sanctioned for Kerala during Onam - Kerala Kaumudi** (Kerala Kaumudi)
+- ! **Lok Sabha Speaker contest: Kodikunnil Suresh once saw his election declared void before SC restored it - The Hindu** (The Hindu)
+- ! **Kerala: To contest or not to contest, MP Kodikunnil Suresh on a sticky wicket - The New Indian Express** (The New Indian Express)
+- ! **Mavelikkara (SC) election results 2024 live updates: Congress' Kodikunnil Suresh wins - The Times of India** (The Times of India)
+- ! **Congress appoints Gaurav Gogoi as Deputy Leader, Kodikunnil Suresh as Chief Whip in Lok Sabha - The News Minute** (The News Minute)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Kerala: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Kodikunnil Suresh has a below-average transparency score of 46.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kodikunnil Suresh has a below-average transparency score of 49.8/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets: Rs 15,312,324. MPLADS utilization: 18.2%. Parliament attendance: 85.0%. Questions asked: 44. Debates participated: 14.
+Has 6 criminal case(s) (1 serious), 6 pending, 0 conviction(s). Parliament attendance: 85.0%. Questions asked: 44. Debates participated: 14. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +174,7 @@ Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +253,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Kodikunnil Suresh's MPLADS account: Released: Rs 17, Expended: Rs 3, Utilization: 18.2%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +270,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

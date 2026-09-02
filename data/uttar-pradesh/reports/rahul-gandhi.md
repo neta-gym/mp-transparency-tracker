@@ -3,24 +3,22 @@
 **Constituency:** Rae Bareli, Uttar Pradesh
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 53
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 28.5 / 100
+## Composite Transparency Score: 34.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 10.1 | 25% |
-| Asset Growth | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 45.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,34 +26,54 @@
 ## Criminal Record
 
 - **Total Cases:** 18
-- **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 18
+- **Serious Cases:** 2
+- **Convictions:** 1
+- **Pending Cases:** 17
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 240/2021 Dated 09-09-2021 | Sec. 23(4) Pocso ., Sec. 74 Juvenile Justice Act, The Honorable  High Court of Delhi in  W.P.(C) 8210/2021 its order dated 24.01.2024 referred to the existence of the aforementioned FIR. The FIR per direction of the Honorable  High Court is in sealed cover. I am therefore, not aware of the details of the FIR (Sections: 228A) [pending] 
+2. 0362/2022 . P.S Yashwanthpura Bengluru City , Date 4.11.2022 | Sec.63 Copyright Act, Sec.66 IT Act (Sections: 120B, 403, 465) [pending] **SERIOUS**
+3. No description (Sections: 499, 500) [pending] 
+4. No description (Sections: 499, 500) [pending] 
+5. No description (Sections: 499, 500) [pending] 
+6. No description (Sections: 499, 500) [pending] 
+7. No description (Sections: 403, 406, 420, 120B) [pending] **SERIOUS**
+8. No description (Sections: 499, 500) [pending] 
+9. No description (Sections: 499, 500) [pending] 
+10. No description (Sections: 499, 500) [pending] 
+11. No description (Sections: 499, 500) [pending] 
+12. No description (Sections: 499, 500) [pending] 
+13. No description (Sections: 499, 500) [pending] 
+14. No description (Sections: 499, 500) [pending] 
+15. No description (Sections: 499, 500) [pending] 
+16. The process was issued on 08.01.2024 and the accused was admitted to bail on 20.02.2024. A plea is yet to be recorded and the trail is pending. (Sections: 499, 500) [pending] 
+17. Matter is currently pending for service of other accused parties (Sections: 499, 500) [pending] 
+18. No description (Sections: 499, 500) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 20.40 Crore
-- **Liabilities:** Rs 49.79 Lakh
-- **Net Worth:** Rs 19.90 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 72% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 4
-- **Expended:** Rs 2
-- **Utilization Rate:** 12.7%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,37 +87,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@rahulgandhi](https://x.com/http://www.twitter.com/@rahulgandhi) | No | Yes |
+| Facebook | [@http://www.facebook.com/rahulgandhi](https://facebook.com/http://www.facebook.com/rahulgandhi) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Rahul Gandhi to visit Raebareli for two days from May 19 - The Hindu (The Hindu) [neutral]
-- UP: Congress MP and LoP Rahul Gandhi unveils statue of 'Veera Passi' at Raebareli's Lodhwari - MSN (MSN) [neutral]
-- Massive ‘economic storm’ is coming: Rahul Gandhi’s warning in Rae Bareli - The Indian Express (The Indian Express) [neutral]
-- Rahul Gandhi to address public meeting in Raebareli - Metro Vaartha (Metro Vaartha) [neutral]
-- Rahul Gandhi to begin two-day visit to Raebareli from May 19 - The Economic Times (The Economic Times) [neutral]
+- Plea Claiming Rahul Gandhi Was British Citizen Dismissed After Petitioner Fails To Provide Proof - ETV Bharat (ETV Bharat) [neutral]
+- ‘Rahul using foreign funds to damage India’s social fabric’ - The Times of India (The Times of India) [neutral]
+- ‘Economic storm’ ahead; youth and small traders to be worst hit: Rahul Gandhi in Raebareli - The Hindu (The Hindu) [neutral]
+- Economic shock will not hit Adani, Ambani, Modi but youth and small traders: Rahul Gandhi in Raebareli - The New Indian Express (The New Indian Express) [neutral]
+- Massive ‘economic storm’ is coming, inflation to shoot up: Rahul Gandhi’s ‘warning’ in Rae Bareli - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Plea Claiming Rahul Gandhi Was British Citizen Dismissed After Petitioner Fails To Provide Proof - ETV Bharat** (ETV Bharat)
+- ! **‘Rahul using foreign funds to damage India’s social fabric’ - The Times of India** (The Times of India)
+- ! **‘Economic storm’ ahead; youth and small traders to be worst hit: Rahul Gandhi in Raebareli - The Hindu** (The Hindu)
+- ! **Economic shock will not hit Adani, Ambani, Modi but youth and small traders: Rahul Gandhi in Raebareli - The New Indian Express** (The New Indian Express)
+- ! **Massive ‘economic storm’ is coming, inflation to shoot up: Rahul Gandhi’s ‘warning’ in Rae Bareli - The Indian Express** (The Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rahul Gandhi has a below-average transparency score of 28.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Rahul Gandhi has a below-average transparency score of 34.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 18 criminal case(s) (0 serious), 18 pending, 0 conviction(s). Declared assets: Rs 203,961,862. MPLADS utilization: 12.7%. Questions asked: 3. Debates participated: 5. Low confidence data: Parliament activity. 1 warning(s) noted.
+Has 18 criminal case(s) (2 serious), 17 pending, 1 conviction(s). Questions asked: 3. Debates participated: 5. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -139,7 +182,7 @@ Has 18 criminal case(s) (0 serious), 18 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +261,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Rahul Gandhi's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 12.7%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -237,12 +278,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

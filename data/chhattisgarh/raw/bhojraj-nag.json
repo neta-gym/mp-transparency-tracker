@@ -4,16 +4,16 @@
     "constituency": "Kanker",
     "state": "chhattisgarh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1932,
+    "myneta_candidate_id": null,
     "slug": "bhojraj-nag",
     "house": "lok_sabha",
     "sansad_member_id": 5732,
     "profile_url": null,
     "canonical_name": "Bhojraj Nag",
     "name_aliases": [],
-    "education": "8th Pass",
+    "education": null,
     "profession": null,
-    "age": 49,
+    "age": null,
     "photo_url": "/mp-photos/5732.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:36.180115Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 12394941.0,
-    "liabilities": 607061.0,
-    "net_worth": 11787880.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1932",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:45.640161Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 10.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 16.47,
-    "released": 16.47,
-    "sanctioned": 4.5,
-    "expended": 3.08,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:11.085102Z",
-        "notes": "Official eSAKSHI REST API — Works: 72 recommended, 63 sanctioned, 23 completed"
+        "fetched_at": "2026-09-02T14:40:02.981002Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:36:17.326279Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:36:17.323926Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 72,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 18.700667880995752
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:23:41.945234Z",
+        "fetched_at": "2026-09-02T14:36:17.322957Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Religious Conversion Bigger Threat Than Naxalism In Bastar: Kanker MP Bhojraj Nag - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYlQ3MG0xMEMxNnA0cHdOMjRnM2kySlNNbjFEakZUUmdPWVg1d0FHT3oyRm9rVUU2T05wUUJUVlZQUnVvSEdtSy1manc2SUVUc1YwbVRnOXkwYWRaMzZuZWs1ZVZfU3EtRkpfREdGUjFJWVZsN2RSdE1WMkM0eDhUcmlSV2RDVVlFS1ZIT0I5Mjdsc25vT1Rwa3J0RUJ5TG8xWkpqMmhSNnVRUGU4YXR0YmpwYjhBV1I1YzJMZGMtY1daUFRIaGpkcmRR0gHPAUFVX3lxTFBfb3ZHcnZ6OVQ2OERoZU1OUmFzbG1DM1N1U1NEbkR3N0FhcW5FZ1BIc01TU3dpVDVveXhvd2V0eTN4Nk92ZlFWSzJKZEdtT2xDQjdNVmhrLTRyZENPZmlOVEpoNDFSUWJQSWpSclZ2dGVTc2hvNFVaSFZ5RE1rVlIyblhlRGppMm9fb1Z1dUJpUVVEZnpWem1sa3RhckVBTnBzeWs0alJucmJGNkE1U1Bmakh6RzN6bXJVb2xHcGxlazZuOURlTkVRQk9rcWZWaw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Will Cut Lemons\": Chhattisgarh MP's Superstitious Comment Raises Eyebrows - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakc2M19VMmQ4a0tfcy1HQm5SOTdkR2thWlgtUkZtUzhSNEtjU3VtMTF2aXNjZ3FDRFFLcjlGLUY2VjNxV2stNnJYY3NGQUp2UERQMDhPb1E4UkJOU252TTJrOTQtd3oyN3JZUTdqQ3p6QUhEeVMzLWhfSlVqRG91RE4zTTdaZDc4ZXRmMEljT0FzdkFoWXlaLWcybGMwWlhsbjdxVVFTLVJRUzZBOFdN0gG3AUFVX3lxTFBJaDhqTFRDVlFLMVdXSmdxa1FCbmRCZVVEaEliVHlhNTNqNVl3ODI3SzhtVGJLMU1kclRMcG92YmUyeklXdUhIVHNUVGdiSVBlRkx6bDJaZFFhbVRLcDNpTjhTVnRBaEptUVU5TFh0cVNkTy1aYVhoU2RuUXA1MzFYT09aV25jUXRySUNuamVGaTNDVl9CUHJWU0x1QlJLdXlmMEpnZjIyYzVOcHNpME9LZHVESGlVVQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chhattisgarh: 'I Will Cut Lemon in Your Name', BJP MP Warns Officials - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl9ENGJlcVltLXJuWUFETU5nd0R1bVZzM1FaY1E0OEpWOS1aRjlYazluZDAwZUZHWHdfNlk3RzJXeDJGaWc2Q01GVHJna0U0VVFXUmQyamUzbERuWjl0WmV0eGo4c2ZuWW1ldGdXRWxPa25pSVh5c3V5TFliNzVmT25ERWw0MmVKVUlGOTFrSnJOcnRWWTZOdnZ5d0V6LUk5Q1o4R0tROFQ4OXl4Zkc0RkVR0gG3AUFVX3lxTE9rd2N0ZGtSWmtSMWNjazZwTnVSTGdiTGtDeWdrcncwTDFEQ1JZZGhpalg5TGNsS2FaRjJGVHNmN0U0LWtiUFpiSEgwZTFxU2Myak1PTmFEZ3VQZU5ES2ltUTB2M21qVFlSN1B6cEpuRjN0cjBoOW1kWjBjejJ5dXdqT2NBbVRmN0NKdTZ1MDNrTllvNzVyLXJHX1lsUkdSbWE2Rm5jSlh1aWhESjFCTEF6TWtqMmMxTQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kanker (ST) election results 2024 live updates: BJP's Bhojraj Nag wins against Congress’ Biresh Thakur by - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRGNvdnc4bmFONEhQX3BZbU9IRS1RWUZsb3p6dVNVMDZSUmZPX1hzaFlWRUdvTFB1TERkRzJCMHJWM3lkSDNDa1VXVENXQS1aV3VyMVQycHU3SWdZMEZVTGVNQ04wVHFwdVZfbkp4U3hnal9xM2ctbjNVaUM4TE9UUU16MVV5Y1YtZG1IcDh3VVBLRGRTbEk5QmJGblkwVDY1ZjBJanU1X2lqNTB5QjY3dXQ3R0FtLWVMTnlMdmE4X09XeDdoU0NJV3ExeTBaZWFWMS0xOUJpSUcwakVZWXVKdkY4Q1I3WlBYVDJZNXNsY0hEVHVxUDg2bzdob2MtMVpZRDBRRXlXVEx3ellSQ0lNbjZPNW1rRHIzMjEzM3gybTI4TGPSAagCQVVfeXFMT2l5WGlDUmNzSnpKWTV2bVpDWXZhTzMteE5TNUVSbk1OYzVkaVROVUVsRUtjR1FDcUxpSEVSUl8zc1JmdmZLQTVTN1Vkb0RjZVI1SGdxSkVqM2JON0NuNmhGWVhWTTlqS2Eza1p3Vl92X1lhWXluZTVzQW5sUHhsdHdpMU4xMTFEUEozZnkyTlFqQ0ZFZllqUHAzZUhqU0gzTEN5QmxQS0oxTFBoUmExcFhEalJuWkc5Tm1QN0ZsQXZvZ3NRQlZJMVdEdUFGdFp4TV84V2lKNzhZNEgwTGNHOTZLSnc3VnZEaVlvMUhGQS1NTzJtRUMyNnV3WUdkM1NLY01INkxEdkVYc3JyNzR5NWd0WHRncW1PajBPeE9xOTFIM0FlaGxwbVI?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MP says he stopped rain by cutting a lemon, Congress says: Try it on inflation - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzF1QlIxREpsQVpERnBVZV9VdXlXUXRjYnhLbG5aUFc0SnhHQnpXd2tHZU5LWWRMck5XSURpMldxaVMtdF9UMXh0XzlWSUdOaWd0UnI2cGo0cDBmYmwzU21YR0w3dldWZllHX2F5d28yb2J6U1VBaE11TlJrRVQtZjhmbkdsZXlPNl9fN1BldkNILWZ4MGhhUG1ILU5mZHBpWXoxejNzVkFxY3pEZEtlOUJzVk5KQU1SOGRUREpJQW9PaWdWTFVpcWlFaVRwNzjSAdQBQVVfeXFMT3JIZFBNc195eE1COGI3VjllTEo5N04zanhQcl9Cc3lDNFZac3g2UUg4WjBrck83UXdpbDlPeVRqOHlCYzJkV3Q5akh0bEhNRXBabHQ3VjIyclQyZmtnRTVaVDNNWW1HU0VyYmplUmdvemFCbVhkUng3S3I2UEczTzJBNlBEYm5hSEZaRm5peHJ6ZVVRc01uRmJTLWdhUl85MUIwbWh5SWlrOFJNOW1CWTN4SVFkd09ZU3JPbXpIdFFFZGJqNmJRb2R4MDNCVjRXVmtJOHQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:24:45.245108Z",
+  "collected_at": "2026-09-02T14:40:02.982062Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.575939Z",
+        "fetched_at": "2026-09-02T18:38:05.177645Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.575948Z",
+        "fetched_at": "2026-09-02T18:38:05.177657Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.575953Z",
+        "fetched_at": "2026-09-02T18:38:05.177662Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.575958Z",
+        "fetched_at": "2026-09-02T18:38:05.177668Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.575963Z",
+        "fetched_at": "2026-09-02T18:38:05.177675Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.575968Z",
+        "fetched_at": "2026-09-02T18:38:05.177681Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.575973Z",
+        "fetched_at": "2026-09-02T18:38:05.177687Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -258,11 +311,19 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
+      {
+        "headline": "Religious Conversion Bigger Threat Than Naxalism In Bastar: Kanker MP Bhojraj Nag - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYlQ3MG0xMEMxNnA0cHdOMjRnM2kySlNNbjFEakZUUmdPWVg1d0FHT3oyRm9rVUU2T05wUUJUVlZQUnVvSEdtSy1manc2SUVUc1YwbVRnOXkwYWRaMzZuZWs1ZVZfU3EtRkpfREdGUjFJWVZsN2RSdE1WMkM0eDhUcmlSV2RDVVlFS1ZIT0I5Mjdsc25vT1Rwa3J0RUJ5TG8xWkpqMmhSNnVRUGU4YXR0YmpwYjhBV1I1YzJMZGMtY1daUFRIaGpkcmRR0gHPAUFVX3lxTFBfb3ZHcnZ6OVQ2OERoZU1OUmFzbG1DM1N1U1NEbkR3N0FhcW5FZ1BIc01TU3dpVDVveXhvd2V0eTN4Nk92ZlFWSzJKZEdtT2xDQjdNVmhrLTRyZENPZmlOVEpoNDFSUWJQSWpSclZ2dGVTc2hvNFVaSFZ5RE1rVlIyblhlRGppMm9fb1Z1dUJpUVVEZnpWem1sa3RhckVBTnBzeWs0alJucmJGNkE1U1Bmakh6RzN6bXJVb2xHcGxlazZuOURlTkVRQk9rcWZWaw?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "\"Will Cut Lemons\": Chhattisgarh MP's Superstitious Comment Raises Eyebrows - NDTV",
         "source": "NDTV",
@@ -288,23 +349,15 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Congress hopes big in Bastar’s Kanker seat that it lost narrowly in 2019, against BJP’s anti-conversion face - The Indian Express",
-        "source": "The Indian Express",
+        "headline": "BJP MP says he stopped rain by cutting a lemon, Congress says: Try it on inflation - Moneycontrol.com",
+        "source": "Moneycontrol.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0YtSzNIQ3JrZ0pyNDlxNzAxQVZubnhGR2dYRWdWcnV6YUVvZjdGZjZveHRLOXdKZmZ3RWdObVFfSHVmUzhlQWZqWWJFVF9VWTA3QmRoRncyS0pjNjMta0ZuYk9jSnZWdmNWSEtsNmp1VEZfcTl4ZTdZaDBqWVB3Y3BiWUVfZzNmdE1CZXNHazhlNWFoYkg5S0EzRnNJSFlYMmJueVFCSVlPcXd3c1NxSNIBtwFBVV95cUxQY0JrTkNVM2hTbURQZ0cxeTJCSUlpOVF6enFoMG85bGdqamwtWGprUTNmaUd4bVllT2taY2VHdEd6eTFtZG1MVUwtWmNaMFVBMmIzRUlsUkJ5R1JFR3ZOOEF5czFOR2hDb2ZWVUhzckl4MjNzeXBBNEFRemc0XzQ0SExyQUNaOXNubUpSUzNTWG5NelNIYzNfSDZFdDFFcTJNOE9BYk5lbkxfakpWMG1DSVBxWWFmME0?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Bhojraj Nag: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia",
-        "source": "Oneindia",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBERVZjLW1uTjNpN0pkLVlnVDF1SG5GWW1wcjZJMUF4S2lKQm9tQ1FEcEQ1T3VGc3o2d1gtZmRtNXNfbXJmYlNRemJxZFl2VFVNVmlFNWFKQ2hSY2dFaFQ1YkdZT2tRN2x4NGdF?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzF1QlIxREpsQVpERnBVZV9VdXlXUXRjYnhLbG5aUFc0SnhHQnpXd2tHZU5LWWRMck5XSURpMldxaVMtdF9UMXh0XzlWSUdOaWd0UnI2cGo0cDBmYmwzU21YR0w3dldWZllHX2F5d28yb2J6U1VBaE11TlJrRVQtZjhmbkdsZXlPNl9fN1BldkNILWZ4MGhhUG1ILU5mZHBpWXoxejNzVkFxY3pEZEtlOUJzVk5KQU1SOGRUREpJQW9PaWdWTFVpcWlFaVRwNzjSAdQBQVVfeXFMT3JIZFBNc195eE1COGI3VjllTEo5N04zanhQcl9Cc3lDNFZac3g2UUg4WjBrck83UXdpbDlPeVRqOHlCYzJkV3Q5akh0bEhNRXBabHQ3VjIyclQyZmtnRTVaVDNNWW1HU0VyYmplUmdvemFCbVhkUng3S3I2UEczTzJBNlBEYm5hSEZaRm5peHJ6ZVVRc01uRmJTLWdhUl85MUIwbWh5SWlrOFJNOW1CWTN4SVFkd09ZU3JPbXpIdFFFZGJqNmJRb2R4MDNCVjRXVmtJOHQ?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 9,
+    "starred_questions": 2,
+    "unstarred_questions": 7,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 16.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

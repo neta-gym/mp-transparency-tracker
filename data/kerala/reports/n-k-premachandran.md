@@ -3,24 +3,22 @@
 **Constituency:** Kollam, Kerala
 **Party:** Revolutionary Socialist Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.8 / 100
+## Composite Transparency Score: 57.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 17.8 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 40.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -28,34 +26,41 @@
 ## Criminal Record
 
 - **Total Cases:** 5
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 5
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 1124/2023, Thrivananthapuram City Cantonment PS | Section- 121, 39, 77B Police Act  2010 (Sections: 143, 147, 149, 283) [pending] 
+2. 253/2022, Cantonment PS, Thrivananthapuram City ,Thrivananthapuram | Kerala Epidemic Diseases Act 2021 4(2)F, r/w 5 KP Act 77B (Sections: 143, 147, 149, 283) [pending] 
+3. 19/22, Saktikulangara PS, Kollam City (Sections: 120b, 294b, 451, 465, 468, 471, 506, 34) [pending] **SERIOUS**
+4. 408/21, Ernakulam City Harbour Crime PS | Kerala Epidemic Diseases Act 2021 4(2)e, r/w section 5 (Sections: 269) [pending] 
+5. 110/17,  City Cantonment PS, Thrivananthapuram City ,Thrivananthapuram (Sections: 143, 147, 149, 283, 39, 121) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.12 Crore
-- **Liabilities:** Rs 38.00 Lakh
-- **Net Worth:** Rs 2.74 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 26% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 17
-- **Released:** Rs 17
-- **Sanctioned:** Rs 12
-- **Expended:** Rs 4
-- **Utilization Rate:** 22.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -77,36 +82,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/nkpremachandran/](https://facebook.com/https://www.facebook.com/nkpremachandran/) | No | Yes |
+| Instagram | [@https://www.instagram.com/nkpremachandrankollam/](https://instagram.com/https://www.instagram.com/nkpremachandrankollam/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Kerala Assembly polls: RSP-Congress friction deepens in Eravipuram as Congress pushes Karthik Premachandran as candidate - The Hindu (The Hindu) [neutral]
-- Rift in RSP as Kerala MP Premachandran faces ‘dynastic’ politics allegation - The New Indian Express (The New Indian Express) [negative]
-- RSP’s calculations: Another ‘son rise’ for permanent revolution? - The South First (The South First) [neutral]
-- ‘Others should emulate him’: Modi praises Kerala MP Premachandran; Priyanka says she is trying - Mathrubhumi English (Mathrubhumi English) [neutral]
-- N K Premachandran flags NH 66 road collapse, calls for pillar-based highways - The Times of India (The Times of India) [neutral]
+- Kerala govt. issues Essentiality Certificate to Asramam ESI Hospital in Kollam - The Hindu (The Hindu) [neutral]
+- Centre gives no timeline for Kollam junction revamp - The New Indian Express (The New Indian Express) [neutral]
+- Parippally MCH hit by acute staff shortage - The New Indian Express (The New Indian Express) [neutral]
+- Sabarimala ‘parotta and beef’ remark: Kollam MP Premachandran sticks to statement; slams CPM politics - The Times of India (The Times of India) [neutral]
+- Kerala: NK Premachandran is UDF candidate from Kollam for LS elections - The News Minute (The News Minute) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Kerala govt. issues Essentiality Certificate to Asramam ESI Hospital in Kollam - The Hindu** (The Hindu)
+- ! **Centre gives no timeline for Kollam junction revamp - The New Indian Express** (The New Indian Express)
+- ! **Parippally MCH hit by acute staff shortage - The New Indian Express** (The New Indian Express)
+- ! **Sabarimala ‘parotta and beef’ remark: Kollam MP Premachandran sticks to statement; slams CPM politics - The Times of India** (The Times of India)
+- ! **Kerala: NK Premachandran is UDF candidate from Kollam for LS elections - The News Minute** (The News Minute)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Kerala: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-N K Premachandran shows moderate transparency with a score of 53.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+N K Premachandran shows moderate transparency with a score of 57.2/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 31,194,899. MPLADS utilization: 22.3%. Parliament attendance: 95.0%. Questions asked: 33. Debates participated: 27.
+Has 5 criminal case(s) (1 serious), 5 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 33. Debates participated: 27. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -146,7 +176,7 @@ Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -225,8 +255,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for N K Premachandran's MPLADS account: Released: Rs 17, Expended: Rs 4, Utilization: 22.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -244,12 +272,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

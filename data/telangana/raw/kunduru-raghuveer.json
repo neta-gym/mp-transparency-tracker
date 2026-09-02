@@ -4,16 +4,16 @@
     "constituency": "Nalgonda",
     "state": "telangana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 5294,
+    "myneta_candidate_id": null,
     "slug": "kunduru-raghuveer",
     "house": "lok_sabha",
     "sansad_member_id": 5793,
     "profile_url": null,
     "canonical_name": "Kunduru Raghuveer",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 44,
+    "age": null,
     "photo_url": "/mp-photos/5793.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,116 @@
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "88/2024 P.S-Miryalaguda II Town Nalgonda Dist-Telangana State",
+        "ipc_sections": [
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Judicial First Class Magistrate Miryalaguda",
+        "fir_no": "88/2024 P.S-Miryalaguda II Town Nalgonda Dist-Telangana State",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "119/2021, CC.No.724/2021, P.S-Peddavoora Police Station, Nalgonda Dist-Telangana State | Sec-57 Disaster Management Act",
+        "ipc_sections": [
+          "269",
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Judicial First Class Magistrate at Nidamanooru",
+        "fir_no": "119/2021, CC.No.724/2021, P.S-Peddavoora Police Station, Nalgonda Dist-Telangana State",
+        "case_no": "",
+        "other_acts": "Sec-57 Disaster Management Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:40.261666Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 355731499.0,
-    "liabilities": 176679000.0,
-    "net_worth": 179052499.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5294",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:53.259421Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 79.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 16.3,
-    "released": 16.3,
-    "sanctioned": 1.12,
-    "expended": 0.63,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:49:18.059432Z",
-        "notes": "Official eSAKSHI REST API — Works: 22 recommended, 15 sanctioned, 4 completed"
+        "fetched_at": "2026-09-02T14:35:12.151913Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:31:26.521859Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:31:26.519091Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 22,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 3.8650306748466257
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 60.0,
@@ -92,7 +146,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:23:11.359394Z",
+        "fetched_at": "2026-09-02T14:31:26.518044Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +154,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Nalgonda gives Cong ‘uttam’ win with 5L majority - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnNWbUcyYUdJVzFGdjd5d0ZzTy1OV1UwUEZ4cWZvWlRJZExOckdxbWc5LUdrbDFCcl9maGtIbDZIMUxBcmZteFRwTHoxcnB0V2Q4Q0x1SnJad1RUY0JLaXZ6ZldFLXQyZnFYQ1F1TjhzU0lVN0ZOUlNOY050Qm4zbi14bGszTjd5LUY1R3U1UHBMc1JpUFhYakFLLXU4emQ4Z2VicWVjQVJXX3BXeGM0VVZaTVpqYVVZRm85Y0F2U3lTdXVWMWfSAcsBQVVfeXFMTy1ldWdLdzUxYWotQkYwbEVjQnBGYXI0ai03c29laTdPdmg4QnBSbFU5VEg4Qlg0WEE1bEFrUzRHU2M5d2xXQ0gxeGYxdnRmbVdPVjZ0QWNmQ2VOWVdpdHNfWjE0NmJOT0NXUUJaVko3ZWlWQ2lwaDNBUU84MVhjUExtUG43MW9GcWh3ankzeXQ0c0Z5OThqLVQ4ZVNGVHdVbTRLWU52LUl1X1poaVNNZzNIcGZGa2JtVll0TzlEdHV3bHRDdmVqY0xWWG8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Raghuveer Sets Fresh Record in Win Margin - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWUxLTBtQ0stNXFJaGtNdlEzVEY4LUFUeVZnQ1VqUnpTRkN3bUVrNGQ3QnZTTlp0d2EyZ2w0QXloc2g0VERTWWJuejNlY1o1SU9fdUd2Ml81dUpDUGxKQkN6cG9nOGpvamFOQ0QxRmxfOC13UnJfcE1UNjdjZV9KNXh0RUszXzlfeTg0YTJ0NlUwQkh4YzJkNmxod3czUHZYTGp6Q0tMdmJ3QdIBrwFBVV95cUxQY1ROT2QtX09LeDNxVWd1cjZ5cHFOSHUxTUpoZ0NKZ2VLTHlxd3RVR2FLUFNnWFUxN1l4MURZeEROSVk1LXljRFowTWhLbjd3U3U3RFQ0VWRTamRSOTg2N1dBYVFNczE1RnNfZTFpM2NsaGFYcUJBM2JtVWtHSmRQdDEzVXgzRE5UVG5KX0JGX2pWVWdtMll0N3Nfa0k5NGNxWE81OUJyTGZSck1keDFJ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kunduru Raghuveer , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkRfR1poM2trY25aVDNKVExPY2R1clNZNVo4MWZ3dnJJSlVkMEJ3TmtQRzFtUlp0dHZRc3ozTmh3WkRxT1M0SjR5cmNHdGxnaFdreE5kMEYwbVE1WnN3VEdOcUdJbkRwaHYzcDJmam5UTDNiUkJadjNmbXpKNEN5R202cVVRQW9JZlE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Telangana minister Uttam Kumar launches Rs 171.5 crore development works in Miryalaguda - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVWlEZ0JseXZOeHZISlg5WTZuZXR6YXhyenhvZFJlb2hwMElvWDNIS2ZRQkFtT2R3MEJpRXN5Zjd3VVBnOEdoeVZfNWFQMXVDVE1wN0dVbVV1dEozd3RSRWNUd0FfUDJUNHFva3dfSlVnVVhIbkt2LTFSRWY1TzEtaFFGVWlrcmFDaHNuWXB4VzRCMmJSSkx0VGs5SUw4N2JTN1ltbGtoTDR3dFdIXzZnX0FWR1Vkc0F5dk1ONEhfQW1vX1AtLUhXZFdNcUZnTTlXLXFaclFMUjYxTlRTVXY5aTNB0gHvAUFVX3lxTE42SFY3WVkwNTFEZHlUZkpKSkFvUmdObW5uQVAzNWVmYV9kUVRTSTBYZHRfdzY3Q3FPLUFWQWhOcjk1YW9qRVJUR0RhYzloQjctMDlYS1d5T3pybElOZW42VU1jNDNRVUZkLVQ5cWRpNzlYTUdRaExPMjhwVTJjcGpzSlJOajZ3MDFHa2hOUV9LVURFZXdtal9WTkEwWjJwVllhbTF3Z3V5WldmRWR2dEl6QldISm1mNHpiQjZTcEZFV21KejgtSVo0OVF2ck43ZE9ia1M2U1NRTkpYcThQM0pvT01nZXF1TkNobGdGTDhv?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Vamshi, Jana's son among 4 Congress picks for Telanaga Lok Sabha seats - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ3hYcWZ1S3lnZkpkSDVTOE11alFBcjFlbEZON1hnY1YxWllyNFVTNXdDQWtPcUkwdnVYUl8yeGZ6aTUzOUtSSEE4UmhuVnQxQTE2SWh3ZEV6TEh6TkFGem9BVlVRNUpkNFFFS1NDSlVNWVVkdDF6bk93VGFSQU9yRVJWVWZERUk3R29WM01CcVZnQkVQcEMtOVIxUW5YTnRkOXFhaTRHMFZOM29FTGI0Rk9xSzFYSExudUNhSFR6a2pNSEZOdGtCTVVGVDc2bGs3WXFpRHNXOFYwS1U0bkHSAeMBQVVfeXFMUGUtY1BHV2pNelN4b1p1aHVCNnZyNWdRMnVHLUhWT24ya21hZkVwN2xMdHVDeDNoZVBBbmJ4Y2hpRTRIMG9IZkxnY0x4ZV84Z2kyMkhidVhuUjkyYnpxSVdXX0s3bDZldGw5XzBBdGJ3eUl3c2lQRFczZE9DREhBYTE5YXMzZ0J6R0dEb1RXMW9aUmtpVUlTc2FiX1d0MDNaYkwyYmpxaFFxQ2U5Zkl5TVVySklYeXV2R3FRTVF1bF9IdDJqR0NOS2REQ1JCSjdxYm5pajhfcXJMQWRhSmFOc1FOb3M?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:24:11.420526Z",
+  "collected_at": "2026-09-02T14:35:12.153130Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +223,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.975454Z",
+        "fetched_at": "2026-09-02T18:38:10.524886Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +239,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.975462Z",
+        "fetched_at": "2026-09-02T18:38:10.524897Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +255,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.975467Z",
+        "fetched_at": "2026-09-02T18:38:10.524902Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +271,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.975471Z",
+        "fetched_at": "2026-09-02T18:38:10.524907Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.975499Z",
+        "fetched_at": "2026-09-02T18:38:10.524914Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +303,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.975506Z",
+        "fetched_at": "2026-09-02T18:38:10.524919Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +319,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.975511Z",
+        "fetched_at": "2026-09-02T18:38:10.524924Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,8 +357,8 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Nalgonda gives Cong ‘uttam’ win with 5L majority - The Times of India",
-        "source": "The Times of India",
+        "headline": "Nalgonda gives Cong ‘uttam’ win with 5L majority - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnNWbUcyYUdJVzFGdjd5d0ZzTy1OV1UwUEZ4cWZvWlRJZExOckdxbWc5LUdrbDFCcl9maGtIbDZIMUxBcmZteFRwTHoxcnB0V2Q4Q0x1SnJad1RUY0JLaXZ6ZldFLXQyZnFYQ1F1TjhzU0lVN0ZOUlNOY050Qm4zbi14bGszTjd5LUY1R3U1UHBMc1JpUFhYakFLLXU4emQ4Z2VicWVjQVJXX3BXeGM0VVZaTVpqYVVZRm85Y0F2U3lTdXVWMWfSAcsBQVVfeXFMTy1ldWdLdzUxYWotQkYwbEVjQnBGYXI0ai03c29laTdPdmg4QnBSbFU5VEg4Qlg0WEE1bEFrUzRHU2M5d2xXQ0gxeGYxdnRmbVdPVjZ0QWNmQ2VOWVdpdHNfWjE0NmJOT0NXUUJaVko3ZWlWQ2lwaDNBUU84MVhjUExtUG43MW9GcWh3ankzeXQ0c0Z5OThqLVQ4ZVNGVHdVbTRLWU52LUl1X1poaVNNZzNIcGZGa2JtVll0TzlEdHV3bHRDdmVqY0xWWG8?oc=5",
@@ -280,6 +373,14 @@
         "sentiment": "neutral"
       },
       {
+        "headline": "Kunduru Raghuveer , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkRfR1poM2trY25aVDNKVExPY2R1clNZNVo4MWZ3dnJJSlVkMEJ3TmtQRzFtUlp0dHZRc3ozTmh3WkRxT1M0SjR5cmNHdGxnaFdreE5kMEYwbVE1WnN3VEdOcUdJbkRwaHYzcDJmam5UTDNiUkJadjNmbXpKNEN5R202cVVRQW9JZlE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Telangana minister Uttam Kumar launches Rs 171.5 crore development works in Miryalaguda - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
@@ -288,19 +389,11 @@
         "sentiment": "positive"
       },
       {
-        "headline": "Nalgonda Election Result 2024 LIVE Updates Highlights: Kunduru Raghuveer of INC Wins - News18",
-        "source": "News18",
+        "headline": "Vamshi, Jana's son among 4 Congress picks for Telanaga Lok Sabha seats - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZEI5NmlSckQzNWFMck1pTVExM0I3aWtxZThIeTRjT3FUbW1RSk9zSFB2bUw0TkhQZjBfN2ViOUUzZTRTMG9pNlMzRHJmSk9aVzNSTzJKcWc0UlgzQlp6Vm53eFU3Vld5VGpVYXhlQnR6cER3TXBMVzV5QmFhaEVhaEIxa29ON0p4Y1IwbGNSMTFPSDhxajVtMlpXLThzSm1MY0tWZFZBLUlYM2Y5RlNJU3dmRGJCQW11Y3dLdGdrTWkzck1DaFhzM3BJSVAxSWh0THAwVjRmQVZQX3B3dU9MSTU4a9IB6AFBVV95cUxNZEhHRG9SYVM0XzFSRnMteUM1UF8yai1lOWJZa1BDQ1lYbzE2UFZpV3lKT0RoX3RnaWgwZ0ZZUlgtWlEwV3dRcmw3Q0t1S2NfVmlqUk8wUDZFeHoweVlOekc3c0pUZmxOTndzcE1ESktfckREY19DZTI2NVVIQVN3ZzE0bGwyVFZNb2JuSGNuMHk1UktKc2xlNDlDTmFPVzdmS2g0Ym5GQmFSUWFEbjJTVnlqTmE5TnBCUmhUSG02R1lOeERNTTdJUlNtZlZEVUI4VDYxTnRSMVcycDZGbWdKdnJzRjhnbEFr?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Suresh Shetkar, Balram Naik among four Congress candidates named from Telangana - The News Minute",
-        "source": "The News Minute",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVFNUVpyWFZFN2REV0hYUDdmdnExbTNjS1FfclZRNTkxU3I2bUQ2N0NybzU2bnhib1JoX1JTRFJidGwyS053SHdWdU16NXcxVXNZRXhKeHp1T0ZXRUMwTTl1S3htaDJxekFwVjVtakdFd1lteGxFWWx4NHpIRTNRckFReGxXamFMSlVNcWs4QUp5QkFaeEh3V3hLeTdqMTRvM2RZUWJnTFowcGFJR1FzS2VaR2h0VXplS3fSAccBQVVfeXFMTXNJRWJzelpWcTRVUW56T3RpY0ZSZ0VZSmRDemhPZkFqZTZ2ZnVXWWpNcEEwSkpQZ3RZS1ZGa0thbDA4bGkyRkJ6Q1RhVFhIajV3dWp1Y21icXhSa05URTA5azFvanhjUWg3V2R4bGF6VGVaWXd4Q2hZbkowSW1sNXlNMlV4Qk5aV0h1LUJVREYwRWJCdTZZeU5JVS13VXUtakhqV2J3alJmcVh1b19xUkxXMUZUX01CT3czN2tYRzlRdFZ4TXc5WQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ3hYcWZ1S3lnZkpkSDVTOE11alFBcjFlbEZON1hnY1YxWllyNFVTNXdDQWtPcUkwdnVYUl8yeGZ6aTUzOUtSSEE4UmhuVnQxQTE2SWh3ZEV6TEh6TkFGem9BVlVRNUpkNFFFS1NDSlVNWVVkdDF6bk93VGFSQU9yRVJWVWZERUk3R29WM01CcVZnQkVQcEMtOVIxUW5YTnRkOXFhaTRHMFZOM29FTGI0Rk9xSzFYSExudUNhSFR6a2pNSEZOdGtCTVVGVDc2bGs3WXFpRHNXOFYwS1U0bkHSAeMBQVVfeXFMUGUtY1BHV2pNelN4b1p1aHVCNnZyNWdRMnVHLUhWT24ya21hZkVwN2xMdHVDeDNoZVBBbmJ4Y2hpRTRIMG9IZkxnY0x4ZV84Z2kyMkhidVhuUjkyYnpxSVdXX0s3bDZldGw5XzBBdGJ3eUl3c2lQRFczZE9DREhBYTE5YXMzZ0J6R0dEb1RXMW9aUmtpVUlTc2FiX1d0MDNaYkwyYmpxaFFxQ2U5Zkl5TVVySklYeXV2R3FRTVF1bF9IdDJqR0NOS2REQ1JCSjdxYm5pajhfcXJMQWRhSmFOc1FOb3M?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,17 +443,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 60.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5576.jpg"
   },
   "criminal_record": {
-    "total_cases": 1,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 1,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 41363952.0,
-    "liabilities": 17100000.0,
-    "net_worth": 24263952.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 33.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.8,
-    "expended": 9.78,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:49:30.253114Z",
-        "notes": "Official eSAKSHI REST API — Works: 74 recommended, 74 sanctioned, 68 completed"
+        "fetched_at": "2026-09-02T17:14:31.198295Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:10:50.574118Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:10:50.571095Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 74,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 66.53061224489795
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:02:11.553186Z",
+        "fetched_at": "2026-09-02T17:10:50.569830Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Hathras Election Results 2024: BJP's Anoop Pradhan Balmiki won by over 2 lakh vote margin - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOVkpoSEJMQUl0S1BaMm9vZDBWNHBUR0Z5YWppU2JxV1JPMFR2OW04enRybldpOVNQOVNqZmZITmdscVBBOFczam5SazZRa0hXZEZoN3VTN3Q5YmR2OWpuLWdzNjJRbVgyZlJESFoxckFLOGEzRUNiaU1Wd2hiWVl5bFlYQlQySVJMemxXSU53UE1GbjlLQS1nb0twN3NIYnRJb0M5VDVQMUs4S21XallISXp2akxYWGFlcTExdnFTYnJmVWFCU2hNa3VGZHEtS28wamxEUncyaXQweGtPeEQxYjVXU1BrcFF0eHZUUXlHOVhYdjRpTGV0RUVZSHpvWUdjTWxocEFJWjVaM1BlLTN4cWNONDRheFk4dGpLSmxYYkpVeG1Rc3d2OUh3ZEQ5QVVadF9VenB3bjNmbkdvNjdrT2g3NEc1N1RyTWxsU3h4a2ZEMUwxUEhzZE5n0gHfAkFVX3lxTE0xUjZnNDBXRjhNM2puMFJRX3ZJUDBLV2tDS3RYNjBFcE95bUc0RFhvQUJNdnQtdVZ2VFdUb21pd3FoUkMyU0Ryb3FHal9KSTFMMXRBcG9OQVFTbmttaklQZUtlc1FSNW1YNk9wdFc1dFJQeXkySXNVYndBUU9hZ0ZLS0hvai1QVVNkVW5KQ1JEa0NPT1p0QnU5dkdKRktsa1BNekw5bzltTkJMazJ3ak5ZYzVXWW5oaGw4cUg4Sno0emJIeGVJVW9Vd0dYVXlsQ241NkhLdU9VdVZNSlpBUFFldTlzcUVWbVZWMW9LbUh4VVFqLVRIUk02ZDlaRnNkRDJYYlVtaXZlMzNWTy1ZdVVuMkZaTnZkUTN4OUpuLVN5Qm1CbXhPeDZSS2lnTEFhUUd1SWFRdG53aVVmMENYUFlIZDlweXVVeWtNNVo1bm9GRVhBRC0yWTdPdmk4S2gwRQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anoop Pradhan Balmiki , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb2p1NXVaX3RfbFhhYTNDR040NUtDS1NYM2JOd2dETDRPTWJ5Z1ZwV3I0RlRNdGZudHNRMEZncFVUb3c5N2pLQ21DY3B6emNuazd4YWc4SHJzNWdGLThOYU1VUHp2c2ZyS3JLU2tOWTc5LTdZWUVteWcxa3lNT0pCd1ZHNVBvRjNGejlsYWJJVQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Prabuddh Varg Sammelan | Diler on dais, CM tries to pacify his supporters: ‘Has accepted party decision like a true soldier’ - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTUlHaDZYUXQzMWhmVkIyVW9BOHo1MEp3cGZ4a3pPdy14YktaREVDTUl0aTBKNVJZaXJSME5HZl9XeHBIMHJpcDNkQUV2WWNQVF9neVFHclY3YnZVOWlILVpiTFNUQWdwVTJFYklSY2p1bklRei1VS3laTW5uRU1vYXZvc2s1Z213VV91WGRKUklNYll5Z3c3T3VrQ0hNMDZ2akF0aHI4T2JpWXBUbzEzdmFPZWdXWEl2Wk1YRnhmR1huUVZGTC1aM3ZNelBXRUJhR3BYbDBwY1BBWG1MRkx2dEFyNTd6QVlrU2o2LXdxVHVnUXJuWDBkYWp5d0FobUFORm5HVERDZ9IBjgJBVV95cUxPS1BqV0VPYjYwYTFUX0hlcUJ2UjZlQ01xSFd6YTZMLVNseW0yOGdfdG9JR0FyWGFMWHpVbGI4bldfMl8yMk92dXRuR0ZoM3JfY1JKckhlSkFmVHlHS0NSRl9ybGZ2ZkUwZXIxOTBOLXBxNDNPemU0NU9jbk56b185ZTdXemtlRTkwMUp4bTJpanJfUHFDb2VFYjlTR0xJUHNQM2l5NXZ3S3ZKekpTS3BQcWoyWEhGdXNBV0ZibVRrem9OMXJ4ZU1adUdkcXd0TXg2Vl9GcDhVb0RhVjNhd3VFQW9EYTN0SjYzVExSajNNeFA0bW9GNzVhZXlaaDZyT2RnTHlRdEF0NHhtRXZFRGc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Uttar Pradesh: Yadav family’s prestige at stake as 10 Lok Sabha seats go to polls in third phase today | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOckRNVTZTMFBiTDRMTzBpYkdBVTZTNmRNSFBCdzR3QWFwRDhldF96QkFQY1BlbEZRcTNaa2lvbGNlbmpMSU5PZl9sb1BZRnJIcXFoR0l4WUlqR0Exay15bEtjOWhIYVdtX2lfUGtFZTV2ek03MFY5TThHS1pGVFhFd0dCUmRKMXlTc0VZUnV6VGNaeFNvbDF2ZWZyRFNNRmpVLXJlbHQ5MW1OUzgyMDhaSTZfMTVMdHVoMTlfT0tQVDU5MURrQzlRQXFLZUowQ2VRVHplUEtrQTlVaTBuVGtZczVLTE92NnFQV2hkeVMwR1hnT2RfbTdXdlZKRTYtZEZqaHFn0gGIAkFVX3lxTE9XSm9uOU1vbjhHeEV2YURIS3AyMElxTHZNa3ZNb0VsOFVzOEthaU1uaXBqUGVSWUQ5cnFTMl82eUhaQ09hNmN5TldSQ0dGYUd5Mk5qWDlzOHNZamh6a2ppdFJyTzNOS2E1R0prTkJWbVFsRmt0ZElpQWs3U2ZjaklTQ05ZWHQycDdQZS1HOTBDR3ZiaWdkRGtyRlljTnJIaDZDREFyV29rNTBUTDNhTzZweUpBaTVxMnNCNV80UEpVZmpvY2YyUTFkSkdmblBMNHBVVEVIQ1h0MUZUTGZTeGdPN25HRk9LUHU3d1lkdEw5cmJnUXhMc2pZTUpPN1MweGpqdzJtdFFxYw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Put Aligarh lock on the fate of Congress, SP-BSP: Yogi - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWNtd0NNUVZuQTkyNnhFcjZzSXZrT3VOUG5UWjBSUGhEaVVocUFWdWpGdGJ3a0VBT3d3YkYyUnlaenh6eFhxR0pzeHlUVjVFaVl1WnlDLW5FUHFpRTZCYzVOdW9XQnpEODQtTWhuVVZReVRSdzh4MFJBYTQ2Wkd3MzhDV1VqMGhXLXZpdm1lbmZ0dzBnWmprNGlGd3BOc051emRkRS130gGrAUFVX3lxTE9Fa3F1Y0Vqc1ZUMTU0VE5CZ0h5U3JPTnRjV08wZ2xFTTItbjF2X3hkRk5sNVhTMmI1R296LU02a3ZPWXdERldxNnR3R0R1alRtRzVUa1BPV0dLN2dXd1MzelJneDQxUmc5eTl2WWlINGh6bVRFZ0Z5VTZveXJRcVJVam5uNElzaFJYbnZING1IT0tHWHJhRk4yYldsZHlkMjl1dERJUEo2QlJ1OA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:02:30.634728Z",
+  "collected_at": "2026-09-02T17:14:31.199413Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.190999Z",
+        "fetched_at": "2026-09-02T18:38:10.751199Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.191008Z",
+        "fetched_at": "2026-09-02T18:38:10.751214Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.191013Z",
+        "fetched_at": "2026-09-02T18:38:10.751223Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.191017Z",
+        "fetched_at": "2026-09-02T18:38:10.751229Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.191022Z",
+        "fetched_at": "2026-09-02T18:38:10.751236Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.191027Z",
+        "fetched_at": "2026-09-02T18:38:10.751245Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.191032Z",
+        "fetched_at": "2026-09-02T18:38:10.751253Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.191036Z",
+        "fetched_at": "2026-09-02T18:38:10.751261Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -256,11 +312,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/anooppradhanbjp?lang=en",
+        "url": "https://x.com/https://x.com/anooppradhanbjp?lang=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/anooppradhanbjp/",
+        "url": "https://facebook.com/https://www.facebook.com/anooppradhanbjp/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T17:10:53.341509Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -285,27 +366,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP Hathras MP Rajveer Diler dies of heart attack, PM Modi condoles demise - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNMTVjNEdHMEo2bU90THhXeFFXdXRJemg0QTRqdnNvU2ZSQXhpQ3ZLNFNOa2k5VUFuM2tKUmFkQ3BmMS13b3hDcXdMc1Fyck1WNER0czlxdUZIQ0FYVmdtSF9KSXFRZW5NOTJtN1hMR3NZQkxwR25WUEdPMm95RG9yMkxpZ3JaYzQwcmFkV0dXblhlSmxodHpoa0VBd3N5bjd0UkJwbVBWc3NYeHI0TUtJUGJxVHBlRExTU0tudmtMNkt0SEhmZ1dObjZfUGxGOGpQRkdwaE5iZDVFYXJqZGRpTUJzVl90RnFYNWRUTV8tdm1WbWxDWk16RU9jZnNGc2hSbnBoWWhqazFENE03VDF4dEltcmdyTThL0gGeAkFVX3lxTFBralF5UFdUdm5HdUtvNlVtZXJDUzUtZk9kVjJkTDNXUlJXZnpadjFLelVqNnNaOGlpVGVacC11QWJtZmN3V0xGZmdzZTRqdVZEb0dqYUdHS0QzNFhrSHlNdkRhQWRtM0FVVTBVV0JaWDNmVGotWUlqdThNRXgtdmdsQUJ1cmkzR1FkdHFlQ0IzcmlDRG1UcHM4bkhRWUNzSExDNGIwQUFKRWFQMV91Mi00Q0dZd1lQbGQ4V3JpWUlCZUpNbTlHLTh4THdGQnIxX0RWZWk1S3dmdXdkeVYxNlBtRDh4b2stdF9sU3I3NE9KaWctRWlWRkN4RG9vX3BOeEV2U0Rhd2J2VWtKb2w1MDhiQnpoQUJFNjhrMGJlT0E?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Hathras lok sabha election results 2024: Hathras Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONEFRZzZGMmo2LWY0RUlmYm5NcUo2b1o2RVEtNmZpdWp0R0RNLWJhUXZIS1ktRnpiR3M3VEVXMWNRQ00teEZlaWJjazBRRExiRlFYZ2Q3N0tTTFNEdkZKTU5jV2M0RHV6YnhGOVZvZmluY2dwZm5JbHdUNGxzTjVpWGpVMmRidXRsTlAyQ1NsUGRQWU5FeEkwcw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Prabuddh Varg Sammelan | Diler on dais, CM tries to pacify his supporters: ‘Has accepted party decision like a true soldier’ - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTUlHaDZYUXQzMWhmVkIyVW9BOHo1MEp3cGZ4a3pPdy14YktaREVDTUl0aTBKNVJZaXJSME5HZl9XeHBIMHJpcDNkQUV2WWNQVF9neVFHclY3YnZVOWlILVpiTFNUQWdwVTJFYklSY2p1bklRei1VS3laTW5uRU1vYXZvc2s1Z213VV91WGRKUklNYll5Z3c3T3VrQ0hNMDZ2akF0aHI4T2JpWXBUbzEzdmFPZWdXWEl2Wk1YRnhmR1huUVZGTC1aM3ZNelBXRUJhR3BYbDBwY1BBWG1MRkx2dEFyNTd6QVlrU2o2LXdxVHVnUXJuWDBkYWp5d0FobUFORm5HVERDZ9IBjgJBVV95cUxPS1BqV0VPYjYwYTFUX0hlcUJ2UjZlQ01xSFd6YTZMLVNseW0yOGdfdG9JR0FyWGFMWHpVbGI4bldfMl8yMk92dXRuR0ZoM3JfY1JKckhlSkFmVHlHS0NSRl9ybGZ2ZkUwZXIxOTBOLXBxNDNPemU0NU9jbk56b185ZTdXemtlRTkwMUp4bTJpanJfUHFDb2VFYjlTR0xJUHNQM2l5NXZ3S3ZKekpTS3BQcWoyWEhGdXNBV0ZibVRrem9OMXJ4ZU1adUdkcXd0TXg2Vl9GcDhVb0RhVjNhd3VFQW9EYTN0SjYzVExSajNNeFA0bW9GNzVhZXlaaDZyT2RnTHlRdEF0NHhtRXZFRGc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttar Pradesh: Yadav family’s prestige at stake as 10 Lok Sabha seats go to polls in third phase today | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOckRNVTZTMFBiTDRMTzBpYkdBVTZTNmRNSFBCdzR3QWFwRDhldF96QkFQY1BlbEZRcTNaa2lvbGNlbmpMSU5PZl9sb1BZRnJIcXFoR0l4WUlqR0Exay15bEtjOWhIYVdtX2lfUGtFZTV2ek03MFY5TThHS1pGVFhFd0dCUmRKMXlTc0VZUnV6VGNaeFNvbDF2ZWZyRFNNRmpVLXJlbHQ5MW1OUzgyMDhaSTZfMTVMdHVoMTlfT0tQVDU5MURrQzlRQXFLZUowQ2VRVHplUEtrQTlVaTBuVGtZczVLTE92NnFQV2hkeVMwR1hnT2RfbTdXdlZKRTYtZEZqaHFn0gGIAkFVX3lxTE9XSm9uOU1vbjhHeEV2YURIS3AyMElxTHZNa3ZNb0VsOFVzOEthaU1uaXBqUGVSWUQ5cnFTMl82eUhaQ09hNmN5TldSQ0dGYUd5Mk5qWDlzOHNZamh6a2ppdFJyTzNOS2E1R0prTkJWbVFsRmt0ZElpQWs3U2ZjaklTQ05ZWHQycDdQZS1HOTBDR3ZiaWdkRGtyRlljTnJIaDZDREFyV29rNTBUTDNhTzZweUpBaTVxMnNCNV80UEpVZmpvY2YyUTFkSkdmblBMNHBVVEVIQ1h0MUZUTGZTeGdPN25HRk9LUHU3d1lkdEw5cmJnUXhMc2pZTUpPN1MweGpqdzJtdFFxYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Put Aligarh lock on the fate of Congress, SP-BSP: Yogi - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWNtd0NNUVZuQTkyNnhFcjZzSXZrT3VOUG5UWjBSUGhEaVVocUFWdWpGdGJ3a0VBT3d3YkYyUnlaenh6eFhxR0pzeHlUVjVFaVl1WnlDLW5FUHFpRTZCYzVOdW9XQnpEODQtTWhuVVZReVRSdzh4MFJBYTQ2Wkd3MzhDV1VqMGhXLXZpdm1lbmZ0dzBnWmprNGlGd3BOc051emRkRS130gGrAUFVX3lxTE9Fa3F1Y0Vqc1ZUMTU0VE5CZ0h5U3JPTnRjV08wZ2xFTTItbjF2X3hkRk5sNVhTMmI1R296LU02a3ZPWXdERldxNnR3R0R1alRtRzVUa1BPV0dLN2dXd1MzelJneDQxUmc5eTl2WWlINGh6bVRFZ0Z5VTZveXJRcVJVam5uNElzaFJYbnZING1IT0tHWHJhRk4yYldsZHlkMjl1dERJUEo2QlJ1OA?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -355,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

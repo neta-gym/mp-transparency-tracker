@@ -7,21 +7,21 @@
 **Education:** 12th Pass
 **Profession:** Executive Member, Karbi Anglong Autonomous Council (KAAC)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 58.6 / 100
+## Composite Transparency Score: 63.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 32.9 | 25% |
+| MPLADS Fund Utilization | 40.0 | 25% |
 | Asset Growth | 55.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,24 +39,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 7.76 Crore
+- **Immovable Assets:** Rs 15.03 Crore
 - **Total Assets:** Rs 22.79 Crore
 - **Liabilities:** Rs 5.41 Crore
 - **Net Worth:** Rs 17.38 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 73% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 6
-- **Utilization Rate:** 41.2%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -70,6 +69,20 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,16 +90,27 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Dibrugarh-New Delhi Rajdhani Express to stop at Diphu from today - The Sentinel - of this Land, for its People (The Sentinel - of this Land, for its People) [neutral]
-- Diphu election results 2024 live updates: BJP's Amarsing Tisso wins - The Times of India (The Times of India) [neutral]
-- Diphu (ST) lok sabha election results 2024: Diphu (ST) Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Diphu gets Rajdhani Express stop, boosting connectivity in Assam’s hill districts - India Today NE (India Today NE) [neutral]
-- Diphu (ST) Assam Bharatiya Janata Party - The Times of India (The Times of India) [neutral]
+- MP Tisso slams absence of senior officials at Amrit Bharat train flag-off in Diphu - India Today NE (India Today NE) [neutral]
+- Diphu (ST) Assam Bharatiya Janata Party - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Diphu (ST) lok sabha election results 2024: Diphu (ST) Winning Candidates List and Vote Share - indiatoday.in (indiatoday.in) [neutral]
+- 1st phase of Gunotsav-2025 concludes, covers over 13 lakh students across 11 districts - The Meghalayan Express (The Meghalayan Express) [neutral]
+- Assam: 74th KAAC foundation day celebrated with patriotic fervour in Diphu - India Today NE (India Today NE) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Tisso slams absence of senior officials at Amrit Bharat train flag-off in Diphu - India Today NE** (India Today NE)
+- ! **Diphu (ST) Assam Bharatiya Janata Party - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Diphu (ST) lok sabha election results 2024: Diphu (ST) Winning Candidates List and Vote Share - indiatoday.in** (indiatoday.in)
+- ! **1st phase of Gunotsav-2025 concludes, covers over 13 lakh students across 11 districts - The Meghalayan Express** (The Meghalayan Express)
+- ! **Assam: 74th KAAC foundation day celebrated with patriotic fervour in Diphu - India Today NE** (India Today NE)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Assam: 7 relevant findings
@@ -95,11 +119,11 @@
 
 ## Qualitative Assessment
 
-Amarsing Tisso shows moderate transparency with a score of 58.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Amarsing Tisso shows moderate transparency with a score of 63.5/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 227,863,561. MPLADS utilization: 41.2%. Parliament attendance: 100.0%. Questions asked: 14.
+No criminal cases declared. Declared assets: Rs 227,863,561. Parliament attendance: 100.0%. Questions asked: 14. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -139,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 227,863,561. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +242,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Amarsing Tisso's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 41.2%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -238,11 +260,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

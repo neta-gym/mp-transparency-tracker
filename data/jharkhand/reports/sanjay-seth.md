@@ -3,24 +3,22 @@
 **Constituency:** Ranchi, Jharkhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 65
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.3 / 100
+## Composite Transparency Score: 53.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 48.8 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,28 +32,32 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 159/21, PS Dhurwa, Ranchi | Section 51 DM Act 2005 (Sections: 147, 148, 341, 323, 353, 332, 427, 188, 269, 270) [pending] 
+2. 107/23, PS Dhurwa, Ranchi (Sections: 147, 148, 188, 353, 332, 109, 427, 323) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.42 Crore
-- **Liabilities:** Rs 32.44 Lakh
-- **Net Worth:** Rs 2.09 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 93% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 10
-- **Expended:** Rs 8
-- **Utilization Rate:** 55.9%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,37 +71,63 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/sethsanjaymp?lang=en](https://x.com/https://x.com/sethsanjaymp?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/SethSanjayMP/](https://facebook.com/https://www.facebook.com/SethSanjayMP/) | No | Yes |
+| Instagram | [@https://www.instagram.com/sethsanjaymp/?hl=en](https://instagram.com/https://www.instagram.com/sethsanjaymp/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 3 | **Negative:** 0 | **Neutral:** 7
+- **Positive:** 2 | **Negative:** 1 | **Neutral:** 7
 
-- Union Minister of State for Defence Sanjay Seth Launches Namo Stall Scheme for Vendors in Ranchi - Newsonair (Newsonair) [positive]
-- PM Modi की अपील के बाद बाइक से निकले Ranchi MP Sanjay Seth | Jharkhand | Fuel Saving - Hindustan Hindi News (Hindustan Hindi News) [neutral]
+- Union Minister Sanjay Seth questions Jharkhand Govt over JSSC exam row - News On AIR (News On AIR) [neutral]
+- Union Minister Sanjay Seth challenges Rahul Gandhi to visit Ranchi amid student protests - The News Mill (The News Mill) [neutral]
+- "Double standards...": Union Minister Sanjay Seth challenges Rahul Gandhi to visit Ranchi amid JPSC-JSSC protests - aninews.in (aninews.in) [neutral]
+- Seth seeks CBI probe into exam row, JMM hits back - The Times of India (The Times of India) [neutral]
 - Ranchi MP Sanjay Seth visits Trivandrum Military Station, reviewed its development projects - jharkhandstatenews.com (jharkhandstatenews.com) [positive]
-- Ranchi Street Vendors Get 'Namo Stalls' Under PM SVANidhi Scheme for Improved Livelihoods - The Times of India (The Times of India) [positive]
-- Ranchi: Sanjay Seth attends ‘Sansad Sanskritik Mahotsav cum Swadeshi Mela 2026’ #Gallery - Social News XYZ (Social News XYZ) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Union Minister Sanjay Seth questions Jharkhand Govt over JSSC exam row - News On AIR** (News On AIR)
+- ! **Union Minister Sanjay Seth challenges Rahul Gandhi to visit Ranchi amid student protests - The News Mill** (The News Mill)
+- ! **"Double standards...": Union Minister Sanjay Seth challenges Rahul Gandhi to visit Ranchi amid JPSC-JSSC protests - aninews.in** (aninews.in)
+- ! **Seth seeks CBI probe into exam row, JMM hits back - The Times of India** (The Times of India)
+- ! **Ranchi MP Sanjay Seth visits Trivandrum Military Station, reviewed its development projects - jharkhandstatenews.com** (jharkhandstatenews.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sanjay Seth shows moderate transparency with a score of 53.3/100. Minor criminal cases on record.
+Sanjay Seth shows moderate transparency with a score of 53.5/100. Minor criminal cases on record. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 24,152,085. MPLADS utilization: 55.9%. Low confidence data: Parliament activity. 1 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -139,7 +167,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +246,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Sanjay Seth's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 55.9%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -237,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

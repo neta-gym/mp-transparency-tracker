@@ -4,16 +4,16 @@
     "constituency": "Mandla",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7,
+    "myneta_candidate_id": null,
     "slug": "faggan-singh-kulaste",
     "house": "lok_sabha",
     "sansad_member_id": 207,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 64,
+    "age": null,
     "photo_url": "/mp-photos/207.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:58.344060Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 53526381.0,
-    "liabilities": 3380099.0,
-    "net_worth": 50146282.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.914419Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 41.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.19,
-    "released": 15.19,
-    "sanctioned": 5.77,
-    "expended": 3.95,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:29.277256Z",
-        "notes": "Official eSAKSHI REST API — Works: 306 recommended, 168 sanctioned, 19 completed"
+        "fetched_at": "2026-09-02T14:46:38.421609Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:42:54.797846Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:42:54.794637Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 306,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 26.00394996708361
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 75.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:02.813754Z",
+        "fetched_at": "2026-09-02T14:42:54.793520Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "‘Businessmen from MP with mining permits facing threats from local leaders in Annamayya district’ - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPc0JlUnFLS19mMkVpLTdLMlptNlVMSUVJSGdQTHNtTHcyeU5Gc0k5bXlTVXdRcEdtTWtUTWhuOUhWMVhHZkdCZ0FMSzNXaTktdFkzdDlkRHljYmFZeEZDRlRfNi1XZ1BESi1FNzhYdEpQZE5tRS1hQmExbXpSYnNxWXdQc3dUb3MycDZMLUVjMzJKbnV4S2VDcjZFSzBndkdPNi1UTEdncG1fQVJHZkloMXBpaFNsUF8ycjhuX01zWjRpMmZXUFNtRjRJOTBOOVFwdkNTNmhjaVBkcWM5eUo0YklWV0EzdmI4Y1R6S0oyaUZjald3bkFPSmkyLS0zQdIBhAJBVV95cUxPdF9saGZvZWt6M3F3UU84YWx0RTBvcm8wNk1TSGpBNzFmZGJSRU9NNmZWUWg2V2pmSDBFbVM3SGEtSFI3VlpqcjN1OGhVdkk3X2xqRHNPWTB0S0VOZ053Y0s2ZmxXc2ZsY0xUcV8zMDFpR2puYy1heC1kaVZTRWdBT1NoMlZsRkJEbnV5ZmJobnprOEZVSWZTbWl5UnZlaXViVkltdUY0cW9PU012alRncDVFeExFWk9sSDg2X2I0dmsxVFZnMGxBR2hlVzU5ZzBjOFcyME5kSGZZcFpPTUtrWE10VzUyTWloQzRSd1NveTZfeWpMdFk3WVl5ZktzVENNODZ2VQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mandla election results 2024 live updates: BJP's Faggan Singh Kulaste wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQLWd1X1NxdkxFU0pNNVo5aUszQ240eVZkN2pjaWstc1kyYXRaUzZTTDVFT0FsRU4xZEJFdHRlZi1hVEt0NEdMcnFSWVo1N3FweTBqdnFCa19SVFMzdGlQblgxaDh3blNZeVhoMkhBTVFGTkVVaW1xR3RuS3hnS1E2NWtvU1FfSWhMOFhyc0ZDQXpmbG9NYkVRYTk1VWtiRExsODVlenpsVHQzdTJvRXl3TnFGcjM5NGJQMTd0RGtWU3hCVGVWVV9XOUVtOWNFV1BfV3c2b1BicTZkNGk4YTdwSmdCRzQ4dW5wUnNQN0xGMU5tVk9McFZtOWpFRjhPVU5FWGFwMzVQbzdVRU5HMUppaFRrb2F0blhQaW5qOV9ERGhWYk5wN0JqU0lJbEcyMGNYR1JJb2ZmYThIdkh2d3J1SU5Fa2E2MWpxUkJlUGFQZnBMTXhnTDZCMNIB3gJBVV95cUxQM1ZpSXBibTRTVjZENE41Ui1XNWFfUU1qMEhEN2NVdG9RZ25reGVydHhCUkhHekExZFoxdEZHY3hSQ3dydnF0Znc1RTlqWVloY1NPNFp3WnlnVEFMNHZ5SmthZGJrS25Gdl9YYkdxWHFqeUlYY0haU0cwdkNYNHc2bzlsTzJGekhUTjIzUTBkY3p1MFhuQ0NFNXdXeWZFZTktRmFJMW5tRkVXRWppeWN4bjlwU2Z5Vy1WZFl1QmtzdmhWX2lLbDJHaFFObURYdXB5MVRuOTlsZjMzRmVZaEljV3pBdHlWaDlwSTVpcnpreUc2TTMzR2xZcTc4dFpzM3NoWkRwT2ZmRElCMldXZ1h5MGRZSGw3ZDFwM0V2bWZfQk5xR3RraEtBWkdUSVNTcmI1bnNpRG8zZzNVQjZIeTNUejlyc25SWDJjU0NuU3pjcnBZdzh4OGZDNFJHbWVGZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union Minister Faggan Singh files nomination from Madhya Pradesh's Mandla for LS polls - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLVJIS29Kc2RIQlFsV0lpSDMwYS1PRklSRjlOTEplSksteDdNWW5xM240dFBVaDVxY3ZXTzZ4ZDA0WUJIYUMySmViN2o0aTNhblhlX3lLWmNwblRfcENvRXZOb2VHa3YzTUtSMU9kbExaUHZDSl8zYXVVNU11bjFEbW5ublhCV2c2SUMxVEwxY25UYVlfY2ZUQnlQYmlMd3lBa183M1ZsT21HbjFjdm5MT0NZSVMweFRvd0lfRUI1MmxjWVFkdnBuaV9nd1FIblh6aHRKZFN3TjNYZElkX01qR29uMA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Pawan Kalyan Warns of Action Over Mining Obstruction - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWpOdGRmVlloVGxiSm5ONmVWdnVYT3lLREVlcGhTb191dXFuRmgyUS1aQjlnYXBTR1d2UlJhclJfeC1hR2VLWHc2UjE1Y1dwTnBIR2ZQRUlqaEtROW1DaDFaUUx5cHZvbHVKZGZZR3JORDJQbThZRVcySXZoT3k2MW03aUpwdjRsM3pQRUVlSVQyaGJ0ajBndDY5S1EzbzFid25JaEpiMUxoX2hLN29PYlBDaV9YUDFLempuSF9GSVXSAcYBQVVfeXFMTnpJNlVUdUJaeGdtZndJU2stOXBGNGlZeWNPSlp6dHJhWDdjRFJ5QWkweWdiSGhjRjRiMkhGRzhOMlMtVFFZT1VHLThpam1Ha3hYcGsyeUJOd1hNNFVDREVJdXhNdDVLWGF1M3dOT21CTW5nU2JacG1aZFZMN1RMMTI3V0lRWkJEcTR6YUVWcTV1LW5vMEo0N3lweU40YzNDT3l4dUFuSWFHNjZZbnVwaGY1Ujk0eXRTWE8zMkpMMlk5ZGpfd2F3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP BJP minister stirs row with ‘our terrorists’ remark amid party leaders’ controversial statements - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTzVzcXlDN0pjWS1kOFJseGpWSFRYOUVsa1lNM29CV0RQZ2tJLTBFOEljTlM4Q2twWFhCRkszenhCMkw2Z3RNbHl1M3FWai1fU2xNY0Z0a1pLX3VBcVJVNkRJSkhmTzh4bFQxWVVCS0QtZnFjQ0FrV3hQMGtOR0V2dGpReEM0Y0k3aFRRYUJLTnpzcG5Yb2J4MmZmVi1sZ25QVDBFajdPWE4zVFByS25VZ2tpamFpT1ZSV2ppRGx0VS1lclppejY1T3hDZVJYNmhMMzZWbGxzZEtyeDNZWjNfa9IB7gFBVV95cUxOWldQamtCR1FjaGpRN29QbTA4VFp0UFl1NzJGckdTQnl3Q2VEX2JLbXpUNWhsVFF2ZHAxRF82R2ZMNk5QY1BUeUFmNTBBdXpiT2ZySUtIZmtOT2k4S2dsMUVtMXhQcTlQLWxSeFlKbk9LMnFBX0ROVG9TLXNsUXN0SFRqcVhsSlFOT1NUZDg2MzZSN1pHV3pvQUNMWkROcmw3Uy1fREdzcGZFcHRHMWoyb0JkaFF2d1NoYVFuR0FUZ21YRDUxRElWaXZlMDlWYjRxV2tIZmdNQzhSRmJoOFphMlFZNmhmM2JINXk1NHNR?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:27:56.545271Z",
+  "collected_at": "2026-09-02T14:46:38.422770Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.854183Z",
+        "fetched_at": "2026-09-02T18:38:07.347583Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.854192Z",
+        "fetched_at": "2026-09-02T18:38:07.347598Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.854197Z",
+        "fetched_at": "2026-09-02T18:38:07.347607Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.854202Z",
+        "fetched_at": "2026-09-02T18:38:07.347618Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.854206Z",
+        "fetched_at": "2026-09-02T18:38:07.347628Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.854211Z",
+        "fetched_at": "2026-09-02T18:38:07.347637Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.854216Z",
+        "fetched_at": "2026-09-02T18:38:07.347645Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.854220Z",
+        "fetched_at": "2026-09-02T18:38:07.347654Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,11 +320,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "@fskulaste",
+        "url": "https://x.com/@fskulaste",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/FSKulaste/",
+        "url": "https://facebook.com/https://www.facebook.com/FSKulaste/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/fskulaste/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/fskulaste/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:43:02.007319Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -288,19 +374,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Pawan Kalyan Warns of Action Over Mining Obstruction - Deccan Chronicle",
-        "source": "Deccan Chronicle",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWpOdGRmVlloVGxiSm5ONmVWdnVYT3lLREVlcGhTb191dXFuRmgyUS1aQjlnYXBTR1d2UlJhclJfeC1hR2VLWHc2UjE1Y1dwTnBIR2ZQRUlqaEtROW1DaDFaUUx5cHZvbHVKZGZZR3JORDJQbThZRVcySXZoT3k2MW03aUpwdjRsM3pQRUVlSVQyaGJ0ajBndDY5S1EzbzFid25JaEpiMUxoX2hLN29PYlBDaV9YUDFLempuSF9GSVXSAcYBQVVfeXFMTnpJNlVUdUJaeGdtZndJU2stOXBGNGlZeWNPSlp6dHJhWDdjRFJ5QWkweWdiSGhjRjRiMkhGRzhOMlMtVFFZT1VHLThpam1Ha3hYcGsyeUJOd1hNNFVDREVJdXhNdDVLWGF1M3dOT21CTW5nU2JacG1aZFZMN1RMMTI3V0lRWkJEcTR6YUVWcTV1LW5vMEo0N3lweU40YzNDT3l4dUFuSWFHNjZZbnVwaGY1Ujk0eXRTWE8zMkpMMlk5ZGpfd2F3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "3-time minister, MP Faggan Singh Kulaste refuses to be MoS again - The Times of India",
+        "headline": "Mandla election results 2024 live updates: BJP's Faggan Singh Kulaste wins - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFZqS3J6NDBzdWxmUUF4R1BPMVUzUlFmNGdWSXhYelFoWHVBNU1qbG1IbWppd0FpNmEzRHNQbG5TVUlpQTE0NGhYVElCVWVWWGpOa3h3dVpXTDRnenAzQXlPR3IyUnVtRG9scVBoaVVfSG14NTluNGMtaEk4bFA1V2tLNW1zaUhHTmVXTEFQRHJRZm4xdG1uUU5USlBLRVV0anpmRmxMVWx0OHRpcHAtekpsT2xWOGt4eVlNdE4xeS1MNnE3VDVNZlNNZEZyQnNNUGo40gHYAUFVX3lxTE8ydjNuZ0hCZXBWTlJidU9UdXFDQlVtbjRZWDRpNGF3U3Fadk90S1UxZGVrYTdaekt5N0JfdVFMSGY5U2w1Wi02TWFMRWY4OTJOMEJvOS1wa2puOEcxOVRWOEZkVVNsWm04Q0t0Y25jMTlFeE9waXExNzRsLXpHNUc2dnBVUU5oWXA3b2toNHVjSlZjdTBtUUVKMFpzT010OU5PNkNxNklFRkVmX2swV1lvbHlaNDliTnhFYjQ2TUQ3MERSeWlabWJ1M1YySlVRRmtPZGJyU2lwLQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQLWd1X1NxdkxFU0pNNVo5aUszQ240eVZkN2pjaWstc1kyYXRaUzZTTDVFT0FsRU4xZEJFdHRlZi1hVEt0NEdMcnFSWVo1N3FweTBqdnFCa19SVFMzdGlQblgxaDh3blNZeVhoMkhBTVFGTkVVaW1xR3RuS3hnS1E2NWtvU1FfSWhMOFhyc0ZDQXpmbG9NYkVRYTk1VWtiRExsODVlenpsVHQzdTJvRXl3TnFGcjM5NGJQMTd0RGtWU3hCVGVWVV9XOUVtOWNFV1BfV3c2b1BicTZkNGk4YTdwSmdCRzQ4dW5wUnNQN0xGMU5tVk9McFZtOWpFRjhPVU5FWGFwMzVQbzdVRU5HMUppaFRrb2F0blhQaW5qOV9ERGhWYk5wN0JqU0lJbEcyMGNYR1JJb2ZmYThIdkh2d3J1SU5Fa2E2MWpxUkJlUGFQZnBMTXhnTDZCMNIB3gJBVV95cUxQM1ZpSXBibTRTVjZENE41Ui1XNWFfUU1qMEhEN2NVdG9RZ25reGVydHhCUkhHekExZFoxdEZHY3hSQ3dydnF0Znc1RTlqWVloY1NPNFp3WnlnVEFMNHZ5SmthZGJrS25Gdl9YYkdxWHFqeUlYY0haU0cwdkNYNHc2bzlsTzJGekhUTjIzUTBkY3p1MFhuQ0NFNXdXeWZFZTktRmFJMW5tRkVXRWppeWN4bjlwU2Z5Vy1WZFl1QmtzdmhWX2lLbDJHaFFObURYdXB5MVRuOTlsZjMzRmVZaEljV3pBdHlWaDlwSTVpcnpreUc2TTMzR2xZcTc4dFpzM3NoWkRwT2ZmRElCMldXZ1h5MGRZSGw3ZDFwM0V2bWZfQk5xR3RraEtBWkdUSVNTcmI1bnNpRG8zZzNVQjZIeTNUejlyc25SWDJjU0NuU3pjcnBZdzh4OGZDNFJHbWVGZw?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -312,11 +390,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "अब BJP सांसद फग्गन सिंह कुलस्ते की फिसली जुबान, आतंकियों को कहा 'हमारे' - AajTak",
-        "source": "AajTak",
+        "headline": "Pawan Kalyan Warns of Action Over Mining Obstruction - Deccan Chronicle",
+        "source": "Deccan Chronicle",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbExHWjQtVndMeE50UkJSWHZseWFPWHF5X2pGN3VMaU8xa3RGQ3M1cC1OT1hrS2pvdUNEQ04yczlyY3loQlVIVjR6a1ktRFdQQkRkbnBGZXJwYmFfRmVQY1RkSm96bVhicUo1TnFDd3pxZmkzWUdGTU5CMl9Ya0RIRmVxRVpNT1JaMHVySTNZMWlnRkM3dVZXNVZiUElmV0FzR0dGbFJxeGMyTmkzbjF2VHFQa1hSRU1xdDkwZHpLWjhQT245TDB2bXVkclNvMTlsMExR0gHYAUFVX3lxTE1nTXdtdS1jMzg2LW5oaGNYNE9PSk54aVA3TlZEemhpaGVtR0dNYUktMTJBbWREdW5MZXd6b3NGdnF0Smk5NDlwTkkwMGhiX0o2VHdRUHZzcXA1RGRfUVgyVnZaYmY0NVZnMWFIWjlmdUh0VHFQNWhKSmVmWlV0bmJkNU53WGdRN2pzY184NXNVNzcwc1ZFeTdOX20wMHRKOHF1TUg2VUU0WjJYNjF0R0JHOTdheUhVRlU1NzNLNW5rcnlQOUtYX2ZCQWlFT20ybl9ZMjhraFJudw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWpOdGRmVlloVGxiSm5ONmVWdnVYT3lLREVlcGhTb191dXFuRmgyUS1aQjlnYXBTR1d2UlJhclJfeC1hR2VLWHc2UjE1Y1dwTnBIR2ZQRUlqaEtROW1DaDFaUUx5cHZvbHVKZGZZR3JORDJQbThZRVcySXZoT3k2MW03aUpwdjRsM3pQRUVlSVQyaGJ0ajBndDY5S1EzbzFid25JaEpiMUxoX2hLN29PYlBDaV9YUDFLempuSF9GSVXSAcYBQVVfeXFMTnpJNlVUdUJaeGdtZndJU2stOXBGNGlZeWNPSlp6dHJhWDdjRFJ5QWkweWdiSGhjRjRiMkhGRzhOMlMtVFFZT1VHLThpam1Ha3hYcGsyeUJOd1hNNFVDREVJdXhNdDVLWGF1M3dOT21CTW5nU2JacG1aZFZMN1RMMTI3V0lRWkJEcTR6YUVWcTV1LW5vMEo0N3lweU40YzNDT3l4dUFuSWFHNjZZbnVwaGY1Ujk0eXRTWE8zMkpMMlk5ZGpfd2F3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP BJP minister stirs row with ‘our terrorists’ remark amid party leaders’ controversial statements - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTzVzcXlDN0pjWS1kOFJseGpWSFRYOUVsa1lNM29CV0RQZ2tJLTBFOEljTlM4Q2twWFhCRkszenhCMkw2Z3RNbHl1M3FWai1fU2xNY0Z0a1pLX3VBcVJVNkRJSkhmTzh4bFQxWVVCS0QtZnFjQ0FrV3hQMGtOR0V2dGpReEM0Y0k3aFRRYUJLTnpzcG5Yb2J4MmZmVi1sZ25QVDBFajdPWE4zVFByS25VZ2tpamFpT1ZSV2ppRGx0VS1lclppejY1T3hDZVJYNmhMMzZWbGxzZEtyeDNZWjNfa9IB7gFBVV95cUxOWldQamtCR1FjaGpRN29QbTA4VFp0UFl1NzJGckdTQnl3Q2VEX2JLbXpUNWhsVFF2ZHAxRF82R2ZMNk5QY1BUeUFmNTBBdXpiT2ZySUtIZmtOT2k4S2dsMUVtMXhQcTlQLWxSeFlKbk9LMnFBX0ROVG9TLXNsUXN0SFRqcVhsSlFOT1NUZDg2MzZSN1pHV3pvQUNMWkROcmw3Uy1fREdzcGZFcHRHMWoyb0JkaFF2d1NoYVFuR0FUZ21YRDUxRElWaXZlMDlWYjRxV2tIZmdNQzhSRmJoOFphMlFZNmhmM2JINXk1NHNR?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +436,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
+    "total_questions": 3,
     "starred_questions": 0,
-    "unstarred_questions": 0,
+    "unstarred_questions": 3,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 4.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +452,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 75.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

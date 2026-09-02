@@ -4,16 +4,16 @@
     "constituency": "Raver",
     "state": "maharashtra",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 6921,
+    "myneta_candidate_id": null,
     "slug": "raksha-nikhil-khadse",
     "house": "lok_sabha",
     "sansad_member_id": 4722,
     "profile_url": null,
     "canonical_name": "Raksha Nikhil Khadse",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 36,
+    "age": null,
     "photo_url": "/mp-photos/4722.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Raver",
       "state": "maharashtra",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 6921,
+      "myneta_candidate_id": null,
       "slug": "raksha-nikhil-khadse",
       "house": "lok_sabha",
       "sansad_member_id": 4722,
       "profile_url": null,
       "canonical_name": "Raksha Nikhil Khadse",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 36,
+      "age": null,
       "photo_url": "/mp-photos/4722.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:21.991115Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 182117790.0,
-      "liabilities": 7736381.0,
-      "net_worth": 174381409.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6921",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.147298Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 69.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.31,
-      "released": 15.31,
-      "sanctioned": 1.2,
-      "expended": 0.59,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:30:18.098883Z",
-          "notes": "Official eSAKSHI REST API — Works: 9 recommended, 7 sanctioned, 1 completed"
+          "fetched_at": "2026-09-02T15:02:56.681090Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:58:49.039234Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:58:49.036315Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 9,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 3.8536903984323967
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:28:26.837610Z",
+          "fetched_at": "2026-09-02T14:58:49.035284Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Strength & resilience — this single mother rose through the ranks - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1kydlNWRDlOUEl1QUhnRk5DdUUzUHg2S245endlbXVrbzBLVTg4Z3huaV9XTUNhcHpBSF9fVGtHQ3drRjc4ZzB3VTlSQm4zLVNqam5VN1RKM1dEeEx5NGhUeGNlREwyN3JrSmFjVVVDSF90ektRM0czdEVjRlA0dVNVZG1ZS1BWNXNNOGhIMC0wUGszcWNuS2lWUFZYcW1zTFJVaEVMQW5jTllKNEFSMm9B0gG_AUFVX3lxTE9nTWtpRWlCU2x6RTVrRU9lRHFCbWtwZ1hGRm95eFBGNS1jZ0F2N1BQX21vUkY3enkxSkN6eThuNGktZS1MU2l0NnIwLUlScGV3YzZUOVZLNk5oeHBwaXFHUVQ0RGMwTXZnWnoxeVJNWWZEZUloMGl2b09BeGhtU3R1WG1JV0E2RW9XNmJDVW16Ynd5bW5INC0xenhxa3dwZXVodURPdzNiTkxWMWlBbmdiVWxsaHFvRDVIMTUtUTlB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Raksha becomes Union min, gives credit to father-in-law - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaG5XdG0tR2wyLWZpOUNQdTVMdUUtTDlHZlU4b2w2dE16RFdiaUU2YkVvM2dVU2ZtSUFnQS1JWGM3TURkTUJ2eTlJdUg1TW5tU25nTjBHVnJLY1RvYnMzWmJJSWNOMDRTR0V2UE1OTDdFZ2R4UklUNzF1d3lqRnlNWTMtNXlwMDRFNlhRUUROb0owZWJQYjBTQjdPOHF3dTBNb3hNQkdpOWZJSFRRTWszMmk4MXUzaV9QZHVkcVBhNnQ4aC1KeUFSaDRyV3DSAdIBQVVfeXFMTUpqa0cwUnlpeDVzN09KQld6aTRsdjVIN0FzTGxCNHVEYzYzNUZtYjAxc2g5UEc3MlItSm5lUnhKd3NoT2Q4dzhLcHdVM1VHU3RDNm0xWTJjNlNfZGJhTTh4ZVRHV0pCbTNVYmk3VkVFeWVfTElnX0h2cS1BRFQ3aWJVOHdvbWl3LXFZTnFBNU8tdmYwVDllN0l4UHc3NHBQc0dDTjJnT3BaNXFCdi11ci04NHhuRTBHMFRpemMxaEJCY1NrZ2hpSGZKd2RVcVF4ZGVB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who is Raksha Khadse, BJP's face of resilience, in Modi 3.0 ministry - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGpNZUJhVFl0NzRuRXAzU2JyRVpiVlFaZWVBM25tblp2U1lTZDdLUUNiX0x4Y3FWRjZyV0xUZzJ6bWNEYmNyWkFva3lvN1lFUlhMenExRl83ZFM1SVlvV2VJazVaU0lELVk3S25vLWx1Tk9nM0UwTnBidmhmaGswRnFiQU9wSGRXUGxEQlZDV0daZVVOYUZaLTBlSzZ3Q2FFQUI4eE1RSERCWVlXSFpPdVEyWWFqa0lCQTQyTGNRRlhfZ9IBxwFBVV95cUxPTGJJMXhOR3J2Zjd6dkNPaVZKbFpsbkZYekxGS1lINjhnUWtfc2JHNXNVaW1ycGFoRzNWUmdrWUF1dThqVk5RdWtGQVp4bUU3ZWExUDZWcm9QRVNDZFh6cVhXbGlWSzI5am1PeGdRNEtYUnVhSmo4bExoZzBEV214M0Y4azZzRG5DYW5pUzVzbEUwMW51dXd5S1hYOFZNTGpqOUJFSkRMdGJJMTJRZk9KTEsyR0lRU2tROC10N2EwUUhJenVoWTMw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "A loyal BJP politician who is soft-spoken, non-controversial - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUc4WkZZSWE4N21wWW1TTjNrZWwxcmpSQl9nYUFzQS0xUnRXcnZ6djlOb3I5OEtEVWsweXJiMnZKS3d2SjVMdTIxZzVBMDNXYTZrZzBCbm9CMTFpZmIyeHphbDFEYnRVM0tiN2FWQVctX25ZR3Y3UUlpWTZkTWxaN2c2LU1COWJxUWRQWWp4S2RKTmhTc1hqb0dKOGUxal9wTW1vS1kxM29PSEJlLUFaZno4ZmV3M0dxSWJNaE1teWlrbTFfTW52NVlaa29RX3h1N0FvVUg2ZWQ1emZPY3gydHZWSWxmQdIB6wFBVV95cUxNYkx2VGdCMEo4UjhfaHR0ZnF2Um13V2hvT2dvZGZZZTdRem1JSWwwRTdmZXJoUHpvdnIzc3hwb3RKaHZUdEhYTS1qLVRVaXU4Y0xzbVMxeE5GMjBiclR0MUMxQ21TOGJndG0yZV9zUm00SzNKU1BZU2xUNWdFVU5td1hKYnpySDBwXy02aHlremtSR3Z3TjJwLTlpYVpuQVhBTjM4dVhFc2NWNTJ0M0RQWFlJMldqYVREcmhhMXp3OV9ldkppeWtBS1NMbU9ESEUxOXBKY2FyT2lkSzJKVHpMMzZRRU9mWXJzdVpV?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Raver Election Result 2024 LIVE Updates Highlights: Khadse Raksha Nikhil of BJP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3p6WlVoaXNrQ1h2d1V4SFZrT0tPOFZpbmRteWptSUhzMTEzejJTVjVHbWZjOHVHOE9nQzVWWnlMQVRvR0toZzZJOG5iR0RaNXNFSC1vOHhlNnNlOXVWQXh6Mzh6NGdyTUhVMGstbzBDLUtwT18wSVZTdlJfYjZIbmk4UTNlWmlnOWp6bmNTb280cEZ1TFpGcjJsZUItMnhfaGRscjd5YXVudUtuNGFyV08xeHQ0cDVMdEZzUU40dzg3RW9SVnVHYjR3NlhMZUxXVW5YMEVYQTFXOVk5TEZF0gHkAUFVX3lxTFBUMkJOeXQtWllITFZNZllIWnJUdnZyTkFmbTRPa2x3SXFWMUpRSWppY29FZmRzUXRuTkxuSnBDakxtN3FjemZfYjc5OXdyNDZEWUpSdWRoVnhTU1JJXy04c2k2cWh5SERwWXhBQ1huM1k0UzhOZ21kLXNsNWFsN0x3V2JZbDhIcWJ5ckl3NVhPWWVKcGFQdmhydDBKUDZmR1VJNXpvUmZmc2k3TUZoSGNlVWZsLWJPaHlsSjlPV18xQmh1RWpPVVVHSVFsaXNBS0s0clh1cTdIS1VZYy1acDNMQXZrbg?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:29:28.779001Z",
+    "collected_at": "2026-09-02T15:02:56.682559Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.662829Z",
+          "fetched_at": "2026-09-02T18:38:08.226427Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.662843Z",
+          "fetched_at": "2026-09-02T18:38:08.226438Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.662852Z",
+          "fetched_at": "2026-09-02T18:38:08.226444Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.662859Z",
+          "fetched_at": "2026-09-02T18:38:08.226450Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.662868Z",
+          "fetched_at": "2026-09-02T18:38:08.226457Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.662876Z",
+          "fetched_at": "2026-09-02T18:38:08.226463Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.662883Z",
+          "fetched_at": "2026-09-02T18:38:08.226524Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,19 +335,19 @@
       "neutral": 10,
       "top_headlines": [
         {
+          "headline": "Strength & resilience — this single mother rose through the ranks - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1kydlNWRDlOUEl1QUhnRk5DdUUzUHg2S245endlbXVrbzBLVTg4Z3huaV9XTUNhcHpBSF9fVGtHQ3drRjc4ZzB3VTlSQm4zLVNqam5VN1RKM1dEeEx5NGhUeGNlREwyN3JrSmFjVVVDSF90ektRM0czdEVjRlA0dVNVZG1ZS1BWNXNNOGhIMC0wUGszcWNuS2lWUFZYcW1zTFJVaEVMQW5jTllKNEFSMm9B0gG_AUFVX3lxTE9nTWtpRWlCU2x6RTVrRU9lRHFCbWtwZ1hGRm95eFBGNS1jZ0F2N1BQX21vUkY3enkxSkN6eThuNGktZS1MU2l0NnIwLUlScGV3YzZUOVZLNk5oeHBwaXFHUVQ0RGMwTXZnWnoxeVJNWWZEZUloMGl2b09BeGhtU3R1WG1JV0E2RW9XNmJDVW16Ynd5bW5INC0xenhxa3dwZXVodURPdzNiTkxWMWlBbmdiVWxsaHFvRDVIMTUtUTlB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Raksha becomes Union min, gives credit to father-in-law - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaG5XdG0tR2wyLWZpOUNQdTVMdUUtTDlHZlU4b2w2dE16RFdiaUU2YkVvM2dVU2ZtSUFnQS1JWGM3TURkTUJ2eTlJdUg1TW5tU25nTjBHVnJLY1RvYnMzWmJJSWNOMDRTR0V2UE1OTDdFZ2R4UklUNzF1d3lqRnlNWTMtNXlwMDRFNlhRUUROb0owZWJQYjBTQjdPOHF3dTBNb3hNQkdpOWZJSFRRTWszMmk4MXUzaV9QZHVkcVBhNnQ4aC1KeUFSaDRyV3DSAdIBQVVfeXFMTUpqa0cwUnlpeDVzN09KQld6aTRsdjVIN0FzTGxCNHVEYzYzNUZtYjAxc2g5UEc3MlItSm5lUnhKd3NoT2Q4dzhLcHdVM1VHU3RDNm0xWTJjNlNfZGJhTTh4ZVRHV0pCbTNVYmk3VkVFeWVfTElnX0h2cS1BRFQ3aWJVOHdvbWl3LXFZTnFBNU8tdmYwVDllN0l4UHc3NHBQc0dDTjJnT3BaNXFCdi11ci04NHhuRTBHMFRpemMxaEJCY1NrZ2hpSGZKd2RVcVF4ZGVB?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Strength & resilience — this single mother rose through the ranks - The New Indian Express",
-          "source": "The New Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXJFeW1kUmYtVGdSWTFfMFpGN0xSN3RrclJ5RWdELTZucHV6X3N1SGRBMHZsUW05STdjcmRTZG1MMlQ4Q1N6S0ljTTlOMml5ZmVaYWpaR0I4TU1MWUg5YzEzQzBUTUtra2haSW81MHNseDdKRkxhQTd2YzdNMnA1cExUVEw3N0YyVjRqM1hCcmFLUmlIUVhnV21OdXA2RGJGYVF3OERRbHEwbHJ3TXE2OGFZMNIBwAFBVV95cUxQNU50aU9QcnRfckxUY1IzNm1DSXFOYjV0ZkhhckQxay1LZU9iN251RVd6bnI0aHRiSDlPbFNHaEdNMzhYTE52YTZBbkFYajR3TWZzSGhHWGpZZkc2WFFaQVp1elhTVEg3UlhTQTRoSzktZ2kzaGNOUlhIeXpMUnhNMDFQRmR1VzBZcHNxN25VZlF0RUZaajZqUFc5amIyeFc2V19KSl9VMWZVQVhjc21BR3JZbmk2eS11UjNTd3M5WS0?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,19 +359,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Exclusive | Lok Sabha elections 2024: I have been working for development, says Raksha Nikhil Khadse - Mid-day",
-          "source": "Mid-day",
+          "headline": "A loyal BJP politician who is soft-spoken, non-controversial - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaWJ0bE96MFB5S3huRm1lekVYMFFDa1BYVjRzQ0xfa01KY1psdnJqVjNlT3lJV2JzYTIwZEx4U2Y1akl1TEhWN0c5MGFTMGxZRkZvbjl0dkxSb3ZWZ0tLRzczRFpSS3YyaUtKbl9sWC0zci1WbnJILTVOa1VJQmxUNDB6QTRNb3R2MzJEa1RqeU52cE1UMkM5Q2RIc3M3Q0JNWExkTTJEQU80ZEZ1YmdnTVBkR1ltRUdFZGRENDQ5ODNkVF9ieWhVeWZ1enRxeEpnSEpJYUZzY3Fyd1lEM3FBNm9ROVVBY2pqMXFzbdIB8gFBVV95cUxQbDJ4X2FGbmJ0aXBucDgwN1JlY3RHT3E5cGhpcDJtaXBnbTVueDRMWHBUQ21RS1hGTWxKVEM3dERoRHdEWkVfTzViWHVUeVN2bWppVE9CdUlGbUlwSjljeWhaSG9rOUQwX0lBWnBfTmdBRk52ZTcwQVBLdUMyVVdxMm91WmkxMUJxSnNGeUNFWHdOdHJKdnl3YzZwRVF3YkNhSWxIV0ViZjVxVHNZbnhyYTUwU3MwQzd0OENjTHlnN25aNGlwUHJtTEtWWXh0Rk41M1lQX0JQcm5wdklPYnVDLUczT1Z5a05FbDUzb3RVTWZSQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUc4WkZZSWE4N21wWW1TTjNrZWwxcmpSQl9nYUFzQS0xUnRXcnZ6djlOb3I5OEtEVWsweXJiMnZKS3d2SjVMdTIxZzVBMDNXYTZrZzBCbm9CMTFpZmIyeHphbDFEYnRVM0tiN2FWQVctX25ZR3Y3UUlpWTZkTWxaN2c2LU1COWJxUWRQWWp4S2RKTmhTc1hqb0dKOGUxal9wTW1vS1kxM29PSEJlLUFaZno4ZmV3M0dxSWJNaE1teWlrbTFfTW52NVlaa29RX3h1N0FvVUg2ZWQ1emZPY3gydHZWSWxmQdIB6wFBVV95cUxNYkx2VGdCMEo4UjhfaHR0ZnF2Um13V2hvT2dvZGZZZTdRem1JSWwwRTdmZXJoUHpvdnIzc3hwb3RKaHZUdEhYTS1qLVRVaXU4Y0xzbVMxeE5GMjBiclR0MUMxQ21TOGJndG0yZV9zUm00SzNKU1BZU2xUNWdFVU5td1hKYnpySDBwXy02aHlremtSR3Z3TjJwLTlpYVpuQVhBTjM4dVhFc2NWNTJ0M0RQWFlJMldqYVREcmhhMXp3OV9ldkppeWtBS1NMbU9ESEUxOXBKY2FyT2lkSzJKVHpMMzZRRU9mWXJzdVpV?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Who is Raksha Khadse? BJP’s face from North Maharashtra inducted in Modi’s council of ministers - ThePrint",
-          "source": "ThePrint",
+          "headline": "Raver Election Result 2024 LIVE Updates Highlights: Khadse Raksha Nikhil of BJP Wins - News18",
+          "source": "News18",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSUYzbUpzZnY1U0pLOEp5YkhEeXRuUVhiNlJpS0o2VENsMWozQUVjNW1SMTY1N2hXRGNXLWo3bmFQQ1BkQTJ3NFdQRl9TQWZIbHFEcm5HMEZjVFdDbGRPaC1zbWdyR2hrc1FGRkJ4S3FId1I4MjVHX2RiQ09TNlp2aW9CMjBOWHdrRUJxZzZzTTVkdHMtYV9wbE5TZDhkN010ZDJOQVNjTTNiV21DeTVWcGRoNW5YcC1hNmd1dnl6Z3hCa3hjNWfSAcsBQVVfeXFMTVFJS1JqNmNWM0hDaXF0S18tNkFvd3J5WVktMHJDRVhpdG13eFZzajI2emRvTEt5MWYxT3I5VjRXUUh6ZHpCdnFoWlZxWHNBOHFLS1oxenZGNXFBdWprMEMtNVdrUVJqZndfbWxpYVdMRnFBYVhMbWVfX0lwaXdwS3FqeEN2RVdiNEJ3ZDE0Z28wM1c0OUw2S21qRVpSejBwaEF4Rl9hN2pwdkNJaXEwbjJibjg5TENHc1hLbG94azdqeFEtaklUNW04bDQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3p6WlVoaXNrQ1h2d1V4SFZrT0tPOFZpbmRteWptSUhzMTEzejJTVjVHbWZjOHVHOE9nQzVWWnlMQVRvR0toZzZJOG5iR0RaNXNFSC1vOHhlNnNlOXVWQXh6Mzh6NGdyTUhVMGstbzBDLUtwT18wSVZTdlJfYjZIbmk4UTNlWmlnOWp6bmNTb280cEZ1TFpGcjJsZUItMnhfaGRscjd5YXVudUtuNGFyV08xeHQ0cDVMdEZzUU40dzg3RW9SVnVHYjR3NlhMZUxXVW5YMEVYQTFXOVk5TEZF0gHkAUFVX3lxTFBUMkJOeXQtWllITFZNZllIWnJUdnZyTkFmbTRPa2x3SXFWMUpRSWppY29FZmRzUXRuTkxuSnBDakxtN3FjemZfYjc5OXdyNDZEWUpSdWRoVnhTU1JJXy04c2k2cWh5SERwWXhBQ1huM1k0UzhOZ21kLXNsNWFsN0x3V2JZbDhIcWJ5ckl3NVhPWWVKcGFQdmhydDBKUDZmR1VJNXpvUmZmc2k3TUZoSGNlVWZsLWJPaHlsSjlPV18xQmh1RWpPVVVHSVFsaXNBS0s0clh1cTdIS1VZYy1acDNMQXZrbg?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,7 +421,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -399,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.17,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -426,12 +485,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 182,117,790. MPLADS utilization: 3.9%. Low confidence data: Parliament activity. 2 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.664075Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.227333Z"
 }

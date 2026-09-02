@@ -7,21 +7,21 @@
 **Education:** Graduate
 **Profession:** Social Worker
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 51.6 / 100
+## Composite Transparency Score: 63.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 0.6 | 25% |
+| MPLADS Fund Utilization | 40.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,24 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 1.47 Crore
+- **Immovable Assets:** Rs 2.31 Crore
 - **Total Assets:** Rs 3.78 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 3.78 Crore
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 31% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 50% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 0
-- **Expended:** Rs 0
-- **Utilization Rate:** 0.7%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -70,24 +70,48 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
+- Direct train between Ramnagar and Dehradun soon: Anil Baluni - Garhwal Post (Garhwal Post) [neutral]
+- Ramnagar-Dehradun train to run from July 18: BJP MP Anil Baluni - ThePrint (ThePrint) [neutral]
+- Kotdwar gets Passport Seva Kendra to boost accessibility - Garhwal Post (Garhwal Post) [neutral]
 - BJP MP Baluni plays Holi in 'ghost village', seek return of ex-residents - The Times of India (The Times of India) [neutral]
 - Delhi Confidential: ‘Roots’ Cause - The Indian Express (The Indian Express) [neutral]
-- Kendriya Vidyalaya to open soon in Gairsain: Dr Dhan Singh Rawat - Garhwal Post (Garhwal Post) [neutral]
-- Uttarakhand Man-Animal Conflict: All Activities Halt In Garhwal Post Sunset, MP Baluni Seeks Help From Union Minister - ETV Bharat (ETV Bharat) [neutral]
-- Uttarakhand’s bear, leopard attacks find a mention in Parliament, MP says parents have stopped sending kids out - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Direct train between Ramnagar and Dehradun soon: Anil Baluni - Garhwal Post** (Garhwal Post)
+- ! **Ramnagar-Dehradun train to run from July 18: BJP MP Anil Baluni - ThePrint** (ThePrint)
+- ! **Kotdwar gets Passport Seva Kendra to boost accessibility - Garhwal Post** (Garhwal Post)
+- ! **BJP MP Baluni plays Holi in 'ghost village', seek return of ex-residents - The Times of India** (The Times of India)
+- ! **Delhi Confidential: ‘Roots’ Cause - The Indian Express** (The Indian Express)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Uttarakhand: 7 relevant findings
@@ -96,11 +120,11 @@
 
 ## Qualitative Assessment
 
-Anil Baluni shows moderate transparency with a score of 51.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Anil Baluni shows moderate transparency with a score of 63.0/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 37,798,791. MPLADS utilization: 0.7%. Parliament attendance: 95.0%. Questions asked: 3. Debates participated: 2. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 37,798,791. Parliament attendance: 95.0%. Questions asked: 3. Debates participated: 2. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -140,7 +164,7 @@ No criminal cases declared. Declared assets: Rs 37,798,791. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -219,8 +243,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Anil Baluni's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.7%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -239,11 +261,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

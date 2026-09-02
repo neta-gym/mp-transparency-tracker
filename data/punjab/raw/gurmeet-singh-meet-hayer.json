@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5829.jpg"
   },
   "criminal_record": {
-    "total_cases": 2,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 2,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 37416362.0,
-    "liabilities": 0.0,
-    "net_worth": 37416362.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 30.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.71,
-    "expended": 4.45,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:42:30.810973Z",
-        "notes": "Official eSAKSHI REST API — Works: 318 recommended, 311 sanctioned, 117 completed"
+        "fetched_at": "2026-09-02T14:40:14.239684Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:36:34.616020Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:36:34.613104Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 318,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 30.272108843537417
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:23:01.691277Z",
+        "fetched_at": "2026-09-02T14:36:34.612009Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Punjab minister seeks apology from Sangrur MP for calling Bhagat Singh 'terrorist' - cityairnews.com",
+      "source": "cityairnews.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSk40UmNuWDV2YmxnQWs5N3RscHp0clBnVVBzME1sSVVXa1dMbmlLZDR1NTZQakl3aTk5QkhnTExPU3ZYUnNRcVFyNHlqNEgtY0tCcW5YTXNyNGg3V3l2YXdSV1BWR2lTR054V3lpcDM1a3hpNXJxSjZSTjJQWlpFcWpSQmFDN1VXdnNoNGdyaDZuS2xhQmF1ZW40Wm5fYXA3aFdTZ1ctYkhTS1lWQXJHLWtGTmdVWk0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sangrur MP Gurmeet Hayer elected unopposed as PCA secretary - The Tribune",
+      "source": "The Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXdIVTdFZXJyeGpiWkpTUkFKMTFBT0prSENxVjNjZTdTcGJjLWxfV1dZSm1RZThjdVY1ZUhWMlBwbVdPblJfNWZxd1N6U2h1anBWam1QM1k2ZFFzSW02eDJPVm5zbGtxTnpaandsWW4yV0ViMjFYd2w1VHdUaVFYcVRFOVZsYjJrenBnUTYxUW5qOVNhQnfSAZoBQVVfeXFMUHg4Tm1CVTFaNWxoTlduQnlOM0RxMjRpVjVCSnpwOHdzZzVxWHhVZUQ3bFNUVjljVWxweWZwYXpUR2xOejJSalFSOHhWcDUxZU02OHYwb21DZjRTWFNzM2FsUFRHMl94LVcyOXhNd1dCa0JFdkQ0UTVTVjh1Y05Hci1yQjNCVDBfTWRNRTVWWkVqaHo5WDMtMWFVZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Power corridor | Bill to raise number of SC judges in Lok Sabha - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcldKenhDamM1aEl5dFZDSTI4eXlWWlp5eTZha0gtY1BPSV9mWWVVYkluV3hPUUQtYlh0bGFLTTh3V01wZkxfNktJMlZ0aWkwdERuaDBpaWFUVHZfYTNMTThJT0F4b0p1SF9ITFRocVdGSE1nR3U2aUxOUEFnTFBXNUJYZ3NQR1pESllaWnI0OE0tZkZBYjZ6YnpsTy13dUg3ZEg4YTBZM3lwWENXZGo5bDRR0gG_AUFVX3lxTE94c1g2RkdhcUtIeVJvaURra1M3VWtoMk04M0VkYV9BSFg4OHZHQ1gxMXJ4a1UyMTE3Slp5M3pVS2VCdUk5bVVodlZnczZEWVMzTWZCWjY3ZDBwc0hzd1RrX0hqaUhSLVZvY2k2SWRlXzYzeEdwR2p3SzlFb0ttcGxZUzF5dVdoY0wyc2Z0LXZWc0d5bXhFN0t4bWJ5YTRXaGdNLWkzeXRDMFNlNFBlNFZpWGdpRW1EZ0Qycjd2eHp3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "AAP grabs mayoral posts in Barnala, Bathinda, Moga - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUllSekROWUx4UGxWVUVDYWVpdy1IazhaZ3R2U21oTVFhWlhreUdydjFOMDBDMGtuNEtqVXpLRUxPbkxEcFBpcE1wTUNXdFNtVVBXdXpBRVJOMzV1MU1iamFQcFlPdmdnNnBHZ29pZTU5ZDdySU5ybFpSbmQ1dHlOS1dpOVBlR2NJNUFPclZET3NtVXpyZE1vWkhQVzJwZWZIeFdzM1BhbGpKQTFTa2hsbzdBTlViNWlEZTV0QzcydGZhQXFV0gHKAUFVX3lxTE9Ub1BySHMzWHFyQlQ3bDBVQkQxQmQyUERIbExLQktwOHVQbkxYZkxpY2lKZm5JWmZsQVcwdWVMZ2lEVlpIcldjQW1uUmFqZ1hmTGZkYndKX3hOa3ZlM0hoOWI5Und6eHRIWnpwcUJKNmZiR1VFY2hodVJibXVTYjd0NzJDUE51VU94U3JOZEJ4OHBTbDJTeWFmNHFXMnJVLWg5Tk95UURjTzhqbDZDOGNxN0tuTTNMa0FjN1RBbFRSMkFlNE5lU1R4Vmc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "SC verdict on pedestrians’ rights vindicates concerns raised in Parliament: Sangrur AAP MP Hayer - The Tribune",
+      "source": "The Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQm9VV3pRN0tnVjJ3THFIZXFWTjl6cXpXcm0xY3MwSDV2SXVjbl9HRmtvRUVsOEx3c1h6ckViQjhTd09CLXBWa2xLbjBfTU93RWpVeXFZNjAwczNtNmNVTWkzTWM5MEdnSE9jUzFack83MHZxMm04czE4SEQzVElFbUMyci1VOUp3OVk2RW9INFVvS2w2Y3pFcmVLY0N2Z0ZtX3ZybEV4Y3FKczY5TjJuazlzTk4wWkhLVkV0SDktNldwbzV2Z0lzMEFEaFlMdHRK0gHUAUFVX3lxTE8zYkZQaVd3RGgyeDB4bXJJZS1lWGM2VU9iNU5jUF9kcmk3UVVJbUZhZlRZMmppRDVVSWJnMURxNzB6WnlFLTdYeXFiQWU2NHpSbmJwb2h5eGh1UndXTEd4eV85a0JKV3kxYnE1bk9LWXZEX002YXJsN0cyNDNhOWJKX0F3dXpFNmJxUUdueVdXVUR0ZmlybW0wdDRMNGlnNDh0RmhYaWIyMTAzSFJmQXpZcENia1VfZXZOQ3V2bzNJOEdOUFU5ZlZNYUpPWG9NZG1tQ19n?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:24:05.584013Z",
+  "collected_at": "2026-09-02T14:40:14.240810Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.590756Z",
+        "fetched_at": "2026-09-02T18:38:09.097107Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.590764Z",
+        "fetched_at": "2026-09-02T18:38:09.097117Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.590769Z",
+        "fetched_at": "2026-09-02T18:38:09.097153Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.590773Z",
+        "fetched_at": "2026-09-02T18:38:09.097160Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.590779Z",
+        "fetched_at": "2026-09-02T18:38:09.097167Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.590783Z",
+        "fetched_at": "2026-09-02T18:38:09.097171Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.590788Z",
+        "fetched_at": "2026-09-02T18:38:09.097176Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,24 +296,57 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "meet_hayer",
+        "url": "https://x.com/meet_hayer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "meet hayer",
+        "url": "https://facebook.com/meet hayer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "meet_hayer",
+        "url": "https://instagram.com/meet_hayer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:36:37.329759Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 1,
-    "neutral": 9,
+    "negative": 0,
+    "neutral": 10,
     "top_headlines": [
       {
-        "headline": "MP Meet Hayer dedicates renovated Sangrur museum to public - MSN",
-        "source": "MSN",
+        "headline": "Punjab minister seeks apology from Sangrur MP for calling Bhagat Singh 'terrorist' - cityairnews.com",
+        "source": "cityairnews.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNTko1NXV1eWJralA0VURKZ2ZBVW4xMElVb2VYekh0MGQwZ09JOUUwLXBSWjdXbXJmMFJ1eFAySkpkM3QyZG9vXy1WTEZVX05RU3IzLTAwVm5IZkw2Tk5sc3VxSjAtdWx0c2lHLWlzWEVXcjFOSk53U3ZWeFZyNDlZY3k0cTRmSWtJTEtPYWZocU1nUzk3WkhuYlJxWjYyb1lTUXd0ekU5QTEtZHVWeTM5UFhqczlzSlRqRkdEYkR5NkhQTThTNlVnSVFUN1lwQlJPSDZZQ1gzR2RhV0c2dHBXZVBPYWhVaVBaZUpBd0ZwNkF0UjlTR0htSnhid05SajlVNGZoMmlxYkd1a25aNVkxS21HMXVkdXpqaGF2UGU3UGJZUGhrOHAzdm1BTG9jRk1nVXFwZU1lS0Z5NkR5TmgxdXRYVTFjODRpNkliTjdUSWJVeUVFSTJWaTRFX2FvVFk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSk40UmNuWDV2YmxnQWs5N3RscHp0clBnVVBzME1sSVVXa1dMbmlLZDR1NTZQakl3aTk5QkhnTExPU3ZYUnNRcVFyNHlqNEgtY0tCcW5YTXNyNGg3V3l2YXdSV1BWR2lTR054V3lpcDM1a3hpNXJxSjZSTjJQWlpFcWpSQmFDN1VXdnNoNGdyaDZuS2xhQmF1ZW40Wm5fYXA3aFdTZ1ctYkhTS1lWQXJHLWtGTmdVWk0?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -265,32 +354,32 @@
         "source": "The Tribune",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXdIVTdFZXJyeGpiWkpTUkFKMTFBT0prSENxVjNjZTdTcGJjLWxfV1dZSm1RZThjdVY1ZUhWMlBwbVdPblJfNWZxd1N6U2h1anBWam1QM1k2ZFFzSW02eDJPVm5zbGtxTnpaandsWW4yV0ViMjFYd2w1VHdUaVFYcVRFOVZsYjJrenBnUTYxUW5qOVNhQnc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXdIVTdFZXJyeGpiWkpTUkFKMTFBT0prSENxVjNjZTdTcGJjLWxfV1dZSm1RZThjdVY1ZUhWMlBwbVdPblJfNWZxd1N6U2h1anBWam1QM1k2ZFFzSW02eDJPVm5zbGtxTnpaandsWW4yV0ViMjFYd2w1VHdUaVFYcVRFOVZsYjJrenBnUTYxUW5qOVNhQnfSAZoBQVVfeXFMUHg4Tm1CVTFaNWxoTlduQnlOM0RxMjRpVjVCSnpwOHdzZzVxWHhVZUQ3bFNUVjljVWxweWZwYXpUR2xOejJSalFSOHhWcDUxZU02OHYwb21DZjRTWFNzM2FsUFRHMl94LVcyOXhNd1dCa0JFdkQ0UTVTVjh1Y05Hci1yQjNCVDBfTWRNRTVWWkVqaHo5WDMtMWFVZw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Sangrur MP Hayer files papers for PCA secy post - The Times of India",
+        "headline": "Power corridor | Bill to raise number of SC judges in Lok Sabha - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcldKenhDamM1aEl5dFZDSTI4eXlWWlp5eTZha0gtY1BPSV9mWWVVYkluV3hPUUQtYlh0bGFLTTh3V01wZkxfNktJMlZ0aWkwdERuaDBpaWFUVHZfYTNMTThJT0F4b0p1SF9ITFRocVdGSE1nR3U2aUxOUEFnTFBXNUJYZ3NQR1pESllaWnI0OE0tZkZBYjZ6YnpsTy13dUg3ZEg4YTBZM3lwWENXZGo5bDRR0gG_AUFVX3lxTE94c1g2RkdhcUtIeVJvaURra1M3VWtoMk04M0VkYV9BSFg4OHZHQ1gxMXJ4a1UyMTE3Slp5M3pVS2VCdUk5bVVodlZnczZEWVMzTWZCWjY3ZDBwc0hzd1RrX0hqaUhSLVZvY2k2SWRlXzYzeEdwR2p3SzlFb0ttcGxZUzF5dVdoY0wyc2Z0LXZWc0d5bXhFN0t4bWJ5YTRXaGdNLWkzeXRDMFNlNFBlNFZpWGdpRW1EZ0Qycjd2eHp3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "AAP grabs mayoral posts in Barnala, Bathinda, Moga - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHFaN3hsWUI5RW5CV2tUb1V6dzlxRUY0dlprd2RxQlpYZ1JMZks5TGNxb1publlDM0haclJQYXNoQ000cjdRQXROR2c5QXBWWUxNdTFsTGtwcmlLRVlMbU1sRkt2OGNtMUtCdUZTRFhvYUpHMnVUcElPQ1lUZG1YYVk1RVBnazBlRHVoZnRVNVJrTnZKSTlJalQxeGIxaTA1eEVaSmFrMVFtazFLVE5ZeVNsUFN1Y3RYYXFfcGkxSFEyYVnSAcgBQVVfeXFMTm8yNGRNLTNrVmtzTk1NcE05ZkNHUTBMM1h5dE5ILXNYejdLSlFIZUg3UHQtWnd2T0w1cE4yVXFwVG9ObUpzZHQ3S1ZXSzJST0tVRkFZTDJQdktwaHVjcDRCLWdkRGI5Wkk5M1RoLXZJVGNEWHZITEw2blVIel9iUkVvMlBkRmk0T1A4MVdvN2lxTUNULWpZSllNUFVUSzh5VTFOdnI2QmlNS3dyRTYtb2dSems1SW16cS1Hdk40NzAwZDltZ0tkNlM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUllSekROWUx4UGxWVUVDYWVpdy1IazhaZ3R2U21oTVFhWlhreUdydjFOMDBDMGtuNEtqVXpLRUxPbkxEcFBpcE1wTUNXdFNtVVBXdXpBRVJOMzV1MU1iamFQcFlPdmdnNnBHZ29pZTU5ZDdySU5ybFpSbmQ1dHlOS1dpOVBlR2NJNUFPclZET3NtVXpyZE1vWkhQVzJwZWZIeFdzM1BhbGpKQTFTa2hsbzdBTlViNWlEZTV0QzcydGZhQXFV0gHKAUFVX3lxTE9Ub1BySHMzWHFyQlQ3bDBVQkQxQmQyUERIbExLQktwOHVQbkxYZkxpY2lKZm5JWmZsQVcwdWVMZ2lEVlpIcldjQW1uUmFqZ1hmTGZkYndKX3hOa3ZlM0hoOWI5Und6eHRIWnpwcUJKNmZiR1VFY2hodVJibXVTYjd0NzJDUE51VU94U3JOZEJ4OHBTbDJTeWFmNHFXMnJVLWg5Tk95UURjTzhqbDZDOGNxN0tuTTNMa0FjN1RBbFRSMkFlNE5lU1R4Vmc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Member Parliament Gurmeet Singh Meet Hayer dedicates District Museum Sangrur to the public - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "SC verdict on pedestrians’ rights vindicates concerns raised in Parliament: Sangrur AAP MP Hayer - The Tribune",
+        "source": "The Tribune",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZXRHeDNUbUJWVFMxdEpmdEZJV2V5dHVtREtGdFRoc3RiZ1oyWGhqbzMxSVNhNVUzTU5iVHAydTBlY2QwdDk5NkI2TkVlWkFvRGE3VUhBcFAtODRzblI3VXNQbW1yMXFxOG9ibkpCTGZ3dkFFaDFhSzN4eTMxbE1XNjFsU014ak9Ob3J0R0VidWhRbjA2dHd2eWJGSFRlWVNPOXdwSGVYSmVxWU8yMlU4NUUyZV94RnVCb2VCajN1Yi1qS2dMQW9tbzF4XzZtNUpxMDNWRUhXcE9KaGxhbXNCZHI1bnFqMURqYnEyVFJhM1NGSjQxYUtzUWF1VzROQ2IzN3lvbmY5NDRzVmVIRDJCRkdCVFJoRVU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQm9VV3pRN0tnVjJ3THFIZXFWTjl6cXpXcm0xY3MwSDV2SXVjbl9HRmtvRUVsOEx3c1h6ckViQjhTd09CLXBWa2xLbjBfTU93RWpVeXFZNjAwczNtNmNVTWkzTWM5MEdnSE9jUzFack83MHZxMm04czE4SEQzVElFbUMyci1VOUp3OVk2RW9INFVvS2w2Y3pFcmVLY0N2Z0ZtX3ZybEV4Y3FKczY5TjJuazlzTk4wWkhLVkV0SDktNldwbzV2Z0lzMEFEaFlMdHRK0gHUAUFVX3lxTE8zYkZQaVd3RGgyeDB4bXJJZS1lWGM2VU9iNU5jUF9kcmk3UVVJbUZhZlRZMmppRDVVSWJnMURxNzB6WnlFLTdYeXFiQWU2NHpSbmJwb2h5eGh1UndXTEd4eV85a0JKV3kxYnE1bk9LWXZEX002YXJsN0cyNDNhOWJKX0F3dXpFNmJxUUdueVdXVUR0ZmlybW0wdDRMNGlnNDh0RmhYaWIyMTAzSFJmQXpZcENia1VfZXZOQ3V2bzNJOEdOUFU5ZlZNYUpPWG9NZG1tQ19n?oc=5",
         "sentiment": "neutral"
-      },
-      {
-        "headline": "AAP MP Hayer writes to Dhankhar, seeks revocation of ban on student protest at PU - MSN",
-        "source": "MSN",
-        "severity": "medium",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPSmc3UHRLSVBZak4tczcxWC03ZHdfNW1aTkJlN0syQ0l4ZncyaFhnS3p0cV9KLWhsWDJPcDB5VTN6VnluSG1NS0E3T2F4RUxNcHd6eVk1QU8zb3NHZnZxaW5SZUd3a2YwUkVUWnJMUTVQYmZpeW5QNThJWDN5dG5lTVAyR3RzM0FjX194eUhydy00UjBvWkxGRHU4WDdkR21TbHpVX09iWmlwOGxkS05KVFZpLVFDLUxIT1lxMm8zTjFBVGtwYVRpUHhmTXlqVmt6LU9VQWhzZ2gxZTNqbXJTRENHZDd3OVplcW1NVjNoMlM0aHpxa3lfNjNEUEJCUW9lcGdlQnZNR3JTbWE2eGFZV0txUFdWZmZsM0pKZVcyeXV3dzhseTVxbHM5T1B5ZUh6WUFxYldxeHdySGU0b1hrMFBiTk5xRzJ2Yk1yOUFKWkkzby1pSlYyTzVtNnpHRlU?oc=5",
-        "sentiment": "negative"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -323,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 19,
+    "starred_questions": 5,
+    "unstarred_questions": 14,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 36.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

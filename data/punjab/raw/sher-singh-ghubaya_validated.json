@@ -4,16 +4,16 @@
     "constituency": "Firozpur",
     "state": "punjab",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 8940,
+    "myneta_candidate_id": null,
     "slug": "sher-singh-ghubaya",
     "house": "lok_sabha",
     "sansad_member_id": 4432,
     "profile_url": null,
     "canonical_name": "Sher Singh Ghubaya",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/4432.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Firozpur",
       "state": "punjab",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 8940,
+      "myneta_candidate_id": null,
       "slug": "sher-singh-ghubaya",
       "house": "lok_sabha",
       "sansad_member_id": 4432,
       "profile_url": null,
       "canonical_name": "Sher Singh Ghubaya",
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 61,
+      "age": null,
       "photo_url": "/mp-photos/4432.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:02.023772Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 91161885.0,
-      "liabilities": 4378380.0,
-      "net_worth": 86783505.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8940",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:51.425259Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 55.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.79,
-      "expended": 7.88,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:42:39.223956Z",
-          "notes": "Official eSAKSHI REST API — Works: 394 recommended, 394 sanctioned, 290 completed"
+          "fetched_at": "2026-09-02T14:37:08.243029Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:33:00.627168Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:33:00.624229Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 394,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 53.60544217687075
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:42.857962Z",
+          "fetched_at": "2026-09-02T14:33:00.622986Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Ferozepur MP Sher Singh Ghubaya joins Congress a day after quitting Akali Dal - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3ozMVF2MGJYR2VjZHRNbm5Ed09qWUw2UmwzelBoSVV2Q0NNd2cwbEN4M3Rya3gzcUtOTWtvd1FaVC1VQ2V4enZVZnY2Z25oazBkOHJia002NWUtMFdFbk9vUGNUSFV2VEdTOWFFRWlDdk5fVW52ZG5MZnNETFhuaUloc0ZpN2xCN0JfSXJjSTA3ZXJoNWtoX0lGQ3FTbHIxMHAzQWJJcXjSAa8BQVVfeXFMUEtrR0dubkRhZ3Z0U2NpZ2hQaDFaVDE3NVdsbS1xNEc3dWRpNWV5N0NWWE5vMmRQY29qa2tqU3ZjWDFyU1lXcGM2SzFEcVcxTUQ5SXBjWWhXRDJKWWcxMG96cnlMZ25fWkRuT2dSd3NOQldRc01PS3V4aDQ1aFQ2NzdTVVNUWjZRVTIwUjV1NEJUbWlVVExLV0g4VnhIWWg0QWJoTkdtOVF4dm9GZjZraw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Cong fields former MP Ghubaya from Ferozepur - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVFUwVEJkbHlFejdvejhxN214cy03WURPblA3OWhYR2J5cXM1MnFVbUxwT2FLdHkwdU1QTTZUS1hpSEMwT09FMWZSemdGaXoxX0poZ2R5cWdaaTctQUswNzl5TjNVM0ZaUXhxZWtLTFBGbTVoT2NNYzl2S0dySGYwdmpPYjAtdVhTUndpcS1FYmxEUkpOYkJfMTdvMXpWT09Kc29MMXRhRzY0R2FZcWxkTTU1ZkRWVUlQMlBvMXFneHdVUEJUZmdXc0haVFBvdVZNZmlB0gHYAUFVX3lxTE03aEc3MDJRc1BQQld2NElnWlF3dmtUaEdxdDlHQmsza05mamZFTE4xRzJ0U2pMUlhEdTJwSDZqS0MtU1QwWGZ3WFgyeTZzY1hOX0htX1RnaEY4dVZiYVpCdnRabFQ3X3E2ZGxlWjlnNWNVaU5NM1M4Yl9VSkFIcFdTNG8yMmhiM3g3Y1lPc2h3NFBWRHlfc0d2Z3hocHZ4aThOOE1KTmFJRUhURmxYbGJZazRCa3Ixc2hoU0VPeTJOVHZnM1Rndi02MVA5VEhxdklSOXZhd2tyYQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Firozpur Lok Sabha Constituency: Quadruple battle on the cards with Nardev Singh Bobby, Jagdeep Singh Brar, Sher Singh Ghubaya and Rana Gurmit Singh in the fray - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOM2FTTmxwWV9GNnlBNXNMS3NtWGtqejV6RmZrWU1yWFZoQ2ZaYjBzZnZQbE14Y1RHaVlUUXhSa3pTeC1tQjhNSkkycS14MGFCZmVqMW9KbWJYLW8tZHFaTTROVjRzN1hUQ2gzVkE2bFlhazhqUmY3Rm1CTTBnZGxjd25zT0pLQUhlUEQyOFMzMjNqaHQ1UlpEeV9yZzJicTFWSXNVb0FHV040ckxvQUNYdFBZNjNzQ0J5YVhUdG5iSTExVE1Vb2xVd0Utc0ZvdXJ5VnJzRDlaNHZHdDZZSElleWhQdWlIQ21wLUtaUmVvM2p1NUdXa0Z5OEhFVkd2a3lMV1RGUVliamtDLTNPQ2FaYWROOXRNb1pocHp2bDBOQmRjWmtNMWM2dzl30gGwAkFVX3lxTE5WRVB4QTlYa0VjYXZUMVZHeWRVYXdCMHpxOFpwcDNMWV8yeGstcjJGTHl4QXFiMmZPZ19jWHpqRGsxUjVXUndZNGNCRVo1QjdGYnJ2c2ZGZGFHS0l5NnY4R3BtVm1OMmpfd21aS0JzSXFpLU9jelVBSDVVWlUwRmhEdkdMQ0x1a0pFTkFqMV9CSTRxdFZXcnpuY2Jyd004WnFVN3FzVEppWjJHNWpfcnlLWXlRQ3FRN3F2aFhRRF9LR1IzSVJZZGZWSW1JQ0VxQjhMTTUxemhqNHpDeXVsbVBpemlNNWs1dWRham1nUXRSUmZPTWtLN2xfcC1FQVVpYkRWTUxOb25lTG5COWFjc0RHOXdSX3dGaWdabGJxQnR5Y0ZJYWFWcldQNFNrd0VwSkc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Akali Dal bids ‘good riddance’ as Ferozepur MP Sher Singh Ghubaya resigns from party | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSkhBc0J2R2RWVW80bDdQMEtKeW1CZzE4MFhHempCRHJEOWVuVmFUTUxsWkxIVVVXTWx3bHEwZ1NtdE45TmEzZFpuWE1tdWx1MFB6VC10dG1fcTVaNEZrSFBxWFU3QkxDeTZPakE5eno3d2EyU2FOMDdoQ1J5am5zUzE4WVhRZjVDbDBlSUdIVzZXNm92OTFGQnFmdWNJY1pRdzQwQUQ4X0w5Nng3MnBHRjdjY1RHODNBVzVnS2ZZVUxmRFo5UXNiZjkzamRLYU10cjRzRFpHZVRMRXpRdE1sWWVkcFczWGpvM1VWR2VrUdIB9AFBVV95cUxNcEdMMzdiZV9FaVNnWWd4OWh6MzVLZmd3Q0NaXzhZUUhKVXF1WUt2MFc3M2hGcDhpa2xVeVFNZEstNV8yR2N6RGlVeUNhMnJOS05jYThKQkVGenQ3TEY5ejRycDlBaVNaWVRNYkUzT3R1eHpMa3VtbjltQnVwYXY3MS1wUXFHWnNmWlBKUVRfUEljTUFaVVc3VkQyZXg2RFRrU0xCOTQwVmxVb3RZMjJ4TkZRMDRsMVpIZTU2OTRLX0pMT2RDNl9GYmQ2Tl9qMjdRcy1lb21zTF9maXFjckNPM3dnSHprRVhVRlNOT2hWc2hoNlVn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "LS MP Sher Singh Ghubaya joins Congress - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZm1sRjVmdWZJeG0wS2NfRE04SDdMY1dJN05NcnJ5MTIzX2NidlBiVmtCWE1ab3UwMjJwQUdUekpDUjVEOHh2M3lNd2NsUTdBTkplWDg4LTdVUzRNbWRYeThNWjZwS0pIOW5vS3RfblBvTWw5MjMza2pXSUlSRUZrSW8wZ3prRWsxdEo2VjJyeFJfSk5jaVkyRm1IbmtmMWdW?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:46.878707Z",
+    "collected_at": "2026-09-02T14:37:08.244393Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.715951Z",
+          "fetched_at": "2026-09-02T18:38:09.226750Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.715961Z",
+          "fetched_at": "2026-09-02T18:38:09.226763Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.715966Z",
+          "fetched_at": "2026-09-02T18:38:09.226769Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.715971Z",
+          "fetched_at": "2026-09-02T18:38:09.226774Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.715977Z",
+          "fetched_at": "2026-09-02T18:38:09.226780Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.715981Z",
+          "fetched_at": "2026-09-02T18:38:09.226790Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.715986Z",
+          "fetched_at": "2026-09-02T18:38:09.226795Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,14 +335,6 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Firozpur election results 2024 live updates:Congress' Sher Singh Ghubaya wins - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPZDJYUVpwS0VzTGdsOG14T3k3VlBLV3pRckRIT1hpSXVXRjVvWG9vb0hidFRscHBmXzcwbk5TcDJUVDA5U3lEbVhhZF9NWmpocGoySHo1U3pSOGNKRFd6cS1hZ3FqSktKc2kydm5wVlNIaWVCRUZCYzl4RHNENVVEWUFROUZld3J1Vks4U2tjVDVTQWVZN2VyVkV6SUVxbTBJVDJQMC03NGhOZ2FaWW44VTVRejR2TkZpdjFsc0UxMmFLNEgyY0JoQnRTNC11VVkwenRrcEJfSC1oMVBwck0xMlk2Q0hGb2VMZE0yelJ1V0FCalQxZEZYaFJLRWtxVl9aVV8tcm9Mek1aWUJhbWJ1RmI2NUhxMjEwZ0ZBVTU1c3hYMTl4Uzc5Xzc3SXVURDl2RVRGaVNORFVKQmZBSURwRkN4a1FfVnNkamNTWkxienFfVzjSAdgCQVVfeXFMTllzaUNiaU1jdWhWakVGRkpHTjNNQnJJRmthQU1HLUVYdTdlVmJrZG03RXBZTmhvVnlOYmo0clFkd0xyeFYtVXJzWHFCb3FhR1RFckt1czVhN3Fka2p2bmVCVVByR2tpaUVKSm93d2o2Z0pqclhVWk1VSmFmVHJGeVhuaS00MV9qbTI1SXN5OG9VWEtndTg0Z2VBdEZNNHJIb21kV0hxUUxEYURHempUZ3BSZ1Y5TFItMHJselhpSnhRMXU0c0FrdlVDWFJfb1NxZTZqQ0NaM2hmQkgtSTV5eXROdzNMc0U5MGp3M2JaSDROYlNiMXB5QXJVSFNqR1FfZUdlalFMRFhDakFXbnZTY0VEVXlLR1c5U0xMVW5yVDcxWkN1QTBzYXY3RDdsMmx6eFFfc29pbzR1LWY2RzBhZ2lNWFJWbkNVcDVKbng1VHY5TkJlTDByemM?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Ferozepur MP Sher Singh Ghubaya joins Congress a day after quitting Akali Dal - The Hindu",
           "source": "The Hindu",
           "severity": "low",
@@ -298,27 +343,35 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Congress fields ex-MP Sher Singh Ghubaya from Ferozepur | Hindustan Times - Hindustan Times",
-          "source": "Hindustan Times",
+          "headline": "Cong fields former MP Ghubaya from Ferozepur - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdjdaNzluZ1JPeUNYUjAtU0FVVGwyOEZfd2hPdDdOOGtPUXdpdmtQVHotZEt0dFFZVXNCWlpMQ2x5SDkxX0pHUUpUalc2Z3JURFBMNW9YQnFVaFBCWWVqOF9rSzJsVTlNUEVTZk9oYzBQd1VDZ05oSml6UU9jYTJucWpWc0o4QUtKWmRZTkhjNmZ2WmlDOU5oZ2pUaEVqOGd4QTU0UGc1T0FiekZqNXNoMkI5M3RVOWs3bS1OakNhZm1FUXVVSlRKN0lB0gHPAUFVX3lxTE9WR1o0Z29oWnlQMFF3SWpUdVRnak90R0pSVVl2UG1vbmFOeE9uZi1BdDdEN21IbEFtak0yamZnSWF5cG53aXdVM3BacGtRVVV4d1JBT2JnSWxSaThsYUNJVXlUN1N3ZklTOHhHWkNSc2RHMFBielZFRWhXT3VfQ0hQUkxLdVNlRmZNWEZzcHZSRUhRSFUtTjNJd3U2V20xR2haYmgtTkJOY21iNzZ4U3M1bktZY2ZLRW10Q0RfUGRuZHFqbFY1VWFjUklqM3NQVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVFUwVEJkbHlFejdvejhxN214cy03WURPblA3OWhYR2J5cXM1MnFVbUxwT2FLdHkwdU1QTTZUS1hpSEMwT09FMWZSemdGaXoxX0poZ2R5cWdaaTctQUswNzl5TjNVM0ZaUXhxZWtLTFBGbTVoT2NNYzl2S0dySGYwdmpPYjAtdVhTUndpcS1FYmxEUkpOYkJfMTdvMXpWT09Kc29MMXRhRzY0R2FZcWxkTTU1ZkRWVUlQMlBvMXFneHdVUEJUZmdXc0haVFBvdVZNZmlB0gHYAUFVX3lxTE03aEc3MDJRc1BQQld2NElnWlF3dmtUaEdxdDlHQmsza05mamZFTE4xRzJ0U2pMUlhEdTJwSDZqS0MtU1QwWGZ3WFgyeTZzY1hOX0htX1RnaEY4dVZiYVpCdnRabFQ3X3E2ZGxlWjlnNWNVaU5NM1M4Yl9VSkFIcFdTNG8yMmhiM3g3Y1lPc2h3NFBWRHlfc0d2Z3hocHZ4aThOOE1KTmFJRUhURmxYbGJZazRCa3Ixc2hoU0VPeTJOVHZnM1Rndi02MVA5VEhxdklSOXZhd2tyYQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Congress fields Sher Singh Ghubaya from Punjab’s Ferozepur Lok Sabha seat - The Indian Express",
+          "headline": "Firozpur Lok Sabha Constituency: Quadruple battle on the cards with Nardev Singh Bobby, Jagdeep Singh Brar, Sher Singh Ghubaya and Rana Gurmit Singh in the fray - The Indian Express",
           "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2xJZFhFUXJLZkJUWFVLUUxpTXVwN3o3Ul9MQ2swWTk4MWY5SndPNXEycHpNRk9OVVNaLWhhOE92d2Fzc21ydW9UMWVVWVNFdW5fbi05SkVCV3lGWnVlYkpGMnhnVkd2Y3lsMHc3Zzh3YW8tdnA2c2Ftb09iYkNTdjR2T3R5cDd2VFVSdFFsOHN6LVF2SFV5Ul9LVERLRjBuRUtRalJoTlpQci1fN2lJ0gG2AUFVX3lxTE5qS1pIb2dianVJUTNtb2VycEo3OFZLdlBqMkdGS2xMdHdJVllhUThKbHNBSjM1REFlbUhVTEN3OW9SYU1qb1U5R2xsSWVSX0xRWFd4VG8xd0lqbVNTYUt4cEwyb043ampsVFByb29vVGhlSXZKb2ZMVHBNZUhOV3ExU213VFgzaFRJYWRWVVNzR3cwWGFMRjFnZVQyX1pLcHdVcVNMLWlLVmcweWZDdHRFcUZ2ZFBB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOM2FTTmxwWV9GNnlBNXNMS3NtWGtqejV6RmZrWU1yWFZoQ2ZaYjBzZnZQbE14Y1RHaVlUUXhSa3pTeC1tQjhNSkkycS14MGFCZmVqMW9KbWJYLW8tZHFaTTROVjRzN1hUQ2gzVkE2bFlhazhqUmY3Rm1CTTBnZGxjd25zT0pLQUhlUEQyOFMzMjNqaHQ1UlpEeV9yZzJicTFWSXNVb0FHV040ckxvQUNYdFBZNjNzQ0J5YVhUdG5iSTExVE1Vb2xVd0Utc0ZvdXJ5VnJzRDlaNHZHdDZZSElleWhQdWlIQ21wLUtaUmVvM2p1NUdXa0Z5OEhFVkd2a3lMV1RGUVliamtDLTNPQ2FaYWROOXRNb1pocHp2bDBOQmRjWmtNMWM2dzl30gGwAkFVX3lxTE5WRVB4QTlYa0VjYXZUMVZHeWRVYXdCMHpxOFpwcDNMWV8yeGstcjJGTHl4QXFiMmZPZ19jWHpqRGsxUjVXUndZNGNCRVo1QjdGYnJ2c2ZGZGFHS0l5NnY4R3BtVm1OMmpfd21aS0JzSXFpLU9jelVBSDVVWlUwRmhEdkdMQ0x1a0pFTkFqMV9CSTRxdFZXcnpuY2Jyd004WnFVN3FzVEppWjJHNWpfcnlLWXlRQ3FRN3F2aFhRRF9LR1IzSVJZZGZWSW1JQ0VxQjhMTTUxemhqNHpDeXVsbVBpemlNNWs1dWRham1nUXRSUmZPTWtLN2xfcC1FQVVpYkRWTUxOb25lTG5COWFjc0RHOXdSX3dGaWdabGJxQnR5Y0ZJYWFWcldQNFNrd0VwSkc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Firozpur lok sabha election results 2024: Firozpur Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "Akali Dal bids ‘good riddance’ as Ferozepur MP Sher Singh Ghubaya resigns from party | Hindustan Times - Hindustan Times",
+          "source": "Hindustan Times",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRXJxdkx3cjU4bk5neEVaamlNNF9qUnAtU2NkRVRWc2U2Yy1XYjZMb2ZlWW9HejlYeDJQRWVyV1FkWGI5MTgybEtaaFNwWnRpMzk0aGhPZi1sSFN4bFVzLTJfVGpoN045bXNlV2phcTVqR2hhRVZ4THEwOG5EMDVvS3dBUnQ0clpCYlU5X2pOdzA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSkhBc0J2R2RWVW80bDdQMEtKeW1CZzE4MFhHempCRHJEOWVuVmFUTUxsWkxIVVVXTWx3bHEwZ1NtdE45TmEzZFpuWE1tdWx1MFB6VC10dG1fcTVaNEZrSFBxWFU3QkxDeTZPakE5eno3d2EyU2FOMDdoQ1J5am5zUzE4WVhRZjVDbDBlSUdIVzZXNm92OTFGQnFmdWNJY1pRdzQwQUQ4X0w5Nng3MnBHRjdjY1RHODNBVzVnS2ZZVUxmRFo5UXNiZjkzamRLYU10cjRzRFpHZVRMRXpRdE1sWWVkcFczWGpvM1VWR2VrUdIB9AFBVV95cUxNcEdMMzdiZV9FaVNnWWd4OWh6MzVLZmd3Q0NaXzhZUUhKVXF1WUt2MFc3M2hGcDhpa2xVeVFNZEstNV8yR2N6RGlVeUNhMnJOS05jYThKQkVGenQ3TEY5ejRycDlBaVNaWVRNYkUzT3R1eHpMa3VtbjltQnVwYXY3MS1wUXFHWnNmWlBKUVRfUEljTUFaVVc3VkQyZXg2RFRrU0xCOTQwVmxVb3RZMjJ4TkZRMDRsMVpIZTU2OTRLX0pMT2RDNl9GYmQ2Tl9qMjdRcy1lb21zTF9maXFjckNPM3dnSHprRVhVRlNOT2hWc2hoNlVn?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "LS MP Sher Singh Ghubaya joins Congress - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZm1sRjVmdWZJeG0wS2NfRE04SDdMY1dJN05NcnJ5MTIzX2NidlBiVmtCWE1ab3UwMjJwQUdUekpDUjVEOHh2M3lNd2NsUTdBTkplWDg4LTdVUzRNbWRYeThNWjZwS0pIOW5vS3RfblBvTWw5MjMza2pXSUlSRUZrSW8wZ3prRWsxdEo2VjJyeFJfSk5jaVkyRm1IbmtmMWdW?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 10,
+      "starred_questions": 3,
+      "unstarred_questions": 7,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 19.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Punjab: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 91,161,885. MPLADS utilization: 53.6%. Parliament attendance: 85.0%. Questions asked: 10. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:51.716788Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 10. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.227566Z"
 }

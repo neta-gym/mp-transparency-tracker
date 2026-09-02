@@ -4,16 +4,16 @@
     "constituency": "Nandurbar",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 6007,
+    "myneta_candidate_id": null,
     "slug": "gowaal-kagada-padavi",
     "house": "lok_sabha",
     "sansad_member_id": 5760,
     "profile_url": null,
     "canonical_name": "Gowaal Kagada Padavi",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 31,
+    "age": null,
     "photo_url": "/mp-photos/5760.jpg"
   },
   "criminal_record": {
@@ -24,59 +24,73 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:15.245715Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 70170431.0,
-    "liabilities": 7817614.0,
-    "net_worth": 62352817.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6007",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.742150Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 48.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.78,
-    "released": 14.78,
-    "sanctioned": 6.12,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
     "expended": null,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:30:05.327585Z",
-        "notes": "Official eSAKSHI REST API — Works: 279 recommended, 228 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T15:13:53.673169Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:10:09.053473Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:10:09.050271Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 279,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
     "utilization_rate": null
   },
   "parliament_activity": {
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:32:35.914419Z",
+        "fetched_at": "2026-09-02T15:10:09.049036Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Nandurbar (ST) election results 2024 live updates: Cong's Adv Gowaal Kagada Padavi wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNM3RGN1UyU0d6aDJiTVBqb0pQYWM5YlRPQzJUU21KVjNfaWJEeG9YU2paV0lrVTlJWE1pWjFGREwtNURWZm91dTdSUjhuSXd0ZmtlMEhMdVk3aE92cEhaY0pWZ3VvOXBFU21RSE94SmRwQm5WSU04Q2g1RnhMZENUb1R3TGl4TGJrX3pVcDhEYlBjbXFXV3hKM00zdThyRGFxM0NNd1g2RkMzYW9Rc0k3N1FuSGp3UE5Pa1VIaVJuZFdZakRYeWg5UW1iYkJ6dUtRWW96aURnTFRDSjJWTm5uTlM0OE1iRHlLdi1UZU51V0dNSHRWc2JhZWxfN0VaSkxwM1lqSGtqekhSYjFxZ2pNUjBBMHozTlJ1TEVZMzl3RWJld2h0ZHE5NENmYUhuVF9RbXo1X0ZPaHRGSHRvaFVBRl930gHHAkFVX3lxTFBUdElXbTFqRFlIS1NOQlRtWF8tV0Mzdi13YXhlbm1Bb2hGQTdYNEFVcEl0UFNpOWxMM1I5a3lENW5WLTBWSEIyVEVaOEpWT0p5VVd3RzljNkx0OGY5R253Mll2c2pRbzE5YVFMa0FqNS1qdjZMSjlzMVVLQm82ejVINFlPRGdEeDh4c1U4dDRvZWhuN1h1REdCalZoRUwyRzVRTENpd0hLQThiVjZtOGlLRWgwcjI4c0lCcWdralRWeTZieE9MWFgxQUViTEdtcHdTbTZSNFdRaWhYbG9wYldMdmkteVR6VHlQWDdUT2NvWGMwbWh3RDJ6SHZ4QVlRc3RLU1JfVHhhb1ViU2hVWmJkTXZWcGRkNE9SS29ETHEyR0t3OU1NeWZ1eTU1U01FRlBheFAxM2xIMHBQMlppVDR2ZkJmZ3FDWQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Adv Gowaal Kagada Padavi , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - thehindu.com",
+      "source": "thehindu.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHJlci1fZk54OTJCcWQ4dmxDOHNzYzBlUDE3TjFnVWFCdHNpdU1PdFBGeTFMSDZNYUkyeEZhWmZDMi1TWHphcU5wWHp2WE5BQkE4Ry02TnRJZk1ETDlKenlMUjVSZXdOcnZleVJyY2pSMWlmY3pEN1NmOFprNm5qQXRqeUVZUnlPMTB4bUtwUFlBSGM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP for inclusion of Ladakh in 6th Schedule - Daily Excelsior",
+      "source": "Daily Excelsior",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4R1hSbXpSMmJ2REJiZ2kyN1RCVEc1UkkxNFZ5b0tvQ3M3blVVUG9DMk1wTVZNUjRaSkJYN2pWVzVkbExrX2NydXhrUG1RNElmMlUxSENWLU00RXl4VXNqa1A0cHdYNGdCOXFkWEJ6MXVUNGluWHpvQlE4Y0Z5UWvSAYMBQVVfeXFMT29aaGNmTmVSTVFuVEc4aUo5QVlvcDhXWHo4eU81MWJSUFMySm1rSnNhQWZSbTR4OFFHMzlfVGtOeDVzT3pGcU5lVHBWNmlrVHBFMHJZS3Q5UllkQzEwdlpUdU8wb2ZDTFFENDhITnR6ajRsWVA3Vng1VGh5VlU1amVYZ2s?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nandurbar Election Result 2024 LIVE Updates Highlights: Adv Gowaal Kagada Padavi of INC Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRkNySjdnSWlJeXhXQ01NWmRUYlBTXy1EUHJ5MXlCbzEzeDFGbzBGT3N5LVhES2didnlGTG13UTktY2t1SjlRR1loblhQeWwycGVyZl9yYWt3R2N3N3RRelM0V3kyemNLdml0a0dRWGRNZjJucTlLeWdYcDdBVzg0ZURuRjRpcE1ZcHowZ3oyZjhjR3pNSmJDckNFcXBScjM2RWpDSVRpZU5jSnRJR0pHMW5BZW5iR2o4cnhHSUZLZEhHZWdaajVoeXlkTFIwbHcwXzhyTFhDZGNwM3FucnVCZmFXZ3bSAeoBQVVfeXFMTWVGZThxOVhsMlZ2aGFlQkMwcVVFU2U2RkhiamFiTkp1RGhMRUllV0xzV2dxcDJScjdubW5QYk5sUXhTTjFJcTdqa2ZKMWo4R0I1UktwcUZZUnJIS2cyNVZDcnA5N0w3bmZDM1ltSllqdTFzX24zN29mb0VtNW9QS2w5S0RLMFNFeXY0ZGswaERHVWxLTDlyNHFfT0daN3BHOEU3cEhJaHAxX0lySEVLcnRzcmZvSk9QLWJMaGcxS1ZUQWlKNGItZjRFdUtIdDdDYkhkTldqVTJCVmpHRmdfOE51WkhycElnZUJn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:33:28.105355Z",
+  "collected_at": "2026-09-02T15:13:53.674256Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.401111Z",
+        "fetched_at": "2026-09-02T18:38:07.958191Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.401120Z",
+        "fetched_at": "2026-09-02T18:38:07.958204Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.401125Z",
+        "fetched_at": "2026-09-02T18:38:07.958210Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.401129Z",
+        "fetched_at": "2026-09-02T18:38:07.958216Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.401135Z",
+        "fetched_at": "2026-09-02T18:38:07.958222Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.401139Z",
+        "fetched_at": "2026-09-02T18:38:07.958227Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.401143Z",
+        "fetched_at": "2026-09-02T18:38:07.958232Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,28 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/GowaalKPadavi/",
+        "url": "https://facebook.com/https://www.facebook.com/GowaalKPadavi/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:10:14.976141Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 9,
@@ -264,19 +334,27 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Nandurbar (ST) Maharashtra Indian National Congress - The Times of India",
+        "headline": "Nandurbar (ST) election results 2024 live updates: Cong's Adv Gowaal Kagada Padavi wins - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONW9TUnhYSFNkU0xndmRXMzVIOFlxRENHa09xeVJQenJUelFjMi1VQ3I1M3AzUjFId09YeWxoa05KWXV4RnN2bzIxNXRSdDZ4WU13NlFENXNpZ2hMTlFDZVNnMkdGVmtuUW5KVUNuN1gxVjlDQzlPem8wcnpNNUpfdHhya3ZFVl9aMklhR01VWkN5c2tJMElRS0RiR0x0VnpaRER0LXpCZHlWenhUdXFmRG9UcXVHbDdWbEsySFhPUDlScnZtaXc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNM3RGN1UyU0d6aDJiTVBqb0pQYWM5YlRPQzJUU21KVjNfaWJEeG9YU2paV0lrVTlJWE1pWjFGREwtNURWZm91dTdSUjhuSXd0ZmtlMEhMdVk3aE92cEhaY0pWZ3VvOXBFU21RSE94SmRwQm5WSU04Q2g1RnhMZENUb1R3TGl4TGJrX3pVcDhEYlBjbXFXV3hKM00zdThyRGFxM0NNd1g2RkMzYW9Rc0k3N1FuSGp3UE5Pa1VIaVJuZFdZakRYeWg5UW1iYkJ6dUtRWW96aURnTFRDSjJWTm5uTlM0OE1iRHlLdi1UZU51V0dNSHRWc2JhZWxfN0VaSkxwM1lqSGtqekhSYjFxZ2pNUjBBMHozTlJ1TEVZMzl3RWJld2h0ZHE5NENmYUhuVF9RbXo1X0ZPaHRGSHRvaFVBRl930gHHAkFVX3lxTFBUdElXbTFqRFlIS1NOQlRtWF8tV0Mzdi13YXhlbm1Bb2hGQTdYNEFVcEl0UFNpOWxMM1I5a3lENW5WLTBWSEIyVEVaOEpWT0p5VVd3RzljNkx0OGY5R253Mll2c2pRbzE5YVFMa0FqNS1qdjZMSjlzMVVLQm82ejVINFlPRGdEeDh4c1U4dDRvZWhuN1h1REdCalZoRUwyRzVRTENpd0hLQThiVjZtOGlLRWgwcjI4c0lCcWdralRWeTZieE9MWFgxQUViTEdtcHdTbTZSNFdRaWhYbG9wYldMdmkteVR6VHlQWDdUT2NvWGMwbWh3RDJ6SHZ4QVlRc3RLU1JfVHhhb1ViU2hVWmJkTXZWcGRkNE9SS29ETHEyR0t3OU1NeWZ1eTU1U01FRlBheFAxM2xIMHBQMlppVDR2ZkJmZ3FDWQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Nandurbar lok sabha election results 2024: Nandurbar Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Adv Gowaal Kagada Padavi , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - thehindu.com",
+        "source": "thehindu.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTGxiTXB6eGJ2bHNZTVcydmw1R0lzVUZ4YzdWZzROcnRRV3NtVzZQVjRoZDZSNTV0dWc1c013am8yZmVaMDB0Qk14dU1wcjF1ZkdfUXhreGFnbTMtclAwcXRaRDN5LUtXZ2Nxbk9vVllSTWY1X1dNLXYxTlZRYmEtb3AyaTNlLXdJVU1tUjBjTHFkYUxEcm9Mcg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHJlci1fZk54OTJCcWQ4dmxDOHNzYzBlUDE3TjFnVWFCdHNpdU1PdFBGeTFMSDZNYUkyeEZhWmZDMi1TWHphcU5wWHp2WE5BQkE4Ry02TnRJZk1ETDlKenlMUjVSZXdOcnZleVJyY2pSMWlmY3pEN1NmOFprNm5qQXRqeUVZUnlPMTB4bUtwUFlBSGM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP for inclusion of Ladakh in 6th Schedule - Daily Excelsior",
+        "source": "Daily Excelsior",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4R1hSbXpSMmJ2REJiZ2kyN1RCVEc1UkkxNFZ5b0tvQ3M3blVVUG9DMk1wTVZNUjRaSkJYN2pWVzVkbExrX2NydXhrUG1RNElmMlUxSENWLU00RXl4VXNqa1A0cHdYNGdCOXFkWEJ6MXVUNGluWHpvQlE4Y0Z5UWvSAYMBQVVfeXFMT29aaGNmTmVSTVFuVEc4aUo5QVlvcDhXWHo4eU81MWJSUFMySm1rSnNhQWZSbTR4OFFHMzlfVGtOeDVzT3pGcU5lVHBWNmlrVHBFMHJZS3Q5UllkQzEwdlpUdU8wb2ZDTFFENDhITnR6ajRsWVA3Vng1VGh5VlU1amVYZ2s?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -288,19 +366,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Opposition leaders push back against Trans Bill 2026 - Queerbeat",
-        "source": "Queerbeat",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3NHYXF0MkRwcUdNSmNBTkFvNjlUaWhLWENCcXBxZEhKeVRFb2pqcnZFM1Q1bzlCVEtObUVMWklLMU10T09Jdlk1MWJVSFpEbUZ5U0pTbVRxd3dBNDA5cmM2Z2dLNjdNc2xyaTJYaW1ZdmpxcGl1OERJa3VSTnBjVkFzNVUyLTRlbU80OV9KUzg?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "IN PHOTOS: Newly elected Lok Sabha MP`s take oath - Mid-day",
-        "source": "Mid-day",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeTBlQk9aSHMzRzRHblBCcTF3Q29ieVBYVjFmLXRhVzdOUjY0UzdaaDc0bUU0NzRzQm9yQW1PWDMxU1BfZm96V2tyTGk3a2FoOEdQeDBuMHF6TWdpZWQ1MGpudXpaVVhOR01JYWlYQjVleEg0QU9FTjJGOG9ZRVdVREYtb3E2bzZ6NC1lTkNQazV1b3pwZzE2VXBuWjdaeTVuYURpQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +404,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 17,
+    "starred_questions": 5,
+    "unstarred_questions": 12,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 33.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +420,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,16 +4,16 @@
     "constituency": "Jhunjhunu",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 444,
+    "myneta_candidate_id": null,
     "slug": "brijendra-singh-ola",
     "house": "lok_sabha",
     "sansad_member_id": 5720,
     "profile_url": null,
     "canonical_name": "Brijendra Singh Ola",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 72,
+    "age": null,
     "photo_url": "/mp-photos/5720.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:08.034911Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 160284000.0,
-    "liabilities": 32710000.0,
-    "net_worth": 127574000.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=444",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.587062Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 67.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.16,
-    "expended": 5.23,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:44:48.876878Z",
-        "notes": "Official eSAKSHI REST API — Works: 155 recommended, 143 sanctioned, 73 completed"
+        "fetched_at": "2026-09-02T14:46:42.644143Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:42:58.007728Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:42:58.005800Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 155,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 35.57823129251701
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:13.444246Z",
+        "fetched_at": "2026-09-02T14:42:58.004952Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP accuses three Rajasthan Congress MPs of spending MPLADS funds in Haryana, they say it's within rules - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ210bDhMV2x6SmczVm9GTlU3a3lSYUJrY3Q5VkNnR2dQYy1DQ2hPM2RIcllDRnV0TmxxZ0lPY0ZjcTN3Q2hQazNCaWNUY1otYzl4MmQ0WlJCbHRxZHdCR2pqTFI5Zjg1VTgtOFZHbk1jamJqakNSWHZhX2ZSTDBTMm5ENjhKb0ZLaUk1cE9rYjY5YndOcG5wdS1LVXZ6dTZfZEM4UjRmLUM3NXFLNHBjT1dRZC12dm5xNFhTXzl6Mk5LanVibGtJZGg4TWVGOFR6eXlOLXgyRlY1dG5yUUdiU0ZKTXZRT3JU0gH2AUFVX3lxTE5KWngzakxMLVhxSnBDdWhIZEk3N2s4Xy1uUFhMQ3RrZ0FRcjFfRDZfRXpuTmNnTDI0akRwM1djOEFTd3hkcnRNQnhwVWNHUE9hZWhwTHJfOFUyZE9xdW11UU4tdjBLYkpzVXAtc2tBSFFfZ1pKdllXc1lNZ01yTnk4UHp1TkpJNlBja3ZMN285WHpzQ3Z5bi1LampRRE1vMUhSbW9DRkhjek1QcWFUMEhrSW9xUWFXN3lrU0tkb0hLWmlzMUpOZWZEd0hTbDluX3Y5SHNLYUV5ZnF5OVI3MGswRUZ0cEZacE5RWkFEZW02Vzd2a0gyQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jhunjhunu election results 2024: Congress's Brijendra Singh Ola defeats BJP's Shubhkaran Choudhary to sec - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOeWdZaXdLaG5TN0hnWURnVDRGOG82RUhQSGI0MHlrZTJNSGc5eUVEUF9PYVFiTDJqRnhHRHhOTDU1ZmM4d2ZwNGxIUWJqLV9nZ3Z1T095SnJGLTNub0w4aDdtZWctZ1p5Qi1GZVA1dXRPVkIxbzZoVXJVaW0tQ3R6RUw1YXVjYURrUDdvQmRkSllhNmpXOUJ6bmNtbWU4dl9FNkVsMWhtZ0lXaFUySm5LMzVFaTJwa1h4SUJ5c1QxN3FkNlVYZnZYdzNjQ1ZPdFZ1bTEtR2F6dmRrSzdjOVJhNVh0bldGRjBlNHNUblVWRXlDNmRiM1RFWnRUMm9DNm9OTHp0Tm5oTWtrTndocDBndWpEdzJZbXFQN3VJM0h6d0pucVlCbEdSYXlmNnhVRF9VV3VSenRucFJvUmhqRUFDaTRHOF9CLWvSAcwCQVVfeXFMTXlrclR6cWJWV0NlZVVzZURHZF9NaW50MjF1SG5RRUc1aDBLOFhZaFFJb0FpRjVjYWphRl9JMWlPSnFFOFMyNy14Ul9JdWZ2V3RVaVo1b253TGN5cmtGamxMZTVRaXBTcEhrQk41NllJWXMwQldrZFFEZElVRjNTNjM3Mnh5MUJMTVVFOE8xa2tuaUxQSnAzWklsWk0yWC1HUmxRYVNob3N4M294MXJfeHAydkVkbDY1U2Z2MlNiaHB6QUcyeTRLSk9ES0NfTU1nd1NzbTI5cGZsVGNIZkVKSy1icTBZOGJ5Tm9TTlRtMG1oekNWQjJBNmpBSnRoa3UtODczTmJpdEJmbktIOXlZZmx3bGVkZW15VTFYTnNfUENFbm51aEtLNll6NHA2V1VoZHVoUXpzM00xOWcyM01uYWtyckViRDdHYlNnVFY?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajasthan family of medical assistant who died in Pak attack to get battle casualty certificate - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWnF0ZDFMNkctUmJ4dDBaUF9KeWdRRUxsTXJienFSbUpPMXhQT1NnY2ZvUkFGM01KNWRGbFdDU3hFSEh4QTROMWhWNUZzbzNpbS1OWWRWc2trNjdncmowNVFjUUo2aFpzemRCSEFMUG8ydjhKQXVWM0RyZ3ZZUG5oa2RCZVR1d1V3QlFaRmpaT2U2LUNWU056UjZxMHZlU3N6Ty1pb0EzOWxETWNDUm8zN2VKNmVuSFBIZ2QyNURCZ0x2V1XSAcoBQVVfeXFMTWxuaDdoVUtLNnJSMFgyQmZ5Z0h2VWUzNlhkVHpUc0FNZHF6cXRCX2MzMHlBZmdLa0xsY195OGsySXhOUzkyWjBrRVpNZ2sxNng1T21aSkY2ajI3d2I2d2Y3X194VGZTbm80d0E2cWtYQVVFUDhoT1NNZlZLNlBzNUFmbmN1bGkycXZZUmlZZF8tQ0NtMWROWVJvRUNQNldUQTg1eTJfMWN0RndEVVF3R0oyNGpnOGwzZExoMHhOSEstdDBTd00yaE9zQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajasthan Bypolls: Crucial Test for 10-Month-Old BJP Govt; Congress Hopes to Hold on to Lok Sabha Gains - TheWire.in",
+      "source": "TheWire.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNU9tV2ppTmJ4RGM1Z1FMYkYzdWJydHluRGFzN2FUMUFBQ1FjX0pWUklWVk5BUWxFTTRNMXZpcWppc09GMlQwZGRWOWJON2N1MEFBN0RnbkVNdlhWTy1uUk92RE54SVlJMjBlRlMxT2hqUHVkcXp4cmFMbDNleWlYUDJTaUZDTlJVVFZJdWd3SnJaTmxJWjl3NXNudXNodFItTVZ6M3JrR0NQZzl4cE9ZZ0xwOHEtQmtZdG9LdnJJYWhFckhPU3hUMGRpYm1HV09yZ3J5bXZR0gHbAUFVX3lxTFA0ZHlNT0NkVkdSdDRnUkE0eFg2aURjS194SlNBYWQ0NjgzdU16SWhaN1V4Y3pXMEtKcFhxMW80M2p0bTZBNzdEc0ZWVVNFU3VleU15ckkzV3Q4S1NRcG1WYl9Ea3BoYVo4Nm5tTWVRUzE0bXhOQXlta2pOZ0t2TWVtbHQtSy1RNlNScVV1ZVNXbEgwbkdfVk9HUFl4dFNHX1dCTDM4djhfR1ZVMW5yMGVKNkZMUU1laHFOOTdvbDZZNXc1S09sWVc0ekpZQ3VIZ2ppeGYtcEZ4TlNuOA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP’s victory in Jhunjhunu diminishes Ola family’s 15-yr rule over Shekhawati - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTlk5TnlsZVlPVWwtVGpxOVVleTktOTZaXzhXRTB2eWZaWWxraXc1WlNkU3l2cXFNSDIwbERGS0l0dlJIemxpZER0dV9qYnBEd0dTM1h3dHVYanlreUlITnp5d0dIVmZtNk9VZkstczExZWtkSl9ydzQwVVVWaHVzLWQ5Smp5VktpUGhIelpmdDVkV3BtQ2pMTjVfZ1B6MGFXVVZZc1hYTlVtRWJocDBfeG5pZkJwWHJGSDJvaEkyUnBkSmljRmVRRUVJc3o3Vkh1R0hvbXEzWDJXbDJxSWNQdTVZdWpRaGlseVBfejlxMVDSAfYBQVVfeXFMUDJpT2E4c0RXLVlfNDB2eW5RNFNpYVNXRnNkTy12emplMktaVExId0RnamRiazlCZWVxTVZ2M2lHNjR1azFmWmJEVWtCVFNqQTFhR0ZoX0phS0NUTWJKbnUwaElzU0VLc2NndUl5djhLLTZMakhlR3NqZHFnOWdvenBKTUdyMFB1RXRpYXQ5UTFhak5NaER3M29qbkZWSmQyc1BiUUNZMnF1RTNqUDY4MzBFNlFnMFJ4b0I2amduS0xvbjFuZFVLQ2JUTF9OTzBmV2Q2T3B5bzk5aVpfcmlKcHFhN2dtZkxYSTRUcGl4bURKTUpHdkFB?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:18.674326Z",
+  "collected_at": "2026-09-02T14:46:42.644876Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.884938Z",
+        "fetched_at": "2026-09-02T18:38:09.326240Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.884954Z",
+        "fetched_at": "2026-09-02T18:38:09.326252Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.884962Z",
+        "fetched_at": "2026-09-02T18:38:09.326258Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.884970Z",
+        "fetched_at": "2026-09-02T18:38:09.326263Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.884981Z",
+        "fetched_at": "2026-09-02T18:38:09.326270Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.884994Z",
+        "fetched_at": "2026-09-02T18:38:09.326275Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.885003Z",
+        "fetched_at": "2026-09-02T18:38:09.326280Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "Brijendra_ola",
+        "url": "https://x.com/Brijendra_ola",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/Brijendraola/",
+        "url": "https://facebook.com/https://www.facebook.com/Brijendraola/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "Brijendra_ola",
+        "url": "https://instagram.com/Brijendra_ola",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:43:03.912842Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -263,14 +349,6 @@
     "negative": 0,
     "neutral": 10,
     "top_headlines": [
-      {
-        "headline": "BJP MPs gave MPLAD funds to party offices: Brijendra Ola - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0tZTlozNmJ6dllraUNuMV9wb1BYRzVnckhNLUpydWsyb2tIY1pjT2ZlbEx4a3oyZ24yUGVEMnpXbFppbEdpWVcyb3dwVVZ6X3lTcXNyRENjN0k1N3hYWkZaMDBWVFNWbXFaVVhzc09VMTF3Z0Zmc1dIN2trUUI0aFo4UmlhQkRzMDBwTWlRT0VkdTBVbkVUYy0wb3lWUDlCaXVEcjJBUk5IYllqMlVmb0d0MG1PaWlDRXVjWEotOXVBalJ6VzZWR9IBzgFBVV95cUxPNkFoSVFPdFpmeWYwbGlMVHBKQXJoWkx4cHNvR3B2LTExbWNpRlg3d3JZWDV0Y1lFQkJ0d0pnMGt4UHBvZGxpQV8zR1B0TzdSbTZoSk9Ockhvanplam5kVC1ZV0NZZnFWRWJDSVRDNUg2b3k2aWRJZ0NKRTQ5SzhnUkdhTkhKbHV3a2NIaDdVNmcxOU9ZYURzNW1UVDQzd3hJQ3VRTHlQQTNUQ0Y1d3hZTC1Vcmt2OTF0TXpCSkRxRV9LQjN2b3BvcEpKSUZoQQ?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "BJP accuses three Rajasthan Congress MPs of spending MPLADS funds in Haryana, they say it's within rules - The New Indian Express",
         "source": "The New Indian Express",
@@ -280,11 +358,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Cong MPs misused MPLADS funds for political gains; Rs 1.20cr diverted to Haryana: Rajasthan Minister - The Hans India",
-        "source": "The Hans India",
+        "headline": "Jhunjhunu election results 2024: Congress's Brijendra Singh Ola defeats BJP's Shubhkaran Choudhary to sec - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbFNUM1lNWm5rSUFnSEN1M1g5QWdJdUVsRkpicERoSlhvaHgzTnFrYmdpdE1SVFdFbjltcEdXbXhabUhqLWlNV01wa19VLVA2S1RKTG9UbjBUVzRzanNpX1FnZlRDMlZnQmhjTUVkazNfOE9SZHlCb2FsTFBldjRNR1lHQlNSSi1YNFhPVjZVdWtwLTd5d1o0ZmhBRENKWEJIV2YzNVd3R3lxQ0c1eXE2ajFGOVlVazlwYVBRR1M0MnFnc01laG1ZZjNqVXBVbjRFVUh5Q2JPbXAtbndRb3p5cl9B0gHnAUFVX3lxTE1tbEgxdVEzLTU1bW5GalRXMmpTMndnVW1ZTVdSSDA5UTlvdGRSdTVtSXR3eWNZRXlNWENfTVR5cEpWZlhLLWlKVlZqYTMzOWV3WFRNWkdtT2w5aXNsdjFqRXA4SkNkLTZ6eWFvcTY5VElQWEFuWUNyNVNPbU5aNnlMOV9fQnRvVTdaLU1kT1NpSkFfRmd0VWlMZHFSWFgtcHNTenpqZzJOR3dENHU4bTdTRTZnY0J1RkVoSTB2eHdneEZCb1JsTWdJTkRNQ1BUS3ZaMEVJMjUzRjBvYmhtTjZkWHpxRzFhWQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOeWdZaXdLaG5TN0hnWURnVDRGOG82RUhQSGI0MHlrZTJNSGc5eUVEUF9PYVFiTDJqRnhHRHhOTDU1ZmM4d2ZwNGxIUWJqLV9nZ3Z1T095SnJGLTNub0w4aDdtZWctZ1p5Qi1GZVA1dXRPVkIxbzZoVXJVaW0tQ3R6RUw1YXVjYURrUDdvQmRkSllhNmpXOUJ6bmNtbWU4dl9FNkVsMWhtZ0lXaFUySm5LMzVFaTJwa1h4SUJ5c1QxN3FkNlVYZnZYdzNjQ1ZPdFZ1bTEtR2F6dmRrSzdjOVJhNVh0bldGRjBlNHNUblVWRXlDNmRiM1RFWnRUMm9DNm9OTHp0Tm5oTWtrTndocDBndWpEdzJZbXFQN3VJM0h6d0pucVlCbEdSYXlmNnhVRF9VV3VSenRucFJvUmhqRUFDaTRHOF9CLWvSAcwCQVVfeXFMTXlrclR6cWJWV0NlZVVzZURHZF9NaW50MjF1SG5RRUc1aDBLOFhZaFFJb0FpRjVjYWphRl9JMWlPSnFFOFMyNy14Ul9JdWZ2V3RVaVo1b253TGN5cmtGamxMZTVRaXBTcEhrQk41NllJWXMwQldrZFFEZElVRjNTNjM3Mnh5MUJMTVVFOE8xa2tuaUxQSnAzWklsWk0yWC1HUmxRYVNob3N4M294MXJfeHAydkVkbDY1U2Z2MlNiaHB6QUcyeTRLSk9ES0NfTU1nd1NzbTI5cGZsVGNIZkVKSy1icTBZOGJ5Tm9TTlRtMG1oekNWQjJBNmpBSnRoa3UtODczTmJpdEJmbktIOXlZZmx3bGVkZW15VTFYTnNfUENFbm51aEtLNll6NHA2V1VoZHVoUXpzM00xOWcyM01uYWtyckViRDdHYlNnVFY?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -296,11 +374,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Jhunjhunu Lok Sabha Election Results 2024 LIVE Updates: Brijendra Singh Ola leads with 16892 votes - DNA India",
-        "source": "DNA India",
+        "headline": "Rajasthan Bypolls: Crucial Test for 10-Month-Old BJP Govt; Congress Hopes to Hold on to Lok Sabha Gains - TheWire.in",
+        "source": "TheWire.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcmFJSlQ1MXpIYTB6Qk9ybXBOWnEzaHhndVJKc0NWWXgwU2ZLZEhjZWJRa09KQnQwbWl4bFhNRWMzaXBHVU43a0UyQ1l6QkpQOEpVUEVyR0RiVkI0MTVHUnE5TmFCM01neUlTRkRPbmtnaGdNSG1tUWM0WlBoMTdHTkVkN2ZFWC1oTmIySkt3NUM1aF85UmVqV0ZQUVFSZUlhSmcxZmxPcWQyT1Q5ZFFDZExOd3hEdE81clhmMl9YZ1lVb192bGtWS09Ma3UxQ2NKdFc3YXAwQ3g5UnPSAeABQVVfeXFMTmlkN0JQTFJRMVN6STJhNnY2VjFRMUh6SE9vUGZfLXNCLVFSNjluMVBOQ2dEdkZ3OHZNYl9nMmJvX2tidGNPMDdXQWxQUGVKRGVjbi03QVBBa2ZseXpPdEJaQ3ozN1FrdnBzbV9UMGhDdXRVb3IzZUFOemsxX2xDcXc3R3JKZ1JDUXJVVGlKMDBOQU15SFpydGM0eHY5TTNDVzAway1UY1F6Ui1VN3BuTXFGSVk0Rnh1dGtkMWVrRzIycjdyRlo5aHAxbWV4LUlxNXVNRXNmT2RMYXQwNGw4UVU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNU9tV2ppTmJ4RGM1Z1FMYkYzdWJydHluRGFzN2FUMUFBQ1FjX0pWUklWVk5BUWxFTTRNMXZpcWppc09GMlQwZGRWOWJON2N1MEFBN0RnbkVNdlhWTy1uUk92RE54SVlJMjBlRlMxT2hqUHVkcXp4cmFMbDNleWlYUDJTaUZDTlJVVFZJdWd3SnJaTmxJWjl3NXNudXNodFItTVZ6M3JrR0NQZzl4cE9ZZ0xwOHEtQmtZdG9LdnJJYWhFckhPU3hUMGRpYm1HV09yZ3J5bXZR0gHbAUFVX3lxTFA0ZHlNT0NkVkdSdDRnUkE0eFg2aURjS194SlNBYWQ0NjgzdU16SWhaN1V4Y3pXMEtKcFhxMW80M2p0bTZBNzdEc0ZWVVNFU3VleU15ckkzV3Q4S1NRcG1WYl9Ea3BoYVo4Nm5tTWVRUzE0bXhOQXlta2pOZ0t2TWVtbHQtSy1RNlNScVV1ZVNXbEgwbkdfVk9HUFl4dFNHX1dCTDM4djhfR1ZVMW5yMGVKNkZMUU1laHFOOTdvbDZZNXc1S09sWVc0ekpZQ3VIZ2ppeGYtcEZ4TlNuOA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP’s victory in Jhunjhunu diminishes Ola family’s 15-yr rule over Shekhawati - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTlk5TnlsZVlPVWwtVGpxOVVleTktOTZaXzhXRTB2eWZaWWxraXc1WlNkU3l2cXFNSDIwbERGS0l0dlJIemxpZER0dV9qYnBEd0dTM1h3dHVYanlreUlITnp5d0dIVmZtNk9VZkstczExZWtkSl9ydzQwVVVWaHVzLWQ5Smp5VktpUGhIelpmdDVkV3BtQ2pMTjVfZ1B6MGFXVVZZc1hYTlVtRWJocDBfeG5pZkJwWHJGSDJvaEkyUnBkSmljRmVRRUVJc3o3Vkh1R0hvbXEzWDJXbDJxSWNQdTVZdWpRaGlseVBfejlxMVDSAfYBQVVfeXFMUDJpT2E4c0RXLVlfNDB2eW5RNFNpYVNXRnNkTy12emplMktaVExId0RnamRiazlCZWVxTVZ2M2lHNjR1azFmWmJEVWtCVFNqQTFhR0ZoX0phS0NUTWJKbnUwaElzU0VLc2NndUl5djhLLTZMakhlR3NqZHFnOWdvenBKTUdyMFB1RXRpYXQ5UTFhak5NaER3M29qbkZWSmQyc1BiUUNZMnF1RTNqUDY4MzBFNlFnMFJ4b0I2amduS0xvbjFuZFVLQ2JUTF9OTzBmV2Q2T3B5bzk5aVpfcmlKcHFhN2dtZkxYSTRUcGl4bURKTUpHdkFB?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 12,
+    "starred_questions": 3,
+    "unstarred_questions": 9,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 22.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,16 +4,16 @@
     "constituency": "Belgaum",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3421,
+    "myneta_candidate_id": null,
     "slug": "jagadish-shettar",
     "house": "lok_sabha",
     "sansad_member_id": 5733,
     "profile_url": null,
     "canonical_name": "Jagadish Shettar",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 68,
+    "age": null,
     "photo_url": "/mp-photos/5733.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:31.235284Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 133815982.0,
-    "liabilities": 7166354.0,
-    "net_worth": 126649628.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3421",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.759353Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 63.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 0.45,
-    "expended": 0.34,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:24:14.497385Z",
-        "notes": "Official eSAKSHI REST API — Works: 165 recommended, 8 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:59:03.509911Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:54:52.855106Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:54:52.852560Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 165,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 2.3129251700680276
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:30:17.771561Z",
+        "fetched_at": "2026-09-02T14:54:52.851574Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Shettar Urges Gadkari To Clear Bidding For Belagavi Bypass Project - All About Belgaum",
+      "source": "All About Belgaum",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR3RZWFc1cHV3cGxzUTJ4QmdKblFObk5JcGlrb1NKSDJfQWZzbDFEQkxBbndLdTk2WG9DR3pYbDVCUzdISXdvT2xOSVJSV1kyM2NRazVIOVBOeEhuQmJnM0JLY2Qtck5DS0RCUzI4NG1oelh4VFpKdF9vWDdPS1J4OExTYVBzQlFvUno1cGZqMEoxakxRbU9BYjdkOTFTYW0zZkE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "E-Khata, Kaveri 2 changes disrupt property transactions in Belagavi; Shettar seeks urgent intervention - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcTViVlNWZ3NyZWVuZk9MTldBNlFIaTU4UEoxaS1SNW8ybFJldUJ0RHpIckt1andwZjA0OW0telJTNW9KUEkyNFNYSDRNdnZ0VUNmS3FEZEEydDRyY2dmQUFfMlBmX0s4WnNLSHBRMGVCdU5JX3hqbWpuQWhIOE5xbDZZcW1LTk43cDJDQVh4OElpaElfOUV5cHcxdnMtb0RMOWp4T2Y0YVhGdmpMcEtzU1FhYmxpNGExZlJCa0JaeVFWRDZHOTQ5cHpGODBnWmlpYlZNYnBqVmNPdnNoeDBPUGNoRG9OUzU2OS1DZ3ZoYWl5SC1ueXI1Tm1Uc2hqR3hwTjk3blFhWdIBjAJBVV95cUxPcy1TdVFYZG5yY2MtTm9KNWxqQmhwZ09ZQ2RMamhoOGVSdGdxS3RHQmdDNkhuNmJLenRFYXlkVlVxWHF0N3lWZklYX1ZzR2c0cUcwYVVXdWIwcVA3WVh2R0RDWVowOHFwWFo3MHBmLWI5VFphcmdXWjV0aEVkc0xNMkFHaV9Ec3k0T2h4UXpaTW5sNUhMNHJBSkRYcU1LZDBpVTV5ZUEtSUw2bjRuWFlwUGZ4U0xoRzd6bkRHZzBBd1pfaXBpbWJSTHU3dnJtX3M0YTBOXzZBM2RZWVNfU3FpblFSc3dnU0dWNHJXV190bERUT0JtOXh5WTFRRFNlWjNXcXJGUTJDQ3o3Tmda?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "7.37 Crore Released for Development of Kanabargi Industrial Area Roads: MP Jagadish Shettar - All About Belgaum",
+      "source": "All About Belgaum",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaXBUZWpJaDhrek5fWlhrX2RQSnRrSkRXYXJXR25Hcy1jYk9QZlMzRjNCOHUtalF4TlFtaTFhenN2UFJxMktCM1dKYkF0VjRVNEtZUWRET21aNmpJT21iQmZHcWJQcnBYZDJuU3hLT2FuUVhNSE5NbDdET2laMjRUamZXTWwzQ3NfTk94TTVxSmpoZ3puTXNRbmtNYWFYcUIxbXFzcmxJVjdGQ2ZDWWhRWkpPc1BNVlZZOEZHTVd6N2xzUQ?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Work on parts of Belagavi bypass road to be completed this month - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDBFdUdoRnlMV2labV9rQVYyNnN2TGQxYV9VU0pKdXNSUEVaNzh2M1VzWk9MSzdRWmoyYTZaQ21LdkFaU0JoSWpZMzhyYXlnRExsRk93MmlUVVZqUHNUQjVNVTFUa2padmdHVkNiM3M5a3FYRDYxS3F3ekdGb3lleVJkbHZodHdLUVlsLVhDczV0MTF5WHdQZXJLT2VpbW9XM0hWUTNrMWtRNXdabERJdy01Tk1LWGdqZThBVV96Tzg0ZEFzcnNWc2JRcXJoZ9IB1AFBVV95cUxOV1lFNnhxMjFNeV9oX3FNd3FDNWxfR2dUOUkzMmExMTNrSkpSTDFhOE9HSng5V2laUjYtNjZYVXotTEhNT3lMOWR3R2g2SVZqREwzS25XYlRXZW1ZcDFPblF0SlZPWHpGS01KTG9xdFFnX013NlhfTXpRWFlxbGdEbVhDNlp2cElFZjJjQ0FQMkVwY1ZkTDR0TXltZGtQZHd4X3B5VXNHZjltV0VGaXRvcENyTkY1TjFLenE5ZnZSNjYyWFJVOEdSTFN0bmItV1hCbG95NA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Inside MP Jagadish Shettar's 'Belagavi 2047' Vision: Data Centres, Electric Mobility, Bio-Energy And A Global Business Hub - All About Belgaum",
+      "source": "All About Belgaum",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORDZLYzFHcklzTHhaT3E1LWc4QTM0V1dSdjJYNnp2bmM5WThNbEZfeHhzMzVrek0teDZIbkxkVllLMG0zN09id2VtZHlicGlmRWJTd0tFaGd0U21rQkRwQzhUSG9sYi1Cc1gtaVlscWVVMmN1eW1iakVfSHJoUG9GLXZsX3E0X3BORWF3MEducEh5Zl84T21GY0YxLUFucEw4R3hEZG1xNVJPWTVwb1pHdV8wOVR0RkVHQXRzUWNkMGFrUFJtWEhvRnM0eHNRN05OT3VCOGRuWjlxMkhOVnpYMTlDT00?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:31:17.993172Z",
+  "collected_at": "2026-09-02T14:59:03.510868Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.021803Z",
+        "fetched_at": "2026-09-02T18:38:06.548822Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.021812Z",
+        "fetched_at": "2026-09-02T18:38:06.548833Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.021817Z",
+        "fetched_at": "2026-09-02T18:38:06.548840Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.021822Z",
+        "fetched_at": "2026-09-02T18:38:06.548845Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.021827Z",
+        "fetched_at": "2026-09-02T18:38:06.548851Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.021832Z",
+        "fetched_at": "2026-09-02T18:38:06.548856Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.021836Z",
+        "fetched_at": "2026-09-02T18:38:06.548860Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,43 +317,43 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "IndiGo will re-start Belagavi-Mumbai flights, says MP Jagadish Shettar - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM1Z6eGkyc25pRFhHNjE0RjBEdmp6UkhyZ1hFMVRTMF9pVmQ3cXVMOHlEOEVCV0hzNFZ1RWNrUmpfT2Zycks4Tkh6dXRxbGNNNm1SblJTdHJNcy1DaTRZd3NpOXcyZ083VGNyQnR5UV9TUW1wRktsdVA1N3FvM0pObmtlNll4RHZpRE9FVVM2NE13Z010c3JjV3kwYVVQMHFjaHhwT1RzVWlSN181Z2Zob1E4b2dIWk1Ec3BJQVd5S2hHS3Fqem0tdUJ1U05hSmZmVlp3TNIB2wFBVV95cUxOald5cWcwNzBONXluZjJhUnlBY0dRQmhSOXdQMUtXeVVjek9vU1NoNS1Bb05RQVZyVUJmQUZmeUpMTi1zRFBScENwRXpuTndwRjFYVlI1bXhTQVl3TkhBQ2FMSC1Xa3V6dUxoMGVSMVlMUml1VTRDeUlzTGN3aXU0NkNCU0VSRkZrUndqQTFXcjQ2YWFZaWxfYmVxTHBDYzRpYkg2c1FqaWl0WWF0SnZPV3lYcWxfeGVyTkdRNEl2NHJQU3pON2h1c2ZZWFdFM0wzRi05cUREUFJZazQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Belagavi MP News: Shettar to Address Allegations - Deccan Herald",
-        "source": "Deccan Herald",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2dyS0IyT0Z6a1V2VEZ5NWFaT1M5VklJMmZhM0k3c3JOYUdUazlNa21rZjdpdXg1RTdoVkt5dkxBNi1sMnBuTWRPVXFEeWVVbTRCLWRWVXItUlg1Z2ZEUnZwTV9vNGRWU2pnNE95QWw5VjQ4b1BSN2dLQnpaRzQ4U1lacU16VUJYa0FBZ3NJTjdndzVrUG5NQ0ZJaTlUNzVzSTZ3TzdhWGVlT1dlV2dSa2IzRXJFb0w0S2tJY2M1WWhjNWFqYnhydFhwdEV3MFp1c3pXTzhBdnByRzQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Belagavi Airport Expansion, Railway Line Delay and Highway Progress Reviewed by MP Shettar - All About Belgaum",
+        "headline": "Shettar Urges Gadkari To Clear Bidding For Belagavi Bypass Project - All About Belgaum",
         "source": "All About Belgaum",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRG9qY2VMOTRSOVBXcW10N292Z2JaWjB2WFpDVl8tRXdjN1dHajNneHIxa3pqb2FibFYzeXoyMlBpNmhSSjdfTXRteXNFUTg4TEF6WHd1Ykd3cE5jZDJQdTFmQktidmF2Z1VucE92bUdOa2FoQTZSWjYxRVR0THhTNFJ0ckFyeE9KYUhZd3J4eFlMTlF2dGJMcjlBM1RxcnVZc3JHN1A3ZEg0TW54RTVrNnd0Sm85LTJncVA3UHZvVmw?oc=5",
-        "sentiment": "positive"
-      },
-      {
-        "headline": "Belagavi MP tells officials to speed up railway projects in the district - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeW11X0JQWWZZYmhtV0VoQ1NWdnVQVWJwNW45UnJkUUtTQXhONnNHYTA4X1I3ZHRxYk9yWDJJbnNHSFFkb2RqcWdvQlR1Nk44cVY3NHk5NFFfMTlQSGlMUVpzc29LUncwYmd5czdSMC0yelJZOG02eW8xWWVsUjE3dk0xRHJGektvNGhOcVpINjhQejY3YUIyMEhxbldFRFloQTZ1X0lFeTByNXhhalRKOVdNZ0Y0TU52Y3ZHZ3JIa0NIczRQZ3FYTGw0NGpXNzdmdTluNWhyS3IyQWdZQWhCYUxPbDdBZHA5U2JHd2paWdIB9gFBVV95cUxPbjJZbHI2NlFld09aY3ZPc01DZ0p6am1SZUJKNDNtdWRWQWR5bWR2UmNMN2ppLWl5UW4xYWxhT0tzTmtPQXVUT2taSzhRWFJIYUVuX29QR3EzazBaaDRfOVI0WUM1YVN0dldRQ1dELUxTOEhhVmtKN2pCLXdqRzlwdVdTTkFWbXptdDd3MFpLSTRfMTJaSHFKNnB4ckRjV3BEOC1GNTVTR0V4VERXRUJXZzkydWs4UmRUczRIQW9scG5jX0lFNlRNS3VQQ0xPcDBPS3llU0dHZUdUbFE1YWt2QWU1ZFZFOWVPaUxqTnJvUUlXQ2p2YWc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR3RZWFc1cHV3cGxzUTJ4QmdKblFObk5JcGlrb1NKSDJfQWZzbDFEQkxBbndLdTk2WG9DR3pYbDVCUzdISXdvT2xOSVJSV1kyM2NRazVIOVBOeEhuQmJnM0JLY2Qtck5DS0RCUzI4NG1oelh4VFpKdF9vWDdPS1J4OExTYVBzQlFvUno1cGZqMEoxakxRbU9BYjdkOTFTYW0zZkE?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Historic, aligns with our Sabka Sath, Sabka Vikas objective, says BJP - The Indian Express",
-        "source": "The Indian Express",
+        "headline": "E-Khata, Kaveri 2 changes disrupt property transactions in Belagavi; Shettar seeks urgent intervention - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekhoVUptYWpMZ0dLT1hLQ1k4bkpfUjVNT2NPalBmVFZnVnJwa1RhNGx5cVdha3drOGJqQnI2X0lHY0daMEU0eDRfMHdQNzNTMXRPU1YzaXQ0NEFJSVl4YzNsRlpGdDJTcXhjUUg3NnJ1Nm1ELV85c2hadUdDRThNOXFMb1lObUFpTUxsUFAxdFg2UElDRVVRS1owSHVXRW52b0UyVjkwUlM0elNzUDhUQ25vNU9YLVnSAb4BQVVfeXFMUFRfd3FndU5GSlZtLTdPYlRTM2kzOUc2ZFhaQXBjQjNHQXJwOWpMZ01sTENJbXVQNHlTMnF3a19QcVlLZFlLRmpTMHgxQzNoOEJzdnNlcVB1QWpYNmVLeVBnNlVvLVJibTlONVRXTFBiM0RtTVBDNzItSzN0bHpfeGJUejN0WjJiTnFwU29pUDBkYVk0aVhTRHI3djBRaFlSSEZibURkajFjbHE0M2pTbDJJV1Z4NmdKeVNsd0cwZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcTViVlNWZ3NyZWVuZk9MTldBNlFIaTU4UEoxaS1SNW8ybFJldUJ0RHpIckt1andwZjA0OW0telJTNW9KUEkyNFNYSDRNdnZ0VUNmS3FEZEEydDRyY2dmQUFfMlBmX0s4WnNLSHBRMGVCdU5JX3hqbWpuQWhIOE5xbDZZcW1LTk43cDJDQVh4OElpaElfOUV5cHcxdnMtb0RMOWp4T2Y0YVhGdmpMcEtzU1FhYmxpNGExZlJCa0JaeVFWRDZHOTQ5cHpGODBnWmlpYlZNYnBqVmNPdnNoeDBPUGNoRG9OUzU2OS1DZ3ZoYWl5SC1ueXI1Tm1Uc2hqR3hwTjk3blFhWdIBjAJBVV95cUxPcy1TdVFYZG5yY2MtTm9KNWxqQmhwZ09ZQ2RMamhoOGVSdGdxS3RHQmdDNkhuNmJLenRFYXlkVlVxWHF0N3lWZklYX1ZzR2c0cUcwYVVXdWIwcVA3WVh2R0RDWVowOHFwWFo3MHBmLWI5VFphcmdXWjV0aEVkc0xNMkFHaV9Ec3k0T2h4UXpaTW5sNUhMNHJBSkRYcU1LZDBpVTV5ZUEtSUw2bjRuWFlwUGZ4U0xoRzd6bkRHZzBBd1pfaXBpbWJSTHU3dnJtX3M0YTBOXzZBM2RZWVNfU3FpblFSc3dnU0dWNHJXV190bERUT0JtOXh5WTFRRFNlWjNXcXJGUTJDQ3o3Tmda?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "7.37 Crore Released for Development of Kanabargi Industrial Area Roads: MP Jagadish Shettar - All About Belgaum",
+        "source": "All About Belgaum",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaXBUZWpJaDhrek5fWlhrX2RQSnRrSkRXYXJXR25Hcy1jYk9QZlMzRjNCOHUtalF4TlFtaTFhenN2UFJxMktCM1dKYkF0VjRVNEtZUWRET21aNmpJT21iQmZHcWJQcnBYZDJuU3hLT2FuUVhNSE5NbDdET2laMjRUamZXTWwzQ3NfTk94TTVxSmpoZ3puTXNRbmtNYWFYcUIxbXFzcmxJVjdGQ2ZDWWhRWkpPc1BNVlZZOEZHTVd6N2xzUQ?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Work on parts of Belagavi bypass road to be completed this month - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDBFdUdoRnlMV2labV9rQVYyNnN2TGQxYV9VU0pKdXNSUEVaNzh2M1VzWk9MSzdRWmoyYTZaQ21LdkFaU0JoSWpZMzhyYXlnRExsRk93MmlUVVZqUHNUQjVNVTFUa2padmdHVkNiM3M5a3FYRDYxS3F3ekdGb3lleVJkbHZodHdLUVlsLVhDczV0MTF5WHdQZXJLT2VpbW9XM0hWUTNrMWtRNXdabERJdy01Tk1LWGdqZThBVV96Tzg0ZEFzcnNWc2JRcXJoZ9IB1AFBVV95cUxOV1lFNnhxMjFNeV9oX3FNd3FDNWxfR2dUOUkzMmExMTNrSkpSTDFhOE9HSng5V2laUjYtNjZYVXotTEhNT3lMOWR3R2g2SVZqREwzS25XYlRXZW1ZcDFPblF0SlZPWHpGS01KTG9xdFFnX013NlhfTXpRWFlxbGdEbVhDNlp2cElFZjJjQ0FQMkVwY1ZkTDR0TXltZGtQZHd4X3B5VXNHZjltV0VGaXRvcENyTkY1TjFLenE5ZnZSNjYyWFJVOEdSTFN0bmItV1hCbG95NA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Inside MP Jagadish Shettar's 'Belagavi 2047' Vision: Data Centres, Electric Mobility, Bio-Energy And A Global Business Hub - All About Belgaum",
+        "source": "All About Belgaum",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORDZLYzFHcklzTHhaT3E1LWc4QTM0V1dSdjJYNnp2bmM5WThNbEZfeHhzMzVrek0teDZIbkxkVllLMG0zN09id2VtZHlicGlmRWJTd0tFaGd0U21rQkRwQzhUSG9sYi1Cc1gtaVlscWVVMmN1eW1iakVfSHJoUG9GLXZsX3E0X3BORWF3MEducEh5Zl84T21GY0YxLUFucEw4R3hEZG1xNVJPWTVwb1pHdV8wOVR0RkVHQXRzUWNkMGFrUFJtWEhvRnM0eHNRN05OT3VCOGRuWjlxMkhOVnpYMTlDT00?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 13,
+    "starred_questions": 3,
+    "unstarred_questions": 10,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 24.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

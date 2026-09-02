@@ -3,20 +3,18 @@
 **Constituency:** Unnao, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 68
-**Education:** Doctorate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.9 / 100
+## Composite Transparency Score: 47.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 30.6 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,34 +26,38 @@
 ## Criminal Record
 
 - **Total Cases:** 2
-- **Serious Cases:** 0
+- **Serious Cases:** 2
 - **Convictions:** 0
 - **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. No description (Sections: 420, 467, 468, 471) [pending] **SERIOUS**
+2. No description (Sections: 420, 467, 468, 471, 409) [pending] **SERIOUS**
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.72 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 6.72 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 47% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 8
-- **Expended:** Rs 6
-- **Utilization Rate:** 38.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -71,34 +73,47 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (8 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 8
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 7
 
+- Unnao election results 2024 live updates: BJP's Swami Sachchidanand Hari Sakshi wins - The Times of India (The Times of India) [neutral]
 - BJP's Sakshi Maharaj Wins for Third Consecutive Time from Unnao Lok Sabha Seat - ETV Bharat (ETV Bharat) [neutral]
-- Sakshi Maharaj case: HCdismisses revision pleaagainst discharge order - The Times of India (The Times of India) [neutral]
-- Sunday ET: Sakshi Maharaj, BJP MP from Unnao, is a relatively unknown entity in his constituency - The Economic Times (The Economic Times) [neutral]
+- FIR against Sakshi Maharaj for his remarks on population control - The Hindu (The Hindu) [negative]
+- Allahabad high court dismisses UP govt’s revision plea against discharge of BJP MP Sakshi Maharaj | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
 - Controversial MP Sakshi Maharaj has a trail of rape and murder charges behind him - Scroll.in (Scroll.in) [neutral]
-- Who is this Godse-loving Sakshi Maharaj? - dailyo.in (dailyo.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Unnao election results 2024 live updates: BJP's Swami Sachchidanand Hari Sakshi wins - The Times of India** (The Times of India)
+- ! **BJP's Sakshi Maharaj Wins for Third Consecutive Time from Unnao Lok Sabha Seat - ETV Bharat** (ETV Bharat)
+- !! **FIR against Sakshi Maharaj for his remarks on population control - The Hindu** (The Hindu)
+- ! **Allahabad high court dismisses UP govt’s revision plea against discharge of BJP MP Sakshi Maharaj | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **Controversial MP Sakshi Maharaj has a trail of rape and murder charges behind him - Scroll.in** (Scroll.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Swami Sachidanand Hari Sakshi has a below-average transparency score of 49.9/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Swami Sachidanand Hari Sakshi has a below-average transparency score of 47.0/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 67,226,281. MPLADS utilization: 38.3%. Parliament attendance: 90.0%.
+Has 2 criminal case(s) (2 serious), 2 pending, 0 conviction(s). Parliament attendance: 90.0%. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +153,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +232,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Swami Sachidanand Hari Sakshi's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 38.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,7 +4,7 @@
     "constituency": "Bhagalpur",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": 1930,
+    "myneta_candidate_id": 3632,
     "slug": "ajay-kumar-mandal",
     "house": "lok_sabha",
     "sansad_member_id": 5170,
@@ -24,7 +24,7 @@
       "constituency": "Bhagalpur",
       "state": "bihar",
       "party": "Janata Dal (United)",
-      "myneta_candidate_id": 1930,
+      "myneta_candidate_id": 3632,
       "slug": "ajay-kumar-mandal",
       "house": "lok_sabha",
       "sansad_member_id": 5170,
@@ -46,60 +46,82 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:16.409682Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 12232756.0,
-      "liabilities": 4980480.0,
-      "net_worth": 7252276.0,
-      "previous_total_assets": null,
+      "movable_assets": 263000.0,
+      "immovable_assets": null,
+      "total_assets": 263000.0,
+      "liabilities": 100000.0,
+      "net_worth": 163000.0,
+      "previous_total_assets": 369550300000.0,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1930",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.702186Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T14:48:52.092571Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 9.8,
-      "growth_ratio": null
+      "wealth_percentile": 0.0,
+      "growth_ratio": -0.9999992883242146
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.13,
-      "expended": 4.19,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:19:30.418151Z",
-          "notes": "Official eSAKSHI REST API — Works: 74 recommended, 73 sanctioned, 35 completed"
+          "fetched_at": "2026-09-02T14:52:31.753479Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:48:50.037232Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:48:50.035133Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 74,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 28.503401360544224
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 25.0,
@@ -114,7 +136,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:25:33.479194Z",
+          "fetched_at": "2026-09-02T14:48:50.034352Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -122,22 +144,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "JD(U) MP seeks CAPF units, permanent NDRF battalion for Bhagalpur - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVhOYlZiOHYwRlo2WjJsWWJlM3gyOWNYa1ZCeGZSWkVSaktZZm92R29LVXlSbHFnSkNUYXZ1TUQ5akVNLTh5eC1iU1ZRWFlVX01Fb0JvMlFzS0RwanZ6aGo1RW5LbnhXaG8zTFd6WU5wRDkzOGdSZlhBdHdNNlo5Vko3RUF1NzFTd0ZMaGotOVlacl84NFNnYkhKVEEzckNqUnNibjRwaG5XLUN6TjlIaFlkZ1ptRHIydTNCUW5BNTFDRTJyTWhfamltQmlIVUVj0gHWAUFVX3lxTE5oWkROYzZQWWlUaG1saktULXJ4bVVXNzFYRXM4VVo1ZVpueE50OHIwcjhsQlo3WkZTdTR3OXpTWk5OUlNSV2Z1dnBrcm9ZRGM2RVB3NEhVOFJNYURuUmhmeDdfNG5DVlF0WlVJV01SNTl0ZlFLNUJPN21STnM4Wmt5S0VaZU5RNHY1TWhmNmFwaW5lODViNnpQUDVqS0kzRDNod0lYT2NIcUNmMTNxZjJpWUdLR1RFZUtHWWt4WlVualpWNVBrOWV2c1B6akNsQi1XaFlBblE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bhagalpur MP’s office burgled; security cameras, guard’s pistol stolen - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGlEYXFTU2NDdFdNRV9FYVhWblhXMEhOX0NqWl94VWpJeUUwV2JDekkyaGZITWZIM3lUWS1lWlFIZ3p6bGtuc19jamtXQlFLVTdxcTZJSnJZRGRwN3NfUEJad1dYR0JvQmstWGYwMjZTRUR4eVVZeUpLcDZ0SUlpLWF6NS1INTlOaERBVHR0NzdCeHhhX09YQkNHeU9LaTlsSk840gGoAUFVX3lxTE5fUWF5eklyZnNXS2hJUmk5NE10OE5lSzVBVHdyM0tVOWIxZ0dHZDhJekwxMUhGcjFxLWdZWGs2RmdoT3A4MzRUeXEtOHhyREVvaTdvakxZYUl0My04NGY1UzZrcl96NmJ4VE5wOG82SFM3STRPaDlfNTRMZEJZMUVmVWo1VlQ2LUZQRnlVZWtlNEhlVlBOUXVEekNRRjdRanJMTDdhZ0FqcQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Not consulted’ on ticket distribution, JD(U) MP Ajay Kumar Mandal wants to quit - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORnYwTV9ET3lNYVpNcTU4d0tUS25PRzNnVTNCOXE1TWdGS2N1b2o3aVR6Tnd6enFhQnY5YVE4S05rMndUcWJFRnBuM1RzVzlBYmhia0dBc0EwbURfOTc1eFEzaU1zd2JYZV9GakdiRkhMUkpfdk5OUHlZSXlVX3hpRXZaYWdkUklfeTBVcVMzZ1oyRVVWR1JwSDFNYnR6TWM4NWtoREtKcVFmUjlWR2ZxT0NOY2dBYlpzZ1NIa1ZyRVNlRElRTjVsd291Z0RTdlZrb0o1Qm5IdG9kNFNmcVd5dEJ6aWdMZjd6dzhvYkxCV0gwQ29WbE1vOERIR3BZTUo4VktFTm5mRdIBjgJBVV95cUxQVG5WZnYzZDAxUEdmdVZiU0M4U01PSWhVVFM3dHQxSnVHMnVkSFEycGRZLXV5cEpySVVSemhqNE90bW9aTjhaRldfamtnT2pKQ0I1THo0ckM1MVNEbkFrLXJQNk1DbmsyVUo0cjFCcnllYmlPVTJMOVVKRXVYSHRjNEpFWl9HVUJ1YURwZUxmQkZ3NkZTOGI5eXlhVWVoNW1oMVp4WjlhcHBRYm1ESldOVXdCMGpqczZnZTVkRVRLSHdqTzZKTjhRMDBtZnpjaUhFelRpcVFyLWVjczBpcTIxMTJsY0VyRWlPOXpPUm1hVTlNZTVwS18zOFZENHZYY3FBSXk4QjZJWUZFSGFxb1E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bhagalpur MP Ajay Mandal Offers To Resign Over Ticket Allocation Process, Says Not Being Allowed To Meet Nitish Kumar - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZUpVUWFTaldibjNVWDREa2loeWZoZmc0MHpCYmNzQkNrbW02WXpJYTdsZ0tjQnJNMmRtLTlzMmpWMGdEeHpOUk9RSU5EX2lOU1hEZXJFRmtxamN2OTR1OHNOOUowN1pSTW9IbnNKUG96YWc3cnV0ZEp1U2dTbEtPeXRqdFFlUmltWGMyeUFFZ2MwejRxOGVad3htbXVlcXJIRmpVODl4WVV4aTQ2TTlFa0JBSFZEZ3d4TldYb2g3dUJ2ajhLa2NLYmFjUnhhMFI2MUNoc0NLUmdxaS0tXzNqeFJ6eE52aWo3RnlaQUJMdFZMc3RTZTNYNGtCZW7SAYICQVVfeXFMT3BBRXFSeGp4STVsQ015RUtIc1E3RmdpZ1FOaHBaX2FXaExPNnc4bjlFWkJHTExVYzI0MkhpRy1fYVhReVExR3p2bXJjdWZOQ2ppNWNCNEdxUVdyc00tcnNEX1BxaUNlcHJlMVl1eUt1SEh1RXR4VlE1X2pkZS0wWE1OUy1kOGV1LU9YZ2stU1RSNnMtMU1odElmekZ2TXlRMWJqWG5zbDBhdUNtcDJua05mc0hZS2h3NnJubHNicEN3VTFmU3BTWmR4M2NUQ3FCbU5uVHlQQUd3RmI3Ql9peHdXYWFvdDZWYTBqRy1BZmdWU0NmUUx0eUlHSDB1SHFfSk1R?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bihar polls: Dissatisfaction grows within JDU over seat-sharing; MP Ajay threatens to quit - The Federal",
+        "source": "The Federal",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3lZOXpvYU1pUFJnSTNZMmYzNWtXVXdiMW16RlRIakV2cjU4VkI1UkxWdWV1UTFXa3ZKNE9BOURvREFoWk11V0gxVkNlUWp6V0pUNXQzbTAxSE90ZWM2alBiaTl6R0JIakFqc0NqZE43MHcxdzV2RC1IVHdCSXNxazZPcHBMZVNzdWZBSTU3dHY2UVJUSXNlbDlnYkoyTDlSeE1YbklHMFpJVFZocGo5Y0JWYkV2UV82Q0cxSTU5ZUpNay1XSHc?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:26:39.122538Z",
+    "collected_at": "2026-09-02T14:52:31.754319Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -152,7 +216,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.973159Z",
+          "fetched_at": "2026-09-02T18:38:04.435962Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -168,7 +232,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.973169Z",
+          "fetched_at": "2026-09-02T18:38:04.435973Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -184,7 +248,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.973175Z",
+          "fetched_at": "2026-09-02T18:38:04.435979Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -200,7 +264,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.973180Z",
+          "fetched_at": "2026-09-02T18:38:04.435985Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -216,7 +280,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.973186Z",
+          "fetched_at": "2026-09-02T18:38:04.435990Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -232,7 +296,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.973191Z",
+          "fetched_at": "2026-09-02T18:38:04.435995Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -248,7 +312,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.973195Z",
+          "fetched_at": "2026-09-02T18:38:04.436000Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -264,7 +328,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.973199Z",
+          "fetched_at": "2026-09-02T18:38:04.436006Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -289,25 +353,74 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "share",
+          "url": "https://twitter.com/share",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "sharer",
+          "url": "https://www.facebook.com/sharer",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "adrspeaks",
+          "url": "https://www.instagram.com/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "youtube",
+          "handle": "adrspeaks",
+          "url": "https://www.youtube.com/user/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 4,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:49:24.523293Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 1,
-      "neutral": 9,
+      "negative": 0,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Bihar Politics: JDU Faces Internal Turmoil as MP Ajay Mandal Offers Resignation, MLA Gopal Mandal Stages Protest Over Ticket Fears - MSN",
-          "source": "MSN",
-          "severity": "medium",
+          "headline": "JD(U) MP seeks CAPF units, permanent NDRF battalion for Bhagalpur - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPWTVWeUFtYl9fQS1wZWxDZ1hZWVN2dGhzaE8wNXZmUmdSS3czT1g1bS1UR01jWFk0d01EQ0lURE9RdENpWS16X1ZrZDJ5TmFDZHl4cmNCeFd0Z05RYjJkM3hBMmk1ZUk2ZE9rYlRTcDY2emxTSWd3MmRUQnlmdzluSzk3LXl4SXpWNm1qT1RFWXdpYnplVU11aDVWbjdGOWtldzh4aWthaGQ3MVYxSVhIcTUtZFhVODd2eW9FS1lWTmE5enhXX2wtSzFpOTE5aGVkbnpmT0dvaVl6M0tnQ3luOU1NR0wyU3VkRDJheFBFaVRqZXJaamk1aEhZbGRqcVd4dlJLZUVTTHJWekNUN3FaOXVGRjh1NFZoclpacHByOXBWQUVadDRvdlRzNFE3VjRmU2podUhQMVZzTy1JQjJnQS1MdEhCVjA5RGZBbWEtQUd3M0tWYk9MRTRxUF9ONnpKcDRyUG1ZODVSRmU4Z0hqNVVSQXVPRktSWFpUbnVCUlRKbHQ3c0w5QWNST3VuWWZzdkdpOHJxQkVzSmNpTkxN?oc=5",
-          "sentiment": "negative"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVhOYlZiOHYwRlo2WjJsWWJlM3gyOWNYa1ZCeGZSWkVSaktZZm92R29LVXlSbHFnSkNUYXZ1TUQ5akVNLTh5eC1iU1ZRWFlVX01Fb0JvMlFzS0RwanZ6aGo1RW5LbnhXaG8zTFd6WU5wRDkzOGdSZlhBdHdNNlo5Vko3RUF1NzFTd0ZMaGotOVlacl84NFNnYkhKVEEzckNqUnNibjRwaG5XLUN6TjlIaFlkZ1ptRHIydTNCUW5BNTFDRTJyTWhfamltQmlIVUVj0gHWAUFVX3lxTE5oWkROYzZQWWlUaG1saktULXJ4bVVXNzFYRXM4VVo1ZVpueE50OHIwcjhsQlo3WkZTdTR3OXpTWk5OUlNSV2Z1dnBrcm9ZRGM2RVB3NEhVOFJNYURuUmhmeDdfNG5DVlF0WlVJV01SNTl0ZlFLNUJPN21STnM4Wmt5S0VaZU5RNHY1TWhmNmFwaW5lODViNnpQUDVqS0kzRDNod0lYT2NIcUNmMTNxZjJpWUdLR1RFZUtHWWt4WlVualpWNVBrOWV2c1B6akNsQi1XaFlBblE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Bhagalpur MP’s office burgled; security cameras, guard’s pistol stolen - ThePrint",
+          "source": "ThePrint",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGlEYXFTU2NDdFdNRV9FYVhWblhXMEhOX0NqWl94VWpJeUUwV2JDekkyaGZITWZIM3lUWS1lWlFIZ3p6bGtuc19jamtXQlFLVTdxcTZJSnJZRGRwN3NfUEJad1dYR0JvQmstWGYwMjZTRUR4eVVZeUpLcDZ0SUlpLWF6NS1INTlOaERBVHR0NzdCeHhhX09YQkNHeU9LaTlsSk840gGoAUFVX3lxTE5fUWF5eklyZnNXS2hJUmk5NE10OE5lSzVBVHdyM0tVOWIxZ0dHZDhJekwxMUhGcjFxLWdZWGs2RmdoT3A4MzRUeXEtOHhyREVvaTdvakxZYUl0My04NGY1UzZrcl96NmJ4VE5wOG82SFM3STRPaDlfNTRMZEJZMUVmVWo1VlQ2LUZQRnlVZWtlNEhlVlBOUXVEekNRRjdRanJMTDdhZ0FqcQ?oc=5",
+          "sentiment": "neutral"
         },
         {
           "headline": "‘Not consulted’ on ticket distribution, JD(U) MP Ajay Kumar Mandal wants to quit - The Hindu",
@@ -318,27 +431,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Bihar Assembly Elections 2025: JD(U) MP Ajay Kumar Mandal seeks to resign over ticket distribution - Deccan Herald",
-          "source": "Deccan Herald",
+          "headline": "Bhagalpur MP Ajay Mandal Offers To Resign Over Ticket Allocation Process, Says Not Being Allowed To Meet Nitish Kumar - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOXlvLWM5UEJHOGpTVWdCdnBjeGJ3UkNCUXlIQWItMm9Yazh6aExBYlNJYlpQYkV2MjdGVFQ3SHE4TG5jajYzNEthaE5WMm9oQnhBNWMtNTFvblBfcGlJWjNxSlJwcU1RSTZzVDhQOXh5V1hoWlQyQXdoOUhmVzRfZ2h6NEItOERrVkJuYU42Wm9zUWxPYU1DOXJYdWdRR01ENlZEOWpfNDEzVTFJbG52X1BvS1ZiM2JsQ01odFdCSjdkcVBaMVVsNTJlckRONHJycXRXNldSaW1GWlp5ZGpEMjNB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZUpVUWFTaldibjNVWDREa2loeWZoZmc0MHpCYmNzQkNrbW02WXpJYTdsZ0tjQnJNMmRtLTlzMmpWMGdEeHpOUk9RSU5EX2lOU1hEZXJFRmtxamN2OTR1OHNOOUowN1pSTW9IbnNKUG96YWc3cnV0ZEp1U2dTbEtPeXRqdFFlUmltWGMyeUFFZ2MwejRxOGVad3htbXVlcXJIRmpVODl4WVV4aTQ2TTlFa0JBSFZEZ3d4TldYb2g3dUJ2ajhLa2NLYmFjUnhhMFI2MUNoc0NLUmdxaS0tXzNqeFJ6eE52aWo3RnlaQUJMdFZMc3RTZTNYNGtCZW7SAYICQVVfeXFMT3BBRXFSeGp4STVsQ015RUtIc1E3RmdpZ1FOaHBaX2FXaExPNnc4bjlFWkJHTExVYzI0MkhpRy1fYVhReVExR3p2bXJjdWZOQ2ppNWNCNEdxUVdyc00tcnNEX1BxaUNlcHJlMVl1eUt1SEh1RXR4VlE1X2pkZS0wWE1OUy1kOGV1LU9YZ2stU1RSNnMtMU1odElmekZ2TXlRMWJqWG5zbDBhdUNtcDJua05mc0hZS2h3NnJubHNicEN3VTFmU3BTWmR4M2NUQ3FCbU5uVHlQQUd3RmI3Ql9peHdXYWFvdDZWYTBqRy1BZmdWU0NmUUx0eUlHSDB1SHFfSk1R?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "JD (U) MP Ajay Kumar Mandal Resigns From Post Ahead Of Bihar Assembly Elections - ABP News",
-          "source": "ABP News",
+          "headline": "Bihar polls: Dissatisfaction grows within JDU over seat-sharing; MP Ajay threatens to quit - The Federal",
+          "source": "The Federal",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYXp2RDNqYi1TYUxQTkJGRjlkdGVWV2psN2VYbnV3REpIUjRySXhDUC1LOC15QWFILVBlQVpQQzdnYmc5Z0J4WVNnY1B6X25nYThiYkdUenFvRC0ya3g5NVNISG53X2pKYlExRVZ1d01hQ1dmUXhvWlNLUDQxODZpVUl2V0RIUG85SUMwMVN6Y2VKWUNkSDhUbDVQbmRFYmtERGVMSDNhLUUzdWNaODE1Nm90Z2hBM3BxNGU4OdIBwgFBVV95cUxOWktKUjd5ZHo2MHoxU0prVl96RDBzVFRtbEIwTV9lc1A2UWhvdFpZa1BadDZ0SmpJUlN4YTVIMWxOUTZfT0VLbkZHVVRVVDd1ZkFqRXdPTm1WYkF1dWM0UVI2MnFRUHU5RldYU0M1SFRkZWk5aUxsbDJPeUxWa3l4RlM3b2tnYkhwWGVXUGNoZi1iWldpbV9YQ2kxNlluQUdfWWhJQWlOYzBXQkJ1MTlYcHlJXzFpQTh4aW9DYno1c2dMUQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "JDU MP Ajay Mandal writes to Nitish Kumar, seeks permission to resign amid seat-sharing turmoil - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLWhlZjRvYVpNakhwd1hJRHpxRmpPTl9OX1lzeWkwblV4WW9VMUd4VE1IU3NNZGlSQmhkd3FGS3h0ajVVN0FZTWNEZnFIOTRTRGotc2NuWGFScWpHTnZ0c05rODFCTkJtVlZXV2liazRaeG5yRDN6S0JOdDhOWk90WHY1YVFaUVppNHZlellLZERyNy1XQlJWM0dGM05hX2JSbi13QnJKZlVpdk0zS1ZHYllnZmZhZ3RsckVlOU9sSTJDQWRpWERONXE3YUxFYnU0WEhKNnhnU2VfR2tLcWx0TEZrcFMwQXPSAewBQVVfeXFMTVJJOHVEM0FBNHN5TUZTQ191TmdMSXhuOGRxS3NMUXVUZHlhS2diQnczSTYxemluSGpJUDdEdkNKRlB3YkpjUVYxR0ltTVlodGFrRWxCek9adjFUNHZwek5KN2VodUg5WGFnQTczelZ6alE1VzFhbW5yOHNQTkEtb2Z1bWRJQ2Vtd2JyNjIzU1J1ci1WZzN5QURXalZna0JnSk5tODVvSmFZR0IzYWhnOGRjdTRQR19jRzVaSHUtaTFta0J0bklzejFRQ0ZyQzgxQnk5SG1UaTZDUGwzY1ItcjUzd3prWjJrNGx6LTU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3lZOXpvYU1pUFJnSTNZMmYzNWtXVXdiMW16RlRIakV2cjU4VkI1UkxWdWV1UTFXa3ZKNE9BOURvREFoWk11V0gxVkNlUWp6V0pUNXQzbTAxSE90ZWM2alBiaTl6R0JIakFqc0NqZE43MHcxdzV2RC1IVHdCSXNxazZPcHBMZVNzdWZBSTU3dHY2UVJUSXNlbDlnYkoyTDlSeE1YbklHMFpJVFZocGo5Y0JWYkV2UV82Q0cxSTU5ZUpNay1XSHc?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -372,15 +477,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 32,
+      "starred_questions": 9,
+      "unstarred_questions": 23,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 61.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -388,17 +493,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 25.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Low attendance",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -419,8 +524,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.43,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -440,6 +551,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 12,232,756. MPLADS utilization: 28.5%. Parliament attendance: 25.0%. Questions asked: 32.",
-  "validated_at": "2026-09-02T01:36:46.973895Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 263,000. Parliament attendance: 25.0%. Questions asked: 32. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.436745Z"
 }

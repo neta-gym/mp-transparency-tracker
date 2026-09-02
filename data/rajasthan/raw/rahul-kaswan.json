@@ -4,16 +4,16 @@
     "constituency": "Churu",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 395,
+    "myneta_candidate_id": null,
     "slug": "rahul-kaswan",
     "house": "lok_sabha",
     "sansad_member_id": 4654,
     "profile_url": null,
     "canonical_name": "Rahul Kaswan",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 47,
+    "age": null,
     "photo_url": "/mp-photos/4654.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:12.600740Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 53322989.0,
-    "liabilities": 24417448.0,
-    "net_worth": 28905541.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=395",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.938279Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 41.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.15,
-    "expended": 4.8,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:04.811992Z",
-        "notes": "Official eSAKSHI REST API — Works: 117 recommended, 109 sanctioned, 14 completed"
+        "fetched_at": "2026-09-02T14:39:17.648107Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:35:11.921146Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:35:11.919289Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 117,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 32.6530612244898
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:18.030811Z",
+        "fetched_at": "2026-09-02T14:35:11.918496Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP accuses three Rajasthan Congress MPs of spending MPLADS funds in Haryana, they say it's within rules - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ210bDhMV2x6SmczVm9GTlU3a3lSYUJrY3Q5VkNnR2dQYy1DQ2hPM2RIcllDRnV0TmxxZ0lPY0ZjcTN3Q2hQazNCaWNUY1otYzl4MmQ0WlJCbHRxZHdCR2pqTFI5Zjg1VTgtOFZHbk1jamJqakNSWHZhX2ZSTDBTMm5ENjhKb0ZLaUk1cE9rYjY5YndOcG5wdS1LVXZ6dTZfZEM4UjRmLUM3NXFLNHBjT1dRZC12dm5xNFhTXzl6Mk5LanVibGtJZGg4TWVGOFR6eXlOLXgyRlY1dG5yUUdiU0ZKTXZRT3JU0gH2AUFVX3lxTE5KWngzakxMLVhxSnBDdWhIZEk3N2s4Xy1uUFhMQ3RrZ0FRcjFfRDZfRXpuTmNnTDI0akRwM1djOEFTd3hkcnRNQnhwVWNHUE9hZWhwTHJfOFUyZE9xdW11UU4tdjBLYkpzVXAtc2tBSFFfZ1pKdllXc1lNZ01yTnk4UHp1TkpJNlBja3ZMN285WHpzQ3Z5bi1LampRRE1vMUhSbW9DRkhjek1QcWFUMEhrSW9xUWFXN3lrU0tkb0hLWmlzMUpOZWZEd0hTbDluX3Y5SHNLYUV5ZnF5OVI3MGswRUZ0cEZacE5RWkFEZW02Vzd2a0gyQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rahul Kaswan, who switched to Congress after BJP denied ticket, leads in Rajasthan’s Churu - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcTRkbUlCalYwMk9MRmtZTzl4QlhudndYSmR5dnpueU9xUmw0cGxlWTdORVdtZ1d3ejlJZDRRblFvTFlYSURxN2NaUlAxcUhqSlg5M2ZQUXVGS2hTVVY5X3dydU1OaVJETDNwTHlTT0hVcHFPQWtlbUhZRFRuT0VMc1Jwb1lmc3RNSVc2Y25FT21vMUhKYVVDSC05NHFscjVJSlNBOHBXZUtpVEpmNEtCS0hFM3RHRThKLW9EUDBqTmJtMGdW0gHKAUFVX3lxTE94VktlUlZPYURMbi1sM1RMdlhRV0RDSGxEeUc0ZDRVNlN4cFV3dnBiZU1QTUdqb2NwaDVGdzJ0UVU2Vm1xOXBORktzUHhjWUZydGwzSnVOLXZaZTVIMHpyUEpsdzlYLWxPNzgzLVE1SXdXaEtQWlZlRzdlU2dvUG4wR0VHbEZQbk10a2pKb01nanVfMEFERGNneUJOZDlOUXdYb1RNY1RBYUNfV0JQdjhNTXl2Tl9SSnpJWUlodGRzN0VNNGhZTHI4N2c?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Voice not being heard: Churu MP Rahul Kaswan joins Congress after quitting BJP - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdDFEelNXRGs1M2NKaGZhcXkxMnBraTROZ1Rmc1c0MF9IVGRmX3NOVG50dUNEOThQQi1wdG1NeC1qa0Z6RDdzeUt3eHE4Wm1tRno4X2R2akJxREc1SkFUNzlVVVpOZWI3bUdKTkpBWGFtOElOMGI5OGE2OHdKT20yTFd6d2p2U1c1YUlzUGFMcVpXRl9ERlNLZUE1aVhSNzlJbi0zQjJZRUw1dlhfaTVuWDhHVGNrSU1tazdSbGRZUFN0cm91VURmTUQ2c3JiNXlPZFNsaks0aElnN1ZjTEHSAeMBQVVfeXFMTWsxWDNaSVNNS29mUnBEb1E4Z3R3Zl9SUWc0Q2ktN3ZEd0NTTTBNNWgzZ2VveThPaV9LS1pmRUpURktKdXlwZmxJX0pOZDdiQ3BlNVFibXdsQjlyQm15R1dNbUl4TnhjYzJPNXZuRDhPclpxT1I0LWVPdUlpS211a2o2WmZnM0cwSlFRQUt3N3VSdHZPUVZpa21samUtQTZvWWEzMnI5dFJXaHBZRlVGNHl5YXlDdVcwa2owNHR2cjFwSHczcFZqdmthc1VxZmFsb2kySFNra3ZweFZvY3VWZWNFYkE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP rebel Rahul Kaswan leads against Paralympian Jhajharia in Churu - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLWI3YTZCV2kxbWNiU0VmVVZTZEJyQjNYUEdZdF9hUzJEeHFzVFZ0blVqU1JiRUR6RktDdTBvYlhVMDJpa0FpWXJndHA1V3daUllNYXhnYVNlUFVqb3pZdG1HYjl2ZV8yX1dxQXlYVk5rOEtEN0JKMkFkbWM3RGtmVFNncjRKWUhVLWdFMjFDRzQwVnJhNDQzM3E1YUVRSUsxaVl5T2d1eWVGc0xuSDRZMV9jMzN0bkdST0NwY0x0enJRQXZZcE4wMWRVM3lkd0FqRTljU2pvLXZYZ25KY2FRWlRxbXQ0MWcyc0ZDUTZHUndTcS1DanMyTNIB_gFBVV95cUxNMUlDSU5iNkhMckFkN1VNMFFXMHNhNUhOSC0wLXdMNmllMDJYbk5vSVp2LVhfdDYwc2FaTXVXMENjUUhzRUduU1ZvTG1Jc3JPWFFYeFFKaFUxeUZQcnEzajNPVHZCckxSVjNJR1QwbW5vN3BWWERiRmFnS01EY3ZHaXUwTzlwWXc4TDBNcUJobmxQdDJwUWRGVW1TdTZiVkpva0lpUGZ5c0FvZ3N2eWdha1ZwY1UyMjdTclRSa2otNjBtYzByYy1idlRKV01IS1ZoUzNXc2pkNDExaEpKQzI5eHhaZkVLQTJadlhBUFNBUmF6M3JNZ0FuQURKM3BkZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jagdeep Dhankhar breaks silence on resignation: Former VP says prioritising health was his responsibility, ... - bhaskarenglish.in",
+      "source": "bhaskarenglish.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkFQclJJb2FaTFNGRnJaSXp6QmhodC1SN2hHSmJ2V3RoUmRYeTJaTllVaGVFamFVUTZkLU5fSDQwUmxvb3VqWGd3MjI5czkwc09pcm5td0p6OVR4cncxVVBSLU1Iejh5TXFxdEpyZGV3dTVRcWV3bkZhX2JxZ1docjE2YTE5SC1pWXFCcWU5RW56QW9UdHdzXzhDZmNCWTgwME5sTngxcm9VMVROdGVGaktISi1rRlkxMHZxdU9xMG1mMzJz0gHKAUFVX3lxTE9tcWZiZ0xRVjVqamxyWV9MY01kR01tM0RKdG1XUHhxVFB2NTBoT1o4RVFhQzFQd0ZJQzItLUxITU9Od3k1MnJVYTdmWkFCQ3hSUFVxeEVRMFJBcWhtWmdTTlBKRVlLN09oLXZOVTNoZFVTamVnVXNURzdlY1h6TlhSQnNlcUQteWo5NGN3T1NlWThldUFONzhtNUdKbFpTb1lFclAwenlGRU5lbDNTTU05UHhVa3lFWVpFUWpyMzJMLVpkNldfN2otY3c?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:23.845811Z",
+  "collected_at": "2026-09-02T14:39:17.649282Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.138679Z",
+        "fetched_at": "2026-09-02T18:38:09.562344Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.138688Z",
+        "fetched_at": "2026-09-02T18:38:09.562355Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.138693Z",
+        "fetched_at": "2026-09-02T18:38:09.562360Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.138697Z",
+        "fetched_at": "2026-09-02T18:38:09.562365Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.138702Z",
+        "fetched_at": "2026-09-02T18:38:09.562372Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.138707Z",
+        "fetched_at": "2026-09-02T18:38:09.562376Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.138711Z",
+        "fetched_at": "2026-09-02T18:38:09.562380Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,22 +317,6 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Churu में किसानों से अवैध वसूली पर सांसद Rahul Kaswan ने अधिकारियों की ली कड़ी क्लास! - Dailyhunt",
-        "source": "Dailyhunt",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYV90bVZrbF9zWnZkaWx5QVFmNUZhZ1RiTUMybHpNRkY0OE5ocFFPZDZhbFNMRTVPTjFTNjh1VXlmLVN1R3l3dUgyNTlGcGw4dDAxZU5QOTU2WTlZN1hUWC1sMjRsb1pQWktGenMtU0hPb3p5TWlDUVRlcDFtc0l2NVRsOVY?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Jagdeep Dhankhar breaks silence on resignation: Former VP says prioritising health was his responsibility, ... - Bhaskar English",
-        "source": "Bhaskar English",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkFQclJJb2FaTFNGRnJaSXp6QmhodC1SN2hHSmJ2V3RoUmRYeTJaTllVaGVFamFVUTZkLU5fSDQwUmxvb3VqWGd3MjI5czkwc09pcm5td0p6OVR4cncxVVBSLU1Iejh5TXFxdEpyZGV3dTVRcWV3bkZhX2JxZ1docjE2YTE5SC1pWXFCcWU5RW56QW9UdHdzXzhDZmNCWTgwME5sTngxcm9VMVROdGVGaktISi1rRlkxMHZxdU9xMG1mMzJz0gHKAUFVX3lxTE9tcWZiZ0xRVjVqamxyWV9MY01kR01tM0RKdG1XUHhxVFB2NTBoT1o4RVFhQzFQd0ZJQzItLUxITU9Od3k1MnJVYTdmWkFCQ3hSUFVxeEVRMFJBcWhtWmdTTlBKRVlLN09oLXZOVTNoZFVTamVnVXNURzdlY1h6TlhSQnNlcUQteWo5NGN3T1NlWThldUFONzhtNUdKbFpTb1lFclAwenlGRU5lbDNTTU05UHhVa3lFWVpFUWpyMzJMLVpkNldfN2otY3c?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "BJP accuses three Rajasthan Congress MPs of spending MPLADS funds in Haryana, they say it's within rules - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
@@ -288,19 +325,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Cong MPs misused MPLADS funds for political gains; Rs 1.20cr diverted to Haryana: Rajasthan Minister - The Hans India",
-        "source": "The Hans India",
+        "headline": "Rahul Kaswan, who switched to Congress after BJP denied ticket, leads in Rajasthan’s Churu - ThePrint",
+        "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbFNUM1lNWm5rSUFnSEN1M1g5QWdJdUVsRkpicERoSlhvaHgzTnFrYmdpdE1SVFdFbjltcEdXbXhabUhqLWlNV01wa19VLVA2S1RKTG9UbjBUVzRzanNpX1FnZlRDMlZnQmhjTUVkazNfOE9SZHlCb2FsTFBldjRNR1lHQlNSSi1YNFhPVjZVdWtwLTd5d1o0ZmhBRENKWEJIV2YzNVd3R3lxQ0c1eXE2ajFGOVlVazlwYVBRR1M0MnFnc01laG1ZZjNqVXBVbjRFVUh5Q2JPbXAtbndRb3p5cl9B0gHnAUFVX3lxTE1tbEgxdVEzLTU1bW5GalRXMmpTMndnVW1ZTVdSSDA5UTlvdGRSdTVtSXR3eWNZRXlNWENfTVR5cEpWZlhLLWlKVlZqYTMzOWV3WFRNWkdtT2w5aXNsdjFqRXA4SkNkLTZ6eWFvcTY5VElQWEFuWUNyNVNPbU5aNnlMOV9fQnRvVTdaLU1kT1NpSkFfRmd0VWlMZHFSWFgtcHNTenpqZzJOR3dENHU4bTdTRTZnY0J1RkVoSTB2eHdneEZCb1JsTWdJTkRNQ1BUS3ZaMEVJMjUzRjBvYmhtTjZkWHpxRzFhWQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcTRkbUlCalYwMk9MRmtZTzl4QlhudndYSmR5dnpueU9xUmw0cGxlWTdORVdtZ1d3ejlJZDRRblFvTFlYSURxN2NaUlAxcUhqSlg5M2ZQUXVGS2hTVVY5X3dydU1OaVJETDNwTHlTT0hVcHFPQWtlbUhZRFRuT0VMc1Jwb1lmc3RNSVc2Y25FT21vMUhKYVVDSC05NHFscjVJSlNBOHBXZUtpVEpmNEtCS0hFM3RHRThKLW9EUDBqTmJtMGdW0gHKAUFVX3lxTE94VktlUlZPYURMbi1sM1RMdlhRV0RDSGxEeUc0ZDRVNlN4cFV3dnBiZU1QTUdqb2NwaDVGdzJ0UVU2Vm1xOXBORktzUHhjWUZydGwzSnVOLXZaZTVIMHpyUEpsdzlYLWxPNzgzLVE1SXdXaEtQWlZlRzdlU2dvUG4wR0VHbEZQbk10a2pKb01nanVfMEFERGNneUJOZDlOUXdYb1RNY1RBYUNfV0JQdjhNTXl2Tl9SSnpJWUlodGRzN0VNNGhZTHI4N2c?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Two-time MP from Churu Rahul Kaswan: A third generation Jat politician from Rajasthan’s Shekhawati region - The Hindu",
-        "source": "The Hindu",
+        "headline": "Voice not being heard: Churu MP Rahul Kaswan joins Congress after quitting BJP - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWFY0bHhQdUdPdEtZWFhZX295Vzk3QkdJeVdramxvaG5FOHd0RXV0S3Vsa2NVUjJLOXFHQTBRNUlpOW90VWpWc2pFaWJ1RVMxRXlCclI4OWVQeFNqMXdiVXp5cU1hWW44MDNvTGRSSE8zc25RTXRoc2FvNWlzbUowdmw5X0pTWTRUcGF3Qm9LLWFrYVlZbkExRWdIemVDajFVT3lEWmdsTHpuMU1DQ1lNLVM0ODhtblhfUThjNTlKVFYwQXlpeEhGVE5FZGFWQVJaSi1NWUxTMkFYTklabldiRFl5ZnB6akxfN1NZX2w2bjVTOXFm0gH7AUFVX3lxTE1SaFB4TzNQQlZtLWpzeFViUjF1UnI5Zms1VlE3T3lvU0I1YzBSLXhDcG82cG1JcGR3V3d1V2RENjFMMXRsenRUdkx6WjlaVWR5bV9sZDJwSFZhSnhNZEVzNG5jQ25PVTRFd19JODk3cjFvT2NOYlZodndJRmMwSjkzTWM5U3NaS2VNcDhpQWJnZlZoTUF5aEVwZDVHYk1qZFlYcmtaMmV1NUZEQkExaTYxdWN3b3RScnczMFdrUjZud0lxUVBXQzlUUzduY0lEUUFyNFcxeDFFUWdvWjI5MjFuNHQ1ckFhREFDM1VyaHBObGRHTmpNYVFVRHlr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdDFEelNXRGs1M2NKaGZhcXkxMnBraTROZ1Rmc1c0MF9IVGRmX3NOVG50dUNEOThQQi1wdG1NeC1qa0Z6RDdzeUt3eHE4Wm1tRno4X2R2akJxREc1SkFUNzlVVVpOZWI3bUdKTkpBWGFtOElOMGI5OGE2OHdKT20yTFd6d2p2U1c1YUlzUGFMcVpXRl9ERlNLZUE1aVhSNzlJbi0zQjJZRUw1dlhfaTVuWDhHVGNrSU1tazdSbGRZUFN0cm91VURmTUQ2c3JiNXlPZFNsaks0aElnN1ZjTEHSAeMBQVVfeXFMTWsxWDNaSVNNS29mUnBEb1E4Z3R3Zl9SUWc0Q2ktN3ZEd0NTTTBNNWgzZ2VveThPaV9LS1pmRUpURktKdXlwZmxJX0pOZDdiQ3BlNVFibXdsQjlyQm15R1dNbUl4TnhjYzJPNXZuRDhPclpxT1I0LWVPdUlpS211a2o2WmZnM0cwSlFRQUt3N3VSdHZPUVZpa21samUtQTZvWWEzMnI5dFJXaHBZRlVGNHl5YXlDdVcwa2owNHR2cjFwSHczcFZqdmthc1VxZmFsb2kySFNra3ZweFZvY3VWZWNFYkE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP rebel Rahul Kaswan leads against Paralympian Jhajharia in Churu - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLWI3YTZCV2kxbWNiU0VmVVZTZEJyQjNYUEdZdF9hUzJEeHFzVFZ0blVqU1JiRUR6RktDdTBvYlhVMDJpa0FpWXJndHA1V3daUllNYXhnYVNlUFVqb3pZdG1HYjl2ZV8yX1dxQXlYVk5rOEtEN0JKMkFkbWM3RGtmVFNncjRKWUhVLWdFMjFDRzQwVnJhNDQzM3E1YUVRSUsxaVl5T2d1eWVGc0xuSDRZMV9jMzN0bkdST0NwY0x0enJRQXZZcE4wMWRVM3lkd0FqRTljU2pvLXZYZ25KY2FRWlRxbXQ0MWcyc0ZDUTZHUndTcS1DanMyTNIB_gFBVV95cUxNMUlDSU5iNkhMckFkN1VNMFFXMHNhNUhOSC0wLXdMNmllMDJYbk5vSVp2LVhfdDYwc2FaTXVXMENjUUhzRUduU1ZvTG1Jc3JPWFFYeFFKaFUxeUZQcnEzajNPVHZCckxSVjNJR1QwbW5vN3BWWERiRmFnS01EY3ZHaXUwTzlwWXc4TDBNcUJobmxQdDJwUWRGVW1TdTZiVkpva0lpUGZ5c0FvZ3N2eWdha1ZwY1UyMjdTclRSa2otNjBtYzByYy1idlRKV01IS1ZoUzNXc2pkNDExaEpKQzI5eHhaZkVLQTJadlhBUFNBUmF6M3JNZ0FuQURKM3BkZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jagdeep Dhankhar breaks silence on resignation: Former VP says prioritising health was his responsibility, ... - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkFQclJJb2FaTFNGRnJaSXp6QmhodC1SN2hHSmJ2V3RoUmRYeTJaTllVaGVFamFVUTZkLU5fSDQwUmxvb3VqWGd3MjI5czkwc09pcm5td0p6OVR4cncxVVBSLU1Iejh5TXFxdEpyZGV3dTVRcWV3bkZhX2JxZ1docjE2YTE5SC1pWXFCcWU5RW56QW9UdHdzXzhDZmNCWTgwME5sTngxcm9VMVROdGVGaktISi1rRlkxMHZxdU9xMG1mMzJz0gHKAUFVX3lxTE9tcWZiZ0xRVjVqamxyWV9MY01kR01tM0RKdG1XUHhxVFB2NTBoT1o4RVFhQzFQd0ZJQzItLUxITU9Od3k1MnJVYTdmWkFCQ3hSUFVxeEVRMFJBcWhtWmdTTlBKRVlLN09oLXZOVTNoZFVTamVnVXNURzdlY1h6TlhSQnNlcUQteWo5NGN3T1NlWThldUFONzhtNUdKbFpTb1lFclAwenlGRU5lbDNTTU05UHhVa3lFWVpFUWpyMzJMLVpkNldfN2otY3c?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 40,
+    "starred_questions": 12,
+    "unstarred_questions": 28,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 78.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -24,60 +24,82 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:47.666200Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 15799398.79,
+    "immovable_assets": 9000000.0,
     "total_assets": 24799399.0,
     "liabilities": 1000000.0,
     "net_worth": 23799399.0,
-    "previous_total_assets": null,
+    "previous_total_assets": 1617595010000000.0,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7158",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.663046Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:46:08.235887Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 21.5,
-    "growth_ratio": null
+    "wealth_percentile": 19.8,
+    "growth_ratio": -0.9999999846689691
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.97,
-    "expended": 0.78,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:23.156342Z",
-        "notes": "Official eSAKSHI REST API — Works: 140 recommended, 140 sanctioned, 13 completed"
+        "fetched_at": "2026-09-02T14:49:45.961643Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:46:06.333491Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:46:06.330427Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 140,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 5.306122448979592
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 75.0,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:41.093855Z",
+        "fetched_at": "2026-09-02T14:46:06.329358Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Aska election results 2024 live updates: BJP's Anita Subhadarshini triumphs in Aska, defeats BJD's Ranjit - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOa1hMdzdLb3dQMXFsd1Q4b2ZKTDVmM3JLeUd6aURNdzF3bndaUXpoY1FmcWNXTTdha2dRejFHQ293YjdzdmozUHFuY2poUHFza2IzN3dnbmVrNDZWVkYxZGdBZDdHbm1nOEhHSmlMdWZDN09uXzlQN1RUWUV5eWUtSTczcl9uWGhoc1l3dXlDWG1lWVlUVVcyQUhIS2RBS1NkVmpiVnNDZkFIaUpDY1psdVFKVDgybVg2MVlCRlZSeDBNdXNqbm5LSFpFM1VJNjJtbVU0Q3VQdjFINHIyeU9ScGFNZmZYa2YwVmhhNWUxNlJlWWg2VnBtcDFwMFcxTFk5R0Rlb1hydmE1LXVpUTJBM0FSWFc1WU1seUtLWUlFNzVCcUNNdlFtZE9WTkNjMDNoa1JKNloycDNjaDlLdkMxetIBxgJBVV95cUxNM0k1c2pJdjlEOVhGV0VydjhJNXAxSTg2eVV6ek45OUUtSmgxZzFWNm5Fakh1Y1o5RDVpUzdWdDlMR0lqazF1cGhkcFc0eDVpSUtwa0FNOHJuWFRiTE9BNWVtWm1pazgzc2JVcmJtVjN0YXVjM251bFBuMDRYdFViOG9kWEFVenU5Q1hwcl9ZUFpVZ2Z0cEJ5eklrZ3o4ak9Pd2Q1cGZGRHNUQ3MtdVM4Sk9aUWt2OVNqSEFhX1c0OXlNV1ZEYVhVdFNPZ0FCN01zQnluQ19ROGcwUFZWUFFoVXRWd2trYzJKRnp3VFV6MUFMTkhIa1VmVGI5bmVDamRNVldZQ25ObUdSb21Zd20wbkV2di1mRUNRcG9fc2h5M1Nneno1eng1MXBXNFM1QjE2NFVybUtOV0JLVXdlR1JnWVZtWFh2Zw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJD stares at a tough battle with BJP in its stronghold Aska - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzV3NVp3elNwVUxjZGphZGZOOGE3cmZnZjVuYy10ajA0amY1ajYyekRLeXp5VEJOU2k0U2FBNk92RUppWjJkTTFxVFMxdjJqV19HVW00OE1FZmxzUzEySl93ZHZjVUgxMUhSMkczczBmSGoxUTVBZVN2ODFZMXF0OURoQ3ltcTg0WXowTTlBZE81Y1lvVTU3RUdGVjF6UjViNGx3MDlQLTdoSFgwSjRJVmFSTkJ1VHBqS1BJ0gHIAUFVX3lxTE94Mzg4OFh1M1VzVUV4MWNINF9WWmt0UzJnUGFmUUZaRVJIdzRBeURHbDkwQjl2V0VzNzR2eFVFU0x4clRjOGo0NXRaMzFWMTE0VUFPdTNqVDYwWHFzbkdYa2wyMzR0c2FwVmlWQjBGODR6WjF4M3VYam1BMlZjUXhTcGdobEUyVVF1ejJfb0FiZzR4UmF5aE5rZkNvTHk5LWVIcjQyUzZCRWd4UmVqb0phU002TGFvUXJkVUFCNkpMbEdhc1AyTXI4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Khurda Road Railway Division Hold Meeting with Odisha MPs to Boost Infrastructure and Services - Pragativadi",
+      "source": "Pragativadi",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajVLU2JhY2p5RHJpS1UzRElEX1hJRWJ1QTdFTUFxYVB4ZXo1UGd0LXBURUV3V0N0ZFZOOUNqdlhqaERUU0VkQjJ2bDNDMFdzNGJ1cU8tUWhqMmZMSUtLSmdjc0ZFMlR3cXg1MUdFN3dlTkdGNEZQZmRxV3M5WjltVVVkVjIzX3psbi1FUmo1OEVpbFBHVzAzeUhfY3FyaUl5dTVCN2o0NXQzNmJ3WFdGRy00UVpvR3pNZ0hJ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Aska LS seat to witness pitched battle between BJD, BJP - orissapost.com",
+      "source": "orissapost.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVVS3EwM1UzcXVRb3FTaEc0WFpnRTRyckd5eG1DR0dkQUVCLWFOZUpDdGtmQ3czVThhYTFFRnVoYjRJa0ZCdGwwRG1ra1J0ajk2MTdsRUNaQVgzejllcjZOVXpaZERpRHNOaENNcTNCQjNYZTJMdDJTZ1ZydkllSzRKcmZBR003WWJUS9IBjAFBVV95cUxOejVVS3EwM1UzcXVRb3FTaEc0WFpnRTRyckd5eG1DR0dkQUVCLWFOZUpDdGtmQ3czVThhYTFFRnVoYjRJa0ZCdGwwRG1ra1J0ajk2MTdsRUNaQVgzejllcjZOVXpaZERpRHNOaENNcTNCQjNYZTJMdDJTZ1ZydkllSzRKcmZBR003WWJUSw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Arrogant BJD in ruins as BJP takes over Ganjam - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnY2NWNiNEkyY2ZyRHFaUmxvV2NSLVR4Tk1Tb19TRmdxRjdkZUJ6cXRfazRvRTU1VUhoT3F1Y3V6VDhFREFWWk9QWHJXUXJ4TUVaa0I3UndvNG4wbnY1RV8tR0oyMmJTRmFWckRDanQyYmxORkxIeEt2TWNVN09aLUpabHlQcVlWcXlTbENXdF82VjJYVC11UVI0X2VYWHZLNVNPbTZwMWpvRG_SAbgBQVVfeXFMUFZ6Y2FpWmRoTC1DaW5hS2R1dkpoM1FlS3lZUEItX2I3SHROOTBabVp0OGp5WmRnWkpkcE5QMXFXNUtxbDhxXy1XNGJtUllTRDZ1Smw2ejlPUUE3Uk1sRzc3M3FLclVuN0Q5cmV3MlRIc254SGFGV0VxcUxwdUVCOHlTbWxXVGZudzlyU1c1SDBaUms3LU9NcTBDNjFKemNIeDlvdWRXanhmMWV2TzVTY01vLUNKVHVXUA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:44.640423Z",
+  "collected_at": "2026-09-02T14:49:45.962777Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.163857Z",
+        "fetched_at": "2026-09-02T18:38:08.664683Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.163867Z",
+        "fetched_at": "2026-09-02T18:38:08.664702Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.163872Z",
+        "fetched_at": "2026-09-02T18:38:08.664709Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.163876Z",
+        "fetched_at": "2026-09-02T18:38:08.664715Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.163883Z",
+        "fetched_at": "2026-09-02T18:38:08.664722Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.163888Z",
+        "fetched_at": "2026-09-02T18:38:08.664727Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.163892Z",
+        "fetched_at": "2026-09-02T18:38:08.664732Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,15 +315,40 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "AnitaSubhadars1",
+        "url": "https://x.com/AnitaSubhadars1",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "Anita Subhadarshini",
+        "url": "https://facebook.com/Anita Subhadarshini",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:46:10.009756Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
-    "total_articles": 9,
-    "positive": 0,
+    "total_articles": 10,
+    "positive": 1,
     "negative": 0,
     "neutral": 9,
     "top_headlines": [
@@ -272,39 +361,39 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Khurda Road Railway Division Hold Meeting with Odisha MPs to Boost Infrastructure and Services - pragativadi.com",
-        "source": "pragativadi.com",
+        "headline": "BJD stares at a tough battle with BJP in its stronghold Aska - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzV3NVp3elNwVUxjZGphZGZOOGE3cmZnZjVuYy10ajA0amY1ajYyekRLeXp5VEJOU2k0U2FBNk92RUppWjJkTTFxVFMxdjJqV19HVW00OE1FZmxzUzEySl93ZHZjVUgxMUhSMkczczBmSGoxUTVBZVN2ODFZMXF0OURoQ3ltcTg0WXowTTlBZE81Y1lvVTU3RUdGVjF6UjViNGx3MDlQLTdoSFgwSjRJVmFSTkJ1VHBqS1BJ0gHIAUFVX3lxTE94Mzg4OFh1M1VzVUV4MWNINF9WWmt0UzJnUGFmUUZaRVJIdzRBeURHbDkwQjl2V0VzNzR2eFVFU0x4clRjOGo0NXRaMzFWMTE0VUFPdTNqVDYwWHFzbkdYa2wyMzR0c2FwVmlWQjBGODR6WjF4M3VYam1BMlZjUXhTcGdobEUyVVF1ejJfb0FiZzR4UmF5aE5rZkNvTHk5LWVIcjQyUzZCRWd4UmVqb0phU002TGFvUXJkVUFCNkpMbEdhc1AyTXI4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Khurda Road Railway Division Hold Meeting with Odisha MPs to Boost Infrastructure and Services - Pragativadi",
+        "source": "Pragativadi",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajVLU2JhY2p5RHJpS1UzRElEX1hJRWJ1QTdFTUFxYVB4ZXo1UGd0LXBURUV3V0N0ZFZOOUNqdlhqaERUU0VkQjJ2bDNDMFdzNGJ1cU8tUWhqMmZMSUtLSmdjc0ZFMlR3cXg1MUdFN3dlTkdGNEZQZmRxV3M5WjltVVVkVjIzX3psbi1FUmo1OEVpbFBHVzAzeUhfY3FyaUl5dTVCN2o0NXQzNmJ3WFdGRy00UVpvR3pNZ0hJ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Aska lok sabha election results 2024: Aska Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Aska LS seat to witness pitched battle between BJD, BJP - orissapost.com",
+        "source": "orissapost.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYjVsWlhaREdTTjhhR1RMaHZQSnE4RUZBaFBTaWlnRUxIbE9oWmU2bzVaM25zcjhnZjJlQUYxcGZRSl9FN09vZklUVlpUa29Xakc4Q3Y5SnlDdE5GX1JCbXFkeXdLWmVXLWx3WnNMc1ZzTnhpdFY4ak82N1U3dnYxQUQwWTBwQnZ1V0ZB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVVS3EwM1UzcXVRb3FTaEc0WFpnRTRyckd5eG1DR0dkQUVCLWFOZUpDdGtmQ3czVThhYTFFRnVoYjRJa0ZCdGwwRG1ra1J0ajk2MTdsRUNaQVgzejllcjZOVXpaZERpRHNOaENNcTNCQjNYZTJMdDJTZ1ZydkllSzRKcmZBR003WWJUS9IBjAFBVV95cUxOejVVS3EwM1UzcXVRb3FTaEc0WFpnRTRyckd5eG1DR0dkQUVCLWFOZUpDdGtmQ3czVThhYTFFRnVoYjRJa0ZCdGwwRG1ra1J0ajk2MTdsRUNaQVgzejllcjZOVXpaZERpRHNOaENNcTNCQjNYZTJMdDJTZ1ZydkllSzRKcmZBR003WWJUSw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Aska Election Result 2024 LIVE Updates Highlights: Anita Subhadarshini of BJP Wins - News18",
-        "source": "News18",
+        "headline": "Arrogant BJD in ruins as BJP takes over Ganjam - newindianexpress.com",
+        "source": "newindianexpress.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaUppZ0dPOEFHSFRfazBZWnloTHpCZ3AzQ2VYZFBUV01zZngzZktPbVAxOWxmR1BTTl80TVRSX3NUZmdzV1owZlItbFNxYmVaeFZPZWEwb1dXSUNDaUc1c3pPNndIU0c4QmdtSG9zcUF5V3VGbDZNMmtJR21wRkVNdEtqalM4X3NJclRXdGozTVlZMDJWNFhGWGF6N2NtZTRYZ1dwNGxJYkJfQnFVZjV4c2EzZ0dRSF9yeVpnWGpyTmlwNkxVRmptSEZiSXVfczhsaFRNX2lJVGdIb1JkVFHSAeMBQVVfeXFMTlZOdE1Sanp0RjR6c1c0WU01bnJ3Sy1KTHpNSU9yX1RCdnp1Z0U4LTJXSlVrelFvMFBOLWtfVGJzXzBzaXU0MDhWVDY3aGRTdDlBaXFvRE5DOGFKczc5UzhMOXR0eHFDdVJ3Q2ZvbFNNb2NRbWJIbGRyQUtxMUdCbm5hM3VmcEJ6bGdaZGtJbHJYUVByS2dRUDZUSTA5QlMtbG40a0NWNWl2dm9nWlpWbVEwQUJLVnpxZUFES2xQaTVnYWM0LXNmNUstSU05Zk84TXN2QVkwdlhUeEhtanZlYTVxbDA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Hundreds of BJD workers of Ganjam join BJP - Odisha TV",
-        "source": "Odisha TV",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3NPUkkyWHloOVhJQ0w1ZXd5SWxHM3RyVHBUU1RzTEF5Tk96NmZpeExEelVDaWVaNzI4aVNXMjVSQWhXdDBDWXJKWjBuU0dCTXRhMEw1QW9pN0p3UlRHRDE4eU94LW5vamdUNk5SU1F2SlU1U0N6NGpTSTYwS0JsU0JTaWJGOXdaOHQ2VUF1bWdMSWRkak5hRWlxTGlXYmFpNHfSAacBQVVfeXFMUGZZeDYzZVQwNWNReFJ4RVppTllBMm1SSDNSRVh1TUhvVTBSQ0tkb0ZsNVU5RG5nM1FnaHBsbUV2b2pfTllpWlcycUhxdnlWMjVLZmxTRXJNbUF0MjA3WmZ5dGhoN3VCVjE4OEV6RlV3ZnV0WDZlMEcxbWc4OFA4ZHJSUFBqMzNrZ1Bpa25xZWNKT0tEMnNNTTVnUFBnVDcyOU9ISFJrbTA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnY2NWNiNEkyY2ZyRHFaUmxvV2NSLVR4Tk1Tb19TRmdxRjdkZUJ6cXRfazRvRTU1VUhoT3F1Y3V6VDhFREFWWk9QWHJXUXJ4TUVaa0I3UndvNG4wbnY1RV8tR0oyMmJTRmFWckRDanQyYmxORkxIeEt2TWNVN09aLUpabHlQcVlWcXlTbENXdF82VjJYVC11UVI0X2VYWHZLNVNPbTZwMWpvRG_SAbgBQVVfeXFMUFZ6Y2FpWmRoTC1DaW5hS2R1dkpoM1FlS3lZUEItX2I3SHROOTBabVp0OGp5WmRnWkpkcE5QMXFXNUtxbDhxXy1XNGJtUllTRDZ1Smw2ejlPUUE3Uk1sRzc3M3FLclVuN0Q5cmV3MlRIc254SGFGV0VxcUxwdUVCOHlTbWxXVGZudzlyU1c1SDBaUms3LU9NcTBDNjFKemNIeDlvdWRXanhmMWV2TzVTY01vLUNKVHVXUA?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +423,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 10,
+    "starred_questions": 3,
+    "unstarred_questions": 7,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 19.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +439,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 75.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (7%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.7 / 100
+## Composite Transparency Score: 43.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 27.1 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 39.49 Crore
-- **Liabilities:** Rs 2.76 Crore
-- **Net Worth:** Rs 36.73 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 82% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 16
-- **Released:** Rs 16
-- **Sanctioned:** Rs 11
-- **Expended:** Rs 5
-- **Utilization Rate:** 33.8%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -74,30 +73,44 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Chandrakant Raghunath Patil, Lok Sabha member from Navsari new Gujarat BJP Chief - The Economic Times (The Economic Times) [neutral]
-- From Constable to Cabinet: C.R. Patil sworn-in as Minister in Modi 3.0 - The Siasat Daily (The Siasat Daily) [neutral]
 - 5 Points About CR Patil, 3-Time MP From Gujarat's Navsari Constituency - NDTV (NDTV) [neutral]
+- From Constable to Cabinet: C.R. Patil sworn-in as Minister in Modi 3.0 - The Siasat Daily (The Siasat Daily) [neutral]
+- Chikhli Village - How MP CR Patil Adopted and Transformed It - The Better India (The Better India) [neutral]
+- State BJP chief CR Patil files Lok Sabha candidature from N… - english.gujaratsamachar.com (english.gujaratsamachar.com) [neutral]
 - C.R. Patil appointed Gujarat BJP president - theweek.in (theweek.in) [neutral]
-- State BJP chief CR Patil files Lok Sabha candidature from Navsari - GujaratSamachar English (GujaratSamachar English) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **5 Points About CR Patil, 3-Time MP From Gujarat's Navsari Constituency - NDTV** (NDTV)
+- ! **From Constable to Cabinet: C.R. Patil sworn-in as Minister in Modi 3.0 - The Siasat Daily** (The Siasat Daily)
+- ! **Chikhli Village - How MP CR Patil Adopted and Transformed It - The Better India** (The Better India)
+- ! **State BJP chief CR Patil files Lok Sabha candidature from N… - english.gujaratsamachar.com** (english.gujaratsamachar.com)
+- ! **C.R. Patil appointed Gujarat BJP president - theweek.in** (theweek.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Chandrakant Raghunath Patil shows moderate transparency with a score of 53.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Chandrakant Raghunath Patil has a below-average transparency score of 43.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 394,930,044. MPLADS utilization: 33.8%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. Low confidence data: Criminal record, Assets, MPLADS, Parliament activity. 4 warning(s) noted.
 
 ---
 
@@ -137,7 +150,7 @@ No criminal cases declared. Declared assets: Rs 394,930,044. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -216,8 +229,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Chandrakant Raghunath Patil's MPLADS account: Released: Rs 16, Expended: Rs 5, Utilization: 33.8%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -235,10 +246,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

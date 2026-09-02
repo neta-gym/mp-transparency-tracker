@@ -4,16 +4,16 @@
     "constituency": "Virudhunagar",
     "state": "tamil nadu",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 230,
+    "myneta_candidate_id": null,
     "slug": "manickam-tagore-b",
     "house": "lok_sabha",
     "sansad_member_id": 4552,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 49,
+    "age": null,
     "photo_url": "/mp-photos/4552.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Virudhunagar",
       "state": "tamil nadu",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 230,
+      "myneta_candidate_id": null,
       "slug": "manickam-tagore-b",
       "house": "lok_sabha",
       "sansad_member_id": 4552,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 49,
+      "age": null,
       "photo_url": "/mp-photos/4552.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,100 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "143/11, Tirunagar Police Station, Madurai District, Tamilnadu",
+          "ipc_sections": [
+            "143",
+            "188",
+            "294b",
+            "353",
+            "341"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Judicial Magistrate Court No.VI, Madurai transferred to Judicial Magistrate Court",
+          "fir_no": "143/11, Tirunagar Police Station, Madurai District, Tamilnadu",
+          "case_no": "CC No.197/2011, CC No.787/2019",
+          "other_acts": "",
+          "charges_framed": "Yes",
+          "date_charges_framed": "22 May 2023",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:26.736290Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 61719802.0,
-      "liabilities": 8797705.0,
-      "net_worth": 52922097.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=230",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:52.474586Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 44.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.66,
-      "expended": 7.2,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:46:33.848311Z",
-          "notes": "Official eSAKSHI REST API — Works: 86 recommended, 68 sanctioned, 10 completed"
+          "fetched_at": "2026-09-02T15:14:15.875182Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:10:17.175743Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:10:17.173661Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 86,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 48.9795918367347
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +148,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:37:05.419962Z",
+          "fetched_at": "2026-09-02T15:10:17.172827Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +156,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Making Rahul Gandhi PM in 2029 should be our objective, says B. Manickam Tagore - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMmlpNzZIVVk5cVNLbnQ3a3AtWmk3dFVMNnZ0ZzNBaDh1YXdoMHlrakJlaElhR2RvaUxlT3lKX2NneWdsOW9HYlpHdUxHbnd3bXB1eTV1eVVPS2VMV1Vpcm5TV0hEcEFTYUhMOUhuZWlMaTY2WFNKZE15bGpsY081TEZoMUhtaFRGb3NNbG1aTGJBMzFPYWUyZl9hM0QyQ1VxUGtUUGNEOFVBZEI4ZDk4alp2YUtTaVc0aktmX3VpeC1Wd1dsUTdZTmJQTC1sSjRBU1JKeHBPU2FaOEVockU1NNIB5wFBVV95cUxORnNmMloxTWhBQmc1aGxqRXhiZHFNZkc3ZzZxTG1fNWwxeXNFVHJqT3VVVkZKaVVBU29hVlhIVWdnNlVYVElTWVpSRTVsLWFyLTk0dEZtODNnSHJTbWJlNDRockxTcUFYdWN5MXRUMVJkdG9QczVvUEk5WmJuRVg3RTVkaFhGMkVGNjc2bnJNT3g3V1Jxa28zOW1JZ1NTS21aQ0JRSEpnc2phNm83NWV3WWdwV3dkdEN0ekZKRFp0dnpXekprU3VfUzc0V0FBTV9vU0otQ3hQbWp3b0Mtc1JEaklXYWt0OFk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Manickam Tagore Appointed As Tamil Nadu Pradesh Congress Committee President - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOE84RXJITDZyZGhFNUNVd1lSMHIzYjZ3UmZzSzdreUpQNTlHdmpTdGMtOGsyR2lfZ3NINmt3OTJOeXI3T2VidmN6Ykg2LXpBOXAzOVA5QXRlemk3bG9TaG1TWVVBYk5vT194enNBc3dxR2RRUFNaRW9NamVxS2NuUFVSelppRzFoZmRDeEpmeW45ZU5KXy1LM2xsLUdYaFNNOEQ2S0E4M3hmZEhHTFlITkJBUklFaW5lRS1GV1ptYmdPdnpG0gHKAUFVX3lxTE1FVi1LblF5UnlrU1ZUa2FWdVNIRU1TektzVzVWeU1JeHlBTkZIZkdqV0xyUDE3dmN4NmRsbVg4TnlGdkxSUldWMkw1UjFZSkZWam5wN0xpUnV5bGM4ZThjeUhMLUljVzJkOXVzWU1xOTdtb1dUVzZTb3cxSFJXNlZTVm80U29LcXA3clQwTkVTOUptSS0tNk5fRHdlSG9hT2dzUi1aa2FEWGt4S2M3UkI1eWZWRzBoWVVic1Z0TWNyZDZVSHd0VHBmdUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Manickam Tagore appointed new TNCC chief - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzJ4SzJrbWZsazMyRTlTY3RtVUhSYXV0NnlDYTBxcEVJd3BIazZMYXpUVC1wdUtMYWhxcUFDUkhlVEVvVzlJZGR5bncxSTNyMTkydmtsMTE5d3VzY3hCMzVOV0RTWjNZRGRpYmJHVU53NU1lVElPbW04QlJrOHNRVkFpVmNQTHQ5eXpRMjJfWnhFRkZwWmVBdjhDSmJZSEVrOENfZ1lIZ1B4aGdNdWJBQ3ZVTW42UdIBuwFBVV95cUxOZ1hXSWJPX005X0FKcEViNFVaWjMyejlydUVvRkF6RnRyaDBKQzB4Q2Vpc3NUUGUyVlg0NjZ6Y0VsRVJrRFZqempKdEdCZ0hvWnNMWFNXSjN6X1ZoQzEwUDlVVVRrc2RmS0lPSnJmbG9PZ2JONVBkUm93NWdZaDQ4WnFnQjMzR012bHRlbDg1TzBkODRxS0hnNXlDeVdJbUZiZEstZTFZSDliQXloZjJDLXBYVVdKUGRaNmc4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "DMK-baiter Tagore replaces Selvaperunthagai as TN Congress president - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcXB6ZTREcE4zUUh0SmxiSlJQbThRWXBobkNQZFg0YTRrMG1WTnJlRTU1RVJvREhvTE9FNG9leUNGcjdXNkxsb1hjQlJ0dVc2VWRWb091dHpHeGxtLVNaQWZRVGxaODlLRFNoUndWYjNKQ180akVIRHJFNjhZams2MjVfV0c5a2RkRHh5M1EwcnhqUnBCbzdMalJwb1FuQjh0enJzdDV1YWdXY0JaYTV5VDZYZ3UxLXMtZTU1RHNVUFE4U2IzemVOY0lLWdIB2AFBVV95cUxNM0ExcjA4QmVNMHh0aFFqRkN3bGhMaGRvQkpmaERFQlZ2aXNIZWpDRFgzSFhQS2tEM05RSXFhbndVbWFWSXhVaTRtU1BSN2hQeklrS2g1ZlVNZlByLWlzN2NmMjE2QXV3Y0xaSk1ORjZrZllGNDlueTEwdzM2WE5VSWdQV1lwdWN1azdfR0VXVkxLcTY3a0hFQXBaaFR6emExYWIzN1p0V0VCbHlWcG5HMDRLQzVBNjhuYkZsb29FcjMwM2IyMU5kMENUR1dpQXNJZmF2NUdEZDg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Plea for afternoon passenger train from Madurai to Sengottai daily: Virudhunagar MP Manickam Tagore writes to Union Railways Minister - Lotus Times | Madurai",
+        "source": "Lotus Times | Madurai",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRFRYVlR4akFab0U5aDZKTmlUZ2J6UTZQZFFZVWhDTlBaTWZUd3pGZUZXWnNSY3RuRVBaX09uaTA0RjEwR0c3dGVVYV93c2MwcUZJNGdsWTRZUkcwSmtIaHkwMWxySktKUm5qcWpobnhvcWE0djVYSVhBQlEzRVRFalB0bnJPMXIwcjJwdEdFOWMyZmtiZHdQaGRTNFNyTnZWVlRVNzlRNHpEREVWOXFYczc5MDJMeWpxSVBqN0Z2dE11OW1xOUp5SEZNaHpLd2FHSThFSlJDcThhNHYyc1dLaEZoTUJ3djZuMXk2Zmdlc25NNkJabDh4ZmY1SWhSRUho?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:37:28.023949Z",
+    "collected_at": "2026-09-02T15:14:15.875949Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.502738Z",
+          "fetched_at": "2026-09-02T18:38:10.004076Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +241,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.502747Z",
+          "fetched_at": "2026-09-02T18:38:10.004088Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +257,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.502751Z",
+          "fetched_at": "2026-09-02T18:38:10.004093Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +273,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.502756Z",
+          "fetched_at": "2026-09-02T18:38:10.004099Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.502761Z",
+          "fetched_at": "2026-09-02T18:38:10.004106Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +305,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.502766Z",
+          "fetched_at": "2026-09-02T18:38:10.004111Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +321,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.502771Z",
+          "fetched_at": "2026-09-02T18:38:10.004116Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +346,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/manickamtagore",
+          "url": "https://x.com/http://www.twitter.com/manickamtagore",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/manickamtagore",
+          "url": "https://facebook.com/http://www.facebook.com/manickamtagore",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:10:37.425494Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,43 +384,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Tamil Nadu election 2026: Should Congress stand with ‘those rejected by people’, asks MP Manickam Tagore - The Hindu",
+          "headline": "Making Rahul Gandhi PM in 2029 should be our objective, says B. Manickam Tagore - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLXBuY19obXpiZ3dTV1ZSZUs2d3Rkb2tHdlBROE9zVEZPaHlRVnBKVUVLSk56WnEtUG5HWk5YZi1EWjdHQklvc0VSMW85d2djdldlVXVHZ3RUak01a2YyMTdnR09NYnJKMmZVeFNtVjV5bHl2Qm1YX2JJUVhEVnlPVHJGaEVFWUJDYjFnM0RJUGJ1WnBJTmNGNzhlSjFPZi1uS2xXb2UzSzJoTTZxa0NlWEJOV2hhQ2lGb1dsZ1FKVG5Cam96RnNqZ3JJZlZ0VWd5MDV2YS1mcFZuN0d3RDI4bS1RMVPSAesBQVVfeXFMTWhTRFRqQnc0akFpQmMzcjZ0cVdxWG9zaVdUNERiLXkweUIxTWlEMkpDWmk1M1lsR0cxWFdWOXdkMFo1ZnhwczZsbHlKUEl1M3pxZDFsdTRKS2J5OFJpaVFxUUI0MzZWN3JySDloTXp3RzF4RENkMnZXSnFpM3ZQdUlhYnFnMEdrdVFLaWYwY2JfY0ZUSFBldjZ1YmxOMm1IZXJHeEdxTHVjVUFwbGYzdm54SlB3VjJKdFR6bV9NdG1YSk5BeDFSd0pDSXBlY2ZlanAzZzRvNkFtN0loRkttSTFpRU1ITnBOVjJjVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMmlpNzZIVVk5cVNLbnQ3a3AtWmk3dFVMNnZ0ZzNBaDh1YXdoMHlrakJlaElhR2RvaUxlT3lKX2NneWdsOW9HYlpHdUxHbnd3bXB1eTV1eVVPS2VMV1Vpcm5TV0hEcEFTYUhMOUhuZWlMaTY2WFNKZE15bGpsY081TEZoMUhtaFRGb3NNbG1aTGJBMzFPYWUyZl9hM0QyQ1VxUGtUUGNEOFVBZEI4ZDk4alp2YUtTaVc0aktmX3VpeC1Wd1dsUTdZTmJQTC1sSjRBU1JKeHBPU2FaOEVockU1NNIB5wFBVV95cUxORnNmMloxTWhBQmc1aGxqRXhiZHFNZkc3ZzZxTG1fNWwxeXNFVHJqT3VVVkZKaVVBU29hVlhIVWdnNlVYVElTWVpSRTVsLWFyLTk0dEZtODNnSHJTbWJlNDRockxTcUFYdWN5MXRUMVJkdG9QczVvUEk5WmJuRVg3RTVkaFhGMkVGNjc2bnJNT3g3V1Jxa28zOW1JZ1NTS21aQ0JRSEpnc2phNm83NWV3WWdwV3dkdEN0ekZKRFp0dnpXekprU3VfUzc0V0FBTV9vU0otQ3hQbWp3b0Mtc1JEaklXYWt0OFk?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Will seek Madurai North seat from DMK: MP Manickam Tagore - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "Manickam Tagore Appointed As Tamil Nadu Pradesh Congress Committee President - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeW16blJaaTNSOVZ2NDdZVDNqdjl2Y2hmekV2TGwtRFJyS01aUXZLSTlnOUl1Y3M5M2hrekxwNU0tamNLZ1JidEJsXzhkTGFZOUxsV2FRdEdPbng5NkRRMm83bjdScksxTVJ3ZmlwSEREVENWaFMyOXRRVjhJZmp1WjU5UjVQejJ0cUNvOEg2U2lKVXVVWmZmWFItMlNzam95b2tTQzliTUtwSTNpZkNQSUNkRDg2ZDhlSnVR0gHIAUFVX3lxTE9Pc3RPZnRwbHppd2lJZEw1b294UVNhSnVOTzZrcDdERk5vX0tLandkUG1tYXZGNlNqU1ZHdUozYjVqbHJaS0lXV0JJT21XTUM1dkdWQ3BnSnFCeFh6Q0V3Y0xaOVVwanJodldnbzBCTzF1a21fRG1XRDNQekU1X3I0aS1qVjU0UnZ4NklrZkZFaVVJbUpXc3paNTFjZ2Rtb0xWUFRYZTVUbmx6aC1EaFRmcmxJOERuMlM2UkY3b0VfbXJSYWQyTkdu?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOE84RXJITDZyZGhFNUNVd1lSMHIzYjZ3UmZzSzdreUpQNTlHdmpTdGMtOGsyR2lfZ3NINmt3OTJOeXI3T2VidmN6Ykg2LXpBOXAzOVA5QXRlemk3bG9TaG1TWVVBYk5vT194enNBc3dxR2RRUFNaRW9NamVxS2NuUFVSelppRzFoZmRDeEpmeW45ZU5KXy1LM2xsLUdYaFNNOEQ2S0E4M3hmZEhHTFlITkJBUklFaW5lRS1GV1ptYmdPdnpG0gHKAUFVX3lxTE1FVi1LblF5UnlrU1ZUa2FWdVNIRU1TektzVzVWeU1JeHlBTkZIZkdqV0xyUDE3dmN4NmRsbVg4TnlGdkxSUldWMkw1UjFZSkZWam5wN0xpUnV5bGM4ZThjeUhMLUljVzJkOXVzWU1xOTdtb1dUVzZTb3cxSFJXNlZTVm80U29LcXA3clQwTkVTOUptSS0tNk5fRHdlSG9hT2dzUi1aa2FEWGt4S2M3UkI1eWZWRzBoWVVic1Z0TWNyZDZVSHd0VHBmdUE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "We bore the blame for your mistakes, Congress MP Manickam Tagore tells DMK - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTHhCbno4eEtxd3dDZlg1U3VHRWE2TjJoRU80T2s0U3Z3R2RfYXNQV29pYlNLV1I1YTdjeVQwY2hHRnd6YnFqTWptTGloNTBvdDgzMDhFOWhsbXZ5M2RkRmQ1OHRNaHlUVGo0SHY1UGhrdGZVN0ExbTF0WTdvVzBGdEhqQnU2a20yejR5eTNxNjFFSDIzVENOZnF0NW1LUjJaQUxTZmNWWkgwS2hNR2U4Y0hCVlB3YzRKcnFoT3NBOG9fRTMtWG1tSjJjSzIwbWF2RkhMZ1hRSG53b0nSAeIBQVVfeXFMT21WVzJ4dVBKTEpsRHI3QTZFekRYRXkxbHV3WjJVcW5SNzdPQ0J2QTg2MUF2dEMxRUNiUXhBR0p1cmplT3ZDMlltSmM2R0YtaVN1WFZGWUdncGVuTWd0b3h0dW13YWZ1cUxDVEM1OXZlMUtwSG1hVGhkMWRlU3BXMVp5bU93cnBlN3I2Z2ZCbnpHbGxFel9VQkR6VnRKSzZUYVFVMC1Ob3NaYmFmZFZud3pYMzd0OEhWYmN1WHMtbHBidEVVRDBXLWUtNWgxMTBORGJKYXJobzBwU0MtdWg2bVJfZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Congress MP stands firm on demand for sharing power in Tamil Nadu after Assembly poll - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTFhpbXR4c3prc2hzYTFDWUtJMXQ3NEg5MlUtTEphUnFzM1pQSEpCckpyWk5sTlZBV0NnYU8zS1dfUms2eDlxQnBhMlh3aXBZeHA4MUdkTW4xRE5mNWxYZGFuS205UXZZZlJ3aDVJbU1LZjJOZ054Tk9ySU9rWGNSeDh0YWpRZ0hmQjNwVHlyNWdEd2JQb2kxX2otZlZ0VktScXRnck1HR2VFMmlWcU1Xdm53SDFLbEVvQXZONmhkWmQ5bjcyeG5CWEswUTlDR29Dc3I0SlNpR0JqcjJRZzFxWk5SZUnSAesBQVVfeXFMT3BxUlhWQ2ZCMU01c3VfSGtTY1hLTGQybXBZWEpvRDQ4MW8yTE1DdkEwRldSeTVtRUtMR0E0Yy1kZGk3WHQ4OFlLallyQWxMZHRmaW9KODE0ZFdVeF9BaUE1eU9EV19kd091RmFReEhKeDhsTGdYMEdzek0xNUxGdVFpZnRtOEZURnlyLVh1OUx2OTJrZ08wTEpabUtRY2trSVNBdVFVU0NYYkFvbUJzTVl0eEZ5YWFXVHJZVHE4UUd0RXV2OFEzVGpIcXBDRXNOWHAwUHV1aTI3WFhQbmJXUUV0aVhZTENFVG5LUQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Virudhunagar election results 2024 live updates: INC's B Manickam Tagore wins against BJP's Radikaa R - The Times of India",
+          "headline": "Manickam Tagore appointed new TNCC chief - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNaEZTdkVHakdzMTBDT05MN19zcUVqd3Z5UkkzRzRrXy0wYjVnY0FfRUNoNFoxZ1ZWNWxBZkZKVHVlUmhPVmF4S0JvczBCODMxb1ktX0RQWFAwNlVUdTUtdnNvRjJrRWZXYTdLSU5wOE5PemEtUWVhZ0E0dUZmZWVmalF5RGZNb2dQMFJ4NWxoTnRHbUkxNkU5R0pDb1hKT3p4WmVlRldxc0RpeFJNZU5LQlJoQWxKcWtzRHRrUFpMaU1vazBfTDVWSWhFYkgtczhzQVJhSVhadFZwVDRZQ0hBME5iY1hDZmUyaGVHQ3lRdW1VVkF0UHJFcTJNUmpoSnFqR0NCaTkwZWFIcjgyT1NJRjI0LU1xSEgzeXVWZnNkOXJxTDBMc2JSYkF2WdIBsAJBVV95cUxQc3NqOXVfUTBDeFQ0ZUVjMlM1X2F2eDVlMjJiY2l2RS1YcG9tcWMyZkJUeDUzT19GdmNka3pPNjJKb1JseDhvYUw2enN2R0RvVTN1anlJcThJdkVZREk0TmhZdEExSTBaZUJncFVEYnBjbUpndVZRYWR5eXRlb0k4c1hhTlk3bkJyaWU1cS1jd0JBUnlKSTlZMkRoQkpzWlBOakdnQkQtOEZ0YjYwUU9GT0ZnYzJhXzFQZE5VZS1aNGI1dGQycTBLZ0JjV0NQdUxJVHFLNk05OG1hV1NydHdKckxMZkdXb2k0R1dHZEVvbDI3NFRlRnROM1hseTdjU2ZEZEQ2N0ZhZ1JST0lNRGhRSjNfai1RSF9EUjlzdnFzTFBIN3pxVjlPSG1aUUZaOTBV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzJ4SzJrbWZsazMyRTlTY3RtVUhSYXV0NnlDYTBxcEVJd3BIazZMYXpUVC1wdUtMYWhxcUFDUkhlVEVvVzlJZGR5bncxSTNyMTkydmtsMTE5d3VzY3hCMzVOV0RTWjNZRGRpYmJHVU53NU1lVElPbW04QlJrOHNRVkFpVmNQTHQ5eXpRMjJfWnhFRkZwWmVBdjhDSmJZSEVrOENfZ1lIZ1B4aGdNdWJBQ3ZVTW42UdIBuwFBVV95cUxOZ1hXSWJPX005X0FKcEViNFVaWjMyejlydUVvRkF6RnRyaDBKQzB4Q2Vpc3NUUGUyVlg0NjZ6Y0VsRVJrRFZqempKdEdCZ0hvWnNMWFNXSjN6X1ZoQzEwUDlVVVRrc2RmS0lPSnJmbG9PZ2JONVBkUm93NWdZaDQ4WnFnQjMzR012bHRlbDg1TzBkODRxS0hnNXlDeVdJbUZiZEstZTFZSDliQXloZjJDLXBYVVdKUGRaNmc4?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "DMK-baiter Tagore replaces Selvaperunthagai as TN Congress president - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcXB6ZTREcE4zUUh0SmxiSlJQbThRWXBobkNQZFg0YTRrMG1WTnJlRTU1RVJvREhvTE9FNG9leUNGcjdXNkxsb1hjQlJ0dVc2VWRWb091dHpHeGxtLVNaQWZRVGxaODlLRFNoUndWYjNKQ180akVIRHJFNjhZams2MjVfV0c5a2RkRHh5M1EwcnhqUnBCbzdMalJwb1FuQjh0enJzdDV1YWdXY0JaYTV5VDZYZ3UxLXMtZTU1RHNVUFE4U2IzemVOY0lLWdIB2AFBVV95cUxNM0ExcjA4QmVNMHh0aFFqRkN3bGhMaGRvQkpmaERFQlZ2aXNIZWpDRFgzSFhQS2tEM05RSXFhbndVbWFWSXhVaTRtU1BSN2hQeklrS2g1ZlVNZlByLWlzN2NmMjE2QXV3Y0xaSk1ORjZrZllGNDlueTEwdzM2WE5VSWdQV1lwdWN1azdfR0VXVkxLcTY3a0hFQXBaaFR6emExYWIzN1p0V0VCbHlWcG5HMDRLQzVBNjhuYkZsb29FcjMwM2IyMU5kMENUR1dpQXNJZmF2NUdEZDg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Plea for afternoon passenger train from Madurai to Sengottai daily: Virudhunagar MP Manickam Tagore writes to Union Railways Minister - Lotus Times | Madurai",
+          "source": "Lotus Times | Madurai",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRFRYVlR4akFab0U5aDZKTmlUZ2J6UTZQZFFZVWhDTlBaTWZUd3pGZUZXWnNSY3RuRVBaX09uaTA0RjEwR0c3dGVVYV93c2MwcUZJNGdsWTRZUkcwSmtIaHkwMWxySktKUm5qcWpobnhvcWE0djVYSVhBQlEzRVRFalB0bnJPMXIwcjJwdEdFOWMyZmtiZHdQaGRTNFNyTnZWVlRVNzlRNHpEREVWOXFYczc5MDJMeWpxSVBqN0Z2dE11OW1xOUp5SEZNaHpLd2FHSThFSlJDcThhNHYyc1dLaEZoTUJ3djZuMXk2Zmdlc25NNkJabDh4ZmY1SWhSRUho?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +454,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 56,
+      "starred_questions": 16,
+      "unstarred_questions": 40,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +470,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +501,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +528,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 61,719,802. MPLADS utilization: 49.0%. Parliament attendance: 100.0%. Questions asked: 56. Debates participated: 18.",
-  "validated_at": "2026-09-02T01:36:52.503460Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 56. Debates participated: 18. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.004858Z"
 }

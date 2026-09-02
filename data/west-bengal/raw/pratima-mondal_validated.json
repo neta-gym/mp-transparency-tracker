@@ -4,16 +4,16 @@
     "constituency": "Jaynagar",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 9628,
+    "myneta_candidate_id": null,
     "slug": "pratima-mondal",
     "house": "lok_sabha",
     "sansad_member_id": 4871,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 58,
+    "age": null,
     "photo_url": "/mp-photos/4871.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Jaynagar",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 9628,
+      "myneta_candidate_id": null,
       "slug": "pratima-mondal",
       "house": "lok_sabha",
       "sansad_member_id": 4871,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 58,
+      "age": null,
       "photo_url": "/mp-photos/4871.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:37.065479Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 68970051.0,
-      "liabilities": 0.0,
-      "net_worth": 68970051.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9628",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:56.108919Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 47.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.47,
-      "expended": 7.35,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T18:22:40.287751Z",
-          "notes": "Official eSAKSHI REST API — Works: 223 recommended, 218 sanctioned, 61 completed"
+          "fetched_at": "2026-09-02T15:14:56.531874Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:10:48.744794Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:10:48.743275Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 223,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 50.0
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 55.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:32.786592Z",
+          "fetched_at": "2026-09-02T15:10:48.742649Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Lok Sabha MP Pratima Mondal’s Zero Hour mention on the demand for a railway line from the town of Jaynagar to Maipith via Jamtala in her constituency of Jaynagar - AITC in Parliament",
+        "source": "AITC in Parliament",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOVUpZMkhldUMzTS0wT2EwUFJOSkZZZGxOUnVncEkteWU2WEJNQmFPQlhqQmFjclZmVzJiWlh4aVJKLVNfQnNNU0pWMHJfdTJoUDZHZHM4eVdld0IwZzVpbnBSTUNsVWdvc3FySy1ST2xwSlFFdUdQclVkS0xGb19Hb1oxRzI5bFpZbi1wOUtzME1peVp1Nk9tNjVHRk05T1RSOEs2N2tvajVzeTNIR0xVbmJqcjhieFNtNHYwYnhFbm13c05NZ294UllORXFFMHR5NWk1RVBKdmF5a3k1Y2d5VFJsUzhKWTJ3S2xrZzRjTGtqX3d2SmFwVXUzWm1UdE9XQTNXREQ3eHFhakthdlRFXzBOeXk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Joynagar (SC) election results 2024 live updates: TMC's Pratima Mondal wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNHR2WTZGNldOeWJpbWVQc2hDcXY2Yy1SMDVRTXpNZkNwVjlOckZDYmxKaFdTaE9Sbjk5R1Vyb2ttX0V4R3hqekM2MmhZV3B4NVZEZFY4NUtKN1g4V2ltYjZIdlNLY1pjMUZtdWdBci1tQ0Jra01nNnFSZEJhZXRmVFRJQkxVRTJNU2M3Tjc0SW9kMzBGZmRvT29CazJGLXVIQVdHUmV2aXVCeHMxbmRxU2RSSjdJNzlNbGhBZHJFQXB3MVBydUJJd0ZhLWhLNTFteGt6OXJ3VHU1MHBwbkpVdGJEekZmVUNJZ1Zsb0V4T0VyX0hJaXZGWHFTbklHRjJZdF9vcjJ6TGpqNkFscW56dUVNWWFtQllPOHoyckxabEl5blFzVE5jemhVc01oWE5CSUNF0gG4AkFVX3lxTE9ONkdJWnFDYTluRDRuQjlLWDdTMnptQVRuQ0hNN09aX3lUNHdsNVhaay1pMlhNRkJIMkdiRk82NjZoZGpzTlp2ZzdDblZMZXRfYUtXSkpKMXU4b2dHVGx4Q1N0SDgxRkdxSTNMRHBuOXY4VG1RQnZ0V011V2ZSdXdUZWljaHA0Wm5DTVNMcU9jZzhCVXFycFBUU0dFeF83bWw0VEptYUFYQm1BN194WFF4d2FFN2xkQ0M5T2dBQmhTdkUwU3dBRTlPT1prUEZ5Z3RCUDdMekljQUMxaXNOV3BwWlhYUnA3dXpOTzBRRjkwYnctQ3N0dmp5WmtXdE1ic0hocVhDU2ZWMVhVbEU0TDBSeU1YdVRXQ1dqMk43cDluS1ZBYzlQUW42bGd4Q2NFMVItbWV2Y0tmTA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mamata stood by me; now my duty to stand by her: Shatrughan - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU3JGSEdfcVp6X0hyU3ZmX1Q1LW1HSGR6MmN1TVN1U084ZEdybTlGdnhYUGVsV0QxVHY1eXlqbkR3WWprR1pmcS11dmdfZmZIcGZmeXBFdF9SdTE4RFhhWWpPZmxseHBvVGstSGJVaU04bWlnY0dObWtnRUJIdmlybERDcW4wTzlrNmxneFRqOGZSM2dHbDhFMG94d1VPb05iTWktaldtYzNhUDZsX2Y0TVd3dm9QUDE0aENwSnZXVjA4cS1VaHlidDl4a0l3WFljUExIWndtZnk3YjViNFBEVU5xY0t4TWJnX0RBUUR2WdIB9gFBVV95cUxPaGhJemdQdmFYRl9BNmtrSEYwTjl5SmRja29WWDhrcjhEZldTM1otT0IxTmprd0JSRVlTRlFfVVF1SHpmeWZ6ZnBMOVBVYzQ1N2ltMGVzc3RfYjB0Ymg0eWt6eEQwN21tc25VYWV4QzJWYVRRcDc0X2JoaV96X20wWUE5U2RnWTZVUjNrUmFMMlR2RFF4RW8zSmE2bFlyTnBTRHNJa0thZUJLaUViRWNjTWI3U1ptS0o1dlBQbnBBUWo3QlR6d3o4NzZFS29xUVAxTjVETXJNOUx4QVBnb0ZvcDA2SXhISTNlVHRfdEpKbktvVmZOZGc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TMC MPs rally behind Mamata - MillenniumPost",
+        "source": "MillenniumPost",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tZExjWXlVRkwwUVdPOXc0dktSZk1WSno5QU1NcEp6aUlMTF8yaHNYMTBXT3B1X2RvdlFMRERBZ0VfUFZ0Y2NwWmVFenZ5dDlLRmJQVFo5dDJfRVBVSW52WU9OTThvN0NYT1FnMHhLVmhqcl96eld2VHlRMNIBgAFBVV95cUxQMElmZkEtaXI5T3NJZXNaeFJJWHlrUGQxckRUcmpSaWR5OXJnLXcwa1pkV1hEMmlQSkJHUGlqSWU1TlVyZlNCcjBhaUtLYk8tTGkyOWc4SXJFcFBLZkJGWXRablMwUHVrN0x6RU9aV0toSmpKZXFRU3VZenZVaGFxVA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mahua, Pratima, Sagarika Meet Atishi - Rediff",
+        "source": "Rediff",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRzYxRUpWVTNPaU9xOW5kRk9VWkhFVGc1eDhqZDZwNDhUaU1TMzhaWS05cHNGLXpwTDJsLWtDZ3R0ekVPSDFiWkpaNG9TV09TcUF2UXhGclAySXhvbGRJMzAzWjZvdWZiUE80aWUtTm8wNENHNENCdnhVTkR0WXl3LWxGRk9WZVMxZEHSAYwBQVVfeXFMUE9PZkpiSlhDNTNNWVNjMGpDTFVkYmpVUlB3ZXhHVGNJZnMzZTAzVmtPakpGbWduX1ZfODZReFZ2UjdqZHlwY2d0X1BfeVBpb3NnVmVscmpvMmVjdU5UXzNweUpXQ0sxc0RhOFBJNXhkdkZ1Nzh4MzI0MTZGNFNHN3F3RUdCeDY3STJqYmE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:32:35.817273Z",
+    "collected_at": "2026-09-02T15:14:56.532512Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.862095Z",
+          "fetched_at": "2026-09-02T18:38:12.499395Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.862104Z",
+          "fetched_at": "2026-09-02T18:38:12.499410Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.862109Z",
+          "fetched_at": "2026-09-02T18:38:12.499417Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.862114Z",
+          "fetched_at": "2026-09-02T18:38:12.499423Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.862119Z",
+          "fetched_at": "2026-09-02T18:38:12.499432Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.862123Z",
+          "fetched_at": "2026-09-02T18:38:12.499439Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.862128Z",
+          "fetched_at": "2026-09-02T18:38:12.499447Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,19 +335,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Pratima Mondal’s Zero Hour mention on the demand for connecting the climate-vulnerable area of Kultali to the railway system and building a new railway line from Jaynagar to Maipith via Jamtala - AITC",
-          "source": "AITC",
+          "headline": "Lok Sabha MP Pratima Mondal’s Zero Hour mention on the demand for a railway line from the town of Jaynagar to Maipith via Jamtala in her constituency of Jaynagar - AITC in Parliament",
+          "source": "AITC in Parliament",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcWoxZ1BYYUlhZ3dOTGRGUXJDbHZyUjFKYk5fRlZWa1FXWUlCekRmSHBHNkFuM2NKdTFqZnJlY3BmXzhEYnpBNXVEd3h5QlRhRks5UnJyRl81MXlKMk9nVk03Z0VPX0tERXQybEhOa3U0OTVvT0JaVEM2YlFlZkZqcVd5eHI4bEpUSHlmWTg0NGM1RlNjelZsMVVGQnczVFFKaFFWcW5PU21wVS15enVGaU9ySnFGam9aQ29pajRNM2QyRzJpWHcxS0hNazc0dFpXakJSczdCeDBrai10bUhEVmFlOEhLdnI0b1ZldXp1Q2szcS1FeGE3aFhibnhRbnRpZ0pTT3cydjZtc0hRVlBuZk9meVhWY1J1bGl1RmR2ZWtZcWlGSFZmSFlJanJ0QmNLRFVNMm1NZWtXSk10eXc?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Mamata Brings Back Kalyan Banerjee as TMC Chief Whip, Sends Unity Message to MPs - Dailyhunt",
-          "source": "Dailyhunt",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNS251enpYT2FCY2ExaWROaTNwUVlBNkJLSW96QTlRS2JHR0VfM1Y5RGZRZzF5d2Z6OGhLYVR1UVVnU3ZSQVFYcEtHQ1J0eno1cUtKaGV0WG13UHp3a2tmelR4NXBzR25mVHFrVXVrdGpuVDZ5Vm83dzF6amZZWU13MFF2OVBTRDYtUUdqQ1UwTHF0RE1QZU5aWXV2UHduTkdnZDctRThPemdfM09lUmlQU1p3OVA5VFlqQ0tJRFJhVDd0VGhPQVVFV2NPbi1QTl9QUlMxeE41WXpFN21PSnc0cGw2OEQ0a1NpNVZ4cDFoVWlic1RkVmNLRXNTQWxweldLeWtn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOVUpZMkhldUMzTS0wT2EwUFJOSkZZZGxOUnVncEkteWU2WEJNQmFPQlhqQmFjclZmVzJiWlh4aVJKLVNfQnNNU0pWMHJfdTJoUDZHZHM4eVdld0IwZzVpbnBSTUNsVWdvc3FySy1ST2xwSlFFdUdQclVkS0xGb19Hb1oxRzI5bFpZbi1wOUtzME1peVp1Nk9tNjVHRk05T1RSOEs2N2tvajVzeTNIR0xVbmJqcjhieFNtNHYwYnhFbm13c05NZ294UllORXFFMHR5NWk1RVBKdmF5a3k1Y2d5VFJsUzhKWTJ3S2xrZzRjTGtqX3d2SmFwVXUzWm1UdE9XQTNXREQ3eHFhakthdlRFXzBOeXk?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,19 +351,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Lok Sabha MP Pratima Mondal’s speech during the discussion and voting on the demands for grants, through the Union Budget, under the control of the Ministry of Jal Shakti for 2025-26 - AITC",
-          "source": "AITC",
+          "headline": "Mamata stood by me; now my duty to stand by her: Shatrughan - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPMUVLMGNNaElFSS1JaE55SjJRZHUyM2dNcy1rcVZQd2ZkUGFiSk5Odkl2V0x3blltQ1BmY2w2MWptcXdZRlRWdV9oU3Z1ZklhdkRuSFU5ZHY2d2E5cHNIUlhxamVuYkRPRkJHQ3BuZk9QM1VEMGx0UF9HZE5VUTJVWVVCQURXU3pEbkh2aW9FcTg0d1RhN0pXSU01NGFHek9id3dXaUlDWXZBaTRDSE9ERHdQRWhreC1QVzc3QjhrbGhCaFZyaWtnNmZucHdNWjVfMnJvQTVGZVBfOHVmeWo1bjQ5ZmVULVV3TExIU19kYzVIT3RoSFFjRjFfSTFXQ0Vrc0FLR1JZWWszYTc2RUR1ZWd3elQtbm9haWs4ZEhUeDgyNFFrdm1CZWpqckFoZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU3JGSEdfcVp6X0hyU3ZmX1Q1LW1HSGR6MmN1TVN1U084ZEdybTlGdnhYUGVsV0QxVHY1eXlqbkR3WWprR1pmcS11dmdfZmZIcGZmeXBFdF9SdTE4RFhhWWpPZmxseHBvVGstSGJVaU04bWlnY0dObWtnRUJIdmlybERDcW4wTzlrNmxneFRqOGZSM2dHbDhFMG94d1VPb05iTWktaldtYzNhUDZsX2Y0TVd3dm9QUDE0aENwSnZXVjA4cS1VaHlidDl4a0l3WFljUExIWndtZnk3YjViNFBEVU5xY0t4TWJnX0RBUUR2WdIB9gFBVV95cUxPaGhJemdQdmFYRl9BNmtrSEYwTjl5SmRja29WWDhrcjhEZldTM1otT0IxTmprd0JSRVlTRlFfVVF1SHpmeWZ6ZnBMOVBVYzQ1N2ltMGVzc3RfYjB0Ymg0eWt6eEQwN21tc25VYWV4QzJWYVRRcDc0X2JoaV96X20wWUE5U2RnWTZVUjNrUmFMMlR2RFF4RW8zSmE2bFlyTnBTRHNJa0thZUJLaUViRWNjTWI3U1ptS0o1dlBQbnBBUWo3QlR6d3o4NzZFS29xUVAxTjVETXJNOUx4QVBnb0ZvcDA2SXhISTNlVHRfdEpKbktvVmZOZGc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Jaynagar (SC) West Bengal All India Trinamool Congress - The Times of India",
-          "source": "The Times of India",
+          "headline": "TMC MPs rally behind Mamata - MillenniumPost",
+          "source": "MillenniumPost",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMExFWEgxNU1WQ01GQVVBRUVJb2dGaktQOXJBZ2dUMjFUZ0M4Q3h3YkY5WFBhOVBfZk9HSTJWM0RrOUdsMjFfNmpOQU11UFVfMk5iTjdHdzRUYmJBYXhDejF6YnhRYVk1V0xLeUJiMnlhRERZSHRkczZQNTI0ZmZnSjBoRzJKQURoRkNZX3J5NGhjMnNjOXdDWFRYbjlTdTlrazhFTzFpdVhtLW5UMWM1Zi1CWXZuVGpBQ0ZxQg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tZExjWXlVRkwwUVdPOXc0dktSZk1WSno5QU1NcEp6aUlMTF8yaHNYMTBXT3B1X2RvdlFMRERBZ0VfUFZ0Y2NwWmVFenZ5dDlLRmJQVFo5dDJfRVBVSW52WU9OTThvN0NYT1FnMHhLVmhqcl96eld2VHlRMNIBgAFBVV95cUxQMElmZkEtaXI5T3NJZXNaeFJJWHlrUGQxckRUcmpSaWR5OXJnLXcwa1pkV1hEMmlQSkJHUGlqSWU1TlVyZlNCcjBhaUtLYk8tTGkyOWc4SXJFcFBLZkJGWXRablMwUHVrN0x6RU9aV0toSmpKZXFRU3VZenZVaGFxVA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Mahua, Pratima, Sagarika Meet Atishi - Rediff",
+          "source": "Rediff",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRzYxRUpWVTNPaU9xOW5kRk9VWkhFVGc1eDhqZDZwNDhUaU1TMzhaWS05cHNGLXpwTDJsLWtDZ3R0ekVPSDFiWkpaNG9TV09TcUF2UXhGclAySXhvbGRJMzAzWjZvdWZiUE80aWUtTm8wNENHNENCdnhVTkR0WXl3LWxGRk9WZVMxZEHSAYwBQVVfeXFMUE9PZkpiSlhDNTNNWVNjMGpDTFVkYmpVUlB3ZXhHVGNJZnMzZTAzVmtPakpGbWduX1ZfODZReFZ2UjdqZHlwY2d0X1BfeVBpb3NnVmVscmpvMmVjdU5UXzNweUpXQ0sxc0RhOFBJNXhkdkZ1Nzh4MzI0MTZGNFNHN3F3RUdCeDY3STJqYmE?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 23,
+      "starred_questions": 6,
+      "unstarred_questions": 17,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 43.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 55.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 68,970,051. MPLADS utilization: 50.0%. Parliament attendance: 55.0%. Questions asked: 23. Debates participated: 8.",
-  "validated_at": "2026-09-02T01:36:54.862847Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 55.0%. Questions asked: 23. Debates participated: 8. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.500185Z"
 }

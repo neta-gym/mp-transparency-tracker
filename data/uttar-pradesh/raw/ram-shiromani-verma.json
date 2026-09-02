@@ -4,16 +4,16 @@
     "constituency": "Shrawasti",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 8159,
+    "myneta_candidate_id": null,
     "slug": "ram-shiromani-verma",
     "house": "lok_sabha",
     "sansad_member_id": 5164,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 48,
+    "age": null,
     "photo_url": "/mp-photos/5164.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:09.018226Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 73638343.0,
-    "liabilities": 100000.0,
-    "net_worth": 73538343.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8159",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.917362Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 49.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.17,
-    "released": 15.17,
-    "sanctioned": 3.08,
-    "expended": 0.19,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:13.523428Z",
-        "notes": "Official eSAKSHI REST API — Works: 1455 recommended, 117 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T18:24:33.511473Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T18:19:41.317650Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T18:19:43.599888Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 1455,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 1.2524719841793013
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:10:54.712312Z",
+        "fetched_at": "2026-09-02T18:19:42.833977Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BSP expels Lok Sabha MP Ram Shiromani Verma for ‘anti-party activities’ - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0h1eGpPNExKSDE2ZU9qbWFUWEM2anotUkRpQ3dzTzB1dnpIM3BlLXFhODdBT3dnV2ZybG5QNjdqWGdXd0tHNkczQUZQS241bmdnaUxad2RDNTlOeFZ3LVVOVW5iemVPOWRFS3BjVEFBZ1lMeFF5cUk5ckQzY2xmNGdRV2txamtmcE13eTNkNTQzLWhUSmxWWVgyOWowdmxmX0NDUDUxY3ZVYTluRkYxcHFxMUxrSjUzVHJyMlpQNjNzQ2Q5MFl6OFlEenMtblo0TXdFTjl5UUc3WnlRcnJPbG1ZONIB6gFBVV95cUxOQUUzZWtzWnhHZlY1R2pGeGJDMndONW1WS2x6NXpFTWtyUE5aWkFCbGFJS2o4Q1dTYzlrdlF3c3c5Y2NCQmxoS1RGbS1ETmFsNHB2ZnN2RDhaMEFtTjlMSjZNX0xFYU1kcUZJNWxmRTlUbDhuc3NUSHFvU05GREVJU1k3bFU1R0NjRW5rLW5sOTVQT3ZBSWdhdWJOX1pJMmtyZ3lDTGpxUzNzd19MamQwWGFkM3JwSUNxZzBUa1RSMVVlaHhhVjAxbHNUSGpHT0U4VEQ0NnIwQTNTaUNsU2JMNVNIVkpvN3QwdEE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "It will be abki baar INDIA gathbadhan ki sarkar: Chaudhary Ram Shiromani Verma - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLWFtTVlMSkhvSTZQMGRTV08tczRCTUVWc05GYWV3Tmw0Z0N6em5VcVlFY3BaUnFLUVhNWDFudzY4ZUhGUERTRUF5M01ENDR4TEFSOVhDUmhFd2lQenhzRDNMQ2t0dy1VMldmUHpIcDVyTEpHRThSNFFCaHNOSVdIaEVvYVBNbnp6V0I0a1ZnVEFxcFVhelo0Rk5ON3ZBcDYtYjNDblB5MUU3LUlxQnAyb1kyWFRBUU9oMExDdUx3elVmZG4xYXFJcklqNG41akVRUkVnR1hVXzRqOVVqNnfSAeMBQVVfeXFMT2NucXNzU0ZfM1hPX2RpaWNUVXZZc2h2Mmx6UTZSdHRkNkJoTk1vdXFWTUhuTkNjOElTTnZaa2k5SUt2OGR1clpxaWdFenlYOWlxVG5yN3ZvU29qWGZ6aHlBcm94aWxzNzdlXzhNa1pLNkF3MnFGUlFiS21kYlBGa01VdktDVXNFSlFJQ19iVWhSSWIzUTlTSEJwZy1fMnItUHNmb200S3pqaTVYUkJraWJqTzJIZDJXRVhOQ0UxVFp5LVAzMlpIYU1JOV95MWI3LTRfN1NQUzIzNjQ4NzVPWUxZb1E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BSP expels Shravasti MP for ‘indiscipline’ - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR191cEF2VnJySXkyRVVqSzBuZTl4dWpsNmVHWElKODB6T3FxTlRpZFJGZkg3V3BlSnUwa2VxYTdOdmlIbGVSSHoxajlhaVI4OTdvWXJxM3JOS1Z0U0p6TnhzOGZOTUJyYlhTa2VkNXdYWVpwS0xxSVctLUp3SGZYd3RiZGJvUUdsZFNTSjlKUDJyZHpuaWNGU1RXMDJxRXPSAaYBQVVfeXFMTjItYWxWZVJ3ckRSR1NvMFRJMkdjaUsyZTBkRWN4X0JZQXZmOERaQVJHYUlVcFRzUXZOTGdFUnV5ZDA2LWJnTWRlQmx4a1VabFdkUXNkaXgzSEU5cnY4amxjNGVXRkZVbi02dFQ1alNfTmRtaEFIbFdvbENFd2ZWdEhhYnJ3VWZQU2dCQWpISHNYa01ZbWNKMHJCYnpCLVBrRVd4M2Vudw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ram Shiromani Verma , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2hFV3FidGEzdjFZU25SWWtiQnU5MFp5TEtUTXhESDFrdDl0SzBERko4Q1pPVF9zOHVmeHNrSGViTW1fNE9xRzJINW5qRS0tVENmWmhSeGZTVFkxd2ZPZy0tUFJsUk95SkxRN1hCY1pyNThpR3NfTms0aWhwd0ZoV1czTXF5cjRuUWhGLQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Not just Ayodhya, BJP's candidate and son of man behind Ram Temple construction lost too - Firstpost",
+      "source": "Firstpost",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaFhzbkx0b01rRnh3QmZqTDduck9NYy05NHU4ckNqQ3ZuN3pSYmVGemtDZlRhUF9aQUt3YzdMNC1JMkxycm9PdGlxQkd6NFBCTTFCcFUtSkVqaGtUUkx3Z0ZUZjE3Sko1YzhiaGJ5N2l2X1dLU2hZamJraE5JQ1NKZk5idDdMb0RQSFN4Y0tNb0trZlAyVi1keTlhd2Yzem16a0pZbDRaYTdCU2k3dl9GUFlsZDY1Um9LejlyZkpQRU5IaHRGM1pUX1dMLS3SAdIBQVVfeXFMUHRNdEpqYlhPaFFJUFB6UHpYUG9jYnJ6V1QxYWplQl9nSGtvSEw4NVVkX3lxWFFjei1aNHZwRDZHVU5XU2xGTVdxT1FrM2NIN2hsalV2cHkzbG9pRExrQXFrYnJfZ1ZhMDVad05feFdHYTY5bXkwZnV6Wk50OEphcjFqWW81UE95cEV1eWM1NFpRcFZ2TVVCRGtzN1dHY0V4Vmstb3dUMmFGWU52SE03QUVHMER1TzZ3TDhxTmlNRm1nTHBxdXMwTzZUbnlnZ1pORjFR?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:11:13.894533Z",
+  "collected_at": "2026-09-02T18:24:58.518958Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.027068Z",
+        "fetched_at": "2026-09-02T18:38:11.623682Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.027076Z",
+        "fetched_at": "2026-09-02T18:38:11.623694Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.027082Z",
+        "fetched_at": "2026-09-02T18:38:11.623700Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.027086Z",
+        "fetched_at": "2026-09-02T18:38:11.623705Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.027090Z",
+        "fetched_at": "2026-09-02T18:38:11.623711Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.027095Z",
+        "fetched_at": "2026-09-02T18:38:11.623716Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.027099Z",
+        "fetched_at": "2026-09-02T18:38:11.623721Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.027102Z",
+        "fetched_at": "2026-09-02T18:38:11.623726Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,11 +333,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Ram Shiromani Verma , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "headline": "BSP expels Lok Sabha MP Ram Shiromani Verma for ‘anti-party activities’ - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2hFV3FidGEzdjFZU25SWWtiQnU5MFp5TEtUTXhESDFrdDl0SzBERko4Q1pPVF9zOHVmeHNrSGViTW1fNE9xRzJINW5qRS0tVENmWmhSeGZTVFkxd2ZPZy0tUFJsUk95SkxRN1hCY1pyNThpR3NfTms0aWhwd0ZoV1czTXF5cjRuUWhGLQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0h1eGpPNExKSDE2ZU9qbWFUWEM2anotUkRpQ3dzTzB1dnpIM3BlLXFhODdBT3dnV2ZybG5QNjdqWGdXd0tHNkczQUZQS241bmdnaUxad2RDNTlOeFZ3LVVOVW5iemVPOWRFS3BjVEFBZ1lMeFF5cUk5ckQzY2xmNGdRV2txamtmcE13eTNkNTQzLWhUSmxWWVgyOWowdmxmX0NDUDUxY3ZVYTluRkYxcHFxMUxrSjUzVHJyMlpQNjNzQ2Q5MFl6OFlEenMtblo0TXdFTjl5UUc3WnlRcnJPbG1ZONIB6gFBVV95cUxOQUUzZWtzWnhHZlY1R2pGeGJDMndONW1WS2x6NXpFTWtyUE5aWkFCbGFJS2o4Q1dTYzlrdlF3c3c5Y2NCQmxoS1RGbS1ETmFsNHB2ZnN2RDhaMEFtTjlMSjZNX0xFYU1kcUZJNWxmRTlUbDhuc3NUSHFvU05GREVJU1k3bFU1R0NjRW5rLW5sOTVQT3ZBSWdhdWJOX1pJMmtyZ3lDTGpxUzNzd19MamQwWGFkM3JwSUNxZzBUa1RSMVVlaHhhVjAxbHNUSGpHT0U4VEQ0NnIwQTNTaUNsU2JMNVNIVkpvN3QwdEE?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -304,19 +357,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Shrawasti lok sabha election results 2024: Shrawasti Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Ram Shiromani Verma , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFBmMW93ZjVUZFJUTU0tMWhCUkxvcXFucDhLblZ6T2ZqSng5X2cwYXhMZzN1UC16RGk4a05YdTNaUEJOLWVzeGU0V0QzeTBpSXlqQTkyc3VXanNfWkxiMmZNQW9LWkdwTHBLWW1zTHpQeUZmTVBNWlV0ZmdfdGhmY1JyYVU5VUxEYUFtRDRmRklqcjJKUWd2YVJCbw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2hFV3FidGEzdjFZU25SWWtiQnU5MFp5TEtUTXhESDFrdDl0SzBERko4Q1pPVF9zOHVmeHNrSGViTW1fNE9xRzJINW5qRS0tVENmWmhSeGZTVFkxd2ZPZy0tUFJsUk95SkxRN1hCY1pyNThpR3NfTms0aWhwd0ZoV1czTXF5cjRuUWhGLQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "BSP Changes Candidate In Jaunpur, SP In Shravasti Before The Last Day Of Nomination Filing; Here's What To Make Of It - Swarajyamag",
-        "source": "Swarajyamag",
+        "headline": "Not just Ayodhya, BJP's candidate and son of man behind Ram Temple construction lost too - Firstpost",
+        "source": "Firstpost",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUi00R3lxVnRxUEJZa3pBaGo1VnRUN3BTbnlObk1fb2s4OENSLWpRUXFqVENuRXNUbVBKWHNDQTRma3BxcFlKbGhiS3NKNWdEblh3U1J2Z0JfaXJrdkxNYy1vcVdhT2FiNjJQQTBzSlM2Ym5LNnRyMVAwaWczd2VNYWNVVnZKTmlyMFpDMXlwRTlOMmdieEN6RDNjaHNqeHA3TmgxazRXNExaam4tTVctOWM0VkN5TjB3SnFTRE1xRG1hdjYxbFUwd1Bzcmo0bzFiZXNRRmY1V2ZvRVpGQW44ZEVfQdIB8wFBVV95cUxNLWxscGgwazJJUlFsazdYRU5POFBfRDFMTjItdExRLTNjZ0R6RDY3VVI4SHBSSWxiWTd6NXBaNVV1dW16OUROTGM2NWJ3QkdfcHJxU1B5MlQ0MUZkcnhPb3BxZWpOaWtsMXVwUDhNUzlkNThKUm5OeE9qbmhhck5jNG5zUUVxa2h6N3lVdDA5UHRySHN6eWdWM2tPeXVtMHR3VEltb19mSFVoYTFvdkoxeVNpTzlGa0c2MkFidklBV2lyMU5JeGRQTXUwZmtCQnIzamdGQndHQzBlMlJoMUhnbEk0eXN1WjlFaWlTOTVoQ2t2LVk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaFhzbkx0b01rRnh3QmZqTDduck9NYy05NHU4ckNqQ3ZuN3pSYmVGemtDZlRhUF9aQUt3YzdMNC1JMkxycm9PdGlxQkd6NFBCTTFCcFUtSkVqaGtUUkx3Z0ZUZjE3Sko1YzhiaGJ5N2l2X1dLU2hZamJraE5JQ1NKZk5idDdMb0RQSFN4Y0tNb0trZlAyVi1keTlhd2Yzem16a0pZbDRaYTdCU2k3dl9GUFlsZDY1Um9LejlyZkpQRU5IaHRGM1pUX1dMLS3SAdIBQVVfeXFMUHRNdEpqYlhPaFFJUFB6UHpYUG9jYnJ6V1QxYWplQl9nSGtvSEw4NVVkX3lxWFFjei1aNHZwRDZHVU5XU2xGTVdxT1FrM2NIN2hsalV2cHkzbG9pRExrQXFrYnJfZ1ZhMDVad05feFdHYTY5bXkwZnV6Wk50OEphcjFqWW81UE95cEV1eWM1NFpRcFZ2TVVCRGtzN1dHY0V4Vmstb3dUMmFGWU52SE03QUVHMER1TzZ3TDhxTmlNRm1nTHBxdXMwTzZUbnlnZ1pORjFR?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 29,
+    "starred_questions": 8,
+    "unstarred_questions": 21,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 55.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

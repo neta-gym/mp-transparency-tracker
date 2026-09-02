@@ -4,16 +4,16 @@
     "constituency": "Bardoli",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3740,
+    "myneta_candidate_id": null,
     "slug": "parbhubhai-nagarbhai-vasava",
     "house": "lok_sabha",
     "sansad_member_id": 4757,
     "profile_url": null,
     "canonical_name": "Parbhubhai Nagarbhai Vasava",
     "name_aliases": [],
-    "education": "Others",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/4757.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Bardoli",
       "state": "gujarat",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3740,
+      "myneta_candidate_id": null,
       "slug": "parbhubhai-nagarbhai-vasava",
       "house": "lok_sabha",
       "sansad_member_id": 4757,
       "profile_url": null,
       "canonical_name": "Parbhubhai Nagarbhai Vasava",
       "name_aliases": [],
-      "education": "Others",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/4757.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:58.869070Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 47003506.0,
-      "liabilities": 8455874.0,
-      "net_worth": 38547632.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3740",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.606213Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 37.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.78,
-      "expended": 2.19,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:10.292311Z",
-          "notes": "Official eSAKSHI REST API — Works: 293 recommended, 234 sanctioned, 61 completed"
+          "fetched_at": "2026-09-02T14:58:05.577805Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:54:25.952820Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:54:25.949541Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 293,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 14.897959183673471
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 65.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:23.772468Z",
+          "fetched_at": "2026-09-02T14:54:25.948428Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Gujarat BJP MPs' assets multiply manifold over ten years in power, ADR report reveals - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1BrS3hIVVNsV2lucDl5aDFwUVJGR2l1c0c4YmduekJNeHBnSFIyR0h6dkRFd0RmbFJvdVBMX3FzSFNydjlIR1FRWkRnbm91ajIzWTJ3aXhBOHo0TEpqTHJKVTJEQzhuY0tic1dqY1ZpSzBGTDVvZ05oelowRm16MHZ1QlhaWkRMMDQxcXVEWTdJV25SLVR4d1RGWE1yYXk5Q1dqTkxXWF9ITURGMHdiODJiQ0RjSlVFTVHSAccBQVVfeXFMTkN2NW5jVW40MGhybWUySlc1ODNmOFVjVVY4ZHZfdTZxMjRUUmVYNV9ILTl0SjBrV1Iyc002TEZ4c1ZQRjM1eFdscXgtSktCUHFMWDl3Wkd1cTNBTWRhSEtBYXQ1MzdyODlUZXIwUEdtTzZ2Rl9YMU9tUFJfU2YzLVExX29nY1Zrb1g0MWZ2LVFFNDFXcnU0b1JFYmlsUFhNdXI0eXJTemlNeDUyWVVMeXF2SkViRnhUcGJKS1czcko4OEtJS1JSMA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bardoli Constituency Lok Sabha Election Result: Candidates Profiles, Map, Total Votes, Past Results - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjRTYUZsMEY4SEJIbkpqbEg4X0FPbWpVdVJHTlJKbkxnMF9qU0dUSzI2dWZWdUpmWFhGbHF3RTBDcENzNzdkT1NfVEdraVYwMGJoWGh6WDJpdVZadkYwLTl0cF8wVzdTdmdtSVQtajdEcmtqMDJXVTlGc1BFbElLTV9mZ3Q0VUhDck51V3V5VQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha elections 2019: Bardoli Lok Sabha seat in Gujarat votes on April 23 | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ2pGSDR0YTdDRnRNcUtWbDRpZGhvRmdVNjB5Tm9XaVhPelNIbGlkUEx1VUZPSU90MjRwS0NmZGFqdzlJWDQ2YWMxZHU2c0NSY2hFNmowaEhjTktLRTBId25yOVJNQXpIRTNjZkFVUmRZUzV3REg4aUdOSEJJdnRsR2wyQzJ0OTZyTXJaZU1kZ203eDFhTm5qV1lybkVxdkRKYlpnVU9iRjg4Zm1GTmhMamFJUXJVVjZXdXZtVUZndndFN1Byb3lCU3FBTGd2RHVlanBCdE8wOGVsNUZBc29Oby1aYmNHcERrMXd3Ti1xSTJUdEHSAfgBQVVfeXFMTTJDNkxsU2pvZ1FheVBrR1VKY3huU0NoZ0xyT1EwODZKNVJLYUhaTEVsREVNLTlpM0ZmWmdhQWQwSzVSSnA5ZEtSQjZQYjFHMXJkWE9EV0RGakJUVkc5eTVpMVZCNWJEUl9jdGtBUmJKNS1pS3BoNEVtOG5HT0xzdGhmYm1DMWktNnROQlRNODRMeUdEeGVoVnJuQU1IVlJJMTQybVNRSWFxYmlzQzJCVjV0V0QwTGdaMWpxeUM4S2Z2cDlkMjRoN0FvWGhlcEZfUGs0cW9qTE56U3AxamFYT2hTOXBFb0xDRC14UzdZdTR3RmxMbFVzbWM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Overview of President Droupadi Murmu’s Visit to Angola from November 8 to 11, 2025 - AffairsCloud.com",
+        "source": "AffairsCloud.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0FfMWF6Sl9NWG92VERMbUc2amJ6TU9nbFEySFRxOGV3VVRJMG9SQm01YnRZZ2xnc29MQnYxQzBvblg5T05GdDNrcjBtT2xxNFlDVVBmTlg2TnN3Y2huMmp0MTVKNjlsV3Bqb2lmXzdQa2ZxakoyQXZWWG1hQVdHNmlDRXpEZUFZaE5KMFpJU1BNeEZZYkpudGZLcS15QmNncjFLUnI1dndSdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bardoli lok sabha election results 2024: Bardoli Winning Candidates List and Vote Share - indiatoday.in",
+        "source": "indiatoday.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTURablBocWR4QS0wQlZxemRSWWJHQTN3VjA1bkRRSFpoOERlVWxSZXlOU05GQ1hqcGowT0tPSE5aYm1ZTWJhMUJFYm1rU2h4cloyZGxwQzVQUnd4Nzc1aUZFUWtSNm14M295XzhjWEp3WTItS0NabkE5TjJzY3BkM1pqUHlKTWNrc3A5eHdkMA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:32:10.771462Z",
+    "collected_at": "2026-09-02T14:58:05.579021Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.177835Z",
+          "fetched_at": "2026-09-02T18:38:05.797777Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.177843Z",
+          "fetched_at": "2026-09-02T18:38:05.797788Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.177848Z",
+          "fetched_at": "2026-09-02T18:38:05.797794Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.177852Z",
+          "fetched_at": "2026-09-02T18:38:05.797800Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.177857Z",
+          "fetched_at": "2026-09-02T18:38:05.797806Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.177861Z",
+          "fetched_at": "2026-09-02T18:38:05.797811Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.177865Z",
+          "fetched_at": "2026-09-02T18:38:05.797816Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +322,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://twitter.com/prabhunvasava",
+          "url": "https://x.com/http://twitter.com/prabhunvasava",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/prabhunvasava",
+          "url": "https://facebook.com/http://www.facebook.com/prabhunvasava",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "http://www.Instagram.com/prabhunvasava",
+          "url": "https://instagram.com/http://www.Instagram.com/prabhunvasava",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:54:37.280082Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,27 +368,27 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Bardoli election results 2024 live updates: BJP's Prabhubhai Nagarbhai Vasava wins - The Times of India",
-          "source": "The Times of India",
+          "headline": "Gujarat BJP MPs' assets multiply manifold over ten years in power, ADR report reveals - newindianexpress.com",
+          "source": "newindianexpress.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOaEt4a2RaaVdfdFVqeUZFMmdDQzNDWkZDT1JSNUVYcF9VVTBSUlB4V0FIVVI0Zk14QWFmUUlFeV81blVXZE5NWGZsbEFKbFNDajRVMllUMXlyVW9NZkZqNW83Z1dOaUR4RUlwd1NkOF9XdkFVaElJanJ3UFI2TENSXzJLQTZVZnVGWUVKUEZSaHFTTFpwX1ZyWkJqRExTS2pQeDRDRWg0cDJLYTNuMTNycWQ5YUEzdFRGb1VEcDlIT2JHdVN4TXZpV0RaMklldzQ0SHQ0dlRZTk5xRWtyWVdLTFJIVmZObGJVenRiRG55b20zSVRiUXFocXI4WndwNmhJaGROZDgydXlzTXNUazdIQzN1aTJfNGpudEpqY3Y3ckx5ZzJGajA2MV9XR0Fmc1RxcThuNC1ZS3owX0Jleld3YjN1YXI5TVdsbmZxcWtCaFdBUdIB1wJBVV95cUxPSXJiYndibTdraVdkWnFYSEo4bGxIMmZDVHVENHJlT1BmdVZtWG05RXRoS2l6aHEzc1U4Y3dNUGItZW1LR3E1N1VsQ1ZpMUloWUlhQWRybDdVSW1jTGxLSUJlcUx4Q25nZDRXV21MQlp6Zjlac2VuLUQ4anNzQ0s2SWNNdFpNbzFqSk52YlNKbDBwSzVBNndLX3pjaWdReHFCYmVNRkphNHk2UURVRmhGSDJlMG1PTHE1SlF1U09iR0ZpbHQyeW43M2pPMmxwaWYyYTV0WFJ3ZTFFQVU1eGRqU1hoTTlBUlQydFRsVDlLdVJCR01YVmZrNWpCLUptOE9Dc1FWbDdoVWM0SXgxdGh1QkdyUXZPSlZZQ1ZpV3Eyekh2dUgydlZJaFM5U2dPbW1IXzExSmFtRlRCSXZ4ZDNtZUpLcFlFbE9EaE1CZVMzcXVHMlpaTWpN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1BrS3hIVVNsV2lucDl5aDFwUVJGR2l1c0c4YmduekJNeHBnSFIyR0h6dkRFd0RmbFJvdVBMX3FzSFNydjlIR1FRWkRnbm91ajIzWTJ3aXhBOHo0TEpqTHJKVTJEQzhuY0tic1dqY1ZpSzBGTDVvZ05oelowRm16MHZ1QlhaWkRMMDQxcXVEWTdJV25SLVR4d1RGWE1yYXk5Q1dqTkxXWF9ITURGMHdiODJiQ0RjSlVFTVHSAccBQVVfeXFMTkN2NW5jVW40MGhybWUySlc1ODNmOFVjVVY4ZHZfdTZxMjRUUmVYNV9ILTl0SjBrV1Iyc002TEZ4c1ZQRjM1eFdscXgtSktCUHFMWDl3Wkd1cTNBTWRhSEtBYXQ1MzdyODlUZXIwUEdtTzZ2Rl9YMU9tUFJfU2YzLVExX29nY1Zrb1g0MWZ2LVFFNDFXcnU0b1JFYmlsUFhNdXI0eXJTemlNeDUyWVVMeXF2SkViRnhUcGJKS1czcko4OEtJS1JSMA?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Bardoli lok sabha election results 2024: Bardoli Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "Bardoli Constituency Lok Sabha Election Result: Candidates Profiles, Map, Total Votes, Past Results - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTURablBocWR4QS0wQlZxemRSWWJHQTN3VjA1bkRRSFpoOERlVWxSZXlOU05GQ1hqcGowT0tPSE5aYm1ZTWJhMUJFYm1rU2h4cloyZGxwQzVQUnd4Nzc1aUZFUWtSNm14M295XzhjWEp3WTItS0NabkE5TjJzY3BkM1pqUHlKTWNrc3A5eHdkMA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjRTYUZsMEY4SEJIbkpqbEg4X0FPbWpVdVJHTlJKbkxnMF9qU0dUSzI2dWZWdUpmWFhGbHF3RTBDcENzNzdkT1NfVEdraVYwMGJoWGh6WDJpdVZadkYwLTl0cF8wVzdTdmdtSVQtajdEcmtqMDJXVTlGc1BFbElLTV9mZ3Q0VUhDck51V3V5VQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Bardoli Election Result 2024 LIVE Updates Highlights: Parbhubhai Nagarbhai Vasava of BJP Wins - News18",
-          "source": "News18",
+          "headline": "Lok Sabha elections 2019: Bardoli Lok Sabha seat in Gujarat votes on April 23 | Hindustan Times - Hindustan Times",
+          "source": "Hindustan Times",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS21qcjRVT2ZCOUNyRUFWYXdjcTNubWF6azVoam1Hdk90WTdYSUM3NHJFMkdhZnNxWE9QVEc0ZWdPY0k4aEFncW5mdXY2TmRZY1ZpSWZuY09qOHVsNXBmSXJ6ZHByMC1OSXMwbTU1VnN5b2E3Q2Jkd0ZEa2Y3OFk0dlJKVldSa0w4dUNQNnE2VUlUWm9oMy1aZURDN2hjeWJvTUFfSFdnZmlHR0h2alZNWTZzQ1pRWG5WVG1aTmJfNXJIX3lORVFUSU1RYngzQ1laQzRxdWlWY05tMjRCSEl5bXFB0gHnAUFVX3lxTE0yZXgwS1lPV2I4MWtFNlRxNmMtbTB6LWZmbzdCNmVmVkdiR3JzZHlxaXVoTXZoQVdqal9TZnNTNi1RSUFiU0ZtdDF4eklDSV9wT3MydENuWG8waVpaWVJTdVFaejM5N1RGcld3Wmc3dlBZbGthQlpzZk81YnloZmdwZkV5bjI3am1RQTVKbWZzRldkS3RodUVBSU04VThTMUxlMEs0QklwYmtNakhSQlRELTZjZVBLM1J0blp3M2o2RDJzMlV3VWxBUjRWZnFPYk9abDJHMGtmaENIbnpEVUdUZ2RrQmFFOA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ2pGSDR0YTdDRnRNcUtWbDRpZGhvRmdVNjB5Tm9XaVhPelNIbGlkUEx1VUZPSU90MjRwS0NmZGFqdzlJWDQ2YWMxZHU2c0NSY2hFNmowaEhjTktLRTBId25yOVJNQXpIRTNjZkFVUmRZUzV3REg4aUdOSEJJdnRsR2wyQzJ0OTZyTXJaZU1kZ203eDFhTm5qV1lybkVxdkRKYlpnVU9iRjg4Zm1GTmhMamFJUXJVVjZXdXZtVUZndndFN1Byb3lCU3FBTGd2RHVlanBCdE8wOGVsNUZBc29Oby1aYmNHcERrMXd3Ti1xSTJUdEHSAfgBQVVfeXFMTTJDNkxsU2pvZ1FheVBrR1VKY3huU0NoZ0xyT1EwODZKNVJLYUhaTEVsREVNLTlpM0ZmWmdhQWQwSzVSSnA5ZEtSQjZQYjFHMXJkWE9EV0RGakJUVkc5eTVpMVZCNWJEUl9jdGtBUmJKNS1pS3BoNEVtOG5HT0xzdGhmYm1DMWktNnROQlRNODRMeUdEeGVoVnJuQU1IVlJJMTQybVNRSWFxYmlzQzJCVjV0V0QwTGdaMWpxeUM4S2Z2cDlkMjRoN0FvWGhlcEZfUGs0cW9qTE56U3AxamFYT2hTOXBFb0xDRC14UzdZdTR3RmxMbFVzbWM?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,11 +400,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Gujarat BJP MPs' assets multiply manifold over ten years in power, ADR report reveals - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "Bardoli lok sabha election results 2024: Bardoli Winning Candidates List and Vote Share - indiatoday.in",
+          "source": "indiatoday.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1BrS3hIVVNsV2lucDl5aDFwUVJGR2l1c0c4YmduekJNeHBnSFIyR0h6dkRFd0RmbFJvdVBMX3FzSFNydjlIR1FRWkRnbm91ajIzWTJ3aXhBOHo0TEpqTHJKVTJEQzhuY0tic1dqY1ZpSzBGTDVvZ05oelowRm16MHZ1QlhaWkRMMDQxcXVEWTdJV25SLVR4d1RGWE1yYXk5Q1dqTkxXWF9ITURGMHdiODJiQ0RjSlVFTVHSAccBQVVfeXFMTkN2NW5jVW40MGhybWUySlc1ODNmOFVjVVY4ZHZfdTZxMjRUUmVYNV9ILTl0SjBrV1Iyc002TEZ4c1ZQRjM1eFdscXgtSktCUHFMWDl3Wkd1cTNBTWRhSEtBYXQ1MzdyODlUZXIwUEdtTzZ2Rl9YMU9tUFJfU2YzLVExX29nY1Zrb1g0MWZ2LVFFNDFXcnU0b1JFYmlsUFhNdXI0eXJTemlNeDUyWVVMeXF2SkViRnhUcGJKS1czcko4OEtJS1JSMA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTURablBocWR4QS0wQlZxemRSWWJHQTN3VjA1bkRRSFpoOERlVWxSZXlOU05GQ1hqcGowT0tPSE5aYm1ZTWJhMUJFYm1rU2h4cloyZGxwQzVQUnd4Nzc1aUZFUWtSNm14M295XzhjWEp3WTItS0NabkE5TjJzY3BkM1pqUHlKTWNrc3A5eHdkMA?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 27,
+      "starred_questions": 8,
+      "unstarred_questions": 19,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 52.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 65.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Gujarat: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 47,003,506. MPLADS utilization: 14.9%. Parliament attendance: 65.0%. Questions asked: 27. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:48.178554Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 65.0%. Questions asked: 27. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.798567Z"
 }

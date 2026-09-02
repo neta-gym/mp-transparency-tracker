@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5620.jpg"
   },
   "criminal_record": {
-    "total_cases": 1,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 1,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 71392415.0,
-    "liabilities": 3320600.0,
-    "net_worth": 68071815.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 49.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.26,
-    "expended": 4.59,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:44:50.706286Z",
-        "notes": "Official eSAKSHI REST API — Works: 222 recommended, 199 sanctioned, 44 completed"
+        "fetched_at": "2026-09-02T14:27:22.647791Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:52.990316Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:22:29.283492Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 222,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 31.22448979591837
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:36.802765Z",
+        "fetched_at": "2026-09-02T14:22:27.700386Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Bhilwara MP demands flights from Hamirgarh airstrip - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTGJkNXFhc2o0N3hoWVJYa19qb283Y0s2dEhmMFAtVXpTclU3RUZ6MXluYUMxN0l4TVowVzJDb2w0SlJRYl8wbEZnSmc1T2JJajg1Z0Rla2JiTGR6QUZJYkt5YUNSeUtPd0RSQ0Z2Z3NnR0tzenVCRlBDWnZESTU1RDFtY2lhcUxvWEVmTlNBSWE1RWNLcFdqY21EYk9LTW1Uaktid0tzOEloVVZEQ3ZvNGEzX2o3QWpxVXRaMjRjaThsZHPSAcgBQVVfeXFMUDc5YlVMeDloTXlNaTdYZXItM0NSYjFUN2JiSV82M2dLandtcWpaTEdydkZWWjFPbU9zYXdVTWJLZG1mRkRBUVF6amZ3X290UzBkeGNDMWZ1YlA3ZjdwQi1BSmU1elhveEV3UDAxMnBpYmV3WE5TNld5dk1PTzN4QTlGemRiM2hCXzBBTmZ2SGh0MUg3aUYzSjRCUzlmUkQxcGRWVzJUdUFucTI4amlTUVNiaGg4ZVVsLVdDZ3hfRXFWNE4yc3VMTU8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajasthan: BJP's Damodar Agrawal to contest LS poll from Bhilwara - Cityairnews",
+      "source": "Cityairnews",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjBoaXcxUzIxbm4xaGEwcndCZXBBalJXT1pDR1JtWnUybk0zamc5QU10STF6bEFNYndIQU1SSFNnT2lPdDRzZnR4bGNJZmF1eWhDRkVidHNtVVdQRTBXejZYa3pYcVlCOFRrMW4zRDR1WXdRTFdVcWlIRk01UjdUYkd5TEJIUGdBcUdfb09rbmZQN25jM0paZ2lYZlQ2Vmp2?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament - A - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1NtVC1YSU1xR1pTbldZRzRVWUFuNjRaSFpqeGpEejFxTTZRWEN2OEowX2w4cUlYa1c3djdqSmxQVEtrZEF2QUlYdlppX0dlS1l2Z1VlRTUwa1ZwX0hNQ2tRNF96WGY5eWdwM1hxTXc1VnJwbkw5Yko3eWJHNkZ0LVdlTjREWFk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajasthan BJP announces 4 district presidents: Mewara gets another term in Bhilwara, 3rd time for Gadari in... - bhaskarenglish.in",
+      "source": "bhaskarenglish.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOSjNMOHVISWhJS0VrOGJjOVhjTVcyTm1ZbkYyYlcycV84Z254cl83QnpNT2pSVWJrb3NfbmZZalNiNkpKQXZ0d0w1WkVmTktoX3o4RFdqNVRlakxpSjJLNUZVVVVsNDAzQ2RJc3Zrai1GclJOc2JvbnJWc2Z3YjlRTG05d3VBU1g0eVZ1T0NqWjFIYU8zZGR6cldlLUJjLVBWanBYVGdFbE52NUZYVGFjNHUwWl9MYmhEYWl5Z3hSeDdJM1EtRTMwVExzcDZfR3UzdzFGOGs3WkxCc1JHMFY1M2VBOXJtaUxPamdLMnBOR2VNVmNITFZLdEY2T3JHRzNkTzdXd1FWLTlNX2VVZ0ZXWlNJZ0dpN1F1YXJHeEY3VEFrMFUyU0lUb0R1UDFQdzRxQTdaQUpR0gG7AkFVX3lxTE51NFVfOW1IQXZldmRGRXZGdURTTmtBaXdJSUxUajZwdXRvaVBhSENoZTFpSHdjaWg0Z21qNnpsd1piTDE1S1otV1NFU29OWVBhMU5oMHB5OVlXTzJndnBOc2NscFQ3d0FFdkthS1RhSUw0UG9FNXFWQ0ZXbWp1eHhmSHoyNERTMXplbEZmNklzRTI5V1JkMHQ0azg3Q19hT3hETS1HQnQtUU9sQ0taa2lwd2dPdVBadmpuT3ZqYTFtZHJXMmlkdHQ4OEE3aVh2NTJIVFg5clpOZlRQbXlzU1kyV19BNWFrNVpyY21jallIbGU1YnY0QUN0Q1VFOFhZbWxodjZTMU1tOER1SDFJQ3dzWVEyREFIMHlLempHRTBqLTQ2OTZGNVZLRVlJVFlXLWFyZjAwZ2FnMzc3Yw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajasthan BJP unveils new state executive, prioritises party workers over lawmakers - thestatesman.com",
+      "source": "thestatesman.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd3VXeEc2Y3JteUNiMC1NNGJ5TDd2dVM5dlRSOEgyaEhLRFlqVFhFdEpCYTZ6ZVd4V1NPMUZWUUdOckQ4akU0N3ZpbEhYa0pyUDMwNmhtSXg3aVBySy1vN3EwdGdQdGVfMWliWUQyTkZ1MjJ6QUhpX0pNdGgtSjNETXFJMzQ5NDF2R3h4YW95SHRuMEF4S2pSN3lOQVpGMXdPNW41Rnd4eF9NWFFpVUUzWWlZUWlIRHdzTlNmamRsWE1fZWY3RHBHb2lzZ2hCUdIB0wFBVV95cUxORDQ4ZDdJVVFRVGJKTEp0eU5wNzYxT0NtR2tJMW15TlVKQVd5ZUdjYW5reDRlbU5vRnBSM1RyMXJBVTRCSldSelpoaG5iZldjTVozaFZ0S3ZCOGRieUZhMVlQWlVwSnRGNktBMjhMV0VKd1Rla0tYdXEtRTFOcVFiZ2JybnVySVNxNHZOa3h6cnNCNDlFb0NFc05nTDZ0TWVpNnAtUGxoY1ZKQ1hiZ0sxRWpMN2RsRzJ6MU5kM000cUhwdm1ROHNlc1k0MDlkRmcxV3hn?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:05.571753Z",
+  "collected_at": "2026-09-02T14:27:22.648810Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.947058Z",
+        "fetched_at": "2026-09-02T18:38:09.363746Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.947075Z",
+        "fetched_at": "2026-09-02T18:38:09.363758Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.947084Z",
+        "fetched_at": "2026-09-02T18:38:09.363763Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.947094Z",
+        "fetched_at": "2026-09-02T18:38:09.363769Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.947105Z",
+        "fetched_at": "2026-09-02T18:38:09.363775Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.947113Z",
+        "fetched_at": "2026-09-02T18:38:09.363780Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.947122Z",
+        "fetched_at": "2026-09-02T18:38:09.363785Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,17 +296,50 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/DamodarAgarwalB",
+        "url": "https://x.com/https://x.com/DamodarAgarwalB",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/DamodarAgrawalBJP/",
+        "url": "https://facebook.com/https://www.facebook.com/DamodarAgrawalBJP/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/damodar__agrawal/",
+        "url": "https://instagram.com/https://www.instagram.com/damodar__agrawal/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:22:29.408599Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
-    "total_articles": 10,
-    "positive": 1,
+    "total_articles": 8,
+    "positive": 0,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 8,
     "top_headlines": [
       {
         "headline": "Bhilwara MP demands flights from Hamirgarh airstrip - The Times of India",
@@ -261,39 +350,39 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Rajasthan: BJP's Damodar Agrawal to contest LS poll from Bhilwara - lokmattimes.com",
-        "source": "lokmattimes.com",
+        "headline": "Rajasthan: BJP's Damodar Agrawal to contest LS poll from Bhilwara - Cityairnews",
+        "source": "Cityairnews",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORmJfRW9mWWhGQldVNTZaOS03blJ0NmQyLWpEV005SEJkZUZENC1pb0pVRU9TR1UxRUQwaGRrQnZPcXJCZGFyZ2U5eUR4RGNkREt5cllZSXlweVhsbEJYUS12MFYwTXE0R3ktamQzQnp5aHQ5ZWd0d1hzNmdoWTdMVEJyTUhLak5HSW9GMjhuOGZNaC1XcG1EY1JlRUw5dUlfVFBF?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjBoaXcxUzIxbm4xaGEwcndCZXBBalJXT1pDR1JtWnUybk0zamc5QU10STF6bEFNYndIQU1SSFNnT2lPdDRzZnR4bGNJZmF1eWhDRkVidHNtVVdQRTBXejZYa3pYcVlCOFRrMW4zRDR1WXdRTFdVcWlIRk01UjdUYkd5TEJIUGdBcUdfb09rbmZQN25jM0paZ2lYZlQ2Vmp2?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Rajasthan BJP announces 4 district presidents: Mewara gets another term in Bhilwara, 3rd time for Gadari in... - Bhaskar English",
-        "source": "Bhaskar English",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - A - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1NtVC1YSU1xR1pTbldZRzRVWUFuNjRaSFpqeGpEejFxTTZRWEN2OEowX2w4cUlYa1c3djdqSmxQVEtrZEF2QUlYdlppX0dlS1l2Z1VlRTUwa1ZwX0hNQ2tRNF96WGY5eWdwM1hxTXc1VnJwbkw5Yko3eWJHNkZ0LVdlTjREWFk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajasthan BJP announces 4 district presidents: Mewara gets another term in Bhilwara, 3rd time for Gadari in... - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOSjNMOHVISWhJS0VrOGJjOVhjTVcyTm1ZbkYyYlcycV84Z254cl83QnpNT2pSVWJrb3NfbmZZalNiNkpKQXZ0d0w1WkVmTktoX3o4RFdqNVRlakxpSjJLNUZVVVVsNDAzQ2RJc3Zrai1GclJOc2JvbnJWc2Z3YjlRTG05d3VBU1g0eVZ1T0NqWjFIYU8zZGR6cldlLUJjLVBWanBYVGdFbE52NUZYVGFjNHUwWl9MYmhEYWl5Z3hSeDdJM1EtRTMwVExzcDZfR3UzdzFGOGs3WkxCc1JHMFY1M2VBOXJtaUxPamdLMnBOR2VNVmNITFZLdEY2T3JHRzNkTzdXd1FWLTlNX2VVZ0ZXWlNJZ0dpN1F1YXJHeEY3VEFrMFUyU0lUb0R1UDFQdzRxQTdaQUpR0gG7AkFVX3lxTE51NFVfOW1IQXZldmRGRXZGdURTTmtBaXdJSUxUajZwdXRvaVBhSENoZTFpSHdjaWg0Z21qNnpsd1piTDE1S1otV1NFU29OWVBhMU5oMHB5OVlXTzJndnBOc2NscFQ3d0FFdkthS1RhSUw0UG9FNXFWQ0ZXbWp1eHhmSHoyNERTMXplbEZmNklzRTI5V1JkMHQ0azg3Q19hT3hETS1HQnQtUU9sQ0taa2lwd2dPdVBadmpuT3ZqYTFtZHJXMmlkdHQ4OEE3aVh2NTJIVFg5clpOZlRQbXlzU1kyV19BNWFrNVpyY21jallIbGU1YnY0QUN0Q1VFOFhZbWxodjZTMU1tOER1SDFJQ3dzWVEyREFIMHlLempHRTBqLTQ2OTZGNVZLRVlJVFlXLWFyZjAwZ2FnMzc3Yw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Impersonator who tried to defraud Raj MP nabbed in Delhi - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXBISWFFUzFiekVNLUN6SW96amhMaEtsT29yYS1pU3M4N3M3bHlHZEpMVTVtY1Q1cjFqamV6T0dMWWx3cnNaUzBvNXlNZTRNRzRuYm1UOWpYLUtpU2lsVVFkLTRwcGRUaEpLcWVPb09fMU5yeTIxenVRMks4eTdqS2p6R2E2NklFUjZ4d24wQUVHNG9Ib0hQalRmUno3c2J3RlBZMHFZMzh4aFphWlA3a0lfaVI1Y1diN0Nwd0pXNGFMMk5ubFRkZ3BR0gHPAUFVX3lxTE1xeWdid1Z5ampCR1VwSDM3WVBaazFMNWctRnVOMUNqNFZOLU9CZi1CQ3JzUVozUDZHRUJoTFZLTXlwN0VWdHlrcW9xbF90MkJNU3BhREoyaF9KWkhJbmprV19RQ0htb3lHMlpwMjRMQWpUSmlnZTY5NGFsLWd1QU12UUY0WFpld3RMVDQxczBJeGsyTy1Jck9Za29Dbk1ady16bGN3LXNxN0hWUU1OUlJtYV9GUkE1cW9nY3RqQjNxNTk1Z09zTEVobkFQTHZyZw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Rajasthan BJP unveils new state executive, prioritises party workers over lawmakers - The Statesman",
-        "source": "The Statesman",
+        "headline": "Rajasthan BJP unveils new state executive, prioritises party workers over lawmakers - thestatesman.com",
+        "source": "thestatesman.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd3VXeEc2Y3JteUNiMC1NNGJ5TDd2dVM5dlRSOEgyaEhLRFlqVFhFdEpCYTZ6ZVd4V1NPMUZWUUdOckQ4akU0N3ZpbEhYa0pyUDMwNmhtSXg3aVBySy1vN3EwdGdQdGVfMWliWUQyTkZ1MjJ6QUhpX0pNdGgtSjNETXFJMzQ5NDF2R3h4YW95SHRuMEF4S2pSN3lOQVpGMXdPNW41Rnd4eF9NWFFpVUUzWWlZUWlIRHdzTlNmamRsWE1fZWY3RHBHb2lzZ2hCUdIB0wFBVV95cUxORDQ4ZDdJVVFRVGJKTEp0eU5wNzYxT0NtR2tJMW15TlVKQVd5ZUdjYW5reDRlbU5vRnBSM1RyMXJBVTRCSldSelpoaG5iZldjTVozaFZ0S3ZCOGRieUZhMVlQWlVwSnRGNktBMjhMV0VKd1Rla0tYdXEtRTFOcVFiZ2JybnVySVNxNHZOa3h6cnNCNDlFb0NFc05nTDZ0TWVpNnAtUGxoY1ZKQ1hiZ0sxRWpMN2RsRzJ6MU5kM000cUhwdm1ROHNlc1k0MDlkRmcxV3hn?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -323,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 28,
+    "starred_questions": 8,
+    "unstarred_questions": 20,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 54.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

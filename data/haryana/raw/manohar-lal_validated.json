@@ -4,16 +4,16 @@
     "constituency": "Karnal",
     "state": "haryana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8552,
+    "myneta_candidate_id": null,
     "slug": "manohar-lal",
     "house": "lok_sabha",
     "sansad_member_id": 5792,
     "profile_url": null,
     "canonical_name": "Manohar Lal",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 70,
+    "age": null,
     "photo_url": "/mp-photos/5792.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Karnal",
       "state": "haryana",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 8552,
+      "myneta_candidate_id": null,
       "slug": "manohar-lal",
       "house": "lok_sabha",
       "sansad_member_id": 5792,
       "profile_url": null,
       "canonical_name": "Manohar Lal",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 70,
+      "age": null,
       "photo_url": "/mp-photos/5792.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:06.454273Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 25442914.0,
-      "liabilities": 0.0,
-      "net_worth": 25442914.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8552",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.863425Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 22.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 2.9,
-      "expended": 0.36,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:17.758987Z",
-          "notes": "Official eSAKSHI REST API — Works: 19 recommended, 18 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:34:53.875759Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:30:50.239324Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:30:50.236588Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 19,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 2.4489795918367347
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:23:47.397811Z",
+          "fetched_at": "2026-09-02T14:30:50.235559Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Union min Manohar Lal Khattar reviews development works in Karnal - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOV8zVkRxdUV6bTlPRGg4RFlseHBvc1hzZURZN016UEtGbHFBaWtNbE1SV3dSVElaVTdQTk9LOE9VLXQwV3FGMGR3Sk4zamtuOVd6Y1BGaFFOdWNLNnM1eHlkY1RZbjNXLUhEYTBYSmF6M0kwY0hoSDJZN3pvcTEza0hYRkFSQnR1bWZuN1pfbUs3RDQ2MGZYcFhFZnpINnE4d05xY203M2xmbDE3bFprUVJWQS11SFFxMnRjUlVSVTJ5enpEeEg4ZkttR3VnZ1NSeVUzUTFPS2RyNm_SAeABQVVfeXFMTmMzRXJkYng0QnBEZFlFVjRuUmtHZW53eFlOR3l4V2FlOXF5ZHV0Y1hQakhLNjMzYlF5WE8tR2EwRk1BWkFETjRiMXdBZTZCSzQ2SlBwdVpwWWtkLVd5cFd6b2poQTRIc2gwcVZMRzNZczhYMm1hM2pRdXFWbWNQamxJVS1laVJrZDZ5THVvUFZTc25pSktzVXB1aGJ6d3JEa1VIRVluZzVnNFBwdkgzbU9WM2Zma0FZWDU1eGVKSmN5eDh3dkpOaVgzMXBManBWSlhPczFlTmMxR1RGOTNKSlQ?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Khattar seeks expanded rail facilities for Karnal - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmJldFV4VW0yel9Kb2x4REdNX08wZkVJUFg5bWZzZU5rUHMyMlBTT2x2ckVSRU5UQl9sWV8weEZXaDFvYlNBb0c3dGpHbE1QaUJpZjh0eExHTzlKbTdlX2wwQUQxbjhLTm5zWkF5N1Bjb2V1MEFEYWxDeWVEMlJVbUQ4M0hMSVZhU0tlcW9UMTJLdTcwei1Z0gGbAUFVX3lxTE1rR2pKQVJZMnlhQkJHd29yVDc1RURXTVBHM1hPVVNHM1ZpZXRaREVad1plNEVnXzJzaEJDWHFfSW9UNDVxOHZ5X0ttUVlZbklsdktaaGp6Ykh0VnozVVAwVW9Oa3BHVVh3M290TnhBcWhRV3Z2TWJBV3ExMnItclZ1YnRwZ0JETlIxVVg5RE4wcGNOcFJrdHlfbjZv?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP nominates former Karnal MP Sanjay Bhatia for Rajya Sabha poll from Haryana - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOExxbWstQWNxM0pLYzRQY2F3a1AzNTNaeXZLQzc1aDdkRm1fX0MzNV9CV0g3ZFRianRzUWl0MWFDREo0V0drWjNnMzFjYlFuTGh3ZnlXMEJkd09BZ0NJb0pXZnZmMFVFamZBR01UZERXNG53Yi1YMzF4akVFY2JERk9YT3pIRFc2am9pMFdMQzZOdVRZamFwV1JxSWVWaGtlTTI2M0kxd2hDUmZKOU9Ob3pNSdIBuAFBVV95cUxNNFE5X19IT1ZMWG5jZVF3dklvV3U3R2hmQUdUSWFfZXh2eFRnZlEwUGsySTBRcjRDWHJ5WVcxbXA0T2E0RHpHSXZNb2ZsNmF5aHVjNVM0enVuM2VQV0x4cHZKb1dWVzlvWmRaem54S0hoTFB2b3VJQi1mN095Z3hhckt3ZFFObGRST0dKaE9jVzZLd194WnNsZW1pbk9ONGYtbjlGQmVPX2o4cUhSTGZ5Y0JVdlBQbWRD?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sanjay Bhatia named BJP nominee for Haryana Rajya Sabha seat; 'uncertainty' over Congress candidate in Himachal - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMmZBSWlVX2dhT1Rva0tUR3Q4eWEtLVM4LW42ZVJ3YmNVbk9BMXhLYWE5WXktajdPUXd0NnhoeXd1ZlVnMWFvRXdyb3RwQXgzcmVmX0RENUQ4cXVteVNkQ3dBN0tjWjVlbk55YnBCbG1Ed3pBUTBOZ2NpbHEwbzJXaHdnVzZuY2dXLU9pTlNnaUpaU3lhSldMRW1BbDJ2MFdQc2NlbFhCc3c3M3hKMVF1clFDeTRsdkNSMXJ4M3FkODZSdWs1bDhFZmtNUHI1TWtUV3dNcjI4MklmbzdzS3IwZUlUSzg2eE56ZjhUa2pCNC3SAf4BQVVfeXFMTU02UERUSUEzcFJzY1dPUU8wUk9yNnRzS3NzaVpGMnFwMVZiY2t1TzB0MjcxNTB1VjJzNHZTWmp6bFZlemJyMUpaN0M3VlNvQnVKV0w5X2pSWlhudDZBQzlSWG5pbjlLWHpoSEdob0ZzUTU1Ui1HQUZDWDRUcUJlZnB1dGVnb3lBaHFVeEl0QlM4bG9lZFEzaTFrN1VxY3lBeEgtWTVHNjl3em5SZTFYV0ZSZ0JRQlJvTEFTOEZZSEJpeFRRNEJzN3VLYkFsaDlha29PM1RtVmdNYjZWRUNYMjlKQmVzYnpCYzJLUEg0QzR3VU4wNHVUdGJzWTl1TEE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP Rewards Loyalty: Sanjay Bhatia Named Rajya Sabha Candidate from Haryana - The Financial World",
+        "source": "The Financial World",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRElNcWVQb3NPbllTVjAyS1NJV2JxcUlRRVlnLUQ5Wm1NaDdZV21VQnNDQ2szSDJHbXF3X25fb2NlamVRSjBCWmZMdm1HTnlXUjJLeVpPMHBZbXdnM0tGSVV6OWFYNG9HLXZWZTFJNGhMN2tTN0pBLXdIeHdlMjJnVEwtLXNNNGpMYm1fNi1xYmtXOTQ4Szhzc2d0S0NJRHF0VlpXNkxOOU1rcG54bkE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:24:51.093240Z",
+    "collected_at": "2026-09-02T14:34:53.876889Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.350316Z",
+          "fetched_at": "2026-09-02T18:38:05.976447Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.350324Z",
+          "fetched_at": "2026-09-02T18:38:05.976458Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.350329Z",
+          "fetched_at": "2026-09-02T18:38:05.976463Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.350333Z",
+          "fetched_at": "2026-09-02T18:38:05.976469Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.350339Z",
+          "fetched_at": "2026-09-02T18:38:05.976475Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.350344Z",
+          "fetched_at": "2026-09-02T18:38:05.976480Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.350348Z",
+          "fetched_at": "2026-09-02T18:38:05.976484Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,16 +330,24 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "BJP fields Sanjay Bhatia for RS poll from Haryana - News Arena India",
-          "source": "News Arena India",
+          "headline": "Union min Manohar Lal Khattar reviews development works in Karnal - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUpKSVhFaUxwRmU5UDV2X1czNEZXZC1CRFNyM0NxNkJTb2VHb0RiRTJqVklSUGM0SjBKV291am5ucGpZRUtCOGNzNExZdmNTQ0pOS01xX2NDUHZuRTNTY1lUaDcwemo2aWlHcllTRGY5RGEtS09BeW9jdVdUeU5rV2NVQnZTWm9BcndQc0kzenpfTzg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOV8zVkRxdUV6bTlPRGg4RFlseHBvc1hzZURZN016UEtGbHFBaWtNbE1SV3dSVElaVTdQTk9LOE9VLXQwV3FGMGR3Sk4zamtuOVd6Y1BGaFFOdWNLNnM1eHlkY1RZbjNXLUhEYTBYSmF6M0kwY0hoSDJZN3pvcTEza0hYRkFSQnR1bWZuN1pfbUs3RDQ2MGZYcFhFZnpINnE4d05xY203M2xmbDE3bFprUVJWQS11SFFxMnRjUlVSVTJ5enpEeEg4ZkttR3VnZ1NSeVUzUTFPS2RyNm_SAeABQVVfeXFMTmMzRXJkYng0QnBEZFlFVjRuUmtHZW53eFlOR3l4V2FlOXF5ZHV0Y1hQakhLNjMzYlF5WE8tR2EwRk1BWkFETjRiMXdBZTZCSzQ2SlBwdVpwWWtkLVd5cFd6b2poQTRIc2gwcVZMRzNZczhYMm1hM2pRdXFWbWNQamxJVS1laVJrZDZ5THVvUFZTc25pSktzVXB1aGJ6d3JEa1VIRVluZzVnNFBwdkgzbU9WM2Zma0FZWDU1eGVKSmN5eDh3dkpOaVgzMXBManBWSlhPczFlTmMxR1RGOTNKSlQ?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "Khattar seeks expanded rail facilities for Karnal - The Tribune",
+          "source": "The Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmJldFV4VW0yel9Kb2x4REdNX08wZkVJUFg5bWZzZU5rUHMyMlBTT2x2ckVSRU5UQl9sWV8weEZXaDFvYlNBb0c3dGpHbE1QaUJpZjh0eExHTzlKbTdlX2wwQUQxbjhLTm5zWkF5N1Bjb2V1MEFEYWxDeWVEMlJVbUQ4M0hMSVZhU0tlcW9UMTJLdTcwei1Z0gGbAUFVX3lxTE1rR2pKQVJZMnlhQkJHd29yVDc1RURXTVBHM1hPVVNHM1ZpZXRaREVad1plNEVnXzJzaEJDWHFfSW9UNDVxOHZ5X0ttUVlZbklsdktaaGp6Ykh0VnozVVAwVW9Oa3BHVVh3M290TnhBcWhRV3Z2TWJBV3ExMnItclZ1YnRwZ0JETlIxVVg5RE4wcGNOcFJrdHlfbjZv?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -298,27 +359,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Khattar, Civil Aviation Minister discuss plans to enhance air connectivity in Karnal - The Tribune",
-          "source": "The Tribune",
+          "headline": "Sanjay Bhatia named BJP nominee for Haryana Rajya Sabha seat; 'uncertainty' over Congress candidate in Himachal - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLXpQaFFLUjRZYVFxNkc2a2NYa2pQRnJzOVFQVHl2Yl9NZU4tNUN5a3hmSEdibDhRSEx2MDJHVVJsVjkxcUJxTWRnNThmU0RVbzJMLXRjU0o4RHFpaTdCUXo5MVdNaFVxbUt4UEMtVXVzajUzbWxWLWpmZ2RnNVdpU1FBODJ3cWxBZVZlQXFjLVRXcFd3cDFieEVCNkg5amhFNVRVanJJWURIUHFMX20tc29SeHFmUDlfN3FrTWttZFZJc1J6?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMmZBSWlVX2dhT1Rva0tUR3Q4eWEtLVM4LW42ZVJ3YmNVbk9BMXhLYWE5WXktajdPUXd0NnhoeXd1ZlVnMWFvRXdyb3RwQXgzcmVmX0RENUQ4cXVteVNkQ3dBN0tjWjVlbk55YnBCbG1Ed3pBUTBOZ2NpbHEwbzJXaHdnVzZuY2dXLU9pTlNnaUpaU3lhSldMRW1BbDJ2MFdQc2NlbFhCc3c3M3hKMVF1clFDeTRsdkNSMXJ4M3FkODZSdWs1bDhFZmtNUHI1TWtUV3dNcjI4MklmbzdzS3IwZUlUSzg2eE56ZjhUa2pCNC3SAf4BQVVfeXFMTU02UERUSUEzcFJzY1dPUU8wUk9yNnRzS3NzaVpGMnFwMVZiY2t1TzB0MjcxNTB1VjJzNHZTWmp6bFZlemJyMUpaN0M3VlNvQnVKV0w5X2pSWlhudDZBQzlSWG5pbjlLWHpoSEdob0ZzUTU1Ui1HQUZDWDRUcUJlZnB1dGVnb3lBaHFVeEl0QlM4bG9lZFEzaTFrN1VxY3lBeEgtWTVHNjl3em5SZTFYV0ZSZ0JRQlJvTEFTOEZZSEJpeFRRNEJzN3VLYkFsaDlha29PM1RtVmdNYjZWRUNYMjlKQmVzYnpCYzJLUEg0QzR3VU4wNHVUdGJzWTl1TEE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Haryana: Union Minister Manohar Lal flags off 'Hind di Chadar Marathon' on occassion of 350th Shaheedi Diwas - ANI News",
-          "source": "ANI News",
+          "headline": "BJP Rewards Loyalty: Sanjay Bhatia Named Rajya Sabha Candidate from Haryana - The Financial World",
+          "source": "The Financial World",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOW4xc1VRRG1Cc2lmd0J2RG9ZZExZUURQRXFybnY4c2ZiQlNXVVJYZDl2MlpubjM2VWY0SkpBa3o0dnRQNEhPY1NpaHlMY1IyYzhLVk4zMnIzTnplRDZKX1BqZUtaZnVtdEY2YmZmbjdITzVRQzR5Y3NFMU1QdXlpaEpPdk1wVnhiM0xpY3Z3Qi1oQmp0RnJLQkczSzA4NUZrcEY1VUFXdGIwS2FadzZha1lVRGNsSUJrWWJDYmtOWTU4U29kZzhuelJkejRhZTJCdy12c0VWRDQ2dURpeXhaZlhMZWUxVHJ5ZDVGbTEyYjFGb0lpVHNLcA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Karnal Haryana Bharatiya Janata Party - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXZkN2NZVnJIZTAwWmYwMXdYRlNRazV3YkEwSkktZUo0ZlAzWDkycFQ0dU9uQVZ0V0hTVzYtQ0dlYzhON0JWRk1YVjBiQmVUSUxOOTBYc1ZHZ2xDZFRFOWtiM2JMQWFIUkhsS3RfYUtxQ0ZuVzFWRXJPR1VURVJ2UGEzOU1OUEJYdHBfZk83YzZZTFBzZ0gyWFpKV19kTXlHV01uV0Y4NHNBMkw5Z1BlQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRElNcWVQb3NPbllTVjAyS1NJV2JxcUlRRVlnLUQ5Wm1NaDdZV21VQnNDQ2szSDJHbXF3X25fb2NlamVRSjBCWmZMdm1HTnlXUjJLeVpPMHBZbXdnM0tGSVV6OWFYNG9HLXZWZTFJNGhMN2tTN0pBLXdIeHdlMjJnVEwtLXNNNGpMYm1fNi1xYmtXOTQ4Szhzc2d0S0NJRHF0VlpXNkxOOU1rcG54bkE?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,7 +421,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -399,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.17,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -426,12 +485,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Haryana: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 25,442,914. MPLADS utilization: 2.4%. Low confidence data: Parliament activity. 2 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:48.351038Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.977174Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Guna",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3613,
+    "myneta_candidate_id": null,
     "slug": "jyotiraditya-m-scindia",
     "house": "lok_sabha",
     "sansad_member_id": 3958,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 53,
+    "age": null,
     "photo_url": "/mp-photos/3958.jpg"
   },
   "criminal_record": {
@@ -24,68 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3613",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.053293Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:35:00.378979Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 4247494078.0,
-    "liabilities": 4824000.0,
-    "net_worth": 4242670078.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3613",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.053305Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 97.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.18,
-    "expended": 5.32,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:33.951717Z",
-        "notes": "Official eSAKSHI REST API — Works: 63 recommended, 61 sanctioned, 18 completed"
+        "fetched_at": "2026-09-02T14:35:14.424050Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:31:29.804080Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:31:29.801076Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 63,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 36.1904761904762
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:48.666483Z",
+        "fetched_at": "2026-09-02T14:31:29.799863Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Union Minister Shri Jyotiraditya M. Scindia to inaugurate ‘Samriddh Gram’ pilot project for Phygital Services in Umri Village in Guna District of Madhya Pradesh - PIB",
+      "source": "PIB",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmc0pDMkNwM25QdnA2YnVuMHl2OUxPWVdZSG51cTZEVFQ4OXBCUXBIZl9SNG5sUTE5SGZrQXVpaXk3ZnI3cWdlQnhBWWNOWWdPYUl6TFFrSjQzREhjLWxGLXdkOW14UlJ2VDhNTjFkU3g2a2VfQlFJMC13?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Scindia inaugurates Samriddhi Kendra in MP’s Guna to deliver phygital services in rural areas - DD News",
+      "source": "DD News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa2V5dmh1RHpaSDJhY21DekpRMVBzeUxzVWE5WldVNEFJYWRaMGM4c2RDbHoyc0xCUjdvY21lM3NqTkl2UXgyYkg4cm9PeTFITDNhRkZ5aDVMYVl2SU4xQ1Z2N05YQ0RHbUU1R2l3dGVLeFRQaGgxR3QxX1BXRW16MmNLQWxVNi1OSXg0ZlVHbHdmZ2VxZW0tazBsV3R2VzJESXVZNHh0UUtVMkJaME16UjNtNllfVnVJVWc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Scindia launches first integrated phygital service centre in MP's Guna district - telecom.economictimes.indiatimes.com",
+      "source": "telecom.economictimes.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTVBRjVtSXhjbXh4MFNzc1lYRzZPbVpqcklJdVJDVDBibU1RNlphTWFCMVkwNElqUTdRMXJhMzkwSTluYy04enBvLVcyMnV2azZsUnZZcDcyM2lPVnJxcGd6azh6RTgxTWhGT0l0MmtMU2xvSEhpUjRtcW1kR3B6b1pHcGo3MU1WUndMRjhOeUo2bFNlRzR5ZVpiYW5wVFA3TXFYTFpDZkRzWGZPT2RrRFZoUVJoTlpTa29RdWxmNTNlQUVGU1hQb3d1c210VjZRejdRanF3c0FJYmhsZVHSAeMBQVVfeXFMUDhySldyX21ZZklGN3ZWVFNkSFpzWVdYV0hjem9haURocHlMeTFoWldHY1JFY3ZRM0hCcXVUOWg1aGNRUmFldFpyMUlDT05CdmxlSzhxTjN6RVZFcTRMR0RhMEdBV1NWZVhwWWZkeF9jTlpuSXE5Zm9kV1NDNWFRajNMZUtaOVpGZ00wRGZ5UkF4RVZCSGVYdmNQWFJyLW0yWHprc2FWOU5IQl9wRFdOUG80WTFtcmFFWDVTckNOY1dCYTVJMmhoNVdSQ2xrU3BCZ19lay10bUJRc0cwbVlZYmZBdnM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union Minister of Communications Jyotiraditya M. Scindia inaugurates Samriddhi Kendra under Samriddh Gram Phygital Services Initiative at Umri Village, Guna District, Madhya Pradesh - India Education Diary",
+      "source": "India Education Diary",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNSEVDSDNKRjdfdENoRUJWZ09CZEFoRGVfQUMtUTk0Mjc4NEowak14bks5MmlOM1VNbngwOW1DeWlKOFByWnVEM2xnSnpmZnVBeG1iQVdLUU9udnJEekxSenhUN1Q4UjA3N05GcFFGcWRHeEZuMG1pSEpEQlB6cEZobjFMT1pkc0F2MHJOQmNOWGJsU1JhdnRDNm05NXRuekJPQ05SX19pWmM1ZzhxMTBGQ0drR20yanhoVk4wSXM1d3E2T0l4WEpDTmdkOVh6TGNQOW5ubkRQRTJGVVM4RFBER3JlaDlsMGNmSlBITkFnTWJQcXo1UVBfNDV4ZUNhRHdaR0JOcWZpNi0yRjREdHVHODZ3ZV9rakdwaHhzN2YyMHZ4SmdMb2lQVXkxLTd0LWFwRHlONg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha Polls 2024: Jyotiraditya Scindia Files Nomination For Madhya Pradesh's Guna Seat - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSDFSZU1iOGZIWG1fZnVDQ09hUHZ5amc1VndBeW9hSjY5Q2NOS3NkWkFaNGkzQlZxYU1meXlscXR6cXJkX0lhWFZmMDJscG1SSFJ2dElORUc2WGNZQ0dqM25LR3ZibVNTaXpyVTlaOE9wdzZydHFrMWk1OUdhNXRWeGoxemkxUC1pQW9zU0xzLV9CTHlId0RoUGNQOW5IUThvdTlnckR2R0ZEdDlibFVsZ3lObi10WlnSAb8BQVVfeXFMTTBMYXY0akI2bmk3WHppQXFvYmVvNGtYdDBaVW5NeXZ5MEpFRXFuYWpmMDRlRjA2U2ZoNUJ3LWk5bHdLaHh3bWoxc29JWjFDb2VnTWFFNTA0XzJUejE2ZVNzVC03elJXLVlmN0lrUG9hdlVFdFJtN3k5Q216ZDVla0IzakRjZ3JTa1N2ZGo5VWo5d05Va09BYU9YT0pVQ1F2MjFPZFlsZGt2NzNHUlM2TU9TSXFqQXBhWUxfZ3VDTTg?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:47.215548Z",
+  "collected_at": "2026-09-02T14:35:14.425488Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.913970Z",
+        "fetched_at": "2026-09-02T18:38:07.408368Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.913979Z",
+        "fetched_at": "2026-09-02T18:38:07.408379Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.913983Z",
+        "fetched_at": "2026-09-02T18:38:07.408384Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.913988Z",
+        "fetched_at": "2026-09-02T18:38:07.408390Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.913993Z",
+        "fetched_at": "2026-09-02T18:38:07.408396Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.913998Z",
+        "fetched_at": "2026-09-02T18:38:07.408401Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.914003Z",
+        "fetched_at": "2026-09-02T18:38:07.408406Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.914008Z",
+        "fetched_at": "2026-09-02T18:38:07.408411Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -275,32 +320,57 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/JM_Scindia",
+        "url": "https://x.com/https://x.com/JM_Scindia",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "www.facebook.com/JMScindia",
+        "url": "https://facebook.com/www.facebook.com/JMScindia",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "www.instagram.com/jyotiradityascindia",
+        "url": "https://instagram.com/www.instagram.com/jyotiradityascindia",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:32:02.057187Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
-      {
-        "headline": "Jyotiraditya M Scindia, Chief Minister Mohan Yadav to lay foundation of Adani Cement plant in MP`s Guna on May 10 - Investment Guru",
-        "source": "Investment Guru",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbXNadGVsS2xBMTdzMXBsQXBvNlJFQzlyVm5mZ2FTRDBuSHVnU2F6emNEcndNWDFlSUdiVXZKT1M1QTZkTDFRRWRibWRLTU5mNGlNWGJWdm83Ym1YM0hydm1IdkExMFVHNjZhS2pxbWZRM1NOS0VaLVZGZkU3bFRNX1pRbDd0MHZ0bGEzZ21hbGczSmF3TUFlelRLQ2hreEVRVjBFampPeldadzlQdERTcjFLTS1NZVZjbkhOZW1vcDdGX01EVUdITFVZeHJGdHl3aEZrV01VN1lDcnBBSzJGaVRzT19TS2hyRl9nMmloR0FUM3M?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Union Minister Shri Jyotiraditya M. Scindia to inaugurate ‘Samriddh Gram’ pilot project for Phygital Services in Umri Village in Guna District of Madhya Pradesh - PIB",
         "source": "PIB",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wTEhSenlaRmt6SlNXSnNEdGFZVVR5YzVScXUwNnJDR0J4VkhJY0Q2NGdqcUY0eUdjSU1kZTJMTWtDUTFqY1h2OUkzY0I1UTVIVmFzREdoS1Vac0Q4a1VfYUIwbnEzM212V2c2Q05HQXFVOGpwMkRVQ3dB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmc0pDMkNwM25QdnA2YnVuMHl2OUxPWVdZSG51cTZEVFQ4OXBCUXBIZl9SNG5sUTE5SGZrQXVpaXk3ZnI3cWdlQnhBWWNOWWdPYUl6TFFrSjQzREhjLWxGLXdkOW14UlJ2VDhNTjFkU3g2a2VfQlFJMC13?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -312,19 +382,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Jyotiraditya Scindia Launches ‘Samriddhi Kendra’ in MP’s Guna to Deliver Digital and Essential Services in Rural Areas - The Impressive Times",
-        "source": "The Impressive Times",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWdaRUJJMnNWOWpKUTFVemUzY0hNUldMemNIWTJwc2d0QjM4dGFSOExUVm83M3RhT2VRU3V3azVvdjVFelc0VzBrdTVGQzVxaGlTVVNaMVZTd3RsLV9ma2dNUnRtRjhUVXlwU3BIZG80cEJBUk4tZFFEZUh1MDBFbDl6WnFnOXZvQW9VN0lRenVFWDhoV2xsb0JXUzBLZw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Scindia launches first integrated phygital service centre in MP's Guna district - ET Telecom",
-        "source": "ET Telecom",
+        "headline": "Scindia launches first integrated phygital service centre in MP's Guna district - telecom.economictimes.indiatimes.com",
+        "source": "telecom.economictimes.indiatimes.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTVBRjVtSXhjbXh4MFNzc1lYRzZPbVpqcklJdVJDVDBibU1RNlphTWFCMVkwNElqUTdRMXJhMzkwSTluYy04enBvLVcyMnV2azZsUnZZcDcyM2lPVnJxcGd6azh6RTgxTWhGT0l0MmtMU2xvSEhpUjRtcW1kR3B6b1pHcGo3MU1WUndMRjhOeUo2bFNlRzR5ZVpiYW5wVFA3TXFYTFpDZkRzWGZPT2RrRFZoUVJoTlpTa29RdWxmNTNlQUVGU1hQb3d1c210VjZRejdRanF3c0FJYmhsZVHSAeMBQVVfeXFMUDhySldyX21ZZklGN3ZWVFNkSFpzWVdYV0hjem9haURocHlMeTFoWldHY1JFY3ZRM0hCcXVUOWg1aGNRUmFldFpyMUlDT05CdmxlSzhxTjN6RVZFcTRMR0RhMEdBV1NWZVhwWWZkeF9jTlpuSXE5Zm9kV1NDNWFRajNMZUtaOVpGZ00wRGZ5UkF4RVZCSGVYdmNQWFJyLW0yWHprc2FWOU5IQl9wRFdOUG80WTFtcmFFWDVTckNOY1dCYTVJMmhoNVdSQ2xrU3BCZ19lay10bUJRc0cwbVlZYmZBdnM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Union Minister of Communications Jyotiraditya M. Scindia inaugurates Samriddhi Kendra under Samriddh Gram Phygital Services Initiative at Umri Village, Guna District, Madhya Pradesh - India Education Diary",
+        "source": "India Education Diary",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNSEVDSDNKRjdfdENoRUJWZ09CZEFoRGVfQUMtUTk0Mjc4NEowak14bks5MmlOM1VNbngwOW1DeWlKOFByWnVEM2xnSnpmZnVBeG1iQVdLUU9udnJEekxSenhUN1Q4UjA3N05GcFFGcWRHeEZuMG1pSEpEQlB6cEZobjFMT1pkc0F2MHJOQmNOWGJsU1JhdnRDNm05NXRuekJPQ05SX19pWmM1ZzhxMTBGQ0drR20yanhoVk4wSXM1d3E2T0l4WEpDTmdkOVh6TGNQOW5ubkRQRTJGVVM4RFBER3JlaDlsMGNmSlBITkFnTWJQcXo1UVBfNDV4ZUNhRHdaR0JOcWZpNi0yRjREdHVHODZ3ZV9rakdwaHhzN2YyMHZ4SmdMb2lQVXkxLTd0LWFwRHlONg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha Polls 2024: Jyotiraditya Scindia Files Nomination For Madhya Pradesh's Guna Seat - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSDFSZU1iOGZIWG1fZnVDQ09hUHZ5amc1VndBeW9hSjY5Q2NOS3NkWkFaNGkzQlZxYU1meXlscXR6cXJkX0lhWFZmMDJscG1SSFJ2dElORUc2WGNZQ0dqM25LR3ZibVNTaXpyVTlaOE9wdzZydHFrMWk1OUdhNXRWeGoxemkxUC1pQW9zU0xzLV9CTHlId0RoUGNQOW5IUThvdTlnckR2R0ZEdDlibFVsZ3lObi10WlnSAb8BQVVfeXFMTTBMYXY0akI2bmk3WHppQXFvYmVvNGtYdDBaVW5NeXZ5MEpFRXFuYWpmMDRlRjA2U2ZoNUJ3LWk5bHdLaHh3bWoxc29JWjFDb2VnTWFFNTA0XzJUejE2ZVNzVC03elJXLVlmN0lrUG9hdlVFdFJtN3k5Q216ZDVla0IzakRjZ3JTa1N2ZGo5VWo5d05Va09BYU9YT0pVQ1F2MjFPZFlsZGt2NzNHUlM2TU9TSXFqQXBhWUxfZ3VDTTg?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -374,7 +452,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

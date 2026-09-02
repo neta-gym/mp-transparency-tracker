@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/4489.jpg"
   },
   "criminal_record": {
-    "total_cases": 2,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 2,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 75856851.0,
-    "liabilities": 3592730.0,
-    "net_worth": 72264121.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 50.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.81,
-    "expended": 6.04,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:48.060830Z",
-        "notes": "Official eSAKSHI REST API — Works: 156 recommended, 94 sanctioned, 17 completed"
+        "fetched_at": "2026-09-02T14:51:54.518882Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:48:07.817788Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:48:07.816160Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 156,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 41.08843537414966
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 40.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:44.849493Z",
+        "fetched_at": "2026-09-02T14:48:07.815456Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "'I-PAC Had No Manners, Spoke Rudely': Trinamool MP Kakoli Ghosh Dastidar - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDRIYTBzdlRMX0tmeDVTNERyUmxlX09DWHd2ZFppQVl6OWlRc19tNzJBZW1fNWg0b3dOWTBFOFBwRFk0SDlKbmJCdHZlNzdBWHl3ZGJtZDk3azByeFRyYXBLY2tka3NLWFp1bnh0Z3FDS2ZNb0Y4bEdEZ2hUd1BwZFNIbkNxSjZaeGNkNFpjSlNjWTVHcnpCUjhzV1k3b3lVZ1ROczNKMXFVQ2I0NkHSAbYBQVVfeXFMTU9RNkFTQXFJVWhPT2ZfSi1nX0xzTlFvREd4ZnlSU005eDBHRXRiaG95T296RDZEbTlZcVZyRzJpOWxaU1UydXB5SnVGd3pyOXh5Y255dGxZRjRyamM3enAteFVoanhEOFFqUllMOTBja2oyVkN4Zmd3N3lmVU03UVJ1ZTFKQ0RnSnlMcm9VdnM2VG1ZVnFMSDc4UEt5NUl4a1hMR2pZVzJCR3pZRkpCV2d1NFBqSGc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bengal: Kakoli Ghosh Dastidar resigns as TMC Barasat District President after party's failure in Assembly polls - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORWlrSXBPX0Vxbm9xUXlPOVVaTl9RQXFua0hFU2RhcjBXRVZfQkNlRHdfdy1aTVRTbGtEZkU3OE05SHQxcDRteXFvenhobjVpNXZjQjBRY1IwV0hyb0xibEdudHc1bzVoVlczc2taRUhteHZTdmJ4YTdOWm9XdjhlVWMwRmRJcFMzQkxUbGJ0N1Zla1VTNVVWMFppckJXRDhQMmhhTlN4WmhpUDFyZklKTU4wMkhfUmlHQkJabktmcWZFa1hDa2docVYwcW83LWc4akxocllOS0M1YWxlUXBMS3ZXUDZOWnd6N2hUNDJXU3poRGd6cnFvVEtzcnJmdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Storm brewing in TMC? Mamata's longtime aide Kakoli Ghosh Dastidar quits party post - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdnFWaU5uMzJ5dXJrN1daU1NUZC1KeXA1Qi1Hem1YT2VIc1docTRkS2ZXVWxxYUw0TVJXdndwZ2Y3MHpqa0xfVENrN0tfVkVGN2RrX1Q0TkxIUkZWZTlwZXpYVkpCWE5yajZYMTZ0elN6NTR6WERzaTRLMkNoUUlfb0MyOFNpZlFKdHN4YUQ4czMtVkJmTjI0SXlXWjF5bUFzMEhYY0pjZU56cFRvYUpNV1FEOFpIa011anQ4WTE2RjJBb21NV0VzdE1NVmZwZXJHXzhrVTM5VllYSW42ZDZ6QVpwOUxra0YySW02SlJpWS1TWHduUTFwTjV6WjZnNjBaNkhHN1VYa9IBjAJBVV95cUxONmo3NjZIRlB6QjZmTGR5WHRTTVU0Nk9tbW5VdmNCM1hSN3o5bWpVbHhPMi1SYy1yMktPRnUtRnNZQ2ZCNGs0UTVKZ3JqVnBnWHFyRlpSV3dSaXZleHBkb3VsZFhMZ2ZlY2hoWThoMHBQZF9vUWs3a1g2SDFCMDZoLWJtZ3hXYVM4NnR5dWRoOG0wb181dTNZNmRtZTdFbUlodlZNdkNTc0tQSWhnSllzenlsckxkdGhxTzV5Q3dHMUdvenljY0R4RHp4UTc5dVNSU2N0NnZEV2s0emRZM3lGRnVLcmVTVGtRRUJYRTcyUzZqMzVNMnFKMklyVlhqVDdodlo5WENNMTYtazRk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "40 years a Mamata loyalist, now leading TMC rebellion: Kakoli Ghosh Dastidar’s dramatic break - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGUxUUNha3VvZGN1YnZLTkUxTlBvZmlCeFBJaDFQcVJobU14dGtCMExkcnB1WWVRZ1dyUXBZVVVkWGxQQmg3dE8xZURYSXkwY2t5dE5hd1FzQjhvNFF5YmlGc2lXM1AzeEVlcEVNNTZPdE1HMG1zbEhZeXhBc0pSbndMUlFMRWtZRDZKa29nbmVVelRxZ0VxREtacUZYeENJcmpvM3NuNGVEeFl6SjA5V19IV0FyT1nSAb4BQVVfeXFMTUN1eHZUMkJaa0xFVTRmRGo1S19XNzFkTUxxamIxVFNGUlBSMWFKTGV5SC0tQVhiMmgtUXcyWHpIOFFoSnlvc2tYS3ZKNFAzN0gxQTZoY2FxY2F5dnJPOGpnQnRPMG5DM0FEN1B2bzFtbWNmY3ZBTjVGcGJiMDlWS1Z1NnF5SG01ZXVPQ3ZBcVAzcjVuWV9XX0dTRUJ6MEZOM0tiZGMxY1d0YnhCcjhUUURFVk9laWNWdVhUVHd3QQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Criminalisation has spread in TMC': Kakoli Ghosh Dastidar quits Barasat post, blames I-PAC - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYmRNSkZ6VGVNUl95SlU0d09oMldPOGgtNEM5VnBUM3ZaU2FvdXF4amJaM3dzakJXNnBTc1BVRW9ZRVFubFFWM2RibkdfMWYtZlhzdDEyM1ZRY21HdE5kV0JpeTh1MkFSbWU5UURCM1FSYlk2ZXo1MG54aTJNODRZTnk2ODFOdUZpV3pHbDNBdGc5MmZkYTZKd1JBUVNCdkxNcS1JNTVPU25GaGpvbmtTTV9aSHFuc2JQbUVUMmtjR1pmbnQtTFNiZW14aU0wWDDSAdQBQVVfeXFMT3BNR2V6WFoyZXN2bkQ3ZWctZ3lLNjI2TDdnSnRLeG9OVWlTSjBDNVlnbGtZZGs0bENxcE90LTdhb3h6Z1VWaEVZSkdBbkNtWC1PbUFQbXo0UElDR1dtb29DLTJXdU43TU1EdzRpLVpDYy1TenB2T05hUHdleTFiemFjS00zbFh2Z3VDZC1QSVV0S3VaX1hhNm5YRW45VWswN3FCNjFhU3JJREhBY3lYMl9CWVJYOW5MU0FHZkdBRENSVTE3UnF3bjF5ZkowaUxGcTFKdmo?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:48.161091Z",
+  "collected_at": "2026-09-02T14:51:54.519541Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.695467Z",
+        "fetched_at": "2026-09-02T18:38:12.327089Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.695507Z",
+        "fetched_at": "2026-09-02T18:38:12.327100Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.695516Z",
+        "fetched_at": "2026-09-02T18:38:12.327106Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.695523Z",
+        "fetched_at": "2026-09-02T18:38:12.327111Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.695532Z",
+        "fetched_at": "2026-09-02T18:38:12.327117Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.695540Z",
+        "fetched_at": "2026-09-02T18:38:12.327154Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.695547Z",
+        "fetched_at": "2026-09-02T18:38:12.327161Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -253,43 +309,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Centre provides Y category security to TMC Lok Sabha MP Kakoli Ghosh Dastidar - The Indian Express",
+        "headline": "'I-PAC Had No Manners, Spoke Rudely': Trinamool MP Kakoli Ghosh Dastidar - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDRIYTBzdlRMX0tmeDVTNERyUmxlX09DWHd2ZFppQVl6OWlRc19tNzJBZW1fNWg0b3dOWTBFOFBwRFk0SDlKbmJCdHZlNzdBWHl3ZGJtZDk3azByeFRyYXBLY2tka3NLWFp1bnh0Z3FDS2ZNb0Y4bEdEZ2hUd1BwZFNIbkNxSjZaeGNkNFpjSlNjWTVHcnpCUjhzV1k3b3lVZ1ROczNKMXFVQ2I0NkHSAbYBQVVfeXFMTU9RNkFTQXFJVWhPT2ZfSi1nX0xzTlFvREd4ZnlSU005eDBHRXRiaG95T296RDZEbTlZcVZyRzJpOWxaU1UydXB5SnVGd3pyOXh5Y255dGxZRjRyamM3enAteFVoanhEOFFqUllMOTBja2oyVkN4Zmd3N3lmVU03UVJ1ZTFKQ0RnSnlMcm9VdnM2VG1ZVnFMSDc4UEt5NUl4a1hMR2pZVzJCR3pZRkpCV2d1NFBqSGc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bengal: Kakoli Ghosh Dastidar resigns as TMC Barasat District President after party's failure in Assembly polls - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORWlrSXBPX0Vxbm9xUXlPOVVaTl9RQXFua0hFU2RhcjBXRVZfQkNlRHdfdy1aTVRTbGtEZkU3OE05SHQxcDRteXFvenhobjVpNXZjQjBRY1IwV0hyb0xibEdudHc1bzVoVlczc2taRUhteHZTdmJ4YTdOWm9XdjhlVWMwRmRJcFMzQkxUbGJ0N1Zla1VTNVVWMFppckJXRDhQMmhhTlN4WmhpUDFyZklKTU4wMkhfUmlHQkJabktmcWZFa1hDa2docVYwcW83LWc4akxocllOS0M1YWxlUXBMS3ZXUDZOWnd6N2hUNDJXU3poRGd6cnFvVEtzcnJmdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Storm brewing in TMC? Mamata's longtime aide Kakoli Ghosh Dastidar quits party post - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdnFWaU5uMzJ5dXJrN1daU1NUZC1KeXA1Qi1Hem1YT2VIc1docTRkS2ZXVWxxYUw0TVJXdndwZ2Y3MHpqa0xfVENrN0tfVkVGN2RrX1Q0TkxIUkZWZTlwZXpYVkpCWE5yajZYMTZ0elN6NTR6WERzaTRLMkNoUUlfb0MyOFNpZlFKdHN4YUQ4czMtVkJmTjI0SXlXWjF5bUFzMEhYY0pjZU56cFRvYUpNV1FEOFpIa011anQ4WTE2RjJBb21NV0VzdE1NVmZwZXJHXzhrVTM5VllYSW42ZDZ6QVpwOUxra0YySW02SlJpWS1TWHduUTFwTjV6WjZnNjBaNkhHN1VYa9IBjAJBVV95cUxONmo3NjZIRlB6QjZmTGR5WHRTTVU0Nk9tbW5VdmNCM1hSN3o5bWpVbHhPMi1SYy1yMktPRnUtRnNZQ2ZCNGs0UTVKZ3JqVnBnWHFyRlpSV3dSaXZleHBkb3VsZFhMZ2ZlY2hoWThoMHBQZF9vUWs3a1g2SDFCMDZoLWJtZ3hXYVM4NnR5dWRoOG0wb181dTNZNmRtZTdFbUlodlZNdkNTc0tQSWhnSllzenlsckxkdGhxTzV5Q3dHMUdvenljY0R4RHp4UTc5dVNSU2N0NnZEV2s0emRZM3lGRnVLcmVTVGtRRUJYRTcyUzZqMzVNMnFKMklyVlhqVDdodlo5WENNMTYtazRk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "40 years a Mamata loyalist, now leading TMC rebellion: Kakoli Ghosh Dastidar’s dramatic break - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcEhEWWFydFlaM0FDZ2pPVWc5UkNTazE4ZWNKTWxXTk0ySDExUmowZnBhVmI2T3p2Y3RhSHNLcGtZM3M5emVDak5ORXVJal9ycTdmN0RlZTJfd3VyRWlXQjRENTItM2l0c0s2bTFoamp5anUyQUcyUTB5RjJQT3FNS0s0YWtWQXVueDdTV1VKVzNocXlRcm5raDBhTmNwTmhzWUlLRUE3dGpxRFk0ekF0RjJLeUJDdWZDVUhLNWVfYzJlUWNNWHFiazNRMGduT0sxY0HSAdgBQVVfeXFMT21NZ2N1em8tbmlsejNoSWpXNTBmUUE2MW9sYVBrMzhGWEhad1UyejE3YjE0dWFVdGNJdTNJNnpsNkhiZlhaYWNzbjQxUjRuRWhCMXRESWpMRUpleTNibTRNckl1MFZKcEppRnpwN3o2elItQU5keFZXb19GdVZHcUFjQnJaY0E4TmdnY2xFSkI3dGVuQnN4UEs0cy04VlpVVTJ0SjZQOTlYWFEzMVNTY2l4U09PRVFFYzJ1bjRnV0tRZ2pJaVhWT2Vma1R6NGQwcE5jbTZCNUp6?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGUxUUNha3VvZGN1YnZLTkUxTlBvZmlCeFBJaDFQcVJobU14dGtCMExkcnB1WWVRZ1dyUXBZVVVkWGxQQmg3dE8xZURYSXkwY2t5dE5hd1FzQjhvNFF5YmlGc2lXM1AzeEVlcEVNNTZPdE1HMG1zbEhZeXhBc0pSbndMUlFMRWtZRDZKa29nbmVVelRxZ0VxREtacUZYeENJcmpvM3NuNGVEeFl6SjA5V19IV0FyT1nSAb4BQVVfeXFMTUN1eHZUMkJaa0xFVTRmRGo1S19XNzFkTUxxamIxVFNGUlBSMWFKTGV5SC0tQVhiMmgtUXcyWHpIOFFoSnlvc2tYS3ZKNFAzN0gxQTZoY2FxY2F5dnJPOGpnQnRPMG5DM0FEN1B2bzFtbWNmY3ZBTjVGcGJiMDlWS1Z1NnF5SG01ZXVPQ3ZBcVAzcjVuWV9XX0dTRUJ6MEZOM0tiZGMxY1d0YnhCcjhUUURFVk9laWNWdVhUVHd3QQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "TMC MP Kakoli Ghosh Dastidar receives Y category security - MillenniumPost",
-        "source": "MillenniumPost",
+        "headline": "'Criminalisation has spread in TMC': Kakoli Ghosh Dastidar quits Barasat post, blames I-PAC - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0haVVlGOHZqQ1FTZHpwVnV4Wk1QekdHQ0NCYVlJYkxSTnNKaFF3T1Q2Zml1U0FDTmJBdDVBcjkycUc4YU82NVN1a1Y3S05XNXgyZjZJeTRaSzByR293Vnh2bl8wRnNyOVctb1FRYjgyVEZsbWYzeHNJQmZsN2dWcm0yUUc5cFBTM2o2TUpXbEhLSUVuS0lwZXhQMHRXMDdVNU040gGoAUFVX3lxTE9VdDd4V0lWclhKckxXMHg2MzhsLTBFcml3MWo5SUhTb3ZkMGdKdUNfWF9rbWl0QlZhRnVZaGxCZ0RfelZQamoyTXE0ekliMnVLUjYxSUEtSXpYZldXR1c3SlJDWE9pTEFobmp5aEM5bHJXdzdoY3piQkY3UnY5M3lKSGhzbHp3SUJaQkphajJIZ3JNLUlRc05YRkdDRDIzdjFQZkRuYXBuNQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Are TMC tensions behind Centre providing Y-category CISF security for MP Kakoli Ghosh Dastidar? - theweek.in",
-        "source": "theweek.in",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWHA0NmVrcFdEdkpHNjM2eTgzV3pwb3cyaEFJM0x5RDBMRHU1NnRXek9ySk85MGQ4dDl6QW44UWNodUJ5TEdrQVVMQjNYUVVHdWtJRkxEZlo2LU5EVVlqZEFMRVRXOTJYdjlMa2x6VHQtSDJtaWVYdWVoOWRCaHl4SmJ3aHR2UW5MbVU3Y1lOVXFwYVpwemQtZHpXT1dWWXZNVy1zd2h5WnpWOUhrRWc0NTFzTmNUX25zRC0zMTdZZkluSWROZi1ZUmJabndKbWNnajdTdkMzemZFT0F6R0J0UzNvSEhPbEnSAewBQVVfeXFMTjFobW9iLXhNN01jZ2FWNnYxVDlPdHNZMkFDd0pQWjR3d0dUTmpRZk94clRiSmNISGc5d2xyLWNsazhiY1pQVVRIYVJ4anFKaTUtOGk4VjUwSGJlSVBGVDhtdGdFYXRkdE96V1hRQVdJUHZqR3o5TkxhVlQ0SjdsejNhTGtjMGpHWmlCS05CODJzWlJsaUdNU2dKNFpKSVBqNEtUOGg4OG1YUlVTS0xDRDV5Vk5tRnlqWWhWQm94WGtoZXJ1SVlKaDU2WEdGLVVOU2VRZDNydXoxWWJaWFJZVDlfSTNmM2hOUlB6TWs?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "'Reward for Four Decades of Loyalty': Kakoli Ghosh Dastidar Breaks Silence After Losing Key TMC Post - Dailyhunt",
-        "source": "Dailyhunt",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPQTJHZ1RLU3E5TVl5N0VWd0c3ZW9FaUNNLWJBM3VnY2twYy1ERnRsQm1JbEEteVhaQVhvUldjOXhsRWc3V1RVNHRtazVETzBqNktDMGhTNzd0YnM4RXJMNVB3M3FpWHdSN0dEc1FvRnU5dU1DQVZwR3VRblduaVlnU2tXd1Vsb0FkREI4YTJTenZjNDJMTElLMlJkRFNucjVvUXFFMy02ck9BWnVweFlHS3R0R09uWnVkeVJpQUVpWkM2S2JtZW9RbWt2Q18zRXBSRGlWUXZRY29fR2dtM3Q5Zi1NYWxoRUYzMENJSHlpZFBfOS1GaG94dmQySnNBb3pDXy1CZ1JmZm52RU9nTk1RR1Rnek92Uk5wOFhn?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kakoli Ghosh Dastidar’s Reaction Sparks Speculation After Reshuffle in Trinamool Parliamentary Party - Hindusthan Samachar English",
-        "source": "Hindusthan Samachar English",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFd5andKbXFYbTEtT1NoNFI0U2czMGdBcGdIeUdBQVJUVDdLOEZFVHZpWjFDUmJMVzQzMWgtV1g1bS1ZUzIwTGxlbkw4dm5FeVRQWXZCWGVLT0FIeGhnOTU2Z1BBeHQ4aTVLbFktOFlTTm9Rem9aM3Z3eGVQaEFQVEdmMXJGbEcwS2xaSVhFelk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYmRNSkZ6VGVNUl95SlU0d09oMldPOGgtNEM5VnBUM3ZaU2FvdXF4amJaM3dzakJXNnBTc1BVRW9ZRVFubFFWM2RibkdfMWYtZlhzdDEyM1ZRY21HdE5kV0JpeTh1MkFSbWU5UURCM1FSYlk2ZXo1MG54aTJNODRZTnk2ODFOdUZpV3pHbDNBdGc5MmZkYTZKd1JBUVNCdkxNcS1JNTVPU25GaGpvbmtTTV9aSHFuc2JQbUVUMmtjR1pmbnQtTFNiZW14aU0wWDDSAdQBQVVfeXFMT3BNR2V6WFoyZXN2bkQ3ZWctZ3lLNjI2TDdnSnRLeG9OVWlTSjBDNVlnbGtZZGs0bENxcE90LTdhb3h6Z1VWaEVZSkdBbkNtWC1PbUFQbXo0UElDR1dtb29DLTJXdU43TU1EdzRpLVpDYy1TenB2T05hUHdleTFiemFjS00zbFh2Z3VDZC1QSVV0S3VaX1hhNm5YRW45VWswN3FCNjFhU3JJREhBY3lYMl9CWVJYOW5MU0FHZkdBRENSVTE3UnF3bjF5ZkowaUxGcTFKdmo?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 40.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Low attendance",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

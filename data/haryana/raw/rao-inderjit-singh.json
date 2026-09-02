@@ -4,16 +4,16 @@
     "constituency": "Gurgaon",
     "state": "haryana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8448,
+    "myneta_candidate_id": null,
     "slug": "rao-inderjit-singh",
     "house": "lok_sabha",
     "sansad_member_id": 3904,
     "profile_url": null,
     "canonical_name": "Rao Inderjit Singh",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 74,
+    "age": null,
     "photo_url": "/mp-photos/3904.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:06.715330Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 1215422868.0,
-    "liabilities": 133670844.0,
-    "net_worth": 1081752024.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8448",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:46.910298Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 93.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.68,
-    "expended": 2.03,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:19.032166Z",
-        "notes": "Official eSAKSHI REST API — Works: 46 recommended, 45 sanctioned, 6 completed"
+        "fetched_at": "2026-09-02T14:38:33.879780Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:34:54.245497Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:34:54.242777Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 46,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 13.809523809523808
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:15.981326Z",
+        "fetched_at": "2026-09-02T14:34:54.241734Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Rao Inderjit announces Rs 21 lakh for Gurjar Bhawan - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXlzYjgyTXl3Z3k3RXFkN29vSS05R3hiYW56WjVUbHRVR3Q3VnExZjdQSDdBX3A0T0VMcE12MExlWUVsUGhDSWxUREdfTnpueXAtQjhWMVdOZXFxZUIxY2x1dTQ4WkQ0RGg2X05pbzMwMzQ5UklJeEd5OWtDcW9RWUpDR25nNTRwR3BpTHVVNWhBbkxIQ0lpUjRQOG5sblBISVBaQkh3WjFyZVBMRGlsR0Q4ZHJPeU1vcWpnc2N1TEEzN2MwM0FJMm9EWmF0d9IBzgFBVV95cUxPbXlzYjgyTXl3Z3k3RXFkN29vSS05R3hiYW56WjVUbHRVR3Q3VnExZjdQSDdBX3A0T0VMcE12MExlWUVsUGhDSWxUREdfTnpueXAtQjhWMVdOZXFxZUIxY2x1dTQ4WkQ0RGg2X05pbzMwMzQ5UklJeEd5OWtDcW9RWUpDR25nNTRwR3BpTHVVNWhBbkxIQ0lpUjRQOG5sblBISVBaQkh3WjFyZVBMRGlsR0Q4ZHJPeU1vcWpnc2N1TEEzN2MwM0FJMm9EWmF0dw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Waterlogging in Gurugram: Why Rao Inderjit’s Congress-era blame faces a test of his own record - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWU5M21DUlJra3JQQWVwN1E0ZU5yQzF0RF9HMHUxT0JHTW5wbTdaLW90YnR5Z01QNHRLZDZEcXdwTFhPQlhCZ0tFT3J6ZDVyVExKQVNHY3haWEpER0hlbXBwbHRKc0w3Zy1jTWpYOWxjUUJ6SktBcy1TRUVqVmRNZm5RbXRqajVRbXBwTlZodm1YOTRMa0cyUi13QjdOblBOaEJRdXJFNUxYNGN3S3hIRHkzRmdSYXRfTnhHR0N3Y01CQm56MGZJMWlR0gHPAUFVX3lxTE03ZEVRXzl4NjFJZ2hpNWczcmZ5M1BCSVJwdFJJV0ppSUR6RngwaXVURlplTG1OcFQ5UDh4aXE2SjFBSloxODQwaVFsZXJsTVhzUll1QkVEbnl3UEs5cFUxZkl6V2ZZcVE2RWVOU2JtNldsNnZhYmYzRkR1bWFSTnRrVnR1cG9MQ3dHa05ValBKVWZFTnUtUzJkNktqRnRScXR0V29xUWJ6NU8ybERxZHQyUjJCZExEdkhBdW1LdFJlWElpMXhmbDFLZlRLLW9yRQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union Minister Rao Inderjit questions BJP chief Nitin Nabin over local MP’s absence at Gurugram event - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWndTdThRMUtoMWNMTGZEQVQ0REV4VDdIbm8wOWtDRVU5TktseTdva2Y2bmphWFg2TVJyYmhsTnV0MUd0M09aMFZrdlZpQy1JYmJmU0hNX0drY05IbTdJa0RpRFBZSzVZYzZuQzlxZE5xazdvZ2FoU0E4Mmhxam03UFpVMS1OVzR2Mk5BcEphWkkzWGdwRTB2X2FZN3Rqa0J2cDBKVmF1SF9RRDJKY19QR0lZZnpNcXdlbzR6b19zRDIyR2VvT2N5X2RHLXYzMThXYi1XSWY5TExNbFVjUV9FcVBJSkhkUdIB8wFBVV95cUxPeGNIX0hSaHl2bXRQZVR0d2ZyR1YzaV9CTGdsMkUtMTlBVmluNmpDbjlqSWhOUm1QNHpPZEx5emp6VXFlbHVtNXRmZGdZTVJfb0Nvbnl5SkFxVll4V0EtSzRXLVBEMnAtT1lMMG85ajFPUWNXMlVZM1duS0lJYVI4dUlvNkpOVHlHV0FPTkZYb0FCYnE4SlhfWG9iREMyWUxXRHo0YXY3VXhwdWI5bzJ2WHdjRVdYVlZiMGhaYWhaSzd6VXJRcFBtWUM0UmFnVWUyelctTTlsYUNleVJGaW96cTRvcHd6UzdyNV9QUHdUVDVPOEE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gurugram waterlogging can’t be fixed via piecemeal solutions: Rao Inderjit Singh | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONTh0RDdoZFM4TlNfX1RBdE9tTk1ZX2lDTFE5Z3o2eURGbjlGUDQzb0FPSmhncjVPNkNJTlh2ZjlLQU94VWI4WVpyNzJUNkNUNjdFSzVtT3J6RkZfTFFwbEVvaFNYeFpLRU9kM2tFc1VOc1p3QjRqNnJUdmhLMmVxWkVSb3pJcFRhMjdFMW8zc1dfak9odVRqZExpZDVzT2pNVGV5VWtQVEJ0cmE4eVFhNWV0UlJjQTdvc2lRTFd1bUQ2UmtIMVZZRmNnZW91Tk9FeXh1ZW00c0hIRzlKSy1VNU9LaEtmZmPSAewBQVVfeXFMT0ZJN2FPMTJXeklCaXliRjlGTEJsU2RlM2JFQlhDZUhkOF81RktKemgxUEo4clNRSGU4UW40VFRlTi1hdk9ja1NLZHJKYWc0RXR4amRUZkJBamVZaEdkU1JtdGxsRjItU1hnYXlkOFRwQVp4RkowY2JybXVpamxLMXFUNHRQZVFzUERTazM4bG5KYUwyX3lJR2ZxZG9VWVJyNlZiZlpBTlJFVXlMUVNFQ1o3dXI3NEU4bkRnYmtNMGFjX1B1T05aMXl6bnJ1Z2dSWFpWMFExVHphekNuY0VvbE9rcEFqbllIVHhmYTM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Why did Rao Inderjit walk off stage mid-speech at BJP event? Gurugram MP explains - The Tribune",
+      "source": "The Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0s4UjNhV3hGQ213NW10QkFrYXBkZXFidWdfWHlYR3p6NmhBVzVoZkMzbTJYX2xKM1ZuS0F5bXE1anFaajZFQkd0Tmw0VHllYUpmMzdOdW1NQnk5RUlhYUlQLXAtdmFEZ2ktTXl4bUFLSDZreFB0SThURnd5bnl1aVZjV1drdS1DLWlsRG9hR29oUjduWWhNLVFCbEV1bDZNRk5aVjZfQkRpUlhyNElzRHplaTJNVlpDbnRjS01jWXBkUdIBxgFBVV95cUxQakR6ZU5ZWDh6OXYxQlJoUHFVbzVYUTk5UVQ0NW5VTTdPOTFkZjBJVlg1Zk9fREZJeFRLRWhOOVk2cWlTUk9wTWtYVTZHekZWYWZfWnhQcTF2eEFVNk5RcnZuWEZaa1BWTGUzc1hNTHZYd25rNVJhdURFZ3BYSV94WFJLTlNpcXlmV0RKakZ4WkpaSTF0UEdtcTZ5TXYtOC1RUDQ1blZjR1BhZGYwRXphb1M5QlhHZWdHNEtBQ1BwVGlxOHlTeEE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:55.983080Z",
+  "collected_at": "2026-09-02T14:38:33.880794Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.369409Z",
+        "fetched_at": "2026-09-02T18:38:05.993688Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.369418Z",
+        "fetched_at": "2026-09-02T18:38:05.993699Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.369423Z",
+        "fetched_at": "2026-09-02T18:38:05.993705Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.369427Z",
+        "fetched_at": "2026-09-02T18:38:05.993710Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.369433Z",
+        "fetched_at": "2026-09-02T18:38:05.993717Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.369437Z",
+        "fetched_at": "2026-09-02T18:38:05.993722Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.369442Z",
+        "fetched_at": "2026-09-02T18:38:05.993726Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,56 +304,89 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/Rao_InderjitS?t=WKIi75p3WBGxYpYmS5SRWQ&s=09",
+        "url": "https://x.com/https://x.com/Rao_InderjitS?t=WKIi75p3WBGxYpYmS5SRWQ&s=09",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/share/1BQiU6e1hV/",
+        "url": "https://facebook.com/https://www.facebook.com/share/1BQiU6e1hV/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/raoinderjitsingh?igsh=MTU3MmFrZThzNmgzbw==",
+        "url": "https://instagram.com/https://www.instagram.com/raoinderjitsingh?igsh=MTU3MmFrZThzNmgzbw==",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:34:56.801694Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 1,
+    "positive": 0,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 10,
     "top_headlines": [
       {
-        "headline": "‘Capitalists will benefit, not locals’: Why Union minister Rao Inderjit Singh objects to Haryana’s 5-city plan - The Indian Express",
-        "source": "The Indian Express",
+        "headline": "Rao Inderjit announces Rs 21 lakh for Gurjar Bhawan - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcVo0czhERFlRSDZESnhNYTBQeDZEcEJkaEFzSnEzOWl2U3JtX2FLbU5zZnpiNE9obXBxMjhDMERPT0xBdTRJM09GWm5fdHBXY1c3LTVSWDhlT0pVaUEzWExQZDE2TGV0RkRnTEwtVFdBcU5KaHRGR1lSeFktUzlrWFhhdFdiVko0cnJrRXB6Yi1SZENZT05Ta1c0S3ZRWV9BQU4zd2o0QlRFS3VvQm50TGpHZ2xkSEZJUDNIUXNSY2xYWjNuRDhuNW9wM3FhS1NQajlIN2NsUk5IZ1pEQWNXaW9jNThLOWxYLXlIbjBwa190cGY5ZEZhRDZsVdIBggJBVV95cUxPaEZXREsxQkt3YmcyaC1ISUpSNm5YeWlIcVQteEdSQzA4ZUI4N1FIMzMwT3lVa2Nzc2d0eEFwaFNSdFRzRFNxWWhJSDVpQk9QU1gyMTNxMDlEOFJzeXJFeVJ5QWJjbE1ZSlhSU2YtcHJ0d0FLWWVrNnRpRjZ6U2lZMHM1QkdVRzNjbElGUWMzT0V5QTJrbzJRWGQ2bHY4MWlKYy12QXBsRUcxUWhhdm4xS0hHemprME1uV0RvLWd1OWJVZlo5QVI4Nlc0SnluWUZmdHFhanh1Vm9LLXQ0TDhkbGJlcVI1Mkk3ZUVXR042MDJidlRabFR4aXpuRlNKek9sdWc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXlzYjgyTXl3Z3k3RXFkN29vSS05R3hiYW56WjVUbHRVR3Q3VnExZjdQSDdBX3A0T0VMcE12MExlWUVsUGhDSWxUREdfTnpueXAtQjhWMVdOZXFxZUIxY2x1dTQ4WkQ0RGg2X05pbzMwMzQ5UklJeEd5OWtDcW9RWUpDR25nNTRwR3BpTHVVNWhBbkxIQ0lpUjRQOG5sblBISVBaQkh3WjFyZVBMRGlsR0Q4ZHJPeU1vcWpnc2N1TEEzN2MwM0FJMm9EWmF0d9IBzgFBVV95cUxPbXlzYjgyTXl3Z3k3RXFkN29vSS05R3hiYW56WjVUbHRVR3Q3VnExZjdQSDdBX3A0T0VMcE12MExlWUVsUGhDSWxUREdfTnpueXAtQjhWMVdOZXFxZUIxY2x1dTQ4WkQ0RGg2X05pbzMwMzQ5UklJeEd5OWtDcW9RWUpDR25nNTRwR3BpTHVVNWhBbkxIQ0lpUjRQOG5sblBISVBaQkh3WjFyZVBMRGlsR0Q4ZHJPeU1vcWpnc2N1TEEzN2MwM0FJMm9EWmF0dw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Rao Inderjit Singh seeks higher budget allocation for infra projects in Gurgaon and Manesar - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSWxKZUtHZXRoOHAtam1aU1dyT0c5NjhUVEh5cW5aVzBaN0Nud0x5VXYtS0x4dkdpRGxZR3VUcHZrMnhzWHpLS0dWLUktdGE4LW9Tc0M1U2JZZndxTXhjY1hfRXg3RG1ZQ2NhQm9WMVhDRF9oQW9nRTVpVXJ5S0pBOEFkUzlrMEFqeDVLRzVHd3R3OGZCb2cwZXh0MngtRDR6WXM1Mk9yeENJNlBobVM3LWl0bG1iWUZPOWRUWjdpemdHUng4d3IxTkZYeWhJdFo1bWJhVWxkOTBEaVJuUjg0NEJHV3dIRElxZUgzczZvWnRtVDdyUmQ4bDBB0gH_AUFVX3lxTE9iaXlwNmJab2VnOXZFZWJraS1CYUR3U2xBcGhDZ0RaRzBsaEt6U0tqNkN3RHo0YzQyYXRFRm05aWNJUXYyU0t2TFE5bjJRX3Atb05BTl82NUhQR09PY0FCbzFWNXFhb0lNcVAxbkhuNUxnbllUNGFhTkdLLVN5TzlPQ3U0ckctWDFyeHJPVVQ3RmtLZmFpTmpxX2U3Zzl3ZDVpVTY3a2F3S3ZZV3FxcGRXNzgyQXA0UkdLOS16ME0wbmFONnNNVjRsbG9Hc2h2TklOUTNZYm1nV0V0cXZZcFhlMTRmLUZjaHE2eDBoOENfSl9pUjRVTUFjZjRvR1lBOA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "‘Dear Chaudhary Saab’: What’s on Rao Inderjit’s budget wishlist sent to Haryana CM Saini - ThePrint",
+        "headline": "Waterlogging in Gurugram: Why Rao Inderjit’s Congress-era blame faces a test of his own record - ThePrint",
         "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHIwckFpNl9wWm5TWXJIYzJDZ1NDZWozazQybHl3SmpwX1lwOUpkODU1bVdCUUhfMmRWalFITGRfdHRQN01aak9scGxIZ19UQ3BHSnFOR205UnYzeVhFU2pab3Q5V0Z6dkhYd01jN0FudG1YUnlQM052ZF9ORVlXQjM4bk1IZ0Vjd2FOeEZ2MlpxekFmem51dGVlckRndG5XVThoUVdJNEg0Vjh4RTI3d2ZDWnBjYURoVGfSAb8BQVVfeXFMUGhZd2VwTXpoemdqdGpBXzNkdmVUZGM2SHZaQlhWTnZlYUJmSFF0emZ0cUcxbUJjUV9oSWlWZElKVmhhOWhUX20wQ2tSTXBtZklfSm85YThkbnBvcTVHbmRyb2dobnVNcS1FY0x0V3htQW5ic2szaGExLUpHeTEzT0l3bVpKSlFZRFFhTUtRaU5zeUVsNWFHaW9tYXdZaHp3SHVoeHRJZlY2VjdYNThXOHJSdl9tQWFoQzZHYWpKb2s?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWU5M21DUlJra3JQQWVwN1E0ZU5yQzF0RF9HMHUxT0JHTW5wbTdaLW90YnR5Z01QNHRLZDZEcXdwTFhPQlhCZ0tFT3J6ZDVyVExKQVNHY3haWEpER0hlbXBwbHRKc0w3Zy1jTWpYOWxjUUJ6SktBcy1TRUVqVmRNZm5RbXRqajVRbXBwTlZodm1YOTRMa0cyUi13QjdOblBOaEJRdXJFNUxYNGN3S3hIRHkzRmdSYXRfTnhHR0N3Y01CQm56MGZJMWlR0gHPAUFVX3lxTE03ZEVRXzl4NjFJZ2hpNWczcmZ5M1BCSVJwdFJJV0ppSUR6RngwaXVURlplTG1OcFQ5UDh4aXE2SjFBSloxODQwaVFsZXJsTVhzUll1QkVEbnl3UEs5cFUxZkl6V2ZZcVE2RWVOU2JtNldsNnZhYmYzRkR1bWFSTnRrVnR1cG9MQ3dHa05ValBKVWZFTnUtUzJkNktqRnRScXR0V29xUWJ6NU8ybERxZHQyUjJCZExEdkhBdW1LdFJlWElpMXhmbDFLZlRLLW9yRQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Clean up drains, submit report in a month, MP Rao Inderjit Singh tells Gurgaon civic body - The Times of India",
-        "source": "The Times of India",
+        "headline": "Union Minister Rao Inderjit questions BJP chief Nitin Nabin over local MP’s absence at Gurugram event - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLXdNVkFQUzhjRGtwekpDMHVpbEpGcGIwSDFzOF9uV1lPeGQwOUw0LTJjY1NWYW9JMXBWa1RWYWhfRE5DbWRwbzlUdy1IVTZhOTVsbUdIMFZWXzlEeVY4emhmNUl3NkQ5YTZIQ1Z2S05LamFXdWdFNEVyVGNVQk1EMGV4TS1zeXVVX1hpVTNKRUE0LXk5YUV6Y28waEUtODloWHVJaFJXVHFVM1pJWC1MMzNUeDJYUGpnbFZCRDlrR2pmVVBveFM3VVVNODd3RGZwQlhCMy1TZU5PWlBwSW4zVk10dmtPZmJZdUlEVko3SlhyM2Nf0gH6AUFVX3lxTE9EbTNsVnBHVUNFZ2k1dGNYMVo4VFJLZ1VOdzhfNnpWYTVycERJMWlHVWU4TUdjY3M4X1dDZExTc05pZ1JoZ0dQUEpjOTdobThpb0JuMVpwdU51VS1uZ0R4RnN4TVhTUkdWRGZqRkt2a2RHd3BVejFjMTUyWHVkVlhXSUtpbTVCV0RIV1dqS0w2c0k5TTNRSHVQM1IwRUNraWJHeFU1WVNKMlVkMDNuWk5YemFDdTBIWHNmUzAyR2NIRW12Tm85VXJCdzBQMTRqdFRLS2tOdldDTTZsa0NiQUs2SzZ1ZVFUcmJQdDBlQ1NCZ210eTZCelBSVFE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWndTdThRMUtoMWNMTGZEQVQ0REV4VDdIbm8wOWtDRVU5TktseTdva2Y2bmphWFg2TVJyYmhsTnV0MUd0M09aMFZrdlZpQy1JYmJmU0hNX0drY05IbTdJa0RpRFBZSzVZYzZuQzlxZE5xazdvZ2FoU0E4Mmhxam03UFpVMS1OVzR2Mk5BcEphWkkzWGdwRTB2X2FZN3Rqa0J2cDBKVmF1SF9RRDJKY19QR0lZZnpNcXdlbzR6b19zRDIyR2VvT2N5X2RHLXYzMThXYi1XSWY5TExNbFVjUV9FcVBJSkhkUdIB8wFBVV95cUxPeGNIX0hSaHl2bXRQZVR0d2ZyR1YzaV9CTGdsMkUtMTlBVmluNmpDbjlqSWhOUm1QNHpPZEx5emp6VXFlbHVtNXRmZGdZTVJfb0Nvbnl5SkFxVll4V0EtSzRXLVBEMnAtT1lMMG85ajFPUWNXMlVZM1duS0lJYVI4dUlvNkpOVHlHV0FPTkZYb0FCYnE4SlhfWG9iREMyWUxXRHo0YXY3VXhwdWI5bzJ2WHdjRVdYVlZiMGhaYWhaSzd6VXJRcFBtWUM0UmFnVWUyelctTTlsYUNleVJGaW96cTRvcHd6UzdyNV9QUHdUVDVPOEE?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Union Minister Rao Inderjit flags mining threat to Aravallis, pushes for budgetary support - The Indian Express",
-        "source": "The Indian Express",
+        "headline": "Gurugram waterlogging can’t be fixed via piecemeal solutions: Rao Inderjit Singh | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHpqcFlFdWhCWXRPNUtxQkY5aThIU2tkYTBKQUtXYWFYV3c3cnJCeWlQNTB0N0FXTndzUFp3RUdSVjh1LUk3NEJUTDlPazNHVmd6N0xLSFBySmszakIxVi00X1RWUzVwMUctVGU1NkZTTVhidG1pTzhRbGhHMG9WYnVfanR2SjNIdzFOc3daOXk1RWNOWGVqRXFuWXlrSUt3cXlOWUtRVmZlbEFMaWV4M2pzazczRExxZmfSAcABQVVfeXFMTVlENmpINFBUeVdNNlJUZUo5ZmRoYWc5dmt6azJ1Y2VYak9DaUFZUndraGtvUDRDdkdubnE1cm1md1lrLWF5bm9ZODVITkpwdDFfWUNEeXd6OS0yTER6NV9JZHVHd0pyeVBaTUh2X0RuZS0zRHp2Y1VSSEFSblc5emtnalhwajJRTmtkbm02eS02elR4blpubkNLazZkMGstcFB0TkJzSnBqU1JBaEFibDVjSnIzTUdiX0FqRXlSc3Y3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONTh0RDdoZFM4TlNfX1RBdE9tTk1ZX2lDTFE5Z3o2eURGbjlGUDQzb0FPSmhncjVPNkNJTlh2ZjlLQU94VWI4WVpyNzJUNkNUNjdFSzVtT3J6RkZfTFFwbEVvaFNYeFpLRU9kM2tFc1VOc1p3QjRqNnJUdmhLMmVxWkVSb3pJcFRhMjdFMW8zc1dfak9odVRqZExpZDVzT2pNVGV5VWtQVEJ0cmE4eVFhNWV0UlJjQTdvc2lRTFd1bUQ2UmtIMVZZRmNnZW91Tk9FeXh1ZW00c0hIRzlKSy1VNU9LaEtmZmPSAewBQVVfeXFMT0ZJN2FPMTJXeklCaXliRjlGTEJsU2RlM2JFQlhDZUhkOF81RktKemgxUEo4clNRSGU4UW40VFRlTi1hdk9ja1NLZHJKYWc0RXR4amRUZkJBamVZaEdkU1JtdGxsRjItU1hnYXlkOFRwQVp4RkowY2JybXVpamxLMXFUNHRQZVFzUERTazM4bG5KYUwyX3lJR2ZxZG9VWVJyNlZiZlpBTlJFVXlMUVNFQ1o3dXI3NEU4bkRnYmtNMGFjX1B1T05aMXl6bnJ1Z2dSWFpWMFExVHphekNuY0VvbE9rcEFqbllIVHhmYTM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Why did Rao Inderjit walk off stage mid-speech at BJP event? Gurugram MP explains - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0s4UjNhV3hGQ213NW10QkFrYXBkZXFidWdfWHlYR3p6NmhBVzVoZkMzbTJYX2xKM1ZuS0F5bXE1anFaajZFQkd0Tmw0VHllYUpmMzdOdW1NQnk5RUlhYUlQLXAtdmFEZ2ktTXl4bUFLSDZreFB0SThURnd5bnl1aVZjV1drdS1DLWlsRG9hR29oUjduWWhNLVFCbEV1bDZNRk5aVjZfQkRpUlhyNElzRHplaTJNVlpDbnRjS01jWXBkUdIBxgFBVV95cUxQakR6ZU5ZWDh6OXYxQlJoUHFVbzVYUTk5UVQ0NW5VTTdPOTFkZjBJVlg1Zk9fREZJeFRLRWhOOVk2cWlTUk9wTWtYVTZHekZWYWZfWnhQcTF2eEFVNk5RcnZuWEZaa1BWTGUzc1hNTHZYd25rNVJhdURFZ3BYSV94WFJLTlNpcXlmV0RKakZ4WkpaSTF0UEdtcTZ5TXYtOC1RUDQ1blZjR1BhZGYwRXphb1M5QlhHZWdHNEtBQ1BwVGlxOHlTeEE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,7 +436,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

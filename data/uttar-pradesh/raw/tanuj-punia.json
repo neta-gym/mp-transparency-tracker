@@ -4,16 +4,16 @@
     "constituency": "Barabanki",
     "state": "uttar pradesh",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 7187,
+    "myneta_candidate_id": null,
     "slug": "tanuj-punia",
     "house": "lok_sabha",
     "sansad_member_id": 5728,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 39,
+    "age": null,
     "photo_url": "/mp-photos/5728.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,96 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Thana Kotwali Nagar Barabanki,  CC No-410/2019 | Sec.127(A) (2) Representation of the People Act",
+        "ipc_sections": [
+          "171H"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "C.J.M. Barabanki",
+        "fir_no": "Thana Kotwali Nagar Barabanki,  CC No-410/2019",
+        "case_no": "6012/2021",
+        "other_acts": "Sec.127(A) (2) Representation of the People Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:13.189242Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 27131091.0,
-    "liabilities": 243280.0,
-    "net_worth": 26887811.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7187",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.204680Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 23.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.82,
-    "released": 14.82,
-    "sanctioned": 7.42,
-    "expended": 6.57,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:23.099972Z",
-        "notes": "Official eSAKSHI REST API — Works: 30 recommended, 21 sanctioned, 8 completed"
+        "fetched_at": "2026-09-02T16:43:32.191469Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:39:50.565613Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:39:50.562699Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 30,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 44.33198380566802
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +126,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:55:41.994740Z",
+        "fetched_at": "2026-09-02T16:39:50.561537Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +134,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Congress appoints Rajendra Pal as UP in-charge: Avinash Pandey is removed; Ajay Rai faces uncertainty - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWVRKdGVtNmZ6LV9rZmFMOEtWSWF6cjVlVXJmZGEzSm9UVER1b3BpY2w5YjR2M2V2aXdPME42QmJGOFl3UHJ1WXVQMkRZTlI4V1M1ZjExN1BTYURONy0tcnhZQjZCbUYzUFRhTUk4STVwN1pKYnRpR01WdzVqVGhwNmNhWFh4SEdkY1VzOTZrdjRabW8zXzd2OGFESGZiZGJkMkxBV3d1dVVUQloyX2taMXNoWlo4MnVmdGdnNnVCSDR6c2FyZkdFaU52QjlhZW1WT0puTDFlbTR3TXBDZUpKUWNsOVVwNHdZM2V2MnF6d3lmclBYcFJR0gH8AUFVX3lxTFBFcHBBcXVQYzB1cTVROG9CZDk3ZlNnakY3amtCTkZPZHJLMFVheVBYc04zUFNaN2hkX0llYUNHa0hQdTJJaFlWSkJ6N243Z25sVkg3djVxaFVFdTd6bnh5TkY3QmIyM3YxZDVocTV3SXFndGNiNGNKZnhtODIwLTNFVXdRNzNSQ2FlOUd0WDluMG5ocnNULUlBYndVWVVYRldEeGNsNnctbXVqNEZWajZrV3pEdTdjUVB6cWRRVDBJUE9QcVVBUVJleVFlZ2tBb1RFU2dBTFBmM1hrWG9hWEpOU3BYYWJBVGRNS1prMk9VSzFtbUc2YmFhcENJVA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mayawati refuses to meet Congress delegation: Leaders reached without prior notice; discussion starts again... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnhoVnkxSndPX0dCdFAtNzlEXy1BTEl6Q2dLMnNINk9WRmtiTEZOUDYtSWNjU0NEWEpjM0l5R2pFdGZjQlJkT3BpRlVCUkJheVhGWWllM05vLWF1QkpXLWdHcjVYWWF4TlJyT2JkS0d5VllvWVBuWF9yaWZXcTJlRVkxSTF1dWwxV1duNkxjT1h2dVRUQUx6WnhxcC1kTWFoNThwNG5WOEpueW85VGFxTHlQVUxFSkJ10gG-AUFVX3lxTE1lVkJJd0tVMUZwWVRfX0NuQ0FRTHRqeDB5dDF5b1RqUWhsb1dtd2ZVRnZpaXltUklYM2lGWXlnR01id0xYUU9kSkZub1FEOXB2YnhfUWV6VjZDcFhoakFFelNUVC1icmtvbXEtQndUQmNoRldya1pRaUZZcFN1NlljSXRfRkREd2ZWSVJIeWpiT3RvZVBrUjloNHgzTnZBQ2xpY2thdnNvc0x0YTg5UnBuWWQ0Q1g5MDJsdC10SkE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Supreme Court Seeks ECI Response On Congress MP Tanuj Punia's Plea Against SIR In Uttar Pradesh - Live Law",
+      "source": "Live Law",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDZMb002eTFudXlEYXNuVjNpNUhBMmZBWGdITmp0MmMyQURjTEZZR1JXenMxaUhiVmpsMDljWE94U1BkcDIxS2lwTGFzd1ZNakRZWXVZZ0hvTDlkZGJzMTZVVy11RDlrMXRtWE40UWE1OFlqU3JIbDhFdExyendXdTlEZnhpQmlkYVBlOTRncXVOcVhhSHlUNVY0RlRfa3dyLVRDaWY3dVVhWXM2QmNCMjRGU3ZOemNOTDNhd1hpZnJnY3JFM2fSAcsBQVVfeXFMUEw3WmNleFdsSzlwcHV1bHI4Z0Q3YmJ4YUh5STUxWDZLZUZlcXh1QVk2RjFBSXo3ZGgxMlFzQi1UOXBCY3NoU1pXalExd3kzaGFRVy1PS0Zlb1R4ZjZIY1Nldy1sOEVCeVNBNmMtS0dlQzdSMzMyeUNDT2pROUs1SHpaOW0tenFLc3hZU3RaYVp5UXlSRVRlU092d2dkcjdlVkRjVk9wNWFwelEyT21Hc05oRFoybTBlS05sa0Z1NW5PczhhajJ2NmQtLU0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Lakhs of genuine electors face risk of exclusion’: Cong MP moves SC against SIR - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRWdtTTlCWHU1cjJ1V0lWT3d2X0VtTEZfeUc0OV9LTkFnWTJ5ZzhKZDJ5dUtKUHZsYTZVVHgwTFlVekVkSGJGdFZlbDFod1Q5MkI1SVVzdm9XWHpnY016dkpQM0NrYXRlem1JdEU0eG1aa3BjUXlIbkZ5OUtxOHJETGN4RDYtWWRBQVVvaDYwSWVlQXNRdzRVcl83TEtzNlNaUWk0WVRyUmYxMjdUZmU00gG2AUFVX3lxTE52UjhsQlFLNElPMmF6TEluaHpWR2F1R3d6cGFhZDZVM1FacGdFWjMweDRjTHZBY19Nb2xyaTd1RnNvUkl2SnJZQTRfSFBvamh2TDlUbXRyRTE0M08xTUJrckRGRXhMc0doU08wRVhaRk9RcEpHVDYydGRqRGJxdlQyZXNWdk05cm9xOEpQSzZSOVdOM2U3emZaNTFUZk9hNlFpd0xnbnhQUmtjc1ZTcHAzZFZ1WlZ3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "UP SIRs: SC Orders EC Probe as Barabanki MP Flags Rural Voter Anomaly - TheWire.in",
+      "source": "TheWire.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSkZscTRpdmE5ZGYtUEQ1a0M0MlFQTWdIMUZETF9jaWtzdzYwMHp0a0FEQ2hrN1R1R3JkemVmNVNsLXNEcFJkeFRrUmZUdlN5Nzl5Mlp2eTZ2OFh0akxsNHQ3VWtIQkVhZzdQNGdOSnBxaWFrNFR2b1c2eVRfajhCQnNmYzlnb3pMUnBzTnZVSnlMNmJEVkxWaXktQWtQQ29KaTJyLVJjRdIBrwFBVV95cUxOVG9rRUgtMnFlOEtTRXM2Y2M2cUdPNF83bjFGY1d2YXJZT0puWHEyTF9HUHlELTFaeG5LSXJQUU94b3k0UGxPWnBxUHI1eW9ybU53c0ZrSG9GTmppNUhRcWtnUnJQaGFrRDVJT1JIdGt2RUhPZmpFaGZBUmpMeW9ZVW9JaTBwRHItN09tUFNFMFR1alpzV3pKVlY3d3FMSGJpUXg0UlhXUzRrVl9HTjBz?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:56:04.135808Z",
+  "collected_at": "2026-09-02T16:43:32.192464Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +203,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.318304Z",
+        "fetched_at": "2026-09-02T18:38:11.897843Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +219,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.318313Z",
+        "fetched_at": "2026-09-02T18:38:11.897871Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +235,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.318319Z",
+        "fetched_at": "2026-09-02T18:38:11.897880Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +251,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.318324Z",
+        "fetched_at": "2026-09-02T18:38:11.897888Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +267,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.318329Z",
+        "fetched_at": "2026-09-02T18:38:11.897896Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +283,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.318334Z",
+        "fetched_at": "2026-09-02T18:38:11.897904Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +299,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.318338Z",
+        "fetched_at": "2026-09-02T18:38:11.897913Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +315,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.318343Z",
+        "fetched_at": "2026-09-02T18:38:11.897921Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,6 +353,14 @@
     "neutral": 10,
     "top_headlines": [
       {
+        "headline": "Congress appoints Rajendra Pal as UP in-charge: Avinash Pandey is removed; Ajay Rai faces uncertainty - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWVRKdGVtNmZ6LV9rZmFMOEtWSWF6cjVlVXJmZGEzSm9UVER1b3BpY2w5YjR2M2V2aXdPME42QmJGOFl3UHJ1WXVQMkRZTlI4V1M1ZjExN1BTYURONy0tcnhZQjZCbUYzUFRhTUk4STVwN1pKYnRpR01WdzVqVGhwNmNhWFh4SEdkY1VzOTZrdjRabW8zXzd2OGFESGZiZGJkMkxBV3d1dVVUQloyX2taMXNoWlo4MnVmdGdnNnVCSDR6c2FyZkdFaU52QjlhZW1WT0puTDFlbTR3TXBDZUpKUWNsOVVwNHdZM2V2MnF6d3lmclBYcFJR0gH8AUFVX3lxTFBFcHBBcXVQYzB1cTVROG9CZDk3ZlNnakY3amtCTkZPZHJLMFVheVBYc04zUFNaN2hkX0llYUNHa0hQdTJJaFlWSkJ6N243Z25sVkg3djVxaFVFdTd6bnh5TkY3QmIyM3YxZDVocTV3SXFndGNiNGNKZnhtODIwLTNFVXdRNzNSQ2FlOUd0WDluMG5ocnNULUlBYndVWVVYRldEeGNsNnctbXVqNEZWajZrV3pEdTdjUVB6cWRRVDBJUE9QcVVBUVJleVFlZ2tBb1RFU2dBTFBmM1hrWG9hWEpOU3BYYWJBVGRNS1prMk9VSzFtbUc2YmFhcENJVA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Mayawati refuses to meet Congress delegation: Leaders reached without prior notice; discussion starts again... - Bhaskar English",
         "source": "Bhaskar English",
         "severity": "low",
@@ -288,27 +369,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "UP Congress serves notices to two Dalit leaders over outreach to Mayawati - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "Supreme Court Seeks ECI Response On Congress MP Tanuj Punia's Plea Against SIR In Uttar Pradesh - Live Law",
+        "source": "Live Law",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmt4WUl0TUdqZTZuZ1JJam41M3JuSkxObHJyc0xpR1d2LUpYTGhYS2lWS0k0dWd1RVJvLTRzWmZhS0pCc3Jlb3JqTmlYeHJMaHh0UTE2ejhLYU9uWWFKM19FZ1ZQWk9yanA4QkU3WVlXRjllTndvVTRmYzZRYnZfSkpUU3lpZHpHYzFJSU1kY3Q1UnRabXg0SzJFMHpVT0QzbDlXdWVxX2dQOUhNSEtISXZ5bGMzamNycUJfUFFHdnlWa2RBZUk1OUtHNldJNVJjT1RNdkdB0gHjAUFVX3lxTE84SUFvM29Ga3JjelR3U0dMelhnVHZNeC1Odi10MWROQmxnZ2JyOGdsa1NtOTM1N0kxZC1QbHZIdk1Gd0lURGx1SFh6Y1dONlhsYjRPMnFpWjJLdXpUZzNFMFVORWxxNGxJSFhlTnhTVkJPYS1WRTl6eWxQWU1zZmR0bVVUN2E0UlNXSkVfMDF0VTgwNmwwV1g2TUQ0SUtBdTc4Z2xHTzY1ZU8yTVl6SGZGUGNfNWNpckcwRnFYQUF0THBUeG1PcU9yU29iQ1ZrZGs1NGV1M2xhQXZLM2V1ams2ai1V?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDZMb002eTFudXlEYXNuVjNpNUhBMmZBWGdITmp0MmMyQURjTEZZR1JXenMxaUhiVmpsMDljWE94U1BkcDIxS2lwTGFzd1ZNakRZWXVZZ0hvTDlkZGJzMTZVVy11RDlrMXRtWE40UWE1OFlqU3JIbDhFdExyendXdTlEZnhpQmlkYVBlOTRncXVOcVhhSHlUNVY0RlRfa3dyLVRDaWY3dVVhWXM2QmNCMjRGU3ZOemNOTDNhd1hpZnJnY3JFM2fSAcsBQVVfeXFMUEw3WmNleFdsSzlwcHV1bHI4Z0Q3YmJ4YUh5STUxWDZLZUZlcXh1QVk2RjFBSXo3ZGgxMlFzQi1UOXBCY3NoU1pXalExd3kzaGFRVy1PS0Zlb1R4ZjZIY1Nldy1sOEVCeVNBNmMtS0dlQzdSMzMyeUNDT2pROUs1SHpaOW0tenFLc3hZU3RaYVp5UXlSRVRlU092d2dkcjdlVkRjVk9wNWFwelEyT21Hc05oRFoybTBlS05sa0Z1NW5PczhhajJ2NmQtLU0?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "महिला आरक्षण पर बाराबंकी में भाजपा का प्रदर्शन: कांग्रेस सांसद तनुज पुनिया ने सरकार पर भ्रम फैलाने का आरोप लगाया - Barabanki News - Dainik Bhaskar",
-        "source": "Dainik Bhaskar",
+        "headline": "‘Lakhs of genuine electors face risk of exclusion’: Cong MP moves SC against SIR - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVFgySG9DN05uTDU5b2JyWmhKX2pHWDBIdjBLejNkTy1iZ1Z3a0w2b2JJaXJfU0VQYzNKaDBQOW9RVUtkOWJTTnJJc2NCUmVaOEFuSWthTWFiZ0ZYQms2RHhfQTFOaS1nU0FsaFp6TldmLVJzYzE2NkdfaEZQbmhSY3VSUEptZjlFMUhfaTVxUGlodjRHNWdxcndjWWExMDNxazRBU0RTREdZeHJJcjJrZFFqaG9YNzltZTU4blpuVU5MLXhxTEFWVExNVUlMOEZtbTV0R2w0U2liQ1BWUjlNckRRbE8zZGYzVzR2eQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Barabanki MP says Uttar Pradesh SIRs show rural voters exceed total number of voters in State; SC asks Election Commission to explain - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUlvZ2RBRFJDdFhtdUljSERTSm5OY3J1eGZMbWxOdzBldGtWX0ZFa0RpWDRPR2tZU2hpazRiZU1EWW44aUdRYmlPRWJFM0pMUmNJRVBtamQ0a0twdWlhX0pxU3JMbV9aa3FPVlg3QzNaUV9YbHBvYl83RGFWcUQ0N2tnVUh0MHc1b0xuZG56U0JQbEtqV1NFaFFmRWRDMHpMb296ZHFkTUFRS0x1TnRiYTBTczI1bnBFeGJhM2xkMHhjVmVqSGJaVtIBzwFBVV95cUxOT3BBa1RsYWdETXB5RVJ3clZuS0cxSTh5QlJGaEFGOUZLUGJwNXVxMnZCaHlSNlQ1ZzNjTU9ES0ZyaV9JR05UQ0JqX200Y1pRSy1UTENoZzlqYjF3RHRlcUxlUmoyUlJ0WmloajNoNDZ2SFpkMDVDOUhHcDdlWnVUWlZjMHJQWnVWSFM2YVQ2U3N5cHhGZnFnS2dWZzN4VlUtR1dzWlpPZWw4OW9fN1lpeDlGWEpkUGpIMlo5RVhlelVpcThGMktWb0xrREswenM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRWdtTTlCWHU1cjJ1V0lWT3d2X0VtTEZfeUc0OV9LTkFnWTJ5ZzhKZDJ5dUtKUHZsYTZVVHgwTFlVekVkSGJGdFZlbDFod1Q5MkI1SVVzdm9XWHpnY016dkpQM0NrYXRlem1JdEU0eG1aa3BjUXlIbkZ5OUtxOHJETGN4RDYtWWRBQVVvaDYwSWVlQXNRdzRVcl83TEtzNlNaUWk0WVRyUmYxMjdUZmU00gG2AUFVX3lxTE52UjhsQlFLNElPMmF6TEluaHpWR2F1R3d6cGFhZDZVM1FacGdFWjMweDRjTHZBY19Nb2xyaTd1RnNvUkl2SnJZQTRfSFBvamh2TDlUbXRyRTE0M08xTUJrckRGRXhMc0doU08wRVhaRk9RcEpHVDYydGRqRGJxdlQyZXNWdk05cm9xOEpQSzZSOVdOM2U3emZaNTFUZk9hNlFpd0xnbnhQUmtjc1ZTcHAzZFZ1WlZ3?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -350,15 +423,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 41,
+    "starred_questions": 12,
+    "unstarred_questions": 29,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 79.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +439,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

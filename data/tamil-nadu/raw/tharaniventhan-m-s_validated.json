@@ -4,16 +4,16 @@
     "constituency": "Arani",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 703,
+    "myneta_candidate_id": null,
     "slug": "tharaniventhan-m-s",
     "house": "lok_sabha",
     "sansad_member_id": 5819,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/5819.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Arani",
       "state": "tamil nadu",
       "party": "Dravida Munnetra Kazhagam",
-      "myneta_candidate_id": 703,
+      "myneta_candidate_id": null,
       "slug": "tharaniventhan-m-s",
       "house": "lok_sabha",
       "sansad_member_id": 5819,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 59,
+      "age": null,
       "photo_url": "/mp-photos/5819.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:32.987128Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 17161977.0,
-      "liabilities": 3563277.0,
-      "net_worth": 13598700.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=703",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:52.930521Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 15.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 16.83,
-      "released": 16.83,
-      "sanctioned": 11.3,
-      "expended": 10.07,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:48:52.665963Z",
-          "notes": "Official eSAKSHI REST API — Works: 223 recommended, 209 sanctioned, 159 completed"
+          "fetched_at": "2026-09-02T14:26:44.875491Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:54.618348Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:56.754849Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 223,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 59.83363042186573
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 75.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:18.097435Z",
+          "fetched_at": "2026-09-02T14:21:57.075302Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Arani Election Result 2024 Live Updates: DMK's Tharaniventhan M S Has Won This Lok Sabha Seat - The Quint",
+        "source": "The Quint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGVqNU15QXFjNWh3SkpTaGo5MTByRDNaaTM1ZV8yMklNX3o1YVZnSHBwV1JJRk9hVjlTN2ZUT045UWNBVS0xRllGU2RaSkw5VVdqc1pwdnB0R21yd2hjbzBYbzJZbmw3cmVXZzBNRVJRMGNmT1VXZGVXZkVDZVJQRmZ6cFU4bF9PcThhZkhpMXZlV0FHUWlzbVp5Z0J6N3RmU1d1V2Zrb1Fxb3ZuTTVnVk4xT09aMVU5NkcxNkZZcmZHRUnSAdABQVVfeXFMTnZSMWlMd1pCTVlSeXEwR1V3TlBHN3U5Q2hEYktTMUxSNmZIcUtRTVdaNGxGVXZOREhPWUxmRkx0UVl2TzNJbVJFTkoyYzdfU1hHR0tIUlBLUmM0cklnb1RuZGkxU0ZtVFBuSzg4enN4eXpUMHlhbC1aUnQ1cEVWM3lMaWRqbGU0dFc5UzlXOUNVTkNIR3FkbTlmSGYxLUdCaGpUOUZJVkIyQ0RHWnNlZWg5dEM1d3EtVUZNcFFLNFh0WUpJOFZKZTlZSkRIYU9PMg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Arani Election Result 2024 LIVE Updates Highlights: Tharaniventhan M S of DMK Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFBFTnNrXy10Rmo3NUpvdUc4c2F2MHNLbXBFNFVpWTdHOEZyUWJHVWVidk9BNE9nVXdEcHpfb2NHS0VsOV9xbE02UVFmODN1aDZhWnVmdl85T3hXQzFzMGNFOFN3cjlUeGVxMWtpaF9FbDVjV3o2UTJNUXlZWkJfcHZkdHZZeGVrYUEwTFlvd1I5RmRxOGVwTVRPUTRweHlYS1k2bk1ZQ0xnb1BPXzNoN0x3NS1aYkp1MUJvN3BidlNSalpyV2lHR2RvaXJUS3lzYjNrTHZNZmx3VkI1SFZj0gHkAUFVX3lxTE54YldVQmtYTUxCRzlWUUVGU1dCVWhxck1fdGo0OGVqX09uSC00Zko3eVJSWGNWeDdldFdxX180T29vYk9mb1BKUFBCZGFuTGpNS2JUSl9YZG5mUWY4UmE4UGdVTmhXMTJoekY0V1dtUkhyTkI4eGc1YWUxMDVVZ0VnZzU5aHR2NndzRVhSZjFnTGpqaEt6ckJKTF9iLTFBUTVGa0RyY0ppdmRieXhranNRSW5QMzdVbDhaREwtc2FlM0RXTWJOTVJ0WDhWeGt0RWQ5VUt5QTBjUmJ0OGlPSjN4aFFrNg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "51 out of 131 MPs from South are debutants; Congress’ Sasikanth Senthil wins with over 5 lakh margin - The South First",
+        "source": "The South First",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOWlXRGVYdVJ2ZnBQUy1UUlZfUW1BdnhkMkpxRXNkU0g2TTdBZC1rME0xZjRNSVNGd2l1TFVkdG9HbnR1S0FaZ2tNQVFaSndrUFk0S2E2VXFwOE1sTDAtV0otM25HYVlGNElqVXFTWDN5MzFVX21JaGZYOFljeEhvUXpQZ2JzR2psVGVzWlIxWjlIb3R1b1YxQUpiakdRNGFxZ1B6Ynh5M3JGb1dONFpCVXNLNmdfZnk0MXBOSERia3VJcUZWZTlxeHZyVW1OMUd1?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha polls | In Arani, rail network, road connectivity issues call for attention - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTloZk42VnpoTERrVVhjR21EeC1Dem9veUR4ZUstVjVSSmdzelZPM01vZEtOdTNFd3VoT19NTXF6S0hsTnY0b215NHZaTnRzVVpYdm52SVJvT1V3dDNHTm5ucTB1UFRqR1c2ZGhwNEsyNXdZNHZyQ3BBaElCd0dwekVhalhYNW11aE9WMFNFOE8wcVR3c0tnYzg0UVNKQi1ERW9QdnVoZ3RDc2VpdzdXaV9jaU5vNDFFeGV1VHg2VWozN0hQU180amdR0gHQAUFVX3lxTE9LekRPdkh6cm9pZmttMHlsdE14XzZIX0N0bktBc2t4TmlLUUVMRS1MeEFxSVVaRlNBNV9MZ2RmTExVX29xQ1FPU3NnclFVX0JsdWsyU0p4amJRbFdDMkNVU2VkWUlOYUZSaUsxUk0wVnd1Rm9FMmRwVWJNMmVxdG5JM3EwWk00Y21KNURXbFo3M19BdjZZZlN4SV84ZVMtREM1N1RVQkdMaUJ1dVV4V19oX0g5QkIxa29EYlRUckN3RlBtRUdFRGNkbkhncEFTY2g?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha results: DMK wins Vellore, Tiruvannamalai and Arakkonam constituencies with big margins - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPckxyQkVtOTJwQU9iaTF2WFRXUDVYSXBIeTlxd1N0VldtYmhweEZOdC04U3lkNFJZOG5UZFNTbXRqUXBDOUpXYUZkWWdBT2RMMWxZRmFSa1ZhOExkUVItYTBGN2g1SXNIVXR2bUlLQThVdXVoR3R5Q1FPT0tMUmVYemlpSmFsY2NMTU4tTHlndVBFRktFQUIzdk56T0xGa0o4SnRYZlpWUHNvOWJGQWdLcU1nc0VObzdwUzRlbW11azNKcGpzQ3BpWnU5UzZSWXpVZUJCb1NOYm1Ydlg2MmYyNDlkYTFNTzRPQmhBYURVWWV3OXo3Smk0RNIB_wFBVV95cUxOTXBoeDYtdFBRWkJqNERlVmRTNWZ0cU5tZkhPVHhScEVmUjh1QnF2Nk56Y00xS0ppRU1oVlpvZHNDSC1ZUjY2eWJIWWdFNElXZTRiUHNSS3E5S1RXQlRyb1FWcVpSQ1lyV205NGlpbTI5cVJtRHhCMDF0aFZMRml4c2xrNVpKUERtMVFsWm9zRl9HY1phMl9icmdwTktBbWRlU2liU2FZUk5XSElDOUFSQTA1RlU2ZldGem9aajZneGpNc3JmejJmdXI4VGV5bVdZNS00VjU4WURBTkFaeG9PRUw2UFVfRTR0MnNfcE9LLTA3NHQ0R2Zfby1vSDdXTVE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:20:40.958703Z",
+    "collected_at": "2026-09-02T14:27:16.879517Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.784205Z",
+          "fetched_at": "2026-09-02T18:38:10.304928Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.784213Z",
+          "fetched_at": "2026-09-02T18:38:10.304940Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.784218Z",
+          "fetched_at": "2026-09-02T18:38:10.304946Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.784223Z",
+          "fetched_at": "2026-09-02T18:38:10.304951Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.784228Z",
+          "fetched_at": "2026-09-02T18:38:10.304958Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.784232Z",
+          "fetched_at": "2026-09-02T18:38:10.304963Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.784236Z",
+          "fetched_at": "2026-09-02T18:38:10.304968Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,40 +322,57 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "@m.stharaniventhan",
+          "url": "https://x.com/@m.stharaniventhan",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "@m.stharaniventhan",
+          "url": "https://facebook.com/@m.stharaniventhan",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "@m.stharaniventhan",
+          "url": "https://instagram.com/@m.stharaniventhan",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:21:57.847144Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 7,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 7,
       "top_headlines": [
         {
-          "headline": "Political Profile of Tharaniventhan M S, Dmk Party, Arani, and Net Worth - India TV News",
-          "source": "India TV News",
+          "headline": "Arani Election Result 2024 Live Updates: DMK's Tharaniventhan M S Has Won This Lok Sabha Seat - The Quint",
+          "source": "The Quint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaXRKQ0oxSGdlMU9SQ0IyRmh4b1NNRUVybmpfdEtkcDJfQTM1Q2FORng5eE1BSkxyMTRHc3pZSmJWaHdrbVZRbmxCUjc2ZnlsQmNrUmtfVW43em5jRUdJMmFSVDE3amtmZ1NqaGtFR3I4NGpvZ0NUbTN2RFlTa3JJbnRfSjJHRm9pRk5kTGtTaVRYYWQ4QkVjWENkWkJlaW93UXdSREpEb1lGUmppOEJLZXQwVDZYd3dIdFpBZFQyM0dvb0pNRXppU3QwejFLYmNqRmdocGQxdTYyczNFMml3?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "51 out of 131 MPs from South are debutants; Congress’ Sasikanth Senthil wins with over 5 lakh margin - The South First",
-          "source": "The South First",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOWlXRGVYdVJ2ZnBQUy1UUlZfUW1BdnhkMkpxRXNkU0g2TTdBZC1rME0xZjRNSVNGd2l1TFVkdG9HbnR1S0FaZ2tNQVFaSndrUFk0S2E2VXFwOE1sTDAtV0otM25HYVlGNElqVXFTWDN5MzFVX21JaGZYOFljeEhvUXpQZ2JzR2psVGVzWlIxWjlIb3R1b1YxQUpiakdRNGFxZ1B6Ynh5M3JGb1dONFpCVXNLNmdfZnk0MXBOSERia3VJcUZWZTlxeHZyVW1OMUd1?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Arani election results 2024 live updates: DMK's Thariventhan MS wins - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQZWpJVVNSTXcybXc3VjJLYXp5TEhOUURKMmF6V0FtOXYzY3BoYmRVR2trblhCRkhKTThSWmtLSnpiNDhMTktaajN4QlRaTWhuaVF1Y3BrTkdHOE5fbFU0RHZXcEhuQlpKb3pSV0VzYnZnZVptcVh4a3NBWnhETW5KZWtXeXBSY2dIMjk4WHlvSnNhcmpENmZGalpfTmxycjdfT2s5MmJzVlVHR3UyeUpNSjdXcy1QMF8tTXQ2Z2pIVUYyaV9iYWNiX2RieVVLMm9rQ3U0bFZYcE9YbVZTazQ2bXFRQVVLTUxHeGJkeGY1OXRSank2ak5qZ3hneG5vSldxeUlYQVFPVVBGWTl1R2wxbzBESTkySEg1R3Z5d1kyNGdCUk9XVUszZW9weUc0WDNRUkJIeWJpaTZrbE1hVzZnUUdyb0xaMG8wQzV1WmpXamlFekhIQ0ltNzZ0a2RFaEkt0gHmAkFVX3lxTE80NUcwX2Q2bGtWZTdTc1dKNENYeGFkNUZCNkZROTA4REJWbXFYYTFnV1NOWTE4YXFSWmk1OFp6SExCQ014a0dzcTlJZnA4WFkxcWp3Vm0xU0lvV3MtSmhRYjJLZVhoTUtWcWl1TXhDcHhBYVBuVUNEXzk1a3BBYzhwbEE2MTlhQmtReU53dnBxV1JxSm9pSE5OLUFwaUo2bEdqcC16OWNBZ1hFYks4Uk5aS0NhOHhMcERIMTAyeUxjVl95bVUwYVVEV2VnLUdoSDB5LTlIWHBlcm4yaE1CRm1FdnF1SHZrRlJES1NMbndUczlISUx4bzBpM3dCOFhCcTBXZ2duOEN0bTVUYjV0QVdKSnBaUWFiSnV4d2Y5V21MbW50SldIVExEVG1xYmlPWDFJNWhkM19pdUNhcmJMMnBQTzEtZmxRbzJDUlp5ekVGTVNmYWxteVpzbFk5djg2VHBWZ3VNREE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGVqNU15QXFjNWh3SkpTaGo5MTByRDNaaTM1ZV8yMklNX3o1YVZnSHBwV1JJRk9hVjlTN2ZUT045UWNBVS0xRllGU2RaSkw5VVdqc1pwdnB0R21yd2hjbzBYbzJZbmw3cmVXZzBNRVJRMGNmT1VXZGVXZkVDZVJQRmZ6cFU4bF9PcThhZkhpMXZlV0FHUWlzbVp5Z0J6N3RmU1d1V2Zrb1Fxb3ZuTTVnVk4xT09aMVU5NkcxNkZZcmZHRUnSAdABQVVfeXFMTnZSMWlMd1pCTVlSeXEwR1V3TlBHN3U5Q2hEYktTMUxSNmZIcUtRTVdaNGxGVXZOREhPWUxmRkx0UVl2TzNJbVJFTkoyYzdfU1hHR0tIUlBLUmM0cklnb1RuZGkxU0ZtVFBuSzg4enN4eXpUMHlhbC1aUnQ1cEVWM3lMaWRqbGU0dFc5UzlXOUNVTkNIR3FkbTlmSGYxLUdCaGpUOUZJVkIyQ0RHWnNlZWg5dEM1d3EtVUZNcFFLNFh0WUpJOFZKZTlZSkRIYU9PMg?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,6 +384,22 @@
           "sentiment": "neutral"
         },
         {
+          "headline": "51 out of 131 MPs from South are debutants; Congress’ Sasikanth Senthil wins with over 5 lakh margin - The South First",
+          "source": "The South First",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOWlXRGVYdVJ2ZnBQUy1UUlZfUW1BdnhkMkpxRXNkU0g2TTdBZC1rME0xZjRNSVNGd2l1TFVkdG9HbnR1S0FaZ2tNQVFaSndrUFk0S2E2VXFwOE1sTDAtV0otM25HYVlGNElqVXFTWDN5MzFVX21JaGZYOFljeEhvUXpQZ2JzR2psVGVzWlIxWjlIb3R1b1YxQUpiakdRNGFxZ1B6Ynh5M3JGb1dONFpCVXNLNmdfZnk0MXBOSERia3VJcUZWZTlxeHZyVW1OMUd1?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Lok Sabha polls | In Arani, rail network, road connectivity issues call for attention - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTloZk42VnpoTERrVVhjR21EeC1Dem9veUR4ZUstVjVSSmdzelZPM01vZEtOdTNFd3VoT19NTXF6S0hsTnY0b215NHZaTnRzVVpYdm52SVJvT1V3dDNHTm5ucTB1UFRqR1c2ZGhwNEsyNXdZNHZyQ3BBaElCd0dwekVhalhYNW11aE9WMFNFOE8wcVR3c0tnYzg0UVNKQi1ERW9QdnVoZ3RDc2VpdzdXaV9jaU5vNDFFeGV1VHg2VWozN0hQU180amdR0gHQAUFVX3lxTE9LekRPdkh6cm9pZmttMHlsdE14XzZIX0N0bktBc2t4TmlLUUVMRS1MeEFxSVVaRlNBNV9MZ2RmTExVX29xQ1FPU3NnclFVX0JsdWsyU0p4amJRbFdDMkNVU2VkWUlOYUZSaUsxUk0wVnd1Rm9FMmRwVWJNMmVxdG5JM3EwWk00Y21KNURXbFo3M19BdjZZZlN4SV84ZVMtREM1N1RVQkdMaUJ1dVV4V19oX0g5QkIxa29EYlRUckN3RlBtRUdFRGNkbkhncEFTY2g?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Lok Sabha results: DMK wins Vellore, Tiruvannamalai and Arakkonam constituencies with big margins - The Hindu",
           "source": "The Hindu",
           "severity": "low",
@@ -322,7 +408,7 @@
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (7 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -352,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 23,
+      "starred_questions": 6,
+      "unstarred_questions": 17,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 43.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 75.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 17,161,977. MPLADS utilization: 59.8%. Parliament attendance: 75.0%. Questions asked: 23. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:52.785136Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 75.0%. Questions asked: 23. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.305673Z"
 }

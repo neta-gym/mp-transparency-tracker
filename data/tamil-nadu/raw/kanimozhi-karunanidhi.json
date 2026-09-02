@@ -4,88 +4,136 @@
     "constituency": "Thoothukkudi",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 566,
+    "myneta_candidate_id": null,
     "slug": "kanimozhi-karunanidhi",
     "house": "lok_sabha",
     "sansad_member_id": 4960,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 56,
+    "age": null,
     "photo_url": "/mp-photos/4960.jpg"
   },
   "criminal_record": {
     "total_cases": 2,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "01/14 ECIR No.31/DZ/2010 \nEnforcement Department New Delhi | Sec. 3, r/w  4 Prevention of Unlawful Money Transfer Act",
+        "ipc_sections": [],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Special Court Judge Mr O P Saini 2G Cases Patiala House New Delhi",
+        "fir_no": "01/14 ECIR No.31/DZ/2010 \nEnforcement Department New Delhi",
+        "case_no": "CC 1/2014",
+        "other_acts": "Sec. 3, r/w  4 Prevention of Unlawful Money Transfer Act",
+        "charges_framed": "Yes",
+        "date_charges_framed": "31 Oct 2014",
+        "appeal_filed": "Yes",
+        "appeal_status": "The candidate was acquitted on 21 12 2017. Enforcement Department has proceeded with the Honble Delhi High Court for leave to appeal C R L No. 184/2018 against the Special Courts judgment dated 21 12 2017. Till date the Mandamiku High Court has not granted leave to this petition.",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "RC DAI.A 0045 Date 21.10.2009\nInvestigation Department Police Station CBICG Complex New Delhi | Sec. 7 or 11,12,13(2) 13(1)(d)  r/w Prevention of Corruption Act 1988",
+        "ipc_sections": [
+          "120B",
+          "420",
+          "409",
+          "468",
+          "471",
+          "193"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Special Court Judge Mr O P Saini 2G Cases Patiala House New Delhi",
+        "fir_no": "RC DAI.A 0045 Date 21.10.2009\nInvestigation Department Police Station CBICG Complex New Delhi",
+        "case_no": "CC 1/2011",
+        "other_acts": "Sec. 7 or 11,12,13(2) 13(1)(d)  r/w Prevention of Corruption Act 1988",
+        "charges_framed": "Yes",
+        "date_charges_framed": "22 Oct 2011",
+        "appeal_filed": "Yes",
+        "appeal_status": "Candidate acquitted on 21.12. 2017 Manbumi filed leave to appeal in Delhi High Court against Special Courts judgment dated 21.12.2017 Investigation continued LB No. 18552018 Honble Delhi High Court vide its order dated 22 3 2024 allowed this writ petition.",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=566",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.356113Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:36:25.258245Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 604056590.0,
-    "liabilities": 6060187.0,
-    "net_worth": 597996403.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=566",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.356129Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 87.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.19,
-    "expended": 3.36,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:18.882360Z",
-        "notes": "Official eSAKSHI REST API — Works: 41 recommended, 20 sanctioned, 2 completed"
+        "fetched_at": "2026-09-02T15:06:02.883931Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:02:13.186293Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:02:13.183807Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 41,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 22.857142857142858
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -100,7 +148,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:34:16.928448Z",
+        "fetched_at": "2026-09-02T15:02:13.182841Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +156,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "DMK withstood Vijay wave in south TN, Kanimozhi tops strike-rate chart in Assembly polls - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSWhiMlFKdDU4TXZqWmFWVDNiUVA3dFJTcWFCb21yb2QtdnFCQTFVakhBbVpjMXpReHZEZU1scS1qeGQxTllxQWFxRW1OaEZwTUJxX2FwdWgyYzVxYU85dTFRcTNRQzh4UWNEd2xwUHl5aVl2OVI3cmNUUFdpbUVKVjRlNWdrNTBHdGJrLXd6R3hnYmVEbDk4bG12SGN4UURESDRfaEVjc1dYb3pLWmE3cVEyRElxcGs0SkR1WEtfV3ptUnJkWmx4eU5CM0g3YVVRNm90MXZmTkE1WUlRbk5RQ2tQZzJOMVhGeGpYYW1tYk5LTGhv0gGCAkFVX3lxTE83c1YwMURNVlN4WUZCcElsTTV6X1VDZE9TQmkwQkotVnlIY2hBLVc3SFR5SGV2M21IODZZYS1ITVBNQVRIUENhS2k1dW1Za3lna0tKZ2hidEZzWFZSTFJEWmJOcTdHSy1aTEE2Zy1IcnF1azNFRWEzWkctcnl4RW1TWkp1dy1GRTl4dnBCTGVCcnJTeVZUSU5pX1JVYVIyY1BOenVKMjFwSzY5eHhUNjd5Y1NHLXVkd0k0UHQ4SjgwWFdqbEJxamZGbnFSbUdYVHFtb0xhRm44V3VaQWpNNjlYM3A5TE1OS2pMUDEydXZwakVacFJSSmZrQ1NLc0hwdDFtdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kanimozhi lays foundation stone for ₹198 crore road project in Thoothukudi - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFRJbXQ2dTd6TTh1X0g4RG9HRWlPdjlKVUd2NEwzOEtZLXZjSlAzak53VHFNWDB2QnJuSWFTTWo1LVVidUVkZ2xURU9pYmt6NlJPMXpiQW9zb1U5MGNEREpJeEdnQTJvTk8wZnRsVTB4YVlsYm52OW44X0E1ZmhkblBBUjZEOGJFelBuY2RTTFNGZl9JNmNQYjcyZ2F6cEhXUFRHYzVES0xnbm9ONGVyaTQwUE4yalAzdmVuTEl2aWI0aEJ6WmR1SUc1Sk5RRlFRa21aUNIB2wFBVV95cUxNNHppTkpHNGl0UnBGT243OGNBTlhURzJuaXV2RzcwVGppdEF2d3duQnhwNXd4eDhhaFhDZTJKOEdhcmhMcFVpUXd4VEk2SEx5dlNZLUU4S0hSdDk2Q0Nvb3lFdzF2cjAxbm1KenhEUVJBeG9GTDFEMEhxQkE0Z1BuQjkwSENDeGpfeEdMUHpOWXlhYmVYdl9qZldfMXhjNjJxanBlTG1uSUJrV0M0cW54SWc0SXdqLXp5aVFfeW1UNU5UUExNNDlxNjBFMklZTGl4LTRETXdSWlI1U00?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Thoothukudi MP Kanimozhi slams Centre's new Labour Codes - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTV0MHBodkJqV0drekZ6akhKZmE3Y0tzNHhhNVI3LXI1UFQ3QVhHcjNtZ3ByWWx2VnBWelMyNzU2SU9UeGZKR3pSTGF2RGw2Rm9Jb1Vhek84ZGxicllVbFZiWVkyVk84Y2lmXzRxZGJDYzVpN2ZyZXptX24wd3lQOFdFN1NWQWh5NDNoTGNzM3RMc3NJdmdVR0hHQXlYM1BBc1Rfbi04ckNYbWl4MmZaVnZSam9PMlJpbVdZ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Supreme Court upholds election of Kanimozhi Karunanidhi as Thoothukudi MP - The News Minute",
+      "source": "The News Minute",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUt2ZzR5Ni1vQUlwRTA2VjNTbGVMMkpMMlVYQmFSSzN4cllrUUY5eVdaSXI2LWd1X3JzYmFpMXNhUmtTdE5DWE53ZXJyTmxVOUdmYUtJWmNMRzU0TEJ5aS1rVzA0ZFhaSEpYTHppMURrb0lHdEpZbmwzSXVXVW0yRVptMmo3VEZEQm9veVlJS0s2VjNQQmhPdTJGeEFzcHpGcU5XNTRmaWR5VjJIRzNQakFHLU5Vd9IBwwFBVV95cUxPWWJjY3JDMjhFU3pITTVsOE1ZaVZRVnVCMTVFYkQ1Y3lpM1FsWHdkbXNkMWg0S3V1S0dlM21kRzlvRkc0S1hqRmVjMklfQzdiV2Y3RG5kYmNsRHl1Q0s1Z0xMWFFwYUJmSXBleDNQTmJrRUlGWDZ6d1M3elNHNGVRLXo4RTZrWDdOV0QwNUlVUlh5bDhGdHBVMDlwc1IzeV9ueVM3ZTBNVDJQdERMbUNJOFJ3QUNGdjNMbmh1OTUzbXdwOFU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "DMK's Kanimozhi Karunanidhi wins Tamil Nadu's Thoothukudi by humongous margin | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVVc0UXRzZzJMcUpPa3YweEVfd2Q2Qlp3ZDUxLWZ3dzFXYkY1NDh3d1Z6c0F2ZDBFU3JBVWdZTms0MVhQa2pmUzJUZ1FlOEZJQ21yZU1jNXhXd0RISVp3aXNPMkVHWmtiZ3lhLXFvSUNrS2VtbDVpYXhGcGR5dzVhWXZfWEh2QnBqV25pTDdDSm5zRU5ySDN2Z0xFbDVBb2FIZHJnbXdhdmVDWmtkcU9ZM1RNTkViZDZOZUZMRWFPZk1nTlVfYUREd0Z0bGdJV1M3S1pCZFp1UWQ2bE1uOWFDaFoySXVoVVRqaUM2NDR30gHzAUFVX3lxTE5MeHZvNEZ6TXpyellaN0NkVFhkWktJUG45RjhJNTNvRGhCUGJTZ1NzejRVZGxubFBNWmVYTVJKM0UtVGQwRzIwSFFUaHdVSkpDa2JlcFM1X1dQM1Z5TTVCQk5MTmRLUkNOUndxbnpnRHpTc1Flb3FZaEo5VVdLM1ZiWnRPOWJZRXMtbHVwek54VllTa1lPdzdiXzR0T29MWlpvVFdQclZPamtfNUFtdkVwTmJmWGg2UXJ6RVhpRFBKcTJOR1duaGFBbWJLcE5jS0lucDV3OF9aekJycXNLMlhfdWVvV0F2SHdTdmVoTFB2YTR0aw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:35:19.858129Z",
+  "collected_at": "2026-09-02T15:06:02.884884Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +225,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.425575Z",
+        "fetched_at": "2026-09-02T18:38:09.918459Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +241,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.425584Z",
+        "fetched_at": "2026-09-02T18:38:09.918511Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +257,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.425589Z",
+        "fetched_at": "2026-09-02T18:38:09.918519Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +273,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.425593Z",
+        "fetched_at": "2026-09-02T18:38:09.918525Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +289,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.425598Z",
+        "fetched_at": "2026-09-02T18:38:09.918532Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +305,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.425602Z",
+        "fetched_at": "2026-09-02T18:38:09.918537Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +321,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.425606Z",
+        "fetched_at": "2026-09-02T18:38:09.918541Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,56 +346,81 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/kanimozhidmk",
+        "url": "https://x.com/https://x.com/kanimozhidmk",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/KanimozhiDMKpage/",
+        "url": "https://facebook.com/https://www.facebook.com/KanimozhiDMKpage/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:02:16.015009Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Kanimozhi Karunanidhi’s Glass Ceiling in the DMK: Ideological Clarity Meets Political Limits - Outlook India",
-        "source": "Outlook India",
+        "headline": "DMK withstood Vijay wave in south TN, Kanimozhi tops strike-rate chart in Assembly polls - newindianexpress.com",
+        "source": "newindianexpress.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ28wZ2hwcnpxcW5keFV2WjdPMllwemY2Y2kxOEdjalI4MndVbGlhM1Bzdkd1Zm9nLXBrV1F5TXZTWmk2Z2N6SHZPZk5SYTA4a0FYV0l1U1k4Yi1id3lsQ1VxVFdHWmxkUUNoaEp6Q1pTVjFOdmpoX2JkS1cxTUJDQU9SWEJWakE2LTVuWU5WRGRTYnVSdGNwekxPTG1zczk3d0JRYnRHM0R3UGdOYmI5eklpdjdDLTc0ZThUd05LclVJaHpOYlpF0gHUAUFVX3lxTE5NbGhWTE11VTFyeDhPNnRQVHJWUllZLUF0MHlaY3VTWTh1aWR5NjlFZl9WYWJ2ZWVoZ1RMSjdKUG54cGt4S2J6MHRPVUpLR3ZhQ1JGMHpCR0g1Wi14QWdPZmpwVmJDeHlybktzZnhjZWJnZFVwUEs5emJ1Z1lfVUtjMzQ5aHZjX2FjSVRfQmllY2hxV1JhM2NFSFFjU19DQ1MzOTJnRWd3WDdvZUlzUUVOMEpybFcyNjlVdnVMZU1hWDNTdFJJeTNNLUZLbDRCLVE0Q1RT?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSWhiMlFKdDU4TXZqWmFWVDNiUVA3dFJTcWFCb21yb2QtdnFCQTFVakhBbVpjMXpReHZEZU1scS1qeGQxTllxQWFxRW1OaEZwTUJxX2FwdWgyYzVxYU85dTFRcTNRQzh4UWNEd2xwUHl5aVl2OVI3cmNUUFdpbUVKVjRlNWdrNTBHdGJrLXd6R3hnYmVEbDk4bG12SGN4UURESDRfaEVjc1dYb3pLWmE3cVEyRElxcGs0SkR1WEtfV3ptUnJkWmx4eU5CM0g3YVVRNm90MXZmTkE1WUlRbk5RQ2tQZzJOMVhGeGpYYW1tYk5LTGhv0gGCAkFVX3lxTE83c1YwMURNVlN4WUZCcElsTTV6X1VDZE9TQmkwQkotVnlIY2hBLVc3SFR5SGV2M21IODZZYS1ITVBNQVRIUENhS2k1dW1Za3lna0tKZ2hidEZzWFZSTFJEWmJOcTdHSy1aTEE2Zy1IcnF1azNFRWEzWkctcnl4RW1TWkp1dy1GRTl4dnBCTGVCcnJTeVZUSU5pX1JVYVIyY1BOenVKMjFwSzY5eHhUNjd5Y1NHLXVkd0k0UHQ4SjgwWFdqbEJxamZGbnFSbUdYVHFtb0xhRm44V3VaQWpNNjlYM3A5TE1OS2pMUDEydXZwakVacFJSSmZrQ1NLc0hwdDFtdw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Kanimozhi Assures Swift Probe During Visit To Murdered Schoolgirl's Family In Thoothukudi - ETV Bharat",
-        "source": "ETV Bharat",
+        "headline": "Kanimozhi lays foundation stone for ₹198 crore road project in Thoothukudi - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0NFdjBqNDIyN2lqZXdRSGdtS1ZobDNtblVyNWNtRHFyeXJ0MDMzM2Z4Z29raWJvN1R1TXl4MnBSY2lxU1ZzNXpxNVR3d0RzNmdnbDRWSTFndFpXalRTMk14YkZuUndLZlEyV0ZvQXFLNnhjM1h6UzBzTXZjTS1RZlUyUkxkUzNwaHdGMWFyUXQ2WlAwNVhVRzMzcTJJYk9COGlOQ09iUnY5OXk0MVB3RkxxN0dKb0RrV0h3dTVaOUhMOExmLVB4bzJqQkdzNVdLRFRSd0ZR0gHbAUFVX3lxTFBkVjBnVjlRRUlwcENxNTZRby1OQjlWczRhVERlbEVEdUplRmhxWkFwRTVLRHI1dFNTcFMxM3NmV2M5bjZZQ1NHLUl4bnhvRG9nSkpxVEhZSXRWRFg2V3czenJyZmlxU21sYjhKTGE0a3BUWnAtT3JZNEY5aXVXMWpTbDVKWjZjNkZSLWVGSTdiQ09JajNiNm85NXplUTgxaXdOQ2dzSVhvSjdaRnV3R2xvV2U5NWNqX3VpdkZ3QmFhaGk0U2Ntam12bXpLdjQtNlZxa29FZEtCdjFZaw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFRJbXQ2dTd6TTh1X0g4RG9HRWlPdjlKVUd2NEwzOEtZLXZjSlAzak53VHFNWDB2QnJuSWFTTWo1LVVidUVkZ2xURU9pYmt6NlJPMXpiQW9zb1U5MGNEREpJeEdnQTJvTk8wZnRsVTB4YVlsYm52OW44X0E1ZmhkblBBUjZEOGJFelBuY2RTTFNGZl9JNmNQYjcyZ2F6cEhXUFRHYzVES0xnbm9ONGVyaTQwUE4yalAzdmVuTEl2aWI0aEJ6WmR1SUc1Sk5RRlFRa21aUNIB2wFBVV95cUxNNHppTkpHNGl0UnBGT243OGNBTlhURzJuaXV2RzcwVGppdEF2d3duQnhwNXd4eDhhaFhDZTJKOEdhcmhMcFVpUXd4VEk2SEx5dlNZLUU4S0hSdDk2Q0Nvb3lFdzF2cjAxbm1KenhEUVJBeG9GTDFEMEhxQkE0Z1BuQjkwSENDeGpfeEdMUHpOWXlhYmVYdl9qZldfMXhjNjJxanBlTG1uSUJrV0M0cW54SWc0SXdqLXp5aVFfeW1UNU5UUExNNDlxNjBFMklZTGl4LTRETXdSWlI1U00?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Support mounts for Kanimozhi’s Assembly bid as cadres submit applications for Thoothukudi seat - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYjI4a1ZhWFJUaGN0SlpfanB6ckJtbU1KUUFDM3pnQlZpc1QyMy1NNmRITnZpX0VHbS1lS2d1c05pM3FPeXptRFROSFJ5VUItMG1ocG9yTmo5bDI2UUtHalFSSTh2TlNKUmZsbUh4SE1tMFBKaGx2clBRQk5YMXBQT3JjSUlpNHp5bG9tTHVGcjljZWQ0d3NHRkVtSThoZGlDV3VRTWZpTERzZlNWMDZsMlVPMXlYZVdkX1Z6MnNlYkNuUkJPOWFRdUg0dndGMTF2V0tHLVdnbVVLTG5OQ2s1YlZaSmF0M0dMQU4tatIB-gFBVV95cUxQTkRoc2c1UVRrb3NoUXVPR1FHU3lZY2hwUWs1SUFfQmtmQm5TSDZJZ1lUalA0OW9wWkM5OWNwX3NPcVVHYVVTN0lvYmdwdXJ2UWlKTER1MU11NzFHVktLNGtpaUpTMTNYazRhcVBHNlN4MjZNZEVDMXg2QzJhcDFOVXlJNVZrazg4VTdOUkE2QWcwd2FocmVFR1ZVM1JCcHlCOUwzU05BLWoxWnN0NklsVFlNd2h4U3ZTQ1YtMV92b1p5RlAydzF6WGlfYU5zRVp5RDIzVzRqemQ3OHl0b0ZKamtLSE5FcWhpOGNPSENaQzFOa29zUXRDb3Z3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "TN polls: Kanimozhi Says DMK Coming Back In Tamil Nadu - Outlook India",
-        "source": "Outlook India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMWQta1NjaDBjcGRpdkd3TjBEOV9lTFV6REVXRlNKWUoxRWdPX19Ob0YyLUQ5UnBpSm84TXBMZTVxSHlBMEcxSHg5YkRWSTBDUmlEUy1yN2xqaU9pNnI0UV84bnpoelJKSHlDWnc1NWVuWmxtb040dFZNSWViQXlIQ1Z4V2xoWlp1bVdkVVJoQmtvcjBx0gGiAUFVX3lxTE5tZGoyS0Q2Z01ZRmx6Rk5nbk9JTGQ1d1E1NGItVFNRTkJqTEpQSmlrUFJVdWVTcWlQLTB0V0ZZTG1fdFNYVEZTVWxuU3V4NzE0ZWtBR2p0VGF5aE5DWTJ4cG9WQXFrWE1fVGxJNFRLZmNGcU5pbkZVMTBHcTZtdElXcXoyUWprUkZJMmlJbnRueEk1Q0VIcHBOQU0wMTlTYjRkUQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Thoothukudi MP Kanimozhi slams Centre's new Labour Codes - ANI News",
-        "source": "ANI News",
+        "headline": "Thoothukudi MP Kanimozhi slams Centre's new Labour Codes - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTV0MHBodkJqV0drekZ6akhKZmE3Y0tzNHhhNVI3LXI1UFQ3QVhHcjNtZ3ByWWx2VnBWelMyNzU2SU9UeGZKR3pSTGF2RGw2Rm9Jb1Vhek84ZGxicllVbFZiWVkyVk84Y2lmXzRxZGJDYzVpN2ZyZXptX24wd3lQOFdFN1NWQWh5NDNoTGNzM3RMc3NJdmdVR0hHQXlYM1BBc1Rfbi04ckNYbWl4MmZaVnZSam9PMlJpbVdZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Supreme Court upholds election of Kanimozhi Karunanidhi as Thoothukudi MP - The News Minute",
+        "source": "The News Minute",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUt2ZzR5Ni1vQUlwRTA2VjNTbGVMMkpMMlVYQmFSSzN4cllrUUY5eVdaSXI2LWd1X3JzYmFpMXNhUmtTdE5DWE53ZXJyTmxVOUdmYUtJWmNMRzU0TEJ5aS1rVzA0ZFhaSEpYTHppMURrb0lHdEpZbmwzSXVXVW0yRVptMmo3VEZEQm9veVlJS0s2VjNQQmhPdTJGeEFzcHpGcU5XNTRmaWR5VjJIRzNQakFHLU5Vd9IBwwFBVV95cUxPWWJjY3JDMjhFU3pITTVsOE1ZaVZRVnVCMTVFYkQ1Y3lpM1FsWHdkbXNkMWg0S3V1S0dlM21kRzlvRkc0S1hqRmVjMklfQzdiV2Y3RG5kYmNsRHl1Q0s1Z0xMWFFwYUJmSXBleDNQTmJrRUlGWDZ6d1M3elNHNGVRLXo4RTZrWDdOV0QwNUlVUlh5bDhGdHBVMDlwc1IzeV9ueVM3ZTBNVDJQdERMbUNJOFJ3QUNGdjNMbmh1OTUzbXdwOFU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "DMK's Kanimozhi Karunanidhi wins Tamil Nadu's Thoothukudi by humongous margin | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVVc0UXRzZzJMcUpPa3YweEVfd2Q2Qlp3ZDUxLWZ3dzFXYkY1NDh3d1Z6c0F2ZDBFU3JBVWdZTms0MVhQa2pmUzJUZ1FlOEZJQ21yZU1jNXhXd0RISVp3aXNPMkVHWmtiZ3lhLXFvSUNrS2VtbDVpYXhGcGR5dzVhWXZfWEh2QnBqV25pTDdDSm5zRU5ySDN2Z0xFbDVBb2FIZHJnbXdhdmVDWmtkcU9ZM1RNTkViZDZOZUZMRWFPZk1nTlVfYUREd0Z0bGdJV1M3S1pCZFp1UWQ2bE1uOWFDaFoySXVoVVRqaUM2NDR30gHzAUFVX3lxTE5MeHZvNEZ6TXpyellaN0NkVFhkWktJUG45RjhJNTNvRGhCUGJTZ1NzejRVZGxubFBNWmVYTVJKM0UtVGQwRzIwSFFUaHdVSkpDa2JlcFM1X1dQM1Z5TTVCQk5MTmRLUkNOUndxbnpnRHpTc1Flb3FZaEo5VVdLM1ZiWnRPOWJZRXMtbHVwek54VllTa1lPdzdiXzR0T29MWlpvVFdQclZPamtfNUFtdkVwTmJmWGg2UXJ6RVhpRFBKcTJOR1duaGFBbWJLcE5jS0lucDV3OF9aekJycXNLMlhfdWVvV0F2SHdTdmVoTFB2YTR0aw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -342,15 +454,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 36,
+    "starred_questions": 10,
+    "unstarred_questions": 26,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 69.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +470,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

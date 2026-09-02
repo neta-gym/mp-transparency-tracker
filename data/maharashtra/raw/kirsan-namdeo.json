@@ -4,16 +4,16 @@
     "constituency": "Gadchiroli-Chimur",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 317,
+    "myneta_candidate_id": null,
     "slug": "kirsan-namdeo",
     "house": "lok_sabha",
     "sansad_member_id": 5727,
     "profile_url": null,
     "canonical_name": "Kirsan Namdeo",
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 65,
+    "age": null,
     "photo_url": "/mp-photos/5727.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:16.175064Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 59476042.0,
-    "liabilities": 2828488.0,
-    "net_worth": 56647554.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=317",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.815785Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 43.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.3,
-    "expended": 1.41,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:30:07.946192Z",
-        "notes": "Official eSAKSHI REST API — Works: 120 recommended, 56 sanctioned, 6 completed"
+        "fetched_at": "2026-09-02T15:13:23.665806Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:09:40.046021Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:09:40.043043Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 120,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 9.591836734693878
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:32:17.708134Z",
+        "fetched_at": "2026-09-02T15:09:40.041884Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "On Naxal turf, Congressman with PhD in Gandhian thoughts takes on Gadchiroli-Chimur BJP MP - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWNSWVRqUHRFZTdZTHQySUFLeGFvdWVCVktudm93bDRWWEk2a01kV3RnRnREdDdPd2EwT3lGeDZDZ0V3UmVMWjYtOFNFS3FzODNxcnluLXlRendUWVVEcmNUYm5SNnNFZ2w2Y1MydGstZ3lkNm1YQUNZNFdfVVlFWXd4SnM1WkZnb01FRXNLME5mUGZ3WUlzODJjRmtoaGxqUUJOYlp5dGhOcGZpbVoyMGFYQkU0QmtxSzk0Qk5sWHpvMFdXZTBR0gHOAUFVX3lxTE1BLWpOV0lJNXg1X3F6U2lONlJVb0pjV1hBZElpdmRGNXB0em5UTGF0WTZCNENUYmJLbmdPNmFvcm5nSEZOa04tbzVZWFUwQnpnR3NSeWN0Z1JQZDJNYWl1TzJualVZYjFDUC16eHlVejhYZ0F5bnFLNDExVzVGT2hxR29LZUhSYnN6TmFPeHdpaF9WaTM2TFhMeV9uckVadjFfLTRXZWZ5b0thZ1FOVm9wZzdyc3A0VnItY3ZEYnVER1BHM2NoX3I4ZWdYNkRB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gadchiroli-Chimur (ST) Maharashtra Indian National Congress - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNkh5WUVZLW56ZHUxN3c3aUpUbDM3VjBzblU3bXRzeTBNYlRiVXF6V0lic002eFJNQXExUXhQbW5rQXRIWXRsdm1hWGhtYjBSdHlMRExKZk9URUFoOUNvTkZMTTYwVlFTdGpwQlNYQzVPbnNBVnhPSHlKRXE0ajZhcmdMUFF2b3hiRkxfQU5abVhrYVVmYkw2em80bVVWUkJST25wU2JkVW1ndGRFTS0xc3ZWS1FwNktwYk9iR3lDdHhiTHozdldV?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gadchiroli-Chimur (ST) Lok Sabha Election Results 2024 - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmFwWFZXWi05dENQRzBGVHFaSG56MVV4WGZhM2VRQkpxMlJha2FkQVdoVVpTRFB4MGZ2ZFNTWnZzVEJBY01yLU5JMVg1UUlneFd3ZU1RSDFzY3ljd0pkak1ab2Z4WFExbWcxQ1U2Z1BfYTN4a0N2b1Y2d3VXYmlxSVNGSmRxSFVUS2RlazB4RF9GVGR4NU1BcTM5bVdaeFJhSzBwSXpuWQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Maha’s most qualified MP to focus on health & education - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1U0Q2FSWEpYeS1zZnZ2MDA4dDVQT1hKOVAwdzkzWEpRNDNHcm00d3ZEeHZWSGt2TTdUaFZFQXVNazI3VzdNNDBWN0ZyMnZfUjIzTU9Qbmt3T2lOdFE2Y1FoSEpQUmhvMVUwOHdMc2tZSXVnYUdtUFpXeEcxTm9FQ3BBMFFJSTE0M1N6d0d6OUpiQk4wZ0RwUlVtSGFiYnk5Y0tMaXV6OXJiMk1vVHVWOU1WZ1VpclF2UDczb01MLU5KZGZp0gHKAUFVX3lxTE1xVUxtSWo3dnY5YmFfLTd2cGlwZG43R296VlVLTHlZOXgtTXktaUVUNmFsYTRnVEd4SGZ4T0xESlZkWmRRaHNzdjY2VVNpdVNhYXVqQW5HT2h5THIzSFF6bTB3ZUY1UDR1b0gtWG44cWwxZ2FZdXhoWk9tYVdIaUlENTZoTDFIUUlhaE5CSXJiaG5mUkdrbmxJN1JDMlJFaHhFVVIzS1BjUTlKOXZDX25qNXNyOEc5R2xNOGFtOFZiZ2pIOTF4YjhmX2c?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Can banks see the valuables you store in lockers? FM says... - Rediff",
+      "source": "Rediff",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWdCT2xqR3l0TWlOSTUzcklqZWhIYWZ5R1hkblE3S0hJTW5YTFlkRzdyeXVVYkdLS3RpWTc2ZFJXaW9qWFdwLWowa0VoMWZ1Y1BHYTJ2VnRfT2lRa1FQcXFBZV9KLUJ5TDdPeHFuZjFYdUtJWEpNTWRWMXRjakFwYkJNeTZISVRSYzg3NWs0VWdvc3VfbTg3Z3Exdmc2bkppTG5CMVlPNFprN0RCUWh1ZVJNSlVQRGlZRk1HUm45d3ZudUw5d0s3Nkp6X1FLZkg2SHc2T3VTZWdTbUU?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:33:11.798762Z",
+  "collected_at": "2026-09-02T15:13:23.667026Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.453257Z",
+        "fetched_at": "2026-09-02T18:38:08.026544Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.453266Z",
+        "fetched_at": "2026-09-02T18:38:08.026556Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.453271Z",
+        "fetched_at": "2026-09-02T18:38:08.026562Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.453277Z",
+        "fetched_at": "2026-09-02T18:38:08.026567Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.453283Z",
+        "fetched_at": "2026-09-02T18:38:08.026574Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.453287Z",
+        "fetched_at": "2026-09-02T18:38:08.026580Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.453293Z",
+        "fetched_at": "2026-09-02T18:38:08.026584Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -258,19 +311,11 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 8,
     "top_headlines": [
-      {
-        "headline": "Banks cannot inspect locker contents, says Finance Minister in Lok Sabha - Mid-day",
-        "source": "Mid-day",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMktlcjhtRm11OWFZTlJwV29YNnpNNDJqVkJ4R3VuaHM4aEE0TTdRYjNMNzV1c2hvdEVmS0NJM09DZmNMVVVGeTNPQi1lbi1jLXBqZ0pIU1I5Tkw2SGhxMmhWQmdFam15c0poaVFqeWpuUGNOanFzZzhabjV0WVVzTHpfd182eFNqd3BDWlgzSkRyckdYdUFjYmVkZUZseDZxVUZwS1NwaEhwRHh0VUhvVWdZTjZXODhMQlp6Y3FlNWFwVWx0UFNVTnZIMmc0aUszTjJ6Rk1ic3NCYkY1TnRBRDV4ZEFzdlBtdE0tSG14Uy1qajc5TG52SEp30gH_AUFVX3lxTFBrUi1ycllLSjVZOFU3SHFFWFhITW44Nmx5aTZIUE81ME84OUpUV2t0UERqTWFrNmo3UmxfSHhqakRCaUdmQW1mM2tLS1lnRU9hSnd5WU1LSXpQekU1VkxWSXhFWmUyQkY1QXZwbmIwZ3ZweVVobXNyNFBrbEtjNGZkVEFrRUNsbm45NmVDa3dHRU9vbXpyY2JFcDliN2Vrbi12WXRUcWRWT3AyV0VLYkRCWnJXWVROLXRnWFZ1Z05iNW1uS3MxZkFGR2VJc2dnM3FHWnBXTWoyQ2ZGaW9QX2dRWEJRcG1RMXhrcnk0SktYTE1rSXM1RExIeGxhNWxzMA?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "On Naxal turf, Congressman with PhD in Gandhian thoughts takes on Gadchiroli-Chimur BJP MP - The Indian Express",
         "source": "The Indian Express",
@@ -280,11 +325,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Maha’s most qualified MP to focus on health & education - The Times of India",
+        "headline": "Gadchiroli-Chimur (ST) Maharashtra Indian National Congress - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1U0Q2FSWEpYeS1zZnZ2MDA4dDVQT1hKOVAwdzkzWEpRNDNHcm00d3ZEeHZWSGt2TTdUaFZFQXVNazI3VzdNNDBWN0ZyMnZfUjIzTU9Qbmt3T2lOdFE2Y1FoSEpQUmhvMVUwOHdMc2tZSXVnYUdtUFpXeEcxTm9FQ3BBMFFJSTE0M1N6d0d6OUpiQk4wZ0RwUlVtSGFiYnk5Y0tMaXV6OXJiMk1vVHVWOU1WZ1VpclF2UDczb01MLU5KZGZp0gHKAUFVX3lxTE1xVUxtSWo3dnY5YmFfLTd2cGlwZG43R296VlVLTHlZOXgtTXktaUVUNmFsYTRnVEd4SGZ4T0xESlZkWmRRaHNzdjY2VVNpdVNhYXVqQW5HT2h5THIzSFF6bTB3ZUY1UDR1b0gtWG44cWwxZ2FZdXhoWk9tYVdIaUlENTZoTDFIUUlhaE5CSXJiaG5mUkdrbmxJN1JDMlJFaHhFVVIzS1BjUTlKOXZDX25qNXNyOEc5R2xNOGFtOFZiZ2pIOTF4YjhmX2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNkh5WUVZLW56ZHUxN3c3aUpUbDM3VjBzblU3bXRzeTBNYlRiVXF6V0lic002eFJNQXExUXhQbW5rQXRIWXRsdm1hWGhtYjBSdHlMRExKZk9URUFoOUNvTkZMTTYwVlFTdGpwQlNYQzVPbnNBVnhPSHlKRXE0ajZhcmdMUFF2b3hiRkxfQU5abVhrYVVmYkw2em80bVVWUkJST25wU2JkVW1ndGRFTS0xc3ZWS1FwNktwYk9iR3lDdHhiTHozdldV?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -296,15 +341,23 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Gadchiroli-Chimur Election Result 2024 LIVE Updates Highlights: Dr Kirsan Namdeo of INC Wins - News18",
-        "source": "News18",
+        "headline": "Maha’s most qualified MP to focus on health & education - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSzVoYk5RV28xNW0wTTJtMVRZd1BJTFZBbzVUc0ktMlJUTzBTRWZUc0tkQnlUbEs0Sk8tZWgwRmFBTUFZRGx0UjBuTHFZU0VDZ1ViQ2ZuOEI5dWEzVU5WZm92ZzZqSGw2YWRNdXI4Vm5oYm9KQlA5ZGd6a2ZMRVlPQmZVV25DMGJFWUpOVzFjbkxsVWdvUno1N0o4SmlJcmk3Sm9UQzJGWmNKRV9velpoLUJzS0NVSVdJSnczRjFpZnpWcEZxeVowWkJqTGNWVl85RDAxTzVZVTh6c0dQYVpzeTFDWGQ0QjN3aTQ0dFYyRdIB9AFBVV95cUxNb3hzV1hzWkN2LWF6a2pMTFM2QUdCa0tCeHdvcDhKU3BwQ3I1eEFhNkVEWXJNMVhKbWVJR2FEbVp0R1FKUzhnbEZqNlhGanc0TWozbjlWN3hIOGFSczV1NWxFeGp3ZDBlYS1GdVVkX1RhSldrb2lnV1pZWEUtYjQtUlFwMWVuVXVnWV85cDQtOGh5WlJxdDdiMHVuRGpqbWZXTzYxWmR4RDVsOXM5ak05WHlIVlFTdy1Ldks1enF1dERwOVByQThycWtIc1ZEQnhIZ3otRi1WOEkwMzE0b2xyZk8tSGdtOHVNbTZERzViWE5OR0Nr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1U0Q2FSWEpYeS1zZnZ2MDA4dDVQT1hKOVAwdzkzWEpRNDNHcm00d3ZEeHZWSGt2TTdUaFZFQXVNazI3VzdNNDBWN0ZyMnZfUjIzTU9Qbmt3T2lOdFE2Y1FoSEpQUmhvMVUwOHdMc2tZSXVnYUdtUFpXeEcxTm9FQ3BBMFFJSTE0M1N6d0d6OUpiQk4wZ0RwUlVtSGFiYnk5Y0tMaXV6OXJiMk1vVHVWOU1WZ1VpclF2UDczb01MLU5KZGZp0gHKAUFVX3lxTE1xVUxtSWo3dnY5YmFfLTd2cGlwZG43R296VlVLTHlZOXgtTXktaUVUNmFsYTRnVEd4SGZ4T0xESlZkWmRRaHNzdjY2VVNpdVNhYXVqQW5HT2h5THIzSFF6bTB3ZUY1UDR1b0gtWG44cWwxZ2FZdXhoWk9tYVdIaUlENTZoTDFIUUlhaE5CSXJiaG5mUkdrbmxJN1JDMlJFaHhFVVIzS1BjUTlKOXZDX25qNXNyOEc5R2xNOGFtOFZiZ2pIOTF4YjhmX2c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Can banks see the valuables you store in lockers? FM says... - Rediff",
+        "source": "Rediff",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWdCT2xqR3l0TWlOSTUzcklqZWhIYWZ5R1hkblE3S0hJTW5YTFlkRzdyeXVVYkdLS3RpWTc2ZFJXaW9qWFdwLWowa0VoMWZ1Y1BHYTJ2VnRfT2lRa1FQcXFBZV9KLUJ5TDdPeHFuZjFYdUtJWEpNTWRWMXRjakFwYkJNeTZISVRSYzg3NWs0VWdvc3VfbTg3Z3Exdmc2bkppTG5CMVlPNFprN0RCUWh1ZVJNSlVQRGlZRk1HUm45d3ZudUw5d0s3Nkp6X1FLZkg2SHc2T3VTZWdTbUU?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 45,
+    "starred_questions": 13,
+    "unstarred_questions": 32,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 87.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 10808400.0,
-    "liabilities": 575000.0,
-    "net_worth": 10233400.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 9.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.09,
-    "released": 15.09,
-    "sanctioned": 9.99,
-    "expended": 8.22,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:42:38.317582Z",
-        "notes": "Official eSAKSHI REST API — Works: 432 recommended, 426 sanctioned, 225 completed"
+        "fetched_at": "2026-09-02T14:40:52.242886Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:37:08.613544Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:37:08.610688Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 432,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 54.473161033797226
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 35.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:23:12.667546Z",
+        "fetched_at": "2026-09-02T14:37:08.609531Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP Sarabjit Singh Khalsa admitted in Jalandhar hospital after suddenly falling ill - Babushahi.com",
+      "source": "Babushahi.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX3UySG9JUmdCM0l4TnVfVW1pb2Y0cU1TVkpzV0RIOTR0dlJWclZINFpoUjlNQ2JvV01Xb3FRS0lHT2lxSWJ4eFlMVmZqektjLTlrVnpaNjZkSE13X21CYlpvTHpJU2lFRDlxdjVtM0NQUUlsaW91TzVPSHh2U1c0NGdxb2pPU2pIZ2xnNXhhd0doeHBlUmNxcWhBUk1lcFZwaWhVbG90eXdReTg5djhpbU1nSkJxWDJHWFpwWWgxSjF3NXI0WWxRZnB2UTlWTzlKZU1EQzY3ckc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Amritpal Singh’s party names Satwant Singh as first candidate for 2027 Punjab polls - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNmpSWGpuaXdOdEhaZG9VRzBTTVNTLThaQmh1dzF3bjNBemR3QmVXOEpQS3VjeXBSTERScWY5UTBZTHVhTkRYcTg0WDhlWmhYbFlUVHJvdHJRcVdORm9haWlEOVdMNFprcGZuTENkLWVjRktxLVZVN19MNG1MdC1BNkJUZlVRWEU0VDhCUGxtNmtKVkx1ZU10UU9MQmJrRkhmcXZXdFU0YW90WTJKVGNIdHRkOTVlTWpIaTNsT21LY0dzYjA2VnF3b0hpN3ZrZ9IB2wFBVV95cUxNUVFoS19BaFNhcnFvR3pmZE52eHdpbHdBS3dnZFdWY3doeFNaLWM0WWhpMjU0YjBiZU5pUFZJWjYzNUxkNGZmRmw3THNfQjRyTGFqM2RiR252RU1UZHVfY1R2clJUdnNDRHJYUmprdXR1dVpINEF6Y01ETl85b3hmWC0zUFdjOXA4RWE5V1kxb25wSDNIT210SHF3UmI1OTZsYmZrTV9qcHRQSzYtSTRWLXRvT1NTN19GS18ydUh6Z2VMRUYyUXFJV2hRekNVSTh3ZjBtaXlmeTFtQ1U?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Faridkot MP Sarabjeet Khalsa announces Rs 1 crore grant for Jaswant Khalra memorial - The Tribune",
+      "source": "The Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSkNNQmhxaW9Dd2NnRHJkQThOR1BPakxVM1dBNngxZWZSRnRVNTRIZVJCUTgxWW1zLWtSUk94dHN2VXN6TkJVUThsb21HOWNWaW1uaGtoNkpnREhiZ3l6WXFWZDBEYmZpcWxndVpDN3h3RHNoeU5kMjFWMlVuR21TaG9KYlFJaFJMUzZLTXk5bFVfQzdwVV9mMEhUTGVocWhqZEtZck10UmFVMDlJMnVEbjIxdE1QaHdzWE1BMnFVNWVma2hjN0HSAcoBQVVfeXFMTl8wQy1XdTFfSnBWVFQ4SVR2eEpkWnhSVVNIblBnSTVDVXllUno5UnJhTHRGN194R2ZPNHVWVmFYYThUU2RDT0pnRWlXNk5mZDBZdzYwbmVnWlhDNFZLOGdnOHg1dTVJLTZHWXlmSHlNZHdCZjhQU0pxSEhMWHowNkR1bzFqT0p4NXJuN2RkdktES0h0YjdNT3VEVVp3RTZNS2tneGVtUGQ4RWU1M2Ezc3I5YTUzTVlMUzR5d0FpZ0lVVm9wc09md04xUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Manpreet Ayali shares stage with Faridkot MP Sarabjeet Khalsa at Waris Punjab De event - Babushahi.com",
+      "source": "Babushahi.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTDhDM19mcVJ1OHdJNG5ZZnJnUGIzcFIwZFZfejdSempwLWh6ZU1EU0wxdDU3SFYyNTBQSENqODRhZnpNMUR3cUF6U051NDB4M2EzcklMTmM4aWJhcWI1OXZkUl9RU2JEQmxzal9xZTVSeHJiMXBSLTZjX2lyYmhLWWhhM01mTG5zd3dTTUFQaDZpa0Zxam51Q01QMnlMQzFlNUJaOEctb28tOEFzMDI0VHVhQXp0TElpdXVsMGNlZFhxSnlZZEtLaWJiVmE1QlI4ZkgzNTJfMGcyZGtYVVZHenN4bm9IeWQwdXBIVXV3aw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Demand for release of Amritpal gains momentum - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSzc5bnJwNTQtRG8wQXJnWkp4QmNBSVVOZEhxZVRIaEQ1S2cySmNBejhGVXIyVHJXaldzVElPRFc1OHlNOUFoTWt6eWM1NUNpN0hSUDNtYXVHemFxc1dOQURoVFJIOHRKR0ZSQVkxYnNlcVVQUEJRNEFGRzExMWNHNEFzeDJ3R09SeXdaYVpMckd6LVcwdTFOSEVta29NT1pNQnVqazRlUHRtbVczWUxXb0F0am9EWFNYVV9ZdVZwUUvSAcYBQVVfeXFMUFlkUURGUjN6bW9JeEZVeTNRVkZTSXUzNFpIQWtwb2hjWVhWMGtFem5tMVo3YlplOWFFQjdaSy1PQTYzU1FZU3pyYTk0YTNqUjRiZWU0WW43WDNyQk9kdmFkOWFJQ19SN3JnZEdNQWtHckJCY0N4dkNwSGdkb3p5MnRsWmg2OU1RUlZTSHNONmN3MU1VSVNyczN6N3NGb0NBd2k3QnNyOTNGc1N3ZnZUWnVhQVZCSEVVUEpwaGp0U3I2ZTNGSmV3?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:24:12.330676Z",
+  "collected_at": "2026-09-02T14:40:52.243879Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.704400Z",
+        "fetched_at": "2026-09-02T18:38:09.213559Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.704411Z",
+        "fetched_at": "2026-09-02T18:38:09.213573Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.704422Z",
+        "fetched_at": "2026-09-02T18:38:09.213579Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.704428Z",
+        "fetched_at": "2026-09-02T18:38:09.213585Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.704434Z",
+        "fetched_at": "2026-09-02T18:38:09.213592Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.704438Z",
+        "fetched_at": "2026-09-02T18:38:09.213597Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.704443Z",
+        "fetched_at": "2026-09-02T18:38:09.213603Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -253,6 +309,30 @@
     "neutral": 10,
     "top_headlines": [
       {
+        "headline": "MP Sarabjit Singh Khalsa admitted in Jalandhar hospital after suddenly falling ill - Babushahi.com",
+        "source": "Babushahi.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX3UySG9JUmdCM0l4TnVfVW1pb2Y0cU1TVkpzV0RIOTR0dlJWclZINFpoUjlNQ2JvV01Xb3FRS0lHT2lxSWJ4eFlMVmZqektjLTlrVnpaNjZkSE13X21CYlpvTHpJU2lFRDlxdjVtM0NQUUlsaW91TzVPSHh2U1c0NGdxb2pPU2pIZ2xnNXhhd0doeHBlUmNxcWhBUk1lcFZwaWhVbG90eXdReTg5djhpbU1nSkJxWDJHWFpwWWgxSjF3NXI0WWxRZnB2UTlWTzlKZU1EQzY3ckc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Amritpal Singh’s party names Satwant Singh as first candidate for 2027 Punjab polls - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNmpSWGpuaXdOdEhaZG9VRzBTTVNTLThaQmh1dzF3bjNBemR3QmVXOEpQS3VjeXBSTERScWY5UTBZTHVhTkRYcTg0WDhlWmhYbFlUVHJvdHJRcVdORm9haWlEOVdMNFprcGZuTENkLWVjRktxLVZVN19MNG1MdC1BNkJUZlVRWEU0VDhCUGxtNmtKVkx1ZU10UU9MQmJrRkhmcXZXdFU0YW90WTJKVGNIdHRkOTVlTWpIaTNsT21LY0dzYjA2VnF3b0hpN3ZrZ9IB2wFBVV95cUxNUVFoS19BaFNhcnFvR3pmZE52eHdpbHdBS3dnZFdWY3doeFNaLWM0WWhpMjU0YjBiZU5pUFZJWjYzNUxkNGZmRmw3THNfQjRyTGFqM2RiR252RU1UZHVfY1R2clJUdnNDRHJYUmprdXR1dVpINEF6Y01ETl85b3hmWC0zUFdjOXA4RWE5V1kxb25wSDNIT210SHF3UmI1OTZsYmZrTV9qcHRQSzYtSTRWLXRvT1NTN19GS18ydUh6Z2VMRUYyUXFJV2hRekNVSTh3ZjBtaXlmeTFtQ1U?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Faridkot MP Sarabjeet Khalsa announces Rs 1 crore grant for Jaswant Khalra memorial - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSkNNQmhxaW9Dd2NnRHJkQThOR1BPakxVM1dBNngxZWZSRnRVNTRIZVJCUTgxWW1zLWtSUk94dHN2VXN6TkJVUThsb21HOWNWaW1uaGtoNkpnREhiZ3l6WXFWZDBEYmZpcWxndVpDN3h3RHNoeU5kMjFWMlVuR21TaG9KYlFJaFJMUzZLTXk5bFVfQzdwVV9mMEhUTGVocWhqZEtZck10UmFVMDlJMnVEbjIxdE1QaHdzWE1BMnFVNWVma2hjN0HSAcoBQVVfeXFMTl8wQy1XdTFfSnBWVFQ4SVR2eEpkWnhSVVNIblBnSTVDVXllUno5UnJhTHRGN194R2ZPNHVWVmFYYThUU2RDT0pnRWlXNk5mZDBZdzYwbmVnWlhDNFZLOGdnOHg1dTVJLTZHWXlmSHlNZHdCZjhQU0pxSEhMWHowNkR1bzFqT0p4NXJuN2RkdktES0h0YjdNT3VEVVp3RTZNS2tneGVtUGQ4RWU1M2Ezc3I5YTUzTVlMUzR5d0FpZ0lVVm9wc09md04xUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Manpreet Ayali shares stage with Faridkot MP Sarabjeet Khalsa at Waris Punjab De event - Babushahi.com",
         "source": "Babushahi.com",
         "severity": "low",
@@ -261,35 +341,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "After Amritpal’s 1%, Sarabjeet Singh Khalsa logs lowest 37% LS attendance among Punjab MPs; Amar tops at 98% - The Tribune",
-        "source": "The Tribune",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS29iSXg1ekdRTEktUlhDNWlHOW05TUFyVTdTYmc1eDIza1pYdUpCc2V2MllXcy1DQ0FoSU1zeEZ4bEJzMUlrbW5JUFhKZXVBbXNrUDFpTmhZQWJzWEhIOWUtb0xDaTBRdWktQWZJV242ODRzLVQzVXZ1NTBqUjlFMlFVNTVVYS12Vk1FdHNTMWhSNjN0X29FTVcwd1o2VFNoUXZxbFNVdzJtdWRQdnJlNFhhc050azFEREpJZ0REbHN0UFZfLUE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Sarabjeet Singh Khalsa - The Times of India",
+        "headline": "Demand for release of Amritpal gains momentum - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFNicXV5ZEJwbWhQOC1lN0w4QnlOczNqYUlaZEF3YjNJUUtwM3hXeE0zTnlXa0x4NERqcS1BbXp4dkJxbld2MjVQS0RTdEtRTjFKLXkwblZtYnFrc3VzNlNHdlJNUTI1enR5Y2ZuT0pMSDQxTUJ1dndySTN1SFVqdjhGTm1oaUxJQ2tqNFlNcjNWM09abXBreUZ6emdFazdRZ1pHWjJ0SUQtYkhDbjVKdjB0ODdIczZkSzVoUWN3Ri0?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "System needs overhaul, every MP should get ample time to speak, says Sarabjeet Singh Khalsa | Hindustan Times - Hindustan Times",
-        "source": "Hindustan Times",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMnROS1NMQUpCYjJ2NklxdTQ3LUJwR2JDdmlCdkVjNS1zak9XeE10Ylp3bTlBLWptekd3Vk5LZ05UMU1LZHJsVEwyaTB2bFBiaDFBZU9lTDVUWkk4T25OUjVmdVk1eEV0MjNsM1BiMFEzQTd1cjJ1TzdjeUVVRHRQVXNWSERxTmk0Z1ZSQ2RKX0EwcVZtaVRMaGcwNGpTSFdhX0lMODhGOEJpQndBRUR4SFNNNlRlcFFiYTEtVS1Gb1B4bHdTWExiTjNpaXBLRkMwa0RwQ3hxRTVDMGlJZ0hNenFIbTVHNDU4SnVmN2JkRF9Ib3ZsQW1V0gH8AUFVX3lxTE4xN3RmT0FpSy1TQ0kzemx5RUVYYjVaeVdwS0ZQN3NiS3JFd0tvUlhiRm9IaU1NSEZ6TEpiSXY2QTRsRnZoUmZNQUYtY2RNRG1BV2RIamhZcjhfS184eUtLUHhDYXpJWGZHUGd4bmpXMHNGQ010WWs4S1JyRGdST0w3TnRNRWMxZGxmYmlKanJUSGtkOHNlMVc2VzkwSFptTHpOdVZqaHBrc0JqNl96Yi02YTBYV09rcWE1cV8wWG5wV1hTT0Q0NmU2U2VGM0xqR3JSMHotZFFlNDVDUWpPUUZCcVlDWXExVGlvTS1KSGhmZGNKTFpSVkI0WmNMSw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "In Punjab’s Faridkot, Indira Gandhi’s assassin’s son leads by massive margin - The Indian Express",
-        "source": "The Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3YyTFhVNkNMTDM4ZGhfMTNFMkgxOEs3ZmMtRng0Yk1fUHlwRW1uZnpfaFdhUjdJb1JYSkNBVmFBYkswVDhhZ3R0bTF3RnRmZlpqYUtPZ3lHdGl6Z2FLWkR2TmFscjlHZDdvTWF6R0g4ZTJkWHpLQVpKeFpueVRlQm1WMk9iekd3SzlQZ1U4eFlNSjJkYnJsd3JZdDdSdU8xTE10WHIwTGI2TU4wYUlyaERJTURSYnA5MmpFTtIBwwFBVV95cUxPT3BpUnA5NlcwZmN1WlVEcUtOVnl4Z0hmZkR0OWx6VVZjZlp6QjRMU25tMi1Qc0Z3UXlVc3Zhc3VSNVJTWVlyaTBmek9HLTJld2hpb1loS2pydncwcnZySGJQMnprUzB1VUdCRzNrYlBEZnR0Rm5Oc0xPYUFRRXBGcEZmS3NVR3JUaUxtMTJGYTB2X0RnV0VFZXdfMjNESTlrMjZCaUswUVkzVXBMVGdLYVBUakJxcGZSOGw3VWtHX3l2eVE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSzc5bnJwNTQtRG8wQXJnWkp4QmNBSVVOZEhxZVRIaEQ1S2cySmNBejhGVXIyVHJXaldzVElPRFc1OHlNOUFoTWt6eWM1NUNpN0hSUDNtYXVHemFxc1dOQURoVFJIOHRKR0ZSQVkxYnNlcVVQUEJRNEFGRzExMWNHNEFzeDJ3R09SeXdaYVpMckd6LVcwdTFOSEVta29NT1pNQnVqazRlUHRtbVczWUxXb0F0am9EWFNYVV9ZdVZwUUvSAcYBQVVfeXFMUFlkUURGUjN6bW9JeEZVeTNRVkZTSXUzNFpIQWtwb2hjWVhWMGtFem5tMVo3YlplOWFFQjdaSy1PQTYzU1FZU3pyYTk0YTNqUjRiZWU0WW43WDNyQk9kdmFkOWFJQ19SN3JnZEdNQWtHckJCY0N4dkNwSGdkb3p5MnRsWmg2OU1RUlZTSHNONmN3MU1VSVNyczN6N3NGb0NBd2k3QnNyOTNGc1N3ZnZUWnVhQVZCSEVVUEpwaGp0U3I2ZTNGSmV3?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 35.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Low attendance",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

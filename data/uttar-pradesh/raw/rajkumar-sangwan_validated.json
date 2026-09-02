@@ -4,16 +4,16 @@
     "constituency": "Baghpat",
     "state": "uttar pradesh",
     "party": "Rashtriya Lok Dal",
-    "myneta_candidate_id": 1808,
+    "myneta_candidate_id": null,
     "slug": "rajkumar-sangwan",
     "house": "lok_sabha",
     "sansad_member_id": 5550,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/5550.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Baghpat",
       "state": "uttar pradesh",
       "party": "Rashtriya Lok Dal",
-      "myneta_candidate_id": 1808,
+      "myneta_candidate_id": null,
       "slug": "rajkumar-sangwan",
       "house": "lok_sabha",
       "sansad_member_id": 5550,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Doctorate",
+      "education": null,
       "profession": null,
-      "age": 63,
+      "age": null,
       "photo_url": "/mp-photos/5550.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,140 @@
       "convictions": 0,
       "pending_cases": 3,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "178/2003, Civil Line Meerut Police Station",
+          "ipc_sections": [
+            "147",
+            "332",
+            "353"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "ACJM-V",
+          "fir_no": "178/2003, Civil Line Meerut Police Station",
+          "case_no": "595/2015",
+          "other_acts": "",
+          "charges_framed": "Yes",
+          "date_charges_framed": "26 Feb 2019",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "134/2010, Civil Line Meerut Police Station",
+          "ipc_sections": [
+            "147",
+            "323",
+            "504"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "ACJM-V",
+          "fir_no": "134/2010, Civil Line Meerut Police Station",
+          "case_no": "F.R.No.123/12-05-2010",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "114/2014, Sardhana Meerut Police Station",
+          "ipc_sections": [
+            "143",
+            "341",
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Judicial Magistrate Sardhana",
+          "fir_no": "114/2014, Sardhana Meerut Police Station",
+          "case_no": "F.R.No. 99/16, 29-03-2016",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:07.909174Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 4799426.0,
-      "liabilities": 0.0,
-      "net_worth": 4799426.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1808",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:54.828568Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 4.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.5,
-      "expended": 2.02,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:10.087580Z",
-          "notes": "Official eSAKSHI REST API — Works: 117 recommended, 55 sanctioned, 15 completed"
+          "fetched_at": "2026-09-02T16:36:12.195469Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T16:32:15.570869Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T16:32:15.567892Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 117,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 13.741496598639458
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +188,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T13:54:24.473265Z",
+          "fetched_at": "2026-09-02T16:32:15.566787Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +196,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "UP Government Provides Financial Aid To Murder Victim's Family - Rediff",
+        "source": "Rediff",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnF5X045UUJHNU9JRjZwU2J3bEdHMHlxRGQxMFRyM05hOG5hd3lwTTh1QURzMWVmckVEbmpDSUhWY2t3SVEwS1VELVppcHdZZ01wYl9UQW9kcXhPcVlDWHdiUF9DRjJFMUo1T1ZHcjRKQ0lJOTk3emw3NDduNW1UVEIwM3g5QWZyM1E3dXdhTmMzdXo1WHfSAZgBQVVfeXFMT1dlUGhyUUlmTDFwRmNfSVNaenlMeXpfbE9MeFdqTFhiOUx6eHZOQlgwU0s5dXNCUGVoM25rbTR2SXJjV0psV2s5OHQ5NG13Y2dDeVhoUUQzclNpN1dFS2h0UzZkR3dkU3MtLVE3SnJtaVdWZnJGNFRmVHQ4N05ycjljeUM2SUZWSzJQZDhibHFIUTNFT25aMlU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Baghpat election results 2024 live updates: RLD's Rajkumar Sangwan wins with over 1.59 lakh vote margin - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMDY5TmY0c2lZVWRCb1p0TnQ5UWhEMEMtNlFEN1hqVm45djVsOHg1QkFGZFNNeUJHeEZ4dlBiS2NnNmc1bkt1QmVXNE9Jc3FDWWp5WVNYYUhlYUt6UmtyaUx3WHJmVm9HWDh3NTFQbHRNd04yZ1dfVEJOb3FWbVBmOFQ4R2NTVVhRbFd1QVdSR3ZZNHRnR21NUHoxaXlRdTJhN1hIMXBBb2N4NnJJUU9YMVJDbldZbWxJRk5hOExFWkQ5MVNrSTNMSVJnTFptYTFlQnppTmZlYVZrUGwyeTZJaNIB5gFBVV95cUxPV2dGWGVXSV8zbW8zekhBaTN3aHVhcjdjcXZsQ3BpakJQM2xLSGE3UGdfcVdTOHh3endwSXhtNXR5RDRISzZoWGpMRXZFT1IzTFdnaXVLNzBGeFFkUkdpTXpoTmlINTl4cW8wT1BPbXFmS0lTczUyakRYOHdxYU9hOEFnLVRSR2RQa2gzdWhRaFQ2ZGd6TjZLX3AxNVVEckctcE5nQkxGTElwbjhEelJ4dFFlcUcwVHJJWmQ2a20wZ01KeVZYVm5fRjVrZ1FSdjZOVVdRYllqVjktaTdaemI5d2FNaWQ2UQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dr Rajkumar Sangwan - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVJXbUpIa3d2SG5TV1NDYThZXzRQZDBCa0J3aUVyTkJHeC1NWnNJai1wbjgzS1JhZjMtNndKdjdzOFFxTG5jYS02M3BhSEx4NnBJVTNCZjdzMDlWWWZ6MmZDQnAtUV9wWG9SM3UtVUoyZ2Voa3QzcWtzVzdsQjZmRGIyOUJNOU5xTTlEcw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "UP khap panchayat bans smartphones for children - Telangana Today",
+        "source": "Telangana Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aVldoRjZZSjJXYWlQeXY3cV9QWS1nRHNBUWxMSm9FelJORjdCT0E0UXhlcHZ1cGxuMm92QlZ6WW5NWHIzejlBXzdZNEhBRUNhUng0T20zZ0MtZGsyY1cxcWQzMDJtTU8xdlNNN1Zramo2akk4dzdLRG5IMTlINUk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "On Charan Singh’s turf Baghpat, RLD and BJP turn ticket to a non-family member into a plus - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN05GTlctc3hSQldZV0Yyc1BJT1FUZUpVTEZJMkRfbVMxcUk0d0R2a2tFNUpESTByYllsdHE3ZVliWDVMQkVmWklXSDRpYjFBcldQbG8xWUVMT0NOd200bFRHMWVEY2xHUDlRNDVzWThlRVdoNlNmZlpIQnN4Njk0NEJodmFLelJ1ODR1ZWprdTZhMXpvUGVydS1BUF91WVV4MU9CQ2JtZGNLTUtFUFliM1o1LWzSAbsBQVVfeXFMTTQtQ21Gay1VdGttR3BPWDI0aGYwZmZrdk9UbUNGOXRfWThmYVBFQnU4LVA2X3JzUHRVclpsOVg2dF9mck11ZEdlTjJDaWFzQjRfLXo0Z2lsdjdaUnhUNExXRnhJZFQxWjFYUFdjbkJEeC11VzlYZnRRU19LMzVrdkpTa0QtVkRaQ0o5QUM3bFE0N2tWVWFHYzdROTk0WUNzTU9TaDN1aG1ySVM4RzRUd3Y3WVhaLS1xSHBraw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T13:54:47.089871Z",
+    "collected_at": "2026-09-02T16:36:12.196452Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +265,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.979154Z",
+          "fetched_at": "2026-09-02T18:38:11.571647Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +281,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.979162Z",
+          "fetched_at": "2026-09-02T18:38:11.571657Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +297,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.979166Z",
+          "fetched_at": "2026-09-02T18:38:11.571663Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +313,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.979171Z",
+          "fetched_at": "2026-09-02T18:38:11.571668Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +329,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.979176Z",
+          "fetched_at": "2026-09-02T18:38:11.571674Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +345,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.979181Z",
+          "fetched_at": "2026-09-02T18:38:11.571679Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +361,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.979185Z",
+          "fetched_at": "2026-09-02T18:38:11.571684Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +377,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.979189Z",
+          "fetched_at": "2026-09-02T18:38:11.571689Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -298,19 +415,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Uttar Pradesh's Baghpat divided over khap panchayat’s ban on smartphones, dress code for minors - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "UP Government Provides Financial Aid To Murder Victim's Family - Rediff",
+          "source": "Rediff",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0d4YjRQV1BrVUN1YzMxQzBRdVBfd25UdTd6cmtfWmJSeHFjYjE1TXBkNk10REhoQ1dMTGZGc0h0bkZZbXEzQ2dKTnNEQTZob1FCWFZJWVVRMGJ2MllvSTJ2VGpTa0lDcF9nOWMwblNxeC11SWtFSFRZMkZYYndvYk00dmFtTVpjZTAtc2pGZmoyWVM4d2o1ZlFfcDF5S1FISDV1S1pCWkpLb1FvTC05U3R4V3JDRXRkOHlQY19VOF9RMk0wc2xPUVdCWHNGQk1INEJaRWt6MmQ2dElu0gHqAUFVX3lxTFAzZVItcVk3RllFZUR6ajhXejhKMVpyazMtMVFmZGo5aGFyU280QkFJQ0loMVZfZjZtNUdDckc2R0R6c0VYalRZSzRhMVViaEk5djNPNGNRVEltNnpMU2VTeTE1bFl3ako4b3NKVXBGM2ZnSk03dThsM2ktZW54MjVybzh0dUYyXzRFOTFNeWJPV1dBd3A4d0xJUFhXNGRQQW1ranhkZC05a2JBWlBNVWx3VGVwTFlBR1pGYVZVeThGa2Zzb2taUEFMdnVkakMwZXRIU3M4MFQyZy04dlN2b2ZzamRHbUZ4V0ZXUQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "UP khap panchayat bans smartphones for children - Telangana Today",
-          "source": "Telangana Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aVldoRjZZSjJXYWlQeXY3cV9QWS1nRHNBUWxMSm9FelJORjdCT0E0UXhlcHZ1cGxuMm92QlZ6WW5NWHIzejlBXzdZNEhBRUNhUng0T20zZ0MtZGsyY1cxcWQzMDJtTU8xdlNNN1Zramo2akk4dzdLRG5IMTlINUk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnF5X045UUJHNU9JRjZwU2J3bEdHMHlxRGQxMFRyM05hOG5hd3lwTTh1QURzMWVmckVEbmpDSUhWY2t3SVEwS1VELVppcHdZZ01wYl9UQW9kcXhPcVlDWHdiUF9DRjJFMUo1T1ZHcjRKQ0lJOTk3emw3NDduNW1UVEIwM3g5QWZyM1E3dXdhTmMzdXo1WHfSAZgBQVVfeXFMT1dlUGhyUUlmTDFwRmNfSVNaenlMeXpfbE9MeFdqTFhiOUx6eHZOQlgwU0s5dXNCUGVoM25rbTR2SXJjV0psV2s5OHQ5NG13Y2dDeVhoUUQzclNpN1dFS2h0UzZkR3dkU3MtLVE3SnJtaVdWZnJGNFRmVHQ4N05ycjljeUM2SUZWSzJQZDhibHFIUTNFT25aMlU?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -322,19 +431,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Centre announces doubling of tracks between Delhi-Shamli railway section - The Statesman",
-          "source": "The Statesman",
+          "headline": "Dr Rajkumar Sangwan - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVNTWVdxSzM0RW50Tmw2UGdOeEs2LTUtdEtuSDg3a2hfa0ExcnhjQWxocDVsaFIzYk1mQk5oMUEzUEs1bUdIU1Zhb29pbzMydVBMRWc3OG9kalBUZDNQT0NiVGlLYnR2ejZKSzR6LURjNTBiNnBMcWNxa1BWbFZCQlZ4UkZaUkQ4VHFhY19JUEQzMlpMLWpsWDVWaUhiSThCa2JTZ2dPdm5QYmZiTWVIaTloTkVuUmFoNTBzTThtcGzSAcYBQVVfeXFMT0pFeGtpamFoS0puOVFvYlhzd1FXNjVZcUlINjVvbmZkc0l3ODhzaW1jbnJBTHBOaEZiX011ZzROcGppNUY5X01PdU1rZWNSVnF0WHZCQmVnVzluMUIxMFRaMUdRd2g3VDRldGJNMlo5bkdyUXM0T0JORW1GVlRNQlZjRVJhYU5ERERHMVJKZUZXQTZrMmFpSXhySDJBTUJuZzhHSFJwVlJxMk43UVVwbF82LVJZTW1yZmlCWk00cVBXZy1kTjBR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVJXbUpIa3d2SG5TV1NDYThZXzRQZDBCa0J3aUVyTkJHeC1NWnNJai1wbjgzS1JhZjMtNndKdjdzOFFxTG5jYS02M3BhSEx4NnBJVTNCZjdzMDlWWWZ6MmZDQnAtUV9wWG9SM3UtVUoyZ2Voa3QzcWtzVzdsQjZmRGIyOUJNOU5xTTlEcw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Baghpat Election Result: बागपत से RLD के राजकुमार संगवान जीते, सपा उम्मीदवार हारे - AajTak",
-          "source": "AajTak",
+          "headline": "UP khap panchayat bans smartphones for children - Telangana Today",
+          "source": "Telangana Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXFaUHVfd1hYMXJRb0d6Skxtd1BNSTNXZ0o2U0x3bzM4MmNXeEU1a3RfOGNZMjhNTVV3SklqY0xYR3RzSkc2QmFTMjQ3eGxodnJNZnNiZXJsQ0pYdE0tS1A5SWFKdlVSTjZobl92SGtpeWtKV01qdnBDNHlvOGhWbFcwV1hCYUM0aGNnU3BhZjdLcnRIVkNIUDd0VU1zTVJJMzdyYTZQbGpYTGtJbVpkQ3ZuNHR5aDJN0gG-AUFVX3lxTE5VaGxUd3pDRWszQ2k2NW82bzJ2SWpPemkwX2EyeTQ1V0hzeWdReDRyZnVMdlMzNWdvMEFzd1ZuR0NybkFzM1BwX05sUEJBdFpuNmtnSkxadlZMclN2N3c4REg5WUNMbGVDLWpaZFF4TFFNUzdabjlsZmlHWVR1czg0aVJMUzZsQnZ2ZmN0ZGMtT1BJM2d4RGV0djZjTjlEUmtUX1NHMGsyd2JmcG9vc1RtXzNOYzZrYjREQkJFX2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aVldoRjZZSjJXYWlQeXY3cV9QWS1nRHNBUWxMSm9FelJORjdCT0E0UXhlcHZ1cGxuMm92QlZ6WW5NWHIzejlBXzdZNEhBRUNhUng0T20zZ0MtZGsyY1cxcWQzMDJtTU8xdlNNN1Zramo2akk4dzdLRG5IMTlINUk?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "On Charan Singh’s turf Baghpat, RLD and BJP turn ticket to a non-family member into a plus - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN05GTlctc3hSQldZV0Yyc1BJT1FUZUpVTEZJMkRfbVMxcUk0d0R2a2tFNUpESTByYllsdHE3ZVliWDVMQkVmWklXSDRpYjFBcldQbG8xWUVMT0NOd200bFRHMWVEY2xHUDlRNDVzWThlRVdoNlNmZlpIQnN4Njk0NEJodmFLelJ1ODR1ZWprdTZhMXpvUGVydS1BUF91WVV4MU9CQ2JtZGNLTUtFUFliM1o1LWzSAbsBQVVfeXFMTTQtQ21Gay1VdGttR3BPWDI0aGYwZmZrdk9UbUNGOXRfWThmYVBFQnU4LVA2X3JzUHRVclpsOVg2dF9mck11ZEdlTjJDaWFzQjRfLXo0Z2lsdjdaUnhUNExXRnhJZFQxWjFYUFdjbkJEeC11VzlYZnRRU19LMzVrdkpTa0QtVkRaQ0o5QUM3bFE0N2tWVWFHYzdROTk0WUNzTU9TaDN1aG1ySVM4RzRUd3Y3WVhaLS1xSHBraw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +485,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 25,
+      "starred_questions": 7,
+      "unstarred_questions": 18,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 48.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +501,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +532,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +559,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 4,799,426. MPLADS utilization: 13.7%. Parliament attendance: 100.0%. Questions asked: 25. Debates participated: 13.",
-  "validated_at": "2026-09-02T01:36:53.979895Z"
+  "cross_reference_notes": "Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 25. Debates participated: 13. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.572398Z"
 }

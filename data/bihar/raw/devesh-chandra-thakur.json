@@ -4,88 +4,116 @@
     "constituency": "Sitamarhi",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": 7129,
+    "myneta_candidate_id": null,
     "slug": "devesh-chandra-thakur",
     "house": "lok_sabha",
     "sansad_member_id": 5662,
     "profile_url": null,
     "canonical_name": "Devesh Chandra Thakur",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 71,
+    "age": null,
     "photo_url": "/mp-photos/5662.jpg"
   },
   "criminal_record": {
     "total_cases": 1,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "449/19, Tilak Nagar Police Station, Mumbai",
+        "ipc_sections": [
+          "338",
+          "304a",
+          "34"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Metropolitian Court, Vikhroli Mumbai",
+        "fir_no": "449/19, Tilak Nagar Police Station, Mumbai",
+        "case_no": "CR No. 449/19",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7129",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.817674Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:33:18.119108Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 88465387.0,
-    "liabilities": 0.0,
-    "net_worth": 88465387.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7129",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.817687Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 54.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.54,
-    "expended": 3.59,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:20:35.611581Z",
-        "notes": "Official eSAKSHI REST API — Works: 202 recommended, 130 sanctioned, 96 completed"
+        "fetched_at": "2026-09-02T15:15:41.753247Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:12:01.035883Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:12:01.033852Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 202,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 24.421768707482993
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 55.0,
@@ -100,7 +128,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:34:22.468450Z",
+        "fetched_at": "2026-09-02T15:12:01.033056Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +136,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Bihar MP speaks to Fadnavis in Marathi, aids Maha pilgrims in language of love - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2lVdXV0Z1U5Z3VQNmhiRUVIQUlkR3lMLVJlMlVPTTl6cXRYTUdtMEJNbm5SUW13MFFzQ0lvOU5ESzBtSHk4YmlpTFFUaGw2bU1PdVRDZTJuUS0wUWdJT0ZlcmlaTjF1SEg2Z1piSnh6YzhXS1RKUlpuTEU2Z0tSZnRsV2FfSGxsSGc3Zk1qTlp3dHp3UjNmYmlqbGZHMnBxVFBubUIydm5LVmZOVUxiWG1UT0lveDRkbkdqVzVvUUxYdnpBd0k0RGh0RF8tVVhSQWV6SGRxXzVTc2lfSnc3T0x30gHnAUFVX3lxTE1mREJJclRrVDg3cHY2R2NZaVRtUTNNWHNwQW5VZVNWa3ZETkRiZVY0Yi1FRjljRXRCZWJTWVZILVNKSlVoc3lJVTItNXg1S1ZTYlVCVnFMYlYwN293Q0EwbGxtZC1KQzMxbTBSWmtHRkJCd3RhUlgzRmhXNjN0cS1HSTJscG1RRUlkczhob1FxelpxSW5vUF9lMzZLYTdfT0YyQW9ncTB5OF9lbGt0eklwUHRSbUw1LXJOekFJemNiaWVpYTNiNDFSbjVfU1NUbmNZajJ2aFF2QUQ5anFtMmFPQXlTWlhucw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Who Is Devesh Thakur, Bihar MP Who Charmed Maharashtra With Fluent Marathi Amid Nepal Floods? His Pune Ties - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSVZ2WDByZ0xHTzUzWVZrbEo1akNaNXQzb2twV3BaVDNjdHJ5QWFQbjBCUTE2NGc1VWplSE9IeFpCem4wdHB0ZmY4bWw3cWdsbGMyQ2JpdjB0WlZtUEprRk9TRzJDZ2I2WUlRYXN2anNQYnpvMEM1T05FZXRXY2dLYV8xUVJrY2s0MGRxSm1IWUotaW5oVjBSX3A0aFkzRjhoTWRxeDRGdVRsbmZIU0ltMndDTW5jX0FQSkNBYTh6bG4yRWppTEdLM3diQUlocGx60gHWAUFVX3lxTE5kLW9FUGlvc3FNOGdLZFh1U002Z2dhQUt4T25GV1lwVWxOZjlaTGFPaHJTNllabWpjakdCQmdXV2I5TTkyMHFNWGNoaDl2dkdGMkZueG9XdFhNdE9UUlVkODd4Wmo0d20zMDBiZmVDdElIVmM3dENyU1FhUkprbmV6OWJEYVc3UFZQYzBZN3BLbjRPUWVUd2Z3dUdXZDNGT3BTUlk4aHlMS1NjV0RFQkhONlFnZlRLOU95TzQzQWFLQUw1VmxJOHNQaE5XaF9qcl9XRkNILUE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nishant Kumar could become Bihar CM, claims Nitish's aide: Kushwaha says he built JDU with blood and sweat,... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOERhQTRJLWxFMnRxaGZWQjBNaW5JcEZWYmRhR0h0VnJKM1pZRDdVV1RuSWUySFpYemZXQ05rQVU3UDNHbXNCdGhSTE1zMjdOXzlXbDVCcEZCVE94aWRjR1NfcGxaVTFWQWhLTHI1eDhaUnFaMlJvQ09fVXRKYkFpUTJCTnZxaXZRN1FXM3lvMHJDQUc5cUZKSFVVcFk4VkZIZ3FaVTQ5bEtlSzFTUnN2anRtVDg5WTRhZVI2ZFZn0gHDAUFVX3lxTFA1aEZ0QmxRUFRlRFhyUHdzcFFZN0tHMzdONGhwczM2cER6YUFZWXBzcy03SHg1b0E1Yl9ZT3JsWUZHRm5uZnZqNG1MS2RLVFFiWnZXRmtyeFlDM2tXckNEdHRBOW9qM29SMzhvVFRETkI4X2UzNnhMdUFPcjM0c0NBbTV2dDZ2OVJudDJGd3htZk1sblNwT184bEtXZjZTTHFpRWwwRWQ4ZFFmSU1UZlRRWld0cGhfNWVHekUwV3M1dXRZdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nitish interacts with JD(U) workers in Sitamarhi - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTRwbmtBN1BCd3lFLS1DVVBUTzBMY1ZHQlVwV3ItSlpBT2tKZlVwS0QyWHQ1VnQ2ajZ3Z3FmWjBBNm5yeEdLYm9QQ0lGQXZPTW95SGo1aW83WXl2dTRfb0RRWlVlOVlwbmNrUkhyMTE5RktuRHk2WmhYYVlONmVvb0RuTEZSNEQ3QTdKRHZkT3pzZEhaMF8xQ3hZSGFOdGxSX1lSMTlSLXhBemNjRDIyX3BqWm9abmpNemRj0gHAAUFVX3lxTFBwS2V5d1g3c3JEeE1SZlE0b3ZCVWRlY3dwejdJSS1OblVHcTBxNlFIOW1mSFVPbHFTT05PaFRVeU16bndiZ0ZHSmJOVFJFTU1HZV9NYllzQlhpcEx5OWNQMXJBV01Jd3VscGtuYkNpdi1saHhXSy1fMzJsUGlsOUFibTI0ZnNIZG5mY2NwNkpkZ3prMnRlVndKTl9WMGU1YWN0VHRnak9MdXhtR3BqU0dBVlVuR1NweEtPajlWRHl5WA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sitamarhi MP Devesh Chandra Thakur donates one-year basic salary to armed forces - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWVZxYUpsbTNuVTlUX1hFYnlWcmNKckRvR0dvYkJKejNvZ2ttb3hpaGJZc0piQUl2c2VKUFJRanEtaENDX1drY2tjc0hDNkpEbjVYWjd5QlVMVlMteGdIMnhCcDV6TDhzVUhDdXhpZ3RlRHBnTVhJOEM4Ykw3MFRHaUFCaDhNLXVzdmZPdVBDTVdzd2xXdkRUYVNmNnJZZkstODc0Zk5HZ3dMSXdtNmdHekpINDJKVi1DVXBsNmpKMndOaDk0Y3FqOC15LWVhM09NeFlkTU1qMFJxTGxUV0HSAeQBQVVfeXFMTnZoaVBPbVdxRHlFRjlNT1k5bHNNanlWTjhabS12bDlsNW10T3VRS1V1SGo0dlZiU3ZZT2FfLUUxaGN2dWlDbXE4dkJFcFR1R0JEQm1pbVR6SzYyUFVabEhTV25SWnh6VEg3VWl1b3hPNHlDRmFINV9ObjhOMTlxTnZrRjJzUm9JUlZ4QkNsTlNjNV80MDRuOTZEWG14TlBLeFJhOTBVZ2w5TnltSkh2cmhnaXdjeFlib01nS1d1QUNvYVAwTFFiQUJaN3BBVFFSVmtxUkxPOFNFSjlodHNtUHphbHNB?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:35:21.900370Z",
+  "collected_at": "2026-09-02T15:15:41.754324Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +205,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.060714Z",
+        "fetched_at": "2026-09-02T18:38:04.510222Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +221,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.060727Z",
+        "fetched_at": "2026-09-02T18:38:04.510239Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +237,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.060734Z",
+        "fetched_at": "2026-09-02T18:38:04.510245Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +253,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.060742Z",
+        "fetched_at": "2026-09-02T18:38:04.510250Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +269,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.060749Z",
+        "fetched_at": "2026-09-02T18:38:04.510256Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -218,7 +285,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.060757Z",
+        "fetched_at": "2026-09-02T18:38:04.510261Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +301,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.060763Z",
+        "fetched_at": "2026-09-02T18:38:04.510265Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +317,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.060770Z",
+        "fetched_at": "2026-09-02T18:38:04.510270Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -275,24 +342,73 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "@deveshMLCbihar",
+        "url": "https://x.com/@deveshMLCbihar",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "thakurdeveshchandra267@gmail.com",
+        "url": "https://facebook.com/thakurdeveshchandra267@gmail.com",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "deveshchandrathakur",
+        "url": "https://instagram.com/deveshchandrathakur",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:12:33.762906Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 1,
-    "neutral": 9,
+    "negative": 0,
+    "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Nitish interacts with JD(U) workers in Sitamarhi - MSN",
-        "source": "MSN",
+        "headline": "Bihar MP speaks to Fadnavis in Marathi, aids Maha pilgrims in language of love - India Today",
+        "source": "India Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOcWxoQVBXQ1R0NXFUYWNmSGJBU0ZFTDNyZ0dsTXpqU2JRMGtMdHRaZlkyamN0amdlRUtEOXlSVlVQNjUzdXdIdXNYanpEWGNOeXhvR2J5N1E3bmRFcXc1cGVKeEgyM3ZPV0dvNlVuNlRqSVZFaVl0WFVoQzlGZXpQNXJwbkNsM0FlNllSNW5ZVVh0T19yODhlSVBnWDlRNmVTR21ZWDRDSkc3SFN6X3FjZ19KUk9fQnJDUnE1bGhyazFVM2R3aHg3a1owdGZ0WG1CSE1EU0lNQzBoMGpLbzBlM2xwbllUNG1veTN3ZnpVcUctY3ZRaHFxNHgtNFFQOU1mRmFOQ2hkOTBkSjd1M0VDbnJ0Ymo2VGVaN19XaHhNY0ZFRXJkY3RGanl1YnZUY2t2U3c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2lVdXV0Z1U5Z3VQNmhiRUVIQUlkR3lMLVJlMlVPTTl6cXRYTUdtMEJNbm5SUW13MFFzQ0lvOU5ESzBtSHk4YmlpTFFUaGw2bU1PdVRDZTJuUS0wUWdJT0ZlcmlaTjF1SEg2Z1piSnh6YzhXS1RKUlpuTEU2Z0tSZnRsV2FfSGxsSGc3Zk1qTlp3dHp3UjNmYmlqbGZHMnBxVFBubUIydm5LVmZOVUxiWG1UT0lveDRkbkdqVzVvUUxYdnpBd0k0RGh0RF8tVVhSQWV6SGRxXzVTc2lfSnc3T0x30gHnAUFVX3lxTE1mREJJclRrVDg3cHY2R2NZaVRtUTNNWHNwQW5VZVNWa3ZETkRiZVY0Yi1FRjljRXRCZWJTWVZILVNKSlVoc3lJVTItNXg1S1ZTYlVCVnFMYlYwN293Q0EwbGxtZC1KQzMxbTBSWmtHRkJCd3RhUlgzRmhXNjN0cS1HSTJscG1RRUlkczhob1FxelpxSW5vUF9lMzZLYTdfT0YyQW9ncTB5OF9lbGt0eklwUHRSbUw1LXJOekFJemNiaWVpYTNiNDFSbjVfU1NUbmNZajJ2aFF2QUQ5anFtMmFPQXlTWlhucw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who Is Devesh Thakur, Bihar MP Who Charmed Maharashtra With Fluent Marathi Amid Nepal Floods? His Pune Ties - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSVZ2WDByZ0xHTzUzWVZrbEo1akNaNXQzb2twV3BaVDNjdHJ5QWFQbjBCUTE2NGc1VWplSE9IeFpCem4wdHB0ZmY4bWw3cWdsbGMyQ2JpdjB0WlZtUEprRk9TRzJDZ2I2WUlRYXN2anNQYnpvMEM1T05FZXRXY2dLYV8xUVJrY2s0MGRxSm1IWUotaW5oVjBSX3A0aFkzRjhoTWRxeDRGdVRsbmZIU0ltMndDTW5jX0FQSkNBYTh6bG4yRWppTEdLM3diQUlocGx60gHWAUFVX3lxTE5kLW9FUGlvc3FNOGdLZFh1U002Z2dhQUt4T25GV1lwVWxOZjlaTGFPaHJTNllabWpjakdCQmdXV2I5TTkyMHFNWGNoaDl2dkdGMkZueG9XdFhNdE9UUlVkODd4Wmo0d20zMDBiZmVDdElIVmM3dENyU1FhUkprbmV6OWJEYVc3UFZQYzBZN3BLbjRPUWVUd2Z3dUdXZDNGT3BTUlk4aHlMS1NjV0RFQkhONlFnZlRLOU95TzQzQWFLQUw1VmxJOHNQaE5XaF9qcl9XRkNILUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nishant Kumar could become Bihar CM, claims Nitish's aide: Kushwaha says he built JDU with blood and sweat,... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOERhQTRJLWxFMnRxaGZWQjBNaW5JcEZWYmRhR0h0VnJKM1pZRDdVV1RuSWUySFpYemZXQ05rQVU3UDNHbXNCdGhSTE1zMjdOXzlXbDVCcEZCVE94aWRjR1NfcGxaVTFWQWhLTHI1eDhaUnFaMlJvQ09fVXRKYkFpUTJCTnZxaXZRN1FXM3lvMHJDQUc5cUZKSFVVcFk4VkZIZ3FaVTQ5bEtlSzFTUnN2anRtVDg5WTRhZVI2ZFZn0gHDAUFVX3lxTFA1aEZ0QmxRUFRlRFhyUHdzcFFZN0tHMzdONGhwczM2cER6YUFZWXBzcy03SHg1b0E1Yl9ZT3JsWUZHRm5uZnZqNG1MS2RLVFFiWnZXRmtyeFlDM2tXckNEdHRBOW9qM29SMzhvVFRETkI4X2UzNnhMdUFPcjM0c0NBbTV2dDZ2OVJudDJGd3htZk1sblNwT184bEtXZjZTTHFpRWwwRWQ4ZFFmSU1UZlRRWld0cGhfNWVHekUwV3M1dXRZdw?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -309,22 +425,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWVZxYUpsbTNuVTlUX1hFYnlWcmNKckRvR0dvYkJKejNvZ2ttb3hpaGJZc0piQUl2c2VKUFJRanEtaENDX1drY2tjc0hDNkpEbjVYWjd5QlVMVlMteGdIMnhCcDV6TDhzVUhDdXhpZ3RlRHBnTVhJOEM4Ykw3MFRHaUFCaDhNLXVzdmZPdVBDTVdzd2xXdkRUYVNmNnJZZkstODc0Zk5HZ3dMSXdtNmdHekpINDJKVi1DVXBsNmpKMndOaDk0Y3FqOC15LWVhM09NeFlkTU1qMFJxTGxUV0HSAeQBQVVfeXFMTnZoaVBPbVdxRHlFRjlNT1k5bHNNanlWTjhabS12bDlsNW10T3VRS1V1SGo0dlZiU3ZZT2FfLUUxaGN2dWlDbXE4dkJFcFR1R0JEQm1pbVR6SzYyUFVabEhTV25SWnh6VEg3VWl1b3hPNHlDRmFINV9ObjhOMTlxTnZrRjJzUm9JUlZ4QkNsTlNjNV80MDRuOTZEWG14TlBLeFJhOTBVZ2w5TnltSkh2cmhnaXdjeFlib01nS1d1QUNvYVAwTFFiQUJaN3BBVFFSVmtxUkxPOFNFSjlodHNtUHphbHNB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Bihar’s Sitamarhi MP Devesh Chandra Thakur Receives Dynamite Threat, FIR Filed Against RJD Leader Ahead of Assembly Elections - Patna Press",
-        "source": "Patna Press",
-        "severity": "medium",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LT3gyVGVVcEt6WmlDZ01FaldSQVdHa2VnV2tVSzRjai1QNlFYbXk3OGhibWx0YWZCQWYwWkVTRXM2VzZ1UUZ3RjFnOEtFOW1hbEZQODdiU08ybm9pOW9JOGZIbEVnSW5QdWdtMFpOZzA?oc=5",
-        "sentiment": "negative"
-      },
-      {
-        "headline": "Won't work for Muslims, Yadavs as they didn't vote for me: JD(U) leader - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaHo3NFNyVXE1akdTOTVsbVJTZHFjdTJKcG95MkNIXy1KTXJ0SEU4aXVQNzlvOGc5TnJWcHc4THpNamxNWEdLYkdKd045c0x5MVc4aHJPWTM1aXdjRC1yNlhOVlhETFVKUDlOZEJ2XzQ1b1E3WXZUQUhVaWs2VTg5YkhvT1VRaE42WmFRRFhXcmd0dlhkM2t4OHFlZnV4UXJDSXZNQVVJTVhfTGdBSjdFZTZRMXFBWXhxalZkeXJyZENacDNCc2QyMVZwb24yZ9IB0wFBVV95cUxOUTJIOUlRN3Q5a1Jkb2pyT3gtT2tJMWdvRjVGT3VVUlo3eUhkVW5PSTF0T3V0Zy1McDVVdXhPdThTamNpNFhQNTNmUGVBb0tOZVFzSnRuMER2VlF3Q2c4VTNVY2RKZk9QZDVzMnNZNkhGb0VmQVJTSzEtM2ZVRkE3S2pfdUN3bkx0WVdub3M5bktSUUtQNmlkOEtSb3VTc0lQV3lWY19SNkJpN21FUjZwdEJyR1RycC1mZEJOMEpvY1VPcUoxSzcteG9UWnlSbVkyVk1r?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -358,15 +458,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 19,
+    "starred_questions": 5,
+    "unstarred_questions": 14,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 36.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -374,17 +474,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 55.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,16 +4,16 @@
     "constituency": "Jodhpur",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1843,
+    "myneta_candidate_id": null,
     "slug": "gajendra-singh-shekhawat",
     "house": "lok_sabha",
     "sansad_member_id": 4670,
     "profile_url": null,
     "canonical_name": "Gajendra Singh Shekhawat",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 56,
+    "age": null,
     "photo_url": "/mp-photos/4670.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Jodhpur",
       "state": "rajasthan",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 1843,
+      "myneta_candidate_id": null,
       "slug": "gajendra-singh-shekhawat",
       "house": "lok_sabha",
       "sansad_member_id": 4670,
       "profile_url": null,
       "canonical_name": "Gajendra Singh Shekhawat",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 56,
+      "age": null,
       "photo_url": "/mp-photos/4670.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:09.167686Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 193027658.0,
-      "liabilities": 19862350.0,
-      "net_worth": 173165308.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1843",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:51.682754Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 71.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 0.64,
-      "expended": 0.05,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:44:53.853323Z",
-          "notes": "Official eSAKSHI REST API — Works: 4 recommended, 3 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:53:53.641333Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:50:12.925970Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:50:12.923973Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 4,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 0.34013605442176875
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:30:06.447316Z",
+          "fetched_at": "2026-09-02T14:50:12.923171Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "UNITED NEWS OF INDIA - uniindia.com",
+        "source": "uniindia.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNDJkSnU1aWV6MTBLdHpHRDJtckdDaU9URnVjM0kzTFZKTXplYVUxTWlSbmYwQzk1ZGY4ckRzRmhndVBSVXhjZWg2b1BzVmZaa0dabGV0RQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM Modi inaugurates new Jodhpur airport terminal, launches Modified UDAN scheme - BusinessLine",
+        "source": "BusinessLine",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOazF1WGkyZWpGd1RCejNIVEoxZTRtX1hXczA1VEtndHg0eFp6aGN1UFFlWlRMUm5QdjRNSVIyTFplempySmNFRnFnbmxId1d2TmVfbGc0TlRWdTF4SXQ1Q1R6TUhiSTVrT1hta2NocEE2MHZkUXlTR0tEa2VZWUlMTWFyUmFOY2RTWjg4TDFkX05yN2RsVEpxV3Btc3YxcW1rSzhZdC1ha21sRFRuU2YwdzZ4QmdrWE05UjFlY2VjSW1ZdGtuaXAwRmU4WUVvMzJLWi0tRTNJWdIB3gFBVV95cUxQTVVjRjlkZlBvQnR4RUhoRy1ranRPdkVwcTVqcGhkMDh4QkRtSGd5Q0xNallWTHFnWkVLa2dOSVY0MG1rOVFLS1VwZGRyMEYweHFNSS1ZOFJVWE5NZFBNQ2NqbmRXUWkxdU1VZ0hZTDB3MVp3X2N0cTZxVUVVbktZR2FwNExWZnQxQ29SbjVubDQxMEladzh3NzZ2WW9YRS1MZEZzUFZPRGxFZXZya2oxS0hZZDdpb0tpb21nTkRtZ0ZjbDhTenJ5SXI2bktEY0VPZlg0NTJ3UThsWWg5Mmc?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVWw5dFl1Q01hTjZYalhOd0trTVZMY3IyYTRGTmc4S055MjBZSW1uMGRrM0NZTnJ2X2JBVzMwdFdIN3ZuM0JwalJhQWtZVElueGRkS0ZfWEd6UEw1SHRKMTBVR3BVVDI2eUx0M1RZU0FBeWRqd0xmemRJWmZnTjh0SlFXM3VUSFpUSHBQMWFpNXFRZURCclIxNG4xeXowQ0Z2eVFQNHlCVWlMRVFNaEVCa19SSng5S0lQUkhXNnBVUXVSTjNpM05UWlBTQ2lCRUNS0gHWAUFVX3lxTE82UVBla1Q4NURDQVdKNWlsaHgyVFhCUElMZm9vOThrM3N3Vk1HejlLRUFRRXY0VjZLMm1TSFZYS3BRMnItYXVQdDREVGNCOGRxNzJTMVU1dDNjdHIySGdMM2dXZWJxcjRjMWpxQ1VpQzN5SFcxb1NkczRZNFBYMThkdHgtZmhfTEo2X1J3cVFvcFpHZkNlcDJSSnZTZ2g2amlHcmgyRm1JVWsxRXppWEI5Z2VZT1BNLUJFZm9xQ3QzZW9IcGdvZFJmYU5vMl9BVGU4UEUyUFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM Modi inaugurates new Jodhpur airport terminal, launches Rs 28,840 crore Modified UDAN Scheme - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc3NZN1dVMENuZnFpYWF1YlE4RHZKOHJRMTlkNUtYblJJM3hqV1l4QTFMbWU1SFlrcDFiS1pCU3d5U2NnZVBpa3BZcGMzVXY5SWFpUTBFODQzdzI1X3Q5aXhhbUM2Z0R5U2dJOGhBU1ZzS24tczdybnM2bkp4bHZPNVFLdlVEakhFeXp1dDc1eVcwQ05qSTBKeGxyQWdSdDhQVTZPTlRXSmVUMnhiaUVhNzB1R3YxMndPZERfTTBJZDFtRDFsdlNKTlB1bzZaWE9XR3hXNG5WUGFlbXpVX3ZJd2xNeHVYdFdmMXlR0gH4AUFVX3lxTE5pTnZ0R2lGWElUMzdMeVdWa0lycktpRkx1T0NZazg2ZVM5Vjh6OGJDb25fd3pjdHpOblN4dWU0dGVsUkpIX25LZm5LX0RqUld0LXNBbmk1azJVYUh1Z0tPN0tuTkpMTkhzSDlIejBqWDUtTWdUeEUwejlTX3ZaTjI3dWk1YnZZM1BtV3oycGNkcm9MdHdXakFXWmRzbzNnNnB2a0tJQXFwMTJGaDJoQkFsUXRtekRIREJ4UGI1N2Rxc3Z6U0JBMXRKZVplUE5yRjlzck1wSllvRHg1QlFJTDNlQ0FBcEhJaHo4RlBlbkwxV09yWWY4VkVv?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Jodhpur election results 2024 live updates: BJP's Gajendra Singh Shekhawat wins - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOQXdxZ0twZV85UjBNQk9PY01sREhxVmVab1FCYmtsVlMyZDU4eXEyeHlRZlBEM2t2cFNJUzZ1aTF6cVpNOWdCYmJGa0hBQnVvUnVvUnRLUTRTZFllODZFNzlTOWJKc3dCejBCYmxjR2ZzSUk4SDZMVUc5bExvMzhyTl85ODZXQnA2Sk5icDFTRGxtcUZUTE9aWUJXQlBmZEVRRVhETTBtMmVNQjlOSlZaQ0JKa3Y0NHZVZkRVZUU5UzNVM1d6WEpCRnpqcTBXSTNuT0s3SUphTVBMRXVpZzMwSW9mTGpzdXI2dE9xVFpfQ2ZMN3BnSXY4UmlNZkhST0lZZnFZWXh1X01hVXVDX1BxWmhPaF9hQ3hlX0NVdTJ2QU1WVHFvZklwTDJTVzAxM0xPWTNuY2pkd19aTWZLelFLanJSbzNUeFJwVElxNXJ1dmVueGlYMWhv0gHcAkFVX3lxTE5TZmNsUzdKYUNSOW5vNDR3MnFoUkRvWTZqUllKQTBDZmp5cXY1WDV2UmJ1Q0d4SzloeHg4UUNzN1pGRGo5WmxfeFhXdEpmdXFqdEdvc1VhTmxmWTlIRTAyb2s2d0hYOU5MZzJKZFFvRmNmXzBNX05xMHRmdUthRlc4ajBXYlBvSXd4UzJqVUt4RV9iVmphdjFlTE9zcTktc3lnWHdrWjE1Uk5SMHlNR2xnQ3ZHSkU2Z0xIQUFNaUVKcVRCT3hiRjRXY2xFM2hhbVJFRDNLZXNoZXdWM1kyYWU4a1lMbTIwNWVMQ0hVUGh0N1B0T0o4X1VLbWEyVGhqdU1YRWVXMGdQYTlEWnRHQkVmTGhjd21vRFltenUzbWVlemE1TVhUdVlBTGFjLUhid2ZPQnUxOTZreEZodW9WOVRMT1BmdHpFUU4tWFFpTlQxMG9KQkNUMTFIdmltVQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:31:13.048143Z",
+    "collected_at": "2026-09-02T14:53:53.642146Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.978015Z",
+          "fetched_at": "2026-09-02T18:38:09.385997Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.978031Z",
+          "fetched_at": "2026-09-02T18:38:09.386009Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.978042Z",
+          "fetched_at": "2026-09-02T18:38:09.386015Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.978052Z",
+          "fetched_at": "2026-09-02T18:38:09.386021Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.978063Z",
+          "fetched_at": "2026-09-02T18:38:09.386031Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.978072Z",
+          "fetched_at": "2026-09-02T18:38:09.386036Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.978082Z",
+          "fetched_at": "2026-09-02T18:38:09.386041Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,48 +330,48 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 2,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 8,
       "top_headlines": [
         {
-          "headline": "Bengal victory: Gajendra Shekhawat records 93 pc strike rate as BJP wins 26 of 28 seats in north - Cityairnews",
-          "source": "Cityairnews",
+          "headline": "UNITED NEWS OF INDIA - uniindia.com",
+          "source": "uniindia.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPckUtc0lkSk5DOF82ek1FREdqTWJrengyWHFTOG5kQjBEcjhGLUZFVi1BQVNXWkNZRnFUMm1oNE5fQmNJNm14eE1ydlNIS3dZQU9xdjBCRzI4M3dJMlQtNEZ4dWtFVUUzY1gtUUo2dndoQk9na05ZbTlQSm8zSXNYalFvemRwX1hzVElQMG1ZY19UdE9mZFBJekdic3g2ZUpyVGRnWUpKYnBlQ29TbnRhX195YXpHSXN2TTBCbmpweG9Na0ZaSjBuak9qcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNDJkSnU1aWV6MTBLdHpHRDJtckdDaU9URnVjM0kzTFZKTXplYVUxTWlSbmYwQzk1ZGY4ckRzRmhndVBSVXhjZWg2b1BzVmZaa0dabGV0RQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Jodhpur election results 2024 live updates: BJP's Gajendra Singh Shekhawat wins - The Times of India",
-          "source": "The Times of India",
+          "headline": "PM Modi inaugurates new Jodhpur airport terminal, launches Modified UDAN scheme - BusinessLine",
+          "source": "BusinessLine",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOazF1WGkyZWpGd1RCejNIVEoxZTRtX1hXczA1VEtndHg0eFp6aGN1UFFlWlRMUm5QdjRNSVIyTFplempySmNFRnFnbmxId1d2TmVfbGc0TlRWdTF4SXQ1Q1R6TUhiSTVrT1hta2NocEE2MHZkUXlTR0tEa2VZWUlMTWFyUmFOY2RTWjg4TDFkX05yN2RsVEpxV3Btc3YxcW1rSzhZdC1ha21sRFRuU2YwdzZ4QmdrWE05UjFlY2VjSW1ZdGtuaXAwRmU4WUVvMzJLWi0tRTNJWdIB3gFBVV95cUxQTVVjRjlkZlBvQnR4RUhoRy1ranRPdkVwcTVqcGhkMDh4QkRtSGd5Q0xNallWTHFnWkVLa2dOSVY0MG1rOVFLS1VwZGRyMEYweHFNSS1ZOFJVWE5NZFBNQ2NqbmRXUWkxdU1VZ0hZTDB3MVp3X2N0cTZxVUVVbktZR2FwNExWZnQxQ29SbjVubDQxMEladzh3NzZ2WW9YRS1MZEZzUFZPRGxFZXZya2oxS0hZZDdpb0tpb21nTkRtZ0ZjbDhTenJ5SXI2bktEY0VPZlg0NTJ3UThsWWg5Mmc?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVWw5dFl1Q01hTjZYalhOd0trTVZMY3IyYTRGTmc4S055MjBZSW1uMGRrM0NZTnJ2X2JBVzMwdFdIN3ZuM0JwalJhQWtZVElueGRkS0ZfWEd6UEw1SHRKMTBVR3BVVDI2eUx0M1RZU0FBeWRqd0xmemRJWmZnTjh0SlFXM3VUSFpUSHBQMWFpNXFRZURCclIxNG4xeXowQ0Z2eVFQNHlCVWlMRVFNaEVCa19SSng5S0lQUkhXNnBVUXVSTjNpM05UWlBTQ2lCRUNS0gHWAUFVX3lxTE82UVBla1Q4NURDQVdKNWlsaHgyVFhCUElMZm9vOThrM3N3Vk1HejlLRUFRRXY0VjZLMm1TSFZYS3BRMnItYXVQdDREVGNCOGRxNzJTMVU1dDNjdHIySGdMM2dXZWJxcjRjMWpxQ1VpQzN5SFcxb1NkczRZNFBYMThkdHgtZmhfTEo2X1J3cVFvcFpHZkNlcDJSSnZTZ2g2amlHcmgyRm1JVWsxRXppWEI5Z2VZT1BNLUJFZm9xQ3QzZW9IcGdvZFJmYU5vMl9BVGU4UEUyUFE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "PM Modi inaugurates new Jodhpur airport terminal, launches Rs 28,840 crore Modified UDAN Scheme - newindianexpress.com",
+          "source": "newindianexpress.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc3NZN1dVMENuZnFpYWF1YlE4RHZKOHJRMTlkNUtYblJJM3hqV1l4QTFMbWU1SFlrcDFiS1pCU3d5U2NnZVBpa3BZcGMzVXY5SWFpUTBFODQzdzI1X3Q5aXhhbUM2Z0R5U2dJOGhBU1ZzS24tczdybnM2bkp4bHZPNVFLdlVEakhFeXp1dDc1eVcwQ05qSTBKeGxyQWdSdDhQVTZPTlRXSmVUMnhiaUVhNzB1R3YxMndPZERfTTBJZDFtRDFsdlNKTlB1bzZaWE9XR3hXNG5WUGFlbXpVX3ZJd2xNeHVYdFdmMXlR0gH4AUFVX3lxTE5pTnZ0R2lGWElUMzdMeVdWa0lycktpRkx1T0NZazg2ZVM5Vjh6OGJDb25fd3pjdHpOblN4dWU0dGVsUkpIX25LZm5LX0RqUld0LXNBbmk1azJVYUh1Z0tPN0tuTkpMTkhzSDlIejBqWDUtTWdUeEUwejlTX3ZaTjI3dWk1YnZZM1BtV3oycGNkcm9MdHdXakFXWmRzbzNnNnB2a0tJQXFwMTJGaDJoQkFsUXRtekRIREJ4UGI1N2Rxc3Z6U0JBMXRKZVplUE5yRjlzck1wSllvRHg1QlFJTDNlQ0FBcEhJaHo4RlBlbkwxV09yWWY4VkVv?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "Jodhpur election results 2024 live updates: BJP's Gajendra Singh Shekhawat wins - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOQXdxZ0twZV85UjBNQk9PY01sREhxVmVab1FCYmtsVlMyZDU4eXEyeHlRZlBEM2t2cFNJUzZ1aTF6cVpNOWdCYmJGa0hBQnVvUnVvUnRLUTRTZFllODZFNzlTOWJKc3dCejBCYmxjR2ZzSUk4SDZMVUc5bExvMzhyTl85ODZXQnA2Sk5icDFTRGxtcUZUTE9aWUJXQlBmZEVRRVhETTBtMmVNQjlOSlZaQ0JKa3Y0NHZVZkRVZUU5UzNVM1d6WEpCRnpqcTBXSTNuT0s3SUphTVBMRXVpZzMwSW9mTGpzdXI2dE9xVFpfQ2ZMN3BnSXY4UmlNZkhST0lZZnFZWXh1X01hVXVDX1BxWmhPaF9hQ3hlX0NVdTJ2QU1WVHFvZklwTDJTVzAxM0xPWTNuY2pkd19aTWZLelFLanJSbzNUeFJwVElxNXJ1dmVueGlYMWhv0gHcAkFVX3lxTE5TZmNsUzdKYUNSOW5vNDR3MnFoUkRvWTZqUllKQTBDZmp5cXY1WDV2UmJ1Q0d4SzloeHg4UUNzN1pGRGo5WmxfeFhXdEpmdXFqdEdvc1VhTmxmWTlIRTAyb2s2d0hYOU5MZzJKZFFvRmNmXzBNX05xMHRmdUthRlc4ajBXYlBvSXd4UzJqVUt4RV9iVmphdjFlTE9zcTktc3lnWHdrWjE1Uk5SMHlNR2xnQ3ZHSkU2Z0xIQUFNaUVKcVRCT3hiRjRXY2xFM2hhbVJFRDNLZXNoZXdWM1kyYWU4a1lMbTIwNWVMQ0hVUGh0N1B0T0o4X1VLbWEyVGhqdU1YRWVXMGdQYTlEWnRHQkVmTGhjd21vRFltenUzbWVlemE1TVhUdVlBTGFjLUhid2ZPQnUxOTZreEZodW9WOVRMT1BmdHpFUU4tWFFpTlQxMG9KQkNUMTFIdmltVQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Jodhpur Lok Sabha constituency: Electoral battle between BJP’s Gajendra Singh Shekhawat and Karan Singh Uchiyarda from Congress - The Indian Express",
-          "source": "The Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbUZWWTJGX01sajBwbVpabWo0TE5hN0wxUDFDa043VmhaSU1zWmk2aS1tdW5oVVVOUUtSYmdPWlBTVnF2aURUUzdFY3ZZc0JIUmpMbkpMYVdhazdJNklidnMtOVdseU1pOHoxcFJRWnY4aWRfcXJtaEJqejFkYW9tUkhrSTBKZ2VlTXdGOEppRUtOcUM2WTVBWmZrZE9tRXpROEJpMGduWVNfT3BITldBUC14bVRHODN5MXpQeDRlWHExMDdEbDhuX2FEVmg3THJlbDl1a1pHRGxqZnJneHBvclk4cTFBNnJtbEJuUXhwaVNqbVZ6WkNJcjRTaHMwR0XSAYYCQVVfeXFMUDhoLUpDZFFOb1A1MXNiRnQ0OWxoUTY1djlyYy1uRDRyUjZpS01EZGNkNkw1R0pxcnBWZnJ1djNmTEs0SEw2NmhZVjdOdHAxbDQyQlR0YUs0eGM3d09HZFlRajZqQk1sNEhlU3R1TlVpTGxNUDRCc01DX3Bzb0x4LTg4VHY4UE5pREZfN1B3U3RjRWVkYzBETHE5bDJEajJmRE5pVXJGNGs2bnNtOWJaZGdrU1R3ZU1rNjBxN1h5TXZCbnNFS0huQTdtR0xucW1yYVlBWjVjRFlhY0FaamtCdjNCUEZjOVZOYks0UlpNdkF6bW9hc3RUakhqRFVvblRXTHFNejZTZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Jodhpur Lok Sabha Elections 2024: Gajendra Singh Shekhawat eyes hat-trick, Congress fields Karan Uchiyarda - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOT1Y1bHBtbW5IRl9qTUliVEVjQ0NrYi1velplRTRvaE1zLTlPamt1a0FJSEZVM0E5ZkVOSjhsVy16aUFFdzlaQ1JGTGt5VWJNdUhoNE9jTGFoakd5U3VWSnU2c2F3d0dVVDBSX0hpUlU4aENGb0cyRWw3eG54VzVWV2ZQcmRPS1BUdlNaeEs4SmpIVkl2QkplcUdqSVhDczFtVzhXZ09wS01Ea3U0SUdLdmY0MWF4X3k1Zmc2RGxJV3J5eWpPOEFveUt2SV80Z3dKclN1R1ZNbHI5cWxVSGd3dThxQ3BINFhYUk0xMkJYSTVCcTU1R0Q0RzlMYXVOODNNeXhsWkFFM0pOOWRyVHNHbVBpeTdRSFpINjVzUFo0cFJheFBPYjhOUNIBrgJBVV95cUxQeUJkdlpmTmFVVzBUeXZHcnNjTWVtTFZPaVV0WXZ3LXl1MEoyZmlFbzFMa1UwQTVEQkw5MkFlVWdvcmY2MFlNZ1dlUFY4UjRISlNqdUZwREl3N2JGUTQyWm16cGJZSld5b2RrSTVSRUdfakRzd0lwTmlEbjdGMUdzYlppRUNJeVdMMFhUQVZldGFmalIzengta2d4NzJBd2JMT1lrYjhJd1VYR3JQZnduN2x4TDZNcDNWdDVZblNtcWR0RERmQkZOMklRemI5NjdINVJ6VlZjWkpYeHliTnIwTm9wVDJDS3hHdTlReGpIV1hZNHZZb0ViRkpCTUo2TzRESWhMd3hIMGtROTlscFZBaVZVSHJFb3BHeUpnYTVHczZ5VHV6OHFBYVdUMmwzUQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Jodhpur MP Gajendra Singh Shekhawat to be in Council of Ministers for 3rd time - Zee Business",
-          "source": "Zee Business",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFNRb2lUbkkzb0NBNnB2SGFHU2E5RVpjX2RuVmZQb2UwMDFyZmYzME8xeUV0bFZzQTMxZEZCT3ItZTB6NmNuYUFCYjVtZFUxR1lDMFVpNzdlRTYxTHBkWllSQWxpRDcxRjNQU09McmxqRGx2TXpDdW5KSXNRb2FNVFJ3YTdTMS1uVnNJUzNNb004TkduX1ZPQXZsTzBpT2QtVXYzRTRDWGduS2JXaDFuSFBjeS1LQ2NMUEFBWVdZc0dEZEJXbTduR1k0SQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,7 +421,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -399,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.17,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -426,12 +485,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Rajasthan: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 193,027,658. MPLADS utilization: 0.3%. Low confidence data: Parliament activity. 2 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:51.979381Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.386857Z"
 }

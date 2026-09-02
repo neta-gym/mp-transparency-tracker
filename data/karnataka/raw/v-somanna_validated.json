@@ -4,16 +4,16 @@
     "constituency": "Tumkur",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1904,
+    "myneta_candidate_id": null,
     "slug": "v-somanna",
     "house": "lok_sabha",
     "sansad_member_id": 5625,
     "profile_url": null,
     "canonical_name": "V Somanna",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 72,
+    "age": null,
     "photo_url": "/mp-photos/5625.jpg"
   },
   "findings": {
@@ -22,80 +22,112 @@
       "constituency": "Tumkur",
       "state": "karnataka",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 1904,
+      "myneta_candidate_id": null,
       "slug": "v-somanna",
       "house": "lok_sabha",
       "sansad_member_id": 5625,
       "profile_url": null,
       "canonical_name": "V Somanna",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 72,
+      "age": null,
       "photo_url": "/mp-photos/5625.jpg"
     },
     "criminal_record": {
       "total_cases": 1,
-      "serious_cases": 0,
+      "serious_cases": 1,
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "Offence under P/U/S 13(1)(b)(d) & (e) R/W Sec. 13(2) of PC Act",
+          "ipc_sections": [],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Honble LXXXI Additional City Civil & Session Judge, Bengaluru City",
+          "fir_no": "",
+          "case_no": "PCR No.31/2013",
+          "other_acts": "Offence under P/U/S 13(1)(b)(d) & (e) R/W Sec. 13(2) of PC Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "Yes",
+          "appeal_status": "Honble High Court of Karnataka, Criminal Petition No. (CRLP) 11549 of 2022, the interim order granted of stay, Honble court Reserve for orders on 08-12-2023",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:37.425181Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 607805215.0,
-      "liabilities": 226300461.0,
-      "net_worth": 381504754.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1904",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.114465Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 87.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 3.4,
-      "expended": 2.25,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:30.820213Z",
-          "notes": "Official eSAKSHI REST API — Works: 54 recommended, 18 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:59:04.497451Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:55:23.867554Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:55:23.865163Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 54,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 15.306122448979592
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +142,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:30:18.542531Z",
+          "fetched_at": "2026-09-02T14:55:23.864062Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +150,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Deputy CM G Parameshwara, MP V Somanna revive Tumakuru bid for Bengaluru's second airport - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2l6WElUeEZBZ2VNVy0xdllSQklmMTA3UmowaGhiZ1BNN2w0SzFRMW9nZ21RTlh0SG5ER3ZYWERua1dURWNNaUpGVG1ycGxwM2pMcmxlbnd2cE1lSy1GY243WGcxYjFvNTJaRmJGaDc3UXpoOUVKaXhDMXR5ZFVGRE11RkduNVIycV83cHM5SHpfUnVid05NWkE5TEVzUGdSWEQ2Mkoxd2thX3hPbUNYaFpna1gtMFdYd09mUDJ3bHZiaTYzaGlhSVVCc1NjM0pCNHY4LUFUWGpQZ3JiZFdHMGFBSGY?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shri V. Somanna assumes charge as Union Minister of State for Jal Shakti - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LekRxNm1hcDVMa2g2QURHTVlJUHFJdUZ0NDJWb1dDWlpBUFZDOHBJbXZhOW43NFNib3NCSkpIaVBMMkJKZjN3ekRld19fUC02bTdsX1kxZktRMUZnWTYzTmxnU2dxaDRK?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tumkur election results 2024 live updates: BJP's V Somanna wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPcmtpTG1KRDJPMzhRUVFyZm1TV3lRSDAxazJVbjYtVXJzLU54aGMtM3VUYU04WTdkZTVtdTM4UmVwVHQ4UnllRVpHNjdocFFnLVl2SVctNkdjNGdLcnNMd29KdVoyNXZHa1FHSllqRENoQXU1YXotdXJKWThGckZKa25Sc3NYRTdVeVFYM1VlWnBPR01malhYYmNDcEJRR1N5Y09lcXRCc09uaDJ2Q0ZNaVhkanNaSUg4MmhVS3k0ci1ReFlLckdXMjNDSnVySXZKN3pLMVV1RjdmbDltTk1yMzFNNkJRYUJCVEw0VWh5NVZSMlFPNWsxaUpsZlhKRDY3MzBTUUEtVVZuQ3ZWaUZUT2FTall1MnFud2ZHUURn0gGjAkFVX3lxTE9QTG9aVmplUV85TlRFajRPWkx0UTRmMktHelhBYTBqVzF0UUF3OW9YRThJaFpsek9CWXlxOGJSdDhxLWxsVWJSbzItX1h0VUJ4djJGS2tJUGxfS1B6NDBRWmJ6ZUg2N01RRUVHVWRud01YV05EMkxtUTBTN2RGalh3SFJTS3lETVhzenc0azhUYmxGdnM3b0VFZlRFVU12T3FTR0k0NzNQUWdVV0lzWWJtYm5USDJPVVRTTlNxYTl6dW9SWUc0UFdoY2xfM0xlQS10Ri1CcjJNcGFjRjVjb3dzclZQM1ZPNlFuazgzZ3QyVWxCUjlEWmt3OGhjQjU3WGtEZHVGOHctMThVUllRVWRySS1UTlQ1b1doSHYxbjdCNnhKWQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "V Somanna assumes office as Minister of State for Railways - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE14T0ZoNENhZWF5b0tsNnBhRkdjYWVhY3lxXzVZYm5WN0lQMEdSeGxzdzBJUUVJeWpiSzJCWWltSDkySkZycTB4Q1lCZUR1NlNDX09KX24zQktua1JRMGw2R0NYZU5QUTI2dTB6SEotRmlZN2d5TUp4VTBpM3dPOGVrYVlnTlN1WHEwQWp3TDk4NVRxMkRxZdIBngFBVV95cUxOR0ZOTHlEVlY0SDJuMnBXV2twUDdSUVozWDBqbktJRGNMbVVZWF9PNzZlMXF2TTNGOXZMUFpxX1NUaHF3S3d6bHptRjFZMW9NTWlrUEhnU1lJV2FtWFlDamFrQUJ6d2xydmdRWmcxeVJjVTJnM1RuQW56aXAxNW1mS2pzSDRpbWNqQ3kxa2RReV8wYm5VVEltMFFyUURfZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Consider Sira for 2nd international airport: Somanna to Civil Aviation Minister Rammohan Naidu - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZWUwY21UZjhYYlUyLVRFWFNpZEZESklhUUJSTm1hT0R6WkNfc2gwa3NHdnNUVjV0RDZ1dy1MY1pHRUdqbDBPVFB6UTBXOVktV0xnZ09YZjM2Y1lGNjhTalJjR3JDblJ1SkxYaEM0aVhFd2hPWWlZb2JDSzRLYXlxdmM2VmsxQ0pRaWYtaHZLclM5N1VaeEV6NzBqd0YwdXhxbWJQdGlsM3MzSXFLLUhGY04xaWN2d2Qzd2hJU2FvSDVkR2F3bVFPenNSYldHQVRTeHhHbHRPXzlsS1l6YTJxQmlBdHljZGR6bVpv0gH4AUFVX3lxTFBIUEhQYkVMZmFFc0pDZk11WF9oRDkzd1U1NDROMU5sOW1seEZRazlIb0czN3pUUEdybkxidjNsemNpWGR6c05GSTdhN2ktbEVla2lITUFmWmt0Yk5PZXhMR3RnMnhaNUhyYVZJSk0tZE5rd2lWUlF0ZnJhbWVMMEVQVmhCdzhxMUhOR21pbG9uYXh2dG5ESVZPNW1mUktBaTYzVzNLRS1EU2MyZmxFMTk2S2xsR1VMb3dIS0UzaTdDeWFua0ZKZTYwd0trcnA4SjJnVTctek5yUVVITVJqbGtKNkFVTm1fZ3pNd08zdUItbTU1SXRPVVNO?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:31:21.567622Z",
+    "collected_at": "2026-09-02T14:59:04.498427Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +219,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.331917Z",
+          "fetched_at": "2026-09-02T18:38:06.819318Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +235,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.331927Z",
+          "fetched_at": "2026-09-02T18:38:06.819328Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +251,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.331933Z",
+          "fetched_at": "2026-09-02T18:38:06.819334Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +267,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.331939Z",
+          "fetched_at": "2026-09-02T18:38:06.819338Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +283,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.331945Z",
+          "fetched_at": "2026-09-02T18:38:06.819344Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +299,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.331950Z",
+          "fetched_at": "2026-09-02T18:38:06.819349Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +315,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.331954Z",
+          "fetched_at": "2026-09-02T18:38:06.819353Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,11 +353,19 @@
       "neutral": 10,
       "top_headlines": [
         {
+          "headline": "Deputy CM G Parameshwara, MP V Somanna revive Tumakuru bid for Bengaluru's second airport - Deccan Herald",
+          "source": "Deccan Herald",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2l6WElUeEZBZ2VNVy0xdllSQklmMTA3UmowaGhiZ1BNN2w0SzFRMW9nZ21RTlh0SG5ER3ZYWERua1dURWNNaUpGVG1ycGxwM2pMcmxlbnd2cE1lSy1GY243WGcxYjFvNTJaRmJGaDc3UXpoOUVKaXhDMXR5ZFVGRE11RkduNVIycV83cHM5SHpfUnVid05NWkE5TEVzUGdSWEQ2Mkoxd2thX3hPbUNYaFpna1gtMFdYd09mUDJ3bHZiaTYzaGlhSVVCc1NjM0pCNHY4LUFUWGpQZ3JiZFdHMGFBSGY?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Shri V. Somanna assumes charge as Union Minister of State for Jal Shakti - PIB",
           "source": "PIB",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zYThoVkdjNXM1bWhoNXVxQ05TNmdQX0t4R2dvcWZBaUR4RzJwSjlCUV9aUGNzSnV0ZkFHNjJ5eUdTMWY2Unl0ZG80RlVwaFpJT0VoaGRUcmJRSXY3ZFZsenpmZndub0NTVGxxRkFNcmc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LekRxNm1hcDVMa2g2QURHTVlJUHFJdUZ0NDJWb1dDWlpBUFZDOHBJbXZhOW43NFNib3NCSkpIaVBMMkJKZjN3ekRld19fUC02bTdsX1kxZktRMUZnWTYzTmxnU2dxaDRK?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -298,27 +377,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "'Local vs Outsider' Debate Heats Up In Karnataka's Tumkur Ahead Of Lok Sabha Polls - NDTV",
-          "source": "NDTV",
+          "headline": "V Somanna assumes office as Minister of State for Railways - ThePrint",
+          "source": "ThePrint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFVvRVpLS0duelItcEZxY2h6YktnQV9DRjhabXhCejBzOGJfX3A5X25vVno4T3Z1Vmo4VzZSZnZ1bld3UVlaZ25BRTlqdEZzX05TVlQ0YUVTeW1lQWZBWU1TaVlNV3hLdFo2WTFPNzh1a3g4Q1Z2bmJ6S0ZibXJxblRwYzVKYjA1Vm5yaTF5U20zbVdfNzBENE1naDhyUVNkUFZuZUhCNUxKcVN3TDQ3X3h2M1JBSzhGNVI40gHDAUFVX3lxTE1UcElDVDFVLUMySDVvMGhLZ0YzRFRTY0p0bEVIQVB1MmNGbHpZdmRkV0ZCT0ZtVXZSallXLV9WX2VrRFEySGFSWTNrNHA1SUZyak12dVBWWmNvTnhKMGNMR3dwTVVoR2EtQjI0eXBfTVU5VnhYWUlRY0U1bEk5dmpzQnRaT2NuNEtnME5jamZWc3VHTERGUGtleUs4WkJmOGFmdGY4cVJ2ZFgydE1kQmtDbXBnbFVhTU5SQVJDOGdvQUtJUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE14T0ZoNENhZWF5b0tsNnBhRkdjYWVhY3lxXzVZYm5WN0lQMEdSeGxzdzBJUUVJeWpiSzJCWWltSDkySkZycTB4Q1lCZUR1NlNDX09KX24zQktua1JRMGw2R0NYZU5QUTI2dTB6SEotRmlZN2d5TUp4VTBpM3dPOGVrYVlnTlN1WHEwQWp3TDk4NVRxMkRxZdIBngFBVV95cUxOR0ZOTHlEVlY0SDJuMnBXV2twUDdSUVozWDBqbktJRGNMbVVZWF9PNzZlMXF2TTNGOXZMUFpxX1NUaHF3S3d6bHptRjFZMW9NTWlrUEhnU1lJV2FtWFlDamFrQUJ6d2xydmdRWmcxeVJjVTJnM1RuQW56aXAxNW1mS2pzSDRpbWNqQ3kxa2RReV8wYm5VVEltMFFyUURfZw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Political Profile of V. Somanna, Bjp Party, Tumkur, and Net Worth - India TV News",
-          "source": "India TV News",
+          "headline": "Consider Sira for 2nd international airport: Somanna to Civil Aviation Minister Rammohan Naidu - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1VGWkp5RUZHT1pqOFo0RElOX2RkRWxDbENLc2V2dFpKSDVSVDF0cjhSMXkyd0VIZmFpSjloYWstellIRk1nTHJKbm5ZSFZmWGMxazQ4NjUydW4xendhNlRoakpFRGVqNWYtQXVyMl9FaDItRmNNS2xJOWRZZERTX203VFNmekVnRmM4aFh0VHpNcEQ5V1JZemloWHVKejJydnRwYUI1WmlESzBBTUZSRXJqVW1yOWJWdExCUUtPUTAzQ05fQ08zMnUwVVRJU3BHWm40?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Shri V. Somanna, Union Minister of State for Railways and Jal Shakti, assumes office - PIB",
-          "source": "PIB",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBubXlfTEFOLWQ1VlRBWHE1TG93Tnk0aVlnN2xhY1B2Rll0aVNOYm91OGlmNGttN3haaDFvenJGVW83akdBMlc0MmVqNnZ5R1dzNGRkZjZqQlJvZW1XV2JDTWFleGJoX0xzM3REaFNiRkQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZWUwY21UZjhYYlUyLVRFWFNpZEZESklhUUJSTm1hT0R6WkNfc2gwa3NHdnNUVjV0RDZ1dy1MY1pHRUdqbDBPVFB6UTBXOVktV0xnZ09YZjM2Y1lGNjhTalJjR3JDblJ1SkxYaEM0aVhFd2hPWWlZb2JDSzRLYXlxdmM2VmsxQ0pRaWYtaHZLclM5N1VaeEV6NzBqd0YwdXhxbWJQdGlsM3MzSXFLLUhGY04xaWN2d2Qzd2hJU2FvSDVkR2F3bVFPenNSYldHQVRTeHhHbHRPXzlsS1l6YTJxQmlBdHljZGR6bVpv0gH4AUFVX3lxTFBIUEhQYkVMZmFFc0pDZk11WF9oRDkzd1U1NDROMU5sOW1seEZRazlIb0czN3pUUEdybkxidjNsemNpWGR6c05GSTdhN2ktbEVla2lITUFmWmt0Yk5PZXhMR3RnMnhaNUhyYVZJSk0tZE5rd2lWUlF0ZnJhbWVMMEVQVmhCdzhxMUhOR21pbG9uYXh2dG5ESVZPNW1mUktBaTYzVzNLRS1EU2MyZmxFMTk2S2xsR1VMb3dIS0UzaTdDeWFua0ZKZTYwd0trcnA4SjJnVTctek5yUVVITVJqbGtKNkFVTm1fZ3pNd08zdUItbTU1SXRPVVNO?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,7 +439,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -399,8 +470,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.19,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -420,12 +503,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 607,805,215. MPLADS utilization: 15.3%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:49.332760Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.819993Z"
 }

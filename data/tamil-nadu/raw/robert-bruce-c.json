@@ -4,16 +4,16 @@
     "constituency": "Tirunelveli",
     "state": "tamil nadu",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 1480,
+    "myneta_candidate_id": null,
     "slug": "robert-bruce-c",
     "house": "lok_sabha",
     "sansad_member_id": 5629,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/5629.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,98 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "187/2024, Thuckalay Police Station",
+        "ipc_sections": [
+          "143",
+          "341",
+          "290"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "187/2024, Thuckalay Police Station",
+        "case_no": "Crime No. 187/2024",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:28.166533Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 92662888.0,
-    "liabilities": 1022299.0,
-    "net_worth": 91640589.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1480",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.628574Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 56.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.75,
-    "released": 14.75,
-    "sanctioned": 4.74,
-    "expended": 4.14,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:39.811927Z",
-        "notes": "Official eSAKSHI REST API — Works: 108 recommended, 64 sanctioned, 14 completed"
+        "fetched_at": "2026-09-02T15:06:27.877601Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:02:27.170026Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:02:27.167649Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 108,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 28.067796610169488
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +128,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:34:23.239404Z",
+        "fetched_at": "2026-09-02T15:02:27.166814Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +136,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Tirunelveli MP seeks funds for desilting Radhapuram channel, irrigation tanks - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVy0zMkkxbnI3UW5sNERrYk1VQkQtMXVtS0hKTVBrU21jNE94VGVZS1Q5a2hBZzF6WWJuM2FocFo0MzZwQ0V3R01HWFZhZXdmTG54dG4wWFdPaGNoeHcyOUZqMnpDc3F2X256UWRhMVQtNlVOWmI5NEpYUDBvbm4yVmQwdGFqU1Y1a3ZCbUNRR2o2czNZdFVSbm5LODJTQTZPanVlbHRoRjlTam1xYkJxdkdyQ2pqbm5oZ0xveFNzLTdESV9taGpLbWNSVWNkSk85NEY3ZFBPem3SAd8BQVVfeXFMTzFSWFVKVnprVmZkOHpXS2JweWZINVNrOUUtdHNWaHFlMm5laVRONG9XZDlyMjV2WWtHSXBHcVNUanFvUXZpcjdsX21OWTVtOFNsbWZxYWRoa2pCS3U3Q1ZGdm94dG5YVnFqQXdIMkd2aXlvZFFXT250SVRSWkpxSnRuYm5aMU9URE5qRWNjeEEyc2gyZ25wQU5UMkhMNWpidDVWWUtoMVFjUkxuWjZVUmdiaGhFaWM2WUN4clUzcFRxVTEwUnZJRU9ZaGZoV1cwekF0WnNpQkstT3o2eE1IZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "SI suspended, three police personnel booked for opening fire on farmer in Tirunelveli - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcFY3UmprNFZKZjRtbU1FRGJtcnRKQ3Vzcndka2Jrakd5Skpma3NqaFVqRUZoS3RDX19YT0xuVXhUUGc0VjE4TzZpRjUxTDdyLWN6akRwOGN3MkdkZlFyUDBPandROVhOVXNpRXRlT192WXZ1bFBnTlJoSkE2Sm5Oc25GSElOZ0NKTndONFNRZmpEbXpvQTVKLXJaQ0M4eTFKVFVqZnN4ME1Fd0ZRTmg4NHNGNjdwNGc3YzhSZnFHVm8xakJvZjBuQjZYTTNfTG40SGVNT3hkTUo0YXJSb0FxQ9IB7gFBVV95cUxQYUlHTXdlYW9DMGFHZnYxWmZFZFE4cGt0SEZTcW5CcVNFYXV4SGd1aFNDSXZjNXhfcXp0ZXpFSDRqcnRobk5TRXdvYzNnTFlkNDA4cDE5MGpPblhpQWlGaFlMaEhiSURZbW5fZVNxSWdiUGlRb2t5MGR3LXFnUmVLWDFMZWlYUG8xc0FYUUpBUGdSdTNneTBpTjhqSTNxQkpQUHpLaXFMOGlzeXFKQXpPRGdrNHd2TE5uMEZFajUzV3ljM1NjaXBOazVSRGJHRFNCamtrU3VMSzg4aV9LVnNOazFWTTdJMEVRZkVuc1VB?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Tirunelveli election results 2024 live updates: Congress's Robert Bruce C won with over 1.65 lakh votes - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSXZHWGJkYmNoTElHQUkzZHZWclNKMXM3RWt4dVB1VUEtV0treE5JNGxTWnhPTlB6SmY2WGJ5ek14QkFoejlFRkVPLUplTVhIMmpjcDVnc0NWNk5FNjN5ZjRKMUpEd2JkS2RacEt1dmJEbzFxV1gxdXNuNHdKdi1zRWhWZG1JNktyZkFBT0F4ZmNWeGlzT01WVW1HZlBLUjlXeDh3MTg3UWF6aFRpRElzNE1NRno0N19wNmtibDItQ2N0M1JkYWNiX2R4MmU1WW5hXzFfUTdHMGg0N3ZWU243VlRaU0IxZnlZVnA0Y3lKb0dmWnNwdFQ1NDNqanRHYzdVUWoxbVdwUi1RRU9tZ1pZSjhTYl90UV9oWHNNdXltWG5kMFNNY3NuT2JpZEwzT0JxdDhENFlfT084aGdO0gHCAkFVX3lxTFAxWTR5bFk4TmhyUXRqWnJLNjdvVVlITWV0ZHd4TV9RRWdzWGttRHlmSkNuSXRvLW5wMl9zenctRmNRcjdOdHA2SEpDeUNsTFFWRzlTU1M1aXozWGNiMXVBbDdOeVBDZGw2VF9UbVo1ck9VQ1JFTUE4aDdhNDJYMVJHNXpoSWU5eV8xNGhwSlhMd0dqWWFfbVRCcVlqaHB4OWpzODNiLU4xbXVzWTJ3Z2xIZG5Qd3N6RE9SZ3h6VUR6clN0QWRxVjhJQW82MlloLXlSdFA3X1RGNUVSTVVzYjJOdGhla3JsOXBUM2ozNm5aaFFvakdUQUZJajdyWlZYaGJ5S1NYVDNDRXlrRTB3dUc0WXpKczQ3WmlIVlB1cEd0djJHNHpLN1E5TjZBTEpMeVEtOUhLVkhuRzAxTHNHemxHNlE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP’s Nainar Nagenthran and Congress’ Robert Bruce to race for Lok Sabha polls in Tirunelveli - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZHh2ajFEaUxMb2pUeFBYUE9Ia2wyaDhpQTBQTE5oZjc0czlJbHdDTjR3SUhKN3pwOVVPMmhQWGJqTTlpbjNyNF9reWdoc2xXMVVHbWJJVmdGTVZXZE5TcmJWeDllanprTTJ6a1gxTTNjV24xc3dSdGJ4UDhQOWFPZ0k3NGE0c2k5QjlaaHRFN1dIU2xJenE1MnZlT19iMWNiNmFXYzNZbGh4SFlfVTlfRE9nRDVGM0UxMnhtNTBBbU9naWF3MkdQS0wwX1J2bHNq0gHXAUFVX3lxTE1XdDNqVWNrNndXZVlud3hnNTg4QnBCZEhoRGoxWWdXa003aEFCR1JJV25GSDRKTzRCZlpZSHdScWE3SEYydFozMXZ3MUpFdEp5VDAzczJtNmpYaFAwaU9TOGdKdTRDZmYtM0s2aTI5RGRPbm1ZQzcyaXBEQmZLOW5ibHFBUEw1RGlZTkRPSnlkMW84SVNjdVZTVG5PeEtpd2thdFBVeHhQXzVjb2c4UjhDVmYxY2pkT1NRMXZLQjdiSkk3eW50OW5vakV2c0JpYVYyTFNmZ1ZF?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tirunelveli MP Robert Bruce slams railway board for assigning TN aspirants exam centres in other states - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZFBIbmJyYlRhME5lZzVkYVJBQnlfemZqQXR0ZXBmYXd5TGdILVlHNTlTbnlnU044d01EQkFwbEJOQmRXXzZPejkwUXlGQ1p6RV91YUV1LXRDZ21sVEE2UnRQNE1oTDM1cmdta0tZbVJsM1lkd29IWll4eFdyempfQ3VRWWdqd0NHMW9CUzhhb2VuUTlqVUNxNFZFOURBb1dxcWpJcHotRXpwWFhLQ25CdnVrYjVlWHhVQlVzcjhfUHp0bUk0UjNfdzU2bl9jSTd1OUNlVlZGTXg2Rm05TDdBTkYtaFA4QkV1TXVJY1VLa1l0VjREODJVYldR0gGHAkFVX3lxTE4yMU1zd0lzMnI3VXRfbmhTcHVHUHJGSExtdDdpaFA0QkdkalJIQ25vcERsa3NBTkVfMnFwVVVCTzd3Y1gyTnc0RmJKNDdPdjlLT3h6N0k3Q2ZFZGtZV1VFNkd6RC1RZmVYemtMVF9VNHdQZU5hM1RQUHdHd1otNlBha3dzOW1PbjhnOV9iS0RkR1F3Y0NJdmdmSGp4UUliU0p3b182bzF3RnFWaHo1SG1oN0dTOEFibkNMSnpLcHpJYnQzWERPYkx2NnpPcHpNemRsd0pfcVZqWEZ6a2RKMW5yalU1RlZhWGxkMTU0WEZuNEQ1Tk5yeXMyV0ppVEtNZDI0NGlVVHZN?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:35:27.523576Z",
+  "collected_at": "2026-09-02T15:06:27.878974Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +205,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.639920Z",
+        "fetched_at": "2026-09-02T18:38:10.147370Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +221,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.639929Z",
+        "fetched_at": "2026-09-02T18:38:10.147382Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +237,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.639934Z",
+        "fetched_at": "2026-09-02T18:38:10.147387Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +253,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.639939Z",
+        "fetched_at": "2026-09-02T18:38:10.147393Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +269,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.639945Z",
+        "fetched_at": "2026-09-02T18:38:10.147399Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +285,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.639949Z",
+        "fetched_at": "2026-09-02T18:38:10.147404Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +301,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.639953Z",
+        "fetched_at": "2026-09-02T18:38:10.147408Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,28 +339,28 @@
     "neutral": 8,
     "top_headlines": [
       {
-        "headline": "Tirunelveli MP Robert Bruce slams railway board for assigning TN aspirants exam centres in other states - MSN",
-        "source": "MSN",
+        "headline": "Tirunelveli MP seeks funds for desilting Radhapuram channel, irrigation tanks - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQZlJ1bVFLZzRmWC01eENYRkFCMlpPcHNfU1AyVHBNZVdrR1c5cnpPNkJSYWFLUEc1VGZWTE5leDNUbTZmWEFPU1FtcWQwRmZ4R0Uyc0w2SVdNS3BxWWljTFV5T0VxSTRZRVdJUF9BajQ5em4zZE5uckZXLTVveDV0TkEzOVdBaGktSjE1OEU2bVA0VjJKOENrNmR2b3B3a00xZHZXam9lRGwxTHFzWm5oREtjOENCSkJaSE16bWRJQ0J0X0JCbDY0VVo2Y0w4ZnFfQkJoaFRkTGJxTElobnhkUW1Bb0h1NHBpc3lsQTFvMHY4TldEbG9nXy1wb2RtcjZpWVlCMGZMMmE1c2JWSi01U0hwWEZYdVVTc1lMd1g0LUZqaUZnZmhsMGZJdGRlNDMtSzB3QXl1T3ZJT1FLcWhfcm8wR0dSckNlVTF2c1Z4eWZPMm5vTVRodWJEeWI5VHBYMzE3Y3B4U2czME05TnY3T1pyOG15c2xpblZvQg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVy0zMkkxbnI3UW5sNERrYk1VQkQtMXVtS0hKTVBrU21jNE94VGVZS1Q5a2hBZzF6WWJuM2FocFo0MzZwQ0V3R01HWFZhZXdmTG54dG4wWFdPaGNoeHcyOUZqMnpDc3F2X256UWRhMVQtNlVOWmI5NEpYUDBvbm4yVmQwdGFqU1Y1a3ZCbUNRR2o2czNZdFVSbm5LODJTQTZPanVlbHRoRjlTam1xYkJxdkdyQ2pqbm5oZ0xveFNzLTdESV9taGpLbWNSVWNkSk85NEY3ZFBPem3SAd8BQVVfeXFMTzFSWFVKVnprVmZkOHpXS2JweWZINVNrOUUtdHNWaHFlMm5laVRONG9XZDlyMjV2WWtHSXBHcVNUanFvUXZpcjdsX21OWTVtOFNsbWZxYWRoa2pCS3U3Q1ZGdm94dG5YVnFqQXdIMkd2aXlvZFFXT250SVRSWkpxSnRuYm5aMU9URE5qRWNjeEEyc2gyZ25wQU5UMkhMNWpidDVWWUtoMVFjUkxuWjZVUmdiaGhFaWM2WUN4clUzcFRxVTEwUnZJRU9ZaGZoV1cwekF0WnNpQkstT3o2eE1IZw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Congress MP seks job, solatium to victim’s kin - DT Next",
-        "source": "DT Next",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYzVRMVhWd043M2dRUGNjZUVfWGJfeGFCbDJjc1VZSmlHVTVoTW0tdDg0Uzc5WWVoZTEyaEtUQ2t5LW83WUI4NXBaTU1VNkdLOUdsTzRVS19PcWVJRmQ1WU55bk1uTVRlX2dvYmZjZC05VWk2bUxZekdZWV9IaUZZZ3htVnpmNFYw0gGWAUFVX3lxTFBhYkNuQjgtUnBSQ3NvM1Ixb0JTY2VsNlNqSVV4MVNrbXVCcGZfb3o1SFpiNXZ0QjhUbDZTaDYyanN5Vkpkc1I0enZPWXFEcjU0S3UwU1dRZ1ZhbHJjeV9QY2h1RGlCenAtUmJjQVI2dTJVNzQ4MTdxeUZtcVFPQkJ5UEdlM0hTa21vM1FBSGhpLVQ3N2hDUQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "SI suspended, three police personnel booked for opening fire on farmer in Tirunelveli - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "SI suspended, three police personnel booked for opening fire on farmer in Tirunelveli - newindianexpress.com",
+        "source": "newindianexpress.com",
         "severity": "medium",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcFY3UmprNFZKZjRtbU1FRGJtcnRKQ3Vzcndka2Jrakd5Skpma3NqaFVqRUZoS3RDX19YT0xuVXhUUGc0VjE4TzZpRjUxTDdyLWN6akRwOGN3MkdkZlFyUDBPandROVhOVXNpRXRlT192WXZ1bFBnTlJoSkE2Sm5Oc25GSElOZ0NKTndONFNRZmpEbXpvQTVKLXJaQ0M4eTFKVFVqZnN4ME1Fd0ZRTmg4NHNGNjdwNGc3YzhSZnFHVm8xakJvZjBuQjZYTTNfTG40SGVNT3hkTUo0YXJSb0FxQ9IB7gFBVV95cUxQYUlHTXdlYW9DMGFHZnYxWmZFZFE4cGt0SEZTcW5CcVNFYXV4SGd1aFNDSXZjNXhfcXp0ZXpFSDRqcnRobk5TRXdvYzNnTFlkNDA4cDE5MGpPblhpQWlGaFlMaEhiSURZbW5fZVNxSWdiUGlRb2t5MGR3LXFnUmVLWDFMZWlYUG8xc0FYUUpBUGdSdTNneTBpTjhqSTNxQkpQUHpLaXFMOGlzeXFKQXpPRGdrNHd2TE5uMEZFajUzV3ljM1NjaXBOazVSRGJHRFNCamtrU3VMSzg4aV9LVnNOazFWTTdJMEVRZkVuc1VB?oc=5",
         "sentiment": "negative"
+      },
+      {
+        "headline": "Tirunelveli election results 2024 live updates: Congress's Robert Bruce C won with over 1.65 lakh votes - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSXZHWGJkYmNoTElHQUkzZHZWclNKMXM3RWt4dVB1VUEtV0treE5JNGxTWnhPTlB6SmY2WGJ5ek14QkFoejlFRkVPLUplTVhIMmpjcDVnc0NWNk5FNjN5ZjRKMUpEd2JkS2RacEt1dmJEbzFxV1gxdXNuNHdKdi1zRWhWZG1JNktyZkFBT0F4ZmNWeGlzT01WVW1HZlBLUjlXeDh3MTg3UWF6aFRpRElzNE1NRno0N19wNmtibDItQ2N0M1JkYWNiX2R4MmU1WW5hXzFfUTdHMGg0N3ZWU243VlRaU0IxZnlZVnA0Y3lKb0dmWnNwdFQ1NDNqanRHYzdVUWoxbVdwUi1RRU9tZ1pZSjhTYl90UV9oWHNNdXltWG5kMFNNY3NuT2JpZEwzT0JxdDhENFlfT084aGdO0gHCAkFVX3lxTFAxWTR5bFk4TmhyUXRqWnJLNjdvVVlITWV0ZHd4TV9RRWdzWGttRHlmSkNuSXRvLW5wMl9zenctRmNRcjdOdHA2SEpDeUNsTFFWRzlTU1M1aXozWGNiMXVBbDdOeVBDZGw2VF9UbVo1ck9VQ1JFTUE4aDdhNDJYMVJHNXpoSWU5eV8xNGhwSlhMd0dqWWFfbVRCcVlqaHB4OWpzODNiLU4xbXVzWTJ3Z2xIZG5Qd3N6RE9SZ3h6VUR6clN0QWRxVjhJQW82MlloLXlSdFA3X1RGNUVSTVVzYjJOdGhla3JsOXBUM2ozNm5aaFFvakdUQUZJajdyWlZYaGJ5S1NYVDNDRXlrRTB3dUc0WXpKczQ3WmlIVlB1cEd0djJHNHpLN1E5TjZBTEpMeVEtOUhLVkhuRzAxTHNHemxHNlE?oc=5",
+        "sentiment": "neutral"
       },
       {
         "headline": "BJP’s Nainar Nagenthran and Congress’ Robert Bruce to race for Lok Sabha polls in Tirunelveli - The Hindu",
@@ -296,11 +371,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Tirunelveli election results 2024 live updates: Congress's Robert Bruce C won with over 1.65 lakh votes - The Times of India",
-        "source": "The Times of India",
+        "headline": "Tirunelveli MP Robert Bruce slams railway board for assigning TN aspirants exam centres in other states - newindianexpress.com",
+        "source": "newindianexpress.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSXZHWGJkYmNoTElHQUkzZHZWclNKMXM3RWt4dVB1VUEtV0treE5JNGxTWnhPTlB6SmY2WGJ5ek14QkFoejlFRkVPLUplTVhIMmpjcDVnc0NWNk5FNjN5ZjRKMUpEd2JkS2RacEt1dmJEbzFxV1gxdXNuNHdKdi1zRWhWZG1JNktyZkFBT0F4ZmNWeGlzT01WVW1HZlBLUjlXeDh3MTg3UWF6aFRpRElzNE1NRno0N19wNmtibDItQ2N0M1JkYWNiX2R4MmU1WW5hXzFfUTdHMGg0N3ZWU243VlRaU0IxZnlZVnA0Y3lKb0dmWnNwdFQ1NDNqanRHYzdVUWoxbVdwUi1RRU9tZ1pZSjhTYl90UV9oWHNNdXltWG5kMFNNY3NuT2JpZEwzT0JxdDhENFlfT084aGdO0gHCAkFVX3lxTFAxWTR5bFk4TmhyUXRqWnJLNjdvVVlITWV0ZHd4TV9RRWdzWGttRHlmSkNuSXRvLW5wMl9zenctRmNRcjdOdHA2SEpDeUNsTFFWRzlTU1M1aXozWGNiMXVBbDdOeVBDZGw2VF9UbVo1ck9VQ1JFTUE4aDdhNDJYMVJHNXpoSWU5eV8xNGhwSlhMd0dqWWFfbVRCcVlqaHB4OWpzODNiLU4xbXVzWTJ3Z2xIZG5Qd3N6RE9SZ3h6VUR6clN0QWRxVjhJQW82MlloLXlSdFA3X1RGNUVSTVVzYjJOdGhla3JsOXBUM2ozNm5aaFFvakdUQUZJajdyWlZYaGJ5S1NYVDNDRXlrRTB3dUc0WXpKczQ3WmlIVlB1cEd0djJHNHpLN1E5TjZBTEpMeVEtOUhLVkhuRzAxTHNHemxHNlE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZFBIbmJyYlRhME5lZzVkYVJBQnlfemZqQXR0ZXBmYXd5TGdILVlHNTlTbnlnU044d01EQkFwbEJOQmRXXzZPejkwUXlGQ1p6RV91YUV1LXRDZ21sVEE2UnRQNE1oTDM1cmdta0tZbVJsM1lkd29IWll4eFdyempfQ3VRWWdqd0NHMW9CUzhhb2VuUTlqVUNxNFZFOURBb1dxcWpJcHotRXpwWFhLQ25CdnVrYjVlWHhVQlVzcjhfUHp0bUk0UjNfdzU2bl9jSTd1OUNlVlZGTXg2Rm05TDdBTkYtaFA4QkV1TXVJY1VLa1l0VjREODJVYldR0gGHAkFVX3lxTE4yMU1zd0lzMnI3VXRfbmhTcHVHUHJGSExtdDdpaFA0QkdkalJIQ25vcERsa3NBTkVfMnFwVVVCTzd3Y1gyTnc0RmJKNDdPdjlLT3h6N0k3Q2ZFZGtZV1VFNkd6RC1RZmVYemtMVF9VNHdQZU5hM1RQUHdHd1otNlBha3dzOW1PbjhnOV9iS0RkR1F3Y0NJdmdmSGp4UUliU0p3b182bzF3RnFWaHo1SG1oN0dTOEFibkNMSnpLcHpJYnQzWERPYkx2NnpPcHpNemRsd0pfcVZqWEZ6a2RKMW5yalU1RlZhWGxkMTU0WEZuNEQ1Tk5yeXMyV0ppVEtNZDI0NGlVVHZN?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +409,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 12,
+    "starred_questions": 3,
+    "unstarred_questions": 9,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 22.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +425,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,16 +4,16 @@
     "constituency": "Tiruppur",
     "state": "tamil nadu",
     "party": "Communist Party of India",
-    "myneta_candidate_id": 204,
+    "myneta_candidate_id": null,
     "slug": "subbarayan-k",
     "house": "lok_sabha",
     "sansad_member_id": 4086,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 76,
+    "age": null,
     "photo_url": "/mp-photos/4086.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Tiruppur",
       "state": "tamil nadu",
       "party": "Communist Party of India",
-      "myneta_candidate_id": 204,
+      "myneta_candidate_id": null,
       "slug": "subbarayan-k",
       "house": "lok_sabha",
       "sansad_member_id": 4086,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 76,
+      "age": null,
       "photo_url": "/mp-photos/4086.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,97 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "592/2018, C2 Race Course Police Station, Coimbatore",
+          "ipc_sections": [
+            "143",
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Criminal Justice-1, Court",
+          "fir_no": "592/2018, C2 Race Course Police Station, Coimbatore",
+          "case_no": "STC No.4306/2021",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:31.420716Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 10431271.0,
-      "liabilities": 150462.0,
-      "net_worth": 10280809.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=204",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:52.815175Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 8.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.89,
-      "expended": 7.63,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:48:49.065399Z",
-          "notes": "Official eSAKSHI REST API — Works: 113 recommended, 70 sanctioned, 50 completed"
+          "fetched_at": "2026-09-02T15:10:01.887063Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:06:03.230720Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:06:03.228175Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 113,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 51.90476190476191
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 70.0,
@@ -110,7 +145,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:35:42.661958Z",
+          "fetched_at": "2026-09-02T15:06:03.227102Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +153,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "No political tie-up between DMK and BJP, says CPI MP Subbarayan - DT Next",
+        "source": "DT Next",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcktvRml6UUQ1dFpqSDRNR1JMWGFxM2hOY2kzRnlqYzA3Y0w2MWxiVGpxckc5WUduNGFQOThxQ2FkT1hpcnVjczFpTjBRV0h0TU1laF9WU1VkLXFGcDJodHZRdFlIS2NYNWFqaV9lTE1sUVhkRDFVbTRIMVJ3YmZPSEJ3ZGJ0aUVUX0tLbmxZRUNpM3RnYmxFM2tZQXhoWEk00gGuAUFVX3lxTE9HUEVsQjFaZzJScVo4WXRmQlRkYVp3eVlGS2hxR0dkcFF2ckU3cTg0Y2FpRllvd2NpRGwxUjFlVnNKMHBtdHNCLWpsWTNnenNGaVVxd1pYSDdzSEpra3hKUUF1dHFqUElRYm9OT1FlVFFvU1JWOE1XUmhTTW1wTEVEVzljOGZuUVJnTGpOc3hUOXFrRFVmOFIyVXRxb2t5ZUdDcmhhTmtJQ3RsOS1qdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rail passengers seek MP’s intervention for punctual operation of MEMU services in Erode - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc1g2YkM5Sk5pRDk2X3lENmY3MGlQcTZtaHdSWUtCX2J1aHdmTG9LMkZJVUxOREpKT2RwTFp0bnVxSGpiV1pibFJzcnN2d2RBdzFUX1pNcHNqQVFhRUxYdGhFTG42THIxbUtUX0ZDSmxrSU1Gazh5dEtmMHFmN1FrSFNLVk04UUE5TVUxTWdtZnFkR2Vxcy11LVVzdmdsRkFoYjF6Qjg0VHpzTEh4Q1hSYXVpRWhFV19HY0hFbTJLclFtaGx6TlhCZVZ0czNYQ3FLRVBnbGtOdl9weV93bjVSUzhkYzZ3bGRYMEHSAfABQVVfeXFMUHpvOTJwVlVOVl9vTjVpNnpKeFNLVXp6THhSTTZQcFdMSXd0TVBObWtxMXhXUGRJRzluZ1JDMzNua3hvQk5KUEFSNWZfcWwyWG94NVEyMlh5SEQ0YjRhMTdGcUdaemc1ajc5bHFId2E0MmhZRXY0OEFrTDhsQ25zcl8tcklRcUxHNGVuR2s2UGxBNTBKeXF0MWxiVlM1M3FWWUg0UWZBQ0J1U2YzNVVjWUdKVWltdlBKOU85aEcwUmhZRlBoU01iNV9fUFUzVHJ4WDR0TjROVXRvLXFPSFBZNGZiallsd1JyZU9EbGEzc1d1?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Centre must listen to demands of textile sector hit by US tariff hike: Tiruppur MP - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQelc0bkwxVTc4dkd3T3hDUDkxRWkxc29xbmN2Vk1rUDBSaURzVGY4R2V3Q1JVbzZDYkRQaXFPQS12bHY0d2VBamhpLWVEZ2RFRWhFSlRWNmxrZlN2RnVEdVZ3N1gyZ3ZJdm1JY2liZ3o5SWU1NjNOSFEwaEtFNUk5MVROWWxMRUljWjZ2TlVQOFBhUEFIamU3ZnphT3BaLWZCT2w5QnBWdmlsRE9XTjBXbWZuZ0NWSmllVkphU1FwN243S29EclNQZDRMUTJxSmZTUEFZQzRydDMzOEds0gHqAUFVX3lxTFBtOXJKX25LUW9CTzc5cUxGVGVQeGJ6SGxYaXA0TVdGUFd6aXNqNjk3eDFGUFAwZFczZ2tBNVpjZG1MU3FPZkl3ZFZGZGlmU1NwelVOLUJTOXBxLW1TTGMtbTA3dTdzSnpkZ3VsUTRONEtHVWVKOHh2a0gwN2tXc19Ja2RMMlBvNXh2dkxjaUoxRUN6ZFZQZHRSeTRTRjY0SlFKTkJXTEV0SEhTTzNaT1BsaEZHYktac2Q5eUh2b1FuOXVpdjNIQzRiVHZ6Q0RITDVyTU1xRTZGODdwUEw3Q2ozeTduUEF2Q0NCUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tiruppur election results 2024 live updates: CPI's Subbarayan K won with vote margin of over 1.25 lakh - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOQkI5b1B5TnI0TGNqM2JNQk8tQk5vU3VudmVXandYeDN4NXVseVdTRUFoQlFJS3BIU2MxVU9ROEs0TzFRdDBia3k5NVRPd2J2cXAxenhKZ2E1OEJsbW9BUW43T0VodXRteldYVzlWS01xRXFoTXBmVGtfWXV3NE1WbDRlU2Y2NWRGQ05ESW90dzM3T1RUYWc0cWc4eXZvMDVOaEJYbHkwaEZEUy1Vd2FxX3o2THh1NnprRV9nZlZiMG1oQnluT0dxNGhyc3B2SUtDcDBPX1dITVA3Q215RDNmaEJBZ2RhZ3FaVWt3WDg4M2xQUDdmbnZoUm1nSldDbDhnVXByTk5qN2hqb2l6dk93enBzQWFWMnpoVDhUVnB4WDUtYlcwUklxUEZaVXF0SE9HbnpXYjBPYW9UZm9YY0poNGZuVnnSAcoCQVVfeXFMTzlfMU1lZHFXYnZibkdvaGNsWnZDUHJZTnlsb2I2VHVTTG9FM3BSZDlNekJiclV2VUd0TDZQVDBzREVYTmVaeEdqX2k3Wnp3aW83Z3JQTmNoeENfTXphamt4ejNsS25PS2RZdGg4WWVLdDg5bE8xdHJUZWpvS0FPdHU0el9wVFZLY015bzYxbFc3eGVCbDF1dEluQUZUQmVZSXZqTnFUaXZlMUpiTjVzdk9PbEtiZjYxRFhkMHVXOWVsb0ZVdXNQWkttNXE3WjQ3blA4dFdwY0s3YTZsd2xMbENsbU9MMUpwcTBKRVhkWDZJd1FobXJoYllwQzlxNlRac1VURS1ZTnc5VjFIZHRqcC1feVROYkNDRkJZS05MeDBIczVoanBxa2pMNXppV19lTWdDQXd2ZTdTWjlqeHRRUlAtc0pFT3NPRGNn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Constituency watch | An articulate parliamentarian is all voters in Tiruppur Lok Sabha seat look for - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVhBQWZHa2J0cWhwUGd6bW52WVdzUGtONFFZT25LekhFWlA1OWZvOEdrblc2NzU5LWtKZDZWM21ydnpKNVVOOVhTS2NsZVNKQTVCZUk1TXJ2SW0tTzhTZG9ma0RvZEhHYm5BMjhmaGVZTXU0SjFoaVFTb1UtYXVQVGszR2JKZV9rRDVDVTJTTUFWMXJza0VraG04dFZSb1RfQzdoMmtfSFl3WEhJdWUtOVgxVEdBZTZQbE1LWlZCYXZfSXcwV2JRLXA2bmpDVzVwMGktb1VKU2NBVk9UaVVPc2dEX25xTmhmR0FzMDhpZVlmQ2h4T0HSAfwBQVVfeXFMTmVwVHFzenBwVWtZN2cwMkphMV9ncXlzcmk5bi1EalE2V0dKdkwzdk9pMjBJTXBIZ1pDSmg1SElaa0RFajJRTWR1T3dELUhpc0N3cHdRM002bHNiSlZqc25JQlB1dVNzeWZITHUyN2I1djdzNl9Lc3Q5MS1xRzRrdTY3T2dDRURQaHZDeDE3cjFVOC1zUWYwRlRzSVV2b0hYSHFCdG1KeHBUS055OWFYTUdIck4xa2NlQ25lWWVSeU1KTW1YemFzajRsRjQtT2pCeDNXUi1QTjBWRUhMS3ZSbG5NY1ZHWGVlZG8tWXZUWW1lQ2tSQnowZEhZVjQ4?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:36:01.235085Z",
+    "collected_at": "2026-09-02T15:10:01.887916Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +222,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.739652Z",
+          "fetched_at": "2026-09-02T18:38:10.255189Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +238,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.739661Z",
+          "fetched_at": "2026-09-02T18:38:10.255200Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +254,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.739667Z",
+          "fetched_at": "2026-09-02T18:38:10.255205Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +270,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.739671Z",
+          "fetched_at": "2026-09-02T18:38:10.255211Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +286,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.739676Z",
+          "fetched_at": "2026-09-02T18:38:10.255218Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +302,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.739680Z",
+          "fetched_at": "2026-09-02T18:38:10.255223Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +318,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.739685Z",
+          "fetched_at": "2026-09-02T18:38:10.255228Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,43 +356,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Centre must listen to demands of textile sector hit by US tariff hike: Tiruppur MP - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "No political tie-up between DMK and BJP, says CPI MP Subbarayan - DT Next",
+          "source": "DT Next",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcktvRml6UUQ1dFpqSDRNR1JMWGFxM2hOY2kzRnlqYzA3Y0w2MWxiVGpxckc5WUduNGFQOThxQ2FkT1hpcnVjczFpTjBRV0h0TU1laF9WU1VkLXFGcDJodHZRdFlIS2NYNWFqaV9lTE1sUVhkRDFVbTRIMVJ3YmZPSEJ3ZGJ0aUVUX0tLbmxZRUNpM3RnYmxFM2tZQXhoWEk00gGuAUFVX3lxTE9HUEVsQjFaZzJScVo4WXRmQlRkYVp3eVlGS2hxR0dkcFF2ckU3cTg0Y2FpRllvd2NpRGwxUjFlVnNKMHBtdHNCLWpsWTNnenNGaVVxd1pYSDdzSEpra3hKUUF1dHFqUElRYm9OT1FlVFFvU1JWOE1XUmhTTW1wTEVEVzljOGZuUVJnTGpOc3hUOXFrRFVmOFIyVXRxb2t5ZUdDcmhhTmtJQ3RsOS1qdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Rail passengers seek MP’s intervention for punctual operation of MEMU services in Erode - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc1g2YkM5Sk5pRDk2X3lENmY3MGlQcTZtaHdSWUtCX2J1aHdmTG9LMkZJVUxOREpKT2RwTFp0bnVxSGpiV1pibFJzcnN2d2RBdzFUX1pNcHNqQVFhRUxYdGhFTG42THIxbUtUX0ZDSmxrSU1Gazh5dEtmMHFmN1FrSFNLVk04UUE5TVUxTWdtZnFkR2Vxcy11LVVzdmdsRkFoYjF6Qjg0VHpzTEh4Q1hSYXVpRWhFV19HY0hFbTJLclFtaGx6TlhCZVZ0czNYQ3FLRVBnbGtOdl9weV93bjVSUzhkYzZ3bGRYMEHSAfABQVVfeXFMUHpvOTJwVlVOVl9vTjVpNnpKeFNLVXp6THhSTTZQcFdMSXd0TVBObWtxMXhXUGRJRzluZ1JDMzNua3hvQk5KUEFSNWZfcWwyWG94NVEyMlh5SEQ0YjRhMTdGcUdaemc1ajc5bHFId2E0MmhZRXY0OEFrTDhsQ25zcl8tcklRcUxHNGVuR2s2UGxBNTBKeXF0MWxiVlM1M3FWWUg0UWZBQ0J1U2YzNVVjWUdKVWltdlBKOU85aEcwUmhZRlBoU01iNV9fUFUzVHJ4WDR0TjROVXRvLXFPSFBZNGZiallsd1JyZU9EbGEzc1d1?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Centre must listen to demands of textile sector hit by US tariff hike: Tiruppur MP - newindianexpress.com",
+          "source": "newindianexpress.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQelc0bkwxVTc4dkd3T3hDUDkxRWkxc29xbmN2Vk1rUDBSaURzVGY4R2V3Q1JVbzZDYkRQaXFPQS12bHY0d2VBamhpLWVEZ2RFRWhFSlRWNmxrZlN2RnVEdVZ3N1gyZ3ZJdm1JY2liZ3o5SWU1NjNOSFEwaEtFNUk5MVROWWxMRUljWjZ2TlVQOFBhUEFIamU3ZnphT3BaLWZCT2w5QnBWdmlsRE9XTjBXbWZuZ0NWSmllVkphU1FwN243S29EclNQZDRMUTJxSmZTUEFZQzRydDMzOEds0gHqAUFVX3lxTFBtOXJKX25LUW9CTzc5cUxGVGVQeGJ6SGxYaXA0TVdGUFd6aXNqNjk3eDFGUFAwZFczZ2tBNVpjZG1MU3FPZkl3ZFZGZGlmU1NwelVOLUJTOXBxLW1TTGMtbTA3dTdzSnpkZ3VsUTRONEtHVWVKOHh2a0gwN2tXc19Ja2RMMlBvNXh2dkxjaUoxRUN6ZFZQZHRSeTRTRjY0SlFKTkJXTEV0SEhTTzNaT1BsaEZHYktac2Q5eUh2b1FuOXVpdjNIQzRiVHZ6Q0RITDVyTU1xRTZGODdwUEw3Q2ozeTduUEF2Q0NCUQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Renaming of MGNREGA a deplorable act, says CPI MP K. Subbarayan - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMjBwZUJ6QjZmbFdvRml5UVMtWnpKU1pXLXVhNFlWbzF2elk2dlJsQzlLR0UtYVB1cUgxeVVvZ0l2OHduLUNVSkpQRHZWYUNVT0FiWkdUQUQtekhndXV3ekJHRXlJUzZtM1MyandzbmNyU1ItZkFVN0MtNFQ5ejc0ZGh4Y2RQRkw3clNSZVNudzE5NUNaZkhJekxkckowUHZGd3NycFp5RlAxd0Zpd0xXRjQ1VjlYYVItQVVtOUFIcGFleDlTTTNCZdIBzwFBVV95cUxPa05aMEl5YndpTVFIa1AtUTFSV25pWUZnQ3hwWHZ0aDNTdTl6YXVQZWx6SXV1M2I1T0hHTlA5aWpNRkJieWJPNjlEbXp1RzJUZzN4aS1PLTdpTjhqU3V1NnpRQmhmUGROUUJjZHFmeXVCTUF2OWhwa0RaVzZITGN2MW9aU3BWQjRPa290TEJLU3RTNm4zdkFvRzFnSmZCOEVEOGstRURhbnBWYjg4SXRiRm9WTGotNVNUNDBxR3hhTUpkMm1HeUphdzJ5LW1oOEk?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Tiruppur Tamil Nadu Communist Party Of India - The Times of India",
+          "headline": "Tiruppur election results 2024 live updates: CPI's Subbarayan K won with vote margin of over 1.25 lakh - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckg5dlF0c09ieE56UWxfOV9YbXEtVWwtdEdUOUhxSVcwWjBZbDBtdk9FRFhoYjItRmpXcFJSbWNhRWhaaVdpMl8yZGJvZTZ3aFJub2JRaC1FekFucGxFSnBKd3V2WjdaemxBdDloR3ZiZE5wTTNYNjVBeEpSaExYQ1dhRXo2bXFDNWdHVnBrWVhDZGxvRFV1RjRqQ0ZwTEk0NE9ua0ppc3Q5QndOSXQtMjJVcjBRbDN2?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOQkI5b1B5TnI0TGNqM2JNQk8tQk5vU3VudmVXandYeDN4NXVseVdTRUFoQlFJS3BIU2MxVU9ROEs0TzFRdDBia3k5NVRPd2J2cXAxenhKZ2E1OEJsbW9BUW43T0VodXRteldYVzlWS01xRXFoTXBmVGtfWXV3NE1WbDRlU2Y2NWRGQ05ESW90dzM3T1RUYWc0cWc4eXZvMDVOaEJYbHkwaEZEUy1Vd2FxX3o2THh1NnprRV9nZlZiMG1oQnluT0dxNGhyc3B2SUtDcDBPX1dITVA3Q215RDNmaEJBZ2RhZ3FaVWt3WDg4M2xQUDdmbnZoUm1nSldDbDhnVXByTk5qN2hqb2l6dk93enBzQWFWMnpoVDhUVnB4WDUtYlcwUklxUEZaVXF0SE9HbnpXYjBPYW9UZm9YY0poNGZuVnnSAcoCQVVfeXFMTzlfMU1lZHFXYnZibkdvaGNsWnZDUHJZTnlsb2I2VHVTTG9FM3BSZDlNekJiclV2VUd0TDZQVDBzREVYTmVaeEdqX2k3Wnp3aW83Z3JQTmNoeENfTXphamt4ejNsS25PS2RZdGg4WWVLdDg5bE8xdHJUZWpvS0FPdHU0el9wVFZLY015bzYxbFc3eGVCbDF1dEluQUZUQmVZSXZqTnFUaXZlMUpiTjVzdk9PbEtiZjYxRFhkMHVXOWVsb0ZVdXNQWkttNXE3WjQ3blA4dFdwY0s3YTZsd2xMbENsbU9MMUpwcTBKRVhkWDZJd1FobXJoYllwQzlxNlRac1VURS1ZTnc5VjFIZHRqcC1feVROYkNDRkJZS05MeDBIczVoanBxa2pMNXppV19lTWdDQXd2ZTdTWjlqeHRRUlAtc0pFT3NPRGNn?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "MP Subbarayan urges solution for Tirupur's garbage problem - DT Next",
-          "source": "DT Next",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSmhfSmxQTDN6NlltMTJYdERlTUxOR09QbmwxWDBaU25CNDBjOGhoelFJYmlQMkU2MDJUZ3pQaXVwa083SjVWMWRWZm5kdUlKU3E3QWhpanZQd2dpX0FOYVc2MnVXbzZlZnM3Q0gxQjdnSVYwNzNlRF83MmJOT1pNVXJXX3ZscUQzUHJhOC15YTVJWUpMSTE5dXUwS1lvQVlfQWV30gGwAUFVX3lxTFBXUkdmc2ZmQ2lxMmVHYjFfM2pmTFk3eEEwMWZpNnV0eEFKYVVCbktxS0plVzFqS1h6QjNsR0R1aHZObEhzVVdaSnJqLWd2c1NnX2FGSm1kWE1ITEZYTEZzYWZ4QUdtRldtVHpjRjFMQTRYNFd2akVWdndhX1Q3RXdSRGRKZHJ5Q2JtNFZKUUI0Z1dCRWV6R1pCaDNxM2NIR3UxR1duLWJ1OWRrUHY4eFoz?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Tamil Nadu election results 2024| Sitting MP of CPI K. Subbarayan emerges victorious in Tiruppur Lok Sabha seat - The Hindu",
+          "headline": "Constituency watch | An articulate parliamentarian is all voters in Tiruppur Lok Sabha seat look for - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQkZuanQ2YmJzYkk2Q2x1VjFac0lqOXdoMlFhcVNFM3k4a0NxMmxnUG5ibzBET0dFLUw3ck91aklSZ0l4R0xNOVM0dGJfb0FJdXN4VVpPdTR4ZkJBMjBLUHdBa2FJSlJFRFQ4NklRYzM3clpPeTIyVWFPSWo1NlUzZTdaZGt4NHN0aXBKdGxPN1hkRlZUS3FLUi1peXJDYnZhYVQySlhLekxpNmgzM2tnQ19KOXl3UnJ4MVdfZ1Q0R2lIWm0xTm9kcldNMXZOUGExdzFNaUNDcU5lSmVD0gHjAUFVX3lxTE1CUHFzM0NrU0xQR2NEckFLY055a1NwZGx4MjlCa2hXcHhmZlhwdW85cFZHcE12dTlCbU5PREdGTzFrQ2s0UzNReHI3WmZ1bjRJLThNZjlOaTVVRzhEbkprVEJZdUhIUjJZTE8wWmVRZGJPelJUaUl6Zi1qRnZRUFd2WHlnNG9sdkdKSVF6eF9KSkg5UDI1ZGlTMmJVMDg1aTdGYnZEMnEwdjF6blVYQnBDRmhma2JPRE9teDFqQno4OVl0VjM4V1RhdDN0Q3J6U3BUbER4VVYzLWR0ODU3akJMVVJN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVhBQWZHa2J0cWhwUGd6bW52WVdzUGtONFFZT25LekhFWlA1OWZvOEdrblc2NzU5LWtKZDZWM21ydnpKNVVOOVhTS2NsZVNKQTVCZUk1TXJ2SW0tTzhTZG9ma0RvZEhHYm5BMjhmaGVZTXU0SjFoaVFTb1UtYXVQVGszR2JKZV9rRDVDVTJTTUFWMXJza0VraG04dFZSb1RfQzdoMmtfSFl3WEhJdWUtOVgxVEdBZTZQbE1LWlZCYXZfSXcwV2JRLXA2bmpDVzVwMGktb1VKU2NBVk9UaVVPc2dEX25xTmhmR0FzMDhpZVlmQ2h4T0HSAfwBQVVfeXFMTmVwVHFzenBwVWtZN2cwMkphMV9ncXlzcmk5bi1EalE2V0dKdkwzdk9pMjBJTXBIZ1pDSmg1SElaa0RFajJRTWR1T3dELUhpc0N3cHdRM002bHNiSlZqc25JQlB1dVNzeWZITHUyN2I1djdzNl9Lc3Q5MS1xRzRrdTY3T2dDRURQaHZDeDE3cjFVOC1zUWYwRlRzSVV2b0hYSHFCdG1KeHBUS055OWFYTUdIck4xa2NlQ25lWWVSeU1KTW1YemFzajRsRjQtT2pCeDNXUi1QTjBWRUhMS3ZSbG5NY1ZHWGVlZG8tWXZUWW1lQ2tSQnowZEhZVjQ4?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +426,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 41,
+      "starred_questions": 12,
+      "unstarred_questions": 29,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 79.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +442,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 70.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +473,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +500,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 10,431,271. MPLADS utilization: 51.9%. Parliament attendance: 70.0%. Questions asked: 41. Debates participated: 9.",
-  "validated_at": "2026-09-02T01:36:52.740421Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 70.0%. Questions asked: 41. Debates participated: 9. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.255915Z"
 }

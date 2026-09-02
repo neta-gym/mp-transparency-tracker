@@ -4,17 +4,17 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.0 / 100
+## Composite Transparency Score: 48.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 21.0 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.36 Crore
-- **Liabilities:** Rs 6.00 Lakh
-- **Net Worth:** Rs 7.30 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 50% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 6
-- **Expended:** Rs 4
-- **Utilization Rate:** 26.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,34 +68,48 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (6 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 6
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 6
 
-- Narayan Das Ahirwar - The Times of India (The Times of India) [neutral]
-- Political Profile of Narayan Das Ahirwar, Sp Party, Jalaun, and Net Worth - India TV News (India TV News) [neutral]
-- Narayan Das Ahirwar , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
-- Jalaun lok sabha election results 2024: Jalaun Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Jalaun Election Results 2024: SP's Narayan Das Ahirwar won with over 5 lakh votes - The Times of India (The Times of India) [neutral]
 - Jalaun Election Result 2024 LIVE Updates Highlights: Narayan Das Ahirwar of SP Wins - News18 (News18) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - A - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Jalaun lok sabha election results 2024: Jalaun Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Bundelkhand’s ground water levels are ‘safe,’ says water body - Mongabay India (Mongabay India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Jalaun Election Results 2024: SP's Narayan Das Ahirwar won with over 5 lakh votes - The Times of India** (The Times of India)
+- ! **Jalaun Election Result 2024 LIVE Updates Highlights: Narayan Das Ahirwar of SP Wins - News18** (News18)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - A - Sarkaritel.com** (Sarkaritel.com)
+- ! **Jalaun lok sabha election results 2024: Jalaun Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Bundelkhand’s ground water levels are ‘safe,’ says water body - Mongabay India** (Mongabay India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Narayandas Ahirwar shows moderate transparency with a score of 58.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Narayandas Ahirwar has a below-average transparency score of 48.5/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 73,603,801. MPLADS utilization: 26.3%. Parliament attendance: 100.0%. Debates participated: 6.
+No criminal cases declared. Parliament attendance: 100.0%. Debates participated: 6. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -136,7 +149,7 @@ No criminal cases declared. Declared assets: Rs 73,603,801. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -215,8 +228,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Narayandas Ahirwar's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 26.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -234,10 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

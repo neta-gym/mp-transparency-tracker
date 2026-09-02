@@ -4,146 +4,228 @@
     "constituency": "Rampur",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 902,
+    "myneta_candidate_id": null,
     "slug": "mohibbullah",
     "house": "lok_sabha",
     "sansad_member_id": 5633,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
-    "profession": "Agriculture",
-    "age": 48,
+    "education": null,
+    "profession": null,
+    "age": null,
     "photo_url": "/mp-photos/5633.jpg"
   },
   "criminal_record": {
-    "total_cases": 4,
+    "total_cases": 3,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 4,
+    "pending_cases": 3,
     "disposed_cases": 0,
     "cases": [
       {
-        "description": "Details and present status of appeal",
-        "ipc_sections": [],
+        "description": "Police Station Sadar Bazar Agra | Section 3/4 D.P. Act",
+        "ipc_sections": [
+          "498A",
+          "323",
+          "504",
+          "506"
+        ],
         "is_serious": false,
         "is_convicted": false,
-        "status": "unknown",
-        "court": ""
+        "status": "pending",
+        "court": "7th ACJM Agra",
+        "fir_no": "Police Station Sadar Bazar Agra",
+        "case_no": "4871/15",
+        "other_acts": "Section 3/4 D.P. Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
       },
       {
-        "description": "",
+        "description": "Police Station Sadar Bazar Agra | Under Section 127",
         "ipc_sections": [],
         "is_serious": false,
         "is_convicted": false,
-        "status": "unknown",
-        "court": ""
+        "status": "pending",
+        "court": "Court No-II Family Court Agra",
+        "fir_no": "Police Station Sadar Bazar Agra",
+        "case_no": "2448/19",
+        "other_acts": "Under Section 127",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
       },
       {
-        "description": "",
+        "description": "Police Station Sadar Bazar Agra | Section 12 D.V. Act",
         "ipc_sections": [],
         "is_serious": false,
         "is_convicted": false,
-        "status": "unknown",
-        "court": ""
-      },
-      {
-        "description": "",
-        "ipc_sections": [],
-        "is_serious": false,
-        "is_convicted": false,
-        "status": "unknown",
-        "court": ""
+        "status": "pending",
+        "court": "Civil Judge (JD) FTC Agra",
+        "fir_no": "Police Station Sadar Bazar Agra",
+        "case_no": "1025/17",
+        "other_acts": "Section 12 D.V. Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
       }
     ],
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=902",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-05-23T18:19:07.452964Z",
+        "fetched_at": "2026-09-02T15:37:03.390534Z",
         "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
-    "movable_assets": 1005342.06,
-    "immovable_assets": 3500000.0,
-    "total_assets": 4505342.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
     "liabilities": null,
     "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=902",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-05-23T18:19:07.465276Z",
-        "notes": "MyNeta candidate affidavit data"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 4.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.89,
-    "expended": 5.73,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T18:22:33.570401Z",
-        "notes": "Official eSAKSHI REST API — Works: 335 recommended, 232 sanctioned, 95 completed"
+        "fetched_at": "2026-09-02T17:49:04.200403Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:44:58.548520Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:44:58.545683Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 335,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 38.9795918367347
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
-    "attendance_percentage": null,
-    "questions_asked": 0,
-    "debates_participated": 0,
+    "attendance_percentage": 100.0,
+    "questions_asked": 1,
+    "debates_participated": 3,
     "private_bills_introduced": 0,
     "is_minister": false,
     "source": "prs",
-    "confidence": 0.0,
-    "sources": [],
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+        "source_name": "prs_github_csv",
+        "grade": "C",
+        "fetched_at": "2026-09-02T17:44:58.544637Z",
+        "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+      }
+    ],
     "focus_topics": [],
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "RAMPUR, UTTAR PRADESH : SP MP MOHIBBULLAH NADVI VISITS JAUHAR UNIVERSITY, SLAMS DEMOLITION ORDER AFTER BEING DENIED ENTRY | VISUALS & BITE - Press Trust of India",
+      "source": "Press Trust of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQa2RSWVhRcGNueEZvY3hKMmVCNHhfdzlMeGRIQlZINXoxYmVTdEo1d0xjV3hjMnZROHdCVW8wZGNPdHN6NG5DRHAtdnNxbU9ocWthdWE3aXVMbkhGbTk5R3VfbGI5b0JjVnN2ZXIwc1dteXlQbXVVUlFWSmpzcnVXdTZRWG9SYlF6TjlDdUF5UDdDQjl0OEhkUC1HSjVMMV9tUDFlcTVCdHBZRGJjSDRHNnE1TVJpSV9ZWHFoLUFJai1jcmhrRC1lNVhhc1dqV0NnY0djLWZPX3pjYUJVb1RmaWwxREZ1OXBlRkgzWWQ2eTVGZ2djOGNtLUNXV19iZU54NWRHS1drNjAwWXVpZXc4NW1B?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP slams SP MP for saying that Muslims may have to wage ‘jihad’ to fight government oppression - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNblRfNXI5WGxWdDN2QjVDT0NqVEFydFpGUWtBc3NHWTE5Wk9DQi0xRHFZME03SThCeW1PNzVrakowcy1QYnQ3bkViWGUtY1l5bGFwWUpxN0NhSVlRblBtYnVRcklibnlwTGhCMWUzUHZIYXl4T2l4RzZ0b1ZiTVM2d2tJNzYyWUhyczQ3MzNmNFh0eDZmS21yZ3plMk9VQ21HaThUenFFTlh2aUtVQ2tuODZEMy1sMGd4a2hkTFJKSG1oT2ZCcFFrQUxsRXkybnZvZ2d2MWxLWEd1RzZ6TU9Val9jVThzODjSAe4BQVVfeXFMUDJJa2VzVi1LMzZsLS1TYmg3RnRSdG0tYVJBUHAxVVktSTNxWFRQU0tpN1ZsTlBOU0Y4akZRdFotcnl5SWxNd3FPS20yazdhVzVHRjNqRWc1bEdtNUVwSnU4RGdIUHROemZNMHVOWU53SFlfMWFwOFVDdXI3VW5EM3BaamJrdnplamxhRU5UZzZhbi1NcndWcVl1cEVGNmI0WkJfVVJPZkNGNGJqSFRDS0p2bHIwaUdMdVE2eWlXQ1FERVFDZDNBRW1XdFk2TEZmTDFrZm1zOWVJT2dZczEyeU1salJ3V0pkY0E2M3BaUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Pay Rs 30,000 A Month As Maintenance To 4th Wife: Court To Samajwadi Party MP - ndtv.com",
+      "source": "ndtv.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHFIMzhXOHBXZUg0bFVURk5FQ0hQRDhzZlF1YTNmRFBjV2dWVEdPLUZINEdrdUVfSHpmNHV1WWFkTWIyTk1RcElqZHdMb2JYS2NSR2h5UGVFc3JtX1JLeThDY2duSTB1dlJRNmdvaW5FR3BpTGVjZDRhTm5aSE1weHJyR2lnTUNVTmctb2hqQkdta09UNDV0ZWFiLXVoZUtYY1pNdzNWZjc4RjYwOUtoR1A4VnVxSmfSAb8BQVVfeXFMTUhLZHRTOWRFNXlPMXMyNThGTjgyd0xfVUJISkRfa3FRTmhJakoySU5hQ2N6R2NzTUc0WEloN3lNQlRLZ0VqQVlkVEFNUVJzQ2VmclVXR2xqNjBZb1FrODFEVXQ5YTJnT2gwSWhLOHl2NkR2LV8xTjM3SjE0SU50emttSlBwWS03OHJUd2hsTU9hQ1NoOFNPT25vWEEtcGROWEE1N1NuSGlpY01QaXdrdTJmYjZkeC1OdDhKNUpaTk0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Allahabad HC orders Rampur-MP-Nadvi to pay ₹30,000 monthly to 4th-wife: Directs settlement within 3 months ... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWDU2RHhjVDAtLXM5eExvYXRvSXFUQkQyNFZpWl9lZU5DN2NSMzk2MGV2M3luUUZ6bHBITEMzWnE2blZWeDRvSlI4WFVRUldtSHdGTjdNbzh4R182ck4tOWFIUy1xS0VfbDRtYzZaX214aFRVM3lwTi05MjMtQVR2RzBEWGxIQU8tSEpXT1F3bVF1d1lVcU8xYURRdzZyU09zYWFjSGR0VHlZOUNOWXVwMzRRX2x2d3RvckFwNUdtRGlMN1AxMUFrQUdHbzhYdGVrTVJsYUNSai1zcmdlamtoMF9hMERnZ1NLWjdTMjZna01NRnloX0FQb2lIZ05qcTNTZnpYYdIBigJBVV95cUxOaHN3Mld2bE8yOEM1UWp1N09xalh6U3YxSTZBazZfU3dYcWlZUS1pZ2pFR3RacnZjaWtMQTQtRWgwb3ZYM2lHRkt0UjdPU3pSYXZYaUdpV18teUp5LTNjS2UtMFFBbkdMekN5ZXNRUlktVTNBMXhYV1FqMW1MLW5aaGpmY2szcnhXYlUtQ0RLWS1BdExSUlh2Zk8wQ2tnR1V1Z1VYRExBeW12c0xndEs2cVBhak9kYTdyVi1wb0lVdGhjd2o0M3JJRi1PT1Z6bl9QLVNBOGE3MnJsZzNqbUp1ZmF3MHptODFrT1BaSVVVWGhoSXlpS3VVZHJ0TUQyQW1UWXFwZXlWT1VBZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "The Maulana Who Defeated the BJP in Uttar Pradeshs Rampur - TheWire.in",
+      "source": "TheWire.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ2pWYWQya2h1dnVDdEhrbzJkY1k4Y09LR0dhbG9xZ0JOdDJFaC03dk40QmplVHR1VFdlcVE3Y2pNMkVBX3Z0SEFVeDQxV1NXV1RwYy1TRU8zOTZTeHVIaUhxcXRrYjEtc3UtNE1TZ1Z3amR5ZTRDV0RaQ0JjbGw3Z9IBhgFBVV95cUxOcUcyRG5ON25Ba1AyQzJYbmJNb095LVlwUkpEek12SkVYYzJsZmdmQmgtM0FHemNuRDdDb0l2d2YweHlCLTA5ckktcGZ3WmtYWHFzazYxbk9XQzl5TnV0UVlOWGxwaXdONG1aMW5MWE9BZUhmSm44aDUtcnBRa2UyX3ZlLWd2QQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
-    "myneta",
-    "mplads"
+    "prs",
+    "social_media",
+    "news",
+    "cag"
   ],
-  "collected_at": "2026-05-23T18:19:07.472023Z",
+  "collected_at": "2026-09-02T17:49:04.201885Z",
   "evidence_summary": {
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "parliament": "C",
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -158,7 +240,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.807328Z",
+        "fetched_at": "2026-09-02T18:38:11.373582Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -174,7 +256,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.807337Z",
+        "fetched_at": "2026-09-02T18:38:11.373593Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -190,7 +272,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.807343Z",
+        "fetched_at": "2026-09-02T18:38:11.373598Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -206,7 +288,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.807348Z",
+        "fetched_at": "2026-09-02T18:38:11.373604Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -222,7 +304,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.807354Z",
+        "fetched_at": "2026-09-02T18:38:11.373608Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -238,7 +320,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.807360Z",
+        "fetched_at": "2026-09-02T18:38:11.373614Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -254,7 +336,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.807365Z",
+        "fetched_at": "2026-09-02T18:38:11.373619Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -270,12 +352,22 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.807369Z",
+        "fetched_at": "2026-09-02T18:38:11.373623Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
   ],
-  "compensation": null,
+  "compensation": {
+    "salary_per_month": 100000.0,
+    "constituency_allowance_per_month": 70000.0,
+    "office_expense_allowance_per_month": 60000.0,
+    "sumptuary_allowance_per_month": 15000.0,
+    "total_monthly": 245000.0,
+    "total_annual": 2940000.0,
+    "effective_from": "2018-04-01",
+    "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+    "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+  },
   "sagy": [],
   "committees": {
     "memberships": [],
@@ -288,17 +380,58 @@
     "profiles": [],
     "total_platforms": 0,
     "total_followers": 0,
-    "confidence": 0.0,
+    "confidence": 0.2,
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 0,
+    "total_articles": 10,
     "positive": 0,
     "negative": 0,
-    "neutral": 0,
-    "top_headlines": [],
-    "sentiment_summary": "",
-    "confidence": 0.0
+    "neutral": 10,
+    "top_headlines": [
+      {
+        "headline": "RAMPUR, UTTAR PRADESH : SP MP MOHIBBULLAH NADVI VISITS JAUHAR UNIVERSITY, SLAMS DEMOLITION ORDER AFTER BEING DENIED ENTRY | VISUALS & BITE - Press Trust of India",
+        "source": "Press Trust of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQa2RSWVhRcGNueEZvY3hKMmVCNHhfdzlMeGRIQlZINXoxYmVTdEo1d0xjV3hjMnZROHdCVW8wZGNPdHN6NG5DRHAtdnNxbU9ocWthdWE3aXVMbkhGbTk5R3VfbGI5b0JjVnN2ZXIwc1dteXlQbXVVUlFWSmpzcnVXdTZRWG9SYlF6TjlDdUF5UDdDQjl0OEhkUC1HSjVMMV9tUDFlcTVCdHBZRGJjSDRHNnE1TVJpSV9ZWHFoLUFJai1jcmhrRC1lNVhhc1dqV0NnY0djLWZPX3pjYUJVb1RmaWwxREZ1OXBlRkgzWWQ2eTVGZ2djOGNtLUNXV19iZU54NWRHS1drNjAwWXVpZXc4NW1B?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP slams SP MP for saying that Muslims may have to wage ‘jihad’ to fight government oppression - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNblRfNXI5WGxWdDN2QjVDT0NqVEFydFpGUWtBc3NHWTE5Wk9DQi0xRHFZME03SThCeW1PNzVrakowcy1QYnQ3bkViWGUtY1l5bGFwWUpxN0NhSVlRblBtYnVRcklibnlwTGhCMWUzUHZIYXl4T2l4RzZ0b1ZiTVM2d2tJNzYyWUhyczQ3MzNmNFh0eDZmS21yZ3plMk9VQ21HaThUenFFTlh2aUtVQ2tuODZEMy1sMGd4a2hkTFJKSG1oT2ZCcFFrQUxsRXkybnZvZ2d2MWxLWEd1RzZ6TU9Val9jVThzODjSAe4BQVVfeXFMUDJJa2VzVi1LMzZsLS1TYmg3RnRSdG0tYVJBUHAxVVktSTNxWFRQU0tpN1ZsTlBOU0Y4akZRdFotcnl5SWxNd3FPS20yazdhVzVHRjNqRWc1bEdtNUVwSnU4RGdIUHROemZNMHVOWU53SFlfMWFwOFVDdXI3VW5EM3BaamJrdnplamxhRU5UZzZhbi1NcndWcVl1cEVGNmI0WkJfVVJPZkNGNGJqSFRDS0p2bHIwaUdMdVE2eWlXQ1FERVFDZDNBRW1XdFk2TEZmTDFrZm1zOWVJT2dZczEyeU1salJ3V0pkY0E2M3BaUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Pay Rs 30,000 A Month As Maintenance To 4th Wife: Court To Samajwadi Party MP - ndtv.com",
+        "source": "ndtv.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHFIMzhXOHBXZUg0bFVURk5FQ0hQRDhzZlF1YTNmRFBjV2dWVEdPLUZINEdrdUVfSHpmNHV1WWFkTWIyTk1RcElqZHdMb2JYS2NSR2h5UGVFc3JtX1JLeThDY2duSTB1dlJRNmdvaW5FR3BpTGVjZDRhTm5aSE1weHJyR2lnTUNVTmctb2hqQkdta09UNDV0ZWFiLXVoZUtYY1pNdzNWZjc4RjYwOUtoR1A4VnVxSmfSAb8BQVVfeXFMTUhLZHRTOWRFNXlPMXMyNThGTjgyd0xfVUJISkRfa3FRTmhJakoySU5hQ2N6R2NzTUc0WEloN3lNQlRLZ0VqQVlkVEFNUVJzQ2VmclVXR2xqNjBZb1FrODFEVXQ5YTJnT2gwSWhLOHl2NkR2LV8xTjM3SjE0SU50emttSlBwWS03OHJUd2hsTU9hQ1NoOFNPT25vWEEtcGROWEE1N1NuSGlpY01QaXdrdTJmYjZkeC1OdDhKNUpaTk0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Allahabad HC orders Rampur-MP-Nadvi to pay ₹30,000 monthly to 4th-wife: Directs settlement within 3 months ... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWDU2RHhjVDAtLXM5eExvYXRvSXFUQkQyNFZpWl9lZU5DN2NSMzk2MGV2M3luUUZ6bHBITEMzWnE2blZWeDRvSlI4WFVRUldtSHdGTjdNbzh4R182ck4tOWFIUy1xS0VfbDRtYzZaX214aFRVM3lwTi05MjMtQVR2RzBEWGxIQU8tSEpXT1F3bVF1d1lVcU8xYURRdzZyU09zYWFjSGR0VHlZOUNOWXVwMzRRX2x2d3RvckFwNUdtRGlMN1AxMUFrQUdHbzhYdGVrTVJsYUNSai1zcmdlamtoMF9hMERnZ1NLWjdTMjZna01NRnloX0FQb2lIZ05qcTNTZnpYYdIBigJBVV95cUxOaHN3Mld2bE8yOEM1UWp1N09xalh6U3YxSTZBazZfU3dYcWlZUS1pZ2pFR3RacnZjaWtMQTQtRWgwb3ZYM2lHRkt0UjdPU3pSYXZYaUdpV18teUp5LTNjS2UtMFFBbkdMekN5ZXNRUlktVTNBMXhYV1FqMW1MLW5aaGpmY2szcnhXYlUtQ0RLWS1BdExSUlh2Zk8wQ2tnR1V1Z1VYRExBeW12c0xndEs2cVBhak9kYTdyVi1wb0lVdGhjd2o0M3JJRi1PT1Z6bl9QLVNBOGE3MnJsZzNqbUp1ZmF3MHptODFrT1BaSVVVWGhoSXlpS3VVZHJ0TUQyQW1UWXFwZXlWT1VBZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "The Maulana Who Defeated the BJP in Uttar Pradeshs Rampur - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ2pWYWQya2h1dnVDdEhrbzJkY1k4Y09LR0dhbG9xZ0JOdDJFaC03dk40QmplVHR1VFdlcVE3Y2pNMkVBX3Z0SEFVeDQxV1NXV1RwYy1TRU8zOTZTeHVIaUhxcXRrYjEtc3UtNE1TZ1Z3amR5ZTRDV0RaQ0JjbGw3Z9IBhgFBVV95cUxOcUcyRG5ON25Ba1AyQzJYbmJNb095LVlwUkpEek12SkVYYzJsZmdmQmgtM0FHemNuRDdDb0l2d2YweHlCLTA5ckktcGZ3WmtYWHFzazYxbk9XQzl5TnV0UVlOWGxwaXdONG1aMW5MWE9BZUhmSm44aDUtcnBRa2UyX3ZlLWd2QQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "confidence": 0.5
   },
   "legislative": {
     "bills_introduced": 0,
@@ -327,15 +460,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
+    "total_questions": 1,
     "starred_questions": 0,
-    "unstarred_questions": 0,
+    "unstarred_questions": 1,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 1.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -343,17 +476,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,16 +4,16 @@
     "constituency": "Purvi Champaran",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7856,
+    "myneta_candidate_id": null,
     "slug": "radha-mohan-singh",
     "house": "lok_sabha",
     "sansad_member_id": 451,
     "profile_url": null,
     "canonical_name": "Radha Mohan Singh",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 74,
+    "age": null,
     "photo_url": "/mp-photos/451.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Purvi Champaran",
       "state": "bihar",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 7856,
+      "myneta_candidate_id": null,
       "slug": "radha-mohan-singh",
       "house": "lok_sabha",
       "sansad_member_id": 451,
       "profile_url": null,
       "canonical_name": "Radha Mohan Singh",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 74,
+      "age": null,
       "photo_url": "/mp-photos/451.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,116 @@
       "convictions": 0,
       "pending_cases": 2,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "229/2014, Police Station Turkauliya East Champaran",
+          "ipc_sections": [
+            "171F",
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Archna Kumari Judicial Magistrate First Class, Motihari",
+          "fir_no": "229/2014, Police Station Turkauliya East Champaran",
+          "case_no": "CC No. 1122/2024",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "Application No.07/1996",
+          "ipc_sections": [
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Additional Chief Judicial Magistrate 1st , Motihari",
+          "fir_no": "Application No.07/1996",
+          "case_no": "",
+          "other_acts": "",
+          "charges_framed": "Yes",
+          "date_charges_framed": "15 Jun 2022",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:22.875329Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 42965416.0,
-      "liabilities": 2941310.0,
-      "net_worth": 40024106.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7856",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.174862Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 34.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.13,
-      "expended": 6.01,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:20:50.827849Z",
-          "notes": "Official eSAKSHI REST API — Works: 103 recommended, 81 sanctioned, 57 completed"
+          "fetched_at": "2026-09-02T15:08:11.764206Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:04:03.033302Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:04:03.031345Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 103,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 40.8843537414966
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +164,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:22.773790Z",
+          "fetched_at": "2026-09-02T15:04:03.030511Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +172,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "CM announces medical college, sugar mills for East Champaran - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2ZkX0lDVEVsc3dlT3ZrckJ4Y2hiMzNUQWxTN1J1X0FDYlVxOUpFU2hBNE5nNHFpdXAteHA3bU8yNHFnNko5Z0NSSjdIT0JGZjZidnIxVkMzTWZQWFFlcGFTeUVCTnQ1akVMYjhCQTd6aV9OeE1hOVlZZS0zZkdJRHRibXltUFZUc3lCTlBZVlA5RkJWRFdxc3RjTk80dGJnOWZOa2hxSlVmMlYzdWZGTmo0RzRBejZSV3Z3V3duNTkwcWloT0VpdmdfNDLSAdIBQVVfeXFMT00zN2lXWUxRZjA5UWFBeUVFTFJxVUZmNXcyUlFjTmpRS0EzbjdFZUlHTTIzWXQ1LWxfT1JmRC1sWXhGRVplTlZFdndqMFZZUERZVE1feGlEbmtVOE1Cd0poQk0wdXNsWGhfRG5uMmVXNDFhZjJ5OS1lTzl2R3JvcWs0bzNEd21GV01ULTI4Qm9UcEJ4RDhJOGdSWlFCcHJhRld6ZzRxa2xtVkZueEMweW9mUVRmTEdrSXpHaXIxQ0Y0OTVFbW9mTTFzYjM2N1VMM3hB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Radha Mohan Singh Latest News, Updates in Hindi | राधा मोहन सिंह के समाचार और अपडेट - Aaj Tak News",
+        "source": "Aaj Tak News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fN2cybnhoMmJXdkVBVU1jNHpXUC0zUkN1c2tidUViVDJ5T1BUMGRDajZpeUMySm9uUXAxUVBYVHNzcUpTbHMybm9PeEpXaUFNWC1ic3BqU1E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha elections: Advantage Radha Mohan in East Champaran again - Business Standard",
+        "source": "Business Standard",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPazRxMTJ1Z21UNkM4Wk9YX2xERnVHc3FKLTM3RnZUbU9UQXlyazExWDNzV0FNNUxRaW80MEp4UENxWnZzQks0ZkJReldsRGVVSkhsWl9mUTNhODhwdmZpVlpDOHpJUE1CZzNEdEdlUlNaZmVvanE3MmJDTjBGc3B4Ylk4dmtqbGM4Z1VHeEE1ZHBjSWpnY05UN25SRmpWOTBxWjV3UUlZSE53Xzdac2J2TnhCTGRaenhfeEo4LXlwV0VlYVp5S2dZamEzTk96Nl9kQVVN0gHYAUFVX3lxTFBFSVNFbzBRMTVrOXJjYjQ5YnA1NmV0WUpBb3A4N2lPRHBLM2RkbFhta3kydU03Z3ZfcUFhQThuTkU1T2hDNGRtTnVUSlNxNVRoVTQzVUxpV3pGR2NIaXVtT2pJYlkwempIZVBwZ2hYbWpBZXhiTXdGNGJ6WFJXenNUZlc5bkY4ZEUyRXlKTFZWNVVBV19xcXpDNXRZY2JWZFpUTWlKTnlUSzR0dXNxNmVpbE9nZ3NlT2szdEF5TVFPTlpzRXRWNnp2V0poLUljSVJFT3FCLTdVMQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Seat watch East Champaran voting on May 12: ‘Radha Mohan up against rookie, but can’t take it lightly’ - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR0hpS2k0Qi1JTENPNXBRSkptWHlxblZRUVVyN1RadEhMWU1XbmZ2MlBjdW4wUm9tUWFhdWhrN2RGNFlCUlNuSzJZZ2s3V2hlV20yZGZwTmJGbExlc21LMXJMc19oT29mTnpZZzRHSlpOOHZOa19lX25hTV9yV09UbjRRelpLdE5uS3V3c1RSWnNNT243UGt4Ync5UmtZMVlSX1FENVJScm1KcFlweEFFei05ZGRhSWpCWmtXLVh2enhPcmhpWXk0Mmg3aGZVM0J5X096TWZIbUNsZ9IB4AFBVV95cUxOY2lBRHBXVmd4Ymh6c19GT3JlV1NvcFhGdEJSYWtESlJ3Ulh0eTltNzdvZTRWclM5QVJfZm51VGl6Q2NfcVlqdlpkY3Y3MjN2RjZJTmdpU1FtVnR0c2JWTmVzLUN5dExDY0dIdFBJQUgtekM1S1dzOFJFdDZmZUZiQ3dRZHgxRkV3Y0EyV0d2Qy1idEJmRlhuMHBINXdkbVBYYXRIUW5iMy1vbkxKd3oyZENoN3FBc2NFVkx0VkFUMjM0VmVnQW9kWXpSVm5ZeFdhNHhMaTNFTnc5LVgyNWNLeA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bihar Lok Sabha Election 2024: Can BJP's Radha Mohan Singh Maintain Perfect Record In Purvi Champaran? - India.com",
+        "source": "India.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmxrdTJHcFFRSERXY0pvRWlNUE1RLXhCTUlNTWVLQlRQR2tHZ0tJUWtDOWc0VUIxZ0dRV2dIMWdMT05VTS1yNXJOVURxUnpocG1xemZCQndWUWdER2FlNHdvRkpWQVp0WFF2TXp6ZTJNMFVvRThZOGhwQ2lzeHpLU0dBTnF1NWFUZkU4ZmNHU1V2X3BjTmpvMmFEem02U0E0VlVXVmpyVl9FYzVzTlZ5dGR5UWpYX1FVb2FuMjhpYW5KbWRnc0VYbG0xS2RLblFuNE9VbWg1eTZfTmozNWMydVRlMnNxTGVqYUNDeTNUNNIB9AFBVV95cUxOczRVNjN5TGNKU1UxQVZXVGZ0amt2dC1nbTZ6NEZTTUotaFUyemJKLTRUQ3FoREFsMU9lUXdZemIxSmlaNGxuY1JZYlNLUUhQZm1IX29yT0ppR1FaWmtsYlctSnUzbTQtQzdzVGNJWHlYdTg4Y0J5VUI3YWVDakVfa1kteHprSkNZU055RFNnR01JWDJxS3B6R29SLUZ4bmFXNDNuWTFLT211Ykp2TlJRSkRfazZ3My0yRUZmb1JiT0lQMUtmNlBDOGhLT3gxNXFSNHNOR19feVBDN3FRQlk5R2U3RUVjeVdSYjlnNlQ3bGdiS0t5?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:32:25.230520Z",
+    "collected_at": "2026-09-02T15:08:11.764911Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +241,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.296096Z",
+          "fetched_at": "2026-09-02T18:38:04.757469Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +257,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.296105Z",
+          "fetched_at": "2026-09-02T18:38:04.757480Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +273,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.296110Z",
+          "fetched_at": "2026-09-02T18:38:04.757486Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +289,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.296115Z",
+          "fetched_at": "2026-09-02T18:38:04.757492Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +305,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.296121Z",
+          "fetched_at": "2026-09-02T18:38:04.757498Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +321,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.296126Z",
+          "fetched_at": "2026-09-02T18:38:04.757504Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +337,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.296131Z",
+          "fetched_at": "2026-09-02T18:38:04.757508Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +353,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.296135Z",
+          "fetched_at": "2026-09-02T18:38:04.757513Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,11 +378,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/radhamohanbjp",
+          "url": "https://x.com/https://x.com/radhamohanbjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://m.facebook.com/SinghRadhaMohan",
+          "url": "https://facebook.com/https://m.facebook.com/SinghRadhaMohan",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/radhamohanbjp",
+          "url": "https://instagram.com/https://www.instagram.com/radhamohanbjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:04:33.816466Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -298,16 +424,16 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Political Profile of Radha Mohan Singh, Bjp Party, Purvi Champaran, and Net Worth - India TV News",
-          "source": "India TV News",
+          "headline": "CM announces medical college, sugar mills for East Champaran - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbzhVSm1tUVNxM0xHOWRUQ0F6bHFkZUZxSjNwamNWYzRFY2dGOGJQSnZnWGRORWdFZ0QxeTFrR0ZUT2VIWnppSHBaWmF4TzB5TGxQaTRhNEI2VW9ucEc3T1ljRU80cWotRGEyRm00T2swam40Q1ZYSS12MTBxeEhoXzF2c1M3TElGcExibDF5bW9MV2RDdEJUaUlPY0hreUtQRmZRR3ZFbVJtSUg5bkN6Vm02NTE4ellqeF9IZ2hYV01BbHlKVFRRUHVROURuYURmWmlZN0duNm9DYnVXbG4zZDZvSF8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2ZkX0lDVEVsc3dlT3ZrckJ4Y2hiMzNUQWxTN1J1X0FDYlVxOUpFU2hBNE5nNHFpdXAteHA3bU8yNHFnNko5Z0NSSjdIT0JGZjZidnIxVkMzTWZQWFFlcGFTeUVCTnQ1akVMYjhCQTd6aV9OeE1hOVlZZS0zZkdJRHRibXltUFZUc3lCTlBZVlA5RkJWRFdxc3RjTk80dGJnOWZOa2hxSlVmMlYzdWZGTmo0RzRBejZSV3Z3V3duNTkwcWloT0VpdmdfNDLSAdIBQVVfeXFMT00zN2lXWUxRZjA5UWFBeUVFTFJxVUZmNXcyUlFjTmpRS0EzbjdFZUlHTTIzWXQ1LWxfT1JmRC1sWXhGRVplTlZFdndqMFZZUERZVE1feGlEbmtVOE1Cd0poQk0wdXNsWGhfRG5uMmVXNDFhZjJ5OS1lTzl2R3JvcWs0bzNEd21GV01ULTI4Qm9UcEJ4RDhJOGdSWlFCcHJhRld6ZzRxa2xtVkZueEMweW9mUVRmTEdrSXpHaXIxQ0Y0OTVFbW9mTTFzYjM2N1VMM3hB?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Radha Mohan Singh Latest News, Updates in Hindi | राधा मोहन सिंह के समाचार और अपडेट - AajTak",
-          "source": "AajTak",
+          "headline": "Radha Mohan Singh Latest News, Updates in Hindi | राधा मोहन सिंह के समाचार और अपडेट - Aaj Tak News",
+          "source": "Aaj Tak News",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fN2cybnhoMmJXdkVBVU1jNHpXUC0zUkN1c2tidUViVDJ5T1BUMGRDajZpeUMySm9uUXAxUVBYVHNzcUpTbHMybm9PeEpXaUFNWC1ic3BqU1E?oc=5",
@@ -322,19 +448,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "4 lakh participate in Modi’s Motihari rally - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczl2TWk1UW9yd1RSSFVhdzU5dnhaYlVzMEpBVm9vMEZSd01QY3RBTnNLWThKNjlKTHpCMFJINVZXanRYNTI1SG1jNXZ5cnBGcWFmWFkyOFU4QW1JM0hOOEZLaVRkWWMxLWRJemF3RVM0bGVsb0R4enMtOVpzNGtwOWRSVkFEX1lxS3d4SklEa3pHWFZqMkRuRXQwa0h5V083cjByaWxnNGUzU3VjQUVBSHdTOThUZ9IBuwFBVV95cUxOOEtFUkx6SmYxS0w2Y25xdlZIUldFVjAwXzFnVFdtWC1PbUxoeHJhVXZRZF94NVFSd1pxX1hUdkZ1TjFrVWFQa3BRS0t5RlRHY1Zfa0tuQ0ZpV2kxQW81aVQ0V3JtVk5LSTJVOGxPRV9Qc0kyR29KVmhwOW1waHFCMWhTREtxREhRZ0ZHc3NuVno3dTM4WkFpcV9JdF9VQjJ3Nm8telZGbmJ2WmM4LUVCSDM5cHNELWZSdFln?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Seat watch East Champaran voting on May 12: ‘Radha Mohan up against rookie, but can’t take it lightly’ - The Indian Express",
           "source": "The Indian Express",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR0hpS2k0Qi1JTENPNXBRSkptWHlxblZRUVVyN1RadEhMWU1XbmZ2MlBjdW4wUm9tUWFhdWhrN2RGNFlCUlNuSzJZZ2s3V2hlV20yZGZwTmJGbExlc21LMXJMc19oT29mTnpZZzRHSlpOOHZOa19lX25hTV9yV09UbjRRelpLdE5uS3V3c1RSWnNNT243UGt4Ync5UmtZMVlSX1FENVJScm1KcFlweEFFei05ZGRhSWpCWmtXLVh2enhPcmhpWXk0Mmg3aGZVM0J5X096TWZIbUNsZ9IB4AFBVV95cUxOY2lBRHBXVmd4Ymh6c19GT3JlV1NvcFhGdEJSYWtESlJ3Ulh0eTltNzdvZTRWclM5QVJfZm51VGl6Q2NfcVlqdlpkY3Y3MjN2RjZJTmdpU1FtVnR0c2JWTmVzLUN5dExDY0dIdFBJQUgtekM1S1dzOFJFdDZmZUZiQ3dRZHgxRkV3Y0EyV0d2Qy1idEJmRlhuMHBINXdkbVBYYXRIUW5iMy1vbkxKd3oyZENoN3FBc2NFVkx0VkFUMjM0VmVnQW9kWXpSVm5ZeFdhNHhMaTNFTnc5LVgyNWNLeA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Bihar Lok Sabha Election 2024: Can BJP's Radha Mohan Singh Maintain Perfect Record In Purvi Champaran? - India.com",
+          "source": "India.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmxrdTJHcFFRSERXY0pvRWlNUE1RLXhCTUlNTWVLQlRQR2tHZ0tJUWtDOWc0VUIxZ0dRV2dIMWdMT05VTS1yNXJOVURxUnpocG1xemZCQndWUWdER2FlNHdvRkpWQVp0WFF2TXp6ZTJNMFVvRThZOGhwQ2lzeHpLU0dBTnF1NWFUZkU4ZmNHU1V2X3BjTmpvMmFEem02U0E0VlVXVmpyVl9FYzVzTlZ5dGR5UWpYX1FVb2FuMjhpYW5KbWRnc0VYbG0xS2RLblFuNE9VbWg1eTZfTmozNWMydVRlMnNxTGVqYUNDeTNUNNIB9AFBVV95cUxOczRVNjN5TGNKU1UxQVZXVGZ0amt2dC1nbTZ6NEZTTUotaFUyemJKLTRUQ3FoREFsMU9lUXdZemIxSmlaNGxuY1JZYlNLUUhQZm1IX29yT0ppR1FaWmtsYlctSnUzbTQtQzdzVGNJWHlYdTg4Y0J5VUI3YWVDakVfa1kteHprSkNZU055RFNnR01JWDJxS3B6R29SLUZ4bmFXNDNuWTFLT211Ykp2TlJRSkRfazZ3My0yRUZmb1JiT0lQMUtmNlBDOGhLT3gxNXFSNHNOR19feVBDN3FRQlk5R2U3RUVjeVdSYjlnNlQ3bGdiS0t5?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -384,17 +510,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +541,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +568,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 42,965,416. MPLADS utilization: 40.9%. Parliament attendance: 100.0%. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:47.296884Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Parliament attendance: 100.0%. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.758259Z"
 }

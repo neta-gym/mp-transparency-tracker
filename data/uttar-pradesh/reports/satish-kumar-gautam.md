@@ -3,24 +3,22 @@
 **Constituency:** Aligarh, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 51
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.7 / 100
+## Composite Transparency Score: 63.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 48.6 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 16.06 Crore
-- **Liabilities:** Rs 4.66 Crore
-- **Net Worth:** Rs 11.41 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 10
-- **Expended:** Rs 8
-- **Utilization Rate:** 55.7%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/SatishGautamBJP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/SatishGautamBJP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/SatishGautamOffcial/](https://facebook.com/https://www.facebook.com/SatishGautamOffcial/) | No | Yes |
+| Instagram | [@www.instagram.com/satishgautambjp](https://instagram.com/www.instagram.com/satishgautambjp) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,28 +87,41 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Aligarh BJP MP opposes Eid namaz at Numaish Ground: ‘What’s Ramzan?’ - Moneycontrol.com (Moneycontrol.com) [neutral]
-- Congress sees BJP leader’s bid to trigger polarisation - The Hindu (The Hindu) [neutral]
 - Aligarh MP sparks row with remark on Eid prayers: Angry over demand for Namaz in open ground; says shouting... - Bhaskar English (Bhaskar English) [neutral]
-- MoS Mohol highlights BBSSL’s initiatives in UP - Indian Cooperative (Indian Cooperative) [neutral]
-- सांसद सतीश गौतम बने परामर्शदात्री समिति के चेयरमैन - Hindustan Hindi News (Hindustan Hindi News) [neutral]
+- MPs pitch breastfeeding coaches, station library and additional connectivity at North Central Railway mee - The Times of India (The Times of India) [neutral]
+- NC Rly holds meet with Members of Parliament of Prayagraj Division - Hindusthan Samachar English (Hindusthan Samachar English) [neutral]
+- MPs pitch breastfeeding coaches, station library and additional connectivity at NCR meet - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Aligarh BJP MP opposes Eid namaz at Numaish Ground: ‘What’s Ramzan?’ - Moneycontrol.com** (Moneycontrol.com)
+- ! **Aligarh MP sparks row with remark on Eid prayers: Angry over demand for Namaz in open ground; says shouting... - Bhaskar English** (Bhaskar English)
+- ! **MPs pitch breastfeeding coaches, station library and additional connectivity at North Central Railway mee - The Times of India** (The Times of India)
+- ! **NC Rly holds meet with Members of Parliament of Prayagraj Division - Hindusthan Samachar English** (Hindusthan Samachar English)
+- ! **MPs pitch breastfeeding coaches, station library and additional connectivity at NCR meet - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Satish Kumar Gautam shows moderate transparency with a score of 62.7/100. No criminal cases declared. High parliament attendance.
+Satish Kumar Gautam shows moderate transparency with a score of 63.0/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 160,624,125. MPLADS utilization: 55.7%. Parliament attendance: 100.0%. Questions asked: 4. Debates participated: 3.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 4. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 160,624,125. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +240,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Satish Kumar Gautam's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 55.7%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

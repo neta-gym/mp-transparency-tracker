@@ -3,19 +3,17 @@
 **Constituency:** Bardhaman-Durgapur, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 65
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.7 / 100
+## Composite Transparency Score: 60.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 14.6 | 25% |
-| Asset Growth | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -34,28 +32,31 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Sadar PS Case No. 287(12)2022, Shillong | Section 3(1)(R) SC and ST Act (Sections: 500, 505) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 10.20 Crore
-- **Liabilities:** Rs 57.39 Lakh
-- **Net Worth:** Rs 9.63 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 58% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 18
-- **Released:** Rs 18
-- **Sanctioned:** Rs 8
-- **Expended:** Rs 3
-- **Utilization Rate:** 18.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -71,34 +72,47 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 8
 
-- Kirti Azad takes a dig at Shah, PM Modi - The Statesman (The Statesman) [neutral]
-- Kirti Azad warns of demolishing half-built railway foot over bridge - The Statesman (The Statesman) [neutral]
 - 5 Facts About Kirti Azad, Trinamool Candidate From Bardhaman-Durgapur - NDTV (NDTV) [neutral]
-- Bardhaman Durgapur West Bengal All India Trinamool Congress - The Times of India (The Times of India) [neutral]
-- Bardhaman-Durgapur Lok Sabha Election Results 2024: वर्धमान-दुर्गापुर से कीर्ति आजाद ने हासिल की बड़ी जीत, दिलीप घोष हारे - AajTak (AajTak) [neutral]
+- TMC MP Kirti Azad, 4 ohers booked for extortion in Bengal’s Raniganj - The Statesman (The Statesman) [negative]
+- Bardhaman-Durgapur Election Result 2024 Live Updates: TMC's Azad kirti jha Has Won This Lok Sabha Seat - The Quint (The Quint) [neutral]
+- Wife of 1983 world cup squad member, TMC MP Kirti Azad passes away - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- TMC MP Azad attacks PM Modi in video message - The Statesman (The Statesman) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **5 Facts About Kirti Azad, Trinamool Candidate From Bardhaman-Durgapur - NDTV** (NDTV)
+- !! **TMC MP Kirti Azad, 4 ohers booked for extortion in Bengal’s Raniganj - The Statesman** (The Statesman)
+- ! **Bardhaman-Durgapur Election Result 2024 Live Updates: TMC's Azad kirti jha Has Won This Lok Sabha Seat - The Quint** (The Quint)
+- ! **Wife of 1983 world cup squad member, TMC MP Kirti Azad passes away - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **TMC MP Azad attacks PM Modi in video message - The Statesman** (The Statesman)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Azad Kirti Jha shows moderate transparency with a score of 57.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Azad Kirti Jha shows moderate transparency with a score of 60.5/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 102,014,033. MPLADS utilization: 18.3%. Parliament attendance: 100.0%. Questions asked: 28. Debates participated: 11.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 28. Debates participated: 11. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +152,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +231,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Azad Kirti Jha's MPLADS account: Released: Rs 18, Expended: Rs 3, Utilization: 18.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +248,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,16 +4,16 @@
     "constituency": "Jhargram",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 7941,
+    "myneta_candidate_id": null,
     "slug": "kalipada-saren-kherwal",
     "house": "lok_sabha",
     "sansad_member_id": 5825,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 66,
+    "age": null,
     "photo_url": "/mp-photos/5825.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Jhargram",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 7941,
+      "myneta_candidate_id": null,
       "slug": "kalipada-saren-kherwal",
       "house": "lok_sabha",
       "sansad_member_id": 5825,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 66,
+      "age": null,
       "photo_url": "/mp-photos/5825.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:32.467387Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 13023236.0,
-      "liabilities": 205892.0,
-      "net_worth": 12817344.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7941",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.861128Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 11.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.16,
-      "expended": 6.26,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:48.935538Z",
-          "notes": "Official eSAKSHI REST API — Works: 52 recommended, 44 sanctioned, 1 completed"
+          "fetched_at": "2026-09-02T15:14:59.520640Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:11:18.856442Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:11:18.854806Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 52,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 42.585034013605444
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:35.374505Z",
+          "fetched_at": "2026-09-02T15:11:18.854094Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Lok Sabha MP Kalipada Saren Kherwal’s Zero Hour mention demanding rectification of the issue of the unusually late running of trains on the Howrah-Kharagpur-Tatanagar section of Southeastern Railway, and asking for the early completion of construction - AITC in Parliament",
+        "source": "AITC in Parliament",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNMjBMU2d1UFd1UjI2WXFVT0p3N08tWFFRZ3U1T2M5cVF2Ty00OE13MFJjeTBLN1Vhb3NIeFNMSjNHWi1UVU40WVl4T3hHbVNYS0lzTnlsYk5feV9yV3RFWDlyZTF4M2Q2WDdiRXl0T1JKdUJVLVpSQkZjcGZMdVlkQWtpZFZMMDYwMTBSX0x5MWpuRVhGVEJaOTJZakxobHNSLW1lNnlqbUVRdFpDUlJjRnhCeS1hNzg0U0ZsYnpvV05XY1VTck9iOTMwRFpCU0xqT25LVjdrZG4zZ0xPS2VLM09XSnZDRVRsbzI4dGM0QUN0MUlsQTY5bVZadGRFaWdKRUg1NDVxNndQRFFUVGRCRGVlLXY1Mjd1NkxpdXZ4Q3dYZ00zQXhReWExSnFqUFNqM3NJWE9UX2JsUEt1UUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tribals | A tribe of their own - indiatoday.in",
+        "source": "indiatoday.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNThzZXllX3R3RlpTUTljRW0zbHRSbFpfLXMzTm01cEV6WEVkZ2VFUlFTWXZxbmFpbW1zN1BCM1p0SFJTZU81TFVIaWxYUC1tbmVJLWp1QjhxLVgtS2FKTWV0NHduako2WExkM1JiZWJKQ21fUzdlYjlaak9NSmpNNjQzXzczTmx3NVliR09zcUtkMXRwSlNMRzhSMTk0OEVtRjd0R3FIUFhHa1FQXzIxUGZPcVRfV2ltUkZWbEM3VS1kMmdTZzl6MktvWDNCbU1nWXpiZ9IB2gFBVV95cUxQVnhBRi0xa2pCN3JTRld4ZzU4cG1uaHN3Ml9oRm5PdjNyOGc0ZVduS1VUNnQxZWxqS2NPT0FnY2xYMnFzcXotZVJpSXpXY2UtdFRQdUxvZXZ2X0FYdmJidHNPc05feEFjWGxhSTZYTERINkZEaVlFeXBOY19UVDAzcFh5YThUeHFJRUZwVmhaUmstQkc2ODlwMEI0RmxQSHotZ1ZqTnZtWFZObmh2eTdyTWU0WV9pVGxURjVtbjNEZVdxbmd3cGFyU2xtVl95aVRrbUJSejN3S1l1UQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jhargram Election Result 2024 LIVE Updates Highlights: Kalipada Saren Kherwal of TMC Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR3Y1amlUVTFtblplOFNWc2JpTXI0SERTYkxQaXVIYnZ4eXU2ZmxBUGNZN1g1TEZFbFY3U3hFLUJsYThRcFFtU09aX0ZmQ3VFVHhNWDZpRXRtYlRSTjQ4eUltQWdpdG9QWldlZWxTUmMtOWR5eEMxZDJITkVQdlNTUFAwT1F3YkVFNlZSRnFsVWw4bVBXdGItR0QzaXotMlRfSFBjTDQ4a043a3FqU0NxaTR0dFllMUZWaW9tUlVrTldFTEpVdUdUVTBJbFJoQjZGVGhKRGFVOVdZMnFUeFVXUlV2QdIB6AFBVV95cUxOUE4xZlFoeWE1bDI2RjAyb1pyLUFCWXVXTWsyQy1CVW9YNkJPd3lKODdoLUZPZnpGQ2ljallySUh5UGRhQ1JHVDdoRTloSWttakR3TEVJcGxPS3NRdkhvUV9uTFgxT1l1Uk4yMjEybEt2ejVGd3NjOEl3UWlDUGZibTlXdmdzTjlMTXVvdmphSnJZbXlFVlZrMlpUb3FzSUxzYjhEdnUzdHRHUnpySDJxQTdiMXJ1WEZIRGlUdDlsUlRMOWhodm5rNERTbE9sVUNiSlItaVpzWGNhTEwzVXIxaVNpeTM4VGtB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha MP Kalipada Saren Kherwal’s Zero Hour mention on the need for the Union government to start a central university with Santhali as the medium of instruction in the Jangalmahal region of Bengal - AITC in Parliament",
+        "source": "AITC in Parliament",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQODNDV24zMkdFOEhMbWpPZVdTdlF1clJDU3YzdTZmcFN1djR5YTRxNi1uMnVMdzZIcWhOb3I0V2RQNzZvaGFoUUpiZjNvUlNxU0dUY1hfc040SHhsTFlKcUs4RGE2QWlVazdyek5sRWZadHFWRzgxaHEwOEZPcUxTX1dTTWFsc0JvTnlnQ2w5T0FWbV8xLVVtb2M4QVl5T2VjMElGVFZxUDNxek5VNklEUzhvSFB3QmxKWW4zUEk2Ri0zeUhNMWZQMDJVMG41NFJrZHFYNU00VXZLN3I3TGRYWk52ZlhxZkNLNDg3T3FIYUZ3SmZhQmJlczMwYm1aRnRtN1RtcFluLW9VRHh3clFaMy1JcG50Q0RKcWNtel9IaHhhWFhGdTNBRDRpQVM1VHoxTXlkMEx5LTVzUmdo?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:32:38.642230Z",
+    "collected_at": "2026-09-02T15:14:59.521597Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.708811Z",
+          "fetched_at": "2026-09-02T18:38:12.337321Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.708825Z",
+          "fetched_at": "2026-09-02T18:38:12.337332Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.708833Z",
+          "fetched_at": "2026-09-02T18:38:12.337338Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.708840Z",
+          "fetched_at": "2026-09-02T18:38:12.337343Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.708849Z",
+          "fetched_at": "2026-09-02T18:38:12.337349Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.708858Z",
+          "fetched_at": "2026-09-02T18:38:12.337354Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.708865Z",
+          "fetched_at": "2026-09-02T18:38:12.337358Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,40 +322,49 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/Kalipada.saren.Kherwal?mibextid=ZbWKwL",
+          "url": "https://facebook.com/https://www.facebook.com/Kalipada.saren.Kherwal?mibextid=ZbWKwL",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:11:23.234421Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 9,
+      "total_articles": 10,
       "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Kalipada Saren Kherwal’s Zero Hour mention on Jawahar Navodaya Vidyalayas in Jhargram district - AITC",
-          "source": "AITC",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYl84ejQyZ3hGcmhFdFhlNUNUSlJvVkFzcUdUTEFTWmdOSjZqRXVOaTgyM0NrR29iS20tV0Frc1NhbjZDRi11Y0ZISG9sWkFDUjN3aGxoaHFVbFpfelNWbEtnR09sYTl3S0VpdDlmYURjZkNGemJmRGYyUFNxamwwOWJVZVpQVnhNSXZWOWpzRjg1cHVla3l5ZFZYQktSemMtSG92ZXphN3Zkd2xJU0J0VnAwQmxHblBhbVF3?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Tribals | A tribe of their own - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNThzZXllX3R3RlpTUTljRW0zbHRSbFpfLXMzTm01cEV6WEVkZ2VFUlFTWXZxbmFpbW1zN1BCM1p0SFJTZU81TFVIaWxYUC1tbmVJLWp1QjhxLVgtS2FKTWV0NHduako2WExkM1JiZWJKQ21fUzdlYjlaak9NSmpNNjQzXzczTmx3NVliR09zcUtkMXRwSlNMRzhSMTk0OEVtRjd0R3FIUFhHa1FQXzIxUGZPcVRfV2ltUkZWbEM3VS1kMmdTZzl6MktvWDNCbU1nWXpiZ9IB2gFBVV95cUxQVnhBRi0xa2pCN3JTRld4ZzU4cG1uaHN3Ml9oRm5PdjNyOGc0ZVduS1VUNnQxZWxqS2NPT0FnY2xYMnFzcXotZVJpSXpXY2UtdFRQdUxvZXZ2X0FYdmJidHNPc05feEFjWGxhSTZYTERINkZEaVlFeXBOY19UVDAzcFh5YThUeHFJRUZwVmhaUmstQkc2ODlwMEI0RmxQSHotZ1ZqTnZtWFZObmh2eTdyTWU0WV9pVGxURjVtbjNEZVdxbmd3cGFyU2xtVl95aVRrbUJSejN3S1l1UQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Lok Sabha MP Kalipada Saren Kherwal’s Zero Hour mention demanding rectification of the issue of the unusually late running of trains on the Howrah-Kharagpur-Tatanagar section of Southeastern Railway, and asking for the early completion of construction - AITC",
-          "source": "AITC",
+          "headline": "Lok Sabha MP Kalipada Saren Kherwal’s Zero Hour mention demanding rectification of the issue of the unusually late running of trains on the Howrah-Kharagpur-Tatanagar section of Southeastern Railway, and asking for the early completion of construction - AITC in Parliament",
+          "source": "AITC in Parliament",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNMjBMU2d1UFd1UjI2WXFVT0p3N08tWFFRZ3U1T2M5cVF2Ty00OE13MFJjeTBLN1Vhb3NIeFNMSjNHWi1UVU40WVl4T3hHbVNYS0lzTnlsYk5feV9yV3RFWDlyZTF4M2Q2WDdiRXl0T1JKdUJVLVpSQkZjcGZMdVlkQWtpZFZMMDYwMTBSX0x5MWpuRVhGVEJaOTJZakxobHNSLW1lNnlqbUVRdFpDUlJjRnhCeS1hNzg0U0ZsYnpvV05XY1VTck9iOTMwRFpCU0xqT25LVjdrZG4zZ0xPS2VLM09XSnZDRVRsbzI4dGM0QUN0MUlsQTY5bVZadGRFaWdKRUg1NDVxNndQRFFUVGRCRGVlLXY1Mjd1NkxpdXZ4Q3dYZ00zQXhReWExSnFqUFNqM3NJWE9UX2JsUEt1UUE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Tribals | A tribe of their own - indiatoday.in",
+          "source": "indiatoday.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNThzZXllX3R3RlpTUTljRW0zbHRSbFpfLXMzTm01cEV6WEVkZ2VFUlFTWXZxbmFpbW1zN1BCM1p0SFJTZU81TFVIaWxYUC1tbmVJLWp1QjhxLVgtS2FKTWV0NHduako2WExkM1JiZWJKQ21fUzdlYjlaak9NSmpNNjQzXzczTmx3NVliR09zcUtkMXRwSlNMRzhSMTk0OEVtRjd0R3FIUFhHa1FQXzIxUGZPcVRfV2ltUkZWbEM3VS1kMmdTZzl6MktvWDNCbU1nWXpiZ9IB2gFBVV95cUxQVnhBRi0xa2pCN3JTRld4ZzU4cG1uaHN3Ml9oRm5PdjNyOGc0ZVduS1VUNnQxZWxqS2NPT0FnY2xYMnFzcXotZVJpSXpXY2UtdFRQdUxvZXZ2X0FYdmJidHNPc05feEFjWGxhSTZYTERINkZEaVlFeXBOY19UVDAzcFh5YThUeHFJRUZwVmhaUmstQkc2ODlwMEI0RmxQSHotZ1ZqTnZtWFZObmh2eTdyTWU0WV9pVGxURjVtbjNEZVdxbmd3cGFyU2xtVl95aVRrbUJSejN3S1l1UQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,15 +376,23 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Jhargram lok sabha election results 2024: Jhargram Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "Lok Sabha MP Kalipada Saren Kherwal’s Zero Hour mention on the need for the Union government to start a central university with Santhali as the medium of instruction in the Jangalmahal region of Bengal - AITC in Parliament",
+          "source": "AITC in Parliament",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGFjWGQ5dUJKcE83WGFSeVN2bWN5UFJVZVg3eE5Qc01EV1E0V2c2Wi1hV3NYOTBKdzlDb2tkMHdLRFE4YWQyNVBDcVBCMnRrRjhqQTlYUHZtcVc4UlV0bF9lZTRaNFlZTkt3R2daMG1ELUlmcEswTW94VWs0TUdhdDFjT2VOZ3ZEVmVUdk5jNF80SjBlWm4w?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQODNDV24zMkdFOEhMbWpPZVdTdlF1clJDU3YzdTZmcFN1djR5YTRxNi1uMnVMdzZIcWhOb3I0V2RQNzZvaGFoUUpiZjNvUlNxU0dUY1hfc040SHhsTFlKcUs4RGE2QWlVazdyek5sRWZadHFWRzgxaHEwOEZPcUxTX1dTTWFsc0JvTnlnQ2w5T0FWbV8xLVVtb2M4QVl5T2VjMElGVFZxUDNxek5VNklEUzhvSFB3QmxKWW4zUEk2Ri0zeUhNMWZQMDJVMG41NFJrZHFYNU00VXZLN3I3TGRYWk52ZlhxZkNLNDg3T3FIYUZ3SmZhQmJlczMwYm1aRnRtN1RtcFluLW9VRHh3clFaMy1JcG50Q0RKcWNtel9IaHhhWFhGdTNBRDRpQVM1VHoxTXlkMEx5LTVzUmdo?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+          "source": "Sarkaritel.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -368,17 +438,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +469,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +496,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 13,023,236. MPLADS utilization: 42.6%. Parliament attendance: 100.0%. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:54.709908Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.338039Z"
 }

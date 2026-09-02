@@ -4,16 +4,16 @@
     "constituency": "Bilaspur",
     "state": "chhattisgarh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3590,
+    "myneta_candidate_id": null,
     "slug": "tokhan-sahu",
     "house": "lok_sabha",
     "sansad_member_id": 5700,
     "profile_url": null,
     "canonical_name": "Tokhan Sahu",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5700.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Bilaspur",
       "state": "chhattisgarh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3590,
+      "myneta_candidate_id": null,
       "slug": "tokhan-sahu",
       "house": "lok_sabha",
       "sansad_member_id": 5700,
       "profile_url": null,
       "canonical_name": "Tokhan Sahu",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/5700.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:38.420922Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 13190513.0,
-      "liabilities": 668086.0,
-      "net_worth": 12522427.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3590",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.847888Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 11.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.14,
-      "expended": 4.34,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:22.536512Z",
-          "notes": "Official eSAKSHI REST API — Works: 127 recommended, 124 sanctioned, 30 completed"
+          "fetched_at": "2026-09-02T14:43:42.985256Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:40:03.323332Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:40:03.321048Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 127,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 29.523809523809526
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:25:13.709690Z",
+          "fetched_at": "2026-09-02T14:40:03.320129Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Bilaspur To Bengaluru In 29 Hours: New Weekly Train Covers 1,500+ Km, Check Route & Timings - curlytales.com",
+        "source": "curlytales.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMlc5ampUZVN5WU8wd2hmWDZtNnZXc1lNR0VlTzdqd3JUS1hnVGV2akhDSEM5cWlDRzl4MkNocURLS3pGT0hQTGozaldzNU96bld6ZGNGWFc1Y2w0eldSTWFBclV2bWxMdWZUQXV4a0VLckVmdTFWTEZwUzk3bmhUN0E0dzRuT2pmUzcyVzZQYVd5OGVhQUdzY00tYkl6RHVid3dvR0xDQzlQb2phSnJPbkJCZV8yRzDSAbwBQVVfeXFMTlFMZG9HWlR6bkk0cFZEVjA5Yjh5RVNDYUw4dFpsU2FoczY5VjM4ek5NVExiUjBWTHFDY3gxU2tKRkRaMUJ2U0lpSDRYdVRBSm45Ykh4RnVMVkQ4TnFBdnVBV0c0MjYyWkozNmYwLVVuR1VDcFlkTWZ3SWs0TVJfX0tyUmozTTJKa1dMdjljRmtfbDZpaFY5SEdFYVdRR3pVTW96VHM3RmlETFhGVzAwd2R5WDJmUGRlWnlnaEE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Modi 3.0: 1st-Time MP Tokhan Sahu Sole Representation From Chhattisgarh - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdG1Yd2FQX0RoNFF0RWlCNFVMdjNEN3MxaXhUQWNPSDdHTFh0cTZFeEdTQWhCRktXVGZ2NjB4UC1Rd2xPV1ZYSGNqcUt2Qm9YN3lVblJBcXcxWDZzSnBYTDJtSkI1d1ZlckRzLTNsM2p4VzJ3a2MwMGZvdmtRMUswVWd4YnNVVG4xRlpJZy04a0VsMTM5VHdSZ2hqbjVlYW5Telk4akRsNzZFeFJqZ0dJ0gG3AUFVX3lxTE1aZFRrR3JWX1JiY2xzQVdLT3dvUG0wSld6Mkh3WkdmOVRueUxULVg0bWtsX01ZSU5pX1E2dUN2bzVUZkpndlBQMW5nSmtDWUZ2QmxoVFUtM3B3ak9OeGtJZnhrdURRWlVXeWV4c04yZGZfM2VNWDNKVWxuRzd4d0poVDNYQ29vVkFQeXRiWkI3RlpYV2lHLXZCUmtiOUxuMnIyT1RKN3ZPYW1PVTR5aWFVSmVHdmNKbw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rise & rise of BJP MP Tokhan Sahu - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3NsYk5BVEtXdE9FaklYd0VkRHJFY2ZnVGRZRmZXN0wzZENuemF4UFkwSUZ5WnNMa1lTaVIxUFQ1cTZ6SkxMemFPZ05jc2ZmRkg1TWJZdGVHclZINmxmcTY3dklmX1JoekZtLWRoOEVud0EzXzdTN1FvcWdpM3FVOFlnaEliU3dmaGhpVHY2UXZRSzVSVnlJMWZubVR5cWlMSURxVXBTRHjSAa4BQVVfeXFMTVRZSlprNGdZT2pMSjdoTFYtTUdHTVNUT0c3amVkWTNrdnNPcnkxSDB6UjlSdnFrckxUaWVoWnZHcUNmWGpmRVB6Q2l0OEhjVnlOUTRubHQ4U1lQdU94SUxCRGhHLVd0UFVBOFprRXFIcnhqa3F4QkVkMTZVUjlYQUNtcS1Oa2M3azdMOHMxMWVLTXVCZ2NnaDVLS0szSkdBVURWV1lVVDlCRWJ0NGNB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chhattisgarh: BJP's Tokhan Sahu to contest against Congress leader Devendra Yadav from Bilaspur - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMjlkelc2eEdrSkVKNlpZOTFwZGFFaXk1THFiMGRPQ0N2NzliYmxkVzA2dExBWk5EVnZIMEFjQ0l6ZTU3SHJjUGVpNUpuT2FsOWRCUjBucVgtWVNJY1pTLW9uODJqX0VGelZ0eTV1Tm1SamtvZHlKZjVYSlUyZ1pncm9KdFVkbU5MQ1pMVjM0dENaSk5OaVNrRTU5S0RaYktHNUE5cFA4M1dmZnlzcTZFTUFTYUk5TWNMRG5MellFQVA4VFl5c0gycDBqZ29BQVhITW5paU9BQ3RFNXlLd1NSaGUxNktYYlltZVZrZFF3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sahu's amazing journey from Chhattisgarh panchayat to Union council - Rediff",
+        "source": "Rediff",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaW5yaTVNS0ZwdFNHTUZmUlF2M21LUlZCdmUxMGM4SXZyX09Ddld0UGh0NzZDVjRrMGxyS1VzNXdMT2VqU0hYQTlzX2tFRTFiMmtFS01wUTZhZzZYcEhpWkNUc3BOQU0tZXlzQXI0TFNGMFJBcnc4eldyaEhDTk90RHQwRW1Cc2lJeVoxSm9ScE9RTGNGaGh6MnRWbklyZHMwWXdjNGliV0ZoSU5VdjNQY01FajPSAbcBQVVfeXFMTnA3SkVGZ0hzaEFIdnpHaUpGdmFMLTVVbzAtUDR5aXhsZmgxa2JKTnI4WlJCN2FTUnJ2ekwtUkZkTE4xQUpsVWhxLVBGOHhQWGFKQmRndmViUmozSHkyLVVyVkpWdlRsZWJkdkRxTXV4bjlXRnMzR1FKTFdsTUNGblFJSkNtdG0yQUdjOGN1OEN5VWdQOUVzM0VPUnV5NnVzbzhOX291SHhYdllYbFVYNUltZ1lqQ0Rr?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:26:07.301357Z",
+    "collected_at": "2026-09-02T14:43:42.986129Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.722892Z",
+          "fetched_at": "2026-09-02T18:38:05.319237Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.722902Z",
+          "fetched_at": "2026-09-02T18:38:05.319248Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.722908Z",
+          "fetched_at": "2026-09-02T18:38:05.319253Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.722913Z",
+          "fetched_at": "2026-09-02T18:38:05.319258Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.722919Z",
+          "fetched_at": "2026-09-02T18:38:05.319266Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.722924Z",
+          "fetched_at": "2026-09-02T18:38:05.319271Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.722934Z",
+          "fetched_at": "2026-09-02T18:38:05.319276Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +322,28 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/tokhan.sahu.3/",
+          "url": "https://facebook.com/https://www.facebook.com/tokhan.sahu.3/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:40:11.025773Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -281,6 +351,14 @@
       "negative": 0,
       "neutral": 10,
       "top_headlines": [
+        {
+          "headline": "Bilaspur To Bengaluru In 29 Hours: New Weekly Train Covers 1,500+ Km, Check Route & Timings - curlytales.com",
+          "source": "curlytales.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMlc5ampUZVN5WU8wd2hmWDZtNnZXc1lNR0VlTzdqd3JUS1hnVGV2akhDSEM5cWlDRzl4MkNocURLS3pGT0hQTGozaldzNU96bld6ZGNGWFc1Y2w0eldSTWFBclV2bWxMdWZUQXV4a0VLckVmdTFWTEZwUzk3bmhUN0E0dzRuT2pmUzcyVzZQYVd5OGVhQUdzY00tYkl6RHVid3dvR0xDQzlQb2phSnJPbkJCZV8yRzDSAbwBQVVfeXFMTlFMZG9HWlR6bkk0cFZEVjA5Yjh5RVNDYUw4dFpsU2FoczY5VjM4ek5NVExiUjBWTHFDY3gxU2tKRkRaMUJ2U0lpSDRYdVRBSm45Ykh4RnVMVkQ4TnFBdnVBV0c0MjYyWkozNmYwLVVuR1VDcFlkTWZ3SWs0TVJfX0tyUmozTTJKa1dMdjljRmtfbDZpaFY5SEdFYVdRR3pVTW96VHM3RmlETFhGVzAwd2R5WDJmUGRlWnlnaEE?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Modi 3.0: 1st-Time MP Tokhan Sahu Sole Representation From Chhattisgarh - NDTV",
           "source": "NDTV",
@@ -298,14 +376,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Tokhan Sahu from Chhattisgarh sworn in as Minister of State in Modi cabinet - The Statesman",
-          "source": "The Statesman",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFpEbnNkcml0NkpRTElEczRhVGJsWWM5ajFaa2dGcWttOWpIWUtEUmIyUTljd2I3NldTVTZKei1UUlVBVkdCR0RITFREdTgwQkJDd3diR1dldmFrdmJNeDFwa2h4UGJlM3BlX0p2OElMdmpTc2VlWWdnem5ONzZ5SmY1c0tmVmZmRHU2QUk3M2lWOU9PSU5rT0J0SGNSYkhyemQ4bkJDck5aSk55eThtYXdrVDc2UGJaTUM0ckhmNzFPUWxr0gHKAUFVX3lxTFBtUTlMcXJ2VHh4Qlh4VzZVRnBSSHlXZ3NRRzZESjc4YTNCelRWSF9QalBCNUhfd0UwTzQtWGdPVGYtdElZR2lnQm0xbjFJb0IySnFRdHc4c0JEU096Q28yNWRmSXI1SlBUUjdVdDUzM0tyNnFwWjdUMThKcUpNdnlPTjI4dTBZclIwSmpyM29fQmNsdHFrY1ctbDFTb200Nm51T0JpTlYzS192ODVHd2dfVnFsdU0wQWkwRi1GcXgwNjFCcDlsMndSUlE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Chhattisgarh: BJP's Tokhan Sahu to contest against Congress leader Devendra Yadav from Bilaspur - ANI News",
           "source": "ANI News",
           "severity": "low",
@@ -314,11 +384,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Chhattisgarh Lok Sabha Election Results Winners Full List 2024: Brijmohan Agrawal wins in Raipur, Tokhan Sahu bags Bilaspur seat - Zee Business",
-          "source": "Zee Business",
+          "headline": "Sahu's amazing journey from Chhattisgarh panchayat to Union council - Rediff",
+          "source": "Rediff",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQYlA5aUNBR1R5ZUFEVW1NUlNkbHhUNGxDQ2ZSbVVJbVJkNmkxMHBTRHB1VHhvYUJrd1lHVWtyMUU4VVd4Sm9CSXVjNFpXWWs5bnBDT3luQi1wc0kwZVctc3ZLaFhhZWVkUVByaXJNOXU4OWRlQ2QxWmVwNl9VNnRlSm1NSF9RTDVSNHpaRUxwV3c4Ml9hakFZdnZRaklPTzM4X3A5YVFLWGh4Z2ZVTkt1RVhRNmRUZUxLbURfdFpTcHBybEpoemRVckVkVThfX3IzZVpfbmJfRzd6MTcyTmNZZlYwREdqVDZWQ1lRWVJGejJKTG0yMnpBdllLZTZMd3FXclRkUXlfajMyQ2pyNXVodGY3U0hmRTJRZlJSOHl6OV9nRERZOVpTM0NHWDlYbnZtWHZOU3pyalhPTjVwUERPeExyOGRZNHVkVkdsd0ZNVjdwQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaW5yaTVNS0ZwdFNHTUZmUlF2M21LUlZCdmUxMGM4SXZyX09Ddld0UGh0NzZDVjRrMGxyS1VzNXdMT2VqU0hYQTlzX2tFRTFiMmtFS01wUTZhZzZYcEhpWkNUc3BOQU0tZXlzQXI0TFNGMFJBcnc4eldyaEhDTk90RHQwRW1Cc2lJeVoxSm9ScE9RTGNGaGh6MnRWbklyZHMwWXdjNGliV0ZoSU5VdjNQY01FajPSAbcBQVVfeXFMTnA3SkVGZ0hzaEFIdnpHaUpGdmFMLTVVbzAtUDR5aXhsZmgxa2JKTnI4WlJCN2FTUnJ2ekwtUkZkTE4xQUpsVWhxLVBGOHhQWGFKQmRndmViUmozSHkyLVVyVkpWdlRsZWJkdkRxTXV4bjlXRnMzR1FKTFdsTUNGblFJSkNtdG0yQUdjOGN1OEN5VWdQOUVzM0VPUnV5NnVzbzhOX291SHhYdllYbFVYNUltZ1lqQ0Rr?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,7 +438,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -399,8 +469,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -420,12 +502,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Chhattisgarh: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 13,190,513. MPLADS utilization: 29.5%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:47.723660Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.320056Z"
 }

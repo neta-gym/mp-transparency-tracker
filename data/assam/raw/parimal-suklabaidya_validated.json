@@ -4,16 +4,16 @@
     "constituency": "Silchar",
     "state": "assam",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2210,
+    "myneta_candidate_id": null,
     "slug": "parimal-suklabaidya",
     "house": "lok_sabha",
     "sansad_member_id": 5675,
     "profile_url": null,
     "canonical_name": "Parimal Suklabaidya",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 66,
+    "age": null,
     "photo_url": "/mp-photos/5675.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Silchar",
       "state": "assam",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 2210,
+      "myneta_candidate_id": null,
       "slug": "parimal-suklabaidya",
       "house": "lok_sabha",
       "sansad_member_id": 5675,
       "profile_url": null,
       "canonical_name": "Parimal Suklabaidya",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 66,
+      "age": null,
       "photo_url": "/mp-photos/5675.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:09.127597Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 17257627.0,
-      "liabilities": 0.0,
-      "net_worth": 17257627.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2210",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.546789Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 15.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.83,
-      "released": 14.83,
-      "sanctioned": 1.33,
-      "expended": 0.44,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:19:25.669500Z",
-          "notes": "Official eSAKSHI REST API — Works: 84 recommended, 22 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:56:36.810486Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:52:38.099426Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:52:38.097151Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 84,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 2.9669588671611598
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:24:23.812063Z",
+          "fetched_at": "2026-09-02T14:52:38.096288Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Assam: Silchar MP Parimal Suklabaidya seeks Centre’s nod for seven major road projects in Barak Valley - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObEpPMXBKRDlReVYyWEhHY1hsMlQxSDNHUDZTTUNaRUtaOVY5b0p4NklSeHhEaDU3VlFjRDMwRy0yNkpPVXJlcWVhN1FzQ2NtOFZLYTI3eUZFRjRRdHI1WDlLdXltWWZFTzdVSk1vbWRvcXZIWXpFMVBOWmwwT1BFWEJ5Ujh4MzZ2WEhIZjF6cDdrT3F0ZllrWDk3UjNMWUFPdi1PQkE3cmlaaUtvaWkyZ3lwTGgwaHozU1VPR1dqSm1xajRoaGtaQ19zQjdlVEZwX1JfSnZUMmh0WDNNWlJZcGJxaENRRWp5MTJjYlh2SkPSAfYBQVVfeXFMTmJXZ2I3WjRtdVRhaXhRWlRndU5HNHhqRmZRSE14cHJsbHlFbG41eThTRVVKbTdfZHFOcXh6SVdUbDhHT2dYSXEzZHhnN21EM0p6RkUyQlBHd09fb21OZ2c0T1ZoTGx2RERLdXhsd0NSYmtlclkyOEc0OHQ4YjAtNXc3WFlzYmotUWZ5aDhWbmx3eEZZMVJxMTFnenF3UVZPRVBGTndjNE5XUHpxMXQ1OVZmbUMzei1LWU56NGVYRDhkYXg1Zk43NGNWRGpfLTlYTnNwYTNRS21rb19XSmZmTWM0TjZ5V2ZmMUxJcElkMkdGVU9tYXRB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Parimal Suklabaidya Seeks Seven Major Road Projects for Silchar and Barak Valley - Barak Bulletin",
+        "source": "Barak Bulletin",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0tkNVdjNHJ2VDNJWjdkaWNVSDlZT3EwS0FuQk1YQjVIcGtzY1ZYeG0yX19MS091Sl9xdXRSMHlORGxYV3JaYXFYdVNLeFpFYS1HM1ZXbWw5aVVtUkU3NkY1UzdnMG5hUzhzLTNVRjdZRGV0OHFMLXVmN05sZXZ1dl9oWERNanVaTlAzamUxazRFdkZ5T3hLLUdtWFVRbldZaDcyN1FBdFYxaGZrRGc0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Crumbling Silchar-Assam University road turns commuter nightmare, MP steps in - The Assam Tribune",
+        "source": "The Assam Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3o1Smk0TzR4WWxmUmdoZEozTTR6cXpiUTNPQ242NF9nVU5VTERnaVRQN2lRT1JtV3FnUjZzYXBjZGtpV0xRYUhmZGxEanR4M2VFSy1OM0x2NXpRbTNid3ZlV015WWV5R1VDc1NHUmUtWExyZzRJajNlaW9zNjdEWnR1dVFwX1R3RFMzYTZreGZTOF9FbDZKOHM2WkN3azJYak1BN3RtZ0J6VnQzYUoyM2lxVjBlQdIBuwFBVV95cUxOSGtiR0I5c1JRSktublRxU0FaTmNyTHNMeWxiUzlLdnNST0EybllNemRpTzdCc0FMeVAtU0x5c2ZLNXVhcUZGeDRuak84OUVpc3JqckN1SE44NTY5eTFTcUJvS2p0RVhWSWdKY2Y5MDdHcHlpYnBPdUJhYmNDYmpIdWt1LUdMWkNqZVJWWVZvc3RjZVNfaC1xLVp0Uk02S1BJT1YwZXllcGpscWhxTFFmWFVmVE9ISjRneEsw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parimal Suklabaidya Seeks Centre’s Intervention to Prevent Closure of KV Assam University, Silchar - Barak Bulletin",
+        "source": "Barak Bulletin",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlo5d2FZTll6d2xRQ21JRjl1cU40ZUQ4UzA0NDNoT212TUxselhwZnFqSW5OS1A3VTJvdzE0OWhzNkV2YXRoNDhya1F4ZlNDR09qR25oZUpuOFdhX2gwSlNpY0liM2N4V3FQai12N0NzZF9ZaVZNS2lYajRDTnRmRm5vMHFaUmJ1ZDYzaXpFVHlqNW56Y3p6QVhhSVhySDhSU0ZuRGp4bE4tOU9xMko5MTJnOG5meWVTRWZhTXNxblU2U25VVGpjcw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Silchar MP bats for Barak Rajdhani link, new rly division headquarters - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM0pnMUhfajF5Rm1uMllnV1hLdFZIZ0F1VHhjN1pQRUZrQlRMOFlSZm5ZS0Z1ZlZ4UGJGNUdlU3dweFMwcmxJRDZUakFLVXc4RXhxUVI4X0xzQ3RLUzlxblhqLUNmb1RHOWFaTlJUUi1tRE9fY09lRmI5RVVfQWh2dWZuM2R1N1pvV2pwVGFfTHl0ajJXczlWd0VobE42d3BuRWMzelZhZ1FoZDhGZXp2WkZGTVV1OVpscGJtYkZzRW1yUmMtcjZ1VEJkanF2VndSaFluTnRiamZ5a2dNRHfSAeMBQVVfeXFMT2V5UXVLV3VRMmdwUnVhNVQzc3d6em9NbHBEdFV3U3NHTmIwSTdmbTZ5V08tRFBkX3BWNkdfYTkxdHlILXdOcUlfS1JvTFVmS1RCWXBmZWlsU2I2Ym9NS0dFdGF0LUE0U0ZaVHFXN2VrZUt3ZXpiR0lhYVVPU1ozVzJxRU85bUUxbVhCTC0ybzdfU0t5eWJDc2liMEhjTU1aTVpQUFU1akZPT1JLdlgybjY0a0hncmxQUXZldDJiU1YzUWlrWnNXa1RRM3JfZkQyNzNsWEhwbU1IaEZqcEZuRjQzbUE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:25:24.455163Z",
+    "collected_at": "2026-09-02T14:56:36.811342Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.867339Z",
+          "fetched_at": "2026-09-02T18:38:04.329449Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.867349Z",
+          "fetched_at": "2026-09-02T18:38:04.329466Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.867354Z",
+          "fetched_at": "2026-09-02T18:38:04.329472Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.867358Z",
+          "fetched_at": "2026-09-02T18:38:04.329477Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.867364Z",
+          "fetched_at": "2026-09-02T18:38:04.329484Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.867368Z",
+          "fetched_at": "2026-09-02T18:38:04.329489Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.867373Z",
+          "fetched_at": "2026-09-02T18:38:04.329493Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +322,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/ParimalSuklaba1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "url": "https://x.com/https://x.com/ParimalSuklaba1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/ParimalSuklabaidyaBJP/",
+          "url": "https://facebook.com/https://www.facebook.com/ParimalSuklabaidyaBJP/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:52:46.876588Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,43 +360,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Nihar Ranjan Das Levels Serious Allegations Against Parimal Suklabaidya After Quitting BJP, Says ‘Greed For Rasgollas Cost Me Dholai - Barak Bulletin",
-          "source": "Barak Bulletin",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY1dwNkNJV2NUMTdtR2RQMXJMcDljOGhZOWZBSk1nRUlpdjRRMzdfRW1MbzVCMVJvdUVqSTM1YUZ3bndfdk40Qi1xVnd1a0lCQ1FrTnpTVkc1UlRDOHFYT0VRX2pHTU9MMDN0Tnh0S25QZVhydnV5bkdHYVNNMmRuX0FKUDBUVTF5eE9rckxGcVlzeUtDWTR5d3M3ME9rUW1UV1Y4LThpSnRfbFF1MTBVbnhhSXUtQTNBcm1GbkdjaDNTbHM0eVUxWmp2ZTZ6MjBXNmNyX09lR0xMYXRFQW0tTmdCcXJSR1FRME0xemt3?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Silchar MP bats for Barak Rajdhani link, new rly division headquarters - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM0pnMUhfajF5Rm1uMllnV1hLdFZIZ0F1VHhjN1pQRUZrQlRMOFlSZm5ZS0Z1ZlZ4UGJGNUdlU3dweFMwcmxJRDZUakFLVXc4RXhxUVI4X0xzQ3RLUzlxblhqLUNmb1RHOWFaTlJUUi1tRE9fY09lRmI5RVVfQWh2dWZuM2R1N1pvV2pwVGFfTHl0ajJXczlWd0VobE42d3BuRWMzelZhZ1FoZDhGZXp2WkZGTVV1OVpscGJtYkZzRW1yUmMtcjZ1VEJkanF2VndSaFluTnRiamZ5a2dNRHfSAeMBQVVfeXFMT2V5UXVLV3VRMmdwUnVhNVQzc3d6em9NbHBEdFV3U3NHTmIwSTdmbTZ5V08tRFBkX3BWNkdfYTkxdHlILXdOcUlfS1JvTFVmS1RCWXBmZWlsU2I2Ym9NS0dFdGF0LUE0U0ZaVHFXN2VrZUt3ZXpiR0lhYVVPU1ozVzJxRU85bUUxbVhCTC0ybzdfU0t5eWJDc2liMEhjTU1aTVpQUFU1akZPT1JLdlgybjY0a0hncmxQUXZldDJiU1YzUWlrWnNXa1RRM3JfZkQyNzNsWEhwbU1IaEZqcEZuRjQzbUE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Parimal Suklabaidya: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia",
-          "source": "Oneindia",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YenV4Nmo4eFZGTGk0TWFyZ3BKUmpwckhfNTBWSWhnNThXUjR4NWpmVV9kdlEwM1loMm9DdlVYVnV6MDI1all4WEZRTWFJSzdPTEYyZkdTX2hKZFhPZmgyTnhxUGM3S184VVduTDI5VFZOQlB4VVE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Silchar MP Parimal Suklabaidya flags off month-long road safety bike rally from Masimpur Military Station - India Today NE",
+          "headline": "Assam: Silchar MP Parimal Suklabaidya seeks Centre’s nod for seven major road projects in Barak Valley - India Today NE",
           "source": "India Today NE",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbDNqeGxOWDJNdXJLSFN3bFVDcEJScTVIeUg0ZjJ1Ykhaa1VkcEJ2TGJsRTUzVE1rLXlYSEdpQXVldkdYRDJQSHc0S0ZQR1RveXBIOUFra2RQMDQwd3BtMlItQUMyNy1ZNHF0dzJYYk1JY1QtSGZfb0dBWWpYR1BqeWRNYTZnRW5Vc1ROdGI3SWRZZTdURW1Ra1h4aVlreGhVa3UtdHVZX0d6RDJrS00xc3hHaHY1TDlLVnVuNWRXLU9DUWd0TFBSM0tiWEZGZk52MFlhU0N3ZkRnQjBObjJxVXhvRmdEc1hBbWZLNlJFS3hyd3BpWmo40gH8AUFVX3lxTE9tbjhtbEZWRy1fR19TT3hFcV9LY0I4ZnNoLXotR3hoWjJ2TjFwdXZQRHEzMmRyQTVUaHpjU01EVEdEVXRDUHdHV2ZqWURnaEJhc0RyNTJ3OXA1SnNpTzhuaUtvWGVpNGZvWVA4RmFITUViZjlic2JOdHVDUGdqSlVnU1BlLVZ1MzV1TnBWOHo0UGJZRkUyMEhHalVfQ0pqWjA0VTNLVDEwY1pDa3RWUWFLdWJZRUtFUUFVbVV0dzA5LV9ha2YtNzBsN2xoYl9RMUpVUmpHX2hQRlJseEk4MW1heGJQQWxKYUtFTXRsLUZwdGpQZzNBNHB4U1FMag?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObEpPMXBKRDlReVYyWEhHY1hsMlQxSDNHUDZTTUNaRUtaOVY5b0p4NklSeHhEaDU3VlFjRDMwRy0yNkpPVXJlcWVhN1FzQ2NtOFZLYTI3eUZFRjRRdHI1WDlLdXltWWZFTzdVSk1vbWRvcXZIWXpFMVBOWmwwT1BFWEJ5Ujh4MzZ2WEhIZjF6cDdrT3F0ZllrWDk3UjNMWUFPdi1PQkE3cmlaaUtvaWkyZ3lwTGgwaHozU1VPR1dqSm1xajRoaGtaQ19zQjdlVEZwX1JfSnZUMmh0WDNNWlJZcGJxaENRRWp5MTJjYlh2SkPSAfYBQVVfeXFMTmJXZ2I3WjRtdVRhaXhRWlRndU5HNHhqRmZRSE14cHJsbHlFbG41eThTRVVKbTdfZHFOcXh6SVdUbDhHT2dYSXEzZHhnN21EM0p6RkUyQlBHd09fb21OZ2c0T1ZoTGx2RERLdXhsd0NSYmtlclkyOEc0OHQ4YjAtNXc3WFlzYmotUWZ5aDhWbmx3eEZZMVJxMTFnenF3UVZPRVBGTndjNE5XUHpxMXQ1OVZmbUMzei1LWU56NGVYRDhkYXg1Zk43NGNWRGpfLTlYTnNwYTNRS21rb19XSmZmTWM0TjZ5V2ZmMUxJcElkMkdGVU9tYXRB?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Road accidents claim 10 lives monthly in Cachar: MP Suklabaidya - The Assam Tribune",
+          "headline": "MP Parimal Suklabaidya Seeks Seven Major Road Projects for Silchar and Barak Valley - Barak Bulletin",
+          "source": "Barak Bulletin",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0tkNVdjNHJ2VDNJWjdkaWNVSDlZT3EwS0FuQk1YQjVIcGtzY1ZYeG0yX19MS091Sl9xdXRSMHlORGxYV3JaYXFYdVNLeFpFYS1HM1ZXbWw5aVVtUkU3NkY1UzdnMG5hUzhzLTNVRjdZRGV0OHFMLXVmN05sZXZ1dl9oWERNanVaTlAzamUxazRFdkZ5T3hLLUdtWFVRbldZaDcyN1FBdFYxaGZrRGc0?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Crumbling Silchar-Assam University road turns commuter nightmare, MP steps in - The Assam Tribune",
           "source": "The Assam Tribune",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQjZwMXNBdUh5d21ZNWstMHpNQUJqNjNTMFkxVElXa1hWZkdkRElESVBfZnlWRG5qM3YyVG5CcVc5enA1eXc5TGdEMTVCSG5NbF9ldUlQeUlNeHRqMmhLeFJsR1BJQkdQS2o4VEZDcklVVGdESVF6ZXJqR1ZiVGxXS0xmYmhqOGVmVmk2b3JWZHdiZElKamstNUYxY2tkd2Z3aTNR0gGoAUFVX3lxTE1tZG9VeWtnaXBGZkVfcU50ZUszRklLYUZoaXpPcUJ1VGVqOE5BejlmVGhnRDJpMDBPQzZKd0thMnhkazVuNmhqM1BxdlYwdkZLZkJucDliV3V0Y2daWl9GTE5NcWJ6UXc5SFlmd3E5RzlpTms3ZWN4M1FoWUVmR3dlMWs5TGJHcEVHMmc5aWFJdTF5RzViTG00RzNTdTdqNERxMVJzUE41SQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3o1Smk0TzR4WWxmUmdoZEozTTR6cXpiUTNPQ242NF9nVU5VTERnaVRQN2lRT1JtV3FnUjZzYXBjZGtpV0xRYUhmZGxEanR4M2VFSy1OM0x2NXpRbTNid3ZlV015WWV5R1VDc1NHUmUtWExyZzRJajNlaW9zNjdEWnR1dVFwX1R3RFMzYTZreGZTOF9FbDZKOHM2WkN3azJYak1BN3RtZ0J6VnQzYUoyM2lxVjBlQdIBuwFBVV95cUxOSGtiR0I5c1JRSktublRxU0FaTmNyTHNMeWxiUzlLdnNST0EybllNemRpTzdCc0FMeVAtU0x5c2ZLNXVhcUZGeDRuak84OUVpc3JqckN1SE44NTY5eTFTcUJvS2p0RVhWSWdKY2Y5MDdHcHlpYnBPdUJhYmNDYmpIdWt1LUdMWkNqZVJWWVZvc3RjZVNfaC1xLVp0Uk02S1BJT1YwZXllcGpscWhxTFFmWFVmVE9ISjRneEsw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Parimal Suklabaidya Seeks Centre’s Intervention to Prevent Closure of KV Assam University, Silchar - Barak Bulletin",
+          "source": "Barak Bulletin",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlo5d2FZTll6d2xRQ21JRjl1cU40ZUQ4UzA0NDNoT212TUxselhwZnFqSW5OS1A3VTJvdzE0OWhzNkV2YXRoNDhya1F4ZlNDR09qR25oZUpuOFdhX2gwSlNpY0liM2N4V3FQai12N0NzZF9ZaVZNS2lYajRDTnRmRm5vMHFaUmJ1ZDYzaXpFVHlqNW56Y3p6QVhhSVhySDhSU0ZuRGp4bE4tOU9xMko5MTJnOG5meWVTRWZhTXNxblU2U25VVGpjcw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Silchar MP bats for Barak Rajdhani link, new rly division headquarters - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM0pnMUhfajF5Rm1uMllnV1hLdFZIZ0F1VHhjN1pQRUZrQlRMOFlSZm5ZS0Z1ZlZ4UGJGNUdlU3dweFMwcmxJRDZUakFLVXc4RXhxUVI4X0xzQ3RLUzlxblhqLUNmb1RHOWFaTlJUUi1tRE9fY09lRmI5RVVfQWh2dWZuM2R1N1pvV2pwVGFfTHl0ajJXczlWd0VobE42d3BuRWMzelZhZ1FoZDhGZXp2WkZGTVV1OVpscGJtYkZzRW1yUmMtcjZ1VEJkanF2VndSaFluTnRiamZ5a2dNRHfSAeMBQVVfeXFMT2V5UXVLV3VRMmdwUnVhNVQzc3d6em9NbHBEdFV3U3NHTmIwSTdmbTZ5V08tRFBkX3BWNkdfYTkxdHlILXdOcUlfS1JvTFVmS1RCWXBmZWlsU2I2Ym9NS0dFdGF0LUE0U0ZaVHFXN2VrZUt3ZXpiR0lhYVVPU1ozVzJxRU85bUUxbVhCTC0ybzdfU0t5eWJDc2liMEhjTU1aTVpQUFU1akZPT1JLdlgybjY0a0hncmxQUXZldDJiU1YzUWlrWnNXa1RRM3JfZkQyNzNsWEhwbU1IaEZqcEZuRjQzbUE?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +430,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 3,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 3,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 4.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +446,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +477,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +504,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Assam: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 17,257,627. MPLADS utilization: 3.0%. Parliament attendance: 100.0%. Questions asked: 3. Debates participated: 2. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:46.868090Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 3. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.330198Z"
 }

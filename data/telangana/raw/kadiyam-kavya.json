@@ -4,16 +4,16 @@
     "constituency": "Warangal",
     "state": "telangana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 5252,
+    "myneta_candidate_id": null,
     "slug": "kadiyam-kavya",
     "house": "lok_sabha",
     "sansad_member_id": 5783,
     "profile_url": null,
     "canonical_name": "Kadiyam Kavya",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 41,
+    "age": null,
     "photo_url": "/mp-photos/5783.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:39.073379Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 15501028.0,
-    "liabilities": 10259201.0,
-    "net_worth": 5241827.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5252",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:53.213441Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 13.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.31,
-    "expended": 2.26,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T18:23:35.525612Z",
-        "notes": "Official eSAKSHI REST API — Works: 212 recommended, 155 sanctioned, 24 completed"
+        "fetched_at": "2026-09-02T14:30:53.150021Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:11.521784Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:11.518962Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 212,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 15.374149659863946
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 70.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:35.118961Z",
+        "fetched_at": "2026-09-02T14:27:11.517896Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Kadiyam Kavya Seeks Centre’s Help For Telangana Victims In Nepal - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLThKSy1ucFpkLVVjMnFGTFE2bmllcnloS0ZnUHZzMi1oemdCel95ZG9UVVNwaGFCdG1PV1cxSWVZVFhfZEJiWVljbmMzM0wtbkMyQm4xQzdoZmd6aVVkbUJkRWZJcjNGVWEwWDNDRjBFZF9Cc0N6c1ltSlU5M0RPaVd6MTlja0ZPYlQ0TkZEZlVXWHkyVm12VG9teTJNU045dVNoSkFLUjc1Tm5VWWZlWEhhZ2lwTjdQdnNsTmhVQ1A5X3N5VHdWcNIBzgFBVV95cUxONUZTZkQzZUI2Y0VyS1QxVV9SX25NNGZZWFZOX2VRQlQ0Vk5YTmNSangzTW5lMTZFWEVvZG11MnQ0LTRrWElQLTJTdWdyOVpQVF8zYjZlaXdKcXZRVldPQlYtLTRVSzNvYjk3blBJRDZsUG9wdV8ydkxYWkY4bWtGVUc0WVNlMHlPeUhLQWNya3NNcDVadmFuQl9MUHUxWDVZdkJqTjhrUzRSamk1WXF1RmV3XzlzcU9tTDl5MUduNFBTaFBuZDRoSkMtdUstdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kadiyam Kavya Seeks Separate Railway Division For Kazipet - constructionworld.in",
+      "source": "constructionworld.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1N3YUlONkl3TElJY0Yxb0tyME1MLWloQ0hvcVVOWG4wYzV1WWE2d0xPX3NGeVN0LWYzNEtYQV9KOTUzVWQxa0NRcmtoQXV1cjNhM0lkMDZSOWUtY2R3c0pQSHlXMUpjLXRVTnVjLUdQb3VTcmpnV0Y0bjNobEItdmtXbS15VzRTd0wwWlYzUVdxRzNGYmV4cnpxRDJrY213dWszc0x0Z3FNMmRLYkZhbzBzUWE2dlN5WTJESEl2VUI5N1BHTmhSMQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Warangal MP demands Centre to ban paraquat dichloride - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3Q2WnFEeHlDZWEyYzlnbHZUMmVON09EaU1XekpORjFDeU52U3JWd0Zlb3o1NDFpMmZiZ19xWklTelpFMlJmM1lmc1hGU3llNmpYMWRnc3ZNa0F1eWxXVEhXdjJadzQzbFlDanFzb3dMaGdrMTUxZnZYRG5CS2F1QWFxdXk5LWJYOU1icnlmZ2J1OTRSWDRSd3o3Qk54cmJ6bFQwc0dFMW5vTTZvSFcxRVpUdjRGb2N5N1U1Sk9NTdIBxgFBVV95cUxQNURqMjAydXN5UVlFVmRYdS11VHQtUnd6WEZQb21MUmg2UVE5SzQ4SUdzVFNNVFVkRV9KcTZrRERmak5RWS1vRTVtYXQtZjlGUy16NEtXZWRzZVJwMzFBangyUUlzZ0xnUDhUV1pFVHlJOURKUUtBN0NMX3FOVWZiX2U3ZnVNVnhHRmxLX21xUmZHUGhMeXQ4R3FVRGw3NWNEVUFYT1JsT3VhdFlCOTQtMFNBX3JzUVRwd1ZmaVJ5Zjk2eTJCRXc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Kadiyam Kavya Seeks Separate Railway Division For Kazipet - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPakMzQWtwXzkwV0RsTGh6SDAwR2dJdmlzeVJCVUdFblQwYkhKN3JHRGN5Z19oZE53aTd1aTRFWnlvWGtTYm9ITjRTOEItTzhuM3NMT0dTV3lna3Z0NFVJdkcxbkNFSmhYQkk3UW9kU0xveHFtbVBxN2ltdVdnSVlreXRGZzBCSFJOajF5LWxYVUplajdTQklVTy1vQ2NtUHdfUXZRcU1OOW5nSkE1X0d5UUZzSzdOUEQ2bGgycGJpelNKeUxi0gHKAUFVX3lxTE5JSHVWXzVuUDFZdDVnV01JWDFwZXM4NnlDYnNwMUJqeUFKWS16Nll3ZFpCNGk2cklycXY3eEZQXzQyb3R5Qktyb1cxY0hyOTA2dktaMEluRUVCMXl0eXQtY0JLczVTLUwyVVo1cXZKM010aDB0elUxRGlJRHFKZExJdGtWTUVHMDhZcl9LSWo0SGJfaVBicW1TNVNjbndZamF3THR4U0pINnB2UDVLaXBEd3NlNXRsRmQ1NWVZdnYtSjBGdGNQMHFsd0E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress MP Kadiyam Kavya cites ‘self-isolation, brain fog’ to urge for under-16s social media ban - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQalFmQjdBSjhOem1nSjFJUVRzdTdWd2lWR084UWtzOTJFTE45U0pqdjRlYUJDNVA4Mndma1RRclVfelFHMmFXc0hvdm8wZ0lGOXVrMkVCekVxS0p0YUcwdFpSS005UUgwSGtTMUhQZkU1cXNQYUJDSXQ3N09UenltUVdtVUkzRXEweDZTTUVSbXpRV19IOGRhMmNDMGNUa1kyNUx6Vnd4bVlzUXJkdjg0bUdhUmZZOXFIRUR3U1RybDdfcXBTT01nQTVNMXdibjdlbDBIRVVqUnrSAd4BQVVfeXFMTTVnWFpBSE5HYlh1NDJTNHNBODFSY3p4dld5TVB4WFZTMUIxUHdfRDlFN210bEVZR2pLZ0VGRzlTdmZVS2VHTmRTMV9abHBfUTFPdUhacmRBUl9RT2hoMG8wTDRxUzRxVW1ndWlKRk5XWVdpRXZTMzVfVXEtWFJjUlhnRllhTlFydUZ3a3Q4ZnllWFgyX3AyQjl0QnZPRlg5SGZMV0NhYW9vR0hIOEdDdjlWX2E2bnJIX0ZhRUM1U2xMdlRUU0JMOTlkZFI4UkM2M2RKRUtsYTRHMk10VTJR?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:40.614264Z",
+  "collected_at": "2026-09-02T14:30:53.151048Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.957291Z",
+        "fetched_at": "2026-09-02T18:38:10.504361Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.957300Z",
+        "fetched_at": "2026-09-02T18:38:10.504373Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.957305Z",
+        "fetched_at": "2026-09-02T18:38:10.504378Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.957309Z",
+        "fetched_at": "2026-09-02T18:38:10.504383Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.957315Z",
+        "fetched_at": "2026-09-02T18:38:10.504390Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.957320Z",
+        "fetched_at": "2026-09-02T18:38:10.504395Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.957325Z",
+        "fetched_at": "2026-09-02T18:38:10.504400Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,18 +304,67 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "@kadiyamkavya",
+        "url": "https://x.com/@kadiyamkavya",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "@kadiyam.kavya",
+        "url": "https://facebook.com/@kadiyam.kavya",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "@kadiyam_kavya",
+        "url": "https://instagram.com/@kadiyam_kavya",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:27:14.775697Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 1,
+    "positive": 0,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 10,
     "top_headlines": [
+      {
+        "headline": "Kadiyam Kavya Seeks Centre’s Help For Telangana Victims In Nepal - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLThKSy1ucFpkLVVjMnFGTFE2bmllcnloS0ZnUHZzMi1oemdCel95ZG9UVVNwaGFCdG1PV1cxSWVZVFhfZEJiWVljbmMzM0wtbkMyQm4xQzdoZmd6aVVkbUJkRWZJcjNGVWEwWDNDRjBFZF9Cc0N6c1ltSlU5M0RPaVd6MTlja0ZPYlQ0TkZEZlVXWHkyVm12VG9teTJNU045dVNoSkFLUjc1Tm5VWWZlWEhhZ2lwTjdQdnNsTmhVQ1A5X3N5VHdWcNIBzgFBVV95cUxONUZTZkQzZUI2Y0VyS1QxVV9SX25NNGZZWFZOX2VRQlQ0Vk5YTmNSangzTW5lMTZFWEVvZG11MnQ0LTRrWElQLTJTdWdyOVpQVF8zYjZlaXdKcXZRVldPQlYtLTRVSzNvYjk3blBJRDZsUG9wdV8ydkxYWkY4bWtGVUc0WVNlMHlPeUhLQWNya3NNcDVadmFuQl9MUHUxWDVZdkJqTjhrUzRSamk1WXF1RmV3XzlzcU9tTDl5MUduNFBTaFBuZDRoSkMtdUstdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kadiyam Kavya Seeks Separate Railway Division For Kazipet - constructionworld.in",
+        "source": "constructionworld.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1N3YUlONkl3TElJY0Yxb0tyME1MLWloQ0hvcVVOWG4wYzV1WWE2d0xPX3NGeVN0LWYzNEtYQV9KOTUzVWQxa0NRcmtoQXV1cjNhM0lkMDZSOWUtY2R3c0pQSHlXMUpjLXRVTnVjLUdQb3VTcmpnV0Y0bjNobEItdmtXbS15VzRTd0wwWlYzUVdxRzNGYmV4cnpxRDJrY213dWszc0x0Z3FNMmRLYkZhbzBzUWE2dlN5WTJESEl2VUI5N1BHTmhSMQ?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "Warangal MP demands Centre to ban paraquat dichloride - The Hindu",
         "source": "The Hindu",
@@ -272,27 +374,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Warangal MP Kadiyam Kavya Named To India-Saudi Parliamentary Group - Deccan Chronicle",
+        "headline": "MP Kadiyam Kavya Seeks Separate Railway Division For Kazipet - Deccan Chronicle",
         "source": "Deccan Chronicle",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzN3M3VTZVlrRXViOHhBSlk1WnlTWFU3c0FjLUVkV1ZTS0NDb3I5UlhHZndSU3JUU0RGVEtFUGtTa1lpbFRUdTRaWG5LbkRaTVhRNGNrR0JvSE91SjZkTzMwUTE2UVRpU0lCV3NFMnFSbEJEMTBWWTQ1SGFPNEE1WUdoNjFrbVY2UFFFMldwSUt4VHV4YkFnQUZGZGdmMmhHV3M2OFZHazE4dWU4N2ZrQkltdmhOcEZBZlVUWkxzUC1WOVRzN1V6NWNNNTbSAdIBQVVfeXFMTUl6bWpGNEVOYWxLTE5VbVpnUGlEdGJPWUs2eWNaV3cwaVF3eHN0NmJhZXByZVZ2SUZ5NTJqYWJYdWR2VWNkX0YybFpqbG5VZmp4TDcxX2JFNkd2RUo5a0dCQV94VUtKMTlDNVk3cmVLVFdaMnI1M0xEZnJOYWRwdXg5WjFiRjFVcG85QU0xZEpXWGJibk5ZX3k2clA0ZmZ1ZnJPWFJUbU5wTERRSFdPWnl5VloySnJaYlNjNkdfMXQwWEhzWDM1emYzX1MwZkVMOUtB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kadiyam Kavya inaugurates Rs 1.40 crore UPHC in Waddepally - The Hans India",
-        "source": "The Hans India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS01FaVEwLU9ieXpoY2oxTFYxWi1VdDNiT05wbkUwbXNzbnYtcTNLVTFRNzlodUxkMGhreXZFYjNrdnhVRWcycHYxeXF6V1lTM0J1R0sxOXJySm1XOU15UGxWVmktU3hhQ3NoaEVxemFRb3RyU2trU2ZabXJBZmFYZWlLLTZBTXlqdnROMEpUSExJQUNNUVFlRDQ5cXJNeTJBVWQwOUN2QdIBrAFBVV95cUxPbTNjeGNiMkNVUmZ1RDZla0VBemN3LUdSenVXVU5HUzl2Q1dPSTY5Y2h3eFk1MmY4WFFLVVdaUVlfcDlqRFpGRkFnSGZMX0RnaXRqUFFhUUM3eVpzZEN5UnZWdnE4TlRWdVpaVENBN3dacnBmZ3NBWExwWXBKYUZKcWJaV3U4MmJMQWJCSEFOYVFJWTJHcG9WNnNWOXpxRXdWRXcwZk5vNXRrbDVI?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Warangal MP Kadiyam Kavya urges Centre to ban paraquat - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXVWc29KRlV0cHJINVA0NW9wVi01Z0RGSVI3cnJpQXdxMWNaMzdUN2NxbE5qSDR1RGZZaVBHQ0c0NWVMa1F2VXBjVnRacmNRN3g4RWNZWGxWTWxxbXBoUnJMaHFNVDAxWDRwaUh3bjVHdWhkczZ5VjFlajdjS3dtc2UyV1pNZzlwajg2ZnBsWkgwTnFnRDIyVkhLZkZXRzI2V1hvZ200SDRrUHZJQzhhQlAwTVltdW9yU1NteDBiXzhxSGRiLUN4dmVoZ9IB0AFBVV95cUxNQWN3YnlVN05MR1JfSXhtcVhiYnpEY3BGQm9ONHR5WUI1bkY2Rzg3eks0TmFfTlVFMEpsSlFwa2wtbXcwTmtkR20wYmIyb1E1X0F0STZ5Nm9oWUF4ZlhKR0w4ejE4S0FXYTBnNkNBQlZwc2o1VURkcjBockdycmx0Q0o4Qk1xTVBid1NHLVZrZDRkVzgwSmZFdHhPeGNBenNpOGlYWW01Z3lWYWlWMFZlUjlzNlBjdDJuWFJkQUI3d2dNaDhLQXc0Zl9CX1FDOTQ4?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPakMzQWtwXzkwV0RsTGh6SDAwR2dJdmlzeVJCVUdFblQwYkhKN3JHRGN5Z19oZE53aTd1aTRFWnlvWGtTYm9ITjRTOEItTzhuM3NMT0dTV3lna3Z0NFVJdkcxbkNFSmhYQkk3UW9kU0xveHFtbVBxN2ltdVdnSVlreXRGZzBCSFJOajF5LWxYVUplajdTQklVTy1vQ2NtUHdfUXZRcU1OOW5nSkE1X0d5UUZzSzdOUEQ2bGgycGJpelNKeUxi0gHKAUFVX3lxTE5JSHVWXzVuUDFZdDVnV01JWDFwZXM4NnlDYnNwMUJqeUFKWS16Nll3ZFpCNGk2cklycXY3eEZQXzQyb3R5Qktyb1cxY0hyOTA2dktaMEluRUVCMXl0eXQtY0JLczVTLUwyVVo1cXZKM010aDB0elUxRGlJRHFKZExJdGtWTUVHMDhZcl9LSWo0SGJfaVBicW1TNVNjbndZamF3THR4U0pINnB2UDVLaXBEd3NlNXRsRmQ1NWVZdnYtSjBGdGNQMHFsd0E?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -334,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 21,
+    "starred_questions": 6,
+    "unstarred_questions": 15,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 40.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 70.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

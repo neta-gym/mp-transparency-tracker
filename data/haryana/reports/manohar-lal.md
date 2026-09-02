@@ -3,19 +3,17 @@
 **Constituency:** Karnal, Haryana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 70
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (17%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.1 / 100
+## Composite Transparency Score: 54.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 2.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.54 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 2.54 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 22% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 3
-- **Expended:** Rs 0
-- **Utilization Rate:** 2.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -74,33 +71,45 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- BJP fields Sanjay Bhatia for RS poll from Haryana - News Arena India (News Arena India) [neutral]
+- Union min Manohar Lal Khattar reviews development works in Karnal - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [positive]
+- Khattar seeks expanded rail facilities for Karnal - The Tribune (The Tribune) [neutral]
 - BJP nominates former Karnal MP Sanjay Bhatia for Rajya Sabha poll from Haryana - ThePrint (ThePrint) [neutral]
-- Khattar, Civil Aviation Minister discuss plans to enhance air connectivity in Karnal - The Tribune (The Tribune) [neutral]
-- Haryana: Union Minister Manohar Lal flags off 'Hind di Chadar Marathon' on occassion of 350th Shaheedi Diwas - ANI News (ANI News) [neutral]
-- Karnal Haryana Bharatiya Janata Party - The Times of India (The Times of India) [neutral]
+- Sanjay Bhatia named BJP nominee for Haryana Rajya Sabha seat; 'uncertainty' over Congress candidate in Himachal - The New Indian Express (The New Indian Express) [neutral]
+- BJP Rewards Loyalty: Sanjay Bhatia Named Rajya Sabha Candidate from Haryana - The Financial World (The Financial World) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Union min Manohar Lal Khattar reviews development works in Karnal - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Khattar seeks expanded rail facilities for Karnal - The Tribune** (The Tribune)
+- ! **BJP nominates former Karnal MP Sanjay Bhatia for Rajya Sabha poll from Haryana - ThePrint** (ThePrint)
+- ! **Sanjay Bhatia named BJP nominee for Haryana Rajya Sabha seat; 'uncertainty' over Congress candidate in Himachal - The New Indian Express** (The New Indian Express)
+- ! **BJP Rewards Loyalty: Sanjay Bhatia Named Rajya Sabha Candidate from Haryana - The Financial World** (The Financial World)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Haryana: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Manohar Lal has a below-average transparency score of 47.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Manohar Lal shows moderate transparency with a score of 54.0/100. No criminal cases declared. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 25,442,914. MPLADS utilization: 2.4%. Low confidence data: Parliament activity. 2 warning(s) noted.
+No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -140,7 +149,7 @@ No criminal cases declared. Declared assets: Rs 25,442,914. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -219,8 +228,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Manohar Lal's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 2.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -238,12 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

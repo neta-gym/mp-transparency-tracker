@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5754.jpg"
   },
   "criminal_record": {
-    "total_cases": 7,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 7,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 76848656.0,
-    "liabilities": 10160000.0,
-    "net_worth": 66688656.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 51.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.8,
-    "expended": 2.15,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:31:30.547980Z",
-        "notes": "Official eSAKSHI REST API — Works: 49 recommended, 49 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:54:36.669234Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:50:57.051392Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:50:57.047870Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 49,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 14.625850340136054
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:29.335108Z",
+        "fetched_at": "2026-09-02T14:50:57.046629Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Congress’ Mumbai unit chief Varsha Gaikwad to contest from Mumbai North Central - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmkyczQ3OVJjYWthTmxxdmVoZDV6eE9wSWhQQ19ib0VNdUdIdnFSMGIxVENESUd0enduWG00VjJJa2lscE03T3U5Y2JqdGdLU2x4ZjlkcDhYQkFMUWR6SmxNYy1ST1RtSVVTY1NMNGNUQ1haY1ZZeHBDbjFsUEZ4ekUyZ2ZBWlhIUldObDFRRFlsMUZTOG45RFFHWUd2dEw3VW5YeDhEdEVPb2R5VTlmeGZVb1FUNjdxbVYxeFZzNVZ1Vk1Yb1hYRjBsQjVnVzBYZnozTzhEbFJldVdLOVhsOWdnWdIB6gFBVV95cUxPUWNWY1U0TV9KR2VmWXhaMDVmOEluZkFFcng4b3ZFMWtQa2lQdzZSOWthTzhZOU5UTTRVUEJSNm00ZHBnYl9UdzFXdXQ4SVJaNjhTaEVaWkVqSlVTaEVxOEViM1VIeUQtVjR6dlpONzN2dm5FNU9BaHhleWxkaUV4aWVFUDVjeDU1T0w4QTBxa0hOdnJRT0dNNmZvUnE1LUZLZ044dGRlMVRXRXRsRXNCWEgyZTNXZ3ZYYVJvMkx2VTE1eGh4WlVPX2xHTy0wY3ZBa0ltb242NnVna3lnV1NrS19OSWt3eUJwV0E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Given up in early trends, 4 assembly seats helped Gaikwad make dramatic comeback - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONjczaVJscjk3N3ViZWJkS2pWeGN4U2xDdlNRRGI4Z0hZY3p4Z1M2djdGdGtaaWlicDBrZkNJeEVaYUh0cTY0bDcwcWluZ2hWOHZWYURuM2lrZ1lValJmQjZIbnhYRmZSUXlGLWw0am1USjIwTG8tYVNFYjFIUEpreHBieDRnazNWTkt5T0wxeXBvNi1oWEdsbkI4LTU3WU9ZdkplSVotS3JjOHlycElhYzJrOVB5dnlnbUlIRTNWN2JzS3ZoSnJPVVlveG1QdS02Ri1MZlhlcUpEbWNUN245UlRyNGgzdEdDLWk3LVdUUTRTUdIB9wFBVV95cUxPTEoyYjQwR2tvZTRTWkduZzFIWTc2ZUMxa0RFR3FWSTNyZVpQeGJLWVVEbkd3NWQyaUE1dTQya0Y3aEQ3bTJ0TDliaHgwTm1QVm9mRjhDSGNqUDNEbHkzOG9GRDRXdHQzM1Y5ZHo3eFdIVERDM25Sa1VReFlnUHFiZTB0OE1JVjI4ZEp5WW96cXV2a0k1U21zR2RHOTJROTVnbi1vNFIyM2RZUVBSQTY1MXY2ZVh0ZnJqbXE2bWJNSlhHQ09QQ20tMlBjTUxDQVBINW50NFRjd0F4dEcxSGhxd3J5WkpsQnFWczUwWnQ0dUFkYXR4bW1v?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress city unit chief Varsha Gaikwad to contest from Mumbai North Central - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUHB6eFlWdlpKS1lsMmU2d29NUkZtS0xpenRJWGJZNElpZjVTS2hEQ3RqWGxyQjF3QmxKeXQxanYxNmJlWnFWNVFFbXJjUkdseFpOWC1ET1JtWERZeEhxRUFRQXlxMjhoZVhuZndqTXhxYXFXZDdpRjBSMDl4VnM1LTFDYklCSmlvUWxpaWJDUFVkcUFUNXBuUkZJZkFmOUZUUk9ObEMzbnRvZms2NjZGLXlqOV9iYm5aVkJORG9tN3dlTFhxNGJDTTBJdmZiZ9IB1AFBVV95cUxObGVxX3d0QXRJLXdpZWRwMFR0aXhSZHdiM3JzRWdGcTJjS1JUQUZEV1Zsai1hSEJnWk8xQURScW9way1kQnVHRVVIXzVHWWlaamVzVFpnTHVtcTNiVzExMkp0Z1RWamFrdDAzUDRWM2ZEVDk5bk5SbDNnQ19qYnh3RWdjLWFPc1lVTFdhU3Rlb29xUnNBUU11V2JXMExuVFgyQ1NiQU92dzA0T0lQR1hpRW5wUTlmX2tDNWltcVZtNnZpajA3QWI5VERWVElRMGRmZ2dSaw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress fields Varsha Gaikwad from North Central, Mahayuti struggles with seat-sharing | Mumbai news - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU2NzY3RhTFJrNGx0VnRnSE1jcHVXS3NQRzJQTGFUTEdubzFjTUhoeHpuUzVvdWRaNk1lOUN6eDc3bFNZVW1MbENmWUVCaFVDU0ZweTdkMHB2YlBPbGFkWFl4N3MwUC10a1NuaUlQdFA5U1dwYkZwZG1JMDFZUmFrMGdFZ0RSQXhFX0ZVZ0lNRXdPcC0zTERVYm56ZTBRWEtmc0tjWnNyaHo3NFZScTQ2VUlaeUxCSjlROE9CYzNQaDNySGY4RFhRaG41T0poXy05SUZRMkY3WFRxdHNLanFlNFNSb2VVQlpFQ3duVVd2TljSAfYBQVVfeXFMUDNuU04tVnpudFpMMERaTjl2THFabzhUQm9zRnhDRmt6Y0p4Z0hSdjhIU1ZvMThBZnV6eGVnUDNVWnNfNjEyVXJXR1A1TkdxNGlmdXIwc282TEFuMEdScW5SWUlEQnN6ZUFqeGNEUl9qUkl4eE9SQkdZeHozYzJJZVExbWNVYjBtVW9PeWdvR3pyMjFCbUxaTW9KNmVwQlRrSV81TWE1dExmX3JjcGxYNjgzYVZ2WUVDc2RlSl9McER3bG5FSWhiSnBMYUZrampJV2dFTVhHLVJnQWRITF8zVWZ2REVsc1U0MUxmSF81RjRyM0lIMzBn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Court dismisses plea challenging Congress MP Varsha Gaikwad's Lok Sabha win - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOFRPT1o3UEtBaVd4TERneUZ2M09kbzhYcGY0TnhHRVlPM0Y4MDlRSTNRb0lqZ01oZlc3RElKUzZaVTVteWJkWGktRl95X0M3WnZULWZwWnFqZWI5bTVyeVdzUUhNZ3V3S1B3Vkk3LTF2SjFVX2xLZWM5NkxNT0dTazltdUFmRHlvQk5ZUVc0ZVlHRk9NNEhtTGNLcWhaa2RyWXgzVDFLTjdUdU8xWGtvU1FRcEt1WlZNeENEODh1UGM3Q1ZtVUg1eEVsenNHX2pPbXFsOTNUTGRKRkRNTGxRMUg4QWNFV1otd3oyaGp0bnBDUdIB9wFBVV95cUxPaFpVVlgwT0hBbjFFVnRxbVBFX2FVLW8wVE5XV05MYnlXdkk0QkF3TjRSWlZQMnBTQ1ZoNVdaZjhZVkJsM0g1Ti1YUE5fOURZOGJPR1ZqU1VYQ0plRWxuVWFKNTgzZlp3N1ozbDNpd2lOclhjNW04Sm1RZTU5NWUwak1ZNmExSW5HMm9SNkF3LTBqem1YZ2hCdjJnVWRCWUd2UFdfWDVDc3BOQ2x4VFhjTm9lUlhZeFZTVVE3X0dvRE1JLWtXdGlwWi1PSHJldnhod01yOU5SQVFjRXAxVW5iaFAxNjF4U20teE1qTkFCazQyRGJ3NDl3?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:33.365491Z",
+  "collected_at": "2026-09-02T14:54:36.670453Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.867443Z",
+        "fetched_at": "2026-09-02T18:38:08.399214Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.867453Z",
+        "fetched_at": "2026-09-02T18:38:08.399231Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.867458Z",
+        "fetched_at": "2026-09-02T18:38:08.399242Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.867463Z",
+        "fetched_at": "2026-09-02T18:38:08.399252Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.867469Z",
+        "fetched_at": "2026-09-02T18:38:08.399262Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.867474Z",
+        "fetched_at": "2026-09-02T18:38:08.399271Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.867509Z",
+        "fetched_at": "2026-09-02T18:38:08.399280Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,11 +296,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "@VarshaGaikwadOfficial",
+        "url": "https://x.com/@VarshaGaikwadOfficial",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "@VarshaEGaikwadOfficial",
+        "url": "https://facebook.com/@VarshaEGaikwadOfficial",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "@varshaeknathgaikwad",
+        "url": "https://instagram.com/@varshaeknathgaikwad",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:51:24.335057Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -253,11 +342,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "SC/ST Entrepreneurs’ Rights Being Denied: 4% Government Procurement Target Stuck at Just 1.79% Even After 9 Years! - The Mooknayak English",
-        "source": "The Mooknayak English",
+        "headline": "Congress’ Mumbai unit chief Varsha Gaikwad to contest from Mumbai North Central - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGhoOVZwUFEtVU9zbFktdXBsU1VEbjhvV1ZmR0YzVHlLVVFSejFtNmNucERsY01CN0lLTWZUZFcyX192bUd0ZkMzOXpzTGgzV0cwSXk5ZGNkOF9NRG5VTTFCNnJSSE9JNTVIQURGLVc4clRkZnZrOFZwdkpRZ181NzVDTlRsNEJfLUViYUpFWllrZUtzYnNGRVJRVEIxSVZnVGFLQ2ZUc2ttMUJQLUx3TXd6NmxWWjdHNmhNOEZpdGJPOUg5a2x0RzBrdTMtRzMzRE9hTnBVT1N2d9IB5wFBVV95cUxQaXVFQ3MtTEItYXlJNHZiLVV2MVQ5R1lfLWFsU1NBeGtjWTBrNVNrQTFHVEpnUlRlZEN0b2dRUi12U0ZHRFAzeFFlaTFsY1BJX21NemxiM1FMWW82bjh2SUJWLWVScE5GZVh1UTRGbEotNDhyWjctb1lGYUlQdWd6N04tRXhDejdlRFhhbHdOeEExOFBXVVZabjFobGxkdXFoUko0dnYtY29XWjl3Zks1QzlRd1lUZTZZQ2ZHdjBwaGprVzRnYlBNMFhBSDVCd1ppM29Xbl9wOVI4Z1FoVnBtQnBDXzI4X00?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmkyczQ3OVJjYWthTmxxdmVoZDV6eE9wSWhQQ19ib0VNdUdIdnFSMGIxVENESUd0enduWG00VjJJa2lscE03T3U5Y2JqdGdLU2x4ZjlkcDhYQkFMUWR6SmxNYy1ST1RtSVVTY1NMNGNUQ1haY1ZZeHBDbjFsUEZ4ekUyZ2ZBWlhIUldObDFRRFlsMUZTOG45RFFHWUd2dEw3VW5YeDhEdEVPb2R5VTlmeGZVb1FUNjdxbVYxeFZzNVZ1Vk1Yb1hYRjBsQjVnVzBYZnozTzhEbFJldVdLOVhsOWdnWdIB6gFBVV95cUxPUWNWY1U0TV9KR2VmWXhaMDVmOEluZkFFcng4b3ZFMWtQa2lQdzZSOWthTzhZOU5UTTRVUEJSNm00ZHBnYl9UdzFXdXQ4SVJaNjhTaEVaWkVqSlVTaEVxOEViM1VIeUQtVjR6dlpONzN2dm5FNU9BaHhleWxkaUV4aWVFUDVjeDU1T0w4QTBxa0hOdnJRT0dNNmZvUnE1LUZLZ044dGRlMVRXRXRsRXNCWEgyZTNXZ3ZYYVJvMkx2VTE1eGh4WlVPX2xHTy0wY3ZBa0ltb242NnVna3lnV1NrS19OSWt3eUJwV0E?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -269,19 +358,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Congress’ Mumbai unit chief Varsha Gaikwad to contest from Mumbai North Central - The Hindu",
-        "source": "The Hindu",
+        "headline": "Congress city unit chief Varsha Gaikwad to contest from Mumbai North Central - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmkyczQ3OVJjYWthTmxxdmVoZDV6eE9wSWhQQ19ib0VNdUdIdnFSMGIxVENESUd0enduWG00VjJJa2lscE03T3U5Y2JqdGdLU2x4ZjlkcDhYQkFMUWR6SmxNYy1ST1RtSVVTY1NMNGNUQ1haY1ZZeHBDbjFsUEZ4ekUyZ2ZBWlhIUldObDFRRFlsMUZTOG45RFFHWUd2dEw3VW5YeDhEdEVPb2R5VTlmeGZVb1FUNjdxbVYxeFZzNVZ1Vk1Yb1hYRjBsQjVnVzBYZnozTzhEbFJldVdLOVhsOWdnWdIB6gFBVV95cUxPUWNWY1U0TV9KR2VmWXhaMDVmOEluZkFFcng4b3ZFMWtQa2lQdzZSOWthTzhZOU5UTTRVUEJSNm00ZHBnYl9UdzFXdXQ4SVJaNjhTaEVaWkVqSlVTaEVxOEViM1VIeUQtVjR6dlpONzN2dm5FNU9BaHhleWxkaUV4aWVFUDVjeDU1T0w4QTBxa0hOdnJRT0dNNmZvUnE1LUZLZ044dGRlMVRXRXRsRXNCWEgyZTNXZ3ZYYVJvMkx2VTE1eGh4WlVPX2xHTy0wY3ZBa0ltb242NnVna3lnV1NrS19OSWt3eUJwV0E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUHB6eFlWdlpKS1lsMmU2d29NUkZtS0xpenRJWGJZNElpZjVTS2hEQ3RqWGxyQjF3QmxKeXQxanYxNmJlWnFWNVFFbXJjUkdseFpOWC1ET1JtWERZeEhxRUFRQXlxMjhoZVhuZndqTXhxYXFXZDdpRjBSMDl4VnM1LTFDYklCSmlvUWxpaWJDUFVkcUFUNXBuUkZJZkFmOUZUUk9ObEMzbnRvZms2NjZGLXlqOV9iYm5aVkJORG9tN3dlTFhxNGJDTTBJdmZiZ9IB1AFBVV95cUxObGVxX3d0QXRJLXdpZWRwMFR0aXhSZHdiM3JzRWdGcTJjS1JUQUZEV1Zsai1hSEJnWk8xQURScW9way1kQnVHRVVIXzVHWWlaamVzVFpnTHVtcTNiVzExMkp0Z1RWamFrdDAzUDRWM2ZEVDk5bk5SbDNnQ19qYnh3RWdjLWFPc1lVTFdhU3Rlb29xUnNBUU11V2JXMExuVFgyQ1NiQU92dzA0T0lQR1hpRW5wUTlmX2tDNWltcVZtNnZpajA3QWI5VERWVElRMGRmZ2dSaw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "My fight is issue-based: Varsha Gaikwad, Congress candidate, Mumbai North Central - Citizen Matters",
-        "source": "Citizen Matters",
+        "headline": "Congress fields Varsha Gaikwad from North Central, Mahayuti struggles with seat-sharing | Mumbai news - Hindustan Times",
+        "source": "Hindustan Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdnBvazN0UEVlcWRNeTBsalRwRjhXUTVMeEFDa3ZDVDE2MmpiWFVNX2RjQndJSHJlSlN6TXBwN3NZVVlEUmtGdXpLVXdDcFEyVm1sUGdmb0w5aW5xYWphU1lHeG0tWEJaUWR0d2VuM254NUtZSm1hSnRpRWtKdmZnek5PWQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU2NzY3RhTFJrNGx0VnRnSE1jcHVXS3NQRzJQTGFUTEdubzFjTUhoeHpuUzVvdWRaNk1lOUN6eDc3bFNZVW1MbENmWUVCaFVDU0ZweTdkMHB2YlBPbGFkWFl4N3MwUC10a1NuaUlQdFA5U1dwYkZwZG1JMDFZUmFrMGdFZ0RSQXhFX0ZVZ0lNRXdPcC0zTERVYm56ZTBRWEtmc0tjWnNyaHo3NFZScTQ2VUlaeUxCSjlROE9CYzNQaDNySGY4RFhRaG41T0poXy05SUZRMkY3WFRxdHNLanFlNFNSb2VVQlpFQ3duVVd2TljSAfYBQVVfeXFMUDNuU04tVnpudFpMMERaTjl2THFabzhUQm9zRnhDRmt6Y0p4Z0hSdjhIU1ZvMThBZnV6eGVnUDNVWnNfNjEyVXJXR1A1TkdxNGlmdXIwc282TEFuMEdScW5SWUlEQnN6ZUFqeGNEUl9qUkl4eE9SQkdZeHozYzJJZVExbWNVYjBtVW9PeWdvR3pyMjFCbUxaTW9KNmVwQlRrSV81TWE1dExmX3JjcGxYNjgzYVZ2WUVDc2RlSl9McER3bG5FSWhiSnBMYUZrampJV2dFTVhHLVJnQWRITF8zVWZ2REVsc1U0MUxmSF81RjRyM0lIMzBn?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -323,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 66,
+    "starred_questions": 19,
+    "unstarred_questions": 47,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

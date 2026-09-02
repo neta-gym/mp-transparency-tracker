@@ -4,16 +4,16 @@
     "constituency": "Hamirpur",
     "state": "himachal pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8760,
+    "myneta_candidate_id": null,
     "slug": "anurag-singh-thakur",
     "house": "lok_sabha",
     "sansad_member_id": 4249,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/4249.jpg"
   },
   "findings": {
@@ -22,80 +22,119 @@
       "constituency": "Hamirpur",
       "state": "himachal pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 8760,
+      "myneta_candidate_id": null,
       "slug": "anurag-singh-thakur",
       "house": "lok_sabha",
       "sansad_member_id": 4249,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 50,
+      "age": null,
       "photo_url": "/mp-photos/4249.jpg"
     },
     "criminal_record": {
       "total_cases": 1,
-      "serious_cases": 0,
+      "serious_cases": 1,
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "28/2012, PS EOW under Saket Court New Delhi. However after investigation a closure report was filed. Against Closure report, Complainant filed case titled State vs Closure Report, under Cr. Revision Petition No.659/2015 in which I am also one of the Respo",
+          "ipc_sections": [
+            "120B",
+            "409",
+            "420",
+            "468",
+            "471",
+            "477A"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Honble High Court of Delhi",
+          "fir_no": "28/2012, PS EOW under Saket Court New Delhi. However after investigation a closure report was filed. Against Closure report, Complainant filed case titled State vs Closure Report, under Cr. Revision Petition No.659/2015 in which I am also one of the Respo",
+          "case_no": "659/2015",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "Yes",
+          "appeal_status": "Investigation agency found nothing Criminal in the case and filed closure/cancellation report before the Court of Ld. Chief Metropolitan Magistrate (CMM), Saket Courts New Delhi, Who Accepted the same. Against acceptance of Closure Report by CMM the Complainant has filed Cr. Revision Petition U/S 397 Cr.P.C. read with Section 401 Cr.P.C. Which is Pending before Honble Delhi High Court",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:12.111478Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 122663406.0,
-      "liabilities": 14374994.0,
-      "net_worth": 108288412.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8760",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.980875Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 62.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.96,
-      "released": 14.96,
-      "sanctioned": 3.03,
-      "expended": 1.53,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:25.803704Z",
-          "notes": "Official eSAKSHI REST API — Works: 199 recommended, 189 sanctioned, 21 completed"
+          "fetched_at": "2026-09-02T14:27:32.132529Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:22:02.562483Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:22:38.995652Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 199,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 10.227272727272727
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -110,7 +149,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:12.830963Z",
+          "fetched_at": "2026-09-02T14:22:37.903370Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +157,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Anurag Singh Thakur Files Nomination from Hamirpur; Suresh Kashyap Files from Shimla - News On AIR",
+        "source": "News On AIR",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdllDckRXZzF6RXF6d1pSTmZYY1FaeE4zZ1BzU2Q5NzFMMFpncTE5bV9PTnBmMUo4eERFRERWMG0xVEhDN1AzbzVXNm1KVEVVbmZrVS1XUll4dldYaUtsVHBldmFpcFNhUlZPQmhNSlBWN29WeHFBMHdRblExZzVxOFJBV0FwQjFpelZpUUVMaFlvZVlRLVJESzEtQkRqOVZWbXlsVWlRMVBuejVOa0E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Build strong networks, learn beyond books: Anurag Thakur to students - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOVVuQzlqOGd5YWZIeFA5cTc4dkI4ckdQenBIOEZzRVBYMDU2SVRROWZiUGFqNnBFenUzWGNPU1RCdnYxUllGeXl2MVF1XzM2WWdJNG9LcmJRdk4tM3EyYTdvQ2ROakVuYXBONG1ZVEwwcE5DZ1YtVUtmUk5OZ0M4d3R4TFB5blN2al83b3dIcDJ1ZEh4WUFMX185NlFNOWtDWkhuY0RSNEd2SFl5dzZtQ05ZYjJzUFdCQWVjcHNUWVhabnJoVzZWaVllQlJad2tsdzFZdzBBNDNmY0020gHiAUFVX3lxTE01NEI3N3J6LUpJN2lmWlBRZzJVMllkLWhvYWZ3VTRnZl94elQ5VmZiX2VBNmxuc0pQQ3RTZUFfTzNfUlU1dDFwZVFIUUtnQzJEQUx6MXRZYndPRC1qLVNLcTlLLXdjYUk4dmRHcHJlc05fWHFXNXlsb01qQmRhQmhxQUVLZzAxeE1YTVJMenhCbmJZU1NoZTYwcHoxX21Ma0hjM2NMcVNtMzA1S2x5S0RNanNxZlF0QXktVWZSbGZueXlsdnQtMDhDZktCMjFPcEtJQm44dGFSTVFUdEhYdzRhc2c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "State has received unprecedented support from Centre: Anurag - News Arena India",
+        "source": "News Arena India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU29JWGw3SzljU3l0Z3NDYkE2TlFOc2EyZDN6ZDZrUDlSR3JsRGJuRnh3R0c4a1Zuc1l0c3V5X3FfQU8tZDlVSk9UOE1NenV2LXowVmRLRmJpSjlPVWJHMUxrN3hJT0RYZ1FvZ0ttM1BBT2JwcklkLXhlZkJudDdxWVpwWXQtOTVtTzRCTnNYMDZLU2tHS3ZFUDlqdFpUN1Bi?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hamirpur MP Anurag Thakur discusses key tourism, infra projects - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPci1FUHpRUDZXQ3RSWGlTdVgtdUtibmdhVXcyeXNHZER3SkRKUU5PZzkxLVF4WTJLcV91YmxzcjJRRHkzT2piczdybkloblZZblJmZGxabzFfa1FPQ3lTMUFaNEpWbHFwRmw4Q2Ffc2haMDlidHEyNkxpUkxQZUpkZ0Rxd21WU0pBd0UwUTlCN0ZTOFJUODFyc1c5SnljNGRodF95aGt0V0dMUdIBrgFBVV95cUxPNVE0VlR1T1Nza0hRUHh4OXcyd1pwbEZzUDNOUHRSSTNxWUE3TXN0Mk1Bak02TUZXMTR1UUVJdXpsbnlWV0Vrakw5NjVWNjlyV0Ffa2tCYlpPWFRueDl1a2pqMW9aR0lSYmFNcGUwa3ZLMVBXZjR6emZ5LWRMMllJV1JKRGRVQ2VMek9lUHhCYmU2b1lXdDNmQk0tRFJIeHpnS3RKUFdsZC1MWmlGUWc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Anurag Thakur questions delay in Hamirpur med college project - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ0lSaTBnTl9CQWtYMzVyNVpQdkZyQkp4d0x2QmlsSlBBak9vOFZINlJJSTBoVFBrUTlLWkQ1TlE5QkhBeGpDQzZQSTdhdjhBTmx5WVFNaDdpWkNUYnJaaGp0cmNxNzk0WVF0UjkyWGo4OHljZWI0am0tTTZ3N2pzbFR4bXFSY3RCRzVQOFE5Qm1KOHJoZ2NHWFNQM25qdlNzZ0NsbUFEVVMzM3o2OVJKaDFwbGpMODlDa0gwZ25RR0FyQkpuOWhCNVBKZUZ5UTZjMWhJX2FfdnhUd9IB3wFBVV95cUxQdlVCOVlnRzZZTFEwN1A4TEZEOUh4MGowU09nbGRkVzdjZk5vVzhiNk1hQ0Z1Uzh1OUhUdlVHendWdjlrNnRYTnRUbmQzOXRSVGVoQ1IyaXdMc2hZWVBIMkkxYkR5aHl0ZXVoRU9qQU1DVjUyN05KRTVMbk5kVGpIclZ4SGZBeWhab0xCRGFFVV9YZUczamtpd09YRWRoSnhaaXFhR3pSZzI5aFVEbUgyRlpacnliaHE4OVhnaEhjWFVyYVVnYXlPNGtONXZXUkdMWVUtN1ZTU2xNQWFteFlB?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:18.003370Z",
+    "collected_at": "2026-09-02T14:27:32.133256Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +226,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.440833Z",
+          "fetched_at": "2026-09-02T18:38:06.061449Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +242,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.440842Z",
+          "fetched_at": "2026-09-02T18:38:06.061460Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +258,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.440847Z",
+          "fetched_at": "2026-09-02T18:38:06.061465Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +274,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.440851Z",
+          "fetched_at": "2026-09-02T18:38:06.061470Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +290,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.440855Z",
+          "fetched_at": "2026-09-02T18:38:06.061477Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +306,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.440860Z",
+          "fetched_at": "2026-09-02T18:38:06.061481Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +322,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.440864Z",
+          "fetched_at": "2026-09-02T18:38:06.061486Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +347,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/ianuragthakur",
+          "url": "https://x.com/https://x.com/ianuragthakur",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/official.anuragthakur/",
+          "url": "https://facebook.com/https://www.facebook.com/official.anuragthakur/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/official.anuragthakur/",
+          "url": "https://instagram.com/https://www.instagram.com/official.anuragthakur/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:22:39.122682Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,11 +393,27 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "The path to a developed India passes through a developed Himachal: Anurag Thakur - HIMACHAL HEADLINES",
-          "source": "HIMACHAL HEADLINES",
+          "headline": "Anurag Singh Thakur Files Nomination from Hamirpur; Suresh Kashyap Files from Shimla - News On AIR",
+          "source": "News On AIR",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1hST0VaeE0wY1pfN3dTQ2hVcEVJSEstMGphTVdkdS1Ibi1ZWFVzS2VLREFWZ1hzTkwwekN2UHAyNElQMGtvVkp4Q2VVSjdKeEkzTndLNjhSdGFqWjlocHFNM004Q0w1MWVzY2x6MmhCMUpqU1pnNExLcHU2eHkxaW5nTmRMQnF2dEljc25kaHNxTHpzR1VmbDc2bkJPeEhLRFlqYkM5SHVPRE5YbHVCVjBNSll3Zw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdllDckRXZzF6RXF6d1pSTmZYY1FaeE4zZ1BzU2Q5NzFMMFpncTE5bV9PTnBmMUo4eERFRERWMG0xVEhDN1AzbzVXNm1KVEVVbmZrVS1XUll4dldYaUtsVHBldmFpcFNhUlZPQmhNSlBWN29WeHFBMHdRblExZzVxOFJBV0FwQjFpelZpUUVMaFlvZVlRLVJESzEtQkRqOVZWbXlsVWlRMVBuejVOa0E?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Build strong networks, learn beyond books: Anurag Thakur to students - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOVVuQzlqOGd5YWZIeFA5cTc4dkI4ckdQenBIOEZzRVBYMDU2SVRROWZiUGFqNnBFenUzWGNPU1RCdnYxUllGeXl2MVF1XzM2WWdJNG9LcmJRdk4tM3EyYTdvQ2ROakVuYXBONG1ZVEwwcE5DZ1YtVUtmUk5OZ0M4d3R4TFB5blN2al83b3dIcDJ1ZEh4WUFMX185NlFNOWtDWkhuY0RSNEd2SFl5dzZtQ05ZYjJzUFdCQWVjcHNUWVhabnJoVzZWaVllQlJad2tsdzFZdzBBNDNmY0020gHiAUFVX3lxTE01NEI3N3J6LUpJN2lmWlBRZzJVMllkLWhvYWZ3VTRnZl94elQ5VmZiX2VBNmxuc0pQQ3RTZUFfTzNfUlU1dDFwZVFIUUtnQzJEQUx6MXRZYndPRC1qLVNLcTlLLXdjYUk4dmRHcHJlc05fWHFXNXlsb01qQmRhQmhxQUVLZzAxeE1YTVJMenhCbmJZU1NoZTYwcHoxX21Ma0hjM2NMcVNtMzA1S2x5S0RNanNxZlF0QXktVWZSbGZueXlsdnQtMDhDZktCMjFPcEtJQm44dGFSTVFUdEhYdzRhc2c?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "State has received unprecedented support from Centre: Anurag - News Arena India",
+          "source": "News Arena India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU29JWGw3SzljU3l0Z3NDYkE2TlFOc2EyZDN6ZDZrUDlSR3JsRGJuRnh3R0c4a1Zuc1l0c3V5X3FfQU8tZDlVSk9UOE1NenV2LXowVmRLRmJpSjlPVWJHMUxrN3hJT0RYZ1FvZ0ttM1BBT2JwcklkLXhlZkJudDdxWVpwWXQtOTVtTzRCTnNYMDZLU2tHS3ZFUDlqdFpUN1Bi?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -294,31 +421,15 @@
           "source": "The Tribune",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPci1FUHpRUDZXQ3RSWGlTdVgtdUtibmdhVXcyeXNHZER3SkRKUU5PZzkxLVF4WTJLcV91YmxzcjJRRHkzT2piczdybkloblZZblJmZGxabzFfa1FPQ3lTMUFaNEpWbHFwRmw4Q2Ffc2haMDlidHEyNkxpUkxQZUpkZ0Rxd21WU0pBd0UwUTlCN0ZTOFJUODFyc1c5SnljNGRodF95aGt0V0dMUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPci1FUHpRUDZXQ3RSWGlTdVgtdUtibmdhVXcyeXNHZER3SkRKUU5PZzkxLVF4WTJLcV91YmxzcjJRRHkzT2piczdybkloblZZblJmZGxabzFfa1FPQ3lTMUFaNEpWbHFwRmw4Q2Ffc2haMDlidHEyNkxpUkxQZUpkZ0Rxd21WU0pBd0UwUTlCN0ZTOFJUODFyc1c5SnljNGRodF95aGt0V0dMUdIBrgFBVV95cUxPNVE0VlR1T1Nza0hRUHh4OXcyd1pwbEZzUDNOUHRSSTNxWUE3TXN0Mk1Bak02TUZXMTR1UUVJdXpsbnlWV0Vrakw5NjVWNjlyV0Ffa2tCYlpPWFRueDl1a2pqMW9aR0lSYmFNcGUwa3ZLMVBXZjR6emZ5LWRMMllJV1JKRGRVQ2VMek9lUHhCYmU2b1lXdDNmQk0tRFJIeHpnS3RKUFdsZC1MWmlGUWc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Budget strengthens ‘Sahkar Se Samriddhi’ Vision: Anurag - Indian Cooperative",
-          "source": "Indian Cooperative",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT25Jc0EyZUFWMk5RVS1QTUE4dDdwMk1WR2t0TTN3bkNxSzRhLTRvN19mOWFFcEhTcHlYVmMwMWQ5b19VekU5RVhsQWQ1Q3ZfVEFNQ05qdnNzTXdWUndrNllCdlM2bGJ1ekhPcms5RE8tXzlFQVA5U3o2ZWs1Qk1idDllMFVPaGdBblZTY0tJVUdHRVpKY3V4M2JCVUFkaVpTN0taeGJXNVc3VGfSAbABQVVfeXFMUGZ0RTBlT25jTHFQX3ZkV3VuTWFFeDR6UFNrZGhtT09paTN5SmJtbVVPZW1EOENnYl9SMGdGNmRSVmEwNmdFNWZ4NEtxampYczRpbHZ1aFNqV1NVRHNsdEZLSTRfa3V1TjM0LWxnX1dXd3hTcU9uRFlxNXdQQ0t3WmhKTnlRU1M2MHd5Nl9hVUhwY0lja0lTQUVVd2lsZTluVndzVTRtb0lQNmNybUlraEM?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Centre has prioritised world-class sports infrastructure: Anurag Thakur - Awaz The Voice",
-          "source": "Awaz The Voice",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakJNLXJ5Rk5Xd0tudWJsNlRIMjRvZkJEcEZBZ3g5Y2t6OUZrLVotSXVtVlJEYTlabXlIWkV4V2hZZ0NWQTZZakM2Vkc1Qjk5QjB0UExfaTZfczltT2RfZ2w2RlRaeGpfSmRaaG1DWUg3c1RqTWhhdW5YV1pOUTZCTndYQ3dnSVdrMUYzNjBDTnpkNzdtR0VjVnBiSVRuN1luSWlXRFZJRUg5aVhJTHFBMXcwSUQ0X3VTdjdQTg?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Himachal Pradesh gains under 16th Finance Commission: Anurag Thakur - The Times of India",
+          "headline": "MP Anurag Thakur questions delay in Hamirpur med college project - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1VVeUplbHl1Y2N0dmhoMFlQRUN1MGFqenNqVHhOWXVXX1dfblZmQ1MxUmc5OHh2Vkc2WDFudlNuNTZuNll3V3RDcjBOMTZhLTZuaHZQUnViTUloSWctbVBPRzJsX0hOM0daVTlodW5RWnJVWms0MnFBZmtRcUVLbHhXSVcwSWtLbzk3dkFraUxiNE52Z0hGYzZZVzI4Nk5UdHhZdXdreTEzRTZDbEE0VXc4bFJ6U040LUlJTEpOTXNyUnJNV09YcWE5RVd0S0ZnUUNiWHA0UzVfN0o30gHiAUFVX3lxTE5DUENoclJ3eUF1Qnd5aGZmd1hwODNTTTRFWXhEZnJuOXYyb0p1RXFVYzBCWlpKemtTQ2piSmF4MWwzTmRyUXZVTHM5dHF4SDU5YllLWVowMGNzdWxZMndCMWdzWEMzNl9XRTd0RkVaLUEzZENrcElvb1VFeFZiXzNZTXJqMzRsTVVJQ24xYTZpRXNCSlNTYXpycGUtMFQwMXUySXNqMm9lV1Z4bWpNR3RCMVdiQXJTY1NucG1KQzQ4S2pPZU5VZ2hEQmJkbHM4eHZtVHZMaFFnLVZiRDMwTTFZMkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ0lSaTBnTl9CQWtYMzVyNVpQdkZyQkp4d0x2QmlsSlBBak9vOFZINlJJSTBoVFBrUTlLWkQ1TlE5QkhBeGpDQzZQSTdhdjhBTmx5WVFNaDdpWkNUYnJaaGp0cmNxNzk0WVF0UjkyWGo4OHljZWI0am0tTTZ3N2pzbFR4bXFSY3RCRzVQOFE5Qm1KOHJoZ2NHWFNQM25qdlNzZ0NsbUFEVVMzM3o2OVJKaDFwbGpMODlDa0gwZ25RR0FyQkpuOWhCNVBKZUZ5UTZjMWhJX2FfdnhUd9IB3wFBVV95cUxQdlVCOVlnRzZZTFEwN1A4TEZEOUh4MGowU09nbGRkVzdjZk5vVzhiNk1hQ0Z1Uzh1OUhUdlVHendWdjlrNnRYTnRUbmQzOXRSVGVoQ1IyaXdMc2hZWVBIMkkxYkR5aHl0ZXVoRU9qQU1DVjUyN05KRTVMbk5kVGpIclZ4SGZBeWhab0xCRGFFVV9YZUczamtpd09YRWRoSnhaaXFhR3pSZzI5aFVEbUgyRlpacnliaHE4OVhnaEhjWFVyYVVnYXlPNGtONXZXUkdMWVUtN1ZTU2xNQWFteFlB?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +463,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 35,
+      "starred_questions": 10,
+      "unstarred_questions": 25,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 67.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +479,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +510,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +537,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Himachal Pradesh: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 122,663,406. MPLADS utilization: 10.2%. Parliament attendance: 95.0%. Questions asked: 35. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:48.441583Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 35. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.062176Z"
 }

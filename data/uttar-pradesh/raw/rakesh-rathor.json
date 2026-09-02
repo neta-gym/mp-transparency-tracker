@@ -4,16 +4,16 @@
     "constituency": "Sitapur",
     "state": "uttar pradesh",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 5381,
+    "myneta_candidate_id": null,
     "slug": "rakesh-rathor",
     "house": "lok_sabha",
     "sansad_member_id": 5743,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 60,
+    "age": null,
     "photo_url": "/mp-photos/5743.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,100 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Vaad No. 1552/2020, P.S. Pisawan District Sitapur",
+        "ipc_sections": [
+          "406",
+          "417",
+          "323",
+          "504",
+          "506"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "FTC C.J. (S.D.)",
+        "fir_no": "Vaad No. 1552/2020, P.S. Pisawan District Sitapur",
+        "case_no": "CIS 1807/2020",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "Yes",
+        "appeal_status": "Pending in FTC C.J.(S.D.)",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:08.236728Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 42107005.0,
-    "liabilities": 8288936.0,
-    "net_worth": 33818069.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5381",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.872244Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 33.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.65,
-    "expended": 8.6,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:11.954042Z",
-        "notes": "Official eSAKSHI REST API — Works: 56 recommended, 47 sanctioned, 20 completed"
+        "fetched_at": "2026-09-02T18:25:03.515119Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T18:19:41.320049Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T18:19:44.414980Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 56,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 58.50340136054422
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +130,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:11:08.213607Z",
+        "fetched_at": "2026-09-02T18:19:43.780294Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +138,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Sitapur Congress MP Rakesh Rathore walks out of jail after getting bail in rape case - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNU02dTllT0ZnOWZ3dUZjN1BDdld2M3hxemJzc2pDZVY5OGZaQ2JNWU9DQkowbUtKNEx2R2Z3X0NfOEpMbGlHazBrM3dxeUowOEhfWkVza2JvZnZ6TjRaZXFOQU9PQW9Vbk1CWmtDSWdWYkV2bGYyN3A3cXNLM25xZnZhRExRNEk2aldBWGU2d2NFakpRdzVPS0g0MFpvREJ4VGFLTExjRlVyb3VNUEY1NlVVaXdrbG1VUE0zY1JzZmFZSUhORUxQY3lEV01DV28tZ0JUZEptTEJfSTRTQk1idm9KdnF2NTItS1R3VG130gH0AUFVX3lxTFBJNm5LQ2wwcnl3SFNxY2plczVidzVVb1BrbTZua3JuMEVCRVh0Z29GSEJ0c3hCdS1Oa0lmT1Z5ckdVYThKd2VIRHZFQTNMN28zbXpxaUZyR1BYRzlDTVVZWHExLWI0dTF5bnpMS3R1NUtXUzk0bTRSUklJZl9TSHViLUNTeVYwLVFmTmlGd0hPUm9xUUVxLVVLV0RKMHNxZjhWRFlwNjFZZUpiOGJ5bWdOWEpQRG1mdXJ3cW9jWHFvd0VxaDhXZHpXa3lzaFdsc0NINmFoc0h4R2ZNbUt4TVRzUXNjbU55ZHBYVFlQSWpDamJZOW4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "सीतापुर: रेप केस में फंसे कांग्रेस सांसद राकेश राठौर जेल से रिहा, बोले- अगर मैंने कुछ गलत किया तो... - AajTak",
+      "source": "AajTak",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLVhnR2plVnliS3Zna0U4dGVxSFdrM21mbXFyb2dHQVFMdml3NU5RWVhnbE9sejhpWmxKeDFwNUlXYWhlV2dwUy1VVExwTks5TW5rOVNPV0RIN2dpSGlQcTZmRmhVRnNOUk5KeTlhcGU1eHlsVnJadkpQeE02LWxqcGVVYkNwWjV2V2ZET0QtNHJjRjV3RXdDQWd2X3o5SWI0ZVBRcnVLR3hzZVhvc1daNkJWMzFiRjVKN2NSbGN6SENjM2JXcWNyM2J2OExKZ0hQSExYOERWVVUzcTNpUXVYV0k1UE5qWENRU1UxbDVLaUR2c1REMlNvWkpjUTBOUdIBgwJBVV95cUxNSGQ2aC12RGFwUU5aZHFNV0tVOGR5alFETEp5b2k1bmxYOHY0ckhzMFlCLTd5Wl9GUjZ3cXNkZ2ZBNDBLaDdicXp6bjhhNjRCT3YyWkR0U0lJWkdYVzExckhUeGtsMUpxNExlZWdLU19qdG5VZ004bjVyVjF5RkZJZzFGV1BJdHRfSWJNNkszZHoxRzhTUUZ4eDV3eUc2YTBXUncyQkRoZHB0ZjBfbkhzYzVfUjNSbXZRa2tKWkpjOG9TQnVGNnd6dFQ4SFF0OUZkTUhwUXFsa250X1NjcEVHZVNWa21NcjVXU21YejA2LTQwUk9RRGdFZEJvVlpxZ3F3UDVB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Allahabad High Court Refuses Anticipatory Bail To Sitapur Congress MP Accused Of Sexually Exploiting... - Live Law",
+      "source": "Live Law",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQVVrWFlYdEt4WlFGcFZpQktJd2tqZzZZSGFvd1EyVTNvWlA5aDNIbExJWURxRERBVV8tV1lNVzRoYUVnZUFWWFZsVlJTRTJVbUJheU9rV3FRRnFmeXdGWW9LMTBoeHlJNlpZZ191NVlFbmo0UFNaUEdKbUpRNlE4SHhvRmpIVkJJSU1ZekkwRE5fRnc0VzBpSkJsNVpYSlRHZzVPZW5EUkhGYnR5WUFIZXV4S0otbUhCRzhDQS1xQ2lwN3JTUGs4ZVY1aVhmQUtCdGlaOEY0a3Q3bHlMTjJIOTFNR0N1cmxpVzhPeG1RdzNWRC1CYjZ4bnRneWJJd0VsSlVtOFRPWdIBjAJBVV95cUxPbm4yRVdfYkZGTjNpX1p5cEhLQ1d0M0hsYjVjc2FCbjdKUXFyM08zSlVuU2FfckxoWFRrUFZmSTN6My1WeEQyNGZEUFh6aGtIbHFycld1bXFlTGppak96cl9Edm9STlA2WjQ4SG9LNDg3QmFvN2Q5dHEyZGFvQWt3TGVjcUU0czI1M0JBd3hUcHdMVFktcm5PYl8zNDFGZTJqQmxlN1ZLZTMzRG9Vci1nNGpJSFRyNGJiOU5nTWVaMlcyeDJwLTlsajBJYnRKbnJkUkdpb1VzcWhTc3c5QTdPZWZYRU83SkpjX05wMmFnYkVWMGp0MUlQamVxWXNVUVNQYWxRQnp2ZFprdXFW?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "UP woman accuses Congress MP Rakesh Rathore of rape, threats - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXZDQzNUbWp6Ym1iS1hfaV9Jb01sNWk3N0NITFVXSWFoSE91WTVfSlRzSmZGTjBuVkFDeFdLQnZ6aE1aMDNEREx2YXRuQ2JFTC0xdmlxTUhBM0lWa3ZUTjc1YlNwVDIxc1ZRR2JlUnhXa25EelNXMS0xblFTeGpYZE5oOVM4OVl5b244YTBwZTVwcGZwbUhsZFJGMW1RRjZyLV80OTJiY1A4UzFtT2xMLUs1YzVOTEtGa0w1NkJ6TFk5Qko0TDZGZFl2ZXRrdTjSAdQBQVVfeXFMT0QzcjdWQnBsRnFSalAzSWZ3MkJ5c1Z0b3A3NFVlUzc3eDJ4cDhUUmV1OV9YdGF3cU1Qd3pwbjM0SjhZUXVkUE43VUZ1TndwTVc0dTdpbGNGRW1TVW1PczROY1N0STNUMElzYndVVEkzakN0VUx3bHFyNUtRY2toQnF2eFF3NWtCTGp1NHA2RXo4d0xadUY3bkllRmlsYVhUaEZoS3JXdU9yTXBJZHVWTVVUdGF5VzVPU3dPOVhIMTlFVmoySHFibjAzaVBsTTBsd1hIWnA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress MP from Sitapur Rakesh Rathore arrested on rape charge - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONFV1ZWhjYlA5djY1MTBQS1RxekgzYk9mUm90LWkwY3pXUDN2d0J3ODl0V0xIZHctX19BRVVNQWd2c0s3QTAwSXlJYXk0bHlSeXBfOTdDcDlmajlwb0pTVzctMGZNT3BOMW9tTmRGVHpMNmN0ZUdVUW1HanBhejlOSmd6djk2TFZTVWhYLXFVYTRsMHMxVldUVi0tUUU3RDduZW05aVdtVEpmd0hiemhNVHJDNlXSAcIBQVVfeXFMUEZNT1hWMWhjMkFqZmdWRzlRUU9DSEJ5TDQwdzhsbHdqYTRTbnV0T09pMU5FOG9Qbm1NQ1B6bjhubE4zQWFCbnZWRXUxTDJXYXhRTGY3S05KY3FwTDdMVldMMjRDd2toc0hyWHY2bmtjQzVxR0NEbWozZl94ZXVfM0pqX053dUp2aWJCUEZUV0lDNnhWa1lUNWZhbVplRklfREkwS0JBYXlXM3NpN2NWVW1CZWxsLWhmU0N6cEEzNFp0aXc?oc=5",
+      "sentiment": "negative"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:11:28.883746Z",
+  "collected_at": "2026-09-02T18:25:04.510379Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.997092Z",
+        "fetched_at": "2026-09-02T18:38:11.590946Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +223,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.997100Z",
+        "fetched_at": "2026-09-02T18:38:11.590956Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +239,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.997105Z",
+        "fetched_at": "2026-09-02T18:38:11.590961Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +255,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.997109Z",
+        "fetched_at": "2026-09-02T18:38:11.590966Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +271,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.997113Z",
+        "fetched_at": "2026-09-02T18:38:11.590971Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.997118Z",
+        "fetched_at": "2026-09-02T18:38:11.590976Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +303,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.997122Z",
+        "fetched_at": "2026-09-02T18:38:11.590981Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +319,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.997126Z",
+        "fetched_at": "2026-09-02T18:38:11.590986Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -276,17 +353,9 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 4,
-    "neutral": 6,
+    "negative": 6,
+    "neutral": 4,
     "top_headlines": [
-      {
-        "headline": "Sitapur Congress MP Rakesh Rathor walks out of jail after getting bail in rape case - Dailyhunt",
-        "source": "Dailyhunt",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbXpDTXkzQmZWa1Z1bldxeHpLY2lJUEdCaFNoVnVfdWRQVC1SOVA0SWhKYWpFbUlNWFgzLWh6eTRSeVRoeHFyU0JjWThTdWxtYzdVdEtWYk9xY3g2b3JhTGZOQkJQcXY1cHFKU1dxbjRRS09JZzFuQ19STExJWV9JOHJPMjZlTW5DT2VXUEFPYVNtcWc3OVZwUjZUenF1QVliOWNHUUFiWWFjNDFzbXp2WFZaTXlnalJQU184d01YZjFtVHI3LS03SXN4QjRoRlNHVlNmaVIyRThUN0NQNGotenQwNXdyLUk3OHNuMGY2RkN2dFFxWTZpZ1ZiTWF0Wml3?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Sitapur Congress MP Rakesh Rathore walks out of jail after getting bail in rape case - The Hindu",
         "source": "The Hindu",
@@ -304,23 +373,31 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Congress’s Sitapur MP held for rape on pretext of marriage - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVFWd21lTWZKWElKdXNPbklVOG10MmhUSEdZVWFQTExCMHUzZ09kODBwRmdveUhZbEdpeXdSZ1I2Slg3NVJTeFJfNDBpZ2ZDcDZnaUc2ODNmU3BxNVQ1b2tya2xQbHFlZzBENE1Zd0hBcjA2bm5RUGFoQ3FZWDRjaGtUM3hSZWFCMGdQLURKSEczTzl3VF9SUm9MN1lhbkpBLUhiVzdDYlAtNm9ZcXpyNzF0VUkzS1NSLWNR0gHAAUFVX3lxTFBpY05NTnk5YnAwR3hjckxvSFFLelRFYmJSWHVmU2g5SUQ3dTdkRkowZ0ZaWDA4X0JranBwQ19lbExvc0xtMzBkN0J3Q3pZVlAxWU9qTlBVSng4dW52c3NyWlNXb2ZIMUhrS2FDZ2ZNR19TOVVSTGo4U3czTzEtbkltdDBjdmVLcDNwQTE4WXctNDlLT0t6c3J1U3ZGcjY0OXJfbExnMzBWdmtqRDhXaURWXzNWYnNqYmgwT1NoZ3dqYg?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Allahabad High Court Refuses Anticipatory Bail To Sitapur Congress MP Accused Of Sexually Exploiting... - Live Law",
         "source": "Live Law",
         "severity": "medium",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQVVrWFlYdEt4WlFGcFZpQktJd2tqZzZZSGFvd1EyVTNvWlA5aDNIbExJWURxRERBVV8tV1lNVzRoYUVnZUFWWFZsVlJTRTJVbUJheU9rV3FRRnFmeXdGWW9LMTBoeHlJNlpZZ191NVlFbmo0UFNaUEdKbUpRNlE4SHhvRmpIVkJJSU1ZekkwRE5fRnc0VzBpSkJsNVpYSlRHZzVPZW5EUkhGYnR5WUFIZXV4S0otbUhCRzhDQS1xQ2lwN3JTUGs4ZVY1aVhmQUtCdGlaOEY0a3Q3bHlMTjJIOTFNR0N1cmxpVzhPeG1RdzNWRC1CYjZ4bnRneWJJd0VsSlVtOFRPWdIBjAJBVV95cUxPbm4yRVdfYkZGTjNpX1p5cEhLQ1d0M0hsYjVjc2FCbjdKUXFyM08zSlVuU2FfckxoWFRrUFZmSTN6My1WeEQyNGZEUFh6aGtIbHFycld1bXFlTGppak96cl9Edm9STlA2WjQ4SG9LNDg3QmFvN2Q5dHEyZGFvQWt3TGVjcUU0czI1M0JBd3hUcHdMVFktcm5PYl8zNDFGZTJqQmxlN1ZLZTMzRG9Vci1nNGpJSFRyNGJiOU5nTWVaMlcyeDJwLTlsajBJYnRKbnJkUkdpb1VzcWhTc3c5QTdPZWZYRU83SkpjX05wMmFnYkVWMGp0MUlQamVxWXNVUVNQYWxRQnp2ZFprdXFW?oc=5",
         "sentiment": "negative"
+      },
+      {
+        "headline": "UP woman accuses Congress MP Rakesh Rathore of rape, threats - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXZDQzNUbWp6Ym1iS1hfaV9Jb01sNWk3N0NITFVXSWFoSE91WTVfSlRzSmZGTjBuVkFDeFdLQnZ6aE1aMDNEREx2YXRuQ2JFTC0xdmlxTUhBM0lWa3ZUTjc1YlNwVDIxc1ZRR2JlUnhXa25EelNXMS0xblFTeGpYZE5oOVM4OVl5b244YTBwZTVwcGZwbUhsZFJGMW1RRjZyLV80OTJiY1A4UzFtT2xMLUs1YzVOTEtGa0w1NkJ6TFk5Qko0TDZGZFl2ZXRrdTjSAdQBQVVfeXFMT0QzcjdWQnBsRnFSalAzSWZ3MkJ5c1Z0b3A3NFVlUzc3eDJ4cDhUUmV1OV9YdGF3cU1Qd3pwbjM0SjhZUXVkUE43VUZ1TndwTVc0dTdpbGNGRW1TVW1PczROY1N0STNUMElzYndVVEkzakN0VUx3bHFyNUtRY2toQnF2eFF3NWtCTGp1NHA2RXo4d0xadUY3bkllRmlsYVhUaEZoS3JXdU9yTXBJZHVWTVVUdGF5VzVPU3dPOVhIMTlFVmoySHFibjAzaVBsTTBsd1hIWnA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress MP from Sitapur Rakesh Rathore arrested on rape charge - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONFV1ZWhjYlA5djY1MTBQS1RxekgzYk9mUm90LWkwY3pXUDN2d0J3ODl0V0xIZHctX19BRVVNQWd2c0s3QTAwSXlJYXk0bHlSeXBfOTdDcDlmajlwb0pTVzctMGZNT3BOMW9tTmRGVHpMNmN0ZUdVUW1HanBhejlOSmd6djk2TFZTVWhYLXFVYTRsMHMxVldUVi0tUUU3RDduZW05aVdtVEpmd0hiemhNVHJDNlXSAcIBQVVfeXFMUEZNT1hWMWhjMkFqZmdWRzlRUU9DSEJ5TDQwdzhsbHdqYTRTbnV0T09pMU5FOG9Qbm1NQ1B6bjhubE4zQWFCbnZWRXUxTDJXYXhRTGY3S05KY3FwTDdMVldMMjRDd2toc0hyWHY2bmtjQzVxR0NEbWozZl94ZXVfM0pqX053dUp2aWJCUEZUV0lDNnhWa1lUNWZhbVplRklfREkwS0JBYXlXM3NpN2NWVW1CZWxsLWhmU0N6cEEzNFp0aXc?oc=5",
+        "sentiment": "negative"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Predominantly negative coverage (6/10 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -350,15 +427,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 6,
+    "starred_questions": 1,
+    "unstarred_questions": 5,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 10.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +443,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

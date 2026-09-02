@@ -4,16 +4,16 @@
     "constituency": "Jamshedpur",
     "state": "jharkhand",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8563,
+    "myneta_candidate_id": null,
     "slug": "bidyut-baran-mahato",
     "house": "lok_sabha",
     "sansad_member_id": 4705,
     "profile_url": null,
     "canonical_name": "Bidyut Baran Mahato",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/4705.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Jamshedpur",
       "state": "jharkhand",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 8563,
+      "myneta_candidate_id": null,
       "slug": "bidyut-baran-mahato",
       "house": "lok_sabha",
       "sansad_member_id": 4705,
       "profile_url": null,
       "canonical_name": "Bidyut Baran Mahato",
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 61,
+      "age": null,
       "photo_url": "/mp-photos/4705.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,99 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "03/22, Dated 06.01.2022, Sakchi Police Station, Jamshedpur, East Singhbhum",
+          "ipc_sections": [
+            "188",
+            "269",
+            "270",
+            "290"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "",
+          "fir_no": "03/22, Dated 06.01.2022, Sakchi Police Station, Jamshedpur, East Singhbhum",
+          "case_no": "",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:20.619231Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 38345063.0,
-      "liabilities": 4849078.0,
-      "net_worth": 33495985.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8563",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.218183Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 31.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.8,
-      "expended": 7.35,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:57.105397Z",
-          "notes": "Official eSAKSHI REST API — Works: 173 recommended, 173 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:34:36.511699Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:30:53.871103Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:30:53.868329Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 173,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 50.0
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +147,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:23:07.554151Z",
+          "fetched_at": "2026-09-02T14:30:53.867299Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +155,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "PM-VBRY benefits reach Jamshedpur - The Avenue Mail",
+        "source": "The Avenue Mail",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mazFUbTNqQzI3T3JudUVrNGxMX1U3Y1o0SWpOR25rdF9wS3IxQzV1c2RnUUhKckRVU2VnUzJaLTV3VUxtN1ZwU1dnNnJ5WGs1b3pSU0puVWIwUmdoMTByUlR4emNMOTQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jamshedpur MP Seeks Rs 4,820 Million Plan For Tatanagar Platforms - Construction World",
+        "source": "Construction World",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUnlPRWFrUzk4Rjlqa1RMeUdhMWE5NEViN05wTzJ6cUlkbGRySFpFQzdFTlIwWmJKMTFpMFhJOU1RVTJLU3NYSjhhN1VzNHdXUWY1bWpNWWkyeC1NZDZzdVdYVXM0dVdJd2lfLVJCQndvMnZYbmI4WEp6SUs1bHFEMUpPaGxpa09nbDltU1NFeHJ3M2U0WG11djFBT1E0WUVSNHA5R0NvSmxKZ0JZX3c1UG9XY1Znd1B6Vk01ZzQ3RmJnMzhtb0pkT3VhNTBpczB1UVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jamshedpur BJP delegation flags crime, seeks review of cases against workers - The Avenue Mail",
+        "source": "The Avenue Mail",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2ZuZEhqMENOV3N6Rm9idmdvcXBJdloyaGhQX3hzTlBEcl9xbmxuTHJLTHE1LU1kdXp3Ykt3d0FwMUNOaDlTdnpUdG5TdVcwQVZ1RkJ6M214N0tyLUR3Vm1YTm9qNWFuQTJCcUlOVi1FQXdmZmxBN2JCMmo2RFdMT0Z0UFhJb1o1WEFwTWo2LWdZeVNsUkhvQVhGMVh1REk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MoS restarts Kendadih copper mines, launches concentrator plant expansion | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVkxoX3lFY0JvYkJQVktfNmFlNFloZk85c1FjRVR6R1M2dWt5UnIwOWpiTENDbl9VcG8tdVpHSHZqUjV2WlVJcUZTUk9vM3NBSEZ0dDNaTmtHaElXSkRQZG0tRi1XRU14SG5ZTGVfTUQteWllUElvdU1LQmFvZUhOTVhFSGItZ3otWDJpdC0ycWZhR21WNWFPUEs5WUthUG9FM2RUTEhSZ0FTNVlWeHdycW1CQm5nZTBRTHV1TlprRlZEWTEzYU1HaVFCWExzZXRuUFhEbtIB2gFBVV95cUxNdlprcWozV0Q3ckxXRmVna3d4UjA5b3lfMEpjQS1xQVZlbHhGdEMzeDdnZm1mcGtMcVQzZU1kVGdKaEwzQl9LSERDeC1yUS1yVW5nWlJGNDJ0Y0p2UVNZdFhmRDAtZHd1NThQRmpaQnhXbmRQZjl2cUJUZ0RoMzJzMS1EWnlGWUh3c0lvc25QVW8zbFhKdU91bG1sczRGNmxoUzFRbXFJdkU4NDlVM0haQjdVTHhPVENTMW95ZG5vczFjMk5YdEtlN2V2SVNJMEtzUUpsWHNlSmQ2QQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP Jamshedpur Hosts Exhibition Showcasing India’s Digital and Cultural Transformation - The Avenue Mail",
+        "source": "The Avenue Mail",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXRTelc0R0lKRHhhZHJhTUtpU0pIaEp5emhFeE1WemthMV9OTE8xRTl1Z09hYjAwNXVoa29ybElkb21Dc3BueXBWUWN2T1pBdnQ0a2RuUzVoRmlndGU0cXhpekZSSk4zREFLOC1aUmVxRzBFUGphU3NuOUxJQi1nUGl3MmhGTHFJMUZVREU1Um96cTdYVWVzT3FCR1hyRVUwZ0k3NFJSR1BReUJu?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:24:11.643670Z",
+    "collected_at": "2026-09-02T14:34:36.512624Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +224,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.656052Z",
+          "fetched_at": "2026-09-02T18:38:06.262909Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +240,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.656061Z",
+          "fetched_at": "2026-09-02T18:38:06.262920Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +256,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.656066Z",
+          "fetched_at": "2026-09-02T18:38:06.262925Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +272,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.656070Z",
+          "fetched_at": "2026-09-02T18:38:06.262930Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +288,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.656076Z",
+          "fetched_at": "2026-09-02T18:38:06.262936Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +304,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.656080Z",
+          "fetched_at": "2026-09-02T18:38:06.262941Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +320,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.656084Z",
+          "fetched_at": "2026-09-02T18:38:06.262946Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,43 +358,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Jamshedpur MP Urges Railway Minister to Tackle Chakradharpur Division Congestion - The Avenue Mail",
+          "headline": "PM-VBRY benefits reach Jamshedpur - The Avenue Mail",
           "source": "The Avenue Mail",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmVQSXJMemRBNFBqWnJ4Mmd2bzhIcTBZZXMwR3F0UDlxZkZVVGNPNlAzS1RobnczVzhpZjNKM3BSWjdlV24wVldRT0JJSUYzM21oMzY5UG1hMVlfX1daRTcweTVRTTlrN2V5REdPRXlYNHN1UElTdHBodGZ0dXRDVGRvUWZxNms0VUpUSHp1NG9pRTRfUWZ5cA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mazFUbTNqQzI3T3JudUVrNGxMX1U3Y1o0SWpOR25rdF9wS3IxQzV1c2RnUUhKckRVU2VnUzJaLTV3VUxtN1ZwU1dnNnJ5WGs1b3pSU0puVWIwUmdoMTByUlR4emNMOTQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Jamshedpur MP Seeks Rs 4,820 Million Plan For Tatanagar Platforms - Construction World India",
-          "source": "Construction World India",
+          "headline": "Jamshedpur MP Seeks Rs 4,820 Million Plan For Tatanagar Platforms - Construction World",
+          "source": "Construction World",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajNfcXMxNjBWd21KaVZNRFgtclh6RDFuSmhzTGFpd185d1BLMndzVFZlTlo3WWdGcS1nNTB3SFhBQzQ4WTNJRWhtSzFETlRrUHd0VTl5SktWZlVjQlY2Vy10N0Jhb2NQLTNLel9wLVFpT3REVmlaamhOM0Iwdi1TNURtd2swNW5qTlRVNllRc2J5aEt3ZjliUmluNGQtSVJ2OWdORVR3VDRySktpMGpobXFrU2pYR1hSVl9jNzJidVJCYjZldS16Y1Bpci16NklVaEE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUnlPRWFrUzk4Rjlqa1RMeUdhMWE5NEViN05wTzJ6cUlkbGRySFpFQzdFTlIwWmJKMTFpMFhJOU1RVTJLU3NYSjhhN1VzNHdXUWY1bWpNWWkyeC1NZDZzdVdYVXM0dVdJd2lfLVJCQndvMnZYbmI4WEp6SUs1bHFEMUpPaGxpa09nbDltU1NFeHJ3M2U0WG11djFBT1E0WUVSNHA5R0NvSmxKZ0JZX3c1UG9XY1Znd1B6Vk01ZzQ3RmJnMzhtb0pkT3VhNTBpczB1UVE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Jamshedpur MP Urges Union Minister to Reopen Higher Pension Portal for Tata Steel Retirees - The Avenue Mail",
+          "headline": "Jamshedpur BJP delegation flags crime, seeks review of cases against workers - The Avenue Mail",
           "source": "The Avenue Mail",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjBnRzdLWE9rWlNYbVJJWlRMcFlFMjNyMFREREpnLUFFcnllOU1XSngzbDFqellZUnBGT3pyNWpqSHNTS3RZeGxxNW85bDl0cUZpcE9lcVFrTkNsVTBfQ01zbTZKZzdBWEZZeGh5SVR4WTdWekVBX25kZVo5VjFOT3UzMm0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2ZuZEhqMENOV3N6Rm9idmdvcXBJdloyaGhQX3hzTlBEcl9xbmxuTHJLTHE1LU1kdXp3Ykt3d0FwMUNOaDlTdnpUdG5TdVcwQVZ1RkJ6M214N0tyLUR3Vm1YTm9qNWFuQTJCcUlOVi1FQXdmZmxBN2JCMmo2RFdMT0Z0UFhJb1o1WEFwTWo2LWdZeVNsUkhvQVhGMVh1REk?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Jamshedpur Airport Demand: Business Leaders Urge Union Aviation Minister & CM for Air Connectivity - The Times of India",
-          "source": "The Times of India",
+          "headline": "MoS restarts Kendadih copper mines, launches concentrator plant expansion | Hindustan Times - Hindustan Times",
+          "source": "Hindustan Times",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcW1Qd0RKc3dxSUJKOTVsbDRERnYwQk5EcGhsb2l6NkFVVk9scmNGT0VUcVBMT3NjZnlfRHA3MjVTMU9IbWNlV0t4ZzR5clA0ejQzOTRlNmJ6T05OMnZBaFZhN1BpS0RLdFp4QlBKUEctZldHQjhLa19DTkg5Vi1yRDN4b3dUWHVVUXlQcWlMQnhEMEQ3Ry1rbWdOaXdRUlVCV0xDVU9IWE5tak1PaHVEanpBRkZ5RHJoenhubDltSEIzOVpwOXF6bUhhY3lsQ010Y21nNXZWaEhKMldUTENBWjRTeEJZSWxnd0xBWHBWQWc4bzROcDlYTC1LYjFEd9IBgwJBVV95cUxPTWxrRXo0NTJDeS1ROW1sWHZieHBMOTcxTmNmYlMwbHo3T1hJd3ItYjFEd2Zqd0R1aFhfNThWMTZvSGJLRnhkeDVnQjg2SkluejFMNHd6VVc2ZW9Xbm9HX1F6ajhLX2hsRVgtY2ZnYUtuaUhhYTFid0JJTzFUS3ctSGpuTWYwZGQtN2JfdERGVjNwNHRmamkwSHlhUnhOcVQ4eW5SQzhTMmhVQVhMcWxleTNTeHVIRkJfclNoR3NObG96RG5KZThLQ1lUN3FvTkV5UnlXeHFLZ3BzWHBUa1BFYU04MjhiV2FoQ2s5ODJ5Y1FfVzliLVhwejFKVnNXcjZBV1l3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVkxoX3lFY0JvYkJQVktfNmFlNFloZk85c1FjRVR6R1M2dWt5UnIwOWpiTENDbl9VcG8tdVpHSHZqUjV2WlVJcUZTUk9vM3NBSEZ0dDNaTmtHaElXSkRQZG0tRi1XRU14SG5ZTGVfTUQteWllUElvdU1LQmFvZUhOTVhFSGItZ3otWDJpdC0ycWZhR21WNWFPUEs5WUthUG9FM2RUTEhSZ0FTNVlWeHdycW1CQm5nZTBRTHV1TlprRlZEWTEzYU1HaVFCWExzZXRuUFhEbtIB2gFBVV95cUxNdlprcWozV0Q3ckxXRmVna3d4UjA5b3lfMEpjQS1xQVZlbHhGdEMzeDdnZm1mcGtMcVQzZU1kVGdKaEwzQl9LSERDeC1yUS1yVW5nWlJGNDJ0Y0p2UVNZdFhmRDAtZHd1NThQRmpaQnhXbmRQZjl2cUJUZ0RoMzJzMS1EWnlGWUh3c0lvc25QVW8zbFhKdU91bG1sczRGNmxoUzFRbXFJdkU4NDlVM0haQjdVTHhPVENTMW95ZG5vczFjMk5YdEtlN2V2SVNJMEtzUUpsWHNlSmQ2QQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP Jamshedpur Holds Strategy Meeting for Upcoming Programs - The Avenue Mail",
+          "headline": "BJP Jamshedpur Hosts Exhibition Showcasing India’s Digital and Cultural Transformation - The Avenue Mail",
           "source": "The Avenue Mail",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rNjdIc08telFOMW9ncFhUQTZmV1RiYjljbFZLSm1pbG4wRGcySGNDZ1BHY2ZIbkh1OWxXUGQ2bFdHNWg1bVhpSlE2REF0d2VQYjFadEFDLTh5M0ZtdnhNN2xhSlMzajVSYkNBYkRBTFU3eGF2WEcyaFdn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXRTelc0R0lKRHhhZHJhTUtpU0pIaEp5emhFeE1WemthMV9OTE8xRTl1Z09hYjAwNXVoa29ybElkb21Dc3BueXBWUWN2T1pBdnQ0a2RuUzVoRmlndGU0cXhpekZSSk4zREFLOC1aUmVxRzBFUGphU3NuOUxJQi1nUGl3MmhGTHFJMUZVREU1Um96cTdYVWVzT3FCR1hyRVUwZ0k3NFJSR1BReUJu?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +428,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 71,
+      "starred_questions": 21,
+      "unstarred_questions": 50,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +444,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +475,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +502,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Jharkhand: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 38,345,063. MPLADS utilization: 50.0%. Parliament attendance: 100.0%. Questions asked: 71. Debates participated: 14.",
-  "validated_at": "2026-09-02T01:36:48.656852Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 71. Debates participated: 14. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.263671Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Gwalior",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3554,
+    "myneta_candidate_id": null,
     "slug": "bharat-singh-kushwah",
     "house": "lok_sabha",
     "sansad_member_id": 5609,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 53,
+    "age": null,
     "photo_url": "/mp-photos/5609.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:56.756181Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 28809530.0,
-    "liabilities": 6276267.0,
-    "net_worth": 22533263.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3554",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.800956Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 24.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.15,
-    "released": 15.15,
-    "sanctioned": 1.72,
-    "expended": 0.61,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:25.632157Z",
-        "notes": "Official eSAKSHI REST API — Works: 22 recommended, 16 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:38:46.420430Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:35:01.811076Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:35:01.808010Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 22,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 4.026402640264026
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:23:59.449009Z",
+        "fetched_at": "2026-09-02T14:35:01.806949Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP Kushwah backs natural chemical-free farming: Says lower costs, higher profits to empower farmers - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3dpdWQxQV9aWWxhTEZRdjBINUpQNDhNMkRJcGgybWlpUWV4c05jQlVZR3hhNlA2Z3JWLTdTWjBZOVUwM05veERHMlJDWndIdmhfX0dfNXlUSHlxLUdSeVBwN1ltR1ByVUk0blZEYVJmME9IUzFzNG9UMEVSbHlTSTZCVkdFelFCMkpPYWcxWkhtNHJHY1cxdWxSNGg2ZXJSbnRqeFQ4R1NmQmNZRXQ5bDNteU5Tb01acFBPU0tDS1U0ODh3NVR2RNIBzgFBVV95cUxQM1R2ZkduUXVQTjFScG5FZlNyR2NicWIxdkdtWHg5ZE9NdUdmUXRreHNHdm5SanJOZ014ZzZ0QXRrUmVnbjhiRzJvNTBzVnFvQVl5ck5sWHJjSFo2UUo4Z2FqR1Zva1pYWHcyaVJiOVlTS0gyYlpNRndneEZmdTBYRi12NklBRVR3eWo3UmFkbmpXMmlXeS15SDJkdEpWWWc3ZzdrMG4wS3JkSHp6V0JoSnA4NWgxV1lGNURKTFRzNDBEcm5hYjRQb2FiMjJSQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gwalior election results 2024 live updates: BJP's Bharat Singh Kushwah wins - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSTlzNEgyaV9xekY5MnpaeTZRMDFVNTl3anRqQW1BVk1WQjdWYVI4OFVVUWxZUEVYOFJVajFIaWdkaEE5TmxwNGFsNG1sdGlURU0zWmJOLWFtdVdHWUFHQTZtN2xGdHdaek9iSTk2Nm14SlJwelduNnJlcXFVTkJIZVdfYzJSbjJLeThMZlpCRnVIekU0Zm1janZqeFlJNkdDLXY3S0Qta25aZ2VTa0xkb0lmZWVaVk5zVU9Eb3ktRl9VaktSUlZVVUhKdEFlVnhWVVVxbmlDV081b280OGRiYndhRF9NNEtoQWlXT1EzS05TQTJXb0J6N3BHOFVQMFNyRXFPV1FrWDczallydF80QnQwU1l5ZFJnQU1ZQ0RiczlQMlJLLWpkZ2VIQTQ0UG1TeFBLejNicGhNZlBvZnMtaFlRLTE3V01ta1ZsZ0NfcUxfU1FsaWRNYzRBQWXSAeICQVVfeXFMTkVocy15UmNZYk1mejkxVFlGYTBjbndYZ3M2TmVXVUVTWmdMWF90RUVDb2g5R21qTjdISjNDbG5qUXhCMlNNQWxvSVlBbWZUVm41NWZZcW9PZHFZT1l4Yko3ang2Yno3czZxRGNLSG1BZVdCc0Q0NDVwMTFIbEVNVWJWX001dmQ4c1NVVWFHcEFvODZDallNZXI5Q1kxNXpabDhUNlpoVUNkZFAxa2cwRW1NVU1xNEFhWmdHYnJrX3FGY2ZvQkNTSEFhQUlKeW02T0IxNEJsTkVyaEdFZUZFSkptbHZTYmhkMnpGZ0gyc0YxY2c1S3pZZGJiZXdZbnpqbmJSelZRc2xncF9KbkVxaWFXVEpxOHFhYmdwRWI3U0VHZTNZdHUyb0k2LUZpNE5nbURvUnloMUtyakIwUjY5T1ZTWC1sWGxQdUdFU2N6OG8yQU9NODEzR0o1Nk5iLWlZRk93?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bharat Singh Kushwah , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFg3c2dfcTR1UWRMczZGcXZqMi1nS2lZNHRCX0RyRVFxVlpma3lRVDVWVXpUQ2lLbkVEQVEzdXNLNFp3MWdFT21FSjFXQWtjcjBNODZrbjUtTTdvaTZuUnlqV3VlLWF0eDVOWEQ4d1dWeEVBTGc2bjdCVzd1YTFuZ3hJeV9BejJQVGRlZmdR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union Home and Cooperation Minister Shri Amit Shah lays foundation stone of the new terminal building of Rajmata Vijayaraje Scindia Gwalior Airport - PIB",
+      "source": "PIB",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15T2tfXzViT2tSQ1FkWmprcEExb1d2MmZ4YzRCSUhFdlg1SVpNVUl0SUtEX0NXWm9yZWNDQktnQ050UVc1aDhDXzFmYUloa0lNdXRTZHRqbjdNbU9sZUE2clFCRmIwNDZ3Um9oekI4dkc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP leader blocks his own MP’s car: Lies down, shouts at the MP over public issues, and hurls abuses in pro... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVjEtUlV3aTVjLXJnLTdLMjJzNU1HOXprbGI1MTVjbnAweXhDLUVQanRjUkl3am1HeVJ1NlJrS2NZeG1zVU9HNUszcnFnWnNKRU5mUUc0RzVQMEV1bExtZGZyR1pPLUJyQkFIRkJZc05POWNjVHUyRTEyTlFJNDAtS09hQjVHdGhpUFAxcVU4UDlaLUlPamF3RW9xRkJxLXl4dWRxbG8ycGNZNHJIRDhMVlNpX3NXdnVMSHV3VHltOEYxZTRkMXJiVnBrdDhzb2F0Mm1XdHlaUHYxMGE3bGpRS2NVNUhPNWxQRlhwaEtSZ07SAfYBQVVfeXFMUEZNREY4RHRuVHdURldZelU5MDRabk82TlVhMGIzMXVBb1lXWGpNS3lxSVA1Tl9zTmNTZWc2SVlldHZJWDlhbVBEWENlT3ZkWEZhS3AxeEYwMHZBRnhCVTlQSndybHBtbHJXYVdEZ2ZPSUx6cGlKcWg1cU01Uld1VDJMdTJnalVsYnhqS01oY1JGVHlWM2xjQklXSVB5RE50dGZZaFVhM0tRSWJ0aHp3UGswaU13Vzc0bzVrenZ3QWtMbEkzVmQxaFAxcE1CckpRTExUcTRUTGFtM01HSnFPb0V1aVotRmxZcDF1bFZkVlNuQzE1OXB3?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:24:58.124367Z",
+  "collected_at": "2026-09-02T14:38:46.421760Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.805252Z",
+        "fetched_at": "2026-09-02T18:38:07.284291Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.805261Z",
+        "fetched_at": "2026-09-02T18:38:07.284304Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.805267Z",
+        "fetched_at": "2026-09-02T18:38:07.284309Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.805271Z",
+        "fetched_at": "2026-09-02T18:38:07.284315Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.805276Z",
+        "fetched_at": "2026-09-02T18:38:07.284321Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.805281Z",
+        "fetched_at": "2026-09-02T18:38:07.284327Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.805285Z",
+        "fetched_at": "2026-09-02T18:38:07.284331Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.805290Z",
+        "fetched_at": "2026-09-02T18:38:07.284336Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,43 +333,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "BJP leader blocks his own MP’s car: Lies down, shouts at the MP over public issues, and hurls abuses in pro... - Bhaskar English",
+        "headline": "MP Kushwah backs natural chemical-free farming: Says lower costs, higher profits to empower farmers - Bhaskar English",
         "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVjEtUlV3aTVjLXJnLTdLMjJzNU1HOXprbGI1MTVjbnAweXhDLUVQanRjUkl3am1HeVJ1NlJrS2NZeG1zVU9HNUszcnFnWnNKRU5mUUc0RzVQMEV1bExtZGZyR1pPLUJyQkFIRkJZc05POWNjVHUyRTEyTlFJNDAtS09hQjVHdGhpUFAxcVU4UDlaLUlPamF3RW9xRkJxLXl4dWRxbG8ycGNZNHJIRDhMVlNpX3NXdnVMSHV3VHltOEYxZTRkMXJiVnBrdDhzb2F0Mm1XdHlaUHYxMGE3bGpRS2NVNUhPNWxQRlhwaEtSZ07SAfYBQVVfeXFMUEZNREY4RHRuVHdURldZelU5MDRabk82TlVhMGIzMXVBb1lXWGpNS3lxSVA1Tl9zTmNTZWc2SVlldHZJWDlhbVBEWENlT3ZkWEZhS3AxeEYwMHZBRnhCVTlQSndybHBtbHJXYVdEZ2ZPSUx6cGlKcWg1cU01Uld1VDJMdTJnalVsYnhqS01oY1JGVHlWM2xjQklXSVB5RE50dGZZaFVhM0tRSWJ0aHp3UGswaU13Vzc0bzVrenZ3QWtMbEkzVmQxaFAxcE1CckpRTExUcTRUTGFtM01HSnFPb0V1aVotRmxZcDF1bFZkVlNuQzE1OXB3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3dpdWQxQV9aWWxhTEZRdjBINUpQNDhNMkRJcGgybWlpUWV4c05jQlVZR3hhNlA2Z3JWLTdTWjBZOVUwM05veERHMlJDWndIdmhfX0dfNXlUSHlxLUdSeVBwN1ltR1ByVUk0blZEYVJmME9IUzFzNG9UMEVSbHlTSTZCVkdFelFCMkpPYWcxWkhtNHJHY1cxdWxSNGg2ZXJSbnRqeFQ4R1NmQmNZRXQ5bDNteU5Tb01acFBPU0tDS1U0ODh3NVR2RNIBzgFBVV95cUxQM1R2ZkduUXVQTjFScG5FZlNyR2NicWIxdkdtWHg5ZE9NdUdmUXRreHNHdm5SanJOZ014ZzZ0QXRrUmVnbjhiRzJvNTBzVnFvQVl5ck5sWHJjSFo2UUo4Z2FqR1Zva1pYWHcyaVJiOVlTS0gyYlpNRndneEZmdTBYRi12NklBRVR3eWo3UmFkbmpXMmlXeS15SDJkdEpWWWc3ZzdrMG4wS3JkSHp6V0JoSnA4NWgxV1lGNURKTFRzNDBEcm5hYjRQb2FiMjJSQQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Gwalior election results 2024 live updates: BJP's Bharat Singh Kushwah wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "Gwalior election results 2024 live updates: BJP's Bharat Singh Kushwah wins - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSTlzNEgyaV9xekY5MnpaeTZRMDFVNTl3anRqQW1BVk1WQjdWYVI4OFVVUWxZUEVYOFJVajFIaWdkaEE5TmxwNGFsNG1sdGlURU0zWmJOLWFtdVdHWUFHQTZtN2xGdHdaek9iSTk2Nm14SlJwelduNnJlcXFVTkJIZVdfYzJSbjJLeThMZlpCRnVIekU0Zm1janZqeFlJNkdDLXY3S0Qta25aZ2VTa0xkb0lmZWVaVk5zVU9Eb3ktRl9VaktSUlZVVUhKdEFlVnhWVVVxbmlDV081b280OGRiYndhRF9NNEtoQWlXT1EzS05TQTJXb0J6N3BHOFVQMFNyRXFPV1FrWDczallydF80QnQwU1l5ZFJnQU1ZQ0RiczlQMlJLLWpkZ2VIQTQ0UG1TeFBLejNicGhNZlBvZnMtaFlRLTE3V01ta1ZsZ0NfcUxfU1FsaWRNYzRBQWXSAeICQVVfeXFMTkVocy15UmNZYk1mejkxVFlGYTBjbndYZ3M2TmVXVUVTWmdMWF90RUVDb2g5R21qTjdISjNDbG5qUXhCMlNNQWxvSVlBbWZUVm41NWZZcW9PZHFZT1l4Yko3ang2Yno3czZxRGNLSG1BZVdCc0Q0NDVwMTFIbEVNVWJWX001dmQ4c1NVVWFHcEFvODZDallNZXI5Q1kxNXpabDhUNlpoVUNkZFAxa2cwRW1NVU1xNEFhWmdHYnJrX3FGY2ZvQkNTSEFhQUlKeW02T0IxNEJsTkVyaEdFZUZFSkptbHZTYmhkMnpGZ0gyc0YxY2c1S3pZZGJiZXdZbnpqbmJSelZRc2xncF9KbkVxaWFXVEpxOHFhYmdwRWI3U0VHZTNZdHUyb0k2LUZpNE5nbURvUnloMUtyakIwUjY5T1ZTWC1sWGxQdUdFU2N6OG8yQU9NODEzR0o1Nk5iLWlZRk93?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Political Profile of Bharat Singh Kushwah, Bjp Party, Gwalior, and Net Worth - India TV News",
-        "source": "India TV News",
+        "headline": "Bharat Singh Kushwah , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRi1VdE9XZnBZSXNjRDc4OFhTa0g4ZnUtM2stMGtONElUTU9kWF83RnpkbVlRc0NiR3draGtJNVVCOE0teVpJZkFqVVlTcDYxeHV5bVpMVktEeDdxa1NkNTM5UW1TaXY4S0h5SWZnZU1kNnI5NFdDS3VyaE5GMFRGRW1fRXVjcl93cEhOYVZjZWtXWFNrYklwVk5KTGI1ckpQUEk3Q1k5QUl1UlYzUzU5SUFpMjlmMXUxMmZnZUlhRERvWXEwN3FidF81QXZRUVU4WWVZRkp2TkwtOGtGT0pnVWs0N1UzZzJsM3c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFg3c2dfcTR1UWRMczZGcXZqMi1nS2lZNHRCX0RyRVFxVlpma3lRVDVWVXpUQ2lLbkVEQVEzdXNLNFp3MWdFT21FSjFXQWtjcjBNODZrbjUtTTdvaTZuUnlqV3VlLWF0eDVOWEQ4d1dWeEVBTGc2bjdCVzd1YTFuZ3hJeV9BejJQVGRlZmdR?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Gwalior Election Result: बीजेपी ने लगातार 5वीं बार जीता ग्वालियर, कांग्रेस के प्रवीण पाठक की हार - AajTak",
-        "source": "AajTak",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPR2xfWUZ2M3FfV0FhQ0M4YnNXbUxfRVQxblVjWTgzLWwwSFZ5RDVuTHdYbVNTeXJGQWhKVE41OXRqNTBXdDV3Y3JNQklDVUt4SkVuMTNKd3ZHWnlKMEIycnZyUkFiZ2hQOC1iWVVRbl9sT2RsZlhJTFpHZzdrUUVLaEpsTkZCZlJPTm1XZWVZUGhPZ0ZNeHQ4X2dtc3c5clltR1NyS3JYTzhkOUd1Q0NIZDQycEx3NUh6SmVZOWlseGhLcjJiSlJoTjVib19WbThRUHN2RXQ0MHhuU2NJc2ljVjFyU2VEdXM5X2tvTG5rZ3FHcTAtVFE3RW50VTU3c3lSUVQxYVlNYWxOZUJlZmVydDQ4VdIBmAJBVV95cUxOR0FDRTgzVXBCbTdyYk44NjcyUWtkeUdUbVlGQnpMMzM2NFhmSE00ZlNZbWlzR2ZTaHJMSzd0OWRMRm1rbnJjdVpNek93dW82RWxGWmd2S1lfVG9jc0V4ZU1Xb0JMWmhpcmFLdzVIOWU3RlVzblpCVHdyUkRhdUJxMnVHU1ZSV1NfYm9zMW5qTUdSSzlDb2xYZldCdHBVRWpxTnphZGdvWkdNbmgwNFFHVVlfeTFrX1h6c3U1alJBT0gyUWtQQk5XU3VDYWM3OWx6Wi1KZGwwZnY5S1FnajR0ZHVXalNRdjQ4UkhuaVFyU0ZaU2pSV1RwMHcyTlBvZVNVUk5RcmloSHp1dkFfcEplYVVjN3BBaDhx?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "A Grand Unveiling: Vice President Shri Jagdeep Dhankhar Inaugurates GSI Geoscience Museum in Gwalior - PIB",
+        "headline": "Union Home and Cooperation Minister Shri Amit Shah lays foundation stone of the new terminal building of Rajmata Vijayaraje Scindia Gwalior Airport - PIB",
         "source": "PIB",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5keldvejI4SVlTVDB0eVhjWEROaG84amQ2eS1HbWg1blYyZVV3SFRFLU43eWoxR2lDaHhrU2JMQXBUcnAxZGlHQmw5LXBHcFNiYWRKeUs2czBqMnpKWkI5ekdncG5tczlM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15T2tfXzViT2tSQ1FkWmprcEExb1d2MmZ4YzRCSUhFdlg1SVpNVUl0SUtEX0NXWm9yZWNDQktnQ050UVc1aDhDXzFmYUloa0lNdXRTZHRqbjdNbU9sZUE2clFCRmIwNDZ3Um9oekI4dkc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP leader blocks his own MP’s car: Lies down, shouts at the MP over public issues, and hurls abuses in pro... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVjEtUlV3aTVjLXJnLTdLMjJzNU1HOXprbGI1MTVjbnAweXhDLUVQanRjUkl3am1HeVJ1NlJrS2NZeG1zVU9HNUszcnFnWnNKRU5mUUc0RzVQMEV1bExtZGZyR1pPLUJyQkFIRkJZc05POWNjVHUyRTEyTlFJNDAtS09hQjVHdGhpUFAxcVU4UDlaLUlPamF3RW9xRkJxLXl4dWRxbG8ycGNZNHJIRDhMVlNpX3NXdnVMSHV3VHltOEYxZTRkMXJiVnBrdDhzb2F0Mm1XdHlaUHYxMGE3bGpRS2NVNUhPNWxQRlhwaEtSZ07SAfYBQVVfeXFMUEZNREY4RHRuVHdURldZelU5MDRabk82TlVhMGIzMXVBb1lXWGpNS3lxSVA1Tl9zTmNTZWc2SVlldHZJWDlhbVBEWENlT3ZkWEZhS3AxeEYwMHZBRnhCVTlQSndybHBtbHJXYVdEZ2ZPSUx6cGlKcWg1cU01Uld1VDJMdTJnalVsYnhqS01oY1JGVHlWM2xjQklXSVB5RE50dGZZaFVhM0tRSWJ0aHp3UGswaU13Vzc0bzVrenZ3QWtMbEkzVmQxaFAxcE1CckpRTExUcTRUTGFtM01HSnFPb0V1aVotRmxZcDF1bFZkVlNuQzE1OXB3?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 12,
+    "starred_questions": 3,
+    "unstarred_questions": 9,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 22.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

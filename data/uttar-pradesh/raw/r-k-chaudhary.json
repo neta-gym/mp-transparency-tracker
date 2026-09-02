@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5803.jpg"
   },
   "criminal_record": {
-    "total_cases": 2,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 2,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 28384459.0,
-    "liabilities": 0.0,
-    "net_worth": 28384459.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 24.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.71,
-    "expended": 3.27,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:06.970987Z",
-        "notes": "Official eSAKSHI REST API — Works: 89 recommended, 74 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T17:40:10.193229Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:36:26.558683Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:36:26.555440Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 89,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 22.244897959183675
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:07:15.696934Z",
+        "fetched_at": "2026-09-02T17:36:26.554333Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Another ‘Mandir-Masjid’ dispute stirs political battle in UP - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcDNrSVVvMi1NdzBrTHJUQnVXZW1UbElMM25xWF81THcxN3I1Qm0xODMtR1ppR05pbm1CUXR5VjlSZmtkb1l2Mkctbk1nQ2xmQ0hFNDY3MDktRks4NDA2cHN5LVZSQ3VVblNuMUxNc2JKVEZzUENhRUVVdFZvZVNHeERCZlNTaHNtV0ZSUGlxcldtazNpb1U4VVBpdFE5ZDVGLWlIc1F1SkE3UWlsSGdFOVViQjMtYUUzeTBfTWloWDhrVzjSAcgBQVVfeXFMTTN4bDlfSXFfQUdwdjhsaGtEMk1wRUpRWWtPUUlweV8zUU92WV92a0hkZE1IMUoxNkxmVEtpXzZKbzhGd0VUOWhmWjZ1d1JOUnc2eG9Lb05DTGRNNVBuSG51M2p5UVM2Q2RyZ1QzNkM0R1ZWVmFZZjFnTk9WQ2o4eHdDcFNoc0QzZ1RXbkV5RUVBekJaS1ZaVTBIdXd2Vzg1MHVmQW5Ka0EtVDZGYXgzWHFSRGZNQnBkZHdMV1VBd0lpOEdDbW5adFU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Plea Against Election Of SP's Mohanlalganj MP For Allegedly Seeking Votes On Religious, Caste Lines:... - Live Law",
+      "source": "Live Law",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSzJMaVNWYmJCRlhJOVpOQjlTVTM2UG5GQmhSODk3S2c0OWIzYTdhWG5vR0ctbGdVQWN5cnpZaGU0Tnc2dU55aWlmVkdiQ3A5Y2gxaGdBcFNvVHFtV1I5aVJIWmVnaFB2dXR6Mmxxbk5WMU5RVjJjU2YzZWhWajU1cVNRLTliU2c1ZnYtdm8ySW5EYVRObjBoVUl6OEtmRzdSOEpWcFluVVZVYTJWcU1CRmhIVk5YaDdtRmdNT1RwdjhER3kxOFJKeEJlanJzcFlzWkhpbmVpSFdfNGp2NEU2WHpHNzlXSGxOc1gzNlowUEQyeFFucWfSAfsBQVVfeXFMUHNoalQtVnd5UVdhVHE1S3dzd1ozb05zZDFQQ050N2U3ellraGFPZWZSZUpEV1lwMGFFMEtYS1BjU2FpV2huZVYySmxHSlllRlBaZHo1blBRZVpjU2c5V2FveGRUNlgzb3hSWVhhcDhsSDgzaUFPaWRRZDM2cW1PUmw3R1JpR1ZLQzlONjdKV0NYalltVjBIRkl3VTRfLVF2QlNOdk1ocEZSR013aWF3VXN4MWtoRjRMaDNXeVZRZFR3RVV1em1BNnMtQnhmU2w3ZkprdzFyUG9Ecmczb2dEM2paSXJpeEgzRzJZYXdBdkZHeTc1ZmRVZWdaTjQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Akhilesh Yadav not granted approval to observe 'Ambedkar Parinirvan Diwas': SP says, 'Police didn't give pe... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOczFWdFJScHlqa2xlWG56cFZfaHpuT08tcXIyc1czRWRYVElhWXExa3gyQkUyWXFZbXhmalJZcVViMW4zaUF1V2RWN1hOdGRQMHhra0h3S3JKbE8wOEpfOTJ4eTB5aDdfWWcydllXN2hJcE9CX09vUEhvdThrbkh1cGZ0QzBTelBmNFJ3eDFIa0RsOUpCQU9KV3d5U3RBTVdaSE1VdEE0cUFwTDhDZHJBTFZZQjRrdk9yV09neFlfVGlBTGZFRDdwSzVVcHRxVUYzSml1OWl1M19PalZ1ckNLS0x4MUJObHliNzFtX2ItTGlQX0o10gH6AUFVX3lxTE1nenZZV21KZnhIbkprc2M2MjVfZW1hVDZ1UTh2dWFtcmVSbTRVTUxMY2J0Wlc1T3Y5WEZaWDdVTHdEM09DN2hzOHhUZWlOckRaZDZUOEZia28tb2FlQXdKMk5ZeTFpU0RCZnZFNm9VRGNYZWxGQ29ISkJmb1M1YkgwSERuSTB3WjhqV3JwVWRRRHBuWWU4TWp2UHFnMkhFWWo0eG5HQldxRUtiOEpIcE1qcXptZkY4V0tFS2dBNElkMlU0akNtSkwzeGtFaVYxSk0wM3FmSktjM0M5Mzd4ZlRYTk02LVlQS2trYjVIOGItazhHeTdWRjE4TWc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "R.K. Chaudhary , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTQtN0tIMERjRlRGRE5Sdjdkb3ZPMkpwV0pSNWdZSUxDaVpJb01zb0R3RFFKM2c1OE1kRE9vaURodjVCLWg3Und2Uk45aUE1Qnh4blVBWm03VU5pZnh1WTVFU3gxTW1DaENWLTFraWZPcWdZeXFsb2E1YTNsekJiaEdpUE8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "2024 LS polls: Candidates in U.P.’s Mohanlalganj go all out on last day of campaign | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZGxtRG5wRXZSc2lTS2xzUzdmbU1PM3RJQWkteXJhY2RYd29KNmdsTFhvQ00wYUQ4b1RTOUIzS0VyYjFwRVkzNnhSaFhldVBpNDFIUFQxeHI3eTZJRVZSZGtYRElqVFl2dlpZTFdrWXlNcTR4d09wam9PLWd4Szh2c3BVcjlGT1NuenFUS2g2Y2h6OXBVWVZUVGNsZ0hOQmVaM1hQSkNwRFNDV3JzNjJvZTV5Q3N5eWxuaGUyUGRIbjNWSDl4LThUay11dnN6SXB2QmViSmhuQmlDMUtTbjMtLVROYkU0bHlY0gHuAUFVX3lxTFBWMUxQejMzZWpQZEl3R296SlVCTEFXeUF0bHQ5U3JTMnpIcXJ5ZFJ4U2ptMnR1S0NXdEppNzBaQURlT0trcEVSUmZUcm9ka3N4T081cE94dkgwLVdwdE1yX1c2bWVjbTlCX2NSU1hydUxZRVdGbW1mNlJ6bU8zZWp6Yl84NENtd0xIZTY2X3NRcmxDQW9BT0lUMEZOcmhZU1o0SDhWMXZ5WC1jeE5fRFRIeElVZTlDRjVjQkRCTFV6dU0xVjBmMGJGek90Tm9uNDBEMlRYRkJOVnYwT09raG5EOVB4SHM1dm04ak41b0E?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:07:36.823606Z",
+  "collected_at": "2026-09-02T17:40:10.194353Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.932273Z",
+        "fetched_at": "2026-09-02T18:38:11.508469Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.932330Z",
+        "fetched_at": "2026-09-02T18:38:11.508480Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.932335Z",
+        "fetched_at": "2026-09-02T18:38:11.508486Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.932340Z",
+        "fetched_at": "2026-09-02T18:38:11.508491Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.932346Z",
+        "fetched_at": "2026-09-02T18:38:11.508497Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.932350Z",
+        "fetched_at": "2026-09-02T18:38:11.508503Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.932355Z",
+        "fetched_at": "2026-09-02T18:38:11.508507Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.932359Z",
+        "fetched_at": "2026-09-02T18:38:11.508512Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -269,19 +325,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "'Difficult to control pollution if...': SP MP RK Chaudhary defends remarks on 'Holika Dahan'; BJP hits out - India TV News",
-        "source": "India TV News",
+        "headline": "Another ‘Mandir-Masjid’ dispute stirs political battle in UP - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcUFPbkMzQV9TdXBNVlcyYlZLa0JfYThLQmtNeDhnWWFONjlTSnBQLU9uNGJEcGlYN2pVNEFsY3ZpM1pndHJDYVVzaVF0cGdFeVItRDNSZXZtYzR4QVA4TDhxVVczWHZUeEt5TUtReFhWanJLSF9mU3NTc2RMU0FFVHpXbVRFNU1LWERkMUNoVk1MaE9YVEVpVW5QQmw2b0FPWVpWeGZFd1JxcTJSTVN1Vl9hRzBUOXNCTllEUnd4bDNnUkFPMWlHUlF3TjZZa0M3NW9ic1Q0Nzg1c2NFR3Z5M2hhNGNmbDlWYUZCdFlsLWtWZENrTGNwM0NGOE7SAYICQVVfeXFMTkptdmMwV3l5NTNybzNMczJtT0xFMGxsZGRFVHRidUc5MzJNMER0UEJOMk5HbGJNVEtIY1U1UVUxRmJKMDA3Ylg4QW9nd3MxaGJCZ0pMeDkyeE9pT3B4ckhuellUVGRsUWV0MmxUb1FlUVdpZHhSanVVNjh3UGthTGI4YjR3YTE4VGhJUFZEWGZQM0NXemFWNnhYeUF3ZzNwVnJCWkRkcFRhcFdyNktJUmk2SE13aFhiZ2JELV9IX3BUYm5kZEhKdDN2cU1HS1NYbFdoWFZTVGUwYVlEZWN3aU9pUy14bTNpVVREOHVwMFhFVF9GQy13SmFBQ240Yk8yZnFB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "SP Says Ambedkar Day Event Cancelled Under BJP Govt Pressure - Outlook India",
-        "source": "Outlook India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWJ0cGxCTDJtMUtfbFVKZTg4OTVQVFZkcEVlYTAzVG9lY0lsa2lzUlRRQjJCdVA1Q2Y3am9fUUNhS2RBcGVpODJ5SE9DemlUeHlMWE5va3Y2bHJSc3VGR3FqX1lJMkZFeHhzM1dfblNSZ3pZc1BNSWNXMWNCUUxRN3lybGRoa3hsM0czdEc5THZRS1hhQnBnN1IwZkZlT0XSAawBQVVfeXFMTUpadXRiUVFJNzRXYXR5MElhQUtUODJIbFIzY2MwQTRwYnBDVDh3SlAtaGNrQ21kT2llbGxJVGYxVi05bWQ2RUtIWEpoZ0d1dTZQenc2WVZfbWFfUzFhV3BlU0c4VVBoOXpfNTN2QUMzbFgydTI2bldCclEtVFFMeFYybEhaal95ZE1mV1NFWHlfVTR2MzBvc2FBNUhuWkloZjRDa2ZlLTJLRDc5UQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcDNrSVVvMi1NdzBrTHJUQnVXZW1UbElMM25xWF81THcxN3I1Qm0xODMtR1ppR05pbm1CUXR5VjlSZmtkb1l2Mkctbk1nQ2xmQ0hFNDY3MDktRks4NDA2cHN5LVZSQ3VVblNuMUxNc2JKVEZzUENhRUVVdFZvZVNHeERCZlNTaHNtV0ZSUGlxcldtazNpb1U4VVBpdFE5ZDVGLWlIc1F1SkE3UWlsSGdFOVViQjMtYUUzeTBfTWloWDhrVzjSAcgBQVVfeXFMTTN4bDlfSXFfQUdwdjhsaGtEMk1wRUpRWWtPUUlweV8zUU92WV92a0hkZE1IMUoxNkxmVEtpXzZKbzhGd0VUOWhmWjZ1d1JOUnc2eG9Lb05DTGRNNVBuSG51M2p5UVM2Q2RyZ1QzNkM0R1ZWVmFZZjFnTk9WQ2o4eHdDcFNoc0QzZ1RXbkV5RUVBekJaS1ZaVTBIdXd2Vzg1MHVmQW5Ka0EtVDZGYXgzWHFSRGZNQnBkZHdMV1VBd0lpOEdDbW5adFU?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -293,19 +341,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Mohanlalganj election results 2024: R K Chaudhary of SP wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "Akhilesh Yadav not granted approval to observe 'Ambedkar Parinirvan Diwas': SP says, 'Police didn't give pe... - Bhaskar English",
+        "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVjJLOW9OYVJSQmRLWTlFRXhUN2NxWEU1cjluM0xBdkE4Rm1SYWJKdVdyOUpKMWxrcXZxczNTUG03cVVhcTd2bUdjSndORlBjWTR3VjRSZVA2anRMUjlDSEhQWGItVVhtOUdzU05PeDhnaTRydWhHblRISWd4MHpPQ2pRcDRLVk5zb1RZdGNueEdjNFRGQWVoakg1c2xPZE5WMUtVaFlIcU9XdnJnMXlpcUU5VHN4S1NOZ0daTmZUbk5oMTFVbG4ycjJ0OHhkcWpLQjE5czloRExXQjVGYUZTbzduOFlOUdIB6wFBVV95cUxQLXIzZUMwUjMtZkFUTHE2RjRVaEJEQ2V2MlB6TGhvdWYwbXpFVUNLOTJsZ29wNlFFdTZXSU5jaDJkaFZWdTJ5bThULTh2MjdBdnpDOXhmdl9YWHBqbW1FTmJldVp5SWNjbTlTMV91cWp4U0NMNWJjV1pBUHRVNE9uSTlDdFBnTDUzWTBpYzhSNE9hbDlOdXdiTFpFbmp5SFJuT0xyOW9nT1lIbEMteFQ0YUxJRjdQQnZ0ZjF4SU1IZFV0UkRwVl9oOFFhajBYQlhsSzJHc3JEaW5xRHVqbzQ4RHF3LTBhSDl1cHJr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOczFWdFJScHlqa2xlWG56cFZfaHpuT08tcXIyc1czRWRYVElhWXExa3gyQkUyWXFZbXhmalJZcVViMW4zaUF1V2RWN1hOdGRQMHhra0h3S3JKbE8wOEpfOTJ4eTB5aDdfWWcydllXN2hJcE9CX09vUEhvdThrbkh1cGZ0QzBTelBmNFJ3eDFIa0RsOUpCQU9KV3d5U3RBTVdaSE1VdEE0cUFwTDhDZHJBTFZZQjRrdk9yV09neFlfVGlBTGZFRDdwSzVVcHRxVUYzSml1OWl1M19PalZ1ckNLS0x4MUJObHliNzFtX2ItTGlQX0o10gH6AUFVX3lxTE1nenZZV21KZnhIbkprc2M2MjVfZW1hVDZ1UTh2dWFtcmVSbTRVTUxMY2J0Wlc1T3Y5WEZaWDdVTHdEM09DN2hzOHhUZWlOckRaZDZUOEZia28tb2FlQXdKMk5ZeTFpU0RCZnZFNm9VRGNYZWxGQ29ISkJmb1M1YkgwSERuSTB3WjhqV3JwVWRRRHBuWWU4TWp2UHFnMkhFWWo0eG5HQldxRUtiOEpIcE1qcXptZkY4V0tFS2dBNElkMlU0akNtSkwzeGtFaVYxSk0wM3FmSktjM0M5Mzd4ZlRYTk02LVlQS2trYjVIOGItazhHeTdWRjE4TWc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Mohanlalganj (SC) lok sabha election results 2024: Mohanlalganj (SC) Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "R.K. Chaudhary , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3RmZEVOLVRiNkFCdW83MU1RUE01U1FWc2tnRlliTUVsMXBOYkZGS1A2YWszbjdWLUYxMVRESGFoekJSTFdBSjN1Y0xpbXNQVXhSQUJ2WFozdno2OUJEQUJBV29ldzY5dExoVU8xbGNlZ0ItYnRNMUpSRzhJY1dfWUp0MGNUMUtLVU5pd2tJTExvWndmbUl4TlBEVC1nVG5TY3Nr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTQtN0tIMERjRlRGRE5Sdjdkb3ZPMkpwV0pSNWdZSUxDaVpJb01zb0R3RFFKM2c1OE1kRE9vaURodjVCLWg3Und2Uk45aUE1Qnh4blVBWm03VU5pZnh1WTVFU3gxTW1DaENWLTFraWZPcWdZeXFsb2E1YTNsekJiaEdpUE8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "2024 LS polls: Candidates in U.P.’s Mohanlalganj go all out on last day of campaign | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZGxtRG5wRXZSc2lTS2xzUzdmbU1PM3RJQWkteXJhY2RYd29KNmdsTFhvQ00wYUQ4b1RTOUIzS0VyYjFwRVkzNnhSaFhldVBpNDFIUFQxeHI3eTZJRVZSZGtYRElqVFl2dlpZTFdrWXlNcTR4d09wam9PLWd4Szh2c3BVcjlGT1NuenFUS2g2Y2h6OXBVWVZUVGNsZ0hOQmVaM1hQSkNwRFNDV3JzNjJvZTV5Q3N5eWxuaGUyUGRIbjNWSDl4LThUay11dnN6SXB2QmViSmhuQmlDMUtTbjMtLVROYkU0bHlY0gHuAUFVX3lxTFBWMUxQejMzZWpQZEl3R296SlVCTEFXeUF0bHQ5U3JTMnpIcXJ5ZFJ4U2ptMnR1S0NXdEppNzBaQURlT0trcEVSUmZUcm9ka3N4T081cE94dkgwLVdwdE1yX1c2bWVjbTlCX2NSU1hydUxZRVdGbW1mNlJ6bU8zZWp6Yl84NENtd0xIZTY2X3NRcmxDQW9BT0lUMEZOcmhZU1o0SDhWMXZ5WC1jeE5fRFRIeElVZTlDRjVjQkRCTFV6dU0xVjBmMGJGek90Tm9uNDBEMlRYRkJOVnYwT09raG5EOVB4SHM1dm04ak41b0E?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -339,15 +395,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
+    "total_questions": 1,
     "starred_questions": 0,
-    "unstarred_questions": 0,
+    "unstarred_questions": 1,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 1.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -355,17 +411,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

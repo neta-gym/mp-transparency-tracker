@@ -4,16 +4,16 @@
     "constituency": "Gurdaspur",
     "state": "punjab",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 8728,
+    "myneta_candidate_id": null,
     "slug": "sukhjinder-singh-randhawa",
     "house": "lok_sabha",
     "sansad_member_id": 5752,
     "profile_url": null,
     "canonical_name": "Sukhjinder Singh Randhawa",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 65,
+    "age": null,
     "photo_url": "/mp-photos/5752.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:02.496751Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 71253181.0,
-    "liabilities": 16132136.0,
-    "net_worth": 55121045.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8728",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.448258Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 49.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.42,
-    "expended": 4.54,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:42:39.833825Z",
-        "notes": "Official eSAKSHI REST API — Works: 281 recommended, 257 sanctioned, 56 completed"
+        "fetched_at": "2026-09-02T14:43:56.247632Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:40:14.610988Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:40:14.608032Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 281,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 30.8843537414966
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:31.317774Z",
+        "fetched_at": "2026-09-02T14:40:14.606889Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Punjab and Haryana High Court seeks report on FIR against student over Instagram comments - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTFlTb1BURG96bnBDT0FSbGJFeHZBY050Y2c5YVBWRGNTLUlqdGx4bDJ4T19YU2NKWVdiN3UydnBBUlA4Z01ERGdvaVlLdlZ1bkllWDVLdjd4aGE4UDdiSVRGaTV0MHJXUGNqMUZoUGdfWG9MakdZNFh3dHota1I2eUtTdmVJQTJTbzY5RDF6TXFZRVkxTGdscmhOQnpieXd4UWZoeFV0MlZSb0NMWm9VS0ZVQTBkRFhncWFSWlhfTnExMjZYZU5wbnhBdVZRWFhlTlR6aTJQb9IB3gFBVV95cUxPQk9jX2VHeDhYcmpfZDBlVGNUcnZ2SjZPMXp0aHdrc1pTOGFySTl2TDJ2M2lEdDBic1dxQlh6Q09kVlk2TDE5SjVTLS1WYTIxVTNfU1NDV0k4eVhXSGdZV0VYVWpqV2Jqd2gyYWpSSE5MRGVhSFhDd192NElzdUhabTZYemRaZzVRbWZLNjgzZmFEdG9yektCckl4LVRXS1BPa0lMS3otTzVCNjVXbzRUNEFFRVZyY1VkMnVBRzNncWNSR3h6N2R2VGlYR29Lb3I2a0F0cDZ6a194X3pjd3c?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Rift in Punjab unit: Randhawa, Warring spar over ‘one family, one ticket’ | Hindustan Times - hindustantimes.com",
+      "source": "hindustantimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc2xEb0pJMzhCTGJoeURDdkh0UDMtNms5TnRLUVRaSlhkWmtBZ21sNGRiSkMtUzlBVXo3UFd3UVZxQnBIRXplT0VDQ0QzYld1RFVUSEdFRjF0ZDUzcEdGWHVKU2lUY0NoQkJ5N0ZxUWw5em54allGbVllcVYzalRpOHR2T2poZU1pYVpuMkd1YjVIY21DTUpYOV9PamJMOWtrMXdCRVdBQzlzTThhbnlneDRwMkh5UXd0RlkwOVNlY0FNOWxfbjh0N29VQ3RwcjVrVDNTNEJjampDMmvSAeABQVVfeXFMUFU2Qk1FMDlLYjZfdXZjbE5KNndISkp6bnB6dmMtTjdxQTVNaUhEQzBZaWVFYUZrcGlSZnQ5NDA2dW1SWnZSRWRudVlkQWl2R3pyaURIb1pQRjFldm54dFFxTDVZRXVVWjByWUdZZF9KQ0E1U25nQVRmQlFMN2VuNWtIQmNDVjhsSG5QcFllSDBnRXRnbnRKQjhMN2JGNWI1eElpQldMZWw4azJjd2l5UUlFYWw0MnhXb3MxbDFINmM2WGhEVFMzemcyOXpZalg0WDR0UkFocl9ZbFNFY1BfMVM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Amid factionalism in Punjab Congress, Partap Bajwa meets Rahul Gandhi - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjZMUks3anpBRnZWdzVjYTR6c3RYbXEyR1NEdHU5Z1ZWejBoa1FSeU91dDltOU1aUDFoTGRaREVFY25wNlFMWUx6TkxxVEphVHdFbVdjd0hOcUZUbG1xc0l3eDVuYWZWYUR1bGZLUUNkdG1pc3hrM0xqQkxCdDU3X0RvZXVHMnk5MUxWZk5XdGE4UGFfaXM5eGhUS1F6U1hLRk5uNXBzY2Jid2VNYjRMWlEzOWtSSEFMWThF0gHIAUFVX3lxTFBpNG5YY3VuYVJnRlNadUdEeGptVWxoaS1PSlpybEt1UHlOclhxcWNIczR0VmVkMTloR0dwYURrMVlBMWdKVmEyUTcwOUZqYXhwUnpqT2VTZ1VyeWpObHdRZnExMW1MLU9LUUpnU0x1OTI1SFRDclZWcWtFLVM4Ymk0RVpPTFR6b0NHVXhHQ0pZSVh4NG9BWHd6N2p2MG9ULWRZYkxGdTdJZ1ZJV3VSYmlwZ1VMS3puQ04wM2NfRk1fZDRhSWpRRGs1?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "No Congress leader raised ‘Go Back’ slogans against party in-charge: MP Sukhjinder Singh Randhawa - Babushahi.com",
+      "source": "Babushahi.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WRWJrWGpFdUxJM243YlcxVWtXeERQdGQxdy1QX2RwSHppcl9LZjdWdTJzQUh2NmYtYnZxeC0xN3hXWjlLTGtfZWxYOC1lbUgxOVBIODNaWi1NVlU2YUE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Old Pension Scheme Will Be Restored Once Congress Forms Government in Punjab: Sukhjinder Randhawa - cityairnews.com",
+      "source": "cityairnews.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTFQ3OHNDSmxnT0xWb2JOc3lqODloNENrVUFDdzVZR0JKSW9ZQ1BIbUVteS1IMHRxTU9UMV9vUC1qNzVTcks1cXI4SVYtQjdGdUIyTUVvUUxweWdXSjJqSWdKUENmb2lYNENBdndleWUwaERJbmRpcXpucFpZV1QzWmNLUXRLN3ZmZjFLVDZqMmNrWFNFZG84ZTNsMm5NS05JOHN2UWNyR1FNNE1ZOVRNekFzZ1haRExZRjlZVHlybnA2UjdOSnM5VlF6ZDQ?oc=5",
+      "sentiment": "positive"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:37.240408Z",
+  "collected_at": "2026-09-02T14:43:56.248656Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.727774Z",
+        "fetched_at": "2026-09-02T18:38:09.237931Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.727786Z",
+        "fetched_at": "2026-09-02T18:38:09.237944Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.727793Z",
+        "fetched_at": "2026-09-02T18:38:09.237950Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.727800Z",
+        "fetched_at": "2026-09-02T18:38:09.237955Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.727808Z",
+        "fetched_at": "2026-09-02T18:38:09.237962Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.727815Z",
+        "fetched_at": "2026-09-02T18:38:09.237966Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.727821Z",
+        "fetched_at": "2026-09-02T18:38:09.237971Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -260,48 +313,48 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 1,
-    "negative": 0,
-    "neutral": 9,
+    "negative": 1,
+    "neutral": 8,
     "top_headlines": [
       {
-        "headline": "Punjab govt will not survive, says Sukhjinder Singh Randhawa; SAD leader Bikram Singh Majithia says count - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZTczTXJLaVV0WGN2cFVfSUdISGhtb3FfS0ZZNWVob2xVc3NKZnN5OUhrdjVIX0xHUHZhMDA0SzVvTHNPSmxBVTNOaE9IdHo0OXg0Q19xS2Rqcnl5cTlHQzF5cXRRVHpsRXhSY05ZcUpudzExTUJLR0lBdjVBU3puVktYQWRXdkhndWdhNEpFUFFJSzd3dE9aS3R5NlFNRnVyQVpBMDlUYVR5dmxDV3BQMlJneTNKUnVqTlNNUldLLXRSVWU1dEpmakw4QlZVSFYwckxYeEgwQjJoN1RnVFc3eVMzNkVyVU9VYlhWQ2wzcmhBcE41bEU3R1M3MU01VEk5S0swQnNrLXU5QnB6aE9DYkhDX3JPLURmQlZVWlFhZTbSAaYCQVVfeXFMTm1pcjdmZWM3QUF2Tk1GX2RaLVNwNTR4Uy01NTlSQ2VZNU5jX0VScTY1WktMT25ia1laYnV4ZDF5dFhiM3U1VDEwb2puSUp4VGdweUlzWE9TdTRKaGlfVkRkOHdfYWV2Yk1QcEdQRTNJRkw3Ml9Wd3g0YTA1MFZJVzVySEMxUUx2RDQta1BsTWZXekpVeVN4R3NKU0QzVTdBRGFxVUVINUtCVi1qNFhibVAzbEw4Z2tHbXY1MjFZYVRBTG1VdFlTbnZGbG1qVDA4YVNfdE10andwbjEwYUswZXNVaWp2WmRLcXRobVhCVkw4dmFBX21WNUtWSXByQjNTRVF3ZFJURzNNYlBTQ01lSEpiS1c2Y0wzNFFqbnNRRXFrVnFfd3J3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "If Bhagwant Mann hadn’t become CM, he might not have remarried: Congress MP Sukhjinder Randhawa - The Tribune",
-        "source": "The Tribune",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2hOYkktLWtOOFlKZjNTSk5MV3YxTVBadmtuMlBIN2NMY3BpYnVVTEh0dzR2S0xTRW4tLTJvdlBCUE8zVUY2SWtlUnFMWnQzZkZsWl94ZFhvdTNMQ3RGYjUwWV9yWFN3NFJ4V3lWem80NnJRYVIxTlBUaVViOUxLOUZPODR4Q18za0tvOW5DUnFMeGNlQVBqb1FsUnN5TTFuT19NbVBVUEdyOUdTdVZQZmxncWFzUVpIMEY5enJ5Tk5kaWdSaXRucHJXS1l6ajg?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Punjab, land of warriors, will firmly oppose SIR irregularities: Randhawa - Cityairnews",
-        "source": "Cityairnews",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZm93emtNY1NwbFM5YTFtTld6WWdPVDIxei1QOUUxTzk4Uk1CZklxT1FHblVvZDVIUDVzVlNQTUR3UW14QUlVZWozNUxMZzk3b0VudHhpOW9LWjlodWhLcTFoWjNUQ2t4OVd4NzRWam1XNUZBaFFvVGRPY2k2bHpvcm1VNVltMk5DY2cyYnowbHlKZGhsMGhCdDdBTHk5NTJLbHllOUNlcmFsUQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Congress MP Sukhjinder Singh Randhawa writes to Centre complaining about Punjab DGP, chief secretary sharing ‘AAP stage’ - The Indian Express",
+        "headline": "Punjab and Haryana High Court seeks report on FIR against student over Instagram comments - The Indian Express",
         "source": "The Indian Express",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTFlTb1BURG96bnBDT0FSbGJFeHZBY050Y2c5YVBWRGNTLUlqdGx4bDJ4T19YU2NKWVdiN3UydnBBUlA4Z01ERGdvaVlLdlZ1bkllWDVLdjd4aGE4UDdiSVRGaTV0MHJXUGNqMUZoUGdfWG9MakdZNFh3dHota1I2eUtTdmVJQTJTbzY5RDF6TXFZRVkxTGdscmhOQnpieXd4UWZoeFV0MlZSb0NMWm9VS0ZVQTBkRFhncWFSWlhfTnExMjZYZU5wbnhBdVZRWFhlTlR6aTJQb9IB3gFBVV95cUxPQk9jX2VHeDhYcmpfZDBlVGNUcnZ2SjZPMXp0aHdrc1pTOGFySTl2TDJ2M2lEdDBic1dxQlh6Q09kVlk2TDE5SjVTLS1WYTIxVTNfU1NDV0k4eVhXSGdZV0VYVWpqV2Jqd2gyYWpSSE5MRGVhSFhDd192NElzdUhabTZYemRaZzVRbWZLNjgzZmFEdG9yektCckl4LVRXS1BPa0lMS3otTzVCNjVXbzRUNEFFRVZyY1VkMnVBRzNncWNSR3h6N2R2VGlYR29Lb3I2a0F0cDZ6a194X3pjd3c?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Rift in Punjab unit: Randhawa, Warring spar over ‘one family, one ticket’ | Hindustan Times - hindustantimes.com",
+        "source": "hindustantimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQnZoSF9EMC1xcXAyUFh6VFA2Ymt6S3lRTmlQSnphUGVrTjkydHoycHRuSENNWUZleURRdFlHRTBMVlprLW1fTE5QTDNlN2t1TUptOUMxbVlFaE1SdE9sbDVFWWluVmEwVUJNS2wxRi1oekdTLXlOWTJuT2tzR1lyamM1ZHZybWFUOS1VNjVnN1JsRHVUWjBCbDBKdVFSWXdJZnpSRll0X2hVLVFhOElCSC1haGZKTTNoYVhVTVNHMlI2R0R1djNZVnBBbThmcEhWS1NQQVlJdS1VeGxCODQ2a0hnX1pDbTY4WEllZjZNdjZ6WEFWMmJxdTM2QllVNjdzYkJrS0NENNIBjgJBVV95cUxOSDg2Z3M0bEVHUEVUTTlMMm5yZy13S3daVms4QmlYZWxmLWdBRGpMMk9za2s4cHBuRlNFcjNwc1ZMdWp4Yk1VMHN6SzZkb3NlZW1PVHM5VFZFTlJvNFhrX3ZGNEFZdGNfcU1LR3g5NWN3aHZ5MFFnODFNTjVpOFFmN1RPSUl2YWRPZnE4SHppVTJxRmtaU1d4Y0l1Z0x1QXFXRHRzVTMzOG44WmtENmdFQjlmazZBX0VUN3NUMzItbW1ZdWhiQk1sSlpHYXhjSE5CbzVCNnY5bVBZRzhldy1hTkJudmtUdTltX2h0YWdEUXFWT0JVekN6d2dQeU80aE1zaXR2WmdHRXd0NjlPdEE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc2xEb0pJMzhCTGJoeURDdkh0UDMtNms5TnRLUVRaSlhkWmtBZ21sNGRiSkMtUzlBVXo3UFd3UVZxQnBIRXplT0VDQ0QzYld1RFVUSEdFRjF0ZDUzcEdGWHVKU2lUY0NoQkJ5N0ZxUWw5em54allGbVllcVYzalRpOHR2T2poZU1pYVpuMkd1YjVIY21DTUpYOV9PamJMOWtrMXdCRVdBQzlzTThhbnlneDRwMkh5UXd0RlkwOVNlY0FNOWxfbjh0N29VQ3RwcjVrVDNTNEJjampDMmvSAeABQVVfeXFMUFU2Qk1FMDlLYjZfdXZjbE5KNndISkp6bnB6dmMtTjdxQTVNaUhEQzBZaWVFYUZrcGlSZnQ5NDA2dW1SWnZSRWRudVlkQWl2R3pyaURIb1pQRjFldm54dFFxTDVZRXVVWjByWUdZZF9KQ0E1U25nQVRmQlFMN2VuNWtIQmNDVjhsSG5QcFllSDBnRXRnbnRKQjhMN2JGNWI1eElpQldMZWw4azJjd2l5UUlFYWw0MnhXb3MxbDFINmM2WGhEVFMzemcyOXpZalg0WDR0UkFocl9ZbFNFY1BfMVM?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "It’s Centre’s gift of inflation: Randhawa - The Times of India",
-        "source": "The Times of India",
+        "headline": "Amid factionalism in Punjab Congress, Partap Bajwa meets Rahul Gandhi - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDNKYk12OGY2elFidEhXQjNGTkhCNDEwdGpCYzBJNDRKQjIxV0hqcm1KWjN4NEV5OVRXYWNJSmNWcl9NS2hIWGt1Nk9IVkFoUGRoTi1WNy1ua0t3ak94ZlFQcGRiYnRDM20xMk5FaG1FYmwxdG1rMlhzS1RZZUltcWZTUmtTRkkyTi0xTm1ZTkVBUVpJbHlyTTZzMkNYQTF4bGZUX1JWSU5PV3ZlNjUtdkxpcHJYWUXSAbwBQVVfeXFMTVR6Z2ZVYU16Q1pJQTgtNkxvR2QzWnlZRndCNFVYTElmbGx4S19URDJwRmhzVHk4Sl9NSHZSZ18zR1Vlbl9EVGMyODJLdGRZYXF6NjI0MXdzcmFrZ3RWb0xTSGg3X1poUzc4d01Jd2pZNWZFVEVZdDBjai1wcGZQQXlrMF9UUTRpbEFrSDg0RmtsOEUzVllpeGpDQTlON2xhblVxNnRhTzFDbUpGXzNleTRELTJDZ2tpckY4TTc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjZMUks3anpBRnZWdzVjYTR6c3RYbXEyR1NEdHU5Z1ZWejBoa1FSeU91dDltOU1aUDFoTGRaREVFY25wNlFMWUx6TkxxVEphVHdFbVdjd0hOcUZUbG1xc0l3eDVuYWZWYUR1bGZLUUNkdG1pc3hrM0xqQkxCdDU3X0RvZXVHMnk5MUxWZk5XdGE4UGFfaXM5eGhUS1F6U1hLRk5uNXBzY2Jid2VNYjRMWlEzOWtSSEFMWThF0gHIAUFVX3lxTFBpNG5YY3VuYVJnRlNadUdEeGptVWxoaS1PSlpybEt1UHlOclhxcWNIczR0VmVkMTloR0dwYURrMVlBMWdKVmEyUTcwOUZqYXhwUnpqT2VTZ1VyeWpObHdRZnExMW1MLU9LUUpnU0x1OTI1SFRDclZWcWtFLVM4Ymk0RVpPTFR6b0NHVXhHQ0pZSVh4NG9BWHd6N2p2MG9ULWRZYkxGdTdJZ1ZJV3VSYmlwZ1VMS3puQ04wM2NfRk1fZDRhSWpRRGs1?oc=5",
         "sentiment": "neutral"
+      },
+      {
+        "headline": "No Congress leader raised ‘Go Back’ slogans against party in-charge: MP Sukhjinder Singh Randhawa - Babushahi.com",
+        "source": "Babushahi.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WRWJrWGpFdUxJM243YlcxVWtXeERQdGQxdy1QX2RwSHppcl9LZjdWdTJzQUh2NmYtYnZxeC0xN3hXWjlLTGtfZWxYOC1lbUgxOVBIODNaWi1NVlU2YUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Old Pension Scheme Will Be Restored Once Congress Forms Government in Punjab: Sukhjinder Randhawa - cityairnews.com",
+        "source": "cityairnews.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTFQ3OHNDSmxnT0xWb2JOc3lqODloNENrVUFDdzVZR0JKSW9ZQ1BIbUVteS1IMHRxTU9UMV9vUC1qNzVTcks1cXI4SVYtQjdGdUIyTUVvUUxweWdXSjJqSWdKUENmb2lYNENBdndleWUwaERJbmRpcXpucFpZV1QzWmNLUXRLN3ZmZjFLVDZqMmNrWFNFZG84ZTNsMm5NS05JOHN2UWNyR1FNNE1ZOVRNekFzZ1haRExZRjlZVHlybnA2UjdOSnM5VlF6ZDQ?oc=5",
+        "sentiment": "positive"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 23,
+    "starred_questions": 6,
+    "unstarred_questions": 17,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 43.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

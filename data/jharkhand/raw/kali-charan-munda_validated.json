@@ -4,16 +4,16 @@
     "constituency": "Khunti",
     "state": "jharkhand",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 5153,
+    "myneta_candidate_id": null,
     "slug": "kali-charan-munda",
     "house": "lok_sabha",
     "sansad_member_id": 5810,
     "profile_url": null,
     "canonical_name": "Kali Charan Munda",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 62,
+    "age": null,
     "photo_url": "/mp-photos/5810.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Khunti",
       "state": "jharkhand",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 5153,
+      "myneta_candidate_id": null,
       "slug": "kali-charan-munda",
       "house": "lok_sabha",
       "sansad_member_id": 5810,
       "profile_url": null,
       "canonical_name": "Kali Charan Munda",
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 62,
+      "age": null,
       "photo_url": "/mp-photos/5810.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:21.786673Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 5407803.0,
-      "liabilities": 0.0,
-      "net_worth": 5407803.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5153",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.310616Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 5.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.8,
-      "expended": 7.63,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:59.893172Z",
-          "notes": "Official eSAKSHI REST API — Works: 265 recommended, 165 sanctioned, 13 completed"
+          "fetched_at": "2026-09-02T14:38:16.514405Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:34:36.876629Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:34:36.873812Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 265,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 51.90476190476191
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:24:37.871654Z",
+          "fetched_at": "2026-09-02T14:34:36.872753Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Khunti Lok Sabha constituency: BJP's Arjun Munda versus Congress' Kali Charan Munda - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlZ2YVVCS3dIWUlIeDZjWTBoSUtzTjJ6cFJENGZ2cU5SbHB0WWdLOXk2OVZBeTc3Q3J3cmE1d3VvTHpxcmwzWEhGUjVGTEdYWnpaYWpfT3gtWXMzaVdfOEsyTEs3dk9BLWVPendOaGpHSF85T1FYeDBpYnM4NFJaYmZpU0NmU3hPZU5nWkZKVWJtT2ctQW1vb0lCUVgxd1l3LUpSWGxXcWFRMk1xTnFNcEV2SGN2SGNxYU5BNjRkVmRJT2JwVTZoSXlMVUhUY3pLTFZzYW5wbmpUTGRE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tribal village head shot dead by bike-borne assailants in Jharkhand’s Khunti; probe underway - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQWhkM0VaY0ZJRGRmeVlDdDJMSmQwQXNmRXZFM1VnR2R5SUVNZmFDVXlodnMzSWh3ckZELXhJNFFENXd6Uzk2SUdQc3ZEYUljLXBfSUxna1o2cXMtU1RPelJSYk14cXpFcWw0LWNaMG5Fam1uamd0UVV4Sjk4TkVpVFctZVcwNnFja2xHdnNaMEsySnZIR0pLbl9BcVB2VTJjd3VCelNqblFoRzRpWlFfT1dBZmVSQ1AwVy04NTlxNXlfdWloeWEyX1JLa3Q4aTlvOWl1MW9UU1_SAeYBQVVfeXFMTXZHcmdRN1Y2REhfRFFJVk9tRDZHSG9vZlV3Zk9VXzdmdzJoM1ZKM2lOT05lSlZQUFU1cFNmYlJMcDhLSmlHQkE4TVliTHQtYm9PcERkLUJGSkdkZUxtZl9VdUNkNlhBNnYzYkFhZXpRbXZhTVUtRDA2MHZrbUFqdmpMbGJEQTZWSERSdFgzRzFMRlhzblpBclZseXVBYnZuNlJvbDY2d2NXRUlMbGh3aldXb0xSUnY3bGd0eXF3MkhWcVJrQUU3TGZ2UkdFSENSZ3ZUTU1nX1JrdVRaTnNnRnU1Tm5GbFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Khunti Lok Sabha Seat Result 2024: Kali Charan Munda Defeats Union Minister Arjun Munda - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOXV5c0Q4QnhxbDBxLW05Z1Q2OUlJUTltRXR2RzVUUGJQTnViZDNQRUtDLUpvX0lXSFY4S2NSNTN2aGg4UkcydlhiUjVlQ0t5cVBHQWxxTTBsTFZXQy1GRGVWZ2JSQzY5bFBLeXI1aDI1ZS1GX0R0cnI0RXgzckJOOUNKT1ZTeV83aXNRS2REQkhjUmJxZGZpRWg4aXlWc2YyZlFnb0VRMVRBY2VnXzhGUDVKX1hWcGZNejh6dE45ckt6RnY5LTY2a3p5U1lHNkc4R3JWSkw4WTl0X19EUFpXamFKTzlXQ0QtVkNCZ2ZXelJOazRpdHR2SEhQZzEtcE1xX0lHMHJYWdIBjAJBVV95cUxOZnJMdkJ6ampQX29na3ZrWUI0dDAxVVNabTdoVVowcTJWS0Q1WEI4d0xIbnRMYjUwQUEyV3FWeFBWNE03YnlCWjBrbnlYbnVDTWg3bzI3NkN2RGFIN2V2eHYtRXVCZmVIdDg2MVc4RnIyTFNGaU9PX005S0w5OHRBTXl4YXk4bENWS1ZjT3lGYmdaSlhUbDI0b2JONEE0MFU3SXVUXzNxUm1nNW4yWFFkZjEySjJfUmdHV0o3OFFwZDhVSmRjdF9UZ29JVDQzVHE3dktDYmhETXktRlk0elFOU1dIT09PSU1FVmhVaFRIOG1CbGpfZVNpYWE5ZXByNi14TzhKQmFmdHFDRFNo?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Arjun Munda, Kali Charan set up showdown rerun in Khunti - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnZ5R2pVX1dRX0R1Y0llVzJQX0MzSXh2djUwWVF1MWNNYUZoeWZVTmItaVZ0LTNhenI1cmVCYnVJbWF1b2JQTW5vVzd5VkVrYW45NkQ4Q0NCQ2hmNFF0OVhFOVZGaXRWeng2QTJoX3MwNjQyd3pEMkhreEhOTUlVdmFNeGltQ0NUY2lBWVAyMFpaNE5TbmNrVFRES2NkNEF4c19DeDA2b3Z2djZXbHgtYmVFcDIyRHhmcVdTVC0xdk1Jc2gwclVsb9IBzgFBVV95cUxPNXp2WU0wVGI2MWVJam1ST01nVHpzbThCZmVlS1BkWUlwa0dralZNX2hrdXdWMW1xNzZ6cGF6LWpUQ1pjVFlhUXFZcTZockIxalUwTXVtS1JsWkIwSG5mckN3cUI1VUJiU0Y1ZEV5NjlWSjVQSk05bnRnamd2cGd2U3JtZS1IY2RoQ2RIX3ZBY0hxOWM5X0VsWU9kR0poNFN4ZzhzdmF4OU44X3ZJRUdrajBoVC1xSW9Ha3RxRFZVZGpCdXZXdDVzRGZqUWJEdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Khunti Lok Sabha Constituency: Union Minister Arjun Munda to take on Kali Charan Munda of Congress - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSnFuREpvbldJMnNGUGhIR0tSUFBWOExhZW9aa2gwMlVBZThENll5Xy12QjU2ZU9RNWlaUnd3WDNmTGxiVU1tRWx6WnZ6NVZOZGNhSE84dkhudmU2MHhENXphdHUxQmp6VEUzWG9udlAzemFzS3NPU2V6eHBIcGlzOE1kWE0xcGdQNTlZTlhxZDVUVjE5NnQtbDFqNVoyMjVucU9FUGwzOUNYQjNzbkUwQkFVYU91OW05VHpyYWFMQURQSGxYM0FzT210OWFNVDE1aWZ1OHdOUFlFVmI2RVh0WVpZckhLNUFYZ3I0WE9aMS16RGsteGE0TEpjSTB5TUUwRXR30gGKAkFVX3lxTFAwTDNPaW5jRGNRNTl6d014U2thejdvY011TTI0ZWFEZ0NUdzlLTjZGMHVKWWl3Vl82M1BET2ZLUm1USldKNE1IU0ozZUhTclF2bHNZZ3I2czVaQTF4elNENkpveTN6aEJFVVFJSDFRM29YUHEtS3hZQUVEV3huSlRQUDJvd0JiU2lHUWpoT1BHZHdYLW13bjhEZFl6elpHeW1WYnYweVRGSW5fYWhJYmpERUZRNTBBRExTZ2pSQS1SYk9mX3pyM1hCTnU2UlNUU21DbFBMQ29nWS1OZ1dLdWZBOE5WVFFLX1VmeXlUc0g0ZVpITzJnc3NDSXJJcHdFZ09uOEFraUh2NXdB?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:25:43.016241Z",
+    "collected_at": "2026-09-02T14:38:16.515853Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.704731Z",
+          "fetched_at": "2026-09-02T18:38:06.298025Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.704742Z",
+          "fetched_at": "2026-09-02T18:38:06.298035Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.704747Z",
+          "fetched_at": "2026-09-02T18:38:06.298040Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.704753Z",
+          "fetched_at": "2026-09-02T18:38:06.298045Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.704759Z",
+          "fetched_at": "2026-09-02T18:38:06.298051Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.704764Z",
+          "fetched_at": "2026-09-02T18:38:06.298056Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.704769Z",
+          "fetched_at": "2026-09-02T18:38:06.298060Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,33 +322,66 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "@incKCMUNDA",
+          "url": "https://x.com/@incKCMUNDA",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "@kalicharanmunda.in",
+          "url": "https://facebook.com/@kalicharanmunda.in",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "@kalicharanmunda.inc",
+          "url": "https://instagram.com/@kalicharanmunda.inc",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:34:39.939119Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 1,
-      "neutral": 9,
+      "negative": 0,
+      "neutral": 10,
       "top_headlines": [
+        {
+          "headline": "Khunti Lok Sabha constituency: BJP's Arjun Munda versus Congress' Kali Charan Munda - aninews.in",
+          "source": "aninews.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlZ2YVVCS3dIWUlIeDZjWTBoSUtzTjJ6cFJENGZ2cU5SbHB0WWdLOXk2OVZBeTc3Q3J3cmE1d3VvTHpxcmwzWEhGUjVGTEdYWnpaYWpfT3gtWXMzaVdfOEsyTEs3dk9BLWVPendOaGpHSF85T1FYeDBpYnM4NFJaYmZpU0NmU3hPZU5nWkZKVWJtT2ctQW1vb0lCUVgxd1l3LUpSWGxXcWFRMk1xTnFNcEV2SGN2SGNxYU5BNjRkVmRJT2JwVTZoSXlMVUhUY3pLTFZzYW5wbmpUTGRE?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Tribal village head shot dead by bike-borne assailants in Jharkhand’s Khunti; probe underway - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnpRckxSXzJzb0tjTjh2SWxoeHpTaENJYUJtRDRudHVZVmxZRXYxbGFsRFhUcXJUaENOd0xTSTRRUk12VXRIbmxmOGxlaEcyRTFTOWwyNllqb0hUbWlfeS01TE8wOUs3cWJWTjdvSTVYTjMxdnV6UmJtQ0QwQXJFck8tajZick9EWGZkalFRV0dpZ0hNRDlBVXpLOHMwYmFkMHBGZUhxOFA1WENFam9GdVl5M0dEamw4bkdFYTZ5TzZ0QU5JdUlwanlUNlMyRVBXX19YZ3VSQTU2Z9IB5wFBVV95cUxNajBDZmJnQWNFaFFQYWR2NXhlX1BIa0hvX3NicmJLNkNvQ1h0cGFHTWNwWVVnUVhZb1dQNm5IQzlZQ29NRFFOQlFUWWZVN0xORURpY01IeWV3WGM1S3NheUNRak5uWTlQbWNhSFlRdEFSdW5fUDFFNEM4UFRVVm1ENTdGenhKZGdtd2dCX2tIM3hfMHFLa1Z3d1VWeHREVUl5a09qYnJLU2xsNC1BcllnOXE3VDl1Tm1IY1RyelM0eHAxRVczMFF4SWd3YXY5TGJuT0xJVWFNYUN1NnBRd2l3U1pLbVVMSzQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQWhkM0VaY0ZJRGRmeVlDdDJMSmQwQXNmRXZFM1VnR2R5SUVNZmFDVXlodnMzSWh3ckZELXhJNFFENXd6Uzk2SUdQc3ZEYUljLXBfSUxna1o2cXMtU1RPelJSYk14cXpFcWw0LWNaMG5Fam1uamd0UVV4Sjk4TkVpVFctZVcwNnFja2xHdnNaMEsySnZIR0pLbl9BcVB2VTJjd3VCelNqblFoRzRpWlFfT1dBZmVSQ1AwVy04NTlxNXlfdWloeWEyX1JLa3Q4aTlvOWl1MW9UU1_SAeYBQVVfeXFMTXZHcmdRN1Y2REhfRFFJVk9tRDZHSG9vZlV3Zk9VXzdmdzJoM1ZKM2lOT05lSlZQUFU1cFNmYlJMcDhLSmlHQkE4TVliTHQtYm9PcERkLUJGSkdkZUxtZl9VdUNkNlhBNnYzYkFhZXpRbXZhTVUtRDA2MHZrbUFqdmpMbGJEQTZWSERSdFgzRzFMRlhzblpBclZseXVBYnZuNlJvbDY2d2NXRUlMbGh3aldXb0xSUnY3bGd0eXF3MkhWcVJrQUU3TGZ2UkdFSENSZ3ZUTU1nX1JrdVRaTnNnRnU1Tm5GbFE?oc=5",
           "sentiment": "neutral"
-        },
-        {
-          "headline": "Activists urge Congress Khunti MP to protest against Modi government's 'anti-tribal' policies - Telegraph India",
-          "source": "Telegraph India",
-          "severity": "medium",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWWZOaldpU0R3MEktRld0V1AtVWVfdzRhMzZxeGIzSmdpZU43aS1RaV80RDdoT0pyS3JsVy1FWjB3QTRLeC1RSWtsZHV0NjlTOThDUTZtQmw0cFI5dGs2ekE2d3l2MXBLaE0xb1Q3RjNxZnZ5YUhxNXhwMDU0LThicENBc2NRR0RnMEtOUHdqWUdZeHk4OXdGb0FWQS0wNExDaWNQLTVJTzFkb05tX1hOTkRTc2hIRGoyS3c3YU5od0ViUTZDLVNYU2tNb2swQmxEZlNkcWZnZE1sY2FzcXRSWlRRby1CWG9JY3lLTVFFVlZsOUh00gH6AUFVX3lxTE5UbmgtSWNLVHdDa0lMVUFJb2ctbFd0NjE0bHM1cHlvUjlyMVFZUUl2Qno5aWFORkhTb283SER0Y0xzMzM1RWQxSUJrWUIxTFItdHR2SlVoN2lMUjhWRk84SlFSNER3cHR1OVh0RzRsTU8ySW54b2tFYTZkUEYwRFplM3RvLTBNSU85YWpYY2RHdmlYOVJCY2RrMkhEcHpRYnJVN3F5alU3WVpKSDlPNVMxUXFYY1RtUDJYVmtXbWRLZjFFZjZXTV9YNkY5MDVYdGV2TUs1WkI3QVFyRmp5TkdKczA0dmdaTFpocHFPRTlKR3B3dTNzcS1keWc?oc=5",
-          "sentiment": "negative"
         },
         {
           "headline": "Khunti Lok Sabha Seat Result 2024: Kali Charan Munda Defeats Union Minister Arjun Munda - ETV Bharat",
@@ -306,19 +392,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Khunti Lok Sabha constituency: BJP's Arjun Munda versus Congress' Kali Charan Munda - ANI News",
-          "source": "ANI News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlZ2YVVCS3dIWUlIeDZjWTBoSUtzTjJ6cFJENGZ2cU5SbHB0WWdLOXk2OVZBeTc3Q3J3cmE1d3VvTHpxcmwzWEhGUjVGTEdYWnpaYWpfT3gtWXMzaVdfOEsyTEs3dk9BLWVPendOaGpHSF85T1FYeDBpYnM4NFJaYmZpU0NmU3hPZU5nWkZKVWJtT2ctQW1vb0lCUVgxd1l3LUpSWGxXcWFRMk1xTnFNcEV2SGN2SGNxYU5BNjRkVmRJT2JwVTZoSXlMVUhUY3pLTFZzYW5wbmpUTGRE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Arjun Munda, Kali Charan set up showdown rerun in Khunti - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnZ5R2pVX1dRX0R1Y0llVzJQX0MzSXh2djUwWVF1MWNNYUZoeWZVTmItaVZ0LTNhenI1cmVCYnVJbWF1b2JQTW5vVzd5VkVrYW45NkQ4Q0NCQ2hmNFF0OVhFOVZGaXRWeng2QTJoX3MwNjQyd3pEMkhreEhOTUlVdmFNeGltQ0NUY2lBWVAyMFpaNE5TbmNrVFRES2NkNEF4c19DeDA2b3Z2djZXbHgtYmVFcDIyRHhmcVdTVC0xdk1Jc2gwclVsb9IBzgFBVV95cUxPNXp2WU0wVGI2MWVJam1ST01nVHpzbThCZmVlS1BkWUlwa0dralZNX2hrdXdWMW1xNzZ6cGF6LWpUQ1pjVFlhUXFZcTZockIxalUwTXVtS1JsWkIwSG5mckN3cUI1VUJiU0Y1ZEV5NjlWSjVQSk05bnRnamd2cGd2U3JtZS1IY2RoQ2RIX3ZBY0hxOWM5X0VsWU9kR0poNFN4ZzhzdmF4OU44X3ZJRUdrajBoVC1xSW9Ha3RxRFZVZGpCdXZXdDVzRGZqUWJEdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Khunti Lok Sabha Constituency: Union Minister Arjun Munda to take on Kali Charan Munda of Congress - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSnFuREpvbldJMnNGUGhIR0tSUFBWOExhZW9aa2gwMlVBZThENll5Xy12QjU2ZU9RNWlaUnd3WDNmTGxiVU1tRWx6WnZ6NVZOZGNhSE84dkhudmU2MHhENXphdHUxQmp6VEUzWG9udlAzemFzS3NPU2V6eHBIcGlzOE1kWE0xcGdQNTlZTlhxZDVUVjE5NnQtbDFqNVoyMjVucU9FUGwzOUNYQjNzbkUwQkFVYU91OW05VHpyYWFMQURQSGxYM0FzT210OWFNVDE1aWZ1OHdOUFlFVmI2RVh0WVpZckhLNUFYZ3I0WE9aMS16RGsteGE0TEpjSTB5TUUwRXR30gGKAkFVX3lxTFAwTDNPaW5jRGNRNTl6d014U2thejdvY011TTI0ZWFEZ0NUdzlLTjZGMHVKWWl3Vl82M1BET2ZLUm1USldKNE1IU0ozZUhTclF2bHNZZ3I2czVaQTF4elNENkpveTN6aEJFVVFJSDFRM29YUHEtS3hZQUVEV3huSlRQUDJvd0JiU2lHUWpoT1BHZHdYLW13bjhEZFl6elpHeW1WYnYweVRGSW5fYWhJYmpERUZRNTBBRExTZ2pSQS1SYk9mX3pyM1hCTnU2UlNUU21DbFBMQ29nWS1OZ1dLdWZBOE5WVFFLX1VmeXlUc0g0ZVpITzJnc3NDSXJJcHdFZ09uOEFraUh2NXdB?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Jharkhand: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 5,407,803. MPLADS utilization: 51.9%. Parliament attendance: 85.0%. Debates participated: 8.",
-  "validated_at": "2026-09-02T01:36:48.705464Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Debates participated: 8. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.298793Z"
 }

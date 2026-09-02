@@ -4,16 +4,16 @@
     "constituency": "Morena",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3618,
+    "myneta_candidate_id": null,
     "slug": "shivmangal-singh-tomar",
     "house": "lok_sabha",
     "sansad_member_id": 5604,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 64,
+    "age": null,
     "photo_url": "/mp-photos/5604.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Morena",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3618,
+      "myneta_candidate_id": null,
       "slug": "shivmangal-singh-tomar",
       "house": "lok_sabha",
       "sansad_member_id": 5604,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 64,
+      "age": null,
       "photo_url": "/mp-photos/5604.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:03.531415Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 22614911.0,
-      "liabilities": 4430205.0,
-      "net_worth": 18184706.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3618",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.258990Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 19.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 2.35,
-      "expended": 1.88,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:27:41.081109Z",
-          "notes": "Official eSAKSHI REST API — Works: 70 recommended, 52 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:50:16.419724Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:46:32.818418Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:46:32.815451Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 70,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 12.789115646258503
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:28:10.533664Z",
+          "fetched_at": "2026-09-02T14:46:32.814306Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Madhya Pradesh BJP MP calls woman tehsildar 'dheet', video viral - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHRQekJ2QUtRQXFESmk1dTJpNXphU054MUdHUHZVZk1mNHBLQ2hYaV9paHZvcnVMeVlHbktmdUdVWk81UXE1Mkd4b1lVSUczb3NtWUJMSzM5a3dGVGVYVmswZUlYNkZVS3RVUEJycFhBQnAyQTR4V3Q5X25Ca3ZZVC1PTENRb2VVTElzMUtvamZNOEhJT1RBUFczRWFFcFVRZG9ONmhXUlBQS3p4NjVHb24xUTg1T3NoTVdDa1RVcFBpR2pIaVdjQnBvZlpsQV93dTFHQnY2aknSAd4BQVVfeXFMUHktY3ZIaGtON2s0enhYSVJsLW1MNXB2TGdIX3BWU1p6a05VWWl2TjctUzRpSEV3ZkdkR3Jhcjc4S3JGeUFEVFFtdHB5Y2Y4TWdWS1gtYlEzMHBzMGVzLWZzLWVWZ0dlRFBOcHhoQThYQkVsaUJtS3d2M0YxWmY4aDFzQXVtYmZibGg2ZUJMaVM0alhWbWJfcm5fdzZwN0duRVBSNC1iVU1uNDZCV0NodnhDaGtsajlLWGFEY3NKc0c1TWpRS043UndOZVg3R2lnYUM0Zm5faEZWSGphN1dR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shivmangal Singh Tomar - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSlZYRmk5bUNXazI0ZFB6RXEtNjJRWkRISzhpSjUxNXdRX1BsMnZYZENOR1hKcVUzejNBeFVJb3drWXdZLU5lRzVSTVFOVUZFUWRONnAtcDh5dXgzNTR3ZnhWNm1fbDAycU14ZS1xV0NGLTloam5iSFdpVXRtbk9YOFpaQTN3ZHRSMEJ1cFdLbmJLUUN6b240eUo5TFBIcS1hWGVIVzRJUHRZQXZpd25Rd1RnWC1MNk11c0NUVi1EdUtEUnYzMENnRQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP calls Banmore Naib Tehsildar ‘stubborn’: Tomar dials Morena Collector over officer’s absence, says '... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQbS1mMDFINjg5X1BCQVVSNUs3UE90czhMMUVuWUtGZS1uTXZ4UUtTT0ZaSlRUTk5MVU5hMW1MUXB1dURCVW41ZHVma1dsOHgxeVA3ajVjLXRseWRhUElNWGEtMC1ZcFlQdWpTUHhNSG44T1VLUjk2aUlHQU5RY0RCMzVmcDhhQ1U0Y2NvdF9yQ3dMb2N5S0VfbFZlZjJfRHFYc3RpU1JYM2dWTE1nUUx1RFJCN09UT1haWk5BeUlCYW1PX1hNdDZ6UTV5My01UkVScXdzQXM4WDhLNnkwWmlxS3A4Sk8zVjUxLVJjOVBvZnJhc0FRRzBVY1dpOFFiUDN4Z2dXYjhYYzFSUTNJVEpMYVRwMHp0TzNZVzFxRjFGd0ZVd9IBpwJBVV95cUxNZlNhNFBtNldHVWhETHVWX1hxX1QxNG91VEZLcEtMdW01RUtIZWt0NUpCcnNkN1VqZlBVMWo3WklfQ1k1UFdiYVlBSURSZU5wZ1NDc2sta3NXRlFMWk8xQXNSTG5hRDlzOHlQRVpPVE9TSThGblVtSVFZdTVwZnZ6ckJ6MzJlWE9FWU9IMFhJaWZfWGVGZ0ctV0R3a1Q2MTEycGU1S3l0RUJqc2gxMEdjVDZGOVJ3dWhQTThzSmNVVGt2VmV3dVN6eFY0TDhlWUlVRDJpajduU1gzWm1nUU5HVE5Wa3dPeUZyT21nMWlUTDluYmcwa2xSNk1iRGFDcFFoVFlwUTV6VW5MZkp1aWJoUDZqbWhPaV83cmMxUGMzdDZNS2dwOVMw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shivmangal Singh Tomar , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenZBaUhzcEJEMGtINE1jLUNMUGxvanNvOXk1N3VxYXprLVZYTnJZUWNUcWJyQTVQeVgxZGV0WjFtd29ZMWRGR29BR28zZWxWV2lYZjY0WTBzOGdlVGZMcjlQeDhfTmlyUmJ3TTRpZUxlelZ6VWFiRmJ5b2tOOWFKUnB3X0lrLURMazM3VXJnWUs?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Morena election results live updates: BJP's Shivmangal Singh Tomar wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPNGdaelhYNHp2QUNhdWIwNHhJaVF1NEFyUUtpR1ItTERXMU01QmNvMlNkblR5Umw2RDMwYVcxaHpkN2x4ZXc2QjFPMkdPOUs3VEFpZEZVdnJjcERKZ0NSYmdnNkhGMUhXM3UwZWJzb2xneWZsdHRXZXJmQXRTYkNRR1Bpc2ZUYXhaZmxaOWJZTUFfS19WWXZaY2ljZGVaTzI5S0pib21za0xQMXlSXy1DeTU0MUFMX3hGMVRoeFdqTzBlb1FXMlNnZVJWdjRXdnhmZnBac1E3VERSUlJ5SkstSkFmOWx4Y0xNbVhPMVdaZEJtSHVQcmpNRDVRMWdVMFBXWmRLVDdrR1p2cUJXXzljLUEwb1Q1NDI3blpvLVFqVU5KTHlFRnN4NXNoMHJDekMzWGxBMHp6bVZDSENEdy1yN2E0eTNjNEI2SHg0aEU2SnpOaFdmMDFaNWptM1RjX3fSAeQCQVVfeXFMUGVmSlpZVGY1MjhSZUl5eVoxZi1fR0dBNnpBdlp2NWZjVEZSOEZpSlppUVQ4QjdfcGlHTWg4VDJnSWFmUUZCMzlXR0RRTGRlWXB3ZHhvRE85T1gwRk45MHM0ZnFUOGF3XzBNOGYyNEF1NjQ5LU9JOXAzRUZnVjQzaVA1R1U0UjNqOS1iMDZQSzlYLTBIR1hkQXRkRzk4dmlHQThaMWc5VW9ZeldjQVl1TVlseTM3ZTBocExkU2prMzVVUmtmdmN6R1V3YjNwb2ZJNUhNYjJVZDNIY3h1VUg3WWEtTWo3V2pNZjI1Ymx4REJJa2tZMjNhY0lJbnUyUEVDT1hHcnZqUlE2SHdOLTBEMnM0Y2pYcy1NeHJTM1hFR081N1N4WGREdTVIN0haSnQ2RzRhOFB5V3ptRGN1WGJsc1lfcElsbkNsV1RRVVRBZHBUNlRJS3EzMWpRTXFxNFNBblNJNjE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:29:10.162770Z",
+    "collected_at": "2026-09-02T14:50:16.420852Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.058281Z",
+          "fetched_at": "2026-09-02T18:38:07.554545Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.058289Z",
+          "fetched_at": "2026-09-02T18:38:07.554557Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.058293Z",
+          "fetched_at": "2026-09-02T18:38:07.554563Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.058298Z",
+          "fetched_at": "2026-09-02T18:38:07.554568Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.058302Z",
+          "fetched_at": "2026-09-02T18:38:07.554573Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.058306Z",
+          "fetched_at": "2026-09-02T18:38:07.554579Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.058311Z",
+          "fetched_at": "2026-09-02T18:38:07.554583Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.058315Z",
+          "fetched_at": "2026-09-02T18:38:07.554587Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -292,33 +345,17 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 9,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
-        {
-          "headline": "'लेडी है इसलिए कुछ कह नहीं सकते, बहुत ही ढीठ है...', महिला तहसीलदार के बारे में ये क्या बोल गए BJP सांसद, देखिए VIDEO - AajTak",
-          "source": "AajTak",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUjFoYkk1REx6NjF5amxHNmRDSzNLZmJLM1FVSk9fZVgyNVAzZ25CbUUwN0pxMXhMOEtveUJVdVBWZ3pOWWIydUdwUmd6WThBVVlzZGtybUNmNW44Wk12SGNvWkVfMTR5andFMGh4RkxUeWhma05GTFkxcm1tRTNiQmZoNTdQTzNoTkJNNFJqbWlQQlhra2p1bnJyYU1wREFKSndkaWdRTDNtMXY0aDB6NzgybE1iRjlMV3ZSb2lacE5xRnNLUGNzZkw1dXJVZHM1RWVLTVlXVFrSAd4BQVVfeXFMTUszM1JOb3lYRldreDFCckc3U0lBU2drWVFXZzRNamgwU1Vud3ZfSXNRaTQyWFM2S0ozTG1EVDVlMWNIWFEtb1IzdnAxOGl4Z3Bqb0FBcFhvT19rNUMtS2NaY25jUFF0WWRDTlJ6b0QyUHE3TGpUS2FwTWctcWllajJ4d0ZaQ3BDeDhZNm5UNnpaRGs5RjJRZ0toR2pablE3U1BWRW1sNk0tV3pqWUl4ZWs0bEFyZFhfZGtBUE5XcUxBZk9kenhSeWFTRVpvSFljRllJWnpGZ01JNUJCV3lB?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Madhya Pradesh BJP MP calls woman tehsildar 'dheet', video viral - India Today",
           "source": "India Today",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHRQekJ2QUtRQXFESmk1dTJpNXphU054MUdHUHZVZk1mNHBLQ2hYaV9paHZvcnVMeVlHbktmdUdVWk81UXE1Mkd4b1lVSUczb3NtWUJMSzM5a3dGVGVYVmswZUlYNkZVS3RVUEJycFhBQnAyQTR4V3Q5X25Ca3ZZVC1PTENRb2VVTElzMUtvamZNOEhJT1RBUFczRWFFcFVRZG9ONmhXUlBQS3p4NjVHb24xUTg1T3NoTVdDa1RVcFBpR2pIaVdjQnBvZlpsQV93dTFHQnY2aknSAd4BQVVfeXFMUHktY3ZIaGtON2s0enhYSVJsLW1MNXB2TGdIX3BWU1p6a05VWWl2TjctUzRpSEV3ZkdkR3Jhcjc4S3JGeUFEVFFtdHB5Y2Y4TWdWS1gtYlEzMHBzMGVzLWZzLWVWZ0dlRFBOcHhoQThYQkVsaUJtS3d2M0YxWmY4aDFzQXVtYmZibGg2ZUJMaVM0alhWbWJfcm5fdzZwN0duRVBSNC1iVU1uNDZCV0NodnhDaGtsajlLWGFEY3NKc0c1TWpRS043UndOZVg3R2lnYUM0Zm5faEZWSGphN1dR?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "BJP MP calls Banmore Naib Tehsildar ‘stubborn’: Tomar dials Morena Collector over officer’s absence, says '... - Bhaskar English",
-          "source": "Bhaskar English",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQbS1mMDFINjg5X1BCQVVSNUs3UE90czhMMUVuWUtGZS1uTXZ4UUtTT0ZaSlRUTk5MVU5hMW1MUXB1dURCVW41ZHVma1dsOHgxeVA3ajVjLXRseWRhUElNWGEtMC1ZcFlQdWpTUHhNSG44T1VLUjk2aUlHQU5RY0RCMzVmcDhhQ1U0Y2NvdF9yQ3dMb2N5S0VfbFZlZjJfRHFYc3RpU1JYM2dWTE1nUUx1RFJCN09UT1haWk5BeUlCYW1PX1hNdDZ6UTV5My01UkVScXdzQXM4WDhLNnkwWmlxS3A4Sk8zVjUxLVJjOVBvZnJhc0FRRzBVY1dpOFFiUDN4Z2dXYjhYYzFSUTNJVEpMYVRwMHp0TzNZVzFxRjFGd0ZVd9IBpwJBVV95cUxNZlNhNFBtNldHVWhETHVWX1hxX1QxNG91VEZLcEtMdW01RUtIZWt0NUpCcnNkN1VqZlBVMWo3WklfQ1k1UFdiYVlBSURSZU5wZ1NDc2sta3NXRlFMWk8xQXNSTG5hRDlzOHlQRVpPVE9TSThGblVtSVFZdTVwZnZ6ckJ6MzJlWE9FWU9IMFhJaWZfWGVGZ0ctV0R3a1Q2MTEycGU1S3l0RUJqc2gxMEdjVDZGOVJ3dWhQTThzSmNVVGt2VmV3dVN6eFY0TDhlWUlVRDJpajduU1gzWm1nUU5HVE5Wa3dPeUZyT21nMWlUTDluYmcwa2xSNk1iRGFDcFFoVFlwUTV6VW5MZkp1aWJoUDZqbWhPaV83cmMxUGMzdDZNS2dwOVMw?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -330,15 +367,31 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Morena Lok Sabha constituency: Electoral battle between Shivmangal Singh Tomar of BJP and Satyapal Singh Sikarwarof Congress - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "BJP MP calls Banmore Naib Tehsildar ‘stubborn’: Tomar dials Morena Collector over officer’s absence, says '... - Bhaskar English",
+          "source": "Bhaskar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTURSdG5qaTlmcU52RFdrZFRuZnF5bXJ3MW9sYWVaME90cU81b2FMWXZNZC04TGktb2pmOTVQck9TZDAzdU1YSFRxbDgtM01QaFE3SFY0ZkNsZUVmcVphQm1vU3hLUkJEUzVRaWZJcW5VN3NqWXZUdXF6bEh5bHZRWl8yenIxMFhZaVJaLVhIRlMzXzBodXpYbnpOOHFQQm5Pa1dKS0luQ21KQU1YcmdFenBFb1JOQnZsaU54NXFKaHNpRWZfOXo3VlloMl9QQ20teHhsT0RnSk9yT183WWRFOWZOQXJObkVDcXhCMWlXX0s3OG4wcG8xUThfcHDSAYMCQVVfeXFMTnVZVzB4czhjZ0RWQURtMXBjcjBTSmVWSlI1QkxHWHZ5M091bmZxSEdQLWhFbHp3WnhmYXdBTUhiLWQwdzFTZHFoWHJsUnZOUmc2dGlBbWxLeDZVY2o3Q1NVT0hTUkZXaXN4ZjJuZ3FlTGc4WkJSN3JDTlltd19hVFdFc3pwejJNQV90ZV93M0UyOFh6V01NQTFtX1l0ek5KU2tTNUYwRDFQRDBsU3doSmVGUU9KYjREVm9kNElEazNsYXVjZ256ay1fV285dVpWS255cVlqZDVQV3JvNnJFRWlRZjNxVmNscjFjU01CSDZtSjg2NlBMZUVMSUNTLXFuU2ZaRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQbS1mMDFINjg5X1BCQVVSNUs3UE90czhMMUVuWUtGZS1uTXZ4UUtTT0ZaSlRUTk5MVU5hMW1MUXB1dURCVW41ZHVma1dsOHgxeVA3ajVjLXRseWRhUElNWGEtMC1ZcFlQdWpTUHhNSG44T1VLUjk2aUlHQU5RY0RCMzVmcDhhQ1U0Y2NvdF9yQ3dMb2N5S0VfbFZlZjJfRHFYc3RpU1JYM2dWTE1nUUx1RFJCN09UT1haWk5BeUlCYW1PX1hNdDZ6UTV5My01UkVScXdzQXM4WDhLNnkwWmlxS3A4Sk8zVjUxLVJjOVBvZnJhc0FRRzBVY1dpOFFiUDN4Z2dXYjhYYzFSUTNJVEpMYVRwMHp0TzNZVzFxRjFGd0ZVd9IBpwJBVV95cUxNZlNhNFBtNldHVWhETHVWX1hxX1QxNG91VEZLcEtMdW01RUtIZWt0NUpCcnNkN1VqZlBVMWo3WklfQ1k1UFdiYVlBSURSZU5wZ1NDc2sta3NXRlFMWk8xQXNSTG5hRDlzOHlQRVpPVE9TSThGblVtSVFZdTVwZnZ6ckJ6MzJlWE9FWU9IMFhJaWZfWGVGZ0ctV0R3a1Q2MTEycGU1S3l0RUJqc2gxMEdjVDZGOVJ3dWhQTThzSmNVVGt2VmV3dVN6eFY0TDhlWUlVRDJpajduU1gzWm1nUU5HVE5Wa3dPeUZyT21nMWlUTDluYmcwa2xSNk1iRGFDcFFoVFlwUTV6VW5MZkp1aWJoUDZqbWhPaV83cmMxUGMzdDZNS2dwOVMw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Shivmangal Singh Tomar , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenZBaUhzcEJEMGtINE1jLUNMUGxvanNvOXk1N3VxYXprLVZYTnJZUWNUcWJyQTVQeVgxZGV0WjFtd29ZMWRGR29BR28zZWxWV2lYZjY0WTBzOGdlVGZMcjlQeDhfTmlyUmJ3TTRpZUxlelZ6VWFiRmJ5b2tOOWFKUnB3X0lrLURMazM3VXJnWUs?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Morena election results live updates: BJP's Shivmangal Singh Tomar wins - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPNGdaelhYNHp2QUNhdWIwNHhJaVF1NEFyUUtpR1ItTERXMU01QmNvMlNkblR5Umw2RDMwYVcxaHpkN2x4ZXc2QjFPMkdPOUs3VEFpZEZVdnJjcERKZ0NSYmdnNkhGMUhXM3UwZWJzb2xneWZsdHRXZXJmQXRTYkNRR1Bpc2ZUYXhaZmxaOWJZTUFfS19WWXZaY2ljZGVaTzI5S0pib21za0xQMXlSXy1DeTU0MUFMX3hGMVRoeFdqTzBlb1FXMlNnZVJWdjRXdnhmZnBac1E3VERSUlJ5SkstSkFmOWx4Y0xNbVhPMVdaZEJtSHVQcmpNRDVRMWdVMFBXWmRLVDdrR1p2cUJXXzljLUEwb1Q1NDI3blpvLVFqVU5KTHlFRnN4NXNoMHJDekMzWGxBMHp6bVZDSENEdy1yN2E0eTNjNEI2SHg0aEU2SnpOaFdmMDFaNWptM1RjX3fSAeQCQVVfeXFMUGVmSlpZVGY1MjhSZUl5eVoxZi1fR0dBNnpBdlp2NWZjVEZSOEZpSlppUVQ4QjdfcGlHTWg4VDJnSWFmUUZCMzlXR0RRTGRlWXB3ZHhvRE85T1gwRk45MHM0ZnFUOGF3XzBNOGYyNEF1NjQ5LU9JOXAzRUZnVjQzaVA1R1U0UjNqOS1iMDZQSzlYLTBIR1hkQXRkRzk4dmlHQThaMWc5VW9ZeldjQVl1TVlseTM3ZTBocExkU2prMzVVUmtmdmN6R1V3YjNwb2ZJNUhNYjJVZDNIY3h1VUg3WWEtTWo3V2pNZjI1Ymx4REJJa2tZMjNhY0lJbnUyUEVDT1hHcnZqUlE2SHdOLTBEMnM0Y2pYcy1NeHJTM1hFR081N1N4WGREdTVIN0haSnQ2RzRhOFB5V3ptRGN1WGJsc1lfcElsbkNsV1RRVVRBZHBUNlRJS3EzMWpRTXFxNFNBblNJNjE?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -368,15 +421,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 2,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 2,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 3.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +437,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +495,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 22,614,911. MPLADS utilization: 12.8%. Parliament attendance: 95.0%. Questions asked: 2.",
-  "validated_at": "2026-09-02T01:36:50.059054Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.555310Z"
 }

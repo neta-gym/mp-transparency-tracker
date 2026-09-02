@@ -3,24 +3,22 @@
 **Constituency:** Jhunjhunu, Rajasthan
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 72
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.7 / 100
+## Composite Transparency Score: 64.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 28.5 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 16.03 Crore
-- **Liabilities:** Rs 3.27 Crore
-- **Net Worth:** Rs 12.76 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 5
-- **Utilization Rate:** 35.6%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@Brijendra_ola](https://x.com/Brijendra_ola) | No | Yes |
+| Facebook | [@https://www.facebook.com/Brijendraola/](https://facebook.com/https://www.facebook.com/Brijendraola/) | No | Yes |
+| Instagram | [@Brijendra_ola](https://instagram.com/Brijendra_ola) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- BJP MPs gave MPLAD funds to party offices: Brijendra Ola - The Times of India (The Times of India) [neutral]
 - BJP accuses three Rajasthan Congress MPs of spending MPLADS funds in Haryana, they say it's within rules - The New Indian Express (The New Indian Express) [neutral]
-- Cong MPs misused MPLADS funds for political gains; Rs 1.20cr diverted to Haryana: Rajasthan Minister - The Hans India (The Hans India) [neutral]
+- Jhunjhunu election results 2024: Congress's Brijendra Singh Ola defeats BJP's Shubhkaran Choudhary to sec - The Times of India (The Times of India) [neutral]
 - Rajasthan family of medical assistant who died in Pak attack to get battle casualty certificate - The Indian Express (The Indian Express) [neutral]
-- Jhunjhunu Lok Sabha Election Results 2024 LIVE Updates: Brijendra Singh Ola leads with 16892 votes - DNA India (DNA India) [neutral]
+- Rajasthan Bypolls: Crucial Test for 10-Month-Old BJP Govt; Congress Hopes to Hold on to Lok Sabha Gains - TheWire.in (TheWire.in) [neutral]
+- BJP’s victory in Jhunjhunu diminishes Ola family’s 15-yr rule over Shekhawati - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP accuses three Rajasthan Congress MPs of spending MPLADS funds in Haryana, they say it's within rules - The New Indian Express** (The New Indian Express)
+- ! **Jhunjhunu election results 2024: Congress's Brijendra Singh Ola defeats BJP's Shubhkaran Choudhary to sec - The Times of India** (The Times of India)
+- ! **Rajasthan family of medical assistant who died in Pak attack to get battle casualty certificate - The Indian Express** (The Indian Express)
+- ! **Rajasthan Bypolls: Crucial Test for 10-Month-Old BJP Govt; Congress Hopes to Hold on to Lok Sabha Gains - TheWire.in** (TheWire.in)
+- ! **BJP’s victory in Jhunjhunu diminishes Ola family’s 15-yr rule over Shekhawati - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Brijendra Singh Ola shows moderate transparency with a score of 59.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Brijendra Singh Ola shows moderate transparency with a score of 64.0/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 160,284,000. MPLADS utilization: 35.6%. Parliament attendance: 100.0%. Questions asked: 12. Debates participated: 4.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 12. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 160,284,000. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +240,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Brijendra Singh Ola's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 35.6%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

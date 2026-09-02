@@ -3,24 +3,22 @@
 **Constituency:** Supaul, Bihar
 **Party:** Janata Dal (United)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 78
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.3 / 100
+## Composite Transparency Score: 62.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 33.8 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,28 +32,31 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 157/14 P.S-Supaul Subdivision-Supaul Dist-Supaul (Sections: 188, 171F) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.62 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 3.62 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 30% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 10
-- **Expended:** Rs 6
-- **Utilization Rate:** 42.2%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,36 +70,60 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/DKamaitMP](https://facebook.com/https://www.facebook.com/DKamaitMP) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (8 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 8
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 8
 
-- JDU elects Supaul MP ​​Dileshwar Kamait as leader of its parliamentary party in Lok Sabha - India TV News (India TV News) [neutral]
-- Lok Sabha election 2024: Will RJD make a mark in Bihar's Supaul after 25-years ‘break’? - The Times of India (The Times of India) [neutral]
-- Supaul lok sabha election results 2024: Supaul Winning Candidates List and Vote Share - India Today (India Today) [neutral]
 - Lok Sabha polls: Indo-Nepal border in Bihar's Supaul sealed for 72 hours ahead of thrid phase - ANI News (ANI News) [neutral]
+- Lok Sabha election 2024: Will RJD make a mark in Bihar's Supaul after 25-years ‘break’? - The Times of India (The Times of India) [neutral]
 - Supaul Election Result 2024 LIVE Updates Highlights: Dileshwar Kamait of JDU Wins - News18 (News18) [neutral]
+- Lok Sabha elections 2024: Indo-Nepal border in Bihar's Supaul sealed for 72 hours ahead of third phase - Mid-Day (Mid-Day) [neutral]
+- Supaul lok sabha election results 2024: Supaul Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Lok Sabha polls: Indo-Nepal border in Bihar's Supaul sealed for 72 hours ahead of thrid phase - ANI News** (ANI News)
+- ! **Lok Sabha election 2024: Will RJD make a mark in Bihar's Supaul after 25-years ‘break’? - The Times of India** (The Times of India)
+- ! **Supaul Election Result 2024 LIVE Updates Highlights: Dileshwar Kamait of JDU Wins - News18** (News18)
+- ! **Lok Sabha elections 2024: Indo-Nepal border in Bihar's Supaul sealed for 72 hours ahead of third phase - Mid-Day** (Mid-Day)
+- ! **Supaul lok sabha election results 2024: Supaul Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Dileshwar Kamait shows moderate transparency with a score of 60.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dileshwar Kamait shows moderate transparency with a score of 62.2/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 36,191,958. MPLADS utilization: 42.2%. Parliament attendance: 95.0%. Questions asked: 41. Debates participated: 13.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 41. Debates participated: 13. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +163,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +242,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Dileshwar Kamait's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 42.2%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +259,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,16 +4,16 @@
     "constituency": "Baharampur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 5183,
+    "myneta_candidate_id": null,
     "slug": "pathan-yusuf",
     "house": "lok_sabha",
     "sansad_member_id": 5818,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 41,
+    "age": null,
     "photo_url": "/mp-photos/5818.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:35.820554Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 456304016.0,
-    "liabilities": 119670558.0,
-    "net_worth": 336633458.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5183",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:56.064076Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 83.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.08,
-    "expended": 0.43,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:52:56.789397Z",
-        "notes": "Official eSAKSHI REST API — Works: 178 recommended, 127 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:47:42.522986Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:43:56.849244Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:43:56.847706Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 178,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 2.925170068027211
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 55.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:14.996661Z",
+        "fetched_at": "2026-09-02T14:43:56.847001Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "‘Where is Pathan?’ In WB’s Baharampur, residents complain of being abandoned by ‘outsider’ TMC MP Yusuf - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaEtQSG9FZm84LUpkY1MyOEdXc1BHM1M0TnpILTNsUTdLYkJxMmtGOHAyUWZNYlc2RkR2S2RwbTRBU3lMbUJCS2F2WWJfSHl0QktQVVJobHJpT1Q5T2djOTlqR1VRcjVZVW95bklBa2sxOVB0UGZoUzBRUE1PaGFMOHJMcFdIeFE2dF82eEtfU3FrSEJlNEphQlR3YU9IRTdScDM1azUzVi1GUmI5OFR0M2M0M2FYVndha21BMEFPUzQyUmNvVm8tZllVN19nckHSAdQBQVVfeXFMT1JJdHNoaEZZdjk3VVByZGsySkM4NVhpcW9CYjJUbm9lenY4U3FYT3lQOC1GMjhqeWhUY1V3WUs3T0l4dkZuR1F6MXZPWHNiZE1ES3dNdmlsWDRBdUtweERYdElqQVBsamMzUGxMVll2V2dWZ1I1bXFiQ0lHUjVRMkcxOG5HbVdVUm0zelc0eXlxRENuRnlyR3lMY3BmOVppYXBzQ0ZGOVVQQ3NUejVJcFQ5QVJnMWtwSV9TR2xZUnN2UnI1Nmw2cEMzVl9raGRWT2Rvd3o?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Yusuf Pathan refutes resignation claims regarding Baharampur seat - thenewsmill.com",
+      "source": "thenewsmill.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTZ2VDJXSzZJNjNoWHN3VE5tR05XU0g1VVBfNlN5WVlKSWt5VkpXM01lbXBFaUNPLXpILWRoejZEYnJuM1FNOFhqSnZsY1lVVkwtLXA1WktjS29qWlRmYVg3anRTMmN0VGZhYmpJOU9sYVR2Ulc0MlgyelNBY2xFOFdDX1FlWTJfU2NOZWg0bkk1cGRhSk9WTGZNTzE4N1VQRmtnejFYa0I4c1E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mamata Banerjee Sent Sourav Ganguly To Ask Yusuf Pathan To Quit As MP? What They Said - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLTQ4OXIzUWZxd2c2c08yZDFBRlpzblp1c0pMRmVWb3NOZ1VPM1FQX001c3Z2WV9odHFGMnhqcTJYU2NIdThGalBsSVdyZ1Nfck1iZG41UTEtYmJRRjVtLXVnd09ldnMxN0lrYUhEdzk2T2llRUQ1bU92dXVtYmJmRzk4dEFUMTl4dVpqVlpnTDJpMUFubXY5aGJaY2duVThJX0tBbXJEZ25rVld0NmwwdDZfeVhFMGxsS016YmNGOVVNTlpKY0hNWUpKbXlMUmUtcHlGR09vbEM0dm1uVGhyQ0FMekdXZ9IB7gFBVV95cUxNYmZXcWlUUms2MTI3aDBNSzdJMnVyM3g5Mkxwd1RRdTZLMGViaHd6ZUs4VGloVEJHTnpCbU9qdVE0QmhHU1Y2eWIyUUdyTC1ZMnBoUmxpV3ZzR29VRHBsM294U0FUamVkUmRGZ3ZUSWRxbGtZV2MtT0lJZkUxSzZheW1zd1FkbzhEVVROOHQ2Z3NHVHZkM2FXdTlBbHYyWUF1T2JnalRQWVB1TzlVblp3TU1lcUFVNmtKNnJJV2xPM3JpOWVKRWd5U1FGeEdJSGlTLTJueW54cWRwMXBOeXBjOEhkOTZZMGJLMER4cjV3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Have some shame and spine: Mahua Moitra slams Yusuf Pathan as TMC MPs rebel - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHBlQUJHRzg4OHdFX3l0NWhqZVBhUDhveWlzNVhpWjZUMVRlR2R5SXZZNW5INl9QMGZMZ005Q040U1Q4bDdWeG9QUFRGeXgtSHdaN3JmODlFQklKdmtzWnNfMFZ5YWdsbXBNbVUyMnhPMy13TF83QjZDQzU4bm1BZDJybHE4dUx0bG9OdDRGaVlXZE8zamtCa1lxQmFMSms1cERzMU96ZWp5MGx3VXoxYkFHOXpoQXpGVVV5eF9oZkxVeWtuVU1HU2tn0gHPAUFVX3lxTE9RaFZ6cmw0d3cwdndBUjEwc0tVTG1uN0tGMXRaMy10akM2b0ltT2Fpa1Z4MTRlUFZOTWpDR1VJZEtDUk5wSDlpMTNKNmZjTXBMUy04cnROSWVXVHN1TkpsZXNQTFdBT0Rid0V1NThOeXJwei1NLVRJcTlQcjE2eEx5VGJrMzhvV2taejlLRkhNcG1GVVNNVjBRaENrVlZJVHdFbXE5QkYyeTJDeS1rUExuT0MwU2Q1eE5RWmxvM3Z0dmMtWHpGSnFQY1Y4M3VQSQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "In Murshidabad, ‘absent’ Yusuf Pathan draws fire from Opposition, locals; TMC MP, MLA join in - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWJ2MjM5eDJENWtvWnRUNmp3NU1XXy1GVnU0M3hMVUVtX3dmeVNuaF82TkJvZGNrRVU5SHRKS2VfeC1VQWU4TVFzZUNacTByM3ZvM1dCVzI5ekd5Z2VtbHB5Qmp4QmZVQVl2MW1vdGQ5Rm8tTkl2enJCRzRYRFBPbGpDRFpYV3lYQmZiaTZSeFlCTE1PQ0lqcWVldHh0b2IwVHFvRnBvcUhkVEhMRm5XeWNWTGRLeDYzUm42aDJpQdIBxgFBVV95cUxQNlBLdmFDVXZtMTFocURwVDl5RHJxemI5QlBoWHU2dFV6eV95aWJKcWJJeC10VXY3UkNGWXI4ZGdCMzR1Wm9MYVhubkhhRF9fV0hFQ0ZLUDFEcHpYVkZneU12UFJLVmQ3eFNDcW42aTgxanBWUU9FYVBocmxVYnNDZnN3ek5CX3dKYzBLSG9yRk0wOWQtOVVVRW5NQ1pmS0NOdXNIWmJreTdjemljYjBTTzFudWFzTHk5WEJzSEEtXzlpZXBpZlE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:18.265196Z",
+  "collected_at": "2026-09-02T14:47:42.523611Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.835374Z",
+        "fetched_at": "2026-09-02T18:38:12.470369Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.835382Z",
+        "fetched_at": "2026-09-02T18:38:12.470380Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.835388Z",
+        "fetched_at": "2026-09-02T18:38:12.470385Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.835392Z",
+        "fetched_at": "2026-09-02T18:38:12.470391Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.835397Z",
+        "fetched_at": "2026-09-02T18:38:12.470397Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.835402Z",
+        "fetched_at": "2026-09-02T18:38:12.470402Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.835406Z",
+        "fetched_at": "2026-09-02T18:38:12.470407Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -272,35 +325,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Yusuf Pathan: From cricket star to first-time MP in Baharampur - MSN",
-        "source": "MSN",
+        "headline": "Yusuf Pathan refutes resignation claims regarding Baharampur seat - thenewsmill.com",
+        "source": "thenewsmill.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUY0SUpuZjhBNENjSXdHT3ctRWdVY1JRNmVyWnNPNFNwZFZnY2xYaU9zWEw1dkpUeVdyTWc1UjRpT0tlcGgwUDJ6azBkS1FuWUN1LV9NNzROcnlpbml0WEtFMmpUNTZ3SzVMcEMyWUtCV1c5OWFjdDQwY2FmNzRoaWZXb0l0WlRpQUhoREpaNjZQM01SU1dwNFFNUzJ4aW14dk5admpXSkR1elVUb2M0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTZ2VDJXSzZJNjNoWHN3VE5tR05XU0g1VVBfNlN5WVlKSWt5VkpXM01lbXBFaUNPLXpILWRoejZEYnJuM1FNOFhqSnZsY1lVVkwtLXA1WktjS29qWlRmYVg3anRTMmN0VGZhYmpJOU9sYVR2Ulc0MlgyelNBY2xFOFdDX1FlWTJfU2NOZWg0bkk1cGRhSk9WTGZNTzE4N1VQRmtnejFYa0I4c1E?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Baharampur Lok Sabha Election Results 2024: Yusuf Pathan creates major upset, defeats Adhir Ranjan - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNczdkbzJ5Q3Q2RGdNUm5RRVE1MGo1ZlRhZm15akU3OXNwMlJOMnF4M19DSmFabXFwUDQ3U0c1VndGU0M0U2hDUGxrOFM3dDhNZUNmanBheHJ4OGJsbzdXQnpjQ3NIMlU1b2dsZ3YxQ2d0NzVDUVd3eHdJOUpjV3RUblAtNnpxeFVIYUs2N3d4WkQ3cGZOeVQ0UlpYeE4wT0VlLUpIQWNxSXNFSzlwSGZnSnZScDdJQUtCZkF2Z3hqdWRzN3VRT19zVDk2TUVHQUxERnFpWl80czNRRjhOUDVUcEduLTJJdnpfNl8wWHBvVmhNUnZYaXV2ZzdCTnhnLURyV3Ezb2kxa0FsNndNb3ZQUFFGUjViaklLa2J1QmoySXB2N01M0gGqAkFVX3lxTE9CWU51emlXVjJtUFRIX1FwRDA3VnoxTGc2TFZLOWxQMzBZRDdPcS1xdVNjUElSeE4tU2loQWU5M1NLOWtXZEp1cUpoR1RoVzRES2Vwc3VObHFRRmw4bzJsSWQyLVNfczNpSHotLVRPbk9WRnBNZVQ1Qk5PS09QU1UxS251MkNMWEVuNk9kYzdlOG0yXzNSdjRiNnROSXhEeDNEQkxnSFNhZFNEMVp3Q21vRUJrdC0xbnVVbkRnUncxOExnaVZwYUd3VW4xTWVRRlhyb2hOLTJWaE9KTm1yV1NCSVcyTjZ6Z1dRZ1hCQXA1Q3lpcXl5VTFuOTk4NHZPVVZYRldFNHUyLTFMLWtvcTNHRmhyemdOS3NXVGpIZy1ZLTFtVVQyblY4UGc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Baharampur Lok Sabha Election Results 2024: यूसुफ पठान ने अधीर रंजन चौधरी का 25 साल पुराना किला किया ध्वस्त, जीता बहरामपुर का चुनाव - AajTak",
-        "source": "AajTak",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNVUJRUGhwbXRpeDBYaWNiUGM1SkEtZ1JjVGFTNWVlUkNGMkJaTVhER1ZKS0cwTGxRX3BZYnlQd3ZPeFFub050RndoSmo0cE10bEVvVVQxYU5wQzU2Q0pKWFF6UTBIcWo4LVhzTkZlYkxMdDNCOXBHWkRSMHhUX1lyQnVKbGpwNkpsOGJlTm51d2FoTTJjZzQ5RVR5R3AzbUNXVlpjTS1RQ3RLYmFCR0xYSWUtVlUyT2hTN0VMNS1QYnpLcHhWMHpBSmZFSDJ1NHR1Sy0yODQ2WmV0MmpBNjNPQlVzOXBrZktEVmRYYzRabHltSFhUdkRGay1UQktOR0MtdFR0dVA1MGFFdFRIZDRUVEw4Ym51YmJxZnpKc0syeGJaMko5Q2FQVUQ2MVlyTXc2d0toUnpnZ1lQaDcxRkNjbUhNeS15RTJLTGtCZFk0UlfSAdYCQVVfeXFMTkJiYkRxMVJ2Rmt0MmtvQjIwZmd2ZFQ2b205TEVLNjRMcG5NaDE5LTZDRFpnU21mUDd1QlM5bmtPZTRYa1YyVmF5MzNQX0hXeTI4YWR4NjYyY2ZZU0x6Q2RaOW1yZVRiRXJfQjBhcjZLamt2MGR2OHI1VFpEOVVPQWtOQVFLZ1AtM0VLWnR1YUwxV1lBYzUwWW94bm1xZ1VqZm16bmM0dFFUUGd1SFVmWHFSUDlQWFpSa0pRUnhuM2k4cWtlTWRwT0ljWlZhQ0RLV1g1MXltS3RETHBBTVBtbm5HZzctZVYwMmNKczhLMnV5RWh3ME5HbXQwT3RvaW4xS1c3U1RYUVQtUVpBNmVzVHB3eGNvTUZyQzNqU1VyS0JnZE9pLXFabGVyVkVOTlE2VHVNTUoxZGdsU0xEaEFROHhLbUlBUXhTVE93U1NtZDZGdVZ5dDRn?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "After 5 Terms As Baharampur MP, Adhir Chowdhury Bowled Out By Yusuf Pathan - NDTV",
+        "headline": "Mamata Banerjee Sent Sourav Ganguly To Ask Yusuf Pathan To Quit As MP? What They Said - NDTV",
         "source": "NDTV",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQM0RYN25XYlhmZFduNWppUXJ3WDVSSC1tQWZQZUpNWTV1NjNVcTY5TTdXN0RtY3R2MzYxVEQyZUVCX1doZjNuU3lnVFFDWHA1SXNoVmpzZW5pSHZ3VmdCQ09nTnJzS295S1ZuSGJsVjFzcU03eDJRVkpobHJIYi1yUWUzX3NBWTlhdGNMazFzUF84LVpjMVZRM3ZrdTJ1ZEo2eVQ2eW9wclMtRkpORmpzYnZmSjBFbHJ6ZUlUbkVtVEMwVUxkZGIwRlVPZUM5TFQ4a1pyTXdWU01LQlljejhXS0lHWFREOFNHdHlsZ29pc2RuMkg5SWk2OXRFX3k4bXZvcnfSAYoCQVVfeXFMTXNqMnFRMjdYNFZLTzRqb1loR25rREFRYXVMakxtNW9fMW9RVkxyNjdzeWNsZGpDdUpNWm10LW9JS0VxMjltXzZCYVBiZ2dySVNiZkhVTWdRMU1ibUoxazdWd0R1RkNhLTVZWUpvMmhiSVY4di1TUkpMcFBPOUhwYm1Cc2RTZlVTb05vTDZfMW5kVGJSVkc4LWtpaWlKdXA2SnFPUHVNbE9jNkhQcEg3Nl84WXNzeWFVSXhWNXA4cDdwbU95UTNBcHIxeGtzRjc5WTE0T29jbUQ2YWZLcU9Ea2NhVExDOTVFSUlVS0xxcTktcWttUTFkc2poVkRZR2lkZGluRlRwVTQwSGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLTQ4OXIzUWZxd2c2c08yZDFBRlpzblp1c0pMRmVWb3NOZ1VPM1FQX001c3Z2WV9odHFGMnhqcTJYU2NIdThGalBsSVdyZ1Nfck1iZG41UTEtYmJRRjVtLXVnd09ldnMxN0lrYUhEdzk2T2llRUQ1bU92dXVtYmJmRzk4dEFUMTl4dVpqVlpnTDJpMUFubXY5aGJaY2duVThJX0tBbXJEZ25rVld0NmwwdDZfeVhFMGxsS016YmNGOVVNTlpKY0hNWUpKbXlMUmUtcHlGR09vbEM0dm1uVGhyQ0FMekdXZ9IB7gFBVV95cUxNYmZXcWlUUms2MTI3aDBNSzdJMnVyM3g5Mkxwd1RRdTZLMGViaHd6ZUs4VGloVEJHTnpCbU9qdVE0QmhHU1Y2eWIyUUdyTC1ZMnBoUmxpV3ZzR29VRHBsM294U0FUamVkUmRGZ3ZUSWRxbGtZV2MtT0lJZkUxSzZheW1zd1FkbzhEVVROOHQ2Z3NHVHZkM2FXdTlBbHYyWUF1T2JnalRQWVB1TzlVblp3TU1lcUFVNmtKNnJJV2xPM3JpOWVKRWd5U1FGeEdJSGlTLTJueW54cWRwMXBOeXBjOEhkOTZZMGJLMER4cjV3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Have some shame and spine: Mahua Moitra slams Yusuf Pathan as TMC MPs rebel - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHBlQUJHRzg4OHdFX3l0NWhqZVBhUDhveWlzNVhpWjZUMVRlR2R5SXZZNW5INl9QMGZMZ005Q040U1Q4bDdWeG9QUFRGeXgtSHdaN3JmODlFQklKdmtzWnNfMFZ5YWdsbXBNbVUyMnhPMy13TF83QjZDQzU4bm1BZDJybHE4dUx0bG9OdDRGaVlXZE8zamtCa1lxQmFMSms1cERzMU96ZWp5MGx3VXoxYkFHOXpoQXpGVVV5eF9oZkxVeWtuVU1HU2tn0gHPAUFVX3lxTE9RaFZ6cmw0d3cwdndBUjEwc0tVTG1uN0tGMXRaMy10akM2b0ltT2Fpa1Z4MTRlUFZOTWpDR1VJZEtDUk5wSDlpMTNKNmZjTXBMUy04cnROSWVXVHN1TkpsZXNQTFdBT0Rid0V1NThOeXJwei1NLVRJcTlQcjE2eEx5VGJrMzhvV2taejlLRkhNcG1GVVNNVjBRaENrVlZJVHdFbXE5QkYyeTJDeS1rUExuT0MwU2Q1eE5RWmxvM3Z0dmMtWHpGSnFQY1Y4M3VQSQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "In Murshidabad, ‘absent’ Yusuf Pathan draws fire from Opposition, locals; TMC MP, MLA join in - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWJ2MjM5eDJENWtvWnRUNmp3NU1XXy1GVnU0M3hMVUVtX3dmeVNuaF82TkJvZGNrRVU5SHRKS2VfeC1VQWU4TVFzZUNacTByM3ZvM1dCVzI5ekd5Z2VtbHB5Qmp4QmZVQVl2MW1vdGQ5Rm8tTkl2enJCRzRYRFBPbGpDRFpYV3lYQmZiaTZSeFlCTE1PQ0lqcWVldHh0b2IwVHFvRnBvcUhkVEhMRm5XeWNWTGRLeDYzUm42aDJpQdIBxgFBVV95cUxQNlBLdmFDVXZtMTFocURwVDl5RHJxemI5QlBoWHU2dFV6eV95aWJKcWJJeC10VXY3UkNGWXI4ZGdCMzR1Wm9MYVhubkhhRF9fV0hFQ0ZLUDFEcHpYVkZneU12UFJLVmQ3eFNDcW42aTgxanBWUU9FYVBocmxVYnNDZnN3ek5CX3dKYzBLSG9yRk0wOWQtOVVVRW5NQ1pmS0NOdXNIWmJreTdjemljYjBTTzFudWFzTHk5WEJzSEEtXzlpZXBpZlE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 7,
+    "starred_questions": 2,
+    "unstarred_questions": 5,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 13.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 55.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

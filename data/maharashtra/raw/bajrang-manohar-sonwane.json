@@ -4,16 +4,16 @@
     "constituency": "Beed",
     "state": "maharashtra",
     "party": "Nationalist Congress Party - Sharadchandra Pawar",
-    "myneta_candidate_id": 5333,
+    "myneta_candidate_id": null,
     "slug": "bajrang-manohar-sonwane",
     "house": "lok_sabha",
     "sansad_member_id": 5645,
     "profile_url": null,
     "canonical_name": "Bajrang Manohar Sonwane",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 53,
+    "age": null,
     "photo_url": "/mp-photos/5645.jpg"
   },
   "criminal_record": {
@@ -24,68 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5333",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.531339Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:35:11.029292Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 289278459.0,
-    "liabilities": 77515217.0,
-    "net_worth": 211763242.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5333",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.531350Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 76.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.93,
-    "released": 14.93,
-    "sanctioned": 2.71,
-    "expended": 2.53,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:29:57.291096Z",
-        "notes": "Official eSAKSHI REST API — Works: 100 recommended, 28 sanctioned, 10 completed"
+        "fetched_at": "2026-09-02T15:28:53.672792Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:24:53.042818Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:24:53.040016Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 100,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 16.945746818486267
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:37:11.350295Z",
+        "fetched_at": "2026-09-02T15:24:53.038908Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Beed election results 2024 live updates: Pankaja Gopinathrao Munde of BJP wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOEVmT1JlVFkxTVZWMFZKYUlCbnNDcHVERnBsb1l5V2JKSnQ3WDBZY2lybVhVejhscFVoTzZBQ1ktaDJmWlhRak9BbWFKbmI5R21xWlhpUVJRQWh4ZEFkR2VudWViS3JXWjM1dnJySENQaVA2Z0tUd1Z0V1c1Ynd1cjBPYkVfMm1Dak9fd21lcU80N0JFbnZJZWtEMHdxeVFRWG1nNkh1eFZvM2EzblZwT2ZyLVNkaUViR1JuS2RvcVFVdHVxOER6TXJ2cmFNMXZ0N2dMd1FKOUJOTjdqcVRUWjRMTDRfUGJhVk43UWVfYy1GRTTSAfgBQVVfeXFMTkQxeklsSnFKUXRWSVlTZ0M5alB1S3lWbC1ibDF1dUh2OF9UVkdOTWtrRFdWYXhYLWF2anYta1RHOVR3eUJJRE4wcldwWXBHN0hLSGp2TmdMazBENVdNYWpzWWx2UFdLaHNFcElmNlgyRkVzemsyQzdRNDlrbGhpbS0wdzRrTFNRaVlobkxhRzNQTXI4VDBGTzI0bTdSZ1JRbWUweUlwV0Z1S2IzaWtaT21tb1NPUnYyd2JNYUp2dXRtV01yZG42ZktZaVN6c2E4d2EyV0VqOTZkakZKOXdPUm5UOE1SQVMtWGZGRGl2aEtSenFvZmpacmc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Govt acknowledges TRP-led sensationalism, backs reforms for fair competition - bestmediainfo.com",
+      "source": "bestmediainfo.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS21Jc2Q5UVo0c0FfdS1RWDhMallDSmdxZ3dVWnNmak5aVkVDNUdHQTZRSXVxSmNrWlF0UEtIVWYzSE9BWjlsd1dkRWxfSnpoeHdaaXUxWWQzek9vTE45NnlUV0NKSldqRFhDb2lVSUR5YUxGU1RMN3ZRVEJ1U3htZXNwZjQyRnRLRC1fSDUwYU9lb3VnMkppVFhNSlNLMGROd01ObWllNmw4NWJnOFhvVHJJQ1ExaWZZU0psUkFRbXp1V1pHX09xTnFB0gHKAUFVX3lxTFBLbUlzZDlRWjRzQV91LVFYOExqWUNKZ3Fnd1Vac2ZqTlpWRUM1R0dBNlFJdXFKY2taUXRQS0hVZjNIT0FaOWx3V2RFbF9Kemh4d1ppdTFZZDN6T29MTjk2eVRXQ0pKV2pEWENvaVVJRHlhTEZTVEw3dlFUQnVTeG1lc3BmNDJGdEtELV9INTBhT2VvdWcySmlUWE1KU0swZE53TU5taWU2bDg1Ymc4WG9UcklDUTFpZllTSmxSQVFtenVXWkdfT3FOcUE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Beed lok sabha election results 2024: Beed Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUhzU3VkeGx5dzUtcEp4NFp6WkdvYWpjaVZGbkR3dWt3a3AzS1QxYWtWVGxxX09ONDlYS2YwSWdsNmtmV1ROS1FuN19rOVhFWmFDa1Y2eWd5Q3hfSWkxUXQ1T1RNZ1YyaHNRSnYtZi00cW0zZk00QTBJcDY1VlFYZ3RHMFFablRpelRibjhHRjB6QQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sharad Pawar-Led NCP MPs Meet PM Modi, Seek Bharat Ratna For Maharashtra Icons - NDTV Profit",
+      "source": "NDTV Profit",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXI5UVdpT3VqcEZrNjE2NnQ1MDVjVFl0TkdDUUFwR2R3U241ZVN5dXN5aExHTS1sTHB5bUd4UnBvX2lpem9POEtWQzF3MGNqektyRUh5OTJsY1FVdElWMnA1dHRINXZRbXZIMWwyWlRKbndWNVRsYnUybkRxQk16Y1JPU24yNDJ2anEydktQelVwMFZIa2ZRZGxXd09paldzei1hSF9fV0l1dGpXQzZ1VUFlSHNwSVhkSDlJ0gHDAUFVX3lxTE5mVVJaUTZQcjNMbV9lSHdxOW5qLW5RUk43YmMwUndSMXp2ZzQ4c21hbEExbnIyNEQ5YUg1TldYX3gxOFRmTGVJSjBNWXAtOEpPckVVRUJfTnpUbEpSVm5wU29PTF9EWTF1V3ZyelYxTXU1Rkp4QnRrUUlUQk8xVW1VZU5TWUswQU5sNTdZdnB0eGYzOHNOLUlhZERUMUh1dkhvbmdpemw5eWs1WjhNekU4RE4xM3FqZFFEaUlxcVNyNlJPSQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Silent march in Maharashtra’s Beed demands restoration of 5% quota for Muslims nullified by BJP-led government - indiatomorrow.net",
+      "source": "indiatomorrow.net",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSkhCX2tmcVpmLURoOElaVDN5aUQydkZRb0pfZndDUERfZmNIR0FkV1ZnUFdORkRfT3JkZ1otUmNfdEpNZDFZdGZydnJFel84VWVoVkpwS21WNkJQekRXbThRUi0tc2ZlT1laSXRSZjJDOUV2cHNWMG1xdlVKX0N2dEk5bnB6Vk83VDVzQkRheTVjbVRFMmlMNC1CUVFzVXhQeldIX1JYeG43bkk1YWVacldvYW5BVkJVVTRaYllubkNxLXlRR3YyN25yMzNlN2JmVHhjRTB2RjNQck1xenFj?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:37:30.078895Z",
+  "collected_at": "2026-09-02T15:28:53.674067Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.287024Z",
+        "fetched_at": "2026-09-02T18:38:07.813344Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.287033Z",
+        "fetched_at": "2026-09-02T18:38:07.813356Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.287038Z",
+        "fetched_at": "2026-09-02T18:38:07.813362Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.287043Z",
+        "fetched_at": "2026-09-02T18:38:07.813367Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.287048Z",
+        "fetched_at": "2026-09-02T18:38:07.813376Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.287053Z",
+        "fetched_at": "2026-09-02T18:38:07.813381Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.287057Z",
+        "fetched_at": "2026-09-02T18:38:07.813386Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -272,27 +317,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Silent march in Maharashtra’s Beed demands restoration of 5% quota for Muslims nullified by BJP-led government - IndiaTomorrow",
-        "source": "IndiaTomorrow",
+        "headline": "Beed election results 2024 live updates: Pankaja Gopinathrao Munde of BJP wins - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSkhCX2tmcVpmLURoOElaVDN5aUQydkZRb0pfZndDUERfZmNIR0FkV1ZnUFdORkRfT3JkZ1otUmNfdEpNZDFZdGZydnJFel84VWVoVkpwS21WNkJQekRXbThRUi0tc2ZlT1laSXRSZjJDOUV2cHNWMG1xdlVKX0N2dEk5bnB6Vk83VDVzQkRheTVjbVRFMmlMNC1CUVFzVXhQeldIX1JYeG43bkk1YWVacldvYW5BVkJVVTRaYllubkNxLXlRR3YyN25yMzNlN2JmVHhjRTB2RjNQck1xenFj?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Maharashtra: Political Leaders Demand Reservation for Muslims, Extend Support to Beed March - The Hindustan Gazette",
-        "source": "The Hindustan Gazette",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObHZsX1NWaS1rd3lucXVET3VsR1liR2ZjVVg1Q1JhdUx3eVJYUVJSSkNHRFE1WHhYYU10X2UtcVFvM25oVW1jUWxnckNFcXZKOXJ0VHJfQllaNFpQbS1yWnUxUlV1c1FvaUROOUZxYkFpekNHVWpZZTVYcjdwMWV5YkJZY0xQbjlGbUU5Qk5pQ3gxTWFjc3BlNGNnV085VlpwR1FZOEVBOGpaZEpRbGJ4VmFPQTZMRjF4TTk1d3VzMDhQSWV2LWdld0JsM2ZJRFhaNXVjcUI5dG1Hbzl3V0VMTnJ3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Election Result 2024: BJP's Pankaja Munde Loses Family Bastion Beed to NCP(SP)'s Sonwane by Over 6,000 Vote - News18",
-        "source": "News18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVFRqLVhIOThkNE5UNDdBcHpQeHJudUdoT0N2bGNscHNHSXlIck9mSDROd2dOUzNleGRfQjRFR2dOd1RjbUhZM2pfNVNyeklCV1RMNmdfTEVxTWw3UVg4Y29LWGExVGMwYzZCVVE4ajhwaklBLWUwNHpRZ0dDMUFWODRMcWJzdWFSRkNiMnVoWUxOSHJDY212NmJ3UW1RZnliYndjcFlodm5vdlYtYWEtRjRWMFJybXdHbVZnekhLQk9UMDJDZm8wRHlhNmdVUllfSDdjcTUyMElFam00S2fSAeMBQVVfeXFMTXNnTVVUbXVDZ0N4U0pCV3d1X0pqNmxOTEN5cjJVaHVCOE5ycWRWVWh6TlVOUTA4UV9HQV9aNzVyX3lva09ESVRLS0wtQVEzSFF4Y3dUb0tOaFR0WHFPUmhUSHBIREpkNGF2aGpEdnYwMmg2cE0xMmF6bUg5S2ZNOWY4TVBZeFA1Xy1yZjZYMDNWWkRkZWtCUXZKeDZXTDZlM1Y5T2dDT0xuYlpwSGJKaUFzeVp0cnpoRjVnSmlrelFoWkxUTmFsRFZSVXhCdHE5aVJJcUFscnpIcHlJSkVUeXVVSlU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOEVmT1JlVFkxTVZWMFZKYUlCbnNDcHVERnBsb1l5V2JKSnQ3WDBZY2lybVhVejhscFVoTzZBQ1ktaDJmWlhRak9BbWFKbmI5R21xWlhpUVJRQWh4ZEFkR2VudWViS3JXWjM1dnJySENQaVA2Z0tUd1Z0V1c1Ynd1cjBPYkVfMm1Dak9fd21lcU80N0JFbnZJZWtEMHdxeVFRWG1nNkh1eFZvM2EzblZwT2ZyLVNkaUViR1JuS2RvcVFVdHVxOER6TXJ2cmFNMXZ0N2dMd1FKOUJOTjdqcVRUWjRMTDRfUGJhVk43UWVfYy1GRTTSAfgBQVVfeXFMTkQxeklsSnFKUXRWSVlTZ0M5alB1S3lWbC1ibDF1dUh2OF9UVkdOTWtrRFdWYXhYLWF2anYta1RHOVR3eUJJRE4wcldwWXBHN0hLSGp2TmdMazBENVdNYWpzWWx2UFdLaHNFcElmNlgyRkVzemsyQzdRNDlrbGhpbS0wdzRrTFNRaVlobkxhRzNQTXI4VDBGTzI0bTdSZ1JRbWUweUlwV0Z1S2IzaWtaT21tb1NPUnYyd2JNYUp2dXRtV01yZG42ZktZaVN6c2E4d2EyV0VqOTZkakZKOXdPUm5UOE1SQVMtWGZGRGl2aEtSenFvZmpacmc?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -309,6 +338,22 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUhzU3VkeGx5dzUtcEp4NFp6WkdvYWpjaVZGbkR3dWt3a3AzS1QxYWtWVGxxX09ONDlYS2YwSWdsNmtmV1ROS1FuN19rOVhFWmFDa1Y2eWd5Q3hfSWkxUXQ1T1RNZ1YyaHNRSnYtZi00cW0zZk00QTBJcDY1VlFYZ3RHMFFablRpelRibjhHRjB6QQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sharad Pawar-Led NCP MPs Meet PM Modi, Seek Bharat Ratna For Maharashtra Icons - NDTV Profit",
+        "source": "NDTV Profit",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXI5UVdpT3VqcEZrNjE2NnQ1MDVjVFl0TkdDUUFwR2R3U241ZVN5dXN5aExHTS1sTHB5bUd4UnBvX2lpem9POEtWQzF3MGNqektyRUh5OTJsY1FVdElWMnA1dHRINXZRbXZIMWwyWlRKbndWNVRsYnUybkRxQk16Y1JPU24yNDJ2anEydktQelVwMFZIa2ZRZGxXd09paldzei1hSF9fV0l1dGpXQzZ1VUFlSHNwSVhkSDlJ0gHDAUFVX3lxTE5mVVJaUTZQcjNMbV9lSHdxOW5qLW5RUk43YmMwUndSMXp2ZzQ4c21hbEExbnIyNEQ5YUg1TldYX3gxOFRmTGVJSjBNWXAtOEpPckVVRUJfTnpUbEpSVm5wU29PTF9EWTF1V3ZyelYxTXU1Rkp4QnRrUUlUQk8xVW1VZU5TWUswQU5sNTdZdnB0eGYzOHNOLUlhZERUMUh1dkhvbmdpemw5eWs1WjhNekU4RE4xM3FqZFFEaUlxcVNyNlJPSQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Silent march in Maharashtra’s Beed demands restoration of 5% quota for Muslims nullified by BJP-led government - indiatomorrow.net",
+        "source": "indiatomorrow.net",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSkhCX2tmcVpmLURoOElaVDN5aUQydkZRb0pfZndDUERfZmNIR0FkV1ZnUFdORkRfT3JkZ1otUmNfdEpNZDFZdGZydnJFel84VWVoVkpwS21WNkJQekRXbThRUi0tc2ZlT1laSXRSZjJDOUV2cHNWMG1xdlVKX0N2dEk5bnB6Vk83VDVzQkRheTVjbVRFMmlMNC1CUVFzVXhQeldIX1JYeG43bkk1YWVacldvYW5BVkJVVTRaYllubkNxLXlRR3YyN25yMzNlN2JmVHhjRTB2RjNQck1xenFj?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -342,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 64,
+    "starred_questions": 19,
+    "unstarred_questions": 45,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

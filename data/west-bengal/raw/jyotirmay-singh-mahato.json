@@ -4,16 +4,16 @@
     "constituency": "Purulia",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7961,
+    "myneta_candidate_id": null,
     "slug": "jyotirmay-singh-mahato",
     "house": "lok_sabha",
     "sansad_member_id": 5053,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 39,
+    "age": null,
     "photo_url": "/mp-photos/5053.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,146 @@
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "142/20, Dantan PS | Section 51(b) DM Act",
+        "ipc_sections": [
+          "143",
+          "188",
+          "269"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "ACJM Court, Medinipore West",
+        "fir_no": "142/20, Dantan PS",
+        "case_no": "GR Case No. 286/20",
+        "other_acts": "Section 51(b) DM Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "147/18, Purulia (T) PS",
+        "ipc_sections": [
+          "341",
+          "323",
+          "506",
+          "34"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "JM at Bidhnagar",
+        "fir_no": "147/18, Purulia (T) PS",
+        "case_no": "GR Case No. 1423/18",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "33/16, Jalda PS",
+        "ipc_sections": [
+          "147",
+          "149",
+          "323",
+          "332",
+          "353",
+          "186",
+          "506",
+          "34"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "JM at Bidhannagar",
+        "fir_no": "33/16, Jalda PS",
+        "case_no": "GR Case No. 470/16",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:32.329612Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 595229.0,
-    "liabilities": 0.0,
-    "net_worth": 595229.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7961",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.815806Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 0.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 1.54,
-    "expended": 0.0,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:47.307895Z",
-        "notes": "Official eSAKSHI REST API — Works: 65 recommended, 41 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T15:27:07.518901Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:23:26.804651Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:23:26.803125Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 65,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 0.0
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 75.0,
@@ -92,7 +176,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:35:50.300364Z",
+        "fetched_at": "2026-09-02T15:23:26.802547Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +184,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "\"Everyone is aware of reasons behind the investigation...\": BJP MP hits out at Abhishek Banerjee - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYTltbjh2SmZxazN1MFpPZkV3SHJJOHVCd3Exa0tQSTczazZwdVo0cV9UMExvNjBfbFdTbjlwMERFV2c1dl82dnRmSmttZm5OcmdrLUtZZl9tOWZhT01ldXRUTUFTMnVTNkxxaExqWFJBcmMxdG9mbTN1S3ctVVAtV1JWaUJESm9maHpPeXN5QXVCNDdmYVdFU3JSeC1lRk5VbXE5OXY4OTg1cEpUanpGSk1PMFNoY3VNT2VTazZYb25SN0JNWHc5ZHc0VEc0RDg2SWM0NE1TcWswdFR0bEFfaVBuMWNuTHZrOWc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MP writes to JP Nadda, alleges corruption in state-run hospitals in Bengal - indiatoday.in",
+      "source": "indiatoday.in",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZm9UQnBrWU10TDRNRmxhQTU1YzI5Nng5OGtSd09zX3ZCOWV0M0NDNDV0Y0M0WVN4bGZYOGFhTnZoQURYSWFfYTFjWTloYVpfTmFDaG9jZ0drQ2hsWnhNcUZxUlcxdWhWU2sweTRWemI3dHcwdXJDZ1VPdE1LTnNHNHc3enVEblNGeEhaMktYM0pCTEFlNFo3TFdVamtNWl85X3Mtek42b3lVZjBxUjlSdXYzbEY2bXhJeDhseTYyUUNObTh6U2FRQU91SzZhdTVYbnpIbVVhX2l2bnBzUTZXcWNYVjTSAeoBQVVfeXFMTUE0MEg1cWVTRVlFTktZaDNFb2cyWnVNRGlwdWFTSzVRbmE3RDRRLXhBTktvX25sR3gwYXg1UmYwb0dyZHFramFlbjhxX1hHbWhMdjVvRm1EQUJFS3VZTHZiRDhLaUdBQUduQTNuQkJ5QVpVM1ZGQ25Ycl9Ea2F0Ni1FLTI5dTEtSUNzeHpPWE9JTWlPNkh1enN4a3VqLWNQZE4xV1NyYlNVY1c0c3Z3c2F6NExNWlJDSjJkQ2phSDNVN2FhVlJWNXlZS2ptUTRCTnNWTFhxUFZ5bm1HazRrUE1OTUhjNy0zZC13?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Jyotirmay Singh Mahato , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVWVDeUQtV25kb2h3VUtOYmhfMVBtYThmdm5LU0JwUVNXcXdudXllQnVOWkFhNDlyNzFqZXBBVVRhQlRwMHJpekhDWlpGaXg3SHcyRkF3by1fSHdYMmRJaEI3WGl0bzlpeGZCZGhfdnA1a2FMWHZCcnk3cXYtMkROZ044LWhZWlRvU2Fubm4xd0E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jamshedpur MP meets BJP’s new working president Nitin Nabin - The Avenue Mail",
+      "source": "The Avenue Mail",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZE9DYXgxQjV0Z3NWTl9SbFg5NGRaRkJXa2pERDMxM2xXdGxHOHVUNDhLWTFyOTJNNWdoMlM1dFBBQlItNTM5MHJxQlk3UnpfV25kZF9NMDMwOGRQeml4QUJJTzMwQkhDaUZYbVVza1hCRk50ZjJfTDB6TnNkUnNJLWVNUkZyTE1l?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Purulia Constituency of West Bengal Lok Sabha Election 2024: Date of Voting, Result, Candidates List, Mai - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUnByZlVlUy1IZmpER1BEd0tBOGFWSW8xWVpfdzZCZEoySzFXM0pLdm1CT1Q1cUdsZ2lSN1BpZVFIdXkyTTF3ZXB2Q2NfZDl4d041aUV6U0c0THBDVXRGNDZEQzB5T0JsNzd2X3hTNmxIdWQ2NDRxV2QyV2t6R19iSXFUX1BzdW43M2hnRE5MYkNySVdPbS1kVjBPQ2l6dVFnVzlfTVdEM3lxMXVXdXMzdnFiOThEMFhESVdsRFpIN3NlVHFFcC1IdHJTMFBOalpBMHZuNk5jYTVYQkxLVGs3X29UTk8wNnFmV1lHZV9KOF9tRHNaRGhsMXl4MThZRFlfcmhKY0Y4d2xUYk5hcVRfSFN2Yk1VUdIBmwJBVV95cUxOT3BhYXZwTkdLaWUxank4aE05TElFTVpEalRVdUhJV3FXTlZoSTlQYWw1ZDZNQXZnSjUzRktJQkdBNU8xYW1hTDVDdEZkdDk2Rms2TmQyZTkyT2JYSl9WUWxSbzFNajVvd0F3bmY2LTlvU2xyS09Ua2dVTXIzYUE0V2EwTkpBcTQ0eTc3N3VMdlNmd2F4ZUhuQVBicERqWTZ3dnVEV0Q3c096dFY2enQxalFDUXNhOTRvR3JSS2Q5Um5zNGpGNkx5UmhkbHI4ZW5hMXBYcVA5alU5NmljWU5GNDZ0THI1dXR4SmM2dTM2MVBkbVhKRzdhVzZTbHJoSWpNelN3RzVCS1AyZnRIN2hmSDF6TUdEY3dnSWFZ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:36:41.779927Z",
+  "collected_at": "2026-09-02T15:27:07.519645Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +253,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.683958Z",
+        "fetched_at": "2026-09-02T18:38:12.316970Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +269,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.683967Z",
+        "fetched_at": "2026-09-02T18:38:12.316982Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +285,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.683972Z",
+        "fetched_at": "2026-09-02T18:38:12.316988Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +301,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.683976Z",
+        "fetched_at": "2026-09-02T18:38:12.316994Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +317,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.683981Z",
+        "fetched_at": "2026-09-02T18:38:12.317001Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +333,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.683985Z",
+        "fetched_at": "2026-09-02T18:38:12.317006Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +349,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.683990Z",
+        "fetched_at": "2026-09-02T18:38:12.317011Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,32 +374,65 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@jyotirmayBJP",
+        "url": "https://x.com/http://www.twitter.com/@jyotirmayBJP",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.bacebook.com/@jyotirmaysingh.bjp",
+        "url": "https://facebook.com/http://www.bacebook.com/@jyotirmaysingh.bjp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:23:30.233383Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "positive": 1,
+    "negative": 1,
+    "neutral": 8,
     "top_headlines": [
       {
-        "headline": "Abhishek Banerjee Targets BJP Over ‘Unfulfilled Promises’ To Kin Of Deceased Workers - Ommcom News",
-        "source": "Ommcom News",
+        "headline": "\"Everyone is aware of reasons behind the investigation...\": BJP MP hits out at Abhishek Banerjee - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPckt5SmZCWmlCVG1KdUNsZnZ0cFBNRUVfSGhLVU5SVExjODdHVldtRUFYZjY2TE9lUDRwNWFiWlM2SFNFNDhyMW9teGJzd042QkVrd1ZISjFfZ2ZVR1VPVGwyc0ZJZmowbC1rWFM5WGQ3QVI4am5zdGFiV2lEZXlIZUQ1M3hHcjdrTVJqWGl0SXQxN1J2RTlVN3c5UzJtT19zbjZCUl9EcTNZN0paVFNhZ25aTVEwQ2tr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYTltbjh2SmZxazN1MFpPZkV3SHJJOHVCd3Exa0tQSTczazZwdVo0cV9UMExvNjBfbFdTbjlwMERFV2c1dl82dnRmSmttZm5OcmdrLUtZZl9tOWZhT01ldXRUTUFTMnVTNkxxaExqWFJBcmMxdG9mbTN1S3ctVVAtV1JWaUJESm9maHpPeXN5QXVCNDdmYVdFU3JSeC1lRk5VbXE5OXY4OTg1cEpUanpGSk1PMFNoY3VNT2VTazZYb25SN0JNWHc5ZHc0VEc0RDg2SWM0NE1TcWswdFR0bEFfaVBuMWNuTHZrOWc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Abhishek Banerjee targets BJP over 'unfulfilled promises' to families of deceased workers - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "BJP MP writes to JP Nadda, alleges corruption in state-run hospitals in Bengal - indiatoday.in",
+        "source": "indiatoday.in",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZm9UQnBrWU10TDRNRmxhQTU1YzI5Nng5OGtSd09zX3ZCOWV0M0NDNDV0Y0M0WVN4bGZYOGFhTnZoQURYSWFfYTFjWTloYVpfTmFDaG9jZ0drQ2hsWnhNcUZxUlcxdWhWU2sweTRWemI3dHcwdXJDZ1VPdE1LTnNHNHc3enVEblNGeEhaMktYM0pCTEFlNFo3TFdVamtNWl85X3Mtek42b3lVZjBxUjlSdXYzbEY2bXhJeDhseTYyUUNObTh6U2FRQU91SzZhdTVYbnpIbVVhX2l2bnBzUTZXcWNYVjTSAeoBQVVfeXFMTUE0MEg1cWVTRVlFTktZaDNFb2cyWnVNRGlwdWFTSzVRbmE3RDRRLXhBTktvX25sR3gwYXg1UmYwb0dyZHFramFlbjhxX1hHbWhMdjVvRm1EQUJFS3VZTHZiRDhLaUdBQUduQTNuQkJ5QVpVM1ZGQ25Ycl9Ea2F0Ni1FLTI5dTEtSUNzeHpPWE9JTWlPNkh1enN4a3VqLWNQZE4xV1NyYlNVY1c0c3Z3c2F6NExNWlJDSjJkQ2phSDNVN2FhVlJWNXlZS2ptUTRCTnNWTFhxUFZ5bm1HazRrUE1OTUhjNy0zZC13?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Jyotirmay Singh Mahato , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNUHdKSVJFdlVNTVlkY1BmS2RjemVuNThuNFBBOXdCZzYzTXoyMkVFN3FkRW9nUnZBSlI4YlpKdXpQaXFWbjZLWTJWM081T2ZBNkYwVTd0NXVpVUMza2J2VFJGOVFiZjNWOWh3LW9WcUNxZW5abUtvdV83Szh2amt0U1dURXQxYmVwbTRrM0tOUC1tTjNoYzhWZnRQbmlPOHR2SGVQVzkzaWVFM00zaUU5WFlWaHdQNWh5UkluTnhKa1JIX2YwMDN5cm13Uk1ocExrbW53OW1UTnU0UnhPV3pBQkNyNER4U2w1cjMyNHZzU3JmZllPdW9HSWU3WjlWU2ZaQ0JUTHpn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVWVDeUQtV25kb2h3VUtOYmhfMVBtYThmdm5LU0JwUVNXcXdudXllQnVOWkFhNDlyNzFqZXBBVVRhQlRwMHJpekhDWlpGaXg3SHcyRkF3by1fSHdYMmRJaEI3WGl0bzlpeGZCZGhfdnA1a2FMWHZCcnk3cXYtMkROZ044LWhZWlRvU2Fubm4xd0E?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -288,19 +444,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Bengal anti-Waqf Act protests: BJP MP demands AFSPA in Murshidabad, 3 districts - India Today",
-        "source": "India Today",
+        "headline": "Purulia Constituency of West Bengal Lok Sabha Election 2024: Date of Voting, Result, Candidates List, Mai - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0VwLVNPUE0tYmJXUjM3MmRQRkp5OUVDYjZyOUdNMHFiN0J1SHNIenVMSDAxTGRBVkhfelZNcUx0cnY5WEdwU0xZOWc2dGRjV2hVVS1XT3F3S0ZqNXcxQUx3Umt3LVRYN0NweEdaRWhIT1E3TU5sdHRyelR2UGM1bEVoTHF1U1dBRjlXRlBKVVlIcUswM3drSFBNdHdiOHlUSEI0aUVqX1M4UUx4OVEwNWl1Z3k2Zkt1bG9hRnd1UEViWV9COXNoR21rN2RuTXhVeFRrMzdR0gHbAUFVX3lxTE1vR1ozZ3RKT2M1TDlpYUlRT1QwYTdXbGxZbWhodE1pdkcxQkxXYTEyaERicnV6V1ExNldDTVV0RDY4amlmMHgwX3NHSDd3QzlfaG9RQXFZaEFRd25Ic1JxeVZIb2k5cEZTbHJrd0dsTmx1cjMxX1ExTXBEeWtiSm12Mi1PRUJFRnFpb212SmJ0eFZVaHBObDIyTVFqZkVuZmh6ZHUtRWJSc1dqWWNNaGRCWU56UTR5YTBMcFgwLWFsdW9Ga0JTZjQ4SjVydjdTQk0ySUh5X0VjMmNkcw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Jyotirmay Singh Mahato , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVWVDeUQtV25kb2h3VUtOYmhfMVBtYThmdm5LU0JwUVNXcXdudXllQnVOWkFhNDlyNzFqZXBBVVRhQlRwMHJpekhDWlpGaXg3SHcyRkF3by1fSHdYMmRJaEI3WGl0bzlpeGZCZGhfdnA1a2FMWHZCcnk3cXYtMkROZ044LWhZWlRvU2Fubm4xd0E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUnByZlVlUy1IZmpER1BEd0tBOGFWSW8xWVpfdzZCZEoySzFXM0pLdm1CT1Q1cUdsZ2lSN1BpZVFIdXkyTTF3ZXB2Q2NfZDl4d041aUV6U0c0THBDVXRGNDZEQzB5T0JsNzd2X3hTNmxIdWQ2NDRxV2QyV2t6R19iSXFUX1BzdW43M2hnRE5MYkNySVdPbS1kVjBPQ2l6dVFnVzlfTVdEM3lxMXVXdXMzdnFiOThEMFhESVdsRFpIN3NlVHFFcC1IdHJTMFBOalpBMHZuNk5jYTVYQkxLVGs3X29UTk8wNnFmV1lHZV9KOF9tRHNaRGhsMXl4MThZRFlfcmhKY0Y4d2xUYk5hcVRfSFN2Yk1VUdIBmwJBVV95cUxOT3BhYXZwTkdLaWUxank4aE05TElFTVpEalRVdUhJV3FXTlZoSTlQYWw1ZDZNQXZnSjUzRktJQkdBNU8xYW1hTDVDdEZkdDk2Rms2TmQyZTkyT2JYSl9WUWxSbzFNajVvd0F3bmY2LTlvU2xyS09Ua2dVTXIzYUE0V2EwTkpBcTQ0eTc3N3VMdlNmd2F4ZUhuQVBicERqWTZ3dnVEV0Q3c096dFY2enQxalFDUXNhOTRvR3JSS2Q5Um5zNGpGNkx5UmhkbHI4ZW5hMXBYcVA5alU5NmljWU5GNDZ0THI1dXR4SmM2dTM2MVBkbVhKRzdhVzZTbHJoSWpNelN3RzVCS1AyZnRIN2hmSDF6TUdEY3dnSWFZ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +482,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 13,
+    "starred_questions": 3,
+    "unstarred_questions": 10,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 24.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +498,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 75.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -21,65 +21,200 @@
   "criminal_record": {
     "total_cases": 5,
     "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 5,
+    "convictions": 5,
+    "pending_cases": 0,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Section 5, 4(2)(a) of KEDO & Section 51(b) of DM Act, Section 118E KP Act",
+        "ipc_sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "is_serious": false,
+        "is_convicted": true,
+        "status": "convicted",
+        "court": "JFCM I, Idukki",
+        "fir_no": "",
+        "case_no": "CC 168/2022 Refiled (CC 3408/2020)",
+        "other_acts": "Section 5, 4(2)(a) of KEDO & Section 51(b) of DM Act, Section 118E KP Act",
+        "charges_framed": "",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "Fined Rs. 1000/-",
+        "date_convicted": "19 Oct 2022"
+      },
+      {
+        "description": "Section 5, 4(2)(a) of KEDO",
+        "ipc_sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "is_serious": false,
+        "is_convicted": true,
+        "status": "convicted",
+        "court": "ACJM, EKM (MP,MLA Court)",
+        "fir_no": "",
+        "case_no": "CC 335/2020",
+        "other_acts": "Section 5, 4(2)(a) of KEDO",
+        "charges_framed": "",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "Fined Rs. 2200/- & S.I. till raising of the court and SI till raising of the court",
+        "date_convicted": "16 Sep 2022"
+      },
+      {
+        "description": "Section 5, 4(2)(a) of KEDO & Section 51(b) of DM Act",
+        "ipc_sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "is_serious": false,
+        "is_convicted": true,
+        "status": "convicted",
+        "court": "JFCM I, Idukki",
+        "fir_no": "",
+        "case_no": "CC 2893/2020",
+        "other_acts": "Section 5, 4(2)(a) of KEDO & Section 51(b) of DM Act",
+        "charges_framed": "",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "Fined Rs. 1000/-",
+        "date_convicted": "12 Nov 2021"
+      },
+      {
+        "description": "Section 5, 4(2)(a) of KEDO",
+        "ipc_sections": [
+          "188",
+          "269"
+        ],
+        "is_serious": false,
+        "is_convicted": true,
+        "status": "convicted",
+        "court": "JFCM I, Muvattupuzha",
+        "fir_no": "",
+        "case_no": "ST 2614/2022",
+        "other_acts": "Section 5, 4(2)(a) of KEDO",
+        "charges_framed": "",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "Fined Rs. 500/-",
+        "date_convicted": "01 Oct 2021"
+      },
+      {
+        "description": "Section 5, 4(2)(a) of KEDO",
+        "ipc_sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "is_serious": false,
+        "is_convicted": true,
+        "status": "convicted",
+        "court": "JFCM I, Muvattupuzha",
+        "fir_no": "",
+        "case_no": "ST 940/2021",
+        "other_acts": "Section 5, 4(2)(a) of KEDO",
+        "charges_framed": "",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "Fined Rs. 1000/-",
+        "date_convicted": "11 Sep 2021"
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:46.523939Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 14857158.0,
+    "immovable_assets": 80339160.0,
     "total_assets": 95196318.0,
-    "liabilities": 1300000.0,
-    "net_worth": 93896318.0,
-    "previous_total_assets": null,
+    "liabilities": 2800000.0,
+    "net_worth": 92396318.0,
+    "previous_total_assets": 6220197660000000.0,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3137",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.347120Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:27:15.918418Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 57.1,
-    "growth_ratio": null
+    "wealth_percentile": 55.3,
+    "growth_ratio": -0.999999984695612
   },
   "mplads": {
-    "entitled": 18.87,
-    "released": 18.87,
-    "sanctioned": 7.73,
-    "expended": 2.34,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:06.280003Z",
-        "notes": "Official eSAKSHI REST API — Works: 203 recommended, 170 sanctioned, 27 completed"
+        "fetched_at": "2026-09-02T14:30:54.899115Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:14.256104Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:14.253319Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 203,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 12.400635930047693
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 75.0,
@@ -94,7 +229,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:39.062382Z",
+        "fetched_at": "2026-09-02T14:27:14.252295Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -102,22 +237,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Kottayam election results 2024 live updates: KEC's K Francis George wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPcmM3Zk9JcXpDWWprT1JrLTFSb2tjUk44NmliZmlMd1JuNEpaM1hObHlnUmVUVS1HWUYyUjBZa1VRc3c0TEt3Yjhia3F3Y0VCRFoxcF9mSzVJSXpjUS1xNGlodVB3T25ROGNZdmhzTlR4dlQxTHVvWEt6NTRDRDd3WTljNlBuUklPczQ3S1BzWFdTaFNpUHdFQ3htSXhKNzJKZFRNZlhQUnBBVER2el93a1VkZzdYOUtEM3VtRks0MGU4dF91SW5pWGIxblo4VWN4YjJ0RXFINno1SmpQRlhmb29xRmVjTzhfOEg5dW94d1prMHU3Q2RnVHYtdVY3eDVOT3FINWpQMmh5NmlUekUxONIBlgJBVV95cUxQanVqclhqV2VIN2NndFNvUTg5Z1FXeC1HMnFBMFlycUx1UkJibllsOURqWTNJUDlzQ3hDM0Rab3Z4QnhVaWpGRVdESGhCeEljMEM3MVhkLUVmNmppRmd3RkZ4OWVNUDdkcUVaQWxhaFprWkxhUnB3anhHM2U4RHdaUlN5eEVUUlRXcVNRbDI1bFRzdmRiRDVsd2VKWC1IWGJnaFQ1aDZSQmEyb2FFZWRHVEtqc2FMN1J4VmlzdXhaMFhGMU9CTDdYM29xcVRGYmtRdC03aHA2Z1lkRE1PYUhzZlFsM2RJTnJFUWQ2NU1EeUpTaXlVOWozZjFKczVPRjc2VDZocGxGZll2SjhzZnZnaGNhcDdGZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "2024 Lok Sabha polls: Francis George top contender in Kerala Congress (Joseph) for Kottayam seat - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZnItN0ZyZDZLMmhVYzBqZS1pVndicWFOaEFJWnVBWFlaRXh0ODJ0WmNBb2MycnUtTEp3cXp6enprZ25Uek5iYUVnRGppdVB6ZkJJZTNMc0ZnMVBLbGtqZ3RTbjBCLXBGdnhCTG9zaVhyYjNnM1hLWjZvOHJERV9XeXU3WFpSVGVpZldSZGlSM3RyUU1XX01JMTN5NHFwejRNY1NCcHFDZmJEYjRiRWswYWN1ckdLMHpKWG9GYzhOSkdqVlV3dkV0UjZBNXBiZ3EzRTY1ZVpsc1B3c3J4clA5X1kwSElwSmvSAfQBQVVfeXFMTlhMODlCTkZPWWpRMm42Wnk3LXdFcWJYeFN1QlR2WEpEd09MR2J1dnNLVkZfd2JzN0JzSktYLWVTUG1TTURjS19vYjMxOHNuaDR0TFB0Z1dpSm9zam9BM2ROekd0cXB0UkRraHdNNm1RUWdrN3lXUWVwNjF5RUExdmV0Tm5rbXZFS2ZwMUJITFNmWmpoc1V5eEdTMl91cE5fZHZqM3UyZ3RJRk5uWDhxV19hb1VyT1FJRVpJVHUySGp3dGdWeWFHb1JVY214empUVzFjeXBWLXZvSDUzeGp2ZHVUempuaXdTZmRsRGNSZlZUcWRlOQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kerala Congress(J)'s Francis George vs LDF's Thomas Chazhikadan in Kottayam - Deccan Herald",
+      "source": "Deccan Herald",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdDFvNnlINFl3WFFVVnRpUlhDRm9Galp4dV91bEZzRlBvN05JcEtYUmJmYlZLbkpIaUFDTUpCZzlSb1owWFlOUnhQVklULWw2QVZZdUFheE94VmNQWGNFbF85UDZBa0tMcTl6ZFhUY2lKYmo4OUhNVm1hTmh1WEU1M29MbHByUmdSTFNDemZtSkNDR1RVTXFsM3dyc3NZblNzUWdWRkhEWEs1cnN2c1EtS3h2UjVVd01YZ3AxNnJn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "K Francis George - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV3hST2dUZmNmR05QQ1lPVEFLQjVwMVRKSHhFcUJ6VXFWTG9IVjVBem94NHpOOEhtMVRsYnpZOWZrSmlyLXJ5N21MdFRYNWplM1ViUmRUQ3FtRTg5MG85M2FDMFVTY3ZEbkZnV3N2cndfZ080MHRla3BfZ1NXWHFhUDFUZi0zQkdjcThhT0RNNkc5ZU9NNzVveG1RQldKMHE5Vm1jTnJkZFZacFkycUdZZGdFQmdmNVRI?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "TN Transport Min flags off new bus service from Vaikom to Velankanni following request of Kottayam MP - DT Next",
+      "source": "DT Next",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWjQyX1RzeElyWnNQNVhJNGFJVnBVZ29rbDVlV0ZCLUdleXJ5ODk5ZU1yM3FhS2ZSSVk1NlNSNnJTYUpUNVR6YnFka28wQWxPUFJUN2tZWU16bGhGdlExVHdxV3A4ZzB5UGFFUFg5bkhabjFwRTN3RnVpYWlUUjUzT2dqQTV0bWRuUEZoZDdjdzB4bmE4djU3amllekwzb2JaZHplbXhtX2ZNN0xDTkhZSjVQbWZfU0c0RnVzelU2X2NoWHVYTUhja2VlUnlMNnFxX1hDZ1RWVzRhaF9GTEHSAesBQVVfeXFMTzZfd2dPM2tmYmpkNVhaOTZ6YWZZbm5CRS15ZF9JaDU2WDBwTGd4VTE5eWpnRVh4elZ5czV3U2NCeXhHTEFwbGoxcG1idUZDNkdkeXJEY3FpSXhfRXJPVW9wWTY0Y2Q5aHNMY3JoR1k2M0JuRFFpVW5qNUs2NHgwbERiQlVuVFFHcUpMaXFodUJQeUVLYUM1SjJUajdfTGVTVU9CNXdqeWhjeUliNjlTU29Ta2h0eVc5SS1mamdnenp4V1lnR21sbFREMThXa09uOTJMbXdydmR0Tkp2X3B3Uy1DMUhBVnVCV0FnOA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:37.870065Z",
+  "collected_at": "2026-09-02T14:30:54.900436Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -132,7 +309,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.531037Z",
+        "fetched_at": "2026-09-02T18:38:07.009189Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -148,7 +325,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.531047Z",
+        "fetched_at": "2026-09-02T18:38:07.009200Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -164,7 +341,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.531052Z",
+        "fetched_at": "2026-09-02T18:38:07.009206Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -180,7 +357,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.531057Z",
+        "fetched_at": "2026-09-02T18:38:07.009211Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -196,7 +373,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.531063Z",
+        "fetched_at": "2026-09-02T18:38:07.009218Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -212,7 +389,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.531067Z",
+        "fetched_at": "2026-09-02T18:38:07.009223Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -228,7 +405,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.531071Z",
+        "fetched_at": "2026-09-02T18:38:07.009228Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -253,11 +430,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/voteforkfrancisgeorge/",
+        "url": "https://facebook.com/https://www.facebook.com/voteforkfrancisgeorge/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/adv_k_francisgeorgeofficial/",
+        "url": "https://instagram.com/https://www.instagram.com/adv_k_francisgeorgeofficial/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:27:17.834621Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -266,27 +468,19 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Railway Minister promises to consider more stops for trains between Chingavanam and Ernakulam - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSndoTmVxMldROGdpVTMwUmVJRUxXUHphbEtVc1hTSzA0ZW1mMjU3bXF5UzNpcW5mY3JLTm1zR0JEVUpOZDRYZzJBWjhSMVdGUUdQSnlZMkZ5bVp6aDJWWlpmSEF1M0lOLTF6TEpUcWxVaFFiY2xiZmo0bzRQd2UxQ1ZobUxERzBBU3pGWWttTVp3VmZtTElPT1p2UVFvakRSNnJObWFZa21nSVQ3Q3NZUHV2aGNrMElzSy1wdEY1clFVc3E4bml4b3lQcmg2Q1VwWEVzbU45WmFlSVpTRkdGWUdtYnJzZy1neTBvdk1VQVnSAfcBQVVfeXFMT2p0Q0NJVXVneGhSR09ONnJMVVBnMklsdThKNEhzUXZwRmdua09IcEVzVmZScUluVHdGRmxIcVgzbGpZWWpiTnd4am81a2Q2OEdvcHRIQkt1R1gwTG1Fc0g0X0RBRHNFbWtETUlIREtpelEzS1JLZklLME1SUXIzQTRYalZFUkVTSWNieFFGa0hQcEJTbi1BTjl2d3hmeXQxc1BFUkZpSHBVem9GVDQ3bFFsZGlfS2VheVVCWDFlTnFuRlpKbmlXZmRNRklZUnhPYjBBVkhwV1BiUWxYZmdacjcyT3RraGZQM3pLUjZqeFhZeU9DdTFubw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kochi-Kottayam NH corridor: NHAI directed to study feasiblility - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2lhVGdncGVyMEFjd0Jtc19kNUZDWWV3U3JlUDVldUROajNVMngtNUZZdWZxcjk3VEFOVDhYeVpqekkzcWkwWkdOeDdsNllMUDNkUkR5SmZ5bkszdm15czFsdG5SY3pDUmZNTzdKTGIzZXdBV2haUU9SdGFRSnZPeEVmdFQ2Q01SN2EzX1RpYXgyMk55bzVrU3N0TVc4dkswaXFEdVB5WHBLZ05pcllCVlpZd1NTSjA4OVhoZtIBygFBVV95cUxORGM4VHJxZlVnZkt4anJqQk90elp6MmhVSWJNTUp4Zkg3aG9CRHBaQXp2aWl2NGg2dHVWUldUU2lLNjJ4M2J1UzdxR1FkbnZTOUpXTkFMQXhJNzVtdGI4amFndWs0NGpWWVFBVGRaOXh3aHhGeWhrMTZiSjFKeXRKOXNpTDVfcEk3Uk4wZHc1bmRCZ2dBblZRR0RMeThmTkNyd3pFbXlORHpuSjZnYXBEX3NIcFFTUGRnVTJqaXlNbmdwckw1ZXNZME9R?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Kottayam election results 2024 live updates: KEC's K Francis George wins - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPcmM3Zk9JcXpDWWprT1JrLTFSb2tjUk44NmliZmlMd1JuNEpaM1hObHlnUmVUVS1HWUYyUjBZa1VRc3c0TEt3Yjhia3F3Y0VCRFoxcF9mSzVJSXpjUS1xNGlodVB3T25ROGNZdmhzTlR4dlQxTHVvWEt6NTRDRDd3WTljNlBuUklPczQ3S1BzWFdTaFNpUHdFQ3htSXhKNzJKZFRNZlhQUnBBVER2el93a1VkZzdYOUtEM3VtRks0MGU4dF91SW5pWGIxblo4VWN4YjJ0RXFINno1SmpQRlhmb29xRmVjTzhfOEg5dW94d1prMHU3Q2RnVHYtdVY3eDVOT3FINWpQMmh5NmlUekUxONIBlgJBVV95cUxQanVqclhqV2VIN2NndFNvUTg5Z1FXeC1HMnFBMFlycUx1UkJibllsOURqWTNJUDlzQ3hDM0Rab3Z4QnhVaWpGRVdESGhCeEljMEM3MVhkLUVmNmppRmd3RkZ4OWVNUDdkcUVaQWxhaFprWkxhUnB3anhHM2U4RHdaUlN5eEVUUlRXcVNRbDI1bFRzdmRiRDVsd2VKWC1IWGJnaFQ1aDZSQmEyb2FFZWRHVEtqc2FMN1J4VmlzdXhaMFhGMU9CTDdYM29xcVRGYmtRdC03aHA2Z1lkRE1PYUhzZlFsM2RJTnJFUWQ2NU1EeUpTaXlVOWozZjFKczVPRjc2VDZocGxGZll2SjhzZnZnaGNhcDdGZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "2024 Lok Sabha polls: Francis George top contender in Kerala Congress (Joseph) for Kottayam seat - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZnItN0ZyZDZLMmhVYzBqZS1pVndicWFOaEFJWnVBWFlaRXh0ODJ0WmNBb2MycnUtTEp3cXp6enprZ25Uek5iYUVnRGppdVB6ZkJJZTNMc0ZnMVBLbGtqZ3RTbjBCLXBGdnhCTG9zaVhyYjNnM1hLWjZvOHJERV9XeXU3WFpSVGVpZldSZGlSM3RyUU1XX01JMTN5NHFwejRNY1NCcHFDZmJEYjRiRWswYWN1ckdLMHpKWG9GYzhOSkdqVlV3dkV0UjZBNXBiZ3EzRTY1ZVpsc1B3c3J4clA5X1kwSElwSmvSAfQBQVVfeXFMTlhMODlCTkZPWWpRMm42Wnk3LXdFcWJYeFN1QlR2WEpEd09MR2J1dnNLVkZfd2JzN0JzSktYLWVTUG1TTURjS19vYjMxOHNuaDR0TFB0Z1dpSm9zam9BM2ROekd0cXB0UkRraHdNNm1RUWdrN3lXUWVwNjF5RUExdmV0Tm5rbXZFS2ZwMUJITFNmWmpoc1V5eEdTMl91cE5fZHZqM3UyZ3RJRk5uWDhxV19hb1VyT1FJRVpJVHUySGp3dGdWeWFHb1JVY214empUVzFjeXBWLXZvSDUzeGp2ZHVUempuaXdTZmRsRGNSZlZUcWRlOQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -298,11 +492,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Kerala Congress splinter groups to slug it out for Kottayam LS seat after 44 years - Onmanorama",
-        "source": "Onmanorama",
+        "headline": "K Francis George - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVDR0UGtDeU1HZkJLcnpHZkhfampFZ1F1MWFhRXllLVhuS1lYNzRwMmFrNDBydExmMjhlRF9LS0NRenpYOENNdnlIQlZIck00M09VUVpBNlc5ajFxdWpfVmVLN01TQ0lsMWRhcTZxczRzSUU5bTNOV3pNeDFhWVdPYjBCcWVBWmh1VUN6WHMxeC00TnVLUWNabmVB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV3hST2dUZmNmR05QQ1lPVEFLQjVwMVRKSHhFcUJ6VXFWTG9IVjVBem94NHpOOEhtMVRsYnpZOWZrSmlyLXJ5N21MdFRYNWplM1ViUmRUQ3FtRTg5MG85M2FDMFVTY3ZEbkZnV3N2cndfZ080MHRla3BfZ1NXWHFhUDFUZi0zQkdjcThhT0RNNkc5ZU9NNzVveG1RQldKMHE5Vm1jTnJkZFZacFkycUdZZGdFQmdmNVRI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TN Transport Min flags off new bus service from Vaikom to Velankanni following request of Kottayam MP - DT Next",
+        "source": "DT Next",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWjQyX1RzeElyWnNQNVhJNGFJVnBVZ29rbDVlV0ZCLUdleXJ5ODk5ZU1yM3FhS2ZSSVk1NlNSNnJTYUpUNVR6YnFka28wQWxPUFJUN2tZWU16bGhGdlExVHdxV3A4ZzB5UGFFUFg5bkhabjFwRTN3RnVpYWlUUjUzT2dqQTV0bWRuUEZoZDdjdzB4bmE4djU3amllekwzb2JaZHplbXhtX2ZNN0xDTkhZSjVQbWZfU0c0RnVzelU2X2NoWHVYTUhja2VlUnlMNnFxX1hDZ1RWVzRhaF9GTEHSAesBQVVfeXFMTzZfd2dPM2tmYmpkNVhaOTZ6YWZZbm5CRS15ZF9JaDU2WDBwTGd4VTE5eWpnRVh4elZ5czV3U2NCeXhHTEFwbGoxcG1idUZDNkdkeXJEY3FpSXhfRXJPVW9wWTY0Y2Q5aHNMY3JoR1k2M0JuRFFpVW5qNUs2NHgwbERiQlVuVFFHcUpMaXFodUJQeUVLYUM1SjJUajdfTGVTVU9CNXdqeWhjeUliNjlTU29Ta2h0eVc5SS1mamdnenp4V1lnR21sbFREMThXa09uOTJMbXdydmR0Tkp2X3B3Uy1DMUhBVnVCV0FnOA?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -336,15 +538,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 21,
+    "starred_questions": 6,
+    "unstarred_questions": 15,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 40.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -352,17 +554,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 75.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

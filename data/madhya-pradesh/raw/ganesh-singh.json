@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/3986.jpg"
   },
   "criminal_record": {
-    "total_cases": 3,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 3,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 94681128.0,
-    "liabilities": 22864373.0,
-    "net_worth": 71816755.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 56.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.31,
-    "expended": 3.01,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:30.960703Z",
-        "notes": "Official eSAKSHI REST API — Works: 311 recommended, 179 sanctioned, 68 completed"
+        "fetched_at": "2026-09-02T14:54:30.420241Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:50:46.800750Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:50:46.797695Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 311,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 20.476190476190474
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:29:47.594947Z",
+        "fetched_at": "2026-09-02T14:50:46.796584Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP Ganesh SIngh Urges Govt. To Launch Pilot Project For Production Of Potash From Cement Kiln Dust - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNFMxb19LOTlMMlhfSW5XSXNpZTNhTEFHVS01X28xQU1wSFdkaU1hZ2dBTVRUUm5DaFNQbXN3NXFjS3BoSmk1ZHdJTlBUOFB3WFd2NXVfOVZwUE9JWXVLQ3JYc1YyNHhDcmZ3eVBuXzBJYnB1bFkyRDJaYk1xZ2ljZnRiT0hUdndfX3NyUTJWeWlQQ1NqelZTWUhGZTNlQTBPRGdlZ0xIVmtUNlkxZDlSam8wamF2R1c3aGh1dVpBRThqNVJFWXk0Nl9UOWJjTDM4bk51VEdOV1RSRHViNGNDS2Y1SU5nLXp4T3ZfRTFzcWFyeHFGdWpR0gH8AUFVX3lxTE56RzBYYy1fWk1uMlcxVGFaNlp6Mm1pM3lUT3VNeElaWTVmR3hUb1BMVzZFZHBDQnd0R19yV200TkZSbWR6bDBoWVpNbGI5MDliS2hmNHVZeFdydUdJSml3QTFKLUxtaUYwM2NKc05KVHRKQU41R08wNnItbExFODNQUk1aSzF5cnJaMXZsOXpkMUVZWS1hYV9QNzNMWkhxa1F5UzlIbEFCc1p0LVYzbFlGX3hWRTFua19reHlFbkc3R0JXRnM3MVd2UkZ3TXRiMWVmY1RXbGxpRXJ4VzJyNEp1ZTl6djRlVW9yVUJuUlVMNjE5bXIwS05ST0ozaA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Video: BJP MP Rides Crane To Garland Statue, Slaps Operator After It Jolts - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjItTFpzS3BVSE9wSFYxRXJRd0ljR3dEUTh2WTdzRmlhMDZoMWg3eWJJcTRLV3NLaEJvMFdlZ3A0LWF5N2xIQnhQQW8xbTVrN1RsVW9mZHFiNllUSHNuS29pVUQ3SHZJRjdRM1M1X2hIZGhJOGstbUdYYXVweDdRLTFqZy1yZGJ2R25aTFVhUmhKNUExNXBhU29NREJVRkdISjdj0gGrAUFVX3lxTE1sUkRWTFdXeEQ4M1R5bXdjTFF1eGFIRU0yZzgtcnM3N0VZT19qMFB1OEVnVTFJVXVSRy1POFNvMk4yTHREX0NGaVpZYUFUQ1lLNHRZXzRucWpYaUhsZFNvb3lSVEo5d3JFUWhzd0wwUW1BME1Lam9Db1Ayek10LVJCNnVfejltX0hHSThXN3o3QW9QX3BTcVFmTXYwYmVBSG5URl8tM3pnWDZZWQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "PMNRF Sanctions ₹75.78 Lakh for Treatment of 32 Patients in Satna - dailypioneer.com",
+      "source": "dailypioneer.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFFEUjI3S1RsTE0yeW9zellDX1pPNllaY0lYS19lcm5yTkh3TXNFbUpXNXQzWWFmeWt4RHBDLUVmdXpvT1VNbVI3WlhrcFplVmk4dzB3alNHRW9MbHRwVjdvOXhZUE05emkzRUxKb09HbnoyeFFYRmxHd1J2NlhYaW1PeU5ialBlNDVjTVNPakNaM0gzM1Z5WEV1ZnNCTVRzSmlF?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Satna BJP MP Ganesh Singh 'Slaps' Crane Driver During Run For Unity, Faces Congress Flak - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3Q2NkFzdUtDbWNGV1NwUk9qbGJscV9LVVU0SEVEZmlUWTZrcUM4N0NXdlBsbDFLdkt0cDhMMWlHR2E5NWNRVlRNOGx0MU5TRmNDZ0pOQlh4TzVYdW5xbHp3bmJ4VHdadGp1V3dDSVR2TWlZYlV0Q0JTVHNQWXp0LVlJQjJ0VmVab1VscTBZWUhVb3FUVlpZYUlsR1NhTlJETy0tYnZiZXVyMVZKMGc2RnpPTXU1TkhrVEcw0gHAAUFVX3lxTE5CekpTS3BUNzBVbjEzTFBGV1Z1ZjhtTUtVeldrd2RMQjJTRXNUTVBwdTZIbWk5NWljOTVBYkpUbmxOWDlYTmNRS1VRWEdEajh5M2NFc1RSTkQyRjZTSFdWbnlOcVNXcTJCaHh2bzQybFhiSmV3QlptcllFQ2ZjR0dCTmRLclFFYzlyUHVpNk5fUjEzLU1MZ2hZSHhiZlAwQ2x2dUVXS3FyM2pBUi1RYWVsMVdPc3AzMmxsenN0SXJraQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MP ‘slaps’ crane operator after glitch while trying to garland statue in Madhya Pradesh, Congress slams ‘power intoxication’ - indianexpress.com",
+      "source": "indianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMzVOVjNnWVd3MUxSdTRzTUdnekU2dUFkUk8zelltNUZIRzBrTUFKM1JDMnFoUlcwQlB5bnFTZndoOVhHLVF2VmNlSEN4c2ttMjhEMjJ6RE10YWVaNzNfWjZDdzFPMVFvWGdpMGdoSlBEbEdPV0w5V0gwTHRIT1JBSHR6RE9YSFBzSzdKd28ySkxMSFhnTld2U3kwZjdCMGtCTkNWNTd6Qm9vZ25zRU5ESTUzUTd0WU5RYjJWdUtYSHJscFFlZXY5STlB0gHQAUFVX3lxTE8xSnpmRnZ5ekRrRTdPbkxycWx3bnh5RWJTOFg2ZEdaNEJhdk1JT2djVlZVTlBNbnA1bXVHcmxMa2J3UUxWSzcwbkVkdDAxUG91aTR5ZWhBNUFfQzRqcmFVb2J4em9tb2pjSmpudklmZ29tb0s3eVQ0NGszeTFlSXA4TGktcXdSeXZJaE53dThlakM1VkdMWFNwdnhvajhoYXNzLWpvVmotMVEwdGhYUzdkZFJ1dS1WdjFVc2d1a0k2OHFIa0hnejBKZ3l5SlpFU2U?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:30:47.051733Z",
+  "collected_at": "2026-09-02T14:54:30.422116Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.873463Z",
+        "fetched_at": "2026-09-02T18:38:07.367262Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.873498Z",
+        "fetched_at": "2026-09-02T18:38:07.367274Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.873509Z",
+        "fetched_at": "2026-09-02T18:38:07.367280Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.873516Z",
+        "fetched_at": "2026-09-02T18:38:07.367285Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.873523Z",
+        "fetched_at": "2026-09-02T18:38:07.367291Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.873530Z",
+        "fetched_at": "2026-09-02T18:38:07.367297Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.873536Z",
+        "fetched_at": "2026-09-02T18:38:07.367301Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.873543Z",
+        "fetched_at": "2026-09-02T18:38:07.367306Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -256,18 +312,51 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/Ganesh Singh_in",
+        "url": "https://x.com/http://www.twitter.com/Ganesh Singh_in",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/ganesh singh satna MP",
+        "url": "https://facebook.com/http://www.facebook.com/ganesh singh satna MP",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:50:51.263234Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
+      {
+        "headline": "MP Ganesh SIngh Urges Govt. To Launch Pilot Project For Production Of Potash From Cement Kiln Dust - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNFMxb19LOTlMMlhfSW5XSXNpZTNhTEFHVS01X28xQU1wSFdkaU1hZ2dBTVRUUm5DaFNQbXN3NXFjS3BoSmk1ZHdJTlBUOFB3WFd2NXVfOVZwUE9JWXVLQ3JYc1YyNHhDcmZ3eVBuXzBJYnB1bFkyRDJaYk1xZ2ljZnRiT0hUdndfX3NyUTJWeWlQQ1NqelZTWUhGZTNlQTBPRGdlZ0xIVmtUNlkxZDlSam8wamF2R1c3aGh1dVpBRThqNVJFWXk0Nl9UOWJjTDM4bk51VEdOV1RSRHViNGNDS2Y1SU5nLXp4T3ZfRTFzcWFyeHFGdWpR0gH8AUFVX3lxTE56RzBYYy1fWk1uMlcxVGFaNlp6Mm1pM3lUT3VNeElaWTVmR3hUb1BMVzZFZHBDQnd0R19yV200TkZSbWR6bDBoWVpNbGI5MDliS2hmNHVZeFdydUdJSml3QTFKLUxtaUYwM2NKc05KVHRKQU41R08wNnItbExFODNQUk1aSzF5cnJaMXZsOXpkMUVZWS1hYV9QNzNMWkhxa1F5UzlIbEFCc1p0LVYzbFlGX3hWRTFua19reHlFbkc3R0JXRnM3MVd2UkZ3TXRiMWVmY1RXbGxpRXJ4VzJyNEp1ZTl6djRlVW9yVUJuUlVMNjE5bXIwS05ST0ozaA?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "Video: BJP MP Rides Crane To Garland Statue, Slaps Operator After It Jolts - NDTV",
         "source": "NDTV",
@@ -277,19 +366,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Watch: Angry over crane snag, BJP MP Ganesh Singh slaps operator in Satna - The Times of India",
-        "source": "The Times of India",
+        "headline": "PMNRF Sanctions ₹75.78 Lakh for Treatment of 32 Patients in Satna - dailypioneer.com",
+        "source": "dailypioneer.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV1NYNXFadGFpX3lYTFZtdjMxRDdWcGtUdGh4UmlwSGtXX09mZTZyd2lTM2ZqR3FGcjhOQTlOVmpDbFBpam5ORXBNX3ZTSUlEeVhfWkpnR2pwT3haOGJRdEhfd2t4Z2RJYVBWYTFsV1ctd3RIZ0Yxb21UaDg4M2lyakRCNFFPVFlDN2tCcFVIRld3dnVjbVdOdHFsOVJKdmJkQi1DUHlzTjZ4RTdVQnNBTGRXODQ4NktNM19WTlNZTFdQVU9R0gHKAUFVX3lxTFBsQW5xa3llQllYV0ZJdDU4eHNDZUZOTXQySnBUWDJiaTg3dDB2UDZSNVEycHl0cDZjcWh6dnk1cEJOUmdJMWRoTVlfb21rUk5laFB0WjNGbnhZQkYyWmZrczlndXRnbUVlZVBVRWt4NF9oT0Y0YXlqT1Vhd09wN1Y2bURJWHlBZjEwWmtEbml3T0RoYTJteVp4d2laTTJIUFI2azRxOHJHU19WMExVRHdOM2tnYWVaelJNRDZqZDluNW50N2w0aktEblE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP MP Ganesh Singh slaps crane driver after being struck mid-air at event in Satna, video goes viral - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLW9QTXBndE1hM1lVRTVPM0NnS1FZZlVnSlJVdVBvUXdiZnBOd0FWS3ROcTlBUUlRTmpUTDJWZVRwRjFsbjlkU0VXdmtZc2xWMEROYzBpVWl3ZGhTRFdlREkxeHFoZjJWSHZiWEtiRkgyRlBmbG5NamlXQ1doTnJiTlQ2NWtsV1Yyc3NPVUNZVlliTjhjTWtNaGFHVGgwTTZORHB1cnhuT0RUZmVuV3VYak1zc3pVYVpKaV9ZSnh1amx4Qm1LTUhvTVVMdHFScU1PcUJEOHZiN2ZsY2V6cTR1a3p1cXhyd9IB8wFBVV95cUxQbFdRQXUyN3ZlVG5VLTVEZV9MQkpRVUE2LTluUndnYlZhQ0s3NWczeEliZFJhWTVsLXhXUEowZXctbEk0bWJrN0JQdjdEWGpKeDM4TG1EcXE2UVJvdlJSZDZzQ1hTX0w4OFVORkRhRkNRbXRPMHI5ZnFLRXpkX2RFZmRsMS11OXlNbVRPSzNTNVAxZlZ3N1NYM3d6RE5rY3JVY3VnaWFmcWlLczFxaFN3U3NsMHMxRUFKNHJacmlLNkM5cGV6YVZoOEZScmVDN21YWDNwd1ZFNlJEOVYwNi1nakdBWEJrT01fb3hhclA1MXNXckk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFFEUjI3S1RsTE0yeW9zellDX1pPNllaY0lYS19lcm5yTkh3TXNFbUpXNXQzWWFmeWt4RHBDLUVmdXpvT1VNbVI3WlhrcFplVmk4dzB3alNHRW9MbHRwVjdvOXhZUE05emkzRUxKb09HbnoyeFFYRmxHd1J2NlhYaW1PeU5ialBlNDVjTVNPakNaM0gzM1Z5WEV1ZnNCTVRzSmlF?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -301,11 +382,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Satna MP slaps operator after crane halts mid-air: Ganesh Singh loses temper during garlanding ceremony; vi... - Bhaskar English",
-        "source": "Bhaskar English",
+        "headline": "BJP MP ‘slaps’ crane operator after glitch while trying to garland statue in Madhya Pradesh, Congress slams ‘power intoxication’ - indianexpress.com",
+        "source": "indianexpress.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRk82VWhIc3FSaE8wYnpWaGNuS2NPcXF0QUVkN0U5cXNjVkt3Ny1CNGhQOFByZE1EaExxOFZSSXQxRHhYMUNLY1c5SUhtbW9vQThnOVVxY1kwX1c5a014UHR6REo4TXFEX1BYOVhNUlA0a3NtTW9PWFVSMExRZ29YeHhncUl6WVB2VkFzWjY2V1NPbS0zcTEzalJCQ0lCNTJUVDNSdTBNcWlseHUxYmo1RWJtZjJxV2NaMlU0a3o5WUlYcHNXeDBDMGtuNlFOWm5CRnVNSU84cDJPSV9JcGQ1MFA3OWxKU2xBVU5KSVR1Tmhta0nSAfgBQVVfeXFMTjhkaVhZX1dEcGxtRkNDZnY5QmtvOVFmQndoVldJOVoxcFVyOTFKUmZlelE0dDZJZWdqSjRpY1VNU0hhWXQ4UnB2SG4tVFlyWDBCeW9SZWRjWXR3VWRfbG1CcUVsVlYyeVlkRHA4bEg2c0Z0MWV6MkNqVXY3Yzh6SVBjQzdOUjZkc204ek80RS1sWnJfOEE1MncyQ0lJYU1rWWtiaHFsVEpoT1lETE4waFlpSTZnbFVqM1FaY0R2UVY5MnJoTkRtMzBOb2c4MzNuRUFzRlBmQ285bmpsMkpNSzBseVhwNjd0TjluLTBJUnJ1NEgwaUZ6ZUc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMzVOVjNnWVd3MUxSdTRzTUdnekU2dUFkUk8zelltNUZIRzBrTUFKM1JDMnFoUlcwQlB5bnFTZndoOVhHLVF2VmNlSEN4c2ttMjhEMjJ6RE10YWVaNzNfWjZDdzFPMVFvWGdpMGdoSlBEbEdPV0w5V0gwTHRIT1JBSHR6RE9YSFBzSzdKd28ySkxMSFhnTld2U3kwZjdCMGtCTkNWNTd6Qm9vZ25zRU5ESTUzUTd0WU5RYjJWdUtYSHJscFFlZXY5STlB0gHQAUFVX3lxTE8xSnpmRnZ5ekRrRTdPbkxycWx3bnh5RWJTOFg2ZEdaNEJhdk1JT2djVlZVTlBNbnA1bXVHcmxMa2J3UUxWSzcwbkVkdDAxUG91aTR5ZWhBNUFfQzRqcmFVb2J4em9tb2pjSmpudklmZ29tb0s3eVQ0NGszeTFlSXA4TGktcXdSeXZJaE53dThlakM1VkdMWFNwdnhvajhoYXNzLWpvVmotMVEwdGhYUzdkZFJ1dS1WdjFVc2d1a0k2OHFIa0hnejBKZ3l5SlpFU2U?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -339,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 46,
+    "starred_questions": 13,
+    "unstarred_questions": 33,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 88.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -355,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -3,19 +3,17 @@
 **Constituency:** Bathinda, Punjab
 **Party:** Shiromani Akali Dal
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 57
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (24%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 53.6 / 100
+## Composite Transparency Score: 52.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 36.5 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 35.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 198.52 Crore
-- **Liabilities:** Rs 54.48 Crore
-- **Net Worth:** Rs 144.04 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 16
-- **Released:** Rs 16
-- **Sanctioned:** Rs 11
-- **Expended:** Rs 7
-- **Utilization Rate:** 45.7%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -74,31 +71,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 2 | **Neutral:** 8
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Harsimrat Kaur Badal raises Chandigarh issue in Parliament, alleges discrimination against Punjab - The Statesman (The Statesman) [neutral]
-- MP Harsimrat Kaur Badal seeks judicial probe into Rs 12,500 crore State Disaster Response Fund for Punjab - Babushahi.com (Babushahi.com) [neutral]
-- AKali Dal MP Harsimrat Kaur Badal files complaint with National Commission for Women against Punjab CM over alleged derogatory remarks - ANI News (ANI News) [negative]
-- Harsimrat Kaur Badal alleges open drug trade in Bathinda, demands Punjab CM Mann’s resignation - The Tribune (The Tribune) [neutral]
-- SAD MP Harsimrat Badal calls for judicial probe into ‘missing’ flood aid in Punjab - The Times of India (The Times of India) [neutral]
+- SAD MP Harsimrat Kaur Badal accuses Punjab CM Bhagwant Mann, wife of shielding rape accused, alleges mone - The Times of India (The Times of India) [neutral]
+- Chandigarh Diary | Harsimrat steps back as Sukhbir returns - The New Indian Express (The New Indian Express) [neutral]
+- Harsimrat Badal's Cryptic Remark Fuels Akali Dal-BJP Reconciliation Buzz - NDTV (NDTV) [neutral]
+- Social math to chemistry, why BJP, Akali Dal face hurdles on road to Punjab alliance - The Indian Express (The Indian Express) [neutral]
+- Harsimrat Kaur Badal criticises AAP over Bathinda drug deaths amid video controversy - thenewsmill.com (thenewsmill.com) [negative]
+
+---
+
+## News & Allegations
+
+- ! **SAD MP Harsimrat Kaur Badal accuses Punjab CM Bhagwant Mann, wife of shielding rape accused, alleges mone - The Times of India** (The Times of India)
+- ! **Chandigarh Diary | Harsimrat steps back as Sukhbir returns - The New Indian Express** (The New Indian Express)
+- ! **Harsimrat Badal's Cryptic Remark Fuels Akali Dal-BJP Reconciliation Buzz - NDTV** (NDTV)
+- ! **Social math to chemistry, why BJP, Akali Dal face hurdles on road to Punjab alliance - The Indian Express** (The Indian Express)
+- !! **Harsimrat Kaur Badal criticises AAP over Bathinda drug deaths amid video controversy - thenewsmill.com** (thenewsmill.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Harsimrat Kaur Badal shows moderate transparency with a score of 53.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Harsimrat Kaur Badal shows moderate transparency with a score of 52.8/100. No criminal cases declared. Low parliament attendance is notable. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 1,985,183,903. MPLADS utilization: 45.7%. Parliament attendance: 35.0%. Questions asked: 24. Debates participated: 8.
+No criminal cases declared. Parliament attendance: 35.0%. Questions asked: 24. Debates participated: 8. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 1,985,183,903. MPLADS utilizatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +227,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Harsimrat Kaur Badal's MPLADS account: Released: Rs 16, Expended: Rs 7, Utilization: 45.7%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +244,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

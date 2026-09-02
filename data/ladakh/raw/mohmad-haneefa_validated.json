@@ -42,12 +42,20 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:57.625339Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
+      "movable_assets": 1031000.0,
+      "immovable_assets": 31730570.0,
       "total_assets": 32761570.0,
       "liabilities": 150000.0,
       "net_worth": 32611570.0,
@@ -58,44 +66,58 @@
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7512",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.643876Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T14:21:53.480573Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 27.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 16.11,
-      "released": 16.11,
-      "sanctioned": 0.93,
-      "expended": 0.39,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:37:17.732453Z",
-          "notes": "Official eSAKSHI REST API — Works: 14 recommended, 11 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:25:31.162629Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:51.924059Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:55.029555Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 14,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 2.420856610800745
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -110,7 +132,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:18.601516Z",
+          "fetched_at": "2026-09-02T14:21:53.101351Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +140,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "MP Ladakh Mohmad Haneefa Jan meets Home Minister Shri Amit Shah raises key issues of Ladakh - Voice of Ladakh",
+        "source": "Voice of Ladakh",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjkzOTFEakVLWmNQb3VmN0VHYWhJSi1VWDlUbjRlalNvVXVmOU5iZkY0ZC0zQ2JEdFpUWU1aX0lPeVVSUnZSTzZ5bWtzb1UzdVgyUmhYb0VVZmVsbEhXeHJRc0YwVE5zaXdrWWg1VXVhN1FFalhUbE5ScmYwZEJFOTlVVGxtMVVaSjg1Nnk0Y0RpOWoxUlRQNE5IRGh3cGNySU9RVWpNQkF3X1daV1pTdGl1eFo2am9GN21YWXBsc0d1cGs?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Ladakh Undertakes Self-Enumeration for Census 2027 in Kargil. - Administration of Union Territory of Ladakh",
+        "source": "Administration of Union Territory of Ladakh",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmp4OWVXUUtGU2xPWFRjQ1ZDY29YVWlZVzIyVk1ieUJGN1dWRndDQU55X25SQi1rVEt5OUFwWXc3bWpTdG1BRXpyWnVJLUIxR080QkVNUUxsekpqcUhMUC1YZUV4NzZvTnlHbm1MNzAyb21FWjhLSWU3QkozeTduZHl1bFk3cGRDRWRSVzVZbw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hon’ble MP Mohmad Haneefa Jan Chairs DISHA Meeting to Review Centrally Sponsored Schemes in Leh. - Administration of Union Territory of Ladakh",
+        "source": "Administration of Union Territory of Ladakh",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkV2aEdzN3JJRHVmN2J1Q0N6cjdFNk1wNzBaOWNDN0UzZU9aV3BYU1BTT3FGTURabUcxX3QzNXRqbXhVdzhaY3gzekJUaFBtSEw0WUlubUxBLTJaSUNLNHpRdlVOMVVoamFzSEpLRTJvak4yallMZGdsS3pidzNiSkFSclNMWVJXeDkwc2ZnakNBazBvLVNCSzlYVVBKak9FZ1ZaXzBuSkUydHI3TXVINURuel9ZSXha?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Liquor, Land Policies Against Interest of People of Ladakh: MP Mohd Haneefa - Daily Excelsior",
+        "source": "Daily Excelsior",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnNUc3BOeGMwNG05LUszbHp5c2hsY1NXOGgyWFNDOGUtb1E3UlVldHBMUmhtNWd4ZkRaYTI1X3hReVFtMVplN0oyN01TdVF4b3JNTUcyQ2Q3Mlo4dF9HaTRuOXBfWC1qZnp2eE1nTUVlRzNnV3piMVI5dGQwbHFHWE5YaTlGaEZERU14VHA1a2MxX0lPSlliQnlNUE5wRDlEbGU4a3FTblfSAawBQVVfeXFMTXRGVG5ZLVFNZFQtcjlkOXFjb0lSaUxhVFFhVW55UWRQRTh0N29IdHFXYk54eExwcllqNWl5aVpGOFZld3EybENNQlNrWmp1QjFxbWFoM1RHMVZfcmRDYWRYemlGc1JCOGxmVWEzb1ZvSHAzU2IxdnFXYXJELWN1dzFnSUpzaDczRlpFOGVCN01PeUNJb1lXMzM5SHVfM3ZEd3V5a0Fqb3lSZjRZVg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Weakening the Last Remnants of Democracy’: Ladakh MP, Councillors Slam Delay in No-Confidence Vote Against CEC - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUnlDeUVyQlpyR19CeWxyU3hhenBlMnJlSFdMZzU5SG5lS1NEUzRYd2gxeXg3dVJiaG9LMG4xVFlaVEZWOVQ5Mkk5TkFudkNoc1o2YVAxX09LdnBVT1k5QWo4dVd3bndibmw2STVYLXNaTWkyb1VWTWg4NkhCMzg5UjdNTFdUaTVTempzdjltYkJmMmo5c1VsMVZCamNJTmZla0FjNGNqbWNud3RfVHZkaktHdHpVdkd0MHZZa3I5eTBJaVFCbnFTZlE4bklRSU03d1k4U2pSeHJwUFNYOEJ0OHlHdWp4Z9IB5gFBVV95cUxOUnlDeUVyQlpyR19CeWxyU3hhenBlMnJlSFdMZzU5SG5lS1NEUzRYd2gxeXg3dVJiaG9LMG4xVFlaVEZWOVQ5Mkk5TkFudkNoc1o2YVAxX09LdnBVT1k5QWo4dVd3bndibmw2STVYLXNaTWkyb1VWTWg4NkhCMzg5UjdNTFdUaTVTempzdjltYkJmMmo5c1VsMVZCamNJTmZla0FjNGNqbWNud3RfVHZkaktHdHpVdkd0MHZZa3I5eTBJaVFCbnFTZlE4bklRSU03d1k4U2pSeHJwUFNYOEJ0OHlHdWp4Zw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:57.540672Z",
+    "collected_at": "2026-09-02T14:25:33.147758Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +212,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.707203Z",
+          "fetched_at": "2026-09-02T18:38:07.184005Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +228,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.707213Z",
+          "fetched_at": "2026-09-02T18:38:07.184017Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.707219Z",
+          "fetched_at": "2026-09-02T18:38:07.184022Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +260,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.707224Z",
+          "fetched_at": "2026-09-02T18:38:07.184027Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +276,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.707229Z",
+          "fetched_at": "2026-09-02T18:38:07.184034Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +292,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.707234Z",
+          "fetched_at": "2026-09-02T18:38:07.184039Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.707238Z",
+          "fetched_at": "2026-09-02T18:38:07.184043Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,56 +333,97 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "share",
+          "url": "https://twitter.com/share",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "sharer",
+          "url": "https://www.facebook.com/sharer",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "adrspeaks",
+          "url": "https://www.instagram.com/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "youtube",
+          "handle": "adrspeaks",
+          "url": "https://www.youtube.com/user/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 4,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:21:56.317249Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 1,
-      "negative": 1,
-      "neutral": 8,
+      "negative": 0,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "MP Ladakh Mohmad Haneefa Jan Tours Poyen Constituency; Assures to Address Public Demands on Priority. - Administration of Union Territory of Ladakh",
+          "headline": "MP Ladakh Mohmad Haneefa Jan meets Home Minister Shri Amit Shah raises key issues of Ladakh - Voice of Ladakh",
+          "source": "Voice of Ladakh",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjkzOTFEakVLWmNQb3VmN0VHYWhJSi1VWDlUbjRlalNvVXVmOU5iZkY0ZC0zQ2JEdFpUWU1aX0lPeVVSUnZSTzZ5bWtzb1UzdVgyUmhYb0VVZmVsbEhXeHJRc0YwVE5zaXdrWWg1VXVhN1FFalhUbE5ScmYwZEJFOTlVVGxtMVVaSjg1Nnk0Y0RpOWoxUlRQNE5IRGh3cGNySU9RVWpNQkF3X1daV1pTdGl1eFo2am9GN21YWXBsc0d1cGs?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "MP Ladakh Undertakes Self-Enumeration for Census 2027 in Kargil. - Administration of Union Territory of Ladakh",
           "source": "Administration of Union Territory of Ladakh",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR18tVnpxRmItLVpTV0ppVWlOT0dqa180VFFPT2lfaG5pUUtQdmpiLVpaaEQ3UTdLZkRWSVhPVEprbXpNSHFrRl9BU1pJeVJuOEJfNFk4YWlEeXV6STZsbnZVd2ctZDVCQVNkQUNoamU0WXNnZHd2cVVuZHdYc0R6b0NEV0dpSHVMOHBSVjRHamhESmxyYndmaUtmY291TUI0TGRRdWY0eGxxaEItTGRFbExQT1pFbE56T01EUm9VZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmp4OWVXUUtGU2xPWFRjQ1ZDY29YVWlZVzIyVk1ieUJGN1dWRndDQU55X25SQi1rVEt5OUFwWXc3bWpTdG1BRXpyWnVJLUIxR080QkVNUUxsekpqcUhMUC1YZUV4NzZvTnlHbm1MNzAyb21FWjhLSWU3QkozeTduZHl1bFk3cGRDRWRSVzVZbw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Barring an MP, Leh in Ladakh has no elected representatives since October 31 - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUVk2LUM1UkNtSW1ORmlKVU44RVduOU4yaGF5VmRJWmZjejQ5TzBSMDh4dFFQOHhWaExMNWRaVFZxeEhyaWhTOWRlcXpxQjZ0V0NEZ2ZEeUVDbS1Cc3U2OWhhV2NQaWJQQkE0aUMyUGJKcjF4dXNoVFNvblRvR25NZ1JOZ1RrdF9rWWZna0lsQVRrTUZuWXlzdG5jMmdObzVXTF84U0JGZ2F2aTdkeEk4blVldG9TbzJGMHhyVmhyTktoS3NYMFd1X01LV0JuZFXSAdYBQVVfeXFMUF9IMF9MRjhMYllONndlUjI5dEFISjhkcHI2MzZycjZpUHZ5QnpuSnIxQU1ZZkJtLUFBdkR0Wmkwd21feEp1SVJZNzVnUWlWT0lFUWtsV2ExWlFETGd1SzZZdHFZemxoMjE3Q2tiQ2hRWlQyU2NvR2NGLTRETGM0WENzZkc2WjlkbFBES0xiR0RDMTB3WDAyOXBWblB5RnNNM0xnWXptWC1GWlN2WFVnQ1llQVE3R0NEbWZvamNISkZmRHFURUVPb0ZzT2paaE9rX2ZSZjlvZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "MP Haneefa Jan Visits Shargole Constituency, Reviews Public Grievances and Development Works. - Administration of Union Territory of Ladakh",
+          "headline": "Hon’ble MP Mohmad Haneefa Jan Chairs DISHA Meeting to Review Centrally Sponsored Schemes in Leh. - Administration of Union Territory of Ladakh",
           "source": "Administration of Union Territory of Ladakh",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzExTDdOWEJ5cWxCYVhZQ01DallaRTJpRVlxeXg2STV3YThkcURremxacEhYajBURHNSbnlmbzZfZnNhRTVjN0JJRWhabDJEeWpqSGxIajM0TWtsVW9jaFE2VUtCSHNzOEljWWNtV1ZsbEFKOTh0LXBJdTRmRUlpRmlOYVBOQmt6SmhLY2w1WDg3OHBrUTBJaEwzMmpHdVVmNWdYSTdoaFkwcU04NmxjbHlqa1o?oc=5",
-          "sentiment": "positive"
-        },
-        {
-          "headline": "Ladakh MP Mohmad Haneefa Flags Lack Of Assembly, Says Women May Miss Out On Reservation Benefits - ETV Bharat",
-          "source": "ETV Bharat",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN3htWGtkenhFekU4bnptbFQ4LTlZNjdGeTZmRzZWZ2VJdS1XNU1WSmduWU94RHNwOFJWMFpSbFhGdjFoSTBGWlA4em9WX1BlRnZydmVRUURQOXBsS0dRakpVcXladXBPM3hFQks5VThpSDJDbDVNWWRKMmo1X0Q0bURHc1kwNFB3OTZCdkFrT0FMRjdDTjdfNk5zVWpjUEpCSDRJeDBKS1BJa2s1SFJ0Z1doaVMxT3JRN29KSExRaXpuSlFBc1VkY0NFckl5aWFDSzllX01LaWFPVEVqMFpj0gHkAUFVX3lxTE9DOHJScTlwaWxIZXQ0dGF5MVZiRXJPdVk4TmVPaWswOUdzczI4WVQ3OTNWTldVUmZsNFo4blhYb2JmMmlqaFZGZUV6cmRJS3BCM0hEazJxZ3NfdHpkZzV6WDR5TTBhTUJvMkF0YTlOREZ5Q204ajFFZFBnUXFwTEV0d2FKaWpZRDBOT0tKOVpkc1RDeWJaSk5OYTBHLWx1ZnJoTC1Xcy1HVGpiZjVGWXg1ZnhGS0M4UXBxVG0zd3ZrRTlGVnNfczdGdTdpOTFQS2JleUhSX0diVzZETDRidVNaTG1jZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkV2aEdzN3JJRHVmN2J1Q0N6cjdFNk1wNzBaOWNDN0UzZU9aV3BYU1BTT3FGTURabUcxX3QzNXRqbXhVdzhaY3gzekJUaFBtSEw0WUlubUxBLTJaSUNLNHpRdlVOMVVoamFzSEpLRTJvak4yallMZGdsS3pidzNiSkFSclNMWVJXeDkwc2ZnakNBazBvLVNCSzlYVVBKak9FZ1ZaXzBuSkUydHI3TXVINURuel9ZSXha?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "\"Great day for entire Ladakh\": MP Mohammad Haneefa Jan as MHA revokes Wangchuk's detention - ANI News",
-          "source": "ANI News",
+          "headline": "Liquor, Land Policies Against Interest of People of Ladakh: MP Mohd Haneefa - Daily Excelsior",
+          "source": "Daily Excelsior",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNzVKR2dxZXlYY0tuZTF4MlpJTnFVVHZ0SkxvOVFYR0hqaUxvd2h2d0NlUlN5N2ktUWpMbkRSREFMaldiSExQLVA3MnpLZjIyR1RKejVHR3lUbDFwT3lrU3FkMFRnQU1RckhPQXl3TU91NHVwRmRQTFJjUXllTFBJZ0RCUUhMZ29KR2JCR3dGaWhoRmVPeExYeURwWHN3ZUl1b08zUjZaM3hoMUc1Y3ExeTk4Sk5pQ1pscjNrSDBzYUxtOTc4S09xN0s4OVdqcTRNQjBGVkJtNWVOelpNUC1ZVE1LLXo?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnNUc3BOeGMwNG05LUszbHp5c2hsY1NXOGgyWFNDOGUtb1E3UlVldHBMUmhtNWd4ZkRaYTI1X3hReVFtMVplN0oyN01TdVF4b3JNTUcyQ2Q3Mlo4dF9HaTRuOXBfWC1qZnp2eE1nTUVlRzNnV3piMVI5dGQwbHFHWE5YaTlGaEZERU14VHA1a2MxX0lPSlliQnlNUE5wRDlEbGU4a3FTblfSAawBQVVfeXFMTXRGVG5ZLVFNZFQtcjlkOXFjb0lSaUxhVFFhVW55UWRQRTh0N29IdHFXYk54eExwcllqNWl5aVpGOFZld3EybENNQlNrWmp1QjFxbWFoM1RHMVZfcmRDYWRYemlGc1JCOGxmVWEzb1ZvSHAzU2IxdnFXYXJELWN1dzFnSUpzaDczRlpFOGVCN01PeUNJb1lXMzM5SHVfM3ZEd3V5a0Fqb3lSZjRZVg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "‘Weakening the Last Remnants of Democracy’: Ladakh MP, Councillors Slam Delay in No-Confidence Vote Against CEC - TheWire.in",
+          "source": "TheWire.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUnlDeUVyQlpyR19CeWxyU3hhenBlMnJlSFdMZzU5SG5lS1NEUzRYd2gxeXg3dVJiaG9LMG4xVFlaVEZWOVQ5Mkk5TkFudkNoc1o2YVAxX09LdnBVT1k5QWo4dVd3bndibmw2STVYLXNaTWkyb1VWTWg4NkhCMzg5UjdNTFdUaTVTempzdjltYkJmMmo5c1VsMVZCamNJTmZla0FjNGNqbWNud3RfVHZkaktHdHpVdkd0MHZZa3I5eTBJaVFCbnFTZlE4bklRSU03d1k4U2pSeHJwUFNYOEJ0OHlHdWp4Z9IB5gFBVV95cUxOUnlDeUVyQlpyR19CeWxyU3hhenBlMnJlSFdMZzU5SG5lS1NEUzRYd2gxeXg3dVJiaG9LMG4xVFlaVEZWOVQ5Mkk5TkFudkNoc1o2YVAxX09LdnBVT1k5QWo4dVd3bndibmw2STVYLXNaTWkyb1VWTWg4NkhCMzg5UjdNTFdUaTVTempzdjltYkJmMmo5c1VsMVZCamNJTmZla0FjNGNqbWNud3RfVHZkaktHdHpVdkd0MHZZa3I5eTBJaVFCbnFTZlE4bklRSU03d1k4U2pSeHJwUFNYOEJ0OHlHdWp4Zw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +457,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 11,
+      "starred_questions": 3,
+      "unstarred_questions": 8,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 21.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +473,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 80.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +504,11 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.43,
   "flags": [
     {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -426,6 +531,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 32,761,570. MPLADS utilization: 2.4%. Parliament attendance: 80.0%. Questions asked: 11. Debates participated: 2. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:49.707973Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 32,761,570. Parliament attendance: 80.0%. Questions asked: 11. Debates participated: 2. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.184807Z"
 }

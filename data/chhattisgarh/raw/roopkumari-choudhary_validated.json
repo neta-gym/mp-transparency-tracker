@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 53908562.0,
-      "liabilities": 2116025.0,
-      "net_worth": 51792537.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 42.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.3,
-      "released": 15.3,
-      "sanctioned": 9.39,
-      "expended": 6.69,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:21.244737Z",
-          "notes": "Official eSAKSHI REST API — Works: 154 recommended, 145 sanctioned, 64 completed"
+          "fetched_at": "2026-09-02T14:32:10.986791Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:26:48.950926Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:26:52.592992Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 154,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 43.72549019607843
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:47.729213Z",
+          "fetched_at": "2026-09-02T14:26:51.325650Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Mahasamund election results 2024 live updates: BJP's Roop Kumari Choudhary wins against Congress' Tamradh - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNekx5VmdXVU1FSFMxcmEySmRvWkxWUlJ5Ti1WZjlYb0FUMUU5NmZ0S1JuSW1ibWdELUd3bVFGd0taRS1LY1pGVTc3anBRQ3k4RWY4TjF5MzljT0c4Ml9pMDZ1QjNmeHk1Y0FGa0tYZHdsNlItZFF0OHlON2hmOW1fQTNLSWZJVTc2cWlqTnVtS2VsT3p4YVUxTnNCVUIwMmtwekh5Y1pHRE1oYnNITjRtbVM1T0lqdi1ncURlRTJQWklJTTdUTnpKM1dpTTN4OEl6UnZQUVhwbk15RmYwZ2liSUc3cXN0TnBzbGFkMnFkNmlGZ05FbmFMWDdOQXdvM2J1VUJuZDdsNXA3ME16dHVrUTNnM2tldmhYb0RzSjZaNEU5TTVWb3JadGZMSm5UT2xETHl4WTdR0gG7AkFVX3lxTE43cXZUZkhBSVVYT2Z0YzNkU0Z3SkxyOVdsYnZUMVFsUXJBMW9NdTh1SFFuNXdfcUhsdHFhc011a21YRHh6WHZSeHN2ZlE1bkFYeUVKYm1zanhsVmZvX1Q0cTRaNzlXREF1UVQxdVo3ZERqZnpLWmItMzhnejdJOEpEM3hhYXhCNUp0WEJZSVJQVndtNVk0bUVWZmh6SVBTeXZpb1JIdk5DQlEwMVdWNjNGSFI2eGtIdTNMcmc5UGJndkdfanFTa01xYzU5bHFCQlBxTEI2YnBRQUp6d200WUtFUlhCU2JwT1NfTVh2SFdYYUFBd3lObFBwVDZsZFAzRTNXbG9nLU1XRlVXQ0dzckZZNmgxdlo0VXkxR2NuTlhuSWFpc09iMFRiNmZiRklrY3c1ZzA5THFub0pBQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - C - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUW5Ha2NndUc5ZktDb2tkUzhYM0w4Y1JSaS1LTGFWaEtUTUpfRzZTUF9aRVFOWWJpUkRmdnRmLTYxNzlzaFJoVGg2cnM1TVlHVnRvVXlIUlc2TmR6QVhYMjdkbXFteVJ5ZklYRHM5SG5haGhLaVpYSjZCYk5HVXFQcmJhUS16bG8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP's First List For LS Polls Sees Major Shake-Up: 33 Sitting MPs Replaced, Here's A List Of Who Replaced Whom - Swarajya",
+        "source": "Swarajya",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmNiSlVlWGhxdmpqRnE5NVRxQVg5bWVTRm14UUlZRG01Qzd3ZWtRaU9aMzBuU3pSZTV5UG9WdjNfQzYzaWo4a2FfUUxsekEzLW5PMy1RazF4X0RENUo1UE54eVY3bEZYeVJiQlUxU09uX1ZXMlJ0T0JydHpZQzVKNEc0T2gxaGZreUt3UkZpQnNSd2poMlVVb3hRTE1sRHRpYWVfZGZWMXpKSG9xWUpZVXZvZ291dU9aNkEzb0h0ZzFlTWlEX01qUnFTbUdVYUxld3Z5MFI2eGTSAegBQVVfeXFMUDU5Q0pHbmFLWDJNdGozRmdMV3lQZE01UnBoVk1Ga3g5ekFwdHdJVk9uZ0lWTlFBaXBSZm5ieE5Ycms3STBRVEpGaUFFS3BHYXF6ZUZCdjdXU0R6UG93aEJSSGE2Zzl1anZ1NF9YQWw0NnpBdGcxbEpQWk81NDQyWlFWUXVTZGVkUVZIQXRMdlZqMG9qRmUxb3dzUFJrTHdOTFZ0MzQwOEV1Y0NkWGZsNHVLUks1dWRtSDduTWVPX2paMlRkN2dXWk9WWFItbTg5NGl6UzBObFVDM1lKSjFubW1VM084S25sLQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP Announces New Team Under Nitin Nabin, Modi Congratulates - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRE5YX1JPRGNkN2JxbmRlWWJEQ1ItTWpXTkdtYnQ1b2w4OEg0dXRqc0RfSy1qWmRidXJIbFoyeUZ5NkdkUENUZWZyM3VxWGR0M2IzSEI3RGcyOFVHNC1sQjM2MXA0bHZFOXFIMVVoa3I0RmxGNkprNFRNS3UtSU5uRmZFZ2p4VmNnWld2WTRFMDJ3b1ZIdDVHVk8yYXbSAaIBQVVfeXFMT1gzcFlTWkZYUVc2bXdxUTRRVkpldmtiSHB0T1dWNmQyZnc2eEdUbk5XNWxaMVRfQUtKZUNnRGVYS2hJTWd1RlptTTg4MzdyWEtEaFN3LU9ZaEJWdjByNlIxQThfYi00WU01a3AtV1huajhnalNJYzNERThEaEZ5TUYxN1hGTTJBWnNVRGVrY2xKUUQ0V3M5a3JvaHY2TzRibFJn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP Springs Surprise, Drops 33 Sitting MPs in First List of Candidates for LS Polls - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeklYUjJqak41RVYydDdPRkVQTF9YZzVDNUtJX3ZGMm51dDYtalVLNTlQRktmMGJxclgtQ3ZfejRvMU9RSWw5dlhYVEFLbnJyQUZGMWd2RXhhNGkwX0pTckp0c1FBbEZ1NXhjRWJzN29TeFJTQzlWcnNjbWZLZkFUaUh6YmpHQVRZM3drMjdJY0pmWmloemdacm5DQzJWVEJCZVRpOFZGSU1UV3dyYTdFV1ZFYjh4SXViU2NmS1ZpblhicjRXOTM2b0ZjeGVic0nSAdQBQVVfeXFMUG5EcXRXZi1RckQ3a2ZxQS1KR2Q3Umxzcy13QTNfekM3cEhBRjN0akk3VTg2Ykw4SmdfQTdXOU4takYwYl9UMC1hVkRVS2VPZGRTREQzNE5WT0Riby1qYW00d2tJTWdwSnBaWVV0aWlZakZZX2NYT1R5dWpQRWoxNFFhWTY0VWxITmc1THNtOERSek14X084b2dLSjliUUdIWk84dTJ2ajFCTmN3TUU5STZGTFNpVjV3MXNDdFJ2eUppZDMwMERic2lLM051VG9IcHM5T1Q?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:50.787561Z",
+    "collected_at": "2026-09-02T14:32:12.986279Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.702770Z",
+          "fetched_at": "2026-09-02T18:38:05.300634Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.702781Z",
+          "fetched_at": "2026-09-02T18:38:05.300648Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.702786Z",
+          "fetched_at": "2026-09-02T18:38:05.300653Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.702790Z",
+          "fetched_at": "2026-09-02T18:38:05.300659Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.702797Z",
+          "fetched_at": "2026-09-02T18:38:05.300666Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.702801Z",
+          "fetched_at": "2026-09-02T18:38:05.300671Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.702805Z",
+          "fetched_at": "2026-09-02T18:38:05.300676Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -265,10 +321,10 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 9,
+      "total_articles": 10,
       "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 10,
       "top_headlines": [
         {
           "headline": "Mahasamund election results 2024 live updates: BJP's Roop Kumari Choudhary wins against Congress' Tamradh - The Times of India",
@@ -279,15 +335,7 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Roop Kumari Choudhary - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmpJb2cyWWJjMXhKZlo1VVZIT1pydVVGdGFMcWNPYl9NeDhObmpOZ1VxM3doRzZGNUhTSV9mMVJRWHpFb2F0LU9acDN1RVpUb0VQUnAzcTJ4dW1lQlFNbDlQRzFKenpweDROcVotaWVXelJvV2NEYUhSbHhiOXpJbVZnUkZPTkNzLTBaRDJ0VkRXRUFLYnRQUjNSdWtLZExQREs3emR2cmtkY1lYNW1hQlVOTDVlYWtjbk1HbFU2Z043Nmo4TUtKbVFn?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Parliament of India : Lok Sabha Member of Parliament – C - Sarkaritel.com",
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament - C - Sarkaritel.com",
           "source": "Sarkaritel.com",
           "severity": "low",
           "verified": false,
@@ -295,23 +343,31 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "LS Polls 2024: BJP drops 33 sitting MPs in first list; four dropped in Delhi for disconnect, inaccessibility - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "BJP's First List For LS Polls Sees Major Shake-Up: 33 Sitting MPs Replaced, Here's A List Of Who Replaced Whom - Swarajya",
+          "source": "Swarajya",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUmR4ajNmMzZkX3IwT2VoT01VVm9CRmlPNEQ3NFV3VmQwR2NDaTFKQ2NLdXE2MlVtMkw3SEdnR2pyUnVZUHZpTkpPWS1CRjg1U1Z3ellaQVhnS2pNb2lZcGtfX0hPaEprRVNsMGVfYlhBajNmTXAzY0RsSS1xWkI1MHIxSlBlZXVUTUhUNXlNbHdLcldpSGowN2tTbE9qNHh2QUNyRmVUeE9GdE9NSkpNTWZGQmE4cjVVVEpvY0QxblV0dUh1QXJNakk3RlpvTDc5ZDZxdjJGNXVpZEtXVEtSd0pmeVpIckw5MFZGT2JlRUJ6Y25SNlZiRtIBhgJBVV95cUxPdndEMUwwY042VV9sUklWY1I0b2pfZVI5VjhFdUk2aFg1aEs0QjljYXhpbFNXeUUwdkEzTzMtTzBKN2h6SmhUTU96cmhVSFMwcXAwazhMSnF2NFNGRG5QdzFDbDBVbll1MDhJSVJoTEJPMDRXeGpQdXk2VEhJdDV6d2RrTFQ2ZmZVSFZmblo5TFJwRElTZzZGdV9hTHY3VE9qejlKQmNxRkFzaDNLT3hncFhEWUM4WUoycE4tUWJ4b01PUGlFdnRCdHlWMmM3RHhpTU5aM05oenNzY2psZmVidmtxWFBsa0FmM1gxRHUyYVY3NTRSb3FlZDZQRW01UDVmcDVDOXhR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmNiSlVlWGhxdmpqRnE5NVRxQVg5bWVTRm14UUlZRG01Qzd3ZWtRaU9aMzBuU3pSZTV5UG9WdjNfQzYzaWo4a2FfUUxsekEzLW5PMy1RazF4X0RENUo1UE54eVY3bEZYeVJiQlUxU09uX1ZXMlJ0T0JydHpZQzVKNEc0T2gxaGZreUt3UkZpQnNSd2poMlVVb3hRTE1sRHRpYWVfZGZWMXpKSG9xWUpZVXZvZ291dU9aNkEzb0h0ZzFlTWlEX01qUnFTbUdVYUxld3Z5MFI2eGTSAegBQVVfeXFMUDU5Q0pHbmFLWDJNdGozRmdMV3lQZE01UnBoVk1Ga3g5ekFwdHdJVk9uZ0lWTlFBaXBSZm5ieE5Ycms3STBRVEpGaUFFS3BHYXF6ZUZCdjdXU0R6UG93aEJSSGE2Zzl1anZ1NF9YQWw0NnpBdGcxbEpQWk81NDQyWlFWUXVTZGVkUVZIQXRMdlZqMG9qRmUxb3dzUFJrTHdOTFZ0MzQwOEV1Y0NkWGZsNHVLUks1dWRtSDduTWVPX2paMlRkN2dXWk9WWFItbTg5NGl6UzBObFVDM1lKSjFubW1VM084S25sLQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Nepal General Election - News18",
-          "source": "News18",
+          "headline": "BJP Announces New Team Under Nitin Nabin, Modi Congratulates - Deccan Chronicle",
+          "source": "Deccan Chronicle",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFA0WDFvdG5HVktMcHFzZk1DZkJzTHdzcWxwTUFFbjEya0ZuNkZmb0pET3paa1VtNWtzanA3UDhkQUtVYmJlVkE4Z3J3ZGJBRjREZ0djUm04VkZONFNPcWdYZksyaGZTWG91eDFkekcxcnJhSHpOS0hjUVlGeUNwdnNqR21EZExhRGJhc0lvVEhqX3hZR19QbnYxSQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRE5YX1JPRGNkN2JxbmRlWWJEQ1ItTWpXTkdtYnQ1b2w4OEg0dXRqc0RfSy1qWmRidXJIbFoyeUZ5NkdkUENUZWZyM3VxWGR0M2IzSEI3RGcyOFVHNC1sQjM2MXA0bHZFOXFIMVVoa3I0RmxGNkprNFRNS3UtSU5uRmZFZ2p4VmNnWld2WTRFMDJ3b1ZIdDVHVk8yYXbSAaIBQVVfeXFMT1gzcFlTWkZYUVc2bXdxUTRRVkpldmtiSHB0T1dWNmQyZnc2eEdUbk5XNWxaMVRfQUtKZUNnRGVYS2hJTWd1RlptTTg4MzdyWEtEaFN3LU9ZaEJWdjByNlIxQThfYi00WU01a3AtV1huajhnalNJYzNERThEaEZ5TUYxN1hGTTJBWnNVRGVrY2xKUUQ0V3M5a3JvaHY2TzRibFJn?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP Springs Surprise, Drops 33 Sitting MPs in First List of Candidates for LS Polls - ETV Bharat",
+          "source": "ETV Bharat",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeklYUjJqak41RVYydDdPRkVQTF9YZzVDNUtJX3ZGMm51dDYtalVLNTlQRktmMGJxclgtQ3ZfejRvMU9RSWw5dlhYVEFLbnJyQUZGMWd2RXhhNGkwX0pTckp0c1FBbEZ1NXhjRWJzN29TeFJTQzlWcnNjbWZLZkFUaUh6YmpHQVRZM3drMjdJY0pmWmloemdacm5DQzJWVEJCZVRpOFZGSU1UV3dyYTdFV1ZFYjh4SXViU2NmS1ZpblhicjRXOTM2b0ZjeGVic0nSAdQBQVVfeXFMUG5EcXRXZi1RckQ3a2ZxQS1KR2Q3Umxzcy13QTNfekM3cEhBRjN0akk3VTg2Ykw4SmdfQTdXOU4takYwYl9UMC1hVkRVS2VPZGRTREQzNE5WT0Riby1qYW00d2tJTWdwSnBaWVV0aWlZakZZX2NYT1R5dWpQRWoxNFFhWTY0VWxITmc1THNtOERSek14X084b2dLSjliUUdIWk84dTJ2ajFCTmN3TUU5STZGTFNpVjV3MXNDdFJ2eUppZDMwMERic2lLM051VG9IcHM5T1Q?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -341,15 +397,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 19,
+      "starred_questions": 5,
+      "unstarred_questions": 14,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 36.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +413,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +444,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +477,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Chhattisgarh: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 53,908,562. MPLADS utilization: 43.7%. Parliament attendance: 100.0%. Questions asked: 19. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:47.703574Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 19. Debates participated: 1. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.301434Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Arambag",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 7213,
+    "myneta_candidate_id": null,
     "slug": "bag-mitali",
     "house": "lok_sabha",
     "sansad_member_id": 5777,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 47,
+    "age": null,
     "photo_url": "/mp-photos/5777.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:29.110354Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 784955.0,
-    "liabilities": 431294.0,
-    "net_worth": 353661.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7213",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.659163Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 0.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.87,
-    "expended": 4.68,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:42.338172Z",
-        "notes": "Official eSAKSHI REST API — Works: 170 recommended, 103 sanctioned, 63 completed"
+        "fetched_at": "2026-09-02T14:43:29.518355Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:38:38.998602Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:38:42.245839Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 170,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 31.83673469387755
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:23.141668Z",
+        "fetched_at": "2026-09-02T14:38:40.183361Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "TMC MP Mitali Bag’s car vandalised, windshield smashed; party blames BJP, alleges 'attempt on her life' - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeEpmNjlKOWJJbGFRaGZjYTdHWS0tdjBBMTg5a2thbWhWVUdub0h5MENsMmtTN1p4MlJaczFsV2M0RG9vNktGSEZuRHBESV9xaFVLc1l5cmxoVTUzajNBS19ZbVpkMWZHRDl2VXpWZ2lCZFgtb0J5ckdhR20zVzdHdGRndHc2QU5adkZ0VEhkS3h1MnNjZ1E0VnctVV9reUk0b2pIUUFZakhLT3FhSW0zZmpnUEN3NFI2QmFnQk15R3IzN3p2S0Uyd0NtSkQ5NGtBcTRXV2h1RG9KdG95OUZxcUEtdFZfVUhsUEVIU2NfdVU4RWF3bkF3ctIB_gFBVV95cUxQWGlKRkY1VlVmTl9KdU9uWjlNMTBud19DbktEUjdBSWZuRmpLMUk3WHlfUGhlSlNZZGhsb1I5V192dC1Sa1cyT2J5SG82T0pobkFCeF9TUGtzZXdobFFUbkx5d1pDVWFONWdQdV9LOFJfMW5mUE9ZNlNKSHBGaHZmYlRRZ21ZYXR2bDRZVGdDd3RzdzNoYWJRT0tJS1ZQUi1xVmZDeTBmZ0tGSVczNEprY08wSXBPNFB2eFJxUXVpMlkxUm1rekZWVk1OdllLNTZnSEwtTjBsdlBmU25ZUGZQd0MtQThDVHhYLWMwQTRKeUJjTy1OSk96TXdaZ1Y5UQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Trinamool MP Alleges Attack On Car By BJP Workers, Poll Body Seeks Report - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQa1dXSmYzYjU0Z3dfa0FmV3VWemlmZVB5OS1oY3hTWVdhSTc1VHVGVE1HMXNoTUh4UmRWNWI3U2ZzOC14WGpiTlljR2ZRUFFoQ0Zxb2RFWm9JMjd5UkVBX2pSVEo3QlNxQW5vM2JwQXdTNXM0QkVXd2d1RkRPTzdSVVFnMzRLWTJHTUExVVFiTnIwZllLbWt5cEk5bFpOYjE4MEZNOXRRaDJqdGh0ZmZkS21uMmxkcjFXNnZRMWZrSXlrN21zdkFlNzg2cXRfUXhBaXlqV29xbzJJTk1Cc1FEaWFxNXdTQ3NpYVlpNFlYcm84MFBtZjFqbTFIT0FseWs2bVB5LTRRdWlhT3gzejVLS0xsbzNibHJrY2g00gGjAkFVX3lxTE13ZlRqV3dGb2drZGJVcElWT2VJWTdySlZCcE5hY2w1TGh5U0czX1puZVJueE56dGlTcHpENGk4b0g4RmdtRHNya2kyVFZqbndjeTVGMk5tZ21HQnRmaW1XLWF0NThTbERBeW9JOFI1LTFYRFJnRVVmeUFqbTBUTGlpNjFIUkRhVzdVSUEySDU5bkdnYVlJeDZSdmoyUzlkdFdPMlNrREUtelFhTEJfalVJcVJiQWE4U0h6N3dXelVsTEdSX0t1R29XY0d0OXVxMC11Z2EyLUpqOEdJZTI4MGxJYWljTGpTLThYX2JIN1hiWnN6b2t3ZWJsY1RQTHpram54Rzk1dFEtUjVjVUh2R0VleW1QVGp1d01MdU9tbk04ODZYOA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Injured TMC MP Mitali Bag arrives at booth in ambulance - MillenniumPost",
+      "source": "MillenniumPost",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLW9Ec2Y2bWFJZXZkeV96dktpUGV0MkczdEZGUndydkZienhZdGFQa0Z6VUtyTzVuem02ajA3VG5qWWVBUmQxOVlnTUlabGtyVTk1eTdIUG5WVkJaZE1hblZ1S3dXNXdKaXpYWEtySEZKZ0ZadHFER0FzeWJ2ZGhIeW9FcVZVMkljQzllRFl0VTQ5RG8zSmV5LWY4YlNBMEdp0gGmAUFVX3lxTFBQelB3VEFZaW84bWltOTdSTzFOdG5HMjlYbzczSmN4eTl4dmh6R0hGUFlVQVBMTFlYZUFvYlgzWWV1ZHEzeHYzZDFTblVWQmhLWm53dnZ1TGpqMHZUR0lHOEsyQXZZVkdkZ3dWdG51Y1huRm9BWjBrQmF2SWRsQmczZk5XeDZ0VHRzV1FJOFYwTHJOTlNwNFZqZmZ3Snd0aklTVGdxeFE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "TMC MP vehicle vandalised in Arambagh: Clash between BJP and TMC ahead of Abhishek Banerjee rally, BJP deni... - bhaskarenglish.in",
+      "source": "bhaskarenglish.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQeFB4eXVuVjlkUHUyd0hzQm96LVpoVzZzbVhDb0FHcU93YkhwT2VqU2VOZURDYkpqZE8td1Y1T1hQbmxaaXQyVVJSemZsZnNaZ08zRG8tWXlUWVY2TVpzN1VlUW9tTE9jSnZJLTdQTmc2al9LMkxHM0hJRWcweng0c1Fjck04SDdVMDRacnYxU05CMWk2eWpTR3lLZmNybEJaakRDRS13ZkZ1OU9TZFkyelhDQXdGa2VWVHhWNHlxTkNXVFQ4MEdWcTQzaG5aMHFxck9UNS1zVnFzajhqTi1WRjRPNjJlTGEtV2RHaEJwTzBmamJwNy1EMUFERXJFWXQwdXFVTi03UGhEYm54dTVB0gGUAkFVX3lxTE56X19uUjN0N0lqcUg1cUZ4Rkw1VllKcU5LVWxJX0w0UnF1YVVQVjBBak9sN2ZlNktxOEw0M241a3Bhb3JObjU5TGhCMDNvNzJvN0doSlhVZko4VUl1RHU1NUhfdFR3SFdndGR6M2Y5VGJyZmZKeV9mal9DN2t1c1FaVHRnY2tVMXhXREdrWXFQOGZPYjE1T0lLcVd4VEZWeHFrOWUzenVKbkJUckVwNkk5NmdWZkdMSlF5WGJEWllZYm15SGhPVEpjNXBRNlpqVlBIVzlFWFF1ZzRNV2lLanJxeDJFSy1qOUdJc0M0N3hNYmliMzc0SWpUeXV0MHEtSmtMUmJuNmxLNHVrQmhfbkh0V3RvZg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Attempt on her life’: TMC MP Mitali Bag's blames car attacked by BJP 'goons' - India.com",
+      "source": "India.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaExYTFBWU2hQV1h0OGY0RkVNWTcyR1dBRzZNcmNubUFMdmdSTGRkX09CUE1heHdNb2h5MVprWUpGNlExbk0xMGhJSlQ4elJ2R3BwWnpEQUZodGJHbjJXUmNBNDJRN20xTnlVY3ZReFhTSmo1RTdpX3hlQklEUTBBdTYxSFducGxuZUk4RnJlMVg3UEM0S1FDRWlPSTFZTWZGRVFRY3l2aXFiNjktbGlhaVEtaTR4ZHJkeXkxNWhoSGFrbnVod0oyenN5ekJ4UdIB0wFBVV95cUxQYjdVY3MwQkpzR3UzQThOS2dreHNvMURsS0dET3cxQ0tEQjF5V1QyTGM2RHF3cXByaWt3YWxwOEFWM0ZJRHR1VHhiLVVwQUpwS0x0NWVKVjlNYmdBOTNLa2dVTFNiZVVIcDhHVDg3RkdQSTZfQkV6SUdoLWFJSlViVHg5eENkcFpjQWxJeE1UbmhURjFPSnU1T2dBUHJxWDNLdno3dGlXaC1Dcld1eEdjdEpCUEo3NjdXdC1iQ0VfcExTTWVYV2pLb0ZSUDFybDlGcXZr?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:20:46.206675Z",
+  "collected_at": "2026-09-02T14:43:56.525573Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.581100Z",
+        "fetched_at": "2026-09-02T18:38:12.200009Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.581110Z",
+        "fetched_at": "2026-09-02T18:38:12.200021Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.581115Z",
+        "fetched_at": "2026-09-02T18:38:12.200026Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.581119Z",
+        "fetched_at": "2026-09-02T18:38:12.200032Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.581125Z",
+        "fetched_at": "2026-09-02T18:38:12.200039Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.581130Z",
+        "fetched_at": "2026-09-02T18:38:12.200043Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.581134Z",
+        "fetched_at": "2026-09-02T18:38:12.200049Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,28 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/people/Mitali-Bag-Arambag/100094688438091/?_rdr",
+        "url": "https://facebook.com/https://www.facebook.com/people/Mitali-Bag-Arambag/100094688438091/?_rdr",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:38:41.189930Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -280,14 +350,6 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "TMC MP Mitali Bag's convoy allegedly attacked during poll campaign in Bengal's Arambagh - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS3ZoYnZjVEdfcUhLYkFaV3owMC0wQzgwdkNoaEZvSEgzS2NqQ2hzZjhPTkFVMzhNdEgyVGlzNEdMcVNRNHQzUk1OVGstaTY3eDhUeHMyaWtNUmZxNVhlVG9VbEVVbk1YLTgxM1BBU2wxVDQ2eWR4eUJBS3I5WHh6MkdIQko4WkdtOXpBLUJRM1pDYXFmeDQzeWdwWlZ2ZjRVX21yQmJ0RUxRaVh2ZVNyRWVBRjVKaWRlQlh3TkZRenZuQ1oxaTJXdzJwU3BCOWlhNTk3Wl9WU2F4V2l0U0I2RFR5cUZxME5KZlHSAe8BQVVfeXFMT1Q5VEpTSWJLLUU2NnN5aWpyZGlIUGJVal8ya0xSN2VjN09vS0FLdlg2V0RQLUc0Z28yN04xNm5Qdl9CWEM1S1hqU0NpX1VKZmZNUEdrRGM3MWFsdXlzM1B6N0tmNUJmcVZuYy1JT29UX01jYjBfZUNKWVBUNHliN2xtTWhITUlDY0dWOHpGU192SktMelVMcUtpbjdqam1yTjNjQzlSMkRWRHBWZWRyX2xuT2NkdEVsSVdVY3Q5VlgwNGRuMVlmWUNvVHd4em9qSzNnX3dodGpVNXZRR2J3YmJqQ19KcmhYRENTbW92Wlk?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Injured TMC MP Mitali Bag arrives at booth in ambulance - MillenniumPost",
         "source": "MillenniumPost",
         "severity": "low",
@@ -296,11 +358,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Who will save you after May 4? Abhishek Banerjee to BJP after attack on TMC MP - India Today",
-        "source": "India Today",
+        "headline": "TMC MP vehicle vandalised in Arambagh: Clash between BJP and TMC ahead of Abhishek Banerjee rally, BJP deni... - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTTQ1RkROTmxKalNNeU9pT296Q0t6blpUdkU2VXA4YkZBMnpzVVhObDNKTHVlU0hVVXdtRDdhWGJxbHk0d2RZOWhrYTk3WmpOQnZIQ2FCTEYzRVpTZk5SWTF6Mmctb256eFY5TjBDV1gyeVd1VTY1TERoNHRMbDZkMnVPa0NRVWFLb1FJMXg0MU43V2JjQm4xNmtRUVh2Sjd4am02QV8yemxUM1dCN2pEeXh5ZWliVFh2MDRDNHl3alFZNlRUNjNhcHhGNWhtZFZtZllhQtIB2gFBVV95cUxOTS1CRjRYUFZwYmJwdmNmbF8ybDVrZ0pKWXEwZi1Ed1ppNjRQZzlwTHVCbTNxS3J0aUxsNVVnQ0ltNWxWU0Q0Nmg2cW9HZ0lYdWpWVnotdDFBc2tSTGJGNGxJSHVpRV9lUDBuRmo5aWZ3OUlwZWswUTJIREhyUEswVnhnR2FjUVVEYldKUmpLV2JPUWhyMDVyR3dGWUN4akp2Q1hxbTFQNVBNd0tieDNIbEtPSmNiNzBuOWxDal9MbVNCeGlOQUEyQXEtXzVsb1ZIR2FndFY0UU10UQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQeFB4eXVuVjlkUHUyd0hzQm96LVpoVzZzbVhDb0FHcU93YkhwT2VqU2VOZURDYkpqZE8td1Y1T1hQbmxaaXQyVVJSemZsZnNaZ08zRG8tWXlUWVY2TVpzN1VlUW9tTE9jSnZJLTdQTmc2al9LMkxHM0hJRWcweng0c1Fjck04SDdVMDRacnYxU05CMWk2eWpTR3lLZmNybEJaakRDRS13ZkZ1OU9TZFkyelhDQXdGa2VWVHhWNHlxTkNXVFQ4MEdWcTQzaG5aMHFxck9UNS1zVnFzajhqTi1WRjRPNjJlTGEtV2RHaEJwTzBmamJwNy1EMUFERXJFWXQwdXFVTi03UGhEYm54dTVB0gGUAkFVX3lxTE56X19uUjN0N0lqcUg1cUZ4Rkw1VllKcU5LVWxJX0w0UnF1YVVQVjBBak9sN2ZlNktxOEw0M241a3Bhb3JObjU5TGhCMDNvNzJvN0doSlhVZko4VUl1RHU1NUhfdFR3SFdndGR6M2Y5VGJyZmZKeV9mal9DN2t1c1FaVHRnY2tVMXhXREdrWXFQOGZPYjE1T0lLcVd4VEZWeHFrOWUzenVKbkJUckVwNkk5NmdWZkdMSlF5WGJEWllZYm15SGhPVEpjNXBRNlpqVlBIVzlFWFF1ZzRNV2lLanJxeDJFSy1qOUdJc0M0N3hNYmliMzc0SWpUeXV0MHEtSmtMUmJuNmxLNHVrQmhfbkh0V3RvZg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Attempt on her life’: TMC MP Mitali Bag's blames car attacked by BJP 'goons' - India.com",
+        "source": "India.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaExYTFBWU2hQV1h0OGY0RkVNWTcyR1dBRzZNcmNubUFMdmdSTGRkX09CUE1heHdNb2h5MVprWUpGNlExbk0xMGhJSlQ4elJ2R3BwWnpEQUZodGJHbjJXUmNBNDJRN20xTnlVY3ZReFhTSmo1RTdpX3hlQklEUTBBdTYxSFducGxuZUk4RnJlMVg3UEM0S1FDRWlPSTFZTWZGRVFRY3l2aXFiNjktbGlhaVEtaTR4ZHJkeXkxNWhoSGFrbnVod0oyenN5ekJ4UdIB0wFBVV95cUxQYjdVY3MwQkpzR3UzQThOS2dreHNvMURsS0dET3cxQ0tEQjF5V1QyTGM2RHF3cXByaWt3YWxwOEFWM0ZJRHR1VHhiLVVwQUpwS0x0NWVKVjlNYmdBOTNLa2dVTFNiZVVIcDhHVDg3RkdQSTZfQkV6SUdoLWFJSlViVHg5eENkcFpjQWxJeE1UbmhURjFPSnU1T2dBUHJxWDNLdno3dGlXaC1Dcld1eEdjdEpCUEo3NjdXdC1iQ0VfcExTTWVYV2pLb0ZSUDFybDlGcXZr?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,17 +420,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 75855750.0,
-      "liabilities": 24446219.0,
-      "net_worth": 51409531.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 50.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.53,
-      "expended": 4.82,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:12.455044Z",
-          "notes": "Official eSAKSHI REST API — Works: 183 recommended, 162 sanctioned, 22 completed"
+          "fetched_at": "2026-09-02T14:35:28.505371Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:31:45.860076Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:31:45.857362Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 183,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 32.7891156462585
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:10.087114Z",
+          "fetched_at": "2026-09-02T14:31:45.856265Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Bagalkot Constituency of Karnataka Lok Sabha Election 2024: Date of voting, result, candidates list, main - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPbGF1ZG11ZGUxMTYtNUsxSmRNQldNSjBxV3IwX3lMekNzVzhmVldrdS1VbHhlRDZpZ1AtMmVMWlRKZ2FQQy1mbng2VDRBemZDbHZ0UWdyam1HQ3M5bmxCanZ2ejk2WnA0dEtkNTBjZmZ5Zk1lUG9QRjFrQmlmcTBfZnZKZ0NIaXdPWWNXbml0X3F0OXh4OTV5dnJiZHZHNmlZUjNtb1pxNXA0ZjlfRTZnXzZ1UUcwT1VYdzZDRVBIanNzS0ZmYkxOeEk1b2huMkFtLTB5RTRzUW5BR3BxU1A0V3B1eUZYUnFpRUc3Q20zaDhZX0lHdjMtWW9RcEtEMlk0RkFINUlhZm85WWd0MGI1a0haU3DSAZoCQVVfeXFMTjZoa05OVW5Yc0JCdUtscWQ5Q2lsUE9MRVRJVTZ0LS1GMi00b3hsUmRxTVJkV2tEMEdYMC14TUFYNmpnakZhVEdubXV5RUFhbzNKMjNtNldncnl5TW9UYkoxY1dsYlBvazlYX3puWWt6TGtPOVlZQzNhd08wWTZFSTBQdHkweElzOVlXUjVscjROUWJBSldoX1VRbXlxdmIxdElFaTJjRlZDU0psQkl4cHpyYXVCY1lBb0N1a0hMRVI0a2FnS05qcU1lT29WZ3RDcE9UVkFIckJNZnEzWl92cXExMk9YaFpBd21VQXNGTkNZRlRTZlFOd0xCQVB3Z3ZvdUpjb0tDS0dDcTVicmFLSWdJQnBRWlBtRi1n?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Some MPs re-nominated in northwestern Karnataka - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2ZXQzV0aFlIVE9rN2NROGU3QTFMZXhjSFVVc1RYbjhROTJfcWZIRVQ3UlRkcG5QU000d1Q0Z3lJWFB6N0Y1dEY3SHAtNF9xWGhSMWdlTUVFWXlpb1BzOHhjeWhQOE9vS2Z6U1Y1MDRTWnJSX1ZJU3JTQmpZMHZJRVVveGtSYXlWLVZUTldfNFBMaS1SQl9YaUJOTkY5Tl95bzNVREp1d0FGa2J5S3FpcGg0SEZrZW_SAb4BQVVfeXFMTlVLUmQyVkRqa0RuaVlNSzA0clN4Zm9MeFkySTZHSWFIMlVaR0ZQUlp6TGFmNVBnSEgtV1NWRFFicVVDUFlHYzNyYVZJcFVWTnBQb1FIaDV3aXowZlY2Vm8xZ3pqazhzSUN5a1lwSkhLZlluUFBWaFdZZl90WmVha1NpaXZuR3lwYzAtMEh5eXhwdUkwNEVia0oxMEZ5VU1BeEJOcDdkSUNEaHQxa2xUVjZ4eWNIWWlpVV9kaVNIUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - G - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUI2NVJ5dVRuT2ZlUkhJaEdsdnlyc0pIMzVGWGJhZDBicXB5emZRVHhmaC1uc0RMN1JSWkhORU1pTDEtUE9VdHcyWlFPbEEwajlBZTNlUG1uUUtLcENPbTR1azlkbW9hTGN6ZldyNW5rSkgwUERTREZKelFnZVpodjlORXJNOHM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bagalkot election results 2024 live updates: BJP's Gaddigoudar Parvatagouda Chandanagouda wins against Co - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOX0dOX3U1LUlaS0pwNkt4ZC1BR0VkOW54blJYWnd1LWxUbUZscWIzcGxCd1NaZ1piWDFCbVdzU3BRYUc1aENDYmpDXzItOWczdW0zcU1BU0pNaHpwdk9IRlo3a184QjJRUlBsd0t3R0RYaTduaDBWYXpjbzYwTjlLWkVqbkF3RjJfc3VXSEphcWhmcG13QlMtVmdGeEdFcjJiSjQyLTJUN3U2UlljNEtfRTNNdHVHZ2tKbzFneURIRlhDOEJyczV5LWlUb3VJX2V2M3VTSEVYZFplMU16cEJLV2dDcWMxS1gyM3FGZlctb0FHQTFFaUY5VXI1aG9hVFZ1aVNxVHpMbjFHTjdwWEFGWjc2LWhCZTZHN3kxWS1iQmtlNzlRMTV4VmN2RW5VbURtM3ExQTlkTXZneDd2aFY4VVpCVmF3WDY5S0dEdTl4NXdINmdOOWVOMWdzUdIB4AJBVV95cUxNUURDVHJUZmtfdWZHa2tvUC1YNmhvNUx5OFVsejVXOXBRUDVuNldxWUtpczBTSmx2SHVlS3p2bm1JR0hoYmw2X0pnQ01yaXRMb3pFV0NXMkZneUpLamhCampuMUFXNk9vSVRDMTdncUhaQXVVOUc1TDN4RXNEUjFjejVoaDFPSkd0UG5aYVN0MWx1SW9BNkc0VVc0VE0xbjIzZGNxNnNKeGlqaS1qLVpOZnp3NFhWZUk5M3BKSHUzTmdkN2lUc2lUVzE2RHFRdWEyT09CbW16Y3lFY1FKSFI2ZUVTRHJDblBnRl84UHRZZFZVZEhScGhsUXdDbHJqQmVHY2FXMzRUbGdxbG5oS1ppTkhMTUloZ3pxZlIzSTVvUXRxdUpFZ0lHalJzX3JpNngtZ0ttV2h5RVctRDF6S2g1RDBVT3dEMkxGUDlQbUVTNUtmZHd2RW5EekZ1RDFHWjd1?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bagalkot lok sabha election results 2024: Bagalkot Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaE5HNFZtZGk1MnBiUlBMV1lobEF4SEpKMXhPUlJHemYyRHZHNVpQS0t5U2hBaGJmV1M5SjFrRzRPVzFWZGVNM3B0WEJhU1JIRVJfSDktU2JyaTZaZ2FJYW9FNFYwWXoxNDhxSWpUWEJIQ0dnR2FXdktIMUJRRnR2RjdHUHpvZy1ibHlpNFVDSnZsM05P?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:13.431850Z",
+    "collected_at": "2026-09-02T14:35:28.506325Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.989698Z",
+          "fetched_at": "2026-09-02T18:38:06.522277Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.989707Z",
+          "fetched_at": "2026-09-02T18:38:06.522296Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.989712Z",
+          "fetched_at": "2026-09-02T18:38:06.522301Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.989716Z",
+          "fetched_at": "2026-09-02T18:38:06.522307Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.989723Z",
+          "fetched_at": "2026-09-02T18:38:06.522313Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.989727Z",
+          "fetched_at": "2026-09-02T18:38:06.522318Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.989731Z",
+          "fetched_at": "2026-09-02T18:38:06.522323Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -287,27 +343,27 @@
           "sentiment": "neutral"
         },
         {
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament - G - Sarkaritel.com",
+          "source": "Sarkaritel.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUI2NVJ5dVRuT2ZlUkhJaEdsdnlyc0pIMzVGWGJhZDBicXB5emZRVHhmaC1uc0RMN1JSWkhORU1pTDEtUE9VdHcyWlFPbEEwajlBZTNlUG1uUUtLcENPbTR1azlkbW9hTGN6ZldyNW5rSkgwUERTREZKelFnZVpodjlORXJNOHM?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Bagalkot election results 2024 live updates: BJP's Gaddigoudar Parvatagouda Chandanagouda wins against Co - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOX0dOX3U1LUlaS0pwNkt4ZC1BR0VkOW54blJYWnd1LWxUbUZscWIzcGxCd1NaZ1piWDFCbVdzU3BRYUc1aENDYmpDXzItOWczdW0zcU1BU0pNaHpwdk9IRlo3a184QjJRUlBsd0t3R0RYaTduaDBWYXpjbzYwTjlLWkVqbkF3RjJfc3VXSEphcWhmcG13QlMtVmdGeEdFcjJiSjQyLTJUN3U2UlljNEtfRTNNdHVHZ2tKbzFneURIRlhDOEJyczV5LWlUb3VJX2V2M3VTSEVYZFplMU16cEJLV2dDcWMxS1gyM3FGZlctb0FHQTFFaUY5VXI1aG9hVFZ1aVNxVHpMbjFHTjdwWEFGWjc2LWhCZTZHN3kxWS1iQmtlNzlRMTV4VmN2RW5VbURtM3ExQTlkTXZneDd2aFY4VVpCVmF3WDY5S0dEdTl4NXdINmdOOWVOMWdzUdIB4AJBVV95cUxNUURDVHJUZmtfdWZHa2tvUC1YNmhvNUx5OFVsejVXOXBRUDVuNldxWUtpczBTSmx2SHVlS3p2bm1JR0hoYmw2X0pnQ01yaXRMb3pFV0NXMkZneUpLamhCampuMUFXNk9vSVRDMTdncUhaQXVVOUc1TDN4RXNEUjFjejVoaDFPSkd0UG5aYVN0MWx1SW9BNkc0VVc0VE0xbjIzZGNxNnNKeGlqaS1qLVpOZnp3NFhWZUk5M3BKSHUzTmdkN2lUc2lUVzE2RHFRdWEyT09CbW16Y3lFY1FKSFI2ZUVTRHJDblBnRl84UHRZZFZVZEhScGhsUXdDbHJqQmVHY2FXMzRUbGdxbG5oS1ppTkhMTUloZ3pxZlIzSTVvUXRxdUpFZ0lHalJzX3JpNngtZ0ttV2h5RVctRDF6S2g1RDBVT3dEMkxGUDlQbUVTNUtmZHd2RW5EekZ1RDFHWjd1?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Bagalkot lok sabha election results 2024: Bagalkot Winning Candidates List and Vote Share - India Today",
           "source": "India Today",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaE5HNFZtZGk1MnBiUlBMV1lobEF4SEpKMXhPUlJHemYyRHZHNVpQS0t5U2hBaGJmV1M5SjFrRzRPVzFWZGVNM3B0WEJhU1JIRVJfSDktU2JyaTZaZ2FJYW9FNFYwWXoxNDhxSWpUWEJIQ0dnR2FXdktIMUJRRnR2RjdHUHpvZy1ibHlpNFVDSnZsM05P?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Bagalkot Lok Sabha Election 2024 Result, General Election 2024 Result, Vote Counting and Winner Updates - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREdUMUlVd0Z0VWZsS1oxM2l2RXJBZ0tUVVJBSzduUXBTX0tyb2hqWW5XZkNHZ044M2xhSnIzLTZNVEc5YlkzdFZndE10aWY2TjFqVVA2ZzJDSm5zOEdaXzVWZzAyY0o0QXkyV0ZHT3cwTUt6dGp5TUp5bFJIREV2bFRVNVVLWFNaMzVoWkhiWWlnQWRzMFFRMDVIR0ZrdUJwdTU4?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Bagalkot Election Result 2024 LIVE Updates Highlights: Gaddigoudar Parvatgouda Chandangouda of BJP Wins - News18",
-          "source": "News18",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNelQ2Z2U0T25jajMtZ3dHZ0hxSWQtQjRhX1hRdDhvWTZPbE16emFnX3F5ZUFnb0E1Tmw4WEhGQUxnVWtTMFNmOGhIQk5NVzBuMGRvU3A2aUNPbFJvQ2tYOUF2RnlqVmQwRUtzZGFMdDV0QlY3ZG5oV0FpWm9LZ1dHcWRyaHlGTXh6aFRWcUUyYlMwcWtCYUJHNU9ZWUhwMEstN3dwUzhsbXRYcWV0bWJsa0ZzSjFXTHVfNFhGNjRReW5tbmIyU2NZejI4aWp3bTFKelczdkNtNDhEazdkRXk3dTRqSdIB6AFBVV95cUxQdGgyUUpvU2FHaGNVRXBaUE9mN3AzMEdqRlA0cy1BVE9kdTJTN0JsRXhFb2ROOXlKZERMVVJTeHZKaGhLSi1WUWhqMGttbFlyNl8wVFNEcXdHU2toYXZqby1HNmpTOWE2R2lqdHpZTWJ5V3hxZzFrMVFxdlFBeDk0UWNpUnZWSF9OX1laLUQ1Ynk1ZkVvN3EyeERiQmN2LXJIS1h3UjFHeTcyOHJHTFV2ei0td0FBaUxORi1SM0lPWG1lQVR5QS0zRUZkNUllZGdtNmVrNUJjaDBiMDJuTHZ3bk9id0p1aGJh?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -341,15 +397,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 16,
+      "starred_questions": 4,
+      "unstarred_questions": 12,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 30.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +413,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +444,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +477,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 75,855,750. MPLADS utilization: 32.8%. Parliament attendance: 85.0%. Questions asked: 16.",
-  "validated_at": "2026-09-02T01:36:48.990403Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 16. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.523040Z"
 }

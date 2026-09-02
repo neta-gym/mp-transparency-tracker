@@ -4,16 +4,16 @@
     "constituency": "Kadapa",
     "state": "andhra pradesh",
     "party": "Yuvajana Sramika Rythu Congress Party",
-    "myneta_candidate_id": 5111,
+    "myneta_candidate_id": null,
     "slug": "y-s-avinash-reddy",
     "house": "lok_sabha",
     "sansad_member_id": 4816,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 39,
+    "age": null,
     "photo_url": "/mp-photos/4816.jpg"
   },
   "findings": {
@@ -22,80 +22,137 @@
       "constituency": "Kadapa",
       "state": "andhra pradesh",
       "party": "Yuvajana Sramika Rythu Congress Party",
-      "myneta_candidate_id": 5111,
+      "myneta_candidate_id": null,
       "slug": "y-s-avinash-reddy",
       "house": "lok_sabha",
       "sansad_member_id": 4816,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 39,
+      "age": null,
       "photo_url": "/mp-photos/4816.jpg"
     },
     "criminal_record": {
       "total_cases": 2,
-      "serious_cases": 0,
+      "serious_cases": 1,
       "convictions": 0,
       "pending_cases": 2,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "RC 4(S)/2020 //CBI/SC-III/New Delhi, Crime No. 84/2019, Dated 15.03.2019, Pulivendula Police Station U/G YSR District",
+          "ipc_sections": [
+            "120B",
+            "302",
+            "201"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Principle SPL. Sessions Judge For CBI Cases Nampalli Hyderabad Telangana State",
+          "fir_no": "RC 4(S)/2020 //CBI/SC-III/New Delhi, Crime No. 84/2019, Dated 15.03.2019, Pulivendula Police Station U/G YSR District",
+          "case_no": "SC No. 1/2023",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "Crime No 418/2018, Dated 08.08.2018, of Mydukur U/G P.S Y.S.R Dist.",
+          "ipc_sections": [
+            "341",
+            "188",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Judicial Magistrate of First Class Mydukur",
+          "fir_no": "Crime No 418/2018, Dated 08.08.2018, of Mydukur U/G P.S Y.S.R Dist.",
+          "case_no": "",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:32:59.002343Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 404301973.0,
-      "liabilities": 115643913.0,
-      "net_worth": 288658060.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5111",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.324126Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 81.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.64,
-      "released": 15.64,
-      "sanctioned": 6.84,
-      "expended": 3.13,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:17:54.793113Z",
-          "notes": "Official eSAKSHI REST API — Works: 292 recommended, 161 sanctioned, 29 completed"
+          "fetched_at": "2026-09-02T14:43:15.727706Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:39:09.106792Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:39:09.103827Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 292,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 20.012787723785163
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 55.0,
@@ -110,7 +167,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:24:22.051746Z",
+          "fetched_at": "2026-09-02T14:39:09.102654Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +175,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Jagan Mohan Reddy, YS Sharmila pay tributes to former Andhra Pradesh CM YSR on 17th death anniversary - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcElaQzNrblZwTDQyNGx2cjhlM1htWFZwMjBidE5Pc3lYMjVjd0NlZElLSXVfUGIwVFFIWktnYzZ0dEV1eEFBNlJjZWFlYTdCcE1fajllcW8zcmdZZ3B2RmZmeTk3cnNUUWMwa3VPaHltNDFMcTQ3SzNDZWREZFpUa013ekR3SlVPdlJ2Z1ZFUkFnZ1psa0FiVXc1ZHlWemZmYmNuOGNCeUZuSWM1azhoR1FyaWJKZ2pTYkNfWWNyS2ZGR2NSa0EwN2piZ0o5Nmg3YWtwQmw4VDFxaTNETWI0d2tEN05FajVESzhheFZuQWZtaGZmbjd4cUNLN0pSVFZWM3VuNlVpb1E2Z9IBjwJBVV95cUxQZnFxenVFTkZISjhGeVYwQTY2ZlpYZjFyVGZVTXFvVjF4cmdZS0NsamxyUTNnRFdOdlh2alBKRzc2YkFUX0dLYkN6NjRsZ1pGNlBhbjFzVVVpZXZUTTIxRkZCZGNzTkxGcTZZTmQ5aFdfOWlyLUtHQTZnOHZDcUhoNkk5OXZIbXJ5SWQ4cDZMQ1BNcE5NOEtfRDR6UHRQYmNyMEhUaDhSREVuMUpHSVlNOUQzaEMzXzI4X0FYN0Nua0dGSWFVYU00N243VHJ3MUo0UnlDVGlPYXk3ay15Mk56bjNLYmRzck92R2FtbGFFUHRjQjhUZFJ5V3VFeTBzaTBkY0RaSk9YYURXWlJVdEZr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jagan, Sharmila pay tributes to YSR in Kadapa district on 17th death anniversary - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcTVXZ1Fab1dUcFZIZUFTMkJ1cDl3OGxRODZQU3ZTZHprMl9lQUhuV1VTZ3VlWTdIWUFrT0U4eDF1SjBVNFB2MlpVMkJpel9sVXhjX2lzNDgtSVFHSEV3SEVUam85T0QtRjBNaHRzdXh6LVdxY3ZtNzZ6RlRzSm96RGJaUjhzamljOXdsbTlWX1drNzRDN092RGQ5NjB0QS1zMk9DOGtaVDdJc2lhRGVRelh4eURkbUhTb294SkZBeFoxOFhIZ3FiNkVHRE5tUHBYOWhlZFZJSW5nLVVIQnVNN0ExeVExeHJu0gHvAUFVX3lxTE84em42Uy1ZOGFvOUQyVVhBb3ZNVmNwaHRMQmtKZkZEZEE5eVFGa2kxWEdZWGUxLWc0cDNHdnhkNnNDNVdmMUlEVXlXUmh3NWdLRHRab3EtRDhocnRCcW04bFVObzAwTmJBbTBvZXNvUS1MdEU5MG0wNnhreVhpZXhueHNfeGhXMUw3cHotN094R2NiRE9mWUVyZm1DemUtRHUzOEtDM1E4RzdlVUYyM2NQNm5Lc1BXN0wyWHNJNzlGV1QxWWJfeGdRTWlmNWlocmxFLUhraDJFRHE0aFR2VEJpM0I3Rkd1NHJGeTlIYUw0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Viveka murder case: ED raids YSRCP MP Avinash's properties - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkpENlJwMnl3ZGpPYm50NnhUTUZURlp6UG5VY2Y4T0ZIeW9tSnc3TjhXc3h3VEtuSTA1aXZ1NF9VejlXY0NnRVdHRGtKMVJmQlZwMGw1UkRqeHltby1mMGRPV0RjaUV4NV9Xb0lBTGZCd3N2TVFlemlqXzFKTS1rVGlDaUVmZWlzQTFuazFsU2dhN2ttS3BUMUZIUWtwT2pobzZYamFqcTFRZ2syR3p3SmloSGU0RFZnNXdzRjF1S1bSAc4BQVVfeXFMTjNxV1R4Y0JNN29zTVNIcXpqeWpBR0M0azVKZHVtZHlpbUthSHdtN1dmcEVFVHY0dFRqcXpxeEFnWWpETmd5WTM0SEFpZXV2aF9vMjROeWZWTHhTaFpaTkRENHZDcXltNFdpNGdlWFVKNjFTdkhTZTl1MlpyQm1MRGFUQXdYWWsyMC1acU5HUi1faHlzNGlQM2piSndteUFVZHFjTmozYzBYZG51VTV2cDJjUkZXWFY3a2V2QXRjSFhZczlDaW5MRklheXAwY0E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "ED searches premises of YSRCP MP Avinash Reddy, others in murder-linked PMLA case - The Federal",
+        "source": "The Federal",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0hCSHM2TWJVWU41WkFnUE9CTDBEMlNJODRFLU83Y1k2UVA1eFZlMEJpdllydjl6QzhWd2lLS1U5X3I5RkV2bzFfZ1plZzR3RHM2eFloLVRoUnZqaDdIWHhfNE1EMTJiX0VvY2FmWGVwU1A1ck54YkZHUWFkY1RsVDlvSHJIaHJoSldzZWExRlV3MWU0eWxpaTlsWWdENnE4TG4ta1dDSC1tTWpUemY3Rl9lVy01YnRpX2pxVFRNek5yTGtRVTJHZkU0Q1p2SkE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PMLA Case: ED Raids YS Avinash Reddy, Father - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaVpsZEdTUjljNlg3eDc4MXFlWEFoRTVGZFZDUDk0bmlFNTNyX0lnSjIzdGVXU04tRFd6LUNlTHJScllRT3FpMkIydUFwUGpBYW55b3RSeG5iZ0QtYVFmUWpwdlFZYXNmY0VOVThLTXlfajNnanVZdTFuM0xiNmVUZXN6b3BqNmdJOFFDRDFNeHRaNXV1QzNZSWpkR0xDeFg1cjJPSFZmTS1oUXU0bjRTTzRWNnh3OW0wQ2xwamdJVjBWZ0Q2dHJMaTB1dlFMb2g5YUxvTXlIQzJIUU9BQUtzV2p3RTRIVkdlbWtyU251TC12cEE5NWFGZ3Jsd3pham1aZzBHQQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:25:24.995497Z",
+    "collected_at": "2026-09-02T14:43:15.728713Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.660832Z",
+          "fetched_at": "2026-09-02T18:38:04.125041Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +260,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.660842Z",
+          "fetched_at": "2026-09-02T18:38:04.125053Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +276,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.660847Z",
+          "fetched_at": "2026-09-02T18:38:04.125059Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +292,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.660852Z",
+          "fetched_at": "2026-09-02T18:38:04.125065Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.660858Z",
+          "fetched_at": "2026-09-02T18:38:04.125071Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +324,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.660862Z",
+          "fetched_at": "2026-09-02T18:38:04.125076Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +340,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.660866Z",
+          "fetched_at": "2026-09-02T18:38:04.125081Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -278,47 +374,47 @@
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 0,
-      "neutral": 10,
+      "negative": 1,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Kadapa MP calls for central intervention amid fuel crisis in Andhra Pradesh - The Hindu",
+          "headline": "Jagan Mohan Reddy, YS Sharmila pay tributes to former Andhra Pradesh CM YSR on 17th death anniversary - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcElaQzNrblZwTDQyNGx2cjhlM1htWFZwMjBidE5Pc3lYMjVjd0NlZElLSXVfUGIwVFFIWktnYzZ0dEV1eEFBNlJjZWFlYTdCcE1fajllcW8zcmdZZ3B2RmZmeTk3cnNUUWMwa3VPaHltNDFMcTQ3SzNDZWREZFpUa013ekR3SlVPdlJ2Z1ZFUkFnZ1psa0FiVXc1ZHlWemZmYmNuOGNCeUZuSWM1azhoR1FyaWJKZ2pTYkNfWWNyS2ZGR2NSa0EwN2piZ0o5Nmg3YWtwQmw4VDFxaTNETWI0d2tEN05FajVESzhheFZuQWZtaGZmbjd4cUNLN0pSVFZWM3VuNlVpb1E2Z9IBjwJBVV95cUxQZnFxenVFTkZISjhGeVYwQTY2ZlpYZjFyVGZVTXFvVjF4cmdZS0NsamxyUTNnRFdOdlh2alBKRzc2YkFUX0dLYkN6NjRsZ1pGNlBhbjFzVVVpZXZUTTIxRkZCZGNzTkxGcTZZTmQ5aFdfOWlyLUtHQTZnOHZDcUhoNkk5OXZIbXJ5SWQ4cDZMQ1BNcE5NOEtfRDR6UHRQYmNyMEhUaDhSREVuMUpHSVlNOUQzaEMzXzI4X0FYN0Nua0dGSWFVYU00N243VHJ3MUo0UnlDVGlPYXk3ay15Mk56bjNLYmRzck92R2FtbGFFUHRjQjhUZFJ5V3VFeTBzaTBkY0RaSk9YYURXWlJVdEZr?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Jagan, Sharmila pay tributes to YSR in Kadapa district on 17th death anniversary - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHNTZk5DSllaOXZNQnloSE5BVTItQmhRNGVCY0p3eDNMa09BQkZnTXB5ZmJjS2J1d2xuNk81YjlRSG5CMUxqQUJDR2cyVmJQQndCZFppLS1NdjFlanl6dUlnRnhYSFd5VWJHX3hOeEJ5T2thSW1HZFUxclZyVXBSRVVKT1VObFVvUTdxdGdzUFlmRm9HYk1sdXJ5eWpkOUdKNTFwTnRabEtoeGtEQXNhNGM4U0U5TU56Q19DbHExQUt3ZlQ3eG9seVltUlF3SnotZEUzaXd0MWJ4TUNoTlphODhSUdIB6gFBVV95cUxPaWFnQ3VqTHVUN2pXTF9pVnRubzhPbk9ObmRkbHJNU1g0ZzBYMDB6cVlrVU9zVUlLOE4yUjNKd056bVRQamdSZnNHMHNxRm1hdTNJN2tBVnRwVFFoSHZTTk4zNXpSWlBROURzSGpXRm9OQkJ5SUxuMjhCZFRldkt1WEE2YnpGTlFYMHRpTklkNUpPV0Rmbjl5TnJWV0gxYkhraDJlRldEMWxKWDdrT2U4R1VsdWhmU1U1VG9EUGM3cTJWYUpKemVDaFhkR0RHalMzZ2N2b0s2c1JSZjR3aDI2aklMU2NXcTItUkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcTVXZ1Fab1dUcFZIZUFTMkJ1cDl3OGxRODZQU3ZTZHprMl9lQUhuV1VTZ3VlWTdIWUFrT0U4eDF1SjBVNFB2MlpVMkJpel9sVXhjX2lzNDgtSVFHSEV3SEVUam85T0QtRjBNaHRzdXh6LVdxY3ZtNzZ6RlRzSm96RGJaUjhzamljOXdsbTlWX1drNzRDN092RGQ5NjB0QS1zMk9DOGtaVDdJc2lhRGVRelh4eURkbUhTb294SkZBeFoxOFhIZ3FiNkVHRE5tUHBYOWhlZFZJSW5nLVVIQnVNN0ExeVExeHJu0gHvAUFVX3lxTE84em42Uy1ZOGFvOUQyVVhBb3ZNVmNwaHRMQmtKZkZEZEE5eVFGa2kxWEdZWGUxLWc0cDNHdnhkNnNDNVdmMUlEVXlXUmh3NWdLRHRab3EtRDhocnRCcW04bFVObzAwTmJBbTBvZXNvUS1MdEU5MG0wNnhreVhpZXhueHNfeGhXMUw3cHotN094R2NiRE9mWUVyZm1DemUtRHUzOEtDM1E4RzdlVUYyM2NQNm5Lc1BXN0wyWHNJNzlGV1QxWWJfeGdRTWlmNWlocmxFLUhraDJFRHE0aFR2VEJpM0I3Rkd1NHJGeTlIYUw0?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "YS Vivekananda Reddy: Sharmila alleges murder linked to Kadapa MP seat - Deccan Herald",
+          "headline": "Viveka murder case: ED raids YSRCP MP Avinash's properties - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkpENlJwMnl3ZGpPYm50NnhUTUZURlp6UG5VY2Y4T0ZIeW9tSnc3TjhXc3h3VEtuSTA1aXZ1NF9VejlXY0NnRVdHRGtKMVJmQlZwMGw1UkRqeHltby1mMGRPV0RjaUV4NV9Xb0lBTGZCd3N2TVFlemlqXzFKTS1rVGlDaUVmZWlzQTFuazFsU2dhN2ttS3BUMUZIUWtwT2pobzZYamFqcTFRZ2syR3p3SmloSGU0RFZnNXdzRjF1S1bSAc4BQVVfeXFMTjNxV1R4Y0JNN29zTVNIcXpqeWpBR0M0azVKZHVtZHlpbUthSHdtN1dmcEVFVHY0dFRqcXpxeEFnWWpETmd5WTM0SEFpZXV2aF9vMjROeWZWTHhTaFpaTkRENHZDcXltNFdpNGdlWFVKNjFTdkhTZTl1MlpyQm1MRGFUQXdYWWsyMC1acU5HUi1faHlzNGlQM2piSndteUFVZHFjTmozYzBYZG51VTV2cDJjUkZXWFY3a2V2QXRjSFhZczlDaW5MRklheXAwY0E?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "ED searches premises of YSRCP MP Avinash Reddy, others in murder-linked PMLA case - The Federal",
+          "source": "The Federal",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0hCSHM2TWJVWU41WkFnUE9CTDBEMlNJODRFLU83Y1k2UVA1eFZlMEJpdllydjl6QzhWd2lLS1U5X3I5RkV2bzFfZ1plZzR3RHM2eFloLVRoUnZqaDdIWHhfNE1EMTJiX0VvY2FmWGVwU1A1ck54YkZHUWFkY1RsVDlvSHJIaHJoSldzZWExRlV3MWU0eWxpaTlsWWdENnE4TG4ta1dDSC1tTWpUemY3Rl9lVy01YnRpX2pxVFRNek5yTGtRVTJHZkU0Q1p2SkE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "PMLA Case: ED Raids YS Avinash Reddy, Father - Deccan Herald",
           "source": "Deccan Herald",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlptcFd0RmpaeXJSd3BmT1U3a1VzWDV1UXcwN1BQblpxTXp6U0VSWEVvc2xDSU4wSFg3blZZcEpyMG1VdFZ4bUxIenhmdDA0aXRvaXBfMnd2RkY5MVd6dFN3WVBtcmgyWDZRUUdRQVZiUUpLdVUwMDI4aHVFaTNSU1pWWlJlMkhNSDJIQUZaNkhUQkJQbHA2VG80UnVxbEh4Q3Z3c0wwbVJEc1FpMXJ4Wk41ZTVfLVppYUZhRUpKc0M4emJMVkJVag?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Justice K Sujana reserves order on YS Bhaskar Reddy bail plea - Telangana Today",
-          "source": "Telangana Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5USTFXVmpDMDJnQVBPQVF5bVJWYVF0Q0xFUnVPX2hsRHNWV3laM0F2bkhwbU9CY3FUQTM0X3BCbjhtT0x4M1N0N3ZTb2g?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Avinash Reddy Flags Polavaram Funding, State Debt And Bifurcation Promises In Lok Sabha - Deccan Chronicle",
-          "source": "Deccan Chronicle",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZU1fUjJ1MUVaTjNhSmxNRVltNmJnMktsQkhHam5BYlQ2ekRtbzQ0YmZPRUZNQnJxVXBCZV9hZUxpcmQ5WWk2YW9kdTk1MFRrUDIxMmtNa1ZVQTQ4S1ZUN3kxTktucE8tMkFFU3dEcG5uLUtXOUNLckRfcW9zVzZRSjFZSVZZVzhqYUQ4VlJoUm5IWjJyWjEzTXpXWkxWb2xSV090bUo0dkFZYlB0d1pONEZDLTJ5bEtjX21NNmNuOFNPMDdFVHJHWmZrNGpSQ0FXdmR0M2VRMjBKajE5RHRoZTQtZE81cVVSOWdkMUp30gHzAUFVX3lxTE5sNGVDUFdfdGJoMXFUeTdjMDNtUzRySmxZcjl2cWY0cTZaOV9OWUMyYVVKTkwwcTlHRDJEbk40d3pjRk5xSlUyTVZaX01RSVNKT0w0al9Jb19WNnJOZ09TSFpxZHRweDhlYzlicDF6OVQwZVVwUklPOE5JMTYteXlnV3gtVDFRcnBvalhKUkxzNl90clhsWUdUeUFBbEk3S0NrYk1wbElweS1iX1VzSjRnWUxQZ2k4VjZETXZZZmdTRnZQb3FieVRVSmREdVAwdmlBRU5BcG1rZ0VXV1FkMzAxZGRmbkZQcDFVSDRkcHBjcE1Tdw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Natu Kodi Costly Than Mutton? YCP Avinash Asks Parliament! - Gulte",
-          "source": "Gulte",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3lFWllrRXJDRHpEcUllX2Q1Ynd3LUtpSWo0OTBaS295Y2NidjRjaTBhZlZWcVdyRl9PbGdpY3J3UDNUendneG1PMTJwRENoRkZONVNSZ0hiWGQ1QUNJbmhNdlVWc2dUWURxVFp1Q1VDR281NndQdW81MXBGOTF0UEhkemJGZXBhVFpHN3lBNWFHS0FJeWR5Nmp2dENremY5RmfSAacBQVVfeXFMUE5mMm9UTHJTLVlodENicWxzT3Y5UEVJdmZDQlh0MGYxbExURjlnUUttcXRZS0ZaQXVyWjhhUjh3YjJQVTZNSnJTY3RoRldpcHZmQ0d0bnFKbzUzRU9iTW1zSGVRcUNSSk9FUUhlZzg1WlBsQWFjbU1CT3BQMmVBb001aVFpb3JYWUlBNXFDUG16ZnZBbDhUVHVwdVFYZm1PZGw1cGgxRG8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaVpsZEdTUjljNlg3eDc4MXFlWEFoRTVGZFZDUDk0bmlFNTNyX0lnSjIzdGVXU04tRFd6LUNlTHJScllRT3FpMkIydUFwUGpBYW55b3RSeG5iZ0QtYVFmUWpwdlFZYXNmY0VOVThLTXlfajNnanVZdTFuM0xiNmVUZXN6b3BqNmdJOFFDRDFNeHRaNXV1QzNZSWpkR0xDeFg1cjJPSFZmTS1oUXU0bjRTTzRWNnh3OW0wQ2xwamdJVjBWZ0Q2dHJMaTB1dlFMb2g5YUxvTXlIQzJIUU9BQUtzV2p3RTRIVkdlbWtyU251TC12cEE5NWFGZ3Jsd3pham1aZzBHQQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +448,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 48,
+      "starred_questions": 14,
+      "unstarred_questions": 34,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 93.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +464,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 55.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +495,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +522,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Andhra Pradesh: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 404,301,973. MPLADS utilization: 20.0%. Parliament attendance: 55.0%. Questions asked: 48. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:46.661577Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). Parliament attendance: 55.0%. Questions asked: 48. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.125797Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Ranchi",
     "state": "jharkhand",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8561,
+    "myneta_candidate_id": null,
     "slug": "sanjay-seth",
     "house": "lok_sabha",
     "sansad_member_id": 5117,
     "profile_url": null,
     "canonical_name": "Sanjay Seth",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 65,
+    "age": null,
     "photo_url": "/mp-photos/5117.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,131 @@
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "159/21, PS Dhurwa, Ranchi | Section 51 DM Act 2005",
+        "ipc_sections": [
+          "147",
+          "148",
+          "341",
+          "323",
+          "353",
+          "332",
+          "427",
+          "188",
+          "269",
+          "270"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Smt Nutan Ekka Spl. JMFC MP MLA Civil Court, Ranchi",
+        "fir_no": "159/21, PS Dhurwa, Ranchi",
+        "case_no": "",
+        "other_acts": "Section 51 DM Act 2005",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "107/23, PS Dhurwa, Ranchi",
+        "ipc_sections": [
+          "147",
+          "148",
+          "188",
+          "353",
+          "332",
+          "109",
+          "427",
+          "323"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Smt Nutan Ekka Spl. JMFC MP MLA Civil Court Ranchi",
+        "fir_no": "107/23, PS Dhurwa, Ranchi",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "Yes",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:23.576963Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 24152085.0,
-    "liabilities": 3244306.0,
-    "net_worth": 20907779.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8561",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.437530Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 92.7,
+    "wealth_percentile": 88.9,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.71,
-    "released": 14.71,
-    "sanctioned": 9.78,
-    "expended": 8.22,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:24:04.959352Z",
-        "notes": "Official eSAKSHI REST API — Works: 150 recommended, 150 sanctioned, 49 completed"
+        "fetched_at": "2026-09-02T14:39:17.524700Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:35:12.869186Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:35:12.866546Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 150,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 55.88035350101972
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -92,7 +161,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:42.091997Z",
+        "fetched_at": "2026-09-02T14:35:12.865549Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +169,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Union Minister Sanjay Seth questions Jharkhand Govt over JSSC exam row - News On AIR",
+      "source": "News On AIR",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkxGMU81YXJKb1kzeGZhak1sSzdVWXkwMmJWVm8tWW1feWpzT18wNWlySFh5QUFwUjJ2ZmFZOUZGY0hqa1FEdURFdVlMRzJfS3FNRUY0dGYtTDgxSGtaekM1dWdiTkl1MzVleDllbzJCcWZhOWtVaEZRWF84ZjBBS0VkV1BuVDBUWGRNWnMzM3hUUzVYdGtCbGhIZTE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union Minister Sanjay Seth challenges Rahul Gandhi to visit Ranchi amid student protests - The News Mill",
+      "source": "The News Mill",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0Jaend0TjJ4VklZV0RHTUNyLU92elBieU1wbkFBem1qVWRUZU5WT1BubGdYX3dwZXlndDRwbV8zWVNCb2w1Mk9JUGt6QkwtWjRDS1ZJX0M4RjdEaWp0T0JDM3lXbGVkZU5rb2lWZXU4RDFuWVF2NHNaN05QUFJ4ckc0anhVZEc3MlZYM29ZbHpFTExpYnBrVFpRbXk4OFF3NFU3alYxclh4R2l6S2pkeDl3ZmljZG50dWFJUjlB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Double standards...\": Union Minister Sanjay Seth challenges Rahul Gandhi to visit Ranchi amid JPSC-JSSC protests - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOEgtN002ZXZTcGtBcVhia3RGb2J2OTNqZ09GWUE0S0tFR1FhM1dvQjE0VUg2MG9CVWlad1ZwZUNlMVltTXpJc2IycTQ4RHlWWGswQU5KQXpKMU9LcmV1bk1TMlZsYk5aYU9DRi1kRS1pdHBiUENyTnhkcmFhTWtQRnBiNnpLRkJCWnB4bmN1Z25VSmFXR0tfRlNEVTFBaWdDanJsaC03R2h1RzRkRzlUekgzcjhtUHVjQmY0ODlYeHpNNzhNakVUZlZFeTNKbTJJb3diV3doemJwZU9hM3hYOU5Iai1aMmplQjNaa3dGZ3JwbVozOHhiR2ZNeERtRkZo?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Seth seeks CBI probe into exam row, JMM hits back - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVlZellWb2RCNjNsZm95S2ZEeGJYaWhzbUlaZU9iUWdteDJQYW9nS1dPYUl4MjdPanlsSFNJUkNwQTFHSEJ5VTBodWpwMUZydmhJZDF4aDlIRjhQU2xVazcwQTRqcGNrUFRUbjZNS2lQQXlyQlo0QnRfblFCM1VzZGZSWjNxWk05SURWOGltQnlPU0R0Z1dsQzVtdTlKZWs1NVFpcm5BcWhtOW9RYlM5ay13MlhuUWVycEp4ZGxHRdIBxAFBVV95cUxObWhnVDVkWEZuc1VwbUc3WUQ3UGpmZTZaZlZuUThxTGY0di1CLVhXZkl2M2VBenVlWURJQzl2c0cwT0k3TEYyYU83el92V2xnamJnXzdxM1FBVzlvWk1HNTIwV3VOVjN2aWY4Tk9reF9UaE1EZ2F4VEtEMUxDbHE0YlpuMkJZVzJOMENZdjVZNGF1NmNzVHNManBKb0U2RGZZckNJOXQ1SVpWbDZ6RXI2cHJHdkVVU2FMVEdkdDVia04tVmtJ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ranchi MP Sanjay Seth visits Trivandrum Military Station, reviewed its development projects - jharkhandstatenews.com",
+      "source": "jharkhandstatenews.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3F3V1hVeVItOWJ4Nlg3ZmFuSEE0Y0Z5bDlLQTVSV2tTakpwdVZ4M1hVNDEwNENkelRTSEtZWlZzVUdzYzlEelFaODgwbUZSeEtjVnM2MG1GLW5KcGRGNE1LY2p2YVExbGF4TGFWcjNnd3RLOGRabmM0dThYWU04M3Uza0dTdUlvSVFod3NtOHJyaTlwSW5xcjdySXM3WlluWFhvc3ZXdnRaOHNpZHdSMkhsY3pockd2cDRhS1N1YUFfWmtNazBuOWpDQlNJWklrYzdXbzg1bElEYUplYS14aQ?oc=5",
+      "sentiment": "positive"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:44.239256Z",
+  "collected_at": "2026-09-02T14:39:17.526036Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +238,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.840977Z",
+        "fetched_at": "2026-09-02T18:38:06.386804Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +254,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.840987Z",
+        "fetched_at": "2026-09-02T18:38:06.386815Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +270,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.840992Z",
+        "fetched_at": "2026-09-02T18:38:06.386821Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +286,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.840997Z",
+        "fetched_at": "2026-09-02T18:38:06.386826Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +302,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.841004Z",
+        "fetched_at": "2026-09-02T18:38:06.386833Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +318,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.841008Z",
+        "fetched_at": "2026-09-02T18:38:06.386838Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +334,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.841013Z",
+        "fetched_at": "2026-09-02T18:38:06.386842Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,32 +359,81 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/sethsanjaymp?lang=en",
+        "url": "https://x.com/https://x.com/sethsanjaymp?lang=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/SethSanjayMP/",
+        "url": "https://facebook.com/https://www.facebook.com/SethSanjayMP/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/sethsanjaymp/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/sethsanjaymp/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:35:41.330818Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 3,
-    "negative": 0,
+    "positive": 2,
+    "negative": 1,
     "neutral": 7,
     "top_headlines": [
       {
-        "headline": "Union Minister of State for Defence Sanjay Seth Launches Namo Stall Scheme for Vendors in Ranchi - Newsonair",
-        "source": "Newsonair",
+        "headline": "Union Minister Sanjay Seth questions Jharkhand Govt over JSSC exam row - News On AIR",
+        "source": "News On AIR",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV3NLVnMzOU1aZm8yQVFSOGtOaUJXWEhJTmlwR1FGT3BGTEhwTGlyMVp6aThvcnpHb3gtOVpvM3Y4UkU5M0xCR3YwR3dtV1JMVm9uWDZuNURQVjR6R2drWEpTZTNXWnNWeGZKWGM1T2tndU9wMERkWlVuOGhLMkxjYmJveUUzZ0dxaUtUb29MRjJ5aS1lQkFCdC05b1ZjUEQ0ODVzOERBaTBfRWl2MlJUNzgwbmJBQzhlcVJsUlVLV0pNcDc3?oc=5",
-        "sentiment": "positive"
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkxGMU81YXJKb1kzeGZhak1sSzdVWXkwMmJWVm8tWW1feWpzT18wNWlySFh5QUFwUjJ2ZmFZOUZGY0hqa1FEdURFdVlMRzJfS3FNRUY0dGYtTDgxSGtaekM1dWdiTkl1MzVleDllbzJCcWZhOWtVaEZRWF84ZjBBS0VkV1BuVDBUWGRNWnMzM3hUUzVYdGtCbGhIZTE?oc=5",
+        "sentiment": "neutral"
       },
       {
-        "headline": "PM Modi की अपील के बाद बाइक से निकले Ranchi MP Sanjay Seth | Jharkhand | Fuel Saving - Hindustan Hindi News",
-        "source": "Hindustan Hindi News",
+        "headline": "Union Minister Sanjay Seth challenges Rahul Gandhi to visit Ranchi amid student protests - The News Mill",
+        "source": "The News Mill",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTm1qdlV6UjktX1RnYmRnUGt1ajJmWU5yZXJXWTJaaFZ5U01HU1ZtMlhXUDRJYkFWNFVkekg4Y2RCcS12VWNRX3hJLTA3UlgtNDRTMGdxZFFoZHNiQURhVE1LYm9hbVF4cVlRdkFYYXh0SU9SNWVUbHJRb1Foa293ODkxbFB1cmxPM1dDTllhbEExN1BlcnZzWFZEa1dhR09fQUtqR1c1ekVfOXRJa1YyNFE1UXlpal9NRlHSAb8BQVVfeXFMUEF0OHN3MGV3YTBGWXY3WlhrNkVFVXloYWdkVy1pZXR2VXFKcEkyd05CMWJfWkdnbzJ1R1RXdWVhQ2RhaTg0YnpXeHU1YTctR3FGemZ3WXNIOFNzX0RBc0stU0R3Vnd6VVY4a24tcHpLWVRhdkpMWktGY3VlV1pWYm9sdXRFQnF2clAybGRhT0tEYnViRTIzVW51RE5RR2dhYkthNVRyaDM1aTNjbUhocGRxUlJPbm9KYW91V2JVOEE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0Jaend0TjJ4VklZV0RHTUNyLU92elBieU1wbkFBem1qVWRUZU5WT1BubGdYX3dwZXlndDRwbV8zWVNCb2w1Mk9JUGt6QkwtWjRDS1ZJX0M4RjdEaWp0T0JDM3lXbGVkZU5rb2lWZXU4RDFuWVF2NHNaN05QUFJ4ckc0anhVZEc3MlZYM29ZbHpFTExpYnBrVFpRbXk4OFF3NFU3alYxclh4R2l6S2pkeDl3ZmljZG50dWFJUjlB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"Double standards...\": Union Minister Sanjay Seth challenges Rahul Gandhi to visit Ranchi amid JPSC-JSSC protests - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOEgtN002ZXZTcGtBcVhia3RGb2J2OTNqZ09GWUE0S0tFR1FhM1dvQjE0VUg2MG9CVWlad1ZwZUNlMVltTXpJc2IycTQ4RHlWWGswQU5KQXpKMU9LcmV1bk1TMlZsYk5aYU9DRi1kRS1pdHBiUENyTnhkcmFhTWtQRnBiNnpLRkJCWnB4bmN1Z25VSmFXR0tfRlNEVTFBaWdDanJsaC03R2h1RzRkRzlUekgzcjhtUHVjQmY0ODlYeHpNNzhNakVUZlZFeTNKbTJJb3diV3doemJwZU9hM3hYOU5Iai1aMmplQjNaa3dGZ3JwbVozOHhiR2ZNeERtRkZo?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Seth seeks CBI probe into exam row, JMM hits back - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVlZellWb2RCNjNsZm95S2ZEeGJYaWhzbUlaZU9iUWdteDJQYW9nS1dPYUl4MjdPanlsSFNJUkNwQTFHSEJ5VTBodWpwMUZydmhJZDF4aDlIRjhQU2xVazcwQTRqcGNrUFRUbjZNS2lQQXlyQlo0QnRfblFCM1VzZGZSWjNxWk05SURWOGltQnlPU0R0Z1dsQzVtdTlKZWs1NVFpcm5BcWhtOW9RYlM5ay13MlhuUWVycEp4ZGxHRdIBxAFBVV95cUxObWhnVDVkWEZuc1VwbUc3WUQ3UGpmZTZaZlZuUThxTGY0di1CLVhXZkl2M2VBenVlWURJQzl2c0cwT0k3TEYyYU83el92V2xnamJnXzdxM1FBVzlvWk1HNTIwV3VOVjN2aWY4Tk9reF9UaE1EZ2F4VEtEMUxDbHE0YlpuMkJZVzJOMENZdjVZNGF1NmNzVHNManBKb0U2RGZZckNJOXQ1SVpWbDZ6RXI2cHJHdkVVU2FMVEdkdDVia04tVmtJ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -286,22 +443,6 @@
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3F3V1hVeVItOWJ4Nlg3ZmFuSEE0Y0Z5bDlLQTVSV2tTakpwdVZ4M1hVNDEwNENkelRTSEtZWlZzVUdzYzlEelFaODgwbUZSeEtjVnM2MG1GLW5KcGRGNE1LY2p2YVExbGF4TGFWcjNnd3RLOGRabmM0dThYWU04M3Uza0dTdUlvSVFod3NtOHJyaTlwSW5xcjdySXM3WlluWFhvc3ZXdnRaOHNpZHdSMkhsY3pockd2cDRhS1N1YUFfWmtNazBuOWpDQlNJWklrYzdXbzg1bElEYUplYS14aQ?oc=5",
         "sentiment": "positive"
-      },
-      {
-        "headline": "Ranchi Street Vendors Get 'Namo Stalls' Under PM SVANidhi Scheme for Improved Livelihoods - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU2I1a2tDZGM5QzM1dHRCbE44MGhtQjdLQV82cWRvSnBQUFRuVDN2cy11NVNEUU91SVN2R0VfQnJzTFhwTi1GdUJMMXlVX1BpNzg5MTRvbTB1Y1JjZlYwVHFUM2hVcHptWmRpZERHNjZWcEtqZ1NNUEY0V19HYWtjblpQUTBqUzRmWURsZWFhSjlZN0hYaEdSb011MU85UGdIb0ZKSzVsTjV3eFRndzlWOHEzX0NCdEgzZ2hmUWVYZjVzRUVOa004T2czdFo5ZDA3OUNGNzlQdzlTNmxqczliRnBlY3hrbkg4N1piTWwzcUI1dnPSAfgBQVVfeXFMTmUwaEJvNEoxTE9oRFJRVzBtdkRrOHUyZnRsZHI5VkxqWi1wWS1MT1ZvRG4zTDdGLTZqWUFxeS1QN1RIWExfVFkyaHZrRXZJWXA0RF9sc2NhTUNLdUhGdGc4SjYxRXdmWnFQbElHNF9Tby1xYU1CSVh3T1NydDNkcGpJeGFaVjhTbzB3eXFWQnhfSGFvdWg4ZjhDWWRiRXd3bWN6dkxOelhTMER6b0ZxMlBtcXJvWUdhRWNfR0l6ZlhoYW82TzBCYk9vaXVLcGVvYVo1ZzRoRnh3MmN4em9NSFo5bjVZQUdKVEJkN0xfcThMMVBLQjhHN2E?oc=5",
-        "sentiment": "positive"
-      },
-      {
-        "headline": "Ranchi: Sanjay Seth attends ‘Sansad Sanskritik Mahotsav cum Swadeshi Mela 2026’ #Gallery - Social News XYZ",
-        "source": "Social News XYZ",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHUzNEhpNWhJeVJ2MWNNZUVjVGU2Q3ZQUi1VZmx4WlhWMmNqQ05tX3BSeWd0YjBYMkhiVU5LWG5KOWRKVUg5dW9ScTFFZkhDUkRrZjNyN3RxS1pHbi1aM0wwU3RYbTNBLWluNEZxT1EtdXhteWxDbDlNb1owUXFwa0tnajkycS00NG1zQUsyWFk1NjdiMHNvMFZiR05lX1RtT2h2aXJUV3hsUmRtMDU5Nm8xWUFwb0ZiRlQtblBsTy3SAcABQVVfeXFMTjR1MzRIaTVoSXlSdjFjTWVFY1RlNkN2UFItVWZseFpYVjJjakNObV9wUnlndGIwWDJIYlVOS1huSjlkSlVIOXVvUnExRWZIQ1JEa2Yzcjd0cUtaR24tWjNMMFN0WG0zQS1pbjRGcU9RLXV4bXlsQ2w5TW9aMFFxcGtLZ2o5MnEtNDRtc0FLMlhZNTY3YjBzbzBWYkdOZV9UbU9odmlyVFd4bFJkbTA1OTZvMVlBcG9GYkZULW5QbE8t?oc=5",
-        "sentiment": "neutral"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -350,7 +491,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

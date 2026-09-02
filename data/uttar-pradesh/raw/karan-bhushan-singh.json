@@ -4,16 +4,16 @@
     "constituency": "Kaiserganj",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7440,
+    "myneta_candidate_id": null,
     "slug": "karan-bhushan-singh",
     "house": "lok_sabha",
     "sansad_member_id": 5581,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 33,
+    "age": null,
     "photo_url": "/mp-photos/5581.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:00.975558Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 495681640.0,
-    "liabilities": 229359344.0,
-    "net_worth": 266322296.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7440",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.331625Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 84.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.61,
-    "expended": 8.71,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:53.266412Z",
-        "notes": "Official eSAKSHI REST API — Works: 73 recommended, 73 sanctioned, 30 completed"
+        "fetched_at": "2026-09-02T17:21:15.185807Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:17:34.548465Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:17:34.545590Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 73,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 59.251700680272116
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:03:27.954628Z",
+        "fetched_at": "2026-09-02T17:17:34.544527Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Brij Bhushan’s comeback in BJP has the key hurdle removed - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWZ2TEZhSnVQLTg1NTBNaUUwNWVnc085R2RRaW9yMFJBS2NkMGdUcVNhLWdaOUhzYTdhalFHNTh1QmpwWGhHQVYwZWxVc3hzdV9BaG1fRGNvZDVSSWRnMVdHeTdxR1otQ2xIMjNyNUNPVE1xVG41Y1ZHWnZJOUgycU10Z3dFX01aZUttMExPY2ZKWlQtWWpqTHVvUTVGR0xsdXItYkF5WDUxWWd4OVdERWtWbzRfdnpQVVd0OWNIbnfSAccBQVVfeXFMUGk2ZXdyczVzdU9WR1VkY2RkN3otSGt1Q1g5UnA0TVFTUENnR00xTi1UMkhYYW91YmgzeEJfZFRMMnNncGp2WkNLclJ2cjZFVnpXVk52Z215Yk9HMnJFVnF2YWVpeWZscV9fdzJIVXJCZFZ6a3k1NVdzTDBLQ01GMnYzQ1F6NU9QQXh4R1RlYmdFNTlUeVFFQjhhX28tYlhmT2VpempkeDNwYTFELThiTUNxVHNVQWNEV1JxcGhsWFU1TFVOTmdTMA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Karan Bhushan hails father's acquittal as 'victory of truth' - Awaz The Voice",
+      "source": "Awaz The Voice",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2pqaTRfVUxURWtZOXZMSDZlRG9JUDBNQVVyaTF0MVNYN0ZkUkxKZEtfbDh4VEdFRm95WXpiZjZBSzIxYXhRMzFEYUNiMWlxaEI1emRHQ3JfSlJGUUtMVTBpQWE5UEZZb0JteXc0aVBncFF3WU94cWZiZGt0U1dZQm9CNXdhbnVfYXUyMTZROXo2Zi1CaElnOXNOMzNiYlJfYW9tdVZzbFBJTFQ5?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Why Brij Bhushan's acquittal has triggered a political chess game in Uttar Pradesh - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS2pxOEpzbGJfU0V3XzVQdFNnc19oYnFfQzMxSjlXdlBEZmhxUmZPT1QteFIxMWh0ZnN3b00wYjBTb2YtWlctaG9FanNaYmlhU053TlMwZF9mUThPb01ISENkMVFVOGxwUndCZFJMN0xRd25NWTBDMjFpeGRLTDd4c2pYTmY3NFB1bUw4T2RUWUJKTldiRmZLa3dYTHJRNjZ6U01FdEthZUhMdnVoYlNBcjlZbk9XUkYya2VZY1RsTmJZNzRvRmVKZjJFNWZKaGhKT2fSAdcBQVVfeXFMTVFSbXRUWEpqN21UVi1BaHM1bGg1T05KVmpNUWxrRnFVM05uR29wd0o0M1NPNE1JZVl3dWlyc1FGNk83TTZBTFdZSTJjZkdMQlIyNGxkbzlwQllzR0ttTVhEX2RkMHFJUmxBVTdWT2l4aF95TWNDVUM0QlhROVctSHhxWWhsWk1ValJpTFdCRmVQUWVXWWNuQkVHb1NfbUs1S3QxdkQ3Rkl1RUVvemwwektvVHNibjNRME1EV1I4UEZXYXo5OU91czh4Q2Z1clhUbUliYnBSVFk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Will reach Parliament with my father Brij Bhushan after next elections,’ says Karan Bhushan Singh - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMTFzdXRjTDFBWmxRMlg5OEQ4QnVSRXhNSHdNcXdhSW91ZElreFduc2VSbmxvOWdPR3JkRThMci1kN0pDQ3p1bkZnY0Y5SFVOMkI0UjVOX1BON2Qtd01neUJRemJGb2N4VlNLUGFFdHU4YlJmZXVnTHFtcExhUEFfenY3NmkyblNkTDg3RVk3TFNjenRjSW51aWFRdnRHVERTMnV5bzNaYzNUZktmeTZfTzhia3ZWSUdOLVdCanlEZ2g4UHFFY19TOTgzWUE5ZW5USEd4aF93VjA3S3dUR0530gHkAUFVX3lxTE5DNlNtS1Jud0J3XzFtRnZQb2JyZjFfR1NNN3RmaXM5V2dfY1FSazJhdVA1TmU0eHZMSTBWeXR6NzVEeHBGbWxyQ01TOVoyRTdhQXQ4eVlFbE15cHdNNGYtcjBjNDJONGlYUU9aTEpfZjZZdVFLVUowWlM0YWZGWjYyTTZnMjlCaFRLck5NTTU3R1Q4bmprSzljOWNsekNGNC1PbGtUQW81M1V1aWhLendDZzlTUGdsbExmRmttLVcwN1d0N2VPcjRNZ09hR1hITFpNNEFGWmE5aE1Ba3R6Y09hSGJKcA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Brijbhushan Singh prepares to contest election from Faizabad: Vinay Katiyar already active; will BJP give t... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDBoVTFBb2tLR0ZkN1NCSkpldzJTRGNuWjJJSXZsSGg3VV8yYWNkMFRXQkw4ZUFpWFozM3FRQ2JxbDBiaEs2MVIzRDE4aXZ4SG9rOFdMTTl1d3M1WTVvQ0FiRV9CenhlMDJ0cTBQdDdoOTNvVjFJR1R5V1Vrc1RfQ0JxWmJJWWUybEotYlhueDJaVktDSGRiRHMwR3U5UWRwbEpGd2kxNlNLSjJnSjZDY3RMVnRvTU1OU0pxRjFwNWJKakJqSm9F0gHMAUFVX3lxTE1iZy1lSHg3Mm9ocHZDcExpZVpvaFZJOWQwYmVLUjR3cW9aY2hNUlFITjlEM0stMExvcW9nZ01WdUE0YXRuMjFEMmFsR2RRM2E0WnpkdDltQzZVTFlwcHRTRWttbjZjYjhJX0s2WENBSDVZX2VGSDlhcmhoV056ZTVHV0hDN0t2RXRSZUFKQkRqbG1LdlI3WnIwSDh5RnJEUnUwUEJqb1J2ZGJxQ1ZzUC12bFpsa1RoWm9LdlI5Y0RKcjdwbk5ZX1BILThLQg?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:03:52.304765Z",
+  "collected_at": "2026-09-02T17:21:15.186971Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.711065Z",
+        "fetched_at": "2026-09-02T18:38:11.279589Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.711075Z",
+        "fetched_at": "2026-09-02T18:38:11.279600Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.711080Z",
+        "fetched_at": "2026-09-02T18:38:11.279606Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.711085Z",
+        "fetched_at": "2026-09-02T18:38:11.279611Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.711091Z",
+        "fetched_at": "2026-09-02T18:38:11.279616Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.711096Z",
+        "fetched_at": "2026-09-02T18:38:11.279621Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.711101Z",
+        "fetched_at": "2026-09-02T18:38:11.279626Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.711106Z",
+        "fetched_at": "2026-09-02T18:38:11.279630Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -276,9 +329,33 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 1,
-    "neutral": 9,
+    "negative": 0,
+    "neutral": 10,
     "top_headlines": [
+      {
+        "headline": "Brij Bhushan’s comeback in BJP has the key hurdle removed - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWZ2TEZhSnVQLTg1NTBNaUUwNWVnc085R2RRaW9yMFJBS2NkMGdUcVNhLWdaOUhzYTdhalFHNTh1QmpwWGhHQVYwZWxVc3hzdV9BaG1fRGNvZDVSSWRnMVdHeTdxR1otQ2xIMjNyNUNPVE1xVG41Y1ZHWnZJOUgycU10Z3dFX01aZUttMExPY2ZKWlQtWWpqTHVvUTVGR0xsdXItYkF5WDUxWWd4OVdERWtWbzRfdnpQVVd0OWNIbnfSAccBQVVfeXFMUGk2ZXdyczVzdU9WR1VkY2RkN3otSGt1Q1g5UnA0TVFTUENnR00xTi1UMkhYYW91YmgzeEJfZFRMMnNncGp2WkNLclJ2cjZFVnpXVk52Z215Yk9HMnJFVnF2YWVpeWZscV9fdzJIVXJCZFZ6a3k1NVdzTDBLQ01GMnYzQ1F6NU9QQXh4R1RlYmdFNTlUeVFFQjhhX28tYlhmT2VpempkeDNwYTFELThiTUNxVHNVQWNEV1JxcGhsWFU1TFVOTmdTMA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Karan Bhushan hails father's acquittal as 'victory of truth' - Awaz The Voice",
+        "source": "Awaz The Voice",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2pqaTRfVUxURWtZOXZMSDZlRG9JUDBNQVVyaTF0MVNYN0ZkUkxKZEtfbDh4VEdFRm95WXpiZjZBSzIxYXhRMzFEYUNiMWlxaEI1emRHQ3JfSlJGUUtMVTBpQWE5UEZZb0JteXc0aVBncFF3WU94cWZiZGt0U1dZQm9CNXdhbnVfYXUyMTZROXo2Zi1CaElnOXNOMzNiYlJfYW9tdVZzbFBJTFQ5?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Why Brij Bhushan's acquittal has triggered a political chess game in Uttar Pradesh - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS2pxOEpzbGJfU0V3XzVQdFNnc19oYnFfQzMxSjlXdlBEZmhxUmZPT1QteFIxMWh0ZnN3b00wYjBTb2YtWlctaG9FanNaYmlhU053TlMwZF9mUThPb01ISENkMVFVOGxwUndCZFJMN0xRd25NWTBDMjFpeGRLTDd4c2pYTmY3NFB1bUw4T2RUWUJKTldiRmZLa3dYTHJRNjZ6U01FdEthZUhMdnVoYlNBcjlZbk9XUkYya2VZY1RsTmJZNzRvRmVKZjJFNWZKaGhKT2fSAdcBQVVfeXFMTVFSbXRUWEpqN21UVi1BaHM1bGg1T05KVmpNUWxrRnFVM05uR29wd0o0M1NPNE1JZVl3dWlyc1FGNk83TTZBTFdZSTJjZkdMQlIyNGxkbzlwQllzR0ttTVhEX2RkMHFJUmxBVTdWT2l4aF95TWNDVUM0QlhROVctSHhxWWhsWk1ValJpTFdCRmVQUWVXWWNuQkVHb1NfbUs1S3QxdkQ3Rkl1RUVvemwwektvVHNibjNRME1EV1I4UEZXYXo5OU91czh4Q2Z1clhUbUliYnBSVFk?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "‘Will reach Parliament with my father Brij Bhushan after next elections,’ says Karan Bhushan Singh - The Statesman",
         "source": "The Statesman",
@@ -288,35 +365,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Brij Bhushan Sharan Singh Hints at 2029 Lok Sabha Contest from Faizabad - Daily Pioneer",
-        "source": "Daily Pioneer",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QbXF1eXN2b1FXaVhrSE90OXZ2RFk3amxXU2dhcHNpOWluWUdWdWNRTG9pTEs0Ulp2dDZlOGtDRGM5QVFoaXpTNmo1NGNDdm5jSjRoWTMzUHFZZ0F2QnlsNkFqZkpBTHBKWEM0RWNxV0VnYzE4cEEwSWRqUHlBdw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "'Removed through conspiracy': Brij Bhushan Singh's big charge after sexual harassment-linked ouster; vows - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZ2FrbGdnYVFMRFlwelBrS29DRHM3b0ZKVlBIQ2JuTjUwenFqWkppRzhqZ2ZCa0NrOFRieGNpd2U4V1BSZ1M2U1A5Q190bVlROGwxX09HTlAtLTBrbXduVXEwdXdpcTcwN3h3YWhmT09DV3Vnc0hsd2tiZGhqMk5NSFNHWC11S2t6amdyYkppZi04c2U1b0ZVRW55SFJpbVRUWW5icV8xYzBXcmJTanRWVUcyOEdDMUtRbVZrWVNIV1gyNGtPZndBZkxTQ0d5LWIzUURTY0xaQ090ODJYbDVKd2VhWGdKTlh0dE1FWVNIYWJzdnZiSnJjQk1SS0t0Y2hjTVlKS0hyOU0ybGJ0b2Fockxsc9IBmAJBVV95cUxOal9YUDBHV3Z5Tm1qYjFjZmtkWVZ3RG91M2FoZnhOYk52ZFdNSTI1OTV3QjBuNjNMN2V0SUItWU90WHRUbXBta0xCbWoyUk52RFdtODZGcXh1NTEzdC1tN2hxMGlWcTdzY21HVWxlMmZZZS0tZFQtV0h3LU9oRTBON1pfb29CZ0VWcjFLeWhZT0tKWXFhRmRtTjhXM1ROa1h1YTRheHFOemNxTEJpQkhSRFFUYWtic0xwanVDdDR1YXNqY0VBa01NTVRPWUNwSnZ5OG8zM3VaMlkwWmFiaHFPTWZYdTlaUGo3NGRXd19mWFZMdGJNSWpKS0ptTEpkUmdwS3ZLN3F4RmthR0FuQU5qckFQVzlGb2gz?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Brijbhushan Singh prepares to contest election from Faizabad: Vinay Katiyar already active; will BJP give t... - Bhaskar English",
         "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDBoVTFBb2tLR0ZkN1NCSkpldzJTRGNuWjJJSXZsSGg3VV8yYWNkMFRXQkw4ZUFpWFozM3FRQ2JxbDBiaEs2MVIzRDE4aXZ4SG9rOFdMTTl1d3M1WTVvQ0FiRV9CenhlMDJ0cTBQdDdoOTNvVjFJR1R5V1Vrc1RfQ0JxWmJJWWUybEotYlhueDJaVktDSGRiRHMwR3U5UWRwbEpGd2kxNlNLSjJnSjZDY3RMVnRvTU1OU0pxRjFwNWJKakJqSm9F0gHMAUFVX3lxTE1iZy1lSHg3Mm9ocHZDcExpZVpvaFZJOWQwYmVLUjR3cW9aY2hNUlFITjlEM0stMExvcW9nZ01WdUE0YXRuMjFEMmFsR2RRM2E0WnpkdDltQzZVTFlwcHRTRWttbjZjYjhJX0s2WENBSDVZX2VGSDlhcmhoV056ZTVHV0hDN0t2RXRSZUFKQkRqbG1LdlI3WnIwSDh5RnJEUnUwUEJqb1J2ZGJxQ1ZzUC12bFpsa1RoWm9LdlI5Y0RKcjdwbk5ZX1BILThLQg?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Brij Bhushan Singh alleges conspiracy on ouster from Lok Sabha - The Siasat Daily",
-        "source": "The Siasat Daily",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHBmUmRSSVNGU0h3V0x4MlBLNGc1RnZ1OXo4WHo0UkRPZ1p6REhqbkZiQk96ektKYThpZmVvQThRbERCenRZdTFhV2dLQWdrT3JPWlNZZVlZeGFFY3RMVUYwbm82TWpxRE5tZlU3UmNtY1d4dDMyQWhlZ21KeUF6bHpiZ3oyc0RPVlp2Z2MtVEFFUWZVbHgtN2t30gGfAUFVX3lxTE1SaTg3NEt2OV9PX3g4SmQ5VVA5SDFGZklFZDZLZkViZXJIaGdGWnJyN1Q0R3MtcWNZeV9iWDhuMDUwTG50NjFLdGQtdWozVmdyY1NhLTJsRDJBX0tleEVaNzU1UnBCdElqOHJ5cDVXa2EtRFFUN0lCOVJyV0swMTNYcUp1WGNwM01uNjJyM1IzeHhXRzFYblR4dE1wTnZ1QQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 6,
+    "starred_questions": 1,
+    "unstarred_questions": 5,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 10.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

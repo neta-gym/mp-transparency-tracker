@@ -4,16 +4,16 @@
     "constituency": "Jhansi",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7176,
+    "myneta_candidate_id": null,
     "slug": "anurag-sharma",
     "house": "lok_sabha",
     "sansad_member_id": 5148,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/5148.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:52.411588Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 2120765800.0,
-    "liabilities": 14948530.0,
-    "net_worth": 2105817270.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7176",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:53.664134Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 95.9,
+    "wealth_percentile": 69.5,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.76,
-    "expended": 6.11,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:33.860811Z",
-        "notes": "Official eSAKSHI REST API — Works: 171 recommended, 154 sanctioned, 78 completed"
+        "fetched_at": "2026-09-02T17:18:13.188489Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:14:31.553176Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:14:31.550413Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 171,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 41.56462585034014
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:02:55.921750Z",
+        "fetched_at": "2026-09-02T17:14:31.549342Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Thousands join kanwar yatra from Orchha to Jhansi amid aerial petal shower - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYzVZeVZUSGVxSVlpcXl4UWpyUkw3UWQwVXZYTVlGSzhBQUFCTjhKX1pXNkhCeThQWWdwSFZiQk4wN3N6SXRDZnh4TW04dERkbk1tdDJ3QnNJOVlDQU9vd2tsRjBHV09DQXBNZ1dXdUpobjd3aERCOWplT0h6LW4yQm1WSVBsTDhYY1BpQWF2QXZEOFkzUG81OUkwTWNhcE56WVIteUxyTmp6MW1sbmRKbFVMWjNZWWkxeGtjRHR1N3dJbU83VzdWN184VUpjbWNKZElSUEF4T0R6UmtPV3B4eHZn0gHnAUFVX3lxTFBhazFnNThCRUwyXy04Mzk0TFdzNEt3RHNockt1Um5QaC1NcnRlS1dRdFgzLWFnZVBpYkZPY1B6NEhMTlhSSlhOcWs1UTJ1eVlCUlNrVjhxcXppMVhaSlVSWnFkLU9mQTc0Z3NjcDVhcWNPbENldWQxc1JtWjM5NTdqcDh6d2dRWFBJS24wOGtLQXBtR2hSSTNWSTZWdGlteHJlRk1fOVI4aG5VeXE0dVprMkM3bWJfU0RadFUyQ1JuWGg0bmZJY24yWGtEbGhoY21nRGNkR1AyUklHWTJTVlh4b2F5dGJTOA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Uma Bharti Wants To Contest 2029 Polls From Jhansi, But There's A Rider - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3VocEFWRWdqSUhHVzFWWFFHUWVJY1k5WXUyUmQ1R3JLdG9SYWlzZEZZUkdpSzk1bFNIbUVfUVZsSE5rcE80dE5GZHU1cFQyQkV0ZlZRcjNJMTctaTRwRXJPMWNtcktxWnR6NC1TOTJ6NDNKNGdLcnNGbVJzMlBmRlBjbndMNnp5N1JkUlRzT19MYnZqUUgzb0YxbF96ODhONG1la285VGtNRUpWT0HSAbYBQVVfeXFMTzN1ME1iT3M0MG9zZjR3anI4akdnZEh1c2JpRFR3QlVtLWJzalNCODduRjIxNmxCdVZxWkdvREgxalFzQ2tmNHRSODZyZUwtLWRiamdIUWhoak8yNUVmSFVFWWppZDhrYTIyem1YWk5RRjZUUXg5MU9mNjUzZklWajk1X1pZbWRWNktmR25vckF0YUdUcEJ4bkIycTZNeXo4M19ycDdxQVN5amlWem9IWG1naWtqRnc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jhansi MP reiterates UP’s one trillion economy goal - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeEtZVEY4ODd1NU5ucndfblRwdC1vVl9Va1l4a3VBVXZxb3JEMjBGcHBUQm9CWElSZzlSb0hZMWpPRENRaVlYanhFQ0lLMmp1ajBSRHJyRlZxLTFiaFQ2ZjUxMjJLWU96bjdDazBqQjRDa01uaHJHX0NiMmlYUjhoOHRsd0p5d3IwNE5iZzZ1Y1NjNlNNYVl0NGpRcUl1MDdYa0d4S01TWGNPMEpWLTdaYUU1c1BlSHdReEtBY0FsSTF6QdIBxwFBVV95cUxNZGRVVDlzUDI1UEljSGRKRHJBWWRwZXowNFJweDRtc1BHdEZQZHlaUHpaQ0hTa0tocUVFSWs4dVpGNUc2VDF5T0FTMUNRcDFZcldPMkQ5V084MUo2NlQ0SmhZN0h5WEk5ZnYzb0ZDREpMMGY2RGM5eUdqMTFGTHVXcGE0VXFvV0o4YVVOVHE4Y3hEcXczY2R6d0NIOUhtQ0N2aWd4SktDdXg1SDZWNTZ4SnFRbnlXMnNzWVZDN25LRnl2OFhGdDlR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "UP Crop Insurance Scam: Fraudsters Claim Insurance on BJP MP’s Land, Multiple Policies Issued on Single Record - The420.in",
+      "source": "The420.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSEVkVklmU29hTXp2T0lndmNZZFRmQV8wT18zUEpzb0JLbTdlMGhMYXlCSFhaLWZ1YXlsWnFnZDJCVnJzVEJ0YVJ6MjZKRDdwalhnSzVJbG9YYjFyYWhNNENINjdscUlvVmRua1lUbkxyVWdUZ3BBamhWS094N2J5M3lIaG95OWZlcmxj?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anurag Sharma , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFIwNGJQRXQ3MWstWFRJLXFsU3dNejZvRTFrLVBRZ3B0bGlJZ083TkkwWm00S3NzQmwzR3N6X01EdXNLdldsck15SlVhemFNUkZtVXdvOXVCR1h6c2FaRmhNbkhyVG04VXFUVUktcGI3UUUtT0xzWW9ma0JjZUVlUWRRTFM?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:03:16.528350Z",
+  "collected_at": "2026-09-02T17:18:13.189554Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.210633Z",
+        "fetched_at": "2026-09-02T18:38:10.773940Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.210642Z",
+        "fetched_at": "2026-09-02T18:38:10.773958Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.210647Z",
+        "fetched_at": "2026-09-02T18:38:10.773967Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.210651Z",
+        "fetched_at": "2026-09-02T18:38:10.773975Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.210656Z",
+        "fetched_at": "2026-09-02T18:38:10.773983Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.210661Z",
+        "fetched_at": "2026-09-02T18:38:10.773991Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.210665Z",
+        "fetched_at": "2026-09-02T18:38:10.773999Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.210670Z",
+        "fetched_at": "2026-09-02T18:38:10.774006Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,11 +320,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/anuragjhansi/",
+        "url": "https://facebook.com/https://www.facebook.com/anuragjhansi/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/anuragjhansi/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/anuragjhansi/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T17:14:34.316702Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -280,11 +358,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Jhansi MP reiterates UP’s one trillion economy goal - The Times of India",
+        "headline": "Thousands join kanwar yatra from Orchha to Jhansi amid aerial petal shower - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeEtZVEY4ODd1NU5ucndfblRwdC1vVl9Va1l4a3VBVXZxb3JEMjBGcHBUQm9CWElSZzlSb0hZMWpPRENRaVlYanhFQ0lLMmp1ajBSRHJyRlZxLTFiaFQ2ZjUxMjJLWU96bjdDazBqQjRDa01uaHJHX0NiMmlYUjhoOHRsd0p5d3IwNE5iZzZ1Y1NjNlNNYVl0NGpRcUl1MDdYa0d4S01TWGNPMEpWLTdaYUU1c1BlSHdReEtBY0FsSTF6QdIBxwFBVV95cUxNZGRVVDlzUDI1UEljSGRKRHJBWWRwZXowNFJweDRtc1BHdEZQZHlaUHpaQ0hTa0tocUVFSWs4dVpGNUc2VDF5T0FTMUNRcDFZcldPMkQ5V084MUo2NlQ0SmhZN0h5WEk5ZnYzb0ZDREpMMGY2RGM5eUdqMTFGTHVXcGE0VXFvV0o4YVVOVHE4Y3hEcXczY2R6d0NIOUhtQ0N2aWd4SktDdXg1SDZWNTZ4SnFRbnlXMnNzWVZDN25LRnl2OFhGdDlR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYzVZeVZUSGVxSVlpcXl4UWpyUkw3UWQwVXZYTVlGSzhBQUFCTjhKX1pXNkhCeThQWWdwSFZiQk4wN3N6SXRDZnh4TW04dERkbk1tdDJ3QnNJOVlDQU9vd2tsRjBHV09DQXBNZ1dXdUpobjd3aERCOWplT0h6LW4yQm1WSVBsTDhYY1BpQWF2QXZEOFkzUG81OUkwTWNhcE56WVIteUxyTmp6MW1sbmRKbFVMWjNZWWkxeGtjRHR1N3dJbU83VzdWN184VUpjbWNKZElSUEF4T0R6UmtPV3B4eHZn0gHnAUFVX3lxTFBhazFnNThCRUwyXy04Mzk0TFdzNEt3RHNockt1Um5QaC1NcnRlS1dRdFgzLWFnZVBpYkZPY1B6NEhMTlhSSlhOcWs1UTJ1eVlCUlNrVjhxcXppMVhaSlVSWnFkLU9mQTc0Z3NjcDVhcWNPbENldWQxc1JtWjM5NTdqcDh6d2dRWFBJS24wOGtLQXBtR2hSSTNWSTZWdGlteHJlRk1fOVI4aG5VeXE0dVprMkM3bWJfU0RadFUyQ1JuWGg0bmZJY24yWGtEbGhoY21nRGNkR1AyUklHWTJTVlh4b2F5dGJTOA?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -296,27 +374,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Jhansi MP Anurag Sharma Takes Budelkhand To Global Stage - Zee News",
-        "source": "Zee News",
+        "headline": "Jhansi MP reiterates UP’s one trillion economy goal - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVVKbERtLTAxQWdCbGZZdUxzREo4MGdCM00zaWV2RV9Dd05OUnd1d1dQY09TM3ROWmhNSXVkdjhKdGluYlliYnkwTFJqc3BzZWFyZm1KOHRVaFd5N3R4bUpIWF9OOFF5VzZndl9CeWtXdUh0a1RYWElWZ081dmVPT28wcy1zM09oNDlLWEZ6ckttMnpOR3ZtQXFGbkxLOEhudkR30gGoAUFVX3lxTE92MUloOFYtME5MZWZ1ZnpqZnp5c3hhdF9VOEZrenU3TDNXMkVjaDZSUXRjSTRJcXozczJ6MXZmSW9CWmhKdWNiRTVic0hEalRQVVk1OFh1Z0NOZ3dBNWZ3YkNIMjVhdGtLNHNlVTlJZk93UFExeml6SjlCeUFwNjFrdXduYnBScHF6dzczSFo3RTJPdlE4UjJTaElWdXJ2Q0NoQ0R6NTNhTw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeEtZVEY4ODd1NU5ucndfblRwdC1vVl9Va1l4a3VBVXZxb3JEMjBGcHBUQm9CWElSZzlSb0hZMWpPRENRaVlYanhFQ0lLMmp1ajBSRHJyRlZxLTFiaFQ2ZjUxMjJLWU96bjdDazBqQjRDa01uaHJHX0NiMmlYUjhoOHRsd0p5d3IwNE5iZzZ1Y1NjNlNNYVl0NGpRcUl1MDdYa0d4S01TWGNPMEpWLTdaYUU1c1BlSHdReEtBY0FsSTF6QdIBxwFBVV95cUxNZGRVVDlzUDI1UEljSGRKRHJBWWRwZXowNFJweDRtc1BHdEZQZHlaUHpaQ0hTa0tocUVFSWs4dVpGNUc2VDF5T0FTMUNRcDFZcldPMkQ5V084MUo2NlQ0SmhZN0h5WEk5ZnYzb0ZDREpMMGY2RGM5eUdqMTFGTHVXcGE0VXFvV0o4YVVOVHE4Y3hEcXczY2R6d0NIOUhtQ0N2aWd4SktDdXg1SDZWNTZ4SnFRbnlXMnNzWVZDN25LRnl2OFhGdDlR?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Political Profile of Anurag Sharma, Bjp Party, Jhansi, and Net Worth - India TV News",
-        "source": "India TV News",
+        "headline": "UP Crop Insurance Scam: Fraudsters Claim Insurance on BJP MP’s Land, Multiple Policies Issued on Single Record - The420.in",
+        "source": "The420.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaGFNRHFKSEh3T1RJQUhDMlZsbWU1MmVuZHgwWWp3bm85NlRYQnRUUVVXeVJrTTNvbkk4cVBrSUVza3FROEoweVVhbmtPNTlQdHNsUFo2MDVZVmg2NUhNTGFHVXpZWjN5YlJCRG5xbHRPUGxBY0FsV3B0SE8xYUZ1YXdrQUFZYUpZTmMtQXozM3Jlb2lfakdZWkdxWi1yU0VtYmltWE56T3hNYUdiOWtGVVZWd09BUGhVWU9PMGFaUDd4ZURCa2tPNUxsSTlaM0tSeVlURHNRUTN6WU1mNnc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSEVkVklmU29hTXp2T0lndmNZZFRmQV8wT18zUEpzb0JLbTdlMGhMYXlCSFhaLWZ1YXlsWnFnZDJCVnJzVEJ0YVJ6MjZKRDdwalhnSzVJbG9YYjFyYWhNNENINjdscUlvVmRua1lUbkxyVWdUZ3BBamhWS094N2J5M3lIaG95OWZlcmxj?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Ministry of Cooperation: Consultative committee constituted, all new faces except Jhansi MP - Indian Cooperative",
-        "source": "Indian Cooperative",
+        "headline": "Anurag Sharma , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa19rbGpkenBRUzk4UngwMnZ4OWtpRUEzWXhxN1YyeC1VTHFWTUJEZHVJZzBhZ1VQZzIxOHEzOUV4eU9xcTh4eVhoVnRDOTNxeFZETFRNa2cxMloxTEVVZWpDcUdYTUpLNUZqM1BoaEFObk9hLWhJZzhxZW5GY1JHdmhhR3NJMFUxcmlSTE5JSUYxdjliYzl6SUM4dHFUbFZJTkl4X2dMa2xwdVdkOGIwMzVRQ0JtelJRZFpJcTU1WksyQUZHSW5qLUFSTENkeFJFZEHSAdcBQVVfeXFMUC1NSWtXSW1vU1dVdnZDeFpwVHB4SE9sUVVUQUVlYVhTanpKa3U3cW9zV01NdmJ3NkpYNnNUaHNsMVhDbk1WVGc1M3d4Vk15YTF0Y2RWMVlyX2k5R2JFZjh5eWFuR3pyZzE5TzAtVnN5TUFiV0RBU3l2YVNKbmxpcnNWYTRuV2FIYVFwcHJTRzBQcTNid0F3TG5jaFJZc0FJTmxWZ1dUVW1EdUVQd0RSQklldURlOGpKR0hmS0ZQYWNtbzcyQmNqTkRObVJIQmJ1eG1veG9PTzQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFIwNGJQRXQ3MWstWFRJLXFsU3dNejZvRTFrLVBRZ3B0bGlJZ083TkkwWm00S3NzQmwzR3N6X01EdXNLdldsck15SlVhemFNUkZtVXdvOXVCR1h6c2FaRmhNbkhyVG04VXFUVUktcGI3UUUtT0xzWW9ma0JjZUVlUWRRTFM?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +428,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 49,
+    "starred_questions": 14,
+    "unstarred_questions": 35,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 94.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +444,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

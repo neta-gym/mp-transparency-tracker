@@ -4,16 +4,16 @@
     "constituency": "Bhadrak",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 9413,
+    "myneta_candidate_id": null,
     "slug": "avimanyu-sethi",
     "house": "lok_sabha",
     "sansad_member_id": 5610,
     "profile_url": null,
     "canonical_name": "Avimanyu Sethi",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 53,
+    "age": null,
     "photo_url": "/mp-photos/5610.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:47.556208Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 70794290.0,
-    "liabilities": 10659172.0,
-    "net_worth": 60135118.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9413",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.710189Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 48.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.59,
-    "expended": 1.31,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:24.489208Z",
-        "notes": "Official eSAKSHI REST API — Works: 271 recommended, 203 sanctioned, 12 completed"
+        "fetched_at": "2026-09-02T14:46:42.961485Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:43:03.344977Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:43:03.341995Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 271,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 8.91156462585034
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:16.728824Z",
+        "fetched_at": "2026-09-02T14:43:03.340897Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Bhadrak election results 2024 : BJP's Avimanyu Sethi triumphs in Bhadrak Election, Defeats BJD's Manjulat - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQbklUOEdENHdUM1R2eHRWNlpGVklCMUdESGlndWRTWS1mN0U0anh4N2hUVVFNa3V3UHplUlhsM29WdVhhcTdwb2ZmeUQ2cEt4NF9GRUE3aGxkX1hIMTg0RktzRmVzTDF6eHJXNlhMVnNMVFRwRWppTnd5elotRjh3dFNIMFpfR2RFdkpwN3l3WURjd3dkTXl0U19BUUdxcVlRejZ1LTVPVzMwX25maFhrcjZzcWtxTGJ0enJfR1ZCcmh4cWhLNUxqdTg4SkxBTENQNDJmS1BJTFVUWnR5SjRnTnl2Y2tGckdOMmVVVWJoR24td2gtbVJiN1RGYWtWSi11aHhtd25xSTRkUllKVEswSk9TQWx1R3dNVC1GTHdWdmM5aTRvenZrdHNMOWxacll0ajJjQ3h2MnM0RFFDQmtOSTVaN2k4NUdXaElILUE1Rm1YN1JO0gHaAkFVX3lxTE8tY3FjNkR5ejJab2NUd1dSSU54dTNTSkFrWTA0X0daa1BnVmszTDdBSm02bldGMEFvOGllUzh2SWc2d0xBZHo0Z2JBX01VakVMOG52SWljVldsNG4yOFN6VEloMFN5V1I1bXNaRnJyX2QzZGN1VS1NeHF1VG1mZXhzUllid2NoNzBZM0JreFk1VURMdWo3TWV0TUluTjIzWGY0QlI3NTBSazRSSVY4eFFuSFNaT3J5WE1jZFQ2Ujl3RlFSaW1SVkFPa1dacUtpX2pnc3FCSUNPMFluTmxFQ0VMM2tqLXJOeFhqdTlLSzEyakVfYVRUWmY4MnduOHk1SjNWQVl6N242M2ZYRDQzOGFFWHZObGRpVDdLaFUxdElOb3BXYkFGQmFUMkl0Qm9KR19QQkI3dV90aHZtSjFXRHZzXzB2OWFadHRHeUNQa3JLU2pzWkNsanBQU1E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Odisha: Will BJP choose Suraj over Avimanyu for Bhadrak LS seat! - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUZMM1MwX2RQb19EMFZGWUJjT0tIalBXTkc2d01XRTNiVXdIbUhLODU4NFlkVjRjNXZuS0k4ZEZFcEVlVUxFTGdRQzlONHA5TmdvUHp0TVFTNEkxbkhhUnBqbjAxeVNGemRpNW1vQWFuNWw3c2FuS2hBcVdBbFN4U3I3akJRSGloX001b2hxNG54alh4YkNRMVlJaUxRSEtNSHNabGxLSzg2MVdQZzMxMmZrcnBPQ0oyUTd6eXh30gHLAUFVX3lxTE9weVBqUWhsbUhySjk2bmI1aWZYQ3Z5ckZXcGotQ0drRkQ2LWhHR1hPTU5neFhBSXZZNW9KVnQ1UXUwTm1DMmFzS21HdnlmTDFONWR4OXZ2VFJ3ZjRhdjhYSzYyYjdFMHFCTGc3VXFuRGM3SUQxS0VBNkw1TzhZNlFtbG56cDZzNG1NM09hQlo1MmFBa2dGZThSaWFCVjZ1QmhnaVJtZjVyTjhJVG5hQU9HVjMtSy1qWjhiRTlyTXhQZ3F5WnlfX2N6NERj?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bhadrak lok sabha election results 2024: Bhadrak Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGZndVFPbXNNaGNRRjI0UWE4LUdtVzF3ME5sdVFmdXlKc0s5U0M1Z2gxUldKTmNmdGY1bndkdVE1WV9zaU9Da0h4WVNVWEVsTGYwWXJDWndvbmozVlFNYXdLNHZua3VNS0E0TmxhRVc1Zlp2YWo2N3NqV1NyWFpxb1Z0eUlwckVlSV9vMURyUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "In Bhadrak, incumbent BJD MP to face ex-MP’s son & Cong veteran - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0tqYmpBVEp0NlZLREFsZlhxMEVFTUVsM1VUSnYtREdvR2poQm8yWThMZmRfOWN5OUhXNTlURi1KTXZmaWw1Z1ctbFpmeWJpZHQxNjJWMlBDVHpmVUNFdi1Jc1p2ampSMEVBc0NfeFJtc1N4ZHZHa0J0aW9xMGwxQmZrd0ZYTVRSNzFfcERSa1F0aUNrQjQyS3QzVDRZdnRnMzZKazhhbUF3OFZDZXVfU0pQci1CR2phMmlkbVVTbTYwWFQ0aVF5VlNaLUhmb0VLcFdmS9IB2gFBVV95cUxPQkw4bWRtaXF0SVFGM2RiM2Q5bnk5djIxNkRYWmJ5bjc2eFdrUFNWRGJWWEpsTzFTdndxX2RSRmFpYnY3YXp5T0FmV09YcU1XM0xjcmNvSUNjWUZ6YTUyenJTLXNrNlFsb1dPVU5OeDI2UkFyN29PbG9rVXFwRnJXcjJvelF3T3VCU0dHMnhmUHcza2ttVmc5d0FGNmRXdkh3bU9TYVNtOUFxMDFKYUlMRWtDVUpwdENTeG95em93T3dOLUs4d0xmMnpIN2NTTk9aR3R2YWFaUVFaUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Baton passed, fight to carry forward political legacy in Bhadrak constituency in Odisha - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV2dPNXBLUEd4VFZMeTQ5bVdhR0Z6aWFnZjIybHhpWnpfdDZfMk5mM3p1bUxseHliQTFXLXRWa0tVQWpPamRSOHRYQ1ItcmRpb3Uwcmd0dkYxOWVkSlRDVFZDcVY5SGE4M29sc0xNM3FveUkyV1JJMzBMT09KTGZnLXNEOWY1MkJwLWVlazFuVkdIVVNvVzI0LWtfLWJhZS05LU1Ha1Z0dXlmSnR3LTA3MHpqdWVnblVDbDVyRFlybFg1d1UzdGJ2MlVyRGtPMW90Z0ltUWZ6ei1EQXFYQWdRMUpfQ3Y4SXRxWm0tUG5vc9IB_AFBVV95cUxQQ1RkNGxzUXNPVVFlZ2tEeXJGeVg0SlVSY0RkTmlZXzltQjkwUVJaTnM5TWFjU2ZXN3l6NTVpODVRb0FBejA1eGY2YWFsbGV6R0FUTUlEX0ZoYUd1dW0yTEFVMmVoTV9IVjBCTUVfVm1KNHBON0Utc1FycEw0YmlJUmlKb3JpSnlwcVB4c0pnaFZwZ19oOVkxZm1pQnczV1pGbkVfcHRXYW5JM255WG1RWVZlZTJuaWJIQjJCQ01sMW5HbnpsbThHVl9uSVVFV09nV3RFRElVLTRTR3pidTNLaURMd0JGTm43V2tfbFAzMXVkMnZkcDhzZDVYNHU?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:22.880732Z",
+  "collected_at": "2026-09-02T14:46:42.962668Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.193472Z",
+        "fetched_at": "2026-09-02T18:38:08.704410Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.193506Z",
+        "fetched_at": "2026-09-02T18:38:08.704422Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.193512Z",
+        "fetched_at": "2026-09-02T18:38:08.704428Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.193517Z",
+        "fetched_at": "2026-09-02T18:38:08.704433Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.193522Z",
+        "fetched_at": "2026-09-02T18:38:08.704440Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.193527Z",
+        "fetched_at": "2026-09-02T18:38:08.704445Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.193532Z",
+        "fetched_at": "2026-09-02T18:38:08.704450Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -272,11 +325,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Political Profile of Avimanyu Sethi, Bjp Party, Bhadrak, and Net Worth - India TV News",
-        "source": "India TV News",
+        "headline": "Odisha: Will BJP choose Suraj over Avimanyu for Bhadrak LS seat! - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnJCLW53ak15MzRaSHpRX1RYOWMyRzZ1czlmOVluLXFhZVduUUVaVmt3X0tDdVdOSVhFM2xXSTZ6UmJ4MktRWWRtNHdzVDgtMVJDdDRtUy1wNkRlWUxQQUJ3QjhhLUdNMWUwX2hldjlBVy1UTmRiRWRGY2NXRzRjYWdJZkh2S1BCeklObFk1TzlXMER1Wms3QXc1VFdob2FkWjJGNDdIeDltb2xCOUJxaGVUSFk3WWtMaG9oSC15anBEbGVpN01Ld1o0QllWSDhhMXg3QzVMQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUZMM1MwX2RQb19EMFZGWUJjT0tIalBXTkc2d01XRTNiVXdIbUhLODU4NFlkVjRjNXZuS0k4ZEZFcEVlVUxFTGdRQzlONHA5TmdvUHp0TVFTNEkxbkhhUnBqbjAxeVNGemRpNW1vQWFuNWw3c2FuS2hBcVdBbFN4U3I3akJRSGloX001b2hxNG54alh4YkNRMVlJaUxRSEtNSHNabGxLSzg2MVdQZzMxMmZrcnBPQ0oyUTd6eXh30gHLAUFVX3lxTE9weVBqUWhsbUhySjk2bmI1aWZYQ3Z5ckZXcGotQ0drRkQ2LWhHR1hPTU5neFhBSXZZNW9KVnQ1UXUwTm1DMmFzS21HdnlmTDFONWR4OXZ2VFJ3ZjRhdjhYSzYyYjdFMHFCTGc3VXFuRGM3SUQxS0VBNkw1TzhZNlFtbG56cDZzNG1NM09hQlo1MmFBa2dGZThSaWFCVjZ1QmhnaVJtZjVyTjhJVG5hQU9HVjMtSy1qWjhiRTlyTXhQZ3F5WnlfX2N6NERj?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -288,19 +341,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Odisha: Will BJP choose Suraj over Avimanyu for Bhadrak LS seat! - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "In Bhadrak, incumbent BJD MP to face ex-MP’s son & Cong veteran - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUZMM1MwX2RQb19EMFZGWUJjT0tIalBXTkc2d01XRTNiVXdIbUhLODU4NFlkVjRjNXZuS0k4ZEZFcEVlVUxFTGdRQzlONHA5TmdvUHp0TVFTNEkxbkhhUnBqbjAxeVNGemRpNW1vQWFuNWw3c2FuS2hBcVdBbFN4U3I3akJRSGloX001b2hxNG54alh4YkNRMVlJaUxRSEtNSHNabGxLSzg2MVdQZzMxMmZrcnBPQ0oyUTd6eXh30gHLAUFVX3lxTE9weVBqUWhsbUhySjk2bmI1aWZYQ3Z5ckZXcGotQ0drRkQ2LWhHR1hPTU5neFhBSXZZNW9KVnQ1UXUwTm1DMmFzS21HdnlmTDFONWR4OXZ2VFJ3ZjRhdjhYSzYyYjdFMHFCTGc3VXFuRGM3SUQxS0VBNkw1TzhZNlFtbG56cDZzNG1NM09hQlo1MmFBa2dGZThSaWFCVjZ1QmhnaVJtZjVyTjhJVG5hQU9HVjMtSy1qWjhiRTlyTXhQZ3F5WnlfX2N6NERj?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0tqYmpBVEp0NlZLREFsZlhxMEVFTUVsM1VUSnYtREdvR2poQm8yWThMZmRfOWN5OUhXNTlURi1KTXZmaWw1Z1ctbFpmeWJpZHQxNjJWMlBDVHpmVUNFdi1Jc1p2ampSMEVBc0NfeFJtc1N4ZHZHa0J0aW9xMGwxQmZrd0ZYTVRSNzFfcERSa1F0aUNrQjQyS3QzVDRZdnRnMzZKazhhbUF3OFZDZXVfU0pQci1CR2phMmlkbVVTbTYwWFQ0aVF5VlNaLUhmb0VLcFdmS9IB2gFBVV95cUxPQkw4bWRtaXF0SVFGM2RiM2Q5bnk5djIxNkRYWmJ5bjc2eFdrUFNWRGJWWEpsTzFTdndxX2RSRmFpYnY3YXp5T0FmV09YcU1XM0xjcmNvSUNjWUZ6YTUyenJTLXNrNlFsb1dPVU5OeDI2UkFyN29PbG9rVXFwRnJXcjJvelF3T3VCU0dHMnhmUHcza2ttVmc5d0FGNmRXdkh3bU9TYVNtOUFxMDFKYUlMRWtDVUpwdENTeG95em93T3dOLUs4d0xmMnpIN2NTTk9aR3R2YWFaUVFaUQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Eight-time Bhadrak MP Arjun Sethi joins BJP - Kalinga TV",
-        "source": "Kalinga TV",
+        "headline": "Baton passed, fight to carry forward political legacy in Bhadrak constituency in Odisha - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yWkJ0b3FDcFFhQWNXajhoeE02am1BWnJIQ1NaY25EYzZDalA4a3QxVDRIZVBWR0ZxSjJSVFU2cTZjT25IdUxPa3RyS2ZlYjhXZGJ1d2M4WlVhdEM0dVY2YmVqZzFFaEg3bW9ScVFENi0yell0U05nOHYwdHAwQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV2dPNXBLUEd4VFZMeTQ5bVdhR0Z6aWFnZjIybHhpWnpfdDZfMk5mM3p1bUxseHliQTFXLXRWa0tVQWpPamRSOHRYQ1ItcmRpb3Uwcmd0dkYxOWVkSlRDVFZDcVY5SGE4M29sc0xNM3FveUkyV1JJMzBMT09KTGZnLXNEOWY1MkJwLWVlazFuVkdIVVNvVzI0LWtfLWJhZS05LU1Ha1Z0dXlmSnR3LTA3MHpqdWVnblVDbDVyRFlybFg1d1UzdGJ2MlVyRGtPMW90Z0ltUWZ6ei1EQXFYQWdRMUpfQ3Y4SXRxWm0tUG5vc9IB_AFBVV95cUxQQ1RkNGxzUXNPVVFlZ2tEeXJGeVg0SlVSY0RkTmlZXzltQjkwUVJaTnM5TWFjU2ZXN3l6NTVpODVRb0FBejA1eGY2YWFsbGV6R0FUTUlEX0ZoYUd1dW0yTEFVMmVoTV9IVjBCTUVfVm1KNHBON0Utc1FycEw0YmlJUmlKb3JpSnlwcVB4c0pnaFZwZ19oOVkxZm1pQnczV1pGbkVfcHRXYW5JM255WG1RWVZlZTJuaWJIQjJCQ01sMW5HbnpsbThHVl9uSVVFV09nV3RFRElVLTRTR3pidTNLaURMd0JGTm43V2tfbFAzMXVkMnZkcDhzZDVYNHU?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 5,
+    "starred_questions": 1,
+    "unstarred_questions": 4,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 9.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

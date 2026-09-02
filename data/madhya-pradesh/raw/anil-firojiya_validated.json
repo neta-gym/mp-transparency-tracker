@@ -4,16 +4,16 @@
     "constituency": "Ujjain",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5170,
+    "myneta_candidate_id": null,
     "slug": "anil-firojiya",
     "house": "lok_sabha",
     "sansad_member_id": 5071,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 52,
+    "age": null,
     "photo_url": "/mp-photos/5071.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Ujjain",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 5170,
+      "myneta_candidate_id": null,
       "slug": "anil-firojiya",
       "house": "lok_sabha",
       "sansad_member_id": 5071,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 52,
+      "age": null,
       "photo_url": "/mp-photos/5071.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:55.896459Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 88159766.0,
-      "liabilities": 30346543.0,
-      "net_worth": 57813223.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5170",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.728426Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 54.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.95,
-      "expended": 6.75,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:27:23.506612Z",
-          "notes": "Official eSAKSHI REST API — Works: 245 recommended, 239 sanctioned, 88 completed"
+          "fetched_at": "2026-09-02T15:01:45.437820Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:58:05.805450Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:58:05.802416Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 245,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 45.91836734693878
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:32:21.584674Z",
+          "fetched_at": "2026-09-02T14:58:05.801220Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Row Erupts Over Load Testing Of Ujjain Overbridge As Owaisi Takes Jibe, BJP MP Hits Back - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFBoR0JZZDhCOXh1WC1jcDRwQXFjUnZFam1SUnRGNEpQWlY0alRpUlpZZGFZQWVtVGJvcWNLaHNaQXJhWDREb1lVa1lRYWNsZkVyQkNDZ0EwRDVwVHc0WDFseEh5WlBUT1pkNFlLVWtqbEp3N21fcjZscUtIOHJCUVBZc1U2ZURhUmtSaXQ5d2lKWHcyR0xfenFVSS1pMXhZaG84dUg2Q0hOa0VCSmJ0aV9jVnMzZk1PUUgwREFXcDMtMXA1dWJ6dS1JVURpR25HTVRr0gHYAUFVX3lxTE5ZS0Z6UjYwaVo1VC1oZzloZWtzWTN2dTJqM2lFR0V3UVc5N3d0RWw5c2tBRy1xbmVqU3h0c29YQVNDbGJZV0ZPVUdPdzZmMTZkYzNaTHNvbXRZNEFUYmpVamNwTHlNQW1nOG9mb21LRkV3MmZCeHVTVS1KbkNaeExZdEdsSVlyRnBadzJ1Nk9ZMEZDT0MtaTRCRkdhOERaUXJDQU5ONTdwdTAydHZveXVRdmVSTEtKakJrbnJqd2RDRXl3RGJWbzBvRDZQUVQ3ejVEbTI5ckZOZg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "​A Somber Homecoming: CM Mohan Yadav pays tribute as Ujjain student’s remains arrive from Canada - The Assam Tribune",
+        "source": "The Assam Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPam5qTWRzYklyaFNtdGVuekxDT3FpR0pITzBkMTJnLXVHNDRTQzI3R1Q4MjRJbGhmOU1OZERiV0YzOWhhT1R2TkZjYUdxZ0Yxc2tHSXozcE9uMTJ5cXUyMmgwemJTSXlqbklpajVNSWItMVkxT3BLR1VfRk00LWRhdER4VlAyRjVua3BMSDlubUVIYmFLRndDdS05MldEdWpPMUVhMkNGS2pEd3loU1ZCcHMxLUtjcHJVeE5ERDZpT1dwLUNNMG9Mck1HVlV1NnRH0gHWAUFVX3lxTFBKMHk4a0k3dklQN0w4WlQxUTZQZ2F3WnFIZjhuUGEwZGFfVWFHemhHWFJVTWJ0cEFpVE1HQWd2ZVNHc1F3MWkwbVo4ZV9wbTJwNU1ZRjRycTNyaFBjb0hGUjVqeXRsTTVYb1AtNzh0bEJmZllncVY3eU1KUUoySFNfd3ZLYWpHRlQ3elpkVjJyclliWFZMZW9MdVd6TkNrSExiMWhlZHRhUWRMX09hSWwwTUlVYm81d3o3ZV9ZZ0o4ZWNmTXEwYXc4UDlXR1ZoMm05bmF5dlE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Anil Firojiya , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUURocldWVTBjZXNCWlBLb1NTNUlKR0JjTzFQVm1vbHdqYjBzRVdNOFlPcFl2aXRtaldXMmowV3pxWDJaYXpJQkY3ZmtxLWZGUWVMNHFVQmVkdTBmeXZla1NHV1pHZnpUaGpYUld1M1pZcGpUVlJTYTdLSnBjMmU1djFMNVA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ujjain: BJP MP Anil Firojiya takes up Nitin Gadkari's challenge; demands Rs 15,000 crore for shedding fla - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUGxURi02SUY1R09TY24yUy1RLWZvTVVOc3hGbDlRWjBOeHlsSzhfOEhBZW1JSW1xSm9ZOTRpSXBGMlVBaVRTLXdrc3FiMmluVjJmMzFmSHhxaDRON1BnMU01S25kYTdMUlhkdkpNRXNQbkpvOC03WFFwUXgxY2ZFdzVvM1hxNFhwSldMUDJhZW5jclhncEFGNWJkLXRGN2tOWWpBSnNfbHUtYURZU0dKQ3FERXVoUTFUZk5iU0hvSFpWWmhCRGlaTlEzT05CZ1J1QUZDVjZZR2FDWnZDdXpKcHE2aFhqTWc1VHdyTFM5VDlNbENicDNLSTl0dk9wenlfWE5zSk5R0gGLAkFVX3lxTE52R0lzd3NOMExMb1ZqUFZEdFF6SXd6MUVyOFpQaU9xNDFZZG8wU01xV3ctRW96eHZCdmtMdmY1NnJUd0FlamNoUHBWTWpqaXV5eDBibVVXZDdSM0F0UDR4bVRXSVJ1SldEWWJfdFFyRERZX2d5LU5HT0lvd012SXV2VTQxMk1uenE1Q0dwd24wLVVJcS1PTTBiUk85MDhXZUl0T3VoYjBpWXkxV2tXLWpjTEVUdUhJTjJEVVZPQUIzVFlQdm81akxVU1dpMDdkVFRfRXVYNnFENnlja0lwb0RjbUF3dVMtX0VBbnBySzZXY0V6TDk2dEY3VFliT1pOU2hwZnJycEgtdEZYaw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ujjain MP Anil Firojiya sheds weight for funds for constituency - awazthevoice.in",
+        "source": "awazthevoice.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORzljQXdaaHlFX0x3Zi1ldEFLY1A1dnRiQ2lWcXRYaUc3SkdVM3p0UTdfcklCMEN5YVZQZ0NCMW1PeFFsdWhHaFRYWTNIT3NwNGZBSGJTYkh4QURXOGF1SGFZRFk5MG9aZXY0R01iT3FSaDZscFJtOWRFNngwNGlWc25MSExNZWpqVGdJdWJxc0lpcUluS3Jad2tGR2RrQ3lkQVlFSGdMQXJiT3VxZFBVOXA4SQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:33:12.660921Z",
+    "collected_at": "2026-09-02T15:01:45.438877Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.737427Z",
+          "fetched_at": "2026-09-02T18:38:07.215549Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.737437Z",
+          "fetched_at": "2026-09-02T18:38:07.215561Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.737443Z",
+          "fetched_at": "2026-09-02T18:38:07.215567Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.737454Z",
+          "fetched_at": "2026-09-02T18:38:07.215572Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.737460Z",
+          "fetched_at": "2026-09-02T18:38:07.215578Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.737465Z",
+          "fetched_at": "2026-09-02T18:38:07.215584Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.737470Z",
+          "fetched_at": "2026-09-02T18:38:07.215588Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.737502Z",
+          "fetched_at": "2026-09-02T18:38:07.215592Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -298,43 +351,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Ujjain MP Anil Firojiya reduces 32kg after Nitin Gadkari challenged him of 'shedding flab' - The Times of India",
+          "headline": "Row Erupts Over Load Testing Of Ujjain Overbridge As Owaisi Takes Jibe, BJP MP Hits Back - ETV Bharat",
+          "source": "ETV Bharat",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFBoR0JZZDhCOXh1WC1jcDRwQXFjUnZFam1SUnRGNEpQWlY0alRpUlpZZGFZQWVtVGJvcWNLaHNaQXJhWDREb1lVa1lRYWNsZkVyQkNDZ0EwRDVwVHc0WDFseEh5WlBUT1pkNFlLVWtqbEp3N21fcjZscUtIOHJCUVBZc1U2ZURhUmtSaXQ5d2lKWHcyR0xfenFVSS1pMXhZaG84dUg2Q0hOa0VCSmJ0aV9jVnMzZk1PUUgwREFXcDMtMXA1dWJ6dS1JVURpR25HTVRr0gHYAUFVX3lxTE5ZS0Z6UjYwaVo1VC1oZzloZWtzWTN2dTJqM2lFR0V3UVc5N3d0RWw5c2tBRy1xbmVqU3h0c29YQVNDbGJZV0ZPVUdPdzZmMTZkYzNaTHNvbXRZNEFUYmpVamNwTHlNQW1nOG9mb21LRkV3MmZCeHVTVS1KbkNaeExZdEdsSVlyRnBadzJ1Nk9ZMEZDT0MtaTRCRkdhOERaUXJDQU5ONTdwdTAydHZveXVRdmVSTEtKakJrbnJqd2RDRXl3RGJWbzBvRDZQUVQ3ejVEbTI5ckZOZg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "​A Somber Homecoming: CM Mohan Yadav pays tribute as Ujjain student’s remains arrive from Canada - The Assam Tribune",
+          "source": "The Assam Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPam5qTWRzYklyaFNtdGVuekxDT3FpR0pITzBkMTJnLXVHNDRTQzI3R1Q4MjRJbGhmOU1OZERiV0YzOWhhT1R2TkZjYUdxZ0Yxc2tHSXozcE9uMTJ5cXUyMmgwemJTSXlqbklpajVNSWItMVkxT3BLR1VfRk00LWRhdER4VlAyRjVua3BMSDlubUVIYmFLRndDdS05MldEdWpPMUVhMkNGS2pEd3loU1ZCcHMxLUtjcHJVeE5ERDZpT1dwLUNNMG9Mck1HVlV1NnRH0gHWAUFVX3lxTFBKMHk4a0k3dklQN0w4WlQxUTZQZ2F3WnFIZjhuUGEwZGFfVWFHemhHWFJVTWJ0cEFpVE1HQWd2ZVNHc1F3MWkwbVo4ZV9wbTJwNU1ZRjRycTNyaFBjb0hGUjVqeXRsTTVYb1AtNzh0bEJmZllncVY3eU1KUUoySFNfd3ZLYWpHRlQ3elpkVjJyclliWFZMZW9MdVd6TkNrSExiMWhlZHRhUWRMX09hSWwwTUlVYm81d3o3ZV9ZZ0o4ZWNmTXEwYXc4UDlXR1ZoMm05bmF5dlE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Anil Firojiya , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUURocldWVTBjZXNCWlBLb1NTNUlKR0JjTzFQVm1vbHdqYjBzRVdNOFlPcFl2aXRtaldXMmowV3pxWDJaYXpJQkY3ZmtxLWZGUWVMNHFVQmVkdTBmeXZla1NHV1pHZnpUaGpYUld1M1pZcGpUVlJTYTdLSnBjMmU1djFMNVA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Ujjain: BJP MP Anil Firojiya takes up Nitin Gadkari's challenge; demands Rs 15,000 crore for shedding fla - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZzBkZUJMZFFYd3hUTndGcHVISy1lbEFmZE1BNHc4WjFCaTRBeThhdVZhYjRlZnEtbUhDRnhtb1MzQmtya0YtWC1MWWlsdVQ1Ukg5ZWFGdHB4UmZzVnB1dENodExwTmlFYW9XdjJ5Z3F5UkJNbDhKcEhTek5Mb0VSX29TZ3drNURTV1ZRem1aWU9SSXFjRVR0dnlRa1gzQXd5OUs5Z2k4ZzVaRTczZVNMaE1XcVVtZld5Y1c5MnBHU3UyQ2dtSHVnOGktQWE0MnRoVlA3cEZ2U05tcWprQ0VfNzR6eFBmaG5Sd0ItV1dnbmdVRjN4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUGxURi02SUY1R09TY24yUy1RLWZvTVVOc3hGbDlRWjBOeHlsSzhfOEhBZW1JSW1xSm9ZOTRpSXBGMlVBaVRTLXdrc3FiMmluVjJmMzFmSHhxaDRON1BnMU01S25kYTdMUlhkdkpNRXNQbkpvOC03WFFwUXgxY2ZFdzVvM1hxNFhwSldMUDJhZW5jclhncEFGNWJkLXRGN2tOWWpBSnNfbHUtYURZU0dKQ3FERXVoUTFUZk5iU0hvSFpWWmhCRGlaTlEzT05CZ1J1QUZDVjZZR2FDWnZDdXpKcHE2aFhqTWc1VHdyTFM5VDlNbENicDNLSTl0dk9wenlfWE5zSk5R0gGLAkFVX3lxTE52R0lzd3NOMExMb1ZqUFZEdFF6SXd6MUVyOFpQaU9xNDFZZG8wU01xV3ctRW96eHZCdmtMdmY1NnJUd0FlamNoUHBWTWpqaXV5eDBibVVXZDdSM0F0UDR4bVRXSVJ1SldEWWJfdFFyRERZX2d5LU5HT0lvd012SXV2VTQxMk1uenE1Q0dwd24wLVVJcS1PTTBiUk85MDhXZUl0T3VoYjBpWXkxV2tXLWpjTEVUdUhJTjJEVVZPQUIzVFlQdm81akxVU1dpMDdkVFRfRXVYNnFENnlja0lwb0RjbUF3dVMtX0VBbnBySzZXY0V6TDk2dEY3VFliT1pOU2hwZnJycEgtdEZYaw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Ujjain MP Anil Firojiya says he lost 32 kg after Nitin Gadkari challenged him to 'shed flab' - The Economic Times",
-          "source": "The Economic Times",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZnZtc1JSemNCTnhDaEFIa1VCUllmOGZDNjQwNDVpVG1iU0Z6LUNEbW1oVFRYQm9lV2dQQkJ1bkRyUnEzVk9GLXJuR1F6ZmNnWGtLNDltWUFFbzR6Ym5LbG9iemJqT1Vpcy1peWRVSnlDeXF3SzFUX0x1WjhSbTduR2Mwb0JNOVdlbFpHcG1XaEtDQmJQRTNXZ0JOYUJZWkVPZmtVWUhBLW5DdnRoMDM3bFAtSUJfS25wTkh2QzI5X09TbHRPQVM1c2NmaHFYa2NVYzNWSkc0R09sakxnNlM0NEJPOUtmNmIwclQwamJJYjQ3QdIB9wFBVV95cUxORzljQml1R1BMeng2a05uc1pzcS1jUm5TYzJnMEY3V2xlSTZjbGJXTlBHNng2SzFPbENvejJ0cEZpb3FjRXN5cE0xYjZuc0VtbjNKZlA3Xy1fb2o5bHViUHF6NE9KRmRnb0JrSHkzWjhVbklxT1p4OG1pTkNCRmNDS0lMc0lnTmdTcDNaaG9DY3JzcUhLdGFVdlFJclY4SnNuZF9ZTGxnYi1yaWJod1VySVF3QTFoejNDVVFFV3FNTEQ0QnZ1T3ZKTldFaE41QkI5ajlkckJ0M1l6YmI1d1FySTIzek43SktGYjBwOWs0TExLS0tZalB3?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Ujjain BJP MP Anil Firojiya Rode Without Helmet, Then Paid Rs 250 Fine On His Own - NDTV",
-          "source": "NDTV",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYU5NU1gzYzl1MTh3S05rNDJ5STBSYTE1SVdnVXFuUG4zYjY4VDhNbDVROUFUZ1NkUWpKR2JJYk9PaHNWMlM5TE5fa1ZmdTFIckxYalV5bGxtQjJVRm43a25QalByeU1TTm9kUExJQ1VFN2d5azlNQjJkVHl2Uzc1YWdxM2JOTmlnYnlya2d6TExMY3FuM0RmZTJnR281enBrVGUxRERQMWhIOERrZThPd1FDU2lTOEJWaDIycQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Ujjain MP Anil Firojiya sheds weight for funds for constituency - Awaz The Voice",
-          "source": "Awaz The Voice",
+          "headline": "Ujjain MP Anil Firojiya sheds weight for funds for constituency - awazthevoice.in",
+          "source": "awazthevoice.in",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORzljQXdaaHlFX0x3Zi1ldEFLY1A1dnRiQ2lWcXRYaUc3SkdVM3p0UTdfcklCMEN5YVZQZ0NCMW1PeFFsdWhHaFRYWTNIT3NwNGZBSGJTYkh4QURXOGF1SGFZRFk5MG9aZXY0R01iT3FSaDZscFJtOWRFNngwNGlWc25MSExNZWpqVGdJdWJxc0lpcUluS3Jad2tGR2RrQ3lkQVlFSGdMQXJiT3VxZFBVOXA4SQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "BJP MP urges PM Modi for permanent deployment of CAPF at Ujjain Mahakaleshwar temple - ANI News",
-          "source": "ANI News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS2Q1ZFNXaHExRHl1bjBOQUhweXE2YkozaFRuSzhZRUxRdjZQZ3IyeUVhVlkxMzdpdjlONk9WT3JxVWVkcTNCOFg2czlLaVNRNldYa1lrdmJvYUpEVWxzbktEWTQ5dlJ4RjVCTjJLb3FDY3hBcjN1Q3p6eWZhc0U5VjZlMjZLVXBmbjYxd0dzUGZQcnQ2VURDNDktUW44eGI2UDZIdDBjWUtkZzFOZHFFYzFRSzdEaXB1WDZYdkJJQjFPeFFHLUZXdzY2ZVE5anJQVHZkbDdQRXZlYWI2LWtrRzFB?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +421,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 25,
+      "starred_questions": 7,
+      "unstarred_questions": 18,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 48.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +437,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +495,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 88,159,766. MPLADS utilization: 45.9%. Parliament attendance: 90.0%. Questions asked: 25. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:49.738210Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 25. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.216420Z"
 }

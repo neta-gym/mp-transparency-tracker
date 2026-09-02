@@ -4,16 +4,16 @@
     "constituency": "Chennai South",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 100,
+    "myneta_candidate_id": null,
     "slug": "t-sumathy-alias-thamizhachi-thangapandian",
     "house": "lok_sabha",
     "sansad_member_id": 4961,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/4961.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:31.957580Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 148658298.0,
-    "liabilities": 17199881.0,
-    "net_worth": 131458417.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=100",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.884209Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 66.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.03,
-    "expended": 2.38,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:48:51.301916Z",
-        "notes": "Official eSAKSHI REST API — Works: 28 recommended, 23 sanctioned, 1 completed"
+        "fetched_at": "2026-09-02T14:31:27.889476Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:19.175144Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:19.172948Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 28,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 16.19047619047619
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 55.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:10.648535Z",
+        "fetched_at": "2026-09-02T14:27:19.172073Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Chennai, meet your new MPs - Citizen Matters",
+      "source": "Citizen Matters",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RU0VhcjlFUTVRY1dHa2J0YndYZ0U0ekxiMDFkdTJLcU1RUTNlc0QyVkdkUnFZYnVJbnlmUEhOTll4RVRqZ2I5M3BFUV84VkdmRE10OTBDS0wzdXdTWERPWVRhaFJTSXBfa0s1UG1RTTlzcy1hdjhjZEtR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Thamizhachi Thangapandian wins from Chennai South constituency for a second consecutive term - adyartimes.in",
+      "source": "adyartimes.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFlWTXFQQWZzSjRGNHQ3X2dWMnM5VWI5bHBtUFlIa0dkcGlGc0c4RXJsT3YtMDZlTXZMWlZpWnhLSHR6d1Znb0V5YkttNlZSWHcybjNsZFk1T0pLZlVZRWMtV1dZQkRsb25BcDRaUHd0dUNwbW4yOUtxbk9UNkMxazl6emZqNWg0Z19SZVE1V2liUGt5bXlhMnRYWDhJa0doekF2QW80NWU1OGF4S0pzLVJ6UFdxUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chennai South election result: DMK's Thamizhachi Thangapandian secures victory - CNBC TV18",
+      "source": "CNBC TV18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGtvR3lNMzZrVnRNaUsxNDFlVlFhRFRyUV9PSnFEQmRGanllNW5sRDA2ZHVWdHJjSkU1Mzd3Y0syS0NTSmwxWlFMUjdGbDY5US1ndzZ6ei1jSGdRODh3bVR5cXFJNnBCaFpuLU9uaC1MU25uU0dyR3BfellKai14UFRTaWQ1QjJZTVlwSzd2SW1BMGtmazJOMXNSc1JxSDV3cThTZzhtLW1jRDQzQThvWVMtZk9nSGZaTDhEZ3dFLU5xRm1IUVVlZjBHbXhha0JYeUdLcm5JRXg1eXNzN0HSAeMBQVVfeXFMTThvdmhmZXpwZFFzbTI3RkNEOERUOElBRTZwWTBPYXBTRnhWUUxNcmxPX00zUzZhOEFTemVOUW1PanA3b1NsaVJJMzM2OWF4ZWM0R1JzNXFqcHVSZFBUREVILS1YbE9BQWRBVGdrT2lDb2tKSzF0WFZydkVxcEtMOTB1Zm1rTEhvWWwyalcyMXhVQWE3WWpNRU53cV9ZWkpZYVlJT0xQRGlVcUV3cGFVVE9qbnFJSU9BVVhONnFTejA3d1l2T3lHN3ZfWlZ1Sk9KOWd4aXpIU0ZkbjJIbnB3bFQtQms?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chennai South election results 2024 live updates: DMK's T Sumathy wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOVFVKTDdyeS1mZTVZOTF1MnlySHVsT1g1SFN3cm1wWGZXaXk5VVVMMGNDMzM5a1V6VmJmX3BnazlDamRETkRiZXNOa2lRSE1Rb3VTcmFlemV5VUMyNkdpeTlHSUNLVVpEcmxGN1RveEtseEZtZ1p1alAwUk00THVUUERIbHVuNExqckphYW83Y3JBZVcyd0pBa3dUVTIwd2FFSTZ5aTZpRVR5bndpLVhqWm9jNmV3TXVXYXZmLUhBTl9ZdHhUTlgwM3d1V01HRlVvcUR5dDZfUm1MS0FLVUdWXzFEdFlyTkUtaGFGd3Rmb1o1Z01QRkpMbWFMQVhJVFRUTzlYM1RWVjRVbDY3T19VbGo0NVdiZTNScHF3ME5qT2V4VlNzUDcyUFlEQlR5M1JCeWdaWjVvb2ZoUG91QXZxbjFTZmlYLXdSTklOUzZqVjVfNGV6elNNNGh30gHfAkFVX3lxTE1XN1N5cms3Y18zTHB6ZnhMUGhHM1o3MGFDVkFpT1hCejhtX0NZZGltZGZmZkFWWUFCQ3ZqYkV5NGJTU1dSb3BkNGxzMTU0XzhVazh0a2R2U21TZ2pzT2VtMWZOc2xFUkNpdV80blhybVhHSVBrUUpmeGsxSmxUeW9ZT1BpOGJacXhGMGV5SEVBT19ZQ3ZWTTJaUW41aHI5WFJ2QlJXOUFNVmNNTTVFQzhiQjg3em5CSDFucWU1bTA1cUpvdnFtQU5VOERPOENsRGlkMmpjdFpXUTNCLTV4ZmV2dEI3aHNxOHJsbVQwbjVsa1BpNFgwQjZLempzT3JyMXMxVWpKVTdNSlhQX0pJaktNT1d1ekRQMlRNcFEwQnZvRmpnMXJyWEdCRnF5ZlR2MGdYWGNzNHpmLTlBcHNZaW1zcmstZmlBOFJ6a1hrNnpVNU9XdF9BQzlRRkpWOEdyZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Will push for education reforms including ban on coaching institute ads: Thamizhachi Thangapandian - Citizen Matters",
+      "source": "Citizen Matters",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMkw5Y1RvVnJIZkJTcVJPTV9ETDg2TmtSWFB2QklwRzNPRzFDNk9NX3RNbWlneGxRNkZCUnZOcXlTd0M5OHNWVTh0VWlmeU10bWhUdzlWRUFySVFsVkdXb3hFdGU5d0RLZVhHODJHLVhubVRwYkRCNkMybmFYRWktZTFvbWRCOHJlLTNGNTdOZk1DUkFLOGc3cmhjak9rOGliUkhQQnhuZlViOWJLWThhM2luQmxuTVYwMC0tcDd5YTEyalZXU3RVVUhEVm9fZ0JDY0h0ZzVDTQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:13.213807Z",
+  "collected_at": "2026-09-02T14:31:27.890413Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.766339Z",
+        "fetched_at": "2026-09-02T18:38:10.284430Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.766347Z",
+        "fetched_at": "2026-09-02T18:38:10.284441Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.766352Z",
+        "fetched_at": "2026-09-02T18:38:10.284447Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.766356Z",
+        "fetched_at": "2026-09-02T18:38:10.284452Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.766362Z",
+        "fetched_at": "2026-09-02T18:38:10.284458Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.766366Z",
+        "fetched_at": "2026-09-02T18:38:10.284463Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.766370Z",
+        "fetched_at": "2026-09-02T18:38:10.284468Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@ThamizhachiTh",
+        "url": "https://x.com/http://www.twitter.com/@ThamizhachiTh",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/ThamizhachiTh",
+        "url": "https://facebook.com/http://www.facebook.com/ThamizhachiTh",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/__thamizhachi__/",
+        "url": "https://instagram.com/https://www.instagram.com/__thamizhachi__/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:27:24.893647Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,11 +350,19 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Will push for education reforms including ban on coaching institute ads: Thamizhachi Thangapandian - Citizen Matters",
+        "headline": "Chennai, meet your new MPs - Citizen Matters",
         "source": "Citizen Matters",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMkw5Y1RvVnJIZkJTcVJPTV9ETDg2TmtSWFB2QklwRzNPRzFDNk9NX3RNbWlneGxRNkZCUnZOcXlTd0M5OHNWVTh0VWlmeU10bWhUdzlWRUFySVFsVkdXb3hFdGU5d0RLZVhHODJHLVhubVRwYkRCNkMybmFYRWktZTFvbWRCOHJlLTNGNTdOZk1DUkFLOGc3cmhjak9rOGliUkhQQnhuZlViOWJLWThhM2luQmxuTVYwMC0tcDd5YTEyalZXU3RVVUhEVm9fZ0JDY0h0ZzVDTQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RU0VhcjlFUTVRY1dHa2J0YndYZ0U0ekxiMDFkdTJLcU1RUTNlc0QyVkdkUnFZYnVJbnlmUEhOTll4RVRqZ2I5M3BFUV84VkdmRE10OTBDS0wzdXdTWERPWVRhaFJTSXBfa0s1UG1RTTlzcy1hdjhjZEtR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Thamizhachi Thangapandian wins from Chennai South constituency for a second consecutive term - adyartimes.in",
+        "source": "adyartimes.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFlWTXFQQWZzSjRGNHQ3X2dWMnM5VWI5bHBtUFlIa0dkcGlGc0c4RXJsT3YtMDZlTXZMWlZpWnhLSHR6d1Znb0V5YkttNlZSWHcybjNsZFk1T0pLZlVZRWMtV1dZQkRsb25BcDRaUHd0dUNwbW4yOUtxbk9UNkMxazl6emZqNWg0Z19SZVE1V2liUGt5bXlhMnRYWDhJa0doekF2QW80NWU1OGF4S0pzLVJ6UFdxUQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -280,27 +374,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Thamizhachi Thangapandian wins from Chennai South constituency for a second consecutive term - Adyar Times",
-        "source": "Adyar Times",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFlWTXFQQWZzSjRGNHQ3X2dWMnM5VWI5bHBtUFlIa0dkcGlGc0c4RXJsT3YtMDZlTXZMWlZpWnhLSHR6d1Znb0V5YkttNlZSWHcybjNsZFk1T0pLZlVZRWMtV1dZQkRsb25BcDRaUHd0dUNwbW4yOUtxbk9UNkMxazl6emZqNWg0Z19SZVE1V2liUGt5bXlhMnRYWDhJa0doekF2QW80NWU1OGF4S0pzLVJ6UFdxUQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "MP urges IIT-M to redress grievances of reserved categories - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGVtNm9QaDEzWXRoOTk2Z3JDd1ZCVVJpeXd0X2hDSkh4SXpaUW1kbmRwS2ZvMGNhMHR5dGxSdnF1cWk0S2N6UGQ3bktCa0VlTXROZmozVjY4S3EteXY4ellPb3IzODRBOV9ZZHlNQi1vT1BOZzkzSy13UEhfRE1PZ1M4ZFZFUW9IYXJYaTZFSXBSTUpjaEJVQVR4a0Z4R2tVTVdXU2RUQTJYRnA5TVp1SWNtNjdnYWY3Ymd0bjI0YWd2d9IByAFBVV95cUxOaDJFbE9lRUNUbHZZWFRXTEFBaGJkdDNGSkIxODJMelFXZU5HUnh3QS1RY2J6b19WX3IzTTJTZkRhYVBoenVBOEJoenBQcEdvcW8zTDRoeFZyMWlIaDlMUXJRUklWSGMyc3JBekhuMVpTUEJEYm8tc1RtSlFraVJ0YjBMQXE4WDEzRjI5ZnhJcmEtYzY5NXpNeDlXMy1tQ2lIa2ctZXVQdk5yX3luSU5fbC1yNWJfSDh3V09TX0lNUFNPY2xBeTRQVw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Chennai South election results 2024 live updates: DMK's T Sumathy wins - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOVFVKTDdyeS1mZTVZOTF1MnlySHVsT1g1SFN3cm1wWGZXaXk5VVVMMGNDMzM5a1V6VmJmX3BnazlDamRETkRiZXNOa2lRSE1Rb3VTcmFlemV5VUMyNkdpeTlHSUNLVVpEcmxGN1RveEtseEZtZ1p1alAwUk00THVUUERIbHVuNExqckphYW83Y3JBZVcyd0pBa3dUVTIwd2FFSTZ5aTZpRVR5bndpLVhqWm9jNmV3TXVXYXZmLUhBTl9ZdHhUTlgwM3d1V01HRlVvcUR5dDZfUm1MS0FLVUdWXzFEdFlyTkUtaGFGd3Rmb1o1Z01QRkpMbWFMQVhJVFRUTzlYM1RWVjRVbDY3T19VbGo0NVdiZTNScHF3ME5qT2V4VlNzUDcyUFlEQlR5M1JCeWdaWjVvb2ZoUG91QXZxbjFTZmlYLXdSTklOUzZqVjVfNGV6elNNNGh30gHfAkFVX3lxTE1XN1N5cms3Y18zTHB6ZnhMUGhHM1o3MGFDVkFpT1hCejhtX0NZZGltZGZmZkFWWUFCQ3ZqYkV5NGJTU1dSb3BkNGxzMTU0XzhVazh0a2R2U21TZ2pzT2VtMWZOc2xFUkNpdV80blhybVhHSVBrUUpmeGsxSmxUeW9ZT1BpOGJacXhGMGV5SEVBT19ZQ3ZWTTJaUW41aHI5WFJ2QlJXOUFNVmNNTTVFQzhiQjg3em5CSDFucWU1bTA1cUpvdnFtQU5VOERPOENsRGlkMmpjdFpXUTNCLTV4ZmV2dEI3aHNxOHJsbVQwbjVsa1BpNFgwQjZLempzT3JyMXMxVWpKVTdNSlhQX0pJaktNT1d1ekRQMlRNcFEwQnZvRmpnMXJyWEdCRnF5ZlR2MGdYWGNzNHpmLTlBcHNZaW1zcmstZmlBOFJ6a1hrNnpVNU9XdF9BQzlRRkpWOEdyZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Will push for education reforms including ban on coaching institute ads: Thamizhachi Thangapandian - Citizen Matters",
+        "source": "Citizen Matters",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMkw5Y1RvVnJIZkJTcVJPTV9ETDg2TmtSWFB2QklwRzNPRzFDNk9NX3RNbWlneGxRNkZCUnZOcXlTd0M5OHNWVTh0VWlmeU10bWhUdzlWRUFySVFsVkdXb3hFdGU5d0RLZVhHODJHLVhubVRwYkRCNkMybmFYRWktZTFvbWRCOHJlLTNGNTdOZk1DUkFLOGc3cmhjak9rOGliUkhQQnhuZlViOWJLWThhM2luQmxuTVYwMC0tcDd5YTEyalZXU3RVVUhEVm9fZ0JDY0h0ZzVDTQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 45,
+    "starred_questions": 13,
+    "unstarred_questions": 32,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 87.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 55.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

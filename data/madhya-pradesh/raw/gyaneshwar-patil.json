@@ -4,16 +4,16 @@
     "constituency": "Khandwa",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5069,
+    "myneta_candidate_id": null,
     "slug": "gyaneshwar-patil",
     "house": "lok_sabha",
     "sansad_member_id": 5535,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/5535.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,96 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "7/2020 P.S Thana City  Kotwali District Burhanpur M.P.",
+        "ipc_sections": [
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "7/2020 P.S Thana City  Kotwali District Burhanpur M.P.",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:59.042998Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 72237099.0,
-    "liabilities": 5446068.0,
-    "net_worth": 66791031.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5069",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.982171Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 49.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.3,
-    "released": 15.3,
-    "sanctioned": 9.68,
-    "expended": 8.21,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:31.627490Z",
-        "notes": "Official eSAKSHI REST API — Works: 298 recommended, 288 sanctioned, 147 completed"
+        "fetched_at": "2026-09-02T14:43:00.428474Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:39:16.795340Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:39:16.792445Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 298,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 53.66013071895425
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +126,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:38.500111Z",
+        "fetched_at": "2026-09-02T14:39:16.791335Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +134,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP MP Says Clean Water 'People's Responsibility' Amid Row Over Indore Deaths - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVpEd3JEb0dHbjFSajM0b1VkbENmZmF1MW40bjE2WUdJTDJ2V1ZJMjVZdlRmUG53cGZFQ0laRzJMQ2RuSlNwV015OEwzdm5jYkpneko1Xy1tWnlwMW1oVlFMRkhGUUQxdlZxZXlfWm1jakJfRWQ5NnlpTGlfS2xZLXFXRTYxd2N1T1NRN1BON3VDODQ2YkpkMEk0V0hWdHlHamdTaTZMT3VmSUlGNXFpcTREX3Zhd9IBvgFBVV95cUxQcl9mU2t6V00yUEV5TlREVzliM2xWeF9rQkhJV1RWVEl0RXNfWmVFYVI5NmlMWVJtanRPUXRGZ2w4NzNNc1ByWk8tdUxTaWloS1dtUUhVaWhaenVhXzJRR1RHeWtEbzZkNzh3TWpTQS04ZWtObDJOcW1ycVdwX1F6bDM5UHBRbVdMSFVQdVotVXlzMkh2Zml6UjJvd3FlMWJYMk5LczV3WkQ2eWtHLTFCelAxOUpqTVZwYVlqMHpn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP High Court Issues Notice On Congress Leader's Plea Challenging Election Of BJP's Khandwa MP Gyaneshwar ... - Live Law",
+      "source": "Live Law",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQkJZNUtSQTNRYVlKQ2dVRTE1NEFNLTludUF6U1hlLUplbXB1Z2xRZmozV0NMMWxxcDl5RDhIbDQ0TnpNbWZ2X05qMHBMa1dVcTJud1pRUTJSYUZDN1gwY21zb0dsazhJRXdqRmFheUF1SGlLV0RrWC1UOGVuYlM1Q3NUTWxnQ3Qtd2p2UFBidmtScUwxZ19VWlN0d2lmczJ4UVY2Y2x0YkxVczBxR1lDTFUwOEVhSXMwV0VHaDdfdnZXclJqbkFvNkczeGFlcHV2alhhVjJNN3dNNU43eVllTXRwV2VpbDdjajVVc0thR3hyQ2x4eTc5a2xkbTRCZXFld0NUbVBJTdIBjAJBVV95cUxNaER1X2F1WnlOdDBUSWRKS0hzRjBUbE1WX1NzWGVxVkxVaktEb0I3bWxvYTdPRHRWcjlTTWZNT19oeFFyaDZXRFVqYUNoWVRzemtDeG5fZnNRWUtseWdSeV9RTVM2dUFPanVqeUY3M1lGUTYtX2dtQjgtR0t2WGdlOXBMd3NxV0JwanViS3gybVVfQ21pZ0RVS2JIZ0d0YlpPSmE2MmVBeFNITG00eTI5TDBVR1JOUkx2Rm1UcHNpMW5Tc2EtSEtjbzZZQk1FWlk2NDF4TjhnUUxYT1JzQnF6V3dwbmRHS1dUWUpHenFjczBQM3o4WEVVRDVqM2xkQ2c1UlBDLWRzNzVEMG1y?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Will take work done by government to lowest strata of society: BJP's Gyaneshwar Patil - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWJRWmhadS1tS3RVU2QxcktIV3NFbmlOMkNKcnBSdFdQSjBVOWJuT0dWNDRudXRiQlV1VG9TOVZRZXRXN3ByOHBGUjFMMURoVEdMQ1E5ck5YcUJ6OTNiNGFPZllTSFdUOUktNHhsZjVNMFpVWkpSZmpxdkswbGIzOWRXVmNTdXdsUXZQaGVzS3pYYUV5LWtXRENLa05IQkFuMkVaSE9YLXdhNml6SUNKQnYtWUZlVVJuZkZlRHctLTlZanpKYm9iNDZaeXZiU09aeWhjc2dnbnQySW8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Vehicle carrying pilgrims from MP rams into truck in Andhra: 4 dead, five injured; were en route from Puri ... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSzlRa1Z4eW9Zai01VXNoV2lSS0JnNEYzLXFNRUhETVc2RHRpSHVnRzdTOVFvUWkxOXl0UF9XY2loTVVQMFhCUG1MbVlCdUkxLXVuQ1c1cTVMdVNCd29ORFpia09xbGM3QXpLeE9jUEdEUlBRekdITDlHNnBPcXZpUXppalZZYTJBczdFT1Bqc3hqZGtOMkExSGo1WTBFY19IV0pKRVBKZTZZZTZ6U0wyRk5tb1plWkRLNzEtRlpHV1dZaXFueWE1ZnZSR2tTa3dxcUxUOGVHNjJ3SndYR20yQ0h3ZWkydDdFSE1HWHk4R3E4QUdvbENWUWlHSFB5MldWbk9DNVpsT3JyM0J3NUVvQ0tmb9IBmAJBVV95cUxQeUUyamdIb1FXOXNlbXd3WWhYMDlNQUVDY1NWd0xlWkV2VlIzTTM4SGZvODFWM3VxZmIzMUhDUVcyM19rc1QwUzV5UVd3bmJoTENfcW1VNmYzSUV4cFlKczhSaER1QmdMNnBwUkU3RjYzMnZMQ2hDWkNKbjN4MjRib1IzYWxUYTBWY2xWVmtVa3BPVWlyTy0wOGNaczlodUNMMTkzNFF3SDdWd1JLbjhwX1RhbnI5MW81NV9KZFpCWkMtMWZpQjA3TVhYTTRYcVlFSmk1MDJDZ2ZMcVRSYkVEUi1teE9tVzBHXzhIT2tLUHg0UlFYaU9hUUk2M2NnaHVzMnQxZU9QZDh1bHRmVTVLclUxM204ZHNU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Khandwa MP Gyaneshwar Patil’s Brother Found Dead In Well In Burhanpur - freepressjournal.in",
+      "source": "freepressjournal.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWFUdW50T2FmZ3VtX0NscHUxWDFqckxJc3VYcVFnY2g5ZmllQmxVUTd6ZE9wQWI2OWxYc29Fd0h0YXhkTzR2U2FjWlR1QkFDajlNSXBrZ0h3V3BTQ2UyeXBDQXNYWnBybU9qWjFzZk9uTGxvOXJMajc0aS1GdEhRYXhSdEdOcmg3QlRZNTVBVVdzbTB4S1Y0dnhpSFdVbUItLTFsdjdYWlhjTlnSAbABQVVfeXFMT0hvNkNIYW0xdlpfenJ1RXNVWC1BWDRzdmtaeGlBalNaekxSN2ZzeFRxdUZ6cDl0N0gzN3ZuS09rYjhyck1JVFNfam5KcHVSZFJYeG4ybjdyczlyMlRjQ3BiUXdDMVpDZHk4SkwxYkZuZzJSYklnZU11LU44MmFnd0wzT3gzeHEyelJudFhPTVFVc1YxZTZ2dWdhXzhNaXNBaVVpSkRtc0JjcnRnT3Z0bEM?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:39.194841Z",
+  "collected_at": "2026-09-02T14:43:00.430603Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +203,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.884395Z",
+        "fetched_at": "2026-09-02T18:38:07.377360Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +219,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.884404Z",
+        "fetched_at": "2026-09-02T18:38:07.377375Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +235,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.884409Z",
+        "fetched_at": "2026-09-02T18:38:07.377382Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +251,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.884414Z",
+        "fetched_at": "2026-09-02T18:38:07.377389Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +267,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.884419Z",
+        "fetched_at": "2026-09-02T18:38:07.377397Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +283,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.884424Z",
+        "fetched_at": "2026-09-02T18:38:07.377404Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +299,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.884429Z",
+        "fetched_at": "2026-09-02T18:38:07.377411Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +315,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.884434Z",
+        "fetched_at": "2026-09-02T18:38:07.377419Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,27 +353,27 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Younger brother of Khandwa MP dies by suicide - The Times of India",
-        "source": "The Times of India",
+        "headline": "BJP MP Says Clean Water 'People's Responsibility' Amid Row Over Indore Deaths - NDTV",
+        "source": "NDTV",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3pCVk0zY1piRTdRMWsyVFpaNUtUMG5DdDc3R1NqaGJEQlRVSWt0U0lzaXVQWGRMcFRUSGhIdUhQTmdYSnBZMk1BcFEzZlk5YnI5ZmRJbEpIRFdfNVdvSEZlNlpiLVR2a2RYRmE5TW54Ykp0VFppUXFpc3ZTU2RkOFVOa0NqazJtUE80ZU52ZFdPN2xya21EYTFsUkY5Uml2UHBSLVl1MktMblBST0RNWmZLa2JYYXBxb0hJ0gHAAUFVX3lxTE8td2h6a1lJUi11cWd1UEg3bEhreG4tTUdUem0yUTEzM1FuTmxqOWk4ODRaQTlhQWl6X1ZNU052bFgwaUVDaEowM2l3bUhnUmQ0SmVsR09mUVZMQW9KNl8wS21yakR2VFgxSmxEekc2THhWQ2NSWVVOZ3BfaGpSd2pSWENFejJDU3pKTUdrVWtlU3pZdlBDWFl5SFlJdUxjclA1eXhRa1VHZmdseVN4b1BGbWtKUEo5M0VXRWIzZF9yYg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVpEd3JEb0dHbjFSajM0b1VkbENmZmF1MW40bjE2WUdJTDJ2V1ZJMjVZdlRmUG53cGZFQ0laRzJMQ2RuSlNwV015OEwzdm5jYkpneko1Xy1tWnlwMW1oVlFMRkhGUUQxdlZxZXlfWm1jakJfRWQ5NnlpTGlfS2xZLXFXRTYxd2N1T1NRN1BON3VDODQ2YkpkMEk0V0hWdHlHamdTaTZMT3VmSUlGNXFpcTREX3Zhd9IBvgFBVV95cUxQcl9mU2t6V00yUEV5TlREVzliM2xWeF9rQkhJV1RWVEl0RXNfWmVFYVI5NmlMWVJtanRPUXRGZ2w4NzNNc1ByWk8tdUxTaWloS1dtUUhVaWhaenVhXzJRR1RHeWtEbzZkNzh3TWpTQS04ZWtObDJOcW1ycVdwX1F6bDM5UHBRbVdMSFVQdVotVXlzMkh2Zml6UjJvd3FlMWJYMk5LczV3WkQ2eWtHLTFCelAxOUpqTVZwYVlqMHpn?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Body of younger brother of Khandwa MP found in village well in Madhya Pradesh - ThePrint",
-        "source": "ThePrint",
+        "headline": "MP High Court Issues Notice On Congress Leader's Plea Challenging Election Of BJP's Khandwa MP Gyaneshwar ... - Live Law",
+        "source": "Live Law",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHl0Zkh2bjV1bnVleWdvdEpVb2pUSGdGaFJoS3dYanNsVDJKRlg2aENPaW53cHlPUmRVZndlOERyRnVQTkVKZjUtMFJOcGJ5Y2pXemVGN09wN0treC02Rk1vWmFWZERMb0xXQUhDdHo5S2Z6OG1UaUp3STZPN0xNdlpTZ3NuZW1sMVJ1dVNGWlpZbDJfeFlwZTFpZTRGUjU0a2RVenF6Tk9kWVk5eF9VV2Rn0gG3AUFVX3lxTFBURVlJWDAxakJDRUItWmwzOHRubGppQnhqOV9qNDc3VHRTOEpaWkQwZ216OHJlQkJJaDR2Wmd0MUpqdVZpSjFtTzhhLTFiMG1GaXpYdWFjQldrUVRtWWR2R2lQcEpqcjFxNzlYTzFKSWI3cUV6YS14TUJ2bl9KN253R2MxQUs4bUJnY0lyblN3VlNKb1FQMEZsRFN5eDlDNXFXSlpidnJkcW9rZnl2bUFUVE9WZHUySQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQkJZNUtSQTNRYVlKQ2dVRTE1NEFNLTludUF6U1hlLUplbXB1Z2xRZmozV0NMMWxxcDl5RDhIbDQ0TnpNbWZ2X05qMHBMa1dVcTJud1pRUTJSYUZDN1gwY21zb0dsazhJRXdqRmFheUF1SGlLV0RrWC1UOGVuYlM1Q3NUTWxnQ3Qtd2p2UFBidmtScUwxZ19VWlN0d2lmczJ4UVY2Y2x0YkxVczBxR1lDTFUwOEVhSXMwV0VHaDdfdnZXclJqbkFvNkczeGFlcHV2alhhVjJNN3dNNU43eVllTXRwV2VpbDdjajVVc0thR3hyQ2x4eTc5a2xkbTRCZXFld0NUbVBJTdIBjAJBVV95cUxNaER1X2F1WnlOdDBUSWRKS0hzRjBUbE1WX1NzWGVxVkxVaktEb0I3bWxvYTdPRHRWcjlTTWZNT19oeFFyaDZXRFVqYUNoWVRzemtDeG5fZnNRWUtseWdSeV9RTVM2dUFPanVqeUY3M1lGUTYtX2dtQjgtR0t2WGdlOXBMd3NxV0JwanViS3gybVVfQ21pZ0RVS2JIZ0d0YlpPSmE2MmVBeFNITG00eTI5TDBVR1JOUkx2Rm1UcHNpMW5Tc2EtSEtjbzZZQk1FWlk2NDF4TjhnUUxYT1JzQnF6V3dwbmRHS1dUWUpHenFjczBQM3o4WEVVRDVqM2xkQ2c1UlBDLWRzNzVEMG1y?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Public must act to ensure water is clean: BJP MP - The Times of India",
-        "source": "The Times of India",
+        "headline": "Will take work done by government to lowest strata of society: BJP's Gyaneshwar Patil - ANI News",
+        "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHZCMURfX0o4bGRzX0VTTGdLSkowMWdsTWdaTjhRVVVOY0xuOEg0SHhxRGlueUY1SkNHX2ItREhSYzIwNlJ0UlRxUlJ6TjdGVjJfV0hKWGpsbVFRd3lHMkZkTmhxeDdPeTFZd043bEdCMTNDWVlKQ3FiNUgxQXRrYWJqcU9Xd2pWZmRpdEFzemNtekVKTzJMTDBSaXVhX0FyX1FRUDdJcDl2d3U2RHc3Zmc2YUlWUdIBuwFBVV95cUxPNENiSXpKVzRjbmhYSkhYdzJ2RmJtcmJyajhuOEVVdDRQcWFJU0ZuLUN5UVBtYWRQanRuY2xxVHRPRk5BcXJvMVl1RFE4Sm9YZXZpVFFwMjZYRldVNGVobjFJMHhhN3VhQk5YUG4zSXN2aXZURXVxb205X0pqSUZDUVAtQ1pvZE1WQWtvRjVYREt2TWljTWl0blo1RE5wNXRsODV1QUwtcUsxQ2ozMUdRdl93QldYWXFFanJZ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWJRWmhadS1tS3RVU2QxcktIV3NFbmlOMkNKcnBSdFdQSjBVOWJuT0dWNDRudXRiQlV1VG9TOVZRZXRXN3ByOHBGUjFMMURoVEdMQ1E5ck5YcUJ6OTNiNGFPZllTSFdUOUktNHhsZjVNMFpVWkpSZmpxdkswbGIzOWRXVmNTdXdsUXZQaGVzS3pYYUV5LWtXRENLa05IQkFuMkVaSE9YLXdhNml6SUNKQnYtWUZlVVJuZkZlRHctLTlZanpKYm9iNDZaeXZiU09aeWhjc2dnbnQySW8?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -312,11 +385,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "MP High Court Issues Notice On Congress Leader's Plea Challenging Election Of BJP's Khandwa MP Gyaneshwar ... - Live Law",
-        "source": "Live Law",
+        "headline": "Khandwa MP Gyaneshwar Patil’s Brother Found Dead In Well In Burhanpur - freepressjournal.in",
+        "source": "freepressjournal.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQkJZNUtSQTNRYVlKQ2dVRTE1NEFNLTludUF6U1hlLUplbXB1Z2xRZmozV0NMMWxxcDl5RDhIbDQ0TnpNbWZ2X05qMHBMa1dVcTJud1pRUTJSYUZDN1gwY21zb0dsazhJRXdqRmFheUF1SGlLV0RrWC1UOGVuYlM1Q3NUTWxnQ3Qtd2p2UFBidmtScUwxZ19VWlN0d2lmczJ4UVY2Y2x0YkxVczBxR1lDTFUwOEVhSXMwV0VHaDdfdnZXclJqbkFvNkczeGFlcHV2alhhVjJNN3dNNU43eVllTXRwV2VpbDdjajVVc0thR3hyQ2x4eTc5a2xkbTRCZXFld0NUbVBJTdIBjAJBVV95cUxNaER1X2F1WnlOdDBUSWRKS0hzRjBUbE1WX1NzWGVxVkxVaktEb0I3bWxvYTdPRHRWcjlTTWZNT19oeFFyaDZXRFVqYUNoWVRzemtDeG5fZnNRWUtseWdSeV9RTVM2dUFPanVqeUY3M1lGUTYtX2dtQjgtR0t2WGdlOXBMd3NxV0JwanViS3gybVVfQ21pZ0RVS2JIZ0d0YlpPSmE2MmVBeFNITG00eTI5TDBVR1JOUkx2Rm1UcHNpMW5Tc2EtSEtjbzZZQk1FWlk2NDF4TjhnUUxYT1JzQnF6V3dwbmRHS1dUWUpHenFjczBQM3o4WEVVRDVqM2xkQ2c1UlBDLWRzNzVEMG1y?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWFUdW50T2FmZ3VtX0NscHUxWDFqckxJc3VYcVFnY2g5ZmllQmxVUTd6ZE9wQWI2OWxYc29Fd0h0YXhkTzR2U2FjWlR1QkFDajlNSXBrZ0h3V3BTQ2UyeXBDQXNYWnBybU9qWjFzZk9uTGxvOXJMajc0aS1GdEhRYXhSdEdOcmg3QlRZNTVBVVdzbTB4S1Y0dnhpSFdVbUItLTFsdjdYWlhjTlnSAbABQVVfeXFMT0hvNkNIYW0xdlpfenJ1RXNVWC1BWDRzdmtaeGlBalNaekxSN2ZzeFRxdUZ6cDl0N0gzN3ZuS09rYjhyck1JVFNfam5KcHVSZFJYeG4ybjdyczlyMlRjQ3BiUXdDMVpDZHk4SkwxYkZuZzJSYklnZU11LU44MmFnd0wzT3gzeHEyelJudFhPTVFVc1YxZTZ2dWdhXzhNaXNBaVVpSkRtc0JjcnRnT3Z0bEM?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +423,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 48,
+    "starred_questions": 14,
+    "unstarred_questions": 34,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 93.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +439,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

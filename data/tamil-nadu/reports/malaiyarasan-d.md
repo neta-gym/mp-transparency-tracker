@@ -3,24 +3,22 @@
 **Constituency:** Kallakurichi, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 48
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.3 / 100
+## Composite Transparency Score: 56.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 65.3 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,28 +32,34 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. CC No. 2518/2020, Kallakurichi Police Station (Sections: 143, 269) [pending] 
+2. CC No. 1950/2020, Kallakurichi Police Station (Sections: 143, 188, 269) [pending] 
+3. CC No. 357/2018, Aathur Police Station | Section 147, 174(a) Railway act (Sections: N/A) [pending] 
+4. CC No. 422/2016, Thiyaga Thurugam Police Station (Sections: 143, 341, 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 87.17 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 87.17 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 7% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 18
-- **Released:** Rs 18
-- **Sanctioned:** Rs 12
-- **Expended:** Rs 12
-- **Utilization Rate:** 66.8%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,36 +73,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/p/D-Malai-Arasan-100009332853185/](https://facebook.com/https://www.facebook.com/p/D-Malai-Arasan-100009332853185/) | No | Yes |
+| Instagram | [@https://www.instagram.com/d_malaiyarasan_mp](https://instagram.com/https://www.instagram.com/d_malaiyarasan_mp) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (8 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 8
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 7
 
+- Kallakurichi MP reviews schemes at DISHA meeting - The Hindu (The Hindu) [neutral]
 - Kallakurichi election results 2024 live updates: DMK's Malaiyarasan D wins - The Times of India (The Times of India) [neutral]
-- Kallakurichi lok sabha election results 2024: Kallakurichi Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Kallakurichi Election Result 2024 Live Updates: DMK's Malaiyarasan D Has Won This Lok Sabha Seat - The Quint (The Quint) [neutral]
-- Kallakurichi Tamil Nadu Dravida Munnetra Kazhagam - The Times of India (The Times of India) [neutral]
-- Lok Sabha polls | CM participating in a public meeting in Salem today; actor Kamal Haasan’s campaign cancelled - The Hindu (The Hindu) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Three DMK MPs who topped Lok Sabha attendance chart among those dropped from electoral fray - The Hindu (The Hindu) [neutral]
+- Salem’s Vazhapadi gets new bus stand, modernized building for vegetable market at Rs8.7crore - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Kallakurichi MP reviews schemes at DISHA meeting - The Hindu** (The Hindu)
+- ! **Kallakurichi election results 2024 live updates: DMK's Malaiyarasan D wins - The Times of India** (The Times of India)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com** (Sarkaritel.com)
+- ! **Three DMK MPs who topped Lok Sabha attendance chart among those dropped from electoral fray - The Hindu** (The Hindu)
+- ! **Salem’s Vazhapadi gets new bus stand, modernized building for vegetable market at Rs8.7crore - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Malaiyarasan D shows moderate transparency with a score of 59.3/100. Significant criminal cases are a concern. High parliament attendance.
+Malaiyarasan D shows moderate transparency with a score of 56.0/100. Significant criminal cases are a concern. High parliament attendance.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 8,716,980. MPLADS utilization: 66.8%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 3.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +167,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +246,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Malaiyarasan D's MPLADS account: Released: Rs 18, Expended: Rs 12, Utilization: 66.8%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

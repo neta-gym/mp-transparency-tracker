@@ -3,19 +3,17 @@
 **Constituency:** Koppal, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 44
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.7 / 100
+## Composite Transparency Score: 49.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 32.1 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -34,28 +32,33 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Under Sec.4(1) (1- A) 22 R/W CRPC and Rule 3(1) 42(1)Mines and minerals development and Regulation Act of MMRD and Sec.21(1) and 21(2) and 44(1), 44(2) and 44(3) of MMRD Act (Sections: N/A) [pending] 
+2. Under Sec.4(1) (1- A) 22 R/W CRPC and Rule 3(1) 42(1)Mines and minerals development and Regulation Act of MMRD and Sec.21(1) and 21(2) and 44(1), 44(2) and 44(3) of MMRD Act (Sections: N/A) [pending] 
+3. 77/2024, Karatagi police station,Karatagi Taluk,Koppal District (Sections: 171E) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 29.04 Crore
-- **Liabilities:** Rs 12.63 Crore
-- **Net Worth:** Rs 16.42 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 77% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 6
-- **Utilization Rate:** 40.1%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -71,34 +74,47 @@
 
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (9 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Total Articles:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
 - Sri Huligemma Devi Jatra begins today, lakhs of devotees expected - The Times of India (The Times of India) [neutral]
-- ‘Minor Incident’: Cong MP Trivialises Rape, Says Harms Tourism; BJP Targets Priyanka Vadra’s ‘Ladki Hoon’ Pitch - Republic World (Republic World) [neutral]
-- Koppal election results 2024 live updates: Cong's K Rajashekar Basavaraj Hitnal wins against BJP's Basava - The Times of India (The Times of India) [neutral]
 - Koppal Election Result 2024 LIVE Updates Highlights: K Rajashekar Basavaraj Hitnal of INC Wins - News18 (News18) [neutral]
-- CM Siddaramaiah defends reintroduction of ballot papers in local body elections - The Hindu (The Hindu) [neutral]
+- Koppal election results 2024 live updates: Cong's K Rajashekar Basavaraj Hitnal wins against BJP's Basava - The Times of India (The Times of India) [neutral]
+- Parliament Of India : LoK Sabha Member Of Parliament - H - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Koppal lok sabha election results 2024: Koppal Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sri Huligemma Devi Jatra begins today, lakhs of devotees expected - The Times of India** (The Times of India)
+- ! **Koppal Election Result 2024 LIVE Updates Highlights: K Rajashekar Basavaraj Hitnal of INC Wins - News18** (News18)
+- ! **Koppal election results 2024 live updates: Cong's K Rajashekar Basavaraj Hitnal wins against BJP's Basava - The Times of India** (The Times of India)
+- ! **Parliament Of India : LoK Sabha Member Of Parliament - H - Sarkaritel.com** (Sarkaritel.com)
+- ! **Koppal lok sabha election results 2024: Koppal Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-K Rajashekar Basavaraj Hitnal has a below-average transparency score of 48.7/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+K Rajashekar Basavaraj Hitnal has a below-average transparency score of 49.5/100, indicating significant room for improvement. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 290,429,579. MPLADS utilization: 40.1%. Parliament attendance: 80.0%. Debates participated: 1.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Parliament attendance: 80.0%. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +154,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +233,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for K Rajashekar Basavaraj Hitnal's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 40.1%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +250,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 76378942.0,
-      "liabilities": 8013699.0,
-      "net_worth": 68365243.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 50.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.45,
-      "expended": 1.96,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:30.592168Z",
-          "notes": "Official eSAKSHI REST API — Works: 193 recommended, 164 sanctioned, 25 completed"
+          "fetched_at": "2026-09-02T14:27:14.086642Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:57.136619Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:22:00.798156Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 193,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 13.333333333333334
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:08.488570Z",
+          "fetched_at": "2026-09-02T14:21:59.615839Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "MP Jugal Kishore, other party leaders listen to 137th episode of PM Modi’s ‘Mann Ki Baat’ - The Earth News",
+        "source": "The Earth News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWR3dDdKbmJrakxrSDZYalNfX0ljR2dNclZPVnJlOHVEbHl5Zi04bnJDNjE5WGlRSXRsd3ZWTUVXS00xVTJKb2tVeDMzNFllbUFjM3QwM1hqb010UTdQRDdwQXNxVjRtSUd3bXF0QXg2cTdmTWotWkE5R0oxTDR6aXlNdTJkZ09EZ2tQR1NvVjRYV3JzazkwTEplZzczN3V0M0IyTWR4NnEzM2c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP Flags Off Train At JK's Samba, 6 Train Stoppages Restored - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT1BMV2pjTlJvdVU1TWVzWWFSS0FySWJ6M01fTkZOLVpuUUxCUFNzZ29mcVo5LTUtREZCZkpCcmZuaXllcjhnLXF2akZNbHdWWGdTc09rYVBzdGhqZjF5bEt1SjNRWkZuNjdTZDhnQ1lZY29GaVJBRFZCWVpXVGVsM1RWd0hReGRpY3JvdVJQQzlaM3dLUjBWaFlIbTdSMFJGazBpRGx0WTNSNElHMXZ2Y3hiVmEtenl5V2pLMXdON2M4Zm5DREZxNHlja0lDc2lFbHdtcTZaZGJVb3dTRjN0cWxXMzh6WGdw0gHuAUFVX3lxTE5kX2hTbTV4N25XZlljVWVlQTlNalJibHVRR2NPRlBxVEYyYzhsaUI4U3duYnhKdG5XSk1nd0hJMnlIc3h5enUtNTJNRjRzdjJ6MGZleDcycU1VXzlWSFBWVkVaZGFSRjVMZFVvNzBObS1seVJwWHFHdmZuSEZCYXVhT1lkTUVVSTk1MXBTLTg4eFZVNEtlTDZFYkdHdXBmV1hmRWtndEs4QU9UWUZRREZDZF84czY3TXFqa3F5eC1WYnVYdHd3bFAxOU1NTHJpRFUySlRrQjBJSlZhMzZqVGtIaXJYejhiYVhiRTZ5Z1E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jammu Railway Division restores stoppage of 6 trains at Samba station - Greater Kashmir",
+        "source": "Greater Kashmir",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUlMTENmMXN5UFpKSTI0VGtjcU5zMmc5V3gwekZOUS1EcHVLZUtIV2xaeTBoUjlYY295T0FVWE1UYlNLOHBHaE1TMnVRaEJ3REU0SmdYVWV5NUlBa2liOVFlUE9aUmtwLTJzLXNhMHhPOHNKckMwNHQ0ZTNPV2NqTzNQY0d1ZjZjSGFTZ3p6Z1JQWHMxWHJOb2V4T2tkaEFZZ1lXQV80UHpNemh1ZHQ2UjZCUlc3Z9IBuwFBVV95cUxQMkd6RWViMnI3MWI1UG9pWVZSalk1aXBiVDk5N1UwTTlFaXdnLWw5T0p4QW01ZjY2a1l3MDhrbFpMYU1NcTdncEppRTNQMEQ3WWxFcC1kQnZrNzNSZHpRTnAybDdIM1NlU0ZTYU5KaVpIVTZLcVpBbTFaRWUwZlcyOFgxS2R3RENIbU0ycHdZY0JSd3p2ZkcxZHdQcXctVEtpVXhIczNoNFRxaDF4MlFhbGs1UjBmdnVXcmVV?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Jugal Kishore Sharma chairs DISHA meeting at Jammu - thekashmirhorizon.com",
+        "source": "thekashmirhorizon.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDVUdkl1ZDc5bjJsUDlVdlRoU3ZJNmFRQkJKMTBxcWNDeEtfNGtTVFFQeG9nMTN4QVJ5dEFKdlB2MFBDSE1RQVAzM1dMeEZwOHhoYThOXzhPU09pajRPV2NGV2hMeDdLREdqWXR1TnNmaFMtN2hPazBfLVVxU05uem94RFU3Q2RkNThfRTgydjY1ZXA3YXFMRFRJcw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP holds Pragati Path Yatra at IIM, Sankalp Sammelan at Jammu - Daily Excelsior",
+        "source": "Daily Excelsior",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHFUemdQMnBJVUdGUWFPQTVfWmt1VGpKSHR3SjFQckt0dldsd1lTNFNMS09TSUhVcWVWNmM2cDU2YlFOMVpnYnhyb1JkV1JxVzk5MFdOQnd5aWNBOENfSmdjRnlZcnBqTmozZHBTeXlrOTJlb0hNY2toMXp6MHlnb0FoeW1URUVCOERqN3pMLV9ROVhMMDJPTtIBnAFBVV95cUxPbkZtOTFxZWl4YmZGTExDMkNDTlRNUGRiMjJIbnFBNzRPSlRxVDBEMWpRQnVJYUFONHEzeGNPdmxpUDc3aWd2TExFYVlHbGtkdG1GRTA0MlM1cTU0SXVCYlFFS3lvZUlHSWlPQ2hrQW8zdVR5VGZCUW5mODhGRWdXQVFtaTNEdFRiUTRfZzBqY2R6c3BIV01KaTRsX28?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:10.918349Z",
+    "collected_at": "2026-09-02T14:27:22.077053Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.580097Z",
+          "fetched_at": "2026-09-02T18:38:06.184277Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.580105Z",
+          "fetched_at": "2026-09-02T18:38:06.184296Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.580111Z",
+          "fetched_at": "2026-09-02T18:38:06.184302Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.580116Z",
+          "fetched_at": "2026-09-02T18:38:06.184308Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.580121Z",
+          "fetched_at": "2026-09-02T18:38:06.184314Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.580125Z",
+          "fetched_at": "2026-09-02T18:38:06.184318Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.580129Z",
+          "fetched_at": "2026-09-02T18:38:06.184323Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -271,43 +327,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "MP Jugal chairs DISHA meeting at Jammu - Daily Excelsior",
-          "source": "Daily Excelsior",
+          "headline": "MP Jugal Kishore, other party leaders listen to 137th episode of PM Modi’s ‘Mann Ki Baat’ - The Earth News",
+          "source": "The Earth News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyejVMcVA5QW1XbDBvaTNqbVVpZ3RKdkdIQWotLWFMdlR3cURqdGxsdXBCcU5HVHVKR0tLa1gwTU96dGR5emFYeWk0QmdCMXZ6Sk5xWFF0Zl9FRVJrWE9EdW90QzB5MFhOYmxia0NLME9xa3g4bU9XdTJ3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWR3dDdKbmJrakxrSDZYalNfX0ljR2dNclZPVnJlOHVEbHl5Zi04bnJDNjE5WGlRSXRsd3ZWTUVXS00xVTJKb2tVeDMzNFllbUFjM3QwM1hqb010UTdQRDdwQXNxVjRtSUd3bXF0QXg2cTdmTWotWkE5R0oxTDR6aXlNdTJkZ09EZ2tQR1NvVjRYV3JzazkwTEplZzczN3V0M0IyTWR4NnEzM2c?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Art 370 abrogation played vital role in J&K’s development: Jugal Kishore - Daily Excelsior",
-          "source": "Daily Excelsior",
+          "headline": "BJP MP Flags Off Train At JK's Samba, 6 Train Stoppages Restored - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMlA1cVJuTjR1SEF3T3kxVXgzTi1RSmQ0a1ZfS0w2cnRHWkc2VXFCa0UtS0c3SV9mcnBtT2pmc1FncThVRmhuUmJmMUE2VUtJbHRpX2hZYWJNY0ZHZEpLSTJPeEhtSXBKTjZGWHlpRmVzcFZZUm45VW1IdUk5ZDg2T2ZNcUdHUDF0TW5FSVlRRERPN3dvRjlKR2RFLU1qcF9HUlBn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT1BMV2pjTlJvdVU1TWVzWWFSS0FySWJ6M01fTkZOLVpuUUxCUFNzZ29mcVo5LTUtREZCZkpCcmZuaXllcjhnLXF2akZNbHdWWGdTc09rYVBzdGhqZjF5bEt1SjNRWkZuNjdTZDhnQ1lZY29GaVJBRFZCWVpXVGVsM1RWd0hReGRpY3JvdVJQQzlaM3dLUjBWaFlIbTdSMFJGazBpRGx0WTNSNElHMXZ2Y3hiVmEtenl5V2pLMXdON2M4Zm5DREZxNHlja0lDc2lFbHdtcTZaZGJVb3dTRjN0cWxXMzh6WGdw0gHuAUFVX3lxTE5kX2hTbTV4N25XZlljVWVlQTlNalJibHVRR2NPRlBxVEYyYzhsaUI4U3duYnhKdG5XSk1nd0hJMnlIc3h5enUtNTJNRjRzdjJ6MGZleDcycU1VXzlWSFBWVkVaZGFSRjVMZFVvNzBObS1seVJwWHFHdmZuSEZCYXVhT1lkTUVVSTk1MXBTLTg4eFZVNEtlTDZFYkdHdXBmV1hmRWtndEs4QU9UWUZRREZDZF84czY3TXFqa3F5eC1WYnVYdHd3bFAxOU1NTHJpRFUySlRrQjBJSlZhMzZqVGtIaXJYejhiYVhiRTZ5Z1E?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "'We also want statehood to be restored', says BJP MP from Jammu - Greater Kashmir",
+          "headline": "Jammu Railway Division restores stoppage of 6 trains at Samba station - Greater Kashmir",
           "source": "Greater Kashmir",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHR6T1JJSEFfbmFITmNPV3U3RFZyeDg4VWp0SThlLWx1UllHamV4cXZPamZ3YnNCYU9WVmV0M2FWVjNVTXRQbUxOZlhnOHNUU1FBdFVXWi13NlZDWkhMbUc5bFc0Z1RjRFBET1Nzak5xM2IwYXZ2enFTYVZuSk9VT25hbUFBS2Vnd05rbGJBYWY3MG1fZVRDRVFGakt4SFI3OU5LVlNqQdIBqwFBVV95cUxQdm1TYkVURnVNRnduVEEtZ1hndUxFSldWWmcxRmF5NVE0MzlSOFNiYk1pTXMtMF92ZDR2QlZrWTJjZm10bnp2MnRxdks3eHNncWhCVDlfZG5MTnIzd2RZdVI0eGo4QmtIVHhXa0p1SnhHN2NPMGFkSlJBd3RHbk5GNThJNUZXTFdsZ1hMQnRyTWx1QXNUZG1VMlNuV2ExOFJzTTkyZGp2QjRwdUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUlMTENmMXN5UFpKSTI0VGtjcU5zMmc5V3gwekZOUS1EcHVLZUtIV2xaeTBoUjlYY295T0FVWE1UYlNLOHBHaE1TMnVRaEJ3REU0SmdYVWV5NUlBa2liOVFlUE9aUmtwLTJzLXNhMHhPOHNKckMwNHQ0ZTNPV2NqTzNQY0d1ZjZjSGFTZ3p6Z1JQWHMxWHJOb2V4T2tkaEFZZ1lXQV80UHpNemh1ZHQ2UjZCUlc3Z9IBuwFBVV95cUxQMkd6RWViMnI3MWI1UG9pWVZSalk1aXBiVDk5N1UwTTlFaXdnLWw5T0p4QW01ZjY2a1l3MDhrbFpMYU1NcTdncEppRTNQMEQ3WWxFcC1kQnZrNzNSZHpRTnAybDdIM1NlU0ZTYU5KaVpIVTZLcVpBbTFaRWUwZlcyOFgxS2R3RENIbU0ycHdZY0JSd3p2ZkcxZHdQcXctVEtpVXhIczNoNFRxaDF4MlFhbGs1UjBmdnVXcmVV?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Split vs. Statehood: Sajad Lone Endorses Sham Lal’s Demand, Jugal Kishore Stands Firm on Unity - Republic World",
-          "source": "Republic World",
+          "headline": "MP Jugal Kishore Sharma chairs DISHA meeting at Jammu - thekashmirhorizon.com",
+          "source": "thekashmirhorizon.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUV9mOERXSkdCR21GOVZyWGZ1cFZvTFNXRHJmSFczaUZRa0NhcVZXYzIwZmJYc3RBQmpvZ0ZtSzA5YkpIVWNwMm1fNmU0UTlVYVlIS0tjTWlZMDk1SlFqeXN1UWo1UWVGcXJSNnNHeFFOVFQxV3Q4TElQNUlaYU1EUk5jUV9INF9NUHh6S3otM0ZzNFJhSHdqVUgwbWhrY2tCMnpPMHdxN2VVV3ZLMnloZ2RFenVVS2pPVzdsTUFKUVVIbFl30gHKAUFVX3lxTE50TmtKdS1MYmEzY3VoSEpDUUpnRjhYSVdsdGVzdW1hQjFianhmSGZRVE5TdmhURXRxbXN6TzJsMG0zTy1ZSW9lS0dRaXVVRlVvaWxnSDhaRmhKRG9rWTJpVk9pZFdyV20xWWhDYmdSSV93dlRzSmI0UnFqazVONllkejZLbTAzTW5vV1BTVDExOVcwZzFOcWdlZjU4YnJuX1R5QlZRTjB4Wk0zeUprUUYxMkY5SXNDY2ZGSFo2QmkzSUJYcHFJa2lXZWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDVUdkl1ZDc5bjJsUDlVdlRoU3ZJNmFRQkJKMTBxcWNDeEtfNGtTVFFQeG9nMTN4QVJ5dEFKdlB2MFBDSE1RQVAzM1dMeEZwOHhoYThOXzhPU09pajRPV2NGV2hMeDdLREdqWXR1TnNmaFMtN2hPazBfLVVxU05uem94RFU3Q2RkNThfRTgydjY1ZXA3YXFMRFRJcw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Political, bureaucratic links to 31 stone crushers surface in J&K Assembly disclosure - The Statesman",
-          "source": "The Statesman",
+          "headline": "BJP holds Pragati Path Yatra at IIM, Sankalp Sammelan at Jammu - Daily Excelsior",
+          "source": "Daily Excelsior",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPblpneHpteDJuM0tmX1F1U3RGMUs4R3lTYzk1SHZScTR0NExHSUN6bnpDYkgyYnJJYnJHUnF1YWhaOXFfaEZ2b0RXN2VNWjNRaFN3a1ZRMkx3enNENVBJVGhiX09mTTEwMlBWVFdmeF96MG4zQUNtcVp1ay1oS3A2TjlNbmM0RU0zTUZLakYtVjF3RkpianpSNk1JazZNdVFIQTk5MU5iSENHcUV1WVZiSzRaUzBYU2lkVDlLenVsS1FZd2pFOXhYZFdBcVltMVnSAdQBQVVfeXFMUHo0OEEwOXViMHR1UlNhaEhnaWJLeTJNc0NMMTBzWUlQT3dNVnB0ZU9lVXhjckVUUHg0SG9UaFV3dmNCenliWldySl9vMWhFSDREV3lsQmUxbkljVGZZSzFlZEYybzB3RWtMMVRXOWtvQlQtVnJZRFhsQUY2UFN6bk1TTE50NS1IOXNhamp2NVJiajFoWEpsaUp6ZFZtdGVhS0tTZzNzbEFmalNQX0N2ZDZSeGtFdFFYMkVvLVExcWpacko1WERZeFlMYnRqaVdwWHNmQWs?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHFUemdQMnBJVUdGUWFPQTVfWmt1VGpKSHR3SjFQckt0dldsd1lTNFNMS09TSUhVcWVWNmM2cDU2YlFOMVpnYnhyb1JkV1JxVzk5MFdOQnd5aWNBOENfSmdjRnlZcnBqTmozZHBTeXlrOTJlb0hNY2toMXp6MHlnb0FoeW1URUVCOERqN3pMLV9ROVhMMDJPTtIBnAFBVV95cUxPbkZtOTFxZWl4YmZGTExDMkNDTlRNUGRiMjJIbnFBNzRPSlRxVDBEMWpRQnVJYUFONHEzeGNPdmxpUDc3aWd2TExFYVlHbGtkdG1GRTA0MlM1cTU0SXVCYlFFS3lvZUlHSWlPQ2hrQW8zdVR5VGZCUW5mODhGRWdXQVFtaTNEdFRiUTRfZzBqY2R6c3BIV01KaTRsX28?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -341,15 +397,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 40,
+      "starred_questions": 12,
+      "unstarred_questions": 28,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 78.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +413,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +444,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +477,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Jammu And Kashmir: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 76,378,942. MPLADS utilization: 13.3%. Parliament attendance: 95.0%. Questions asked: 40. Debates participated: 8.",
-  "validated_at": "2026-09-02T01:36:48.580913Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 40. Debates participated: 8. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.185052Z"
 }

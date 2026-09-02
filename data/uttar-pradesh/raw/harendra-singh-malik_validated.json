@@ -35,59 +35,73 @@
       "photo_url": "/mp-photos/5631.jpg"
     },
     "criminal_record": {
-      "total_cases": 1,
+      "total_cases": 0,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 1,
+      "pending_cases": 0,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 90780765.0,
-      "liabilities": 1129634.0,
-      "net_worth": 89651131.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 55.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.0,
-      "expended": 3.85,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:50:45.927590Z",
-          "notes": "Official eSAKSHI REST API — Works: 183 recommended, 107 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T17:41:14.185382Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:37:34.569874Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:37:34.566903Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 183,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 26.190476190476193
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:07:46.748697Z",
+          "fetched_at": "2026-09-02T17:37:34.565811Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Muzaffarnagar Election Results 2024: Harendra Singh Malik of Samajwadi Party wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdVNVbXB6akd2UGZIOV9wU3Q3NnR3ZXVrcF9OLXpod0VlYzYyTlBJYmpidnFDS0tsSWdEajZBeVVBb3JLdjZudnNfbXJjZ2d3RmtBSVl4cnFZbEpycnJmQmlDMDVPUTB0TWhxSTVoOWp2QWxqdFNRYlhXTG1FNEZWYXdPMm85cGJaNWZmOWpoeWRtX0NYYmZacnQ0anE1V0NnRUVVaGRWbDFFQUlwLTlhbGxITXhwQkJqWVF2N3ZOTFVzRjYtYzY0bVJCWWNBaVVDejJjcVcyY3FhcC1HemFiYzI0MHpHSDlQcmJseXdaUVlyOVViRlZCai1sN1dKYnpYNzYtRGoyT3pwakNmajQ2WE4yN2h6ekZ3V2fSAZ8CQVVfeXFMTzVxWXltM3dscWowZkRST2xmbW1SS3RQSUxMbXM4VXJ6a0RSMzFpS2ZxY19MQ3F3VklXeGxKNUNsODhUV1JMRlA1ZXNuVzhBcV9pd2daRHBZVEE4cjVLRXpHYjVGVUtWQS1MbldCWThvSzRadDFWUGo0NWhJLV84cDhLSWVNTkdFS1dKUzRKamN1eVlieTgzSWZla0ZUN1BRUnBPbC1ZbTFvcy04RUxtYzJVVF81X1c4Z0N2bUh1cEhGeDNaeDFaelZUQWpwTnFPMGhGSm9pSnpqSV9mcWtKZEc3WGEzYUxXcHZMeFlmMllXWmFjOHowZkRqMXpFdEhQWjZoSFdQdEdfRFdiQm5SREMzelh5OHpOcXhaeUdYQ28?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "UP: SP’s Harendra Malik defeats Union Minister Sanjeev Balyan in Muzaffarnagar - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHQ5RDVWVktQTkRIUW9tN3JmZHB1RUViWXVJWXRXZDNjNl8zeENndXI2dEZVRFM3cDczeTBJTUF2eThnNEpYWDRkWmczUGpVVXZUdEs1Y3F3SUJSWExkWTBQTmZpeHpzVFk2bkFTY3VIUEdBTXNGUlhDaVhuaTJlVWVRMnNHRWVQMW5veVZ1VXpzVmptZkNsZ0FHQVNMQkFPOHN1cTJTMTd6eXZjTjFJYdIBtgFBVV95cUxQNVg5cEQweW54TVV5TGgtNzNFcWFiOWF0TUtvREowbmhfS0hjQlduWVJoSnJ1RDNzeGxrdHNXTGlrdDM2c3VDV2UxdzE4YXQzT1NzaWtQTFh2NUpVcTFxUUtKSkRBbGlKQ2h3WUR0dENaVEpwNjA5MFNwelJpSFF3TnZzdjByajVkN3E5Q1dwckxjOXQ1TW9PQjBTLWIwU2FyOUduMkhnU3NPU0dRYUQ1ZUZVRGdjdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Muzaffarnagar Lok Sabha Constituency: Tough fight between BJP’s Sanjeev Balyan and Harendra Singh Malik of SP - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPamE1VFNjbnNHWXVsZmE0aTkyY0hqN0ZlUEFTaUFvVU9BcE1nS1BjQkZWZXc5emx1ZG1TVnpCNktsa3k0aGU3TFE5NXozU2dBdFk0RENjQ3QwVmlFNi1UUTRrTmY3bHNKWHdneXpVdWRUMFlsTThoa1QyTTBvdzZ5aG5LUnNfWkxwMDVj0gGSAUFVX3lxTE1ZSE02VmhKbjAwTTRPSWRvM1RmY3NKT3FOZDFmd0VVWS05dUR6S200WUdad2xfZmc1cWRDdkVqb0tLYlVmbFVqNWZiYi1mWENGalVuQ1ltWl9jNXgwMnJ5eGgyT25HbTl4d2FJN2s5T0hpSHQ1aWJObE1DLTh6Tl9UN2lFTGlEX0p4MllCMUZhQkR3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Battle for Jat supremacy awaits BJP, Samajwadi candidates in UP's Muzaffarnagar - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOHNRdC03d2Y0cUltYm1DejRhb0NuSnB0bk9rbzZyZlVtdlFEZlNKcDBlMUxyTEhQM3UweGpURmQwVGV2aGp3NzhmamV2Ykdkdi1VMmNsSlRhVkxCaHR6SjROWm1NQWZ4bVJWNzZObTBqQk1uZ25CUnBiTkx4dm8weFpyX0RIRmY3ZS14aWdTRXNra2wwTU1DZWJEODZwY0ZYTHNJbmxiYUxKbjljN1N1TnJwQVp1Y0dQMHRIVkZyOTVjTXExRXBZcGZpM0s1MWk2eFVHRlpvcXN0eEoyQTdwQ0RUUl8yazB2aG93SVFTV0xpQdIB9wFBVV95cUxNRHZOUzhuSWlqYTRxdk95V2FvWEMzenFjRTNfNGUyTUtzX3dBdEF0bTQ2YU9BcUJISS1obGtDOWVOemY1WUk2SDFGYU9HVzAyeVFROW5fVzdMMmFtTlBFZEJSYV9wVS1TNWgwVUN2eHFiT1EtWmY2V1hzOXdaaFdjRzRnWmthaHdDYmFuSjUxZGlYX1FpWFQtemdYYU9DRzRlcGd1UkhJQ0NZbENlWHdFN3A0bUZ2RFJ2eTMzcDBfLVh6TmZhQnlNaG9ldzM2bnFjbTQ3bFBQNTJxdmc0Z3NWZm5NVEJyaGlha3B6SFZWNWFjMGxhM1Fr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Muzaffarnagar Lok Sabha Election Result 2024: SP's Harendra Singh Malik vs BJP's Sanjeev Balyan. Who won? - The Economic Times",
+        "source": "The Economic Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRWF5Umt0RHY5b1B3ZGZqNEl0Q21NWlRrM3pSTHY5bzRoTl8zNHpFQTZ1Wi11ZlhKYWQtQklIVVdLOHRRemJFYzl2MDJDWXJDUHBKb2l2TzBJbzNZVE1PQ0RaVkxRLWNTMkJWb0RuTVF4eEg4Q2s2R2FXSGdGMjctdC1kQVhQUGVVQTZLOW9HY3hXUWlUTjNrYngzbnhnOGRIeXpZSmJ2YWI5NHBqMXAwOWdaLUgyaHhjeEZXY1BnTTZyRDhxYzhLYjk2aVBraWlpTTA4TzRRUEJtYkxpaW9DczRjclhuaXhncjF0X1RveUxQTm8xcFJOOUVUc09LRlgyQVhjQmJJdXZyc1lIc0ttT01TUEJmUHhQWGJ3NFlR0gGjAkFVX3lxTE9jMlg0VEsycnF6NnVMOFZITy1TVTZwcTlZMS1ESGxMa2lfaTl1RWctZm1teTdnQlpQcG9pVkx3ampZSHlNOWZLQmNBYS0xQnMxWmJFN1V4cDNtQWM0UkhfQ1Z0dnc3Q25vbXRJellrZ1NRNkhaOGd3VWdPVjNJbmY5dFJXRmY5b0RrVHpnTHd3T2lCRnEyVkFwSE9TTDdKNFg1cFRycjdNQWIwTFN2dWtmRzAybUtmbVBEYmVWeWpTVkVyZ2FPZEwyb0RON3FhVjVDazdHay02OWpIR25rOUtCV0VXb1NEYmlRM3RHM1EzNmpTcVVfd3JoS1YwNnplbXNhUzZEYU5PWU9rejBNWk42TWhKT1hrWEZCOWl6MHlVY0R3UQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:08:06.167223Z",
+    "collected_at": "2026-09-02T17:41:14.186369Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.532977Z",
+          "fetched_at": "2026-09-02T18:38:11.100719Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.532988Z",
+          "fetched_at": "2026-09-02T18:38:11.100731Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.532993Z",
+          "fetched_at": "2026-09-02T18:38:11.100737Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.532999Z",
+          "fetched_at": "2026-09-02T18:38:11.100743Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.533003Z",
+          "fetched_at": "2026-09-02T18:38:11.100752Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.533009Z",
+          "fetched_at": "2026-09-02T18:38:11.100760Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.533013Z",
+          "fetched_at": "2026-09-02T18:38:11.100767Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -249,7 +305,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.533017Z",
+          "fetched_at": "2026-09-02T18:38:11.100775Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -295,14 +351,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Harendra Singh Malik , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGpmb3c0WjZfblUxV1NXZlZjMm1mZ3FCeXl3UFRRMEJlWERtU2RNOURFVzBTV1plcjJ2Wk0wM3d2UUhiQVVaVTFGbDg3dXVPbVV5LVl1X0ZqWUhzazJLVkVBQVhnTFdFRnI0Z3NEY3lVX0ZPVVlkZGJCWHFuYWVpYU9Kb19MQlVCblpOUA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "UP: SP’s Harendra Malik defeats Union Minister Sanjeev Balyan in Muzaffarnagar - ThePrint",
           "source": "ThePrint",
           "severity": "low",
@@ -311,19 +359,27 @@
           "sentiment": "neutral"
         },
         {
+          "headline": "Muzaffarnagar Lok Sabha Constituency: Tough fight between BJP’s Sanjeev Balyan and Harendra Singh Malik of SP - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPamE1VFNjbnNHWXVsZmE0aTkyY0hqN0ZlUEFTaUFvVU9BcE1nS1BjQkZWZXc5emx1ZG1TVnpCNktsa3k0aGU3TFE5NXozU2dBdFk0RENjQ3QwVmlFNi1UUTRrTmY3bHNKWHdneXpVdWRUMFlsTThoa1QyTTBvdzZ5aG5LUnNfWkxwMDVj0gGSAUFVX3lxTE1ZSE02VmhKbjAwTTRPSWRvM1RmY3NKT3FOZDFmd0VVWS05dUR6S200WUdad2xfZmc1cWRDdkVqb0tLYlVmbFVqNWZiYi1mWENGalVuQ1ltWl9jNXgwMnJ5eGgyT25HbTl4d2FJN2s5T0hpSHQ1aWJObE1DLTh6Tl9UN2lFTGlEX0p4MllCMUZhQkR3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Battle for Jat supremacy awaits BJP, Samajwadi candidates in UP's Muzaffarnagar - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOHNRdC03d2Y0cUltYm1DejRhb0NuSnB0bk9rbzZyZlVtdlFEZlNKcDBlMUxyTEhQM3UweGpURmQwVGV2aGp3NzhmamV2Ykdkdi1VMmNsSlRhVkxCaHR6SjROWm1NQWZ4bVJWNzZObTBqQk1uZ25CUnBiTkx4dm8weFpyX0RIRmY3ZS14aWdTRXNra2wwTU1DZWJEODZwY0ZYTHNJbmxiYUxKbjljN1N1TnJwQVp1Y0dQMHRIVkZyOTVjTXExRXBZcGZpM0s1MWk2eFVHRlpvcXN0eEoyQTdwQ0RUUl8yazB2aG93SVFTV0xpQdIB9wFBVV95cUxNRHZOUzhuSWlqYTRxdk95V2FvWEMzenFjRTNfNGUyTUtzX3dBdEF0bTQ2YU9BcUJISS1obGtDOWVOemY1WUk2SDFGYU9HVzAyeVFROW5fVzdMMmFtTlBFZEJSYV9wVS1TNWgwVUN2eHFiT1EtWmY2V1hzOXdaaFdjRzRnWmthaHdDYmFuSjUxZGlYX1FpWFQtemdYYU9DRzRlcGd1UkhJQ0NZbENlWHdFN3A0bUZ2RFJ2eTMzcDBfLVh6TmZhQnlNaG9ldzM2bnFjbTQ3bFBQNTJxdmc0Z3NWZm5NVEJyaGlha3B6SFZWNWFjMGxhM1Fr?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Muzaffarnagar Lok Sabha Election Result 2024: SP's Harendra Singh Malik vs BJP's Sanjeev Balyan. Who won? - The Economic Times",
           "source": "The Economic Times",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRWF5Umt0RHY5b1B3ZGZqNEl0Q21NWlRrM3pSTHY5bzRoTl8zNHpFQTZ1Wi11ZlhKYWQtQklIVVdLOHRRemJFYzl2MDJDWXJDUHBKb2l2TzBJbzNZVE1PQ0RaVkxRLWNTMkJWb0RuTVF4eEg4Q2s2R2FXSGdGMjctdC1kQVhQUGVVQTZLOW9HY3hXUWlUTjNrYngzbnhnOGRIeXpZSmJ2YWI5NHBqMXAwOWdaLUgyaHhjeEZXY1BnTTZyRDhxYzhLYjk2aVBraWlpTTA4TzRRUEJtYkxpaW9DczRjclhuaXhncjF0X1RveUxQTm8xcFJOOUVUc09LRlgyQVhjQmJJdXZyc1lIc0ttT01TUEJmUHhQWGJ3NFlR0gGjAkFVX3lxTE9jMlg0VEsycnF6NnVMOFZITy1TVTZwcTlZMS1ESGxMa2lfaTl1RWctZm1teTdnQlpQcG9pVkx3ampZSHlNOWZLQmNBYS0xQnMxWmJFN1V4cDNtQWM0UkhfQ1Z0dnc3Q25vbXRJellrZ1NRNkhaOGd3VWdPVjNJbmY5dFJXRmY5b0RrVHpnTHd3T2lCRnEyVkFwSE9TTDdKNFg1cFRycjdNQWIwTFN2dWtmRzAybUtmbVBEYmVWeWpTVkVyZ2FPZEwyb0RON3FhVjVDazdHay02OWpIR25rOUtCV0VXb1NEYmlRM3RHM1EzNmpTcVVfd3JoS1YwNnplbXNhUzZEYU5PWU9rejBNWk42TWhKT1hrWEZCOWl6MHlVY0R3UQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Muzaffarnagar Lok Sabha election 2024: Who has an upper hand?BJP's Sanjeev Balyan or SP's Harendra Singh Malik - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcmRpMVROSTJraEpJRjlZT1M3UXlwY1dwTkNwS2Z0dVE1bG92ZGIzeUNDNlFZUXF6ZGNDNGxKZDltUFdHQTFObjVid3JiWXpjcXZQVl9KSWZjdDI1UGgwOGJDVC03R3BIenhqVGQtM0VDdTlEZkhkOEpiaEhsQThpYWRNLWgtT0Y1QjRzSVg3M3c5XzltUi1QZW1MMkJjSXJ4bXZrV3dPWVF0NlZQV2ltcVZTOTlhQXp4NjF6bFNkblI4RUhMMk9DS1FUZmd2MnlvVWt3YTdXTE9xSU5PZkNickpLVFJjMEtkMnhPVzNtX2laNW1SNkJEME1vMS02LTh6UjRmV2s5M2ZHWU1t0gGSAkFVX3lxTE42U0ZISjZaUWlPOFVkbFZIcXZaVGRvVmx1SWZpNk5qVGwxUFNvbzhSOFdodVRHQVppR3hYVG9GUlpFaEdidm5yZnRZeEtqc0lEMUE5YU9IT3ctRzZhU2ZZTW5INEwwT25HMmRFbWpVTWV5NVdmSy1UMW9jYk9mYkpXYzludTJxLS1kOGJVOGJES194TWN0eFRKSzBFRDFTZ2x3YXhUeU5GSHp5RXFlNWVoMndlNFZkaFRLb1V4NTJ5cjVEeG9uUjNISkh5VEhmeDE5d3Nxd253QlFfZFhsVEJxOHo1UUR3VjI1QmlJY1RLTzgtbE1zTmhwZlBNZkdzM0pMMk5BRFVqREFmTEotd0RtMFE?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -357,15 +413,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 14,
+      "starred_questions": 4,
+      "unstarred_questions": 10,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 27.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -373,17 +429,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -404,8 +460,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -419,12 +493,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 90,780,765. MPLADS utilization: 26.2%. Parliament attendance: 100.0%. Questions asked: 14. Debates participated: 11.",
-  "validated_at": "2026-09-02T01:36:53.533820Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 14. Debates participated: 11. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.101910Z"
 }

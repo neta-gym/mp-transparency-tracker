@@ -4,16 +4,16 @@
     "constituency": "Hazaribagh",
     "state": "jharkhand",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7144,
+    "myneta_candidate_id": null,
     "slug": "manish-jaiswal",
     "house": "lok_sabha",
     "sansad_member_id": 5673,
     "profile_url": null,
     "canonical_name": "Manish Jaiswal",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/5673.jpg"
   },
   "findings": {
@@ -22,79 +22,138 @@
       "constituency": "Hazaribagh",
       "state": "jharkhand",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 7144,
+      "myneta_candidate_id": null,
       "slug": "manish-jaiswal",
       "house": "lok_sabha",
       "sansad_member_id": 5673,
       "profile_url": null,
       "canonical_name": "Manish Jaiswal",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 59,
+      "age": null,
       "photo_url": "/mp-photos/5673.jpg"
     },
     "criminal_record": {
       "total_cases": 2,
-      "serious_cases": 0,
+      "serious_cases": 1,
       "convictions": 0,
       "pending_cases": 2,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "0380 Dt. 09.10.2021, Sadar Police Station, Main Road Hazaribagh, Jharkhand 825301 | Section 51 Disaster Management Act 2005, Section 3 of Jharkhand State Epidemic (Covid-19) Act 2020",
+          "ipc_sections": [
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "SDJM Hazaribagh, Miss Arpita Narayan (MP/MLA) Court",
+          "fir_no": "0380 Dt. 09.10.2021, Sadar Police Station, Main Road Hazaribagh, Jharkhand 825301",
+          "case_no": "380/2021, GR No. 305/2023",
+          "other_acts": "Section 51 Disaster Management Act 2005, Section 3 of Jharkhand State Epidemic (Covid-19) Act 2020",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "131/21 Dt. 31.08.2021, PS Katkamdag, Sub Divison Sadar, Dist Hazaribagh 825302",
+          "ipc_sections": [
+            "147",
+            "149",
+            "323",
+            "341",
+            "325",
+            "337",
+            "379"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "JM Miss SS Minz 1st Class Hazaribagh",
+          "fir_no": "131/21 Dt. 31.08.2021, PS Katkamdag, Sub Divison Sadar, Dist Hazaribagh 825302",
+          "case_no": "",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:22.479069Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 362999932.0,
-      "liabilities": 58896276.0,
-      "net_worth": 304103656.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7144",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.356243Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 80.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 1.55,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
       "expended": null,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:23:01.257837Z",
-          "notes": "Official eSAKSHI REST API — Works: 195 recommended, 31 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:31:27.522759Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:22.868007Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:22.865458Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 195,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -110,7 +169,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:45.907568Z",
+          "fetched_at": "2026-09-02T14:27:22.864420Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +177,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "BJP MP Manish Jaiswal meets Amit Shah over Jharkhand exam irregularities - Telangana Today",
+        "source": "Telangana Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSjRVZEVFWERfbFZkQUpJek4wbWptREk4SlZtTkFYMlU1UHdnMGJ3N0ZYSlFOZ0U3b2dnQ0ZSSW9HQ2tMZUZEWExKVHA1U1JfMzNFRlBtM0FfYkk1WU9raE5JY2tHVDBjTHFXSGN2VG9VWUZIcEpsNi1SSTI0akRJUUVYWTJJaF9DSmtwU3ZrVVl3X2NINGJVLW1hV2poVjJU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hazaribag BJP Leaders Manish Jaiswal & Pradeep Prasad Resolve Cricket Match Dispute - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ3FmTTFJNHRVUXVUR3pBbTBNM0wzVlNFMlV2VzNQRVp4TmJxUHJVUUJJOEhqVEJfdWhlZEt1SnctTE1fYWlYWTFSUmVZN3V4VXNxRHIxdWl5Z20xb0FVMUtTeUYyUlpJQWhLT3RzSDNkVTIteVEzaVRITEZtczI4MXBLc2hSY3ZGa2lkc3NScnVzVUVMQ09GZElHSXQxNk5iSEZhbThNaVFSYm5zOW1GVUJBaENPeTYtOVhleG1TTVk0eG1BeVhJcUcxT2pRQVRfVlFzT2tYc2I4UEpaVkxoVTFQZDFVejAxbWdZ0gHwAUFVX3lxTE5sRGprUlJKT3REWFBPWk9OcFkyYXpHdjNPMGVzZVI2MlF6R092V2ZibE1zZFF0TlFZa2QtQTlwTUxRMm1YUmdwZ1ZWQzYyMU1EX2pud25vSGFPNU5mcmgzbTNRQlBUXzhUbTR0a2NKdG1YV2VRVS1EdnpXQmNEYXhtTDV4YXIzTFlQaGtuNTlRU3M5TkZuNHNiYWVSNlJCb2FpV19vOXNiRHFtWmFDTE9JWG94S2FYV2tUcGoyLU45UDkxYkZfU1VPalZpMmhsamNFY2ZFTXhyYjQyOThoQUNPd2dpdjVocWhZY0lYdWVfVg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hazaribagh Shuts Down, Protests Erupt Over Minor’s Rape-Murder - The Avenue Mail",
+        "source": "The Avenue Mail",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ReV8yRzNXVktIRUx5QzZiZG90b0pESzFuTE90VU82QmVsU1I2ZWJCYkhOelRuQkZmbmNJTlFDQ2RXd2paS0Q5OHRUbWkzczJsSzF1SzRxNUtVN090Ni10cThoTU1SeXlfZDFpYWYyNzl6UXRLVTJ6cUNn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP raps officials over frequent power cuts in Hazaribag - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUU1jbzNUNWdBS3c4Zm4zSFZQQmh3RnJoakpwbDBDLVY4QktYc0ZHWVFyYjNuZnNBRHNLQ2VZYnlDUk9RVmZCYk5oLUxnWElwNHlCU3IzZW00ZXFHNWtzUnBRRFRmdUZLZmc5OEVYTkk0NzV4RkVKNFQ2M3lGX1MyM0YwYnlBMVhYWG5BMzhTSjFqb2t5MlZWNzBtSjVXeE03cXpNaXpjUjBnWnpKTGlWMi1pS2tpS2IybTZyU0NiV1dRSUs2ZDlsZNIBzgFBVV95cUxNT0xIZUk4Z25hLXUyaTJrZGU5Nm94VlFrbGpnNGhhTkNNLUpDWm83YTJra1o3VF9HZjduWTNzNm1OaTRYR2VuUVlleTFGMHE3TUJFLUVYOERaajlkbW9XZ1hEVFJBM1Bod2lPN1J6TW1NNVVWbGN0bkFkMmY3VGRTUFo4ODhUTThPclZjSW01cTJGQ1dOdUtvZFFHN2Z4b2FVbGM2SWdwTHlHM2xKQ0VnMXZiZXRDOVpvOXlaWTlGX2JCb04wNkRWaHBYdTZVUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hazaribagh Lok Sabha Seat Result 2024: BJP's Manish Jaiswal Wins By 2.7 Lakh Votes - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOb1EybjZlSTZkaHY3NEhKc1Q0dnV2RDIzZnMyMU5XZXFWelgxb0plM3R1R05ocnY1aGptTExPZEhYbzFUXzdTU2l5WjlvdUFxM1VrOTVXazVzUWk0dVNXU1J3clVZbzU2Z2xHSV9nTmxfMzJqdWNOUGxveVo3Y3k3NnhOcG1ldHB0amh0XzJwMXJQZ2hWaS1CNVRDaXlKWkxXWWdLUHJzMGZ0Rl8wbGpVYlBTNTFacHRDZHNTclZmTUdiVHRwbmIxeG5vZDBRS3Z6Sk52TTRqendNTzBidWJSM3ZsSlZadFN1dGNBTjF0MGxQMEtXeDdXeHFmRzl1LXcwUU1mekJ3UHjSAY4CQVVfeXFMTzhXRXN6N0tnbHRPMTN5MXpoMkZaeDVySFdUREVfUGVmby1RQ2dpZGxhWVg0VDg4RW9HT24xay1oUTluOFMyOU5CZk9hNWZGaUh0QkJfbHd0bzE1amZnOWdXVkx5SVVGVHNFa3JIUHJCWjM2dW5jdTZaWlhIRDRiUUpjOGdmTHNUTGV1UmZ5SlF2XzBrcEE2TFR3NDdPX01remlXQjRaNjY3MjhLbmtvXzl6ZHE3TFV3LXhRbjJ1UXdIMU5HdzBncGVpc1hNTmFPb250aF9nYkdkWW1sbi1nVk9Xa1djVXR2RnQ0Y0o3alFLaVR0cmpnc0o3dW56VGtrbmc4YmN0N2hBNzVXZFlR?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:48.614518Z",
+    "collected_at": "2026-09-02T14:31:27.523887Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +246,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.780074Z",
+          "fetched_at": "2026-09-02T18:38:06.336721Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +262,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.780086Z",
+          "fetched_at": "2026-09-02T18:38:06.336734Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +278,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.780091Z",
+          "fetched_at": "2026-09-02T18:38:06.336743Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +294,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.780098Z",
+          "fetched_at": "2026-09-02T18:38:06.336749Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +310,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.780105Z",
+          "fetched_at": "2026-09-02T18:38:06.336757Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +326,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.780110Z",
+          "fetched_at": "2026-09-02T18:38:06.336763Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +342,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.780115Z",
+          "fetched_at": "2026-09-02T18:38:06.336767Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +367,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/Manishjhzb",
+          "url": "https://x.com/https://x.com/Manishjhzb",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/manishjaiswalbjp",
+          "url": "https://facebook.com/https://www.facebook.com/manishjaiswalbjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/manishjaiswalbjp",
+          "url": "https://instagram.com/https://www.instagram.com/manishjaiswalbjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:27:48.303297Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,11 +413,19 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Rs 114-cr road project to transform Hazaribag’s old NH-33 stretch - The Times of India",
+          "headline": "BJP MP Manish Jaiswal meets Amit Shah over Jharkhand exam irregularities - Telangana Today",
+          "source": "Telangana Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSjRVZEVFWERfbFZkQUpJek4wbWptREk4SlZtTkFYMlU1UHdnMGJ3N0ZYSlFOZ0U3b2dnQ0ZSSW9HQ2tMZUZEWExKVHA1U1JfMzNFRlBtM0FfYkk1WU9raE5JY2tHVDBjTHFXSGN2VG9VWUZIcEpsNi1SSTI0akRJUUVYWTJJaF9DSmtwU3ZrVVl3X2NINGJVLW1hV2poVjJU?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Hazaribag BJP Leaders Manish Jaiswal & Pradeep Prasad Resolve Cricket Match Dispute - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVWtLSUdhN3NoSE9pa0NrcEJ1WXdlQ21fZ3FDUGM0S2tRcWJiYUZuVEZNTXM0ZENtTE9xWTNzMUdEQWUtQmJyeFY5VTAtLUUtYVR5WjJGTkRBc0d4Z0VTTGNYZmx3OEZfamxodm5EMVVuY1N2RHVLMGFOUVI2bDcxUDVfWmFETlAtZE5vQXMzTEVZd212OGFfU1hSaXloanBSU3o0RHNmSldPSm1FanlzOWR3UVlmZXp0RExfdVBaUGtqeU4yaGxVd2NqTjNId1FfNFpFSdIB2gFBVV95cUxQOEd5ZFU4Y1J3eTl0UFQwQVRvdHFwOC1KbnZQaXlpcnNQZHcwZFZVNDAwWW42bmRVVDRyVjNMZlJ1Nzk5eGMxYjJwVnVaWjJ0Rzc5Z2JyTGtvcllRZDJiUDVBNUY0Qlg5em5qT2J5OERacXlJZU1BYmFPSnBuY1NoUHBwdFYtY2R3ejVMRW0zME8zeXZQQXdoeFUxT3RnU2xtZUp3VWtVdWdvLUpadDRfVjFJQ1RsQmhCVWJEd19XN1VNQmVCREQxUm1zOXBYd0NBR0FqcTNoaU1xZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ3FmTTFJNHRVUXVUR3pBbTBNM0wzVlNFMlV2VzNQRVp4TmJxUHJVUUJJOEhqVEJfdWhlZEt1SnctTE1fYWlYWTFSUmVZN3V4VXNxRHIxdWl5Z20xb0FVMUtTeUYyUlpJQWhLT3RzSDNkVTIteVEzaVRITEZtczI4MXBLc2hSY3ZGa2lkc3NScnVzVUVMQ09GZElHSXQxNk5iSEZhbThNaVFSYm5zOW1GVUJBaENPeTYtOVhleG1TTVk0eG1BeVhJcUcxT2pRQVRfVlFzT2tYc2I4UEpaVkxoVTFQZDFVejAxbWdZ0gHwAUFVX3lxTE5sRGprUlJKT3REWFBPWk9OcFkyYXpHdjNPMGVzZVI2MlF6R092V2ZibE1zZFF0TlFZa2QtQTlwTUxRMm1YUmdwZ1ZWQzYyMU1EX2pud25vSGFPNU5mcmgzbTNRQlBUXzhUbTR0a2NKdG1YV2VRVS1EdnpXQmNEYXhtTDV4YXIzTFlQaGtuNTlRU3M5TkZuNHNiYWVSNlJCb2FpV19vOXNiRHFtWmFDTE9JWG94S2FYV2tUcGoyLU45UDkxYkZfU1VPalZpMmhsamNFY2ZFTXhyYjQyOThoQUNPd2dpdjVocWhZY0lYdWVfVg?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,19 +445,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Outrage Over Rape and Murder of 12-Year-Old in Jharkhand - The Avenue Mail",
-          "source": "The Avenue Mail",
+          "headline": "Hazaribagh Lok Sabha Seat Result 2024: BJP's Manish Jaiswal Wins By 2.7 Lakh Votes - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzREQ3VYdWQzYzd2Zk1haWxjRTBqVW5YSUM4YXY2ZVVxWTdqVTgxUVpUM0ZnV3g4ay0yRnJYRktNdWFmTXdTSGxoTnVEQU1xOTl6VlBrc0MtWDBwU090SjlSb3p5cVhVNmk5SWU4YmNteDNFZHBSWEJTQ3Z3ejFIYmIxZU4?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Hazaribagh Bandh Called by BJP Over 12-Year-Old Girl's Death: Demand for Justice - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORHNXT2d6VUNrRVlETktHa3pwZlJKaTZSUmVCYTRXRlE5bUlEZnpUZGlpU1hJRWxUN0VrM19YVFZkTWV2dk05d29lMXo1YV9tN1JDSC0wbWloOGNZQ0lEdGVwWUJTNnBMaElxZVNMZ0JYNk9MdF8wdllDS3dURVBwdWFvNGRhR1pTQ2NocmRGMXB6d2Q0NGhxMmNUUGRkRDFaUEIzOEh1SzBSOWZQZlVuRnFCZ3RsZWw1MGowY0cxb3dUUHAxTEFBZ3cwcm5jZ2tJTERoNXF3U2RiN19ZUlBoR3N1NDh6d1XSAewBQVVfeXFMTWhyYm1Hc19SbUVKX0VNYUZmYjJ5RDVfREFFYUlZWnVacGhZRVFhWkdxYmtSbkQ2ZUhISGpHTmpjNkcyZkxZWjNsNmdPS3B5VHpabTJPdFZaYmRfYnk4Q3JEYWxXQzFVZE42TVlxeFVXdlBlWG42amhmY0g4Y0xZeWRxOXJEaXY1V1pQM0hvYWljUEd6djJpM19wcXNaZVNWNXhIRzJmeUhUcGFxODFOZGZ5NmNXVEprYVBkdndfZzd3cVdXUGZ2Z041WExiNUhMQ0JBU0ZmcHJoZXNWa2xoc1BRNFJ5SlREb3pzUzY?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOb1EybjZlSTZkaHY3NEhKc1Q0dnV2RDIzZnMyMU5XZXFWelgxb0plM3R1R05ocnY1aGptTExPZEhYbzFUXzdTU2l5WjlvdUFxM1VrOTVXazVzUWk0dVNXU1J3clVZbzU2Z2xHSV9nTmxfMzJqdWNOUGxveVo3Y3k3NnhOcG1ldHB0amh0XzJwMXJQZ2hWaS1CNVRDaXlKWkxXWWdLUHJzMGZ0Rl8wbGpVYlBTNTFacHRDZHNTclZmTUdiVHRwbmIxeG5vZDBRS3Z6Sk52TTRqendNTzBidWJSM3ZsSlZadFN1dGNBTjF0MGxQMEtXeDdXeHFmRzl1LXcwUU1mekJ3UHjSAY4CQVVfeXFMTzhXRXN6N0tnbHRPMTN5MXpoMkZaeDVySFdUREVfUGVmby1RQ2dpZGxhWVg0VDg4RW9HT24xay1oUTluOFMyOU5CZk9hNWZGaUh0QkJfbHd0bzE1amZnOWdXVkx5SVVGVHNFa3JIUHJCWjM2dW5jdTZaWlhIRDRiUUpjOGdmTHNUTGV1UmZ5SlF2XzBrcEE2TFR3NDdPX01remlXQjRaNjY3MjhLbmtvXzl6ZHE3TFV3LXhRbjJ1UXdIMU5HdzBncGVpc1hNTmFPb250aF9nYkdkWW1sbi1nVk9Xa1djVXR2RnQ0Y0o3alFLaVR0cmpnc0o3dW56VGtrbmc4YmN0N2hBNzVXZFlR?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +483,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 63,
+      "starred_questions": 18,
+      "unstarred_questions": 45,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +499,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +530,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +557,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Jharkhand: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 362,999,932. Parliament attendance: 100.0%. Questions asked: 63. Debates participated: 7.",
-  "validated_at": "2026-09-02T01:36:48.780990Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (1 serious), 2 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 63. Debates participated: 7. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.337518Z"
 }

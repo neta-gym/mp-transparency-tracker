@@ -4,16 +4,16 @@
     "constituency": "Rohtak",
     "state": "haryana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 8497,
+    "myneta_candidate_id": null,
     "slug": "deepender-singh-hooda",
     "house": "lok_sabha",
     "sansad_member_id": 4207,
     "profile_url": null,
     "canonical_name": "Deepender Singh Hooda",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 46,
+    "age": null,
     "photo_url": "/mp-photos/4207.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Rohtak",
       "state": "haryana",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 8497,
+      "myneta_candidate_id": null,
       "slug": "deepender-singh-hooda",
       "house": "lok_sabha",
       "sansad_member_id": 4207,
       "profile_url": null,
       "canonical_name": "Deepender Singh Hooda",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 46,
+      "age": null,
       "photo_url": "/mp-photos/4207.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:04.565438Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 692558771.0,
-      "liabilities": 2318344.0,
-      "net_worth": 690240427.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8497",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.746131Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 88.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.49,
-      "expended": 4.88,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:14.439645Z",
-          "notes": "Official eSAKSHI REST API — Works: 142 recommended, 127 sanctioned, 32 completed"
+          "fetched_at": "2026-09-02T14:30:49.866947Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:05.229938Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:05.227072Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 142,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 33.197278911564624
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:15.959938Z",
+          "fetched_at": "2026-09-02T14:27:05.226003Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Deepender clarifies remarks on Sajjan Kumar as row deepens - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEdSR0RSQk1oZm54SnE3NkFzM084MEszQTdBZFJGYWgzR1NDdWg4RTNOUmxzUTNjWlhhLTRtSE1SMDlPQzJhUFFiTHQ4RnBGTmhEaFZ6cEhtQ0tvM3l5NXItMUlxcVpNdXJ4ZC1sUVgwZGg2N0JraTRGRHdId21UaEk3ZlEyZ0R5S290S2pOS1NUbjBwdWxLSmpKZndlVzN0Ym9tOTJSMURxOGQ3OVdjaXM4QkpvSGhVcXhQNVM3cDlSbXNsQm9tOHM3TzZIUEh6WnfSAdcBQVVfeXFMUGt5REZfYWtTdVJWV212ZHE2ZThlRjZsMEZLTUJPb2E4cThRbC15SU55V0t5dVR3UWdrcnZWV09JY2ZnMEpDUVRFNHQ0MEQwdUVYUk04RVRyenZWaC1SVl9YZkE5bWEtcFo2UV9CMkg2TkxwNEl6ekQxMFZzQjRJdlE3OHRxVXJyMEx5QmU1M1QxU0pLM1RPVXZtV2JrM1pPNURraDV1RThFSmhaUi16Skpmdm1yR1pLSTFNMU10RkY1SHJiVURvTkVmeFdjUUNLUHFIa1Ffa2s?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "After Deepender Hooda called Sajjan Kumar ‘role model’, Channi: ‘traitor, deserved to be shot in public square’ - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGUxb0hTcW5wbTRyZ1BUT1pYYWNpSExIWUpwajZSMFZrR1lLNXV4MFhrUFFWcWI3TjZQSjF6UlAwWmZtaXk0ME9GY01rNmVCOTIyS3U3TUdsazBkUHZKQi15SFU2ZGNORTJ1QmctWHRsMk5URm5QQlNhSTZtZWdBR2ZTT0lFWlRmQ0ZhZzhqSHU0X2VmMzBDbVc0VFlPNUxRQ2t1T25zMi1HbUlldjJQalJKejhzVEFEVlFtV1hZOXBIQ2RYLWtOc1U0YlBGTHRFTEhOTjVFMFfSAd8BQVVfeXFMT2ZyQ2tkbm5zZjYzNUZxX1hXUE9NNF9FeEhFR2djQXhiTEpuM2lJVU9yd1V5ZTE1Q09jeTAxZmpyWGVnaHZuNzEtejFHNzA3NzZOd1M2M2dieWVZWWVlVVFud0FBY2NsSVRFYjdHdFh3N3MzdXhnUUxoazQ1aVpQbDcwcmNTLU9fdmxaMVRxTVJZbGZSc2REelBQWVVJVWJhb3plczJZUWU4ZUFzMU1hRElrNzZnbTUwRjdvWmNOY1ZJNS1ubDhnNlpLQTRkR25qOThESGxqTFR3bDFNOHVqYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘He was inhuman, not an example’: Channi draws line after Deepender Hooda’s tribute to Sajjan Kumar - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTHVGeVNZdklmZU5DWmx1N0ZMSm9KN1MwQ2picWxRSEV5WGdlTm52dndjTDBHSXprU0w4MjFobVBremRUbTlTeU9rREFEbGwxcUNULVl2aHg1ZHNzNFI3VlBNdXhyWm5KVUxISmJPRjJMeUhWRnl2MnpPWGI5VGpEeUV3RmtBa3dERGZCVVRoOWlrYVlpVVc3aWhqV01YUVdNRzBoV2N0eUREMUJYSHpnM1dmVEpaVlRyNC1xbTNQVmlCV2x4ZFFuR2dsUkVRTE8zYzNGStIB2AFBVV95cUxPZWtkamZiV1B5LTVwckgwWExtd0R6eGxjaDZ6ODMyRnBWZGR5TThCaFdRSFY5b1JTZUxtOExwOUlHbFVaY0VPZlV2c3o5dUJDTnc5Rlk3M3ZWaVdlOHo2LWx3LWI5WEpQUFE5bzhRdjBZcWl4Q2pZZ09YemJiNDU0RjRtcWlQNHNIbzM0Y2hHNmFkclZyR3A2aHFzZFlpUkhHaVZHaUlHZFBDY1ZzelFSZV9kRFFfeUdwVk5HbU91eDgxWk5XRE5RZXVVWmVUb1lXWDNJZ0JrM0Q?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Survey ranks MP from Rohtak, Deepender among top 30 MPs: Cong leader - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWlia0VDbmluek5Uc3RBVGVCZlFTR1lkNlh0MVNoc182VUtuN09XTzc4QXRLOXIwdlZyYlNZczVNRkdJNjUxOWRNMGpPNXdjR0xBMzlWVlVYeGhkWjBTeE5MNW8zOXJrZ21nZ2t1WTFpMzdJbVp4bXBsODBydnh0M09DaTlwMlFXTHIwSXlyck1TQWxwOHZJaFNGRXJUeUcwQUJVc1duRnk4Ry1nbGc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Devastating Fire In Rohtak Market Kills Three, Gutting Ten Shops - Rediff",
+        "source": "Rediff",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGpPX0NERFJya29GRzlOTHpBaGZzRlpkQkNaTDY4bVQ4Z242cXAwM0w5NEtJWU5QakFDY3M1SmZGYTlrR3RWalgyNEp0ODF5QW9mZVFZSzFTVkNCTmRKaGhVNFU1ZW03UFlHMTJQdWFFZ0g2UzE5eUZLOTdONGQ1UnpKMTZ2WmpPMnc2Tjl2VUNLMUxfTThiQThHWnMyYUXSAaIBQVVfeXFMT3FiS08zbURCeFl0a1ppUnBHS3daSUw3U2FOejNzVEp4d2xMc0hXMldCczlIZGJiUE5VQ3VObjlwcEVIUVZNZTVRQk5WYzgyazlpUV9LYWktUS1hdTNkbW9yZXctWnhMLWp1LWZGNURSSDNQTkZoV3ZMRmV2UmdDbXhTOWxaTmJ1Slc4elZHVE40dXk2bWtQdDVwRDNzUjBnYXln?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:22.191179Z",
+    "collected_at": "2026-09-02T14:30:49.868177Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.283902Z",
+          "fetched_at": "2026-09-02T18:38:05.913742Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.283910Z",
+          "fetched_at": "2026-09-02T18:38:05.913753Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.283916Z",
+          "fetched_at": "2026-09-02T18:38:05.913759Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.283921Z",
+          "fetched_at": "2026-09-02T18:38:05.913765Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.283926Z",
+          "fetched_at": "2026-09-02T18:38:05.913771Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.283931Z",
+          "fetched_at": "2026-09-02T18:38:05.913776Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.283935Z",
+          "fetched_at": "2026-09-02T18:38:05.913781Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,43 +335,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "‘Photo protocol’ breached again, poster triggers buzz over rift in Hry Cong - The Times of India",
-          "source": "The Times of India",
+          "headline": "Deepender clarifies remarks on Sajjan Kumar as row deepens - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnZSSDRGc1YzcllUbnh5Vl9CSXN6ZVplVWh6UHp4SXRjaU5fZWF4TVpTekliZkd5dlE3VHg1bkdYUkxsWmhNbGZtMHQ1aEVVX2VVdUs3eGVKUFh2Um02dnhmMGtDRUxqcmctZHE3TUxYdGtHMHdaVFFFSWRwSWJzNmV1T0taeHhWR194VTNYcjRIUUhsSmhWZnhSX2J0MmlLTUxlU3g0Z0gyNmFEazBwV3EwMmJsTzBEdkRhSGRTTWVQOFJ5eEpZejBYYmk1MS0zWnRfUDFpdWZFUm5HY2VuMGZ3SULSAeoBQVVfeXFMTkloY2NIeGtJakNjSXFFaDB5X05IeW5UTjd5T0tpVktFSGF1S1d5NXhONS04LU4xLXR3LTlWVTh6bmwwNVBTQUdQeHA1YnJRU1drQzczRl8wTHVDc0JQWXk5RVk0RkNQcV9iTjdVcHpseVo3M0tLaVZhenhQcG1qUlVkN2R5LXRKOUZ0RUJNZTFYcFVXbUhCWk1xTWxkRngzb3hHMTk5NmtlcjFzN2w3QU9yeDRLYUJ5X2M1MmVKNkRXbHVKemh4dmY0MFcwNGNYdjU3ekx2TGV4NkxTNl8tUTI1QWlUU1JBQnpn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEdSR0RSQk1oZm54SnE3NkFzM084MEszQTdBZFJGYWgzR1NDdWg4RTNOUmxzUTNjWlhhLTRtSE1SMDlPQzJhUFFiTHQ4RnBGTmhEaFZ6cEhtQ0tvM3l5NXItMUlxcVpNdXJ4ZC1sUVgwZGg2N0JraTRGRHdId21UaEk3ZlEyZ0R5S290S2pOS1NUbjBwdWxLSmpKZndlVzN0Ym9tOTJSMURxOGQ3OVdjaXM4QkpvSGhVcXhQNVM3cDlSbXNsQm9tOHM3TzZIUEh6WnfSAdcBQVVfeXFMUGt5REZfYWtTdVJWV212ZHE2ZThlRjZsMEZLTUJPb2E4cThRbC15SU55V0t5dVR3UWdrcnZWV09JY2ZnMEpDUVRFNHQ0MEQwdUVYUk04RVRyenZWaC1SVl9YZkE5bWEtcFo2UV9CMkg2TkxwNEl6ekQxMFZzQjRJdlE3OHRxVXJyMEx5QmU1M1QxU0pLM1RPVXZtV2JrM1pPNURraDV1RThFSmhaUi16Skpmdm1yR1pLSTFNMU10RkY1SHJiVURvTkVmeFdjUUNLUHFIa1Ffa2s?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP did 'vote chori' in Haryana RS poll; action to be taken against MLAs for cross-voting: Congress - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "After Deepender Hooda called Sajjan Kumar ‘role model’, Channi: ‘traitor, deserved to be shot in public square’ - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQnRzeXlTSmIxVHJhN2FiZURCN0RTSk03VXV3Rzl4Q1dkYXgzSGxVVzhtWDV6aWdKVHRFcmN1SGZYdzd5YmpVVHdRMjVJcjZ0WWUyYXRXUUl0VTBNVm5KMU05U1VCQU1aNVZwd1A1Ykh6RlhNVzg5Vk9uRnFxYmh0ZEpJUWdkaDdMTld6ZktidmtvNG1uemJCZm1mRDd1ZUN3N3E4ZnMwc0lVSDBMYmVZVzB2anJCcHBIVUkzNW80dC0xNFlsSWlPMUp4NTlHbXhMMVpuc0FFcVJaNU11aWxz0gHsAUFVX3lxTE1oMndROFJtNUdMYW9jcDd4Q1FsTXJHU1g1eUR2eE1MZTFJbVdrd19NVVN4T1VEWVBPWU9NOEg1MWZrc3duVzVFZ2hjcE82ODBxZWFlR2t6NThzRVBGdmdNQUVXN1JMMWpJbHFLMXZqdVJqVTJ0UEtMMDUwTlFXeFNrZUpTMlZZd3NiTmRpWi01NnNCenF3aG1kWFRSNml5SGVSWTQxSm12UE45WXZ4bm85WTgwc1VUc2lZdGs0VENMeHJaQ0NXNHZYa3BHNWVWUUxVOVJKTF9pZnNVOXZ4VXdZM05TQlFLZ1RiOEJQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGUxb0hTcW5wbTRyZ1BUT1pYYWNpSExIWUpwajZSMFZrR1lLNXV4MFhrUFFWcWI3TjZQSjF6UlAwWmZtaXk0ME9GY01rNmVCOTIyS3U3TUdsazBkUHZKQi15SFU2ZGNORTJ1QmctWHRsMk5URm5QQlNhSTZtZWdBR2ZTT0lFWlRmQ0ZhZzhqSHU0X2VmMzBDbVc0VFlPNUxRQ2t1T25zMi1HbUlldjJQalJKejhzVEFEVlFtV1hZOXBIQ2RYLWtOc1U0YlBGTHRFTEhOTjVFMFfSAd8BQVVfeXFMT2ZyQ2tkbm5zZjYzNUZxX1hXUE9NNF9FeEhFR2djQXhiTEpuM2lJVU9yd1V5ZTE1Q09jeTAxZmpyWGVnaHZuNzEtejFHNzA3NzZOd1M2M2dieWVZWWVlVVFud0FBY2NsSVRFYjdHdFh3N3MzdXhnUUxoazQ1aVpQbDcwcmNTLU9fdmxaMVRxTVJZbGZSc2REelBQWVVJVWJhb3plczJZUWU4ZUFzMU1hRElrNzZnbTUwRjdvWmNOY1ZJNS1ubDhnNlpLQTRkR25qOThESGxqTFR3bDFNOHVqYw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Rahul Gandhi: Congress leader attends farmer’s daughter wedding in Sonipat - Deccan Herald",
-          "source": "Deccan Herald",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2pEXzlKTkg1ZG9SSldtN2FjbW1yVFl4VF9xWENjeGtzV0ZwQktnOXB3VUdwMGh2TkhpNkd5UG9SeWhxX2NSbk5vQTJWWjZNOV9xLTUtVHNTR0ZzSUdSYXF4V3pkLW9tS19WM1JVUFBob1dVNy1tamJXel92S1ZPeHl1Z1h3VWlYaTF3NERaWVJzS05XREIwcXFIRFBrVDVrMEVNRjRBZmw4SXl0TlFxbkRXd3I1bm91NnkwanVxYTVSZzQ4X2c?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Cong MP Hooda Slams Govt Over 'Record Faultlines' In Economy - ETV Bharat",
-          "source": "ETV Bharat",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVqQnpST0pnV1pWdUx5NzdQb2Ytdm9ZTW1ac0dYS0ZpWV9yS0x0OFRRRHg0bnkwUXVPUGxvMURkQjhpMEp1WW5oMkxNRmwzN0xOQlJTamVZdDVuVVFaZ3B2aGZLa0c2U2tNUmJJcWdFSjZvYkdlYTNjZGpjVEp5NjlOTjR4UTBhR2hUa2dLUG94TEptM3N3TzVJcW1HQVoxbFQ2Sy1yWnBDMTZSalNWM1hBVdIBuAFBVV95cUxNdGEtU3lzWjExQUtyeDMtZC04TXV4V3FnX0paQnNaM1lHdm9LTGxYcHNORHkyVUoya3A5c3RFcGdIMXRTc1l0R3Q3MjRPQ091QWNwQzdmWXpLTWNQUFF4X1owT1oxeGV2Rk9acHo2WlJjWXdGQy1qR3A3S0htZm55WVpsUEpPU1NJTHh3M2Z2dmJRUXdoekMtVFM0cGdhZHk2MVVwVUZTMFNPa0Z4cDZmNlRudDNCNDA2?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Deepender Hooda slams state govt over ‘collapsed sports infrastructure’ after death of teen players - The Tribune",
+          "headline": "‘He was inhuman, not an example’: Channi draws line after Deepender Hooda’s tribute to Sajjan Kumar - The Tribune",
           "source": "The Tribune",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM3ktZEZGOTNnWEFHc0ZOaUxkNFVwLWpIVzF4c3NLQ1U2bHVPa1hJMU0tNDROMXNIMUJXMjcyY19xbVNNYWhrZ3VtNlBkZTJ2OVh2M2xraVlZUXVvSUJHaEhjS29IMFdGbHZ0OVIzZnJyLVIwTHhEazBOTnlxOV9LLXZOeEdBSjVwSzBCQk1JNnVJVjNCbHh0QXB0VzF1VktacEtjZjdqbjBpNldOTnViQVBnZ0UwbkxuYkZCRE1zMFh5YXAtWXpZT3Rqc0lTLVZOcTJJbm1HSjJnekhleWRqQ2U4djFva0FEUkV4MnZPUnlKZW1GM3lpbA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTHVGeVNZdklmZU5DWmx1N0ZMSm9KN1MwQ2picWxRSEV5WGdlTm52dndjTDBHSXprU0w4MjFobVBremRUbTlTeU9rREFEbGwxcUNULVl2aHg1ZHNzNFI3VlBNdXhyWm5KVUxISmJPRjJMeUhWRnl2MnpPWGI5VGpEeUV3RmtBa3dERGZCVVRoOWlrYVlpVVc3aWhqV01YUVdNRzBoV2N0eUREMUJYSHpnM1dmVEpaVlRyNC1xbTNQVmlCV2x4ZFFuR2dsUkVRTE8zYzNGStIB2AFBVV95cUxPZWtkamZiV1B5LTVwckgwWExtd0R6eGxjaDZ6ODMyRnBWZGR5TThCaFdRSFY5b1JTZUxtOExwOUlHbFVaY0VPZlV2c3o5dUJDTnc5Rlk3M3ZWaVdlOHo2LWx3LWI5WEpQUFE5bzhRdjBZcWl4Q2pZZ09YemJiNDU0RjRtcWlQNHNIbzM0Y2hHNmFkclZyR3A2aHFzZFlpUkhHaVZHaUlHZFBDY1ZzelFSZV9kRFFfeUdwVk5HbU91eDgxWk5XRE5RZXVVWmVUb1lXWDNJZ0JrM0Q?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Survey ranks MP from Rohtak, Deepender among top 30 MPs: Cong leader - The Tribune",
+          "source": "The Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWlia0VDbmluek5Uc3RBVGVCZlFTR1lkNlh0MVNoc182VUtuN09XTzc4QXRLOXIwdlZyYlNZczVNRkdJNjUxOWRNMGpPNXdjR0xBMzlWVlVYeGhkWjBTeE5MNW8zOXJrZ21nZ2t1WTFpMzdJbVp4bXBsODBydnh0M09DaTlwMlFXTHIwSXlyck1TQWxwOHZJaFNGRXJUeUcwQUJVc1duRnk4Ry1nbGc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Devastating Fire In Rohtak Market Kills Three, Gutting Ten Shops - Rediff",
+          "source": "Rediff",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGpPX0NERFJya29GRzlOTHpBaGZzRlpkQkNaTDY4bVQ4Z242cXAwM0w5NEtJWU5QakFDY3M1SmZGYTlrR3RWalgyNEp0ODF5QW9mZVFZSzFTVkNCTmRKaGhVNFU1ZW03UFlHMTJQdWFFZ0g2UzE5eUZLOTdONGQ1UnpKMTZ2WmpPMnc2Tjl2VUNLMUxfTThiQThHWnMyYUXSAaIBQVVfeXFMT3FiS08zbURCeFl0a1ppUnBHS3daSUw3U2FOejNzVEp4d2xMc0hXMldCczlIZGJiUE5VQ3VObjlwcEVIUVZNZTVRQk5WYzgyazlpUV9LYWktUS1hdTNkbW9yZXctWnhMLWp1LWZGNURSSDNQTkZoV3ZMRmV2UmdDbXhTOWxaTmJ1Slc4elZHVE40dXk2bWtQdDVwRDNzUjBnYXln?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 8,
+      "starred_questions": 2,
+      "unstarred_questions": 6,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 15.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Haryana: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 692,558,771. MPLADS utilization: 33.2%. Parliament attendance: 90.0%. Questions asked: 8. Debates participated: 8.",
-  "validated_at": "2026-09-02T01:36:48.284696Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 8. Debates participated: 8. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.914563Z"
 }

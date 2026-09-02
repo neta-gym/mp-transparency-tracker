@@ -3,24 +3,22 @@
 **Constituency:** Palghar, Maharashtra
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 47
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.0 / 100
+## Composite Transparency Score: 65.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 1.1 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 8.16 Crore
-- **Liabilities:** Rs 1.08 Crore
-- **Net Worth:** Rs 7.08 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 52% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 1
-- **Expended:** Rs 0
-- **Utilization Rate:** 1.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,37 +66,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@@drsavara](https://x.com/@drsavara) | No | Yes |
+| Facebook | [@Dr Hemant Savara](https://facebook.com/Dr Hemant Savara) | No | Yes |
+| Instagram | [@Dr.hemantsavara_official](https://instagram.com/Dr.hemantsavara_official) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- BJP MP Dr Hemant Savara Escapes Major Accident on Ghodbunder Road - UNITED NEWS OF INDIA (UNITED NEWS OF INDIA) [neutral]
+- Maharashtra: Bhavnagar Express halt at Palghar gets fresh push after years of demand - Mid-Day (Mid-Day) [neutral]
+- Dr. Hemant Vishnu Savara , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - Palghar (ST) election results 2024 live updates: Bharatiya Janata Party's Dr Hemant Vishnu Savara emerges - The Times of India (The Times of India) [neutral]
 - Hemant Savara, former minister's son, is BJP's final pick in Maharashtra - India Today (India Today) [neutral]
-- Dr. Hemant Vishnu Savara , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - Palghar Election Result 2024 LIVE Updates Highlights: BJP Candidate Hemant Vishnu Savara Wins - News18 (News18) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Maharashtra: Bhavnagar Express halt at Palghar gets fresh push after years of demand - Mid-Day** (Mid-Day)
+- ! **Dr. Hemant Vishnu Savara , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Palghar (ST) election results 2024 live updates: Bharatiya Janata Party's Dr Hemant Vishnu Savara emerges - The Times of India** (The Times of India)
+- ! **Hemant Savara, former minister's son, is BJP's final pick in Maharashtra - India Today** (India Today)
+- ! **Palghar Election Result 2024 LIVE Updates Highlights: BJP Candidate Hemant Vishnu Savara Wins - News18** (News18)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Hemant Vishnu Savara shows moderate transparency with a score of 56.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Hemant Vishnu Savara shows moderate transparency with a score of 65.8/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 81,622,050. MPLADS utilization: 1.4%. Parliament attendance: 85.0%. Questions asked: 69. Debates participated: 10. 1 warning(s) noted.
+No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 69. Debates participated: 10. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 81,622,050. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +240,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Hemant Vishnu Savara's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -237,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

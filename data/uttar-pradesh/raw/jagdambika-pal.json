@@ -4,80 +4,114 @@
     "constituency": "Domariyaganj",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8151,
+    "myneta_candidate_id": null,
     "slug": "jagdambika-pal",
     "house": "lok_sabha",
     "sansad_member_id": 4295,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 74,
+    "age": null,
     "photo_url": "/mp-photos/4295.jpg"
   },
   "criminal_record": {
     "total_cases": 1,
     "serious_cases": 0,
-    "convictions": 0,
-    "pending_cases": 1,
+    "convictions": 1,
+    "pending_cases": 0,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Section 3/4 Representation of the People Act",
+        "ipc_sections": [
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": true,
+        "status": "convicted",
+        "court": "Special Court MP, MLA Allahabad",
+        "fir_no": "",
+        "case_no": "Case Crime No-307/14",
+        "other_acts": "Section 3/4 Representation of the People Act",
+        "charges_framed": "",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "Rs. 200/- Fine",
+        "date_convicted": "25 Jan 2019"
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:58.626066Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 193536623.0,
-    "liabilities": 7487022.0,
-    "net_worth": 186049601.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8151",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.179783Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 71.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.16,
-    "expended": 0.24,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:48.765945Z",
-        "notes": "Official eSAKSHI REST API — Works: 75 recommended, 64 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T16:55:00.186646Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:51:20.552769Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:51:20.549900Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 75,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 1.6326530612244898
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +126,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:58:06.435106Z",
+        "fetched_at": "2026-09-02T16:51:20.548841Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +134,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "‘CM for a day’ Jagdambika Pal adds another record to his name. This time, for expunged remarks - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZnJTLVl5eUlLQnV0ZnY3V0R0NjloZHNQWmR5XzhQb0RFRmo3N3NCZndObS1IcHFHeS12QXRzdXp3OXFHaUtBSUlNdFJXR1BDei1EbzdUbE9kaklLZzY1MEpJcXluZ2h3VHpsS3hpaXp6SDMwa1VVY1FfNkhIdTBoZ3BDbE9KcXpvQ241QU53SmpTdGNVQXVXdUJpNS10bElhUGdUUkFxMHBvdGFXY3hEa24xdjd1NE9nUDZnZV90RVBwdGxjLXNr0gHMAUFVX3lxTE9zcS1YdVdpM3hUUEpSaWtxZjVuZnd6WnpyTEd1X0Y1SUpXZ25tRTlMNTBKU0ROOThEcGtyQjBGRldvb1gtNWFMa1o0RENfVzNGZml0Ri12ajBrWkJLQmVGdGlvdjNTWVdXYkFiZng5NXRPQUg3dGJzNW5jdFgzcktoajh5bGNpV21mYzZlT2I2X3JUM2ZVdko3WFRZVklIaGctUXp5TXpBS0xZal9MSDZXclJIdnpncTV0c2FaU0RTcVlIUjUydXgzOGhaeA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Domariyaganj election results 2024 live updates: BJP's Jagdambika Pal wins against SP's Bhishma Shankar - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPWkU1Rml0ZHYwRldFVmpGNWtrM0xPb2JfNG9PN3gzVmdaS24wUWxCTnJRbGJ1WTFuNlZVTGlxb0xqeEhKTXRZN3p0bDdmLTdvT3Q0MWd4aVlGN2dScnpaTktSMHNQUHk4TThlOXd4VDl1eG1hUkxIWlRLcG0zbFhsbko2REI1U0hYc0VrUkc5TXZzWXpqN0RQaFhqdUNyMm11UkY0VjA0Zm9hQV9WWlI2OVdvREs4YlRxY3lRRUlFTTdhZlpwRE5VN2VndGdGWWw4RXgwMF85T2QzeER2cXB5ZHQyVmwzeW9KbzVIMV9QYVhDWmtrejdDbzJfU2lzZ0NUWUp6bmo0eFh5TXZ0cEU5SGVNSHFOWndTY2s5b29kZndDaWtLb2dObkl6ZHFEX0tCTFpQTmJ4aVMxQ3pEM1BBWVQ4cUpiT3VYVnQ5UtIB0gJBVV95cUxQcDRoQm5JTFhza015X1AycDhjdVc3RWNXWXVFTmdJcWhyMUhXSFZlWFQ2X2xUZW1NaUNHVFBXWTk2YmREanBOMzIySjZOanpLM0I4TXdoOXZiUUhkS1NCeGJHOURKWVB5bHNoNFVzT2NZY19NQkhQVWZTSUszMGNlMm1lRktkakg2QVVwYmRjOEtZN0VLbHBuZFk0NDJVbTJ3dzI0SFRZb2hsWjJXSTAzYzRqbi11NkpRNExER2dTRWY4akFjZUM2NW0zSWxQSzgxaFJFVnBNZjVUOEJRZDh3Tlc1SHhnSTZWVHI5VUV5SVBWMENDa0JGMFQ5REIxNWpfNVpqT243c2dtcWtiekowdFJNRFhvdVJIaV91R2pQNmJJRG1LMUxaN2RvQmstUlE2LVl3NWVmMXRFREZOTVZyRDJ1clpreFdVdndUbE5zdnVfdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP’s Jagdambika Pal takes a dig at Rahul Gandhi’s ‘vote theft’ allegations - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEVqY1AwSGNVREs3eVZwLWpqRHpXRTRyeXhyQjZoSWF0eGROUFNIbThhS29QYklnVnlRYnRmc1RlTmdwTUMtcFgyQ01OUGZVQmVEZjg1RHJ2TlBnanNpZ0VVN3M5aVZqZ0NFMWkzRWFsTDlYUDc2ZUVXa2FkN0pYTUdvazhfTHpMZ0hKZGVwaDFtZUFhemM3MUR3ZVozLWYzQkozNGFORk50VF9SaVhSVTU1NlQ3bFJhbG9yZUZXTGxKVjVkN0hGdVh2UkF6aHAz0gHXAUFVX3lxTE1zbU1qN3g5bERTMG02N05KOUxJcEZ2YXZFVTVsWmVHUmdvZHJBVGh0cWNJWXNMNXNQejFmb2VQX2otOVlqSDhQV29KSzdZcktKR2podktkMHlrRHE0QTh2R0lrNEktRE1jZjFkSGdaM0MyQVBGUTBwQzFHWGZDZnFNRDRteTRFYy1qTjJQckxCVWRvTTBVRnJlNEthU2dtenNtNnVUVDhvdmxzWFBHY2Z4ZFhCXy1sWkFBUXNsR0V0eHdRS05Za1oteFQ5ZzZMUC1aZEIzODZB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Power corridor: Quota continues due to BJP: Jagdambika Pal - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZk45YWc2VEFBNzdXLVRZSmljZEFTUHVlWm1RZkdPVDluTWdEbUVuX2hKV09sX2pyblMwWWtzdmlQTEhwSWRYMnVyVWd6dnZ0NVhoY05DYlRTWHhSMEVoNHNCN0IwZnFFNlZuLWtfdThrbUI2VFBHa3FKVmxlMjBzOTh6bV93NDZ0aWQ3RjNIZmJzRUd1SUh6aWhvQ20zVXZjRGdpWGE5MHloY3fSAbgBQVVfeXFMTnVRZlRuUUdKeWZyYlQtM3E1Q09LcUI3YXAzTFNvWUdjQV93TlV3Z3pYdGNUQXkwREg0Wjkya0JvV0puN3VaSDJIYzgwam5BZDNjdDRJTGZGMWN2MUhocEdZd2FHdUtEMS1QWUlrUGYtSURIMnJxTVJLaEdSOHN5dnRuYm9nZktaaTdDbUdKdWpZbXd6ZUx3dHB2V2JnOUZjemVnV1hMV2oyZi16RWwyaGdDQXNObUdwWg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rahul says will go easy on 'former Congress member' Jagdambika Pal; LS Chair fires back with swift counter - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSlVrSXUwWjdla1hCZ0VHQ1Z2QXg2bFI0dUlmNmVrZUdrUFFYSFdiUlo5bmZualdQcDRaTF80U2ppZ3ZMOXl0M1A4ajJnOFd2aGpDYTM1ekpyWnM4TTFkZE05ejJZb09XVVR6QWhQT0t3VXp0YVZkM2c4ZWRHX0lFZElDOE4tRkkzaGQwS0ZmUnBrRWNiX0xuSzVTUW5TVHJNQzhibFhzXzFRVk9RMUFDMW95dmdvRnpGMWtHeGc1ek1PaU5NR0tZUVVVUUlJNldUZTRtcS1ocTlkVGU5eUx1UlNGRm1vT0FsMDIxYmVn0gHzAUFVX3lxTE9CU1ZnWG9XUko1LU5LR085T0Y2aHEtaHZZWU9UQ0NuRlFuQ0JkYV9rem9iUGFQdkR6NW82NWF0MXh6OGtzU2hOZUFtSlhVYWN1Y05KR0ZUYnhTaEpXN3pfTEtDd1R6ZkozUTAzZWhwT242Z0RrQURYQ3AyQUVtaWZnbGhlTXJYc2lJZHdYSDlvWG9Dekk0RXg2a1htTjlNS01LLXpVdXExaWxKSEJnWnRXSzJrZ1lrZWJRMWZ3NHByXzV6dVhLeThYTTRsTDVROU5VM0tpNEJCYzNOSG9mVEVycTdqS1BQeFIzTmc0UVdjNXRvQQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:58:24.902413Z",
+  "collected_at": "2026-09-02T16:55:00.187656Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +203,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.574766Z",
+        "fetched_at": "2026-09-02T18:38:11.144220Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +219,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.574776Z",
+        "fetched_at": "2026-09-02T18:38:11.144230Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +235,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.574782Z",
+        "fetched_at": "2026-09-02T18:38:11.144237Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +251,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.574787Z",
+        "fetched_at": "2026-09-02T18:38:11.144241Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +267,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.574792Z",
+        "fetched_at": "2026-09-02T18:38:11.144246Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +283,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.574797Z",
+        "fetched_at": "2026-09-02T18:38:11.144252Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +299,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.574802Z",
+        "fetched_at": "2026-09-02T18:38:11.144257Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +315,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.574807Z",
+        "fetched_at": "2026-09-02T18:38:11.144262Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,11 +340,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/jagdambikapalmp?lang=en",
+        "url": "https://x.com/https://x.com/jagdambikapalmp?lang=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/JagdambikaPalMP/",
+        "url": "https://facebook.com/https://www.facebook.com/JagdambikaPalMP/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T16:51:23.329872Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -280,19 +378,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Digvijaya Singh says Jagdambika Pal would be ‘better’ speaker than Om Birla – ‘Kabira khada bazaar mein…’ | Watch Video - Mint",
-        "source": "Mint",
+        "headline": "‘CM for a day’ Jagdambika Pal adds another record to his name. This time, for expunged remarks - ThePrint",
+        "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV2xwbEUzYVBwcVlOdGNIbHZZdHVCU1NpbzJsbmd6R09ucFhBRkdKMVVzR3RuRGJ3YlMwOHNPQUJhUFNpZ2d2bHFHVVRxajJoUVdSSjBkNmdIZGE0azBlSklFTHlvTWRhRjRPOUZHX18zZEhsamh2QnJTUmYteGhXUjI4bEhZVWt0WnJ5bE9fR2c4TXM2VndjQWVyZ0JNcTYya0ZEQnlWV3E0TG9xdmt1NXZKYV9FREZNcUFKRW04VG9LNUxFc0pXVHRrRmo2Q3VIZXQ5OVUwRnVXU2NNcm9jNU0tNVJWWDdpT1RRZXJzbGR5SWpVYnY2Tm5DbUM0Z9IBgwJBVV95cUxOUndGMElMdWlUdkVzSDNhVVhFU295d0Z6MzJrY1Q5eklJajc5UmhtN1UyZFZ0VHY3cEo5M3ZaTkpXUTd4b1Z4dHNBV19fYTd2ZGFRa0lqeUZZdzhEQ2UwUXVHN194U3pFVHFRY25YUnZTRTNiUEljVGVPbmNKejhUaThyRlBhRzJ1eXU1Wkw1OXNYMG9RSTN4R0p3SUM5TDA0bExabUJFNGs5Z1c3RXRlcXVuY1JNdDd5TTVSU0RkZG1XVUd1UDBPY2F2YjdtQkVlcHVQWGwyckdDZENOYi1kMHBwdlRldHE1MGxMeDdYYTBST1kyb2NRbzNCcnlTbEV5UHFv?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP’s Jagdambika Pal takes a dig at Rahul Gandhi’s ‘vote theft’ allegations - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEVqY1AwSGNVREs3eVZwLWpqRHpXRTRyeXhyQjZoSWF0eGROUFNIbThhS29QYklnVnlRYnRmc1RlTmdwTUMtcFgyQ01OUGZVQmVEZjg1RHJ2TlBnanNpZ0VVN3M5aVZqZ0NFMWkzRWFsTDlYUDc2ZUVXa2FkN0pYTUdvazhfTHpMZ0hKZGVwaDFtZUFhemM3MUR3ZVozLWYzQkozNGFORk50VF9SaVhSVTU1NlQ3bFJhbG9yZUZXTGxKVjVkN0hGdVh2UkF6aHAz0gHXAUFVX3lxTE1zbU1qN3g5bERTMG02N05KOUxJcEZ2YXZFVTVsWmVHUmdvZHJBVGh0cWNJWXNMNXNQejFmb2VQX2otOVlqSDhQV29KSzdZcktKR2podktkMHlrRHE0QTh2R0lrNEktRE1jZjFkSGdaM0MyQVBGUTBwQzFHWGZDZnFNRDRteTRFYy1qTjJQckxCVWRvTTBVRnJlNEthU2dtenNtNnVUVDhvdmxzWFBHY2Z4ZFhCXy1sWkFBUXNsR0V0eHdRS05Za1oteFQ5ZzZMUC1aZEIzODZB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZnJTLVl5eUlLQnV0ZnY3V0R0NjloZHNQWmR5XzhQb0RFRmo3N3NCZndObS1IcHFHeS12QXRzdXp3OXFHaUtBSUlNdFJXR1BDei1EbzdUbE9kaklLZzY1MEpJcXluZ2h3VHpsS3hpaXp6SDMwa1VVY1FfNkhIdTBoZ3BDbE9KcXpvQ241QU53SmpTdGNVQXVXdUJpNS10bElhUGdUUkFxMHBvdGFXY3hEa24xdjd1NE9nUDZnZV90RVBwdGxjLXNr0gHMAUFVX3lxTE9zcS1YdVdpM3hUUEpSaWtxZjVuZnd6WnpyTEd1X0Y1SUpXZ25tRTlMNTBKU0ROOThEcGtyQjBGRldvb1gtNWFMa1o0RENfVzNGZml0Ri12ajBrWkJLQmVGdGlvdjNTWVdXYkFiZng5NXRPQUg3dGJzNW5jdFgzcktoajh5bGNpV21mYzZlT2I2X3JUM2ZVdko3WFRZVklIaGctUXp5TXpBS0xZal9MSDZXclJIdnpncTV0c2FaU0RTcVlIUjUydXgzOGhaeA?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -304,11 +394,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Political Profile of Jagdambika Pal, Bjp Party, Domariyaganj, and Net Worth - India TV News",
-        "source": "India TV News",
+        "headline": "BJP’s Jagdambika Pal takes a dig at Rahul Gandhi’s ‘vote theft’ allegations - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONmxmX2xCUkZLN2FyaEtMUUxLdnFVWV9UbzVVWUhDUkhvRWpMUnJJemtldHRrZmdyRTFwTDVVLVpkNUdGSFNiekRLdWZ4cUVNdDBhZ1liS1Q4dVBQRjNrbEgweUdDdWF1cFE2VGFFQ2JJaG92cnlNNHNkam80aHhRLW1GYk80azBrY1Z2RmNCMndkekJaWGZrRXlwbEZTTGF6REFsYzhwMDdNRE5qOThpR0xhU3hITjlVRWpPY1FnXzM4OUFodllLMTJqcXUtYkdQcGpqSlA4R2hXWG9wTzEwU3g0YUwyZ1E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEVqY1AwSGNVREs3eVZwLWpqRHpXRTRyeXhyQjZoSWF0eGROUFNIbThhS29QYklnVnlRYnRmc1RlTmdwTUMtcFgyQ01OUGZVQmVEZjg1RHJ2TlBnanNpZ0VVN3M5aVZqZ0NFMWkzRWFsTDlYUDc2ZUVXa2FkN0pYTUdvazhfTHpMZ0hKZGVwaDFtZUFhemM3MUR3ZVozLWYzQkozNGFORk50VF9SaVhSVTU1NlQ3bFJhbG9yZUZXTGxKVjVkN0hGdVh2UkF6aHAz0gHXAUFVX3lxTE1zbU1qN3g5bERTMG02N05KOUxJcEZ2YXZFVTVsWmVHUmdvZHJBVGh0cWNJWXNMNXNQejFmb2VQX2otOVlqSDhQV29KSzdZcktKR2podktkMHlrRHE0QTh2R0lrNEktRE1jZjFkSGdaM0MyQVBGUTBwQzFHWGZDZnFNRDRteTRFYy1qTjJQckxCVWRvTTBVRnJlNEthU2dtenNtNnVUVDhvdmxzWFBHY2Z4ZFhCXy1sWkFBUXNsR0V0eHdRS05Za1oteFQ5ZzZMUC1aZEIzODZB?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -316,7 +406,15 @@
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3JmUldZVGhBcjNKMC1vRV95a2RFVUZtT1ExZnBTXzNId1kyWGkyM29OUDZFLXhhR1piM1hUX0pWRUhmWjktc1ZLMjJhOHNCOVdOSEdJZDladlNCZjA5YUVuZjZfYk9wNVNzRF9DWFViVk1VNFBLdnppb2Z6UG51dDNLVFdJS0ZrWlNRRWFINEVhWU94U2NmM05mMnhtVW1GRzdOQ0lRMzJGRDJs0gG6AUFVX3lxTE1OZ0Z2R3FWLWJsSTI2U29MSEwzV1otT18xOWhOX1RkeERtVURhVnJDNWVTY1kxdFQtcGl1SzVrTnY4RUFlcDJFY2xVUHZiemx5SmFlSXVMU3ZEaVFSSGg5Z3pvNUR1NVQxZDFSaFlINXpSUm9XTnEyRUZLZElieWJsNzhSejdEQjU0dGVjNXVhZnl0dVFkZktmaE54VGdhRUM1MjltYmZqUVA3TGg0NmRvQjRvQmt1UWRMQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZk45YWc2VEFBNzdXLVRZSmljZEFTUHVlWm1RZkdPVDluTWdEbUVuX2hKV09sX2pyblMwWWtzdmlQTEhwSWRYMnVyVWd6dnZ0NVhoY05DYlRTWHhSMEVoNHNCN0IwZnFFNlZuLWtfdThrbUI2VFBHa3FKVmxlMjBzOTh6bV93NDZ0aWQ3RjNIZmJzRUd1SUh6aWhvQ20zVXZjRGdpWGE5MHloY3fSAbgBQVVfeXFMTnVRZlRuUUdKeWZyYlQtM3E1Q09LcUI3YXAzTFNvWUdjQV93TlV3Z3pYdGNUQXkwREg0Wjkya0JvV0puN3VaSDJIYzgwam5BZDNjdDRJTGZGMWN2MUhocEdZd2FHdUtEMS1QWUlrUGYtSURIMnJxTVJLaEdSOHN5dnRuYm9nZktaaTdDbUdKdWpZbXd6ZUx3dHB2V2JnOUZjemVnV1hMV2oyZi16RWwyaGdDQXNObUdwWg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rahul says will go easy on 'former Congress member' Jagdambika Pal; LS Chair fires back with swift counter - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSlVrSXUwWjdla1hCZ0VHQ1Z2QXg2bFI0dUlmNmVrZUdrUFFYSFdiUlo5bmZualdQcDRaTF80U2ppZ3ZMOXl0M1A4ajJnOFd2aGpDYTM1ekpyWnM4TTFkZE05ejJZb09XVVR6QWhQT0t3VXp0YVZkM2c4ZWRHX0lFZElDOE4tRkkzaGQwS0ZmUnBrRWNiX0xuSzVTUW5TVHJNQzhibFhzXzFRVk9RMUFDMW95dmdvRnpGMWtHeGc1ek1PaU5NR0tZUVVVUUlJNldUZTRtcS1ocTlkVGU5eUx1UlNGRm1vT0FsMDIxYmVn0gHzAUFVX3lxTE9CU1ZnWG9XUko1LU5LR085T0Y2aHEtaHZZWU9UQ0NuRlFuQ0JkYV9rem9iUGFQdkR6NW82NWF0MXh6OGtzU2hOZUFtSlhVYWN1Y05KR0ZUYnhTaEpXN3pfTEtDd1R6ZkozUTAzZWhwT242Z0RrQURYQ3AyQUVtaWZnbGhlTXJYc2lJZHdYSDlvWG9Dekk0RXg2a1htTjlNS01LLXpVdXExaWxKSEJnWnRXSzJrZ1lrZWJRMWZ3NHByXzV6dVhLeThYTTRsTDVROU5VM0tpNEJCYzNOSG9mVEVycTdqS1BQeFIzTmc0UVdjNXRvQQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +448,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 48,
+    "starred_questions": 14,
+    "unstarred_questions": 34,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 93.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +464,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

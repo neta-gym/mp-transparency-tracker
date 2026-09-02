@@ -3,20 +3,18 @@
 **Constituency:** Palakkad, Kerala
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 45.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 16.3 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -29,10 +27,18 @@
 
 - **Total Cases:** 5
 - **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 5
+- **Convictions:** 4
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 109/17, Palakkad Town South Police Station (Sections: 143, 145, 147, 283 149) [pending] 
+2. No description (Sections: 143, 147, 288 149) [convicted] 
+3. No description (Sections: 143, 147, 148, 188, 283, 149) [convicted] 
+4. Section 4, 5 Kerala Publicway Restriction of assembly and Procession Act 51C (KPRAP-ACT) (Sections: 143, 145, 147, 283 149) [convicted] 
+5. No description (Sections: 143, 147, 188, 283, 149) [convicted] 
 
 ---
 
@@ -40,22 +46,21 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 1.24 Crore
-- **Liabilities:** Rs 54.63 Lakh
-- **Net Worth:** Rs 69.59 Lakh
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 10% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 3
-- **Utilization Rate:** 20.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -84,29 +89,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
+- Palakkad MP opposes move splitting railway division - The Times of India (The Times of India) [neutral]
+- ‘Palakkad division was split to appease Karnataka BJP,’ says V K Sreekandan - Kerala Kaumudi (Kerala Kaumudi) [neutral]
 - Kerala Assembly Polls 2026: MP and MLA from same family as Thulasi wins Kongad - The Hindu (The Hindu) [neutral]
+- When politics comes home: Husband and wife share power in Palakkad - ThePrint (ThePrint) [neutral]
 - UDF workers will accept any Cong leader as CM if alliance comes to power: Sreekandan - Metro Vaartha (Metro Vaartha) [neutral]
-- Person who becomes chief minister need not be an MLA, says V K Sreekandan - The Times of India (The Times of India) [neutral]
-- Tussle for ‘sure-win’ seats intensifies in Palakkad Congress - The New Indian Express (The New Indian Express) [neutral]
-- Kerala polls: Congress releases first list of 55, but no decision yet on MPs keen to join state Assembly - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Palakkad MP opposes move splitting railway division - The Times of India** (The Times of India)
+- ! **‘Palakkad division was split to appease Karnataka BJP,’ says V K Sreekandan - Kerala Kaumudi** (Kerala Kaumudi)
+- ! **Kerala Assembly Polls 2026: MP and MLA from same family as Thulasi wins Kongad - The Hindu** (The Hindu)
+- ! **When politics comes home: Husband and wife share power in Palakkad - ThePrint** (ThePrint)
+- ! **UDF workers will accept any Cong leader as CM if alliance comes to power: Sreekandan - Metro Vaartha** (Metro Vaartha)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Kerala: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-V K Sreekandan shows moderate transparency with a score of 51.0/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+V K Sreekandan has a below-average transparency score of 45.0/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 12,421,358. MPLADS utilization: 20.4%. Parliament attendance: 90.0%. Questions asked: 46. Debates participated: 10.
+Has 5 criminal case(s) (0 serious), 1 pending, 4 conviction(s). Parliament attendance: 90.0%. Questions asked: 46. Debates participated: 10. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -146,7 +164,7 @@ Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -225,8 +243,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for V K Sreekandan's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -244,12 +260,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

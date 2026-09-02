@@ -4,16 +4,16 @@
     "constituency": "Ahmedabad West",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3735,
+    "myneta_candidate_id": null,
     "slug": "dineshbhai-makwana",
     "house": "lok_sabha",
     "sansad_member_id": 5694,
     "profile_url": null,
     "canonical_name": "Dineshbhai Makwana",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5694.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Ahmedabad West",
       "state": "gujarat",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3735,
+      "myneta_candidate_id": null,
       "slug": "dineshbhai-makwana",
       "house": "lok_sabha",
       "sansad_member_id": 5694,
       "profile_url": null,
       "canonical_name": "Dineshbhai Makwana",
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/5694.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:55.672397Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 141769586.0,
-      "liabilities": 13222046.0,
-      "net_worth": 128547540.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3735",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.326055Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 64.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 16.04,
-      "released": 16.04,
-      "sanctioned": 6.91,
-      "expended": 0.8,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:02.480235Z",
-          "notes": "Official eSAKSHI REST API — Works: 209 recommended, 107 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:39:15.571694Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:35:19.927690Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:35:19.924922Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 209,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 4.987531172069826
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:24:18.108389Z",
+          "fetched_at": "2026-09-02T14:35:19.923908Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Councillors show lack of seriousness toward new BJP state chief: Half absent from Jagdish Vishwakarma’s wel... - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQaUdhRkVZQVlKc2d2S3hxbzluVkM1cVJySzdtNlB4czJqMEdEWWw0QzFnT1pISnZjQ3dLWjh0T3AyZl9tN2VEZkt1UkpXQzhWaVh3d1pLSm44T2Y4RlZ1Yl8wS0dLUTljQzBnZUkwWFp2V21XQ1FhMG1uWkx3XzZvdm80OE81UDBQZFNfb2VfaFB0QUJKQXl4RzdJTzRLN0Utc0ZlUy1GNVFJVm1QRFdRZUx4OEtLanh3VUFDQmhrSFVpZjJMYTNjMTBZajM2bnQxY214U1NHYlpVWFlxQkM5UmlSaWlKc2NSempWWk1DMjFmYU9nT3k3NXRkSmdKM3ZTendTSGdRRUU1M0w3WVZ2SFc3b19JUFQ2Q3E0NlF3QVJ2V2ZvVTVaVS1UX1ljVFR2U1pqcGNB0gG7AkFVX3lxTE1KQzVDVFVPaHltQktTMngxZEJSbUc0bzMxNUpRVGFGd01HdTZxVHFBbWd6VXdqZjVfcjdqckVNX3IyVVg5ZVhENzBQVVB3RW5Hem1hbS1zZVVGWmN6U1VUU3lsdWhkZHFlalVYVVRJaVBUZU9OVjB0eU5xMFlVN1VDbUp6UU5adC11UUtlMF9xVm1udmRldGI3SnJxSzJQUjdfazE0MUdzTXRQMV8yLU9lRW8zWDV1X194VUREV1NxbEZHTFNDY04wdjE1bkZhSGk1RlEyS1pEaVEyaFBacGxQZzBZRGpCMy0xZmFGbEVXaVZBZjQ0bzJsS0J6Zi1zQ29nMTQ4UTFjQTd3MG9iNDFjeDJQLTlsWlpXSXhFMTlqVnVVWVVxTHhHZHVpdXlQQk5ydmlRY193bFlSVQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chief Minister Graces 'Vadil Vandana' Program Organised by Guru Brahmin Samaj in Ahmedabad - CMO Gujarat",
+        "source": "CMO Gujarat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0JEVHNGT1R4ZFRLellNMUVKdzJrY3dJVkg5UENNc3NkQTFvUG9HVU8zcnE1WU9wcnVDWVJ1NVJvMFBGNWhsRWNYb0FSMjFZeWwybU9NLXlpMkdWRnlDUUh2MHUtdmdKaEpNd0ZEUzFUN2ZWek5WRTNqWThibC1Zcw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gujarat elect 10 new faces for Lok Sabha - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEtlc09FVFk1ZDl2dEpjTHFrSGRzOWFrbDF5R0tNNWdJSW5pWk5xZ3MyVnAzVkVSR0JXSzBDVk5qUXVMU3NOTHJGaERTUVcyT09leF9GeEc2ZWhwZVpPcVJrbzljWjJaYkZNYjNCdFVFQ1RweUg1bFMycXFTQkl5bDR3NmE2c010STk4ZkJFRTFqVVo1dFZVMzA3ZzU2MExzZ3dEcmEwallqUk5X0gGzAUFVX3lxTE8zWHZzc0hRdUxPc2RwWng3QkpNcXMyTVV6V0NWUzUxZUhyY3ZsUTdITWhlYnFHamVWSFV6MlpCTkY5SFpwMHBobHFaVnNfNWdqRXNrMENVcXJSZFo4WWFpWjF3WkRSNjBGYWNmUEZCQzgyQ29SV3g5OEswNk1WMTZSVk1pbTVKMVViRWluTnZPMm5VeEhuSEFFMVpCU2NuVnU2YUpxZGJtaHNmRUVNemFxWTFB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gujarat MPs use just 4% of MPLAD funds in 1st year of 18th Lok Sabha - Ahmedabad Mirror",
+        "source": "Ahmedabad Mirror",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmtraC1pSUpOOFIybTQyWVVocUNqMmx1aDhVZzQ5dlVPTDZWeE1KYjU0STFzS1lCYks4R25iWlNhaWdNNEx5THNLVHo5N2U5QmpMQU1pRnRFaFFNWElpbEl1VW1ibzlZS1NZeXRRVU9Cczc2ZkEwWXZmWmNOdEluUnlMdldmbEJpT0dWZ1o0bkdQN3oxQ29LOHVHRUdIdVg1am1FY1ZidEVNTzBydjRGV2VhOA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP's First List For LS Polls Sees Major Shake-Up: 33 Sitting MPs Replaced, Here's A List Of Who Replaced Whom - Swarajya",
+        "source": "Swarajya",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmNiSlVlWGhxdmpqRnE5NVRxQVg5bWVTRm14UUlZRG01Qzd3ZWtRaU9aMzBuU3pSZTV5UG9WdjNfQzYzaWo4a2FfUUxsekEzLW5PMy1RazF4X0RENUo1UE54eVY3bEZYeVJiQlUxU09uX1ZXMlJ0T0JydHpZQzVKNEc0T2gxaGZreUt3UkZpQnNSd2poMlVVb3hRTE1sRHRpYWVfZGZWMXpKSG9xWUpZVXZvZ291dU9aNkEzb0h0ZzFlTWlEX01qUnFTbUdVYUxld3Z5MFI2eGTSAegBQVVfeXFMUDU5Q0pHbmFLWDJNdGozRmdMV3lQZE01UnBoVk1Ga3g5ekFwdHdJVk9uZ0lWTlFBaXBSZm5ieE5Ycms3STBRVEpGaUFFS3BHYXF6ZUZCdjdXU0R6UG93aEJSSGE2Zzl1anZ1NF9YQWw0NnpBdGcxbEpQWk81NDQyWlFWUXVTZGVkUVZIQXRMdlZqMG9qRmUxb3dzUFJrTHdOTFZ0MzQwOEV1Y0NkWGZsNHVLUks1dWRtSDduTWVPX2paMlRkN2dXWk9WWFItbTg5NGl6UzBObFVDM1lKSjFubW1VM084S25sLQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:25:20.803170Z",
+    "collected_at": "2026-09-02T14:39:15.573208Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.993059Z",
+          "fetched_at": "2026-09-02T18:38:05.573151Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.993068Z",
+          "fetched_at": "2026-09-02T18:38:05.573163Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.993072Z",
+          "fetched_at": "2026-09-02T18:38:05.573174Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.993076Z",
+          "fetched_at": "2026-09-02T18:38:05.573180Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.993081Z",
+          "fetched_at": "2026-09-02T18:38:05.573186Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.993085Z",
+          "fetched_at": "2026-09-02T18:38:05.573191Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.993090Z",
+          "fetched_at": "2026-09-02T18:38:05.573195Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,48 +330,48 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Councillors show lack of seriousness toward new BJP state chief: Half absent from Jagdish Vishwakarma’s wel... - Bhaskar English",
-          "source": "Bhaskar English",
+          "headline": "Councillors show lack of seriousness toward new BJP state chief: Half absent from Jagdish Vishwakarma’s wel... - bhaskarenglish.in",
+          "source": "bhaskarenglish.in",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQaUdhRkVZQVlKc2d2S3hxbzluVkM1cVJySzdtNlB4czJqMEdEWWw0QzFnT1pISnZjQ3dLWjh0T3AyZl9tN2VEZkt1UkpXQzhWaVh3d1pLSm44T2Y4RlZ1Yl8wS0dLUTljQzBnZUkwWFp2V21XQ1FhMG1uWkx3XzZvdm80OE81UDBQZFNfb2VfaFB0QUJKQXl4RzdJTzRLN0Utc0ZlUy1GNVFJVm1QRFdRZUx4OEtLanh3VUFDQmhrSFVpZjJMYTNjMTBZajM2bnQxY214U1NHYlpVWFlxQkM5UmlSaWlKc2NSempWWk1DMjFmYU9nT3k3NXRkSmdKM3ZTendTSGdRRUU1M0w3WVZ2SFc3b19JUFQ2Q3E0NlF3QVJ2V2ZvVTVaVS1UX1ljVFR2U1pqcGNB0gG7AkFVX3lxTE1KQzVDVFVPaHltQktTMngxZEJSbUc0bzMxNUpRVGFGd01HdTZxVHFBbWd6VXdqZjVfcjdqckVNX3IyVVg5ZVhENzBQVVB3RW5Hem1hbS1zZVVGWmN6U1VUU3lsdWhkZHFlalVYVVRJaVBUZU9OVjB0eU5xMFlVN1VDbUp6UU5adC11UUtlMF9xVm1udmRldGI3SnJxSzJQUjdfazE0MUdzTXRQMV8yLU9lRW8zWDV1X194VUREV1NxbEZHTFNDY04wdjE1bkZhSGk1RlEyS1pEaVEyaFBacGxQZzBZRGpCMy0xZmFGbEVXaVZBZjQ0bzJsS0J6Zi1zQ29nMTQ4UTFjQTd3MG9iNDFjeDJQLTlsWlpXSXhFMTlqVnVVWVVxTHhHZHVpdXlQQk5ydmlRY193bFlSVQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Political Profile of Dineshbhai Makwana (advocate), Bjp Party, Ahmedabad West, and Net Worth - India TV News",
-          "source": "India TV News",
+          "headline": "Chief Minister Graces 'Vadil Vandana' Program Organised by Guru Brahmin Samaj in Ahmedabad - CMO Gujarat",
+          "source": "CMO Gujarat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYWtDMlNUNXdHeVI2Yi1wMW5aVjlOQW9sQlQyZk5qM2hVWThUeUJXY3lsQ0JNM0NRSlJPMFh4QUNva2JHVVpuaTZMMWlneGtjZ1ltZ2J5VTJhdFVwNHl1b0lIVDRBUnpRRlBBdjRKTzJ0YU1CRENuVXBKUlZGNnA4V29WajBjSFQtUml6Y3lIVXduWXVxdEtQZGhaX1hLYnAzdWJrNWluaV84LVp4MndQS0paTnNpcjFMQVo3QlhRRkZubzMxOU9kdlJSa0M3Q0tZbXhrdzJQTTFMSDBiV0t4WDhxbGk3SGdPQXpHeW5aamRjLXM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0JEVHNGT1R4ZFRLellNMUVKdzJrY3dJVkg5UENNc3NkQTFvUG9HVU8zcnE1WU9wcnVDWVJ1NVJvMFBGNWhsRWNYb0FSMjFZeWwybU9NLXlpMkdWRnlDUUh2MHUtdmdKaEpNd0ZEUzFUN2ZWek5WRTNqWThibC1Zcw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Union Home Minister and Minister of Cooperation Shri Amit Shah inaugurates and lays foundation stone of projects worth ₹919 cr including various development works of Ahmedabad Municipal Corporation (AMC) in Gujarat - PIB",
-          "source": "PIB",
+          "headline": "Gujarat elect 10 new faces for Lok Sabha - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VR19UM29qaWV1UlJmaXZqUGlEX0YzbVFQWWNtLUotcFNIWml0ampFLXNUVnJwVGU5bWYybC1uNkFrbTdhU1dwelRpTXYwM3VUVHJpWWRnMUo5bjV6bWFfRW1hSzN4T3Jn?oc=5",
-          "sentiment": "positive"
-        },
-        {
-          "headline": "Ahmedabad West lok sabha election results 2024: Ahmedabad West Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTE1rZkZXUUl2YldSY1NURGxRZVhrVXl2T3JDY0wweVZjSnJjNmZpT3QtMl85aGJsaHhDQWhNS0xDSlZDR1F5YUpQNUNqZEdiRU1peE5DaG1QbWxHeGFQZXNyVWVIcHAtVkYyNTdCMkRHZWJXWGJMRzI2YXhMVnFIOUhHZkwwNkhOaUVYbnA1MmIycHU0bG1hOQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEtlc09FVFk1ZDl2dEpjTHFrSGRzOWFrbDF5R0tNNWdJSW5pWk5xZ3MyVnAzVkVSR0JXSzBDVk5qUXVMU3NOTHJGaERTUVcyT09leF9GeEc2ZWhwZVpPcVJrbzljWjJaYkZNYjNCdFVFQ1RweUg1bFMycXFTQkl5bDR3NmE2c010STk4ZkJFRTFqVVo1dFZVMzA3ZzU2MExzZ3dEcmEwallqUk5X0gGzAUFVX3lxTE8zWHZzc0hRdUxPc2RwWng3QkpNcXMyTVV6V0NWUzUxZUhyY3ZsUTdITWhlYnFHamVWSFV6MlpCTkY5SFpwMHBobHFaVnNfNWdqRXNrMENVcXJSZFo4WWFpWjF3WkRSNjBGYWNmUEZCQzgyQ29SV3g5OEswNk1WMTZSVk1pbTVKMVViRWluTnZPMm5VeEhuSEFFMVpCU2NuVnU2YUpxZGJtaHNmRUVNemFxWTFB?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Ahmedabad West Election Result 2024 LIVE Updates Highlights: Dineshbhai Makwana (Advocate) of BJP Wins - News18",
-          "source": "News18",
+          "headline": "Gujarat MPs use just 4% of MPLAD funds in 1st year of 18th Lok Sabha - Ahmedabad Mirror",
+          "source": "Ahmedabad Mirror",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbkxYUkw4REFoRGZOUi1IYUZoOGxVMWV4cXFlQkRhdVlCYXF3eEt1S1ZwVFNKSzJyS19OQlc2VXl3TU1CMFhySjVaZ1hjQmdkVlZURkRQUkQzMEtzeEFhWlU5cS1rOWg2M3g3ZWhUNlQ2VlRtMzNoNVBzdGlDMUhHeF9uTGxiNHJ1TVUxRU1TVUg3a0Q5bGhMdk5mbEJyX2FiYnE0UGRRWkt3VVhGU3BEaHVSLVRoTUZRek91b2k5N0xleDdoVkluN2phOWVxRFlLWDQydkdJVmViUmVKdUUyTTJsR055cHJBMXZv0gHwAUFVX3lxTE0xekIwNlprcjloakJTcmZvNzlKQXpvNTlJSUFLMmRuUS1iSzR5U2hDdzFGT2dtaW42LTRtb0hMSG9UY19PWEU2eHZFT1lXSDR0M21RSDhNaGJMbF8zMU9LMVctWUVmY3JwaVJ5UE5hT3A0SXRPaXJ3WGxjc25EWXBIX1RTVTJCMFNtZzZwQTg2RzVPa0J2bnVvdUQ2TXRjN0k3RG9uXzZkampVaDFzejFYMUpxV2ppcjJFM3Y2MjdGdXAyek5lUmVtRkNZMW1oMGZkc0g4d2JKMUZnTzNWNS1fdGNJVU5vNkZ5Vk9FNTBSSg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmtraC1pSUpOOFIybTQyWVVocUNqMmx1aDhVZzQ5dlVPTDZWeE1KYjU0STFzS1lCYks4R25iWlNhaWdNNEx5THNLVHo5N2U5QmpMQU1pRnRFaFFNWElpbEl1VW1ibzlZS1NZeXRRVU9Cczc2ZkEwWXZmWmNOdEluUnlMdldmbEJpT0dWZ1o0bkdQN3oxQ29LOHVHRUdIdVg1am1FY1ZidEVNTzBydjRGV2VhOA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP's First List For LS Polls Sees Major Shake-Up: 33 Sitting MPs Replaced, Here's A List Of Who Replaced Whom - Swarajya",
+          "source": "Swarajya",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmNiSlVlWGhxdmpqRnE5NVRxQVg5bWVTRm14UUlZRG01Qzd3ZWtRaU9aMzBuU3pSZTV5UG9WdjNfQzYzaWo4a2FfUUxsekEzLW5PMy1RazF4X0RENUo1UE54eVY3bEZYeVJiQlUxU09uX1ZXMlJ0T0JydHpZQzVKNEc0T2gxaGZreUt3UkZpQnNSd2poMlVVb3hRTE1sRHRpYWVfZGZWMXpKSG9xWUpZVXZvZ291dU9aNkEzb0h0ZzFlTWlEX01qUnFTbUdVYUxld3Z5MFI2eGTSAegBQVVfeXFMUDU5Q0pHbmFLWDJNdGozRmdMV3lQZE01UnBoVk1Ga3g5ekFwdHdJVk9uZ0lWTlFBaXBSZm5ieE5Ycms3STBRVEpGaUFFS3BHYXF6ZUZCdjdXU0R6UG93aEJSSGE2Zzl1anZ1NF9YQWw0NnpBdGcxbEpQWk81NDQyWlFWUXVTZGVkUVZIQXRMdlZqMG9qRmUxb3dzUFJrTHdOTFZ0MzQwOEV1Y0NkWGZsNHVLUks1dWRtSDduTWVPX2paMlRkN2dXWk9WWFItbTg5NGl6UzBObFVDM1lKSjFubW1VM084S25sLQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 32,
+      "starred_questions": 9,
+      "unstarred_questions": 23,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 61.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Gujarat: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 141,769,586. MPLADS utilization: 5.0%. Parliament attendance: 95.0%. Questions asked: 32. Debates participated: 1. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:47.993808Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 32. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.573889Z"
 }

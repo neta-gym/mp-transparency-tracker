@@ -35,59 +35,73 @@
       "photo_url": "/mp-photos/5549.jpg"
     },
     "criminal_record": {
-      "total_cases": 5,
+      "total_cases": 0,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 5,
+      "pending_cases": 0,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 207682224.0,
-      "liabilities": 0.0,
-      "net_worth": 207682224.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 72.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.53,
-      "released": 15.53,
-      "sanctioned": 6.36,
-      "expended": 3.19,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:50:37.011258Z",
-          "notes": "Official eSAKSHI REST API — Works: 70 recommended, 66 sanctioned, 24 completed"
+          "fetched_at": "2026-09-02T17:06:02.187764Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:02:22.548150Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:02:22.545263Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 70,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 20.54088860270444
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:00:19.637993Z",
+          "fetched_at": "2026-09-02T17:02:22.544158Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Ghaziabad court summons Cong’s Dolly Sharma in defamation case filed by BJP MP Atul Garg - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ0lnMlJyZW5rV1AxNTFjR2ZQdzNFZ05zSm1mX29aclhJMUQtVE1SYUg2OGQ2LWwtN01XQ3lLN1F6alJBY291ZkU3SGMtT0wxcHJvd0dDdncyRGYybG93Z2NkTElQSXhMRW9vSnItc19leWtGbXVDRWVtVnFlclJNb0ZNaC1FTFhZS0RLTHd3SF9aaW9XdlV4VjFBMVNiUDhtQWR4a3JCVHhDWXBVbndoU3FkOGt5a3lPdDBGcDZNZXoyRkZpR0Job0NmM2FiZzM4OEZlOVFudTNxRmtxQnJhUWNxRm5fMHQ2QW5kaDlBU1lGd9IB9wFBVV95cUxNNHo1eU1IQmpic003YXdBSzRxbmh3QzczeEMzVnhYV3B5TUpiRE5JTTdrS2xJaG82cmFjSTBrRnJKYWl1My0xTUNudE50cFpPYjVZLWxoVGdGYk9iUTdManVPNm9tSVZ6V0w3MS1KeG9BeVVkcG9PVHNTS19qeDNaNEgtZlNLelZxRHlBYTJNdnBtZy02V0ZqVHVoanBrVEVVMTZqRzlocl9ET21pdlRYdEFIbmRzZWNqVHdINzRfN2dvbV9NMDZ0Nzc2RmZJb2dyTE1SZ1F6aWloTmdRT1RWNFFkcGJKT2hrZk5hV0szZTl0alRHbEs0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "6 months after report, BJP MP Atul Garg alleges defamation; journalist held in UP - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWEpWTlNFVWN3Vlg2U1NseFVHcVZQaGw2Ml9zV3NuV1Z2cVpEXzJJZ1UxcXNUZWYtMU1TTTdUaEZ5SHR2dVZjVWpibW5MNkZUNFFXUEZFSnF3emEwV2VDTTJvRlByY2p3b0NfSXVhcEZpUTAwNVVScWFXMHZhMlNHU2szNUNRa085dGRpbFc2ZU5TNjVfa3M3NGwxQVc3SEtYenotNnpabERocU1uUkRnRVdYNDVpeEhBaVo2TWZDeTNHdHRRWS130gHOAUFVX3lxTE1RTl9iWE1GTWVXdXVteEJpMS1ZaXFyX05FQXhxc012bmFzSG1NRUhzRGZRSU5HbXRLRktWNDRTUlc5NUZVV1lGaERqYzFVd3ZMdmd4blEwNDk4a0dHX0MyOTlmWktXUjAtVWhaT1phRk04U1hVaUZZejdYLUE2UXNHenNENXVhbkFPYjE2QjZfbWZzX2RoRkpnc0FSdXJ6OGNMSi1weTYtVUdwTTRGclJOWUFLZHJodU5Dd1NUenl2V3ozbUlJZnJKOUo5VEZB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "6 months after report, UP journalist held over BJP MP’s complaint - Newslaundry",
+        "source": "Newslaundry",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnFybDZqdzlQazFjWWNraHU1N2Q0QWM0N08yN2xoUERMZ25oRzVocXFBRWxxNjdVekNUamNNZHQ0aDlTUmdHS0FPZUJ0NWtpOTF2TWlTUjhycm1NM3EwUE01ZHFuamkzXzEtMHNDMDlValcxVGJLNFQ2V3dNWTVwX2tRTFJ6RUE1T2xJSzJrRHBVdlo1ZUlkLURqSFc1Q2RvbExWR9IBugFBVV95cUxNMUxWbGJrZmIycmhKaFJZSjNSYmdyZ29GN2VrdVZGQU5GSEpSMzk1MGhWN19OVkFIa3VXQnctdFBISHJidmJKeWZ3MnE4OEFUR0ZjRzRQeUFOb1liWXZ2clNmcXZySFY5NzFORjlsZzFZWW94UFZ0NS1hWjBNV0R2dHpkYlBOZGhzV1VtM3JCYUIxWW5XU3dhc3ZyakZWdW1sSm45eDdGRTdiSXJLQ3N6dEc0czZGZVJhQkE?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Uphill task for BJP candidate Atul Kumar Garg to replace Singh in Ghaziabad - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSHg0alQ5RmJPb196LWZGR1RpREF2T2J6NlFocDFPZzJmTndMeEtRbWFuRzlxbnpvTjZ2aTdKbTRRZzRRTE0wRU4tQTFScWlvckxLUlQ5LW01QUcteE9TQ1c3b1VNeEp4WVFOc1M4TlppYUZzSHIwQUxlZUxTWXpSZG8tVktFZ2pybE5LQk45ZHZPNUdoZXFXRXNfWEhqZXVTOU52eFVtSmJqSzhmY29jRV9JaDdta0o1blpXQ1YwYXNMd0Z1WTU0T3Q1STjSAdIBQVVfeXFMTjdYR1BhVDUtdk1SRk1XUzhpdEhoSkQyZ3IzMnh6UW14bGtiSmVEUU1VNElLT1RmUzNNT2lNNFZWVGR1YzFHVlQ4dnlOZ2luR1JuWXJqRUJvQVBlSlB3aGpjVHpVa2lEMkVIV0JPbkFLMHd1ZWhRZnBpWGJXcDQ2YjFFcWZfTTlYaHU4VVlJaHRabTEzSW5UcGUtQmlrUGpGZXN0ZTkyQU5PV3ByUW1FMzlWSi1Mb0otal9QblR2dWR4MlJkMU1fVXI2Mm5LcERaTG53?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"Overwhelmed\": PM Modi Holds Roadshow In Ghaziabad With Yogi Adityanath - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUjZuRnpKMWgzUXdTOHlTR21lUVktTjRNazcyd2lvZVBqTDV1dndCeE9vQ0lJVnFhYnBmbGFTSEw2NjFGS3RNemNrdlIta09NR2lfQy03UmV1cElIeDFHNWpfN2dOUDRtYThYOTRlSDNvR3FIdFFyWk1hTW9SSnFIWWEtYmdEUmNTRm1MTy1XdUFhUHFvWlQxVWdVc3BucFFTSkZnZThoMkFoMl9JeGY2SFFXbHVVZjM2SW02ZXNEUGk5b2dmVldNYXNGZXhXWFpvd0xpLWJYM0pSYkZiWGF4ZXNUMHBweVRKYVHSAfIBQVVfeXFMT25nWUZ5bDdnNFVPcEJwcTlOMGVnMkg4Sl9hakU1dDVnS3A5aU1QNmh0RkNhRkI1S2JGbmQtM3gwRHFMclZqOFVyVHNuLUlxV3RGT0piVUxmRkZQb2ppSXlVblo4QXpac0Z1SEhySFhNZV9FQ2RkUGs4NF9vOWZvbExQS3FTRWRVQ0NvQV8wZmpnT2lSWHg2ZVNNSmt5cGVhRklyZGhwM3JHRE0yX3JONU9sMmZVWjY0YTctU0dZdGQxSWFJY0RiN01LdWNRNTVZLWhWOUtJd1NoczV4VG5xUjEtTUF1eWNQQUE4UVZqQ2VIOVE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:00:40.358911Z",
+    "collected_at": "2026-09-02T17:06:02.188823Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.262949Z",
+          "fetched_at": "2026-09-02T18:38:10.828549Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.262959Z",
+          "fetched_at": "2026-09-02T18:38:10.828561Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.262964Z",
+          "fetched_at": "2026-09-02T18:38:10.828567Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.262968Z",
+          "fetched_at": "2026-09-02T18:38:10.828572Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.262973Z",
+          "fetched_at": "2026-09-02T18:38:10.828578Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.262978Z",
+          "fetched_at": "2026-09-02T18:38:10.828583Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.262982Z",
+          "fetched_at": "2026-09-02T18:38:10.828588Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -249,7 +305,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.262987Z",
+          "fetched_at": "2026-09-02T18:38:10.828592Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -283,17 +339,9 @@
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 0,
-      "neutral": 10,
+      "negative": 1,
+      "neutral": 9,
       "top_headlines": [
-        {
-          "headline": "Jhalmuri turns victory snack as BJP workers celebrate Bengal triumph - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVZCM18wR3p1TXhwMUVxdHZLRXlwSURLbWNBbDFYel9KZnBpZWVMcmFYdHdTX3pSYlJmRTNBTHRZWWhfRi11OUo2UVR3dUNfSlotcmJDRmQwTHZkckFzRjczdDRpSDJ3c0ZNU0VZU0ZkSy1sQ3J2dkE0LTZEeURlcFFmMDZtTEtfOHFLUGpjRDFCQUpPck8yQ0hMa2JKdU8wekhTd2oyeGJzUVNrX2tlVUxEUGxCbF8zM0pyYVlBSVJ5amM5OHpYUDdsX09QbUFqeXlDbmFQb27SAd4BQVVfeXFMTUEyeFFnQ2hqRFpBdG00bzlXOVhvYU04MXRjLXFGNDhIUk4zRW8zaEJOaTY4SThKTXZOeExBVG1BUlZiWThSMWdfMmtXM3prSzY2OV9Rb2FyNWctSmJBaE44SU1XXzFoU1ZFaUV4aU5qR2FRVE1sN19PNVVCN2pzUDlZbi1fQkFjOVg4eWxwVTd6U3RtVC0zTkFIRnAxYXRLaUgyX0hhNEtSNW1icFpMLTFCUVJNYUsxRTljVFZOVFhkeUNrRUh3ZGJLWElpTEtwREtQWDBpeE1XU0RwQ0Rn?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Ghaziabad court summons Cong’s Dolly Sharma in defamation case filed by BJP MP Atul Garg - The Times of India",
           "source": "The Times of India",
@@ -311,12 +359,12 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Ghaziabad to get makeover with Rs 1,000 crore Hindon Riverfront development: Check details - India TV News",
-          "source": "India TV News",
-          "severity": "low",
+          "headline": "6 months after report, UP journalist held over BJP MP’s complaint - Newslaundry",
+          "source": "Newslaundry",
+          "severity": "medium",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWUJpd2ZxM2ZzNXNCbGZQcDMtREk4bTVZdEpCWnk5M2N3SjA3ejVmNjJtb2FWR3EtaktvX3VRX0NncVJLbjZGSmVZYWpsQ1hYUkRkRU1CaFRvdW45X2RWT0t1MVN1ZWhCc2g1aVMxQXhkRktiN3VRMmtIS3NfNG53a2hpTV9fUGdiZDdNR0RwMi1DNjdRMUpMcGRTSUlkOF9Kb1BoaXQxeGE1VzNuN3IxSTR4eHBJcHlVZGlMNDd2X1ZQVFl0a3pfdTJib3RMUjVDS3VJN0dR0gHbAUFVX3lxTFBoZWYwOFhFUzJyMll3Rk1HS2d3aUY5V2RHWFRDN0xJbXpjdEg3bk9LbkJiMThRVm9GUUEwOTU5U0JNMFd4TmhQQ1FiX1p3WHRnbVJ4M3h1bl9XdUJLaGRMOU92UEtuWlVmcnBvOG1UNGJGMm40SGdCeU11bXZVQXNYRDU4ajJNbElDYVBwVDI2Y2VFdjdRa0c3OERTOHdaZEt2Rm1QRTBZZmNLX3J0ZkNDUWFYcml0azVsMVJNdDVQbUlEbW0wU2taWkdPdjd2d2RYNEduem9ZU0o3aw?oc=5",
-          "sentiment": "neutral"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnFybDZqdzlQazFjWWNraHU1N2Q0QWM0N08yN2xoUERMZ25oRzVocXFBRWxxNjdVekNUamNNZHQ0aDlTUmdHS0FPZUJ0NWtpOTF2TWlTUjhycm1NM3EwUE01ZHFuamkzXzEtMHNDMDlValcxVGJLNFQ2V3dNWTVwX2tRTFJ6RUE1T2xJSzJrRHBVdlo1ZUlkLURqSFc1Q2RvbExWR9IBugFBVV95cUxNMUxWbGJrZmIycmhKaFJZSjNSYmdyZ29GN2VrdVZGQU5GSEpSMzk1MGhWN19OVkFIa3VXQnctdFBISHJidmJKeWZ3MnE4OEFUR0ZjRzRQeUFOb1liWXZ2clNmcXZySFY5NzFORjlsZzFZWW94UFZ0NS1hWjBNV0R2dHpkYlBOZGhzV1VtM3JCYUIxWW5XU3dhc3ZyakZWdW1sSm45eDdGRTdiSXJLQ3N6dEc0czZGZVJhQkE?oc=5",
+          "sentiment": "negative"
         },
         {
           "headline": "Uphill task for BJP candidate Atul Kumar Garg to replace Singh in Ghaziabad - India Today",
@@ -324,6 +372,14 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSHg0alQ5RmJPb196LWZGR1RpREF2T2J6NlFocDFPZzJmTndMeEtRbWFuRzlxbnpvTjZ2aTdKbTRRZzRRTE0wRU4tQTFScWlvckxLUlQ5LW01QUcteE9TQ1c3b1VNeEp4WVFOc1M4TlppYUZzSHIwQUxlZUxTWXpSZG8tVktFZ2pybE5LQk45ZHZPNUdoZXFXRXNfWEhqZXVTOU52eFVtSmJqSzhmY29jRV9JaDdta0o1blpXQ1YwYXNMd0Z1WTU0T3Q1STjSAdIBQVVfeXFMTjdYR1BhVDUtdk1SRk1XUzhpdEhoSkQyZ3IzMnh6UW14bGtiSmVEUU1VNElLT1RmUzNNT2lNNFZWVGR1YzFHVlQ4dnlOZ2luR1JuWXJqRUJvQVBlSlB3aGpjVHpVa2lEMkVIV0JPbkFLMHd1ZWhRZnBpWGJXcDQ2YjFFcWZfTTlYaHU4VVlJaHRabTEzSW5UcGUtQmlrUGpGZXN0ZTkyQU5PV3ByUW1FMzlWSi1Mb0otal9QblR2dWR4MlJkMU1fVXI2Mm5LcERaTG53?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "\"Overwhelmed\": PM Modi Holds Roadshow In Ghaziabad With Yogi Adityanath - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUjZuRnpKMWgzUXdTOHlTR21lUVktTjRNazcyd2lvZVBqTDV1dndCeE9vQ0lJVnFhYnBmbGFTSEw2NjFGS3RNemNrdlIta09NR2lfQy03UmV1cElIeDFHNWpfN2dOUDRtYThYOTRlSDNvR3FIdFFyWk1hTW9SSnFIWWEtYmdEUmNTRm1MTy1XdUFhUHFvWlQxVWdVc3BucFFTSkZnZThoMkFoMl9JeGY2SFFXbHVVZjM2SW02ZXNEUGk5b2dmVldNYXNGZXhXWFpvd0xpLWJYM0pSYkZiWGF4ZXNUMHBweVRKYVHSAfIBQVVfeXFMT25nWUZ5bDdnNFVPcEJwcTlOMGVnMkg4Sl9hakU1dDVnS3A5aU1QNmh0RkNhRkI1S2JGbmQtM3gwRHFMclZqOFVyVHNuLUlxV3RGT0piVUxmRkZQb2ppSXlVblo4QXpac0Z1SEhySFhNZV9FQ2RkUGs4NF9vOWZvbExQS3FTRWRVQ0NvQV8wZmpnT2lSWHg2ZVNNSmt5cGVhRklyZGhwM3JHRE0yX3JONU9sMmZVWjY0YTctU0dZdGQxSWFJY0RiN01LdWNRNTVZLWhWOUtJd1NoczV4VG5xUjEtTUF1eWNQQUE4UVZqQ2VIOVE?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -357,15 +413,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 2,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 2,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 3.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -373,17 +429,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -404,8 +460,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -419,12 +493,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 207,682,224. MPLADS utilization: 20.5%. Parliament attendance: 95.0%. Questions asked: 2. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:53.263714Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 2. Debates participated: 1. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.829333Z"
 }

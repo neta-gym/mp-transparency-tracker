@@ -4,80 +4,120 @@
     "constituency": "Nagaur",
     "state": "rajasthan",
     "party": "Rashtriya Loktantrik Party",
-    "myneta_candidate_id": 454,
+    "myneta_candidate_id": null,
     "slug": "hanuman-beniwal",
     "house": "lok_sabha",
     "sansad_member_id": 5205,
     "profile_url": null,
     "canonical_name": "Hanuman Beniwal",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 52,
+    "age": null,
     "photo_url": "/mp-photos/5205.jpg"
   },
   "criminal_record": {
     "total_cases": 1,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "GRP Badikuyi 40/2019 | Section -145, 153, 174 Railway Act, Sec-3PDPP Act. \n(challan has not been presented yet)",
+        "ipc_sections": [
+          "147",
+          "148",
+          "149",
+          "332",
+          "353",
+          "336",
+          "307"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "GRP Badikuyi 40/2019",
+        "case_no": "",
+        "other_acts": "Section -145, 153, 174 Railway Act, Sec-3PDPP Act. \n(challan has not been presented yet)",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:09.094144Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 8110760.0,
-    "liabilities": 0.0,
-    "net_worth": 8110760.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=454",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.705912Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 6.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.19,
-    "expended": 5.75,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:44:54.583117Z",
-        "notes": "Official eSAKSHI REST API — Works: 250 recommended, 214 sanctioned, 156 completed"
+        "fetched_at": "2026-09-02T14:27:09.647625Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:52.735041Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:21:54.891799Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 250,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 39.1156462585034
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +132,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:32.650878Z",
+        "fetched_at": "2026-09-02T14:21:53.962923Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +140,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Rajasthan HC stays coercive action against Hanuman Beniwal in Nagaur FIR - The Times of India",
+      "source": "The Times of India",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVGNCOGtiM201U3lzdWhDZllPWEtteTNxNlkxVExNZmpoOGZoQlE0RHB5d0xmNVhabkthN3gyT3ZGeGJUVFE5U0xrNnU3VU0tZHFMZjF5NWpJUFBBY1MyR2FHaTh1eERIcUVZTGtjOS1KR0hCdWdLRkdTWFFSNDNZeXJId3JTeXRZTWh5Q1UyOWt5MGtFV25teEt6SDl4TXNRTXhaa1oybTFaZmpVNDdITkRmUDM1TnFVSGszR2lUeDlWU2F3RjdkNVljYlEyNUswVVgzZFhsdWxETGs0RUx30gHkAUFVX3lxTE5RbDhXN1JyLUNXQTN6OUw2Qk5PZTFIbUctaXdEMDU2a0ZIZVdoWm81WHpTWW9jOXU1bW1uZk5NdHYweTk1T1JVaS15RFg1U0dsRU9QY3AzV2JuMHlCYUZPWXd2OVlxcWNTc0FTTjIwUDVxQ1N2OGY5WTB0RWtsZmt2eF9SWXJNQkFCemRBSnk5TnJ4QmdUWHl3M1d0SFNsTmhqelZlaThWY3BYcUNsUVhyeHJHdFZEMWJaZVVPcndsenVpdmpROTg5NTE4d3B3RU9rd2FsT3BsZjA5REdzRHQzTFRabw?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Hanuman Beniwal’s security reduced, 3 PSOs withdrawn: MP says ‘I never asked for security’, thousands of yo... - bhaskarenglish.in",
+      "source": "bhaskarenglish.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEdnVGhtVENWdHFiR3JJTEpxclM5NzlnUVpLR2gyRE9JeE1yc1pKUDMxVjMyNGRPVmtSM0dNckttTmtzQkFlZlQ5M1RrcG5TV0NfRlBtTW43cW1UUElLTXNCUjZsVmgzdEw3U29fQlVfX2c5ZXNqNE5sc2ZNclNYdG56VldLQl9PWnFiZU05TkV4Ym1EV3h6MjVZUzl5REdMVm5tRmFzanBPSTN0Uk5Tc09XMzFlYUNNVUdxblhDVjZQQVVoc3pxRjBwdE7SAdIBQVVfeXFMUHRsc0RaazRKa0FWWUsyZHRsYjdzMk1HR1JfLW5nUGd1dHdKVjBjeFpkb2FyZ0RoQTBOZDVqd1lkTG1ldUhaMTZqNXBPMEFHbU1qT1phSWdKRDZXc1FDMUVfclhBM1F3ekRlblBhek4tM2tKR1lTYkoxaFpBV3NqX3B5LTR1cVNNT3ItaVAtZUVrTmF0NXBSVWJNWjMyZU5QeUV5bWxWNloyQUNRVVM4cUtYZ09NdFVhUjU2eENaLWpFRG4zaVc1SnhwdTJIVl9sRE1R?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Passengers wait in plane at Delhi airport, pilot stuck in rain traffic - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzRYRS1od25tMzlQVjMxQ0dGejM3QlliZ3U2VnhmbDN6N2VDRFgxVklTVi1nMTJxWVFvRk1UVVgwU2tEcFpRN28zS2F4eFRiSTczVlo5c3IwcVA5Ui1WZndMbm42OURsVDBMcjhKc3ZQanR4RF92VlFxcFpyY1dmQVF6aDY5cDZneDhOOGQzU2lOTUFCVXRPR0Fad2tfcFp5Q05YbVF6UTNYRG9Yc0NXbkFTdldiM1VKeVE4eFNFemxPRThXb3fSAdMBQVVfeXFMTkxSdUxVbVJELXJNN052UGU3M2ZRcDVTajFZZmJFemZNWFNqT1FxblQtWDZrRjl0bnl6NGNUUGNmdG81X2UybTFkOGZlTFhWZmJaeXZqSHlYZU44QVNYWnZhbGZkMXV4bVUwbWRPMWhpbHNrbzA3QXdvOURPalk2bUlna1QxX0p2RzJyZlo2RkdGaHZGX1dwbjJqb0hZUDcwaWM3TDczQldWT2EzRnRiY2N1aVY3MFgwY1EtSkYtM2VldEtvUG1vX2JLbUhlM0FUczYtaw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hanuman Beniwal extends support to NEET paper leak protest at Jantar Mantar, Parliament march - thehawk.in",
+      "source": "thehawk.in",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQndvRGlGYzVzaml6ZEZCOVB2YnJ0OXp6ZEhEbEswbmNDRnJKU25XWjFZLUhBajlKUlJJbGZuMUR0RFZBZ2NZNU5YOE92LUVVZnBkU056MWVwMkJQbDkyNG4zM05XaTZVbmlhLW8xRzB4dFhsN3RZb2Myb0ZFa2pTZEJvbUYzYWduZzNUUWJpcUZ1c19aY0lSalhUUnVlSWlaZnpBZzdyWWJpN3pPUDVVclQwQWN1c0oxRUZ2VXVRTFRlX1Z6?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Nagaur MP Beniwal hits out at govt after flight delayed from Jaipur - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONjhMTDRDMV9lQnhZUkR0cWNjbE9VQ3EyTm81UXM4THA4S0p2UW9uUzVvR0ZkMHdncDZRTHE3anVBYjZmQnBQZTM4Zk96UkVCdThoQUFEa3JiWURUa2xESUpNMEQ0WERvWTMwM0JpM1ZfdDh3NEZEMW1uUGk5djNYS3c5MTJsSDhPdHhtUnROQ18xTmZWUmYzN1BPVHVkUm1LdFh2dmQtaWRYMDdaM3liM01DTnl6WjhRcmpDWUFqMzVPN2hGTkpRdkstQ1VoS21VVkIxZHUyamHSAd4BQVVfeXFMUDM1eEJMNWpHQjRNQmdQNnpaOF80VzBQQ2htYnU5Y2xOQnJkcjJ2bEpFU3dhQWhEVTI1QzR1YWRydFlySFlCQ3JDSHJtX2tENWdXMVd2dnBLVktJUzJ6TGxFcGxPYy1MWXdpZnVpMVVpbWlCMlBSdFFyNGRGdkI5dGdiSGZ6bVFNNlpxR2VLUTd5bGhzcklnc1JvbF9VbjkzVHRJYkl1Yl9fYjhOaUFQYmtGaVZFRllCN3pxSDFiRDJVYUN5eUZQd0wzUUNkRHpydWV3Z0VCUG54ZWtXYU13?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:20:56.741515Z",
+  "collected_at": "2026-09-02T14:27:14.645230Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +209,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.000180Z",
+        "fetched_at": "2026-09-02T18:38:09.410698Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +225,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.000189Z",
+        "fetched_at": "2026-09-02T18:38:09.410711Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +241,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.000194Z",
+        "fetched_at": "2026-09-02T18:38:09.410717Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +257,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.000199Z",
+        "fetched_at": "2026-09-02T18:38:09.410722Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +273,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.000204Z",
+        "fetched_at": "2026-09-02T18:38:09.410729Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +289,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.000209Z",
+        "fetched_at": "2026-09-02T18:38:09.410734Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +305,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.000213Z",
+        "fetched_at": "2026-09-02T18:38:09.410738Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,56 +330,81 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@hanumanbeniwal",
+        "url": "https://x.com/http://www.twitter.com/@hanumanbeniwal",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/@HanumanBeniwalOfficial",
+        "url": "https://facebook.com/http://www.facebook.com/@HanumanBeniwalOfficial",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:21:54.980126Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 3,
-    "neutral": 7,
+    "negative": 2,
+    "neutral": 8,
     "top_headlines": [
       {
-        "headline": "Farmers’ march led by Hanuman Beniwal to Jaipur called off after high-voltage drama - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMVd1eWYwMVpwb0NJQjE3MkRGMTBlZkY4OHg0Qm13TUc1WlVlS2hSU1l1SWxPNWhnZnhwQ01JaFdyREkzM1lyTVpYWTFfN1lXU0JDODgySy1RVEhveVRRVkJNVzRENGZ1bTYya2V1UjlYdkxQaUZ3VVQtZ21lOEZFV1VJakdyaEdHM2tjZnNRbXRpcENJdmZmTTcyX25ZQWQ1WUQ4LVctZVRuUkduckI0LTFibkZla1g1SEZ4V2lLeDNveko1SkU2WEtLRHVfeVBGNV8wbmx4d0NvazU4bVRWY0l5T3dtZ9IB7AFBVV95cUxPUUlDVGVWZGJSd2FTTmF4T0kxZ3hSZmt3NmVxaXhrUTVyRFB3M0VBaEU1YmRVNVlzOHBxNjl6SUVhcHNWY2ZLc0llVXpGTGJvdnVLWmM3V19fdGtuaFNqWXFCQkxtNkxRNFRzTHdnRlA5R0xEa2JKWC1obGUwM2pLcXkxdVNLRGgwUXRrVnZxWno0QWFPa1RIS3lPZXI0bXJXOWxibzByc0xKaFB6MEkxNzRUZ0ItVkZScWNoUFNVZGk4dktreWlydEJSRXkwQnhFU3h5ZE5QNFJsNE4tR3c0YmlkTFJLRXF0bWNtMQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Nagaur MP Hanuman Beniwal flags ‘forced’ smart meter rollout in LS, seeks safeguards - Punjab Kesari English",
-        "source": "Punjab Kesari English",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXpVbVRBeTg3VU8xbnVaaldQQkFWMWE5SzBOek1vaWZOby12c2hZSDNIZ2ctMV9IMjBpeU1IVVRmejZhZjkyY0hsdlRLS3lMUmJNUTZ6NFdvWFp3UWo5RU9RbUdpZ2Q1YUY4dkFvaFNDUjExSDIzcUgtWU5wOElUbU04LUlXZm9sNUtIZlRFTzV3cnNqdnJ5dDBKVXVPbnhfNTZKSzQ0aTVUVFV2ZWdiT3pmZGpFanFjemVPetIBwgFBVV95cUxNNGFVVm0xOHdpWS1JaFpLaW1uWlkxbzBwZDFFTklwWTBCOFNxMVk2V3VESk45cjJrWjVjMlByMklZb0d0eTFzcG13QjJrdlJtQ0wxX0RDTUpDbHRsemxMZzVlbGtFNVozN3dBcjFDS0tYN0o0R0RuR0hUMmY2SW5Sbkg4ZGhxNmFmMG5nLUZZcmhKTF9hODdtX242aGVadlBEQTZNOVpkR1luS1hhbmRhVXR0TmpDYUNCLUl3aE1zN2xzUQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Farmers Suspend Protest After MP Hanuman Beniwal And Rajasthan Administration Reach Consensus - Ommcom News",
-        "source": "Ommcom News",
+        "headline": "Rajasthan HC stays coercive action against Hanuman Beniwal in Nagaur FIR - The Times of India",
+        "source": "The Times of India",
         "severity": "medium",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWC1EV3lha0MxaUZVSTYzVEJfa1c2STdJYllwWXNERWJsVmtDMlFZUDB3T2VMcWE4SVUya01mYmMyWlhlVVZkdTVZLVFtM253a0pxMmt2UmlDWXpTR2ZIOEpNOVYxRjBFSmdPakQtU2FqNmhJd09GWGxFcUlEN1NJRzA0MzVEcjFXaTNEWXhzRXNOWHdESTZObzJSckY3YmZKVml3WE1BTEdCRUNrSS11WEh6VjJPY0QtQVhvVUdaN1BJVlA0V25r?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVGNCOGtiM201U3lzdWhDZllPWEtteTNxNlkxVExNZmpoOGZoQlE0RHB5d0xmNVhabkthN3gyT3ZGeGJUVFE5U0xrNnU3VU0tZHFMZjF5NWpJUFBBY1MyR2FHaTh1eERIcUVZTGtjOS1KR0hCdWdLRkdTWFFSNDNZeXJId3JTeXRZTWh5Q1UyOWt5MGtFV25teEt6SDl4TXNRTXhaa1oybTFaZmpVNDdITkRmUDM1TnFVSGszR2lUeDlWU2F3RjdkNVljYlEyNUswVVgzZFhsdWxETGs0RUx30gHkAUFVX3lxTE5RbDhXN1JyLUNXQTN6OUw2Qk5PZTFIbUctaXdEMDU2a0ZIZVdoWm81WHpTWW9jOXU1bW1uZk5NdHYweTk1T1JVaS15RFg1U0dsRU9QY3AzV2JuMHlCYUZPWXd2OVlxcWNTc0FTTjIwUDVxQ1N2OGY5WTB0RWtsZmt2eF9SWXJNQkFCemRBSnk5TnJ4QmdUWHl3M1d0SFNsTmhqelZlaThWY3BYcUNsUVhyeHJHdFZEMWJaZVVPcndsenVpdmpROTg5NTE4d3B3RU9rd2FsT3BsZjA5REdzRHQzTFRabw?oc=5",
         "sentiment": "negative"
       },
       {
-        "headline": "Nagaur MP goes towards Jaipur with convoy of 200 vehicles to join farmers’ protest - ThePrint",
-        "source": "ThePrint",
+        "headline": "Hanuman Beniwal’s security reduced, 3 PSOs withdrawn: MP says ‘I never asked for security’, thousands of yo... - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEdnVGhtVENWdHFiR3JJTEpxclM5NzlnUVpLR2gyRE9JeE1yc1pKUDMxVjMyNGRPVmtSM0dNckttTmtzQkFlZlQ5M1RrcG5TV0NfRlBtTW43cW1UUElLTXNCUjZsVmgzdEw3U29fQlVfX2c5ZXNqNE5sc2ZNclNYdG56VldLQl9PWnFiZU05TkV4Ym1EV3h6MjVZUzl5REdMVm5tRmFzanBPSTN0Uk5Tc09XMzFlYUNNVUdxblhDVjZQQVVoc3pxRjBwdE7SAdIBQVVfeXFMUHRsc0RaazRKa0FWWUsyZHRsYjdzMk1HR1JfLW5nUGd1dHdKVjBjeFpkb2FyZ0RoQTBOZDVqd1lkTG1ldUhaMTZqNXBPMEFHbU1qT1phSWdKRDZXc1FDMUVfclhBM1F3ekRlblBhek4tM2tKR1lTYkoxaFpBV3NqX3B5LTR1cVNNT3ItaVAtZUVrTmF0NXBSVWJNWjMyZU5QeUV5bWxWNloyQUNRVVM4cUtYZ09NdFVhUjU2eENaLWpFRG4zaVc1SnhwdTJIVl9sRE1R?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Passengers wait in plane at Delhi airport, pilot stuck in rain traffic - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzRYRS1od25tMzlQVjMxQ0dGejM3QlliZ3U2VnhmbDN6N2VDRFgxVklTVi1nMTJxWVFvRk1UVVgwU2tEcFpRN28zS2F4eFRiSTczVlo5c3IwcVA5Ui1WZndMbm42OURsVDBMcjhKc3ZQanR4RF92VlFxcFpyY1dmQVF6aDY5cDZneDhOOGQzU2lOTUFCVXRPR0Fad2tfcFp5Q05YbVF6UTNYRG9Yc0NXbkFTdldiM1VKeVE4eFNFemxPRThXb3fSAdMBQVVfeXFMTkxSdUxVbVJELXJNN052UGU3M2ZRcDVTajFZZmJFemZNWFNqT1FxblQtWDZrRjl0bnl6NGNUUGNmdG81X2UybTFkOGZlTFhWZmJaeXZqSHlYZU44QVNYWnZhbGZkMXV4bVUwbWRPMWhpbHNrbzA3QXdvOURPalk2bUlna1QxX0p2RzJyZlo2RkdGaHZGX1dwbjJqb0hZUDcwaWM3TDczQldWT2EzRnRiY2N1aVY3MFgwY1EtSkYtM2VldEtvUG1vX2JLbUhlM0FUczYtaw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hanuman Beniwal extends support to NEET paper leak protest at Jantar Mantar, Parliament march - thehawk.in",
+        "source": "thehawk.in",
         "severity": "medium",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGFTVXZwQUlfODdtZDdRZ0hOUGtEdV9lRzVaMlVhNHFRVVJFVk0xVHhmTGctV3lwQXF2MnhjanVua2FJM2xoRlVRX2hlVjVjelAzZTE3bkN6eEdnTGx3d2xQNXFBVDhUYlZENzZtN0NVRTRmQXFTRW94SlF6aV81QkZPcWdrNGU1UkxIN29UdmRlcXFDcURJemZlM3JIOG5KbHU3OHNsMDBnclA0RTc2WHZROXV6OFXSAbwBQVVfeXFMUFdtdm51M0h5My0ybWdTbWMza3ZUSzRCMmEzVV93ODd2bnVGMjdKY0UyWUJ5SkF6QlUxYXFMc0FWbjE3OFZ4d1BfbHVPVnpaOUIydEFTQ1VuZ0JtdkFhVjl3R1R1S1Uzb1FyOHYtd0FsMndQbUVFakhVNHpsME9vMkJoUk1jeEoxU1RTeHcxU0hIOTQ2eXBxQ1l0MmNXejRqQ1ZCd0MwZENOWWJ0bUUxei1rb2xMbXVHNHVHSTQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQndvRGlGYzVzaml6ZEZCOVB2YnJ0OXp6ZEhEbEswbmNDRnJKU25XWjFZLUhBajlKUlJJbGZuMUR0RFZBZ2NZNU5YOE92LUVVZnBkU056MWVwMkJQbDkyNG4zM05XaTZVbmlhLW8xRzB4dFhsN3RZb2Myb0ZFa2pTZEJvbUYzYWduZzNUUWJpcUZ1c19aY0lSalhUUnVlSWlaZnpBZzdyWWJpN3pPUDVVclQwQWN1c0oxRUZ2VXVRTFRlX1Z6?oc=5",
         "sentiment": "negative"
       },
       {
-        "headline": "'DNA Mistake Ho Jayega': Nagaur MP Hanuman Beniwal Passes Controversial Remark On Inter-Caste Marriage At International Jat Parliament Meerut - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "Nagaur MP Beniwal hits out at govt after flight delayed from Jaipur - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQRHFWZ1c3UURwQloteUZHWnA1ZkhINVpoX1R6anZHbmdPR2o5Q3pqNlhfQm15cUJYZEJoSUJ4MzVvLVlPUzhfd1E1ZjhzQVdDNnFSVmlPUndFZ0NicWdmejNSc0d6alk4UWZOQkdabzVGa0tKX1ZvNnlzV1VxZmcyaDJ4bEpNUFEzRk5YaEU5MnZoOFMzZmk3Z1A3alUwQmVFMnJfeDNOYTEtSklUQ0RwUTdLNzZ0bmxyMnhwaWdZaFVCS3FFcXZycXpVWDNvNGx5bHBzYTZrMGJhM2FJUDc1NGtfN1M4MUw2dzlfV0VLQUMyRG4wcDRSVm40ZEN4NzZTRktEN1d3OHBQU1VSbTJyZ054Rm5iT3RPbU0tMTZ0REJBZ3pmcGlzZUVNb2NEWU1sV05YNFlVMlhvZFBId3ZNQnV1eWVMNFMta0E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONjhMTDRDMV9lQnhZUkR0cWNjbE9VQ3EyTm81UXM4THA4S0p2UW9uUzVvR0ZkMHdncDZRTHE3anVBYjZmQnBQZTM4Zk96UkVCdThoQUFEa3JiWURUa2xESUpNMEQ0WERvWTMwM0JpM1ZfdDh3NEZEMW1uUGk5djNYS3c5MTJsSDhPdHhtUnROQ18xTmZWUmYzN1BPVHVkUm1LdFh2dmQtaWRYMDdaM3liM01DTnl6WjhRcmpDWUFqMzVPN2hGTkpRdkstQ1VoS21VVkIxZHUyamHSAd4BQVVfeXFMUDM1eEJMNWpHQjRNQmdQNnpaOF80VzBQQ2htYnU5Y2xOQnJkcjJ2bEpFU3dhQWhEVTI1QzR1YWRydFlySFlCQ3JDSHJtX2tENWdXMVd2dnBLVktJUzJ6TGxFcGxPYy1MWXdpZnVpMVVpbWlCMlBSdFFyNGRGdkI5dGdiSGZ6bVFNNlpxR2VLUTd5bGhzcklnc1JvbF9VbjkzVHRJYkl1Yl9fYjhOaUFQYmtGaVZFRllCN3pxSDFiRDJVYUN5eUZQd0wzUUNkRHpydWV3Z0VCUG54ZWtXYU13?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +438,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 47,
+    "starred_questions": 14,
+    "unstarred_questions": 33,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 91.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +454,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

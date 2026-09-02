@@ -4,16 +4,16 @@
     "constituency": "Moradabad",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 877,
+    "myneta_candidate_id": null,
     "slug": "ruchi-vira",
     "house": "lok_sabha",
     "sansad_member_id": 5706,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 62,
+    "age": null,
     "photo_url": "/mp-photos/5706.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:11.080537Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 280588320.0,
-    "liabilities": 0.0,
-    "net_worth": 280588320.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=877",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.030381Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 76.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.64,
-    "expended": 4.4,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:17.298503Z",
-        "notes": "Official eSAKSHI REST API — Works: 273 recommended, 212 sanctioned, 165 completed"
+        "fetched_at": "2026-09-02T17:41:13.199564Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:37:11.559013Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:37:11.556012Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 273,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 29.93197278911565
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:07:27.992343Z",
+        "fetched_at": "2026-09-02T17:37:11.554945Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "'Akhilesh Yadav asked me to step down': SP's UP assembly chief whip Kamal Akhtar resigns amid reports of - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeGFqMmthZlgxQjNPc20xWGhuNUhBdjh5NU5pMTJWNXFKQnBodXdBVGoyNWlZenBFeURaMGRFbG1jTEdua1cxUVdXeE1hdVVnMU9zUXVPaW5STE5SclVWTUsweG55Y2cyR1hPS0ZsUWtLRXpuQVlKa2tMYTB1VjYwYlB4OF9WdUxHUmdGS0hubTJ0ME9USF95RXBGOWZDYTJrdHA2Q3JROU9fNkdqaXBucDNFaXZQQzJHT3ozVFZGV2VwNGdJN215LVU3TDBGcTNQemJlcGQzV0hmWTVvUWZ6cVpjb1Y1cHNrcGhoY1JWdW5ybVlRN1M1dXJtVXdxTXk3LVJmSVhfaV9kc09jUUlHQTduQUVGWlQ5M2tGT9IBogJBVV95cUxNT0g0d0ZYeUhjQUlUSXNNaEVjbzU1WU5QQ2tLSWxFNDcxWnpBd052eEdzMndncHZYcWVwcWFfRGFHdnRmSU05TXMzY2hBQXFNRzBBR0c0T3RJakt0UHpwY2lQN3RCaG1hbzljV21RU2QxckFlQXQ5N2JSejA5SUNxV1AzRWUwQ29Mc3JyVi1DWHV1TmZ2cGRUZFNrbmFYd2UxdlFOWEpGOU13Y0s1eTEtM1Q4YV9nNjlMSW5Wa28yRTVkRlVfT3dmRVhlbGVkX0dFdnpSdl9nUG9tNmNPQUQycUNZZ2xlNVFFaHdWa1ViM3U5eFUzWklGNXg5R0pnX2xKWERFMUhTckd3V0lCZkV6d2djMGpNY0dKX3BaTTFtbVpJQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Samajwadi Party MP and MLA clash before Akhilesh: Kamal Akhtar resigned as Chief Whip amid growing dispute ... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYXVDUk8yazNnTl9TZkVUM3AwMF90dWl1d1MwTVA5VVlmWm1uQkl2Y1dIV2U4c3V1SXBQZUJrU0JQT0hJNTE0eWVfbTZ3VnluS21ZVFhLeG5fR0llMzVkNkRXSmQ5WEo0R3RVRW5rcFE1cGRJanR2VHpyR001YXpDZjdiU08tSlllLWVweld6NENiOGJicWtRN1NnbldnUzcwU3ZTU3pWaHpRQWFuNTZjemRUTHJjTXcxY3preFZuZU5pN3pyQV9Qay1oUlpkUVJ0aVNsMnZfMFg0TUk3S2fSAeMBQVVfeXFMT19HclR3TXJQbFkzemJxeHpTNDFOd0x4ckNrSlBPSjlQSWxFNlZoU1l1MlJJMmhSck5IVHNFSGpQR05kRjkzVVZiTkk1VUNLN0lLZW9jQ2hkLVN0emdFWUY5V3c0MnJ2YkIwTERLbXNxVndmS2RoaU0yVUVlY1ZmTi13amdCQ3VPVDl1ZlltbVA5MVhrTlF0eDFlSXllWjZqY0h5d0pmczB2OHNLMW5yMnZRNF9YbXB1TzJ4TnIwQkdLYWxaNzh3SGJlUHNoTnNuLTVESVRxWWNJeUhLS2lycmNNQnc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Will raise issues of infrastructure, medical facilities in Moradabad\": Samajwadi Party MP Ruchi Vira - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNVhRd2N3LUJZWjFWNnJyYnh5YnV6YzdsOTgxV3Z6U0dsc3AyazBJZElVY29aOThVY1hSUWZKU1NUTjY0LXhYb2NDeGRMd0ZicDctV0ZmNFYtQWdiaDFaRlM0eHc2aG1DY3M1WUdNRnJ6SkgyMVVOUkJZaWp2ODJxSUgwLWRUVDBGOHc4MjhNX1ZmUTFCaFlNZHVGS0JTMlpldll4NV9ySXNSaEU2LVlCM3NsdmVzUXVhZU5fUzVjTW9sdDdSSzM0Q1h1RVFUeFQwYksxOHlPNnV3UDAybjZubm04YjVrQldsUEFoLXJn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Despite being declared Smart City, Moradabad faces many issues\": Samajwadi Party MP Ruchi Vira - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNGw4VEFOeXJ2Q3JIbGxXVHZFUE0ybTFLZlpJUVFweGExLUVpRnk2UWJnZzJjVzFmMFBKX3dKVFB1U1VJVGxDWGdReVZtV2ZnNUtZejQzMS1yYzc2aFBjYlJuQ0c0bHc4NFZNbnZtc3MzQm41S01fVjNKQmR3TC03dEtLcWN0VjZzbHZLOG9WZFpRZkxFQThTc3RJSWNRM0c2Wjh1UUwxNXF0eXBTVHBESi1HbEdDbVlUQ2R2VlJQV1FKZm9QUkt3QnpSMU1LX21jSzB2NFB5b01kVXVjNGVNTUIwSEl5Wnc4Zi1R?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Moradabad election results 2024: SP's Ruchi Vira wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVGlrQU1MNEI5eUQtRWF0UXZrbjM2N2g2cjFpWHZiT29XY1RGMktWR3VaOVZfbURQQ2hjQXdNZHpCZmlxRlV6LTdOX3NGYnVoeWc4X29ONEQ4Z0pZSXQydkluV1Q4bDF0VjU5YlhlbEhZSjB2NzRwNUwxYkY5WWZBX1JtakxnTHJzSnQwWDZjeUZWcDVSWk53aTVzRVBwNEpzYWdWUmtXS1hudk5odW1aUW1VTHhhOXo2SnhQTWtib2dXdGZNOHZ2Wkl6X0Y1OTZkYUJ6VER1X2s3RWkydHQ1cFhfZlJPWXBwT1ViRTdTYndWLUlGckVaNUF0WnBleUhUZnQ2Uk8zVnBfdDU1dWtQZEpwUDdZY0Y0ald0cXdRc2pvQWdlUTdFcGlORThPVUotRldqU0dlaWkzX1BKdHNDU3NwaFPSAcoCQVVfeXFMT3psT1AxbUxQY013MkRpM3lGU0YyZ09RTUhneFZSdUY4SUhOMTg3emdPOHBOa0d3ZlFtZTFoX2FfOVNfTVVrLWU1d1FYSTg4TF9hb2tGUXBuRk9HWG9ZeWVrQjZkVXhkNlZhcGhuR3NPUkw4TFF6ZGRMTUx1TUw0VTdjVGRZR2F5ajR5amNfWHFWUmJBeUM2OTBmZU11RHk5d1p0cXVqeDdES3BqdTNrVVY2dWNDd3JRandpMk8zeUdFU1FlUkN6SnQ2cWZyeG5yLVVnRlVBVFZodVJlUk8wQWFFSFRBTU1tenFNc3BRR1lYWmgwYXRkSnF3ZVAzdE9fbm9ENXI0dUJFVzI5eUgtZ3N3X1ZiOHVEdDBkbmt1NmVMZElfVG1RVnpROXpSNDlhSWhLUWtvaVcxZWdaaVc2SWpQb3ZfSW1pTlFn?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:07:49.162828Z",
+  "collected_at": "2026-09-02T17:41:13.200565Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.112435Z",
+        "fetched_at": "2026-09-02T18:38:11.713419Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.112444Z",
+        "fetched_at": "2026-09-02T18:38:11.713431Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.112449Z",
+        "fetched_at": "2026-09-02T18:38:11.713436Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.112454Z",
+        "fetched_at": "2026-09-02T18:38:11.713441Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.112460Z",
+        "fetched_at": "2026-09-02T18:38:11.713446Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.112465Z",
+        "fetched_at": "2026-09-02T18:38:11.713451Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.112469Z",
+        "fetched_at": "2026-09-02T18:38:11.713456Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.112474Z",
+        "fetched_at": "2026-09-02T18:38:11.713460Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -274,25 +327,25 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Lok Sabha Elections 2024: Who is Ruchi Vira? Know about SP's Moradabad candidate and close aide of Azam Khan - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQZjZFMUhWWkduS1dHTFkxemk3OWE5aVM2dUFyY3ZzenZFWmxNMlZMV3RVN2VEc3JmM2R2d2g4TjlyVzdRN1NUMUZaNnNOVmhJQmd1YlRKZGhwRGVGWVA5azlueEY3c1ZvbDJTb0h6eV8yTThWT3RHMDJZTGtMcDlBNHI5ZVhkMGVFX3BLSWFqN3ViNGxVM0NuX1FSSVBVOElvRk1LdWVqZ3VQM0VacENRQVNZS0lOZVBvVTdzWGI5aUpkXzBOTXBUTEdfdlBEeU5CVFBoZE9QWFBhNndmYV9jTWFOdXV4b3B0RDV3SmN3cmFoRWpBeEgzcDJCa2ZKZkozTk9WSGZpWFdoS1pfRzBpdklzZzlLeHF0N2FVNjJ5NVRQRUw4YjJQUldWR1VBYWZDdGt6OdIBugJBVV95cUxPd2NqZWU4bnVqV0ktT09fNVJESXlEcjYzQVNuYy1sWDdIOGdEVmNKUHpNQjdOZThHam1aT2U4TVhCUG9TMFR5LVo1TW1BN3JMLVVSb0hmNmNCR3dXM3hUNHFndDIzal9lOU9YeDVkdS1EWE5qb0NDSUFFbVpnQ2tkcXNJNHF2WHFQbGxDZlhPSFptNU1MRzhqOVlrU1FsbEFEMFBpUWNzRFZ4SE1jYmVCNlFNaHNFbHQ0LXR4WF9kcmhHeG1Sd0tOeE5faEd1cF9vY2tadm1BNUlVbnJkRURCTGZYWndEclliWW55b053d0ZubWtwOHpIbGZJUnJDeW9pT2U1QnZhRlVtRGhpM1RrX2M1TU9rVlg4X04tMFQtdmxwSF9VSE9SazM1UVVudE5NQkpuWFlvOHF3dw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Moradabad election results 2024: SP's Ruchi Vira wins - The Times of India",
+        "headline": "'Akhilesh Yadav asked me to step down': SP's UP assembly chief whip Kamal Akhtar resigns amid reports of - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVGlrQU1MNEI5eUQtRWF0UXZrbjM2N2g2cjFpWHZiT29XY1RGMktWR3VaOVZfbURQQ2hjQXdNZHpCZmlxRlV6LTdOX3NGYnVoeWc4X29ONEQ4Z0pZSXQydkluV1Q4bDF0VjU5YlhlbEhZSjB2NzRwNUwxYkY5WWZBX1JtakxnTHJzSnQwWDZjeUZWcDVSWk53aTVzRVBwNEpzYWdWUmtXS1hudk5odW1aUW1VTHhhOXo2SnhQTWtib2dXdGZNOHZ2Wkl6X0Y1OTZkYUJ6VER1X2s3RWkydHQ1cFhfZlJPWXBwT1ViRTdTYndWLUlGckVaNUF0WnBleUhUZnQ2Uk8zVnBfdDU1dWtQZEpwUDdZY0Y0ald0cXdRc2pvQWdlUTdFcGlORThPVUotRldqU0dlaWkzX1BKdHNDU3NwaFPSAcoCQVVfeXFMT3psT1AxbUxQY013MkRpM3lGU0YyZ09RTUhneFZSdUY4SUhOMTg3emdPOHBOa0d3ZlFtZTFoX2FfOVNfTVVrLWU1d1FYSTg4TF9hb2tGUXBuRk9HWG9ZeWVrQjZkVXhkNlZhcGhuR3NPUkw4TFF6ZGRMTUx1TUw0VTdjVGRZR2F5ajR5amNfWHFWUmJBeUM2OTBmZU11RHk5d1p0cXVqeDdES3BqdTNrVVY2dWNDd3JRandpMk8zeUdFU1FlUkN6SnQ2cWZyeG5yLVVnRlVBVFZodVJlUk8wQWFFSFRBTU1tenFNc3BRR1lYWmgwYXRkSnF3ZVAzdE9fbm9ENXI0dUJFVzI5eUgtZ3N3X1ZiOHVEdDBkbmt1NmVMZElfVG1RVnpROXpSNDlhSWhLUWtvaVcxZWdaaVc2SWpQb3ZfSW1pTlFn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeGFqMmthZlgxQjNPc20xWGhuNUhBdjh5NU5pMTJWNXFKQnBodXdBVGoyNWlZenBFeURaMGRFbG1jTEdua1cxUVdXeE1hdVVnMU9zUXVPaW5STE5SclVWTUsweG55Y2cyR1hPS0ZsUWtLRXpuQVlKa2tMYTB1VjYwYlB4OF9WdUxHUmdGS0hubTJ0ME9USF95RXBGOWZDYTJrdHA2Q3JROU9fNkdqaXBucDNFaXZQQzJHT3ozVFZGV2VwNGdJN215LVU3TDBGcTNQemJlcGQzV0hmWTVvUWZ6cVpjb1Y1cHNrcGhoY1JWdW5ybVlRN1M1dXJtVXdxTXk3LVJmSVhfaV9kc09jUUlHQTduQUVGWlQ5M2tGT9IBogJBVV95cUxNT0g0d0ZYeUhjQUlUSXNNaEVjbzU1WU5QQ2tLSWxFNDcxWnpBd052eEdzMndncHZYcWVwcWFfRGFHdnRmSU05TXMzY2hBQXFNRzBBR0c0T3RJakt0UHpwY2lQN3RCaG1hbzljV21RU2QxckFlQXQ5N2JSejA5SUNxV1AzRWUwQ29Mc3JyVi1DWHV1TmZ2cGRUZFNrbmFYd2UxdlFOWEpGOU13Y0s1eTEtM1Q4YV9nNjlMSW5Wa28yRTVkRlVfT3dmRVhlbGVkX0dFdnpSdl9nUG9tNmNPQUQycUNZZ2xlNVFFaHdWa1ViM3U5eFUzWklGNXg5R0pnX2xKWERFMUhTckd3V0lCZkV6d2djMGpNY0dKX3BaTTFtbVpJQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Samajwadi Party MP and MLA clash before Akhilesh: Kamal Akhtar resigned as Chief Whip amid growing dispute ... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYXVDUk8yazNnTl9TZkVUM3AwMF90dWl1d1MwTVA5VVlmWm1uQkl2Y1dIV2U4c3V1SXBQZUJrU0JQT0hJNTE0eWVfbTZ3VnluS21ZVFhLeG5fR0llMzVkNkRXSmQ5WEo0R3RVRW5rcFE1cGRJanR2VHpyR001YXpDZjdiU08tSlllLWVweld6NENiOGJicWtRN1NnbldnUzcwU3ZTU3pWaHpRQWFuNTZjemRUTHJjTXcxY3preFZuZU5pN3pyQV9Qay1oUlpkUVJ0aVNsMnZfMFg0TUk3S2fSAeMBQVVfeXFMT19HclR3TXJQbFkzemJxeHpTNDFOd0x4ckNrSlBPSjlQSWxFNlZoU1l1MlJJMmhSck5IVHNFSGpQR05kRjkzVVZiTkk1VUNLN0lLZW9jQ2hkLVN0emdFWUY5V3c0MnJ2YkIwTERLbXNxVndmS2RoaU0yVUVlY1ZmTi13amdCQ3VPVDl1ZlltbVA5MVhrTlF0eDFlSXllWjZqY0h5d0pmczB2OHNLMW5yMnZRNF9YbXB1TzJ4TnIwQkdLYWxaNzh3SGJlUHNoTnNuLTVESVRxWWNJeUhLS2lycmNNQnc?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -304,23 +357,23 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Samajwadi Party Drops Sitting MP ST Hasan From Moradabad, Mohibullah Nadvi Gets Ticket From Rampur - ABP News",
-        "source": "ABP News",
+        "headline": "\"Despite being declared Smart City, Moradabad faces many issues\": Samajwadi Party MP Ruchi Vira - ANI News",
+        "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSUp0TzJRQ0swOXNQZlhOcTFWY2FFWTdiaUcxamZnLVIwR0l1RkVURGhzQ1lWVGI1MXZVaUFzbTY2bXNWOVhfLXpoRXdZY1RIQXhyUnh0NUJlcG9yV1lFd3VaWVNJS0U5WFdBLWxEUDhKdDNsWDVZNHF0MGU1TTZFNUp5cFNTUDVLNjhoMjlPQ2FXSWk0S1hUbDB2WnlXaUg5RzlndUxMWm5iUGtaVDJJXzd3MUhqTFV5WWw0ZnhiNUVZeHhwRHV2R2U5eTVsVzhCYkhSSE9fRdIB3AFBVV95cUxQd0dkM0NxeUdiZXNzN3ZXbG1YcjZtOWxzVWNKTUpYMFZsdkM1Rlo0TUdCOEhMOXdydTJIM3gwdnZXYXRJSUI4NXY3SE9hSXRxcF9MR3hjZGw4U3ktNXBSbG11aVU5cUFiQ3hKZ1RxYzRHRXo0bXFmTUU1T1FMdmRObkhWUkpYd0hDazJLTjZ0T1Q2YXZkMmlBYU5xR1FwbFpMNE9hamszbi1fRFU0U1BEVEFkWDh1OWhWcGJjTFh4Vk9YWHlZWlh1c00zYTh0Y0w2VW9fQmFvM0tJbklP?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNGw4VEFOeXJ2Q3JIbGxXVHZFUE0ybTFLZlpJUVFweGExLUVpRnk2UWJnZzJjVzFmMFBKX3dKVFB1U1VJVGxDWGdReVZtV2ZnNUtZejQzMS1yYzc2aFBjYlJuQ0c0bHc4NFZNbnZtc3MzQm41S01fVjNKQmR3TC03dEtLcWN0VjZzbHZLOG9WZFpRZkxFQThTc3RJSWNRM0c2Wjh1UUwxNXF0eXBTVHBESi1HbEdDbVlUQ2R2VlJQV1FKZm9QUkt3QnpSMU1LX21jSzB2NFB5b01kVXVjNGVNTUIwSEl5Wnc4Zi1R?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "High drama in Moradabad as Akhilesh Yadav bows to Azam Khan’s choice - The Hindu",
-        "source": "The Hindu",
+        "headline": "Moradabad election results 2024: SP's Ruchi Vira wins - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlJJX0tlTm5yNzQxX1FzNW5RaWxNNC1tbVpkQjZQc2ZsQXRyN1dNQkFFang5SXZtR0tmdmx0RXc3SExucXdXT2NJdzVVdkthWEstYlAzQ0ZlM1BqbldHcjM1Ym1YUUxvSTAwclhUWk1RRTNta0NMVWcySFJ0MnV4VWxXbnp3VGxMbUctSVI5ZDZDV1ROVmNIUmFwMXphRHczckRCb1J3Wm5mTGxHTlNQNGRIa1FyTEgxdG1FS0xmMEZjdklBb0s0OGpIa1bSAdMBQVVfeXFMUHNxODZxRmVYWjJxbHVEeUY1YkI5WnN2ZXRTZVJlUmRhTDQ4VVQ2RVJnSmZpRExqOW1raTdFRzBCcUN4MnZXNlFCb3N5TUdPSEg4ZkJib205MGhDa1gzeFZlUjRzenREQlN0Z0RyY1JsM3F2LVplNF9KRG1zWjRkcjZXNVV6dDBOdVNObUZZSktzdjloUXJRR09FMVo3VWhIczFjMEFMRTl0Z1hVeUpoLXgzSmdCRUtsNnl3NUJJdllKYzduc3Z5WUN2V0hQZGNxLVE1Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVGlrQU1MNEI5eUQtRWF0UXZrbjM2N2g2cjFpWHZiT29XY1RGMktWR3VaOVZfbURQQ2hjQXdNZHpCZmlxRlV6LTdOX3NGYnVoeWc4X29ONEQ4Z0pZSXQydkluV1Q4bDF0VjU5YlhlbEhZSjB2NzRwNUwxYkY5WWZBX1JtakxnTHJzSnQwWDZjeUZWcDVSWk53aTVzRVBwNEpzYWdWUmtXS1hudk5odW1aUW1VTHhhOXo2SnhQTWtib2dXdGZNOHZ2Wkl6X0Y1OTZkYUJ6VER1X2s3RWkydHQ1cFhfZlJPWXBwT1ViRTdTYndWLUlGckVaNUF0WnBleUhUZnQ2Uk8zVnBfdDU1dWtQZEpwUDdZY0Y0ald0cXdRc2pvQWdlUTdFcGlORThPVUotRldqU0dlaWkzX1BKdHNDU3NwaFPSAcoCQVVfeXFMT3psT1AxbUxQY013MkRpM3lGU0YyZ09RTUhneFZSdUY4SUhOMTg3emdPOHBOa0d3ZlFtZTFoX2FfOVNfTVVrLWU1d1FYSTg4TF9hb2tGUXBuRk9HWG9ZeWVrQjZkVXhkNlZhcGhuR3NPUkw4TFF6ZGRMTUx1TUw0VTdjVGRZR2F5ajR5amNfWHFWUmJBeUM2OTBmZU11RHk5d1p0cXVqeDdES3BqdTNrVVY2dWNDd3JRandpMk8zeUdFU1FlUkN6SnQ2cWZyeG5yLVVnRlVBVFZodVJlUk8wQWFFSFRBTU1tenFNc3BRR1lYWmgwYXRkSnF3ZVAzdE9fbm9ENXI0dUJFVzI5eUgtZ3N3X1ZiOHVEdDBkbmt1NmVMZElfVG1RVnpROXpSNDlhSWhLUWtvaVcxZWdaaVc2SWpQb3ZfSW1pTlFn?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 17,
+    "starred_questions": 5,
+    "unstarred_questions": 12,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 33.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,80 +4,114 @@
     "constituency": "Dum Dum",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 8964,
+    "myneta_candidate_id": null,
     "slug": "sougata-ray",
     "house": "lok_sabha",
     "sansad_member_id": 2554,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 76,
+    "age": null,
     "photo_url": "/mp-photos/2554.jpg"
   },
   "criminal_record": {
     "total_cases": 1,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "RC0102017A0010, Dated- 16/04/17, CBI/ACB/Kolkata, Dist. Kolkata | Section 7, 13(2), 13(1)(a) & 13(1)(d) of PC Act 1988",
+        "ipc_sections": [
+          "120B"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "RC0102017A0010, Dated- 16/04/17, CBI/ACB/Kolkata, Dist. Kolkata",
+        "case_no": "",
+        "other_acts": "Section 7, 13(2), 13(1)(a) & 13(1)(d) of PC Act 1988",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:40.604865Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 51230026.0,
-    "liabilities": 0.0,
-    "net_worth": 51230026.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8964",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:56.342789Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 40.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 1.98,
-    "expended": 1.39,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:53:10.176996Z",
-        "notes": "Official eSAKSHI REST API — Works: 58 recommended, 17 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T15:03:32.518272Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:59:47.777416Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:59:47.775777Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 58,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 9.45578231292517
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +126,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:09.733575Z",
+        "fetched_at": "2026-09-02T14:59:47.774776Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +134,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Didi to blame for split: Dum Dum MP Saugata Roy rules out end of Mamata's political career - Telegraph India",
+      "source": "Telegraph India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVUVfQmNHVXhGaTFTVWd1ZlZvV2VZQWxSRGNwb3ktMVpldnU4Y2U5Vm1MMDExbG1ZbWlJdi1JdUZOdWJTaUc4aUNBMjhVdHVLRmFkMlkyVjVzX0JRR1JIcHFPQWFYai1TT1pkLUhMVkNHZmpjSURnUFVDTXMxNFNBcDZqVGRTSGFqN3p5aURKVTU4bEhVTVlSU1daVG5SdjQ1WUh3d1pkT2J0ZW5EZk5YVHFpcVBBZTBzYWRjVGdXMk9sVjRNWGFZNk5rQUJVR3hzZjBiOHF6U0p3RXlfT01hZkd30gHnAUFVX3lxTE5iZW96cVQ3REZXLXh1REVnMWNURGJFbUZyWWQ2MmlMSkdHZEdFanQxTnRZZV9nNnpGMWJydG1LNHFfUE5oRFFRaDlzY0lYMkl1d0c3VDZrY3BDNWt3bVFuZ25ySjdKTy1UcDJIUzYtRjBrVDh2MzVWZTBCbnJ5UnQ2WE1xZlpQVUVrLXlfWEdCN0tlOE1EWUNmYjJfMUFWQmRfbENMdlVncDExOGZBbjNDWUt4Q2YzckttRWlfTTB1UURsTGhNdzR4ZkE0ank3WmRoSXpWSXdtd21fVWZHMlFlYkR6VEo1Yw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Trinamool Congress appoints Saugata Roy as Lok Sabha deputy leader after Satabdi Roy joins rebel camp - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOVJCMWI0WUZsY3dRSHExSUlFbl9RMmo3MG1LcGJPcHFfT0U5Mk5sUW9wc3BEMHlBbHZYXzVrRDFVRkJpQWlsdTBWd1V4cWZiRVduUUw2bzFqb3VYZE9JTzRaQnJJZHVLMW0wTEhTWHZmM281TGZhNVVnT0tPc21TVWhKSkZCU0k0Unl0aGM5YVU4T1pTVDhxQzJpWHBpZU9WSUIwbnJUSjNIc0dmaXFQQURTQllqVGcxT3Uya2tCVmtvWjQ3X2R5US1EZ3lZdXNzcFRDTklidDdYXzBnMGRSOV90d3ZUanZtN0ltSlV6UHhJcXc2X1g4ejJvM2RqZ9IBgwJBVV95cUxNMEhLTFkySWI5Vl90ekk1c3k2VE9ZQU1CRHI2bzFEcldwd0R4NEhlN29qOGVFbW8xTVlwWm9hR2ppLXhOVF92MlJ0RGJpa1F5QnJHTjhJbHhLMGpEbzg2aTVtb1lNRHphaHAyeVd5NHk2WkR6SEdYbWcxdmpTeTJfMlFXQVBQYTZNT1pqOXgtcjA0aVZNcTU0anM3enl4NE1lcWFtUUtQUUc4cWREU1NVUURjT2d2SWxHNkdOaF9QMW12OUF4eUwzYndGUWcxVURpb3BKRmxZLVloRkJUUzBGUVVwM2NtQXNTajlhVVRrb0cxNmVENld2clVxdXEyX01EUHlV?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "West Bengal: TMC MP Sougata Roy faces protests, eggs thrown at his car - The Economic Times",
+      "source": "The Economic Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFNtX3NvZFgyaUpHbzRJLXg2YTg2Tk1pUTlwRDgyQ3pJY0hJcWoxVWo4dHROOEN5S3dJaDB3TTJNN2RwZS0wNDdNR1phQ2REQ1M1dE0tNExWUE5TSjZ2QXdSLXhMNHN6N0ttNmRhNmw5T0RTOUttOUpURUZLbnFOTVlYYXkzTU85ZmthYm1kVUJ2b2RPbTQyNE8yMmVBRnNHd2RhOFFCV3NEVDdkRTZhTXU5TjhjU3g2dENqM3hCdGZ4ckMtY0hTRzFGWDZlb3BZNldvTUdfU1M0cnlfV1JzctIB5gFBVV95cUxPNzlPOHd1TmJaOE03cjJoTGVSWmcyMHdEY1RXZ2V1dXJ3Nlh3WUNzZzdYZjVha3NZQUJHUHozTDJXYWdneVJSdDM3YVVNNjBxeG5PVnYtcFg2RTBaWmxRTFRpbVluRTZJRDhLZ21LWFNndERMc3RmcW1yNUVZS1V0M3dZRE5DM0tYRTQzRFM4SXlQSFJzV2lObWRab1BvTzN2TWJ6VkFrR1FBV3dJOFBpLVRSbWFncjRDMWhoUXlsbVBEZXZUQm5hMnNVNzdyay16NnNJVGpsaVV0LW5qM0RvUFZYelYyZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Trinamool names Saugata Roy Lok Sabha deputy leader amid rebellion - indiatoday.in",
+      "source": "indiatoday.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUVFGSXJBOHV1VGdrUFgzOC03MWw4T3NwS20xblRBNjBnYktPX052RHpLejIxV1RBWkc5VHlKTUsyUG1wUnpJRV9uZUxyaWtlVDFvcFRCU0U5U1g3NGMzU0FfVzNJNGNmTm5PcXh6Uk9McVR4UFhmank0MV9VT3UwTHU0b3FvenNUU194OUIzY1ZjbEx4bUI3Yy1JX3BzS2o0d25qV0FhRmdscWJ0OWtkQ256WGpLZloxN3d5MXRMejg1N2tReTRTY9IBzgFBVV95cUxONWNoQkFjSENCTFBVVmNnQ2lEVUkyX21KSVlPc3RCQjFGNFplaEVveHBZQVBlLW1pdHh5Y1lzRWZkQWR2ZVRkWWFReVNzVDd4b2p2RWx1b3VmQmZVdy1MN2IwMU1iR0Jwb2RHR3RleGxXazIxU1BNb0FfTVlrYVlLZHVZd2Z0SnBjRTNNSzc3UTZCS3I5SGZsS0RHZUpzNmxkSnJ4eXhGejFZeGJsbVZPVEdqTWlrd0psYThaVk9OelBpNFVPV2dIUFhKRXlfdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Chor Chor’ slogans raised against MP Sougata Roy: Egg thrown at vehicle during protests outside Nimta poli... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZVJwQkppdmIxUDZfa21TZmFXZmlDWDhjUlVDQ3BHRVZLTlluSkRzNlEtRUpkY0ozdG1UZkRfY2ExTlZyd2dBS0V6N21kZHFDZTE1UnA5Q2xzT2lQNGpiUzZidFg1QmNyWlU1cGxQQnZURE1uQmZjS2ZOSUhRRk1IY0FZU24xLXFPc3M4S2d5TllCZEdJal9BX2czMS1uZ1QtYTNCZkcyVjkybUI4dDVFN1ZBZlczN3psZDNiSHQzd3hjc0x1dmZkRVd1LWk0OWNIdW4zY295d25FSmVTak9wR0lKVzhUM1cyeEhxcF9NY9IB9AFBVV95cUxQdWZFRjF6TldxNC1QVVNBTE0xbHVtN1l3UXpqV2NwUUVUSWpfUVJxbXM1WFpMTkVyN043ci1xeE11bTRCejExbDZYMi16M25PMnlJYU90di11aWVTSWhhV0c0eU5fZ09jb2NnY3N4U09lMV9LM1NOYXFGemxGZWxWcVdRSWppZWM5MUo0dEo0eWZ2MkRJQ09hR0lyTUQ2Z0FadE9hREZmUllLaFhFU3k3WENBM1ljUUh2bHdaT0NXekp3MTlJUEd1NzlpTHFZdXRDNzEySWc5c0hKSXF4ZHVCUjFTVkl3ZHF6ZVpPQXhOTlFNUnpF?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:13.931748Z",
+  "collected_at": "2026-09-02T15:03:32.519223Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +203,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.007213Z",
+        "fetched_at": "2026-09-02T18:38:12.649831Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +219,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.007222Z",
+        "fetched_at": "2026-09-02T18:38:12.649842Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +235,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.007227Z",
+        "fetched_at": "2026-09-02T18:38:12.649847Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +251,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.007231Z",
+        "fetched_at": "2026-09-02T18:38:12.649852Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +267,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.007237Z",
+        "fetched_at": "2026-09-02T18:38:12.649858Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +283,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.007242Z",
+        "fetched_at": "2026-09-02T18:38:12.649863Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +299,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.007246Z",
+        "fetched_at": "2026-09-02T18:38:12.649868Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,43 +337,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Veteran TMC MP Saugata Roy In Hospital With Low BP, Diarrhoea - ETV Bharat",
-        "source": "ETV Bharat",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalZKN1ZLaU1sVTRKR1k3ZmZBTTN4Wmt4U1ktNEc0S3lCcTRkTFIyV2dUc0tTbDQwcl9zVllYcEZfNHdOQkhSb2dtcTFISGczTGRFaHlFQjU0NW1LQXJPbkNqMTd2QTVOMkU5djJ4alZyNkprVWdreC1xY2t1TE11V0VCNFVaSk1XcF9OVDJXQml6YnJNUHVDSEhsRlNSMGM5ZnFvai1Tb0hzQVJjUEJz0gG0AUFVX3lxTFBJWmItSkQyYW91aS0yRmJkWFN3TGRDTk1oMXo4N0R0SmRYb2dTVWE1YkZfQlB4YmVKcm84MlU4X3QwbU5qemFpTW1TTzRscEFCUXhxUW5SQjlJbzZNdmZOdTZSaGtMNFV0dFRYVGswOHFjTk5xVHEtYWZjREEybll6Ukx5cHRwNFlaOVZTOWVxSm1vcVVMdjRPUm1mb19Sb0ZiLWVFWFN1a1dhaUhXcXhaVnp4YQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Bengal MPS Show Uneven MPLADS Delivery - The Sunday Guardian",
-        "source": "The Sunday Guardian",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTUw1MDd5VUd6NEo4VURiN19WRHozQ2hCME5JdkRyMFVEUG5iVWhNcHhLNUZRVjk3eTdfUlg5andVQ0NaTnl3Y0c0YldYQVlUNk1MRFMxcWc4SmtIRG9EaUdOdExuRVYtbUxaeVNDekJwTm9WVkxkVjhRSXg2QTZVM0tZNlNlWXBQbVE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Dum Dum election results 2024 live updates: TMC's Sougata Ray wins - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOTnpFNmFWbFo2TlFvdU55WmRoUmppS2RRdENjQmszR0x1ZkVYZkpMNzNwOUZEY2o2ZlNkSDR2N3JIRDVIVGZlRHpXdFVTYnQ2TmdDZFFTZFZFM0pCMTZMdXFVZmxlbk5vR0FYb19WYlhpdEM2Qld3ZnFTdVd6QWtvV0FBZmJUOVNEOUdsMGNEWXVxSWhoZ2IxVjNQbFZia0lrTWpEdmxlVFZYZG14VDlCYkQyUWF4cXROUy1IR01Tak00dHBIdVZTX0tfeWZBNzhmdnhWV0hjVUh1enpyRUhqRU0zUzA1WXVPMzE0S1JNeExtcGFQc2VQM3hIWm5Yb3JuaGdObGF0cFBMckQ2clU0UzAycmRPMl9xYkxORS0yNEsyYnlhX1VEM3lNNHhWY3R3UmFaTTJOazNualBEeDZkOUpidVjSAcoCQVVfeXFMUGdfODJPX0JXWUZYdlMyUTRBWldtczFDZHBUcEE5TXViem5BWFRuTjg3OTlqWlBncVZqUjZ2TXZzVTkyZy00b1o5ZW1QdTBwaXI3bjlaRGFnbk1sNl9vMzlxNEE1WnVLSTFaX0VCdjUzbnpkRzZ2dmdQaU5mcW12QnVTc0hjMjZUeWJ5ZWpnLU1GSDJQaVA5Ui1qaHJVbU0tVWg0MXdoMGlPWFF5bXp3VENCdUhXUnhlN1g2VmVlY3M0V3ZoUFAtbHV3NndLVy11Q3VvN0wwSEZiSWhRcHUyaVFsTTRWdjEwTllrLUZPMHlFUEVFbU9hX2lXTDJxUWlSUzc2VEEzVHlWbXFidWEwR01KbjVUTjludTJCb2FLZE81VFhEcHF3RDZtSnFLajF1dVd6UjBZUjZyTFlObnBPU0E0RjNLNUxyUTNR?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Dum Dum Election Result 2024: Sougata Ray wins in the battle of veterans - CNBC TV18",
-        "source": "CNBC TV18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORVZPSzZzQXJXQzgydVFlNkc2amdQMlBzYVNYZFVqQTdmRENfRHl4RTZ0bXg2T1FYTGt6R0JrengtVHBIWWVRdkF0RlBOUGFMZDFaenIzcnpkQmR0emtSbEp5V0YtZ1NmYW9WQkhlTlR4bDFaU3lnSDktQ1c1ODA5ZFRMaFVEM0VQQzZrVG9EbjJBVWR2d3Q0NFdRMXBRYkZoeXQ1WlM3Ukp3eF9BUDcyXzJpNjc3enBQdENoUHpNMEQwTVpZazFaT1czTS1oUXdsbWhHT9IB2gFBVV95cUxQSE4zOG5MdDRYX1NEY04zLXAxSmpCVVpRcmF4enExMGpHMzgyWmliR09MeGpfVE5fdUprTnFZUFB3VVlRQzIzMWpBdjBnY05GMW1kUmpoM2FwX3VWTHpNUExTdXo5OTkxVVZlZGZaRGFFRmZXYjJBcWVQLWpIN0x3Smppdk5sOVBnTkRUZ29NU0xvM2pCenloMFlNYjRnT2h6aURleHpkc2ZXc2xZRVJMdmxEMTFVald2enM1Qnk2MDRxeTZpYldHaGhib055VTZhblUzUzM3Zm1aUQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "TMC MP Sougata Roy hospitalised in Kolkata after uneasiness, under observation - Telegraph India",
+        "headline": "Didi to blame for split: Dum Dum MP Saugata Roy rules out end of Mamata's political career - Telegraph India",
         "source": "Telegraph India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdHdHcEJWSktwUVh1QU1LaXpjVUZzY3NBN2x4V1dPZUhpYlBnSVRzVDBBUkRNNFhDeEgzcURQUmtlcHRJaklYVnJRck95aDd2M1lSOU9lVEo1OTFGREJHT1doY0piZWxpbk5UQnl2MnRGdEhjYjRhVXZvRzk1Nno3RlVLSXo0S0RQOXFUanRIUjVlZ0xFSGotUXloVklyUzhYdFlzZFVSUUN5d2ZvWU9pelNfRzQ1RjdNRE0zLTE3QVJfYmFxM3NiSFRSYTbSAdIBQVVfeXFMUGx6MjYwcVR2SGtPaFViTzlnVG1hbUdJSGNEeU5YNzdWMWJsWDVDQ2NxTzNRbk51cG9yRTJlbkJUWjJ6RnhnTlV0QkhDYmE3ektfLUc2RHppWGtUWVpEa2QxLWFYR1ZEWEZNcnFGZVJQRE00SDBJR2NOMkNEZE9nV3JOaUpXSHgzajVEcm9mM2E1YzFZdEhpQktpWlVLRnRBYmVqeWY5NWQxa1JCYzMxSlJ6Q2VwNzdndjl2MExaQ0FhTnpmT1VPWll2d0hlMDFrWWt3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVUVfQmNHVXhGaTFTVWd1ZlZvV2VZQWxSRGNwb3ktMVpldnU4Y2U5Vm1MMDExbG1ZbWlJdi1JdUZOdWJTaUc4aUNBMjhVdHVLRmFkMlkyVjVzX0JRR1JIcHFPQWFYai1TT1pkLUhMVkNHZmpjSURnUFVDTXMxNFNBcDZqVGRTSGFqN3p5aURKVTU4bEhVTVlSU1daVG5SdjQ1WUh3d1pkT2J0ZW5EZk5YVHFpcVBBZTBzYWRjVGdXMk9sVjRNWGFZNk5rQUJVR3hzZjBiOHF6U0p3RXlfT01hZkd30gHnAUFVX3lxTE5iZW96cVQ3REZXLXh1REVnMWNURGJFbUZyWWQ2MmlMSkdHZEdFanQxTnRZZV9nNnpGMWJydG1LNHFfUE5oRFFRaDlzY0lYMkl1d0c3VDZrY3BDNWt3bVFuZ25ySjdKTy1UcDJIUzYtRjBrVDh2MzVWZTBCbnJ5UnQ2WE1xZlpQVUVrLXlfWEdCN0tlOE1EWUNmYjJfMUFWQmRfbENMdlVncDExOGZBbjNDWUt4Q2YzckttRWlfTTB1UURsTGhNdzR4ZkE0ank3WmRoSXpWSXdtd21fVWZHMlFlYkR6VEo1Yw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Trinamool Congress appoints Saugata Roy as Lok Sabha deputy leader after Satabdi Roy joins rebel camp - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOVJCMWI0WUZsY3dRSHExSUlFbl9RMmo3MG1LcGJPcHFfT0U5Mk5sUW9wc3BEMHlBbHZYXzVrRDFVRkJpQWlsdTBWd1V4cWZiRVduUUw2bzFqb3VYZE9JTzRaQnJJZHVLMW0wTEhTWHZmM281TGZhNVVnT0tPc21TVWhKSkZCU0k0Unl0aGM5YVU4T1pTVDhxQzJpWHBpZU9WSUIwbnJUSjNIc0dmaXFQQURTQllqVGcxT3Uya2tCVmtvWjQ3X2R5US1EZ3lZdXNzcFRDTklidDdYXzBnMGRSOV90d3ZUanZtN0ltSlV6UHhJcXc2X1g4ejJvM2RqZ9IBgwJBVV95cUxNMEhLTFkySWI5Vl90ekk1c3k2VE9ZQU1CRHI2bzFEcldwd0R4NEhlN29qOGVFbW8xTVlwWm9hR2ppLXhOVF92MlJ0RGJpa1F5QnJHTjhJbHhLMGpEbzg2aTVtb1lNRHphaHAyeVd5NHk2WkR6SEdYbWcxdmpTeTJfMlFXQVBQYTZNT1pqOXgtcjA0aVZNcTU0anM3enl4NE1lcWFtUUtQUUc4cWREU1NVUURjT2d2SWxHNkdOaF9QMW12OUF4eUwzYndGUWcxVURpb3BKRmxZLVloRkJUUzBGUVVwM2NtQXNTajlhVVRrb0cxNmVENld2clVxdXEyX01EUHlV?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "West Bengal: TMC MP Sougata Roy faces protests, eggs thrown at his car - The Economic Times",
+        "source": "The Economic Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFNtX3NvZFgyaUpHbzRJLXg2YTg2Tk1pUTlwRDgyQ3pJY0hJcWoxVWo4dHROOEN5S3dJaDB3TTJNN2RwZS0wNDdNR1phQ2REQ1M1dE0tNExWUE5TSjZ2QXdSLXhMNHN6N0ttNmRhNmw5T0RTOUttOUpURUZLbnFOTVlYYXkzTU85ZmthYm1kVUJ2b2RPbTQyNE8yMmVBRnNHd2RhOFFCV3NEVDdkRTZhTXU5TjhjU3g2dENqM3hCdGZ4ckMtY0hTRzFGWDZlb3BZNldvTUdfU1M0cnlfV1JzctIB5gFBVV95cUxPNzlPOHd1TmJaOE03cjJoTGVSWmcyMHdEY1RXZ2V1dXJ3Nlh3WUNzZzdYZjVha3NZQUJHUHozTDJXYWdneVJSdDM3YVVNNjBxeG5PVnYtcFg2RTBaWmxRTFRpbVluRTZJRDhLZ21LWFNndERMc3RmcW1yNUVZS1V0M3dZRE5DM0tYRTQzRFM4SXlQSFJzV2lObWRab1BvTzN2TWJ6VkFrR1FBV3dJOFBpLVRSbWFncjRDMWhoUXlsbVBEZXZUQm5hMnNVNzdyay16NnNJVGpsaVV0LW5qM0RvUFZYelYyZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Trinamool names Saugata Roy Lok Sabha deputy leader amid rebellion - indiatoday.in",
+        "source": "indiatoday.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUVFGSXJBOHV1VGdrUFgzOC03MWw4T3NwS20xblRBNjBnYktPX052RHpLejIxV1RBWkc5VHlKTUsyUG1wUnpJRV9uZUxyaWtlVDFvcFRCU0U5U1g3NGMzU0FfVzNJNGNmTm5PcXh6Uk9McVR4UFhmank0MV9VT3UwTHU0b3FvenNUU194OUIzY1ZjbEx4bUI3Yy1JX3BzS2o0d25qV0FhRmdscWJ0OWtkQ256WGpLZloxN3d5MXRMejg1N2tReTRTY9IBzgFBVV95cUxONWNoQkFjSENCTFBVVmNnQ2lEVUkyX21KSVlPc3RCQjFGNFplaEVveHBZQVBlLW1pdHh5Y1lzRWZkQWR2ZVRkWWFReVNzVDd4b2p2RWx1b3VmQmZVdy1MN2IwMU1iR0Jwb2RHR3RleGxXazIxU1BNb0FfTVlrYVlLZHVZd2Z0SnBjRTNNSzc3UTZCS3I5SGZsS0RHZUpzNmxkSnJ4eXhGejFZeGJsbVZPVEdqTWlrd0psYThaVk9OelBpNFVPV2dIUFhKRXlfdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Chor Chor’ slogans raised against MP Sougata Roy: Egg thrown at vehicle during protests outside Nimta poli... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZVJwQkppdmIxUDZfa21TZmFXZmlDWDhjUlVDQ3BHRVZLTlluSkRzNlEtRUpkY0ozdG1UZkRfY2ExTlZyd2dBS0V6N21kZHFDZTE1UnA5Q2xzT2lQNGpiUzZidFg1QmNyWlU1cGxQQnZURE1uQmZjS2ZOSUhRRk1IY0FZU24xLXFPc3M4S2d5TllCZEdJal9BX2czMS1uZ1QtYTNCZkcyVjkybUI4dDVFN1ZBZlczN3psZDNiSHQzd3hjc0x1dmZkRVd1LWk0OWNIdW4zY295d25FSmVTak9wR0lKVzhUM1cyeEhxcF9NY9IB9AFBVV95cUxQdWZFRjF6TldxNC1QVVNBTE0xbHVtN1l3UXpqV2NwUUVUSWpfUVJxbXM1WFpMTkVyN043ci1xeE11bTRCejExbDZYMi16M25PMnlJYU90di11aWVTSWhhV0c0eU5fZ09jb2NnY3N4U09lMV9LM1NOYXFGemxGZWxWcVdRSWppZWM5MUo0dEo0eWZ2MkRJQ09hR0lyTUQ2Z0FadE9hREZmUllLaFhFU3k3WENBM1ljUUh2bHdaT0NXekp3MTlJUEd1NzlpTHFZdXRDNzEySWc5c0hKSXF4ZHVCUjFTVkl3ZHF6ZVpPQXhOTlFNUnpF?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +407,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 48,
+    "starred_questions": 14,
+    "unstarred_questions": 34,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 93.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +423,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

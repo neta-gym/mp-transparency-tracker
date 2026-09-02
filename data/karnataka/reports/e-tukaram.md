@@ -3,19 +3,17 @@
 **Constituency:** Bellary, Karnataka
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 57
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (24%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 43.8 / 100
+## Composite Transparency Score: 50.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 5.2 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 10.0 | 10% |
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.53 Crore
-- **Liabilities:** Rs 1.23 Crore
-- **Net Worth:** Rs 2.29 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 29% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 2
-- **Expended:** Rs 1
-- **Utilization Rate:** 6.5%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -76,30 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- MP: No mention of new passenger trains for Ballari - The Times of India (The Times of India) [neutral]
-- K’taka: Ballari Congress MP flags large-scale illegal iron ore transport - Social News XYZ (Social News XYZ) [neutral]
-- "BJP restless, trying to do something": Karnataka Deputy CM DK Shivakumar on Ballari incident - ANI News (ANI News) [neutral]
-- Ballari MP inaugurates bypass, opens MRI centre at District Hospital - The Hindu (The Hindu) [neutral]
-- Ballari MP reviews credit plan progress, calls for faster loan sanctions - The Times of India (The Times of India) [neutral]
+- Ballari MP uses foul language to criticise those who questioned poor quality of road work - Public TV English (Public TV English) [neutral]
+- ED charge sheet: BJP seeks disqualification of Ballari MP Tukaram - thehindu.com (thehindu.com) [neutral]
+- Probe Agency Raids Congress Bellary MP, 3 MLAs In Karnataka Valmiki Case - ndtv.com (ndtv.com) [neutral]
+- Bellary MP E Tukaram's wife Annapurna to fight from Sandur: Siddaramaiah - Deccan Herald (Deccan Herald) [neutral]
+- Valmiki ‘scam’: Karnataka Congress leaders raided by ED; Bellary MP, 3 MLAs accused of misusing funds for - The Times of India (The Times of India) [negative]
+
+---
+
+## News & Allegations
+
+- ! **Ballari MP uses foul language to criticise those who questioned poor quality of road work - Public TV English** (Public TV English)
+- ! **ED charge sheet: BJP seeks disqualification of Ballari MP Tukaram - thehindu.com** (thehindu.com)
+- ! **Probe Agency Raids Congress Bellary MP, 3 MLAs In Karnataka Valmiki Case - ndtv.com** (ndtv.com)
+- ! **Bellary MP E Tukaram's wife Annapurna to fight from Sandur: Siddaramaiah - Deccan Herald** (Deccan Herald)
+- !! **Valmiki ‘scam’: Karnataka Congress leaders raided by ED; Bellary MP, 3 MLAs accused of misusing funds for - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-E Tukaram has a below-average transparency score of 43.8/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+E Tukaram shows moderate transparency with a score of 50.0/100. No criminal cases declared. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 35,267,209. MPLADS utilization: 6.5%. Parliament attendance: 50.0%. Questions asked: 1. 1 warning(s) noted.
+No criminal cases declared. Parliament attendance: 50.0%. Questions asked: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 35,267,209. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +227,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for E Tukaram's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 6.5%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -237,12 +244,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

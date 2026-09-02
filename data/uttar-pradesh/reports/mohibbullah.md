@@ -3,23 +3,20 @@
 **Constituency:** Rampur, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 48
-**Education:** Post Graduate
-**Profession:** Agriculture
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (36%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 39.2 / 100
+## Composite Transparency Score: 53.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 31.2 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 60.0 | 15% |
-| Parliament Attendance | 45.0 | 10% |
-| Questions & Debates | 0.0 | 10% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 70.0 | 15% |
+| Parliament Attendance | 100.0 | 10% |
+| Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
@@ -28,71 +25,111 @@
 
 ## Criminal Record
 
-- **Total Cases:** 4
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 4
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
 ### Cases Detail
 
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: N/A) 
-3. No description (Sections: N/A) 
-4. No description (Sections: N/A) 
+1. Police Station Sadar Bazar Agra | Section 3/4 D.P. Act (Sections: 498A, 323, 504, 506) [pending] 
+2. Police Station Sadar Bazar Agra | Under Section 127 (Sections: N/A) [pending] 
+3. Police Station Sadar Bazar Agra | Section 12 D.V. Act (Sections: N/A) [pending] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 10.05 Lakh
-- **Immovable Assets:** Rs 35.00 Lakh
-- **Total Assets:** Rs 45.05 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
 - **Liabilities:** N/A
 - **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 4% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 6
-- **Expended:** Rs 6
-- **Utilization Rate:** 39.0%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
 ## Parliament Activity
 
-- **Attendance:** N/A
-- **Questions Asked:** 0
-- **Debates Participated:** 0
+- **Attendance:** 100.0%
+- **Questions Asked:** 1
+- **Debates Participated:** 3
 - **Private Bills:** 0
 - **Is Minister:** No
 
 ---
 
+## In The News
+
+*Mixed/neutral coverage (10 articles)*
+
+- **Total Articles:** 10
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+
+- RAMPUR, UTTAR PRADESH : SP MP MOHIBBULLAH NADVI VISITS JAUHAR UNIVERSITY, SLAMS DEMOLITION ORDER AFTER BEING DENIED ENTRY | VISUALS & BITE - Press Trust of India (Press Trust of India) [neutral]
+- BJP slams SP MP for saying that Muslims may have to wage ‘jihad’ to fight government oppression - The Hindu (The Hindu) [neutral]
+- Pay Rs 30,000 A Month As Maintenance To 4th Wife: Court To Samajwadi Party MP - ndtv.com (ndtv.com) [neutral]
+- Allahabad HC orders Rampur-MP-Nadvi to pay ₹30,000 monthly to 4th-wife: Directs settlement within 3 months ... - Bhaskar English (Bhaskar English) [neutral]
+- The Maulana Who Defeated the BJP in Uttar Pradeshs Rampur - TheWire.in (TheWire.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **RAMPUR, UTTAR PRADESH : SP MP MOHIBBULLAH NADVI VISITS JAUHAR UNIVERSITY, SLAMS DEMOLITION ORDER AFTER BEING DENIED ENTRY | VISUALS & BITE - Press Trust of India** (Press Trust of India)
+- ! **BJP slams SP MP for saying that Muslims may have to wage ‘jihad’ to fight government oppression - The Hindu** (The Hindu)
+- ! **Pay Rs 30,000 A Month As Maintenance To 4th Wife: Court To Samajwadi Party MP - ndtv.com** (ndtv.com)
+- ! **Allahabad HC orders Rampur-MP-Nadvi to pay ₹30,000 monthly to 4th-wife: Directs settlement within 3 months ... - Bhaskar English** (Bhaskar English)
+- ! **The Maulana Who Defeated the BJP in Uttar Pradeshs Rampur - TheWire.in** (TheWire.in)
+
+---
+
 ## Data Validation Flags
 
-- [!] **parliament_activity**: Low confidence in parliament activity data
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mohibbullah has a below-average transparency score of 39.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Mohibbullah shows moderate transparency with a score of 53.5/100. Minor criminal cases on record. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 4,505,342. MPLADS utilization: 39.0%. Low confidence data: Parliament activity. 1 warning(s) noted.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 1. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
+
+---
+
+## Compensation (Informational)
+
+- **Salary:** Rs 1.00 Lakh/month
+- **Constituency Allowance:** Rs 70,000/month
+- **Office Expense Allowance:** Rs 60,000/month
+- **Sumptuary Allowance:** Rs 15,000/month
+- **Total Monthly:** Rs 2.45 Lakh
+- **Total Annual:** Rs 29.40 Lakh
+- *Effective from: 2018-04-01*
+- *Source: Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.*
+
+> In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served.
 
 ---
 
@@ -117,7 +154,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -196,8 +233,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Mohibbullah's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.0%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -214,11 +249,12 @@ Time limit: PIO must respond within 30 days of receipt.
 
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Accessibility | social_media | Secondary (D) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
+| Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

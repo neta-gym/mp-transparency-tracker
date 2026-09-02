@@ -3,24 +3,22 @@
 **Constituency:** Banswara, Rajasthan
 **Party:** Bharat Adivasi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 31
-**Education:** 8th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.3 / 100
+## Composite Transparency Score: 64.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 31.4 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.77 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 2.77 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 0% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 6
-- **Utilization Rate:** 39.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/roat_mla?lang=en](https://x.com/https://x.com/roat_mla?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/official.roat.mla/](https://facebook.com/https://www.facebook.com/official.roat.mla/) | No | Yes |
+| Instagram | [@https://www.instagram.com/roat.mla/?hl=en](https://instagram.com/https://www.instagram.com/roat.mla/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -79,26 +89,39 @@
 - A video showing a clash between two MPs in Rajasthan is falsely shared as a fight between an MP and a District Magistrate - FACTLY (FACTLY) [neutral]
 - BAP MLA threatens BJP MP in public meeting: Challenges him to fight outside; MPs Rajkumar Roat and Mannalal... - Bhaskar English (Bhaskar English) [neutral]
 - Heated exchange between BJP MP and BAP MLA in Dungarpur - The Times of India (The Times of India) [neutral]
+- Video | Meet Our MPs: A Candid Talk With Banswara MP Rajkumar Roat - NDTV (NDTV) [neutral]
 - BJP MP alleges slap attempt and death threat: BAP MP counters claims Mannalal Rawat is provoking tensions a... - Bhaskar English (Bhaskar English) [neutral]
-- Rajasthan's Dungri Dam Project: MP Rajkumar Rot's Questions on Displacement of 76 Villages Met with Government's Evasive Response - The Mooknayak English (The Mooknayak English) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **A video showing a clash between two MPs in Rajasthan is falsely shared as a fight between an MP and a District Magistrate - FACTLY** (FACTLY)
+- ! **BAP MLA threatens BJP MP in public meeting: Challenges him to fight outside; MPs Rajkumar Roat and Mannalal... - Bhaskar English** (Bhaskar English)
+- ! **Heated exchange between BJP MP and BAP MLA in Dungarpur - The Times of India** (The Times of India)
+- ! **Video | Meet Our MPs: A Candid Talk With Banswara MP Rajkumar Roat - NDTV** (NDTV)
+- ! **BJP MP alleges slap attempt and death threat: BAP MP counters claims Mannalal Rawat is provoking tensions a... - Bhaskar English** (Bhaskar English)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rajkumar Roat shows moderate transparency with a score of 60.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Rajkumar Roat shows moderate transparency with a score of 64.8/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 277,300. MPLADS utilization: 39.3%. Parliament attendance: 85.0%. Questions asked: 43. Debates participated: 14.
+No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 43. Debates participated: 14. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 277,300. MPLADS utilization: 39.
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +240,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Rajkumar Roat's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

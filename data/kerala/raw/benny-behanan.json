@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5124.jpg"
   },
   "criminal_record": {
-    "total_cases": 5,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 5,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 35020209.0,
-    "liabilities": 7893411.0,
-    "net_worth": 27126798.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 29.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.48,
-    "expended": 2.14,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:34:58.337586Z",
-        "notes": "Official eSAKSHI REST API — Works: 150 recommended, 69 sanctioned, 6 completed"
+        "fetched_at": "2026-09-02T14:27:11.907837Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:47.988361Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:21:50.882687Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 150,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 14.557823129251702
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:43.343940Z",
+        "fetched_at": "2026-09-02T14:21:50.280486Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Toofan gathers ‘special’ force; Kerala\nto step up interstate anti-drug drive - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFFmRkZxRkNnczBqWC0zNER5TFdhelBsYjBWWXVLSlRNSGdCWGxCcmd5cTVET1d2SGtIczZzczlFWlRLSW5QQ3lrVGVKOTdOVHZRU0pDX2t6ZW4tb1RXR0hNLWVNYkN5eXlhR0VKRllMZ1JPbXFQT1VDWmd3c1dzWEFrVm11TUFMWG8tYmFrMU9FTGlxVHJvZnoyNTU4WHpXY1owY0FoVXpDeTBSTUdFd3ZtbjlPaDZrcGtlZ1RiWG50cE00cWRhRm5CazTSAdoBQVVfeXFMTlNBNDhVM1pwbWJMY0pqVE40V1RWblJmSHVMaW1pdVZRdFRsS2NYQlEwVjZCTExHOEItX2NHTDZSQ3ZZREIxalBOMzZvTk9HS2lVUTRfVzRneElhaExPTkRTeWpzOFZwTDVZZ2loYXBrZWJWMVN5R1RnbXptb2ppaXA3bjNnNlZUaEdvSG5ZX1BZdTFZdENKMTZOazVvaDhINVhTbFQ2bUo4b25WNWY0SWJxV0lXaHJ0a3pvUHdVNmFvRnc1YjdsQ09ST3FLeW1HaXpSQV9FRTZuZEE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chalakudy election results 2024 live updates: Cong's Benny Behanan defeats CPM's C Raveendranath - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxON2ZnVDFsRlIwYVZfQlVTYjVEMnA3WER1aThDbnRrdDJfNFpHbS1iLVpFVWJZVmpidXNQR0plQVlUSnBCLXhDWmpPQUZrUjRIMldENFRQM3lHX3loU3JNWXNZZl9sVnhXeUtWNUxsSkR5RHFDRGJyUllPSTd1Y1ZTWllrdndnMkhKbkJ6QXZRMGlYM1NHV1JvTjBNTEpPUW1iZVkzMkw1Y2NUWUdNZ0pUb3Y2dXRmN25iNXU5dXUwYnplNktoWlBUWUFUbTkyMFFqRUZTdW5PSko1aXpLVHdCX2JhUURYeHZqbVVENTJTSUFVcEI2R05HUEJUTXJsWDZpbWYzNzUzenJ6akdvdENGSVNNV0owQlN4NlFtc1NCZHc5OVViRXF2dndKd0hkN0RQUldmVEVQcXHSAb4CQVVfeXFMTVRaenJrS0xvbmpMaWFuNzVsV3J0Qk1aa0pWOWoxMGVPdFEzdjBUQ3ozVzdUalA3QTBtN05LXzdIdkNCNW5pU1BjTERhWEUybGM3MVZLaThIQnZkeklTX2FaajBZTGFtY19nSnhVRjFMWm1ySkZtTUVDMHAwOFJoUUoxQVlhWUZjOVRWVE42T2JTRW5vSWtvVVU5UW9tUUJfZF9DMnEycVpnMENjUThQZHl6OWJncnFpZEJKOTVpWVFSb25FQWJ4eXBKU2tmOWdmY1N3dVlfdEVhU0xHZ0ZrVnFHNlZqYzU1R1k5eWtOaVZyY1NJeHIteWJuTEFCVUFwR3lXU0tuMGZHU2dZaGZIbHhZMG5QMFpERWg1XzV0Y09MeEd6Z1Z5T0hPQmlpeDZiV3FzX0luLXFKLWFqRW9B?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sabari rail project: landowners meet Minister, Chalakudy MP - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQm8yM2R2VkQydzYwYVBuTU1FaWRfT21LM2xkbXBVZUhVRkFZM0pPMnNxTkpqMmpfbG9JRGtsakpYcVVBLW1rd0h3NzRPNUZFc2t1NEhCVFJ6SlBwMjhYNW41bFZIMzI0WV9PVXV5M2IzZzdQNVNNYWRjRFlYamY4UUc2ZWlMQzVJNWRHS0FkMU92alVzNHpPdEp0b3o5SnNENGFKUU1lNWtiMDlyaDFLV0NnMk9WRXZMUHfSAcABQVVfeXFMTzRpMVpKV2t1TUpVVkgtRGFza1doaG45Y2JsVGFZaEFNZWxZbndtY1JfQUk0QmgwNUNBNmRYejFUQy1VTk9jMk1lal9Ha0txNUdfVWpFM2h4NFJ6a2FJc3c3ZW5US1dfVTYzY3lmMXF4QmxEa2JsOUxCUVN1RW9PWEZzbkRxV25Bdnczbi1LQ2ltU2dsWWY0YWVsX2NOOVNjeVc4Wm9Mb0htUkFMYzFaRWJoaWp6UDBJY0xLQU5IQjg4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha Elections 2019; Kerala edition: Congress' Benny Behanan says BJP makes promises only for sensationalism - Firstpost",
+      "source": "Firstpost",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeTN4TGlTUjBTVXAwaEhmTGIxdzFSYlk5TnVIN0VJN25Ndm5GaXBXWUFBWG5SWmFmRVEweFIzQzZpeGl1Ykx6M0R1LXhhSVNuNmJEbDVsejZVNWtST2JKM3pvNzNXX0IzVkJZMVVfRXVtRHhPUDkwcTU3bWdBY0lhOUpJVDVwMlBNb2FEcU5QQW9Sclk0alFUSmQwSGVYR2tyN2FTTGdUQVFyWVZOaDlmOGpwWDBLN01ad0pZWUMzN2xXU2tibTBQTzBLZXRRdHNiMGpONGl5Rk5vb1JacTFkY01PQ19FcG9DLTFBOFdB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chalakudy lok sabha election results 2024: Chalakudy Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkFOTDNOeEwzMDBteWVFTTNaUmJpWTR3bXd2QWhLYkRQREpKZ0lTTVRJQ0EzZTZGSUlWdC0xUWxwRkxWWEJvVzN3M2xsZk5QY19rYzk1TlRXVHNWY2NqcmtGUHB3TmlPYnlTV3RrM1hpUGUyNjZlSWF0N1VJWHJTbjNFZHd4SGJWbUlMTHJEcTZkUQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:10.174502Z",
+  "collected_at": "2026-09-02T14:27:16.901000Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.419256Z",
+        "fetched_at": "2026-09-02T18:38:06.900673Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.419265Z",
+        "fetched_at": "2026-09-02T18:38:06.900683Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.419270Z",
+        "fetched_at": "2026-09-02T18:38:06.900689Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.419275Z",
+        "fetched_at": "2026-09-02T18:38:06.900694Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.419281Z",
+        "fetched_at": "2026-09-02T18:38:06.900701Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.419285Z",
+        "fetched_at": "2026-09-02T18:38:06.900706Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.419290Z",
+        "fetched_at": "2026-09-02T18:38:06.900710Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,11 +296,28 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/BennyBehananMP/",
+        "url": "https://facebook.com/https://www.facebook.com/BennyBehananMP/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:22:23.147283Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -253,27 +326,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Congress workers stop Benny Behanan over CM choice; MP calls it ‘friendly conversation' - Onmanorama",
-        "source": "Onmanorama",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0hMU3dPUnpUckQ5eEFNOUVEU0hSak51cFJZTTJCN3c4a3pMYzhXbi1VSXlVTVRIMFBwd2t0NS1IWWhjU0NaQTduejNkcHFEZkZqQ21kbHFXNTZONjJxc3JrOGFNVTFLUVdpQzBxdk1qZGo3cWZSVlhkTVlEcUNIdmlHZ0hXa1A5UGdGN3dXczAxazhBLTJzLXA4MmpUWXdHQzRJYXc3RFd5Z3o00gGsAUFVX3lxTFBXSExTd09SelRyRDl4QU05RURTSFJqTnVwUllNMkI3dzhrekxjOFduLVVJeVVNVEgwUHB3a3Q1LUhZaGNTQ1pBN256M2RwcURmRmpDbWRscVc1Nk42MnFzcms4YU1VMUtRV2lDMHF2TWpkajdxZlJWWGRNWURxQ0h2aUdnSFdrUDlQZ0Y3d1dzMDFrOEEtMnMtcDgyalRZd0dDNElhdzdEV3lnejQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "War of words erupts between left legislators, Chalakudy MP - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWUVtQjFNaUpOX0ZqbkVxbnRSSDVjSThpLXM0Q2NpZUFHWElCYkxfYUpWSk1Mb29oTVNQaDZBT0NHRVA5SnNLUi1OLUhxNUVkYmdlOERsT3RPdGNCR3V4YkJoSGFaNGlJclZYTkw2RVZmd1VibWd5b0xrMUUwSWxKZThTM1RzU0IwRnZCVWpWQ2JxNEY3ajgzalhScXRYeE9Gb1dmYXM4Z0YyWjF0djV0NXFSU2lyTnhWQlliVWdySnlLVGxDRUFMY9IBzwFBVV95cUxPelJ4aHZWaFpWTVNhVWZTeGNMbDNHNV9nZnprbVBzOVg5TGljeHVJekQzeWVLUmF0YmhZdl9kNWI0azNtX1ZRQjlxMEl6cm5OTnp0WnFmYl9ZUVVhc0RrZHpLaExxOGpTREw3Yk5lMlRZYlJrM1hSTE1HNElWWVMzSjljNjVaUy1sNWFoZFhPcy1sQ0IyRUUxT0JnQUF6TkhSVHFJSlZPZjM0d1BLaVFxS29VQk9sZ0JiNHkxazVEREh4dHpwVG9jV3VvMDFOY0k?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Congress's Benny Behanan stands his ground in Chalakudy - The New Indian Express",
+        "headline": "Toofan gathers ‘special’ force; Kerala\nto step up interstate anti-drug drive - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkJ5NGpKTXpkOGJVdTdOV3YtTUNmM1Jkc2RIUjBOejNKODM3Ylpra3V5RFJPaGNacmlPSGlpX0ZweTl2SVJYTEx2eTRKbThSU1dOWFd0VHE4Z1hmR2RlcVpWdTRYWWN0OTV4a2NrUDZPOXFjR1lhVFpKY0F2WkpwOTlMdjNoRzN3NENPQ3BDQjQyUjVnVDJyOXhDUWgxeVlhV3poOWkxZ3hpY2VHM1VhLWVB0gG_AUFVX3lxTE9fRWZmaEhvdjI3bGF1djZDajVpWGtoZ05EVVdWNTVYbnJjdDgwVl84VEJEbHJaeWx1NF8zcGhQaThmRi1qdV9iVFduWnFmSWVaSXRJQ3g1Qk5Jck1ERlVaeExockgybWVxQU1FbHVxR0M3N29NOXc5OEE5WkZZZkFaQmozUkZBd19Rcml5b0ZqQjUyVFhZOWRvTGE4VjdqTGhJbi13VTFKOEVSZ25QcWZqdTZXajNrNElscFU2Z3NR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFFmRkZxRkNnczBqWC0zNER5TFdhelBsYjBWWXVLSlRNSGdCWGxCcmd5cTVET1d2SGtIczZzczlFWlRLSW5QQ3lrVGVKOTdOVHZRU0pDX2t6ZW4tb1RXR0hNLWVNYkN5eXlhR0VKRllMZ1JPbXFQT1VDWmd3c1dzWEFrVm11TUFMWG8tYmFrMU9FTGlxVHJvZnoyNTU4WHpXY1owY0FoVXpDeTBSTUdFd3ZtbjlPaDZrcGtlZ1RiWG50cE00cWRhRm5CazTSAdoBQVVfeXFMTlNBNDhVM1pwbWJMY0pqVE40V1RWblJmSHVMaW1pdVZRdFRsS2NYQlEwVjZCTExHOEItX2NHTDZSQ3ZZREIxalBOMzZvTk9HS2lVUTRfVzRneElhaExPTkRTeWpzOFZwTDVZZ2loYXBrZWJWMVN5R1RnbXptb2ppaXA3bjNnNlZUaEdvSG5ZX1BZdTFZdENKMTZOazVvaDhINVhTbFQ2bUo4b25WNWY0SWJxV0lXaHJ0a3pvUHdVNmFvRnc1YjdsQ09ST3FLeW1HaXpSQV9FRTZuZEE?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -282,6 +339,22 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxON2ZnVDFsRlIwYVZfQlVTYjVEMnA3WER1aThDbnRrdDJfNFpHbS1iLVpFVWJZVmpidXNQR0plQVlUSnBCLXhDWmpPQUZrUjRIMldENFRQM3lHX3loU3JNWXNZZl9sVnhXeUtWNUxsSkR5RHFDRGJyUllPSTd1Y1ZTWllrdndnMkhKbkJ6QXZRMGlYM1NHV1JvTjBNTEpPUW1iZVkzMkw1Y2NUWUdNZ0pUb3Y2dXRmN25iNXU5dXUwYnplNktoWlBUWUFUbTkyMFFqRUZTdW5PSko1aXpLVHdCX2JhUURYeHZqbVVENTJTSUFVcEI2R05HUEJUTXJsWDZpbWYzNzUzenJ6akdvdENGSVNNV0owQlN4NlFtc1NCZHc5OVViRXF2dndKd0hkN0RQUldmVEVQcXHSAb4CQVVfeXFMTVRaenJrS0xvbmpMaWFuNzVsV3J0Qk1aa0pWOWoxMGVPdFEzdjBUQ3ozVzdUalA3QTBtN05LXzdIdkNCNW5pU1BjTERhWEUybGM3MVZLaThIQnZkeklTX2FaajBZTGFtY19nSnhVRjFMWm1ySkZtTUVDMHAwOFJoUUoxQVlhWUZjOVRWVE42T2JTRW5vSWtvVVU5UW9tUUJfZF9DMnEycVpnMENjUThQZHl6OWJncnFpZEJKOTVpWVFSb25FQWJ4eXBKU2tmOWdmY1N3dVlfdEVhU0xHZ0ZrVnFHNlZqYzU1R1k5eWtOaVZyY1NJeHIteWJuTEFCVUFwR3lXU0tuMGZHU2dZaGZIbHhZMG5QMFpERWg1XzV0Y09MeEd6Z1Z5T0hPQmlpeDZiV3FzX0luLXFKLWFqRW9B?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sabari rail project: landowners meet Minister, Chalakudy MP - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQm8yM2R2VkQydzYwYVBuTU1FaWRfT21LM2xkbXBVZUhVRkFZM0pPMnNxTkpqMmpfbG9JRGtsakpYcVVBLW1rd0h3NzRPNUZFc2t1NEhCVFJ6SlBwMjhYNW41bFZIMzI0WV9PVXV5M2IzZzdQNVNNYWRjRFlYamY4UUc2ZWlMQzVJNWRHS0FkMU92alVzNHpPdEp0b3o5SnNENGFKUU1lNWtiMDlyaDFLV0NnMk9WRXZMUHfSAcABQVVfeXFMTzRpMVpKV2t1TUpVVkgtRGFza1doaG45Y2JsVGFZaEFNZWxZbndtY1JfQUk0QmgwNUNBNmRYejFUQy1VTk9jMk1lal9Ha0txNUdfVWpFM2h4NFJ6a2FJc3c3ZW5US1dfVTYzY3lmMXF4QmxEa2JsOUxCUVN1RW9PWEZzbkRxV25Bdnczbi1LQ2ltU2dsWWY0YWVsX2NOOVNjeVc4Wm9Mb0htUkFMYzFaRWJoaWp6UDBJY0xLQU5IQjg4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha Elections 2019; Kerala edition: Congress' Benny Behanan says BJP makes promises only for sensationalism - Firstpost",
+        "source": "Firstpost",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeTN4TGlTUjBTVXAwaEhmTGIxdzFSYlk5TnVIN0VJN25Ndm5GaXBXWUFBWG5SWmFmRVEweFIzQzZpeGl1Ykx6M0R1LXhhSVNuNmJEbDVsejZVNWtST2JKM3pvNzNXX0IzVkJZMVVfRXVtRHhPUDkwcTU3bWdBY0lhOUpJVDVwMlBNb2FEcU5QQW9Sclk0alFUSmQwSGVYR2tyN2FTTGdUQVFyWVZOaDlmOGpwWDBLN01ad0pZWUMzN2xXU2tibTBQTzBLZXRRdHNiMGpONGl5Rk5vb1JacTFkY01PQ19FcG9DLTFBOFdB?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -323,15 +396,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 60,
+    "starred_questions": 18,
+    "unstarred_questions": 42,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +412,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

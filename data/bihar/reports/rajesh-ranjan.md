@@ -4,17 +4,17 @@
 **Party:** Independent
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 38.7 / 100
+## Composite Transparency Score: 49.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 26.0 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 0.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 41
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 41
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 12.09 Crore
-- **Liabilities:** Rs 1.72 Crore
-- **Net Worth:** Rs 10.36 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 62% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 5
-- **Utilization Rate:** 32.5%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -72,31 +71,45 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 2 | **Neutral:** 8
+- **Positive:** 0 | **Negative:** 4 | **Neutral:** 6
 
+- Complaint filed against Purnia MP Pappu Yadav in Delhi over Parliament protest - ANI News (ANI News) [negative]
+- Complaint Filed Against Pappu Yadav Over 'Temple Donation Theft' Act In Parliament - ndtv.com (ndtv.com) [negative]
 - HC restores Y+ security cover for Purnia MP Pappu - The Times of India (The Times of India) [neutral]
-- HC restores Y+ security cover for Purnia MP Pappu - MSN (MSN) [neutral]
-- SC Directs Purnia MP Pappu Yadav to Approach Patna High Court for ‘Z’ Category Security Hearing - Law Trend (Law Trend) [neutral]
-- Purnea MP arrested in 31-year-old case, sent to two-day judicial custody - The Hindu (The Hindu) [negative]
-- MP Pappu Yadav hospitalised after arrest in 1995 Patna case; Rahul calls it political vendetta - The New Indian Express (The New Indian Express) [neutral]
+- Chaos At Pappu Yadav's Delhi Residence, MP Alleges Receiving Threats After Ram Temple Donation Theft Skit - ETV Bharat (ETV Bharat) [neutral]
+- Complaint filed against Purnia MP Pappu Yadav for Parliament protest over Ram Mandir case - The News Mill (The News Mill) [negative]
+
+---
+
+## News & Allegations
+
+- !! **Complaint filed against Purnia MP Pappu Yadav in Delhi over Parliament protest - ANI News** (ANI News)
+- !! **Complaint Filed Against Pappu Yadav Over 'Temple Donation Theft' Act In Parliament - ndtv.com** (ndtv.com)
+- ! **HC restores Y+ security cover for Purnia MP Pappu - The Times of India** (The Times of India)
+- ! **Chaos At Pappu Yadav's Delhi Residence, MP Alleges Receiving Threats After Ram Temple Donation Theft Skit - ETV Bharat** (ETV Bharat)
+- !! **Complaint filed against Purnia MP Pappu Yadav for Parliament protest over Ram Mandir case - The News Mill** (The News Mill)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rajesh Ranjan has a below-average transparency score of 38.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Rajesh Ranjan has a below-average transparency score of 49.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 41 criminal case(s) (0 serious), 41 pending, 0 conviction(s). Declared assets: Rs 120,884,682. MPLADS utilization: 32.5%. Parliament attendance: 70.0%. Questions asked: 41. Debates participated: 22.
+No criminal cases declared. Parliament attendance: 70.0%. Questions asked: 41. Debates participated: 22. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -136,7 +149,7 @@ Has 41 criminal case(s) (0 serious), 41 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -215,8 +228,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Rajesh Ranjan's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 32.5%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -234,10 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

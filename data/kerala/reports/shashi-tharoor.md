@@ -3,24 +3,22 @@
 **Constituency:** Thiruvananthapuram, Kerala
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 68
-**Education:** Doctorate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 42.0 / 100
+## Composite Transparency Score: 49.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 17.7 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -28,34 +26,48 @@
 ## Criminal Record
 
 - **Total Cases:** 12
-- **Serious Cases:** 0
+- **Serious Cases:** 2
 - **Convictions:** 0
 - **Pending Cases:** 12
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 76/2021, Noida Police Station, Sector 20, Dist. Commissionarate, Goutham Budh Nagar UP (Sections: 121A, 153A, 295A) [pending] 
+2. 82/2021, Mautai Police Station, Dist. Betul, Madhya Pradesh (Sections: 121A, 153A, 295A) [pending] 
+3. 67/2021, Sarni Police Station, Dist. Betul, Madhya Pradesh (Sections: 121A, 153A, 295A) [pending] 
+4. 45/2021, Misrod Police Station, Dist. Bhopal, Madhya Pradesh (Sections: 121A, 153A, 295A) [pending] 
+5. 13/2021, Shivpur Police Station, Dist. Hoshangabad, Madhya Pradesh (Sections: 121A, 153A, 295A) [pending] 
+6. 22/2021, IP Estate Police Station, Dist. Central New Delhi (Sections: 121A, 153A, 295A) [pending] 
+7. 9/2021, Cyber Crime Police Station, Dist. Gurugram, Haryana (Sections: 121A, 153A, 295A) [pending] 
+8. 24/2021, Parappana Agrahara Police Station, Dist. Bengaluru South, Karnataka (Sections: 153A, 506, 34, 504, 120B, 124A, 153B, 295A, 298, 505(2)) [pending] **SERIOUS**
+9. 1650/2023, Museum Police Station, Thiruvanthapuran, Kerala | Section 39, 121 of KP Act, Section 5 of Kerala Prevention of Damage to Private Property and Payment  of Compensation Act 2019 (Sections: 143, 147, 149, 283, 324, 353) [pending] 
+10. No description (Sections: 500) [pending] 
+11. Complaint Case No. 471/2018 | Section- 2 of Prevention of Insult to National Honour Act (Sections: 121A, 153A, 295A) [pending] **SERIOUS**
+12. Complaint Case No. 23/2019 (Sections: 500) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 56.07 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 56.07 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 86% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 3
-- **Utilization Rate:** 22.2%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -77,36 +89,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@@ShashiTharoor](https://x.com/@ShashiTharoor) | No | Yes |
+| Facebook | [@https://www.facebook.com/ShashiTharoor/](https://facebook.com/https://www.facebook.com/ShashiTharoor/) | No | Yes |
+| Instagram | [@https://www.instagram.com/shashitharoor/?hl=en](https://instagram.com/https://www.instagram.com/shashitharoor/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Sashi Tharoor MP Skips Kerala CM Swearing-in Ceremony; In US - Deccan Chronicle (Deccan Chronicle) [neutral]
+- Cong MP Shashi Tharoor expresses concern over Nepal flash flood devastation, backs India’s relief assistance - The New Indian Express (The New Indian Express) [positive]
+- "Most meaningful event of this Onam visit": Shashi Tharoor inaugurates gathering of Snehasandram Charitable Trust - ANI News (ANI News) [neutral]
 - UDF wins 4 of 7 assembly seats in Tharoor’s Thiruvananthapuram stronghold - ThePrint (ThePrint) [neutral]
-- Shashi Tharoor Expresses Regret Over Skipping Next Week’s Swearing-In Ceremony Of Kerala CM-Designate Satheesan - Ommcom News (Ommcom News) [neutral]
-- ‘There are things that all of us can learn’: Shashi Tharoor backs Modi-Shah poll playbook - The Statesman (The Statesman) [neutral]
-- Congress MP Shashi Tharoor Casts His Vote In Thiruvananthapuram - NDTV (NDTV) [neutral]
+- Watch: Shashi Tharoor rescued after Kerala hotel lift gets stuck - The Times of India (The Times of India) [neutral]
+- Congress MP Shashi Tharoor Meets Dr. Jitendra Singh, Discusses Research Collaboration in Thiruvananthapuram - thepublicworld.com (thepublicworld.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Cong MP Shashi Tharoor expresses concern over Nepal flash flood devastation, backs India’s relief assistance - The New Indian Express** (The New Indian Express)
+- ! **"Most meaningful event of this Onam visit": Shashi Tharoor inaugurates gathering of Snehasandram Charitable Trust - ANI News** (ANI News)
+- ! **UDF wins 4 of 7 assembly seats in Tharoor’s Thiruvananthapuram stronghold - ThePrint** (ThePrint)
+- ! **Watch: Shashi Tharoor rescued after Kerala hotel lift gets stuck - The Times of India** (The Times of India)
+- ! **Congress MP Shashi Tharoor Meets Dr. Jitendra Singh, Discusses Research Collaboration in Thiruvananthapuram - thepublicworld.com** (thepublicworld.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Kerala: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Shashi Tharoor has a below-average transparency score of 42.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Shashi Tharoor has a below-average transparency score of 49.2/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). Declared assets: Rs 560,656,126. MPLADS utilization: 22.2%. Parliament attendance: 95.0%. Questions asked: 40. Debates participated: 10.
+Has 12 criminal case(s) (2 serious), 12 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 40. Debates participated: 10. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -146,7 +184,7 @@ Has 12 criminal case(s) (0 serious), 12 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -225,8 +263,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Shashi Tharoor's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 22.2%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -244,12 +280,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -74,21 +74,21 @@
           "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-09-02T12:08:43.035563Z",
+          "fetched_at": "2026-09-02T14:31:49.719839Z",
           "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
         },
         {
           "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
           "source_name": "data.gov.in",
           "grade": "B",
-          "fetched_at": "2026-09-02T12:03:53.932399Z",
+          "fetched_at": "2026-09-02T14:26:24.052974Z",
           "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
         },
         {
           "url": "https://dataful.in/datasets/18540/",
           "source_name": "mplads_csv",
           "grade": "E",
-          "fetched_at": "2026-09-02T12:03:56.014305Z",
+          "fetched_at": "2026-09-02T14:26:59.356767Z",
           "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
@@ -116,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-09-02T12:03:54.974056Z",
+          "fetched_at": "2026-09-02T14:26:58.323960Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -125,14 +125,6 @@
       "voting_record": []
     },
     "news_allegations": [
-      {
-        "headline": "Amalapuram MP takes part in discussions on simultaneous polls - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWGFaWjFvQnREc0lsbm56cFdKY3VkWUpERXdYX1JCMm5fT1FIWmdOd05QOWt3RndPcHNNV3M3b1gzNV9Rd2hJa3JDakJVbmJIa2k0UDdzVGVxZnUtd0UtcWpMODVrbS1rbXRXbEpjQ3NzNXdxRXo1dV9GNHEycENqZEdYeEw0R2hmY1BWdzc4dktmLWUtejFOaDZKZW5tMXJuSnZTeTU2aVFhZ3Y2Sm9NSkNfN081LVhEam9fdjNiUnlFNGNXcU1tRWE0WFJzb0k20gHXAUFVX3lxTE9TVEI4amV3bHhWd1AyNFBFQXZaYmtVcmNtM2I0azdYX3VTaXZIamhTWmVUbHVGNTR4MkRWVGxlSGUxdG1HZzllc2hKb1NSNENucHZtMzZ1ZkhEanlscEZMaTVYSWJkT21Ubkpmbm40NHBFSUdtVk1hMDgzN0psWWpJdG1fZVhZcTdhSlRBYzRUWlB1UDhOVzlaakJDaFNQY09RUEduZ0tjZDczRmRZNkVpcmVsR3laVmVNUzNPV1U2RWc0RG9JTko4MDVRNzNfY1RacmtUX1Vz?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Aiming to fulfil father Balayogi’s ‘dreams’, TDP MP G M Harish: Rail line to people’s welfare - The Indian Express",
         "source": "The Indian Express",
@@ -147,6 +139,14 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPTEUxdHh5WU0zMEdDai1jYlA5VlVkdzFrbmNTOHlLZWdNc1VtOU9qcjNPRVU2RVZUQVYxTWVUT1FKc2tJenMwdW9KUThLeGwybldVdDVQYy1MMk80VHhXYkJiZHRSbGZVdjZ4dDcwUFpWbXlpYVUzeXBfMHlLNGc3a3d1WWNVdUMzQXQyQWF6cVVjVm55Q2syYlZOZm1VOF9RUEVHMUV3V1M3dmRBMXFQWFJJRS1FWnBPQzVoRXg2Nl94d0Q2QUtETFExRXQxQlozdkw3aldFWHNXQlcxUkFkbENoX2NvemJjSlc4dGRJeEpOZ3oxSnVRQmh3OGxaNW9VSlFvVXRjLV90OGJEb3ZISHNoVnNUU0M5MlI3RU43NlYxeVpuemJIUjdua3htdm91RlU0QTNkc2lYbU5fX2RKeUpqSTdyLVg5NEM4dXQ5Rm9HRnlGLWxHZmJCLWNWazN0R3NuMFRCd9IB7AJBVV95cUxQZUVFSVdZQUhEMDRVZy0xeVAzdm5Kc3drcEI4N2E4ZndiYUozRUFjSUsxXzVnNTNTdWcxMHhXaEVLX2hqWUhSSDBiTUNDdkFzY2F4MGRXcGVDWnhRREU5czBEandTSXo5UmdTUlNiMFpQVHhHd1N5elZsLUpDS05HdjlVWndIZjNvSzMxTG9TZFh0dnl2T1FSLUQ0VHUydC1wdVhKR3hVWkgzSWc3UE5yc2RPMjJrWFN6X1ZkV2FDXzBsd2FNRVgxcjVJYndMWHJCRnc1MkhpbTZsd0JHSndVSTVoSkt6YTdEeGxCd2FfcnhqNDhRQkpJcmdRdzRhTEs1X1pBdWg0SFdiVTFJMmFTc0szSGV5LUpFekZyN09QNl94azNFb2FrOWVpRURybVA2MmxSYWtjenJ0VU9HblJZdGI4UGE2b3djRkhpbDZjWDl6NU1HOVc1YmZkYWNRbkJfY2x0ZWtxRXlkN3pG?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "G M Harish (Balayogi) , TDP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDJoX3Ryc1RUcWlWZEMtQTlIaWh3NXl0LV85T0ZlOXJJd3F3dTl4UHdNVXA4dzVHQlRaRUw0clRsRmNxQXdBN2VZSFRlQnE4NW9DS1NMSzYya0dRWXJxU2l2NzJCNVFkX0hfa3QwRHRXRE8wY2J5X2dPQ3pYdWJaVjZIVVZSZXVNX3ZZLQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -173,7 +173,7 @@
       "news",
       "cag"
     ],
-    "collected_at": "2026-09-02T12:10:47.777929Z",
+    "collected_at": "2026-09-02T14:31:52.726109Z",
     "evidence_summary": {
       "parliament": "C",
       "committees": "E",
@@ -193,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T12:10:47.781870Z",
+          "fetched_at": "2026-09-02T18:38:03.873997Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -209,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T12:10:47.781881Z",
+          "fetched_at": "2026-09-02T18:38:03.874009Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -225,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T12:10:47.781891Z",
+          "fetched_at": "2026-09-02T18:38:03.874014Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -241,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T12:10:47.781896Z",
+          "fetched_at": "2026-09-02T18:38:03.874020Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -257,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T12:10:47.781901Z",
+          "fetched_at": "2026-09-02T18:38:03.874026Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -273,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T12:10:47.781905Z",
+          "fetched_at": "2026-09-02T18:38:03.874030Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -289,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T12:10:47.781908Z",
+          "fetched_at": "2026-09-02T18:38:03.874036Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -348,25 +348,17 @@
           "url": "",
           "source_name": "social_media_lookup",
           "grade": "D",
-          "fetched_at": "2026-09-02T12:03:55.897135Z",
+          "fetched_at": "2026-09-02T14:27:00.313843Z",
           "notes": "Social media handle lookup"
         }
       ]
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 9,
       "positive": 2,
       "negative": 0,
-      "neutral": 8,
+      "neutral": 7,
       "top_headlines": [
-        {
-          "headline": "Amalapuram MP takes part in discussions on simultaneous polls - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWGFaWjFvQnREc0lsbm56cFdKY3VkWUpERXdYX1JCMm5fT1FIWmdOd05QOWt3RndPcHNNV3M3b1gzNV9Rd2hJa3JDakJVbmJIa2k0UDdzVGVxZnUtd0UtcWpMODVrbS1rbXRXbEpjQ3NzNXdxRXo1dV9GNHEycENqZEdYeEw0R2hmY1BWdzc4dktmLWUtejFOaDZKZW5tMXJuSnZTeTU2aVFhZ3Y2Sm9NSkNfN081LVhEam9fdjNiUnlFNGNXcU1tRWE0WFJzb0k20gHXAUFVX3lxTE9TVEI4amV3bHhWd1AyNFBFQXZaYmtVcmNtM2I0azdYX3VTaXZIamhTWmVUbHVGNTR4MkRWVGxlSGUxdG1HZzllc2hKb1NSNENucHZtMzZ1ZkhEanlscEZMaTVYSWJkT21Ubkpmbm40NHBFSUdtVk1hMDgzN0psWWpJdG1fZVhZcTdhSlRBYzRUWlB1UDhOVzlaakJDaFNQY09RUEduZ0tjZDczRmRZNkVpcmVsR3laVmVNUzNPV1U2RWc0RG9JTko4MDVRNzNfY1RacmtUX1Vz?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Aiming to fulfil father Balayogi’s ‘dreams’, TDP MP G M Harish: Rail line to people’s welfare - The Indian Express",
           "source": "The Indian Express",
@@ -381,6 +373,14 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPTEUxdHh5WU0zMEdDai1jYlA5VlVkdzFrbmNTOHlLZWdNc1VtOU9qcjNPRVU2RVZUQVYxTWVUT1FKc2tJenMwdW9KUThLeGwybldVdDVQYy1MMk80VHhXYkJiZHRSbGZVdjZ4dDcwUFpWbXlpYVUzeXBfMHlLNGc3a3d1WWNVdUMzQXQyQWF6cVVjVm55Q2syYlZOZm1VOF9RUEVHMUV3V1M3dmRBMXFQWFJJRS1FWnBPQzVoRXg2Nl94d0Q2QUtETFExRXQxQlozdkw3aldFWHNXQlcxUkFkbENoX2NvemJjSlc4dGRJeEpOZ3oxSnVRQmh3OGxaNW9VSlFvVXRjLV90OGJEb3ZISHNoVnNUU0M5MlI3RU43NlYxeVpuemJIUjdua3htdm91RlU0QTNkc2lYbU5fX2RKeUpqSTdyLVg5NEM4dXQ5Rm9HRnlGLWxHZmJCLWNWazN0R3NuMFRCd9IB7AJBVV95cUxQZUVFSVdZQUhEMDRVZy0xeVAzdm5Kc3drcEI4N2E4ZndiYUozRUFjSUsxXzVnNTNTdWcxMHhXaEVLX2hqWUhSSDBiTUNDdkFzY2F4MGRXcGVDWnhRREU5czBEandTSXo5UmdTUlNiMFpQVHhHd1N5elZsLUpDS05HdjlVWndIZjNvSzMxTG9TZFh0dnl2T1FSLUQ0VHUydC1wdVhKR3hVWkgzSWc3UE5yc2RPMjJrWFN6X1ZkV2FDXzBsd2FNRVgxcjVJYndMWHJCRnc1MkhpbTZsd0JHSndVSTVoSkt6YTdEeGxCd2FfcnhqNDhRQkpJcmdRdzRhTEs1X1pBdWg0SFdiVTFJMmFTc0szSGV5LUpFekZyN09QNl94azNFb2FrOWVpRURybVA2MmxSYWtjenJ0VU9HblJZdGI4UGE2b3djRkhpbDZjWDl6NU1HOVc1YmZkYWNRbkJfY2x0ZWtxRXlkN3pG?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "G M Harish (Balayogi) , TDP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDJoX3Ryc1RUcWlWZEMtQTlIaWh3NXl0LV85T0ZlOXJJd3F3dTl4UHdNVXA4dzVHQlRaRUw0clRsRmNxQXdBN2VZSFRlQnE4NW9DS1NMSzYya0dRWXJxU2l2NzJCNVFkX0hfa3QwRHRXRE8wY2J5X2dPQ3pYdWJaVjZIVVZSZXVNX3ZZLQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -400,7 +400,7 @@
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -523,5 +523,5 @@
     }
   ],
   "cross_reference_notes": "No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 45. Debates participated: 8. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
-  "validated_at": "2026-09-02T12:10:47.782763Z"
+  "validated_at": "2026-09-02T18:38:03.874836Z"
 }

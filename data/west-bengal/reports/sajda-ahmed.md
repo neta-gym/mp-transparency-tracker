@@ -3,19 +3,17 @@
 **Constituency:** Uluberia, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 62
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (24%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.4 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 19.4 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 55.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
@@ -40,22 +38,21 @@
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 4.40 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 4.40 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 36% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 4
-- **Utilization Rate:** 24.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -76,29 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Sajda Ahmed’s Zero Hour mention on providing training and marketing assistance for the zari workers of her Uluberia constituency - AITC (AITC) [neutral]
-- Uluberia West Bengal All India Trinamool Congress - The Times of India (The Times of India) [neutral]
-- Sajda Ahmed , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- Sajda Sultana Ahmed's social work helped her rise in politics - Awaz The Voice (Awaz The Voice) [neutral]
+- Sajda Ahmed’s Zero Hour mention on providing training and marketing assistance for the zari workers of her Uluberia constituency - AITC in Parliament (AITC in Parliament) [neutral]
 - Sajda Ahmad wins Uluberia Lok Sabha seat with margin of 4.75 lakh votes - Muslim Mirror (Muslim Mirror) [neutral]
-- Muslim MPs Iqra Hasan, Sajda Ahmad’s Lok Sabha wins prove India’s political diversity - Awaz The Voice (Awaz The Voice) [neutral]
+- We want anybody but Modi as Prime Minister of India says TMC MP Sajda Ahmed - eNewsroom India (eNewsroom India) [neutral]
+- Uluberia election results 2024 live updates: TMC's Sajda Ahmed wins - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Sajda Sultana Ahmed's social work helped her rise in politics - Awaz The Voice** (Awaz The Voice)
+- ! **Sajda Ahmed’s Zero Hour mention on providing training and marketing assistance for the zari workers of her Uluberia constituency - AITC in Parliament** (AITC in Parliament)
+- ! **Sajda Ahmad wins Uluberia Lok Sabha seat with margin of 4.75 lakh votes - Muslim Mirror** (Muslim Mirror)
+- ! **We want anybody but Modi as Prime Minister of India says TMC MP Sajda Ahmed - eNewsroom India** (eNewsroom India)
+- ! **Uluberia election results 2024 live updates: TMC's Sajda Ahmed wins - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sajda Ahmed shows moderate transparency with a score of 51.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Sajda Ahmed shows moderate transparency with a score of 54.8/100. No criminal cases declared. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 44,042,025. MPLADS utilization: 24.3%. Parliament attendance: 55.0%. Questions asked: 25. Debates participated: 2.
+No criminal cases declared. Parliament attendance: 55.0%. Questions asked: 25. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 44,042,025. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +227,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Sajda Ahmed's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +244,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

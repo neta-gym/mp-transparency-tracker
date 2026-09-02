@@ -4,16 +4,16 @@
     "constituency": "Anandpur Sahib",
     "state": "punjab",
     "party": "Aam Aadmi Party",
-    "myneta_candidate_id": 8744,
+    "myneta_candidate_id": null,
     "slug": "malvinder-singh-kang",
     "house": "lok_sabha",
     "sansad_member_id": 5721,
     "profile_url": null,
     "canonical_name": "Malvinder Singh Kang",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 45,
+    "age": null,
     "photo_url": "/mp-photos/5721.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:01.075365Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 41905973.0,
-    "liabilities": 2013285.0,
-    "net_worth": 39892688.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8744",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.354519Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 33.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.34,
-    "expended": 5.91,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:42:36.908116Z",
-        "notes": "Official eSAKSHI REST API — Works: 315 recommended, 259 sanctioned, 96 completed"
+        "fetched_at": "2026-09-02T14:40:46.251339Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:36:38.617200Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:36:38.613911Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 315,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 40.204081632653065
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:23:04.900669Z",
+        "fetched_at": "2026-09-02T14:36:38.612796Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Malvinder Kang at it again: Why an AAP MP is taking on Mann government - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0lQVHFCNlFveG5NaXE3S3pIRHM1ZUVSclh3blEyQy1jcU50OVFOQ081aHZSU1VvTl9nSUw3c1NkOVJwTUI0aDFjSXlzS0h5RVRrNUREMC01dVp3amF1LVNfQXNCVTc0eUN1TlVWencwTExLVW9WR0FwV2k4NVNmSHNxLUxBMHlMalVOX3pBMzZITTNwZS1yaWdBenkzNFdyV2dYZkJKenRkczZqTlJyV21WYUxZb2loV0pXMUgzTlpVaEFiSDdPLdIBzwFBVV95cUxOSnpoREtXem1rMW0tZ2tXenQwYlU2M09kQkJCMDRXdVRKR2p5eGxpYkxCa05YT3FxYmx3VU9aVU5NZUpTQTRnTTRrT3VOX0hKakN5dmpzMmwtNGhWOGMtUmlSNFNYZDJob0hoM3M3R3h5SnJhUXlHMmhwTTdrRG9WMEFpOHIyRVFNUnFyZGljSjFDbkMyZHF5dGtUSmZtV29RWmh4MldpWGI5WGl6Nm5HbkFVVE1FMFhDYjVLTTktZkdtdkJrOGNtYXRwaGVaNHM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Punjab Has No Ground for BJP’s Communal Politics, Says MP Kang - aamaadmiparty.org",
+      "source": "aamaadmiparty.org",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1NyM3l1RDBfdWVhSFJsTS1LQ1lJQ3BGN2pkZl9MLWI3ektMdVZ3anhIcHNJUFFnQkJRRkNkS2FhMTlPSVo1c0NnTW5zaHZma29rQjRZbFd4ZGFKLXJ1ZTNUUVRWa1ZReTdUVkJJRWZ2ODFYSHpDdWpoR3ZTQnEzRTFsWU5oQ1NsaXExUXhVT1NSVWpQNGU5YVNCUm0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "AAP MP Kang calls GMADA ‘centre of loot’, puts Punjab govt in spot - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU0hXSTdYZXhpbGtxdVJ0NFBRRmtkSlpzTEVvM1drV29DMHZwa2pndFRFejBpNFozcUp4QW5wUWlDTUtqZ3g0bHJ1NjF4T2M5a2o3Q05XLS1DOUFqRjEwMkxBejc2M2syMVVmeV9FVXN0ZGtuaU1XNmZfZE9YZktZOWhoMFJYNjdIYTFuNE5iZENPWXZ6ZTVheTNuck1NV2xldWVFQkxIRFNtR1QybUhIdlRBcmtVazRhdG9zU0gwVzNuMnBVSVFhaGdMSHJGQ1IzcXczc1JtYTbSAd4BQVVfeXFMUHN1b1VldS13OHhTV0huc2NCbWVrVm91MVR3X25TVGRNRWVmajVDNlNKdFNUaGNvTnNNRjZzWU5ibHJmYjZVdzdHRUVwSVZXcjJfS1dIVGFkQldHSE9XeVg0bS1MeHhRZ0RqSUhlQ19hMTlMWWdKeWlQc1VUdGdkV1JNSEdkOUQtR2N5ejR5UjQzRmt3Rjc4c2d5V0F5bjE4TEp3eVFOalFYellCaFl0c0RBWnF5RmN2N1MwMFpMQnlsN0RhMGFIbUZvalg3REp4TEVxbHJUcGRvZjlNRUl3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "AAP MP Malvinder Singh Kang Raises Alarm Over SIR Exercise - cityairnews.com",
+      "source": "cityairnews.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEs5LThOTGF0aWJtMDFpcTNCZHpBbU5tUnhtUDZLOUxnZDNuZ28wVnlyOVlsSjlhZWxiOVlYYWJQcTBOUUFGREdsSTgtczdiSEFqRS1FRm1yVm1CYndOU0dDMTN4UU85aS1jUlFDb0V5SjFGaUlYcWpteWpIWDNmYjNYRjRhcjkxRS1RLTRHNzFzRmhSeHFmZll3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘GMADA lutt da kender ban gaya hai’: AAP MP Kang puts own govt in spot, slams ‘selective’ demolition of shops in Punjab village - The Tribune",
+      "source": "The Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdEd3d3J4NHFxb1EtUlhnZHF0SU1aYTY3YUhIVlRrc09pS1cyUDg2bDF3UjFpNms4U1ZiNnJUUktiTkc4R2o0RVFJN0FhUFl4UUNBSFMxR1ZIZEh3aHRqdnNLSHlUZVh2TkdLOTNZc1ZKNmhTOTdWYWxKY280UlpHWU9sajA0OVI5T2d1X0xuTmF4S3hkTmNMeXd0bTdWYnNDWDdLazdhOFZGLWtTUTNPcjN0TllCdGU5UHhLQWdEN3VQOUNudEZKb00wMVBZUzE2eVByRlR5Y0lxT0FCclN1V0gtdmx1Yjg5bE9sdXhhZm14NkhCVFRhTlB30gH-AUFVX3lxTE91SWhmYVpsRlRlbjgzd2ZJQlFydFlDaWEzQmhXd2tzemRsQzhINjdNUWZpN0RpczFmdWt5b1hHTzlhQ1EzZC1EeTVNcmtOcnA0amJ5bmNJVlNOM1RLQjNMRTRBSkdxeEpPQW4yMzYtcDJOVDlMMzR6cGNNaDJhV25YM3czcHItWUtXX2I5MUhLUmQ0X3Vhd2p6T2FjOHI4aTQ1cDdaRWdWa01kQUQzUG50TS1HVHhXY1hvSXRLVUMzejgxeUVETlYyTjE4dkNsZHdyMnd0NGF0dXlwX3JXTU1wNmY0VS1qeVNsUkZweDVHS29Pa3VxSHJUR1E4Q2Z3?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:24:07.277557Z",
+  "collected_at": "2026-09-02T14:40:46.252402Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.624055Z",
+        "fetched_at": "2026-09-02T18:38:09.129914Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.624064Z",
+        "fetched_at": "2026-09-02T18:38:09.129924Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.624069Z",
+        "fetched_at": "2026-09-02T18:38:09.129930Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.624074Z",
+        "fetched_at": "2026-09-02T18:38:09.129935Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.624080Z",
+        "fetched_at": "2026-09-02T18:38:09.129942Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.624085Z",
+        "fetched_at": "2026-09-02T18:38:09.129947Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.624089Z",
+        "fetched_at": "2026-09-02T18:38:09.129952Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,43 +317,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "'Would not let Bihar, Bengal repeat here': AAP MP Malvinder Singh Kang questions conduct of SIR - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYmI1aEVaZTQxLXJNTWNVOTMtY2o4NnNTaDdVUGJQQWZyUDFPbFRCcWhUTmdBdzk3bmh0X2Y5UHI3WDVFa29BZVlPRkZKUTVuNEdySFEyeEVKNTNKdnhFOUZQVDM3QjJ1UnpzbGpYUHlHTEluUlI1ZDFfMFpvTEF3UFBlZ3BDekdsbXhnRVpod3pJS3d3MDB1RWpUZ0RvRFM2Y2QtTWhydGZzNEYtVktpWjUxS2RQamptckFIS1ZSdVY1M2l3VUFvMzlVbXdEOWpJaUtPWk1QZWtsQdIB5wFBVV95cUxOZGh3eWRJNWNoSHd4aUUzcjJqaWhXVVhwZ3BIekZ1N2hrSHlqTE9sS1RTMHJQbVVqZEhsakRVM2FiZlRQODdJSUI2VFd1SUVQTGxwODg3X1I2Vzd2d2lBeXBzY3p2WkV4cUVJRVM1X25oMEdZc0M3T2pPalluTXB3dUsxRE5Ic09XUWxoemxPQjF4RWJwenhmMnJsYVNnMlNQcTNIUV9OVjJwYS1RMXd6bXg1SDJTRjNWN0c1S1hJVUg3WlIwQ0dJaDNsRVg3U1ZVSlcwOW1SSXRaV1NwMlctcGlfUDd4MFE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "AAP MP Malvinder Singh Kang Raises Concerns Over SIR Exercise, Writes to Election Commission - Punjab Newsline",
-        "source": "Punjab Newsline",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHNKTzV2ekZfVUhsMWJuUXZ5bWxETWVpYXpxektIY2RLQWF2eEI3b2FJNGFuN3BhSWNGWmtPcUZfaXNjUVp2S2hzOTZpNFdJMklZV1l5TkZPOTdVeXFFYktScFRpVFp0RGpoVC1FZEdPSElfUmRFc0ZRSlBJeGFYVHNEQVN5cllyN19PdG5yaGtCcU1BTjhzZVRJY2JaaHgxSlFUcjNQX0czUWgtR1M1dTdSMnFfM3BOenBkNy05SVc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "‘Any attempt to create fear among genuine voters is unacceptable’: Kang raises concerns on SIR in Punjab - The Indian Express",
+        "headline": "Malvinder Kang at it again: Why an AAP MP is taking on Mann government - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY09RNlNTUkw1WjNyUTNydUUzTUpZeURsUDZmOUREeHd2ZWttbzV3R0ZjUFNpS1c3OXJsZnBDeHVsVEVjQ1NnRVU1MWo4ZHZCYzkzSTZkTXpwV1ptUzlTbnU2YTFSUmxxeUdScnBMeUpYYkhCVDdNd3BvU0hrd29ZSTRUUkhrZkVDajFSZ0k4cVplX3NNM1VnTXVPc0FteVVhRVZVSTNvMGJiZ2d5TnZkTzRVMEdKWHhuN3o4WjA3UU9lZkFOWTlsUDZpcXgyb2Q4MDl30gHaAUFVX3lxTE5TamtXbFhycFBOclJfa09VeGtlNm1mR0ZkSFdLMEFhSUw5bnJKWVRMOF9VazZWV2dSNXNRbEhVZG16SnVlZmpsSGd3bTRtNEtWTjk4cldYZnJQdWZrc3FYcnlvMVlhRzltazJDVU4yNVlFb05pbDY1U3NCVm1rd1B4SUpLZWlfLXNtSDhuZmVHdFFCdVYyZlduTEx4WjduYlA3NVYtQld3QXhQekJRVEZ3eEdkcGY3a3d1c3hKMjJPNXpNd0dRWkpuTzlzbzFld09TUDQ1ZUVwdHln?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0lQVHFCNlFveG5NaXE3S3pIRHM1ZUVSclh3blEyQy1jcU50OVFOQ081aHZSU1VvTl9nSUw3c1NkOVJwTUI0aDFjSXlzS0h5RVRrNUREMC01dVp3amF1LVNfQXNCVTc0eUN1TlVWencwTExLVW9WR0FwV2k4NVNmSHNxLUxBMHlMalVOX3pBMzZITTNwZS1yaWdBenkzNFdyV2dYZkJKenRkczZqTlJyV21WYUxZb2loV0pXMUgzTlpVaEFiSDdPLdIBzwFBVV95cUxOSnpoREtXem1rMW0tZ2tXenQwYlU2M09kQkJCMDRXdVRKR2p5eGxpYkxCa05YT3FxYmx3VU9aVU5NZUpTQTRnTTRrT3VOX0hKakN5dmpzMmwtNGhWOGMtUmlSNFNYZDJob0hoM3M3R3h5SnJhUXlHMmhwTTdrRG9WMEFpOHIyRVFNUnFyZGljSjFDbkMyZHF5dGtUSmZtV29RWmh4MldpWGI5WGl6Nm5HbkFVVE1FMFhDYjVLTTktZkdtdkJrOGNtYXRwaGVaNHM?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "AAP MP Malvinder Singh Kang Raises Alarm Over SIR Exercise - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "Punjab Has No Ground for BJP’s Communal Politics, Says MP Kang - aamaadmiparty.org",
+        "source": "aamaadmiparty.org",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSnhJeXU1YWV6UTIwWmcxdkxxelF2MlFhcFk1MU1MTzlpZzdmakRaTnV1ekpwMng3VjJ5bjlBQjExU0NFUUJOckUteXJwUHIzcmJPcHUzTnNqa21PcS0xcU0zYXN0Z2dSZGcyeU1SWVNSd28tMm9zQzIzZncxQkpWQ184SHJOM051U1J1M3Q4Rzk2V21wRnJ5WENnSVQ1cXk4MTNpVjlGanZxdVU4d29oRTVsbXZCMFdwQVYxZDFRdFVOeWs4ZWhyT0dtMTVZUmhtT2djRkZmY2JibEhrSEFsU0dR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1NyM3l1RDBfdWVhSFJsTS1LQ1lJQ3BGN2pkZl9MLWI3ektMdVZ3anhIcHNJUFFnQkJRRkNkS2FhMTlPSVo1c0NnTW5zaHZma29rQjRZbFd4ZGFKLXJ1ZTNUUVRWa1ZReTdUVkJJRWZ2ODFYSHpDdWpoR3ZTQnEzRTFsWU5oQ1NsaXExUXhVT1NSVWpQNGU5YVNCUm0?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Kang writes to CEC, proposes mechanism to prevent deletion of NRI voters - The Times of India",
+        "headline": "AAP MP Kang calls GMADA ‘centre of loot’, puts Punjab govt in spot - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON0hlRGNGckJRemZta2VJRExlMmFVV1h3MEpnNEVxTENrZTB6YVNTSGZkdVpyUjlEMi1MVHUwWVpJa0FoVnJrRFBjdDlZcDBhYlFOT0U4YnktZ1ZXYVVpaGJaQkdMVTFMM1pLVnpJdjhiUS15dHNhRGlnZlFYVVBpSy1fbjZ2d2NzWGptSHhBZDhORHp2cHc3X1ktSVd5TEpncmlQWUlGelFfN08zcXJSRm9oYTYzZzBNRHZfYWJvUUtzTURhdXJwcW9pek5iajFWMlNBN2Z4YTlDWUNoMW10Tnk3SdIB6AFBVV95cUxOSnFibU5JTTZweEJxbXhzdFhTQ3RxdTF4SGdVT2JqTUttaUhGcHJlMFFoYl82eEF5eE5waUhaQk9IREJMX2pQbkNseUkyMDVwdDJSZUR3bGg1T2R3TEVqejlQVnE2RkptRzdFTC1DZG80amtVaWN1N2NNdUZieERYYkVCMks2di1GM0VBeXJ4Q3dwTjZBUUxOZ0ZINHQ1Z1puZ1RnVkJvUW82aHgyZ29ISUlzQ0pfdl9iZ2lvNXNEYnN0LWpabjlwX0Z2aGExRU5rUzBWQWxqT0libTM5OWZERUkzQTlDMzVH?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU0hXSTdYZXhpbGtxdVJ0NFBRRmtkSlpzTEVvM1drV29DMHZwa2pndFRFejBpNFozcUp4QW5wUWlDTUtqZ3g0bHJ1NjF4T2M5a2o3Q05XLS1DOUFqRjEwMkxBejc2M2syMVVmeV9FVXN0ZGtuaU1XNmZfZE9YZktZOWhoMFJYNjdIYTFuNE5iZENPWXZ6ZTVheTNuck1NV2xldWVFQkxIRFNtR1QybUhIdlRBcmtVazRhdG9zU0gwVzNuMnBVSVFhaGdMSHJGQ1IzcXczc1JtYTbSAd4BQVVfeXFMUHN1b1VldS13OHhTV0huc2NCbWVrVm91MVR3X25TVGRNRWVmajVDNlNKdFNUaGNvTnNNRjZzWU5ibHJmYjZVdzdHRUVwSVZXcjJfS1dIVGFkQldHSE9XeVg0bS1MeHhRZ0RqSUhlQ19hMTlMWWdKeWlQc1VUdGdkV1JNSEdkOUQtR2N5ejR5UjQzRmt3Rjc4c2d5V0F5bjE4TEp3eVFOalFYellCaFl0c0RBWnF5RmN2N1MwMFpMQnlsN0RhMGFIbUZvalg3REp4TEVxbHJUcGRvZjlNRUl3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "AAP MP Malvinder Singh Kang Raises Alarm Over SIR Exercise - cityairnews.com",
+        "source": "cityairnews.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEs5LThOTGF0aWJtMDFpcTNCZHpBbU5tUnhtUDZLOUxnZDNuZ28wVnlyOVlsSjlhZWxiOVlYYWJQcTBOUUFGREdsSTgtczdiSEFqRS1FRm1yVm1CYndOU0dDMTN4UU85aS1jUlFDb0V5SjFGaUlYcWpteWpIWDNmYjNYRjRhcjkxRS1RLTRHNzFzRmhSeHFmZll3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘GMADA lutt da kender ban gaya hai’: AAP MP Kang puts own govt in spot, slams ‘selective’ demolition of shops in Punjab village - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdEd3d3J4NHFxb1EtUlhnZHF0SU1aYTY3YUhIVlRrc09pS1cyUDg2bDF3UjFpNms4U1ZiNnJUUktiTkc4R2o0RVFJN0FhUFl4UUNBSFMxR1ZIZEh3aHRqdnNLSHlUZVh2TkdLOTNZc1ZKNmhTOTdWYWxKY280UlpHWU9sajA0OVI5T2d1X0xuTmF4S3hkTmNMeXd0bTdWYnNDWDdLazdhOFZGLWtTUTNPcjN0TllCdGU5UHhLQWdEN3VQOUNudEZKb00wMVBZUzE2eVByRlR5Y0lxT0FCclN1V0gtdmx1Yjg5bE9sdXhhZm14NkhCVFRhTlB30gH-AUFVX3lxTE91SWhmYVpsRlRlbjgzd2ZJQlFydFlDaWEzQmhXd2tzemRsQzhINjdNUWZpN0RpczFmdWt5b1hHTzlhQ1EzZC1EeTVNcmtOcnA0amJ5bmNJVlNOM1RLQjNMRTRBSkdxeEpPQW4yMzYtcDJOVDlMMzR6cGNNaDJhV25YM3czcHItWUtXX2I5MUhLUmQ0X3Vhd2p6T2FjOHI4aTQ1cDdaRWdWa01kQUQzUG50TS1HVHhXY1hvSXRLVUMzejgxeUVETlYyTjE4dkNsZHdyMnd0NGF0dXlwX3JXTU1wNmY0VS1qeVNsUkZweDVHS29Pa3VxSHJUR1E4Q2Z3?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 4,
+    "starred_questions": 1,
+    "unstarred_questions": 3,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 7.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

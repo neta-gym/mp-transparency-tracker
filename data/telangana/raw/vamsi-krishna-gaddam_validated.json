@@ -4,16 +4,16 @@
     "constituency": "Peddapalle",
     "state": "telangana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 5248,
+    "myneta_candidate_id": null,
     "slug": "vamsi-krishna-gaddam",
     "house": "lok_sabha",
     "sansad_member_id": 5771,
     "profile_url": null,
     "canonical_name": "Vamsi Krishna Gaddam",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 35,
+    "age": null,
     "photo_url": "/mp-photos/5771.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Peddapalle",
       "state": "telangana",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 5248,
+      "myneta_candidate_id": null,
       "slug": "vamsi-krishna-gaddam",
       "house": "lok_sabha",
       "sansad_member_id": 5771,
       "profile_url": null,
       "canonical_name": "Vamsi Krishna Gaddam",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 35,
+      "age": null,
       "photo_url": "/mp-photos/5771.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:41.957594Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 240976163.0,
-      "liabilities": 1776000.0,
-      "net_worth": 239200163.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5248",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:53.379550Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 74.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.85,
-      "released": 14.85,
-      "sanctioned": 2.1,
-      "expended": 1.5,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:49:21.867614Z",
-          "notes": "Official eSAKSHI REST API — Works: 70 recommended, 26 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:27:04.153882Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:47.417360Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:50.216162Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 70,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 10.1010101010101
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:43.882688Z",
+          "fetched_at": "2026-09-02T14:21:49.609515Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Telangana govt gave IL jobs in two years: Peddapalli MP Gaddam Vamsi Krishna - NewsMeter",
+        "source": "NewsMeter",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeExudkFrYmNpVGlUWDBKOWU3YlBTQThkR2FJekdsbXVfVkxBU19PbG5aWnJfSGdqb2t4SGJtdXViQnp1TkU5Q2pIVHBZY09CN2FDclNZenNDNERsV3FoX2tLZ2ZPdVRnaWFlOWtjVFBHQWJidFB4LTBHM1pSTk5JOEJUdDJOMkVmVTlWMWg0VDJSMHJnWnRFQ0lWUElac09SdklQYUhjX2dlcERnRm1KZk1VcDRZeGlFeThxQXZzelA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Centre’s grain procurement process discriminatory towards Telangana: Peddapalli MP Vamsi Krishna - NewsMeter",
+        "source": "NewsMeter",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVzg0c0xwekRWbUdNQS1FX0VBYXRIbHhqckVaN0xMb3ZSMUV6WFNsc3VFc2pQTnJQV3AzT2FmMXlGb0FIMEowQXhJVldaMzhpeXczVWZSWnN2a0hHVFpva0R2dDQ3bXJEVkRvOWNhRWVIS0JodFJfVTNmQUNNMDdqbGFFOUVnYTloSlhMWF9wcjh6cjhleDFZVkZGaG1rRWhaVVVRYjdLRTJreFEzdFhfaXEtTVJsN09yY3FWZmxYN0dMRGtXbzh2cnhlNA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Peddapalli MP rides self-designed electric bike to Parliament, flags Delhi air pollution - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVDdHWEtQYklDNDA0Yk1LQ0gzRk1sdHhINDAtTHhvcjQ4VzMwN3FrLXRSVzc1c0RUNlRlbjVwUkdCaGhIWG5zMFhSNDExaERRZmZhZHMxUVE3RXJhQnotVUVRMzFiTFhKVWRCTEc1MmFIalJNRGtrWEE5UFhxMHVBTmVuejFobkJiNTRaYWZzNzVVYmp1TUg5ei1qMkZjaGIxcnVLMFhzNTh3M1V4OE9UMkpjT1dOeDkzemZVdEdWYThQN1N6cmdSOWUxc2tTMUJjT192b3QyallNN2N6R2FVb0Nvd2QzU01NOFdEV9IB8wFBVV95cUxQXzIyZzVnZ3Jac20wQTRQNjc0TTZWYXBjWG5MRVA5cjN5RmlEOEsyZGFpakxaR0lSN2hVc0V4QTBBNy03djktSW5FaGE1d05jRkNfQ3ZSczJjOWdwOEJqb0hzN3V3UVpkd21rQzF0eXlCazdhMXFycXVtTm5IbzhqMGJyOTJ2YzdWMzRzOU1pWUV2dGkzTkhyZ1lTYWRoVmY1VlVIcExtU083TW9ZYVdZamNKUnRaT3huNmpKdF9GQ0xMc0xzRVJUZlhKQ0FMM0pjN0JIeFo2b2dhT2lBbzZ3UHVXNk8xaU1QdUtuQ0dTMVAtOU0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "All is not well in Peddapalli for the Congress - Telangana Today",
+        "source": "Telangana Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QRDMwY1FOWE4wak5lMjhjQ3RFMzJ3NzdtelFwMjAzODQ1cVlRbkhxSEFyX3YyM0F3U05XczVzRDM2R0M4dEhhTzR2c1ZleUplZnp2S1lubm8wa25TeVlPOEZONkhmaGVST1Vucm5ieTQwZ0l0alhhOWlIcWp1UQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Peddapalli MP Vamsi Represents India At UNGA - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1drcVlCOVZHRkdQeTNBVDhiaVZxcEJsaFE1NzZqTEk4YmhmNTBaZ3ZKNFRJbmFyRnVEUzR3WmpsSVYwTXlCTTdSZUtzRlNXZHNxNWFwaFItNzNkMnBvR3dYZVg5QV9FcmRJMkNCY1RkUThyOUpUQXBjWmFVS0xDUHA4WGtQdGJ2V3lTYUJrcG5jYUNZQS1lcWluM3NONWJYSDQxYmtEN3h3Q1lXVlhn0gG0AUFVX3lxTE1IVVdoSzFLZFdvSDRJWUZWaG13YkQtdkxxYkxzVS1fTm9McE1Bem5YLXJ2UTVSU01KcWJGSGF0cUN3UGc1VkY4TXU4dzlXdHk5bkNINlVzYnhOS0RQYkZURUowLXJ5ZzhnajRqbHdBUWpEUkYwM0FaWUMxemhwTEE5YnV3V0t6N1o2bVJrd1laQll0XzkzenFGcVFJZ01GcHFaMDNLWExRZnFWTVFhbm9WZ05odg?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:12.938225Z",
+    "collected_at": "2026-09-02T14:27:17.148846Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.054725Z",
+          "fetched_at": "2026-09-02T18:38:10.605389Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.054734Z",
+          "fetched_at": "2026-09-02T18:38:10.605400Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.054739Z",
+          "fetched_at": "2026-09-02T18:38:10.605406Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.054743Z",
+          "fetched_at": "2026-09-02T18:38:10.605411Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.054748Z",
+          "fetched_at": "2026-09-02T18:38:10.605417Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.054752Z",
+          "fetched_at": "2026-09-02T18:38:10.605422Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.054756Z",
+          "fetched_at": "2026-09-02T18:38:10.605426Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +322,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/vkgaddam?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "url": "https://x.com/https://x.com/vkgaddam?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/vkgaddamofficial/",
+          "url": "https://facebook.com/https://www.facebook.com/vkgaddamofficial/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/kakavamsigaddam/",
+          "url": "https://instagram.com/https://www.instagram.com/kakavamsigaddam/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:22:22.283322Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -290,11 +376,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Centre betrayed Telangana on promises, water diverted to AP: MP Vamsi - The Siasat Daily",
-          "source": "The Siasat Daily",
+          "headline": "Centre’s grain procurement process discriminatory towards Telangana: Peddapalli MP Vamsi Krishna - NewsMeter",
+          "source": "NewsMeter",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOak1nLXJ4cVB4ZVZpdm1CMnptQ0xobDJuTVowX24tSmYyUHpyMjF5QzhCbXJGWDBxeDF5TzZvb3ptWUluazY5a0h3MkZFY252TmVMLXBtZFIyVFJXLTlVRGozdWhKanVBdXlwUlRGSGtSMnVDLXlGczNjb0lIQ0JMYVdVQjN6cDFWZ1A1NDJ2RkFHTVFIM1Z3M19USVBIY1Mx0gGmAUFVX3lxTE02T1dqQkhKdkhMN2tQZDFjbnlNdTlHZlJJRDlRYjVJTXIwdURVdkZZZWlRT2o0S3diemxBS3ozSWNGNzU3LWpuU0pVR0xrRjNVcWNuOW5CQl9qNTNqOEw0ak83YWk4X3IxWGgyZ2pHejdLZjA4dTBTNkVBSE13WmtfRU1sbllZc0x3UkYzMGRuNXJabUx2ME5jOEw0QVZoR0c1dGZ2bUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVzg0c0xwekRWbUdNQS1FX0VBYXRIbHhqckVaN0xMb3ZSMUV6WFNsc3VFc2pQTnJQV3AzT2FmMXlGb0FIMEowQXhJVldaMzhpeXczVWZSWnN2a0hHVFpva0R2dDQ3bXJEVkRvOWNhRWVIS0JodFJfVTNmQUNNMDdqbGFFOUVnYTloSlhMWF9wcjh6cjhleDFZVkZGaG1rRWhaVVVRYjdLRTJreFEzdFhfaXEtTVJsN09yY3FWZmxYN0dMRGtXbzh2cnhlNA?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,19 +392,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Peddapalli Lok Sabha MP accuses Centre for repeatedly ignoring Telangana - The Siasat Daily",
-          "source": "The Siasat Daily",
+          "headline": "All is not well in Peddapalli for the Congress - Telangana Today",
+          "source": "Telangana Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGdNVURrLVl5WFNRMFVBbVRsaDY2S1Z1clpPRTFIZVRlQ0hHMVNfMG1OdlBPaG9TQW9FZi1aMG9rQk1qdnpCVVVadGZuQ1h1dDlubm9lZ09YN3ZIakRhOGhocHhENnJZYXBra2xlb3ltV3BPUzF3dXRFM0RjUnQ3NnJlTEFOTkdBWEtxeTR5Znl2ZVdXZzFZMzJXX2gxeVlOVHdfTlBRONIBrAFBVV95cUxPTEFwRmJDYUM4V3hJQ1dDMEk4R0EzUVJodTFfVFlUVFNtMjJRVkl3WUJEZVJPMVUwczdQUXpwRzlRVEc4MG14eGxpcHptdDQ0SWpTbUZEd3JxMnBxOG1tR3JyZGYydUFlUXZDTkNHdTc5VXNkQ19HM1cyV0pGT3haVkJCcHlDTzJDd2dCS01ITURlWm1FSnUxWldjWm5ESVMyY1FqRUdXOWZYT3px?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QRDMwY1FOWE4wak5lMjhjQ3RFMzJ3NzdtelFwMjAzODQ1cVlRbkhxSEFyX3YyM0F3U05XczVzRDM2R0M4dEhhTzR2c1ZleUplZnp2S1lubm8wa25TeVlPOEZONkhmaGVST1Vucm5ieTQwZ0l0alhhOWlIcWp1UQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Peddapalli MP Vamsi Krishna slams Centre over Atomic Bill amendments, flags safety risks to India - NewsMeter",
-          "source": "NewsMeter",
+          "headline": "Peddapalli MP Vamsi Represents India At UNGA - Deccan Chronicle",
+          "source": "Deccan Chronicle",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0hndTJGWlpya0tPQm9ReF9jVEJZOUlDVy1oVnZWUTNyM3lOZ2NfOVlmUE5sT1h4UjJNN2xUdDlPNXJtYkpZbjJ6bHJEM0NCVjVWU2pvNE1VRU9yR3gxRTRlbVlYSHUydlQyaTBZdXd0LVlfV3lvQWg0NjJvUExsSjJCQ2lxdkNMM2J2Z3RZZ25TTG82X08ybXFySzNVRFBBbS1CRVdqNmtDX29kMFJOV0lvbElrTDVfM2ljWGlpSEpzM0pwOVVTSnFDb0dsWUdyTWE2R3V3alpueFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1drcVlCOVZHRkdQeTNBVDhiaVZxcEJsaFE1NzZqTEk4YmhmNTBaZ3ZKNFRJbmFyRnVEUzR3WmpsSVYwTXlCTTdSZUtzRlNXZHNxNWFwaFItNzNkMnBvR3dYZVg5QV9FcmRJMkNCY1RkUThyOUpUQXBjWmFVS0xDUHA4WGtQdGJ2V3lTYUJrcG5jYUNZQS1lcWluM3NONWJYSDQxYmtEN3h3Q1lXVlhn0gG0AUFVX3lxTE1IVVdoSzFLZFdvSDRJWUZWaG13YkQtdkxxYkxzVS1fTm9McE1Bem5YLXJ2UTVSU01KcWJGSGF0cUN3UGc1VkY4TXU4dzlXdHk5bkNINlVzYnhOS0RQYkZURUowLXJ5ZzhnajRqbHdBUWpEUkYwM0FaWUMxemhwTEE5YnV3V0t6N1o2bVJrd1laQll0XzkzenFGcVFJZ01GcHFaMDNLWExRZnFWTVFhbm9WZ05odg?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 15,
+      "starred_questions": 4,
+      "unstarred_questions": 11,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 28.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Telangana: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 240,976,163. MPLADS utilization: 10.1%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:53.055472Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.606147Z"
 }

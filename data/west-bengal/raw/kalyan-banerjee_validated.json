@@ -4,16 +4,16 @@
     "constituency": "Sreerampur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 7205,
+    "myneta_candidate_id": null,
     "slug": "kalyan-banerjee",
     "house": "lok_sabha",
     "sansad_member_id": 4498,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 67,
+    "age": null,
     "photo_url": "/mp-photos/4498.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Sreerampur",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 7205,
+      "myneta_candidate_id": null,
       "slug": "kalyan-banerjee",
       "house": "lok_sabha",
       "sansad_member_id": 4498,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 67,
+      "age": null,
       "photo_url": "/mp-photos/4498.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7205",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.884103Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:37:33.484973Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 305479471.0,
-      "liabilities": 1360398.0,
-      "net_worth": 304119073.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7205",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.884116Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 78.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.34,
-      "expended": 7.63,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:49.608774Z",
-          "notes": "Official eSAKSHI REST API — Works: 120 recommended, 118 sanctioned, 50 completed"
+          "fetched_at": "2026-09-02T15:30:47.534330Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:27:07.829225Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:27:07.827460Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 120,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 51.90476190476191
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:37:10.250171Z",
+          "fetched_at": "2026-09-02T15:27:07.826729Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "‘We were called ‘chor’ because of him’: TMC MP targets Abhishek Banerjee - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFBnMVdmQWJTdkFod1E5enA1QW9MRHJEaGlyekZvbTB2bWo1bTc1ekc0dnhnZEppSDRLZXJueGNoTmhVcHRYUXNRdGVrSGx5cGF3R3FOcnRsbjVfdlN0STZSYlVWb09BdmlyMmUwemVtRElJbHZZVVd1bzVtWDJDUGpqTDVPRVpROE1lRlNweFRXdWFnM3lXcDR4TENtNzlMVDRzV1l1UGhLd0RET0tCQzJKMVZDdGVVbnE5UnI4MTdoZ9IByAFBVV95cUxOemc1TFpmMENrTWZ6aDAyQ01qY3JTVGpkNmZhS2ViNlBaWFcxbFdfYnYxSVpMT2JhRmQ4UmZ4aTFVaVUyZENiTk1CT0tsYk03OGo1LU1Mb1NMWTJLS1hZRjBpSmZVY0dRNXN3QmxFamw1bnhOSzl0RFlMdV81azA3TW5IaU9JZzlEZHYtRjRFSVdNQ0c3VWN2UkVVM2pzTXFZa1RjTmVGSWgwdExrVWFueGpNcUdlamhIR25QM0lycHR1OTAxY3QyXw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TMC MP Kakoli Ghosh Accuses Kalyan Banerjee of Abuse, Misogyny - deccanchronicle.com",
+        "source": "deccanchronicle.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0dCRndCRURmbU5HdElobnpYaXpzRDdWc0o4aTJ1TXh1SVVHQUdHT0ctbDljeF9lSzhaMld3TWExSHNock1TZmlzUElHMG9RNU1vaVZkTEx6QlVIcFJ1VkNrZGNid3Nmb2ZBNmlxSlo3OEtzRjBKTV9SN0RtRG1ObExycEQwSGxQdFczN1pZTDdDSEZ4bG1IZ2pDNFcwaGJKeDNZUUN3Mm5YcUdTNVhSczFLQy1Fa1lpMFZmTUR2dHNkZ9IBxwFBVV95cUxORXhhWnBGN0EzcEhTOEVTUUJ2cFpUQnBKMEYzUjdhOXplMHBsTDRLREVXYkpUU29FVzgwcndXNWVsbDZyVV9Rb3FpR0VkcUkzd3Nsb2JUOXptd3VSTFJKSUdlSV9heGZneWtxRWM1bmZ1TkNELVNuS2dfekw5WFBvN09Ed1FRTjdPdkhqNzF6RGk5bUtXdXNHajUyejRBeF9QUWR5RExoTlVWbW5LbHNCOGJsTlgyeTRkVXNjUnJlTnFPOGNUWkxn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bengal upholds true spirit of communal harmony: Serampore MP - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHJxNHNjdll0SVRRbU5lbW1md0IzZUJnNjRHN1RqWGRFTFdtZGxmNkRHUlNnaEgtQi1mV0ZRRm9NU1o5RHp2QXFuTEJHTGNJdVdWZ0JnR1JVVHVwVTNQVmlsdHd0N0s4QlRHOTJTSzhpQk1MQUw5TFNzWWFNcFNuMzVORkg2WF9rVGlFQ3hUcEdsN0xjS3NLVjNMTC1CUFhSa3czNXY0UUl4VVJaTUFaV9IBtgFBVV95cUxNb2tMUXd3ZkwtU2IxVkJSLUNselZ4U1ZqYThRRnFvakdacU9jQTMtV1RFcVBSekJLbUd5ZlBIdmtVQ1Q0RlFSWnF1QmJxSlp2Sk56ckp4OTZpUDZrZS1LbWhsZmpZSC1kSVJCMERONVg1UWxyU0NyWmRuWnpGa0VtN2dSSW14b2xVelZGYlJUS1VxOEFqQnZES2NUZ2dpSFFZeFVWZThGWEl3YmhHUTNWUk9XMXN4QQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "On the campaign trail with… Kalyan Banerjee - AITC in Parliament",
+        "source": "AITC in Parliament",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jeDFhYWZNTFRvMm9KUGtlWDFWUVFJX1UtTFdYMzQzS0RSbGRrX283VjQ0d05IV3FKT0xHQ0xFb0c3NTR1X1ZzMlQ3RWF6OEx2eW91UnZEMGNOTXhqOUVRa0JCQnFneDBFNzdHRU03Z0RSVDl5M2xj?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "When Didi doned the black gown: Law firm partners, Serampore MP brains behind Mamata Banerjee’s legal for - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXR5ZVNfSXNMNGpaUDZ3M0JPaVI5aHhOX0RyOTFhT1ZlbkFka0JCaHdaazZ3WUp3aC1RdFV6QlUyeEVKTkoybnA2YloyR3JvR2xqaC1qem1zbWJsOXV2R0hRSjBPVWgtcHMwbXNBd2NsZFV5YWpOS0RXN3FwNG5CX3p4R1psbEdsb3BQZzFpcENvaE01d1NCOFZUYWhaM3NHVVR5ajRRVWNycHNseVlrSXN0TTdIV2w2SzhpclpNQ2RnN19HNHNnUVZ5YXlwM2xuR01pRDh30gHbAUFVX3lxTE1zdmc1b3lic0tHUXJNaG5IRzc0QnFMcDlTTS16eGlxbFpOdnZQRWMtaVFJcU9Gb2o4akZuRnUzS0kxVDRNOXVXRXVXNTRxYV9ZbUU1aFlsRktUMVJGNU0zcVNWRW1hdTNGWUNxRERfQ2pEU3VjbEVPX2lQTV8zZG9qU2JCLTIzd3JhZHp3UC1MMVFmZUh4eFNnSEdleUFPdng3aWh0M29xSmkxajg1NmxRSjNidnR6YTBTSnlMMjMzY1d3a05XSlRza1h6LUNUTmI0ZFJKZC10TTdTSQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:37:31.568154Z",
+    "collected_at": "2026-09-02T15:30:47.535094Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.719311Z",
+          "fetched_at": "2026-09-02T18:38:12.347503Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.719319Z",
+          "fetched_at": "2026-09-02T18:38:12.347514Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.719325Z",
+          "fetched_at": "2026-09-02T18:38:12.347520Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.719329Z",
+          "fetched_at": "2026-09-02T18:38:12.347525Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.719335Z",
+          "fetched_at": "2026-09-02T18:38:12.347532Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.719339Z",
+          "fetched_at": "2026-09-02T18:38:12.347536Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.719344Z",
+          "fetched_at": "2026-09-02T18:38:12.347540Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -290,19 +335,19 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Union minister Sukanta leads motorcycle rally in Sreerampur after TMC MP Kalyan's challenge - MSN",
-          "source": "MSN",
+          "headline": "‘We were called ‘chor’ because of him’: TMC MP targets Abhishek Banerjee - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOejlOaG5fNnVMRXhiS1liblUwQzJQeXZyQzlJV090SHdwNkNraGVUdV9pV2dXaENWaDBwQ3hKaFktWXNaMmZvdVBXd1VYc0J1YkxWcERrZlQ1a2tQX19kbmpsWVVJZEFhMjZXcGFiMWo1OVEtLVpuanZNeGlnajZKbkN5Undoa1c3UHpmU0h2d3R0bFNTNE40Z2lmUUc5eGRqaHJvdVVZNWVYU2Y4NkFaNHBsYmpzTjdldE1INDBtc2g3QUI3R3JYeUZQNHR1T181ZU1sWmFsNTJFTDdNV1FBMGlra3lxc05EUC1XR0lFTW1JTTJYOFJpUVRfbVdqN01MVVJJeXFiWlJIN2puRXNHbkc0NE13NU1XRk0wMVo5Z3VpdWVwZWhLV2hiSWx5VHVyNVFad0djLXdIUmtKaFRhNVROWkptU3RIYjNZTGJnMzlBYXRXSjcwTUc2NFpvdXN5T1JHY1dwa1loalVj?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFBnMVdmQWJTdkFod1E5enA1QW9MRHJEaGlyekZvbTB2bWo1bTc1ekc0dnhnZEppSDRLZXJueGNoTmhVcHRYUXNRdGVrSGx5cGF3R3FOcnRsbjVfdlN0STZSYlVWb09BdmlyMmUwemVtRElJbHZZVVd1bzVtWDJDUGpqTDVPRVpROE1lRlNweFRXdWFnM3lXcDR4TENtNzlMVDRzV1l1UGhLd0RET0tCQzJKMVZDdGVVbnE5UnI4MTdoZ9IByAFBVV95cUxOemc1TFpmMENrTWZ6aDAyQ01qY3JTVGpkNmZhS2ViNlBaWFcxbFdfYnYxSVpMT2JhRmQ4UmZ4aTFVaVUyZENiTk1CT0tsYk03OGo1LU1Mb1NMWTJLS1hZRjBpSmZVY0dRNXN3QmxFamw1bnhOSzl0RFlMdV81azA3TW5IaU9JZzlEZHYtRjRFSVdNQ0c3VWN2UkVVM2pzTXFZa1RjTmVGSWgwdExrVWFueGpNcUdlamhIR25QM0lycHR1OTAxY3QyXw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "When Didi doned the black gown: Law firm partners, Serampore MP brains behind Mamata Banerjee’s legal for - The Times of India",
-          "source": "The Times of India",
+          "headline": "TMC MP Kakoli Ghosh Accuses Kalyan Banerjee of Abuse, Misogyny - deccanchronicle.com",
+          "source": "deccanchronicle.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXR5ZVNfSXNMNGpaUDZ3M0JPaVI5aHhOX0RyOTFhT1ZlbkFka0JCaHdaazZ3WUp3aC1RdFV6QlUyeEVKTkoybnA2YloyR3JvR2xqaC1qem1zbWJsOXV2R0hRSjBPVWgtcHMwbXNBd2NsZFV5YWpOS0RXN3FwNG5CX3p4R1psbEdsb3BQZzFpcENvaE01d1NCOFZUYWhaM3NHVVR5ajRRVWNycHNseVlrSXN0TTdIV2w2SzhpclpNQ2RnN19HNHNnUVZ5YXlwM2xuR01pRDh30gHbAUFVX3lxTE1zdmc1b3lic0tHUXJNaG5IRzc0QnFMcDlTTS16eGlxbFpOdnZQRWMtaVFJcU9Gb2o4akZuRnUzS0kxVDRNOXVXRXVXNTRxYV9ZbUU1aFlsRktUMVJGNU0zcVNWRW1hdTNGWUNxRERfQ2pEU3VjbEVPX2lQTV8zZG9qU2JCLTIzd3JhZHp3UC1MMVFmZUh4eFNnSEdleUFPdng3aWh0M29xSmkxajg1NmxRSjNidnR6YTBTSnlMMjMzY1d3a05XSlRza1h6LUNUTmI0ZFJKZC10TTdTSQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0dCRndCRURmbU5HdElobnpYaXpzRDdWc0o4aTJ1TXh1SVVHQUdHT0ctbDljeF9lSzhaMld3TWExSHNock1TZmlzUElHMG9RNU1vaVZkTEx6QlVIcFJ1VkNrZGNid3Nmb2ZBNmlxSlo3OEtzRjBKTV9SN0RtRG1ObExycEQwSGxQdFczN1pZTDdDSEZ4bG1IZ2pDNFcwaGJKeDNZUUN3Mm5YcUdTNVhSczFLQy1Fa1lpMFZmTUR2dHNkZ9IBxwFBVV95cUxORXhhWnBGN0EzcEhTOEVTUUJ2cFpUQnBKMEYzUjdhOXplMHBsTDRLREVXYkpUU29FVzgwcndXNWVsbDZyVV9Rb3FpR0VkcUkzd3Nsb2JUOXptd3VSTFJKSUdlSV9heGZneWtxRWM1bmZ1TkNELVNuS2dfekw5WFBvN09Ed1FRTjdPdkhqNzF6RGk5bUtXdXNHajUyejRBeF9QUWR5RExoTlVWbW5LbHNCOGJsTlgyeTRkVXNjUnJlTnFPOGNUWkxn?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,19 +359,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Serampore MP urges party unity ahead of 2026 polls - The Statesman",
-          "source": "The Statesman",
+          "headline": "On the campaign trail with… Kalyan Banerjee - AITC in Parliament",
+          "source": "AITC in Parliament",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDBKOVBWSHB3azlKUURTdk54WDRBXzQwQkFDWlN0U2NtQUNiMkhidU9STE5VTmNaMUZXa00xUzhaMjF2em9ySG5CZlJ4QnJINDd0WUpKVERxVnJIWHBHVVdoc3FkQTV6bGtKMldWeUVVdFRERktkZV90dGdvZ3hCbzM4bHVzSDY2OE9aUW1KMDhGSEZtbHZFb1hKQTFRMHV0cHF5VdIBqgFBVV95cUxPY0tBTjhkenAtWVIxV1I3dzhQY1pLT2xmNWZPbzhLR0kzcGFWd2U2dUUtbktFTXFuMjFINk9RMGlrUzlHT0FVSWhobGQtNWVWRUwyU2RBLVEwY09UaTE0SFNSTmhOcjdUSnZtUE51T01SbGJGTHZiaU5UTkM3X1BuZllVUkREaXNVaGZQZ0h1a1JxclJjajY5OG80Tk9Ec3RjdnViSjRZeDh3dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jeDFhYWZNTFRvMm9KUGtlWDFWUVFJX1UtTFdYMzQzS0RSbGRrX283VjQ0d05IV3FKT0xHQ0xFb0c3NTR1X1ZzMlQ3RWF6OEx2eW91UnZEMGNOTXhqOUVRa0JCQnFneDBFNzdHRU03Z0RSVDl5M2xj?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Sukanta Majumdar rides into Sreerampur after Kalyan Banerjee’s fiery ‘come if you dare’ challenge - Telegraph India",
-          "source": "Telegraph India",
+          "headline": "When Didi doned the black gown: Law firm partners, Serampore MP brains behind Mamata Banerjee’s legal for - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOEtFZkhmbWdQeFhuY00yTzR1MTJYVDFzT1k5NThGVHZPV2I1MXpoakgzVjBXeXhHSGtxeDJKZDBBd3NVX292Y0l3M3RwYlhBWTd6M3ZYQXdSTXY4VHROMFBsd0czR01SUWMwcDYwRnBQM25tVnA4NXA0Y3RwZDdRZ2Z4U01LNVJ5ZDFLYXBzN3FaWjZkMmxiMzNaOFg0Nnl6WHpOb2g0TW9jVGQxaXVjUDl6Xy1BUkdiaFlVcjR0VTZRcDZKMWZMWmd4cW9VcXdxWDNsOFljcS1QUGxzdzlzYnlQZ9IB6AFBVV95cUxOazczUHctZWJmb3JlR3ZfdHY0cG9JYkZmSjFvcXVwV2xrN0ttR1dTZUZIVHQwbmVJbV9rMWdxa2QzZ2psOGFqVFpTWkU2RFZrLWlhdmZia0hnRFNvZXlKR1NFb1lITmE1MW9aQkc4NklTUHdlWUpwOVFPaElWOXJQbTQ1SHZ6OU1VZUpZZzByeXo5Z042Q3FtWlJER1lhUFd5UEdVWDgzQzlxT1k5SHh1RW9pSHdtY05CVlRNZFhZaDdTeEtKNElQTWZtS1N3ZlhrUW93VkJYUGFfaTdhbV9RT2FHWUhiVmtm?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXR5ZVNfSXNMNGpaUDZ3M0JPaVI5aHhOX0RyOTFhT1ZlbkFka0JCaHdaazZ3WUp3aC1RdFV6QlUyeEVKTkoybnA2YloyR3JvR2xqaC1qem1zbWJsOXV2R0hRSjBPVWgtcHMwbXNBd2NsZFV5YWpOS0RXN3FwNG5CX3p4R1psbEdsb3BQZzFpcENvaE01d1NCOFZUYWhaM3NHVVR5ajRRVWNycHNseVlrSXN0TTdIV2w2SzhpclpNQ2RnN19HNHNnUVZ5YXlwM2xuR01pRDh30gHbAUFVX3lxTE1zdmc1b3lic0tHUXJNaG5IRzc0QnFMcDlTTS16eGlxbFpOdnZQRWMtaVFJcU9Gb2o4akZuRnUzS0kxVDRNOXVXRXVXNTRxYV9ZbUU1aFlsRktUMVJGNU0zcVNWRW1hdTNGWUNxRERfQ2pEU3VjbEVPX2lQTV8zZG9qU2JCLTIzd3JhZHp3UC1MMVFmZUh4eFNnSEdleUFPdng3aWh0M29xSmkxajg1NmxRSjNidnR6YTBTSnlMMjMzY1d3a05XSlRza1h6LUNUTmI0ZFJKZC10TTdTSQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -360,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 11,
+      "starred_questions": 3,
+      "unstarred_questions": 8,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 21.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 305,479,471. MPLADS utilization: 51.9%. Parliament attendance: 85.0%. Questions asked: 11. Debates participated: 12.",
-  "validated_at": "2026-09-02T01:36:54.720066Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 11. Debates participated: 12. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.348248Z"
 }

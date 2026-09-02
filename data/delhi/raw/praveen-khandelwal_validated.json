@@ -42,13 +42,13 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
           "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-05-21T15:54:42.563396Z",
+          "fetched_at": "2026-09-02T15:33:44.806620Z",
           "notes": "MyNeta candidate affidavit data"
         }
       ]
@@ -57,9 +57,9 @@
       "movable_assets": 26239797.68,
       "immovable_assets": 90800000.0,
       "total_assets": 117039798.0,
-      "liabilities": 60645587.0,
-      "net_worth": 56394211.0,
-      "previous_total_assets": null,
+      "liabilities": 60645586.77,
+      "net_worth": 56394211.23,
+      "previous_total_assets": 19506871900000.0,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
@@ -69,41 +69,55 @@
           "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-05-21T15:54:42.577830Z",
+          "fetched_at": "2026-09-02T14:21:56.046172Z",
           "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 61.4,
-      "growth_ratio": null
+      "wealth_percentile": 33.3,
+      "growth_ratio": -0.9999940000734818
     },
     "mplads": {
-      "entitled": 14.75,
-      "released": 14.75,
-      "sanctioned": 4.48,
-      "expended": 1.98,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:28.259811Z",
-          "notes": "Official eSAKSHI REST API — Works: 59 recommended, 52 sanctioned, 7 completed"
+          "fetched_at": "2026-09-02T14:27:16.314122Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:52.653908Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:56.363935Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 59,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 13.423728813559322
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -118,7 +132,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T15:54:42.090775Z",
+          "fetched_at": "2026-09-02T14:21:55.804525Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +140,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Bharatiya Vyapar Mahotsav 2026 To Showcase India's Trade And Innovation From Aug 12 - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU1LZmEyalpaUERxbFpxWE94OVdTemxUZ2RUMzJ6NjVGMEtSRzZJUXNzWjd6VnhRMUpqSDNXdTR5R2JpSldqVm1aQkxtVk5WY1hmYllEWHlwVTQ2OGtSb2JDNUNFRzU4RUhWR3d6UmNwOVQ0cGhfVzJIcllGanNvdmg5eEt3TUtoZ2tRM2FBZ09CZjhwQXZwQTJMNmI3dUhza1pVRDNrQlV3Wjk5VTVsTUlsQVJfenNEMVllQW1xaGJ6RkFEYVd1VndDQlFROVRFZEHSAdcBQVVfeXFMTTJma2FFaUpiVEpqNW9LNTdQUGZWbUNfa2xzZEJzc25TZjhyVUZCWDJ6elRLZkJ4LXVITzZSclBoWmxSaU9qOU9wbjFvN0xaOTJPdzFYNmtwX2tNMmU2LWZGay00dkY1ZGtkMmlQQmJramRONGhBdDlhd2pWYVRiRVA5MjVOT0pJR1g2dnRvb1RsQUM3V3JnWUJYOWRYcXNNeWM3T3dLMzhuejJJT3hiam92SVN6aHFXQ0pRajNkcWxBbTY5MlVJak81dW5ZdVpJajRoaHllM2c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Delhi BJP chief Harsh Malhotra to train party workers in Chandni Chowk - tennews.in",
+        "source": "tennews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2JGRnhFeTdNYjZoNjRMYVh0dkUxODFDQXZmb2RYaktTY3kwR1pEQ083YlNBR29xbWwxbUVpMGZ6N2tPT1RVVGxuTVNWNlBFenBrNFpJYzk0eVZ5TnBxMG01U18zWGxGS05jMFFKYVMzcldCRzkzSnNObGh6VVk4cEsybEZZRmhtMWlRd3lybndMZ2hQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP Praveen Khandelwal calls for national population management policy to tackle growth challenges - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWG5GWWRneUpucC1lSzRPVGhxZWxtS0phaDRTTjd3VW00VGFtZUsxWnhJRkJDNDY2QTZxempRX3J0NVc5d2s4TlBKZVdwQ1dpcDFFQ0VEajdIeUQtR3p2WE5zNHpZdjJUYmxzVlJkSkN4NzdvSnlIXzNvYW8wSFNSODNjMmNxY1cxd3RVWG9VSlFGcE8zRnIzc21FX1VNeUN6QUxlYXlTZy11cnVQdXVFTUFubF9TSzVTcEdWVUE4YmNxcTBkYkpSSUVrRGVnMm5aUmN4b05CM1ZQMU5nbmdrdllQNWI0LVXSAfQBQVVfeXFMUG1pR29hSzhCS09TdHBySFlMcTBZNHh1X3JMUlRNdW5sSGRNSWpxa0hSaWF6QTg2SDkwMWg3QWxyNUQ3LVNuREg1azBsdVlWcUo2UGY0Z2JVT0c0c2xOY1dwTnhsd0tLdlFPbG1EVlJLcVBJZVk1NGZESjc5QThiTmwxc3cyVGp3RDRrUlpMWFBpdmktbjlMa183cG84NlV4bjVXOEhqNGtnaV9GNjJ5RmtZczRuSEUzMWZTc0FhaW4wM0Z3TXZpVnZVdmtoNkNSY1kyUUFSak5DczJfaEhON1N3aE1DU3k2QkV6WF9Bc2E2U0FRNA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Fresh boost to BJP in MCD: AAP councilor Vikas Taank joins party - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFlCOFdEYjZsWk1PZm5xSjhyWlVmaG9ueEJXcWt2NWtNUno4cXgxWTNmT3BvaW9YQWNkOFplUm1yZm1JTGRuWExxMUlfMEg2d19SdDdqYm9YdE10eGZJaXZKRnhBb1VwdE5pTHhLaUdRRjlydU1nWGdxRDlJdlBFSUNTU0pzNHpONHBrMlJTbVhnSnUwSUlMeDBDTFRZODZUaTZLdmZUaW1oWjBBNGJTUHdQby1pd9IBuwFBVV95cUxPZlBqeWc0RkZIaTlNV3lmaTJYUnR4LThUYUxiTmxONEVLWkpNYUwtNkpsTE5fc3Q4OWlWNnVIOEhSOG9Wa0xGbjNXSVdfSWg3Z3VoT3FfVktVVC1JWXQ2M3J4eUIyS1dmQ1NlUHFSelR4SjYwYkRXSkFBOWhSQXJBTElsZUQzVjVzc2k2ZVZWTW8zV1R4OTdYbkUxVVZNN1MydDNCTmQxVkJoTWREM1dBRURsQnlqMFZCcGRZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jhalmuri turns victory snack as BJP workers celebrate Bengal triumph - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVZCM18wR3p1TXhwMUVxdHZLRXlwSURLbWNBbDFYel9KZnBpZWVMcmFYdHdTX3pSYlJmRTNBTHRZWWhfRi11OUo2UVR3dUNfSlotcmJDRmQwTHZkckFzRjczdDRpSDJ3c0ZNU0VZU0ZkSy1sQ3J2dkE0LTZEeURlcFFmMDZtTEtfOHFLUGpjRDFCQUpPck8yQ0hMa2JKdU8wekhTd2oyeGJzUVNrX2tlVUxEUGxCbF8zM0pyYVlBSVJ5amM5OHpYUDdsX09QbUFqeXlDbmFQb27SAd4BQVVfeXFMTUEyeFFnQ2hqRFpBdG00bzlXOVhvYU04MXRjLXFGNDhIUk4zRW8zaEJOaTY4SThKTXZOeExBVG1BUlZiWThSMWdfMmtXM3prSzY2OV9Rb2FyNWctSmJBaE44SU1XXzFoU1ZFaUV4aU5qR2FRVE1sN19PNVVCN2pzUDlZbi1fQkFjOVg4eWxwVTd6U3RtVC0zTkFIRnAxYXRLaUgyX0hhNEtSNW1icFpMLTFCUVJNYUsxRTljVFZOVFhkeUNrRUh3ZGJLWElpTEtwREtQWDBpeE1XU0RwQ0Rn?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T15:55:09.226293Z",
+    "collected_at": "2026-09-02T14:27:17.314656Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +212,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.823894Z",
+          "fetched_at": "2026-09-02T18:38:05.404732Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +228,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.823904Z",
+          "fetched_at": "2026-09-02T18:38:05.404744Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.823910Z",
+          "fetched_at": "2026-09-02T18:38:05.404749Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +260,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.823915Z",
+          "fetched_at": "2026-09-02T18:38:05.404754Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +276,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.823920Z",
+          "fetched_at": "2026-09-02T18:38:05.404761Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +292,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.823925Z",
+          "fetched_at": "2026-09-02T18:38:05.404765Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.823930Z",
+          "fetched_at": "2026-09-02T18:38:05.404770Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -268,7 +324,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.823935Z",
+          "fetched_at": "2026-09-02T18:38:05.404775Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -309,9 +365,17 @@
           "followers": null,
           "verified": true,
           "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/praveen_del/",
+          "url": "https://instagram.com/https://www.instagram.com/praveen_del/",
+          "followers": null,
+          "verified": false,
+          "active": true
         }
       ],
-      "total_platforms": 2,
+      "total_platforms": 3,
       "total_followers": 0,
       "confidence": 0.7,
       "sources": [
@@ -319,7 +383,7 @@
           "url": "",
           "source_name": "social_media_lookup",
           "grade": "D",
-          "fetched_at": "2026-05-21T15:54:38.662251Z",
+          "fetched_at": "2026-09-02T14:22:27.865824Z",
           "notes": "Social media handle lookup"
         }
       ]
@@ -331,35 +395,19 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Chandni Chowk MP Khandelwal asks traders to help remove encroachments, appoint security guards - MSN",
-          "source": "MSN",
+          "headline": "Bharatiya Vyapar Mahotsav 2026 To Showcase India's Trade And Innovation From Aug 12 - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQejgwVWpxbHp0TV9sRjExcmRMUnRtbFd1amtNWEl6UGNnMlZTOVdQRThwUUpzRk1aYlk2dUVRUGI0WTJJT01fQi1GMGpISXlzcnI5VGJFMFRhV294M1hFTC1TODJSX2hORTcxQWt5cHZ2S1RLWndHckdRUlRKWlRFODF1THhORm1ScTBXejBXbTFBVDVuLVRGYUM0QzdZSTZKUmw4MC1wR1VGdjRYRGZ3TTFEYzVNUUJIQnlYYU9aVXdaTjhpenMyZ24za2lhLU11eG9zcnRGVnNyaTg2eHBHcEVmdnViUlc1QWFzemdMT1RacnprMzFYNG1KX1hFb25Qc1ZKNzVPYS1xM0VyLV80UWRhZHBSRDRRR0tUS2lXQThwM0QzNmFMMXdhUk13LUZTM0t2U21HaGZ2NWFuN3VPNWR1amg2TjY4RVJqV011U1ZwSmVNOUt6VUJxa1dLTV9CaHN1Wjkza0ZFeThEdVZsSg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU1LZmEyalpaUERxbFpxWE94OVdTemxUZ2RUMzJ6NjVGMEtSRzZJUXNzWjd6VnhRMUpqSDNXdTR5R2JpSldqVm1aQkxtVk5WY1hmYllEWHlwVTQ2OGtSb2JDNUNFRzU4RUhWR3d6UmNwOVQ0cGhfVzJIcllGanNvdmg5eEt3TUtoZ2tRM2FBZ09CZjhwQXZwQTJMNmI3dUhza1pVRDNrQlV3Wjk5VTVsTUlsQVJfenNEMVllQW1xaGJ6RkFEYVd1VndDQlFROVRFZEHSAdcBQVVfeXFMTTJma2FFaUpiVEpqNW9LNTdQUGZWbUNfa2xzZEJzc25TZjhyVUZCWDJ6elRLZkJ4LXVITzZSclBoWmxSaU9qOU9wbjFvN0xaOTJPdzFYNmtwX2tNMmU2LWZGay00dkY1ZGtkMmlQQmJramRONGhBdDlhd2pWYVRiRVA5MjVOT0pJR1g2dnRvb1RsQUM3V3JnWUJYOWRYcXNNeWM3T3dLMzhuejJJT3hiam92SVN6aHFXQ0pRajNkcWxBbTY5MlVJak81dW5ZdVpJajRoaHllM2c?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "After 'Keralam' nod, BJP MP wants Delhi to be renamed to this to restore heritage - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjFTMVd0bEppUVpTQ1BYd09ScXhQQm9hY0dxRlpWNnQ1eWhTUnpoVFc5V181Rll3ZGF2WE0xZjBwOFFJbEtmMlFjNlZDREFsOUlpTXZ0YXMtM2NmSldEYS1kRkZ0VUs5LU1UOTQ3ZV9TMGNXTTlTWnJUOG9MUDFLdnlQQkRLM0VyVWRyQ0ZqSlNYelQ5b3U5RzhXU295SEU4aVY0akdGOXJiakQwS1NEZWtoclN6ZFQ4a1BxcU5lODd4cklCSTN3OFlvZjkyUdIB0wFBVV95cUxQODlhQXlZSS1wOEZOWDNKNzJTbnh4LWV6aHh6elU2UUZfeDg0NGxHaXl4QUxWWXd5YjNRLW9BWjlaczVVSWFRZHBXS3dRSG90SlVHM2x4Xy1FZlduYXhrZUVlNHJSa2RYd2J4dVVuU01QR2ZmQ3cxZ3dOckpjNjFtZ1JVMDBlT1Yzb1Ryb3BIUW5IMC1iVHNZSmU2Tk83N0h1Vm11QWVxVml6cWhwOUNkNWFqZDBINWh4NnFFVUFPRnBsRlVxWGROc1BWZzBhX3E0aDJZ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "\"Shameful\": BJP MP Praveen Khandelwal Hits Out At IndiGo Over Lost Luggage - NDTV",
-          "source": "NDTV",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmNQUjJINGRuN0Fxem9mTnhSc0NVd3YzQ2hZQ0ExLS1oZFVEU0U4cUlYMUVtTlpuRUhwM2tSUzRuZkRRNTdmd0t4NE5meTlXWXNtcUJzRGtEeXNrME52dTlmRFFRanRrd01BNUx4TGVncXBjZ1phUG1TbkRXdEk1ZGdJcFppT3hDNVZWQm5BTHJhYjQ2eGV5dmU0NXM1SHUzUGMweE9MZXlNcm5TY3RBc1dCZmE5enRyZW5pYlNzVXZsNFpD0gHMAUFVX3lxTE9ENjVPaGxPbElrT1dOQTJ2RjF0QzBVOGZiekFDTXBIOHFmOU1MN2ROSEZBNHB6am05SVhsRWVVV1Z4MkhRTFlGRlN2WXpLandUMTFaTG8xdTE5aWJaVHRwVExJYXVYamNBR2EwbHpCUjNpbF9fZnJxY3VZaFhYa2lGMlNmT3FwLXdsa21BVTl5Y3VkYV9DZ1VMMVl5SDBzbUI0a2hqSlFTR2QyWXlKeExLcDZ6R3pfYUFpdGFRQWxQZzloWmQxMWFTUmZobA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "BJP MP Praveen Khandelwal takes part in ‘Nari Shakti Vandan Yatra’ - tennews.in",
+          "headline": "Delhi BJP chief Harsh Malhotra to train party workers in Chandni Chowk - tennews.in",
           "source": "tennews.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZm5Qa2tYSXY4YWlxakhPcU1Qem9BTDM2QkFWUFl3SVFkTWRwYWFHT3ltYWxsSC01YWtFT3JlaTlfY3plSWJtQlZRV2xnb0hVejZveG12TVhyZFdkVDlvSUg3WjNlQy12S1JqZXNnLVVYTmJHcFpTZVV1QndFcWE0N3VmS19Xc0dMc01GZA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2JGRnhFeTdNYjZoNjRMYVh0dkUxODFDQXZmb2RYaktTY3kwR1pEQ083YlNBR29xbWwxbUVpMGZ6N2tPT1RVVGxuTVNWNlBFenBrNFpJYzk0eVZ5TnBxMG01U18zWGxGS05jMFFKYVMzcldCRzkzSnNObGh6VVk4cEsybEZZRmhtMWlRd3lybndMZ2hQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -367,7 +415,23 @@
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVVBzbndlbHluVWRiTUlaMXJUVVF4bG5GWXNuUEhnTXg0QVZYM3ZFTFNWbERQZ0VuTmc1WXNnZ3JuVWVKMTcyR2otTHBoVlVXNnYtclZnNkZNakZDRm9MbUVSLXRiRkFTWmt0S0x2WGlxT3ZUY0xYSWlsSG8wSUxyMGR1b1FhZU81YVEwLTYyaXBRRG52bHpmOTE0eE9CUTV3M05TSW9Pbm5ObHFkV3FXX0h6eUNuMnZBY2tLT0podXpfUzJnOWZHWVpmalFzX1pfaW1GSlFYTjdoSW9HR3hkZjVSUU9UekprUjJLQjRXanRISEVWQ3JhVWZYVl9MZ9IB9AFBVV95cUxQbWlHb2FLOEJLT1N0cHJIWUxxMFk0eHVfckxSVE11bmxIZE1JanFrSFJpYXpBODZIOTAxaDdBbHI1RDctU25ESDVrMGx1WVZxSjZQZjRnYlVPRzRzbE5jV3BOeGx3S0t2UU9sbURWUktxUEllWTU0ZkRKNzlBOGJObDFzdzJUandENGtSWkxYUGl2aS1uOUxrXzdwbzg2VXhuNVc4SGo0a2dpX0Y2MnlGa1lzNG5IRTMxZlNzQWFpbjAzRndNdmlWdlV2a2g2Q1JjWTJRQVJqTkNzMl9oSE43U3doTUNTeTZCRXpYX0FzYTZTQVE0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWG5GWWRneUpucC1lSzRPVGhxZWxtS0phaDRTTjd3VW00VGFtZUsxWnhJRkJDNDY2QTZxempRX3J0NVc5d2s4TlBKZVdwQ1dpcDFFQ0VEajdIeUQtR3p2WE5zNHpZdjJUYmxzVlJkSkN4NzdvSnlIXzNvYW8wSFNSODNjMmNxY1cxd3RVWG9VSlFGcE8zRnIzc21FX1VNeUN6QUxlYXlTZy11cnVQdXVFTUFubF9TSzVTcEdWVUE4YmNxcTBkYkpSSUVrRGVnMm5aUmN4b05CM1ZQMU5nbmdrdllQNWI0LVXSAfQBQVVfeXFMUG1pR29hSzhCS09TdHBySFlMcTBZNHh1X3JMUlRNdW5sSGRNSWpxa0hSaWF6QTg2SDkwMWg3QWxyNUQ3LVNuREg1azBsdVlWcUo2UGY0Z2JVT0c0c2xOY1dwTnhsd0tLdlFPbG1EVlJLcVBJZVk1NGZESjc5QThiTmwxc3cyVGp3RDRrUlpMWFBpdmktbjlMa183cG84NlV4bjVXOEhqNGtnaV9GNjJ5RmtZczRuSEUzMWZTc0FhaW4wM0Z3TXZpVnZVdmtoNkNSY1kyUUFSak5DczJfaEhON1N3aE1DU3k2QkV6WF9Bc2E2U0FRNA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Fresh boost to BJP in MCD: AAP councilor Vikas Taank joins party - The Statesman",
+          "source": "The Statesman",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFlCOFdEYjZsWk1PZm5xSjhyWlVmaG9ueEJXcWt2NWtNUno4cXgxWTNmT3BvaW9YQWNkOFplUm1yZm1JTGRuWExxMUlfMEg2d19SdDdqYm9YdE10eGZJaXZKRnhBb1VwdE5pTHhLaUdRRjlydU1nWGdxRDlJdlBFSUNTU0pzNHpONHBrMlJTbVhnSnUwSUlMeDBDTFRZODZUaTZLdmZUaW1oWjBBNGJTUHdQby1pd9IBuwFBVV95cUxPZlBqeWc0RkZIaTlNV3lmaTJYUnR4LThUYUxiTmxONEVLWkpNYUwtNkpsTE5fc3Q4OWlWNnVIOEhSOG9Wa0xGbjNXSVdfSWg3Z3VoT3FfVktVVC1JWXQ2M3J4eUIyS1dmQ1NlUHFSelR4SjYwYkRXSkFBOWhSQXJBTElsZUQzVjVzc2k2ZVZWTW8zV1R4OTdYbkUxVVZNN1MydDNCTmQxVkJoTWREM1dBRURsQnlqMFZCcGRZ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Jhalmuri turns victory snack as BJP workers celebrate Bengal triumph - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVZCM18wR3p1TXhwMUVxdHZLRXlwSURLbWNBbDFYel9KZnBpZWVMcmFYdHdTX3pSYlJmRTNBTHRZWWhfRi11OUo2UVR3dUNfSlotcmJDRmQwTHZkckFzRjczdDRpSDJ3c0ZNU0VZU0ZkSy1sQ3J2dkE0LTZEeURlcFFmMDZtTEtfOHFLUGpjRDFCQUpPck8yQ0hMa2JKdU8wekhTd2oyeGJzUVNrX2tlVUxEUGxCbF8zM0pyYVlBSVJ5amM5OHpYUDdsX09QbUFqeXlDbmFQb27SAd4BQVVfeXFMTUEyeFFnQ2hqRFpBdG00bzlXOVhvYU04MXRjLXFGNDhIUk4zRW8zaEJOaTY4SThKTXZOeExBVG1BUlZiWThSMWdfMmtXM3prSzY2OV9Rb2FyNWctSmJBaE44SU1XXzFoU1ZFaUV4aU5qR2FRVE1sN19PNVVCN2pzUDlZbi1fQkFjOVg4eWxwVTd6U3RtVC0zTkFIRnAxYXRLaUgyX0hhNEtSNW1icFpMLTFCUVJNYUsxRTljVFZOVFhkeUNrRUh3ZGJLWElpTEtwREtQWDBpeE1XU0RwQ0Rn?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -401,15 +465,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 11,
+      "starred_questions": 3,
+      "unstarred_questions": 8,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 21.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -417,17 +481,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -448,8 +512,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.56,
+  "overall_confidence": 0.43,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -469,6 +539,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 117,039,798. MPLADS utilization: 13.4%. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:47.824718Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 117,039,798. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 1. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.405494Z"
 }

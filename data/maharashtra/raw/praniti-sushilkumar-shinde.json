@@ -4,80 +4,159 @@
     "constituency": "Solapur",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 4321,
+    "myneta_candidate_id": null,
     "slug": "praniti-sushilkumar-shinde",
     "house": "lok_sabha",
     "sansad_member_id": 5759,
     "profile_url": null,
     "canonical_name": "Praniti Sushilkumar Shinde",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 43,
+    "age": null,
     "photo_url": "/mp-photos/5759.jpg"
   },
   "criminal_record": {
     "total_cases": 3,
-    "serious_cases": 0,
+    "serious_cases": 2,
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "445/2021, Sadar Bazar Police Station, Solapur | Disaster Management Act",
+        "ipc_sections": [
+          "143",
+          "186",
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "445/2021, Sadar Bazar Police Station, Solapur",
+        "case_no": "",
+        "other_acts": "Disaster Management Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "03/2015, Vijapur Naka Police Station, Solapur",
+        "ipc_sections": [
+          "107",
+          "120B",
+          "452",
+          "307"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "4th-Jt. CJJD & JMFC",
+        "fir_no": "03/2015, Vijapur Naka Police Station, Solapur",
+        "case_no": "Cri. M.A. No. 82/2019",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "189/2009, Faujdar Chawadi Police Station, Solapur",
+        "ipc_sections": [
+          "34",
+          "468",
+          "471"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "189/2009, Faujdar Chawadi Police Station, Solapur",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:20.200993Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 66070402.0,
-    "liabilities": 0.0,
-    "net_worth": 66070402.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4321",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.049325Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 46.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 0.45,
-    "expended": 0.15,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:30:14.901575Z",
-        "notes": "Official eSAKSHI REST API — Works: 121 recommended, 5 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T15:25:49.668960Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:21:50.048806Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:21:50.045832Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 121,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 1.0204081632653061
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +171,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:35:58.512466Z",
+        "fetched_at": "2026-09-02T15:21:50.044748Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +179,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "\"BJP is doing politics by murdering or by distributing money\": Congress MP Praniti Shinde on Maharashtra civic polls - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTGxCc2JTYmdVUjI3OFdMRTgxTUEyanQ5Zlhna21CbkRBeGlfY2JLTnpQYWtFcWNhQ2VjbnZ6VG04Wnphc0p3UTdvbFdMLWl4MklHcEx4b0NkV3J4U0l0ZHpIenpuLXp3aG5lelo0d0dydGNLc20tSlIyTG1ZSkhDUnoxaS1IRHF6dkR4T2JiY1BXWXVvZmRwbUtPMGpMd0ZPMEJzeVlPV2RhZndpbkpDNEdyZER2Ukt0cnZFSENJX2ZIdmg2MHdLNm1xRXNTekhZQ2VNblpLMldEb2FHRHo2SV84LWNVRGZBNTA4RWJ6MmNXa2F2QnpxbzBwZTVoaElRN080?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Solapur (SC) election results 2024 live updates: Congress' Praniti Sushilkumar Shinde wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNeE1RcHp5UTNsMldfd2RRVFVQb3pNTjRRazlzLS1UVWFtNkFpWUExdzUyQW82WjFDd1NYUkhNOWdPamNEcFZMWEZCNTNhT0dTVFFEZ1huODRwN19CaDl1MEVySG1fR0dYUTF0NHUtaXZCOHprR2k1TXVhSXNQeW44ZklOQkpzNENqU3lKUHNDcFFKd2xHclpIWlVwN1p2anJSRlRCY1JzT3R4ODVWRUFjTC1HSlBGN2UwbUlPcGtiZUZwMXcwS3BQTDNfbElRSEk1TG40djlGd0x3eHAxc092TlhyX3hvYURDRFdUUVVpRDhYZUZxX0l1X2lSeW1LSFNqVVZVbkR5TEUyNGpMQ3dmNHBSRVZCaW9fWWdCdy1SWnNSSTJNUnp0eTM3eGxDNnM3R3pVMTJiLUs0dm9xNDVwNlBMYmNCUmFI0gHOAkFVX3lxTFBLTURQWG56Q2FVZ0hHNENOUXJLeGl1b3JVd21ZcjRYV2RnNUVqd21aT0twSm9hbGJEZDI5NnNrTzhyUmdZZlJ5RE55RXhOUFhsYUx0QU4tTXVhVEg1enN1eFFEYmdDVWhpZUpDQ095Y3JVNkFZX0E2b084VG55OEtNYnpZaG9saDd4amRoSDMyQTkyM3RWZGgwRWZDLXhWUzA0MnNzWWZZUjkxeWQxdkJJLVdObTlIYTc3bkZtd3RvX2RXVVpvSlExMnV5OXh4bnVsWXFNalhoTWdXbFZ0NHVSdEpFd0poejdBdElmOWxkUUo3WWpWZExJbkhETjZTRHVYYm1tUV8xZkU2OFpRNWRZcjN6dFd5ZEhYSU5McU1VUG5QblBuM0djaWV4Y09VYXFPeUNUeXo5M09fTTBhUjVCbXM0dmVRcTFVelFDVnc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Maharashtra BJP struggles to find a candidate for Solapur, Congress set to field Praniti Shinde - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVElJMEVKeGgzNTFRX1F2d3ZqSDd1SlM4dENzcmMtZUZSMlNXRTFKZm5JZnAwdU1mZUFQaGlmNy02Tk1vUjJpbWNQWVgzZVNhRlJ4UWI3N2xjZTNiUUZJaTgwZ1ZTWW9aTmZPWjVHM2V2UGppNDNZUFNzTGhyeVhVS3lnY3hLWVBWQ2ozb2s5ZVZBMkdVX084NFVXSEREWWJVMEV2czRPYzQzRnpnWURJLURpb1lFZVZydUpudkFBc9IBxgFBVV95cUxQOFFVeEMtTnpvR1FJT1lzTEZqdjNJLTgwNGhDalNwVzl0WkFWeE01UHZaUElITS1heVhqenFvWFJSbGtfbDdWRmViYmNxdkFpU0g1S2VFMmxFcEdUcDl4M25xano5dWpRc2I2Ri1aeG1KYUNXVXZ5UmdYWDZiYU5HOWdtMzN2UWk2d2N2RWc4aFJIWjZsZ01pQ2tmaWRUd2QxdjRqaHpRc0VBVXVVM2tTX2h4aTRaejFSLTVhU01FNHRUWGYzNnc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Former Maharashtra CM Sushil Kumar Shinde and his daughter Solapur Lok Sabha candidate Praniti Shinde cast their votes - The News Mill",
+      "source": "The News Mill",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcmdVUWt4ZHhJYkFfNzZudDFBLUVrY1RMNWdaMnZubFFZci1OZGRkeVR0cDdUVVJ6Tzh3SG4yX1FCYmx5WklHb3pDX1RsRjFBMjBFVy1xZGs2NUZYOGRmVzhLMTlLVmdYRXd5Y3NvcUgtWjJCZjNOQ0lSRmNkcWJQQmpSdGJSV2tJU2dseWJhZWlmc3RNaUxONDFFMHA1VWg4Skt2ak9sM3VMR2hBRFhYajVqLVl3NmhVdmlPeUtwVXR4VFNDYXFfYzRxMDYxMkZXV2Y2UHlFMWZqNUM4aTRUOElFVVY2dw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sushil Shinde's absence, split in Muslim vote: Problems aplenty for Praniti Shinde in Maharashtra's... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUXI2NjBvSk54Q3lfLUwxMjY1cU9mUHVySlQ1a1RzekNnMkx3ekxqTzl4RXFDcE90NGpPZEFFT1paOFRYc25ULS1nZFhxSkJuWFQ2NUJQTVFta3ZOb3dIckRJRk9yd0tFY2JtaWdreUt5TG9ESFppbVhFVllISmZWeTBsdzFjeXc5QWdBUWt5Qk5veTFTY3NhbW5YRGNSa0lnY1RnY2VHYTUxd2tEbVJ1dTBMRXJsZzBCY0NBS0tiMDBpV2hFQWxJa21mOFVTalRNU0pwdFJsOTRRNlM5ajhoSkg4ZmEwSzkzUndnR0Jn0gHzAUFVX3lxTFBuTmRhYWJSWDVvMG1yazhsOVlySkM2RkFTTVF5aHFXUy1qVXRMZ0hLcHBUeXI2LVlzeTAyOWpHRFZHV3ZsUXYxekp4SDdHSjIxaThPNTE2WjJXazBFbkhXV214dzNhTTNfYjg0dUk0MTVkWXAtVUlyd3JyOEdLWUplLThEdDFpQVRtRkl4TGtGOFlCTkR6OWdIWFlicEhLSWcyNzEzRXk4SVBzS3o4RjZic09ZX1B1dy0wamp5bkxKSzBvUFdIbzR0bmlNVWxEYzFvdC1jeE1IQllOMmtCV2lVUWxRT2xodzlfRnMyWUdxRXBjQQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:36:57.837514Z",
+  "collected_at": "2026-09-02T15:25:49.671212Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +248,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.611014Z",
+        "fetched_at": "2026-09-02T18:38:08.177865Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +264,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.611024Z",
+        "fetched_at": "2026-09-02T18:38:08.177877Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +280,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.611029Z",
+        "fetched_at": "2026-09-02T18:38:08.177883Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +296,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.611034Z",
+        "fetched_at": "2026-09-02T18:38:08.177888Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +312,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.611041Z",
+        "fetched_at": "2026-09-02T18:38:08.177895Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +328,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.611046Z",
+        "fetched_at": "2026-09-02T18:38:08.177899Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +344,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.611051Z",
+        "fetched_at": "2026-09-02T18:38:08.177904Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +369,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "@ShindePraniti",
+        "url": "https://x.com/@ShindePraniti",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "@pranitishinde",
+        "url": "https://instagram.com/@pranitishinde",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:22:13.437238Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -263,14 +406,6 @@
     "negative": 0,
     "neutral": 10,
     "top_headlines": [
-      {
-        "headline": "Former Maharashtra CM Sushil Kumar Shinde and his daughter Solapur Lok Sabha candidate Praniti Shinde cast their votes - The News Mill",
-        "source": "The News Mill",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcmdVUWt4ZHhJYkFfNzZudDFBLUVrY1RMNWdaMnZubFFZci1OZGRkeVR0cDdUVVJ6Tzh3SG4yX1FCYmx5WklHb3pDX1RsRjFBMjBFVy1xZGs2NUZYOGRmVzhLMTlLVmdYRXd5Y3NvcUgtWjJCZjNOQ0lSRmNkcWJQQmpSdGJSV2tJU2dseWJhZWlmc3RNaUxONDFFMHA1VWg4Skt2ak9sM3VMR2hBRFhYajVqLVl3NmhVdmlPeUtwVXR4VFNDYXFfYzRxMDYxMkZXV2Y2UHlFMWZqNUM4aTRUOElFVVY2dw?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "\"BJP is doing politics by murdering or by distributing money\": Congress MP Praniti Shinde on Maharashtra civic polls - ANI News",
         "source": "ANI News",
@@ -288,19 +423,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Cong fields Shinde for Solapur LS seat | Flatly refused BJP, firm believer in Cong ideology: Praniti Shinde - The Indian Express",
+        "headline": "Maharashtra BJP struggles to find a candidate for Solapur, Congress set to field Praniti Shinde - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY3VvMm9DSmRTRFZwQWtQaGU0NzR3eHBpUjFRTHo3RTJ3TkZ1SEozbnBDeGo4X2pVcG1rS1NRa2pKdFo4MXNYWWNycjZldVF5eF81SnJrUFFXWWlEbHBKUXR5ZXEyNHVjMVhYSC1BM2U4cFJkU3pCV2sybmJaaHVFN0dQSnBMS1BEaXY4aDczSzVOYWF3ZmZWTTBGUXZnaF84UGF4WVFIOU9ySHBRUXNzbTRHbE9HQzZjVmVYUG5rckk1RFN4MzlxUzVUVTBPUnZvd1U2SzN5MWJCdy1OOVppY1VHX0NWakhDcHdPdmdPSdIB9gFBVV95cUxQbkY3dWd1VUJnT09GR3NPVDFFODktOG9LOUNpdDRQcW1oU0VZMnE4eDIzdkwzdmtDVmpPSnptd3pWY2RNbFJXWmFIejBEODZ1eGlJMlJYc01lTmVVRHNoTFVDN2pBclR1YVV5SEUwN0xPbldNVUVJZkVLaktIZl83ZTVrdThOR0hBbVlqY0lOZ1BxSDRRWnpObjRxY0JOMmVmZ0xyNjU3SGsxZVJhdE1RbHRYa0xKZXVmZVdCR0p0bFNRcWJ1SjhzTzBvVGtrUHoxaU93RGhmRTRNWm9HcWhPUG9XRjVONEZNaUVYMmZDa2pENGF2Snc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVElJMEVKeGgzNTFRX1F2d3ZqSDd1SlM4dENzcmMtZUZSMlNXRTFKZm5JZnAwdU1mZUFQaGlmNy02Tk1vUjJpbWNQWVgzZVNhRlJ4UWI3N2xjZTNiUUZJaTgwZ1ZTWW9aTmZPWjVHM2V2UGppNDNZUFNzTGhyeVhVS3lnY3hLWVBWQ2ozb2s5ZVZBMkdVX084NFVXSEREWWJVMEV2czRPYzQzRnpnWURJLURpb1lFZVZydUpudkFBc9IBxgFBVV95cUxQOFFVeEMtTnpvR1FJT1lzTEZqdjNJLTgwNGhDalNwVzl0WkFWeE01UHZaUElITS1heVhqenFvWFJSbGtfbDdWRmViYmNxdkFpU0g1S2VFMmxFcEdUcDl4M25xano5dWpRc2I2Ri1aeG1KYUNXVXZ5UmdYWDZiYU5HOWdtMzN2UWk2d2N2RWc4aFJIWjZsZ01pQ2tmaWRUd2QxdjRqaHpRc0VBVXVVM2tTX2h4aTRaejFSLTVhU01FNHRUWGYzNnc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Congress MP Praniti Shinde calls Operation Sindoor govt’s ‘media tamasha’; LJP MP fires back with ‘this is new India…’ - financialexpress.com",
-        "source": "financialexpress.com",
+        "headline": "Former Maharashtra CM Sushil Kumar Shinde and his daughter Solapur Lok Sabha candidate Praniti Shinde cast their votes - The News Mill",
+        "source": "The News Mill",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZG56LW1tZnZORVFWY2ZQVTdDRGhHS1BxYjhaLXlnajZhVUJTLXBrcE1RRjIzMUFEZFRybVNmMTZRal8tRkQ4WVhodUw1bDd3RzZsSWVzRVg0UkZROVlRd2dtM2tNZU84bWZrWHhwaDNMczFtR2xpWFF2WHdkWmNiMGVjenpnY2E1ZnpIU0U5OGhVVEJIc0QtUEtRWFloMVFYNWZiYld4cTdBdnV3VlpaWDdpRVA1U3RPYVhnREpCRU1ycWtpYTBOSktsWWk0NXBCN2NwaG05Z2k1WmM2bUxkM1hnUU84MEdsYlhYMDFDaE85ai11a1I40gH-AUFVX3lxTFAtNG56WUlETFdDSkx6TWJuMmhLaUhuRUNGc05tcV9IWjNoazh4eXktY3RyWEI3UlpMOGNNWkRET1dmTVhRNEs3QUxHa2QyZmMzblRCWnVwN014QU81NVJCeFM3VDBkQm9fenN4b0VGNEV1aUZuQk5YajU5UHVMNHZYUDlnUVVKbmNtOC1WNG1hQ01ZVEsxS1hyRnR4ajgwUHhuLTRBT1c4cXNqb3pZdm5iV1I1TmhhUFpqLVprZjl0UjNCQlZobC1WRVNoT2NIOVFPRXZkSzJ3U1ZnaEhvMkpqSGhibXNNTld6anFGQk1URmxWWElxbkFDSGxUakl3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcmdVUWt4ZHhJYkFfNzZudDFBLUVrY1RMNWdaMnZubFFZci1OZGRkeVR0cDdUVVJ6Tzh3SG4yX1FCYmx5WklHb3pDX1RsRjFBMjBFVy1xZGs2NUZYOGRmVzhLMTlLVmdYRXd5Y3NvcUgtWjJCZjNOQ0lSRmNkcWJQQmpSdGJSV2tJU2dseWJhZWlmc3RNaUxONDFFMHA1VWg4Skt2ak9sM3VMR2hBRFhYajVqLVl3NmhVdmlPeUtwVXR4VFNDYXFfYzRxMDYxMkZXV2Y2UHlFMWZqNUM4aTRUOElFVVY2dw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sushil Shinde's absence, split in Muslim vote: Problems aplenty for Praniti Shinde in Maharashtra's... - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUXI2NjBvSk54Q3lfLUwxMjY1cU9mUHVySlQ1a1RzekNnMkx3ekxqTzl4RXFDcE90NGpPZEFFT1paOFRYc25ULS1nZFhxSkJuWFQ2NUJQTVFta3ZOb3dIckRJRk9yd0tFY2JtaWdreUt5TG9ESFppbVhFVllISmZWeTBsdzFjeXc5QWdBUWt5Qk5veTFTY3NhbW5YRGNSa0lnY1RnY2VHYTUxd2tEbVJ1dTBMRXJsZzBCY0NBS0tiMDBpV2hFQWxJa21mOFVTalRNU0pwdFJsOTRRNlM5ajhoSkg4ZmEwSzkzUndnR0Jn0gHzAUFVX3lxTFBuTmRhYWJSWDVvMG1yazhsOVlySkM2RkFTTVF5aHFXUy1qVXRMZ0hLcHBUeXI2LVlzeTAyOWpHRFZHV3ZsUXYxekp4SDdHSjIxaThPNTE2WjJXazBFbkhXV214dzNhTTNfYjg0dUk0MTVkWXAtVUlyd3JyOEdLWUplLThEdDFpQVRtRkl4TGtGOFlCTkR6OWdIWFlicEhLSWcyNzEzRXk4SVBzS3o4RjZic09ZX1B1dy0wamp5bkxKSzBvUFdIbzR0bmlNVWxEYzFvdC1jeE1IQllOMmtCV2lVUWxRT2xodzlfRnMyWUdxRXBjQQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +477,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 31,
+    "starred_questions": 9,
+    "unstarred_questions": 22,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 60.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +493,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

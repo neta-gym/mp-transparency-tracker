@@ -4,16 +4,16 @@
     "constituency": "Gorakhpur",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8791,
+    "myneta_candidate_id": null,
     "slug": "ravindra-shukla-alias-ravi-kishan",
     "house": "lok_sabha",
     "sansad_member_id": 5144,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/5144.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Gorakhpur",
       "state": "uttar pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 8791,
+      "myneta_candidate_id": null,
       "slug": "ravindra-shukla-alias-ravi-kishan",
       "house": "lok_sabha",
       "sansad_member_id": 5144,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 55,
+      "age": null,
       "photo_url": "/mp-photos/5144.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:10.618968Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 433235340.0,
-      "liabilities": 17814634.0,
-      "net_worth": 415420706.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8791",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.007576Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 83.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 2.13,
-      "expended": 1.17,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:16.626726Z",
-          "notes": "Official eSAKSHI REST API — Works: 9 recommended, 9 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T17:10:50.199325Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:06:41.551292Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:06:41.548023Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 9,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 7.959183673469387
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 75.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:01:24.484142Z",
+          "fetched_at": "2026-09-02T17:06:41.546906Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Ravi Kishan Wins An Award Not For Films! - Rediff",
+        "source": "Rediff",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWUZDY2phZkNHaDhpeGlBeWdCeEtzeW1tV3YtM2liTG9MQ1FWbmc5LUdBX2JwYjFPU3hvTktqQUstRW9EcUo2dWVXTVRCQUpWOFVEM1laSWRPNzh4QXRScFoxd2lxQ253ZkpkWDBxc0pCVURPMHB6WE1jTEVpbDE4NEx2TW5leUxSUlVRaWVxVnLSAZMBQVVfeXFMUHZEcnQ4X1NjLTd4RkZrYUFhNlZkQ18yaWs4bWg0UHlOUGtCbmpWN3daMXJGX09Jai1ESF93eHJUNEp4ZXd6SnRMR21nQ2JmUEVsWVo1bnlqTl9FSVh3aEhGSjF3cDh1SGRaazNqeks2RWc5azY4QndoaDg5SFVhMTJvZWdUajRfMGVkSFVIdjdMdzlB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gorakhpur Election Results 2024: BJP's Ravi Kishan wins with over one lakh vote margin - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaVZrRjdGNzBrNVFNMGJxQnBVcHpHWndnX3daejJyeHNhQldEN1I0MmZrbWd0V3ZkTXg2TXdFcUJBdUgwYzlhS1hRWmFXeHpGY19hT3hFNGVvWkh3OVBRWFhHUU1HSmVzb0p3Nk5FeTdHN0RTM05ZYWZ0ZmJ0eE5rTndZWVljWmtHbGt3ZmI3VUtqYW1QUFUyWmk5MlhNQ1pCS0NIUDVoVEpNZTFOaENSZjQ4aGpRRWNKV216VGFUUzZwZVlHNEJNcTh0MG5ieVdxZ3B2RlE4dTRvX25xZF9ENDB4aGlTZlItMDBpWFl5YjJmNHNtOF9Ga1RpVUlVUXZ1emtTUUFiT0pDWmF0bzVaMGt0OFVoYWZzUGIxQWpxS29IdGVUWFJrc253NEdDSlY2UFlmOVZNazNqci14MUZ6c9IBxgJBVV95cUxNc3BoWC1WNk4xcmVvMG80bnZuWTl1Z1lGcWRhRW9xZm1neVM1b2lLYkJTc3FWdWtmN3N4blBmZklIcXBJaUxUZGRXX0pFQjBmVVQwTURLRGd2YktXYk45YldxelBDZzhGbDlLQWNNYW9GNDl4UmRTcjluRzBCN1pLQWc1bHlKX0VYZXBmYlQ1OXR6dmMwVjE4X0FsLWN2QXJFMl8wVEt1RHFFX0F6UXJMTjVwd3Nwdk5zQlJmQWtpaTAwTllHM1B6MUNKZXJUcS1kTm9hVVhveEx6U2VDVHV6TERXNlBLSl9lcDh1bXZ3ZlkyRVNfZEtZTVdlaktUX1RPbEN2WlZPXzEyel9aOVBVNnduVi04M21wbTFTQUJ1NFBUdVNYNjBWY1N2ck1EdmQyVHNSNnZ5Uk5GS3p0RmtudmFhTWhPQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gorakhpur lok sabha election results 2024: Gorakhpur Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVi1fbDQxVXR0WGpyc1BMd2RZd0dla3hmUEFzM1lwaEZPTWJ5TGhXS0VJendvUk1uYzVkdC1iR3UyNFNpcy1jSHpwMXBMdWVaaTBqanh6dk12VnBKVG1vV2tHZzMtMXB3eEdsXy1TcFZvZlpLdG5oRGlzOF9nU29KYUZDM3lFeUpPV0QwOENxc256bGktOEFBd0VUaw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kajal Nishad , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcThmM3R2LWpaVGE0U2tMYlpVSkRwZ01FMmExc2pWZmQ1OWJ6LU5BZnFOUDRMXy1lbnlZTnR1czVrQ0IyQ1U3dHcwYWRFOEpCcy1wY1hLajEzbmg5V3RwcC13R2Nkbk9XTDZPamlrVk83Z20tWHh4RDNaZEotSzYzTWNhUQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:01:45.210594Z",
+    "collected_at": "2026-09-02T17:10:50.200439Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.102795Z",
+          "fetched_at": "2026-09-02T18:38:11.703296Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.102803Z",
+          "fetched_at": "2026-09-02T18:38:11.703307Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.102808Z",
+          "fetched_at": "2026-09-02T18:38:11.703313Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.102812Z",
+          "fetched_at": "2026-09-02T18:38:11.703318Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.102817Z",
+          "fetched_at": "2026-09-02T18:38:11.703323Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.102822Z",
+          "fetched_at": "2026-09-02T18:38:11.703330Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.102827Z",
+          "fetched_at": "2026-09-02T18:38:11.703335Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.102831Z",
+          "fetched_at": "2026-09-02T18:38:11.703339Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,32 +338,57 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
-      "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
-    },
-    "news_sentiment": {
-      "total_articles": 10,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 10,
-      "top_headlines": [
+      "profiles": [
         {
-          "headline": "Ravindra Shukla Alias Ravi Kishan - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
+          "platform": "twitter",
+          "handle": "https://x.com/ravikishann?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "url": "https://x.com/https://x.com/ravikishann?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "followers": null,
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVZNNVIzN0VYalVlQWdoZ3JZUHJNY3RpUzNleHJYU0ltcEFWVXZ0NFNUaThMdXlQdkg3dlFKTXlINnU5OXFGQ19wYUdjQWdEX3NpYXFjbnBBMnUwcWU0TVBjSEpPNEZnUkQ1dndKR2tvS0Y0cHByZHk4OUp5UEpVZzUtQ1JOMDBrOElhbi1aZ1ZOOXA4OWV1NDg4N003RWM?oc=5",
-          "sentiment": "neutral"
+          "active": true
         },
         {
-          "headline": "Political Profile of Ravindra Shukla Alias Ravi Kishan, Bjp Party, Gorakhpur, and Net Worth - India TV News",
-          "source": "India TV News",
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/RaviKissanShukla/?locale=hi_IN",
+          "url": "https://facebook.com/https://www.facebook.com/RaviKissanShukla/?locale=hi_IN",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/ravikishann/",
+          "url": "https://instagram.com/https://www.instagram.com/ravikishann/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
+      "total_followers": 0,
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T17:07:12.189982Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
+    },
+    "news_sentiment": {
+      "total_articles": 9,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 9,
+      "top_headlines": [
+        {
+          "headline": "Ravi Kishan Wins An Award Not For Films! - Rediff",
+          "source": "Rediff",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQTl4N2xkdi1RTWY5em8wai1wR1RUM2EtYUFQakJtYktzUko4WWVlMnhjaW4tNG12Y2R0bnpDVU14U3ZWYlV0M2xFMFdsZ251Tkd3QVE5SUExc2hibnFjVW5BS2M2VTRwbEFaRHdfSjY5QW5qb1Y0UEtJRzI3UHJicTZMM0RmSG1BM3dsYTBhXzJtZVNPYlI1TnQxLWZORzBOTGNycmh4b2R2dnA3ekU5M0c3SmREYkJfSVF5Z2ZWQjNGTjJGcVl4QUJFd21MNnZrZ2lCMzluaG5mR3k4VDREa2lKa0xUeUZrdzhRU3BjTFMzbFUtaVQwSmVNdzI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWUZDY2phZkNHaDhpeGlBeWdCeEtzeW1tV3YtM2liTG9MQ1FWbmc5LUdBX2JwYjFPU3hvTktqQUstRW9EcUo2dWVXTVRCQUpWOFVEM1laSWRPNzh4QXRScFoxd2lxQ253ZkpkWDBxc0pCVURPMHB6WE1jTEVpbDE4NEx2TW5leUxSUlVRaWVxVnLSAZMBQVVfeXFMUHZEcnQ4X1NjLTd4RkZrYUFhNlZkQ18yaWs4bWg0UHlOUGtCbmpWN3daMXJGX09Jai1ESF93eHJUNEp4ZXd6SnRMR21nQ2JmUEVsWVo1bnlqTl9FSVh3aEhGSjF3cDh1SGRaazNqeks2RWc5azY4QndoaDg5SFVhMTJvZWdUajRfMGVkSFVIdjdMdzlB?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -322,23 +400,31 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Gorakhpur: Why did Yogi pick Bhojpuri actor Ravi Kishan to contest from his bastion? - Newslaundry",
-          "source": "Newslaundry",
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+          "source": "Sarkaritel.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUJEN3VrRWFWOXQ2V0hEUjc4SU41SjRDMkhTdnk2RFR5NFlDUmxwQVdvRmVneGVKdHZ2RnlqNkxwbnVYZl80RWlPMVlKZ2JvcHpmV2R2R1EwUDdNVUFvY21aTV9GZlRuRnVZNy1yY3pmbDdxdFdRaGd2TFJldlRiUVp0ckw5azI3NUZ1amdpR0dZTGF0RUHSAasBQVVfeXFMTTFrbkZlczFBZ3pFc1BsaHd1WGRVc3ZaSldBalhJTmtOVk5rMUJQWVNfUThZNFJsaW55UDhhRjlON1dxU1BmRFRDREpBOHFPMzdnWVZiVDJJYTdLQTl3R2U0UXhOU3JpWUtxZzBtaFM0UC1QWDExWHQ1QTNJbGl4MVF6RnQ2SVRLWUlYZ1lUVXVMRS1tSFJVX0g5NklsRWx2MFIyamRjczh4WGFZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Gorakhpur Election Result 2024 LIVE Updates Highlights: Ravindra Shukla alias Ravi Kishan of BJP Wins - News18",
-          "source": "News18",
+          "headline": "Gorakhpur lok sabha election results 2024: Gorakhpur Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbGZBbU9HZUVobFlHWFRjUXhPMDBsdDBmMzFqTnhkT2pVUFdNVnZ2LVhLLVU0QlVNdnFkT0FFbXh4bFRvQ0FXMElnM0hPbXp1UXlpVURtXzZJSWczQXhWZkpuMlVpaEVlb1FfVURqZUlncnRNbE15cW4zOEhpbDNvVFF5QUlJZHl5aER0ekN2WmRQRl9mRXVJeXYxWE5YXzRkajZZNkN2cnQ0azgyOVNYR25zbWd1WUs1dUVIVXpWdXJpVWRwbjE2a1oxM0p4dmx5aDJKSC1oOGJNYkRHZzZURWFteXbSAeoBQVVfeXFMTmVRZV8yZXNrV3Jzakp4R1NJcmFOclRqWkZMalB1S213cl8zMHlNU3pLaFpucFhOdzJxQ1lDXzJOemtGZFNxQnVoNUNfMzR2NUZIVzVQMnVlVEJ4RWNXNDgyLXc3NnpUNDh5TFNnMW5lbUwxQ0hYZ0RXVDhHa0tUdjJJbU9KTVI1UGs4M3FuYjBGUkpmbE12eWFqY0dZeHlFWTNxRVRxemREbjRXYXlNNGRDTlB4U3VTZ2lsbmNpTVdySlFCS1JrVk9zM2QwZkx5cjl4YzEzQWFDSkttZ0JCOWRMb0NjSktycnFR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVi1fbDQxVXR0WGpyc1BMd2RZd0dla3hmUEFzM1lwaEZPTWJ5TGhXS0VJendvUk1uYzVkdC1iR3UyNFNpcy1jSHpwMXBMdWVaaTBqanh6dk12VnBKVG1vV2tHZzMtMXB3eEdsXy1TcFZvZlpLdG5oRGlzOF9nU29KYUZDM3lFeUpPV0QwOENxc256bGktOEFBd0VUaw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Kajal Nishad , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcThmM3R2LWpaVGE0U2tMYlpVSkRwZ01FMmExc2pWZmQ1OWJ6LU5BZnFOUDRMXy1lbnlZTnR1czVrQ0IyQ1U3dHcwYWRFOEpCcy1wY1hLajEzbmg5V3RwcC13R2Nkbk9XTDZPamlrVk83Z20tWHh4RDNaZEotSzYzTWNhUQ?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -368,15 +454,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 73,
+      "starred_questions": 21,
+      "unstarred_questions": 52,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +470,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 75.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,11 +501,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -436,12 +528,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 433,235,340. MPLADS utilization: 8.0%. Parliament attendance: 75.0%. Questions asked: 73. Debates participated: 6. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:54.103545Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 75.0%. Questions asked: 73. Debates participated: 6. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.704035Z"
 }

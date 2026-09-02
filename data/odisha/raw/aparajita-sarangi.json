@@ -22,62 +22,107 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "203, Airport PS, Bhubaneswar | Section 3 of ED Act 1897, Section 96 of OUP Act 2003",
+        "ipc_sections": [
+          "143",
+          "269",
+          "270",
+          "149"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "JMFC- V, Bhubaneswar",
+        "fir_no": "203, Airport PS, Bhubaneswar",
+        "case_no": "CT-4391/2020",
+        "other_acts": "Section 3 of ED Act 1897, Section 96 of OUP Act 2003",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:47.496632Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 24754213.45,
+    "immovable_assets": 21500000.0,
     "total_assets": 46254213.0,
-    "liabilities": 0.0,
-    "net_worth": 46254213.0,
-    "previous_total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
+    "previous_total_assets": 3167760030000000.0,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8040",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.686487Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:42:33.444397Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 36.8,
-    "growth_ratio": null
+    "wealth_percentile": 37.0,
+    "growth_ratio": -0.9999999853984479
   },
   "mplads": {
-    "entitled": 14.74,
-    "released": 14.74,
-    "sanctioned": 6.93,
-    "expended": 1.9,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:23.827701Z",
-        "notes": "Official eSAKSHI REST API — Works: 274 recommended, 198 sanctioned, 19 completed"
+        "fetched_at": "2026-09-02T14:46:36.974347Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:42:31.358118Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:42:31.355391Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 274,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 12.890094979647218
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -92,7 +137,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:13.211959Z",
+        "fetched_at": "2026-09-02T14:42:31.354303Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +145,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Bhubaneswar MP Aparajita Sarangi's report card says 88% grievances resolved in seven years - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTGJsck5ndnZaRVV0bXQ1N3RpSDMwM3l4eTg4T3F6Ni1fNHE5cWM2emg5emlrR1IzX1dqYm9BOUVJYnBxeDVKU2lLdHdkRm1SbDQ3bnM3Z3lkUHltUXVSM2JKQUFDWkpfdDdLZkE4UnRZWmFpZlBONUxQRWR1ZUZLMlV4a2RBLXZvMnMxOTR5VC1nX0t5emJ3bUpMUkxYVHZVUWtjZkRoU216czF0ME1BTVZGT3p0NldtNHl4ejhneDZQN3Q3QklZb1FnZmR2eDFzWDVoRnh0ZjM4SUM2ZmJVUtIB7gFBVV95cUxOVHdhdF85UVlXNFJVN25Qc3hrV1d4eEJUcEQ1LUlQczFkUWNSN0FnNGJjeEVMWkplVjA4WDJqYVBtZVFRSFNhUEpybzR1cndGdVpqcDVKbl9ybjR3NjFTZERzSk9PRWc5cjFLaWdTbnhTVFVPSXNOeXgxeFNfWWlBalRtaXJQR1JxeHB3enVRaDd3MlZjXzQyVkl0WGJfRmJHQTYzaGpVQm93ZlMyYVFJWklFQV9tU3IzSEZiSHZBREU5US1ZcWJLRjFGTjhUR1hlTDhSUS00Nk9PbElFSjhlXzJoNF9aU2E2NjB6UHFR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Constitution under 1 roof - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3hkLXlNby0tVGRGTzdzSFVoR29wYjR2WVAyT01zelctcU1JNkkyTVdQX182SHM5QkRSNTUycVJjSXNuaFl4bGVjS2I2RHdtUDZnSFpBSWJ2aEdOcUlYS3RlNVdWbzRCa0tiNGhhcFN2cjJlWmhhSm0wZDRtcXpHRnI2VWFud0VuT3k5LWdqQWxsa3V3bnVsaXNMR1NXREVXUEwyRjhSMnFKTGgt0gGsAUFVX3lxTE1feGQteU1vLS1UZEZPN3NIVWhHb3BiNHZZUDJPTXN6Vy1xTUk2STJNV1BfXzZIczlCRFI1NTJxUmNJc25oWXhsZWNLYjZEd21QNmdIWkFJYnZoR05xSVhLdGU1V1ZvNEJrS2I0aGFwU3ZyMmVaaGFKbTBkNG1xekdGcjZVYW53RW5PeTktZ2pBbGxrdXdudWxpc0xHU1dERVdQTDJGOFIycUpMaC0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Won't delete': BJP MP's daughter's post on Pradhan's exit sparks row - Rediff",
+      "source": "Rediff",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVdrSlU3dlZhVGdYMjE2TWhkNlZFV25mM3U1M3owcVNmTmlxcDhFVG41TUluNk5BYVlScDFIX21FQVd5cjVGVm5TUDRDSXAxVjA0cFJwZHFsMS1PY2h4RGJWdkNSRWU4RUZ3RmVHUWJXNmN0RkZtb0MycEZkaTZ4elc0eDYtTGZFdlVqNjlGNzdPUkkyUEdEX0dqcEd6aWs3ZVFvSElYRHhWT2ZiOF930gGyAUFVX3lxTFBZTlktd0o2U1YwTUNfaDdQV0JoLW44Ukd0VDZZQ1d6RlFTWWRKeW90WGVNZzBadnF0ZnJ5cG9Rd2thVHNxS3Vxc3ZVMlQ3dWFVYWMxMWlsbHpRWVlKMFEyQ2pkN1h5dHlMYmRhOV9fX09nYU1XbWJEMENQMkVTRVZQZDdwWU83OXlrdnNuSlcyNVZ3NjJQSDh6TVUzdktsV2NsSDVwWEFWVm1JLTBVTERtMWc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Aparajita meets Chief Minister Majhi, discusses metro rail plan, other key projects - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ055aHV4aldCVzk3S3dzTUxSMHBVRjJrbXQ4alpSUmdHVFRJZFlOLXpKMDJXeHZvSlVOX3UyZkVreVEzY0w5NVp3Z2ZzYUVoZWlxckZLZUF1RHRidkN0bUNzYkJCalpCblNnekZGWE5SeXJSbk12TkV0X2pReUwzSm42S2ctU21xLXF1WFk3MWtBWjFibldvQ21yRzRidFYzVFJsNHBTZHVDUWYtZUxjaEhfcWZuMWxLWUkwYjN1MURsME9vRlpoU1gxbThRYzRpQ3BIYzZXTnNyakHSAegBQVVfeXFMUHBPenF2bEdGMTN3Y05zd2FHYUF6dXdVenlZWnc4VFVwZHNMaGRKYWZPNERnREVzYjFSZWEtUTVveDE0UDlHYURCNjJLNV9pd0tNSVN4ejM3dTdUTGQwNExOaEUwNGhKTXNMMzdIUENmSkN1NDRfRlRkaUFaOEJSamNLTzFRUGluTWJhMU00MkxFd3Y2RFBNRmtveE5XSjVfWW5OalpzdUd1dUxBZVpSRmhfTXhlZ3pHUHZ4amZGOVRoYTA3QXVNTnl4RWVNelZEZC1mVUtjdU5vTk5LWDZWUXR0ZG5tN1pNQg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Viral Insta Posts By BJP MP Aparajita Sarangi's Daughter On Pradhan's Resignation Triggers Controversy - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZEhla0FwT1FyQ19QWGw4RFF3TVFCbFpGTTg5UDFzaWtQZDM4NFhBRld5QXdiN0xHQV9sc0tDYkxQYndIZUM5TFMyTVVrUE5KUnVFQm1QMnA0cFhPZ2IwMXljeFlESmhCdGk5WHJSLU5ObjByQXI4enp6UWtoQ3pEc3RTYmxGS05za0FOLUs0WTg3a2VkWHhiQU9VS3YxQ3kyS2NCbmZIRnQwMnEtOGdDRk85aHZGdnlra3VtZ09BVmN3Q2J5bmpGSnItR1RUeGtyWWNkc2ZTcDc5SzktbkRyNkY4R3M5TEQ1YkVFT2FVb1BZX19rMkHSAfsBQVVfeXFMTzVNR0Q4RS01X2lyMEtqVklIZkdSc1FsTkRXOXpzWGQyZmZ2YU04czltaVpVNmRCcWkzU0YzVlpOWjJHa291dTdSMDNkdFZ2TV9RMmtndF9oTGFmY2pfYmEzeVYyYVZiRjFZcXNXOXhvVnBuaUpQcTRCbHpmLVBacVlMUkZTQURFWDlucU12NjZ0V0NVWUhjbE9Uc1k5aFVfa3ZmVEswMTU3MEZHNlJTMGtBZ3RPQ3JMOFJoUDZ0YmhjUXZyRlFWamkwNmhZVHM3YnBUVlAzWW92dEJSSmVIWl9WeE5iNUxhVEpqZkVmQThwNWYyUjlxQUxOSGc?oc=5",
+      "sentiment": "negative"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:19.253666Z",
+  "collected_at": "2026-09-02T14:46:36.975520Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +217,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.173882Z",
+        "fetched_at": "2026-09-02T18:38:08.679082Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +233,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.173891Z",
+        "fetched_at": "2026-09-02T18:38:08.679094Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +249,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.173896Z",
+        "fetched_at": "2026-09-02T18:38:08.679100Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +265,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.173901Z",
+        "fetched_at": "2026-09-02T18:38:08.679106Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +281,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.173907Z",
+        "fetched_at": "2026-09-02T18:38:08.679113Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +297,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.173912Z",
+        "fetched_at": "2026-09-02T18:38:08.679150Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +313,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.173916Z",
+        "fetched_at": "2026-09-02T18:38:08.679164Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,57 +338,82 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@Aprajitasarangi",
+        "url": "https://x.com/http://www.twitter.com/@Aprajitasarangi",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/Aparajita Sarangi",
+        "url": "https://facebook.com/http://www.facebook.com/Aparajita Sarangi",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:42:58.241179Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Peeved over poor state of Khurda DHH, MP Aparajita walks out of review meet - The New Indian Express",
+        "headline": "Bhubaneswar MP Aparajita Sarangi's report card says 88% grievances resolved in seven years - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXdkNWdMSjRwX29ROTRBOE1nUHd5UVJDTjgzc1c4cHhBOVRwdHp0a3ZJTWF6M2dZMFl3UWltUHhYbGVIdWVBWV9xaW9kWkN0bS1ibG1uMklMcncxRkJSMWdnNEl6Vk1fWTNNZWxuUXFKWmRnQzQyeDJIWGdEQVMxTHR3LUNQMThNM2Jyb1dhYUlMM2NoY1pnYTFWb2p6Y3phZUhndm91dkJzVnlkMEQxSWc2a1o3Rk1DamJrNC1waXFoUlk2UERURzB4N2JMQUFTTkdZSDZTcjVGNlXSAdsBQVVfeXFMUEF3ZDVnTEo0cF9vUTk0QThNZ1B3eVFSQ044M3NXOHB4QTlUcHR6dGt2SU1hejNnWTBZd1FpbVB4WGxlSHVlQVlfcWlvZFpDdG0tYmxtbjJJTHJ3MUZCUjFnZzRJelZNX1kzTWVsblFxSlpkZ0M0MngySFhnREFTMUx0dy1DUDE4TTNicm9XYWFJTDNjaGNaZ2ExVm9qemN6YWVIZ3ZvdXZCc1Z5ZDBEMUlnNmtaN0ZNQ2piazQtcGlxaFJZNlBEVEcweDdiTEFBU05HWUg2U3I1RjZV?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTGJsck5ndnZaRVV0bXQ1N3RpSDMwM3l4eTg4T3F6Ni1fNHE5cWM2emg5emlrR1IzX1dqYm9BOUVJYnBxeDVKU2lLdHdkRm1SbDQ3bnM3Z3lkUHltUXVSM2JKQUFDWkpfdDdLZkE4UnRZWmFpZlBONUxQRWR1ZUZLMlV4a2RBLXZvMnMxOTR5VC1nX0t5emJ3bUpMUkxYVHZVUWtjZkRoU216czF0ME1BTVZGT3p0NldtNHl4ejhneDZQN3Q3QklZb1FnZmR2eDFzWDVoRnh0ZjM4SUM2ZmJVUtIB7gFBVV95cUxOVHdhdF85UVlXNFJVN25Qc3hrV1d4eEJUcEQ1LUlQczFkUWNSN0FnNGJjeEVMWkplVjA4WDJqYVBtZVFRSFNhUEpybzR1cndGdVpqcDVKbl9ybjR3NjFTZERzSk9PRWc5cjFLaWdTbnhTVFVPSXNOeXgxeFNfWWlBalRtaXJQR1JxeHB3enVRaDd3MlZjXzQyVkl0WGJfRmJHQTYzaGpVQm93ZlMyYVFJWklFQV9tU3IzSEZiSHZBREU5US1ZcWJLRjFGTjhUR1hlTDhSUS00Nk9PbElFSjhlXzJoNF9aU2E2NjB6UHFR?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Aparajita Sarangi directs focus on creating public reading infrastructure - MSN",
-        "source": "MSN",
+        "headline": "Constitution under 1 roof - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGRwNkJmWkJwSEJuOEd4a0pzcUU5d3FvTGtrT0Jpd3JSUWZLcTBDcUIwak9tT2V6OExMM3hIRUlCY3BMSHYxX055MFRQMHJ5ejExc2Z1MUJyVWU0ZVEySndlMVl4WnItRXBKVEtjc29taWV6SW1CcWZlaWFUdGQyLThFNGZ4LUkxdXdYSksxcERRYkd3TTZxVlVqUTJDMDY4MjlUTmFYNDMxYVI1X3J6SG9iS201NDVITVg0ancxVQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3hkLXlNby0tVGRGTzdzSFVoR29wYjR2WVAyT01zelctcU1JNkkyTVdQX182SHM5QkRSNTUycVJjSXNuaFl4bGVjS2I2RHdtUDZnSFpBSWJ2aEdOcUlYS3RlNVdWbzRCa0tiNGhhcFN2cjJlWmhhSm0wZDRtcXpHRnI2VWFud0VuT3k5LWdqQWxsa3V3bnVsaXNMR1NXREVXUEwyRjhSMnFKTGgt0gGsAUFVX3lxTE1feGQteU1vLS1UZEZPN3NIVWhHb3BiNHZZUDJPTXN6Vy1xTUk2STJNV1BfXzZIczlCRFI1NTJxUmNJc25oWXhsZWNLYjZEd21QNmdIWkFJYnZoR05xSVhLdGU1V1ZvNEJrS2I0aGFwU3ZyMmVaaGFKbTBkNG1xekdGcjZVYW53RW5PeTktZ2pBbGxrdXdudWxpc0xHU1dERVdQTDJGOFIycUpMaC0?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Nitin Nabin Touches Down in Bhubaneswar: First Odisha Visit Sparks BJP Enthusiasm! - pragativadi.com",
-        "source": "pragativadi.com",
+        "headline": "'Won't delete': BJP MP's daughter's post on Pradhan's exit sparks row - Rediff",
+        "source": "Rediff",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYllFdGNCbDdRTDd0b3p4SWtVeDk2NWNsVnRTcWNTRThhOXBaVEM3dWZrclpTS3czOEVlUkpIZl9RcFg4RGFsbFVZWjN1d3VoaHpEQXF4b3I3SDdtS184VUJlVU1HenV0WFNZX0tqVnRhV3FxUXFyVjhLVmgzU25GMGZ6ZUl2cUNzM0tZcHVYRUdVNE5RUVBud2pxUHh0TXF6Wld2bDFFY3g?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVdrSlU3dlZhVGdYMjE2TWhkNlZFV25mM3U1M3owcVNmTmlxcDhFVG41TUluNk5BYVlScDFIX21FQVd5cjVGVm5TUDRDSXAxVjA0cFJwZHFsMS1PY2h4RGJWdkNSRWU4RUZ3RmVHUWJXNmN0RkZtb0MycEZkaTZ4elc0eDYtTGZFdlVqNjlGNzdPUkkyUEdEX0dqcEd6aWs3ZVFvSElYRHhWT2ZiOF930gGyAUFVX3lxTFBZTlktd0o2U1YwTUNfaDdQV0JoLW44Ukd0VDZZQ1d6RlFTWWRKeW90WGVNZzBadnF0ZnJ5cG9Rd2thVHNxS3Vxc3ZVMlQ3dWFVYWMxMWlsbHpRWVlKMFEyQ2pkN1h5dHlMYmRhOV9fX09nYU1XbWJEMENQMkVTRVZQZDdwWU83OXlrdnNuSlcyNVZ3NjJQSDh6TVUzdktsV2NsSDVwWEFWVm1JLTBVTERtMWc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Centre Clears Rs 544 Crore For 3 Bypass Corridors In Bhubaneswar - Ommcom News",
-        "source": "Ommcom News",
+        "headline": "MP Aparajita meets Chief Minister Majhi, discusses metro rail plan, other key projects - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHlVd2FvR2J6dnR5NnRPMy1OdDJhd1BKVTFoMHg2ZFdmc240NzBTajZLdUU3M3A2UkdrZEl6cVdTQTAwRm9wZzVQbmZLXzJCVzJ0dVBKalVtOGhSV0lvR1hWcWIta1dsWkJQZEhSR0szWWdQclNFNVgzdzNhZ0J6elExb24yV1A3Zzcxb1liRVZqSmxfSHJ1NEo4T21XMVBmQmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ055aHV4aldCVzk3S3dzTUxSMHBVRjJrbXQ4alpSUmdHVFRJZFlOLXpKMDJXeHZvSlVOX3UyZkVreVEzY0w5NVp3Z2ZzYUVoZWlxckZLZUF1RHRidkN0bUNzYkJCalpCblNnekZGWE5SeXJSbk12TkV0X2pReUwzSm42S2ctU21xLXF1WFk3MWtBWjFibldvQ21yRzRidFYzVFJsNHBTZHVDUWYtZUxjaEhfcWZuMWxLWUkwYjN1MURsME9vRlpoU1gxbThRYzRpQ3BIYzZXTnNyakHSAegBQVVfeXFMUHBPenF2bEdGMTN3Y05zd2FHYUF6dXdVenlZWnc4VFVwZHNMaGRKYWZPNERnREVzYjFSZWEtUTVveDE0UDlHYURCNjJLNV9pd0tNSVN4ejM3dTdUTGQwNExOaEUwNGhKTXNMMzdIUENmSkN1NDRfRlRkaUFaOEJSamNLTzFRUGluTWJhMU00MkxFd3Y2RFBNRmtveE5XSjVfWW5OalpzdUd1dUxBZVpSRmhfTXhlZ3pHUHZ4amZGOVRoYTA3QXVNTnl4RWVNelZEZC1mVUtjdU5vTk5LWDZWUXR0ZG5tN1pNQg?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Nurses are silent warriors, says MP Aparajita Sarangi - prameyanews.com",
-        "source": "prameyanews.com",
-        "severity": "low",
+        "headline": "Viral Insta Posts By BJP MP Aparajita Sarangi's Daughter On Pradhan's Resignation Triggers Controversy - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "medium",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTB0Yzc3MG41aTk3WjNVeE5yV2dnblV5b3NDakcxRDBHRDNZX3pnNENQOWQwU3ZTVnlZUlBVSTZZd0ZPYnhiRk1jUTZMbTBuMXhTR2FPWHFNY1ZlUW9YRFYtWmxpbGNlVjd0Z3JaNVpUUnZnSXR1eWtoSm0wSjVRZmVNWG1nTnc?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZEhla0FwT1FyQ19QWGw4RFF3TVFCbFpGTTg5UDFzaWtQZDM4NFhBRld5QXdiN0xHQV9sc0tDYkxQYndIZUM5TFMyTVVrUE5KUnVFQm1QMnA0cFhPZ2IwMXljeFlESmhCdGk5WHJSLU5ObjByQXI4enp6UWtoQ3pEc3RTYmxGS05za0FOLUs0WTg3a2VkWHhiQU9VS3YxQ3kyS2NCbmZIRnQwMnEtOGdDRk85aHZGdnlra3VtZ09BVmN3Q2J5bmpGSnItR1RUeGtyWWNkc2ZTcDc5SzktbkRyNkY4R3M5TEQ1YkVFT2FVb1BZX19rMkHSAfsBQVVfeXFMTzVNR0Q4RS01X2lyMEtqVklIZkdSc1FsTkRXOXpzWGQyZmZ2YU04czltaVpVNmRCcWkzU0YzVlpOWjJHa291dTdSMDNkdFZ2TV9RMmtndF9oTGFmY2pfYmEzeVYyYVZiRjFZcXNXOXhvVnBuaUpQcTRCbHpmLVBacVlMUkZTQURFWDlucU12NjZ0V0NVWUhjbE9Uc1k5aFVfa3ZmVEswMTU3MEZHNlJTMGtBZ3RPQ3JMOFJoUDZ0YmhjUXZyRlFWamkwNmhZVHM3YnBUVlAzWW92dEJSSmVIWl9WeE5iNUxhVEpqZkVmQThwNWYyUjlxQUxOSGc?oc=5",
+        "sentiment": "negative"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -334,15 +446,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 51,
+    "starred_questions": 15,
+    "unstarred_questions": 36,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 99.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +462,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,16 +4,16 @@
     "constituency": "Patna Sahib",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 9505,
+    "myneta_candidate_id": null,
     "slug": "ravi-shankar-prasad",
     "house": "lok_sabha",
     "sansad_member_id": 5219,
     "profile_url": null,
     "canonical_name": "Ravi Shankar Prasad",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 69,
+    "age": null,
     "photo_url": "/mp-photos/5219.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Patna Sahib",
       "state": "bihar",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 9505,
+      "myneta_candidate_id": null,
       "slug": "ravi-shankar-prasad",
       "house": "lok_sabha",
       "sansad_member_id": 5219,
       "profile_url": null,
       "canonical_name": "Ravi Shankar Prasad",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 69,
+      "age": null,
       "photo_url": "/mp-photos/5219.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:26.036145Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 406098345.0,
-      "liabilities": 0.0,
-      "net_worth": 406098345.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9505",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.366939Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 81.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 5.71,
-      "expended": 5.15,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:01.075225Z",
-          "notes": "Official eSAKSHI REST API — Works: 66 recommended, 66 sanctioned, 58 completed"
+          "fetched_at": "2026-09-02T14:56:41.752144Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:53:01.079205Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:53:01.077086Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 66,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 35.03401360544218
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 75.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:27:09.678539Z",
+          "fetched_at": "2026-09-02T14:53:01.076308Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Bankipur bypoll: BJP's Ravi Shankar Prasad casts vote with family, says \"victory will be resounding\" - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZG5UR2RKZUJ5X2szSjlFZjJ0WUhTWXU2N0xtVEk0d1Rydm9rTVBsZmF5ckthTjBFeEplOHl5ZU9pOXh3QVR0VmwzTFd4bGd3M3QxSTlTaVFRZ3hmMXFnTTNZRW40YmFBU05selN1UzZFcUhTUFBOMHFFeW9fYVBpMUFhU3hNaktpek1OY3U0QmM0WmloUGRaV2J1bkxnTXFMUV9fTUlsajhla0FmT2k3T2Z2ajdmVEhUekJpdWRUZDJaeXhBM0lSeW9zem05elBaNHlXTXNDcE1PaVpNdGw2Y1ZDaldzbE9xU3V3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ravi Shankar targets PK, says BJP will win by huge margin - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPczdKSzVJbzZEZHdiT1BBdFZPSS1vcENjLXhBUW5EYTZnc21Tb0duVXJzT2IzNTMyNVdWQUl0RGh5dEtkUWkzZ0Zuak4xUEd5SDUxaVN5QlVURnh3Ym1EZTRsd1RPR3h1dW4xSVBHMnRLVExxUnNibThkVVp2R0NqUFQzelJoSHJZOGFVNWpBeDA2SWJzM2dBZmVGOW1RbGNET0RSZ1A2QXBoQlpHYUVmcktOclhKZ0NsbG5mYTE4b2dnR0FCZmhtV9IBzgFBVV95cUxPLV84UVl0ZldHaU1SS2ctbHR4NkpVUFZnWnQtaWJ0SUt3b3hoSXBRTlNPT1ZsNEtnNlRCSVhDZGh3ODVycjdQcDFIME1KU2RrYUpaT1R3c20wN0xYUnNoQThRNi10Nm10Y01jcG93bzVSVVpzY25oOFV6R0hXN0ZuenJKZldMdVI1VkNoMHFmazE5WVEyT1dvdVBiczUwaVNfNE1zNk5OUWZoVjlteGE2WXVLZUJpeDE4SkJ2TTFpSHhXX1QzMnJqU29RdUJ5UQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP’s Ravi Shankar Prasad expects resounding victory in Bankipur by-election - The News Mill",
+        "source": "The News Mill",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenlzVTZrbHFYZWxDaVA2OUJHNFZ1ZlppWlFhaDUyVkJtb3FMN3E4UXdHcGt0T2MwUGIyUEVkS244SE5NcHRGMFhQbjNpNHBCTnBBc0l2X2dKUHo2Y214WHhIMGdId1JBaVVLZldPZWJFQkh4UXpSNkJEYm9rNDlObXdHczAyc29LS0VMQjhKTUZJa2lMNXZPbWJBbEItNTA3b085ZUJGdENWakNV?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP chief Nitin Nabin, RJD leader Tejashwi Yadav hold roadshows ahead of Bankipur by-election - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTUVhZDhVWEp1T0l6ZDEtMWFDaEZIQ0J0Q1g3LUZJUVdNRlY5dmU5S1oyUkpCaW1JbTYzRUtJUjZmbUpHakNzdGg3MndZZDJ2OUxBWE1qWG1XTXpyNmFibEFGaU1uRjF0ZnRxd3huS0EwNHBhZHNOcWFGWmpQRS1iQVJpSHlSRWRSalpiMVBnYlRxM1pPbHVaWDVmMnV6SFJUelVKNjNMc1gyNmdqSlZTZngxSVBvLWtnMHQ0Q2R2TGx3UmNsMXJfX1BFclFBVDQ5LWNLU0hZOUZ6V2tkel9CTHV6VDfSAfIBQVVfeXFMTlBHYU96NEs3VVkwdVd2WjhBR2RPbHNaaU9nU3o0UFlQVm5SdzJRX2RKa0M0aXdVektiVTZraHYtRW0tUjZCT3ZUc0ZTb0hSRm5YUmxIV1pMZkZUMW1xNjZIbF9qUGowbWJkdUlXQWpTcmozN19mTzA3WDc1TjE4Rk1iVUNRTTN1TFFqTzNrbjBodHloNzFjRm9ZMUVGa3FwNVdSbWVraDJORHd4aVVGRkgxNU9ncndjWU5veGx2Y281Ym5xbkhyMXR3RG9iTEpNSmNoZlJVdDdST2VJcmlJaUd3TENMQnlINk9xZC1LWEFySHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Patna Diary: Bihar BJP chief invokes Vajpayee’s statement - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVRVOWlqX0FmMGtYOGh6aERzdTZaV0pVMV9pS21MZEd5SXZaWlpITlgyTERlbVZPcXBibGp2RW55QWRlOVd1ZkwxdGpVNDQzek5wa1N1bWpxYmlEQmstS016VGthZ1kzUVI3ekFQWlNjVkJUQ1ZwVldrbjZ4YTBwMGd5T0Z6cm02QWh4V3RYbm9wd0o1Z2RsUGtKaHFKQUN4bzhxcF9PamNWd9IBtwFBVV95cUxPaGZrNU5Rc2tETlZfNF9vcmJ4MDZHVEVHXy1BdnVZWkg5YlhLM3FtUVM3NmpONnlCeGtGVERoYUFXaWdHaDg0M01fS2NIY2VHbTZBdU1mcXNZazhHUDNzVVNRcTN5d0ZnNDJfV1hzVy16eW9EYTBhVl9TSzF0bWs2S2g3c1h3RGJBUkRXZlBqU2RKQ0FyVVBTaS1RREtGRDlGXzgzaUlJcGZabEtZVWE3UDNHQ2V3aUU?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:28:09.033293Z",
+    "collected_at": "2026-09-02T14:56:41.752871Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.384400Z",
+          "fetched_at": "2026-09-02T18:38:04.848223Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.384409Z",
+          "fetched_at": "2026-09-02T18:38:04.848234Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.384414Z",
+          "fetched_at": "2026-09-02T18:38:04.848240Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.384418Z",
+          "fetched_at": "2026-09-02T18:38:04.848245Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.384422Z",
+          "fetched_at": "2026-09-02T18:38:04.848251Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.384427Z",
+          "fetched_at": "2026-09-02T18:38:04.848256Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.384430Z",
+          "fetched_at": "2026-09-02T18:38:04.848261Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.384434Z",
+          "fetched_at": "2026-09-02T18:38:04.848266Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,11 +338,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/rsprasad",
+          "url": "https://x.com/https://x.com/rsprasad",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/RaviShankarPrasadOfficial/",
+          "url": "https://facebook.com/https://www.facebook.com/RaviShankarPrasadOfficial/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:53:04.101313Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -298,43 +376,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Patna Sahib MP and JD(U) leader flag off new passenger train - The Times of India",
+          "headline": "Bankipur bypoll: BJP's Ravi Shankar Prasad casts vote with family, says \"victory will be resounding\" - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZG5UR2RKZUJ5X2szSjlFZjJ0WUhTWXU2N0xtVEk0d1Rydm9rTVBsZmF5ckthTjBFeEplOHl5ZU9pOXh3QVR0VmwzTFd4bGd3M3QxSTlTaVFRZ3hmMXFnTTNZRW40YmFBU05selN1UzZFcUhTUFBOMHFFeW9fYVBpMUFhU3hNaktpek1OY3U0QmM0WmloUGRaV2J1bkxnTXFMUV9fTUlsajhla0FmT2k3T2Z2ajdmVEhUekJpdWRUZDJaeXhBM0lSeW9zem05elBaNHlXTXNDcE1PaVpNdGw2Y1ZDaldzbE9xU3V3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Ravi Shankar targets PK, says BJP will win by huge margin - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdFZUNHpRVjB1M3U1S0FxRk1ITjZHa1ZzS2ZWem1EYmF1dDNvRER4TXprYW5jNUZjS0YwVWRlZWtzRjZGbjlLV3NkeU9uSFlxakF5TGp4NVFUUE0xSjNSbDRLYlgzZUJIeWQ5elhrSGxMeUlCa3FUNURMcjhsU3FXbm1BdlJQWVJQWmFFTHMtMUUzeDA2b2JnMXM5TDg2anZ0R0R1UTlNa2p4V1JCUDNjMGFCcTJ3a214MmszUVpSTFk2RDRVRlg3M18xQdIB0AFBVV95cUxPU1pjSnpQd0VJM3I0MUZoT1h3bnhWZHdETFRMQlcweEQ2OE84X294VWp6VE45dldEa2k3X0Uyb3BTYTY5cE9SOVFNU3BqZHBKcTJ5N0ppVUZaZ0hTSW9RRjV1aXAzc1p4RlE3QjY5OU9sdFFiZURmQy1UWnVrcHZkTGZiS0RONWg5SUZISUh2a0VpLWxubUo5VmMxN0RUdFROenhabjQtVzRDdFBHSkx1MmVIb2hPN2x6NlZtRjFqWU5mOERLUjBXY3owUzhTV3Fj?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPczdKSzVJbzZEZHdiT1BBdFZPSS1vcENjLXhBUW5EYTZnc21Tb0duVXJzT2IzNTMyNVdWQUl0RGh5dEtkUWkzZ0Zuak4xUEd5SDUxaVN5QlVURnh3Ym1EZTRsd1RPR3h1dW4xSVBHMnRLVExxUnNibThkVVp2R0NqUFQzelJoSHJZOGFVNWpBeDA2SWJzM2dBZmVGOW1RbGNET0RSZ1A2QXBoQlpHYUVmcktOclhKZ0NsbG5mYTE4b2dnR0FCZmhtV9IBzgFBVV95cUxPLV84UVl0ZldHaU1SS2ctbHR4NkpVUFZnWnQtaWJ0SUt3b3hoSXBRTlNPT1ZsNEtnNlRCSVhDZGh3ODVycjdQcDFIME1KU2RrYUpaT1R3c20wN0xYUnNoQThRNi10Nm10Y01jcG93bzVSVVpzY25oOFV6R0hXN0ZuenJKZldMdVI1VkNoMHFmazE5WVEyT1dvdVBiczUwaVNfNE1zNk5OUWZoVjlteGE2WXVLZUJpeDE4SkJ2TTFpSHhXX1QzMnJqU29RdUJ5UQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Dedicated committee formed for Patna airport's runway expansion: Ravi Shankar Prasad - MSN",
-          "source": "MSN",
+          "headline": "BJP’s Ravi Shankar Prasad expects resounding victory in Bankipur by-election - The News Mill",
+          "source": "The News Mill",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPX0lmU2s1OE1uaXhMd3JuUmRzOUdSd0ZrWUcwMHZ6eE9ka0ttdmN2TWJOU0JnSVlxWGYydUdJQnBLZ1NlbDlON3czTk5TUGxKWGYyYTcyOVE5MGRSTUdqd1JJQUlpMjRNaS1oU3dJY0dSZDViZUNWclV2Y3lYcWMyNGxyVkc4TWViNDgxb01Fa3pRRmQxLWRMakxkQzZqWjhEWWhFbWpud0tWR2pZY0Jpa1lEYkx0Tlh2alJpbGg3OHVEU0hrMU1OTXVEVm1rNzBTNlliSVlwZzVsektSSFhFNVVSTDcwYmlMaWY2SnFEM2NJQ090bFp0MFp2bG1UTG43WnVDcEtkTUZGZWNfQkQ0Q2tDRDVJWXF4dlVZWTZxOG1aZjhfTVdqVXZUZy1OSTQ4X1FpUE1mclBkZDVub0IweWNkeHZmSmtxbWZYM3NBdlZDMmc5dkZmdGZxMnZPTllibUtsVEJQcFdYN1N3WmJpTjFCZ2Z5UWFzVHNNc3o1b20?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenlzVTZrbHFYZWxDaVA2OUJHNFZ1ZlppWlFhaDUyVkJtb3FMN3E4UXdHcGt0T2MwUGIyUEVkS244SE5NcHRGMFhQbjNpNHBCTnBBc0l2X2dKUHo2Y214WHhIMGdId1JBaVVLZldPZWJFQkh4UXpSNkJEYm9rNDlObXdHczAyc29LS0VMQjhKTUZJa2lMNXZPbWJBbEItNTA3b085ZUJGdENWakNV?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Fire breaks out at BJP MP Ravi Shankar Prasad’s Delhi home, brought under control immediately - Telangana Today",
-          "source": "Telangana Today",
+          "headline": "BJP chief Nitin Nabin, RJD leader Tejashwi Yadav hold roadshows ahead of Bankipur by-election - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVV4aXAtek1UWHIxNjN5ZTRrQUgzUGw5d2ZUS0NicW14aTk1VXBUVXdodlowVzNqSmVvRXpSSS1XZW1yalhVM0k3bzN1d3BIb0R2ek83bTFlajVlM0pRZFEzZ0s3cDFvNHd3WmlwWnhzZ2VIMXZ4SGJsOE1raGtkeG9UV0gyeldxTl9wdkxMdUc4blhaTE5IZnRqMU43a2JaMzgwNUVNTDhDa0wyMF9YTjVOTmkzbUFrZVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTUVhZDhVWEp1T0l6ZDEtMWFDaEZIQ0J0Q1g3LUZJUVdNRlY5dmU5S1oyUkpCaW1JbTYzRUtJUjZmbUpHakNzdGg3MndZZDJ2OUxBWE1qWG1XTXpyNmFibEFGaU1uRjF0ZnRxd3huS0EwNHBhZHNOcWFGWmpQRS1iQVJpSHlSRWRSalpiMVBnYlRxM1pPbHVaWDVmMnV6SFJUelVKNjNMc1gyNmdqSlZTZngxSVBvLWtnMHQ0Q2R2TGx3UmNsMXJfX1BFclFBVDQ5LWNLU0hZOUZ6V2tkel9CTHV6VDfSAfIBQVVfeXFMTlBHYU96NEs3VVkwdVd2WjhBR2RPbHNaaU9nU3o0UFlQVm5SdzJRX2RKa0M0aXdVektiVTZraHYtRW0tUjZCT3ZUc0ZTb0hSRm5YUmxIV1pMZkZUMW1xNjZIbF9qUGowbWJkdUlXQWpTcmozN19mTzA3WDc1TjE4Rk1iVUNRTTN1TFFqTzNrbjBodHloNzFjRm9ZMUVGa3FwNVdSbWVraDJORHd4aVVGRkgxNU9ncndjWU5veGx2Y281Ym5xbkhyMXR3RG9iTEpNSmNoZlJVdDdST2VJcmlJaUd3TENMQnlINk9xZC1LWEFySHc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Fire breaks out at BJP MP Ravi Shankar Prasad's official residence in Delhi - Deccan Herald",
-          "source": "Deccan Herald",
+          "headline": "Patna Diary: Bihar BJP chief invokes Vajpayee’s statement - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdGR3WDBoRzI0Q3VTdDVXdG13QklUS25VUmgtZ0Z4RUVzRnJRVUpoNVU0SGJyRXRBWTdiYktsMVhTeHRWNUZScnRTaXlIbXRfNUVkMllRU3l6QU53bzlSRDZRYnZZSEdsWGlwQ0FNaUhLLVRaNnZaVlA2U2RpV3Rwb2syQ1dHcmxPR0prTE1hTHdGQUxLcUpfckZncmNjZmRtbVBZcC1sai13dEZYc3JwdnZoVzBCNzkwVUMxcVl3NXQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "We are all safe: BJP MP Ravi Shankar Prasad says fire at Delhi residence due to short circuit - IANS LIVE",
-          "source": "IANS LIVE",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb0NlcDFlaFlHcDFIdTFnVV9fYkt2b2FuUHBvLXBEOW5ETjZnblJDYUpHeDlUQV9JcElJLTFBZzJlTUFZdUJXWUtxT2RfR1A0RUo2djVma29yUXFmeXpkN0JyT1pJekRZMm9QV0NyM2w1cEoyMnprd21fYVZ3TTZpYjN4cjVvQ0VYSDY5TVhsVk1WWmxtSVZPZUp2X3d6YVVOWm9QT202OG5IN2p0OWtBSGZsYmY0eUd4cjNlSGU0Q3R2eENOSXgw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVRVOWlqX0FmMGtYOGh6aERzdTZaV0pVMV9pS21MZEd5SXZaWlpITlgyTERlbVZPcXBibGp2RW55QWRlOVd1ZkwxdGpVNDQzek5wa1N1bWpxYmlEQmstS016VGthZ1kzUVI3ekFQWlNjVkJUQ1ZwVldrbjZ4YTBwMGd5T0Z6cm02QWh4V3RYbm9wd0o1Z2RsUGtKaHFKQUN4bzhxcF9PamNWd9IBtwFBVV95cUxPaGZrNU5Rc2tETlZfNF9vcmJ4MDZHVEVHXy1BdnVZWkg5YlhLM3FtUVM3NmpONnlCeGtGVERoYUFXaWdHaDg0M01fS2NIY2VHbTZBdU1mcXNZazhHUDNzVVNRcTN5d0ZnNDJfV1hzVy16eW9EYTBhVl9TSzF0bWs2S2g3c1h3RGJBUkRXZlBqU2RKQ0FyVVBTaS1RREtGRDlGXzgzaUlJcGZabEtZVWE3UDNHQ2V3aUU?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -384,17 +462,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 75.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +493,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +520,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 406,098,345. MPLADS utilization: 35.0%. Parliament attendance: 75.0%. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:47.385121Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 75.0%. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.849160Z"
 }

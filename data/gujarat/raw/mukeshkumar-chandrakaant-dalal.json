@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 178013262.0,
-    "liabilities": 17957360.0,
-    "net_worth": 160055902.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 69.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 3.27,
-    "expended": 2.44,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:08.979455Z",
-        "notes": "Official eSAKSHI REST API — Works: 171 recommended, 142 sanctioned, 88 completed"
+        "fetched_at": "2026-09-02T14:35:01.575393Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:31:00.959249Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:31:00.956388Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 171,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 16.598639455782312
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:45.368473Z",
+        "fetched_at": "2026-09-02T14:31:00.955334Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP Wins First Seat in LS Polls, Surat Candidate Mukesh Dalal Wins Unopposed - hubnetwork.in",
+      "source": "hubnetwork.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXc2WVBZVEY4NUZuNzRhRDZqVFlqZWV5dWxLUV82TGtoZEhWZ0tOaVNqcUFoa0FpMlFsTzc4ZENIY2NEaVhPWEtwQjE0d0N2WG1XbEY4elh2MzhWM25nSTZFRnNHbjU3NzNaUHZRdlVPbHNTWFdiaEs5dmRyU1gxdWlWVVFwWHcyMTFqTzVoX2h4TWNTMzczVmdRQkllTVU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'First lotus has bloomed': BJP opens Lok Sabha account as Surat candidate elected unopposed; Congress all - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQX2hNZXQ2Z0h4Qzh0UF9ta1JuSUZHT0NySUlORmdCdzBielIyZjJ3X1hVTnpkdE5Wb3FFMHRVb1dXdnliZVRjb2RFZkVkZEJTdGlFRHA1SzRBQkd4ZW1lOWNTQU45a2ZWdi1ZZWpMc1JuU0tZbVBhOUstSnRIZTk1ZDE4TDBfc1NUVkI5aXhDMmRYWlZYRnlaYnlPbzh0SU9hYU1SZnZ1cjI4TVg2bmJNcEd1WTFNZzNNMWxGLV9sUlBFV1l3QnBXbkptSFhZaGd0YTZldkJaWkc1dnVjTE1tem9LME9FWFkxYWYxbUNkLUV1YVh6MVVyclo5NHdNTjBESTJucWdjNk5Ha3ZWbjhRSnpfejDSAZoCQVVfeXFMUDBxbDJkQVdHSlpIWndGeFROTEl0Vk9DbFk0YkVvY0p4b00wMmgzSk95LUVWVTMxdDNrd3BlWXZ2YkE1bWFkRHExa3ZBZUtrMUg5Wk1SOTRYNThPbGVmdFFDa05DODFmNTJzVFNlYTBhTDNrSWFfOXNrRXhhOXNfYTJfQ2FGa0cyUmt3Tmd1VktVcW1iaDdpdWRaalliTE5PVHNXODY0QVNWQzZuY1FQUnlJb2k4bGtaOHRpSXNEM0NKQnhFaG1Ja0YwV0hxbk90WTFvZTV1OFlvRG5janRKenZGNi1sRUxkQzhwUHZ1UWlzTDRMaGdtYzRoYWFMWGlERjNGNXJnVy1oQzBFaEpBTUxsenhjSnRQSGpn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Surat election results 2024: Mukesh Dalal wins Lok Sabha elections unopposed. BJP and NDA open account - economictimes.com",
+      "source": "economictimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWWEwdEhLQ0w3NGdkbW4zcjFGUktGejVUaDMwdk9zN2ZIaTdxNDRaWWd2aVBaQzhZQ0dtWXBGdFFoY3ZPR2M1aFkxamNOcEdUZnU1X2l5bnlrZ3NQUFF5bElKU0FlLTRxQldpUEZsOHIteGIwME50TnJQUUhtREozZDI4MnNtay1lS2JReklfdkZUTTctMUlVWXlsb1laUGh5MjFkVDl5ajZDdG9tRGp3WlNsVHRoTlJSdlRoVkJaZHgzMXQ5SU1VUUlFNFN2NjU3bU8yTUlFeTQwMXFuVlB4Vlg4T05BM2Q2SG9CVV9HbzFlUXBxdTZXZ2Y3Mzg4YWJaUmg5eVlQN1FoS0NKb2h1RENPSdIBmAJBVV95cUxOeno3ei1QbGo1STVacEdpWkZrUTlfQ05rM1FIQ2xzcmo5eWZLVjNUYWp5cE1zRHMyOFB5MTdrUEF5T2RVYnM4YnZwcWc5NXI0NWstUlRpU1VZbXFrbHZEZTZFZDlWTzdfMWRCbHBEX2d1SVpueGNBRFdXcXJjeXk4dmZZZjk1b0I1bU9GQmpKMlNiUUdUMXkxZlVsclBUZmMxZmpsS1hlSWVRa3lEZUVDOVRMaU5HbHYwam9ma1dNcEo0bXVocEhrSHJOeFQ2ZTJnYjIwc0ZmQ2xTZGw0RVpyQXpZZ01xbFdkYk5XMXprSk1kdy12Z2prQjNXcUxLSlNuYkpoRUl4cXRtVGNLdkwwcF8zT2tucHZt?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mukesh Dalal Declared Unopposed in Surat Loksabha Election - Vibes Of India",
+      "source": "Vibes Of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVndma1ozUnhwc2NtcWxJODYwTHVHRVduOUcwTnRsWmZQR2d1Y1FFX3dxaG10NV9adzQtRkEtSi1HVVhBNmxzTnVzRVQtU3NXZEZUSDdSbHdkRTRkOWxGMW5WY0ZZVnd0S2xfRm52VzhBcVpYX2lpX3ZVSXA3cXczWEVHRFBOS1g4NloxMThtRlppdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazhTeWpLcEM3b0pYdnU5MlZZSk05UnlQNGxVMzhQN0UwNmxjYnFDWHJwVU9MWEtZaWdBdnJfaU9Qdlp1ejZvSUhlaXJ0a1oybFo2T29hTl85YWdSdUpyMFdTZjc5VndCSHhEV1pWRW4zdkN4V0plak1YX0lyREZ4SkpGTXpYd1U?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:49.435811Z",
+  "collected_at": "2026-09-02T14:35:01.576587Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.159390Z",
+        "fetched_at": "2026-09-02T18:38:05.775307Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.159398Z",
+        "fetched_at": "2026-09-02T18:38:05.775325Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.159403Z",
+        "fetched_at": "2026-09-02T18:38:05.775333Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.159407Z",
+        "fetched_at": "2026-09-02T18:38:05.775343Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.159412Z",
+        "fetched_at": "2026-09-02T18:38:05.775354Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.159417Z",
+        "fetched_at": "2026-09-02T18:38:05.775362Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.159422Z",
+        "fetched_at": "2026-09-02T18:38:05.775371Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -247,53 +303,53 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 8,
+    "total_articles": 5,
     "positive": 0,
     "negative": 0,
-    "neutral": 8,
+    "neutral": 5,
     "top_headlines": [
       {
-        "headline": "Surat election results 2024: Mukesh Dalal wins Lok Sabha elections unopposed. BJP and NDA open account - The Economic Times",
-        "source": "The Economic Times",
+        "headline": "BJP Wins First Seat in LS Polls, Surat Candidate Mukesh Dalal Wins Unopposed - hubnetwork.in",
+        "source": "hubnetwork.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXc2WVBZVEY4NUZuNzRhRDZqVFlqZWV5dWxLUV82TGtoZEhWZ0tOaVNqcUFoa0FpMlFsTzc4ZENIY2NEaVhPWEtwQjE0d0N2WG1XbEY4elh2MzhWM25nSTZFRnNHbjU3NzNaUHZRdlVPbHNTWFdiaEs5dmRyU1gxdWlWVVFwWHcyMTFqTzVoX2h4TWNTMzczVmdRQkllTVU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'First lotus has bloomed': BJP opens Lok Sabha account as Surat candidate elected unopposed; Congress all - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQX2hNZXQ2Z0h4Qzh0UF9ta1JuSUZHT0NySUlORmdCdzBielIyZjJ3X1hVTnpkdE5Wb3FFMHRVb1dXdnliZVRjb2RFZkVkZEJTdGlFRHA1SzRBQkd4ZW1lOWNTQU45a2ZWdi1ZZWpMc1JuU0tZbVBhOUstSnRIZTk1ZDE4TDBfc1NUVkI5aXhDMmRYWlZYRnlaYnlPbzh0SU9hYU1SZnZ1cjI4TVg2bmJNcEd1WTFNZzNNMWxGLV9sUlBFV1l3QnBXbkptSFhZaGd0YTZldkJaWkc1dnVjTE1tem9LME9FWFkxYWYxbUNkLUV1YVh6MVVyclo5NHdNTjBESTJucWdjNk5Ha3ZWbjhRSnpfejDSAZoCQVVfeXFMUDBxbDJkQVdHSlpIWndGeFROTEl0Vk9DbFk0YkVvY0p4b00wMmgzSk95LUVWVTMxdDNrd3BlWXZ2YkE1bWFkRHExa3ZBZUtrMUg5Wk1SOTRYNThPbGVmdFFDa05DODFmNTJzVFNlYTBhTDNrSWFfOXNrRXhhOXNfYTJfQ2FGa0cyUmt3Tmd1VktVcW1iaDdpdWRaalliTE5PVHNXODY0QVNWQzZuY1FQUnlJb2k4bGtaOHRpSXNEM0NKQnhFaG1Ja0YwV0hxbk90WTFvZTV1OFlvRG5janRKenZGNi1sRUxkQzhwUHZ1UWlzTDRMaGdtYzRoYWFMWGlERjNGNXJnVy1oQzBFaEpBTUxsenhjSnRQSGpn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Surat election results 2024: Mukesh Dalal wins Lok Sabha elections unopposed. BJP and NDA open account - economictimes.com",
+        "source": "economictimes.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWWEwdEhLQ0w3NGdkbW4zcjFGUktGejVUaDMwdk9zN2ZIaTdxNDRaWWd2aVBaQzhZQ0dtWXBGdFFoY3ZPR2M1aFkxamNOcEdUZnU1X2l5bnlrZ3NQUFF5bElKU0FlLTRxQldpUEZsOHIteGIwME50TnJQUUhtREozZDI4MnNtay1lS2JReklfdkZUTTctMUlVWXlsb1laUGh5MjFkVDl5ajZDdG9tRGp3WlNsVHRoTlJSdlRoVkJaZHgzMXQ5SU1VUUlFNFN2NjU3bU8yTUlFeTQwMXFuVlB4Vlg4T05BM2Q2SG9CVV9HbzFlUXBxdTZXZ2Y3Mzg4YWJaUmg5eVlQN1FoS0NKb2h1RENPSdIBmAJBVV95cUxOeno3ei1QbGo1STVacEdpWkZrUTlfQ05rM1FIQ2xzcmo5eWZLVjNUYWp5cE1zRHMyOFB5MTdrUEF5T2RVYnM4YnZwcWc5NXI0NWstUlRpU1VZbXFrbHZEZTZFZDlWTzdfMWRCbHBEX2d1SVpueGNBRFdXcXJjeXk4dmZZZjk1b0I1bU9GQmpKMlNiUUdUMXkxZlVsclBUZmMxZmpsS1hlSWVRa3lEZUVDOVRMaU5HbHYwam9ma1dNcEo0bXVocEhrSHJOeFQ2ZTJnYjIwc0ZmQ2xTZGw0RVpyQXpZZ01xbFdkYk5XMXprSk1kdy12Z2prQjNXcUxLSlNuYkpoRUl4cXRtVGNLdkwwcF8zT2tucHZt?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Surat Election Result 2024 LIVE Updates Highlights: Mukeshkumar Chandrakaant Dalal of BJP Wins - News18",
-        "source": "News18",
+        "headline": "Mukesh Dalal Declared Unopposed in Surat Loksabha Election - Vibes Of India",
+        "source": "Vibes Of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS3JsZDZjSG1FVzh5dU1OZ0lMOEdIVkJKcnN3OXk1WXo1eE5nSDhmS3NsMjU2WlZfY25aWWxVbWRLdFJCZTNzZDFzbkJaOW9JbUpQcHExWUQxOHU2WkJrNmNfaU9HZHBWemprdTF4dXRTWXI0NS1HZFVEY2hiOVNFUE1HYUtkWmRsMlN4X0ZsZGRkdGxDYWpkS2VyaS1KbWJLUnZLVzNPbWlNSnJFUHhURzJYdHAtTWlQZkRKa1R4aVUyZVlIdnE3VTF3MjkyVkl6R2xFcmlBZG02TmttbXpn0gHkAUFVX3lxTE1mREFZZnVQbm9JN0xVTy15OWVJX0dDRVF4YmEtVEprb0x3S0hhbllFNW1fTDRLVDZEelNYWFEyRThyYXRYR3Qxdjh5WERLR2MtT0ZDdTA2cmJfb1MwUF9zTjdNWGFnTUE2cjByalVRaDBDWkdCS3hhelVCZ2kyWVlsWU1OaVpDRHFmM0NiTGNOR3B0RWpZT1lHbDNjcDI3R1pmVW9mbkhMTnUwVVdXYkFYTGpfblNHVVIxN1NBeGd2bnM5dUR0YkNmLUpDQ3FyajV0Slp6a1lsU3dhUFd2dmlRTDFNQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVndma1ozUnhwc2NtcWxJODYwTHVHRVduOUcwTnRsWmZQR2d1Y1FFX3dxaG10NV9adzQtRkEtSi1HVVhBNmxzTnVzRVQtU3NXZEZUSDdSbHdkRTRkOWxGMW5WY0ZZVnd0S2xfRm52VzhBcVpYX2lpX3ZVSXA3cXczWEVHRFBOS1g4NloxMThtRlppdw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP wins first Lok Sabha seat even before voting: Here's what happened in Surat - Moneycontrol.com",
-        "source": "Moneycontrol.com",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMThkeGhTNG9Ja0dQbU5oa3RzbzF1bUpQMEt4S3VFZGw1cXdFUksyNTJuZzIxYnRTLUZ4Ry1XV3ctX0NkeXdaTHpvZ0tpLTFDZG1oNWVTUkpfSmJITDg2OC03RWxfVEpXRWhGblZvOFJfLTJhbnpNV0l5bDAzb0hZUnF5dU1EZEtfdHNxQXFmdXg5aW1hN3hUM1RITHRkZ01qLWd3TUJRbkNLUG5rT1oyRUJaQ2pFckhHR01DeUxfNUV3ckJkaWlVYzlIc3RkcUVSWXpmZ2l4ejFlY0hTNmNrcExHU01sbGxOV00xTVBXdW9rQzJzXzNJZA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Parliament of India : Lok Sabha Member of Parliament – D - Sarkaritel.com",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com",
         "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazhTeWpLcEM3b0pYdnU5MlZZSk05UnlQNGxVMzhQN0UwNmxjYnFDWHJwVU9MWEtZaWdBdnJfaU9Qdlp1ejZvSUhlaXJ0a1oybFo2T29hTl85YWdSdUpyMFdTZjc5VndCSHhEV1pWRW4zdkN4V0plak1YX0lyREZ4SkpGTXpYd1U?oc=5",
         "sentiment": "neutral"
-      },
-      {
-        "headline": "2024 Gujarat Lok Sabha Election Results: Full list of winners on all 26 seats of Gujarat - The Indian Express",
-        "source": "The Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWJUcExBamtvWHhIS2NpblJpcjVmcFZWTk16TmFZT3N5ZTJPY0l1aE5sSzlJcndrRlpyUUo5NUExWDhRZUs4OW1wMndvSUpBUDJwc0lhdXhHYUR5R3hERHVjTWlZODF5U0pLbWI4UzM5TFJOS3hac3dBencwY2ctZmE5NnNKNVBCb2o0X1Zld1FqUmJ0ZXR3dHVKaFVOX0hzZEJLSWdPOXljUDBsTEk5YlpfNUhuaC0xdnk2SUUxdkVKSW90ZGF1RHlud03SAdMBQVVfeXFMUDhyWGFtYlgyRVY2ZWxEUnRhVVdTMjAzSEc0Y3o4eWNfQlU3STN1LWNsOTNoT0c2VE5EbHplZzhrMjVlalhFeG5ENmxKcmtYWGE2aWQ1TEZNWDUtVEM0aGE2SDMyejRINEtDWEt4cm8tSkRPZUk4WEkxNkp2TVBGWEFhb3ZkSEhqM1ZjeGhkMGdfZUlrajY2OE5KdGZIZ0Uxc25UeTRESm52TUowTU04ZTZMeEdRMkxxeDllOElyc0pDRUR5TzhVVXJrTDgyUmJON3dVZw?oc=5",
-        "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (5 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -323,15 +379,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 38,
+    "starred_questions": 11,
+    "unstarred_questions": 27,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 73.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

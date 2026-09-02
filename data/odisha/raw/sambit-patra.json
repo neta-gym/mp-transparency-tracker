@@ -4,16 +4,16 @@
     "constituency": "Puri",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8026,
+    "myneta_candidate_id": null,
     "slug": "sambit-patra",
     "house": "lok_sabha",
     "sansad_member_id": 5599,
     "profile_url": null,
     "canonical_name": "Sambit Patra",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/5599.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,96 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "The I.I.C. Sea Beach Police Station, Puri | Section 123(3) & 127A of R.P. Act. 1951",
+        "ipc_sections": [
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "JMFC Cog. I",
+        "fir_no": "The I.I.C. Sea Beach Police Station, Puri",
+        "case_no": "GR  719/19",
+        "other_acts": "Section 123(3) & 127A of R.P. Act. 1951",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:53.886204Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 19806997.0,
-    "liabilities": 0.0,
-    "net_worth": 19806997.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8026",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.034008Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 17.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.23,
-    "expended": 3.04,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:34.839076Z",
-        "notes": "Official eSAKSHI REST API — Works: 670 recommended, 618 sanctioned, 456 completed"
+        "fetched_at": "2026-09-02T14:42:22.970675Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:38:17.335193Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:38:17.332546Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 670,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 20.68027210884354
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +126,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:43.948728Z",
+        "fetched_at": "2026-09-02T14:38:17.331438Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +134,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Two Odisha Leaders in Nitin Nabin’s BJP Team; Baijayant Panda Retained, Sambit Patra Gets Northeast Charge - Pragativadi",
+      "source": "Pragativadi",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLWJzaDE0a3FWMkhuVEtMZ3lvV2pUdGdmbkN4SlJlVldGSl94R0VPbElubXNfOXB3ZDhmZ3JWQjlhOHVUVTFIdFZwYU9waDd1RXBEcjh0b3BvSTk3d3dkRkI1bVhCYjhpTXNBWWlFN1BOY2M3SzUwa0lMR1pib0VVYUd4dWRNLUowTjREYVV1b1Z5NHo1aVRHS05mRzcxR3ZsNE91Sk5TS19td3IwOGpPNU03YTVDZFFDbVNLZ21IN2g2bHowZWFv?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "UNITED NEWS OF INDIA - uniindia.com",
+      "source": "uniindia.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mdjBDb05NSXBZMU83dHBUcklLbm9nRTBZSUhMRmJjYXQ3akJNT2xDR1VvLXVORjRKYkdJQWJYSk9hOW1OeVBjaUFLSzlRX08zM0htSUhDdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Video | Odisha News | BJP MP Dr Sambit Patra Inspects Satyabadi Overbridge Construction Work In Puri - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjFtNG5CcUNuYkZVdXM5S3FRd3JwMWVreHBxYy1RQkpfWFgzSnAtMVdKZDR0cXp2SDZCSDl5dGlGdlg3cERWd256cVFkLVdjbXdjTWEzZ3BYM0p3X2xoSFQxWFZzUHFtWVpJWE9qdm13ejNFV2J5ZnNaM09ZUDNDVDFDaVlFQy1jMXRNbnBrSmxyVUpQclFuYnRXVV94eE02VGMyS05Ubk9ONWtpendiOHBZb2hyRzNaS21YbjRYYURtbVU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sambit Patra thanks West Bengal government for dropping 'Dham' from Digha Jagannath temple name - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVDNfbXVCVkJxMXk2RS1QYUNxMkRmaDVaSW9EUWZKU05tRkZxRnBEQkhYRnhLa2dfRDc4dkd4cUdMc2JaRFF5RnVsNnltVjgwRHF0OE14dmVhdXI1Rl9KWTF1WTgxZHprWlVhbUx5cTVtNTFhSGU1WnV0NklzZjNjclpOYVZHV0ZOc2J2aXJmX3lDVDJtM1ZQZUZoNWpqMkFjeEM0RDJkd1ZRZW8tUXlEUEpJMGhqM3BnQldHSnRJTjdubWN2Z2xiejdMQzY0RHdwVnRxN24xVTdWV2taOXRyenhtZ1VmaEFOVXFIbFZn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP’s Sambit Patra offers prayers in Puri on Devshayani Ekadashi - thenewsmill.com",
+      "source": "thenewsmill.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVEd6Q1BBa0pidXNmT0dVMmRoSmM4b0tua250UU1MVEFZNF9MNnMta2JQZ0Y5X21yQ09QVGN4Tk16bFdZOU1QWVlxem5CUDJfcEVLUlVpNWh6S0swT21yaW5kUUU0Q0R5dEdxbTRRRDU0Ul9mWUNMd0hVWmp2VUY1NTUwSldfb0JaZEFLdko4bHNGTHk2RVV5cnktSXg?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:49.115955Z",
+  "collected_at": "2026-09-02T14:42:22.971655Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +203,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.382958Z",
+        "fetched_at": "2026-09-02T18:38:08.886863Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +219,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.382972Z",
+        "fetched_at": "2026-09-02T18:38:08.886874Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +235,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.382981Z",
+        "fetched_at": "2026-09-02T18:38:08.886880Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +251,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.382989Z",
+        "fetched_at": "2026-09-02T18:38:08.886886Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +267,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.382998Z",
+        "fetched_at": "2026-09-02T18:38:08.886892Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +283,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.383005Z",
+        "fetched_at": "2026-09-02T18:38:08.886897Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +299,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.383013Z",
+        "fetched_at": "2026-09-02T18:38:08.886901Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +324,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/sambitswaraj?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "url": "https://x.com/https://x.com/sambitswaraj?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/sambitswaraj/",
+        "url": "https://facebook.com/https://www.facebook.com/sambitswaraj/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/sambitswaraj/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/sambitswaraj/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:38:20.446671Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,43 +370,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Mahua Moitra effect? Naveen Patnaik drops 4-time MP Pinaki Mishra, announces Arup Patnaik as candidate for Puri Lok Sabha seat against BJP's Sambit Patra - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "Two Odisha Leaders in Nitin Nabin’s BJP Team; Baijayant Panda Retained, Sambit Patra Gets Northeast Charge - Pragativadi",
+        "source": "Pragativadi",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQLVluZWlQZGd2RjlCMjRNRVYxb2V4Wkp0WHE5V1lsRUxmMW44NmdicFNaZGNDYkVNRDBJTGZiZDVMLXBtenJ6dkJhNmkyd2lKcTJ5WXZad044ZlQzU2F3cVpEVDVUcVR0UHRGcWVXOGJBSkxLaWc2NU54Y0Rlc2dpX0VoWVdHOC0zV01aQThBVHVaRzNGRnF5MkFmdUI2TGV3YVYyeVJ0V2NzQi0zOG81UEZnbG9nREpkYlhBMW9ZcWJYUjQzUHh2T0pEald2elNYYkk1VXBnaDFmLUpGTVlzTm9Jd3FFLUdMaWxPQnZwcGNXTVA3bm10eUtaNDZVYmZIT0hLQklFYUw5QTNfVGRLR2hwTWkzWXR3dXFEMGFyOC1XeHNhSGhjUFZvd01aRjQ4Z0wxQWVaTkZLaHg5QjhNWUQ0ZmpHZlZaN1FzMWp2S2dZZW5PUVFNYjBBYmw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLWJzaDE0a3FWMkhuVEtMZ3lvV2pUdGdmbkN4SlJlVldGSl94R0VPbElubXNfOXB3ZDhmZ3JWQjlhOHVUVTFIdFZwYU9waDd1RXBEcjh0b3BvSTk3d3dkRkI1bVhCYjhpTXNBWWlFN1BOY2M3SzUwa0lMR1pib0VVYUd4dWRNLUowTjREYVV1b1Z5NHo1aVRHS05mRzcxR3ZsNE91Sk5TS19td3IwOGpPNU03YTVDZFFDbVNLZ21IN2g2bHowZWFv?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Odisha hotel, restaurant association proposes mega tourism, airport projects in state - ET Hospitality",
-        "source": "ET Hospitality",
+        "headline": "UNITED NEWS OF INDIA - uniindia.com",
+        "source": "uniindia.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU0dQWVlJalNWa3RBN3RPU2dGdldOSGVGOEpnTy1EdENuSlplNGx0YlRDLW04QnZBdGh2THlfQlRPMy04RHlWcGlNRHdaSFR5VFBCS1k2LUpyTFFxSEZleHllWk9xdTJMZmhaNEpiVExFWEpBbUJWcnBhZWhXQmdWVTgzUU83a0l1VmNjOC1NZ29MQmJfMFJjbHAzbHhhZGxnX2xMcl9LVFVXUUNjby1kYlFHR25PaHFNbmM3S0E4WnA4NVVRb1RSQkNZSEtwdmlPVkRBREJEdlVLbS1wQ04zaVhsRnpNRDFFOUHSAe8BQVVfeXFMUENidmtWYkhadzhnYWJEZFZUNm1VYUpXME00Q1VMRF9XMUFTYk45OU9KQ1pXLWY1N3hyUGRlQ2VIUzZlUTAyXzU4SWNuXzNKOTg5Vm1ZMmdhV01XbWVXNi1YMDhjM2htS0hubWNPOC0tT0xxcUIzTnV5RFB1T1BOT3h2a0lZZzJRWDZoUTlnY1ZIdGY5WmNpazJGT1dtTnQ3X2UzampFWlFnNlZ0NDN3Q2JnRGtwQU5LOUk5aTlRQ0NkaVNCcF9weVJKV3NVQzJFVURmXzBqVEdESDZwM0xicEtJUDFab2laZ2ttX292UDg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mdjBDb05NSXBZMU83dHBUcklLbm9nRTBZSUhMRmJjYXQ3akJNT2xDR1VvLXVORjRKYkdJQWJYSk9hOW1OeVBjaUFLSzlRX08zM0htSUhDdw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Member of Parliament from Puri Sambit Patra recites Durga Aarti in LokSabha, moment goes viral - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTlBuRl9fWk1MUERlLUJTdFZwTm5PYUI5MzlhMkNFcjdXUkdnWURqU2lHdFZ1OENZcG5MTWgwT25XWkFOTEdmVFJtVndQNGFYVG1FcUhsdWZnSll3ZGlGWUhDQl95RnItLW5tYlZkS1gtOHV0amVqVkh1Z3BWbDgtRXlvYUNMSjFaTWU3eXdyNkE3UmpXSjRld2FfMmZDM1RFU3gteDV2WUZzUGJ3X0lRMUMxNkxTZ1paQ0pSMTVQTUhLY1pnaEdvSW5oSl8xYlZVQjIwX3hvNTAyd2Z3dFlFVlJMbWdiTm9BVDk3VmxQaE5FZWdfZzVrMkNnNkZnT3lIVHc1WA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Video | Sambit Patra Visits Jagannath Temple For Rath Yatra 2025 Celebrations - NDTV",
+        "headline": "Video | Odisha News | BJP MP Dr Sambit Patra Inspects Satyabadi Overbridge Construction Work In Puri - NDTV",
         "source": "NDTV",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWVUMm45NDA3RHBrNzltS3A4cmxfQnhiZ1QxUkYzQTU4NVFFcHVab256ZmRINmtzU21valBlS2tVeTcyV1pGU1RwX3RlU1NycVltTmR5TW5qTkFHMklDdXVRWEI5X1NQalZHc2lKcnNEdzhUTF9tSHQ1ZmF0aVBCYTFrVWJJcXp5WHB3ZS1fWVZuRW82WHd1MVo3OERYOUh2VWtVLVJ3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjFtNG5CcUNuYkZVdXM5S3FRd3JwMWVreHBxYy1RQkpfWFgzSnAtMVdKZDR0cXp2SDZCSDl5dGlGdlg3cERWd256cVFkLVdjbXdjTWEzZ3BYM0p3X2xoSFQxWFZzUHFtWVpJWE9qdm13ejNFV2J5ZnNaM09ZUDNDVDFDaVlFQy1jMXRNbnBrSmxyVUpQclFuYnRXVV94eE02VGMyS05Ubk9ONWtpendiOHBZb2hyRzNaS21YbjRYYURtbVU?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Sambit Patra attacks BJD supremo Naveen Patnaik over 'betrayer’ and ‘candidate theft’ remarks - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "Sambit Patra thanks West Bengal government for dropping 'Dham' from Digha Jagannath temple name - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUFRyRkg0NVNrRzZudDZpTEtNNjdGM2xEZnRCdWR6VC1HdzBKRmdvb3Y5aFdETFRwSkhKOHQ2WTk1MFIwOFI0NEpLdTNhNGJCem94QUxqVldMQTNyWTRPQ1kzcWZuSmxPTzdqeWZGWEJEaXk5R0VYZl94WFVzWDNTUlJINF9IWDlFYkpFb2ZKR1EwZ3h2Uk5obkVJX21XeE53S2k4VXhPT2FLbkstM091RThiR1I1NzhNa3pZdjQ3SmRNanpoXzFHN0FSYUk0RGdMWUpGRkRwYkxZdEFSZDk5T0N30gHvAUFVX3lxTE5NUHBja0dramdDM0NLN3J2QVlQSTM5TXRUVWgzVjUwZTJpdHNxYnhkZDhtZlVlOHN6WXM0NU9fOXVHNUEzVUNWdGNhVDhNMUY2SzNKV2JDRy12c29WT21NaG9CcW9IdHlxYTFfQVpOZTFMWDczUGtQN1NObWdvV1VrZTlnLUxpYy1vTkhZM0F6RVpPdkk5d1JISVo2RVpNWGp6U3p0cDc5OHpFVVdEZXZpZmN0eC0wcy1SWWdWQnFod3R3MkN5TXpKdVRNWERfVkhVbHJ6a05PVzBUTjN2cDlWOGwtVmhBTzJpbUFOUmFj?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVDNfbXVCVkJxMXk2RS1QYUNxMkRmaDVaSW9EUWZKU05tRkZxRnBEQkhYRnhLa2dfRDc4dkd4cUdMc2JaRFF5RnVsNnltVjgwRHF0OE14dmVhdXI1Rl9KWTF1WTgxZHprWlVhbUx5cTVtNTFhSGU1WnV0NklzZjNjclpOYVZHV0ZOc2J2aXJmX3lDVDJtM1ZQZUZoNWpqMkFjeEM0RDJkd1ZRZW8tUXlEUEpJMGhqM3BnQldHSnRJTjdubWN2Z2xiejdMQzY0RHdwVnRxN24xVTdWV2taOXRyenhtZ1VmaEFOVXFIbFZn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP’s Sambit Patra offers prayers in Puri on Devshayani Ekadashi - thenewsmill.com",
+        "source": "thenewsmill.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVEd6Q1BBa0pidXNmT0dVMmRoSmM4b0tua250UU1MVEFZNF9MNnMta2JQZ0Y5X21yQ09QVGN4Tk16bFdZOU1QWVlxem5CUDJfcEVLUlVpNWh6S0swT21yaW5kUUU0Q0R5dEdxbTRRRDU0Ul9mWUNMd0hVWmp2VUY1NTUwSldfb0JaZEFLdko4bHNGTHk2RVV5cnktSXg?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +440,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
+    "total_questions": 3,
     "starred_questions": 0,
-    "unstarred_questions": 0,
+    "unstarred_questions": 3,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 4.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +456,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

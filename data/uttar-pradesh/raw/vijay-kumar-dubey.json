@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5151.jpg"
   },
   "criminal_record": {
-    "total_cases": 2,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 2,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 60174786.0,
-    "liabilities": 0.0,
-    "net_worth": 60174786.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 44.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.89,
-    "released": 14.89,
-    "sanctioned": 8.04,
-    "expended": 6.99,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:25.132037Z",
-        "notes": "Official eSAKSHI REST API — Works: 196 recommended, 167 sanctioned, 104 completed"
+        "fetched_at": "2026-09-02T17:26:03.201059Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:22:22.563063Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:22:22.560253Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 196,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 46.94425789120215
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:04:46.557037Z",
+        "fetched_at": "2026-09-02T17:22:22.559217Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Kushi Nagar election results 2024 live updates: BJP's Vijay Kumar Dubay wins with over 5 lakh votes - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNbkxyUnBvMm5zMVZ1NUpudWFDaU9ldndRRC1pSjlzXzFoX1lCNkdjU2tkTjdvbjFvUXZYcWw2NmJLMHdDNXNWMkNXamxsZDVPN2tfOU54LVowaEFRc1E3LVZWVFdEQlZnQkhNVjJuTndiVzhLOS1XRU11QjBrNkNzNWtJQ1pUSi1vZzVNQkFUOGpRQVRub1AyOExkU1YzRVZLczV0MWpOMU1UNGZwTWlZVTJUM1hDczk5VWZqUm41OG1wdDRmLVViTnVlbzZFSF9wREpOT0JjNExjR1dsT2xRM2hwbUhhR0ZXcDZXSDY3MGh6V3NRTkJ2Mmo2RFdXcHBBSHNRQktyb01BdHJ3bklvNFRVMWZTSjVoaWRMOHhaV2g3WEIySkI2Q1Eybkg2VGpVRWJiTFlIZ0RObXhSTHB1YXZ1aVpiT3hFSk9qWUJQczVHUjRHQ2JzUWo1RUhhTHPSAeQCQVVfeXFMT1N2VVB6N2RHd2cwa2Zrd25SVUtVemR2Q3l6T21GNDkwVWVhRDMwc2Jxdk1BcWFUQktRVDc0RG1ucHJjbFJIaFgyMHItdEUzdmhxM1FTVzBRRjZFZC10MEVSZ2VlYjd3aTNJeWxGNVNNNk9XMl9RLVlyUEVYczhYZ1RLamxJRjNPSFhQenM0RnZHYnEzWHBaNEJ6dEdJdDk1Q3dGWk5QS3BZUFRRMTNyMEgtd3FzZDF0b2YwY0tyYklBV0kzQ01oMXh5T25DaVlYb2NoU0ZjM1MyUXVUaGtTZFVaa2VLbS1wY3ZDSW9rdnl4dzBMdlZYMm1IWXJQWmF1WFlsVGdFQUEyMm1seklPN1NBS0RKU1c4Slk2VFZ3ZDhkbFZ4aTByMzJOSUFlLUFCSDNodUdkREFlR1M4dnNGbkpZY1V0aTdBbkx3eG9xTXpZWGQ5WDktS2V4aW9vZEZWWjVfem8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazhTeWpLcEM3b0pYdnU5MlZZSk05UnlQNGxVMzhQN0UwNmxjYnFDWHJwVU9MWEtZaWdBdnJfaU9Qdlp1ejZvSUhlaXJ0a1oybFo2T29hTl85YWdSdUpyMFdTZjc5VndCSHhEV1pWRW4zdkN4V0plak1YX0lyREZ4SkpGTXpYd1U?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kushinagar lok sabha election results 2024: Kushinagar Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdXhUSXpfMkp5Vk5scDBRWHNmbmxObVpHdGNuaGExaDJhVWM1dl8xMFZIMkFFcjluMFJkRFBlQkVwSkN1dUhYcUxHZjUydVV4OXU4QVF4anlIYzN3ZVBTOVpXSVZpYldwenVWZGYzTjZLbGZWMGFZLTlyd3FjcUF5MTVMYmoyRXowdVJxLVJ2RTZndjQ5ZTVUQUtsMDc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "UP assembly polls: Monks at Kushinagar monasteries demand govt Buddhist University - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUTJyUWdwenl4QzhRT29TWEp0cmhhMkFhRHpCN0k1NXJZZzBQUHdoLW1jbVZPbERMNGYzOWxtUzFKX0ZRNUwtOFNVYkc1dE8xeENaR3RGSVJHdXpBNWJTVVhXZmpCemtTOGQ4RHdBdU4yU1RVNEdDVUpoYk9pWDc1bWhRVUktMndvVFhIV3Q3OUd6VUw3cXRGSXloSk45R00yb29MMDZGcXNLODlWZzgtVWNYVEs3aEZUWm9zNDFGRFlVUUFsQVJwMndaQXdoWF9ZbHpNbzF0Wi0zNlMwUlE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP candidate list 2024: PM Modi, Amit Shah, others feature in first list of 195 candidates | State-wise full list - Livemint",
+      "source": "Livemint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd1dOb2dPOG5RQzJFRzh1eWJNUlh1WXlTZU4yY3ktb0gyaWJCN3AwRnFBbnhXQTBqcWRKekEzczZEV0VidUdkOGFtcE1IQndNMUNEdzJkUElsLVVDdFNMLWp1YmtEaUdrRDFMVFEtV004cERXOHlQV0QzRTNqYVR0dGl5RkY1cV9ld0ZwSTFnbm12XzZoUjNsY2dDWFV5eVFLV3ZOaWoyMnB4elJRckF0ZlhmZ2l1R1d2YnBXV3owTWFZZEdueGotSy1ILWdCN05MVGJrZjg5SUhacXNNZ2c4bzBMMU5IcFJ1QWRiTVdjWkFYVF96VkHSAfsBQVVfeXFMTlo2eElsY3NmYXROTGRoNmNLLVlkM1RSSGN5dEtXTmhSX2JzZVgzY3FfWWFzZ2dtdndpdEFZcm1oajZNTTAzNUQzbnZwWHFlWW8yM3FrdGhpYjVxdkYtOFdWWjR3QjFOYXNFWDdKcUxJdmtPSnprS0NWR0pCbnpBZ2w4aGI3QzFGT1IzZ2trY1lVbjlwNnZXOGY1emRSTGtxcVd0QkFqTzVja3dqQ09kOTRVUFUyV2dqMWJtZERialJXLTVwNHhySTNnSmE3WTBNR3Bhdjloc0ExUmFqaVQzQk95NHQzR1RXUFU2TFlfZU85ZVpwYkdYcWdGVkE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:05:07.221296Z",
+  "collected_at": "2026-09-02T17:26:03.202476Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.360056Z",
+        "fetched_at": "2026-09-02T18:38:11.940275Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.360064Z",
+        "fetched_at": "2026-09-02T18:38:11.940286Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.360069Z",
+        "fetched_at": "2026-09-02T18:38:11.940298Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.360074Z",
+        "fetched_at": "2026-09-02T18:38:11.940303Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.360079Z",
+        "fetched_at": "2026-09-02T18:38:11.940308Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.360083Z",
+        "fetched_at": "2026-09-02T18:38:11.940314Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.360088Z",
+        "fetched_at": "2026-09-02T18:38:11.940320Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.360093Z",
+        "fetched_at": "2026-09-02T18:38:11.940324Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -277,6 +333,14 @@
         "sentiment": "neutral"
       },
       {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazhTeWpLcEM3b0pYdnU5MlZZSk05UnlQNGxVMzhQN0UwNmxjYnFDWHJwVU9MWEtZaWdBdnJfaU9Qdlp1ejZvSUhlaXJ0a1oybFo2T29hTl85YWdSdUpyMFdTZjc5VndCSHhEV1pWRW4zdkN4V0plak1YX0lyREZ4SkpGTXpYd1U?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Kushinagar lok sabha election results 2024: Kushinagar Winning Candidates List and Vote Share - India Today",
         "source": "India Today",
         "severity": "low",
@@ -285,27 +349,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Bharatiya Janata Party - bjp.org",
-        "source": "bjp.org",
+        "headline": "UP assembly polls: Monks at Kushinagar monasteries demand govt Buddhist University - ANI News",
+        "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeW5rODczb29weEhuSzhQTGpONkc1cmtwOGxrTlZDRWM2MThvV1dKdzVWeGdtcXpLc2JybVJPM01ELU9uR0VISDhPWklNM2hEUzA1bTk4elNPNGFuWGJSUjYzSEJoUDBJWFBFQmwybE91bDlEajdUTmlLdlpHckN1MDRnSnVWNUNObDR5blQwZVFIcWw2eU55Uk5mcXFnN1B3ZUtQSU5CS1ZPcDItQXU5Qkl5Q2NDa1p3RUE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUTJyUWdwenl4QzhRT29TWEp0cmhhMkFhRHpCN0k1NXJZZzBQUHdoLW1jbVZPbERMNGYzOWxtUzFKX0ZRNUwtOFNVYkc1dE8xeENaR3RGSVJHdXpBNWJTVVhXZmpCemtTOGQ4RHdBdU4yU1RVNEdDVUpoYk9pWDc1bWhRVUktMndvVFhIV3Q3OUd6VUw3cXRGSXloSk45R00yb29MMDZGcXNLODlWZzgtVWNYVEs3aEZUWm9zNDFGRFlVUUFsQVJwMndaQXdoWF9ZbHpNbzF0Wi0zNlMwUlE?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Parliament of India : Lok Sabha Member of Parliament – D - Sarkaritel.com",
-        "source": "Sarkaritel.com",
+        "headline": "BJP candidate list 2024: PM Modi, Amit Shah, others feature in first list of 195 candidates | State-wise full list - Livemint",
+        "source": "Livemint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazhTeWpLcEM3b0pYdnU5MlZZSk05UnlQNGxVMzhQN0UwNmxjYnFDWHJwVU9MWEtZaWdBdnJfaU9Qdlp1ejZvSUhlaXJ0a1oybFo2T29hTl85YWdSdUpyMFdTZjc5VndCSHhEV1pWRW4zdkN4V0plak1YX0lyREZ4SkpGTXpYd1U?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Bharat Tibbat Samvad Manch organises\"Cultural Program on Tibet\" - Central Tibetan Administration",
-        "source": "Central Tibetan Administration",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTTVPa2tpOVo3YkJVYWJaUmF2RXVxUUpZLWIxcGl0emtSZHJ2VTJCSWZKcEhLMzZVWWpoRUduX3YyV1BlS0g1cG40YVBZSG0zd0RGcXJReWFhV0RKc1N6eU5jYmh2ODBCcjNhX2RqYS1td0xhV3pzdTZ6LU1HU3ZZNW9lb2EyQ011dVlhdlZxS3hYZTJycVg1SjRyblVQTUFNekxZYlc1MHZ2NEhzUGwtMEx1WWZiY1Vs?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd1dOb2dPOG5RQzJFRzh1eWJNUlh1WXlTZU4yY3ktb0gyaWJCN3AwRnFBbnhXQTBqcWRKekEzczZEV0VidUdkOGFtcE1IQndNMUNEdzJkUElsLVVDdFNMLWp1YmtEaUdrRDFMVFEtV004cERXOHlQV0QzRTNqYVR0dGl5RkY1cV9ld0ZwSTFnbm12XzZoUjNsY2dDWFV5eVFLV3ZOaWoyMnB4elJRckF0ZlhmZ2l1R1d2YnBXV3owTWFZZEdueGotSy1ILWdCN05MVGJrZjg5SUhacXNNZ2c4bzBMMU5IcFJ1QWRiTVdjWkFYVF96VkHSAfsBQVVfeXFMTlo2eElsY3NmYXROTGRoNmNLLVlkM1RSSGN5dEtXTmhSX2JzZVgzY3FfWWFzZ2dtdndpdEFZcm1oajZNTTAzNUQzbnZwWHFlWW8yM3FrdGhpYjVxdkYtOFdWWjR3QjFOYXNFWDdKcUxJdmtPSnprS0NWR0pCbnpBZ2w4aGI3QzFGT1IzZ2trY1lVbjlwNnZXOGY1emRSTGtxcVd0QkFqTzVja3dqQ09kOTRVUFUyV2dqMWJtZERialJXLTVwNHhySTNnSmE3WTBNR3Bhdjloc0ExUmFqaVQzQk95NHQzR1RXUFU2TFlfZU85ZVpwYkdYcWdGVkE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -339,15 +395,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 52,
+    "starred_questions": 15,
+    "unstarred_questions": 37,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -355,17 +411,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

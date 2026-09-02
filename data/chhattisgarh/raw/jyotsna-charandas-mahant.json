@@ -4,16 +4,16 @@
     "constituency": "Korba",
     "state": "chhattisgarh",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 3647,
+    "myneta_candidate_id": null,
     "slug": "jyotsna-charandas-mahant",
     "house": "lok_sabha",
     "sansad_member_id": 5011,
     "profile_url": null,
     "canonical_name": "Jyotsna Charandas Mahant",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 70,
+    "age": null,
     "photo_url": "/mp-photos/5011.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:36.845062Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 179626733.0,
-    "liabilities": 500000.0,
-    "net_worth": 179126733.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3647",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:45.708231Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 69.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.52,
-    "released": 15.52,
-    "sanctioned": 9.75,
-    "expended": 6.72,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:18.570324Z",
-        "notes": "Official eSAKSHI REST API — Works: 288 recommended, 278 sanctioned, 93 completed"
+        "fetched_at": "2026-09-02T14:36:24.986811Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:32:18.321195Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:32:18.318803Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 288,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 43.29896907216495
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:18.632103Z",
+        "fetched_at": "2026-09-02T14:32:18.317851Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "5 Facts About Jyotsna Mahant, Congress Candidate From Chhattisgarh's Korba Lok Sabha Seat - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHpHSGRRQmpQTlc1Y0hwSnowYzJBSHEtTG5fY0dvYXptR3VWM29rNjQ5UXdmMnZPbzhNMENLeDJNem9ZM0ZXMlZLS3B0SHJqYlMtOWlwdXEtTVpKb2NldEJvZG00WkNhRW05d3hHcHhMV1huaU1ReS1ITDR4RlFoQnhVakdZcGZvR01sWHNIZzlteXRyNUlQS1ZoclVsYlVxVXVDNThpMGtncGPSAbMBQVVfeXFMTmJkTHNvb2lGVVl6YmJldUlUamc0cGIzWjlwNW9wNW5pUHZLOTBOQndWY2swXzJ2ZDdpMkZoWmFVQUxXU3I2ek1Bd2FTV3NIb0NVU25GWGIzUXMyX0lKUzZPRUViMHkyLUlfMkgzMThvRmcyOURhZDg0ZEx6OGVmMmlBQ0RrbWpqSlZWT2FnSHB2anJuNm1OY2FKejE5YVI5cG1EY3hTVHlaOS1Mdi1HTlpoeUE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Korba Lok Sabha Seat Result 2024 | Congress's Jyotsna Charandas Mahant Leading by 8,158 Votes - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWDlPOUQ3Y1UxWmEwM2NDMklBSmNfN3ZvenpudmpSWExCeExRNGh4SlpVYjFjbnlwUmhHakZYdzdEdHlFbFhLMENnblFnOERWR1d5REFUOVV3ZW95LVE4cnFGanlnUk1TYS1VN0VGRlo2Vy1QSlJBQ0J4aU1yVEVtV3gxNHBLMHBoTDZfRTlNZkljWHB2eTRnRkNSTVE1Ui1iQUVVUi1LdTk1eVRHMkU5el9TQXpwX3l4VEtYSU5tUkpBWlpsV1ptd0JDSmlPRDY3OENoWm9oZnZWenJYdlluRjhid05sMGhqNVNnYzR2UmRubWxyd0I4dkppZ1RmX3ZBdFpF0gGIAkFVX3lxTFA4NUpWNW1odlplc2g5NEhEbmUyUzhoVUhFVWtfaWF1dURtWFZGdjdsM3FXM1NkdldsR2xzb3RwMmg2NEhnM1dsTmtEX0VkT1dkWDU2MFVGVWY1RmRyRG5oYy1GNF82ak9MT1VoakoyRFhuTUtPZ3VwX0N0VU92aURnVjNUazdYcDc4SUxqWHhjWHJuNkxLM1VQbElHWU14cklpMk9jLTBETG1rd2ZVVUgtMmNGZHRROVBNWVQydEUtb0FELV81OW83ckM1bHoza2s4a1d3eWRWSnQzUEFaS1JyREEwbG92SEJDc0VjUDMwYVNlODMtZkVWNE54d2xmbFAtVy1lYzVDVw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Cong’s Mahant retains Korba seat in hard-fought battle - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVlkTjZtc0FXRUhKUGhFM2lGaWJRcks1Y1o4WWdVV1FkQjVUNHdYNGFNT2c4VHJ1enlCVGhHVnIzR0ZtZXE5ZnJ2V0owLWM1SG11ekdfRXU1RngxSUlxX2JkV1pZSm9jbk42SUtzT01MVXRycU1wVGxXWl9Yc09GeWQ0eldnejg0X2Q2X3czVnJJX0tEVjhDWDZJVDlVTnphRm9vTXM2dUwxWW5sOE53Yjd4WUZ6dEJqaDVuYWFIaGIzbnBvQjJ4TVVCMHkxam1tQjFuY9IB2gFBVV95cUxOYlJ2UHIwSDZzaDFsc0doWG5TbFl4c3ZvdXp2UjI1QkVGTDM3OU00MGg2YTRWVnFheVpLWVVubHNKYktwUXh2aU0tMmczZWR3Tkg5ZHRqRFpQRlZEZUNtdDlqaU9uVW0tRjdJMl82QU11Yk9HaUNtR2lubHNlMXJ3SzlMeVlodDAtRFhMbUt4XzhheGJUT01rdEVvOWNDRjJZXzZDT3NFX19rRDU1eGpWVFBUWmhLSGRVc2RxSG5sN3VablcxRXViS1lpU0E2S1psTlIwUm5jTkF0QQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Who is Jyotsna Charandas Mahant won elections in Hasdeo Protest region? - Ground Report",
+      "source": "Ground Report",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPai0yRV9LN2taMUQ2RE5kcTA5bkdYbHBJX0RHdVlVTXM0eHJVWHZ6cnhQWGttemljSDU4Znp5V1BqZVk0Wm1TNnlPdDNtdDV4S2hYRzh5VFJtU1NQN2MyTlVFY2ZfOS0wMWhONnhwS2JBR21tS2NycUZ6WWoyWEU1WkFYWXp2czB4VWw5X0s5ejQ5bHNrZmlpOFJZdWpqSHRmc2oyT0hPTTRKUG82c1JVVEx5SkpPVkx1UWlMdERPMFI0ajlFS3B0WmdPVV9ndHc?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Her story: It’s a Bhabi vs Didi duel in Korba - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjZuMnllTGV1aVl1RS1kUmkyQnhiYXJPTzk2NmRId1dSVDFaOEJlbFVPWU00b2JiZ09hbDhzajNPM1BmZ3hHelpCVW9hUFZKUHZoaVZzZVNlaFdpXzgyT3NHNWVnNmlsMnd1VVpMMHJLNHdTUW8tOG9TUFVBNjh4dC1Ecko5V0RSZkM1TUphMHN0QlJBd2xHWkR30gGnAUFVX3lxTE1qSHNFYUJuWmRCMTl4OWZTVkhMYUZUREt0UC03bVhZNEQ0c19EMFlfWXkwZ3lpMmVBUnhIVkZPdUVNdFBhTFhFQXRLTE1leEo4X0VIWGVHUm1iUjd2cExodU5zcXZPYzFMeWtSa2lvRThuWHZYOWVYTVByN2tfWVQzN2p5QVo1NDlRTVNtUng1bURYUU5weTZtc0RtbjNSaFJMakgwSG1v?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:24.187823Z",
+  "collected_at": "2026-09-02T14:36:24.987908Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.615211Z",
+        "fetched_at": "2026-09-02T18:38:05.216489Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.615220Z",
+        "fetched_at": "2026-09-02T18:38:05.216499Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.615226Z",
+        "fetched_at": "2026-09-02T18:38:05.216505Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.615230Z",
+        "fetched_at": "2026-09-02T18:38:05.216509Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.615236Z",
+        "fetched_at": "2026-09-02T18:38:05.216516Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.615240Z",
+        "fetched_at": "2026-09-02T18:38:05.216520Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.615245Z",
+        "fetched_at": "2026-09-02T18:38:05.216524Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "@jyotsnamahant",
+        "url": "https://x.com/@jyotsnamahant",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/JyotsnaCharandasMahant/",
+        "url": "https://facebook.com/https://www.facebook.com/JyotsnaCharandasMahant/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:32:46.096690Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -263,6 +341,14 @@
     "negative": 1,
     "neutral": 9,
     "top_headlines": [
+      {
+        "headline": "5 Facts About Jyotsna Mahant, Congress Candidate From Chhattisgarh's Korba Lok Sabha Seat - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHpHSGRRQmpQTlc1Y0hwSnowYzJBSHEtTG5fY0dvYXptR3VWM29rNjQ5UXdmMnZPbzhNMENLeDJNem9ZM0ZXMlZLS3B0SHJqYlMtOWlwdXEtTVpKb2NldEJvZG00WkNhRW05d3hHcHhMV1huaU1ReS1ITDR4RlFoQnhVakdZcGZvR01sWHNIZzlteXRyNUlQS1ZoclVsYlVxVXVDNThpMGtncGPSAbMBQVVfeXFMTmJkTHNvb2lGVVl6YmJldUlUamc0cGIzWjlwNW9wNW5pUHZLOTBOQndWY2swXzJ2ZDdpMkZoWmFVQUxXU3I2ek1Bd2FTV3NIb0NVU25GWGIzUXMyX0lKUzZPRUViMHkyLUlfMkgzMThvRmcyOURhZDg0ZEx6OGVmMmlBQ0RrbWpqSlZWT2FnSHB2anJuNm1OY2FKejE5YVI5cG1EY3hTVHlaOS1Mdi1HTlpoeUE?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "Korba Lok Sabha Seat Result 2024 | Congress's Jyotsna Charandas Mahant Leading by 8,158 Votes - ETV Bharat",
         "source": "ETV Bharat",
@@ -280,14 +366,6 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "5 Facts About Jyotsna Mahant, Congress Candidate From Chhattisgarh's Korba Lok Sabha Seat - NDTV",
-        "source": "NDTV",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHpHSGRRQmpQTlc1Y0hwSnowYzJBSHEtTG5fY0dvYXptR3VWM29rNjQ5UXdmMnZPbzhNMENLeDJNem9ZM0ZXMlZLS3B0SHJqYlMtOWlwdXEtTVpKb2NldEJvZG00WkNhRW05d3hHcHhMV1huaU1ReS1ITDR4RlFoQnhVakdZcGZvR01sWHNIZzlteXRyNUlQS1ZoclVsYlVxVXVDNThpMGtncGPSAbMBQVVfeXFMTmJkTHNvb2lGVVl6YmJldUlUamc0cGIzWjlwNW9wNW5pUHZLOTBOQndWY2swXzJ2ZDdpMkZoWmFVQUxXU3I2ek1Bd2FTV3NIb0NVU25GWGIzUXMyX0lKUzZPRUViMHkyLUlfMkgzMThvRmcyOURhZDg0ZEx6OGVmMmlBQ0RrbWpqSlZWT2FnSHB2anJuNm1OY2FKejE5YVI5cG1EY3hTVHlaOS1Mdi1HTlpoeUE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Who is Jyotsna Charandas Mahant won elections in Hasdeo Protest region? - Ground Report",
         "source": "Ground Report",
         "severity": "medium",
@@ -296,11 +374,11 @@
         "sentiment": "negative"
       },
       {
-        "headline": "Korba Election Result 2024 LIVE Updates Highlights: Jyotsna Charandas Mahant of INC Wins - News18",
-        "source": "News18",
+        "headline": "Her story: It’s a Bhabi vs Didi duel in Korba - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcDlhX2pTWjJYNC1GQ1BJaEJEWVJSX2FPTTYwR0pPSU4wVHVNaGMzbTRMTnV1blhac25oY0h0N1BqczNPOXVLSEVxSnZYZ1VOZ21qUmp2NFM1SGhtSFg4MS1ZT1VBV3FvMDJLUzE5dTkxMVZpRFM2dENEUXl1NE14Y3NLazBBR2pocjlQOGpFRzFLbVcwVUg2Mzl2WEk4V2Zrdm9ZVHU4OUN6Tm16bmVxOVRQQVV2UDJOcUV5aHVra1VjRmhpSzVxcWVQbU1lRk1vVllvRXdLOUhoeUxOa19V0gHkAUFVX3lxTE5NWDNVbTBpTV9FZE05bThnUnc2NlgzQkxhVUVjampCZTI4elRPV3NwTGl5ZjgxZE8xZ0xNUTR6NFdaWGc0Vm41dTlDNXVqX01Db0lQdjU2b0tTU2ItMFNiZi1EYVA1THdBbzVWc3JnLVJOenZ2NGROZVZkaURMUUYxbEZ5cHY2YTRlTVZ5VFJGMFlUbW1jc18zVEM5NnF6TjRPeEJuY0gtUG0zYWp2dGZuREUyenE2Y3RNaHlsMzdRc2V4YnFtSy1VS3hFS0gwdC1uYnFWdjJIbVN2QUo0RVRNNnV0Vw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjZuMnllTGV1aVl1RS1kUmkyQnhiYXJPTzk2NmRId1dSVDFaOEJlbFVPWU00b2JiZ09hbDhzajNPM1BmZ3hHelpCVW9hUFZKUHZoaVZzZVNlaFdpXzgyT3NHNWVnNmlsMnd1VVpMMHJLNHdTUW8tOG9TUFVBNjh4dC1Ecko5V0RSZkM1TUphMHN0QlJBd2xHWkR30gGnAUFVX3lxTE1qSHNFYUJuWmRCMTl4OWZTVkhMYUZUREt0UC03bVhZNEQ0c19EMFlfWXkwZ3lpMmVBUnhIVkZPdUVNdFBhTFhFQXRLTE1leEo4X0VIWGVHUm1iUjd2cExodU5zcXZPYzFMeWtSa2lvRThuWHZYOWVYTVByN2tfWVQzN2p5QVo1NDlRTVNtUng1bURYUU5weTZtc0RtbjNSaFJMakgwSG1v?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 21,
+    "starred_questions": 6,
+    "unstarred_questions": 15,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 40.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

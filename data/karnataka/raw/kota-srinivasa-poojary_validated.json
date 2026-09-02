@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 29470510.0,
-      "liabilities": 10444645.0,
-      "net_worth": 19025865.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 25.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.15,
-      "expended": 2.96,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:21.369579Z",
-          "notes": "Official eSAKSHI REST API — Works: 262 recommended, 103 sanctioned, 40 completed"
+          "fetched_at": "2026-09-02T14:54:52.497523Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:51:10.891125Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:51:10.888625Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 262,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 20.13605442176871
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:28:42.827579Z",
+          "fetched_at": "2026-09-02T14:51:10.887581Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "MP urges Karnataka CM to allow KRCL merger with Indian Railways - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVXRMeHh3S2hLeTNXOWRweGtlNEY4dndoZDJBQXlqSlpIOF9TeG4wNy1tYmF2QlJCdWozbW04eW10b2dDLWFJcDJTN0hFOFY1NUxFWG5fV2M4Z0Z5R0l3ZDlKQ3EzdUZOOTZHd1E1bi1meUNiQmpUUnJoWGxJcFotUEN1a3lHQlNjV0c2eDVweTBYcTZDQWt1SVZSQkNiZVNKOVJINmVKM1h4NW52dF9HS0xvZUtrYUwwN0U3UGxIQXF3WC1MUHVxLWl3Ql9RdExIMVpSYVZ5dVkxNTFTSHN4bDlZcFZBV21OSXIwNXZYdThqM1hsU0JpQ2JWV0s0UU5TOFpF0gGKAkFVX3lxTFBTaDVzcGJPVjZHYU5KZE0tX25rX1RSNW03bmxFSHRLT3QwM0NTRFVHTElEZWZlU1pyTThndkEzei0zenFzdGJwQmQxVTZhOXhGQWRpSFdtMzBCbmZ4TVFVVjl1ZVVtdERvYWhLN0Y1cnFVV0xGa3ZqRU1EVGQyLVBZZC1FOUZVRFJSZ0owWVNuU1lRb05WUHlmendYaW9LdDBvWTREVFhCdGhSbS14SDFGdnlJd0g3aUZnNlJXVmNkcTNwM3NVbzRzc3YtQVVRcVFoeEEtOUF5Nkg0aVFBNEIwcTRqcTdoUnpib0l6ZGpYSWlHUU04YVpUdk5nMlR5S295bVNvQ2xSVW9n?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress showing sudden overflow of devotion for Lord Rama: MP Kota - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0FDT3N2SnFNSzBhdHR1bUd2UmVicG5fY1NWWWVzUWpadWZoTXpnNDVlcnlqWVhkLXhsV1dOSXd5OFNhbXhPdFg5Vkh0bHo5SjBOa2lwLWMtd3ZURWlXNklpNTdveTJrOWJVUlVUWUxoZjJMUEtRUnhWSHQtZmszMWZKZXd3SVVuQjNrSjJJNHBNaDFQNHVjVXEwOS1zVGRLVnc5azk4STNkSkgxTFUtYmxreFhucW9fRXVkNU5Gdi1zNV93cTBWc0d5NU5SZmhPMmwtMTJrT1pVbTTSAeABQVVfeXFMTWlJbDNkVzBRTFM1SVE5bzR3eEtmV0QzOWFYSEtLUWNrY3VYUmVXUWgwNmdUTjROeWY5cmwwQk5qdE8ydWFDUm1ZckdOdFFXTjJCbWxwUjMxUkVUUXViN2F4SVY5aTlHRGhmUnpUaGRlSkU0dXBQZEotRlo1QWRncW5nUjF2Zi1BV19ib0RHVnJkbjRjcG0xU3JWRENLcTlKN3l6YkI3M0JlUkRNMjZtTVFucnRRWDZ1UERLTURuUzE4NV8zZUlEc1l4ZlFLaGJEdzA1Sml0QWxPRkl6Yllrbm4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Kota Srinivas Poojary meets CM D.K. Shivakumar, seeks Karnataka’s support for Konkan Railway merger - Mangalore Today",
+        "source": "Mangalore Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNG1Oc3ZaMkpaTjhWNXVKVkZDcWdTX3dqdXd1aDJDR1p2Y0I5TU5RNkNMV2tVakZUY243cGNxOHdPNmJwYlAxeW5hUGFFY2JxcjhYZFVLd1hJRWdlekN1UjBHbHo1NWxINFM0S3dnN2RqU2FYTGRFTlBGdnFVbVRoMW1VN1BDTERhaHZCc29uZzNPYzh1TXJ3U0hUQXduYmRDZ3lIT3lWV3g4VXpYRWxMYVZ3N3RCN3ZjUGp0SExYRDFmckVDR3kzLXp3dTJaRy1Va05QS3VyeHNxUzFqVVU2dw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP Kota Srinivas Poojary slams Priyank Kharge for targeting RSS, urges focus on governance - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRXlkQzluTWpEWUxoQ2RWUzY4ZFJ4MHZvSU1jQ1I3NGFOV1dCUk91UjBwaXgwbFN1Y0MxMF9JNTFnRVhFQUlMYVlObmJDS2JwalBsMzVKV0hJV1YzLWJwTmt0NG1SNEVXWnU5ejVUNm9PRTNTdXJmcEZJbmUyUnhDQWxXMjdsbkxKSXM0eXRvT1NPRmtzeThZbWpOQlRjemR6bnExSDVTbGhsUTVwSDVjalJ5dDAyNEFYV1JGdWVycE8zX1pWSm9JMDh4bzRGRFZjcVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Poojary hopes Forest Department facilitates widening of key highway stretch - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSG12Z1FCdE9jbEt3YjhGLXdXTllfdGV0aTl0UkhObFRpX1dDUko1Q294WmJST1V1UENSRkwtdms5cWpySkdXazdrQUIzWGtLckVmMDZhZGVJQkVpNnRKdDVMZE9hUkxyUTE1Yzd5Z0ZCbFZ0MXRyNmpuMjg3OU8zYlhRdGgwTDlGNjhKaUpzYTdPZDVoVDVCNkF4SWJIckRPaFNRdjV6NUFoa0tOMVk0VFFFWkxKck91VDNRYlRKQUZkMl9BNzFVYWdRWVl5RkoyMkxGVi03MFBPQdIB4AFBVV95cUxNRGJlOUd4SlI1Z2F4YjJoMk1QTXlDSnlWbktxT3ItbVZINVJDMlkxb0o3QlllVlQ1RjlLOUpkUEtpWFRWc18zM2pVa0JCSjJxUlFVYW8xQk9qQ1FuSVZ1ODdwWHl6UE1rV0FGWXk2YTZvYzdKb2hyZFR6UVJIM3VpcGMzR2tZalFISGt4X1lDZTVLSzFFa29XQ3JjRU5DNEk2M1MtVk9KSG0xSGQxeC1TOVZQX0g1bE5EWE5MNkI5NjVuUXVvRHloc1ROTG9Ub1N5ZVdCWnpwQU5VTWtFbEJSUg?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:29:47.457392Z",
+    "collected_at": "2026-09-02T14:54:52.499054Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.095781Z",
+          "fetched_at": "2026-09-02T18:38:06.602608Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.095794Z",
+          "fetched_at": "2026-09-02T18:38:06.602619Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.095801Z",
+          "fetched_at": "2026-09-02T18:38:06.602625Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.095809Z",
+          "fetched_at": "2026-09-02T18:38:06.602630Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.095818Z",
+          "fetched_at": "2026-09-02T18:38:06.602637Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.095826Z",
+          "fetched_at": "2026-09-02T18:38:06.602642Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.095833Z",
+          "fetched_at": "2026-09-02T18:38:06.602647Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -258,11 +314,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/kotasrinivasapoojary/",
+          "url": "https://facebook.com/https://www.facebook.com/kotasrinivasapoojary/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/kotasbjp/?next=%2Fmdashfaqahmed%2Ffeed%2F&hl=fr-ca",
+          "url": "https://instagram.com/https://www.instagram.com/kotasbjp/?next=%2Fmdashfaqahmed%2Ffeed%2F&hl=fr-ca",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:51:15.483326Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -271,43 +352,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Mangaluru–Muscat direct flight to resume from March 2026: MP Kota Srinivas Poojary - Mangalore Today",
-          "source": "Mangalore Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSXJERUgzLVdfWDhlTGhRUV9UVWZQRERNczRmNzBSUUg0RFM2YWVxYWZQUEQzcEY5YTNoODhvdFN3dUVXdC1ZM2lEcG9URFdRTlhEcGhIeGJXUTNpTDY0Q29paXdUZEZ3cWpybTl4Rng0QWwxUy1yZVBoMzkzNXYzTUplakFTeE9nSWM5VzZYejJZbEsxNHRISmZScVJBZTJsNzdteWEtcDJfeFFwYVZXdExCX0hDWDQ0Nm1yblh6RQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "'Dark day for democracy' : Karnataka BJP MP Kota Poojary slams Congress over defeat of women's reservation bill - Dailyhunt",
-          "source": "Dailyhunt",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPYjZYMWhPNm8yN2dGY2RGQ0JXU2pWZElDOGJOUW1nQi1VQTlMci1ycXlORFJhVnpDT3dyZ1o2Y1F4Wl94T2ZueG9SdnFmMEN3R2xPbWc0T2ptV3phOU1lcU5IOUJkVXpqeGRzVHFZcGRZTDhZbi1CMll6NURsanFKNzBMWUxTbTh1M2VyZUhrR0JrNFJ0N29rM3NINVhsYXcxTjZNWUl5bjZ5RXJZNDNSQ0dEc0JBaHBkdV8tWDBLZnpsMUl4a1RxRG5FNWVzMU0xV0lDNXRTV01PWUlBLTZZbGhzS1dzMFFlN2NNLU92cUI4NEt1X2I2VjE4MDliTzcyX21oT0pQMTJIVUxkV2Zsemo1VHFlcU5SMm1hV042NA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "MP urges Centre to hasten process of declaring Kundapura-Chikkamagaluru State Highway as NH - The Hindu",
+          "headline": "MP urges Karnataka CM to allow KRCL merger with Indian Railways - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdjhqUUFRRDl6YUNXdzgzY0t2b1lWTUFIdGxZNXRzTjlqcHh5bnFHV1dmVTEyc3dFRjBGMm5zZXR4bFhHemg0LUNSR3pvTEswS0ZBNXozUnVxcXBuQ0lmd0k4V2FKeEdhbXRybVNGdlRTbkJQZmRXVkRfOWN6WUMxSk14bHRNS3hNeWY0LTNOM0tBanF3Nk1kX09BM2JET2k2YXBtQzVmanhiNXZmWk9XUzR5M2UwdlpVTXNLTDBKTmpvNDNkNWRSZXFZOEs0TGdkLTkyeHZDSjdJVVNMWDYwcUR5cUJTRXVrMjg3NXRJM1NRRC1IUnVOQnpzRENKWFpqWHFTT3p4WGt1TGZLdGdF0gGWAkFVX3lxTE8xX0xxbWxHdkVlVHhNVTltZ0VpS1FZM2xya2swU3ltbnU2NUFYeDJDLW9xR1BmRzV2T3JfcTZvMEh0ajNkWlE5VEdwd1FTZkx4bnJaTm1UVml2ZzFpemhodXUyaW9zS1F3Vy15Y0M2T2tncU0zRlZLTEkxRGQ0SV9ZdzVJSG5QeXdLbkQyc2tuaUNCeUN6cHhoUm1LZlpZR3VBMlpQSTlGQm1hOU5wNkRxMjVKN1NTQ0tVZ2N1T1laTHM2QXd2MVlINnFHSlB5VmVMbnVJN0Z4d0ZCSVRDV2lXUGIxQTdVVHdTdEk3dDJYSGoxd3lCRWg2RDF5UkNQS0xZN3p0LWwxMVJwUnhJeWxlQWFIbmNR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVXRMeHh3S2hLeTNXOWRweGtlNEY4dndoZDJBQXlqSlpIOF9TeG4wNy1tYmF2QlJCdWozbW04eW10b2dDLWFJcDJTN0hFOFY1NUxFWG5fV2M4Z0Z5R0l3ZDlKQ3EzdUZOOTZHd1E1bi1meUNiQmpUUnJoWGxJcFotUEN1a3lHQlNjV0c2eDVweTBYcTZDQWt1SVZSQkNiZVNKOVJINmVKM1h4NW52dF9HS0xvZUtrYUwwN0U3UGxIQXF3WC1MUHVxLWl3Ql9RdExIMVpSYVZ5dVkxNTFTSHN4bDlZcFZBV21OSXIwNXZYdThqM1hsU0JpQ2JWV0s0UU5TOFpF0gGKAkFVX3lxTFBTaDVzcGJPVjZHYU5KZE0tX25rX1RSNW03bmxFSHRLT3QwM0NTRFVHTElEZWZlU1pyTThndkEzei0zenFzdGJwQmQxVTZhOXhGQWRpSFdtMzBCbmZ4TVFVVjl1ZVVtdERvYWhLN0Y1cnFVV0xGa3ZqRU1EVGQyLVBZZC1FOUZVRFJSZ0owWVNuU1lRb05WUHlmendYaW9LdDBvWTREVFhCdGhSbS14SDFGdnlJd0g3aUZnNlJXVmNkcTNwM3NVbzRzc3YtQVVRcVFoeEEtOUF5Nkg0aVFBNEIwcTRqcTdoUnpib0l6ZGpYSWlHUU04YVpUdk5nMlR5S295bVNvQ2xSVW9n?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "MP to officials: Complete national highway works within stipulated time - The Times of India",
+          "headline": "Congress showing sudden overflow of devotion for Lord Rama: MP Kota - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOV8zTE5YWmhyMWV6cWZuQkM3MFhrWllWcHp3S1lzcGRnZWlQZFNOYllueVVEMFljcUM5dXhCQzZzQzU3Tjh0a29iN09EY3BfSDVFc0xuSmtkWWpTT2xMX09PZW5BaUx5UklfQ3ZhWTNxWmIwQWE5MUFCVWlvR3pYT21mTHdxNGQwR2pOWEJHQ3BJQklEeHJCcnNSUFc4eFQ0YjY4NnVvUms4Rl93NGgtWWZpajl1aGhDa2NHeXFWVVR0dVVTLUJvWmpzdkNRbW1LdkJpTmpPcDV2SjdN0gHiAUFVX3lxTE9kd0lldGpoa25PNUlWSlkwVWhHR2I3U3VjVEdEbE9NT2VIWDVaSVpvSHBvTmdsZ3NYU19hRi1xTXZfbWswUTNPVDAycGVmSDlHN3MtdEtLanB2bmVKNlgzSW1McFFmdnlGSnZvSWItdlEydWNreVRKbl9LM18wbEJxZ01kOFRkZ0cyUkotX1pIb0dkNzI4RHl0dURyZW5fZ1poOVItMnRrZWR6YTU1dzIwMXJXQml1UzdxTTFWVXJpYjNlYWsxVExxeFFHS3BMTXZDTXFsQ0xqYXhPekdZSUZDNmc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0FDT3N2SnFNSzBhdHR1bUd2UmVicG5fY1NWWWVzUWpadWZoTXpnNDVlcnlqWVhkLXhsV1dOSXd5OFNhbXhPdFg5Vkh0bHo5SjBOa2lwLWMtd3ZURWlXNklpNTdveTJrOWJVUlVUWUxoZjJMUEtRUnhWSHQtZmszMWZKZXd3SVVuQjNrSjJJNHBNaDFQNHVjVXEwOS1zVGRLVnc5azk4STNkSkgxTFUtYmxreFhucW9fRXVkNU5Gdi1zNV93cTBWc0d5NU5SZmhPMmwtMTJrT1pVbTTSAeABQVVfeXFMTWlJbDNkVzBRTFM1SVE5bzR3eEtmV0QzOWFYSEtLUWNrY3VYUmVXUWgwNmdUTjROeWY5cmwwQk5qdE8ydWFDUm1ZckdOdFFXTjJCbWxwUjMxUkVUUXViN2F4SVY5aTlHRGhmUnpUaGRlSkU0dXBQZEotRlo1QWRncW5nUjF2Zi1BV19ib0RHVnJkbjRjcG0xU3JWRENLcTlKN3l6YkI3M0JlUkRNMjZtTVFucnRRWDZ1UERLTURuUzE4NV8zZUlEc1l4ZlFLaGJEdzA1Sml0QWxPRkl6Yllrbm4?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "CNG rollout lags in Chikkamagaluru- Hassan-Kodagu region - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "MP Kota Srinivas Poojary meets CM D.K. Shivakumar, seeks Karnataka’s support for Konkan Railway merger - Mangalore Today",
+          "source": "Mangalore Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMU9RUkxUd2NDR3JOcWxJZVV0Zi16NUVKWjFhSkh5alhxWDlsUmJhSm1KQU91Z1BHUXhCM1FuZ0N1RnVEUUd3UVJELTNHc2xFS0cySnktSHlwbV9Ua0tyYW1EdjQtcU16QmRybnpqN055Q3VwREU2U08ybkxPdGttZV9xY0Zna1ZKYjVXUHBwTmI5VEZwMzYzWGxWQk8wWVU3ZUt1MEFnTEE5Ti1YOGlHQkhnT3hEVzRfc1RN0gHIAUFVX3lxTFBQRl9QaUpMQ1B1M2NhUWwycUV3Q0l2dzk4UDAtdTVZOUliNzlvZ0cyQm94cVNLcGpPV3RqdFJaMmJ2elVWem5CbDluNWdxZDUtdUZUME05bmh0XzBMUXRHaExocnUtUGlHYjNRMEM2MHRoLVZJcDJUMmJfbjlFcnBoMnhUTjZmT0FtUTBLWVpJSE9RVjVjdmtPTVBMdEY0dGJ6d3VWa0QtMDN5N0NPZUl5WVFiSjV1VHlXYnd5MDdjMTU4Tl9tb2F1?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNG1Oc3ZaMkpaTjhWNXVKVkZDcWdTX3dqdXd1aDJDR1p2Y0I5TU5RNkNMV2tVakZUY243cGNxOHdPNmJwYlAxeW5hUGFFY2JxcjhYZFVLd1hJRWdlekN1UjBHbHo1NWxINFM0S3dnN2RqU2FYTGRFTlBGdnFVbVRoMW1VN1BDTERhaHZCc29uZzNPYzh1TXJ3U0hUQXduYmRDZ3lIT3lWV3g4VXpYRWxMYVZ3N3RCN3ZjUGp0SExYRDFmckVDR3kzLXp3dTJaRy1Va05QS3VyeHNxUzFqVVU2dw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP MP Kota Srinivas Poojary slams Priyank Kharge for targeting RSS, urges focus on governance - Deccan Herald",
+          "source": "Deccan Herald",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRXlkQzluTWpEWUxoQ2RWUzY4ZFJ4MHZvSU1jQ1I3NGFOV1dCUk91UjBwaXgwbFN1Y0MxMF9JNTFnRVhFQUlMYVlObmJDS2JwalBsMzVKV0hJV1YzLWJwTmt0NG1SNEVXWnU5ejVUNm9PRTNTdXJmcEZJbmUyUnhDQWxXMjdsbkxKSXM0eXRvT1NPRmtzeThZbWpOQlRjemR6bnExSDVTbGhsUTVwSDVjalJ5dDAyNEFYV1JGdWVycE8zX1pWSm9JMDh4bzRGRFZjcVE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Poojary hopes Forest Department facilitates widening of key highway stretch - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSG12Z1FCdE9jbEt3YjhGLXdXTllfdGV0aTl0UkhObFRpX1dDUko1Q294WmJST1V1UENSRkwtdms5cWpySkdXazdrQUIzWGtLckVmMDZhZGVJQkVpNnRKdDVMZE9hUkxyUTE1Yzd5Z0ZCbFZ0MXRyNmpuMjg3OU8zYlhRdGgwTDlGNjhKaUpzYTdPZDVoVDVCNkF4SWJIckRPaFNRdjV6NUFoa0tOMVk0VFFFWkxKck91VDNRYlRKQUZkMl9BNzFVYWdRWVl5RkoyMkxGVi03MFBPQdIB4AFBVV95cUxNRGJlOUd4SlI1Z2F4YjJoMk1QTXlDSnlWbktxT3ItbVZINVJDMlkxb0o3QlllVlQ1RjlLOUpkUEtpWFRWc18zM2pVa0JCSjJxUlFVYW8xQk9qQ1FuSVZ1ODdwWHl6UE1rV0FGWXk2YTZvYzdKb2hyZFR6UVJIM3VpcGMzR2tZalFISGt4X1lDZTVLSzFFa29XQ3JjRU5DNEk2M1MtVk9KSG0xSGQxeC1TOVZQX0g1bE5EWE5MNkI5NjVuUXVvRHloc1ROTG9Ub1N5ZVdCWnpwQU5VTWtFbEJSUg?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -341,15 +422,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 48,
+      "starred_questions": 14,
+      "unstarred_questions": 34,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 93.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +438,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 80.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +469,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.21,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +502,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 29,470,510. MPLADS utilization: 20.1%. Parliament attendance: 80.0%. Questions asked: 48. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:49.096944Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 80.0%. Questions asked: 48. Debates participated: 2. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.603393Z"
 }

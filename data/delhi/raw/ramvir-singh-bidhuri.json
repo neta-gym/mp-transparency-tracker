@@ -17,30 +17,30 @@
     "photo_url": "/mp-photos/5543.jpg"
   },
   "criminal_record": {
-    "total_cases": 2,
+    "total_cases": 1,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 2,
+    "pending_cases": 1,
     "disposed_cases": 0,
     "cases": [
       {
-        "description": "Details and present status of appeal",
-        "ipc_sections": [],
-        "is_serious": false,
-        "is_convicted": false,
-        "status": "unknown",
-        "court": ""
-      },
-      {
-        "description": "",
+        "description": "Complaint Case u/s 200, Cr.P.C. Under Jurisdiction of PS DB Gupta Road",
         "ipc_sections": [
-          "Complaint Case u/s 200",
-          "Cr.P.C. Under Jurisdiction of PS DB Gupta Road"
+          "499"
         ],
         "is_serious": false,
         "is_convicted": false,
-        "status": "unknown",
-        "court": ""
+        "status": "pending",
+        "court": "ACMM, Rouse Avenue, District Court, Delhi",
+        "fir_no": "Complaint Case u/s 200, Cr.P.C. Under Jurisdiction of PS DB Gupta Road",
+        "case_no": "5/2021",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "Yes",
+        "appeal_status": "Quashing Petition U/s 482 of CrPC Filed Before Honble High Court of Delhi In Crl. M.C. No 3185/2021. Proceedings of Ct. Case No 5/2021 Stayed By Honble Delhi High Court.",
+        "punishment": "",
+        "date_convicted": ""
       }
     ],
     "source": "myneta",
@@ -50,7 +50,7 @@
         "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-05-21T15:54:44.259684Z",
+        "fetched_at": "2026-09-02T15:33:45.217188Z",
         "notes": "MyNeta candidate affidavit data"
       }
     ]
@@ -61,7 +61,7 @@
     "total_assets": 526419941.0,
     "liabilities": 1000000.0,
     "net_worth": 525419941.0,
-    "previous_total_assets": null,
+    "previous_total_assets": 2.066226892e+17,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
@@ -71,41 +71,55 @@
         "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-05-21T15:54:44.271356Z",
+        "fetched_at": "2026-09-02T14:22:28.739922Z",
         "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 85.1,
-    "growth_ratio": null
+    "wealth_percentile": 79.8,
+    "growth_ratio": -0.9999999974522646
   },
   "mplads": {
-    "entitled": 14.76,
-    "released": 14.76,
-    "sanctioned": 9.42,
-    "expended": 1.87,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:28.899868Z",
-        "notes": "Official eSAKSHI REST API — Works: 100 recommended, 100 sanctioned, 2 completed"
+        "fetched_at": "2026-09-02T14:27:22.317663Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:52.985578Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:22:29.511251Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 100,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 12.669376693766937
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -120,7 +134,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T15:54:44.302615Z",
+        "fetched_at": "2026-09-02T14:22:28.157105Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -128,22 +142,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "3 Delhi BJP MPs attend Sajjan Kumar condolence meeting, pulled up by Nitin Nabin - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0JuTmZEaHRmcjFqXzRZN3BvSDNPcmJwcjBMMm5CMldhVmRpODR1eDRnTlExa2FPZEtWVlcwUU83cEY3bEF4MVIzNWxXbnJoM2tMdk85bmNfTlc4YjNjRUREa19xbENaZVBZam0tbWhwcUk3T0VKMndnV0ZHN3pTdVlJdkZCQzlEdjJTUlhXSTJhRlZHcEgwRVVRSnFIYVJHTXlBMTNWYkxJaXpBZ0o3RzFwLWdyU2FXNlhhcdIBwwFBVV95cUxQT0Y1dl9zNTNpVWcwdnI1Mk10RTN3UjFuUC1xdWhLQVd3anIwUjdtdjBwMHZ6TEtLMmNQNWVCQ2lqa0lnVmlPU3lDZHdRRlBIOHpUcEp5V2FKNHROc204ZTY2UnVWRHl4SjZBcjV0M0VfYzFnUWpFNFVSUi0tSzRmdV9ob1BfU3RGN0hrRV90UWFVeml2WUxXdkRKY2Q2RWs2QWFJRVpEaEMyaW5JOURqWjdRTTY0SlJ4WWN6bTQ1QUpGekk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTlEUU50bG1fNms3Qi1VYVI5LVY4X2lVcEo1ei1PUWFOQTZOTEtCYlRpbEFzRlZhQXg0eXgyVTdxS0tUSVB2WkphazlSYWFucWZJTWNjQVl1TFptRU11MnItclowNzZkWVdTTm91dXU2bWh1SzlLRl9jeUJfcDhRaTBTVjlZZUlsalN3VEF2NVdiaDhTbWNmMk05R25OenpQT0FMU2ZnSHQ1ZUJQNFFWYTdYT01JMknSAcQBQVVfeXFMT0pZRTZONlFzeEpkVk5EdWFVQmROcE04czluMzBJZ28tUnhXTi1mZHlyVjZ5N25NUWMwZERRdWRBZTNlempQNGtmelpzRUtra014MnJWTEY2dXRRaXc0VEFvdGw2dWJpM2RXcDBmZVhtR2Q4a29TS0pKY2JWajQwOGNmSXUyUENNdFgtNnFuMGh2ZnNodHh1VU5JdFBHSFR5MHMyT3JYN1VTSkZ5cUdZN1JEc3dvMHJJZXJ2Rzc4YjNuQmhIVA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Govt’s objective is to resolve every citizen’s grievances on time: Ramvir Singh Bidhuri - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWnVVbTBkTE9hTzc2aHpWRzhrLVpua2Z2WndFMmgyenpLVk1Tcnk4ME54RTBxMjVjSjh6akxCU0FUYUZxZ3lQbWVsdk9UTXI2Ni1NRzFDQWc2SVhBRzZQV3M0Wm1lZ21lN2pLdU9oNk95a1Iya3h0NGMxRW1hLWdwdHg1cWU4VFVNd0RDYjNpa2NKOEFSY29HSnVLQWlIRzZ1TWg5dzRxaXdvZ1VaUDFRR0lIbHdEaWozRHVIdm9FWmtGMXBybURNamtDcGNXbDRwWXfSAdcBQVVfeXFMUElwS2dQNXJJbDVLX2NyZ1lPT3dUY3BSRVdzT2tnSk9ZU1dtcDl0YmlvaXZJTGo1WTZCaURleTFDYjB1OFRnYXMtbjhVWm5kTDRZbjRiZGlmd25BeFVTWXZuRTNzNXVsSDNfUjFkTDJCMFdZYVI4cXQ5enp5a01TY21yOUw1eHdMRlQtVnI1OU5BY1dRTllLanJOSmdWWWpHMjRzdlBIRFIzVEVOeWxfdkVyY0xBWmF1YXY5dmFQTERhTGN0R0lqRVRBQ05aeWd2UXpaVFc0eWM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP Reprimands 3 MPs for Attending 1984 Anti-Sikh Riot Convict Sajjan Kumar’s Prayer Meeting - Revoi.in",
+      "source": "Revoi.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjY2cmhHWWl1OHlEcm54ZmlMVldKeTJaazVYUHczdE1NeHp2N1BkTXFlOG91TERXU3lLTy1yekRuZThOZkpuLS11UWdYLTJYQXJmQVNIOWZXQzlPSHVVN1Mtd0VqdjdjS1lnRTItRHdRZmZLbGIwMnU3WU4zWFo2U0xFQm5GaGRHUlMxQU9VU253aTh2bDFNd2UyREZ6UmVmeWxtZi10SzdYNERjYmpRMFMxMTlNcXJh?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Amar Colony Murder Accused Was Flagged To Cops By BJP MP Weeks Before Arrest - NDTV",
+      "source": "NDTV",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEpwNkdsWFRaRE5XQXZpZXlVWlRTeE5FbzFqc0RvM1ZzdFZDd3U5VXBQeXdlMGVSQ2ZSRUVhY213Q29KaHRITUI4QUxaYjJHbVprOWxoVW5XWEZ6Z3c5UVFfMW9fdmRQTGt1NEZCanY2c1lXeVkxcWtheDJoMVhhYmdMVG1xeW1jMkxiZERfX2ZrZFg0U21xbURQSUwtZEJ5NFFJVjl3VGJwX1ZiQnpselhHZEtiVVgz0gHAAUFVX3lxTFAxc21US3FLZDlpajZrcFQyM29OX0pSOGFKM1VuVE9GOEl4YUtzM1hTVXdiekY2WEdteWxWeXh5M2ZzYXFsZ185MW1Pejg5NnNGV3Jkd2pTT0pXdjYyUFFTbENTZGxMMlBSWDliUHhjY3Fab0V2WVRRMWRCMlY5Z0hKeTN5em0yRU5nMjJsVXFwX2FhdGw4bUFfRW5VN1MyRy1FSjREOEkzXy1mdHRZY3NuU0hVZkZkcjdlMkQxOGNIWg?oc=5",
+      "sentiment": "negative"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T15:55:12.866631Z",
+  "collected_at": "2026-09-02T14:27:56.319692Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -158,7 +214,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.833738Z",
+        "fetched_at": "2026-09-02T18:38:05.414294Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -174,7 +230,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.833749Z",
+        "fetched_at": "2026-09-02T18:38:05.414306Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -190,7 +246,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.833753Z",
+        "fetched_at": "2026-09-02T18:38:05.414312Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -206,7 +262,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.833758Z",
+        "fetched_at": "2026-09-02T18:38:05.414317Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -222,7 +278,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.833764Z",
+        "fetched_at": "2026-09-02T18:38:05.414324Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -238,7 +294,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.833768Z",
+        "fetched_at": "2026-09-02T18:38:05.414329Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -254,7 +310,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.833773Z",
+        "fetched_at": "2026-09-02T18:38:05.414334Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -270,7 +326,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.833778Z",
+        "fetched_at": "2026-09-02T18:38:05.414339Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -303,9 +359,25 @@
         "followers": null,
         "verified": true,
         "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "@theramvirsinghbidhuri",
+        "url": "https://facebook.com/@theramvirsinghbidhuri",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "@theramvirsinghbidhuri",
+        "url": "https://instagram.com/@theramvirsinghbidhuri",
+        "followers": null,
+        "verified": false,
+        "active": true
       }
     ],
-    "total_platforms": 1,
+    "total_platforms": 3,
     "total_followers": 0,
     "confidence": 0.7,
     "sources": [
@@ -313,7 +385,7 @@
         "url": "",
         "source_name": "social_media_lookup",
         "grade": "D",
-        "fetched_at": "2026-05-21T15:54:38.855249Z",
+        "fetched_at": "2026-09-02T14:22:30.050509Z",
         "notes": "Social media handle lookup"
       }
     ]
@@ -321,48 +393,48 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 3,
+    "neutral": 7,
     "top_headlines": [
       {
-        "headline": "English Releases - PIB",
-        "source": "PIB",
+        "headline": "3 Delhi BJP MPs attend Sajjan Kumar condolence meeting, pulled up by Nitin Nabin - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kRUJPN1JlX3AySUZxaGZ4TWRaRWhjZk90WWVXZ19yMk9WRDlKdzFIWjJ3cFVtMU12MHFsTUFRakpycVdEaGE0QTZucXlkaTZGVlNudUtPaWtwcUVmRVh1LXdzU1M2NGRkYWt3RQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0JuTmZEaHRmcjFqXzRZN3BvSDNPcmJwcjBMMm5CMldhVmRpODR1eDRnTlExa2FPZEtWVlcwUU83cEY3bEF4MVIzNWxXbnJoM2tMdk85bmNfTlc4YjNjRUREa19xbENaZVBZam0tbWhwcUk3T0VKMndnV0ZHN3pTdVlJdkZCQzlEdjJTUlhXSTJhRlZHcEgwRVVRSnFIYVJHTXlBMTNWYkxJaXpBZ0o3RzFwLWdyU2FXNlhhcdIBwwFBVV95cUxQT0Y1dl9zNTNpVWcwdnI1Mk10RTN3UjFuUC1xdWhLQVd3anIwUjdtdjBwMHZ6TEtLMmNQNWVCQ2lqa0lnVmlPU3lDZHdRRlBIOHpUcEp5V2FKNHROc204ZTY2UnVWRHl4SjZBcjV0M0VfYzFnUWpFNFVSUi0tSzRmdV9ob1BfU3RGN0hrRV90UWFVeml2WUxXdkRKY2Q2RWs2QWFJRVpEaEMyaW5JOURqWjdRTTY0SlJ4WWN6bTQ1QUpGekk?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "New highway to link city to Noida airport: Gadkari | Latest News Delhi - Hindustan Times",
-        "source": "Hindustan Times",
+        "headline": "Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUlV3alBoZjljSHdSN0dZWTMyWmd0aE96VGhfTnlZWFpCZXpfbDJyc29Hdkc3NHhYejJJTnRqVnhNRlJOdW81eEY5SEtkbGQ5SHNQN051UkRqaTU5NEFqd0FlYllEeHFHV29NQllXakE3Y2llNFVBSlhKclVWWHV6SC04cFRVc0dJTnFfZmxjTkI5blFhZ2g1LWZkRU9PMVhyVFBmWnMxczRJUENRWEl4YVYxamJxS2t2Zm90RmdmREvSAcABQVVfeXFMUFJVd2pQaGY5Y0h3UjdHWVkzMlpndGhPelRoX055WVhaQmV6X2wycnNvR3ZHNzR4WHoySU50alZ4TUZSTnVvNXhGOUhLZGxkOUhzUDdOdVJEamk1OTRBandBZWJZRHhxR1dvTUJZV2pBN2NpZTRVQUpYSnJVVlh1ekgtOHBUVXNHSU5xX2ZsY05COW5RYWdoNS1mZEVPTzFYclRQZlpzMXM0SVBDUVhJeGFWMWpicUtrdmZvdEZnZkRL?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTlEUU50bG1fNms3Qi1VYVI5LVY4X2lVcEo1ei1PUWFOQTZOTEtCYlRpbEFzRlZhQXg0eXgyVTdxS0tUSVB2WkphazlSYWFucWZJTWNjQVl1TFptRU11MnItclowNzZkWVdTTm91dXU2bWh1SzlLRl9jeUJfcDhRaTBTVjlZZUlsalN3VEF2NVdiaDhTbWNmMk05R25OenpQT0FMU2ZnSHQ1ZUJQNFFWYTdYT01JMknSAcQBQVVfeXFMT0pZRTZONlFzeEpkVk5EdWFVQmROcE04czluMzBJZ28tUnhXTi1mZHlyVjZ5N25NUWMwZERRdWRBZTNlempQNGtmelpzRUtra014MnJWTEY2dXRRaXc0VEFvdGw2dWJpM2RXcDBmZVhtR2Q4a29TS0pKY2JWajQwOGNmSXUyUENNdFgtNnFuMGh2ZnNodHh1VU5JdFBHSFR5MHMyT3JYN1VTSkZ5cUdZN1JEc3dvMHJJZXJ2Rzc4YjNuQmhIVA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP distributes masks as AQI hits 'severe plus' category in Delhi, slams AAP for 'negligence' - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "Govt’s objective is to resolve every citizen’s grievances on time: Ramvir Singh Bidhuri - The Statesman",
+        "source": "The Statesman",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWFpTNFlCVC1xU0NtVUVQaVc5LVdEa1dKdVE1R1NoUE5sTThFeWYzWXFVZUhPLWhVLVc5MzRiN0RCOUZtaU41LVoxMThKU3ZKeU9jWXBkRm5oempSRzRiaWNXenM1WDhCTlBRajlKRmF3VmVQTmNETVo2M2Q3bHVSakRkWGx1OGw4MFgtTHZyM1diNE1vWEE2R05jekEzblZiMkRWeWFTUWctOGJBTEhOdjZhczFvYjJFUWlPQXZKN0JGSHQ1VkNnWXFhZTktZzhUTDRnLV9vdVFHTE95SEVael91Z1B0VTk5UVUtMDBqTnp3ZDJxcUlIanNvZXlTY2VZX0Y3RGZNWQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWnVVbTBkTE9hTzc2aHpWRzhrLVpua2Z2WndFMmgyenpLVk1Tcnk4ME54RTBxMjVjSjh6akxCU0FUYUZxZ3lQbWVsdk9UTXI2Ni1NRzFDQWc2SVhBRzZQV3M0Wm1lZ21lN2pLdU9oNk95a1Iya3h0NGMxRW1hLWdwdHg1cWU4VFVNd0RDYjNpa2NKOEFSY29HSnVLQWlIRzZ1TWg5dzRxaXdvZ1VaUDFRR0lIbHdEaWozRHVIdm9FWmtGMXBybURNamtDcGNXbDRwWXfSAdcBQVVfeXFMUElwS2dQNXJJbDVLX2NyZ1lPT3dUY3BSRVdzT2tnSk9ZU1dtcDl0YmlvaXZJTGo1WTZCaURleTFDYjB1OFRnYXMtbjhVWm5kTDRZbjRiZGlmd25BeFVTWXZuRTNzNXVsSDNfUjFkTDJCMFdZYVI4cXQ5enp5a01TY21yOUw1eHdMRlQtVnI1OU5BY1dRTllLanJOSmdWWWpHMjRzdlBIRFIzVEVOeWxfdkVyY0xBWmF1YXY5dmFQTERhTGN0R0lqRVRBQ05aeWd2UXpaVFc0eWM?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "People in 31 villages to get ownership rights of land in 'Lal Dora' area: South Delhi MP - ET Realty",
-        "source": "ET Realty",
+        "headline": "BJP Reprimands 3 MPs for Attending 1984 Anti-Sikh Riot Convict Sajjan Kumar’s Prayer Meeting - Revoi.in",
+        "source": "Revoi.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVdQUElpa2RETFNzTUhSWXhaX0llRHdmbU1WLTA5VTVPMHM5eUJDZXpTeDloaUlpRUg3eWNWdE5FQ0lyWVpneFBVOFUwUXZmQWtxYWlXbVdZMGRqRDgtSTBEcDBVYzl2RDVHMVVpdk9kY1RVZUk1WFZQekt2N2ppb3dvME9yREJNbi1xV0NHLU5YS3Y4S0g1eVQzMTU2d3Z0YjlUblM1Xy03bjU3N3JxNnhWTWd4UHQyaTE3Wnp0RVNhbEJFRTRETHBzdnpCM29STlRvWDI3Y1NhT3FyeFlSanJkOFo2NFRCaENrU9IB8gFBVV95cUxPMWtud3FQZlZpdE9EMlNUZ0x5SEQzSDVCd0hOUTYyS1Rza3ZnWExWR0tNTmNTSHFkaUh1U1NEbjZfdUF5TVFuallaRW9TcGlTYkpkTGFBMFJfZTFPVlgwWVdPX3pJOG1ieXBjaFFBY1F3NnBCcnJwbjU5WDlXR21NMGJSMzRheVNQcUg3dloyM3dHbWhlMjRmaGp6MlRTcHZoc1RHOWE0WThBTXZmcFdRczhCQnphNEROSXJDSWsxT0UxdlQ4UmFnWGhlUS1MTFBQX0FNd1hhTEhWeTZJSGNYSlAtVm5xZ3FIM1FuTVNfdjN2Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjY2cmhHWWl1OHlEcm54ZmlMVldKeTJaazVYUHczdE1NeHp2N1BkTXFlOG91TERXU3lLTy1yekRuZThOZkpuLS11UWdYLTJYQXJmQVNIOWZXQzlPSHVVN1Mtd0VqdjdjS1lnRTItRHdRZmZLbGIwMnU3WU4zWFo2U0xFQm5GaGRHUlMxQU9VU253aTh2bDFNd2UyREZ6UmVmeWxtZi10SzdYNERjYmpRMFMxMTlNcXJh?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Delhi’s 31 Villages to Gain Ownership Rights in Lal Dora Areas - Realty Plus Magazine",
-        "source": "Realty Plus Magazine",
-        "severity": "low",
+        "headline": "Amar Colony Murder Accused Was Flagged To Cops By BJP MP Weeks Before Arrest - NDTV",
+        "source": "NDTV",
+        "severity": "medium",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTVFnSU45NEZIeXktZXpSellOZldjclhCcXAzS2V4TTE0LUp6RVVOLUdUa2R6ZmVxZUVONUFQTlE5WmJCRzFZMVhfdDZLaDNHcjF1SzI3SklKWFFBaERmWDJ0bVg3VEZtc2x5TC1uUU1yWGJIVTZiSUJaWVExOTNpaFNoX2xRT2laNjIzVVR6anJzUWRXb3IxZlR3VW9aNUVZU2xNNFRYaVd6VmxZc3Z3aTBNOA?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEpwNkdsWFRaRE5XQXZpZXlVWlRTeE5FbzFqc0RvM1ZzdFZDd3U5VXBQeXdlMGVSQ2ZSRUVhY213Q29KaHRITUI4QUxaYjJHbVprOWxoVW5XWEZ6Z3c5UVFfMW9fdmRQTGt1NEZCanY2c1lXeVkxcWtheDJoMVhhYmdMVG1xeW1jMkxiZERfX2ZrZFg0U21xbURQSUwtZEJ5NFFJVjl3VGJwX1ZiQnpselhHZEtiVVgz0gHAAUFVX3lxTFAxc21US3FLZDlpajZrcFQyM29OX0pSOGFKM1VuVE9GOEl4YUtzM1hTVXdiekY2WEdteWxWeXh5M2ZzYXFsZ185MW1Pejg5NnNGV3Jkd2pTT0pXdjYyUFFTbENTZGxMMlBSWDliUHhjY3Fab0V2WVRRMWRCMlY5Z0hKeTN5em0yRU5nMjJsVXFwX2FhdGw4bUFfRW5VN1MyRy1FSjREOEkzXy1mdHRZY3NuU0hVZkZkcjdlMkQxOGNIWg?oc=5",
+        "sentiment": "negative"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -395,15 +467,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 45,
+    "starred_questions": 13,
+    "unstarred_questions": 32,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 87.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -411,17 +483,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

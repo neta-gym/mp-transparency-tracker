@@ -42,60 +42,82 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:38:01.526659Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
+      "movable_assets": 21738631.0,
+      "immovable_assets": 126809542.0,
       "total_assets": 148548173.0,
-      "liabilities": 0.0,
-      "net_worth": 148548173.0,
-      "previous_total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": 9504781790000000.0,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=764",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.666311Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T14:21:51.947029Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 66.0,
-      "growth_ratio": null
+      "wealth_percentile": null,
+      "growth_ratio": -0.999999984371217
     },
     "mplads": {
-      "entitled": 15.39,
-      "released": 15.39,
-      "sanctioned": 5.72,
-      "expended": 3.64,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:37:18.906927Z",
-          "notes": "Official eSAKSHI REST API — Works: 27 recommended, 24 sanctioned, 1 completed"
+          "fetched_at": "2026-09-02T14:25:30.160076Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:50.505116Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:52.598188Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 27,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 23.651721897335932
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +132,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:19.945130Z",
+          "fetched_at": "2026-09-02T14:21:51.562535Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +140,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Lakshadweep MP meets Kerala CM, seeks the State’s support for healthcare and connectivity improvements - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPV1RoV2ljMmxtZXdWMVNIb0llVmNkZDhSU0ozSmNMMF9UQ184cmpxV0tjcnVoMk9pM2xYdUEtSzBzeVdmc3ZVb01peUNRM0JDZ2JFcGlWVmRQN2Zia3NvOWxuZDBUMzlJOE5PdXl3alUtSmwyTTNPamsyUVJsRUs4TEVFUFQ0eFhrMmlnTHNONDhoTldwUUVkU3ZZdmJsM0RITjFtc25ZY1FVaVJCSi1vSFYtVUtIRWh4aFlTSm5GcDQzdUh2TERlVHdacWlWYnY0Uy1Ed2JhVG5WWVVPZzZ1cXhLdG4tcm41Q21FMFBQT2JHME1fSXlvMHktTdIBggJBVV95cUxOLVZlN3NxQnZOZlFGUTJCQXY5WXlIblVDdWg0OWYta1AxeUY2LWs0WUdocFprZGNDalUyRURsaEIzeGZ3UlhlWk1vLVYxdlQwa3o2QjJwOENCNzMxWkIzZ2M4OVZCY04xVmxWY0JrTXZXaGNqNkRkcWFZd29iZXM2NU8tdXg2Tk9xSGdlN0w2MGRTQVdkRW9Qd002dmFfZHZPeU1WelF6YnVYN042SXhIdG9JLWZGbE9kZFM2bmJ3dS1fZnVCOVJ1V1RlNWMtZVlsWTg4NUYtNlRjQTMtRlB4cGU2aDVSX3JYR2o5bi0yZ21kSEJ4eDBvZDY3WUNVRlg0elE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha elections: Hamdullah Sayeed of Indian National Congress wrests back Lakshadweep - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR1NHTFVpeHZSNENBOEY4dUo3THlxMmVFVjk2eE14TV9TUlBfejFTQm1Bd2JmeUR5Nm80TDZILXNmUEg5LVE3d1BqZDRxeDI0ejNCXzRlOGJFSkNxdk9HZmpDRTFSbFVZdV9HaFFFLXJTeDcxS0pYVVctZHAwalNfVm9JMEdtNFd6dFBRdkFXSmc0UHZFMzBneXU5TzVIUzVpQTlPOHJPbFlqU0x1bVlyX253dDdXTnNLYVZpaDdjT19wajdUVl94OVhUbVQwZ0HSAdYBQVVfeXFMTjhRUlJDcnRyUGstU1ZYWjBTQXVuMjRPS1E0N0d5MGVOU000UDl4QTVJX1lRZnlNUXhOcE9HYV9ZeFBYVnRiWTJTRzFIUm1SZmtrdFVjRVJNZV9TcHNlRnc5bUJyZ0RnNTdza3d3MmNNMjFzQU4tUzAtdTRkNGRneVlpMEc4QmhKNmRHT0ppRXpqN1lrWVJBNEFxeVU5eW1BeERpZ0hhbXE1dXJLOGlZS3U5Yzh5d0RtSWRsTzg1d0QzcWNxbGRZVjNNLXE1LWVVdHdSaTdSdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"People of Lakshadweep are fed up with present regime\": Congress candidate Sayeed hopes to win LS polls - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNejJCZjUtOFd5UHEtNndnRGF3Z0ViT0EyanE5SjJ2bnkzc0otZHJKOHBYcHRBMnN6aGNDc1dFWVFFQzN4LVg5RGJvekRmZG5WVldFSnpLWnlWYmtHTGlmd0lLclc4R3Bubkt5amwyRmhQd1dSTkVubUNRTmc1R2RwekVXSWhKcXpWQ2htamxHbGJQUTdpS25vNmR2RGVVa3lBNHlkS1ZTaGx3aUFsZmNTR0JZUW9EZ1lROWpaaHBEcVBZQUJZbTlpT2hZZEVndnhfU0hJMG1xS3BHZ1hzcXRkVnN1X1JLSmk3V0RQY3pkS3RPZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lakshadweep MP Challenges Waqf Amendment Act 2025, Says It Violates Rights Of Scheduled Tribe Members... - Live Law",
+        "source": "Live Law",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVkRSZWJCRUlvQkdxMU5iSnBudS0zYXFzLTZTSG5kNnZ3VllndlhXaGk2S3c4Y1Zod1MxR0VIUDB2anM5N3VfejRMbTVqSk8wd0QwXzQ0Rkx4c1Izc0VWTkpzTmI5d2RMc2lnOGN4S3Z6bXRNMjBoVVdPTGJhY09TanVRZVJYX3R1Zk85WmNsWkY3YkQ2bUNoaEJERHNSa2N4aF9ESElHQ25LRWFSSFdlTmRVSlRwa25DMlFqcVE2b1RmQl9zb1NtWnFyLVhrdVA4eUNRMk1xYjNwYkROcGhwSEVsNjNuMThGbnU0Y3ZRaFXSAfYBQVVfeXFMTzF5dmtJUGR5REcwR2JmSExxV1lXY1ZPRFdIbF8yZWZncGpMeWtwQ1BjMWpTMnQyNHVIcHVrSG5sRXpBd3hEVDBjUzI3eC1nYTZUX2g4THhqaU14QUJObWk0NGZXTzRoOE9McUNPZzJITkRVUERhX2U2Z0VkcVZmZmU3QWFvTDdycU14aXVOR19ma1lQdENoY3pLdTh0eGdsRmFxSGZ4ek1pOGd2Yi1tOUdLX2hIVEdHLURQZi15LWd2SW1yd2JVVm16LV96OVFfVFQ1V2l3VENWNFBlT2tDS2kyWGZMejVQVjA1ZTNVeU9WQnJMZGdn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Residents protest in Lakshadweep as Hindi replaces Mahal and Arabic in schools - The News Minute",
+        "source": "The News Minute",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0F1VWlzeTRYUzZkdGZZczZJd1NYb1B6RWtKZlRiVDhLVEZRSHAySEJvS1VMSmtwMDI3S0xHTW1pWW9WZzN5NS1XY3ZVR2hNdDhNUUw3cmE5NG1HWEg2VnprSmxHWDFOa2ZZRkEtTmJSRWVsZFQzNXVoZDRkYnRrd0hld05IckV3cVJST1ZqaVEzSjZ5bHdLZFd2TDExN1k4eWUtN2FEeXFjVEo5VVNzTVBWaThDQQ?oc=5",
+        "sentiment": "negative"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:58.700211Z",
+    "collected_at": "2026-09-02T14:25:31.153182Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +212,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.717456Z",
+          "fetched_at": "2026-09-02T18:38:07.194685Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +228,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.717466Z",
+          "fetched_at": "2026-09-02T18:38:07.194701Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.717471Z",
+          "fetched_at": "2026-09-02T18:38:07.194710Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +260,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.717500Z",
+          "fetched_at": "2026-09-02T18:38:07.194719Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +276,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.717509Z",
+          "fetched_at": "2026-09-02T18:38:07.194728Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +292,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.717514Z",
+          "fetched_at": "2026-09-02T18:38:07.194734Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.717519Z",
+          "fetched_at": "2026-09-02T18:38:07.194739Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,18 +333,67 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "share",
+          "url": "https://twitter.com/share",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "sharer",
+          "url": "https://www.facebook.com/sharer",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "adrspeaks",
+          "url": "https://www.instagram.com/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "youtube",
+          "handle": "adrspeaks",
+          "url": "https://www.youtube.com/user/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 4,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:21:55.048700Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 9,
       "positive": 0,
       "negative": 1,
-      "neutral": 9,
+      "neutral": 8,
       "top_headlines": [
+        {
+          "headline": "Lakshadweep MP meets Kerala CM, seeks the State’s support for healthcare and connectivity improvements - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPV1RoV2ljMmxtZXdWMVNIb0llVmNkZDhSU0ozSmNMMF9UQ184cmpxV0tjcnVoMk9pM2xYdUEtSzBzeVdmc3ZVb01peUNRM0JDZ2JFcGlWVmRQN2Zia3NvOWxuZDBUMzlJOE5PdXl3alUtSmwyTTNPamsyUVJsRUs4TEVFUFQ0eFhrMmlnTHNONDhoTldwUUVkU3ZZdmJsM0RITjFtc25ZY1FVaVJCSi1vSFYtVUtIRWh4aFlTSm5GcDQzdUh2TERlVHdacWlWYnY0Uy1Ed2JhVG5WWVVPZzZ1cXhLdG4tcm41Q21FMFBQT2JHME1fSXlvMHktTdIBggJBVV95cUxOLVZlN3NxQnZOZlFGUTJCQXY5WXlIblVDdWg0OWYta1AxeUY2LWs0WUdocFprZGNDalUyRURsaEIzeGZ3UlhlWk1vLVYxdlQwa3o2QjJwOENCNzMxWkIzZ2M4OVZCY04xVmxWY0JrTXZXaGNqNkRkcWFZd29iZXM2NU8tdXg2Tk9xSGdlN0w2MGRTQVdkRW9Qd002dmFfZHZPeU1WelF6YnVYN042SXhIdG9JLWZGbE9kZFM2bmJ3dS1fZnVCOVJ1V1RlNWMtZVlsWTg4NUYtNlRjQTMtRlB4cGU2aDVSX3JYR2o5bi0yZ21kSEJ4eDBvZDY3WUNVRlg0elE?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Lok Sabha elections: Hamdullah Sayeed of Indian National Congress wrests back Lakshadweep - The Hindu",
           "source": "The Hindu",
@@ -290,11 +403,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "'People of Lakshadweep are fed up with present regime': Congress candidate Sayeed hopes to win LS polls - The Times of India",
-          "source": "The Times of India",
+          "headline": "\"People of Lakshadweep are fed up with present regime\": Congress candidate Sayeed hopes to win LS polls - ANI News",
+          "source": "ANI News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRXRDZVROMGVIUzJzN1Y4czhLVmpQNHk3WVVoQUd1QTJCOVJWMTM2YXRnd1d2Q3lqWHl3STZtcHpZVzFGM0VMd3BsSFVBNFd2LW5udU9FRVduZW1vSjhPSGJLUFlUcjZYT3QxenVORkFDblFmWVNLWkdfU2kxR2YwNWRVbHpGUlhNcVNIMm5jQkcyeHRzQTBFS3J5YUpSdUdzZ0c2VW1qOWtIWThoSEU3VEhQNUY1VkRlM3FnZDI5S29tc0paaTc4MEJsdFhrM3d0WXJBM0luU2I2aFhEYmh4dFhXS29JZjlMZWFJZXdQc0FvMS1OaXNVN1dLX0TSAYICQVVfeXFMTnhQMXpnWjJiOFk4SVhtS2d5RU44SnZLZU5xUnBLeWN0WC1paEMzS1FaYnU0MlE3TE1ocFNPVnctdjhHU0ZxME4zS0hxT1hVUnZDaFV4Y09WZXlFdUkyLVJZYW0za0tIOExyQlE4cDJjc3ljOHd3ejhTYUJoMnhoVEJQZ2lENVRoOUs2MnBqYXd4aDBqTnVHZnZ5ajJjYjRiTmNFbjAtUGNqM3VVdG9xUm9uc1l2WFpKNGdHN2ZfUG1SVHFVM3F5V3VRRjBsV05RNmRaYlgxMWl3el9wTF95VnFYNGxlZFI2NzJwMmRVWC1Ld1dHVC1Yem1aVGtkNlNNeDBR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNejJCZjUtOFd5UHEtNndnRGF3Z0ViT0EyanE5SjJ2bnkzc0otZHJKOHBYcHRBMnN6aGNDc1dFWVFFQzN4LVg5RGJvekRmZG5WVldFSnpLWnlWYmtHTGlmd0lLclc4R3Bubkt5amwyRmhQd1dSTkVubUNRTmc1R2RwekVXSWhKcXpWQ2htamxHbGJQUTdpS25vNmR2RGVVa3lBNHlkS1ZTaGx3aUFsZmNTR0JZUW9EZ1lROWpaaHBEcVBZQUJZbTlpT2hZZEVndnhfU0hJMG1xS3BHZ1hzcXRkVnN1X1JLSmk3V0RQY3pkS3RPZw?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,23 +419,15 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Victory after 15 years; Muhammed Hamdullah Sayeed wins back Lakshadweep - Kerala Kaumudi",
-          "source": "Kerala Kaumudi",
-          "severity": "low",
+          "headline": "Residents protest in Lakshadweep as Hindi replaces Mahal and Arabic in schools - The News Minute",
+          "source": "The News Minute",
+          "severity": "medium",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NU3dmTjJRc1gwUXEyNlQwNXozRTFDaW5FS3psRHVUVEgtS01MOGo1UHhzYVZwQmJRVXp2Yi14VXladDRTN2JvdnpidWo0Um83OEIyVnhwckFjVWJVOGNLOWs0R19Jbk1oTzc5MdIBckFVX3lxTE9xejlQUzIzTmF0N2pLQWU2Qi1TTTBjT1FjYUJRcEVVdEVZWkcxWFpwdDl3OWxYYW5QSjFYZFZhM1hGMzJfZm93UFpQc09sTWZmTk13MDQ4c2dWR01aMWs2Z2U5ZldHYVpBaGFPQm1qMURXZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Lakshadweep MP demands rollback of ship fare hike - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHhJVHhuVzE2U0NEcDFZRElNWkt4TFVXYkw1cmROOGFpWDZDVUNKcW1idzZVa1ZpcURXZlQtWWlwaUYxQV9IX3BqNU82Uzh6VVBfdmNVcERXaVZQTXVYaEhYVFJyaGJwNjBiUy1ETzhXbXZ2cXVYazlhVE5uNThGa0pkMUVaUF9GbHFaYzY2SUxOV3dRdk85TmRXTmVLbTBfcVA4OHlsNGJ6aVlfOGZVZzNXWlZrQdIBvAFBVV95cUxOSEFZbUdqcVhOeVV3dzhaZURyWU1Oc0lYMEZEWTlQa2tGUFVrcUo3TzZlZC1Pbk5jUGsyZnZXbFRJNHdvVVIwQ0syeVU4WGFMelRIZ19yQmFMWDc3RUxhMjJZNzQ4SDlPa2VZTDFLWFhNNWsxYUJ2NnIwcEhNcF91TDZxWGQ2ODVTSzk4cElJRWtDYXlVMnU5RFlqT3NTcm8zNUNxUk1Pa3JIQk9DbF9DcGFmZzRIRm1WQkl2SA?oc=5",
-          "sentiment": "neutral"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0F1VWlzeTRYUzZkdGZZczZJd1NYb1B6RWtKZlRiVDhLVEZRSHAySEJvS1VMSmtwMDI3S0xHTW1pWW9WZzN5NS1XY3ZVR2hNdDhNUUw3cmE5NG1HWEg2VnprSmxHWDFOa2ZZRkEtTmJSRWVsZFQzNXVoZDRkYnRrd0hld05IckV3cVJST1ZqaVEzSjZ5bHdLZFd2TDExN1k4eWUtN2FEeXFjVEo5VVNzTVBWaThDQQ?oc=5",
+          "sentiment": "negative"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -352,15 +457,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 15,
+      "starred_questions": 4,
+      "unstarred_questions": 11,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 28.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +473,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +504,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.43,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -420,6 +531,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 148,548,173. MPLADS utilization: 23.7%. Parliament attendance: 100.0%. Questions asked: 15. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:49.718229Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 148,548,173. Parliament attendance: 100.0%. Questions asked: 15. Debates participated: 2. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.195512Z"
 }

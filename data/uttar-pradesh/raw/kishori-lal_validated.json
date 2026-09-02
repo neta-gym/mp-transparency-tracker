@@ -4,16 +4,16 @@
     "constituency": "Amethi",
     "state": "uttar pradesh",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 7521,
+    "myneta_candidate_id": null,
     "slug": "kishori-lal",
     "house": "lok_sabha",
     "sansad_member_id": 5546,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 62,
+    "age": null,
     "photo_url": "/mp-photos/5546.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Amethi",
       "state": "uttar pradesh",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 7521,
+      "myneta_candidate_id": null,
       "slug": "kishori-lal",
       "house": "lok_sabha",
       "sansad_member_id": 5546,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 62,
+      "age": null,
       "photo_url": "/mp-photos/5546.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:01.570510Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 127688722.0,
-      "liabilities": 46996348.0,
-      "net_worth": 80692374.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7521",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:54.381347Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 62.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 17.15,
-      "released": 17.15,
-      "sanctioned": 8.56,
-      "expended": 6.98,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:50:54.850975Z",
-          "notes": "Official eSAKSHI REST API — Works: 52 recommended, 44 sanctioned, 4 completed"
+          "fetched_at": "2026-09-02T16:28:35.186660Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T16:24:27.548153Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T16:24:27.545295Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 52,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 40.699708454810505
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T13:52:46.882828Z",
+          "fetched_at": "2026-09-02T16:24:27.544265Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Amethi MP Kishori Lal writes to UP CM, demands end to power cuts - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDl3YldYUi1sbWZ1RVhnUTZPSGFCeG5BVFVkaldFVUw0NV9xTmJzejRTeWlSNG9zUHZ5TXBSdDlab3lYQmhkYXkyX0d3WEtPNmZwX09RMlFZWE1GZ01wM3gwRlZzS3BGVnpFUWxHUlFIV0lhUDhhOTgxbW9SekpKcFhlMEFqTUlBRnVZd2FDc3hSdThrWm1zNmRRdGphb0nSAaQBQVVfeXFMTlQ4Z1ZubXBLUDJpX0NGUExwUXktZVRTQzB2N0k5R1p6T1dsYW9od00zUzBWTzZOb1RSZmFtUlZBWHlBR183cmZiOFhOLUdlcGl0d2lYLVVQUXoteEVOR3RGbFJGYncxUTU2ZVhfUkw3bEw2Z0pYZ2stZWNwNnBtb3hBWGNfeVZZOUMzb0VXVm82S185YnRTU0VpNDRnOFNHVXNvUmM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Forces that killed Gandhi trying to erase his name now: Amethi MP Kishori Lal Sharma on VB-G RAM G Bill - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVi0tSHpFNXJFLTFqdkNOeXFUeGM4X0JEb3BFM3VqbWM2a3BqN1A5SlkyVlVJRkV1M0NvanRVdTQ5a3piT1BaNV9yNWVEQmZTNmhyOWFMYktPTHBGRFlXZEgya3VyRHd1a1czR0dqTkpsMzVqY1JDUkYwX1NRZVFtazFuaV9DUUtrOTFob0gzNkRlU1NJNFF6SU9TVTJfVVRwYk5zcEpwOWVLcjJyTjVNR0VHWlZGRDAwSldWREpxWF92Z1NiaUgtbXl1dDA4SmNfS1d2T1NDX2Q5WURSejlGMUxTOXhtZ9IB6gFBVV95cUxPdUk2YmFPUENKcGNkalFyYm9iZnNpYkxZZ3pWV1dFVU9XNVVxanl2NGZYOXQ2dk9kZDRxM3U5ZEpwZ1pDLUFwWWhHdFE4WjczVDRGNzBrSm9aWEpUQ1NQUkhmemZ3ejFmUkQwWkdSQXp3ZGQ2ck53NDJ4T0xBZXpKQ3A1WEJ4S2ZvS3NMU2ZYaFl4b2c2NVhMaUVtQTVuOE1kaWNkdWcyMVo1UUZjb3hHQVNLSC1JaUwxQUVqeTJIbDh6cWR2ZzRxLUwzSURqSmZFcGtTbURrMVFBUzZQd0Y3VUo4UmQzV3A2RVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Amethi belonged to Gandhi family, will continue to do so: Kishori Lal Sharma - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzljZkk3Zm9TUWpLekZINElvSUpJbzdwakRsSGR4R2dUSWQ3d29nTEMwazdtRExLU2l0SVpPZnh6SjNJUWVUZmwxbnpNZzRsZW5rV3R5NEY5S1hHM2RzMzF3UjhFQk50Ry03V1IwLWxPMUdyQjhwd3BqTXFxQjVVQ0Y1aHZGVnFiZUF3dUlwXzZ2UzlBZ01TRW5jMC1kbVFzS1ZxVS1BZHVNckoxVzhsSzZaRFlfdmNfbk1rVW5URi0tcWI2aFhWaVMxWQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘He is right’: Amethi MP Kishori Lal Sharma on Rahul Gandhi's support for Smriti Irani | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1ZrN1dFZU1yZk1GcUFiYS1WVUY2NDc1YnNYT0ItLXQyYjIxakZQUm9HalRkVVBxR3hobmRZZU1abTQwbXBOb1lXNGlpREVzbTBkVkF1THA0ZlAtSFVKVV83SEZaWXBCM0lULUxFV3FqcEFGLWY0dWY4QVdBZDdUajB5Z2hyZWRBMUxrRUtWZERXLTZLcHFxaThZNHN5OEN2aU1ZZ1FyYV9nc1ZmUW1weElfV1Z0U0trSWU3TnVMVGVVOUQzM19VQXJuX2gzbEZ4REFmMnpmQ2NpVEczc1HSAeMBQVVfeXFMTVRMOEpCbkVtWFNKektNQTlJTWtOZHlfd0VPVktZMHV5NjVHUkNlWjd1WUJRQ0tjM2ZwRjZFY3B4VGVKZTlaMlczQ2otakQxUHFxV2VuQlMzYnY1dUd4N29KVndWRldnRDZrRTRoTTF4dHZJWFgzaGd0SktaMi1YR2wzMDlOQkZGV3JJSVM4cDkxeXRWTXhFR093MkYxNE91Z2RobmNHOFY0T19nQ25IU01kendwMHYycHNadXVaNkVOWThfVFY3RTAyMVowZUw2RnViejFCRTdfTmpXQjZ2M1lvZVk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Interview | Main Challenge Ahead is Amethis Development, Says Congress MP Kishori Lal Sharma - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBib3hBclhqcnBrSk5BNmppX0RWdGZaaUx5Uk5pQnNLTnpIRnBqSUxFY0dKY1NIM1hHQVNZeE9ndE1BYmlWSUVHckxYUEcwSF9BR0Y5ZzVCdDlia0dXbHhOOV9xbDNTU0NlZF8xUHplU1FfYWJnamx3UkcySFJaQdIBgwFBVV95cUxNOGtDT1hDdWRFYXd0ZUc3M2pFNVJMLWdjZHdDUVExTVF0MjgyN3JNVWt2V2YzSFhPMlBKVnkyT2dtSGFBanBjUklLbUtnZnNTaDBtS29FRWJBZWdlN2JleUZEaFBlZ3hFeFhEOHNiZklQN3BmSldvOXhQMmtaMk9vTDJNVQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T13:53:16.535012Z",
+    "collected_at": "2026-09-02T16:28:35.188160Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.730052Z",
+          "fetched_at": "2026-09-02T18:38:11.299383Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.730061Z",
+          "fetched_at": "2026-09-02T18:38:11.299394Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.730066Z",
+          "fetched_at": "2026-09-02T18:38:11.299399Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.730071Z",
+          "fetched_at": "2026-09-02T18:38:11.299405Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.730076Z",
+          "fetched_at": "2026-09-02T18:38:11.299410Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.730081Z",
+          "fetched_at": "2026-09-02T18:38:11.299415Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.730085Z",
+          "fetched_at": "2026-09-02T18:38:11.299420Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.730090Z",
+          "fetched_at": "2026-09-02T18:38:11.299425Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -298,35 +351,11 @@
       "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Amethi belonged to Gandhi family, will continue to do so: Kishori Lal Sharma - Dailyhunt",
-          "source": "Dailyhunt",
+          "headline": "Amethi MP Kishori Lal writes to UP CM, demands end to power cuts - ThePrint",
+          "source": "ThePrint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNGJYVkU4bV9qRFBSRDRJWTBFOEFHRS1qTkdKNXZGbWtnVGxJdGJhTlFQcXMydlp1T0c3bndRYWw2M0o2WDBrRHRuN2gzZHNGTWE5czFmeE1KUTJzV1d0cWM1QWF1MnJnb1FwVzZvSU8xeXRCZl96QUpnckhPV2FfODVMUWR0VVBGMnFRSmZvZGd3dGFya1IxdUtHMjFRQ2dlUGg0T1l6WmV2STdtWk04NkFSb1NHNENaUVRLclpJeUR3UmphMlFvREVHak5NX212QVh1bVhXN1RxRHVlWm1lTTBUbUhoVGNpZXpUMWpaTGFkMVI4?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Kishori, what have you done, laal? Posters slam Congress in Amethi ahead of Rahul Gandhi's visit - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTWd2bWVocElIQXpIRTdMR01yOEdEdW52cGhSdEo4UjljZGoyZlZLY2xLakxoMFNxT3hsaG8zbWNfcG5ieENVd1JnNTB0b05ONndDZG5zQ3dTclpLLVktVlhhOUhIZU9pQ3VYdElOX21CWHdlNk52a0thdEt1UkJ2Q0NuX3VIWGxIZUhBYUtCWnBESm1JYU5CZkpHNGg4UEpWemVxN05ieDZlQnQ4bGRKc1VtQXpxeWt3ZXdMNWU4eUppSjTSAcgBQVVfeXFMTmo1dkRPSllNR0hPY0FTT2FzNlV4T3pfWWxJSEFZenljVGJCZmRFQ1pFb2FCcWdIbXVjNThjbDFmcmF5bnlyajA4RmtTajdzNGYwNjlOVXo0MFhIQmZFblBkb0NidTVzLXZkZ3lzcm4tSDhNeVlnWmtBalBaN2NCQ25pQ3NtR3Q4eElBSTc3Qm9IWDdCd3YtSWt3VTZZVkQ4RXVWV21LMTFYVnhJRE5IaTBabVNUSUJCcTUxdlRTYzk4TmdaNzlqYmw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "'Do saal Kishori, tumne laal kya kiya': Posters slamming Congress' Kishori Lal Sharma emerge in Amethi ahead of Rahul Gandhi's visit - Deccan Herald",
-          "source": "Deccan Herald",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRTY2THJXM0lwUVE5eThWdnJDbDd6eWI5SWp3YXlZWHh5bFF3SllCWVR5MzlfR3ZFeVN4WkhzaDFMLXlxOGdBcFhIX2t1X2V1QUR1MXNfaFFVNzNSZlNRR3ZoZkdtLVc2dHVyWXltb2d0bk0tTnZodVpEXzJ2ajRobWpSZWZDcXBTb2xMRTR5dm1RX0ZZTEYzOEgyVk5MMEJXcUtNWV84djQ2YThwODdzSGszX2hYWExzbWpfemh5cE9NaC01blVwci1JOVlZYXlLNEJhVTEtTW41X29PX3Q0TXpHS2RIODR2ZkMybXEzclk2M01zSy02V2x2a194SVl6N1ZRblZ1MkJ4ZGswRWNBTg?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Posters slamming Congress emerge in Amethi ahead of Rahul Gandhi's visit - Devdiscourse",
-          "source": "Devdiscourse",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3dJcUptTU5ETGUzZ3pMOVNuMHhmdkVzNTlkUms1WnB6N2VKYTlHY0V5WFlkaDNRYkxrS1hsQXY5Njh2WTRBZXZpa2I4aVNKVVM4a3N6WUJaWVBmX3U4aG4yZVRPb29jOUZ1YTNNRHZ3TXRZR0FOd0VDbEZLaEFkVVB1d0pFalJ3Z2hUVzVsOVdiMEluYnhWelpfLWhmYUNkZWtRNkhEZWh2Y0p5SFIyOWVoRW13OG5FQVhGb1JxeUx3cWfSAcgBQVVfeXFMT2xqR0pHWVFXbzBUUE04X2xhMmpxdWxQNXVKXzZZV0hScTRSTGx3cmVOQWlMR1plTjExRGE3UEl5QUFia1Axc3prUEd4RmVfcE5LckU5aVNOTHoxa1ZRSkhWSlBVME1IS0FBeWhMLTNiMzJ0SWhwOXNmRVZfclpOMVZRaEY5YUlmU2FqUFpSeHhEMmFadVlmTlFUUHctbHJPdjJROERyN2wzbGVGcS1IVFVFR3RscnREM3JEN3dkb1FXNjU2bG9BZ0I?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDl3YldYUi1sbWZ1RVhnUTZPSGFCeG5BVFVkaldFVUw0NV9xTmJzejRTeWlSNG9zUHZ5TXBSdDlab3lYQmhkYXkyX0d3WEtPNmZwX09RMlFZWE1GZ01wM3gwRlZzS3BGVnpFUWxHUlFIV0lhUDhhOTgxbW9SekpKcFhlMEFqTUlBRnVZd2FDc3hSdThrWm1zNmRRdGphb0nSAaQBQVVfeXFMTlQ4Z1ZubXBLUDJpX0NGUExwUXktZVRTQzB2N0k5R1p6T1dsYW9od00zUzBWTzZOb1RSZmFtUlZBWHlBR183cmZiOFhOLUdlcGl0d2lYLVVQUXoteEVOR3RGbFJGYncxUTU2ZVhfUkw3bEw2Z0pYZ2stZWNwNnBtb3hBWGNfeVZZOUMzb0VXVm82S185YnRTU0VpNDRnOFNHVXNvUmM?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -335,6 +364,30 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVi0tSHpFNXJFLTFqdkNOeXFUeGM4X0JEb3BFM3VqbWM2a3BqN1A5SlkyVlVJRkV1M0NvanRVdTQ5a3piT1BaNV9yNWVEQmZTNmhyOWFMYktPTHBGRFlXZEgya3VyRHd1a1czR0dqTkpsMzVqY1JDUkYwX1NRZVFtazFuaV9DUUtrOTFob0gzNkRlU1NJNFF6SU9TVTJfVVRwYk5zcEpwOWVLcjJyTjVNR0VHWlZGRDAwSldWREpxWF92Z1NiaUgtbXl1dDA4SmNfS1d2T1NDX2Q5WURSejlGMUxTOXhtZ9IB6gFBVV95cUxPdUk2YmFPUENKcGNkalFyYm9iZnNpYkxZZ3pWV1dFVU9XNVVxanl2NGZYOXQ2dk9kZDRxM3U5ZEpwZ1pDLUFwWWhHdFE4WjczVDRGNzBrSm9aWEpUQ1NQUkhmemZ3ejFmUkQwWkdSQXp3ZGQ2ck53NDJ4T0xBZXpKQ3A1WEJ4S2ZvS3NMU2ZYaFl4b2c2NVhMaUVtQTVuOE1kaWNkdWcyMVo1UUZjb3hHQVNLSC1JaUwxQUVqeTJIbDh6cWR2ZzRxLUwzSURqSmZFcGtTbURrMVFBUzZQd0Y3VUo4UmQzV3A2RVE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Amethi belonged to Gandhi family, will continue to do so: Kishori Lal Sharma - Deccan Herald",
+          "source": "Deccan Herald",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzljZkk3Zm9TUWpLekZINElvSUpJbzdwakRsSGR4R2dUSWQ3d29nTEMwazdtRExLU2l0SVpPZnh6SjNJUWVUZmwxbnpNZzRsZW5rV3R5NEY5S1hHM2RzMzF3UjhFQk50Ry03V1IwLWxPMUdyQjhwd3BqTXFxQjVVQ0Y1aHZGVnFiZUF3dUlwXzZ2UzlBZ01TRW5jMC1kbVFzS1ZxVS1BZHVNckoxVzhsSzZaRFlfdmNfbk1rVW5URi0tcWI2aFhWaVMxWQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "‘He is right’: Amethi MP Kishori Lal Sharma on Rahul Gandhi's support for Smriti Irani | India News - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1ZrN1dFZU1yZk1GcUFiYS1WVUY2NDc1YnNYT0ItLXQyYjIxakZQUm9HalRkVVBxR3hobmRZZU1abTQwbXBOb1lXNGlpREVzbTBkVkF1THA0ZlAtSFVKVV83SEZaWXBCM0lULUxFV3FqcEFGLWY0dWY4QVdBZDdUajB5Z2hyZWRBMUxrRUtWZERXLTZLcHFxaThZNHN5OEN2aU1ZZ1FyYV9nc1ZmUW1weElfV1Z0U0trSWU3TnVMVGVVOUQzM19VQXJuX2gzbEZ4REFmMnpmQ2NpVEczc1HSAeMBQVVfeXFMTVRMOEpCbkVtWFNKektNQTlJTWtOZHlfd0VPVktZMHV5NjVHUkNlWjd1WUJRQ0tjM2ZwRjZFY3B4VGVKZTlaMlczQ2otakQxUHFxV2VuQlMzYnY1dUd4N29KVndWRldnRDZrRTRoTTF4dHZJWFgzaGd0SktaMi1YR2wzMDlOQkZGV3JJSVM4cDkxeXRWTXhFR093MkYxNE91Z2RobmNHOFY0T19nQ25IU01kendwMHYycHNadXVaNkVOWThfVFY3RTAyMVowZUw2RnViejFCRTdfTmpXQjZ2M1lvZVk?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Interview | Main Challenge Ahead is Amethis Development, Says Congress MP Kishori Lal Sharma - TheWire.in",
+          "source": "TheWire.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBib3hBclhqcnBrSk5BNmppX0RWdGZaaUx5Uk5pQnNLTnpIRnBqSUxFY0dKY1NIM1hHQVNZeE9ndE1BYmlWSUVHckxYUEcwSF9BR0Y5ZzVCdDlia0dXbHhOOV9xbDNTU0NlZF8xUHplU1FfYWJnamx3UkcySFJaQdIBgwFBVV95cUxNOGtDT1hDdWRFYXd0ZUc3M2pFNVJMLWdjZHdDUVExTVF0MjgyN3JNVWt2V2YzSFhPMlBKVnkyT2dtSGFBanBjUklLbUtnZnNTaDBtS29FRWJBZWdlN2JleUZEaFBlZ3hFeFhEOHNiZklQN3BmSldvOXhQMmtaMk9vTDJNVQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -384,17 +437,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +495,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 127,688,722. MPLADS utilization: 40.7%. Parliament attendance: 95.0%. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:53.730808Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 95.0%. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.300100Z"
 }

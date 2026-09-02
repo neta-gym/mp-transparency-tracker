@@ -4,16 +4,16 @@
     "constituency": "Jalgaon",
     "state": "maharashtra",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5317,
+    "myneta_candidate_id": null,
     "slug": "smita-uday-wagh",
     "house": "lok_sabha",
     "sansad_member_id": 5723,
     "profile_url": null,
     "canonical_name": "Smita Uday Wagh",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 56,
+    "age": null,
     "photo_url": "/mp-photos/5723.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Jalgaon",
       "state": "maharashtra",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 5317,
+      "myneta_candidate_id": null,
       "slug": "smita-uday-wagh",
       "house": "lok_sabha",
       "sansad_member_id": 5723,
       "profile_url": null,
       "canonical_name": "Smita Uday Wagh",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 56,
+      "age": null,
       "photo_url": "/mp-photos/5723.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5317",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.381530Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:35:25.596645Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 87477424.0,
-      "liabilities": 18576577.0,
-      "net_worth": 68900847.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5317",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.381545Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 54.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.81,
-      "released": 14.81,
-      "sanctioned": 1.6,
-      "expended": 1.4,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:31:27.810128Z",
-          "notes": "Official eSAKSHI REST API — Works: 10 recommended, 10 sanctioned, 7 completed"
+          "fetched_at": "2026-09-02T15:33:12.674567Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:29:12.077199Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:29:12.074163Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 10,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 9.453072248480755
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:38:12.569769Z",
+          "fetched_at": "2026-09-02T15:29:12.072884Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Sansad Ratna Awards 2026 Announced: Pune’s Medha Kulkarni and Jalgaon’s Smita Uday Wagh among awardees - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUdzY29icHhWMDVqMkxUdmo1TUo4RlZDTkpBN2dYMGNoTTE4RXhVQkhFV3ZUdWtDUW1vSTA2MExLZW5acVRFeTFGWklvLUFzOUVHSXdRVzVRSFB6U1VJVGJQNGs2YWdURzMyZ3BFZU5TMk9WNlNVWE9rbkxURjRfM0ZrTnJBSkxlaVE1a3JYUVJESWwxTlRCLWR4d0xUR3BTaDd6X21jVDk0MHU4bVJV0gG2AUFVX3lxTFBJQUZaVmhPbThXc284NEFLQ1lXem5POENvLTdPSDZReVFWM0xIMmkxRlBaZ25RRkJPS2tZZVd1d0NXSmZvbnlBcXBsSFhFaG82andYTW4taVZVWEJuQURlQU4yQnlSc3lsZTdwWXk1TkdBbnoyYmhiT09kUUpCUmtYZWNtWXdRamxpNnRxUnFBX3ZFcHNWSnBveXlOTWZ2UVN5MFJiclFFYS1lc1hYUE10eHROVkJR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP Smita Uday Wagh vows to serve people amid cancer treatment - Awaz The Voice",
+        "source": "Awaz The Voice",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUW1NdWdwaHhDZk9EOVJWS1hlelZPVXp6Uld4Zl9vc0dMVmRPZUV0cXU1Y0hhU25LalROb01iV2tLcTR2YjFOdmwzT3FqQmhPeDEyOG9leGwxRnNuMkVxOFo1czZaTFp2YmNHVG5lcnlXOHdPMDh1TlNXbnRic3lWcU5MNHdwaDU1ZjZzbnJNMk5UNmM5aFRoLTNYU0d1bGhxc0lXc1BqUW9RcGdCRzlKNjRZU3ZHQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jalgaon election results 2024 live updates: Smita Uday Wagh of Bharatiya Janata Party wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMWc2dUpNNVJaZmhKWUFQSWtqN0tXZVpiY3ozdkpyZzc0U2M4VlJTaXJjYnRjV3l3bnRsWU9mTmtveWkycnhWMGhFYWVzbUlBeTN2MFo0Y3RPV2QxS2NNVTdEeVAzZTZLTmtGdEprbXpHX3pGVHFIRGNXV1FhUnhfY3ZQdk9ucEpQRWlycDFLTkJWZGxGZFFIUlBCakc1bFNZelVuREdwclJad013bUJhSGNYc0MxM3pIUmpvRHdWNmxtYmZRV2tob2t6ZlRSRGttQXd4Y2tOWXkyLXVvdFdCVk16QXllN3Zkcl84SWw5Yk5tQXA5Zm5qaUNiZEZrWWt2bm1ybWRyT3DSAY4CQVVfeXFMUGs1bmNmalVReDlfLUZmMElPczZOR1pxOC0tUVU0YzBBSGMxNktDellvSHMzMTZ0VWl1a05nUE15d1I5T0RibV9CZkZvTmZBWS1nckdHb1o4dnlPZkhteVV6M241TEFCY24wQjhMVFc3UExSZVJ5QVRCMVBfaGtqLWM5V2JUQ1BlUjktcS05UFpnS0RnVUxfQzJJcWhTNC1SeG1uZlpwcUUzelFXb0hScUlwSi0wLVp3SXB2QjVpTklqemlQV3pzUHRtUk5yd2NrX0d1QXJsVEtac1NHam5vMko2cUl5MHhlR3RfZEVzNzR1QTJUdDhvZHlDeUdScmplYnhVN2huNm92VDZ4YmdR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP Smita Uday Wagh Continues Duties Amid Cancer Treatment - The News Mill",
+        "source": "The News Mill",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWJUN3pabnNwTG9BTkpfN241SmJJUW5oNV9uZ0VEVWR4N3cyZ3hobmNNclExSXp1REQ0TDJRQUVMWEFDRXZJOUtORndSa1JNRU10c09ydV8tX1ZoUFJsbkNDQi0yaG5LNUlZYzJKUTFKbFF1V3VyOEl0c2ZCcngzREFjdkFWbDUwQk9fMjVQbU9hbnNGV0F2Y1FIRFRLNGJ3RGtjbGJEVGNTMGdMQ0c3Tmh3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP candidate will win Jalgaon seat by 5 lakh vote margin, says Maharashtra Minister Girish Mahajan - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXRaYmE3bUotVHBDWENZakFVQlNLZ2tlb0loNVFMNFNMcHR5czE0YThGZVVkY2xBa1JpNXNkd3FGNnU0Y0ZKakdNZFpXc0RJdVdzN2w5N09aQ1FvZ0xyYi01Mld1RkxaMkZQY29aN05VQmk3S3pnZ2Q0M3BzNjlQdnVJTVRaMjJmU25PMjV6aXhaaDJDQ19tSXBfWTYxeGZtcHRNdVVtdlk1NThSdnZqNGd4VGQ1NVVXQ0hqTnZ2cGxpa2k3V0gxRG1FRmthYVVvNzFrVkNUWlBBWWd5Z1djUzBxdWQ0MWMtdFNTOE9kMA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:38:31.008379Z",
+    "collected_at": "2026-09-02T15:33:12.675736Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.826019Z",
+          "fetched_at": "2026-09-02T18:38:08.360489Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.826028Z",
+          "fetched_at": "2026-09-02T18:38:08.360500Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.826033Z",
+          "fetched_at": "2026-09-02T18:38:08.360506Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.826039Z",
+          "fetched_at": "2026-09-02T18:38:08.360511Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.826045Z",
+          "fetched_at": "2026-09-02T18:38:08.360517Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.826050Z",
+          "fetched_at": "2026-09-02T18:38:08.360521Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.826055Z",
+          "fetched_at": "2026-09-02T18:38:08.360526Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,32 +322,65 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/smitawagh_?lang=en",
+          "url": "https://x.com/https://x.com/smitawagh_?lang=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/smitatai.wagh/",
+          "url": "https://facebook.com/https://www.facebook.com/smitatai.wagh/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/smitatai_wagh/?hl=en",
+          "url": "https://instagram.com/https://www.instagram.com/smitatai_wagh/?hl=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:29:28.989600Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 9,
+      "total_articles": 10,
       "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "\"As long as I'm alive, will work for my people\": BJP MP Smita Uday Wagh on Parliament duty amid cancer treatment - ANI News",
-          "source": "ANI News",
+          "headline": "Sansad Ratna Awards 2026 Announced: Pune’s Medha Kulkarni and Jalgaon’s Smita Uday Wagh among awardees - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQekN6ZnBlenJQNGRxOXdiTmszVDFPSUI2R1dGWURYTS1vdFhJbmRleGFuaExxcmVvemluWjZyNkEzMndaTkhDa2tYcHVTSEw4YWptdWFyUTZUcm1zazdwQm96dWVQZWc3UUhpY0NYVDExcFIzZVdKY0pSV0V1Q1NlSmhaaFNKdU1hbWdsRjhPZ3gzcTBJTFJrTFI5Z3FkVkkydlA4NWtFekpjR0ZIVF9NTDJpTXNJUi1MTFBRcjVENmlVR2EzYTJ4aG52N2VWV01MTWpVZ0owdUxkeTloamZSSnNDR2lEZDNyYk14VkdlTHh0TUtNR05aRzJDeHlpTUFC?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUdzY29icHhWMDVqMkxUdmo1TUo4RlZDTkpBN2dYMGNoTTE4RXhVQkhFV3ZUdWtDUW1vSTA2MExLZW5acVRFeTFGWklvLUFzOUVHSXdRVzVRSFB6U1VJVGJQNGs2YWdURzMyZ3BFZU5TMk9WNlNVWE9rbkxURjRfM0ZrTnJBSkxlaVE1a3JYUVJESWwxTlRCLWR4d0xUR3BTaDd6X21jVDk0MHU4bVJV0gG2AUFVX3lxTFBJQUZaVmhPbThXc284NEFLQ1lXem5POENvLTdPSDZReVFWM0xIMmkxRlBaZ25RRkJPS2tZZVd1d0NXSmZvbnlBcXBsSFhFaG82andYTW4taVZVWEJuQURlQU4yQnlSc3lsZTdwWXk1TkdBbnoyYmhiT09kUUpCUmtYZWNtWXdRamxpNnRxUnFBX3ZFcHNWSnBveXlOTWZ2UVN5MFJiclFFYS1lc1hYUE10eHROVkJR?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP MP Smita Uday Wagh Continues Duties Amid Cancer Treatment - The News Mill",
-          "source": "The News Mill",
+          "headline": "BJP MP Smita Uday Wagh vows to serve people amid cancer treatment - Awaz The Voice",
+          "source": "Awaz The Voice",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWJUN3pabnNwTG9BTkpfN241SmJJUW5oNV9uZ0VEVWR4N3cyZ3hobmNNclExSXp1REQ0TDJRQUVMWEFDRXZJOUtORndSa1JNRU10c09ydV8tX1ZoUFJsbkNDQi0yaG5LNUlZYzJKUTFKbFF1V3VyOEl0c2ZCcngzREFjdkFWbDUwQk9fMjVQbU9hbnNGV0F2Y1FIRFRLNGJ3RGtjbGJEVGNTMGdMQ0c3Tmh3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUW1NdWdwaHhDZk9EOVJWS1hlelZPVXp6Uld4Zl9vc0dMVmRPZUV0cXU1Y0hhU25LalROb01iV2tLcTR2YjFOdmwzT3FqQmhPeDEyOG9leGwxRnNuMkVxOFo1czZaTFp2YmNHVG5lcnlXOHdPMDh1TlNXbnRic3lWcU5MNHdwaDU1ZjZzbnJNMk5UNmM5aFRoLTNYU0d1bGhxc0lXc1BqUW9RcGdCRzlKNjRZU3ZHQQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,23 +392,23 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Jalgaon lok sabha election results 2024: Jalgaon Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "BJP MP Smita Uday Wagh Continues Duties Amid Cancer Treatment - The News Mill",
+          "source": "The News Mill",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEhoQkhQZUkyVWN1cHlFNE5pYlFxVmNWZjVYZGVnYldPLVJlVUZobE9XeThRLXc4dERZMUJLV0N0YXRjTDVJaWFsLTJyM0h3dXhIUHFHR1NLUkdKU2NHZlBUOGV6YVpDczZWcmdIVU9hTm5sRTBrMElqT0pzQjFvUXhOX2FhTWhHbmtuZGkxTW9qanU3Snc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWJUN3pabnNwTG9BTkpfN241SmJJUW5oNV9uZ0VEVWR4N3cyZ3hobmNNclExSXp1REQ0TDJRQUVMWEFDRXZJOUtORndSa1JNRU10c09ydV8tX1ZoUFJsbkNDQi0yaG5LNUlZYzJKUTFKbFF1V3VyOEl0c2ZCcngzREFjdkFWbDUwQk9fMjVQbU9hbnNGV0F2Y1FIRFRLNGJ3RGtjbGJEVGNTMGdMQ0c3Tmh3?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Exclusive | Lok Sabha elections 2024: I plan to create jobs and infra, solve water issue, says Smita Wagh - Mid-day",
-          "source": "Mid-day",
+          "headline": "BJP candidate will win Jalgaon seat by 5 lakh vote margin, says Maharashtra Minister Girish Mahajan - aninews.in",
+          "source": "aninews.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ0RzR3h6bkotaExfQXNHVENLT0d2TFNrbWM5Rmx3QXFKZm9kQk9pdWRXendtcXhCVXEwanVYemNsOGY1WWJ5Y0NJVC1PTzBvaVpHNS1TR3hTV1UyeFBlUUdNdDEtN09JR25maWx0NUpZZFJFU1ZVRWppN2lObDBwejJYb2FrV2dIVDdIWk1VZnBFTDM0YU1hal82U003WmJGcC1qY1NvakxhV29XTUgwVzZvQUNvNFkxNHJKYmNUbG04dDM2b0R3N2YzT05wOEtNZVkxOGFaZW1Kb2xJU2tYWjhMN0RMN19Jem0wR2hLZVRrUdIB9wFBVV95cUxQRHVwb0NXSG50U09YYWtaUjBrTWtHLVFMN0NEMlVaMHBkY0RDYmVWUmNCNWF3aEVaLXNLQVp5SGV6YU1KaDJoc0FTOHJGbGxiMTYtTlRCSUVrdGdQeGZZcFhLcXBiRVlrYVJoMmZPOWVTcmRhb1cxNHFxV3huaGNRVGFoUy11Z0Q0OW5tY2p5TmtsODEtc0syMnNtRXI4NUVxOHJCSVU4aEtxRXdpb0o2WlNBTHBhbVJQZFJfOGgzc2Ytcml4WEczZ2MyTXdlM0JjcEhzX0RvTEJRNUtqR196LUlzeldrdFVDYVdUa2ZZcW5fM3BaYW80?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXRaYmE3bUotVHBDWENZakFVQlNLZ2tlb0loNVFMNFNMcHR5czE0YThGZVVkY2xBa1JpNXNkd3FGNnU0Y0ZKakdNZFpXc0RJdVdzN2w5N09aQ1FvZ0xyYi01Mld1RkxaMkZQY29aN05VQmk3S3pnZ2Q0M3BzNjlQdnVJTVRaMjJmU25PMjV6aXhaaDJDQ19tSXBfWTYxeGZtcHRNdVVtdlk1NThSdnZqNGd4VGQ1NVVXQ0hqTnZ2cGxpa2k3V0gxRG1FRmthYVVvNzFrVkNUWlBBWWd5Z1djUzBxdWQ0MWMtdFNTOE9kMA?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -360,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 79,
+      "starred_questions": 23,
+      "unstarred_questions": 56,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,11 +485,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.31,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -428,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 87,477,424. MPLADS utilization: 9.5%. Parliament attendance: 85.0%. Questions asked: 79. Debates participated: 12. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.827305Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 79. Debates participated: 12. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.361243Z"
 }

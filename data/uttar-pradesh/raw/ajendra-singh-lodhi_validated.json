@@ -4,16 +4,16 @@
     "constituency": "Hamirpur",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 7179,
+    "myneta_candidate_id": null,
     "slug": "ajendra-singh-lodhi",
     "house": "lok_sabha",
     "sansad_member_id": 5784,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 53,
+    "age": null,
     "photo_url": "/mp-photos/5784.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Hamirpur",
       "state": "uttar pradesh",
       "party": "Samajwadi Party",
-      "myneta_candidate_id": 7179,
+      "myneta_candidate_id": null,
       "slug": "ajendra-singh-lodhi",
       "house": "lok_sabha",
       "sansad_member_id": 5784,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 53,
+      "age": null,
       "photo_url": "/mp-photos/5784.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7179",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:53.498324Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:36:50.571123Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 50237175.0,
-      "liabilities": 7485000.0,
-      "net_worth": 42752175.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7179",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:53.498336Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 39.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 6.63,
-      "expended": 4.48,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:49:26.553365Z",
-          "notes": "Official eSAKSHI REST API — Works: 121 recommended, 93 sanctioned, 1 completed"
+          "fetched_at": "2026-09-02T17:10:51.185689Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:07:10.549524Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:07:10.546477Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 121,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 30.476190476190478
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 60.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:01:50.420545Z",
+          "fetched_at": "2026-09-02T17:07:10.545230Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "SP MP Ajendra Singh Lodhi booked over ‘anti-national’ remark on PM Modi - The Hindu",
+        "source": "The Hindu",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVU1YWRRSFZHZHVIem1LRl9xTHNKVDVyRlppenh6ZmRmc01waGNUM09CVnJVX1NsVkIxUzhYWVNuZEJ1Nm84RkNXVU9GWUJvdm9GS1BIcjNUdldZYUFHeHBNWmtzYVZ4UTBOWEdqdl9DRU9wOGlkSjJhWHhzVW1rcDZhVFZjQ1otOW95SEw3VURXM2tRWG5UNnppREZ1TzJsQURWVUloSTFoQ0xMa200ZjJUSGtZQ3ltYlVfYUd4aF90cHRDS3BRa3lZQlNIQUhQUHpHd2xXeUpoQdIB4AFBVV95cUxOYXp5Q0lwMnZXSll4UVV4dmVITnBvT2dBNUlIVmRvUjRVQVFocnpVZzVmS2FvbmVMRmJWUDhGRzRQRHZXTGQ5c3YxTWJuLVhJdFBtMnRvLTBnWWJTUVhNZVZtVFNMVmV5dVVadlk0WlZXSHl1YlZYdGktLWw1RmRHMHl6V0FMeXhJWVRpbjU0dVM3RVljUU5ON0JLR25TdGoxTmhZT3V6NkdrRXZTSE5Tbm55cklfQjhyWGNmcWtiNEFFUC1tSkFjR1BScmxIOHFLSVNnV09uOElpY3hUQ2U0TA?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SP MP Ajendra Singh Lodhi booked over ‘anti-national’ remark on Modi - ThePrint",
+        "source": "ThePrint",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmFSNXhfNmRUcGZrYXpydVBjUFBjYnJVOWhNa0tzZ1Z5QUc0Qm9YcV80M2lhWlhYdF9ETlpfUTJBZDRpcWhILWVSQTBySl9taHlfenMtS0dhV2hxaVlDMXJSUHRFZHd6UVpCQW1oS0R6TE94N1NiVDF3aGNvdjZsTlNQc2VZTDEyeTQwZUdmV0F3U2ZyWXNDOTJqbHhkbk9rX1VJ0gGoAUFVX3lxTE5id2JicGxjN0Q0QTFtaFJpWjcyMjlYQy15ME1OUENkT1pxMTloXzlzOGYyb3FfSHhCdDhRemphQ09CSndxZ1JOQnFCM1NzSkpMQmF6TGNoQzg1a2R6eGRBYlNRdGN6MTNUX0RpVU5WT1NfV2Q3blpTa1VxU3Axb3RPRXVqV1c4bm1JTVoxaEdPc2pSaFNDNUVmQThWRHJVbU1yZ3ZDZnEwcA?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "FIR filed against SP MP Ajendra Singh Lodhi over derogatory remarks against PM Modi - The Times of India",
+        "source": "The Times of India",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSkJwQjk3cklzVzNSaXR5eDdjRVFWVzBOTzF3eUpTVGNtd2otTXF2M21BRkUxRXpzY0hmSTAzcjJLbm44TFREdk5ZM2pqN1pqVFhKdFJjQVZRbmZfc3d1UERNYjB6NDZLcmNuWHI1LWs3dWNhRFNmY2EySFZfMUZ0TC1mOFAtcmdJWEFibGFmUld0d01CeUhmUUczWnlOWURzRUtNOXlMby1memVRSmloWUtGT295SWx1TXkzVkVETENaZVVBV1JQZlIxLXFmMlZHaWt3d1pId28wQnk0d0E1NldNVWpMQdIB6wFBVV95cUxNdTVfamR5dmROSUt6R1FLZ0gtNDA0MzBIQ2FJRHN3QUlsRmdjTVhKRVBnUjl6WFVQWHZZT3NFSVJIdHp5dGtCNGk1MXJaRVRFQjZvRl9OUDU4RjdpNmpTV2ZCS0Znc3RKOGx5OHJLYnhEeWNCQWdJM2t3dDJqQ1pBVWJuT2NXWTBtMmpJTDdsVzRKV0VqamZiVVFEUGpmc05NV0dxVEhYakZYbF9oLW12MUZfb1BLYWZmZ1c5N1V0RkZHNEhEc1N3MHlqTmpTdlNQYWo1VmwyX216Q1FrVThfd0xLRHJXTjBpRkZF?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Samajwadi Party MP Ajendra Lodhi booked over derogatory comments on PM Modi - The Statesman",
+        "source": "The Statesman",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ05fYU1yNkh3THo0QkhuQ3dzUGR3OXVWOE9WNDcwSXlaaURjZGpxSXB0RWJ3V3d0UFZ1U2hSSnh2cWkxOEhMTjg4WG52ZGJWQllOY2VtMExBdFlQUmgwXzU5ZlpJWFhpenZmeGJadF9wN251cVdsbzlPT0pzMUktUlRoamFVUGdHd0h5UTg1ZEJWVk84V1h2c09INWVzR3hUNHQ0ZFNYVmpTNldJS2xuNUZzSDhHMWQtWWFNb0NVWk5MR1E30gHKAUFVX3lxTE4tM1lBdFZ3UXpJWUNIbUZwXzBuNE5CcVdfekthRzFHbTI5aVk0aEcxeXQwLUZwa3lqSzJWRF9XOXBvR0tQaW81b0FVdTZIcUdwZTJGaVUxZms2YktzODdCbTFIRmowdWdXc3FUVFZOLWxINmRaTm9jUmo3TUg4YzN4SVYzR1BoTmF0NTBvLVJkQ25RTVp0RHpRWW1RYWpXYnVqYWUxU2g2RllBcWxJREtUWVJRSzI2NWl1UDhTSllUV0lDMC1yNzdiVFE?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "'Party of goons and abusers': Samajwadi Party MP 'abuses' PM Narendra Modi, BJP hits back - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmtIUTAyS0JYYlNyTkJUOWpvaklhNjZjbWFEdkVmRk9pN2pSN0Y4VlRna2x0SVFBTzhva0JJbzQ4bHhVYWh3NmNUM3QyNHlCLWVNb2tIQU40NmkyMjNwNVFtMFpOXzBlTDZpbjdiZmU3QlNURzRvZ3NUaHZOOUNCZDBFajNJU1BDNHBjVk1Cb2FCTFoybm9VRVgwanNXemZBOFlCSklTalZ3WVdmZ3lpNGFFQ2ZtQlozZW5qS2FBcVk2NUQ4a1pvdDZMRdIB0AFBVV95cUxPUEJwOXkzOG1yNnhkN2dSYktFMGxJbHE0QWJtamktU2JSeTJhV1c3aXBsdkRsSmlUemthaWVsdVE0cUhEY3hIVk5OdTdENTdBaTBnVEphWnlHYUppck9WQVFtdkV6ZUEzRm9iLWVZWlQ4SVhCR1IyYUVsS1JNZC0tTXVnajByaXZTcHRFMmRESldiOEV0MWRpMHFESlljOFppX1p1MTdzV2g1SWtTUVI5MkZ5SVd1TzU3ZWllcHFIMlgyYS1WWnI5a1ZlODJJVmFv?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:02:10.863979Z",
+    "collected_at": "2026-09-02T17:10:51.186955Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.125075Z",
+          "fetched_at": "2026-09-02T18:38:10.679632Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.125083Z",
+          "fetched_at": "2026-09-02T18:38:10.679643Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.125089Z",
+          "fetched_at": "2026-09-02T18:38:10.679648Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.125094Z",
+          "fetched_at": "2026-09-02T18:38:10.679654Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.125098Z",
+          "fetched_at": "2026-09-02T18:38:10.679659Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.125103Z",
+          "fetched_at": "2026-09-02T18:38:10.679665Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.125107Z",
+          "fetched_at": "2026-09-02T18:38:10.679669Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -268,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.125111Z",
+          "fetched_at": "2026-09-02T18:38:10.679674Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -302,8 +347,8 @@
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 7,
-      "neutral": 3,
+      "negative": 5,
+      "neutral": 5,
       "top_headlines": [
         {
           "headline": "SP MP Ajendra Singh Lodhi booked over ‘anti-national’ remark on PM Modi - The Hindu",
@@ -311,6 +356,14 @@
           "severity": "medium",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVU1YWRRSFZHZHVIem1LRl9xTHNKVDVyRlppenh6ZmRmc01waGNUM09CVnJVX1NsVkIxUzhYWVNuZEJ1Nm84RkNXVU9GWUJvdm9GS1BIcjNUdldZYUFHeHBNWmtzYVZ4UTBOWEdqdl9DRU9wOGlkSjJhWHhzVW1rcDZhVFZjQ1otOW95SEw3VURXM2tRWG5UNnppREZ1TzJsQURWVUloSTFoQ0xMa200ZjJUSGtZQ3ltYlVfYUd4aF90cHRDS3BRa3lZQlNIQUhQUHpHd2xXeUpoQdIB4AFBVV95cUxOYXp5Q0lwMnZXSll4UVV4dmVITnBvT2dBNUlIVmRvUjRVQVFocnpVZzVmS2FvbmVMRmJWUDhGRzRQRHZXTGQ5c3YxTWJuLVhJdFBtMnRvLTBnWWJTUVhNZVZtVFNMVmV5dVVadlk0WlZXSHl1YlZYdGktLWw1RmRHMHl6V0FMeXhJWVRpbjU0dVM3RVljUU5ON0JLR25TdGoxTmhZT3V6NkdrRXZTSE5Tbm55cklfQjhyWGNmcWtiNEFFUC1tSkFjR1BScmxIOHFLSVNnV09uOElpY3hUQ2U0TA?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "SP MP Ajendra Singh Lodhi booked over ‘anti-national’ remark on Modi - ThePrint",
+          "source": "ThePrint",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmFSNXhfNmRUcGZrYXpydVBjUFBjYnJVOWhNa0tzZ1Z5QUc0Qm9YcV80M2lhWlhYdF9ETlpfUTJBZDRpcWhILWVSQTBySl9taHlfenMtS0dhV2hxaVlDMXJSUHRFZHd6UVpCQW1oS0R6TE94N1NiVDF3aGNvdjZsTlNQc2VZTDEyeTQwZUdmV0F3U2ZyWXNDOTJqbHhkbk9rX1VJ0gGoAUFVX3lxTE5id2JicGxjN0Q0QTFtaFJpWjcyMjlYQy15ME1OUENkT1pxMTloXzlzOGYyb3FfSHhCdDhRemphQ09CSndxZ1JOQnFCM1NzSkpMQmF6TGNoQzg1a2R6eGRBYlNRdGN6MTNUX0RpVU5WT1NfV2Q3blpTa1VxU3Axb3RPRXVqV1c4bm1JTVoxaEdPc2pSaFNDNUVmQThWRHJVbU1yZ3ZDZnEwcA?oc=5",
           "sentiment": "negative"
         },
         {
@@ -330,23 +383,15 @@
           "sentiment": "negative"
         },
         {
-          "headline": "Never seen such a bastard and anti-national Prime Minister: Ajendra Singh Lodhi, MP, Samajwadi Party - Dailyhunt",
-          "source": "Dailyhunt",
+          "headline": "'Party of goons and abusers': Samajwadi Party MP 'abuses' PM Narendra Modi, BJP hits back - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZHc1cXp0ZE81ZlRhVkdkbml1WmVkM1J1enFMWnVTVmxWeEVYc25ZN0NzVHdfUzNFT2xJT2l6UnBrX3F3OUpkVk1NalhsWVJZYzhhYnFwS3paaFkwYVNmMHZIa0h6alZFcWxZcnYzbnFkOXgyUzR4NjVqVkM4djNQY01fTVA0dzJ3S2tjeUM4SG5EcHBqTWptTU4xUXQzekpabm9ESC10c3JXdzdNazVGSVpWX1dHMGRiYl9EcHhXVGFSMjBSQ3JjTnhGNEpRY3VDNzNfaGtRbUVfM204YWhEckxwWWpLWGFma2lHSXg0Umw0VmVWd0I5RVZnOVNJMHpiY09ENTJESUJobTFQUzd0S1B4S1Z4SkxYeEFIQzJSbw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmtIUTAyS0JYYlNyTkJUOWpvaklhNjZjbWFEdkVmRk9pN2pSN0Y4VlRna2x0SVFBTzhva0JJbzQ4bHhVYWh3NmNUM3QyNHlCLWVNb2tIQU40NmkyMjNwNVFtMFpOXzBlTDZpbjdiZmU3QlNURzRvZ3NUaHZOOUNCZDBFajNJU1BDNHBjVk1Cb2FCTFoybm9VRVgwanNXemZBOFlCSklTalZ3WVdmZ3lpNGFFQ2ZtQlozZW5qS2FBcVk2NUQ4a1pvdDZMRdIB0AFBVV95cUxPUEJwOXkzOG1yNnhkN2dSYktFMGxJbHE0QWJtamktU2JSeTJhV1c3aXBsdkRsSmlUemthaWVsdVE0cUhEY3hIVk5OdTdENTdBaTBnVEphWnlHYUppck9WQVFtdkV6ZUEzRm9iLWVZWlQ4SVhCR1IyYUVsS1JNZC0tTXVnajByaXZTcHRFMmRESldiOEV0MWRpMHFESlljOFppX1p1MTdzV2g1SWtTUVI5MkZ5SVd1TzU3ZWllcHFIMlgyYS1WWnI5a1ZlODJJVmFv?oc=5",
           "sentiment": "neutral"
-        },
-        {
-          "headline": "FIR against SP MP over remarks on PM sparks BJP protests - MSN",
-          "source": "MSN",
-          "severity": "medium",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWm9sQ2Z1SGExMzJrMF9jR1VPODRwaV9YbndqTjJKLWkwMm5tVUZUTXF3WVlyaFhGYUhGUHo3VE5sc2pWN1BlNHFXX1N2UEVGMGh3bXV1dzhkOWVvSkhKbGw4LTFkeWtmS00zWkQ5Ul9PdTd2YXpCZkdNdWlCRlRvVGc3dnhfS0VBdWhhaC0xclFyQ1FKcTVDeW5RbjRsaHcxd0d4ZDRlWmlEUDJpU2tNeFQxZlBvNHlQQ0tvMTVYQ2RBeUIzOXhKMU9WbjN2ZWNYY19xWXhIRHByeUJIM2VJ?oc=5",
-          "sentiment": "negative"
         }
       ],
-      "sentiment_summary": "Predominantly negative coverage (7/10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -392,17 +437,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 60.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -423,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -438,12 +495,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 50,237,175. MPLADS utilization: 30.5%. Parliament attendance: 60.0%.",
-  "validated_at": "2026-09-02T01:36:53.125841Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 60.0%. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.680403Z"
 }

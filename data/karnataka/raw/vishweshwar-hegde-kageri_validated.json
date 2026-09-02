@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 167409004.0,
-      "liabilities": 0.0,
-      "net_worth": 167409004.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 68.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 3.12,
-      "expended": 2.86,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:32.417804Z",
-          "notes": "Official eSAKSHI REST API — Works: 112 recommended, 45 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:43:18.504438Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:39:33.881498Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:39:33.878923Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 112,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 19.45578231292517
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:24:09.078213Z",
+          "fetched_at": "2026-09-02T14:39:33.877854Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Kageri inaugurates passenger amenities at railway stations in Uttara Kannada - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVHdNekVndEEyYnU4Y2l3QnpzZEFtRmUxazQ4Z3FQQTVxYl9tZS1FVm9OTjBrSGpXaXMyODhDZm9wUUwtN0dSRjJ2M3NERzZteFh3aXJpUm5Pd2oyU19OVHEtMHRVeWJrTmI2bVVjN014Ui1QaGhPOG14Zjk4OTY5eXdtcVJDSkZvYWVnVVo0Zm1kaGhtOVp4U21YMUFzYUF3dUpNNFE4Z3haUFdxYWdRRVNSTkRvb3k2N2VIZm5LSHRZdkgxUktPWHJ3MTROb0c0OHJqLWhHUU1GX2vSAeIBQVVfeXFMUEZjdzVIeExFMkd5VHFLaUhjRjgwWEFZRjB5clV4aEg3Y1ZZTllmblBLUTJkQnBSdHhlZG9WZGdRUXlfc1kyM0kwRVhkTk9fbUNLVExlSXR5VVZPcjhFaFl6SlE0UmpLQzBUUU8xVG5EX1dmZHpFZks3VEtpcXRySUlTQ2dsYlNRYXlPUmQxV2ZlTUkwRXBDOE5wZ1BCQlRWQ0hib09aZkdIcFlFNGRYNGNKeW5KMlB0LVBfMWVDQ2dFZWtjRnF2RE9kWGM5MXJNQzR5MVVieXFrcVN2SHJZVTJYUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Welcome song for British’: Karnataka BJP MP Vishweshwar Hegde Kageri’s remark on ‘Jana Gana Mana’ sparks row - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmVWSVhvVU9Vd2cwLTlWWEFPWW1oVHhuN2ZFWnRVdTlIVUY5cDdjYXdOeFVfQzhXT2FISGdVWFVieWEtUW9RVjZ6Ujl6S1JlRUJCWUpVclNFWU1hYzFqSWlVaEZXcjVxNl9NZGxYMXZlb1FhYXB2WWw4MG5wZGN1dHAzVFpnRjJUWnZmOGR5SFJRSmtNQ2FjWTQ2N3B6TGZiSHBIRTkwUXNFTWFpZ25kX3lla0ZpN2ho0gG_AUFVX3lxTE5MQnJ6cWJGTnJtQnYyNmZWV19IRWdRcl9xRjEyVjVlbUdGakpScl9uWm1SWExVamoyR19hMXdXS2FUN0NLR1FlNEdtcFZMbkgxQ0VRMm1HZ3p5Vl80aUk5VE9hNUFlLXJRNmdTQzR3RFlVZ3ZlcURiNjFFaGZ6bTdnaHBZTTVpcDJVTGF3R0RGMmpZeU9YdVNRV0NLT1NtWWRfZ0pScjNPY1ZYUnZ4Umo2YjFfQUVvUURGV2NQWGQ0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttara Kannada election results 2024 live updates: BJP's Vishweshwar Hegde Kageri wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOaGw4aGFGbUFlSktHZDB1eTIxaXdoU3dTY2kwRlR1QXhfbTU2aWF4cGhleUZ0b0VSYmtJYWxsLUpYSl9IOWhHMjdwVnBCNjVyR3Y4LVhmbVBYS0RURE0wMEVrYjNUMi0tOGM5R3ZuLW5JSjY4aktWUWtMU2lWdTlOOTNHeXBOc2RrZ3QwTUt4RFdxM3cwbE5nWTZabzd3emlteXVDbGtLanRSMGVlNTI3ZlNJd3VjUmpMU1A2LWVLXzJHa1ZZWWd2blJUb1RUT0N1VzJsdmZ6NnRxVVd6NFI1Qm5RQXdLZkk0VkZXVXBCcVdMeUlSSjVhd0pTd3M4LWdPdWhvTDBhSTM5dDJFNnpJX3FlaHlnNlRFdkp4NFItSS16UjYxQnpaQ0ZoYVBIcE9NQTQ3OVlYV2d1VUlTM3VFSDhFaXhoVmJ0Z2FLQUxB0gHTAkFVX3lxTE94ck8zSG9xV3ROQ2xTcjZTNnAtc0R4YkhyZHh0ZzZpa3gzUG9XMUhGaUxmS0JNSWV6N2NBTmlZSkxVcndzTFd2SWt5RGNkc2hxME45eEdjcHZhLXJtNUhPc18zNnB0Zm1mbEsxN1hCejNZTmhvZVpPN0JBOGthbGNIYW5ZSURYWnhHeWtNQXIwcC0tbEpVbWkxb0x3Nk5SLWh6aXZ5cFE3RGhBbHdqZ2FCMnQ3enVsX2FjdFRiR2xIV3hSNUVvN0Z5Vk9CSkZpUTBlUjVIbk91U2JuRE00bTZPZGFGelhJUWotWHQ4ZXhJNWF3NUlGMGd5R2hSdVVXR04yRXNvSjlLOElISDk4cW84djRBNHZzM2huT3JhRERjQnE0YklHeDEzcnFtM2FoY25zc2RIUlJXWFJIcmd3V3JDczFCWXRCSU9fTFdDbU83WDFjZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ex-speaker Vishweshwar Hegde Kageri accuses incumbent Khader of funds 'misappropriation' - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPek9fQTEySWpvU25tLVhENkdCVnh0WUQ3bkkxUWVQOWJQbDVmNTc1MjVDclNVTmtKQUphUWRnS3NwZEN3dzlUNkpTbHdnVktZZGt4N0dqZ1E1NEZ1V2FDcUtaYU1jeVZPUHFHMU5CWHZsWDljdGI3UjVFWnVrUG5RdHpUc21xN2RybXplc0drNVRVdTl2d184Snl4Mm95MkowZkdGRnBQZ2U2Y0R0WWlycXBaODdmUmxXeHdaS2p3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttara Kannada Lok Sabha Constituency Result 2024: BJP's Kageri Wins with 3.37 Lakh Votes Margin - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTVNaNWliN0xwWnRWU19UbHFoMjd2NlVMeHRMVzJpYUV0eVhlOVNyM2xvZlZFQXVLT1NNUFJFWHhmcmpyamFMYW9neWtLNk1Gc1l4dWtyQkVETVJ3c2ZqWVhkRU0tVkxUOHBpTEVIT1Izbmk2VVhsUHZUWHpFSHU1RVNfSkd1UFAxWTZ4RHhvMk5ySGlqMVNjekhMblVjbkd5UlBoMEs0ZVdQRzlCM0hMcWpPdFdDRk93YTJnNi1PaENQVHYzLXV4YVRpdFZKbEdkY2ZXRUVWb0ZwWm5xVzVFd1dVX0xaVzZXUVBxUHhoUzY0eVZta2FPd1BvTnhvUEtlNDJBV1kxSm9mSDVXNlU0SDE5NFrSAZoCQVVfeXFMTWFUN3FEcTJydW4wdHVIcllzVGhVaW9CNzljeUZvLVdLZ2ZXZkRjdnlKWl9GRlRaSkRQUlFMMks0SU94UGRmSFhxSUs5a1J3UXh1MHZ6YnE4VG1zaVRmdzVLNm15TmVFRnVlSG5SRzRNY3dQSE5YQURMbHhjSDhGb2cxdTJPMkNzU3FzT3VBM2dBOTNLV1Y5RDQ1eXVUWV8tRU5tQUdZY1RlMzVGUmhYVnA2YVlpRDBOdTFrVFNKemwzU09Jd1NyN0dTM1UxOHlPQy0tSjJ3Qy1sUzhDVFRqVjRfMzE1ZVQxYUI4dkJhaWJaLThOQWM3Q29QaTcycmE4VlBKWk8xeHNyemNBVkk1MEZfWUp6Ql9tN0Z3?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:25:15.472033Z",
+    "collected_at": "2026-09-02T14:43:18.505702Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.342436Z",
+          "fetched_at": "2026-09-02T18:38:06.828263Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.342452Z",
+          "fetched_at": "2026-09-02T18:38:06.828275Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.342458Z",
+          "fetched_at": "2026-09-02T18:38:06.828281Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.342463Z",
+          "fetched_at": "2026-09-02T18:38:06.828286Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.342469Z",
+          "fetched_at": "2026-09-02T18:38:06.828292Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.342474Z",
+          "fetched_at": "2026-09-02T18:38:06.828297Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.342504Z",
+          "fetched_at": "2026-09-02T18:38:06.828302Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -271,11 +327,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Centre won't thrust Bedti river linking on Karnataka, says Vishweshwar Hegde Kageri - Deccan Herald",
-          "source": "Deccan Herald",
+          "headline": "Kageri inaugurates passenger amenities at railway stations in Uttara Kannada - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbHF6WDh5aWhwdlpCQ25WN0g5RFdrYnVYMkR6ZVhQWUlIREdaNUw4QnhrQ3F0YTFsTmQ0eU9YYXljZzZla2R6VGpfa3RPM3N1eTFkNnQxdm5heGo0Y1BMZ0YwSTd3MkdXS0hna19JNU9LVGJFc2JDblg1T1hBeG1BRFJ3OFhLWFk2Mk9jOE1SUUQ4eG1OaWx1UXdHa2hxNDFuWENIUm9TNFpGWjZOelVndUxnQm9PeGFuM1YzeThYemljamFfa3hBRWlnWm9pSUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVHdNekVndEEyYnU4Y2l3QnpzZEFtRmUxazQ4Z3FQQTVxYl9tZS1FVm9OTjBrSGpXaXMyODhDZm9wUUwtN0dSRjJ2M3NERzZteFh3aXJpUm5Pd2oyU19OVHEtMHRVeWJrTmI2bVVjN014Ui1QaGhPOG14Zjk4OTY5eXdtcVJDSkZvYWVnVVo0Zm1kaGhtOVp4U21YMUFzYUF3dUpNNFE4Z3haUFdxYWdRRVNSTkRvb3k2N2VIZm5LSHRZdkgxUktPWHJ3MTROb0c0OHJqLWhHUU1GX2vSAeIBQVVfeXFMUEZjdzVIeExFMkd5VHFLaUhjRjgwWEFZRjB5clV4aEg3Y1ZZTllmblBLUTJkQnBSdHhlZG9WZGdRUXlfc1kyM0kwRVhkTk9fbUNLVExlSXR5VVZPcjhFaFl6SlE0UmpLQzBUUU8xVG5EX1dmZHpFZks3VEtpcXRySUlTQ2dsYlNRYXlPUmQxV2ZlTUkwRXBDOE5wZ1BCQlRWQ0hib09aZkdIcFlFNGRYNGNKeW5KMlB0LVBfMWVDQ2dFZWtjRnF2RE9kWGM5MXJNQzR5MVVieXFrcVN2SHJZVTJYUQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -287,14 +343,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "I am a known face in Uttara Kannada, know the local issues: Vishweshwara Hegde Kageri - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQV0dJSWtfeFpYcWJ2b0FhYUNmc3NlRnFzNF9samw2TDZ3VWhIWkhwajhROURRRVV4UWNIQmdkYnBBUlRQU05uYlZ5REpzRjIzVklPTXNPbmx0VkJ0dU9pRHZ0RDhIQVJ2SzNmUE1hcjlYOFd3WEJqQ1FfTUdLVlN0cGdiRTdRZlR6R1QzVXBuUkZyRDdJOU5BeGZIVnNxOVlmUVRtZ0N1bFBaeXNteHFDVVdxQnM2dHhxdkdGdkhuTThEaFdVbk5pVDIxNmNZckNmemRQV0NxeV9OeVVFYl9QVGhzSDA1eWlManppTWVTUzVkMk1sVDJLTVUzZFQxWU41QkEtcWN1SlJxTnptTWNsTVU5WEpYMmoxNFk1MXZ2OTM0QdIBqAJBVV95cUxPMzNFZTZtLWdfSWN6YVNWTzV2MGdfSHN2Vll6YWo4bUhpdV9iSVZNOGVUUVhqN3kyX3pyWFVaUVZjMlYzTmRhQ2laNGhESUx4MTlmN1JwZVFEQ295OUUtckF3RjJ6NHdXOG1YOXd3ajhLcjRUWDNieU5mM29fZnRVcm0zMnBmRFIzclBCQkoyWVo5a2h6M2phclFKTnh1X216VnVJWm93U3l4Q0NSZ0llX3p1WF9lWVJ2VG4yTXlodEs0ODdZOTFJMmhRdmdxUHN1MHZTeWVySHdIODcwY2p5cm5VM1o4MWd5VzM4N1pMR2hTNU5wbHFSeWVRRlYxT3lESFJxRGJZMzJEUFFEZEx1STZ1NG85V1RqbHVPRkN3XzVhX21uMERDeA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Uttara Kannada election results 2024 live updates: BJP's Vishweshwar Hegde Kageri wins - The Times of India",
           "source": "The Times of India",
           "severity": "low",
@@ -303,11 +351,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP MP claims national anthem was penned to ‘welcome the British’; faces fierce political backlash - Muslim Mirror",
-          "source": "Muslim Mirror",
+          "headline": "Ex-speaker Vishweshwar Hegde Kageri accuses incumbent Khader of funds 'misappropriation' - Deccan Herald",
+          "source": "Deccan Herald",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUpkX1NPSnhST284Ti1FTF8zN2MycnlZXzF2bDVNVlF2MDlFY19LVk1ScnlZMmhwTERmb2xONDd1eGpwaHZaTndVdE9SdExrZGVja0NKRkpMUzBDLWc0VDVSM1RYeE9KZG5obkRuSlBtSGQzVlRxYm0xc1N4NEZoMnJIMGlyNnMzQ1BWTjFkeEdsaUhWRXhGeGsxcDhvOFY4bXY4Y3RpN09nMjE3a0YzbXRkVUpJUHQ5NDVFS19n?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPek9fQTEySWpvU25tLVhENkdCVnh0WUQ3bkkxUWVQOWJQbDVmNTc1MjVDclNVTmtKQUphUWRnS3NwZEN3dzlUNkpTbHdnVktZZGt4N0dqZ1E1NEZ1V2FDcUtaYU1jeVZPUHFHMU5CWHZsWDljdGI3UjVFWnVrUG5RdHpUc21xN2RybXplc0drNVRVdTl2d184Snl4Mm95MkowZkdGRnBQZ2U2Y0R0WWlycXBaODdmUmxXeHdaS2p3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Uttara Kannada Lok Sabha Constituency Result 2024: BJP's Kageri Wins with 3.37 Lakh Votes Margin - ETV Bharat",
+          "source": "ETV Bharat",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTVNaNWliN0xwWnRWU19UbHFoMjd2NlVMeHRMVzJpYUV0eVhlOVNyM2xvZlZFQXVLT1NNUFJFWHhmcmpyamFMYW9neWtLNk1Gc1l4dWtyQkVETVJ3c2ZqWVhkRU0tVkxUOHBpTEVIT1Izbmk2VVhsUHZUWHpFSHU1RVNfSkd1UFAxWTZ4RHhvMk5ySGlqMVNjekhMblVjbkd5UlBoMEs0ZVdQRzlCM0hMcWpPdFdDRk93YTJnNi1PaENQVHYzLXV4YVRpdFZKbEdkY2ZXRUVWb0ZwWm5xVzVFd1dVX0xaVzZXUVBxUHhoUzY0eVZta2FPd1BvTnhvUEtlNDJBV1kxSm9mSDVXNlU0SDE5NFrSAZoCQVVfeXFMTWFUN3FEcTJydW4wdHVIcllzVGhVaW9CNzljeUZvLVdLZ2ZXZkRjdnlKWl9GRlRaSkRQUlFMMks0SU94UGRmSFhxSUs5a1J3UXh1MHZ6YnE4VG1zaVRmdzVLNm15TmVFRnVlSG5SRzRNY3dQSE5YQURMbHhjSDhGb2cxdTJPMkNzU3FzT3VBM2dBOTNLV1Y5RDQ1eXVUWV8tRU5tQUdZY1RlMzVGUmhYVnA2YVlpRDBOdTFrVFNKemwzU09Jd1NyN0dTM1UxOHlPQy0tSjJ3Qy1sUzhDVFRqVjRfMzE1ZVQxYUI4dkJhaWJaLThOQWM3Q29QaTcycmE4VlBKWk8xeHNyemNBVkk1MEZfWUp6Ql9tN0Z3?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -341,15 +397,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 26,
+      "starred_questions": 7,
+      "unstarred_questions": 19,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 49.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +413,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +444,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +477,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 167,409,004. MPLADS utilization: 19.5%. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:49.343242Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 26. Debates participated: 5. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.828964Z"
 }

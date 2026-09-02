@@ -24,15 +24,23 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:31.609109Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 7171555.92,
+    "immovable_assets": 2596000.0,
     "total_assets": 9767556.0,
-    "liabilities": 3484121.0,
-    "net_worth": 6283435.0,
+    "liabilities": 3484121.41,
+    "net_worth": 6283434.59,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
@@ -40,44 +48,58 @@
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=337",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.546106Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:32:54.657284Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 8.0,
+    "wealth_percentile": 8.8,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.81,
-    "expended": 7.92,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:31:34.419862Z",
-        "notes": "Official eSAKSHI REST API — Works: 37 recommended, 35 sanctioned, 2 completed"
+        "fetched_at": "2026-09-02T14:36:33.278592Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:32:52.111767Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:32:55.663846Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 37,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 53.87755102040816
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:10.518853Z",
+        "fetched_at": "2026-09-02T14:32:54.497333Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "‘Nearly 60,000 displaced’: Manipur MP says conditions not right for a credible Census - India Today NE",
+      "source": "India Today NE",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMzhRM2R2WW1SSG1TTnpLQWk5ZWtqbnFLTFNQaUdBMDMxVm0tMlVuckhHRFVHT0NwVVBJdF9sYjI1RjBzVHB0eDlIRHJsSjR0d0VzSE5IN0RIRXFnVVBwSFVpa2psNGozUkFoSFFIaUZPc0NWUW9FeFQtbExGeWJhTnZjaXQ0ejlSeHNqZlFQdWNYS2ptNU5sZ19JaVdPaV80Q3FMbkk3R2VoRFlXbFRJTC1OZzRvX0xaSjlyTnNTS3dLcnhTZUZ2a1ltZnpzZGVfSzQ4LXp3SGdJUdIB3wFBVV95cUxPWDZJTjI2OWhCNXJLZlNxbDZmejNaNFVURDBVdzY4UnFyZmJVeEZ6djZ0ZTVPYk5KM1hKTE9lOHBqaWFaODB1Y2dYcmtlZVlqWHBPYWttTW5kdWloNEhxRFh1S2lyczczbEFhdVV3eHAza0d2UE1PbGNibWU1eWdFYk1ybEhBemRzckxPbEJvMjNSamZITTJwN3RlQXlSbWNvZ2x0dkFMSTBGSHp4am1aVUduNXRDOGlpVS0tMjlzdHBwQVQzMFFBWDZUbGVtUlQ4c3RoSlI1ZVhsaHNrb25z?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Bimol raises Manipur violence in Lok Sabha, demands justice, accountability - Imphal Times",
+      "source": "Imphal Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTdsRFMtRHhGeFFkbktweklPZ0FBT2JSREk1dmxBRFh0X2lTczFEMGtIZVpOa1NQcXJPRU42bU90VmdQR1Y4M0Zpbl9GeWpnaUVGVEpERzFVWlphNXlZclRFNmZERFJxZVNOV21XUm54bmNNcXpQTnRvYUFKenE2Z0U2UEZOUXpKZXVtcmFDRGFXX3ZxTTFqdXNwTmdhSWt2Yzk4eU5kVzlnYmNHalRz0gG0AUFVX3lxTE1ySHVGMTJZdTZjbWd0MmtyanNqQ1J6Y1o5eWoxLTR0aS1pa0pkRnhuQ0FsWnlzNndrdzZ4MFYyX1Ezd2RhOFF1V05pcmhlWlJfdVNRZnkxM3IxeFVuWDNjVzhUTExrWDVVMGdmYk5EWTg4UEdSUXRGNE00ZWJibGc1ajlnRDhoeEx2WVk5MFJlcWhYczFiSjNnVkN4NENRLWxhV1duNUtVczZ3MTJTa1lONnNaTw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress MP Bimol Akoijam slams Centre over fuel crisis, Census plan amid instability in state - India Today NE",
+      "source": "India Today NE",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRTBPU2pFN0RlRTcteWl1amJhSEd0VFpSVVFjZE1pZk1BdjBvVVB3RVpaRGZ6bV9LRWVmb2ZmTkxIeTA1TkRsWHVPYzdHakItWG9VQTVnN3ZPMnVvV3BzbHlZYmMtWkoycGtaZEQ5bURFdlV3enQ4TjU4RnowbVN3d25EWmlZSHZxNE5UUktqS3NqUmFZZC1iWktFc1ZZdElzdkRSSmVLWEh3TkJTTlpSYlZQU0JsMDk1Ty1IN254WFRXalJ2T1FXdWk4YVNHSndBd3cyS2laeTJYYTBjcGdvYzl2WkFSaVhGVnfSAe8BQVVfeXFMT0VvdldLaWJzRV9PNlFMMUs5YnYyVnF0bjRhSjJESVIyWl9QNEV3U0djRVhINTJJSXl2WVlGYWpOdFRpSnRhZVJiNVV4cERQejliaF8ySzNBWW05ZmdFR1lmaXp5NFBPaUpWQmg3SWRsR0ZpOGFTQ2R0NkhnVUg3elEwMkNRTWEtTHhGelM1bk5UTG53eEtLb3NNcEtHTXZyRHNpWmRqT1JvWUNJOTVwSEpEWHRwb2JGQm0xcHE0aU9hd3BWTmNwZDRTNjF4RW5FazVNOGRINXk0Q190WDB2MGdTWWRERFRCZnVRMHg0WXM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Prof Angomcha Bimol Akoijam, MP (Inner Manipur) addressed the media at Indira Bhawan, AICC Hdqrs - inc.in",
+      "source": "inc.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTVJ3UjFucVhTY3FHa1cxck4waUFiejY5eU1mZ3hZcmFVQlROeEs0bmxjaUc0U0xmR2ZlQlNLcVBBVEVkbERnVzhGX09UdkE0Y2k1a202SzBKa0RzTTRaekROZi0xd0RrVXBMUnhzaHZTcTZ6ZXNTcnVBckFhUDlKUV9VblBXMVh2cm9iVUhpOWJWSnNQLUphZmQ2MG1JZjBhVV9aaHNzXzVtYW5WQUE1Ql9PVk4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Give at least 3-5 hours for Manipur: Congress MP in in Lok Sabha - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2loQWRIR19LT2tiLVBCMEdDYkFVaXlWbzhaUjZiMUsxU01DanFnSjlHZDFfYXFXMGhTd3RvRUtBTHdYS21hZEstTkt2YU5hRUFTb2trOTZ4QjA3Uk5xdTlfaE15RGFJMnlLOGt4Sl9IZE0yamNYcUQtbVo4QUNlSXJoWGtqejhlSHhtb0piSVVFNTlzUjBaT0NxU3lZUUJMOENRRGJtcGU5eS1hQ2dGcGVQTdIBugFBVV95cUxNanZ0TDV3ZFgzMnNHbnJfYmRsNmphSDNKbmNsTFFrbDQyTUpwRWpKbEUxcndvY3ZyOVo0Y2ZZOHg4S09vdUd1aUlSSUFWWDJhR2FxU2c1eGNacnFYNUtoZnBacGZPcEtsT3VQd1dxSEZWWV9QOTNjbFEzdDlfa2F1NEF5UlhhbDNoX2twUWN2OEt1RTYtdExkd2lhY1Z0MlF4VWZQZFRKT3lDNEphYUhqcVN2TE50VVZnc3c?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:01.412551Z",
+  "collected_at": "2026-09-02T14:37:11.292945Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.917898Z",
+        "fetched_at": "2026-09-02T18:38:08.449960Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.917907Z",
+        "fetched_at": "2026-09-02T18:38:08.449970Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.917913Z",
+        "fetched_at": "2026-09-02T18:38:08.449976Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.917917Z",
+        "fetched_at": "2026-09-02T18:38:08.449981Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.917923Z",
+        "fetched_at": "2026-09-02T18:38:08.449988Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.917927Z",
+        "fetched_at": "2026-09-02T18:38:08.449992Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.917934Z",
+        "fetched_at": "2026-09-02T18:38:08.449997Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +315,52 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "share",
+        "url": "https://twitter.com/share",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "sharer",
+        "url": "https://www.facebook.com/sharer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "adrspeaks",
+        "url": "https://www.instagram.com/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "youtube",
+        "handle": "adrspeaks",
+        "url": "https://www.youtube.com/user/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 4,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:33:27.788984Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,11 +369,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Peace not possible without resettlement of IDPs: Inner Manipur MP Akoijam - MSN",
-        "source": "MSN",
+        "headline": "‘Nearly 60,000 displaced’: Manipur MP says conditions not right for a credible Census - India Today NE",
+        "source": "India Today NE",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOeWMxNXgzYmVYSDhMWlFNSnVrNlM2SE9EUUlVQ3VFa1JhR1VkLVNyZEtwRjJsdTdPQ0tDTEtOTDBieHFWQ00wb2tob0JEU1YzSl9DU1dtSW5XSWRvTHBfcHF2SFEydlVTWHVNSDZFWmN3SDdJZXBOU2p0QTNBQzRZcGtXQWtFOTdkaFZCRlVURW4zdXlTSWxsRXRUM2syMTU0am9JWVBiYmRxQnpaNUtiaEprVThjZURSaUJhbnJXVmNVT0lGNUlSTlJBZnkzLVE4ZlQyZVpnMVdrdDU0TmxGMm9FMmFxaXFYU2NLQmhuSmdWaEpuRWZUZEx6c2hyMDc0RHFQLVVjVlV2R3hCRlpsNk1Ob2o4Zi01OTVmYzNEVzI0WDlkQWRsSEJWOGNSLTQ1dnk5emtqYWJWU29yMW12blNNYjBpTXZFVHFSX3NUeUp4WjA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMzhRM2R2WW1SSG1TTnpLQWk5ZWtqbnFLTFNQaUdBMDMxVm0tMlVuckhHRFVHT0NwVVBJdF9sYjI1RjBzVHB0eDlIRHJsSjR0d0VzSE5IN0RIRXFnVVBwSFVpa2psNGozUkFoSFFIaUZPc0NWUW9FeFQtbExGeWJhTnZjaXQ0ejlSeHNqZlFQdWNYS2ptNU5sZ19JaVdPaV80Q3FMbkk3R2VoRFlXbFRJTC1OZzRvX0xaSjlyTnNTS3dLcnhTZUZ2a1ltZnpzZGVfSzQ4LXp3SGdJUdIB3wFBVV95cUxPWDZJTjI2OWhCNXJLZlNxbDZmejNaNFVURDBVdzY4UnFyZmJVeEZ6djZ0ZTVPYk5KM1hKTE9lOHBqaWFaODB1Y2dYcmtlZVlqWHBPYWttTW5kdWloNEhxRFh1S2lyczczbEFhdVV3eHAza0d2UE1PbGNibWU1eWdFYk1ybEhBemRzckxPbEJvMjNSamZITTJwN3RlQXlSbWNvZ2x0dkFMSTBGSHp4am1aVUduNXRDOGlpVS0tMjlzdHBwQVQzMFFBWDZUbGVtUlQ4c3RoSlI1ZVhsaHNrb25z?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -280,19 +385,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "KSO slams MP Bimol Akoijam for questioning Hill Areas Committee in Manipur - India Today NE",
+        "headline": "Congress MP Bimol Akoijam slams Centre over fuel crisis, Census plan amid instability in state - India Today NE",
         "source": "India Today NE",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLU4zZG9wSmNoZGJTeGxYa3pOWl9RRVEwRmVaXzBram1oZzBhajVMQXZTR1dVdnluemt5LXJJS05SN2xRUzdjZDhwZk92X0xLYjdvZVlkdzc4ZEV1Y0M1dFptSTcyOXFYTko5cmx1Q0VRdFhuVHMtWE5RSF9DT3AtN0hTblF6LVZNb0x2Sk1HZlV2QkpBVUlxb1lVbGxNeTg5aFVEWnZIWnVuRk5sSndiYjd3WnNCWEtwTExvMFU4Nm1BMkYyTVJPeFJhbkdTc2ZH0gHWAUFVX3lxTE1hclFSanBfd25GbmN5eFBjbzZYTGlDQjBKd3ZIbkh2NVVqVlJib2lYSWdDOEU4VWdrVEoxRlBPcUVpckUxaHN4a2VlLTBlcWU0LXVSX1NCdW5ka0FSeUotRjZiclVyMVFBSkhHZEVza3VpVTRZLUpEMjktaFoyUHhLYTlibk16RnlKT2d4VmNIcnFERUZuWXNSTlp5Mm43d0lZa2M1REg5UHFieGw5MEd4S2ZPV1FidmRKZ3FkeHVqcEtoalVwNTJUTVpoVmI5c3VEakNHVGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRTBPU2pFN0RlRTcteWl1amJhSEd0VFpSVVFjZE1pZk1BdjBvVVB3RVpaRGZ6bV9LRWVmb2ZmTkxIeTA1TkRsWHVPYzdHakItWG9VQTVnN3ZPMnVvV3BzbHlZYmMtWkoycGtaZEQ5bURFdlV3enQ4TjU4RnowbVN3d25EWmlZSHZxNE5UUktqS3NqUmFZZC1iWktFc1ZZdElzdkRSSmVLWEh3TkJTTlpSYlZQU0JsMDk1Ty1IN254WFRXalJ2T1FXdWk4YVNHSndBd3cyS2laeTJYYTBjcGdvYzl2WkFSaVhGVnfSAe8BQVVfeXFMT0VvdldLaWJzRV9PNlFMMUs5YnYyVnF0bjRhSjJESVIyWl9QNEV3U0djRVhINTJJSXl2WVlGYWpOdFRpSnRhZVJiNVV4cERQejliaF8ySzNBWW05ZmdFR1lmaXp5NFBPaUpWQmg3SWRsR0ZpOGFTQ2R0NkhnVUg3elEwMkNRTWEtTHhGelM1bk5UTG53eEtLb3NNcEtHTXZyRHNpWmRqT1JvWUNJOTVwSEpEWHRwb2JGQm0xcHE0aU9hd3BWTmNwZDRTNjF4RW5FazVNOGRINXk0Q190WDB2MGdTWWRERFRCZnVRMHg0WXM?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Cong MP Akoijam files RTI, seeks clarity on ‘buffer zones’ in Manipur - The Times of India",
-        "source": "The Times of India",
+        "headline": "Prof Angomcha Bimol Akoijam, MP (Inner Manipur) addressed the media at Indira Bhawan, AICC Hdqrs - inc.in",
+        "source": "inc.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUE9wMFR4M1k5NTY0M3RxVDNOWVlSYmxuVlA2U2pFdTVhaEdQbHJEUWxHZ1NVS1RYS2Jqa0l6MnR4amxqN2NrMzBybFZ5SHZuNVQ1Mm1OcXAyMzJmNWFuNU1OaVNzLXliUUV5aUREVGMwWElqbDBWal9NWHNlMmV0ckp2bFU0dUlLUXk4ZnpzQ29aZ1ItRmFCNHE1NEIyS2J1YlZiTkgxUE5RTmhuNlhZdTNZLU9sWkhfSkhQTFdvbWpPOTR6b3hDQ2tuSXc5Ylp3T29TcC1kNkJVd9IB3wFBVV95cUxQZlItYnlQVk1BaUVsMHhlWHd0Z0lrYnM2bWZqSldnenhRLUJ6Y2w0ZHFlNVJlaHAxZ1lOT0RTSjMyN0cyVGJ5MjRFUUlpVEg0WS1La3BCUmN6UG1DNnFEdzdHdDBiMTBPV1NFT3I0LTkzSWhIcTJDM0w1TXdzZTd5cGh2RFNKNlVpRDJKTUViX211SkdmSjdsMHd6amQ4QmdBX0pmbXZwak04aHZXcnlpSDNJcngwYWVQTjVTcDVTV0ZDdElDaE5fZlFZdU5MdjNFY0ltSHpQTmVTSTZGSWkw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTVJ3UjFucVhTY3FHa1cxck4waUFiejY5eU1mZ3hZcmFVQlROeEs0bmxjaUc0U0xmR2ZlQlNLcVBBVEVkbERnVzhGX09UdkE0Y2k1a202SzBKa0RzTTRaekROZi0xd0RrVXBMUnhzaHZTcTZ6ZXNTcnVBckFhUDlKUV9VblBXMVh2cm9iVUhpOWJWSnNQLUphZmQ2MG1JZjBhVV9aaHNzXzVtYW5WQUE1Ql9PVk4?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -334,15 +439,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 7,
+    "starred_questions": 2,
+    "unstarred_questions": 5,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 13.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +455,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

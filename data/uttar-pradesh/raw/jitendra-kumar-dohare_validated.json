@@ -4,16 +4,16 @@
     "constituency": "Etawah",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 5079,
+    "myneta_candidate_id": null,
     "slug": "jitendra-kumar-dohare",
     "house": "lok_sabha",
     "sansad_member_id": 5657,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 57,
+    "age": null,
     "photo_url": "/mp-photos/5657.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Etawah",
       "state": "uttar pradesh",
       "party": "Samajwadi Party",
-      "myneta_candidate_id": 5079,
+      "myneta_candidate_id": null,
       "slug": "jitendra-kumar-dohare",
       "house": "lok_sabha",
       "sansad_member_id": 5657,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 57,
+      "age": null,
       "photo_url": "/mp-photos/5657.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:59.408893Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 62250170.0,
-      "liabilities": 3168054.0,
-      "net_worth": 59082116.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5079",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:54.231729Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 45.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 18.87,
-      "released": 18.87,
-      "sanctioned": 13.19,
-      "expended": 10.45,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:50:50.212704Z",
-          "notes": "Official eSAKSHI REST API — Works: 412 recommended, 396 sanctioned, 184 completed"
+          "fetched_at": "2026-09-02T16:55:38.189132Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T16:51:54.545698Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T16:51:54.542835Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 412,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 55.37890832008478
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T13:58:29.849016Z",
+          "fetched_at": "2026-09-02T16:51:54.541793Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Jitendra Kumar Dohare - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzEtYlg2MzFJeVNTeC1sMUk5YlNvakI1RkVCU213aWxhREI0eDBPV1lGUkk5SlZsLTBhbGtiVWNGQVlxWG5EX0lTYU5SbEdUbWJWSU5pdXFZMWt1c19hX0hVcE94X0FxaENKcEFvVFpTaDFYcm9uOVFRWW5iUV84bks0NUJRQjdOQVlDY00zNkl3VlBWaG9wUDR0eFlIMThiNHNTNzhXczFhNlRsNFVtOTAwdWZYYzIxdVlGcHQyaFJzTWZFNFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Contest Gets Interesting In Etawah As BJP MP's Wife Files Nomination As Independent, BSP Candidate Is Former RLD MP - Swarajya",
+        "source": "Swarajya",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHNaR3hKdXQ3aUpaUkZwME9RcXd2NUxES1dERGNJazBIVlZkMnFsZmVkZHRzWS02Tm54RlpaUFhOT21PTEs1LUZYQWVHejJqSkxOZmVtQTNmY3prUG1JREJGOVhjbFpBc0x0QWlsVTBwREduR1A0eEZxVk9pa2hTREhwRndGZ2ExampzRDlBT3lBbDVjRXhWOXM2eXYwQUZ2YjcwSTBHaVZ5ZVhoTlBUVm1DVFdhSzJkWnNCUUZGUWlDc04zRkRfcFZuSGhnUm1WMzliQ09fUGNrU3pxQm1zcjNR0gHyAUFVX3lxTFBRREZXOXBKQ3F6VUxja29Ca0MyaUFvZkZjVExMXzM0NnYyVWw2dUNRVUpxVGp1dkhVRk5sSm9QN1BKaGZWZEdDNHBDcWptVEJFWFhieU15dW9xVEIyNElxeE0xQnRma1lRb1JBQWU3SlhSQjJYVko4bFpNR0VWTmV1dlNLeVBWRExJWHFFd1RCcVFCNHN6S0p0aUl3WmZCcmhjTHE3Zi1PUThJNHRGM2c0aHZ2emhVM1RhZ0RkX1B4VktLUVcySVVlNmplMlc2QkY3UWJUejR4Ymk3UFZWZFBLSE1KanlCMkd1SWl3MEcwTWRR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Etawah Election Result 2024 LIVE Updates Highlights: Jitendra Kumar Dohare of SP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekhQVFRDRzM0b2hTNUN6ZklKLUdIdlB0dnFpQ1FaeUJWaW1sQjNEQmtKTkJXVkxud1RtbWxyZ01rcmJxd2JIcHpnWTFKYklTRHJxSTBtaGdocXZoejFQMzR5VXMwVXNFbVhOdHAwVmJyUWdleGJINnlwdFdIekdRU01jbXo5Qmp1c1JwbnUtU0dtS1ItOUZYUXQxNVB0amRkbm53T29nWjF5TE41bzQyLXRfRXRITXp2TkpLUUEyWFZuRTUtejlHQVlPbVVUVUV5WTF6aXNTM0VES2Y4WlhIYtIB5gFBVV95cUxQN25KaVhNUkFBcmY1TjNRMDBBSmc0dzNfR2stakx2OFJsRy1FS1N3anFsTDVQVDgxTnpKeWR5LUk4MWo5MFNLQ3ZlVDlqLTFuYkswUWlKY2xpZTBiQ3RiYXhOY0NudXhNaEUtT1pxdFpkR0tOaW1xSy1ZMzBaeVlvTGtGcUVuUFMzWl8xbG43MmFndUlwMkZiTm80c1FYend1ZUJFUlR3VXJNYmtkejBpYWJhSF9kTWlzRkJ1Q2UtZTZHYU5HRFVEMGNrZ1c1cXMwNms3YnN5SjNuenVkZF93cHlfclkyZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Etawah (SC) election results 2024 live updates: SP's Jitendra Kumar Dohare wins with 4.9 lakh votes - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNcVhwcUNLeFRNei0wMTcwQlZsVWpoMVJPeWozMzhzWG8yMDIzWW1fWmJRYk04Mjl2aldVMkhKdVhNZkpWQjR4VHlsQzZ3SzRoVVlQdl9zZlZoR08yZmR3ZWFRdFV3eVBvNlNwLV9wZ1hoaF9XV0hTU2U0ZjBYeDBXQndrTFNycUpyUmUzTFBKczBQUDRmOVlpS0dkOFBBNllTb0VUZjNMMUhyRjhRUWNnOUNLQzlha09FUjBnd0RVM1p2OWZESTN6N3k0a2wxNktQVEswRnFfcF8zdmtfRk1BTHRnYVpnck1kcmxfcFV1U1pobUFtOHFyUzZmUGFONW5GYVZsTGVWQVlKejk4RDltQ1U0WktOUzhIWlRKOFBoY1R5U0ZVSkREOWdkaEpOOTRVUHhMSDNJWEM4eFVFX1RzSnNXX1lISy1reHZzNmJqV200SHF4VTZ3anFmZVZhb1NDREHSAecCQVVfeXFMTWx6RDNiUml6cU9aVENZajdralpIWlJlVTl5QVNUZGdPM25VWkZzMkFLWThKeVgzRzRlVTMtYzlTaWw2YkUxaUhEU0wyUW5oMmFTeUhnd3MtZC1EQkNkMC1iZVM3enNudXdjemRseTA0VnlUdXplS1E2a3FzU0FpendvRHdHdmd5dWVMYWF3X3lIdHpRRXVEV1cxOS1mSzlUTXhOeENCZVJMSkptRE5PVjdhdkE2RkRRMHd0OTJMd0F3OUlYZGhUZy0zRjJiSFl2dVNEbFhLN0loT1U1UkEydFJ1MVBObzRpWDFIUWFncDBLcWZpMFB5S0JMWWF0c0YxMVItbDFnR3JETE1WeUd5TXl2WmZtUEF6cFdNQVZQZjJva3czTXZkNUVuYnh4NnBBRHRrc2hjVUFrWDBWd19ZVlM5aHIzWEszZUk3YzQzcWZFQWhJeDdxbmtFMkljV1drWndFc0k4NFU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Etawah lok sabha election results 2024: Etawah Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzZuTnZmQUo2NmJlakltNzBWNHdTNU5lektoM0VrbUhIRUNjMGw1VERWTS01amxocFE0QmlfVWgwXzQ2Sm50M3RwTTFFc2M5c2w1Ump6Uzk1VElXcktPcWZ6VlNOR0MzZ2c3b01NOFM5eUswNVotUEEydmJaSjFQUTkyZnlDVFR2Sms0NFlHaXhyUGJkT0JV?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T13:58:50.745365Z",
+    "collected_at": "2026-09-02T16:55:38.190134Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.630240Z",
+          "fetched_at": "2026-09-02T18:38:11.201324Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.630249Z",
+          "fetched_at": "2026-09-02T18:38:11.201334Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.630255Z",
+          "fetched_at": "2026-09-02T18:38:11.201340Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.630260Z",
+          "fetched_at": "2026-09-02T18:38:11.201346Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.630265Z",
+          "fetched_at": "2026-09-02T18:38:11.201351Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.630270Z",
+          "fetched_at": "2026-09-02T18:38:11.201357Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.630275Z",
+          "fetched_at": "2026-09-02T18:38:11.201362Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.630280Z",
+          "fetched_at": "2026-09-02T18:38:11.201367Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -292,10 +345,10 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 9,
+      "total_articles": 10,
       "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 10,
       "top_headlines": [
         {
           "headline": "Jitendra Kumar Dohare - The Times of India",
@@ -306,19 +359,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Contest Gets Interesting In Etawah As BJP MP's Wife Files Nomination As Independent, BSP Candidate Is Former RLD MP - Swarajyamag",
-          "source": "Swarajyamag",
+          "headline": "Contest Gets Interesting In Etawah As BJP MP's Wife Files Nomination As Independent, BSP Candidate Is Former RLD MP - Swarajya",
+          "source": "Swarajya",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHNaR3hKdXQ3aUpaUkZwME9RcXd2NUxES1dERGNJazBIVlZkMnFsZmVkZHRzWS02Tm54RlpaUFhOT21PTEs1LUZYQWVHejJqSkxOZmVtQTNmY3prUG1JREJGOVhjbFpBc0x0QWlsVTBwREduR1A0eEZxVk9pa2hTREhwRndGZ2ExampzRDlBT3lBbDVjRXhWOXM2eXYwQUZ2YjcwSTBHaVZ5ZVhoTlBUVm1DVFdhSzJkWnNCUUZGUWlDc04zRkRfcFZuSGhnUm1WMzliQ09fUGNrU3pxQm1zcjNR0gHyAUFVX3lxTFBRREZXOXBKQ3F6VUxja29Ca0MyaUFvZkZjVExMXzM0NnYyVWw2dUNRVUpxVGp1dkhVRk5sSm9QN1BKaGZWZEdDNHBDcWptVEJFWFhieU15dW9xVEIyNElxeE0xQnRma1lRb1JBQWU3SlhSQjJYVko4bFpNR0VWTmV1dlNLeVBWRExJWHFFd1RCcVFCNHN6S0p0aUl3WmZCcmhjTHE3Zi1PUThJNHRGM2c0aHZ2emhVM1RhZ0RkX1B4VktLUVcySVVlNmplMlc2QkY3UWJUejR4Ymk3UFZWZFBLSE1KanlCMkd1SWl3MEcwTWRR?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Etawah lok sabha election results 2024: Etawah Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "Etawah Election Result 2024 LIVE Updates Highlights: Jitendra Kumar Dohare of SP Wins - News18",
+          "source": "News18",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzZuTnZmQUo2NmJlakltNzBWNHdTNU5lektoM0VrbUhIRUNjMGw1VERWTS01amxocFE0QmlfVWgwXzQ2Sm50M3RwTTFFc2M5c2w1Ump6Uzk1VElXcktPcWZ6VlNOR0MzZ2c3b01NOFM5eUswNVotUEEydmJaSjFQUTkyZnlDVFR2Sms0NFlHaXhyUGJkT0JV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekhQVFRDRzM0b2hTNUN6ZklKLUdIdlB0dnFpQ1FaeUJWaW1sQjNEQmtKTkJXVkxud1RtbWxyZ01rcmJxd2JIcHpnWTFKYklTRHJxSTBtaGdocXZoejFQMzR5VXMwVXNFbVhOdHAwVmJyUWdleGJINnlwdFdIekdRU01jbXo5Qmp1c1JwbnUtU0dtS1ItOUZYUXQxNVB0amRkbm53T29nWjF5TE41bzQyLXRfRXRITXp2TkpLUUEyWFZuRTUtejlHQVlPbVVUVUV5WTF6aXNTM0VES2Y4WlhIYtIB5gFBVV95cUxQN25KaVhNUkFBcmY1TjNRMDBBSmc0dzNfR2stakx2OFJsRy1FS1N3anFsTDVQVDgxTnpKeWR5LUk4MWo5MFNLQ3ZlVDlqLTFuYkswUWlKY2xpZTBiQ3RiYXhOY0NudXhNaEUtT1pxdFpkR0tOaW1xSy1ZMzBaeVlvTGtGcUVuUFMzWl8xbG43MmFndUlwMkZiTm80c1FYend1ZUJFUlR3VXJNYmtkejBpYWJhSF9kTWlzRkJ1Q2UtZTZHYU5HRFVEMGNrZ1c1cXMwNms3YnN5SjNuenVkZF93cHlfclkyZw?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -330,15 +383,15 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Etawah Election Result 2024 LIVE Updates Highlights: Jitendra Kumar Dohare of SP Wins - News18",
-          "source": "News18",
+          "headline": "Etawah lok sabha election results 2024: Etawah Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekhQVFRDRzM0b2hTNUN6ZklKLUdIdlB0dnFpQ1FaeUJWaW1sQjNEQmtKTkJXVkxud1RtbWxyZ01rcmJxd2JIcHpnWTFKYklTRHJxSTBtaGdocXZoejFQMzR5VXMwVXNFbVhOdHAwVmJyUWdleGJINnlwdFdIekdRU01jbXo5Qmp1c1JwbnUtU0dtS1ItOUZYUXQxNVB0amRkbm53T29nWjF5TE41bzQyLXRfRXRITXp2TkpLUUEyWFZuRTUtejlHQVlPbVVUVUV5WTF6aXNTM0VES2Y4WlhIYtIB5gFBVV95cUxQN25KaVhNUkFBcmY1TjNRMDBBSmc0dzNfR2stakx2OFJsRy1FS1N3anFsTDVQVDgxTnpKeWR5LUk4MWo5MFNLQ3ZlVDlqLTFuYkswUWlKY2xpZTBiQ3RiYXhOY0NudXhNaEUtT1pxdFpkR0tOaW1xSy1ZMzBaeVlvTGtGcUVuUFMzWl8xbG43MmFndUlwMkZiTm80c1FYend1ZUJFUlR3VXJNYmtkejBpYWJhSF9kTWlzRkJ1Q2UtZTZHYU5HRFVEMGNrZ1c1cXMwNms3YnN5SjNuenVkZF93cHlfclkyZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzZuTnZmQUo2NmJlakltNzBWNHdTNU5lektoM0VrbUhIRUNjMGw1VERWTS01amxocFE0QmlfVWgwXzQ2Sm50M3RwTTFFc2M5c2w1Ump6Uzk1VElXcktPcWZ6VlNOR0MzZ2c3b01NOFM5eUswNVotUEEydmJaSjFQUTkyZnlDVFR2Sms0NFlHaXhyUGJkT0JV?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -384,17 +437,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +495,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 62,250,170. MPLADS utilization: 55.4%. Parliament attendance: 85.0%. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:53.630995Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.202032Z"
 }

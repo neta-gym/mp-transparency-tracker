@@ -24,60 +24,82 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:19.462451Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 20025188.0,
+    "immovable_assets": 28689800.0,
     "total_assets": 48714988.0,
     "liabilities": 1905347.0,
     "net_worth": 46809641.0,
-    "previous_total_assets": null,
+    "previous_total_assets": 1969952910000000.0,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=997",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.364062Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:32:12.064898Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 38.0,
-    "growth_ratio": null
+    "wealth_percentile": 37.8,
+    "growth_ratio": -0.9999999752709886
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.17,
-    "expended": 3.46,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T18:23:39.005986Z",
-        "notes": "Official eSAKSHI REST API — Works: 385 recommended, 312 sanctioned, 60 completed"
+        "fetched_at": "2026-09-02T14:37:00.827968Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:32:10.525696Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:32:12.697572Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 385,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 23.537414965986393
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:03.251746Z",
+        "fetched_at": "2026-09-02T14:32:11.675121Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Big push given to hill tourism in U’khand, Centre informs MP Ajay Bhatt in Lok Sabha - Garhwal Post",
+      "source": "Garhwal Post",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ09iNXlzdDZ5Ykg0Q2xjaER0dnJLSnVnRnFRY3ZNMUV6R3NFOEVGbnFXTzRUblUzdTc0ZWVWOE4taTRLbU1qa1duNVllSm0yRWctZllNNVVHT2E3aUNVUlVxUFJJc2NnemlzNjNYR3hQZ0c2SVd0Nk5URHVnWUUxSGl1ZzliNWFqckhwSS02MVR2dXQ3ZHdCU3M0bmdteXJaNjJrUUpnT09UUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nainital-Udhamsingh Nagar election results 2024 live updates: BJP's Ajay Bhatt wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNanpBUlRxblZSdlN5YTZ5QUxIZThSb0VYR1AzY1ZyZDZKdENYMmpYZmF6S0xXOUNCY3F1ZURDZVZhUHNCSkZuMjJVWUlMTlRHcTVncjUxdy1qdEZuWTBoNk8yMjZ5SlVGM3dWN0V1NjU4VkwyMkRPODRFRU0tTklIeTlER2pab1gyQWVLMklUMXVrajJPYkxiZ0ZUWmhjQWVseGJmeVhZMTFkNC1MMkNmVDhtTWJRM0piX1hoMnJGVnB3a2QteUdGaWlXS280ZnNjTGFRNElSa3BkQUdNS1dSQkxFLW5HYkVhZjJlVkk1RmVTYWdoSHhlMlp6UGRLVEFFQ0hETGl1Mk1kLVJMUWwwREZQaGZ0Qnh6Tjh5aU9zNkRiVmxTelN6Z3NnN0lMX0V6OVNLSHlUeDhHOWQ2M0tvZ1J4QnZTRGR2ZTRCU2FOa1RfT3dYdVHSAdsCQVVfeXFMTXcxLV9RZUQtRkw4TTNkeTJpSS1CNjVjamVlQkpaZ3NIMnNGWW5WTl9USkRoU2xZODJUMVFPYWNWTFBxbF9faVZmTGJmUjhfT0NGbHJsUnd1TTZxeExncjJXXzdSRUpsSDQ3bFk5Wm1YalpoSzFYMVhDT0FhTWppMUhuZjRlSng5T0FJclJ2RjlHNV9yUlY1WTJ1cU0yV3RMYllrbzYxd0hmZzcyM2NsUWhydFloSFJRdW1MMW5oaDhpamdxRjRlWl9Hb09JYlJtYTFEcXN5WGlucC1VZ3BJbGVZR3ZsdFFfbHRRb3NoWG9jX1FHQnlLYWhGWGtWSktDSGFQNGJibEZUYWZsbDh4OExzSkVzQnFMQkdsallIV1Bnd1h3X3FEa29wa1VPUDdzazQwTVJnM2pwLUlORUkyMmZsZ0h4UTNIa1R4NDlIWlVPVWJQeC1LQTZfT0k?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘If your cow isn’t giving milk, say Jai Shri Ram’: BJP MP Ajay Bhatt says chanting religious slogan will so... - bhaskarenglish.in",
+      "source": "bhaskarenglish.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS1lqOVVRejU4dEhZREUzbnNUcXVpcEtGenJ1bHZCVTluZXppdTY4cDdERE9sbldGVXdicndnZDFPYXcyN1Z1WlFET1c5X2NRM044U0tYWHpwSFlBa3g5bnltS2ZlaENfcHltREFiSWZzZ1RXSndxaHR2dnNabk9ydTBEczVFYnVva1pkQWVHTktCNTNIRG55Q3hacElKOHlkWmJLWVFIQ3pLTWVRYVFFbG5XNHpYRnVLSHJ3MU9Lak0weDNIY0MzM1FPc1lOZlowU3dYUG1Ka1BvUTJnU0k2QmJ30gHnAUFVX3lxTE9TZXZsN2gxOWh2TUJNZjhlRlN0LWxqMC16U3M1YWlyd3hLeE84NjVBZWZDaTYtNm5fbEJKdi1ZbUVKM052RWkzNG9mUjBpWE5wbE5mcTFwclByN1JuNFNTUy1sQVg3MmFpUVZCOXpyM2EwVTFjcVhhd3BVR1JTS0lhNFZodzRucjI1UndSNUNSZVBBMGJkTkJtbUJ5QjlWTzBPeGZZaHgzWlBtenppMXVCY1hOTEpjMG16dGsxYU5OU3BQdGNMczJJUlk5Z3EzaW1YeDZTUXIzeFZMNDRnS1R2SXdVQXltTQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nainital-Udhamsingh Nagar Election Result 2024 Live Updates: BJP's Ajay Bhatt Has Won This Lok Sabha Seat - The Quint",
+      "source": "The Quint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVmFGMTNIaGFKRUlIZEZnT1ZZa2JDVnlZM2MzSjlBS3l0TXdVdmJzRHZpQ3NqSGRwaTIxNmJkbFNWQXRhMHNZTXdnS2lNMzRaX01yTzFmVHZ3MnMxaTFUaEVOeUZKazB1WDd0Zk9lbk1vbU5yX0dIRDVRMFE4Q09GYlM3WWtzVVlESGVLQTQtbmJCQW5Rc3RsYTRMRHhTWFlDdmktS2hmM3Y3NlpCaE5DX1VnbncxaG1KY3FXNUlOUGR6aGtRY2hxVjB5ZFhaOHpDX0FkNExSZzJYdzhWbkNN0gHsAUFVX3lxTE1wM3ZZaWV3MXEzYWNkT2Z3RDlpNi1rWTEzZDlwZ1BjOHBzQUxnYkhNU1dWUWEtTHVlTDZySmtnYXM3WGE5eWlwMklTZHRWVGJYYTlERHdGSm1FVTlxeWQ0S1FWSDNueFRndTFJa3RRX2FaTE92NjNTWXBOSGM0cEgzR1YzVVZocWZFcHpuSmxLTzM4MjlPbWZkSVZwX01lNVZXc2lBRTZLczY2RmRxOFRXS1NwclF3VU5QSTNUXzZlRVlUeDNjM1hKY1poRHAzSTJrM2V5SW9FRk5tWlhmZk1KUHBDNFFJbFJScENl?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"I Am Not In Race To Become Uttarakhand Chief Minister\": BJP's Ajay Bhatt - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUpWWHBOUzBOYmpMVzE5M0VsdWg1ZldzQUFoeDBDOTdlenVxd0Qyemgxc0dOR1ZaVmRydnlQNXFST0xGVVN0QU80TjVLRWo3Mm9GSHoxSkhwUGlFczVyYTNzTU5ObF80QU1zOF9sOHdsODlCR2dTUHpIbmVrYWYxRVRkT1Q4RE1EVVU5ME1ZQldKRnNxdVc0czFqOE5OdjA5YWR5cGNrbFUxZDZraFVDSA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:09.210428Z",
+  "collected_at": "2026-09-02T14:37:32.831450Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.398433Z",
+        "fetched_at": "2026-09-02T18:38:11.983822Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.398442Z",
+        "fetched_at": "2026-09-02T18:38:11.983834Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.398447Z",
+        "fetched_at": "2026-09-02T18:38:11.983840Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.398451Z",
+        "fetched_at": "2026-09-02T18:38:11.983845Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.398457Z",
+        "fetched_at": "2026-09-02T18:38:11.983851Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.398461Z",
+        "fetched_at": "2026-09-02T18:38:11.983856Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.398465Z",
+        "fetched_at": "2026-09-02T18:38:11.983862Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +315,52 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "share",
+        "url": "https://twitter.com/share",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "sharer",
+        "url": "https://www.facebook.com/sharer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "adrspeaks",
+        "url": "https://www.instagram.com/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "youtube",
+        "handle": "adrspeaks",
+        "url": "https://www.youtube.com/user/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 4,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:32:48.305335Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -272,35 +377,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "‘If your cow isn’t giving milk, say Jai Shri Ram’: BJP MP Ajay Bhatt says chanting religious slogan will so... - Bhaskar English",
-        "source": "Bhaskar English",
+        "headline": "Nainital-Udhamsingh Nagar election results 2024 live updates: BJP's Ajay Bhatt wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNanpBUlRxblZSdlN5YTZ5QUxIZThSb0VYR1AzY1ZyZDZKdENYMmpYZmF6S0xXOUNCY3F1ZURDZVZhUHNCSkZuMjJVWUlMTlRHcTVncjUxdy1qdEZuWTBoNk8yMjZ5SlVGM3dWN0V1NjU4VkwyMkRPODRFRU0tTklIeTlER2pab1gyQWVLMklUMXVrajJPYkxiZ0ZUWmhjQWVseGJmeVhZMTFkNC1MMkNmVDhtTWJRM0piX1hoMnJGVnB3a2QteUdGaWlXS280ZnNjTGFRNElSa3BkQUdNS1dSQkxFLW5HYkVhZjJlVkk1RmVTYWdoSHhlMlp6UGRLVEFFQ0hETGl1Mk1kLVJMUWwwREZQaGZ0Qnh6Tjh5aU9zNkRiVmxTelN6Z3NnN0lMX0V6OVNLSHlUeDhHOWQ2M0tvZ1J4QnZTRGR2ZTRCU2FOa1RfT3dYdVHSAdsCQVVfeXFMTXcxLV9RZUQtRkw4TTNkeTJpSS1CNjVjamVlQkpaZ3NIMnNGWW5WTl9USkRoU2xZODJUMVFPYWNWTFBxbF9faVZmTGJmUjhfT0NGbHJsUnd1TTZxeExncjJXXzdSRUpsSDQ3bFk5Wm1YalpoSzFYMVhDT0FhTWppMUhuZjRlSng5T0FJclJ2RjlHNV9yUlY1WTJ1cU0yV3RMYllrbzYxd0hmZzcyM2NsUWhydFloSFJRdW1MMW5oaDhpamdxRjRlWl9Hb09JYlJtYTFEcXN5WGlucC1VZ3BJbGVZR3ZsdFFfbHRRb3NoWG9jX1FHQnlLYWhGWGtWSktDSGFQNGJibEZUYWZsbDh4OExzSkVzQnFMQkdsallIV1Bnd1h3X3FEa29wa1VPUDdzazQwTVJnM2pwLUlORUkyMmZsZ0h4UTNIa1R4NDlIWlVPVWJQeC1LQTZfT0k?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘If your cow isn’t giving milk, say Jai Shri Ram’: BJP MP Ajay Bhatt says chanting religious slogan will so... - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS1lqOVVRejU4dEhZREUzbnNUcXVpcEtGenJ1bHZCVTluZXppdTY4cDdERE9sbldGVXdicndnZDFPYXcyN1Z1WlFET1c5X2NRM044U0tYWHpwSFlBa3g5bnltS2ZlaENfcHltREFiSWZzZ1RXSndxaHR2dnNabk9ydTBEczVFYnVva1pkQWVHTktCNTNIRG55Q3hacElKOHlkWmJLWVFIQ3pLTWVRYVFFbG5XNHpYRnVLSHJ3MU9Lak0weDNIY0MzM1FPc1lOZlowU3dYUG1Ka1BvUTJnU0k2QmJ30gHnAUFVX3lxTE9TZXZsN2gxOWh2TUJNZjhlRlN0LWxqMC16U3M1YWlyd3hLeE84NjVBZWZDaTYtNm5fbEJKdi1ZbUVKM052RWkzNG9mUjBpWE5wbE5mcTFwclByN1JuNFNTUy1sQVg3MmFpUVZCOXpyM2EwVTFjcVhhd3BVR1JTS0lhNFZodzRucjI1UndSNUNSZVBBMGJkTkJtbUJ5QjlWTzBPeGZZaHgzWlBtenppMXVCY1hOTEpjMG16dGsxYU5OU3BQdGNMczJJUlk5Z3EzaW1YeDZTUXIzeFZMNDRnS1R2SXdVQXltTQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Nainital Udhamsingh Nagar election results 2024 live updates: Ajay Bhatt of BJP wins against Prakash Josh - The Times of India",
-        "source": "The Times of India",
+        "headline": "Nainital-Udhamsingh Nagar Election Result 2024 Live Updates: BJP's Ajay Bhatt Has Won This Lok Sabha Seat - The Quint",
+        "source": "The Quint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNUDFRUFJZSGMycWVuR2pybnloX2pPY1FWU05WWGZzVVZqSHZpS1ExTklsMGItcUxxRjl0dTBrVjFXSXdDQmdpMmFCekJaRzZwakNmR3Z6YzlSQy1fdi1GTDB3SHYwLUxvN0Q4ZFlRTU1yU0RVZHdZZHVVM2ZkLXUzNHkxRW9rTFozRldYTUtfd1NRN2FGbzM0NktFUlFRMUdpRy05ZTkwT2VrY0RjOE9renV1TFNORGMzTldxeVhsU3VzSkJpdENaSDdJNl9Wb0xvZ0M2U0hPdjBlWkUzbWsxekpuck5xYTVJNTVUTF91RWRTR3U2U3BSQVpCOGEwUG9SbVU5UV9McThTQzJxYXlYVmJCMnk1SlB4UzV1R2NTbzk1TzRWMm5RUFlCSjh2VTQzbjZEWWdmcEk4NTh2eWt3a2tvMjdZaDVSRW9B0gHQAkFVX3lxTE8tcUNTV0QxZ3Rrck42ejFBSFhtOTRiQXVmSGhRU0Z4OGN1TDQwdGQ4elY3czdKTWxJU2E0ZmNYUmd2cHNxUjZ5a29PNHYyOC1yTlUySmE2Sm91aFUzcWZMWDVHa0l5UVpscWpsYWJnbHREYjhXY0I5SE9kTXNWNXlRRVNnelpFSHRwTjVlQTg5RmwwUnNmemc4WUIxQi1PbzNWaEVZbHhWNW4zenlLSUt3SnFVYmlwcWZiT2tMZGZsazVzVHZ2c3g1aksydHBwaEk5dTZET0hpQUFtNlhoUm5QZ0lWbV9EUEhyZ2RxdmF0U29rOWNlMXRPUTd3RzVPRmtWbGlIcmlveXhQb0l0QjZTU2dxeHAwaUhHUmwtaXM5M0UwdTdaY2FvSWNLaElPc2NaOGJ6YlVUWFpMOGk0c0toY1JPaVFXVklFc2NwYlNQWA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVmFGMTNIaGFKRUlIZEZnT1ZZa2JDVnlZM2MzSjlBS3l0TXdVdmJzRHZpQ3NqSGRwaTIxNmJkbFNWQXRhMHNZTXdnS2lNMzRaX01yTzFmVHZ3MnMxaTFUaEVOeUZKazB1WDd0Zk9lbk1vbU5yX0dIRDVRMFE4Q09GYlM3WWtzVVlESGVLQTQtbmJCQW5Rc3RsYTRMRHhTWFlDdmktS2hmM3Y3NlpCaE5DX1VnbncxaG1KY3FXNUlOUGR6aGtRY2hxVjB5ZFhaOHpDX0FkNExSZzJYdzhWbkNN0gHsAUFVX3lxTE1wM3ZZaWV3MXEzYWNkT2Z3RDlpNi1rWTEzZDlwZ1BjOHBzQUxnYkhNU1dWUWEtTHVlTDZySmtnYXM3WGE5eWlwMklTZHRWVGJYYTlERHdGSm1FVTlxeWQ0S1FWSDNueFRndTFJa3RRX2FaTE92NjNTWXBOSGM0cEgzR1YzVVZocWZFcHpuSmxLTzM4MjlPbWZkSVZwX01lNVZXc2lBRTZLczY2RmRxOFRXS1NwclF3VU5QSTNUXzZlRVlUeDNjM1hKY1poRHAzSTJrM2V5SW9FRk5tWlhmZk1KUHBDNFFJbFJScENl?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Lok Sabha Elections 2024: Triumphs And Transitions - The Nainital-Udhamsingh Nagar Saga - NDTV",
+        "headline": "\"I Am Not In Race To Become Uttarakhand Chief Minister\": BJP's Ajay Bhatt - NDTV",
         "source": "NDTV",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY1FaZnk3eEZaMDJsYWhGOFBXeVRya0ZJS2pmd2FRUkwtRndaSlpVN2VqdGZ6MHhUMkdqSTFtWlZTU3I5ZGR5cnpyMzltX0xHZFZvc0ZUTW8tMW51OU14dngycTVDTlRHc09YeDBfeHZEY1A2T1pOS0lKWC1TTnNabmtoZmNCYlRKOUxPR2FpRUxJX2dMNGhiR0JzekRaTFBSRlhCbFk3S0lHLXA1c1JlU19wRGlHcGVMdXM1Q25XNFJjQdIBygFBVV95cUxNbHhBRWFsUzFkd0xGQVo2Ty16NENXbnhlX0hwLVN0NTFNR0VuaFYwcS1SSUV2N3VhWS02NVJTRjZta1Q4Y1AybDhiTWVKTWh6dFQwX0FPRXVqZ0pfTWtYMEhITUsta190dGx4ckQ4WWtrcDFIWU5CanZsVy1nWlVlcTh0Y0Y2RVdaUGRHWC1qX1BVejJUOWdfTWRzRjg0U3JKa3NlNmV2UWFVcjRjOTRhQm1JOGpIaERWMklWREtqRHp1d3JGMmJCREhn?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Political Profile of Ajay Bhatt, Bjp Party, Nainital-udhamsingh Nagar, and Net Worth - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQm1tNV9TcDlzT2FmRGVXVnRXRzZTRElDUlJOTmh2Y3g2S0t5SnNHTXd5OGIzSkd0YmhJdHhEOGpZM1RHWUpRQ3JSSXc2emZ3VjlYQmV5UDBIbDU1elVSX21uay1UbWRmWnFFSWh2QUVMV2dwejZ1ZE9MRjlOTElTeHIwWlVGOXV2Q3ZDY0lHSlJLbHM1YmJjWjZXSTlHY0dnNF95cUZZQ3NLWnJublVzVzdKUHA1eEpuTkpNemp2cWQzQnNvSVowTHJoOHhhNUIxU0hyenloMkVlYUJPRkN3SEtJclJNYllSdjMwSlpmWkk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUpWWHBOUzBOYmpMVzE5M0VsdWg1ZldzQUFoeDBDOTdlenVxd0Qyemgxc0dOR1ZaVmRydnlQNXFST0xGVVN0QU80TjVLRWo3Mm9GSHoxSkhwUGlFczVyYTNzTU5ObF80QU1zOF9sOHdsODlCR2dTUHpIbmVrYWYxRVRkT1Q4RE1EVVU5ME1ZQldKRnNxdVc0czFqOE5OdjA5YWR5cGNrbFUxZDZraFVDSA?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +439,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 14,
+    "starred_questions": 4,
+    "unstarred_questions": 10,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 27.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +455,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

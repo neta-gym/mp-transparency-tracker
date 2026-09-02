@@ -24,60 +24,82 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:06.443487Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 28384863.0,
+    "immovable_assets": 9270000.0,
     "total_assets": 37654863.0,
-    "liabilities": 0.0,
-    "net_worth": 37654863.0,
-    "previous_total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
+    "previous_total_assets": 2352445920000000.0,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=381",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.494227Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:39:21.095215Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 30.9,
-    "growth_ratio": null
+    "wealth_percentile": 29.0,
+    "growth_ratio": -0.999999983993314
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.25,
-    "expended": 2.6,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:44:45.678581Z",
-        "notes": "Official eSAKSHI REST API — Works: 58 recommended, 51 sanctioned, 7 completed"
+        "fetched_at": "2026-09-02T14:43:06.641706Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:39:17.959142Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:39:17.956966Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 58,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 17.687074829931973
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:49.828318Z",
+        "fetched_at": "2026-09-02T14:39:17.956175Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "HM Amit Shah to Visit Bikaner, Review Border Security and Anti-Infiltration Measures - Elets eGov",
+      "source": "Elets eGov",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2FDQzVINFh4TllOTFNZdjJ3ZEhKVFpFeVFzNjBhdjdHblRxYUtIY1Rfd1pORWN4Y2htdjd6d2llenBCZXNubUswTnVqckdlX0ZVN2RBTUw2NXZPLWstUXoybkZxMXhidlZCcHhRNnkwR0Z4cDlYbHNpbkptQ19VUzFzY0NvTzg3TFU4N1Fxa2c5bU1lMl92cnRzdUtRR3NoOW5tZzB0VThPX1ZDNlgwbDN0eVdHQ3Z3UVdBYTJB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Shah likely to visit Bikaner to review border security - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaXdWRmJ2QllwaDdqLXUyMzh2WnpDbUpLV1NlMkRkQWo5T1pfOGpTNmlSc1BjWFNfU29jdG5EQjRCbFlFT1ptU0NNWm5yNHdTRjMxWWlZT2dCQ3g2VXk3cTRxV2haemljMW1mdUs4d0hnbFRFYUJtWHR0S2VseTh5bk5pU3dsUHV3MnRzWS1pcUlDS1MyYmctNXVhWlFjY1hBRmVDdXJkZExEQUxaU1JPVENoYTVPWGRpZ01DX21SUnF4bkdJNVQ40gHMAUFVX3lxTE1ZTHpMbHp1eFVpMUxUbTRtdWpsZ3hPRW84SWFBa2lOTnJ2eDhQNnVaVmtNQWw0UHhiZ2hRYXlzc0RKaVo1UjVONmhNSTdGSk9MSXQ2dy14dlB0ZHN1ZnVnTTE0TnVBX091bmpReGNsUjNtQlM1UWtHQWZfMDIyRHhvLW9VT2xiZ1J1Zm44NjYxQU9KaUFWZTRoUXRuU0JxcnlLWGpiUFdBXzNGLWlSU1JqXy1jc0pReUh5Y1lQQkVaVjFXYVYyVV9lN3pWYg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "HM Amit Shah to visit Bikaner on May 25-26; Rajasthan Chief Secy reviews security arrangements - tennews.in",
+      "source": "tennews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMG1pM1Vwd3NFakE3Y0Z6akFEZEU2MGhqX25jVDFMUjZrREcwcGFlWkVUNTFlTnJZMHBKMmNGeTBEMUVENVBDTlFFTndudmkyanhDT1oyRmpRX1hOZnZpb3lqb0tKa1pGTFFoSWNud0hNOVJZSGFPTEZHODZadXA0aHlJRUttSDNQSmZRNmRPRV9GM2xnb24zN1B6a0xzNGgtMkVkSjhSZV9xNXhsMXV2dzhtSQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bikaji CMD Shiv Ratan Agarwal Passes Away In Chennai - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaERxYXk2bHNqU01HcUduUU9Eb09iUlk0cThUSlVLRWZZNUFmZzBtalZhbU9fR2ZQNnRzYXllQmE4T25GUEJBOWhzcEFPbGxOdEhwcXBuUmwxNFJqNDZEd1dCU2Qzc0VOY2RrTmFWWlhTMGRkYUw1RjRJbEJISWlpQ2t1UVFBVHVaMlR0S3BYMWxVU0lMMGJzU1VVRGdhcG1Mb2QxUWdkcjjSAa4BQVVfeXFMTkFUVFJ6dVRQekMycVh5RUdvSlZoUEY3NFg2NENhdGlmRXZYQ1FwdXZ0ODhlM2FjbUYzaWRzRzlLQjFMbkpoOWozWnlmcTNwaE5tVnh0UXh0VVJJYjJfTy03Y2tuR0t4WmROblhrZDMxaEJqVTdOdGx0eENubGpHdmtQYWpCdTN3bjhJTjBjVFBGUUtSNXRZd3pxaGJJcFZfaXU5bmkydlNya0w0Z3pB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha Polls: 5 Points On Arjun Ram Meghwal, BJP Candidate From Bikaner - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2drUGxDV2kydDJsd0FsTkp6Y3ZwcTFweFo3RUhPdURCZlhWaXIxNEh1WTBWX2VjUkFxblJXLTk4aXc1ajhZSmVpNVRCYXl6dkRrOG5HRm1kbVpBNllDQXJwVlFnem5NSnZNdTN0UFZqdnlYZk1fQzBvcWhRQTdKdFBQS0NtZzU0eHZRN21NbWo1amdCa1packQwVWlST1JnLUZCN2N1eGh5eXJsLURxMDdQYkNpLVV1cHllMWdJMmzSAcgBQVVfeXFMT2pPWkt5MG9iOWRBOUNRcUF6RzM0VDQ2bmtkR3BsZlJzNk9LYnpHdlVPNlNWUmszakRmcHoxcWY4QnRVbTBDd01DeUVoaUwwT2NDYlprLWoxTWJCaEliZDliZURpMTZZWUptNk41OEp3dENfRFczNTNQeWtMSWtMY1ctOHkzUWdpTmxEMXh3VEZ4bkJuUmdQOFhOVXdqczdyZzJlckQ1TzhOUjJBY0RVaGlaZmVSOVhBOWhJNDRRbUw0MjEzVHhGQWc?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:53.364717Z",
+  "collected_at": "2026-09-02T14:43:06.642495Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.806606Z",
+        "fetched_at": "2026-09-02T18:38:09.280691Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.806620Z",
+        "fetched_at": "2026-09-02T18:38:09.280704Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.806628Z",
+        "fetched_at": "2026-09-02T18:38:09.280710Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.806635Z",
+        "fetched_at": "2026-09-02T18:38:09.280715Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.806646Z",
+        "fetched_at": "2026-09-02T18:38:09.280722Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.806654Z",
+        "fetched_at": "2026-09-02T18:38:09.280727Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.806662Z",
+        "fetched_at": "2026-09-02T18:38:09.280731Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +315,52 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "share",
+        "url": "https://twitter.com/share",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "sharer",
+        "url": "https://www.facebook.com/sharer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "adrspeaks",
+        "url": "https://www.instagram.com/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "youtube",
+        "handle": "adrspeaks",
+        "url": "https://www.youtube.com/user/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 4,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:39:24.510611Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,11 +369,27 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Shah likely to visit Bikaner to review border security - MSN",
-        "source": "MSN",
+        "headline": "HM Amit Shah to Visit Bikaner, Review Border Security and Anti-Infiltration Measures - Elets eGov",
+        "source": "Elets eGov",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPT2ZOaXIwQVVvNmdKZUZsWFNMVkRCdGVFU1YtdE4yeHFQNzVSdzRpaVhZbWhFVWtRSUJYcWduVEh6cnBxLTNWZ0VEY2RiVzZRM0I0LW5VTHRZb0ZXdDZPdENkcmtPTHkwMVJuZURYUDV1b0FxZlBqbEl2Rk5LdFlIMTBYR1JHTkVaV0lDZFFJT0poQmxFQ2g5M01PUF9ZRGZWNHViTTQyQ1dvZkNQSjNJVmdBNFRTUHpyOVA3QnBTcEpUWXczcnhvd0t3blhTNkZ3U1RTX2oxZk1XMTJpYjBGV25mUUZzU09jVEw5MFNRSUNtWUoxaU5NUUw0anMzMVdZdXY1M3gzVUVhX0NVLW5MdkNORzlsYVNjaE05UG1LT09ZQUNiTm9Bejk0Z2sxNWloSksta1ZKYUZ0R0hZ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2FDQzVINFh4TllOTFNZdjJ3ZEhKVFpFeVFzNjBhdjdHblRxYUtIY1Rfd1pORWN4Y2htdjd6d2llenBCZXNubUswTnVqckdlX0ZVN2RBTUw2NXZPLWstUXoybkZxMXhidlZCcHhRNnkwR0Z4cDlYbHNpbkptQ19VUzFzY0NvTzg3TFU4N1Fxa2c5bU1lMl92cnRzdUtRR3NoOW5tZzB0VThPX1ZDNlgwbDN0eVdHQ3Z3UVdBYTJB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shah likely to visit Bikaner to review border security - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaXdWRmJ2QllwaDdqLXUyMzh2WnpDbUpLV1NlMkRkQWo5T1pfOGpTNmlSc1BjWFNfU29jdG5EQjRCbFlFT1ptU0NNWm5yNHdTRjMxWWlZT2dCQ3g2VXk3cTRxV2haemljMW1mdUs4d0hnbFRFYUJtWHR0S2VseTh5bk5pU3dsUHV3MnRzWS1pcUlDS1MyYmctNXVhWlFjY1hBRmVDdXJkZExEQUxaU1JPVENoYTVPWGRpZ01DX21SUnF4bkdJNVQ40gHMAUFVX3lxTE1ZTHpMbHp1eFVpMUxUbTRtdWpsZ3hPRW84SWFBa2lOTnJ2eDhQNnVaVmtNQWw0UHhiZ2hRYXlzc0RKaVo1UjVONmhNSTdGSk9MSXQ2dy14dlB0ZHN1ZnVnTTE0TnVBX091bmpReGNsUjNtQlM1UWtHQWZfMDIyRHhvLW9VT2xiZ1J1Zm44NjYxQU9KaUFWZTRoUXRuU0JxcnlLWGpiUFdBXzNGLWlSU1JqXy1jc0pReUh5Y1lQQkVaVjFXYVYyVV9lN3pWYg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "HM Amit Shah to visit Bikaner on May 25-26; Rajasthan Chief Secy reviews security arrangements - tennews.in",
+        "source": "tennews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMG1pM1Vwd3NFakE3Y0Z6akFEZEU2MGhqX25jVDFMUjZrREcwcGFlWkVUNTFlTnJZMHBKMmNGeTBEMUVENVBDTlFFTndudmkyanhDT1oyRmpRX1hOZnZpb3lqb0tKa1pGTFFoSWNud0hNOVJZSGFPTEZHODZadXA0aHlJRUttSDNQSmZRNmRPRV9GM2xnb24zN1B6a0xzNGgtMkVkSjhSZV9xNXhsMXV2dzhtSQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -285,22 +406,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2drUGxDV2kydDJsd0FsTkp6Y3ZwcTFweFo3RUhPdURCZlhWaXIxNEh1WTBWX2VjUkFxblJXLTk4aXc1ajhZSmVpNVRCYXl6dkRrOG5HRm1kbVpBNllDQXJwVlFnem5NSnZNdTN0UFZqdnlYZk1fQzBvcWhRQTdKdFBQS0NtZzU0eHZRN21NbWo1amdCa1packQwVWlST1JnLUZCN2N1eGh5eXJsLURxMDdQYkNpLVV1cHllMWdJMmzSAcgBQVVfeXFMT2pPWkt5MG9iOWRBOUNRcUF6RzM0VDQ2bmtkR3BsZlJzNk9LYnpHdlVPNlNWUmszakRmcHoxcWY4QnRVbTBDd01DeUVoaUwwT2NDYlprLWoxTWJCaEliZDliZURpMTZZWUptNk41OEp3dENfRFczNTNQeWtMSWtMY1ctOHkzUWdpTmxEMXh3VEZ4bkJuUmdQOFhOVXdqczdyZzJlckQ1TzhOUjJBY0RVaGlaZmVSOVhBOWhJNDRRbUw0MjEzVHhGQWc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Bikaner election results 2024 live updates: BJP's Arjun Ram Meghwal defeats Congress's Govindram Meghwal - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVlVYOXJ6MXBLc293aEdGT3ZKZmk1VmZmdGx6VWNQaWxXZnNtMjZBc0NvUHZTV21WeS0yUVRfYnVkUGpxdzdERnJ2cWE3blhjWFZVaDJKZ1RjZXVlb0NhQTdXazl6bUFnMjU4RU8wVzhOMFB6aGRjRGNYOEhTX3FWVFZQRzMxanlDMGpZbjYxamgwekV5TDR0Yk8wMEgzRmRVekZ2NDNWSk1uRmdGb3hzOEJadFhVWmE4bTVnZGE2aTZpTHdmMHVGZ1hjem5iZVlidXotazFDQXcya2lCRm02dzRjbGhHcFRtZHMxNlVlV1hEZXJXeFY3Y2FWQjdCRDhReFRGdXBFelhOYTUycmRFeXo1S0dCM3R3OFZEZEJkMzNCUHhHM0RkM1lfNHZiczk4YktSNm9uYkppb1NQUGlLT0FRLTBXLU5IeGfSAc8CQVVfeXFMTVVlN3QxRHFuR1AweG9OdlFabk0yR0dIcmVvb2thVlFjaDdKSERCNGpDNm9OTFJ3SFA5TWo4RzJMRUdMM0JWNDFLbU1OdXVqZlFmcGdGR3VlWGxqNzJBWUhGVWR6Ylp0VDRQSkNjcFhkU0xacTJVMVhSQjV0TnV6bmZNTnpTN2tjVFZXdzhwZE5xU2tpYXpCOUVkZVcwV0VXaVJ5Q3RsdVdya3Q0VEJFa1U3U2JqMUIwZHVKa0l4bWtZaXlGS3FUbnFrUlFoLXNScUtsZEppS2tkeDN5Qi1pLVVYMGJzNTNGU0E2VjBxSlVYd29yQnVoU3VsX3hyUnJ3T1FuX3Z2by1SX3p4aWhJekNZU0hPdHVXNEwtQ1NoOVZHS01CT3RiNlc3NHdHN05lYXhoYWRlbHFfR0p4NldxTExBaGY0RFNHUmxDODZ2dHM?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "No current plan to drop ‘socialism’, ‘secularism' from Preamble: Law Minister Arjun Meghwal - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSTVwbzJTZnhHblhxWHl3bmtsWTB4LTJOYUJFaE8wMFNEVjdKeDFzZ1NVdU9GVTJoWE5KT1ZDNFpxS1AzUHI3UUtrazY1dWVyempKN3dWbEdsVlNHVEFlNzNLRWdVLW40ZVBfS2FYVi1ZY2ZCb2l4NlBxMThsOGNZVTFpTlNiOFFEOHNTTEJzbWV5WXF6cWN5a3FXYkNHUkx2RFY1Q1Z4WHFsWG14ZGlkbTZKOVNqbF95SEpYVTFBRHpWMXVWSnJ1S25QSThBSUp1WFhB0gHgAUFVX3lxTFBKaG50UFl1cFpVNkR2cXBIelBhQmVBaGZwVzdQSlA4RWhxai1kNi1ZNnNPM01vcmltUldjZFZTUG1DY3ZyZlc1d211bHRVN3owUTBHM3kwZEE4V1k5QWdSbnVWRGpNTjFQaTlMQjduLUdvNjV0M0pMNWVtWGs0aklVQzRzMTF3ei02V1ZDYnhTbFEzQzhjRjJjMUg1QTlCRnZfaDgyT3lsVDg1bzM2V29xT18tdlBiVUVjQnJiLWZsY1RzMDJScjF2allFeHlnNTltWHZNY1JxQWRUMkxCSU9G?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,7 +455,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

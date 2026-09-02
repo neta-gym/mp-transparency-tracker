@@ -4,16 +4,16 @@
     "constituency": "Panchmahal",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3430,
+    "myneta_candidate_id": null,
     "slug": "rajpalsinh-mahendrasinh-jadav",
     "house": "lok_sabha",
     "sansad_member_id": 5571,
     "profile_url": null,
     "canonical_name": "Rajpalsinh Mahendrasinh Jadav",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 43,
+    "age": null,
     "photo_url": "/mp-photos/5571.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:00.382964Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 22046500.0,
-    "liabilities": 439992.0,
-    "net_worth": 21606508.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3430",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:46.698727Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 18.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.47,
-    "expended": 1.77,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:12.916825Z",
-        "notes": "Official eSAKSHI REST API — Works: 459 recommended, 312 sanctioned, 33 completed"
+        "fetched_at": "2026-09-02T14:35:12.562554Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:31:25.947785Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:31:25.944942Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 459,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 12.040816326530612
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:47.324752Z",
+        "fetched_at": "2026-09-02T14:31:25.943856Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Panchmahal Election Result 2024 LIVE Updates Highlights: Rajpalsinh Mahendrasinh Jadav of BJP Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPREJGSTFrX25CdTlmLU5yN1lRMldDWGJ3Tlc2Q28ydVdHUDAtTUtkcDJJWldtUjJXZUxSR2hvV2NJQkgxREx1RFlnTm82OFBHWTNHb05wT1Z3ajVXcWh3YzU5bGhZM3RZWkMtY1puR3c0S2hFYU80MkVYclhVUEFNSFBTYjlZMmNTTURpNzJKejJnWUJxTldGTHRYdjN0TXB5WmZWUEhvNEVhbU1ybVN5TFRjemRHRVVJaXFYbkZNcC1UM1plTlpXaFpKdXdPRmxqbzlNN3BuLW43c0VGS1hCQU5EbjRxQdIB6wFBVV95cUxOWXVVT1FaMUR5aEp4YmVhRVpkSW1SVWQxV0ZnX3NQdzlRYTduNHYxUms0Q0V6WHhGTnpsemlwcVBPZU9ZUnQ2V1czb0tTS2tUcnFBazB4RW1mVjZOSG1tbmNVRTdwdzB0OFlQWC1admU1MEFJZlU1dnpBNUJGMjVIdUNrdVUtWVVoZ0dXa091bFhaTWxDU2FwS3BIRFR5V0lURXc2Z0ZpcUxHMDVKT0ZVVTJRU2JIaVNlY3JBbXpnTVo1VUF3Tll4MXFKbms5VXNkR0NBcGtPX0lCQXJtNGR0X1o2QXAzR0ROZWlz?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament - J - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcDdCNHhZQS1HVDBtck56VTJOZ1JXbGFuR0dIWUtWeW5OLURHX21Wbm9OYkpfREpfTUhjTF95VV9jck1GM3dEbUFQWENUSlRsSGhTRThJWGtVcUJJbWUwTmR6eVZnbW81WmJIcG5Yel9ILU5LbldnbnNQSXJjZ2tuMGZ5YWcwWFk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP's First List For LS Polls Sees Major Shake-Up: 33 Sitting MPs Replaced, Here's A List Of Who Replaced Whom - Swarajya",
+      "source": "Swarajya",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmNiSlVlWGhxdmpqRnE5NVRxQVg5bWVTRm14UUlZRG01Qzd3ZWtRaU9aMzBuU3pSZTV5UG9WdjNfQzYzaWo4a2FfUUxsekEzLW5PMy1RazF4X0RENUo1UE54eVY3bEZYeVJiQlUxU09uX1ZXMlJ0T0JydHpZQzVKNEc0T2gxaGZreUt3UkZpQnNSd2poMlVVb3hRTE1sRHRpYWVfZGZWMXpKSG9xWUpZVXZvZ291dU9aNkEzb0h0ZzFlTWlEX01qUnFTbUdVYUxld3Z5MFI2eGTSAegBQVVfeXFMUDU5Q0pHbmFLWDJNdGozRmdMV3lQZE01UnBoVk1Ga3g5ekFwdHdJVk9uZ0lWTlFBaXBSZm5ieE5Ycms3STBRVEpGaUFFS3BHYXF6ZUZCdjdXU0R6UG93aEJSSGE2Zzl1anZ1NF9YQWw0NnpBdGcxbEpQWk81NDQyWlFWUXVTZGVkUVZIQXRMdlZqMG9qRmUxb3dzUFJrTHdOTFZ0MzQwOEV1Y0NkWGZsNHVLUks1dWRtSDduTWVPX2paMlRkN2dXWk9WWFItbTg5NGl6UzBObFVDM1lKSjFubW1VM084S25sLQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "LS polls: BJP drops 33 sitting MPs to make way for new faces in first list of candidates - The Federal",
+      "source": "The Federal",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ1JILTFTVDRsbHBLd1FieDltRWtWaG9SVlRaSDROaUlGN3VIRHV5QTJ6Sk11Szl0Tl9XWTRYZjR3UXRoeGZKRzU2ZDlPMTFZY0JlZEhtQXNrZUZ5YjVreDNuQkZKWWw4bk1oMm9hOFNPLUJGRnUxOXktZXFtN2JpeU85TFY2cHBJVGN3NzBrV2xSYmJsdWdzREZzTC1aY0J4b2pWZTdPSzY4QlNvZ2tHcVBmcFEzaDVWbTc4QWxLcHR0WnZrX1FieU5sU0VzTUIxZ1VGdkVR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Panchmahal Constituency Lok Sabha Election Result: Candidates Profiles, Map, Total Votes, Past Results - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGpBWFhGbVczTDIwbk5saTlXT3JIaWhmem5Sc0lBS3VfRXFTSUtLU1lsZGZ0WkpwYlEtY0cxeW1qSFh1XzFTY09rQXZZTVVaTUJfUlRBMHJlckhDd2UzaEZnaHlpVG5uVWFvbXBzZXBZaVgxZ2I0cGFqQlV6S2tNZ0g1MTctYjFCcTRlME1XOXVqTXM?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:50.453475Z",
+  "collected_at": "2026-09-02T14:35:12.563651Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.243845Z",
+        "fetched_at": "2026-09-02T18:38:05.882812Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.243853Z",
+        "fetched_at": "2026-09-02T18:38:05.882824Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.243857Z",
+        "fetched_at": "2026-09-02T18:38:05.882829Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.243861Z",
+        "fetched_at": "2026-09-02T18:38:05.882834Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.243866Z",
+        "fetched_at": "2026-09-02T18:38:05.882841Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.243870Z",
+        "fetched_at": "2026-09-02T18:38:05.882846Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.243874Z",
+        "fetched_at": "2026-09-02T18:38:05.882850Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,17 +304,42 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/RajpalsinhJadav.Official/",
+        "url": "https://facebook.com/https://www.facebook.com/RajpalsinhJadav.Official/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/rajpalsinhjadav.bjp/?locale=en",
+        "url": "https://instagram.com/https://www.instagram.com/rajpalsinhjadav.bjp/?locale=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:31:36.063941Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 8,
     "top_headlines": [
       {
         "headline": "Panchmahal Election Result 2024 LIVE Updates Highlights: Rajpalsinh Mahendrasinh Jadav of BJP Wins - News18",
@@ -272,39 +350,39 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Rajpalsinh Mahendrasinh Jadav: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia",
-        "source": "Oneindia",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - J - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3RaZHN0dGU1dDNPbkF6Vm5xbU5MYUQ2cUd2Y0FzVGEtWl8wX0g4WWJ5TmRuWDNNYUtreUItVFhPd3p2ZWRfQmRXYXdldXVGTDBJclJtZmw2YzZaNkRoOXVCd1BmNUZXOHJpQTJlcTdlV1JuckFCbjNlRWdMbmd5NDdhOA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcDdCNHhZQS1HVDBtck56VTJOZ1JXbGFuR0dIWUtWeW5OLURHX21Wbm9OYkpfREpfTUhjTF95VV9jck1GM3dEbUFQWENUSlRsSGhTRThJWGtVcUJJbWUwTmR6eVZnbW81WmJIcG5Yel9ILU5LbldnbnNQSXJjZ2tuMGZ5YWcwWFk?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "LS Polls 2024: BJP drops 33 sitting MPs in first list; four dropped in Delhi for disconnect, inaccessibility - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "BJP's First List For LS Polls Sees Major Shake-Up: 33 Sitting MPs Replaced, Here's A List Of Who Replaced Whom - Swarajya",
+        "source": "Swarajya",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUmR4ajNmMzZkX3IwT2VoT01VVm9CRmlPNEQ3NFV3VmQwR2NDaTFKQ2NLdXE2MlVtMkw3SEdnR2pyUnVZUHZpTkpPWS1CRjg1U1Z3ellaQVhnS2pNb2lZcGtfX0hPaEprRVNsMGVfYlhBajNmTXAzY0RsSS1xWkI1MHIxSlBlZXVUTUhUNXlNbHdLcldpSGowN2tTbE9qNHh2QUNyRmVUeE9GdE9NSkpNTWZGQmE4cjVVVEpvY0QxblV0dUh1QXJNakk3RlpvTDc5ZDZxdjJGNXVpZEtXVEtSd0pmeVpIckw5MFZGT2JlRUJ6Y25SNlZiRtIBhgJBVV95cUxPdndEMUwwY042VV9sUklWY1I0b2pfZVI5VjhFdUk2aFg1aEs0QjljYXhpbFNXeUUwdkEzTzMtTzBKN2h6SmhUTU96cmhVSFMwcXAwazhMSnF2NFNGRG5QdzFDbDBVbll1MDhJSVJoTEJPMDRXeGpQdXk2VEhJdDV6d2RrTFQ2ZmZVSFZmblo5TFJwRElTZzZGdV9hTHY3VE9qejlKQmNxRkFzaDNLT3hncFhEWUM4WUoycE4tUWJ4b01PUGlFdnRCdHlWMmM3RHhpTU5aM05oenNzY2psZmVidmtxWFBsa0FmM1gxRHUyYVY3NTRSb3FlZDZQRW01UDVmcDVDOXhR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmNiSlVlWGhxdmpqRnE5NVRxQVg5bWVTRm14UUlZRG01Qzd3ZWtRaU9aMzBuU3pSZTV5UG9WdjNfQzYzaWo4a2FfUUxsekEzLW5PMy1RazF4X0RENUo1UE54eVY3bEZYeVJiQlUxU09uX1ZXMlJ0T0JydHpZQzVKNEc0T2gxaGZreUt3UkZpQnNSd2poMlVVb3hRTE1sRHRpYWVfZGZWMXpKSG9xWUpZVXZvZ291dU9aNkEzb0h0ZzFlTWlEX01qUnFTbUdVYUxld3Z5MFI2eGTSAegBQVVfeXFMUDU5Q0pHbmFLWDJNdGozRmdMV3lQZE01UnBoVk1Ga3g5ekFwdHdJVk9uZ0lWTlFBaXBSZm5ieE5Ycms3STBRVEpGaUFFS3BHYXF6ZUZCdjdXU0R6UG93aEJSSGE2Zzl1anZ1NF9YQWw0NnpBdGcxbEpQWk81NDQyWlFWUXVTZGVkUVZIQXRMdlZqMG9qRmUxb3dzUFJrTHdOTFZ0MzQwOEV1Y0NkWGZsNHVLUks1dWRtSDduTWVPX2paMlRkN2dXWk9WWFItbTg5NGl6UzBObFVDM1lKSjFubW1VM084S25sLQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "2024 Gujarat Lok Sabha Election Results: Full list of winners on all 26 seats of Gujarat - The Indian Express",
-        "source": "The Indian Express",
+        "headline": "LS polls: BJP drops 33 sitting MPs to make way for new faces in first list of candidates - The Federal",
+        "source": "The Federal",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWJUcExBamtvWHhIS2NpblJpcjVmcFZWTk16TmFZT3N5ZTJPY0l1aE5sSzlJcndrRlpyUUo5NUExWDhRZUs4OW1wMndvSUpBUDJwc0lhdXhHYUR5R3hERHVjTWlZODF5U0pLbWI4UzM5TFJOS3hac3dBencwY2ctZmE5NnNKNVBCb2o0X1Zld1FqUmJ0ZXR3dHVKaFVOX0hzZEJLSWdPOXljUDBsTEk5YlpfNUhuaC0xdnk2SUUxdkVKSW90ZGF1RHlud03SAdMBQVVfeXFMUDhyWGFtYlgyRVY2ZWxEUnRhVVdTMjAzSEc0Y3o4eWNfQlU3STN1LWNsOTNoT0c2VE5EbHplZzhrMjVlalhFeG5ENmxKcmtYWGE2aWQ1TEZNWDUtVEM0aGE2SDMyejRINEtDWEt4cm8tSkRPZUk4WEkxNkp2TVBGWEFhb3ZkSEhqM1ZjeGhkMGdfZUlrajY2OE5KdGZIZ0Uxc25UeTRESm52TUowTU04ZTZMeEdRMkxxeDllOElyc0pDRUR5TzhVVXJrTDgyUmJON3dVZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ1JILTFTVDRsbHBLd1FieDltRWtWaG9SVlRaSDROaUlGN3VIRHV5QTJ6Sk11Szl0Tl9XWTRYZjR3UXRoeGZKRzU2ZDlPMTFZY0JlZEhtQXNrZUZ5YjVreDNuQkZKWWw4bk1oMm9hOFNPLUJGRnUxOXktZXFtN2JpeU85TFY2cHBJVGN3NzBrV2xSYmJsdWdzREZzTC1aY0J4b2pWZTdPSzY4QlNvZ2tHcVBmcFEzaDVWbTc4QWxLcHR0WnZrX1FieU5sU0VzTUIxZ1VGdkVR?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP Candidate List 2024 For Gujarat: Mansukh Mandaviya Set For LS Poll Debut. CR Paatil, Rupala Join Amit Shah On 1st List - ABP News",
-        "source": "ABP News",
+        "headline": "Panchmahal Constituency Lok Sabha Election Result: Candidates Profiles, Map, Total Votes, Past Results - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRTRTR0s0ZDMxTll3VWpDZi1uRlc5UFVLT2lGc2g0SmxHVUZjelZqeWJvRjdrVjMwYzN6VHZJWGhIMEh2ZXFzT2FpWFdpNjJOZkpTdWJZMDhrSnhldDFKUUdQRkJXS0Fta2gyMW1OWnV2VFdyMWttM3NLSnZrekhQSG1PYUZzNlczT1M1eElhMklpOURyeWNfYU9HMUNZTThEUER4MWp3cE1xSGlNMEwyX3kteVZIaWJGblZCQnlLUWMxWEFyczZhdU5QQ1ZZUm5VaTlyRzVRQkJIRWR1VkVlOS0tSXZETWVIRHfSAe8BQVVfeXFMUEtualpEMmQxYlhrWDV1Qi16bGxjSVB3VFlNOGRQSGlhQ1FiTm5RZ1Rfb2RoNWk2Yzl0X0tnc2h0ZzItOVBKNVBOaVFNUXRsaGtvdWxjRjdnYU8xRHZSZXdzWWhqNzFvTDBTWDQ5aUExSmdWbW1JdXpDeFljOVRFTWZ6UHVnQ1lseGZGZzVja1dSTWpTcHBaRVc1RFpxeUVOUUNtZENNaTdsckt0QlNMUjQ1S3J2TGliMDVSVTJPR0RUUFJWVERKbU1lZGRXbHhVT3ZGOVJKRVhJenljcWtQaUI2UF9tM05UZlNxMlhabEU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGpBWFhGbVczTDIwbk5saTlXT3JIaWhmem5Sc0lBS3VfRXFTSUtLU1lsZGZ0WkpwYlEtY0cxeW1qSFh1XzFTY09rQXZZTVVaTUJfUlRBMHJlckhDd2UzaEZnaHlpVG5uVWFvbXBzZXBZaVgxZ2I0cGFqQlV6S2tNZ0g1MTctYjFCcTRlME1XOXVqTXM?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -350,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

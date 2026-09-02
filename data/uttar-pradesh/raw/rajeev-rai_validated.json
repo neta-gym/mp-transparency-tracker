@@ -4,16 +4,16 @@
     "constituency": "Ghosi",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 9348,
+    "myneta_candidate_id": null,
     "slug": "rajeev-rai",
     "house": "lok_sabha",
     "sansad_member_id": 5769,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5769.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Ghosi",
       "state": "uttar pradesh",
       "party": "Samajwadi Party",
-      "myneta_candidate_id": 9348,
+      "myneta_candidate_id": null,
       "slug": "rajeev-rai",
       "house": "lok_sabha",
       "sansad_member_id": 5769,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Doctorate",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/5769.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,97 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "Crime No. 0056/2021, PS. Sarailakhansi, Dist. Mau",
+          "ipc_sections": [
+            "504",
+            "505"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "CJM, Mau",
+          "fir_no": "Crime No. 0056/2021, PS. Sarailakhansi, Dist. Mau",
+          "case_no": "1256/2023",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "Yes",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:06.852028Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 494188267.0,
-      "liabilities": 62952119.0,
-      "net_worth": 431236148.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9348",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:54.782512Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 84.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 6.81,
-      "expended": 4.84,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:08.582960Z",
-          "notes": "Official eSAKSHI REST API — Works: 245 recommended, 193 sanctioned, 84 completed"
+          "fetched_at": "2026-09-02T17:07:10.187841Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:03:29.566907Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:03:29.563892Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 245,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 32.92517006802721
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +145,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:00:50.329518Z",
+          "fetched_at": "2026-09-02T17:03:29.562868Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +153,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "SP MP Rajiv Rai walks out after minister’s jibe at railway event in Mau - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVNCLUhiY3pQcktieHNmcDVrNEFyaWQ4SXNPYmxZVk1ZdXJ3TER5azE5NlhCdDFuZFBnRmQzLTloMGZydUlxYjNTMW8zYzZEdzcyOVh1bnRpalB6S2VHbnpFMHlmUDZrVndxc2lRVVB1M0wtUUhMdjBMTTlUMXZqOUFGdnN2TVdyWGtUM1pDWUY5WENNRkhNZ2puM3RBMW54SkhIODVYLTLSAa4BQVVfeXFMT2pDZGZhcHdqWmhBaWp4RDd1dldvZWpkMzRMZGFUUWlfUEVrVS1wWU9JZXhRUWFTTGlZdzNiWmVFT3p5YzRFMlg2RzJmTmVEdy1RRG02ZHFhSGJCOXNVc25waWY4Zk1nUW1mNGRURFBnXzR3MnBXRlFnTDRHdS16QTd3dU1iTWJmN201d01FTVVCaE9Wb3FGZzdKMUIyZ0pzM2xiZEpsM2JSV1hwOFJ3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Heated exchange between SP MP and UP Minister in Mau: Rajiv Rai points finger at AK Sharma, says ‘you’ve be... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLXVYTVpkNHFTOEdGUlR4NWplVUF5bTRpT2RnNmJZZWYtanJZREN5TWVGbEl5T3JNRDktcjR0VjRuSWs0NFNJNi1LdmpmQXozdzlMNlVrR2tKMC1BV2RtVnl2YmRWUlp4ajBTVlh3cmYwRlJzUmlUWkJjbHpSeFVmTGF1MWo3b3JtZkFacXQxR1F0eDVtbEp5NVQ0NDhOVzcyVmZvYXVkMy1MbmhHU3ZoSTZqeU5EZzNuLTNfMmtiVkxxcmhsWlVwR2R1bG9Pc2o20gHWAUFVX3lxTE1fTnBNcWV2VllTY2g3alhPVEEyMk1USndZazh0bVdIYnlfM3B0WE1VNkxXY1pFcl9uZ3Z2Sm15dF80cXZNb3p6bDZYRzJ3dEtxemRMUlcwUUJjc1hjQTFlaXY1Y2o4dTBTNFhHTTRBdEhTNVMxSWpWSGtIZHhfTUdJYWlPbzByMkZaZDZjaWtGZEVxQ0JUcVZxTXFqTGR5QXNMSGdWT20xbW94cmtBS3JUdUFBWnhhZ0RVcEdCdUg1U1hrMC1RbTczOFdJYWUydXBEM3hjd3c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "SP's Rajeev Rai to send legal notice to Minister OP Rajbhar for spreading \"misinformation\" about Samajwadi Party split - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQb3M0bXpHdThnVEI4VEpERS1xUU1UaGN5REN3bS0tbmdmeHBLY2c5MXZNaFc2UFd6d2xQcjJYR0JCU3RrU2FzazFYRmJEQU5Zc1Zja0dXQkllOFhSa0hfM0VuLUMzTWY0WTcyNlIwQkdiaENoWWRpZUpLN2tXTVdmWmxFV0lDdk9sdnUwQ2ZNVXVBMFAzOHRSSEp4aWZab1NUcVlPdWE5RV8tNXBobDRSUll1SnZUcU1FSm9LQUFpeGE3REhiT2x5SkYzbUtPbTFRREFWV2JJZDdFN2hvNHB1NFlHc2liREtmcmV3RWtEWDdLT0tOX0duWEpLWlpVaWJQcy1LZTl3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Notorious traffic, useless cops: Samajwadi MP's all-out attack over Bengaluru chaos - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUlgydWNqQm5BVGhkNTJiRWpoamRRX284ZVNSOUo3WXFyUG5RLWstLVlCcnRMMHFPLXl6bGFVX3BpWWhLLU1pLTl6cktLb1I2UkNOa0dnUEY2VUpVU1FlTGpYdl9xWlpyZE9kaEtkaUdhanh5ZTMtN2liRE1KT3Y0cy1rTUNibElQbno3M2tyblNGSUdNZkpkRUxYbmVpYkQwTkszQm85MU9odGJjZnpKVURab2V3NHFIVFlwZC1xdjlxS1J6aGJnQ3cxaWJFR1NScUVsQ1RrTzVrX3hxWHh4ZW1kc3HSAeoBQVVfeXFMTjdqWHphUUlHd1hUQzBVLWNhZzJRNG9HZjk1X09aNzNDV1ZhX0t3eS1NSG5tZkJvOUYyLWJlN1BMTktNTWp4OVhlaXpPNDkzcHRhOWo5V044TFA2OEhvZU5ncy16NzVfbVFPcDRyMHV6QUJadUplOWo1YjNEOEdLdlZCaDJVcDFJWFdNUXhaaTJWV1RlRDBSRlppUkxMNDZzc2xwUFdZSjVHMFQ0OWljUnVKWWVaN0h3X2NPMVg3dWhmZ184azlUUGdMdlc0UllkR01tU0pmUGhWUko3OW1nRUhjZm8zLXBlTzNB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hours after FIR against Ghosi MP, doc says did not file plaint personally - The Times of India",
+        "source": "The Times of India",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMkxPc254M0UwSVU4VzJyRTFyVWlOdGZYWFBFenNCT1JuMzk5SW9vUjRwUXdicUlfZ3AwZW9Yc193dUtVM0xmV3h3NWJoQXlIQjVHWXNsMklTRDRmeHREdFNaYUhOZjJjVmRRY0xiVHZWYkJBTmtfN08zZ0llaFdHdWNYaGFORE5UejRhOXBrQ3lrTWxnX3RVVzBkTkJZeEVwWGlqX2FFeG0zamxCMnplWUdXWkxsOU9iWS1Falk5bUU1NHl3MHhtaGhJSG5IczhjTENlZjJtRzNNano0dUhrS20tZjFrUdIB6wFBVV95cUxOTVZtNUdvTjNCT2VPQjgzZnloalV4R0JpOTl1SkgyeUkyaFFyOUNsR1RxQm8xWjB0YnU2S1NqRVJyS0c0Z25WRjZiZlRUQXJzQmt2c2U2SjhqNjlwd3RuYmNuQkV6OE9ad042MFVVMTBKYmYwREFnZ19xd3BsdVEtR2hlaE5DSm0ya0JKOUJBNExQQmYyYUVSSE5JbFVzbVczNWI4b3BqQXplcnN5MHFmelBTdWFGX1ZNSGw4Y0FNcHJYSWZYT2QyMW1fVFJaZ2FKbGFQRXJ4c0lDYzlGVFFKci1hbFZFN0VZdnlz?oc=5",
+        "sentiment": "negative"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:01:10.980168Z",
+    "collected_at": "2026-09-02T17:07:10.189229Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +222,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.960861Z",
+          "fetched_at": "2026-09-02T18:38:11.550266Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +238,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.960870Z",
+          "fetched_at": "2026-09-02T18:38:11.550279Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +254,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.960874Z",
+          "fetched_at": "2026-09-02T18:38:11.550285Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +270,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.960879Z",
+          "fetched_at": "2026-09-02T18:38:11.550297Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +286,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.960884Z",
+          "fetched_at": "2026-09-02T18:38:11.550303Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +302,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.960889Z",
+          "fetched_at": "2026-09-02T18:38:11.550309Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +318,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.960893Z",
+          "fetched_at": "2026-09-02T18:38:11.550314Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +334,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.960896Z",
+          "fetched_at": "2026-09-02T18:38:11.550319Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,11 +359,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/rajeevrai?lang=en",
+          "url": "https://x.com/https://x.com/rajeevrai?lang=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://facebook.com/RajeevRaiofficial/",
+          "url": "https://facebook.com/https://facebook.com/RajeevRaiofficial/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://instagram.com/imrajeevrai/?hl=en",
+          "url": "https://instagram.com/https://instagram.com/imrajeevrai/?hl=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T17:03:33.218699Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -298,11 +405,11 @@
       "neutral": 7,
       "top_headlines": [
         {
-          "headline": "महिलाओं ने घोसी सांसद का घेराव किया: मऊ में नारी सम्मान और अधिकारों के मुद्दे पर किया जोरदार प्रदर्शन - Mau News - Dainik Bhaskar",
-          "source": "Dainik Bhaskar",
+          "headline": "SP MP Rajiv Rai walks out after minister’s jibe at railway event in Mau - ThePrint",
+          "source": "ThePrint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbWZZeUZ5cjVPZExmT1p4SjdLdnBSd3JoY2N2QTkwZ3lMNEF1NjFNNFRGajZab24xVFMxdGFUaU00TE1UNzd1R2lGS2VmYXVjSGI1Tm00Y3pIQWM1Tm1wNjVTU09UOUUwSVNqZ2JTbm9sTHBoWHJiWmxKUTJ6S0h1a2RjQ0dMQTdpdnpsTUQxQzVEWHlwVUpDYl94X0JYeGRMNkpleFVsd0RQMjh0WjRjcUFZTWZMUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVNCLUhiY3pQcktieHNmcDVrNEFyaWQ4SXNPYmxZVk1ZdXJ3TER5azE5NlhCdDFuZFBnRmQzLTloMGZydUlxYjNTMW8zYzZEdzcyOVh1bnRpalB6S2VHbnpFMHlmUDZrVndxc2lRVVB1M0wtUUhMdjBMTTlUMXZqOUFGdnN2TVdyWGtUM1pDWUY5WENNRkhNZ2puM3RBMW54SkhIODVYLTLSAa4BQVVfeXFMT2pDZGZhcHdqWmhBaWp4RDd1dldvZWpkMzRMZGFUUWlfUEVrVS1wWU9JZXhRUWFTTGlZdzNiWmVFT3p5YzRFMlg2RzJmTmVEdy1RRG02ZHFhSGJCOXNVc25waWY4Zk1nUW1mNGRURFBnXzR3MnBXRlFnTDRHdS16QTd3dU1iTWJmN201d01FTVVCaE9Wb3FGZzdKMUIyZ0pzM2xiZEpsM2JSV1hwOFJ3?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,6 +421,14 @@
           "sentiment": "neutral"
         },
         {
+          "headline": "SP's Rajeev Rai to send legal notice to Minister OP Rajbhar for spreading \"misinformation\" about Samajwadi Party split - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQb3M0bXpHdThnVEI4VEpERS1xUU1UaGN5REN3bS0tbmdmeHBLY2c5MXZNaFc2UFd6d2xQcjJYR0JCU3RrU2FzazFYRmJEQU5Zc1Zja0dXQkllOFhSa0hfM0VuLUMzTWY0WTcyNlIwQkdiaENoWWRpZUpLN2tXTVdmWmxFV0lDdk9sdnUwQ2ZNVXVBMFAzOHRSSEp4aWZab1NUcVlPdWE5RV8tNXBobDRSUll1SnZUcU1FSm9LQUFpeGE3REhiT2x5SkYzbUtPbTFRREFWV2JJZDdFN2hvNHB1NFlHc2liREtmcmV3RWtEWDdLT0tOX0duWEpLWlpVaWJQcy1LZTl3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Notorious traffic, useless cops: Samajwadi MP's all-out attack over Bengaluru chaos - India Today",
           "source": "India Today",
           "severity": "low",
@@ -322,20 +437,12 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "‘Most useless police’: SP MP gets furious as Bengaluru traffic makes him late for flight, slams CM | India News - Hindustan Times",
-          "source": "Hindustan Times",
-          "severity": "low",
+          "headline": "Hours after FIR against Ghosi MP, doc says did not file plaint personally - The Times of India",
+          "source": "The Times of India",
+          "severity": "medium",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYzUxcmNSUVRMTVMyWTIzT21wb2wyZ0xoWjFfU1lkTVByQzRwMlg1REkxSmdBajYwRjZjMHBrTHlPZXowcFl1REtkbFFtRFk3ODdTazY1ZWczeHZiSmtWWHhXdEtUNFpvVnZvMDlCNFpBcVlGcGN6RHVWdmNheUtoNjVzWlAzeERwUWp2eXloeG80eHpKSzZ3T2djRjFGTUhDUXJzaWVqeWZ4T1RXM2VUblUzZ0lxQVpXNlkwXzJrTFVGMG9FeXFEcS1fX0doeXZkMldrUzBJbWRNaWM4eHNRb01RZC1rd9IB6wFBVV95cUxPZlpUcDJjS3E5MTdMUU1YVzVKYk0xRElYamdHMkdkSmxyMmVjdEV6NkpMeVVFb3o5NE9EUTZMMm5CZUhWaVRXblBlM2FnSUhhRmhBaWxkVjRJS3k1TW1jZDg4VU4zTjVYMTh6b3h4NW14bVhLa2k4d1drUjYzUkh6Tzc0X0VPMXdkN2hURkdVTUowbGFfeTJzdnFoZnNZSjE3RUZNNGhIOWFkcHdLdmJFRi1OcEFxNE94UXllaTB6aHkxWVBPR3VfaWZUTmxTMmNXWkxhaktfblZDYTF1LUZILWZuU0dPNVBPYlJz?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Samajwadi Party MP Calls Bengaluru Traffic Cops “Useless” - Deccan Chronicle",
-          "source": "Deccan Chronicle",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWtzWHY3MVBwZ21fNjBXZWgzNWlIYjYwMHZWTmFiQnFMcUpCNVZodFRXcGFxSzB0aEpzdHhteXdtNTFBa3o0dGxXSjU2bG5mVGkxT0RadTBhcGd5R0tocmZaeU03VEZSODNYS09MNGkwemFzU0xNcEhvYmtmai1acE4xVzhtQ2g5eGRmcnljVXF5RzVsQ3VmbTBjZnJ6Y3NRYm4wYVlTQmZwRWpyeUVGRDBVdlRDQy0wbDBaZmhn0gHDAUFVX3lxTE93a1VMQUNWRndpQ2lCLUFXbEVreHY3U0ZyOHFHZnQ0eWs5ZHo4azYyMzRNdGtRT0I5ZWhJYklZdG5wVk45bkRyMUVjeFVHSVJiOHhBM1d6ZGpGeTd6MEJNZjl0dGtNMERMUjRTMnF4eG5STjBpQkNCRFRMcU1UX3hIaVZMTVNEQTU0enMyUDRVOXlVS3lDQUs2S2I0ZG94bEFMNnlFYllicTk4bGVuU2Q3MW40cXUwQTF2aTJNU0FsdDFIRQ?oc=5",
-          "sentiment": "neutral"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMkxPc254M0UwSVU4VzJyRTFyVWlOdGZYWFBFenNCT1JuMzk5SW9vUjRwUXdicUlfZ3AwZW9Yc193dUtVM0xmV3h3NWJoQXlIQjVHWXNsMklTRDRmeHREdFNaYUhOZjJjVmRRY0xiVHZWYkJBTmtfN08zZ0llaFdHdWNYaGFORE5UejRhOXBrQ3lrTWxnX3RVVzBkTkJZeEVwWGlqX2FFeG0zamxCMnplWUdXWkxsOU9iWS1Falk5bUU1NHl3MHhtaGhJSG5IczhjTENlZjJtRzNNano0dUhrS20tZjFrUdIB6wFBVV95cUxOTVZtNUdvTjNCT2VPQjgzZnloalV4R0JpOTl1SkgyeUkyaFFyOUNsR1RxQm8xWjB0YnU2S1NqRVJyS0c0Z25WRjZiZlRUQXJzQmt2c2U2SjhqNjlwd3RuYmNuQkV6OE9ad042MFVVMTBKYmYwREFnZ19xd3BsdVEtR2hlaE5DSm0ya0JKOUJBNExQQmYyYUVSSE5JbFVzbVczNWI4b3BqQXplcnN5MHFmelBTdWFGX1ZNSGw4Y0FNcHJYSWZYT2QyMW1fVFJaZ2FKbGFQRXJ4c0lDYzlGVFFKci1hbFZFN0VZdnlz?oc=5",
+          "sentiment": "negative"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -368,15 +475,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 39,
+      "starred_questions": 11,
+      "unstarred_questions": 28,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 75.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +491,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +522,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +549,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 494,188,267. MPLADS utilization: 32.9%. Parliament attendance: 100.0%. Questions asked: 39. Debates participated: 15.",
-  "validated_at": "2026-09-02T01:36:53.961612Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 39. Debates participated: 15. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.551073Z"
 }

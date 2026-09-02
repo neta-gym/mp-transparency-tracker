@@ -4,16 +4,16 @@
     "constituency": "Perambalur",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 1176,
+    "myneta_candidate_id": null,
     "slug": "arun-nehru",
     "house": "lok_sabha",
     "sansad_member_id": 5797,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 27,
+    "age": null,
     "photo_url": "/mp-photos/5797.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:21.616196Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 9880000.0,
-    "liabilities": 0.0,
-    "net_worth": 9880000.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1176",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.076520Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 8.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.74,
-    "expended": 6.34,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:09.678649Z",
-        "notes": "Official eSAKSHI REST API — Works: 71 recommended, 59 sanctioned, 18 completed"
+        "fetched_at": "2026-09-02T14:54:30.879375Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:50:41.193059Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:50:41.190675Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 71,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 43.12925170068027
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:29:54.595865Z",
+        "fetched_at": "2026-09-02T14:50:41.189712Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Tiruchy ITI cluster among 6 in Tamil Nadu chosen for PM-SETU scheme - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmJTX25YSS1KcjlKT3lpamtmWTh5SF9feGRZV3JjRnFuX2J2czNZOFhNendJUFBGMHJvTWd1c1pYMVJ1eDVDNnVDTEJXSUM1VzFfYzc1cW85cWZJdkMyVVhoSjNQUUZsZFlkbmNZbXZsOVlLenphZTNRWF9OTzBWWmE4YkE4RVVIQ1c5UFQ3emZ5Sm1UUVNGaVZQb2Zjc0FBNWVxU0N5ZmdsSmdFSV83S1ItMWlVRmFZYksyQnBJXzdPM3ppYmgwOFRB0gHXAUFVX3lxTE1wRWFRdWtPQzhzNkJnU21lZmFJUG1FSnhwRDkyN2ZyZzVnS1JXaFI2c0pFZVFVX2JiS2N2ZFBKMUJyYUh2Ym9YLTJrMTY3ZC1VUEhFbDJOTnVlTDQxS1FKRlphRVQ3amFRM2hzQjRnUkNTb0JUMUpjRDU1R2Eta1NjMTZHS1VtMzNGTW5fYmtIVUhqalNiTzY3ZjZ1LVJ6LUxuR0l3b0haRHJLS0xUcUNQUnFZOUlRTlEtVWQtX0dSR2syMGVPd1RSR1pOTzh0cVpQS3lVMlNN?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Centre gives nod to prepare DPR for Namakkal-Perambalur-Ariyalur rail link - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSVp0akVsMTZUelBmZm9SNG04dnRzT1Y3VlBncHljQzRWWERNbzdzQS1kZDNxdGYxQWRaZlRjRVJ5aGVnNWk5UV9sSFEyUlhiVFNKQUdkYTBlcEl3aUJ6N3FObGtBakdwZTB0U0dmY3lLVzhSMzVrUTdmanp1ZlRFQnRzc1o4VGZ0QTdaTlItYVlyamd4YzBJYjBEN2RpNEt3VHI5aGNGdndReGFuY0thMnlBTU9BM2YyLXRxLVZkQzNiZ3NJUjlYQUdKLWtRaW01bHdxdnhIWVM2eFB1UUhPS3VB0gHnAUFVX3lxTE02bEpadHRiMnQ3aW1nb18tSzBJZTNRTXE3MktQYUVoN3owREV4U1d6OEZLZndMeUxRQjMtN0tXbkNWTGcwRkNWQmxFMkEtYkM3VDJCdFRKNllWVldDTHNmbm0wTERFdTl5bG1ma3I2aEpqMHRVMVh6Y2p4Z2xSU2NfWG5GQzduNDFfaE8yZ1YzT0E2NkZrblhMTGlDWmxMVUlKT2V0czFPenZNVmlRSnlmTUd0d2dvX3Q1cWl0OGw4STR4NnRhV3g3aDNadm96NzdKdlpjU1FSdmxURXdyS2lWZDRwa3YwMA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rahul Gandhi to campaign for 9 alliance candidates in Tiruchirappalli on April 18 - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONFNaWWJfQkdFQlZVLTdydEJtU2pkalB0dnR5NmZ2MUlTNU93ZFp5NlV1aTMwZVJBRWYwdXZjUmlxMTJtZVppdjk2ajJYVmFPVzZfTTNaT2NfM0lIbDJtT1lvTVVwbERWTlpCWkhpWFZqWk5QSUsyckdSYUM3dUNqX2IteDlXNTJaLUU1LTJlVTN3YXhwaDhZUTZ0bkt2RjJibDgzNE1NV0ZKOW1yN01xRnFkZ3NaQk03ZTk0a1RXc2pNdGZNSTF4aFdJTXIzR1djVzlKM1BfSjNfelBjQlRSMU04ci0yUl9wRk9ZWNIB-gFBVV95cUxPMmVHdUdmaXFBaGdTczYwUzJFY04wdFREXzdJS1I3OU4yYjQ4RFh3aUM4dXBsbXlRRXVUbzhubWFHcHV0REd6eDQ4WldNdElwX1U5cUFFd1NMTlpTNnFJeFhXQ3loZngzLUdqZjZUR2E0RWhZTWgwUTdmUno0S1FJTUptUDYtT3liay1zYVhUblhSOC1NNVdYZ01MZlhSc0xfdnNNblNDOEhHRHpfRU1hODFHaHNfVHdnQ2VlM05IRTZCMG1yOFdfSjRiYUVnTUY2XzZZREdmLVZtTEVHYVVEZ2FZX1pZMmRfRFBiSTM0UF9JZXlEenA3UUpn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Arun Nehru files nomination papers for Perambalur constituency - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN21SWlBBaloyWVdhWi1DMFdxR2lnLWV6LURjTFVzb3dDYTNydkZlZEdCeGk5VkNudjh6VnAxV3J4MEliTERvRzR1a3dweXFzWGR3TEF4Wi1BN1BXRk5wVm8tNEpwTl84dTd4dmtYUFd6eUVmRXppZDBvM0NOS2RzWjNjekRoOFZldmdkUGg2UGdpaWJZT0Z3NE1EWUEyMHhVWno3RDBSdHlZSUo4SnoxZV9ycXZlNExoV2JfWFQ1eG5zeVJZbUJXSHBsdS1GTDDSAdYBQVVfeXFMUEJ6d0pSZ1JBRDY5THE5bTZ1SFhObGFpcGJCSUpwUDRUTVpUNVlHM1Ntc1JZNDJxZ0paN0RvU21Gck9OYTU4cEwzVm9aV2UxSTRMNFBQclNkYm02ZjFsSDNFN0RldlZ1cHJoT1dqWnRPeWtxM2xXeUhTOFhRbUdrYTI5QWUyU0dOQmo3OHdaV2F5WFg4M0w1dzVsRnlCWXJhN2hFckotQ1dNSnVQcFpoZFdyM3pteUYxUWRKVUc3dXlncGVBT0lHT0RnMHRVdUpmQV9HSnlYQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Delhi Confidential: Sweet offering - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjJPRndVUjNXZTNqTEh6S2dnTUJMWk4tWVdfcnNBWjNScUU0UzVNSkhVaTcxUHpXUHdjZjg3aTdyNmVlSmYwWEd5T2hqckhnaVJDSkdJQ0YzY0lyVmdQamdKUmlMalFRY3hYdW9GOXNSWVl1MW9rRVRoYWFpaFc2NEFwWUNRbUFYSWVMa3p2R2dqN1daeW1yWHZoTG7SAaMBQVVfeXFMUGlJOWJpMC05eXNWUVJDQ1UxVGJMQ0VVN3E3YndydjdrWFFxVW9EbmZpTUhaR2owQmJRcUVaM3kteFdzeExOU3ZpUUJSYmFfMi1QYnFxM1lxejl6b1VvTjByQVpPbkJYVVB2T2otbHI2aHZleHhiNXlMT2dzWkV6aS1abWY3b1ZCWWxkbUthTU4yTGxmckxibnQ1dnIyNVJjWTlNNA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:30:51.254607Z",
+  "collected_at": "2026-09-02T14:54:30.880276Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.253359Z",
+        "fetched_at": "2026-09-02T18:38:09.682552Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.253367Z",
+        "fetched_at": "2026-09-02T18:38:09.682563Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.253372Z",
+        "fetched_at": "2026-09-02T18:38:09.682569Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.253377Z",
+        "fetched_at": "2026-09-02T18:38:09.682574Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.253381Z",
+        "fetched_at": "2026-09-02T18:38:09.682582Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.253386Z",
+        "fetched_at": "2026-09-02T18:38:09.682588Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.253390Z",
+        "fetched_at": "2026-09-02T18:38:09.682593Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,24 +304,65 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/arunnehru_dmk?lang=en",
+        "url": "https://x.com/https://x.com/arunnehru_dmk?lang=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:50:43.974120Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Arun Nehru demands cold storage at Musiri to help banana farmers - The Hindu",
+        "headline": "Tiruchy ITI cluster among 6 in Tamil Nadu chosen for PM-SETU scheme - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmJTX25YSS1KcjlKT3lpamtmWTh5SF9feGRZV3JjRnFuX2J2czNZOFhNendJUFBGMHJvTWd1c1pYMVJ1eDVDNnVDTEJXSUM1VzFfYzc1cW85cWZJdkMyVVhoSjNQUUZsZFlkbmNZbXZsOVlLenphZTNRWF9OTzBWWmE4YkE4RVVIQ1c5UFQ3emZ5Sm1UUVNGaVZQb2Zjc0FBNWVxU0N5ZmdsSmdFSV83S1ItMWlVRmFZYksyQnBJXzdPM3ppYmgwOFRB0gHXAUFVX3lxTE1wRWFRdWtPQzhzNkJnU21lZmFJUG1FSnhwRDkyN2ZyZzVnS1JXaFI2c0pFZVFVX2JiS2N2ZFBKMUJyYUh2Ym9YLTJrMTY3ZC1VUEhFbDJOTnVlTDQxS1FKRlphRVQ3amFRM2hzQjRnUkNTb0JUMUpjRDU1R2Eta1NjMTZHS1VtMzNGTW5fYmtIVUhqalNiTzY3ZjZ1LVJ6LUxuR0l3b0haRHJLS0xUcUNQUnFZOUlRTlEtVWQtX0dSR2syMGVPd1RSR1pOTzh0cVpQS3lVMlNN?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Centre gives nod to prepare DPR for Namakkal-Perambalur-Ariyalur rail link - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSVp0akVsMTZUelBmZm9SNG04dnRzT1Y3VlBncHljQzRWWERNbzdzQS1kZDNxdGYxQWRaZlRjRVJ5aGVnNWk5UV9sSFEyUlhiVFNKQUdkYTBlcEl3aUJ6N3FObGtBakdwZTB0U0dmY3lLVzhSMzVrUTdmanp1ZlRFQnRzc1o4VGZ0QTdaTlItYVlyamd4YzBJYjBEN2RpNEt3VHI5aGNGdndReGFuY0thMnlBTU9BM2YyLXRxLVZkQzNiZ3NJUjlYQUdKLWtRaW01bHdxdnhIWVM2eFB1UUhPS3VB0gHnAUFVX3lxTE02bEpadHRiMnQ3aW1nb18tSzBJZTNRTXE3MktQYUVoN3owREV4U1d6OEZLZndMeUxRQjMtN0tXbkNWTGcwRkNWQmxFMkEtYkM3VDJCdFRKNllWVldDTHNmbm0wTERFdTl5bG1ma3I2aEpqMHRVMVh6Y2p4Z2xSU2NfWG5GQzduNDFfaE8yZ1YzT0E2NkZrblhMTGlDWmxMVUlKT2V0czFPenZNVmlRSnlmTUd0d2dvX3Q1cWl0OGw4STR4NnRhV3g3aDNadm96NzdKdlpjU1FSdmxURXdyS2lWZDRwa3YwMA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rahul Gandhi to campaign for 9 alliance candidates in Tiruchirappalli on April 18 - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONFNaWWJfQkdFQlZVLTdydEJtU2pkalB0dnR5NmZ2MUlTNU93ZFp5NlV1aTMwZVJBRWYwdXZjUmlxMTJtZVppdjk2ajJYVmFPVzZfTTNaT2NfM0lIbDJtT1lvTVVwbERWTlpCWkhpWFZqWk5QSUsyckdSYUM3dUNqX2IteDlXNTJaLUU1LTJlVTN3YXhwaDhZUTZ0bkt2RjJibDgzNE1NV0ZKOW1yN01xRnFkZ3NaQk03ZTk0a1RXc2pNdGZNSTF4aFdJTXIzR1djVzlKM1BfSjNfelBjQlRSMU04ci0yUl9wRk9ZWNIB-gFBVV95cUxPMmVHdUdmaXFBaGdTczYwUzJFY04wdFREXzdJS1I3OU4yYjQ4RFh3aUM4dXBsbXlRRXVUbzhubWFHcHV0REd6eDQ4WldNdElwX1U5cUFFd1NMTlpTNnFJeFhXQ3loZngzLUdqZjZUR2E0RWhZTWgwUTdmUno0S1FJTUptUDYtT3liay1zYVhUblhSOC1NNVdYZ01MZlhSc0xfdnNNblNDOEhHRHpfRU1hODFHaHNfVHdnQ2VlM05IRTZCMG1yOFdfSjRiYUVnTUY2XzZZREdmLVZtTEVHYVVEZ2FZX1pZMmRfRFBiSTM0UF9JZXlEenA3UUpn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Arun Nehru files nomination papers for Perambalur constituency - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3ZzQUFBZFdnOEw2MmdKSUVaZmwtNFdHRkpBX1BYdlRKQ1dvem9rajZKZVRDSHBIc21taExFM2JOc242LUszQ0hucmp6RTVIdkItUkdxVEtOWkFuZWhkSXNWY2pySlh4aDdHaS14akZHeUlmUXNiV1g1cVJ1NG1PdHZaSVdOenl1Y3BxSEhQaEtBRWF6X0dxTXd4N2FXcU1KMUZHU1BMTm5vNkFpOF9XakdPVHdmekhUbDI3cFRZRGlzMFpDcW9aMzBrVmZHa1XSAdYBQVVfeXFMUFZUcjVQcDRFcFNmVUlJN21IdEs2YVVJVTg2RWNkZXFSN1JkVlRNcDk0OWdjbEJ5YklNX0hjUUVSUFpZaWp4SmdlbUFhQlMwZWxka1JuaFpxM1dQQVl4VFNDZGlBR0FJU2xvQ0JqZTVrOFp5VGY5Z0M4WWFXOWU4SmlsQ09ubmRENGZycjVqemdkcUZ5VzNMUHhLT2dlSmpfUDJ2NGl0QmJIeGFfdld0SjRaa3NYTk1WaHBNcHFvN1lKUGdGY05UcktGTmlmeHozNmVsOUN5UQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN21SWlBBaloyWVdhWi1DMFdxR2lnLWV6LURjTFVzb3dDYTNydkZlZEdCeGk5VkNudjh6VnAxV3J4MEliTERvRzR1a3dweXFzWGR3TEF4Wi1BN1BXRk5wVm8tNEpwTl84dTd4dmtYUFd6eUVmRXppZDBvM0NOS2RzWjNjekRoOFZldmdkUGg2UGdpaWJZT0Z3NE1EWUEyMHhVWno3RDBSdHlZSUo4SnoxZV9ycXZlNExoV2JfWFQ1eG5zeVJZbUJXSHBsdS1GTDDSAdYBQVVfeXFMUEJ6d0pSZ1JBRDY5THE5bTZ1SFhObGFpcGJCSUpwUDRUTVpUNVlHM1Ntc1JZNDJxZ0paN0RvU21Gck9OYTU4cEwzVm9aV2UxSTRMNFBQclNkYm02ZjFsSDNFN0RldlZ1cHJoT1dqWnRPeWtxM2xXeUhTOFhRbUdrYTI5QWUyU0dOQmo3OHdaV2F5WFg4M0w1dzVsRnlCWXJhN2hFckotQ1dNSnVQcFpoZFdyM3pteUYxUWRKVUc3dXlncGVBT0lHT0RnMHRVdUpmQV9HSnlYQQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -277,30 +371,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjJPRndVUjNXZTNqTEh6S2dnTUJMWk4tWVdfcnNBWjNScUU0UzVNSkhVaTcxUHpXUHdjZjg3aTdyNmVlSmYwWEd5T2hqckhnaVJDSkdJQ0YzY0lyVmdQamdKUmlMalFRY3hYdW9GOXNSWVl1MW9rRVRoYWFpaFc2NEFwWUNRbUFYSWVMa3p2R2dqN1daeW1yWHZoTG7SAaMBQVVfeXFMUGlJOWJpMC05eXNWUVJDQ1UxVGJMQ0VVN3E3YndydjdrWFFxVW9EbmZpTUhaR2owQmJRcUVaM3kteFdzeExOU3ZpUUJSYmFfMi1QYnFxM1lxejl6b1VvTjByQVpPbkJYVVB2T2otbHI2aHZleHhiNXlMT2dzWkV6aS1abWY3b1ZCWWxkbUthTU4yTGxmckxibnQ1dnIyNVJjWTlNNA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Perambalur election results 2024 live updates: DMK's Arun Nehru wins with over 6 lakh votes - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOX0dXNFFuMlJfTU96M0w5OTRDa0xQV2RMd3Rlc2FwZktJOFF0bndLUXhNZ0N1ZHdxXzhXcDNQWHkxYk1FUXBPVFlGa3lxMHFfdzFmOGVUNGdnVEg5SGVEeF9vUkFlWWhOWXBKZG5RSXJZa20wTG1jZklHVHRrTklUdHRBZGhfU3hKR0trWnRxd1Jwa2xSM3VzQnU3eTlxdENLZ2llN0tzSXZQWnRCaHg0Wm9WV09IcmJzVThYMWFqR1ZyNUE2cmdDLXh2XzJjbTJ2ZE4tZ2lUZGo2MkxuRDFJYkQ0Y20tbjhBaGJMMlBoTlN4cXIwN3pjRTdhYzBIY0FuNHB4TVgyRWZFS2xfcTJDb2R2ZkZZbzZTVHVTU21tQ0dpVFJVejdxamFDOUlmbldIWkFvMXRQM2NhMkVReUx3WlVINWTSAcoCQVVfeXFMUFY1bTFiLW5KdUpYM21IYl9BM1A1TWdTTUhHc1JXNnAyZUgxMFgxRWh0eVZtMmwxZkJrTGlpVTRxYXVRdHExN1JfdGd0cmQwTW5vV0tjZUFGU2pjM3M2UHprei1oNmtfVkg5R2ZDLWR1ZFdBZXdVQWxQNVRDd2lvYkdQaExmczhuR3lpZGd2Z0dqMFFaUzlZcURsYmZIc3FDTTRUVzNXUzA1VkdJTmpyekJZckM1ZVZyOVQzQjQ0OTByVmJsWEN6QW5FNlRfYVgwNDVWcXJJRDBJR2gxaXo0TGpYNGF4eXdSQTdxUUQtcXBkLVhCTmVYSEdvQ01id3RyNGpTUXh1SmFMMzdnalFLdFN0b2VsWFYyU1VVZGFBMi1KZWwwZzhMbG5BNGRIMm1nMF9JZjhtaHBYSTREM2l5UmcyejBpcEliUWFn?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "DMK's Arun Nehru triumphs in Perambalur, defeats AIADMK rival by massive margin - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQWdjeEh1MEZFcXh1RjIzQkdORzFhM18zZk5iaFI4YkRSTHJhT3lwNk1HdWZPa3F6UkZPZzdFSUJzeWVfOUhTNHZKUExuMFlwMGpjQ3BRaXkzRTJmUzNrX0VRZFRTV0JQUmVFUnBRUUt2WXhGTlhPbG93VFktWEFydnEydGptUEF6X2QxUjVjbWNiRzh3cVo4dnlkWFMzYzN2bW9LbnltaU5PMjk0UGdfSXg4ejRxYndZbllOTmR1QVVPZkJGcEhrSDl6TWJiaVlXbkdSRVFRNNIB5AFBVV95cUxQY25DX0xZLWt0S2VKeG40WndkekhCQ3EybVdCdWJEbDJqRXRmREtVSWhDbHFEYWNYRjEwakN0Q2xDeEl5TzZmcGhjMHIyVGs2VTZQaVRSa0hOVXp3R1FJTG14Rk1MY0RFanFDd1M3X2RXWnpfbUc1MVV6aDBRRHYxb1ZROG1yMjRKSngzeThzV0hJbkVJQTM5cFZ0clBBdFl5ZWtSNm1qSEEwM2lKSllXNlZLUU1Vak5mRVBIQnZ0enppZXVQTFkyYW54REZtb3RFQ01qaGc0WEN1R2Fsc3Rlb3o2ZVQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Political Profile of Arun Nehru, Ind Party, Perambalur, and Net Worth - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU2FMUzFyYm52QmtBQXhPSExselB0cW9Xc2ZzZlZvbUpvYW5vMkhGYU5fcVc1bG55M3hiX0VOa0d4dEt4WHQyZk9VdmU0S3BnSjhWOTlyQmc3SFFZZG5Jc1lJbE0yWkZtRHhjeFRhRll5d1p0cWlJcVY4UEFIa1pFTk1RU3kwbWstZHRiME5DY3FMRllfQkRFQnZJZDBEQjZZU2w5WnNkZjRyaUFqMGljbWxzMkF3ajNHcGprck5iUVF0SWdCNmNSV0FTWGN2UXhQMlJoSUFpOHBwM0U?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +404,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 9,
+    "starred_questions": 2,
+    "unstarred_questions": 7,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 16.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +420,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

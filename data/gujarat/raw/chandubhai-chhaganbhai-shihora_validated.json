@@ -4,16 +4,16 @@
     "constituency": "Surendranagar",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3501,
+    "myneta_candidate_id": null,
     "slug": "chandubhai-chhaganbhai-shihora",
     "house": "lok_sabha",
     "sansad_member_id": 5617,
     "profile_url": null,
     "canonical_name": "Chandubhai Chhaganbhai Shihora",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/5617.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Surendranagar",
       "state": "gujarat",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3501,
+      "myneta_candidate_id": null,
       "slug": "chandubhai-chhaganbhai-shihora",
       "house": "lok_sabha",
       "sansad_member_id": 5617,
       "profile_url": null,
       "canonical_name": "Chandubhai Chhaganbhai Shihora",
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 61,
+      "age": null,
       "photo_url": "/mp-photos/5617.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:53.951243Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 5808789.0,
-      "liabilities": 266907.0,
-      "net_worth": 5541882.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3501",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.236132Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 5.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.21,
-      "expended": 4.5,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:59.658817Z",
-          "notes": "Official eSAKSHI REST API — Works: 209 recommended, 194 sanctioned, 65 completed"
+          "fetched_at": "2026-09-02T14:54:09.572274Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:50:21.935092Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:50:21.932146Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 209,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 30.612244897959183
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:29:47.723744Z",
+          "fetched_at": "2026-09-02T14:50:21.930978Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,29 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - C - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUW5Ha2NndUc5ZktDb2tkUzhYM0w4Y1JSaS1LTGFWaEtUTUpfRzZTUF9aRVFOWWJpUkRmdnRmLTYxNzlzaFJoVGg2cnM1TVlHVnRvVXlIUlc2TmR6QVhYMjdkbXFteVJ5ZklYRHM5SG5haGhLaVpYSjZCYk5HVXFQcmJhUS16bG8?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:30:47.265058Z",
+    "collected_at": "2026-09-02T14:54:09.573375Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +169,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.957911Z",
+          "fetched_at": "2026-09-02T18:38:05.536042Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +185,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.957919Z",
+          "fetched_at": "2026-09-02T18:38:05.536052Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.957924Z",
+          "fetched_at": "2026-09-02T18:38:05.536057Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +217,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.957928Z",
+          "fetched_at": "2026-09-02T18:38:05.536063Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +233,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.957932Z",
+          "fetched_at": "2026-09-02T18:38:05.536069Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +249,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.957936Z",
+          "fetched_at": "2026-09-02T18:38:05.536074Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.957940Z",
+          "fetched_at": "2026-09-02T18:38:05.536078Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,60 +290,53 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "@ichandushihora",
+          "url": "https://x.com/@ichandushihora",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/chandubhaishihora35/",
+          "url": "https://facebook.com/https://www.facebook.com/chandubhaishihora35/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:50:24.636574Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 8,
+      "total_articles": 1,
       "positive": 0,
       "negative": 0,
-      "neutral": 8,
+      "neutral": 1,
       "top_headlines": [
         {
-          "headline": "Political Profile of Chandubhai Chhaganbhai Shihora, Bjp Party, Surendranagar, and Net Worth - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPREhlWW9iU051aW9nVG1CcUk5X1pTYU5UWENNWU5MT0ZBZGRtNTZUM0JXZ2ZZRE5GQ2NnNXd3c3lWWWJqNWJzWjN3N1Q1Tmh4YmRZOS1vUTZlclN6WmtIcU95S3l0YjNFWE1RVEQ4VVQzcWdCS1ZVNUREc000ODdGbW51a3VrTmhDbnNxbVcwRkUyU2hfYlc1cDhfZ0I1VkVpTjJ4R0s2N0FtYS1YcXJQd3dKU0xqSkJuSUo4RThkeUtOMFZ1WmI0VkJqeHE3VFRfd2VGQ0FKQ3cxR0hxWHhLSnVLNTVhNG9HWHR2ckU0UFpJSGpPQWc?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Surendranagar Election Result 2024 LIVE Updates Highlights: Chandubhai Chhaganbhai Shihora of BJP Wins - News18",
-          "source": "News18",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONFhMV2tCMzhxNzBsZG0tNElCb3NoYnloSEdBUEQ3Nk04SUFMaFdGdEpKUjUwT0tWdlhYaDVuMzFCVXFySWw1NFJ3cTk5aUVCT1RrbE1rZFM0aDZjZGVUelcyS1d2Sko3ckZQVWh5N19rU0NXZV9GMW1wUjZHZGhHZUtJb0RqNFNoWHktQ011QjZDMjhYbTdpaEo5UUFZTmtRT3pmMlU3VDQyd05hUUFfbzc4SGhTQ3VYNFpSTHlBS0I1YTRfOFJWY2F2YmJqeXY0UzVTeDJibVEzdHZVYmxzalQ4TU9QZzBJanfSAe8BQVVfeXFMTk10emhrTzZtOXRuSE9GQklOLVJuWkpydHFoV2lqMVMxYnAwVnB5S3RPR1ZSY2xGY3JyYlV2Wko3X3dzTkotRm1aamozLVZjZWVmNUt6NFQ5bDZyN0kzSkZnZkpVcEotTDEtdmR3clFVbjBVY1dVeGFWSTdoUGdqQkF3SXNvYlNzNHRVdWFCcDNnODZMYVQ2VWN4dWw0M29aS0lkUlVzMWZRdEVXVTRmZTdXZUFlanBMRnlFTVp0UzIzMmN0WTB3dDB6OUNfVTUyUXZKcnplZGVMcWlMckdzb1dvZVgwaF9EWE90cExSSU0?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "2024 Gujarat Lok Sabha Election Results: Full list of winners on all 26 seats of Gujarat - The Indian Express",
-          "source": "The Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWJUcExBamtvWHhIS2NpblJpcjVmcFZWTk16TmFZT3N5ZTJPY0l1aE5sSzlJcndrRlpyUUo5NUExWDhRZUs4OW1wMndvSUpBUDJwc0lhdXhHYUR5R3hERHVjTWlZODF5U0pLbWI4UzM5TFJOS3hac3dBencwY2ctZmE5NnNKNVBCb2o0X1Zld1FqUmJ0ZXR3dHVKaFVOX0hzZEJLSWdPOXljUDBsTEk5YlpfNUhuaC0xdnk2SUUxdkVKSW90ZGF1RHlud03SAdMBQVVfeXFMUDhyWGFtYlgyRVY2ZWxEUnRhVVdTMjAzSEc0Y3o4eWNfQlU3STN1LWNsOTNoT0c2VE5EbHplZzhrMjVlalhFeG5ENmxKcmtYWGE2aWQ1TEZNWDUtVEM0aGE2SDMyejRINEtDWEt4cm8tSkRPZUk4WEkxNkp2TVBGWEFhb3ZkSEhqM1ZjeGhkMGdfZUlrajY2OE5KdGZIZ0Uxc25UeTRESm52TUowTU04ZTZMeEdRMkxxeDllOElyc0pDRUR5TzhVVXJrTDgyUmJON3dVZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Parliament of India : Lok Sabha Member of Parliament – C - Sarkaritel.com",
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament - C - Sarkaritel.com",
           "source": "Sarkaritel.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUW5Ha2NndUc5ZktDb2tkUzhYM0w4Y1JSaS1LTGFWaEtUTUpfRzZTUF9aRVFOWWJpUkRmdnRmLTYxNzlzaFJoVGg2cnM1TVlHVnRvVXlIUlc2TmR6QVhYMjdkbXFteVJ5ZklYRHM5SG5haGhLaVpYSjZCYk5HVXFQcmJhUS16bG8?oc=5",
           "sentiment": "neutral"
-        },
-        {
-          "headline": "BJP Releases 5th List Of 111 Candidates, Arun Govil, Kangana Ranaut, Naveen Jindal Among Nominees - ABP News",
-          "source": "ABP News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcldCdHJDRUhBVmQtV2xOZTNyUmtlSTgzb0dqMmZsZGZsQnNxQTAyaHFfVXRZYko4a0ZFTDFYVkwyaU5pR3BBRTRhUVJUQlRJVzJJZEZ5TXAwQlJnUlVkYlFWLW5WSHBSZENCdHlRWmhQZmRSV3dRTEktb3hnak1scEVacUdMYWo0WERObmg0eEpPbDVEbEtzNHByek8takVnTFlhRHNrbGVSc0RPVUlTWk43OWk3Y2F4WTMwU0FHSzV3bUpldXh6emxQVnBmNE5JQndqQ2FUZ3JPeV94RzZGVWVpVE5YcklmQlJBVEhxdXhCZEFZaDgtdNIB_gFBVV95cUxPY1YtQlNVYVJLYWlXVnhvVElEdnpzeW53Um5OM3FRQnFDTllzRjY3N3Y4S2VKQjQxeHZ6UVZBWjdxUWpTaTU5QWJhTk93ajZSY3ptMUVEeFNteHZPNVZSbWw0bmFaZXdacmNuWXNrM2NsZHdwTmdIWGJGSFdMbWJGVjlqekJwZ1BFaGNZNmxwTmJNYVJEcHo2N2hNN29DOTNnem1HTkNETzFhenc4UGdHMnphUm9JRjRJWU51UFNBcF8xMnVGX2ZEZkN2RVVWdExObFB1R2ZzRlNVMG9Kc0FzTl83Ry1RQ3ZKUXFla0U2c0FDWjJWX19PdXNZMVA3QQ?oc=5",
-          "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (8 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (1 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -352,15 +366,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 2,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 2,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 3.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +382,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +413,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +440,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Gujarat: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 5,808,789. MPLADS utilization: 30.6%. Parliament attendance: 85.0%. Questions asked: 2.",
-  "validated_at": "2026-09-02T01:36:47.958727Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.536794Z"
 }

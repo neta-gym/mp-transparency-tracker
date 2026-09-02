@@ -4,16 +4,16 @@
     "constituency": "Damoh",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1831,
+    "myneta_candidate_id": null,
     "slug": "rahul-singh-lodhi",
     "house": "lok_sabha",
     "sansad_member_id": 5689,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 40,
+    "age": null,
     "photo_url": "/mp-photos/5689.jpg"
   },
   "criminal_record": {
@@ -24,65 +24,79 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:01.501806Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 16355135.0,
-    "liabilities": 553202.0,
-    "net_worth": 15801933.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1831",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.121370Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 14.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 16.31,
-    "released": 16.31,
-    "sanctioned": 7.23,
-    "expended": 5.79,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:36.041875Z",
-        "notes": "Official eSAKSHI REST API — Works: 270 recommended, 247 sanctioned, 31 completed"
+        "fetched_at": "2026-09-02T14:31:29.421439Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:22.804403Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:22.801475Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 270,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 35.499693439607604
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
-    "attendance_percentage": 60.0,
+    "attendance_percentage": 80.0,
     "questions_asked": 0,
-    "debates_participated": 0,
+    "debates_participated": 1,
     "private_bills_introduced": 0,
     "is_minister": false,
     "source": "prs",
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:23.200302Z",
+        "fetched_at": "2026-09-02T14:27:22.800278Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Damoh election results 2024 live updates: BJP's Rahul Singh Lodhi wins - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPX19MZ3pILVdrd3JjNllrVi11MXNydk4zTDBtV1JSVUFVNGc4VzVUeG5SNG8yUW1uQ3hUMWtMOUJSckdlczMzMjdGUURGNWJrUzdoOXBYdC1FZFlLbVhqRHlTRjBYYXBpSlJ4NndocmgzREJCdl9MRkRtT1BQUjFFdE5ZSEpSZkMxeXk1VWxhM2NfaEo0Y3RaWlNIUXZWX1J2UkdiLVBsaDVqU2R3VUltRnM4RFZzSWZ4eDhQdTBJUEhXdEJuTldWVkEyVzE1Tm13V3V2T0w1VGs4dk96dURPcVNyLTJ5Z2lyS3EtYkVnZkx4UXpmTjZtMXRNaHItQXFoRUFRa29wZTF0T1ZJc2k0UDFwNjJmRzc0OUlPSUxRWEtpNlFUZmNZOEh3cFZ1cHllc2Z5eEdOcDRhQ2RYMHBhaGszUDVMNzVvZEHSAc8CQVVfeXFMUDZEWHBScWxZb1VMX3VYTzZibkU1UFZJdVJvWndpNmNCTFl1SUZSblkyQm9CR1JfY3FFVlc2REJvV2hreV9MTEhTSTQxbTl0aEx3enZFYzNRZElyemloR0wwUmJFanRXeXoyUEQwa2p2MjV1bnh0bHpTZTJJSTlRSTZadHo1LVJic1kxOFkwZGpVOXFES3BKdkpJUUhHQVlHZ002ZWl5ZEtBT0VwZ1N3OU1KZ3UwcWdCSG4taWxiX1REMUtDa0NYUEQ3S0xrYWRyaFhXcDBER2IwY1J2Wmg1c1h4RTY3YWFWaS14T3dlNEtfTWtGTGE5YkNSOVV4SXJXSEZ5X3NvdnRWY1pPMzFteXZXdnlaaktZWkRJdEI0YUNBWmZyS182Tm9zcDE3cVEyaUFwSDhNbGEybnN5cWpZUDlPZk94bjI4WU1YQ0VzeEk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Party changers | Shifting hues - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNnNMWGZVN0ZkSnVOUXdDMzJsTm5GRDREUEJoZ1Y4LVVnNmNEQWxqaUtfaEg2ZWh5Tk1MY2JNclEyU2l6ZThDdTcwdDRYR3NmSWJfdy1jdU5QcEloWGpZenB2emxLd1FmYnRUZ0xraTlJWmFoTEM4RFJIR2dvRDZqRENyN25HZ3dYajFjRG5hRk1XcVE3cHFEMHBmTTMtc1hyaUJ3V01NdDV4N2pYT3AtTkRfT1VBV1ZuVHY1RTkyMVJPeGtWYXd6TG9FMmxFeGZEUDFUWNIB2gFBVV95cUxOa2ZJSzdCQUViZVhGaGdzSnh2UTRNRnRIbHpmeElaeXlrVDJ3bXY0ZXdZb0RmVXRNODRkV2dfVzZkQmFvd0tFd2ZSVGhWMXhPYlYzSnU4NTFRRGFjX0xJeG9KUGQ3U0RmTmxLdnI2ODdVczJURklVTFNJNEo1RVpoTW1sc1YtZ01IeWtNVEZMT2Z4T25oVW1XcUxFaFZUNUlaMFZmRk55U3dkaHZFNWJhN1dmU2NWeWxPSTc2UENrdEpJQkhDVlVKS0EzQnZaeU94TFdhYTl0Q1RnQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Know Your Turncoats, Part 6: 20 defectors in Phase 2, including 7 who shifted from Cong to BJP - Newslaundry",
+      "source": "Newslaundry",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX1l5Z1VRVGZVQmVxMUpJSXhtbDJQTll6Vkt0eWFQN2tFSzd4TkczRU1WdG9RSGtoTk9FeENXdWsyemlXdmdPajEyVVRCSnBEcFo1Z0RrMjZNdGE2M1BKZGRFUUkzaTFtYWd3MjdRWklFMU9rdUN5OEhYUFI1bDdIVU1GU1VtaFNac3NEbUkzMGN4d0Q3dUNPUjZoaWJhc2tQQjZOTDQyQUtObmhJZXhQMmJXV2d0Y3ZhYW8tQjBPSHhwSUpBTzJYZGJR0gHfAUFVX3lxTE5EN2p2b3JOY2dId1pUNlRqVDU2TkUydjljLTR0TDlfRG1HS2NWTGVyajRJTGpZdkRFMGNCTjkxUjA5WUt0VUZIWDFxc0tWcWRZYXVfOS03SzRSb1U2b0s2emRybkZkRkFPZFRqT0E1bzlkdTh3clhoX0hNdjlfeVoxOXBXbnNmb3hwU0hCWGpSTElXVjBHRlRweG9jZndCNC1ZcklrYWVndnN4Skx0SXQtMHZlMWtxUm5DTUZEUDNHV0dJeVBESHFDbndOZzNUTUxIZ01TVk9ZUXNEZWRSVEU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bolt from the blue: MP Congress MLA Rahul Singh quits party to join BJP ahead of crucial bypolls - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ0loN2JjbWFqWUlsZnlRbkZ6MFBMMzlFRFNxbjVEamJLYnBMVTBHZUNnalpPVU8xcml1M25WNy14UFZTSEMtbEkySVBUSk0xV3FxSFFxQkZfRGFKR3R6ZURVVlhBeC1OZWdGM1ByVGVHOHJQZG44TmlrSjh4c1lHWVFRbmlYTzhWcDdVbnNuX1FkM0xtWTRoMkF3WFRSZ2kzdEdhanBpZTIwSnRnTkRoRHpQWVhzMjFsdUFGWXFNZkNjYmNXV2RuSE5OaURPYS1hVHphVFVSby1fbjJ0SV92VzU4bHkxbHd1ZFBvYjJFRkzSAf4BQVVfeXFMT0otcGNwdk9IS25Lb1pBRGlBS0tKYTFuOG9QMGNFb2g5ck1Ec0REaUJjOTI0X3p3RDJRLTBOU0hCRjQwdmxUR2xsZGx6OVFqbjdRRHpUMGpubWJmZnVtekp6WmpoZk1KdEk1b200eG4xOEdSMlFWSUgxWWFsWHh1aHcxUG43VVc4QlBDS1MzTEt5ejgySUxFRXpkaVF3em1wRERVd1RHZ1ExNXNjQzB2RFJPMElWQUtua09jeVRMNURlNGJPNExXc2xpNjkzeFlRWWppYkxPMFlKWldRNWtWR1c4bThWQnJ2ZG5UT2hURXRWeC1tTFgwTmxMNTlzZWc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MLA highlights OBC Chief Ministers under BJP rule: MP's Lodhi Community eyes political power after cast... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbjQ0OG51UVRnd3A5THp2NUtNdFZ0bGVoTV81ejRQbVV4eTVmUkxiX1BKdHgzWEpRbXdDXzZBRlp0R2plOVNFNmd5TW9FSkZCOFRydTlvUFQ5UUpjakJsQV95QVpVTFNHU3I4eWFPUUVsVXQ0NzktNVQweDJXQ3d1aGxBQjI0dDhqMnQtWVhqY2pQWmNwcVY1TWtIZHFWRVdIV1h4b3JCVGVxU1EyM09tdlZvMXBVemJjVEk3UGZ3emk5S3JReHJ2d2g5T00zMzI4dzNGT09BUGxQOWRUaUZ6SEM0a2NHazNsUlYxNzNmVjlZMjNlVTNFbEptVVVBTHPSAYQCQVVfeXFMT1RvZWxaRVVLeHRTSWZTOE5iSGExNWxTMnc0dHBjRmNfOGYtYU1TRWZIWkdpLWNybVVKZ1JVNzNiVjRqcl9NS1N3U0gwUHl0ZEM2RDI5T1JGVGRfNFFpQXZ4MTZvRjJJUlhGTEpYVWhsbnJQbXBnb1hPRlJDV2R0UGtROThqbUpNZnUwY2o5ZWMzQlA1d3hIUFZ0dDEwM3hpc052X0NkdWdSV1Jfd25IMFFWS05PUVdYS2l2MDE4ZWNlemJMUkF5UjhWcGRNcHY2b1ZDYjB0UFp5bzJ4SGZvZlJId2pPWkxvWGVFU19uNGZBWENmQ2dKQmZ3LVctMlBPMW5LSWk?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:24.025914Z",
+  "collected_at": "2026-09-02T14:31:29.423271Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.992270Z",
+        "fetched_at": "2026-09-02T18:38:07.488919Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.992312Z",
+        "fetched_at": "2026-09-02T18:38:07.488931Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.992318Z",
+        "fetched_at": "2026-09-02T18:38:07.488936Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.992322Z",
+        "fetched_at": "2026-09-02T18:38:07.488941Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.992327Z",
+        "fetched_at": "2026-09-02T18:38:07.488947Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.992332Z",
+        "fetched_at": "2026-09-02T18:38:07.488952Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.992336Z",
+        "fetched_at": "2026-09-02T18:38:07.488957Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.992340Z",
+        "fetched_at": "2026-09-02T18:38:07.488961Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,11 +320,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/rahulsinghdmo?lang=en",
+        "url": "https://x.com/https://x.com/rahulsinghdmo?lang=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/RahulSinghMPWLC/",
+        "url": "https://facebook.com/https://www.facebook.com/RahulSinghMPWLC/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "rahulsinghdmo",
+        "url": "https://instagram.com/rahulsinghdmo",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:27:50.970917Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -280,27 +366,35 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Rahul Singh Lodhi , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-        "source": "The Hindu",
+        "headline": "Damoh election results 2024 live updates: BJP's Rahul Singh Lodhi wins - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2hyZHB5VlhuOEkxYkZOV2xkaUp5ZjZEZnM2Z2RpRUN3TGhuRDBGaVVKNDFCSjNYVWR5VTg2UUd1YXJzTUFGbFR6cnYzcUhMWnU0MjczTE9xR0hhLWVTTFE5cnN0SEk3T2Q1d3gzQTQ3bFBkSFREdlp2MWVuRWJRbjN5N2FFSDJMaVE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPX19MZ3pILVdrd3JjNllrVi11MXNydk4zTDBtV1JSVUFVNGc4VzVUeG5SNG8yUW1uQ3hUMWtMOUJSckdlczMzMjdGUURGNWJrUzdoOXBYdC1FZFlLbVhqRHlTRjBYYXBpSlJ4NndocmgzREJCdl9MRkRtT1BQUjFFdE5ZSEpSZkMxeXk1VWxhM2NfaEo0Y3RaWlNIUXZWX1J2UkdiLVBsaDVqU2R3VUltRnM4RFZzSWZ4eDhQdTBJUEhXdEJuTldWVkEyVzE1Tm13V3V2T0w1VGs4dk96dURPcVNyLTJ5Z2lyS3EtYkVnZkx4UXpmTjZtMXRNaHItQXFoRUFRa29wZTF0T1ZJc2k0UDFwNjJmRzc0OUlPSUxRWEtpNlFUZmNZOEh3cFZ1cHllc2Z5eEdOcDRhQ2RYMHBhaGszUDVMNzVvZEHSAc8CQVVfeXFMUDZEWHBScWxZb1VMX3VYTzZibkU1UFZJdVJvWndpNmNCTFl1SUZSblkyQm9CR1JfY3FFVlc2REJvV2hreV9MTEhTSTQxbTl0aEx3enZFYzNRZElyemloR0wwUmJFanRXeXoyUEQwa2p2MjV1bnh0bHpTZTJJSTlRSTZadHo1LVJic1kxOFkwZGpVOXFES3BKdkpJUUhHQVlHZ002ZWl5ZEtBT0VwZ1N3OU1KZ3UwcWdCSG4taWxiX1REMUtDa0NYUEQ3S0xrYWRyaFhXcDBER2IwY1J2Wmg1c1h4RTY3YWFWaS14T3dlNEtfTWtGTGE5YkNSOVV4SXJXSEZ5X3NvdnRWY1pPMzFteXZXdnlaaktZWkRJdEI0YUNBWmZyS182Tm9zcDE3cVEyaUFwSDhNbGEybnN5cWpZUDlPZk94bjI4WU1YQ0VzeEk?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP: Congress MLA Rahul Singh Lodhi joins BJP - The Times of India",
-        "source": "The Times of India",
+        "headline": "Party changers | Shifting hues - India Today",
+        "source": "India Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTM3bEp6OEcxUHpiUnFXSk10NEw0LU5rUENOVk9DVi04Y05lVUcyQnBYT0FHWDNwNHJHZ0xGTFNEOF9YMjR2NTZOVFJHaFZkd1ZXZ1BJU3dkQ1FRaVNMVVRUMVIyRUVVQWQ4aU0tWENoOElaMy05SzRBeTlTdk5rdi0yUFBPeXItVDg4TXBJYTNwazA4VUdqbGJSeVlIS0xXU3BSRnJDRDJUY1oyblhxdnEwa9IBuAFBVV95cUxOVmVJeXp6bVdZbWZuQ2UxSkdvQUlYbkNRUnFGaFhvMG1laldJTGx1STBOMWd1QWNuTm56dW5fV1dSdUVBTjlrc0pLY3d0aFA1ckJnRWtEUWtTcHV1WXZUU2NkaGUzNHBlTzV3UVExWXAzMV8xcWtQaGM4Mnh5Y2RSa1p5UTRiN3RWeFJxYXVPT2FqdlNnSkt4WGlVVlA0R05USk5MM2lINExZaThkYmd4QUZ3VGxaaWxr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNnNMWGZVN0ZkSnVOUXdDMzJsTm5GRDREUEJoZ1Y4LVVnNmNEQWxqaUtfaEg2ZWh5Tk1MY2JNclEyU2l6ZThDdTcwdDRYR3NmSWJfdy1jdU5QcEloWGpZenB2emxLd1FmYnRUZ0xraTlJWmFoTEM4RFJIR2dvRDZqRENyN25HZ3dYajFjRG5hRk1XcVE3cHFEMHBmTTMtc1hyaUJ3V01NdDV4N2pYT3AtTkRfT1VBV1ZuVHY1RTkyMVJPeGtWYXd6TG9FMmxFeGZEUDFUWNIB2gFBVV95cUxOa2ZJSzdCQUViZVhGaGdzSnh2UTRNRnRIbHpmeElaeXlrVDJ3bXY0ZXdZb0RmVXRNODRkV2dfVzZkQmFvd0tFd2ZSVGhWMXhPYlYzSnU4NTFRRGFjX0xJeG9KUGQ3U0RmTmxLdnI2ODdVczJURklVTFNJNEo1RVpoTW1sc1YtZ01IeWtNVEZMT2Z4T25oVW1XcUxFaFZUNUlaMFZmRk55U3dkaHZFNWJhN1dmU2NWeWxPSTc2UENrdEpJQkhDVlVKS0EzQnZaeU94TFdhYTl0Q1RnQQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Nohleshwar Mahotsav is Celebration of Faith, Culture, Tradition and Social Harmony: CM Dr. Yadav - Department Of Public Relations,M.P.",
-        "source": "Department Of Public Relations,M.P.",
+        "headline": "Know Your Turncoats, Part 6: 20 defectors in Phase 2, including 7 who shifted from Cong to BJP - Newslaundry",
+        "source": "Newslaundry",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQN0RORFRhMXgtUnAtNG95QmxZbXpFRjVVSXNBQTdqTENGMG5MZ2RyeS1fM0RXRFY1Tkc0aWs2VjFzbGhMZnVZTnZVc0NpRGYxNHd0dERKZVZxeUdQUkRkQWlTZ25FOTBWVFJoZkhEWGZ3bTFxNzBzdC1mMEc4ajFOTzdYWkhhOVA3UEFQZ2JfWGs0RFVTcTVjUWhuYUVyZU9jdWVGeTMyU3NJZGZJSXJRUmgtR2YwSHBTbUFvbE5aMG9QUy1BbFhsZ1ZKRTFKbmpZQWNFWk04VVFpLUItdGVIeXk3Z2RfdUhBNVo1TVUzWWFfTDB4WTRrSy1QeDBES29EZUstMG9NRHRtNFNVMGRnM1VRUGVhWmI2bXBzc1FzX2pOUExmNmhNU2g4NDNMOHBNWDl5eVd6Q2xybmJCRG1XOENnS0Q?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX1l5Z1VRVGZVQmVxMUpJSXhtbDJQTll6Vkt0eWFQN2tFSzd4TkczRU1WdG9RSGtoTk9FeENXdWsyemlXdmdPajEyVVRCSnBEcFo1Z0RrMjZNdGE2M1BKZGRFUUkzaTFtYWd3MjdRWklFMU9rdUN5OEhYUFI1bDdIVU1GU1VtaFNac3NEbUkzMGN4d0Q3dUNPUjZoaWJhc2tQQjZOTDQyQUtObmhJZXhQMmJXV2d0Y3ZhYW8tQjBPSHhwSUpBTzJYZGJR0gHfAUFVX3lxTE5EN2p2b3JOY2dId1pUNlRqVDU2TkUydjljLTR0TDlfRG1HS2NWTGVyajRJTGpZdkRFMGNCTjkxUjA5WUt0VUZIWDFxc0tWcWRZYXVfOS03SzRSb1U2b0s2emRybkZkRkFPZFRqT0E1bzlkdTh3clhoX0hNdjlfeVoxOXBXbnNmb3hwU0hCWGpSTElXVjBHRlRweG9jZndCNC1ZcklrYWVndnN4Skx0SXQtMHZlMWtxUm5DTUZEUDNHV0dJeVBESHFDbndOZzNUTUxIZ01TVk9ZUXNEZWRSVEU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bolt from the blue: MP Congress MLA Rahul Singh quits party to join BJP ahead of crucial bypolls - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ0loN2JjbWFqWUlsZnlRbkZ6MFBMMzlFRFNxbjVEamJLYnBMVTBHZUNnalpPVU8xcml1M25WNy14UFZTSEMtbEkySVBUSk0xV3FxSFFxQkZfRGFKR3R6ZURVVlhBeC1OZWdGM1ByVGVHOHJQZG44TmlrSjh4c1lHWVFRbmlYTzhWcDdVbnNuX1FkM0xtWTRoMkF3WFRSZ2kzdEdhanBpZTIwSnRnTkRoRHpQWVhzMjFsdUFGWXFNZkNjYmNXV2RuSE5OaURPYS1hVHphVFVSby1fbjJ0SV92VzU4bHkxbHd1ZFBvYjJFRkzSAf4BQVVfeXFMT0otcGNwdk9IS25Lb1pBRGlBS0tKYTFuOG9QMGNFb2g5ck1Ec0REaUJjOTI0X3p3RDJRLTBOU0hCRjQwdmxUR2xsZGx6OVFqbjdRRHpUMGpubWJmZnVtekp6WmpoZk1KdEk1b200eG4xOEdSMlFWSUgxWWFsWHh1aHcxUG43VVc4QlBDS1MzTEt5ejgySUxFRXpkaVF3em1wRERVd1RHZ1ExNXNjQzB2RFJPMElWQUtua09jeVRMNURlNGJPNExXc2xpNjkzeFlRWWppYkxPMFlKWldRNWtWR1c4bThWQnJ2ZG5UT2hURXRWeC1tTFgwTmxMNTlzZWc?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -309,14 +403,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbjQ0OG51UVRnd3A5THp2NUtNdFZ0bGVoTV81ejRQbVV4eTVmUkxiX1BKdHgzWEpRbXdDXzZBRlp0R2plOVNFNmd5TW9FSkZCOFRydTlvUFQ5UUpjakJsQV95QVpVTFNHU3I4eWFPUUVsVXQ0NzktNVQweDJXQ3d1aGxBQjI0dDhqMnQtWVhqY2pQWmNwcVY1TWtIZHFWRVdIV1h4b3JCVGVxU1EyM09tdlZvMXBVemJjVEk3UGZ3emk5S3JReHJ2d2g5T00zMzI4dzNGT09BUGxQOWRUaUZ6SEM0a2NHazNsUlYxNzNmVjlZMjNlVTNFbEptVVVBTHPSAYQCQVVfeXFMT1RvZWxaRVVLeHRTSWZTOE5iSGExNWxTMnc0dHBjRmNfOGYtYU1TRWZIWkdpLWNybVVKZ1JVNzNiVjRqcl9NS1N3U0gwUHl0ZEM2RDI5T1JGVGRfNFFpQXZ4MTZvRjJJUlhGTEpYVWhsbnJQbXBnb1hPRlJDV2R0UGtROThqbUpNZnUwY2o5ZWMzQlA1d3hIUFZ0dDEwM3hpc052X0NkdWdSV1Jfd25IMFFWS05PUVdYS2l2MDE4ZWNlemJMUkF5UjhWcGRNcHY2b1ZDYjB0UFp5bzJ4SGZvZlJId2pPWkxvWGVFU19uNGZBWENmQ2dKQmZ3LVctMlBPMW5LSWk?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Damoh Election Result 2024 LIVE Updates Highlights: Rahul Singh Lodhi of BJP Wins - News18",
-        "source": "News18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFQtWUJsR0Z0V2ZQY3NVRlREaEluY05wMXhTdjdSc2EzMm1qSi0waDBZRmtnU1ltSmpUSWt6cnFQQ0oxWW1QNFBYV1I5UWQ3QUlHc21DNHFKa3ZkOVVFMnVLUF9UVHY2SVVrTzRISm5RQ0tDWkZBTnlhSTRRcUtyUjhadnRfYXRJVzF0QmlXTkZlblFlYnRGT2tmRjctOG9veW12ckktYnNGTEltb2oxNEg5cU5wbmd0dkh3OFFaVkE2Vi13OVNrUU1MMHJqSHJDb3E4dWpZOFhvb0N4MG4w0gHkAUFVX3lxTFBnODNEUXlEVUJFOTRKZDM3NnFVVUg0cUF3RklpWlNoeUN3R2pGZ1czdllSSjg2RmRsaDVzek9VVkczWEkxZTgtZzMxejRCeHpHQk0zaGtUQTN6RFZORG5JZlRjaDVNd0hhMEJGNmhUT21KcVdNSl9Vb1lrVm42SkVtRER1TmphcHVpVl9QcU9DNjBIaXc2ZVpJU2Fmaml5eTU1c3o4SUNQRVpDYjgtSU9QTllETWYyRThlak03b3dZS2ZmS0h1OU10d1hYczdKWE5Ba1UySDVWbXl2VzllelAzd29DYw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -366,17 +452,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

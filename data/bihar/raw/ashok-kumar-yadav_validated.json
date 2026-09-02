@@ -4,16 +4,16 @@
     "constituency": "Madhubani",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7565,
+    "myneta_candidate_id": null,
     "slug": "ashok-kumar-yadav",
     "house": "lok_sabha",
     "sansad_member_id": 5217,
     "profile_url": null,
     "canonical_name": "Ashok Kumar Yadav",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 52,
+    "age": null,
     "photo_url": "/mp-photos/5217.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Madhubani",
       "state": "bihar",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 7565,
+      "myneta_candidate_id": null,
       "slug": "ashok-kumar-yadav",
       "house": "lok_sabha",
       "sansad_member_id": 5217,
       "profile_url": null,
       "canonical_name": "Ashok Kumar Yadav",
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 52,
+      "age": null,
       "photo_url": "/mp-photos/5217.jpg"
     },
     "criminal_record": {
@@ -42,73 +42,79 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7565",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.771284Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:33:17.408894Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 1472000.0,
-      "liabilities": 0.0,
-      "net_worth": 1472000.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7565",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.771299Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 1.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.76,
-      "expended": 4.71,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:20:34.271787Z",
-          "notes": "Official eSAKSHI REST API — Works: 171 recommended, 82 sanctioned, 77 completed"
+          "fetched_at": "2026-09-02T15:21:45.751629Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:18:06.039140Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:18:06.037206Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 171,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 32.04081632653061
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
-      "attendance_percentage": 100.0,
-      "questions_asked": 18,
-      "debates_participated": 9,
+      "attendance_percentage": 95.0,
+      "questions_asked": 1,
+      "debates_participated": 0,
       "private_bills_introduced": 0,
       "is_minister": false,
       "source": "prs",
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:36:56.442968Z",
+          "fetched_at": "2026-09-02T15:18:06.036395Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "BJP MP Ashok Yadav's son found after 32 hours: Law student Vibhuti had left home alone without informing; m... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZE1zZ2gtd1NRYnpYWUJTQWF2V3BpVW9TS3VzUzZFempnUUxyaUFsOTBFT3dmMVRkMUZwLXEwOHY3dXpoanJFUnhWdDdMN1J6aUpkUzQ3OWRFQVFkTmdkM1Yyd1JsR3hSYmFaV0dVaUpoMUQycHlaMkZZWjZvYlNqbWpPT2Rpc3RPRGlPYUxtN2xlYmJPTnU5VUFLc1pmVHhRUXNrRWxsb1djakk4d1pwN3BrZUFDX3ZHS256dk1mQzZhMVA4LUU3OVBqMTIzNm9iaUM5UHgzUUlSV0UtWWNPTERaVG9QOHBPM1BTWmtBV0liTkQwc0pZQkNoc9IBgAJBVV95cUxOaVJvYkdCSGxVa0hsNFRydGIzNVlka19ZU1RzUy1QTHVqY3dnckpnU2JvUGpMbXBDc1dUREFWZzhRUThQQVlCZVczV2JHc0dfQV9XajQyVUlzcGdDcW85TDdHQTc4Vmo4Q0pHWkI5WXMzaks3bnZRX2FEMWVVQWtYQ1J0enlsVlZCajN2TEZUbjN0UU1DMXJMYkZvTzVfd2FkaEg5U01JcmRPN1dVbkthZnA1M1UxY0RFZ1BmWVc3Ui1TeDdFQU5zNHJQU29xZ3IxRFdxeXZMOEpPckJ6VFBiSldyX1JOaThiVmhRSmJEVnNVYkZicG1yYWVVWTVfZlBJ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ashok Kumar Yadav , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWlsT3Z1Wk1VOFJ6azl2VU8yZ3kzUGhwc0xDNUJWZkg4aHltNnI0d3lYdjhrVXE5Y0N5TWxYSXVHZTBfT1pyaTk5R1lNejkwenJyRmhYQXRDQUJ2ckRfZ3p2Q0Y3OHQ4LU05QnJtelBNd3hMSFh5LXRTb0FTWDNnSC1SUk53bGZXMnc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "From Welfare to Expulsion: Bihar’s MCC period rhetoric turns citizenship into a campaign weapon - SabrangIndia",
+        "source": "SabrangIndia",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3NLNENYNmIzY0xrbHVFRFN5d0drdkZkT1ItNkE0RnE0NXJvc2pGS2tHNjFKcENZaloycVBzRkxVek9lSFV3c25lWXRJMWRZcFY0SVFhWXRCd3NMcW1IYzdDblZSSjQwdXZxMXRjbnF4NW4tQWdYVmNvMVhFQzNKbVMtdUplRG13MnJNNVZKNnBsMkNsTVJXNWNSc3ZfNlBDd1RyM1ZsMnhTYlJEcEEtU1ZaVTlkblhXRnc?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Madhubani MP’s missing son found in Darbhanga - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0YzT3NfT3RlSFRVUUVETnFiSHkzS2VrT3l0LTdEZDRvQ0RVZXlIX1hjd2Y1THplTEl0Qll0V3NnNFZ1UEdyMUVNbUtzSDJKNmFuazdxRUNheGt4OHpBUldIUXJuSXVualFDUWZwWUgybkdvR3dkN0c2c2JFVjZ3R2VYYlloaXBmcEJYMFJ6by1QNEZLWUZnZk1Sa2ZINi1QSmE3ZW9FRkFPWTNzYVA1Rm12RXRTbmJr0gG-AUFVX3lxTE9PS1BZMDdUT1hmRW1mSDlQUFJiTUx3MkktdHFKeWUwLUpwR0tkM2RlVG5HRGs3Qks1WHlxazNfUW5NMkxBNG9wYm1rdi14UE9ZVDRfNDRXM0lMbnFBZ1RvUk40bGwxSml2LUJGLTZkZ1RHblhzM0tvUUhuaWZtck1qdWlNdEJDU0d4RjI4b01TYk9icDNhZEVZamYxMVZWQzBJOWh0T1dvUGgxangtbDNLSnZnN1B5bmU2U3pObUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - Y - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWlSZWRWV042UktkTUlsTnhFN09FR0g4Mk9EczZxTEFocE1IbTlIUUZXQUxoLXJsaGZSOHh5Yzkyb1VwRjBDSVRNX01rakFTZEhVNjljcjJBVVQ1QjhGbEp1VjQ4THhHdnNvazdqT082RTJib19Hc1I4LWV2N0g2czFMSkJaR1U?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:37:49.386140Z",
+    "collected_at": "2026-09-02T15:21:45.752372Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.017195Z",
+          "fetched_at": "2026-09-02T18:38:04.473107Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.017205Z",
+          "fetched_at": "2026-09-02T18:38:04.473118Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.017210Z",
+          "fetched_at": "2026-09-02T18:38:04.473153Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.017215Z",
+          "fetched_at": "2026-09-02T18:38:04.473160Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.017220Z",
+          "fetched_at": "2026-09-02T18:38:04.473165Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.017225Z",
+          "fetched_at": "2026-09-02T18:38:04.473171Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.017229Z",
+          "fetched_at": "2026-09-02T18:38:04.473176Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -268,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.017233Z",
+          "fetched_at": "2026-09-02T18:38:04.473181Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -293,26 +338,51 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "ashokyadavmp",
+          "url": "https://x.com/ashokyadavmp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "mpashokyadavofficial",
+          "url": "https://facebook.com/mpashokyadavofficial",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "drashokkumaryadavofficial",
+          "url": "https://instagram.com/drashokkumaryadavofficial",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:18:08.332749Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 2,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 8,
       "top_headlines": [
-        {
-          "headline": "Mithila art hub Jitwarpur to be developed as craft village - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWh3dnVvWld6RTNtekI0b3dWSk84MlpPOGpDcEQtcnhRMmJUekJVeVZER2J1N25ETndkWXRnOE1PbEtDQVc5by1jZkZIUVQzeER5MTdtUk05bFdhNkEySUJ2TW1Xc1c0a0c2YmNlR1R2RHpPM2NHZnZIWjZBZ0xKVG1Od0dwLUliUVI5WGJGWnhpeFFRcUtQVEJhVHl5dGVrTXFRaXlBUzgxem14Q0tyTE5Na1lJaTZLelNQR0pUeHVkY2JLTW9aNVJUNNIB0AFBVV95cUxPb1JiVGYxMDY2QU9seFlvalAzRzBjcjVGdUpya1J0RTJ5Q3JvMDFYLUpZdFBoV0p3TGRvam5ZMHZGM1FpTnkyVGNoMzNoZDZ0eUVReEE1NjBFTS1SMW5haHdnOGk3ZVJCNjFiV21ia2Z1aEs2NGpFVi11cEZyTHB2WlU4QmJ3c1JNb3dxQTU4NnhtOUxMYllOTUx0WlBrcVIxQWxRSVE3aU96QVZYUzRLZmZGcEhiSVAyWUNPcHRhaXYyMjhFQk92QXhpOHVBVWxN?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "BJP MP Ashok Yadav's son found after 32 hours: Law student Vibhuti had left home alone without informing; m... - Bhaskar English",
           "source": "Bhaskar English",
@@ -322,27 +392,35 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP MP Ashok Kumar Yadav arrives in Parliament wearing traditional Madhubani stole, cap - ANI News",
-          "source": "ANI News",
+          "headline": "Ashok Kumar Yadav , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNk81b2lFdkpTazloblAyVjBMUEtaamZMejI1eWJKMElkSDZnMmM0RVp5dUxSenVRWHE5UkRsQUdlUzc5Z2FPS3l1VUYteGZaeVNVQWRjc3RUa1N2Mnh4aVpXeHlSLW9DUjNWc2JwV2hFZHMtMHQyNVJmRzQ5TTVvNHRaUzJ6bmJsNl9zbVp5b2VxQTNKMnRkWE82MTctVXN5eUpnY1lVcWR2Y2s4aE1ReGhVSlhURmE1czlqNTNsQXNGLXluMXBsQTZ0TzJVQ08wN3BJQldNNGpyaUM4WkFz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWlsT3Z1Wk1VOFJ6azl2VU8yZ3kzUGhwc0xDNUJWZkg4aHltNnI0d3lYdjhrVXE5Y0N5TWxYSXVHZTBfT1pyaTk5R1lNejkwenJyRmhYQXRDQUJ2ckRfZ3p2Q0Y3OHQ4LU05QnJtelBNd3hMSFh5LXRTb0FTWDNnSC1SUk53bGZXMnc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Madhubani Lok Sabha Election Results 2019 Bihar: BJP's Ashok Yadav wins with 61.83% votes - DNA India",
-          "source": "DNA India",
+          "headline": "From Welfare to Expulsion: Bihar’s MCC period rhetoric turns citizenship into a campaign weapon - SabrangIndia",
+          "source": "SabrangIndia",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQck5YSW5xSEMyN3dOSlJHa3gyTFZtMTd4Y2g1aGRCaTRGdENUX0taSGFfcTJ0dE9rYWZldjcyRm5jZ2hQeHhBWXB1TjVlby0waG13UXBQRlE2VDVaQVdpZnFHekN3SUprdGZVaXl1U1BWN1lLQUllWUM2bTZtakZtX1ZYaG9yMVhLQVFacGN6OTJGU0tZWm16RWZuT29zeXFUbkhXRTU1SkI5a0pBRTJfVGFlWEdwTGhHNkd0SVYxelNRZG9pb09pYjBRYjXSAdIBQVVfeXFMTjhuYTZuQ2VXLUR4S09ubjBlcl9GMWQxWWtzRk5ZVGgyRTlEc0l1N0FJOE1ENFRPOWxIY1ItV2dCTVptbVdqbHNUQmo3NlRsNXJzOHFJV3ctdnBJbUZIeXFiMDZvZGR5amhIdnZfeDhqYmJsbTdGN2pKVVJ5SWFuT19DSTQ3NUVMVEU5Z1JiNlJtZWVEV3daQ0U3Z2Q2S3NJYmhKb003aGJmUWZGSTZLTkVsZEdFNzYtX3JsSUFzbmpXd1FXT0tMLThrYUIxOGVBcEtB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3NLNENYNmIzY0xrbHVFRFN5d0drdkZkT1ItNkE0RnE0NXJvc2pGS2tHNjFKcENZaloycVBzRkxVek9lSFV3c25lWXRJMWRZcFY0SVFhWXRCd3NMcW1IYzdDblZSSjQwdXZxMXRjbnF4NW4tQWdYVmNvMVhFQzNKbVMtdUplRG13MnJNNVZKNnBsMkNsTVJXNWNSc3ZfNlBDd1RyM1ZsMnhTYlJEcEEtU1ZaVTlkblhXRnc?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "Madhubani MP’s missing son found in Darbhanga - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0YzT3NfT3RlSFRVUUVETnFiSHkzS2VrT3l0LTdEZDRvQ0RVZXlIX1hjd2Y1THplTEl0Qll0V3NnNFZ1UEdyMUVNbUtzSDJKNmFuazdxRUNheGt4OHpBUldIUXJuSXVualFDUWZwWUgybkdvR3dkN0c2c2JFVjZ3R2VYYlloaXBmcEJYMFJ6by1QNEZLWUZnZk1Sa2ZINi1QSmE3ZW9FRkFPWTNzYVA1Rm12RXRTbmJr0gG-AUFVX3lxTE9PS1BZMDdUT1hmRW1mSDlQUFJiTUx3MkktdHFKeWUwLUpwR0tkM2RlVG5HRGs3Qks1WHlxazNfUW5NMkxBNG9wYm1rdi14UE9ZVDRfNDRXM0lMbnFBZ1RvUk40bGwxSml2LUJGLTZkZ1RHblhzM0tvUUhuaWZtck1qdWlNdEJDU0d4RjI4b01TYk9icDNhZEVZamYxMVZWQzBJOWh0T1dvUGgxangtbDNLSnZnN1B5bmU2U3pObUE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP MP Ashok Yadav’s Son Vibhuti Kumar Yadav Found After 32 Hours of Disappearance - Patna Press",
-          "source": "Patna Press",
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament - Y - Sarkaritel.com",
+          "source": "Sarkaritel.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHJfXy1lWXVmLVZhSW5ya204VWMxT2JGNkhtX2ZJYVhMZnF0bWVrRDU2WUlpb29xQnVBM1c1bnVuWU1WcjJLVElHWWlmWVhiYnpNeERjd0FadGlrSy1TeHpoX1lHd3UzODV4X1h2LTg1ODBfSGdkXzl0WEtHLVdLbUtITFRNRktUZGFFdjJ2WWloeG5LU05UdDA4amRYWHdUVFl5MGNja04?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWlSZWRWV042UktkTUlsTnhFN09FR0g4Mk9EczZxTEFocE1IbTlIUUZXQUxoLXJsaGZSOHh5Yzkyb1VwRjBDSVRNX01rakFTZEhVNjljcjJBVVQ1QjhGbEp1VjQ4THhHdnNvazdqT082RTJib19Hc1I4LWV2N0g2czFMSkJaR1U?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -376,15 +454,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 1,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 1,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 1.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -392,17 +470,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -423,8 +501,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -438,12 +528,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 1,472,000. MPLADS utilization: 32.0%. Parliament attendance: 100.0%. Questions asked: 18. Debates participated: 9.",
-  "validated_at": "2026-09-02T01:36:47.017957Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.473840Z"
 }

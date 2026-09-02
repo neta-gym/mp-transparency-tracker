@@ -4,16 +4,16 @@
     "constituency": "Dumka",
     "state": "jharkhand",
     "party": "Jharkhand Mukti Morcha",
-    "myneta_candidate_id": 9321,
+    "myneta_candidate_id": null,
     "slug": "nalin-soren",
     "house": "lok_sabha",
     "sansad_member_id": 5826,
     "profile_url": null,
     "canonical_name": "Nalin Soren",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 76,
+    "age": null,
     "photo_url": "/mp-photos/5826.jpg"
   },
   "findings": {
@@ -22,80 +22,144 @@
       "constituency": "Dumka",
       "state": "jharkhand",
       "party": "Jharkhand Mukti Morcha",
-      "myneta_candidate_id": 9321,
+      "myneta_candidate_id": null,
       "slug": "nalin-soren",
       "house": "lok_sabha",
       "sansad_member_id": 5826,
       "profile_url": null,
       "canonical_name": "Nalin Soren",
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 76,
+      "age": null,
       "photo_url": "/mp-photos/5826.jpg"
     },
     "criminal_record": {
       "total_cases": 2,
-      "serious_cases": 0,
+      "serious_cases": 2,
       "convictions": 0,
       "pending_cases": 2,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "12/2013, PS Nigrani Vigilance, Ranchi, Jharkhand | Section 13(2), 13(1)(c)(d) of PC Act",
+          "ipc_sections": [
+            "420",
+            "467",
+            "468",
+            "471",
+            "409",
+            "120B"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Sri ARK Sinha Special Judge (Vigilance) Ranchi, Special Judge Anti-Corruption Bureau (ACB) Ranchi",
+          "fir_no": "12/2013, PS Nigrani Vigilance, Ranchi, Jharkhand",
+          "case_no": "Special Case No. 13/2013",
+          "other_acts": "Section 13(2), 13(1)(c)(d) of PC Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "Vigilance PS Case No. 11/2009 | Section 11, 12, 13 & 15 of Prevention of Corruption Act 1988",
+          "ipc_sections": [
+            "406",
+            "409",
+            "420",
+            "423",
+            "424",
+            "465",
+            "120B"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Sri Prakash Jha, Special Judge, Vigilance Ranchi",
+          "fir_no": "Vigilance PS Case No. 11/2009",
+          "case_no": "Special Case No. 15C(B)/2009",
+          "other_acts": "Section 11, 12, 13 & 15 of Prevention of Corruption Act 1988",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:22.294081Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 36701249.0,
-      "liabilities": 705299.0,
-      "net_worth": 35995950.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9321",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.380191Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 30.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.74,
-      "released": 14.74,
-      "sanctioned": 9.53,
-      "expended": 7.47,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:03.661902Z",
-          "notes": "Official eSAKSHI REST API — Works: 377 recommended, 286 sanctioned, 36 completed"
+          "fetched_at": "2026-09-02T14:42:35.519999Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:38:55.890589Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:38:55.887465Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 377,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 50.67842605156038
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 15.0,
@@ -110,7 +174,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:26:08.663897Z",
+          "fetched_at": "2026-09-02T14:38:55.886315Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +182,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Hemant Soren will not contest against estranged sister-in-law Sita Soren; JMM fields Nalin Soren from Dum - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMXFBSkZzNVNTU3RuNmtVcl9UN01NeFhQOGdxSTFkbl9aMnJaT1k0cWdONmRucHNQbm15SUotbEVRdHBVMjFJVjBwNWJ3MlFHbVhsd2JDR2ZqWG1PZEVLa0R4TEluMW9fT3lPTUpEVUlxQXhmVkFubWdNNlNJemlRVWNRTS1WTEtUaG5yUERNdXo5UVRUNU1OcnNlZmxDeVBnV3FkRE4ySDc1T2VGaWtNUk9zdlJYNXY4a2VXZmFxRktOTk04dllpOXZsWkZGeGNMZnFQaUE5RVVlYm5kVlRoVktPMmQ3M29ac1NwR2VwTjFtaWY0ejVpdVczeXEzOUpZZDRZRdIBigJBVV95cUxNdGwySVl2cEhhX2pPa1NBVV9BY3FfeGtyRnF3V0Z5OWJUWVJ5aHZCSGpmM2xXWWF4NUNBSFM4aGJoTWo1QTFkeE9rZk1zek44WjRrQkE3SjR1Z3FaU2lNSnJKc0U0N3dHbFdMd0l1SVlranlPajdzQVhlb1hPc3hnTUNIOUJPMVdNZ09obG9GR2hxQ01EMER4WHlfZjI4UDR0bGIwa2NSM3BISWRIeHdQWklVTEVIUVJvYzB6UU5fNUZsek4xWHNBcW9WY2V5SExCZU1oRUFULV9oc0lHbFNua2xZM2JFcnEtSjN6M3RNTHhKQzlDU3N2QzlHV2Nxd0ZueEktWUQtVjV5Zw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Future of Soren family at stake in Dumka, Godda & Rajmahal - jharkhandstatenews.com",
+        "source": "jharkhandstatenews.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmlvNjZYaGNZTnJoN084TFBBTjVVQXhtSHItb0FaUFNPNkxUVU9meDZkV3RPcTVtNlZGMUNTd2lWMmhDOWNRaTNQZU9wUXgwWGFvYmhvc29Ic1ZRRDhzLXVVd3kwUU1wYVlEeGZkc0lXRWFwYjFWRFp0Q2JrdWxMRHpPN2FpRDNkTWJoN3VhZHlkNXJfbGszR1dGbk9na3N6aXJUU2lMcUFxQmM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Elections 2024: BJP loses all five tribal seats in Jharkhand - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcUtIUl9QeGJLc3pjMFY1U3VXczhobjd3UWpVV0pPR1Z3LXVWc082dGw5Vl9GUUpTZ2V4Y1czc2k4am50dTUxam56WnFoTnV6dW40cXI5YkZPWGNjRlVPVWxQYzJTczd6VTRCNFdyaF9mTlBaQzVGbVBzTFZLSG8zdkllZTFKZTRfak5sRVhkbTNrejJPdXZWbV9QRFlUbWozQk4xTHhfNUNsWnhCYXF30gG8AUFVX3lxTFBUUEo4TWt5S01kd2xuRnJrSVAwaVl2dVFZYnhWUndfRWVLLWlvTUlHZkNjbFFFVV94RW0zLUZrVXdxZXkwalR1eWpTZEQxUzFidmFtVnRDMWdpSVY0N04zSzZZazk1elZQR09fclNfSkJkQXZfLUpIMjhjbjZBQThackh0OW9NQVhVNGVFZ19jdnF0Ykt4TUdlNERCdVZBZFQweURYSEIwdFlVN2ZSeUNWRlZHN1dYWTlFY2ZX?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Basant inaugurates and lays foundation of projects worth over ₹2k cr in Dumka - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd3Nqc2h6b1FyT2RFZjdzSjl0N01xMmtreWlpa3oteGJabHRJUXJjNG5STnpOSWtXZElRSVkweEV0THFrYXRGYXBhYWprNUhNX0ZQYk1YRnNSVWtvYTZJbHZhVUNkU19ydkxnU0Fzc3dvNlV3c2RSN0gyanRkT1F1M2J3SHhGY2E2d2plYVg3a2lKNElvYUFJVVA4aHotMDZWSlo4REJRNzdwdmdnSE1EZVVpUnhqRnp6TGlOQWxfQ0JLVnRMSUswcmQyYTUyanExd1g5S0t0MUtaMjB3ZTBfR0xYRmw4ZFFTUG01adIB8gFBVV95cUxOZjFoREdhWTFXNkhpTXpRRkIwTWVhRFNkeWMzQVRGdFFUTmlVS3dSUTA5d2ZJaFVGeTBtLW5Gam1NSUhLR3VJU3dHS2xQaUJIWnFKX0ZEY1NpOXdxb3h1ekV5OVdDZW1pempLTmZ4bUJ4VHRweE80WURTTlUzeldvRHBfWW9rbU1sQVNxRDlNS05rdjMzTTUxQnFtZTVHbWpVMlNweGNqNGFaR0RVcWlmd2l5SWFKZE0zMkN4RTZqZmcxWFlOZ1F1X2dHOXdqTVg5aHN0VFNpeWM3Wk5FWXJrZmRLdHpMYkU4VWo1V2hRX3VfZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jharkhand parties prefer ‘tried & tested’ lawmakers - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0lDdXpYSm1lMzlUNlU0UGtrbW9LUXhDZlNWMERmZmZKMkYyWnNXdGtrZDlNbmhWSmtUcXhDdlVGQVhHQVhnS3c0OThkVzhsdUR6eWFFUG9sZUVySnhFaUJfdTVDYkRwWGh2M3l2aDJ6aVdLZ0JGSlFKZjFyTUk4NXQ1TWp3X0NNalZKOGFiREVINE9xMHFsXzJIT0dWUUXSAawBQVVfeXFMT0M3cHJEZ3A5cFIxVDFlU1R1b2o4UGlQTFdZb0pQSFd1VlpvQ1B4aTJOVVJrUjAxbElVZTRQRDVwZlBibkJJSjNzMl9VdmY3bTBDcjBhWVAtMXpEeU1yUG5Mc3FaWmhfWDNQWEYzN3dlOEJoQ0xLdTI2cDJCaGNmWEEzMVB3STlGajlUMHdtbm41Qy1BUDBHS1M3UGczMjc4UllnUWR4SDR2bmptXw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:27:01.147783Z",
+    "collected_at": "2026-09-02T14:42:35.520944Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +251,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.791227Z",
+          "fetched_at": "2026-09-02T18:38:06.345980Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +267,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.791241Z",
+          "fetched_at": "2026-09-02T18:38:06.345991Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +283,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.791248Z",
+          "fetched_at": "2026-09-02T18:38:06.345996Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +299,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.791253Z",
+          "fetched_at": "2026-09-02T18:38:06.346001Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +315,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.791259Z",
+          "fetched_at": "2026-09-02T18:38:06.346008Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +331,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.791264Z",
+          "fetched_at": "2026-09-02T18:38:06.346013Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +347,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.791268Z",
+          "fetched_at": "2026-09-02T18:38:06.346017Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,27 +385,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Dumka Election Results 2024: JMM's Nalin Soren wins against BJP's Sita Soren - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUVk0QzBWZVE0SlQxZ2lHS2p6VW5BTi05Qmdjc1ZoNkU2b0RrUVJZeVJoNUFuWW5ZU182V3lRdXp5VDE0NlV4SFZSQUpBQUZRUXZhRU9oMDNZMGhKc0k4T1A3dmNFSmNKVlNDVFRjbUhWOU5WSU1udVd4aGEzNEJ2Z2RHdzB3NWN2WHZWc3BaNnlVTFZPZHduRjZYa0l2T2hTbDI3MzItekRNbVg4RWhZRjE5b3d4cHdwTVQ2eno5VXlZMml4dTVCbUhZeFFPYW96cXpEUktOdEdMQmVVbFUtNHpIeHZTR3dNbFh5b1Z6VC1rcEpIZDhiTm9VSUx3UEUtQ1VmWnZ5VjNqdGZTMkJScG1WR2c3VWpCS2NNOENIdnhnQXNhNVlYODJUd9IBsAJBVV95cUxNVDhRRTRTZF8teEJrVGZiMjJkWkM5YV9SNzc5WDBQbEo0QXBwMVRtQ1ZwMHJvTGJTWllwMzNTTnBkSExMNTJyQ2d2UEpDM2Ria1JMTmpRZjZjbUVjRlFTa1hROHJfLXllS2V3TnpYNUk1ek4zZ2hlZWZXV29lN2lLMm1lWEJFTTgxZlJzUnlNV24zTUJhcWZ4ZmVrWWNJak9KYTZjTjdOY2R5dksxZEV6VXF2YWxEVktncWFDa0hQWW5FY016SXRNTDlfTU1na1BqOGRxVlhzMmoyMjlfdFpCRzNZcndyRG4zemlrUE1mcWdYMG5PM2RuQy1kMFk0Nm5RQ2ctdG5adlpKOW9Bel93ZE9tUEVrMHJkSGR5UjVLd2lZMTNlX2ZmMmcxOHVkVzhC?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "BJP’s Sita Soren aims to wrest Dumka, once a JMM bastion | India News - Hindustan Times",
-          "source": "Hindustan Times",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanBnNVBZMFZDM0NNN0pYU3k1VFRmclA0YkpWS0swSGFOVHM5eG5pdmtEbXphUDhRTk1CSjJFSEJYbzF6ZjVudWxNVjg2TFBXYnhsbXRUcXZUMTkySkRzcjZTVTFvQ2JyTU11RmdXZnJLYmtFT1VDdG5MS0ZGWWtCYVIwTUh4aWViUWxfWUVhVTRCQTZmcl9HelU0VmxnV3lPZzBBbGtQV3hBY1JOaU5HUENnTnNwb0wz0gG-AUFVX3lxTFBCb3RQdG5sNWNQUWxFNnVVanpKX0NEbVJFZzNhQVlabE9SRTZ6NHZOS3BHMUo4SUJJckJieHhFX05PZ0gxNXZrTmlwaXBZT3ljZWtPeGFSTGQxSDAyOEt0R3hWMkRtd01SdFJIX0k1c0hObVlfb2FVOFlvcFM5V2dmOTBkUmdycThUUERBRUc4dFBFcEhUeV9oUUJQM2pTSVBPR0hySzVXRzhsUW5rOWxZclJuRmdEblBuaTd6UEE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Basant inaugurates and lays foundation of projects worth over ₹2k cr in Dumka - The Times of India",
+          "headline": "Hemant Soren will not contest against estranged sister-in-law Sita Soren; JMM fields Nalin Soren from Dum - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd3Nqc2h6b1FyT2RFZjdzSjl0N01xMmtreWlpa3oteGJabHRJUXJjNG5STnpOSWtXZElRSVkweEV0THFrYXRGYXBhYWprNUhNX0ZQYk1YRnNSVWtvYTZJbHZhVUNkU19ydkxnU0Fzc3dvNlV3c2RSN0gyanRkT1F1M2J3SHhGY2E2d2plYVg3a2lKNElvYUFJVVA4aHotMDZWSlo4REJRNzdwdmdnSE1EZVVpUnhqRnp6TGlOQWxfQ0JLVnRMSUswcmQyYTUyanExd1g5S0t0MUtaMjB3ZTBfR0xYRmw4ZFFTUG01adIB8gFBVV95cUxOZjFoREdhWTFXNkhpTXpRRkIwTWVhRFNkeWMzQVRGdFFUTmlVS3dSUTA5d2ZJaFVGeTBtLW5Gam1NSUhLR3VJU3dHS2xQaUJIWnFKX0ZEY1NpOXdxb3h1ekV5OVdDZW1pempLTmZ4bUJ4VHRweE80WURTTlUzeldvRHBfWW9rbU1sQVNxRDlNS05rdjMzTTUxQnFtZTVHbWpVMlNweGNqNGFaR0RVcWlmd2l5SWFKZE0zMkN4RTZqZmcxWFlOZ1F1X2dHOXdqTVg5aHN0VFNpeWM3Wk5FWXJrZmRLdHpMYkU4VWo1V2hRX3VfZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMXFBSkZzNVNTU3RuNmtVcl9UN01NeFhQOGdxSTFkbl9aMnJaT1k0cWdONmRucHNQbm15SUotbEVRdHBVMjFJVjBwNWJ3MlFHbVhsd2JDR2ZqWG1PZEVLa0R4TEluMW9fT3lPTUpEVUlxQXhmVkFubWdNNlNJemlRVWNRTS1WTEtUaG5yUERNdXo5UVRUNU1OcnNlZmxDeVBnV3FkRE4ySDc1T2VGaWtNUk9zdlJYNXY4a2VXZmFxRktOTk04dllpOXZsWkZGeGNMZnFQaUE5RVVlYm5kVlRoVktPMmQ3M29ac1NwR2VwTjFtaWY0ejVpdVczeXEzOUpZZDRZRdIBigJBVV95cUxNdGwySVl2cEhhX2pPa1NBVV9BY3FfeGtyRnF3V0Z5OWJUWVJ5aHZCSGpmM2xXWWF4NUNBSFM4aGJoTWo1QTFkeE9rZk1zek44WjRrQkE3SjR1Z3FaU2lNSnJKc0U0N3dHbFdMd0l1SVlranlPajdzQVhlb1hPc3hnTUNIOUJPMVdNZ09obG9GR2hxQ01EMER4WHlfZjI4UDR0bGIwa2NSM3BISWRIeHdQWklVTEVIUVJvYzB6UU5fNUZsek4xWHNBcW9WY2V5SExCZU1oRUFULV9oc0lHbFNua2xZM2JFcnEtSjN6M3RNTHhKQzlDU3N2QzlHV2Nxd0ZueEktWUQtVjV5Zw?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,11 +401,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Will rebel ‘bahu’ be able to sail through in JMM’s stronghold? - The New Indian Express",
+          "headline": "Elections 2024: BJP loses all five tribal seats in Jharkhand - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQejJTbkdsVklBZVBXWEVmbENDRkNWd3dDVEs2NGliS0RYaXJ3ZXFIdHcwUTR6Zk8tX0dlZHhpcklIM3o3dnZfMU1jbUlmckRYS18zdWpxVmNCUlRBSXZMeEF3eGlYR19fSTIxUnAyUzJqRWgwS2RSREJ2V2NYa09kQWxHb29WTTVLLTRjUDZ3VW54bFc0ZlNvTXJUQkJEek1uc3FKNTBSeUdDLUxqX1HSAbsBQVVfeXFMTlhVTlB4bDNOazBhdXdJOGhVaUJvRHFZdmxwTkNod2UzaFZyaV9EMzZHelhvd1ZTOVk3SnN5czJvQXR6X3hmNXpMNWVvbl9hYWZsSUpDSFUxTFVXcmVVZHRVcnJ6djRuZ0xuWEtCN0NfWk9hNlBMMjBVdFA0cFVjVUV6bUp4ZjEtZEM2ZWJpTll6WnprWWtPbmljT3k2bG92MUtLZ1FNbWJONG1GS1l2NC1UUnpKZTNkUU5pUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcUtIUl9QeGJLc3pjMFY1U3VXczhobjd3UWpVV0pPR1Z3LXVWc082dGw5Vl9GUUpTZ2V4Y1czc2k4am50dTUxam56WnFoTnV6dW40cXI5YkZPWGNjRlVPVWxQYzJTczd6VTRCNFdyaF9mTlBaQzVGbVBzTFZLSG8zdkllZTFKZTRfak5sRVhkbTNrejJPdXZWbV9QRFlUbWozQk4xTHhfNUNsWnhCYXF30gG8AUFVX3lxTFBUUEo4TWt5S01kd2xuRnJrSVAwaVl2dVFZYnhWUndfRWVLLWlvTUlHZkNjbFFFVV94RW0zLUZrVXdxZXkwalR1eWpTZEQxUzFidmFtVnRDMWdpSVY0N04zSzZZazk1elZQR09fclNfSkJkQXZfLUpIMjhjbjZBQThackh0OW9NQVhVNGVFZ19jdnF0Ykt4TUdlNERCdVZBZFQweURYSEIwdFlVN2ZSeUNWRlZHN1dYWTlFY2ZX?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Basant inaugurates and lays foundation of projects worth over ₹2k cr in Dumka - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd3Nqc2h6b1FyT2RFZjdzSjl0N01xMmtreWlpa3oteGJabHRJUXJjNG5STnpOSWtXZElRSVkweEV0THFrYXRGYXBhYWprNUhNX0ZQYk1YRnNSVWtvYTZJbHZhVUNkU19ydkxnU0Fzc3dvNlV3c2RSN0gyanRkT1F1M2J3SHhGY2E2d2plYVg3a2lKNElvYUFJVVA4aHotMDZWSlo4REJRNzdwdmdnSE1EZVVpUnhqRnp6TGlOQWxfQ0JLVnRMSUswcmQyYTUyanExd1g5S0t0MUtaMjB3ZTBfR0xYRmw4ZFFTUG01adIB8gFBVV95cUxOZjFoREdhWTFXNkhpTXpRRkIwTWVhRFNkeWMzQVRGdFFUTmlVS3dSUTA5d2ZJaFVGeTBtLW5Gam1NSUhLR3VJU3dHS2xQaUJIWnFKX0ZEY1NpOXdxb3h1ekV5OVdDZW1pempLTmZ4bUJ4VHRweE80WURTTlUzeldvRHBfWW9rbU1sQVNxRDlNS05rdjMzTTUxQnFtZTVHbWpVMlNweGNqNGFaR0RVcWlmd2l5SWFKZE0zMkN4RTZqZmcxWFlOZ1F1X2dHOXdqTVg5aHN0VFNpeWM3Wk5FWXJrZmRLdHpMYkU4VWo1V2hRX3VfZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Jharkhand parties prefer ‘tried & tested’ lawmakers - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0lDdXpYSm1lMzlUNlU0UGtrbW9LUXhDZlNWMERmZmZKMkYyWnNXdGtrZDlNbmhWSmtUcXhDdlVGQVhHQVhnS3c0OThkVzhsdUR6eWFFUG9sZUVySnhFaUJfdTVDYkRwWGh2M3l2aDJ6aVdLZ0JGSlFKZjFyTUk4NXQ1TWp3X0NNalZKOGFiREVINE9xMHFsXzJIT0dWUUXSAawBQVVfeXFMT0M3cHJEZ3A5cFIxVDFlU1R1b2o4UGlQTFdZb0pQSFd1VlpvQ1B4aTJOVVJrUjAxbElVZTRQRDVwZlBibkJJSjNzMl9VdmY3bTBDcjBhWVAtMXpEeU1yUG5Mc3FaWmhfWDNQWEYzN3dlOEJoQ0xLdTI2cDJCaGNmWEEzMVB3STlGajlUMHdtbm41Qy1BUDBHS1M3UGczMjc4UllnUWR4SDR2bmptXw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +455,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 12,
+      "starred_questions": 3,
+      "unstarred_questions": 9,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 22.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +471,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 15.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Low attendance",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +502,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +529,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Jharkhand: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 36,701,249. MPLADS utilization: 50.7%. Parliament attendance: 15.0%. Questions asked: 12. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:48.791997Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (2 serious), 2 pending, 0 conviction(s). Parliament attendance: 15.0%. Questions asked: 12. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.346817Z"
 }

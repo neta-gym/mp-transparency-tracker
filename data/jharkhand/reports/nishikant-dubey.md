@@ -3,20 +3,18 @@
 **Constituency:** Godda, Jharkhand
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 52
-**Education:** Doctorate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 46.2 / 100
+## Composite Transparency Score: 50.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 1.0 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 20.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 10.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,34 +26,44 @@
 ## Criminal Record
 
 - **Total Cases:** 8
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 8
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Jasidih PS Case No 96/2024, PS Jasidih Dist Deoghar, Jharkhand (Sections: 406, 409, 420, 467, 468, 471, 120B, 34) [pending] **SERIOUS**
+2. Dhurwa PS Case No 107/2023, P.S. Dhurwa Dist Ranchi Jharkhand (Sections: 147, 148, 188, 109, 335, 332, 427, 323) [pending] 
+3. Mohanpur PS Case No. 281/2023, P.S. Mohanpur Dist. Deoghar Jharkhand (Sections: 153B(1)(C), 166, 290, 336, 341, 342, 427, 504, 506) [pending] 
+4. Budhai PS Case No 30/2021 P.S Budhai  Dist Deoghar Jharkhand | 147, 149, 447, 188, 34 IPC (Sections: 147, 149, 447, 188) [pending] 
+5. Devipur PS Case No 178/2021, P.S Devipur District Deoghar Jharkhand (Sections: 188, 116, 171F, 506, 34) [pending] 
+6. CC No 04/2021, PS Godda Town Dist. Godda  Jharkhand (Sections: 323, 504) [pending] 
+7. Godda PS Case No 96/2019, Town PS, Dist. Godda  Jharkhand | 171G, 188 IPC (Sections: 147, 149, 447, 188) [pending] 
+8. Kunda PS Case No. 89/2019, P.S Kunda Deoghar  Jharkhand | Section 123(3A), R.P Act (Sections: 171F, 504) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 74.70 Crore
-- **Liabilities:** Rs 8.28 Crore
-- **Net Worth:** Rs 66.42 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 89% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 0
-- **Expended:** Rs 0
-- **Utilization Rate:** 1.2%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -84,30 +92,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Nishikant Dubey - The Indian Express (The Indian Express) [neutral]
-- BJP MP Nishikant Dubey Proposes Substantive Motion Against Rahul Gandhi in Lok Sabha - TheWire.in (TheWire.in) [neutral]
-- Nishikant Dubey promises UGC rule corrections for general category students; Government to address studen - The Times of India (The Times of India) [neutral]
-- 'ये पाजामा-कुर्ता ओवैसी ने ईद पर दी थी...', लोकसभा में क्या बोले निशिकांत दुबे - AajTak (AajTak) [neutral]
-- Jharkhand MP Nishikant Dubey flashes books on Nehru, Priyanka Gandhi says Parliament rules violated - The Tribune (The Tribune) [neutral]
+- Did BJP MP Nishikant Dubey Marry His Sister? Politician Reacts to Rumour on Aap Ki Adalat, but Netizens Call Him Out for Playing Coy - NewsGram (NewsGram) [neutral]
+- BJP MP Nishikant Dubey visits 'Namo Seva Shivir', serves food to devotees in Jharkhand's Deoghar - aninews.in (aninews.in) [neutral]
+- BJP MP Nishikant Dubey serves food to devotees at Namo Seva Shivir in Deoghar - The News Mill (The News Mill) [neutral]
+- Ram Temple donations row: Akhilesh Yadav sends defamation notice to BJP MP Nishikant Dubey - The New Indian Express (The New Indian Express) [neutral]
+- Akhilesh sends notice to Nishikant Dubey over Tinnu Yadav link: BJP MP says, 'File an FIR too, I will also ... - Bhaskar English (Bhaskar English) [negative]
+
+---
+
+## News & Allegations
+
+- ! **Did BJP MP Nishikant Dubey Marry His Sister? Politician Reacts to Rumour on Aap Ki Adalat, but Netizens Call Him Out for Playing Coy - NewsGram** (NewsGram)
+- ! **BJP MP Nishikant Dubey visits 'Namo Seva Shivir', serves food to devotees in Jharkhand's Deoghar - aninews.in** (aninews.in)
+- ! **BJP MP Nishikant Dubey serves food to devotees at Namo Seva Shivir in Deoghar - The News Mill** (The News Mill)
+- ! **Ram Temple donations row: Akhilesh Yadav sends defamation notice to BJP MP Nishikant Dubey - The New Indian Express** (The New Indian Express)
+- !! **Akhilesh sends notice to Nishikant Dubey over Tinnu Yadav link: BJP MP says, 'File an FIR too, I will also ... - Bhaskar English** (Bhaskar English)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Nishikant Dubey has a below-average transparency score of 46.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Nishikant Dubey shows moderate transparency with a score of 50.5/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 746,974,208. MPLADS utilization: 1.2%. Parliament attendance: 100.0%. Questions asked: 65. Debates participated: 23. 1 warning(s) noted.
+Has 8 criminal case(s) (1 serious), 8 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 65. Debates participated: 23. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -147,7 +167,7 @@ Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -226,8 +246,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Nishikant Dubey's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 1.2%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -245,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

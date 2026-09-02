@@ -3,19 +3,17 @@
 **Constituency:** Anandpur Sahib, Punjab
 **Party:** Aam Aadmi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 45
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (24%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.7 / 100
+## Composite Transparency Score: 59.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 32.2 | 25% |
-| Asset Growth | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.19 Crore
-- **Liabilities:** Rs 20.13 Lakh
-- **Net Worth:** Rs 3.99 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 34% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 6
-- **Utilization Rate:** 40.2%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -76,29 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- 'Would not let Bihar, Bengal repeat here': AAP MP Malvinder Singh Kang questions conduct of SIR - The New Indian Express (The New Indian Express) [neutral]
-- AAP MP Malvinder Singh Kang Raises Concerns Over SIR Exercise, Writes to Election Commission - Punjab Newsline (Punjab Newsline) [neutral]
-- ‘Any attempt to create fear among genuine voters is unacceptable’: Kang raises concerns on SIR in Punjab - The Indian Express (The Indian Express) [neutral]
-- AAP MP Malvinder Singh Kang Raises Alarm Over SIR Exercise - Dailyhunt (Dailyhunt) [neutral]
-- Kang writes to CEC, proposes mechanism to prevent deletion of NRI voters - The Times of India (The Times of India) [neutral]
+- Malvinder Kang at it again: Why an AAP MP is taking on Mann government - The Indian Express (The Indian Express) [neutral]
+- Punjab Has No Ground for BJP’s Communal Politics, Says MP Kang - aamaadmiparty.org (aamaadmiparty.org) [neutral]
+- AAP MP Kang calls GMADA ‘centre of loot’, puts Punjab govt in spot - The Times of India (The Times of India) [neutral]
+- AAP MP Malvinder Singh Kang Raises Alarm Over SIR Exercise - cityairnews.com (cityairnews.com) [neutral]
+- ‘GMADA lutt da kender ban gaya hai’: AAP MP Kang puts own govt in spot, slams ‘selective’ demolition of shops in Punjab village - The Tribune (The Tribune) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Malvinder Kang at it again: Why an AAP MP is taking on Mann government - The Indian Express** (The Indian Express)
+- ! **Punjab Has No Ground for BJP’s Communal Politics, Says MP Kang - aamaadmiparty.org** (aamaadmiparty.org)
+- ! **AAP MP Kang calls GMADA ‘centre of loot’, puts Punjab govt in spot - The Times of India** (The Times of India)
+- ! **AAP MP Malvinder Singh Kang Raises Alarm Over SIR Exercise - cityairnews.com** (cityairnews.com)
+- ! **‘GMADA lutt da kender ban gaya hai’: AAP MP Kang puts own govt in spot, slams ‘selective’ demolition of shops in Punjab village - The Tribune** (The Tribune)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Malvinder Singh Kang shows moderate transparency with a score of 59.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Malvinder Singh Kang shows moderate transparency with a score of 59.0/100. No criminal cases declared. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 41,905,973. MPLADS utilization: 40.2%. Parliament attendance: 90.0%. Questions asked: 4. Debates participated: 6.
+No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 4. Debates participated: 6. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 41,905,973. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +227,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Malvinder Singh Kang's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 40.2%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +244,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

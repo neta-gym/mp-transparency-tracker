@@ -4,31 +4,31 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (21%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.8 / 100
+## Composite Transparency Score: 53.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 16.4 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 70.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 3
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 3
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 9.47 Crore
-- **Liabilities:** Rs 2.29 Crore
-- **Net Worth:** Rs 7.18 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 57% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 4
-- **Expended:** Rs 3
-- **Utilization Rate:** 20.5%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -67,36 +66,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/Ganesh Singh_in](https://x.com/http://www.twitter.com/Ganesh Singh_in) | No | Yes |
+| Facebook | [@http://www.facebook.com/ganesh singh satna MP](https://facebook.com/http://www.facebook.com/ganesh singh satna MP) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
+- MP Ganesh SIngh Urges Govt. To Launch Pilot Project For Production Of Potash From Cement Kiln Dust - Deccan Chronicle (Deccan Chronicle) [neutral]
 - Video: BJP MP Rides Crane To Garland Statue, Slaps Operator After It Jolts - NDTV (NDTV) [neutral]
-- Watch: Angry over crane snag, BJP MP Ganesh Singh slaps operator in Satna - The Times of India (The Times of India) [neutral]
-- BJP MP Ganesh Singh slaps crane driver after being struck mid-air at event in Satna, video goes viral - The New Indian Express (The New Indian Express) [neutral]
+- PMNRF Sanctions ₹75.78 Lakh for Treatment of 32 Patients in Satna - dailypioneer.com (dailypioneer.com) [neutral]
 - Satna BJP MP Ganesh Singh 'Slaps' Crane Driver During Run For Unity, Faces Congress Flak - ETV Bharat (ETV Bharat) [neutral]
-- Satna MP slaps operator after crane halts mid-air: Ganesh Singh loses temper during garlanding ceremony; vi... - Bhaskar English (Bhaskar English) [neutral]
+- BJP MP ‘slaps’ crane operator after glitch while trying to garland statue in Madhya Pradesh, Congress slams ‘power intoxication’ - indianexpress.com (indianexpress.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Ganesh SIngh Urges Govt. To Launch Pilot Project For Production Of Potash From Cement Kiln Dust - Deccan Chronicle** (Deccan Chronicle)
+- ! **Video: BJP MP Rides Crane To Garland Statue, Slaps Operator After It Jolts - NDTV** (NDTV)
+- ! **PMNRF Sanctions ₹75.78 Lakh for Treatment of 32 Patients in Satna - dailypioneer.com** (dailypioneer.com)
+- ! **Satna BJP MP Ganesh Singh 'Slaps' Crane Driver During Run For Unity, Faces Congress Flak - ETV Bharat** (ETV Bharat)
+- ! **BJP MP ‘slaps’ crane operator after glitch while trying to garland statue in Madhya Pradesh, Congress slams ‘power intoxication’ - indianexpress.com** (indianexpress.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Madhya Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Ganesh Singh shows moderate transparency with a score of 52.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ganesh Singh shows moderate transparency with a score of 53.5/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 94,681,128. MPLADS utilization: 20.5%. Parliament attendance: 90.0%. Questions asked: 46. Debates participated: 12.
+No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 46. Debates participated: 12. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -136,7 +161,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -215,8 +240,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Ganesh Singh's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.5%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -234,10 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

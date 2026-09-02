@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.9 / 100
+## Composite Transparency Score: 47.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 23.0 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 206.87 Crore
-- **Liabilities:** Rs 17.90 Crore
-- **Net Worth:** Rs 188.97 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 4
-- **Utilization Rate:** 28.8%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -74,29 +73,43 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- MP Mala Rajya Laxmi Shah raises demand for widening Kaulagarh–Bajawala Road in Lok Sabha - Garhwal Post (Garhwal Post) [neutral]
+- Govt targets planting of 2 crore saplings during Harela: Subodh Uniyal - Garhwal Post (Garhwal Post) [neutral]
 - Uttarakhand MPs divert Rs 1.28 crore of constituency funds to other states, RTI reveals - The New Indian Express (The New Indian Express) [neutral]
-- Who is Manujendra Shah? Tehri Garhwal royal in spotlight over Rs 1000 crore Delhi house, his wife is…, business is… - news24online.com (news24online.com) [neutral]
-- PM Modi meets Uttarakhand MPs, urges them to stay connected with people in rain-affected areas - DD News (DD News) [neutral]
-- ‘Modi, Rani, Dharm Aur Vikas’: Tehri Garhwal Wants To Retain Development Momentum Despite Royal Reticence - Swarajyamag (Swarajyamag) [positive]
+- MP Mala Rajya Laxmi Shah raises demand for widening Kaulagarh–Bajawala Road in Lok Sabha - Garhwal Post (Garhwal Post) [neutral]
+- Lok Sabha Elections 2019: BJP fields sitting MP Mala Rajya Laxmi Shah from Tehri Garhwal seat | Hindustan Times - hindustantimes.com (hindustantimes.com) [neutral]
+- PM Modi meets Uttarakhand MPs, urges them to stay connected with people in rain-affected areas - ddnews.gov.in (ddnews.gov.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Govt targets planting of 2 crore saplings during Harela: Subodh Uniyal - Garhwal Post** (Garhwal Post)
+- ! **Uttarakhand MPs divert Rs 1.28 crore of constituency funds to other states, RTI reveals - The New Indian Express** (The New Indian Express)
+- ! **MP Mala Rajya Laxmi Shah raises demand for widening Kaulagarh–Bajawala Road in Lok Sabha - Garhwal Post** (Garhwal Post)
+- ! **Lok Sabha Elections 2019: BJP fields sitting MP Mala Rajya Laxmi Shah from Tehri Garhwal seat | Hindustan Times - hindustantimes.com** (hindustantimes.com)
+- ! **PM Modi meets Uttarakhand MPs, urges them to stay connected with people in rain-affected areas - ddnews.gov.in** (ddnews.gov.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttarakhand: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mala Rajya Laxmi Shah shows moderate transparency with a score of 56.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mala Rajya Laxmi Shah has a below-average transparency score of 47.0/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 2,068,739,424. MPLADS utilization: 28.8%. Parliament attendance: 90.0%. Questions asked: 1. Debates participated: 1.
+No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 1. Debates participated: 1. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -136,7 +149,7 @@ No criminal cases declared. Declared assets: Rs 2,068,739,424. MPLADS utilizatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -215,8 +228,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Mala Rajya Laxmi Shah's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 28.8%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -234,10 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

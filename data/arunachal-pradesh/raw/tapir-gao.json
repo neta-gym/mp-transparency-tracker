@@ -4,16 +4,16 @@
     "constituency": "Arunachal East",
     "state": "arunachal pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 257,
+    "myneta_candidate_id": null,
     "slug": "tapir-gao",
     "house": "lok_sabha",
     "sansad_member_id": 3973,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/3973.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:03.407586Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 150537706.0,
-    "liabilities": 0.0,
-    "net_worth": 150537706.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=257",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.369631Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 66.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.76,
-    "expended": 9.75,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:18:00.008470Z",
-        "notes": "Official eSAKSHI REST API — Works: 111 recommended, 111 sanctioned, 46 completed"
+        "fetched_at": "2026-09-02T14:42:04.087631Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:37:53.188543Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:37:56.318605Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 111,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 66.32653061224491
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:10.940228Z",
+        "fetched_at": "2026-09-02T14:37:55.667618Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Ledum's network woes persist, LYBK seeks Gao's intervention - The Arunachal Times",
+      "source": "The Arunachal Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXZCNjZpMDFXQ21QWkUweGpCV3JQUWR5ZUpTT1E4SXlfMDZDd1luSDBncHU1RmFjc2l1WkdkcmFydGdVNTQtRDB5UkxIYnVfMUlLZHMzNV9lbVhDRGhRSTRHWHMwODlJV1AyT1M1UU4zS3BZNXpNeVVGZnNsb3BRMXRxRjRpUFQ5WG85UEJ1MWpQZzJWbFZsc2VNTW4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "PM Modi Meets Arunachal, Nagaland MPs to Assess Flood Situation, Promises Assistance - Northeast Today",
+      "source": "Northeast Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWkt2VGc3QTFMNjdBUXFJYkttZk9RYWd5b1hBRjdKSzhPVm1fUjFxRVFUZktXWTJocDFrck1MWjczR2prejNaczExVmYyak9lYjU5cWZRdFl1UUZyNXliS05EQnE1OUdkcXpKalFhWkFPanNFcDVVNzdJZzBUeXZvVjFNbnN1dDB2Ml8zYjdPMmF3ZENaSDRhWjFRTy0xVkdOZFFmMzQ0eWU5aUFHbThFSF85M0JvRXhrNEE5bXo2LUlBSWF3ZTdNRTUwdXl6WVZBWkJF?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tapir Gao says APFRA not against any religion, urges Arunachal Christian Forum to avoid protests - India Today NE",
+      "source": "India Today NE",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTWVPNXppanBPMjVyWUxJOHpDR2kyZlYwTUhRZ2dxNGdNa0tHRmNPZllMZWpyRkFyR29odmhuUV9vZ2dOc2tIeTJvaGxoZS1raG53aU9mMVlRWlJWUWlqRlZKZUtnOF9YOUNDdDY2bmwweExaN1pPamcxVFhwZlBUQVJ5dVVVV1RRZ1JxNXhROHE4ODlsU0c0VTVUSDBjd3BHZGhQNjB1cHhNd0EyQ0t3bHZxWDlUbUd3Y2ZQUjZPRVUtU1hCeU9sdlNlY2ZwZUlnYjI2a3BBTWp3NV9uT1dKZE5xN0ZDZ0RvdnNsVmVyTDhoNnBqUWdrclF30gH_AUFVX3lxTE93aUZROEc5THBtTEpKQXFKMTA2akVSUklDcm04cjNZanRzRDJUUVlpbzlQelZiV3ZEcjZCeGNlc3haZEw5RXhHZmVKNTlWaDMxWDM0dXFSSkd0a3IxQ0R5M1h2TGp6aVNuUnFxaV9Fd0R6VmpxUG8zNWpkaUZzcE5BemxsUnhva2xpaGFpM0lPS0pwUUdldXZTOG5zTFQ0d0FaUXVRdTQ5eUpZM1BENjZsaWJMREk4d2FsOVlMRGZkQ3pJam5nQUlnc0lGYno2WEF4QVRzVFp6ZEhhQTdtek9SZ1JYZER5NU1zVGx2UEh2YWRFblhoYUY2ZHhqaThSdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Indian MPs and US Embassy officials to attend Tibetan exiled leader’s oath-taking in Dharamsala - WION",
+      "source": "WION",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1BJaWRHVk9udHViVjNqbWUwZng5eFZuQkprVlhtZDFZWjdpOWNHOVl4bDZxN05kYmJ5UW5UcURHMnJIbTU5RjZ4RGJlSkNUYVBOaWpvY3ZCR1ZJa2NJVEI0VURRXzhBMU1LVnFTUEVXTTRLMDFFc1VzNkxiX0FGYmE5X3d5OV9XbG90Q3dEbzdmM0s5U3FBLVg1NFlXZTd4TE5SWUNCUktaYWxZOXk4cWNZYjNaT2NsRk1Za2tZWXhRTnl2ZjB3NkVSN29Sd0ZESzJBaGl30gHbAUFVX3lxTE9oNVhidUhNUGJBU05DUTRYWnZOa0U2bTlOSDZGajg5NWRBdjRVdHRndHNvVVY3VzlOQk5IZXlhQS1LZUR2LWp4X1RsZHVaYVE2TnI4LTNCVy1hMFNtUms4VzgtUXB4RFhpbmE0TExtYVhsN3JSM1ZIVG1hcU9MeDF3UEtzZWdRRng1SFBxLThTTFJQY0hHaEZ3NFpfXzRrUjk0TmlsdFNuYVdiNWhTQ0I3d0c2akFrd2lIc1VnRVplbkwyTFNGSFdGRjh3Zks3MTNXMXRnZFduZ09kdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Arunachal East election results 2024 live updates: BJP's Tapir Gao wins against Congress's Bosiram Siram - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZnBLMld6XzNydVRGTHZIaG1fdDRSZ094a2FXcDYtX0dRU2czQ1puXzdxWDR0UnhEZDhSVTV6cWFyWlVzLVBFVHB1bjE5RXduQnFWdWNNZ0xWc1phY1FlLV9nbFl0YTNVNHZCSzRLQnpMcXpwYVhoWGgwZkd6YnVsWlRmQlFXb1U0VXBUMkxjT1VPVWNyM1VodWNmRHViVW9CZlRkdDlJSXFaRVlWREcxZW5KNXZjRVlaVl85b1c5UmNUOHpPbDFKcFRRbDBwbC1IN3U4a0wzazB5eFNWZ2RaSjA5cHRJdkRKd3F1Znh0SHpXOFhtWlBMeFdNdmVlMEhpRE1mUUdaWUFyVmtLNkNMenhLOERnaFQxb3ZOVDlpcDJDckt3Z1ZhMGFnU1NWdHpnTTY2aTFjTWEyUDIwZ0400gHEAkFVX3lxTE1vcEFobHp2MDJiSkQ3bmo1Vnh5YXVObUd1cEp5WUFtYXJHeEl0SERydmE1NmhMRm9ubHN1M21ZNDloOVhjM1hOa0xEcEExNVdKWXVULVRtSi1RQ3RVZVhBZnFfb0ZNUTZ6TFhFclBHWi16TXZYYjY5Ylc0WExnNm1uckR4dU9SVmgwbGstZk8zSW4yRFRjTVdsSzJhd1prRzE0eEh3cklpUFN2WThjOHJORTRhdVppUDQtY2FmQnZFZy1MZzZqT1FfMnpaMTRDcWlpdTNDT0lSREhrMnRxQXZYSzNmenVNUEZlb3NDdDFBX0F6Z0oyOVBqZUx3MXVsbFkyM01FMDJMWTNsb0hpVGpIaEt3X0xvTXRRZmlGVjZuT0lVOWxzYkpXTHdCZEtrZjJnVS1yQWI0YUFhY0FCbGExNzFweg?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:00.361619Z",
+  "collected_at": "2026-09-02T14:42:11.083111Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.711682Z",
+        "fetched_at": "2026-09-02T18:38:04.172239Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.711691Z",
+        "fetched_at": "2026-09-02T18:38:04.172258Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.711696Z",
+        "fetched_at": "2026-09-02T18:38:04.172264Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.711701Z",
+        "fetched_at": "2026-09-02T18:38:04.172270Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.711707Z",
+        "fetched_at": "2026-09-02T18:38:04.172276Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.711711Z",
+        "fetched_at": "2026-09-02T18:38:04.172281Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.711715Z",
+        "fetched_at": "2026-09-02T18:38:04.172287Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/TapirGao",
+        "url": "https://x.com/https://x.com/TapirGao",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/tapirgaobjp/",
+        "url": "https://facebook.com/https://www.facebook.com/tapirgaobjp/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:38:27.461920Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,43 +342,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "BJP MP Tapir Gao demands law to protect people of northeast from discrimination outside their states - ThePrint",
-        "source": "ThePrint",
+        "headline": "Ledum's network woes persist, LYBK seeks Gao's intervention - The Arunachal Times",
+        "source": "The Arunachal Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeHlNUDRBTXRDeU94YnRfZGlLREVmMW1uT3V4NWdNQTN3bklIOHFKeWNZbEdpN3JTQllDYjZMRHhPV21Oa1dFaWpwQ1VnM0NQSFU3V0ZFdWhHQXBncktEaXJsYkZiUnZfUUVndHA5dndENmZybUJsWUl1MVVQcmhyZWVmN0NQVEtLVExiaGVDTlNGQm43NkZacFN4Q2xFLTJNUlVyYV9YS0o5Rkw0SDhaWWRBOGtaSVd0cHBwTFdoR0xoOHN0V2dnY0tFTW5fZVRl0gHWAUFVX3lxTFBVVWtUS2FsY2V1TGlrdXlrVU1udHZRTDdhaHdyZ2tSbjdsOUl6QXRzZ09zM0ZfVDE2Z1Y2cW9YYkszRkJrS1dqODd3Q3dZMTk4RUZGNkw1eXdDckdzWXJnYTU5bC1saWZwMDRmSFlPT3Z5Z082ZzVuMExJdkx3TlBWQ1F1R2RTalJFUXIxMFg2N1BQZDM0eUNITnNRTks5Y2VMRHlpZzBTMEh2VkNhRllnTXBKTnVWYjJ5X2k5MkNwaVlpYWdiOVZTMUd4RG8weGlGeVEzVEE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXZCNjZpMDFXQ21QWkUweGpCV3JQUWR5ZUpTT1E4SXlfMDZDd1luSDBncHU1RmFjc2l1WkdkcmFydGdVNTQtRDB5UkxIYnVfMUlLZHMzNV9lbVhDRGhRSTRHWHMwODlJV1AyT1M1UU4zS3BZNXpNeVVGZnNsb3BRMXRxRjRpUFQ5WG85UEJ1MWpQZzJWbFZsc2VNTW4?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Centre committed to ensuring connectivity to every village: Jyotiraditya Scindia - ET Telecom",
-        "source": "ET Telecom",
+        "headline": "PM Modi Meets Arunachal, Nagaland MPs to Assess Flood Situation, Promises Assistance - Northeast Today",
+        "source": "Northeast Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTk1rSTdtMzVLU0FVYmJ1WGN5aUlHYmVUUWlOVTBpZGI2NW5QR04yZ2tMeVRhNXI1cWlPTE53cTZXOWFkVmNIam1mWmtHUnJhbjQxNkZoWWZGN2lQWlJNMFJpSUkzaF9rR2k1djVPMFM3YnpObFJyenNadGVtczhDcUQ3NGtTc25raGpQWnpBTXF2NTlYLVQ3aEtzU2lubGFrWWVXN3VCd3hZWVJGcUdTT3VGU01ZaDFhcUE0cU1HSDN4S3FMM1E4N0RYVU9IdjU3SzFfN1dLRk9zYzJsd0VnYVFHR0ZkUm1PQnlnZTNISENodV96d0lhNzdKZ1NHU1BtcmfSAYcCQVVfeXFMUGE2UTBfZldRbVI2cl9PeGpiSkJpeGtzb1VfMHpIRDdKNk5DVjdRTlZWaDRaVXJ6eEpkZDNycmJiWEZ5Z0hqRDRrV3ZTclIweXFsWk5RdHFDaXVUSlo1T1ZPUzZXZm11YTdFMF9zNWt5VURyVkRxWmNfU3JSUWZJVlRBRmFpeHVMa3EzeW1tdzIxTFJFcHR4aHYzdWIycUMwMXFHVlJSNk4yUFVWelVhTFZIdTdvbi1kWDRUNFBZR2tZTmVfWXJSTU1ia2tKb09Pa1gzUGVBVmVrbmd4eTZSeFBDd3VwZjk0dUpkRVZKcXpCNm9iWFhnQTZmS2xVSFZJV05BUHRscHM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWkt2VGc3QTFMNjdBUXFJYkttZk9RYWd5b1hBRjdKSzhPVm1fUjFxRVFUZktXWTJocDFrck1MWjczR2prejNaczExVmYyak9lYjU5cWZRdFl1UUZyNXliS05EQnE1OUdkcXpKalFhWkFPanNFcDVVNzdJZzBUeXZvVjFNbnN1dDB2Ml8zYjdPMmF3ZENaSDRhWjFRTy0xVkdOZFFmMzQ0eWU5aUFHbThFSF85M0JvRXhrNEE5bXo2LUlBSWF3ZTdNRTUwdXl6WVZBWkJF?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Arunachal East lok sabha election results 2024: Arunachal East Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEpWMHRDa1N0am1qZzVQZkFKZkU5bVo3UWRFRjAtcUE3NUlKX3c3LVo4UjlUSUhzY3J6UlF5em8wMjA2SFdyRmJfbFlYUGg1TmJodzRjZEJ4Mkt6VVdDWVRzcklELWNzMHAtVHpTcXQxNVp1SFpoYUxMcWMtb0FxN25aTThiU3VsSUJRMnduV19qMC1TUnpEbFk4bkkzRDVkbWE0bDZB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "MP Tapir Gao of Lok Saba visits Choephelling Tibetan Settlement in Arunachal Pradesh - Central Tibetan Administration",
-        "source": "Central Tibetan Administration",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcTlMbVVpbHJkZFBXZ3c0SmZuMWtPNjk5OGhnZ3BiNmNRbEpJemY5VDJTMG90bHBHVmlnaU9iaVRtUDFUR0JsMlRNNTBpWUVhTDdBQU5jc2V2NmJYa3piNmxFMU4tWXUtQS11YVFvV04xdU9ycnRBWk9fQlVVYVRXcXJJNjlHbDMzbDAyakZ6MkpuZ1ZYaVN1RGR2cW5KSHE3b2RQQXV3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Arunachal East MP Tapir Gao faces anti-incumbency; BJP youth leader Nuney Tayang declares candidacy - India Today NE",
+        "headline": "Tapir Gao says APFRA not against any religion, urges Arunachal Christian Forum to avoid protests - India Today NE",
         "source": "India Today NE",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEdONGNVQUM3NHdCSTEtcmJRWkd0Q1NLczJSXy1seVpqWjlZV29QWnJrblROOG1RcEM5UFRuLXRjaEE1cVp3ckdnZFhZMDNZdUx2QWRBdEw3eWhtVld4dUNMYlN0SFdVN3pCc21zSXcxR0I5UDdDa0xjemhnalRoNlk0NHR1cWw1dXJkVmxTelNFYlJFZnpFOVFPN3k1eEh5aGp0T0psdGg4V2pGU2dsQ3JHVWJtNnlfeW5NMGdIZGh3OEpRYjk4c0lYS0FidzlxSGlGbFUybmI4aUVzc05iVkw4blZyMXhobGtWaDFtNHNpX19MTG9jWWYyVTXSAYICQVVfeXFMTTdNdGxkUkhKd1I1bERlMnFSeEJkX01tMzBtQXV3NDk0OFR2cTZIbjhxLWVMSE9oSmoxMXFjQlFQS05UNTRMd3hOcktMYktiTnc1YU9JTGxqcC1BbU5UMl9vamxnNzduQ3pkODNObXNMTWxMR0lQeFJNNDc5aW1QdlUwVGJEeHlvd0VxU251SVdxVkJyS210MERYczdQTEJhUkhWVzJraG1tdWdvMHpFYWIwZFpkSGJxa1YzOERsUU5mSkR0cjBFWVpUaGQ1Uk4xdE1FeXRtcUQxWm40OFRncTd5YWZQRUI3dE5yUjRfZzl2REJnS3VsWUswa3JYazFsczNR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTWVPNXppanBPMjVyWUxJOHpDR2kyZlYwTUhRZ2dxNGdNa0tHRmNPZllMZWpyRkFyR29odmhuUV9vZ2dOc2tIeTJvaGxoZS1raG53aU9mMVlRWlJWUWlqRlZKZUtnOF9YOUNDdDY2bmwweExaN1pPamcxVFhwZlBUQVJ5dVVVV1RRZ1JxNXhROHE4ODlsU0c0VTVUSDBjd3BHZGhQNjB1cHhNd0EyQ0t3bHZxWDlUbUd3Y2ZQUjZPRVUtU1hCeU9sdlNlY2ZwZUlnYjI2a3BBTWp3NV9uT1dKZE5xN0ZDZ0RvdnNsVmVyTDhoNnBqUWdrclF30gH_AUFVX3lxTE93aUZROEc5THBtTEpKQXFKMTA2akVSUklDcm04cjNZanRzRDJUUVlpbzlQelZiV3ZEcjZCeGNlc3haZEw5RXhHZmVKNTlWaDMxWDM0dXFSSkd0a3IxQ0R5M1h2TGp6aVNuUnFxaV9Fd0R6VmpxUG8zNWpkaUZzcE5BemxsUnhva2xpaGFpM0lPS0pwUUdldXZTOG5zTFQ0d0FaUXVRdTQ5eUpZM1BENjZsaWJMREk4d2FsOVlMRGZkQ3pJam5nQUlnc0lGYno2WEF4QVRzVFp6ZEhhQTdtek9SZ1JYZER5NU1zVGx2UEh2YWRFblhoYUY2ZHhqaThSdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Indian MPs and US Embassy officials to attend Tibetan exiled leader’s oath-taking in Dharamsala - WION",
+        "source": "WION",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1BJaWRHVk9udHViVjNqbWUwZng5eFZuQkprVlhtZDFZWjdpOWNHOVl4bDZxN05kYmJ5UW5UcURHMnJIbTU5RjZ4RGJlSkNUYVBOaWpvY3ZCR1ZJa2NJVEI0VURRXzhBMU1LVnFTUEVXTTRLMDFFc1VzNkxiX0FGYmE5X3d5OV9XbG90Q3dEbzdmM0s5U3FBLVg1NFlXZTd4TE5SWUNCUktaYWxZOXk4cWNZYjNaT2NsRk1Za2tZWXhRTnl2ZjB3NkVSN29Sd0ZESzJBaGl30gHbAUFVX3lxTE9oNVhidUhNUGJBU05DUTRYWnZOa0U2bTlOSDZGajg5NWRBdjRVdHRndHNvVVY3VzlOQk5IZXlhQS1LZUR2LWp4X1RsZHVaYVE2TnI4LTNCVy1hMFNtUms4VzgtUXB4RFhpbmE0TExtYVhsN3JSM1ZIVG1hcU9MeDF3UEtzZWdRRng1SFBxLThTTFJQY0hHaEZ3NFpfXzRrUjk0TmlsdFNuYVdiNWhTQ0I3d0c2akFrd2lIc1VnRVplbkwyTFNGSFdGRjh3Zks3MTNXMXRnZFduZ09kdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Arunachal East election results 2024 live updates: BJP's Tapir Gao wins against Congress's Bosiram Siram - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZnBLMld6XzNydVRGTHZIaG1fdDRSZ094a2FXcDYtX0dRU2czQ1puXzdxWDR0UnhEZDhSVTV6cWFyWlVzLVBFVHB1bjE5RXduQnFWdWNNZ0xWc1phY1FlLV9nbFl0YTNVNHZCSzRLQnpMcXpwYVhoWGgwZkd6YnVsWlRmQlFXb1U0VXBUMkxjT1VPVWNyM1VodWNmRHViVW9CZlRkdDlJSXFaRVlWREcxZW5KNXZjRVlaVl85b1c5UmNUOHpPbDFKcFRRbDBwbC1IN3U4a0wzazB5eFNWZ2RaSjA5cHRJdkRKd3F1Znh0SHpXOFhtWlBMeFdNdmVlMEhpRE1mUUdaWUFyVmtLNkNMenhLOERnaFQxb3ZOVDlpcDJDckt3Z1ZhMGFnU1NWdHpnTTY2aTFjTWEyUDIwZ0400gHEAkFVX3lxTE1vcEFobHp2MDJiSkQ3bmo1Vnh5YXVObUd1cEp5WUFtYXJHeEl0SERydmE1NmhMRm9ubHN1M21ZNDloOVhjM1hOa0xEcEExNVdKWXVULVRtSi1RQ3RVZVhBZnFfb0ZNUTZ6TFhFclBHWi16TXZYYjY5Ylc0WExnNm1uckR4dU9SVmgwbGstZk8zSW4yRFRjTVdsSzJhd1prRzE0eEh3cklpUFN2WThjOHJORTRhdVppUDQtY2FmQnZFZy1MZzZqT1FfMnpaMTRDcWlpdTNDT0lSREhrMnRxQXZYSzNmenVNUEZlb3NDdDFBX0F6Z0oyOVBqZUx3MXVsbFkyM01FMDJMWTNsb0hpVGpIaEt3X0xvTXRRZmlGVjZuT0lVOWxzYkpXTHdCZEtrZjJnVS1yQWI0YUFhY0FCbGExNzFweg?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 24,
+    "starred_questions": 7,
+    "unstarred_questions": 17,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 46.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

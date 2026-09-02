@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 19522412.0,
-      "liabilities": 1009835.0,
-      "net_worth": 18512577.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 16.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.51,
-      "expended": 6.55,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:27:40.034179Z",
-          "notes": "Official eSAKSHI REST API — Works: 238 recommended, 238 sanctioned, 145 completed"
+          "fetched_at": "2026-09-02T14:39:16.421424Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:35:14.802990Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:35:14.800181Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 238,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 44.5578231292517
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:24:09.555766Z",
+          "fetched_at": "2026-09-02T14:35:14.799085Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Prime Minister disburses incentives worth 2,400 crore under Pradhan Mantri Viksit Bharat Rojgar Yojana - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UbDBkd3JSZU5zNUJIaU5zYTZuTm9lUFNSbmJWYjNjdmp5MzA1RDhoZUc3ZGM3VVFjTnNUbzNEWF9BcDNFa1FMRHFxdGhMNm1uenZiZWdvOHp4Y25Wd1BObFp4Qm1sRlFm?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Indore water tragedy: Influencer apologises after FIR over ‘objectionable’ reel against MP - ThePrint",
+        "source": "ThePrint",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR1U4X2o5dHo4RHpKbVhobWNSQzFRZExTaTBiSnM5SG1YOTMzekpBdE1wUFB1dGRGTzJIWkxibTJPV1ZKbF9hZ2hpX1N1bUJFVlg5NHV5YTdLajA3TER0OVgxXzZGdGUza25mdUFjbDlnREJYU0R0SzJWSktTLTdXaGs3SF9LQnowc1FyaXhmRk9sUW5ybGs2Nlcyc0xVWDZJSXBzb1A0dUJDb2tTck5Ednh4cnpkOUx1em1jSUQ1a9IBxAFBVV95cUxPYUphRjJGTDU5TG9kc2ExUFhyd1FRakhDR0ZjSG0td25rdVpjY2h2a3dhVHpZQUtLSmpsdHlqOGtTTlBLSS1MblJlV0tWVWY5cFhZOWp5bS1yeF9QbXdTYWhWdWNnZ0VkRjBtTWRXc3FyM3NQSnZWMUpWc1Z0enZyNjZSNkFpVEdGSmdoQnpVZ0JkSnhRRWs4NktLZlFWaUJvX3U3X2VraVN5dDZCb21YbzNnMWRyZFJ1OS1XS1ZVTnoxUWUt?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Who Is BJP MP Shankar Lalwani, Who Won Indore By 11.75 Lakh Votes - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSVNtRjY1U0lqOU1GelVmSmlRQWlveG1ObVZKRERFNzNEYVRPVmdyOXF2Z2RVbXgyTkJxSkdYWmYwVHdlUVo4LS1rRVdtNDNZWGtHMnFVQ2x0c0NMWHNEMTRDNzJKZG4zNUVVbnRkX0V1VkVTbEJqWmpfTFFmQnVqdHBhcDVvQjZGaU1ZM21vbU05OHoyazQ2WjFuaGNJOG04MEVRWWNwYXZ2Y2QzNS1RX1dIR0JXNGNWclowV1cwcHBfSFRLV2w4eW1NLTdud1RsZU1xd0ZVRGl0b2o4cmVsT212VldtaklXYlhZ0gHzAUFVX3lxTE9BeDZRaWwyZ3RhcFBqZXhqX1J3d05FVW5jVGx1UEpNYlJRT0hQajVsaXY0S2VBNVYxMzdTU29OUVJVZi03VjRxUHJBMWtmanpZWi16TEtwWkZGY2d6b0RUU2txZmYybm9USFRPMlR2YUJZZDVVMkNOQzhRcWFnX01vazFVSmlLS25WVkNkRWY0X2NBeDdZb0hrS3FBamZvZVFRamY2eWNIMjAxdGdEalA0alVwY2NGa2FaTUxHcVNmazdFMjhNZm1JUnA0UHBmWnJZSGtPc3lFWkxtRTVSUTNwNWZHMkFwSjJMamM2cF9fTFF3Zw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘No contest’ to NOTA: Indore scripts electoral history in 2024 Lok Sabha election - Frontline Magazine",
+        "source": "Frontline Magazine",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQSWdUZEgwNUVJSWNleE0xRS01Z2tzUGFXcUQtZ203eXhuSzZVb3UxOWlwTzhVMHpvTG5jVVRiTng2djNEVVlUd0lqSTN3b0JNX0ZMOVp0SDZCQXRWT01aRzFlWHJzcWhlaVIzZ1hFR1NXVmJQVFRpUWJhM2VEZXJYZGF6RlpOcVpYazI0b2pGOTB6UmNjTzJab2xYQVJUdmNRblY3Q0d0ZUlYdENGcXdSUVo0eEdIQzlKY3FTcWF5ZnhCTVRNNjRqYm1vTXl1RWxKemRNTHMxZ3BCOG9nWGhJNTNZb2J6dEJOSHhOeGtTX3FKRjFVZFBiWnZOanBOdmVKdE80QnpQdXY3SWFWUm1EYjFGZld0eWZiTDgzQ2xlVVNaMGd0MUEtSXZuYVdoem_SAbYCQVVfeXFMTXJLX284dFBCMGVraWNkWjNldzNIQUFaYmUyUVV5Y1RMZjJPMGFyNVdrRlBEQno2amFCa3dFNFNtSkl5OHNBYmstc0Jlc1I2SEZiSnJlaUwwWTFQMzVRMjJ0SXA1MHM5cm1GUHlwYUliS1Q3Z0diaHd4Z0ZIa3k3RzJLZG4wYkdjc0JTd2NiU21VeW5FRHpRSURDNF9fR014SnJjby1DQUJjM2xsX2poV1hWOF9obHNnanUxLU10S0JmYks4MVpsMHhIN0ozMHVUd2JWVGIwUmVVTzBSd3ZPUFZjYjMzMFVPb3BDU1BZdjBFUGp4dTV3LW1LekFrZ3ZUVW5hNl9HejZiYWlCTlAwV0tCdEFPN3ZKMjgwTGxRNkUtcktwSmxoSWg2YUZ6QUlaYUwwNEZNdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lalwani flags chaos at Indore airport, aviation minister orders review: Member of Parliament raises delays ... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR0loUDY4Sll6cUZEeHVMeDBnUW5FR0NkTENBQ2JlVjBXQ0cwaHV0STFVSTR0U1A3TXltT0JzOTBEZlY4ZDhTei1UU0ZOMFhDVE4wMlo0VnJNTDFGWjB1bXF2Wnc1SGUtYWpwRW1NdGVTN2g1dDhmQXR0R0RYMDJjX25NbC1sclBTVWJydTBVb3AwdDlYY0RfbHBzdEZOd0pPUWxZMXl0WDBld1ZlLS1PaHpSVEtOOUdHeWRhZjVpMlRYS19xaVM1LVJwc08xanhTMklFOVR5b3otZ0lBeVFfOHVfMUs3bnJPLWFFbzRfWFNyYmxreFo00gH8AUFVX3lxTE5WLW5XU09zMWozX3hXemJoeXNOZUpUbmtJR2lmT0xwTWNsQWRBOUR2QVdzSHhlZEpBaktKZzhzaURIaXpoUWNmLW9hcGNEVzJPQl9mLVBSbWl4OUk3NUY3dXNubWRfQ1VaVUdGa2ZDV2g2ZDhOWDhEeDcyenpWTk82WDRzTzBZUmhUSmhiWU1KY2RxckVuSnl5UDdhUzdjVUsxM3Rway1yLUxCV3dlRTB2aTEzV3JhRU5SM2h3VmxiY3dCcXdnMGYzakFWMHllbUVZM1BGLTByZkNhdVNORXRpYmVKZGhrUDMxMjRwNmUzOXNVMi11ZnVFREk0LQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:25:10.853764Z",
+    "collected_at": "2026-09-02T14:39:16.422739Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.048782Z",
+          "fetched_at": "2026-09-02T18:38:07.544615Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.048791Z",
+          "fetched_at": "2026-09-02T18:38:07.544626Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.048795Z",
+          "fetched_at": "2026-09-02T18:38:07.544632Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.048800Z",
+          "fetched_at": "2026-09-02T18:38:07.544637Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.048805Z",
+          "fetched_at": "2026-09-02T18:38:07.544643Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.048809Z",
+          "fetched_at": "2026-09-02T18:38:07.544648Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.048814Z",
+          "fetched_at": "2026-09-02T18:38:07.544652Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -249,7 +305,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.048818Z",
+          "fetched_at": "2026-09-02T18:38:07.544658Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -274,11 +330,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/iSHANKARLALWANI",
+          "url": "https://x.com/http://www.twitter.com/iSHANKARLALWANI",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/ISHANKARLALWANI",
+          "url": "https://facebook.com/http://www.facebook.com/ISHANKARLALWANI",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:35:37.115646Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -287,19 +368,11 @@
       "neutral": 8,
       "top_headlines": [
         {
-          "headline": "Small businesses will play a big role in contributing to Indore's GDP: Shankar Lalwani - The Economic Times",
-          "source": "The Economic Times",
+          "headline": "Prime Minister disburses incentives worth 2,400 crore under Pradhan Mantri Viksit Bharat Rojgar Yojana - PIB",
+          "source": "PIB",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc3hmZUFMWVFNWks1TkcyR1hoVXJTbThydk9ZODBUVHVEX2hvTkV0VTlrR29mWDBVNjdwVXVKVGxlUVZUYUhldGVMbnFjc0ZGcjZkLTlMYjFOX21CZ3JMQ0JqU2dtTnFTWFVoSS1RVVdQX1VzRjNtZHNac3ZHc2EtOFZNTGdBTm83MFdMYS1keVE3TzVZa0hxWWw0U1ZRZXZhMmxwLXpGZHFvMmtQUW1uY0RVRWQwUlR3YWdoQXpEZGJpSUNxZzZsT0VtOUNRWk5mZ2MwZHNmcmlSdUhwUm1IelNwZmpjRmpqOWtPZTBB0gHzAUFVX3lxTFBjSG9LWU1Rd2xyZ1lkdDRzMElMWGlERnBKOGtoQ3dSa1BzVHFpTGNocnlvVTFMZFRrUmNtRC1Udks5bXhHbWVDYjMwQThwMWtHQ0NIMVNEY1JqVXFocjFIYjdqTXM2SjBlc0Q3Q1RZcWhJd2lGOFgxTE5aUllfcFN1RGRLN0lyaFFzSS0zNzlseEVVQVpfYndfdnh5T3JiZmxSbWZsNXBucVd2U210S0pZcy1HUWFqMUw0QUZwU2ZEbEpCOHdZcWVKYUxWRF84R0VzUjZUTEIwNkRQVTJDRVQ0SVZXYkRGNUNST1ZuRlJGUVhqRQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Influencer Charged Over Indecent Remarks Against Indore MP On Water Deaths - NDTV",
-          "source": "NDTV",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORTJVSDRfUHQ4UGVwdUpBc3NNVVJRSE8xNUxGRFFkMkdJazZRWExVN2RxT210VGFkejljN2s3eVFzMkdBMkxKQUdFeGxZRmlMY0JLZGRBcmZ6R3RoLUxaMUNzbEpkYnFkUHoydW1HRl8xbmFNa2ctZmZoYzNaa0N5bUFNSDNQRS1QeXEzYXBQcWt3X3JxS3g1d0stLTgwcmRfWnNHelUtUjR5U2tXc0hKaTFlRDR5SUd0LW9vM0ZwX2ZFUXByQnB4RVdqRklrVG85QnlyNWZ5QVV4OWZveTZSV0Y0ZDRFa2xfRzlUTGtVci00N0xHQkEtMkZ2V1hmSy04X3ZmdXFENjA5NGPSAZMCQVVfeXFMT3lHcFVqZnlaM1pYdkVPVWtZWGtjVnNoem41WFZ0Z1BSd2RVNEI1YmJYYldHWkc2d1BUT2MwOWNlQnFTTUdrOW1nT1pxNkVMV1NjY0RxT24yUzNOR0dsS0didnBjWGU4WE9GNjFWSC1NSngyMW1WajlCWEZTNGMxVFNYNl93NjE5dUlVRF93U3lWbl9NQjNhYXFWMWg5N2VwOHYtVXgtakxtbENXeG9PUnRlLUlMdzludV9sSUhEdWxIb2dPd3ZFUGlCY01iUlZJZ2ZtZkpaQk43aEkwbUVDbnRQSThMUDdqajZLbTJUU2U0M1N3OW5WVG5sTmxfZWg3X3FlYUNhM2hXUHhQdTlWNWlrRVU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UbDBkd3JSZU5zNUJIaU5zYTZuTm9lUFNSbmJWYjNjdmp5MzA1RDhoZUc3ZGM3VVFjTnNUbzNEWF9BcDNFa1FMRHFxdGhMNm1uenZiZWdvOHp4Y25Wd1BObFp4Qm1sRlFm?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -311,20 +384,28 @@
           "sentiment": "negative"
         },
         {
+          "headline": "Who Is BJP MP Shankar Lalwani, Who Won Indore By 11.75 Lakh Votes - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSVNtRjY1U0lqOU1GelVmSmlRQWlveG1ObVZKRERFNzNEYVRPVmdyOXF2Z2RVbXgyTkJxSkdYWmYwVHdlUVo4LS1rRVdtNDNZWGtHMnFVQ2x0c0NMWHNEMTRDNzJKZG4zNUVVbnRkX0V1VkVTbEJqWmpfTFFmQnVqdHBhcDVvQjZGaU1ZM21vbU05OHoyazQ2WjFuaGNJOG04MEVRWWNwYXZ2Y2QzNS1RX1dIR0JXNGNWclowV1cwcHBfSFRLV2w4eW1NLTdud1RsZU1xd0ZVRGl0b2o4cmVsT212VldtaklXYlhZ0gHzAUFVX3lxTE9BeDZRaWwyZ3RhcFBqZXhqX1J3d05FVW5jVGx1UEpNYlJRT0hQajVsaXY0S2VBNVYxMzdTU29OUVJVZi03VjRxUHJBMWtmanpZWi16TEtwWkZGY2d6b0RUU2txZmYybm9USFRPMlR2YUJZZDVVMkNOQzhRcWFnX01vazFVSmlLS25WVkNkRWY0X2NBeDdZb0hrS3FBamZvZVFRamY2eWNIMjAxdGdEalA0alVwY2NGa2FaTUxHcVNmazdFMjhNZm1JUnA0UHBmWnJZSGtPc3lFWkxtRTVSUTNwNWZHMkFwSjJMamM2cF9fTFF3Zw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "‘No contest’ to NOTA: Indore scripts electoral history in 2024 Lok Sabha election - Frontline Magazine",
+          "source": "Frontline Magazine",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQSWdUZEgwNUVJSWNleE0xRS01Z2tzUGFXcUQtZ203eXhuSzZVb3UxOWlwTzhVMHpvTG5jVVRiTng2djNEVVlUd0lqSTN3b0JNX0ZMOVp0SDZCQXRWT01aRzFlWHJzcWhlaVIzZ1hFR1NXVmJQVFRpUWJhM2VEZXJYZGF6RlpOcVpYazI0b2pGOTB6UmNjTzJab2xYQVJUdmNRblY3Q0d0ZUlYdENGcXdSUVo0eEdIQzlKY3FTcWF5ZnhCTVRNNjRqYm1vTXl1RWxKemRNTHMxZ3BCOG9nWGhJNTNZb2J6dEJOSHhOeGtTX3FKRjFVZFBiWnZOanBOdmVKdE80QnpQdXY3SWFWUm1EYjFGZld0eWZiTDgzQ2xlVVNaMGd0MUEtSXZuYVdoem_SAbYCQVVfeXFMTXJLX284dFBCMGVraWNkWjNldzNIQUFaYmUyUVV5Y1RMZjJPMGFyNVdrRlBEQno2amFCa3dFNFNtSkl5OHNBYmstc0Jlc1I2SEZiSnJlaUwwWTFQMzVRMjJ0SXA1MHM5cm1GUHlwYUliS1Q3Z0diaHd4Z0ZIa3k3RzJLZG4wYkdjc0JTd2NiU21VeW5FRHpRSURDNF9fR014SnJjby1DQUJjM2xsX2poV1hWOF9obHNnanUxLU10S0JmYks4MVpsMHhIN0ozMHVUd2JWVGIwUmVVTzBSd3ZPUFZjYjMzMFVPb3BDU1BZdjBFUGp4dTV3LW1LekFrZ3ZUVW5hNl9HejZiYWlCTlAwV0tCdEFPN3ZKMjgwTGxRNkUtcktwSmxoSWg2YUZ6QUlaYUwwNEZNdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Lalwani flags chaos at Indore airport, aviation minister orders review: Member of Parliament raises delays ... - Bhaskar English",
           "source": "Bhaskar English",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR0loUDY4Sll6cUZEeHVMeDBnUW5FR0NkTENBQ2JlVjBXQ0cwaHV0STFVSTR0U1A3TXltT0JzOTBEZlY4ZDhTei1UU0ZOMFhDVE4wMlo0VnJNTDFGWjB1bXF2Wnc1SGUtYWpwRW1NdGVTN2g1dDhmQXR0R0RYMDJjX25NbC1sclBTVWJydTBVb3AwdDlYY0RfbHBzdEZOd0pPUWxZMXl0WDBld1ZlLS1PaHpSVEtOOUdHeWRhZjVpMlRYS19xaVM1LVJwc08xanhTMklFOVR5b3otZ0lBeVFfOHVfMUs3bnJPLWFFbzRfWFNyYmxreFo00gH8AUFVX3lxTE5WLW5XU09zMWozX3hXemJoeXNOZUpUbmtJR2lmT0xwTWNsQWRBOUR2QVdzSHhlZEpBaktKZzhzaURIaXpoUWNmLW9hcGNEVzJPQl9mLVBSbWl4OUk3NUY3dXNubWRfQ1VaVUdGa2ZDV2g2ZDhOWDhEeDcyenpWTk82WDRzTzBZUmhUSmhiWU1KY2RxckVuSnl5UDdhUzdjVUsxM3Rway1yLUxCV3dlRTB2aTEzV3JhRU5SM2h3VmxiY3dCcXdnMGYzakFWMHllbUVZM1BGLTByZkNhdVNORXRpYmVKZGhrUDMxMjRwNmUzOXNVMi11ZnVFREk0LQ?oc=5",
           "sentiment": "neutral"
-        },
-        {
-          "headline": "Influencer Apologises After FIR For Remarks Against MP In Indore Water Tragedy Reel - Outlook India",
-          "source": "Outlook India",
-          "severity": "medium",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2ZLVThBQ0tsWTJuN2I5MWVGMDItVHVFWldTU1pRS0FLWXZEd1RDTWZaQUdTWmRkSktSd0lrbDJMRHExNDB3c0RWSHNwcV90RmpfM3RRSGhlZWJFWl9zZ05ZQW5LQzB6Y3dwb0ZFSVhoN1J5dGxVaU5LU3U0TG5senUzNllWUWIwZUIybzU3ZlNoMWd2Y3JxaEpkcm9GQnNWVWxucjVxaU5YYzNWa0JRNFFIVFJvb29MQ1g2dk1DMjJIbknSAdABQVVfeXFMUFpEdi10Q1FkVmpLU0xfSk5ZZF9DNlRDdW40YkdUOTJSVEludGRFT3pJNGh2LV9NbG9meFdDejV4QXdjZFJ5ZHFnQnF5N0Z6OU9KRHdveFpURkVfZExwbmtKQXNsNE55akt5MTlFdWhNcVVVUjdRWE04T04ybGdmd1dyaV9mVjNHS0trdXdzLXZTSXk3TUg4TE9MdkZJSk5KZUJEVmJBNWJlTkNoUFZwMDJ1LU9HdkEzYnRseVZhbFFLLVZzMnRxQ2RiUTNPaE1meA?oc=5",
-          "sentiment": "negative"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -357,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 42,
+      "starred_questions": 12,
+      "unstarred_questions": 30,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 81.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -373,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -404,8 +485,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.21,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -419,12 +518,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 19,522,412. MPLADS utilization: 44.6%. Parliament attendance: 100.0%. Questions asked: 42. Debates participated: 8.",
-  "validated_at": "2026-09-02T01:36:50.049522Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 42. Debates participated: 8. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.545395Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Surguja",
     "state": "chhattisgarh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3450,
+    "myneta_candidate_id": null,
     "slug": "chintamani-maharaj",
     "house": "lok_sabha",
     "sansad_member_id": 5702,
     "profile_url": null,
     "canonical_name": "Chintamani Maharaj",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 56,
+    "age": null,
     "photo_url": "/mp-photos/5702.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Surguja",
       "state": "chhattisgarh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3450,
+      "myneta_candidate_id": null,
       "slug": "chintamani-maharaj",
       "house": "lok_sabha",
       "sansad_member_id": 5702,
       "profile_url": null,
       "canonical_name": "Chintamani Maharaj",
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 56,
+      "age": null,
       "photo_url": "/mp-photos/5702.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3450",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.685295Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:33:36.711542Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 41298468.0,
-      "liabilities": 3502648.0,
-      "net_worth": 37795820.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3450",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.685308Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 33.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.06,
-      "expended": 5.4,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T18:21:20.834451Z",
-          "notes": "Official eSAKSHI REST API — Works: 327 recommended, 244 sanctioned, 43 completed"
+          "fetched_at": "2026-09-02T14:39:51.991838Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:35:51.327893Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:35:51.324794Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 327,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 36.734693877551024
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:23:42.082238Z",
+          "fetched_at": "2026-09-02T14:35:51.323760Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Commercial Flights Begin On Raipur-Ambikapur-Bilaspur Route In Chhattisgarh’s Surguja - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcW1VaDUteDZ1TmRuSGZDUGY0ZkxYNFc0clVRamp0RGRfd21mUlBDZ1g2YWxsRjVNUGsxSTR0LXF3Y3M3VjdPNDkxUzhCSXkySmVVb0dPMFVieTNKMlhYLUNIanVCdloxdGhPNjBwNDJlVWFzLUgyTVlzRC14NDUxblNlN21BallLQ0ZqNVJVTlZac09XbkNjMFIwSlo3NnpLa3NDTkxUTW1RbGFoRUZmR1BTcjk1R2J2d0VQMnBsWm5BZmdMWmsxczZ2WWdFd9IB0wFBVV95cUxNM0FLTWRrU252LVFsenZ6LVBHVWRMejYtbjJqUFN4UUdrbTIwMHpXQWhrX2RoOG40QlFtbGFjYmo2NDNpNl81MnpacDRrazIxc3JVRXZtdGR3RTVETXNiUXpPaEhncjc5Q19STmVpRndPVzJocWMwVldEejcxVGFRbDRJcV9IVDl1ajNBN3BXa0w0WDdfUGZiaUIxU2RXRU12Z0UyNVlrbVEtM0pzbDVCVy1LV3RYdG81c1RKTldBOTkyeEM4RUhEYjh0eGxjNEFIeFlZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Know Your Turncoats, Part 10: Kin of MP who died by suicide, Sanskrit activist - Newslaundry",
+        "source": "Newslaundry",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdG1jYXF3NDkzeGJ3d3VTYl93b0F4NkgtdWlNRTdNTFhtdVpaV0ZQQmZTZ29OTDR4M0VHLUMycEl1c0FpTWE4b1c3TkdLUklPWlZaV0dkcjZrcUVxZ3lBdTBRNUI2QmozcjMyWVJHWXpVVUNyRjMxV1RuUUxBci1OTF82ZE5VejF4WUZhVFdDNUJOVFVLRW15c0RjUE5fejJvazdBU3BHeG45bFF0Wk5QQXhKcHV0WnhCQzlKMDFycmVsbDVhQzJ0QnRR0gHfAUFVX3lxTE5Rb1FVYzZxMmlFSlVpVE50ai1fYUZiV054WHdEQktvT0otaXpEb1M2TGM5SWpTZlpMam9FaHBoNXV5X1lFcndpa3NKMlpYNWtXT09aQzg0U1FYaGNpRG5hbXJKVlV0TmpjOGFnVllVSmExNGtiQTBOWjNhSmFfMnJYdUxvUE5MYVpXVGR6QUxvRkxfRG9MQWtaMnZNZHJlTkY0N1JReUVBZDBMSTVkdWk1QmlzUWJTZ0JfYldfb1RQM0NYclgwVFUxSUdac2lTRXZWb2NvNDZWM29MNENPUGs?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Former MP Hegde, two ex-MLAs join Congress - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFhwQmhOQUF1eW1lcXVEc2pxZ3M2a1BkOHotS1J5d0J1S2d3bXd2d0lMMDBvS1NoYldSbUFqLVdXQ1d2LVh3OWZ6Umt6ZWxhRVNMN2pCSXBhQjA1QWlnZjdnaVU4eEVzdFRoYktCUmZTNkFDNF9kODQ1bWdJS2xqQ1Q3SkRqYk1KNk01c21ERm1OeEFTYUZXbm9tWHRvZmp1UGE3SVdXWDkzUTFaaFdpNVZUbFJLQXdjTjdKckNMMNIBxAFBVV95cUxOVmk3dHNHX1l6QkYtLWxIVUVtbDhXY3RIWnVPZG54MzJBcUxiQWRScHpQdEM4LWRaWVJqWVdBNVV2ZDdEbTZPcktNa09PaGtqNzVsOW5fTnFTT2NnTVExWlVTSGRobUJTUFJTdnczODM5blJGRzZzT0oyQ0NrWnJOeDFZOTNWWWZBbWlycDlVckxael9RR1hQb0Q1N0JKbXNFbkRWQUVsdjhJM093SDNZRHdmOFZ4UVFKN0JGRFFkakNPaWx2?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Grand inauguration of NIRDC building at Industry Vihar Phase-2, Gurugram, Delhi NCR - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1ZmT1NmbG42SjdNZGdhRDF2WGNPd0thVjEwMUZDNG0tckRFSUw5SUdCMUlRTkJFdDZ6VW9zX2FWVVZUUDVqWWs4eklDbnFhMmcyNVBwRG1UTVdPMVF1Zm9TTy01bE5kVUZxT1dxUjllU09TVk1paWNpVU15d2ZMX1VKY2tmWC1oVVVvZFJfUXhleVhYMERPMDJBX1NKMkJnOE14aHZIUFFFVGJIeVQ2SllQQkFrcU8wc0toamt3dDRTOTBFMS1JcENFaEg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM inaugurates 5 Amrit stations - thehitavada.com",
+        "source": "thehitavada.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZkxyUXFaai04TlpaNkZELUpCTWtlYXpqT2tzaE9EX1RER0tMek41UzRzU004Y0hvR1hRTVlVOWt6LUs5c0hOYUh3WW5xY2tvdm9yc1ZkYWV5dk5IWDFlTDFrR0gzTVdSOVdhc1VzektiSG45ZC1OMzg4QjQ0OVJxYXhEVjlYcTTSAYwBQVVfeXFMUFhWSHl2RFI4SmtEbS03X0JxQ3NPaDhxcjNCRHFQWTJ2Y0E2VFVLaE5hSGFkZDNXU0otTG4tb0JscjF4UXNtVWpGX3JMSWtGRlNIUml1UXpEM2x1dVFDekN3cTF6SjlsaXpzbXZmdzRaaHdBeUdyNmZNcE5ySHV2c0hDQm0wTXdpa2s1eWs?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:24:48.288793Z",
+    "collected_at": "2026-09-02T14:39:51.992782Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.595798Z",
+          "fetched_at": "2026-09-02T18:38:05.198165Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.595808Z",
+          "fetched_at": "2026-09-02T18:38:05.198179Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.595813Z",
+          "fetched_at": "2026-09-02T18:38:05.198186Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.595818Z",
+          "fetched_at": "2026-09-02T18:38:05.198197Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.595824Z",
+          "fetched_at": "2026-09-02T18:38:05.198204Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.595828Z",
+          "fetched_at": "2026-09-02T18:38:05.198209Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.595833Z",
+          "fetched_at": "2026-09-02T18:38:05.198214Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,50 +322,51 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/mhraj_chintamni?lang=en",
+          "url": "https://x.com/https://x.com/mhraj_chintamni?lang=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/Chintamani.Maharaj/",
+          "url": "https://facebook.com/https://www.facebook.com/Chintamani.Maharaj/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/chintamani.maharaj/?hl=en",
+          "url": "https://instagram.com/https://www.instagram.com/chintamani.maharaj/?hl=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:35:54.238605Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 9,
-      "positive": 1,
+      "total_articles": 10,
+      "positive": 3,
       "negative": 0,
-      "neutral": 8,
+      "neutral": 7,
       "top_headlines": [
-        {
-          "headline": "LS Polls 2024: BJP Fields Cong Turncoat Chintamani Maharaj In C’garh, Drops 4 Sitting MPs - ABP News",
-          "source": "ABP News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWFhtTkFhaVBBRUlkSVhhUVJTMFdGRFJmNzczek1lYWt0R3pNV0I0UDNMT2VPUVlnaVdmenh0WmpxRGFlcmJaenB6SUFUN3JXQ3U3dkNHRElKeU9hVnAxYTl2Nnp3M24xb3pwZ2xxTHNfRktvYllhUmNrcVJ4aDhyUktReXpkSE9nY1dndXN0RV9OWDNXSzI3OElhTk94OVZVc01VR2F1OGF2SkszVFJUSFlZMk9IYlpSdnMtZ2o3ODlxWFZMUUt6cjJDQkFreTA4X3BfUG9RaDNPd0lIOVHSAeMBQVVfeXFMUE4xenZvMS0yelhyTDZ6WGh1WnhnZTZZS3JrMFRuTTNVSjdpYmQ1REFGQUJoYTJ2dDFPcHJwNnVzX0NUZ0dVM0xFdlJUVXZqMlpRN3BVMXEyRVlaWFpNZDg5TnQwUkxjc1BENkljaUJhNVZxQVpOQmktZkM3WFJfcDdjNF9BenNEZldDWDNrdkJhaVJ4NkRhbGxpRXo4QWdYNThZUjNaZ1JKVUxabFdxNDExYndRcG9OejhSTjZ5TDRjamt3MnFPNzhUZC1IcC15MTVxS1hENURidXJWM1B0d182ZGs?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Parliament of India : Lok Sabha Member of Parliament – M - Sarkaritel.com",
-          "source": "Sarkaritel.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcm54SmxRNkhBd1duZzNneGV4Umk0VS1fLUVheThHV0psRzVPR0s2c3ZsX0p6b0xfTUdNYm5xbkZSUWJKZXhwQTVWeERIUmZodUN4R1JSck0yTGZpakNXaFYtZWVWLTJMUlI5VUUyeXF3MmFBZWhxWGF0NmZ1WV84dmg5SkdhQms?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Surguja Election Result 2024 LIVE Updates Highlights: Chintamani Maharaj of BJP Wins - News18",
-          "source": "News18",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSjNtVUc0LU1BeVRnVG11b19wU0ZFYkY1X3hjVmpwT1BOcENsSE5QR0wtbDdWRDUtNnZCb21IYUlEX2tmNFdWb2lzSmJuMFZUOXVnOVhRcDBBREViX0hQNmNHdm1RRDk4aEpCZjdyeTg3d3ZkV1NBNHJWYlBZSFVzSTVlOVhka3F6b3N5b1pXcTNLLW1oeDAtazhCby1jVWlUN3FKSDM0QU1TeVZfVl94RnZQTnBnNExBQ3BSZm16al9JeXMyNjU3Q1M2VndHRngtV1FOU3V5VGFjTzVJME13UGNn0gHnAUFVX3lxTFBXeXlDWGNJQ1FWdEk5VWtIX0ZqN3BmdTFydVhEUG40bVJMWkhKWXNHbzZUdzUtWG9ha1YwdFBNQ2JZUi1ORThVb09TX2xNb08yQ3BmaTFKelZ5dlYxeFhiOF9VUGtHVkFDZmd2MGVENENuVkVjUHUweVF5VS1nYVR1OEdOREFhYkNscWRPS21mZVFQdGJQbEx5M0tZT2dLTEtTenRGWVNXWXB0VEFlZGJ6WUN5eDJfYWZyQzFGd0tfNDdaaTNLekxvbWZUaUxHLU9QbXFOT1dhSS11NkFDY3UwUW1kQzdKZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "As turncoats fail to make a cut in Chhattisgarh, all eyes on Maharaj - The New Indian Express",
-          "source": "The New Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOEplYmg4Z0RtYndNQ0VYVUVQVTVXY2p0RnpVUVRqNHQycUFfQzkzZW1rTV96TlVDTTNSVERzWHlGejB1LW9LZ3FYWlNDdnQ0ZE5tRlNxVERkRVQyT2x1cXo5M0RBRzhGZlJSUldRZzhzOEFDdXB6bFV3a0hsSE1nQjVmazBFaUFFMTdYUEhmZ1lzWTEtYWRHU2tfOFpiVk1MOGlNY3lHejczVDRFVnlKV3VlSmNsV3RXQjhj0gHIAUFVX3lxTE5wSHYyQkJiSkV0d3JOalBQM3huLU5Oc3FidWpRMjY2ZndxaVJIQW9IV015cHVJZGdWREFrNV9RaFMwTjFDNVE1NXB2ZFhXWWxFYzhaVmJORkRMNE9IdXduRnlhVnJYTWNQM3k1TUZuR3VsWDhTY0ZQM1J1YnZGOUtDeTJrbmdBQ3lOZWVoWHNiY1B0NVBMMnRUMGZjWEQ1c2lHQ2dBdlZZZFROeTdQTC1JV0xhcTNRLTJibHVSakY5MlJZaTNLc3pM?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Commercial Flights Begin On Raipur-Ambikapur-Bilaspur Route In Chhattisgarh’s Surguja - ETV Bharat",
           "source": "ETV Bharat",
@@ -328,9 +374,41 @@
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcW1VaDUteDZ1TmRuSGZDUGY0ZkxYNFc0clVRamp0RGRfd21mUlBDZ1g2YWxsRjVNUGsxSTR0LXF3Y3M3VjdPNDkxUzhCSXkySmVVb0dPMFVieTNKMlhYLUNIanVCdloxdGhPNjBwNDJlVWFzLUgyTVlzRC14NDUxblNlN21BallLQ0ZqNVJVTlZac09XbkNjMFIwSlo3NnpLa3NDTkxUTW1RbGFoRUZmR1BTcjk1R2J2d0VQMnBsWm5BZmdMWmsxczZ2WWdFd9IB0wFBVV95cUxNM0FLTWRrU252LVFsenZ6LVBHVWRMejYtbjJqUFN4UUdrbTIwMHpXQWhrX2RoOG40QlFtbGFjYmo2NDNpNl81MnpacDRrazIxc3JVRXZtdGR3RTVETXNiUXpPaEhncjc5Q19STmVpRndPVzJocWMwVldEejcxVGFRbDRJcV9IVDl1ajNBN3BXa0w0WDdfUGZiaUIxU2RXRU12Z0UyNVlrbVEtM0pzbDVCVy1LV3RYdG81c1RKTldBOTkyeEM4RUhEYjh0eGxjNEFIeFlZ?oc=5",
           "sentiment": "neutral"
+        },
+        {
+          "headline": "Know Your Turncoats, Part 10: Kin of MP who died by suicide, Sanskrit activist - Newslaundry",
+          "source": "Newslaundry",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdG1jYXF3NDkzeGJ3d3VTYl93b0F4NkgtdWlNRTdNTFhtdVpaV0ZQQmZTZ29OTDR4M0VHLUMycEl1c0FpTWE4b1c3TkdLUklPWlZaV0dkcjZrcUVxZ3lBdTBRNUI2QmozcjMyWVJHWXpVVUNyRjMxV1RuUUxBci1OTF82ZE5VejF4WUZhVFdDNUJOVFVLRW15c0RjUE5fejJvazdBU3BHeG45bFF0Wk5QQXhKcHV0WnhCQzlKMDFycmVsbDVhQzJ0QnRR0gHfAUFVX3lxTE5Rb1FVYzZxMmlFSlVpVE50ai1fYUZiV054WHdEQktvT0otaXpEb1M2TGM5SWpTZlpMam9FaHBoNXV5X1lFcndpa3NKMlpYNWtXT09aQzg0U1FYaGNpRG5hbXJKVlV0TmpjOGFnVllVSmExNGtiQTBOWjNhSmFfMnJYdUxvUE5MYVpXVGR6QUxvRkxfRG9MQWtaMnZNZHJlTkY0N1JReUVBZDBMSTVkdWk1QmlzUWJTZ0JfYldfb1RQM0NYclgwVFUxSUdac2lTRXZWb2NvNDZWM29MNENPUGs?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Former MP Hegde, two ex-MLAs join Congress - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFhwQmhOQUF1eW1lcXVEc2pxZ3M2a1BkOHotS1J5d0J1S2d3bXd2d0lMMDBvS1NoYldSbUFqLVdXQ1d2LVh3OWZ6Umt6ZWxhRVNMN2pCSXBhQjA1QWlnZjdnaVU4eEVzdFRoYktCUmZTNkFDNF9kODQ1bWdJS2xqQ1Q3SkRqYk1KNk01c21ERm1OeEFTYUZXbm9tWHRvZmp1UGE3SVdXWDkzUTFaaFdpNVZUbFJLQXdjTjdKckNMMNIBxAFBVV95cUxOVmk3dHNHX1l6QkYtLWxIVUVtbDhXY3RIWnVPZG54MzJBcUxiQWRScHpQdEM4LWRaWVJqWVdBNVV2ZDdEbTZPcktNa09PaGtqNzVsOW5fTnFTT2NnTVExWlVTSGRobUJTUFJTdnczODM5blJGRzZzT0oyQ0NrWnJOeDFZOTNWWWZBbWlycDlVckxael9RR1hQb0Q1N0JKbXNFbkRWQUVsdjhJM093SDNZRHdmOFZ4UVFKN0JGRFFkakNPaWx2?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Grand inauguration of NIRDC building at Industry Vihar Phase-2, Gurugram, Delhi NCR - aninews.in",
+          "source": "aninews.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1ZmT1NmbG42SjdNZGdhRDF2WGNPd0thVjEwMUZDNG0tckRFSUw5SUdCMUlRTkJFdDZ6VW9zX2FWVVZUUDVqWWs4eklDbnFhMmcyNVBwRG1UTVdPMVF1Zm9TTy01bE5kVUZxT1dxUjllU09TVk1paWNpVU15d2ZMX1VKY2tmWC1oVVVvZFJfUXhleVhYMERPMDJBX1NKMkJnOE14aHZIUFFFVGJIeVQ2SllQQkFrcU8wc0toamt3dDRTOTBFMS1JcENFaEg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "PM inaugurates 5 Amrit stations - thehitavada.com",
+          "source": "thehitavada.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZkxyUXFaai04TlpaNkZELUpCTWtlYXpqT2tzaE9EX1RER0tMek41UzRzU004Y0hvR1hRTVlVOWt6LUs5c0hOYUh3WW5xY2tvdm9yc1ZkYWV5dk5IWDFlTDFrR0gzTVdSOVdhc1VzektiSG45ZC1OMzg4QjQ0OVJxYXhEVjlYcTTSAYwBQVVfeXFMUFhWSHl2RFI4SmtEbS03X0JxQ3NPaDhxcjNCRHFQWTJ2Y0E2VFVLaE5hSGFkZDNXU0otTG4tb0JscjF4UXNtVWpGX3JMSWtGRlNIUml1UXpEM2x1dVFDekN3cTF6SjlsaXpzbXZmdzRaaHdBeUdyNmZNcE5ySHV2c0hDQm0wTXdpa2s1eWs?oc=5",
+          "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -360,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 24,
+      "starred_questions": 7,
+      "unstarred_questions": 17,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 46.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 80.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Chhattisgarh: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 41,298,468. MPLADS utilization: 36.7%. Parliament attendance: 80.0%. Questions asked: 24.",
-  "validated_at": "2026-09-02T01:36:47.596629Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 80.0%. Questions asked: 24. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.198986Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Jalore",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2557,
+    "myneta_candidate_id": null,
     "slug": "lumbaram-choudhary",
     "house": "lok_sabha",
     "sansad_member_id": 5621,
     "profile_url": null,
     "canonical_name": "Lumbaram Choudhary",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/5621.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:10.685626Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 19587446.0,
-    "liabilities": 626171.0,
-    "net_worth": 18961275.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2557",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.774654Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 16.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.96,
-    "expended": 5.63,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:44:56.779187Z",
-        "notes": "Official eSAKSHI REST API — Works: 159 recommended, 138 sanctioned, 50 completed"
+        "fetched_at": "2026-09-02T14:35:03.652177Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:30:56.927462Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:30:56.925460Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 159,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 38.29931972789116
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:43.575261Z",
+        "fetched_at": "2026-09-02T14:30:56.924650Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP MP got Rs 4.20-lakh subsidy to grow lemons on his farm: Centre’s reply in Parliament - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNUZIS1RoQ0IwSWF1SFBpeFdFaVhwQW1aeWl5TXM2MXdjZ1ZRdXJYUG4zYmhUcVZSdW90eFdFd3pGZTVnWTBJeHlwVklncFNxMGdNLXVOYVVhOXY4QmNKUWlweUtjSmI5QzBzQ0lrSkJCVlNjUVBPWEpFbVZzbHV1aWxxbEhubjBYY2t0U2ZhTjhQZ05JeGJLeVlBbGlXQl8zVFAtWVAxT25PWE5KeC01RHd5R3o0VW9YSjJUUE9kV3NtX3Vn0gHLAUFVX3lxTFAzMjcwSjdWLU5id2F2ajZoZnUyVHplMFQtenlhMGVTZTViNEZIa1dIYlRQcTFac3FteDlGTHhYLXl2NFFMNy1MbEN3WmxQbGtmTWRkdklVZ2V0enlBTHVHUGppX3FNNWlpX21ISE5RM1JrMWlKVUljcVRLM3ZWNzVTcjY5NndMcnZuVS15cmJfY19UcjFsdG12OS1zOEtxbUVHRXhtSnJkVk93elBTWEZURXM2Y0FWdW53Ui1LeWlldW03YjFseVdGU3Zz?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP surrounded by angry residents: Shown sewage water outside homes, locals say cholera is spreading - bhaskarenglish.in",
+      "source": "bhaskarenglish.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdFcwa1FXZHNyS0VqS2NMODJBcEgyTzBoSF9VZUctc2ZBSkFIR3RjdUJYRE9IWVdLWktNbThGTEhjaDFla0k0Qm55VEdfd2VfNVFQS1VFOUxKdXFaNUpwd0MtX3Qwb0dUVnU5WWJ1VS1XZUVWRnQ4RVhWU3d4YWtuT2lvUzdVNGtFNlI5TDl0eG1wVzBMUW9NWGtUNE11N1QyLUdyamNXTHpCWG5Gc2UtMllYZzFSb181WDRPQ0JhY01rUVNCUE91VHpWZkUxNW_SAdQBQVVfeXFMT20xQXIzTFpjYTRQVUdNdkNIM1FVNFQwX1BONm5qVlVBSUZweERLX0hoaW02alhHQ3d4cG9HR2JCakhjOXUtbG5idXFnTXdDbVZUQkxfUFB5VnNBbENQcmZjM2ZnNTZvREIyNDg2UGRfMlBrR21qMFl6MXFXN0wwRHNvb0lzdHMyY2s4bVpJbVdHbngtbjA3VlMtT1lBTFVmSDZTNXRVdlF4NDB4bTFSa09DR2tkY29XcVUtdzlMdmpTYnNDcTBrbnlLVl9DUGxWTkZZUzk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jalore-Sirohi Lok Sabha Seat Result 2024: BJP's Lumbaram Choudhary Defeats Vaibhav Gehlot by Over 2 Lakh Votes - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTEx4bWN2N2puTW1XRTB2a3UwN2k4Sk03dms4Njk1ZHVCNjd6WnA1LUxkWEpWVUpjb1lzNlZXYm4wMkdjdXNvR1Y4bnlYQmJqMHFNQWxwUm9WS3hIZzJTRVEwNzIyNV96MEZ3V3pPaWJNTEpEWWxyUWNtQ3BCQ2VVR1p6WFA1YUxFZlp3RXBwbXZodC1zamt2U0JzX0Q2X0k1SWs4ZVV3a2E5MmZHSzFwRmYyN19UNFVlQ3BJUkw2RHZqdVoxMHFkTHJfdmZKLXpXbzZLTDh6MFYteGpodDhYd0ZBTjR3Q3YzRjN1a0hTVTZPNnFtd0pJaGxpYllyakx6STRjZHhaOVU1QdIBjwJBVV95cUxQaXIzRUtVWjdqMmE5QVhhbGdZbHlFQjdvNVk5Slp4NjZHYzZuS1M5cGM3RFlzWlNLOFowSVo2Y1JFMU5WSWVrOFFCblB5a2RzdDdBWldyamYzdldZM2pYMUNoWTdjVjJvbWFvcXhfcW5haEs4eGNFQkVBckxZVkFNdk9yeW5xalV2dk9jOVdteUt3dmh0ZzVQOEFVcE9aSjZjMTBJdzJLcXFKYkp4bWJTbndvRkIxbGo4RzZpcXdBNC01czctbUtBZE5POGNUbGxCU0FiLTdxbDJaQWdIYS05Q2wyWkpwblBGYWFBM0lrM2ZXbWdfX1RGQl9LWkFVRGVWV2FVUGdWTF9sc1Z4eGhJ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "LS polls: Rajasthan BJP's Lumbaram Choudhary files nomination from Jalore against Ashok Gehlot's son - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWDRWbXBXV1EzWFluSnkwZHkxUlB4dE5IWk5WSnBrNm0xaTRqRlRWcjVqZ0VWdlRlTHZXbGpVSkNfQy0xZ0JDSWQtSE55emFURnNPV21XUUVjWUVQTlRQV1BMQngtbWdINnRTNVYxbzcwZWNJU3lYNkFvaFpTbUk5MzVpMVRKV2FHSUlKaThTWEs3X2twVl9BRl9fRlRhV09NQW1OZjFzZzJRQjBPZ0RHbkRIVWpObTZENWQ4bTBlN1dUcnREMmxORXRTMEtBS19BcEhvQXZVX3RuUnQ0V01WT2twOW9lUndsOEs4a0pzcm93RTA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jalore Lok Sabha constituency: Former Rajasthan CM's son to face BJP's Lumbaram Chaudhary - thenewsmill.com",
+      "source": "thenewsmill.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3ZyRE9fTURzbTV1SVk2RUI1WHNqYmd1N1pZT3pILUtyNDBINUlSR0tEcU5ObWVKalZCZURnb1dfYV9TNG9rc3VTNG4zcS15Q3dDMTdrS3RPNEFIbUo5Nm1DdHVPSW1TY190cWE5ZUd4UlFEcUNHMG1jX1BlUXlfMm1CTV9TS1hTOEo5UG1zbjZFbEJQczRDV2lEX0p2RDBYVmYtU1BMWDJ6Tkp2MVlwRlpac2RUb01rRkZj?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:42.795612Z",
+  "collected_at": "2026-09-02T14:35:03.652905Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.027264Z",
+        "fetched_at": "2026-09-02T18:38:09.442047Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.027273Z",
+        "fetched_at": "2026-09-02T18:38:09.442058Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.027277Z",
+        "fetched_at": "2026-09-02T18:38:09.442064Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.027281Z",
+        "fetched_at": "2026-09-02T18:38:09.442069Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.027286Z",
+        "fetched_at": "2026-09-02T18:38:09.442076Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.027290Z",
+        "fetched_at": "2026-09-02T18:38:09.442080Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.027294Z",
+        "fetched_at": "2026-09-02T18:38:09.442085Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -258,18 +311,26 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 9,
     "positive": 1,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 8,
     "top_headlines": [
       {
-        "headline": "Jalore MP says, 'Jal Jeevan mission has collapsed': Calls scheme a 'complete failure'; demands action again... - Bhaskar English",
-        "source": "Bhaskar English",
+        "headline": "BJP MP got Rs 4.20-lakh subsidy to grow lemons on his farm: Centre’s reply in Parliament - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdEFZS1VxNjhBTXpxNkxTVUhSVzFpRmR0c0gwakhsWHEtNlhIdGwzQ2ljanI5bDJJOXJXRzYybjlMVjJpdnExdzdSQWxYRGRCRmNzcWVFeEU4WXlXa0dCM09HWks4T1VPUlF3QVF5QVRuSmVzU3JpOGNwaTlxTU9rdzI5aWU0cGdETkxxdktqQ3BWNDJ5bThLZ1BsQ29XclFoN0RWYWk2X2cxU3ZlYjZuVnAzN0pWMHltQXM3S25WY1ZBNkpTT1FTRlNMUFFUR3ZLQ3FHNWdIYTk4RmdEU25tcEFGanRTTkQ0TnZwektHanlXdDNTSDlMcmc2M1hqWEFXSWVDX9IBigJBVV95cUxPYzRRb0pwUVZEQUhuNGVfNTl0Y3FhWHhVeXNZUnI2WDNrQkpVNHk0ZjIzdUJYVndDZmpTRnlTcTRha1BWVGJpS3VGMjhKaHdvVGR6bmM4MU1hR2phaVljbGpTNWlvTndTWmhZMUhLN0gtemFjeHZmNnVHV1ZpVlpkbW12MUJRWnczekRmVGpLYjJNVjAzQ2R3bE5nY2QwTlRma3Y1RlEtUUctcHdqbXdhYm1TUUQyXzdfSUpONmRXZ3JoQ2NGWVJEdndER1VUNFl0TkpFNVU4Ri1leUxkUTVNQzBWLTJVcE1GZG1lazJYRE5WVkVUSm9IOXlBT2FQQml1Ym1jN2xYR1pCdw?oc=5",
-        "sentiment": "positive"
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNUZIS1RoQ0IwSWF1SFBpeFdFaVhwQW1aeWl5TXM2MXdjZ1ZRdXJYUG4zYmhUcVZSdW90eFdFd3pGZTVnWTBJeHlwVklncFNxMGdNLXVOYVVhOXY4QmNKUWlweUtjSmI5QzBzQ0lrSkJCVlNjUVBPWEpFbVZzbHV1aWxxbEhubjBYY2t0U2ZhTjhQZ05JeGJLeVlBbGlXQl8zVFAtWVAxT25PWE5KeC01RHd5R3o0VW9YSjJUUE9kV3NtX3Vn0gHLAUFVX3lxTFAzMjcwSjdWLU5id2F2ajZoZnUyVHplMFQtenlhMGVTZTViNEZIa1dIYlRQcTFac3FteDlGTHhYLXl2NFFMNy1MbEN3WmxQbGtmTWRkdklVZ2V0enlBTHVHUGppX3FNNWlpX21ISE5RM1JrMWlKVUljcVRLM3ZWNzVTcjY5NndMcnZuVS15cmJfY19UcjFsdG12OS1zOEtxbUVHRXhtSnJkVk93elBTWEZURXM2Y0FWdW53Ui1LeWlldW03YjFseVdGU3Zz?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP surrounded by angry residents: Shown sewage water outside homes, locals say cholera is spreading - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdFcwa1FXZHNyS0VqS2NMODJBcEgyTzBoSF9VZUctc2ZBSkFIR3RjdUJYRE9IWVdLWktNbThGTEhjaDFla0k0Qm55VEdfd2VfNVFQS1VFOUxKdXFaNUpwd0MtX3Qwb0dUVnU5WWJ1VS1XZUVWRnQ4RVhWU3d4YWtuT2lvUzdVNGtFNlI5TDl0eG1wVzBMUW9NWGtUNE11N1QyLUdyamNXTHpCWG5Gc2UtMllYZzFSb181WDRPQ0JhY01rUVNCUE91VHpWZkUxNW_SAdQBQVVfeXFMT20xQXIzTFpjYTRQVUdNdkNIM1FVNFQwX1BONm5qVlVBSUZweERLX0hoaW02alhHQ3d4cG9HR2JCakhjOXUtbG5idXFnTXdDbVZUQkxfUFB5VnNBbENQcmZjM2ZnNTZvREIyNDg2UGRfMlBrR21qMFl6MXFXN0wwRHNvb0lzdHMyY2s4bVpJbVdHbngtbjA3VlMtT1lBTFVmSDZTNXRVdlF4NDB4bTFSa09DR2tkY29XcVUtdzlMdmpTYnNDcTBrbnlLVl9DUGxWTkZZUzk?oc=5",
+        "sentiment": "neutral"
       },
       {
         "headline": "Jalore-Sirohi Lok Sabha Seat Result 2024: BJP's Lumbaram Choudhary Defeats Vaibhav Gehlot by Over 2 Lakh Votes - ETV Bharat",
@@ -280,31 +341,23 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Jalore election results 2024 live updates: BJP's Lumbaram won with over 2 lakh vote margin - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQSHlER2tydDg5OVAtUHByc1RlTkh3V2ExWVE2Q1daTkNhZk1EM3NPMi1ieWdZX1hOS3B6WG9uQlJ6c21CRWFodjg2ZjBaMWQxTXhhUHZsMVNUMUVTaWh6WGZrNDdMVXJDbmlIMEFFdWluc013UEdNa3dpVEQwMVJ2VjlyQ1JmRGphV18wakJQT3hwa01kSmRpaWpPZUowZy1EQ0FXOFRVQXZ1dHNaUWhnbU14NlAtb1RkWmg3cVpTT1l2UW9pTnAxTlFFaDVPVHktVGY0a2xUZjE5c3ptRDFvUXBmSlVFOHdNd2hsMGlYbnZzYU4ydUk5dEVuX0lveXBKZjRkSEVVOEtmbEdaQkE4QzRlY2vSAZoCQVVfeXFMTmowemExSUtqdmZOTVRJOUd6YkctQWlnd0hSV3FsTHdranMtMklRWHFySmJ5eGx4R3NUaWhrY2gyRF8xN1otQ2hlczZaaXdfcnNNNE9XQmF0dDAyTmRUYi15ZUh4ZS1rc2E2aDVKMWREZ0hRRlIyaUtLVDUxYy1ZRmc2SDJPTzQzRWFCWFZidjJUOXkzakFTLWpqandmcUU5MUZkN0Q1WlMtUXNoTDlfMnZwX3VtSzMtd0k0RklDUlpvdUQxOUlQSktNelVZN2FTaFQtQXJmdzhrQWtwVjQ5X2gxOW53eXlTQjAwczlldXhtN3UwM3lENGRXajYzTDV3cEZMbWNNS0NiaGYxdVdYNDdfRDdpWkZqWUpR?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Jalore Lok Sabha constituency: Former Rajasthan CM's son to face BJP's Lumbaram Chaudhary - ANI News",
+        "headline": "LS polls: Rajasthan BJP's Lumbaram Choudhary files nomination from Jalore against Ashok Gehlot's son - ANI News",
         "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbjBoR3haU2txcmhTenNjcnQxTTFSMlVPN3ptWW9KXzBsVTdGdENwZWVBU3lPQUd0MUNlOTBTcnVqX0NNeFUtaktqNkRUME9Od3NiOW5oeDRNZlpTUmNUQ09rT2M0WnVhRkRrM1hFVW96ai1IblFrbHNnRXZCXzktc0lGb2Q3SGtXVWY1WXZCTXlzVWg0ZFlONjZ0enRTVjVPNFdwRmFVR1R2Tl92Zk9lYXNvWDlISkVMVjRzS0w1cU5qR3o3bldTbGo5c2VkY2pWNzNlYlhRUmJoejA0N3k4?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWDRWbXBXV1EzWFluSnkwZHkxUlB4dE5IWk5WSnBrNm0xaTRqRlRWcjVqZ0VWdlRlTHZXbGpVSkNfQy0xZ0JDSWQtSE55emFURnNPV21XUUVjWUVQTlRQV1BMQngtbWdINnRTNVYxbzcwZWNJU3lYNkFvaFpTbUk5MzVpMVRKV2FHSUlKaThTWEs3X2twVl9BRl9fRlRhV09NQW1OZjFzZzJRQjBPZ0RHbkRIVWpObTZENWQ4bTBlN1dUcnREMmxORXRTMEtBS19BcEhvQXZVX3RuUnQ0V01WT2twOW9lUndsOEs4a0pzcm93RTA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Lok Sabha Polls 2024 | Face-off: Vaibhav Gehlot vs Lumbaram Choudhary - Deccan Herald",
-        "source": "Deccan Herald",
+        "headline": "Jalore Lok Sabha constituency: Former Rajasthan CM's son to face BJP's Lumbaram Chaudhary - thenewsmill.com",
+        "source": "thenewsmill.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQktoNzZ2NElTTXRhaHNqV3pVbENXRTREUF9BMXVIejFDeXNPelhkbHhVN2xFNFZKOHh6Q3NNcUw1S2NKTDU3eVYzeVZXSmlIcEFDaW5OUEFGOHpzYXo2RkJpSHBXQ1J4b0JZNkg0RHMyU1NpYkFvNnpzOG1GWjJxQ3NfdU1zWko4RUVPay1wQ3JxWnBTdXlnNEh5QVZaTmJOT0Flak1RYUo0N1JXLV83UGlXaGNpQ2JCT0pF?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3ZyRE9fTURzbTV1SVk2RUI1WHNqYmd1N1pZT3pILUtyNDBINUlSR0tEcU5ObWVKalZCZURnb1dfYV9TNG9rc3VTNG4zcS15Q3dDMTdrS3RPNEFIbUo5Nm1DdHVPSW1TY190cWE5ZUd4UlFEcUNHMG1jX1BlUXlfMm1CTV9TS1hTOEo5UG1zbjZFbEJQczRDV2lEX0p2RDBYVmYtU1BMWDJ6Tkp2MVlwRlpac2RUb01rRkZj?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 65,
+    "starred_questions": 19,
+    "unstarred_questions": 46,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

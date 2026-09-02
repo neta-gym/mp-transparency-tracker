@@ -4,16 +4,16 @@
     "constituency": "Saran",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7279,
+    "myneta_candidate_id": null,
     "slug": "rajiv-pratap-rudy",
     "house": "lok_sabha",
     "sansad_member_id": 385,
     "profile_url": null,
     "canonical_name": "Rajiv Pratap Rudy",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 62,
+    "age": null,
     "photo_url": "/mp-photos/385.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Saran",
       "state": "bihar",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 7279,
+      "myneta_candidate_id": null,
       "slug": "rajiv-pratap-rudy",
       "house": "lok_sabha",
       "sansad_member_id": 385,
       "profile_url": null,
       "canonical_name": "Rajiv Pratap Rudy",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 62,
+      "age": null,
       "photo_url": "/mp-photos/385.jpg"
     },
     "criminal_record": {
@@ -42,59 +42,73 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:24.502855Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 83711219.0,
-      "liabilities": 656891.0,
-      "net_worth": 83054328.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7279",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.298172Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 52.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 0.28,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
       "expended": null,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:20:59.013547Z",
-          "notes": "Official eSAKSHI REST API — Works: 10 recommended, 3 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T15:03:23.753085Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:59:44.044241Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:59:44.042269Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 10,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:29:46.561794Z",
+          "fetched_at": "2026-09-02T14:59:44.041477Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Turbulence near Patna, BJP MP Rajiv Pratap Rudy pilots flight to safety in Lucknow | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPczljZzJqcmFhMlpfQTVqWFRKYkR3alUzOVJjWjVPOHRKSUlZYXFCWnNFOUlkZjNUOEp2dVlKT0h1NHgtVS1QcUJuNWdHQU91YVowVkVabHZwa0VmRkhZYWltZUxhazdUMnpaOXh6Wm5kMEdQOGZYM0xzeTlORU5JRXVDeXBqbWhON1BqdE1BOFR2NE9qT2RFNWdqemlDRHFQc01BOXFROHA1aWViU1lveHV1X0tTWFA4Ym5sSlltTm1pMDZmeXV1UVgxdUQyUm5SUTNubFhYTFZlQl8yRlJabDNnZlVtSU120gHuAUFVX3lxTE1RWFFEVy1UQXl6U1BZMk45WWhIYllXT2tQSE11TmRSWXJqLW8xbk41ODJZM0l3cmZtRC1HOUxzMkpZN2FuSU9YZlRWaU5EYmxXQl9pTHVQbkpvS3hNNTBYR3FSWkt4aDBWMk93X0xNMVFFZUkySl82a3ZjRVhiVHpfNHFobC1IRHFDOHh4U1Vud0I5OU5tZmliSGNvTHF1RTlXRkJMa1dkQVA1VDZxREIzRVV3U3hQMFFnVGpxMUJSRzlZNjN2OEh5TlVES3gwWU1lMks5aVVZWkRILWd0UUJBV3Q5b3JyUGtzWTZzUVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sitting BJP MP Rajiv Pratap Rudy wins against RJD’s Rohini Acharya in the Saran Lok Sabha elections in 2024 - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDRkay1RcnVGZTJObk0wRVFEMkRWOEg2SWE0amJ5VTAtODU1VjJLZkVuUWd5NXItQm55dmNMZmNUSUo4cGZ1M1hyRmE3RHZOTUlVeTRCQkFIVDJVampyV3p0dndGeVNxUVJ2c092Z1ZKNEdCbzNmcUdJZ0I3c2EwV3dSaE9HVVhUd0FSaWRMYmFYTW1DTWhEQjhpOW9lWkQ3S2lLeU44azJ1UV9j0gGzAUFVX3lxTE1WWXRZbEVxajVxckFCTDVFWUZadkNZUk4yc0ZDZ0M0Q3JKdFJqZ0FBLVZCMTdhMEhOM2lhYW0xSTJHRHpoNnExMm1oOFFiQXdtZ21yN1FfT212UHhYMDhFMkdSZ0h0b3hLamR0aXJCdXQ4dldicGJyQkpPakdiOFBZMUZlLXZtdnVrWFFuckxJUE5tUFdHdDY3X2tOekVHZWVIVU5aNWxMdXZ1anV6dkh6b0d3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rudy hails decision to approve Sonepur international airport - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0pmckRXc1F5ZjBPNDBTM1VEWWZnRnJvQTlGaWZ5VkxwUW5ENTlBVi04OGdXQlRzOGJ1dU9LelpkQ2xvRDVBTHc2NFRmeDR1YTNZMWRzV09aSWtMTzBxOUlrQURUTVlTM2xtNmw4XzVYY19GaGVCWWREVmlYS3NMOF9sRzgzQ1RTbUE0bjFueElFSTRjN0trOGFzVmdLWmFYTklQQld5TkFhbS04X3lPOXc5SEdJanpIZlFCX2EtX19pbVM3ZVp2RVM3NWhPQdIB0wFBVV95cUxNbzM1bmk4OG53MEtiaFJNSTdOcm14TVVGTVgzRUNjZWhYVHE3ZmhOcU5OVlhIajQ4LV9zNDU1d1VkR01fRUwxNEpOcXI4NWJJdHVPbjlJdmV1YnRRV0tlcldqdmpUbmpUdzBfdkJob2V5OFh1eU5oLVM2ZVFqSk5iUG1oVFRTd19YOEZOeS1icHZhZHFMVUhGWXJlQXpMdFdTdG9pdHkxZVIxeTM0bFYzQjBhNzI4STB0Qjg1MUdyelp4UURQd0EwaC15blZfdGJaNnlJ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajiv Pratap Rudy Wins BJP vs BJP Battle in Constitution Club Elections - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc296Z2NRcERONkJpOEJXMEk2cU1rQldPbGxBdnF3b29wb3c3SEFNaENRa2VSUHE5OWxIc19nY3FkbnEyRFozcXltak9veXRhYjVYVUpGZHN1clF1RGg1YXhTSGp6OW5QZEtxcDc2bEVfVHBwT2pBUFdEeDk1bzFYNkZPRWpfN0hzNV9ETHF3cEtIckVGdFFKV3I2aXhFankyZUJ6QWhqYkEwVVV6TGfSAbMBQVVfeXFMTW1lNjF5YmhkdVg1MjJNZjlhdW04VVJYQ256aEJsYXJ3QWp2T1o3bjRaazBkTU1aN1h3UTBTWUhxLXR5UTgxbWRKNzFaWWJudHhSTVp2RDBvc3A2UlY2MzhQb3F4M1J5eXd0TGV1ZnNqek95dmhyQmlUcVJoeGVSUUlVZnpIckhvbGFlYkE5OXZjMjNmX0l6U3oxTnNaLUY2N3d4YU9KbUhIR0tmN09uU0VxNFk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Saran Lok Sabha Election Results 2024 | BJP's Pratap Rudy Wins By Over 13000 Votes - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTmdmbjBILXZDcmNhRXZjQlVSMkxCbVZpX1FBNGhQeHpYanJvUjI2LUJKTEdBUkpwRmd5Rk1xcGc5LUZFcFBndFVkMnpfMDVZd2t6YVY3ZnVJOFI5VUhFYlhTOVBCQlJWZjZPSkUyWXdlLV91ZTNfVHpXa3IwRmx6R2Z3OVNBdmMyRU94TmpNMGFXeUFCc25VT0tpTlczc0xPWE1WVkNBZGcxbUs1Q1BUWm5xdnVMWElGRUFGS0hqZjJ3VGYxZUJ0ODdXNDJJdWppSmE0SjhRVnBCVFF0WXhWX1FfZ3pBSXB4UUHSAe8BQVVfeXFMTUVGbFlQaXBBU19JVGdZN1UtQnQtckRCZFZkcm50WF92cW5QVnB1YVhqQUZvOWUwRDY3YUtXMHBpR0QxNHlOdFF6VzNPRE40d19iUE1IZUVpTWdIRTI4X1VNRnRtaldyZkdVX2F5YnltdUE2bkxrMnlvbk9hV2RuWThVU1JwbUV1aXdVUXBsVi1XREVKV2ZhekFlcENWa0J1THhMWHBjX090dDlfNDRMNFd5V25ZVmpWWFlKNHZ4bzhsMEh5ZWp4aHlxcTFpdkFKVXZOVUhrdzdNaEFfM1BXNFpHLW5lQkFOdFJxQ2F4eXM?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:30:50.172805Z",
+    "collected_at": "2026-09-02T15:03:23.753872Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.347748Z",
+          "fetched_at": "2026-09-02T18:38:04.809533Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.347756Z",
+          "fetched_at": "2026-09-02T18:38:04.809544Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.347761Z",
+          "fetched_at": "2026-09-02T18:38:04.809550Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.347766Z",
+          "fetched_at": "2026-09-02T18:38:04.809555Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.347771Z",
+          "fetched_at": "2026-09-02T18:38:04.809561Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.347775Z",
+          "fetched_at": "2026-09-02T18:38:04.809574Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.347780Z",
+          "fetched_at": "2026-09-02T18:38:04.809579Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.347784Z",
+          "fetched_at": "2026-09-02T18:38:04.809583Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,11 +338,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "Http://www.twitter.com/rajivprataprudy",
+          "url": "https://x.com/Http://www.twitter.com/rajivprataprudy",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "Http://www.facebook.com/RPRudyOfficial",
+          "url": "https://facebook.com/Http://www.facebook.com/RPRudyOfficial",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "Http://www.instagram.com/rajivprataprudyofficial/?hl=en",
+          "url": "https://instagram.com/Http://www.instagram.com/rajivprataprudyofficial/?hl=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:59:46.854590Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -306,6 +392,14 @@
           "sentiment": "neutral"
         },
         {
+          "headline": "Sitting BJP MP Rajiv Pratap Rudy wins against RJD’s Rohini Acharya in the Saran Lok Sabha elections in 2024 - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDRkay1RcnVGZTJObk0wRVFEMkRWOEg2SWE0amJ5VTAtODU1VjJLZkVuUWd5NXItQm55dmNMZmNUSUo4cGZ1M1hyRmE3RHZOTUlVeTRCQkFIVDJVampyV3p0dndGeVNxUVJ2c092Z1ZKNEdCbzNmcUdJZ0I3c2EwV3dSaE9HVVhUd0FSaWRMYmFYTW1DTWhEQjhpOW9lWkQ3S2lLeU44azJ1UV9j0gGzAUFVX3lxTE1WWXRZbEVxajVxckFCTDVFWUZadkNZUk4yc0ZDZ0M0Q3JKdFJqZ0FBLVZCMTdhMEhOM2lhYW0xSTJHRHpoNnExMm1oOFFiQXdtZ21yN1FfT212UHhYMDhFMkdSZ0h0b3hLamR0aXJCdXQ4dldicGJyQkpPakdiOFBZMUZlLXZtdnVrWFFuckxJUE5tUFdHdDY3X2tOekVHZWVIVU5aNWxMdXZ1anV6dkh6b0d3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Rudy hails decision to approve Sonepur international airport - The Times of India",
           "source": "The Times of India",
           "severity": "low",
@@ -314,27 +408,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Insta friendship, instant death, and lingering questions in a Bihar village - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Rajiv Pratap Rudy Wins BJP vs BJP Battle in Constitution Club Elections - TheWire.in",
+          "source": "TheWire.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1htSDNXZ3M0LW9UVk5mSVhVeDJuSHZIUFE0ZlpxYjd2bG1Oc2Z0YXNMZ1hSQWgyMzhudTdNUmZCLXpIMmlzbUplSFFHVDZFUDZTNHYwMEd2UFJRTWtOeWdEbUtoNEpOOFo0VjFXVmlLTDY5bmhTMFpidFl2OEttVW82ZFJOSF84bFlTbjZRajBNTVExTTRYdFV6NENVekNGTmxpSUw3VkIzUldmbi1WU25wSzjSAbsBQVVfeXFMTWtic0NtZUF0M3g3SWVlU0tobXJXRHMydTNsakxtUHZic25MbzZwWUVLOVk3RWRRTXJXTzY1ckZ4T2RvTEsxLWg4aUJhNHNHMHpJY0FDcDFBeDdRajhWSVdpWHhRUlQ2SEZRSnVKWlBUM1Z6bDBTcEFiS3lVckhPdWJDNWNmOUp6WjlNenVNcDhtUHRlUThVWGpXeGpicVdySHNSSkcxTnF4NmxUaWVubE5KLTRBUTJSb1llVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc296Z2NRcERONkJpOEJXMEk2cU1rQldPbGxBdnF3b29wb3c3SEFNaENRa2VSUHE5OWxIc19nY3FkbnEyRFozcXltak9veXRhYjVYVUpGZHN1clF1RGg1YXhTSGp6OW5QZEtxcDc2bEVfVHBwT2pBUFdEeDk1bzFYNkZPRWpfN0hzNV9ETHF3cEtIckVGdFFKV3I2aXhFankyZUJ6QWhqYkEwVVV6TGfSAbMBQVVfeXFMTW1lNjF5YmhkdVg1MjJNZjlhdW04VVJYQ256aEJsYXJ3QWp2T1o3bjRaazBkTU1aN1h3UTBTWUhxLXR5UTgxbWRKNzFaWWJudHhSTVp2RDBvc3A2UlY2MzhQb3F4M1J5eXd0TGV1ZnNqek95dmhyQmlUcVJoeGVSUUlVZnpIckhvbGFlYkE5OXZjMjNmX0l6U3oxTnNaLUY2N3d4YU9KbUhIR0tmN09uU0VxNFk?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Bihar govt approves construction of Sonepur greenfield airport; Rs 1,302 crore for land acquisition - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "Saran Lok Sabha Election Results 2024 | BJP's Pratap Rudy Wins By Over 13000 Votes - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNakdUUHNiYk5ubWQtTkFlRVhJLXZpOUNMSEZyLWF5RTg4eHlqWlNwWGVRS0JDTDc3TUtPd3A1Y3YzMUtObjJwR3lnanAzNVRjMW56SV8zSEVqa0pIeFVPbmpVTXhzUEF5VGxlUnNzcG1UZW5OOGNXQlpjbm9odUhDeDRlenlZNkZZMHI3dzY0M2RiU1dsbHdYUUNhc2k0UFU1bEpDZDcyWmVPM2l4ZFM2YU9yQTNQekR4UGRpcDU1LVZZWTlPRk1VUmF1UFJ2T3NBMHF6Z3VlUGt2c0pmaUxuOG930gHvAUFVX3lxTFBHaHVDSVBmR0FsRjBIdXRoclN1ZVlWdEpQdm9kbmhoY0FrbmlXeksxNFhXbEt0LTJ5YUJFNTFBZnlTQlFjcGFrN1RkS0NhVnpHVTY0SU5yYnc5dWV5aHZuRTRHT0RING9KbzJvUWVfeTFkZXlKVVFTNmtFc0RYa0c5TlpISXJTc3FDVjFHN1lhTWt3bk9lQVgtb2tjRjdCc2RyQ25zNnY0MzdEMk5vMlFtM055NHVWWUtvd1BwUXN6dUdRTGVZdmg4a3oxaWJ6UFpLcWRPSzNPOEhVa004OWQ3U0loUjlkRjVpX0I0Njdr?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Bihar Government to Build Rs 1,302 Crore Greenfield Airport in Sonpur, Promising Jobs and Better Connectivity - Patna Press",
-          "source": "Patna Press",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdU9qQUlYR3RoU1VDM090bmJvR3NNYnNQUVByalZfS3NkOE9oZmNhR0lrbkJ3dE5iLWJuNjRBTzdxcGJYMFhTZW56eGF0WldobFFaUHQ0LXV0ZFVEWk5KLUxsaTMxd2hzSWJoZlcwbWlJa2dkcWEwWEZ4dlZVOTJIckFzdVdERUpI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTmdmbjBILXZDcmNhRXZjQlVSMkxCbVZpX1FBNGhQeHpYanJvUjI2LUJKTEdBUkpwRmd5Rk1xcGc5LUZFcFBndFVkMnpfMDVZd2t6YVY3ZnVJOFI5VUhFYlhTOVBCQlJWZjZPSkUyWXdlLV91ZTNfVHpXa3IwRmx6R2Z3OVNBdmMyRU94TmpNMGFXeUFCc25VT0tpTlczc0xPWE1WVkNBZGcxbUs1Q1BUWm5xdnVMWElGRUFGS0hqZjJ3VGYxZUJ0ODdXNDJJdWppSmE0SjhRVnBCVFF0WXhWX1FfZ3pBSXB4UUHSAe8BQVVfeXFMTUVGbFlQaXBBU19JVGdZN1UtQnQtckRCZFZkcm50WF92cW5QVnB1YVhqQUZvOWUwRDY3YUtXMHBpR0QxNHlOdFF6VzNPRE40d19iUE1IZUVpTWdIRTI4X1VNRnRtaldyZkdVX2F5YnltdUE2bkxrMnlvbk9hV2RuWThVU1JwbUV1aXdVUXBsVi1XREVKV2ZhekFlcENWa0J1THhMWHBjX090dDlfNDRMNFd5V25ZVmpWWFlKNHZ4bzhsMEh5ZWp4aHlxcTFpdkFKVXZOVUhrdzdNaEFfM1BXNFpHLW5lQkFOdFJxQ2F4eXM?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +454,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 36,
+      "starred_questions": 10,
+      "unstarred_questions": 26,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 69.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +470,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +501,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +528,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 83,711,219. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6.",
-  "validated_at": "2026-09-02T01:36:47.348526Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.810520Z"
 }

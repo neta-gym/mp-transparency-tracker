@@ -4,16 +4,16 @@
     "constituency": "Kheda",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3772,
+    "myneta_candidate_id": null,
     "slug": "devusinh-chauhan",
     "house": "lok_sabha",
     "sansad_member_id": 4858,
     "profile_url": null,
     "canonical_name": "Devusinh Chauhan",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/4858.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Kheda",
       "state": "gujarat",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3772,
+      "myneta_candidate_id": null,
       "slug": "devusinh-chauhan",
       "house": "lok_sabha",
       "sansad_member_id": 4858,
       "profile_url": null,
       "canonical_name": "Devusinh Chauhan",
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 59,
+      "age": null,
       "photo_url": "/mp-photos/4858.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:54.954900Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 34976572.0,
-      "liabilities": 4996647.0,
-      "net_worth": 29979925.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3772",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.281504Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 28.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.2,
-      "expended": 4.16,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:00.963517Z",
-          "notes": "Official eSAKSHI REST API — Works: 428 recommended, 373 sanctioned, 182 completed"
+          "fetched_at": "2026-09-02T14:31:00.568523Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:14.936271Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:14.933420Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 428,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 28.29931972789116
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:18.787933Z",
+          "fetched_at": "2026-09-02T14:27:14.932343Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "No hurdles for MP Devusinh Chauhan, returning officer says complaint filed too late - GujaratSamachar English",
+        "source": "GujaratSamachar English",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnhBN2RrVFFuWUdiODlldmpmcGswYzdJbmRqbmdXajVlMFNnQ0FBT0N4MFRzWnpTeXprY2RhR1Z4akpXTDR3a004UW1WbElJWDdmUmpOVlE4MGpwV1IyT09hbF9ac3cwVmlIU3R2TW1fMkNhem1hRWoxYW5MdDlMUV82U3NFX1F3clRwck44V095cUVRMEViRjl5VER1MklNRjhjZW02VGhwZ0FRT0hYMGJGNExhMlFMNVFnWjVRQVdDcEdXME5JcnNBZVNsOEJkdUJUd1l4VFF5M0k?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "BJP’s Devusinh Chauhan wins in Kheda - GujaratSamachar English",
+        "source": "GujaratSamachar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXNhdkRFNjFMWEt3bk0wekg1ZDJmLW5FdlV6Sm5WOU04RUE1Yks1VHdJWi0xT19pNXpzendTaURzQzRNSElyOGZyWWxHaUdjQ0YzdkwwdDZOMVdMNVF6cUFTR1o1YVQydjlsUnZBczBVcmtIYXZreWNoRHJlOWlvY1gyRk1uaVczaEFNeFhadzlpUkQwNGdvQ0U1MF8tVEhlMFRxMHk1dm5RVkFmUUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gujarat: BJP MP Devusinh draws the ire of Brahmin community for calling rituals ‘misguided’; Congress joins chorus - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQTRYU1RVQW1ILThLVXV6ekVGRFV6OXg1LTBjSkFpMDhrd2RDMG45aGhqSnozUjdDeE9wcjdrajA3eC0wZkQxNkVRNFpQOVhJS2JvOXBEX3JrUll4VUVCbUVhT3pKVHJxWEswamo5ejJWcmMxaW4tUGtHMkZjQjZvY0E0aUQ1X1pwNWI1MDR3UXZKRmhWa1UtSWFGNkc1ODFJM3BBSG00QXdLWm9DaEpZWWx3T1BnSlZ0WkhCc0xnaEtFS2FicllCQTFqSWk5eFJjUDZFWW5mR0lFWi0yVzA2bDdDVVRWLXZwSkU3UElVVmtNRmfSAYACQVVfeXFMTzRDaDNNNDFoc01lWm1QWGhZdVc0bWEzalMySEVVZmhDUExCVnA0RVJlMlpyTXhubHhlbjRzZ1VsanVIMmg1eHRxRWUxc0NaSmhNWTN2dkxqSGFadVNqNngzZXBieWhzZjVSZ25UVnc2ZWhwcDJGX2Y4eFlUWEFnWXd3ZUo5UTREZVVhNWJSOU5VZVBIVHBNSXJORnpueUFKVjdrRTI2ZDBPalRwNGFoemhnT25RVmNvcmN1MXZULTl6V3NfaDNpb1UwMEF6SXAxQ3B4cXlCTlpxVVpJWjcyd3lpemtwdDNxMWdHV29TUVlYdDBRZkM2QjNPYTZRZVo5RA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gujarat BJP MP Tests Positive For Covid After Attending Conference - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeURPQWUyTnlhc1RLZmlCcnRQVE81ZnN4OHZhZ1dkeG4wZDk1Y24zM21kUkFucldHTG02MThwenJTZXJySjR4YV9LX1g3Q0ItOFFyY0RNVTVFZzhjM3M2S3cwZHRDeUNaVG1YcUE3ajBzM2JmQ1VxcDNQa1FxYXdFTVlxYlM1UWtMUElnVmluVHRrNWRyR0N3SGtEc2lKMG40amNIc2NwdjlWQ0MxREdpa25QTTZVeUM1SzBhSTdpX294Nlgz?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Devusinh Chauhan - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTXVUQmNZYVo3cVNscmJxMWx0Z0hjSWoyQWNudEZ3dWRoUUpBN1BkLU5aVGV2Nld4TXF1Mnlzc2NVU3cyc21oUU1zV2F2OGlTZ3VQVEt6enZHZXMwUWhSVGF2dXZaWTB2cGdDYm9CTGlSQ3YySmJ4eUx6Z2JUWWRhN1QwalhROFJqeE55U3ZwVdIBlAFBVV95cUxNRUJKSGVlMWdiZWxEMjlvb3gwbEI4UWxLYWJwNUxmc1R0WjNmYXpHbnNXeUZkdjBtaUNwaDA3Yi1sMkotVVF6bTdFdjJTVXgxbDkxUGhpMlZvRE9fSTlaSmhkenM3WU5qaWJDcWNFRWg5VlV0QWtrQVVCVGxzODkxYUdUMnBfN0ZTRUhXbUs1SlBfOUJS?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:23.351026Z",
+    "collected_at": "2026-09-02T14:31:00.569591Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.975276Z",
+          "fetched_at": "2026-09-02T18:38:05.554658Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.975283Z",
+          "fetched_at": "2026-09-02T18:38:05.554670Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.975288Z",
+          "fetched_at": "2026-09-02T18:38:05.554676Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.975292Z",
+          "fetched_at": "2026-09-02T18:38:05.554681Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.975296Z",
+          "fetched_at": "2026-09-02T18:38:05.554687Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.975301Z",
+          "fetched_at": "2026-09-02T18:38:05.554691Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.975305Z",
+          "fetched_at": "2026-09-02T18:38:05.554696Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,40 +322,73 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "twitter.com/devusinh",
+          "url": "https://x.com/twitter.com/devusinh",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/devusinh/",
+          "url": "https://facebook.com/https://www.facebook.com/devusinh/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/devusinh_",
+          "url": "https://instagram.com/https://www.instagram.com/devusinh_",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:27:23.021547Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 0,
-      "neutral": 10,
+      "negative": 1,
+      "neutral": 9,
       "top_headlines": [
+        {
+          "headline": "No hurdles for MP Devusinh Chauhan, returning officer says complaint filed too late - GujaratSamachar English",
+          "source": "GujaratSamachar English",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnhBN2RrVFFuWUdiODlldmpmcGswYzdJbmRqbmdXajVlMFNnQ0FBT0N4MFRzWnpTeXprY2RhR1Z4akpXTDR3a004UW1WbElJWDdmUmpOVlE4MGpwV1IyT09hbF9ac3cwVmlIU3R2TW1fMkNhem1hRWoxYW5MdDlMUV82U3NFX1F3clRwck44V095cUVRMEViRjl5VER1MklNRjhjZW02VGhwZ0FRT0hYMGJGNExhMlFMNVFnWjVRQVdDcEdXME5JcnNBZVNsOEJkdUJUd1l4VFF5M0k?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "BJP’s Devusinh Chauhan wins in Kheda - GujaratSamachar English",
+          "source": "GujaratSamachar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXNhdkRFNjFMWEt3bk0wekg1ZDJmLW5FdlV6Sm5WOU04RUE1Yks1VHdJWi0xT19pNXpzendTaURzQzRNSElyOGZyWWxHaUdjQ0YzdkwwdDZOMVdMNVF6cUFTR1o1YVQydjlsUnZBczBVcmtIYXZreWNoRHJlOWlvY1gyRk1uaVczaEFNeFhadzlpUkQwNGdvQ0U1MF8tVEhlMFRxMHk1dm5RVkFmUUE?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Gujarat: BJP MP Devusinh draws the ire of Brahmin community for calling rituals ‘misguided’; Congress joins chorus - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWWd2ZUYxcjB6eFh4R19sWTJ2cEN1bTB6bzhOQzdVYU5qSXg5MTBmYjVTdVE4LVpDWGpDT0FfWWtwOWpHcnpMdm9EMVJYXzMtMWZ4T29yUWdFRC1lNzJscDBxMzg2V0tBcTZCc3dRSlJmY1UzbWRxZFlscFVhRWVTOWJwZV9fSzBOMHlQWmhvZm13X1ZiYUVHNjRGWEN4cmkxVlhWS1h3OVpDSUktYlF1enVFdU5xck1Ka0VhQVFvb3J2cGtGVDI0bG1xS2dIWVpDMU5lSERZQ2EtTHh6TnJ5aXFhaG9EenJkOFN5aHU2YnVWYjNz0gGCAkFVX3lxTFBNbzlvZ3VYS3NVNUN5ZHU2bUQ1eWphNTZOSEhKN0dBUTJRY3hGSFluYkJiLW9LWkRvaHM5RVg3MmdPcjMxYV8ydm1ELUxwQWgxSU5pNmdINHdoMGVLdjBxLWhQMkRyVjM1WmpZZjF0bm9Jb1dOUVk4OFRnWm5MVVZpV2tRMUxDTVhrbG5pcy1meHZZMGJZXzNaZ05wX1NNOF9IZjUxR2trR09PV2xvMjBENk4tNlRsS0Y2WV9Ia0hBOU1qeVZ5dGxWVDZsdDE0cWphaTNiUV8zYVE5b0lDLUFiY2h0aXVjY3pRckZXRll2SGVDYmJzQVhfLXp5ZUlXbkk0QQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "MP Reprt Card: Devusinh Chauhan, BJP - The Indian Express",
-          "source": "The Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEtQdFZfN2RPS1l1ai1HcW5kQ1RGWWtkOFM4VGpDdW5JM2RUVHl0bnNiN2ZpQ2k0enJlRWFOb3pRRDFsZ1RwcUlTc3diM2x0dFEtQ2RFYmozR3FPVkFNU1NNRDZUY3hweXpUNVl3WVJuUWJFZVR4endYU0V3Zl82c0hVT2FGZE1fUENUc1lKeXdWZmhFQVctdnQ4dDFrM0ptcktaU0RYRlhuU0kyVXJJVGF30gG4AUFVX3lxTFBtZ3doZVM5c2pEcU12Q3QxX3JuZGN5WWk1LXJSTHYycTlMTlZoVkkzMVE0LVZKVERjUV9iMzlqb1pHbG9VVzJwdzZPMV9vSzRSRlNkWnZ6NkRjanA3VWJfMy1vRjc0YnVVV0RETld5bzl6dzBtT3BYU3BIRnU4b180Rlp5Vl8xVE1RSVJXdHdicWNGWk9ocTJ2a1d5Z0MwOGp6TmRQM21ldXRyb0FWUEVEREd5TjlHLUw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Minister Devusinh Chauhan welcomes Muslims of Kheda into BJP - GujaratSamachar English",
-          "source": "GujaratSamachar English",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPam9HcDVjZ1pqeWdRajlKOFdZcWFoYzVUdFcxb01ocEFDdDhrWXk5Q2JUdlpmaTcweGFnVElUMVpPMlVTbVJ5Z2daaENSMzZFYUJLU3E3ZHE5UkV0SzFCY1pweFNnbURrX0tmV0JCRFRNR3J6X0F5Y2dwS2lDd1VNXzFLUUdoR0tCb3d5dkJjeHRXRXBOZDE4M01OTV9xd09PZ21QMXVnaDNsXzBxd3dOY3hSM1ZMaUFnUTBEeE96dFp3Rk9p?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQTRYU1RVQW1ILThLVXV6ekVGRFV6OXg1LTBjSkFpMDhrd2RDMG45aGhqSnozUjdDeE9wcjdrajA3eC0wZkQxNkVRNFpQOVhJS2JvOXBEX3JrUll4VUVCbUVhT3pKVHJxWEswamo5ejJWcmMxaW4tUGtHMkZjQjZvY0E0aUQ1X1pwNWI1MDR3UXZKRmhWa1UtSWFGNkc1ODFJM3BBSG00QXdLWm9DaEpZWWx3T1BnSlZ0WkhCc0xnaEtFS2FicllCQTFqSWk5eFJjUDZFWW5mR0lFWi0yVzA2bDdDVVRWLXZwSkU3UElVVmtNRmfSAYACQVVfeXFMTzRDaDNNNDFoc01lWm1QWGhZdVc0bWEzalMySEVVZmhDUExCVnA0RVJlMlpyTXhubHhlbjRzZ1VsanVIMmg1eHRxRWUxc0NaSmhNWTN2dkxqSGFadVNqNngzZXBieWhzZjVSZ25UVnc2ZWhwcDJGX2Y4eFlUWEFnWXd3ZUo5UTREZVVhNWJSOU5VZVBIVHBNSXJORnpueUFKVjdrRTI2ZDBPalRwNGFoemhnT25RVmNvcmN1MXZULTl6V3NfaDNpb1UwMEF6SXAxQ3B4cXlCTlpxVVpJWjcyd3lpemtwdDNxMWdHV29TUVlYdDBRZkM2QjNPYTZRZVo5RA?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,11 +400,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Bhupendra Patel and MoS Communications Shri Devusinh Chauhan award prizes to sportspersons in MP Sports Competition - thehawk.in",
-          "source": "thehawk.in",
+          "headline": "Devusinh Chauhan - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWWZBbldqTDhBODEya3dkMTVKQVJVV2JidXBvQ3AwTjM4d3I0Z3ZCWER6b1p4TlZLd2NMNmIyMi0xV05ZVkRPWk5QQUUtY1Rta1NncjZ4bVRVZVAyU1NuZTFtNWRJN3ViODNQdE5PSFFEY2VqOGcxME5fMjRuVFJqWmZPUVpodDI5eklkdHJBNU50Z3RXVkkyOElSS0ZHajdMdkg5ZVJ6V0xzekZORmpjQ2RMZlA3THdTeU41OEdLTlBWWE1ndjZfMXAzWHJINXdiYzFmeEF1cHl2bjBpczYtb1o1QS0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTXVUQmNZYVo3cVNscmJxMWx0Z0hjSWoyQWNudEZ3dWRoUUpBN1BkLU5aVGV2Nld4TXF1Mnlzc2NVU3cyc21oUU1zV2F2OGlTZ3VQVEt6enZHZXMwUWhSVGF2dXZaWTB2cGdDYm9CTGlSQ3YySmJ4eUx6Z2JUWWRhN1QwalhROFJqeE55U3ZwVdIBlAFBVV95cUxNRUJKSGVlMWdiZWxEMjlvb3gwbEI4UWxLYWJwNUxmc1R0WjNmYXpHbnNXeUZkdjBtaUNwaDA3Yi1sMkotVVF6bTdFdjJTVXgxbDkxUGhpMlZvRE9fSTlaSmhkenM3WU5qaWJDcWNFRWg5VlV0QWtrQVVCVGxzODkxYUdUMnBfN0ZTRUhXbUs1SlBfOUJS?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 8,
+      "starred_questions": 2,
+      "unstarred_questions": 6,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 15.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Gujarat: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 34,976,572. MPLADS utilization: 28.3%. Parliament attendance: 100.0%. Questions asked: 8. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:47.975985Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 8. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.555433Z"
 }

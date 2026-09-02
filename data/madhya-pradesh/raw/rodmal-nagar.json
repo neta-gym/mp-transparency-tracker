@@ -4,16 +4,16 @@
     "constituency": "Rajgarh",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3553,
+    "myneta_candidate_id": null,
     "slug": "rodmal-nagar",
     "house": "lok_sabha",
     "sansad_member_id": 4702,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/4702.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:02.223828Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 65483248.0,
-    "liabilities": 12940395.0,
-    "net_worth": 52542853.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3553",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.166750Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 46.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.35,
-    "expended": 8.26,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:37.608294Z",
-        "notes": "Official eSAKSHI REST API — Works: 266 recommended, 168 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:50:23.429373Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:46:38.798175Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:46:38.795097Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 266,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 56.19047619047619
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:20.954417Z",
+        "fetched_at": "2026-09-02T14:46:38.793941Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Rajgarh MP touches officials’ feet in protest over delay: 'Made to wait like a fool for 90 minutes', says R... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZWplSWxsZTBPa2M2SDJzRGp6NWJPZHJaNGRLRnlPSk5waUV0Y1VHUlpWbDVnQ05qb1lBbjJPaTltR1JSZURqWDE5TkpNc3hwQXotYjVoaEhLTzNXTHRIUUZjcDB5UklRRVVEU3JqVmJoUk1RangyWEpBbURWRmQzT0FpNjhfWXBqR2EwOURFZTY0dW5NamFNZjdLbl9xRjFzVHZsUTIyY2VrZXVDVjZJVXpLaGNFekVHLTk4YjhMX0lfcFNzUk9UTWlXTUxzTWpCelRQWjNBV21SOUZTYlA3ZEl4WWVfOXFfc01FakdyVG5nV0daQmkxMEhXQl96bEZtenfSAYcCQVVfeXFMUHZEdEFnSlE0OExnWGdlanNZRkV3RTFuSl9iVk1MV1p2Y2tlRHpDV2s2MDVBV2NobnRHdkt6X3RGdmJlbU5mbDA1OWhRWktOaHlZcXZtRk5PaGRRbVNmODRIb2xicnp3VldtMjJmVmdNTU9ncFZTNnh6YThRMGlFcW5teDVTUnF5WWhybVJMZjVzTFhKcUxZNG91Um5KMGJFczZ0UUdfampOczlzakRWd2EzMzBJSFNfcjU0ZGxiSUthLUJxQ3pCWEhQVGlEYzF3VDVudFJvYndnYmdkZVItNVowQ29kNlVET1hnNl9HYXpRZEwtckJIUmdQcW5NbFdQX3FONV9USlE?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Rodmal Nagar , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGx1Y0ptN1FxalFUUmY3aFJwR205cTV4enRiTVNPWTlZZ3lza2RXOFBpVW1WNl9pOWd5RnFnUHRCelhoemF2OUo1dk9rM2JBM3ZobGdJWHlqSTdreU1NX3o3RmxfVWNQSEtwRnN1MEE3UERtOGFSNDk5dXJlNjYwNWJGZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP Nominee Rodmal Nagar Defeats Congress Heavyweight Digvijaya Singh In Rajgarh - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWV1cEZTMHAxRmtJdGNEcjJBSjNmWUVTbzlwY2lXU0NQOVFTRDRyeTBRLUtQckZCQ0J5VWVYMklQNVJxZFVPT3lHdmxMM2Y3WWl4YTh4Q2k0ZUxMejJ5SFA5d0R5SVhlcEFDZUQ0WXgyU1JUS3JOWWJoVFR0cWI2aWRhdlFIVzNjRkpnZ244bUQtdFpaMGF3bWExLVUyWktvUHpVQ0F3M3hHMmhGV3B3dU10WjVTd0d0MlFrMNIBxAFBVV95cUxPSHlYbk1ycDN2YlhXMGZ6NVZnc2d4NzNmclNKTVp2cDltTV9SVzVtNFF0b2cwUjJ4SnM2SnpsRmJlLXB3WnJzUnZsUjRMUmtVc0RCSFpaX3lEeHpYdmVKVmdrTXoyNEg4WG5aRXNTT1lKU3RHNW1PWGF6Zk40ODROYnlSMjYybWs3Y0FoZzJ6Y3kxYlNUN1N3a2dWVmFZc0VYcXR6RW9lc2N1b2tPb3VXX1QzN3ltMklESlY2VENHWEg4NlJx?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Madhya Pradesh Lok Sabha Elections: Digvijaya Singh Vs Rodmal Nagar In Rajgarh; Check Education And Net Worth - India.com",
+      "source": "India.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVkI0cE9tZ1phUDdSUTBEUkJtaVZ5NWlPTjZNbDNfMDEyQkJGemxyNklGLUFHaVhLcjA5WHdNRHNoVTgzbGlDdmRJUm5iZi1ucHpIb1NKRXlWNXQwbFNISnFlQnpvekRJTWFjN2NyOTVzRnJLcF95eFVYQVBKWkZUS1ZDMDlPeHdDQWFhMWVfMXRZTV9ORDBTbmh0ZDVzME9MZGdNQ0kwU18yWVhHOGJxd3VOeHY1OFVxamtCYkZWX3F2bGtTak5PdnZ4NFJsdlpXZmxRWm5pRXNfOWdmT05ERTJFcURYOVpiMDQ5aDc1UVRHLUhnbFFRUNIB_gFBVV95cUxObXI5b2lKTnk3elZoNzlBZ0MwcFNjX3l4RnRacy1XTUtWTUZ6MWN1akhkT1lTYktKeTZWWnlHVkNwWlMyZGdsNVlmeVd5c1RRcGQzeXhhX2FnX3hOaUswMkozMTFJLVh5akpLQU51aExVWXlBYmUyTHRtOThLR3dqc3dXdWN2aXFudU1NTno5VG5JY3ZyM2wxNDZZSmtuT0xoRGNJb3pzdHk1M1Q0SXgxMFl5UkdiSnN4Y0xmWGhVV1dIYklBanR2RVZEcVNpcG9uS1A0SGI3OC1fT3lQTHctQnRXSzkxTVdWMzhYZjVUS3JRNTJSald4amJBNUN6QQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – N - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTy1LMm9DY2hRTHJDZWgxRDlwODl4WERHRDNPVTh1TnJ6U1FkTG55QUxRcjgtazJubURsNGlMV1RUQ0ZIZzYzbDVCOHFuSlFfQ0NxVUZkR3Y5Q21kd25pMHkyaUI1d2xiN1puUFUzcjRJVjRfWFREUnNvUTRqaDQ2Q2RFXzVLWmc?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:20.192500Z",
+  "collected_at": "2026-09-02T14:50:23.430498Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.020191Z",
+        "fetched_at": "2026-09-02T18:38:07.517284Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.020200Z",
+        "fetched_at": "2026-09-02T18:38:07.517295Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.020205Z",
+        "fetched_at": "2026-09-02T18:38:07.517301Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.020210Z",
+        "fetched_at": "2026-09-02T18:38:07.517306Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.020215Z",
+        "fetched_at": "2026-09-02T18:38:07.517311Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.020220Z",
+        "fetched_at": "2026-09-02T18:38:07.517317Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.020224Z",
+        "fetched_at": "2026-09-02T18:38:07.517322Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.020228Z",
+        "fetched_at": "2026-09-02T18:38:07.517327Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -288,28 +341,12 @@
         "sentiment": "negative"
       },
       {
-        "headline": "Rajgarh election results 2024 live updates: BJP's Rodmal Nagar wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "Rodmal Nagar , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQbGRzMHBLWC1IaGszTFNCRXkxaHNBdG5vaWJWWVRad2ttWUUySjJYX3NKbHlWWEhvUm5KSkh4VGtmbmNfNmRuVXVULUh1Z3ExdjF2MWl1T2plVW9neHg2R3R0bEZKZ2czNjBQRmNnY05mdTE2SkZtNXJPRWZxeTd0SkN3NGNfSmQ5Y0JNZWtGQ0FSY2w5WnlUMm5VTml3SUxIaU5BVGpTZ2R4NEJTZkFCY0dRUDJTMEsxdU5ISnMxWGQwRTJlTEdrRFJJSEVrTWhkeTdPeEtybTFKbXVrWm9hUmlCVktXaE1UTjMxZzR2UEZWV25ab192RnFldDNzSXQwb0Uta1RHWHJZWVlXR19wLU1iZWJrNXBQVkk3VDEyNHJXVGFrSW9Rc0xVVTFNM0ZUc2V3VTRWcUZCY25GVkFOaV80dVJpaGRrOVVIcWx30gHTAkFVX3lxTE1xUEkxQzQ1Q1QxQ21rNDJXcTBfN0ZRNHcxY3IxQ2swekR3NmwteERTVmZmLVllVWs2QUNlazhBSXZLcEtBTUtLb082MWhIend5VVk0SnF4MjhCU2xzWmw1Q2ItN09YU1pfaWV6UUVDMGNpa1JxSzduZnBCTWlzaXdxc0E4cGpMVnpwYUttMUpoN0dxVWZlU3dNRmZsbHFjWXpFTkN4Y242QU9NaURlb2hXcWMtRDFDbDBWeWJwTVp5OXRZRkQ4VDM4UWpoNXZpbWk0cnJMdE5CWER6ZlpfTlRzUW1lWklpU2xHZnp1X2I0cFpfOXdmYkFXSHFIUExYY3JKYWZpZVB2UzFnUnhkQjhGNERWWVA4M0NvNnFvSVBNNVNSdEZ3Qi1KdVlBcUlhTVJBTHoxeThGMmUxM2xtNTAzUW5PRDI1MWdrTk9LRlRlSEI4TQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGx1Y0ptN1FxalFUUmY3aFJwR205cTV4enRiTVNPWTlZZ3lza2RXOFBpVW1WNl9pOWd5RnFnUHRCelhoemF2OUo1dk9rM2JBM3ZobGdJWHlqSTdreU1NX3o3RmxfVWNQSEtwRnN1MEE3UERtOGFSNDk5dXJlNjYwNWJGZw?oc=5",
         "sentiment": "neutral"
-      },
-      {
-        "headline": "Rajgarh Lok Sabha Seat Result 2024: Rodmal Nagar Defeats Digvijaya Singh - ETV Bharat",
-        "source": "ETV Bharat",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTzBCVXNFMGZ5UnFYZGFiTkdpSS01dlZweGxXWGkxZjFGRG9KdmRaZ21UZVBDSGk3b1A4MXVFOFplc1JXOUlHaEg3WWQ3TzhKbWRlNnB5ZWg1dUVBaUU0dlM5b2xVbXMtWWpWdVFaY1FMWTRod3E5QXhBSnlCZEZVdU5Kc25JOXNCQ29ONTY0T0tGaFVEdFFYMTlIN3p6MWV0dzRaRnhULTZiLV9uZkNWU2ROdXZnaUZPRnQzZTB1OFpFZHAwV2puYXdKaW1OUU0weHFqeDdWT29qOUVpb0pIVnJpNlhubGFUbkU4SWIwaGJRbl9XMEczSjdkU1F0UElBeEHSAYcCQVVfeXFMTVZDbWkwNWVON01KRjFZam1heUgtLTdCbGZzcWEyVnhraUFaeV9jdUJidlhpUHJ4OHYwUWNMVTdUZnZIS2xCMHF0SVdYWkJrQk96ZUhLWXVCY013Qm9EREptTFdSOXRibXVzUHJsYmdNNmpDR0RidFJneW0yRjVYakhQLWdCZEtCekJUbnB6N2o5c0JZZ1dZOUZiMzZDMWQwcjNMZGlxeEhraE9UWFozbG4xczY5YVNEbHQyMUdjYjVRakZyOWlQTkEySk9VTEFxemhnZTlnRHpkVHhKekpYMkQ4YWFxNW90aXlvaFBrelFVRUJwMmMxMjM0WjRlRkt1VWNtX3Z0REU?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Rajgarh MP says India achieved independence in 2014: Congress counters, saying their ancestors faced sacrif... - Bhaskar English",
-        "source": "Bhaskar English",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN01rcjVVT01xTnNZTGZfelJsbzVaeWpiWjl2WHhVUG1Mek1rZFduMUpVbmlZTWRXUDhTQ3ZfeHZuZXV2S3U3S01SVHUzZk9SQ1JWbm1pMDZreFg5dGh5UGhEeEZJeUpzdVRsclV0emh0cVlIRVlnOF9FUm4yWWI2REs4Rkw5cFhyRUlYaUUtRmltNWxCdXdSei1ISll0WkZFcFhYaDdVMFhpWk5JNjBQUXRaN0F4THNsX1g4VGpqeEtmeFZKSzExUlBvY3F3b0o2T0ZGN1FCdjc3czk4a05YYVljd9IB6AFBVV95cUxNWHFyMVM0ZDBGdHpjVGFvWU1aVnhGbV9iR0tReTJpQWVzVy1FazBMdXJCRWVwcFE0UWs2eG5Dekh2MEtzVXU2RjBSTW80RDJManN5NTRfQTltODFKMkpnbVpzNGRGSEI3aUpOSEZOLWhtNUFDZUpvRklTMHZqblYyZERZTnljR0V3alFub3lySk5acTluWkYzZjBIWEt1Smd2QzlaaTdmU2daMzB6djhKbnlqNWo1OVg4RG5KRV9PVjJETk52di0xWmU5TnJOM25MZllrb1UyeW9vM0pTaDNVUnBxN2NkeDZT?oc=5",
-        "sentiment": "positive"
       },
       {
         "headline": "BJP Nominee Rodmal Nagar Defeats Congress Heavyweight Digvijaya Singh In Rajgarh - NDTV",
@@ -317,6 +354,22 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWV1cEZTMHAxRmtJdGNEcjJBSjNmWUVTbzlwY2lXU0NQOVFTRDRyeTBRLUtQckZCQ0J5VWVYMklQNVJxZFVPT3lHdmxMM2Y3WWl4YTh4Q2k0ZUxMejJ5SFA5d0R5SVhlcEFDZUQ0WXgyU1JUS3JOWWJoVFR0cWI2aWRhdlFIVzNjRkpnZ244bUQtdFpaMGF3bWExLVUyWktvUHpVQ0F3M3hHMmhGV3B3dU10WjVTd0d0MlFrMNIBxAFBVV95cUxPSHlYbk1ycDN2YlhXMGZ6NVZnc2d4NzNmclNKTVp2cDltTV9SVzVtNFF0b2cwUjJ4SnM2SnpsRmJlLXB3WnJzUnZsUjRMUmtVc0RCSFpaX3lEeHpYdmVKVmdrTXoyNEg4WG5aRXNTT1lKU3RHNW1PWGF6Zk40ODROYnlSMjYybWs3Y0FoZzJ6Y3kxYlNUN1N3a2dWVmFZc0VYcXR6RW9lc2N1b2tPb3VXX1QzN3ltMklESlY2VENHWEg4NlJx?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Madhya Pradesh Lok Sabha Elections: Digvijaya Singh Vs Rodmal Nagar In Rajgarh; Check Education And Net Worth - India.com",
+        "source": "India.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVkI0cE9tZ1phUDdSUTBEUkJtaVZ5NWlPTjZNbDNfMDEyQkJGemxyNklGLUFHaVhLcjA5WHdNRHNoVTgzbGlDdmRJUm5iZi1ucHpIb1NKRXlWNXQwbFNISnFlQnpvekRJTWFjN2NyOTVzRnJLcF95eFVYQVBKWkZUS1ZDMDlPeHdDQWFhMWVfMXRZTV9ORDBTbmh0ZDVzME9MZGdNQ0kwU18yWVhHOGJxd3VOeHY1OFVxamtCYkZWX3F2bGtTak5PdnZ4NFJsdlpXZmxRWm5pRXNfOWdmT05ERTJFcURYOVpiMDQ5aDc1UVRHLUhnbFFRUNIB_gFBVV95cUxObXI5b2lKTnk3elZoNzlBZ0MwcFNjX3l4RnRacy1XTUtWTUZ6MWN1akhkT1lTYktKeTZWWnlHVkNwWlMyZGdsNVlmeVd5c1RRcGQzeXhhX2FnX3hOaUswMkozMTFJLVh5akpLQU51aExVWXlBYmUyTHRtOThLR3dqc3dXdWN2aXFudU1NTno5VG5JY3ZyM2wxNDZZSmtuT0xoRGNJb3pzdHk1M1Q0SXgxMFl5UkdiSnN4Y0xmWGhVV1dIYklBanR2RVZEcVNpcG9uS1A0SGI3OC1fT3lQTHctQnRXSzkxTVdWMzhYZjVUS3JRNTJSald4amJBNUN6QQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – N - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTy1LMm9DY2hRTHJDZWgxRDlwODl4WERHRDNPVTh1TnJ6U1FkTG55QUxRcjgtazJubURsNGlMV1RUQ0ZIZzYzbDVCOHFuSlFfQ0NxVUZkR3Y5Q21kd25pMHkyaUI1d2xiN1puUFUzcjRJVjRfWFREUnNvUTRqaDQ2Q2RFXzVLWmc?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 9,
+    "starred_questions": 2,
+    "unstarred_questions": 7,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 16.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

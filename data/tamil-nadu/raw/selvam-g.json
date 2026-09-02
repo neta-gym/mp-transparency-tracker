@@ -4,16 +4,16 @@
     "constituency": "Kancheepuram",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 134,
+    "myneta_candidate_id": null,
     "slug": "selvam-g",
     "house": "lok_sabha",
     "sansad_member_id": 4963,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 49,
+    "age": null,
     "photo_url": "/mp-photos/4963.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:30.435318Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 23615126.0,
-    "liabilities": 3112213.0,
-    "net_worth": 20502913.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=134",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.766533Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 20.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 18.65,
-    "released": 18.65,
-    "sanctioned": 10.11,
-    "expended": 9.13,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:48:47.672140Z",
-        "notes": "Official eSAKSHI REST API — Works: 302 recommended, 277 sanctioned, 78 completed"
+        "fetched_at": "2026-09-02T14:42:51.881967Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:38:51.180822Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:38:51.178867Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 302,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 48.954423592493306
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:29.532825Z",
+        "fetched_at": "2026-09-02T14:38:51.178073Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "TN leads in number of accidents on national highways, says Centre - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnNiREIwY0w5eGUxV2JqTG8zZ2VnWVkweS1aTlFTR1FUc0w2bDdVN3BjN2swUjljbWY5SDB0N2tpNnVGT2RBS0YzR0dPNWJPX3NGX2x0NHRtaUJYaU9nZTA3ZmpLeWR3azlxZXhuOGFLX3czZ1ZhcFZjODU2VWxDYjNMQmFBVUFRNndMSXAzR1M2YWNHMDV3TFNWVUhEbGc4ck9PV3FZaTM4RTI3YTFLZThra0hFNFUtQlFLR2hrc3IyVHJyMDlNX2xoQXdUMUhheUFvcFdn0gHbAUFVX3lxTE9RdW1lQm5weF8wbnN3TnpUYWNMU3J6bUdrMXhmd1lxQ3QxM0dMaGQ0MXBrZHkxby1zbmhpR1lVZDloRGdZbGV2UDNWSEkwb09zVVB3QmhVRmVtWS1XYW1EdmM3UFZrV1BHX1p3M2NKdVF2MjJYSDYtTnVBSUE2NnR2alJMUDJUdDZmUzhJLWx4OF9RZWRXWDFOcTVJNndiZTUyNVdhd19qeklVaUJEb0tFcGNPZHBHOC1BRUFnQk5JTXJtUm8tTlRIOHFyRmY5bmdtdWpfWDNzQ29iYw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha 2019 constituency: Its AIADMK vs DMK in Tamil Nadu’s Kancheepuram | Hindustan Times - hindustantimes.com",
+      "source": "hindustantimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPak45c2JRRzI3UEJrSFVyX1hUbE9kVFM4dW92QmRRZnZxMW9iTnBFQzdLY0sxcXZuQnlNa3pTUTdUVUR3ZklaVktITFhBNmR1Um5ZcTRDVF92Ul9lUDdDQkw5a2dsSXBFVXFDZ0NIWVFzZ01QZVJlOW9YX2VBTmJ3Wm5kdkZ6dTBUeFBadG40NWxDUXFfOEdnUTVUdFlUeEVBUUF2cnRmRW5Pc25fdkxHWXlmcllpNExtcXhWc0I5V0QxblU4V19UZWxQdW1OYWkxX01lTU8yTk54UDBad0RpZlBDWFFxa1llMFAtV3BNSdIB9AFBVV95cUxNWUZTT0c0UnllSjBaNjJWWjI1R3pIeEpsemdDeEMyYWRRSnpNRElRMVR3R1c2NjZZeUo3bXlRSnU2TXA0Sm15cmJycm9kMUVLSkN4eGM1MHBacFNGTTVKRWp1aVVNNXZqLW05Q1NSemNSckZPT3FuZ0ZXZjZTUXR2TFRXRDhNZ0E2VEtTU19MUGhPd19ab2N3RXFoUW1ITUo3NUgtdGdmX21WMC1YZXVOLXctZlNBYm5QazIzTGVqdUp6bTgwMEZfLU52U2lXSmROX0t0eG1kb1Bmay1PajZNRzNCMVYxcUxfWWx4OURpb29YWEsy?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kancheepuram: a tale of years of neglect - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSU01ampQSG52U2ZtNW9MbjRnZ1RGZzBJVmx4TGtyR1cxdmY1VzNJdC1WS2Jrdnc4cDNremhxV3NqMU9aT0N3V2xNekFad01oVFZRX0tBUnlKZmxIaDkyeXF5RVZwNGVpWjJpenppbHdGa3FRYXNZc0tha2llS3JxV2M3NHVZZ0RpeFY5U0JuQW9GcTdjY3FqUTBVY1Y0Q0VmUlRFVGVqU0pFdVJpVkHSAbQBQVVfeXFMT1BWWm5lZDZCYlB6ZU14S2lWcHdhamdack9EdkZreWhpVFRwUmVBZlE1dC1KWjQzeTBTUDVyRm1CRHlzZnUtRXFHNHlTbzcxQjBsMFhhM1N6cDdpa29CT1haLXBPcUF4RnB5SnhTcUgwS1lmY2w5RWVNc2ZsRVFHUkRlMGtfbktFQUwxSEtubjZsZlVBTTU5Z3ZjTU9LTjkwMDFrdDlTRXdBendMdWxRT2xTdmd6?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kancheepuram lok sabha election results 2024: Kancheepuram Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmFQVEVac3dGbWVOeVlLNzdpVzByNmQxQmZ0SVFzcDkxYmkwNTA5QlJEWXpMTkk5QzNhOVFCWjJWeVozWG01LXl4TzVBNHcwajlyVDJ2eFF2S3ZhSXhmZzVKRmVJUl9NSjJLVno5bzRIYWNtdGlYdjlOY0J3Ui1aa1ZXakN6eFBaM1djdlhxQzVZcjJlWExXMjEwaw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parandur airport row: As protests intensify, DMK reaches out to villagers - The News Minute",
+      "source": "The News Minute",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2tTQ0xJV2xXazFtamlOR0J2YmR1NFBkaHBvTDRUQzNtSVItNW5NdnpDQ0ZVOEppNVJ4eTBiVjBKazEyLUdCRkdVcG53ODNSejZBckVMLXlTTllUYXdpb1pNOERNUm1wZ1N2S0RRTlBNZDdtZG1TZDRqclhJXzJYclRPcHQyU1FFMHBkTlhyR2dQb1hsSFozdUNQbHZYMzdFdVlVcGNqWE9hdmFaN0l1QmFsTdIBwAFBVV95cUxNc3FDZkVPSWp1aDY3MC1oekFqbWhwVWpxSkxJWGM2MWZ2YVNSX3RtX0xKaWFidFlyMDNfcFkzdTFrRVhacHNCX2w1RjltY2o5emNJYzV2MEJFLVJKbVJsRDNrdTBIbXd1U1ZlMTF4eFE2aGdld1J0YTNjX1AxbndUdTMzTWhjQWF0OGFGMDJsYkwxLTFVQV8xVUJmZXVPUDNGSjZsNW5MX0RkcGhUeDZ4Nnd5N0pYblp2Rm5MQXFJcXg?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:33.584714Z",
+  "collected_at": "2026-09-02T14:42:51.882858Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.721538Z",
+        "fetched_at": "2026-09-02T18:38:10.235604Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.721547Z",
+        "fetched_at": "2026-09-02T18:38:10.235615Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.721559Z",
+        "fetched_at": "2026-09-02T18:38:10.235621Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.721564Z",
+        "fetched_at": "2026-09-02T18:38:10.235626Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.721569Z",
+        "fetched_at": "2026-09-02T18:38:10.235632Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.721574Z",
+        "fetched_at": "2026-09-02T18:38:10.235637Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.721578Z",
+        "fetched_at": "2026-09-02T18:38:10.235643Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,28 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/siruvedalgselvamdmk/",
+        "url": "https://facebook.com/https://www.facebook.com/siruvedalgselvamdmk/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:38:53.990966Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -272,6 +342,22 @@
         "sentiment": "neutral"
       },
       {
+        "headline": "Lok Sabha 2019 constituency: Its AIADMK vs DMK in Tamil Nadu’s Kancheepuram | Hindustan Times - hindustantimes.com",
+        "source": "hindustantimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPak45c2JRRzI3UEJrSFVyX1hUbE9kVFM4dW92QmRRZnZxMW9iTnBFQzdLY0sxcXZuQnlNa3pTUTdUVUR3ZklaVktITFhBNmR1Um5ZcTRDVF92Ul9lUDdDQkw5a2dsSXBFVXFDZ0NIWVFzZ01QZVJlOW9YX2VBTmJ3Wm5kdkZ6dTBUeFBadG40NWxDUXFfOEdnUTVUdFlUeEVBUUF2cnRmRW5Pc25fdkxHWXlmcllpNExtcXhWc0I5V0QxblU4V19UZWxQdW1OYWkxX01lTU8yTk54UDBad0RpZlBDWFFxa1llMFAtV3BNSdIB9AFBVV95cUxNWUZTT0c0UnllSjBaNjJWWjI1R3pIeEpsemdDeEMyYWRRSnpNRElRMVR3R1c2NjZZeUo3bXlRSnU2TXA0Sm15cmJycm9kMUVLSkN4eGM1MHBacFNGTTVKRWp1aVVNNXZqLW05Q1NSemNSckZPT3FuZ0ZXZjZTUXR2TFRXRDhNZ0E2VEtTU19MUGhPd19ab2N3RXFoUW1ITUo3NUgtdGdmX21WMC1YZXVOLXctZlNBYm5QazIzTGVqdUp6bTgwMEZfLU52U2lXSmROX0t0eG1kb1Bmay1PajZNRzNCMVYxcUxfWWx4OURpb29YWEsy?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kancheepuram: a tale of years of neglect - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSU01ampQSG52U2ZtNW9MbjRnZ1RGZzBJVmx4TGtyR1cxdmY1VzNJdC1WS2Jrdnc4cDNremhxV3NqMU9aT0N3V2xNekFad01oVFZRX0tBUnlKZmxIaDkyeXF5RVZwNGVpWjJpenppbHdGa3FRYXNZc0tha2llS3JxV2M3NHVZZ0RpeFY5U0JuQW9GcTdjY3FqUTBVY1Y0Q0VmUlRFVGVqU0pFdVJpVkHSAbQBQVVfeXFMT1BWWm5lZDZCYlB6ZU14S2lWcHdhamdack9EdkZreWhpVFRwUmVBZlE1dC1KWjQzeTBTUDVyRm1CRHlzZnUtRXFHNHlTbzcxQjBsMFhhM1N6cDdpa29CT1haLXBPcUF4RnB5SnhTcUgwS1lmY2w5RWVNc2ZsRVFHUkRlMGtfbktFQUwxSEtubjZsZlVBTTU5Z3ZjTU9LTjkwMDFrdDlTRXdBendMdWxRT2xTdmd6?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Kancheepuram lok sabha election results 2024: Kancheepuram Winning Candidates List and Vote Share - India Today",
         "source": "India Today",
         "severity": "low",
@@ -280,27 +366,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Lok Sabha results | DMK establishes comfortable lead in Chennai and neighbouring seats as of 3 p.m. - The Hindu",
-        "source": "The Hindu",
+        "headline": "Parandur airport row: As protests intensify, DMK reaches out to villagers - The News Minute",
+        "source": "The News Minute",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbG04T3B2VmJUdXlKSU82bmVZbHJCR1p6SzVJNXVCSEdwZjU4RmZYb3ZKS0xNY0daam1fVDNXbnpzVU85dXdMU0FVNGRsaXkzcjEwSlYxTHg0dEx0NDZBNkNrb19Ec0FTSHl2X0NtOEtVN3NKUGp4c2cwODdmdFBGaEZJWTRDWGt3d2s1ajNpTm53c2pFRF9icDF6QW9FcERtdThjbWpmMmloVTY2c1NINko3Wjh1UHJpYVZlNEtyUTRpa2xWYWUzaG9la0hPN1RIQ0tzdS00OG9Ia3NMb0g5bm5Yc9IB6gFBVV95cUxQT0MxVDZuNnpPek9DOGR0WG9JLTR2ejhsU09OSGlhYWphUXFXc0o2VkM0cjZzeThPYWVNalRFZDJQc0lYcTYtbkNIUjZPLXBZclplSUl1dDFiX0xoNDlocjBlN2Uwc2MtQWdUYk5nYnBab3QzdWhKYTdjOUVzTWQyR0w1eHRzYzlCVWVjbjFUaWdjb1BZaXBZVlloTVBodzNvUEZXZ0pGelA5YThwSnNMbnlkcmVQVjV2ZFctbVBZUXNlYVo5cFBoR09LWXo2WHk2UV9pQ0VBdDlzc1ZBUmN5ejlaWXF6T1g2eWc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kancheepuram Election Result 2024 LIVE Updates Highlights: Selvam G of DMK Wins - News18",
-        "source": "News18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa3AtYWRlWGhMczBveXF5VTdjTVMzM2ZuRWZxUHNURDRIbmM5QkhPaHZVRXpidm9pd3FqcTlzdzMyMktmcTE0cU4zOFJIcmhwUm1paktIaWFKOVU0dS1WN3BxVlFkQ1pHeHNiSEtiQkpMeTB4TjhEUG12OEo1cGhWekdrcUNqZXNqaVVuVUQ4cGl6ZTBKTmljY3BFSlNwZ2RhQmRJSXZ0eE9pc0ZVY0NnQVVRVUN0MTRYSFFqOUxxQmMyZTQ3RGRuZFFFM0VQcGdTZzJyZ1UxU0hHakppQlBrSzlHamRNV2F30gHuAUFVX3lxTE9hWWZhNHkxcnpQSFRuQkt0NmNVQmlvOGVKZ2FrUGpMdTBRU2t2b1k4ZXFUcF9Ic19qeWl2T1preWtCclg4TzlkLV9IMkN0UXpjNEZHU2FObkpHNGIxQm1ISXRoWUF5bGJ2SGZXWnVDVkZ0ZFM5dnFtci1zT3Fsa09QbXZzRVJLSkRLX000M2xNZHBnS0RtUV83VHQ1MTFmdE5uZm1yVnhXM1A2VkdvSmQ4UHFwMHZjdEVaR2V1ZGIzbUJ2ajk0TjlZRURHUTJHOE9haENUVm0wU21NZFZEVldHQ202NFpPd3VBbHRRa1E?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Anti-incumbency a challenge for DMK in Kanchi - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORjZ0a2RnSGlXTXVkNDZhMlE0MGNya0VYM1BtMnNtT01YWk5wUkMwa21FRkhIOHZyVW03RHFKMTZnSFdlNTY2WFVWVXUtX2c3Z295YkQxczVlem1TdTJvLUdudnZOQ3FvOHZqUU5IZFZfSmYzTElEdGhDcmF5ak1OdjZRMTAxR2k0SnFoMmV6Zll1WURVcHY1TzV2bkZLbF81S2F1ZUJkclY5amtz0gG6AUFVX3lxTE5CeV90QVVHTG4ycGRDc1R3alZUclV1bkdDWDBaSjV2ckZ5UnJCQU9kZVhvamhuOFIycXdpX3Z2S0hIbXFQeVd1YkxjbDFTbzZvNVlsaEY5MFRNcXhnQWtheFhJclhJSzExQ1hZaXlqV0o3aUdjQVpiNi1sT2k2VnR0aGZTVzVPNjRvamFYQTBiOWhhdmJDZEJtS3FDY1VPZUg4YUFETWgyaWJpeFZvVmdwRzVad2lKeFh5dw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2tTQ0xJV2xXazFtamlOR0J2YmR1NFBkaHBvTDRUQzNtSVItNW5NdnpDQ0ZVOEppNVJ4eTBiVjBKazEyLUdCRkdVcG53ODNSejZBckVMLXlTTllUYXdpb1pNOERNUm1wZ1N2S0RRTlBNZDdtZG1TZDRqclhJXzJYclRPcHQyU1FFMHBkTlhyR2dQb1hsSFozdUNQbHZYMzdFdVlVcGNqWE9hdmFaN0l1QmFsTdIBwAFBVV95cUxNc3FDZkVPSWp1aDY3MC1oekFqbWhwVWpxSkxJWGM2MWZ2YVNSX3RtX0xKaWFidFlyMDNfcFkzdTFrRVhacHNCX2w1RjltY2o5emNJYzV2MEJFLVJKbVJsRDNrdTBIbXd1U1ZlMTF4eFE2aGdld1J0YTNjX1AxbndUdTMzTWhjQWF0OGFGMDJsYkwxLTFVQV8xVUJmZXVPUDNGSjZsNW5MX0RkcGhUeDZ4Nnd5N0pYblp2Rm5MQXFJcXg?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +404,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 73,
+    "starred_questions": 21,
+    "unstarred_questions": 52,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +420,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

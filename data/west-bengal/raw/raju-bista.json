@@ -4,16 +4,16 @@
     "constituency": "Darjeeling",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2218,
+    "myneta_candidate_id": null,
     "slug": "raju-bista",
     "house": "lok_sabha",
     "sansad_member_id": 5042,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 38,
+    "age": null,
     "photo_url": "/mp-photos/5042.jpg"
   },
   "criminal_record": {
@@ -22,70 +22,123 @@
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "95/2020, Date 05-04-2020 Police Station Entally Kolkata",
+        "ipc_sections": [
+          "505(1)B",
+          "153",
+          "166"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "ACJM, Sealdah",
+        "fir_no": "95/2020, Date 05-04-2020 Police Station Entally Kolkata",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "200/2022, Police Station Civil Lines | Sections 3 PDPP Act.",
+        "ipc_sections": [
+          "143",
+          "147",
+          "149",
+          "186",
+          "188",
+          "332",
+          "353"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "ACMM, Rouse Avenue Court, Delhi",
+        "fir_no": "200/2022, Police Station Civil Lines",
+        "case_no": "CR Case No. 12/2022",
+        "other_acts": "Sections 3 PDPP Act.",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2218",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:56.153673Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:37:37.535312Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 475357268.0,
-    "liabilities": 2794788.0,
-    "net_worth": 472562480.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2218",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:56.153685Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 83.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.43,
-    "expended": 3.95,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:53:04.958664Z",
-        "notes": "Official eSAKSHI REST API — Works: 160 recommended, 100 sanctioned, 19 completed"
+        "fetched_at": "2026-09-02T15:03:22.527643Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:59:18.749732Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:59:18.748147Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 160,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 26.87074829931973
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 70.0,
@@ -100,7 +153,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:05.121450Z",
+        "fetched_at": "2026-09-02T14:59:18.747433Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +161,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Bista seeks committee to study Himalayas: Darjeeling MP calls for Padma Shri awardee as team head - Telegraph India",
+      "source": "Telegraph India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcnh2QW54NlVXN2N6VENWNTBvb3lwVkpIVkxYa29QWmk1bFlFT3ZfeUZ0cF9IQU00ZU5BQkZlaVBrLThBdmY4bU1DYV9YcGxmbmZ1NU5mcVBMOUhfOGZHRHlzcFZxbzVaS0VTRHpKUVhnaGx6Q21lSUtVZVl6R3FFLTE1LWkySmc2dFlHZGk2Qjk0YW84VDlxQ21SVm5JUlpDcGhHMGJyeFc0b1Y2bF9pWmJXaXVSbzVnM21GejZkejZwVmZlem5UUXFGRm9GZjdJMlZFZkdDcjZycGwzSTZUN1VTT0FBN1dKeXpQNkJHSXR3VHPSAfgBQVVfeXFMTV8zbl9Sd180U0QwLWRGV1dwWklTNEdycXh0SHViaTB1Qzhqb3BIQ3Ryc3I4ak51UTN1eF9NNVNPT3JZVVpXWlpKWmlXS1luOFFDVnJYME8wV05Oblg2aHB3ZEdpcHQtbEtqOGx4MzNCd0E4eE9OaWd3ZWFia0NsZkt5WW96dmJkVjdTeGZMSUtUSUZXX0ZzQmxHSzNUWDBYdVhtb0tNVlR5SUphRjV3RUQtbV9tTDZVdHBoaURCeWw4MWlpODRCcWQ4YU9fUEx4S0NYNUFCaWs0bnVIQm5SRm1sSFROcGZldFV5UG0yTzZYTGphT1VoVTM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Centre Forms Panel For 'Permanent Political Solution' To Gorkha Issue - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORWM2ZkotckY0SEV4dmtzaVBNU1Vac3Z4QmFnLXdmaERTSHYxUU1JNFNCZDd1cnVlcUU0bW03cG1GeERNTEFrVXBieEpxZmRZeFdCODJIeER5TEFfVnpSMEdSY0libGlVX29DM241VE9xWDNzYXZOMy0xMzFCMnYwTDNSS2xKaEVPcGZETy1sQ093a0xiMmh6d2wwNl9zWm45bEJtbFlsU2hxWWplNjZXUlN0RnVYNzR6TlBWMVJkaDVCY09OVkdGU2tlUUtvQ2xva3RfSkowTzFud9IB3wFBVV95cUxQV1lvd1E0M1AyVEVuUW1IZUJUelZNNkNBY3BqV1JzVDUyMTVpVWZIS0E3NTlqUklKblV3cldfS0pVWnFKbG9oX1pHa29GdnpycUkyYkZ4bVEzY0hMazhiRlNXQ2NGdTd4V0JrRWEyNmhhVlRpY2lCUDNmdW5HdUU4RGJrVDdMcnhhYkthN3EzYm5EY3J4Mlh5STFFSVBCYkhKYmllRVRWMVlrOXo3dktjMG5GT0xwOEpxRWp4ZnkxTGJDZXhFaTQ1YXd5M3BLVEk5NGV5UHo5YjRfZHV4dG9J?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Reflects vision of prosperous, self-reliant Bengal: Darjeeling MP Raju Bista on BJP’s first state budget - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbldmNl92bEEwNjl4UXAtRmg5Uld6WVVSSXVpcDZtNmVieUxxTDB5OFdXWkZfaThYUk5CYVlLYzV4czN0OXFlN3ZhcGltb3Q4eVJVM2hlMFVhYVROQ3BNVTdBTkRLd29sUS02WjlmcWRWcWw1SndobXRKOVQzZWJfMzhnRmdENFVhcUV5bzU3X2F3b3kzRWpxYmVsV3BRNEUzZlVpVEV0NTFhQjVvNG9iaHNzLXdXX0lLb0NtTUdEQ2hWdFJMRVlabTFfM0VTNmVCY3p0RHJvdDJaemZOcDlwTUlZSWhZT1RkaUs4Z2JSTjdVWjTSAfgBQVVfeXFMTnlCOHFpVU5NVHJ0MVlnT3ppNTV6SndTV2JUSDJMdEp3SFY2R01mUjRyU1pwSE9oT2dJeWRUOTRsTkM2Q2tFRXRxaF9EcEw4SXZzMHBaSGdqLVZ0dERZcnVFNzVDUnRzWWM1cmlvWjdTa0ZzU1pEcGpfaGZkaDhyVWZ4c1lDd0NoWEdiaFhSOXhFUVhhU3NUTThXeURYd2Q3N0JFWFhrcEpmYjRRQ3pCLXdya2JNaE9aRHdXeWR1d1JfNHNGXzJaV2ZqZzJqb3c4cXoxanhiREN4WGw3UGU2ZEtfQlRENGRjaUl6ZURGWmtyT0FXa1ZMUGo?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Game is up for Mamata Didi\": says BJP MP Raju Bista as party set to form government - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTYyUHFqMnFWWlNnNDdnU25tYld5ZnJKdGtpVnMtM2FfX0ZLOEQ0OWV2NUlSREtVVjhiWURjM2tOWnJ6OVFZNW16bDFLczJLazZPUjFkOWprN0RENjRUdHZlNURCM0JfWjBTUlNCVmpoaWQtaWU3bEZmVGhNUy1ndTNwN0NpWXlkSFRCcFRobEtPNVhjdTJWVWljU3JkUzVncHZUUmhRSlR2MVB6QnlxbjBvOHJCS1pHVmlLRHBnN3ZyZTJtejVmUTgwT2tLUXBseE45a2VxREJmNXBDblE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "No resorts on closed tea garden land, says MP Raju Bista - MillenniumPost",
+      "source": "MillenniumPost",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFZUS1paMmRKRDJoajQ4ZVZWTEFrUGp3clA2OTJhRVk0bkhVRHM4RG5KdDdfOElvMUxFMWNjQkRnOFlZNmJjVWNfZkRjd05QRGg0Q3ZQbUlneVRXOUVfMmNzQ05faGFUWkM1UWEtRkdDdmNOeVJLYXhuLWJVOC1vdnFXSGR2QU90ZThuM0dFenF2QmdrSFYxaXBBcWxhc3RU0gGmAUFVX3lxTE9mUG51Rm1HQXcwZjNlQTNWSG5pUGhyQWtEakpuSmg5M1BfMnlRYXpOdW5uZktjcUc1dHBJVHlUdW1QR3p5UXZseHotbGdMV25XM0lqeERHRUExMGtTYlI5WXh6NWROR3huclUwUENNZDVVX1BHZHg3UkdjRHgwV2xCNlhLOEp1eWlKM053VWc1REJneWlUTGhrbWhFTFVDWkhtU0hqZEE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:09.988562Z",
+  "collected_at": "2026-09-02T15:03:22.528307Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +230,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.890182Z",
+        "fetched_at": "2026-09-02T18:38:12.527400Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +246,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.890191Z",
+        "fetched_at": "2026-09-02T18:38:12.527412Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +262,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.890196Z",
+        "fetched_at": "2026-09-02T18:38:12.527418Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +278,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.890200Z",
+        "fetched_at": "2026-09-02T18:38:12.527423Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +294,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.890206Z",
+        "fetched_at": "2026-09-02T18:38:12.527429Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +310,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.890211Z",
+        "fetched_at": "2026-09-02T18:38:12.527435Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +326,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.890216Z",
+        "fetched_at": "2026-09-02T18:38:12.527439Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,11 +351,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/RajuBistaBJP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "url": "https://x.com/https://x.com/RajuBistaBJP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/RajuBistaBJP/",
+        "url": "https://facebook.com/https://www.facebook.com/RajuBistaBJP/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/rajubistabjp/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/rajubistabjp/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:59:21.428300Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -272,43 +397,43 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "BJP MP Raju Bista promises land rights for cinchona workers in Darjeeling hills - Telegraph India",
+        "headline": "Bista seeks committee to study Himalayas: Darjeeling MP calls for Padma Shri awardee as team head - Telegraph India",
         "source": "Telegraph India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmM3Nmp5TXA0UzM3MGktaFAta3B0VnRRMEc0b2Y2TWVQX0ZJMHpCNTRjWmRYVUdZbU1nLTdmNTdGMDN0TzlIeHBHWkJLUkFXZ25LUnZ0eFd6bTVuaVBwbUdLOWtIOGxTWUl0R196ampUd213UUVndFJJWjNpWktUUXc4aHNLYzZ1c3hYanNiY2s0QnE0b2NROXJVWTB2MDlZbGVyMFllaXpOMTBrbk14VDg2MDRuVVV6R3BGN3hsZTlRZmZnVU9rZnY3MzVzYlRRdVJ5VlFB0gHbAUFVX3lxTE5kcHFSRVNoWVFwTmNVVlJOYkZrUi1MaEN5QW1wZFhDTXNwN0FBQmJFdzdLQXU1NTlWTGpJcDZSNEk2WjlrcXNCbUxHQU9YczJRS0tPVV91Z1IzWExLQWN4ZnNTMWZlNE93ZlYwOG5tSFYwZ0Z2UEtfLUo2amRKeEJ6dlczdDRCa3I5Y1ZKdUs4WVczRFEtdWRqR0h5QUhLUFpyTml1YTZ1a3hkNXZqbl9GMTc1VENPS2tZMElpWXFRU19KRHRJVzhmbXhNSUFzNi1XNURTbk9RaDd2WQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcnh2QW54NlVXN2N6VENWNTBvb3lwVkpIVkxYa29QWmk1bFlFT3ZfeUZ0cF9IQU00ZU5BQkZlaVBrLThBdmY4bU1DYV9YcGxmbmZ1NU5mcVBMOUhfOGZHRHlzcFZxbzVaS0VTRHpKUVhnaGx6Q21lSUtVZVl6R3FFLTE1LWkySmc2dFlHZGk2Qjk0YW84VDlxQ21SVm5JUlpDcGhHMGJyeFc0b1Y2bF9pWmJXaXVSbzVnM21GejZkejZwVmZlem5UUXFGRm9GZjdJMlZFZkdDcjZycGwzSTZUN1VTT0FBN1dKeXpQNkJHSXR3VHPSAfgBQVVfeXFMTV8zbl9Sd180U0QwLWRGV1dwWklTNEdycXh0SHViaTB1Qzhqb3BIQ3Ryc3I4ak51UTN1eF9NNVNPT3JZVVpXWlpKWmlXS1luOFFDVnJYME8wV05Oblg2aHB3ZEdpcHQtbEtqOGx4MzNCd0E4eE9OaWd3ZWFia0NsZkt5WW96dmJkVjdTeGZMSUtUSUZXX0ZzQmxHSzNUWDBYdVhtb0tNVlR5SUphRjV3RUQtbV9tTDZVdHBoaURCeWw4MWlpODRCcWQ4YU9fUEx4S0NYNUFCaWs0bnVIQm5SRm1sSFROcGZldFV5UG0yTzZYTGphT1VoVTM?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "West Bengal: Stone hurled at Darjeeling MP Raju Bista’s convoy; BJP alleges political motive - MSN",
-        "source": "MSN",
+        "headline": "Centre Forms Panel For 'Permanent Political Solution' To Gorkha Issue - ETV Bharat",
+        "source": "ETV Bharat",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQamxjWGZiVzBlTWRrMGZDcDg1bS0tN2hFLTNUNGVBTWVTMjlreGxBeHh2VjJPMExoZWdHdkNLR0hXdkFXV2FuMTFVRW1jSlRlRkRUcGRESW9KX3pIVDBMTmpPRjFycmktYWtwMHZvQkg1ZDFSdnBSclJnMFV2UW8xb21yUjhpOU5TeHI0ZXI3OG81TE5kZlBVVFdxMC1BVWtTTk45RExsNzlYVVNlcG1ZM0VDc3hGOTZ4OThJck5lZ1R1dmIwekRyYjlTQThvem9lOXJOTEN6b0dNS25zNVRvY2J6cHJCaHRDWlRrMmNaemdodHE4TEN2WUdMT0M0SWJCbkcxcFpVLUFDcDg2U1hjV0M3NVhWb2RoT1ZrRDFYRi1ieGJjUklmRV9KRU96TFdiQVp4SDZld2hEd0F1Y094dkg3c2pGM1h6UXlGUGZYOEg4Wl9fTzgwXzB6bGdQTERPZ3VXWVFkLVdkWWt2aHBiNmJOYlFvQVZZWmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORWM2ZkotckY0SEV4dmtzaVBNU1Vac3Z4QmFnLXdmaERTSHYxUU1JNFNCZDd1cnVlcUU0bW03cG1GeERNTEFrVXBieEpxZmRZeFdCODJIeER5TEFfVnpSMEdSY0libGlVX29DM241VE9xWDNzYXZOMy0xMzFCMnYwTDNSS2xKaEVPcGZETy1sQ093a0xiMmh6d2wwNl9zWm45bEJtbFlsU2hxWWplNjZXUlN0RnVYNzR6TlBWMVJkaDVCY09OVkdGU2tlUUtvQ2xva3RfSkowTzFud9IB3wFBVV95cUxQV1lvd1E0M1AyVEVuUW1IZUJUelZNNkNBY3BqV1JzVDUyMTVpVWZIS0E3NTlqUklKblV3cldfS0pVWnFKbG9oX1pHa29GdnpycUkyYkZ4bVEzY0hMazhiRlNXQ2NGdTd4V0JrRWEyNmhhVlRpY2lCUDNmdW5HdUU4RGJrVDdMcnhhYkthN3EzYm5EY3J4Mlh5STFFSVBCYkhKYmllRVRWMVlrOXo3dktjMG5GT0xwOEpxRWp4ZnkxTGJDZXhFaTQ1YXd5M3BLVEk5NGV5UHo5YjRfZHV4dG9J?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "North Bengal poised for rapid growth, assures MP Raju Bista at Realty Conference in Siliguri - MillenniumPost",
+        "headline": "Reflects vision of prosperous, self-reliant Bengal: Darjeeling MP Raju Bista on BJP’s first state budget - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbldmNl92bEEwNjl4UXAtRmg5Uld6WVVSSXVpcDZtNmVieUxxTDB5OFdXWkZfaThYUk5CYVlLYzV4czN0OXFlN3ZhcGltb3Q4eVJVM2hlMFVhYVROQ3BNVTdBTkRLd29sUS02WjlmcWRWcWw1SndobXRKOVQzZWJfMzhnRmdENFVhcUV5bzU3X2F3b3kzRWpxYmVsV3BRNEUzZlVpVEV0NTFhQjVvNG9iaHNzLXdXX0lLb0NtTUdEQ2hWdFJMRVlabTFfM0VTNmVCY3p0RHJvdDJaemZOcDlwTUlZSWhZT1RkaUs4Z2JSTjdVWjTSAfgBQVVfeXFMTnlCOHFpVU5NVHJ0MVlnT3ppNTV6SndTV2JUSDJMdEp3SFY2R01mUjRyU1pwSE9oT2dJeWRUOTRsTkM2Q2tFRXRxaF9EcEw4SXZzMHBaSGdqLVZ0dERZcnVFNzVDUnRzWWM1cmlvWjdTa0ZzU1pEcGpfaGZkaDhyVWZ4c1lDd0NoWEdiaFhSOXhFUVhhU3NUTThXeURYd2Q3N0JFWFhrcEpmYjRRQ3pCLXdya2JNaE9aRHdXeWR1d1JfNHNGXzJaV2ZqZzJqb3c4cXoxanhiREN4WGw3UGU2ZEtfQlRENGRjaUl6ZURGWmtyT0FXa1ZMUGo?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"Game is up for Mamata Didi\": says BJP MP Raju Bista as party set to form government - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTYyUHFqMnFWWlNnNDdnU25tYld5ZnJKdGtpVnMtM2FfX0ZLOEQ0OWV2NUlSREtVVjhiWURjM2tOWnJ6OVFZNW16bDFLczJLazZPUjFkOWprN0RENjRUdHZlNURCM0JfWjBTUlNCVmpoaWQtaWU3bEZmVGhNUy1ndTNwN0NpWXlkSFRCcFRobEtPNVhjdTJWVWljU3JkUzVncHZUUmhRSlR2MVB6QnlxbjBvOHJCS1pHVmlLRHBnN3ZyZTJtejVmUTgwT2tLUXBseE45a2VxREJmNXBDblE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "No resorts on closed tea garden land, says MP Raju Bista - MillenniumPost",
         "source": "MillenniumPost",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQazVRZmhSYjNhOTZudWROZGdHX3d2ek9kNzVfSVVGZUhxMGdXMG1ZeHJXdGR3YUNXeDJkMW5ZWW9hdllOM29iMkJKTEQ4YkZEZk9MTDZrdC1haFJhSl92ZDU0aXF1RVdxam9UcnZfdDQxSWgxYW5ESHZMUEVPZGhLY1Vyd2ZMWlMwMmpwbTBScW13TVZzOEhWaFRZa3VtQUxndUE3TC1iSThQWkRlZF9hX0FVN2J6SnBzZFFnMWxfVzZVYVBkeE9vOXBnc1BFU3JW0gHWAUFVX3lxTFBreW1KTUJhdjhvbV9ldnBHNEY3NTc0OHlZSS1ROFh5WUpDZU43Z1p5OWdtZFZSR2hUWHBvb3VLRzBFZGtkNUxsT2cxbmFKZ054R2tyb2FJY2lEbFJOSEdxVjU0Vk5FYmVfTERFb2VpYnNMcGZGUW5TMjdQNDdYMHZqYXpaS2xJUjJhWjVLRnNqN2M4cHBfSzRfR2VfQjhJc09KdkJtR2JZaEdZdjRqbDlPOWd6aENtQUxUV2o3alpfSDY5WF9vR21BZ3VSVXVoeGo3UU4zd1E?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "“No illegal activities will be tolerated”: MP Raju Bista after administrative meeting in Siliguri - siliguritimes.com",
-        "source": "siliguritimes.com",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQenFVTlRBV19nclJmdnhza2RQRlhYaHdUdHBFbVRyUlAxbTNVSVlLYnlWQjZGYUxJelB3VnFpOGhITjRtQUFNb3hfY2pzM05pUnVEMDJNeEQtVjRPVTRsWDBVQlJKOGFEbThqNTg3UFZSeEE2YzBJamJvdkxCU2UzWnFmZ0VLbC1CdEFXMzlwYUNWUnBBVU9OQjFUdE4wUVktYTZkUzRpWkJ6YXVwS19NLWlwenJ4aTQ0d185bWdB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "‘UP Model’ in North Bengal: MP signals tough action - The CSR Journal",
-        "source": "The CSR Journal",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTN3BXZ3loMWFfMGZlTDVJS3lGUTMzVEFsZHV2clBPQUphR3VaOXE3UEZIQVZYRjk1NEY3MXVjcVl3enVGdXZwTFMwclcyVHNOT2N1a2ZtX1FIMDN3S2dROVMxUlc1Nkpqd3NoZjNKWFpYNVNFYmRTLTZnVQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFZUS1paMmRKRDJoajQ4ZVZWTEFrUGp3clA2OTJhRVk0bkhVRHM4RG5KdDdfOElvMUxFMWNjQkRnOFlZNmJjVWNfZkRjd05QRGg0Q3ZQbUlneVRXOUVfMmNzQ05faGFUWkM1UWEtRkdDdmNOeVJLYXhuLWJVOC1vdnFXSGR2QU90ZThuM0dFenF2QmdrSFYxaXBBcWxhc3RU0gGmAUFVX3lxTE9mUG51Rm1HQXcwZjNlQTNWSG5pUGhyQWtEakpuSmg5M1BfMnlRYXpOdW5uZktjcUc1dHBJVHlUdW1QR3p5UXZseHotbGdMV25XM0lqeERHRUExMGtTYlI5WXh6NWROR3huclUwUENNZDVVX1BHZHg3UkdjRHgwV2xCNlhLOEp1eWlKM053VWc1REJneWlUTGhrbWhFTFVDWkhtU0hqZEE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -342,15 +467,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 46,
+    "starred_questions": 13,
+    "unstarred_questions": 33,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 88.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +483,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 70.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

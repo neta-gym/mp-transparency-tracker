@@ -42,60 +42,82 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:46.405594Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
+      "movable_assets": 58794982.0,
+      "immovable_assets": 800437950.0,
       "total_assets": 859232932.0,
       "liabilities": 1525809.0,
       "net_worth": 857707123.0,
-      "previous_total_assets": null,
+      "previous_total_assets": 5.4622151154e+17,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1765",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:53.427865Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T14:26:59.889264Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 91.1,
-      "growth_ratio": null
+      "wealth_percentile": 100.0,
+      "growth_ratio": -0.9999999984269514
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.03,
-      "expended": 1.86,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:49:23.668134Z",
-          "notes": "Official eSAKSHI REST API — Works: 51 recommended, 23 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:30:38.457757Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:26:58.525908Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:00.570633Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 51,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 12.653061224489798
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +132,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:09.107594Z",
+          "fetched_at": "2026-09-02T14:26:59.613593Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +140,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Tripura ranks below national average in MPLAD fund utilisation - TRIPURAINFO",
+        "source": "TRIPURAINFO",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWlNVVdQYWxfbG9VN2R6bEd2QWgtWkFuSTlSQm5EUDVLNzhOcTBESnpYaUVQNEVTTEpDWFMzZ2Y5R3RhTHE3cjNXN0Q2ek9kMXdKY2Y1X2VLa1kwdGJwTFI3ZnU5WC1VT2lpWVVTRkwxZlF6a1VhUU9xcTdyTkJTbklMQWd2UGJJZmRBWkp1LVRxdXZWbFdTRjJPTUtyQlhEOVdVdGhrSDhHVEhybUs3VXd1U3NXOFdhLWtpdFBR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tripura East (ST) election results 2024 live updates: BJP's Kriti Devi Debbarman wins with 7,77,447 votes - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNHBBMEtfQmpjcUhJV2hIU3EtYVduVUVoVFB2MUg2Y0JvRVVYdW9RU2dwYzI3bkF1WDVUN080cmMwbVhwLVJ3ZW9FQ2JVUVhqcVotZ0xUVnROYWI2dXFvenpGOVl2N3pnOEx5NG45aFo4V1hKc2U5cm1UUHpKdkd1RUdVRVQwc0dMckFiTHowdm0wbDlyRUxHa09tZHFFa3BfZ2ZvaVdqMWFlM1VGdzVoRzNtSGhXdV9mQzlac215YWxhVkstMHhFQTFuZ1plMXhWNFd3WWxTb01pRkVfZ0ZHdkZYSGYxT3ZHbGRCeWZyaC1oSG1IY0FNeUh2d0tDLUx4M053ZU8yWG1hcG91NjJtRDNZdWZqWUxfZHplSGstTjNwbkhBaE44TmZ30gGvAkFVX3lxTE9rOF9qbnU0elFUOFhwcTdtZTYwQm0yWjZ4STZoakVpeUxUQm5EQS13QlByNk5ZQUhMVk0wR1ZSRTFVaTA5dHdOUV9fdHJwR1Y0ZVAtbEdDWWIwX2M0R19KeVhyY2VWS1UtU0FoSTM5VUVpbjNhb2o4d0pWdG5TSXdISmlwcUZSaE5INnNoT1BZY3U0MUpRamgwaDV4TXB0MHB4V3ZMSUFXa2diZ1JYcWd5ODZrb2Y0ZWQ4TnRCSEM5eGVvSmU5bkUzQnUxUjRYcURDS1ZGaWFPMlVDN3JMa2IxMHZpYXFMRlpiVXd3R2RCblZfRVEwSVlUTG9FZkZPUUtHam9IX1VaakswMEVLMGRiT3ZqR3FtNTU0d3BvNV82Z0FqRHduOUp5ZUplVXhkOA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tripura East MP Kriti Devi Debbarman Allocates Rs 1 Crore for Urgent Flood Relief Efforts - Northeast Today",
+        "source": "Northeast Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVNEdFQ3WkM0T0FSSENOVkhOZjJhSHBjVUV1U2hfTHhuZlhxOXB0NnJibk1Zc1FzMFJPQzlXcGVPV2xMYU9meVN1SXkzajA1X2pYa1ZWZnRZZUVzcGtNb3k3WnNTdWljbDBYa3piSFZ4alVZcUU3RjlkOWpDZzRFaXJkNUZGUlNWZTdJU05FUlhFZm81MndvcFpXY3VHNzBMTUZRSHYtS05qeDFaZVl2VGctSHVhREgySktVR01kcktwV2JH?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Tripura Lok Sabha election result: Kriti Devi Debbarman wins east with landslide victory - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOEFLWHJRdER3MEh0Wm45b0FiVS13dVRMZkRiZlFZZ3Vhc09DWS1abWlYUnRaSEtIXzkxeGR2WmtjSVpXLXdLX0tyV3h2N2M3N3JSeW84am5XeVEwbWdneFRiQ082RWxyR3k1MGpXLVc5SmZsMFpvd1VnLUZpbDA2bG9aYUttTE5ndHdoYzFJSk1IbmNXN1dYVlhlNm5oWUw0MFY3NUdDdlVaMklMSzRzNHN6MDlobTJoV0lnc3A5OVZFUmNKa3kwNzZyV2FGOGFoQlB2V21RdXlac214LXNuTkdB0gHnAUFVX3lxTE9oNWxEQS1KSDhMRkJxRDQwWTBuN0tYdlBEMkFmMkFNLXFZR0ZMdkdrSHdHRnl6MkZSNmpkdHhfamx0NGlkNU9OZ3owakJvbFpULUQ5UV9uOTdVQWpycldteGJZWWlGTG8tQlhJZnBWb2FYUHA2aEFIRy1oZi1DekpSdnNVWEZ3c1BUZmRVS3AySDlGcHAtQ3lBbksyXzR6MXlQUGdhbGZVMWRUWjFqclRMd2FkdUtYY05VVmd2TWxSNVQ0b0FfaTR5bklaSXdqWGl4TXYwc1dGWG9UQnNNZGlaRmxRUWlRcw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Kriti Devi Debbarman launches 100 days TB campaign with NTEP Tripura - Tripura Chronicle",
+        "source": "Tripura Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObHJhaE9rSDByWEMzUWU0YnlLMjNwMDVfdndIbUgwN0NJd1c3TTlDMHJlcmRHSDMtSGd6V3dGcVBkeTh5akpmVF9BZG80R25sWUZoRkRZMk9aMzM0TVdhMFJFSHlrbHVyend0Q2p6bWVVWVVxN1FaSVk0UGV5Q2ZmNm9mSWUwVlBNLUpQZHEzLVJrdVhZeGpRZGZGOU9vSnp4RkFoRUwwTHJYeDlTNmo5cw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:58.992516Z",
+    "collected_at": "2026-09-02T14:30:39.459098Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +212,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.083446Z",
+          "fetched_at": "2026-09-02T18:38:10.635905Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +228,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.083454Z",
+          "fetched_at": "2026-09-02T18:38:10.635917Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.083459Z",
+          "fetched_at": "2026-09-02T18:38:10.635923Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +260,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.083464Z",
+          "fetched_at": "2026-09-02T18:38:10.635928Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +276,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.083469Z",
+          "fetched_at": "2026-09-02T18:38:10.635935Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +292,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.083473Z",
+          "fetched_at": "2026-09-02T18:38:10.635940Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.083507Z",
+          "fetched_at": "2026-09-02T18:38:10.635944Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +333,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "kritisdebbarma",
+          "url": "https://x.com/kritisdebbarma",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "KritiSinghDb Instagram",
+          "url": "https://facebook.com/KritiSinghDb Instagram",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "KritiSinghDb Instagram",
+          "url": "https://instagram.com/KritiSinghDb Instagram",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:27:01.007771Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,16 +379,16 @@
       "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Tripura MP Seeks CM Dhami’s Intervention in Dehradun Student Murder Case - Tripura Chronicle",
-          "source": "Tripura Chronicle",
+          "headline": "Tripura ranks below national average in MPLAD fund utilisation - TRIPURAINFO",
+          "source": "TRIPURAINFO",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDZwcE1wY290U3Nxc3BRVDJKOTFxX2h5cmNoNVNuUWVjTGFxNHRicDJxRUlMOTdiUUxxYm05bkFSVkhpUk5raUVpSHhKRXVTcE1KUUpxWEdvT0lhZXhMVUNTVU1lbThWam9qWUM5T2ZjUV93d3MzeHlobXFocV9YREgzcWtvMGs5dzM3RDdIaV91TFNRV3BxbFNEdWtFVHFaeDhDUkRzWGlRSlc4OEVVVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWlNVVdQYWxfbG9VN2R6bEd2QWgtWkFuSTlSQm5EUDVLNzhOcTBESnpYaUVQNEVTTEpDWFMzZ2Y5R3RhTHE3cjNXN0Q2ek9kMXdKY2Y1X2VLa1kwdGJwTFI3ZnU5WC1VT2lpWVVTRkwxZlF6a1VhUU9xcTdyTkJTbklMQWd2UGJJZmRBWkp1LVRxdXZWbFdTRjJPTUtyQlhEOVdVdGhrSDhHVEhybUs3VXd1U3NXOFdhLWtpdFBR?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Tripura East (ST) election results 2024 live updates: BJP's Kriti Devi Debbarman wins with 7,77,447 votes - The Times of India",
-          "source": "The Times of India",
+          "headline": "Tripura East (ST) election results 2024 live updates: BJP's Kriti Devi Debbarman wins with 7,77,447 votes - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNHBBMEtfQmpjcUhJV2hIU3EtYVduVUVoVFB2MUg2Y0JvRVVYdW9RU2dwYzI3bkF1WDVUN080cmMwbVhwLVJ3ZW9FQ2JVUVhqcVotZ0xUVnROYWI2dXFvenpGOVl2N3pnOEx5NG45aFo4V1hKc2U5cm1UUHpKdkd1RUdVRVQwc0dMckFiTHowdm0wbDlyRUxHa09tZHFFa3BfZ2ZvaVdqMWFlM1VGdzVoRzNtSGhXdV9mQzlac215YWxhVkstMHhFQTFuZ1plMXhWNFd3WWxTb01pRkVfZ0ZHdkZYSGYxT3ZHbGRCeWZyaC1oSG1IY0FNeUh2d0tDLUx4M053ZU8yWG1hcG91NjJtRDNZdWZqWUxfZHplSGstTjNwbkhBaE44TmZ30gGvAkFVX3lxTE9rOF9qbnU0elFUOFhwcTdtZTYwQm0yWjZ4STZoakVpeUxUQm5EQS13QlByNk5ZQUhMVk0wR1ZSRTFVaTA5dHdOUV9fdHJwR1Y0ZVAtbEdDWWIwX2M0R19KeVhyY2VWS1UtU0FoSTM5VUVpbjNhb2o4d0pWdG5TSXdISmlwcUZSaE5INnNoT1BZY3U0MUpRamgwaDV4TXB0MHB4V3ZMSUFXa2diZ1JYcWd5ODZrb2Y0ZWQ4TnRCSEM5eGVvSmU5bkUzQnUxUjRYcURDS1ZGaWFPMlVDN3JMa2IxMHZpYXFMRlpiVXd3R2RCblZfRVEwSVlUTG9FZkZPUUtHam9IX1VaakswMEVLMGRiT3ZqR3FtNTU0d3BvNV82Z0FqRHduOUp5ZUplVXhkOA?oc=5",
@@ -306,19 +403,19 @@
           "sentiment": "positive"
         },
         {
-          "headline": "Tripura East lok sabha election results 2024: Tripura East Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "Tripura Lok Sabha election result: Kriti Devi Debbarman wins east with landslide victory - India Today NE",
+          "source": "India Today NE",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzV4aEhtUjJZZXNKZUUzeW5KalBCN0dZNTZ5b0pTYWkzLTJFdnNXdnlUc0N1QmFWTVNJa1d0U0J0YlhMV2dwblJ2ako4QjdDQUZiY2RLWGZ6OEQ0bS1zQWM5VDJuSUVlSFVfQW8zZHdicWI5cTlfMlZMVUppVW5XeF92UzJzLVNRNUw2UXdkZXd0UHo3TUxN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOEFLWHJRdER3MEh0Wm45b0FiVS13dVRMZkRiZlFZZ3Vhc09DWS1abWlYUnRaSEtIXzkxeGR2WmtjSVpXLXdLX0tyV3h2N2M3N3JSeW84am5XeVEwbWdneFRiQ082RWxyR3k1MGpXLVc5SmZsMFpvd1VnLUZpbDA2bG9aYUttTE5ndHdoYzFJSk1IbmNXN1dYVlhlNm5oWUw0MFY3NUdDdlVaMklMSzRzNHN6MDlobTJoV0lnc3A5OVZFUmNKa3kwNzZyV2FGOGFoQlB2V21RdXlac214LXNuTkdB0gHnAUFVX3lxTE9oNWxEQS1KSDhMRkJxRDQwWTBuN0tYdlBEMkFmMkFNLXFZR0ZMdkdrSHdHRnl6MkZSNmpkdHhfamx0NGlkNU9OZ3owakJvbFpULUQ5UV9uOTdVQWpycldteGJZWWlGTG8tQlhJZnBWb2FYUHA2aEFIRy1oZi1DekpSdnNVWEZ3c1BUZmRVS3AySDlGcHAtQ3lBbksyXzR6MXlQUGdhbGZVMWRUWjFqclRMd2FkdUtYY05VVmd2TWxSNVQ0b0FfaTR5bklaSXdqWGl4TXYwc1dGWG9UQnNNZGlaRmxRUWlRcw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP sweeps Tripura: Newly elected MPs vow to work for betterment of state - Northeast Live",
-          "source": "Northeast Live",
+          "headline": "MP Kriti Devi Debbarman launches 100 days TB campaign with NTEP Tripura - Tripura Chronicle",
+          "source": "Tripura Chronicle",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSktIeHhfZ1NEaGZ2ak1IYmxfeUhWb0F4MTJSdmxabjJmYjhlVHhGT3Y3bEU3UWxVLVJMd293dUVKYTBzZkZMV0g2SWYxc3gxVi1xeDQ3S2N3V1BDVlo0OXRZX0t3akdObXJkOUVyU2pUMTY4OTBVdWFORm9lTV9UUzl6cTJnZDNsQTdqdEpwWFdNc1B0TktJSTItM2VYTFRnOUZKLXY5TnF0bklmd3RWOE8wVW5sUUM3dHdN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObHJhaE9rSDByWEMzUWU0YnlLMjNwMDVfdndIbUgwN0NJd1c3TTlDMHJlcmRHSDMtSGd6V3dGcVBkeTh5akpmVF9BZG80R25sWUZoRkRZMk9aMzM0TVdhMFJFSHlrbHVyend0Q2p6bWVVWVVxN1FaSVk0UGV5Q2ZmNm9mSWUwVlBNLUpQZHEzLVJrdVhZeGpRZGZGOU9vSnp4RkFoRUwwTHJYeDlTNmo5cw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +449,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 15,
+      "starred_questions": 4,
+      "unstarred_questions": 11,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 28.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +465,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +496,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.43,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -420,6 +523,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 859,232,932. MPLADS utilization: 12.7%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:53.084189Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 859,232,932. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 5. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.636659Z"
 }

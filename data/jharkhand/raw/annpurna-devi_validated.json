@@ -37,65 +37,126 @@
     "criminal_record": {
       "total_cases": 2,
       "serious_cases": 0,
-      "convictions": 0,
-      "pending_cases": 2,
+      "convictions": 1,
+      "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "454/2021, P.S-Dhanbad, Dist.Dhanbad",
+          "ipc_sections": [
+            "269",
+            "270",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Chief Judicial Magistrate Dhanbad",
+          "fir_no": "454/2021, P.S-Dhanbad, Dist.Dhanbad",
+          "case_no": "",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "Section 130(E)The Representation Of The People Act-1951",
+          "ipc_sections": [],
+          "is_serious": false,
+          "is_convicted": true,
+          "status": "convicted",
+          "court": "Judicial Magistrate First Class Cum Special Judge MP/MLA Court, Hazaribagh",
+          "fir_no": "",
+          "case_no": "66/2019, Kodarma Dist Kodarma P.S.",
+          "other_acts": "Section 130(E)The Representation Of The People Act-1951",
+          "charges_framed": "",
+          "date_charges_framed": "",
+          "appeal_filed": "Yes",
+          "appeal_status": "Criminal Appeal No.32/23, Appeal Accepted by Additional Sessions Judge Cum MP/MLA Court, Hazaribagh",
+          "punishment": "Rs.200/-Fine",
+          "date_convicted": "28 Apr 2023"
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:20.221345Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
+      "movable_assets": 31993060.0,
+      "immovable_assets": 96289797.0,
       "total_assets": 128282857.0,
       "liabilities": 7885853.0,
       "net_worth": 120397004.0,
-      "previous_total_assets": null,
+      "previous_total_assets": 9763693990000000.0,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7285",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.194947Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T14:21:54.671677Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 62.9,
-      "growth_ratio": null
+      "wealth_percentile": null,
+      "growth_ratio": -0.9999999868612376
     },
     "mplads": {
-      "entitled": 16.67,
-      "released": 16.67,
-      "sanctioned": 6.77,
-      "expended": 3.39,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T18:19:58.944654Z",
-          "notes": "Official eSAKSHI REST API — Works: 335 recommended, 225 sanctioned, 71 completed"
+          "fetched_at": "2026-09-02T14:27:13.514600Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:51.286267Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:54.913407Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 335,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 20.33593281343731
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +171,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:43.776912Z",
+          "fetched_at": "2026-09-02T14:21:54.288876Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +179,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Annapurna Devi: Koderma’s Steady Presence - Outlook India",
+        "source": "Outlook India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGg5TU1aeXh0WWstd0hpOXBYYnA2dzdNZ2Zxa3ozWTFtUnF3TzRrX2FFWDRPRVJYUTlYNkx6SDBzVG5PaVRvc2ltMzZlUVZDa1hMLVFyRHBEdXhJejdwb2Qwcjkyay1GQWhLVmVrVndGenJtamNtbUhVRkhNSFJjZ1BORdIBkAFBVV95cUxObGl2b3hSQ01vRTRrZGxTeE1mdjQ2YTV6QkpfQUlPLXQ5NnRRUEJ4cGdjMVlRNnZQMXdIQjYtMlVNVTh3WmpSWDlBblFIM3l5NGE5dHlaZXEwa1hFSXhvNHJTeHJPN1dDZlNKZkstS3JoTEVuU3RhcGJlcUQxLXE2R3Q3bXUwZDRnN01PZERUcW4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who is Annapurna Devi, one of two woman Cabinet ministers in the new Modi govt? - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlJyZFItME80QXBFbkpGMkxST3hsQ2lqejdjUHZsMTgwd3VvZ0tPU2NmWlpOdDhGcUxfVjhsMkR2S1dQVjdBeWRvd1JCVVRLM3AxMTh4dkVRaUxKdWlvUEdlSVh2WDE3OTNjbFBPWnM4eTNUdHYwODFzN3pTeWhuQzIycVJNTzRleHlYeDhPRHg0MnVBSVNPdGtjcTR0MEMyWDV0Y0s0ZkhRMDNJR19r0gG2AUFVX3lxTFBaaHJ2VFJwa0NIaW05S2RjNU9qczgzXzhHdE1EOTRVUHVTV1RpazkwVzAtUml6Y3dPbEc1eWtEdWhvQ2wzc2tTbnNfaFByVFN2elVPM1dlcDhyRnVOR3MtQWVhVGVOdU00SGlNMDVBSzd6N09SWTJ5VEd2aE0tRF9TTXhZSmdOckFwY0hiTlMxLWpqVzFRdGR6QjdNZ0VQMHFyQUk3WWNjTkVmUHNlNmhxdTQwRVhR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Left Campaign on Bread-and-Butter Concerns Lights up Electoral Contest in Jharkhand’s Kodarma - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTTRQWE1lVEVFSTExUGYwdEV6VDk1MDVXb0tFakplcV9OZVlIb3BlZHFDR2NjYXd0SUYzVzVMMW92S1F3ZzlMdHlyVDRkMHpQRURPRFNzZzNpSUlyYUJJdml0NWEwY3l6UnFTanI3dGdqUDBtdmJkdHhhNUlkOC1vQVRldXNOUGlZYmQwNk9kRFbSAZgBQVVfeXFMUEZqOG9sVmFZbENOVWhRTlNsRTZLenVTaXpGUnlxSTlIYVd4bWVCV0NmekROM0VybzdZdW9tMWp3N3pnYm9lZ01LaHQxbU5IM0RwbmMwd0RKZ2REVTFwZ2xzSW91Vlh3VndzckluYUozV1NsbEJ0dWpmYXNFTlRNTURraUE4RDBfYjh1LUx5dGxHVDdOdnNhejY?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "State Govt. Doesn’t Give Anganwadi Workers Their Due: Jharkhand MP Annapurna Devi - Feminism in India",
+        "source": "Feminism in India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU3BuWjJvOTdrSmRCV1RkZjV0Qk45Z2VyWDVwQUJuWG8wZ3kzS2piakhUWVBxejkxYnR0ZUtwTDZSLWh2SFh2VVAtbUtTWTFfTTljVnIwTFFKNDM2S1h4MkxHdDFNYlZfN3BnbkZmTkRUekVabkRNOXhVWjdJUkhMdDZHeEFEdGJWdkNveVNNRWJacjRyZWVfMy1fSFBRX09hZWtHZUJ5ejc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kodarma lok sabha election results 2024: Kodarma Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQemNfNU9nZWFxbXh6WDVQWW8tRXR5WDhZUG1LSndSODFGVVozNnE1R001ME41RTFjYm5uZF8wa0ZYTzN5a1JWd2RqcGQtUHNTTE9MSG9ERGV3T2htTjd1ZlVPUU1ybmRBalFrZEp2dm9XVnZxWHlnaHdNVUppdWUtU0V6WWNFckJIRXJST2JuMTRwM2M?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:12.686122Z",
+    "collected_at": "2026-09-02T14:27:15.513732Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +251,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.636349Z",
+          "fetched_at": "2026-09-02T18:38:06.241753Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +267,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.636359Z",
+          "fetched_at": "2026-09-02T18:38:06.241765Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +283,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.636364Z",
+          "fetched_at": "2026-09-02T18:38:06.241771Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +299,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.636369Z",
+          "fetched_at": "2026-09-02T18:38:06.241777Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +315,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.636375Z",
+          "fetched_at": "2026-09-02T18:38:06.241784Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +331,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.636380Z",
+          "fetched_at": "2026-09-02T18:38:06.241789Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +347,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.636386Z",
+          "fetched_at": "2026-09-02T18:38:06.241794Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,17 +372,58 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "share",
+          "url": "https://twitter.com/share",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "sharer",
+          "url": "https://www.facebook.com/sharer",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "adrspeaks",
+          "url": "https://www.instagram.com/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "youtube",
+          "handle": "adrspeaks",
+          "url": "https://www.youtube.com/user/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 4,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:23:00.257750Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 0,
-      "neutral": 10,
+      "negative": 1,
+      "neutral": 9,
       "top_headlines": [
         {
           "headline": "Annapurna Devi: Koderma’s Steady Presence - Outlook India",
@@ -290,35 +434,35 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Annapurna Devi Oath Video: कोडरमा सांसद अन्नपूर्णा देवी फिर मंत्री बनीं | Modi Oath Ceremony 3.0 - Hindustan Hindi News",
-          "source": "Hindustan Hindi News",
+          "headline": "Who is Annapurna Devi, one of two woman Cabinet ministers in the new Modi govt? - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY3dRcUk4SVNZTzJ6eXdHMzRwMXBGaHdrOUE0OVIyZXVuaW1nYUtjTHdCSWJoOS1CZU5PSU1pZjJ1cEhUaFItZXoxODhtdkJwaDRKc2Fha1Jwbm9fVmNEbEszZzY1dzFfVUdCcmVXSUswaWVCRmUwVGZKV19qOXR0czRROFA2LUFEemJtUnB0dl9FTHVXYzZwcFYzYjJLRFc5M25LZ3VOOENiMzByeEEzRl9BakdZVVlGM05mcWhNWDNvOUdlLThwTHk0eHllazBpZ0hlQXFZWmNKeVhUc3NRUXFXX1ltVHdtdWfSAfYBQVVfeXFMTWdmb3U0V180anNnTXQ3UlFaZ0pMSk9QZGc2b2xaRWI5aFlTQ3NmXy1jY2I3UW0yRmo5ZHd4NzN5MmNfWTZPRTI3NTMwU214RmxCMEd3N2l6SDF6eTVKYVlKTTF4ZU1wSmtSY0g3cmt6bjdKeXBQd2FZTGZVbGtYNFdzSm9wSWpDVTgyQVpsSFdGbkxuUTR1dWV6Mi1ubjRRb2EzbC1JY0hCdnltYmxRREQ0dXZ3WjFsQjUzVmREdHlBd0hyWklhOTFZb2NPR3NiQi1WVlNNa2RKeEtZTnkwMlFmMmlfM01KVHdrclpDZkNpZmZkNXFR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlJyZFItME80QXBFbkpGMkxST3hsQ2lqejdjUHZsMTgwd3VvZ0tPU2NmWlpOdDhGcUxfVjhsMkR2S1dQVjdBeWRvd1JCVVRLM3AxMTh4dkVRaUxKdWlvUEdlSVh2WDE3OTNjbFBPWnM4eTNUdHYwODFzN3pTeWhuQzIycVJNTzRleHlYeDhPRHg0MnVBSVNPdGtjcTR0MEMyWDV0Y0s0ZkhRMDNJR19r0gG2AUFVX3lxTFBaaHJ2VFJwa0NIaW05S2RjNU9qczgzXzhHdE1EOTRVUHVTV1RpazkwVzAtUml6Y3dPbEc1eWtEdWhvQ2wzc2tTbnNfaFByVFN2elVPM1dlcDhyRnVOR3MtQWVhVGVOdU00SGlNMDVBSzd6N09SWTJ5VEd2aE0tRF9TTXhZSmdOckFwY0hiTlMxLWpqVzFRdGR6QjdNZ0VQMHFyQUk3WWNjTkVmUHNlNmhxdTQwRVhR?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Kodarma Lok Sabha Constituency Result 2024: BJP's Annapurna Devi Yadav Wins By 3.7 Lakh Votes - ETV Bharat",
-          "source": "ETV Bharat",
+          "headline": "Left Campaign on Bread-and-Butter Concerns Lights up Electoral Contest in Jharkhand’s Kodarma - TheWire.in",
+          "source": "TheWire.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeHU0Wm5OaW9ZM1piZGxpcXNrV0dTQ1dOR2VUX2pXQ1Fsek9DQVFSUkJLVFQ5cEVzaGVmNTJpZGJzN3VSSVdjWmVSUnBUT3FRNFk2QkdxWjV0VmZaUVdkMzBtTUNDMHQ3aWo3dno2anRVVC1vZTBQS2pPVUZkRGZTel9yeHVhYzV3Z0t2eWV2VTA0RmFqWFZHWlFRc3kwdWVwbXkzNy14Wk50eXF3OXpBYzRoalgxREhkSUJKOTl6YTRvY1Z3emtDZnlHQXJwcHlmbHBNdHpXQTgtV2szTHdiZUxldmFYYTJtMGs5cTNXLTRXdXc4dXlMZTUzQV9aaTZPZDdqUNIBigJBVV95cUxPNDNEeC1vcjNpS3hsQ1p5RmdReU9RcGU0R2JiX3NGRmNzbEwzUC1ZOGJMSGxmYzZIODZxV0RyTkRYZFVkcWlldExybExPQUpHM3NqUGN3ZlFGQ0dQTmx5VmF6SS1OZjB0Y0FlUVN0dDdDcDBpc085SHp2YVhTSHU5RmNHd1ZEaDlsblk3RFlUblZBVWxJT080V1hCUDROSEpZSG1GSXJIMkVEd1NZcnEwM2Z1TVl5bjNnWDM5NUdRUlN1TG80WlltSjlxMzRJV1JDRk5sUXFFOEQ0a3RBRnpMQ2Z1NG5VZ0NjblJZU2Z3N3BOSkJhSC1mTlhxV2lhTFl0YTFmRGJTV0RxUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTTRQWE1lVEVFSTExUGYwdEV6VDk1MDVXb0tFakplcV9OZVlIb3BlZHFDR2NjYXd0SUYzVzVMMW92S1F3ZzlMdHlyVDRkMHpQRURPRFNzZzNpSUlyYUJJdml0NWEwY3l6UnFTanI3dGdqUDBtdmJkdHhhNUlkOC1vQVRldXNOUGlZYmQwNk9kRFbSAZgBQVVfeXFMUEZqOG9sVmFZbENOVWhRTlNsRTZLenVTaXpGUnlxSTlIYVd4bWVCV0NmekROM0VybzdZdW9tMWp3N3pnYm9lZ01LaHQxbU5IM0RwbmMwd0RKZ2REVTFwZ2xzSW91Vlh3VndzckluYUozV1NsbEJ0dWpmYXNFTlRNTURraUE4RDBfYjh1LUx5dGxHVDdOdnNhejY?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Kodarma Lok Sabha Elections 2024: Annapurna Devi to take on I.N.D.I.A bloc candidate at BJP's stronghold - India TV News",
-          "source": "India TV News",
+          "headline": "State Govt. Doesn’t Give Anganwadi Workers Their Due: Jharkhand MP Annapurna Devi - Feminism in India",
+          "source": "Feminism in India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcW55Uk5iWHVrRnNBS3VmSnRrMTJfRmhyR1ZrVzlUQjBLcjR0YWpNU3lycXRVZzMzMTEtMWhYLUhQMnFjakEyalV0T0pKREZvYjNNUG9zaFpVYTdoX0dsZUliT2hDTU1ObVZ6Zm56bFNfZWdsSW1FUnM5TVVmbFhOMHBYT3lUOWpaSGZ6dUlHSTFLSUxJdWFPZkJ1ZVpxcjhldkcyZ00tYi1jdlhxckJFdVo0ZHpQcE8yNFd5RTROb2xhTjFFOENUdVAxZHZaUmJ0NnpXZDBqZTE3MERHTkhUTXFNQ214Sm5Ub29PeDJ1NE12eTBjMDlrRHZiZlBlOFh1LXpFUUh1RnNzYzdJemxxMG02WTROUnR4N002YWVCWVhvUmVISmFj0gGsAkFVX3lxTE51bXZ4WTJJTlFvbmI5VkJBaWpfOFpsYWdiNUwxVnZoYkpSdlc2bExncFBrSlVZUExGTDR1eXlvNzlhTHN5eXd2N2xCTVNmVE5UWGx3QkxMLWVGTkxUdnphSzIwZHVLQlRLX3F3cHlyVFRzQWNFZGdZZFJodDcxN1VGMHNVUkJ5RFYwbXpwVTA0YUt5SjItaWg1NUQ2T3VJbmJ2QjBZenZvR0V3QjVXdXY4TWdLQWVlcGs5bXVkd1hSWjgycnZ5NW5yeWFZbnduZXRTREY4RXJzZ0RYaUdJQXlQVHBYRWoyVW1YX0hTekVHOGJ5QkROVzlBYnVFMTdsMUhUYUlabXMxSXdjeDlWbktxXzJPajU5ajVwN1Rmc3ZpcmI0S2hUTlVwRDVBTw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU3BuWjJvOTdrSmRCV1RkZjV0Qk45Z2VyWDVwQUJuWG8wZ3kzS2piakhUWVBxejkxYnR0ZUtwTDZSLWh2SFh2VVAtbUtTWTFfTTljVnIwTFFKNDM2S1h4MkxHdDFNYlZfN3BnbkZmTkRUekVabkRNOXhVWjdJUkhMdDZHeEFEdGJWdkNveVNNRWJacjRyZWVfMy1fSFBRX09hZWtHZUJ5ejc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Kodarma election results 2024 live updates: BJP's Annpurna Devi wins against CPI-(ML) (L)'s Vinod Kumar S - The Times of India",
-          "source": "The Times of India",
+          "headline": "Kodarma lok sabha election results 2024: Kodarma Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQclA4UjNMS1I2NTY5RFAtbXlIVGUyX1p0WjZDUVBMbkNvbkxWMzh6M3ZBYjYxWTFaLVJfR1R4T2w4S1lnRnNaUnZJdnFISFBZMy11cTlYV1labUd3UDBaMGJ6NHkySmVqck1DUzl3MGcwZnhqY1hTN3B1RVNhTmkza2hhYWxSQkV6bTg5Rkt1RG91cTRDNThzdzE2M1VZVzdrTERjWEYzTFEyWE9KVzNLYWNQSDVHM0V3VWprMXdxNUVRUDJzVlYxc0NUOUV6MnJSbXFhbFF4QkpqME5iS0p0ZDVycS1rQzJZckJoemRwM3FIemFUWVFWcVFkdXpqd29YODRObGVZVkZjejNCMEFFX0xaQ2JkZTNEbDNiV9IBogJBVV95cUxOajE5eGJqR0ZVQ2Z5X1l6cjk3OXhaZVRrZlRldVdzamVRSkFDQmlkRGVsbldZTG1RNWpnQ1oxbjFXWWVzRlJBWjJRdmRWRktJaGdYMlo5SFlTLXczWFgtdUhrZC1CTllFUGJjSGhmSi1ZSzgtWjdsbUlIQW0tUXlTdmo1Q2xILXU5YjhXaDF4bjlBN1dLamJ2SXBDYTNkX2Q1a0EwMWpjMWFmRFdwTnUtdG9BbndkMHVCblJ6a3BSUHVuX0ZfcVg0TlJaSm5rcDhobkpScGFOSmpIT3VGVVVuWk9tYXU1ZFdmQUVmTXRZUjdlSHJ5NUFLRkUyWXU0NFlnYVl3OVBkM3BWcXZpVEhudDBTLUdybDJXZjFaLUdRMk9KQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQemNfNU9nZWFxbXh6WDVQWW8tRXR5WDhZUG1LSndSODFGVVozNnE1R001ME41RTFjYm5uZF8wa0ZYTzN5a1JWd2RqcGQtUHNTTE9MSG9ERGV3T2htTjd1ZlVPUU1ybmRBalFrZEp2dm9XVnZxWHlnaHdNVUppdWUtU0V6WWNFckJIRXJST2JuMTRwM2M?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,7 +512,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -399,8 +543,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.37,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -426,6 +576,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 128,282,857. MPLADS utilization: 20.3%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:48.637146Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 1 pending, 1 conviction(s). Declared assets: Rs 128,282,857. Low confidence data: MPLADS, Parliament activity. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.242543Z"
 }

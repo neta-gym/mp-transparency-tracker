@@ -4,16 +4,16 @@
     "constituency": "Madhepura",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": 3423,
+    "myneta_candidate_id": null,
     "slug": "dinesh-chandra-yadav",
     "house": "lok_sabha",
     "sansad_member_id": 527,
     "profile_url": null,
     "canonical_name": "Dinesh Chandra Yadav",
     "name_aliases": [],
-    "education": "Others",
+    "education": null,
     "profession": null,
-    "age": 72,
+    "age": null,
     "photo_url": "/mp-photos/527.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:18.991683Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 66209377.0,
-    "liabilities": 0.0,
-    "net_worth": 66209377.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3423",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.864950Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 46.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.01,
-    "released": 15.01,
-    "sanctioned": 9.43,
-    "expended": 9.0,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:20:37.010129Z",
-        "notes": "Official eSAKSHI REST API — Works: 122 recommended, 114 sanctioned, 105 completed"
+        "fetched_at": "2026-09-02T15:23:00.753858Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:19:21.039159Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:19:21.036893Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 122,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 59.96002664890073
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:36:57.383937Z",
+        "fetched_at": "2026-09-02T15:19:21.036077Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Madhepura: Old tactics, new players in Yadav land - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmZFOFBDZ05nejZUNmVmSG5IX0czMWliQmtXRWJLYV90bUhjVlFhTnJUZ1I0WXF6ZnZ1WGtkMGdBM3dxUnZKLVpVTHRRRUh6Nno2blc1UDFzLV81Zi1ITUZRbXlyU2RlcTBrYkNQM0RNV0VrVmR3dUVCYll6RVhFdFFFYVJDalhhM2lBYU5nZExRdGtnRUEzb2JQRUU2eDjSAawBQVVfeXFMT2d4bTJiSnBqc3ZHVzRZbDlUa3NtdEp4SWRLdnlUNExvWnNmeFlJVmV2RFE2Nkt6cnBnYm5rbDVsRkh6ejd3cUFfdkxjenhTck5fdTEtSExaZzdxTHZrN042RXZmV2lEazM5Snp5ajg2TnhDMm1ub0ljaElFaThWbWRzeUdpZkZSbG9pTVVoTW1BZ2R6YmRYanBVYmJLSFpkOG5SVGxqckR4ckFWSw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parties stick to tested formulas as 5 seats of north Bihar gear up for polls - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMi02SE8yR0JERDF4R00tNm5vblZ3U1h5ckY4YVJheHRTQlZ5MDQ1RXVPLWxmeFpKQUN6eHZOR3VJbzFidWRFS2pSQWdMR1NybTEzQ2ZpMlNXS1ZPa1RKbjMzN2N1bkdnYWdfZGRVdEo3SF9qNTFOVkxncUVkZHFsX19hd2NOR3J4OWM3Zkt5ZV8xSk1IbExjeGVsUWlYaGFBNXk0bHNoMDZtRms5U3ZNWXNlekp3aHdUUFcwNThYVFo4M25FaUN0Y3Qwa0QtZW9tNThIONIB2wFBVV95cUxOUWc3RjZpbUN0cEZfY2FsYWQ4NVlmNzhXNTI3d3JNVmthWkNYRGZjZ0pGOXR0ZmpNTDBWeXJvZGhkdlBZaWZfLTRObF96TFNGUzBibmRiRFRjY3hHZnZaSi1jWDVRRFVIbGRZeHZWM1g5UEQ4ejJiMFVvTzMzbTlrdkVPR0tySThBWDVTVzYzZFk2a1RNT0RPc29SbEtRQUNCT3M5ZmhNbkpGLWxYaFV3X2t3dG9aYUdiNlZqRU5JMUJsazd5S0Q4Sl9UMHNWUVBfLVBhV3N6TXp4YkU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dinesh Chandra Yadav Latest News, Updates in Hindi | दिनेश चंद्र यादव के समाचार और अपडेट - Aaj Tak News",
+      "source": "Aaj Tak News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wVFNqU3Nod2RtTExXZzNObjBZRlNRel9ENnZnRUcwcFRTMUFZNnJOa293Y1FraW43Nm9DSW94SjFTRnVOZV85aWpUTVkwWlN3RVdIVUxmZWhFcnRj?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "It’s Yadav vs Yadav in Madhepura constituency again - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTk3cGtEc3ZmNlFNX01hRGJwTjRva3Nkdkh0dTdtOUk1MTVPUFpaM3IzVHFDUEctTmIwZ0pmaERLbEhpLWdjT1lWYXdaS3BmNW5OU0VaWHFULW5Eb2RwS2IwS0ZjZ2xJTkU0NnlibnQzdGtmSk5kd0FLMlNIMU1wWXJhUkxXc3UzMUZJM0kzVkpmYnlLSlNDTHpHenkwakFlelQzeGFFU3BRcmFuWUwwLWxIZ9IBuAFBVV95cUxPZTRDZnVXam1OVFh5VUlaZDEyb1lmUmdpaXc2N2ZPZnZYUU82WVB2alZiaDNLdzF1TkIyMk9yV1N5Z2d0elFZdElhQjhySTRuT1FGTVA5MDBvNm9qTW45UnZQY3ZGR21VVkdnMUlHeUNXazBQS3NvZHdZZ0wydkZ0S2RickR4QUozRmRVUkJaSXhXaUx4eU9EMFd0ekhRdmtIcHFaUFVPLW1PLUZZVHQyZVJlMG5tLU5C?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha elections: Yadav stronghold in Madhepura set to stay in focus - Business Standard",
+      "source": "Business Standard",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQam1Ga0pkamJKbklrQm9jLVVQOEhDVEY3ekJLdVJ6djFDdnozM1pIQ016WWdRVWxhN25ZMDFfVEd4ZlRnMjFNLUZmNm50VFRZZWdFTlBDZEY1RUV4YS1XQmRrZVNNbU9yMEJSeWRUY0k4SVdBdXQ2Q0l6S3o2TWNleDNUeEprbVZzNEVaNVZXMjNCV1FxQ251dHFpQ09NZ2psRlpsT0wwWkxVekREZXA0YzdSV0hwbUIzekdzN2VOWkwxcU9tdGV2MEtmRkVnV0lIZ0NOM0padGVYT1J0TUJaMGkwRXlGMnhO0gHuAUFVX3lxTFA5azhRVlZDVngzYXp3dFlmVVk3RXpVYWNNM3p3Mm5oUGdWbm5UdEp2cjZQRG5LMC04NnpPUjN6RHVEQ2FCWjZ1Nlk0bURZOVpHdmxJblgxQ2FCenM4Zm1QdGVUSzd1VTBOSExNZ1czWTdJNzRkckNsd05CQzlZSTN4STRVdEZaZENfeXhUdXFCWmowSkhEdUJobXVCYlBQSDNUVDFBQnMtWkJVOC01aVVjdS1CUW5Sb1VfZTVHRmJxVTlLLS0zMXBqUlhKa2xtYVZuVndzR3R5Mnh4Wm9wQUhiV056V3MyZ1JtYUtjelE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:37:51.557460Z",
+  "collected_at": "2026-09-02T15:23:00.754634Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.095462Z",
+        "fetched_at": "2026-09-02T18:38:04.541854Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.095471Z",
+        "fetched_at": "2026-09-02T18:38:04.541865Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.095506Z",
+        "fetched_at": "2026-09-02T18:38:04.541870Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.095516Z",
+        "fetched_at": "2026-09-02T18:38:04.541876Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.095524Z",
+        "fetched_at": "2026-09-02T18:38:04.541881Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.095532Z",
+        "fetched_at": "2026-09-02T18:38:04.541886Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.095539Z",
+        "fetched_at": "2026-09-02T18:38:04.541891Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.095546Z",
+        "fetched_at": "2026-09-02T18:38:04.541896Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,35 +333,27 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Dinesh Chandra Yadav Latest News, Updates in Hindi | दिनेश चंद्र यादव के समाचार और अपडेट - AajTak",
-        "source": "AajTak",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wVFNqU3Nod2RtTExXZzNObjBZRlNRel9ENnZnRUcwcFRTMUFZNnJOa293Y1FraW43Nm9DSW94SjFTRnVOZV85aWpUTVkwWlN3RVdIVUxmZWhFcnRj?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Madhepura: Old tactics, new players in Yadav land - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2Uxc0Noa3Y2TnJUMHgzRDdyVFdxUVBycWtNbkpKNjNhaWJiLTZBblJDVFFjcWZNSTRBdDd4ck5UUm9Lc1VBWWJ5QzVUeFhkdHhtbUhCa2t3WFVhR2NDY2Q5cjlGV2NKQXhRWlZ6MmtwRUx4YThQZXA3NGJkbVZUOWF0Q2l3OHFiTklmVE1zNWJmZHFfYmJ0QXdtWmczVG4y0gGuAUFVX3lxTE5hMDM3WHI5aU1ubHF6eVhlRm9nbXluaC1Ici1JY095TnptbGtmRng1UmIteEVxLVZIVzdMUUJESlVaWWR2VU5nOWRaSkh6MUFjRkxhMDFnR0VaZ3EwZFRHOXB0UnZwMTJMcUF3cEl6QU1jajJYRUFXYlJVZzE2azVkbWhEdFhKRzhCVXpJV3F1RzdZbmdjUEplZGFKXzVmYW5BaFp5cnFpTjJmRWRFUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmZFOFBDZ05nejZUNmVmSG5IX0czMWliQmtXRWJLYV90bUhjVlFhTnJUZ1I0WXF6ZnZ1WGtkMGdBM3dxUnZKLVpVTHRRRUh6Nno2blc1UDFzLV81Zi1ITUZRbXlyU2RlcTBrYkNQM0RNV0VrVmR3dUVCYll6RVhFdFFFYVJDalhhM2lBYU5nZExRdGtnRUEzb2JQRUU2eDjSAawBQVVfeXFMT2d4bTJiSnBqc3ZHVzRZbDlUa3NtdEp4SWRLdnlUNExvWnNmeFlJVmV2RFE2Nkt6cnBnYm5rbDVsRkh6ejd3cUFfdkxjenhTck5fdTEtSExaZzdxTHZrN042RXZmV2lEazM5Snp5ajg2TnhDMm1ub0ljaElFaThWbWRzeUdpZkZSbG9pTVVoTW1BZ2R6YmRYanBVYmJLSFpkOG5SVGxqckR4ckFWSw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Constituency Watch: Yadav stronghold Madhepura set for interesting Lok Sabha battle - IANS LIVE",
-        "source": "IANS LIVE",
+        "headline": "Parties stick to tested formulas as 5 seats of north Bihar gear up for polls - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVVUQ2xYQ1Nxd2h2b1h3RnBIcmpRRTNaZDdIMEtEa3loSXh5dzhMUWswZklreHBwcmFleFlfUmpoZnZmRjI2SV9JMEdnTlozY3FaMUU5S2ZhTlB4LVBBZFFYX1VsNGpTRjFRZmRDbDBtdHJnY0lnM2hZdmpVUHh3ZDBVR0gxTUt5cWZFaXpqVHAzZjJiT2FKTS1JSlR4cFd4c1M0NUtsSjFOVlV5SEFsc0NJQm5aQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMi02SE8yR0JERDF4R00tNm5vblZ3U1h5ckY4YVJheHRTQlZ5MDQ1RXVPLWxmeFpKQUN6eHZOR3VJbzFidWRFS2pSQWdMR1NybTEzQ2ZpMlNXS1ZPa1RKbjMzN2N1bkdnYWdfZGRVdEo3SF9qNTFOVkxncUVkZHFsX19hd2NOR3J4OWM3Zkt5ZV8xSk1IbExjeGVsUWlYaGFBNXk0bHNoMDZtRms5U3ZNWXNlekp3aHdUUFcwNThYVFo4M25FaUN0Y3Qwa0QtZW9tNThIONIB2wFBVV95cUxOUWc3RjZpbUN0cEZfY2FsYWQ4NVlmNzhXNTI3d3JNVmthWkNYRGZjZ0pGOXR0ZmpNTDBWeXJvZGhkdlBZaWZfLTRObF96TFNGUzBibmRiRFRjY3hHZnZaSi1jWDVRRFVIbGRZeHZWM1g5UEQ4ejJiMFVvTzMzbTlrdkVPR0tySThBWDVTVzYzZFk2a1RNT0RPc29SbEtRQUNCT3M5ZmhNbkpGLWxYaFV3X2t3dG9aYUdiNlZqRU5JMUJsazd5S0Q4Sl9UMHNWUVBfLVBhV3N6TXp4YkU?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Madhepura Lok Sabha Election Results 2019 Bihar: JD(U)'s Dinesh Chandra Yadav wins with a landslide margin - DNA India",
-        "source": "DNA India",
+        "headline": "Dinesh Chandra Yadav Latest News, Updates in Hindi | दिनेश चंद्र यादव के समाचार और अपडेट - Aaj Tak News",
+        "source": "Aaj Tak News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUEFOdEVNR0dTc25za1FKckpVbS1YRDFHVGczYkR6WVZzSTFDTUkwYTRodlJRaGpxTGphb3lDX1QtVnh0bFRkd3A1Skx4bFVDWkhIUEtUQURGLWVJU3RTX3FMNDhGMjVMWlNLdHRxSW5OaUItYWVSaHhmYlBCdl9IamZXU2dLOTZlNU9xbHJmZjFyaV9SdVdNaEFOY3lCX2lQY2hMRWNUSl8xRDFsQjQ2enNZT1BzUUgwREdJdTEzajlUZzR5cTNPMFJWUGg0WTV4a3NJLTBaeFdaUllJb2REcFByb9IB6AFBVV95cUxQX05wRElybWFQeEhxSHE4VjJiMjFseTlkZVliSmpRVGYteUFRdWktV0d3UzJ4U1ZEVUdmdk5ocDA1aGpHck56czIteVZiSzdXM1dlMllLR2hudmVuTzY2ZFVjc3FQRUVoaDA3LU5YV01mTTEtdm44WjlBblpyQU9MWTJFVEN0VERMdlF3QldORmd6WmJKemVIQmxjZnh4NmozOTNYN0NhOE8zX0lndC1nZTMzejhlUGdmalBaU1A5YnhEUFQwcGhFTkU5THNlZHd6MENWaExHajd6TFViN1RSdXowVU5fa3A2?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wVFNqU3Nod2RtTExXZzNObjBZRlNRel9ENnZnRUcwcFRTMUFZNnJOa293Y1FraW43Nm9DSW94SjFTRnVOZV85aWpUTVkwWlN3RVdIVUxmZWhFcnRj?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -317,6 +362,14 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTk3cGtEc3ZmNlFNX01hRGJwTjRva3Nkdkh0dTdtOUk1MTVPUFpaM3IzVHFDUEctTmIwZ0pmaERLbEhpLWdjT1lWYXdaS3BmNW5OU0VaWHFULW5Eb2RwS2IwS0ZjZ2xJTkU0NnlibnQzdGtmSk5kd0FLMlNIMU1wWXJhUkxXc3UzMUZJM0kzVkpmYnlLSlNDTHpHenkwakFlelQzeGFFU3BRcmFuWUwwLWxIZ9IBuAFBVV95cUxPZTRDZnVXam1OVFh5VUlaZDEyb1lmUmdpaXc2N2ZPZnZYUU82WVB2alZiaDNLdzF1TkIyMk9yV1N5Z2d0elFZdElhQjhySTRuT1FGTVA5MDBvNm9qTW45UnZQY3ZGR21VVkdnMUlHeUNXazBQS3NvZHdZZ0wydkZ0S2RickR4QUozRmRVUkJaSXhXaUx4eU9EMFd0ekhRdmtIcHFaUFVPLW1PLUZZVHQyZVJlMG5tLU5C?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha elections: Yadav stronghold in Madhepura set to stay in focus - Business Standard",
+        "source": "Business Standard",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQam1Ga0pkamJKbklrQm9jLVVQOEhDVEY3ekJLdVJ6djFDdnozM1pIQ016WWdRVWxhN25ZMDFfVEd4ZlRnMjFNLUZmNm50VFRZZWdFTlBDZEY1RUV4YS1XQmRrZVNNbU9yMEJSeWRUY0k4SVdBdXQ2Q0l6S3o2TWNleDNUeEprbVZzNEVaNVZXMjNCV1FxQ251dHFpQ09NZ2psRlpsT0wwWkxVekREZXA0YzdSV0hwbUIzekdzN2VOWkwxcU9tdGV2MEtmRkVnV0lIZ0NOM0padGVYT1J0TUJaMGkwRXlGMnhO0gHuAUFVX3lxTFA5azhRVlZDVngzYXp3dFlmVVk3RXpVYWNNM3p3Mm5oUGdWbm5UdEp2cjZQRG5LMC04NnpPUjN6RHVEQ2FCWjZ1Nlk0bURZOVpHdmxJblgxQ2FCenM4Zm1QdGVUSzd1VTBOSExNZ1czWTdJNzRkckNsd05CQzlZSTN4STRVdEZaZENfeXhUdXFCWmowSkhEdUJobXVCYlBQSDNUVDFBQnMtWkJVOC01aVVjdS1CUW5Sb1VfZTVHRmJxVTlLLS0zMXBqUlhKa2xtYVZuVndzR3R5Mnh4Wm9wQUhiV056V3MyZ1JtYUtjelE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 27,
+    "starred_questions": 8,
+    "unstarred_questions": 19,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 52.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

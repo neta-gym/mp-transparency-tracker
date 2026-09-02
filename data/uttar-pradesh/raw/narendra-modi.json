@@ -4,16 +4,16 @@
     "constituency": "Varanasi",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8974,
+    "myneta_candidate_id": null,
     "slug": "narendra-modi",
     "house": "lok_sabha",
     "sansad_member_id": 4589,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 73,
+    "age": null,
     "photo_url": "/mp-photos/4589.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:04.227215Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 30206889.0,
-    "liabilities": 0.0,
-    "net_worth": 30206889.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8974",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.567205Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 25.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 16.21,
-    "released": 16.21,
-    "sanctioned": 10.35,
-    "expended": 5.58,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:00.598427Z",
-        "notes": "Official eSAKSHI REST API — Works: 217 recommended, 217 sanctioned, 95 completed"
+        "fetched_at": "2026-09-02T18:29:17.529226Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T18:25:12.921662Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T18:25:12.920002Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 217,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 34.42319555829735
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:11:51.481828Z",
+        "fetched_at": "2026-09-02T18:25:12.919303Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "In Varanasi, Modi says women reservation a national mission, blames Opposition for Bill’s defeat - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR1lGdmthelNJSjJPcTVOd0wyUGxpWXZ0dW1zcU1td3c0TkRMeWktT19Zb3VaRXBxZ1ZlbVZORlY2ZWtFakMyYkNGMjNfWlZ5QmpIdnpNc21sX3Y3LURDVmhWX0UwQ2MzV3FRNTFCeWFmaDJFZXlMX0xmeDU0cmhTVEs0UHZiai1oWEUwc2ZlWUZFUHRhc0tJOVowNFIzRXpGcWg4S3F4LU1DSWVPMU5ZWkVNSFNZWi1CRF9DV1FBdXNCcjhjLTRBempqR3ZtTm9zbHZERU51U2c5NDJNWmdNRzBtVVB2VDjSAe4BQVVfeXFMTmlVYjNuODl0bnl6VHBOTEtIeWpSTjJob0RRMkdtVDljTzluck5ublYxUDBvMThjWENSQUVOZWU0amt0c0d0WU5PN09TQTVRcTFYYXVYR1JoTmFsNmN5MTF3NEt2Snpjakt2a2dieHFIaFFjTFVnUHl4T05XczNMSVR6amwtWElWRXA2blh3NVQ5UktDUDB5QUxDM2RmNndnd1VhRXJKd01icXhFUkYxVldNbXRfcWhXTHRHWEZOQWxhWTBFLUhJWko3Yk10SWFVVHJYU2huUDlxTzdNV1FiNE5BblBRamdjUGZkdmp0dw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Varanasi: Security tightened outside PM Modi's public outreach office ahead of NSUI's 'Save MGNREGA' march - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZlloQnV6QjhhaWQ0Tklod3k3dVNNQ3JWYWhZa2R3cWYzeUdaalA1OTJKdHBvZWk5X0NjVEVhWjFCTnBTTnZrUFNIT0ZjbW1LNmdtZVpRT0pJWFNGeHJTQ3czQUJzLTF3WEV2REpoTlF2MFY0LXZ2SFdKQllYalpzRXA5bUJ2SXo1R0h0N3VMX0w0U0d5ZU1qbG9HS3NZY1lfa296Ql8zc2sySkJoVFhtTnI1VWpOQzluWGlCMTBlTjcwNTk0SnBaUHRBOXVHaVM3ckZGcEEwdmQ0M1B4bzNEQVR4bHRIbVFtQ1ppY3BsVHR5X2tnSjJJMA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Varanasi’s lanes and ghats celebrate its MP’s 12 years as Prime Minister - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMmU4VjNwSHBZckt0WmRXOV9BdXBGUGFmTU9BUUNOS21naC1KUW9IQlNESkxHa2wtRVVIcUlYM2gzTkptY3l0TmVGRTA4czQ5SW5jclBpbW5UcURfdGVTSThKYkVrLW1sd3BWMTFXTUpfOGstMW0zZGotNWgweVdZZE5FT0ZwdFlxVHNJUnVTRUhxRW80RUpjbUVielF3blJzQkZ2MklhaHBVTkFfRzI4QlMwZnVMMWxrdVFPcjJTZEpxX1ZWM2tfS0RFN2FDRkFydElMbG5YZm0tX2wySGdV0gHkAUFVX3lxTE8xa01FWVFHSktoM21faUtBeXJSb0JSTVNlTGhBN1pXQldPWm1GNnNnaTU4SDNiLXV1SGhHOVBnU2Z6SjBaSnhGSHl4UmFHbm1wNWc2LW1ObGt6eXBIa2Q5TnkzNzAtS1VBNFkzNDNHazVqTHktaEtfRUhEOU11QXZGd29WWGh6LWZFU09rWW5EeEp3TVNocXQ3TDBtSnV5MEVaemozNU9YZGdFenJFYUVCWEdCa0dSWnp1ZlpLWm9pbThnOC11NmZZYllLVGN3a0NOaTlFSGl0Y18xVHgtOXY5RVNjRg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'If PM is unsafe in Parliament, he should resign': Imran Masood attacks Modi at Constitution dialogue rally... - bhaskarenglish.in",
+      "source": "bhaskarenglish.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1FTWi1Fb1ZGQkwza0Y2QUxGUHc1eXNBbjJJdkpRSUtkQnBkVDA2dTJEWnVoVkhuYVR5QXdEeXlBMlpKaXVac0hqQm93SVMxbFU1d0ZIelc4QUY3ZkRXejdRaWNLRGxKcEdXVU9DcElwXzZlTlFDcHI0cFhPNXRLNF90enlNSEoxOEhFaEZzVU1xWWZEMWxza1d6c0hLdThuWGJtQXM2OTNhOWNiVmRDaml5Zm8xdjIwbU1KVC1wSVRiUWRNZXh6X2NYdDI0VG1nQWRKU0d2b2tnSHBweGNpTFNhRDJRN2htRDJV0gHwAUFVX3lxTE9KSVRlYTNYcWY5ZGFpSWI0dlJpOVZvRmhrMk5XcG1YY3RlTFlJS05jN05GdFpCd1gxWUxzdFNkeG1yZzRDN1p2eXZLLUk0VVQyNWx3d0xOR1BWM3Zuc1NHel92UV9xbEZ3UWN1Z1pUaVBIUWJORmJqbUpQRXZzcDl0WFM2cTdGYWZGeC16YzAzb1FoMnloR2VwTEZyQUJqdVVxZ1BuT2JjdDVLYTZHRzRoN3V6YW1oMWY2eFdjakJ2OGhlZWFsSXFya2RVWDdOZXBNU05WdnZuZEJpQmZFZnI3ZWc4RGQxb1JVaWRRWGZ3bg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "PM Narendra Modi Flagged Off 4 New Vande Bharat Trains from Varanasi, UP - AffairsCloud.com",
+      "source": "AffairsCloud.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEw2ZmxmZGo3a25ZR3BMRlhoSjB6ZzJsTnVRV2xNdUF2b0ZLWFVXX2FtLU9oQTU3Y19pR2RhUXpIVGNEZ1FXbThaYWF2eFlTelY5MW96V2lWVzBjNERTcHllcHFxVEZfTVN6SGY0aXZwU1RuZlFjdnFyT3pCMGhra3FMdEZicFVkRjdJZHR6STFzd2dHeHphOTZJRnFfUQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:12:12.203117Z",
+  "collected_at": "2026-09-02T18:29:17.529929Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.835904Z",
+        "fetched_at": "2026-09-02T18:38:11.403353Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.835912Z",
+        "fetched_at": "2026-09-02T18:38:11.403365Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.835917Z",
+        "fetched_at": "2026-09-02T18:38:11.403371Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.835922Z",
+        "fetched_at": "2026-09-02T18:38:11.403376Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.835926Z",
+        "fetched_at": "2026-09-02T18:38:11.403381Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.835931Z",
+        "fetched_at": "2026-09-02T18:38:11.403386Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.835935Z",
+        "fetched_at": "2026-09-02T18:38:11.403391Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.835939Z",
+        "fetched_at": "2026-09-02T18:38:11.403396Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,17 +320,42 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/narendramodi",
+        "url": "https://x.com/http://www.twitter.com/narendramodi",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/narendramodi",
+        "url": "https://facebook.com/http://www.facebook.com/narendramodi",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T18:25:38.574674Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 1,
-    "neutral": 9,
+    "negative": 0,
+    "neutral": 10,
     "top_headlines": [
       {
         "headline": "In Varanasi, Modi says women reservation a national mission, blames Opposition for Bill’s defeat - The Indian Express",
@@ -285,22 +363,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR1lGdmthelNJSjJPcTVOd0wyUGxpWXZ0dW1zcU1td3c0TkRMeWktT19Zb3VaRXBxZ1ZlbVZORlY2ZWtFakMyYkNGMjNfWlZ5QmpIdnpNc21sX3Y3LURDVmhWX0UwQ2MzV3FRNTFCeWFmaDJFZXlMX0xmeDU0cmhTVEs0UHZiai1oWEUwc2ZlWUZFUHRhc0tJOVowNFIzRXpGcWg4S3F4LU1DSWVPMU5ZWkVNSFNZWi1CRF9DV1FBdXNCcjhjLTRBempqR3ZtTm9zbHZERU51U2c5NDJNWmdNRzBtVVB2VDjSAe4BQVVfeXFMTmlVYjNuODl0bnl6VHBOTEtIeWpSTjJob0RRMkdtVDljTzluck5ublYxUDBvMThjWENSQUVOZWU0amt0c0d0WU5PN09TQTVRcTFYYXVYR1JoTmFsNmN5MTF3NEt2Snpjakt2a2dieHFIaFFjTFVnUHl4T05XczNMSVR6amwtWElWRXA2blh3NVQ5UktDUDB5QUxDM2RmNndnd1VhRXJKd01icXhFUkYxVldNbXRfcWhXTHRHWEZOQWxhWTBFLUhJWko3Yk10SWFVVHJYU2huUDlxTzdNV1FiNE5BblBRamdjUGZkdmp0dw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Varanasi gears up for PM Modi’s visit; women perform 'shankhnaad' to welcome Prime Minister - lokmattimes.com",
-        "source": "lokmattimes.com",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcF9CMEhrOUVyLVdBV21oRlZza1ZFaFdqU2VMLXRkNEQzQXptMlFFbTMtVnNWczlZcUZoUGlyZmpUZ3dzeG9md3p5Y3RTazhrR0ZBczVmOHRwQThPTlpjR0JvRXRUSG1qTFNnOW9LS1lKQ1dvM3V6S2NQbVc4a2JjT195X0pXQzlqZHpMLWlwVnE2NlhfdW1HQXpUQUxsZW5Xcjd1LUtfMzRzQzNNcnp5RFdqQ0RGaTZ2dzBiOWZHY2VrcHPSAcgBQVVfeXFMUDF1emlUbXVVYml3NFpGLTlvZ1E5cmFyR3FuU1BtN2c2eUZqdExXdzRmWHlFdmlOZnZjOTNzNlZYSWotWi1vYXR4ekFlbjgtSXRrdi03RUVMdGVuNkNlN01DeXVFY2QzZGJCNlM4NFRWWnNnNWtRV2p6T19jNG5ORjJmeFJaTURmbGNJTEpNWmhFRndnQVlYR0V3akw3MGZNZkpEZ3UwcWhsR3dueGdtUnFQWFRjNGVzRlpNQU5NckZIVE5OT1J3TWI?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP-ruled UP and MP sign MoU in Varanasi to manage temple crowd - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9GQno4SzRrcjhpczItY3dudGdadGJ4Ymd0NXNKaGxoY3htVHU5WnFvUFdlcHdzUDF1SThfVjI3cmgtaDd1ZmJRZ1lPVHBiS3pqdlN4ejU4aGFjTko2ZVJUZExOblItU0duaWtyR3JYb1BueUdGTTdva2Nnd2R2Z3dITEZfLXVrYmY0cmp0MWFMQVZnZ055WThEMGx1MDZyMUNIQm9FWFB2ZUVkZ1VObHhzWWzSAcIBQVVfeXFMUDM3cUFrbDJORHRXU3pUU3JaRFdUWmFocjBoX2hkQTdwcVFjRHVhX09WallWVmxfWWxzRmhzak15SDZxd2NxZG02clhJeHNQWkJQQTNRSUdtX2lsTnpHY0J2dWJxQTZqd3NIOUQ3Q2E4QWFTUnYtM09JUFZqMjB3aU9EMVpmc3E3S1IyeTNDOVpTY0ZodE5Wb25pUmtuWUZzUXMtLUJ3UmNSSkRnempvOHFWdU05a01ycnNGSmxlcml1NkE?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -312,11 +374,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Kashi emerging as hub of sports, mega events: PM - The Times of India",
+        "headline": "Varanasi’s lanes and ghats celebrate its MP’s 12 years as Prime Minister - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkhfdDVTVm5TWVRnY01qVDhHc2ZKUUd3YmVmTGRyYlBnUWZTbFFJeUZWV0x1WF8yM05kLVhkUGt0cmZRUGg1YlpyM3ZUc2RkMFN2VmxtXzRLRlFfdTRORHFFM3BfcGI1MFpJaDh4emg1VVZZckM4WGdvN0tLTFU0QkRxM205TUxpQ2ZKRzhoeUppR0E5aDVCMTVqdU1fdmRsU1J6bDJ6b1I2dU5ORzdydEdZTFItR2QwSHB4UTRGUdIBxAFBVV95cUxNV01ZODZnNkVrUmNZU096WnRVSk9mVXJ3eXpDMDFQZzlpTUdfeFByQ05TSDZBTlJDaHBKSmoyZThrdU5UZy1yb2JpQWdqQXFudXhfaHdGRzh2U1N5NGhFZklST3pGZDRkdWxFaEtRWjU4d0lJcHNWZVJDV1NiQjdqTWZjcUxrUnJUMHI5bWtkRGFfbXdoTHp5Y1ZBeVF5Y0RyMnNmT0NWS1hWM3hiaE94TEMwM3c1WklSNTZCVDktZlNEOFlQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMmU4VjNwSHBZckt0WmRXOV9BdXBGUGFmTU9BUUNOS21naC1KUW9IQlNESkxHa2wtRVVIcUlYM2gzTkptY3l0TmVGRTA4czQ5SW5jclBpbW5UcURfdGVTSThKYkVrLW1sd3BWMTFXTUpfOGstMW0zZGotNWgweVdZZE5FT0ZwdFlxVHNJUnVTRUhxRW80RUpjbUVielF3blJzQkZ2MklhaHBVTkFfRzI4QlMwZnVMMWxrdVFPcjJTZEpxX1ZWM2tfS0RFN2FDRkFydElMbG5YZm0tX2wySGdV0gHkAUFVX3lxTE8xa01FWVFHSktoM21faUtBeXJSb0JSTVNlTGhBN1pXQldPWm1GNnNnaTU4SDNiLXV1SGhHOVBnU2Z6SjBaSnhGSHl4UmFHbm1wNWc2LW1ObGt6eXBIa2Q5TnkzNzAtS1VBNFkzNDNHazVqTHktaEtfRUhEOU11QXZGd29WWGh6LWZFU09rWW5EeEp3TVNocXQ3TDBtSnV5MEVaemozNU9YZGdFenJFYUVCWEdCa0dSWnp1ZlpLWm9pbThnOC11NmZZYllLVGN3a0NOaTlFSGl0Y18xVHgtOXY5RVNjRg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'If PM is unsafe in Parliament, he should resign': Imran Masood attacks Modi at Constitution dialogue rally... - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1FTWi1Fb1ZGQkwza0Y2QUxGUHc1eXNBbjJJdkpRSUtkQnBkVDA2dTJEWnVoVkhuYVR5QXdEeXlBMlpKaXVac0hqQm93SVMxbFU1d0ZIelc4QUY3ZkRXejdRaWNLRGxKcEdXVU9DcElwXzZlTlFDcHI0cFhPNXRLNF90enlNSEoxOEhFaEZzVU1xWWZEMWxza1d6c0hLdThuWGJtQXM2OTNhOWNiVmRDaml5Zm8xdjIwbU1KVC1wSVRiUWRNZXh6X2NYdDI0VG1nQWRKU0d2b2tnSHBweGNpTFNhRDJRN2htRDJV0gHwAUFVX3lxTE9KSVRlYTNYcWY5ZGFpSWI0dlJpOVZvRmhrMk5XcG1YY3RlTFlJS05jN05GdFpCd1gxWUxzdFNkeG1yZzRDN1p2eXZLLUk0VVQyNWx3d0xOR1BWM3Zuc1NHel92UV9xbEZ3UWN1Z1pUaVBIUWJORmJqbUpQRXZzcDl0WFM2cTdGYWZGeC16YzAzb1FoMnloR2VwTEZyQUJqdVVxZ1BuT2JjdDVLYTZHRzRoN3V6YW1oMWY2eFdjakJ2OGhlZWFsSXFya2RVWDdOZXBNU05WdnZuZEJpQmZFZnI3ZWc4RGQxb1JVaWRRWGZ3bg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM Narendra Modi Flagged Off 4 New Vande Bharat Trains from Varanasi, UP - AffairsCloud.com",
+        "source": "AffairsCloud.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEw2ZmxmZGo3a25ZR3BMRlhoSjB6ZzJsTnVRV2xNdUF2b0ZLWFVXX2FtLU9oQTU3Y19pR2RhUXpIVGNEZ1FXbThaYWF2eFlTelY5MW96V2lWVzBjNERTcHllcHFxVEZfTVN6SGY0aXZwU1RuZlFjdnFyT3pCMGhra3FMdEZicFVkRjdJZHR6STFzd2dHeHphOTZJRnFfUQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -366,7 +444,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

@@ -35,59 +35,73 @@
       "photo_url": "/mp-photos/5182.jpg"
     },
     "criminal_record": {
-      "total_cases": 3,
+      "total_cases": 0,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 3,
+      "pending_cases": 0,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 41030489.0,
-      "liabilities": 0.0,
-      "net_worth": 41030489.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 33.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.76,
-      "expended": 3.24,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:30.106898Z",
-          "notes": "Official eSAKSHI REST API — Works: 101 recommended, 47 sanctioned, 7 completed"
+          "fetched_at": "2026-09-02T15:02:43.499256Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:59:03.878865Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:59:03.876187Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 101,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 22.040816326530617
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 75.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:39.817905Z",
+          "fetched_at": "2026-09-02T14:59:03.875132Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Bengaluru South MP Tejasvi Surya urges governor to return parks bill - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdaUE5BN1cyaEtWdWgzM1ByTDFHZGRCQVhNbEhOYkVUNDZ6LURlY3ZOTkVfM2VZZDJfUC1sUk1TUllWMWNXTFFLOFV6c1VndFpCbHlJUnJ1TE1LRHRvZ0ROQnhVSVIzSmZrTWEwQVl1VmhKWV95QVhxX2psV0VBcmotX0dxazhMU3FBb290NktvaUFHeW00WE1rVkh6d3d6cDkyTlhKR0dla2p1ckduMTBLWnlJZmd5aHN6ZXRlZ0RxSS1IQmg0LWFB0gHXAUFVX3lxTFBmbHZGRnFMdWstQjRVUGowNVBzUm43YkRYSWNKNXM3bG40dnRkRnNFSllQdmVFQUZsdU9fWDAzS2xZS29MWWlEMXYtTExlbzJzN2ZaUkVaMTRqMXo0QVhSRGJPRXNzQzRiNmJ6dmdWTFl2NTFYSnNLS1ZVWDA5bGFxTk9oa1VMTUJ4SlIwU3VjeTFPeWRpUHY5Y3F0bHViWW1Qc3hWUGR2UDRPMzRGeG5sWHNkam81Z1ZpbXlhWWJkVC0zdi1ZYVItMk1tRU5NMVhyUWNRZFlB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP’s Tejasvi Surya urges Karnataka Guv to return Parks amendment Bill - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHkzTFNpRzhEOG9vNlhjNE4wSjUtRTFGTXpOT0pzZG5VT19Oa1NPaWMtTS1jck5aM1ZZZmdYUjNubHRqNkdxTTZIZTZDRl9yS0FhczNLMUVmdmFXWlRXRkZESWZaMklGMGxPSWQ4Y0c2WnZWdzhLN2dYWnR2RDBqR0lCdGlPczN4aURISXRSdTctZXhINmY2azU5R3pMMXIwMVZQTGtRc9IBrAFBVV95cUxQMlNZQmt4dWZOeGY0N2YtSzd6aF93clQtSUxaczFSSEh4OHNlUUtQYXphVWViZUs5RExkanFPSFRKbF9hMVVLSC1GRkRZZTBXOFF0N1VqakN6OWFodEM3NnJMcEVnRVNpUFZPdW9pcmZxbkdmeXRmT2RVbnJBQTYxY2tYUG1lelFQbWEzWGZGWVZKMmRkdlVEWC10dXV0VHdxSWh3XzNHX2F5a1lL?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "CJP a welcome move, but…: What's Tejasvi Surya's take on Gen Z political rise - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObExFZG9YQUJLNGJUSWRoUV84MEFKSG5DOEd2bG5yUWhaU21IajRObDRERGlQWmJSVFBtbmtjN2lZLS1idXlVUEhNTWdRTHEzV2ROUTJMZVhjdjU5RkhXU1JyVnVfbWFLYm5LT0RDczVucVpvS1ZwbFZTTjFmTlF6RUxEQ0xobkpmNzBpbTRPeGN4ckRzOGl6SzZJcEJaaU04cnZKZkxTX0IwU2p3dDlzSExJanJJckVKMzZvNm1jc2pCd3RwSWpXQXNaYUJIY2RTcHFSaE96Y9IB3AFBVV95cUxPSFlOZnBzNlRvTVNoVFh4bFdVS2NSMjdaMmdocWdZYWhGRG1vTFVqZnJrYll3UWcxU012bk56d25mX2pkdVZGZXpLa3VwWTBRdno3OV85TVFGeDkzOVpwWWVLYWFQWV9TQVJiUEFOczhDdE1rek9PZFFJSkZWdnZ3YmlHV1RST0N5N2dLU1U5RlZTQmRXZjZSM1JUOUt5dE0yUzlYaVVmTC1PZThIMDlaSUJVb3JoaDJNZjZTWXMxTzdlRV9ndlYwMUR3SktIQlh1eU5Bd0E4YU1FSXh3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP’s Tejasvi Surya urges Karnataka Guv to return Parks amendment Bill - Press Trust of India",
+        "source": "Press Trust of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDRFRFpqbXo1OGRxNjRHMkIzRllsWU56bk1vWkxxaDNqdU40Z0F2YzIxa0VNX3ZuOVVRN3dEOEZmdTFOY0R1Tlh6WjF0dTNLZ3VuX3phRGNiMDBNRmIwZG0wTFo2LWh4YS1fRkI4ZlE3WVVTYXdzNjd0TVBzbXI2M2hOMDhKcFM1UjRWY2ZBNjJSOHVSTHZKSGhwMmd4c0YxYWVDYTZzdmpLbjI5MjFNMzJXNGdLM1pE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bengaluru South MP Tejasvi Surya opposes bid to amend law on parks - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQams4bElGQmVUTTUwUWxvWXRxWHpkTzA1Z2JtaElBckU3ZkdLQnEwSlhpNy1oSG40LUl0ZWJITzdBUTdoeFBlTVNfZURaSW9CZWk2Sm9KNGhSTVo0UG5QbFNGaXN5Z3d5NHc1cXBzVzh0TlpyQnBjbUdFOUhxOUNBTldmUXF6MG8yREwtZE9TSmxkT0xxMGFKNFF5ZE5zRVp4RWZMR2ZoVE1qMEx6ajJ4SWdaTjR5a3E4Z3RMcFgyc0FzTjlBdThZ0gHUAUFVX3lxTE13MzdNUXdCNUstUnVzUjZtS2NVNlMzSmt4MUtnRnZkdHl4aGJXSm9xcTdEMWY0WV9ZSVBWN00xVmE3RVU0YmYwUGRaMm5jYWZaNHJ0ejdnU1k1cWlWWW9vbjNRWUpybkZJRVFrSm1TSU1SSEd0b01zdmV3ZTBsYWJkUzNwUy14cm82bFdkazY0Mi1OeEttcE41MEpDZTVpWVpFUkJVN3Zta05BeTA1cGhma0QtS2xZZkl5WTRhU0F4bDFMRmdGdjkzVXJuMXlsdTFFQVlk?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:32:43.260603Z",
+    "collected_at": "2026-09-02T15:02:43.500891Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.321620Z",
+          "fetched_at": "2026-09-02T18:38:06.809851Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.321631Z",
+          "fetched_at": "2026-09-02T18:38:06.809864Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.321636Z",
+          "fetched_at": "2026-09-02T18:38:06.809869Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.321641Z",
+          "fetched_at": "2026-09-02T18:38:06.809875Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.321647Z",
+          "fetched_at": "2026-09-02T18:38:06.809881Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.321651Z",
+          "fetched_at": "2026-09-02T18:38:06.809886Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.321656Z",
+          "fetched_at": "2026-09-02T18:38:06.809890Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -258,56 +314,73 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/surya.tejasvi.ls/",
+          "url": "https://facebook.com/https://www.facebook.com/surya.tejasvi.ls/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:59:06.254151Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 1,
-      "neutral": 9,
+      "negative": 0,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Row erupts over BJP MP Tejasvi Surya’s comparison of Telangana formation to partition - The News Minute",
-          "source": "The News Minute",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3llLWZJTlRQX0ZybFQtNW94MVF0NVZDUXd0ZTA2a2Y0czZLS0JJZHBONVZfMDhmVnpuZndZUE0xMjFCeWtOaXQ5T2JfcnEtUy1BRUVkSnRVNDBuUDhOc1RqREdCVHoxemhIY2ZvLTFzRS1kSjlsWDc5c0lkX1JGNDdNYlNiSHM5dFpEMkV2cTM2eEY0QmtSZW1GYkQzYU1ZemQxRmc3aGpnREdtdC1pQjJxalY0cVluSkVuS3VDbmsyeVJUT2MxR9IB1gFBVV95cUxPOWVtcWFjWG5uQ2JGVVNaMWF3TTB5YzZyVUxXWGdBRUY0eVkteU5rYVlZRkVlZ3BKd0VhRHZsSzdKcnlMSk5KZ3lWTVY1bjlwYWdLQzJIUG1UMEN1SmxVU0lGcUpsX3lkOTZQZFdSX1lIR0pEbnVxa2U3U3BFdXlfUFlOMk9XZ0xabnVmUnFGWnpodVF4b0VKWWQ4RmE3RGlNN1JrSmo3ckpGZXN0bUNQbzFkbDVxemVaVUxURGRrX2dPNTdBWVZsMHRDeGlwYkU2Mi1CN2pn?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Tejasvi Surya makes case for delimitation formula. ‘South India couldn’t have got better deal’ - ThePrint",
-          "source": "ThePrint",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdGNqeVRwa2dVS3B5VnFLc1FOME5WbkttOXBpTDJIUHVRS1Y0Tk8zLURmWW5ORnU3WXdKSnpybmVHNmtPeWx5MUJ0M0szX2drLTNKaHp6cVFGaTlPSmVRYjE2RC1lUHdMdjBYWUpWQUhEeXlfMVdJV1pZc2k3VjZKb2txbXJsbm52RjFwMzJoUTVMY21MOTc2ZHJUV1Bxc1Q3WWYzSFF6dXdab2NFVVR4bXJadG1BUFYzU3YzOU1HZ0xJV1R3N2VJ0gHMAUFVX3lxTE1oM2t5RHNkaDJzZ3NxRVhRdFZIX3J6c2wyVVhQWWhOVXpUQ0xTazM1a0lfd2t4SlNKS2ZUTVR0U1pZRmp1UkU2TXZHbVFSWm1ZWVZYTm9zdHJRMGhwUVpKbFZVM0ZaYThFTUJDUWhyOXBPVzVXUGlLMTZwUEtPelJ2U1hRQUwyYVpOWXFxU2VJdnkxZ3JIa05Pdng3NE03SFh0d3NlTWtMa2V1dWdNRXRrTGhDVzBTY1U2U0xJSDdPNXUxdEo1MXhmVWRjRQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "'South can’t get a better deal than this': Tejasvi Surya in LS delimitation debate - The New Indian Express",
+          "headline": "Bengaluru South MP Tejasvi Surya urges governor to return parks bill - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHZxRVUwV2VwMFlrMXpncE5aTGFxNEhOUXpaeDBMV2pySDBsd0V4NllCcmtvWVN6SE1rMFJYc2dLZVVJSXp5MXdmcGVYQnhmNEw1dWtyWUtZTkpsRW9ObEFxU0VESVUybTdiaDFMSGlmRkg2cFZRRE92WjVEaFV4TTJqRm8xYWRmenlNSXVaekJ2bF8zMV96NlUxNGpSN0pSbHRoU01pTHlYdTVQTFNHQXlYaTdCRHl2aFlaRGRSQkgtUmhXWFRrN1VR0gHXAUFVX3lxTE04V1N0VlpWTmw5cnJTemtGWWNtOHVaY0ZMczNTSkp5b09idktmTkhiVENtSHBzT0E3Zmppd0RyYmp6MGJjaUx6Y1ZKTmtpbHJMRVRHTUhCNVphMVM5QkJael9hSFh2NmpyZ3RwUXhfZGY1aGpoOTF5WWFUbHc4TG9obm5zTGNvUENOZUF1WjFLZVRKTDI2QlFIUXI1cmNLME5tVEVpT3ZuaEVzMldGOHlhOTRPRFN1ZFVYN1J4WFdMWnRCZ05WeEdFWnllRWxpcEItaVgxWVdJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdaUE5BN1cyaEtWdWgzM1ByTDFHZGRCQVhNbEhOYkVUNDZ6LURlY3ZOTkVfM2VZZDJfUC1sUk1TUllWMWNXTFFLOFV6c1VndFpCbHlJUnJ1TE1LRHRvZ0ROQnhVSVIzSmZrTWEwQVl1VmhKWV95QVhxX2psV0VBcmotX0dxazhMU3FBb290NktvaUFHeW00WE1rVkh6d3d6cDkyTlhKR0dla2p1ckduMTBLWnlJZmd5aHN6ZXRlZ0RxSS1IQmg0LWFB0gHXAUFVX3lxTFBmbHZGRnFMdWstQjRVUGowNVBzUm43YkRYSWNKNXM3bG40dnRkRnNFSllQdmVFQUZsdU9fWDAzS2xZS29MWWlEMXYtTExlbzJzN2ZaUkVaMTRqMXo0QVhSRGJPRXNzQzRiNmJ6dmdWTFl2NTFYSnNLS1ZVWDA5bGFxTk9oa1VMTUJ4SlIwU3VjeTFPeWRpUHY5Y3F0bHViWW1Qc3hWUGR2UDRPMzRGeG5sWHNkam81Z1ZpbXlhWWJkVC0zdi1ZYVItMk1tRU5NMVhyUWNRZFlB?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Namma Metro Tejasvi Surya: MP Detained in Fare Hike Protest - Deccan Herald",
-          "source": "Deccan Herald",
-          "severity": "medium",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcks5RGVHQzJTYTRyYjlzTlE2UFc3WkowX3U1ZTd2alRBVlp3TGhWNVlkbkU0NWNCM19sZTE0SzRHZ3hCcllIQ0lpN1ZwQjZVNnBUbTRwdWxrSV9IanhwV1hRWlhPX25TdUJFRXJzSEJSenU1eWk4bk5nVW0xdkJXRW9tN0drVDh2WXE5NHAzbl84cFE5cFo5empPVmFaS1B0YnlfNUt1Y0EtckpKalAxMHpsTENmTUxEaERRN2JaV0VZdVNsa2pVSVZoYzdxblNHQWhzZV9PVTJTWV9rYTZwWFF2VVZhbTZXamlWR29lcXRqVjUtZ0hWNExHN1BnR09lS052eUk3eFBsSFk?oc=5",
-          "sentiment": "negative"
-        },
-        {
-          "headline": "UPA rule a decade of lost opportunities: BJP's Tejasvi Surya in Lok Sabha - Moneycontrol.com",
-          "source": "Moneycontrol.com",
+          "headline": "BJP’s Tejasvi Surya urges Karnataka Guv to return Parks amendment Bill - ThePrint",
+          "source": "ThePrint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmI5eVZBRGRObnRUNVZLX3ZLNEpwYnJkMDYzZzNTUVkzRUMyQTl3ZWIwZm83R0ZuT3NuQlhLZ3VhRGJVbzRCcXpuenRlandrVk05eE9OYXZJY2JGdDVyRGwyWENvdzFGZ1JQUWZ1NUN2cm5rQzE5dEwtRTRiamE2S3hGbVc2Sk0teGR5RkZyMkxnZ3hlRkpZc0pQcGNBeklld2V2VkFQY1A4ZHFScGpHMEllM1VhRmJzZ1JCV1FFa2NKYUN10gHKAUFVX3lxTFAybktEM2R6RmZFREVrZ0Q2MHVaTUtuM3MxazlnZVRQNnIzUzNvREt0dDJPSVhOZ1JFUXdjdU90em1DTTRtYjMtN01IaGRZOUN4OGYtMWVseEhvUkh5dGZ3WmRaT2tjS3ZKcUV3MkI0TjlzRklJc0ROZU5uMlZzS2FTLWNmblFVcXUyRVIzYXMzWkRJTmFHUk0yVjdpMU5ZVk94UTQybWRsOUFFcElGaG1Jck96TkNlcks2WWFlc09zeXJWeDdDRjduc3c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHkzTFNpRzhEOG9vNlhjNE4wSjUtRTFGTXpOT0pzZG5VT19Oa1NPaWMtTS1jck5aM1ZZZmdYUjNubHRqNkdxTTZIZTZDRl9yS0FhczNLMUVmdmFXWlRXRkZESWZaMklGMGxPSWQ4Y0c2WnZWdzhLN2dYWnR2RDBqR0lCdGlPczN4aURISXRSdTctZXhINmY2azU5R3pMMXIwMVZQTGtRc9IBrAFBVV95cUxQMlNZQmt4dWZOeGY0N2YtSzd6aF93clQtSUxaczFSSEh4OHNlUUtQYXphVWViZUs5RExkanFPSFRKbF9hMVVLSC1GRkRZZTBXOFF0N1VqakN6OWFodEM3NnJMcEVnRVNpUFZPdW9pcmZxbkdmeXRmT2RVbnJBQTYxY2tYUG1lelFQbWEzWGZGWVZKMmRkdlVEWC10dXV0VHdxSWh3XzNHX2F5a1lL?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "CJP a welcome move, but…: What's Tejasvi Surya's take on Gen Z political rise - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObExFZG9YQUJLNGJUSWRoUV84MEFKSG5DOEd2bG5yUWhaU21IajRObDRERGlQWmJSVFBtbmtjN2lZLS1idXlVUEhNTWdRTHEzV2ROUTJMZVhjdjU5RkhXU1JyVnVfbWFLYm5LT0RDczVucVpvS1ZwbFZTTjFmTlF6RUxEQ0xobkpmNzBpbTRPeGN4ckRzOGl6SzZJcEJaaU04cnZKZkxTX0IwU2p3dDlzSExJanJJckVKMzZvNm1jc2pCd3RwSWpXQXNaYUJIY2RTcHFSaE96Y9IB3AFBVV95cUxPSFlOZnBzNlRvTVNoVFh4bFdVS2NSMjdaMmdocWdZYWhGRG1vTFVqZnJrYll3UWcxU012bk56d25mX2pkdVZGZXpLa3VwWTBRdno3OV85TVFGeDkzOVpwWWVLYWFQWV9TQVJiUEFOczhDdE1rek9PZFFJSkZWdnZ3YmlHV1RST0N5N2dLU1U5RlZTQmRXZjZSM1JUOUt5dE0yUzlYaVVmTC1PZThIMDlaSUJVb3JoaDJNZjZTWXMxTzdlRV9ndlYwMUR3SktIQlh1eU5Bd0E4YU1FSXh3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP’s Tejasvi Surya urges Karnataka Guv to return Parks amendment Bill - Press Trust of India",
+          "source": "Press Trust of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDRFRFpqbXo1OGRxNjRHMkIzRllsWU56bk1vWkxxaDNqdU40Z0F2YzIxa0VNX3ZuOVVRN3dEOEZmdTFOY0R1Tlh6WjF0dTNLZ3VuX3phRGNiMDBNRmIwZG0wTFo2LWh4YS1fRkI4ZlE3WVVTYXdzNjd0TVBzbXI2M2hOMDhKcFM1UjRWY2ZBNjJSOHVSTHZKSGhwMmd4c0YxYWVDYTZzdmpLbjI5MjFNMzJXNGdLM1pE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Bengaluru South MP Tejasvi Surya opposes bid to amend law on parks - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQams4bElGQmVUTTUwUWxvWXRxWHpkTzA1Z2JtaElBckU3ZkdLQnEwSlhpNy1oSG40LUl0ZWJITzdBUTdoeFBlTVNfZURaSW9CZWk2Sm9KNGhSTVo0UG5QbFNGaXN5Z3d5NHc1cXBzVzh0TlpyQnBjbUdFOUhxOUNBTldmUXF6MG8yREwtZE9TSmxkT0xxMGFKNFF5ZE5zRVp4RWZMR2ZoVE1qMEx6ajJ4SWdaTjR5a3E4Z3RMcFgyc0FzTjlBdThZ0gHUAUFVX3lxTE13MzdNUXdCNUstUnVzUjZtS2NVNlMzSmt4MUtnRnZkdHl4aGJXSm9xcTdEMWY0WV9ZSVBWN00xVmE3RVU0YmYwUGRaMm5jYWZaNHJ0ejdnU1k1cWlWWW9vbjNRWUpybkZJRVFrSm1TSU1SSEd0b01zdmV3ZTBsYWJkUzNwUy14cm82bFdkazY0Mi1OeEttcE41MEpDZTVpWVpFUkJVN3Zta05BeTA1cGhma0QtS2xZZkl5WTRhU0F4bDFMRmdGdjkzVXJuMXlsdTFFQVlk?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -341,15 +414,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 43,
+      "starred_questions": 12,
+      "unstarred_questions": 31,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 82.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +430,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 75.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +461,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.21,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +494,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 41,030,489. MPLADS utilization: 22.0%. Parliament attendance: 75.0%. Questions asked: 43. Debates participated: 6.",
-  "validated_at": "2026-09-02T01:36:49.322332Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 75.0%. Questions asked: 43. Debates participated: 6. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.810673Z"
 }

@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 457302056.0,
-      "liabilities": 80646000.0,
-      "net_worth": 376656056.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 83.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 19.69,
-      "released": 19.69,
-      "sanctioned": 9.06,
-      "expended": 5.13,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:48:50.480792Z",
-          "notes": "Official eSAKSHI REST API — Works: 127 recommended, 84 sanctioned, 20 completed"
+          "fetched_at": "2026-09-02T14:58:44.871333Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:54:56.446196Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:54:56.444111Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 127,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 26.0538344337227
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:32.304180Z",
+          "fetched_at": "2026-09-02T14:54:56.442962Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "After cross-examination, DMK MP TR Baalu drops defamation case against K Annamalai - The South First",
+        "source": "The South First",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXlLQjFtczhxSkpsUXdCdWNsX3pISGFRdExINkMxNWh6dHAtNkRtMWhVVFJYUTVvM1BEM1BYcUx6NWprWUV3TWpKblhQNVc5bTYyV0lNQlZUYjBPeEUxenR2Q2JGN2F6MC1fVF9ITFlYWUhlY01jQlZKdHlzNmpZeTEyQWdTR1Q5d0JtYl9BSVllRFNFTHFtSXo4QjNiWXBBQkxMSk93VG8tMzdIRGdoSnJsMHY4b1lMV0E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Constituency Watch: Sriperumbudur - several unfulfilled civic infrastructure promises are raised by constituents - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSS0td3lzTUt6MlpsT0RQNDQtTUpQbVptY3EtYmhIcXNsN0theHlJd0ZLQXlxRmFZd0tFd1QtZzJpZkh0M1JYZlBpblQ1SW5PMVVwUkhQbFFnOWtkcVJZV0VZX0MxTGZRSjNXbVljNkVHSkUwcnM1Mlo1SXVyRnFEVl80ZW5ERm1DcG80R0c2WDZ3XzVrLVgtSU9JRVdIbndtWWlIdHdId1JWRzd5ZFh6U05XZUZUaGxOYkxGQkxoVnc1WUZpRHVYc0xPeGZJOWNJdWlpeEVlWDIzX0VLMXFHODFTTWhKck83TVViNG9VVnMtMUo2SzlNdklobmVNc09XQ1BBN9IBiwJBVV95cUxPUGtjQUZQdkVLdlpobTdGWmxSOGtKZFJCdG5FaVFBNUxvXzcyMnRXTndCaUU2Q2N1NThXZ0k1ZDNQcVV1YkU3c3dUbTJSRTFuM3NMRmM1RUdRYkFGSzVyUFFoZThmYmZJQkpiRWVmRzA1QkN4RGgybERDRG55djVMVEtmREQwX2pRM2FOUGVPSEJKT0lvTXZLYWpWZzlGNEdsRE4xX2VDeXZqTnZuazdkeFlpQlU2NURHU2dvWHF2cUU0VEJwc21aVGhuaHlsdUhpeVBsQzJxYzN0NmZpbnQwS3h3YnJaTGZfVnBLRDNZVlBXdjZsdUl6dXNmTlRJOW1Dam1pSUZxVU92cm8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Three out of three for TR Baalu? Or will we see a Sriperumbudur surprise? - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2xOeE5TS2d1QVl5SWFaOTBheFlOSFhObkRHNkdQanlUdTg5R1RyMUl2Q2pmVXZZZW15cEJqSXdJS2htTVJHZ203WFNSN2xJb0NZNENmQXlJTS1zMmRBc0poa2tCMjBhdmZna2trZ19NOG5RTVpJOTlSekhuWUNrcWtESXhVa3dTb0ZmVUVjSnFyMFM4TFItWTYxM2N1eHU1TEtIb1YxNkRFXzdzdVc1R3FmMEd6ZVNCZlNJZ19PSVp1TEXSAdABQVVfeXFMUEt4Ul9tZTZIZWNEaWIzMXBXVmhzcE95NndFaG03XzNpamJZSXdYbFJ5dXlfaThqX2hYaXpBSFFIdzZuc0NfT1hrVU4wVDNjMktKandOalRSaF9yMkFnMF85R0FKQXRHRVdWa1BBRFJYZGQ2eDk5ZlAtRF9JWEx4NEt2VlNHNEhYOFpGZUdGeVNKMVBzcl9vMmFITEMtU09NMXlkQl9tSVA5MHBFT1M3alU3M0Fkd2FwR0lZVjdaaVpIZjREUlZfeUlIakVlYllWRw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sriperumbudur Lok Sabha Seat Result 2024: DMK's TR Baalu Wins by Over 4.8 Lakh Votes - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQThIQWhwa29sNVVNMmE5OFFmSnlxNUhyX3RJZkxrOGQ1b0tGajdjZXJabHRXc3pLQV8tS09WRlp2X3JXRGNROGRFclB4MWd2QVJwNUczLTBadHd3a2Z1Ti1jaWswTlhDQm1wMGJaRjR5UjhCblg2Vlp0YWxROXZnNWZ6MDVWWjRDOG5SRzdUODJEekpqZk83elFYdk9ENzFkaFRDQVN3MHFnR2w4TTQ5cnFYY0VMVURJUWdqaDlDbG1yTl9wbFFxcUEtYWJHYkZYWlJ1alg5X0hKeUhoVlBhbXVXT29IektiQ3d3VlRDOXRwRDViblVCakVXazNabjluOVFmb3QyTzZVaFlhN3NQdVNWbEtUMTIwTGozSjVPcUxmTzJHYndjbXNR0gGvAkFVX3lxTE0tY19UeDJIeVJGTXZKQ1NleHpoN09zWm5WdmVYRmlBNVA4Zzk1QjIxXzA5S29xZ2ZleXJ4cVIycmhYc185THpiNGZMLU5FWnBkNmVZc1ZEUnNSZU5TMFdOaG1USTdZQ1FiRWU3Y01jQXQxQS1qR01tbHo0X192bDhZTElDaU9INGdlMmYwMlVKQ0ZqdGNKR2Mza3AwYTZiU251WEozUVBjM2didmlkeGxyUUlIVlV1aXFsN0dhUHdWMGgtUHVMYW9sYmdMcGdvTnJuamdDRXYzM1VzNE5qTFQ0bFN0Q3BQajB6bG9OQ3BDTjNEajVTMXY2TjZMNHVMaWE4N1ZGTlpuS0tBeXUwcVZIQnhHbC1qVEZSeWdLSDBlOXotT3VabDI5VWpCOVdIYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sriperumbudur election results 2024 live updates: DMK's TR Baalu wins with over 4.8 lakh vote margin - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNNEhhb3pHNlVEbGYxWEFjd3J4ZTFoRHNycXNHZjNRdVYya282c0t3WHFXbDN1aGVlLWpBQm5KWkJSTksyZm1EdVNIMV9YaDVGWUl2Qk9VaFprN3NGRW9rMk15U0NUZHQ3bWxrVERJakdUY2RFTnVKRmNTN0MyTGhlYm85X2hCaTk2Y3dyS3hETXNpUndvaWNZN1ZjR0pOcGVIeUxRN2RNb1ZmX2h0SDlsWFVJVGVfM0UwR3Z5TUlyZV9DX2c1ZFJVSEgtaHJNSk1tUmpjQlVKY05qVVIxN2tja0ZIZlJjclV0NHh1MVg4ZUtKUzRzRlZNRU5uOWRCM0luSmlFU1F5eGZ5TS1hcEVJZUR1cGhxOG9Kem1ZTHpWTURnMHdkZzc0V0puZFZuTmp0MTk3Z3BKNXJ0S29fOWhuTHJn0gHHAkFVX3lxTE5PRVp6VURmUjk2RmNWdWQwSnhVc0lqZ3RXMVRCajhNdXBoUGJaR05WWnJKSW9MLVlyakNoOFAtSUpaY0tvV2VfRlhlSGpQblFpV2pudWVHMUJOeDA2Q2tEeHp3c0FaYjJZbFlMczNqZWFhQXN3czBVNHI3d3UySEhpVUtzNF9mVjRZN19helZpaEZkM0tNR0ZDYnozTU5OMlhzU1NPbTUwOTNBNW9aVU1zbDU0YUVBZFR4OXBlQ3JLNHVKdHczX0w5N1NmcldFRkJYTlRCYjdpc044RXBBUVlCQzNwWkg5TTVjSWVpalk3ZG9lZHEwcFVGNm91Z0dZbXBlTzhXY0xDSkt6a0psTElCWHJqUG9FZkFyVk5zSEw2LWRmU2k1RW1OVFZrY0xDdTVxdlBVa29hbzgwRDRJd1dVSTR2Q1lNdw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:32:29.561626Z",
+    "collected_at": "2026-09-02T14:58:44.872627Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.757253Z",
+          "fetched_at": "2026-09-02T18:38:10.274619Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.757261Z",
+          "fetched_at": "2026-09-02T18:38:10.274631Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.757266Z",
+          "fetched_at": "2026-09-02T18:38:10.274636Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.757270Z",
+          "fetched_at": "2026-09-02T18:38:10.274641Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.757275Z",
+          "fetched_at": "2026-09-02T18:38:10.274648Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.757280Z",
+          "fetched_at": "2026-09-02T18:38:10.274652Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.757284Z",
+          "fetched_at": "2026-09-02T18:38:10.274657Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -271,35 +327,27 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Land acquisition for Parandur airport has begun, says MP T.R. Baalu - The Hindu",
+          "headline": "After cross-examination, DMK MP TR Baalu drops defamation case against K Annamalai - The South First",
+          "source": "The South First",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXlLQjFtczhxSkpsUXdCdWNsX3pISGFRdExINkMxNWh6dHAtNkRtMWhVVFJYUTVvM1BEM1BYcUx6NWprWUV3TWpKblhQNVc5bTYyV0lNQlZUYjBPeEUxenR2Q2JGN2F6MC1fVF9ITFlYWUhlY01jQlZKdHlzNmpZeTEyQWdTR1Q5d0JtYl9BSVllRFNFTHFtSXo4QjNiWXBBQkxMSk93VG8tMzdIRGdoSnJsMHY4b1lMV0E?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Constituency Watch: Sriperumbudur - several unfulfilled civic infrastructure promises are raised by constituents - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREJNRGN2My1iN19UWWsxd2MzdzlxUEJaMUxvZ015OUw1VEpWY08zMDdjRzlyNkt5OVE1Z3JFb1d5Y0N3cHdJUTBtMllsbzZQNVA1NmgyeWxSQ0ZrZUdadnhNcWNQV0xUY2g4N1lqTV9sb0NJYi1VZ1prYTJLZ3VDSnA4MEd1RHlLT09wSWxUaE9jZnFka2k3M0xtQnJfMlFoQTlDV3BVMXFLdjdtOFlmRm96MnhtcGRUSElsZ1R3NXh0dkFUU3RuZdIBzwFBVV95cUxObHFuZjNMbGdGNWs0SEQ0X1g0SXhLRFpYY0N0bEloQXRLcWxfeEV0YUM4YThYYzdTc0thajU1eEhkQno2c1BLOUw4NEplR2RyYzFwbzN0ZldWNWlULU1rQXR6RFZwSWVCMXdySTB6YlJmLWRHX1BYVWsyVXZZQW5WYmswNzJNWlJHckl3TFdOcHNIa083cnNpY1ptVkE1MHM0a2I5VV92VEswbFZ2dEd5Nm93R2Zidnl6UG5aWnB2NjU5NzhOTUtmcXN2SFZmS0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSS0td3lzTUt6MlpsT0RQNDQtTUpQbVptY3EtYmhIcXNsN0theHlJd0ZLQXlxRmFZd0tFd1QtZzJpZkh0M1JYZlBpblQ1SW5PMVVwUkhQbFFnOWtkcVJZV0VZX0MxTGZRSjNXbVljNkVHSkUwcnM1Mlo1SXVyRnFEVl80ZW5ERm1DcG80R0c2WDZ3XzVrLVgtSU9JRVdIbndtWWlIdHdId1JWRzd5ZFh6U05XZUZUaGxOYkxGQkxoVnc1WUZpRHVYc0xPeGZJOWNJdWlpeEVlWDIzX0VLMXFHODFTTWhKck83TVViNG9VVnMtMUo2SzlNdklobmVNc09XQ1BBN9IBiwJBVV95cUxPUGtjQUZQdkVLdlpobTdGWmxSOGtKZFJCdG5FaVFBNUxvXzcyMnRXTndCaUU2Q2N1NThXZ0k1ZDNQcVV1YkU3c3dUbTJSRTFuM3NMRmM1RUdRYkFGSzVyUFFoZThmYmZJQkpiRWVmRzA1QkN4RGgybERDRG55djVMVEtmREQwX2pRM2FOUGVPSEJKT0lvTXZLYWpWZzlGNEdsRE4xX2VDeXZqTnZuazdkeFlpQlU2NURHU2dvWHF2cUU0VEJwc21aVGhuaHlsdUhpeVBsQzJxYzN0NmZpbnQwS3h3YnJaTGZfVnBLRDNZVlBXdjZsdUl6dXNmTlRJOW1Dam1pSUZxVU92cm8?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Panel to clear obstacles near city airport runway - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "Three out of three for TR Baalu? Or will we see a Sriperumbudur surprise? - newindianexpress.com",
+          "source": "newindianexpress.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcC04UmxzSEJQV3JwTzdGeHI4U1dtNXJaZEdDR0Q1Z2g5VFZqYXpYeTJYRDBxcnpJRWFwa2ZwN1AwVDk1dC12SG5Ock5yeTNNR3E3VUNycTI5cGFmdFpXTDRxcl9ueW5nYjI4N1VCb2o4eHlhc2N4VTRCR19XMDdnZENtTC1iR3BlRF9KYWRYam1jQlZxR01mcVozTWhBZ2s2c3VpNktZcTR6LWJVT2fSAbsBQVVfeXFMTi1SS1I5TlA5bjBXY3JGSnFIYnRRd3o4SUV5Z1ZRNzRGcWdldFRXQ2tFWUlQNGstb1Rxa2pRTFl5NkVVcE9hdHE2WlRBQ0IzUzRBTkQ0X2JRek1fY1JYVFhRNHVta29RcUlZZ0xwM3Z5TFBPY093RkdxYlZXQXZnSk9jZGRWenVYYmFHeEtRa2VPUHdZMjJOcy1QUVJQR0RwU21VdlRWcGJycFZWT290bllKM3FiX0FkQzBWOA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Meet TR Baalu, MP-elect from Sriperumbudur - Citizen Matters",
-          "source": "Citizen Matters",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05Zm9zcHZPNkhDWXZYTFdvQUF4cXJpejVPUGVBam1QWERfWW5xaEh0dzQzZlJfQ1ZBbGhtTDBPMW5rZU01eXJpWXowZksxMUxVb2ZnQXlWZzVxZFZOaVFBVS1JZTc5Mk1MZGFIaXBWRXhqTUszcDhB?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Sriperumbudur election results 2024 live updates: DMK's TR Baalu wins with over 4.8 lakh vote margin - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNNEhhb3pHNlVEbGYxWEFjd3J4ZTFoRHNycXNHZjNRdVYya282c0t3WHFXbDN1aGVlLWpBQm5KWkJSTksyZm1EdVNIMV9YaDVGWUl2Qk9VaFprN3NGRW9rMk15U0NUZHQ3bWxrVERJakdUY2RFTnVKRmNTN0MyTGhlYm85X2hCaTk2Y3dyS3hETXNpUndvaWNZN1ZjR0pOcGVIeUxRN2RNb1ZmX2h0SDlsWFVJVGVfM0UwR3Z5TUlyZV9DX2c1ZFJVSEgtaHJNSk1tUmpjQlVKY05qVVIxN2tja0ZIZlJjclV0NHh1MVg4ZUtKUzRzRlZNRU5uOWRCM0luSmlFU1F5eGZ5TS1hcEVJZUR1cGhxOG9Kem1ZTHpWTURnMHdkZzc0V0puZFZuTmp0MTk3Z3BKNXJ0S29fOWhuTHJn0gHHAkFVX3lxTE5PRVp6VURmUjk2RmNWdWQwSnhVc0lqZ3RXMVRCajhNdXBoUGJaR05WWnJKSW9MLVlyakNoOFAtSUpaY0tvV2VfRlhlSGpQblFpV2pudWVHMUJOeDA2Q2tEeHp3c0FaYjJZbFlMczNqZWFhQXN3czBVNHI3d3UySEhpVUtzNF9mVjRZN19helZpaEZkM0tNR0ZDYnozTU5OMlhzU1NPbTUwOTNBNW9aVU1zbDU0YUVBZFR4OXBlQ3JLNHVKdHczX0w5N1NmcldFRkJYTlRCYjdpc044RXBBUVlCQzNwWkg5TTVjSWVpalk3ZG9lZHEwcFVGNm91Z0dZbXBlTzhXY0xDSkt6a0psTElCWHJqUG9FZkFyVk5zSEw2LWRmU2k1RW1OVFZrY0xDdTVxdlBVa29hbzgwRDRJd1dVSTR2Q1lNdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2xOeE5TS2d1QVl5SWFaOTBheFlOSFhObkRHNkdQanlUdTg5R1RyMUl2Q2pmVXZZZW15cEJqSXdJS2htTVJHZ203WFNSN2xJb0NZNENmQXlJTS1zMmRBc0poa2tCMjBhdmZna2trZ19NOG5RTVpJOTlSekhuWUNrcWtESXhVa3dTb0ZmVUVjSnFyMFM4TFItWTYxM2N1eHU1TEtIb1YxNkRFXzdzdVc1R3FmMEd6ZVNCZlNJZ19PSVp1TEXSAdABQVVfeXFMUEt4Ul9tZTZIZWNEaWIzMXBXVmhzcE95NndFaG03XzNpamJZSXdYbFJ5dXlfaThqX2hYaXpBSFFIdzZuc0NfT1hrVU4wVDNjMktKandOalRSaF9yMkFnMF85R0FKQXRHRVdWa1BBRFJYZGQ2eDk5ZlAtRF9JWEx4NEt2VlNHNEhYOFpGZUdGeVNKMVBzcl9vMmFITEMtU09NMXlkQl9tSVA5MHBFT1M3alU3M0Fkd2FwR0lZVjdaaVpIZjREUlZfeUlIakVlYllWRw?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -308,6 +356,14 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQThIQWhwa29sNVVNMmE5OFFmSnlxNUhyX3RJZkxrOGQ1b0tGajdjZXJabHRXc3pLQV8tS09WRlp2X3JXRGNROGRFclB4MWd2QVJwNUczLTBadHd3a2Z1Ti1jaWswTlhDQm1wMGJaRjR5UjhCblg2Vlp0YWxROXZnNWZ6MDVWWjRDOG5SRzdUODJEekpqZk83elFYdk9ENzFkaFRDQVN3MHFnR2w4TTQ5cnFYY0VMVURJUWdqaDlDbG1yTl9wbFFxcUEtYWJHYkZYWlJ1alg5X0hKeUhoVlBhbXVXT29IektiQ3d3VlRDOXRwRDViblVCakVXazNabjluOVFmb3QyTzZVaFlhN3NQdVNWbEtUMTIwTGozSjVPcUxmTzJHYndjbXNR0gGvAkFVX3lxTE0tY19UeDJIeVJGTXZKQ1NleHpoN09zWm5WdmVYRmlBNVA4Zzk1QjIxXzA5S29xZ2ZleXJ4cVIycmhYc185THpiNGZMLU5FWnBkNmVZc1ZEUnNSZU5TMFdOaG1USTdZQ1FiRWU3Y01jQXQxQS1qR01tbHo0X192bDhZTElDaU9INGdlMmYwMlVKQ0ZqdGNKR2Mza3AwYTZiU251WEozUVBjM2didmlkeGxyUUlIVlV1aXFsN0dhUHdWMGgtUHVMYW9sYmdMcGdvTnJuamdDRXYzM1VzNE5qTFQ0bFN0Q3BQajB6bG9OQ3BDTjNEajVTMXY2TjZMNHVMaWE4N1ZGTlpuS0tBeXUwcVZIQnhHbC1qVEZSeWdLSDBlOXotT3VabDI5VWpCOVdIYw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Sriperumbudur election results 2024 live updates: DMK's TR Baalu wins with over 4.8 lakh vote margin - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNNEhhb3pHNlVEbGYxWEFjd3J4ZTFoRHNycXNHZjNRdVYya282c0t3WHFXbDN1aGVlLWpBQm5KWkJSTksyZm1EdVNIMV9YaDVGWUl2Qk9VaFprN3NGRW9rMk15U0NUZHQ3bWxrVERJakdUY2RFTnVKRmNTN0MyTGhlYm85X2hCaTk2Y3dyS3hETXNpUndvaWNZN1ZjR0pOcGVIeUxRN2RNb1ZmX2h0SDlsWFVJVGVfM0UwR3Z5TUlyZV9DX2c1ZFJVSEgtaHJNSk1tUmpjQlVKY05qVVIxN2tja0ZIZlJjclV0NHh1MVg4ZUtKUzRzRlZNRU5uOWRCM0luSmlFU1F5eGZ5TS1hcEVJZUR1cGhxOG9Kem1ZTHpWTURnMHdkZzc0V0puZFZuTmp0MTk3Z3BKNXJ0S29fOWhuTHJn0gHHAkFVX3lxTE5PRVp6VURmUjk2RmNWdWQwSnhVc0lqZ3RXMVRCajhNdXBoUGJaR05WWnJKSW9MLVlyakNoOFAtSUpaY0tvV2VfRlhlSGpQblFpV2pudWVHMUJOeDA2Q2tEeHp3c0FaYjJZbFlMczNqZWFhQXN3czBVNHI3d3UySEhpVUtzNF9mVjRZN19helZpaEZkM0tNR0ZDYnozTU5OMlhzU1NPbTUwOTNBNW9aVU1zbDU0YUVBZFR4OXBlQ3JLNHVKdHczX0w5N1NmcldFRkJYTlRCYjdpc044RXBBUVlCQzNwWkg5TTVjSWVpalk3ZG9lZHEwcFVGNm91Z0dZbXBlTzhXY0xDSkt6a0psTElCWHJqUG9FZkFyVk5zSEw2LWRmU2k1RW1OVFZrY0xDdTVxdlBVa29hbzgwRDRJd1dVSTR2Q1lNdw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -341,15 +397,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 32,
+      "starred_questions": 9,
+      "unstarred_questions": 23,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 61.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +413,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +444,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +477,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 457,302,056. MPLADS utilization: 26.1%. Parliament attendance: 85.0%. Questions asked: 32. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:52.757998Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 32. Debates participated: 4. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.275362Z"
 }

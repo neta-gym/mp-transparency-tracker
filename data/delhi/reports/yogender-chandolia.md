@@ -7,39 +7,38 @@
 **Education:** Graduate
 **Profession:** Business
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.1 / 100
+## Composite Transparency Score: 69.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 1.7 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 70.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 85.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 3
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 3
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
 ### Cases Detail
 
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: 298/2020) 
-3. No description (Sections: 265/2020) 
+1. 298/2020, P.S. Desh Bandhu Gupta Road | Section 3 of PDPP Act 1984 (Sections: 188, 269, 147, 148, 149, 427) [pending] 
+2. 265/2020, P.S. Prasad Nagar (Sections: 186, 353, 356, 341, 34) [pending] 
 
 ---
 
@@ -50,19 +49,19 @@
 - **Total Assets:** Rs 2.76 Crore
 - **Liabilities:** Rs 9.39 Lakh
 - **Net Worth:** Rs 2.67 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 24% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 5011220.50 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 0% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 4
-- **Expended:** Rs 0
-- **Utilization Rate:** 2.2%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -76,18 +75,32 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- 3 Delhi BJP MPs attend Sajjan Kumar condolence meeting, pulled up by Nitin Nabin - The Indian Express (The Indian Express) [neutral]
+- Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit - The New Indian Express (The New Indian Express) [neutral]
+- BJP Reprimands 3 MPs for Attending 1984 Anti-Sikh Riot Convict Sajjan Kumar’s Prayer Meeting - Revoi.in (Revoi.in) [neutral]
+- Rs 18,000-crore projects reshaped North West Delhi: MP Chandolia - The Tribune (The Tribune) [neutral]
 - BJP MP Chandolia visits areas in Kirari, directs officials for faster remedial action for water-logging - The Statesman (The Statesman) [neutral]
-- Delhi MPs recommend works, little built nearly two years into term - thepatriot.in (thepatriot.in) [neutral]
-- CM Rekha Gupta Lays Foundation for 49 Rural Development Projects Worth Rs 264 Crore in Mundka - Daily Pioneer (Daily Pioneer) [positive]
-- Rekha lays foundation for Rs 264 cr works in Mundka - The Hans India (The Hans India) [neutral]
-- Explained: Why did a court direct framing of charges against Delhi BJP MP Yogender Chandolia? - The Indian Express (The Indian Express) [neutral]
 
 ---
 
@@ -100,9 +113,19 @@
 
 ---
 
+## News & Allegations
+
+- ! **3 Delhi BJP MPs attend Sajjan Kumar condolence meeting, pulled up by Nitin Nabin - The Indian Express** (The Indian Express)
+- ! **Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit - The New Indian Express** (The New Indian Express)
+- ! **BJP Reprimands 3 MPs for Attending 1984 Anti-Sikh Riot Convict Sajjan Kumar’s Prayer Meeting - Revoi.in** (Revoi.in)
+- ! **Rs 18,000-crore projects reshaped North West Delhi: MP Chandolia - The Tribune** (The Tribune)
+- ! **BJP MP Chandolia visits areas in Kirari, directs officials for faster remedial action for water-logging - The Statesman** (The Statesman)
+
+---
+
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Delhi: 8 relevant findings
@@ -111,11 +134,11 @@
 
 ## Qualitative Assessment
 
-Yogender Chandolia shows moderate transparency with a score of 52.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Yogender Chandolia shows moderate transparency with a score of 69.0/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 27,623,483. MPLADS utilization: 2.2%. Parliament attendance: 100.0%. Questions asked: 47. Debates participated: 9. 1 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 27,623,483. Parliament attendance: 100.0%. Questions asked: 47. Debates participated: 9. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -155,7 +178,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -234,8 +257,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Yogender Chandolia's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 2.2%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -254,11 +275,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

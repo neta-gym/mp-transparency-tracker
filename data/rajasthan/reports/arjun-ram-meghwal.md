@@ -7,21 +7,21 @@
 **Education:** Post Graduate
 **Profession:** Member of Parliament Salary, Pension Interest income
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (36%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 49.6 / 100
+## Composite Transparency Score: 63.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 14.1 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,24 +39,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 2.84 Crore
+- **Immovable Assets:** Rs 92.70 Lakh
 - **Total Assets:** Rs 3.77 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 3.77 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 31% of Lok Sabha MPs
+- **Liabilities:** N/A
+- **Net Worth:** N/A
+- **Previous Total Assets:** Rs 235244592.00 Crore
+- **Asset Growth:** -100.0%
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 6
-- **Expended:** Rs 3
-- **Utilization Rate:** 17.7%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -70,6 +69,20 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,16 +90,27 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Shah likely to visit Bikaner to review border security - MSN (MSN) [neutral]
+- HM Amit Shah to Visit Bikaner, Review Border Security and Anti-Infiltration Measures - Elets eGov (Elets eGov) [neutral]
+- Shah likely to visit Bikaner to review border security - The Times of India (The Times of India) [neutral]
+- HM Amit Shah to visit Bikaner on May 25-26; Rajasthan Chief Secy reviews security arrangements - tennews.in (tennews.in) [neutral]
 - Bikaji CMD Shiv Ratan Agarwal Passes Away In Chennai - ETV Bharat (ETV Bharat) [neutral]
 - Lok Sabha Polls: 5 Points On Arjun Ram Meghwal, BJP Candidate From Bikaner - NDTV (NDTV) [neutral]
-- Bikaner election results 2024 live updates: BJP's Arjun Ram Meghwal defeats Congress's Govindram Meghwal - The Times of India (The Times of India) [neutral]
-- No current plan to drop ‘socialism’, ‘secularism' from Preamble: Law Minister Arjun Meghwal - The New Indian Express (The New Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **HM Amit Shah to Visit Bikaner, Review Border Security and Anti-Infiltration Measures - Elets eGov** (Elets eGov)
+- ! **Shah likely to visit Bikaner to review border security - The Times of India** (The Times of India)
+- ! **HM Amit Shah to visit Bikaner on May 25-26; Rajasthan Chief Secy reviews security arrangements - tennews.in** (tennews.in)
+- ! **Bikaji CMD Shiv Ratan Agarwal Passes Away In Chennai - ETV Bharat** (ETV Bharat)
+- ! **Lok Sabha Polls: 5 Points On Arjun Ram Meghwal, BJP Candidate From Bikaner - NDTV** (NDTV)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -96,11 +120,11 @@
 
 ## Qualitative Assessment
 
-Arjun Ram Meghwal has a below-average transparency score of 49.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Arjun Ram Meghwal shows moderate transparency with a score of 63.5/100. No criminal cases declared.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 37,654,863. MPLADS utilization: 17.7%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 37,654,863. Low confidence data: MPLADS, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -140,7 +164,7 @@ No criminal cases declared. Declared assets: Rs 37,654,863. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -219,8 +243,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Arjun Ram Meghwal's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 17.7%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -239,11 +261,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

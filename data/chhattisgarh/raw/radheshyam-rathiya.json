@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 10650781.0,
-    "liabilities": 124610.0,
-    "net_worth": 10526171.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 8.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.75,
-    "expended": 7.28,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:20.601291Z",
-        "notes": "Official eSAKSHI REST API — Works: 138 recommended, 136 sanctioned, 54 completed"
+        "fetched_at": "2026-09-02T14:43:31.999511Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:39:52.328934Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:39:52.326279Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 138,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 49.523809523809526
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:11.577794Z",
+        "fetched_at": "2026-09-02T14:39:52.325268Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Raigarh - Bharatiya Janata Party",
+      "source": "Bharatiya Janata Party",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OamZtVmd5blp2Z0NVZVVXZERqeFNod05veGU1S0hyQm1LYUswaUJTQmZyOFZFRm1nN3FRSDYxd1Vycl92XzBVSUp2NE9HckE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chhattisgarh key seats: BJP fields Rathiya from CM Sai’s home turf Raigarh - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMnVMNTdkTTFCdE1Zdm9lWUU2dWJ4aXRUSzNOV2JOQnJibVNETHE1ME4tdkM1NXRmRm1pTG5HTXlvSlluVVBnUlJsdWxQdmNoT19iUmQzQUh0aF95QUZ0VW5hMDJod2pwUDlTVjFjSVlVVE4yVFI2S0NhYnpfWmItREVmcnpza2ZRdU4zLTNmUzM1Ym9JZDRxaXF1enJBWWFpSEl6ZHBNTnJ4QjjSAbABQVVfeXFMT3lBM0h6a054WDI0azlEYUZVT2lqRURMeEpUZHpSV3dBSUtGVlh0cjBiMlFuRjQ5UzVOUW4wNFJjYXpQZFAtdl9VYUs2cTdTdDJtNHd4bFNkMzltX1lUcWNnWXpYVWdyYTQzUll1d2p0cFlEbmhhRGQyQTJXdG9hYkFwaldFdDYtMzJldDl3bDZEUVN6WlNydVhjVm0tdXlPZnZPRlM4bjNEaW1pUjRzYU4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "After sister's win 33 years ago, Gond royal in Chhattisgarh aims to reclaim lost bastion - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXpUbHpmcUFvUFpiN3BUYVV4bkRkaGpad3VLLURDN2JROEgtV3l5R2lwMGRIdUhEYm5IYVo1Q2RnZEpRNjBMYmpobkRqcE9lc2I4V014ZDU0WHZ6QjZlbXpuYXhYcVpGNjZxSVZOTVdPZ25PU3pyMko0VktZZGRDLXVDOU45dVlwT3FMal9HNjZfa3Q1T2JPVVR6U25FRDVXTW45VHE5dldLUVVxbjFJSkduSU9ibTlxMTg0bVZsYlllQjU1QkNlYUxaa0hpUEgzYzQ5Q01rcEgxSXhIWHBHeXRjbVp3Z9IB7AFBVV95cUxNZGluSmxKaGlWUDI1aVJtRWpjcWxQTzU4eU1INHI0aU9NT1VfeGFCTUZueHE2bnNFZFZtbzBHR1hPeGxtTzd5cjJVeGpRSUdraWhDMEFWU1FxcnhRc0FjRWw3QVNBN0s1cW5mRGlzUVpiT1hRTXZZdDV4c0RPMWNLcFppdHptODFjdXlfZEdzc194VUl1WTVPWFRCTnBMOVBPOGpyeXFvX0RpS3RsS2FaSzJqZWx1Tnl3d0l0YXA4U3BQTklEckdZcExGcm5pYUhKNElRNHdRUFV0WnhTZ0YxazBieTNzMXZTZlppeQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXRYVVN2OE9QTHQ0NWdSbklRVjhYbFFkclRfYklCWDl4VlA1MWZWLWpld3pPczdOd3p2QmIwckxYZWh3a3VXNHB6emJFTkN6Q1h5V0dUamlabGQ2TEVlMW9HRWstdmd0ZVhXbEdhTDFKcFBsTWlJbFhZS1VpSzBqYmh2bmZrVXc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "LS Polls 2024: BJP Fields Cong Turncoat Chintamani Maharaj In C’garh, Drops 4 Sitting MPs - ABP Live English",
+      "source": "ABP Live English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWFhtTkFhaVBBRUlkSVhhUVJTMFdGRFJmNzczek1lYWt0R3pNV0I0UDNMT2VPUVlnaVdmenh0WmpxRGFlcmJaenB6SUFUN3JXQ3U3dkNHRElKeU9hVnAxYTl2Nnp3M24xb3pwZ2xxTHNfRktvYllhUmNrcVJ4aDhyUktReXpkSE9nY1dndXN0RV9OWDNXSzI3OElhTk94OVZVc01VR2F1OGF2SkszVFJUSFlZMk9IYlpSdnMtZ2o3ODlxWFZMUUt6cjJDQkFreTA4X3BfUG9RaDNPd0lIOVHSAeMBQVVfeXFMUE4xenZvMS0yelhyTDZ6WGh1WnhnZTZZS3JrMFRuTTNVSjdpYmQ1REFGQUJoYTJ2dDFPcHJwNnVzX0NUZ0dVM0xFdlJUVXZqMlpRN3BVMXEyRVlaWFpNZDg5TnQwUkxjc1BENkljaUJhNVZxQVpOQmktZkM3WFJfcDdjNF9BenNEZldDWDNrdkJhaVJ4NkRhbGxpRXo4QWdYNThZUjNaZ1JKVUxabFdxNDExYndRcG9OejhSTjZ5TDRjamt3MnFPNzhUZC1IcC15MTVxS1hENURidXJWM1B0d182ZGs?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:01.837907Z",
+  "collected_at": "2026-09-02T14:43:32.000401Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.664357Z",
+        "fetched_at": "2026-09-02T18:38:05.263581Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.664371Z",
+        "fetched_at": "2026-09-02T18:38:05.263598Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.664378Z",
+        "fetched_at": "2026-09-02T18:38:05.263604Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.664385Z",
+        "fetched_at": "2026-09-02T18:38:05.263609Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.664392Z",
+        "fetched_at": "2026-09-02T18:38:05.263616Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.664396Z",
+        "fetched_at": "2026-09-02T18:38:05.263621Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.664401Z",
+        "fetched_at": "2026-09-02T18:38:05.263625Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -247,25 +303,25 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 8,
+    "total_articles": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 8,
+    "neutral": 7,
     "top_headlines": [
       {
-        "headline": "Raigarh (ST) Chhattisgarh Bharatiya Janata Party - The Times of India",
-        "source": "The Times of India",
+        "headline": "Raigarh - Bharatiya Janata Party",
+        "source": "Bharatiya Janata Party",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2FEbzBrQXNLUmFhQWs5X1JkR2xINnZESXkwNzN1MkMzLVRZVE01VDBYdEtKZ2QzTW5WSW02Z19tVTl0SWNIYi02ZmlrX2tlMm5lZ0hRQlU0YTNFeWFoYkxETnpUaV9YdGVlVEdLcTRlU3N0VlhaeElvTmRfZGJkU1cxbFl0SGpxQ29lSzZRQU5TNll4NFl5QjdJN2JfRDRaZndSX1YyNnMtYm9UbERoYlR5X2ZfTmpVVHVsMml5S0J3QQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OamZtVmd5blp2Z0NVZVVXZERqeFNod05veGU1S0hyQm1LYUswaUJTQmZyOFZFRm1nN3FRSDYxd1Vycl92XzBVSUp2NE9HckE?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Raigarh lok sabha election results 2024: Raigarh Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Chhattisgarh key seats: BJP fields Rathiya from CM Sai’s home turf Raigarh - ThePrint",
+        "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWg0UWhmaHBxc2hfU2h4RS11eVQtdUZoWVZwekp0cTMySFVpdVdsMHQybkRSZ1lmdWo3aTltTzhtdS00d3FuWmN0OUtOaUpQRW1sUEVfeEVETFJrd0hrUEVvT0MtcTM3NGxib0MxU2JtMlhrUjlYUHdNVThYNFRnR2hvNmR4VDZxaHdwakwtSk9TdUVTOE8w?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMnVMNTdkTTFCdE1Zdm9lWUU2dWJ4aXRUSzNOV2JOQnJibVNETHE1ME4tdkM1NXRmRm1pTG5HTXlvSlluVVBnUlJsdWxQdmNoT19iUmQzQUh0aF95QUZ0VW5hMDJod2pwUDlTVjFjSVlVVE4yVFI2S0NhYnpfWmItREVmcnpza2ZRdU4zLTNmUzM1Ym9JZDRxaXF1enJBWWFpSEl6ZHBNTnJ4QjjSAbABQVVfeXFMT3lBM0h6a054WDI0azlEYUZVT2lqRURMeEpUZHpSV3dBSUtGVlh0cjBiMlFuRjQ5UzVOUW4wNFJjYXpQZFAtdl9VYUs2cTdTdDJtNHd4bFNkMzltX1lUcWNnWXpYVWdyYTQzUll1d2p0cFlEbmhhRGQyQTJXdG9hYkFwaldFdDYtMzJldDl3bDZEUVN6WlNydVhjVm0tdXlPZnZPRlM4bjNEaW1pUjRzYU4?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -277,23 +333,23 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Chhattisgarh begins Ready-to-Eat food initiative with women SHGs, CM Sai launches program in Raigarh - Editorji",
-        "source": "Editorji",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQk8tTzR5U2J2dlNWT01GeWhHOXJvX1NBbXNUTXZXbWRWc0F6a25aVkZ0TWsxQmdiZUZmQ2hpQjQtekd6RjIwVDBrSGkzNzhUcFA5X3dVZ28yaXFobmdsb2pBR2Q2NGVMMWdGZ0dKczllMjBCX283aks1UWVpbFY2Y2djS2RBa016UEhXWHhlLXBzWFBmOTZJN0hfTUdLem9sN0trNVpBVWpxcnk0RFFTcGhDZGJDOV9pR1FKdzFOeUJiakxWazlnMkxWX2NEOEhHcEFJNEhqY292NVJCdmFCRkYtR1NHYXhELWZ3Qy1YNlBJcmtZ0gH6AUFVX3lxTE0yT043SFBSRy1wX0V4Tl9VcGx3UG1ZQjBhMDJDZ1lTYzlhRTNWWUg0QlZnR2ctaVhheUM0M3NZcF80azVwYXhTckhTZjJ1dUUzMC1jOW5lcjFBQTVVNUVudEV4Z3Vra19OU2wzZGZFZm8zdDVFT3Q0S3hxRUpyb3BLMl9pTGdubDg4SFlSd3JzVjZXOU5YbnpSeXVrWTVFT3lPVlhwb1cwYnFoR01rYk1LNDlGVF9RTWJVUHpaTnNEODZuTUVGdzR6RDZDWVUtN0JxMkViaDRpUzFaY1I0QV9naHRJNmhGQzh2dUUzeDNqWE95ZHBSalktVnc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXRYVVN2OE9QTHQ0NWdSbklRVjhYbFFkclRfYklCWDl4VlA1MWZWLWpld3pPczdOd3p2QmIwckxYZWh3a3VXNHB6emJFTkN6Q1h5V0dUamlabGQ2TEVlMW9HRWstdmd0ZVhXbEdhTDFKcFBsTWlJbFhZS1VpSzBqYmh2bmZrVXc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Radheshyam Rathia: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia",
-        "source": "Oneindia",
+        "headline": "LS Polls 2024: BJP Fields Cong Turncoat Chintamani Maharaj In C’garh, Drops 4 Sitting MPs - ABP Live English",
+        "source": "ABP Live English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVMFFfc1JNeGVKZEVPS3pORjI0SGVpN21PcmxUS2Z6NmZXUnc5c21zRWd1SWJBMU5sLWRJd2l2VlpyVXo5QXhLaXA1X2Nmc1FPTTZqem9yMk4xbE5kU0xiNUZZc3h2UEhrRnZZRlkxWDRyMVU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWFhtTkFhaVBBRUlkSVhhUVJTMFdGRFJmNzczek1lYWt0R3pNV0I0UDNMT2VPUVlnaVdmenh0WmpxRGFlcmJaenB6SUFUN3JXQ3U3dkNHRElKeU9hVnAxYTl2Nnp3M24xb3pwZ2xxTHNfRktvYllhUmNrcVJ4aDhyUktReXpkSE9nY1dndXN0RV9OWDNXSzI3OElhTk94OVZVc01VR2F1OGF2SkszVFJUSFlZMk9IYlpSdnMtZ2o3ODlxWFZMUUt6cjJDQkFreTA4X3BfUG9RaDNPd0lIOVHSAeMBQVVfeXFMUE4xenZvMS0yelhyTDZ6WGh1WnhnZTZZS3JrMFRuTTNVSjdpYmQ1REFGQUJoYTJ2dDFPcHJwNnVzX0NUZ0dVM0xFdlJUVXZqMlpRN3BVMXEyRVlaWFpNZDg5TnQwUkxjc1BENkljaUJhNVZxQVpOQmktZkM3WFJfcDdjNF9BenNEZldDWDNrdkJhaVJ4NkRhbGxpRXo4QWdYNThZUjNaZ1JKVUxabFdxNDExYndRcG9OejhSTjZ5TDRjamt3MnFPNzhUZC1IcC15MTVxS1hENURidXJWM1B0d182ZGs?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (7 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -323,15 +379,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 17,
+    "starred_questions": 5,
+    "unstarred_questions": 12,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 33.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

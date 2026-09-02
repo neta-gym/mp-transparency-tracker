@@ -4,16 +4,16 @@
     "constituency": "Tiruvannamalai",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 1155,
+    "myneta_candidate_id": null,
     "slug": "c-n-annadurai",
     "house": "lok_sabha",
     "sansad_member_id": 4969,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/4969.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:22.232472Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 203686311.0,
-    "liabilities": 19156956.0,
-    "net_worth": 184529355.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1155",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.100260Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 71.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.86,
-    "released": 14.86,
-    "sanctioned": 9.09,
-    "expended": 8.0,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:10.453955Z",
-        "notes": "Official eSAKSHI REST API — Works: 195 recommended, 183 sanctioned, 124 completed"
+        "fetched_at": "2026-09-02T15:10:16.877858Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:06:28.173086Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:06:28.171006Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 195,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 53.83580080753701
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 70.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:35:52.595548Z",
+        "fetched_at": "2026-09-02T15:06:28.170187Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Water released from Kuppanatham dam in Tiruvannamalai for irrigation - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTDVrRUZ0MzZXM1c3cF83QTM5NndnS3V1ODhiUzdfckNmODdBQ0RUR28zOURSamdpM0NVZUZwR29wNUNWLS1kMEUtSl94YUhlRWJNU0o0OUk5RzVPa0pmalJKWXppS01JVkxMTnJhU3E1em10NTFTcktxSHkzZnVjR0M3c0poUmpaSjZOUm81VVFyRHZNZWpmclJRYnBwSFZKOHVoMVlQQjNMZ1Q0ZGpvWXVqc3NQc3dKak1IVkdMbkpGbHJyd0R3am5YUkNqMUIyTWdJTtIB2wFBVV95cUxNV1Y4SkxQaEtPY2xLNWtCZWpwR3Rocm1JMk9RVVRoT0xQYmVUb3o3d2tnbFJ3dVFEdW9sVm1leVdyS0lNZkNNYmo0NjN4SXZYcUtvNUE5c0NBbUxTMUc0aWJqUmxPZUxtd0w5MVBpRERLR0tmSVVRS01XTVB1bEZoWGVHVjFqT0xVa1AyLVJRSnFpbjI0QlZsWmlZc3ZTbjJ0Uk5CM25YVDRRT3U1MmRxXzNuR05FaTJXQXJ1eDhrSGM1OHlhQmoySVo2WEIzTFhjQVdIOGRya3k5azA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tiruvannamalai election results 2024 live updates: DMK's CN Annadurai wins BJP's Asuvathaman A - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNTHlKSGZqVmVBRG1LQkxYWG5kWWVHdmU2U3FuaHNyRUFWSXk5TmdESGFSVGFXMTV0ejhUNTN6ZlpXVjExME1CNHF5SkM0REx5cmV5RTZWallPX01XZ2JBWmk3NDVwOHZuOUZkTFlLTmM5LXhOUTcydF9mbXJ3ZWVyY2cyRmoxWkVHUDNsd1FpbHBwRE5KamluVHp4azBGSDJNWDZEbU1vTHlDT2Uzby1RRllGalhDN1lCTTB3OUtxLXRQSThxZG9jRk1QNFRmQzhtX0lvN1Y5NXpUM3JoS2c5TF9Rc1JTY25iU3FiZEYwV3ZWcDh0bWpiRnhCaWVaQjkxT3owUnJBQ0xPTXlVWFZpeEo3d184bjcxWkJCLUUydFc0NGVkb0hSQ2gyQm5UTGU5VHFqSFFFYmlMZF84akpqOEE5YXZ6VFBRQkM2Zl9uMDJwSnozRjJR0gHcAkFVX3lxTE53UFlCdnlpTVc2eTFjRl85RE1mTkhvNjNiZTVRMVNVZGpUalZJdmpqYVE1MUpRNG1MTG1VUmp1cHA1ZlNlQ3k3clVzS1RobHJoZmxhUkZHSVVweUY1MUxqTFZxSW80cjhsWllLOVV4VVNFNDlvcDNZazZHNkJBY3MwU0VBQzhkUllJOFVXZlJHVm5HaDBsNS1QQXRjNzR2d1lkaHdsai01VEtrejY2VGxjaWg1dC1ZMDFDbzR5R2ExdjZSeWdOcEhXQk1XUG9UYXVRRzU5enF0bE9yWS1ZRi1udmFxRmRkbjBYbHdheEZJZk1BbHZ3N05hTmRqb1FLQThRQUk0MW1COVEtc3JTUHJtRU5IRTRldS0tUU1DYU53YzdQMUdLdDNrX2JHUVVhSjg4eTYtNnJNSks4bVRVd0ZwNjZObG11OUZKN2RLSldtTHdYelkzNmxqLTFjNg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tiruvannamalai MP to seek Rs 15 cr to develop Parvathamalai - DT Next",
+      "source": "DT Next",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQk5leXlRNEtLUHRTNzN6Tk4yU2RCMlRrNWctU2hKUVFYcTR2cmtMNm0zZl9TazhkY3B3bUpFZUhJcldJcDBrRXpwWnBIc1NvcnN6Q1NKY3hLcDk3bUFnZjlIcmpPYXRBYUdEU2JiQ3dqMnBLN05mOUhFRlgtejVrcWszUzZWelYwVUE4WXAzMmY5M0w2RzdROUF3VkHSAaoBQVVfeXFMTnQtM0tZbzdCNWVvNHJ0U2hhVHlOaEo3dEg2czdMcVJuSXJTaF84UVhtdGVsRlN0MFdhU1RuWHdKNzlDOU14WWg3UVgyZkt0b3JOeE5PUmJKdDhoS2dPM19fTXJaMzFWMHNwVU9QX3hpeVdzWTJrTGttVU9tbGhXMXY1aGVPOTBmNzBZNThkdTBWdzFGTmNBN0hkQ29OZmJOSVdCSmdXS0ZHWVE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tamil Nadu CM MK Stalin unveils Karunanidhi statue in Tiruvannamalai - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWGNYZmhrMFk0c2FEb0swVllud1lYdGFzT1VSN3pDY2pzV1BKRFpqelA5Z3VPaC1teU1zckhNdU5GdUtaTW9McXQ2Mzd2T3BmNERDMVZXVmVDWHA5VHBTV2JUVlluUGJzb2VzWncyeFd2c2RqcXVqc1o1RGhyVGYyMW5YeGo2WFhJaGtrV2RJUmRZN1kxSnozdkJMc1VPUGtweGZBRUJIaDd4WEFsa0U0WnVWLURIRU53elBhOTJNekJXTHNzMnBVZDFiMnZqTS1Yb0t4cVNXcFVoOFR10gHqAUFVX3lxTE9YSDlZNmpfYnlHTXpISmNwUFBSRHg0SDVlQ0NvMFk3WXZDTEhzNjUzaVZId0xEbzF1dWNFM1ZyNURsT1ZTc1JhNkNzLXVxRXlLUXV4SkUwNkhJNncxejJtQzNXYTBJLWpBMm5PRWU1NFBhMUFKWjlkUjNNUnRoOUhGaUc3WnJvRHVqNmNDUTBDUGlvZmpmZmgwSnpwSzB3NFMyVWJma1RIcFowS3BXcXphYmU0VjJidXI0U1F1d0xmdlBublpzX210aVlRZ3V6anlxOUtUOU5nUEJ4SldQb293ZDJHZElsWXJKdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tiruvannamalai Election Result 2024 LIVE Updates Highlights: C N Annadurai of DMK Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNW8wZ0xVQlpKWnlVS18wT0FnSWRZeklTSTFOaDhiVzRvY3BOSzJsTEViMGZSMDdpa2d5Z2FtZ3B2S2N0NFlIUWlvXzZpTDFNVmUxbGN3Vk5hbXRYUmFGQ3NoS3kyNFRSU1pKT05WdUItalhId0RrTFZKYVF3dVF3cUFwcTRkdkQ1bHVjUWZtd2RnZkVneTlOcDdmSnp4QkR4Tkd1VkhLblNYcWZDM3lvdFR5cVhqRjRmS3VMeURHQnZzbnpkdGpNUWN6UTVpSUFCeElucnJPR3d0ODZCdlFJVlRfdTZjRkUtOVRv0gHwAUFVX3lxTE9OUEVDZmhyU3RCcW85TWROaFFEeHZnWTJpWHM5aFlwUndpcVdBTkV6TlMwODZxOENINmVrN09XSW5BSjVxQTBvZDdMa0t2VXBwci1fT1J0OXM0RklJbS1VTGVlODFJTmpkR19OdFBPVXhaRDBEODFsejZheHNRWmI0d3NxUnpkeTRIdGJEaVZpUXRUenRzOG85SFdBREZHdHZXbU4xMUU0SmVhSHJoTEV6X3A1b0JKVVJZejF5S0lOV2ZRa2RYUFJ4VHRCZExERVBJbWJ0dlZoUmV4eUVQQXQzN25UaGdZTVU3cTFoaEJQRw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:36:40.543884Z",
+  "collected_at": "2026-09-02T15:10:16.879198Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.262172Z",
+        "fetched_at": "2026-09-02T18:38:09.692646Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.262181Z",
+        "fetched_at": "2026-09-02T18:38:09.692658Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.262186Z",
+        "fetched_at": "2026-09-02T18:38:09.692663Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.262190Z",
+        "fetched_at": "2026-09-02T18:38:09.692668Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.262196Z",
+        "fetched_at": "2026-09-02T18:38:09.692674Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.262200Z",
+        "fetched_at": "2026-09-02T18:38:09.692679Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.262204Z",
+        "fetched_at": "2026-09-02T18:38:09.692684Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,28 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/people/CN-AnnaDurai-MP/100057787804455/",
+        "url": "https://facebook.com/https://www.facebook.com/people/CN-AnnaDurai-MP/100057787804455/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:06:37.909543Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,27 +334,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Rs 2.25 Crore automated driving test track opened in Tiruvannamalai - afternoonnews.in",
-        "source": "afternoonnews.in",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR053cEhSMEZNZkhZN29XSlZfYkpjRmJnaUs2dWs3VWdFaWViQjUteFdzZldqN2U5Z1hQUFo1MjRYNXlaWEFzcmFXNGs3VGZYMEdCNGxickNuOHR2UTFsX1FhXzRzY0xtdHRxUU0yNF8zb0pMV00tZ3h2SXNpX01IcmlTNFJ6Y0NlSXk0andqdERKbjI3Mm5sOVl1Y2VmRDBKTXY4?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Water released from Kuppanatham dam in Tiruvannamalai for irrigation - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTDVrRUZ0MzZXM1c3cF83QTM5NndnS3V1ODhiUzdfckNmODdBQ0RUR28zOURSamdpM0NVZUZwR29wNUNWLS1kMEUtSl94YUhlRWJNU0o0OUk5RzVPa0pmalJKWXppS01JVkxMTnJhU3E1em10NTFTcktxSHkzZnVjR0M3c0poUmpaSjZOUm81VVFyRHZNZWpmclJRYnBwSFZKOHVoMVlQQjNMZ1Q0ZGpvWXVqc3NQc3dKak1IVkdMbkpGbHJyd0R3am5YUkNqMUIyTWdJTtIB2wFBVV95cUxNV1Y4SkxQaEtPY2xLNWtCZWpwR3Rocm1JMk9RVVRoT0xQYmVUb3o3d2tnbFJ3dVFEdW9sVm1leVdyS0lNZkNNYmo0NjN4SXZYcUtvNUE5c0NBbUxTMUc0aWJqUmxPZUxtd0w5MVBpRERLR0tmSVVRS01XTVB1bEZoWGVHVjFqT0xVa1AyLVJRSnFpbjI0QlZsWmlZc3ZTbjJ0Uk5CM25YVDRRT3U1MmRxXzNuR05FaTJXQXJ1eDhrSGM1OHlhQmoySVo2WEIzTFhjQVdIOGRya3k5azA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Political Profile of C N Annadurai, Dmk Party, Tiruvannamalai, and Net Worth - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1l0d0o4Y1B4M1BCUEIxWUdLQVlxeGVORnVCSW90Q3Q2RFVFX2NNazBJX1NMcDQ4dDdmelVXbzlZWVlmaXdwRlpOazU5bDN6QXQzMFI4dUlxT1dZSmxpT2lQZlZjUFZGXzh0TGZCZ213aFZVbERoeERfRERuOUduVm9vVmhMMDZ4LUdGTDJqWDRaOXJ3a0RjaWZleW1xeFg5MFl1UWNpWXdIZklQTWlMQXFuSEFsdUpWUDdNZG9fUWo3bjlxNGVNWHl0cDNtdXNKTkkyaklmVS1Jc2V3T0NhVHRTeXE?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -296,11 +350,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "11 new faces in DMK candidate list for 21 Lok Sabha seats in Tamil Nadu - The South First",
-        "source": "The South First",
+        "headline": "Tiruvannamalai MP to seek Rs 15 cr to develop Parvathamalai - DT Next",
+        "source": "DT Next",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTEREc3J6Q2paRmt2VGtSOGR4Mm1NUHpqeEE4SUJVZGlhZDZVbEdyUXd1QkFhcW81dDNmQU5mcmZVTFhZelF5eHoteHJ2MmR5NjBoT1BWZTVWQmFMUlpjaVpySkI5ZzluRjVoU2Q3eEZBbHBpWndTdXpzYjhXN1ZWam11YWU2cGhUTE5FYjhuOTB1OEJua0xiakctMmZTNFVMcVRmVEFPNTVUdnp1?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQk5leXlRNEtLUHRTNzN6Tk4yU2RCMlRrNWctU2hKUVFYcTR2cmtMNm0zZl9TazhkY3B3bUpFZUhJcldJcDBrRXpwWnBIc1NvcnN6Q1NKY3hLcDk3bUFnZjlIcmpPYXRBYUdEU2JiQ3dqMnBLN05mOUhFRlgtejVrcWszUzZWelYwVUE4WXAzMmY5M0w2RzdROUF3VkHSAaoBQVVfeXFMTnQtM0tZbzdCNWVvNHJ0U2hhVHlOaEo3dEg2czdMcVJuSXJTaF84UVhtdGVsRlN0MFdhU1RuWHdKNzlDOU14WWg3UVgyZkt0b3JOeE5PUmJKdDhoS2dPM19fTXJaMzFWMHNwVU9QX3hpeVdzWTJrTGttVU9tbGhXMXY1aGVPOTBmNzBZNThkdTBWdzFGTmNBN0hkQ29OZmJOSVdCSmdXS0ZHWVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tamil Nadu CM MK Stalin unveils Karunanidhi statue in Tiruvannamalai - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWGNYZmhrMFk0c2FEb0swVllud1lYdGFzT1VSN3pDY2pzV1BKRFpqelA5Z3VPaC1teU1zckhNdU5GdUtaTW9McXQ2Mzd2T3BmNERDMVZXVmVDWHA5VHBTV2JUVlluUGJzb2VzWncyeFd2c2RqcXVqc1o1RGhyVGYyMW5YeGo2WFhJaGtrV2RJUmRZN1kxSnozdkJMc1VPUGtweGZBRUJIaDd4WEFsa0U0WnVWLURIRU53elBhOTJNekJXTHNzMnBVZDFiMnZqTS1Yb0t4cVNXcFVoOFR10gHqAUFVX3lxTE9YSDlZNmpfYnlHTXpISmNwUFBSRHg0SDVlQ0NvMFk3WXZDTEhzNjUzaVZId0xEbzF1dWNFM1ZyNURsT1ZTc1JhNkNzLXVxRXlLUXV4SkUwNkhJNncxejJtQzNXYTBJLWpBMm5PRWU1NFBhMUFKWjlkUjNNUnRoOUhGaUc3WnJvRHVqNmNDUTBDUGlvZmpmZmgwSnpwSzB3NFMyVWJma1RIcFowS3BXcXphYmU0VjJidXI0U1F1d0xmdlBublpzX210aVlRZ3V6anlxOUtUOU5nUEJ4SldQb293ZDJHZElsWXJKdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tiruvannamalai Election Result 2024 LIVE Updates Highlights: C N Annadurai of DMK Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNW8wZ0xVQlpKWnlVS18wT0FnSWRZeklTSTFOaDhiVzRvY3BOSzJsTEViMGZSMDdpa2d5Z2FtZ3B2S2N0NFlIUWlvXzZpTDFNVmUxbGN3Vk5hbXRYUmFGQ3NoS3kyNFRSU1pKT05WdUItalhId0RrTFZKYVF3dVF3cUFwcTRkdkQ1bHVjUWZtd2RnZkVneTlOcDdmSnp4QkR4Tkd1VkhLblNYcWZDM3lvdFR5cVhqRjRmS3VMeURHQnZzbnpkdGpNUWN6UTVpSUFCeElucnJPR3d0ODZCdlFJVlRfdTZjRkUtOVRv0gHwAUFVX3lxTE9OUEVDZmhyU3RCcW85TWROaFFEeHZnWTJpWHM5aFlwUndpcVdBTkV6TlMwODZxOENINmVrN09XSW5BSjVxQTBvZDdMa0t2VXBwci1fT1J0OXM0RklJbS1VTGVlODFJTmpkR19OdFBPVXhaRDBEODFsejZheHNRWmI0d3NxUnpkeTRIdGJEaVZpUXRUenRzOG85SFdBREZHdHZXbU4xMUU0SmVhSHJoTEV6X3A1b0JKVVJZejF5S0lOV2ZRa2RYUFJ4VHRCZExERVBJbWJ0dlZoUmV4eUVQQXQzN25UaGdZTVU3cTFoaEJQRw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +404,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 73,
+    "starred_questions": 21,
+    "unstarred_questions": 52,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +420,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 70.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

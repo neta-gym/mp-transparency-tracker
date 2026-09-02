@@ -4,17 +4,17 @@
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.0 / 100
+## Composite Transparency Score: 49.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 35.0 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 70.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 3
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 3
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.73 Crore
-- **Liabilities:** Rs 50.39 Lakh
-- **Net Worth:** Rs 4.23 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 37% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 16
-- **Released:** Rs 16
-- **Sanctioned:** Rs 11
-- **Expended:** Rs 7
-- **Utilization Rate:** 43.8%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -74,29 +73,43 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
+- CJP says Lok Sabha disallowed 3 sets of questions on youth protests - The Indian Express (The Indian Express) [neutral]
+- Namakkal farmers observe hunger strike demanding release of water from Jedarpalayam barrage - The Times of India (The Times of India) [neutral]
+- Posters against Namakkal MP for not participating in voting against Waqf Bill in Parliament - The Hindu (The Hindu) [neutral]
+- Matheswaran V S , DMK candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - Centre urged to rename Salem Railway Junction or airport after T M Kaliannan - The Times of India (The Times of India) [neutral]
-- TN govt urged to revive abandoned Namakkal District Heavy Vehicle Construction Industrial Park - MSN (MSN) [neutral]
-- Namakkal bypass roads inaugurated - The Hindu (The Hindu) [positive]
-- TN govt urged to revive abandoned Namakkal District Heavy Vehicle Construction Industrial Park - The Times of India (The Times of India) [neutral]
-- Demand to Rename Salem Junction or Airport After T M Kaliyannan - GK Today (GK Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **CJP says Lok Sabha disallowed 3 sets of questions on youth protests - The Indian Express** (The Indian Express)
+- ! **Namakkal farmers observe hunger strike demanding release of water from Jedarpalayam barrage - The Times of India** (The Times of India)
+- ! **Posters against Namakkal MP for not participating in voting against Waqf Bill in Parliament - The Hindu** (The Hindu)
+- ! **Matheswaran V S , DMK candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **Centre urged to rename Salem Railway Junction or airport after T M Kaliannan - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Matheswaran V S shows moderate transparency with a score of 55.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Matheswaran V S has a below-average transparency score of 49.5/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 47,297,973. MPLADS utilization: 43.8%. Parliament attendance: 100.0%. Questions asked: 30.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 30. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -136,7 +149,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -215,8 +228,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Matheswaran V S's MPLADS account: Released: Rs 16, Expended: Rs 7, Utilization: 43.8%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -234,10 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

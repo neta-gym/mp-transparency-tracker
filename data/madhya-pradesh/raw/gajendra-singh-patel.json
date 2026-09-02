@@ -4,16 +4,16 @@
     "constituency": "Khargone",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 6416,
+    "myneta_candidate_id": null,
     "slug": "gajendra-singh-patel",
     "house": "lok_sabha",
     "sansad_member_id": 5067,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 49,
+    "age": null,
     "photo_url": "/mp-photos/5067.jpg"
   },
   "criminal_record": {
@@ -24,83 +24,89 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6416",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.936783Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:34:58.730109Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 99824946.0,
-    "liabilities": 4497445.0,
-    "net_worth": 95327501.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6416",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.936796Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 58.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.14,
-    "expended": 6.19,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:30.099430Z",
-        "notes": "Official eSAKSHI REST API — Works: 278 recommended, 245 sanctioned, 81 completed"
+        "fetched_at": "2026-09-02T14:46:32.437227Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:42:31.793062Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:42:31.790207Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 278,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 42.10884353741497
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
-    "attendance_percentage": null,
-    "questions_asked": 0,
-    "debates_participated": 0,
+    "attendance_percentage": 85.0,
+    "questions_asked": 13,
+    "debates_participated": 3,
     "private_bills_introduced": 0,
-    "is_minister": true,
+    "is_minister": false,
     "source": "prs",
-    "confidence": 0.3,
+    "confidence": 0.8,
     "sources": [
       {
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:26:46.601885Z",
+        "fetched_at": "2026-09-02T14:42:31.789087Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "8 MP leaders get key posts in BJP national executive: Lal Singh Arya named vice-president, Gajendra Patel g... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNW5vdVVNZ242TVVLOTBJR2NQaThHa1M1NUdsSnpwb1MwQm1TWnk1N2tMdWlweEk2TjNXN0ktdTJzc282TWR6RU9MSWJVR3V3UzVJUXUtbTN4LTVtQ3Z4bHkySkdETFFudkxaNjNRRWZSZDBTOWVrNVpfVkJ4MWhmVkR1SDE4VkRsVlJ6RzhGWWpqN1EyX01XeUpVRXNRaXY5ZUw3blE2cUNuVHozdnZkLUJ0RHZEdlVKQWlDM2NtZUxabG95SXBHRUJjSdIB0AFBVV95cUxPNGJORkZleFgzbzNyQk00NWNJamo0MjZYMjZtcGRnQUt1TjFzbW9CcTVmTWJiQU50MUdhZ3QxRGQzb0N4MTNkcTJ4ekJEbGlqQnlkaks0bFphRVBGb1lHaDQyX3ROc2xGUE00Yk5MSFRoTnI1LXpMejVBWEhoRkFkTGlrUnhTVmdMZWZ1aFBGLTZuMzlZZ1Z1VVBpN2N2UGluendGd2xLcmJCdVRUY1RZRjh6SmtwNm85V1p4RVVMY2VDZlZBczNEdV9zTldfZzdD?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Khargone nursing students storm MP office over pending exams, delayed degrees - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTlnY3h5aEE1NmVjUF9Id0c0UnNDR1JyM0VyOEl5alBrSTBsRUtHTGE4QzdWWGR3ekUtckxxWGtWa05sbmllQktWUllubFlScUtoMVlwSXNCajh3Wk5xSGlZMk5jWllyY1NkVWpYTE0tbGI5MHlpUkFMamlRcGxaZ3czVXNRaHJZcVRKV1MtM0tqT29XOFJsZnhYbXBhb2hwZHZYbEhPMlZVRUpMbHJTQkduT2R2d1g0ZW54aVhCZG9aZ29NUUpUdWhFcE83QdIB0wFBVV95cUxPbzY4YkZ4S2VOQ09hS015Si1fNjFHbkFFTlYyQXd4UFFhZTNLb1FaMUMxVHlvLUdaWkNIU1pzdTl1WTg2SVdTanhPcVJOb01MTUpVVXZkcnBRaXZ4a0xOR0Z4WkFsUkJIYnFCdWdORVIwMUplSWM4NWNqOUlueUtmX3pBUngxNFRRb2x3ZmNCYl9ac2NidWVRbFVITHRscVFwb3REZUlzbktDNVJPcjktWDNaNS1OM3JyY3MwbHVaRnVKOXYtdGRLbTdLLWtRZjJ4VW1J?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sandhya Rai likely to enter Modi cabinet: Move seen to appeal UP Jatav vote bank; Tarun Chugh also set for ... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ3Q0UnpJelVCUDN0TmkzcEppbk01dTJqUzJoMFNQNTU4TVJod2ZsSkxmOXpqcURQcm01bVlNYUhOU2M5UG1CQ1B1Q0s2UmxUcHNiU3ZraXZ6YzA2OVBtc2w2bmRaSDRkRmRIYVAxVGpQZ0xWWEdad3RGektTSkNzcnpLUXktQTBpYzllZ0lkaWFyY1lNcjhjQmF4UGxydGVnTkNhdTY2a2ZBY3FySTRseElMRzNoT1l2a0RBSUllY0M5alBNeUQ1QUNMbEJCejl5ZjgwaHhJQ0FpVWZsWkFLeHFDVdIB6AFBVV95cUxPcjM5ZWFITzJJNGhyQnhuN3JFMU5JM3hrZEpGRHhCQjY0d0c0RVBJNUg2RnJKLTYyVjdmems5TXlEb0NwdTRhdlRIdEQxY1RpaHo3c01paTBfSmtnVFlWRkhxN2pjUFkyRklreUlaVkJYX1pkUk4yS2FQQloyYTRPSXBwVWgwYVRXd3VWOTZhRWRiQUtWZHZQbm5XN3J5dHY0M0V2ZHZ4Yl95MUhnbzdFS0tqbTdLREtFRWJoc2lQUXBvaE5wLUduc0tOZkwybktQTmtLWXZIVEhvZlRLdWJyNU5XcjBUN2pS?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bharatiya Janata Party - Bharatiya Janata Party",
+      "source": "Bharatiya Janata Party",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFV3Vmdkc2R1cnM0WGVpTnJScmJDd3ZYMU04ZjM0amVjLWd2RE5TNV9CaXhhUmQ0enExSE9jMnA0cE5Bb09ZeHBtLWdxamFjUEZXX3NCbEdUYjFKZGFEbl9ld3A1ZmdFcnN2WHJzSUJHU2dZUVZwVlZBMDktZHl5SmlSdFdFVlcyNWFXWkFSSlFZQ3lGYURZeFNSSnhHREEyRUdmQTJwNUpjX201ZVlPeW43UWhZZ2FJenh3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:27:45.979144Z",
+  "collected_at": "2026-09-02T14:46:32.438403Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.863702Z",
+        "fetched_at": "2026-09-02T18:38:07.357497Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.863711Z",
+        "fetched_at": "2026-09-02T18:38:07.357509Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.863716Z",
+        "fetched_at": "2026-09-02T18:38:07.357514Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.863720Z",
+        "fetched_at": "2026-09-02T18:38:07.357519Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.863725Z",
+        "fetched_at": "2026-09-02T18:38:07.357525Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.863730Z",
+        "fetched_at": "2026-09-02T18:38:07.357531Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.863734Z",
+        "fetched_at": "2026-09-02T18:38:07.357535Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.863738Z",
+        "fetched_at": "2026-09-02T18:38:07.357540Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -288,43 +333,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Khargone (ST) Madhya Pradesh Bharatiya Janata Party - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMGVXRHNhRlpSUHFRODFBdjd1SnJlZHdOeEpWWXpOdk5HNTVKNUFiVDlxaHJpWFB5dzd5YlNxUjM3NXpkOE9UN2k3UlFyM1Y4ZWhyRjlHZFFmamtMMHRsc1NvVTlmNmM1b0ROLWw4WlM0THNTcEFxMDBjV3Q3ejBCTURXaU0xWEdHR3ZLa29ORDVFR2dSeWdzU29EeVNtM0RSazJzM3pMSHlWdll4TklWdXdzc0U2RkJlM1NWNUx5SmlhUXZRZkNmOQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP state president election likely delayed until after Delhi polls: Equations shift in MP due to Chhattisg... - Bhaskar English",
+        "headline": "8 MP leaders get key posts in BJP national executive: Lal Singh Arya named vice-president, Gajendra Patel g... - Bhaskar English",
         "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjExRG9PWTlKZXFTZHo4RGJfSFMydnpuZlNzTWtpTHU0NEJpQ1Zwd0VPMDhJZWJjdTFzMENwTGRab1pJTnpKczBpSVB2SWwySnAzTGNkTDZHbF93Tno5ZFpJbUtaZGtURC14NXRnUWJBYkt4QUNRMWxPRXc5S3g3cWF5UG1wUmpLeFM4YWNhVjllcl9vd25naDZUd09NQThYMWRjNlAweUtLdFRERGk1bGw4MjZlYW9mUlFqREJ4LWhfYnhX0gHKAUFVX3lxTE9UckNrbTFkMkR6VFFja1JMVWdWUjlJNE5uM3REWDVieXpmd1JQZjR1QnRGNmFScmIwVE9jbGpuWUk1ekhON2lfU1hhQWlueE96NGhldVRRLWJFTnllNUkzMHY0SFFMYjNEVDFscFpybkd4bjVicjQ4cGJPb3BwNFo3amg1WXFUOEZKdXMtRGVDN0N2Z1NDUWEtY0tjSDQwV25rZHRrcUhuR215OVhfWmI2bzR3V3JYMlRQUC1ZZXJ1QTBQM2VjNk1vX0E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNW5vdVVNZ242TVVLOTBJR2NQaThHa1M1NUdsSnpwb1MwQm1TWnk1N2tMdWlweEk2TjNXN0ktdTJzc282TWR6RU9MSWJVR3V3UzVJUXUtbTN4LTVtQ3Z4bHkySkdETFFudkxaNjNRRWZSZDBTOWVrNVpfVkJ4MWhmVkR1SDE4VkRsVlJ6RzhGWWpqN1EyX01XeUpVRXNRaXY5ZUw3blE2cUNuVHozdnZkLUJ0RHZEdlVKQWlDM2NtZUxabG95SXBHRUJjSdIB0AFBVV95cUxPNGJORkZleFgzbzNyQk00NWNJamo0MjZYMjZtcGRnQUt1TjFzbW9CcTVmTWJiQU50MUdhZ3QxRGQzb0N4MTNkcTJ4ekJEbGlqQnlkaks0bFphRVBGb1lHaDQyX3ROc2xGUE00Yk5MSFRoTnI1LXpMejVBWEhoRkFkTGlrUnhTVmdMZWZ1aFBGLTZuMzlZZ1Z1VVBpN2N2UGluendGd2xLcmJCdVRUY1RZRjh6SmtwNm85V1p4RVVMY2VDZlZBczNEdV9zTldfZzdD?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Service to Underprivileged is Inspiring and Worth Emulating: Governor Shri Patel - Department Of Public Relations,M.P.",
-        "source": "Department Of Public Relations,M.P.",
+        "headline": "Khargone nursing students storm MP office over pending exams, delayed degrees - India Today",
+        "source": "India Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQzVuX201TnpKU3pLclpLd3lMT2tLbUJ3VHdmbGRaMkxoOF9aN1JoVGZrSV9sbVNPLVNxbW44OW13Rkkyci1TZ0FKOUpTOUNUUTJiUlE0VjI4TUF2blh2SXp4Ymo2RVRRWlpET2lpLU9xcnNRbWhYR1RIY0tCZXQ3MlhJMTI5UXFsajlGSlUtNm1QVy13azJZSFZpcDBfamVTUFQzcUxZVGJ2bHRuaVlFN3pqeXI0T053ZVo2bUY3WkNvNERzc3FBLXlhUDJxbUFaaUFfTkh0aTQxZUtDVkFVUmg3MzFUM0tXdXJndndVTzdGMFpHbHF4M3Z3aHBOMnpGZzFOTXJnZUlSeFhjVGY4c0hSNFVZZS1kNU5fYnhMc01hSFMyMmlIdXpRQnJyV1dNTy00RjQ4M0ZSN3VBczJ5YjRPejQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTlnY3h5aEE1NmVjUF9Id0c0UnNDR1JyM0VyOEl5alBrSTBsRUtHTGE4QzdWWGR3ekUtckxxWGtWa05sbmllQktWUllubFlScUtoMVlwSXNCajh3Wk5xSGlZMk5jWllyY1NkVWpYTE0tbGI5MHlpUkFMamlRcGxaZ3czVXNRaHJZcVRKV1MtM0tqT29XOFJsZnhYbXBhb2hwZHZYbEhPMlZVRUpMbHJTQkduT2R2d1g0ZW54aVhCZG9aZ29NUUpUdWhFcE83QdIB0wFBVV95cUxPbzY4YkZ4S2VOQ09hS015Si1fNjFHbkFFTlYyQXd4UFFhZTNLb1FaMUMxVHlvLUdaWkNIU1pzdTl1WTg2SVdTanhPcVJOb01MTUpVVXZkcnBRaXZ4a0xOR0Z4WkFsUkJIYnFCdWdORVIwMUplSWM4NWNqOUlueUtmX3pBUngxNFRRb2x3ZmNCYl9ac2NidWVRbFVITHRscVFwb3REZUlzbktDNVJPcjktWDNaNS1OM3JyY3MwbHVaRnVKOXYtdGRLbTdLLWtRZjJ4VW1J?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Khargone Election Result 2024 LIVE Updates Highlights: Gajendra Singh Patel of BJP Wins - News18",
-        "source": "News18",
+        "headline": "Sandhya Rai likely to enter Modi cabinet: Move seen to appeal UP Jatav vote bank; Tarun Chugh also set for ... - Bhaskar English",
+        "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQU1LTUZENHJlX1Mzd3JLbFpqMGhKdE1MTzZ5czJTQXowYVB2N2FkNXRka1ZacGtRZ2NmY2tmZ2JIRHA1QkhHTGVPSlotbnBCX2VmQ3pfcndnZnpUaHpIT0M2b2Uxa3dsdER1akF2bGloOWh5VnpoSi1qejBMcVk3cHY2SDdmb085VTZPNktTbjQzOGNuSm9wTXBUcEYzTUtHemFieG1FMTlOWUxfeWpaNmJ2azZSMkdzTlNFYVk5bkZOYWN3TkdKbjJnai1xc3dKaWl6aWU1b0ZBbTF1S3lyUWdxMNIB6AFBVV95cUxPdEJhQUVoQnZBTXdnVjMtWjExWFZzMWxjNHQ1cHBna2MwUVpOc2NuWlk0RTlCeFQ4c3pzRWY5bVhORjRXVnFRRnBVVG1rc2FRVjVyV0I0ZmZzbm1YcTZyVDgxTmdNeVprNGIxLXlmVUFqR2k2LVVVN2p6eTZ5Q1lIY085cWJ3V1RWU3NWWWFObFdxZFBnMGZYOWhDOFlzWkZDVDJKdjVuaVFBUkhqRngwZ2RyenNNSUhnRnV1SkxHaVlFaUVfcUVnSGVMOVJyNF9TdHp5SDIwR3ZPNVdMYjJodjBVV3Y3RHI1?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ3Q0UnpJelVCUDN0TmkzcEppbk01dTJqUzJoMFNQNTU4TVJod2ZsSkxmOXpqcURQcm01bVlNYUhOU2M5UG1CQ1B1Q0s2UmxUcHNiU3ZraXZ6YzA2OVBtc2w2bmRaSDRkRmRIYVAxVGpQZ0xWWEdad3RGektTSkNzcnpLUXktQTBpYzllZ0lkaWFyY1lNcjhjQmF4UGxydGVnTkNhdTY2a2ZBY3FySTRseElMRzNoT1l2a0RBSUllY0M5alBNeUQ1QUNMbEJCejl5ZjgwaHhJQ0FpVWZsWkFLeHFDVdIB6AFBVV95cUxPcjM5ZWFITzJJNGhyQnhuN3JFMU5JM3hrZEpGRHhCQjY0d0c0RVBJNUg2RnJKLTYyVjdmems5TXlEb0NwdTRhdlRIdEQxY1RpaHo3c01paTBfSmtnVFlWRkhxN2pjUFkyRklreUlaVkJYX1pkUk4yS2FQQloyYTRPSXBwVWgwYVRXd3VWOTZhRWRiQUtWZHZQbm5XN3J5dHY0M0V2ZHZ4Yl95MUhnbzdFS0tqbTdLREtFRWJoc2lQUXBvaE5wLUduc0tOZkwybktQTmtLWXZIVEhvZlRLdWJyNU5XcjBUN2pS?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Khargone election results 2024 live updates: BJP's Gajendra Singh Patel wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "Bharatiya Janata Party - Bharatiya Janata Party",
+        "source": "Bharatiya Janata Party",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPNFZvYmJUU0xucEd3bl9OTXNFQlpuTDhTU1lfTklPVDV0N2xxbXh6S3dHa0hhZktyNFVrdDBaM1o5T0NEenozbzk1UHBIbUZrYVdBcXB0eHlyVS1TQTFIbElXQWpOYkdmNzhVZHNPRFdtQmRuUlJPRjE5dEY0Skg1dmZ0QV9vakpuNV9OV3BOY2FIeVNVaDFKbEtTMjJlZDJuZlV2c1p5Q3lYZEhvNTdpSjlQUF9aNHIxeENRZThIYzU1cnRXei1kWGlwd3BObFR5el9JWThhMU9Gbkc2SnJQTE9PeGpfS19hTlFMQXpBSmhIV2NvVHNpUnZFRU8zSV91d3FXM2lLMDYyWDZjcjFtRGNRWXBGT25jemNPUUU2YUVhTC1tVkdnMk5oV2psRzJEd3VPeGEtenhGcmwyOWtkbHd2TVRwcXZKTVR2aTc0Qlc2MWFuUmZpcXFR0gHfAkFVX3lxTFBUWE0tWWlvamFTRmlpQ091SGVJTnZuaG9XMG5CVWV5NldKZkRpbUUyUUktaWpVLUFDX19GZnZZR0lyY3pKRF9IMHZrZFJnUFJNdWltOFRBVTI0Rk9scUFJZV8tbW15cGRXNUZ6ZWJPLTAxeEc0WVo2alVVYXNUQ2J6RWRFSGNOOXRFTGtMeVF2OTdsTTNFYlA0aWlOQkNnM2FoZHRrenFfQnNLajdhckJvWTVFVlpSdndFYkh4emk5ZGxQUkFqQkhXQ1J1OHE3LUVSdExxXzd1b1ZOMWdiRmFLX25kZW1yOGhNd1d0MTd0enFPMmtNamlxVS1wa3JULVZSclhsQzRpVE0xQzBtLU4tMlBvbmhnNjlhMVF4bDRtNGUzS3JYajdmRjdCRG40RDM2MUJtcVNXR3pTRk5qdzh6Z291NUd1TmxtemNWc0ZLVDZqVFJBUF9DVGQ0UVNBbw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFV3Vmdkc2R1cnM0WGVpTnJScmJDd3ZYMU04ZjM0amVjLWd2RE5TNV9CaXhhUmQ0enExSE9jMnA0cE5Bb09ZeHBtLWdxamFjUEZXX3NCbEdUYjFKZGFEbl9ld3A1ZmdFcnN2WHJzSUJHU2dZUVZwVlZBMDktZHl5SmlSdFdFVlcyNWFXWkFSSlFZQ3lGYURZeFNSSnhHREEyRUdmQTJwNUpjX201ZVlPeW43UWhZZ2FJenh3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -358,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 13,
+    "starred_questions": 3,
+    "unstarred_questions": 10,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 24.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -374,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

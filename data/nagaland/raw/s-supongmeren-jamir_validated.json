@@ -42,60 +42,82 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:43.042278Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
+      "movable_assets": 500868.0,
+      "immovable_assets": 1600000.0,
       "total_assets": 2100868.0,
       "liabilities": 556528.0,
       "net_worth": 1544340.0,
-      "previous_total_assets": null,
+      "previous_total_assets": 20150002000000.0,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=356",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.615757Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T15:58:16.792265Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 2.1,
-      "growth_ratio": null
+      "wealth_percentile": null,
+      "growth_ratio": -0.9999998957385712
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.8,
-      "expended": 9.51,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:37:21.043828Z",
-          "notes": "Official eSAKSHI REST API — Works: 39 recommended, 39 sanctioned, 37 completed"
+          "fetched_at": "2026-09-02T16:01:54.664336Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:58:15.387439Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:58:17.657624Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 39,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 64.6938775510204
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +132,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:11.956131Z",
+          "fetched_at": "2026-09-02T15:58:16.813972Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +140,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "MP S. SUPONGMEREN JAMIR VISITS LANDSLIDE AFFECTED AREA IN ZUNHEBOTO - ipr.nagaland.gov.in",
+        "source": "ipr.nagaland.gov.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVdCalVWWnZ3QlQ2SnFoZFhBSmdsNVdJYnhRZTBfQkFabzExRDBzYTNwQm9pN3FjclhHMUN2NE1uSWpSQkYtRVFkalB3N3NFZkVaLWcydEtPSk9yWXM5dGEtT2RYNkRwY21hQ1JxbG5yUjR2NVFPWDFSMFNmdTFBamNUejF5bjJjdUNPdnBULTE1WFNqeWhJRXJB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nagaland MP Supongmeren seeks restoration of passenger train service to Tuli - Eastern Mirror",
+        "source": "Eastern Mirror",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDhBUC1fZVJ2N2JwQVZLOGxmbjlCOW50Z0IzZjN3NEM3eng5V25HTWdleVpJczQ1d0JUMWZjc3VqUWRleWd3czdiYjhGMzA2UHZQa253WjBuM1JKN3VrZm1tOGVqSEFyMC1wRW9YRUJTcmhMRUJXdV9ZeUpYYlRoLUpNUVRwZmhaUUg1WENVdTdGcTZSOEg2TEVYYVVHbk5jTEx2TXo4OElPMk4wT3JyVENZeWI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Supongmeren Jamir urges Centre to immediately implement Naga political agreements - nagalandtribune.in",
+        "source": "nagalandtribune.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDlYbU4tSF9rbTl4UW5za0FYWmI0Q19mSmxuLVlJemViQkRueUFLNENJbHNpZWZlc1ZWdG16VUNyazJlc3oycFZnbG5KNTU5UG1VQmNXNlZlanFieF9oSnF2OUhSQ1hsT2J2ZkdJcWE4SHBXMDVJNHNBU0V4UmFlZ0ZzbzYzakZ2TVl3LVhsU0ZjeDJoOTNpNWY2bmJadnVyRnFzWGFTTzdITVFacmc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dimapur world-class railway station project under time crunch - MorungExpress",
+        "source": "MorungExpress",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVNvb1FiTkFRdXpVMjVhbXhiRUhWSXdaNEhnRTBWSzFfTkpNMHYzaWw0eGZoYjBWdTNkM2FVaUotaWJYV3l2QlNSUHg3Y0x3Q1pQRVNFUFNYV1FhUnJiNWtHWGkzdFZtT0NOLTlXdTNQYnZTaEExSUxsc0JXY0NVTU1uX3lnd2dtNVM5VWdqa0U3VjdhOXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Only 7.5% work done, MP flags delay in rail project - Nagaland Post",
+        "source": "Nagaland Post",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVh3czRCMTFhWE5YbHh2emlWdDBsemF5QV82R3NtaWNfcEpHNWhod3ZSZC15TUJodl9UZGdPZzJOdTItTC1jalRKOXVwNTE0UC1nZzdaZXhvaUtidkpHazdocVhaSXNzNDBtd2ZnVF9jSE9jUFJxcGZ2eVRPUFBQbQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:50.436791Z",
+    "collected_at": "2026-09-02T16:01:56.650467Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +212,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.982018Z",
+          "fetched_at": "2026-09-02T18:38:08.515833Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +228,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.982028Z",
+          "fetched_at": "2026-09-02T18:38:08.515845Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.982033Z",
+          "fetched_at": "2026-09-02T18:38:08.515851Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +260,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.982038Z",
+          "fetched_at": "2026-09-02T18:38:08.515855Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +276,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.982043Z",
+          "fetched_at": "2026-09-02T18:38:08.515861Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +292,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.982048Z",
+          "fetched_at": "2026-09-02T18:38:08.515866Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.982052Z",
+          "fetched_at": "2026-09-02T18:38:08.515871Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,56 +333,97 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "share",
+          "url": "https://twitter.com/share",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "sharer",
+          "url": "https://www.facebook.com/sharer",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "adrspeaks",
+          "url": "https://www.instagram.com/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "youtube",
+          "handle": "adrspeaks",
+          "url": "https://www.youtube.com/user/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 4,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:58:19.434507Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Supongmeren flags linkage of women’s quota with delimitation, seeks review - Eastern Mirror",
+          "headline": "MP S. SUPONGMEREN JAMIR VISITS LANDSLIDE AFFECTED AREA IN ZUNHEBOTO - ipr.nagaland.gov.in",
+          "source": "ipr.nagaland.gov.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVdCalVWWnZ3QlQ2SnFoZFhBSmdsNVdJYnhRZTBfQkFabzExRDBzYTNwQm9pN3FjclhHMUN2NE1uSWpSQkYtRVFkalB3N3NFZkVaLWcydEtPSk9yWXM5dGEtT2RYNkRwY21hQ1JxbG5yUjR2NVFPWDFSMFNmdTFBamNUejF5bjJjdUNPdnBULTE1WFNqeWhJRXJB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Nagaland MP Supongmeren seeks restoration of passenger train service to Tuli - Eastern Mirror",
           "source": "Eastern Mirror",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEhJZWwtM1cxTTA2YUUzNnZySXl2UTZzVTVmRUk3cnFURkRzQTlmQ3FnMkVRdFo2aWxDUS1DbnRtR25BSW1FVV9RekF2NzZ2RHFBbkQ0bi02MnlsZWE1c3l3V216LVl2eU1uNW1NRU1hSmF4cjRmTktYb0twRk4tejhuS3ktTXRkcGpZRzJ2REV3UG5OcHlaTWdKMDdSdlhFQ1FySXZJUVN1dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDhBUC1fZVJ2N2JwQVZLOGxmbjlCOW50Z0IzZjN3NEM3eng5V25HTWdleVpJczQ1d0JUMWZjc3VqUWRleWd3czdiYjhGMzA2UHZQa253WjBuM1JKN3VrZm1tOGVqSEFyMC1wRW9YRUJTcmhMRUJXdV9ZeUpYYlRoLUpNUVRwZmhaUUg1WENVdTdGcTZSOEg2TEVYYVVHbk5jTEx2TXo4OElPMk4wT3JyVENZeWI?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Foothills Road compensation claims baseless, clarifies MP Jamir - MorungExpress",
+          "headline": "Supongmeren Jamir urges Centre to immediately implement Naga political agreements - nagalandtribune.in",
+          "source": "nagalandtribune.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDlYbU4tSF9rbTl4UW5za0FYWmI0Q19mSmxuLVlJemViQkRueUFLNENJbHNpZWZlc1ZWdG16VUNyazJlc3oycFZnbG5KNTU5UG1VQmNXNlZlanFieF9oSnF2OUhSQ1hsT2J2ZkdJcWE4SHBXMDVJNHNBU0V4UmFlZ0ZzbzYzakZ2TVl3LVhsU0ZjeDJoOTNpNWY2bmJadnVyRnFzWGFTTzdITVFacmc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Dimapur world-class railway station project under time crunch - MorungExpress",
           "source": "MorungExpress",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3FWZzZsZlpKdDNQVER4WE5IU1phNWFORXJCUm8zck94TGFxMHA2SFRTbVJ4SVJoLWRiYUNwclZUT0tqeXJLbEpJQk5NQjV6Z0FocFJBS2tMX2VXVFFvRDNXTVZzcFpKZElyOXAxQWhQTHlkY0hHcWMwbGxyWTE0RXJXVUgwQlZPMXhYbUpHQWxSWFNnMGJz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVNvb1FiTkFRdXpVMjVhbXhiRUhWSXdaNEhnRTBWSzFfTkpNMHYzaWw0eGZoYjBWdTNkM2FVaUotaWJYV3l2QlNSUHg3Y0x3Q1pQRVNFUFNYV1FhUnJiNWtHWGkzdFZtT0NOLTlXdTNQYnZTaEExSUxsc0JXY0NVTU1uX3lnd2dtNVM5VWdqa0U3VjdhOXc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "MP, S. SUPONGMEREN JAMIR GRACED THE INAUGURAL PROGRAMME OF 70TH GENERAL CONFERENCE OF AKM | DIPR Nagaland-Department of Information & Public Relations, Nagaland - DIPR Nagaland",
-          "source": "DIPR Nagaland",
+          "headline": "Only 7.5% work done, MP flags delay in rail project - Nagaland Post",
+          "source": "Nagaland Post",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNem9MVTJncE1USHVETUNzSHBxN3NGZDg3a1M4ZlFSVDdQN2hoVFM4dEljRDlBQmljNnAzaUx4eVJZQlIwam45VWh0OE9TLThpc2FRTGdQZk1XVUNCUkluVjdfSjc1MzhfcktJOE9zQ3dSUEt6YjZxNVNmcmhEd195RVpzY0l4YUdCMGlUUDNUR3JYeHJFMXBfdUpiYXhXZnJlc1NOcDNVM253bzVUa050eHJOUFZWQQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "MP Supongmeren Jamir appeals for accreditation and upgradation of Nagaland Institute of Medical Science and Research (NIMSR) - Nagaland Tribune",
-          "source": "Nagaland Tribune",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYUNJWW9KZXhrOEVnQTVvZlhRX2FBUzJOQUtWMEtfX19odzE5NWFXY2RtMFdYU1l4TG5qQXN3NkN1RW5oOFE3WUJtVXFKb3hBOHN0YWRkM0R2RHI5MHNnWFhSR2tQN0czc1k3QmVheHVPTDRhaGh5QnhnSnpVSmFBVm5lUENzaEUtSnFxRWlXYnVNaEVObnRMMWtnak1VejNxSkZvUWlHdWl1QURiZ0Q3N2t6TkhjOU1tQzNhLTlJZVZ2ZmR6NFc0VUVmdlJSNnNJdFlabkNxMzFtTXExVmRGZ1dkelQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Nagaland Congress MP S. Supongmeren Jamir nominated As Member Of India–Chile Parliamentary Friendship Group - Northeast Today",
-          "source": "Northeast Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc2JPWkJzS2hCdGRGZ3d6V0FCWmRmLXVoUkhnU1RaVkx2RS1fbGdZMms0TzJtZ1BTQlpFaTI5WFQ1dlNOUS1rNGl0cERSc0tyREJNdlVCYkVScjVMYVJLbkkxTkRnQVMxTjdGVXpuN3hvM1lTNVhxWTZWVTdiMHBhZmtPc3BRVU5jTnlDc191c09PWEFUYVB4U2ljY2NTUC03SDNzejloeE1uTHlaY19tZWZkcHVLX2kwdXBNOXBoTm1La3RUdXBKUVlVRmgwX1FmMGc1Ry1HQkpEVDQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVh3czRCMTFhWE5YbHh2emlWdDBsemF5QV82R3NtaWNfcEpHNWhod3ZSZC15TUJodl9UZGdPZzJOdTItTC1jalRKOXVwNTE0UC1nZzdaZXhvaUtidkpHazdocVhaSXNzNDBtd2ZnVF9jSE9jUFJxcGZ2eVRPUFBQbQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +457,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 3,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 3,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 4.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +473,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +504,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.43,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -420,6 +531,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 2,100,868. MPLADS utilization: 64.7%. Parliament attendance: 100.0%. Questions asked: 3. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:50.982783Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 2,100,868. Parliament attendance: 100.0%. Questions asked: 3. Debates participated: 5. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.516600Z"
 }

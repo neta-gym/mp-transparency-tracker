@@ -4,16 +4,16 @@
     "constituency": "Dadra and Nagar Haveli",
     "state": "dadra and nagar haveli and daman and diu",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3666,
+    "myneta_candidate_id": null,
     "slug": "delkar-kalaben-mohanbhai",
     "house": "lok_sabha",
     "sansad_member_id": 5536,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 53,
+    "age": null,
     "photo_url": "/mp-photos/5536.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Dadra and Nagar Haveli",
       "state": "dadra and nagar haveli and daman and diu",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3666,
+      "myneta_candidate_id": null,
       "slug": "delkar-kalaben-mohanbhai",
       "house": "lok_sabha",
       "sansad_member_id": 5536,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 53,
+      "age": null,
       "photo_url": "/mp-photos/5536.jpg"
     },
     "criminal_record": {
@@ -42,67 +42,73 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3666",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.891186Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:37:53.745905Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 714454357.0,
-      "liabilities": 15839426.0,
-      "net_worth": 698614931.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3666",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.891197Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 89.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
+      "entitled": null,
+      "released": null,
       "sanctioned": null,
       "expended": null,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:24.075622Z",
-          "notes": "Official eSAKSHI REST API — Works: 39 recommended, 0 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:26:07.600679Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:55.978628Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:59.523834Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 39,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:23.152950Z",
+          "fetched_at": "2026-09-02T14:21:58.319993Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Dadra & Nagar Haveli Constituency Lok Sabha Election Result: Candidates Profiles, Map, Total Votes, Past Results - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR2h2ZXVpR2R1aDNqUzN5dU5ER1ptZWRrT1pzX1lmTTlWOW1jejRVODNIVjhycHJUME9yNEpwSHMxcmxRTTVqSElJWENsbTN5bjZBMGowT3k4dlpOejJVT3hhSnRHT3czaF9tZ2d6VHBwVXg5VndfUG85WWx3dHJMS0RDbEI3RGxWR0toRjVuS3lQUTJqckZwT3RTY1V0NUdVdktIUW1HaTNvUlpa?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dadra & Nagar Haveli Election Results 2024: Full list of winners - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYXg5R0ZpWVNya0NrLTM3SXFycGNFUHRKWGx1M3VQSXZqTzdhVGFkUDVKbk5wX1dXR1dGZEU3OHBKSUtmeTNfSXZhQkhNeS0tT2phUkkxU1d3N3BHWF9vMjU4TVkyY1BfS2kwcmpLZFN3ay1TSExEODl4YkZvS3VrLUR5Z0tNOUJ2MnRSRWZHV1VhdXpkOE5iNDk2eWMxclg5dng5dWNvM2NfRjNsLVlvRGZKT3ZqaW9hZTFxYVgtZnp2ejA5ZnU3c1dPaVdWUm1fTnRIQUZyYWdMZDdTMlB2M25Rd3NCdWhaeVFDLWtB0gHzAUFVX3lxTE5LblNjSmJWY1k3UXFFTGdLNkI3TG9WdG42TVYtaWZ0dXdaMlp1R1pjWWtsX2J4RktWbGh1YlZscDR0VFQwU2IyTXUzTlVPbGJHSVBXTlhzUnpuYlNwSTdXTkN1Vk0zQlI3QVp2VDNjLXRMY1hmTnZUNlhoR3Y0MVZhZ1R3RDVNaElVQzhlbmxDY2k5NEhoZlNrTzZKQnZacDh5aEtXSGlmZVoyb0VDSW1hby1vWFpIOEw3aW9SVnBpWGpYSTc3dlJnMWQ2M0lfVTdhM3N2UnlJV1lxd3VKc3A1ME1oM21MWWZJRF9jOUVfNVdsRQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Know Your Turncoats, Part 10: Kin of MP who died by suicide, Sanskrit activist - Newslaundry",
+        "source": "Newslaundry",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdG1jYXF3NDkzeGJ3d3VTYl93b0F4NkgtdWlNRTdNTFhtdVpaV0ZQQmZTZ29OTDR4M0VHLUMycEl1c0FpTWE4b1c3TkdLUklPWlZaV0dkcjZrcUVxZ3lBdTBRNUI2QmozcjMyWVJHWXpVVUNyRjMxV1RuUUxBci1OTF82ZE5VejF4WUZhVFdDNUJOVFVLRW15c0RjUE5fejJvazdBU3BHeG45bFF0Wk5QQXhKcHV0WnhCQzlKMDFycmVsbDVhQzJ0QnRR0gHfAUFVX3lxTE5Rb1FVYzZxMmlFSlVpVE50ai1fYUZiV054WHdEQktvT0otaXpEb1M2TGM5SWpTZlpMam9FaHBoNXV5X1lFcndpa3NKMlpYNWtXT09aQzg0U1FYaGNpRG5hbXJKVlV0TmpjOGFnVllVSmExNGtiQTBOWjNhSmFfMnJYdUxvUE5MYVpXVGR6QUxvRkxfRG9MQWtaMnZNZHJlTkY0N1JReUVBZDBMSTVkdWk1QmlzUWJTZ0JfYldfb1RQM0NYclgwVFUxSUdac2lTRXZWb2NvNDZWM29MNENPUGs?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shiv Sena dedicates first win outside Maharashtra in Dadra and Nagar Haveli to Bal Thackeray - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQzdKcEtYQ2U1Z1UxOUVTd0ZaZ01nUnJRZmRwazJkRGM2Q3ZFb3hxS1hONjZrQkMxbWs5WEM3ZjFCQ1FFLWJ2dTlUeXZkQVJSV0FPbkg4d0g4T29pM2l5YVlLak9mODJCNUMwZFViaEY1ZmRsaU9ndU9JZk9DWWl1M0F6bXhBMFpZUFZjNWxzalFIMnFkWUtzdjI3Z24yZERKb2dwNDMxWlpIRDBxU1hmak9QSzladV9IMU9XZ2JBeHIwb05MN2pQazRZaTRhOHE5OXBwMkg0ZGxsR0NsLThKRFM1Mk5MWktSQ1RXWNIB-gFBVV95cUxNSFhZdWRwOC1MaTZVYzBrVkxyS3M5SGpXVUNadGQxUXdRZUctSWFwQ3VNa0pBMngzUVVrX2ptUWlZbFgtQ3Z5ako4Yy1FeW1YNUoyV25HOU1SWVdDZE5wRThtU3QxT0lRZmxyMl9WSVk3SFBWeDQ2N18yQkFOTXl2eHZIUHVqMmF5cW1kVGFkbFQtN0c3dDZEVVNXRGRHcU1VYm5ndXh4eEdzS3phWWtCZTdpOU8wQTVWSGVKRzNiZ2xOcVdsc3hYc0NxMjdrOGJ6MHlFWWdId3dJeWZHT3J1aUNtR1lwQzlyakhLUWlRaGQyR1YxRFZtb2R3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "5 MPs seek details of alleged government lies: Teacher calls neighbour’s rooftop pipe a water harvesting sy... - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa25ncS12TzdsRV9lT3lyMGRLb3RhRUpJY2xSSUp1YV91ajlHMnM0dTJSSFM2TGI1dXFzOWNqV1JlWHBVVzlFOVF4bHRzVzVmQWlRSDJHN2pRcWtpVHB0RXpsaFNxYXhCSU1WZ1d1R0RMR2NpcnAyNVRRTXh1OHZBbEhMVF9iSTUzMzBTOW43eTgtMjVaZlBPSzRXYnp3Yk9MRnlQS0pMS0xmRk1kd1loZzZURzN3d1dyMmc1T19lQktwUkE2aXBzcHlNLXRIZ3dZQktZ0gHYAUFVX3lxTE4xY2E4OTZPd2VDWEg3Um9CUVFuTTBMSHF2aU9rNzA1X25lU3gwOW1Zb1Q5cVJPbWdLUGtXTkpGeF9odzB2Yl9wSmhMdDBpZXFTREc5ZG04RFp0Vm5jZUI2VHIwbm43ZHRDaEpkcFU2aG5fS3FUazNScDRGUG9KM3dmSkVUQ1prajFYdU5RV3piOGZXczF4R0s5U2sybDgzN1ZSdWRHemVQcHdZc1dUak5qeEtJaEczTjJ5bUFlS2dPMkg1cmlYeEtpXzZ2Sy1ERlFSYTdnMVBWdA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:14.550114Z",
+    "collected_at": "2026-09-02T14:26:14.600968Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.745347Z",
+          "fetched_at": "2026-09-02T18:38:05.336913Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.745357Z",
+          "fetched_at": "2026-09-02T18:38:05.336923Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.745362Z",
+          "fetched_at": "2026-09-02T18:38:05.336929Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.745367Z",
+          "fetched_at": "2026-09-02T18:38:05.336934Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.745373Z",
+          "fetched_at": "2026-09-02T18:38:05.336940Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.745377Z",
+          "fetched_at": "2026-09-02T18:38:05.336945Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.745382Z",
+          "fetched_at": "2026-09-02T18:38:05.336949Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,11 +322,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/kaldbenmohandelkar/",
+          "url": "https://facebook.com/https://www.facebook.com/kaldbenmohandelkar/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/kalaben_mohan_delkar/reel/CkiE7ZepLIu/",
+          "url": "https://instagram.com/https://www.instagram.com/kalaben_mohan_delkar/reel/CkiE7ZepLIu/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:22:30.872083Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 9,
@@ -314,19 +384,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Dadra Nagar Haveli Election Result 2024 LIVE Updates Highlights: Delkar Kalaben Mohanbhai of BJP Wins - News18",
-          "source": "News18",
+          "headline": "Shiv Sena dedicates first win outside Maharashtra in Dadra and Nagar Haveli to Bal Thackeray - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObmhjZEF3WEVWdUc3enp5N1FvWDMzY3F6U05tVmVXMmR0Z3JINFZaQ09TZ0xzMlBHeEszTjZpeHpQcXJhYVlVWXVubTdnTFNXZnVNVkk1akkxOGhLbmJPbk1pMF8xRGJIRkl5ZVhQMHV4NjNweFRQamtxRlREMzVVc3NfZ0MxNFJqYktHdENmMHo0Y1NJeVFPU2M4dDdfTWttUm5EMHVWaHQ0R3FyQVBlaW1mUnp5Tm5PNlg2RmlsNlpDYVVxWXBidjFNVGRoU3FHLXZaTkt2MlpnbTdtSFFZWF9tM2lpallIanRZLUY1cHLSAfYBQVVfeXFMT2ZBZWdvbk15TjZMaURBdWM5NjlGUi1VTHFnNWV2bjBhb0tQZ0lockFXclhiT2xOSkJpLWp3RTM2S01mZ0hUZUtLb2Q4NGJPaVdOOEhoeDBmWm01RVVOWWZkTXJ2SmZMN0IxMjB0Rl9Yb1BHd2UyekVtaERPNjBCdmFsbG9DUTdaX09Cc1FiT1FvbUpFNDllaG5lbDJINzE3XzJqOHQ4bW13bzl0QVVzOHh1MzI3Q3JTamN2dC1YdWc3aDJmamJDemRzaV82SGlGNm9SbjkzRzNQNElOS1RwY3pzOU5yVi1iMGc2MllBa19VQkc1d0RB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQzdKcEtYQ2U1Z1UxOUVTd0ZaZ01nUnJRZmRwazJkRGM2Q3ZFb3hxS1hONjZrQkMxbWs5WEM3ZjFCQ1FFLWJ2dTlUeXZkQVJSV0FPbkg4d0g4T29pM2l5YVlLak9mODJCNUMwZFViaEY1ZmRsaU9ndU9JZk9DWWl1M0F6bXhBMFpZUFZjNWxzalFIMnFkWUtzdjI3Z24yZERKb2dwNDMxWlpIRDBxU1hmak9QSzladV9IMU9XZ2JBeHIwb05MN2pQazRZaTRhOHE5OXBwMkg0ZGxsR0NsLThKRFM1Mk5MWktSQ1RXWNIB-gFBVV95cUxNSFhZdWRwOC1MaTZVYzBrVkxyS3M5SGpXVUNadGQxUXdRZUctSWFwQ3VNa0pBMngzUVVrX2ptUWlZbFgtQ3Z5ako4Yy1FeW1YNUoyV25HOU1SWVdDZE5wRThtU3QxT0lRZmxyMl9WSVk3SFBWeDQ2N18yQkFOTXl2eHZIUHVqMmF5cW1kVGFkbFQtN0c3dDZEVVNXRGRHcU1VYm5ndXh4eEdzS3phWWtCZTdpOU8wQTVWSGVKRzNiZ2xOcVdsc3hYc0NxMjdrOGJ6MHlFWWdId3dJeWZHT3J1aUNtR1lwQzlyakhLUWlRaGQyR1YxRFZtb2R3?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "MP Mohan Delkars Suicide Note 15-Page Long, Written On Official Letter Pad: Mumbai Police - ABP News",
-          "source": "ABP News",
+          "headline": "5 MPs seek details of alleged government lies: Teacher calls neighbour’s rooftop pipe a water harvesting sy... - bhaskarenglish.in",
+          "source": "bhaskarenglish.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGowYXF1cW8wSjEzeG1mcVNKdldMUmxnZ3A1SVFiSV9HYmJiTTRCSkUyWWVZOVUtSW1ueUFtTmZ3cmV1WVdGeDgweXFzZXMyX0NmaGlSZzlDU0lZMnIzOWxYTGtxZDkwTmlEbWp4WG94U0QwVnczMUJOdkgwRVI4cWFvWEN6d1RFNGZVT2VWUXpaMUdnRzc1dHZUdWxrSkdXRDUzS0VfeElRbnVzZzNOZ2ZnU3U2ZGdt0gG-AUFVX3lxTFAtbDRRcU9KS29hYjBRNVdBNXFQSUdsSVJuY0xNSF9YS0RMX215U2lPRzNwNG5LZUZCZ3Rla1dfWkxnNjVkNkdPcVd0aGUtSzV3Z0prR1N5dV9pNDR5a3BURW9RUUprcEU1R2F2NXdzQktScnEzVHI3dHUyLVROb0dFaTNzQ19JdWVlM1ZfSExnUW5XT2NtWGRydURORHM5cXpTbk9ic0d4bjlxSHBETnpFbk1ITUNHeEJ5b1ZHTVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa25ncS12TzdsRV9lT3lyMGRLb3RhRUpJY2xSSUp1YV91ajlHMnM0dTJSSFM2TGI1dXFzOWNqV1JlWHBVVzlFOVF4bHRzVzVmQWlRSDJHN2pRcWtpVHB0RXpsaFNxYXhCSU1WZ1d1R0RMR2NpcnAyNVRRTXh1OHZBbEhMVF9iSTUzMzBTOW43eTgtMjVaZlBPSzRXYnp3Yk9MRnlQS0pMS0xmRk1kd1loZzZURzN3d1dyMmc1T19lQktwUkE2aXBzcHlNLXRIZ3dZQktZ0gHYAUFVX3lxTE4xY2E4OTZPd2VDWEg3Um9CUVFuTTBMSHF2aU9rNzA1X25lU3gwOW1Zb1Q5cVJPbWdLUGtXTkpGeF9odzB2Yl9wSmhMdDBpZXFTREc5ZG04RFp0Vm5jZUI2VHIwbm43ZHRDaEpkcFU2aG5fS3FUazNScDRGUG9KM3dmSkVUQ1prajFYdU5RV3piOGZXczF4R0s5U2sybDgzN1ZSdWRHemVQcHdZc1dUak5qeEtJaEczTjJ5bUFlS2dPMkg1cmlYeEtpXzZ2Sy1ERlFSYTdnMVBWdA?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -360,15 +430,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 58,
+      "starred_questions": 17,
+      "unstarred_questions": 41,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +446,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +477,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +504,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Dadra And Nagar Haveli And Daman And Diu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 714,454,357. Parliament attendance: 90.0%. Questions asked: 58. Debates participated: 9.",
-  "validated_at": "2026-09-02T01:36:47.746196Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 58. Debates participated: 9. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.337730Z"
 }

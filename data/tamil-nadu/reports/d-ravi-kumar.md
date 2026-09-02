@@ -3,24 +3,22 @@
 **Constituency:** Viluppuram, Tamil Nadu
 **Party:** Viduthalai Chiruthaigal Katchi
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 26
-**Education:** Others
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.4 / 100
+## Composite Transparency Score: 57.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 45.9 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 40.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.80 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 1.80 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 0% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 17
-- **Released:** Rs 17
-- **Sanctioned:** Rs 12
-- **Expended:** Rs 9
-- **Utilization Rate:** 53.9%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +66,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://writerravikumar@twitter](https://x.com/http://writerravikumar@twitter) | No | Yes |
+| Facebook | [@http://Ravikumar@facebook](https://facebook.com/http://Ravikumar@facebook) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +85,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- ‘Raises doubts on political morality’: VCK MP Ravikumar on rumours of Cabinet posts for AIADMK MLAs - The News Minute (The News Minute) [neutral]
-- Any Cabinet berth for AIADMK rebels ethically, morally wrong: VCK gen secy Ravikumar - DT Next (DT Next) [neutral]
-- Withdraw Draft Indian Statistical Institute Bill: Villupuram MP - The Hindu (The Hindu) [neutral]
-- Villupuram MP urges withdrawal of Draft Bill released by MoSPI - The New Indian Express (The New Indian Express) [neutral]
-- Viluppuram (SC) Tamil Nadu Viduthalai Chiruthaigal Katchi - The Times of India (The Times of India) [neutral]
+- VCK MP bats for cabinet berth, says Vijay shouldn't induct AIADMK rebels - The Federal (The Federal) [neutral]
+- Rewarding rebel AIADMK MLAs with minister posts raises serious ethical questions: VCK - The New Indian Express (The New Indian Express) [neutral]
+- Dalits' share among prisoners as high as 50%: Villupuram MP Ravikumar - DT Next (DT Next) [neutral]
+- Villupuram MP urges Union Finance Minister to continue GST concession on car purchases for persons with disabilities - The Hindu (The Hindu) [neutral]
+- Villupuram MP slams Centre for ‘blocking’ Vikatan website, demands immediate restoration - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **VCK MP bats for cabinet berth, says Vijay shouldn't induct AIADMK rebels - The Federal** (The Federal)
+- ! **Rewarding rebel AIADMK MLAs with minister posts raises serious ethical questions: VCK - The New Indian Express** (The New Indian Express)
+- ! **Dalits' share among prisoners as high as 50%: Villupuram MP Ravikumar - DT Next** (DT Next)
+- ! **Villupuram MP urges Union Finance Minister to continue GST concession on car purchases for persons with disabilities - The Hindu** (The Hindu)
+- ! **Villupuram MP slams Centre for ‘blocking’ Vikatan website, demands immediate restoration - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-D Ravi Kumar shows moderate transparency with a score of 56.4/100. No criminal cases declared. Active in questions and debates.
+D Ravi Kumar shows moderate transparency with a score of 57.0/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 180,000. MPLADS utilization: 53.9%. Parliament attendance: 40.0%. Questions asked: 45. Debates participated: 6.
+No criminal cases declared. Parliament attendance: 40.0%. Questions asked: 45. Debates participated: 6. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 180,000. MPLADS utilization: 53.
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +239,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for D Ravi Kumar's MPLADS account: Released: Rs 17, Expended: Rs 9, Utilization: 53.9%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,16 +4,16 @@
     "constituency": "Muzaffarpur",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7133,
+    "myneta_candidate_id": null,
     "slug": "raj-bhushan-choudhary",
     "house": "lok_sabha",
     "sansad_member_id": 5568,
     "profile_url": null,
     "canonical_name": "Raj Bhushan Choudhary",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 46,
+    "age": null,
     "photo_url": "/mp-photos/5568.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Muzaffarpur",
       "state": "bihar",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 7133,
+      "myneta_candidate_id": null,
       "slug": "raj-bhushan-choudhary",
       "house": "lok_sabha",
       "sansad_member_id": 5568,
       "profile_url": null,
       "canonical_name": "Raj Bhushan Choudhary",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 46,
+      "age": null,
       "photo_url": "/mp-photos/5568.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:23.803712Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 205295066.0,
-      "liabilities": 54608134.0,
-      "net_worth": 150686932.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7133",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.199481Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 72.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.7,
-      "expended": 9.47,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:20:51.510951Z",
-          "notes": "Official eSAKSHI REST API — Works: 88 recommended, 86 sanctioned, 77 completed"
+          "fetched_at": "2026-09-02T14:40:55.752219Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:37:13.049024Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:37:13.046878Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 88,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 64.421768707483
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:07.937340Z",
+          "fetched_at": "2026-09-02T14:37:13.046071Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Jal Mahotsav 2026 marks the beginning with Nationwide Observance of Jal Arpan Diwas, coinciding with International Women’s Day, observed as “Sujalam Shakti Diwas” across the country. - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkSVVBdjF5TlJfenZ4QVIxZm1qdWVKMjNXU3ViSFM5bmpqYlp6aThZek5zTEh3MWp6eWE0NE5ZWFVaZWI4dVZpb2tVcVBOTVQ1bzFKTlNvMW5mbUwxZ1BaenBmRDdSd0V2TGFFNU1KdEJzR2l5OXlwdnZR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Muzaffarpur Election Result 2025 Live: BJP's Ranjan Kumar wins by a clear margin - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMXYxODlCNXBVbE04Zi1FY2hnNGJQRlBRMDYtdUgzd3ZNWXhVcFhNQWlHMU0tbWU5cS1aMkc0MjNfblpyOFo3RXhrZzhudmZpenMtMEJ4M2ZlWHVteW11cno3ckYwZ2hrMkFtSzNCaTB4SlptYWg4WDdVSnlOZnZWNXI2X080eUd6TFNZY3QzcF9nWFhtam03YjY0Z1NvT0MwVlZFUmdxWVB5bEt1VEItOWszUHp6RVdEdjd5eUdKc0V1dDQtQ0UxdnJpUGlYRDJHZ3BhUTI2NlYxT0F3LVk40gHkAUFVX3lxTE1mZnhEdzAzM0J0LUlLd2FjdElsY3lYRGpJVFlyMENNVkd1VVBSRThnNmdHM0MxYTJteVNqRU1Jb3NIZ3Fqdk1RMzM3Ukw0RThmZmxqVlFIdVZqVGJic1lFOE00QXEtS0d2VjlBYk84RVdjWkhkNUxoSTdfZEJpT19kUTZXTjU4YnBMZ2d0MnNuRVZBQmRPcTRfbEtUdkVfaGhkU0dFT0tpWVd3UWZGOWRoc09uRVlmcVpoQzdSakhuYTkxUU1Wa0ZkbUQ5MFV2Y1BBWmlaTDVIckxSMDcyRjNXdTM3Sg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Voice of Medical Profession in Parliament: Dr Raj Bhushan Chaudhary, MoS Jal Shakti in Modi Cabinet 3.0 - Medical Dialogues",
+        "source": "Medical Dialogues",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQjhpeXJUb2s1LVU4Q05VYUNvUk1hTHZmTFN1bUczUHJVNUpsbGhRTm5ianFhUHRWV3pnWHUxVDRvYWN2Yl94d0JsV3BLMDVzTlIyY0RNcHlPdjc4S3BuNXFjbkpWOFlwdld2Zk5rVFNTd3RCT001d09VM093eWQyLWZXMU5Zd1ZsTUNJdUI2X1p0RFZKdlEyOE82alVoZ3d2MEZWanZVekc1aHRsVzlkNVNwR3dXQWdMYzNZeUIzU2RKUk4zcnpqSW1GZmlBLV9BS2pNN1hZZGJwVDRNb00tN3JaRl9zNjRxdGtxVNIB8gFBVV95cUxOc1ljZ19PeEZndEpSWkFYdHNIdFNtN1d6Nmt2a1Iyc3FWd0FCNFNjRDhwR1JHcTBqNEN0ZWdOYjl6VEhOMmtFSW03QzlQbUgtTUNrUW9Walp1UGlaYlpqVWptWHlWQndENjF1U09EVUJyYkc4ekE5cUU5aWNWRUt6V0M4dGlXRmoyN3VyelpiNzAtVU1XcWsxVU1YcE1tX3dPMmMyWTRCRUxKS0RSLXVjVnhRanRiOENxMC1QcHBJQ1RDOWNmeVpwWkVlblFTdGRLZ2xYUng3U0pzRTN4N0xFeFRCWWR5VU9ocVUwejlHRVlUUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Delhi Confidential | Not ‘in the name of God’: BJP’s Raj Bhushan Choudhary takes a different oath in Lok Sabha - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeF93OTVLNXdSbFpHU1BxVG56dXNRb3FUUzllU1k4RW9yYTFlS2Z1UDVKWFdDNDNoMm00YW1ucnpwSVBsbFItNXAyRkVucGRVWW1QWW8xSGZxX0RoUlZBRDJORkhySW5HYXJ2SS1WcF9CN0l5RGp1UUNmYVFKbGFTejBMQVdNbVBMSmpZQ3p5SDdndnRKQ0xJVkV3aGE2d9IBpAFBVV95cUxOcVdhM3FmTGhLT1pKb2lETFB6TlVZVmZQemY2a3U2TTI4V2lPMVVNWS1FNkZGc3hOV3hpM25Kc2xRSXBNZjFUVUxqbjdPeHVCOWVtcTFJQjZmRzVqWXhFckJXT0VhV1RjcWdoSy1wc0NfcmFpV3NqdnBSeFBpblctN25qRjVIMnNHUDBVbl9kSG5BdXNXdWdmOFJ5aEVXTWl5aG1QaQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bihar: Decoding Why MoS Status for EBCs and Cabinet Berths for Dalits in the New NDA Govt - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaEdWdTBOQnQxeXI4R2ZtU2JnaFR4TDZEbUNjbXpMSW41YkVHcDlMWGZ5WHY2NU9zZkVKWFVGMi0tdHBBUzRLY1BPVEtVek5DdVpFOGRmbzljeWMwV3hyZEd1UV9zd2tpY3BURWh2bVF3NWl0Nl9iOXc0R1BzcnhrWk5MS2VyNDJNYWt1Z3FJR2M2UTRMaFFfclBheGpEV2tsck8zSlpUbWVDOTIySWJiRE1IeXhWT0RVeFozbG9TUi05akZD0gHKAUFVX3lxTE5Nb19tam94RGZZV2p0WGxjOERFNmJGa3Q3SW9LcjdfNXdEemVWcjNDcnlkWDR1MlRTZEZDZEg4YldGTFYxc2pPZmx5MUxDQkVmOUc1Z3p0c2ZoeDVpeGdqOHRISEpFdWhnVDBjcW9rNnNMbUh1ZEtQcFowTFdvc3JpYnZxMVozV2hTSTd3QlNWUEpjOUdoWWdabmQ0blFjZ0RBLWd3NllIOXBqR0JBNVZNWW9JQ0hUaXktY3hFX09NVmdMeldwb20wNUE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:10.192269Z",
+    "collected_at": "2026-09-02T14:40:55.752962Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.306010Z",
+          "fetched_at": "2026-09-02T18:38:04.766676Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.306020Z",
+          "fetched_at": "2026-09-02T18:38:04.766687Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.306025Z",
+          "fetched_at": "2026-09-02T18:38:04.766693Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.306029Z",
+          "fetched_at": "2026-09-02T18:38:04.766699Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.306034Z",
+          "fetched_at": "2026-09-02T18:38:04.766705Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.306039Z",
+          "fetched_at": "2026-09-02T18:38:04.766710Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.306044Z",
+          "fetched_at": "2026-09-02T18:38:04.766715Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.306048Z",
+          "fetched_at": "2026-09-02T18:38:04.766720Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -306,14 +359,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Delhi Confidential | Not ‘in the name of God’: BJP’s Raj Bhushan Choudhary takes a different oath in Lok Sabha - The Indian Express",
-          "source": "The Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeF93OTVLNXdSbFpHU1BxVG56dXNRb3FUUzllU1k4RW9yYTFlS2Z1UDVKWFdDNDNoMm00YW1ucnpwSVBsbFItNXAyRkVucGRVWW1QWW8xSGZxX0RoUlZBRDJORkhySW5HYXJ2SS1WcF9CN0l5RGp1UUNmYVFKbGFTejBMQVdNbVBMSmpZQ3p5SDdndnRKQ0xJVkV3aGE2d9IBpAFBVV95cUxOcVdhM3FmTGhLT1pKb2lETFB6TlVZVmZQemY2a3U2TTI4V2lPMVVNWS1FNkZGc3hOV3hpM25Kc2xRSXBNZjFUVUxqbjdPeHVCOWVtcTFJQjZmRzVqWXhFckJXT0VhV1RjcWdoSy1wc0NfcmFpV3NqdnBSeFBpblctN25qRjVIMnNHUDBVbl9kSG5BdXNXdWdmOFJ5aEVXTWl5aG1QaQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Muzaffarpur Election Result 2025 Live: BJP's Ranjan Kumar wins by a clear margin - The Times of India",
           "source": "The Times of India",
           "severity": "low",
@@ -330,11 +375,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Raj Bushan Chaudhary Latest News, Updates in Hindi | राजभूषण चौधरी के समाचार और अपडेट - AajTak",
-          "source": "AajTak",
+          "headline": "Delhi Confidential | Not ‘in the name of God’: BJP’s Raj Bhushan Choudhary takes a different oath in Lok Sabha - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJQVBBUDV4ajgxNEdaM0RMTTBFdXF1OHFYMlU5bUtOcnJlbjhkZGV4YWQ3NHpvY2VzLU12MUg4WHZuUHlLb2dhd29yNXBfUmhoZkRvS1lCdU9fZkVU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeF93OTVLNXdSbFpHU1BxVG56dXNRb3FUUzllU1k4RW9yYTFlS2Z1UDVKWFdDNDNoMm00YW1ucnpwSVBsbFItNXAyRkVucGRVWW1QWW8xSGZxX0RoUlZBRDJORkhySW5HYXJ2SS1WcF9CN0l5RGp1UUNmYVFKbGFTejBMQVdNbVBMSmpZQ3p5SDdndnRKQ0xJVkV3aGE2d9IBpAFBVV95cUxOcVdhM3FmTGhLT1pKb2lETFB6TlVZVmZQemY2a3U2TTI4V2lPMVVNWS1FNkZGc3hOV3hpM25Kc2xRSXBNZjFUVUxqbjdPeHVCOWVtcTFJQjZmRzVqWXhFckJXT0VhV1RjcWdoSy1wc0NfcmFpV3NqdnBSeFBpblctN25qRjVIMnNHUDBVbl9kSG5BdXNXdWdmOFJ5aEVXTWl5aG1QaQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Bihar: Decoding Why MoS Status for EBCs and Cabinet Berths for Dalits in the New NDA Govt - TheWire.in",
+          "source": "TheWire.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaEdWdTBOQnQxeXI4R2ZtU2JnaFR4TDZEbUNjbXpMSW41YkVHcDlMWGZ5WHY2NU9zZkVKWFVGMi0tdHBBUzRLY1BPVEtVek5DdVpFOGRmbzljeWMwV3hyZEd1UV9zd2tpY3BURWh2bVF3NWl0Nl9iOXc0R1BzcnhrWk5MS2VyNDJNYWt1Z3FJR2M2UTRMaFFfclBheGpEV2tsck8zSlpUbWVDOTIySWJiRE1IeXhWT0RVeFozbG9TUi05akZD0gHKAUFVX3lxTE5Nb19tam94RGZZV2p0WGxjOERFNmJGa3Q3SW9LcjdfNXdEemVWcjNDcnlkWDR1MlRTZEZDZEg4YldGTFYxc2pPZmx5MUxDQkVmOUc1Z3p0c2ZoeDVpeGdqOHRISEpFdWhnVDBjcW9rNnNMbUh1ZEtQcFowTFdvc3JpYnZxMVozV2hTSTd3QlNWUEpjOUdoWWdabmQ0blFjZ0RBLWd3NllIOXBqR0JBNVZNWW9JQ0hUaXktY3hFX09NVmdMeldwb20wNUE?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -384,7 +437,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.17,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -436,12 +501,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 205,295,066. MPLADS utilization: 64.4%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:47.306830Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.767458Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Kurnool",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": 6787,
+    "myneta_candidate_id": null,
     "slug": "bastipati-nagaraju",
     "house": "lok_sabha",
     "sansad_member_id": 5601,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 45,
+    "age": null,
     "photo_url": "/mp-photos/5601.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:32:55.711849Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 90176000.0,
-    "liabilities": 1936439.0,
-    "net_worth": 88239561.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6787",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:43.849662Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 55.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 16.0,
-    "released": 16.0,
-    "sanctioned": 4.85,
-    "expended": 4.4,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:11:59.166657Z",
-        "notes": "Official eSAKSHI REST API — Works: 158 recommended, 153 sanctioned, 143 completed"
+        "fetched_at": "2026-09-02T14:43:27.723767Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:39:43.090801Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:39:43.087890Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 158,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.500000000000004
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:31.167944Z",
+        "fetched_at": "2026-09-02T14:39:43.086756Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Bharath Pledges Rs1 Crore Donation For Thalassemia Centre - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlZZOGRLRnJyakZ4ckJ1RHBvZXFwaWxLR1BiZEVxcU9tZ2NCVFRIRF9XaWpjRFdSMGRseHlxeDhTNTFQbmh4NjJ2YXFsVlBFb2xXUE54bGtOU0ZFZUJFeXJsOHlvb3owemxuekFxaktwdjZ4Tzg1VFJlTDJ2VTJMWTlhSXNpLV9tN3NxaUU2Y3h5QnN6NzFlUUFSdGlJd3pxTDVWdFVLeEs3bkJLcTcyQlFLOWdJRDBGaDZBcHNZY1pJTV9ncjU00gHMAUFVX3lxTFBfa0VWcWZVRkYyQ2VDMlhzaGlmekhnTmhqNFJ1RUxSeW50Uy1OSjhyeXpWbmpVNzJoQmJtRTE3WnNYU3ozeEpvZW5CNzRHc1B2OUlPdDFDUzAwblA3eVo1bVh2U2V5MXJBVl9CYldJeVQ1cDVvZmh4b2lhZ2pRcWZUc2xYS1RFVkdfeVlKb0E4dEZ4blI5ajVubkFwV19hVTlMTm9zV29ial9aMHNncnVCOFkxR2dTVklGWEdubGpORG9kaHNCUHNIVUk0OQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "NDA government committed to industrial development of Kurnool district, says Minister - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeVMxTy1ScC1jNXZZLVR0X3NXMm1oR1N4V3NUSzhkeUd3MDhpNFFIM1RrVld0djIzVmpLb1pOT1QwNUFTS2Iwb0o2QVUtN2NTUlNIbDlYSFU5VHVZcFE4NEJ5QUlvYXZkclhBUU5QUno2LWZQWXNrcERWU2E1WXpMeDlWZGx4NmptQ2J0bVVRQ3lZeGl5cEg3cFZBczhEWGZVeDZXN2JDdWQ0OEJUNWsyb0w2cElCZUV2TkZJZF9tdkthMy1fbFlCdU5sT0hYUW9USUhtYUxRWWZNMEswSkVNVFpiTWEybjlod01tWDQ2VdIB9gFBVV95cUxPZlBCMXptRVRQTFNCZTVHd3N6YTlwSllEUEFUMHNhLUhKZnpZaDNKLURyLWpRZEVKeTNkb0ctMXljNG9kNFI5MWtGbkh1bWE1cTVrOVAtWEVXcW1MOW9sQWtOb1M2ZnN6U3ZlNl9GcFl4NGk1SW12WjBmbXNsTTZvYVJ6SWtNZjRJX204Wnl4Y3AybG5BQnROTFhwelFDRTFpSEJTQmJLSm9ldGZuaV8zREZoNXd2MnlMZU1SaWlNeno3MkxXdjBkbkJMZTdBLXZ6SHpGelZGMWZmTWZBUklNNlY0SHdRa3lydE1zMDBSVkVxbzgxbWc?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "I will resolve water & unemployment problems: Bastipati Nagaraju - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM084dXJoSUF2eEM1QTRwRUIzYWJobERScVNQRXJnTk1rVXZ1ajhvak1KVnBKSXYwS0FCeDB3M29RZmtFT3VoQ3Q3aGt6bVlCTGQwbl9xejVHc0tMYTV1ay14N3ZFakRSYTFoV3NPY0x3TmdXZ2E2LVgxSTVEWF8zUHNmelhrSHBkY3BmN0JXUGxhQllZSEFRVExhWW0waktIUEIxQVg1NEhiLTJrNm1TT0Vtd2dUUGczMXRUeTZReS0wSndFNFE00gHUAUFVX3lxTE1TbWFHTjhLajVZTHBiXzZCWTZ6Z0F0MXJMSlBlQk82dmVZZVZHNkd4XzIzNS1mT1EzcUs3RGF0M0lZU1R6Y2xMaHl5RnBUdUF5Wk5Fb0dyR0VMQm11VmgxSVlROGtBbzNDMUY5ZGVucTRNY3h1cmZsUVROWm40NFdmRFo3d01uX2JNSGJoZkp0WVI3VnpiRG1hRy1fNHBUZFg4WW5yajBaSkZ1dmhHaVgxblhGSkhBbjNwQ2xpd0lXa0JCN1VNelROSzBfUmdhcENUOWp1?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kurnool election results 2024 live updates: TDP's Bhupathi Raju Srinivasa Varma defeats YSRCP's BY Ramaia - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQdlBQSUZZNjBpWjExMFh6VjZIV1YzTy1Eb2x2ODVva1hIclAtU3FBMlRLcE03R2tZTEtyVnc2bllKM3FZYkNKbjRqWGpvRnY5ejJHWWtXNWVEdllZbWh5bTF4WnlDNVEtYVVBZ2x6dHRQOUNnNVNZdHdFZlJLdjdwLWMxWmFCYk5DMmcwaUJHSUR2SzJ0VWh3Um5KUWFUV1Y3Z0FndGx3N2Q5UzhYX3dWX0JFMDNBTWxiRFNTTW0xa3lIMU1FUUtnQXJ1dHdNcWxxcFFCekRuUlNfOHpwTWlmdmlWeEpHSjBRY1c1cWY0dFVXZUNnNjhEWGZGa2JGVnFoaTlFZ1ZlaVJ6VnM4X0ktZF9nd1czR2RrSFFFRTYzcWVNYVZHN2Q4RVNndm1IajJMZHl6OHhsLVl3V3NodTBudDN3OVRSeDlyRGZhc3BDeV9YQXZRcDJCQm5Qc0lMUdIB4wJBVV95cUxPcVhGYWRPRDVxZ0JWeXJtRks3c0UyRFhoeHVEcjBTN3hQdENwTlVfZ0ZVeGN5dkpTUWdERE1mRWtlOFpxNVJPN2dPR0hqZl9wbzRPZ09pTHZHel9WSFJzaFFMWEpqeWw3ZEVtQzY1dnVXZmRBV0IyNkQ4TDg5OF85SUdlYi1mQVAwU0Y2MFBFT290M043elZpQXFwbHd5bk1reXAyS2c5eXlFY2ZyYWc0YTRWRmNhWlJYelB6bVBpSWVFMHdHd21yaURDYUZHbzRERUI4ZjVCVnVUZV8td0paVHJaVGEwZTRJLUEySEdrN0h2OGdYbXhON0JuZDdJMWtqOVBlTDNydkRSa05NUnZZY2ppR1ZpbUlONEZyX0RyMEUwWnB1VHYwcGFfOEZMOUk0UEM3eWNzRm5WZDBXSFQxUk14QWNweXBrbGFtMG90b1FlWXJZenVEMXVzZjZ6NUZINWJz?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Resonance Educational Institutions launches new campus in Kurnool - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUHZTdHdsOUNPZk5HaWFzY0ZvTU95X3lITElrci1iN1pzY05hRFNfNnNodkM1QTNDLWo2VEF4R2x4QmJ0Y3U3LUo1NW45NTJzd3JraXY4dXFyWkxnLUNzTnl2VVJzSE9Gc19XaC04aUpMZi1oRFVkMDZRLXJKNjEwTEVQLWRJS0IyVDJlVU9nbUJjRGNQVElZTXVPUFlSUTR6TXVZeXd6QkI2WTFDTThnVkk4QVNqbEwwWktBck5rYWpHc0RzSlZfanhzOUw5cHdnbWYyeFN30gHcAUFVX3lxTE84UVJNSUxnaGFTb3E1Q2o1WldBT3NpS0FzS2d1UnZSYVFtbGx6R0VYLWlGRXBjZGhSVFNUZDUtWVcxRkFsd2dTcldzY2Y0Y3BCWWZ3dFpRcklyRHBESWo5MXRHUHo0SkN1WW9XN1ZyeVJEVFN4Wl82UXFyREVnSHQ5RXBrRE53enFqdTZaYy02QlpEUmVhNGRyUjFHS0M2Q2RfUzJ5UXdMeVFuNjAtNW9EMEtwZFg3c0RSWUs0cElfYUlpOHk2OFg4OHlRYjBBdWVxWVd4bDlObGJ0M1c?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:33.481455Z",
+  "collected_at": "2026-09-02T14:43:27.725105Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.278905Z",
+        "fetched_at": "2026-09-02T18:38:03.792284Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.278919Z",
+        "fetched_at": "2026-09-02T18:38:03.792295Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.278927Z",
+        "fetched_at": "2026-09-02T18:38:03.792300Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.278934Z",
+        "fetched_at": "2026-09-02T18:38:03.792305Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.278943Z",
+        "fetched_at": "2026-09-02T18:38:03.792312Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.278950Z",
+        "fetched_at": "2026-09-02T18:38:03.792316Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.278956Z",
+        "fetched_at": "2026-09-02T18:38:03.792321Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,9 +312,9 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 2,
+    "positive": 3,
     "negative": 0,
-    "neutral": 8,
+    "neutral": 7,
     "top_headlines": [
       {
         "headline": "Bharath Pledges Rs1 Crore Donation For Thalassemia Centre - Deccan Chronicle",
@@ -272,12 +325,12 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Resonance Educational Institutions launches new campus in Kurnool - The Hindu",
+        "headline": "NDA government committed to industrial development of Kurnool district, says Minister - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUHZTdHdsOUNPZk5HaWFzY0ZvTU95X3lITElrci1iN1pzY05hRFNfNnNodkM1QTNDLWo2VEF4R2x4QmJ0Y3U3LUo1NW45NTJzd3JraXY4dXFyWkxnLUNzTnl2VVJzSE9Gc19XaC04aUpMZi1oRFVkMDZRLXJKNjEwTEVQLWRJS0IyVDJlVU9nbUJjRGNQVElZTXVPUFlSUTR6TXVZeXd6QkI2WTFDTThnVkk4QVNqbEwwWktBck5rYWpHc0RzSlZfanhzOUw5cHdnbWYyeFN30gHcAUFVX3lxTE84UVJNSUxnaGFTb3E1Q2o1WldBT3NpS0FzS2d1UnZSYVFtbGx6R0VYLWlGRXBjZGhSVFNUZDUtWVcxRkFsd2dTcldzY2Y0Y3BCWWZ3dFpRcklyRHBESWo5MXRHUHo0SkN1WW9XN1ZyeVJEVFN4Wl82UXFyREVnSHQ5RXBrRE53enFqdTZaYy02QlpEUmVhNGRyUjFHS0M2Q2RfUzJ5UXdMeVFuNjAtNW9EMEtwZFg3c0RSWUs0cElfYUlpOHk2OFg4OHlRYjBBdWVxWVd4bDlObGJ0M1c?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeVMxTy1ScC1jNXZZLVR0X3NXMm1oR1N4V3NUSzhkeUd3MDhpNFFIM1RrVld0djIzVmpLb1pOT1QwNUFTS2Iwb0o2QVUtN2NTUlNIbDlYSFU5VHVZcFE4NEJ5QUlvYXZkclhBUU5QUno2LWZQWXNrcERWU2E1WXpMeDlWZGx4NmptQ2J0bVVRQ3lZeGl5cEg3cFZBczhEWGZVeDZXN2JDdWQ0OEJUNWsyb0w2cElCZUV2TkZJZF9tdkthMy1fbFlCdU5sT0hYUW9USUhtYUxRWWZNMEswSkVNVFpiTWEybjlod01tWDQ2VdIB9gFBVV95cUxPZlBCMXptRVRQTFNCZTVHd3N6YTlwSllEUEFUMHNhLUhKZnpZaDNKLURyLWpRZEVKeTNkb0ctMXljNG9kNFI5MWtGbkh1bWE1cTVrOVAtWEVXcW1MOW9sQWtOb1M2ZnN6U3ZlNl9GcFl4NGk1SW12WjBmbXNsTTZvYVJ6SWtNZjRJX204Wnl4Y3AybG5BQnROTFhwelFDRTFpSEJTQmJLSm9ldGZuaV8zREZoNXd2MnlMZU1SaWlNeno3MkxXdjBkbkJMZTdBLXZ6SHpGelZGMWZmTWZBUklNNlY0SHdRa3lydE1zMDBSVkVxbzgxbWc?oc=5",
+        "sentiment": "positive"
       },
       {
         "headline": "I will resolve water & unemployment problems: Bastipati Nagaraju - The New Indian Express",
@@ -288,19 +341,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Focus on alleviating poverty, preventing migration, says Bastipati Nagaraju - Deccan Chronicle",
-        "source": "Deccan Chronicle",
+        "headline": "Kurnool election results 2024 live updates: TDP's Bhupathi Raju Srinivasa Varma defeats YSRCP's BY Ramaia - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSHdZVXZCUS05ZG5oZlpIc28tME1sd0V0Y2V5MDZVc2ZSQWRzR3JMVy05dlRweFVkVmFIdDlvdzNIUE5QdEFERmEtNmJZS3pJb3JVQUNmc0VkV1QzblhHRktnVHBEYmpZVnlrWk1MdVdnendXNU9nSDh0c3NJek1xTDhNaHNHTWNhS1pueC1wMGUzczhacThUbmJCa3RrQzBrQTJjYjRsRWoxRzE2NmszSjY5VU9zcU1nSjgwNkJVSzFVZllKRUhv0gHMAUFVX3lxTE5CNERqVXRwS3VRX25oZ2hGQ1diTDZCLVZuYzVZV1FSb25OdkNaTUpsVzZ6QWxfcFJ6N0dLb1hpMVNhdGRyU3YzaVpPc080cDctRFhRaVNNZWZ5RXUwWlhsVW9JaUo5NkVKZlE1UFVNRWlvYnIwM1FBNW4yNmhkZmp2N0ZUTXdmTWh3dWdlX05iOTVpbVpuaHJQazZaMmwzUnZnYThNa0dFZXk0Wm1WUHptVTEzMzc4ZzJkeGRHbC01X29FVHEyd0xTOUZpVA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQdlBQSUZZNjBpWjExMFh6VjZIV1YzTy1Eb2x2ODVva1hIclAtU3FBMlRLcE03R2tZTEtyVnc2bllKM3FZYkNKbjRqWGpvRnY5ejJHWWtXNWVEdllZbWh5bTF4WnlDNVEtYVVBZ2x6dHRQOUNnNVNZdHdFZlJLdjdwLWMxWmFCYk5DMmcwaUJHSUR2SzJ0VWh3Um5KUWFUV1Y3Z0FndGx3N2Q5UzhYX3dWX0JFMDNBTWxiRFNTTW0xa3lIMU1FUUtnQXJ1dHdNcWxxcFFCekRuUlNfOHpwTWlmdmlWeEpHSjBRY1c1cWY0dFVXZUNnNjhEWGZGa2JGVnFoaTlFZ1ZlaVJ6VnM4X0ktZF9nd1czR2RrSFFFRTYzcWVNYVZHN2Q4RVNndm1IajJMZHl6OHhsLVl3V3NodTBudDN3OVRSeDlyRGZhc3BDeV9YQXZRcDJCQm5Qc0lMUdIB4wJBVV95cUxPcVhGYWRPRDVxZ0JWeXJtRks3c0UyRFhoeHVEcjBTN3hQdENwTlVfZ0ZVeGN5dkpTUWdERE1mRWtlOFpxNVJPN2dPR0hqZl9wbzRPZ09pTHZHel9WSFJzaFFMWEpqeWw3ZEVtQzY1dnVXZmRBV0IyNkQ4TDg5OF85SUdlYi1mQVAwU0Y2MFBFT290M043elZpQXFwbHd5bk1reXAyS2c5eXlFY2ZyYWc0YTRWRmNhWlJYelB6bVBpSWVFMHdHd21yaURDYUZHbzRERUI4ZjVCVnVUZV8td0paVHJaVGEwZTRJLUEySEdrN0h2OGdYbXhON0JuZDdJMWtqOVBlTDNydkRSa05NUnZZY2ppR1ZpbUlONEZyX0RyMEUwWnB1VHYwcGFfOEZMOUk0UEM3eWNzRm5WZDBXSFQxUk14QWNweXBrbGFtMG90b1FlWXJZenVEMXVzZjZ6NUZINWJz?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Bastipati Nagaraju Vows to Empower Madari Kuruba Community - The Hans India",
-        "source": "The Hans India",
+        "headline": "Resonance Educational Institutions launches new campus in Kurnool - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUjEycV96RGpqWXh0dEpacDlfeFZGZ2ZYbjFCaEI1cGNtdHZWdmxBTGVUdnhKTlNRbkk5YkMyTDkybVMzQVZtSnVFY253RHRidGJNYTJxUmg0UWxqdkktdFU5UkhtZW8waW9YUDRzM2ZQSVJmbVYxaVNzeUMyRkh1Qng3WHpkWG1KTk51T0JIQnkxZGpvaE9KY3hqcVBwRHh2WkdMRVppR2dPREXSAbABQVVfeXFMT0NTNU9YR3JtMXJkTC1PNHdxNW44WHFYT3dvT1BTT1hqU1hvSHFpMFF4LWNFempETjRKT2lHZjVOb1VqVXA5WjQ1eFNSc2tRc0FLM3FTZlBZaEdxbU9Mc2NZLWEtQnotNVVqcXdYOGJFY0M4N0V5MktpNHA2eUVLWmR6Ui02d25SQ2p2YjFqN00yMVNUUXFVRjkxMjFHQ0dWejFMQ0lhQi1aVjF1MGRSTnk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUHZTdHdsOUNPZk5HaWFzY0ZvTU95X3lITElrci1iN1pzY05hRFNfNnNodkM1QTNDLWo2VEF4R2x4QmJ0Y3U3LUo1NW45NTJzd3JraXY4dXFyWkxnLUNzTnl2VVJzSE9Gc19XaC04aUpMZi1oRFVkMDZRLXJKNjEwTEVQLWRJS0IyVDJlVU9nbUJjRGNQVElZTXVPUFlSUTR6TXVZeXd6QkI2WTFDTThnVkk4QVNqbEwwWktBck5rYWpHc0RzSlZfanhzOUw5cHdnbWYyeFN30gHcAUFVX3lxTE84UVJNSUxnaGFTb3E1Q2o1WldBT3NpS0FzS2d1UnZSYVFtbGx6R0VYLWlGRXBjZGhSVFNUZDUtWVcxRkFsd2dTcldzY2Y0Y3BCWWZ3dFpRcklyRHBESWo5MXRHUHo0SkN1WW9XN1ZyeVJEVFN4Wl82UXFyREVnSHQ5RXBrRE53enFqdTZaYy02QlpEUmVhNGRyUjFHS0M2Q2RfUzJ5UXdMeVFuNjAtNW9EMEtwZFg3c0RSWUs0cElfYUlpOHk2OFg4OHlRYjBBdWVxWVd4bDlObGJ0M1c?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 40,
+    "starred_questions": 12,
+    "unstarred_questions": 28,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 78.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

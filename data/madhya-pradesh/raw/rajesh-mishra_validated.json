@@ -4,16 +4,16 @@
     "constituency": "Sidhi",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1,
+    "myneta_candidate_id": null,
     "slug": "rajesh-mishra",
     "house": "lok_sabha",
     "sansad_member_id": 5579,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 66,
+    "age": null,
     "photo_url": "/mp-photos/5579.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Sidhi",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 1,
+      "myneta_candidate_id": null,
       "slug": "rajesh-mishra",
       "house": "lok_sabha",
       "sansad_member_id": 5579,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 66,
+      "age": null,
       "photo_url": "/mp-photos/5579.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,96 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "0815/Thana Kotwali Sidhi (MP)",
+          "ipc_sections": [
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "",
+          "fir_no": "0815/Thana Kotwali Sidhi (MP)",
+          "case_no": "",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:01.958077Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 144008066.0,
-      "liabilities": 18427959.0,
-      "net_worth": 125580107.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.143932Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 65.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 26.27,
-      "released": 26.27,
-      "sanctioned": 19.41,
-      "expended": 17.22,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:27:36.867826Z",
-          "notes": "Official eSAKSHI REST API — Works: 280 recommended, 252 sanctioned, 134 completed"
+          "fetched_at": "2026-09-02T14:58:08.419342Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:54:27.822722Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:54:27.819867Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 280,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 65.55005709935287
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +144,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:02.302645Z",
+          "fetched_at": "2026-09-02T14:54:27.818771Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +152,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "BJP MP loses temper with woman in Sidhi: Yells to silence her, scolds youth filming incident - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlpkeHFDbnBHT0hHdmFYWlpqekFfQ0hPbm9ueFhSX25XeEFnYkpKdWlrTFhCRXZheWY2NlA2TkQ4WmU0ekNYN0VGRldfamM1T0FaaFU2NGItWU9KaVZFdVR0d0EzSkhGTEwzZ25OZ1lmVVpCQmY0alJZbTNkOGpZOExael8zQ0tMVXE2YkM2dk41M1R1cC1MeGpqejZYSjY0RklPZ3E5RXFKUW4zNkhuZUpnQ1ZPSGVBeDlDb3hKaVJHTjBD0gHKAUFVX3lxTE5waTBDYW5iQUVEdllTemJLcFZUUlh2bzlzaGI5UE01NzVHQXF4TlZXWGZid1FTX2JJMzFIUzgtX3JPM09LZ0VCRUc3Q09LWF9yWU16dWJ1bUZncHItclVaTng1QlQ1NHlVRVpkdXItcHJlOU9raVFEckpVbC1RWGVST1QyUUpDbDMxU2V4aklJNFVIWTVVckItQU1qTWNBWkZVNWZrVE1GTmdTcXo0bFh3aHF6dEprQ2doTFQxck5ZRVMxeUtTWG5sb0E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "CM interacts with girls taking part in GEM at NTPC Vindhyachal - thehitavada.com",
+        "source": "thehitavada.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWFUR2laNFgtNUF2Y2ZFQlFQRGxlODE5R2NJdHd0cldRNXpaTl9zSkx1eG9ja3dJRGd6XzYyQ3M2MVFRaXZmOEpCUnNTUnFzV1FYVjVJOTNobkN0UTc0QmdleEQ3SHBWOVl4cnNKckJHbFQya044b2J2d2JWYjRWaUhmdlYySWRnaHFYNmFJX3pTUDR2dHVhNDZSQWVHZThxQnhFZmlNTnI2bjdvSXpFSw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dr. Rajesh Mishra , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDA4U0szMkZvbTFSQnhrRlhKcDBVYnlURTA1UkozdS1BaTJhUXV0UDBYVi02RmF6QXJrMm94T0pYMGVDTk82WEtOZGFKRHRNaExFUGhsWWdaM1QxMVRaR2ROOGE2WGpqRlZ6MHB1Y21jcHM5UVZFRGgtLUZ0WDdYanhreGY?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sidhi election results 2024 live updates: BJP's Rajesh Mishra wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVGUzNWFxdGh3TWFXUUc1S1ZLbzl3bDd5Vy0xcHd6RWswNktIMGVMSk1qekNMclJXRnBJeGRwWlEwOHhKZDIzX0kwd1RYelN1UTNicnRVZXZWazNoNHVfRnpZVGhacDRneHV0NnoybzNVWGVWZzVJNE1xRlB2dmI4MGFRVGVWZlZlODRaZkU4d25EbHE4aURoa1pyTVlRUTk5QVJISXkyMHNXaGk1SE9MalFLMDZZTUY4bm9RTXZzSlJmWmJsQ3dhTF9rdW5rbGxkbXJXWkVFazlLNE01Q2ctQnMwNVZDNEwxbjYtRWpZUWFXYVZHR0poN1NuanUydUpEWGRTTEctWVVOUk9EYUxSRHZ6N1NEbkNWaDRaWnlkUU5Ic0FWMVlDQlN2dnJwdnIxZk1hLUxOT21TcmtyT1d6LUhTZ0F6WHBaTFpFakN5YkFheVFFeUHSAdsCQVVfeXFMTklfZVk5LXpISUQyVlhvakFNSFZvZEdJN2R1UXFRNi05VnpWaUp1cWpJcU00SlhhQ3BJSHhXcHBNV0hPREpFZEJjUmc1VGFPUWN5ODBPc294R2dkV2dMVDZiNVhHZVk3QTVBVTRUMVd3alhNd0hMRW9fV3dHQUgyU213RTdiTk9JUFVIZHF0R2pmZ0ZvRkR1ZzlsVm1rRnI2YU95Njk4bk14WTVxUS1MM0F0dUU1VGZZblNoWW8xMXdtSmJvZUNqXzNKVEhWVnJDaXcxVVU2V0FnXzhEdVFCWWZaSi1iVWd3VDhZLWREOHpGUnM0RXJONk9IZ0VsUE5NcXcwNC1hSERodXVPUngzRjNBM3NHQmVndjNpZzNpUktHYmNQN0tlT2dFQkNFX2dPWXJCUXlxTnJRZ053T2xTSEhhQTJyNkNjTTV4WVFDVm52SnZRb29vb3BTRDA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP's bizarre response to pregnant women's demand for road: ‘Will Be Done Before Delivery’ | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUNIUU1TTmtTcTk1NFBLdVEydVI3ZnpSUTg4eXp2TmdENEh1VXRKRi1xcjR5c1Q5dVBSN1lHOFh0QWRQMExhZ2RWMmY2UnFDMDYyWTB1TUt3RUFjLWJfRjY3SzJFZGxYYkY1T2ZGaEh4aHlzWXF1QmdCS0J5bVlBNFc4RmJNUzR3dFlqZnEwTE5mNmZfck11eUZsZmUxTkU0Qlc3S0FURW5LTlkyaVVXQlI3M3FzaG5kRURRYXFfbm5zRWRYYnJKLXY3NFJRYVAxcGI4UkQ3eUpvT0dXd0ZjNDBGaVpJQdIB6wFBVV95cUxPYVdSRVgxZ2xmeERJOWtrNnozQXhaaXFLXzl0S1o2MHdjUXhST0l3d0d2cF9wOVkwQ19BMDRuWnhMS2djQV9QOGJPSDVLakpRRENjVjFtS0dTcXcyVTBDOW5WaFIteEpUanhVMEFVVGptU0hlbjI2R184bWpQMVJnSzFTZkx1LWNBSVpNZVpfRHFzX2llaVNzLWMyZm1HcjdacnJfV3d6ZHQ2bUwyLWJ6cGN1THpSek92cnB6V2ltemk1S19LUUc0NW0wOWQxYjJmSWxNSXZZaHVvYWtuVzZmV0lKU2YzbDN5SU5Z?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:31:57.263363Z",
+    "collected_at": "2026-09-02T14:58:08.420371Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +221,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.001891Z",
+          "fetched_at": "2026-09-02T18:38:07.498884Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +237,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.001899Z",
+          "fetched_at": "2026-09-02T18:38:07.498895Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +253,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.001904Z",
+          "fetched_at": "2026-09-02T18:38:07.498901Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +269,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.001909Z",
+          "fetched_at": "2026-09-02T18:38:07.498906Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +285,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.001914Z",
+          "fetched_at": "2026-09-02T18:38:07.498911Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +301,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.001918Z",
+          "fetched_at": "2026-09-02T18:38:07.498917Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +317,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.001923Z",
+          "fetched_at": "2026-09-02T18:38:07.498921Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +333,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.001927Z",
+          "fetched_at": "2026-09-02T18:38:07.498926Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -294,8 +367,8 @@
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 0,
-      "neutral": 10,
+      "negative": 1,
+      "neutral": 9,
       "top_headlines": [
         {
           "headline": "BJP MP loses temper with woman in Sidhi: Yells to silence her, scolds youth filming incident - Bhaskar English",
@@ -306,35 +379,35 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "'Sidhi urination case conspirator are now MP and MLA': Former BJP MLA Kedarnath Shukla says, 'Party organis... - Bhaskar English",
-          "source": "Bhaskar English",
+          "headline": "CM interacts with girls taking part in GEM at NTPC Vindhyachal - thehitavada.com",
+          "source": "thehitavada.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSF9hSUpXbnNSQjlIR0xsUndmWFpEdDViVW1nS25GU1ZxQ1pxa09rVm9pZEJsbFhMRU5idEFTaU9Jd1Q0bnpYb29rUlhrNXR6UzBCM3hIYnVrMVFNalpJOGtnQkgtN1d4QW8tVE9mU1o2OTFJMnRnRFNrMGFoUzlZMU04WWxueFFCNmNEb2djemhSRmRpbHRFMkFuZzlqajJOMktwRXF0R2lkTzFmSFJFRkFMMmdPOHAwa2hFS3N0TldEYk1jVnRNZ3AtSTM4Y1FBa2xIeTV2VXpFWlRzWDVlZEhEX0w4S250YXAxSzVOUGhLOXZ6RW4wY3dSaHRNUkE1NU1tUUhYWTRyZF9FOWxqeVJVa1ZhWWZuN2hLV0FQSU5Ha2FZM2fSAasCQVVfeXFMTkF2akxBX1lVMlR6cHM4c1JWOVc4eDhxN0pjNUFuYUc0bjl6QXV1ekg1ODBEbjFLSE9KYXNiVU9lUGx2TEJGQjVEbU5RR0Y2SDF0bXZfcmlNVi1hTldDbWJwT3VCM3VXU2dQOVhFbGlIWE9sMFlUa1Q2WDJMcm1sLVRLQXBQamJjRENDbFhXM0xxMDhWaDFnWVhTWTA3ZnRVR3lDc2x2azFfel9jNnd2QXhYZWQzSlI4VG1ocHFCWEVxbU00dlRLNVdiLTUtVUk0Q2hpcnZ1Y3RERm50SU1sM2F3VDU3RXpKeDdHejIxZ1V4c1JJNmpZeDhUNFQ4YXF4VEIwbWl1WDE1cmc0dzhrRHlBeUttb1pDdmQtR2plbUs0c0J3Sk5UTzRKdlk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWFUR2laNFgtNUF2Y2ZFQlFQRGxlODE5R2NJdHd0cldRNXpaTl9zSkx1eG9ja3dJRGd6XzYyQ3M2MVFRaXZmOEpCUnNTUnFzV1FYVjVJOTNobkN0UTc0QmdleEQ3SHBWOVl4cnNKckJHbFQya044b2J2d2JWYjRWaUhmdlYySWRnaHFYNmFJX3pTUDR2dHVhNDZSQWVHZThxQnhFZmlNTnI2bjdvSXpFSw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Leela Sahu को 'उठवा लेंगे' वाले बयान पर BJP सांसद ने दी सफाई, बोले- पूरा वीडियो देखें, मैंने कहीं कुछ गलत नहीं कहा - AajTak",
-          "source": "AajTak",
+          "headline": "Dr. Rajesh Mishra , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN0RacGtDMFpVRi1OTXZMUkY5V29fX3FRcFRyNm9vSl9hR1k5X2p6cDFTZjhnN0ZnWXhOTmRkVV9EaUpVbkp3WG42SURXNXhjU3ZGTnc4OEUzRmVmRXBMcU8zVm02S29VWWI2elNfeGZGNFR2SGk4MkVDZnBrOXctUEZ4bmdRbFRCZnVIQ3FzV3IzWWd4MHMxdnd2dUxhMWZweXgxSHF6OXBiZ211UUhsUmdMY0RlcGdaSG81NzJQbHFEcXNTNlNqUXJVaW82ZmUzeUU00gHYAUFVX3lxTE5OVThST09ObHNpamFRaHVIZC1GMWlsRHFvYy1iZjZzSDF1WEdZMWNndWkzQVBYYnpCNW1maGJ1MXJHQW04Z0czZ3N4MUVYT3NCU3FnTGxPdE5qUE82NXFOczlQY3loZndtLW1LeG4wZmhXSGlqYWNhakpmN2NkNGdidW1UOFBRMnAwVVEwaDYtbDB5ZF9rUVdId29udERkcTFIaXp4UE96SEo0VXBLLWxuQXpMaEJkM2N1UGZTV0RkeWhPQWRUb09oUXk4dU9VeGhwNjdocUNfZA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDA4U0szMkZvbTFSQnhrRlhKcDBVYnlURTA1UkozdS1BaTJhUXV0UDBYVi02RmF6QXJrMm94T0pYMGVDTk82WEtOZGFKRHRNaExFUGhsWWdaM1QxMVRaR2ROOGE2WGpqRlZ6MHB1Y21jcHM5UVZFRGgtLUZ0WDdYanhreGY?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Madhya Pradesh: Pregnant woman demands road for village, MP says she will be shifted before delivery - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOR2VPY0oybktGcVZlQXZzWVNsYmdXRjAzMHp3UjhXYTBvZzdyVnNlNFJwS3ZLb3JONHVWMHRDcy1GVFVuemFkUFZiamFwSG9vaUVvbS16cmhidmhBS1Axc0pRNm91UHo4VDRyZEYxV2tnRVVKMDdpTC1tSjBDTjJZTEJBSGF4TVhXdFJGZEJUcG44SHZDelY4WWZ1MzRWUi11aHZYd1hTbnNJd1lIcEhmaW9DUzU5MlhKcUJqbWoyNTI3a3JoYzV6anJDczMwLVpDRkZIWHgzUG03TU8wUDRzc0IzWGQzdElDLV9sdFplNW9TN2FWMGZWU3FYQkVvelVkaEpYVlV0VDBEdDcybTFxaXVWVUFCQ0HSAZwCQVVfeXFMTnlOQXp2Q2E1amVJZkphTlJfMmNMcDdEWkxQSVViUUdocHlybHVWaDhfaDh6SkkzOERiMV9qcENHSTFYdUEyVXNpcGZRUUxFTWxrc3V6MXBrdUdxVTNvd3d5Z2E5ZWVaUkd0UlllR0s2N2doRDA3LVkyNDlheHR3TTBkWmU2dTRiV0VFM1NXZndhOU1XcXBlUHo4TFo5NFNPYWxyWjFZZEUtWVl4dUxEdU93R2hxa2ZxOVAycmtCME5XMnBwd3RHZ3I0aGIwaWVBeThFLV8zaWxhb2RPTjNOUHFnQ2luV25XVlZhV2ozUHdBcVdsYVBEQTdVZy1xQUZZOXh5akp1bXQ5S2JlS0RCbWhuOXZHX1V2WlpJZ28?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "‘Will get them picked-up before delivery': BJP MP’s bizarre response to pregnant women demanding road; op - The Times of India",
+          "headline": "Sidhi election results 2024 live updates: BJP's Rajesh Mishra wins - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU2RwMjhCNGhuRHNXVkNIZEdVeVctWDFyajRZbms1LUxPZUdfV0FVUk95SXJUQzRxaFRHZlEtb2ZQdWRoNE1obk1DNURmOHhtNjRON1pGMEd0TWUtRjJLQWs5aFJrRUlyRXVRYVYxempVUlY1V1RqVzF4cjljd2JHZHgxNmstd3ZsdmJKcHRoMFBONkRZU3lwVTJZbzd5ZzhtcExOZzlrblNwdlNlR2hBbnRtYTZjakV0V1ZyamE5WkYxNGZtMTJFd1ZLNjZUZVlKSlhET0pXOUZtd2lNUnhRWHNNekRaS2RHZUZRRmFyUzNGR3l3NDlwaHpwWDBnNzRTSEpieFlnb3Y1Qk1jYnVONFhLUlRMQdIBmwJBVV95cUxPWFI1akJDdXZQaDBPdEpxaEZKdFdhSExuZjV5MlpfLTV4SXlnTmo2aG1HUzF2bDNxN2szbTRIY1RrTTFROFpUM0pPWUdkTHZSOUhlanJTeUhuRFhVejc4cmdqYmRnXzNZd1AxQlNBRFBsR2s4elRSRWtTU19Ha2ZlZEp3Uk9VeXZSWE5PbWhVdWlkcFBGaE8xaVZnQlM1a3B1Q2x5c0ttaWhkQ1BueDdQQ20xTVc3Ykc4VjYyQ3pEYXRtWDhiR1YwNUhmZGxXSDNsSFFrTTE0TXZubVRDZ2drWnlrSzg3RnlXeDRaQkhpQlVrbkt6Nm1nSGc2Uzk1UWI5NzB3Nm5MeG1VZGMyX0hWTFpKUTRPN3l2Nzlv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVGUzNWFxdGh3TWFXUUc1S1ZLbzl3bDd5Vy0xcHd6RWswNktIMGVMSk1qekNMclJXRnBJeGRwWlEwOHhKZDIzX0kwd1RYelN1UTNicnRVZXZWazNoNHVfRnpZVGhacDRneHV0NnoybzNVWGVWZzVJNE1xRlB2dmI4MGFRVGVWZlZlODRaZkU4d25EbHE4aURoa1pyTVlRUTk5QVJISXkyMHNXaGk1SE9MalFLMDZZTUY4bm9RTXZzSlJmWmJsQ3dhTF9rdW5rbGxkbXJXWkVFazlLNE01Q2ctQnMwNVZDNEwxbjYtRWpZUWFXYVZHR0poN1NuanUydUpEWGRTTEctWVVOUk9EYUxSRHZ6N1NEbkNWaDRaWnlkUU5Ic0FWMVlDQlN2dnJwdnIxZk1hLUxOT21TcmtyT1d6LUhTZ0F6WHBaTFpFakN5YkFheVFFeUHSAdsCQVVfeXFMTklfZVk5LXpISUQyVlhvakFNSFZvZEdJN2R1UXFRNi05VnpWaUp1cWpJcU00SlhhQ3BJSHhXcHBNV0hPREpFZEJjUmc1VGFPUWN5ODBPc294R2dkV2dMVDZiNVhHZVk3QTVBVTRUMVd3alhNd0hMRW9fV3dHQUgyU213RTdiTk9JUFVIZHF0R2pmZ0ZvRkR1ZzlsVm1rRnI2YU95Njk4bk14WTVxUS1MM0F0dUU1VGZZblNoWW8xMXdtSmJvZUNqXzNKVEhWVnJDaXcxVVU2V0FnXzhEdVFCWWZaSi1iVWd3VDhZLWREOHpGUnM0RXJONk9IZ0VsUE5NcXcwNC1hSERodXVPUngzRjNBM3NHQmVndjNpZzNpUktHYmNQN0tlT2dFQkNFX2dPWXJCUXlxTnJRZ053T2xTSEhhQTJyNkNjTTV4WVFDVm52SnZRb29vb3BTRDA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP MP's bizarre response to pregnant women's demand for road: ‘Will Be Done Before Delivery’ | India News - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUNIUU1TTmtTcTk1NFBLdVEydVI3ZnpSUTg4eXp2TmdENEh1VXRKRi1xcjR5c1Q5dVBSN1lHOFh0QWRQMExhZ2RWMmY2UnFDMDYyWTB1TUt3RUFjLWJfRjY3SzJFZGxYYkY1T2ZGaEh4aHlzWXF1QmdCS0J5bVlBNFc4RmJNUzR3dFlqZnEwTE5mNmZfck11eUZsZmUxTkU0Qlc3S0FURW5LTlkyaVVXQlI3M3FzaG5kRURRYXFfbm5zRWRYYnJKLXY3NFJRYVAxcGI4UkQ3eUpvT0dXd0ZjNDBGaVpJQdIB6wFBVV95cUxPYVdSRVgxZ2xmeERJOWtrNnozQXhaaXFLXzl0S1o2MHdjUXhST0l3d0d2cF9wOVkwQ19BMDRuWnhMS2djQV9QOGJPSDVLakpRRENjVjFtS0dTcXcyVTBDOW5WaFIteEpUanhVMEFVVGptU0hlbjI2R184bWpQMVJnSzFTZkx1LWNBSVpNZVpfRHFzX2llaVNzLWMyZm1HcjdacnJfV3d6ZHQ2bUwyLWJ6cGN1THpSek92cnB6V2ltemk1S19LUUc0NW0wOWQxYjJmSWxNSXZZaHVvYWtuVzZmV0lKU2YzbDN5SU5Z?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +441,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 38,
+      "starred_questions": 11,
+      "unstarred_questions": 27,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 73.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +457,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +488,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +515,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 144,008,066. MPLADS utilization: 65.6%. Parliament attendance: 100.0%. Questions asked: 38. Debates participated: 8.",
-  "validated_at": "2026-09-02T01:36:50.002699Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 38. Debates participated: 8. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.499655Z"
 }

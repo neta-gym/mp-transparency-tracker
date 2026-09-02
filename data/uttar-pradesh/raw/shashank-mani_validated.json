@@ -4,16 +4,16 @@
     "constituency": "Deoria",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 9465,
+    "myneta_candidate_id": null,
     "slug": "shashank-mani",
     "house": "lok_sabha",
     "sansad_member_id": 5688,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5688.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Deoria",
       "state": "uttar pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 9465,
+      "myneta_candidate_id": null,
       "slug": "shashank-mani",
       "house": "lok_sabha",
       "sansad_member_id": 5688,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/5688.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:12.318463Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 255540212.0,
-      "liabilities": 0.0,
-      "net_worth": 255540212.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9465",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.136827Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 75.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.38,
-      "expended": 6.28,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:20.216141Z",
-          "notes": "Official eSAKSHI REST API — Works: 96 recommended, 73 sanctioned, 20 completed"
+          "fetched_at": "2026-09-02T16:51:24.184656Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T16:47:42.541511Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T16:47:42.538577Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 96,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 42.721088435374156
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T13:57:29.858283Z",
+          "fetched_at": "2026-09-02T16:47:42.537534Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Beyond ODOP: Inside Deoria MP’s multi-sector MSME strategy for jobs and rural growth - SME Futures",
+        "source": "SME Futures",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVpXM0pEczJ1akREaTJKRXFRMkZwdU1FUzBINV8xR1JIVDQ0Q0N3T0l2RTVhVUFoNGw4UEVnUTBTNVNDRlVuUkx1RG9ydmlPdllYMnN0dUhMSWwwd0JCSGRPVHNwdkJZOU5CY1RRTEh4Y1FhZmZvZTkxdU5HS3M0MkVtT19oLTBIWUhfN2I4Rnk2cF91NXZCSXR6TmN4RXlSUzNDclAzNGFvUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "UP BJP MP spreading message of environmental protection via tree plantation - Hindusthan Samachar English",
+        "source": "Hindusthan Samachar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOW1GNXhPa1NzWFV6bVJIand3MHJ3eVBieDVhaHc4bTFHejI3aFg5RDRieV9FN2VBdnc2ZU90aDAtWTVOUGdKZkJMVHNQaGEtcTlrVElKLXVFVjgxOGF0VTlVb09hdHV1UTRNMXNGMnBLVWlXWHZIcE9FQmt1RlZQUkFXVW1aTjU3bXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Global AI Confluence is a commendable initiative, future of AI depends on our decisions today: Nepal MP Sandeep Rana - organiser.org",
+        "source": "organiser.org",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSzhnQ0Y2cnZkRXl0Vi1lNllvbXlJRFJBUVBHUEtvUXVINFVDQmZTdVRhcWlTb3RqSVBNUlF2VUJIUHB0akZqbHNxaUJab1I5dzJISThGYXg5RGZhOTN2YUs2ZmJndXFjRFloVE5mb1dnQjBwamYyTmYtTHpOMUl3YXVCVWlYZEtPR2MyY180cy1NSXR5UjJUVUFxdU9uMDlSazBFdmVOV3BTR2lWQ1BHZU1LdlNkZU94M1pRYVhKWE5vaV85M0NJSS1zbVRUeWlLblJ2RWtKSnU1RnJRaHQxM0tmZDhUcGVwNkR4SFliNTVkX2s40gH6AUFVX3lxTE1lT2stam93SXoxZzM0MENlaTZXMEc4VmEyN19maFlzN004c044eWJ1MWUzbjgzNWVfWmZ2YmdjdDhaREVORHI4YVNMMmFYVnRGUktZVG9Ra1lfYVlmRm10OUl1NlE5bE55SHgyaDhyV1Y1WWFsYjdIQm1EbzdHY3B5M3k0VzVOcF9EbWVSaHZkYVc3THRLQUFUY1VvWVQ3RGxVaThCSEd5d3VQa3FxUWllYTRiMjBORmxyZWU4WVFxdjY0ZWMyQTVKTkRZdUhkenNZZkNYbkQyVjZ3T19IQjVjZWdJZFNKM0hGb244bUt0cFA2WUhuR25vb0E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP Shashank Mani launches ‘Amrit Prayas’ plan in Deoria - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdVItR1JfZnhuZlVpclRQMzZwV3JzWXNOZkxaQ0pIUE1vSU11d3FZQ2RIeDlXV0M1VzNyQTlvTTZBQ3lXRXU4b3QtQklacG9Vb1NuSkNjUFlUZXQtZHhVXzNPNXNoWTEyOHZia0IwaER2ellvZzUtV0FNREJSZ0lBTHdKaHhBRFZDUnh6ZlQ1dFI3N3ZJek4zc0t1YzNPZW5Fa3E3UU0waTZLVjFTTVpSSkQtMzlaQWZCRklCMEdNTk1sVFHSAcgBQVVfeXFMTnlZdDRqWDlYRWNhdU5YWnN3OVkxY0stRlJPOVh4M0o1ZEhhQk5sdUJHVVJFSmNNUDIybjg3SlN3V3BQR2dYTWdYRkZiR1d3akRPSWIxRFZma1VyNDlKRGtMcXczTm03VkFQeTYyNmN2MGxkc0ktME5tLS1wLXRPVUZEWC0wQ2JaSHYtZ011UUMyRTVWRUIxU1NFbXVXYWlJc3JmbGpiaEotVXY4Q1B0QXZReUEtVU5UQ24yT3NZT2ptOGRzR3hZbUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "India Rises: Shashank Mani’s 5,000-Mile Paths To Prosperity - Forbes",
+        "source": "Forbes",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXA5dmQydTNib0paTHludlZwWko5bDFnQ3FjLUNMbWMwYXVORlgwazVqTGoxcWFVRlk0NF9zdnNWbU9neTMtT2ZxcnI1LVZKazcxRTRzZlppSDgyWkkwNFRENDFmREpPYlZkQUxQS2RHbHViNVBUX3Y1WVdLUzh2d056Z0xnendselhvdWRaaS1aNUY0eHVoMXByM3VWclRhVUNFYzY5TkdjS1JobGw1Qg?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T13:57:52.037459Z",
+    "collected_at": "2026-09-02T16:51:24.185738Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.250955Z",
+          "fetched_at": "2026-09-02T18:38:11.836511Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.250964Z",
+          "fetched_at": "2026-09-02T18:38:11.836524Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.250970Z",
+          "fetched_at": "2026-09-02T18:38:11.836529Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.250976Z",
+          "fetched_at": "2026-09-02T18:38:11.836535Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.250981Z",
+          "fetched_at": "2026-09-02T18:38:11.836540Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.250987Z",
+          "fetched_at": "2026-09-02T18:38:11.836546Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.250992Z",
+          "fetched_at": "2026-09-02T18:38:11.836551Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.250996Z",
+          "fetched_at": "2026-09-02T18:38:11.836556Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -306,19 +359,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Global AI Confluence is a commendable initiative, future of AI depends on our decisions today: Nepal MP Sandeep Rana - Organiser",
-          "source": "Organiser",
+          "headline": "UP BJP MP spreading message of environmental protection via tree plantation - Hindusthan Samachar English",
+          "source": "Hindusthan Samachar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSzhnQ0Y2cnZkRXl0Vi1lNllvbXlJRFJBUVBHUEtvUXVINFVDQmZTdVRhcWlTb3RqSVBNUlF2VUJIUHB0akZqbHNxaUJab1I5dzJISThGYXg5RGZhOTN2YUs2ZmJndXFjRFloVE5mb1dnQjBwamYyTmYtTHpOMUl3YXVCVWlYZEtPR2MyY180cy1NSXR5UjJUVUFxdU9uMDlSazBFdmVOV3BTR2lWQ1BHZU1LdlNkZU94M1pRYVhKWE5vaV85M0NJSS1zbVRUeWlLblJ2RWtKSnU1RnJRaHQxM0tmZDhUcGVwNkR4SFliNTVkX2s40gH6AUFVX3lxTE1lT2stam93SXoxZzM0MENlaTZXMEc4VmEyN19maFlzN004c044eWJ1MWUzbjgzNWVfWmZ2YmdjdDhaREVORHI4YVNMMmFYVnRGUktZVG9Ra1lfYVlmRm10OUl1NlE5bE55SHgyaDhyV1Y1WWFsYjdIQm1EbzdHY3B5M3k0VzVOcF9EbWVSaHZkYVc3THRLQUFUY1VvWVQ3RGxVaThCSEd5d3VQa3FxUWllYTRiMjBORmxyZWU4WVFxdjY0ZWMyQTVKTkRZdUhkenNZZkNYbkQyVjZ3T19IQjVjZWdJZFNKM0hGb244bUt0cFA2WUhuR25vb0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOW1GNXhPa1NzWFV6bVJIand3MHJ3eVBieDVhaHc4bTFHejI3aFg5RDRieV9FN2VBdnc2ZU90aDAtWTVOUGdKZkJMVHNQaGEtcTlrVElKLXVFVjgxOGF0VTlVb09hdHV1UTRNMXNGMnBLVWlXWHZIcE9FQmt1RlZQUkFXVW1aTjU3bXc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Logistics company Delhivery tests autonomous logistics drones in Deoria - Business Standard",
-          "source": "Business Standard",
+          "headline": "Global AI Confluence is a commendable initiative, future of AI depends on our decisions today: Nepal MP Sandeep Rana - organiser.org",
+          "source": "organiser.org",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeGY2Sms3VWZpUS1HNlB5d1FvNktPWUQzN0NvQ3hVcVhNUlJFOHI2VUVqU2FsOGF6elJYb2JrZFEwYUlfbVFpYzlqQnc5QnVaSGtYUzltRmVPLVRacm51bkV3Sk9LWUNkN2IxWE4ySzhJLXdfQWNjenRnS1VTM3pHQlFZNjFIVVpsU3ZrZXg4Y05OYXdvcTZjNWNWSzhROW5yZmw2ZWdmUGhhNFNkWHBZdDQ3YXA5cUozeDc4V0FWb1J1WXNQVkg1ejhB0gHPAUFVX3lxTE5mRWJfOHVoNENXQ1RKTzczUGtIQmZQekpGOUJGV1pjLTI3S05NR3d4Y1RUdlBfeVNpdzFSVXkxRk8yb0FSWHhrYmJGbFdUZ3RsdjdqdzhubUVXbmVzVGhXbVE4ZmF0VG9XSzBGa0hyMC1Uc04yamNVeXZ5Q2RLa2YzMS14NWRCVnAzdFQ3VWxWUkVsd2xsMUk5R0pnd0llcTQwSTZ2UjVBYXVhb0o0NFMta3ktS3hhaVNHYkVYalc2TTFWaUZZNXNpMW55WmpOQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSzhnQ0Y2cnZkRXl0Vi1lNllvbXlJRFJBUVBHUEtvUXVINFVDQmZTdVRhcWlTb3RqSVBNUlF2VUJIUHB0akZqbHNxaUJab1I5dzJISThGYXg5RGZhOTN2YUs2ZmJndXFjRFloVE5mb1dnQjBwamYyTmYtTHpOMUl3YXVCVWlYZEtPR2MyY180cy1NSXR5UjJUVUFxdU9uMDlSazBFdmVOV3BTR2lWQ1BHZU1LdlNkZU94M1pRYVhKWE5vaV85M0NJSS1zbVRUeWlLblJ2RWtKSnU1RnJRaHQxM0tmZDhUcGVwNkR4SFliNTVkX2s40gH6AUFVX3lxTE1lT2stam93SXoxZzM0MENlaTZXMEc4VmEyN19maFlzN004c044eWJ1MWUzbjgzNWVfWmZ2YmdjdDhaREVORHI4YVNMMmFYVnRGUktZVG9Ra1lfYVlmRm10OUl1NlE5bE55SHgyaDhyV1Y1WWFsYjdIQm1EbzdHY3B5M3k0VzVOcF9EbWVSaHZkYVc3THRLQUFUY1VvWVQ3RGxVaThCSEd5d3VQa3FxUWllYTRiMjBORmxyZWU4WVFxdjY0ZWMyQTVKTkRZdUhkenNZZkNYbkQyVjZ3T19IQjVjZWdJZFNKM0hGb244bUt0cFA2WUhuR25vb0E?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -330,11 +383,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Video: Time Running Out, BJP Candidate Seen Sprinting To File Nomination - NDTV",
-          "source": "NDTV",
+          "headline": "India Rises: Shashank Mani’s 5,000-Mile Paths To Prosperity - Forbes",
+          "source": "Forbes",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVGpJRWE4TDFKTWxrTW5xZHhaSXJyM1dybHh6RFVUVEpVOHRwaTBEc3dsZFdFNE9waXhsZmIyYWpRcGZQLVEtTTNwS2NLOEIwT3k0eWdrVVo1eVBWdVNEbElxVVhxNi1KUC1neXZJUUp0akg0MVpiWHdQZFFhRm51YWtCc3NwaXE0UmktbVRiN2hDR0ZLeERqRVItcEhaeGhSLU0yR2pkb3lzaGhlWXNYX2VTU3pYX1pzTUs2cm1UX0tITGV6Ym1fbnRaZEI5cnI0T09tcVJvcVMxRThLR3ROY1pubklLOFE1ZFN1c1Nsc1JpNXfSAfsBQVVfeXFMT2oyT0sxRjlJVTVGSEo0YndYc2dyUHE1Z0JCYTJVUXlNWHE3dTNHN19jeFNDLVA0RnZ4ZDdxMzNsdU5aV0t6b0lVcWh5ODNITHdfQ1poUFo2Z2dMVUFmYXRQTkJSa252Z01ackJXb2dLRnpyR3FtNGpQdHJEVVM2Z0JZY3FaNmhjSzFFT0lTQ090S1ZjTjZLZWdrMmx4Mng5Zmw1dmc1U0xKTmtjY2dINGxlSmpaWnEzWDBVWUFFX2dUakc1YnVUMEZFZWlocTMwQlBrUVZxTGhKR29mOHVWTVg4WVZTUXltdVhGT1RUT0dlNFFlUkJ2RHB3TGM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXA5dmQydTNib0paTHludlZwWko5bDFnQ3FjLUNMbWMwYXVORlgwazVqTGoxcWFVRlk0NF9zdnNWbU9neTMtT2ZxcnI1LVZKazcxRTRzZlppSDgyWkkwNFRENDFmREpPYlZkQUxQS2RHbHViNVBUX3Y1WVdLUzh2d056Z0xnendselhvdWRaaS1aNUY0eHVoMXByM3VWclRhVUNFYzY5TkdjS1JobGw1Qg?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +421,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 19,
+      "starred_questions": 5,
+      "unstarred_questions": 14,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 36.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +437,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +495,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 255,540,212. MPLADS utilization: 42.7%. Parliament attendance: 100.0%. Questions asked: 19. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:54.251785Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 19. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.837310Z"
 }

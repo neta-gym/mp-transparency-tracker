@@ -4,16 +4,16 @@
     "constituency": "Kheri",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 5211,
+    "myneta_candidate_id": null,
     "slug": "utkarsh-verma-madhur",
     "house": "lok_sabha",
     "sansad_member_id": 5809,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 38,
+    "age": null,
     "photo_url": "/mp-photos/5809.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Kheri",
       "state": "uttar pradesh",
       "party": "Samajwadi Party",
-      "myneta_candidate_id": 5211,
+      "myneta_candidate_id": null,
       "slug": "utkarsh-verma-madhur",
       "house": "lok_sabha",
       "sansad_member_id": 5809,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 38,
+      "age": null,
       "photo_url": "/mp-photos/5809.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:14.295662Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 48296178.0,
-      "liabilities": 4814945.0,
-      "net_worth": 43481233.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5211",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.249770Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 37.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.51,
-      "expended": 6.63,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:24.484850Z",
-          "notes": "Official eSAKSHI REST API — Works: 349 recommended, 349 sanctioned, 197 completed"
+          "fetched_at": "2026-09-02T17:25:34.187213Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:21:53.555064Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:21:53.551740Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 349,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 45.102040816326536
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:04:33.463836Z",
+          "fetched_at": "2026-09-02T17:21:53.550665Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Kheri election results 2024 live updates: SP's Utkarsh Verma wins with over 5 lakh votes - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQNEQwOUhqcXJnU0JvMFM2N0JPbGR5b2gwQ2VBeXlvR05FcWc0ZUltU0REN2gxNXBDRlhDOGt1OGpVamJaZlhpVFZjRnNkXzlRejdxbnRvaVFMQXlDaDY4REtqUzQ1Mk1MV1FzUnY5YU9EaF9MODY2d0x3aVlsa3BuUHRnY2huQU96Q0FFYUdfeU1penRPdHd2QTBoWURTdmRudld3UTVYRHBlMGp4MDFlZE1rUUM1Ti1ORnpDbTZmT3J0eDQwclBod2ZfWVY0Qno4R2hMc0FOanItbWV5dVptS0tFLWppZmxUaDc3UkFRNWNydWtiNXRMUTM1NXRlcWV5UGVvZVIyMHV2X1dqNHVNVXdYY2dpWWF6UGNldEhoN0R0WTEwQXd4aXNTTW1xRFdBTVlLTzZB0gG7AkFVX3lxTFB4TDBmdVk1cks2RFRURndHYzZZMTIxTHVWZkg1WkZoNUFsRVJZU2huVGVTYTVTb29JczUyVlNpX2JKSTJmV1lqRWxvVmp6NUZmeGFiX3NvNHJCa1BJMTN2WXUyYkxya2d0RHlOUzFFeTRHTjRVbHloTDZoU2FDdFVzWFFVR1JETi1JS2RXYzN3STVZY3FKVkZFMkZxLUJvNDFody1MeU90ejF0cTdVTzZoUzFYcGJnNEhTb25DRHlrdGJMM3ViUG5qUDRaSGRRMkpKX2ZscXc2Tm5aSnNxd2pESmJ1R1lON3BMSTRfREdwNHQ2SkdLWVFDVXdBSGxQdFRaQllrb3ZHbHFlTTFtN1VuM1IwRE5qUFc4ajlqUHR2QnNiTTVleHliRXFrTnc4WWNiQkFOZ1NvSFRhVQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttar Pradesh LS Polls: 64 constituencies declare results; BJP wins 28 seats, Samajwadi Party 27 and Congress Six - News On AIR",
+        "source": "News On AIR",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWUZNWTVOWG5TOTg5d2VCRDRKSzlXZ3pJbE0zUFBPTjZTV3h0ZGhFTDgtRk9QUHlfblpSOXNvOGQ4TXBaOElIeU1Wc01vb2Q5VHNCZUdKeTRlZVFubmh6VjQzdmdoZlN0cnFlTktDWXNzS2wxdGZ5dHJnOVpwNENiRFhhc0NJWXJsYTJ0U0xxVnY0U2pCS2ZicjNUd2Y3UFdkclBHYjdrcmJVaWVCZ1JnYUNPRzRoNGk2M045UHk0ZmQ1aHZUUnk0bzREb3JHdmZEQjRxTnl2bmtVYjkzWG1WUA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttar Pradesh MP List With Constituencies, Role of MPs in Uttar Pradesh - PW",
+        "source": "PW",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQ094NzkyRTIyNlNxaHBOMEVtM0ttUUNFc2VMMjExLUVrMXBhdHZfQWFGdzJOenhHZ2drOEZCUlRTeXZIakNjdHRKLWlwVnZadkN4TGR0SkJ4WEJHc2w1LTQ0NEdkallFcTBEYldPeFc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "2024 LS polls: SP deals a blow to Union MoS Teni in Lakhimpur Kheri | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlpkMC1vUWpldXNEd0NMbWJFdXd5cTIzYl9zNWY4RkY3S1Rvb2d4TUt6NEhPYmdrTnVrTXF4OVEzYjczaVdQRThOdUFLbFVVYVJHbUpBb0RnazE3bVg5OE5nNDJHTFVVRHRKSGVpUndrTVI2SFFXM2xEY1FIS2hFUE1idDE3UlFKMzNFUk00bHVzcDBDOEIyRENQb0YxY0dSLVZtM0lYM2tzY0NramVicHZHSk0zN29BYlJyemhUOGhfX2p6U012TERYeFd6aXdVTjRRUtIB2gFBVV95cUxPMVR1N2x6a01FamZxOEVaSlY0NEtVdzJ6UGZxMzdxRmlFbHM1YWtZczVEdE0tRHFLdG5jVzBxQmYyNEF1bEhNd3lnVHdlN1pPX25SZ3ZvbG81SDhVQ3dRdVRPWVhkQlJHaXJlQWdFODJxMndQMjYtbWs1UGRrdlpmVHlmOFEwSm9xYTRxVE53Q3Fvc20zdWVXVU9oT3NYX1p5YkFyQkdNYXB1ZVRXUW13WWotbWsyd05RSHBsT3Ayc1kyRV81aG81WlBNVDVITTI4Mkp5cWc3WXRwZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Is Akhilesh's Samajwadi Party heading for a split?: 21 MPs reject Rajbhar's claim saying 'only those with s... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkFaWlRnYUIyYjBDZXdZTXFSeldmTk1wbTZoeFVWVXlQWHpBdHJNMVZHajVnbmp0blNmUTh1R09EOURPVk9TMUs2QlZaemkyWm9taGt2eU9TQmlXLWNRQmkySF9MWnJXNmhleFFyZDNzV3AxbVFxR2RnbWptaG5CTU5GQUZLOFJqMmNSR1RWbEtGSnllWFhyLWR0bGZSLWI3QXFVMmZrcmx5XzI2X2JOZ1RDUdIBuAFBVV95cUxQQWhFY09KSktieE9OTTNKM2xCdFRPUHRNTXRZNHJPZTkyWk5TUjUzSU1YekRVRU9WaGc1NVlicVZUNEV4dGhEYzE4YjlEUTdueHd0SThEdlpMRXZJQ0wxeHRQLV9qVnR3YzlZSnlXekg2YzY4TmlneVdLWVRlczJrb0JHMVYxQlYtVDYyWWw3a3RpYTU2T1BUazJ1M2FnbzQ3UFhvYzFIZ2VpNWZxNnRtbnFmRXNOMXBC?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:04:53.267513Z",
+    "collected_at": "2026-09-02T17:25:34.188169Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.350654Z",
+          "fetched_at": "2026-09-02T18:38:11.930393Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.350663Z",
+          "fetched_at": "2026-09-02T18:38:11.930404Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.350668Z",
+          "fetched_at": "2026-09-02T18:38:11.930409Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.350673Z",
+          "fetched_at": "2026-09-02T18:38:11.930414Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.350678Z",
+          "fetched_at": "2026-09-02T18:38:11.930420Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.350683Z",
+          "fetched_at": "2026-09-02T18:38:11.930425Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.350687Z",
+          "fetched_at": "2026-09-02T18:38:11.930429Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.350691Z",
+          "fetched_at": "2026-09-02T18:38:11.930434Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,26 +338,35 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/Utkars.VermaMLA/",
+          "url": "https://facebook.com/https://www.facebook.com/Utkars.VermaMLA/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T17:22:23.976711Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 10,
-      "positive": 1,
+      "total_articles": 9,
+      "positive": 0,
       "negative": 0,
       "neutral": 9,
       "top_headlines": [
-        {
-          "headline": "Lakhimpur kheri Election Result : लखीमपुर से सपा प्रत्याशी उत्कर्ष वर्मा ने मारी बाजी, BJP के अजय मिश्र टेनी हारे - AajTak",
-          "source": "AajTak",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdFJFT2h1RTNJSEtNUkVNaUhGWFI5SHJidVp5aURWUHFoYkJVandaRGxYbjNyaEYybDVSSDdNVldFdTVrT3RUbWIzMTNJeXFFSmZraDU3QXRjSHBkclVOdnNDUk1OZVI0R1gxRm51RHR4X2pWcEhyZ1ZIWDAxc0llV0tUWHduOTV1czVmbWtCOXAzblN3MExZZ0xQeFBDV19OWm4wemp6blNnbEJEYlg3cTlmQ2syZEI3UE9OOFVoeV81eGpfZGpHNVM1Z0JoNXRuT1poY2NNUjVfaTVkNWpDbW1nMm50UdIB6wFBVV95cUxQbkZ2Z3VJcDNFZ2VfS3p6c0NBUWo1YlpUTmRaTUZ1SWc3UDBPUXhodngxNWtjVVFmNXprMXUwT3hTaUR6OUJRblk2eDNBb3QwLXNRWlBGSlJxdlVET0FvUEl5Ym5DY3FVSTIzdmIzSDRic2hWOEJGQXhtWlpmNFg0MUFpYnE0akFWZWdpckxlUEpremxQSWpjRlh5clU3WHFDMFpJTmdlSFRoc1hielZBbTRFd0FSVGpTOW5sZDE5S1hIYWxDMWUtVkYyZG8zWTZyYk45NzY2amRDTjQ3SFhLSFg0Wm1VaGVaOXhB?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Kheri election results 2024 live updates: SP's Utkarsh Verma wins with over 5 lakh votes - The Times of India",
           "source": "The Times of India",
@@ -314,31 +376,39 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Utkarsh Verma (Madhur) , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-          "source": "The Hindu",
+          "headline": "Uttar Pradesh LS Polls: 64 constituencies declare results; BJP wins 28 seats, Samajwadi Party 27 and Congress Six - News On AIR",
+          "source": "News On AIR",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcTBPODBoZ1NmZGs0MTFZYndtYmMtc3phYnQxeVhONUpsMUs2akRiRzRVN3pVMk1hNnh2SXRHWlhUdDNadE9lN01DcFNuRGRhUksxaFZWQWRuczlvNndsZHpiSTRFTUttbWJjQzRqSG1aWHF5UmZCVUhoMGZFeU1qbmpEMUctM2xNd3Q5YlZn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWUZNWTVOWG5TOTg5d2VCRDRKSzlXZ3pJbE0zUFBPTjZTV3h0ZGhFTDgtRk9QUHlfblpSOXNvOGQ4TXBaOElIeU1Wc01vb2Q5VHNCZUdKeTRlZVFubmh6VjQzdmdoZlN0cnFlTktDWXNzS2wxdGZ5dHJnOVpwNENiRFhhc0NJWXJsYTJ0U0xxVnY0U2pCS2ZicjNUd2Y3UFdkclBHYjdrcmJVaWVCZ1JnYUNPRzRoNGk2M045UHk0ZmQ1aHZUUnk0bzREb3JHdmZEQjRxTnl2bmtVYjkzWG1WUA?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Lok Sabha Election Results: BJP Bigwig Ajay Mishra Teni Loses UP's Kheri Seat To SP Rival Utkarsh Verma - ABP News",
-          "source": "ABP News",
+          "headline": "Uttar Pradesh MP List With Constituencies, Role of MPs in Uttar Pradesh - PW",
+          "source": "PW",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbWh1bjRwWUJ3MlFYNzZYcmxRaUNTNTNkdDl0dllTNXM4MnFKY2diZnlyNWZWVGc2dDVaeDRuRlhzUmlaVjljeEo5MTI2RXNueTktYUxHMDIyOWhuR2hlNUdINWpTSTRqeThLNmU2ZGQzZHhySFp6dXlIOWJaVFNhQ0N4R0RLM0tLbTJOUUJkbWFpZkRDUzRhUUVMZ2FJVFdJaHRqWklqMC10aGlzTlZBMFJJRVlPejduYUY0bWZYeG1zT1RfUGVFUUNibEduT0h0N1lfYVRRZG9yNlZheF9WSHhvZFlJbnBjZTlkLW5UZmVvN19LM3pPR2hGeTJ2aUJS0gGGAkFVX3lxTFB0bEMyN1NkY19SVlVFRkd5Uk1sZ0YzNWZMeThSTkVyR3BUUC12bUVxblBaS1hjSENBLW92dXhpQ3NCU0tuZUREY2NiazB2R3FsNjBtYWxzdjNDcHl4UnJTN0VoRURSRzdhdVgwZkN6bkt0WjcxRi05b1dVMFg4aDhtOTdYWElqc2E4MlJ4RlEzRk9SSEE4RE9nWGI5NFcwdHJGUXRxMzdkMnZKYWYwVnFWMFJabks4c292WnFfNG1JQm40aEg4RDlSVXh6azRjZ203UGdpakR0eHRvbGpvRTBjNVB3Q1JhYU94cDJXNldPRnhpNXZnZS1rQ2NFN2hEc1JjWGc5b1E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQ094NzkyRTIyNlNxaHBOMEVtM0ttUUNFc2VMMjExLUVrMXBhdHZfQWFGdzJOenhHZ2drOEZCUlRTeXZIakNjdHRKLWlwVnZadkN4TGR0SkJ4WEJHc2w1LTQ0NEdkallFcTBEYldPeFc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Is Govt Mulling Restoration Of Old Pension Scheme For Govt Employees? Finance Minister Nirmala Sitharaman Says THIS - Zee News",
-          "source": "Zee News",
+          "headline": "2024 LS polls: SP deals a blow to Union MoS Teni in Lakhimpur Kheri | Hindustan Times - Hindustan Times",
+          "source": "Hindustan Times",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR0xRQ2VycTdSS09IZ3Bpa2NMNHpYd1FwNjdqVHhkUDZBUC1MakxkZmRHbnljLVJOSjZqdlZUWHl3NXN1NVdkQUtwWDJyMDhJMS16YXRwUE02RS12SlhEbzA2VWU1dTRzVHpZcG9BSHZZM042UlZsT0hHakJZZ0prTFdHbDRJWmFjUXFrTUtKd1NaNzlrWXVQYTBsNXBHUzU3RjhzYkFLRFV6UWNfSzVCY0w3QWgwRFZQR3dqeVJuZXd1MXRsV3ZfQkdVN21Ob3o2NXNQWXFxcTVseGxtTDEzc3hOaW9WRENVeU5uXzZYUnhaNUY0RUppNjhaQTFWWEnSAYQCQVVfeXFMTm04WVY1QVBmVTA0aVdNZ092S1ZQUnFfTjdxMjY2WnZZeXJKeXk4SnJTcE1FeGxyOWhseVRsWDYwRlUzdTA2OUtaR2ZDTTgxLTZqRFNRZXVrWjU5S3FCY1VxSzR1ZlNGbEFaREh6anJyMU5YSEpQX1JvS2ljRy1CQ1psakdTT0YtRHlXSzhuaFVHbkhfMGpxTzYtT1FpZXBvcVZNOXF5S3ZuWklSVWJ4RnFlWlFwakJfMWh1NXFpM0w0Z3lySmpudWw1anI3dnFRTnZqN2t3QzZ2T2ZJcktQVjhMN0NGd0JJZllKbTFEbDJvNnBIa0NRMzdqZFhWQzI4UWhIRzg?oc=5",
-          "sentiment": "positive"
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlpkMC1vUWpldXNEd0NMbWJFdXd5cTIzYl9zNWY4RkY3S1Rvb2d4TUt6NEhPYmdrTnVrTXF4OVEzYjczaVdQRThOdUFLbFVVYVJHbUpBb0RnazE3bVg5OE5nNDJHTFVVRHRKSGVpUndrTVI2SFFXM2xEY1FIS2hFUE1idDE3UlFKMzNFUk00bHVzcDBDOEIyRENQb0YxY0dSLVZtM0lYM2tzY0NramVicHZHSk0zN29BYlJyemhUOGhfX2p6U012TERYeFd6aXdVTjRRUtIB2gFBVV95cUxPMVR1N2x6a01FamZxOEVaSlY0NEtVdzJ6UGZxMzdxRmlFbHM1YWtZczVEdE0tRHFLdG5jVzBxQmYyNEF1bEhNd3lnVHdlN1pPX25SZ3ZvbG81SDhVQ3dRdVRPWVhkQlJHaXJlQWdFODJxMndQMjYtbWs1UGRrdlpmVHlmOFEwSm9xYTRxVE53Q3Fvc20zdWVXVU9oT3NYX1p5YkFyQkdNYXB1ZVRXUW13WWotbWsyd05RSHBsT3Ayc1kyRV81aG81WlBNVDVITTI4Mkp5cWc3WXRwZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Is Akhilesh's Samajwadi Party heading for a split?: 21 MPs reject Rajbhar's claim saying 'only those with s... - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkFaWlRnYUIyYjBDZXdZTXFSeldmTk1wbTZoeFVWVXlQWHpBdHJNMVZHajVnbmp0blNmUTh1R09EOURPVk9TMUs2QlZaemkyWm9taGt2eU9TQmlXLWNRQmkySF9MWnJXNmhleFFyZDNzV3AxbVFxR2RnbWptaG5CTU5GQUZLOFJqMmNSR1RWbEtGSnllWFhyLWR0bGZSLWI3QXFVMmZrcmx5XzI2X2JOZ1RDUdIBuAFBVV95cUxQQWhFY09KSktieE9OTTNKM2xCdFRPUHRNTXRZNHJPZTkyWk5TUjUzSU1YekRVRU9WaGc1NVlicVZUNEV4dGhEYzE4YjlEUTdueHd0SThEdlpMRXZJQ0wxeHRQLV9qVnR3YzlZSnlXekg2YzY4TmlneVdLWVRlczJrb0JHMVYxQlYtVDYyWWw3a3RpYTU2T1BUazJ1M2FnbzQ3UFhvYzFIZ2VpNWZxNnRtbnFmRXNOMXBC?oc=5",
+          "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -368,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 16,
+      "starred_questions": 4,
+      "unstarred_questions": 12,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 30.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 48,296,178. MPLADS utilization: 45.1%. Parliament attendance: 100.0%. Questions asked: 16. Debates participated: 6.",
-  "validated_at": "2026-09-02T01:36:54.351372Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 16. Debates participated: 6. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.931193Z"
 }

@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 28837006.0,
-    "liabilities": 0.0,
-    "net_worth": 28837006.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 24.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.3,
-    "expended": 3.98,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:29:48.003657Z",
-        "notes": "Official eSAKSHI REST API — Works: 247 recommended, 187 sanctioned, 6 completed"
+        "fetched_at": "2026-09-02T14:58:16.421673Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:54:30.799853Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:54:30.796452Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 247,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.074829931972786
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:31:08.680897Z",
+        "fetched_at": "2026-09-02T14:54:30.795250Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Dr. Virendra Kumar takes charge as Union Minister of Ministry of Social Justice and Empowerment - PIB",
+      "source": "PIB",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JclF3TVZ1WHUtV2tPWks5c0ZwZWdFZmZhdU52T1JxOGZ1eEZOanptNnFKREpNZ0ZwVTNiazZyaWFUeFBRTUZxMFFiY2ROUi1NUXRHM3R5ZjhJWm8tUHRxaGdtZWx0ZXk0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP minister Virendra Kumar bans touching feet at his office: ‘No work will be entertained’ - Livemint",
+      "source": "Livemint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUDY1dEFUQVBjS0NtOWNJRGR3NUlNMy1NN2xpTXJCdTlOaTdmcDNsYXFpSk5HaEV0anpianU0N0R2TkhhUERoSEpCMUU3ZHFGRjRPSmZPS2s5S2hZcmVJMGR6RjJjU2tJSUcwNmRYSXo2bTlsVjVHMGVmWWxWWDhjaFZXN0VDejZMTXRFY1d5V0EzQU11My1EWHl2b3YwdjgycGp4OHduRGZvRGgxLUNyTHB0dnd0SDFHVFBUUnEzcHJDTFZhTVlvanM3ei1FemVCZU5DdktuMFlfdlpBblJCadIB5gFBVV95cUxNeUQzRldxaDBHNFYxMDRyc0JvM0FScGlNbmdibWNmSFlJb0tqVG5ydUZ3Q21UbEJmQ3psM05vQ0dpel9zbWpJaHBaQWFwbDJUb0Vtd0lqRVVDbXp0R3N0U0Jjd1ozSzZwTGtSNlRxZmtiYmJiSkx2LU9SWl9Ba1ZTbXJzTjByUzVKUnM2aVpUUlJkQ1BjQUZEWWlybUY1NXBXYWlBMzlXR2hTV25yaTFwUDcyYlZET0tnejUyZTFqSEZxYXppS1ZrS2JLQjhjaUVTdENFOHJ0SXhtSEdUZE1ORGUtWkIwQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Touch feet, forget work: Minister's unique rule at his Madhya Pradesh office - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ29mbGItb1B4WG1EWExwLTZ4c3lCQ1pNZllLRFlzNXNBSnhKQXpTcUlMeTZxQXNfS1VDbHdDZ1pDaU5WekpnajFVNnBPa1I1ZUNhajZXMUEwa3ExNGw5RnFvckk4TVpGVEZ5Ry1fdm42NEoxMVJRVm1tMXUxSENTcThTWEI4RlhTR0lvMnY3OGdIQ1B4d0xGRUdhaTdvSTZDYUpTRlRzcjVoOWJqdzNkOWlzVnVWdXk4VFMyUVpZSkplMUxzaTdYY0FSdE1JUTlGQVBZQjRQOVk0N2JaaDRqRkN1V1TSAeoBQVVfeXFMTkdVbHlUTkE4U3pNR1NVTnpUdjl0NGRqTFY3cmZkMk9zaTdYOVBkdWhCYmJrM1RQMWRDSDlvcTVzSVNFc0Zza2F2cWp6Z3N3VkNvMXM5SGIwdXczZE8yTHl1RFdOLTRCbnpkdlZhV213U21Fc0xUTWduQ1QyMzd5NTZZQl9jMzNDcXZQWEFoOHhrOC1oMVVEWGVoa2RRNHdNNVA1YjZCQXNRcGtvbWp4SWI0WlpDZFBmV2JGUW5UUHRPMncweXUzbmlDTmtIUkZDUU1KTGo1anlrTXFRNjdjS2o1aTcyMzlHVlR3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "From a cycle shop to a Cabinet slot, Virendra Kumar has had a stunning ride - The Federal",
+      "source": "The Federal",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSVZhQmprdDl3NGxIWGxTRXU4Zm4xOUg2ajFLMmlLNkpIbklONDZzV29ZY0RCMVBGZWlZeGJFaWVrQzBDN1Npem8yeUhkUjRVdEl4eW8tT0p3ekxVX0dsaXNiakdWMTR2YmNlSnZxNmkyc1lqa3hqRVVRd0FpRHg1TVBQUy05UnNyXzQtYVBSalNlaEFDQXlibmpqblcwSEh4QnUxNTdjbUFkaHVSdWJnWVNkcVBWUGVaQnJqQ2lrM1lWQkExQ2tlWUFCWQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Virendra Kumar replaces Thawar Chand Gehlot as prominent scheduled caste face in BJP - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN0YtRUp3MWNpaVBfRE5zTFZaVjkyUUk4dWVZQ1VJYzVDdkZfMWtUQ19LRjBMX0dGRlVkb3g3RVpZeEtGdW9faUVXbmE4WERWUncwVXdEWG4xVXg5ZndmQ0wzVWh0cVJ3WjB2TkdpMnd5OW14LWNWaEdSb29MZ25hRnI0bllkVlBlYnFsLVp2YzJRQU1IZERXWldpSmR4d1VfODdsa3haYUhSVnQxMWN0OWh1SHIzNUlyUEt3U2hnQ2p6bGYyQi1EMU9BN2ZkS0xsSENodGdpWFVsNldROEMySHZHOE9yQdIB6wFBVV95cUxPZHNBUllidnVvU0d6VjF0cjB1N3pMaUZWWXBpUzF4bHdLREE2bnBNWXFXa2dtTFVldGdnNFQzU3hpUzdPRnduT1BQQzItM2F3UElHRUJoMGN6bFh1WHBZeE5yLWo1Q0dCN2luQkZESzdBTng4MnU0dTlTLUt0VjFha0lyRUNaWnpyT3NtVWlTZ3BJcEhHV0dLWmhxNWo5WDBOTV9VQ2FtdUZBM1lLZ3JOMlJvbXQwd250bmRDZ1lYcVE3dFFFcFhCN1lCUzRuMzFhOEFLclBrR3hyR0wwbTJsMVZDOGxMRHZsaHVr?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:32:10.616114Z",
+  "collected_at": "2026-09-02T14:58:16.423373Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.110614Z",
+        "fetched_at": "2026-09-02T18:38:07.612945Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.110623Z",
+        "fetched_at": "2026-09-02T18:38:07.612967Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.110628Z",
+        "fetched_at": "2026-09-02T18:38:07.612977Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.110632Z",
+        "fetched_at": "2026-09-02T18:38:07.612986Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.110637Z",
+        "fetched_at": "2026-09-02T18:38:07.612996Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.110641Z",
+        "fetched_at": "2026-09-02T18:38:07.613006Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.110646Z",
+        "fetched_at": "2026-09-02T18:38:07.613014Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.110650Z",
+        "fetched_at": "2026-09-02T18:38:07.613023Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -269,32 +325,16 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Dalit Veteran Virendra Kumar Sworn In As Union Minister In Modi 3.0 Cabinet - NDTV",
-        "source": "NDTV",
+        "headline": "Dr. Virendra Kumar takes charge as Union Minister of Ministry of Social Justice and Empowerment - PIB",
+        "source": "PIB",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2JicE1nWFR5RXk4Z1V6NTZWZUFkTVV0NXJFOUtReXE0d1EzQmZFT0xfQXhuQ1N6N0t1RGhiZWVSYXZWem5UTmFWMGNGcktGQzhDOVJySWM4Vk1FMnEtLTJ0OXRfQWRnZDIxeFUySnBLVzZTbHB2azRxTng2SUpfeERWbU5HaVhONUgxTGxXWDhZODkxM1VkTWRnWVJaWDBQUDItamNqaHlFSl9YZ3JzdFVUQkRid9IBvgFBVV95cUxQTDZOZzYwQ29aQ0F5ZnBkbUdoZlJ2OHUtSnlZdElMSmZ1dnpRVVhNbkZHcHdGY1BIWWREUXZ5OXZUMnBWSDNvYVhfb1JZQ19qZlRjbHZYZFI2THhsSi1RV29CeVE4Yl9FU1paanJ4Tm5OSzl2c0JsNFN0YXhMS1Y3SWoxZ2xZVHY2cmNmc3E0bEEtTUxoemIza2xKOXNRREsxNS1PS1RDMW9RLXY4S0tXUzVYNy1GYjRjbll4MEd3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JclF3TVZ1WHUtV2tPWks5c0ZwZWdFZmZhdU52T1JxOGZ1eEZOanptNnFKREpNZ0ZwVTNiazZyaWFUeFBRTUZxMFFiY2ROUi1NUXRHM3R5ZjhJWm8tUHRxaGdtZWx0ZXk0?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Virendra Kumar Khatik: कभी पंचर बनाते थे ये केंद्रीय मंत्री, आज भी अपने पुराने स्कूटर की वजह से बटोरते हैं चर्चा - AajTak",
-        "source": "AajTak",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZTMxcktSTEVOQzZPeFNvUVoyVmN0NWRjUmhHSTF5NE9NVEpsQmI2Mmd3cHJ3QUxKV0ZvOWpGcEJIYjYtS3NNSkc1Q1FHNVdWTDM1T1hhTTBsaFpsN3FPRFFBNTFENGtQZ1JYLUVjUFpxTzJzVHJlSG13V1oyc1hJRFJmamFnVnp4a2wzcTRwRmNJTHMwSWZyNGRPSzVnOTRybnZWNnE0cGNJdGg3QWJhbWRRNk9iWWwwanJ5V25DMm5DVDRGMEk2R0gwWEZ3VkxzV3fSAdcBQVVfeXFMTjJUSng1TVlXakdtcmZaTzQ0TkNjM3BtZGlwVEx4azZ3anRVN1ZZb183bzlwTDlhc1F6NVltTk84MTRqeXl5cHRBRDJEenpIN0pPMkdrRXZrMW9ybzZxOUhIaGhaSkR4enNkVlZXeU5pME1HenNlekJSTURJaWFXS05uSVFDOHJYNC15Z0h3cXJXbGdKb3I3a3Jad0RqbnBISi1ILTU2TmRrUzlLUjNjZHFuOWJ2YXoxb1FodFZoWU90emVfVGhyMTdpa2hPZEVYVEJoZ25uUFU?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP MP Virendra Kumar to be Protem speaker of Lok Sabha - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTNiZEc4Um4xNEJvNFdZLUVpay13ZVZOMHlBQ2hVdUxTcWtpQjlBcUVTNFllUmhWTWNmZmFZM294dzVEdm9sNUExNkxaXzlzS3dzelUyQzBNdlBKX0QydkRyY1pHeWJ6QXRpU01YTzYxZE9iQkstVHRPX2dFMFZCX3dBVV9zVEJ4Y0IyaE5aTFE1V3Rjb3Z1SzFYcThGME42LXVGMW54MDl2U0NEZlFlNzdBeTRvZ9IBvAFBVV95cUxPR0s2Z2RGV2ozQWVKdzdpc3JlT0lRczNDX01WSnpOYVBMMTNuXy1weldwc2lVcDN5RDBwaE9ZRTU5MmpDZG9XZTZfSW12Z0hQZkViUnVCVWRQUUFDRW1PRzB4U0EzZENYSlJBN3d2eDVNTzFPRGtaSXlDQjRWdXowdEd5NHN4eE5RYWJBM0l4cjVEaGxUenRvN1p6SlN6eWlJZFc0ejRzOHdzRlRsWkE4QU4xeHFNam1uOER1cQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP minister Virendra Kumar bans touching feet at his office: ‘No work will be entertained’ - Mint",
-        "source": "Mint",
+        "headline": "BJP minister Virendra Kumar bans touching feet at his office: ‘No work will be entertained’ - Livemint",
+        "source": "Livemint",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUDY1dEFUQVBjS0NtOWNJRGR3NUlNMy1NN2xpTXJCdTlOaTdmcDNsYXFpSk5HaEV0anpianU0N0R2TkhhUERoSEpCMUU3ZHFGRjRPSmZPS2s5S2hZcmVJMGR6RjJjU2tJSUcwNmRYSXo2bTlsVjVHMGVmWWxWWDhjaFZXN0VDejZMTXRFY1d5V0EzQU11My1EWHl2b3YwdjgycGp4OHduRGZvRGgxLUNyTHB0dnd0SDFHVFBUUnEzcHJDTFZhTVlvanM3ei1FemVCZU5DdktuMFlfdlpBblJCadIB5gFBVV95cUxNeUQzRldxaDBHNFYxMDRyc0JvM0FScGlNbmdibWNmSFlJb0tqVG5ydUZ3Q21UbEJmQ3psM05vQ0dpel9zbWpJaHBaQWFwbDJUb0Vtd0lqRVVDbXp0R3N0U0Jjd1ozSzZwTGtSNlRxZmtiYmJiSkx2LU9SWl9Ba1ZTbXJzTjByUzVKUnM2aVpUUlJkQ1BjQUZEWWlybUY1NXBXYWlBMzlXR2hTV25yaTFwUDcyYlZET0tnejUyZTFqSEZxYXppS1ZrS2JLQjhjaUVTdENFOHJ0SXhtSEdUZE1ORGUtWkIwQQ?oc=5",
@@ -306,6 +346,22 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ29mbGItb1B4WG1EWExwLTZ4c3lCQ1pNZllLRFlzNXNBSnhKQXpTcUlMeTZxQXNfS1VDbHdDZ1pDaU5WekpnajFVNnBPa1I1ZUNhajZXMUEwa3ExNGw5RnFvckk4TVpGVEZ5Ry1fdm42NEoxMVJRVm1tMXUxSENTcThTWEI4RlhTR0lvMnY3OGdIQ1B4d0xGRUdhaTdvSTZDYUpTRlRzcjVoOWJqdzNkOWlzVnVWdXk4VFMyUVpZSkplMUxzaTdYY0FSdE1JUTlGQVBZQjRQOVk0N2JaaDRqRkN1V1TSAeoBQVVfeXFMTkdVbHlUTkE4U3pNR1NVTnpUdjl0NGRqTFY3cmZkMk9zaTdYOVBkdWhCYmJrM1RQMWRDSDlvcTVzSVNFc0Zza2F2cWp6Z3N3VkNvMXM5SGIwdXczZE8yTHl1RFdOLTRCbnpkdlZhV213U21Fc0xUTWduQ1QyMzd5NTZZQl9jMzNDcXZQWEFoOHhrOC1oMVVEWGVoa2RRNHdNNVA1YjZCQXNRcGtvbWp4SWI0WlpDZFBmV2JGUW5UUHRPMncweXUzbmlDTmtIUkZDUU1KTGo1anlrTXFRNjdjS2o1aTcyMzlHVlR3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "From a cycle shop to a Cabinet slot, Virendra Kumar has had a stunning ride - The Federal",
+        "source": "The Federal",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSVZhQmprdDl3NGxIWGxTRXU4Zm4xOUg2ajFLMmlLNkpIbklONDZzV29ZY0RCMVBGZWlZeGJFaWVrQzBDN1Npem8yeUhkUjRVdEl4eW8tT0p3ekxVX0dsaXNiakdWMTR2YmNlSnZxNmkyc1lqa3hqRVVRd0FpRHg1TVBQUy05UnNyXzQtYVBSalNlaEFDQXlibmpqblcwSEh4QnUxNTdjbUFkaHVSdWJnWVNkcVBWUGVaQnJqQ2lrM1lWQkExQ2tlWUFCWQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Virendra Kumar replaces Thawar Chand Gehlot as prominent scheduled caste face in BJP - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN0YtRUp3MWNpaVBfRE5zTFZaVjkyUUk4dWVZQ1VJYzVDdkZfMWtUQ19LRjBMX0dGRlVkb3g3RVpZeEtGdW9faUVXbmE4WERWUncwVXdEWG4xVXg5ZndmQ0wzVWh0cVJ3WjB2TkdpMnd5OW14LWNWaEdSb29MZ25hRnI0bllkVlBlYnFsLVp2YzJRQU1IZERXWldpSmR4d1VfODdsa3haYUhSVnQxMWN0OWh1SHIzNUlyUEt3U2hnQ2p6bGYyQi1EMU9BN2ZkS0xsSENodGdpWFVsNldROEMySHZHOE9yQdIB6wFBVV95cUxPZHNBUllidnVvU0d6VjF0cjB1N3pMaUZWWXBpUzF4bHdLREE2bnBNWXFXa2dtTFVldGdnNFQzU3hpUzdPRnduT1BQQzItM2F3UElHRUJoMGN6bFh1WHBZeE5yLWo1Q0dCN2luQkZESzdBTng4MnU0dTlTLUt0VjFha0lyRUNaWnpyT3NtVWlTZ3BJcEhHV0dLWmhxNWo5WDBOTV9VQ2FtdUZBM1lLZ3JOMlJvbXQwd250bmRDZ1lYcVE3dFFFcFhCN1lCUzRuMzFhOEFLclBrR3hyR0wwbTJsMVZDOGxMRHZsaHVr?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -355,7 +411,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

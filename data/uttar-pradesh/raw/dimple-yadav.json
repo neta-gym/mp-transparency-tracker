@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 420262015.0,
-    "liabilities": 9985548.0,
-    "net_worth": 410276467.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 82.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 19.2,
-    "released": 19.2,
-    "sanctioned": 8.79,
-    "expended": 5.36,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:45.211611Z",
-        "notes": "Official eSAKSHI REST API — Works: 162 recommended, 123 sanctioned, 16 completed"
+        "fetched_at": "2026-09-02T17:33:23.199246Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:29:43.558939Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:29:43.556127Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 162,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.916666666666668
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 70.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:06:01.214568Z",
+        "fetched_at": "2026-09-02T17:29:43.554978Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Why Dimple Yadav could be Akhilesh's biggest weapon against BJP in 2027 UP polls - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDRSWDdoRVF3cURUeG02Tno3YkZvdmZqb1ZFUkJXV28yLWNvR3k2SlV0R1VfaUtYZDJEVGZsZ0k3R284QzlWNlk3d18zSUREN1N5dzB3RGo3TlZ4ZGxrX1lyUTY5SGZzV0VHdHdVRi1SaUJpYjIyeXJycmo3T0lIYlJ0X1NlcC1QMWk1c0dOTkViTE4tXzI3Wmh3dWw2RDFkLXJFTVJWc2tSZkpXbGd4SDRpTUd0SXVGWFZiRXA2b21HMGZ2MmVz0gH3AUFVX3lxTE13Tkx6Szc2TEN2SjJGcjI2SlVCTlZRdTJTdFg2b1B1OGpBT3JUR2M4amlHUUFjT0NodWRyWjdfZ2RlRjM0ajR0TkM3NkZmMVJDNTk5OGw0bTJNM0F3ekJac2RkVE9KSmRxbXVDeGZJREd3MEpfeC1TczVnMHFYbXNmNkhocndVN2RxdlJFSllkNHVLYkp4ME1EZF9iZW1TMXhwZS1zYVZJNGkydTRqQzYwR0lBWkF1NzBhcnVkVjFtUWdsN19mT1RVSWQ1LUJJSEdvUTJ0MXJXNFFFOXJVMGl5QzQ3ZGZqeHczcnlqY3dOM244ay1BQ28?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Young SP MPs Were Ready To Join CJP Protest: Dimple Yadav - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2tTVU5UQWZJT1M1MllJZ0VZenFuUjNRNkFQVmo4SWlxZjBIdW5USlNpUzgwR2UwTS1peDZxS0xmQ0taWFRwMUNZWVdMcU1pX2c0VzJkZU5aV2EyU2JSeUVHVmx1VXVaMUhfSllETTRlRVV4UHcyVXhQOC1ER3BFai1MTkFnd0Y5NzFjbUNLVHBLUE45ek41ZEtjb3hHTmhPNzdyZWx30gGrAUFVX3lxTFBLZkc0aWlQWjBkMG40aFRkQ1FmcG9SZFpqclktRXFzSzRxczlwelFCLVphaFZyMkxPb2JYeUZuMnB2dWd0TEh5WU0tSzdYNk9SRV85RThTWURBSmhGMjM3eGZiSER3MHUycHB6eUdpOTFfRlE4aWpYaldqaDJ0Z01wQzJrV2tmSWo1dGk2dkdvOXJmUTZvTjV5bHJVbkd1WVFHSnMydVdpYldwQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "UNITED NEWS OF INDIA - uniindia.com",
+      "source": "uniindia.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nUFhxWGNuU2FsU05STXEyakE0R0N3X1J3cUpiSTlNcS04bXBGN0ppU1NaRF9ZOC1ldGdVR2ZSalIyWm9vR2hLOVVLOTVlcFE3M0ZHaVVFUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Not just an MP now… but a leader’: Dimple Yadav’s moment at Jantar Mantar - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZFM5eS1zSENVbklJZTNQRzRXdkEtcXlNamotcGVWMVFMb3k3emN4bjlzUlVBMENvRlMtc0ZaNFVJRjJ4MTNyRXNLN1NUdzZDWjJoSjRjY3Jqc2c5YkE5N0NIT3NJNUJiV3ZUSzlGLUZ4UDNjNnl6eHVSWThiN3VKSXhqV3plTjN0S3UyczQwYm5nMjgwMWlWZWIyc1RNX21icnk0ZGdGSmRpZC1pejRackdhRzJIWEFJSDExbWdjSF9pX0xycGh5Ny04UnFxZWM1d1dKRdIB2wFBVV95cUxNZ2pTYzdMakplbGNTSmM2MU9DSklxVkxYU3UzRllQNDRhSFFublVtWmk5ekZJUnFlMDFCSXg0OEJGZXNJZDNWenBJa0x6N194b1hJT194TWVuOXBkSkQ1OEhfNjVXQi00LVVqd2VKZHR6dV9ZdlhfT0tJSHZqeEdRMWtKdW5FUFlaQkRlX0pwemxDLXp3eFpaLWpLbHplMzk2bUNEdVEwcHA4eUlLeDJWeW1nLU1kWXRLaU1XNkZzaVhKTmJwUWh0V2o0dGdTYUlRU2dieHpvbEpabnM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dimple Yadav bows before Shankaracharya, seeks apology: Says SP chief stands with him; nature will avenge t... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQlZoVnBWcU1CV29iRVZIMEdRa1NVRl9rQXFNRDg5VDFkWm4zYjFsSzJEN2hlMG1mT3ZxVGh3cjcweGRUaVlFX3FMV1FwR1hOWDBTeFE5VUhhbjQ1cHN1RHRSeFpzVHR4dF9jRUE5M1dMZmNIVjFtUkpoN1pSQmk3clFKZ3ZPR1RGYUJyR1UwT1MweXZDdHR0MVZjLVdkRlFvQzdUWVRzMVczaDlwQTJWaTYzeGplX3FUYnBmNGNUSkVjTWUwTlpHTTdwUWd5N0J3YVRzdtIB2gFBVV95cUxPbDdnTWYtdGpZUDVpcTFjYWZXNkZZVXUyQlVZeTNNYW1JaThnX3g0UnR6NDc0WnQ1ZkNzejFNZTBPNFpucUthbHRRQk9fdVUzSnQtTndkZXJGd19jcHgzU2N1Sy01bkk4QzFWbF9KOUJPejdnajZWQ2V4ZVhkZVRERGJrWmhJOUhtOG5UZzZuRGpGY2FhN05IVldXLUh3a0h6QVQ3dkx4VzRvWXMtWDlvZVZHUl9qX3dBbDlLSFdJYzFmcTFheUtpQlZGZmI0SWIzTEVlWVZ2eHBiQQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:06:21.895199Z",
+  "collected_at": "2026-09-02T17:33:23.200214Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.466919Z",
+        "fetched_at": "2026-09-02T18:38:11.035105Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.466928Z",
+        "fetched_at": "2026-09-02T18:38:11.035117Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.466934Z",
+        "fetched_at": "2026-09-02T18:38:11.035158Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.466939Z",
+        "fetched_at": "2026-09-02T18:38:11.035165Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.466945Z",
+        "fetched_at": "2026-09-02T18:38:11.035171Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.466951Z",
+        "fetched_at": "2026-09-02T18:38:11.035176Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.466955Z",
+        "fetched_at": "2026-09-02T18:38:11.035181Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.466959Z",
+        "fetched_at": "2026-09-02T18:38:11.035186Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -265,48 +321,48 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 2,
-    "neutral": 8,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "\"Amounts to treason\": SP MP Dimple Yadav slams Raghav Chadha for joining BJP - ANI News",
-        "source": "ANI News",
+        "headline": "Why Dimple Yadav could be Akhilesh's biggest weapon against BJP in 2027 UP polls - India Today",
+        "source": "India Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdDdHazV1LV83V0Uta1VaN1FLcGw4SEViZWExTTByay1vQUU0YWtud0FXZmM2X01HclBfQXY1QWVsbFZZUFNWa1JHUVc4MEJpeWVYNHd3dVEyb09ITUFMX3lfYk01MjdxMjRIUVNuaTN4UGUyeWJrdWpnZFpvRGlkOXNSa3NDZVpjeFVmUVpldk9zUTR1THJrZndZT3owU2RLUDlxVUZwSTBLQTBxWUFxc054T2EzQjlfR3d4NjFHVG1hOU9fTTdMeXVkM1N5dw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDRSWDdoRVF3cURUeG02Tno3YkZvdmZqb1ZFUkJXV28yLWNvR3k2SlV0R1VfaUtYZDJEVGZsZ0k3R284QzlWNlk3d18zSUREN1N5dzB3RGo3TlZ4ZGxrX1lyUTY5SGZzV0VHdHdVRi1SaUJpYjIyeXJycmo3T0lIYlJ0X1NlcC1QMWk1c0dOTkViTE4tXzI3Wmh3dWw2RDFkLXJFTVJWc2tSZkpXbGd4SDRpTUd0SXVGWFZiRXA2b21HMGZ2MmVz0gH3AUFVX3lxTE13Tkx6Szc2TEN2SjJGcjI2SlVCTlZRdTJTdFg2b1B1OGpBT3JUR2M4amlHUUFjT0NodWRyWjdfZ2RlRjM0ajR0TkM3NkZmMVJDNTk5OGw0bTJNM0F3ekJac2RkVE9KSmRxbXVDeGZJREd3MEpfeC1TczVnMHFYbXNmNkhocndVN2RxdlJFSllkNHVLYkp4ME1EZF9iZW1TMXhwZS1zYVZJNGkydTRqQzYwR0lBWkF1NzBhcnVkVjFtUWdsN19mT1RVSWQ1LUJJSEdvUTJ0MXJXNFFFOXJVMGl5QzQ3ZGZqeHczcnlqY3dOM244ay1BQ28?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Women who move forward with hard work and confidence are the real strength of the society: SP MP Dimple Yadav - The Statesman",
-        "source": "The Statesman",
+        "headline": "Young SP MPs Were Ready To Join CJP Protest: Dimple Yadav - Deccan Chronicle",
+        "source": "Deccan Chronicle",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMUZqOFN6V3hQbUdHYVhSTlk2ZUZuUVV6eUhia1BBNjF3aFhydjRRMzFuRG5hQ2dqYTdobHdEMkNIajljbGpMbW10Xy1CdC1OMTF4UHJsRE9wMW9MV0dab21zdnU5eVA0TnJMNi1Id0pXZllzeFpIWFg3ZE5fdzNLS3NVQ3JZWXlBaldydVg2YkZ6LS1VSHJyUl9Cd3dkTVB5MEFkQ3dPOWxkYk5zTFR6UnYxdzBQdzl2bF8tN2xmMXdISi16RVRjNEl6R05iQWFQazZ5WEpqaTZwOW1qRERvWDZRaGRSQUJsaDJjNEdxcV_SAfYBQVVfeXFMTnhYeXZSb2ExQXZheERhUEIyR1ZSQU1LajBFTVpNa1FIZ1diQXNvSG9vTl9KOGtQT1BWbkZDQ0g5VVpTdUpMNURQa3VZb2pQcXZtdVRzb3FXMWlhOGNlN3NoWkx3VkhkcVpfYk1kblpMVTRWajBhRm5aS3JhbTk4b2hmdjhOX1c3a1ZDeGhsc01RaW82c2tKZkYtYUxLQkJkTkV5WlhZVFlDQmlEaVlub3hfR3BINzM1MmlUS19VQ1c0dENjSkVoQVl6VnVGMlEzUFpMemM5QmRvVy02YnRyVlRsSFpoQ29YNWlTOFdPRl94djdSWnB3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2tTVU5UQWZJT1M1MllJZ0VZenFuUjNRNkFQVmo4SWlxZjBIdW5USlNpUzgwR2UwTS1peDZxS0xmQ0taWFRwMUNZWVdMcU1pX2c0VzJkZU5aV2EyU2JSeUVHVmx1VXVaMUhfSllETTRlRVV4UHcyVXhQOC1ER3BFai1MTkFnd0Y5NzFjbUNLVHBLUE45ek41ZEtjb3hHTmhPNzdyZWx30gGrAUFVX3lxTFBLZkc0aWlQWjBkMG40aFRkQ1FmcG9SZFpqclktRXFzSzRxczlwelFCLVphaFZyMkxPb2JYeUZuMnB2dWd0TEh5WU0tSzdYNk9SRV85RThTWURBSmhGMjM3eGZiSER3MHUycHB6eUdpOTFfRlE4aWpYaldqaDJ0Z01wQzJrV2tmSWo1dGk2dkdvOXJmUTZvTjV5bHJVbkd1WVFHSnMydVdpYldwQQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "UP: SP MP Dimple Yadav writes to Mainpuri DM, objects to delay in SIR notices - The News Mill",
-        "source": "The News Mill",
+        "headline": "UNITED NEWS OF INDIA - uniindia.com",
+        "source": "uniindia.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORDBvM3FjazJsYURlZzJ0MWRYdldPbGIybDRZQTQtVFlLdmFYemF4R3oxUVpxNENlR2JtcTBiTmRRUHJWN0xsTjdieVV0MmJ6TGRUbk01ay1PcjBuZXJMVzh6R0tZQU5iT0xBN0lkZ2JFNzVOMDNaLUV4OExWaFhBTUMyNWVFV2JBc2F6QVRvb1dTWHFYRGxuWlNpZFdwb3lsT3VhTWNISGdQTEU1?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nUFhxWGNuU2FsU05STXEyakE0R0N3X1J3cUpiSTlNcS04bXBGN0ppU1NaRF9ZOC1ldGdVR2ZSalIyWm9vR2hLOVVLOTVlcFE3M0ZHaVVFUQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "‘Beti’, ‘Bahu’, to MP, leader: The evolution of Dimple Yadav - The Indian Express",
+        "headline": "‘Not just an MP now… but a leader’: Dimple Yadav’s moment at Jantar Mantar - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUVza2ZGbmh3c3BhdGJ4Y3JFT094bE5SUHZjT2E1VnFXU0NiQlM4Q1pYc3gzRHFyT0lGalRwT3BlTVlMelFtUGxYa0N6X3BPeThKRHhjRWp5c0RZNUctbEg3YzJZTlliRmZOT1pFTk1xTElSaUQ1WVA4UTNHWU9ZaG1YREZUb2s1MjU4dTVxRGJ4NWZaeUVPZHVwdlRkSVZ4RzFBS3VwWXBMRFVIX0NqTm5R0gG4AUFVX3lxTFBpRzh4NzFiZXo4QUpQaklyT0RGeDcwZ0VGTG9Wcy1QS0x3eDBXSFZKWmlzNkpwbWk3Zk0zV0ZHbWY4MEVCdnI5UjBuX1kwWE11RHotcTMwYy1KOEpoaUFKd1ppYVkxOXNiQUZZWFRmeUdxQjhlMlY5TVhHTlI5dlpnNjZ3UVloZFRsNHpmWUMtX3UyUnJkXzlvV3h1c21RUWlpZ2RnM2VJQ25QLWJPMjAwNm5yRUdSTFM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZFM5eS1zSENVbklJZTNQRzRXdkEtcXlNamotcGVWMVFMb3k3emN4bjlzUlVBMENvRlMtc0ZaNFVJRjJ4MTNyRXNLN1NUdzZDWjJoSjRjY3Jqc2c5YkE5N0NIT3NJNUJiV3ZUSzlGLUZ4UDNjNnl6eHVSWThiN3VKSXhqV3plTjN0S3UyczQwYm5nMjgwMWlWZWIyc1RNX21icnk0ZGdGSmRpZC1pejRackdhRzJIWEFJSDExbWdjSF9pX0xycGh5Ny04UnFxZWM1d1dKRdIB2wFBVV95cUxNZ2pTYzdMakplbGNTSmM2MU9DSklxVkxYU3UzRllQNDRhSFFublVtWmk5ekZJUnFlMDFCSXg0OEJGZXNJZDNWenBJa0x6N194b1hJT194TWVuOXBkSkQ1OEhfNjVXQi00LVVqd2VKZHR6dV9ZdlhfT0tJSHZqeEdRMWtKdW5FUFlaQkRlX0pwemxDLXp3eFpaLWpLbHplMzk2bUNEdVEwcHA4eUlLeDJWeW1nLU1kWXRLaU1XNkZzaVhKTmJwUWh0V2o0dGdTYUlRU2dieHpvbEpabnM?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Maulana Sajid Rashidi's objectionable remark against Samajwadi Party MP Dimple Yadav sparks controversy - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "medium",
+        "headline": "Dimple Yadav bows before Shankaracharya, seeks apology: Says SP chief stands with him; nature will avenge t... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONUNqRWtYbnlMaDI5cjEwbXB0Q3J3ODVFelVQOXI5d1doOUdEMWU3MjEtVFByYTZOS01FaGVDN2Y5bnoyVU12WW41MFA5OVNYcnl4M3NRTlJ0RlZfQmtibHRHU2kxS1RUMi1qNGtHd2ZVSmNqaWZMbzQ4NjFzaW01S1JLWi1Ob1lMblRYZzdLaDIwZVRmcmQ5T2Y0alhjamRRaXJoUHB3Uy1JdzlPcmIyOUlWSVNjSzNZOTkyTEM0V1ZEaVRLTnJaR3pTSnQ3NFlla3pvY3NWU2JmcHBucFdxZ1ZyWnhOdU1p0gH2AUFVX3lxTE9TN2Z3bFR0WDN6dGNEVS1GTGs0WG5fWlVpZ0JBV0VBU1FLLUJNb0VvbUJ6N05uN0FzSlo4WGd4c1VoYVVMSVFLdl9WTUY2T01feXRMVHpXUncyOEctX2h3YkowZ2wxTlpNYmFoblo1WE1hSTZGdmpzSHpWLXc5OFZjTTNBN3BhU29nQVluT1B4X3FBdDdubEgzZ1lOM1ZfLWxzYnBEa3c2V2h1T3A4dDFJY1dUSURiQVprR3dHWks3M3lqdktjRkF2Q0ZlXzNxRHItZTZ4VkIwQ19Fc3pVYTdBZHVQUUxOSGZOSFRjWVFIMEJoX1cwUQ?oc=5",
-        "sentiment": "negative"
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQlZoVnBWcU1CV29iRVZIMEdRa1NVRl9rQXFNRDg5VDFkWm4zYjFsSzJEN2hlMG1mT3ZxVGh3cjcweGRUaVlFX3FMV1FwR1hOWDBTeFE5VUhhbjQ1cHN1RHRSeFpzVHR4dF9jRUE5M1dMZmNIVjFtUkpoN1pSQmk3clFKZ3ZPR1RGYUJyR1UwT1MweXZDdHR0MVZjLVdkRlFvQzdUWVRzMVczaDlwQTJWaTYzeGplX3FUYnBmNGNUSkVjTWUwTlpHTTdwUWd5N0J3YVRzdtIB2gFBVV95cUxPbDdnTWYtdGpZUDVpcTFjYWZXNkZZVXUyQlVZeTNNYW1JaThnX3g0UnR6NDc0WnQ1ZkNzejFNZTBPNFpucUthbHRRQk9fdVUzSnQtTndkZXJGd19jcHgzU2N1Sy01bkk4QzFWbF9KOUJPejdnajZWQ2V4ZVhkZVRERGJrWmhJOUhtOG5UZzZuRGpGY2FhN05IVldXLUh3a0h6QVQ3dkx4VzRvWXMtWDlvZVZHUl9qX3dBbDlLSFdJYzFmcTFheUtpQlZGZmI0SWIzTEVlWVZ2eHBiQQ?oc=5",
+        "sentiment": "neutral"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -355,17 +411,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 70.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

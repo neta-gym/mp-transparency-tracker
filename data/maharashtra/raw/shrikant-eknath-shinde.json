@@ -4,16 +4,16 @@
     "constituency": "Kalyan",
     "state": "maharashtra",
     "party": "Shiv Sena",
-    "myneta_candidate_id": 7216,
+    "myneta_candidate_id": null,
     "slug": "shrikant-eknath-shinde",
     "house": "lok_sabha",
     "sansad_member_id": 4659,
     "profile_url": null,
     "canonical_name": "Shrikant Eknath Shinde",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 37,
+    "age": null,
     "photo_url": "/mp-photos/4659.jpg"
   },
   "criminal_record": {
@@ -24,67 +24,73 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7216",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.308438Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:35:24.509515Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 149208812.0,
-    "liabilities": 66320443.0,
-    "net_worth": 82888369.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7216",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.308450Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 66.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
+    "entitled": null,
+    "released": null,
     "sanctioned": null,
     "expended": null,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:31:25.669928Z",
-        "notes": "Official eSAKSHI REST API — Works: 1 recommended, 0 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T15:25:27.667994Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:21:38.057616Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:21:38.054302Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 1,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
     "utilization_rate": null
   },
   "parliament_activity": {
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:35:55.769246Z",
+        "fetched_at": "2026-09-02T15:21:38.053223Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Sena corporator 'assaults' doctors in Thane, Oppn targets CM; MP Shrikant Shinde condemns attack - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVmxOVmNqc1Z2WG9lV0dqTWxCVjhDNWRDOFV5REl6SHhPM2lHNm1zendkUXNiNnBXenBKYXpCLXItRENLaXdUMGdVb0tFQlVCWEFNOUZRT09qQXhJZnAtUXZfXzZwOHh6b01zVUVLbGNsRUs0N1hlVGlFVGtEd0JhZmVHVXpBTkhrZEl0WnRYOUF3Ml9JU3JrVUJBSFU1RVB4b3FTSTFPV2VHTnFMa1JhdGk0MUU3MEdkVkpYbk9aajU5N1RqTHZTR3A0bldJcjR4dGdUM0JNRGZIZHBPSDJoOV9wbW1LR2dPMzlGTk1rSdIB_AFBVV95cUxNbGpYTGRhWEI2UngyZ0swbWhWT1VzZ2xlaXV2N1dwRC1Lck9SMWNOaS1sUzRraFZYX3hNbGNTQW9sUjVYaW1PeHRuVW54ZVVrOU53MmdzdkUwS3hWTk5tWDE5RW1vZG56YmNieDdORVRKT2p5N1F3V2kydi0yWmxpb05BZDJzaU5PbWpzX1ZKY0pVSUcwbzNuOGtWcHZLcXQ5Qk5Sa2ZzS091OWRRNGhfN3RneGlyTHB1VWV6Y1FrUjlKTVd1c0JhWm1IZ0owZ19XcVlQZk90azgzNjNJYV9NMmIxSVo4RHRmTUVwVGtGOUhoZWE3MGVIMlVoeFU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sena might get union cabinet berth after Operation Tiger - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNamJJYVh3R2d3QngtRU1NOTRNOWpKQ1JId0dzSVRzNV90UC1Vb0NKUEN2MFF0OEdDQlMtdy1sWEs0Tlk2NDNVYWdsd0d1Q0lBMU1NcWZ1RS1BNm5CLWlHb2o2U3VfdzlpWGxrSy1ETFdVNURrR2UzVnlLam5OanE2dHA0WnlMNjE4c0w0anRRdUJvWExKSTd0b2ItQ2QxWFRmNTZ0aUZHUkRDODBnOThSaHBfTjByN2Vmb2tsSlNUNnA1TXJEQXpndE1n0gHPAUFVX3lxTE90SlVpTTdPcXFhXzFVYWZ6MkxGTzJkbjFlZTJQa0o0STBiUXlmZ1U1MEJWY1F5NDJlT3YyQm1EZFBuYXA3SEdsblFCVzd2eUUxRUowS0hlTElEUS1pd3VoVjl4ZFJwdkFjb2xKcW5KV3ZjZXF3LWNKUkJmZEpEajBfd0NqMGlGa1U0MDhURlI4Yk52clJnd0JfeWRrdGx0SUo4M3NjYjFBUnBXLTBlQXAwOWtYbnBiUktWa2MxQ3FlRFFlTzU5SVlmeE9fTWs4OA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Disputes cannot justify assault’: Maharashtra minister on Thane hospital attack - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDhVY2RxOFRUVVJIREY4YVdZR08yaUx5TnZJOXVkWkVHSXZ6YUxmSXMxYWxkeV9heHROVnZEdGVwTERnQXlIUUtTUFNzQ0U1MVBYYjJsXzlnb19hUHdVME9WSFZfcklhQmVjeWY3RTJvbGJCUktTQmhwdUstZnVORWhBVjBnUjFIUjNYU20yNnNmNVVLYUNueE5ZRDdTVTJvUTl5Z2ZZX05LTmV4U2xJVGpFRFJWZnVVQy13akxn0gHEAUFVX3lxTFAwOWxNTElyNmlkLWR4VDZvYnctdEdUVFo3NzZOYzkxQU5PUUlLbEJBVTN6aGVSYjlQU3VmZDlqRVIyVHhQTGJiTXd2ZG8zMEJfU21fMTY5cHhxUW5uYlJ5ek9PQjJvS3hrM3JMUk0tYTNaaklqbGRRNFM3TWRsQWFWQUViVmVPT3pGMTJtTmNKT01FeC1MbG91eExaZ2lwLVpwSlpCZlVLWV9wNnNEeW5RZjVSckxwX0ZuV3pYb21WWV9aZWo?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Welcome Bellevision.com - Bellevision.com",
+      "source": "Bellevision.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1WUdUS2NVRDJQRHRuTkdsSXJqX1hnQWxDR241a05UVnRJTjFYcEluUkdRZGJtOFVENXZvUUdCSXVtR1JqSVBMa1VFemNzNXo1Q1EwZlV2MW5xem1KaTJGaEYzaV9HY2pfWXNyaVgwUTI?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Shiv Sena MP Shrikant Shinde to tour 22 Maharashtra districts ahead of local body polls - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcF9RanRuS1lhNlJHUDVHNFRWTWFhMW4yYUtiQXdOOGRySnA2MDFraUdFMXozb3gwRUI0UnFPTE40ZU9HM29QMkVkU0tJeTZVT1V0bEtEYWFWeXBhaHlDTDBBc0pPbUQwTGUyM0lHRkZidjRfSjJPMTg0Wi1SeVgtS2ZKOVJNeG9RcUlyVXVXaVdSdXNHanRNc3U3UWxRSUZnalYtck5FTFlZdjFXWDVtb3VMN3FpM0hOdWFwSURjVHctckNmVVMxOGtZaWE0NUZ6dGVXS1BFR3RZWEF1S2cwVQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:36:55.914573Z",
+  "collected_at": "2026-09-02T15:25:27.669205Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.795362Z",
+        "fetched_at": "2026-09-02T18:38:08.332100Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.795372Z",
+        "fetched_at": "2026-09-02T18:38:08.332111Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.795377Z",
+        "fetched_at": "2026-09-02T18:38:08.332117Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.795383Z",
+        "fetched_at": "2026-09-02T18:38:08.332154Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.795389Z",
+        "fetched_at": "2026-09-02T18:38:08.332163Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.795393Z",
+        "fetched_at": "2026-09-02T18:38:08.332168Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.795398Z",
+        "fetched_at": "2026-09-02T18:38:08.332173Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,11 +304,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/Dr SE Shinde",
+        "url": "https://x.com/http://www.twitter.com/Dr SE Shinde",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/Dr Shrikant Eknath Shinde",
+        "url": "https://facebook.com/http://www.facebook.com/Dr Shrikant Eknath Shinde",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "@drshrikanthshinde",
+        "url": "https://instagram.com/@drshrikanthshinde",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:21:43.946538Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -272,43 +350,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "MP Shrikant Shinde pushes KDMC to build 500-bed multi-speciality hospitals, medical college in Kalyan-Dom - The Times of India",
+        "headline": "Sena corporator 'assaults' doctors in Thane, Oppn targets CM; MP Shrikant Shinde condemns attack - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVmxOVmNqc1Z2WG9lV0dqTWxCVjhDNWRDOFV5REl6SHhPM2lHNm1zendkUXNiNnBXenBKYXpCLXItRENLaXdUMGdVb0tFQlVCWEFNOUZRT09qQXhJZnAtUXZfXzZwOHh6b01zVUVLbGNsRUs0N1hlVGlFVGtEd0JhZmVHVXpBTkhrZEl0WnRYOUF3Ml9JU3JrVUJBSFU1RVB4b3FTSTFPV2VHTnFMa1JhdGk0MUU3MEdkVkpYbk9aajU5N1RqTHZTR3A0bldJcjR4dGdUM0JNRGZIZHBPSDJoOV9wbW1LR2dPMzlGTk1rSdIB_AFBVV95cUxNbGpYTGRhWEI2UngyZ0swbWhWT1VzZ2xlaXV2N1dwRC1Lck9SMWNOaS1sUzRraFZYX3hNbGNTQW9sUjVYaW1PeHRuVW54ZVVrOU53MmdzdkUwS3hWTk5tWDE5RW1vZG56YmNieDdORVRKT2p5N1F3V2kydi0yWmxpb05BZDJzaU5PbWpzX1ZKY0pVSUcwbzNuOGtWcHZLcXQ5Qk5Sa2ZzS091OWRRNGhfN3RneGlyTHB1VWV6Y1FrUjlKTVd1c0JhWm1IZ0owZ19XcVlQZk90azgzNjNJYV9NMmIxSVo4RHRmTUVwVGtGOUhoZWE3MGVIMlVoeFU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sena might get union cabinet berth after Operation Tiger - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTXlZa2ZHTUl3SmlpakxrWWlCVThaNnRfRFZEOWlfU2ZhMkd0dXZoSnFQODFrT2tKNS04SDVndWxMdm1odzZJdVdMQ2Ytakt2aU9TbTFlaGpSc3FEelJoa0NRblE1TVFMVDdNVE9RTDFGTGFidDVQY2NYb0xsS1FmU3hYUWNiMGxnRlBJU0FLX1ZTX2YtNml2TUFfTWtXUVJMeDI5OTMwTGFwSHBscVVvQkYwcTlXT2dtZ1BLT1pOc2VmR3FESzREOFhKVlpvWU54aHJvR1p0S0szaEhSLXM1SHdPaG5USmZOemc5WXFkSGprOGI5WnFKVnJKN2ltN0VqeVFPM0lYMnhXM2UtZlpZ0gGUAkFVX3lxTE9LYk5mNVBwS3BxNUl4RV80dHZUdEtZYWdvM1FCdXcxZDZyX1hXWEQ1T3ByWnFvWnpsbkw2QkRQTWRFSHdvRjVFNF9GLWxwcmdZYXRPT1ljMVd3WkJ0TE52X2xfSzBFd19NaWxHN1R3Z044Ri1NUzNoMlZ0am5hSHhrSzRHNWdTbG9Eam1BdUgza3ZYMjFlU0dqQjNnLUFQMkZNbTc0VlNHQk5sMDY3eW1GeHlGRTR4QmpSTDNZMXQwb2o4YWhtOTdPWW5vOGNvTVJPTEdXeHNHZTNRRmxSR095WkFzNngyN0dFaXBvb1VwbDJxRXdRTm1Od3dTU1Q5UVZ5dzVIRnA3eHpXaDdDaEFXbnZnWA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNamJJYVh3R2d3QngtRU1NOTRNOWpKQ1JId0dzSVRzNV90UC1Vb0NKUEN2MFF0OEdDQlMtdy1sWEs0Tlk2NDNVYWdsd0d1Q0lBMU1NcWZ1RS1BNm5CLWlHb2o2U3VfdzlpWGxrSy1ETFdVNURrR2UzVnlLam5OanE2dHA0WnlMNjE4c0w0anRRdUJvWExKSTd0b2ItQ2QxWFRmNTZ0aUZHUkRDODBnOThSaHBfTjByN2Vmb2tsSlNUNnA1TXJEQXpndE1n0gHPAUFVX3lxTE90SlVpTTdPcXFhXzFVYWZ6MkxGTzJkbjFlZTJQa0o0STBiUXlmZ1U1MEJWY1F5NDJlT3YyQm1EZFBuYXA3SEdsblFCVzd2eUUxRUowS0hlTElEUS1pd3VoVjl4ZFJwdkFjb2xKcW5KV3ZjZXF3LWNKUkJmZEpEajBfd0NqMGlGa1U0MDhURlI4Yk52clJnd0JfeWRrdGx0SUo4M3NjYjFBUnBXLTBlQXAwOWtYbnBiUktWa2MxQ3FlRFFlTzU5SVlmeE9fTWs4OA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Old rivalry flares up, Sena MP Shrikant Shinde dares BJP minister Ganesh Naik to contest against him - ThePrint",
-        "source": "ThePrint",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQzlrU3ZYNE1sYmYzYzhnaXZJdTBHUjUxU0xkV09tWFdUOTdrWEZFY3BNc3BiOEpoOGJpaTJHT3hkeV9aR1FYdzcteDhMc3RRYTF3bVAwRFZZQ21uNDZGSHJPUnp0R1U1TzcwVW9RZjBCRmRpeDBJQ2hyNnBuQU51ZEpSWGFiN1ZJdTJkNTMxYVUyTWEzQ0NSUzRMSFliYmJmQlhuVjNyUGE0UFNFMjdyS2dNV1BnRF85VEl3MGY0UHRfMUUtWXdlYzRuVjNsRmPSAdQBQVVfeXFMTVdpQWpnNnZLRlNvTWFIYldDVzE3Q0Z0N09Hc0hXRThkX3V6VW5XdnZwMWg1cW9RTklOTnZtZ1lOT2phX2RoUXBjeW1qRTBkRUlLcDV3dlNSWW03dnRXRWlWaE0tQkY2WWUtek5fUC1OWG1LdHljZ0JleWJlX3dSeHlUMllzOFRUelZVVUpOMkxjUXVSLUhjaDY2RXBjSmlQZGpTQXJxOEh3QjlPUG9ya0lGei0tQ3QtSHdpdGktNG40QUJRS01OVk1meXhyWXlWcUVnMzk?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Maharashtra polls: MNS-Shiv Sena (Shinde) join hands in Kalyan Dombivili - The Federal",
-        "source": "The Federal",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb3ctZGkxSlBiVU4yc3ZURWtwc1kxS2xwU09WRTB5UXB5bFk2Q2U0NXBqaWhmRm5zekZVY2hkNXctZ0laLVJjQjRGSTMzNVVtN0FmNGRuUkl2S3IzanFCSnItWU41ZmIwd01fTi1RZ3dybnRYUEdaT1RRSUZNVV8wbDJzb3gyVDY4VjFkaVpQMm41MHNweFprRmk2S2xjcVF4VDR1c2RDUW9MZ2FtcUhlb3d6X3VycEoyLWgzVlFjZmpkX3ZydkE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "MNS Offers Support To Eknath Shinde's Shiv Sena In Kalyan-Dombivli Civic Body - Outlook India",
-        "source": "Outlook India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEZUby1uT1EwWFNqTkZteHVZV2xBVEN0VFFZRFBhU1NSXzZmN01YLTZtN3RvaGp2VHlXcXFQTEFXU2lvX20xdXZLZGMwdU5hUkRpTllHWWZEcG80R3Y5YmtFVG10MUUweDJMcVkyYlQ2UzdDZV8zaExFWDJLWVN6VTNDcmVzUEhJRE1hNmNDYlUwdHVVYVNQMWZ0d3RXOTNVOEduakx3dWJrMGlwd3hGSk01d3DSAcIBQVVfeXFMTVRKYUFsd1RGTEZPTDVOXzlCcUl5VHFlQ1I4VHdhYnJnNzFFUEJMeURaYzR1bWFsN1JCSFpuT01jc3F0d25XNl9YMTA1QkxhSmNZWFUzU1BIelNiTWRKcHRXeDRTa2VWZXhHbk13OVVRMk1ncVJQZjNqYlNWaGdESmt3MlpNZTdrT2ZlYmVva2xsQ09FMXEyVkFVcktzdlN5eHl0S3RJZHJPX1Jzblc2V0NDWklNYm8wdm9aX2Zxcmlvd3c?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "‘Power is not everything’, says Shiv Sena’s Shrikant Shinde, asks BJP to explain alliances with Congress and AIMIM - The Indian Express",
+        "headline": "‘Disputes cannot justify assault’: Maharashtra minister on Thane hospital attack - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYzJ3TFpkd1lWeEhhcS03NGM2ZGl1dHlmMjJsR0RNRW05Q0VmQnpVUkdsZ3NCM2U0TE9MakQwZFE0ZG9KXzVUU1Mxb0UzTzVuRGpscC1ZQnRRTjZnUEp4TkdKVGFtZTZSWlVwcExlWjFmaWZoYnNfOHZZa0tuTXhSbS1MLUExU3VycTNKakN3RjlzVUdJMHFiOVRqNWtZZEhSM3dqcUlyWkpHbGZDVWZkX9IBtwFBVV95cUxPODFYZUhoZlJ2Y2l3bWQ0MTZqRUgtTzZTQk5hVnVZV20wQm1vMk1SZmNPUjlBOW9DTE9LTzZod3o4ZGJTLVo2dTBoVVJCQVZ4MHdxc0tPRTgwTlN2VkdlX3BVOC1zT0dxWVg5TTBHTzlCZVhEdEFHSnZ4OFdRREo1NGZ6MHktNFFNaFZKbWxZMXI1V3RPOUNIZURkNXFrRk1jZkdab2k1bTMyb2g4S0FVa2djcmdUUWc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDhVY2RxOFRUVVJIREY4YVdZR08yaUx5TnZJOXVkWkVHSXZ6YUxmSXMxYWxkeV9heHROVnZEdGVwTERnQXlIUUtTUFNzQ0U1MVBYYjJsXzlnb19hUHdVME9WSFZfcklhQmVjeWY3RTJvbGJCUktTQmhwdUstZnVORWhBVjBnUjFIUjNYU20yNnNmNVVLYUNueE5ZRDdTVTJvUTl5Z2ZZX05LTmV4U2xJVGpFRFJWZnVVQy13akxn0gHEAUFVX3lxTFAwOWxNTElyNmlkLWR4VDZvYnctdEdUVFo3NzZOYzkxQU5PUUlLbEJBVTN6aGVSYjlQU3VmZDlqRVIyVHhQTGJiTXd2ZG8zMEJfU21fMTY5cHhxUW5uYlJ5ek9PQjJvS3hrM3JMUk0tYTNaaklqbGRRNFM3TWRsQWFWQUViVmVPT3pGMTJtTmNKT01FeC1MbG91eExaZ2lwLVpwSlpCZlVLWV9wNnNEeW5RZjVSckxwX0ZuV3pYb21WWV9aZWo?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Welcome Bellevision.com - Bellevision.com",
+        "source": "Bellevision.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1WUdUS2NVRDJQRHRuTkdsSXJqX1hnQWxDR241a05UVnRJTjFYcEluUkdRZGJtOFVENXZvUUdCSXVtR1JqSVBMa1VFemNzNXo1Q1EwZlV2MW5xem1KaTJGaEYzaV9HY2pfWXNyaVgwUTI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shiv Sena MP Shrikant Shinde to tour 22 Maharashtra districts ahead of local body polls - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcF9RanRuS1lhNlJHUDVHNFRWTWFhMW4yYUtiQXdOOGRySnA2MDFraUdFMXozb3gwRUI0UnFPTE40ZU9HM29QMkVkU0tJeTZVT1V0bEtEYWFWeXBhaHlDTDBBc0pPbUQwTGUyM0lHRkZidjRfSjJPMTg0Wi1SeVgtS2ZKOVJNeG9RcUlyVXVXaVdSdXNHanRNc3U3UWxRSUZnalYtck5FTFlZdjFXWDVtb3VMN3FpM0hOdWFwSURjVHctckNmVVMxOGtZaWE0NUZ6dGVXS1BFR3RZWEF1S2cwVQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -342,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 75,
+    "starred_questions": 22,
+    "unstarred_questions": 53,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 35.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Low attendance",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -3,24 +3,22 @@
 **Constituency:** Buxar, Bihar
 **Party:** Rashtriya Janata Dal
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 52
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.1 / 100
+## Composite Transparency Score: 55.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 58.2 | 25% |
-| Asset Growth | 40.0 | 15% |
-| Criminal Record | 70.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,34 +26,39 @@
 ## Criminal Record
 
 - **Total Cases:** 3
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Mohaniya PS kaimoor, Mohniya PS Case No.- 318/2020 | Section-  3  Bihar Epidemic Act 2020, & Section- 51 Disaster Act 2005 (Sections: 269, 270, 271, 188, 171F) [pending] 
+2. 184/2013, Ramgarh PS Bhabhua (Sections: 420, 406) [pending] **SERIOUS**
+3. Mohaniya PS kaimoor, Mohaniya PS Case No. 170/2009 (Sections: 341, 342, 353, 290, 283, 143) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 6.79 Crore
-- **Liabilities:** Rs 5.74 Crore
-- **Net Worth:** Rs 1.05 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 47% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 17
-- **Released:** Rs 17
-- **Sanctioned:** Rs 12
-- **Expended:** Rs 11
-- **Utilization Rate:** 62.2%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,36 +72,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/_sudhaker_singh?lang=en](https://x.com/https://x.com/_sudhaker_singh?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/sudhakarsinghrjd/](https://facebook.com/https://www.facebook.com/sudhakarsinghrjd/) | No | Yes |
+| Instagram | [@https://www.instagram.com/sudhakarsinghrjd/?hl=en](https://instagram.com/https://www.instagram.com/sudhakarsinghrjd/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Buxar MP flags concern over India-US trade deal - The Times of India (The Times of India) [neutral]
-- RJD MP Sudhakar Singh urges Centre to review ethanol policy - ChiniMandi (ChiniMandi) [neutral]
-- RJD MP Sudhakar urges Bihar CM to end all ties with Gates Foundation following its name surfaces in Epstein files - The Hindu (The Hindu) [neutral]
+- Ram Mandir Donation Theft : RJD MP Moves Supreme Court Seeking Audit Of Ayodhya Trust Finances, CBI Probe - Live Law (Live Law) [neutral]
+- FIR against RJD MP, others over protest at water park site - The Times of India (The Times of India) [negative]
+- Credit war erupts over key Buxar road project - The Times of India (The Times of India) [neutral]
 - RJD MP Sudhakar Singh writes to Amit Shah over CAPF service grievances, slams IPS deputation, NFU delays - India Sentinels (India Sentinels) [neutral]
-- Buxar MP urges CM to aid farmers after crop damage - The Times of India (The Times of India) [neutral]
+- RJD MP Sudhakar Singh urges Centre to review ethanol policy - ChiniMandi (ChiniMandi) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Ram Mandir Donation Theft : RJD MP Moves Supreme Court Seeking Audit Of Ayodhya Trust Finances, CBI Probe - Live Law** (Live Law)
+- !! **FIR against RJD MP, others over protest at water park site - The Times of India** (The Times of India)
+- ! **Credit war erupts over key Buxar road project - The Times of India** (The Times of India)
+- ! **RJD MP Sudhakar Singh writes to Amit Shah over CAPF service grievances, slams IPS deputation, NFU delays - India Sentinels** (India Sentinels)
+- ! **RJD MP Sudhakar Singh urges Centre to review ethanol policy - ChiniMandi** (ChiniMandi)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sudhakar Singh shows moderate transparency with a score of 57.1/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Sudhakar Singh shows moderate transparency with a score of 55.8/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 67,851,400. MPLADS utilization: 62.2%. Parliament attendance: 85.0%. Questions asked: 26. Debates participated: 11.
+Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). Parliament attendance: 85.0%. Questions asked: 26. Debates participated: 11. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +167,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +246,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Sudhakar Singh's MPLADS account: Released: Rs 17, Expended: Rs 11, Utilization: 62.2%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

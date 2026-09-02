@@ -3,24 +3,22 @@
 **Constituency:** Maval, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 60
-**Education:** 10th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.3 / 100
+## Composite Transparency Score: 64.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 16.3 | 25% |
-| Asset Growth | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 70.0 | 10% |
 
 ---
@@ -34,28 +32,33 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 565/2021, Vadgaon Maval Police Station, Vadgaon, Teh. Maval, Dist Pune, Maharashtra State | Section 200 C.R.P.C., Section 125A RP Act 1951 (Sections: 191, 199, 200) [pending] 
+2. 1080/2017, Chakan Police Station Chakan, Teh. Khed, Dist. Pune, Maharashtra State | Section 135 M.P. Act (Sections: 143, 149, 341, 188) [pending] 
+3. 23/2012,  Vadgaon Maval Police Station, Vadgaon, Teh. Maval, Dist Pune, Maharashtra State | Section 135 M.P. Act (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 131.86 Crore
-- **Liabilities:** Rs 85.29 Lakh
-- **Net Worth:** Rs 131.01 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 94% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 3
-- **Expended:** Rs 3
-- **Utilization Rate:** 20.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -77,36 +80,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/mpshrirangbarne?lang=en](https://x.com/https://x.com/mpshrirangbarne?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/shrirangchandubarne/](https://facebook.com/https://www.facebook.com/shrirangchandubarne/) | No | Yes |
+| Instagram | [@https://www.instagram.com/shrirangappabarne/?hl=en](https://instagram.com/https://www.instagram.com/shrirangappabarne/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (9 articles)*
+*Mixed/neutral coverage (10 articles)*
 
-- **Total Articles:** 9
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
+- **Total Articles:** 10
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Maval election results 2024 live updates: Shrirang Appa Chandu Barne of Shiv Sena secures victory - The Times of India (The Times of India) [neutral]
-- Political Profile of Shrirang Appa Chandu Barne, Shiv Sena Party, Maval, and Net Worth - India TV News (India TV News) [neutral]
-- Maval lok sabha election results 2024: Maval Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Shiv Sena pips UBT in Maval Lok Sabha seat - The Times of India (The Times of India) [neutral]
+- Shrirang Appa Chandu Barne - The Hindu (The Hindu) [neutral]
 - Maval Election Result 2024 LIVE Updates Highlights: Shrirang Appa Chandu Barne of SS Wins - News18 (News18) [neutral]
-- WATCH: Rs 30 Lakh Seized By Surveillance Team In Pune Ahead Of Lok Sabha Election Voting Day - ABP News (ABP News) [neutral]
+- Saffron stranglehold - Frontline Magazine (Frontline Magazine) [neutral]
+- 10 big winners from recently concluded Lok Sabha Polls who defeated heavyweight candidates - The Indian Wire - theindianwire.com (theindianwire.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Shiv Sena pips UBT in Maval Lok Sabha seat - The Times of India** (The Times of India)
+- ! **Shrirang Appa Chandu Barne - The Hindu** (The Hindu)
+- ! **Maval Election Result 2024 LIVE Updates Highlights: Shrirang Appa Chandu Barne of SS Wins - News18** (News18)
+- ! **Saffron stranglehold - Frontline Magazine** (Frontline Magazine)
+- ! **10 big winners from recently concluded Lok Sabha Polls who defeated heavyweight candidates - The Indian Wire - theindianwire.com** (theindianwire.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Shrirang Appa Chandu Barne shows moderate transparency with a score of 58.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Shrirang Appa Chandu Barne shows moderate transparency with a score of 64.2/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 1,318,591,631. MPLADS utilization: 20.4%. Parliament attendance: 95.0%. Questions asked: 87. Debates participated: 12.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 87. Debates participated: 12. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -146,7 +175,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -225,8 +254,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Shrirang Appa Chandu Barne's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -244,12 +271,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

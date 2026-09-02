@@ -4,16 +4,16 @@
     "constituency": "Jorhat",
     "state": "assam",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 260,
+    "myneta_candidate_id": null,
     "slug": "gaurav-gogoi",
     "house": "lok_sabha",
     "sansad_member_id": 4788,
     "profile_url": null,
     "canonical_name": "Gaurav Gogoi",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 41,
+    "age": null,
     "photo_url": "/mp-photos/4788.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Jorhat",
       "state": "assam",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 260,
+      "myneta_candidate_id": null,
       "slug": "gaurav-gogoi",
       "house": "lok_sabha",
       "sansad_member_id": 4788,
       "profile_url": null,
       "canonical_name": "Gaurav Gogoi",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 41,
+      "age": null,
       "photo_url": "/mp-photos/4788.jpg"
     },
     "criminal_record": {
@@ -40,70 +40,104 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "55/24 PS Basistha Kamrup(M), Date- 23/01/2024 | Section 3 of Prevention of Damage to Public Property Act- 1984",
+          "ipc_sections": [
+            "120(B)",
+            "143",
+            "147",
+            "283",
+            "353",
+            "332",
+            "333",
+            "188",
+            "427"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "",
+          "fir_no": "55/24 PS Basistha Kamrup(M), Date- 23/01/2024",
+          "case_no": "",
+          "other_acts": "Section 3 of Prevention of Damage to Public Property Act- 1984",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=260",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.459108Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:33:07.470544Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 49061120.0,
-      "liabilities": 0.0,
-      "net_worth": 49061120.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=260",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.459122Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 38.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.16,
-      "expended": 3.14,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:19:23.017125Z",
-          "notes": "Official eSAKSHI REST API — Works: 452 recommended, 326 sanctioned, 18 completed"
+          "fetched_at": "2026-09-02T14:48:50.820036Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:44:47.130785Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:44:47.128587Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 452,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 21.360544217687078
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -118,7 +152,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:34.782629Z",
+          "fetched_at": "2026-09-02T14:44:47.127730Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +160,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "‘Jorhat does not fall behind neighbouring districts’: Gaurav Gogoi seeks review of UNNATI zone status - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT1VDYjZESEVtMGFTdHFUZlo1UGRRZlJNY1lUMFFXdTZaZ1V2bV9FdkZUdXBfWnM1VHZFNnJVODl1akVrUGZvbWd6VGx3RGc1NmZySkZLMll1NXB6a1V5eUtwU3hjMEYwM2hIRUtJeGJKbktmaTVqOXp5cUxDZC11dU1QRUItSjg3eG9EcUszanNsRWJscDAxTC1sT0s2UGdiR25SLW5MU3VDMU02SktWQzk0dVZ5S21xSmpLOGtQa1FhVjFWaThiV1RKNnhmWjFVRUV0N3JPUzE0NzdQbjZXb1J3R0I5eThTVFoxS1NB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Assam Assembly results: State Congress chief Gaurav Gogoi loses in Jorhat - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPanBVZHRKRGFhZkg4cHVKU3RvVGYxMHJUWmYtaEJiTVVxTTZSVjlwcTJxaDR3dW0tdHA2NjRtYzNsbUE1eXZ5NmRNdjZMMTVkbkFyakJIdDUwTVNyU3pqSEV6T3NsRVdMY3EwRHVCSnFYMWZrVE02cFRZdkViYmpBMEZjelFlSElUYkRVeTY5NHZMTUdCaVpuRDhYVWw2azlpU1FNbkZDN3ZNcS1LZWhuTy0wbEVmdEJQaUFaN1RFdnRmQ0t1TkF1WElzdXFjNEc2Zk9mNzFhVlpDUdIB4AFBVV95cUxNbGZySG4tV0NScm81UUV3LV80MHFZYnRzdXNHeDlxVHBVb3R2dThFTTdOT2ZwX3pSaURzemFVX1R2N2w1WW5ZRi1VQVE1RDlMME4weVBmVFdlWTlsRnlGeGU4S05aSkpROEFNMVlwQmU5dTlNM1N2VXJhOE9uS1Z1MVFhX2JGZXk0a0NUN2lVVUI5SC0tV2Z1TjVMWkhUaS1JSThla0RzbnBlbmN4SHhqSVBOaWF3b0dUaVU2MUVFVnFXTlNiQms2clVzTXhZcUI0VkJKdEI3ZEJtbHhSalZxTA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "After Historic Lok Sabha Win, Why Gaurav Gogoi Lost In Assam's Jorhat To BJP - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdks2enJIYjJ0WGdMSWRpcFZvWGJXWFZGVC1HTjZIWUYwaW1xdG9QdkJaUVMtNUdXNEhrc1JpRnhadHV1bkpUUWhleUc3WXlIelA4R1ozdUtQRUdZWUNkYWp6MzNxMnVpUzdfWHpfbWtJc2hmNlhHSkZWMkRvYzhhN2ZXQ0g4U012UmNsMUNnOGlGU3ZCbWhxaHRPT0YxbkthVThFYkxPUC11RWdn0gG0AUFVX3lxTFBfYnpIYUlER2FULWV5Zk8yRGdkR2o1OFJJWHlxc3haWHNyUFVzcGNYRmZVZ1g1aEpYTlNmNkxzUm10b0lmZmpSaUhMeld4MVBfeU95UWRjakZYWEltY0ctQ0lXejZiaGNLRC1lU2JGdDVHN2xmOFk3eHlnUzc4bjJiMWFlejNRVGxvdVhzcERuVzVyUmlrSk1BZ0h1Zk43UFBBLUV3UnJYN3JVdVVtUGRlR3EtbA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress CM face Gaurav Gogoi crashes & burns in Assam polls debut, loses Jorhat by 23,000+ votes - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2RZR1d4X3ZnRUpUUkRIZENRT0JBbGtRRUpiQ05Bb20tNXoydDNxaFFOOVRjMU5ZdUZEQkZSTHMtQnFQWGg2QWN2OHY0c3BOcnAxZXRrd0VwWDN1T0ZScEdWXzJBOFE5XzhSSy0wcEUtcEotLUhPbWdYUlZMazgzVEk4MGQtNFhWVFBYVFZLSnhTaTB5QUIxWnJBSVpYYVA0WFlaOGMzeG5VeFpfbHY3RVBmV08xR2Fjc3BB0gHAAUFVX3lxTFBURHZrNW1GQjd0a1lTS25sc2lUUk9jMTJmdTdNS3RCU0Q3VnA3WkszVjJWaUxnME51NVd0aW1iMERXa0Y0M2VKVXhIWlQ1MkNwZEExa2k3TEdwX3VFTFM1aTBaY0Y1LVFtS2pvTTNKRTBubUhDVWdGeGctVm1YRlZhZGd1eldvaEhRd3c5YWpTRklURkR2ZUh1UlZkWWozNVBOZFBiRWlYVjZNSW54MXJSNU1DOHhsZGR4bEdfem9wcQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"Nothing against him,\" says BJP's Hitendra Nath Goswami after defeating Gaurav Gogoi in Jorhat - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2VBQ3BBSUFiU2dzZEhGdkt4bVo4V2RFMlNzeDhDZURrMDh4ZHFIWVU5empCODZ2cW5pYV94bDFhYnNVUVIyYUNiOXFRMEZGaEZ6dUxBVzZFcUozREpETmFXeF9ORVc0ajljVVAwcG81OE5ueW5uNFltSHhHYWdWczhpLVBCSTBWRWxzZTJaU28zQzFpcWpCZFZnQlJKNjh0ZjV6UklYcVJuVGVEWV9RTjFYOU5JZUk1U19OdnJUeHpCSWVmT3RvTlM2UjlHQ09rSk1XV3BOb016Q0lHVnBOb3gydzI?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:37.640688Z",
+    "collected_at": "2026-09-02T14:48:50.820826Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +229,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.777097Z",
+          "fetched_at": "2026-09-02T18:38:04.238113Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +245,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.777108Z",
+          "fetched_at": "2026-09-02T18:38:04.238153Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +261,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.777113Z",
+          "fetched_at": "2026-09-02T18:38:04.238160Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +277,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.777118Z",
+          "fetched_at": "2026-09-02T18:38:04.238166Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +293,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.777124Z",
+          "fetched_at": "2026-09-02T18:38:04.238172Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +309,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.777128Z",
+          "fetched_at": "2026-09-02T18:38:04.238177Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +325,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.777133Z",
+          "fetched_at": "2026-09-02T18:38:04.238182Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -290,11 +363,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Congress MP Gaurav Gogoi fails in his first attempt to become MLA from Assam's Jorhat - MSN",
-          "source": "MSN",
+          "headline": "‘Jorhat does not fall behind neighbouring districts’: Gaurav Gogoi seeks review of UNNATI zone status - India Today NE",
+          "source": "India Today NE",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTlZ5ZjhoSGxVQ2FjWTV5cWt5S3MwenhDV05jRFVPTHAtOWdEVjNYSWE0U2pQSHM4RVpCc3dJLVR6U2Mxa3VHT19QUjJxZElMQWxjcno1M21McXZSLWxvMmxwUlZnRzlOdlBsVVkxRFNtS1BZZk12aFJYaWYwN1pVT09wVnhsUnJZcl9IUFJLdTdmeDVNT3Y5SlpTV1hrcm1mOTF4Qkw5QVNLZUg0QnZwYTFmVlRhaEtiVTltcnhua29mbEl4cnBwUWZTbWJvQ1QxNE81MDhlQ3M1SFBxcU1SQlp0REY1aFFfVFpjaHpicnBRVnpnY0lpQnJDTVZ2el81YlgtY2h5aEN4VVNCNWxTSWNaRlRFZWFtOERWeHVMRU53WlBNRkFCdnZUSVpmdG1OdmFFZVY3VUlqbVNGWDZCM1dPQXI1UDRTTE11YjFkcnJ3ODZFTGNHRHB6WV9vMU1QT0F6ZThiTDlvWXFiN0JBWUFqSTVSQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT1VDYjZESEVtMGFTdHFUZlo1UGRRZlJNY1lUMFFXdTZaZ1V2bV9FdkZUdXBfWnM1VHZFNnJVODl1akVrUGZvbWd6VGx3RGc1NmZySkZLMll1NXB6a1V5eUtwU3hjMEYwM2hIRUtJeGJKbktmaTVqOXp5cUxDZC11dU1QRUItSjg3eG9EcUszanNsRWJscDAxTC1sT0s2UGdiR25SLW5MU3VDMU02SktWQzk0dVZ5S21xSmpLOGtQa1FhVjFWaThiV1RKNnhmWjFVRUV0N3JPUzE0NzdQbjZXb1J3R0I5eThTVFoxS1NB?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,19 +379,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Assam Poll Results 2026: Congress leader Gaurav Gogoi defeated in Jorhat | India News - Hindustan Times",
-          "source": "Hindustan Times",
+          "headline": "After Historic Lok Sabha Win, Why Gaurav Gogoi Lost In Assam's Jorhat To BJP - NDTV",
+          "source": "NDTV",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOci05WG9EQTFSQTBJZzhhc3MtNGg1U2NQMGQ3Zk1NV2ttelJyeUx5anFvb3JmeHAwUGRlYm5KWUx5Tk5wRTdYWWs4UXdXaUllc202emUwRUJPcFBJVTBnVUd5U2g2a08yVlA0SDBZQ05ucUQycXp4b0dyRGZWcTBza2Y3Y3BnSFU2UlBIejJoTnpxdEFmazQ1VU45SXVnT2ZnNWRlQ0RRSFN2Rnd6blJ3VXV3QXNkM3BMSExmY2JCeTl5MVpTWllUdXl3TkJKZUc1bklCNlFYZDRaMU3SAeABQVVfeXFMTTNNaFFuaXduamtTZGpzQ2t2ci02Nkg2aGJGanZQakEwX2hlX2ROZmVFNjJ6V04tbWNEQWY2RXd1ajV0WlEzZGV4cFpWU2o4Z3gyU2Q4WmFMYzhPbkNsdzNGVkFXSnlUdjJJZGJYb0NYWE5rWFZKWUxfcm5xa2xKckpFVXpuOGphektfeGZJTkI5aVlrX3R1RDFnUFllYTJGYzlDWFE2YV9lU3VHQTRRNi1rckhtQi15U0EzUGl2RGFaZXMtQ3FWZUZWcW9UNER1RTlUbTdBVldSeGRjb1p2d0Q?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Rahul Gandhi's babbar sher Gaurav Gogoi loses Jorhat to BJP MLA by 23,000 votes - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX2hCMzNHRzBsUVVmZjlRNkc3Sk9ILXVpQ2U3WEJCYmpwcUtFRVhOLWlDQTQySEFPbFc3Y1FWZWt3Q29hR21MMk95TUxOWkJ2T01QcGdGbGtTRmp4S0tzREdaQlJoSHFUVnI2eUpBdXZhNEtiQ213V0wyLUx5OExSeXFCNTBXVHRQMGM4LVBHV2paSXFSOEhHYi1sTGhoSUpoaFVSZzY0SFlqQ0phNWZBakdsb1JFeEZ1RFdlVy1RQWVpQlZSSm1yWFpYUlFxeFlIcWJpLTFsOXYxTWtRdUdzdjA2TmFQQmd4WGx1ZGNCRG9hRWp3dHgtZzZiS2jSAYICQVVfeXFMTTJZRTBrbzNsUzRCUDF4c0JjZGxvb3FNVnc2Q2pxOHVuOXF2Q3hnQkFiSnZVcEtobGRKN0tqVDZGMkU1ZU0zTGFucl93NUExNEJtVFJlUUQ4cWtIbk1BblphQjNpNGg1LUxhOVNGMlVrNVkwYUoyT0hzUGtnS2dROG1Zek9vLXFoWElrSzVxcU54UzVEMWEyMm5OTXNNbFJPSHhVdFNTZDJpZ3VRRU1aV3J0b2lIWHFTakZodmVxWVZzSGFkYkNGSmNNQW5ESVhpSVVnUjFDVkxkOVFsY05NN01PMTJQZzdtUC10YUd4TG03Sm1IMG80TlZZWTEzSGcxTHdR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdks2enJIYjJ0WGdMSWRpcFZvWGJXWFZGVC1HTjZIWUYwaW1xdG9QdkJaUVMtNUdXNEhrc1JpRnhadHV1bkpUUWhleUc3WXlIelA4R1ozdUtQRUdZWUNkYWp6MzNxMnVpUzdfWHpfbWtJc2hmNlhHSkZWMkRvYzhhN2ZXQ0g4U012UmNsMUNnOGlGU3ZCbWhxaHRPT0YxbkthVThFYkxPUC11RWdn0gG0AUFVX3lxTFBfYnpIYUlER2FULWV5Zk8yRGdkR2o1OFJJWHlxc3haWHNyUFVzcGNYRmZVZ1g1aEpYTlNmNkxzUm10b0lmZmpSaUhMeld4MVBfeU95UWRjakZYWEltY0ctQ0lXejZiaGNLRC1lU2JGdDVHN2xmOFk3eHlnUzc4bjJiMWFlejNRVGxvdVhzcERuVzVyUmlrSk1BZ0h1Zk43UFBBLUV3UnJYN3JVdVVtUGRlR3EtbA?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -327,6 +392,14 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2RZR1d4X3ZnRUpUUkRIZENRT0JBbGtRRUpiQ05Bb20tNXoydDNxaFFOOVRjMU5ZdUZEQkZSTHMtQnFQWGg2QWN2OHY0c3BOcnAxZXRrd0VwWDN1T0ZScEdWXzJBOFE5XzhSSy0wcEUtcEotLUhPbWdYUlZMazgzVEk4MGQtNFhWVFBYVFZLSnhTaTB5QUIxWnJBSVpYYVA0WFlaOGMzeG5VeFpfbHY3RVBmV08xR2Fjc3BB0gHAAUFVX3lxTFBURHZrNW1GQjd0a1lTS25sc2lUUk9jMTJmdTdNS3RCU0Q3VnA3WkszVjJWaUxnME51NVd0aW1iMERXa0Y0M2VKVXhIWlQ1MkNwZEExa2k3TEdwX3VFTFM1aTBaY0Y1LVFtS2pvTTNKRTBubUhDVWdGeGctVm1YRlZhZGd1eldvaEhRd3c5YWpTRklURkR2ZUh1UlZkWWozNVBOZFBiRWlYVjZNSW54MXJSNU1DOHhsZGR4bEdfem9wcQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "\"Nothing against him,\" says BJP's Hitendra Nath Goswami after defeating Gaurav Gogoi in Jorhat - aninews.in",
+          "source": "aninews.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2VBQ3BBSUFiU2dzZEhGdkt4bVo4V2RFMlNzeDhDZURrMDh4ZHFIWVU5empCODZ2cW5pYV94bDFhYnNVUVIyYUNiOXFRMEZGaEZ6dUxBVzZFcUozREpETmFXeF9ORVc0ajljVVAwcG81OE5ueW5uNFltSHhHYWdWczhpLVBCSTBWRWxzZTJaU28zQzFpcWpCZFZnQlJKNjh0ZjV6UklYcVJuVGVEWV9RTjFYOU5JZUk1U19OdnJUeHpCSWVmT3RvTlM2UjlHQ09rSk1XV3BOb016Q0lHVnBOb3gydzI?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -360,15 +433,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 45,
+      "starred_questions": 13,
+      "unstarred_questions": 32,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 87.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +449,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +480,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +507,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Assam: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 49,061,120. MPLADS utilization: 21.4%. Parliament attendance: 100.0%. Questions asked: 45. Debates participated: 15.",
-  "validated_at": "2026-09-02T01:36:46.777859Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 45. Debates participated: 15. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.238951Z"
 }

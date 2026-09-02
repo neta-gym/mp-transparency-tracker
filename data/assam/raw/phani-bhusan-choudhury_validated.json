@@ -4,16 +4,16 @@
     "constituency": "Barpeta",
     "state": "assam",
     "party": "Asom Gana Parishad",
-    "myneta_candidate_id": 4099,
+    "myneta_candidate_id": null,
     "slug": "phani-bhusan-choudhury",
     "house": "lok_sabha",
     "sansad_member_id": 5569,
     "profile_url": null,
     "canonical_name": "Phani Bhusan Choudhury",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 72,
+    "age": null,
     "photo_url": "/mp-photos/5569.jpg"
   },
   "findings": {
@@ -22,80 +22,115 @@
       "constituency": "Barpeta",
       "state": "assam",
       "party": "Asom Gana Parishad",
-      "myneta_candidate_id": 4099,
+      "myneta_candidate_id": null,
       "slug": "phani-bhusan-choudhury",
       "house": "lok_sabha",
       "sansad_member_id": 5569,
       "profile_url": null,
       "canonical_name": "Phani Bhusan Choudhury",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 72,
+      "age": null,
       "photo_url": "/mp-photos/5569.jpg"
     },
     "criminal_record": {
       "total_cases": 1,
-      "serious_cases": 0,
+      "serious_cases": 1,
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "Bongaigaon P. S. Case No. 360/2020 | Returned in FR vide Bongaigaon PS FR No. 118, Dated 31.03.2022",
+          "ipc_sections": [
+            "120B",
+            "420"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "CJM, Bongaigaon",
+          "fir_no": "Bongaigaon P. S. Case No. 360/2020",
+          "case_no": "G. R. No. 535/2020",
+          "other_acts": "Returned in FR vide Bongaigaon PS FR No. 118, Dated 31.03.2022",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:10.269285Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 32806601.0,
-      "liabilities": 1564895.0,
-      "net_worth": 31241706.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4099",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.569086Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 27.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 5.36,
-      "expended": 3.25,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:19:26.312450Z",
-          "notes": "Official eSAKSHI REST API — Works: 89 recommended, 52 sanctioned, 1 completed"
+          "fetched_at": "2026-09-02T14:44:45.809931Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:39:22.637276Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:39:25.974368Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 89,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 22.10884353741497
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -110,7 +145,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:44.097866Z",
+          "fetched_at": "2026-09-02T14:39:25.358876Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +153,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Assam MP Phani Bhusan Choudhury takes bus ride in Bongaigaon, wins praise for simplicity - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRk5OX3kzVVVGTE03WTloSVlJajhaNUg4ZXRfNzU5ZThrRmNUQUxxVzhPRGxUNi13QjFqNWFfQm1KeUdtZ19zc0hfcWR5SFJYWm5fZHNVblNkbEZvWkVmQlNLWl9Xa3g1Um5lUUk2Y2thMWVCQkJGc2tzR1puN2daeTNRVUlFcE9oaklHYWV5TlFPYjNoWGVZWGc1Ukdfc2gxNTdoendTUklqdTN5YlFXQ0prYm1BLTZJaFFOU2RRMlRtMzl6RnExZHZPR1Y1OXpqa2JGYi1KM3IxRkhHR3Jj0gHkAUFVX3lxTE5CZ1psV251VVRlUE51MHpYb1FGV05TSURfMW04eUZKVlZiN0NEVHZsRGxjWTRNVG85Q2Z5SERQMVZfdi1SSkRXMkRuMGpLOFdwNzdFRDlJQ21ncTZMcmNFVXItTkZOY2t3dWduNDZvQU9ZUmxZVmxBUk03WXNlb2M4VG9FeWdlQWRqMXQ2UUFMVEZDeVkyODFHTENoTFR6LXRDaVVwV1V2ZFVBUTlqY3J0b0NHbWFvc1JWYzJ6eFJfaU5Ldzd3WGpjYXYtM3VXM1B0VEdPaGtuNU5rX2pQOXJSS09tLQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Only four women in fray across Bongaigaon, Chirang as gender gap persists - The Assam Tribune",
+        "source": "The Assam Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1RDVnRsci1iQkV0UVUyMzJNbmM5bGs4dVNPeVh0VV9VVDdFbEJJU2VrcnVfRGI0a3dLS2dNbS1QOUdaV0gzNUJiSElXZFJteUJXcm9hdTNGamVZWVRLOWJPaGhZaHVBYk51ZkdJV0NZeGJtTU5FTVpaR21peHppdUNHVnZ5UUhKamp0OHpVeENubFVBblk5czF5S2dUdlZRaVhmVE9kelQ2Wld6MFBxQdIBtgFBVV95cUxQRVFiOVBfZ0hqX3ZqQkF1aThnUlhrU1ZHcWhZYldYWXFqVm1FUk5WbmxNcS14M1A0c0xmbGhtTENoNlpIdnpibnJMMWFOa2xYdUNYUE1FM2hvTlBjZjl6aENKODE4OEV2Qmx3dDZZSHZubE92XzdCb1NTLUtQRjM2WFg1VXFrNkJCTGRPVkRxcTJOd1pYQTgzUnVvZmh4Tmx5RDREci1aRjRMaV9QcmFrekc0dl9BQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Barpeta election results 2024 live updates: AGP's Phani Bhusan Choudhury wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQS05fSnVJV0NYSWUwZTBhcUdEX2xKWmRqTEJ4N1BTLXhadnFUNVNYT0xuQzRGaFJyX1NOcUVNbUlNRGQzOXpjLWMyeVd0ck83S08wU0pJXzBDdDFfbFRVWjlDZzl0VUxzZmFSMkdIeDV4dzRsUFROb2FudmV6NERIS2V5emNHdDJpdGNjQVJJeFIwSUE3VU53aXNldEtvZ2hKSV9jWVQzRmJyY2RlNTN1LVFRTGRsUjAtMm9LRHhyY0xHaHVvSzhLSWY1Y1VCRVlFLWVDM0VmZTZCMk93U0pWX3h0WU9iVFZ0Mjc2a0h3bnNPWTE1WFR5TW9MYUpJMU94NXBuRmpKQXhlbDdtNTlua1VHU2dBdGhtbFdNMi1vU3REZ9IBpwJBVV95cUxPenppY0xCMEd4N0FuOE50RjNBOXFGWThTZzFEbEdMOGJzRTNFX1Y5OXZtcHpYQVhDXzRIbFl6R25NVmR4dGQ0cFZaNjBmQWdJYzZNOWFESFZhSjI2eVd3N3F0VzdTTlFEak5TR0s3V1hNeDZSdjlLNTBGb2RZR3N4X19CeHFEV3V6Q09QS3dXaDQyeWFwYlBZOWJoZHJLS3JJZG8teHJONWc3cGZnYjl4TFVIZnhzeWVmV3k1UndWdWp5UmRHT3hWRmpRekdsZ3pJc0tmck95SHYzdkpXN0VqS21VbDlleTlOckQ1TzZ2dE5VYU1faE5VWVc1TDBTNElUWld2U3NHUzRWVzdpal92bFVPNDE5UlQwc2dxanVYeGlJVWxlWjBF?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Assam’s longest MLA Phani Bhusan Choudhury begins Lok Sabha journey - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFdhRGpuMVBzODlHeTFVcWJ5YzBpWTlYQWZDNnRDY21BWWdxMWdFMUhvczVXUTdjbXhidHAxRlozYjdUVnh0WHc1SDVtSGJkUURueUVxR2JxLXY1R1Y3VHdUNG5zT2owU1huVU5uT0o4bFF1U3ZCeUQwNGIwSE9UelF6UmZIemtfTHI5a2p3RmlDQ2Vac3FrVHdSX0JFcEtzZ0V30gGoAUFVX3lxTE13QWIwTDhFelNyT2VoYVRzN2Zybm5Sa2t0OTltYU1IcDhsemR1WUVNeUNzSzdodXFKQW1kTXNHY21PN1Qzc3VxLWVmU05Kc3VNQTJPc1VBcWI4VGRCX3lvaTBZaTM1Y3lVV1IzaWo4aHBNckp3MG5nRHlRYnVYSndKVldVZi1KekZkc1VIV2hUTDZBWF84MHZNQmM4a2E3UzZmUHBob0NOXw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha MP And AGP Leader Phani Bhusan Choudhury Hospitalised In Guwahati - guwahati Plus News",
+        "source": "guwahati Plus News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1NXdFR5MEI5OC1rZjBJUTBONVJCcTdfbzBqSzdrTVQ0eUZFeERPV29pUnE1QUQ2YldIa2RweXl2WGlIbWM0NVR5UUdJX1dKSjJSclItdXd0aUtyd1FkR2F6RU9SQVRCSnJ6bEN6MkpKcWNHWWRLU2NLRWk2Zll3eDl3dHV0R0tsc0tFYjN0UTNpY2Z1Uy1MLUU3NlhQTHBZQjFQT2owMnJ4c0ZTUzdOZWduZw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:11.091009Z",
+    "collected_at": "2026-09-02T14:44:46.804813Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +222,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.877288Z",
+          "fetched_at": "2026-09-02T18:38:04.340895Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +238,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.877298Z",
+          "fetched_at": "2026-09-02T18:38:04.340906Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +254,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.877304Z",
+          "fetched_at": "2026-09-02T18:38:04.340912Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +270,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.877309Z",
+          "fetched_at": "2026-09-02T18:38:04.340918Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +286,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.877316Z",
+          "fetched_at": "2026-09-02T18:38:04.340925Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +302,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.877320Z",
+          "fetched_at": "2026-09-02T18:38:04.340930Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +318,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.877324Z",
+          "fetched_at": "2026-09-02T18:38:04.340935Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,11 +356,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "NDA rift surfaces in Bongaigaon as Asom Gana Parishad (AGP) leader alleges BJP sabotage - The Sentinel - of this Land, for its People",
-          "source": "The Sentinel - of this Land, for its People",
+          "headline": "Assam MP Phani Bhusan Choudhury takes bus ride in Bongaigaon, wins praise for simplicity - India Today NE",
+          "source": "India Today NE",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcDFScjVRemN4VGlhbWNwOFF1NnhVVmxOYmNfSlU1ZlVaeFhiRTdBanRfQjVrN2ZDeXZzZ20zanY3ZnNLR0hZSFRPRE81VVRpZzlDNk9yRjM0SkZkU0cwZ09iaWItUmJZOU5qTVplcHBuSF90UHo5OW1yenBvYzBPd3VwUHJvcUdJRk13aEUyeHd0MmZiRWZOa0hvR0RpSndheGkxV2V0Sjh2b2lLeEVLYUVKV3otMmFnRDgzZ3lYT0NJM2hkOThkOTJRSDJPQlZwa2stSVJFYmtybzEwRmExQzZn0gHvAUFVX3lxTE1WcHJIZ2pYTUVsLWlhUWFFX3Ytb1pQczc3WTdJZEpqUldTa3NDaVkyM2RJWWVjb0F0TVhyVE8wTkdRa0JvVEljQkVBUlhKRzBfaVhLR0tWUUNrT21rUVZtNVR4WFE3dmFQQ2pYQXBOaVRfOGUwNlZ4ZlJYN1RlcnhBdmE4cXpyUkVFRzFNclc1aGdMSlhxaFFveWkxSHl5cFIyY0p2SXlJZllGYkJodzNIUk1hdWIxNFFvRFViYzhqaWd1ckN1NUpob2w5VzBOMk9LeXZZNVdpTHNrQ0hHSUhIT0MxZ2NpQ1BCMkV0X29n?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRk5OX3kzVVVGTE03WTloSVlJajhaNUg4ZXRfNzU5ZThrRmNUQUxxVzhPRGxUNi13QjFqNWFfQm1KeUdtZ19zc0hfcWR5SFJYWm5fZHNVblNkbEZvWkVmQlNLWl9Xa3g1Um5lUUk2Y2thMWVCQkJGc2tzR1puN2daeTNRVUlFcE9oaklHYWV5TlFPYjNoWGVZWGc1Ukdfc2gxNTdoendTUklqdTN5YlFXQ0prYm1BLTZJaFFOU2RRMlRtMzl6RnExZHZPR1Y1OXpqa2JGYi1KM3IxRkhHR3Jj0gHkAUFVX3lxTE5CZ1psV251VVRlUE51MHpYb1FGV05TSURfMW04eUZKVlZiN0NEVHZsRGxjWTRNVG85Q2Z5SERQMVZfdi1SSkRXMkRuMGpLOFdwNzdFRDlJQ21ncTZMcmNFVXItTkZOY2t3dWduNDZvQU9ZUmxZVmxBUk03WXNlb2M4VG9FeWdlQWRqMXQ2UUFMVEZDeVkyODFHTENoTFR6LXRDaVVwV1V2ZFVBUTlqY3J0b0NHbWFvc1JWYzJ6eFJfaU5Ldzd3WGpjYXYtM3VXM1B0VEdPaGtuNU5rX2pQOXJSS09tLQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,19 +380,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Assam: Phani Bhusan Choudhury resigns as AGP MLA after historic 8th term - India Today NE",
-          "source": "India Today NE",
+          "headline": "Assam’s longest MLA Phani Bhusan Choudhury begins Lok Sabha journey - ThePrint",
+          "source": "ThePrint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd1JXODVPM2wwMmx5UXFxX3hqWVVuX3YtQkFOSnQ0S0R5MHpBakZhQ3Znc0Y2NFlvRFhuV3BCM01NLTlDSzNBTTk0Rkp0VlAtQmxWZG9VTTVjWXQxUFFTMVlOOXNtRjlQdnRnRE5TTGVJOGZjVE9uVmQyUnV0TzB2Q2t4UFNYcGxGV2FEb3BIUUdBLU41cGE4RkxpUkNrUWg3NWFVUHZyZ0pIdUo3aTZmLXE0a0hMTHVzaXJlMjhieEYwSDZQeWt0YVFn0gHPAUFVX3lxTE9PSHc3bG50S0xVc3lKMEdFUlYtX1h1N3NsQVhpUkZ1YWw3YUwzZUNUYllHT2FLZ3FPUlMySzJFSF9QVFZ5MS1oN2hqdW51clphbWpTbkg1UUhHSFFMaFRrbkV4bjFJNUhWaXAxZkJLNjlyTExVQkdyWGNhcGhtSGRxWGxFT2VpUFRLaFZkamNrV1AxUFBLcnhFTDA0WFk4QVFsTlZab3ZJUjcycVllWERGSlBtS3psS2syamNCVUtSTmRvck9zMEtPYkNUMWIxZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFdhRGpuMVBzODlHeTFVcWJ5YzBpWTlYQWZDNnRDY21BWWdxMWdFMUhvczVXUTdjbXhidHAxRlozYjdUVnh0WHc1SDVtSGJkUURueUVxR2JxLXY1R1Y3VHdUNG5zT2owU1huVU5uT0o4bFF1U3ZCeUQwNGIwSE9UelF6UmZIemtfTHI5a2p3RmlDQ2Vac3FrVHdSX0JFcEtzZ0V30gGoAUFVX3lxTE13QWIwTDhFelNyT2VoYVRzN2Zybm5Sa2t0OTltYU1IcDhsemR1WUVNeUNzSzdodXFKQW1kTXNHY21PN1Qzc3VxLWVmU05Kc3VNQTJPc1VBcWI4VGRCX3lvaTBZaTM1Y3lVV1IzaWo4aHBNckp3MG5nRHlRYnVYSndKVldVZi1KekZkc1VIV2hUTDZBWF84MHZNQmM4a2E3UzZmUHBob0NOXw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Politics should not be done over Zubeen Garg’s death: MP Phani Bhusan Choudhury - The Sentinel - of this Land, for its People",
-          "source": "The Sentinel - of this Land, for its People",
+          "headline": "Lok Sabha MP And AGP Leader Phani Bhusan Choudhury Hospitalised In Guwahati - guwahati Plus News",
+          "source": "guwahati Plus News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVNrZ1ZQLWFBYWpZQUNPR1pFSkROWFBHeGN0OEhVVXhuQXRTMmIzVm9WMUZ5NjJwWVpMUVluTEhtOG5udHRrT1c3LVkzcmFwT2lOSGU2YWU5dnNiSHkwdVJXd2JIc0hQWVIwNGl5SngwOUFObVQ1aV8zT01yMF9zR3BHd20wX01ENGlHSUx1aEtTSjN2VGdPUG1Eblp1U3pvZFp6NHAtTG9iU3VFQUdPMmRqcjBSVVdmS0pNdHFMUWFmYktITU4zYnlPakdQUk1nUnhxOW1VONIB5AFBVV95cUxNeThOMWtLSkp1VXlCU1llR0Q4VjZzNG9KRHVLMG1wT1owa3hqam5iX2lUZTZDYlBzVmZ2azF6UEdZMU4wRW9xLWd5LTh3YkNLbU9TLVE3NnhIY2ZySlFJclhIVGNfMndWdjNLaGtVMzVEdEgzQ2ZLcTd3UENSQ3B3WEFLOFpZcWFFcWV1aTRDRkVqVXpBTV9DTXFCR2ZKa0t0YUstR0pILVlOaGlDbUcxcUY2UXdQN3M0NVFZOFVOUGUwOGZsSjlIRzF5VEZta1l4ZlRYRTdkWC1pUTZjb1pBSjdQRVc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1NXdFR5MEI5OC1rZjBJUTBONVJCcTdfbzBqSzdrTVQ0eUZFeERPV29pUnE1QUQ2YldIa2RweXl2WGlIbWM0NVR5UUdJX1dKSjJSclItdXd0aUtyd1FkR2F6RU9SQVRCSnJ6bEN6MkpKcWNHWWRLU2NLRWk2Zll3eDl3dHV0R0tsc0tFYjN0UTNpY2Z1Uy1MLUU3NlhQTHBZQjFQT2owMnJ4c0ZTUzdOZWduZw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +426,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 8,
+      "starred_questions": 2,
+      "unstarred_questions": 6,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 15.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +442,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 80.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +473,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +500,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Assam: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 32,806,601. MPLADS utilization: 22.1%. Parliament attendance: 80.0%. Questions asked: 8. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:46.878041Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). Parliament attendance: 80.0%. Questions asked: 8. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.341663Z"
 }

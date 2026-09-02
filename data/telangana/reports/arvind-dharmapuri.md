@@ -3,10 +3,8 @@
 **Constituency:** Nizamabad, Telangana
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 47
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
@@ -14,13 +12,13 @@
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 45.2 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 85.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,28 +32,52 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 274/2022, Abid Road Hyderabad (Sections: 505(1)(c), 504) [pending] 
+2. 238/2022, Miyapur Cyebrabad (Sections: 504, 505(1)(b), 505(2)) [pending] 
+3. 187/2022, Ibrahimpatnam Jagtial (Sections: 153A, 295A, 505(1)(2)) [pending] 
+4. 186/2022, Ibrahimpatnam Jagtial | Section- 151 Crpc (Sections: N/A) [pending] 
+5. 61/2022, Medchal, Cyberabad | Section- 67 ITA Act 2008 (Sections: 294B, 504, 505(2)) [pending] 
+6. 17/2022, Nizamabad III TN, Nizamabad (Sections: 153, 153A) [pending] 
+7. 17/2022 P.S-Kukatpally Cyberabad (Sections: 504, 505(2)) [pending] 
+8. 8/2022, Banjara Hills Hyderabad (Sections: 294, 504, 505(1)(b)) [pending] 
+9. 5/2022, Banjara Hills Hyderabad | Section- 67 ITA Act 2008 (Sections: 504, 505(2), 153A) [pending] 
+10. 4/2022, Banjara Hills Hyderabad (Sections: 504, 505(2), 506) [pending] 
+11. 3/2022, Madannapet Hyderabad | Section- 3(1)(r) SC ST  POA  Act 2015 (Sections: 290, 504) [pending] 
+12. 03/2022, Hasunabad Siddipet (Sections: 153A) [pending] 
+13. 02/2022, Korutla Nizamabad (Sections: 153A, 295A, 505(1)(2)) [pending] 
+14. 1/2022, Nandipet Nizamabad (Sections: 290, 504) [pending] 
+15. 1821/2021, Cyber Crime Hyderabad (Sections: 504) [pending] 
+16. 209/2021, Banjara Hills Hyderabad | Section- 151 Crpc (Sections: N/A) [pending] 
+17. 42/2020, Nizamabad IV TN Nizamabad | Section- 126 OREURPA (Sections: N/A) [pending] 
+18. 29/2020, Nizamabad (R) Nizamabad | Section- 215(1)(b) TEMA (Sections: 143, 290, 341, 353, 506(2), 149) [pending] 
+19. 17/2020, Nizamabad III TN Nizamabad | Section- 208, 209(1)(b) TEMA (Sections: N/A) [pending] 
+20. 118/2019, Town I Nizamabad (Sections: 147, 506, 290, 509, 504, 298, 149) [pending] 
+21. 50/2019, Nizamabad TN Nizamabad (Sections: 290, 341, 323, 506, 34) [pending] 
+22. 86/2012, Ghanpur(W) Warangal | Section- 133 OREURPA (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 109.90 Crore
-- **Liabilities:** Rs 30.67 Crore
-- **Net Worth:** Rs 79.23 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 93% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 28
-- **Released:** Rs 28
-- **Sanctioned:** Rs 16
-- **Expended:** Rs 15
-- **Utilization Rate:** 53.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,25 +91,50 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/arvindharmapuri](https://x.com/http://www.twitter.com/arvindharmapuri) | No | Yes |
+| Facebook | [@http://www.facebook.com/franklyarvind](https://facebook.com/http://www.facebook.com/franklyarvind) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Revanth Reddy will become next Suvendu Adhikari: BJP MP Dharmapuri Arvind's big claim - MSN (MSN) [neutral]
-- Will Revanth Reddy join BJP? Nizamabad MP Dharmapuri sparks major defection talk: 'Like Suvendu…' - India TV News (India TV News) [neutral]
+- Who was tracking Nizamabad MP Dharmapuri Arvind? DGP Anand denies surveillance claim - NewsMeter (NewsMeter) [neutral]
+- Nizamabad MP Arvind inaugurates ₹9-crore Jankampet goods shed - The Hindu (The Hindu) [neutral]
 - CM Revanth Reddy appears to be eager to join BJP, claims MP Dharmapuri Arvind - The New Indian Express (The New Indian Express) [neutral]
-- Telangana CM Revanth Reddy will be next Suvendu Adhikari: BJP MP Arvind Dharmapuri - Zee News (Zee News) [neutral]
-- Dharmapuri Arvind makes stunning prediction on Revanth Reddy, says he could become BJP’s next Suvendu Adhi - The Economic Times (The Economic Times) [neutral]
+- Arvind compares Revanth to Suvendu, triggers chatter with ‘joining’ BJP remark - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Arvind Threatens Stir for More KV Land - Deccan Chronicle (Deccan Chronicle) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Who was tracking Nizamabad MP Dharmapuri Arvind? DGP Anand denies surveillance claim - NewsMeter** (NewsMeter)
+- ! **Nizamabad MP Arvind inaugurates ₹9-crore Jankampet goods shed - The Hindu** (The Hindu)
+- ! **CM Revanth Reddy appears to be eager to join BJP, claims MP Dharmapuri Arvind - The New Indian Express** (The New Indian Express)
+- ! **Arvind compares Revanth to Suvendu, triggers chatter with ‘joining’ BJP remark - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Arvind Threatens Stir for More KV Land - Deccan Chronicle** (Deccan Chronicle)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Telangana: 7 relevant findings
 
 ---
@@ -98,7 +145,7 @@ Arvind Dharmapuri has a below-average transparency score of 42.8/100, indicating
 
 ---
 
-Has 22 criminal case(s) (0 serious), 22 pending, 0 conviction(s). Declared assets: Rs 1,099,020,273. MPLADS utilization: 53.4%. Parliament attendance: 85.0%. Questions asked: 34. Debates participated: 2.
+Has 22 criminal case(s) (0 serious), 22 pending, 0 conviction(s). Parliament attendance: 85.0%. Questions asked: 34. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +185,7 @@ Has 22 criminal case(s) (0 serious), 22 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +264,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Arvind Dharmapuri's MPLADS account: Released: Rs 28, Expended: Rs 15, Utilization: 53.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +281,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

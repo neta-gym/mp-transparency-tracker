@@ -24,15 +24,23 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:20.074757Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 14698791.0,
+    "immovable_assets": 23100000.0,
     "total_assets": 37798791.0,
-    "liabilities": 0.0,
-    "net_worth": 37798791.0,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
@@ -40,44 +48,58 @@
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=273",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.409014Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:32:46.330919Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 31.1,
+    "wealth_percentile": 29.4,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 0.18,
-    "expended": 0.11,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:34.265672Z",
-        "notes": "Official eSAKSHI REST API — Works: 11 recommended, 3 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:37:36.827157Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:32:10.787907Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:32:47.781836Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 11,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 0.7482993197278912
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:09.271836Z",
+        "fetched_at": "2026-09-02T14:32:45.844516Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Direct train between Ramnagar and Dehradun soon: Anil Baluni - Garhwal Post",
+      "source": "Garhwal Post",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVZ1a0htNWpnS283M2NrSDZ6NTVPTmZ5ckFmMFppeHo3cjNlQ2VfaW5MSG1WWlI5cU0xbTNJdVVnVllldmZWVFM2SUt5M3JCMklrLThjX0dWVHkyTzBGMFV5czRLUHdnYjdtd2NZSlViUGRrem5UVVhrY3lHVWl4QWd6NnM0YUFuWm9J?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ramnagar-Dehradun train to run from July 18: BJP MP Anil Baluni - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVpZMUJrclREOUFNai00UVlpc1N1U0NDeWViN2g3QV9ZQnVWczRCMVAwbzBacHdVVl9KaEF3ems0cnItQVNBM1BWaDVYNWk0aDgtbEY2SkdGWWY5YkVUVVBac2tnUHQ1QmktNmxWUHdPbWhCVGFMUUFlcngtd1VjRldzcTZHTV9YMUNBQTdNbHdlZkNBNmJ3NEtZSEFTUdIBowFBVV95cUxQSjFhQXJ1TVU5NzlQOUt6VjlrQmZ4QkdDZHFSV1pXSGhNc0hsWGtnbU1IZzljZXFQV05vcUVWNWlXcUhvRXVrZlhhWmRPalpQeXdsN1N3ZEVXRjYwM1hlTm9sc0J6dzdmMXZWNVFYLUxUTl9Ic3psSXI0d1lzSW9EbzE5cFBjUWczdXI4WTlLZmI4dUdrdXdZZ0dfa2J4QUh4SFdz?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kotdwar gets Passport Seva Kendra to boost accessibility - Garhwal Post",
+      "source": "Garhwal Post",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmZNNFJFV0s0eU1zTGJoOUh5LVl6ME9fcGcwTWZrSUZGQlgzWUdILXotdFJIaE5IX3VLczRfVnAwRjk1N3ZFa0F1UEpMbXZOQ1Y2alU4bXpoTGRsWktZVzFkclVaQ2VNRXBVOG1DQ0ZCZWRuTU5jeURMZzd6dWxiVk92VUtKZFk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MP Baluni plays Holi in 'ghost village', seek return of ex-residents - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZHF6QUE5VktXb3Jfd1N1b3doa2pJQjZBMmQzcW9DX3ZubkZzN2J5ZlRwODlzNlJEOVJ5MWpUbXlUYmJ2TTBHczVpU2ZsZTltczVvSkdJeXRqT3pXWEROU09OMER6RUNxbnYyRkVKUGpvbUsyaXV2TjYzdmt3VnNMbXpreHN0U0laU0tlY080Y0ZLb0l2MGNPS0xrdWJUZ3lQV1NMTEtTeFg3Ynl0SU1NLWZLRURSSjZwbVZrcHRySTVmczI2QmkwczN3cGlXazJad09F0gHYAUFVX3lxTE9nbTJqbFFJQWZkN0lzTThKc3N6M3VyTWIzM2hhcFFyY1JkeGZjSlhDNHl0OU15dkVScWY1dUluc3RkMXBUUjNZM3NHVjdOejk1YVRMSlBIOEh3TnV3QzBmNkIwWWVLWDRjTHM5LVNUanhwTGJwY1ZGTmJtcTJyMEFWa0J1MnNOZW1fd2tKeVpLSXhON3ZQLXBwYk9nenpCRGlaMkhaeFo4amItX3J3b0RsdzFDZWhCb003bTBISDZzZlJxczJGbXVsUTNZaEc2a2lGRmVpSS1RTA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Delhi Confidential: ‘Roots’ Cause - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNnUwa2w1MFJpbzhNdXcxMkVmc215Wm84WXRWYjZoQ1dIS3UxUW9JeHlvVjBmbUxkNXNNZWJtWkItT1BQR3Vud1NadWFiTV9DTVg1MVptQnMyZ3pSbG14RTNMQTRHY0Y2OV9VTmlRaC1RWHJvV2NsaHZnWmRmWlhibHpsQVdCa2ZwWVVicTk1OHVTSW1DRmpBMlhxNGRsRGZYR05GNFBvNU81S3ZXTXp5TjQ4azhLdmp4ZEFn0gHCAUFVX3lxTE42dmJpeW5STWl2WWZPYnc1alhKSDdVSUZWNXF4ZVhQYkxOZklmMkd6TGhXNkFWOTRHUWJFME1GYWEtTVRpMko4eVd6Ymh2dGJEajRZV3ZwWmNOZVVzZXJWbW9HX1FoaV9qMUtpcnAtS0FXRlZPNll2QUtBTjBtN1NNVjFPQms3SGluXzFjaUcxXzMzQ2VuZnFJTTRxSVB3bkc3RkFCMUFyN3NlaHRiQTRLcjdzdVRkcWJIdG1TTUFjd0t3?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:13.086594Z",
+  "collected_at": "2026-09-02T14:37:39.829735Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.417957Z",
+        "fetched_at": "2026-09-02T18:38:12.004287Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.417966Z",
+        "fetched_at": "2026-09-02T18:38:12.004305Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.417970Z",
+        "fetched_at": "2026-09-02T18:38:12.004311Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.417974Z",
+        "fetched_at": "2026-09-02T18:38:12.004316Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.417979Z",
+        "fetched_at": "2026-09-02T18:38:12.004322Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.417984Z",
+        "fetched_at": "2026-09-02T18:38:12.004326Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.417988Z",
+        "fetched_at": "2026-09-02T18:38:12.004331Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,18 +315,83 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "share",
+        "url": "https://twitter.com/share",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "sharer",
+        "url": "https://www.facebook.com/sharer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "adrspeaks",
+        "url": "https://www.instagram.com/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "youtube",
+        "handle": "adrspeaks",
+        "url": "https://www.youtube.com/user/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 4,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:33:23.685036Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 2,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 8,
     "top_headlines": [
+      {
+        "headline": "Direct train between Ramnagar and Dehradun soon: Anil Baluni - Garhwal Post",
+        "source": "Garhwal Post",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVZ1a0htNWpnS283M2NrSDZ6NTVPTmZ5ckFmMFppeHo3cjNlQ2VfaW5MSG1WWlI5cU0xbTNJdVVnVllldmZWVFM2SUt5M3JCMklrLThjX0dWVHkyTzBGMFV5czRLUHdnYjdtd2NZSlViUGRrem5UVVhrY3lHVWl4QWd6NnM0YUFuWm9J?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ramnagar-Dehradun train to run from July 18: BJP MP Anil Baluni - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVpZMUJrclREOUFNai00UVlpc1N1U0NDeWViN2g3QV9ZQnVWczRCMVAwbzBacHdVVl9KaEF3ems0cnItQVNBM1BWaDVYNWk0aDgtbEY2SkdGWWY5YkVUVVBac2tnUHQ1QmktNmxWUHdPbWhCVGFMUUFlcngtd1VjRldzcTZHTV9YMUNBQTdNbHdlZkNBNmJ3NEtZSEFTUdIBowFBVV95cUxQSjFhQXJ1TVU5NzlQOUt6VjlrQmZ4QkdDZHFSV1pXSGhNc0hsWGtnbU1IZzljZXFQV05vcUVWNWlXcUhvRXVrZlhhWmRPalpQeXdsN1N3ZEVXRjYwM1hlTm9sc0J6dzdmMXZWNVFYLUxUTl9Ic3psSXI0d1lzSW9EbzE5cFBjUWczdXI4WTlLZmI4dUdrdXdZZ0dfa2J4QUh4SFdz?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kotdwar gets Passport Seva Kendra to boost accessibility - Garhwal Post",
+        "source": "Garhwal Post",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmZNNFJFV0s0eU1zTGJoOUh5LVl6ME9fcGcwTWZrSUZGQlgzWUdILXotdFJIaE5IX3VLczRfVnAwRjk1N3ZFa0F1UEpMbXZOQ1Y2alU4bXpoTGRsWktZVzFkclVaQ2VNRXBVOG1DQ0ZCZWRuTU5jeURMZzd6dWxiVk92VUtKZFk?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "BJP MP Baluni plays Holi in 'ghost village', seek return of ex-residents - The Times of India",
         "source": "The Times of India",
@@ -277,30 +406,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNnUwa2w1MFJpbzhNdXcxMkVmc215Wm84WXRWYjZoQ1dIS3UxUW9JeHlvVjBmbUxkNXNNZWJtWkItT1BQR3Vud1NadWFiTV9DTVg1MVptQnMyZ3pSbG14RTNMQTRHY0Y2OV9VTmlRaC1RWHJvV2NsaHZnWmRmWlhibHpsQVdCa2ZwWVVicTk1OHVTSW1DRmpBMlhxNGRsRGZYR05GNFBvNU81S3ZXTXp5TjQ4azhLdmp4ZEFn0gHCAUFVX3lxTE42dmJpeW5STWl2WWZPYnc1alhKSDdVSUZWNXF4ZVhQYkxOZklmMkd6TGhXNkFWOTRHUWJFME1GYWEtTVRpMko4eVd6Ymh2dGJEajRZV3ZwWmNOZVVzZXJWbW9HX1FoaV9qMUtpcnAtS0FXRlZPNll2QUtBTjBtN1NNVjFPQms3SGluXzFjaUcxXzMzQ2VuZnFJTTRxSVB3bkc3RkFCMUFyN3NlaHRiQTRLcjdzdVRkcWJIdG1TTUFjd0t3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kendriya Vidyalaya to open soon in Gairsain: Dr Dhan Singh Rawat - Garhwal Post",
-        "source": "Garhwal Post",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYU5GeUtQUHZXd3ZaWlNzSGJJbTZYOEI2NmRURnpJQjlLdjVuWW5JNWlRZkxsS1pPRnJ4bTBodDBmQUxRUTZ5T0FHb1Nzb3hocHBoTjFnYzFEMy1aUjd0S3F5UTd4Umw4OFJNeFd6WXRPSUFzZkk0dktMYm90MXByS0tzdHZ6MHNacUw0Vk9FMVc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Uttarakhand Man-Animal Conflict: All Activities Halt In Garhwal Post Sunset, MP Baluni Seeks Help From Union Minister - ETV Bharat",
-        "source": "ETV Bharat",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeWNRTnU3TlU0UjY0RGJoRUFubC1OLVRWS3ZWdTRITWN0YlpxVFc2WlBvTkdadDFacEpSYUUxWnZCbGtlbVRiWWFXZ0RSOVdHUGNGR2MxT1BmcVk5aHFqT2xEaThZQnFQNnJQQ0owV1RXdWFhbWFrMDBrVEI5VEcxS2NPRUdGSDhvMVpnMjZvWWMyUGlGRVFPVnpfb0RWY0s4a3RrRjMxaVZQSGhXMVJoaEZnNnVMSXJLbXdmZm0wNlZEdnpRS0lOSkNyU3poVEZpdXBwTzZhZEpLVF9uTWtlTXdnRdIB6AFBVV95cUxOX0U3NXM4aFlHaEhrVGVmSTkwalg2WG9laWZXTGIzd1RkVkt6RzFpT0NvMjZ5S3NPMDZvMXRYYURTX3VzcVItalkydERvVFJDeHB3RmJJTVNiMTRXYUxOVGZURUxEQlktTUU4NG9DTkF4bUYtbFlNWVVKS1h1cnFWTHNGalh0elhTRTBpR0JMMTlBWmM0Q1VlZURYWXNvQzdOTTlZOWZabWNjS19Ddi1vallXcnA3UUpWTXNpSXhkZ0pNTlNnUkcwSzhfOWw1X3Y4MldRUWpfcVc2Nl8wNnJTWUlXaDJTZ21i?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Uttarakhand’s bear, leopard attacks find a mention in Parliament, MP says parents have stopped sending kids out - The Indian Express",
-        "source": "The Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzJ2bUE2S2NzOUo0dEVCUFB0amp1SGV6dFRDZ2VKOF9USWdESExwTWZ0NzVLSUlfUExxQllfdEhJRlRFQzh5MEd0WTVoX3VmejFEaWlfVGpOakxINEREVk5yV19PeGFKSklDV3FlbHJUdXdjd0lKeTFzbXNlRVh6WFhfUlF5MGpaMlpfdEpCUi12ZGEwdy1VbjBFOWVpLXBMNUxjM0VtMmlHRnRZSHfSAbQBQVVfeXFMUF85QjdfYU9XT2x5aGpXQ0p4M21ESWdMQkNVbDZIUXg4cngxVnFmbW1FVWRxVEdIbkxTUjcxRnEyZGZaOHh0SWdiMHMxOWM3cEg2bFd0MTRYT21WZmdzc053WXpyVVJjaDAyQy1yTTNVQnJxcDNOVFFnc3IxN3QwSlVydVhTWUoyTDZQXzczUHV1ZWtwLWZDT0Z4bTNPQkxnZ1FFZy1TYml3UzJncWtZcnJWcF9T?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +439,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
+    "total_questions": 3,
     "starred_questions": 0,
-    "unstarred_questions": 0,
+    "unstarred_questions": 3,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 4.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +455,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,16 +4,16 @@
     "constituency": "Krishnanagar",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 5085,
+    "myneta_candidate_id": null,
     "slug": "mahua-moitra",
     "house": "lok_sabha",
     "sansad_member_id": 5049,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 49,
+    "age": null,
     "photo_url": "/mp-photos/5049.jpg"
   },
   "findings": {
@@ -22,80 +22,114 @@
       "constituency": "Krishnanagar",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 5085,
+      "myneta_candidate_id": null,
       "slug": "mahua-moitra",
       "house": "lok_sabha",
       "sansad_member_id": 5049,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 49,
+      "age": null,
       "photo_url": "/mp-photos/5049.jpg"
     },
     "criminal_record": {
       "total_cases": 1,
-      "serious_cases": 0,
+      "serious_cases": 1,
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "RC 2182024A0010 Date 21.03.2024, PS CBI/AC-III District Delhi | Section 7,8&12 of PC Act. 1988 as Amendment in 2018",
+          "ipc_sections": [
+            "120B"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "",
+          "fir_no": "RC 2182024A0010 Date 21.03.2024, PS CBI/AC-III District Delhi",
+          "case_no": "",
+          "other_acts": "Section 7,8&12 of PC Act. 1988 as Amendment in 2018",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:34.223812Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 35067166.0,
-      "liabilities": 0.0,
-      "net_worth": 35067166.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5085",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.974709Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 29.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.99,
-      "released": 15.99,
-      "sanctioned": 9.92,
-      "expended": 3.72,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:52:54.204598Z",
-          "notes": "Official eSAKSHI REST API — Works: 48 recommended, 47 sanctioned, 16 completed"
+          "fetched_at": "2026-09-02T15:19:16.531275Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:15:35.809370Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:15:35.807859Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 48,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 23.26454033771107
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -110,7 +144,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:33:07.521544Z",
+          "fetched_at": "2026-09-02T15:15:35.807186Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +152,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Calcutta HC defers hearing in TMC MP Mahua Moitra's challenge to arrest warrant against her - MillenniumPost",
+        "source": "MillenniumPost",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWFSaWNMNlo2SHVBVDFSQTNlN214bVBHcHNRaldYVGM3VzFtUERvTTBTVjB5UGxOc2Q2Mkgtck5zb1lNNUtmRjQtQWJyRE5MT0k5MTQ0U0Q3dm43czFzd3prWXA1Ymx3WDkzZ1hmVkZWUE1BTmJZTldzUV9lWWtTSkp1Z3JRdUQtd2VjVGFzUnd0SjUtLV9IYlZhQjJNYnkyZk5xNXVoSVZKdTRmVEdxV0sxZUV6ZEtKNFNxb09BTDdoT2E2SndJRmtqb3hMNXpta3JNMtIB1AFBVV95cUxOeWFSaWNMNlo2SHVBVDFSQTNlN214bVBHcHNRaldYVGM3VzFtUERvTTBTVjB5UGxOc2Q2Mkgtck5zb1lNNUtmRjQtQWJyRE5MT0k5MTQ0U0Q3dm43czFzd3prWXA1Ymx3WDkzZ1hmVkZWUE1BTmJZTldzUV9lWWtTSkp1Z3JRdUQtd2VjVGFzUnd0SjUtLV9IYlZhQjJNYnkyZk5xNXVoSVZKdTRmVEdxV0sxZUV6ZEtKNFNxb09BTDdoT2E2SndJRmtqb3hMNXpta3JNMg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Arrest warrant issued against MP Mahua Moitra for non-compliance with court appearance order - News On AIR",
+        "source": "News On AIR",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEhWa01jS1o5T0VPWUZHTEVhZjZrZW5zUTNscDJYS0tWaVNGaklNMFNfR0kyZlQ5YWwzVDVyN0lNS05NTkMwbXZRZkxFX3VMWUNQV3hvYWgyMWx6cWxzRGpuY0R1V1ZtZGpuZ1dqYzNUSnNueFE5XzNGNkQwLVh2UVljbGlQTzAyUE9Ic3F2U24zOFB6R09fZGdIR3NSYWtwN0xURXpNY0djVlA3bEc5UTB3VjkxMkc2b1Zn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Calcutta HC orders 2 cops to accompany Mahua Moitra: Grants 30-day security cover amid harassment allegations - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHFfd2tqY0dDY3VmUjhNRi11WlB6Vk9KUWFaZDcwVnE3eVp2eW4wX1NMWVZnQ3phbnQ3bVlsdmNNVUlaSmsxZkxmaF9zaWs1bVR4c3RsMUtNTndyc25JZmxyQnMxQXlkVHM1VE4yMG91c1dYNndoQXhFdHQ4eUs5cU9YamtzTzhqWHRiR2V4dWNVelVtUVNsLVpueGE0VDZmRXFpQ0g3ZlB4cmNaNTBuVDFyRjk4OWVLaVk4bTFwa3hQZ9IBxwFBVV95cUxOYzRVbVlobmUtbDZ5aEx5WnpzcFlMTjN0MUdjRU9qNjRVV0hxSUI0bEFYR3JqQ25JNWxHbzU1VjUxbVhNaDFkaThxemotZ0lGbHM3STBXaXlKQ3JjengxZ2prQVNDZXl5YXRzdUFzemcxYlE1SlhyZXljMzUzQ211UVh6eTJqOC1nOHVPWTAtUTB0U3c3M0xsNk4tenFVejJmV3RNZUJ4WHdhRTgwSnI1aVhrY3N6aDVjSDMtUUVrWGExdUNWQXBZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mahua faces 'go back' chants in constituency, TMC rebel MLA accuses her of inaction - indiatoday.in",
+        "source": "indiatoday.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXFWc3NhYk5HNFpNckVzZDFqU05PVVA5dUxVU29qOU9pcmduUlMtT3BKWFlJVTFNTEU4V1ZPSEtqaWI1RGVzUVpnOU5PekNfeGZ6R3dpVXhubmhsOFhQRFpHTEhneWV3R2pMaDJvOVFfX25XU1lyUDljaEJBQWJmMGo4aHdiSUxCN0NBZHlybGV2WWlGV004c0VZOEpKd0pzVDFpWmpNWHZEQ0Vxbm9kVzhjQkhmVl9FbnF4NEU0bE8zNlp3Nno1NVJOM0jSAdIBQVVfeXFMUDRCdkl1TmtfamxaUUllVmd6NV9UbG44clFRMXNWd3lvVklqT012XzJOeThpaU5RZ1pHeXVaN2sydmN3T1RNRXQxaG5WYXcwZVQxZ3FTMi1CSHVBWkFMT1FfaENyZG53bGswZnZ6RkhzNWZqci1zTFhqX19JSTBxRXhlZ1F2ckFlVVc4MmxVZkZVUy1jR0xfV3R3N0hvdEZBeThQWTJFZ0oxT2JUUlZQTThQelc2YWpWMzJXaGR0YU1tSFdCTFlhY0JfbWxINlJjc1N3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Lackadaisical Approach’: Court Issues Arrest Warrant Against Mahua Moitra in Hate Speech Case - LawBeat",
+        "source": "LawBeat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1JkMFdNUzZLdHI0ZWVzbFIyMHNnbmhyUFFTLTdUTlkyTDF2M3lISzZMSndEVEVWcDdMNjBPTUY0UHBrc2E0a0xtTjZFUWNkUnVNeWpjbVZWbVEzeHczdC1raDk5U3l2QVJBaE5GRjZSamJyQXhWdHNLYlhkV2NjdkdmQ0pWRmU3OElnRkZydHZpQ1hOYmNKYmFDaFNXUVFud0F2b0pCWXZnX2lqcmpEb2w0R2hzdlMwTUpkZlJxVklBU2Jzd0NFRWdLRdIB0AFBVV95cUxNdkh6VEs2cUR0TUJjX2hTS0JYaU11NFA5Sm11R2lka05OTkdIa2RYbVYwazk4TXRMVXhWdjZ6cldmdmhqWHdobFZfd2k3eVBkQzdyNFNkYjl5TWZsWG9DQkVZUDViMl9JTGdzYkdYYnN1ZG1yZzdHMGpOcGZrUVlvblBSeDZhZXFpX1FqLXp5RWNmbTl1U05yNVNRWjNuTDA3dU96aFVNRWI5elp0RVpjcVZFdVJ6VFlFQ2kyQmltS2lROU5xemk1eFdCU0N5ZUdu?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:33:54.893034Z",
+    "collected_at": "2026-09-02T15:19:16.531946Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +221,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.758571Z",
+          "fetched_at": "2026-09-02T18:38:12.387769Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +237,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.758580Z",
+          "fetched_at": "2026-09-02T18:38:12.387780Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +253,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.758585Z",
+          "fetched_at": "2026-09-02T18:38:12.387786Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +269,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.758590Z",
+          "fetched_at": "2026-09-02T18:38:12.387791Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +285,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.758596Z",
+          "fetched_at": "2026-09-02T18:38:12.387798Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +301,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.758600Z",
+          "fetched_at": "2026-09-02T18:38:12.387803Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +317,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.758605Z",
+          "fetched_at": "2026-09-02T18:38:12.387807Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,56 +342,81 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/MahuaMoitra",
+          "url": "https://x.com/http://www.twitter.com/MahuaMoitra",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/MahuaMoitraOfficial/",
+          "url": "https://facebook.com/https://www.facebook.com/MahuaMoitraOfficial/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:16:08.201812Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 2,
-      "neutral": 8,
+      "negative": 0,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Trinamool MP Mahua Moitra Booked For Remarks On Operation Sindoor - ETV Bharat",
-          "source": "ETV Bharat",
-          "severity": "medium",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTZDSkJ0MzlYd3JvVTU2SFlwT3ZrSTFGN3lWSGdiN1VZM1h5WnlsSjk4Rjh5WFJGVjVQSEFVU0JOZ0J5X3FZc2Q4SDNoaS04MUo0ZDBpLUtGaHhPdUl1cWh5Zjlycms2QWE5cjFuZk1ZNzVVcUhkXzBKblFlVzRtVEtrNW05ZVE2VUR0V3Z4RGloeDhOckNwMTUtZWI5SWhFQnJlakZwR2NJcEptVE8wXzU3cW9lQdIBuwFBVV95cUxPSnlKblpXUUQ3MW9wVTFhLTJwd01RMWY2Rjg5SUVHa3FhUi1MS3hrNkRVWnoyMG9rU0xNSnlVOUFKZ1o4bXM1QTEyV1Bfb2RQS0pLM1h6Qmhyd3duM2xnU0hsLVpONHRieWdSYWpoMUYtLVRYZzdsT3hVYWdtQ3lIVWVZZ3dleFRnZ0JjU0FHTWZSWUtTSFZ2YTQ1MFU3Tm1uUVJJTmEzVUFSZ3dxMDZSSzJuaFM2ZVpSNk9V?oc=5",
-          "sentiment": "negative"
-        },
-        {
-          "headline": "Mahua Moitra faces 'chor TMC chor', 'Jai Shree Ram' chants on IndiGo flight; files complaint - India TV News",
-          "source": "India TV News",
-          "severity": "medium",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDY3dmJoYjJSZDRQUTVmYXZLQjloQjdDeDFIRlRyZmF0ck9CRUNIS0VkdGtCT3dGOF9lMmprWTJLZ3BwT25iSGdXTXk5T3h3RDBPeXhLbzZ3cmtUSEFJVERHYXI2VU83SnJKSVltbVJNdEx0ZmVsQTFCVXZUbUdqZFVUYjhvSGZnQVJ1djFNb3lpUnBrcld6NlZZZ3lWTE1nOXVmbmc2a1lXbUtyRkRobTNjQjZ4aFpQNWpFX2ZjTzdDSkRSVFJ0LXdoU1Vpdko2aDVKN1BBcEthaFhF0gHiAUFVX3lxTE10dmljNXpsN1VvTmphdi1qdVZTejBhQUZyWEMtTXNxNVBJUDByTTRBSjhzU1VGMkRtaDBBRFNyUHVabTBzRUh6dVktT0lBSDAtVmFleF9FUUpuS0JUbE90UlZqbTNBUG9xRy1SU0gzMWdYOGNDNDVEeXMzSnJqTUlEcmwyWkUyYndzcGpYQ3o1eWhNNXlDampvdGZSMTYzVFk5TVR5NlR0NmNtZnhpeHBEVXhkX0J2NDBNbER4RXJOeDdqc0s4d2l2aWszOUpjbmtwakRWeFVCbWxPMkNFTW80dEE?oc=5",
-          "sentiment": "negative"
-        },
-        {
-          "headline": "Krishnanagar: Mahua Moitra Introduces TMC Candidate #Gallery - Social News XYZ",
-          "source": "Social News XYZ",
+          "headline": "Calcutta HC defers hearing in TMC MP Mahua Moitra's challenge to arrest warrant against her - MillenniumPost",
+          "source": "MillenniumPost",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVlhX2EtSU1wNTU2bkhjeDItMUg5SjV4ZHZHNmNaWFVhT2NSVGZ3UE9NclBfT3dVZmw5ajhyWHFLcTFCeWdIS29yYXZGMktDdWsyY0pJcU1BSXpkcHcxN0pjbkYxUkFVaFZSQmpDUGpqbTVlVUhoSHdORFdvcTRyLTJ4V3pXb0NKbWNsRDJPZWRNRHY4REVTWGhUMnZoQdIBngFBVV95cUxQRVlhX2EtSU1wNTU2bkhjeDItMUg5SjV4ZHZHNmNaWFVhT2NSVGZ3UE9NclBfT3dVZmw5ajhyWHFLcTFCeWdIS29yYXZGMktDdWsyY0pJcU1BSXpkcHcxN0pjbkYxUkFVaFZSQmpDUGpqbTVlVUhoSHdORFdvcTRyLTJ4V3pXb0NKbWNsRDJPZWRNRHY4REVTWGhUMnZoQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWFSaWNMNlo2SHVBVDFSQTNlN214bVBHcHNRaldYVGM3VzFtUERvTTBTVjB5UGxOc2Q2Mkgtck5zb1lNNUtmRjQtQWJyRE5MT0k5MTQ0U0Q3dm43czFzd3prWXA1Ymx3WDkzZ1hmVkZWUE1BTmJZTldzUV9lWWtTSkp1Z3JRdUQtd2VjVGFzUnd0SjUtLV9IYlZhQjJNYnkyZk5xNXVoSVZKdTRmVEdxV0sxZUV6ZEtKNFNxb09BTDdoT2E2SndJRmtqb3hMNXpta3JNMtIB1AFBVV95cUxOeWFSaWNMNlo2SHVBVDFSQTNlN214bVBHcHNRaldYVGM3VzFtUERvTTBTVjB5UGxOc2Q2Mkgtck5zb1lNNUtmRjQtQWJyRE5MT0k5MTQ0U0Q3dm43czFzd3prWXA1Ymx3WDkzZ1hmVkZWUE1BTmJZTldzUV9lWWtTSkp1Z3JRdUQtd2VjVGFzUnd0SjUtLV9IYlZhQjJNYnkyZk5xNXVoSVZKdTRmVEdxV0sxZUV6ZEtKNFNxb09BTDdoT2E2SndJRmtqb3hMNXpta3JNMg?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Calcutta HC Questions Bengal Police’s Action Over Social Media Post Against Trinamool Leader Mahua Moitra - Ommcom News",
-          "source": "Ommcom News",
+          "headline": "Arrest warrant issued against MP Mahua Moitra for non-compliance with court appearance order - News On AIR",
+          "source": "News On AIR",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd0ZIRzBRbGwyLVk4YjFPcGxDWG5tNEJTMy14djE2ckFQamltaWVWdXpxMzd6WTNxMG9BNVlSZklkNmx1X2wtM0wzUk9nTHhlcElYTE9ZRUpYemdialVGNDRueVF3bFJQNElvLTJSQS1ybkgzN1JmVjRPV0FDY21lNlBMbEowX0RmOVM4UWNJSTRweTlpS1RsYUJKdjVDUFBqS3MtRVQ3ZUlwVGZUUktOaHhOTy1JenRZcXlrV0F4RVlaVG5lVFk3S2o1enJlMlhSc25HRG5B?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEhWa01jS1o5T0VPWUZHTEVhZjZrZW5zUTNscDJYS0tWaVNGaklNMFNfR0kyZlQ5YWwzVDVyN0lNS05NTkMwbXZRZkxFX3VMWUNQV3hvYWgyMWx6cWxzRGpuY0R1V1ZtZGpuZ1dqYzNUSnNueFE5XzNGNkQwLVh2UVljbGlQTzAyUE9Ic3F2U24zOFB6R09fZGdIR3NSYWtwN0xURXpNY0djVlA3bEc5UTB3VjkxMkc2b1Zn?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "TMC Infighting Peaks Before Mamata's Rally! MLA and Mahua Moitra Opponents Excluded from Krishnanagar Guest List - Dailyhunt",
-          "source": "Dailyhunt",
+          "headline": "Calcutta HC orders 2 cops to accompany Mahua Moitra: Grants 30-day security cover amid harassment allegations - Bhaskar English",
+          "source": "Bhaskar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcHFYOGo2bllNbERNN2pJQVdJcXRiamxXX25HMnBzR2RWbWk1U0JvUzFzVS1WTUh2WkhDUndBZUVpMVVxOHg5Nzhpb3JSbVMwUWhOeWZGMl9FbTRlaUVBZjNNTWxFQURDb2N6RDBJeERLUmNORUN2eDhpSWpRb3NPX2NIaWJNQkJrbDBHZXhNOHJsQlY1LWsyTXdDdEtKQ2FjVVZlbGl4VS1kdkQ4X3NHOXc3WjJwdUdrMTNqd3ZHR18tS2RRSnF5bmk5NW1FMlZpT0JBM3poTUFVVllrZnpPdC1CdkZkNmZ3a3pnclVPX3NNMy1tbS1MWjE2ejRwYWNuNEVDckJrd1JkTWplcFJpWl92WTNEVk40N29MQkx4NmFjdm5YU25CcVBNUnE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHFfd2tqY0dDY3VmUjhNRi11WlB6Vk9KUWFaZDcwVnE3eVp2eW4wX1NMWVZnQ3phbnQ3bVlsdmNNVUlaSmsxZkxmaF9zaWs1bVR4c3RsMUtNTndyc25JZmxyQnMxQXlkVHM1VE4yMG91c1dYNndoQXhFdHQ4eUs5cU9YamtzTzhqWHRiR2V4dWNVelVtUVNsLVpueGE0VDZmRXFpQ0g3ZlB4cmNaNTBuVDFyRjk4OWVLaVk4bTFwa3hQZ9IBxwFBVV95cUxOYzRVbVlobmUtbDZ5aEx5WnpzcFlMTjN0MUdjRU9qNjRVV0hxSUI0bEFYR3JqQ25JNWxHbzU1VjUxbVhNaDFkaThxemotZ0lGbHM3STBXaXlKQ3JjengxZ2prQVNDZXl5YXRzdUFzemcxYlE1SlhyZXljMzUzQ211UVh6eTJqOC1nOHVPWTAtUTB0U3c3M0xsNk4tenFVejJmV3RNZUJ4WHdhRTgwSnI1aVhrY3N6aDVjSDMtUUVrWGExdUNWQXBZ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Mahua faces 'go back' chants in constituency, TMC rebel MLA accuses her of inaction - indiatoday.in",
+          "source": "indiatoday.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXFWc3NhYk5HNFpNckVzZDFqU05PVVA5dUxVU29qOU9pcmduUlMtT3BKWFlJVTFNTEU4V1ZPSEtqaWI1RGVzUVpnOU5PekNfeGZ6R3dpVXhubmhsOFhQRFpHTEhneWV3R2pMaDJvOVFfX25XU1lyUDljaEJBQWJmMGo4aHdiSUxCN0NBZHlybGV2WWlGV004c0VZOEpKd0pzVDFpWmpNWHZEQ0Vxbm9kVzhjQkhmVl9FbnF4NEU0bE8zNlp3Nno1NVJOM0jSAdIBQVVfeXFMUDRCdkl1TmtfamxaUUllVmd6NV9UbG44clFRMXNWd3lvVklqT012XzJOeThpaU5RZ1pHeXVaN2sydmN3T1RNRXQxaG5WYXcwZVQxZ3FTMi1CSHVBWkFMT1FfaENyZG53bGswZnZ6RkhzNWZqci1zTFhqX19JSTBxRXhlZ1F2ckFlVVc4MmxVZkZVUy1jR0xfV3R3N0hvdEZBeThQWTJFZ0oxT2JUUlZQTThQelc2YWpWMzJXaGR0YU1tSFdCTFlhY0JfbWxINlJjc1N3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "‘Lackadaisical Approach’: Court Issues Arrest Warrant Against Mahua Moitra in Hate Speech Case - LawBeat",
+          "source": "LawBeat",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1JkMFdNUzZLdHI0ZWVzbFIyMHNnbmhyUFFTLTdUTlkyTDF2M3lISzZMSndEVEVWcDdMNjBPTUY0UHBrc2E0a0xtTjZFUWNkUnVNeWpjbVZWbVEzeHczdC1raDk5U3l2QVJBaE5GRjZSamJyQXhWdHNLYlhkV2NjdkdmQ0pWRmU3OElnRkZydHZpQ1hOYmNKYmFDaFNXUVFud0F2b0pCWXZnX2lqcmpEb2w0R2hzdlMwTUpkZlJxVklBU2Jzd0NFRWdLRdIB0AFBVV95cUxNdkh6VEs2cUR0TUJjX2hTS0JYaU11NFA5Sm11R2lka05OTkdIa2RYbVYwazk4TXRMVXhWdjZ6cldmdmhqWHdobFZfd2k3eVBkQzdyNFNkYjl5TWZsWG9DQkVZUDViMl9JTGdzYkdYYnN1ZG1yZzdHMGpOcGZrUVlvblBSeDZhZXFpX1FqLXp5RWNmbTl1U05yNVNRWjNuTDA3dU96aFVNRWI5elp0RVpjcVZFdVJ6VFlFQ2kyQmltS2lROU5xemk1eFdCU0N5ZUdu?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +450,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 1,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 1,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 1.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +466,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +497,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +524,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 35,067,166. MPLADS utilization: 23.3%. Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:54.759285Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.388510Z"
 }

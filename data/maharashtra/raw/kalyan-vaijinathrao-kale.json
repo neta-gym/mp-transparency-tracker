@@ -4,16 +4,16 @@
     "constituency": "Jalna",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 5320,
+    "myneta_candidate_id": null,
     "slug": "kalyan-vaijinathrao-kale",
     "house": "lok_sabha",
     "sansad_member_id": 5767,
     "profile_url": null,
     "canonical_name": "Kalyan Vaijinathrao Kale",
     "name_aliases": [],
-    "education": "Others",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/5767.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,120 @@
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "340/2023, Jinsi Police Station, Aurangabad, Chhatrapati Sambhaji Nagar | Section 135 of M.P.A",
+        "ipc_sections": [
+          "143",
+          "149",
+          "188",
+          "341"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "340/2023, Jinsi Police Station, Aurangabad, Chhatrapati Sambhaji Nagar",
+        "case_no": "",
+        "other_acts": "Section 135 of M.P.A",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "331/2021, City Chowk Police Station, Aurangabad, Chhatrapati Sambhaji Nagar | Section 135 of M.P.A & Section 11 of Maharashtra Covid-19 Regulations",
+        "ipc_sections": [
+          "188",
+          "269",
+          "270"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "14 JMFC Aurangabad Sambhaji Nagar",
+        "fir_no": "331/2021, City Chowk Police Station, Aurangabad, Chhatrapati Sambhaji Nagar",
+        "case_no": "SCC 5364/2021",
+        "other_acts": "Section 135 of M.P.A & Section 11 of Maharashtra Covid-19 Regulations",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:15.654118Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 1329206684.0,
-    "liabilities": 159268881.0,
-    "net_worth": 1169937803.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5320",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.790885Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 94.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 3.8,
-    "expended": 3.42,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:30:07.208173Z",
-        "notes": "Official eSAKSHI REST API — Works: 60 recommended, 39 sanctioned, 7 completed"
+        "fetched_at": "2026-09-02T14:58:48.663679Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:55:09.062262Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:55:09.059528Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 60,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 23.26530612244898
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +150,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:01.073463Z",
+        "fetched_at": "2026-09-02T14:55:09.058462Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +158,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Jalna election results 2024 live updates: Congress' Kalyan Vaijinathrao Kale wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc1l3QmktZVFCdGpSSXBTd0hwTm9RbFhQWGVhRzZ0OUpYSkZCczJWWDcwNDhLcUxMWjQ5RlZEcm51bWJZT0t6WFRlWGJlOXQxY1Z0QUFHYXpkLURUV0ZiN3hpcFFJNnRoOVlkNjNXVVZTdGRWN1V2U3c4Y1RGVWh6Q28wUmoxc29Gd3NUajZlTG51QkpfQWtSTHhUN0l1WGVtcXRtTTg0WG9wLXhYMGlSX3hOSW1OdUFNbUdUamp3WldxTC03QXo5WWpGaUd1OEliS1J4TVNZQ0VqVUR2SVRCMnZHWHgtaVpxZWxMMDY2d3R0QUFnX2dyd0VPbmFvMktFVVd4TNIBigJBVV95cUxPSS1zYW4ybExXWmlkMHZ4bEJyd1ZFSVYwLUNzTVhzOGJQVEQxWUN3TXdKSTEzNnhJbTFVM0daa2tfYU01VGhFTFJsSjB5dUh2QXU1d0h0a0RaSnZKRTZlbEJzdHNfdW5aZERPU1RicHllMXVZaGtzTWoxcmFKdm5CR2xtaXVsYnNUYm93ak43TjllOWYwb1FiTS1jZHB3OGNkU3JtQjJfYUJLSklLRWRKT09sSkNlbU1iNFI0Zm1IeXBCMDdjZ1VyeEdPbWx3aG9yX20wM0dFM2pHbFdianZhSXFnUUN0Q2dFamhEZ1dGME5PYTRHRUZld29jY19acURyUjM4UTVjVF9Qdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jalna Election Result 2024 LIVE Updates Highlights: Kalyan Vaijinathrao Kale of INC Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1M4emtTQllmVzRET2ZpTWJ4TnJPZjg4QUN1ek9aMmh6Q3RqTzRPd1FHQmRqbkFvXzhZM1NXX21iZUJTTE9FZHpQc2lLYlRadWJUdF9oQzE2U1V2ODY4Y3pxbUVFZ1ctcTlKaEVKdGFVb3NleG9pdWYyZDNCb0hKcEdQN2s1b0RUSkZZRy13YTh4TUtqRFA1UFQyU2liRUh1VTY0dVBjQV8yRUwySjVSWWwzYVk1LVRHQ1EtUWRKQ2NQSjlFRlpZLVNHQUZLdU9MUXlHU1h0UDJIY0ZPY2RJ0gHkAUFVX3lxTE9CSWltNnZpaUI5Ni1iX0V5UHlpSVN5VXZrZU9BNTR4cG80N18zYmtDbGYtQWZ5VzJzTGYzOWllamJ3WVhxaFpJcFZIUXBIU01SRmNqRXZzN3EwUWphV1dhNW1ENllXblN5ZFpTOXJXQmxfLUlaTEh3ZnJuaURfbHBRLXUwNy1CdFhkeWpsM3hxdlFudXhLNXlnd1oxVFhmWWFvQ3JGZkxWSDhKYlpaNjNYUUFjZk45VGxPd2lGRlpJZk1SLUo1Y2UtZnVQZm5ZYUhvblhiQ3BhS0x3QnNHMVpOUThBUg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"100 per cent confident about winning,\" says Raosaheb Patil Danve as he casts vote in Maharashtra's Jalna - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb1JsR3I5Z2ZqeHhnaXIwLTItaGtCTmVnVjZFdGM5VW1iUFB2QXhTNV9qTkJqcVRkVnRtbmdna1JiVFVDblowT1dtWGdyck51MkdQMVBSc1ZJc19pN1NQa2QxU2NLdVZmSElEMVNZVl9WQ0R3NFJQVjg2NFRfT2l5Zl9YNkR5X3huZzNMTzNaNFNXQjVhVzVhZnJ3XzFaWWh1Rmk4VEd0QUlMdVRwbVg2RGV5bHVNYkN3eVdzdUJQUklkN28yTk9ab1Z5alNfYUc2SUJIdHJib2l4R1ZsYzRxdDE0VVlSZHE3cDIyOG9HX3BMVXNfR0ZnTQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha elections 2024: 100 per cent confident about winning, says Raosaheb Patil Danve as he casts vote in Maharashtra's Jalna - Mid-Day",
+      "source": "Mid-Day",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMW5HVVVsYmFoSXdwaF9XWC1yTkFlSzJzQWVHWmJyYnFOUFhUTGdCQzZQOTdEcGF2Z2NhSVVsMXJ2ZmZUaUlVdDdiRXdNc0d4ZUVibV9lTGc1Y21BX1RQeEc2WHFndTJwcURzNmtzWFlGUVE2MlNUVUpXQlhXZDBiaGFSMTdNVlVfUkgyNmJXOTJ0SDRqbC00bXVYNHZIZGhsR21XdzUwSUZNLW9hWXF5ZXR0RFBkSzRrZFhFaDAtb1AwdnpBZzdvbXgyUDF0TXdzMjJfOHR6ejRNdG9QS3hBZzRic3B3QmVhR25WRG8xeGMyYjAwbDZBWTdYOGpzUHAwbHN6bldkOVBoZnVLVW1sV9IBlgJBVV95cUxPTVc5QWNmMFF0cjExR3RlVmdNOXhKWFptakt1S25RRVdZaEJXc1B2RlRYTkkyQWZxWDUtdGl1c21BUlFEOWJxSUVVMFVVMjRpVjV5ZVNvZ09yV204VWdHNDR6b0FTVVVpWGplRXlHUWZkcHFTMnNmYVctdGd4ZzlvNW1ISGVhVWVsa0ZvSHVDYUwtRkJlSUJ5Q092XzhCQXgxbXRhMUd5cG52bG84cG9rLVU0VXc0SE5fWGEzWEFnTGV3Y3JodWFJWGx5YWtIaHE3bGNzY2xub0RFdUFGWDBwN0ZJeUd5bWI1dno5NFlJeHVpdWZJUkFoVjVwbGhiTUJ2QlloTmVIMzZlVTVIMGcyMlZEbjE5QQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:02.711103Z",
+  "collected_at": "2026-09-02T14:58:48.664934Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +227,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.442846Z",
+        "fetched_at": "2026-09-02T18:38:08.016972Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +243,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.442858Z",
+        "fetched_at": "2026-09-02T18:38:08.016984Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +259,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.442865Z",
+        "fetched_at": "2026-09-02T18:38:08.016990Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +275,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.442872Z",
+        "fetched_at": "2026-09-02T18:38:08.016995Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +291,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.442879Z",
+        "fetched_at": "2026-09-02T18:38:08.017001Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +307,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.442887Z",
+        "fetched_at": "2026-09-02T18:38:08.017006Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +323,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.442894Z",
+        "fetched_at": "2026-09-02T18:38:08.017010Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +348,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/drkalyankale?lang=en",
+        "url": "https://x.com/https://x.com/drkalyankale?lang=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/drkalyankale/",
+        "url": "https://facebook.com/https://www.facebook.com/drkalyankale/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/dr.kalyan.kale_111/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/dr.kalyan.kale_111/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:55:11.706769Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -272,19 +402,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Jalna lok sabha election results 2024: Jalna Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjNFWVVWVmxTek12cmFCa3lyM1luZWtLZHNQRVhGTWZaMDJGMWwyelBhY3NoUjBxZ1hOM3NkRjZhTzlJS25nay1YUmxfRGprbXpaVV80UkhOUkk1NTZidGRQTmpKMHFQanhwQ1MtMmpGekRWd1lSQmVnVDVTZXBXWW91bGVRR2RGM29YdXdJeUdvOXc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Jalna Election Result 2024 LIVE Updates Highlights: Kalyan Vaijinathrao Kale of INC Wins - News18",
         "source": "News18",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1M4emtTQllmVzRET2ZpTWJ4TnJPZjg4QUN1ek9aMmh6Q3RqTzRPd1FHQmRqbkFvXzhZM1NXX21iZUJTTE9FZHpQc2lLYlRadWJUdF9oQzE2U1V2ODY4Y3pxbUVFZ1ctcTlKaEVKdGFVb3NleG9pdWYyZDNCb0hKcEdQN2s1b0RUSkZZRy13YTh4TUtqRFA1UFQyU2liRUh1VTY0dVBjQV8yRUwySjVSWWwzYVk1LVRHQ1EtUWRKQ2NQSjlFRlpZLVNHQUZLdU9MUXlHU1h0UDJIY0ZPY2RJ0gHkAUFVX3lxTE9CSWltNnZpaUI5Ni1iX0V5UHlpSVN5VXZrZU9BNTR4cG80N18zYmtDbGYtQWZ5VzJzTGYzOWllamJ3WVhxaFpJcFZIUXBIU01SRmNqRXZzN3EwUWphV1dhNW1ENllXblN5ZFpTOXJXQmxfLUlaTEh3ZnJuaURfbHBRLXUwNy1CdFhkeWpsM3hxdlFudXhLNXlnd1oxVFhmWWFvQ3JGZkxWSDhKYlpaNjNYUUFjZk45VGxPd2lGRlpJZk1SLUo1Y2UtZnVQZm5ZYUhvblhiQ3BhS0x3QnNHMVpOUThBUg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -296,11 +426,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Parliament of India : Lok Sabha Member of Parliament – K - Sarkaritel.com",
-        "source": "Sarkaritel.com",
+        "headline": "Lok Sabha elections 2024: 100 per cent confident about winning, says Raosaheb Patil Danve as he casts vote in Maharashtra's Jalna - Mid-Day",
+        "source": "Mid-Day",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMW5HVVVsYmFoSXdwaF9XWC1yTkFlSzJzQWVHWmJyYnFOUFhUTGdCQzZQOTdEcGF2Z2NhSVVsMXJ2ZmZUaUlVdDdiRXdNc0d4ZUVibV9lTGc1Y21BX1RQeEc2WHFndTJwcURzNmtzWFlGUVE2MlNUVUpXQlhXZDBiaGFSMTdNVlVfUkgyNmJXOTJ0SDRqbC00bXVYNHZIZGhsR21XdzUwSUZNLW9hWXF5ZXR0RFBkSzRrZFhFaDAtb1AwdnpBZzdvbXgyUDF0TXdzMjJfOHR6ejRNdG9QS3hBZzRic3B3QmVhR25WRG8xeGMyYjAwbDZBWTdYOGpzUHAwbHN6bldkOVBoZnVLVW1sV9IBlgJBVV95cUxPTVc5QWNmMFF0cjExR3RlVmdNOXhKWFptakt1S25RRVdZaEJXc1B2RlRYTkkyQWZxWDUtdGl1c21BUlFEOWJxSUVVMFVVMjRpVjV5ZVNvZ09yV204VWdHNDR6b0FTVVVpWGplRXlHUWZkcHFTMnNmYVctdGd4ZzlvNW1ISGVhVWVsa0ZvSHVDYUwtRkJlSUJ5Q092XzhCQXgxbXRhMUd5cG52bG84cG9rLVU0VXc0SE5fWGEzWEFnTGV3Y3JodWFJWGx5YWtIaHE3bGNzY2xub0RFdUFGWDBwN0ZJeUd5bWI1dno5NFlJeHVpdWZJUkFoVjVwbGhiTUJ2QlloTmVIMzZlVTVIMGcyMlZEbjE5QQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +464,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 9,
+    "starred_questions": 2,
+    "unstarred_questions": 7,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 16.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +480,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

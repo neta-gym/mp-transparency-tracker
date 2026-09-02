@@ -4,16 +4,16 @@
     "constituency": "Dharwad",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3567,
+    "myneta_candidate_id": null,
     "slug": "pralhad-joshi",
     "house": "lok_sabha",
     "sansad_member_id": 3982,
     "profile_url": null,
     "canonical_name": "Pralhad Joshi",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/3982.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Dharwad",
       "state": "karnataka",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3567,
+      "myneta_candidate_id": null,
       "slug": "pralhad-joshi",
       "house": "lok_sabha",
       "sansad_member_id": 3982,
       "profile_url": null,
       "canonical_name": "Pralhad Joshi",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 61,
+      "age": null,
       "photo_url": "/mp-photos/3982.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3567",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.908693Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:34:34.213159Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 210960953.0,
-      "liabilities": 80123332.0,
-      "net_worth": 130837621.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3567",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.908704Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 72.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 3.4,
-      "expended": 1.61,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:24.055894Z",
-          "notes": "Official eSAKSHI REST API — Works: 191 recommended, 78 sanctioned, 18 completed"
+          "fetched_at": "2026-09-02T14:39:42.497994Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:35:59.869147Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:35:59.866781Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 191,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 10.952380952380954
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:41.479576Z",
+          "fetched_at": "2026-09-02T14:35:59.865769Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Who Is Pralhad Joshi? BJP Veteran Given Charge Of Education Ministry After Dharmendra Pradhan's Exit - Brut",
+        "source": "Brut",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmE3RDQxdk8yLV9pTkVTMmY2SXZXV2JlSWxoa1dUMVMyRlBOOGdKdGNrZlYxYmhqbHFvMHhYTjRNQUFGQ2JxU2x2NmJkRWFzS3laTko1UDVSVlh6b3AyaGxSUVJlNDhzaG9xVE9RNFFsS1E1SGdlWFBNMnFzOGRqbGpPaXpBYnByX1F4czFjcnhPbllkaG41MGdzcGxwcDNxSzZJcDhnOHJsQ3liVU5YUDRSVllUZ1d0cnJwY0JQcUQ1aHM0c0sxeVZvZkVXWkU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Know your minister: Pralhad Joshi's net worth, education, and criminal record - Livemint",
+        "source": "Livemint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczUtbDVqVkRLTUIxS2VBN0RJcVd6TGRZMUc4dDJnQVZ1Slk2Wm5sQW9CSFBZUHYwUVNEcDRhTlA1MlJWRXFVblhUVVRYOXdGQmhJdmE1UWsyZHdOeFBwRGJMOGZOTHZLbFltaDZjd19vN1dkYWVKQzhkNFpZaFlVU2x6cnc5VklTUGw1NnlNWmtIOW14Z1U1ZEdJb1c1UUllUERYUWlScnNsZXBKd0t0LXFaQ29yeGM1WUxtUHVCSm10QUswM1HSAcsBQVVfeXFMUGdxVWNtNWlxSHV4WG0ydW03em1YZmN3a3I5N1llaWxMUmhIb2xoUWx1anBEdng5OUN6bGRWNzBsM3NHdnFwUEo4U21JNVZUSTVBell0cnY2RkxiWEpaZW1OTkVqODNUa2thSWFabXdjeHI1XzdlZjRGVktYbS0tbWFZTnc5QXN6ajFNd2RZcUFIZm9OMjR4NXlmU3NwTFJ4ZGwxYy1BNm9qcXNrZ2tGWjU4b3dyMUp2WlZLaUtVb0VyN2syaGtwUzkyNHM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Prahlad Joshi wins from Dharwad, Karnataka - GujaratSamachar English",
+        "source": "GujaratSamachar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUduOGZhOUt5STJpT3hNNHVHWGVXNkx3MEpGTThGa19XTlZVclI4RENTRGRyOWQ5SmVISFhxU3BaQWdGMHVwaDdfaWd3MFhVU2FxZ2w5WE5ubkFiUVBOXzAzaEZocTNIOXRVS29QV0NXbXlFQVRoZjRTTnJ2UGl3bkpnZ0hPWS1zMlB5SUxDT1ZkZl92N1VhdDdtQUZvU2xIZUdFaW1ReGI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who is Pralhad Joshi? 5-time MP who takes charge of education ministry after Dharmendra Pradhan's exit - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdjhHZzB3cGJFc1RXRjNiOXZLcHhwTG1tUUluMmVPblAzNTZnZm04YUgydUlGangyZWZyV1FJQWpMdzdRTWtkdVdpaVZjelMxYkJIdXJRYVV4T3JPbko1eTJQaXlOOWJqQmxMcnFDNW5XeXE5X2FoSV9VYklLX1g4Sng0bjJpOVJxN2g3eTU4SVkwZXZwZnMxaHhXb3gtZFZLWUJXdHZYUFpuLXI2dDFXN1FQZ2Y2UURTUU5lVEYzWlRlZFJoNjI2aEh2LWZqN0ZDcXh1Y1ducXhOVnVWLVZRUjJNdWpZNUNlYnd2RGF4TUdIb3FMZnpKYnA5WmVLSVBObmlr0gGIAkFVX3lxTE5mQ00xaENMTlFqSU9uNlQwWWNvV1pKYXE0VFNWN0JyejdWWWRNNG50YlAtMnNJdjg2Rk11MHhMaXlLN0tteGV6YU0xdGxGV1RlTXB0QUM0dXlPUVlaX0NKLU5zUkhqcDFFbTdPWjNIRkVfNXB0UzluSVhzX0NpcVJVZi1OcnFCUlY0eDFTclpNWjRDcHJINmRGMzdOaEZKTm0tVHZDN29yazVWd0Voc2dlOVFPempmYk9PRTE4cEV3eFNtVjkwZHNZUGFLQWxSQ1RNOWZmX2FfVXhwemlmZURGMTYtRjd2dE5tc1d6Nm9zQlBKblhwWHFiMmRQU3BXbXpESFJpVlRiZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who is Pralhad Joshi? BA graduate, 5-time MP from Dharwad, is now India's new Education Minister - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbU1oU1VFMk80RXJZaDhhM1A0QS1KRFJjMlhocE1YWUg0TzVpTnVaZDFVX29tRUdUZnJWSlN1Q1p1NlBkVzlENGZHeGlLZ1N3MkFkVGFnM1c0aVFyS21UWHRxa0U0cHdrQ0F4T0lTNmsyNWRweFlVTnhqZERiLVAtUDJuTUFjRWZlNzJOTWxobzlXU0daWm44aVZQQW15dXc2cWtYOEx6ZUJBWEZPRnhIZFByMHR4Q0tpcHBHVWJ0alJYTWhIOEM4UzZBQ2JyVXRHMWJMVWZpU0JNdEJiUzh6VUhtdXFLSDZLM2fSAe8BQVVfeXFMTlhNZll4VXU4eUJTSGYzTG04QkwzNHo2dFFSZnk1S3gyazhnTEc4YWQwaDZKZUs0YmZqXzVOa0x4di1ldmpONEMxZ2lGM2dmaHltOEZFZXRLYWN6TlVWY25Kbi1CMlU2ZVNZTXhic3FqaDRUeFpZdTF4ajhXWTUtM3c2OG9qbk1sYVZZZlJxLTc2TGl0dzdwa3J5Z0hFOEh3Ymo1WEg2emxyT1dFTGZyeC1NUVotT2xoNzllSENxSDhhU210enl5eGdKeHB1dXpPeDgwWFFFbF9sdkFaREFqV2YxbFdvQlFURGM0S19aR0E?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:45.778044Z",
+    "collected_at": "2026-09-02T14:39:42.499310Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.216971Z",
+          "fetched_at": "2026-09-02T18:38:06.704687Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.216979Z",
+          "fetched_at": "2026-09-02T18:38:06.704697Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.216984Z",
+          "fetched_at": "2026-09-02T18:38:06.704703Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.216989Z",
+          "fetched_at": "2026-09-02T18:38:06.704708Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.216995Z",
+          "fetched_at": "2026-09-02T18:38:06.704715Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.216999Z",
+          "fetched_at": "2026-09-02T18:38:06.704720Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.217004Z",
+          "fetched_at": "2026-09-02T18:38:06.704724Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,11 +322,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://Joshipralhad",
+          "url": "https://x.com/http://Joshipralhad",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://Pralhad Joshi",
+          "url": "https://facebook.com/http://Pralhad Joshi",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:36:03.448472Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -290,43 +360,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "\"How Can He Do It\": Union Minister Loses Cool At Karnataka Cop Over Lathicharge At Ganesh Procession - NDTV",
-          "source": "NDTV",
+          "headline": "Who Is Pralhad Joshi? BJP Veteran Given Charge Of Education Ministry After Dharmendra Pradhan's Exit - Brut",
+          "source": "Brut",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOajY5UU1vQk1PNHdrOWJ2Q1pzSU9XRHBlbGs0d1lMM0htS3lUUkxlWm5nQ0FmRWFRY2V4dGNPTG91eEhMOTZ3ZnJ2NnhKRjJ5dE5mNHNrSDBNR1U1OEhUQjVLYS1ac3BsOW5ENGNGajZQWVBxVDVQdU9EN2o3bnBKMnBoMGVHS2J4bTQ0ay03MWhjRkJST0xVMGpMaG9pWmpGZFNCUlR4QldyM0dhN2R5Rm5PcVNxZmVUcng4RXozZWczUHYxaW5hZmt4LU1qYmR5aGdxQVB5S1ZaQkNPcEJ1U2pWaEdCZ9IB7gFBVV95cUxOcE9NOHRLZjVFMHlpdHJrcFNVQ212Wi10d0Y0aktTeC1aM2lBX19sWGljbl95dWctN0tvazJsbDEtUUI2dWhFTVZYUWtUWHZwaVJicjViSkxMREpsT2VDNWptT3pnR3RNbXF6NlFNaDIyVkZZNDFfSXd2bzV3UmUweUgyWFlBV2dSWGhsOHJlaVlRcFdyVHV6aFpfUGZlWEcxUV9uMzZQNE9fVF9CWV9LYkw3MmpubHU0MUY2RU4tZjc3NUh6WDAwVlVKaEVYc3gyMEsySDhKT0FWcmsyTjA2NjlUX0tXdUFCWjRBSnJB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmE3RDQxdk8yLV9pTkVTMmY2SXZXV2JlSWxoa1dUMVMyRlBOOGdKdGNrZlYxYmhqbHFvMHhYTjRNQUFGQ2JxU2x2NmJkRWFzS3laTko1UDVSVlh6b3AyaGxSUVJlNDhzaG9xVE9RNFFsS1E1SGdlWFBNMnFzOGRqbGpPaXpBYnByX1F4czFjcnhPbllkaG41MGdzcGxwcDNxSzZJcDhnOHJsQ3liVU5YUDRSVllUZ1d0cnJwY0JQcUQ1aHM0c0sxeVZvZkVXWkU?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Prasar Bharati withdraws Karnataka’s Dharwad Akashvani shift plan after Union Minister Joshi’s appeal - Social News XYZ",
-          "source": "Social News XYZ",
+          "headline": "Know your minister: Pralhad Joshi's net worth, education, and criminal record - Livemint",
+          "source": "Livemint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQVpwT1FmSE1wR1RtUnY0b0tJYzF5UnBkOHpTRVlQQTRqRkhLN2VEdEwwQ2FFZzVlN2V5Z1g3TllpMWNzWkxKenBQbXBYNndHbjJ0dWV5VUNnZUVSVndlTWJkNlltYnF1WUJ5bTdjNmJmbnNBcWdkcGNfeWh1WklVOHlJNy1Kb1NlUUVjd1ZpRmNXcEJWRC1VXzFsVDFBRjNTSXJQNlFMcmxSNUI1eS1OVVZVN2RrR21uSnNzV2c1UE5vWkZqMFA1NUJTbDZEU0FmMmducdIB1AFBVV95cUxOQVpwT1FmSE1wR1RtUnY0b0tJYzF5UnBkOHpTRVlQQTRqRkhLN2VEdEwwQ2FFZzVlN2V5Z1g3TllpMWNzWkxKenBQbXBYNndHbjJ0dWV5VUNnZUVSVndlTWJkNlltYnF1WUJ5bTdjNmJmbnNBcWdkcGNfeWh1WklVOHlJNy1Kb1NlUUVjd1ZpRmNXcEJWRC1VXzFsVDFBRjNTSXJQNlFMcmxSNUI1eS1OVVZVN2RrR21uSnNzV2c1UE5vWkZqMFA1NUJTbDZEU0FmMmducQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczUtbDVqVkRLTUIxS2VBN0RJcVd6TGRZMUc4dDJnQVZ1Slk2Wm5sQW9CSFBZUHYwUVNEcDRhTlA1MlJWRXFVblhUVVRYOXdGQmhJdmE1UWsyZHdOeFBwRGJMOGZOTHZLbFltaDZjd19vN1dkYWVKQzhkNFpZaFlVU2x6cnc5VklTUGw1NnlNWmtIOW14Z1U1ZEdJb1c1UUllUERYUWlScnNsZXBKd0t0LXFaQ29yeGM1WUxtUHVCSm10QUswM1HSAcsBQVVfeXFMUGdxVWNtNWlxSHV4WG0ydW03em1YZmN3a3I5N1llaWxMUmhIb2xoUWx1anBEdng5OUN6bGRWNzBsM3NHdnFwUEo4U21JNVZUSTVBell0cnY2RkxiWEpaZW1OTkVqODNUa2thSWFabXdjeHI1XzdlZjRGVktYbS0tbWFZTnc5QXN6ajFNd2RZcUFIZm9OMjR4NXlmU3NwTFJ4ZGwxYy1BNm9qcXNrZ2tGWjU4b3dyMUp2WlZLaUtVb0VyN2syaGtwUzkyNHM?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Dharwad Lok Sabha Constituency: Electoral battle between Pralhad Joshi of BJP and Vinod Asooti of Congress - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Prahlad Joshi wins from Dharwad, Karnataka - GujaratSamachar English",
+          "source": "GujaratSamachar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2xkVWdXcjZuNDFySHJTMlEzN21oNkd4WFlqTE0xWnNpLTBTbkFwYUEzbkpFTnJoVHhvVDdlUG5XYmctSW0xelZlYmRJbmVuXzA5WnY1ZzAtNkNZelNKY0o5T1dYakJCbnJBUlZ2aFN3QmZSUE1TdXo0MUpZMkY2eW1DN3VZenFTZ3JSVk1mdGVSTU54YVE1eGIycDB6dXpvdHNfOXBRdkZkNXNQb21tV2o4VW5GazZacGlB0gHCAUFVX3lxTFBnUEx1Y19hYTEwOENkaTFDU0ZRSjQtNnNES2tMSkpxbmFnclBMT0pldXZEdFBOMWtJMzZSRlVIX1lyeE5pRktFN3pXeUQ5cWZheXBqY2RHMDZQOUFkOTVhVGZrWUlVTnhtbzBIX0pOSGdrQTVOcVhnTGozODNGRGo5RWhpQ194OXF1a0FLQWJFVDRFRVZhSGxXWGl5UWNuckxGUEt4OVdSNW0zVTBFd3dlOTlZQXRjSlVhM1Itc3AxdGNB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUduOGZhOUt5STJpT3hNNHVHWGVXNkx3MEpGTThGa19XTlZVclI4RENTRGRyOWQ5SmVISFhxU3BaQWdGMHVwaDdfaWd3MFhVU2FxZ2w5WE5ubkFiUVBOXzAzaEZocTNIOXRVS29QV0NXbXlFQVRoZjRTTnJ2UGl3bkpnZ0hPWS1zMlB5SUxDT1ZkZl92N1VhdDdtQUZvU2xIZUdFaW1ReGI?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Dharwad Lok Sabha election 2024: Union minister Pralhad Joshi eyes fifth term against Congress' Vinod Asuti - India TV News",
-          "source": "India TV News",
+          "headline": "Who is Pralhad Joshi? 5-time MP who takes charge of education ministry after Dharmendra Pradhan's exit - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQODVSWklTRmNtTVVZN3NDZTl5b0VIeVVpX0xaRkxJd3dYMzZJTHFiRlNmZmZnZEtrRExqMEJPd2ptWkR2US1fSzlSXzF2RGxYR2VKMEpzaldxR2tocGp5YndWSjk1ZENMSFUtaF9vSEpxdWY4OXZzZld2dUFZUEY0RTZ0em5MU1VlUFpTSHFYR2JYS2NTYkZOTm4zQjRsaGR2WG1YaUlNVUNrTERUajdKWWdhYUlZU0FOSzR1UVhhd3hYcFFkNGFZTWhMRUh2b1dlalp1dm9SM2pRUzEweWxHaGU3ajhfVnpXV1paaGJUb2RaY3RiUVk3NHVIVVY5Qkt2UWpWUVQtMXl1VzNyeXdxVVd3XzfSAZoCQVVfeXFMT1dlanZIczZUZGpHUEdYZVN5LWZaS0VMYUNHNnVtYkdxVnNORmtXbjloeGQwYmZwMkcyZ2g5SE1aQVl4aFVxamg1ZUIzTjNXUGNFSjJEN052VlR2Z3c1VTBrZlZFVlNXTDV6bVRGMXdqRWd5TEFkdnNoTVpwcWNYYVhEdXk3QTNic1NSby1TYU1LekZHRWtyUkV6Q3J0RWZxWGZzSU5UUGxOSW1rSkl5eXprdGprekdpMHdlU2o0Rll1SUZrVm5YV3B5ZlRmUkt4WE1sb1g2V2dONGV5ckl3LS1qeVdLUHlaMzFqQkFHakU4bzdCYW5hdGkwV1E2X05PQXJtU2cyUk0tcFBDeXpIWnRsbTZLdW0wOGV3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdjhHZzB3cGJFc1RXRjNiOXZLcHhwTG1tUUluMmVPblAzNTZnZm04YUgydUlGangyZWZyV1FJQWpMdzdRTWtkdVdpaVZjelMxYkJIdXJRYVV4T3JPbko1eTJQaXlOOWJqQmxMcnFDNW5XeXE5X2FoSV9VYklLX1g4Sng0bjJpOVJxN2g3eTU4SVkwZXZwZnMxaHhXb3gtZFZLWUJXdHZYUFpuLXI2dDFXN1FQZ2Y2UURTUU5lVEYzWlRlZFJoNjI2aEh2LWZqN0ZDcXh1Y1ducXhOVnVWLVZRUjJNdWpZNUNlYnd2RGF4TUdIb3FMZnpKYnA5WmVLSVBObmlr0gGIAkFVX3lxTE5mQ00xaENMTlFqSU9uNlQwWWNvV1pKYXE0VFNWN0JyejdWWWRNNG50YlAtMnNJdjg2Rk11MHhMaXlLN0tteGV6YU0xdGxGV1RlTXB0QUM0dXlPUVlaX0NKLU5zUkhqcDFFbTdPWjNIRkVfNXB0UzluSVhzX0NpcVJVZi1OcnFCUlY0eDFTclpNWjRDcHJINmRGMzdOaEZKTm0tVHZDN29yazVWd0Voc2dlOVFPempmYk9PRTE4cEV3eFNtVjkwZHNZUGFLQWxSQ1RNOWZmX2FfVXhwemlmZURGMTYtRjd2dE5tc1d6Nm9zQlBKblhwWHFiMmRQU3BXbXpESFJpVlRiZw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Karnataka Lok Sabha Election: Pralhad Joshi vs Vinod Asooti in Dharwad | Education, Birthplace, And Net Worth - India.Com",
-          "source": "India.Com",
+          "headline": "Who is Pralhad Joshi? BA graduate, 5-time MP from Dharwad, is now India's new Education Minister - Moneycontrol.com",
+          "source": "Moneycontrol.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdC01WlV5MHdPM19waEF2VXBKb3BCbjUycVZpZ1Y1QWZ3eGRUekhxakZjVVd1em5ZVWFGeE5ldW9jM1JtYXpCOXM5ZjlBYmlsUmcxTjRRa1hlQ3RqTC05ODQ1b2E4eUE3Z1cwTDktU3ZpYVBheEtLdDVzdGZ6ZEd2N0FJQUItcm41TGpxVkF5TEhVOHNPQlQ2QU1RdExRMXhEV0dOd3pnZVI5Smp5dm5tTmpYY2c3NmJTQlJ0QkdyQXB1cHk2d2tGa25xRVlPRTdPMnV1a1RMQdIB3AFBVV95cUxOanFhX09pM2p2bHJ3bWljYTV6MWFJOWwzeVpjbzVqX1V1Q1NvNEQ4MDVRamwzai16NHJBOTBPUFg3al9NS3pWUGNQUWg3ZkdzSmZIY2hpSlo5bXFGeHhma2QzUmdhUjdqcURpNDZoSGlWYkM2ZHZxaXNCT3hZeGpqTlhCVDl6a0Y1VEZ3SUQzV29MclpTQ0U5eS1PdkZhUFlNSl9IQlFGc09ibWhLRkhoN2xPallHdFh4MXZZWk5VZzlySy03NHJzUVl0aUNfTTNDdEhLOFdBMlJCMFBK?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbU1oU1VFMk80RXJZaDhhM1A0QS1KRFJjMlhocE1YWUg0TzVpTnVaZDFVX29tRUdUZnJWSlN1Q1p1NlBkVzlENGZHeGlLZ1N3MkFkVGFnM1c0aVFyS21UWHRxa0U0cHdrQ0F4T0lTNmsyNWRweFlVTnhqZERiLVAtUDJuTUFjRWZlNzJOTWxobzlXU0daWm44aVZQQW15dXc2cWtYOEx6ZUJBWEZPRnhIZFByMHR4Q0tpcHBHVWJ0alJYTWhIOEM4UzZBQ2JyVXRHMWJMVWZpU0JNdEJiUzh6VUhtdXFLSDZLM2fSAe8BQVVfeXFMTlhNZll4VXU4eUJTSGYzTG04QkwzNHo2dFFSZnk1S3gyazhnTEc4YWQwaDZKZUs0YmZqXzVOa0x4di1ldmpONEMxZ2lGM2dmaHltOEZFZXRLYWN6TlVWY25Kbi1CMlU2ZVNZTXhic3FqaDRUeFpZdTF4ajhXWTUtM3c2OG9qbk1sYVZZZlJxLTc2TGl0dzdwa3J5Z0hFOEh3Ymo1WEg2emxyT1dFTGZyeC1NUVotT2xoNzllSENxSDhhU210enl5eGdKeHB1dXpPeDgwWFFFbF9sdkFaREFqV2YxbFdvQlFURGM0S19aR0E?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -376,7 +446,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -407,8 +477,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.42,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -428,12 +510,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 210,960,953. MPLADS utilization: 11.0%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:49.217756Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.705437Z"
 }

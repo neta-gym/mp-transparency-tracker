@@ -40,66 +40,355 @@
     },
     "criminal_record": {
       "total_cases": 13,
-      "serious_cases": 0,
-      "convictions": 0,
-      "pending_cases": 13,
+      "serious_cases": 2,
+      "convictions": 3,
+      "pending_cases": 10,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "Contonment\nThiruvananthapuram\n253/2022 | Section 4(2)(e) 4(2)(f) KEDO, Section 77(B) KP Act",
+          "ipc_sections": [
+            "143",
+            "147",
+            "149"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "JFMC III TVPM CC",
+          "fir_no": "Contonment\nThiruvananthapuram\n253/2022",
+          "case_no": "297/22",
+          "other_acts": "Section 4(2)(e) 4(2)(f) KEDO, Section 77(B) KP Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "Contonment\nThiruvananthapuram\n1329/2021 | Section 39,121 KP Act 4\n(2) (e )",
+          "ipc_sections": [
+            "143",
+            "147",
+            "149",
+            "283"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "JFMC III, TVPM/CC",
+          "fir_no": "Contonment\nThiruvananthapuram\n1329/2021",
+          "case_no": "1304/2021",
+          "other_acts": "Section 39,121 KP Act 4\n(2) (e )",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "Mangalapuram\n973/2020 | Section 118E of KP Act",
+          "ipc_sections": [
+            "143",
+            "147",
+            "149",
+            "188",
+            "283",
+            "269",
+            "270",
+            "271"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "JFMC II Attingal",
+          "fir_no": "Mangalapuram\n973/2020",
+          "case_no": "CC 2366/2020, New CC No. 1026/2023",
+          "other_acts": "Section 118E of KP Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "Nedumangad\n1799/2020 | Section 118 (e ) of KP\nAct & Sec 4(2) (a) 5 of\nKEDO Act",
+          "ipc_sections": [
+            "143",
+            "147",
+            "149",
+            "188",
+            "269",
+            "283"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "JEMC II,\nNedumangad",
+          "fir_no": "Nedumangad\n1799/2020",
+          "case_no": "CC 3820/20",
+          "other_acts": "Section 118 (e ) of KP\nAct & Sec 4(2) (a) 5 of\nKEDO Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "Nedumangad\n2233/2020 | Section 118(e) KP Act\nSec 4(2)(a), 5 of KEDO\nAct",
+          "ipc_sections": [
+            "143",
+            "147",
+            "149",
+            "188",
+            "269",
+            "283"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "JFMC II Nedumangad",
+          "fir_no": "Nedumangad\n2233/2020",
+          "case_no": "CC 1131/2021",
+          "other_acts": "Section 118(e) KP Act\nSec 4(2)(a), 5 of KEDO\nAct",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "1993/2018\nVarkale Police station",
+          "ipc_sections": [
+            "143",
+            "147",
+            "149",
+            "283"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "JFMC  Varkala",
+          "fir_no": "1993/2018\nVarkale Police station",
+          "case_no": "CC 342/19 Now CC 6275/2021 Now CC /249/2022",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "5/2016, C.R.M.P, 102/2016, Police Station VACB SIU 2 06-06-2016 | Section 13(1)d of the prevention of Corruption Act",
+          "ipc_sections": [],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Enquiry Commission and Special Judge Moovattupuzha",
+          "fir_no": "5/2016, C.R.M.P, 102/2016, Police Station VACB SIU 2 06-06-2016",
+          "case_no": "",
+          "other_acts": "Section 13(1)d of the prevention of Corruption Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "Contonment Thiruvananthapuram | Section 151 CRPC, Final report submitted on 23/05/2008, Prieventive arrest on 23-05-2018 at in front of secretariat main gate",
+          "ipc_sections": [],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "SDMC TVPM",
+          "fir_no": "Contonment Thiruvananthapuram",
+          "case_no": "105/2008",
+          "other_acts": "Section 151 CRPC, Final report submitted on 23/05/2008, Prieventive arrest on 23-05-2018 at in front of secretariat main gate",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "VC/02/2008 VACB, Northern Range, Kozhikkode | Section 7, 15, 13(1) d of the Prevention of Corruption Act",
+          "ipc_sections": [],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "The Hon Enquiry Commissioner and Special Judge, Kozhikkode",
+          "fir_no": "VC/02/2008 VACB, Northern Range, Kozhikkode",
+          "case_no": "CC 6/2011",
+          "other_acts": "Section 7, 15, 13(1) d of the Prevention of Corruption Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "Vigilance Special Bureau",
+          "ipc_sections": [],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "",
+          "fir_no": "Vigilance Special Bureau",
+          "case_no": "QV 01/2023 SCT",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "",
+          "ipc_sections": [
+            "147",
+            "143",
+            "149",
+            "283"
+          ],
+          "is_serious": false,
+          "is_convicted": true,
+          "status": "convicted",
+          "court": "JFCM 1\nPathanamthitta",
+          "fir_no": "",
+          "case_no": "ST/1845/19\nCrime  256/19",
+          "other_acts": "",
+          "charges_framed": "",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "Remitted fine Rs 600",
+          "date_convicted": "12 Oct 2023"
+        },
+        {
+          "description": "Section 118E KP Net KEDO  Act",
+          "ipc_sections": [
+            "188",
+            "269"
+          ],
+          "is_serious": false,
+          "is_convicted": true,
+          "status": "convicted",
+          "court": "CJM Thiruvananthapuram",
+          "fir_no": "",
+          "case_no": "78/2022",
+          "other_acts": "Section 118E KP Net KEDO  Act",
+          "charges_framed": "",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "Remitted fine Rs.500/",
+          "date_convicted": "07 Jul 2022"
+        },
+        {
+          "description": "11/2691, 2118 & KP Act of the KEDO",
+          "ipc_sections": [],
+          "is_serious": false,
+          "is_convicted": true,
+          "status": "convicted",
+          "court": "JFMC III\nThiruvananthapuram",
+          "fir_no": "",
+          "case_no": "391/2020",
+          "other_acts": "11/2691, 2118 & KP Act of the KEDO",
+          "charges_framed": "",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "Remitted fineRs.500/",
+          "date_convicted": "12 Aug 2022"
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:44.618641Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
+      "movable_assets": 104740277.0,
+      "immovable_assets": 76193586.0,
       "total_assets": 180933863.0,
-      "liabilities": 36802602.0,
-      "net_worth": 144131261.0,
-      "previous_total_assets": null,
+      "liabilities": 36802599.0,
+      "net_worth": 144131264.0,
+      "previous_total_assets": 1.4409861214e+17,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3084",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.182497Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T14:31:28.096113Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 69.7,
-      "growth_ratio": null
+      "wealth_percentile": 100.0,
+      "growth_ratio": -0.9999999987443747
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.39,
-      "expended": 2.16,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:34:56.900432Z",
-          "notes": "Official eSAKSHI REST API — Works: 369 recommended, 356 sanctioned, 79 completed"
+          "fetched_at": "2026-09-02T14:35:06.898848Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:31:26.266257Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:31:26.263714Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 369,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 14.69387755102041
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -114,7 +403,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:23:07.149252Z",
+          "fetched_at": "2026-09-02T14:31:26.262729Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -122,22 +411,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Vizhinjam to Navaikulam Outer Ring Road project: Environmental clearance delayed - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmFlS19XV0dlNVdGOThBU01YX1NyNzJyMTVhbVBreERwZGxSbmN0a2hVbDRGNmpiMGJ0aENoSHhNTlNOUnBPNGZJQldNTEs4UG1icFNLVjNWaGMtNnNQRWlIODMxbFVxV0g0ak50dzJVWDVfVGJ1bnZSQTRZQUZmWW0wNkktTUEtbmt5aDlCWWdjdnVXcEJIRXlwc3N5WFRFVXU1RXFzQ25vVXA3TnRpSDFrS0lhYmVfZUtGdHFiekhyNG1UMGNzcWpKZjl2djJEM0RNOXE2bTVqQnhtdkZfY1I4ZWzSAfIBQVVfeXFMUHU5MmJzajBlOHZfOWNGNGM5OWFFc1c0SnZrQ2plUXM3UE5mY2NrcHRCMGFFTTVEWlJ2VEZ2YXlMRElfTnZuM3RCbC1wamVweHdiTnZYM0RlcEE1U0NzNG9tTTdHN3JoelRHRnJ6MzZxQW9iSWZHYkZJU25lOUxfOGIxWHpNSmFkM3V1Q2JuQ0NicFp2MWRkM2hTVFR2T3E3Yjg5SjREUUp0Vk9EQmlCLUFWeVdzVXNUMVhPTkhqUkNGSzlGcnFfUlpkQTc5Q21WaU1FNmVFRnNVVmh0ek9hUHhuUTA3OHgwSnlob2swOG9UYUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kerala Assembly Elections 2026: Adoor Prakash’s stance adds to Congress confusion in Pathanamthitta - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUC1WdkE1LVRQQVFydnRCSGplZmxyWlgtZk5tZVdjbDdmNWhzdEN6OVNaNXB4NXViN2ZIb0VSQm00Q3I2Mm5jNWtLUy0tZ29MckozYkdhY2pyUzlvYVU3UUstaG02ZkRrRzEzellVclJHQ3hMUmxiWkZqc2paR2VfUkFyamVhUlFqMjNuUEphODdOLWVRcTRsYWNWSFFpUG5nWmZTLVhVWkdyRVZyaGUzdUg1UGJqZVg1bUhRUHJXeUd6ZTlCMHBFUVJwckNfcGRwdGhN0gHaAUFVX3lxTFBsYmczaFhuT0l2SXhsRGk0SE5pbnFKeE1zd0JYanhRRjJJMzhZX1JsUUFUWVM2RGppN0ZmZUQ4Q2NPdmQ4dWhxbkpRVWNHUnFyXzJoa0lzS1ZSZTY1REU3UEVwUTdXRDZiLWdzem4tSDJfN3BpRFA1a1ZocmdZOXZET3luMEYxS1hoOVpqOTFySGNIY0ZjNC0yTGFhYzZzWFJvUE5pdXFXaENmdVhRODNWOEhhb0J4MVpuY1p3dXFKd25NdUEwUm1NM0pka21jZF9nYkcwaWxrTFdR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress delays final candidate list in Kerala as MPs knock on the Assembly door - The South First",
+        "source": "The South First",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeDJJcmREQWhPZ3pKWWt3X2JEWUl0cWNHQXIwSEZQN011bTJSX2JaMWVqaFcwX3F0c3ZMaVB6OUpqQ0x0SWllRlFFeUtxeDctaVpub181X25XRFFsMDFmSjJjd0haNXR1QmJ3eGxfcUVKclZzUGgxYS0zd21QMVAzUzlEbk1kVXNCRkZuY1FHdlZQLVpNOXoyd2dfLWE3WmF5LTNqdHJrRHBQQUp4cUJhd09pOTQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Speculation rife over Congress MPs’ candidature, but not all in favour - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3pKQ2VfNzctczdTek91OXBHa0JkSVF5cVJZQ3JWVXVJUG1ob041emE4Rm96QjhuSW1QVWkyYmZZUVlPT1ZpNDZwNF9TWXBXak93TDNWNDF3c3VRdHZqR0J5UFNwaXRZQ2ZWbzc4dUNwUnV3WE9ONFJPcWg5YkFFcjg0UnNtTHlOeG55ZWpCMFBWcGE5aHo0TnJfN0hRWU5EVEU0VXJZMlRmRjlzY1BtRDFKR00wbEFEZmVLVVpCWmswa0dVcWfSAdMBQVVfeXFMUHJUTlk5MTBnd19KNXBpOGo5OUVPdWNiaXpmdjZUOEFzNGI3bmZvZXh1WVhpYnVxZkZaZWxtOTd2TG02Ulk3RVpVemFaeDBJVkxSNDVuWlcweXBHTHNSUHpFZ3I5UklBTTRYQm1KaXhtN2RyVmFZRVd6bFZDR0RXUEE0LTdCYXRJMUpxX2p1bnU2enJ2VE1YTnVDMklEbUlNTFRDcWRQMEtsS243cHVTZWpCQzVrMTVqSVBkQVFyVzVTaXhaN1lMczZlRnZNMzBOS2YyZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Attingal election results 2024 live updates: Cong's Adoor Prakash emerges as winner - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQb0hvYXRVaUZVYjAzeW94aktFZVBRQ1lHLVhwc0F3ZmlKNHJrTnk0Nm02WDRNU3RBS0JUam1OWDNtZVZBOVdWMDlCbWxHRzB0QnNCUGFKc21JVV9nckZYRUFmazhMUGozNmtBRXFyOEpwbFlqZTAyWlI3RHFGVWhKQW5pLXN4TnRkUU5KZFZPdWphT2FzQWJvZ0FfRUJzTmd3Ul9yaDAtZG5Qd05uRjBTS3czSUZMUzA1S1dDU2Zhek8wZTdFVHY4VVV6dTctX3ZqMDljYU9aZzU1YmQtREZ4YXk3Vy1yaWd3NW1mN0R0ajlMOUtWMzI4Q21ieTRYeEtjekNSRFEzbnQ1Sml3T1REMjJJcE14SURoM1k0ZFktdzV4cW1XLTlWUXN2MDZKWFBQUkI1RGpKWHVEczRORW9DbkdHcmpIV055MDZhbUdmNnLSAdYCQVVfeXFMUGs5NUdpUDF5NEFHM25keHhHQ0dHM3pyYWUwdkdNdkpjUkpPUEE1OHF2cjBIOVJSb0hLel8zNlJQTktpY3U4d1JNUm5PeVNmdHRmNGhGQkE4eEI3aWVJaU95cGtfaDh1NnBxUGZNUWRxOXBYMHBWcFNmaUt5cnlpN1lTSXhwMUN1QmxxMEhCRXUwNC1weVFhNWMtUXFUckFUUi00YjFkYXFzdnU5bEVKeWwzREFyRlFibURnY0duR2R5VmFydU1iRzJtZmFfYVQ2Unc0VGJjRXFSTHNtZVdMNDQ1UnZEYW82WlcybG9wY01iQXk2cVM4bHE3ZDF2WFJHSWE3X2hhUXRyaDF2N0RHZEllU21yNXA3bEFCZEJmaWZDcE9tNDB4cHRTWVZxNFRYcEt4YXVfazVsckc0S3RqNU4xRFFMWWVWZWtrbHZjVDlnVmVuNHJB?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:24:04.254645Z",
+    "collected_at": "2026-09-02T14:35:06.900162Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -152,7 +483,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.398629Z",
+          "fetched_at": "2026-09-02T18:38:06.880547Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -168,7 +499,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.398643Z",
+          "fetched_at": "2026-09-02T18:38:06.880559Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -184,7 +515,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.398651Z",
+          "fetched_at": "2026-09-02T18:38:06.880565Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -200,7 +531,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.398658Z",
+          "fetched_at": "2026-09-02T18:38:06.880571Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -216,7 +547,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.398666Z",
+          "fetched_at": "2026-09-02T18:38:06.880577Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -232,7 +563,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.398673Z",
+          "fetched_at": "2026-09-02T18:38:06.880582Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -248,7 +579,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.398679Z",
+          "fetched_at": "2026-09-02T18:38:06.880587Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -273,32 +604,73 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "share",
+          "url": "https://twitter.com/share",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "sharer",
+          "url": "https://www.facebook.com/sharer",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "adrspeaks",
+          "url": "https://www.instagram.com/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "youtube",
+          "handle": "adrspeaks",
+          "url": "https://www.youtube.com/user/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 4,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:32:02.814220Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
+        {
+          "headline": "Vizhinjam to Navaikulam Outer Ring Road project: Environmental clearance delayed - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmFlS19XV0dlNVdGOThBU01YX1NyNzJyMTVhbVBreERwZGxSbmN0a2hVbDRGNmpiMGJ0aENoSHhNTlNOUnBPNGZJQldNTEs4UG1icFNLVjNWaGMtNnNQRWlIODMxbFVxV0g0ak50dzJVWDVfVGJ1bnZSQTRZQUZmWW0wNkktTUEtbmt5aDlCWWdjdnVXcEJIRXlwc3N5WFRFVXU1RXFzQ25vVXA3TnRpSDFrS0lhYmVfZUtGdHFiekhyNG1UMGNzcWpKZjl2djJEM0RNOXE2bTVqQnhtdkZfY1I4ZWzSAfIBQVVfeXFMUHU5MmJzajBlOHZfOWNGNGM5OWFFc1c0SnZrQ2plUXM3UE5mY2NrcHRCMGFFTTVEWlJ2VEZ2YXlMRElfTnZuM3RCbC1wamVweHdiTnZYM0RlcEE1U0NzNG9tTTdHN3JoelRHRnJ6MzZxQW9iSWZHYkZJU25lOUxfOGIxWHpNSmFkM3V1Q2JuQ0NicFp2MWRkM2hTVFR2T3E3Yjg5SjREUUp0Vk9EQmlCLUFWeVdzVXNUMVhPTkhqUkNGSzlGcnFfUlpkQTc5Q21WaU1FNmVFRnNVVmh0ek9hUHhuUTA3OHgwSnlob2swOG9UYUE?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Kerala Assembly Elections 2026: Adoor Prakash’s stance adds to Congress confusion in Pathanamthitta - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUC1WdkE1LVRQQVFydnRCSGplZmxyWlgtZk5tZVdjbDdmNWhzdEN6OVNaNXB4NXViN2ZIb0VSQm00Q3I2Mm5jNWtLUy0tZ29MckozYkdhY2pyUzlvYVU3UUstaG02ZkRrRzEzellVclJHQ3hMUmxiWkZqc2paR2VfUkFyamVhUlFqMjNuUEphODdOLWVRcTRsYWNWSFFpUG5nWmZTLVhVWkdyRVZyaGUzdUg1UGJqZVg1bUhRUHJXeUd6ZTlCMHBFUVJwckNfcGRwdGhN0gHaAUFVX3lxTFBsYmczaFhuT0l2SXhsRGk0SE5pbnFKeE1zd0JYanhRRjJJMzhZX1JsUUFUWVM2RGppN0ZmZUQ4Q2NPdmQ4dWhxbkpRVWNHUnFyXzJoa0lzS1ZSZTY1REU3UEVwUTdXRDZiLWdzem4tSDJfN3BpRFA1a1ZocmdZOXZET3luMEYxS1hoOVpqOTFySGNIY0ZjNC0yTGFhYzZzWFJvUE5pdXFXaENmdVhRODNWOEhhb0J4MVpuY1p3dXFKd25NdUEwUm1NM0pka21jZF9nYkcwaWxrTFdR?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Congress high command bars MPs from contesting; K Sudhakaran, Adoor Prakash face setback - Mathrubhumi English",
-          "source": "Mathrubhumi English",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOUV5QzM3bGdBajJhX2k5TUpsTXRpZVlJOWJhRFh2Vl9sRzU5M0hKRktnTW13cURXX1lLaDVVMExiUXh4NDMxMlQ2YVk4a3RmOGJFVzl4YUwxUXdQb2l4bUlIYVRqaDJhOWJ0TVN2SEdSc3g0MnVXY2taOXlTNEVYWUFub1BaX1NSOTMtRTFxSnBaNjdBTldJeXhSbDl6dWpZdjNlbWlrZGRIbk1jcXNUYnlMa3JPcDA2d1o3ZmwwWTBJb1VGVk9RV3VubU5XMkJZU1VyVVZ30gHbAUFVX3lxTE54V0k1Y3dmRi1MeUhZWmY4SUx6TmZFakdLYUJHc1BGOWd0b092ekVSN0dpMnMyS0dRVTF5bmlubk9Bb1FfT1B3b3Z1ZG1BZGljM09YR3VCUmFmdy05aTJ0SUV1OWdCQUU1d3lMeHR0c2NWX0lRSEtpenVabmt4eFFGVlRKMVM5Q3ZEU3E4VzlEZW1ZMGdJYkZaWUVNYUYtaUhyeFhRMi1UQWZ4Y056RnJMNXNMTFdyeUJteE5oNVcwU1h6UWpTd09lRlZUQXBTeWtib0FYMExHMjhCZw?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -318,11 +690,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Sabarimala Gold Heist: SIT Grills UDF Convener Adoor Prakash As Political War Of Words Escalates - ETV Bharat",
-          "source": "ETV Bharat",
+          "headline": "Attingal election results 2024 live updates: Cong's Adoor Prakash emerges as winner - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXNMR3pmTGJGMWlaVEZQQTZFS2Zzc3RieF9hRktMZ0xVelNJSHgtd3ZYSEJfMy1jRFhkblFtWmFYLTM1Zld0TWtCT2F0VnlUNFlmSHVIa1pTcWRWTGt5UTg2NHg1Tm5YSE9remVKLVEzQ0RaOHpqd1J4a1dFUmJwWEo0T1VhakV5UkJUbVk2VjRBUFBkNHV2YTI5NVhDTEktb1E4RlZKNktDSUdwOFNNejJlZm01YWFVdnl3TjJscXZ0YkxmWHQtTTd3ZXhLV2tVNF9ORzJ1alQ0Z1Y4S3Nj0gHkAUFVX3lxTE96c0ZMVnhhMURvNUNCUXRHalBsVlVtNVlHczc0eHd1cE15a0VqS2dQOTJxUnRucm1udWRPVGw0Z1BjckozcnFjd2hvVEJmTFJlV1ExTkduMlltbmp3dDRXNWlOS0ltaHlYNUxUYm5ySEVCRzdBNzVTZDlNX2NnNlVWZGw2T25jUUFqUmdRTUZ3bGpVWXU3eDhZRDNQNEJRRmFOc3l6VzJhcFQzMk81QmNxZ2p2eUN6cVAzdkNuaVg4aG1MeHFaWVJHRVA0ejhUREtGSnU4WUdmRkgwaE1QVnd2aEUwSQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQb0hvYXRVaUZVYjAzeW94aktFZVBRQ1lHLVhwc0F3ZmlKNHJrTnk0Nm02WDRNU3RBS0JUam1OWDNtZVZBOVdWMDlCbWxHRzB0QnNCUGFKc21JVV9nckZYRUFmazhMUGozNmtBRXFyOEpwbFlqZTAyWlI3RHFGVWhKQW5pLXN4TnRkUU5KZFZPdWphT2FzQWJvZ0FfRUJzTmd3Ul9yaDAtZG5Qd05uRjBTS3czSUZMUzA1S1dDU2Zhek8wZTdFVHY4VVV6dTctX3ZqMDljYU9aZzU1YmQtREZ4YXk3Vy1yaWd3NW1mN0R0ajlMOUtWMzI4Q21ieTRYeEtjekNSRFEzbnQ1Sml3T1REMjJJcE14SURoM1k0ZFktdzV4cW1XLTlWUXN2MDZKWFBQUkI1RGpKWHVEczRORW9DbkdHcmpIV055MDZhbUdmNnLSAdYCQVVfeXFMUGs5NUdpUDF5NEFHM25keHhHQ0dHM3pyYWUwdkdNdkpjUkpPUEE1OHF2cjBIOVJSb0hLel8zNlJQTktpY3U4d1JNUm5PeVNmdHRmNGhGQkE4eEI3aWVJaU95cGtfaDh1NnBxUGZNUWRxOXBYMHBWcFNmaUt5cnlpN1lTSXhwMUN1QmxxMEhCRXUwNC1weVFhNWMtUXFUckFUUi00YjFkYXFzdnU5bEVKeWwzREFyRlFibURnY0duR2R5VmFydU1iRzJtZmFfYVQ2Unc0VGJjRXFSTHNtZVdMNDQ1UnZEYW82WlcybG9wY01iQXk2cVM4bHE3ZDF2WFJHSWE3X2hhUXRyaDF2N0RHZEllU21yNXA3bEFCZEJmaWZDcE9tNDB4cHRTWVZxNFRYcEt4YXVfazVsckc0S3RqNU4xRFFMWWVWZWtrbHZjVDlnVmVuNHJB?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -356,15 +728,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 55,
+      "starred_questions": 16,
+      "unstarred_questions": 39,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -372,17 +744,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -403,8 +775,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.44,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -424,6 +802,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 13 criminal case(s) (0 serious), 13 pending, 0 conviction(s). Declared assets: Rs 180,933,863. MPLADS utilization: 14.7%. Parliament attendance: 100.0%. Questions asked: 55. Debates participated: 13.",
-  "validated_at": "2026-09-02T01:36:49.399438Z"
+  "cross_reference_notes": "Has 13 criminal case(s) (2 serious), 10 pending, 3 conviction(s). Declared assets: Rs 180,933,863. Parliament attendance: 100.0%. Questions asked: 55. Debates participated: 13. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.881355Z"
 }

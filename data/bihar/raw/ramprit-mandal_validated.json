@@ -4,16 +4,16 @@
     "constituency": "Jhanjharpur",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": 3437,
+    "myneta_candidate_id": null,
     "slug": "ramprit-mandal",
     "house": "lok_sabha",
     "sansad_member_id": 5214,
     "profile_url": null,
     "canonical_name": "Ramprit Mandal",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 68,
+    "age": null,
     "photo_url": "/mp-photos/5214.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Jhanjharpur",
       "state": "bihar",
       "party": "Janata Dal (United)",
-      "myneta_candidate_id": 3437,
+      "myneta_candidate_id": null,
       "slug": "ramprit-mandal",
       "house": "lok_sabha",
       "sansad_member_id": 5214,
       "profile_url": null,
       "canonical_name": "Ramprit Mandal",
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 68,
+      "age": null,
       "photo_url": "/mp-photos/5214.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:25.956373Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 105978772.0,
-      "liabilities": 426593.0,
-      "net_worth": 105552179.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3437",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.344547Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 59.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.39,
-      "expended": 9.27,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:00.420151Z",
-          "notes": "Official eSAKSHI REST API — Works: 170 recommended, 92 sanctioned, 87 completed"
+          "fetched_at": "2026-09-02T14:53:00.768237Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:49:15.050034Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:49:15.047672Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 170,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 63.06122448979592
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:25:34.343025Z",
+          "fetched_at": "2026-09-02T14:49:15.046877Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Jhanjharpur lok sabha election results 2024: Jhanjharpur Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWxXQi13OE9uajJBN0xOZjZMUERTUFBMTmpZX1dYVHk1RFVBbjBpWUJYeUVWeVh3VUJHeGhqQkIxcjhfNVJ5N2huX1dUUXVJVHBrcUwtTVlNM0haV3JoSDVBVlpEa1JWOEVIblUxUG9TNkFackdIRWxiYkZNSnU1YUpSbVhRS1RVYTVrVVdOVGRwdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Triangular contest on cards in Jhanjharpur Lok Sabha seat in Bihar - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnZMZ3lHVzZhRU01NzRjVWl0VTdHdlB5Zm9BUWhHOUt4c1JwNkV0NUt4QVNVZDdfR1B5ZzF3dEdXLVFIaGh2TWNSRllZdnRkMzZGdXpqVHJzT3pmQUp6MkNOdGtPMUlobDZjNmJZNXJyd2prd2F5cTRKd0IxQ25IWmRLT3NsWHR3d3J2YjFIcFcwRlpyX01rUlM4RjdQNEppUlpJWWozWmFBOUcxbXFXWWQtbkROd9IBuwFBVV95cUxPVGROVnhTc1BsOUxSZFBlREJOZnl6TzdDMW9yVU83cDZuSkxTcFV1MXg4QXhuU29vWmhUdlZaRGdlakhrdjg2UFdnNFNlS191amdWX2g2aGM4aXNzMTdESlUtNkVkaURLZUtUaFlabnNxZmxBNkZScWo2MHlQY1cwWWptRGYzYU5sWkkwVzNZSGNldFYtZXNXMTZtTFFraVN2dnFER1ZTU1ItTjlXcGw2X24xNGM1djFDc3dB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "JD(U) Has No Bargaining Power In NDA? Modi Government Rejects Bihar's Demand For Special Status - Swarajya",
+        "source": "Swarajya",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU09DWDRtUHZzNUNmRVlCU0JIVWl0V21zdkFHWWJna3B2ajFTWF80NE1BYmJyN3BFWExMMWNCLV9WQ01NVTIzUVhLTmxYY0FRLVpZQmVib3dKZ2lrUXoxaHBrQ0RMb0E0N1VxRGFkd3NnelR1UUk4RlJHWFBaR2J2UVZ6d3JMalVhX1g2QzRiT1dxd0tQbi1Bd2NLd01SeDZRWC1pTnQ5V3pqekc2VnpzRlpuUXE0LU9KbWpoa1Q4TE5XaUc50gHUAUFVX3lxTE9tRFZPcThxWFZEZ0stRThSc3p1NkNYcU1BUTZ5ZG5qT3BlelZPY1otX3dUODVzeFNzbm96WEgwM1ZjaUNhYXRhQm1YVnh4RXVGQTFWSlk0Q21pNm9sYXItT05NVUdjQkQ4a0I5UFJ1Q1h6ZnpZRWNvLXM4ZFZFUnE4RC1sOThxTHdOc285bjFHZ3dpaHpNMVpRUDl2OHU0TVNPX3BmZ0lkbjhjdHpVdTRLNmhCR3hjdmFFQUpyekkycGdfSW51cnlLS25idXhoQXE0WjE2?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Debutants VS war horses in Bihar battle - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSUlsVW1TalBkekdNMUtLcm9VcmdWSy1sZEpqUzVDMFREM0xxSnptS3lKcjFHbExON2taOEYtSmVRcTYwVlpiMzdyeWc1VjdwLVFPMi1RTkxHTjlNQUpyWElzeVZZSUtQR01yUXp0NVQ1c0tmek9nQlgzU3E5QWpocGlDWUw5UmxHRXQtb1A3VU9HTlIt0gGiAUFVX3lxTFBIUXhSZnk5MVNuT3R1akRVU2pYMUt2bEhEMWV1RV9DUHNsZXRnR19KelpWSE9jSjEtdW5sRURIck5LbVJfYUtKWUhmME15YmpUMWVKODI5Y2dsQ2xIaTRXRHAxMzUybW9VcWZBeDk3aDhUd3hZcG1HWXd0RnhNcjZpU2NyeDZZR1dpbk9LMUQ1MlVSY09ZYVRfTElDTmYxcm1LZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'Case not made out ... ': Centre cites 2012 report on Bihar's demand for 'special category status'; RJD t - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOU0ZSUHl0ZjVQR3RuUTFNcnM1dndocG1idkg4anNSci1UX2s5ZzlRVTRuWThnSFdZUUk5VUtrT0dlNmFoWGZiNnhLcEczVTRkWnp6cDJ0bEZzZEJjcVRMVGhfZGJGaURrak1ORHdnaFYtMHJoYWVieTNKTUMwa3RhUnZmajRMZnZ4YnRmTS1ZUnRROWxGWlg3N2tneVpEaWxzY1pTMS0zdHV0T01udmtzMnZocUV0UmcyR3phdHpIaW9oSnZCaUh6Mk5jN21FazgtOHUyRDVvaDh0anRUX0EwTmp0emY3dGtLdnJRY2JIN3VLd1dJOVhHUHFwcVZjTENPekFvb1kzakZRYmlCQ3g1Q2otYldEOVE4NkHSAZ8CQVVfeXFMTlIwT0QyMkJDUS1rUnRUWlNhM0JwYUZTVklzWGRpQlV0cVJRSHVzSWV0T2JRV2pia3Rmb2dZa2lXZGExYnMtVlhVMVpLWkZLRFloUEwyRGtURTRVX19YYWtNUGpLbmx2dVA3NjVqNm1OaHZrZTRWNnFBMXVlazcxNVhZUmJ3REpWOHo3bkhBNzFidFpxa0VaeTItemEwbHlVa0VpWlVTV3FFTVlab0pRbXNvUFhwUTNXbEhtclZqVmk3eXk3amlQWFlHZFdOSHlaU085UURVdGJFMHVsejJQdXNwSjN1MmVfazJqTnlCYUhhOEl0ZlFLS2ppelZBRG1aMFRVckZYY0ZKNWNuNHZCTHZ4UzZUdlNkSzZUNlFKQkE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:26:43.388929Z",
+    "collected_at": "2026-09-02T14:53:00.769336Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.375708Z",
+          "fetched_at": "2026-09-02T18:38:04.838694Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.375717Z",
+          "fetched_at": "2026-09-02T18:38:04.838705Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.375722Z",
+          "fetched_at": "2026-09-02T18:38:04.838711Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.375726Z",
+          "fetched_at": "2026-09-02T18:38:04.838717Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.375730Z",
+          "fetched_at": "2026-09-02T18:38:04.838722Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.375735Z",
+          "fetched_at": "2026-09-02T18:38:04.838727Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.375740Z",
+          "fetched_at": "2026-09-02T18:38:04.838731Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.375744Z",
+          "fetched_at": "2026-09-02T18:38:04.838736Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,11 +338,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/i/flow/login?redirect_after_login=%2Frpmandalmp1",
+          "url": "https://x.com/https://x.com/i/flow/login?redirect_after_login=%2Frpmandalmp1",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/p/MP-Ramprit-Mandal-100067359046941/",
+          "url": "https://facebook.com/https://www.facebook.com/p/MP-Ramprit-Mandal-100067359046941/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:49:23.782070Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -314,27 +392,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Ramprit Mandal: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia",
-          "source": "Oneindia",
+          "headline": "JD(U) Has No Bargaining Power In NDA? Modi Government Rejects Bihar's Demand For Special Status - Swarajya",
+          "source": "Swarajya",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5weE00TGhMLUNJV0dvTlliQmJ3SFo0akg1MThZbGg3TS1wQkYyWl9qdF9HejA2dzFOQnhxelduVkNVY0ZZSnM0NnYyT0VVcklQNi1idi1qOF9yTmxHZEZLNnc3Znd1S292enpFcHZfWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU09DWDRtUHZzNUNmRVlCU0JIVWl0V21zdkFHWWJna3B2ajFTWF80NE1BYmJyN3BFWExMMWNCLV9WQ01NVTIzUVhLTmxYY0FRLVpZQmVib3dKZ2lrUXoxaHBrQ0RMb0E0N1VxRGFkd3NnelR1UUk4RlJHWFBaR2J2UVZ6d3JMalVhX1g2QzRiT1dxd0tQbi1Bd2NLd01SeDZRWC1pTnQ5V3pqekc2VnpzRlpuUXE0LU9KbWpoa1Q4TE5XaUc50gHUAUFVX3lxTE9tRFZPcThxWFZEZ0stRThSc3p1NkNYcU1BUTZ5ZG5qT3BlelZPY1otX3dUODVzeFNzbm96WEgwM1ZjaUNhYXRhQm1YVnh4RXVGQTFWSlk0Q21pNm9sYXItT05NVUdjQkQ4a0I5UFJ1Q1h6ZnpZRWNvLXM4ZFZFUnE4RC1sOThxTHdOc285bjFHZ3dpaHpNMVpRUDl2OHU0TVNPX3BmZ0lkbjhjdHpVdTRLNmhCR3hjdmFFQUpyekkycGdfSW51cnlLS25idXhoQXE0WjE2?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BSP factor, RJD rebel puzzle big players in Bihar - The New Indian Express",
+          "headline": "Debutants VS war horses in Bihar battle - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWx3RkdkTUlKMWdNZFpTT29qcW92TFdZWFJlNGEtNF9PVkU1NmxucjFKSFFobmFTYldyVG9aMXVtdWdGOFJDMWdNaHF5ZGxTV3FkZmxnQ3NvY2ZaY29WaHFnOFdWMldpQVlVdGY0ZFMxN0dtZ0lkSkUwcmdOMm1wZHdlZWc1TkVFZjV1eFRvUnZkc2NwNWJoX0E1bE9IT2hs0gGuAUFVX3lxTE5sU25SZUdQUjhEeWJjanZGS25YbkFCUlBvekZBc2h1LVJnRHNfT19nV0c1N21ZZmJoTngyZlYwbGRJbVRsWC1MNWZQOENfdEtKUGE4ODBMTEI0Q1RZZzQwUHdhYVRob0RoZkhIdmp3SmFDV1BFb0NfMzNBNjNVMnNPS2laaHNhdzZrYzhBRFNjUnZFbjRLUFRUTGc5cHd4RU9nQTBsMmpIMGdJTkxxZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSUlsVW1TalBkekdNMUtLcm9VcmdWSy1sZEpqUzVDMFREM0xxSnptS3lKcjFHbExON2taOEYtSmVRcTYwVlpiMzdyeWc1VjdwLVFPMi1RTkxHTjlNQUpyWElzeVZZSUtQR01yUXp0NVQ1c0tmek9nQlgzU3E5QWpocGlDWUw5UmxHRXQtb1A3VU9HTlIt0gGiAUFVX3lxTFBIUXhSZnk5MVNuT3R1akRVU2pYMUt2bEhEMWV1RV9DUHNsZXRnR19KelpWSE9jSjEtdW5sRURIck5LbVJfYUtKWUhmME15YmpUMWVKODI5Y2dsQ2xIaTRXRHAxMzUybW9VcWZBeDk3aDhUd3hZcG1HWXd0RnhNcjZpU2NyeDZZR1dpbk9LMUQ1MlVSY09ZYVRfTElDTmYxcm1LZw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Ramprit Mandal , JD(U) candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-          "source": "The Hindu",
+          "headline": "'Case not made out ... ': Centre cites 2012 report on Bihar's demand for 'special category status'; RJD t - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1NpclFuMFhObFh4dkk5bEtfOGE5Rm5sWVVnNGszQjJ0V0k3WGlNdFIwTXB0cHlrQ2R0WjN1LUlTMElfSnBxd3k0YjlqZ3BZa043aVptUHlGNHJyajkyd0hvdFM4SXFJbktZTmJCSnA2MXZEOUJNLUZvel9Yb2hyR0sxN2dzUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOU0ZSUHl0ZjVQR3RuUTFNcnM1dndocG1idkg4anNSci1UX2s5ZzlRVTRuWThnSFdZUUk5VUtrT0dlNmFoWGZiNnhLcEczVTRkWnp6cDJ0bEZzZEJjcVRMVGhfZGJGaURrak1ORHdnaFYtMHJoYWVieTNKTUMwa3RhUnZmajRMZnZ4YnRmTS1ZUnRROWxGWlg3N2tneVpEaWxzY1pTMS0zdHV0T01udmtzMnZocUV0UmcyR3phdHpIaW9oSnZCaUh6Mk5jN21FazgtOHUyRDVvaDh0anRUX0EwTmp0emY3dGtLdnJRY2JIN3VLd1dJOVhHUHFwcVZjTENPekFvb1kzakZRYmlCQ3g1Q2otYldEOVE4NkHSAZ8CQVVfeXFMTlIwT0QyMkJDUS1rUnRUWlNhM0JwYUZTVklzWGRpQlV0cVJRSHVzSWV0T2JRV2pia3Rmb2dZa2lXZGExYnMtVlhVMVpLWkZLRFloUEwyRGtURTRVX19YYWtNUGpLbmx2dVA3NjVqNm1OaHZrZTRWNnFBMXVlazcxNVhZUmJ3REpWOHo3bkhBNzFidFpxa0VaeTItemEwbHlVa0VpWlVTV3FFTVlab0pRbXNvUFhwUTNXbEhtclZqVmk3eXk3amlQWFlHZFdOSHlaU085UURVdGJFMHVsejJQdXNwSjN1MmVfazJqTnlCYUhhOEl0ZlFLS2ppelZBRG1aMFRVckZYY0ZKNWNuNHZCTHZ4UzZUdlNkSzZUNlFKQkE?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +446,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 19,
+      "starred_questions": 5,
+      "unstarred_questions": 14,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 36.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +462,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 80.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +493,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +520,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 105,978,772. MPLADS utilization: 63.1%. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:47.376457Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.839482Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Arrah",
     "state": "bihar",
     "party": "Communist Party of India (Marxist-Leninist) Liberation",
-    "myneta_candidate_id": 9539,
+    "myneta_candidate_id": null,
     "slug": "sudama-prasad",
     "house": "lok_sabha",
     "sansad_member_id": 5641,
     "profile_url": null,
     "canonical_name": "Sudama Prasad",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 56,
+    "age": null,
     "photo_url": "/mp-photos/5641.jpg"
   },
   "criminal_record": {
@@ -22,70 +22,132 @@
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Arrah Rail Post Case No.158/2020 | Sec. 145,147,174A,146 Railway Act",
+        "ipc_sections": [],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Arrah Railway Judicial Magistrate Bhojpur",
+        "fir_no": "Arrah Rail Post Case No.158/2020",
+        "case_no": "",
+        "other_acts": "Sec. 145,147,174A,146 Railway Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "Jagdishpur P.S. Case No. 202/2013",
+        "ipc_sections": [
+          "188",
+          "353",
+          "34"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Sudha Kumari Judicial Magistrate First Class Arrah Bhojpur",
+        "fir_no": "Jagdishpur P.S. Case No. 202/2013",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "Yes",
+        "date_charges_framed": "28 Apr 2023",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "Arrah Rail Post Case No.606/2008 | Sec. 174,145,146,147,156 Railway Act",
+        "ipc_sections": [],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Arrah Railway Judicial Magistrate Bhojpur",
+        "fir_no": "Arrah Rail Post Case No.606/2008",
+        "case_no": "",
+        "other_acts": "Sec. 174,145,146,147,156 Railway Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9539",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:45.434923Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:33:26.959230Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 9098946.0,
-    "liabilities": 2921615.0,
-    "net_worth": 6177331.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9539",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:45.434937Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 7.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.81,
-    "expended": 4.83,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:04.505398Z",
-        "notes": "Official eSAKSHI REST API — Works: 117 recommended, 94 sanctioned, 63 completed"
+        "fetched_at": "2026-09-02T14:59:43.764305Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:55:34.037776Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:55:34.035691Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 117,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 32.857142857142854
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -100,7 +162,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:20.290102Z",
+        "fetched_at": "2026-09-02T14:55:34.034882Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +170,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Arrah Lok Sabha Constituency: BJP’s RK Singh to face CPI (ML)L’s Sudama Prasad’s challenge in his bid to create history - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTk5IaWRxNWhIbnRpcnExOHJ3QVkzM1daSWhjZEhfNXZSSkNScjBKbHFIVnhhTjJ1X0s5OGpNTVFNYk80TlA4SHlHMFYyN2ExSC14M21xbHo2WXlibUdnVlJybG11aFdIXzFlWjU5NjY4dXAzWXNZaGk5dVBSXzhtUDVtYVNqemZWLXRad1JlWUdIQ3dnN1djYXZLaWNRcHBUeTlldUNCLWhaSHgyZGd0Y29oeXlWY2dVWVp1WG5XZGFmNzJnLUp3cFZDRmI4NFBrN00yM3BBb1dUa3hsNHF0VVhOYzM5TXhIYXE4VF9jMNIB9gFBVV95cUxPT0EyR1pkT3NvTjRCMXg4alBRR2oxNmRVNFNibGV1THdwLXRuczVBNGotSEhzLUgzR0I1d1dOTDdwZ0xKWGNOamUyQllCbkg3ay1FYi1sSUdBSXh6QklqWEZpRG5PNG90bWx3Z1VzX2VYUFNwYXBHYjg1bFNIOFNsQm42S0Z1WlpUaXhmVFJZbXRuc2pwSlAzbUhQSXdadlhfWmNYSFo3SUhXdUYxXzdjYXBGWXBFX3V3UG5VQXZWamkyVmRMVTFDbkkyYzA1M1hBVlY0bkl3V3RNc3FSY3NZZUFjT0k3ak9iakI2Q1ZTbnp4akVkWUE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliamentary panel member questions Railways' 'gifts': Attempt to silence MPs - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS3ppN2hfSjBJNFI2SFNRT0pjemhTMDRPdlFSYjhUYWd6TWZvMXdOWjFTcDNGbG9FbEhiZVJUbWZQTUg3cGtib1ZkWGNESDRVTEhEZk9JRnZFenp0Z3JUenlzYm1tb0lkaHU4WC1BU1NCVTJXSEhTU3ZNbGI3bjJDOVRzUThlcF9CSzg0Y3p6U3Y5Z0xLMlFFUUNGOTQzYmhPVUlaNHZDY3Y5ZWx4NnNmZnIzazkyUUNrY3JoeV9DTdIBxAFBVV95cUxNMC1TUWd0azQ0TkZfazBhdFRRLW91aHEyeGQwdC1UNmFkNkZPR04tcmNIczgtNGk5TDR2Mmd4YzRHMlVXTGF6ZlAzQ2VtRUhwTm05eTkwNWJaZlRBR05WTVNBV0xadDRHd1JmZ2YyTFdMbm1Ra05HWGN3TXg1SW5WUTZ0WTNxdEpOdUlMSFk0V2ZLakNQUGRTNjlYcWdkRk5kSFRuaGVHblVTMkgyNHVoNzB2ZEwyOVJMSG1NRDNzbm5OcXZx?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Arrah MP Sudama Prasad Urges Centre To Explore Feasibility Of Rail Link To Ladakh - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUU4Q1hQQXB6NEhSbmdQbG1xemN2V1ZtcTVJMmpEcGxscURMVmRYTGhtck5HMU1WRGhxbXgxNlBZT1VhZ1pFdDFWWkJSTmE2VnZzV01ucHIwM3YyQW4xN3Q1M0NXZ3hXMHo1SThPUUN1M1lLYm9DaWw5eVFCYm5sVzJUa3pHUmhBRjVoTEdvLXpiRXBGREhsaTdDNURSZ1RtVHlwcUx4TGhPZTlZY1BNenF4V0VZenlySEVhaHczSVhZa3VwbDRmM3ByanTSAdIBQVVfeXFMTUsyWmxlMzUxbUtyM0RIVnFlOHNidmZBNkVlSkNjRG9FVU5lbWI0dVhxcDd6cDhWSHpLbHVySVNDTWpqTFBxakQ0SFNXR3N1YjBLcmNwblhtSVRlR3ZJMlpMTXhYeFN6eUNMZ19PS2FEdW1tSVAwakVENWZja1NzRHUwT2lIRkpQbTRZMlI0dERqVEdKc3owUUpsdS1QYVNOX3RkTlQ0bmQwLTNYN3dGX0xOMkwwS1hZZ1ZMckdqS3VuRVhwdEFDS0JEN2tJcS1JTl9R?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Door-to-Door Campaigning, Local Caste Equations Fuel CPI (ML) Liberations Victory in Bihar - TheWire.in",
+      "source": "TheWire.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVlNTSDlUN09KbE1sZlNlNF9zSlAzbWkzUXM1R1lxaUFvUHVQQU9ISm5nSnNla0tWSW1rSXgzdVZPWXRTX1p6ZEV2MEFOZTlFc3djWndVU1B3SVAwdVBFRmxraTJ3YzRNZmp2cjhUWXNlUlhsLXhLOVk2SkRMMTYzMjJVWlJweTlIY0NrTHJOSDc3TkptdHlOU0puS2JlRFp1R0d1QW1ER0tlaEZlN3lzc3htOWVRX3FOaDFfMTFn0gHDAUFVX3lxTFA3UmxmdTVKZEd4WFFUWFMyZWs3LXB3S21Eb3Jad2s2NGw4Z2t5cVk4N255UWR6eUtHVUkxQlNDUTNLLWlReEFOVU0tU3dXU0NfOXJQMmg1dWE4eXlmYTRRV3BYMzlyMjlLdkFfLXh4T0dzU3p3Z0Q5b1ZXTVZRT05yWWZLMmJvLXRUcDBWOFlkSU1HZk9RcXFBcXRkTlJYOWdwRU14dzdaZFN4UUNNeURKeC03NDRBWlVRdy0xVEFjLWVmYw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "CPI-ML stages comeback to Lok Sabha from Bihar after three decades - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHhTQ2dibEtZTzQ5U1pkM0lVX1J2QVRTZm9GMkJjSmRmN1lYQS0xd3pPOTlyeVdKLTV2UUJmcHBfZ1dIcVNQRThFRF9ocXdzbnRIcFQ4ODdZYjVNUHNySDhjUFFZd2EwazFEcEFpYnJfN3AwZDVtUWR3cTR4N1pqc0Y2X3BYQTJuMDNHTkJjclZGcVZNU09La0Jsc1JLbjA0LXRPbmhXRTNSZ012TlFNVWUxa0NoTjA30gHGAUFVX3lxTE8zMDFlZnlTc0F5OURRei1remlqc3dFcW1nYnJ3blEwMWp4aFhXcmNLYUF0Z2huejF6bnlkQ2Q5RFVtNFlObXdlSE9NaEs0TUFyR3ZaUHY0OS1WMjU5Tlc2UUNKZUcydmtLRDhiN1dndHA4ZVBfQ2NrRHhhOHo4dHRLRWJEMzVjbDVITjY2dTJETWpOZklTX0ZRWlk3VHo4ZmpLMk5tS3p2dnprdnNhV1FQQ09Yc09YeHh4WlRfbDd4LTRtc2ZvUQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:24.313255Z",
+  "collected_at": "2026-09-02T14:59:43.765056Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +239,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.476843Z",
+        "fetched_at": "2026-09-02T18:38:04.973902Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +255,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.476853Z",
+        "fetched_at": "2026-09-02T18:38:04.973919Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +271,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.476858Z",
+        "fetched_at": "2026-09-02T18:38:04.973927Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +287,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.476863Z",
+        "fetched_at": "2026-09-02T18:38:04.973936Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +303,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.476867Z",
+        "fetched_at": "2026-09-02T18:38:04.973944Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -218,7 +319,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.476872Z",
+        "fetched_at": "2026-09-02T18:38:04.973953Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +335,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.476877Z",
+        "fetched_at": "2026-09-02T18:38:04.973960Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +351,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.476881Z",
+        "fetched_at": "2026-09-02T18:38:04.973968Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -288,11 +389,19 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Sudama Prasad caps a lifetime of activist grassroots politics by becoming the first CPI-ML MP in 35 years - The Hindu",
-        "source": "The Hindu",
+        "headline": "Arrah Lok Sabha Constituency: BJP’s RK Singh to face CPI (ML)L’s Sudama Prasad’s challenge in his bid to create history - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZWlEZ1A5QU5BUy1UeExHV2NCVEpRVm13c1dUdXVVMXNMeTkxNGZkOTF6RVk3bEwxUUhrUXBPUVBQN0NRdXBHcWF4NVRoY1RDa0xnZ0JSNENzYS1Rb3ItVi1uUGJCQzlrUExHZEMteTR0QkowaW1DMElNVlQ0QVk5QkFPUEhKT3pYT2NlbDJSZGJyVFJXWmJ0bWZic3BVSFlBNU42LXFuQzVlVjlpLVJZb1lFSzBpUk5VS1V5a3dGVW1seHpaMThWZ1FmU0NoRTUzelhyQzZqU1dLb1U4ZUxoLWJlU1hOZ0k1dGgtYVZDNFFHMVJ5eVNFRzhsYkxlRnN4bG40WElMbW9LOURtLUHSAZQCQVVfeXFMTXc5ZWFJNk5LOWl6am9aaVlONDZkMk1pdWJHZUthNU4zUTFNQ1pXTTZUTldPTkNaZlk3cEk4bXVOWE9jdnFUdnBDTTFhR1FEbG9KQ2h1QjdWY21WdnFidEx5M29LWDI0b0VVQWlVN0NNVjNEelV2eWtRemNyd1AzamlnWkhUa0lhaElpcjNHTmp5Y1JxWC1Tck1OMzVyT2ltNkM1dmdZOGZpOWhodHZhM2FUZWFmdTF2RW5fOS10VlNSOFE2WDBPVnNxdjR2MDVKdi1lSnNZVGNFQ3hsSFZvT2lTVF9WM2dnNkNwb3djcWN6NWlPNEdiVEVGUzM1Ml91OGYxdEprdndLbGxzUnd3T2cwZlBl?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTk5IaWRxNWhIbnRpcnExOHJ3QVkzM1daSWhjZEhfNXZSSkNScjBKbHFIVnhhTjJ1X0s5OGpNTVFNYk80TlA4SHlHMFYyN2ExSC14M21xbHo2WXlibUdnVlJybG11aFdIXzFlWjU5NjY4dXAzWXNZaGk5dVBSXzhtUDVtYVNqemZWLXRad1JlWUdIQ3dnN1djYXZLaWNRcHBUeTlldUNCLWhaSHgyZGd0Y29oeXlWY2dVWVp1WG5XZGFmNzJnLUp3cFZDRmI4NFBrN00yM3BBb1dUa3hsNHF0VVhOYzM5TXhIYXE4VF9jMNIB9gFBVV95cUxPT0EyR1pkT3NvTjRCMXg4alBRR2oxNmRVNFNibGV1THdwLXRuczVBNGotSEhzLUgzR0I1d1dOTDdwZ0xKWGNOamUyQllCbkg3ay1FYi1sSUdBSXh6QklqWEZpRG5PNG90bWx3Z1VzX2VYUFNwYXBHYjg1bFNIOFNsQm42S0Z1WlpUaXhmVFJZbXRuc2pwSlAzbUhQSXdadlhfWmNYSFo3SUhXdUYxXzdjYXBGWXBFX3V3UG5VQXZWamkyVmRMVTFDbkkyYzA1M1hBVlY0bkl3V3RNc3FSY3NZZUFjT0k3ak9iakI2Q1ZTbnp4akVkWUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliamentary panel member questions Railways' 'gifts': Attempt to silence MPs - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS3ppN2hfSjBJNFI2SFNRT0pjemhTMDRPdlFSYjhUYWd6TWZvMXdOWjFTcDNGbG9FbEhiZVJUbWZQTUg3cGtib1ZkWGNESDRVTEhEZk9JRnZFenp0Z3JUenlzYm1tb0lkaHU4WC1BU1NCVTJXSEhTU3ZNbGI3bjJDOVRzUThlcF9CSzg0Y3p6U3Y5Z0xLMlFFUUNGOTQzYmhPVUlaNHZDY3Y5ZWx4NnNmZnIzazkyUUNrY3JoeV9DTdIBxAFBVV95cUxNMC1TUWd0azQ0TkZfazBhdFRRLW91aHEyeGQwdC1UNmFkNkZPR04tcmNIczgtNGk5TDR2Mmd4YzRHMlVXTGF6ZlAzQ2VtRUhwTm05eTkwNWJaZlRBR05WTVNBV0xadDRHd1JmZ2YyTFdMbm1Ra05HWGN3TXg1SW5WUTZ0WTNxdEpOdUlMSFk0V2ZLakNQUGRTNjlYcWdkRk5kSFRuaGVHblVTMkgyNHVoNzB2ZEwyOVJMSG1NRDNzbm5OcXZx?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -304,27 +413,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "From Sweet Shop to Parliament: The Rise of Dalit, OBC Rights Crusader Sudama Prasad - The Mooknayak English",
-        "source": "The Mooknayak English",
+        "headline": "Door-to-Door Campaigning, Local Caste Equations Fuel CPI (ML) Liberations Victory in Bihar - TheWire.in",
+        "source": "TheWire.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFJKSUNJYlBvNi03eVdobE8yU0VsWnlKOEw4U3B6UnZXZXZxMENZLVdjQUZYSUo0SmM1OVZsLVkxSkpkSWl6aHVpZDRIR2xMemluYnQ3aHFPTDBBN0o1VGpsUF9rZ1FPUGZ3bEZhLXNmMGMzWlM5RGV3MkNNTmNpcHlLWkxreE43ZUxJLUozOWJVSzA3Mi10NEZ0M3YwMFE5NExVQ0lBWjZyS3AzZE1zdkFvN0RZOWpCQWQxOW1qONIBzAFBVV95cUxQM0VfSzMtbVpXOGdZOWJMelhjZHhTTzd5MEwwelZOSGlNQVFlanpSU2JwRUxXZ2loTWk2Y2locEgwS282czdMV3gzWmtxY05uMUJyblgxR2VmMEJfTjAtMk9NX1QzWnZjNjMtNFB0Y09TOXE4Yy1URkx6U2tTS2RRSHczVkMwUkJjNGM3TFotXy1GbG1IWUdsUkNLUWZNNGg2a2tWay1pekRVZ3Rkd3hZZlI3ZlFjdWR5Um5yZnhiQk5qbUtGa2pjb2JxemY?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVlNTSDlUN09KbE1sZlNlNF9zSlAzbWkzUXM1R1lxaUFvUHVQQU9ISm5nSnNla0tWSW1rSXgzdVZPWXRTX1p6ZEV2MEFOZTlFc3djWndVU1B3SVAwdVBFRmxraTJ3YzRNZmp2cjhUWXNlUlhsLXhLOVk2SkRMMTYzMjJVWlJweTlIY0NrTHJOSDc3TkptdHlOU0puS2JlRFp1R0d1QW1ER0tlaEZlN3lzc3htOWVRX3FOaDFfMTFn0gHDAUFVX3lxTFA3UmxmdTVKZEd4WFFUWFMyZWs3LXB3S21Eb3Jad2s2NGw4Z2t5cVk4N255UWR6eUtHVUkxQlNDUTNLLWlReEFOVU0tU3dXU0NfOXJQMmg1dWE4eXlmYTRRV3BYMzlyMjlLdkFfLXh4T0dzU3p3Z0Q5b1ZXTVZRT05yWWZLMmJvLXRUcDBWOFlkSU1HZk9RcXFBcXRkTlJYOWdwRU14dzdaZFN4UUNNeURKeC03NDRBWlVRdy0xVEFjLWVmYw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Red Revival: Sudama Prasad Becomes First CPI-ML MP In Three Decades - Outlook India",
-        "source": "Outlook India",
+        "headline": "CPI-ML stages comeback to Lok Sabha from Bihar after three decades - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2lLYWVIR0xwTlAxSEJJTElZbmFwQUNtVlhUV2xPZGpyVGpSSEtqbjFRNGdJY1UtenhFaFJBSmZLSGNiN0QyMzJ3aDV2V1ZUcFRUZWxCUGo0eHVjaWZiNmljc0c2LVJST0NRdHRKNG82a25lQ0tfV052LS1vSDQyM3NpOW5VOFlXb0t2dWhJTW9RNUIxV0preFNScEZWZE1ILWFacldwTdIBtAFBVV95cUxONWZrcXVySFNMRnVQWFBfYXUtOXB6UUNUSDBGS2NzMmd1YXhSUlVNNTlmT2Ezb19YSHlnMVdRZmh4MkZHOGZqeC1DbXhrQWdtSnMtczVxUzRVS3BhYUdjbGRodlJuRVF0S3VsWHBrbzZoUWY2MmhMYW5zMnYxSF9wXzFVaGVJaVgyYXM5amhlbl9TSEpsN3loOEx3bkx3VnF4OE9ZMXd2d2w1LUg1cXlBR1BiblU?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Arrah Lok Sabha Constituency: BJP’s RK Singh to face CPI (ML)L’s Sudama Prasad’s challenge in his bid to create history - The Indian Express",
-        "source": "The Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTk5IaWRxNWhIbnRpcnExOHJ3QVkzM1daSWhjZEhfNXZSSkNScjBKbHFIVnhhTjJ1X0s5OGpNTVFNYk80TlA4SHlHMFYyN2ExSC14M21xbHo2WXlibUdnVlJybG11aFdIXzFlWjU5NjY4dXAzWXNZaGk5dVBSXzhtUDVtYVNqemZWLXRad1JlWUdIQ3dnN1djYXZLaWNRcHBUeTlldUNCLWhaSHgyZGd0Y29oeXlWY2dVWVp1WG5XZGFmNzJnLUp3cFZDRmI4NFBrN00yM3BBb1dUa3hsNHF0VVhOYzM5TXhIYXE4VF9jMNIB9gFBVV95cUxPT0EyR1pkT3NvTjRCMXg4alBRR2oxNmRVNFNibGV1THdwLXRuczVBNGotSEhzLUgzR0I1d1dOTDdwZ0xKWGNOamUyQllCbkg3ay1FYi1sSUdBSXh6QklqWEZpRG5PNG90bWx3Z1VzX2VYUFNwYXBHYjg1bFNIOFNsQm42S0Z1WlpUaXhmVFJZbXRuc2pwSlAzbUhQSXdadlhfWmNYSFo3SUhXdUYxXzdjYXBGWXBFX3V3UG5VQXZWamkyVmRMVTFDbkkyYzA1M1hBVlY0bkl3V3RNc3FSY3NZZUFjT0k3ak9iakI2Q1ZTbnp4akVkWUE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHhTQ2dibEtZTzQ5U1pkM0lVX1J2QVRTZm9GMkJjSmRmN1lYQS0xd3pPOTlyeVdKLTV2UUJmcHBfZ1dIcVNQRThFRF9ocXdzbnRIcFQ4ODdZYjVNUHNySDhjUFFZd2EwazFEcEFpYnJfN3AwZDVtUWR3cTR4N1pqc0Y2X3BYQTJuMDNHTkJjclZGcVZNU09La0Jsc1JLbjA0LXRPbmhXRTNSZ012TlFNVWUxa0NoTjA30gHGAUFVX3lxTE8zMDFlZnlTc0F5OURRei1remlqc3dFcW1nYnJ3blEwMWp4aFhXcmNLYUF0Z2huejF6bnlkQ2Q5RFVtNFlObXdlSE9NaEs0TUFyR3ZaUHY0OS1WMjU5Tlc2UUNKZUcydmtLRDhiN1dndHA4ZVBfQ2NrRHhhOHo4dHRLRWJEMzVjbDVITjY2dTJETWpOZklTX0ZRWlk3VHo4ZmpLMk5tS3p2dnprdnNhV1FQQ09Yc09YeHh4WlRfbDd4LTRtc2ZvUQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -358,15 +459,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 26,
+    "starred_questions": 7,
+    "unstarred_questions": 19,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 49.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -374,17 +475,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

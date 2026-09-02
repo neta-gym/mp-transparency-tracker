@@ -4,16 +4,16 @@
     "constituency": "Ratlam",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5066,
+    "myneta_candidate_id": null,
     "slug": "anita-nagarsingh-chouhan",
     "house": "lok_sabha",
     "sansad_member_id": 5663,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 39,
+    "age": null,
     "photo_url": "/mp-photos/5663.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Ratlam",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 5066,
+      "myneta_candidate_id": null,
       "slug": "anita-nagarsingh-chouhan",
       "house": "lok_sabha",
       "sansad_member_id": 5663,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 39,
+      "age": null,
       "photo_url": "/mp-photos/5663.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:55.832765Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 52459353.0,
-      "liabilities": 186900.0,
-      "net_worth": 52272453.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5066",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.751080Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 40.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.72,
-      "expended": 4.45,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:27:24.226294Z",
-          "notes": "Official eSAKSHI REST API — Works: 203 recommended, 199 sanctioned, 19 completed"
+          "fetched_at": "2026-09-02T14:50:46.434601Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:46:45.801078Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:46:45.798171Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 203,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 30.272108843537417
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 75.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:28:23.249364Z",
+          "fetched_at": "2026-09-02T14:46:45.797050Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Rumblings in Madhya Pradesh BJP govt as minister threatens to quit after losing Forest charge to Congress turncoat - indianexpress.com",
+        "source": "indianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWlIWktCNkRsc29JY3RoVVBDZU9hdkpKalVyVDYxaVQ0LVlNZjNiNFVwbmF3MFZZMWlEUDRKLTR5R3c2dWpEd28xTjJpSzJ1N2xfUXhLNmo0dVdZV0Q5MFlqNVZ1N3FKalBpNWc0cFdFTEJxcVI4QUsyLS1FTWpkMW9wcWx1VGlFeUYyTUtPRVFxTmdraHBVY29JeFk3Y1VWUGJtUE9NTlJWdEtLOGhGWWlvT3EtRTE2b25uYVVKZDRlekpQYV8tYTMyWFZMY0Fibk9n0gHaAUFVX3lxTE5YZXc2elFvVVpMckpkaUh2aTk4ckRzdnlDRWhjaVJpZGJUSkdCMnRyTzZleWhOT2JMdG1nU3NESFZjcWR2N2p6RjRMaWZLdlNqQ2d1VVYwS0FzNFFpV3pmcUxOcmhxUV9haERpakhBaDFpT0YxMTBWZWRVcU1uTjVJNUhxQnFJZm1BbGJhazRwNnRFcjN5MmQ4U09UMTV2bVU5MUo0bTJIejhLMTJIYVQ0NWdNXzdRZTY3Vko2UXhvemhiMDFtUmM3Q193QU9FeDZzUFBNY0hKVUJn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ratlam election results 2024 live updates: BJP's Anita Nagarsingh wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNeHNVdGt2TWVUN0hmMXhtX0pMeHYzTHJ2cTZiR2NZcmZNRG9KWjRjTS1CcloxZmhCVFJrV1ZWbnZTakhubDJYdWlhN0duS0ZYUzlhM2lMRm1PMV9EV2d3ejNIUGU2UW1HUEI4STN5Mm1tZmFJR1RyaVhRREJXbTdiLTVwbGlja3hLbHdSOU5qY1ZnYXZKTDVoOVFxT0VWcW90ZFRjdUhyY3N1a0Ntem1tbXFFV2xoWHptR0ZqZDI0bjhuVFJkRC0tUTRVNzhFOVhyYjdJUnEwV2JJTE1vZGU0LUs0NTFPOHZmcXczMGdIWDJGSEdVV2QxUVJnNUlCV2oxenNnNGZkNWZ4VHFKZ21Wc1BGOEhyN0dVYlliT3FlelVJSGtfNlVnc042c0Z6QzVWOFVaWGo0N2stMHJscXluVERpYzRybWxNc3R0Rmp1N1IwNWNvWGZveTlDUVLSAeICQVVfeXFMT1Y4U0JKcHNGYUhxU0JiU0F4eFdaSXFPdDVFQ3ZHZTk4QldIT2ZoUFhFbTdkZzRvbk1jbC1kT1UwNW1xTXN6YWhIN3pDdDJtYk9YZVZSRDVNWlRXdkhFalBXd1k3Z213d01HNXlITnBhTE90LUJtd1ZFTVZKOUdhUVg2RmR6R1Zud2w0SjNaRWxnUk1yMGNDVkdobE9FaVdDSjdMWGMxaVYtcHNRaC1EcW1Xc2pKNFBRMlNSY0JIaGNnYTA4VWY0ZGVrUTB1X2F6eGNzZ1NaNVZKWnVuellwWTB2dHhiNGF6eFpVMF9xNHFTdlJwb2Q0V2ZmSW1Ld3d3QlUwLWlDODNYU1FwY1NRN0pQTzBxd1lxTU5yRVdLVHFvdGg2U0Zyd2cxR2ZSeWZfQnFac05FdmdsSkw0Q05maG1VU09YTXNtbW9tZWhkdlh2d1Exam9CcjZXMVlIcWVsR2ZB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - C - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUW5Ha2NndUc5ZktDb2tkUzhYM0w4Y1JSaS1LTGFWaEtUTUpfRzZTUF9aRVFOWWJpUkRmdnRmLTYxNzlzaFJoVGg2cnM1TVlHVnRvVXlIUlc2TmR6QVhYMjdkbXFteVJ5ZklYRHM5SG5haGhLaVpYSjZCYk5HVXFQcmJhUS16bG8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Madhya Pradesh: Stripped of forest portfolio, minister likely to quit - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0Y1bVNMZmpFSndIZ1hJS3RKa1dqRUd3M0daMnhaWDlQZkE3MjBMbWdiSGJTY2ZhQXZnUy1MWEVmejBUSkxUc2JJbHBhaFdfZkNWaTYyejdmNFNyZUhsMG5BSUdqUmp0OHNnMVcxc3JQd0lVQmlkb2d0MWtmUEZ5aEJ2Wk5tQVVrd3h1SkFxS3ZmUkJMdExCTHRzTlJOX2dZdmZkaFlyczR4U0NnQkFXUmNhV2trQzd4YWfSAccBQVVfeXFMT04wa3BReTJtQ09idUZRT2RiVEdTT3YtUm1XQTY0czBaaTNuUkVZMFhjcnV1eFJXUWFuOFRlUUFndHA1Nm1hbm1ON1FiVDVqcThGYk05Vi1FcWRyX1lId2lNTHhxQ0l4TG5LTXVJbXJJS2dxVnlsektNNGYwVEZFa3d2bVNWRUhHakMyUDlqSnZ1S3lwX0FHbjhyQnZlWllWQnBxbFhYODF0bjVPWTNyNWp1Nmp0OEc0Y0dvMG1QRkFmbnlmeUtfaw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nepal General Election - news18.com",
+        "source": "news18.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM3podGdYRzUybnlhNXMyU3dJdi1oNmo1akNnQkhEN0ZINi1mc1lRcnpiSmUyQndqNVoyb3dJbUF1TDU2X3NRTE5vN0t5X3AyR2lWa1l6Q2VFdE5UUElEVHNYNWNnUndWQmZzSVFKWFRkaWlNenZuLVBja0t4amVMRVlvT2hIZlVoejV4RWhQdngzeHpyU1QtbQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:29:22.776207Z",
+    "collected_at": "2026-09-02T14:50:46.435950Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.747544Z",
+          "fetched_at": "2026-09-02T18:38:07.225570Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.747553Z",
+          "fetched_at": "2026-09-02T18:38:07.225582Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.747558Z",
+          "fetched_at": "2026-09-02T18:38:07.225588Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.747563Z",
+          "fetched_at": "2026-09-02T18:38:07.225593Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.747568Z",
+          "fetched_at": "2026-09-02T18:38:07.225598Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.747573Z",
+          "fetched_at": "2026-09-02T18:38:07.225604Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.747578Z",
+          "fetched_at": "2026-09-02T18:38:07.225609Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.747582Z",
+          "fetched_at": "2026-09-02T18:38:07.225614Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -292,41 +345,17 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 9,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Anita Nagarsingh Chouhan - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb3diRVF1ZE5mSklVQkpwX183ZkpuQ09VRUZMTWE0dzRrS0hBcFVvOExXZWMzc0tlbnhRM091T3NxY2xORUYxOHhLMlZ6QTFxLWY5WjN4YVRORXBQRVlFQV9yNFFVMHMzcFBzeUFkVzdXQXJaWmF4aEtUMDBqLWZZOFZub2k0bFZ1TWdaaVFKWUEwaldqQmgtbFIyWHByYjlpSVRhVkJISTYwUi1DRFlqM19sakRjQ2JIY2hVTDV4clNSbE0xOU03R1R5Zw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Rumblings in Madhya Pradesh BJP govt as minister threatens to quit after losing Forest charge to Congress turncoat - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Rumblings in Madhya Pradesh BJP govt as minister threatens to quit after losing Forest charge to Congress turncoat - indianexpress.com",
+          "source": "indianexpress.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWlIWktCNkRsc29JY3RoVVBDZU9hdkpKalVyVDYxaVQ0LVlNZjNiNFVwbmF3MFZZMWlEUDRKLTR5R3c2dWpEd28xTjJpSzJ1N2xfUXhLNmo0dVdZV0Q5MFlqNVZ1N3FKalBpNWc0cFdFTEJxcVI4QUsyLS1FTWpkMW9wcWx1VGlFeUYyTUtPRVFxTmdraHBVY29JeFk3Y1VWUGJtUE9NTlJWdEtLOGhGWWlvT3EtRTE2b25uYVVKZDRlekpQYV8tYTMyWFZMY0Fibk9n0gHaAUFVX3lxTE5YZXc2elFvVVpMckpkaUh2aTk4ckRzdnlDRWhjaVJpZGJUSkdCMnRyTzZleWhOT2JMdG1nU3NESFZjcWR2N2p6RjRMaWZLdlNqQ2d1VVYwS0FzNFFpV3pmcUxOcmhxUV9haERpakhBaDFpT0YxMTBWZWRVcU1uTjVJNUhxQnFJZm1BbGJhazRwNnRFcjN5MmQ4U09UMTV2bVU5MUo0bTJIejhLMTJIYVQ0NWdNXzdRZTY3Vko2UXhvemhiMDFtUmM3Q193QU9FeDZzUFBNY0hKVUJn?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Ratlam Election Result 2024 Live Updates:BJP's Anita Nagarsingh Chouhan Has Won This Lok Sabha Seat - The Quint",
-          "source": "The Quint",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNazhMdzJ0aDg3eTBkcjlMS0pENHVScVotcThULVczSmRpbDQ3ZnUxemNvMjlWUzNuMENHa0RWTWtkd3lDbnJIUjRVS1ZiV2gzdElWVGJ6OWJ2bUVfM3FOUm1Pa0ktTFRoT3ZyQm1jSHctbzZiRnYxQzI0NzUtSXBDd3F2d0VGdEZNZUgtaGVMMUhuZm5OX1E4bm5pRVZXaGl5aHpZQ294aU02SVBBWm9FQjB0TjF5Z2ZrZHhoUXBJdk94QVRibWtBUk5n0gHXAUFVX3lxTE9RSXlvVXJDUHZFUHZoT0g1RXBnTVJSNnlST1l1T1d4aFBMVkxaT21aZVZBeU13UEJJb2lfWFI3WENTTEp1X2xWLTJwRzVpNVdsRHgtUXBqdWdNZ3dZU1ltdVlyS2MwTWhGUFZjSnZncXVnYlJUYkdmOElDWXRvQzVITC1QckxKQ1pQUWlVYV9PbDVDWmZseWhNRFB3Sks4SXZ1a1ZlZzdHMHZia19lVzVFRzBYVGJfZTA4c1N1elU0OUFqVE5kR0VuME5nVm1FcjlQNnJNN3FN?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Parliament of India : Lok Sabha Member of Parliament – C - Sarkaritel.com",
-          "source": "Sarkaritel.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUW5Ha2NndUc5ZktDb2tkUzhYM0w4Y1JSaS1LTGFWaEtUTUpfRzZTUF9aRVFOWWJpUkRmdnRmLTYxNzlzaFJoVGg2cnM1TVlHVnRvVXlIUlc2TmR6QVhYMjdkbXFteVJ5ZklYRHM5SG5haGhLaVpYSjZCYk5HVXFQcmJhUS16bG8?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -336,9 +365,33 @@
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNeHNVdGt2TWVUN0hmMXhtX0pMeHYzTHJ2cTZiR2NZcmZNRG9KWjRjTS1CcloxZmhCVFJrV1ZWbnZTakhubDJYdWlhN0duS0ZYUzlhM2lMRm1PMV9EV2d3ejNIUGU2UW1HUEI4STN5Mm1tZmFJR1RyaVhRREJXbTdiLTVwbGlja3hLbHdSOU5qY1ZnYXZKTDVoOVFxT0VWcW90ZFRjdUhyY3N1a0Ntem1tbXFFV2xoWHptR0ZqZDI0bjhuVFJkRC0tUTRVNzhFOVhyYjdJUnEwV2JJTE1vZGU0LUs0NTFPOHZmcXczMGdIWDJGSEdVV2QxUVJnNUlCV2oxenNnNGZkNWZ4VHFKZ21Wc1BGOEhyN0dVYlliT3FlelVJSGtfNlVnc042c0Z6QzVWOFVaWGo0N2stMHJscXluVERpYzRybWxNc3R0Rmp1N1IwNWNvWGZveTlDUVLSAeICQVVfeXFMT1Y4U0JKcHNGYUhxU0JiU0F4eFdaSXFPdDVFQ3ZHZTk4QldIT2ZoUFhFbTdkZzRvbk1jbC1kT1UwNW1xTXN6YWhIN3pDdDJtYk9YZVZSRDVNWlRXdkhFalBXd1k3Z213d01HNXlITnBhTE90LUJtd1ZFTVZKOUdhUVg2RmR6R1Zud2w0SjNaRWxnUk1yMGNDVkdobE9FaVdDSjdMWGMxaVYtcHNRaC1EcW1Xc2pKNFBRMlNSY0JIaGNnYTA4VWY0ZGVrUTB1X2F6eGNzZ1NaNVZKWnVuellwWTB2dHhiNGF6eFpVMF9xNHFTdlJwb2Q0V2ZmSW1Ld3d3QlUwLWlDODNYU1FwY1NRN0pQTzBxd1lxTU5yRVdLVHFvdGg2U0Zyd2cxR2ZSeWZfQnFac05FdmdsSkw0Q05maG1VU09YTXNtbW9tZWhkdlh2d1Exam9CcjZXMVlIcWVsR2ZB?oc=5",
           "sentiment": "neutral"
+        },
+        {
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament - C - Sarkaritel.com",
+          "source": "Sarkaritel.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUW5Ha2NndUc5ZktDb2tkUzhYM0w4Y1JSaS1LTGFWaEtUTUpfRzZTUF9aRVFOWWJpUkRmdnRmLTYxNzlzaFJoVGg2cnM1TVlHVnRvVXlIUlc2TmR6QVhYMjdkbXFteVJ5ZklYRHM5SG5haGhLaVpYSjZCYk5HVXFQcmJhUS16bG8?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Madhya Pradesh: Stripped of forest portfolio, minister likely to quit - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0Y1bVNMZmpFSndIZ1hJS3RKa1dqRUd3M0daMnhaWDlQZkE3MjBMbWdiSGJTY2ZhQXZnUy1MWEVmejBUSkxUc2JJbHBhaFdfZkNWaTYyejdmNFNyZUhsMG5BSUdqUmp0OHNnMVcxc3JQd0lVQmlkb2d0MWtmUEZ5aEJ2Wk5tQVVrd3h1SkFxS3ZmUkJMdExCTHRzTlJOX2dZdmZkaFlyczR4U0NnQkFXUmNhV2trQzd4YWfSAccBQVVfeXFMT04wa3BReTJtQ09idUZRT2RiVEdTT3YtUm1XQTY0czBaaTNuUkVZMFhjcnV1eFJXUWFuOFRlUUFndHA1Nm1hbm1ON1FiVDVqcThGYk05Vi1FcWRyX1lId2lNTHhxQ0l4TG5LTXVJbXJJS2dxVnlsektNNGYwVEZFa3d2bVNWRUhHakMyUDlqSnZ1S3lwX0FHbjhyQnZlWllWQnBxbFhYODF0bjVPWTNyNWp1Nmp0OEc0Y0dvMG1QRkFmbnlmeUtfaw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Nepal General Election - news18.com",
+          "source": "news18.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM3podGdYRzUybnlhNXMyU3dJdi1oNmo1akNnQkhEN0ZINi1mc1lRcnpiSmUyQndqNVoyb3dJbUF1TDU2X3NRTE5vN0t5X3AyR2lWa1l6Q2VFdE5UUElEVHNYNWNnUndWQmZzSVFKWFRkaWlNenZuLVBja0t4amVMRVlvT2hIZlVoejV4RWhQdngzeHpyU1QtbQ?oc=5",
+          "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -368,15 +421,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 1,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 1,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 1.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +437,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 75.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +495,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 52,459,353. MPLADS utilization: 30.3%. Parliament attendance: 75.0%. Questions asked: 1. Debates participated: 8.",
-  "validated_at": "2026-09-02T01:36:49.748308Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 75.0%. Questions asked: 1. Debates participated: 8. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.226346Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Viluppuram",
     "state": "tamil nadu",
     "party": "Viduthalai Chiruthaigal Katchi",
-    "myneta_candidate_id": 1209,
+    "myneta_candidate_id": null,
     "slug": "d-ravi-kumar",
     "house": "lok_sabha",
     "sansad_member_id": 4972,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Others",
+    "education": null,
     "profession": null,
-    "age": 26,
+    "age": null,
     "photo_url": "/mp-photos/4972.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Viluppuram",
       "state": "tamil nadu",
       "party": "Viduthalai Chiruthaigal Katchi",
-      "myneta_candidate_id": 1209,
+      "myneta_candidate_id": null,
       "slug": "d-ravi-kumar",
       "house": "lok_sabha",
       "sansad_member_id": 4972,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Others",
+      "education": null,
       "profession": null,
-      "age": 26,
+      "age": null,
       "photo_url": "/mp-photos/4972.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:22.178259Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 180000.0,
-      "liabilities": 0.0,
-      "net_worth": 180000.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1209",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:52.148249Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 0.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 17.35,
-      "released": 17.35,
-      "sanctioned": 12.05,
-      "expended": 9.36,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:46:11.894075Z",
-          "notes": "Official eSAKSHI REST API — Works: 253 recommended, 252 sanctioned, 214 completed"
+          "fetched_at": "2026-09-02T15:14:12.890770Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:10:06.729242Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:10:06.727238Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 253,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 53.94812680115273
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 40.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:36:42.917566Z",
+          "fetched_at": "2026-09-02T15:10:06.726464Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "VCK MP bats for cabinet berth, says Vijay shouldn't induct AIADMK rebels - The Federal",
+        "source": "The Federal",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObnN4MUFpMEFLUmpZVVNyVTRXa2RvT1BSSkMtdUhWR2ttdFVyeEw1YW8yUlpCMWpEdEc0alFTY2doTDJ5cEI3ZS11UGVVeXY5bEJveW42d1FzUXdqSFJsd2JqdmppaVlwQ0U1OHNNNnV4WWZHbk0zVUhacGo3UWRUWERlZnhMNmNYVmQ2Z1NzaUxpWHNkRXBpVm5DY3BVVFlkUmN0NDJkdDNZMnBtcFNpNVRwTWJsOU1jaWNTazJBdHFkMjNzUjA3OEwxa0xPUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rewarding rebel AIADMK MLAs with minister posts raises serious ethical questions: VCK - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLVh6Y19DdTVvd1ZmSG9sU1J5RmVHYUc4MFhWQkxLQy1lUGNXcjJkTXFsbTdVbzJQaUt4TzRKUWtCNUx0VFpzYUdBTmQwVE5ENGk1Ml9tQ2pMSENKRkt3MFhsaUdCRUtLMmpqN3FLQ3VCQ1MtVGlTNTN2VTM3Qk5hclZHZWNIb0NPNThfMldDUEtnaWZaOE5fOGVGdXJGb2FDQ0NobmhWTWlKNE9WcWVsbWs0b1ZJTTY4RXdLV0l0QWtBMlJ4SlBDTTFmdmpSY2RnbnRVaE40WDEtSmRJbnpZZ9IB7gFBVV95cUxOajBIUFNZSW5EMnE4VTYtNkE2UVBhYVBFdFdrNnRZT29pclFyWmhlRG9RbGJ0RFNBU1BSTUdEMWpqR1dUN1RBNUg1YUgzUi16U0EyaFptX2I0Q0p0eVYxb0Q5ckt4WUxzTGJnelA3dW5JMEJqT3pkZ21MZVl2SDZRc0UzNWtrdFRQTTViMC1fSDhzTHBCcHhhRkx6UW9xOXRvVTE4NGktOEIxM3lzY1ExUUc1Z0VLVG85OWhPNlNZNHMwQ0tJTG90Zmo0dGdaaVJWTzRSeGJNZ280bHZxU0c5XzIydFAxbDNzTmxkTk9R?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dalits' share among prisoners as high as 50%: Villupuram MP Ravikumar - DT Next",
+        "source": "DT Next",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHhTS3dRakdBT044ZlVRMFRTZUtLYTM4TEh3NzJjNm8wTVZvQVFOb3AtcC1pREpOM0FyNVFTV01wNFBvYkZMTWxVTHVKNnRzWUJ1WDFnNlBCM2JMZkVqY3ljYVh0amJnVGJYN0wwLUplUy1obEFXN0xDaHZyNmc0bzd0SWVVZFhOQWZUOHVZa2lUS0ZMX3JTYXVmTmhMNjk5SVVfRjJzeFVkaWVwTEZN0gG8AUFVX3lxTE00NG9FNU9kZURaXzdXdF9xRVJ3cHJnQ1N3RFltOW1lTFlnQTBOOFBNTkRpbFQ2Q1VKSzFBZ1lLZEpvQ1BoeXVCZGFCUzludkZzVzFoQm43WHU3MzU3LTRRTkJEZ3NhNjRSRkRqVnJoSVBRWjFjUFZMWVotNGRleDJKc2dxTU1VTEJ2T082M09wenM3eTZtZW80N2JCMjF3NlJVYVZaYTFyd1h6Mlp2b2g0cTE2djQtaFI2TE9u?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Villupuram MP urges Union Finance Minister to continue GST concession on car purchases for persons with disabilities - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObUd5bm9KcTUybE1CS2NhNWl0c1JRRlludVpzZVcwNkw2MmhIZTdUMVdJZll2Q2oybFM2TVBFcktnaXJGYU9kdEo2aTFQYnkzUFpNZ1J6WWo2TlVnMmJOeEFkSlhqNHlMamplM3d6NUhCYS1VZjMwakdvaEJXc0dxVzlkSFpPREFQbk96emU3NmtwTEVRRFZOX3RPV3pIWkozaVpMSmdpaUZZZUxVVm9tSTZpOXljWWZ6ZzI3UmFaUEhScHRYcHBRYlYyNHNRUGJLVGxWOUl3VFNQanYxbm8wdFUwZlp5RGVJcDFOdmJhNnFGY3N1S014NUFHLWROcjVyQ0dzODdEYzBtVHR3bXktSXVXa0zSAZsCQVVfeXFMTTlnSUtLMFlSZ0xhQXp5b0FzeGg2bDVzWG45YmRPV1dlbzlIcjJQNGtvbzZDQm1aNkVkTmY4dXo3TmZzTzlBcWhfNWxPUUxrcWkxRWRNRnJHU3NweU9wMmFHTFZDaWZ0eHRud2tIUDhuOWdrOFdjVWN4RS12TDBVcUQwMkkwbGRzaWZFVUFlNjRDMzdUM09FR1Q5S1owRkl6WkljOUdKYWJmMlZZbll0UXM3Y0NjLTdYTm1MVklYUFF1RUNWa1MzU2NueUNtNjdtanpTeE4xQnp2eTlaMTZSajFiMFFwZGxNSE9waXBsZjR4TGhpOU84VHgxMUpJd1BaY0E1NVZ1SXFtd2VtLXFYai1FM3VwM1hubUtCcw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Villupuram MP slams Centre for ‘blocking’ Vikatan website, demands immediate restoration - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPY2lpN256U0NuWllBWUVHcDhuV1FneXJ2SlVoTmJwcGYwQUZOX1cxWVVub2hRRkN1SDQ0d0JMZHBBNVFXLUJtSDlUWUpzR1lJZy12RzE2b0Vyb011WGFqdUE4WFZSczdaWXVEUEFjb3VJeXNiMGE3RG50MG1iUTYtQVIzMUI1OWhpWkVFbXdTbC1vTUVtRWs5VEw5MVBVMnptS0FuVE1zQTJfWi1fT1E5ekZmT3A2WUhzak56QkVyUnRYaEhwQ2VCWHQ0LW9xbjl5QlFTTldRckdGQXpmNzNLRWY0M1VaWEIyVTBWUG9vb2k4d9IB9wFBVV95cUxOeUhfUzRsZWk0RWI4Z1Rsay1DM292OUpIQXpxbnY5YlQ4VUpyX1FYVTlmdzgxaTlpRVNnVzQ5cGYtSXllX0FDMFlvQkV0OHF2dFNmejRFcjE4QmFsOXg2LUgxMG5VQ1hnVWQzalRRRlVlSjRsYnNUR3JnMGdEVnRRQ0JRQk9vMV8tRHIyazVJVmtBMEd3QjRmVTg3cEk2OW5UY0FUeUpUbWpON0RIQTB0VHMtNVZ0VnhJMzdkVVRCQzJiMDBMbnN2VlVUOUVvOEtFLV9SQVI0QU5CQ2VZaUtSUEl6OExEVURRaHhOSmZzZll4SzNtcHlR?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:37:16.515997Z",
+    "collected_at": "2026-09-02T15:14:12.891632Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.298973Z",
+          "fetched_at": "2026-09-02T18:38:09.743966Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.298982Z",
+          "fetched_at": "2026-09-02T18:38:09.743983Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.298987Z",
+          "fetched_at": "2026-09-02T18:38:09.743992Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.298992Z",
+          "fetched_at": "2026-09-02T18:38:09.744000Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.298998Z",
+          "fetched_at": "2026-09-02T18:38:09.744010Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.299002Z",
+          "fetched_at": "2026-09-02T18:38:09.744017Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.299006Z",
+          "fetched_at": "2026-09-02T18:38:09.744024Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +322,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://writerravikumar@twitter",
+          "url": "https://x.com/http://writerravikumar@twitter",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://Ravikumar@facebook",
+          "url": "https://facebook.com/http://Ravikumar@facebook",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:10:17.920186Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,43 +360,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "‘Raises doubts on political morality’: VCK MP Ravikumar on rumours of Cabinet posts for AIADMK MLAs - The News Minute",
-          "source": "The News Minute",
+          "headline": "VCK MP bats for cabinet berth, says Vijay shouldn't induct AIADMK rebels - The Federal",
+          "source": "The Federal",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNC1tb1lJWmY1bzlpREE1V1NGYUdnZTN5UnltX3FsV0JNbGZHdUgtNEJEdFI5aVZMS3VxZHIzWEI5NzcyLTk4b24wbVRsdkoxb2kwZVRra3NzbE84b1JhZWt0dHhwZUw2OHhxankxaW8zbHgzWmtOelFzMWlIVTBBVWJkSXM5ZmZWMVhKajRLOUZtYzd6d1pWMUNBU011NGxrQkUwaGJOSExfektoZy1PVHFUaXlZRHFnXzRhRjhuMEdVMkpsWUQwWVdGYzQ4YzAzbnpz0gHgAUFVX3lxTFBFcXlDemlPMGFpLUFzZWUxM3RoX21vSGhOanBoSm44cC15TUNpSllFd2h3SkZVMWhkYWd4NzU5b3BreTFhZ2V0ZGlTZDltbFJBX0RZWElxbGFTQW1mcGJ4MDJzNkNkUHhKRHFlM0FtX1c4TFFtOWNYNUtvLWlDcFRud1laX0RDNHJhUXdodEV3cHF5MzBEWHNodGJxT1hiU25DSHVWeGwxNjYwN2tadXFERkZkYWJlVmFhLU5MeWdwbHpubmpDSnFrLTRHZ0xuTmhIeEp6YkRSVnhTb09iUGQ0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObnN4MUFpMEFLUmpZVVNyVTRXa2RvT1BSSkMtdUhWR2ttdFVyeEw1YW8yUlpCMWpEdEc0alFTY2doTDJ5cEI3ZS11UGVVeXY5bEJveW42d1FzUXdqSFJsd2JqdmppaVlwQ0U1OHNNNnV4WWZHbk0zVUhacGo3UWRUWERlZnhMNmNYVmQ2Z1NzaUxpWHNkRXBpVm5DY3BVVFlkUmN0NDJkdDNZMnBtcFNpNVRwTWJsOU1jaWNTazJBdHFkMjNzUjA3OEwxa0xPUQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Any Cabinet berth for AIADMK rebels ethically, morally wrong: VCK gen secy Ravikumar - DT Next",
-          "source": "DT Next",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTQ1ekZWSnV5S2JxaXpVNmpsUk1mekw3YVFiY1pFVzBHZ2VON29XdUxqZGtraEVpb2ptUHdZbFlYY1V6d0wxakdfTnJnR29kVEZnUUFhNDB1cUlmLWIxazlZd3BtQV9ibXRFYUpNejc0c0lnWmR4cHgzcDFfZmt6Q3hyczdBck0zNzlVaUNKODhNVmVUTUR0bXBwRXlodDZ5NkExMmZJNnhqVVVjbExESFFKZkc2d2l1emZha0xlNnNUZ9IBzwFBVV95cUxNWDB1SDNqdURGU1gxVlIwa0djbUhMYlVyRkkzNWtEV3BtOGI4TUwxQ0ZlVGdSaTk0TmRGSFZXVGp4cXlPaVJuVENKcnBTZjZsQ2Y2UFlYNEt0Mm9LLXY1cldZZ0Q3WjhHR1VTZ3NYVi1aMXpyM04wSWZEZlVjd0Z3ZWcyUEFPLUs4eGRVZEtiTzl1UXdOdFFuanFOLThoRHpMLTM0WXQzSWNDU0pOUDVTZmp0WUtkUEd2ZzR0RUR1YUR4RlFma3RhNDF1ZjFQZTQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Withdraw Draft Indian Statistical Institute Bill: Villupuram MP - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWFZUb0t0SjZzYnQwUDR6aVRjU0w0dzFoMDI5NTN3VGc4RXh5S0FRQmFnemFvLWxqT29lOEJKT1JvN3hpQ3E2Q09OSnBiUkFJMFA5ODJVOTdudDE0ejFvTFcxY2lRb0hwMHBzNmQtdl9aS0MwSzF1eWZXbG9XYTdsY2JMWDhBMWxzZk5GeDI3a0RrUWpTSTJUNnZpbXpRWVliQjloZ0pWQjlvVzdocGpLNHRvcnRWcUJ0eF9XODd1ZWRMWHZnNGc5akJNUWXSAdMBQVVfeXFMTXNxbVlGNlBXV3dXZlR5dV9WRlZKVlM2NkRVZnBFWXdkeDNmMkZ0MG5vNGIyYTJlVmNzdDFJc0FXT0hiYXNpclItQ1dyQ1RZbkxYUUsyM2duOWU2cm9Mdkw2YnQxQnYzOXU1eUFxSU9TZWcwRjZ2U1dSNWgweFVSVnBaQlUzVFZLa2NGM2RBQ1R5LVRTLUZQWmpRekVWakpUdFYyOHp4V1FzUUVlSzZ3d196azYwUFNkR0ZEUUVSRFNnaG84U19aS21fM0lqQ1BtOXJVMA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Villupuram MP urges withdrawal of Draft Bill released by MoSPI - The New Indian Express",
+          "headline": "Rewarding rebel AIADMK MLAs with minister posts raises serious ethical questions: VCK - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkZHN2J0blZsY0l1UjRtUFBlbkhGbXpjTWpHOHQxUXF3OEJ0dlVzMENYLWZYaWZjZ3JHMWJDZGxVZ1RQS0ZGY09scDNJSWtnS24yTThOQW9scnpqTVc3d2ZYaDRXcFc0QWw1Qm9RUkNtMHM2YmZFcnFVWlZ1dmpuYTVENnJDNFBMajNlMVk2bVlTOEZuSjl0bllGZm9wVTI1UkNXR25WbFVnaXotTTl1UU4xb3RTZW05R2MtZ3JSbklhaWvSAdABQVVfeXFMT2pvMXhPNDJZbHRBelNGdUtmR0hYS2dwX3NyVGNuZGJMZWdsV2pSR2daMEdCYzZJWkdaTDJGUVVPUDEzaVZnREozaFZYdldQaDlVN1Fzb21TY1NzWk1pSWlxVFJweW5XY3A1ZnRxVGNLWHRDblNXYkk5ejQ1SFZ6NUdjcW9hQktSVTV1MkJHSDVJVXp5YTZ0Wnh6clZMeVF0ZFpOd2M4cnlabDRyaWtWdUNMdjJ1eGVnTlpUMGN2dmxuRDMwZUVKSkI3d051S21DdQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLVh6Y19DdTVvd1ZmSG9sU1J5RmVHYUc4MFhWQkxLQy1lUGNXcjJkTXFsbTdVbzJQaUt4TzRKUWtCNUx0VFpzYUdBTmQwVE5ENGk1Ml9tQ2pMSENKRkt3MFhsaUdCRUtLMmpqN3FLQ3VCQ1MtVGlTNTN2VTM3Qk5hclZHZWNIb0NPNThfMldDUEtnaWZaOE5fOGVGdXJGb2FDQ0NobmhWTWlKNE9WcWVsbWs0b1ZJTTY4RXdLV0l0QWtBMlJ4SlBDTTFmdmpSY2RnbnRVaE40WDEtSmRJbnpZZ9IB7gFBVV95cUxOajBIUFNZSW5EMnE4VTYtNkE2UVBhYVBFdFdrNnRZT29pclFyWmhlRG9RbGJ0RFNBU1BSTUdEMWpqR1dUN1RBNUg1YUgzUi16U0EyaFptX2I0Q0p0eVYxb0Q5ckt4WUxzTGJnelA3dW5JMEJqT3pkZ21MZVl2SDZRc0UzNWtrdFRQTTViMC1fSDhzTHBCcHhhRkx6UW9xOXRvVTE4NGktOEIxM3lzY1ExUUc1Z0VLVG85OWhPNlNZNHMwQ0tJTG90Zmo0dGdaaVJWTzRSeGJNZ280bHZxU0c5XzIydFAxbDNzTmxkTk9R?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Viluppuram (SC) Tamil Nadu Viduthalai Chiruthaigal Katchi - The Times of India",
+          "headline": "Dalits' share among prisoners as high as 50%: Villupuram MP Ravikumar - DT Next",
+          "source": "DT Next",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHhTS3dRakdBT044ZlVRMFRTZUtLYTM4TEh3NzJjNm8wTVZvQVFOb3AtcC1pREpOM0FyNVFTV01wNFBvYkZMTWxVTHVKNnRzWUJ1WDFnNlBCM2JMZkVqY3ljYVh0amJnVGJYN0wwLUplUy1obEFXN0xDaHZyNmc0bzd0SWVVZFhOQWZUOHVZa2lUS0ZMX3JTYXVmTmhMNjk5SVVfRjJzeFVkaWVwTEZN0gG8AUFVX3lxTE00NG9FNU9kZURaXzdXdF9xRVJ3cHJnQ1N3RFltOW1lTFlnQTBOOFBNTkRpbFQ2Q1VKSzFBZ1lLZEpvQ1BoeXVCZGFCUzludkZzVzFoQm43WHU3MzU3LTRRTkJEZ3NhNjRSRkRqVnJoSVBRWjFjUFZMWVotNGRleDJKc2dxTU1VTEJ2T082M09wenM3eTZtZW80N2JCMjF3NlJVYVZaYTFyd1h6Mlp2b2g0cTE2djQtaFI2TE9u?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Villupuram MP urges Union Finance Minister to continue GST concession on car purchases for persons with disabilities - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObUd5bm9KcTUybE1CS2NhNWl0c1JRRlludVpzZVcwNkw2MmhIZTdUMVdJZll2Q2oybFM2TVBFcktnaXJGYU9kdEo2aTFQYnkzUFpNZ1J6WWo2TlVnMmJOeEFkSlhqNHlMamplM3d6NUhCYS1VZjMwakdvaEJXc0dxVzlkSFpPREFQbk96emU3NmtwTEVRRFZOX3RPV3pIWkozaVpMSmdpaUZZZUxVVm9tSTZpOXljWWZ6ZzI3UmFaUEhScHRYcHBRYlYyNHNRUGJLVGxWOUl3VFNQanYxbm8wdFUwZlp5RGVJcDFOdmJhNnFGY3N1S014NUFHLWROcjVyQ0dzODdEYzBtVHR3bXktSXVXa0zSAZsCQVVfeXFMTTlnSUtLMFlSZ0xhQXp5b0FzeGg2bDVzWG45YmRPV1dlbzlIcjJQNGtvbzZDQm1aNkVkTmY4dXo3TmZzTzlBcWhfNWxPUUxrcWkxRWRNRnJHU3NweU9wMmFHTFZDaWZ0eHRud2tIUDhuOWdrOFdjVWN4RS12TDBVcUQwMkkwbGRzaWZFVUFlNjRDMzdUM09FR1Q5S1owRkl6WkljOUdKYWJmMlZZbll0UXM3Y0NjLTdYTm1MVklYUFF1RUNWa1MzU2NueUNtNjdtanpTeE4xQnp2eTlaMTZSajFiMFFwZGxNSE9waXBsZjR4TGhpOU84VHgxMUpJd1BaY0E1NVZ1SXFtd2VtLXFYai1FM3VwM1hubUtCcw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Villupuram MP slams Centre for ‘blocking’ Vikatan website, demands immediate restoration - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzBRcU01S1J3cDBIUkV0QjY5ZXdlcVJqWTd4Tkk2QlZOWG92dUZCUDNqVU95cmo4RDNyUGEtMjRnNWltd1gwa183TEl6NUctZmJuMlQzdVRDd29uY2J2Q1hJR2wtaXVTeDROazBFeVVsdmJ5Y0dxeXlQMHBOZXE3YVUxSDFLOTFnRVhiUlhpLW5ybS1XWHVGVVhDVkpYelVOUDVSYm9WYm5tdW9XY0ZvbGxrU1BjOUtNSFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPY2lpN256U0NuWllBWUVHcDhuV1FneXJ2SlVoTmJwcGYwQUZOX1cxWVVub2hRRkN1SDQ0d0JMZHBBNVFXLUJtSDlUWUpzR1lJZy12RzE2b0Vyb011WGFqdUE4WFZSczdaWXVEUEFjb3VJeXNiMGE3RG50MG1iUTYtQVIzMUI1OWhpWkVFbXdTbC1vTUVtRWs5VEw5MVBVMnptS0FuVE1zQTJfWi1fT1E5ekZmT3A2WUhzak56QkVyUnRYaEhwQ2VCWHQ0LW9xbjl5QlFTTldRckdGQXpmNzNLRWY0M1VaWEIyVTBWUG9vb2k4d9IB9wFBVV95cUxOeUhfUzRsZWk0RWI4Z1Rsay1DM292OUpIQXpxbnY5YlQ4VUpyX1FYVTlmdzgxaTlpRVNnVzQ5cGYtSXllX0FDMFlvQkV0OHF2dFNmejRFcjE4QmFsOXg2LUgxMG5VQ1hnVWQzalRRRlVlSjRsYnNUR3JnMGdEVnRRQ0JRQk9vMV8tRHIyazVJVmtBMEd3QjRmVTg3cEk2OW5UY0FUeUpUbWpON0RIQTB0VHMtNVZ0VnhJMzdkVVRCQzJiMDBMbnN2VlVUOUVvOEtFLV9SQVI0QU5CQ2VZaUtSUEl6OExEVURRaHhOSmZzZll4SzNtcHlR?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +430,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 45,
+      "starred_questions": 13,
+      "unstarred_questions": 32,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 87.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +446,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 40.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Low attendance",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +477,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +504,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 180,000. MPLADS utilization: 53.9%. Parliament attendance: 40.0%. Questions asked: 45. Debates participated: 6.",
-  "validated_at": "2026-09-02T01:36:52.299741Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 40.0%. Questions asked: 45. Debates participated: 6. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.745222Z"
 }

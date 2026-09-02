@@ -17,64 +17,78 @@
     "photo_url": "/mp-photos/4971.jpg"
   },
   "criminal_record": {
-    "total_cases": 1,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 1,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 251978580.0,
-    "liabilities": 52721862.0,
-    "net_worth": 199256718.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 74.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.65,
-    "expended": 6.07,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:20.285534Z",
-        "notes": "Official eSAKSHI REST API — Works: 106 recommended, 100 sanctioned, 57 completed"
+        "fetched_at": "2026-09-02T14:35:11.875619Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:31:28.212259Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:31:28.210179Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 106,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 41.292517006802726
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
-    "attendance_percentage": 75.0,
-    "questions_asked": 40,
-    "debates_participated": 10,
+    "attendance_percentage": 85.0,
+    "questions_asked": 33,
+    "debates_participated": 7,
     "private_bills_introduced": 0,
     "is_minister": false,
     "source": "prs",
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:37.747527Z",
+        "fetched_at": "2026-09-02T14:31:28.209351Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Cuddalore MP reviews development works at DISHA meeting - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRm5IcEl5eWFOd25PRDZURWl6eGZadEt0ZmdYOGt2U0NOdVYyRjVodEJJV0tRa1ZiLTVDVGRrbzlmcGFDR0QxNlRZcjlQaWhyZS1vNmJCZ1U2dGJMT1I5UFQ0Sjd0QVJsS0pFN2VMNzZidC01cmdfb09ualVsU3Fwd2VWSkpIUnZ2RXd0RVBvT00tZ0Izak95UUhqM0lZQzEwdlk2b3BxWDU3djJ4X2txbWxsRkkxVjU3bDJsWUtvaWgyczjSAcoBQVVfeXFMT2pzZWlnQWdsdlVBcE9fQ2lZa1pFNm5WYVY1WVFLY19aMW9IWEdKQkRSUmdjcjFBMWJVUDZMaWFtck1DZ2NLU2JiLWZOTlFHbDN0eXlYYnViUDFUOGtXQUlDNDNpb1lwWXlnWUNTOU4wNUNVWkEyWUI1YU83V3U5OF9qVUNxTzhsMW9rRGRGemtSNVBqWWIwY2V1UTNxclhSTFpmQ04wakhDV0lxVmVJekN6VkZUbHF1TEpqR0VScEpGTHQzVDBnZXNsdw?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Wait is over: Tamil Nadu Congress list with seven names out - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZU1qdlZ5Y3lZb2dDN0puZTZnbUIyUzh4dmRjd2licUM2XzB6aTZNZVlLSVVGclVhVWRCQXRQQWJCeE1MR1Bhcmt4QWM3U0lLeTRldkpJMlBobXdhT0l6Y2JqVGl3WkI1Z04zLUVQXy1YbUdQbkhzVTZLMzFOaXJiSzFrWkVIc0ltaHJGMzgtMEJZZGZ0d3liTXpsMmpFaF9IM0tSMlVSakk1VmhhTllnNEhXdGI3UkptM0gzNFN30gHLAUFVX3lxTE15XzFaVTQtTjd3UTlXTVNqcjZNSTd4UEZSWHlTV1VRNjVFZnRKZXN1R2RtYUxFb0JiaXM2Z21OSGhxSk5seXJrWHdIenVUWE9RVV9aUnc4S0RGLUsxTmdTemdsLWRtN3lVSDFMaE41SkllNFRlSDVKUlVqdkJnbjZuVlRiRnNMT3czLUpISEgyVktvVlJSN1hyQmIydE50eWtZWnlFTEx5eUw0TVRMNGZaV0prenpHajhRaDkyeTkxcXZzTmZGWFB4NXdz?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP alleges Rs 422 cr fraud in NLC - DT Next",
+      "source": "DT Next",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDUWJINWRLUTQ5WktHQWtOcDZreWp4dmFVdFpLa2lMcVR1TU9pYWhPVTRMbHIyenVFdnhnSmlrUzZfVjlKeFBnalFYUkp5S1EzQUJlWlFSN29XbHI4OEZxSnVDU3BocHprT0ZjR3dHM2pOTGppckhNaWtn0gGHAUFVX3lxTE1KMkV1WHdzMkhBdmNxYTNJNFNOMmhxNHdTWEZkNG9aV093NXpQRzBnSnJ2YVJUZUQ0b085bHQxbl9VazhQaERxNThybldtLW9BWFQtd0ZBWEdiR2EtVUFINFVVSDhDbFdRLVVFWkFWZFUydzhkbm10bXlqc1pLVmozdXBEbS1zUQ?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Farm land acquisition, industrial pollution key issues in Cuddalore - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcDJvdm9tQWJFeEh6bzN3UFNDcFFZSGI1WXFydDkxV0F5bkFlNW4zRldJNjItZkpCamxrY2V1VWc0ZENUOWVoN0otc0hmVzhHeXZvV2lYN213ZmRzMlE4ZEtHbjhiT09VT3V4Z1JlN3M5R3R5a0ZFLWFhTDRWcENPaFpnd05KWG9qZHBDbXBfVWhqYmt4NlIxRXNIU1d3amMzOVB1T2JmRjZiSmxMMHFNNTFHTV9VM2dUVXdnVnRCZ1hzYnNVMUdiSVVpbU02RkJGNW1lejRJa1c5a1A2dWZqQno3VUJ1cnFlb2Q4S2luN2pNNlM2X0dFdUo3YTRXdWfSAYYCQVVfeXFMTTRpZjBlZ3hpRVVrNHBkYXpOWUlUem5XdFdUVExuNGowZ3NjWjBmUDBiSl9PSkNiM0lYS0g0ZG1ISEFTc2lVUm9lTFBpZG4zQUVjUHFRaFNJX3NVQkdIWjZzdGhzT3Y0bENyMkUwSmowNnF5V0JqUWJpUUVyVXFRLUhILWNmRmpPWFBSTE5qTW4zLVVpcTVMbWx4VEg0eGtPVTlTa0F6cmdfc2J2OU5CVUt6LTNiS284aDNtTWlNOFVLU3NMM0RXQWpDdmN1MjVkTkNfR2pZenBDaHozeEpYWGtIWnM2RG1DM0JaY0Q3Z0NMZEMyOC1LVjdiOGRiT3B0cGZfRXdXdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Over 2000 people receive welfare aid worth Rs 30 crore under Makkaludan Mudhalvar scheme in TN's Cuddalore - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcHhidktwNDRkNFExdDN1TDhXNE5QWXotakpRT1NSVVZjLWsyYldtcGlYZ0w3QWZINnA5RlRsV205QUdCSXVaS19MQ0lRVmJHRUNNQlY2MDFIMF93a2JMNV92djFsd0hyZ0o5M19fMzBhYlpldjEtRDlJVlJKcHpBZ2lpd2lMcUFfeFJkbXl0V24yelFSWlFoQk5Ob0lvbDc2VjJQal9feTExQXNFUXZadzNSQlJCb1BjUE9TbVhNd1g1dUFXMUF5d1Q5REtoZU8tLVkydW8wZTF1dWZkd2Q3T0FwT1p1Rnl4bjlJX1pRaVpyWXZGbjBHY0NMSzXSAYoCQVVfeXFMTnB5d2dULXNoUE1MeTBfWVpubzNaaXBkaEd6X1BqTzRnS3VQRTJVTWZwaDFEQngwR2Izamhlbmx6dzVMRHF3UzBTVFNlQTNkNjV1cGVsNkdEY08xZVZxUFJLZ0dGc2ZhZy1KSnpiQVNwV1pqRDJLMUFZV1d4TmZkY3VWS2F0Zlg5QzFHeUxCdktIYWUtcjhyRC16ZWl2cnpUQzBlcmIzNzRxM3NiTmdVMmxPX2hDLXpYLTJFZUlKRUFvckdkX1Q0RjlvYXY4MkYtZkNFVl9mc1NGaGVpM28xVk5lbEVqWmU2Y3QwT01mbG55SkMzaW5fck5LY0pTaDBKYlV4RkVxZkZ5Y1E?oc=5",
+      "sentiment": "positive"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:41.016141Z",
+  "collected_at": "2026-09-02T14:35:11.876513Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.464159Z",
+        "fetched_at": "2026-09-02T18:38:09.962177Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.464167Z",
+        "fetched_at": "2026-09-02T18:38:09.962188Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.464172Z",
+        "fetched_at": "2026-09-02T18:38:09.962194Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.464177Z",
+        "fetched_at": "2026-09-02T18:38:09.962200Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.464183Z",
+        "fetched_at": "2026-09-02T18:38:09.962207Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.464187Z",
+        "fetched_at": "2026-09-02T18:38:09.962212Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.464191Z",
+        "fetched_at": "2026-09-02T18:38:09.962216Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,25 +296,50 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@MKVishnuPrasad",
+        "url": "https://x.com/http://www.twitter.com/@MKVishnuPrasad",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:31:32.892033Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
-    "total_articles": 10,
-    "positive": 1,
-    "negative": 2,
-    "neutral": 7,
+    "total_articles": 9,
+    "positive": 3,
+    "negative": 1,
+    "neutral": 5,
     "top_headlines": [
       {
-        "headline": "Congress MP Seeks CBI Probe into Alleged ₹1,500 Crore Corruption in NLC Contracts - Daily Pioneer",
-        "source": "Daily Pioneer",
-        "severity": "medium",
+        "headline": "Cuddalore MP reviews development works at DISHA meeting - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2ZaU1NsX1RqQUZPSVRfN1JYbzEzQ0tTejE2ZndRYUYzYXlrcVVUdUFmXzd3SUI1eHhtVXY3Qk1RaXRxR0xMT2FRNlVyOFpGc0tpVjdLMldyb050WF9yY3p0MllYNUJjbGpFTkNHZmV5RVd3MUJUNEdIY0FaYWM2TEZkaHlxcG1WUzlpbVVSRXlZc3V5aUVSeV9hcktRcTJlN3J6OTEwQ3ljaUY1Unhr?oc=5",
-        "sentiment": "negative"
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRm5IcEl5eWFOd25PRDZURWl6eGZadEt0ZmdYOGt2U0NOdVYyRjVodEJJV0tRa1ZiLTVDVGRrbzlmcGFDR0QxNlRZcjlQaWhyZS1vNmJCZ1U2dGJMT1I5UFQ0Sjd0QVJsS0pFN2VMNzZidC01cmdfb09ualVsU3Fwd2VWSkpIUnZ2RXd0RVBvT00tZ0Izak95UUhqM0lZQzEwdlk2b3BxWDU3djJ4X2txbWxsRkkxVjU3bDJsWUtvaWgyczjSAcoBQVVfeXFMT2pzZWlnQWdsdlVBcE9fQ2lZa1pFNm5WYVY1WVFLY19aMW9IWEdKQkRSUmdjcjFBMWJVUDZMaWFtck1DZ2NLU2JiLWZOTlFHbDN0eXlYYnViUDFUOGtXQUlDNDNpb1lwWXlnWUNTOU4wNUNVWkEyWUI1YU83V3U5OF9qVUNxTzhsMW9rRGRGemtSNVBqWWIwY2V1UTNxclhSTFpmQ04wakhDV0lxVmVJekN6VkZUbHF1TEpqR0VScEpGTHQzVDBnZXNsdw?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Wait is over: Tamil Nadu Congress list with seven names out - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZU1qdlZ5Y3lZb2dDN0puZTZnbUIyUzh4dmRjd2licUM2XzB6aTZNZVlLSVVGclVhVWRCQXRQQWJCeE1MR1Bhcmt4QWM3U0lLeTRldkpJMlBobXdhT0l6Y2JqVGl3WkI1Z04zLUVQXy1YbUdQbkhzVTZLMzFOaXJiSzFrWkVIc0ltaHJGMzgtMEJZZGZ0d3liTXpsMmpFaF9IM0tSMlVSakk1VmhhTllnNEhXdGI3UkptM0gzNFN30gHLAUFVX3lxTE15XzFaVTQtTjd3UTlXTVNqcjZNSTd4UEZSWHlTV1VRNjVFZnRKZXN1R2RtYUxFb0JiaXM2Z21OSGhxSk5seXJrWHdIenVUWE9RVV9aUnc4S0RGLUsxTmdTemdsLWRtN3lVSDFMaE41SkllNFRlSDVKUlVqdkJnbjZuVlRiRnNMT3czLUpISEgyVktvVlJSN1hyQmIydE50eWtZWnlFTEx5eUw0TVRMNGZaV0prenpHajhRaDkyeTkxcXZzTmZGWFB4NXdz?oc=5",
+        "sentiment": "neutral"
       },
       {
         "headline": "MP alleges Rs 422 cr fraud in NLC - DT Next",
@@ -269,31 +350,23 @@
         "sentiment": "negative"
       },
       {
-        "headline": "PollSCAN TN: Can DMK hold Cuddalore amid growing voter frustration? - Dailyhunt",
-        "source": "Dailyhunt",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMGZRaVIzbUQ0bHZyby1HQ1dEd3NiNTFpQzRLeWdPYi1ncm5GSGh1V1h2T2pqcXhJNFJadjkyYklGaElsQmRwQzJjSEhuUDZMYmxTdmNZR0ZxN1VZWWI5dUxfdHhwZG5QZXNjdUR0c2RkMFI4SE5pQ0NnbG9rdldsWEsya0w4NEdsQjE0VG82amhYV2lheXhlVEVfQzN4bW5DYmFNZUl5bGtScm5Ea1Y1MG5QVGdtNnJSSTgxcjFka3RRdDZTQUY0aTExRXlkWjVzSmZBQ1VIZVprajhMSm9kQm9BSU43anlR?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Land acquisition, fund allocation by TN govt causing delay: Centre - DT Next",
-        "source": "DT Next",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0VabjdMWUQ1YWlkZ2lLN3Jpckp1SGR6emJvQzBURnYyaTJjazZEUDJHM2NPVEctNzNOZ1QwbFZNV1gtekY0YjFMR1I4UndrSERIVnVDVU5PZXExaW1RcXJLY2ZKWm5zNTFBWGVQaXduamQzT1Bxa3V3T3J6SUQxZEZ6R1FoT3VDMzV2TWNOeUNoeEJjem1vaWpqdGYweEhyQUxYelRMS0JaNkVy0gG6AUFVX3lxTE5qU054aDBNYWZBSXd3bU1LRE4yLU1TdXpUQ0FkeFBBNlVUX3llQUZjQTJ6enBfck02dTAyU1JCN0JMVEVsSHNLWWx3NC1vY0ZCZzdvRE9nb1hVWDJCOXItMXRVaFhfZW9DWE1RWUhFM243Rmc3ZF9aeTVkc20taXk4Zzd6TFpXVmhpWU9xSWdIUGpiSVZjOE1VbDdBcG9hdmRKYUZsX0hpZTM3WWZmRmhJZjhvNUF6Uk1Edw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Congress nominee files papers for Cuddalore LS constituency - The Hindu",
+        "headline": "Farm land acquisition, industrial pollution key issues in Cuddalore - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnRwXy12ZmtnS1RyWFh6S3NvdEhuZ3ZXVENzNFl1bTBjWHQxLWwyOWs4UGxRaGhxcUpXbUVoVXJpcWQ5ZHlLbVNSQndGQU1vTWhiU0lLbDlaVThEWUxFZDh1V1BXdHkyejZEQ1gwZVZXazByc25pSTVOS3ZNRzZ0TnhOR0d0bDROOGlFVWx0UDdQbzMxVGNrQmhGcjh6S3lOdk0wNUJTS3hMZVhCQUtjcm9kazZ2bG12V3p6NjYzR0tNN085Wjk2R9IBzwFBVV95cUxQZER1bkRnQWpLbjlFSUVtMlRXWWExNUJRbU90d2prTDFyNjU2bjFLLWNWTmZlVjZMMDBNNGNZQjZMc2lmZDY3S0R3MmJhRmw4c3lMQTI2TWNVS0RYUFk5bzJ2aFBJVUNMcF85QmRncHR5U1p4V193Nk9scUZoemwySzZYOGVKVTljOThFSjhZYkpYc0ZjbmJFTmt2Z1hyOHBaMDVxQ2lGRG0ydkd3aFZKQlpXRi11RTJ0RENoNzBDR0pseW55SThTY19OdEJMeGM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcDJvdm9tQWJFeEh6bzN3UFNDcFFZSGI1WXFydDkxV0F5bkFlNW4zRldJNjItZkpCamxrY2V1VWc0ZENUOWVoN0otc0hmVzhHeXZvV2lYN213ZmRzMlE4ZEtHbjhiT09VT3V4Z1JlN3M5R3R5a0ZFLWFhTDRWcENPaFpnd05KWG9qZHBDbXBfVWhqYmt4NlIxRXNIU1d3amMzOVB1T2JmRjZiSmxMMHFNNTFHTV9VM2dUVXdnVnRCZ1hzYnNVMUdiSVVpbU02RkJGNW1lejRJa1c5a1A2dWZqQno3VUJ1cnFlb2Q4S2luN2pNNlM2X0dFdUo3YTRXdWfSAYYCQVVfeXFMTTRpZjBlZ3hpRVVrNHBkYXpOWUlUem5XdFdUVExuNGowZ3NjWjBmUDBiSl9PSkNiM0lYS0g0ZG1ISEFTc2lVUm9lTFBpZG4zQUVjUHFRaFNJX3NVQkdIWjZzdGhzT3Y0bENyMkUwSmowNnF5V0JqUWJpUUVyVXFRLUhILWNmRmpPWFBSTE5qTW4zLVVpcTVMbWx4VEg0eGtPVTlTa0F6cmdfc2J2OU5CVUt6LTNiS284aDNtTWlNOFVLU3NMM0RXQWpDdmN1MjVkTkNfR2pZenBDaHozeEpYWGtIWnM2RG1DM0JaY0Q3Z0NMZEMyOC1LVjdiOGRiT3B0cGZfRXdXdw?oc=5",
         "sentiment": "neutral"
+      },
+      {
+        "headline": "Over 2000 people receive welfare aid worth Rs 30 crore under Makkaludan Mudhalvar scheme in TN's Cuddalore - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcHhidktwNDRkNFExdDN1TDhXNE5QWXotakpRT1NSVVZjLWsyYldtcGlYZ0w3QWZINnA5RlRsV205QUdCSXVaS19MQ0lRVmJHRUNNQlY2MDFIMF93a2JMNV92djFsd0hyZ0o5M19fMzBhYlpldjEtRDlJVlJKcHpBZ2lpd2lMcUFfeFJkbXl0V24yelFSWlFoQk5Ob0lvbDc2VjJQal9feTExQXNFUXZadzNSQlJCb1BjUE9TbVhNd1g1dUFXMUF5d1Q5REtoZU8tLVkydW8wZTF1dWZkd2Q3T0FwT1p1Rnl4bjlJX1pRaVpyWXZGbjBHY0NMSzXSAYoCQVVfeXFMTnB5d2dULXNoUE1MeTBfWVpubzNaaXBkaEd6X1BqTzRnS3VQRTJVTWZwaDFEQngwR2Izamhlbmx6dzVMRHF3UzBTVFNlQTNkNjV1cGVsNkdEY08xZVZxUFJLZ0dGc2ZhZy1KSnpiQVNwV1pqRDJLMUFZV1d4TmZkY3VWS2F0Zlg5QzFHeUxCdktIYWUtcjhyRC16ZWl2cnpUQzBlcmIzNzRxM3NiTmdVMmxPX2hDLXpYLTJFZUlKRUFvckdkX1Q0RjlvYXY4MkYtZkNFVl9mc1NGaGVpM28xVk5lbEVqWmU2Y3QwT01mbG55SkMzaW5fck5LY0pTaDBKYlV4RkVxZkZ5Y1E?oc=5",
+        "sentiment": "positive"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -323,15 +396,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 33,
+    "starred_questions": 9,
+    "unstarred_questions": 24,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 63.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +412,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

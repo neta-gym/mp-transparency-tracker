@@ -74,10 +74,20 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Babu Jagjivan Ram remembered as leader of all sections - The New Indian Express (The New Indian Express) [neutral]
-- TDP MP Presides as Lok Sabha Clears Amaravati Capital Bill - Gulte (Gulte) [neutral]
 - TDP MP who objected to Congress leader referring to LS Chair as ‘yaar’: Who is Krishna Prasad Tenneti? - The Indian Express (The Indian Express) [neutral]
+- TDP MP Presides as Lok Sabha Clears Amaravati Capital Bill - Gulte (Gulte) [neutral]
 - Bapatla (SC) Election Results 2024: Krishna Prasad Tenneti of TDP triumphs in Bapatla Loksabha constituen - The Times of India (The Times of India) [neutral]
-- Bapatla Election Result 2024 LIVE Updates Highlights: Krishna Prasad Tenneti of TDP Wins - News18 (News18) [neutral]
+- Viral Video: TDP MP Shakes Parliament - Gulte (Gulte) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Babu Jagjivan Ram remembered as leader of all sections - The New Indian Express** (The New Indian Express)
+- ! **TDP MP who objected to Congress leader referring to LS Chair as ‘yaar’: Who is Krishna Prasad Tenneti? - The Indian Express** (The Indian Express)
+- ! **TDP MP Presides as Lok Sabha Clears Amaravati Capital Bill - Gulte** (Gulte)
+- ! **Bapatla (SC) Election Results 2024: Krishna Prasad Tenneti of TDP triumphs in Bapatla Loksabha constituen - The Times of India** (The Times of India)
+- ! **Viral Video: TDP MP Shakes Parliament - Gulte** (Gulte)
 
 ---
 
@@ -139,7 +149,7 @@ No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 46. D
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

@@ -4,16 +4,16 @@
     "constituency": "Lohardaga",
     "state": "jharkhand",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 6277,
+    "myneta_candidate_id": null,
     "slug": "sukhdeo-bhagat",
     "house": "lok_sabha",
     "sansad_member_id": 5742,
     "profile_url": null,
     "canonical_name": "Sukhdeo Bhagat",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/5742.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,104 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "116/2018, Lohardaga PS | On Bail",
+        "ipc_sections": [
+          "147",
+          "149",
+          "341",
+          "342",
+          "332",
+          "353",
+          "186",
+          "189",
+          "504"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "I/C JM MP/MLA Court Ranchi",
+        "fir_no": "116/2018, Lohardaga PS",
+        "case_no": "02/2021",
+        "other_acts": "On Bail",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:23.867183Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 24688449.0,
-    "liabilities": 12414241.0,
-    "net_worth": 12274208.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6277",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.467201Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 21.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 17.18,
-    "released": 17.18,
-    "sanctioned": 14.33,
-    "expended": 13.1,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:24:05.610374Z",
-        "notes": "Official eSAKSHI REST API — Works: 285 recommended, 269 sanctioned, 50 completed"
+        "fetched_at": "2026-09-02T14:27:16.509158Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:51.626903Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:22:29.285964Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 285,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 76.25145518044238
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +134,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:45.745866Z",
+        "fetched_at": "2026-09-02T14:22:26.543731Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +142,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Professional styled league in Lohardaga from Nov 3 to boost football - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUEd2c1VJaTRPRzI4UjN0TEJqbTdsTlg5WE9HRTF5UUdzWWlPaUMwSHl4OWtKN0ZoR1ZROEN5TmJQeno0NmJhSXNWMU9CNF9uSHFJVkNzalh5dUVTdmQ2QVZlbUR1TnZ4Ym9wSmtFV08yNVJJZE9JWmZGQWI0UDJCa3JZNUxkQ1J3ODNVcVJsMTZLZjNONWNIc0RqSGRVRkswYUNuWEF5Z1JFUnd2cjFBZ3EtYkNBWi1aemZPeldyNVpzR2tsSlBnX1dHWlk3Slcyc0xTam1aUi1pQdIB3wFBVV95cUxPX1FQbVNIb3hMUFlyc01uLVBfTU02UHdWc0hNdERvNG9ZaThwdGZSem5pMF9hTTEyems4NC1IdmxFZ294RllyVHFPUkloM2hyTkgzRmNka3p0b21PWk9IaS1hNHpYVE5wczd1WnFCUS1FV3N5UkdBeWQ5dEd0RzhRa1RqRFNkeHA4VjRiOEVWNGstYzJ2UHlPVHkwMk44LVZxVV9MY0hQNDFvejVRWVRMZVhTeGtMbV8wNWljVXRKUnZ6RXZJai1SeFR5b1NjMmFvY01pd2ZiM1VmZTdSSllF?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Include Sarna religious code in Census: Cong MP Sukhdeo Bhagat in Lok Sabha - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcktZdGtfejVNdEVUbFZlOGtsT2tfS3pBSjYtTEJvSk02QVBDMDMwSXNTbkhseG83VWtjUENOUUdBVWNtNW00WkZMeTdiV0Jja1BZVFBzcV9BbGc3TkQxUDZOcnc2SW1QaWVqWEtuTHhseXIzTl9RT192ck13cUhncGpYSUxKQzZyeHZ4RExmdWlydkRNYjBxSjRxOFNVNDRnSzNGVmlfNWgxREdUd1HSAbMBQVVfeXFMTjBJRExpTU52X3Y2MGtuLW4zV1FpeW9DZi1BVWNnWnFTcXRnajZCYl83dVRyaFdBYTBNTW8wSkNvMXhlMldNUUhOZndteHA4dUJyV0U4V1hyRThkanBFSGdKaE00OFhSa25iNGd5dVV4REE5Sk92Q09MTDRxV3VoYmQtRlZyT052Tk9kVHB6Sm53aEw2NDZib1NpLXo5STlZelJBT0thdFlQTDg1cFB3MFdCaU0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Party-hopper Sukhdeo is still Cong’s blue-eyed boy - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0FhSFVNUzI4YV9CNXNsbHhuamtYZ0N2TENlUVFiSS1IcmZhQUZwUGpCWmszc3F4OExLendWQzhNcklFVVlOSUV0eGNCYW9zMmkzamQxUHR0UHFhRVNtVV9ySU5YTjFva0ZpS2NlbEh3ME5UQkhfY0tvWWtMclhBR3I0UzlaZUZqY1JnUlYyX00xSUduald1a0JkRE81MTdwOGxPZUVNclZHaWpaY3lNc1I5c3NicmIyeU10cEc0cmrSAcYBQVVfeXFMTVM3MGl5X1pYbFZtYVJUY3JjLUpNUldIWlk2c3hJYkwzS1V1T05oUktvUFcwbV9JU0dyeUFMUjNUTEZyaEdyWjVyaUViOFlNbVpxVlNxTXVYTmpkTHRSWk5hek43NzFEQlc2NlFmdHZFT1pOUldlNlNkUDM1aTY3Y1lxYW9iRkN1ZFd6ejRISUNYOXgyc2JxMnpBYUJ6VlhZNWdLeWVEcWVyYnl0T3J3M3JSNTdPbEZtSms3TkQ0ZVRhU2xnMThn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress's Sukhdeo Bhagat says Nehru strengthened democracy, enabling a 'tea-seller' to become PM - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaHpRRl9DRGRDbGZQQXNJNExXd1dETzlKVG5rX0ZubG9zVG9rSjVLOEh2Rzh4MzFVRGtrNmk2d1VqN29IQTRYY0xVQVZWa2RydHJUdnE5TmxMWjNQRzIyQ094dlhsbEF4YXhOX2xyd1dvVnpkTkhCZVMxSDFNeHlWMnJ4UE15THRITDNWR2ZiTVJZZk5nWVBuSXBMSVdvNVJTUTNuVDVOeXl2U09ZaGZRSWlBTkpsS2hWdTdjRExRSGxKanA3LWpGS0p1NkV2Uk5ySDh3U2Q3U2tYellpY1V1M3hkZTNUSzFCSDBVdjJ3Zng0aVnSAfgBQVVfeXFMT1ZEb00wWFdTSEZSVEIxQ1YycUVZNEJoS2dFTWhIVG5kamxhTnREQ183MEJoeFlIYkNaNGNfVE9SMjFrTGNwRDlEMVJxY3lZcnBGdHlGMXR5TWlYdnNVbEVxT1ZsRVN3V0FjdWJ0LTh0OS16YkFrMzZHZHRKWnJGS3RoTS1jUzJQcjcxSkhuUlM2UXk0ekFDQTZHYk5haGdpOGprdjJFZ2RfNkhnanNPMHB4cmEwMWR3QmFKYzlCV05JY0o3WTNYVFFHdW52ek0yZFdJZ0phQ1N4Y3NSR0NLd0JDVWs2ckdBWENBX3pkUHNtSWFVc3c0WHA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "First-time MP Sukhdeo Bhagat appointed AICC observer - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDk3UDBxQ05OMmpONVVDWWdoUDBRWmtFYmhiZDZpdFJHTjcyb283cFh3ODNKbWNtMC0tcEhJTEJuY0wyczNaZ2RRUDZneVNqVXhHZmhodVY1TU9fRkpFU1pkb05VQzJYYUZNTjMwOTlYcXY0QzV4MEo3aU5oTmZ0ckJtcHhhV3lQYTVmc2laNVh4OXJHR3l4cjk4eHRhMEVHOVJZWjJKVnFBNi1RWktwcWxTeHZTVWtvMHZZQ0F4OFk5RS1n0gHKAUFVX3lxTE00Tnpsbmh0OEthbmt6NFcwS2xzdFNYSUdydi1kcjVHSVhkaEFYZ0RFZ3ZFV0Zmb2syS0VTZjhHai1GS1lmdlNxblE4TW5CTmU4WHlGX3hVN0loaFhuRm8yNElfYmU1STByUDJwcV9CTkNucWF4SWhQaFpNdnR0cnprQmZ6Ti05Z1J2RkdTaUxkWUozNXZuT2xoTm5iRzN5NWoyc1Y2RFNqUVFNR1pGeXE0c0J3MHRoUmxYNzNVMl83dHBranp2R3FVdVE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:14.888415Z",
+  "collected_at": "2026-09-02T14:27:22.512995Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +211,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.872561Z",
+        "fetched_at": "2026-09-02T18:38:06.417485Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +227,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.872572Z",
+        "fetched_at": "2026-09-02T18:38:06.417498Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +243,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.872577Z",
+        "fetched_at": "2026-09-02T18:38:06.417503Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +259,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.872581Z",
+        "fetched_at": "2026-09-02T18:38:06.417509Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +275,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.872587Z",
+        "fetched_at": "2026-09-02T18:38:06.417516Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +291,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.872591Z",
+        "fetched_at": "2026-09-02T18:38:06.417520Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +307,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.872596Z",
+        "fetched_at": "2026-09-02T18:38:06.417525Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -272,19 +353,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Lohardaga lok sabha election results 2024: Lohardaga Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Include Sarna religious code in Census: Cong MP Sukhdeo Bhagat in Lok Sabha - ThePrint",
+        "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0dnRXVLc295VDJYd0pINHdTR3RYeS1KdmFiblBnVzFqZGZZMG9nUC1FZjlSZWtNM1B0M2U1SjhSdjhNSjY5Tmk1dXRJTzVWcFpRb0RXQzc3NVN6R3pHZUJ5WXcxRHZxTTh5QTJtSVdBT295MWF6T1k4VHdFNWhwalhIRXM1RFZiZVA4bXAzbHBydEI4bXc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcktZdGtfejVNdEVUbFZlOGtsT2tfS3pBSjYtTEJvSk02QVBDMDMwSXNTbkhseG83VWtjUENOUUdBVWNtNW00WkZMeTdiV0Jja1BZVFBzcV9BbGc3TkQxUDZOcnc2SW1QaWVqWEtuTHhseXIzTl9RT192ck13cUhncGpYSUxKQzZyeHZ4RExmdWlydkRNYjBxSjRxOFNVNDRnSzNGVmlfNWgxREdUd1HSAbMBQVVfeXFMTjBJRExpTU52X3Y2MGtuLW4zV1FpeW9DZi1BVWNnWnFTcXRnajZCYl83dVRyaFdBYTBNTW8wSkNvMXhlMldNUUhOZndteHA4dUJyV0U4V1hyRThkanBFSGdKaE00OFhSa25iNGd5dVV4REE5Sk92Q09MTDRxV3VoYmQtRlZyT052Tk9kVHB6Sm53aEw2NDZib1NpLXo5STlZelJBT0thdFlQTDg1cFB3MFdCaU0?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Lohardaga Election Result 2024 LIVE Updates Highlights: Sukhdeo Bhagat of INC Wins - News18",
-        "source": "News18",
+        "headline": "Party-hopper Sukhdeo is still Cong’s blue-eyed boy - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHNzdE9yNExEenkzVEV3Q1VPVW9uaEFKQU1IQTU3blVLT1UtZ2hjTnBnY3lkZTV4UEdqM0lHNzJVZlN3cWE3NnFhdlV2SmZtOHJsaE5pWnN5WUdUVGVFaXhPMThYbWc5YXg2dHZQNFBxQ1R5ZndxbFZjWHAyelRhajRSTkQzVUZuRkJhVVg0NFJOcGdId2p3T0pidHhza1dCY2hoWGNwdHFwa1hfUGtPV3p6NzlMYkVhSFlXSWxUUWIyR29jb0FfdEl4VkZfdmY1QkFuOVpFUVBXTzFBNHBNYVdYSDPSAeoBQVVfeXFMTVJhVmdWUk56NkVwVEVpQ0Q0U1dxMkNWOENYUl8yVlFTdE1XMk1tUEZtdDlucUVETW12Rnh5ckozelJWRGgtYU13U2VjZmh5M2NycndzaVlvTnAzYkpIdE53Wkp5WmxPWGY5SGUtclptaWFCQW9wdWRhdlVpS2FqbWYzbnpKYUp4a0tzbmlFSk84LUM0OExBMnJDdXlnNGg3bDR3STZEVkdiR2xPYTFWMzFFdWUtUW9DM3NzbVl6S2NwMTJYVDNXa3ZabkdZNmhfd1JiRWdoQ1lQd1hPOFRSaVdzR0FyWnM5TnRB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0FhSFVNUzI4YV9CNXNsbHhuamtYZ0N2TENlUVFiSS1IcmZhQUZwUGpCWmszc3F4OExLendWQzhNcklFVVlOSUV0eGNCYW9zMmkzamQxUHR0UHFhRVNtVV9ySU5YTjFva0ZpS2NlbEh3ME5UQkhfY0tvWWtMclhBR3I0UzlaZUZqY1JnUlYyX00xSUduald1a0JkRE81MTdwOGxPZUVNclZHaWpaY3lNc1I5c3NicmIyeU10cEc0cmrSAcYBQVVfeXFMTVM3MGl5X1pYbFZtYVJUY3JjLUpNUldIWlk2c3hJYkwzS1V1T05oUktvUFcwbV9JU0dyeUFMUjNUTEZyaEdyWjVyaUViOFlNbVpxVlNxTXVYTmpkTHRSWk5hek43NzFEQlc2NlFmdHZFT1pOUldlNlNkUDM1aTY3Y1lxYW9iRkN1ZFd6ejRISUNYOXgyc2JxMnpBYUJ6VlhZNWdLeWVEcWVyYnl0T3J3M3JSNTdPbEZtSms3TkQ0ZVRhU2xnMThn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress's Sukhdeo Bhagat says Nehru strengthened democracy, enabling a 'tea-seller' to become PM - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaHpRRl9DRGRDbGZQQXNJNExXd1dETzlKVG5rX0ZubG9zVG9rSjVLOEh2Rzh4MzFVRGtrNmk2d1VqN29IQTRYY0xVQVZWa2RydHJUdnE5TmxMWjNQRzIyQ094dlhsbEF4YXhOX2xyd1dvVnpkTkhCZVMxSDFNeHlWMnJ4UE15THRITDNWR2ZiTVJZZk5nWVBuSXBMSVdvNVJTUTNuVDVOeXl2U09ZaGZRSWlBTkpsS2hWdTdjRExRSGxKanA3LWpGS0p1NkV2Uk5ySDh3U2Q3U2tYellpY1V1M3hkZTNUSzFCSDBVdjJ3Zng0aVnSAfgBQVVfeXFMT1ZEb00wWFdTSEZSVEIxQ1YycUVZNEJoS2dFTWhIVG5kamxhTnREQ183MEJoeFlIYkNaNGNfVE9SMjFrTGNwRDlEMVJxY3lZcnBGdHlGMXR5TWlYdnNVbEVxT1ZsRVN3V0FjdWJ0LTh0OS16YkFrMzZHZHRKWnJGS3RoTS1jUzJQcjcxSkhuUlM2UXk0ekFDQTZHYk5haGdpOGprdjJFZ2RfNkhnanNPMHB4cmEwMWR3QmFKYzlCV05JY0o3WTNYVFFHdW52ek0yZFdJZ0phQ1N4Y3NSR0NLd0JDVWs2ckdBWENBX3pkUHNtSWFVc3c0WHA?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -293,14 +382,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDk3UDBxQ05OMmpONVVDWWdoUDBRWmtFYmhiZDZpdFJHTjcyb283cFh3ODNKbWNtMC0tcEhJTEJuY0wyczNaZ2RRUDZneVNqVXhHZmhodVY1TU9fRkpFU1pkb05VQzJYYUZNTjMwOTlYcXY0QzV4MEo3aU5oTmZ0ckJtcHhhV3lQYTVmc2laNVh4OXJHR3l4cjk4eHRhMEVHOVJZWjJKVnFBNi1RWktwcWxTeHZTVWtvMHZZQ0F4OFk5RS1n0gHKAUFVX3lxTE00Tnpsbmh0OEthbmt6NFcwS2xzdFNYSUdydi1kcjVHSVhkaEFYZ0RFZ3ZFV0Zmb2syS0VTZjhHai1GS1lmdlNxblE4TW5CTmU4WHlGX3hVN0loaFhuRm8yNElfYmU1STByUDJwcV9CTkNucWF4SWhQaFpNdnR0cnprQmZ6Ti05Z1J2RkdTaUxkWUozNXZuT2xoTm5iRzN5NWoyc1Y2RFNqUVFNR1pGeXE0c0J3MHRoUmxYNzNVMl83dHBranp2R3FVdVE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Congress, Nehru strengthened democracy to extent that 'tea-seller' could become PM: Sukhdeo Bhagat - Metro Vaartha",
-        "source": "Metro Vaartha",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY2ZWaWpjSEg4eHhNVmhyMks0TzR6bDgwV2RBOWFQVENPb20yX1dsMWJ6RmoxeXJZZ2tjTG1nQ1FZR2ZrMlB1bC1uQzJnZFQwWEpHckRuaHVRN1dRcHVoMkl6U2lJRVVvemRyOF9kSXV6WXR5SzhNa0J5UDcxRktoMDVVS3EyOTJIZFdlc0dsMm5xRzNGQzE2SFZ4dDNHbGlud0M5Qkd3dl83R3NfcjBMb2RhaFRxUEJ3ckZhYVpTVlllYi1wMDN0TXJKcVVDanBOal9tWE5XYWLSAeYBQVVfeXFMTjFTSG85c25IX3VFMXJwem1KanYtblpoLXhlZVYxUDdmWThSbUhTN0d0WXEtU2dsWEh0bmx4ZjQza19RM29lNkZGVzJHWkJESWYtVDF0TVpEMU5YUUd2TXhCQUxoTkZTNXQ5NnpBRy1sNHFGQ1l2NldXZU1lOV9WREVJRXZBQUF5S01fcThGempFaEcwdE5FZndtZl9ZRWtPYlh4cUtYTUJzdE9rZ19JdWR2VDdGZFRoQklfUXk3ajViNFc5YWFnOGhsWmkyYVBTTTVJNHRGSV9jRVo2Qkd0V1RJa2tydFE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +415,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 31,
+    "starred_questions": 9,
+    "unstarred_questions": 22,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 60.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +431,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

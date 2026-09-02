@@ -4,16 +4,16 @@
     "constituency": "Aonla",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 3586,
+    "myneta_candidate_id": null,
     "slug": "neeraj-maurya",
     "house": "lok_sabha",
     "sansad_member_id": 5637,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/5637.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:04.986807Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 117839772.0,
-    "liabilities": 4419730.0,
-    "net_worth": 113420042.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3586",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.615413Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 61.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.79,
-    "expended": 9.56,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:02.304115Z",
-        "notes": "Official eSAKSHI REST API — Works: 19 recommended, 19 sanctioned, 14 completed"
+        "fetched_at": "2026-09-02T16:32:15.191110Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:28:26.555332Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:28:26.552347Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 19,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 65.03401360544218
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:53:39.939157Z",
+        "fetched_at": "2026-09-02T16:28:26.551280Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Aonla Election Result 2024 LIVE Updates Highlights: Neeraj Maurya of SP Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzgxdnF5a1Vzd3Q1MVQxcDgxRU95a2Q1S3BEMGdiNVU5RDR1bklVQUNxVnBONnpFMFNJbFA5NHd0Y3hwZ0VldzlCT2RtcWE5d3dFcXpfX1d4RVB0cDBEX2VNNG1EZWo1d3dIeURwUkhrckJ1cWQycTRtanhQR0dxSmpkYV82UFRndkVYM1Z3VVlPOXJSR0dOajVWay1vdFg3OWNDcUxJMl94azJ4X2c3TF9wYTdHbWczX0FQeDNxdzJ4YzcwaTQwRzZ3cDFuTXVXRkFoM21FWlNiSDlZalJj0gHkAUFVX3lxTE9tdVZQRktHT0F2YVlpbU8wYjdsZXAxQ2Qzb2RMcWlQbXA1WUU0WGtMdmQ1R3ZXLTJRS2tsYThlN283UDIwUmtUcEJ3RXdJTHREcWlOVDkzV2wzaENENDFPSzBaR2JzdEs5V1VQZ29paHJTU3BGZm1pUlltV1ppeDliRlY1WFp4RGNXdWEwd3d4TVd2U0JTN0t4LXREUnZjdU1Wd1c2Uk1DVEV0S3ZROW5PX29FellnUjVWa3ZXYlBDT0x3MmptMTJONXROYU1XQzlwd0h5N1BockdjaTRONWRRVzg3OQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Aonla lok sabha election results 2024: Aonla Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmhKZ3ZDU3ctSFVhcjlwZ093a0E5Z1ctaWY3bUNHc1NHTzRlS2xYWUhnVElEYUxScjFqbUJyUzFDSFB3Z0ktSnZoeGZHS3p5QUZ3UFJLeVhQOGNwNDFpNGZIYnlqZ0E3SXRmMGR6OUdEcjRGbXNoaG9jTGFkdmE3TWptVFBodW1OblJkTzQ3S0tQQ205ZWc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "SP declares second list of 11 candidates for 2024 Lok Sabha polls | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcU5OWXUtc1EwNlF5WG11NTJLa01MdkZrODFjQVNrbVlvT3Y0NUtHNV96anVTcW51dlpld0lFdF90SWJzcTkxRmdSUENISUlEMHpyMDZZNjdVaXRvN0c2c19zQU1aYmI2cDVtVVdITW9icUpLVmVjdFJYYkFHaWJzbE5ZcC05QzI3aVdEd19lbFBQUWFPY2dHOWZ6bWJPNjB4UkZpeGVTVk5OeWgtWE1yRkktNnZPQmpVU0lLNXM5WFZZVHd4Z1JISXM4UHZORFc3VkV30gHYAUFVX3lxTFBfUlhpc201aDNRcHpleDFiRUpJU1ZmV3pZdGVBcXE1V0xYLU80anRBR1oxUlFQN1ktRkFROTgwSjV6SXRiUjlYUGJDWm96NHQxUHJCQUVKQkJkSXhta3hmby1yTUN1bWk2VEkxRG81RXlSU3Y4aTBJRE1ic2hya1Flem9rMXFJT1N6R1NQY2FUdFc2WFV3Q3E5dTlsUlBna3JiSk1NYW9GZEJ1QU5oQUNFdHU0N0NXOXplbWEwbjV6VEJXWEI5WU1GWGtxZTg1UmZsZUJPdmE0bQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Samajwadi Party announces 11 more LS candidates for UP: Mukhtar’s brother given ticket from Ghazipur - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQTlLTko0aEduQXNqSmRPUmtfa2ZOdzRKTUxZZEJtSFNvVDVxUm1UQmQybFR0SVNpT0M3S3VNc1hNZW50Mzc2cGM1LTZOVG53RmxhWGVLZ1labzFTc0dNNmJIOXFIRG5LV1dvUUdTUjdlY1J6VGxKaXBJdEVpcV9yWWdVOTlZZ0I2NHZBNlRyYzFrVGZubEZVUHBZSjVDdmVPbk9MOFlFdDFLWkhUUFRfVlJvZ1Bsd3N0WUMtSHdDX3R6RkZmeXU2LWZWeWloTHF2aFBtSzBqenhwcVlBR2xhREFFMjJZXy1GY2wwVnI3Y9IB9AFBVV95cUxOdVN0dHhsLXpDVmZwd2FZSVFpMXdIRmRoVnZfbUpsMVpxdlJqVmFjb28yMDJwUHhUUWw4LWNmQUJ4Y0czUVE1MHFyWGFUVVA1aGtpal9iTFRnR3JXVmlUSG95Uk9oMnhnR1Y5enBuR1VxUjEyMll5QWZwOXp5TTJ4Z3p0TXpNZUlHbHNPaDJVY2VLdzFpNl8xVFJJU0YtYlZPRFFOMEJHMUNiQXptQnNuWmV1WC05cnJOYmdGY0FYeE43VWZwV2p3b0tyTlotajJ1NkxnT3pyWTAxTUdWVHNxU0YtSDV5dE5jbnNNWTRxTmU4UjNK?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Know Your Turncoats, Part 11: UP muscleman, son of ‘Bihar’s Gandhi’, Solapur heavyweight - Newslaundry",
+      "source": "Newslaundry",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUt1WnNFMEtya0tZeWE0UlRHa05VTzlob2ljR0VveC1pWTVhakdXZG1yZE9mLWJYZ1dLX0FUTkFqdUdqWkEyRDh3MG5Mc2RaVC1DRTRZMDdsZlA4Zkktb2poeEw2N1BZRXNGc25aRmhpeWstc1lEc2J3T2ZBLWhkcF9zVW1PbFN2WFV0SDBVcnpLU1pHZVh0QUpJMnZvRmloWHNNYWVJMWlxX3I5TFlEOHBqcU5PT2RXM3FOUNIB0gFBVV95cUxQaEpNanZERkxDRzZaY2NiNm1Yc1NwajBnV2NsN3d4cHhJSzM3WDAweE0wOGFqTDRFU25VZU1sUE9nSmpWSWNjSGk1enhMX3pKZHJ5bDhpb2lraFF3TWRkYWtCa0lQRUdWNDhxUWpGblhaeF82aERzN1A3REV5NHJMMm01X0wtOERlOU5BTWlNYnEtd0d2d3lJT0gwbDdraXRtWXRWRk9vOGk0bXRXN2VZdU1JbUlNYWJPM3dJbU1USGc4d2w4TjNIcWVUUFV4d3dlT3c?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:54:02.582787Z",
+  "collected_at": "2026-09-02T16:32:15.192333Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.868573Z",
+        "fetched_at": "2026-09-02T18:38:11.438106Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.868582Z",
+        "fetched_at": "2026-09-02T18:38:11.438156Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.868587Z",
+        "fetched_at": "2026-09-02T18:38:11.438164Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.868592Z",
+        "fetched_at": "2026-09-02T18:38:11.438169Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.868596Z",
+        "fetched_at": "2026-09-02T18:38:11.438175Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.868601Z",
+        "fetched_at": "2026-09-02T18:38:11.438181Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.868606Z",
+        "fetched_at": "2026-09-02T18:38:11.438186Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.868610Z",
+        "fetched_at": "2026-09-02T18:38:11.438191Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,22 +333,6 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "आंवला सांसद नीरज मौर्य की मौजूदगी में हुई बैठक, कई कार्यकर्ता उपस्थित रहे - Dainik Bhaskar",
-        "source": "Dainik Bhaskar",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSk1sUVBSaWZWbWp2cWl0YTE1bWpMVWxlNnNTRG9wRWFIRzhSWGVzTExCdU11dGllVldPV3lIYm5JcVpfU1p0RlF5YWd4MEo4ZHR3M05lUjd2WFRhNEJEUlhrR0M0UUQxMlFkZUJwY0l1RDYwdE1wLUNqMXY1UVFrZDJWRTFMTTNYM0hVQVN2YzlfSW5FTzJGckR5eWt5c1JWaTUyUmg3WkJOSk13QjZGZ0IyQUF4SGZ6UkVfbnhCM3hWVVpqUHgyemFDMndsSG9RU1QwMU93?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Bareilly critical care facility shifted to Lucknow due to land unavailability - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbzdjOTJ5blQ0TDNfa0Z1amgtb3hlaXgyNUpjYWlaVmFSS29LdkNjMk5seHhXeHJuZ1A4NUtQZG9ISklpVnF0bG1CM3FiaE9MUlJ5VzRuU05qcmphd09aS0NuWFZLdEtjd3h0b185emVpbDJQNmZ5TWRYcnJmRkw3emYxZDVEa2VaRjFoU0gwQW9Gejg4ZkRHQnE5dGdBTm1POUhlOXh2SFN3UGUxWDNmX2dBNTFJZ01TVmdtMTJBWVR6bzh5ZTBvZWdSdWZhZGh2dWNndTZ3amptX3ptLV9URDJTdXFhVWFt0gHuAUFVX3lxTE92TmkxTjRBaXNXNXNaeFh0NE1nMElvbzNNd2gySnJRMTdTNTlXQzVfdHh1bENULXJoMF9rdkVtUkxocTIyRUVkWFVxekVuVGJQMzBSXzk5anpjSUlRX0N5ME1Mc0JfVmk2ZmZnQndRdHk0TVZuNXU3WlE0WnVfVkZWdHBEcm5FVmxBWURkRmVpOW1veGlaTkd1b2pNb2g5cklIbWJvUS1HaUY1NG13U054SENzRjRLTHZ2NlR6VDkwUWNNQlFjWGlyNzNjNlBvUU9EcG9LTmJ5MDRrOG5SdmRsRFd1aDZibzdiOHhKU2c?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Aonla Election Result 2024 LIVE Updates Highlights: Neeraj Maurya of SP Wins - News18",
         "source": "News18",
         "severity": "low",
@@ -312,11 +349,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Aonla election results 2024 live updates: SP's Neeraj Maurya wins with over 1.5 lakh vote margin - The Times of India",
-        "source": "The Times of India",
+        "headline": "SP declares second list of 11 candidates for 2024 Lok Sabha polls | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOS2t0YnFXU2F6NW9LdVhBdy1hcTJQRjFDbHRhS013SXpLV2FVZ2JmZTd3ZFR2MDhsSVYwX1pWSjMwQ1huSTBDdkNFcUVKT3Fmc1AyMGR6Vy1rLTQtVWgycUdxRVY1LWVYOVZRU2owQUFxTGh2MmxlcGtPbUk0RFU5U285V1A3dnl0aGwwdG9IS0JjSGMydjhGbGtfTTlLTnY5UHRuNHBZZGdsaUd4eHNld2k3UWw1eEFxTl9xdVZqRWlSRmhSTndLWU5id0RDNVVVemh2SnAydTNfYmxXTkZKSUFRSkNfNXIzUVdJR3IxUVZRR2tXUlV2dVhhRUFaTlM0MmxyeTlrTVp3dGp6TklsRzNzdHdZMnJpTl9ueTF4UVM3S1I0M1hFZ1l4bk5VQnprVFHSAbcCQVVfeXFMTnktNF9fWmtaSlZoVDFtRnJlZmUyNl93ZThNN29hRzNRUzVaTWRvd2x4b1NBVl9LMDdwVndWTFRfeENuc1FfcVNkWnU2VWZrRXI4UU5wQXB1MFNLS29leWFXYXZEMXZmWEplYTFRekc1WmExNnhUanF1XzdWZkZnaUNHa0I2aHR6U1VLYUJVbjFiM28tekR4a0VkR3RzT2gwdjNXZmNaWDRxMUMtZjVlaVgxX0dMYWNYcnRsUnJIYjk0NnJ0TWxwWEVvbVJ5WjVkOXN3ZW9nS0c0bVJmbmdEVjBjaTZVc2l1azVDclYxOC1YX3pwTGQtNGZlSmxmQjQxSmVWUW5zQi0xY2h2UzRNUzdIWlkzZnVPU0g0a0VKbU5STWVySHA2TGhBV201Y0VJQTJGT3lkZnc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcU5OWXUtc1EwNlF5WG11NTJLa01MdkZrODFjQVNrbVlvT3Y0NUtHNV96anVTcW51dlpld0lFdF90SWJzcTkxRmdSUENISUlEMHpyMDZZNjdVaXRvN0c2c19zQU1aYmI2cDVtVVdITW9icUpLVmVjdFJYYkFHaWJzbE5ZcC05QzI3aVdEd19lbFBQUWFPY2dHOWZ6bWJPNjB4UkZpeGVTVk5OeWgtWE1yRkktNnZPQmpVU0lLNXM5WFZZVHd4Z1JISXM4UHZORFc3VkV30gHYAUFVX3lxTFBfUlhpc201aDNRcHpleDFiRUpJU1ZmV3pZdGVBcXE1V0xYLU80anRBR1oxUlFQN1ktRkFROTgwSjV6SXRiUjlYUGJDWm96NHQxUHJCQUVKQkJkSXhta3hmby1yTUN1bWk2VEkxRG81RXlSU3Y4aTBJRE1ic2hya1Flem9rMXFJT1N6R1NQY2FUdFc2WFV3Q3E5dTlsUlBna3JiSk1NYW9GZEJ1QU5oQUNFdHU0N0NXOXplbWEwbjV6VEJXWEI5WU1GWGtxZTg1UmZsZUJPdmE0bQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Samajwadi Party announces 11 more LS candidates for UP: Mukhtar’s brother given ticket from Ghazipur - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQTlLTko0aEduQXNqSmRPUmtfa2ZOdzRKTUxZZEJtSFNvVDVxUm1UQmQybFR0SVNpT0M3S3VNc1hNZW50Mzc2cGM1LTZOVG53RmxhWGVLZ1labzFTc0dNNmJIOXFIRG5LV1dvUUdTUjdlY1J6VGxKaXBJdEVpcV9yWWdVOTlZZ0I2NHZBNlRyYzFrVGZubEZVUHBZSjVDdmVPbk9MOFlFdDFLWkhUUFRfVlJvZ1Bsd3N0WUMtSHdDX3R6RkZmeXU2LWZWeWloTHF2aFBtSzBqenhwcVlBR2xhREFFMjJZXy1GY2wwVnI3Y9IB9AFBVV95cUxOdVN0dHhsLXpDVmZwd2FZSVFpMXdIRmRoVnZfbUpsMVpxdlJqVmFjb28yMDJwUHhUUWw4LWNmQUJ4Y0czUVE1MHFyWGFUVVA1aGtpal9iTFRnR3JXVmlUSG95Uk9oMnhnR1Y5enBuR1VxUjEyMll5QWZwOXp5TTJ4Z3p0TXpNZUlHbHNPaDJVY2VLdzFpNl8xVFJJU0YtYlZPRFFOMEJHMUNiQXptQnNuWmV1WC05cnJOYmdGY0FYeE43VWZwV2p3b0tyTlotajJ1NkxnT3pyWTAxTUdWVHNxU0YtSDV5dE5jbnNNWTRxTmU4UjNK?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Know Your Turncoats, Part 11: UP muscleman, son of ‘Bihar’s Gandhi’, Solapur heavyweight - Newslaundry",
+        "source": "Newslaundry",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUt1WnNFMEtya0tZeWE0UlRHa05VTzlob2ljR0VveC1pWTVhakdXZG1yZE9mLWJYZ1dLX0FUTkFqdUdqWkEyRDh3MG5Mc2RaVC1DRTRZMDdsZlA4Zkktb2poeEw2N1BZRXNGc25aRmhpeWstc1lEc2J3T2ZBLWhkcF9zVW1PbFN2WFV0SDBVcnpLU1pHZVh0QUpJMnZvRmloWHNNYWVJMWlxX3I5TFlEOHBqcU5PT2RXM3FOUNIB0gFBVV95cUxQaEpNanZERkxDRzZaY2NiNm1Yc1NwajBnV2NsN3d4cHhJSzM3WDAweE0wOGFqTDRFU25VZU1sUE9nSmpWSWNjSGk1enhMX3pKZHJ5bDhpb2lraFF3TWRkYWtCa0lQRUdWNDhxUWpGblhaeF82aERzN1A3REV5NHJMMm01X0wtOERlOU5BTWlNYnEtd0d2d3lJT0gwbDdraXRtWXRWRk9vOGk0bXRXN2VZdU1JbUlNYWJPM3dJbU1USGc4d2w4TjNIcWVUUFV4d3dlT3c?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

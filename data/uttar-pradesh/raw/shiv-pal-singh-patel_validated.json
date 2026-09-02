@@ -4,16 +4,16 @@
     "constituency": "Pratapgarh",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 8331,
+    "myneta_candidate_id": null,
     "slug": "shiv-pal-singh-patel",
     "house": "lok_sabha",
     "sansad_member_id": 5643,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 68,
+    "age": null,
     "photo_url": "/mp-photos/5643.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Pratapgarh",
       "state": "uttar pradesh",
       "party": "Samajwadi Party",
-      "myneta_candidate_id": 8331,
+      "myneta_candidate_id": null,
       "slug": "shiv-pal-singh-patel",
       "house": "lok_sabha",
       "sansad_member_id": 5643,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 68,
+      "age": null,
       "photo_url": "/mp-photos/5643.jpg"
     },
     "criminal_record": {
@@ -42,72 +42,78 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8331",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.159467Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:37:12.699076Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 466376372.0,
-      "liabilities": 1000000.0,
-      "net_worth": 465376372.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8331",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.159480Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 83.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.96,
-      "expended": 3.27,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:20.929425Z",
-          "notes": "Official eSAKSHI REST API — Works: 428 recommended, 359 sanctioned, 79 completed"
+          "fetched_at": "2026-09-02T17:47:57.185817Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:44:16.568399Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:44:16.565551Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 428,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 22.244897959183675
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
-      "attendance_percentage": 85.0,
-      "questions_asked": 13,
+      "attendance_percentage": 70.0,
+      "questions_asked": 0,
       "debates_participated": 3,
       "private_bills_introduced": 0,
       "is_minister": false,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:08:48.784961Z",
+          "fetched_at": "2026-09-02T17:44:16.564480Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Pratapgarh election results 2024: SP's Shiv Pal Singh wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaTBwNTAySVU4U3c0QUllWUpLNlN2NXdTdEJDMlFPd056OUMwbVQyLTJ1RmJrRU9Tam9UdWtUdk9neEtTNTgtNkM2Zi1CalE0UGoxRTkyVTBfV0h6UWptWlp5QXBuTE1FX0pXdUZXWXFUU3pWZlFxVjdKZ2I1SklmbVN6ckxXYlRYS0ZMQlBzanpHTFFfNmlPZFpfN0w2VUVGa1VRMkVUY3YwbXZ5aERtenJpY3FNUTBleFlGdTlaV1haZjdOc3lBdDNTV2VWZEhQNkUwMm9TU1FSQ2RLTzBIUERLaUV2cl8yU2NFQmlB0gHzAUFVX3lxTE53SUlMVGh6QnQtYk93UkdmX25hUFFhZVRtZXhMYk4wVHZjNFFYbXFWZVlSbGNULVBQcHVKLTQxbzZVTFJsN1Z1a1puUnRUT1NHM01sVHpFaWRSLWVGdHBhd2d2UFg2eTduVjQ0N0VENzV0UkJrLTZPVlNCMTZ6emp3dkxDUnVHd1Y3Rk9zSDREcnprUkhjMEFYZFNwZS1MV0ZFVGROQmJKSUZnSlRieGJBaHozRkFIN2cxUVgzOHhDZFhKSkNxSEplZkdjUXRMU3Z5SDdQdTFqa25RZ3RTSDdpbG8yQ1FXZHJjUVJ2ZWV0U2ZHOA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttar Pradesh MP List With Constituencies, Role of MPs in Uttar Pradesh - PW",
+        "source": "PW",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQ094NzkyRTIyNlNxaHBOMEVtM0ttUUNFc2VMMjExLUVrMXBhdHZfQWFGdzJOenhHZ2drOEZCUlRTeXZIakNjdHRKLWlwVnZadkN4TGR0SkJ4WEJHc2w1LTQ0NEdkallFcTBEYldPeFc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Raja Bhaiya’ factor tilting odds against BJP-led NDA in Kaushambi, Pratapgarh & now Mirzapur - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGd0dUdUazZ0eGh3SzFEUjIySUp2bWp0OU1lLW5pMTNKZklKa1BDN0ZXV2pUYVVtcU9Vd05YMjdsTUhJMGwwbnJndk15Y1V6V2o0QjVCUzl1eDVfQjNaNXlQc0NYN2QxYl85aVoza2pYN0tnNVNraG80LWhaMEl6cGVIc2VPMHRWaDYydTl2SWxYaGpUdjVmV1VDWXFfZUF3V3BFM2JzOTNNVkktMnF0ckFib1NQX1pDOHEyUC01bEJuNFJY0gHKAUFVX3lxTE94YlAyUGwtUG9sRTZkandQc1ljN0U2Nkt5WUNxLTZ1N2ZVNlFqX05YeG9oRjdkNHBORXk0djZSZDZGaHZBUnlXNW1rVzZ0bW5wM19kaWtMdWlXellGVjR2QzVYM1l5a0RhLW1udk9RX3A5RzhBbVBySXFnOGo1UHRiQnZpTEIxSjJXTHROdDVpeldhRTVldkc1SGRTbkI0dS1QVG9oaTRjZjFmQlR2c1JMRU9lbW1IZTQxbWc0STZ0WUJoM1dfODNieVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Cong, SP wrest 3 out of 4 seats in Prayagraj region from BJP | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDJyRnBTSmluSHFvN3ZDZm5Tc2Q3TnpvRktNMU5SY3BEQ3BKWXF2MFZSQUZqX0RLVHoxYk5iVnVuai1EX1F1TkNpSW4taXpFMFhERHZwVVo3RjlqYnh0cVdMdlVvbVVwcXhETklOcWhkT1Fvb0FEM1ZLOWZsS1N0cUZEMS1MaGEtZUJaWkVjbW1yWTVXVk1XcUJSQUE2ZXVoOVlXT3JuckdkbDVDaFZ0ak1HdEQ0cExuMkNMaUZLOHFyb1dKekZtekdQa9IB0AFBVV95cUxNZGxRY3ZUNUUtUnFzdnRVY0dPMVlSS1hvZ1ZCRmhIZE84YzA1ajItU3VscG1PRldsSXcxRDh6NzZhZG1ZOXA0UjI1ZGQtejJ0eUw1Qmd1NWVzRkJhejcxV28wclUxb0NVeWFYUWxxNGkza3dWc21xUU85YnJaZ3BMQWx1aTJidS1sUGlKYVRRSW5vSnBfZnFTNGtIWWJFUDJIZ0R5ZGNYTHFHLWNtSG8xUVVvWmNZQzN4dF9ZREVFNkdwUmZyblZuLUJpWXEtQmVt?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "प्रतापगढ़ Lok Sabha Elections 2024 - Jansatta",
+        "source": "Jansatta",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SN3piT0RwQmhxTWVUM0VQc3lYdnFGYzB4UnFBYlk4NFhNVHFCaWtqRktFcWdsWFNfOG1NcW1wTzZ0MHFrVUp5azhTV1RaWS1LbTVDZXN4Q3JaOFdBek15OS1FcENHTGs2VTRmM1ZlNTd0YWJsS0xYbXRERDhPQQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T15:56:57.502826Z",
+    "collected_at": "2026-09-02T17:47:57.186941Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.261213Z",
+          "fetched_at": "2026-09-02T18:38:11.847274Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.261222Z",
+          "fetched_at": "2026-09-02T18:38:11.847285Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.261227Z",
+          "fetched_at": "2026-09-02T18:38:11.847298Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.261232Z",
+          "fetched_at": "2026-09-02T18:38:11.847303Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.261238Z",
+          "fetched_at": "2026-09-02T18:38:11.847308Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.261243Z",
+          "fetched_at": "2026-09-02T18:38:11.847314Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.261247Z",
+          "fetched_at": "2026-09-02T18:38:11.847319Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -268,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.261252Z",
+          "fetched_at": "2026-09-02T18:38:11.847324Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -293,11 +338,28 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/DrSPSinghShivPalSinghPatel/",
+          "url": "https://facebook.com/https://www.facebook.com/DrSPSinghShivPalSinghPatel/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T17:44:19.082359Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -305,22 +367,6 @@
       "negative": 0,
       "neutral": 10,
       "top_headlines": [
-        {
-          "headline": "Uttar Pradesh MP List With Constituencies, Role of MPs in Uttar Pradesh - PW",
-          "source": "PW",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQ094NzkyRTIyNlNxaHBOMEVtM0ttUUNFc2VMMjExLUVrMXBhdHZfQWFGdzJOenhHZ2drOEZCUlRTeXZIakNjdHRKLWlwVnZadkN4TGR0SkJ4WEJHc2w1LTQ0NEdkallFcTBEYldPeFc?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Shiv Pal Singh Patel - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcGd4QjZTcHNyd2xrMkZ2emxNbV9ONzlnV3RtdGtBd2R3WUdRbV90OC11TlVRRE01MUxuc19HTEMwcmJRbGlmbFZfVEM4cVM4eGtkNWQ3RGluSEZhaUJRMXkwa3FrUmYzeV9OSlpWZ1hKdDZSbTFlWWZrd0Y5QXA4SWtIV2hyd0w3eDdPR3VJbWFFTXdfR2drd2E5aGZVaHItTzlFZE9uR1plLTJuUVlMY1dwU1dGbVZaQXR4RUd1TU9DZFdjazlyMXlB?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Pratapgarh election results 2024: SP's Shiv Pal Singh wins - The Times of India",
           "source": "The Times of India",
@@ -330,19 +376,35 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Dramatic Turnaround In Uttar Pradesh - thecitizen.in",
-          "source": "thecitizen.in",
+          "headline": "Uttar Pradesh MP List With Constituencies, Role of MPs in Uttar Pradesh - PW",
+          "source": "PW",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNThJZnJ6bWFsM1ZMTW1DTk1XeG5aYktPWWtJVTFmaUpFd0M4aG5paXd0LUxoRlJNUFJfYmNSVkNsTm8wU2dhUnhoLWRBS0RZUVcxOEx0dE81WWEyNzJGRU5qRHB0cEJtNnBuMDhLYnhBN214MzJ1WVZlUWFGeWNDVE1R0gGHAUFVX3lxTFBhVWFNbUF1Qk1YMnI1ME5YYUUybC0xWXBVeDJTaHF6d1kyOXhCVTRtQ2VBc0NEYTVWelNvUi13b055czhpNmV3OGFRcTllOEItZ29BQ2xMREZRN05BdzQ5LUwtT050Z3M0Q1lRX0hQOVBBTC1xTHBXbFhhODY3VEhNcGY2Q1RXQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQ094NzkyRTIyNlNxaHBOMEVtM0ttUUNFc2VMMjExLUVrMXBhdHZfQWFGdzJOenhHZ2drOEZCUlRTeXZIakNjdHRKLWlwVnZadkN4TGR0SkJ4WEJHc2w1LTQ0NEdkallFcTBEYldPeFc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Pratapgarh Election Result 2024 LIVE Updates Highlights: Shiv Pal Singh Patel (Dr S P Singh) of SP Wins - News18",
-          "source": "News18",
+          "headline": "‘Raja Bhaiya’ factor tilting odds against BJP-led NDA in Kaushambi, Pratapgarh & now Mirzapur - ThePrint",
+          "source": "ThePrint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWHZzSk9ha3N6NXk3VXE3V0RhV3E3Y0pYdC14dXN2eV9fYmlXMnZpcXRSMlVxU1lmZV9zNnc1ald0dHlucmpxTVV3eHFHNjN0M1N3WVlKTzZtMUlIcHJmejFqazVvRjk3TV9MYVFrRVFNTnlTSzd2ajFMT3RvUXhQMllGTWl3bjJqTklQb3lMcTU2cURWRkgxcDlpMVBZbTRSMGlSR1VPS2d3b3hSSU9lc1E0c2FOQkRjNVV3aUd2SG9PSUJqWDhIWkpxRk9ZLUpiejhMSDZsYm5PcWJXSzhRekc5V25PZ9IB6wFBVV95cUxNTXYxbzZ5dGR6NU9hSW5BZm9JM0JBNGQ4OFBVVFBWSWt0cXlPR2JsRERKNzlCWWdKcXJmeXJCTlZ5VlVGVHY2TWxkRW1UODVCNm9COTBHeGpsNzVmem1fMXh4MVgwV19UR0RtQ2pTOEZSYVJBUlNvMzAycmFzdjVKRUlTNmhJeTM1a1p1ODNxZ1dxTENFNzY3ZWM5Qk5ua1dGOEtxaHFQRDlSS0NFeFBSaU0wSzZvUy1qMDI3Z3dwRzZENmF6Tk1fN2Y2ZWt6NzhQUTg0MHBGdjVCWFNNUWo5Z1M4T212TDJfLVRZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGd0dUdUazZ0eGh3SzFEUjIySUp2bWp0OU1lLW5pMTNKZklKa1BDN0ZXV2pUYVVtcU9Vd05YMjdsTUhJMGwwbnJndk15Y1V6V2o0QjVCUzl1eDVfQjNaNXlQc0NYN2QxYl85aVoza2pYN0tnNVNraG80LWhaMEl6cGVIc2VPMHRWaDYydTl2SWxYaGpUdjVmV1VDWXFfZUF3V3BFM2JzOTNNVkktMnF0ckFib1NQX1pDOHEyUC01bEJuNFJY0gHKAUFVX3lxTE94YlAyUGwtUG9sRTZkandQc1ljN0U2Nkt5WUNxLTZ1N2ZVNlFqX05YeG9oRjdkNHBORXk0djZSZDZGaHZBUnlXNW1rVzZ0bW5wM19kaWtMdWlXellGVjR2QzVYM1l5a0RhLW1udk9RX3A5RzhBbVBySXFnOGo1UHRiQnZpTEIxSjJXTHROdDVpeldhRTVldkc1SGRTbkI0dS1QVG9oaTRjZjFmQlR2c1JMRU9lbW1IZTQxbWc0STZ0WUJoM1dfODNieVE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Cong, SP wrest 3 out of 4 seats in Prayagraj region from BJP | Hindustan Times - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDJyRnBTSmluSHFvN3ZDZm5Tc2Q3TnpvRktNMU5SY3BEQ3BKWXF2MFZSQUZqX0RLVHoxYk5iVnVuai1EX1F1TkNpSW4taXpFMFhERHZwVVo3RjlqYnh0cVdMdlVvbVVwcXhETklOcWhkT1Fvb0FEM1ZLOWZsS1N0cUZEMS1MaGEtZUJaWkVjbW1yWTVXVk1XcUJSQUE2ZXVoOVlXT3JuckdkbDVDaFZ0ak1HdEQ0cExuMkNMaUZLOHFyb1dKekZtekdQa9IB0AFBVV95cUxNZGxRY3ZUNUUtUnFzdnRVY0dPMVlSS1hvZ1ZCRmhIZE84YzA1ajItU3VscG1PRldsSXcxRDh6NzZhZG1ZOXA0UjI1ZGQtejJ0eUw1Qmd1NWVzRkJhejcxV28wclUxb0NVeWFYUWxxNGkza3dWc21xUU85YnJaZ3BMQWx1aTJidS1sUGlKYVRRSW5vSnBfZnFTNGtIWWJFUDJIZ0R5ZGNYTHFHLWNtSG8xUVVvWmNZQzN4dF9ZREVFNkdwUmZyblZuLUJpWXEtQmVt?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "प्रतापगढ़ Lok Sabha Elections 2024 - Jansatta",
+          "source": "Jansatta",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SN3piT0RwQmhxTWVUM0VQc3lYdnFGYzB4UnFBYlk4NFhNVHFCaWtqRktFcWdsWFNfOG1NcW1wTzZ0MHFrVUp5azhTV1RaWS1LbTVDZXN4Q3JaOFdBek15OS1FcENHTGs2VTRmM1ZlNTd0YWJsS0xYbXRERDhPQQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -392,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 70.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -423,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -438,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 466,376,372. MPLADS utilization: 22.2%. Parliament attendance: 85.0%. Questions asked: 13. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:54.261985Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 70.0%. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.848016Z"
 }

@@ -4,21 +4,21 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.6 / 100
+## Composite Transparency Score: 45.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 24.0 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.37 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 7.37 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 50% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 5
-- **Utilization Rate:** 30.0%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -67,37 +66,63 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@RAJNATHSINGH](https://x.com/http://www.twitter.com/@RAJNATHSINGH) | No | Yes |
+| Facebook | [@http://www.facebook.com/RAJNATHSINGHBJP](https://facebook.com/http://www.facebook.com/RAJNATHSINGHBJP) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
-- Rajnath thanks Modi for Metro expansion - MSN (MSN) [neutral]
-- ​Lucknow has transformed, India’s stature rising globally: Rajnath - The Times of India (The Times of India) [neutral]
-- Rajnath Singh: meets family of Operation Sindoor martyr Sunil Kumar Lucknow - Deccan Herald (Deccan Herald) [neutral]
-- Lucknow is playing a bigger role in boosting India’s security: Rajnath - The Indian Express (The Indian Express) [neutral]
-- Our full effort is to make Lucknow world-class city: Rajnath Singh - Business Standard (Business Standard) [neutral]
+- Defence Minister Rajnath Singh unveils statue of Queen Avantibai Lodhi in Lucknow - Daily Excelsior (Daily Excelsior) [neutral]
+- LUCKNOW: DEFENCE MINISTER & MP RAJNATH SINGH INAUGURATES SHRI RAM SENIOR CITIZEN HOMES IN GOMTI NAGAR | VISUALS - Press Trust of India (Press Trust of India) [neutral]
+- Rajnath Singh to culiminate his Lucknow visit with development of Lucknow Cantonment as 'Model Cantonment' - Hindusthan Samachar English (Hindusthan Samachar English) [positive]
+- Rajnath Singh to stay in Lucknow from August 28-30: To inaugurate Fragrance Park, unveil Rani Avantibai Lod... - Bhaskar English (Bhaskar English) [neutral]
+- Rajnath Singh cautions against forces seeking to weaken country by exploiting social divisions, narrow interests - The Statesman (The Statesman) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Defence Minister Rajnath Singh unveils statue of Queen Avantibai Lodhi in Lucknow - Daily Excelsior** (Daily Excelsior)
+- ! **LUCKNOW: DEFENCE MINISTER & MP RAJNATH SINGH INAUGURATES SHRI RAM SENIOR CITIZEN HOMES IN GOMTI NAGAR | VISUALS - Press Trust of India** (Press Trust of India)
+- ! **Rajnath Singh to culiminate his Lucknow visit with development of Lucknow Cantonment as 'Model Cantonment' - Hindusthan Samachar English** (Hindusthan Samachar English)
+- ! **Rajnath Singh to stay in Lucknow from August 28-30: To inaugurate Fragrance Park, unveil Rani Avantibai Lod... - Bhaskar English** (Bhaskar English)
+- ! **Rajnath Singh cautions against forces seeking to weaken country by exploiting social divisions, narrow interests - The Statesman** (The Statesman)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rajnath Singh shows moderate transparency with a score of 51.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Rajnath Singh has a below-average transparency score of 45.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 73,684,617. MPLADS utilization: 30.0%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. Low confidence data: Criminal record, Assets, MPLADS, Parliament activity. 4 warning(s) noted.
 
 ---
 
@@ -137,7 +162,7 @@ No criminal cases declared. Declared assets: Rs 73,684,617. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -216,8 +241,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Rajnath Singh's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 30.0%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -235,10 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,80 +4,156 @@
     "constituency": "Sant Kabir Nagar",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 8387,
+    "myneta_candidate_id": null,
     "slug": "laxmikant-pappu-nishad",
     "house": "lok_sabha",
     "sansad_member_id": 5813,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 51,
+    "age": null,
     "photo_url": "/mp-photos/5813.jpg"
   },
   "criminal_record": {
     "total_cases": 3,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "PS. Belhar Kala | Section 3 Epidemic Act, Section 51 Disaster Management Act",
+        "ipc_sections": [
+          "188",
+          "269"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "C.J.C.D.",
+        "fir_no": "PS. Belhar Kala",
+        "case_no": "25849/2022",
+        "other_acts": "Section 3 Epidemic Act, Section 51 Disaster Management Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "PS. Badhira | Section 3 Epidemic Act, Section 51 Disaster Management Act",
+        "ipc_sections": [
+          "188",
+          "269"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "C.J.C.D.",
+        "fir_no": "PS. Badhira",
+        "case_no": "4855/2023",
+        "other_acts": "Section 3 Epidemic Act, Section 51 Disaster Management Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "PS. Badhira",
+        "ipc_sections": [
+          "419",
+          "420",
+          "120B"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "CJM",
+        "fir_no": "PS. Badhira",
+        "case_no": "1000/2013",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:02.570341Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 33728000.0,
-    "liabilities": 3500000.0,
-    "net_worth": 30228000.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8387",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.453080Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 27.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 2.84,
-    "expended": 0.46,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:57.319396Z",
-        "notes": "Official eSAKSHI REST API — Works: 590 recommended, 35 sanctioned, 2 completed"
+        "fetched_at": "2026-09-02T15:56:34.771118Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:52:55.134557Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:52:55.131711Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 590,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 3.1292517006802725
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +168,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:10:26.427423Z",
+        "fetched_at": "2026-09-02T15:52:55.130654Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +176,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Laxmikant Pappu Nishad , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFJfT29QRXRwcERpSXpqdzN4aUlReDRrc1J0b2Z4bWlmVkpYRVF1eVJCRGtLUzlUMkpQcmdmbGNOZWYxejFBVjRRVEZYcHJ4MnVsTlM4eVlGSnhxVzBZSnozT2JLNWRnbDEzckxXMDlDazFEeF81R0lVa3BwN05oN2I5OFNoMTR3QWd6OExaU0U?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – N - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTy1LMm9DY2hRTHJDZWgxRDlwODl4WERHRDNPVTh1TnJ6U1FkTG55QUxRcjgtazJubURsNGlMV1RUQ0ZIZzYzbDVCOHFuSlFfQ0NxVUZkR3Y5Q21kd25pMHkyaUI1d2xiN1puUFUzcjRJVjRfWFREUnNvUTRqaDQ2Q2RFXzVLWmc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Congress, SP formed alliance with dangerous intentions\": UP CM Yogi Adityanath - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXpNcUJGNGU4X3RnWFV0eGUyeTBLN3NvbUxqWFpaYXU5UWx5YTZXbThXeUtjNS1odjROX1V3d01KQlNCb3U0TFRZUi1pNS1NaHREV3RDTTNaZDZzNUdUQ2RDWlhoUXQ3azd1OFM0MVlmNW9uSWE4dzdiMlhxb2JlcHpkRDg1NU9mNGlVY25CaGNUanY4V2p2U1lRaGhFVTVhcWVoUFlqNFNETzdxVXVJek84dXUyallUQ2htU25mOWs3REpFV21uQS1UZ1lXamlo?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kabir’s message of communal, caste unity lost in cacophony of poll campaigns | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVDdMblYycjM2TDlOd09NQ0g0eTIxQmQxWjBFc2N6WTQxQXBrQUZPV204Q0FlZ2dOZGVTbUN4MC01TXQ4UVJKalZrLVJYcElXa3BTN0ZYV1FmVzA4V3plUnotaDM0cGwyQy1Ha1JfV2g0M1ZwUkhHLUxHT3ZrVWpRT3BHU0E0TG5tTkNLdHpSMXlpTUtlSjcyRk9KRmhYbDRqRDZaNXJTNGNaS2tvYlNVM3JTeWF5cGY2NHJBR1pjNmtnMkRXdTA4MzJhd01nb0Y2U1M1YXVwMTJkd3lTV05F0gHkAUFVX3lxTFBFY0EtMWtuQUpvSEExeV9LZUtuTl85aFJfRGdSRFZENWdyd1V3clpxbGNNUEVmMXFFZ1hySEJaWU1hai1NQzJuZWlDcXRzbmFlMmF1cWUySVR6S3BfRjdqNlUtNEJWNU55NjdHeWo3d0lKOGFVUUUxX0lFVm5fTFZ4djRWZzBoZURBalFDUmlwendPbG43VkZ4ZVRjOHNRREZoSF9NM1lFWXctaGNSZVJ5SzczbUUwZTVtejE0YXRfOGUySUY1UWtmYVVvVEZZNWNobzBtTVhReTRRb05VY25qbjZYVw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "What Three Low Margin Constituencies Say About Uttar Pradesh Politics - TheWire.in",
+      "source": "TheWire.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU19mSVZKQmFwX2dsdXVPOU5BN0ZjYlVGeGY0MEcxUWhlZFktdlZ2UGd5cEJTT3VPNFQ0aTdiWDhpajlMTklQb3RCQVVOR2xDMzlFbUJZTGgyM0ZPbmJRMHgyMl9qQWZyQWNsTkJjbHJyY3RXdmt5Zmc4VllUeTFUMVBzejVNanBHMFZ6eTVoUWpoNlp4SnhnV1A0VktBUkRTb1HSAacBQVVfeXFMTm1LYVFEQTdBR3hVZmhwa2dzUVcyLVdTQWd5VGNnZjU2U0wwd0JrN0c5dGlJbU5NS3BBS0dsN3MteUhlUGlwYXFTNTNYS0RxYU9EcHh6ODVzVjZWODFZZHRkeklOczktUGJCa2RCTHg0WHFrZEhybWJERkVYZE8tU1cxZHpqSmJoOFZ0Z3kwN0FtQkt6VlllVG5FLV9PTU1mMmVZUHVDaEk?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:10:45.970583Z",
+  "collected_at": "2026-09-02T15:56:34.772093Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +245,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.771826Z",
+        "fetched_at": "2026-09-02T18:38:11.339675Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +261,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.771835Z",
+        "fetched_at": "2026-09-02T18:38:11.339685Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +277,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.771840Z",
+        "fetched_at": "2026-09-02T18:38:11.339691Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +293,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.771846Z",
+        "fetched_at": "2026-09-02T18:38:11.339696Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +309,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.771850Z",
+        "fetched_at": "2026-09-02T18:38:11.339701Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +325,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.771855Z",
+        "fetched_at": "2026-09-02T18:38:11.339706Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +341,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.771860Z",
+        "fetched_at": "2026-09-02T18:38:11.339710Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +357,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.771865Z",
+        "fetched_at": "2026-09-02T18:38:11.339715Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -274,10 +389,10 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 8,
+    "total_articles": 10,
     "positive": 0,
     "negative": 0,
-    "neutral": 8,
+    "neutral": 10,
     "top_headlines": [
       {
         "headline": "Laxmikant Pappu Nishad , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
@@ -288,7 +403,7 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Parliament of India : Lok Sabha Member of Parliament – N - Sarkaritel.com",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – N - Sarkaritel.com",
         "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
@@ -296,19 +411,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP Nishad ally struggles in Sant Kabir Nagar, but for Modi-Yogi name - The Indian Express",
-        "source": "The Indian Express",
+        "headline": "\"Congress, SP formed alliance with dangerous intentions\": UP CM Yogi Adityanath - ANI News",
+        "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGFsbXIwTVdhVEVBelAybW9yM0IzeVpjWTBmbmZEOG5WdmlHdVhoWHAyV3lmdzJHdm9tM3l6aXB0RzlFbFdxRlZQNzZKQTlOLXVVM0lQc2lYbnRQWE9GOEFuZjctVzE2RW5FS0ZrOWJidmFaZjBtSmZ2UkQtTTJqbUJycjZKc2l6WkhVdmZoQdIBlgFBVV95cUxQSy1QbkNRcmIycFhQQUFrZ2pRc21CUVFHUVVsbXB3b3VMWTJRclFLeFFrSUJLRkMtQzZvNXpfUUhIZUlQV2hyaEdmdlVQdFdlZDZlUmlsRmVPUUxGWnFHNzEzLThNRnFIV2pVQjM2MVhrNzFpRjIwWVhhWTlxeks5cjZOU2JWZHRSa045UzlnMnptUXh1M0E?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Sant Kabir Nagar Election Result 2024 LIVE Updates Highlights: Laxmikant Pappu Nishad of SP Wins - News18",
-        "source": "News18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONnBtOUNBZlZUSFV2SGYydHNwa2VuSXluRjVncWtOU3hVYldEU05lemhsUnhFWV9mb1Y0VTYtdG5XVG1NUGdrclFPZTQtNjFDeEx5TUhCelRxUjhHam5FZmhabC1ta3JncGVHNlhTb1lReDFUc2ExTXZOZXJKSW9Rb0lqbnY3czVjVjRHa2RteUluY0FBaHVseDZHSTFNVThxNzdzeGItVS1hMWVLRzZTLXQtdV9ISElGaFc0X0ZkUjgzYzlLWjZuQWNKZG5JcFBmbElFRVpDWTRTalU2VzlLWHJLNS10dTdfMWVWcHJR0gHzAUFVX3lxTFBtaExOVng4WG14cC1nbTdtSlJHSWR2dFE2WlNiN1FZQTVDbEl3Y3hjQW1zQ1hCRTI5M09jMU9BdWt0OE5ScGRoNmJRMHlUX2dIOGJNenVYU1ZHQmh5STJZT2ROa1N1LVVVcUFrNXZ2Ri1hNlhUQ1BXWVMxV0F0QzY5dFRvVkEzZkFuN1ZVWlZ3VnAyZ2dZNl9uaGk2V21kaW9KUEpJclFMNXI5cXlnaERvWlVWSVFIMTdkd1hTUE9qdXlmRVNORzV3TXhZN19Oc0JUVUU3RlAxek8zMXJuWEVreHNOcS1JSF9ETHYyVUFjOS03UQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXpNcUJGNGU4X3RnWFV0eGUyeTBLN3NvbUxqWFpaYXU5UWx5YTZXbThXeUtjNS1odjROX1V3d01KQlNCb3U0TFRZUi1pNS1NaHREV3RDTTNaZDZzNUdUQ2RDWlhoUXQ3azd1OFM0MVlmNW9uSWE4dzdiMlhxb2JlcHpkRDg1NU9mNGlVY25CaGNUanY4V2p2U1lRaGhFVTVhcWVoUFlqNFNETzdxVXVJek84dXUyallUQ2htU25mOWs3REpFV21uQS1UZ1lXamlo?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -316,11 +423,19 @@
         "source": "Hindustan Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSDdJdWF1RGZJOXhUZ1V5UVc1YVR2T2xHc2R5Z3d2clA2b0FrSHRxakkzOVFZdjRfQzRSZzA2aEh5TmwybWFkRWRQZk9OTkFaaUp2cmpPWEQ2ZDdBLXV2WnZkNnRYWE1LN0hoMDRzR0FmZFJvaTJoMTJhWURpT25zNVR6NE9td0FKNTVsdGJ6WE5oS2FRcEFBMXZWNXF4bWhLTXpqX0VaTXN3U0h6YVJXT0FFYzFUVEhkVExxQXVmWGZ0UFY3VWwteWsyMTRmV0RYQjlyekNlV3dBcnJZS2NsY1pNUdIB6AFBVV95cUxQOXJYaDF6SHY2eGo1V042b3pFTEVIZ0tPd1ByOGg3bVhKNl80d1l3YnhtRnpTRmlmelVaQ3cwLUlWVjBwYlhXa081dkQzQV9KUmtsS1d2ZWZ1UERXSEFiQW82SEs1dmNzMkIydXNFMWRBamhhazNsQ3dDdWRaZlBseWlfYkVBb2VwRTZyMlEtYVB4MVB1YmNzRkU3T1p0ajA1eTJqcE84dWJkeWthSUdnejdWeXRmeXptMG1nZXN2d2RSVTRzMkJzSnpqSzlNYXJmZGpteW1DeUVCbWp4cTlObjBYSHBscUFi?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVDdMblYycjM2TDlOd09NQ0g0eTIxQmQxWjBFc2N6WTQxQXBrQUZPV204Q0FlZ2dOZGVTbUN4MC01TXQ4UVJKalZrLVJYcElXa3BTN0ZYV1FmVzA4V3plUnotaDM0cGwyQy1Ha1JfV2g0M1ZwUkhHLUxHT3ZrVWpRT3BHU0E0TG5tTkNLdHpSMXlpTUtlSjcyRk9KRmhYbDRqRDZaNXJTNGNaS2tvYlNVM3JTeWF5cGY2NHJBR1pjNmtnMkRXdTA4MzJhd01nb0Y2U1M1YXVwMTJkd3lTV05F0gHkAUFVX3lxTFBFY0EtMWtuQUpvSEExeV9LZUtuTl85aFJfRGdSRFZENWdyd1V3clpxbGNNUEVmMXFFZ1hySEJaWU1hai1NQzJuZWlDcXRzbmFlMmF1cWUySVR6S3BfRjdqNlUtNEJWNU55NjdHeWo3d0lKOGFVUUUxX0lFVm5fTFZ4djRWZzBoZURBalFDUmlwendPbG43VkZ4ZVRjOHNRREZoSF9NM1lFWXctaGNSZVJ5SzczbUUwZTVtejE0YXRfOGUySUY1UWtmYVVvVEZZNWNobzBtTVhReTRRb05VY25qbjZYVw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "What Three Low Margin Constituencies Say About Uttar Pradesh Politics - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU19mSVZKQmFwX2dsdXVPOU5BN0ZjYlVGeGY0MEcxUWhlZFktdlZ2UGd5cEJTT3VPNFQ0aTdiWDhpajlMTklQb3RCQVVOR2xDMzlFbUJZTGgyM0ZPbmJRMHgyMl9qQWZyQWNsTkJjbHJyY3RXdmt5Zmc4VllUeTFUMVBzejVNanBHMFZ6eTVoUWpoNlp4SnhnV1A0VktBUkRTb1HSAacBQVVfeXFMTm1LYVFEQTdBR3hVZmhwa2dzUVcyLVdTQWd5VGNnZjU2U0wwd0JrN0c5dGlJbU5NS3BBS0dsN3MteUhlUGlwYXFTNTNYS0RxYU9EcHh6ODVzVjZWODFZZHRkeklOczktUGJCa2RCTHg0WHFrZEhybWJERkVYZE8tU1cxZHpqSmJoOFZ0Z3kwN0FtQkt6VlllVG5FLV9PTU1mMmVZUHVDaEk?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -350,15 +465,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 4,
+    "starred_questions": 1,
+    "unstarred_questions": 3,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 7.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +481,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

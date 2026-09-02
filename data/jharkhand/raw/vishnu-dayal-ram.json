@@ -4,16 +4,16 @@
     "constituency": "Palamu",
     "state": "jharkhand",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 6264,
+    "myneta_candidate_id": null,
     "slug": "vishnu-dayal-ram",
     "house": "lok_sabha",
     "sansad_member_id": 4731,
     "profile_url": null,
     "canonical_name": "Vishnu Dayal Ram",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 72,
+    "age": null,
     "photo_url": "/mp-photos/4731.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:24.960605Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 39081116.0,
-    "liabilities": 1237580.0,
-    "net_worth": 37843536.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6264",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.513496Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 31.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.82,
-    "released": 15.82,
-    "sanctioned": 8.07,
-    "expended": 6.45,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:24:06.815365Z",
-        "notes": "Official eSAKSHI REST API — Works: 253 recommended, 182 sanctioned, 38 completed"
+        "fetched_at": "2026-09-02T14:38:55.517090Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:35:05.878532Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:35:05.875984Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 253,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 40.771175726927936
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:39.076318Z",
+        "fetched_at": "2026-09-02T14:35:05.874928Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Palamu MP V D Ram defends MMDR Amendment Bill, rejects ‘central imposition’ charge - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWkxsQVhmQlVXOTJPaC1TSXZWekNmSlhkZTctVnY2OEFjbGlhR0F6MlBFRnVlZGJyRGtQenJFc1kwOTlOTnJuV01nUk9jRFN3Vk1FYkRGRWc5eFN6aEJScE1pOG1pUHpJbjF0bFVMX1gwR19xWWRQMlF3d2RTOG9KUjViOW1aaWw0b0FycTVZcHQ5NGQ5bWdBNjUzdG5pNGlGbE12Q2FQNk9NWWFPSEYyeFl6U2s2dThkenltZGlFejV6TTFvRWFpaVNCeEN0aHpNUmxtZk9mX2xHZ194eUJSQjJIT2Zrb2Nk0gHuAUFVX3lxTFBVd2xIYUx4Rjgyd0V4bWJMNTg3b1ZmZVZGaWo5Tjl1aUJra3FHYVFYa3U4Y3FaSERoU2N4cFY5NWZ0Y0pYeHdlalo5UGxPcXdKUkxuLTdhQzBCVUZETUF5RFplRl83NVhVYjdrVGF6eVd4VWlnRFJoX2Y2WDdtRWFGTkY5Z1lSZnZyVWUxWkN5UW1GRVdSbmJsR1dRVTdKX1kwMmJmeUVqSmJ1c1A2c2JWLVB3TWwwUWtPQl9Eck5qbHRjV1lOUzdCXzdCektrcGNFT2RiLVNSYnBpT01NTUJlaVFIem1oWldjdGZHUmc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Palamu MP Raises Concerns Over NH-39 Toll Collection Amidst Incomplete Construction - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWFiem9vM0hITkxNa3J0aXhKaTN1NFhaTk9mM1FiclpNNTRqYkZuempKZUE1Y3ZPZG9iVl9jSm9BX1NGNF96QVpEbWRZd2Jkenc4cjM4Um83aDRuQ0ZmNk9fRDhvNnNPV0JQaHdUX1k4Ql82dmVCSHh4RTdsLUtLakZBZnplZy0tTDg0VWVKUjg3bXFodi1KSnBhYzR2Q015el9jTlFYdklrbVptQUFGVXVKcFdMZDR2cUdlRnVzRmNvS0l6UzNjcEdwcE1hVWhtZFdWSmh4RTFoRzk2UEpsTUxDaG9JajVsdldmTTdR0gHzAUFVX3lxTE45ZzVjNFpVRTdVUHFrYXBHcEtfQmNoeF9oaTFKMDdVTGViMEwwOGNoaURaeW81eWkxdGtkMlhkX1ZYbDYwSjNyZWE0V2ZseG1YanB1R252NnZiSWZQOHl1bjZuSUFtWFAxdE9rLTJXSzZOVkN0NTlQLXl6b3lDSHM5c2lSbkVVb1VKcU0xZlRPamdWR1d3ejRhOHF4NkhmWVZlbmFkWHg5UGVDX2lJNUN6QkJsUGdkLXMyVVpMLUdCWGRwQnNzVmNKdWVUUnd3ZXpPZkJtdW1hcDhpUkdmWFFxREwxZDJjc0VDWG9LNmZ1WVlpbw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Palamu Lok Sabha Election Result 2019 LIVE Updates: Vishnu Dayal Ram of BJP wins - Firstpost",
+      "source": "Firstpost",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTXhCZkRzWTFiQnphXy1Fd1VqY0xxazhtemxsZ2d0YlVqQl92cmJTUllORVNweU5VYTYwZHVhcEF3NEJ0WjhiQWpGbDJaUGFuQXBHaDdNcFJrdnk0ZjNtWkxnb21WNUxOLXZVQk9ENjJ0QWtyNWg4QUJKMHNPWjVsVFprbjNoUzJyTG85VmFpQ25EZHMxZkZjdV9HdU9NS0YycE1XZVdWODlGQU51WWZEYkx3ZEpCZkhYQk1tclQwa2F5c0Jp?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP sitting MP Vishnu Dayal Ram in fray with RJD’s Mamta Bhuiyan in Jharkhand’s Palamu - The News Mill",
+      "source": "The News Mill",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNFJnOURxeldONTRLM0JOeXdIR3d4R1RPLUhVajE5ai1zRmIwdkR5N2NuenE2SVY1UFlRWG9NQkVTOE9Zc19Zd0xHVzZLczI4VWpIczBmZTRhNkhrUmh1QUxBdnBiVDhneXhUUmNNYlp4MWZ4OEhXVElvcE9BdEl5QXR1ZHphZWpkMUFKblZ5WG1nWkJBZUVIWWtwZlhkdGZIb1ZUZEJHNC16RzFYQUx5dk5YQnVfS3ly?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Vishnu Dayal Ram , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTc4c0Z4UHVOaFdoeU1UR185NS1pVFhYWkNzMElLU2otUGgteFFqVU9Pa1h0YnJNX09OQUFSYlpCbGVGQjhPdDdJRGtBLTNyS1JwM3ZubHFKYUROX0pqbmFKaEpEc21zd19GMl96UG5kTjE5T01rS2FGV0Q3NDhXbUNlQmJDaExv?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:43.703420Z",
+  "collected_at": "2026-09-02T14:38:55.518030Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.893143Z",
+        "fetched_at": "2026-09-02T18:38:06.435357Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.893152Z",
+        "fetched_at": "2026-09-02T18:38:06.435368Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.893158Z",
+        "fetched_at": "2026-09-02T18:38:06.435374Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.893163Z",
+        "fetched_at": "2026-09-02T18:38:06.435379Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.893169Z",
+        "fetched_at": "2026-09-02T18:38:06.435386Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.893173Z",
+        "fetched_at": "2026-09-02T18:38:06.435391Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.893178Z",
+        "fetched_at": "2026-09-02T18:38:06.435395Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,24 +304,73 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/vishnumppalamu?lang=en",
+        "url": "https://x.com/https://x.com/vishnumppalamu?lang=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/vishnumppalamu/",
+        "url": "https://facebook.com/https://www.facebook.com/vishnumppalamu/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "http://www.instagram.com/mpvdram",
+        "url": "https://instagram.com/http://www.instagram.com/mpvdram",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:35:11.538561Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
+      {
+        "headline": "Palamu MP V D Ram defends MMDR Amendment Bill, rejects ‘central imposition’ charge - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWkxsQVhmQlVXOTJPaC1TSXZWekNmSlhkZTctVnY2OEFjbGlhR0F6MlBFRnVlZGJyRGtQenJFc1kwOTlOTnJuV01nUk9jRFN3Vk1FYkRGRWc5eFN6aEJScE1pOG1pUHpJbjF0bFVMX1gwR19xWWRQMlF3d2RTOG9KUjViOW1aaWw0b0FycTVZcHQ5NGQ5bWdBNjUzdG5pNGlGbE12Q2FQNk9NWWFPSEYyeFl6U2s2dThkenltZGlFejV6TTFvRWFpaVNCeEN0aHpNUmxtZk9mX2xHZ194eUJSQjJIT2Zrb2Nk0gHuAUFVX3lxTFBVd2xIYUx4Rjgyd0V4bWJMNTg3b1ZmZVZGaWo5Tjl1aUJra3FHYVFYa3U4Y3FaSERoU2N4cFY5NWZ0Y0pYeHdlalo5UGxPcXdKUkxuLTdhQzBCVUZETUF5RFplRl83NVhVYjdrVGF6eVd4VWlnRFJoX2Y2WDdtRWFGTkY5Z1lSZnZyVWUxWkN5UW1GRVdSbmJsR1dRVTdKX1kwMmJmeUVqSmJ1c1A2c2JWLVB3TWwwUWtPQl9Eck5qbHRjV1lOUzdCXzdCektrcGNFT2RiLVNSYnBpT01NTUJlaVFIem1oWldjdGZHUmc?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "Palamu MP Raises Concerns Over NH-39 Toll Collection Amidst Incomplete Construction - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWFiem9vM0hITkxNa3J0aXhKaTN1NFhaTk9mM1FiclpNNTRqYkZuempKZUE1Y3ZPZG9iVl9jSm9BX1NGNF96QVpEbWRZd2Jkenc4cjM4Um83aDRuQ0ZmNk9fRDhvNnNPV0JQaHdUX1k4Ql82dmVCSHh4RTdsLUtLakZBZnplZy0tTDg0VWVKUjg3bXFodi1KSnBhYzR2Q015el9jTlFYdklrbVptQUFGVXVKcFdMZDR2cUdlRnVzRmNvS0l6UzNjcEdwcE1hVWhtZFdWSmh4RTFoRzk2UEpsTUxDaG9JajVsdldmTTdR0gHzAUFVX3lxTE45ZzVjNFpVRTdVUHFrYXBHcEtfQmNoeF9oaTFKMDdVTGViMEwwOGNoaURaeW81eWkxdGtkMlhkX1ZYbDYwSjNyZWE0V2ZseG1YanB1R252NnZiSWZQOHl1bjZuSUFtWFAxdE9rLTJXSzZOVkN0NTlQLXl6b3lDSHM5c2lSbkVVb1VKcU0xZlRPamdWR1d3ejRhOHF4NkhmWVZlbmFkWHg5UGVDX2lJNUN6QkJsUGdkLXMyVVpMLUdCWGRwQnNzVmNKdWVUUnd3ZXpPZkJtdW1hcDhpUkdmWFFxREwxZDJjc0VDWG9LNmZ1WVlpbw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Palamu Lok Sabha Election Result 2019 LIVE Updates: Vishnu Dayal Ram of BJP wins - Firstpost",
+        "source": "Firstpost",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTXhCZkRzWTFiQnphXy1Fd1VqY0xxazhtemxsZ2d0YlVqQl92cmJTUllORVNweU5VYTYwZHVhcEF3NEJ0WjhiQWpGbDJaUGFuQXBHaDdNcFJrdnk0ZjNtWkxnb21WNUxOLXZVQk9ENjJ0QWtyNWg4QUJKMHNPWjVsVFprbjNoUzJyTG85VmFpQ25EZHMxZkZjdV9HdU9NS0YycE1XZVdWODlGQU51WWZEYkx3ZEpCZkhYQk1tclQwa2F5c0Jp?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -280,27 +382,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Palamu Lok Sabha Chunav Result 2019: BJP के विष्णु दयाल राम जीते, RJD के घूरन राम हारे - AajTak",
-        "source": "AajTak",
+        "headline": "Vishnu Dayal Ram , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRy1iUmVabVMwc0JhWlRfcmF4Y0tpczh5ZllpX0tjRU9XWkxSV2NlSktLeFZuN29CYW02OThBYzBQeHBsR3I0UzFKeXZScUg3RkxFZTZaZE1RN0t0dkJKLTdEMjhhazY2dmNPX25fR1BHT3c1YXJQNEJuODRIbk8tMnFSbkY4X0x5anptczdpVWhZVTFZbmY4eFJmS192bjhPZlN5ZUMzMWRoUHVSOG9NdGYyNGFES3FkWDNNS0tXMFdSR3pfT29FRmZxRkFXRi1zU2psVjVSTlRQYk92Y2VPYW1uWEowYkxiRzNZbVl6dXpOM1pkeTV6VDdrYUQxSUxZQVRFUkRtbjdqMk3SAZACQVVfeXFMT2J1eGxGUFhHUThqQ1dQU05oTGRJVlZwOXZuZnRXZS16VkUycXpBWnVyM0dxQnRSeXcwWGdsNmx3OWw2d1RRTTY0U0hOS1NKb0Z2X2d0d2ZDYjJNOW1sVHdaZktodVBCVHByWmVnYTRlUU5YSzhwZmJRTEUtcVpvQ1RfeDcyYWtNSnRHUkdpY01FV0xiaWN0Ri1Kc3M4RnVsYnZGUDNTTDBKSk5xTjYySkJoVU9FY1dxNU9lRGRiQlFXbXI3V0h2QVNBSF9OeGxkbnRQTWk1MTZNUzgyWDBRRlU1T0ZxM3FzcVdRWUhENEhaY0ZGdlhaWENuckZnWUREY2hOdWVZV09KTm5fbHZpRkk?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Palamau (SC) election results 2024 live updates: BJP's Vishnu Dayal Ram wins against RJD's Mamta Bhuiyan - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPdUg2NXAzMFkzLUVtUzVOZ29uSlhaS3U4X1l6cVVzTWhIU3J0czlVcjJYWlNUdUc2Ni1xeG5nYjFyZ3BzeDRwLTNWdEJCNUg3UFVXOUlzMUNNMzNWT3pTY1hpUDFraVZxUXIyb0hCT3FOUFJsY051UlBsVEpOVldhZUM2bWhWd1NUTDhoSGRfSm4wQnJ6LTVQZ2x0Qi0yV3JxTzh1TXRNY1lkUllhTWJUTUstVEUtdjhVclQ0NERkMlYtS3NhUDZyT1BxbGRVRElRa2E4cmxzMmhPbTdqemRCaXRHV3dNVzJUeG9CNW9IVGQtVUh6dG5LbkxXOUwzYjBYRTY1Uk9oamxYcjk4UzdsVmJ1OG9WX0ctbEI1c2ZsT1JUOUM0NjV0bXJQQdIBsAJBVV95cUxPRW9pbFFHY29WY1NYR09PSlREX3kyMWY2NTdGS0JlX0FOMDViTWdraS1vUkl0RDU4dEFpV0Jkajd2ZWxnekFjTWg2MHladUNfZEVQeDlMU2VjRlc5NUd5ZWw5dUMzX1ZucjJzVHY0bVdod2xXaEhYSElsXzRfdm91UWJhbVdSd2I1dDhBOGoxYnZ3OWoyajk4T1hSWUhyNWhOMGVJOUUxZHZoMnNBcHVNSC1MeGEzQTczT0N0SjRfcGl1UFBOUmlYZ3RtSjR0SHBRd0N4WV9iV0h5dm1zS3BqeE1aZTM1ZWc1OWhIQ0xwUnNzU2NCUmgwREVUWDVrUWcxSGZsQXE3b1VDY2Q0Yy1zelBfZC1UdmVyX3pjVjJsS3ZaZzFiSFA4MGhRZXJfanFu?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Palamau lok sabha election results 2024: Palamau Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2hOT29Zb0dmcE5lMkd0T25lRUluNUIySjFISUJ4NzdnM1NPS09uT3UyX281T0k0M1AxU1Q0ZS1KWVd5elh2MEVvVC13V0x2ZGhkZmp5NGVsNWJkYVdSMnBibW5vTzdIRWlRQk90dUJVNUZrXzNvTWNVSFQ5dHJVU0pmeVg5TEVyZ3VMVjFlb0l6MFE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTc4c0Z4UHVOaFdoeU1UR185NS1pVFhYWkNzMElLU2otUGgteFFqVU9Pa1h0YnJNX09OQUFSYlpCbGVGQjhPdDdJRGtBLTNyS1JwM3ZubHFKYUROX0pqbmFKaEpEc21zd19GMl96UG5kTjE5T01rS2FGV0Q3NDhXbUNlQmJDaExv?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 61,
+    "starred_questions": 18,
+    "unstarred_questions": 43,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

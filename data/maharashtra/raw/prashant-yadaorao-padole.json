@@ -4,16 +4,16 @@
     "constituency": "Bhandara-Gondiya",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 313,
+    "myneta_candidate_id": null,
     "slug": "prashant-yadaorao-padole",
     "house": "lok_sabha",
     "sansad_member_id": 5729,
     "profile_url": null,
     "canonical_name": "Prashant Yadaorao Padole",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 45,
+    "age": null,
     "photo_url": "/mp-photos/5729.jpg"
   },
   "criminal_record": {
@@ -24,68 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=313",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.073794Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:35:20.318347Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 144668874.0,
-    "liabilities": 22513000.0,
-    "net_worth": 122155874.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=313",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.073810Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 65.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.97,
-    "released": 15.97,
-    "sanctioned": 2.12,
-    "expended": 0.53,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:30:15.655387Z",
-        "notes": "Official eSAKSHI REST API — Works: 127 recommended, 28 sanctioned, 6 completed"
+        "fetched_at": "2026-09-02T15:14:20.676226Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:10:22.045696Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:10:22.042711Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 127,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 3.3187226048841576
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:32:37.796450Z",
+        "fetched_at": "2026-09-02T15:10:22.041548Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Bhandara-Gondiya election results 2024 live updates: Dr Prashant Yadaorao Padole of Congress wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOGhJQTBMR3BDUUs2THZiZ284VW5BZzIyNm1obDhjY0dnc3I5UV9RSDZZeWZtR3pGeVZfWnFqMXNLTjkyQ3BWV29obHNKNUE3VG95NTdwdFBfazBhQlplWVB4ek5NSXFYZGZTc2NJc3RvNzdiMkJ3TFdiY290dGpDb0ZTNWRNN0NDTkM0bHRReS1PMlVSUDBPZ1I4NWFIWU1kVkY4LUhRUjgzSUJ1UjA4cjlXX1dKQk4zS3Q1M3ZMTDZjZjVwTUZoa2pfVTRCRWtIeXFwX1daOWN5YXhkdzRsMDFwQ3l4QVRnMXhWUU1wRklmdFRyeHdZQlVRWEVJUdIBgwJBVV95cUxPeWcxU2tzZ2c3TFRqbmZ1al8zZkZKZXhSWEEybGpyczV4NTB4cmxmaXhGU0U4VExNRDFkY2NUNVpucnd1MWlNU01OOTJQMzlMTHp4R2ZPem1ZTlBVVlNUbzlyREVuMlZQTUR3Z3JvMXNZUmRkeVF6ZnY5MnFrUXBDVXFLTGNkeXRITkxVS0ZUSFFOUF9hd1hSWnlwYlFPakJLa2lVMDdJUWF0QUVNWmZhZWxhNkRfY19ZRmt6ckJqY1kwbFc2Ui1sbGpNTmtxREZ5QWtaUGZINWNYYVlHVDZxZjRhajdULTN4cUtWVnhjZTh1M1dxblBoN0xXcVpsTzFnaG1J?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dr. Prashant Yadaorao Padole , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObEJjYmhZS2E4SW5wdnNPaHVSd1gwZjhOMkFYcjQyeGZ4VFhfS3duLU42RjFEUnp3YWJNdk55SE8yUE9SYm9OSVFGeW9lSEpKbHNXU21wbzl4YmdTeUZWcHdkcWJHQVk2WW5GYzJnM1VQdUZxRDh6NHB5cm5hNWlvR1lEdmZsTjhfMzd1TVhIeWhDMkJzOGc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bhandara-Gondiya Election Result 2024 LIVE Updates Highlights: Dr Prashant Yadaorao Padole of INC Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMlZDY0l5VFFiT3NuTF9hNnQ1andMN0Fncjl5bXZMOXVyMXlOMG1OM2l2TFhJT2o2Z01Sa0R6V0tnNEdNa1JfVlNoNzA5QjJydzg2Zm9vUVVNbTREVnlMc2xIc0NsTVEyWmxacG5zMll2NXhzRnpJN0NCcWp3WWFac1E4NFJQTExsYUstSVVYR3hJUmVvNmUxdWY2NVRPYjZaM0hBRm5OSXoybElmNzlQbVVfYzBYYmtFWm9FOWFtS21Eb1k5c3VEa2MycGtTRmlDX0ROY2FlZ0JHQ1FOM2ZOLWtldTdCYXZOLU5ZaXR30gHzAUFVX3lxTE54WVNSb18tSkJLTFJBU1hCT2xteDhxSmROOTY2ME5rYTBaM0RTRlgzaV9ob0FQbnFLSHB4T1VYeFpwR19HQ3JlTFNQLTRmQTNyT3J0LTBwbkNWVFl2SE1tNzNKVW1qdm5kU2tiNzhpVGVmVF8xbDVfdzV5TWsxc1hBY3JoVmpVYnVFZGJFMEpfRW0wZUl0Q0lCY2Q5ZTRVOWVuR1gyNHcyRVBodzAzSTBHUzhrcndIa2ZHaG54ZFJESy1FRWxGR3FBZEkwVlRPcG14ZUdYQ2hzTDZySHNvcTI3WWd3dDFvOWdTWlRWbEZ4V1RUMA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bhandara-Gondiya lok sabha election results 2024: Bhandara-Gondiya Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON01tSjdTWHZLQi1oUTZvTDBXc3RHWWF2U3h2QUtHV2N0bndzYk5uWjJPLTN6WUNZeWRFcjFWaTh6Y3MyWXRZNmJ5WlI1TnBKMDB5NmlsVm1rT3NabTNZNEVlMkp1aGxrbmo3cVh1TXdvUWJzc093RE5WUkx1QXptYUFGWjM3cERFMGVXUG5VRi1xYjc0OXc0eXdTOWQ4bUE4dUE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:33:31.173311Z",
+  "collected_at": "2026-09-02T15:14:20.677410Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.621175Z",
+        "fetched_at": "2026-09-02T18:38:08.187282Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.621186Z",
+        "fetched_at": "2026-09-02T18:38:08.187293Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.621191Z",
+        "fetched_at": "2026-09-02T18:38:08.187299Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.621197Z",
+        "fetched_at": "2026-09-02T18:38:08.187304Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.621202Z",
+        "fetched_at": "2026-09-02T18:38:08.187312Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.621207Z",
+        "fetched_at": "2026-09-02T18:38:08.187317Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.621212Z",
+        "fetched_at": "2026-09-02T18:38:08.187322Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,11 +304,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "@_Prashantpadole",
+        "url": "https://x.com/@_Prashantpadole",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "Dr Prashant Padole",
+        "url": "https://facebook.com/Dr Prashant Padole",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "@drprashantpadole",
+        "url": "https://instagram.com/@drprashantpadole",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:10:44.603513Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -272,11 +350,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Political Profile of Dr. Prashant Yadaorao Padole, Inc Party, Bhandara - Gondiya, and Net Worth - India TV News",
-        "source": "India TV News",
+        "headline": "Bhandara-Gondiya election results 2024 live updates: Dr Prashant Yadaorao Padole of Congress wins - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdnJoTTA0dmVaWnhBcXZvTG9MTF9HSUh1cmd1M0preFJGaGktbzZpaHplMUZwMXdWUXhQM0lycmI5OXdfQVlibWFtQkx5cnV5QzhmWXpTSmlFUVNZZDAtVmtUcmdzckFCOGViTUpGR2ZpQlV3V296RVpCeHFBNEZpNE13Y3NuMmpuVnFhMDhQYWktVE9wYW5OSThuNjZ2bFZqY2VVOTI5d3VsSGtWVmttV2JXbElvT3Y1bjlaQlRCZ05TYUpUREtibmFYRFo2SU94Tks2eEl2Qkl4bk45OEV2X2FUcXJ2VjZEX3ZmZDJELS1RVUlhcHphOVFjVQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOGhJQTBMR3BDUUs2THZiZ284VW5BZzIyNm1obDhjY0dnc3I5UV9RSDZZeWZtR3pGeVZfWnFqMXNLTjkyQ3BWV29obHNKNUE3VG95NTdwdFBfazBhQlplWVB4ek5NSXFYZGZTc2NJc3RvNzdiMkJ3TFdiY290dGpDb0ZTNWRNN0NDTkM0bHRReS1PMlVSUDBPZ1I4NWFIWU1kVkY4LUhRUjgzSUJ1UjA4cjlXX1dKQk4zS3Q1M3ZMTDZjZjVwTUZoa2pfVTRCRWtIeXFwX1daOWN5YXhkdzRsMDFwQ3l4QVRnMXhWUU1wRklmdFRyeHdZQlVRWEVJUdIBgwJBVV95cUxPeWcxU2tzZ2c3TFRqbmZ1al8zZkZKZXhSWEEybGpyczV4NTB4cmxmaXhGU0U4VExNRDFkY2NUNVpucnd1MWlNU01OOTJQMzlMTHp4R2ZPem1ZTlBVVlNUbzlyREVuMlZQTUR3Z3JvMXNZUmRkeVF6ZnY5MnFrUXBDVXFLTGNkeXRITkxVS0ZUSFFOUF9hd1hSWnlwYlFPakJLa2lVMDdJUWF0QUVNWmZhZWxhNkRfY19ZRmt6ckJqY1kwbFc2Ui1sbGpNTmtxREZ5QWtaUGZINWNYYVlHVDZxZjRhajdULTN4cUtWVnhjZTh1M1dxblBoN0xXcVpsTzFnaG1J?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -288,6 +366,14 @@
         "sentiment": "neutral"
       },
       {
+        "headline": "Bhandara-Gondiya Election Result 2024 LIVE Updates Highlights: Dr Prashant Yadaorao Padole of INC Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMlZDY0l5VFFiT3NuTF9hNnQ1andMN0Fncjl5bXZMOXVyMXlOMG1OM2l2TFhJT2o2Z01Sa0R6V0tnNEdNa1JfVlNoNzA5QjJydzg2Zm9vUVVNbTREVnlMc2xIc0NsTVEyWmxacG5zMll2NXhzRnpJN0NCcWp3WWFac1E4NFJQTExsYUstSVVYR3hJUmVvNmUxdWY2NVRPYjZaM0hBRm5OSXoybElmNzlQbVVfYzBYYmtFWm9FOWFtS21Eb1k5c3VEa2MycGtTRmlDX0ROY2FlZ0JHQ1FOM2ZOLWtldTdCYXZOLU5ZaXR30gHzAUFVX3lxTE54WVNSb18tSkJLTFJBU1hCT2xteDhxSmROOTY2ME5rYTBaM0RTRlgzaV9ob0FQbnFLSHB4T1VYeFpwR19HQ3JlTFNQLTRmQTNyT3J0LTBwbkNWVFl2SE1tNzNKVW1qdm5kU2tiNzhpVGVmVF8xbDVfdzV5TWsxc1hBY3JoVmpVYnVFZGJFMEpfRW0wZUl0Q0lCY2Q5ZTRVOWVuR1gyNHcyRVBodzAzSTBHUzhrcndIa2ZHaG54ZFJESy1FRWxGR3FBZEkwVlRPcG14ZUdYQ2hzTDZySHNvcTI3WWd3dDFvOWdTWlRWbEZ4V1RUMA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Bhandara-Gondiya lok sabha election results 2024: Bhandara-Gondiya Winning Candidates List and Vote Share - India Today",
         "source": "India Today",
         "severity": "low",
@@ -296,19 +382,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Lok Sabha elections 2024: I am the change that people here want, says Dr Prashant Padole - Mid-day",
-        "source": "Mid-day",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNERwTU9uQWd1RFVYT2xnV0h1RGxjd1pnTkxJb0dBeG9OYmg1bWtobU44WHRPc0tiZkp5NE0teEJSNDZCdTF6RlB5NVBjaERDdy1adGs4T25mSmJQNXFyZnpDQzV3WVE4MkdzdEQyTWdVOUVONmx0YU80bjdYcmViQkRSZG9nOExoRjY4NnRlc29MUW1HWGstelJGSkR2QdIBowFBVV95cUxNLVc0YkZGNWpZX1BoYVFQM0ExV044OWkyalVhQnJidjZVSU14NjFfWGpIbjd0TlJ0RnA2OVVMN1lXRmNKc0dScXJteldud3duMjRfdFppb2RQczFFNndFSWlfeVZ6Y1pOWTg5R2dWLWVtb1BNSzlNQ250ZGdXRVNLT0laaWxfczByUk5NWGlqanBYZlFjSjF0Qnp0SmtIODF6cEw0?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Bhandara-Gondiya Election Result 2024 LIVE Updates Highlights: Dr Prashant Yadaorao Padole of INC Wins - News18",
-        "source": "News18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMlZDY0l5VFFiT3NuTF9hNnQ1andMN0Fncjl5bXZMOXVyMXlOMG1OM2l2TFhJT2o2Z01Sa0R6V0tnNEdNa1JfVlNoNzA5QjJydzg2Zm9vUVVNbTREVnlMc2xIc0NsTVEyWmxacG5zMll2NXhzRnpJN0NCcWp3WWFac1E4NFJQTExsYUstSVVYR3hJUmVvNmUxdWY2NVRPYjZaM0hBRm5OSXoybElmNzlQbVVfYzBYYmtFWm9FOWFtS21Eb1k5c3VEa2MycGtTRmlDX0ROY2FlZ0JHQ1FOM2ZOLWtldTdCYXZOLU5ZaXR30gHzAUFVX3lxTE54WVNSb18tSkJLTFJBU1hCT2xteDhxSmROOTY2ME5rYTBaM0RTRlgzaV9ob0FQbnFLSHB4T1VYeFpwR19HQ3JlTFNQLTRmQTNyT3J0LTBwbkNWVFl2SE1tNzNKVW1qdm5kU2tiNzhpVGVmVF8xbDVfdzV5TWsxc1hBY3JoVmpVYnVFZGJFMEpfRW0wZUl0Q0lCY2Q5ZTRVOWVuR1gyNHcyRVBodzAzSTBHUzhrcndIa2ZHaG54ZFJESy1FRWxGR3FBZEkwVlRPcG14ZUdYQ2hzTDZySHNvcTI3WWd3dDFvOWdTWlRWbEZ4V1RUMA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -342,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 12,
+    "starred_questions": 3,
+    "unstarred_questions": 9,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 22.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

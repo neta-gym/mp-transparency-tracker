@@ -3,24 +3,22 @@
 **Constituency:** Ranaghat, West Bengal
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 61
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 47.2 / 100
+## Composite Transparency Score: 51.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 17.2 | 25% |
-| Asset Growth | 50.0 | 15% |
-| Criminal Record | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,34 +26,40 @@
 ## Criminal Record
 
 - **Total Cases:** 4
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Nabadwip Police Station (Sections: N/A) [pending] 
+2. Nabadwip Police Station (Sections: N/A) [pending] 
+3. Hanskhali Police Station | Sec.25/27 Arms Act (Sections: 302, 34, 120B) [pending] **SERIOUS**
+4. Santipur Police Station (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.23 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 2.23 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 19% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 6
-- **Expended:** Rs 3
-- **Utilization Rate:** 21.5%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +73,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/jagannath office](https://x.com/http://www.twitter.com/jagannath office) | No | Yes |
+| Facebook | [@http://www.facebook.com/jagannath sarkar](https://facebook.com/http://www.facebook.com/jagannath sarkar) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +92,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- BJP MP’s ‘one with B’desh’ remark draws ‘deception’ barb from TMC - The Times of India (The Times of India) [neutral]
 - "Hypocrisy at new depths": Abhishek Banerjee slams BJP MP Jagannath Sarkar's call to remove India-Bangladesh border - ANI News (ANI News) [neutral]
 - BJP MP's remark on ‘removing border fences’ with Bangladesh sparks row in West Bengal - The Hindu (The Hindu) [neutral]
-- BJP MP: No Indo-Bangla Border If We Win WB - Deccan Chronicle (Deccan Chronicle) [neutral]
+- BJP MP’s ‘one with B’desh’ remark draws ‘deception’ barb from TMC - The Times of India (The Times of India) [neutral]
+- BJP MP’s border remark sparks political storm: Abhishek Banerjee demands suspension of BJP MP for remark on... - Bhaskar English (Bhaskar English) [neutral]
 - ‘No barbed wire with Bangladesh’: Why Bengal BJP MP’s remark has put the party in a bind - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **"Hypocrisy at new depths": Abhishek Banerjee slams BJP MP Jagannath Sarkar's call to remove India-Bangladesh border - ANI News** (ANI News)
+- ! **BJP MP's remark on ‘removing border fences’ with Bangladesh sparks row in West Bengal - The Hindu** (The Hindu)
+- ! **BJP MP’s ‘one with B’desh’ remark draws ‘deception’ barb from TMC - The Times of India** (The Times of India)
+- ! **BJP MP’s border remark sparks political storm: Abhishek Banerjee demands suspension of BJP MP for remark on... - Bhaskar English** (Bhaskar English)
+- ! **‘No barbed wire with Bangladesh’: Why Bengal BJP MP’s remark has put the party in a bind - The Indian Express** (The Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Jagannath Sarkar has a below-average transparency score of 47.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Jagannath Sarkar shows moderate transparency with a score of 51.5/100. Significant criminal cases are a concern. High parliament attendance.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 22,328,968. MPLADS utilization: 21.5%. Parliament attendance: 90.0%. Questions asked: 13. Debates participated: 1.
+Has 4 criminal case(s) (1 serious), 4 pending, 0 conviction(s). Parliament attendance: 90.0%. Questions asked: 13. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +167,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +246,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Jagannath Sarkar's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 21.5%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

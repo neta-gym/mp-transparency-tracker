@@ -24,12 +24,20 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:07.066136Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 77565295.0,
+    "immovable_assets": 150298266.0,
     "total_assets": 227863561.0,
     "liabilities": 54075091.0,
     "net_worth": 173788470.0,
@@ -40,44 +48,58 @@
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1924",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.393301Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:56:19.185123Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 73.4,
+    "wealth_percentile": 70.6,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.15,
-    "expended": 6.05,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:41:29.861292Z",
-        "notes": "Official eSAKSHI REST API — Works: 93 recommended, 78 sanctioned, 4 completed"
+        "fetched_at": "2026-09-02T14:59:56.815969Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:56:17.091356Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:56:17.089193Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 93,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 41.156462585034014
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:45.319820Z",
+        "fetched_at": "2026-09-02T14:56:17.088335Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP Tisso slams absence of senior officials at Amrit Bharat train flag-off in Diphu - India Today NE",
+      "source": "India Today NE",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUFJpR3NSREJOOFNrYU52aTVhSWF4dG9IMVJrSXNBT2Y4R09rajY4aWozQjVDSlF1RU9CdUpWX1U0VExiWG15cGZ6RzV3OGZOZnJhcW5xdHdSd3lybVpqdmtyd0h0M0dVNTB6RFN0RTRrLUpJR04wM1poVnJWaUJNSE5CYVZwbUw2OFpvS1N4UVBwcGVoNmRNN2t3dGRqSnlfeUR6YmlTZ3VqYUxzUm1NLUd1ZWZqbWhlblIxWlU1c3JNd1FNZkNYejRic2NtaGxPdVdCTFUtUTjSAd4BQVVfeXFMTTZMMndMdWNHbWNiWnBrMXRMOFFXU3hSOC1SSElPV0Z6NmlkWDFzNlM3N0tIMmUtWFBHaE5CbGt0elNneXMwdmpXNU5hRDYxbk9zN2ViX0JGYU12SzJrT2pYR05jVjgydW5iYkp2RGo4Sjk1cmhEaS1uMWxpNS1ydldmOExQMjd1WnBCUks4bU03bWtYSTRxYkVpbFBVNDlzSzBsZ2h0MlNjTEFDSm0tc3JfRVhDOUZtNE0yTFl0WFJvYTlGWGd5YzdSVFh3eDFHNkRTb0dibFFYMkRFXzN3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Diphu (ST) Assam Bharatiya Janata Party - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDV4cWZOaDdqYnNSY0dxS2otNXdNaTVtQWtTUnQtVHphaHV2MmxJSW5NUFhGREE4VDhaVGMzSnRMRXRxWThnMGxjbFBBRUwwblViaWtMUzg2TlpZWjR4eVg1YW13WTFaRmpsVnA5NWFHTFBOZzd2LThCLUVialpWRWhMQUZIcHBCamZaRl82OG8tdW0zNTZvWUQteThpcFBodUVKcEhGNW5QVy0ydklfcA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Diphu (ST) lok sabha election results 2024: Diphu (ST) Winning Candidates List and Vote Share - indiatoday.in",
+      "source": "indiatoday.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGRjSnZGZEtPdzRoTzYxLWVJay1zRzZYWXNKQ1pjdV9xMUlQbU1OSGducU43QWUwdDBQS2xLOTVZOUpTQ0ZHWkU0NGlaYjRnQml1cUdzSU50ejI1bU9pSjdNOUNod0tRakRSQ0hUSFpTVmJzV1BhT1Z4RmNjdmhHcUJKVlZacDNXaVE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "1st phase of Gunotsav-2025 concludes, covers over 13 lakh students across 11 districts - The Meghalayan Express",
+      "source": "The Meghalayan Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUx5ZkpYUi03dWdwSDlMTnZtOGpWMEZFNk9aU1JManJJUFhIZEEyTzdoTENaTzRfWU9vdlBvNkhsN1FTTWZXcEdfcGpxaTUzVEhmRW9Sd24ydTluM1Z5aFRtQmJUbm1CVTdqSVJfcFVrMXBlaEUxN3ltSXl6eVkxTnY0bjFVM2hVZnRJZFFJR0o1TGNMdFZWWVo5NG1UVlhZZGhxOHlJMWZuNm43SkRjS2sySUpYdUU5SUow?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Assam: 74th KAAC foundation day celebrated with patriotic fervour in Diphu - India Today NE",
+      "source": "India Today NE",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc3ZwLVFsRWw0TkFIaW4xaG9LbFhCWHFTaVl4UXYzVXRHN01YZGh3d3YzZ3d2YV9kSXNESHFoUTdhMHlLUFU1ZzNXZzBLc0Z0REx0VEMxeUl1T1FGQ2JCYTdyYkxzbTJTdnhpaXNuU0lHWlhYcWI2Ml9tenJheXhqckEzS3loYWVFU3dBdU9jbFZ5U1JVUlR6LUN0TW5qejI0SC1ZNElZV3hzMDBNVGJ2a0pQOFQtV3ZoLU0tR1gtMUdsbEprTWROQXczTFnSAdIBQVVfeXFMUDZWY1JCUFlzSVpvN2FmTkw5VXZ0OG9mQkFfM19wSUUwTGZNSWl3YWJTVFg2SkVVbEUyUWZiamMwUzNxTUh3Y3MtRzNBVElhNXoyeXRpOGNPeWlBVE5tNjJZQmJLNWs4M095Z2lHZ25XXzNraWF2a3AxUC1pM2t0YUhyWmNoelF4S2dRSDNCVWJ3Q0psVU02TkNGTUhudFBFNUd3aWtGaFpkaWxvNnpLeU5Pal8yeXk5TTFEdTNoRmRsdzRoc1ExSTBIVjBDZmoyRlVB?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:25.004656Z",
+  "collected_at": "2026-09-02T14:59:56.816812Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.723835Z",
+        "fetched_at": "2026-09-02T18:38:04.184796Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.723846Z",
+        "fetched_at": "2026-09-02T18:38:04.184807Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.723851Z",
+        "fetched_at": "2026-09-02T18:38:04.184813Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.723856Z",
+        "fetched_at": "2026-09-02T18:38:04.184819Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.723862Z",
+        "fetched_at": "2026-09-02T18:38:04.184825Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.723867Z",
+        "fetched_at": "2026-09-02T18:38:04.184830Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.723872Z",
+        "fetched_at": "2026-09-02T18:38:04.184835Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +315,52 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "share",
+        "url": "https://twitter.com/share",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "sharer",
+        "url": "https://www.facebook.com/sharer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "adrspeaks",
+        "url": "https://www.instagram.com/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "youtube",
+        "handle": "adrspeaks",
+        "url": "https://www.youtube.com/user/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 4,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:56:22.822572Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,43 +369,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Dibrugarh-New Delhi Rajdhani Express to stop at Diphu from today - The Sentinel - of this Land, for its People",
-        "source": "The Sentinel - of this Land, for its People",
+        "headline": "MP Tisso slams absence of senior officials at Amrit Bharat train flag-off in Diphu - India Today NE",
+        "source": "India Today NE",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUDlYeGZrX1FMY2tXdjVaVU5KN29vcjhkTmtXR1ludG1pZ05MQnFiWXM4dS1VUHh2RXJVMEZvVTVRVHFNNndEd0Jua1M2Q081YXJ0WU9IRHQwWTVObVdvUTNCalVDTFVyeFJ0Q0Q1cXE0bHo1eDRwRGtaQWhyQm9ZVVJTRmQ5a29uUFlHOUprUFpydjNZOU1heHVqNW9wUzdka2xnOEpCdk5EbnFtaG9lQmU0UzNydTJQMDZoMFJEeXE0NVJIcXfSAdMBQVVfeXFMTXlBLXo3V05SSlBZYXhpcVhqSjBOUVJHZHhrb1ozZVFMS0pxZHdkYUQzQllUUkgyY3o1YVFNcTdURGEtaHJiMC01V0lVMWFZb205QktoZDRxUFVYeDdiZS01R1NmblFCSk40dFJMOEc0Z3l2UE1JWnRIaWx1X3lyYnBib29oVnFDYmRIRzVhbTYtUUo3VHhFNWhuNDQybkg3VGUxcTA0b2JLZ3NuVkQ1NUVZaUJ4ODdrbGlVaHZSSVNJWWlZTTdIMnYzY1RuZl8tZHRpdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUFJpR3NSREJOOFNrYU52aTVhSWF4dG9IMVJrSXNBT2Y4R09rajY4aWozQjVDSlF1RU9CdUpWX1U0VExiWG15cGZ6RzV3OGZOZnJhcW5xdHdSd3lybVpqdmtyd0h0M0dVNTB6RFN0RTRrLUpJR04wM1poVnJWaUJNSE5CYVZwbUw2OFpvS1N4UVBwcGVoNmRNN2t3dGRqSnlfeUR6YmlTZ3VqYUxzUm1NLUd1ZWZqbWhlblIxWlU1c3JNd1FNZkNYejRic2NtaGxPdVdCTFUtUTjSAd4BQVVfeXFMTTZMMndMdWNHbWNiWnBrMXRMOFFXU3hSOC1SSElPV0Z6NmlkWDFzNlM3N0tIMmUtWFBHaE5CbGt0elNneXMwdmpXNU5hRDYxbk9zN2ViX0JGYU12SzJrT2pYR05jVjgydW5iYkp2RGo4Sjk1cmhEaS1uMWxpNS1ydldmOExQMjd1WnBCUks4bU03bWtYSTRxYkVpbFBVNDlzSzBsZ2h0MlNjTEFDSm0tc3JfRVhDOUZtNE0yTFl0WFJvYTlGWGd5YzdSVFh3eDFHNkRTb0dibFFYMkRFXzN3?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Diphu election results 2024 live updates: BJP's Amarsing Tisso wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "Diphu (ST) Assam Bharatiya Janata Party - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMDF4TkwtX3l6UWVDeF9kaTAweG83bjgzSUdjYXBaZXVBQUNodFF2OXBqYkpXeFRKaGdyM3M3TXd0OC1ZajlLMDZvU0NQelV1d2FrMnZyWVpFU0VNY2k5Y1o1NmVCd2o0NW5SUDlhZ3ZxYWNsNzlyS3NWNkJrQVY2THBHTUI5WTBDampQNHhWMXhqbGZSeUl6SkRHY2FWSkVWV1dVLW5aU0pNbm9nVTE3MGV0SGN1YU5VenFiX2hPZS1XQ1VQeVBJSlk5RkdnOHFFaHExa0pWZWctTW96ZmFRWmt0eExYcTBtOFd0MENhQUVZVklJWndmYVFfUS1VNWtZSlI0NFhQWUNDMmpmS3lwRUV5bzhBTEd1WnZybXhVa1hoZjVrdFHSAasCQVVfeXFMT0pOTTNPRWxiUmN4QjhFUW1ZWTUtbWtLMFVpeFE5U1MtbkNyQXhsWEtsTU9VZDJFM2xSYkw5MENWUjZ0VkgxOURpejEtSGZfRTE0R3JPTDloWHlSek1rNF9DY0p5c1U0a3J5NG4wWmNXTlNQd3dHb3hKOV8tUlQ1a3dwSEVoT2s4Y2c1QzFkZ0lkU2JiY0poNGhDV1dDMlQ3S01ENVFUMndteHlNaFIxSEFsRDE4MGFqZUs1VjRmelU2Y2k1M3oyM0ZSSTFJcFp3b0RnYzU2Y0xfTGxNLVY5TzRJVzJxWngyd0xUYmFNS1V3Ri1uX3RiUUJ1Y0VlZmxaTnlOZ3p2b1dFdW1veDUzSGl0a0hYSjN2VmctZDZiS3Jrc2VfUFQ3SnRycFU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDV4cWZOaDdqYnNSY0dxS2otNXdNaTVtQWtTUnQtVHphaHV2MmxJSW5NUFhGREE4VDhaVGMzSnRMRXRxWThnMGxjbFBBRUwwblViaWtMUzg2TlpZWjR4eVg1YW13WTFaRmpsVnA5NWFHTFBOZzd2LThCLUVialpWRWhMQUZIcHBCamZaRl82OG8tdW0zNTZvWUQteThpcFBodUVKcEhGNW5QVy0ydklfcA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Diphu (ST) lok sabha election results 2024: Diphu (ST) Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Diphu (ST) lok sabha election results 2024: Diphu (ST) Winning Candidates List and Vote Share - indiatoday.in",
+        "source": "indiatoday.in",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGRjSnZGZEtPdzRoTzYxLWVJay1zRzZYWXNKQ1pjdV9xMUlQbU1OSGducU43QWUwdDBQS2xLOTVZOUpTQ0ZHWkU0NGlaYjRnQml1cUdzSU50ejI1bU9pSjdNOUNod0tRakRSQ0hUSFpTVmJzV1BhT1Z4RmNjdmhHcUJKVlZacDNXaVE?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Diphu gets Rajdhani Express stop, boosting connectivity in Assam’s hill districts - India Today NE",
-        "source": "India Today NE",
+        "headline": "1st phase of Gunotsav-2025 concludes, covers over 13 lakh students across 11 districts - The Meghalayan Express",
+        "source": "The Meghalayan Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSXp1QzFYdzZmV1JLQUcyRy1qM1NRM3F3UDQ3dHZ5YmozUHFMOEFtRGgzUURkaVh4d25zRlAzeldyUE1Vcm5zMlVIb3dhaEFIZGFDVUViTHlBWUFiOEdWTkM5TXJVc21mODIxXzlxWC1SWllyNDF3cEtJVnRXWU92N3dKU2lnU0w1UUJ5X2hNMW5ZRUNuOHkzcGVfLW44NWI0d3JVRl9idXVyTk5jdTNEcG1SSG04TXh0NEVjRzdFTXNwZ0lFWWRLblh0R3FaWHotLWt2OQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUx5ZkpYUi03dWdwSDlMTnZtOGpWMEZFNk9aU1JManJJUFhIZEEyTzdoTENaTzRfWU9vdlBvNkhsN1FTTWZXcEdfcGpxaTUzVEhmRW9Sd24ydTluM1Z5aFRtQmJUbm1CVTdqSVJfcFVrMXBlaEUxN3ltSXl6eVkxTnY0bjFVM2hVZnRJZFFJR0o1TGNMdFZWWVo5NG1UVlhZZGhxOHlJMWZuNm43SkRjS2sySUpYdUU5SUow?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Diphu (ST) Assam Bharatiya Janata Party - The Times of India",
-        "source": "The Times of India",
+        "headline": "Assam: 74th KAAC foundation day celebrated with patriotic fervour in Diphu - India Today NE",
+        "source": "India Today NE",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDV4cWZOaDdqYnNSY0dxS2otNXdNaTVtQWtTUnQtVHphaHV2MmxJSW5NUFhGREE4VDhaVGMzSnRMRXRxWThnMGxjbFBBRUwwblViaWtMUzg2TlpZWjR4eVg1YW13WTFaRmpsVnA5NWFHTFBOZzd2LThCLUVialpWRWhMQUZIcHBCamZaRl82OG8tdW0zNTZvWUQteThpcFBodUVKcEhGNW5QVy0ydklfcA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc3ZwLVFsRWw0TkFIaW4xaG9LbFhCWHFTaVl4UXYzVXRHN01YZGh3d3YzZ3d2YV9kSXNESHFoUTdhMHlLUFU1ZzNXZzBLc0Z0REx0VEMxeUl1T1FGQ2JCYTdyYkxzbTJTdnhpaXNuU0lHWlhYcWI2Ml9tenJheXhqckEzS3loYWVFU3dBdU9jbFZ5U1JVUlR6LUN0TW5qejI0SC1ZNElZV3hzMDBNVGJ2a0pQOFQtV3ZoLU0tR1gtMUdsbEprTWROQXczTFnSAdIBQVVfeXFMUDZWY1JCUFlzSVpvN2FmTkw5VXZ0OG9mQkFfM19wSUUwTGZNSWl3YWJTVFg2SkVVbEUyUWZiamMwUzNxTUh3Y3MtRzNBVElhNXoyeXRpOGNPeWlBVE5tNjJZQmJLNWs4M095Z2lHZ25XXzNraWF2a3AxUC1pM2t0YUhyWmNoelF4S2dRSDNCVWJ3Q0psVU02TkNGTUhudFBFNUd3aWtGaFpkaWxvNnpLeU5Pal8yeXk5TTFEdTNoRmRsdzRoc1ExSTBIVjBDZmoyRlVB?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +439,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 14,
+    "starred_questions": 4,
+    "unstarred_questions": 10,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 27.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +455,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

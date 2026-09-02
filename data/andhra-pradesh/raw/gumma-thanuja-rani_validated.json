@@ -71,10 +71,24 @@
       "confidence": 0.0,
       "sources": [
         {
+          "url": "https://mplads.mospi.gov.in",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-09-02T14:35:27.724563Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:31:47.093014Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
           "url": "https://dataful.in/datasets/18540/",
           "source_name": "mplads_csv",
           "grade": "E",
-          "fetched_at": "2026-08-20T15:30:42.136098Z",
+          "fetched_at": "2026-09-02T14:31:47.090166Z",
           "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
@@ -86,7 +100,7 @@
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated",
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-08-18T20:07:45.088244Z",
+          "fetched_at": "2026-09-02T14:31:47.089111Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,14 +124,56 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "YSRCP to raise Panchadarla mining issue in Parliament - Telangana Today",
+        "source": "Telangana Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0RZcF9Pd1p2bUhWWDM0SHlyd0hvdGNrY3NxcEtZUEZZdGlFb0JJT1BGcXdXWVRvenBDTG1zM0RfeThfU0RhM0ZlUmdHSHlrVjdnMzdvVzdITnRvOXcxZV9XZjlwM2UxTXVSWmhqeG9pd0xMOGVINnBIZERRX3NWS1QyTENONDg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Araku MP Thanuja Rani seeks reopening of Chinabhogili railway gate in Parvatipuram-Manyam - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUmQ3a2dYYm1ucURoN3JNT01ZTGE5Zm9iZGlURlVlclRBLXg1X29FZFQ1OWl3bXdiemRSSkhnOExlNWZIZFdraTYtRmRKWlREU3RzS0ZkSGdrU0hoN1NuLXJQUnNUQktsbU5ZZzB4UDFwbnFFNDlIczlFbk1NeWdVaFAzc3Z5QU5uUWhvcWZ4TUlfUUM5Snd5MVBycEJpV09WTjMybkhyVkhmdEU1M3pxNkJEMFl6c0R0ekJfYl9FQ0tCMnp1bFhqYk1GRVZuelpjZlN2QlU2cmljc183Ym45VmF2MmhzdkpOVk5mWUcxMURaODBjUmfSAfwBQVVfeXFMTXQyQWtYQlE0WEJHbERtUndJOUZraFh2VjVsT09vT19vVlk0b2E4WEc1dWNtTmgzbDRmUnZydVNBSFh2VjhOYThtQUFuOUZrc0ZodnRoYkotcjFkRm12TVgtc3ptR3lBVTVNQW9xUkZiM0QzVG9mR0FDV09FRG85NVBsLVI3T0pRYzJfQjFjRlVFWFpRa1EyMGpnM2JLNlhzdGxoSDlHMlRHRzA0UkhYbDhkb2t0OVpKTFY1aWVkY0Iyek9wVzV3UTBYY2FMQXJnbnhPOGJsTnNSV3d3bzBNOVFHUW5CZ1c5dFFJZ3J5N1BOVDB3R2FuMmpncVlQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Araku MP seeks high level inquiry into tribal school deaths - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWHEzX29oOExyUEpzZzRwS3gxX2xHak8xQmVRdmZjY0tUYXlQdDlwcktaUWZVUC1oalNaV1BTLTg2a1FfYmExS1oyblNNdm40UDBVQlFNaDdyWEpISkVHOXN5ZTI4cHRiTmt5VzBFNWJCblFEVVN4clFNMjRJU00xLWNabEJwMjZyWnkzYUlzd25xRlhKeVJIZUExS2ViUm5seU5BMms2eFR5V2QtWVYxUEloQ2dIei0tajVzV0JSQzR4NVc3VWdKM3lDMElqQdIB1AFBVV95cUxQcUlVQkFsRFFqUVY3TUpxS0s4LWl0TnByT1Z5bGE0bXJ1LWNwQUdGZ0FXUkZNZ3N3Rm5qSjJGRzl3bGU1UjVNVGkyY3dXM3FWbllwN3QtY3A4UmYyd1N5aEdWZ0NoUzd0ek8tMnlPYnRVZ2Z2V0ZmMWNFbGNEUHlGMXJDOUxRTEZwS1M0NjQ5NFR4V3JNYVlkUVU4NE9weU9WeUlPSkxvbVVRZXp3Q2NyMmRiMHFXQ19TNGozdF9YMndnczNhZENsUFhXLWFJZnhBMUg3MQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Andhra Pradesh MP urges finance minister Nirmala Sitharaman to set up tribal banks, expand insurance acce - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOc2lKRFdRQTRpX2JMM0JFWWVxRlc1VEo2WlFDblRCM245Q19jUHd5MjMwTFpNcHJQYmMtWFQ3ejBMdUJvRnpUQlBoTUlYRW0yMVlLMnBpUFB4UldodlY5ZVdLSnozazlKdzhncWlTU3E0dDNXN3RIelNkLWJLVzd0X25RTTc2YzlRWjBVTVJUelFsdHVEQkh2ZWhqR25faXZaWU50cGFJU0dPOWZ2OXB4dDJLa3RrQkhXajY2RHhBY0N1VU5sOGdYb2VTWE9vUUtyZnRtTGRfYk5ILVp1eF9zb2FnRnB2akQ5UUM5TDZ5bm5uSF9qVmIwa05jUGNwTXJSc25ucTNTYnZIOHc0X052WVhWYXF2WEN1bFNGcl9SeVV5VVkyS0ViZE11QdIBsAJBVV95cUxPUm1ZMndUUEZ0M3FYWUtJRUMwWTA1ZldMMHBTY0dfek40ZS1UQzkzNC0yTi1pY3M2RWQ3VWdiUFgwdDVRYzc5TllQYUd4QS1qYkIwNHktTGotRl9Cb0xKSGNrV1VIYUlsamt4clNHZXBTazh6a2duWkEyeWNDbmk5WlBMb1JvYVFVQlBmcHdsQWZYdXhIc2N0YjZwTVl2X3l1YzJYX1VjaGd5cXB6TkdzeHpKb0kxY18weFV1YWlHa252d0NQYldWbk5oNzUzc2hIeUFuNjl3bmlLT0kzVERMU0RBVXVtYzdYQTFzd1pUU3F2RVY4WTh3TkRYcEVKWVV0WEJfMzdXaS1HSXNHWEpVUThyUFNNbW1uTmhhdXE5ZWRiTFkzTkswUlFoT0I4SEVr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Araku MP flags off 10 new ambulances in Paderu - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkYwYWVHQVpNNnQ3YURnNjhPM0huNHhVeXV6RDZnNG5FanBteTNrUFN3WHNKOUtlbzAyU1RETDMxN0tBLU91MU55ZU9KNWF6M09oVG1MNVF4dnlJU1V5Z3NGTk13RDg4TkdRM29xNFU4elMzOHB3Ujl1Vjk0dk1YNGxQZGJPekdEc2thaHRjWjZTcnQwaTE5eWhkMkFzNjRzT056RWlMcUZQWWJtTTU1ZUM4aVVlQnV40gG_AUFVX3lxTE5XblhsX2cxa1NvbFduQUJjSVQxOWxvcnpmLWpFOW5WUVJvYmxXUzBCN3g4RU1HMmZuWUU3akFSb3pNMWtFMzZIYmtnNWpxZXdWZkoxaVItU1dONkN0R2Z4SGNFb3lCeHFLVVk3YXB0X2t6TUI3QTBwVVZfNEFLS1NrU3I1TzFPOFcxWlBGTWVCYnZ5TWFBMklNUWZ5cExFSjh1ZXZhS2pjRUFVNzZObElVTkdWY1lKQ1ZHajZDTXow?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
-      "news"
+      "news",
+      "cag"
     ],
-    "collected_at": "2026-08-20T15:30:42.136136Z",
+    "collected_at": "2026-09-02T14:35:27.725552Z",
     "evidence_summary": {
       "parliament": "C",
       "committees": "E",
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.404748Z",
+          "fetched_at": "2026-09-02T18:38:03.897455Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.404757Z",
+          "fetched_at": "2026-09-02T18:38:03.897466Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.404762Z",
+          "fetched_at": "2026-09-02T18:38:03.897472Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.404767Z",
+          "fetched_at": "2026-09-02T18:38:03.897478Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.404773Z",
+          "fetched_at": "2026-09-02T18:38:03.897484Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.404777Z",
+          "fetched_at": "2026-09-02T18:38:03.897488Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.404781Z",
+          "fetched_at": "2026-09-02T18:38:03.897496Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -287,27 +343,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Tribal patients will face more ordeals with privatisation of medical colleges in Andhra: Araku MP - The Hindu",
+          "headline": "Araku MP seeks high level inquiry into tribal school deaths - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNd0ptbUJpeVQzcGFrMlRJajZUWUNtekNwZ2dVaGVkOHpLanhNVU1xUnhKQVZTbkttMU1Gd3ZtRVVDbUlEX1BocGhKSkQtX2JCLTZlN0pDMVRDR0lfMHR5TENoekFERFdvVHd3N1ZIckdtdWJwaXFHenVkd0VTcHVDNEN5Yl9lblB4bndzc3ZWZVJNZHBtbWNCbVNsRDhZQzZEMXBuemtObU1CT0wtaE5zdl9kNTdzSXFkV0ZNU2JDNnI0MGMwSUFzakR1Rk1vNzJxcmRSaERKTGY4Mjd1dDRfQks2Sy1RNDh5ZEZMWkNnZU16LXNmSEhIYjRoUkdybVnSAYYCQVVfeXFMTUg3b1BXOXMxUWJDMDVaSjF6SGg4bTRQQmQyTXhOLU5nX3JOWHljUFU5RmU5TUtqOXlxaW9aRW8tRjNhVVNoTXMtQm1hSUhudWZabDlqVnR1TWpOcFZGSndudUllQ19DTTFHWjNnX3gtelZyb2RUbE85bi1oVnU4NzVHbUl4YzZDVGhsSTduNUlnV0dVOWhnOVVIZnZJUG5Ib0pGdnpmWjl6dlFpVk1aWU9mdTVnbmZKc3ZEcHNxSW43TnpHSm9lV0pvME0zT2JlSHYzb1hyMkpVQ3QwbXQ3MXFRZ3k1ekVvcmt2NHYtTTdXYnNwb2RhRmNTdGtONnk3UUViZ09FQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWHEzX29oOExyUEpzZzRwS3gxX2xHak8xQmVRdmZjY0tUYXlQdDlwcktaUWZVUC1oalNaV1BTLTg2a1FfYmExS1oyblNNdm40UDBVQlFNaDdyWEpISkVHOXN5ZTI4cHRiTmt5VzBFNWJCblFEVVN4clFNMjRJU00xLWNabEJwMjZyWnkzYUlzd25xRlhKeVJIZUExS2ViUm5seU5BMms2eFR5V2QtWVYxUEloQ2dIei0tajVzV0JSQzR4NVc3VWdKM3lDMElqQdIB1AFBVV95cUxQcUlVQkFsRFFqUVY3TUpxS0s4LWl0TnByT1Z5bGE0bXJ1LWNwQUdGZ0FXUkZNZ3N3Rm5qSjJGRzl3bGU1UjVNVGkyY3dXM3FWbllwN3QtY3A4UmYyd1N5aEdWZ0NoUzd0ek8tMnlPYnRVZ2Z2V0ZmMWNFbGNEUHlGMXJDOUxRTEZwS1M0NjQ5NFR4V3JNYVlkUVU4NE9weU9WeUlPSkxvbVVRZXp3Q2NyMmRiMHFXQ19TNGozdF9YMndnczNhZENsUFhXLWFJZnhBMUg3MQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "YSRC changes Araku MP candidate for second time - Deccan Chronicle",
-          "source": "Deccan Chronicle",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1Z3b1piRXBzblZBMGdybzljcndsVERDUEpHc3RYTzVtaHNra2c3R3hMRGVaODZYWTlROFBXUE1WT2gzR2tHckFOR3ROT1AzTk1Gak5XVzlfRHA3aG5QQU1BR3k5VVhBVGlYaHY0eTl4WlFrZi1nZGhLVElFeG55SElDYmxlTDZHazhYanFsOGo3SW5qaUlhaGdMdFpYS0M4dkhad9IBqgFBVV95cUxPbWdEb240b1JoSUJwZ0h6cWJUY2ZxQzBUdkU4dFowdE4yMHRFUWJLYWsxSlNxOE5rRlJqdFhCdDNONjFHNzc0dTZoRTVDdHloZ0M3ZnNPOXRYeGE1WDVSTHpUa1A4UHpNdDFkQ09sZkVFT1NwM0NoM1lkcjVEaVFHMHNyYWxTN0NhSWM0bUhibjBFZ2JoTHZPRWFMMmRkR2xnVlNJRlEtd1hldw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Aruku (ST) election results 2024: YSRCP's Gumma Thanuja Rani triumphs in Aruku (ST) election, defeating B - The Times of India",
+          "headline": "Andhra Pradesh MP urges finance minister Nirmala Sitharaman to set up tribal banks, expand insurance acce - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQaG5QeXBIZ291bTJlOTdwby1GdTRFZ0haTzRWRzJibHRubVE2N3p6SUhmQXM3VWdhVlJKZmVkYURWblEyaEI1VktHYWZwZXJHcWxwdUVMbEpNT2YzQXM2TnQ1TkU1Y1ZLZWJ1QmJpRlR0Rml2cnlZUzEySmowWjBXVHhrb0hMeUFOa3hCVGdPM2pJQ0MzclBwa0loMnNRYnlSZ1pjc05qN0lNNmx2bnNIMUlacmxfUk03dHhDVTJ0cG5jbVVSU0poREQ5TWR4U0FIaXk5cmVtdUJDenc0NHFBYmF5ZjY2YXB1RnlJOEZ1R05ocUVjOEFLTWhwMDlmYzlKMnIxTXNzWXBJSFl3QUx0T09peGh5bkdDUzRVbmowRVlaTzM4UUNDTWhiNWlnLUwwamN6UzkwWGxiT1g3bGU0ZGxyNlbSAcoCQVVfeXFMTzM2WVNBNlJQU1AteUtKN2wwcUFqNWl2R1NWS3Q3THNVcXNqa3dONHNsUDhRaWVHandTaUFoUmZoNG1YOEpsZ0VjUHhfWndOc0lzaW1HLTR3WGNYY2JNeUE1WWtrNGZaWldkMVNPcUc5cXF1LU5TQkNWNVJ2T3JkZ29YVFN0bC1HNzA3dkFKV2NFaWFjZEFxM2YtOHowZkpRcEV6T1kySmVYRGdaZHcxSDltT1h6SndyZ1NpSU40Q0pDOUxIeW5zeEVtVEQ3cFNweERQMGxUZzE2T3IxTjFNOHVfU1RoVU8wVHgtTFg4emNESlNvNG8xNmdwRmJCSFp2WnRvMTNCNW41SlNVUVo5c2xRaG45THNpMjExakd0Y1R3amMyMVJwLXVJYUxwRWM0cklYLTRCdE80WHIxTHJVWmdINVc1bzFWMUhn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOc2lKRFdRQTRpX2JMM0JFWWVxRlc1VEo2WlFDblRCM245Q19jUHd5MjMwTFpNcHJQYmMtWFQ3ejBMdUJvRnpUQlBoTUlYRW0yMVlLMnBpUFB4UldodlY5ZVdLSnozazlKdzhncWlTU3E0dDNXN3RIelNkLWJLVzd0X25RTTc2YzlRWjBVTVJUelFsdHVEQkh2ZWhqR25faXZaWU50cGFJU0dPOWZ2OXB4dDJLa3RrQkhXajY2RHhBY0N1VU5sOGdYb2VTWE9vUUtyZnRtTGRfYk5ILVp1eF9zb2FnRnB2akQ5UUM5TDZ5bm5uSF9qVmIwa05jUGNwTXJSc25ucTNTYnZIOHc0X052WVhWYXF2WEN1bFNGcl9SeVV5VVkyS0ViZE11QdIBsAJBVV95cUxPUm1ZMndUUEZ0M3FYWUtJRUMwWTA1ZldMMHBTY0dfek40ZS1UQzkzNC0yTi1pY3M2RWQ3VWdiUFgwdDVRYzc5TllQYUd4QS1qYkIwNHktTGotRl9Cb0xKSGNrV1VIYUlsamt4clNHZXBTazh6a2duWkEyeWNDbmk5WlBMb1JvYVFVQlBmcHdsQWZYdXhIc2N0YjZwTVl2X3l1YzJYX1VjaGd5cXB6TkdzeHpKb0kxY18weFV1YWlHa252d0NQYldWbk5oNzUzc2hIeUFuNjl3bmlLT0kzVERMU0RBVXVtYzdYQTFzd1pUU3F2RVY4WTh3TkRYcEVKWVV0WEJfMzdXaS1HSXNHWEpVUThyUFNNbW1uTmhhdXE5ZWRiTFkzTkswUlFoT0I4SEVr?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Araku MP flags off 10 new ambulances in Paderu - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkYwYWVHQVpNNnQ3YURnNjhPM0huNHhVeXV6RDZnNG5FanBteTNrUFN3WHNKOUtlbzAyU1RETDMxN0tBLU91MU55ZU9KNWF6M09oVG1MNVF4dnlJU1V5Z3NGTk13RDg4TkdRM29xNFU4elMzOHB3Ujl1Vjk0dk1YNGxQZGJPekdEc2thaHRjWjZTcnQwaTE5eWhkMkFzNjRzT056RWlMcUZQWWJtTTU1ZUM4aVVlQnV40gG_AUFVX3lxTE5XblhsX2cxa1NvbFduQUJjSVQxOWxvcnpmLWpFOW5WUVJvYmxXUzBCN3g4RU1HMmZuWUU3akFSb3pNMWtFMzZIYmtnNWpxZXdWZkoxaVItU1dONkN0R2Z4SGNFb3lCeHFLVVk3YXB0X2t6TUI3QTBwVVZfNEFLS1NrU3I1TzFPOFcxWlBGTWVCYnZ5TWFBMklNUWZ5cExFSjh1ZXZhS2pjRUFVNzZObElVTkdWY1lKQ1ZHajZDTXow?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -434,5 +490,5 @@
     }
   ],
   "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 34. Debates participated: 7. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:46.405628Z"
+  "validated_at": "2026-09-02T18:38:03.898253Z"
 }

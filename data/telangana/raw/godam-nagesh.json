@@ -4,16 +4,16 @@
     "constituency": "Adilabad",
     "state": "telangana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5395,
+    "myneta_candidate_id": null,
     "slug": "godam-nagesh",
     "house": "lok_sabha",
     "sansad_member_id": 4804,
     "profile_url": null,
     "canonical_name": "Godam Nagesh",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/4804.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,97 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "158/2024 P.S-1 Town Adilabad | Section- 125 RP Act",
+        "ipc_sections": [
+          "188",
+          "294(B)"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "158/2024 P.S-1 Town Adilabad",
+        "case_no": "",
+        "other_acts": "Section- 125 RP Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:38.780822Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 30916833.0,
-    "liabilities": 2901575.0,
-    "net_worth": 28015258.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5395",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:53.190180Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 25.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.73,
-    "expended": 3.21,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:49:06.671040Z",
-        "notes": "Official eSAKSHI REST API — Works: 236 recommended, 169 sanctioned, 1 completed"
+        "fetched_at": "2026-09-02T14:31:26.153408Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:17.522878Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:17.520143Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 236,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 21.836734693877553
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +127,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:43.602998Z",
+        "fetched_at": "2026-09-02T14:27:17.519083Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +135,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Telangana's Adilabad–Armoor rail DPR likely to get nod after inputs - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQVI4U1hYOEVZdDdDTG04NFpQY2dzYVYzcjZ3aGpuUURoQ0FfUm5jVXdRU08zZDdwX3RXRTdMLUtNWk5JTDh5UkxpWU1EcUs1UWFrVGw0dkg0MzlobDhycGIwMlZxT0FXXzNnc2M2eDYxaU81MEQ0Qy14NDFpX0x5aFJVLXViNXV0Z1FEbkhQc3dxYU91YWdHSmEta2ZNb3dhSjRCTW13VkM1SnJ6NEM0VjFFbW9iN2t6amdZbG9RRU1UZTVVa1HSAdMBQVVfeXFMT0x4a3NMNmhxZ0phN2lIMmd1ZUlHQ0MyNzRiZWFRRllId29IT29zd1NnLS1SR2NwUjFra2tJUDRSdFFzamxhZEppMVVzc3lMb2ozVkVseVNkRjVFdDBpSER0cGQ3MEo1cm9JUjRiaGRQWFp3anBqNGtMcGl2ZktCTGlTZldsSWgzSEoxUVhXdDA0YmQ2Q25yNWZMbTBUM0VDRFE1ZHhlRGd4NGw2OExxUk16Rk9FaGdMMDZCZFFyTUdCN3QzR25BbDNxc3pOSS1fYlNtdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BRS cadre protest against ‘cap’ on cotton procurement in Adilabad - The Hindu",
+      "source": "The Hindu",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjFfRXBwQUxzMkNVTHpfVGtCQWhwakwxM0Z1d2tyYnBZRWZaSVdOYzIybWdGZW5uOF8tSVlqOGItd1BjOHFqeTJiUlJuY2Q4Wnhja3Z5OTBoZWljemt2R1RWLVJicVB4elFtaUtEYUpybzZqa3RSNDJnRDJPTnV0SVdrUVgwZm8xUm5CX1hJMDVrRzRIa2x0MkhyS2Y0eGdhT1ZXbjl3ZzFUSWVQY256TVVSajhaLW1FTXpBVnp3bzJzWWZ4UTc5bEV5eTbSAdMBQVVfeXFMT1pweHVjR3FPeUdoTzFNOW1ZakFhY2dFMUhRUEVnR3JkM0FJUmpmRzRrRE5ialpRWFdrcTczdzBoOXY2RW5FTUVnNFUtMjBaX1BjbHZhTTlPUGU1VTB4X0RPaTI2OXlxT2wtcWZWQWpXRm5VLTZJS0NWZ2QxZHY0NHR5b2dRUVQ3OWNUQlhvQVBITWVMTVJZZm1ldXFEYm52cHRnNUlKWjAyMkhnTGtieFR1VTFPeHVQZXB6d3hRYmJPamRkNkM0QzdkZ0oxYXZHYnp2NA?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Kishan Reddy Reviews Land Acquisition For Adilabad Airport - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMVdYTVJzb2ljTkx1MG5ZY1BTZ3VkZjBlY0ZpbWI4ckYtZTBoOWJrVkpsWm9aQ1RMbmFBdTRPWW1YMUpiSkhIZFpjRS11RHpWbVlXamd6aHFEdjBoX09tZDkyYU1BUDd3VXJVdXdEWldDcFBhclVld1hwcDdWZmlGeHhiemgyM2RmM2Z5WlpVb0hiajRoVHU4ZV92RkRILXA5eGJmUnJDY1BDNkJpV25DbzFCUFZqVTdMWHVnMHg1eVZId9IBxwFBVV95cUxPTDB4TEVmYXBJTFJHNzcyeEU5Wm0tdGFldC1OTVp0eXZRX2V5YS0zNDlFU2pTQTlaUlFBT0pRLXpqc1VoY21ibm82VnNmWm9tT3RnZVkzY3ctYUM5RnZKcUtHcUdCb3pCSjNQLW04UWtuOS1BQ0ZpaUZYYks5QUJoa0hEQ0h5cEVwdFpiOElFNVpxOHI2S2lPbEZQZUVmQmpNdFp0UXA3QWdTQzNHTEJMUVgzdXlDblF3RWtyd2xvazV5WjNmTnh3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Adilabad outcome rests on Adivasi, Lambada support - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR204STN5VEpPYWRYb01GRGgtelM3M2swdk90QUsxTXktekkydzJsZlJuQTZKOVZ5a2IwZ0dhZUxNRXJqSGs5UnhkSDd1WTZQbFNyaVRrUlRsZk01X25rT2oxUHozUWNkVnBJdHVZTHdGUkhHLWVNdGRvRk5jUzFlTW9hZHcxaW82SUdENjZXU01BOUhrUzlsdmFENkZ6SnFyWkl1VXlCc18wWGktY084YXREM0JfQ3RMUnlnZzRzTjcxUjRJ0gHKAUFVX3lxTE8yTmpwV2h1MVdKQ3htVkpzbDZaeXU0YjlsZTQzalRkQ0hIa0JwZ0ZHb1JlYThsdmlJWXRDRmVuX213SHBGZi00NmNGMlBma01lRzJmTTdGZnN2Z3ZfdWlSeVNOYWktRmgtb2FmdWgzWGxXRDJoWlZvWWQwSkdTb0w5cHkwRDBtYVZTSXdObVpLTzlpcVBSdXdPN3lScUFXZzA3ZkNTX09FX0dGTG9YM0JEdElyS0lNWVZJcnpvWVpKdGF2WHlxa0daMFE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Three-day photo exhibition inaugurated in Adilabad - Telangana Today",
+      "source": "Telangana Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRDgxRDdBZ3ZFalN0ckxCZVZVNEJOSmItTHRXb0lELWVWQUtETWZIbWNFdFQ4UG4zX1FQU1FTYm54YmRkejRSR1o2d1Q1bmpQMWdpRl9udjAwcUVRS2VLYXRxWkxLazg2RlFyaDRRUEQ5d2UwRnBSZ1NmN3lZd1ZvWWRMcw?oc=5",
+      "sentiment": "positive"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:45.462861Z",
+  "collected_at": "2026-09-02T14:31:26.154786Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +204,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.948193Z",
+        "fetched_at": "2026-09-02T18:38:10.492697Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +220,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.948201Z",
+        "fetched_at": "2026-09-02T18:38:10.492708Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +236,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.948206Z",
+        "fetched_at": "2026-09-02T18:38:10.492714Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +252,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.948211Z",
+        "fetched_at": "2026-09-02T18:38:10.492720Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +268,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.948217Z",
+        "fetched_at": "2026-09-02T18:38:10.492727Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +284,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.948221Z",
+        "fetched_at": "2026-09-02T18:38:10.492731Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +300,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.948225Z",
+        "fetched_at": "2026-09-02T18:38:10.492736Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,35 +338,11 @@
     "neutral": 8,
     "top_headlines": [
       {
-        "headline": "Ex-officio Votes Crucial for Parties in Hung Adilabad Municipalities - Deccan Chronicle",
-        "source": "Deccan Chronicle",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXk4MXhMRk01OWxQbDJMV1dwMXUtbmpISzJBRTd2aERsdkc2a3hlMkU0ekh0LVBJZkZWNG1RZDhxeFI1N3k2OWZXTWpFdVdsTUVyM3k2Zjc0aFFVV2hmcHlIMG8tZEJLWVkwV1d1ZXdYTGVIbkUyNzhQTGdzOVFzOHR2LU9kdzJuTVg2RHNhaTd0YmdzWklkdEM2TkwtOWhJRXl2dVg5aHFVc21uMkc4RWItOU54a2doUkJ6bUR2M2taOW1BLVRSNUMyTlJTSU3SAdQBQVVfeXFMT09EaFk5THZiY0tTbkpZb1FhYXZMUjhFUXVfcFVNbms5UzUxaGQxV210dEF3OWpnN29ZX3BjQ0VDT3BiUHI0WnE1RnNJeVdaWFl0dXpLbV9vdW9PMmQ3OG9ROGpFRmowWlJmZlI1Wi05bWp3N3A0MS1LRjdqSDV4OVktc1YwY016MzJrY2hBN2w3RnlFbThTTDMwYXlFT3ZpcXhCYlBnRzdaa19SdGhsenRYRlhOM1E2eWNxbnlpWmxST0JfRmpjVzFnUkhuRVh5TjlXS08?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Adilabad BJP MLA, MP share stage with CM Revanth Reddy at Praja Palana event - The New Indian Express",
+        "headline": "Telangana's Adilabad–Armoor rail DPR likely to get nod after inputs - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2U4WVQzdFVWNkI2MFkwZ0J5Y1ZsbXRUTElFd1NXSTJmWmhvaTBrQ3dJYjZDTUpVTE1wQVZ2YmNXM2doTXJpSW5XczA3ZW5TY05YM3lCMnVSX1h5MXR1NERwZVlyTDhiR2x5MzhnQXZjaldPNkNwSDV3OWQyaFhjdHpoZy1rdm01T0dpOWFQQjJiVTM0R1VLWUFEd1NfdjEwMzNaYjZGUkR6YWZjYzhtM25NTUtlMlAwZTE1QXJYVExWZURSOXMwY1VpWVhRX0J2X2g00gHgAUFVX3lxTE9USGhROW92RjVCdEFlQ1IxSGkzOUp0ZTA2QmZ3ejRmUloxTVhfajNnSnJGbmV6cVBCZEx3SlRyZGZ2UnhXdjVweUJtb0N1aEo1V2VfNFpkNDNobS1aRFpacThHM1ZCMUpyLWNQd2h4bWMwR1NVUDhWV01hWmxZamRMQmlnazhVZXFBcXZ6dG14WTNuNl9PVDZyWnVwamh5NkdxWWQ5ZFRLdU92azdxOW9heHQ2dS1JS2paZUtkV3ItQUdKT3ZqQmp3YmtMSFNsSGxKeTlFaXFLNFZ1ejNiRTBM?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Godam Nagesh predicts BJP’s victory in Kagaznagar civic polls - The Hans India",
-        "source": "The Hans India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVVDWjF4d2FnOVdJRFVXNEFuM2pNVlJ0cDkwMUJ5WEpFZ0d5cEhudm0yWjdXbkRHcFA4ajRvSDE4THotdjJ1S3dKQVNuWE5aTm5uUHl3X3BCbTVrVU1UN0xLYUpJbHExUEVnUVpKcGV1TTJnR19sbnRyQXRkM21wMDZrVVprYnFNdWQyRnUySjRBWlhpcHZsZUhVdjBjZy1JLWVrZGpjZlZfX0HSAbABQVVfeXFMUFZxbEozR3lGOHAzaS0wZ2luOGN1ck10MVVOaWFXUmNqbVVmUXZibkl0enZzakJNMVUyOFVtZlZlYjlaSGUySTNXeThoVmRPTTRSTDhOYXIySUdKa3dwVGxiS1NwRzVpTWRlTlhjOVh3TnNRSmE5NVRXRnV5WktDYlZCYlg2cmpBaXY0NW9NejNScHcwN1NkbzMxTGlmSmhnSDY3REU0dUJYdHZPM0RoQTA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP MLAs Say Only Technical Clearances Pending for Adilabad Airport - Deccan Chronicle",
-        "source": "Deccan Chronicle",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWWdHTUV0SzlRdm9IeUN4R2ZRWk1VbmJWWnR3REJudllrMktETTlyU25SMGN2WEswU1MyaFdwMWpMbU4ycnNqampxZW0yQ3pzdW15WmV6RWlnVkpyeGhlaUQtTFBmVjVVWVVOSThkbHJ2RUdrWl9Ha0hJbUxCRURGUk1jZVBRUTZJOGV5VWs4RUJ1djFWdnJzMnR0T1hyMmFBUlhSejlPcWl6TzdaNmZkY0J0MjM5SEdMaTNSZzBVenEtSUlURmpSSm5fc3k5UdIB0wFBVV95cUxOZnUwSXBscGtNZWc5ZllsWEs1V19Eajl1TlNnNlJuTU5qVWNWYmNRUWRaclFXTFQzUUlTaWQ5UG9va2Jrdko5aVpfRDVwRDBYX3Q4dnhvNk1KYkpFWUl3NGV2Q21Vd0taRFFyTThXd3lPa29ORnJXSFlwM0VRanlmVUJRanhlMHNFUGFFNXJWa1ZJa09PNGxpTzMwSi1zLXQ2V2otSk9jTEhHZ1EwamthZUVCaTU5YkZCYnEzN0FWaHpkRnRKbUM2UnVMamU5SG9kSzhN?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQVI4U1hYOEVZdDdDTG04NFpQY2dzYVYzcjZ3aGpuUURoQ0FfUm5jVXdRU08zZDdwX3RXRTdMLUtNWk5JTDh5UkxpWU1EcUs1UWFrVGw0dkg0MzlobDhycGIwMlZxT0FXXzNnc2M2eDYxaU81MEQ0Qy14NDFpX0x5aFJVLXViNXV0Z1FEbkhQc3dxYU91YWdHSmEta2ZNb3dhSjRCTW13VkM1SnJ6NEM0VjFFbW9iN2t6amdZbG9RRU1UZTVVa1HSAdMBQVVfeXFMT0x4a3NMNmhxZ0phN2lIMmd1ZUlHQ0MyNzRiZWFRRllId29IT29zd1NnLS1SR2NwUjFra2tJUDRSdFFzamxhZEppMVVzc3lMb2ozVkVseVNkRjVFdDBpSER0cGQ3MEo1cm9JUjRiaGRQWFp3anBqNGtMcGl2ZktCTGlTZldsSWgzSEoxUVhXdDA0YmQ2Q25yNWZMbTBUM0VDRFE1ZHhlRGd4NGw2OExxUk16Rk9FaGdMMDZCZFFyTUdCN3QzR25BbDNxc3pOSS1fYlNtdw?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -302,6 +352,30 @@
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjFfRXBwQUxzMkNVTHpfVGtCQWhwakwxM0Z1d2tyYnBZRWZaSVdOYzIybWdGZW5uOF8tSVlqOGItd1BjOHFqeTJiUlJuY2Q4Wnhja3Z5OTBoZWljemt2R1RWLVJicVB4elFtaUtEYUpybzZqa3RSNDJnRDJPTnV0SVdrUVgwZm8xUm5CX1hJMDVrRzRIa2x0MkhyS2Y0eGdhT1ZXbjl3ZzFUSWVQY256TVVSajhaLW1FTXpBVnp3bzJzWWZ4UTc5bEV5eTbSAdMBQVVfeXFMT1pweHVjR3FPeUdoTzFNOW1ZakFhY2dFMUhRUEVnR3JkM0FJUmpmRzRrRE5ialpRWFdrcTczdzBoOXY2RW5FTUVnNFUtMjBaX1BjbHZhTTlPUGU1VTB4X0RPaTI2OXlxT2wtcWZWQWpXRm5VLTZJS0NWZ2QxZHY0NHR5b2dRUVQ3OWNUQlhvQVBITWVMTVJZZm1ldXFEYm52cHRnNUlKWjAyMkhnTGtieFR1VTFPeHVQZXB6d3hRYmJPamRkNkM0QzdkZ0oxYXZHYnp2NA?oc=5",
         "sentiment": "negative"
+      },
+      {
+        "headline": "Kishan Reddy Reviews Land Acquisition For Adilabad Airport - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMVdYTVJzb2ljTkx1MG5ZY1BTZ3VkZjBlY0ZpbWI4ckYtZTBoOWJrVkpsWm9aQ1RMbmFBdTRPWW1YMUpiSkhIZFpjRS11RHpWbVlXamd6aHFEdjBoX09tZDkyYU1BUDd3VXJVdXdEWldDcFBhclVld1hwcDdWZmlGeHhiemgyM2RmM2Z5WlpVb0hiajRoVHU4ZV92RkRILXA5eGJmUnJDY1BDNkJpV25DbzFCUFZqVTdMWHVnMHg1eVZId9IBxwFBVV95cUxPTDB4TEVmYXBJTFJHNzcyeEU5Wm0tdGFldC1OTVp0eXZRX2V5YS0zNDlFU2pTQTlaUlFBT0pRLXpqc1VoY21ibm82VnNmWm9tT3RnZVkzY3ctYUM5RnZKcUtHcUdCb3pCSjNQLW04UWtuOS1BQ0ZpaUZYYks5QUJoa0hEQ0h5cEVwdFpiOElFNVpxOHI2S2lPbEZQZUVmQmpNdFp0UXA3QWdTQzNHTEJMUVgzdXlDblF3RWtyd2xvazV5WjNmTnh3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Adilabad outcome rests on Adivasi, Lambada support - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR204STN5VEpPYWRYb01GRGgtelM3M2swdk90QUsxTXktekkydzJsZlJuQTZKOVZ5a2IwZ0dhZUxNRXJqSGs5UnhkSDd1WTZQbFNyaVRrUlRsZk01X25rT2oxUHozUWNkVnBJdHVZTHdGUkhHLWVNdGRvRk5jUzFlTW9hZHcxaW82SUdENjZXU01BOUhrUzlsdmFENkZ6SnFyWkl1VXlCc18wWGktY084YXREM0JfQ3RMUnlnZzRzTjcxUjRJ0gHKAUFVX3lxTE8yTmpwV2h1MVdKQ3htVkpzbDZaeXU0YjlsZTQzalRkQ0hIa0JwZ0ZHb1JlYThsdmlJWXRDRmVuX213SHBGZi00NmNGMlBma01lRzJmTTdGZnN2Z3ZfdWlSeVNOYWktRmgtb2FmdWgzWGxXRDJoWlZvWWQwSkdTb0w5cHkwRDBtYVZTSXdObVpLTzlpcVBSdXdPN3lScUFXZzA3ZkNTX09FX0dGTG9YM0JEdElyS0lNWVZJcnpvWVpKdGF2WHlxa0daMFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Three-day photo exhibition inaugurated in Adilabad - Telangana Today",
+        "source": "Telangana Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRDgxRDdBZ3ZFalN0ckxCZVZVNEJOSmItTHRXb0lELWVWQUtETWZIbWNFdFQ4UG4zX1FQU1FTYm54YmRkejRSR1o2d1Q1bmpQMWdpRl9udjAwcUVRS2VLYXRxWkxLazg2RlFyaDRRUEQ5d2UwRnBSZ1NmN3lZd1ZvWWRMcw?oc=5",
+        "sentiment": "positive"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -334,15 +408,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 15,
+    "starred_questions": 4,
+    "unstarred_questions": 11,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 28.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +424,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

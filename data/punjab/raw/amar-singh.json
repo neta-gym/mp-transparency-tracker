@@ -24,60 +24,82 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:58.829769Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 22169532.0,
+    "immovable_assets": 32111080.0,
     "total_assets": 54280612.0,
-    "liabilities": 0.0,
-    "net_worth": 54280612.0,
-    "previous_total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
+    "previous_total_assets": 3280883630000000.0,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8748",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.150843Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:40:48.682323Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 42.5,
-    "growth_ratio": null
+    "wealth_percentile": 41.2,
+    "growth_ratio": -0.99999998345549
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.04,
-    "expended": 3.48,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:39.370329Z",
-        "notes": "Official eSAKSHI REST API — Works: 228 recommended, 204 sanctioned, 47 completed"
+        "fetched_at": "2026-09-02T14:44:28.245947Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:40:46.614753Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:40:46.611657Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 228,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 23.6734693877551
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:32.511397Z",
+        "fetched_at": "2026-09-02T14:40:46.610496Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Congress to kick off 2027 manifesto outreach from Amritsar - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXZDMnhnN2lHc0Q1eTU0OUVQNFRyVDJKbEFzZThzT3h0TGZkNnJsN2FmWC1hLXM3Y0R0bEJtTExkczRCX3hXVk1MMXF0dTEzZzVxREFuQ3BwSlVwTExrbEtRNlpXSmdEYmFIcm16STM2OWdCbkJVMGt4SmVRbTVFRVQ3Uko5X21DTkdqakJBOEJ3ZTZidFRCa2tpeFN0ajhxUkVWZkZzZkFLWFRVeDg3bm1YT3NOb2E1TWV5MnZUeVEtQm5jTi1HWEZHOGhua1FWeWfSAdcBQVVfeXFMTjg4ZU55d194ZmdxQ3dIMG81OUotSFNqd3NsWFUtWGxxRS1URWFGVjRJejRRZE51TEJ2SVhkT3hzQnJOYzN2c0MyNnV5eGNodC1hQ28wQ1YzVHNKcGZxa3Q5bjFsWTBKem0wV0pSQkI3TURGakwwb0cxcmEtT3Y4VHFvMVNIcHpzejFBOFdtcHdmMm0yNE4tUC1fT2tCbXpvdXBvb2lEVG9yQVdFNURxRDQtS2NNTjZlR0JudE8ySnJJU3Qzb0xrZkcxU3B3VFB1eUcwRGRSQnM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress to make people’s manifesto for Punjab 2027 polls: Dr Amar Singh - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmVMZndUWFBNeEdMTXY1MDY2czdGYmVZbEpuX0RBcl82UnlDSHBDTEQ5RVBwMV9xZlR3RFNvXzBxZXAyLUVBeGwxejRDSi1odXhqOVBLNmZpQnRTcFVVakVxeVBUQnJjQmo0a3ZpdzZCczkzTUM2bHB4ZWxIeWNHTkt4cXg0OVZhdnZQSmJFeE1CTDJ2SDB3OUxuVjhqMVBqQVoyNWJUODV2bVZtSTFZRVItZlBFT2JrU29fV0Z30gHLAUFVX3lxTFB5RVRpeW1wSEdBZnhKY1JsN0JBbjI0a3pIYjZFUGp5SW1lT0RjQTVQSktTQ252NVJ6LTN2T05GYjJJMFlBd1FaeE91TVoyVktURUQ0OS1SYzdTZHE5YzMzeTQ2UDJYTGZ2SjdGRFduVUUyMnBNSHAxdXNHQmJDcEMwMF9FMlg4OE0xU1UxVkdYVUQ2LVNjOVNnSGJJU3h3QWhZWDRLXzl2dW5jWDl0R09lVzdYdjFxNUk2anpHaURwYmJFMWFHZTJmLUI4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress retains Warring as Punjab president, Partap Singh Bajwa as legisture party leader - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkIyTG82UUs0M3hFcWpZRmlwdGRrMGNzUDI4b3BOMDdYRzdfMVJUSFRFUk9WSFJyR1RXaFVjSm5qMlJyS1N1TkV1bUt6X1Rzb05RZ3o1VGpSd1RoZHZ0aXMxSWdodktTc2VZMlA0LWg1SkdTd1FxbzZWa3Rjc0NsUl9nTF9JQXJtUGNtQndzLVZsMjVyUlZ1WlVZLVR6TzhNSnhnWXZiUnN3bkgwaWwwc2NNaW8yUmVCNS1MbHVSWW41VmRIM2ZNODRVUFN4X3NtbTdOcGNJSdIB5AFBVV95cUxQbmFxanMyQnZKV0kxRHBHMWZWR0NxYkl1YzctZHhWS1NnU3EyYzZpVFZId0prWjZHaWlWS2JNLUpEZU8ydElzRDZ5OWVzbGZhcTJRa2Q1SGNvZFA3alQ3cExNeXctY0d1VzVwaEdZUy1uVzMtd0JnSmlkaEU0OVVJZGNha1FlM0xCUFZTalpxbWVONWptNUtRbnc4cnRZMmIwTkQxanZFOE1hN2FuV3Ntc0dCMFVQbGNOZlBoazRvRnB1dmhWUXozN1N5UHN2R1ZwbThoelhYbWdqeVBmZk5Uc2JacEw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Families struggle to bring back bodies of Punjab youths who died abroad under mysterious circumstances - The Tribune",
+      "source": "The Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVNaNHhzZUg3RkVXRXNrR0pSM3h2ck4yZVJWX3NMWHhhWEJTWWMtWDdRcDFvS083eVZ4ZUdzOTBaYjFHOTRtWmwtcFJJMXd2MFh5VU9mRUV3QVpmRzNMQzRpXzNHVlJqV3Q3Tjc1aEZDdW1QSGttaWdHUHFlZUNxNG0yQ28tYjBQTjZBSTFFelMybUV1UzJkZ2dwTHVsRUdQZVFpTW9HdlNZUzBRUFFVODF2Z0ZkeGQzNF9IS1hTS3poWjZJdTlDMWZ1Y0hEb2FjcXcweEhR0gHaAUFVX3lxTE9BV2tPakl6VkFERXFyY3N5X3M0cElHTTBEcnFTS0dQTHJwLXc5emhQYWcwcFhMNjZ3N1FkNUdsWnVfQlVNbUVuMzJNNjVlR0k5NHZneWlJbzhZTVU0WGRkZ0pFRDh6aV8wSzlqdjJjNTRpbm44d25NNHgxU1pWSldUYzdVRnBiZVhoZE9yNWVYRnVhZWJDMXd6ZmEzNGJhb0ZTLWotNXU1X25KSEVNV0t1bDdFRGhadkIyVDJTeXA0RHdrVFlJWmZhY2pvdmNyZW0yZ284emszQUp3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Youth vital for every party’ - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWtEZGd4MjFDT2loS0NrOEhhZUFaX0wyUDZPOFNzM1FTTGNfcENfODlrTkdHazhnU0VUR0pMMWl3T2toYnB0SW9XR0k0X2hPVXd4VmVVZTd1ajVad3hOQlgtdGF0Y3hwamdkSlpkQ1J1dHA5RURnLUtaVlBYc3dJck1Fa254MjVUS2dQNmlWRWZwUWxSQ0ZjTtIBngFBVV95cUxQVHR6MFVBM3pMQ2lJT3UyRGlnMngtOWZuOVdKNDhQaUJqd3RaUUt1QTJnLVVQOGE3X0JXZkE4Yk1iVnZqMWluSnFwSEVIbmNieUtTcTR3Q2NMVEFpUW9FbEdvX05WUkNkNi1DM3RoU3ZRREZrdEhsa2phYUZSMVVqb1g3N1JOSzhkWGlvM09IQmhtcTFzbUo4dktGRzZEQQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:37.458750Z",
+  "collected_at": "2026-09-02T14:44:28.247028Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.522976Z",
+        "fetched_at": "2026-09-02T18:38:09.028916Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.522987Z",
+        "fetched_at": "2026-09-02T18:38:09.028928Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.522992Z",
+        "fetched_at": "2026-09-02T18:38:09.028934Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.522997Z",
+        "fetched_at": "2026-09-02T18:38:09.028940Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.523003Z",
+        "fetched_at": "2026-09-02T18:38:09.028946Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.523007Z",
+        "fetched_at": "2026-09-02T18:38:09.028951Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.523011Z",
+        "fetched_at": "2026-09-02T18:38:09.028956Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,56 +315,81 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.facebook.com/Dr amarsinghinc",
+        "url": "https://x.com/http://www.facebook.com/Dr amarsinghinc",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/Dr amarsinghinc",
+        "url": "https://facebook.com/http://www.facebook.com/Dr amarsinghinc",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:40:49.664206Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 1,
-    "negative": 1,
-    "neutral": 8,
+    "negative": 0,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Fatehgarh Sahib: MP Dr Amar Singh rolls out civic upgrades in Sirhind - The Tribune",
-        "source": "The Tribune",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTBvTVZLb0lnbmVucGt2a2ROMHJESEFrVUt6dFpKVHBaVXN2dEZCbHZ4NjJwTnVfV3pHcEFuYnBheklUMmZ1WC1QbHNiczZURXZ3UGZfak5RaUMwWEZYNW1lYnZqem03ak1lQ1lvRUZ1M0x4X2c3ZzUyeVZUeTR2bklTa1VndE9RcDI4Sw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Ex-minister Bhullar arrested in Punjab officer suicide case: Wife earlier refused to hand over evidence, de... - Bhaskar English",
-        "source": "Bhaskar English",
-        "severity": "medium",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmJNS1lMUVRraHRLNjVka29ZdW5CdUxzUFcyeDdScEpka2FIcXVvQXhscGJjNlVRdENmYTU5RExkYzNocGlWSHNWbHNXQVlkTnliMFV4ekpRZFdSNU9iV3A0Q19DNm44bUZnOHp0a2thMWFJeU51WDZscWYxTWhMRTcySzAwbGs4dTYxQjRKWHNrQWJvREVrTUZkclNrLWswWWsydGJzYWJ6R3B1STdUS1Q3ZUpIbDBFSFhRMExNa214VlRfcFRr0gHMAUFVX3lxTFBWVXdTUnhRbWY1X0lyelY0VHlabUhQeFdXZDVKazBQLUxVUmJjVjM3WDRGRzFDdkJHV0tYYkREUy1WYmkzbUI4aTkxZXRxclQ0OHlJaXhUdVF6dGxkMUt0MF9wOGpVYWVyck5RZllQOUpDdlc2NnBSU1pMRXJxZWtFRnY0djdFSGgxSDJvVl8wc01fcEU3aWJHa2VsYk8wMlF6ZFlkLWoxRW0tWEc0dHJZOElWTFhQUnJqbkwzN3ZUakhuelJUakI4SnNubg?oc=5",
-        "sentiment": "negative"
-      },
-      {
-        "headline": "After Amritpal’s 1%, Sarabjeet Singh Khalsa logs lowest 37% LS attendance among Punjab MPs; Amar tops at 98% - The Tribune",
-        "source": "The Tribune",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS29iSXg1ekdRTEktUlhDNWlHOW05TUFyVTdTYmc1eDIza1pYdUpCc2V2MllXcy1DQ0FoSU1zeEZ4bEJzMUlrbW5JUFhKZXVBbXNrUDFpTmhZQWJzWEhIOWUtb0xDaTBRdWktQWZJV242ODRzLVQzVXZ1NTBqUjlFMlFVNTVVYS12Vk1FdHNTMWhSNjN0X29FTVcwd1o2VFNoUXZxbFNVdzJtdWRQdnJlNFhhc050azFEREpJZ0REbHN0UFZfLUE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Fatehgarh Sahib election results 2024: Congress's Amar Singh wins Fatehgarh Sahib Lok Sabha seat in Punja - The Times of India",
+        "headline": "Congress to kick off 2027 manifesto outreach from Amritsar - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcE9UdXZKNE5SV2FzVUNjUVZyam85eVlhZ2JRTVJDWWdfa3FMTWt4Vlhhb1dfT0lUZElEdFhXV2k4N2xHTUxvUWFJTkt4RjdCS1R1WERDTlhOaDhJbDQzb0dZYjV4TElucnJ2MWt2VkJpYUhCdU9lZjdoajZvM1N1cjVZc2NaNWdpcGRGTEp3Sy1LY2tCUDVTcGEwa0FxYzhnRUUxb3VFV0NuN3VfUlRzakVhQzFlMkdmdVNadDRCSzBwc2pzYUlTODg5aUVNSG9fc2hLd2VkOXZfbkxFVWxKNkJrOUZlZVNQbllRakxKOTQ2SzFoVXBuRzFnMWlFeEFSS2NSNUJYNVV5LVNsVkdybUJoc245RTFQOWZpT0V0a2NKNUd6UzBMWUg3QUtMNUc1Z0cxbTRBVkxWLUNuSEtlWUZOcEZoLTJHOFHSAc8CQVVfeXFMTV84RGxmVzB2U3hQWGpRdXdCZklvRnpaSUdaZVJzZEtLNXlobXBFcXJ2aERBNlg0LVFSWWthUjNiVDBzMHhmUHhRQUdZbEgxOU1oYXE1YnJMWm9TLXZfUGtrelNNT1RTNzZ0TTk1aFVCaGRCM1Z1enNUa0NkWXR4VDFEU0h4N09RQnJiTlc0TGJ0eERVRGsyZnZnbHpOV29qdlBvbzhQdDR6MlJlTVk3c05xc01nOXp5R1JqVG9GY1l0cjR0Vklscm9ueWxJSmIwT2lnSG9UTFd6NkJIa0xaR2ZhMkVCUzV1NmZfTkYxcUQyc0lZRWRwZmcwMnMzN1B2R0RWekduVEdSM3RKR0o3S0lfLUhQVlRuTU11TnZ1S0JxMzdnMHhub0lDRTgtTFh4Mlc0VHFjUE1DMUo0TnprNmcwTXE4aW5qb0FKdUVod3c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXZDMnhnN2lHc0Q1eTU0OUVQNFRyVDJKbEFzZThzT3h0TGZkNnJsN2FmWC1hLXM3Y0R0bEJtTExkczRCX3hXVk1MMXF0dTEzZzVxREFuQ3BwSlVwTExrbEtRNlpXSmdEYmFIcm16STM2OWdCbkJVMGt4SmVRbTVFRVQ3Uko5X21DTkdqakJBOEJ3ZTZidFRCa2tpeFN0ajhxUkVWZkZzZkFLWFRVeDg3bm1YT3NOb2E1TWV5MnZUeVEtQm5jTi1HWEZHOGhua1FWeWfSAdcBQVVfeXFMTjg4ZU55d194ZmdxQ3dIMG81OUotSFNqd3NsWFUtWGxxRS1URWFGVjRJejRRZE51TEJ2SVhkT3hzQnJOYzN2c0MyNnV5eGNodC1hQ28wQ1YzVHNKcGZxa3Q5bjFsWTBKem0wV0pSQkI3TURGakwwb0cxcmEtT3Y4VHFvMVNIcHpzejFBOFdtcHdmMm0yNE4tUC1fT2tCbXpvdXBvb2lEVG9yQVdFNURxRDQtS2NNTjZlR0JudE8ySnJJU3Qzb0xrZkcxU3B3VFB1eUcwRGRSQnM?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Flooded villages, political storm: Cong MP blames AAP govt over Sutlej breach, points to sand mafia - The Indian Express",
-        "source": "The Indian Express",
+        "headline": "Congress to make people’s manifesto for Punjab 2027 polls: Dr Amar Singh - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVFFSODN2eFdhcnJjSWctYjFlcXpqQV9SSWhqQ3JzcFB2bjVHS05aTnppekR1WXgxNnJxNDhrN1Q3NjB1S21EekkwSU5vTS03SUVld3VFZjhPZHVPMzVNeTF0bDBSbTFVNkZpQm1kZ3MtaDNxQ3JGU0hmbGNGTEdSRnd2bkdBajJDUmp4X0Y5dDZycG1FOF9UOUtDdUJNUktSUEN3YTEtRmg1Q01FVDNSZHo2RHhPQmFMdzhOVWN6czRUa01paGdISGFiWmxyY0tNcm9fRjl1UHQzLW5FLXNqaC1oN1lpWHRnMWVFaDdqeG1ObzA5bWozQ3BpQkxKS0gtT3ZUaHZEUU5vRkZhSFHSAZQCQVVfeXFMTjlEV0ZtNld5MHRldFcwWjNXanAzZUk1Q1d2cTktMHgwRTFJcENaVFBhazJ5aTNBeHJTNlNQd2Z4d3JXb1dyMUpiVnhYSUxLZG40N2VoMHlJXzFyMDE1dDE4cmJpRGNUT2ZNSkpKZ2ZYWFh0S2J1Mi0xdkFCbDNNSTlralhULWp3VVdkS056b0N3QkJMdlBaYmRveEhpSVpFZHhTM2hPcW9xQ2tWb2ZadEIwSHUyZUh0eGZ1QWtwUFpLYnhyMVdZb2F2N1hUZ3JPTkNPb3ZwcThJMXhsNkh3T2hhOHR4c1dJZk5IVXpYSkl5R0tmR0UtNTdFNnRSSUxZVmx6M3VkaHB5LXo0TG1jS19fb21F?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmVMZndUWFBNeEdMTXY1MDY2czdGYmVZbEpuX0RBcl82UnlDSHBDTEQ5RVBwMV9xZlR3RFNvXzBxZXAyLUVBeGwxejRDSi1odXhqOVBLNmZpQnRTcFVVakVxeVBUQnJjQmo0a3ZpdzZCczkzTUM2bHB4ZWxIeWNHTkt4cXg0OVZhdnZQSmJFeE1CTDJ2SDB3OUxuVjhqMVBqQVoyNWJUODV2bVZtSTFZRVItZlBFT2JrU29fV0Z30gHLAUFVX3lxTFB5RVRpeW1wSEdBZnhKY1JsN0JBbjI0a3pIYjZFUGp5SW1lT0RjQTVQSktTQ252NVJ6LTN2T05GYjJJMFlBd1FaeE91TVoyVktURUQ0OS1SYzdTZHE5YzMzeTQ2UDJYTGZ2SjdGRFduVUUyMnBNSHAxdXNHQmJDcEMwMF9FMlg4OE0xU1UxVkdYVUQ2LVNjOVNnSGJJU3h3QWhZWDRLXzl2dW5jWDl0R09lVzdYdjFxNUk2anpHaURwYmJFMWFHZTJmLUI4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress retains Warring as Punjab president, Partap Singh Bajwa as legisture party leader - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkIyTG82UUs0M3hFcWpZRmlwdGRrMGNzUDI4b3BOMDdYRzdfMVJUSFRFUk9WSFJyR1RXaFVjSm5qMlJyS1N1TkV1bUt6X1Rzb05RZ3o1VGpSd1RoZHZ0aXMxSWdodktTc2VZMlA0LWg1SkdTd1FxbzZWa3Rjc0NsUl9nTF9JQXJtUGNtQndzLVZsMjVyUlZ1WlVZLVR6TzhNSnhnWXZiUnN3bkgwaWwwc2NNaW8yUmVCNS1MbHVSWW41VmRIM2ZNODRVUFN4X3NtbTdOcGNJSdIB5AFBVV95cUxQbmFxanMyQnZKV0kxRHBHMWZWR0NxYkl1YzctZHhWS1NnU3EyYzZpVFZId0prWjZHaWlWS2JNLUpEZU8ydElzRDZ5OWVzbGZhcTJRa2Q1SGNvZFA3alQ3cExNeXctY0d1VzVwaEdZUy1uVzMtd0JnSmlkaEU0OVVJZGNha1FlM0xCUFZTalpxbWVONWptNUtRbnc4cnRZMmIwTkQxanZFOE1hN2FuV3Ntc0dCMFVQbGNOZlBoazRvRnB1dmhWUXozN1N5UHN2R1ZwbThoelhYbWdqeVBmZk5Uc2JacEw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Families struggle to bring back bodies of Punjab youths who died abroad under mysterious circumstances - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVNaNHhzZUg3RkVXRXNrR0pSM3h2ck4yZVJWX3NMWHhhWEJTWWMtWDdRcDFvS083eVZ4ZUdzOTBaYjFHOTRtWmwtcFJJMXd2MFh5VU9mRUV3QVpmRzNMQzRpXzNHVlJqV3Q3Tjc1aEZDdW1QSGttaWdHUHFlZUNxNG0yQ28tYjBQTjZBSTFFelMybUV1UzJkZ2dwTHVsRUdQZVFpTW9HdlNZUzBRUFFVODF2Z0ZkeGQzNF9IS1hTS3poWjZJdTlDMWZ1Y0hEb2FjcXcweEhR0gHaAUFVX3lxTE9BV2tPakl6VkFERXFyY3N5X3M0cElHTTBEcnFTS0dQTHJwLXc5emhQYWcwcFhMNjZ3N1FkNUdsWnVfQlVNbUVuMzJNNjVlR0k5NHZneWlJbzhZTVU0WGRkZ0pFRDh6aV8wSzlqdjJjNTRpbm44d25NNHgxU1pWSldUYzdVRnBiZVhoZE9yNWVYRnVhZWJDMXd6ZmEzNGJhb0ZTLWotNXU1X25KSEVNV0t1bDdFRGhadkIyVDJTeXA0RHdrVFlJWmZhY2pvdmNyZW0yZ284emszQUp3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Youth vital for every party’ - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWtEZGd4MjFDT2loS0NrOEhhZUFaX0wyUDZPOFNzM1FTTGNfcENfODlrTkdHazhnU0VUR0pMMWl3T2toYnB0SW9XR0k0X2hPVXd4VmVVZTd1ajVad3hOQlgtdGF0Y3hwamdkSlpkQ1J1dHA5RURnLUtaVlBYc3dJck1Fa254MjVUS2dQNmlWRWZwUWxSQ0ZjTtIBngFBVV95cUxQVHR6MFVBM3pMQ2lJT3UyRGlnMngtOWZuOVdKNDhQaUJqd3RaUUt1QTJnLVVQOGE3X0JXZkE4Yk1iVnZqMWluSnFwSEVIbmNieUtTcTR3Q2NMVEFpUW9FbEdvX05WUkNkNi1DM3RoU3ZRREZrdEhsa2phYUZSMVVqb1g3N1JOSzhkWGlvM09IQmhtcTFzbUo4dktGRzZEQQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +423,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 48,
+    "starred_questions": 14,
+    "unstarred_questions": 34,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 93.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +439,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

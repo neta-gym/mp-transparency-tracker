@@ -4,16 +4,16 @@
     "constituency": "Mayurbhanj",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 9392,
+    "myneta_candidate_id": null,
     "slug": "naba-charan-majhi",
     "house": "lok_sabha",
     "sansad_member_id": 5672,
     "profile_url": null,
     "canonical_name": "Naba Charan Majhi",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/5672.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Mayurbhanj",
       "state": "odisha",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 9392,
+      "myneta_candidate_id": null,
       "slug": "naba-charan-majhi",
       "house": "lok_sabha",
       "sansad_member_id": 5672,
       "profile_url": null,
       "canonical_name": "Naba Charan Majhi",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 63,
+      "age": null,
       "photo_url": "/mp-photos/5672.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,98 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "92/2010 Rairangpur Town PS",
+          "ipc_sections": [
+            "342",
+            "186",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "SDJM Rairangpur",
+          "fir_no": "92/2010 Rairangpur Town PS",
+          "case_no": "GR Case No.443/2010",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:50.846653Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 7407000.0,
-      "liabilities": 0.0,
-      "net_worth": 7407000.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9392",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.894558Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 6.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.76,
-      "released": 14.76,
-      "sanctioned": 5.19,
-      "expended": 2.17,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:37:30.322289Z",
-          "notes": "Official eSAKSHI REST API — Works: 154 recommended, 88 sanctioned, 18 completed"
+          "fetched_at": "2026-09-02T14:31:28.970922Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:23.336244Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:23.332779Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 154,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 14.70189701897019
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 75.0,
@@ -110,7 +146,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:24.207469Z",
+          "fetched_at": "2026-09-02T14:27:23.331650Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +154,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "‘Non-Performer’ MLA Naba Majhi, a surprise choice for MP seat in Odisha - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3BWTVZEa3pYNE1hY1Vjd2FDTjdqNHI2Z1RkcUJfSnNidndQa2lQYXJOZVdpclRJTHVsTGVyd0tOVXpCUGRfSGZyOXlEc3p3R1g4aG96QUk0amNBeUx3UW44SHlZd2FETjBSTTZhTVJkVEtrSjFNREw0Z29sZWQ4SVk1Z2FoQ0t5b2Fja1I0MGgwd3VUTVBxdVpPdkp1Z3lnRXZaa3BLYVpHdmxLZW1KdDNJVDd6MTVQRTY3dF9EcC1HSjR3bFHSAdMBQVVfeXFMTk8zUWQ5SUFOQm8tUkFaQ3ZrMWRJS21nNlR3cnhWTGx5MkZVSll5dVhwdnlPa0xWQXVRckpGRU1VY1JPNE1sWjJZTklhTEthSVdURzhwZE43U25HdWNDRlhLYm9GY0MwYWhVZ01tZkh2QzhiN29PTFNMZTMzQ0FMVDJ3cFNTQUJmZ28waUw0UUsybkUxWmJFdWdOby1PNlk3Nl93Z256ZmNoS1J2eFZIOWlCVXZJY2JiTXdBdjdERGR6YWNFbTJycWhJZG5vSWhJWTNHSQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Naba Charan Majhi , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlVzMVpzQ090WkVPRVNKWGowUFZTZVZFc2xJaDBiYzY3aW1tZTJhZUxJcHI0M3pJejd6Wk1DYnBKQjlLRGxoYW9xTm5Kc1NnNno0M3JEb1hIOTU1XzRpZlRYODM0aHJhOGtWRHRlWEEzaXRrNmRmbTNRTDFBTUlyU1hQUDR4SmVhUmc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Conclave on PM Vishwakarma–National SC-ST Hub organised in Baripada, Mayurbhanj, Odisha - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qaVpLRmVqRjBkWGEzbHZoUGlwQ2Q3LUVZd1ZGYnhqZVZCQXB6NjVhejdXN1pOZ0RlNmlHNUFKZjZtRm1Ra2E3ZWtFeFNHZ3ZaNjlITEVtam5KWWFyM29Udkl4NkpaSmhZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mayurbhanj Election Result 2024 LIVE Updates Highlights: Naba Charan Majhi of BJP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOEFZcUw4SVdMWHBjMnhFaXREYWtYVk5naUFyQjlmNVJTdVNBU0pMQktteWoweXdDclV4dlhHQnMwb3djQTY3MDZFLXAxcEpWVU5lYnFKWU1vM2dYTDVETDdrZmZRdDFwYTRMSUh0TTJLWWkybWs3VlBnMzgwNGZiTUUzYTA5SkZVZjlBTlRVYXk1M0ZxZnBacUNVYnJ0LXpjUDhuSUl6M1R3Yml2SjFHaW1GWWFGaHotdG93VUZ5T3k2WGRIS3NZQUdsTS1iVk9XX3pTblFUT0NkTHpvQkt6SUhsM09ud9IB6wFBVV95cUxPVUhoRUJZRi04dHByZlJNeGR1ZVduWjFMZXlXeTV6UFpVTDFsXzZGbWs5RXB4RXQ2TFVnT2loeHh4V3FIVWNuWkdDU1pGVTNLamp0TnFvUWlHNHZPWExMS180UHV4UDA5bkVHelRsNEs2emdCOUdEX01Kai1hc0VYUHhUVzlwV040Z0RmLWNQYk8xYnhoQmUzYWtOd2NNZTJuS2l4YWtzY0hLSjE4MGt5el9TXzF4NzM4a2dHajRfVFJFNEozRTE2SnFxY05zUDl5M3BXc2tIcTVqMlVDVDlCR1BuSjBBTU1iNnlR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP Naba Charan Majhi to take oath in Santali in Lok Sabha - odishanewslens.com",
+        "source": "odishanewslens.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mTFgtRTdzUHotZWhCYnVPV1NhOFRNbjlwUnlBVFE5dFJNMENDR0ZIY09KYTB2TVJ0LXYtN0otVWFLN2UyelVoUzQyMWY2aUtEM3Q4RHRBeWN2MTNFbUxVZ2JJY1JneTNvTG1RUQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:23.758156Z",
+    "collected_at": "2026-09-02T14:31:28.972211Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +223,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.318530Z",
+          "fetched_at": "2026-09-02T18:38:08.827150Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +239,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.318539Z",
+          "fetched_at": "2026-09-02T18:38:08.827167Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +255,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.318544Z",
+          "fetched_at": "2026-09-02T18:38:08.827173Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +271,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.318549Z",
+          "fetched_at": "2026-09-02T18:38:08.827179Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +287,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.318555Z",
+          "fetched_at": "2026-09-02T18:38:08.827186Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +303,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.318559Z",
+          "fetched_at": "2026-09-02T18:38:08.827191Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +319,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.318563Z",
+          "fetched_at": "2026-09-02T18:38:08.827196Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,9 +352,9 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 2,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 8,
       "top_headlines": [
         {
           "headline": "‘Non-Performer’ MLA Naba Majhi, a surprise choice for MP seat in Odisha - The New Indian Express",
@@ -290,19 +365,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Droupadi Murmu's role in BJP picking Naba Charan Majhi for Mayurbhanj Lok Sabha seat - Telegraph India",
-          "source": "Telegraph India",
+          "headline": "Naba Charan Majhi , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV05kTTV1eXpHaEZ4UWxyMFNZaWZmXzk2c21OMVlDRzdoTjIyMnd4NFF6RGNQRVFoMFdUN0NwMHJMS2lMUjVzTGZXT01LRmUxMUZONlJEb2VydDhtTzZtUExFbmxtbnFycEtlNTgxYTJ2WGphVHVLaFlFV3pEdWtQa0RFUkZDeXJta1ZNcHBGQmd4WG5CMkNHUmU4amEyaU8wR0JlRmJyNTE1aGh6OTlPZGlvU1ZuMkFtUllPTThrRHVObmtBeUVIU2dfUUhWWUXSAdQBQVVfeXFMTXJMX0JCVUFHNTl1RlJzV01vdFQtM3R4YzdCLVNockZKclA0LVI0Wk1udmx2ckpXM2tmRE5NcFFMcW1BS1FCZ2w0Z2dzZWw0ZG9yNW1TRXJ4NWo0RU9mZWdNVFVQaFVjLVpJOVcxVFNrV01yQUhLZUFPdnF1aUFzcGJ4OTdsSjdOYmMwcnQ1WE5zUFVpdjhkNURyNG9VOUxmc3QyM3Z6Q2ZyaXV2MThwZUtad3FOQVVxcS13cVJCUFdLSjN2YllXdlowcU1LS3NVT0JONmQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Mayurbhanj (ST) election results 2024 live updates: BJP's Naba Charan Majhi defeats BJD's Sudam Marndi by - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNjYyRUJjWW11RlJKMWFzR2pyWjhhRHJKUDVQVVFZeWVnQm9pMU5XdkpTMjF3Y2U1YkdVTUFQOWNoVUxObGFVUXQ4YXM3c2JPUUwwUVdtZmZqOEE2MFhlZWpiRVdyaUU2RElsWnRrTUF0R1haNXBoOW9zMmxRd3pzalhiLVNfNENlNzZtTXZ3SU82dVhjdWZTYzd1LXpEUWdFclBUYnRROFN4NmRMUFM2TXdhZlZVaVc5UmJRUk5odXpZVExiN3BvZHBfc1lYUEx0V2VDMmUyRy1WODJ3b09tRzlmemhGSFJBY29lWnBHbkxvTDF3d0hwOUw4Z2ktSktodE93OdIBigJBVV95cUxNVkYxY2dkbHpmUVF2RlMxVmwxMkk5aU1yM3hZdU0yOUtMNks0X2M1SHJHS1NkaExaNzhCTHJTZ3hrWFhWUk11dFBiLS1XZDd5YUNFLU9pOEpvQWd2b1lkZ2gzaHRlWEhkbmFzeXI0a2M0NGFjaWNseDBiWjc5SHZmdnZ5QWtmenNldkNlM29laU9YQ243UW1tSVhQUVdKR2E1Y0dvR3RZa1hCWGNZNHBRVC1EcXE3V2N4dWlhXy1wcnZmZ3hoWU93ZE5PeXR1dXpGYlkzeEhkU1FkdHJZcEhSTE0zUVIzYTFqLW9WOE82bTd3dkI2b0Y4OHZRMDFCbW45djNZWlE1allsUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlVzMVpzQ090WkVPRVNKWGowUFZTZVZFc2xJaDBiYzY3aW1tZTJhZUxJcHI0M3pJejd6Wk1DYnBKQjlLRGxoYW9xTm5Kc1NnNno0M3JEb1hIOTU1XzRpZlRYODM0aHJhOGtWRHRlWEEzaXRrNmRmbTNRTDFBTUlyU1hQUDR4SmVhUmc?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -310,15 +377,23 @@
           "source": "PIB",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aaHJzX2RBZExXREM0alE3UGwwcHdXMDRwRW9Od1Jmck5ZT2dPbTNYX29YUnlzaDgyeXcxcjFBVFlzUllmc1hqSWpLd2JUZkVtS0paSjc5WlNNODNJalRTaDl5ekw1VGdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qaVpLRmVqRjBkWGEzbHZoUGlwQ2Q3LUVZd1ZGYnhqZVZCQXB6NjVhejdXN1pOZ0RlNmlHNUFKZjZtRm1Ra2E3ZWtFeFNHZ3ZaNjlITEVtam5KWWFyM29Udkl4NkpaSmhZ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP’s Mayurbhanj MP Naba Charan Majhi To Take Oath In Santali Language - Ommcom News",
-          "source": "Ommcom News",
+          "headline": "Mayurbhanj Election Result 2024 LIVE Updates Highlights: Naba Charan Majhi of BJP Wins - News18",
+          "source": "News18",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaVR5R0g3SDFJSG5hQ2FkVWJiUkJVN09xLU1YdzFsdUk5R0hKX04zYnEzTURWb2h2YUk3aWNsZ3BpeW1ka0lXd09wOTF3UFFYZ2dsTzNfMFB1dGRzSFBjNjJaVk5yTEZSZmNMcnJjN3VSMm9VMTNKMkR0MldZSXk3TzFweV9WRERkQmtYSkhCVTdaM2dVYVgxRDZFNmpiVXZlNkxoZVpWY0s?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOEFZcUw4SVdMWHBjMnhFaXREYWtYVk5naUFyQjlmNVJTdVNBU0pMQktteWoweXdDclV4dlhHQnMwb3djQTY3MDZFLXAxcEpWVU5lYnFKWU1vM2dYTDVETDdrZmZRdDFwYTRMSUh0TTJLWWkybWs3VlBnMzgwNGZiTUUzYTA5SkZVZjlBTlRVYXk1M0ZxZnBacUNVYnJ0LXpjUDhuSUl6M1R3Yml2SjFHaW1GWWFGaHotdG93VUZ5T3k2WGRIS3NZQUdsTS1iVk9XX3pTblFUT0NkTHpvQkt6SUhsM09ud9IB6wFBVV95cUxPVUhoRUJZRi04dHByZlJNeGR1ZVduWjFMZXlXeTV6UFpVTDFsXzZGbWs5RXB4RXQ2TFVnT2loeHh4V3FIVWNuWkdDU1pGVTNLamp0TnFvUWlHNHZPWExMS180UHV4UDA5bkVHelRsNEs2emdCOUdEX01Kai1hc0VYUHhUVzlwV040Z0RmLWNQYk8xYnhoQmUzYWtOd2NNZTJuS2l4YWtzY0hLSjE4MGt5el9TXzF4NzM4a2dHajRfVFJFNEozRTE2SnFxY05zUDl5M3BXc2tIcTVqMlVDVDlCR1BuSjBBTU1iNnlR?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP MP Naba Charan Majhi to take oath in Santali in Lok Sabha - odishanewslens.com",
+          "source": "odishanewslens.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mTFgtRTdzUHotZWhCYnVPV1NhOFRNbjlwUnlBVFE5dFJNMENDR0ZIY09KYTB2TVJ0LXYtN0otVWFLN2UyelVoUzQyMWY2aUtEM3Q4RHRBeWN2MTNFbUxVZ2JJY1JneTNvTG1RUQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +427,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 52,
+      "starred_questions": 15,
+      "unstarred_questions": 37,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +443,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 75.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +474,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +501,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Odisha: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 7,407,000. MPLADS utilization: 14.7%. Parliament attendance: 75.0%. Questions asked: 52. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:51.319237Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 75.0%. Questions asked: 52. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.827884Z"
 }

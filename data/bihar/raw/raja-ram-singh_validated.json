@@ -4,16 +4,16 @@
     "constituency": "Karakat",
     "state": "bihar",
     "party": "Communist Party of India (Marxist-Leninist) Liberation",
-    "myneta_candidate_id": 9575,
+    "myneta_candidate_id": null,
     "slug": "raja-ram-singh",
     "house": "lok_sabha",
     "sansad_member_id": 5642,
     "profile_url": null,
     "canonical_name": "Raja Ram Singh",
     "name_aliases": [],
-    "education": "Literate",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5642.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Karakat",
       "state": "bihar",
       "party": "Communist Party of India (Marxist-Leninist) Liberation",
-      "myneta_candidate_id": 9575,
+      "myneta_candidate_id": null,
       "slug": "raja-ram-singh",
       "house": "lok_sabha",
       "sansad_member_id": 5642,
       "profile_url": null,
       "canonical_name": "Raja Ram Singh",
       "name_aliases": [],
-      "education": "Literate",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/5642.jpg"
     },
     "criminal_record": {
@@ -42,72 +42,78 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9575",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.224476Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:33:24.366824Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 2617500.0,
-      "liabilities": 0.0,
-      "net_worth": 2617500.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9575",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.224493Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 2.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.02,
-      "expended": 5.85,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:20:52.192858Z",
-          "notes": "Official eSAKSHI REST API — Works: 235 recommended, 213 sanctioned, 110 completed"
+          "fetched_at": "2026-09-02T15:08:17.752398Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:04:32.045136Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:04:32.042972Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 235,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 39.795918367346935
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
-      "attendance_percentage": 60.0,
-      "questions_asked": 31,
+      "attendance_percentage": 95.0,
+      "questions_asked": 22,
       "debates_participated": 5,
       "private_bills_introduced": 0,
       "is_minister": false,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:25.921184Z",
+          "fetched_at": "2026-09-02T15:04:32.042184Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "LUCC Scam: Victims meet CPI(ML) MP Raja Ram Singh - cpiml.org",
+        "source": "cpiml.org",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tVGMwYzFPc3ExeS1hWFNWM29VWG9KYldRTGpQaVJTN01tTkVRNDlnQlMyTnc5aHlhdHh0VFR6VHRSc2NoTzExXzJ6LVl2VmVLVmRvUWlhU1kwWjROQVpvSXNSX3BIWDljSnUwajRtQkdtcm9XVmJIX3pHSk14UQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Workers cannot be treated as expendable: Lok Sabha MP on Oracle layoffs - ETHRWorld.com",
+        "source": "ETHRWorld.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRkdzbDlQSlBsUmJLelJkVTdHS3pqN0xXRDlDUkxlVUJSVUI0MEpFVlZscjdYNGZ2Y2JXUG5JOG9jX1BIbnBPVGdpSzFBT2QtN016LUlpVWdUdzdyOGtIR3cxUVRCR05vRVJ2cjNPY2tTNkZHRnFVMEo1RDhJamVlTk9hV2w2V2NmenZEelN5dDZUbFVxWkdpVm0tbDI4TXA0d0pYa0FxNWdTTGV2bWdoZVlCbE5KeTFFX2ZidzdZVUZRYVl5WVkyNkpkT05uaTTSAdQBQVVfeXFMUGp0UTI4VEMyNF9KcW9xVWFBOXplbndSUXYzTGRVQ1VKY2Jmbm1ZOXB1V0N2djFLb2F4b2hTT21MTzAwc1pFQ3JldlJLbzZCZ1EtMjVZNFFxbDBlOTQ0MHhpdy1QTTBVaFY4NTYyc3cyM0VmdEdxdzhfTHFma2dXdGk1YnVMNTlfZThhajR0LXRLbVB0RGllZWlySG51UncydFpyS3dCaDdVbTYtU201RUU3YjdOaVhoOXFMcFMwWDdsa3Q2UHBWQUFlMmtBckJlMTNVQVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Number of people living with HIV on antiretroviral therapy rise by 31% - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFhzUmFWRjNRN0g0TTJTempPU0JZb2c5WDEzMHB5dFU1X2xOb2hEdFJpTm5iYmN0SF91OHdSVkNYOURIZWhuNVJvX1lPR2NvNUJsVWUtYldfZE81NV92N2Jnbkg5cHFJd0R3c1hFR0Q0b1ctTDFORmFQblJMSXZRX1hjWm90c25BSVJtT2U5UW85QWFZRzJWVXB1MVhKSjlzTUHSAaYBQVVfeXFMUFpWNjB1Ym9nV2NIZERSMlRlOWYxUC1UTFZ1M3JNMDJwVVREcm9iamVyaElsVjRVZ0tCaEFpaHoxa3ZrMmlxTGVtVlFISEJpRWNfVHY4ZU1qVFAzak5QNEFPenp4YXdUNlFWVU13QnVJQlFxYVdlWkljWVRYenBONnBSWnhkNGRfTDVQUTMyN3c1NzNRb09VcHFDOXpyMHA0RERPQWVTQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Education Loan: PM-USP scholarships up 31.6% nationally, but J-K and Ladakh see 10.9% drop in 5 years - Careers360",
+        "source": "Careers360",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWkyT1E2LUl2WjVyWEd6TXZJOU1fR01JY1ZTNkFnS1JZaVMtSU5qNlVQSUdBY0ctc2pSNVBRX3RuLThMNUJld3A5eG8ySDZ6dFEtYWxoVnItcHk2UWZKczQtRm9Hb05nSkxCR2xvdGk2TV8wT0lIRU91RzVhbUZtM2laUWlxVmQzclpxQjVHY3pjSExOdkk5WHRtTUtDeDAyR2I5VTc3TW9BZlIyQkNUTjljZEJCRTJTUkdSSjZuSEVfZnhfd0FFdm5CVkU4VjNqc2xBcmZKYzJDa3R2dExHRWd4ZUlvRjkyM1HSAe8BQVVfeXFMTkpfbFdwWGs3QVpRcmozRHJ2ejNWZkFITzJaRnlkSWU4M2dXNG51UjRjYnRCR3cxVlZvekU2WnlLc0lta1ZhQWlCOWlYMnZieEtTejBpS2lCSElnS3BYWnlYRDZnZlRpX1RLd2VWQnF0TzdHdXBWeUhpdEN3b2JUdTRhOVM4N0lFWUM4ZF9SMTI2OWRKZmNxbmVTZzR5ZmpuelhMckNRNlVTcDlwcmpoS2FGdWQwR1VWbjNUcFlkUTlCa2VHSnQ0T0dGa1VhNkNkeFdJbkJjR2hDdzdOZTd4RGJ2cDl5dHRCU0NaeHlpSVU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "CPI(ML) MP flags delay in getting allotted house - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUzVoVDAzNldoWjFzNEtEVmZ3X3NKUWFFSmN4Q0RndkxjZmZCNlpleG11WDgxOWpvTHBJV2h1V1I0dnpFbmJuWUM0YXU1NEw3RDR0aEdRUG9rU2d6a185VnBTR2lEa2Q1ZURrVWY4VjRmSEVfUEotdzZ1VVlEWEh0ZVJzRENJdGRnSFExVV9sNHB5R3c?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:32:25.244712Z",
+    "collected_at": "2026-09-02T15:08:17.753208Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.315362Z",
+          "fetched_at": "2026-09-02T18:38:04.778965Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.315371Z",
+          "fetched_at": "2026-09-02T18:38:04.778980Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.315377Z",
+          "fetched_at": "2026-09-02T18:38:04.778990Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.315381Z",
+          "fetched_at": "2026-09-02T18:38:04.778998Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.315387Z",
+          "fetched_at": "2026-09-02T18:38:04.779006Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.315391Z",
+          "fetched_at": "2026-09-02T18:38:04.779015Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.315396Z",
+          "fetched_at": "2026-09-02T18:38:04.779023Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -268,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.315400Z",
+          "fetched_at": "2026-09-02T18:38:04.779031Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -314,27 +359,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Drop introduction of HECI Bill 2025: Bihar MP urges Kiren Rijiju - Careers360",
+          "headline": "Workers cannot be treated as expendable: Lok Sabha MP on Oracle layoffs - ETHRWorld.com",
+          "source": "ETHRWorld.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRkdzbDlQSlBsUmJLelJkVTdHS3pqN0xXRDlDUkxlVUJSVUI0MEpFVlZscjdYNGZ2Y2JXUG5JOG9jX1BIbnBPVGdpSzFBT2QtN016LUlpVWdUdzdyOGtIR3cxUVRCR05vRVJ2cjNPY2tTNkZHRnFVMEo1RDhJamVlTk9hV2w2V2NmenZEelN5dDZUbFVxWkdpVm0tbDI4TXA0d0pYa0FxNWdTTGV2bWdoZVlCbE5KeTFFX2ZidzdZVUZRYVl5WVkyNkpkT05uaTTSAdQBQVVfeXFMUGp0UTI4VEMyNF9KcW9xVWFBOXplbndSUXYzTGRVQ1VKY2Jmbm1ZOXB1V0N2djFLb2F4b2hTT21MTzAwc1pFQ3JldlJLbzZCZ1EtMjVZNFFxbDBlOTQ0MHhpdy1QTTBVaFY4NTYyc3cyM0VmdEdxdzhfTHFma2dXdGk1YnVMNTlfZThhajR0LXRLbVB0RGllZWlySG51UncydFpyS3dCaDdVbTYtU201RUU3YjdOaVhoOXFMcFMwWDdsa3Q2UHBWQUFlMmtBckJlMTNVQVE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Number of people living with HIV on antiretroviral therapy rise by 31% - The Tribune",
+          "source": "The Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFhzUmFWRjNRN0g0TTJTempPU0JZb2c5WDEzMHB5dFU1X2xOb2hEdFJpTm5iYmN0SF91OHdSVkNYOURIZWhuNVJvX1lPR2NvNUJsVWUtYldfZE81NV92N2Jnbkg5cHFJd0R3c1hFR0Q0b1ctTDFORmFQblJMSXZRX1hjWm90c25BSVJtT2U5UW85QWFZRzJWVXB1MVhKSjlzTUHSAaYBQVVfeXFMUFpWNjB1Ym9nV2NIZERSMlRlOWYxUC1UTFZ1M3JNMDJwVVREcm9iamVyaElsVjRVZ0tCaEFpaHoxa3ZrMmlxTGVtVlFISEJpRWNfVHY4ZU1qVFAzak5QNEFPenp4YXdUNlFWVU13QnVJQlFxYVdlWkljWVRYenBONnBSWnhkNGRfTDVQUTMyN3c1NzNRb09VcHFDOXpyMHA0RERPQWVTQQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Education Loan: PM-USP scholarships up 31.6% nationally, but J-K and Ladakh see 10.9% drop in 5 years - Careers360",
           "source": "Careers360",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNV3JyajZOV2RlLUdvVUtiV0pzTmZucTZnbEpFNVF3LWJMbHdGM29IaFlJMG5mVVFEVTlhMk5zT3VkSDV2OGx5Zy1IakhwbnJ2dmplTGdFLVNsS2o0OExZWWZqZmlJRTZMYUVfX0NiaEhoMGJManRDVUhxRk5fOUg1ZV9RSXpHa1J1NWJQZ01FMUpZVjNYaGJXMGlrdkhtV0NWbjVXc2RsQ1gtUnlaS09aZng5NHRFbHUxSlNnWnozZ3ZSa2N6X3ZQWWxoTnkzQV82SHloR3hYdmlPWS1rZDVVNjQ2cVdoay1yZm5aR9IB8gFBVV95cUxPYTIwck00Vk9zREd2YXRBUExKYWx2Xzk1X1A2cVU0WnFKWF92MGk2Mm9JWHdrR3hvRk5QcXlJbWt0OEJlR2huZHctUFA0ZlpkTmxvQlRsbjhIdmJMYndqNWo4Q2dGNEtWNDRrWjN6MHJ4NDhzQ2JqWEsyTmkyUDlPbnB2T0ppTWs2QldMTkVPRFdmZF9PUkJlTVNHTzFIZWtTODZDZWNKeXFNdkZYTndwYXhzUlhrYUtZbEtzZXJfRUpYYWVOQnFfcmdaV0ctTjVCQThoR0dBU2dQQ3dRMmdmdGJsRjFkTWZpbVhKYjVPTHBuZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Karakat Election Result: कौन हैं राजा राम सिंह... जिन्होंने चुनावी मैदान में पवन सिंह और उपेंद्र कुशवाहा को किया पस्त - AajTak",
-          "source": "AajTak",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNTDVnWlZESjFtS0NMQmdXRHFIS2g5emxxbUVPYUcyT25XbmtRTm5fV0N5dmMwdWxUN1JaYmlTcEVYUWs2dVA0bnJEaDc3MnREV0VIdkFWRVF0bG0td2d4bzFxOUhZc0tGVGp3NDlpMGVIYWtReHA2Mk45M0pucUg1eTNMdU1lODV0enJhc3ZxR1pRSEJBcXBMUmIwVGlYc0ZROHlnWV9DUm1Ub2QwakJDTFV0NHYteVRyX3JVdDh1WVFhaGhKdGxYQ2ZuamJzbmxVODQ2T3hHem4yVzVtNjcxa1paeS16ZkppT1NCTDR3eDRUQ2lDc1dscC04OTRqUDVJYklXaDhZd0wtaWZybmc4cUs1b3Brb0tT0gGeAkFVX3lxTE1NWXpaNXo0LU1QcUVVcWVjbGhYbDh0WVpqd0hYUmFJeTBTSlR4OXdZQVZJM3ZfdXFILWxDRHhpVkNkckQ4MGNyTjZPN3J4NmpKZzAyVTJzMC1Iemg3akxXdHBWTnJlXy10TEpNTHpxY2d3dE9HY1ZrMTRCS043SnlxbEQtSE9RSDdzZTZDX3RTT1BTUGtPU1lUcEt4bHBzNzZ5X0lKbFYxdlgta21IYVdRam5oR2hXTkc5c2RFdVh0RlZidXNNM3dUREs0WGtacS1OcVd6WFJ3MWhMWFMzaVQzc29VdXVNYWNGTUNZdXBnazhMSGlLb2VhcXZpSTNIVTlWeFNzTUV5UXpidEVaWG9sSVdnSWJ1dENMNmN1eFE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Raja Ram Singh , CPI(ML)(L) candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlINmM4NjVTTnFVZm1Rcm10dUVQQmxVTlR0R2tSQTBQUTI3bGhjQ1lkQ0tLZ1hhS2RVTU9DVWtRQkdkaUNocXlDSG91ZTY2TEhheXdDbjVIdUJKZUFRM0pvZlZjLUVmMy1yV2RKM3ZVbTh6WUdGZy0tMGhyVDY5V1dTeEhiUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWkyT1E2LUl2WjVyWEd6TXZJOU1fR01JY1ZTNkFnS1JZaVMtSU5qNlVQSUdBY0ctc2pSNVBRX3RuLThMNUJld3A5eG8ySDZ6dFEtYWxoVnItcHk2UWZKczQtRm9Hb05nSkxCR2xvdGk2TV8wT0lIRU91RzVhbUZtM2laUWlxVmQzclpxQjVHY3pjSExOdkk5WHRtTUtDeDAyR2I5VTc3TW9BZlIyQkNUTjljZEJCRTJTUkdSSjZuSEVfZnhfd0FFdm5CVkU4VjNqc2xBcmZKYzJDa3R2dExHRWd4ZUlvRjkyM1HSAe8BQVVfeXFMTkpfbFdwWGs3QVpRcmozRHJ2ejNWZkFITzJaRnlkSWU4M2dXNG51UjRjYnRCR3cxVlZvekU2WnlLc0lta1ZhQWlCOWlYMnZieEtTejBpS2lCSElnS3BYWnlYRDZnZlRpX1RLd2VWQnF0TzdHdXBWeUhpdEN3b2JUdTRhOVM4N0lFWUM4ZF9SMTI2OWRKZmNxbmVTZzR5ZmpuelhMckNRNlVTcDlwcmpoS2FGdWQwR1VWbjNUcFlkUTlCa2VHSnQ0T0dGa1VhNkNkeFdJbkJjR2hDdzdOZTd4RGJ2cDl5dHRCU0NaeHlpSVU?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -376,15 +421,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 22,
+      "starred_questions": 6,
+      "unstarred_questions": 16,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 42.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -392,17 +437,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -423,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -438,12 +495,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 2,617,500. MPLADS utilization: 39.8%. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:47.316095Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 22. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.780059Z"
 }

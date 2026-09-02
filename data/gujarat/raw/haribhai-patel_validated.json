@@ -4,16 +4,16 @@
     "constituency": "Mahesana",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3774,
+    "myneta_candidate_id": null,
     "slug": "haribhai-patel",
     "house": "lok_sabha",
     "sansad_member_id": 5560,
     "profile_url": null,
     "canonical_name": "Haribhai Patel",
     "name_aliases": [],
-    "education": "Others",
+    "education": null,
     "profession": null,
-    "age": 62,
+    "age": null,
     "photo_url": "/mp-photos/5560.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Mahesana",
       "state": "gujarat",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3774,
+      "myneta_candidate_id": null,
       "slug": "haribhai-patel",
       "house": "lok_sabha",
       "sansad_member_id": 5560,
       "profile_url": null,
       "canonical_name": "Haribhai Patel",
       "name_aliases": [],
-      "education": "Others",
+      "education": null,
       "profession": null,
-      "age": 62,
+      "age": null,
       "photo_url": "/mp-photos/5560.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:55.589256Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 39863356.0,
-      "liabilities": 1266000.0,
-      "net_worth": 38597356.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3774",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.371223Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 32.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.83,
-      "expended": 3.32,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:03.770720Z",
-          "notes": "Official eSAKSHI REST API — Works: 497 recommended, 386 sanctioned, 142 completed"
+          "fetched_at": "2026-09-02T14:43:05.569147Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:39:15.932270Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:39:15.929444Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 497,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 22.585034013605444
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:25:45.857034Z",
+          "fetched_at": "2026-09-02T14:39:15.928412Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Mahesana election results 2024 live updates: BJP's Haribhai Patel wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNN0UzTHhxQTRBSjZ5ZkxYSnhwRHhPbUJZSVUwSGFMbmVPdDk0djJQTWd0U2hZN2x2TmZCWXZJYm5kR3EwaWFkS2pvYkF2OGdQUUNoSEVESTNWQWhuSTZtS0FtUVR4SXMyMTk3Q1BQRUs4RG16aDN5MVRFV05QSWFJSUJYMFMzWHhOMlQwbGdaUjFjR3Myd1A2eTNvNXFzU1M3czRtYVBHWjU2NHhzZGNIamV1cTd2TG9MZlVVTk9qRFNXSEpTVHBlRzRIUWZWRVR2MmpQMWVVUi1JbElmcEt1bEZsTmcyeWkyMzlERk9MNHNQS3VrcDVubXFtdGY4LS1GdHoxMmdENmpoWVpfUWw3aXR5SGJOYnRsMGs1R25MUkROX0J6a3JmRNIBrgJBVV95cUxOc1JETGFfdjZack1pdFRlbzdlSlFJY2s2cnJrUk03a2ZWelVTVzV1X2g2VzVZbWlOZVhBRUNkZ201UGtyLTRmME55TFFGaFMxNno0ZWphRFpTSl9wNjZ6dEkyRkZseEdWRkJNdFJlSFZhTzVuLTE4emVpX0s5akhkZjZXN2c1YU9jQXZHcDVJcWRXNzJabW1la2V4RHJEaEhKTF9yRE9QTHh3cXJxQUxSd1hiQ1RPV2pPWXFrbFlkLVk3VFZCNmwwQ08zcWhLX3VpMFBNVTNHWjI5bE93WHpJUTh4Rnlzb2hOM3c5T1JOOGJ1MWg1UjNNaXd5THc3cUhlU1BPaGtzY1Fmd09LLVZ6aS1TdGlTa0p6UXVuYjI2RFRmcGpJYkQ2TkhnS212dw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mehsana MP Haribhai Patel suggests to shift FCI depot outside city, reasons traffic and road accidents - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzNxaDFaZU1kRXpnN09kZE1idTdFNnJBY1dEZEo0UGpwRFhQZG5DMzhlWV9seDRrdWlMYWo3N1VicmZpSnhxYzFyNXdiemxQZXNfR3VJcm5Wejh4Q1puS0hSWDVEU0Y4aV9MazZkS0t4dEVCZ054blgxX3VHUlE2NTlrV003R1l4eF8zWkgyX0pNTl9JWXd0U21oUy1qeGdtd2gwSkU4XzdGZzVQQXBIbEt4Q2V3T1VOV3RkMXlCdFY2UdIByAFBVV95cUxPcV9tOXhnQXJOMVhPUFdXMno0Vl9RSGJlTzV0V2l4b0NxR2FlTGNXUUszZ3h4THR3UkNieGNLTGFGcmR3RUxPNTU2Wk5yaTVEcEdIWFJsVTJYVl9xUEQ1SUZzYjlaRFpqbUNPTHlWSG5TWFFnOTZhbUVFYzM4eTlZMEhXM3dVc1l0ZTZXN1lSMy1hcXB6d1NyV1VmWElrSnNjTm5lbUNlM1RvbGxYdmYzY0ZzQjVpTXp3TlM3cXJVYWlYd29rT0luQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gujarat CM Bhupendra Patel Unveils ₹938 Cr Development Projects in Mehsana - CMO Gujarat",
+        "source": "CMO Gujarat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHpsUVh2ZmkzNUZSRGVaalNxYnd5NW1EQmlFdHE1YzAtU1lhY1ZtN3JVUlVXTjd1clJkcExsQ1hmWlBKRkoyYWNSOFZEbUQtSFlETmRHbm5sRTlDQTQ1MVIzMFZubzhoMFR0QWRIMGVUbXZXMzUzY3R0Q0gyTnQta2xRSUQtdld4a25BN1RXWmlFN0kxTWV1NTJsWmVEQmxTaG1qbA?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Mahesana lok sabha election results 2024: Mahesana Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOamFDUTE5OHZEOGc2UFNDVFBubkpFeVl2bnU0RFhpdXN2Q1MyX0Z6TlczdlBzMDQzUVdGaklZclJUMW5aZGE0R3VpQ0tGQ1RaV2FNTnk0cDFKSG1xczE2dHRZVFl1Z0VsMmc2ZjgwOWduaUdCMzZBSXl1dzNCeFAyRFBkYmJXTEtlbkFYZ2MwRXg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mahesana Election Result 2024 LIVE Updates Highlights: Haribhai Patel of BJP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWFk2d25MVFd4SkVTbUdHa3BCTEZnV21FendkekUwbVJIUkhuMzV5SnkzVzlhcWxOaS1xNUU3ZUpONjBVbEtSR2FFTzRzYUhaYWNPSk1FSlBsQ3Y2SlNxZlZTdkFnUGlnU0tQSjAtaHRDZUVXVmlwc2ZGQXNyNzhFN3Foa2ZpMWxLcFZRNkZxQWM2VkkybmtLWGF6LVR0YTQ0eTRvMHR5MjFxNzJuLTVycENCcTlWd1BPOVdKaVdVdXBLRzF5OUtNN0NXRVBDN2FyVHdKZ1hpc1I3SkduM2VVbWlhY9IB6AFBVV95cUxNbGJPcDFxdFR1bkpjSjZxQlh6N2N3NXIzMzl3TDdWNEtvWXprZ1lEdU9RVHZCOElIRUR0cHEzYmFNYXpOeVRPX2plUk9QNDBlOGFEV1k1RFl1Q29sR3RLUm5BekpTNGp6ZmczYnlSOF91R3JOdllGZWlGLUxoTTZacXBycHJzbkNLMFJaR0JmWGdKQnItNjJrX0JNNWxndHlQSHdKaDhpT3M2X1ZZUS0xcGZfODA2eDh5My0zMWtHMDdERWpMTllWckdDcmF1V0hGSXA1NWhzWXlrSE41Sk1Xbm1rV2NrNmp2?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:26:46.560963Z",
+    "collected_at": "2026-09-02T14:43:05.570470Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.023137Z",
+          "fetched_at": "2026-09-02T18:38:05.608759Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.023145Z",
+          "fetched_at": "2026-09-02T18:38:05.608776Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.023149Z",
+          "fetched_at": "2026-09-02T18:38:05.608785Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.023153Z",
+          "fetched_at": "2026-09-02T18:38:05.608793Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.023158Z",
+          "fetched_at": "2026-09-02T18:38:05.608805Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.023162Z",
+          "fetched_at": "2026-09-02T18:38:05.608813Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.023166Z",
+          "fetched_at": "2026-09-02T18:38:05.608820Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,18 +330,10 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 3,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 7,
       "top_headlines": [
-        {
-          "headline": "Mehsana MP seeks establishment of U.S. Visa facilitation center in Gujarat - DeshGujarat",
-          "source": "DeshGujarat",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzBuRjRQZWsxUk1nelJnOVowRHJ2MFVzQThjN2R2R1V1dGRSQlV0Q1Q3NExMRjZzYUlFcTRiYmdmOWQ2dWRWcFBNLVRQUzUwbEt1dGQtMnhDTkp6TEhPM0pFamVSWnlraUwwcVAyZlR2b3NpS3pZM0F1R0VfOUxONGlBT3V4ZXZHSUZhLURWR0Jpd0RYR0pxTThTaUsyMmx0eWNhOXk0M1Y5NS1WTHc?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Mahesana election results 2024 live updates: BJP's Haribhai Patel wins - The Times of India",
           "source": "The Times of India",
@@ -306,6 +351,14 @@
           "sentiment": "neutral"
         },
         {
+          "headline": "Gujarat CM Bhupendra Patel Unveils ₹938 Cr Development Projects in Mehsana - CMO Gujarat",
+          "source": "CMO Gujarat",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHpsUVh2ZmkzNUZSRGVaalNxYnd5NW1EQmlFdHE1YzAtU1lhY1ZtN3JVUlVXTjd1clJkcExsQ1hmWlBKRkoyYWNSOFZEbUQtSFlETmRHbm5sRTlDQTQ1MVIzMFZubzhoMFR0QWRIMGVUbXZXMzUzY3R0Q0gyTnQta2xRSUQtdld4a25BN1RXWmlFN0kxTWV1NTJsWmVEQmxTaG1qbA?oc=5",
+          "sentiment": "positive"
+        },
+        {
           "headline": "Mahesana lok sabha election results 2024: Mahesana Winning Candidates List and Vote Share - India Today",
           "source": "India Today",
           "severity": "low",
@@ -314,11 +367,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Mahesana Gujarat Bharatiya Janata Party - The Times of India",
-          "source": "The Times of India",
+          "headline": "Mahesana Election Result 2024 LIVE Updates Highlights: Haribhai Patel of BJP Wins - News18",
+          "source": "News18",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUVINEE1LUZ3T3gzYnNXVFFVVWZTdUcyb1NfYmlsY3l2UUpGUmY3WE5hcU4zd0h1Y19XQWptdzl4RHNad0dJbkZucFNJUDZKV1Z5T2tkeFh0QXdydGZ6ZVVkVmZKSThnUENWdmRRV09JMlpZV0FWTzJkY0dXaXhGeDN6N0hfOGFBTFkzNVZEWmpMVC1GSkwyX3dCSWFCckxiYk1yblJTZ2ViYnpnckdldE5aR04xU0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWFk2d25MVFd4SkVTbUdHa3BCTEZnV21FendkekUwbVJIUkhuMzV5SnkzVzlhcWxOaS1xNUU3ZUpONjBVbEtSR2FFTzRzYUhaYWNPSk1FSlBsQ3Y2SlNxZlZTdkFnUGlnU0tQSjAtaHRDZUVXVmlwc2ZGQXNyNzhFN3Foa2ZpMWxLcFZRNkZxQWM2VkkybmtLWGF6LVR0YTQ0eTRvMHR5MjFxNzJuLTVycENCcTlWd1BPOVdKaVdVdXBLRzF5OUtNN0NXRVBDN2FyVHdKZ1hpc1I3SkduM2VVbWlhY9IB6AFBVV95cUxNbGJPcDFxdFR1bkpjSjZxQlh6N2N3NXIzMzl3TDdWNEtvWXprZ1lEdU9RVHZCOElIRUR0cHEzYmFNYXpOeVRPX2plUk9QNDBlOGFEV1k1RFl1Q29sR3RLUm5BekpTNGp6ZmczYnlSOF91R3JOdllGZWlGLUxoTTZacXBycHJzbkNLMFJaR0JmWGdKQnItNjJrX0JNNWxndHlQSHdKaDhpT3M2X1ZZUS0xcGZfODA2eDh5My0zMWtHMDdERWpMTllWckdDcmF1V0hGSXA1NWhzWXlrSE41Sk1Xbm1rV2NrNmp2?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 42,
+      "starred_questions": 12,
+      "unstarred_questions": 30,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 81.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Gujarat: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 39,863,356. MPLADS utilization: 22.6%. Parliament attendance: 90.0%. Questions asked: 42. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:48.023942Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 42. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.609852Z"
 }

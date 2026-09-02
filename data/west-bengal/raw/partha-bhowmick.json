@@ -4,16 +4,16 @@
     "constituency": "Barrackpur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 7118,
+    "myneta_candidate_id": null,
     "slug": "partha-bhowmick",
     "house": "lok_sabha",
     "sansad_member_id": 5660,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 60,
+    "age": null,
     "photo_url": "/mp-photos/5660.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,121 @@
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "121, Naihati Police Station and S.C. Paul Road, P.o. & Ps. Naihati, Dist. North 24 Parganas West Bengal- 743165",
+        "ipc_sections": [
+          "147",
+          "148",
+          "149",
+          "427"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "1st Judicial Magistrate, Barrackpore Sub Divisional Court",
+        "fir_no": "121, Naihati Police Station and S.C. Paul Road, P.o. & Ps. Naihati, Dist. North 24 Parganas West Bengal- 743165",
+        "case_no": "1777/2010",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "46, Naihati Police Station and S.C. Paul Road, P.o. & Ps. Naihati, Dist. North 24 Parganas West Bengal- 743165",
+        "ipc_sections": [
+          "341",
+          "323",
+          "506",
+          "34"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Additional Chief Judicial  Magistrate, Barrackpore Sub Divisional Court",
+        "fir_no": "46, Naihati Police Station and S.C. Paul Road, P.o. & Ps. Naihati, Dist. North 24 Parganas West Bengal- 743165",
+        "case_no": "623/2008",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:35.768716Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 54235841.0,
-    "liabilities": 11051557.0,
-    "net_worth": 43184284.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7118",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:56.041812Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 42.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.52,
-    "expended": 3.03,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:52:56.142450Z",
-        "notes": "Official eSAKSHI REST API — Works: 33 recommended, 8 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:55:40.523855Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:51:54.879281Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:51:54.877731Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 33,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 20.612244897959183
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 10.0,
@@ -92,7 +151,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:16.335783Z",
+        "fetched_at": "2026-09-02T14:51:54.877043Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +159,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "TMC defector MP Partha Bhowmik faces 'traitor' posters hours after PM Modi meet - indiatoday.in",
+      "source": "indiatoday.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcU8ydENvSVI3R3pCVU81cEFZdnhkN2Iwb0gwb1VUZF9NTTBUTk5YdVlQQ1liUUhQeG9VSVBwOTZMVVh6SmpMRDB4LWZjWDBuQ19HZGFVbWdncnB2NGIySDNQdFVhTzVUXzRiZU92Z0RxU0dDSjUwOGUxbDdJRWt0YzVlLVFkZjZIZTBMdXo1R25MS1ZHYUtGTEVpV2hVcDViRnU3SEdWbEpwM1l0MkpPN3V3SzlmN2FPYU1zeGs3ckQ0UkNfcnlXc3Myam1pRUdWT0tR0gHYAUFVX3lxTE9lZDhQekdXRFJReVF4TFJiUV94ZDhxR1pvU1B4d0dCdDlMdk5kRmUtZDZVakhCZjZPd2FweEZaX192UjdBYWxyMzRpZlBlVmlyTHRsUzktYmhqTmgtalNqRmJKMW5SbThJaktTSWVLQjlHeHdFTlFoM0pYY3hOUFlQU0JWV25idmxLTUVEakw5dC1DWFI4QWo3N0VXVWU2emZWYXEwVmRZRWd4aEhsWFZVZUVCWnU1VVJfdGx6TW9UR01jUWhzQXA4VVhPOXNCLXZyMWJCT0VxUg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Agent of the BJP,\" Trinamool MP Partha Bhowmick accuses Election Commission of partisan attitude in West Bengal - indiagazette.com",
+      "source": "indiagazette.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObDJBd3gtSEtEN1lmLUJZemNvU0FxT0toRGlvZ1d2cndOMnRRY29hZjRBSGdHRHY0YlpYLWhLamh3NzUzR1JEeUVpYklzbmVhbk1pOWtqUnJ3R1VQdEQwQ0l5WlFPdDB0aVhDT056UlFuRnBwbVNsZXluTUx1Ri13WFpEc2tkRHNGMkpjNGEwdHpKWDBEV1ZqUkZDQk5vS1lxQkRNcllRUGZsTnlpVkxMTC0yZ3hTWENhZ3p0MjZJRnZfY24yRno0UUpMMU1sQ3hQVEJhbHUyS0dtaFlmUEhqOGVEWWF1X0JR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Family first: BJP banks on Arjun Singh to retain hold in Barrackpore, fields him and his son - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbjRwQlV0MmpzaWhHVUZXa0xEWmRrMzd1bGgybjBkQnJ4dmRRRHZfQ0k4dF9rYmlzQjd5cnpPUlFidndfUEZsQTFWTjdiem5NS1Q0TU9IaFYxcFBWZ01Ia0F4bzBDOEJNbzR3eUQxeWNTX1FudkQtR0tQTFhaWmlDQ3BGQ21mek8ycDFyQ3l5cEVMY0xwc0Y2bERPT0VNY09JVHZCQjR3c2xOMUJsckVaWHlFcUs2TUZCdzdSOEIxOWJMSVhWRGhVR1lKaGRGejliNjJNdmNhd9IB3gFBVV95cUxOcGFreHhLa2ZHQXFkSzVpLW52UXMwekR2VDk4Qno5TExrZ2ljMjltUFZXcDlYc0M0ZkpGRDB5NWZOVUx2M1hpVktVWUxGVVAzUi1veHZGOEZiaWFpNUZOa1dUM1pIT2JHUEtjMUVpTmhlcFA1cmk0UEtMYVh1NFVydHlGTk1yVVRpd2dzU293REFWem9mNzNLMV9qRFhNQ2oyMEFLZHE4SjVJSFBaUXpxTmFOejBEelZ0Q1Ywc1NiTG9KTi1aSHRRZ0xHb1lVZ1ZsWDlMU1lLUVpya183b1E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Trinamool councillor arrested for allegedly ‘beating elderly man to death’ over illegal construction - The Hindu",
+      "source": "The Hindu",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaVZSSVlYMExLMGFuVDhWV055MVFkMkdsMDRvM2dMX19BVnF6RlppTUZYamp1RGZVT1N6T1V5WXlaME5PYmF2ZTB2eHRiTGtMTUhCMjEzazc1THFkOHVVUHM2elhLbmRxcGU0eEpiWklKNUVsbnh2YWQtZGJTbi1QS0VYUEMtOUZ3bmxJU0FpeTdxM3JBUVFCUnJaRUZaQmpmMllveFhDaFZfdWRzYTg5WnVDLWdrMEh1QXZqdXg1M2RqZUxjUFhSdDBHekVWTnhwM3R3LTkxeWV0c3E3YURxNUNSUmlfc054R3BoVmZqRUFxYU5fb1NVb2E2OG53d9IBhAJBVV95cUxOTHBxYXFaQm5VR1I3eGlvQ1BaOU13NldwTjc5RlNSQTkySTFXVkVhTWpEQnVnRU5SMXotakxkVlloX1RPazVWZHJTVnVrSlN2V1dwU3hXc2YyWjJzM3dadGJBVkFsc2pwSHBKc21QNEJta2h5c01aZFJyU3p3Q1hqWUdkZGVZMF9LRkp5R3BJR3NZLUxtYVJyQWVUNFFvbFYwZ0NrUy1Qa2dWNHdLQ0NGV3BuRldveTJMbUJkZnIzNUlxUDFkbXh3cVo3NTZ1MGJTRkMwSkxQWmJvd3pob2FMWXdoNTNyZ2tqOUJaMTJ0UEFUOXdQMU1MVE5YQmU1aDA1QlloVA?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Barrackpore councillor arrested as 81-year-old dies after ‘assault’ - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEYxSFhtUHRGSlVxTDBoX1BpR19yc0lUN3phQjRFMWZSYVVxNm5lTU02ZDZkTTZLWFd1Y2doVWd3OGJsNU5kUUROWC1oSGZrdVUyOWdUNU9VSDJ5YjRPamY4eWZkcHYwWklpQjlwZ1NNYkNVaHhSY2NqRzFVbXl6b2Vyc2lLMkQxWUhMRlF5Qnc2OFdzV2x1OGVXbzZtWjgyUUI3UEs4dnFGdU43UEdhbFdyTE5EY2FHbXR0dXFOUkV0cjhhMXVsZkx5RFhrZTFaclpEN0RuVdIB3AFBVV95cUxNdjJNNzV0ekpQMGNwcWZXYzUzZk05enFUNEw1ZGhnbDdaZzA2TXZ4RkFGdy1SSjRhXzdZMzhoNEI3bzlSdGFCUWUzZi1oUi0xXzBFTzhibEVaMkR6UU5ibE1DSG5iYkRreXJBSE1jVURIT2x0WGZsMmh2WHUyVExSNDA3WFNfUkZHYnBEd0NtbU83VW9lalh6RE1yUUZiR3pNRnFneDRrQW1sUjZvMUhWeDZ2eGRoREdITFhQWHVQMy1jdDROZUhsUUV1UHpEWEFDS0d0dDM4OTFSZmxZ?oc=5",
+      "sentiment": "negative"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:17.994240Z",
+  "collected_at": "2026-09-02T14:55:40.524579Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +228,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.826360Z",
+        "fetched_at": "2026-09-02T18:38:12.460389Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +244,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.826369Z",
+        "fetched_at": "2026-09-02T18:38:12.460401Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +260,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.826374Z",
+        "fetched_at": "2026-09-02T18:38:12.460407Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +276,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.826379Z",
+        "fetched_at": "2026-09-02T18:38:12.460412Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +292,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.826384Z",
+        "fetched_at": "2026-09-02T18:38:12.460419Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +308,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.826388Z",
+        "fetched_at": "2026-09-02T18:38:12.460425Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +324,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.826393Z",
+        "fetched_at": "2026-09-02T18:38:12.460430Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,44 +362,44 @@
     "neutral": 8,
     "top_headlines": [
       {
-        "headline": "\"Agent of the BJP,\" Trinamool MP Partha Bhowmick accuses Election Commission of partisan attitude in West Bengal - India's News.Net",
-        "source": "India's News.Net",
+        "headline": "TMC defector MP Partha Bhowmik faces 'traitor' posters hours after PM Modi meet - indiatoday.in",
+        "source": "indiatoday.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeThkTWhCQ25mWThTMUZwMUFhUzRxWDVKMnYzMnVEbFFjamJmX25xdjAtN05kVkpPN1B0R1c2bWswcEx1d0dXeldJaEIzeUxOdWN4SjhxanVrM1ExVXo1SHZnak43MnFJRnNxOWxCUHh3Y2JhOVR0T0xJTTFYSTd2NzU4RjB6NER1M2ZTczVCa183VUFSY01xODM5MlE1cEtkUHNsc2VYWVQzWTRMdm1PLW9jZmZfZHNOZTdCdzlSSXN6QjZsdFRWMXNNbXpiRjk5QWpaWDhpeFZNQmVZb3hMNUNYSzA3dw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcU8ydENvSVI3R3pCVU81cEFZdnhkN2Iwb0gwb1VUZF9NTTBUTk5YdVlQQ1liUUhQeG9VSVBwOTZMVVh6SmpMRDB4LWZjWDBuQ19HZGFVbWdncnB2NGIySDNQdFVhTzVUXzRiZU92Z0RxU0dDSjUwOGUxbDdJRWt0YzVlLVFkZjZIZTBMdXo1R25MS1ZHYUtGTEVpV2hVcDViRnU3SEdWbEpwM1l0MkpPN3V3SzlmN2FPYU1zeGs3ckQ0UkNfcnlXc3Myam1pRUdWT0tR0gHYAUFVX3lxTE9lZDhQekdXRFJReVF4TFJiUV94ZDhxR1pvU1B4d0dCdDlMdk5kRmUtZDZVakhCZjZPd2FweEZaX192UjdBYWxyMzRpZlBlVmlyTHRsUzktYmhqTmgtalNqRmJKMW5SbThJaktTSWVLQjlHeHdFTlFoM0pYY3hOUFlQU0JWV25idmxLTUVEakw5dC1DWFI4QWo3N0VXVWU2emZWYXEwVmRZRWd4aEhsWFZVZUVCWnU1VVJfdGx6TW9UR01jUWhzQXA4VVhPOXNCLXZyMWJCT0VxUg?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Sebaashray now to be replicated in Barrackpore - The Statesman",
-        "source": "The Statesman",
+        "headline": "\"Agent of the BJP,\" Trinamool MP Partha Bhowmick accuses Election Commission of partisan attitude in West Bengal - indiagazette.com",
+        "source": "indiagazette.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXJiRGVJTDk5NGRZTXVHd2xoS1FIYllmbUtnVkN0eng2VXlUQ0FUdkdEb05xS2h5U21zUElxQmJQR1pXTG5BWllKWmlRY3ozLVppTlJwSFpRMEswT0dEaE1uVHlpQmItVkh3NlZTNktMR2lyTktVNVN5c3pVam00Umc2QXkzTk1IbXNxZmxQLXZqODVhSlpjMUU0NWxBTmvSAaQBQVVfeXFMUFdGTHdYWm1tNzJ3MlJqV1U4M2xqLVQwdF9sWWZOTGhiS09KN2ItbkgzQmhGUzRiRE94bm1yMHNrVVFXQ2tiZFF2Z0pxWUpPNHM5dWphY2ZFbFdSM285SlBaWURldXJZLXhNUVJ5cktQa0NZZmI3WEZjOUROMjdRVlRJOHRpNFBCYTk0ekJTdWR6OXVYNm9iNzdlc2g5NUY0TFc1dFE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObDJBd3gtSEtEN1lmLUJZemNvU0FxT0toRGlvZ1d2cndOMnRRY29hZjRBSGdHRHY0YlpYLWhLamh3NzUzR1JEeUVpYklzbmVhbk1pOWtqUnJ3R1VQdEQwQ0l5WlFPdDB0aVhDT056UlFuRnBwbVNsZXluTUx1Ri13WFpEc2tkRHNGMkpjNGEwdHpKWDBEV1ZqUkZDQk5vS1lxQkRNcllRUGZsTnlpVkxMTC0yZ3hTWENhZ3p0MjZJRnZfY24yRno0UUpMMU1sQ3hQVEJhbHUyS0dtaFlmUEhqOGVEWWF1X0JR?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Barrackpore councillor arrested as 81-year-old dies after ‘assault’ - The Times of India",
-        "source": "The Times of India",
+        "headline": "Family first: BJP banks on Arjun Singh to retain hold in Barrackpore, fields him and his son - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbjRwQlV0MmpzaWhHVUZXa0xEWmRrMzd1bGgybjBkQnJ4dmRRRHZfQ0k4dF9rYmlzQjd5cnpPUlFidndfUEZsQTFWTjdiem5NS1Q0TU9IaFYxcFBWZ01Ia0F4bzBDOEJNbzR3eUQxeWNTX1FudkQtR0tQTFhaWmlDQ3BGQ21mek8ycDFyQ3l5cEVMY0xwc0Y2bERPT0VNY09JVHZCQjR3c2xOMUJsckVaWHlFcUs2TUZCdzdSOEIxOWJMSVhWRGhVR1lKaGRGejliNjJNdmNhd9IB3gFBVV95cUxOcGFreHhLa2ZHQXFkSzVpLW52UXMwekR2VDk4Qno5TExrZ2ljMjltUFZXcDlYc0M0ZkpGRDB5NWZOVUx2M1hpVktVWUxGVVAzUi1veHZGOEZiaWFpNUZOa1dUM1pIT2JHUEtjMUVpTmhlcFA1cmk0UEtMYVh1NFVydHlGTk1yVVRpd2dzU293REFWem9mNzNLMV9qRFhNQ2oyMEFLZHE4SjVJSFBaUXpxTmFOejBEelZ0Q1Ywc1NiTG9KTi1aSHRRZ0xHb1lVZ1ZsWDlMU1lLUVpya183b1E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Trinamool councillor arrested for allegedly ‘beating elderly man to death’ over illegal construction - The Hindu",
+        "source": "The Hindu",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaVZSSVlYMExLMGFuVDhWV055MVFkMkdsMDRvM2dMX19BVnF6RlppTUZYamp1RGZVT1N6T1V5WXlaME5PYmF2ZTB2eHRiTGtMTUhCMjEzazc1THFkOHVVUHM2elhLbmRxcGU0eEpiWklKNUVsbnh2YWQtZGJTbi1QS0VYUEMtOUZ3bmxJU0FpeTdxM3JBUVFCUnJaRUZaQmpmMllveFhDaFZfdWRzYTg5WnVDLWdrMEh1QXZqdXg1M2RqZUxjUFhSdDBHekVWTnhwM3R3LTkxeWV0c3E3YURxNUNSUmlfc054R3BoVmZqRUFxYU5fb1NVb2E2OG53d9IBhAJBVV95cUxOTHBxYXFaQm5VR1I3eGlvQ1BaOU13NldwTjc5RlNSQTkySTFXVkVhTWpEQnVnRU5SMXotakxkVlloX1RPazVWZHJTVnVrSlN2V1dwU3hXc2YyWjJzM3dadGJBVkFsc2pwSHBKc21QNEJta2h5c01aZFJyU3p3Q1hqWUdkZGVZMF9LRkp5R3BJR3NZLUxtYVJyQWVUNFFvbFYwZ0NrUy1Qa2dWNHdLQ0NGV3BuRldveTJMbUJkZnIzNUlxUDFkbXh3cVo3NTZ1MGJTRkMwSkxQWmJvd3pob2FMWXdoNTNyZ2tqOUJaMTJ0UEFUOXdQMU1MVE5YQmU1aDA1QlloVA?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Barrackpore councillor arrested as 81-year-old dies after ‘assault’ - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "medium",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEYxSFhtUHRGSlVxTDBoX1BpR19yc0lUN3phQjRFMWZSYVVxNm5lTU02ZDZkTTZLWFd1Y2doVWd3OGJsNU5kUUROWC1oSGZrdVUyOWdUNU9VSDJ5YjRPamY4eWZkcHYwWklpQjlwZ1NNYkNVaHhSY2NqRzFVbXl6b2Vyc2lLMkQxWUhMRlF5Qnc2OFdzV2x1OGVXbzZtWjgyUUI3UEs4dnFGdU43UEdhbFdyTE5EY2FHbXR0dXFOUkV0cjhhMXVsZkx5RFhrZTFaclpEN0RuVdIB3AFBVV95cUxNdjJNNzV0ekpQMGNwcWZXYzUzZk05enFUNEw1ZGhnbDdaZzA2TXZ4RkFGdy1SSjRhXzdZMzhoNEI3bzlSdGFCUWUzZi1oUi0xXzBFTzhibEVaMkR6UU5ibE1DSG5iYkRreXJBSE1jVURIT2x0WGZsMmh2WHUyVExSNDA3WFNfUkZHYnBEd0NtbU83VW9lalh6RE1yUUZiR3pNRnFneDRrQW1sUjZvMUhWeDZ2eGRoREdITFhQWHVQMy1jdDROZUhsUUV1UHpEWEFDS0d0dDM4OTFSZmxZ?oc=5",
         "sentiment": "negative"
-      },
-      {
-        "headline": "81-Year-Old Man Protesting Illegal Construction Dies After Alleged Assault By TMC Councillor - News18",
-        "source": "News18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN2hkSjM5dWE3d20ydnBxbjZOQ0pxWXI3eFB4SnBvT3pGRjBpVWZDcjdUM3pWUFZTd1dXZGlydXlFcHI4WjFQVzNBdzVBOUhiLXg2R2w2dy1wSFY2UllOaFdTRVEwVXN2RnZhcWdvRGVaNFBPbktOdjRjLXVnY1RCY3lhMk55dTJKTWhSMnNyaUNtVGNwT19ibE5JVXVNTnN4UGhxbTYxcFRZa2NDb3cxUlg4WFg3NjExOUhTSlVHZVo0MkJDZEw2cWVPLTllMnVPSWJNbHMxWdIB3AFBVV95cUxNZ25NZVhnbmstdnpfSzRFcW9kZ3lxQlNNYm9PLTJVQ3pEUU5HbmNIakF1Y3ZoYkllendfS3FzQlgwcXFLSDc4NGdEWnEwYlY5UWQtcHdEYVVfeVhDbEFiT3h4c3EzVXpxY0lrT0pkemRGa3NiY1R4LTBEY25JdlJPMzFtRE1OVXhYWFFKd2dkTUVNT1BoT1lUV0N6czg3Yl9NUXZXNkI0UnJ2UUxWTjFDYk9raXMwblk2bG11U0FUSTdqWFppREJmNVZyWVFfM0FHQTJCQm1JS3h6SnNH?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Barrackpore MP Arjun Singh returns to BJP - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDZQaTZMaHhLY3R0WWQtM0hfX29URGNtR0pUTnY3X2RHOUt0VEdGTHJIcWRMYVNreDVXYy1XNm5yYml2c1ZjOElnQTdRZlFuZUJIR2Fqc1ZWd3p3VWUxeG9zTHJIa0hJdDJzeHJZVWpxb0lMNDJsOUhaek5xN0xuMnpvQUZQbHEyRUlxVmVkN2Q0MjJiWWxDcVZoaDUyd9IBpAFBVV95cUxOaExTcDZIUWYzNlF6cXR1OXJKWF9wT3RPa3FKaDhzMjFHMkVUUjF0VUpNNlVqdXhSU1QtV0w5MW54ekJ5SHdvLUNRRGVTSmhhZzNBY3Rhbms0OWNGUk1zSU5pb3BQZVVQMjhpWnAzQ3dyRVdkUEhQM0c0N1YyZXcwV0xvWFBBMWVibmhvNUlabUhWY2tZbXo0aUlRaDV5MV9qYW9BbA?oc=5",
-        "sentiment": "neutral"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -334,15 +432,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
+    "total_questions": 1,
     "starred_questions": 0,
-    "unstarred_questions": 0,
+    "unstarred_questions": 1,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 1.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +448,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 10.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Low attendance",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

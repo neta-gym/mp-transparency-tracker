@@ -4,16 +4,16 @@
     "constituency": "Dibrugarh",
     "state": "assam",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 259,
+    "myneta_candidate_id": null,
     "slug": "sarbananda-sonowal",
     "house": "lok_sabha",
     "sansad_member_id": 4163,
     "profile_url": null,
     "canonical_name": "Sarbananda Sonowal",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 62,
+    "age": null,
     "photo_url": "/mp-photos/4163.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:11.853252Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 47585258.0,
-    "liabilities": 2578370.0,
-    "net_worth": 45006888.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=259",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.657185Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 37.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 3.25,
-    "expended": 1.49,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:19:28.904891Z",
-        "notes": "Official eSAKSHI REST API — Works: 88 recommended, 36 sanctioned, 3 completed"
+        "fetched_at": "2026-09-02T14:56:16.809105Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:52:26.102581Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:52:26.100486Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 88,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 10.136054421768707
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:16.885850Z",
+        "fetched_at": "2026-09-02T14:52:26.099554Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Sonowal calls for faster rollout of parking project to ease traffic congestion - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSncyRjB5dDJ5ZWZYOGlnSW9pT2l3bVRhU3BJSHlkQWo3MlViTWltcm9sYl9ndHhjRWZwOUFwVmEyMjltTHFLU3d2QXF3NXFBMnhnR25LcXliRUs4dWNIR25zOUdub2pPVUV0dG5kTEJsX2hObmowektRT0tpeHFZY1RENnpOOVV2VDd2MXV4SFZ3cWtGRzZtMWsydTBrUWY0VVBZakp2UERKM1RCRHh6SGRRbGl1czhkZ21TamNfYkJDVDk0NjItMU1qX1dJV2lnbktnSllLTHcyMUZxMkhjQ3RTWnBGZVlnUXfSAe8BQVVfeXFMTnhkVjAzT2lDRV9mcjZ1ZjdBamN4ZFZ0dWxINlJkUkRKbW1mMm01RGxGQlZGR1NqZUxvUUFEenBlMGhGbWtIcllrQ2hNVjgyUUVMQlVfYmhIcnlnZHNtQmRBczVLZ3VFX3hWSjNOLU9QWWJHdVZNWHpoZHVNcTlvLXo1ME5xbE56OGNFZDBWZVJBSF8ta0V0NnFrS1Q1QjRGRXNhajk3S2NyVUxUb2Vjdk5FWnJOR1AwaTFRaFNqQWhjZXFYb2t0TkVRY1N0VlVfU1JlRkRrZm9SYXhkb1lKM08wRHh3U284Xzdtay12MW8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sarbananda Sonowal Assures Complete Central Support for Assam Flood Victims, Reviews Relief Operations in S... - NE India Broadcast",
+      "source": "NE India Broadcast",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPLVJadW5aWV9JRlV4OHRzNG4ydHUydzFmY05qS1hHb0oyVVZmVW5EOHYwMThUQjY4emJqLWJVd1pZTEdnNWpBMnRTaW41emFlbUJCTTZzTGk4cmJmSy1xdkNQTThnUGVHMXd2RURUXzVlWjFCelZscEVrY2ZjNmw5OHVETXEzSjkzU0VucmFoeG9VUEFzeDlIcGRiazc4OVJzYjg4bXp3RmR4M0t3eHc2YmJkVWw3WWlHZkJFZnNCLXoxd3pHcGZqUEVtYldWVWhRNTNCbzNrT183SzhWczhmc0xiNUI2TEhZa2dB0gHwAUFVX3lxTE1CalJMY3ZpeklYSTZncnFfeVdiS2JkLTZhWGRvSGdoeDZzYmpWdExQa0ZUdHRmcld1NkdIVFdTLVlCeHROWWdNMVdNbUR3dnBfRTlwSHJlTFBIUkU0MElndHRrSmxRY1dVQm1jUElIWGl2WFVQcHdhTUt5NEVjZVd3aW5tM2l6aUJKb0pYUWJmWmtMSlhEUDY4LVFzd2t6TGwxY0lmOGJtVXFHTzBBUzNfQXJsTmpYcUVYNFZQOFBSaWNMN0o1d3dTX3lBNG5haFhDNTBSeXFMb195WVpEN1o3a3B0b29MSEQ4Zm1oV0Jkcg?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Sonowal reviews progress of state’s largest multi-sport stadium in Dibrugarh - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd3Q0SlFzNDJuOUxETGU1RTExTGlzSlJSVkpRazlfM1pwenp5dkNDQzJiNVFBSmxna3BkbTJXblBWdldWRFpUSmQ0UWR6RHBTTFRJbms1bjU3TE5va1lpNk5IZEQ2NDJCQ3htbzlYNE9CVGdHcHR0SUpxYVNUNzFSdzJDRnlDMHVCVkNzTDByd1FTMnluMXctSHJDbmNWdWJsRW9xNVZHSmpZRjVSMGVyRGxSbVo4dmZSSEdHUmp2RGxyNWJzT1UxOExZWTR1aVZqTnowMHFOREo2cmJ5NXpHWFo3WWlOQdIB6wFBVV95cUxPS0oxLTRaUDJkdHgyMGJRRTlFTTFpR2NmUjF1azZjSWpjb3hNdHI0eWFCRS16ZUIzTHVfLVV1ZW8tcDhUajJuNXZsYlB0UXlTTGdSa0prQlBQR2N0dmQ1aGNZYXlNQUVNTlJ3VEFuWXo0Nkk1eGY5X0xEN1RxcWgwRlZZUHIzUVBXZC15c2U0Tkh6YVZNY1YtVDVrSVd5UnBsMlZDUXlhV2lxM2FBNGN2UGYyblhiTkwyaUVRLThTVHN3eHJaaTVXTWQ2LWdOczQyWDNYSnZTU284QkxvcFkzV1I3Q2JUOXBaY3JF?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Digboi Refinery Capacity to Expand to 1 Million Tonnes under PM Narendra Modi ji's Vision of an Atmanirbhar Assam: Shri Sarbananda Sonowal - pib.gov.in",
+      "source": "pib.gov.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EMy14T2VLU1pValNsT3lwc2hfV0RpQUtuaVJjdmVhNjFYN3ROMUE5TkVybEwxdk5WSUFUR2ZpX3dTMkhEeWdlS0M0WDVITFN5bzVKeW01NTA5WUtuU05hYnlMV3J2dEQtVjhDc1dtQmk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Election results 2024: Union minister Sarbananda Sonowal wins Dibrugarh seat by 2,79,321 vote margin | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVhSX3pnU0hqQ2tLY0h3dWR5RnA0OHM4eUx6RDJ2MGh6dTNuelRQa0VhLTRPbElldEk3X3lFdVpfN1JZbkF1NHV0akVCWHRHSUtIajZFeEZPZGV1UjVod3Fkbk9iUzBCNlJBbzFSY1ZId3dNWUtndVdYTDdScU1DZjdFOUdiV1gtbjV2TmxvYVJrbjZ4NWpCQWZ0NkIwR0hSTFFjOUV1S3BDTDB6YTEyNXFFUjR5QdIBuwFBVV95cUxQWkpNMVBvS05yOTdUVVhROXZWSzB6NDBiQ3VNQjdFci1MTzRmSjh2b2RkZTlSbEZGWTRSengteHRDYWtBVUVVRmYtYmUyaXphbXZNQ1BWeE9nR0E5b3FacU9BaXhoRzFfSWN1R0FRRjZIc2lGci16VjNraklnMkMtNXl1WmFpdlYtdl9jc2JOZUdVUmFybVlnb0RVLUhmWTlmSkdqQjhIVFZRZjh2aWJVdE5WMHkwWnpwUnNz?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:12.927915Z",
+  "collected_at": "2026-09-02T14:56:16.809898Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.942013Z",
+        "fetched_at": "2026-09-02T18:38:04.403816Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.942023Z",
+        "fetched_at": "2026-09-02T18:38:04.403828Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.942028Z",
+        "fetched_at": "2026-09-02T18:38:04.403834Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.942032Z",
+        "fetched_at": "2026-09-02T18:38:04.403840Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.942038Z",
+        "fetched_at": "2026-09-02T18:38:04.403847Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.942042Z",
+        "fetched_at": "2026-09-02T18:38:04.403856Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.942047Z",
+        "fetched_at": "2026-09-02T18:38:04.403863Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,56 +304,81 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/sarbanandsonwal/status/1402868329748910083",
+        "url": "https://x.com/https://x.com/sarbanandsonwal/status/1402868329748910083",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/SarbanandaSonowal/",
+        "url": "https://facebook.com/https://www.facebook.com/SarbanandaSonowal/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:52:28.895799Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 1,
+    "positive": 2,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 8,
     "top_headlines": [
       {
-        "headline": "Sarbananda Sonowal calls for stronger state BJP grassroots coordination post-election - The Sentinel - of this Land, for its People",
-        "source": "The Sentinel - of this Land, for its People",
+        "headline": "Sonowal calls for faster rollout of parking project to ease traffic congestion - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVmVETW1UVWM4aEMxSjJCb2FGZGdTX0taR0o2NDNISGdYOElLUlgzcUN1T2tkUUFqdlY5ZDJuM0ttRlRiUEJEaTZFdmJ5T0J1MUVOLXZoZXZhOGtneXJRcE42R0J5ZXB3QWxXVzBEdHU0OC11RGlLaW1qWVgxeVZiV2dWSVlmZTROcWQyUDRkVzBNV1BudWh0YjJsUWNGUUo2TE56SUtXNGtDTTNWRC15QTdJanZ0WUhINVhUUXJGNjVYSWN4bzRLRlRYZTkzOVRlS2s2UXRiT1J0WUgzVmZmZGpn0gHvAUFVX3lxTE04RjMwV0J5SUFYcVNGNDNIczVHcnRCc2JEVmlYbVdiZk9uM3dURkR2ZVJ4emNOY1FmQkRpdDN0b3FvQ1pIMVFoZFZZV1ZhM1ZMTEY2V0JlYi04VG1TWGI5Um1DNF81RHFFZjZkdWRYbjRldVR4d2xBZ0FsMXRva1RFTDdoWGJhUU9jaTdMdkVqbUpVV2Rma1ZITEtSTDZSRFJudHY5dkNIUzNzNUhpUEhHZ3hGVmsydmJ0Y2Y0cHBZZGNzLTVCY0wwbk9Yb3dfYjk1aU13bU5QYUxXbUJUajMwN3A2b184dmRXX25uV3Fj?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSncyRjB5dDJ5ZWZYOGlnSW9pT2l3bVRhU3BJSHlkQWo3MlViTWltcm9sYl9ndHhjRWZwOUFwVmEyMjltTHFLU3d2QXF3NXFBMnhnR25LcXliRUs4dWNIR25zOUdub2pPVUV0dG5kTEJsX2hObmowektRT0tpeHFZY1RENnpOOVV2VDd2MXV4SFZ3cWtGRzZtMWsydTBrUWY0VVBZakp2UERKM1RCRHh6SGRRbGl1czhkZ21TamNfYkJDVDk0NjItMU1qX1dJV2lnbktnSllLTHcyMUZxMkhjQ3RTWnBGZVlnUXfSAe8BQVVfeXFMTnhkVjAzT2lDRV9mcjZ1ZjdBamN4ZFZ0dWxINlJkUkRKbW1mMm01RGxGQlZGR1NqZUxvUUFEenBlMGhGbWtIcllrQ2hNVjgyUUVMQlVfYmhIcnlnZHNtQmRBczVLZ3VFX3hWSjNOLU9QWWJHdVZNWHpoZHVNcTlvLXo1ME5xbE56OGNFZDBWZVJBSF8ta0V0NnFrS1Q1QjRGRXNhajk3S2NyVUxUb2Vjdk5FWnJOR1AwaTFRaFNqQWhjZXFYb2t0TkVRY1N0VlVfU1JlRkRrZm9SYXhkb1lKM08wRHh3U284Xzdtay12MW8?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "'PM Modi turned sports into mass movement', says Sarbananda Sonowal at Dibrugarh Khel Mahotsav - ANI News",
-        "source": "ANI News",
+        "headline": "Sarbananda Sonowal Assures Complete Central Support for Assam Flood Victims, Reviews Relief Operations in S... - NE India Broadcast",
+        "source": "NE India Broadcast",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdlNJZ3J2ZktYSlNzLXNPZmk3NVVDWUctZC05aUVXREFORVp2OFZYNzhiYjczM05UODZUdUxmWDc4bVZ3M0JwTzItNFZNMkF6VUN0M3h4NWxlcUM0YmJmejZNV1M0UlItS0p6OFV5UXJKeGFqcXFrVkRiQzlRbWdjQ0U3NHJ1UF9DR1ZhZ1ZrNjV0TFAwdERGU1NwZGE2UUdlc1ZxYzlmcU9yN2R0N2pHSG5vR3IzUkFqYk5jNVlUcFV5eUNIaGY0N0NkNHQtTjRPMXFHZmkzcVFrd1UzVXdPVEIwZWNlaVBTTUdn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPLVJadW5aWV9JRlV4OHRzNG4ydHUydzFmY05qS1hHb0oyVVZmVW5EOHYwMThUQjY4emJqLWJVd1pZTEdnNWpBMnRTaW41emFlbUJCTTZzTGk4cmJmSy1xdkNQTThnUGVHMXd2RURUXzVlWjFCelZscEVrY2ZjNmw5OHVETXEzSjkzU0VucmFoeG9VUEFzeDlIcGRiazc4OVJzYjg4bXp3RmR4M0t3eHc2YmJkVWw3WWlHZkJFZnNCLXoxd3pHcGZqUEVtYldWVWhRNTNCbzNrT183SzhWczhmc0xiNUI2TEhZa2dB0gHwAUFVX3lxTE1CalJMY3ZpeklYSTZncnFfeVdiS2JkLTZhWGRvSGdoeDZzYmpWdExQa0ZUdHRmcld1NkdIVFdTLVlCeHROWWdNMVdNbUR3dnBfRTlwSHJlTFBIUkU0MElndHRrSmxRY1dVQm1jUElIWGl2WFVQcHdhTUt5NEVjZVd3aW5tM2l6aUJKb0pYUWJmWmtMSlhEUDY4LVFzd2t6TGwxY0lmOGJtVXFHTzBBUzNfQXJsTmpYcUVYNFZQOFBSaWNMN0o1d3dTX3lBNG5haFhDNTBSeXFMb195WVpEN1o3a3B0b29MSEQ4Zm1oV0Jkcg?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Sonowal reviews progress of state’s largest multi-sport stadium in Dibrugarh - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd3Q0SlFzNDJuOUxETGU1RTExTGlzSlJSVkpRazlfM1pwenp5dkNDQzJiNVFBSmxna3BkbTJXblBWdldWRFpUSmQ0UWR6RHBTTFRJbms1bjU3TE5va1lpNk5IZEQ2NDJCQ3htbzlYNE9CVGdHcHR0SUpxYVNUNzFSdzJDRnlDMHVCVkNzTDByd1FTMnluMXctSHJDbmNWdWJsRW9xNVZHSmpZRjVSMGVyRGxSbVo4dmZSSEdHUmp2RGxyNWJzT1UxOExZWTR1aVZqTnowMHFOREo2cmJ5NXpHWFo3WWlOQdIB6wFBVV95cUxPS0oxLTRaUDJkdHgyMGJRRTlFTTFpR2NmUjF1azZjSWpjb3hNdHI0eWFCRS16ZUIzTHVfLVV1ZW8tcDhUajJuNXZsYlB0UXlTTGdSa0prQlBQR2N0dmQ1aGNZYXlNQUVNTlJ3VEFuWXo0Nkk1eGY5X0xEN1RxcWgwRlZZUHIzUVBXZC15c2U0Tkh6YVZNY1YtVDVrSVd5UnBsMlZDUXlhV2lxM2FBNGN2UGYyblhiTkwyaUVRLThTVHN3eHJaaTVXTWQ2LWdOczQyWDNYSnZTU284QkxvcFkzV1I3Q2JUOXBaY3JF?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Digboi Refinery Capacity to Expand to 1 Million Tonnes under PM Narendra Modi ji's Vision of an Atmanirbhar Assam: Shri Sarbananda Sonowal - pib.gov.in",
+        "source": "pib.gov.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EMy14T2VLU1pValNsT3lwc2hfV0RpQUtuaVJjdmVhNjFYN3ROMUE5TkVybEwxdk5WSUFUR2ZpX3dTMkhEeWdlS0M0WDVITFN5bzVKeW01NTA5WUtuU05hYnlMV3J2dEQtVjhDc1dtQmk?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Union Minister Sarbananda Sonowal reviews organisational strength, strategy with BJP Mandal presidents in Tinsukia - lokmattimes.com",
-        "source": "lokmattimes.com",
+        "headline": "Election results 2024: Union minister Sarbananda Sonowal wins Dibrugarh seat by 2,79,321 vote margin | India News - Hindustan Times",
+        "source": "Hindustan Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeEZFRlZLN2UzSmhORHB5MUl2SVFfcmJvOWNaTzlac3NHc0xMeVlmNzFMakpFRm00alpDem91UFNyeGZxLU1zUkJ0NFpHOU1qYUtMcEVoaEVIeFhOdHFTTXBocjUzWDFrRzhhSy1KQjV5ZXc5cDA3V0o0WDN2NF9VRjF5UTIwYmJDMV9PeDdKaThnS0NmeGF2RHRLWThITDJVY3YzTmhMOWJVNnpFb2hRLS14UVRORHBFNGJqTjZKSmpJZEhDRGFBVEEyVm5xdVh3ZlFXTExDY2liVXdmZHZFZnF6RXZiQQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Assam: BJP holds executive meeting in Dibrugarh, focus on Assembly Poll preparations - Northeast Now (English)",
-        "source": "Northeast Now (English)",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0drbkhUdlZNeUVqdTdTSHFUV0QtWFVlQlhaXzhudm51YmhYYWQyUGFNX1RsRVpLRlk4TjVrU0w4OGFlc3Rlb04tVVdOa0tDU2FHR2tJcVRkSm4zUFFsN0JhbVFSb0syU3YyU2VqQXFHQUV5amx2SlRXSjY3Wl9OY0doaUJ0TzRlWlZtSkZIaVJwM3lKbDdUYUp3bTVZSUVWUnd4ZHktX0JRamE5N2cxUlVLSkVuYXd6UkpuTkRPT0dwanBX0gHEAUFVX3lxTE1mVTl6cnVYQndNaHlzSVVIV1JWWjdxSkJWZHY4Y3Y2TFZJUXk2RDZnT2duT2RKaTJjd1UxVU5yMlhnRzBOS0g5aUJUYnU0WUhzSE1Fd3pObVVKYlBTcUs4M1N1RWRWMlRPTU8tWXo0QVVlaEZodG4xVHVMWXF4TVpOVE1wN2xfUEVXOTVpVUJMSFdxQzZjdnpNWk1kZm9ROGRLNWozYUJGS0YzVnNFZUtTaW85MHExc1FSMG1DVWRDZW80ZWc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Workers are the backbone of nation-building: Sarbananda Sonowal in Dibrugarh - India Today NE",
-        "source": "India Today NE",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lzUXpTWDRvcmlhbFNtb2FVRkFJbFRUWDh2LWdweXgzN05PcXRWaE9QeXJ6RWY4UnJuRlYtNlduZG9FaDhObm1oa2lpT2toY1RaMlA4X2dvQUZHZUlUazVrc3BLTTJxbjFwYmdESVBEX3E3aGhGWWFpRGQ0cEk3T3l1SEhQWGVwT05yZWl3VDJlMnFreElud0NGM0F6N002dnFZWGdsZm5FcTI4bXE5d21rcTUxMW1GNVVDbU40WUJTeENwTkhLejgxNG9hUUXSAdQBQVVfeXFMUEhINzh2bkZ4ZklYdTNLZlItNzNJVi1rdmxDUWhIUmtQaW53M3RnZlJqYWFBa1dOWGNzVWtSYXNoREtDeV9YQ2JwQlRfM09pWjgwZEZUM2x1YTBKeHBfbjR4RDJlZERwMkJOdkhaRjVnWWZwNHlTRXdHVU51dVhIMXI3bkdIZ3Q3U0k4eVB1MEU3dGh2VkhzaGV0cjZLcWtrM1VIbndtdVA5eW5NT190c2ZnUjR2aHBmWVhNd3E3OHRtMHVjWW1VYXlPWlBXajdfU0lVNUo?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVhSX3pnU0hqQ2tLY0h3dWR5RnA0OHM4eUx6RDJ2MGh6dTNuelRQa0VhLTRPbElldEk3X3lFdVpfN1JZbkF1NHV0akVCWHRHSUtIajZFeEZPZGV1UjVod3Fkbk9iUzBCNlJBbzFSY1ZId3dNWUtndVdYTDdScU1DZjdFOUdiV1gtbjV2TmxvYVJrbjZ4NWpCQWZ0NkIwR0hSTFFjOUV1S3BDTDB6YTEyNXFFUjR5QdIBuwFBVV95cUxQWkpNMVBvS05yOTdUVVhROXZWSzB6NDBiQ3VNQjdFci1MTzRmSjh2b2RkZTlSbEZGWTRSengteHRDYWtBVUVVRmYtYmUyaXphbXZNQ1BWeE9nR0E5b3FacU9BaXhoRzFfSWN1R0FRRjZIc2lGci16VjNraklnMkMtNXl1WmFpdlYtdl9jc2JOZUdVUmFybVlnb0RVLUhmWTlmSkdqQjhIVFZRZjh2aWJVdE5WMHkwWnpwUnNz?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,7 +428,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

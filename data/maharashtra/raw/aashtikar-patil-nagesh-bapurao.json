@@ -3,7 +3,7 @@
     "name": "Aashtikar Patil Nagesh Bapurao",
     "constituency": "Hingoli",
     "state": "maharashtra",
-    "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+    "party": "Shiv Sena",
     "myneta_candidate_id": 2408,
     "slug": "aashtikar-patil-nagesh-bapurao",
     "house": "lok_sabha",
@@ -24,60 +24,82 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:08.832483Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 16590049.0,
+    "immovable_assets": 63995775.0,
     "total_assets": 80585824.0,
     "liabilities": 8867236.0,
     "net_worth": 71718588.0,
-    "previous_total_assets": null,
+    "previous_total_assets": 5458967850000000.0,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2408",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.374321Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:33:57.280699Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 52.2,
-    "growth_ratio": null
+    "wealth_percentile": 51.1,
+    "growth_ratio": -0.999999985237901
   },
   "mplads": {
-    "entitled": 19.03,
-    "released": 19.03,
-    "sanctioned": 5.4,
-    "expended": 5.07,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:29:49.798847Z",
-        "notes": "Official eSAKSHI REST API — Works: 94 recommended, 42 sanctioned, 28 completed"
+        "fetched_at": "2026-09-02T14:39:17.665025Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:33:55.830972Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:33:58.017542Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 94,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 26.642143983184447
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 60.0,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:16.198929Z",
+        "fetched_at": "2026-09-02T14:33:56.949195Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Data reveals funds allotted to defected Shiv Sena MPs remained unutilised - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVF3aVdQMXN3Sk54OGJMdE9IQUJHM3pDdFRFYVpJaFl4cGNKM1RHRThkczNmTkpXaTBLYkZmUkwtTjhIZzktN2JiMDU3b1d5Tmk3Q0RnN0NuU2lMQmdYdDdURDVFUzRCNXFmZ1BDdHgxREdBdU50eERjT0JBaWE3cGVPczZ0Z3c2bmZVc18tbWw5S0g5clFMR3I4T3pkSjZYaURsM1hzcmlZRVgtaVg1ZUhFT3Z3Z3FQa2RIVTNza3FBWS0wUGZ3SERwMGMybmZFTUpV0gHgAUFVX3lxTFBCQUpGQUNROGt3c25KcmY0SWlTVTJLWnJxZ2JjUGVxeVhZYmIzeXMwOEtuZFpoOFY5N0UweWlacDdYSERGZnJqX19hR3BUS2piZzhEMXZSUEVKNmlQZXlRSU5PQjdPemlWdWJKSjQwQ3A4VW1OazRlYWlTd0VZQ1RRcGhzb1M4VnczRUZ3RkJPeUg2UG1hbDhGVWY3VVZZTkxQaDZ2YVc2VzVNOWdpTEtidjdJUU1seTFZdkJIZGpfSTZzYVdSVHBBX1RCNzVTcWVsdVphd3JFVTAxdkNEcWVR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Will Marathwada's 3 Uddhav Sena MPs switch sides? - Rediff",
+      "source": "Rediff",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQUR0VEpqZHY1WnBuT0pEZklhdDliUlBhVnFVRXpxc0J2Z3JTQ25ZODN6TGUzYmRKUXdYbU5ORzVKWUVTUzMzWmVYU2hidmR2aWtTU2ZDNnVBLTFrVGpjQTRic2Z6bDk2aHJoQTd1aGVneVNpQm1ocTVhRHk2OWNDckRzZkFFMVJ5LWNUR2dMNVlvbDlVSEgxTWxiNNIBngFBVV95cUxOOWxTQ09xRmRzTkpoeDZmVTZLWEU3SVgzamJhM3RMNGxHX0FfdjlLUVFMVTVTTzdzQnNnOWRfdXNpRmZ5aTRJV0plc3R6Skp5VkwzUmx1QXlLSFBJUFduOGRwQ3RucklpS3lBdUMza1Y2SU1mZ2lEN0ExaG5PNVlsVUxJemt3UVlXN0N5V25RUWNHWUFQTmNYSFNlYnVZZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hingoli election results 2024 live updates: Aashtikar Patil Nagesh Bapurao of Shiv Sena (UBT) wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNTdLX2VVcUgzOHRjVTU0ZzRuNG84QUdVcmJsOHUtYUJqbm01bmliYnhNOGd5M2ZzUmtLOGhjS3A0dGZXdE5jT01xRkhsOFpHNlA0ajNfd1Y0eFh5QXh3OVFPY1RPMzhFLUpYS3ZBXzBWUlRiM196Z2JZZ09Wb3RqbUlGUnczaEt5OXFiWmpIR1lrVmV1X1hYREdUT1FQLXJ3aFV5NFBFaER6cHg1WVlPQ3Joek01b2VuU09lMXBsTmVIVEI1Z3pDM1VvUnJENkM3SGRhc09iOGplTkpmWjFlWElMeEN4Z9IB6wFBVV95cUxPTUtkNGlIdlhZVldaY2ZmOUVhZlNzdk5WbHdFdmpEYzRrUVNBWHl0Q3BrbUF0dll3Z0dyUlQ0NTFVOFBxY2dEcy10cFZXSEhRZTVXQVRQd011U3lvVFFqU1NLQ0VNcWpOVC1PM0lSdTRkWmhqMHFLSmlKbG8tOEJkZ1VKM015OHkyd2p5TVJBMnN0djVsOXh5cmluU29UaXJiUC13NWY2SGdkZE5ldFBnVTRkX0F0T0hMSXYzQ3V4aUc1MkVzaVg5cV9RRWJxazlMcG9lcmR5MjF2Mnl4UEZ1UnY0Uko3aGNkV0VZ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Aashtikar Patil Nagesh Bapurao - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaVljT25Mb0hTRVFyVHlLLUhoZTlKOUY1R3U3cUk0aFlUNXp4TEYxbk5MV2w1S19HVTFzdVBvdk5FQ2k5Y0xacDNsZ2RyZVpMZjkzMFhkSTFJTEFIeFRmRWJ0Sl9aSEFwU1pac0xYSnAyLU9IbkJsbHFiS0xKbnhTb1ZJUzRCUFdjS0c3Y3dzN2tKdUdkcjB2VFZOOA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘No point in staying in Uddhav Sena’: Shinde faction gets crucial sixth MP - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWm9RSEhGbEUtNDhJaFNBb0EtVFdsV3kzQTVkZHFBSm5GNjhKeUFHVTVqdDMwT2MwaWpwQmpVQy1IdUZuN3VUcVFFNFgtQkRLVHBrSjdlMmxERzgyaGtNdGRUTTZiQjNUVE5fU3dYT0F3dGlndThuYmtlcnIxX1hSaGVrUUdIX3UwRnhLeHp1eF9NS0tlRHdTanp0UjlfQnVVTG03X042ekhSNXFVM0MwVEpxY1NUTzZDMDZCa2JmSWc4THgxX0VjVl9B0gHQAUFVX3lxTE01RnhWY3ZHa3BDZVh3eUQxbVczM0RtckZudnhaMmpiSExjZ0tNMml4UVFsMXZNSXpNV082dFQ5c2VBeVo4RGpfbUt2Y1BkVFhrX091ZU5XSTk1VXl6bno0N19sNDk4Rm16NmY5eURxbXNYV2w4dkhTNnV1WGtwUHByek1YSXI3MmFHckVoRFdxUm5JUWlUYUxYOUhleG55UXdfd3hHRXpsX3BFYk9oT3dQV2tla2lydGZLNERscU1rcW9QVGhpWEI3cURCd0dvcUk?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:20:39.415478Z",
+  "collected_at": "2026-09-02T14:39:17.666149Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.162894Z",
+        "fetched_at": "2026-09-02T18:38:07.663105Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.162905Z",
+        "fetched_at": "2026-09-02T18:38:07.663148Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.162911Z",
+        "fetched_at": "2026-09-02T18:38:07.663156Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.162916Z",
+        "fetched_at": "2026-09-02T18:38:07.663166Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.162922Z",
+        "fetched_at": "2026-09-02T18:38:07.663173Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.162926Z",
+        "fetched_at": "2026-09-02T18:38:07.663180Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.162931Z",
+        "fetched_at": "2026-09-02T18:38:07.663184Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +315,52 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "share",
+        "url": "https://twitter.com/share",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "sharer",
+        "url": "https://www.facebook.com/sharer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "adrspeaks",
+        "url": "https://www.instagram.com/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "youtube",
+        "handle": "adrspeaks",
+        "url": "https://www.youtube.com/user/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 4,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:34:33.374753Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -263,6 +368,22 @@
     "negative": 0,
     "neutral": 10,
     "top_headlines": [
+      {
+        "headline": "Data reveals funds allotted to defected Shiv Sena MPs remained unutilised - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVF3aVdQMXN3Sk54OGJMdE9IQUJHM3pDdFRFYVpJaFl4cGNKM1RHRThkczNmTkpXaTBLYkZmUkwtTjhIZzktN2JiMDU3b1d5Tmk3Q0RnN0NuU2lMQmdYdDdURDVFUzRCNXFmZ1BDdHgxREdBdU50eERjT0JBaWE3cGVPczZ0Z3c2bmZVc18tbWw5S0g5clFMR3I4T3pkSjZYaURsM1hzcmlZRVgtaVg1ZUhFT3Z3Z3FQa2RIVTNza3FBWS0wUGZ3SERwMGMybmZFTUpV0gHgAUFVX3lxTFBCQUpGQUNROGt3c25KcmY0SWlTVTJLWnJxZ2JjUGVxeVhZYmIzeXMwOEtuZFpoOFY5N0UweWlacDdYSERGZnJqX19hR3BUS2piZzhEMXZSUEVKNmlQZXlRSU5PQjdPemlWdWJKSjQwQ3A4VW1OazRlYWlTd0VZQ1RRcGhzb1M4VnczRUZ3RkJPeUg2UG1hbDhGVWY3VVZZTkxQaDZ2YVc2VzVNOWdpTEtidjdJUU1seTFZdkJIZGpfSTZzYVdSVHBBX1RCNzVTcWVsdVphd3JFVTAxdkNEcWVR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Will Marathwada's 3 Uddhav Sena MPs switch sides? - Rediff",
+        "source": "Rediff",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQUR0VEpqZHY1WnBuT0pEZklhdDliUlBhVnFVRXpxc0J2Z3JTQ25ZODN6TGUzYmRKUXdYbU5ORzVKWUVTUzMzWmVYU2hidmR2aWtTU2ZDNnVBLTFrVGpjQTRic2Z6bDk2aHJoQTd1aGVneVNpQm1ocTVhRHk2OWNDckRzZkFFMVJ5LWNUR2dMNVlvbDlVSEgxTWxiNNIBngFBVV95cUxOOWxTQ09xRmRzTkpoeDZmVTZLWEU3SVgzamJhM3RMNGxHX0FfdjlLUVFMVTVTTzdzQnNnOWRfdXNpRmZ5aTRJV0plc3R6Skp5VkwzUmx1QXlLSFBJUFduOGRwQ3RucklpS3lBdUMza1Y2SU1mZ2lEN0ExaG5PNVlsVUxJemt3UVlXN0N5V25RUWNHWUFQTmNYSFNlYnVZZw?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "Hingoli election results 2024 live updates: Aashtikar Patil Nagesh Bapurao of Shiv Sena (UBT) wins - The Times of India",
         "source": "The Times of India",
@@ -272,7 +393,7 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "ShivSena (Uddhav Balasaheb Thackeray) - The Hindu",
+        "headline": "Aashtikar Patil Nagesh Bapurao - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
@@ -280,27 +401,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Hingoli Election Result 2024 LIVE Updates Highlights: Aashtikar Patil Nagesh Bapurao of SSUBT Wins - News18",
-        "source": "News18",
+        "headline": "‘No point in staying in Uddhav Sena’: Shinde faction gets crucial sixth MP - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUZZUjljcThRN1d6V2hSNWZuNnBDWHcwRU5ZNWJtd0ZXeHlNWHZkbjBfbW5pV2lJWkk2QVQ3QVJwSW14YlkyMmktbkFlbVdraDBSY1lsc1R6N05GdEpKRWlFQXFad1dQakpKeVI5aWdTb0FIVzNTSDBVQlYxNmsteHJIZGh3U21FUjd6S3FKTWo4LXZFanFwUVhsaTNXS2pXRWdOV29DS0VpaGNwWXZDbEJvMElnbDdQcm9fU19GZTI0RkVSZjFGQWJwX25GNnltbW93TTNPSzRhVlJMeHU4RlJR0gHnAUFVX3lxTE12ZGNORFVlajY3X1VWWEVnajAzRmkzYkNaNGhvLUpFOVVVVUxQZmxNS21OTmktd2dpUHB3SmxhenZCWWcxbDI4NnctLXhEekZoX1NFejd1bHlGUlloQXdfdkpZcW1wbGFqa2NFTGZXQkpaNEhIWXNBQkh5TFE3X1FVSlFFZkNvVUVhMWFZSHgyMnFjNDZXa1VtX1NqX1RkOHYzZFFpZ2UybEdLNVpXbjg2WndwUnFyLURJcHE3cW5kc0ZYWTNHX2kzNnhyX3lHWlVhcTB6QzQyZUhVZnVWSHFXUmRyNTZjWQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18",
-        "source": "CNBC TV18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVkU3NWhSQW1fSkVGTE5hczBJcGdNT3RNR2xBbUFleTJ4bjRHc3hrOWNSU001ejFNN09vbzdZQkJlSV81T0R2VHFQTmtYMjg4SDBrbDNlS3JDaG1SRU5wcVoyd2JzVTRFWjBaSS0yTmlPWmdjV0s0UExuVTJwNERMM0hjTkdnRVhHY2F5QVZKM3RONTlrbXlKcGMtcEFITUY1blRlV1VfNUVDZkhOWFJzTzVHcmE5R2pnMmQtZzkwZUtQYWRSSnFvNWtHSXdrUy1qdU5UR05wbVR2ZHlhcVUyZEdTbmNlMnJyTldqZHk3bnRVLXY0ZzJHYm1ob250dkVocGfSAYcCQVVfeXFMTmtxUHZGTDA2bDZ5SndtRjZzN2pET2Fwd09hR2tYeGhsSW1BOUc4RE9WZ24tR18xNUZ3Tnl2WHhnVkpJc05idEx3VnNSRXJ1X01jVWw1VGU4YzJmS0ljSWE4a1pOZFNWa3Q4WkVndnI4Y2JpQWh6SzY4RUx0YndJcFhGS0VqNWpLNlROcEczTVRiT1hZOHlyc0wyNGdxZ1RROGxHZjZWNm9uLWpoNmxybW1KNEZjdDFuS1lnZjZQUmdqYUEzYXdJZmNxMmdManRDV2NfUUhZRlYtWHlZQkU4TlMzVWlZUVhFQnB3SWRLQzh0MzVjVk9TUW14RTRnZlRXMnQtTy1idUU?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Maharashtra Lok Sabha Election Winners List 2024 - financialexpress.com",
-        "source": "financialexpress.com",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZHhRTlJyV3VIMlE1aEkyeGhzSU5sb1VneUNwM0ZkNEk5UjRTazEwZUJsMjhydkpBbG1uMjBsQWR6eUVtZ2JOT0FzR2NKbi16WlV4QmV3SXFUMUFpeEVVeXlzSXI4eGVBTEduYXFyRk8zWUNnRldhOVh6akRnRi1WTExSS2FSejdxNGV5TU5QSzN2WGQySkRxaXNvQ1BZNGNWdUxZY3ZpUDNBT2J2emhtTDBKT3ZhelBHcG5YSzdlN0V2N2g4VFNSQ0tCS182cVN2U3NFUmQwTzNYZDFjdTd2VXRuZTV2Z9IB7AFBVV95cUxPaV95aWNESXVXWEFrUVZUNTF1OFlaUEtXS2Q5OWN6bDVDTWxDaFMyWDFSR1BkdTA5cjQzekdzUmh1Ny04VHFRRE1JUjdwVUVZT3RvSlg0MUo1UzM2TnFHQXl5MVIzSkZRVmlXcmdHSVNIME5MbVY2NV9OYnZBM015eWNBdTJrU01WT0VOWHQ4S1NLRXcwdlFCVWRuTTNVN25KdHhFVmYydEFmRW15cHVKcXVFeUlMNEdHdWQ3VUFkN1pRem1hUmhZSFo4Y1BEUGxtbkpfYm95OER6dUd3UXBGWFczbGl5c2NXVTROWA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWm9RSEhGbEUtNDhJaFNBb0EtVFdsV3kzQTVkZHFBSm5GNjhKeUFHVTVqdDMwT2MwaWpwQmpVQy1IdUZuN3VUcVFFNFgtQkRLVHBrSjdlMmxERzgyaGtNdGRUTTZiQjNUVE5fU3dYT0F3dGlndThuYmtlcnIxX1hSaGVrUUdIX3UwRnhLeHp1eF9NS0tlRHdTanp0UjlfQnVVTG03X042ekhSNXFVM0MwVEpxY1NUTzZDMDZCa2JmSWc4THgxX0VjVl9B0gHQAUFVX3lxTE01RnhWY3ZHa3BDZVh3eUQxbVczM0RtckZudnhaMmpiSExjZ0tNMml4UVFsMXZNSXpNV082dFQ5c2VBeVo4RGpfbUt2Y1BkVFhrX091ZU5XSTk1VXl6bno0N19sNDk4Rm16NmY5eURxbXNYV2w4dkhTNnV1WGtwUHByek1YSXI3MmFHckVoRFdxUm5JUWlUYUxYOUhleG55UXdfd3hHRXpsX3BFYk9oT3dQV2tla2lydGZLNERscU1rcW9QVGhpWEI3cURCd0dvcUk?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +439,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 43,
+    "starred_questions": 12,
+    "unstarred_questions": 31,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 82.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +455,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 60.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

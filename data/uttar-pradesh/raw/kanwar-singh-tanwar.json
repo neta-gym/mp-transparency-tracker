@@ -4,80 +4,115 @@
     "constituency": "Amroha",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1807,
+    "myneta_candidate_id": null,
     "slug": "kanwar-singh-tanwar",
     "house": "lok_sabha",
     "sansad_member_id": 4607,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "8th Pass",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/4607.jpg"
   },
   "criminal_record": {
     "total_cases": 1,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "126/2021, Police Station EOW Mandir Marg, New Delhi",
+        "ipc_sections": [
+          "406",
+          "420"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "CMM Patiala House Court New Delhi",
+        "fir_no": "126/2021, Police Station EOW Mandir Marg, New Delhi",
+        "case_no": "Cr. Case No. 90/2022",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:00.403693Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 2147933326.0,
-    "liabilities": 19897537.0,
-    "net_worth": 2128035789.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1807",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.306357Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 96.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.74,
-    "expended": 6.61,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:52.481673Z",
-        "notes": "Official eSAKSHI REST API — Works: 93 recommended, 84 sanctioned, 47 completed"
+        "fetched_at": "2026-09-02T16:32:01.196880Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:28:01.554827Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:28:01.552025Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 93,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 44.96598639455783
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +127,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:53:32.500754Z",
+        "fetched_at": "2026-09-02T16:28:01.550934Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +135,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Former MP of Amroha is richestcandidate in 2nd phase of LS poll - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmNrNTlKSTlXeXh3NDZNNUtTdUpGdXNyNDljN0hHdXpaaXAxdkxTQTM4WXlBZ1BuVzAzeGVYcEhjZmZFSHpOWFppWXY1OU9xal9zOXBkUXpMTDJrMkl5cmhXOVBBWHpVOV9CaXZ6Z0dzcWxoQUJEb0pkSG5pTVZKdTZqYVdTV0JIdjQyOE54b01ic3ZVTkdzZV83XzNVYllJREJfenAxcTdhaTlydWh1blZ1czBaZUVnYlBGUGJzMHZGLWF1RFEzSGFybVpBNEVmOFJJLdIB2gFBVV95cUxQZHVTZ1NCMU12c3h2bHVxTTlzeE0tNHplSmR5TjVReFFjVW5Jc0FwYzY5QW0yLWxOVFJGRVBMdVlHUW1zVTRGMkY4TV9MWFZfeDVONERhRnVxVWc5SkY2aWdabmNTUTEySFlhYkN6N0NwamFTeHhxMGd5R0pzZHZLMXhHbXphckpFaFl2YXlqcmYyOER0TWtYNnhWcThFbVNEdUlOZjNmaFVDX2JkUVVaSEtIWHlrQzBCby0ydWRpVmJDNjNrQkZMc0lLcXZ5ZTBxUVlLVzdXcll3Zw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "On The Campaign Trail: The Hathi In The Room In Amroha - thecitizen.in",
+      "source": "thecitizen.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUFoyWHBMZXhIa1F5RGFfd2xNUzhUTDN3LVN6c3BfeHZvbFJmdm1QYW9aZGxkNVNnV1Z4d3pYMzAta00wNFJ6T3FjVGRfa3UzLTJxbG1oUUF6dmI0MGNxNmVrQ19nemNUMldaUnFVOXhPblZHS2F4bGk5WWRnWG1nd01icklMRzFnU0RvZkZHaVNRWC1LZmdPeDhaMlZ1YzFVOGhlaTdFaTJfYTFXTVNFc2R0OXRTNDNQVUNoetIBwgFBVV95cUxPX0FiNUZ3N0VyREFfQ0xFbkRDWGVSUHI4MkZuRS1mX2NOUklXMTUzdk1YLU9yWEZTajBDSkNRRThVVW8tTHI3YzBIdW50U3FqZHBRd2tVdUhtVHlxdEZRQzJUTzdaekM2R043ekRlTUFvSGVseHlVRGpzdDUwZ0xNV3FKV0dOeWd4R0djdnNGZG83M2FKSTl2aWhJWGp3cWFHanJHa2NkSTNCbnYwWDhjdWd1MUlBTGhLZy0wR25FQi1PQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP's 'dhol' or INDIA bloc's 'nagada'? UP's Amroha to see fierce poll battle - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaDFmNDJidU5lNHQ1ZThpcXk2WmtvdFg2YzVXTmtMcnFPOEI5V3B6S0FzX0hFcE1BbTJUT25IVlRfTnRHZmdXNW1vVF91Rm9LM2hYUUZQVThSMWlTcV9lZFNYWmQtTkZhUUdOVmV1YUlZQk9KTTdyYnpqZ3dvVmRXU2tPelRKSU9FRnVBTGlXQk9leXEwcWExQVdidm5aclh1YW9NcHVQdEduVy02c0p5R3oySFgzWnVPOEkzTmFNQTZiLUhoV1cwck1iRzZLcEZTdzZWQWpPS0JQNUtmQi0tNG1fY2rSAeoBQVVfeXFMTjJRSWsyQkYyd18yRG0yUkVJdmUxaXBLWHJ2VEsweW1sU1ZBLXhHTHcyYV85QnhvUzVSV3BIV2haUnEteUtOVkdsU3lVR2hqSjk1QlF0aHdXQTlSeXZUemx3RmRDVjNncW9yWmw4aWNkNF9tQ3N3UENrbHE1UUlROGFLbWhrZ3Q5aGpZZVVrb1J3N0pWcVZtOFIxMERvcjVQd0RwbjQ5V01YLTRHejJaeVpEd3BwUVJxUjlGWVhZZUp0ZHZRUEpMU1NpLUg3SnVYTWFvWlkyZkZDUjllOEtEa05qQWs3M09pcEJ3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "In Amrohas Triangular Fight, BJP Banked on Communal Polarisation - TheWire.in",
+      "source": "TheWire.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXFNRlhWNGZOd3pQcDJWVGdwMUFYSkFfTTFlS1BQM29iamxLZm8zMHlPdl82TGYxOWhLWTEyUGZVLWFDRzFOeXNXTXM3NEdRUTZMNUZ2OUt0d2FOX000dndCcmItWGNmZy0zSUtWY3hmQ19ZbV9lbmtzVmVvXzVvNmZLYm1DT0x5dUNXY0tQeHJlQUpNY1Q0WDBTTWRTbC02VV9j0gGoAUFVX3lxTE1nR1dwY3RHc0FmTFN6QVVHcVg2Q01WVUdnOUo0SUxSa2VWaEs4SFg4YmRHVVNjZHRJelhxMFp1YXJPU21McnJ4Z1YyQURURUlNd0NyRnpzdUFCSWRGdXp3cXQtWkxZQXd2bkozWDNVVm4tQ09sYlBqYXV1cVJQWGJKQklMZ3hNd2lTY2RVcHJTRVo4ZjlYSWxHTUZTelRXejF5S3p1X0puZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Amroha election results 2024 live updates: BJP's Kanwar Singh Tanwar wins with over 4.76 votes - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUDREal9FNWw1Q0lweHRvTDlEZ0tDVXMzaFhMa0trb2hzMDM5MnBFbG5pTnFoV3U5MWsteWdGS2RfbXJXcmxjVEZLaUVsVnMyN0k1WTYyTkpHYnRIREhuQmRZR1c3MXRxU19lYm9FOENlZWk1TG9YUkgzazVqR2FSdnZVUHZscDNYa2xLQ2VScmJLX21sMGdOZW9NVnh1V1hRczJydnFrV2dsQW5BS1Y3dVQyUmh1MnFTb2FuQ0Z3bl9kdUVFNG5ld3NBNjNBaXE1S2JEc3lOaTV6eG5xQllLSVRXYnFEY2dHYlhXazhZX0JrbThiMGdGRNIB_gFBVV95cUxQeTc1RWJZQXJBXzFlQmNWZGlzbG92c3FRWGhGclEtRUE2ZW8yS1U4S0VnVlFjdDQyU0xUUDFrbTZ5a1ZabjBSV2lvb3BfR0podVp4WVh3ekF4UEZsRXY4Q1o1c0ppS0hZS2FwYWZ5MjVPZmxITGRFNEs5WUM4WFFIMWJmTzlGcDUtbW1WM2p6dXduMlFGMktfblRYZDRSTmVpYXBwMTRKUk4tSnZQcmwxM1U4UWZ2YnFZLTBSbmIyQjRhVVdWeENCS3pyckFWUzRkc3k5VlhYbk45VFZ4ZzdiTWtJM1dYeGNkd3hReGtHbGF1Z0hUQjZkNkRRZDVLUQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:53:52.026840Z",
+  "collected_at": "2026-09-02T16:32:01.197985Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +204,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.679862Z",
+        "fetched_at": "2026-09-02T18:38:11.253793Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +220,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.679871Z",
+        "fetched_at": "2026-09-02T18:38:11.253804Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +236,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.679876Z",
+        "fetched_at": "2026-09-02T18:38:11.253810Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +252,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.679881Z",
+        "fetched_at": "2026-09-02T18:38:11.253815Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +268,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.679887Z",
+        "fetched_at": "2026-09-02T18:38:11.253821Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +284,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.679892Z",
+        "fetched_at": "2026-09-02T18:38:11.253826Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +300,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.679896Z",
+        "fetched_at": "2026-09-02T18:38:11.253831Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +316,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.679900Z",
+        "fetched_at": "2026-09-02T18:38:11.253835Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -288,27 +362,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Amroha Election Result: अमरोहा में BJP के कंवर सिंह तंवर ने किया कमाल, दानिश अली को 28670 वोटों से हराया - AajTak",
-        "source": "AajTak",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRS1FbUhjU2o3X2lOTmlWY3RwM0w0d1A5OTIxWnNOelZTVnExMlJ2bDZzZUVUYk8zV3NmVWFGWEs4NUhVT0xUSHFSTzR1V1F2UXBrdVRwekRLbXFEdGVRZ3hZMGpzbUlqVklmZXJTQnk1dTJpdHlVeGNMbGsweWszNWY1LVZ1ZXBMNEpTczFiS1Q3RDZNZFNlUVJfYzlDNnoxUVhTNUk3emZNVEhIM0EzR0lSX1cwMDViZkNqUndDRkRQWjFBanNyT2ZqM1hab3daSGc4R1ZpT1FJcEs1Zl9XLTdOZVZWSDB4LTlHOGJ3NVdYSVBnbm1EanNVVkVfd2RQdTU3V1FvYWFYQ1c2VHMtNWphNl9qSWpWUW9ZbXFhS2JFaFoxel9SZl9ucW5nNlpwZHfSAbcCQVVfeXFMT0lRX3U2X0t2MEoteFl2RlNRNFpHNFZ2VnpJTFItaDFNaWZ1S0pXMjlOLTZlRS0xMThFTUJzeWpmSDM4WWZGaEJHU3pidGwtLUI2UHI1Sjhxd2JfZHkwbnBxdWNpNGpnTlIxZGlkWi1NN1Z5SGpNVDRuVjZVdjhoUk1nZElIb1hHLWlocGwwVUpReE0wazVUVVIzSEZ6TGs4d3pSVnFObi1leGVlaTVkUDI0eURyWVc2S0R3LTZJeGdYbE9TSnRubXR6TWxFM0ZtX1dyeWNZY3hiRGpfdTVvRi1kSWVGZWprdmVDcE5FaXhUQjRwLVNDM2hhdkdSSnhGMkJ1Y213Rm4tY1NvRnZjNFViNmJLLUdpM2pLMlNMb3lBd0NOdzVpaDJxWGxOaWRXdlgwZEpoV3M?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Amroha lok sabha election results 2024: Amroha Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3JPN0hieWZ5dlMybEFwelNRZ2t2alF0clNfb2U2YWhKUmdvTHE4V1FrSG1TUmk4b0VNX3F0anMteEFWUTBWbWljU1lUd0doRnMxUm9uWEttclFzTklCb0NJR2Q1ZXo0bnAxWkp6SGZKU2JuS3ppUURuR2JHUFJkbERKcG4yOGJGWjRJanA5dG9GWHlWMkYw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "On The Campaign Trail: The Hathi In The Room In Amroha - thecitizen.in",
         "source": "thecitizen.in",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUFoyWHBMZXhIa1F5RGFfd2xNUzhUTDN3LVN6c3BfeHZvbFJmdm1QYW9aZGxkNVNnV1Z4d3pYMzAta00wNFJ6T3FjVGRfa3UzLTJxbG1oUUF6dmI0MGNxNmVrQ19nemNUMldaUnFVOXhPblZHS2F4bGk5WWRnWG1nd01icklMRzFnU0RvZkZHaVNRWC1LZmdPeDhaMlZ1YzFVOGhlaTdFaTJfYTFXTVNFc2R0OXRTNDNQVUNoetIBwgFBVV95cUxPX0FiNUZ3N0VyREFfQ0xFbkRDWGVSUHI4MkZuRS1mX2NOUklXMTUzdk1YLU9yWEZTajBDSkNRRThVVW8tTHI3YzBIdW50U3FqZHBRd2tVdUhtVHlxdEZRQzJUTzdaekM2R043ekRlTUFvSGVseHlVRGpzdDUwZ0xNV3FKV0dOeWd4R0djdnNGZG83M2FKSTl2aWhJWGp3cWFHanJHa2NkSTNCbnYwWDhjdWd1MUlBTGhLZy0wR25FQi1PQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP's 'dhol' or INDIA bloc's 'nagada'? UP's Amroha to see fierce poll battle - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaDFmNDJidU5lNHQ1ZThpcXk2WmtvdFg2YzVXTmtMcnFPOEI5V3B6S0FzX0hFcE1BbTJUT25IVlRfTnRHZmdXNW1vVF91Rm9LM2hYUUZQVThSMWlTcV9lZFNYWmQtTkZhUUdOVmV1YUlZQk9KTTdyYnpqZ3dvVmRXU2tPelRKSU9FRnVBTGlXQk9leXEwcWExQVdidm5aclh1YW9NcHVQdEduVy02c0p5R3oySFgzWnVPOEkzTmFNQTZiLUhoV1cwck1iRzZLcEZTdzZWQWpPS0JQNUtmQi0tNG1fY2rSAeoBQVVfeXFMTjJRSWsyQkYyd18yRG0yUkVJdmUxaXBLWHJ2VEsweW1sU1ZBLXhHTHcyYV85QnhvUzVSV3BIV2haUnEteUtOVkdsU3lVR2hqSjk1QlF0aHdXQTlSeXZUemx3RmRDVjNncW9yWmw4aWNkNF9tQ3N3UENrbHE1UUlROGFLbWhrZ3Q5aGpZZVVrb1J3N0pWcVZtOFIxMERvcjVQd0RwbjQ5V01YLTRHejJaeVpEd3BwUVJxUjlGWVhZZUp0ZHZRUEpMU1NpLUg3SnVYTWFvWlkyZkZDUjllOEtEa05qQWs3M09pcEJ3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "In Amrohas Triangular Fight, BJP Banked on Communal Polarisation - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXFNRlhWNGZOd3pQcDJWVGdwMUFYSkFfTTFlS1BQM29iamxLZm8zMHlPdl82TGYxOWhLWTEyUGZVLWFDRzFOeXNXTXM3NEdRUTZMNUZ2OUt0d2FOX000dndCcmItWGNmZy0zSUtWY3hmQ19ZbV9lbmtzVmVvXzVvNmZLYm1DT0x5dUNXY0tQeHJlQUpNY1Q0WDBTTWRTbC02VV9j0gGoAUFVX3lxTE1nR1dwY3RHc0FmTFN6QVVHcVg2Q01WVUdnOUo0SUxSa2VWaEs4SFg4YmRHVVNjZHRJelhxMFp1YXJPU21McnJ4Z1YyQURURUlNd0NyRnpzdUFCSWRGdXp3cXQtWkxZQXd2bkozWDNVVm4tQ09sYlBqYXV1cVJQWGJKQklMZ3hNd2lTY2RVcHJTRVo4ZjlYSWxHTUZTelRXejF5S3p1X0puZw?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -350,15 +424,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 43,
+    "starred_questions": 12,
+    "unstarred_questions": 31,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 82.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +440,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,16 +4,16 @@
     "constituency": "Alwar",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 360,
+    "myneta_candidate_id": null,
     "slug": "bhupender-yadav",
     "house": "lok_sabha",
     "sansad_member_id": 5541,
     "profile_url": null,
     "canonical_name": "Bhupender Yadav",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/5541.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Alwar",
       "state": "rajasthan",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 360,
+      "myneta_candidate_id": null,
       "slug": "bhupender-yadav",
       "house": "lok_sabha",
       "sansad_member_id": 5541,
       "profile_url": null,
       "canonical_name": "Bhupender Yadav",
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 55,
+      "age": null,
       "photo_url": "/mp-photos/5541.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:06.969747Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 23236037.0,
-      "liabilities": 0.0,
-      "net_worth": 23236037.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=360",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:51.563052Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 20.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.39,
-      "expended": 4.82,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:44:48.118472Z",
-          "notes": "Official eSAKSHI REST API — Works: 67 recommended, 60 sanctioned, 15 completed"
+          "fetched_at": "2026-09-02T14:57:33.651012Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:53:53.924323Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:53:53.922251Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 67,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 32.7891156462585
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:37.485098Z",
+          "fetched_at": "2026-09-02T14:53:53.921458Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Bhupender Yadav | In Alwar, BJP’s go-to poll manager has a role reversal - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbGo3dFp2NGw5cUNaeXJpcjVtVWx1OFpiazFFR2tsWkhPWjFxLTB2V0NmWl9jc0pDSXZScEN6ZERJTEV2eGJ3VlRFNDY2aktJWDBsNFg4QkxvbVdfTy01VUJkSWpHc25ZTDVkUHQzbjlDbm80NHRnNXBoTHVFbG8tNGFYenJNbFZlZ1NrdXVLSlhsaGNfNWJSeTROaU1PaDZNb1VJMWpscE1vMWdRRVgtWEtJalk1N2VkMUdGdEVJU3pTV01FVmZVd2c0TzbSAdMBQVVfeXFMT2NCaFozdEZHd0dfSzFWTTFpcGhEOUVVVm5rbE9ncEpxQmFvdEgxQkM3QmhQaC00R09GWWstdjhrRXdqV3ltWUlLX0J2TWxlUUV4QmhzODNISGFaRzh0X3RjaXhUSXl1Y1JKdGdnT1FRYjI2ZmkwTjhlT0l6dm1zdW5lU0JuQXhyMjdwdDVZTG9hd1lZUTdJSWNyN3JSVDJoaHNSU25yTXptRXF0UUFhODR3Smg0S0pyMC1DUW9TVnZZUndfT1pLaUppOE1LRHItcXBfTQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Alwar Election results 2024 Live Updates: BJP's Bhupender Yadav wins against Congress's Lalit Yadav - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNSEM1akcyXy04SzRycXlLSnBMNkRfR1RKMjlZcEN1UWFzZV8zU1NsMHR0WXNvODRxSjAyUmVLdmdhQzZKZzdrSEYybUxjb0NnWHZBM25IMFU4ZVlGbU1FbmhnMmFQdmcybnEyWkw0MHlnd1lwaERfUlYwS3RhbTV1aE1WdUdHZ0pqb2ZxelpDZjBrZEVwRkowQnc3SXRjMndyaDk5TjA4V1V0RS1JTHFPLWUzYThzVTNsSnk5cEJaazhHQWNjOXhIbXR1cjdlbFVCM1NiUkEtVVdKbGJtQXk0ZGY5b1BKaGR1VWQ1MjhrVy1JMldqTlZvTnB3RFJZN19jTXl5UGlZd3FmTkJubWtiVkw1Nm1uY1BTM2U5bVlEVVNybm03eXBmOHVNQ2Z3YknSAbQCQVVfeXFMTW9IQ0dJUzk1YzlKNDlLVUo0aGhSbjhyalM0ZUozY2dhd21yZ0diTW9qRm1NQXA3SnBiREE4b0NkWlVtSTUzSzZ3MWY3d1gxLVhuQVl4XzRDaFdZaDRGaHFXc3hxdk1WYmhFZ1VWcGYxUDFwdmFoVWQzYzNWUGlrU0s1dFY2bXB2MnQ0TU1NWjd3SWpkUXpyQ3M2c3dJSkhHUzZTbHJzRjZtS1V0YjJwcU16dllmNlN5cUI5bF9Pa1BpcUxMVnhLU3JUNEhEVnl4eXB0bVowbXQ1X0EyMGxlZXBmdF95UW9xTzdKTTRtRnpRaTluQzRMbU9KVjlLWkVURUdBdUxudTFCQ1loOGtib0QzdnhNNmdPU0RJZEs5RXBPUkRSSzkwZmZ3eDh2azNaZUJtb0U?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Meet the commander who leads the BJP’s battle to conquer Mamata Banerjee’s fortress Bengal - Telegraph India",
+        "source": "Telegraph India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdE9yVGY5OTRSQjk0RVdESDRzNzM0RHZxQlZzOE9mVXE5X2Uzckt4UVNHMFN1TkF2NVlMRWwwY0FjcWpHY0l5VDMzYzhhQUhxVTB5ZzJKMktYMHF1MjlXbjZiRzJpNllSeGRuUUthOEZucXlaX2h1N2o1bEFyWEcybUFyNUVseGNWR0d6MHBIY2k5T0tKb3NnbXpXYkVaOFdGb3VOb1Y0eEhtTkQyOGV4VDgyZ2FNb0VPZGRWb3FOd2U5WW5KMXl3VDBNLUd3UXBXT3pZ0gHYAUFVX3lxTFBTYWF4bEhJdW1DZkRLWFl6WnBTZDVFRUNDaTF0UHJaa2pOTEJmWnYwamtnbUtvUDVnbG9KZ1pJNVNFcEVHenFTbG94TW9qd0szUmUwZ1ZxQmhNTVdpY2RtMDVLRnBXb2h4X1JqNlRJWktyY3VqQnlhczhSWW5vcldBdWtTbFNHZUpWd2JFU18wYm9Pb1phYllaVzZVdXYybXRnb01qRnVIaFFUSWpmTjZISVlTVzJMREd3cDIyd1o2XzBMT2VIUVNaZFRWdTlfV25rUW1aY2ctVQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "For debutant Bhupender Yadav, ‘proximity to Modi; biggest plus, water shortage a minus - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWtEaVZWMEkxWkpmanZPQ1Z6U3d2c3BBejlnaDlHSGg2VGFiYWtkdWZqdUY4OVhvRG1meGVHUWsycHpycVQ3LUcwMWt1aVpxWEZHNXdfNFNtWnVWRF9LdGhyWTk2OVFCc2M1OFl3RU03YmVZR1FjRDhMZzRUNXJncWVnS3JnbWs4ZksyaTNWN0RLaEVmeDY1U0xNMElHZjZUN21HQU5xQ3NSYWkxaGRV0gG2AUFVX3lxTFA0UWpESm5MTTA1cDVaVVdrTFJpaDBncE1OT09fWGZvOWc1bXBSVlhva0NKZEJoaERnOUo0d0xnVW9DTlU3c1gtM1FqQ1BQM3k0ZGhkdXVadkFiblpJZ2laQi0wWmhiT1JmUTJ4U0pjaUR2TGY1NGFmMDZwNkUzTXQtblFXMEVHel9CNFltYXNwNktPYnFNNWxHNkdrZEFaRHRrX3hTdE5FOWlCWUhvYldoQ1NMdWJB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM Modi extends birthday greetings to Environment Minister Bhupender Yadav, lauds climate and conservation efforts - DD India",
+        "source": "DD India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTVFiLU9WWXB1bXdHdTU2NWpTcElzQjAxMTdrNk9oNzJwTlNhdUJYVG9xcmgyLWZ4MDA0azhSVGFOLWtBSE5SQWJwakxlS0xFOXFQN3V1Sl9jQlpBRjZOMUt5bjh2R3BLU0pvWlhfMHhkQUo1ZDNrdXgzenVqWGZWbWpld0d4T1pQZVItSmdkWEZzeTlTRGRSNkd5VDBzdUtlX1hMa3UtbkdBX2pxc1dvNHA3OUtnOWVEZXdyaFRzRnpWaFdkX0RlMnZCMmFtNXFJZUZwbFA1QjdrcHY4?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:32:17.270069Z",
+    "collected_at": "2026-09-02T14:57:33.651758Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.868019Z",
+          "fetched_at": "2026-09-02T18:38:09.314157Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.868037Z",
+          "fetched_at": "2026-09-02T18:38:09.314176Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.868047Z",
+          "fetched_at": "2026-09-02T18:38:09.314183Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.868057Z",
+          "fetched_at": "2026-09-02T18:38:09.314189Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.868068Z",
+          "fetched_at": "2026-09-02T18:38:09.314198Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.868077Z",
+          "fetched_at": "2026-09-02T18:38:09.314203Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.868086Z",
+          "fetched_at": "2026-09-02T18:38:09.314207Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,30 +335,6 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "India proposes Alwar’s Siliserh Lake as Ramsar site - MSN",
-          "source": "MSN",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOZHNFMnJvdk5NYnFwMXNhRFliTDdKeHBLTjJhN3pWY3ZhV0x3NDJFWjlMX1lsZ1VRZXFvLXFlRWtKUVRra296bG9NdGRiREU0X0xMV1hnSGZJMS1IZVFTcDJWMFR2VHJpdVdIR0JNRUY3SW9RWmFna2J0bmpJcm5LbkVDRTd1QW1JWWFPbjFGeUNIY0g0eUt4U3R6bzMwelpzNjc5aUF1N1BrRTNKRmpuM1p0eDNYS2dJbUd6VE5DSDlZVElLU1JFV2E4LTFieUcyUmJTNnYyR3F5WDNzQ21KNmdzcXhUS21yQTlOWnBXNjM0ME45ZEJvX2NtN1VRM0g2YVBtZUJBckFBc2NYUjFvaU5EVVlqS0JfamxIc2lnWVBqR29raGxmeWZvUlRtY1dkM3REdXEzcw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Union, state ministers launch annual bird fest at Siliserh Lake in Alwar - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb1QtOGswUE5hRWJSaU1XbnBzcWJTNEZJRDR3bE92WDNhWkZkQ2M5X1ZkcUg2ZE5OSHBGcUNUOUtaVWhRLUFNUk1YSVVaLXJkcEY3ZVotNWlwU2MyZERxdUFRRnV1NktkbzlzdFhBNHZEaFlRenRScjdKb3l3UmZzenpnOHdNRDhvdGYwT3NHMlNhOUJfODM3LWpQUmJUZlNxQXUwQXlHaWFWbXprVlg5NUl5X3l1V1Z2a1Jvb0FnS0tZMUJITnJVWmZVQnNCd2tfNXdUQmpBZnNLTXVCR3fSAeMBQVVfeXFMTmQ2akFHSzdCTkVrX1RScXBvbzdkc3pXWnJUWTRGMWNPRDN1S09TVkdKWExNXzJBa3Q0SEF2YkhwZEpYbTl2eS1EcFBUZHRacTBxWEhKY3ZLTzd2ZjNqc2haMVluV0JoYTVRSkUzcG1nRlJpWEhnOHBDbXFOaEN5UzNIOHJlQ1BnYlhBWWhqd2UtZkFLckl4ZVZ5ZEpqMlJ0WDlzclZ5cXN5VHlOR0Rld2hxbllvZHpoY0ROeVI4QjBzN29JQkhIQUgyYXhaMC1INm9jQjQzODVWTmp2UXNUd1BlYUU?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Rajasthan: Alwar Tiger International Half Marathon 2026 Sees 20,000+ Runners Promoting Wildlife Conservation From 5 Countries - Indianmasterminds",
-          "source": "Indianmasterminds",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVBVbm9tTURhNFFFV1BYYWVtaVo2TU13ZFpDd19sR1QwbDRja21rVTMxTVdZV2dnbnowRl9qci1aWG82Zk4zbzY2NTFvQ0NZekRnU2VtOGxTbk9tZ2owSkNVX0s1aU1FdjB5dEdhWmFxRTdneEJzQi1qb05aMjdqd3hNMW4xekhUbkt0bXE0RXpLd3ppQUhIclF3aWtxQWpEb19R?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Bhupender Yadav | In Alwar, BJP’s go-to poll manager has a role reversal - The Hindu",
           "source": "The Hindu",
           "severity": "low",
@@ -314,11 +343,35 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Bhupender Yadav opens Rajasthan's first 'Namo Biodiversity Park' in Alwar - The Hans India",
-          "source": "The Hans India",
+          "headline": "Alwar Election results 2024 Live Updates: BJP's Bhupender Yadav wins against Congress's Lalit Yadav - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYTNwVW44aEtlb3FFOG5xMkdTLVBBa2dlZmlVV2I3cjlqdEU4MVlDaWg4Si1ZS2FMbVJLWDJCVjNmSjFJdmQ3eFpOWU45NU51UVFObGdmWnFJd0VBMTVQVkpaNjVRdFJVWjh2bVRZVS03YjBReUxNZWYwcllxdl8wRUZwaDFNSk1LMmFwUXRiVGp1eUV5ZGRad1hhMUtkRHJxbVV6a01ZR0xMNlBOaFhhN0NRdG45SU9QZHBXLVN30gHDAUFVX3lxTE1kSXB0dTdQQlNmWktUYzFZNmJaNnR4aXBReWo5Y1Ywd0tLMXN5M0l4eURudnBtTlhHRnFOVzBZWDFJV3Z2RzNCSFI5SF9fTlFKYmhwVWtJdnBOMGRHYUJSa1d5Z0ltSlR1akxYeGd1YTI2MzhfSklSSnlLRkdtYnVQNkxMTzdhbnEwVlBHdkhRb1k5RE1mTlBuQkV6dWxjM1dkWGdmSHpNMTE1dEZLR0dLV2dGanlXcFpBa3dPMTk2dlViUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNSEM1akcyXy04SzRycXlLSnBMNkRfR1RKMjlZcEN1UWFzZV8zU1NsMHR0WXNvODRxSjAyUmVLdmdhQzZKZzdrSEYybUxjb0NnWHZBM25IMFU4ZVlGbU1FbmhnMmFQdmcybnEyWkw0MHlnd1lwaERfUlYwS3RhbTV1aE1WdUdHZ0pqb2ZxelpDZjBrZEVwRkowQnc3SXRjMndyaDk5TjA4V1V0RS1JTHFPLWUzYThzVTNsSnk5cEJaazhHQWNjOXhIbXR1cjdlbFVCM1NiUkEtVVdKbGJtQXk0ZGY5b1BKaGR1VWQ1MjhrVy1JMldqTlZvTnB3RFJZN19jTXl5UGlZd3FmTkJubWtiVkw1Nm1uY1BTM2U5bVlEVVNybm03eXBmOHVNQ2Z3YknSAbQCQVVfeXFMTW9IQ0dJUzk1YzlKNDlLVUo0aGhSbjhyalM0ZUozY2dhd21yZ0diTW9qRm1NQXA3SnBiREE4b0NkWlVtSTUzSzZ3MWY3d1gxLVhuQVl4XzRDaFdZaDRGaHFXc3hxdk1WYmhFZ1VWcGYxUDFwdmFoVWQzYzNWUGlrU0s1dFY2bXB2MnQ0TU1NWjd3SWpkUXpyQ3M2c3dJSkhHUzZTbHJzRjZtS1V0YjJwcU16dllmNlN5cUI5bF9Pa1BpcUxMVnhLU3JUNEhEVnl4eXB0bVowbXQ1X0EyMGxlZXBmdF95UW9xTzdKTTRtRnpRaTluQzRMbU9KVjlLWkVURUdBdUxudTFCQ1loOGtib0QzdnhNNmdPU0RJZEs5RXBPUkRSSzkwZmZ3eDh2azNaZUJtb0U?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Meet the commander who leads the BJP’s battle to conquer Mamata Banerjee’s fortress Bengal - Telegraph India",
+          "source": "Telegraph India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdE9yVGY5OTRSQjk0RVdESDRzNzM0RHZxQlZzOE9mVXE5X2Uzckt4UVNHMFN1TkF2NVlMRWwwY0FjcWpHY0l5VDMzYzhhQUhxVTB5ZzJKMktYMHF1MjlXbjZiRzJpNllSeGRuUUthOEZucXlaX2h1N2o1bEFyWEcybUFyNUVseGNWR0d6MHBIY2k5T0tKb3NnbXpXYkVaOFdGb3VOb1Y0eEhtTkQyOGV4VDgyZ2FNb0VPZGRWb3FOd2U5WW5KMXl3VDBNLUd3UXBXT3pZ0gHYAUFVX3lxTFBTYWF4bEhJdW1DZkRLWFl6WnBTZDVFRUNDaTF0UHJaa2pOTEJmWnYwamtnbUtvUDVnbG9KZ1pJNVNFcEVHenFTbG94TW9qd0szUmUwZ1ZxQmhNTVdpY2RtMDVLRnBXb2h4X1JqNlRJWktyY3VqQnlhczhSWW5vcldBdWtTbFNHZUpWd2JFU18wYm9Pb1phYllaVzZVdXYybXRnb01qRnVIaFFUSWpmTjZISVlTVzJMREd3cDIyd1o2XzBMT2VIUVNaZFRWdTlfV25rUW1aY2ctVQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "For debutant Bhupender Yadav, ‘proximity to Modi; biggest plus, water shortage a minus - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWtEaVZWMEkxWkpmanZPQ1Z6U3d2c3BBejlnaDlHSGg2VGFiYWtkdWZqdUY4OVhvRG1meGVHUWsycHpycVQ3LUcwMWt1aVpxWEZHNXdfNFNtWnVWRF9LdGhyWTk2OVFCc2M1OFl3RU03YmVZR1FjRDhMZzRUNXJncWVnS3JnbWs4ZksyaTNWN0RLaEVmeDY1U0xNMElHZjZUN21HQU5xQ3NSYWkxaGRV0gG2AUFVX3lxTFA0UWpESm5MTTA1cDVaVVdrTFJpaDBncE1OT09fWGZvOWc1bXBSVlhva0NKZEJoaERnOUo0d0xnVW9DTlU3c1gtM1FqQ1BQM3k0ZGhkdXVadkFiblpJZ2laQi0wWmhiT1JmUTJ4U0pjaUR2TGY1NGFmMDZwNkUzTXQtblFXMEVHel9CNFltYXNwNktPYnFNNWxHNkdrZEFaRHRrX3hTdE5FOWlCWUhvYldoQ1NMdWJB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "PM Modi extends birthday greetings to Environment Minister Bhupender Yadav, lauds climate and conservation efforts - DD India",
+          "source": "DD India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTVFiLU9WWXB1bXdHdTU2NWpTcElzQjAxMTdrNk9oNzJwTlNhdUJYVG9xcmgyLWZ4MDA0azhSVGFOLWtBSE5SQWJwakxlS0xFOXFQN3V1Sl9jQlpBRjZOMUt5bjh2R3BLU0pvWlhfMHhkQUo1ZDNrdXgzenVqWGZWbWpld0d4T1pQZVItSmdkWEZzeTlTRGRSNkd5VDBzdUtlX1hMa3UtbkdBX2pxc1dvNHA3OUtnOWVEZXdyaFRzRnpWaFdkX0RlMnZCMmFtNXFJZUZwbFA1QjdrcHY4?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,7 +421,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.17,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -420,12 +485,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Rajasthan: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 23,236,037. MPLADS utilization: 32.8%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:51.869533Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.315086Z"
 }

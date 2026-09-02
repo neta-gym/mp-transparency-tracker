@@ -4,16 +4,16 @@
     "constituency": "Ambala",
     "state": "haryana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 8414,
+    "myneta_candidate_id": null,
     "slug": "varun-chaudhry",
     "house": "lok_sabha",
     "sansad_member_id": 5545,
     "profile_url": null,
     "canonical_name": "Varun Chaudhry",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 44,
+    "age": null,
     "photo_url": "/mp-photos/5545.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:08.042889Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 259468388.0,
-    "liabilities": 6173716.0,
-    "net_worth": 253294672.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8414",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:46.960650Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 75.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.73,
-    "expended": 1.9,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:24.929218Z",
-        "notes": "Official eSAKSHI REST API — Works: 118 recommended, 99 sanctioned, 2 completed"
+        "fetched_at": "2026-09-02T14:26:37.863859Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:47.804455Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:21:49.959328Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 118,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 12.925170068027212
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:46.166658Z",
+        "fetched_at": "2026-09-02T14:21:48.833787Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Railways say Yamunanagar-Chandigarh line ‘financially unviable’, MP Varun Chaudhry opposes assessment - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVjlWRlBpVlg1OW5jRnh3LWttaHBUaE5ERlFlR3E3UHJBWldTOTRnMURtVE9vMms2UXpIQXFYYVVPbERVWXBmQ0QzRWQ5Rkt1RDRwWHd3bHBUZXVFb0RJX2VSbF9MTlJKdG9BaF83TEtXOVFRVkVsa1N2SHlGVkhwTmpDRzdXbGpEX3hXa2RDSXBQOUtLcXM3TDNxQ3JYNGFZMnFLWXdHdzZaYmJSWTZhMzFCMlVOeGllRlhHN1ZCZ1hIcXFEakgwRjloT1dtRWtEeXhnUENwZlNUVnJwcTRDNVRMSHZ1RVBvdnpGRVZ4NzlOX0djY1FqcDFMeTAwNXVVUzFVUVY3ONIBjAJBVV95cUxPenYtbGtHOGxIRG9rTHNMcVBubDJNWDgyZkNKbUsyOFZGTndfS3pCYWxxdVNLSEdYWTBFclRGSUNpUlh0MVJ2dzdJNW9nNU9PNTJaQVVjU21VYUNiTUQxeDR3VUphNDdIWl9oazZpTTY3Q2s2MjVnWGUzWW1EaFdCMTNOM1k5NTdGOC14T0xycl9jWWVHXzdReXRiMzFGYWpxQ1BUbTVqdk5xTEpLRHViMEdQZzg5LXRXTlN1bS1Vb21JVThzZmNtRWcyeFk5U2ZieVNndWdRWjdwSmVMdXNDYk0xeS1rSjFNZWRrSlNtWEhYNDdWaWdDRGFxcVlRVXlhZUFTb3RudjlvTEVG?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ambala MP Varun Chaudhry to launch signature campaign over river dredging - DredgeWire",
+      "source": "DredgeWire",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0dPejVRR21EZzYwQ1pqMFQ5Y0Z3Q3NsNEtqVXUtRUFXV0dCZnNybFl5UnJzV2w2RnkzanBMQU15QVd3U2dYNFA0dnBZeEU1Mnp6Ym1mdThtYTJJckloU2JzMkdaMHhRU2lXMWphSkI5OGU2cU9JUGpMY3ZBY2lPaG96VEg4WndpaXlycnNVMFI5bE1aa3UybUJIcWdoZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ambala MP launches signature campaign against waterlogging issue in Lok Sabha constituency - The Tribune",
+      "source": "The Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZEowTmhhZ2hJcU9TVXlMaVJZSnVtYzBHM0xXUzAtdXZ4Yl8wWF8tM0NoajZfN1RUUWJjaUtvSVBHT0I4d3YxbTdNd3B0NDZyVjZIOVJvYm5rNTY5NTBWb0h5a254XzBFWUdpRDBRSl9XLVVEWENReXJ5Q2xMWFU1MHp4bExtMnRHZ2pwRlNpdjJqd1VvTFcydzdnbkdiTDJOT3BkWjROV1dBYVUtdnZlZWRGR0hrbF9JNHdfN1NjenZUM2Nib28tM2VvajZmUdIB0gFBVV95cUxQTXBGVktjTG9BZ21QaWNzMnZMU1N3R2dqVFRoV1Mwc2V2UDFMUDh3bF9pSjBFRmRkNkI4N29lSjJkaW5FTWE5ejNReVlHQ3g5UE9OZ24tUmhHd1JZWVRndVV4OUkzY29XMFBtN1ZfT2lPLXpWMHUtZGdRTUc3WXdEaWtKUHNQRmZUZVJBY01EaEdteS1hUWJ4NnpkaU1EVU1zYWdYT2FGWEFIT1NQT1dSeW5Na1QwNmpyWkNmQkJ1aTVfdjVhNkNNTWEzb0JyUmtrSWc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ambala MP threatens large-scale protest over waterlogging crisis - The Tribune",
+      "source": "The Tribune",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2EyYVNjTzdFd0ZrSkRXMjJJNGl3UVpJd3g2M2ZPTHpZenVtLS1sek5pY1RSZERoRDBmNDJQc0VjdVhXaW81RjhtdzVBTVZSVHhYdG1uVXhkaEhDRVBHSFRLOFRfMlVmRHp0RVZvZUtDRHgyZjd6YmdOQloyTGY5WmZJWnpmcjUySDV1WWZHckNWZFE1aFpTV3EtXzE4Nk1tOHh5cEx2bnVlTTTSAa8BQVVfeXFMT0pVYWhJc2Fac0tueEpwRUlWMkFvX2pkZndlMmxEM1VjQVJJQWRsaGJSVHRHRDZSdHZYX2l6clZqNmdjWkQ3M0l5OEs4VGdsWGJpMzgza1o1OV9zZDl0dUFfbmN2OEZFV3VmWHZ1OWdhNGJIN3pJS0V5a1dYZkdfdi1yLWtfQW5wc0RXZUlBUlJrVllIYUw3WjhrZ2ZfNXNwV0lxZTdld1pDN19GZTRDdw?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Congress’s Ambala MP Varun Chaudhry questions party priorities citing Haryana municipal poll lists - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFEwNTllUmhQNFM1U3F2TE5ZWWpycFpQSDgwMlVvRmJIVXY3c0s0N0VieVpsRFNYTVBTT1I0WV9oSnlrc1BlcUgwOVV6UmhUeDBzdXd6dE1pcXBkMjB5QXpDcTNWdnpESGxGX1RpTXJJVWVEbXZJOUdQQVgzSFNUX04zZE5KNVdySWU0VnlCUUUzcTVPNElwUHJXV1JuZUNvRGRWRi1TdEJBdzh6Y0EwTlJWS2VuaUtJbXE4aXNpeERVZTJZYXBCejJCVF9xTEV40gHWAUFVX3lxTE5iSUlPVFVCODRod0R5czlIQjRYRUJVa1pjWVUwc3lRZndEaFlKMVZjMGwzY1ZXdGRnQS0xT09qTmQ1ZHAwN092Sl9GZlhWN1pKZjhMYndyTjlZcENUV2ZsOEFpbE1PT2dXc0pyUzlUaUVya3FIOTlXN3FKQ3ROaVJZLUtZak9DdTNKTlB2akFUX0Z4QnJ6UUpuRUVTd3RnQm5jVHdjNEhBOXhLWDFuUU0yUUxMV0JaVTdaN3hHN1k4ekFmVDl4Q2ZteEVIU3lORkdtbVltanc?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:51.695781Z",
+  "collected_at": "2026-09-02T14:27:04.866759Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.421687Z",
+        "fetched_at": "2026-09-02T18:38:06.044192Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.421695Z",
+        "fetched_at": "2026-09-02T18:38:06.044203Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.421700Z",
+        "fetched_at": "2026-09-02T18:38:06.044208Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.421704Z",
+        "fetched_at": "2026-09-02T18:38:06.044213Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.421708Z",
+        "fetched_at": "2026-09-02T18:38:06.044220Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.421712Z",
+        "fetched_at": "2026-09-02T18:38:06.044225Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.421716Z",
+        "fetched_at": "2026-09-02T18:38:06.044229Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -258,18 +311,42 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 10,
-    "positive": 2,
-    "negative": 0,
+    "total_articles": 9,
+    "positive": 0,
+    "negative": 1,
     "neutral": 8,
     "top_headlines": [
       {
-        "headline": "Ambala: MPs Varun Chaudhry, Kartikeya Sharma ask officials to speed up welfare projects - The Tribune",
+        "headline": "Railways say Yamunanagar-Chandigarh line ‘financially unviable’, MP Varun Chaudhry opposes assessment - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVjlWRlBpVlg1OW5jRnh3LWttaHBUaE5ERlFlR3E3UHJBWldTOTRnMURtVE9vMms2UXpIQXFYYVVPbERVWXBmQ0QzRWQ5Rkt1RDRwWHd3bHBUZXVFb0RJX2VSbF9MTlJKdG9BaF83TEtXOVFRVkVsa1N2SHlGVkhwTmpDRzdXbGpEX3hXa2RDSXBQOUtLcXM3TDNxQ3JYNGFZMnFLWXdHdzZaYmJSWTZhMzFCMlVOeGllRlhHN1ZCZ1hIcXFEakgwRjloT1dtRWtEeXhnUENwZlNUVnJwcTRDNVRMSHZ1RVBvdnpGRVZ4NzlOX0djY1FqcDFMeTAwNXVVUzFVUVY3ONIBjAJBVV95cUxPenYtbGtHOGxIRG9rTHNMcVBubDJNWDgyZkNKbUsyOFZGTndfS3pCYWxxdVNLSEdYWTBFclRGSUNpUlh0MVJ2dzdJNW9nNU9PNTJaQVVjU21VYUNiTUQxeDR3VUphNDdIWl9oazZpTTY3Q2s2MjVnWGUzWW1EaFdCMTNOM1k5NTdGOC14T0xycl9jWWVHXzdReXRiMzFGYWpxQ1BUbTVqdk5xTEpLRHViMEdQZzg5LXRXTlN1bS1Vb21JVThzZmNtRWcyeFk5U2ZieVNndWdRWjdwSmVMdXNDYk0xeS1rSjFNZWRrSlNtWEhYNDdWaWdDRGFxcVlRVXlhZUFTb3RudjlvTEVG?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ambala MP Varun Chaudhry to launch signature campaign over river dredging - DredgeWire",
+        "source": "DredgeWire",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0dPejVRR21EZzYwQ1pqMFQ5Y0Z3Q3NsNEtqVXUtRUFXV0dCZnNybFl5UnJzV2w2RnkzanBMQU15QVd3U2dYNFA0dnBZeEU1Mnp6Ym1mdThtYTJJckloU2JzMkdaMHhRU2lXMWphSkI5OGU2cU9JUGpMY3ZBY2lPaG96VEg4WndpaXlycnNVMFI5bE1aa3UybUJIcWdoZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ambala MP launches signature campaign against waterlogging issue in Lok Sabha constituency - The Tribune",
         "source": "The Tribune",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTZBTmVIU29BMXVnNWluVlVQLS0yRlRvdi1vRTZ5N2pOeEhuQm9uMDFsRmtTa2JtZU9EdlRzUFJjR3BPOEM0LVNjMEFqaGF2NzlhTm01ZHd4TWdWMEc3R3R6VVlrQVdlZ29rSGxrdVJHVWF5d0Jkd0F3cVdIcFZlVE9BVHVnXzBRUFl0N0dQMDRqUzRHam9UTTNiSVg5S2ZiX1hySmdIdDXSAawBQVVfeXFMTjBmSmFKMjd4UmFheElCanJPaGtTZHRZMGZLU0xuVUN4dmVMb3hHNEJDZHFQaHE1ei1BcHNFMlU4TE1qVldlMGFFeXZUSHpSWW1Bc1VNeWZMeEc1S25mTHVJOGhLeTVUTmJXNkhkTWpzMlh6RHpmME9KQ0R6c09hVW81d2pOSWt2dmVSLXFaMEk3bXpScE93VWRTenZ1aUhleVdaQW4zVm1EUUNocA?oc=5",
-        "sentiment": "positive"
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZEowTmhhZ2hJcU9TVXlMaVJZSnVtYzBHM0xXUzAtdXZ4Yl8wWF8tM0NoajZfN1RUUWJjaUtvSVBHT0I4d3YxbTdNd3B0NDZyVjZIOVJvYm5rNTY5NTBWb0h5a254XzBFWUdpRDBRSl9XLVVEWENReXJ5Q2xMWFU1MHp4bExtMnRHZ2pwRlNpdjJqd1VvTFcydzdnbkdiTDJOT3BkWjROV1dBYVUtdnZlZWRGR0hrbF9JNHdfN1NjenZUM2Nib28tM2VvajZmUdIB0gFBVV95cUxQTXBGVktjTG9BZ21QaWNzMnZMU1N3R2dqVFRoV1Mwc2V2UDFMUDh3bF9pSjBFRmRkNkI4N29lSjJkaW5FTWE5ejNReVlHQ3g5UE9OZ24tUmhHd1JZWVRndVV4OUkzY29XMFBtN1ZfT2lPLXpWMHUtZGdRTUc3WXdEaWtKUHNQRmZUZVJBY01EaEdteS1hUWJ4NnpkaU1EVU1zYWdYT2FGWEFIT1NQT1dSeW5Na1QwNmpyWkNmQkJ1aTVfdjVhNkNNTWEzb0JyUmtrSWc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ambala MP threatens large-scale protest over waterlogging crisis - The Tribune",
+        "source": "The Tribune",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2EyYVNjTzdFd0ZrSkRXMjJJNGl3UVpJd3g2M2ZPTHpZenVtLS1sek5pY1RSZERoRDBmNDJQc0VjdVhXaW81RjhtdzVBTVZSVHhYdG1uVXhkaEhDRVBHSFRLOFRfMlVmRHp0RVZvZUtDRHgyZjd6YmdOQloyTGY5WmZJWnpmcjUySDV1WWZHckNWZFE1aFpTV3EtXzE4Nk1tOHh5cEx2bnVlTTTSAa8BQVVfeXFMT0pVYWhJc2Fac0tueEpwRUlWMkFvX2pkZndlMmxEM1VjQVJJQWRsaGJSVHRHRDZSdHZYX2l6clZqNmdjWkQ3M0l5OEs4VGdsWGJpMzgza1o1OV9zZDl0dUFfbmN2OEZFV3VmWHZ1OWdhNGJIN3pJS0V5a1dYZkdfdi1yLWtfQW5wc0RXZUlBUlJrVllIYUw3WjhrZ2ZfNXNwV0lxZTdld1pDN19GZTRDdw?oc=5",
+        "sentiment": "negative"
       },
       {
         "headline": "Congress’s Ambala MP Varun Chaudhry questions party priorities citing Haryana municipal poll lists - ThePrint",
@@ -278,33 +355,9 @@
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFEwNTllUmhQNFM1U3F2TE5ZWWpycFpQSDgwMlVvRmJIVXY3c0s0N0VieVpsRFNYTVBTT1I0WV9oSnlrc1BlcUgwOVV6UmhUeDBzdXd6dE1pcXBkMjB5QXpDcTNWdnpESGxGX1RpTXJJVWVEbXZJOUdQQVgzSFNUX04zZE5KNVdySWU0VnlCUUUzcTVPNElwUHJXV1JuZUNvRGRWRi1TdEJBdzh6Y0EwTlJWS2VuaUtJbXE4aXNpeERVZTJZYXBCejJCVF9xTEV40gHWAUFVX3lxTE5iSUlPVFVCODRod0R5czlIQjRYRUJVa1pjWVUwc3lRZndEaFlKMVZjMGwzY1ZXdGRnQS0xT09qTmQ1ZHAwN092Sl9GZlhWN1pKZjhMYndyTjlZcENUV2ZsOEFpbE1PT2dXc0pyUzlUaUVya3FIOTlXN3FKQ3ROaVJZLUtZak9DdTNKTlB2akFUX0Z4QnJ6UUpuRUVTd3RnQm5jVHdjNEhBOXhLWDFuUU0yUUxMV0JaVTdaN3hHN1k4ekFmVDl4Q2ZteEVIU3lORkdtbVltanc?oc=5",
         "sentiment": "neutral"
-      },
-      {
-        "headline": "Ambala (SC) election results 2024 live updates: Congress's Varun Chaudhary wins from Ambala - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNGJOeGlCeTBzWHlmLUhUeDdTUjNfbWRNbmo3U0pTMThUU0l0ZWpnM1kzeUJ0TF9BdXdMdmJfUGZXNjVGQjV2V1VqVVVDVUtNMU9NM3Q1MzRycjNyWXA4Ykkyd0hJdTN0Tkd2WXNVNndYRUtoczEyRkVKdi1JQmRjUFBHNDlObTRsSHJ4UlpkZTFxeXA0V0N6R1NiUk9MaXFDQkFoSEVyTHhGZ0k1cjgxZ3d4NEhaVmE3aWdLWXlPTTQyaUs2QzFlbkd1VlBxWTU0U2IzY3dlbmFwVl9EemxsUmNZZ3Y0MlVTNTRaUW5ZTGhiQdIB9wFBVV95cUxQdEZGV05jaHFsTDktTDFFd3kyQkNxZlhOdVN2TmRrQjZ4OVdlU1R4VmRnY1laZVA2eWktR3NFMzFIdFdReUNGVWlmYi1VMGx2WjJabHhOeE9TUEtraV8takstckJxc3duVU83VG5RUUV5NFQ0QmNfWEt4Y3RUdjNaeGdyQ25GZzJfMEloWjh2OTBqeVZ5dnJoRTczYjJyOXA1UGpfM2ZrSFJwbVZTRTU3azFHeWNGVGdQb3hmNE0zRncxZWlRendNTUdIMk9xTG4zNkhxUG02SDdyQTY0b1dQelVxQ0NLWmRnY3dEU1BSQnlEVmxTZ2RV?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Ambala lok sabha election results 2024: Ambala Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjcyODdkMXdLemN6TkZTaDd1MGlBX2pBV1BIay0zdm9zcUNhTEZnVDZYekdhNlJUUzY5VjdxUkhEMUxyMnhISWtBWjRjNWpoczM2QVhEMnN5TlBmSm9fUHM3aDVUU1UtLVVnb0tqZlZmWmdTa01zRl9Zb3FzUGUyRXFzYkI3T05mREQwREh3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP’s ‘jumlas’ will not work anymore in Har: Ambala MP - The Hans India",
-        "source": "The Hans India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXAxaW52SFhuYkJGSlJKWDI3eHg2T2VkcHNCMlBXZDRCVkJGckhDazg5OVdRUDRGQS01aGl4bG1EbXBSRGJQbWp4RnhMbERrSlRLcFlidEFSaDRGaDhhRlRxVDA0Y1hELXpPTHo4WjVieGJmbDhPY09WOHY0bnVEa1RGZW5xQkIyU3ZrMnFQWl9lZEJBVHd3cW1UMnBFVDc1U2fSAacBQVVfeXFMUC00ZFExbUJzSUFaZFpOQmFIQUhZQVc2UWV0M1B0Szk2RE1qVjZ6VlprR3E3Q08yOFpTQjUzelNWN3RodWhuYmVXZURnZ2tnUzZ6U2w3YjhRSGo3Q2djbDBNVXNEdFc4Qllfa2Fma1dESEtyUnB1Wi1NT2lOejUxc3RIS2dvSkh6Y3V1R3F0VU94VHJkYVlMTlItQkI1ZG0tcXprYkt1T2s?oc=5",
-        "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 18,
+    "starred_questions": 5,
+    "unstarred_questions": 13,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 34.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

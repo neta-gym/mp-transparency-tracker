@@ -17,58 +17,72 @@
     "photo_url": "/mp-photos/5824.jpg"
   },
   "criminal_record": {
-    "total_cases": 6,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 6,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 102619562.0,
-    "liabilities": 11462479.0,
-    "net_worth": 91157083.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 58.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
+    "entitled": null,
+    "released": null,
     "sanctioned": null,
     "expended": null,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:20:43.352050Z",
-        "notes": "Official eSAKSHI REST API — Works: 0 recommended, 0 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:40:50.755778Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:37:11.049194Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:37:11.047148Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
     "works_count": 0,
-    "esakshi_coverage_start": "2023-04-01",
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
     "utilization_rate": null
   },
   "parliament_activity": {
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:04.270413Z",
+        "fetched_at": "2026-09-02T14:37:11.046289Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Pataliputra election results 2024 live updates: RJD's Misha Bharti wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUXI3MjJ2czZwTDNJNHlrYWVRM1hINUI2VnJiNlQ2TFFZRFh4d2dNc3NyekloRGFJaVFFQ1hLME1kWkV1VUx1VnYwSmZKbjhnZl9jekx4U3F1WWU5YXA5N3JpbHd2MEJzbEhDOFpQRlhqdlNYbDl3RVhteXdQVVRPWk53TTRZRWs4TV9ocmpsYUloc2UwdkxPXzc4dER5Z29JeGJRLThyOW5aX0N3aENWX1ZrQjg4RVZsemJuQlEtZU1WWVZUdWYzeDEydk5iRE5DWGktUUpvZENnaDJIN3NrX0s0c01zN1BweDRCSG5mdU9qS1UxNU1TOU80TTVkS2VGYlpZTVVWbEV3NFhPVUdOU01FQ3o1am1pemswbGNWNy1BLVXSAagCQVVfeXFMTXNoNURUSDhCUUx2NUpFTm5aMVJJaUtncVRqa1FhWWZrODBGcVRjbFQ3VHdiaDJEcTZGRVlTczZ6bW5SVE1yUWItbkt1Ti10Y1d6TkRDR252aFJxY29jWHlQUXBwOFJLVTBEVWZyRF9iTlhLTU9XWVVWek1lRmY3UXdjcEVwNU9Zc2U2RHBTNUN5cGd1QnJOOHdvYzAxTV8zRHNqR2d4aGVoRlowbXlnV29SMjhoWmFyVTJOZGZfSFFJWHdKNE1KTUNXTlR1Nktnd05BSVRIM3FSdWd6SDl4TFpaZEd5QnZJTU91bGRJTFJwaG1mY0VCQUZERm5oZzZWSFB2RzJLUG1Ld2V4Z2Y4QnlfcUlZWXcxOTRTZ3pySnFNUzVnNEx5d3k?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bihar's Patliputra Lok Sabha seat: RJD's Misa Bharti leading with 3,04,635 | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUkZmcWF5TG9rZmo0bVhPRnJoX2tGT1RxQzBQN1U5emkwM2Y2c1ppRGFyTXRJWHU2YVhTc2Y1M3B1S1VJSGpMcU1BZHZrRndfa0NxbFYwVDJGVDA5M1JRN215cFRjZEdhTHUzX0ZEQ3Q3ZTJlbG9VQVgteHlTSWNpdVUzT0pFWkdnanI0dDR4NHNrX0xUS1dQQktFWUZjVm8zd0p4V1VWVWZiYjQ0MUZGYzFWTGVqMXFBTkpBeENvVk9EdlJhdmpybnFxZ3BnLTAxcUhUZ2NOZVVENUxkOTktbnU5NEVKa25GRzlDejdoSDd0UmRtbjlQSHljcFjSAYICQVVfeXFMUDRsTlEyLWQ5bVQ1UnlvQzJOTGUzUXlRRUZKTEN1NUFBcFdKd0lsZmVybFZvcGt0ZTRuYkRFV2VPOXg2alJPc1VoM3o0N2c4cEFkc3p3ajZCdTVsZEZ3alY0c0xCR25GcWdlZThPR1ZaalBJV2VGb0EzNFZHbTF3VTR4TWVpeUN3N2F2MnBQSGRjM1dJR1BPR3hNVVhJOEtBdElQTEFMRFJYeXhtTUgzMF9IVTE1QTVGdmwyQ01XSlIyWTdGSWlmdVphSTJXUUdCbFU0eDBUQnhtUXFzZ21vNUNpczBsaWpvb2VPajVQUXVNMlBweUcwWU9HdEVoUmJqYXpR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "In Pataliputra Lok Sabha Seat, Misa Bharti Fights Father's Former Aide - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR1c5RHpWOGY0dkk5VUFDZWFmS1I1TmdXSFRfMkhwam1wNUJ1T3A2VEQ2emczVFBITFo5NmhrcDFWSEgtVWEwUGJoRE9SNGFBVl9xbjh6ZXdSQmRZdzRJbWdEbjFPYzA3Nk5rTkFuR3M5ZEljMHVlLVVoM2xYNHhCTXhWY2FxYUxYVEY0SVNkeDZQNVE4ajhtVExMdjMwVDQ4VzZLR1J2Zi1ZX2V6RWNKOTRFRFNCX2ZMNlhRYw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Fourth time the charm? Why Yadav stronghold Pataliputra keeps eluding Lalu & clan - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT045dTVLaVROaG1peWZlYmhvODhQbU9meVl3RFhRNDY0SjgyU1UzaEtpSmdmQzRPcmJKMjhabHh6YWp1UnI5Ri1zcmI5T0NvRGFVMzB4alVPcUpYdVo2aFVjbWUyR0RuUmdES0lfQTZ4aURCbDJWek5xSXcyN3JqNXh5R1A2UjIwcDhleVNsb2pEWlNGSzc0aUNaVUhzRDdzazVnV3dWbDVJVzhQUFZpX2gwSE9XM3Fl0gG-AUFVX3lxTE1jMlJ6WDdPaVRENTg2MlVhZXVvcjdoelZUUUV4dXpjMml3OV9tWXlhd3NjNnZnamdzZm40WmtRNnpGRDl4TWJHX0dBZkc1YkVDR2U2VmpzQnRXNF9QVzB6aVNDOW1iRmFySEdIVTJnZGpzc3BNNjlUM19oRFhvYnR4M2NfUGVWbEt4MUZ2djNPZm9TWWVzY0xTS1pSRVdOVlhuU1lpUW9CcWpHOE8xeTlyRm51N2NLOUtWVHNldXc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Misha Bharti , RJD candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWnBRdm9BN3RBYXZaYWRmQlBGT1QxV1dIVzhzNWJ0NHdPc21oUlJMWGI1dHBpV0UtOHBoNmN4UkxjVlE4d2RRelpZUzhPV2RZQkx2OGxyZTA1OFNyemNtTTNmSkszWW1naEpCaGhKZ3VUUmxGVkMzcFB4ZXk0cksxbktpRQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:08.248048Z",
+  "collected_at": "2026-09-02T14:40:50.756652Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.241390Z",
+        "fetched_at": "2026-09-02T18:38:04.695197Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.241399Z",
+        "fetched_at": "2026-09-02T18:38:04.695210Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.241403Z",
+        "fetched_at": "2026-09-02T18:38:04.695216Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.241407Z",
+        "fetched_at": "2026-09-02T18:38:04.695221Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.241412Z",
+        "fetched_at": "2026-09-02T18:38:04.695227Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.241417Z",
+        "fetched_at": "2026-09-02T18:38:04.695232Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.241420Z",
+        "fetched_at": "2026-09-02T18:38:04.695237Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.241425Z",
+        "fetched_at": "2026-09-02T18:38:04.695241Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -269,19 +325,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Tejashwi Yadav vs Misa Bharti? RJD national executive meeting on Jan 25; to decide 'working president' - The Times of India",
+        "headline": "Pataliputra election results 2024 live updates: RJD's Misha Bharti wins - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaHFvbUREMWVZdkM1XzFNa3dXMVdvTlg2WW9EZG9yZnpwTllKdUVKdVlMS1dORHJ2V0ZqVWlCaGgwV3lLSnBiSl8td09xRHd2dlE2NkVFODluVTZSeEw5SnhhZEs4TkpaNmZzYlFPblhNYTgtTkp0Y1oweTFZRzhaZDRmbHN2TjkwbUlLQTg1Ym9saTVfUEpTTUdTdEE2SjFfTzJ0a09tMmpJeXhNSFgxV2FXRnlDUlI0VzlKMXd6aG5nVUFZLTJtZ29xbm1zY3VheG1XS09laXJBWENkdjNNekxFVkNXM21jYkRBS1dlNU9Vd9IB9wFBVV95cUxQVENIUGdzWmpFSDFWSUhlZE53YVpzRmNaZTVjZjBuSjBDaXVsME1UbjhXWXlJaWl0dG9tVFRYd3V5ZjkyaFhJek54Z0xmYVFva0lrbng0N25uQUFEUC1PS19hbGQwZDBfYURWbTN5WkNrajQ1QTAzalVtMTBEc0JmRVZnSjRLajJZWDROQWh1emV0djZ2UGZqemRpSWZlQ2dMYThzVTliTnhjTlJRYmoyaUR0dXZoYXJMTjlKZXVwU3VVNFpGcmdISmVXUXVDaDhvVnd1d2Q4QzYxSHZ1SGpUYU0wWmViODYydXNJMDBoS0NLNmc3bVJR?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Land for job case to be heard daily from March: Court exempts Lalu, Rabri from appearance; Misa Bharti and ... - Bhaskar English",
-        "source": "Bhaskar English",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNVVldGtpaXE5Z01BV0cwcTl6TmpjWFRycFlJNnQtYVRaSDJSY2ZQbXd2dG9aUDBZZ0tjOEJEb0N6SFh0OHpjSzRoSFJSOWQ2RTdORUIyNmNnbk1EWmRsNTBjREhscXBwbnFhWVlEOHZ3NE4wNDc2b0NrN0tZX0I4S3ZwZWtWVHlXbUhKRXJJRkJtT3Fma1g0Rm9nZ2JxTUU1bzd5cXNGTUJvYnFUVEplWC1xTE1wdUZmTEZ1WjNjSDFEcVpZQ0dfYmVHdmxMeE9OV0Z2WXAwUXfSAd4BQVVfeXFMT2w4VEU1OXRJTFE5a29iNVR2cnRuaC1xWVI5eW80Sk1jWnpRNVBHdXpLdUVISlhhY0RreUxhRTNUdlpQMEwydHN2WWtVOTdUdFBOc2NpbV9jMkZvOEllOW1qTVV6Um1mUHVUak9MQWVOb2VXNDNkUk5EYlk1QjBpTHRwMjRiRVJKTnBQOUt0MEFIcWRpT0dCRWh6UEstbkZnclV1T3phN0xhdjFMeThTOU9vZ0xQbUc0NHFRaFNSRDU1WEtIRkNTZ2hBWllmNUZSTVhXSDkwdDJNMWdRSlVn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUXI3MjJ2czZwTDNJNHlrYWVRM1hINUI2VnJiNlQ2TFFZRFh4d2dNc3NyekloRGFJaVFFQ1hLME1kWkV1VUx1VnYwSmZKbjhnZl9jekx4U3F1WWU5YXA5N3JpbHd2MEJzbEhDOFpQRlhqdlNYbDl3RVhteXdQVVRPWk53TTRZRWs4TV9ocmpsYUloc2UwdkxPXzc4dER5Z29JeGJRLThyOW5aX0N3aENWX1ZrQjg4RVZsemJuQlEtZU1WWVZUdWYzeDEydk5iRE5DWGktUUpvZENnaDJIN3NrX0s0c01zN1BweDRCSG5mdU9qS1UxNU1TOU80TTVkS2VGYlpZTVVWbEV3NFhPVUdOU01FQ3o1am1pemswbGNWNy1BLVXSAagCQVVfeXFMTXNoNURUSDhCUUx2NUpFTm5aMVJJaUtncVRqa1FhWWZrODBGcVRjbFQ3VHdiaDJEcTZGRVlTczZ6bW5SVE1yUWItbkt1Ti10Y1d6TkRDR252aFJxY29jWHlQUXBwOFJLVTBEVWZyRF9iTlhLTU9XWVVWek1lRmY3UXdjcEVwNU9Zc2U2RHBTNUN5cGd1QnJOOHdvYzAxTV8zRHNqR2d4aGVoRlowbXlnV29SMjhoWmFyVTJOZGZfSFFJWHdKNE1KTUNXTlR1Nktnd05BSVRIM3FSdWd6SDl4TFpaZEd5QnZJTU91bGRJTFJwaG1mY0VCQUZERm5oZzZWSFB2RzJLUG1Ld2V4Z2Y4QnlfcUlZWXcxOTRTZ3pySnFNUzVnNEx5d3k?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -293,19 +341,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Pataliputra lok sabha election results 2024: Pataliputra Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "In Pataliputra Lok Sabha Seat, Misa Bharti Fights Father's Former Aide - NDTV",
+        "source": "NDTV",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0w5OHlNLXVXU0NtZWxnYm81cHdMVjdLcVRaNFhRS0N5TkU5VFVYd3pPNlVUWTVXdUNyY21nV2g1bUJSM0hHeGt2dGRLdlR4UU45LXhFb0hfazZveGFVOU9nYkFIcFMyU1h4NWdFTExpN0l5WTJMX0Nkd1ZOR2toRy1Xc3prM0hTYmJzb2NOdzM1dw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR1c5RHpWOGY0dkk5VUFDZWFmS1I1TmdXSFRfMkhwam1wNUJ1T3A2VEQ2emczVFBITFo5NmhrcDFWSEgtVWEwUGJoRE9SNGFBVl9xbjh6ZXdSQmRZdzRJbWdEbjFPYzA3Nk5rTkFuR3M5ZEljMHVlLVVoM2xYNHhCTXhWY2FxYUxYVEY0SVNkeDZQNVE4ajhtVExMdjMwVDQ4VzZLR1J2Zi1ZX2V6RWNKOTRFRFNCX2ZMNlhRYw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Pataliputra election results 2024 live updates: RJD's Misha Bharti wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "Fourth time the charm? Why Yadav stronghold Pataliputra keeps eluding Lalu & clan - ThePrint",
+        "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUXI3MjJ2czZwTDNJNHlrYWVRM1hINUI2VnJiNlQ2TFFZRFh4d2dNc3NyekloRGFJaVFFQ1hLME1kWkV1VUx1VnYwSmZKbjhnZl9jekx4U3F1WWU5YXA5N3JpbHd2MEJzbEhDOFpQRlhqdlNYbDl3RVhteXdQVVRPWk53TTRZRWs4TV9ocmpsYUloc2UwdkxPXzc4dER5Z29JeGJRLThyOW5aX0N3aENWX1ZrQjg4RVZsemJuQlEtZU1WWVZUdWYzeDEydk5iRE5DWGktUUpvZENnaDJIN3NrX0s0c01zN1BweDRCSG5mdU9qS1UxNU1TOU80TTVkS2VGYlpZTVVWbEV3NFhPVUdOU01FQ3o1am1pemswbGNWNy1BLVXSAagCQVVfeXFMTXNoNURUSDhCUUx2NUpFTm5aMVJJaUtncVRqa1FhWWZrODBGcVRjbFQ3VHdiaDJEcTZGRVlTczZ6bW5SVE1yUWItbkt1Ti10Y1d6TkRDR252aFJxY29jWHlQUXBwOFJLVTBEVWZyRF9iTlhLTU9XWVVWek1lRmY3UXdjcEVwNU9Zc2U2RHBTNUN5cGd1QnJOOHdvYzAxTV8zRHNqR2d4aGVoRlowbXlnV29SMjhoWmFyVTJOZGZfSFFJWHdKNE1KTUNXTlR1Nktnd05BSVRIM3FSdWd6SDl4TFpaZEd5QnZJTU91bGRJTFJwaG1mY0VCQUZERm5oZzZWSFB2RzJLUG1Ld2V4Z2Y4QnlfcUlZWXcxOTRTZ3pySnFNUzVnNEx5d3k?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT045dTVLaVROaG1peWZlYmhvODhQbU9meVl3RFhRNDY0SjgyU1UzaEtpSmdmQzRPcmJKMjhabHh6YWp1UnI5Ri1zcmI5T0NvRGFVMzB4alVPcUpYdVo2aFVjbWUyR0RuUmdES0lfQTZ4aURCbDJWek5xSXcyN3JqNXh5R1A2UjIwcDhleVNsb2pEWlNGSzc0aUNaVUhzRDdzazVnV3dWbDVJVzhQUFZpX2gwSE9XM3Fl0gG-AUFVX3lxTE1jMlJ6WDdPaVRENTg2MlVhZXVvcjdoelZUUUV4dXpjMml3OV9tWXlhd3NjNnZnamdzZm40WmtRNnpGRDl4TWJHX0dBZkc1YkVDR2U2VmpzQnRXNF9QVzB6aVNDOW1iRmFySEdIVTJnZGpzc3BNNjlUM19oRFhvYnR4M2NfUGVWbEt4MUZ2djNPZm9TWWVzY0xTS1pSRVdOVlhuU1lpUW9CcWpHOE8xeTlyRm51N2NLOUtWVHNldXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Misha Bharti , RJD candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWnBRdm9BN3RBYXZaYWRmQlBGT1QxV1dIVzhzNWJ0NHdPc21oUlJMWGI1dHBpV0UtOHBoNmN4UkxjVlE4d2RRelpZUzhPV2RZQkx2OGxyZTA1OFNyemNtTTNmSkszWW1naEpCaGhKZ3VUUmxGVkMzcFB4ZXk0cksxbktpRQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -355,17 +411,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 60.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

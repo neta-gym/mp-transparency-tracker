@@ -3,17 +3,17 @@
     "name": "Bhausaheb Rajaram Wakchaure",
     "constituency": "Shirdi",
     "state": "maharashtra",
-    "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-    "myneta_candidate_id": 5331,
+    "party": "Shiv Sena",
+    "myneta_candidate_id": null,
     "slug": "bhausaheb-rajaram-wakchaure",
     "house": "lok_sabha",
     "sansad_member_id": 4385,
     "profile_url": null,
     "canonical_name": "Bhausaheb Rajaram Wakchaure",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 74,
+    "age": null,
     "photo_url": "/mp-photos/4385.jpg"
   },
   "findings": {
@@ -21,17 +21,17 @@
       "name": "Bhausaheb Rajaram Wakchaure",
       "constituency": "Shirdi",
       "state": "maharashtra",
-      "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-      "myneta_candidate_id": 5331,
+      "party": "Shiv Sena",
+      "myneta_candidate_id": null,
       "slug": "bhausaheb-rajaram-wakchaure",
       "house": "lok_sabha",
       "sansad_member_id": 4385,
       "profile_url": null,
       "canonical_name": "Bhausaheb Rajaram Wakchaure",
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 74,
+      "age": null,
       "photo_url": "/mp-photos/4385.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5331",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.626220Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:35:12.638960Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 97519221.0,
-      "liabilities": 2432000.0,
-      "net_worth": 95087221.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5331",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.626233Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 57.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 5.64,
-      "expended": 0.71,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:30:00.242279Z",
-          "notes": "Official eSAKSHI REST API — Works: 136 recommended, 84 sanctioned, 2 completed"
+          "fetched_at": "2026-09-02T15:36:56.670423Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:13.060261Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:33:13.057366Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 136,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 4.829931972789116
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:38:52.698515Z",
+          "fetched_at": "2026-09-02T15:33:13.056175Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Data reveals funds allotted to defected Shiv Sena MPs remained unutilised - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVF3aVdQMXN3Sk54OGJMdE9IQUJHM3pDdFRFYVpJaFl4cGNKM1RHRThkczNmTkpXaTBLYkZmUkwtTjhIZzktN2JiMDU3b1d5Tmk3Q0RnN0NuU2lMQmdYdDdURDVFUzRCNXFmZ1BDdHgxREdBdU50eERjT0JBaWE3cGVPczZ0Z3c2bmZVc18tbWw5S0g5clFMR3I4T3pkSjZYaURsM1hzcmlZRVgtaVg1ZUhFT3Z3Z3FQa2RIVTNza3FBWS0wUGZ3SERwMGMybmZFTUpV0gHgAUFVX3lxTFBCQUpGQUNROGt3c25KcmY0SWlTVTJLWnJxZ2JjUGVxeVhZYmIzeXMwOEtuZFpoOFY5N0UweWlacDdYSERGZnJqX19hR3BUS2piZzhEMXZSUEVKNmlQZXlRSU5PQjdPemlWdWJKSjQwQ3A4VW1OazRlYWlTd0VZQ1RRcGhzb1M4VnczRUZ3RkJPeUg2UG1hbDhGVWY3VVZZTkxQaDZ2YVc2VzVNOWdpTEtidjdJUU1seTFZdkJIZGpfSTZzYVdSVHBBX1RCNzVTcWVsdVphd3JFVTAxdkNEcWVR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Six Shiv Sena (UBT) MPs Seek Merger With Eknath Shinde Faction Amid Political Turmoil in Maharashtra - Daily Pioneer",
+        "source": "Daily Pioneer",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZmxfVkxwRmRVbDhhckdjQjBpRS0xNG1VLWVLYmVnNHlpbGRvTFBoSE5XblRfcVF4Q3dMSGZzSExNM1diNHpfSzVCTzBEa2RRY3V5SUI2REo2ZC0tRjRaNTlhaUJkQ0E5?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "It's Shiv Sena (UBT) vs Shiv Sena in Shirdi; Bhausaheb Wakchaure to contest against two-term MP Sadashiv Lokhande - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbTkxaVFycjY4RjFEazRUWFd4aThrTkw3SjlTeHhfU2tMR1lzUHlpRnZ5TDY1S2c2MkRTNkpiNkp5bzJCUDhHMDhyRDBVU0dhTnBLQm9Bb0w2Zk5Fb1FSdTdfYlNQM3R3d3o5aEJtb1pTb2YzcjhRcTdsWC1Mblk1bWg5TV9GcHVYZTJIV3hfbkUwVGNmUk9pSmRqcktJODNaRFlZWHk0S1RFdl9GUTZ3RFdpd1VwVGhWT3hBWkVFSFVvVWRRYzQ1NE51TE1lNjByMTgwZGFEYTNmdENJMXJHbXREVEw1NGlrVkVvR0VBVXU0MlZXVDBjMmFUZlVfclJoNjZB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shirdi Lok Sabha election results 2024 live updates: Bhausaheb Rajaram Wakchaure of Shiv Sena (UBT) wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPVE1vcHBLdU5TQ1hULTBHaDMya1ZRZnl3TC1XLS1GQW03ZUFIUUJHeFo1aGwxNjR1XzN4Z2RKR3NVcUdZdmhqSjhjZUxSZURYQzBXdHRNZlR3MzhDVHhFTERiTWZzYnF4QVJfd2M1R1B1WVc1Y0RGcGVxZFdJN0FHaEl6VW9ZRm93Rm5ieVhaQ2NIdUJmTkNFbTV6S241UXY0eTY4Qkl0TFFRUUVLWV96LUh2akVSV2tvQlg0V1NOR3NmRXJ2VmI2YmREYzlXZUc1LTc5TVJXN19rR011alV3ZzN6dmoxbzRMLTdlWnR0WDhYXzFyS2RhZHZ0Z3VNU1o5ZHdPMnNOMjgyV1k4M0NhcXh3LWloY1dpc3Y1Q0xYMWhoM0x2bVZmdnljckJPakhyWmlYQl9xdFRWVG02eUMtOGdvbWtlWjhUa1VpX9IB0gJBVV95cUxQemlLMVo3Vk5kVWg2R3QzVVRvVkJjVXluUWxNczFDZ2ZBWC1TVV9mbW5obmZfaFhHQ1owai1KUkxzeDFlRmVLRFBvMVpXS3YweXlIeEpLNmh2ME5QSU8wTWpNc0FMUkxpMXFRREJZdUNYS3JUX3hPNmFVdGxCWDA0WG9xaC1kTEVYOVVkMVRQNF9mWmNLQXVYNUxabGwtM2hPNDJKTGFDTGtwOGIweEJScFljUzZZNnVocVZ3T2FvMUJaTnY0MTc0OG5Ud2RRY09uTHhsT1NUVW9LUDFfUmZoa190YnF6UHZQM0cyd29tcHdHQm01NUtCb04yWXQ5R2Izc1BYdlFhMjJTR2NLcTVEd3RNSlJ0RzNhWHN1ZWdCNmZISk1NOVFLd1pNWEhRVXZSTlVVYXFNN1lfNTcydnlfQm5UVi1yY2U0SVFOTkZ3SE9LUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "6 Shiv Sena (UBT) rebel MPs join Eknath Shinde's Shiv Sena - WION",
+        "source": "WION",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcEM1bFpqYlo2d1M3d3JOZTJPYXJXRGVBQXFCYTZxcjctVEJrcFlWUVIxZlZMSUc3ZHhXQ1Brc3NNYXFsbzcwZkVydm1aUzlBckZFNnMwQjZfUnVfSVVfd1Bvdi04ek5qbTFZSEJMUE0tM1RWVGU0XzlXbEMydnJWdXRZSzFTb3RNNkhxbHZIQi0xa2JIN3ZNZ2c1bXVSVjkwcjlnbEFwWlDSAa4BQVVfeXFMUFJjTHRLVEVwSUk0elBtdEtVNDd6bEVaVHRyc0VFek9zMEFHeHhQMGtxd0FfZVdhRUxGaXZFR3I3QkNOWmJVSDBwUURaenhuYVppNzBTdVM1Z1dWWmFRb2lkWEl1UjNoOW5za2VHdHFLNEQ0QTkwc0J3dEctTUJvaU51bUh0ZEJjVW56ZnhmMzRmenppZHhaUVI1QjRMemNVb2EwVUhsWVZLSGEzVzZn?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:39:11.150848Z",
+    "collected_at": "2026-09-02T15:36:56.671461Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.325371Z",
+          "fetched_at": "2026-09-02T18:38:07.852013Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.325381Z",
+          "fetched_at": "2026-09-02T18:38:07.852024Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.325386Z",
+          "fetched_at": "2026-09-02T18:38:07.852029Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.325391Z",
+          "fetched_at": "2026-09-02T18:38:07.852035Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.325397Z",
+          "fetched_at": "2026-09-02T18:38:07.852041Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.325402Z",
+          "fetched_at": "2026-09-02T18:38:07.852046Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.325407Z",
+          "fetched_at": "2026-09-02T18:38:07.852050Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -284,11 +329,35 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 9,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
+        {
+          "headline": "Data reveals funds allotted to defected Shiv Sena MPs remained unutilised - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVF3aVdQMXN3Sk54OGJMdE9IQUJHM3pDdFRFYVpJaFl4cGNKM1RHRThkczNmTkpXaTBLYkZmUkwtTjhIZzktN2JiMDU3b1d5Tmk3Q0RnN0NuU2lMQmdYdDdURDVFUzRCNXFmZ1BDdHgxREdBdU50eERjT0JBaWE3cGVPczZ0Z3c2bmZVc18tbWw5S0g5clFMR3I4T3pkSjZYaURsM1hzcmlZRVgtaVg1ZUhFT3Z3Z3FQa2RIVTNza3FBWS0wUGZ3SERwMGMybmZFTUpV0gHgAUFVX3lxTFBCQUpGQUNROGt3c25KcmY0SWlTVTJLWnJxZ2JjUGVxeVhZYmIzeXMwOEtuZFpoOFY5N0UweWlacDdYSERGZnJqX19hR3BUS2piZzhEMXZSUEVKNmlQZXlRSU5PQjdPemlWdWJKSjQwQ3A4VW1OazRlYWlTd0VZQ1RRcGhzb1M4VnczRUZ3RkJPeUg2UG1hbDhGVWY3VVZZTkxQaDZ2YVc2VzVNOWdpTEtidjdJUU1seTFZdkJIZGpfSTZzYVdSVHBBX1RCNzVTcWVsdVphd3JFVTAxdkNEcWVR?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Six Shiv Sena (UBT) MPs Seek Merger With Eknath Shinde Faction Amid Political Turmoil in Maharashtra - Daily Pioneer",
+          "source": "Daily Pioneer",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZmxfVkxwRmRVbDhhckdjQjBpRS0xNG1VLWVLYmVnNHlpbGRvTFBoSE5XblRfcVF4Q3dMSGZzSExNM1diNHpfSzVCTzBEa2RRY3V5SUI2REo2ZC0tRjRaNTlhaUJkQ0E5?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "It's Shiv Sena (UBT) vs Shiv Sena in Shirdi; Bhausaheb Wakchaure to contest against two-term MP Sadashiv Lokhande - aninews.in",
+          "source": "aninews.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbTkxaVFycjY4RjFEazRUWFd4aThrTkw3SjlTeHhfU2tMR1lzUHlpRnZ5TDY1S2c2MkRTNkpiNkp5bzJCUDhHMDhyRDBVU0dhTnBLQm9Bb0w2Zk5Fb1FSdTdfYlNQM3R3d3o5aEJtb1pTb2YzcjhRcTdsWC1Mblk1bWg5TV9GcHVYZTJIV3hfbkUwVGNmUk9pSmRqcktJODNaRFlZWHk0S1RFdl9GUTZ3RFdpd1VwVGhWT3hBWkVFSFVvVWRRYzQ1NE51TE1lNjByMTgwZGFEYTNmdENJMXJHbXREVEw1NGlrVkVvR0VBVXU0MlZXVDBjMmFUZlVfclJoNjZB?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Shirdi Lok Sabha election results 2024 live updates: Bhausaheb Rajaram Wakchaure of Shiv Sena (UBT) wins - The Times of India",
           "source": "The Times of India",
@@ -298,39 +367,15 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "It's Shiv Sena (UBT) vs Shiv Sena in Shirdi; Bhausaheb Wakchaure to contest against two-term MP Sadashiv Lokhande - ANI News",
-          "source": "ANI News",
+          "headline": "6 Shiv Sena (UBT) rebel MPs join Eknath Shinde's Shiv Sena - WION",
+          "source": "WION",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbTkxaVFycjY4RjFEazRUWFd4aThrTkw3SjlTeHhfU2tMR1lzUHlpRnZ5TDY1S2c2MkRTNkpiNkp5bzJCUDhHMDhyRDBVU0dhTnBLQm9Bb0w2Zk5Fb1FSdTdfYlNQM3R3d3o5aEJtb1pTb2YzcjhRcTdsWC1Mblk1bWg5TV9GcHVYZTJIV3hfbkUwVGNmUk9pSmRqcktJODNaRFlZWHk0S1RFdl9GUTZ3RFdpd1VwVGhWT3hBWkVFSFVvVWRRYzQ1NE51TE1lNjByMTgwZGFEYTNmdENJMXJHbXREVEw1NGlrVkVvR0VBVXU0MlZXVDBjMmFUZlVfclJoNjZB?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Shirdi lok sabha election results 2024: Shirdi Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVJ0QmdCY3NBa1g1ZTJ1eVhTN18xMURDQk9QNGRaTlUxdlZ2X19IeDdwS2pKOE5nS0otZWZEWThjeFVBcVhYSzY0aGFTNWdVcjRTMjBfSWhpSTN4TUdTV1MxQUVNRl9QQ3JGWXZIRHdvbDNTSUNhXzVKM0J0R0JoM1hnaF9RVmtfaVRkRDBGV2NOYzFp?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Shirdi Election Result 2024 LIVE Updates Highlights: Bhausaheb Rajaram Wakchaure of SSUBT Wins - News18",
-          "source": "News18",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM19RdGl1RmEzTkRiRkNwYTFOWmJKVG4yczI0akdEbnExRVdNdlBTSnM4Y25Kc0VYOU9nT2ptZVRwZjlXRU9uajNPSGVkOUJBX0VsY08wZVd6S2pELUx3ek9RYUFlOHNMTDRPSDEydUpRVWRReW52S0tPb0FHWGwyNTFISUtMbXFkNV8xbGZTdUxiVGViRlZhYTVfOFFiN1JqYUhLbkF4cGFkUmNnejFhX1J4WDU3RFNCa2FTRUV6X1NWei1tUFRmbXRuLTBhcl9MX2tUdkdPLUU2R09ObnhOTNIB5gFBVV95cUxNVEpmZHZ0ellQRkJ5QXBqOHpXWUNFd09GUU9jN2ZsSTZ1ckhEVUg5YkRlYzd1NDNYNUtEQlR2RGYzREw4RHcyRjcyNWtiQUtOQ2ZNNWZyQ3NPZkFLenNPV2MwTWp4VDNXUTkyYm5aS2FQcV9XNnBTeXN2Yk1HSHVIMnktVS1VMGFDT3RBUFBNU3AzVzh2QXVRcmdtOWpPSDB6NF9IN2hzUXNUZkUzS201bFJ6TlZMbnJDdG50bFZCNkhzbFFZekl6ajI1aEpzYlhvQ2Z3SlI4bnp0WFdKeS1NTTFOWDZ3dw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Bhausaheb Rajaram Wakchaure - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVVFQy1YQldsdTZwb1ZCakpIRlZ6MVp1SWZPemRsQ1M0N2I5Ukd2WDJSb1BtQ1dTZUJIcU1DRy1vMGhIc1dZUUo2T3FBeDJycGhYRWtNbUFibFNGdHpDZ2NyUVRlNUVQekVWY0NhRGE2RlNIaGVyRjctNTNuczNXQzFCR0Fvb013WG44bHNqQnZyaTkwYldycC1Nc1c0V0dMZkktUlZ4VF94b2FHRjBMbVFLVTlLNDFUb3BZMFBPckY5UzFjU0ZEdWU2SQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcEM1bFpqYlo2d1M3d3JOZTJPYXJXRGVBQXFCYTZxcjctVEJrcFlWUVIxZlZMSUc3ZHhXQ1Brc3NNYXFsbzcwZkVydm1aUzlBckZFNnMwQjZfUnVfSVVfd1Bvdi04ek5qbTFZSEJMUE0tM1RWVGU0XzlXbEMydnJWdXRZSzFTb3RNNkhxbHZIQi0xa2JIN3ZNZ2c1bXVSVjkwcjlnbEFwWlDSAa4BQVVfeXFMUFJjTHRLVEVwSUk0elBtdEtVNDd6bEVaVHRyc0VFek9zMEFHeHhQMGtxd0FfZVdhRUxGaXZFR3I3QkNOWmJVSDBwUURaenhuYVppNzBTdVM1Z1dWWmFRb2lkWEl1UjNoOW5za2VHdHFLNEQ0QTkwc0J3dEctTUJvaU51bUh0ZEJjVW56ZnhmMzRmenppZHhaUVI1QjRMemNVb2EwVUhsWVZLSGEzVzZn?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -360,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 38,
+      "starred_questions": 11,
+      "unstarred_questions": 27,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 73.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.24,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -428,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 97,519,221. MPLADS utilization: 4.8%. Parliament attendance: 85.0%. Questions asked: 38. Debates participated: 3. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.326130Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 38. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.852767Z"
 }

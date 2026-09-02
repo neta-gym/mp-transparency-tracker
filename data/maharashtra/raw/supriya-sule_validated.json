@@ -4,16 +4,16 @@
     "constituency": "Baramati",
     "state": "maharashtra",
     "party": "Nationalist Congress Party - Sharadchandra Pawar",
-    "myneta_candidate_id": 4316,
+    "myneta_candidate_id": null,
     "slug": "supriya-sule",
     "house": "lok_sabha",
     "sansad_member_id": 4392,
     "profile_url": null,
     "canonical_name": "Supriya Sule",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/4392.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Baramati",
       "state": "maharashtra",
       "party": "Nationalist Congress Party - Sharadchandra Pawar",
-      "myneta_candidate_id": 4316,
+      "myneta_candidate_id": null,
       "slug": "supriya-sule",
       "house": "lok_sabha",
       "sansad_member_id": 4392,
       "profile_url": null,
       "canonical_name": "Supriya Sule",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/4392.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:26.204495Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 1665186348.0,
-      "liabilities": 5500000.0,
-      "net_worth": 1659686348.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4316",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.405321Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 95.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 1.23,
-      "expended": 1.01,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:31:28.500285Z",
-          "notes": "Official eSAKSHI REST API — Works: 85 recommended, 16 sanctioned, 4 completed"
+          "fetched_at": "2026-09-02T15:29:11.672796Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:25:28.043858Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:25:28.040779Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 85,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 6.870748299319729
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:37:18.020946Z",
+          "fetched_at": "2026-09-02T15:25:28.039664Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "NCP single, united entity, should be returned to Sharad Pawar: Supriya Sule - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVktJcTBhV05tWDNJbGRlZW1mSU45TDV3LTZkcEhtQ3IzWWVibExmSVAyc0k3ZzVLbmFGQWswUnNvTGF3Njh4cjJ5cWFsZzJCSmJMMWhVSWhaQkQ0YXJYOUFsV3dadkFhOXZ3MXhQZzNISVFwcERJaXpmR2tnUEJMZ0RUdjY4eVJuZGh1YXgxRnBvb0FoWUZmTVZ2Ym9pdFQ1dElmLUwtcEhXV01CT01Cd1UweW8wdzVrZXfSAcABQVVfeXFMTlkyMjhEUkZPQkF2UkdPUEpJRkE0VUR1UkZNOVBRYlROcU01dDR1ZnZLUkxObmdPMktjOVBLTjhvM1A5V1BkemFyTHlXS0F6QXhjbno0eHRucHI3cEpkMVNoYkl5bWRkNmZTQ0RDQUV5N3NoTFl6UG1ZVmJiWWFjaGNFWHViamNfbW1WY0dKY0hRckhCMWR0SlZvd1JZT1N0RUtVNUpuWkdmblJfWTRjRUdzX1Vkd1c1dGV5T0JrODBE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Supriya Sule seeks SIT probe into exam irregularities, calls for education reforms - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmFuRXhBQ0ZLY0lFUnRnckx3bWthVWZwX2JSQ19aTDdZeGVtclJYVVp4bjZOZ0ItZzA0cjE4LVk2NzVkRlJieHhSQlZQTUlvN1hOamdUNEpDRzBPa2RLQXBqTXBMUEdJZHZFNFF3eTZZX0VDMXVWY2NONHNCclE1d3RxdHd1SXYxTm8wSGVfOE9IWlR1MVRNZTZROTg5TE5WR1dxc0d0b1dWOU5PU3VUTl9QZG80Z0wxZ1Q3b0NyeHJ5dUd0VVViLVFMWkHSAdoBQVVfeXFMT3plTm91cm9CU19wRXdYd1U1UjZxSjljdjF4LVg3QjhTVFM2cGdCc0I1cC1sYXlMYk9kX19rdkdjOVB0NVdmOW0zLUwtMUpfRk9CemhHWjdpZFJZS0hFVThReklpMzdLSUEySUlUeFJMNHgzUWltOWFjZkhwcmtoMTNTMGVOY1pFak43R19nNVVyTGlDRWxlTU14ZTRrcEhaRVlEUmluNGZGbEtDc2xrUUlyWEJTQ29HVnlncnktY08xU0ZuQlJNQm1ZcDc4RklGOURIbXZUVDlMUXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "NCP(SCP) MP Supriya Sule casts her vote in Baramati - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX0U3REt3aVVrMTlWbUlLejgtOUIwVndqNjFCNlZRdmVDYjBaMDQwWDNlWExzdnczaVN5c3lxODQzN29PYW5nY1l1c1BlbTdjYmJ1SFRIeTFUdVNVcG1HSVlwSTRSMkxhQ0pacDl0aWlHT011MU4zTXlCMndreDlJdEtSanJRMnVJUUxoS3pZYjUzQjhJZTgyenlfUU9DRkE4RGVYWnJ3SlExNmVaeHgwZUpkcw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Supriya Sule, NCP(SP) MPs meet PM Modi, raise Maharashtra issues - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0owdWo5X2JHc0hCZGhDS3ZYZ1hZV0lwcEV2MXpVamVETjl0djk4UXFVUW1qTnByTWQ0MUhfYlpYSHFBQUM3akNENXMyY1ZqanlTRTVlZDVNM08xWl8xd1NuaXFRVGwwZUk4aG1BNThXdWhPQlNFVmJ3WnladmJQZmxGY3JoTGQ4bVQ1MmVSdGJoLUxscEs3ZXlqRTJ1TW10cWhBWElOUnBwNzY4el9MSlBhUU9YSUU2U0psLU9B0gHEAUFVX3lxTE81ZjJnTTNtNFpBYXZsNEJHZGM2QkpEdjFEbHc2SmRMOWRUY0xPbWV1ZlZWeGhNV2h0bjFZSXpVRmhhcS1Dc3lxT1FSVnlTQlpwRmtjLUZkUTVKcnpibjl4a3ljN1dkVjNpM2NOd0pKdTBjMl9BMkJpTmJSY2J2TjQ4RHNzTU55WE5UUkc4WjBfMk5abTJBc1JKeVJwVFBNSE1GcGFhM2J6X2FZSC1fMWx3VUFKN2pTdkEzNDJMZXM3eDdzT2Q?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Supriya Sule attends Sunetra Pawar’s rally in Baramati, extends MVA support - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3lvVms0UnpQYmwybG1EbzZhN1dKNk1kd1BicVFld2IwWTlTUG9BT2lMT0JxWE9YLVJrYU5GSDdMZTV1bGk3ZVZQV25KaVRoeHlIWk1nREZMd0Mxc3NFaE5kMkp3RV9iTGNsVnY1UjB3MFdiZGZwMlhYdTJvYzBfc3lVZ1BKTHJJM29SMEg2cG9BTFlXMlFqci13OEdoX0hsVmJ5cDBNdFhFVzVUWGI0c2pPWkU5UWo4RExrTi1VYlgtWHZJaXJ3?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:37:45.238113Z",
+    "collected_at": "2026-09-02T15:29:11.673946Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.836553Z",
+          "fetched_at": "2026-09-02T18:38:08.369378Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.836565Z",
+          "fetched_at": "2026-09-02T18:38:08.369390Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.836573Z",
+          "fetched_at": "2026-09-02T18:38:08.369395Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.836580Z",
+          "fetched_at": "2026-09-02T18:38:08.369400Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.836588Z",
+          "fetched_at": "2026-09-02T18:38:08.369406Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.836592Z",
+          "fetched_at": "2026-09-02T18:38:08.369411Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.836597Z",
+          "fetched_at": "2026-09-02T18:38:08.369416Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,43 +335,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Will not contest a Pawar family member again, says Baramati MP Supriya Sule - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT1dHZ290Yi1jMXBobzlUUFBPc1p2NXVaaksxcW5ISFQ4ZUx4OWhnbGc0T0VlQU9fLTlqR2xJUG5HT2h5VWFSZlQtLXl4MzNIM1BaeUpsU3hzQ3dUTjJTc1luNEZyREdRNms5TXNHUm1vc3dYdktsaE5rTGJfbENUVmY3M2hmSTZHcjdQMUJkaFhBeGFzemtpSmFpWTEtSkV1SG1sNFIwNGJBcTh5SDk2OWFoWjVsZEg3VVM4V2psTFdQZWxJbF9EVldGamRLdFlMaUR0Q0NNd25kanN2dEY4bNIB5gFBVV95cUxPTGptQ2NHeUt0a01HV0pnTHlqdGlscjhHVURlakFCay1HeFZtc0FfbUNoclJCenN6VkdHeHJUSGctNGd1VUV1QjlBNmxUNHR6UG1DZ2llNUw4TEkwSHpHVVdzbU9iNTZ3U0xpdGJ6bGlNaHhmNTN1U2p6c2k1MGFUTjVzRFdyMjlhdjNtaVhaMUxwTURGbmpOamNQZEgyN1ZvWHl1d0t5dXVsVWo1cjZhYUNtLU4taDc2ZDNwakFUeF93bUhOYlpNNzQ1bWtGWUtGS0x6VUNWSnU1LVoteDNzR296SWJkZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Baramati MP Supriya Sule’s car meets with accident, she escapes unhurt - The Indian Express",
+          "headline": "NCP single, united entity, should be returned to Sharad Pawar: Supriya Sule - The Indian Express",
           "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMUNoN19rb2xKVEJ4YmZBb09CbWk2dUFqeFA3QnE3M2ZsT1Zvdi16dVZCM2JabUNES2RYNnRpWWF5NzJWX1hiVlRqc3A3c002ai1LdmFocXdMSjJuanFsdk5hOWJWR0s0OEgxcVhIRy1Ub2VtYUdpQUVnMlc2Vl91NUZsWDJzMTFidk9VaFJaSmRlU0w0TjBFWDVOMTMzajhCZGFKaEVWQmg4WE5tSVh2ZzBtUkpGS1hXMzZxdWhad1c0UdIByAFBVV95cUxPeHN6d2JteFFBLUhtTVVVR2FqYWhyTHNkbllqTHdXLTE1cUZHc3l2cmQwWXR3UkQxSy1LZE9Wck5ya1VOWG0yS3NUaTR6OVZYcmNqT05jSGxxc1JEX25zSXZIQV9xU1VjM0puXzZ4Ul9yUVA4V0VRcF9tSXhiN2xVV0ZCMDViMVpyUmtHSGQwOHlkWF9YRTFTOWIwNGt6R29mb3RfbkNvVE5DYUZOWnMxSE1pMG1VanpuVktLNkQtM1BiYmtsV2hQNg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVktJcTBhV05tWDNJbGRlZW1mSU45TDV3LTZkcEhtQ3IzWWVibExmSVAyc0k3ZzVLbmFGQWswUnNvTGF3Njh4cjJ5cWFsZzJCSmJMMWhVSWhaQkQ0YXJYOUFsV3dadkFhOXZ3MXhQZzNISVFwcERJaXpmR2tnUEJMZ0RUdjY4eVJuZGh1YXgxRnBvb0FoWUZmTVZ2Ym9pdFQ1dElmLUwtcEhXV01CT01Cd1UweW8wdzVrZXfSAcABQVVfeXFMTlkyMjhEUkZPQkF2UkdPUEpJRkE0VUR1UkZNOVBRYlROcU01dDR1ZnZLUkxObmdPMktjOVBLTjhvM1A5V1BkemFyTHlXS0F6QXhjbno0eHRucHI3cEpkMVNoYkl5bWRkNmZTQ0RDQUV5N3NoTFl6UG1ZVmJiWWFjaGNFWHViamNfbW1WY0dKY0hRckhCMWR0SlZvd1JZT1N0RUtVNUpuWkdmblJfWTRjRUdzX1Vkd1c1dGV5T0JrODBE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Supriya Sule’s son Vijay graduates from NYU; social media reacts with mixed views - Mid-day",
-          "source": "Mid-day",
+          "headline": "Supriya Sule seeks SIT probe into exam irregularities, calls for education reforms - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWmNUZGQ1SlAtXzlyN1VHdktvYWctclFHb3ltUjQ1V1lhYnNTenFxRXNtTXFaRFVRSmwzd1g5ZW9TTHlTekQ3Z2JXQUszbXFDel9sXzZaa0RTLVJrbWx3WkxPXzduTGp5T3hNdUJzN01aa1NsU2ZuVkNRdExoYUp0Nk9rV3ZWc0RxTzBkaUprTll2MGhEUEdYSlhUYkpzS3NfMDRybmlvai14MzRnZWV1N2JQek9fOWVWcnFCUEJGQ29ybG43WU1LOUNPcHlyZFFlblZ0ZzFOMnJSbkE3MnfSAeMBQVVfeXFMT3lWNEx4S29oNXFGZjhwb0FnQUNBNi1vQnhlTjlyOWZFcHl6TmdaaHFiYWgxUS1CY19zOHRLOFpYVlZpWnhGQktWTFphTksxcEFPdS1RQUJzbUtTUXo4ekpWUzNac08wMk80SzRuYWk5Mlc4NXdmSWt5bmpTV0haMDNhZFcwQTljcGtjN3owUERER0FNRS1lQ2xCNDRNZlJxUmZocFhPazBDTkt3Y3lfeVlSRUhFLXI3b19VQWd2NVJjUHNMUU9FYnpCa3dFLUh5NXcxUXg0MVpxNURpakNidnlrVkE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmFuRXhBQ0ZLY0lFUnRnckx3bWthVWZwX2JSQ19aTDdZeGVtclJYVVp4bjZOZ0ItZzA0cjE4LVk2NzVkRlJieHhSQlZQTUlvN1hOamdUNEpDRzBPa2RLQXBqTXBMUEdJZHZFNFF3eTZZX0VDMXVWY2NONHNCclE1d3RxdHd1SXYxTm8wSGVfOE9IWlR1MVRNZTZROTg5TE5WR1dxc0d0b1dWOU5PU3VUTl9QZG80Z0wxZ1Q3b0NyeHJ5dUd0VVViLVFMWkHSAdoBQVVfeXFMT3plTm91cm9CU19wRXdYd1U1UjZxSjljdjF4LVg3QjhTVFM2cGdCc0I1cC1sYXlMYk9kX19rdkdjOVB0NVdmOW0zLUwtMUpfRk9CemhHWjdpZFJZS0hFVThReklpMzdLSUEySUlUeFJMNHgzUWltOWFjZkhwcmtoMTNTMGVOY1pFak43R19nNVVyTGlDRWxlTU14ZTRrcEhaRVlEUmluNGZGbEtDc2xrUUlyWEJTQ29HVnlncnktY08xU0ZuQlJNQm1ZcDc4RklGOURIbXZUVDlMUXc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "\"Tribute To Ajit Pawar\": Sunetra Pawar On Historic Win In Baramati Bypoll Win - NDTV",
-          "source": "NDTV",
+          "headline": "NCP(SCP) MP Supriya Sule casts her vote in Baramati - ANI News",
+          "source": "ANI News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRHJvWi00ZU5ILXBFVmFLalluaFRoMm85d0dpaUNZUC1DNkpnNDJyUm8wOVpTT1hUT0RTOFpLbWJFWG5uWWdDWGFaS2xkbzN4MGxLOUdDNVFtdjBYeXpYSGRGamtwWUJJVXhNWTJUYldvZmJ1RUlnaXc0NXlXc3NFcWVodWtET01nbXBOcU13cXZjdE9kME9ib1ZHbFB3Y2Rkb29MeEVpdEY4WmtYOEVLVG52SG0ybkp0M3NSdUNka0VMWVI3a1JIUTBpZFRidGpTQzQ3NkFDQW1wV2pS0gHkAUFVX3lxTE1mdHRoTkU2U1NOREZhV3dOTlp6dm5NWUdOY1J6OEZ3Qjc3NDJHM2VKNDZ5YXNQZ0ZGb1ZKVlE1dHJkeGlyekZqODdLZWpPSXU5NHFIaFRSN3p1dDZtNXVIVU4yZFVzZm5rUmQ2bEhydnRYNjcyMkd2WTZYT1hXTTM3VV8wTHl5VWtDMXVBaS12TmpkNERNWk9ZRlVKeFIzOUV4WGtXMXN6ZHZPWHh5T2pkUDRvZmMwS3VHV1dfdzVjTkY1VmJnaGFSRHUtY2RwNzg4VUVlYWZoN2owTFJfZFBub05PRg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX0U3REt3aVVrMTlWbUlLejgtOUIwVndqNjFCNlZRdmVDYjBaMDQwWDNlWExzdnczaVN5c3lxODQzN29PYW5nY1l1c1BlbTdjYmJ1SFRIeTFUdVNVcG1HSVlwSTRSMkxhQ0pacDl0aWlHT011MU4zTXlCMndreDlJdEtSanJRMnVJUUxoS3pZYjUzQjhJZTgyenlfUU9DRkE4RGVYWnJ3SlExNmVaeHgwZUpkcw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Will not contest a Pawar family member again, says Baramati MP Supriya Sule - MSN",
-          "source": "MSN",
+          "headline": "Supriya Sule, NCP(SP) MPs meet PM Modi, raise Maharashtra issues - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3JiLXFjQS1OeW5pUHk2akV1Ry1aZFRoTlNwSGZmLUJjeWVMLUpCZGdkdFEwTHgzNHRPRm8xWTlDUEhBVUxwVzlKYUZtSE1RMmtjR3JfTWdidHd4OTJuRlp4dnBNenkzMFFyd1hvZ0ZfTFRUanczdEFiX3RlVG1mVUJEdEFYTzJwc05XNEJwc2Zvd2V0c05rbG1ndzlDWTJJUTFoNENtWWNMd2NCdlR6SzdLMlZxc2ozZFZNVjkyV04?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0owdWo5X2JHc0hCZGhDS3ZYZ1hZV0lwcEV2MXpVamVETjl0djk4UXFVUW1qTnByTWQ0MUhfYlpYSHFBQUM3akNENXMyY1ZqanlTRTVlZDVNM08xWl8xd1NuaXFRVGwwZUk4aG1BNThXdWhPQlNFVmJ3WnladmJQZmxGY3JoTGQ4bVQ1MmVSdGJoLUxscEs3ZXlqRTJ1TW10cWhBWElOUnBwNzY4el9MSlBhUU9YSUU2U0psLU9B0gHEAUFVX3lxTE81ZjJnTTNtNFpBYXZsNEJHZGM2QkpEdjFEbHc2SmRMOWRUY0xPbWV1ZlZWeGhNV2h0bjFZSXpVRmhhcS1Dc3lxT1FSVnlTQlpwRmtjLUZkUTVKcnpibjl4a3ljN1dkVjNpM2NOd0pKdTBjMl9BMkJpTmJSY2J2TjQ4RHNzTU55WE5UUkc4WjBfMk5abTJBc1JKeVJwVFBNSE1GcGFhM2J6X2FZSC1fMWx3VUFKN2pTdkEzNDJMZXM3eDdzT2Q?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Supriya Sule attends Sunetra Pawar’s rally in Baramati, extends MVA support - Deccan Herald",
+          "source": "Deccan Herald",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3lvVms0UnpQYmwybG1EbzZhN1dKNk1kd1BicVFld2IwWTlTUG9BT2lMT0JxWE9YLVJrYU5GSDdMZTV1bGk3ZVZQV25KaVRoeHlIWk1nREZMd0Mxc3NFaE5kMkp3RV9iTGNsVnY1UjB3MFdiZGZwMlhYdTJvYzBfc3lVZ1BKTHJJM29SMEg2cG9BTFlXMlFqci13OEdoX0hsVmJ5cDBNdFhFVzVUWGI0c2pPWkU5UWo4RExrTi1VYlgtWHZJaXJ3?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 65,
+      "starred_questions": 19,
+      "unstarred_questions": 46,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 1,665,186,348. MPLADS utilization: 6.9%. Parliament attendance: 100.0%. Questions asked: 65. Debates participated: 30. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.837283Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 65. Debates participated: 30. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.370244Z"
 }

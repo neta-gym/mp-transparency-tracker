@@ -4,16 +4,16 @@
     "constituency": "Khajuraho",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2455,
+    "myneta_candidate_id": null,
     "slug": "vishnu-datt-sharma",
     "house": "lok_sabha",
     "sansad_member_id": 5066,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5066.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Khajuraho",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 2455,
+      "myneta_candidate_id": null,
       "slug": "vishnu-datt-sharma",
       "house": "lok_sabha",
       "sansad_member_id": 5066,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/5066.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,98 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "",
+          "ipc_sections": [
+            "499",
+            "500",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Special Judge (MP/MLA Court),Jabalpur",
+          "fir_no": "",
+          "case_no": "SCPPM/01/24",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "Yes",
+          "appeal_status": "(Under Section 482 CrPc) MCRC No.12558/2024 before MPHC,Jabalpur",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:04.680632Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 49262858.0,
-      "liabilities": 18438272.0,
-      "net_worth": 30824586.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2455",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.349932Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 38.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 1.07,
-      "expended": 0.69,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:29:48.767153Z",
-          "notes": "Official eSAKSHI REST API — Works: 9 recommended, 6 sanctioned, 3 completed"
+          "fetched_at": "2026-09-02T14:42:54.430732Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:38:52.825774Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:38:52.822723Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 9,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 4.6938775510204085
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 55.0,
@@ -110,7 +146,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:25:34.276697Z",
+          "fetched_at": "2026-09-02T14:38:52.821426Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +154,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "8 MP leaders get key posts in BJP national executive: Lal Singh Arya named vice-president, Gajendra Patel g... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNW5vdVVNZ242TVVLOTBJR2NQaThHa1M1NUdsSnpwb1MwQm1TWnk1N2tMdWlweEk2TjNXN0ktdTJzc282TWR6RU9MSWJVR3V3UzVJUXUtbTN4LTVtQ3Z4bHkySkdETFFudkxaNjNRRWZSZDBTOWVrNVpfVkJ4MWhmVkR1SDE4VkRsVlJ6RzhGWWpqN1EyX01XeUpVRXNRaXY5ZUw3blE2cUNuVHozdnZkLUJ0RHZEdlVKQWlDM2NtZUxabG95SXBHRUJjSdIB0AFBVV95cUxPNGJORkZleFgzbzNyQk00NWNJamo0MjZYMjZtcGRnQUt1TjFzbW9CcTVmTWJiQU50MUdhZ3QxRGQzb0N4MTNkcTJ4ekJEbGlqQnlkaks0bFphRVBGb1lHaDQyX3ROc2xGUE00Yk5MSFRoTnI1LXpMejVBWEhoRkFkTGlrUnhTVmdMZWZ1aFBGLTZuMzlZZ1Z1VVBpN2N2UGluendGd2xLcmJCdVRUY1RZRjh6SmtwNm85V1p4RVVMY2VDZlZBczNEdV9zTldfZzdD?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Vishnu Dutt Sharma Appointed New Chief Of BJP's Madhya Pradesh Unit - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQk1KTFJjRjdHQUJlWEl6VHRUWXkyZGJyVWtkR1hVY3dBblJQeHVyLTM5bFpRSWhCNnBhOHB1M3BPUFR2eFZKR3dqYXNlRk1VN2s0SXVBS0luSXRiNG1ZWEFROXdEMEpKM1pGRF9acFlxQmZoRnBDZk15MGhsX2tuSFpWRzV3WUR4WXJSbThpaWQ5c1c2SXc5Y0Q4Mm5uaVg0OXBYODhVQ29XUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Can V.D. Sharma, BJP's organisational specialist, ace his second test in MP? - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYzlXT2Rqdm5IVzIzUzU5MU5zeHNoR29UQlk5eGpLVkt1X2JOZHU4RjhTdTVFS2NYRXlKN29wWmNRN1E5ZUxXeFhxSjloeGdMODd4Qy1kbjhKUmNmSWZ5dkVQeWFheXo3ZnM0RFllUTk4alc2U0U0RGZNS0Z2RlRZVk45dTBLNlFvODlmeWEwZ1FLRTRiYlVfUnZUdVJzOWNFQ2pOZkRnQTItQkZPTTJ0bmxWd3VDRHRINENhYldYcndrXzBTSW83M192WnUxcm9WbTBPSDdhbTHSAd4BQVVfeXFMTlRmTEE0ZDlBcDVybUYzTVNrdHZveXBEcGs2aXhpUzQxcF9mVF9oLW9sdzZ1SE83eDBzbVBqYzVVQkZyREw4aDhmNXgxU19HNjgyaGllSUZnTWt6QkRLdE1oZC1icUpRd3lUWFNESG5FV2pldVA2SDBzazFzeVpuSVZhM01DTTEwWFZKOFdNUUFaZkNOdWtNYWdxblN2Q2NvbEFqOER1OUluaEhSQk43OVd3RTNzeHhvSWN1RW8xNEdGZkd0TzVicTlUUElnZzBYdmVKZjQ3UlJUSjMtT1ln?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "First direct flight between Delhi-Khajuraho under RCS-UDAN flagged off - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWSVNhVUxRYV9vTk5QNEhZbTdjeU4yOUppek03MzhLRlhadEVvX0dJaVEwb3RHcTI5YkUzUlA0My0wNm9BaEtndTB4QjNFZFoyd2JXeTR0dWQzaW1WWmotdU5Wc29JSkRv?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RSS man to head BJP unit in MP - The Asian Age",
+        "source": "The Asian Age",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEJQTk5iLUVDNk1WdGwzWEhnLW5XTU5HVUVqTzhvY2pzRWMwYnNxVVpBSDQxRjZzR1M4cEp4c0l1VDY5MW5DeWZzN0c0NS1wZVVuSnJ3S1RzWnVKWDRTM1VCYm9nN2NoOFhhOU1VUTVyNUl6dmM0V0FkYzI0djlLSUlpd3IzaTI0R2ZJ0gGQAUFVX3lxTE4yaS1qejlFVTdrVHZXd2FJZDdtQW9SOVRtTl9lTlZBNm9Wb01aWF9EcHhvRk5KbUpwU0hTalEwTEJ5Z2V3OTNESUZzRVV0dDhNQ1JuamlvWFViLU5yXzRsZWxVd3pEWWxzOTJPMS1rYU9nX2VVRUszekxxRUJyS2p5MmJNM0RxZ3g4c1NkdW52SQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:26:39.259774Z",
+    "collected_at": "2026-09-02T14:42:54.431951Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +223,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.119903Z",
+          "fetched_at": "2026-09-02T18:38:07.625669Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +239,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.119911Z",
+          "fetched_at": "2026-09-02T18:38:07.625682Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +255,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.119916Z",
+          "fetched_at": "2026-09-02T18:38:07.625687Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +271,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.119921Z",
+          "fetched_at": "2026-09-02T18:38:07.625693Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +287,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.119926Z",
+          "fetched_at": "2026-09-02T18:38:07.625699Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +303,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.119931Z",
+          "fetched_at": "2026-09-02T18:38:07.625705Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +319,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.119940Z",
+          "fetched_at": "2026-09-02T18:38:07.625709Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +335,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.119945Z",
+          "fetched_at": "2026-09-02T18:38:07.625715Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,60 +360,85 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/VDSharmaBJP",
+          "url": "https://x.com/http://www.twitter.com/VDSharmaBJP",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/VDSharmaBJPMP",
+          "url": "https://facebook.com/http://www.facebook.com/VDSharmaBJPMP",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:39:18.016858Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 7,
+      "total_articles": 10,
       "positive": 0,
       "negative": 0,
-      "neutral": 7,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Who Is Vishnu Dutt Sharma? Man Who Re-Engineered BJPs Grassroot Connect For Historic Mandate In Madhya Pradesh - Zee News",
-          "source": "Zee News",
+          "headline": "8 MP leaders get key posts in BJP national executive: Lal Singh Arya named vice-president, Gajendra Patel g... - Bhaskar English",
+          "source": "Bhaskar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOWNUWXl3TkE0S0ctNERudk8zeERlQWlGTXQ2aVN1U29Ec0N6TFI4RlJXLUpsYkdCWFlvUzg3UUNPaUlCSnY3MlVoRmUyczctSnpWYUdKdl82YlJUMS1KUm1ZblNoRUR0ZmlGaUpzUmtGUGtBWFNaYWczQXdXWUhmOVJxVUplVTVLN1hzYml1TC1IaElfdmJEbDlPSERyRDdyQVU2eHg1ekxVV3lDY3VZZ0RPTjV0bzJ0bHhXRGFtMnhpd2xERnEtaTdXckRPR3Y4X3pLZDN1QlhzaUpNVFlZUW11QVJUamx1UmfSAe8BQVVfeXFMUEVsMm84azlkU3BSeGJKOGsyUUZZRVM0aDRKdHlDVjVfbzRnZUdfdzJTSFVHVlRoNkJEc2lCTjktay1mRmp5c05aQXU4ZjFYd29IWDJHVlE5dmZYMDBPSlRNVXJBYjRyeWZPOVBzcnJMRE5oLXktTE1XVGJMM1dLWFpZSWVtb1hicGJ5WVUwQ1Roc0JKY213SjJXalJxRld5X3lmSmJRbkFmQ0tRR0QyOTRwNEpkOG1kck9PSmlCUVBKUm1FVU1jVTdEOUFVa21BSWtEVG5GVjVCNHFUTDMxYlFaZkl4UThwWWFuUVFCZUU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNW5vdVVNZ242TVVLOTBJR2NQaThHa1M1NUdsSnpwb1MwQm1TWnk1N2tMdWlweEk2TjNXN0ktdTJzc282TWR6RU9MSWJVR3V3UzVJUXUtbTN4LTVtQ3Z4bHkySkdETFFudkxaNjNRRWZSZDBTOWVrNVpfVkJ4MWhmVkR1SDE4VkRsVlJ6RzhGWWpqN1EyX01XeUpVRXNRaXY5ZUw3blE2cUNuVHozdnZkLUJ0RHZEdlVKQWlDM2NtZUxabG95SXBHRUJjSdIB0AFBVV95cUxPNGJORkZleFgzbzNyQk00NWNJamo0MjZYMjZtcGRnQUt1TjFzbW9CcTVmTWJiQU50MUdhZ3QxRGQzb0N4MTNkcTJ4ekJEbGlqQnlkaks0bFphRVBGb1lHaDQyX3ROc2xGUE00Yk5MSFRoTnI1LXpMejVBWEhoRkFkTGlrUnhTVmdMZWZ1aFBGLTZuMzlZZ1Z1VVBpN2N2UGluendGd2xLcmJCdVRUY1RZRjh6SmtwNm85V1p4RVVMY2VDZlZBczNEdV9zTldfZzdD?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Vishnu Datt Sharma: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia",
-          "source": "Oneindia",
+          "headline": "Vishnu Dutt Sharma Appointed New Chief Of BJP's Madhya Pradesh Unit - NDTV",
+          "source": "NDTV",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56U3RBQ2daSUo2eGJpbmhGaUNSeG9HS1FZakpwaUNrUGtvN19TbUw2ODFtYWhoNnRJSXltblVMcTNsdlRWOXQwRFNjUF9USnVLbHhPbVBRY0dpUHg4TDlLWm9FMGR3TFhxaHN5ZzhoUDh3TFh3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQk1KTFJjRjdHQUJlWEl6VHRUWXkyZGJyVWtkR1hVY3dBblJQeHVyLTM5bFpRSWhCNnBhOHB1M3BPUFR2eFZKR3dqYXNlRk1VN2s0SXVBS0luSXRiNG1ZWEFROXdEMEpKM1pGRF9acFlxQmZoRnBDZk15MGhsX2tuSFpWRzV3WUR4WXJSbThpaWQ5c1c2SXc5Y0Q4Mm5uaVg0OXBYODhVQ29XUQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Khajuraho Election Result 2024 LIVE Updates Highlights: Vishnu Datt Sharma (V D Sharma) of BJP Wins - News18",
-          "source": "News18",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY1p4dkFaUTZJSF9Sa2VTc0NqVjR4NVN5bzY5Tl8zSDk3ZjQ2R09JTC1zUVhWZ25lR25Ob3RZV2NhNjhVWnhEbHktMVFhUVBuUWZrNk9NeDV6bVVGNy1pTWFpMm1uSzJOSk9femc4V2lmN3JBSlpMMlRfRlhiRzhHVV9DZ25aUHEyQkNRaWw3blpSTGZBc0RtZ2VmUEM1bU50SUpGOFdlU1RqcjUtTkpOYnBXN1loR2haOEdXamstUE9kWVJDVUlveUhhZVlJYVNaRzRWWVQ2cjU4WktfNzB4VVdLMHnSAeoBQVVfeXFMTkZieklRS2xnZDVUa1cwdWFLenF0UG9lY3dEN01jWldfaDF0MUNfcUxCa0JsRjNsOWt5ZENfbDJpN3FfMHc0M3RHVVQwODA5NlJkdVBZakgtRklxOGNqaEwxZ0h3MUFOMnBISmdtT0ctMlhzMkQ5bWwwS0ZTWTVMamlSSWRCQWtUZG5DaTdKNU1pbG5uSU00Zzg4ZjNULUtwQkhOdmdNWkZ0eUY3TUdyTHRPeTJHQUZXY0VUUlR4WU1KQXFpdmpMaElqTXRHTTQwRTBlQ1V0RWs4MWc1NEl4OFJQS0FjSDhPUjlB?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Khajuraho lok sabha election results 2024: Khajuraho Winning Candidates List and Vote Share - India Today",
+          "headline": "Can V.D. Sharma, BJP's organisational specialist, ace his second test in MP? - India Today",
           "source": "India Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlJEbnJHV1pSODRMeG56RnhPem1mbzk0cGFSMk1sSGNBMEFXQ2VYa0FVcHlRSWRWTlcwQ0pZRmhMa2FuSEY3anFoaXczbmlybTkwTm9zRW0yTGdfUnYyekNQczJiTEJqSUw2MXhuNXRtN3pxVXFOeHdRN1htNWthOEFDWk82cXBnQUllc2xXLW5QaDZsZ0xucWY0WTQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYzlXT2Rqdm5IVzIzUzU5MU5zeHNoR29UQlk5eGpLVkt1X2JOZHU4RjhTdTVFS2NYRXlKN29wWmNRN1E5ZUxXeFhxSjloeGdMODd4Qy1kbjhKUmNmSWZ5dkVQeWFheXo3ZnM0RFllUTk4alc2U0U0RGZNS0Z2RlRZVk45dTBLNlFvODlmeWEwZ1FLRTRiYlVfUnZUdVJzOWNFQ2pOZkRnQTItQkZPTTJ0bmxWd3VDRHRINENhYldYcndrXzBTSW83M192WnUxcm9WbTBPSDdhbTHSAd4BQVVfeXFMTlRmTEE0ZDlBcDVybUYzTVNrdHZveXBEcGs2aXhpUzQxcF9mVF9oLW9sdzZ1SE83eDBzbVBqYzVVQkZyREw4aDhmNXgxU19HNjgyaGllSUZnTWt6QkRLdE1oZC1icUpRd3lUWFNESG5FV2pldVA2SDBzazFzeVpuSVZhM01DTTEwWFZKOFdNUUFaZkNOdWtNYWdxblN2Q2NvbEFqOER1OUluaEhSQk43OVd3RTNzeHhvSWN1RW8xNEdGZkd0TzVicTlUUElnZzBYdmVKZjQ3UlJUSjMtT1ln?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Lok Sabha elections 2019: In Khajuraho, it's 'daughter-in-law' vs 'son-in-law' - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "First direct flight between Delhi-Khajuraho under RCS-UDAN flagged off - PIB",
+          "source": "PIB",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNl9FS2JrbExteGllZE1LdVE5endSb2NuNjZhVEpMMFFIek9EOUpZcXJ6RlZnNlNQUWtoQlQ2S0FwVjkyRlNGbC1SV2RHT2RDTVZVaEcyZENWdzZXVklwbXNxQzFiQ2lHOUF6aFJJMjl6MHItRWxfNjdzczNOSnFFSE1EeWh1OVlRVVkyTUNhYWZsemtGdFI4RzY0RlI3MWhZRzJvT1NMNDZidExtdkxHd3VNVWNiT3J0dEx2S002ZU0zMXloQThreVRBWFRkS3l1ZWfSAd8BQVVfeXFMUDFWcnVkTnRWZ1pQN3NSbXJ2aDVIME51VWZiQ0U2V015Z1htcWZMd3RaYmRObkYwbFo2ZHNrUVFkdVNuZHVYR0d5bkJabUJodlNQU2YzT1REZVdPTVFCMno3YUNyZVo0VnRnRFpDU3g5MmNXaTBoWF9ESlA4Z3JiMnRZdzhSVHdFTlUtWHJITnFrRGVkSi05eTBPVExhal9SQnFZZWVtY1RwSWFxRnVJLTN2S2JrSHh5ZjNuVy1pUmJHQlFjN0M4M3BNLXh3aFVrOEYyMlFUb3hwQ29yd2NTcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWSVNhVUxRYV9vTk5QNEhZbTdjeU4yOUppek03MzhLRlhadEVvX0dJaVEwb3RHcTI5YkUzUlA0My0wNm9BaEtndTB4QjNFZFoyd2JXeTR0dWQzaW1WWmotdU5Wc29JSkRv?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "RSS man to head BJP unit in MP - The Asian Age",
+          "source": "The Asian Age",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEJQTk5iLUVDNk1WdGwzWEhnLW5XTU5HVUVqTzhvY2pzRWMwYnNxVVpBSDQxRjZzR1M4cEp4c0l1VDY5MW5DeWZzN0c0NS1wZVVuSnJ3S1RzWnVKWDRTM1VCYm9nN2NoOFhhOU1VUTVyNUl6dmM0V0FkYzI0djlLSUlpd3IzaTI0R2ZJ0gGQAUFVX3lxTE4yaS1qejlFVTdrVHZXd2FJZDdtQW9SOVRtTl9lTlZBNm9Wb01aWF9EcHhvRk5KbUpwU0hTalEwTEJ5Z2V3OTNESUZzRVV0dDhNQ1JuamlvWFViLU5yXzRsZWxVd3pEWWxzOTJPMS1rYU9nX2VVRUszekxxRUJyS2p5MmJNM0RxZ3g4c1NkdW52SQ?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (7 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -368,15 +468,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 42,
+      "starred_questions": 12,
+      "unstarred_questions": 30,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 81.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +484,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 55.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,11 +515,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -436,12 +542,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 49,262,858. MPLADS utilization: 4.7%. Parliament attendance: 55.0%. Questions asked: 42. Debates participated: 2. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.120778Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 55.0%. Questions asked: 42. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.626563Z"
 }

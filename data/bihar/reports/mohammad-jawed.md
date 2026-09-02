@@ -3,24 +3,22 @@
 **Constituency:** Kishanganj, Bihar
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 60
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 67.9 / 100
+## Composite Transparency Score: 68.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 49.6 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 15.97 Crore
-- **Liabilities:** Rs 1.66 Crore
-- **Net Worth:** Rs 14.31 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 68% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 11
-- **Expended:** Rs 8
-- **Utilization Rate:** 56.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/DrMdJawaid1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/https://x.com/DrMdJawaid1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | No | Yes |
+| Facebook | [@https://www.facebook.com/drmdjawaidmp/](https://facebook.com/https://www.facebook.com/drmdjawaidmp/) | No | Yes |
+| Instagram | [@https://www.instagram.com/drmohmmadjawaid/?locale=id&hl=ar](https://instagram.com/https://www.instagram.com/drmohmmadjawaid/?locale=id&hl=ar) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Opposition MPs urge Amit Shah to act against Hindutva threats targeting Muslims in Delhi’s Uttam Nagar - Muslim Mirror (Muslim Mirror) [neutral]
-- Cong MP Jawed Writes To HM Shah Seeking Intervention In Uttam Nagar Incident - Ommcom News (Ommcom News) [neutral]
+- BJP Slams Congress MP Mohammed Jawed Over Sanskrit Remark, Calls It an ‘Appeasement Mindset’ - Daily Pioneer (Daily Pioneer) [neutral]
+- Bihar: Congress MP’s remarks on Urdu, Sanskrit spark row - thehawk.in (thehawk.in) [neutral]
 - Waqf Bill: In pleas to SC, veteran Congress Muslim leader and MP from poll-bound Bihar among first off the bloc - The Indian Express (The Indian Express) [neutral]
-- Kishanganj Bihar Indian National Congress - The Times of India (The Times of India) [neutral]
 - Mohammad Jawed , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- And the media awards on the debate on the Constitution go to… - Muslim Mirror (Muslim Mirror) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP Slams Congress MP Mohammed Jawed Over Sanskrit Remark, Calls It an ‘Appeasement Mindset’ - Daily Pioneer** (Daily Pioneer)
+- ! **Bihar: Congress MP’s remarks on Urdu, Sanskrit spark row - thehawk.in** (thehawk.in)
+- ! **Waqf Bill: In pleas to SC, veteran Congress Muslim leader and MP from poll-bound Bihar among first off the bloc - The Indian Express** (The Indian Express)
+- ! **Mohammad Jawed , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu** (The Hindu)
+- ! **And the media awards on the debate on the Constitution go to… - Muslim Mirror** (Muslim Mirror)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mohammad Jawed shows moderate transparency with a score of 67.9/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+Mohammad Jawed shows moderate transparency with a score of 68.0/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 159,675,943. MPLADS utilization: 56.4%. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 16.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 41. Debates participated: 16. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 159,675,943. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +240,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Mohammad Jawed's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 56.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

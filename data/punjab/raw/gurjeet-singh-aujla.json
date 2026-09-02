@@ -4,16 +4,16 @@
     "constituency": "Amritsar",
     "state": "punjab",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 8734,
+    "myneta_candidate_id": null,
     "slug": "gurjeet-singh-aujla",
     "house": "lok_sabha",
     "sansad_member_id": 4940,
     "profile_url": null,
     "canonical_name": "Gurjeet Singh Aujla",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 51,
+    "age": null,
     "photo_url": "/mp-photos/4940.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:00.416666Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 53508591.0,
-    "liabilities": 13781750.0,
-    "net_worth": 39726841.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8734",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.284472Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 41.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.14,
-    "expended": 5.4,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:42:30.117852Z",
-        "notes": "Official eSAKSHI REST API — Works: 225 recommended, 207 sanctioned, 74 completed"
+        "fetched_at": "2026-09-02T14:33:00.243643Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:31.574974Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:28:06.514986Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 225,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 36.734693877551024
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:47.358535Z",
+        "fetched_at": "2026-09-02T14:28:05.763990Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "\"Officers who prevent crimes should be rewarded\": Congress MP Aujla questions Bhullar's removal - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVVU1Q0lnMEVKWVN1eVpycXIyTlhXeXZLTGs2WjJsdUpaV3Nzd2RyV1NCVGFRTm5qXzZwd2pTU01maVBINl9xLWd2Z3dtYlZuUGZOc1JuaTFPdXV1Qm01Tl9lQ3NJTTF6MWJ6SlFiUEFPZXFyUVc1LU94WmFvaVV2Z0JpWnEyQ2ZiYkc5QVZZZzRNU1p2NGFyWjZuXzJ3X0tTOWtweVZWa2NpX2Z1WWRRODJ0M050REw2dXE2VUtVZWhpMG5CUnctdDkyTFdyU0FCY1JDV2hZYnlyRHFqYUpwNGszSVNPQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Punjab Congress leaders on Friday distanced themselves from party MP Deepender Singh Hooda’s description of former Congress MP and 1984 anti-Sikh riots convict Sajjan Kumar as a “role model nationwide”. Congress leaders Gurjeet Singh Aujla and Raj - News Arena India",
+      "source": "News Arena India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUjh6cTZ5UW5HTHdGMkxDVG1TazZJVUo5VnVPZXl3ZFkxckxpNy1TY0tGZWxJS0gyTUJrbFdyaWtya0gtc3FxMGFKejc2NXhrR2Z6WUNZTlpockFhN2U2bUJPZ3RiajlvN0hBTjExaEdWZ0VRMHlETnp1eWtueTVENjQ0YlhFc0pWMHA4S0wxS05adEpWY1BQUTZmdml3QQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress MP questions removal of Amritsar police chief Bhullar - thenewsmill.com",
+      "source": "thenewsmill.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUExUHpfNEZuMjN3VFgxM3NvUFVXWnZwY1dGUHJtaDNiWHgzR3FOcEFFal8tREZwak9xX0FIUTIySDRDTXc1N0VMRW9fVUYtUXVWTzFpOXdRSUJhZVZ1SFVlLVZnU3I5ZjFHUXFPNjl0a1JKd1pvMk5ZUjRVekJualpWNVBQNlRPc1ZSZmZSOENvTW40dmVuSDJGWQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Gurjeet Singh Aujla writes to Chief Minister over highway safety concerns - The Financial World",
+      "source": "The Financial World",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelhPbGt2bDY5YW5hWEQ5aG1vd3BOa1ZyVC1BYmJJVVU1dkdxa2xJRDY1Vmt5X1VUT1owU1JUVTZYQnBRRU5jU1BDRzdlZHV2OUNnbUZFdzhJRmRjejJSQWZTaVdJQmtEQVBXbGVZc1hIc09uTHZ6ODlLWU9nSVdiWkZzZHRscUZ6WHplam9fVDVKeVJQcmJjMGZTR0ZuWmlGVVcwUW80MGxlRWpDZ2tuSg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"We stand with victims\": Punjab Congress leaders distance from Depeendra Singh Hooda's Sajjan Kumar 'role model' remark - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUkFIUFl5OURBVGs1UkRfUVhRSG1mdGpHeUViR3pPd1JVcWJ1cUlTb0JCMEVNLXVpX2MwMXZlZ3BkS1l0S3RJTG1DRHh3M0o2Yk8xX3R1UXJmdFlfdU5RdG5DNnRRQW84YVdWbjljYm11UFZoX1dFT25fRFJNMEkxak9lWGh1cllWVUFoMnRJdG5MRGkzWU9nVGp2VVB5QnhJU1Z6MFBXMlpIN2prQnNqcTN0dUxYck1VbU9FQVYzeldNZzhkUHA3Wm1GMkRaMmJYaEJfVldFdk1COU04TmJYWm9DbUlNX3p6WWtxYjNNZThLaUJLeE01QS16a1J3bjZ5ODNr?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:19.372507Z",
+  "collected_at": "2026-09-02T14:33:00.245083Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.581671Z",
+        "fetched_at": "2026-09-02T18:38:09.088294Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.581680Z",
+        "fetched_at": "2026-09-02T18:38:09.088304Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.581685Z",
+        "fetched_at": "2026-09-02T18:38:09.088309Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.581689Z",
+        "fetched_at": "2026-09-02T18:38:09.088315Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.581694Z",
+        "fetched_at": "2026-09-02T18:38:09.088321Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.581698Z",
+        "fetched_at": "2026-09-02T18:38:09.088326Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.581702Z",
+        "fetched_at": "2026-09-02T18:38:09.088331Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,56 +304,89 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/GurjeetSAujla/status/1625431797885734912",
+        "url": "https://x.com/https://x.com/GurjeetSAujla/status/1625431797885734912",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/aujla.gs1/",
+        "url": "https://facebook.com/https://www.facebook.com/aujla.gs1/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/gurjeetsingh.aujla/",
+        "url": "https://instagram.com/https://www.instagram.com/gurjeetsingh.aujla/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:28:07.483332Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 1,
-    "neutral": 9,
+    "negative": 0,
+    "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Union minister and BJP candidate Hardeep Singh Puri loses Amritsar seat to Congress MP Gurjeet Singh Aujla by a margin of 99,626 votes - Devdiscourse",
-        "source": "Devdiscourse",
+        "headline": "\"Officers who prevent crimes should be rewarded\": Congress MP Aujla questions Bhullar's removal - ANI News",
+        "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOa2NsOHRwWS0xS2p4S1VONlJZa3lhWEpTdEFXQ1ZRemdfRjhLLUdST0NlUkQ3NnMxTXVJaTFhMUYzVUZuNmhkWWl4Q2tXRmpueGVVelhRS3dscjg4azBPM0tqOGpJOVlSaVBKbXdEelJUcEZQNVA5V3pDelgwTHhweU9PZWVHQlhGbUpvalhfeWdBcVhWLXdhZWtlWjZ3WkNjU2ItdzE1cHNpNnVYNk9LTDlmd05helNoZUViQUdSelZ3WWdReDRvVVlPOC05elFhbXBPcHlTT3IwNzcxZlcydEg3VFNuME1YYk9Gck1oNjRfZUpraWctTGR6dWMtSmR3ZzhOU1U5TnRyRW5rN2hud1Rsd0o2bmVFU2fSAZoCQVVfeXFMTmtjbDh0cFktMUtqeEtVTjZSWWt5YVhKU3RBV0NWUXpnX0Y4Sy1HUk9DZVJENzZzMU11SWkxYTFGM1VGbjZoZFlpeENrV0ZqbnhlVXpYUUt3bHI4OGswTzNLajhqSTlZUmlQSm13RHpSVHBGUDVQOVd6Q3pYMEx4cHlPT2VlR0JYRm1Kb2pYX3lnQXFYVi13YWVrZVo2d1pDY1NiLXcxNXBzaTZ1WDZPS0w5ZndOYXpTaGVFYkFHUnpWd1lnUXg0b1VZTzgtOXpRYW1wT3B5U09yMDc3MWZXMnRIN1RTbjBNWGJPRnJNaDY0X2VKa2lnLUxkenVjLUpkd2c4TlNVOU50ckVuazdobndUbHdKNm5lRVNn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVVU1Q0lnMEVKWVN1eVpycXIyTlhXeXZLTGs2WjJsdUpaV3Nzd2RyV1NCVGFRTm5qXzZwd2pTU01maVBINl9xLWd2Z3dtYlZuUGZOc1JuaTFPdXV1Qm01Tl9lQ3NJTTF6MWJ6SlFiUEFPZXFyUVc1LU94WmFvaVV2Z0JpWnEyQ2ZiYkc5QVZZZzRNU1p2NGFyWjZuXzJ3X0tTOWtweVZWa2NpX2Z1WWRRODJ0M050REw2dXE2VUtVZWhpMG5CUnctdDkyTFdyU0FCY1JDV2hZYnlyRHFqYUpwNGszSVNPQQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Gurjeet Singh Aujla urges Centre to restart Amritsar-Katra Vande Bharat - The Tribune",
-        "source": "The Tribune",
+        "headline": "Punjab Congress leaders on Friday distanced themselves from party MP Deepender Singh Hooda’s description of former Congress MP and 1984 anti-Sikh riots convict Sajjan Kumar as a “role model nationwide”. Congress leaders Gurjeet Singh Aujla and Raj - News Arena India",
+        "source": "News Arena India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXBkSXFDWTR2QmRWQ1Bnc0pGNjhpdFBURHZwQVdlYjB6RkRUaFZjTWIxTnF1RFZfcXFwVnFqdlg3UEttMzNMTnBzYVJHMVZnVVg0ODRURlRkVFlya1A5UGptc1d4cHZDdF9SSkRqMnJuTDluVDJtM3drQ2M0d254S1pJRHA4SlRMRHlkSHllZ3ZsYUVqSmhpekdxbmhxbmZESnNLVlI3MA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUjh6cTZ5UW5HTHdGMkxDVG1TazZJVUo5VnVPZXl3ZFkxckxpNy1TY0tGZWxJS0gyTUJrbFdyaWtya0gtc3FxMGFKejc2NXhrR2Z6WUNZTlpockFhN2U2bUJPZ3RiajlvN0hBTjExaEdWZ0VRMHlETnp1eWtueTVENjQ0YlhFc0pWMHA4S0wxS05adEpWY1BQUTZmdml3QQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Gurjeet Singh Aujla alleges scam in wheat procurement in Amritsar - The Tribune",
-        "source": "The Tribune",
-        "severity": "medium",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlpsU2dYRERCbk13TEFtbjYxNXBWcUJIbExPTWtad20zak4xdl9Tbk9taEN1al9uSkJ1TmNzaUZXVWY0SG9IeU9KTS1HNzdZTDNjSExZVFlMT01FV3FhdFpuSnZsQi1BWjNCRVRfSUYxYXd2ZjJGSlMwX2hKUDQ2RG96dnhlYW0ybC1vN3dmU0VwcnVwbmhjSi1aUQ?oc=5",
-        "sentiment": "negative"
-      },
-      {
-        "headline": "'Broken seats, screens not working': Punjab MP writes to aviation minister over Air India's international flights | India News - Hindustan Times",
-        "source": "Hindustan Times",
+        "headline": "Congress MP questions removal of Amritsar police chief Bhullar - thenewsmill.com",
+        "source": "thenewsmill.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUXlkcUhJd1hVeU93SDk2R2loNnZOZGRFeTRVdUhidlMycG1KeFlIcGN0NEFVOGxuZDVOcVVRYjY3Y0J1aFQwQi1sYmtZSEtpRVF2SUN2ZVpDVkc2dVdrM09QWUFfSGpfcVhxdGZ4emNTSElQQ2RjSnBxZlhfakpRcmFlWEJLUDVtVlRNdHVLODRuZDh1Q0RORkJFMW9iZlZpazBxSFBWTkFrbFdWRDBUcFgwZG03MENQclNCU3o0ZERadE9VN0UtcGhxSDV5bFg4Um9RT284dW9zVGU5OWFXVUJKNk1kVWNDQ1dyY1lPTnB2alJMZksySkQxTlNyWlczMFZtWdIBigJBVV95cUxNRWZNTzlpbkVEaWtOUDBjYU1fVUJNcldwSE9QWkNvVkpScUNBaGNDUE1odXA5cE1zTVE1cnZkT1pfdzlMaGE3ZHg1VEFGYXpqQS0yQ2NISy1UTEVDb3hJdW1QOXVSaklhR1NfYlBGc3RFbFVUemNmLU04MXUxMnFVSEwwSVhxb2NoVVB0VXB4cWdvcWtFMVhOVERraTYybHBzRjN1SmhuX1BBSG4wVU4xbTFyZ1h2Mnc0RFU4WThPOElhR2JIbUlzWDQ3Z2FOOE82VUxTeUlvREUzcWJFM3RUNXJlQXE1cXRYcHk4eUgzUmRubDUxWkpYU1RrNGhtZWxDYXNuRVQ1UXU5UQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUExUHpfNEZuMjN3VFgxM3NvUFVXWnZwY1dGUHJtaDNiWHgzR3FOcEFFal8tREZwak9xX0FIUTIySDRDTXc1N0VMRW9fVUYtUXVWTzFpOXdRSUJhZVZ1SFVlLVZnU3I5ZjFHUXFPNjl0a1JKd1pvMk5ZUjRVekJualpWNVBQNlRPc1ZSZmZSOENvTW40dmVuSDJGWQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Amritsar MP Gurjeet Singh Aujla inaugurates new open air gym at Company Bagh - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "MP Gurjeet Singh Aujla writes to Chief Minister over highway safety concerns - The Financial World",
+        "source": "The Financial World",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNLXVaTThqeVBxc0trSUhXTk1SNExCQWcxdGt5bDd0cDNfZDdDemVWUVVMeW4tV1FBWF81bklJWVkzeVNwMlZnMnVUMjFJMjVWaVU2UTFSRGVKUnNYOVFfNFdWd2NDQWJSM090SDFIUkZDN2xoSTZUaFRwUXc1LWZpUlRRdFpfeWVDZThCTG0xR0t1NTJhUVpvV2tiV2M1aFhEd2M3WkRNVjd5T0hHMmM4a2JRWW9JQlYxS25pM083eTAtMk43b0tyUTY1QTFaMVJtV1pRUG5VcnRPbmJZRW9lR0hmSGtqRV8wUUo4YXVpLVNaTlM0aDN3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelhPbGt2bDY5YW5hWEQ5aG1vd3BOa1ZyVC1BYmJJVVU1dkdxa2xJRDY1Vmt5X1VUT1owU1JUVTZYQnBRRU5jU1BDRzdlZHV2OUNnbUZFdzhJRmRjejJSQWZTaVdJQmtEQVBXbGVZc1hIc09uTHZ6ODlLWU9nSVdiWkZzZHRscUZ6WHplam9fVDVKeVJQcmJjMGZTR0ZuWmlGVVcwUW80MGxlRWpDZ2tuSg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"We stand with victims\": Punjab Congress leaders distance from Depeendra Singh Hooda's Sajjan Kumar 'role model' remark - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUkFIUFl5OURBVGs1UkRfUVhRSG1mdGpHeUViR3pPd1JVcWJ1cUlTb0JCMEVNLXVpX2MwMXZlZ3BkS1l0S3RJTG1DRHh3M0o2Yk8xX3R1UXJmdFlfdU5RdG5DNnRRQW84YVdWbjljYm11UFZoX1dFT25fRFJNMEkxak9lWGh1cllWVUFoMnRJdG5MRGkzWU9nVGp2VVB5QnhJU1Z6MFBXMlpIN2prQnNqcTN0dUxYck1VbU9FQVYzeldNZzhkUHA3Wm1GMkRaMmJYaEJfVldFdk1COU04TmJYWm9DbUlNX3p6WWtxYjNNZThLaUJLeE01QS16a1J3bjZ5ODNr?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 21,
+    "starred_questions": 6,
+    "unstarred_questions": 15,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 40.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

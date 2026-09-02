@@ -3,24 +3,22 @@
 **Constituency:** Bahraich, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 67
-**Education:** Doctorate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 58.4 / 100
+## Composite Transparency Score: 63.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 30.5 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.33 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 2.33 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 20% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 8
-- **Expended:** Rs 6
-- **Utilization Rate:** 38.2%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@@anandkumar1974](https://x.com/@anandkumar1974) | No | Yes |
+| Facebook | [@https://www.facebook.com/dranandkumargond/](https://facebook.com/https://www.facebook.com/dranandkumargond/) | No | Yes |
+| Instagram | [@@dranandkumargond](https://instagram.com/@dranandkumargond) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +86,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Bahraich (SC) Uttar Pradesh Bharatiya Janata Party - The Times of India (The Times of India) [neutral]
-- Boat capsizes in Bahraich’s Kaudiyala River killing 1 woman: 8 people including children missing, 13 rescue... - Bhaskar English (Bhaskar English) [neutral]
+- Maya expels former minister Antu Mishra for ‘anti-party’ activities - The Times of India (The Times of India) [neutral]
+- UP horror: Crocodile drags 12-year-old into river, boy dies - The Times of India (The Times of India) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com (Sarkaritel.com) [neutral]
 - Bahraich Sc lok sabha election results 2024: Bahraich Sc Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Bahraich Election Result 2024 LIVE Updates Highlights: Anand Kumar of BJP Wins - News18 (News18) [neutral]
-- DPR ready for Bahraich–Jarwal rail line - The Times of India (The Times of India) [neutral]
+- Boat capsizes in Bahraich’s Kaudiyala River killing 1 woman: 8 people including children missing, 13 rescue... - Bhaskar English (Bhaskar English) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Maya expels former minister Antu Mishra for ‘anti-party’ activities - The Times of India** (The Times of India)
+- ! **UP horror: Crocodile drags 12-year-old into river, boy dies - The Times of India** (The Times of India)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com** (Sarkaritel.com)
+- ! **Bahraich Sc lok sabha election results 2024: Bahraich Sc Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Boat capsizes in Bahraich’s Kaudiyala River killing 1 woman: 8 people including children missing, 13 rescue... - Bhaskar English** (Bhaskar English)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Anand Kumar shows moderate transparency with a score of 58.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Anand Kumar shows moderate transparency with a score of 63.0/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 23,269,912. MPLADS utilization: 38.2%. Parliament attendance: 100.0%. Questions asked: 2. Debates participated: 1.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 2. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 23,269,912. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +240,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Anand Kumar's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 38.2%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

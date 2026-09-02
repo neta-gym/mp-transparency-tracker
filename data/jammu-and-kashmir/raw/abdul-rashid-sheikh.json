@@ -4,80 +4,154 @@
     "constituency": "Baramulla",
     "state": "jammu and kashmir",
     "party": "Independent",
-    "myneta_candidate_id": 7591,
+    "myneta_candidate_id": null,
     "slug": "abdul-rashid-sheikh",
     "house": "lok_sabha",
     "sansad_member_id": 5830,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/5830.jpg"
   },
   "criminal_record": {
     "total_cases": 3,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "RC No. 10/2017/NIA/DLI | Section 13 UAPA, Section 17 UAPA 18 UAPA",
+        "ipc_sections": [
+          "120B",
+          "121",
+          "121A",
+          "124"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Special Judge NIA ASJ-03/PHC New Delhi",
+        "fir_no": "RC No. 10/2017/NIA/DLI",
+        "case_no": "",
+        "other_acts": "Section 13 UAPA, Section 17 UAPA 18 UAPA",
+        "charges_framed": "Yes",
+        "date_charges_framed": "16 Mar 2022",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "13/2016, Police Station Pulwama J&K",
+        "ipc_sections": [
+          "341",
+          "506"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "JMIC, Pulwama",
+        "fir_no": "13/2016, Police Station Pulwama J&K",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "ECIR/03/DLZO-II/2017 PS-ED, Delhi | Section 44/45 & 3/4 PMLA 2002",
+        "ipc_sections": [],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "ASJ-03/Patiala House New Delhi",
+        "fir_no": "ECIR/03/DLZO-II/2017 PS-ED, Delhi",
+        "case_no": "",
+        "other_acts": "Section 44/45 & 3/4 PMLA 2002",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:15.989528Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 15637424.0,
-    "liabilities": 1442558.0,
-    "net_worth": 14194866.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7591",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.073584Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 13.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.44,
-    "expended": 2.03,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:28.650998Z",
-        "notes": "Official eSAKSHI REST API — Works: 124 recommended, 91 sanctioned, 12 completed"
+        "fetched_at": "2026-09-02T14:26:48.078786Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:57.132232Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:21:59.402219Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 124,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 13.809523809523808
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 0.0,
@@ -92,7 +166,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:05.507879Z",
+        "fetched_at": "2026-09-02T14:21:58.152287Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +174,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "NIA Court reserves order on Baramulla MP Abdul Rashid Sheikh's plea to attend parliament session - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa2xiMEVob1pYWWQtVjZkNkZ1aFNPVzRuTHNpbkV2UGxTejAtQ3dDNFJHUmZSNzhIOXlnSkhEWVRXbG11bXFqTHVJdGp4ZEZkVDBuUkdpT0wyVFRacmVaYm9aMEwwZlREckdQRFJKWDNIdVJrc19DNWJPbXE2bTVfQ25JX1dCUlpfZWE5Q1RaeC13akJ1ZzZkdWNDTFA5bDUwdThLTE84Y2M3M1BxVGVtRFpuaVlkR0hfcVFoaUtPa2Q5WkVIZzJkcGt0Q3BXZUl2dVRERTl2ZE85R19qMHRxWFF6c1dLZkRQU25SeEp1a0k?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Delhi High Court grants interim bail to MP Engineer Rashid following father’s death - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQnJvb05jQm53N3pwZzE4RTIxc1hrOE5fYm5Db0VJSTY4Z1l3VVZZMF9fRkJaTmNpVW1uaGNGdTk0VExGTTcwa0xoUGZZRFhxNm5lZWZUdlRzT2FIcnYxX2w4VEQ2TXh5QTZHUHQ5aG0zYmZIdGo2VjBOV0gzaGFZRVhNNEFyY0dDbUVaTHhyZk5FbnBoY003Q2llS3lVbFZHcVVtMDRxT0d2R2pNUHV5NmVQQkpyUmVERnfSAcABQVVfeXFMUERwUjhYUVgxbUlKOUZuRTlfQlBZU1h6VUp0WC0zVXo1ZDk5MV9xSkpwVnhvU0QtUnBBVWlBdV9Bd0h6QlAxNVJteWp4MjdRbENsZWNhRTROLTFZMkJQNmRfR2xadjRPdnBhLURmSTczQ09Dd05ydURtd3pXY080cUVmVXB0QVlFckpFVHFKMnU1S0xVVU11QTF1bFVEU21oSXFEM0VnNnNlT0txYll0S2F6R18tSnUxVkdMZGowTHI4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Terror Funding Case: Delhi High Court Grants Interim Bail To MP Engineer Rashid To Attend Late Father's... - livelaw.in",
+      "source": "livelaw.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeDV1dVp2cEZlbUFwME1zeUNHZHJMbjJ6aTg0MTNkR0NRbmItcVFWZjRnY1lraE84SUxJc3BRLWNmT2NOUXlSMkRWdDdXS3JhTHBUa2xpLWF0R0JRVi04bjlMWmNrTmd5dHRCYnVCSUF0SDNkNkRsc0RaQm5wVHN4MG54dzFuYndkVF9RMXg1VHdfWjhkcmNrbjMwR1M2bWhCclHSAacBQVVfeXFMT1RTczREWjhYMUJoMDU2emZEeEI3TkpCNGVtUVZsUGF0ZjlzRjA5Y1ZGTzJGUDZXX1hNS0xQRmljdWwwU2VkMnhkaTJTbnlVbzVYa0hvLTJsWVdDMXB4SHBSWW9FUUhiYWRSNDg2X2sxM3BkcFdsMjRvbF8zR3JqY0FfcmZSQlVEOGJsUEh5WEhiUGlZYU44aFlWR2R2aEh3UkxBRExtYnc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "NIA court to decide on Baramulla MP Abdul Rashid Sheikh’s request to attend Parliament session - thenewsmill.com",
+      "source": "thenewsmill.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0RIRk5TcU45LURVbHRWZWFYdWFoVVdUME1PQmxjU3dCVEh3VktKYjRxR1h1bmlUSmFkWTFnQlY0TWVIYVpYWmh2RXN3akJJcG9VVFZCcUtaRElpUGJXank1N21pOGZZNGxOeVJDS1luSWN6MU55ZFM2UE51eF9TOWlNUVZyMzdxREpmakZFTS1OQXZmaVppLVY5cWI1Mk5NR0RqWTd4TzRSc3hWallndHNLelBCM3FuUTkwNnJfQkZmYWZD?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Baramulla MP Engineer Rashid gets one-week interim bail from Delhi HC to visit ailing father - Scroll.in",
+      "source": "Scroll.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlVwRU5QTnN0Z1ZpdlVWTTJxak9VV2wyRW1jU3FhWS1sQXZkWV8xOEZjbmJQRDI1ak9UU0tUdENzMEJMN0NMQm1KZ3VrSkdZaGo3Vlp0OGRIWnZpaS1xd3JCeTBvX1QxZDczX3lCU1Q3czNFdThnbTY0ZDBnQWRYYjBTSUUyT0EyZDM3ajU0bTJVM2NMSlE1SWxabWRTb3F6YzlPbzJZeFBzalNCZUVfYk5DUk9LdzJLa3IzUjBTc2tOV2PSAcgBQVVfeXFMUFFYVHFDNDJfWjJ0bjU5dmdOZTdoV05Vd2J3RzVHRnhpeWdDd2JnRS02QzZCUDBUZm8tSkJHM3RpbElfQ0ZfdmFjYzV3bEM1Z3B4VVV5YTJKQnV6a0RvYlJEMkcxdHVJQ2wyR1FndXI2SmZLTTR4QlpKRTF1ckFfenJwTk90bmIyNVZpSjZCaE9WWlN0dXdhZWFEZVlYMzFPRHYxSmFCYzRFSzZHNHNYcF9uWTAwWE12VUxsUVRnQklqYmtkTlhWM0w?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:10.715384Z",
+  "collected_at": "2026-09-02T14:27:19.080878Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +243,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.530878Z",
+        "fetched_at": "2026-09-02T18:38:06.140549Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +259,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.530887Z",
+        "fetched_at": "2026-09-02T18:38:06.140561Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +275,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.530892Z",
+        "fetched_at": "2026-09-02T18:38:06.140566Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +291,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.530897Z",
+        "fetched_at": "2026-09-02T18:38:06.140572Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +307,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.530902Z",
+        "fetched_at": "2026-09-02T18:38:06.140578Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +323,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.530906Z",
+        "fetched_at": "2026-09-02T18:38:06.140583Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +339,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.530911Z",
+        "fetched_at": "2026-09-02T18:38:06.140587Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +364,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "Er.Rashid",
+        "url": "https://facebook.com/Er.Rashid",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "Er Rashid",
+        "url": "https://instagram.com/Er Rashid",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:21:59.600398Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -263,6 +401,14 @@
     "negative": 0,
     "neutral": 10,
     "top_headlines": [
+      {
+        "headline": "NIA Court reserves order on Baramulla MP Abdul Rashid Sheikh's plea to attend parliament session - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa2xiMEVob1pYWWQtVjZkNkZ1aFNPVzRuTHNpbkV2UGxTejAtQ3dDNFJHUmZSNzhIOXlnSkhEWVRXbG11bXFqTHVJdGp4ZEZkVDBuUkdpT0wyVFRacmVaYm9aMEwwZlREckdQRFJKWDNIdVJrc19DNWJPbXE2bTVfQ25JX1dCUlpfZWE5Q1RaeC13akJ1ZzZkdWNDTFA5bDUwdThLTE84Y2M3M1BxVGVtRFpuaVlkR0hfcVFoaUtPa2Q5WkVIZzJkcGt0Q3BXZUl2dVRERTl2ZE85R19qMHRxWFF6c1dLZkRQU25SeEp1a0k?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "Delhi High Court grants interim bail to MP Engineer Rashid following father’s death - The Indian Express",
         "source": "The Indian Express",
@@ -272,35 +418,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Delhi High Court grants interim bail to Baramulla MP Engineer Rashid to attend father’s funeral - Bar and Bench",
-        "source": "Bar and Bench",
+        "headline": "Terror Funding Case: Delhi High Court Grants Interim Bail To MP Engineer Rashid To Attend Late Father's... - livelaw.in",
+        "source": "livelaw.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa3dPUlhEblhZaUFlWTU1V2pzUzJuOGd2ZXJlTUJSTmlKbWJNaEtIU1huYlJWdHU3T29uejZDRVRYOGRoVGlHRXJYWjlxTldIeU9Edl92VWhSS1lWeU8zTmpXbkFzWnpyVGtzWkdRdHFuZUpia0hpRXJjY3JwS0tFQjlneGpmS19UZkk5OXlOTDlYZTBla0VYeEZ5S2dZelRUblhzQ1h5ZzZ3VzI3TTZrQS1HelBPWTZqbEtvanN5NGNubUxzT2hYMS1PUnVGSFJLeUVr0gHTAUFVX3lxTFBrd09SWERuWFlpQWVZNTVXanNTMm44Z3ZlcmVNQlJOaUptYk1oS0hTWG5iUlZ0dTdPb256NkNFVFg4ZGhUaUdFclhaOXFOV0h5T0R2X3ZVaFJLWVZ5TzNOalduQXNaenJUa3NaR1F0cW5lSmJrSGlFcmNjcnBLS0VCOWd4amZLX1RmSTk5eU5MOVhlMGVrRVh4RnlLZ1l6VFRuWHNDWHlnNndXMjdNNmtBLUd6UE9ZNmpsS29qc3k0Y25tTHNPaFgxLU9SdUZIUkt5RWs?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeDV1dVp2cEZlbUFwME1zeUNHZHJMbjJ6aTg0MTNkR0NRbmItcVFWZjRnY1lraE84SUxJc3BRLWNmT2NOUXlSMkRWdDdXS3JhTHBUa2xpLWF0R0JRVi04bjlMWmNrTmd5dHRCYnVCSUF0SDNkNkRsc0RaQm5wVHN4MG54dzFuYndkVF9RMXg1VHdfWjhkcmNrbjMwR1M2bWhCclHSAacBQVVfeXFMT1RTczREWjhYMUJoMDU2emZEeEI3TkpCNGVtUVZsUGF0ZjlzRjA5Y1ZGTzJGUDZXX1hNS0xQRmljdWwwU2VkMnhkaTJTbnlVbzVYa0hvLTJsWVdDMXB4SHBSWW9FUUhiYWRSNDg2X2sxM3BkcFdsMjRvbF8zR3JqY0FfcmZSQlVEOGJsUEh5WEhiUGlZYU44aFlWR2R2aEh3UkxBRExtYnc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Jailed MP Engineer Rashid's father dies aged 85 - The Hindu",
-        "source": "The Hindu",
+        "headline": "NIA court to decide on Baramulla MP Abdul Rashid Sheikh’s request to attend Parliament session - thenewsmill.com",
+        "source": "thenewsmill.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX1VlMjZrajM1ZE9IWWl1RGNESnFKZW1KYTZRWGxCQTJLdmlHUW5pbFp2a2lyUmJ2TnYyS2N5OVQzU0FKaTM0aDVsT0prWWJyNXVKc0pCQ2VMaDlWOEdVN28td0gwMUFXWHExUlBMX1NJcTNCazhGNEdFQVdpVEV6c2VwU3NZYnZWMlVycGdNUFQxQmZlN1hZN3UwUXdmYXVPM2NzRWRvTTdVRFl1X1BMR2pBUGNkUWpNUzl0QnV3SG7SAccBQVVfeXFMTTBGU3dFUVRhOGZJNExEaGVGTU9JSGVhSE1FVVFBdGtzTWF6RnNhTzVwaV9rNmdGVDY2RFJXNl9UM0hFNEhfcEtNZDFkWEpzekZ1cEFpSmxYT1JZUE9kcFJGU1FrVkphd1hRTXFCVzk5WTJEclRwTjhuRzJfeFlnd2hsNWtVTHp5Ull0VFdrTHNIaFRKU05ielpHTHpaRHR2MGpRMTNWamhNQ0JWSXJudEtJQnB3X24yRjdZOFZBaEZ0V3lWenNuSQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0RIRk5TcU45LURVbHRWZWFYdWFoVVdUME1PQmxjU3dCVEh3VktKYjRxR1h1bmlUSmFkWTFnQlY0TWVIYVpYWmh2RXN3akJJcG9VVFZCcUtaRElpUGJXank1N21pOGZZNGxOeVJDS1luSWN6MU55ZFM2UE51eF9TOWlNUVZyMzdxREpmakZFTS1OQXZmaVppLVY5cWI1Mk5NR0RqWTd4TzRSc3hWallndHNLelBCM3FuUTkwNnJfQkZmYWZD?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Delhi High Court Grants Interim Bail To Jailed MP Engineer Rashid Following Father's Demise - Live Law",
-        "source": "Live Law",
+        "headline": "Baramulla MP Engineer Rashid gets one-week interim bail from Delhi HC to visit ailing father - Scroll.in",
+        "source": "Scroll.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1BRYzg2cG04RWt2Q2UzbXMzdUlpYlhYS2JTekRtTkpMWnNwTVV6VW9XOF9leXI2bFZOb2s0bmR6eGxlX1cxbFR2akFVRUlxRnRQdnVSRFJkMXFkMzY3TTRhRFBTMDViYm9UeDRmUHNyVlpUR0xZRThrMjJrV0d3Wk9nNXdqVU1PbE1YZHV6U2N0aGZfY0t4RmhXTkdjeHhmaURhX3NyaHcwRG81VVc3VjRRMlhxNUdLZnlGODhiTnh0S3o2eFk1MkFuaHBseVdH0gHWAUFVX3lxTFBqZlZFaDJGS2dwQjZOZmFGendQWkZrUHRxLTBqM0hZMEhiN2xnY0xqTzAxdV9HcVl0VTJYOUdJczBZSy1RaTBWeHFCRG56ZmtydFptc2Fvb0pWWF9KSkNZVHpvTU5xM2VjR0dpcEFGMzBORHlJaEpuNUNqMjR0RlBKTmJwY0gyMFFna1c3MVBPRVpfZV9NbFJKRUFIcXNfeW14WDhINERLXzlxci1RcEg3UGVFNlZRR1ZOaXpaLVk5ZDJkdkc3Vy1xVnBNYXJOZkE3RGdIRFE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Delhi High Court Grants Interim Bail to Baramulla MP Engineer Rashid Until June 2 Following Father’s Demise - Law Trend",
-        "source": "Law Trend",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSG1hdWJZeTlNYlo2eFV4bTlQWkp6YklDWUpqcmstMHFKWmJrM0lzMW52QlppeTVIbkxQUE5aWXlMS0NCS1VhclY1cFk2X2cxbThUMkRGcDFHN3Y3cFJHQ3hIempyUElpajZ3WkpMR1plSkVQT1k3eWNaY25PY1Uza3ZKY3IzNXJOSmRzdjlZRUFaQjVzb3pfOFRObURHTXh5cDFlYWJtWi1QQzlad2hMc1Nfb0NiRlk5c2g0cDB6OHpJQm5TOEE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlVwRU5QTnN0Z1ZpdlVWTTJxak9VV2wyRW1jU3FhWS1sQXZkWV8xOEZjbmJQRDI1ak9UU0tUdENzMEJMN0NMQm1KZ3VrSkdZaGo3Vlp0OGRIWnZpaS1xd3JCeTBvX1QxZDczX3lCU1Q3czNFdThnbTY0ZDBnQWRYYjBTSUUyT0EyZDM3ajU0bTJVM2NMSlE1SWxabWRTb3F6YzlPbzJZeFBzalNCZUVfYk5DUk9LdzJLa3IzUjBTc2tOV2PSAcgBQVVfeXFMUFFYVHFDNDJfWjJ0bjU5dmdOZTdoV05Vd2J3RzVHRnhpeWdDd2JnRS02QzZCUDBUZm8tSkJHM3RpbElfQ0ZfdmFjYzV3bEM1Z3B4VVV5YTJKQnV6a0RvYlJEMkcxdHVJQ2wyR1FndXI2SmZLTTR4QlpKRTF1ckFfenJwTk90bmIyNVZpSjZCaE9WWlN0dXdhZWFEZVlYMzFPRHYxSmFCYzRFSzZHNHNYcF9uWTAwWE12VUxsUVRnQklqYmtkTlhWM0w?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,16 +488,16 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 0.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
+    "pattern_label": "Low attendance",
     "confidence": 0.0
   },
   "mgnrega": {

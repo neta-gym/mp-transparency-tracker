@@ -4,16 +4,16 @@
     "constituency": "Unnao",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5376,
+    "myneta_candidate_id": null,
     "slug": "swami-sachidanand-hari-sakshi",
     "house": "lok_sabha",
     "sansad_member_id": 3586,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 68,
+    "age": null,
     "photo_url": "/mp-photos/3586.jpg"
   },
   "findings": {
@@ -22,80 +22,140 @@
       "constituency": "Unnao",
       "state": "uttar pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 5376,
+      "myneta_candidate_id": null,
       "slug": "swami-sachidanand-hari-sakshi",
       "house": "lok_sabha",
       "sansad_member_id": 3586,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Doctorate",
+      "education": null,
       "profession": null,
-      "age": 68,
+      "age": null,
       "photo_url": "/mp-photos/3586.jpg"
     },
     "criminal_record": {
       "total_cases": 2,
-      "serious_cases": 0,
+      "serious_cases": 2,
       "convictions": 0,
       "pending_cases": 2,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "",
+          "ipc_sections": [
+            "420",
+            "467",
+            "468",
+            "471"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Court Sessions Judge M.P. M.L.A. Court Etah",
+          "fir_no": "",
+          "case_no": "1862/2014",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "",
+          "ipc_sections": [
+            "420",
+            "467",
+            "468",
+            "471",
+            "409"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Court Sessions Judge M.P. M.L.A. Court",
+          "fir_no": "",
+          "case_no": "768/2009",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:13.006315Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 67226281.0,
-      "liabilities": 0.0,
-      "net_worth": 67226281.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5376",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.181869Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 46.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.67,
-      "expended": 5.63,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:22.393900Z",
-          "notes": "Official eSAKSHI REST API — Works: 84 recommended, 61 sanctioned, 11 completed"
+          "fetched_at": "2026-09-02T18:28:50.516668Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T18:25:04.813451Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T18:25:04.811383Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 84,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 38.29931972789116
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -110,7 +170,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:11:37.008090Z",
+          "fetched_at": "2026-09-02T18:25:04.810619Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +178,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Unnao election results 2024 live updates: BJP's Swami Sachchidanand Hari Sakshi wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNSC0zblZRVnFkcDJBZV9iTWQtNzZiaVNRQXQybGh6RG9XOGVNZXpZYTUtZVlPVmlUZHlIalEtbnJ3dVJ0X2lraHFxOU1OYVhTWjlwaWdvckthWjlHOXJMTTVYbXBvVHRTTlpIc0ZJdncwMlY3bTlUZ1JiUE82TGQ1ZmNXTjhFNjd2WFhXX2ZKT29QZ09CTE1BZDctZERYeDFJVEI2c0x3WktqN0RjS0REVzlsUU4tXzJTTThnTnBldDNmLVY1QWdyeDhOMmxTMWZQNHZhcHdwZ1BkRUpoX2tLd0lsVy14S1pCajBNcG1JOEM1OW9KU1ZlaTR2cjY4TXl3Tnc0THJPZ1dBLU1UaFlOTGpGRnJBMGtqWmI2MzNSMzlKRHlEeDhXdThOazV0VnRBYUZZdDBfT3ZkZmtrSmRfa0hQMVBCWl9hQ2owd0REWEZrMWZTY0xN0gHcAkFVX3lxTE0wV0J5cS1mcXFweTZEck5WZ3JJX1h1eElRWHBIdHJPeUFPeVItNldrcTdfdWd3N1VmT3J1bms0cGdKZFdRb2JwQXRQZXhGR3Y0YnFROS1VS3hOZUcycUFBRUpzNVhJUEVYdVN2S2R4Mm53b3dIMDN2bENBS1pHMjVRMGt6dWVMTVlXUmRIQjBSREQ2NElucFJUcU1xUi1kOGcwNGpDVXRKaEdnSFY5RUZZNXZ1djFxNW5YLU1IWU83NU5PQ29nbGIyOW5LQXRSY05lRVV5NERqZUZKR3M5UFlUWC1HTzZ3YUc2eVQ2N2ktMXNwQl9Nc0VCSi1wUTAzWVZpYkNRV2MwcnIyWXllcE1FVGdHUG8yZnd5REVrWmlsNG9LLXhSVWFUVXpYeHF3Qmd0Y3NpSjBGTUVSZEUtcFFrZFhDNlNJaTMtTmFuZG5nUUgxemJkUE41QzViSA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP's Sakshi Maharaj Wins for Third Consecutive Time from Unnao Lok Sabha Seat - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTnNJczFreXQwUHRHMnE2NnFuSHhaOFhQaHhtN280ejZxdVVxSWVvVGhyMllYQm9DaEdFXzZHRHBoZ2EyN0ZHM1hiZ181UUVZMElEanFET0RjSG4xaExUeHJRT19BaFBQVVRVbmlpWV9UY1FiR24yYnllTWFDQ2R0ZjFnNEVVd2h0dXc1dmhVWVlhYWR0NHJHdVlxNk9TM2NHaWtOR2wzbm9iZUFQNTdxQWZ4aW9SZmxrN08wcEpPTDdCSXJiV1NabNIBzgFBVV95cUxPLWh6RzdsQ0FqWVhsTTI4QXpKUUdCZHFxM1NiUEtDeVlqdEVvN0g1UjRjZUZMQUpURlZlQl9jalpfbFdaNUoyaENtN2xvaXI1YTRjQzVqNWl4aWRwVjFGWTZVTXpzeFZLdzk3ejhrRXJHS0xXVnBuU1EtUE03UzVxdWtJWVdOU0pXRTZZRG5LbUNQeTJEdFdQcDRDV3YxRzJxQXZwZDNWM2dmUC16bklkcFVXc2gyaVJPc056ODVURm4yaG10cVBxVW15LWpzQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "FIR against Sakshi Maharaj for his remarks on population control - The Hindu",
+        "source": "The Hindu",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV2V2R1lRNmgzaGpGLXVHZF9LS1B4NExXVTNnSEdrdWU4SGRRVkRJc01TUEFyMWI2NHB6ekFhVU5uUC05VkRvR01ld3VzTnliZnVXVGxITXdxV1AyUjRacnY2b1R3Y3dXamg4S3pfTGY3MVpmdk0xLVhCdnkxNEF3LW1aUVhReHQ3OFVURXplZDFwTThYVzNJV29EdWFOUEl5Um5ZZ3ZYVEhKWjlmdGN4cXhqVGZtYTJyR3Y3NkxacS3SAccBQVVfeXFMTmJHUEpqNGc4UUVYcnJ3Q1NFZ3BNTHZRbkczZUtEY0xaWlEtampEaDQteUFzbUFwRkNVUE92Mlc0T3BkM1VjdUNfbEp3bHl5YUZVcGJNVVNmc3pqbG9rN1JOUjJGYVFfUHBxMWhlVTNWZlJxNVltS0ZBZFVZZmFLUVcwWFozd0tXZ3dMV0pRcjE1dDBIZTdEVk1xQk1UazU2MVRoWm5jZVVVY0tJMU9WSzllbmo0Zlh2MGZwVW50aG9hOTNCYkM4QQ?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Allahabad high court dismisses UP govt’s revision plea against discharge of BJP MP Sakshi Maharaj | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTllTUUlyenBoTXg1VTFNNlFiNGRYR0w2ZTRQSWtRZVg5NHhDbmRaMUFXZDdaUEo3RW9WZ2c4MXZfWFdCd2xDQkpnYXdKaFBtMTloN3Q0SEJXZ3VDVW9tY1JnQUdLVkxzck9CNW1teDMyU19LV1hJSXVOeDgxenlSZXpxSW5DNlo1V0pkQmFaaXRRcjJ2eEtmd1B4QktIanA2RUJJSXZfSTdSQkdEUjRNY0lZVmQ3bmpOWGFRamNnMW1NbWY5QUpPeUtDYjhad3Q2UjRRSE9Eb0hkdTBKRzY5M05fc2ZseDZTSlZIU0UyaGNlYkVaVDNMektEbmhMUdIBgwJBVV95cUxQRnFfOHNsTklKdmoydXRZNlk5VkpNVnpQT2JPS1NRVHVvS3pFb0RZUG5QeGdoLTAwX2dQMC05QjgteVN0dzliTGlGbjFURVJOUm04N0huVmczR2l2SUhvM2h2RjRNMnVuSGFBZG5lRld3eldpZk5NNXRyX1lIdlc4ZjY0LWctTkotMFBVNXdDNElubzQ2YksyT2VYTEQ4RndSYUFlcUI2UzRwN0FvYk5lVGhnbU1VZjVRTGhhNFp2MWxxbV8tdV9aZ1A0N09mQUItUVdSLTd4U3dyNXlxUHdkM0lsSHlvZG5iU0QyVlZGNFl2cDNORGpOR3RCQ1RjOUFGdHh3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Controversial MP Sakshi Maharaj has a trail of rape and murder charges behind him - Scroll.in",
+        "source": "Scroll.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVJKU3FFSzcxVkxUOVJuMUJVV0ZibjJfZ3paMlpEck5ubVk3dzY4MklXRDR5R0puRFhrQVRmMmFPN1BCV2s0Z2dUMHQxNWxiZy01MU9pUFJVWFM2S2RJRWVBREo5OUZRZmdoOXZ4NHVhUU9iYzFwQVNtalJUWW8yby1XdGRGX1FlcG4tamJibFFqanRCdGtXa19ra3dSSXRFMGNjYm43R0hfZHRqQVkxX2ZTeHLSAboBQVVfeXFMUDBzeFpDbFJrREdKVHNieUtRYXpuQmswRnRiQUM4WFdjZzdoU0JBRld1ZHdKaXI1Tnh3SGFwbXpXNnNYZ1ZDdU45ZVJqZ3ZJb2tRUXNfRFdlWE5mQ3BtaUZUdkRDOEFNb012VlVRdDBFbnRnaHFvem1PMG5aQmhWUnFrTmlrYkM2MTFqQ3MwdWlJdlh5X1VsTUl5R2dxX0UwVFpvcHNkVGJPcVVNLXJLY013OEo3M2xGdDVB?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:11:56.696199Z",
+    "collected_at": "2026-09-02T18:28:50.517387Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +247,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.307652Z",
+          "fetched_at": "2026-09-02T18:38:11.887360Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +263,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.307661Z",
+          "fetched_at": "2026-09-02T18:38:11.887371Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +279,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.307667Z",
+          "fetched_at": "2026-09-02T18:38:11.887377Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +295,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.307673Z",
+          "fetched_at": "2026-09-02T18:38:11.887381Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +311,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.307678Z",
+          "fetched_at": "2026-09-02T18:38:11.887387Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +327,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.307684Z",
+          "fetched_at": "2026-09-02T18:38:11.887393Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +343,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.307689Z",
+          "fetched_at": "2026-09-02T18:38:11.887398Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +359,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.307693Z",
+          "fetched_at": "2026-09-02T18:38:11.887403Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -292,11 +391,19 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 8,
       "positive": 0,
-      "negative": 0,
-      "neutral": 10,
+      "negative": 1,
+      "neutral": 7,
       "top_headlines": [
+        {
+          "headline": "Unnao election results 2024 live updates: BJP's Swami Sachchidanand Hari Sakshi wins - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNSC0zblZRVnFkcDJBZV9iTWQtNzZiaVNRQXQybGh6RG9XOGVNZXpZYTUtZVlPVmlUZHlIalEtbnJ3dVJ0X2lraHFxOU1OYVhTWjlwaWdvckthWjlHOXJMTTVYbXBvVHRTTlpIc0ZJdncwMlY3bTlUZ1JiUE82TGQ1ZmNXTjhFNjd2WFhXX2ZKT29QZ09CTE1BZDctZERYeDFJVEI2c0x3WktqN0RjS0REVzlsUU4tXzJTTThnTnBldDNmLVY1QWdyeDhOMmxTMWZQNHZhcHdwZ1BkRUpoX2tLd0lsVy14S1pCajBNcG1JOEM1OW9KU1ZlaTR2cjY4TXl3Tnc0THJPZ1dBLU1UaFlOTGpGRnJBMGtqWmI2MzNSMzlKRHlEeDhXdThOazV0VnRBYUZZdDBfT3ZkZmtrSmRfa0hQMVBCWl9hQ2owd0REWEZrMWZTY0xN0gHcAkFVX3lxTE0wV0J5cS1mcXFweTZEck5WZ3JJX1h1eElRWHBIdHJPeUFPeVItNldrcTdfdWd3N1VmT3J1bms0cGdKZFdRb2JwQXRQZXhGR3Y0YnFROS1VS3hOZUcycUFBRUpzNVhJUEVYdVN2S2R4Mm53b3dIMDN2bENBS1pHMjVRMGt6dWVMTVlXUmRIQjBSREQ2NElucFJUcU1xUi1kOGcwNGpDVXRKaEdnSFY5RUZZNXZ1djFxNW5YLU1IWU83NU5PQ29nbGIyOW5LQXRSY05lRVV5NERqZUZKR3M5UFlUWC1HTzZ3YUc2eVQ2N2ktMXNwQl9Nc0VCSi1wUTAzWVZpYkNRV2MwcnIyWXllcE1FVGdHUG8yZnd5REVrWmlsNG9LLXhSVWFUVXpYeHF3Qmd0Y3NpSjBGTUVSZEUtcFFrZFhDNlNJaTMtTmFuZG5nUUgxemJkUE41QzViSA?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "BJP's Sakshi Maharaj Wins for Third Consecutive Time from Unnao Lok Sabha Seat - ETV Bharat",
           "source": "ETV Bharat",
@@ -306,19 +413,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Sakshi Maharaj case: HCdismisses revision pleaagainst discharge order - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
+          "headline": "FIR against Sakshi Maharaj for his remarks on population control - The Hindu",
+          "source": "The Hindu",
+          "severity": "medium",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNjdhZjh4WnFILUY0TTBGVmFLS2FoMmdRRURwTl85THlwWTMxdTJNZ0JycUlUdTdPQ0hHQTAyQlF3Zm1Rcm1MMjI1RjRrNUN2ZXRtb2x3Y0VXWVltU0l2ak00eml1dzE1UTBRazV5R1lMTDNiN2R0R2l0T2lKeGt5ZnNIYXY3NmdYbDZPQUttaFZETXBKRTZ2TFpEVVZCWXQyRlVhdmN4bmJpU1VvZWticXRfSnVCUFdBcUx1WWlsaFJrY1Nqb0RNM3g1M015LXh0RGczSkNkUmFmVW8z0gHiAUFVX3lxTE9PT2dDam5xRnlQZ25wR3BQQVpkT1YtbVBuQjJIWFR5M1d6MDVmZmtEcGNTdFpqUS1QLWJ1cDUyMjVfSFc0UDZrbWVaUjhPcGxaRThCSFlOMTRFMWZ4em0xa3ZoOENyVXNLMC1EeDhVeE5OSnRBUW9NSHRoRFR5QnNIdzdOVjdFSGJxQlA3bzJPTVVRWVdwRzdKaHM0ZU91cVBSRFExbnRHUS1YTUtjRVNkWGkzSGZlMVE4M0RURnZVTWp3T2Y3ZmNkcGhqZDhnWGUzZi1IeDR1ZjRDQ2ZCLTd0ZGc?oc=5",
-          "sentiment": "neutral"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV2V2R1lRNmgzaGpGLXVHZF9LS1B4NExXVTNnSEdrdWU4SGRRVkRJc01TUEFyMWI2NHB6ekFhVU5uUC05VkRvR01ld3VzTnliZnVXVGxITXdxV1AyUjRacnY2b1R3Y3dXamg4S3pfTGY3MVpmdk0xLVhCdnkxNEF3LW1aUVhReHQ3OFVURXplZDFwTThYVzNJV29EdWFOUEl5Um5ZZ3ZYVEhKWjlmdGN4cXhqVGZtYTJyR3Y3NkxacS3SAccBQVVfeXFMTmJHUEpqNGc4UUVYcnJ3Q1NFZ3BNTHZRbkczZUtEY0xaWlEtampEaDQteUFzbUFwRkNVUE92Mlc0T3BkM1VjdUNfbEp3bHl5YUZVcGJNVVNmc3pqbG9rN1JOUjJGYVFfUHBxMWhlVTNWZlJxNVltS0ZBZFVZZmFLUVcwWFozd0tXZ3dMV0pRcjE1dDBIZTdEVk1xQk1UazU2MVRoWm5jZVVVY0tJMU9WSzllbmo0Zlh2MGZwVW50aG9hOTNCYkM4QQ?oc=5",
+          "sentiment": "negative"
         },
         {
-          "headline": "Sunday ET: Sakshi Maharaj, BJP MP from Unnao, is a relatively unknown entity in his constituency - The Economic Times",
-          "source": "The Economic Times",
+          "headline": "Allahabad high court dismisses UP govt’s revision plea against discharge of BJP MP Sakshi Maharaj | Hindustan Times - Hindustan Times",
+          "source": "Hindustan Times",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa3UzR29FNkdUZ2tvdXZkX0dPdWE0R0o1cEJuOXVZeEZlYThiMVF3N28xN3hhdndIUVY3anVlSm9fa0I5Qm5HT2FTWnJvY1dLdktZbzEtaUYwRGxwVlBrcnlTZTFydGNiM05fMGFfMnBYTEZNMUpLRTM4bWltcWFabzBXdHRyOHVyZEZpVjlpWEd1dk1MMnJKckpMM2VveEpKNTlvblVlUWl6eVY0cGVQc21UMDlnaUtFUnZKTWMtZXVpVkRUTUNveHo5TE1YTjRKVVcwM09laWEzaTFON0xHWVVrT2JZNFRHTzk5TWVxZHJGVjg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTllTUUlyenBoTXg1VTFNNlFiNGRYR0w2ZTRQSWtRZVg5NHhDbmRaMUFXZDdaUEo3RW9WZ2c4MXZfWFdCd2xDQkpnYXdKaFBtMTloN3Q0SEJXZ3VDVW9tY1JnQUdLVkxzck9CNW1teDMyU19LV1hJSXVOeDgxenlSZXpxSW5DNlo1V0pkQmFaaXRRcjJ2eEtmd1B4QktIanA2RUJJSXZfSTdSQkdEUjRNY0lZVmQ3bmpOWGFRamNnMW1NbWY5QUpPeUtDYjhad3Q2UjRRSE9Eb0hkdTBKRzY5M05fc2ZseDZTSlZIU0UyaGNlYkVaVDNMektEbmhMUdIBgwJBVV95cUxQRnFfOHNsTklKdmoydXRZNlk5VkpNVnpQT2JPS1NRVHVvS3pFb0RZUG5QeGdoLTAwX2dQMC05QjgteVN0dzliTGlGbjFURVJOUm04N0huVmczR2l2SUhvM2h2RjRNMnVuSGFBZG5lRld3eldpZk5NNXRyX1lIdlc4ZjY0LWctTkotMFBVNXdDNElubzQ2YksyT2VYTEQ4RndSYUFlcUI2UzRwN0FvYk5lVGhnbU1VZjVRTGhhNFp2MWxxbV8tdV9aZ1A0N09mQUItUVdSLTd4U3dyNXlxUHdkM0lsSHlvZG5iU0QyVlZGNFl2cDNORGpOR3RCQ1RjOUFGdHh3?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -328,17 +435,9 @@
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVJKU3FFSzcxVkxUOVJuMUJVV0ZibjJfZ3paMlpEck5ubVk3dzY4MklXRDR5R0puRFhrQVRmMmFPN1BCV2s0Z2dUMHQxNWxiZy01MU9pUFJVWFM2S2RJRWVBREo5OUZRZmdoOXZ4NHVhUU9iYzFwQVNtalJUWW8yby1XdGRGX1FlcG4tamJibFFqanRCdGtXa19ra3dSSXRFMGNjYm43R0hfZHRqQVkxX2ZTeHLSAboBQVVfeXFMUDBzeFpDbFJrREdKVHNieUtRYXpuQmswRnRiQUM4WFdjZzdoU0JBRld1ZHdKaXI1Tnh3SGFwbXpXNnNYZ1ZDdU45ZVJqZ3ZJb2tRUXNfRFdlWE5mQ3BtaUZUdkRDOEFNb012VlVRdDBFbnRnaHFvem1PMG5aQmhWUnFrTmlrYkM2MTFqQ3MwdWlJdlh5X1VsTUl5R2dxX0UwVFpvcHNkVGJPcVVNLXJLY013OEo3M2xGdDVB?oc=5",
           "sentiment": "neutral"
-        },
-        {
-          "headline": "Who is this Godse-loving Sakshi Maharaj? - dailyo.in",
-          "source": "dailyo.in",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWElaU2w1cnFnY1kzLU01a0hjdWRVdmVIWnBOTm9uX2hLbDljdVRHYVBDbmR6Y0xzd3RVMUZfSE53VkdKeF9HZllpcFV4UXA1cU9meVM3RllzZmcwZW1tajRBSV9xd1piX2o5Ym9lb0c4SzZHSDNFeWZVZnN4OVNWdNIBhgFBVV95cUxOQ09SM3F3Z29IeXFsdGx0Tl85WjNaeUNEYVNUVDdQRUdURVlPc0NSVktPS3BzMlRyNG1tTlEyS3BocWdrbTI4aGExTFFmVldjbFdKY3RYQ093bU1FdUxubWxhVHFzR3pZQjBGVEtfV3ZsMDFXbjg5dHhYSmVUUDNiXzh3LWc2QQ?oc=5",
-          "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (8 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -384,17 +483,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +514,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +541,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 67,226,281. MPLADS utilization: 38.3%. Parliament attendance: 90.0%.",
-  "validated_at": "2026-09-02T01:36:54.308537Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (2 serious), 2 pending, 0 conviction(s). Parliament attendance: 90.0%. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.888093Z"
 }

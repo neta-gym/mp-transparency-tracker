@@ -4,16 +4,16 @@
     "constituency": "Rewa",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2094,
+    "myneta_candidate_id": null,
     "slug": "janardan-mishra",
     "house": "lok_sabha",
     "sansad_member_id": 4728,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 67,
+    "age": null,
     "photo_url": "/mp-photos/4728.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:59.919381Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 50938896.0,
-    "liabilities": 10536551.0,
-    "net_worth": 40402345.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2094",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.030564Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 40.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.33,
-    "expended": 8.52,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:33.285499Z",
-        "notes": "Official eSAKSHI REST API — Works: 89 recommended, 81 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:54:02.429509Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:50:16.788679Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:50:16.785882Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 89,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 57.95918367346938
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:29:32.396774Z",
+        "fetched_at": "2026-09-02T14:50:16.784801Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Will pure petrol come from your father's house? BJP MP jabs ethanol critics - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSG1uV0NjeDFycGduaEZCSXg3MVlMajlkTjNHTDFBeEJVOVY1UFhuMmtERmpfMllCUUpCeGVXVnF3T05vTC05a1A0MXhTQnBKN3puTGhIbkd5TFNzUHdLVGtRdHBpWC12VWRBSnFOWG9wQzNUZEFqUl9jMHNZUHhZak0yNFFjbzN3bGdybzZPVkxnd1I4MlMwaV9nNEN6V1JoN2Y2Ml9OWUR2cXltVlFEVFF3SE1VNEdubW5QRXQ2bTdGZ0QtdXJRR2MxamFJZ2M4bk0yYUo3NjgtcGR2ZDNPdUxIUTRuVTFpNl9EcVFJb2dyY1BjZG5DTzFn0gH_AUFVX3lxTE5QRkxRbG13VFZMNE9peW14Y3NuNG9CZ1o5WU9ZZmtOa3hPM1B5VllVdjRQQXRkdnF5ZkpONzZ2MDlDeHd4bnFXdjBybjNoam1FM3Z4Rmd0endScGUxd00zQ1hocmpETVZIQW01VHhsc2FKVkR3SjJfZTNxbXo1Q29oTTgtcjBTZG9rWUFiMmkwQzRiZXNCTERqNkRUUG5sX1M3aWRqZFhBQU9rVTlPWGFsODc1MS1DeHc2VDFQNEowS0luMDdSRG5WOHVBeW9jVWtrbHl0dlpScjdMQWI4YUVzUWg5cGR2dzU4Mm5PbnFhQVZvQmNJckZCVkdxbUpmOA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘No pure petrol in country’: BJP MP Janardan Mishra adds fuel to ethanol fire with ‘baap ka ghar’ jibe - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMmtBMDJDeFZnMGVhRGF6a2ZFR3dxb0JnYXFiOGRVNWl1ajI5NUJ6UlY0OVNhRHpOSnlXTU5JNi00d3dBWkpvMi0xdlUtX0cycGJrUXlLRzhWUFprYnhyeTkxWjF4eWx3S1NFeHktaUZVRXNGbmhqZXhXdGhtTXpqcGk5QmNGZXN5TFUweE9LOU0zbEx2a19uTUVmMkNNU2ZfUV9IV1Q2WU50bXpSbnB5V2dCVTJ0VU5HRzdRT3RWbHMyTTZCVUhvZkl1LXFkak9n0gHWAUFVX3lxTE9BdV84a0dfZFc4YmdJc0N6eEc2MjltZ2daLVFjVmdwSDR5UVRXYTU3R0kxTF9sS3YxWUhIcnJTX2cyenVlcnZyaTNZTWlMOVYxMWRWWElWdEMxRmhuWk5hbEExSmp1bjl3THV1cnpoM3h0UUVJLXpyVDRTejFSNUxIa3NvUDNsUEdiR3A3WGNZb0R5bXRZUlBZTF9aclZsSVpHc24xT3pYaU5XSThQT2g4cTBQU2treGd5VTloTkVFbGhBSHEyWGhCa0hGNDlRTmd4b2xMM0E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Will Pure Petrol Come From Your Father's House\": BJP MP's E20 Shocker - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1RGTV9LV0Nycm94Rm5LY1NpOENsd2gtNDdQSjJKVTQ3bVdPaWlmajNsWWJraGs1WE9JazdRQmgydzlfRnlGX3g5WjhDTEphRVN5MTEwV0x0UThNLWR2SWtsa0s1WTRfQlp3Nk1hcDdkTEpiamNYUl92cHA2VDMxZFdiT3VOdkR2VV96c1lvT0U3bmNQRzdhaHNzemRSajlpVUY2ZmpTelhDOGtUQVRtTUpkdkI5NDZ6dFlqY2xn0gHGAUFVX3lxTE4zaURRTzc2aWF6NmdYN1V1VE9RazBJSnFOTlBzZi1pbmtqZS1Xajh5U3VaWDJiTmwzczlHNkQ5OXdiRXdic05PQVNvR2UxeW1vNXBDeXhUWXZrOWxkSUlfWFRaTHI2b29FUUQ2SER6dUtGZHRyeURvWEdvZWlBanJIaFV1NGdMTmJ2aklLbTc5UTV1dnEwN3o5clp2cHlZLUVWeE03R2pCM2U0Y1J6RHhjRkFXLU9KNHJza2ZfMU11WllCLWM1UQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Kiske baap ke ghar se ethanol aaya', says Neha Rathore: Folk singer asks whose boys set up the factory on ... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjJBQjFIWUx4LUprS0c2WWgzdHRRdVpfd3lLak1BRXJjQkVjUGYzQk92MlppbTBKWEJGT0JpcnphLXh1MVliU29zNmJfRW5aUlNFaGFVRDhrMVBsRnhscjBtcEJYeXFqcVZ2cHVqQzlOME5URno1RWpqRy1JTElVdWFOME55MUl1YzROTFhrSkRhelIzYnZ0alIyXzMycFZUNHNSbkU4cUliM3J6alRZdXpUc0ROSVpQU3gxaHktX2RIdlhTTVg40gHMAUFVX3lxTE92ZUpicHlaR2VfTmhkeUhnS2x3Z3J3UldoZDRGQUhxVGdIdnpSM0pvZlA0YVJVNWN4NmI1YW5Ic2RCVy1ldGRVa0w0UmZRMWlpbXFUdFVtV1ljdnlnYTVMX3gzZTBpYkVuc3ZfM1BTaDFlNVc3VkdDQmVobll1b0hpQ29EYVFhUDlteUdFNTRnZmJvTDRFcUJ0SVdOMzZmMWZSbzB4OTZrdDk3akJjUHdtTjE1RUYxdmJoVkNRX3hkUzVqY1FaLTdQdWRyeQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Will pure petrol come from your father’s house?': BJP MP courts controversy over ethanol blending - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbUxGVktlaEdjTTNHczlBbmlDYmtGTXNmTDB3MGI5eWMxYWNIbjBKT0FURU5seF83VHY2N01udkdNQ3Bod29vTzhvbFlBVHctY0M1WmtGYmxULVIwMkJDazFrRFh1cHFzaHhQUktVS1c1NjE4M1FtSWg0WFltQUxxQ19TY0dHbjJKVjNaeVdBNWhMNlNOUUpVUVZWa3BLZ2JPaG1BZ2EzUldxQW80LVlJbmZyNmV6UkdBbGNhN3lCSUNUaUJrNHA2M1Z5SnJkV3NQZG5vLVYyRUdSU3NrdWNQcVhLRE5jZE5ZcTBVQXZDOGdQUdIB_wFBVV95cUxOZnROckREeG1DaFdSM0hrb3VsSDlyRXFzZWFzS1RvNGc2TnJQeWRyd0JZYVFFX1NvcUpLeVcyN2dWMUlzV3pGR3VOQzRmNnJfSC1IMmVkczFlLVRqbUdzQlh6bXRzX2p0RlAySHBOUGZDbEdkSzJnb3VWeWJHOEJ1VTRjUkZoNE15R3I3R25TSC1Da2x0WS1CQU5jM0FueG9IVnYxOHpZb21Yb1RuRDBGYktRTllOU05rdEdKV0ppbmtwT3NRVGFodjVIbHdkdEkzRWZWemZzdnc3VUpBdG0zdXJ0bE80QUctQy1UY1Jna0oxOGVyeDJrdnVaYnhHa0U?oc=5",
+      "sentiment": "negative"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:30:31.614626Z",
+  "collected_at": "2026-09-02T14:54:02.430539Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.904219Z",
+        "fetched_at": "2026-09-02T18:38:07.398540Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.904230Z",
+        "fetched_at": "2026-09-02T18:38:07.398552Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.904234Z",
+        "fetched_at": "2026-09-02T18:38:07.398558Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.904239Z",
+        "fetched_at": "2026-09-02T18:38:07.398563Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.904244Z",
+        "fetched_at": "2026-09-02T18:38:07.398569Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.904249Z",
+        "fetched_at": "2026-09-02T18:38:07.398575Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.904254Z",
+        "fetched_at": "2026-09-02T18:38:07.398580Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.904259Z",
+        "fetched_at": "2026-09-02T18:38:07.398585Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -276,48 +329,48 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Rewa MP demands probe into IAS Santosh Verma’s promotion: Says, 'He changed his caste from SC to ST'; court... - Bhaskar English",
-        "source": "Bhaskar English",
+        "headline": "Will pure petrol come from your father's house? BJP MP jabs ethanol critics - India Today",
+        "source": "India Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdk5GZmVjbjRsaVBqWE9HUnV1WDZXZGdqQzdpY3JYSnVUMDRZRl9MT0J3SHBuTmhxYXdTT01xRUxUeVVsMV83M2lmS1EzZHZoRGpJVGV3QkEyVE1QU3VkQUFvUjZ3NmFSTTA0aFRMcnRxVVpnLWw5enN4Zl95T2hTVU05M2xjT1V5Ujl2QUJZWXhrZ1JyQTN1ZFRuR2h6azVMNnJhb3hvQld5M1p1YU5MQ3BGRDBsaFhlQ1BUNDZPbEVGU1JtaG1EX19HWDU1bmlfbkw5Q1JxS3hDRm1xTmF3U29aQUZfbWRWdmZ4YldrQ2VwWURZRzV3Z0hWWHltNmJSSFNoM2tnSkpKUm5nWUJlT1VXNFAxZkxmb0HSAZ8CQVVfeXFMTkROdGpzajEtcTU1UzBwcy02dDZRdlAxcUYwODcxeWkyamVqcU1pelF0cHY2aEYtMGRkQ1ItNEdMQzRTTGRwVXJpYlNJWktmcE5GWERXUkY2N19lQ2hlNkJ4ZHNoZDdXRV9XZ01fSDd6MXo0MlR5dlJzdi1NanlVaVpyVEk5RDJPOVlMZzZSMDdra1p6a1JuTGU4bGZtSlhpMnVOWnB3RjhmRGZURjZHRndmN3E1NnZ4S0xQTjhmU2toaXFRQUpJZ0txY0RYYm45TEVLeGhSdGdnOVNHbldQanU4OFZjRkdxOHVDWkRKem1hTlk0TFFqTk5ramk0SlVPWi1uakZZanFOOENRWG1IRV9ibXo0UlZXdER1dVlPR00?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSG1uV0NjeDFycGduaEZCSXg3MVlMajlkTjNHTDFBeEJVOVY1UFhuMmtERmpfMllCUUpCeGVXVnF3T05vTC05a1A0MXhTQnBKN3puTGhIbkd5TFNzUHdLVGtRdHBpWC12VWRBSnFOWG9wQzNUZEFqUl9jMHNZUHhZak0yNFFjbzN3bGdybzZPVkxnd1I4MlMwaV9nNEN6V1JoN2Y2Ml9OWUR2cXltVlFEVFF3SE1VNEdubW5QRXQ2bTdGZ0QtdXJRR2MxamFJZ2M4bk0yYUo3NjgtcGR2ZDNPdUxIUTRuVTFpNl9EcVFJb2dyY1BjZG5DTzFn0gH_AUFVX3lxTE5QRkxRbG13VFZMNE9peW14Y3NuNG9CZ1o5WU9ZZmtOa3hPM1B5VllVdjRQQXRkdnF5ZkpONzZ2MDlDeHd4bnFXdjBybjNoam1FM3Z4Rmd0endScGUxd00zQ1hocmpETVZIQW01VHhsc2FKVkR3SjJfZTNxbXo1Q29oTTgtcjBTZG9rWUFiMmkwQzRiZXNCTERqNkRUUG5sX1M3aWRqZFhBQU9rVTlPWGFsODc1MS1DeHc2VDFQNEowS0luMDdSRG5WOHVBeW9jVWtrbHl0dlpScjdMQWI4YUVzUWg5cGR2dzU4Mm5PbnFhQVZvQmNJckZCVkdxbUpmOA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "एक कमरे में थे 1100 वोटर... वोट चोरी के आरोपों पर BJP सांसद का पलटवार, 2003 का मामला उठाकर कांग्रेस को लिया आड़े हाथ - AajTak",
-        "source": "AajTak",
+        "headline": "‘No pure petrol in country’: BJP MP Janardan Mishra adds fuel to ethanol fire with ‘baap ka ghar’ jibe - ThePrint",
+        "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeGFxc2pvR01vdGhHazByenQ1N3VIMFppRnZHWk9ZbEFZc3VtWGdxU3NtYVlsU3R6Tlh2SzluVnc1YWxybkw4MFBXX09YUWxwN0F5T0VsalhuWDJKVHZfRkVTbUZoSklDS2M3em1IWG51NkZ4VVZpZ3Y4aVRRbkkyOHVUOXc3NkFGekNyU0UtZE5hMHNRQmFqMEx4ZkVCalRTdUNHV2FKS0hpNFF0bmFLTEp1dTllQ1hVRGhOQmM5QVZlNDdrekx6Qk5iMXo5S2E4UzFobXV1T3hDSk9tUmlXbjNxTXhqYjFZTV9TbTN2MXlQcTdFczRNaXczWmphbHdMT3FteHV30gGLAkFVX3lxTFBqX2JndTRON0tMT0FnRGIzSkl0dktFYnZtSWVQQzM4cXNjMHhwSHpBcnlGa1B1RFRNdzd3cEpxMHhUQjJXZXlmZnIwczhacU1OU0JidHVUYjFOMklacnZHUGNGN1ZaTWlWcndlQ2RBNjFpbDJrX2dqOUhmUjdTYTBFWk9SV1ljYXcwdjZJMUR2NjVmZzBYR01KdjVHMElsOXY5emNIRWo5a2lLUFRtRHF3WUQxOFVTRXAzdDhfTUlGLVd3eTcwVHZOamRPRmQxNmhIOFFBN0RUSjhFR1VudTAyc1U5U2JQOHRBdFloTmhFUHFreDNSRHh6U1BmQkY1eUNoTm5vOWd5T2RuTQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMmtBMDJDeFZnMGVhRGF6a2ZFR3dxb0JnYXFiOGRVNWl1ajI5NUJ6UlY0OVNhRHpOSnlXTU5JNi00d3dBWkpvMi0xdlUtX0cycGJrUXlLRzhWUFprYnhyeTkxWjF4eWx3S1NFeHktaUZVRXNGbmhqZXhXdGhtTXpqcGk5QmNGZXN5TFUweE9LOU0zbEx2a19uTUVmMkNNU2ZfUV9IV1Q2WU50bXpSbnB5V2dCVTJ0VU5HRzdRT3RWbHMyTTZCVUhvZkl1LXFkak9n0gHWAUFVX3lxTE9BdV84a0dfZFc4YmdJc0N6eEc2MjltZ2daLVFjVmdwSDR5UVRXYTU3R0kxTF9sS3YxWUhIcnJTX2cyenVlcnZyaTNZTWlMOVYxMWRWWElWdEMxRmhuWk5hbEExSmp1bjl3THV1cnpoM3h0UUVJLXpyVDRTejFSNUxIa3NvUDNsUEdiR3A3WGNZb0R5bXRZUlBZTF9aclZsSVpHc24xT3pYaU5XSThQT2g4cTBQU2treGd5VTloTkVFbGhBSHEyWGhCa0hGNDlRTmd4b2xMM0E?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP MP Janardan Mishra's Old Claim On 'Vote Theft' In Rewa Sparks Viral Debate - ABP News",
-        "source": "ABP News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXZqY3lEc2o0WmZCZkJyVVYwWDNyenRacWZBQWk4TnlWdnVmd3BBbGpIdzJ6RWdYTG56SWlrTFdSbVBvbFR4ZDg2eGdCaTg0Ym5CMEMyX25HQm1NU0ZwNkVSUV9RLUxhWUpYRHgtaUxaNXc0NzBfOGM1ajFHNFRJWl9walBMc2VmUzZBQkJPUDMyWWNmbGVEc3NQSEFNeXdyanNzM1laSktFd9IBrwFBVV95cUxQa2U2V29QTFp2cUVQaXNObGVkU3NwU2FvcGpqUG56cEZKZDI1TndwalJWNzNIejZDZlFiMER6RGZqU1Y4d191NE5sTEtIVUl5bGRydzBFNGdWT3R4cTIxQTZ6V3lDSlVZaFluZm5wNGxtWFFZRHozMnJtYlpvVzNTaUtVUlRLTDBPMkNRdDFhSHYzdGxUYmlVT1FUd1l1LU9hMXQ4VjJmNDlJTE5hNUhV?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "\"Consume Liquor, Eat Gutkha\": BJP MP's Tips On Water Conservation - NDTV",
+        "headline": "\"Will Pure Petrol Come From Your Father's House\": BJP MP's E20 Shocker - NDTV",
         "source": "NDTV",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUxBMXdxOEN5dWRjVzJlZzdFb2FQdXhpVmxJY24tT2JXbGwzSEhVZVNBUG9Fam1DRVBPVGtVS2xHaFYyejd6WUI1UXlyaWp2RzFMSno1UENPbVQzN2t4eGo1Tmd3MDQtWHdBeDZuT2tUazBHZ3pUZ0FrMXpqbXVzbkUxMjVpR1E3cXlCX1VuUEJvUkRfMDdBOXVrRk5aeG9aQUluNGVmeksza2RfWnpkN0dIRzVaRGvSAb8BQVVfeXFMTTZILW5jXzRtYkFVY0Q0Z242YUlhc1VXejNFSW9YV1hvbVQ3VFZXbVZXYlM2amVCUXFHS2hXSFZKUzdfSjlidUJ2Tkp1ZDhiMVdOVU1KSEhkWjhWdExoMkVKV2dPX0t5RXU4bW9mY1hFTVNQMkh4a3NvVi1yLWdDSVZtb3ZoM29YNks1QlB6OXFVUThBbng5QXVTMElHaUw4WmNQQ1F6TW1nbjNxdU5ZN3NfaW9RcEVYOFc5OHo1cjg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1RGTV9LV0Nycm94Rm5LY1NpOENsd2gtNDdQSjJKVTQ3bVdPaWlmajNsWWJraGs1WE9JazdRQmgydzlfRnlGX3g5WjhDTEphRVN5MTEwV0x0UThNLWR2SWtsa0s1WTRfQlp3Nk1hcDdkTEpiamNYUl92cHA2VDMxZFdiT3VOdkR2VV96c1lvT0U3bmNQRzdhaHNzemRSajlpVUY2ZmpTelhDOGtUQVRtTUpkdkI5NDZ6dFlqY2xn0gHGAUFVX3lxTE4zaURRTzc2aWF6NmdYN1V1VE9RazBJSnFOTlBzZi1pbmtqZS1Xajh5U3VaWDJiTmwzczlHNkQ5OXdiRXdic05PQVNvR2UxeW1vNXBDeXhUWXZrOWxkSUlfWFRaTHI2b29FUUQ2SER6dUtGZHRyeURvWEdvZWlBanJIaFV1NGdMTmJ2aklLbTc5UTV1dnEwN3o5clp2cHlZLUVWeE03R2pCM2U0Y1J6RHhjRkFXLU9KNHJza2ZfMU11WllCLWM1UQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Rewa Madhya Pradesh Bharatiya Janata Party - The Times of India",
-        "source": "The Times of India",
+        "headline": "'Kiske baap ke ghar se ethanol aaya', says Neha Rathore: Folk singer asks whose boys set up the factory on ... - Bhaskar English",
+        "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnBuUHpEZGlpNzRGYkl6ZUJyQTIzMWhGX2Vucm1XUE43ajh6SlFBQU1tbUI2TDkwZWY5ZEo3ZFZiQ2dPMGlnWmtIVmliSktDTkhBTXNJNmNJeUJQNG9HTFVEYkNITWo2M2VzeUhuZ3g2WFZSQTBOUzhmZElVTk9WVnU5WjlFZmpETUNxaDZ0dUZiUmItdmdPOURoUmQ3clgxQzZtaG1PTGVfSTQ0ampBd09IdFJwc1BOWDNrZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjJBQjFIWUx4LUprS0c2WWgzdHRRdVpfd3lLak1BRXJjQkVjUGYzQk92MlppbTBKWEJGT0JpcnphLXh1MVliU29zNmJfRW5aUlNFaGFVRDhrMVBsRnhscjBtcEJYeXFqcVZ2cHVqQzlOME5URno1RWpqRy1JTElVdWFOME55MUl1YzROTFhrSkRhelIzYnZ0alIyXzMycFZUNHNSbkU4cUliM3J6alRZdXpUc0ROSVpQU3gxaHktX2RIdlhTTVg40gHMAUFVX3lxTE92ZUpicHlaR2VfTmhkeUhnS2x3Z3J3UldoZDRGQUhxVGdIdnpSM0pvZlA0YVJVNWN4NmI1YW5Ic2RCVy1ldGRVa0w0UmZRMWlpbXFUdFVtV1ljdnlnYTVMX3gzZTBpYkVuc3ZfM1BTaDFlNVc3VkdDQmVobll1b0hpQ29EYVFhUDlteUdFNTRnZmJvTDRFcUJ0SVdOMzZmMWZSbzB4OTZrdDk3akJjUHdtTjE1RUYxdmJoVkNRX3hkUzVqY1FaLTdQdWRyeQ?oc=5",
         "sentiment": "neutral"
+      },
+      {
+        "headline": "'Will pure petrol come from your father’s house?': BJP MP courts controversy over ethanol blending - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbUxGVktlaEdjTTNHczlBbmlDYmtGTXNmTDB3MGI5eWMxYWNIbjBKT0FURU5seF83VHY2N01udkdNQ3Bod29vTzhvbFlBVHctY0M1WmtGYmxULVIwMkJDazFrRFh1cHFzaHhQUktVS1c1NjE4M1FtSWg0WFltQUxxQ19TY0dHbjJKVjNaeVdBNWhMNlNOUUpVUVZWa3BLZ2JPaG1BZ2EzUldxQW80LVlJbmZyNmV6UkdBbGNhN3lCSUNUaUJrNHA2M1Z5SnJkV3NQZG5vLVYyRUdSU3NrdWNQcVhLRE5jZE5ZcTBVQXZDOGdQUdIB_wFBVV95cUxOZnROckREeG1DaFdSM0hrb3VsSDlyRXFzZWFzS1RvNGc2TnJQeWRyd0JZYVFFX1NvcUpLeVcyN2dWMUlzV3pGR3VOQzRmNnJfSC1IMmVkczFlLVRqbUdzQlh6bXRzX2p0RlAySHBOUGZDbEdkSzJnb3VWeWJHOEJ1VTRjUkZoNE15R3I3R25TSC1Da2x0WS1CQU5jM0FueG9IVnYxOHpZb21Yb1RuRDBGYktRTllOU05rdEdKV0ppbmtwT3NRVGFodjVIbHdkdEkzRWZWemZzdnc3VUpBdG0zdXJ0bE80QUctQy1UY1Jna0oxOGVyeDJrdnVaYnhHa0U?oc=5",
+        "sentiment": "negative"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 51,
+    "starred_questions": 15,
+    "unstarred_questions": 36,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 99.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

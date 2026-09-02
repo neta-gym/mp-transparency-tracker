@@ -4,16 +4,16 @@
     "constituency": "Banda",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 7448,
+    "myneta_candidate_id": null,
     "slug": "krishna-devi-shivshankar-patel",
     "house": "lok_sabha",
     "sansad_member_id": 5594,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5594.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:01.812455Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 36285237.0,
-    "liabilities": 1994000.0,
-    "net_worth": 34291237.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7448",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.405525Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 30.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.34,
-    "expended": 6.1,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:55.611474Z",
-        "notes": "Official eSAKSHI REST API — Works: 325 recommended, 302 sanctioned, 158 completed"
+        "fetched_at": "2026-09-02T16:39:54.189827Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:36:12.554816Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:36:12.551995Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 325,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 41.49659863945578
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:55:16.942150Z",
+        "fetched_at": "2026-09-02T16:36:12.550926Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Krishna Devi Shivshanker Patel - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlJZN1lsMnBtSmViMmpnQzVWNlg1c2hRVWdqaHZzdDFQZVRfbDN6YUxxQVJmM3N3V0NtVXlTTDB2NzN0UTVodmpsdEU0VDFiWGlyUTA4by0zQjFFdXo2SzlfTVNNM0tWNzYzOXRsTXdLbnNEbUtXTjNJeVpSTEpvUFFLb1UteEttZGh2akQxUC1VZTJzQjlaZE9xaGJXREZHamNfOXJZVlVfSTRPZ0p1NS1qejlyRE9KTWlQdUJjRTJDRVFqOTV2aWVwUGlhMU0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "India's Rae Bareli, Amethi among 14 UP seats going to polls on Monday - risingnepaldaily.com",
+      "source": "risingnepaldaily.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjQ1pIb25Ebk9pVEgxVWxXc3YxcE54VlBCLUNCMFF6dHFWUmIzU214eF9SWkxpRkhZQWx1T0ZNbjU3ME9kOHdJYXRtbTlKZHRD?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Banda lok sabha election results 2024: Banda Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGNIVzZlUjdhZGU3ZGNTdHZTWGY1a2syb3l3NGlSMllnUnQyNms1c0hLWWtpaW5wSjV4dHZUdnBzMWFTQ3Jfd0FxVkRKZGR6NkFTUlFvZWVwU2NfUVBNNnlUZ25fYml4dUFraWt5bFNndHA0UUpIT0ZhVHE1aHNsMUFBNy1MV3M2aWQ4LUdGR2ExTzJVRXc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Samajwadi Party's Krishna Devi Sivshankar Wins Banda Constituency - TimelineDaily",
+      "source": "TimelineDaily",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdkdDVFBqaURzSzJvanl0NVBWaGc2ZGphR2k0UkN1U1B4dmxkbDJIaDJtQmZCOE9NWFdtcEliUndKOUY0MHQ3eGFRTVF1XzA4SHc4REY5TFN5dFRsXzRCRkNhYTA2NEktM2lIUmxvaF91cmlXVGZURXZPeHlCRE5RMzA3alZldXlCd1BWTEE5X2FPaWdoUEVpMWtzNA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:55:35.940859Z",
+  "collected_at": "2026-09-02T16:39:54.190983Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.739460Z",
+        "fetched_at": "2026-09-02T18:38:11.309223Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.739469Z",
+        "fetched_at": "2026-09-02T18:38:11.309233Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.739495Z",
+        "fetched_at": "2026-09-02T18:38:11.309239Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.739505Z",
+        "fetched_at": "2026-09-02T18:38:11.309244Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.739511Z",
+        "fetched_at": "2026-09-02T18:38:11.309249Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.739517Z",
+        "fetched_at": "2026-09-02T18:38:11.309254Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.739522Z",
+        "fetched_at": "2026-09-02T18:38:11.309259Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.739527Z",
+        "fetched_at": "2026-09-02T18:38:11.309264Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -274,10 +327,10 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 8,
+    "total_articles": 5,
     "positive": 0,
     "negative": 0,
-    "neutral": 8,
+    "neutral": 5,
     "top_headlines": [
       {
         "headline": "Krishna Devi Shivshanker Patel - The Times of India",
@@ -285,6 +338,22 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlJZN1lsMnBtSmViMmpnQzVWNlg1c2hRVWdqaHZzdDFQZVRfbDN6YUxxQVJmM3N3V0NtVXlTTDB2NzN0UTVodmpsdEU0VDFiWGlyUTA4by0zQjFFdXo2SzlfTVNNM0tWNzYzOXRsTXdLbnNEbUtXTjNJeVpSTEpvUFFLb1UteEttZGh2akQxUC1VZTJzQjlaZE9xaGJXREZHamNfOXJZVlVfSTRPZ0p1NS1qejlyRE9KTWlQdUJjRTJDRVFqOTV2aWVwUGlhMU0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "India's Rae Bareli, Amethi among 14 UP seats going to polls on Monday - risingnepaldaily.com",
+        "source": "risingnepaldaily.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjQ1pIb25Ebk9pVEgxVWxXc3YxcE54VlBCLUNCMFF6dHFWUmIzU214eF9SWkxpRkhZQWx1T0ZNbjU3ME9kOHdJYXRtbTlKZHRD?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -296,31 +365,15 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Parliament of India : Lok Sabha Member of Parliament – P - Sarkaritel.com",
-        "source": "Sarkaritel.com",
+        "headline": "Samajwadi Party's Krishna Devi Sivshankar Wins Banda Constituency - TimelineDaily",
+        "source": "TimelineDaily",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "LS polls: 47.55 per cent voter turnout recorded till 3 pm in Uttar Pradesh - Deccan Chronicle",
-        "source": "Deccan Chronicle",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVgydTZjSnU2eFNJTkQ1TjZOaU4tZlVRb3EtS2oyelktTzc1V05lUk0yQWNXblpya3FTVUhTalNmbUIyemV0V21rbnc0WFMxOTd1QzB0UWVmbDZxTEc4SllLQnJzcUtpYlpEcmdCejg4Yml4OHI1M0JuZWtDWEZERGVjTkdLSEMtVzg0Sm4yTU1JM0tjQ3h5bmQ0TlFucFRVT1E0VVp2cFNLYnN6RWV1U3BaUnAwbGJZbWfSAb8BQVVfeXFMT2NZM2FZWnBURkFxRklpN2xfQTUzb1FVN1NxczBiZWp6UTRyVDRwd2lVb3E3QkpnVXhrNG44MkpKMFBsYTFVU3dyMWNuQ2ViTktVS00yWk1abEFsSEJoMmUwVTJlR2o0YUxKU3JMU0RTcEFxZ0hDajZydHhTelV0TWpiRFA0ZkFGM1Q3RC1IZ2c5cjhtQUxPaXozamY3aTBxdU1oWTJjckJHV0h0WmtiMjJxZWEtZUtwUWdaUl82Zkk?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "India's Rae Bareli, Amethi among 14 UP seats going to polls on Monday - The Rising Nepal",
-        "source": "The Rising Nepal",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjQ1pIb25Ebk9pVEgxVWxXc3YxcE54VlBCLUNCMFF6dHFWUmIzU214eF9SWkxpRkhZQWx1T0ZNbjU3ME9kOHdJYXRtbTlKZHRD?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdkdDVFBqaURzSzJvanl0NVBWaGc2ZGphR2k0UkN1U1B4dmxkbDJIaDJtQmZCOE9NWFdtcEliUndKOUY0MHQ3eGFRTVF1XzA4SHc4REY5TFN5dFRsXzRCRkNhYTA2NEktM2lIUmxvaF91cmlXVGZURXZPeHlCRE5RMzA3alZldXlCd1BWTEE5X2FPaWdoUEVpMWtzNA?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (5 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

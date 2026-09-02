@@ -4,16 +4,16 @@
     "constituency": "Vaishali",
     "state": "bihar",
     "party": "Lok Jan Shakti Party (Ram Vilas)",
-    "myneta_candidate_id": 8070,
+    "myneta_candidate_id": null,
     "slug": "veena-devi",
     "house": "lok_sabha",
     "sansad_member_id": 5223,
     "profile_url": null,
     "canonical_name": "Veena Devi",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 53,
+    "age": null,
     "photo_url": "/mp-photos/5223.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Vaishali",
       "state": "bihar",
       "party": "Lok Jan Shakti Party (Ram Vilas)",
-      "myneta_candidate_id": 8070,
+      "myneta_candidate_id": null,
       "slug": "veena-devi",
       "house": "lok_sabha",
       "sansad_member_id": 5223,
       "profile_url": null,
       "canonical_name": "Veena Devi",
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 53,
+      "age": null,
       "photo_url": "/mp-photos/5223.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,138 @@
       "convictions": 0,
       "pending_cases": 3,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "352/2019, Town Muzaffarpur",
+          "ipc_sections": [
+            "188",
+            "143",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "ACJM - 1st (E)",
+          "fir_no": "352/2019, Town Muzaffarpur",
+          "case_no": "GR No. 3121/19",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "256/2010, Gaighat, Muzaffarpur | Section 133 R.P. Act",
+          "ipc_sections": [
+            "171(E)",
+            "171(F)",
+            "171(H)"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Court No. 02 (E) JM",
+          "fir_no": "256/2010, Gaighat, Muzaffarpur",
+          "case_no": "TR No. 3589/23",
+          "other_acts": "Section 133 R.P. Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "404/2010, Town Muzaffarpur",
+          "ipc_sections": [
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "ACJM-10 (E)",
+          "fir_no": "404/2010, Town Muzaffarpur",
+          "case_no": "GR No. 3486/10",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:29.202721Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 467170049.0,
-      "liabilities": 164762876.0,
-      "net_worth": 302407173.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8070",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.548492Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 83.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.54,
-      "expended": 9.4,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:07.857446Z",
-          "notes": "Official eSAKSHI REST API — Works: 32 recommended, 31 sanctioned, 30 completed"
+          "fetched_at": "2026-09-02T14:41:24.756655Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:37:18.058048Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:37:18.055980Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 32,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 63.94557823129252
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -110,7 +186,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:12.141370Z",
+          "fetched_at": "2026-09-02T14:37:18.055192Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +194,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Vaishali MP Veena Devi’s son dies in road accident - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzFfbGp6dzI3ZHhXU1ljVUQ4dVdad2lhQ3BYU0VGNzhkNUwzdnN0SXVhRzktWEhVRHFWYWhRcVlEeGhfUUQ0MGJ2UHpaUnFGNTA2VG9aeTUyeXBEdl82UVNlWWdUY21DTHFnN3k2NUFlUmFla0xPNElfS2VvTHItaHRLTjF4TTF1V283RjlOOWlVcy1iMEZ6NVdfdFZiV1RnQVk5bkhIWE1TeHJ1ejFTd2lhX0LSAbsBQVVfeXFMUHFIZm1HVGtCaTFEdU1meWNWdVQ5ZVVJc3pxM1o0MVExa1JfM2FLVkdkNlN1alYxdU83WGplUm16bkNkblNnVnNoWHBKc3ZETEN2dkM2Nm9CVkFOcG1QTGtjUUx1aHQ1MUU5blFkdTVDV3BXWXliQnBULVNEc3k1WjJ0cThqWXVQOHVDWW1kWEdKbUpuNmYzWWpPZW1yWktkUHpzNFNldnVRRTlGd0NxY2daOTNodWR6SldWNA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "2 constituencies, 2 IDs? Electoral rolls show duplicate entries; EC probes LJP MP Veena Devi & husband Di - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbkYtQ1N3ZXBIMS1IZGdMdFVFQ2tJX2dTVmFmTm1ZbFh6TUNPSGN6dkpEbkd1SGlPemlfR3I2djNQN0JZVUQzakQ1R05mQ0xaYmFBdUxoWm9nMlRaTG1RWHZzQ2E5aWZFS0JkMWF2Ung1S2htalNVUFowYjlqUE5ycXlkM3hyWUNodnJsT2J6S0tnbVZaN2owaC1FQ0VIRzZlamlvQk9jdF9MUnNfNllDWW1xZ2NLOWpGaHluWG5GRUIzOUZBdEdCb0VBV3poYnJaeHBqSkp2Y2VwOWZVR0FWUGpucFl3RFFmM2dma1ByeW9NWHYwel9aMFAwdVBET3NybUpZQzhVRWlmbnNBNlkzVtIBlgJBVV95cUxObG10Q2p3SFNJYXIyUk1LWEFjZGNocFljVmtKYlRCTFo0dFpWbW0yY2VYN3hGaG51cElHR1pYR0NwUHB6ZC1CRE9TdWpWUDFjM1pUd2J4amM0c1JFS3VPalJpRzFSWGluOGlIaW5QQ3B5S001ZmFGc29vYXAtXzIzbEVlRTJzbE1zQ0hUSzRxSC1yNWoxQ0lHczFQY1hqbTdvR2gtVFdtY1dYN05xLTczYTdZSkN1UTNWS1dBZnJEZ09uSVI3VUw2Zm1RckdOcXd2R1I1QndFQ1FnT2RCMFlRcWc2eDlaN2JZb1R2cVczLVdlSTJIQ0txWHZDV0E2cEV5bjlRN3R3RnpBeHFQQXVVeW80NEotQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bihar: Vaishali MP Veena Devi’s son dies in road accident - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWxzdE56NWM1ODZaUVFtRUVET2FPbmRvZW1JanVkODlIVWlzbm1aY0gzOWNKYk5HdThHWmVMbW83cnJIQmNjYU4xM05ZQ0tTM0Z5TkZERHVfSjBGMThRcXBIUkVsZ2VUSWtUTjBQZFNLTTRydGtsZnJ5SkcxSFdaYU0tNlJfczhMcDBNbEIwUTQwbnRa0gGaAUFVX3lxTE9vSFBrS2lsQlA5QVc2RzlQNGd4WjgyTVJjUG5jektYdV9ma0prTmVPZ193REtLdDhZNXRQaTVCUzhWUFBrV3hfTVhXMzhabnJzNHpDdlVPTnlXY0h2MzhZMTg5ME5EcXVDdnBTTkZ3MndobmVET25YYmpwRlpwQUgydXNDdk5WeVJyVUJHTnRNUm1HYmVJMUZFekE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'Is SIR A Fraud?': Tejashwi Yadav Reveals Vaishali MP Veena Devi And Her MLC Husband Have Two EPICs - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUHVVOFIzMkVlVHNkcGhKUjUxVkwwWmU3ejhQUDNoS0pzN2dFNUZ3N1F5MFJFODRlaXNSaGFLdkhDREVhVmxpaGJ3U09IcXRPOGJGU0U4TWxGVEw3MkVnZFBKVlQwcTlxamtnY2hfRWRmbm5NbjVmWlhEc3VlWmlWRHpHeVBQdV9PZG5rTGx3em9xZFJtQ3N0aGc5RXFha1hFYS14TUFyV01uVUwtUmNvSFRsMDhBYllCOU14Y3hNT2lBcWl3bF9KWnpOYjZRWl9tWUxESGMzYnFoVHpIVTByWVVZeVB3YTZkREtmTTlB0gHzAUFVX3lxTE05WUVvcWRGbUl6Z1JCRnFRdFN5SmNodzl4SG5MZnB4anJDNVNNcEVXd0ViTmVqcElSTjRiWW5tZTFURi1jdFc1b2hMbFg1b0xpMHBtLTNaUENsY2VkZVpPUTdWb2dWZExWUFlZVk55QUVRYjJGLVQ2d1dScUJFajh3UklORHpBai1ZZ3BRSmQ1b2VScHFYb1dleDE1ay1YRGd3RUwweXI5ZXZhOEFfVmx0WVJzeTk2V0ZrODM2NlN5LWZXUWdNQ2Fya295OU9ZMGpWb0dkOWNNNTR1MGdNOWVmSzUwcG1wSmk1SW1FU3BlMW9SNA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Blow To Pashupati Paras: After Vaishali MP, Other LJP Leaders May Join Chirag Paswan Faction Ahead Of Lok Sabha Polls - Swarajya",
+        "source": "Swarajya",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd1h6Zk01MExCTDlQbmhkeVNRdGRJZXlLRi1DdFBfaVJvblhkWjVHUGhfRWpsOHd5NXpqVDFlN3pueGZDRktLbm8tTk53bThfNlM1Y1haMC1wdVFtSmZFTjFpazdWbGFIYWFUYkR4c0FUX19faXYyTzZ5SkltOENJc0tTeGR6aW5lMDdFN01xRXR3eHpzWXRKOERRb3NBaVp2M2RIS1M5TzltZHhHUXJFdUVwazFMRG1aUENjOUFndnlsaUo5b2RpWVNEOUdPQ0psRXI5WFRkU1RWcGZoSlB5U2Ruay05bE0zWHfSAfoBQVVfeXFMT2lmdjVhS3A1Q2NIUzh3OHFjTzE1MDhoTGY4OV83TG1QQTdSUzV1WUgtbjl3Z3BxMjkwVzRndzR0WTV6SlBkbWRvaERqNGxvTWt3QlJfdHBmLUV5blRuM3pkcGFHempZNlh1YzBpZ2xtejFoSGNoSHY4UloyLU5KdGpOTllmZldELTJDTHhTSXNzUFRhZ3F0NWlOcFFDd0syeGtoWi0wNk1sWTBORVdRRjF4Nk44SWtuNnlHQ2RGMFpuTjBXVTJqRmhVSkdHYmw0ZU1hMG10bm5xSU5wZmJYa2hRQlVHcl9FLVV0aVhSRjFyNDc2eFp0YTkwZw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:15.182667Z",
+    "collected_at": "2026-09-02T14:41:24.757828Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +263,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.536415Z",
+          "fetched_at": "2026-09-02T18:38:05.123791Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +279,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.536425Z",
+          "fetched_at": "2026-09-02T18:38:05.123804Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +295,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.536430Z",
+          "fetched_at": "2026-09-02T18:38:05.123810Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +311,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.536435Z",
+          "fetched_at": "2026-09-02T18:38:05.123815Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +327,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.536439Z",
+          "fetched_at": "2026-09-02T18:38:05.123821Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +343,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.536444Z",
+          "fetched_at": "2026-09-02T18:38:05.123827Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +359,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.536449Z",
+          "fetched_at": "2026-09-02T18:38:05.123831Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +375,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.536453Z",
+          "fetched_at": "2026-09-02T18:38:05.123836Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -298,11 +413,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Tejashwi Yadav claims Vaishali MP Veena Devi has two EPIC numbers - The Hindu",
+          "headline": "Vaishali MP Veena Devi’s son dies in road accident - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdnJybm1nUjlDNkp6MFd3aVNDTm5GdGNOazYxU2pSdGNWT2hma0tlTUJGZmFGMHBxVW1GVVJORm1zbDMzc2RhSnZLOWFheGFUdUdBbFcxNTZBXy1XZS1fZmM3blh3U1hhSnliQVZVVk1xQmNYcDk2MUtKYk9DdVVObWhKQk1OVktwS3pDak1GTzg0b00yQkdfcXRzc0gtMngxU3NuZFpDVFpGdkdZVEFqdzd5SFcxUmZmLTUyaUpvbnY3QmU0dVFpZDdzczVPLUdS0gHXAUFVX3lxTE1yMTNua0ZiUk45Q21kQ3RoOGVxczdBZG5KWXI4NGxoYzFDWk85NGpOYWxSd2dLWGdFYU1sRkhjXzJFSUxJb19lM2htSzFpUWk1OGxqVzZFbWRDT1QzNm45a2t3N2d6Umgzd1NzRTZPa2gyZGt3NW91T3VCQmNfVGFUem1UWDFrUzV4UVdMSFlzN2l5b0dxY0x0d2JISTN2Rkstb2xhbGl6RUFCMUZia0hfdjBSb3lJVWxGQ1E0WVQwbS1USV9nUVE5UUtPV2RFalBNNDdhUWJR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzFfbGp6dzI3ZHhXU1ljVUQ4dVdad2lhQ3BYU0VGNzhkNUwzdnN0SXVhRzktWEhVRHFWYWhRcVlEeGhfUUQ0MGJ2UHpaUnFGNTA2VG9aeTUyeXBEdl82UVNlWWdUY21DTHFnN3k2NUFlUmFla0xPNElfS2VvTHItaHRLTjF4TTF1V283RjlOOWlVcy1iMEZ6NVdfdFZiV1RnQVk5bkhIWE1TeHJ1ejFTd2lhX0LSAbsBQVVfeXFMUHFIZm1HVGtCaTFEdU1meWNWdVQ5ZVVJc3pxM1o0MVExa1JfM2FLVkdkNlN1alYxdU83WGplUm16bkNkblNnVnNoWHBKc3ZETEN2dkM2Nm9CVkFOcG1QTGtjUUx1aHQ1MUU5blFkdTVDV3BXWXliQnBULVNEc3k1WjJ0cThqWXVQOHVDWW1kWEdKbUpuNmYzWWpPZW1yWktkUHpzNFNldnVRRTlGd0NxY2daOTNodWR6SldWNA?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,27 +429,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Bihar SIR: Chirag Paswan's party MP, JD-U MLC have two EPIC numbers, alleges Tejashwi Yadav - India TV News",
-          "source": "India TV News",
+          "headline": "Bihar: Vaishali MP Veena Devi’s son dies in road accident - ThePrint",
+          "source": "ThePrint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaGtXMkF4OHZhOEE3S240eXlObTA5alBadlVyU2ZNaWVGWngzMmlQOU5LcW1FVVZ4aXVueEFwSmktZTBnUUNfeDVDMkwzMVFyVTJjYnBacnZDbzBZY1kzamdQRkRZd2xpa2pSaDJSbFVldHdSVmFLNmsza2xucnNvTC13VHlibVppMEs4YTQ5TnNFYWk3c1Jwa29rd0J4c1NJb0xFd0o0VURUTEtMU3JWcGs2V2JLbGFsdkpzbGJkc3pYczdPR3d5eS1uSXZ4RmJkUHFuRG9pUVB4eVlmblIw0gHkAUFVX3lxTFBXQUh5bkwtWDFIb1MwLVU0RWtya094NGt0UzdWTU03MUtHYzJYdXR0X2FGSkRmeXBqUDdCQ2YwY1hEOFZLeFZBU2Q1MEtSRnBHSmp5VzQyTjU3Yll0MnUxZDFSc3FTNV94ZHM2VEFteXVVZFJsbjE3MjVldURkSTZQbF9Fbmp6bXpZQjNhNE5zZTY5Rkx2TURHelhtT1ItUkhQQ0taMDZrRzRrU0E4bl93Q2RPWVVjNV8weGw0VENlMVNpYzFjY1VZWkt4Y0dNRUF6SXVHUjhtcGJObFlIY3ZYdHVKZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWxzdE56NWM1ODZaUVFtRUVET2FPbmRvZW1JanVkODlIVWlzbm1aY0gzOWNKYk5HdThHWmVMbW83cnJIQmNjYU4xM05ZQ0tTM0Z5TkZERHVfSjBGMThRcXBIUkVsZ2VUSWtUTjBQZFNLTTRydGtsZnJ5SkcxSFdaYU0tNlJfczhMcDBNbEIwUTQwbnRa0gGaAUFVX3lxTE9vSFBrS2lsQlA5QVc2RzlQNGd4WjgyTVJjUG5jektYdV9ma0prTmVPZ193REtLdDhZNXRQaTVCUzhWUFBrV3hfTVhXMzhabnJzNHpDdlVPTnlXY0h2MzhZMTg5ME5EcXVDdnBTTkZ3MndobmVET25YYmpwRlpwQUgydXNDdk5WeVJyVUJHTnRNUm1HYmVJMUZFekE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Vaishali: Bahubalis hold sway in cradle of democracy - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "'Is SIR A Fraud?': Tejashwi Yadav Reveals Vaishali MP Veena Devi And Her MLC Husband Have Two EPICs - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTm9pdjBEV0Fzcm5Qa29LXzR6eXJpczJoelUxcFFjbUg1WlhtTU1YbHFwaWcxNXZwdFJjbU5GSFR3bnd2SnN1TUIzUU8wYjU1N29OVzJLcVFvOGpDbVo0ZW9ZWEVNVUZhQ2hjcHBRLXRicTZEdUNkVlJOZUE5MjBDdjM3bTUyV0JvaXJ4NkxlNUUySTdBZkRpeG1kRTNSMGZKRkdaQ2VB0gGzAUFVX3lxTE93LS1ZTzJCNGo1WU5seUN5bEtReTFHSDZGZFlVLWxadmRhVzIxZFFpaS1vWUl4bVJKR3ljUk45UlhpLU90cTBZZ1M5ckxYRE1TXy0zOHdXMGd6T2tBLXBqVmlEZE82RTVOVVdSRm93bEcwZm4wMVFTOW1IQmlkN3ZyUUJ6NWhEV3ZRcjhwVldxbG13SUlBRkk1WFhkRlBMUUM2aU9DSzJielVkSmZZN1FHVDhn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUHVVOFIzMkVlVHNkcGhKUjUxVkwwWmU3ejhQUDNoS0pzN2dFNUZ3N1F5MFJFODRlaXNSaGFLdkhDREVhVmxpaGJ3U09IcXRPOGJGU0U4TWxGVEw3MkVnZFBKVlQwcTlxamtnY2hfRWRmbm5NbjVmWlhEc3VlWmlWRHpHeVBQdV9PZG5rTGx3em9xZFJtQ3N0aGc5RXFha1hFYS14TUFyV01uVUwtUmNvSFRsMDhBYllCOU14Y3hNT2lBcWl3bF9KWnpOYjZRWl9tWUxESGMzYnFoVHpIVTByWVVZeVB3YTZkREtmTTlB0gHzAUFVX3lxTE05WUVvcWRGbUl6Z1JCRnFRdFN5SmNodzl4SG5MZnB4anJDNVNNcEVXd0ViTmVqcElSTjRiWW5tZTFURi1jdFc1b2hMbFg1b0xpMHBtLTNaUENsY2VkZVpPUTdWb2dWZExWUFlZVk55QUVRYjJGLVQ2d1dScUJFajh3UklORHpBai1ZZ3BRSmQ1b2VScHFYb1dleDE1ay1YRGd3RUwweXI5ZXZhOEFfVmx0WVJzeTk2V0ZrODM2NlN5LWZXUWdNQ2Fya295OU9ZMGpWb0dkOWNNNTR1MGdNOWVmSzUwcG1wSmk1SW1FU3BlMW9SNA?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "It's a tussle for Bhumihar votes in Vaishali as NDA faces tough RJD fight in bid to retain seat - ANI News",
-          "source": "ANI News",
+          "headline": "Blow To Pashupati Paras: After Vaishali MP, Other LJP Leaders May Join Chirag Paswan Faction Ahead Of Lok Sabha Polls - Swarajya",
+          "source": "Swarajya",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQUFaQ29wVkNLWVJGRThZS1p5cVlTUDQwd3ctT1hrNlJkcDNEd2dqTWdDQVhERUVoY0V6Ukt0LWdsS2h5dGJLOVhRalh6YUJwYUtEazN1b3g3OGJGcHR6aElKSDc3RHVjeGg1WUtvMU1yaTYwVTNJT0lheVFNV0JRdEZyNWRBLVNhaWRpOGd4MnY2T0JJVUxRYkRNX3A2MjctWGtOanFjY3NUc1psMGcwN3pfcEhTNGZZMTZDZHltNnU0X0Z0ZERqVWdFLXc2VmxMZDg1U0FMQWV2QmVMZkNLLVNHTkpDWE5TU1E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd1h6Zk01MExCTDlQbmhkeVNRdGRJZXlLRi1DdFBfaVJvblhkWjVHUGhfRWpsOHd5NXpqVDFlN3pueGZDRktLbm8tTk53bThfNlM1Y1haMC1wdVFtSmZFTjFpazdWbGFIYWFUYkR4c0FUX19faXYyTzZ5SkltOENJc0tTeGR6aW5lMDdFN01xRXR3eHpzWXRKOERRb3NBaVp2M2RIS1M5TzltZHhHUXJFdUVwazFMRG1aUENjOUFndnlsaUo5b2RpWVNEOUdPQ0psRXI5WFRkU1RWcGZoSlB5U2Ruay05bE0zWHfSAfoBQVVfeXFMT2lmdjVhS3A1Q2NIUzh3OHFjTzE1MDhoTGY4OV83TG1QQTdSUzV1WUgtbjl3Z3BxMjkwVzRndzR0WTV6SlBkbWRvaERqNGxvTWt3QlJfdHBmLUV5blRuM3pkcGFHempZNlh1YzBpZ2xtejFoSGNoSHY4UloyLU5KdGpOTllmZldELTJDTHhTSXNzUFRhZ3F0NWlOcFFDd0syeGtoWi0wNk1sWTBORVdRRjF4Nk44SWtuNnlHQ2RGMFpuTjBXVTJqRmhVSkdHYmw0ZU1hMG10bm5xSU5wZmJYa2hRQlVHcl9FLVV0aVhSRjFyNDc2eFp0YTkwZw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +483,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 1,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 1,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 1.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +499,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +530,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +557,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 467,170,049. MPLADS utilization: 63.9%. Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:47.537162Z"
+  "cross_reference_notes": "Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 1. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.124652Z"
 }

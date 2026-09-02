@@ -3,24 +3,22 @@
 **Constituency:** Azamgarh, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 45
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.1 / 100
+## Composite Transparency Score: 55.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 19.2 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,34 +26,40 @@
 ## Criminal Record
 
 - **Total Cases:** 4
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 0092/2019, P.S. Colonganj, Dist. Prayagraj | Sec 7 Criminal Law (Amendment) Act 1932 , Sec.3/4 Prevention of Damage to Public Property Act 1984 (Sections: 186, 188, 286, 147, 148, 149, 323, 332, 333, 353, 336, 435, 307, 436, 511, 427) [pending] **SERIOUS**
+2. 0058/2019, P.S. Civil Lines, Dist. Prayagraj | Sec 7 Criminal Law (Amendment) Act 1932 (Sections: 147, 148, 149, 186, 283, 353, 427, 505) [pending] 
+3. 0091/2022, P.S. Civil Badaun | Sec.55 Disaster Management Act 2005, Sec.3 Epidemic Disease Act 1897 (Sections: 171F, 171H, 188, 269, 270) [pending] 
+4. NCR No.001/2024, P.S. Mehnagar, Dist. Azamgarh (Sections: 188, 171H) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 13.50 Crore
-- **Liabilities:** Rs 3.42 Crore
-- **Net Worth:** Rs 10.08 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 64% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 4
-- **Utilization Rate:** 24.0%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +73,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/mpdharmendraydv?lang=en](https://x.com/https://x.com/mpdharmendraydv?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/SansadDharmendraYadav/](https://facebook.com/https://www.facebook.com/SansadDharmendraYadav/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +92,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- SP to introduce private member’s bill seeking sub-quota for OBC and Muslim women in women’s reservation - Muslim Mirror (Muslim Mirror) [neutral]
-- SP to bring private member's bill for reservation of OBC, Muslim women in Parliament - The New Indian Express (The New Indian Express) [neutral]
 - SP to bring bill seeking quota for OBC, Muslim women: Dharmendra Yadav - The Siasat Daily (The Siasat Daily) [neutral]
-- Azamgarh Chunav Result: आजमगढ़ में सपा के धर्मेंद्र यादव को जीत, निरहुआ बुरी तरह पिछड़े - AajTak (AajTak) [neutral]
 - SP’s Dharmendra Yadav wins UP’s Azamgarh seat by margin of 1,61,035 votes - ThePrint (ThePrint) [neutral]
+- Azamgarh Chunav Result: आजमगढ़ में सपा के धर्मेंद्र यादव को जीत, निरहुआ बुरी तरह पिछड़े - Aaj Tak News (Aaj Tak News) [neutral]
+- Azamgarh election results 2024 live updates: SP's Dharmendra Yadav wins with 5,08,239 votes - The Times of India (The Times of India) [neutral]
+- SP fields former MP Dharmendra Yadav from Azamgarh - The Statesman (The Statesman) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **SP to bring bill seeking quota for OBC, Muslim women: Dharmendra Yadav - The Siasat Daily** (The Siasat Daily)
+- ! **SP’s Dharmendra Yadav wins UP’s Azamgarh seat by margin of 1,61,035 votes - ThePrint** (ThePrint)
+- ! **Azamgarh Chunav Result: आजमगढ़ में सपा के धर्मेंद्र यादव को जीत, निरहुआ बुरी तरह पिछड़े - Aaj Tak News** (Aaj Tak News)
+- ! **Azamgarh election results 2024 live updates: SP's Dharmendra Yadav wins with 5,08,239 votes - The Times of India** (The Times of India)
+- ! **SP fields former MP Dharmendra Yadav from Azamgarh - The Statesman** (The Statesman)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Dharmendra Yadav shows moderate transparency with a score of 52.1/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dharmendra Yadav shows moderate transparency with a score of 55.2/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 135,032,793. MPLADS utilization: 24.0%. Parliament attendance: 95.0%. Questions asked: 42. Debates participated: 10.
+Has 4 criminal case(s) (1 serious), 4 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 42. Debates participated: 10. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +167,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +246,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Dharmendra Yadav's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 24.0%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

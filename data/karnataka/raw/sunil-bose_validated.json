@@ -4,16 +4,16 @@
     "constituency": "Chamarajanagar",
     "state": "karnataka",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 2193,
+    "myneta_candidate_id": null,
     "slug": "sunil-bose",
     "house": "lok_sabha",
     "sansad_member_id": 5758,
     "profile_url": null,
     "canonical_name": "Sunil Bose",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 42,
+    "age": null,
     "photo_url": "/mp-photos/5758.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Chamarajanagar",
       "state": "karnataka",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 2193,
+      "myneta_candidate_id": null,
       "slug": "sunil-bose",
       "house": "lok_sabha",
       "sansad_member_id": 5758,
       "profile_url": null,
       "canonical_name": "Sunil Bose",
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 42,
+      "age": null,
       "photo_url": "/mp-photos/5758.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,96 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "0181/2017, Rural Police Station Nanjangud, Nanjangud Mysore District",
+          "ipc_sections": [
+            "171"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "PRL. Civil Judge (Jr. Dn) & JMFC Court Nanjangud, Nanjangud Mysore District",
+          "fir_no": "0181/2017, Rural Police Station Nanjangud, Nanjangud Mysore District",
+          "case_no": "CC 320/2018",
+          "other_acts": "",
+          "charges_framed": "Yes",
+          "date_charges_framed": "07 Feb 2018",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:36.974866Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 78466251.0,
-      "liabilities": 55678947.0,
-      "net_worth": 22787304.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2193",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.068740Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 51.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.07,
-      "expended": 3.26,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:29.363132Z",
-          "notes": "Official eSAKSHI REST API — Works: 114 recommended, 49 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:31:13.497607Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:26:21.875873Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:26:26.625936Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 114,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 22.17687074829932
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 40.0,
@@ -110,7 +144,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:23.590409Z",
+          "fetched_at": "2026-09-02T14:26:24.639949Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +152,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Expansion planned for women-run Akka Cafes in Chamarajanagar: MP - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObm5QVEt5NmdlNHluM09WMlRVWFRYczN4dUZVYUdYdWRxdVpmcHdCaldKNU9Ba1h6QjhUM0s1TTBPbVIybnFnRktuc0ZRcVZxLUQxVElTRGQ5bTlubjFmY2JGZENiaU16UU1lM2ZYOVZ3VU1iMWYwbHEyMzVrbG9kQ3pWZW9yWkkyMGY5UlhpVVV4bE1iaGtKOS1GdVVPeGdoLXJiOHU3YV9uQjZOck5hMEp1UHg4YWd4RFBBUjQ5Y0tWSUJTOUV6LUhtS1LSAdMBQVVfeXFMTVZGeTgxSDhUcWJCdmdfaEJlQTdVSUF6dWdOc3phaFFSWUdMRDUxRldvU3FHM2M0OEd3MHV2RjI0Zmk3UV93MnU0TUFOTlpwbV8xNHlGZUhDdTFzTnRUbFBzQlM4R3ZTVlR2emtGVkh1M2FIUzJ5cGdDc0JnSnZ1MDl4aUVMSkd2eXB4ODZiY0hycGlKMGhDLXY4b1V0TjJVMFlJTEc0MGRfQ1JLZ2pMbkxXdHc5dkJqNnF3QTcxVVByZ1UyRDlmV1dxNUNXYTFySFRoSQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "No question of shutting down KSIC Factory at T. Narasipur: MP Sunil Bose - Star of Mysore",
+        "source": "Star of Mysore",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLTRBM3I1YXpIM3BraHJ6dUtpRUg1QzVvc1RkeHptSUd4Y1ZtYjRSTV9jTkgzSnB1ZEFzbmxiMk1iUXVJX0xiajk0Z0tCWjZ5YmtIVFM2V2lkVWNONGp2UlVkdzdNbElXT2tVeEFTeHhzR0lIZWprTGZSUmt4eFdkM3RadEFtMjU1REdJY0VlTDF3QTRNVVpmZ2RDbnM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Budget ‘unfair’ to Chamarajanagar farmers: MP - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORUwyYVNBOXBLVXFiT3RQZW1vMDBaUjVDS3lhVjVYX1dfRjdRcmtYSWdqTHZjZ3ZUd2diWmdMZVhEX0RVNUNXN3VvSEp5aXZyd3Y4MUhHT3lXZEV4WlB1WXRGRmhib1lTS1FFMEtTRTNYem1KQ2pLU3oyX0c5b3Q1dU5BUFdDTVdUWTk2cjlETUdHVzd6ZFRuZ1dqU2otUF9SaUdsYnh6VU1EWDYzejlYVtIBtwFBVV95cUxQaE50bmQtSDl5YUlhWGc2RnB3NTh5VEhqTS1zRGVudDJ0NmVtbnhmcEZnSmR0RzZmTHQ2TWo2a0ZPNmY3VXBaaUdORmsyODU5amlzM3kzemdUWEZ5ZnJpYWcwbThmbkRoNkI5dnM4d0J0WUg2VXBWajRZc0lKVFBWXzY3b1VLYlI2SUhhVWhfWnBwaGYyTEdKNlNSdC1qUFZIQVZINHk1QWppcDhKUVM2WlpTeDd0N00?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress MP from Karnataka's Chamarajanagar applies kumkum on KAS officer’s forehead, stirs row - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQTZuV0VnUDlZbjJCU0RuQVRHaG91YUphQ05yME43ZXdibDNNZXI5QUI0QkRSQi1iMlFfRnBYLUtiQ1ZOQUZwQjFfZVpFdHlCNUxMNWE1anNndHJmTFRnOHgzWGJoS0RBRS04VUxKeXRQTWxtcGU5R1RQUVhKNGdPZkdBNFVHS0piVk9uX1FXOVNnWDA4Ui1DNVBGWHpJa0VNZ0V3QU5ud3hGa1MteVVhd3hLWmZoUm5ncFktUVJvQVB4Q1l5Y1ZPUGx6RzlBMVFFUmt1NzVEc0dUX0xFcm9JZEpaNm9ITzRsYlI2Q1A0czJQdzJVMTBHYmc1WUZfZ9IBgwJBVV95cUxPb01aeG5HbkktM0cyZHpNbGJpZkR3VkljOGZENkh3TmhkeEpWMl9LU1pwN1lReWJPZHVJYmNxemJVODlGSURfLTlhaGdFNldvbzJvdDV5Z2JiejVLcGpsLUJvOUdEdzdlN1pVZTNtX0JGWGI0c2NpWkNmMC1XMUhJenhQNlNUV08xaXNzc0I5eExOeE5tTGE4M0ZKQm54SFZKc1lmN0lpNE5NU0pBbG1qWWFGZVl3U25Xdk5LNUlRNVIxV0F2TnpCaTRranFUbmt3Rk9rRmhERG5YQjhTRzVsQThCMzVFRGIyZlhtbUNDaHlSRERQbF83SlFvM25LZ1ItVDZV?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Karnataka: Sunil Bose enters fray — will son rise in Chamarajanagar? - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjFsN1o3NDdYaVZGckJ4ZFR0bTg4MWoxTWtxRGJWVnFlZU1kX3dRd3V1M0lqc1ltWG0xLXZEWmJ6VUdWVk13X0Q2ZVU2SFZ2ZEdKQzRPT3JwbGFhd1hkR3daQlNxSC1iQWhjVnE0Y0h3bjRwR29jNnlxbkR4TkxfcmlCc0FlT1dJRTB2QlphV1JSTE4tWGZBbDVmb1Zfc01aZnYzN20zNWhBNHFRbHVxV0FjX29IdDFNbkg2bmZyRWd0bW4t0gHSAUFVX3lxTE8zbEE5eHVPcUdObmJ6Y2lsR3g0WWhHVHc3ZndHSzNnQmhVLXpwQzRDYUVFSHVLSXRjcWFBa3VxWUw4NE1QT243M0hZNnROR0J6SmxSMFRselo3M001NDR0WjNyT19qRktBV200czJDR1dkZk5hMkZoZ3ppZXRWNmV3WXl4UWFUZXRPaHNlOFZXU2F5T2hIOHVGRG9Dal9obDFaSVlQTzg3NXBYQWRhS1JKTUpoRU82ZHVtaVhZVGtpV1FtMVluTHNKbDRQTVVBeENuQQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:20:50.905881Z",
+    "collected_at": "2026-09-02T14:31:46.499360Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +221,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.298179Z",
+          "fetched_at": "2026-09-02T18:38:06.789275Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +237,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.298188Z",
+          "fetched_at": "2026-09-02T18:38:06.789286Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +253,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.298193Z",
+          "fetched_at": "2026-09-02T18:38:06.789291Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +269,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.298199Z",
+          "fetched_at": "2026-09-02T18:38:06.789296Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +285,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.298204Z",
+          "fetched_at": "2026-09-02T18:38:06.789303Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +301,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.298209Z",
+          "fetched_at": "2026-09-02T18:38:06.789308Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +317,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.298214Z",
+          "fetched_at": "2026-09-02T18:38:06.789313Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -290,14 +363,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Sunil Bose seeks revival of stalled railway projects of Chamarajanagar - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkJJNEdkeFJtM2I5aFlzS3k4TGhBZjk1QnhtcWNoN3FyWDJkZW9HMTNrUlFkT2R3aDFIa2gwLW1kMFlNQkNPNDZiODFZRlhtT0JKME9sV3pMeGhRRGVxYzZoQzRGQ0lCYVhvbnNMdFJiSlZ1WURLQW82dWhsTzZUSE85ZThEcl84T1I1VEZqZ2hXeUJqcFBZVVFSMmh5TDlOYkcxNUFkUjNfSUxteHQ1TmNDMF9TVm4wbXNIMUN4Vlh1U0lTNVpzalhScUl1b01vSVlEWkxR0gHcAUFVX3lxTE04c0NyS21oeGV0TDl4bzVNSllLczFnVXUyb2JNOV9BYThuZ1pZeS16azFUV1pFeG40bEtHaDZpdmNLZjFvWExsUGkwajBTR21xLWluMjQ4YzNERUN2VUVWN0Jja0lDTVF3b0lNbS1UVElPZ012T0dCRjRyMV96Y1N5X21MNU0wVWJRZGVWWWZnNTFSTVVMZV9qSDdXVTRDc1k4WVhZM0RvQ19sWEhnSWkyZUoxUXpJel9RdFM1dUZ0YWZ6Umg2T0xPSm9FYW9JektKaDk4Rld1b2hXUUQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "No question of shutting down KSIC Factory at T. Narasipur: MP Sunil Bose - Star of Mysore",
           "source": "Star of Mysore",
           "severity": "low",
@@ -319,6 +384,14 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQTZuV0VnUDlZbjJCU0RuQVRHaG91YUphQ05yME43ZXdibDNNZXI5QUI0QkRSQi1iMlFfRnBYLUtiQ1ZOQUZwQjFfZVpFdHlCNUxMNWE1anNndHJmTFRnOHgzWGJoS0RBRS04VUxKeXRQTWxtcGU5R1RQUVhKNGdPZkdBNFVHS0piVk9uX1FXOVNnWDA4Ui1DNVBGWHpJa0VNZ0V3QU5ud3hGa1MteVVhd3hLWmZoUm5ncFktUVJvQVB4Q1l5Y1ZPUGx6RzlBMVFFUmt1NzVEc0dUX0xFcm9JZEpaNm9ITzRsYlI2Q1A0czJQdzJVMTBHYmc1WUZfZ9IBgwJBVV95cUxPb01aeG5HbkktM0cyZHpNbGJpZkR3VkljOGZENkh3TmhkeEpWMl9LU1pwN1lReWJPZHVJYmNxemJVODlGSURfLTlhaGdFNldvbzJvdDV5Z2JiejVLcGpsLUJvOUdEdzdlN1pVZTNtX0JGWGI0c2NpWkNmMC1XMUhJenhQNlNUV08xaXNzc0I5eExOeE5tTGE4M0ZKQm54SFZKc1lmN0lpNE5NU0pBbG1qWWFGZVl3U25Xdk5LNUlRNVIxV0F2TnpCaTRranFUbmt3Rk9rRmhERG5YQjhTRzVsQThCMzVFRGIyZlhtbUNDaHlSRERQbF83SlFvM25LZ1ItVDZV?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Karnataka: Sunil Bose enters fray — will son rise in Chamarajanagar? - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjFsN1o3NDdYaVZGckJ4ZFR0bTg4MWoxTWtxRGJWVnFlZU1kX3dRd3V1M0lqc1ltWG0xLXZEWmJ6VUdWVk13X0Q2ZVU2SFZ2ZEdKQzRPT3JwbGFhd1hkR3daQlNxSC1iQWhjVnE0Y0h3bjRwR29jNnlxbkR4TkxfcmlCc0FlT1dJRTB2QlphV1JSTE4tWGZBbDVmb1Zfc01aZnYzN20zNWhBNHFRbHVxV0FjX29IdDFNbkg2bmZyRWd0bW4t0gHSAUFVX3lxTE8zbEE5eHVPcUdObmJ6Y2lsR3g0WWhHVHc3ZndHSzNnQmhVLXpwQzRDYUVFSHVLSXRjcWFBa3VxWUw4NE1QT243M0hZNnROR0J6SmxSMFRselo3M001NDR0WjNyT19qRktBV200czJDR1dkZk5hMkZoZ3ppZXRWNmV3WXl4UWFUZXRPaHNlOFZXU2F5T2hIOHVGRG9Dal9obDFaSVlQTzg3NXBYQWRhS1JKTUpoRU82ZHVtaVhZVGtpV1FtMVluTHNKbDRQTVVBeENuQQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,17 +441,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 40.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Low attendance",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +472,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +499,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 78,466,251. MPLADS utilization: 22.2%. Parliament attendance: 40.0%. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:49.298980Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 40.0%. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.789982Z"
 }

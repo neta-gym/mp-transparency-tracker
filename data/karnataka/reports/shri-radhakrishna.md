@@ -10,13 +10,13 @@
 
 ---
 
-## Composite Transparency Score: 54.5 / 100
+## Composite Transparency Score: 52.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 35.0 | 25% |
 | Asset Growth | 55.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 70.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,11 +28,15 @@
 ## Criminal Record
 
 - **Total Cases:** 1
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 280/2014, CCB Police Bangalore (Sections: 420, 468, 471, 34) [pending] **SERIOUS**
 
 ---
 
@@ -94,11 +98,11 @@
 
 ## Qualitative Assessment
 
-Shri  Radhakrishna shows moderate transparency with a score of 54.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Shri  Radhakrishna shows moderate transparency with a score of 52.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 533,899,960. Parliament attendance: 70.0%. Questions asked: 14. Debates participated: 2.
+Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). Declared assets: Rs 533,899,960. Parliament attendance: 70.0%. Questions asked: 14. Debates participated: 2.
 
 ---
 
@@ -138,7 +142,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

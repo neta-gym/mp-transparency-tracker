@@ -4,16 +4,16 @@
     "constituency": "Kairana",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 289,
+    "myneta_candidate_id": null,
     "slug": "iqra-choudhary",
     "house": "lok_sabha",
     "sansad_member_id": 5795,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 29,
+    "age": null,
     "photo_url": "/mp-photos/5795.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:58.322023Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 6874858.0,
-    "liabilities": 884157.0,
-    "net_worth": 5990701.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=289",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.155772Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 5.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.18,
-    "expended": 4.16,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:48.055700Z",
-        "notes": "Official eSAKSHI REST API — Works: 65 recommended, 63 sanctioned, 23 completed"
+        "fetched_at": "2026-09-02T17:18:41.198277Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:14:32.553840Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:14:32.551039Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 65,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 28.29931972789116
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:03:18.732606Z",
+        "fetched_at": "2026-09-02T17:14:32.549965Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "SP’s Iqra seeks a day in every House session to discuss women issues - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLXRKOHRzaS1GWS1wZXNYNVpFc3FVelVQZHNyZVJHanc4VXhTblR4cTJ6bC1MN05vdFVpQkh4NjBZOUdvTTFjZVdxRFZKSVdCRGdiLTdTX2pGclZVU2M0TXZwSXFoTWFlX3dadzc2NldQRmhxZWlXQWQ0SkluTzQtN3FzQmFsdDExR2dYM1YxanYzcExNSHl4ZExULTA4Vm90NVI1MzRZSm9QanpuVGNFdmtXXzVlSXlKZFptZGd5anBOZVNwTjRJ0gHOAUFVX3lxTFA4U0o4bEFUeExDNy1hbHFCTGFUOHVFeDYtN2RHZC1LLUNZdGtrYWNDZ2ZXUU92YmVQQ1lMZk5hcXYtV0hfenR4a3JlRVNoVzNiQi1CallOaU1ETTZ5Q3Qxcnd0NlE1ekhiSVNxUDVsaW1RUm9kSEo2Y2Y5aHRoQkhMM2pUaHdTaFI4SGtwbU9GQlBoMUFrLXEzSjFaTGdULTFtbnNnSmpvNlpHcnVBUi0taldVRG5YT3FHeG05MS1HNk85NVhOcWJJOTN2Sy1n?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Muslim women will be last to benefit from reservation bill': MP Iqra Hasan - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ3ZBWFFOMDl3dmpkWWI5eUVwQ0xHMncwU3BLU0xMZU5SajZFUzlpX1BJUDB0MzhZSS1yWXd6ZXRtQnVkN3lJY3RpR3BTeDdaR002ZXFXTXVVUU5FVExzbGdseUUtQU1Cd0EwWDUzMy1sdWpLQ2VKejZqVVFFSGZDNWFZaXpqaDVSMGNtOVNsNW1CQXEwNFVXVTJ3RUZaU1VNWklKUGNGdUpJWmF2Rk5nMWZWTlNad0pYeS0wd0FoYWU0d1F5cmhMVXdidjdUY2VJRml6ZWFJd9IB3AFBVV95cUxPSzFpVkh6R0o3X1M2ektnbEVtWGJjMVNUTEpOZklyZURQRkV4N1VPREZfYUZWa3RDZDRpTENSSmFweHgyV1lWS0c2cnlISzZwVUNHTkJFNDM2bUFPR0pzai1XM2ZVZjNfQndBV3lfVmNLVkJSUTVDZW1aQW1zVUNzdDRlZTRGMGhFV1dMbFRYRUhkQm02SnQ2TjlFSGtBUzdWNjdacWZpVEFLUFdraHFPUzhzaFYtOXhDMndya2FFZm9nWi15UVgtalpwRTF3OGNVbXR1d3VKWWZRVzN2?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Quiet Politics, Ground Gains: Iqra Choudhary’s Incremental Model In UP's Kairana - outlookindia.com",
+      "source": "outlookindia.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaml4SjhyX094OFUyN1JoOWY3X1FBWG9vMDlncV8yYXliellBZUNMQUVzMU9QaVJCYW5DbGVRXzlzdXhza0t0eTMtM1VoZV9tQzZ3SjhjdHBLemM0d3Bwd2N4YWVNenozd3VVQ1VremFnbTU1X1VkUjZLdFJMQ1BYVEozVnRJYjFIMmxSSFVMZnVqWjRoQjN1SjdUdHZaOS1vbzlRcWNXMS1DdzhVMTd2LVBBak_SAcIBQVVfeXFMTmdxbGJ1MmN5MWhFQlRnamdyb2JnU25wTzJzenBvb1A1Y2luVHFwUFB6OXN0dVk3VjV2WHVYRnp2MnVEWjFMNGhmSmE1VzNKNUVqaUthOU1QQ0NoSDQ3QzA5MHpEMFVDMTZjWkdnbFZLYWJjTnN3dElwWGhNUXdvcnVoOTQxZUJXa2NUMmpBU2Jha3owd2Nqd3BxWEQzeEV6R0EwVFFVTDlnQUZ6WHA3dXZjZU1lYlNIU3lwVEE4Q19IckE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kairana Election Result: कैराना से जीतीं सपा की इकरा हसन, बीजेपी प्रत्याशी को 69 हजार वोट से हराया - AajTak",
+      "source": "AajTak",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPT295Rk1wTXQ2ZWVubXVkV2F0T2lQeEJ0eGdldzJNN19DbDQ3elJvN2ZJOHBqOVJPZllRX0RxQ1g4SWo0UXo5ZDQ3VVhlSG80d1VZQ2hrMHdDbWVkWHNyMEI0am5BR05ZbGJrYmIwYXZWaldRNWpfLUllRF81UlBLZTRLMmNibDRTMk9zeDBjd3UxOVFSUk1tdDBkNjNlY04zX3hEMHBQam1kTVNnM0h0d3FOM0xVRkR3d3hJaXV3VWI5Nzc5b09oQm1xbE8zUm1JX0dXMjkwZzktaC14MTlHaGF2RzBvTkFwWENRWXloTDNCUENPX3QxQ2Z2bk5TODNFZmFUX1ZWRDY4YTJDaUZoUFo3V1NTZHBkcWdIWUItS0N2bWNrSHItWm5wd1fSAbICQVVfeXFMUDlkV18tS3M1ZWZzdXhBNFJPQXJyOGxKaUl5cDE2ZE5Cb3FzVEp1NXZ1cUowQW9OcXlwa053V3doZHRwVmxOcjhpUm5sa20yMFJ0RERFSV9EbWsyMHc3VzZDR1AxLUloYW9MQ2hfNVd4Y2ppVGlyNEJWLXFTTTdfbmRtcjU2a1ptQjhKTlBEWktBQ3lEYnpyYzVuamhqZ1JvU21HNmk1eTdyNDBYVzl3Zi1wakhFTC00dGJmaTFMbmQ1bVBrdE1qQ3Z0QVpyaEtKM3V3MXFXRDd5dmQ2Sy1Bck5JRTlLU1hmZjdfUzNwZUluNEJtanF2ZkRCaWp3Mkd5UVluRjlNWVZLTndpWXN3azJWZjRINk1DcFh5M0pyZUMtaldJa25ZMDh2ZHZIaXpZTTJR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Places of Worship Act: SP leader moves SC for effective execution - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdU1Bc1lvQXJYcFp3YXFVTUw4ZGtFUXczZHkwM1JmZnZ3VHo0NDNVTml1RjdjdHlJdDJ2ZlBmUV8tN1h3UkF6REw1VkdyOGJPMW05bVZXT0trNE9kSU5FVTdWWjEtcXNHTFRub0pSVC1sQUtBSkcyTTJSMGpncm11MEQyUjRwWnpMYkYtcnd1UVVwcWdSQ3dKcUt6MVBCbUpzMGJqUGQtZEYyNE04SklBTmFDTnJtSW4wNTFub1d1YXTSAccBQVVfeXFMUElDaGlkR2VGTU9fTmQ2eXF4YlFsQlU0dkRSR2QyaVQtQW53S1dNYkRiMzAzZTVKS3puaE1FQS15bW9WSms0RXZuSjNmek5JOUtuRjIxTkg1SzdkQW9SRDdLZTAtdkFkcjFNYUtpRlVyTlhidHNPOC1fOGVRSWI2VDNobTdTLXE4Z1Y0MkE2WU8zR3hBXzcxM24zV0VudGNLbFJ0QmJiUHo2T3dIdzFFMDktSkhoU0RIM3RpVEVaZEhqbjBVY2RwUQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:03:41.726482Z",
+  "collected_at": "2026-09-02T17:18:41.199651Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.564344Z",
+        "fetched_at": "2026-09-02T18:38:11.133891Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.564354Z",
+        "fetched_at": "2026-09-02T18:38:11.133902Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.564359Z",
+        "fetched_at": "2026-09-02T18:38:11.133910Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.564365Z",
+        "fetched_at": "2026-09-02T18:38:11.133917Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.564370Z",
+        "fetched_at": "2026-09-02T18:38:11.133924Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.564376Z",
+        "fetched_at": "2026-09-02T18:38:11.133931Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.564380Z",
+        "fetched_at": "2026-09-02T18:38:11.133937Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.564385Z",
+        "fetched_at": "2026-09-02T18:38:11.133944Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,22 +333,6 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "'Muslim women will be last to benefit from reservation bill': MP Iqra Hasan - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ3ZBWFFOMDl3dmpkWWI5eUVwQ0xHMncwU3BLU0xMZU5SajZFUzlpX1BJUDB0MzhZSS1yWXd6ZXRtQnVkN3lJY3RpR3BTeDdaR002ZXFXTXVVUU5FVExzbGdseUUtQU1Cd0EwWDUzMy1sdWpLQ2VKejZqVVFFSGZDNWFZaXpqaDVSMGNtOVNsNW1CQXEwNFVXVTJ3RUZaU1VNWklKUGNGdUpJWmF2Rk5nMWZWTlNad0pYeS0wd0FoYWU0d1F5cmhMVXdidjdUY2VJRml6ZWFJd9IB3AFBVV95cUxPSzFpVkh6R0o3X1M2ektnbEVtWGJjMVNUTEpOZklyZURQRkV4N1VPREZfYUZWa3RDZDRpTENSSmFweHgyV1lWS0c2cnlISzZwVUNHTkJFNDM2bUFPR0pzai1XM2ZVZjNfQndBV3lfVmNLVkJSUTVDZW1aQW1zVUNzdDRlZTRGMGhFV1dMbFRYRUhkQm02SnQ2TjlFSGtBUzdWNjdacWZpVEFLUFdraHFPUzhzaFYtOXhDMndya2FFZm9nWi15UVgtalpwRTF3OGNVbXR1d3VKWWZRVzN2?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Quiet Politics, Ground Gains: Iqra Choudhary’s Incremental Model In UP's Kairana - Outlook India",
-        "source": "Outlook India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaml4SjhyX094OFUyN1JoOWY3X1FBWG9vMDlncV8yYXliellBZUNMQUVzMU9QaVJCYW5DbGVRXzlzdXhza0t0eTMtM1VoZV9tQzZ3SjhjdHBLemM0d3Bwd2N4YWVNenozd3VVQ1VremFnbTU1X1VkUjZLdFJMQ1BYVEozVnRJYjFIMmxSSFVMZnVqWjRoQjN1SjdUdHZaOS1vbzlRcWNXMS1DdzhVMTd2LVBBak_SAcIBQVVfeXFMTmdxbGJ1MmN5MWhFQlRnamdyb2JnU25wTzJzenBvb1A1Y2luVHFwUFB6OXN0dVk3VjV2WHVYRnp2MnVEWjFMNGhmSmE1VzNKNUVqaUthOU1QQ0NoSDQ3QzA5MHpEMFVDMTZjWkdnbFZLYWJjTnN3dElwWGhNUXdvcnVoOTQxZUJXa2NUMmpBU2Jha3owd2Nqd3BxWEQzeEV6R0EwVFFVTDlnQUZ6WHA3dXZjZU1lYlNIU3lwVEE4Q19IckE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "SP’s Iqra seeks a day in every House session to discuss women issues - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
@@ -304,19 +341,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Lokmat Parliamentary Awards 2025: Iqra Choudhary Receives Best Debutant Woman Parliamentarian of the Year Award - lokmattimes.com",
-        "source": "lokmattimes.com",
+        "headline": "'Muslim women will be last to benefit from reservation bill': MP Iqra Hasan - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM1VvQ09RR2dDb3RqVVQyWm9lVjRDSjF6SHhGdXRqQjVsSG5UOEdTd3p0U2JvNU4tckN0OXpvRUNTR2g1ZHdxVW54UmE4YkhuSlhhSkI4WjlQZFBnZjhWR0p4VzFCOFk3RWxFUnVPTjJIUTBYMGI1T3diek1mNHotM1lTbTJzY1Q2WE1oTWhPUW9MbFVIRzNiSzQ2d2c3cXFiWTdpZVdFcXNEMHJadGNtcDBZcEdNS1d6R3g4T3N1ZWxwVTlrU3M5M2dGRUdaOEpJRGFhQTliUDdxY1c5cXlrMC1relNmSFcx?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ3ZBWFFOMDl3dmpkWWI5eUVwQ0xHMncwU3BLU0xMZU5SajZFUzlpX1BJUDB0MzhZSS1yWXd6ZXRtQnVkN3lJY3RpR3BTeDdaR002ZXFXTXVVUU5FVExzbGdseUUtQU1Cd0EwWDUzMy1sdWpLQ2VKejZqVVFFSGZDNWFZaXpqaDVSMGNtOVNsNW1CQXEwNFVXVTJ3RUZaU1VNWklKUGNGdUpJWmF2Rk5nMWZWTlNad0pYeS0wd0FoYWU0d1F5cmhMVXdidjdUY2VJRml6ZWFJd9IB3AFBVV95cUxPSzFpVkh6R0o3X1M2ektnbEVtWGJjMVNUTEpOZklyZURQRkV4N1VPREZfYUZWa3RDZDRpTENSSmFweHgyV1lWS0c2cnlISzZwVUNHTkJFNDM2bUFPR0pzai1XM2ZVZjNfQndBV3lfVmNLVkJSUTVDZW1aQW1zVUNzdDRlZTRGMGhFV1dMbFRYRUhkQm02SnQ2TjlFSGtBUzdWNjdacWZpVEFLUFdraHFPUzhzaFYtOXhDMndya2FFZm9nWi15UVgtalpwRTF3OGNVbXR1d3VKWWZRVzN2?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Hindutva leader questions, 'How is Iqra Hasan a Gurjar?': Says, 'A community that wears salwar out of fear ... - Bhaskar English",
-        "source": "Bhaskar English",
+        "headline": "Quiet Politics, Ground Gains: Iqra Choudhary’s Incremental Model In UP's Kairana - outlookindia.com",
+        "source": "outlookindia.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdVpiOHVxb0w2cnowbmRTbXNGTXdNM2xXWmE2RG1seTJUSzBBNmthWVRrM20zTWQxazVYWkJocUFpSGVTVDBNcFBpNHhnd3NVM1pJaTZIMzU2UmRmQU5PTWlncENrUUN2dUh5QzFja3Iwb0N4MXgzUlpiN1ZMdW1maUpFMTR4TlhRdDhnUW1CR3dWQ2NMTzg1VkpSenBEVjhwMmZ6c0lIRjc1YUNSSnBmQnBXUkUyMHZRSmR3Q1dHdno2V1lIWVRFRi1IQzg4dVNVcXR5ckJJY01salBkRnVoWl90YWVhNk1UQi01UGxXOXVKZHBWbEZQQVAzOF85MGdveVHSAYcCQVVfeXFMTW5vS1BPdTVtTXkyQTc5OHl3ZTd3ajM2TV8waFdwdEV1MG9yNExCNVJXNlBhOFl5a3RzTm15MGduV3NVamZqLUpkOXB3MXpUR0M2M0lIMllKaUhwTnJHVHk3MjdpcDdBRk9qZjFxVmt5Q0FRa1h4SC1BTFllSXJ3c295T3gyWWo3bGNzcHRJNFN0aWtkXzZxUGhIR1N5TWdCSnJZNWx3elBCWmhFVU5iczBBeG15Tnc5eVNmSmlNN0I4THRhSzk5OVJxOVhJTV90a2czY19yZUR2RmRrNUZPODNiT0tKOXFOZ1FfbTA5X1d3b3gzbHF4QkxMdGNpQ2FzM0VHSEktNkk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaml4SjhyX094OFUyN1JoOWY3X1FBWG9vMDlncV8yYXliellBZUNMQUVzMU9QaVJCYW5DbGVRXzlzdXhza0t0eTMtM1VoZV9tQzZ3SjhjdHBLemM0d3Bwd2N4YWVNenozd3VVQ1VremFnbTU1X1VkUjZLdFJMQ1BYVEozVnRJYjFIMmxSSFVMZnVqWjRoQjN1SjdUdHZaOS1vbzlRcWNXMS1DdzhVMTd2LVBBak_SAcIBQVVfeXFMTmdxbGJ1MmN5MWhFQlRnamdyb2JnU25wTzJzenBvb1A1Y2luVHFwUFB6OXN0dVk3VjV2WHVYRnp2MnVEWjFMNGhmSmE1VzNKNUVqaUthOU1QQ0NoSDQ3QzA5MHpEMFVDMTZjWkdnbFZLYWJjTnN3dElwWGhNUXdvcnVoOTQxZUJXa2NUMmpBU2Jha3owd2Nqd3BxWEQzeEV6R0EwVFFVTDlnQUZ6WHA3dXZjZU1lYlNIU3lwVEE4Q19IckE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kairana Election Result: कैराना से जीतीं सपा की इकरा हसन, बीजेपी प्रत्याशी को 69 हजार वोट से हराया - AajTak",
+        "source": "AajTak",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPT295Rk1wTXQ2ZWVubXVkV2F0T2lQeEJ0eGdldzJNN19DbDQ3elJvN2ZJOHBqOVJPZllRX0RxQ1g4SWo0UXo5ZDQ3VVhlSG80d1VZQ2hrMHdDbWVkWHNyMEI0am5BR05ZbGJrYmIwYXZWaldRNWpfLUllRF81UlBLZTRLMmNibDRTMk9zeDBjd3UxOVFSUk1tdDBkNjNlY04zX3hEMHBQam1kTVNnM0h0d3FOM0xVRkR3d3hJaXV3VWI5Nzc5b09oQm1xbE8zUm1JX0dXMjkwZzktaC14MTlHaGF2RzBvTkFwWENRWXloTDNCUENPX3QxQ2Z2bk5TODNFZmFUX1ZWRDY4YTJDaUZoUFo3V1NTZHBkcWdIWUItS0N2bWNrSHItWm5wd1fSAbICQVVfeXFMUDlkV18tS3M1ZWZzdXhBNFJPQXJyOGxKaUl5cDE2ZE5Cb3FzVEp1NXZ1cUowQW9OcXlwa053V3doZHRwVmxOcjhpUm5sa20yMFJ0RERFSV9EbWsyMHc3VzZDR1AxLUloYW9MQ2hfNVd4Y2ppVGlyNEJWLXFTTTdfbmRtcjU2a1ptQjhKTlBEWktBQ3lEYnpyYzVuamhqZ1JvU21HNmk1eTdyNDBYVzl3Zi1wakhFTC00dGJmaTFMbmQ1bVBrdE1qQ3Z0QVpyaEtKM3V3MXFXRDd5dmQ2Sy1Bck5JRTlLU1hmZjdfUzNwZUluNEJtanF2ZkRCaWp3Mkd5UVluRjlNWVZLTndpWXN3azJWZjRINk1DcFh5M0pyZUMtaldJa25ZMDh2ZHZIaXpZTTJR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Places of Worship Act: SP leader moves SC for effective execution - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdU1Bc1lvQXJYcFp3YXFVTUw4ZGtFUXczZHkwM1JmZnZ3VHo0NDNVTml1RjdjdHlJdDJ2ZlBmUV8tN1h3UkF6REw1VkdyOGJPMW05bVZXT0trNE9kSU5FVTdWWjEtcXNHTFRub0pSVC1sQUtBSkcyTTJSMGpncm11MEQyUjRwWnpMYkYtcnd1UVVwcWdSQ3dKcUt6MVBCbUpzMGJqUGQtZEYyNE04SklBTmFDTnJtSW4wNTFub1d1YXTSAccBQVVfeXFMUElDaGlkR2VGTU9fTmQ2eXF4YlFsQlU0dkRSR2QyaVQtQW53S1dNYkRiMzAzZTVKS3puaE1FQS15bW9WSms0RXZuSjNmek5JOUtuRjIxTkg1SzdkQW9SRDdLZTAtdkFkcjFNYUtpRlVyTlhidHNPOC1fOGVRSWI2VDNobTdTLXE4Z1Y0MkE2WU8zR3hBXzcxM24zV0VudGNLbFJ0QmJiUHo2T3dIdzFFMDktSkhoU0RIM3RpVEVaZEhqbjBVY2RwUQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 32,
+    "starred_questions": 9,
+    "unstarred_questions": 23,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 61.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

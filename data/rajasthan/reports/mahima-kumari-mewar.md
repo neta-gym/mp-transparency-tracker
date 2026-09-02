@@ -3,19 +3,17 @@
 **Constituency:** Rajsamand, Rajasthan
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 52
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (24%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 50.4 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 14.6 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 20.0 | 10% |
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 1.14 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 1.14 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 10% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 18
-- **Released:** Rs 18
-- **Sanctioned:** Rs 6
-- **Expended:** Rs 3
-- **Utilization Rate:** 18.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -76,29 +73,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- BJP MP flags 13 complaints against woman SP: Blames her for shooting, 2 deaths; SP says, 'Such allegations ... - Bhaskar English (Bhaskar English) [neutral]
-- Call for New Rajsamand to Mumbai Rail Service - UdaipurTimes.com (UdaipurTimes.com) [neutral]
-- Demand for Direct Udaipur–Mumbai Train Gains Momentum - UdaipurTimes.com (UdaipurTimes.com) [neutral]
+- Why BJP MP Mahima Kumari's no to Kumbhalgarh tiger reserve is unfashionable, not illogical - India Today (India Today) [neutral]
+- BJP MP flags 13 complaints against woman SP: Blames her for shooting, 2 deaths; SP says, 'Such allegations ... - bhaskarenglish.in (bhaskarenglish.in) [neutral]
 - My family known all over the region, don’t have to ask people for votes: Mahima - The Times of India (The Times of India) [neutral]
 - WION speaks to BJP's pick for Rajsamand battle - Mahima Kumari, daughter-in-law of Mewar's royal family - WION (WION) [neutral]
+- Former Chittorgarh MP Mahendra Singh Mewar Passes Away - ETV Bharat (ETV Bharat) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Why BJP MP Mahima Kumari's no to Kumbhalgarh tiger reserve is unfashionable, not illogical - India Today** (India Today)
+- ! **BJP MP flags 13 complaints against woman SP: Blames her for shooting, 2 deaths; SP says, 'Such allegations ... - bhaskarenglish.in** (bhaskarenglish.in)
+- ! **My family known all over the region, don’t have to ask people for votes: Mahima - The Times of India** (The Times of India)
+- ! **WION speaks to BJP's pick for Rajsamand battle - Mahima Kumari, daughter-in-law of Mewar's royal family - WION** (WION)
+- ! **Former Chittorgarh MP Mahendra Singh Mewar Passes Away - ETV Bharat** (ETV Bharat)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Rajasthan: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mahima Kumari Mewar shows moderate transparency with a score of 50.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Mahima Kumari Mewar shows moderate transparency with a score of 54.8/100. No criminal cases declared. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 11,376,000. MPLADS utilization: 18.3%. Parliament attendance: 75.0%. Debates participated: 4.
+No criminal cases declared. Parliament attendance: 75.0%. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 11,376,000. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +227,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Mahima Kumari Mewar's MPLADS account: Released: Rs 18, Expended: Rs 3, Utilization: 18.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +244,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,16 +4,16 @@
     "constituency": "Narasaraopet",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": 5116,
+    "myneta_candidate_id": null,
     "slug": "lavu-sri-krishna-devarayalu",
     "house": "lok_sabha",
     "sansad_member_id": 5096,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
-    "profession": "Educationalist",
-    "age": 41,
+    "education": null,
+    "profession": null,
+    "age": null,
     "photo_url": "/mp-photos/5096.jpg"
   },
   "criminal_record": {
@@ -27,65 +27,71 @@
     "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5116",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-05-23T18:17:11.055196Z",
+        "fetched_at": "2026-09-02T15:32:57.408956Z",
         "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
-    "movable_assets": 65871496.0,
-    "immovable_assets": 500676970.0,
-    "total_assets": 566548466.0,
-    "liabilities": 68088135.0,
-    "net_worth": 498460331.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5116",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-05-23T18:17:11.066298Z",
-        "notes": "MyNeta candidate affidavit data"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 86.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 17.4,
-    "released": 17.4,
-    "sanctioned": 1.47,
-    "expended": 0.24,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:16:26.014805Z",
-        "notes": "Official eSAKSHI REST API — Works: 43 recommended, 43 sanctioned, 1 completed"
+        "fetched_at": "2026-09-02T14:47:30.741315Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:43:28.088098Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:43:28.085007Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 43,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 1.3793103448275863
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:56.556927Z",
+        "fetched_at": "2026-09-02T14:43:28.083930Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "TDP MP defends Andhra Pradesh DSC exam in Lok Sabha, seeks action against false claims - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQTE5aVhuLVJROUozWUQ4Ry1VdTZ1Q2wycmRxUnlCb1dTLXFfWUJpWGo3bUxYODFVN3ZyZDZuQWNXTGtlXzNrWXotdF9OZjUwdmNlZlBKVDN5RmZZYjVfSERpZDFzdGRLV2RRZEZsN0FlV2FYVXdoYkhnMHAwc0xZdmhLRC1ZVnVYN1hUcXFUdHRsLXYySTVwMkNhRERBLVRueWswUEtpVG5LTnY3VU5uR2RrZDN6Rkd0WVctR09GODlDNkxDcU1Heko4S3g3bXgzQXhoQlZDYVpHMG96NHpUalJObmFwcWfSAfQBQVVfeXFMTWhRQVR6WVhGV2JrT0RpQ0djaTlEYnJhNk80QnlzWWVDd2xORmM4RzVkZWRJendza1RqTTFzY2RKc3RGdGFvdzM1M0JZaTNyNVF0SFZyMmVQamV6SjhVVjdqaEd6azZrckNMcWZnMTk2bTFwU3ZEb2FFN09lY0JuZEpZMzJQYWMtSHNoSmNBVGdFc0xkOUhad1NNTUtsbngtbTc0RWh4T2o4X2hNczhzdmxrb0ozZ3FMVGR2RkxtbVZHdnkxMm8tUURfT2dDSXJqU1lsa0pIUVlnOWlhTWktM2NwdU9tdDB5cm8wOVBWdXNrY19RNg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Narasaraopet MP seeks key railway projects for Palnadu, Andhra Pradesh - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcFNKeHRZbG9PVnZTdnVHTFZjN0tHYTVMdnh2WlVoc0xVeURkb1o2dzdwQzhxR2g3MFRaZ3hXakZGeFMyTWU3TW9zWjZJN0lQemJnRl9PSXFscWY5WkZOZmVzV0VNNld2bmlSdzFEbnpBR3Z0UlppQXhLSmlZRDZEQkR1SXBiRUVEZ0lpcWhJbnN3N1F4QVJCTWxMVmZIUzkxRUtBdmxjMnh3d2J3a0dFcDNvNnVmc0dpbXk3bjJESjZVTW5CaF96X2dNZFB6cWs0eDZTVzAxTEd4YWvSAeIBQVVfeXFMT0hPczZNMGRvQWNuLTllU1NWWWV2TktDWEM2bFVZYkgwMzNGTkFuT0NXNVkzcnNaa0d6VnBHZ0RLM2kwUW43Q2hoZTlPUk9UbTRuZG5mSkhETmNUYjE5MktQTHlHVmRrSl82N1Y1M2ppWjVOSVBpRnpxMl80b1YxNWlwR0c4bDVzRXFjbTlJM2xyQ1dyMW54NnpWa25vN3ZOeUUwV255R2xzSzRYWFB2SlZsS1BIX2NrQkxMeHJZVGJtdTRMYlNxZmthN3ZFNm5qY2hKSHlnNllHbEdFb2xjQmNIdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Andhra Pradesh MP Lavu Sri Krishna Devarayalu assures free education at Vignan University for ST students - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRGF5bVc4SjJjWUxLUzBWWXp5UkhSc0RISjgtOXpfR0NqMkIwNFVXY0wtV093X20xSERlWGlzQ0t2WUlXYlFEVWVZT1lLSWhGMXh4LU5jUXFnWW9ZOUFqWVFGYUF5T0ViSVR4T3lETVgyM1F0Z0lEN0g5QzZyX3U0VFZyVl8wRkpTQ3ZkSXBrVktxY0t2dXlFclZRM3kwakF6MmFXazJZQjhQQnBBaVcwMXhhcGZ2WHdoT3czRVZXblRfZXFfVFE2RzdySUhsWk53blV3LXJaWVZDd3hWMmkySXlzM3kxNm4yMVhVTllJeWtQZnZ0TVZ3S2s2TmJRN1hwQkN1d1FmZVk5WklFd1FNNNIBlgJBVV95cUxORnZ6dHlDamJYV0oyX0xhYkszaXZWQkliZDFqcnFtMmJLYkNmUUpEYTBqQ3R3ZEtvYUxYQUh2WFBpOHlOWGVkY1dvU2FiYVJBNmlIdVl4LV8yRFpfVkMtVjdqdFZZRzkzNVJJMUZBVlY2LVNkZ0pfRFlBdU5FS19lTWdyN0ctU1FNWnBxN29IclE5aThkYVcycElON21hNmtGWWVYaklwWnFGdEdpcUM5YW1EM0JuLUVydHR2YzlCZk5UTG82ZEctTjhFcmx6MTFVekZvcTZvczlJbW9UMm10UFk1Njd6Z240OTdtaldyS1Z5WUJraGpHRUZlREhmMTdsLXZ0ZHNjRmtGRXFMa0h3U2hEUHY1dw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Visakhapatnam railway zone dream realised, operations to begin from June 1, says MP Lavu Sri Krishna Deva - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWEpGd2cxZFNSRERCWnZzZXprc2xUR0hsTlBXMVhNSEw5LWt4LUlxRWRxcGU5bVBaTzd2VzJveVFPZFhmUmRTWTVObWJtVjZ6QWtTcFJwTUh5R1R3VUFuQ2ZaZmJXY1RRa0hNNGtTWV8yRW5aVTJXZVRYOGNUcTFPSnN3LWVoSUMtM3JwSnZ5N3RTeFJTaXdNaDE1ek9mai1xZGpQbDUzMDdrTVVieVJPRXc5b3RwZHk4cDgtUXIwWm9BTEZSeFBod1RBc09lMjRRdHc1QURvUWNOUUp5U2tmS25tVkxmbm1ybXJtX0NvMXVPeUxqaXU1NjZqTzg1aGtzeEFCRXVIS25pbUJMdnd0dDZIU2ZqZ9IBmwJBVV95cUxQNlZUMTVjcFJpanhsdy1BcW9DNEw2cERVb3VLMWhFb3VlbDd2Z1dVaFZRXy1WckItRG9wWGNCSE1vd1FzaG1LQjdwTF9DTTBRNGRreVVqdVlvR043V3FSREV4VVVvWWhjWlk5N2pCVG1VdVF0UmNRMVBvT2pXMWNmTURrWkFUNnhjQU9ORGZzS1VibHR0ejY0MHA4eUgyYzdQcDhJaTdWSWlqRmp3MXdhc0RCZWUxNlRYSTEyOGJ5dVQ3Uk5RZ2RqX0N4S1V0S01yUHZ1N3hXMDB1NUJNc3laOGRSa19tSDl4a1VLNFl5MGZRNDdHMXdLMGRiOWxPQmRjeU9vcl9PYnYyZVdLeEpOUHk1WGVQUzdyV2tZ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Minister Nirmala to launch Rs 3,216-crore credit outreach initiative in Palnadu today - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd3VBb0QtMXhCbkVWenlJcnhyZDdSTDRuWFUyclkzaGxyVnc1TkgxbDUwd0Z1N2g3OFMtd05EOGdXTXdNbGJKMm1UVE1Hb1htR21nOFo3dXFFUE5ZclB3ZjJRTTdCTlEtZzBIbHFabG5OM3RfbHlrOV95SmFTazVjU3ZpVXNlaThXV01lRnRyejlFelFZdzgxYzNISngycWp0OTRCXzk2RXR3V3VvakRoVUJhajB5NkhBcjhMWkJMTjNZclpCa0JEYWVMNmFJX0dMWGp3d0hMd0kwVmZIYVFYOEFpOGNEd9IB8wFBVV95cUxOZEY5dkJWck5VSS1RTGhDYy1YaDQtd0JQT2tzSW44cXd4Rnl2SFdNNnlzMjV1SGdLTUxEOEhSZThoMHMtWFBpVEhORkR3amdNUTZrR0tHVHEzb3ViU3FyZzVPdnBoY3oyQ0ZxZXpNdlIxZEtKVjdGeXJXaEI4eTFqdWVjVmZOUnJmME9xX0xIQ3RfdkFydW5mNFgtZzNFSEZYYm1fa29COFVTUjRvNExNRk1fY29sWUhUWTRuR2VGY3dXaUN4dFBSOEVHRUtiSmZNRHd3M0gyU01kTVNJSUZFb01yVFdCM1Nrem9NS09uaDBDSFk?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads",
-    "myneta"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:59.835018Z",
+  "collected_at": "2026-09-02T14:47:30.742699Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A",
-    "assets": "B",
-    "criminal": "B"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.448987Z",
+        "fetched_at": "2026-09-02T18:38:03.937196Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.448996Z",
+        "fetched_at": "2026-09-02T18:38:03.937207Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.449001Z",
+        "fetched_at": "2026-09-02T18:38:03.937212Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.449006Z",
+        "fetched_at": "2026-09-02T18:38:03.937218Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.449012Z",
+        "fetched_at": "2026-09-02T18:38:03.937224Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.449016Z",
+        "fetched_at": "2026-09-02T18:38:03.937229Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.449020Z",
+        "fetched_at": "2026-09-02T18:38:03.937234Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,32 +304,41 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/Sri Krishnalavu/",
+        "url": "https://facebook.com/http://www.facebook.com/Sri Krishnalavu/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:43:51.425870Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 1,
+    "positive": 0,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Andhra Pradesh MP Lavu Sri Krishna Devarayalu assures free education at Vignan University for ST students - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRGF5bVc4SjJjWUxLUzBWWXp5UkhSc0RISjgtOXpfR0NqMkIwNFVXY0wtV093X20xSERlWGlzQ0t2WUlXYlFEVWVZT1lLSWhGMXh4LU5jUXFnWW9ZOUFqWVFGYUF5T0ViSVR4T3lETVgyM1F0Z0lEN0g5QzZyX3U0VFZyVl8wRkpTQ3ZkSXBrVktxY0t2dXlFclZRM3kwakF6MmFXazJZQjhQQnBBaVcwMXhhcGZ2WHdoT3czRVZXblRfZXFfVFE2RzdySUhsWk53blV3LXJaWVZDd3hWMmkySXlzM3kxNm4yMVhVTllJeWtQZnZ0TVZ3S2s2TmJRN1hwQkN1d1FmZVk5WklFd1FNNNIBlgJBVV95cUxORnZ6dHlDamJYV0oyX0xhYkszaXZWQkliZDFqcnFtMmJLYkNmUUpEYTBqQ3R3ZEtvYUxYQUh2WFBpOHlOWGVkY1dvU2FiYVJBNmlIdVl4LV8yRFpfVkMtVjdqdFZZRzkzNVJJMUZBVlY2LVNkZ0pfRFlBdU5FS19lTWdyN0ctU1FNWnBxN29IclE5aThkYVcycElON21hNmtGWWVYaklwWnFGdEdpcUM5YW1EM0JuLUVydHR2YzlCZk5UTG82ZEctTjhFcmx6MTFVekZvcTZvczlJbW9UMm10UFk1Njd6Z240OTdtaldyS1Z5WUJraGpHRUZlREhmMTdsLXZ0ZHNjRmtGRXFMa0h3U2hEUHY1dw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "AP raises cotton, shrimp, tobacco issues with Union minister Piyush Goyal - The New Indian Express",
+        "headline": "TDP MP defends Andhra Pradesh DSC exam in Lok Sabha, seeks action against false claims - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQTIzX19ncWlIU2plaHpDY0FLUWpCY2phVXZQMm5jemY3cFhMaEdsTFlMeTBzNGdxenU3cUNNc0dSTUNTTXJtcWEzT2M3Q2RpdWdMV09NUjdJb3htVlhiUmNJa0RpYU5kU2tNZkRZdHRsR19aRFJsMTJ0enVlaVVoaXY0eDZyd3c5ZHV4V29oaUMzay1TRjBEcEhjd0ptVHR4aFdxaVUyNU1FMjJsRGswLTNMVjFyNXNCd2NQVTZmTGtGaHoyNVJHalY4dlNPWGZDV0VmN9IB4gFBVV95cUxOTE96d09zaVZjZUdoenNFTkJ1cHkzYjAzcG9hbnVjZFZWdkRxM3VKMjcyUUxiNGg5M1NMamM5X0cyMF90VEhWNHRjaS1Kc1d5S3JfR1lHUloxRTNDQWR6em9BQXdnN21KXzhJV1FYODVEMVp3SzVZOGIzV3d4d0RuYkZhODVCSHdlU2tKZnJwbTlZeW9lVW9VU3c1QnE1MC15MzRuMExCbEJFYngyWUNnZXR4Nkh4VENXOGFWdGVBRVZKZ0J5MkZDYUxRTFNxbWFGSE5RSmZscDdoZUcxMVo0Q09R?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQTE5aVhuLVJROUozWUQ4Ry1VdTZ1Q2wycmRxUnlCb1dTLXFfWUJpWGo3bUxYODFVN3ZyZDZuQWNXTGtlXzNrWXotdF9OZjUwdmNlZlBKVDN5RmZZYjVfSERpZDFzdGRLV2RRZEZsN0FlV2FYVXdoYkhnMHAwc0xZdmhLRC1ZVnVYN1hUcXFUdHRsLXYySTVwMkNhRERBLVRueWswUEtpVG5LTnY3VU5uR2RrZDN6Rkd0WVctR09GODlDNkxDcU1Heko4S3g3bXgzQXhoQlZDYVpHMG96NHpUalJObmFwcWfSAfQBQVVfeXFMTWhRQVR6WVhGV2JrT0RpQ0djaTlEYnJhNk80QnlzWWVDd2xORmM4RzVkZWRJendza1RqTTFzY2RKc3RGdGFvdzM1M0JZaTNyNVF0SFZyMmVQamV6SjhVVjdqaEd6azZrckNMcWZnMTk2bTFwU3ZEb2FFN09lY0JuZEpZMzJQYWMtSHNoSmNBVGdFc0xkOUhad1NNTUtsbngtbTc0RWh4T2o4X2hNczhzdmxrb0ozZ3FMVGR2RkxtbVZHdnkxMm8tUURfT2dDSXJqU1lsa0pIUVlnOWlhTWktM2NwdU9tdDB5cm8wOVBWdXNrY19RNg?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -296,20 +350,28 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Andhra MP raises textile, aqua and tobacco sector issues with Centre - The Times of India",
+        "headline": "Andhra Pradesh MP Lavu Sri Krishna Devarayalu assures free education at Vignan University for ST students - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPamJQekpWcm1udmVQdF8zRzJjbjFhZ3hubUlaWTI0aGZuMnlaMnFqeF80R19IMUtRRlN1R3ExeHhVTkFGbnNMYnZNUWdiR3dKUlRZRWVqRTdaZC14ckk4MF9aaGtROW95NFdleGVETkNFOEx1dHRMeG04MFN3Ui1TZThSb3hha0piQmtRaFB4OTluZ2ktQVlXU09ZcVh1Y1BMQklGTEU2TDJobG9TWnpleU4xU3JKN001YUl0U0FMcENRMTZYdDdOeWZBTmlNd0VSMUJUdjd3VzlycUY0VFHSAeMBQVVfeXFMUEROODZmZ01hSVFSUnljLUluNXJVMGc1LWJlb2N2b0ZIMHEwOTlNNWpBQ20wN3RJOTlmWVUxZEpuVHhzVlJZcFRsR2w2M0U5ek9yWC1uejgzZnJmelAxWEZ3M3JSenFOSDMtVzZrMTZKUDJ3NGk4b1BJM1Rsd3RIUDZfNWVUNEd5UTNZQ0QzMzFwQVhvYjFlNm44aTh2cl9waEUwX1QxdHJiTGhaNGl1Ri01cWlnT0RKRjVWd1ladk9ob1hTVWxYYWxRVkxZNkhGWm42b3RuemlveTRQOXVPUkdhU1E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRGF5bVc4SjJjWUxLUzBWWXp5UkhSc0RISjgtOXpfR0NqMkIwNFVXY0wtV093X20xSERlWGlzQ0t2WUlXYlFEVWVZT1lLSWhGMXh4LU5jUXFnWW9ZOUFqWVFGYUF5T0ViSVR4T3lETVgyM1F0Z0lEN0g5QzZyX3U0VFZyVl8wRkpTQ3ZkSXBrVktxY0t2dXlFclZRM3kwakF6MmFXazJZQjhQQnBBaVcwMXhhcGZ2WHdoT3czRVZXblRfZXFfVFE2RzdySUhsWk53blV3LXJaWVZDd3hWMmkySXlzM3kxNm4yMVhVTllJeWtQZnZ0TVZ3S2s2TmJRN1hwQkN1d1FmZVk5WklFd1FNNNIBlgJBVV95cUxORnZ6dHlDamJYV0oyX0xhYkszaXZWQkliZDFqcnFtMmJLYkNmUUpEYTBqQ3R3ZEtvYUxYQUh2WFBpOHlOWGVkY1dvU2FiYVJBNmlIdVl4LV8yRFpfVkMtVjdqdFZZRzkzNVJJMUZBVlY2LVNkZ0pfRFlBdU5FS19lTWdyN0ctU1FNWnBxN29IclE5aThkYVcycElON21hNmtGWWVYaklwWnFGdEdpcUM5YW1EM0JuLUVydHR2YzlCZk5UTG82ZEctTjhFcmx6MTFVekZvcTZvczlJbW9UMm10UFk1Njd6Z240OTdtaldyS1Z5WUJraGpHRUZlREhmMTdsLXZ0ZHNjRmtGRXFMa0h3U2hEUHY1dw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Road inaugurated - The Hans India",
-        "source": "The Hans India",
+        "headline": "Visakhapatnam railway zone dream realised, operations to begin from June 1, says MP Lavu Sri Krishna Deva - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHbEwzYjBTbGtFal9TVXdNcFNiY2YzWTFVcDNTUW1aSDN5NWliMTZEdW9GdU1DVTI5ejllVFI3V0h0a2l4WUpmU2JxTVZrTEt2cU9aTWhqS2VVMXB2eXdjUDdHOFhrQUdpamxXTnlrd1I4TXBmVkJZ0gF8QVVfeXFMT2tHRVVJd0tXVzN1Z1BfUmFULUJabGdxNmFCR1VnUzY4UUd2ckZIcVpOYkQ2aUN1VzZ3bThpV1NiRlRVNjRVbnZpUWtTbmlaOXhudGlhcGk4RDFWblVXa1EycUJSV3lzdTdGQTNuQjBjcU40ZEFZdDc3YUx2aw?oc=5",
-        "sentiment": "positive"
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWEpGd2cxZFNSRERCWnZzZXprc2xUR0hsTlBXMVhNSEw5LWt4LUlxRWRxcGU5bVBaTzd2VzJveVFPZFhmUmRTWTVObWJtVjZ6QWtTcFJwTUh5R1R3VUFuQ2ZaZmJXY1RRa0hNNGtTWV8yRW5aVTJXZVRYOGNUcTFPSnN3LWVoSUMtM3JwSnZ5N3RTeFJTaXdNaDE1ek9mai1xZGpQbDUzMDdrTVVieVJPRXc5b3RwZHk4cDgtUXIwWm9BTEZSeFBod1RBc09lMjRRdHc1QURvUWNOUUp5U2tmS25tVkxmbm1ybXJtX0NvMXVPeUxqaXU1NjZqTzg1aGtzeEFCRXVIS25pbUJMdnd0dDZIU2ZqZ9IBmwJBVV95cUxQNlZUMTVjcFJpanhsdy1BcW9DNEw2cERVb3VLMWhFb3VlbDd2Z1dVaFZRXy1WckItRG9wWGNCSE1vd1FzaG1LQjdwTF9DTTBRNGRreVVqdVlvR043V3FSREV4VVVvWWhjWlk5N2pCVG1VdVF0UmNRMVBvT2pXMWNmTURrWkFUNnhjQU9ORGZzS1VibHR0ejY0MHA4eUgyYzdQcDhJaTdWSWlqRmp3MXdhc0RCZWUxNlRYSTEyOGJ5dVQ3Uk5RZ2RqX0N4S1V0S01yUHZ1N3hXMDB1NUJNc3laOGRSa19tSDl4a1VLNFl5MGZRNDdHMXdLMGRiOWxPQmRjeU9vcl9PYnYyZVdLeEpOUHk1WGVQUzdyV2tZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Minister Nirmala to launch Rs 3,216-crore credit outreach initiative in Palnadu today - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd3VBb0QtMXhCbkVWenlJcnhyZDdSTDRuWFUyclkzaGxyVnc1TkgxbDUwd0Z1N2g3OFMtd05EOGdXTXdNbGJKMm1UVE1Hb1htR21nOFo3dXFFUE5ZclB3ZjJRTTdCTlEtZzBIbHFabG5OM3RfbHlrOV95SmFTazVjU3ZpVXNlaThXV01lRnRyejlFelFZdzgxYzNISngycWp0OTRCXzk2RXR3V3VvakRoVUJhajB5NkhBcjhMWkJMTjNZclpCa0JEYWVMNmFJX0dMWGp3d0hMd0kwVmZIYVFYOEFpOGNEd9IB8wFBVV95cUxOZEY5dkJWck5VSS1RTGhDYy1YaDQtd0JQT2tzSW44cXd4Rnl2SFdNNnlzMjV1SGdLTUxEOEhSZThoMHMtWFBpVEhORkR3amdNUTZrR0tHVHEzb3ViU3FyZzVPdnBoY3oyQ0ZxZXpNdlIxZEtKVjdGeXJXaEI4eTFqdWVjVmZOUnJmME9xX0xIQ3RfdkFydW5mNFgtZzNFSEZYYm1fa29COFVTUjRvNExNRk1fY29sWUhUWTRuR2VGY3dXaUN4dFBSOEVHRUtiSmZNRHd3M0gyU01kTVNJSUZFb01yVFdCM1Nrem9NS09uaDBDSFk?oc=5",
+        "sentiment": "neutral"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -342,15 +404,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 37,
+    "starred_questions": 11,
+    "unstarred_questions": 26,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 72.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +420,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -3,24 +3,22 @@
 **Constituency:** Mayiladuthurai, Tamil Nadu
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 46
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 35.3 / 100
+## Composite Transparency Score: 43.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 12.8 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,28 +32,40 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 557/2021, Date 04.10.2021, Central Madras, Anna Salai Chennai, District | Section 41 TNCP Act (Sections: 143, 269) [pending] 
+2. 2713/2020, Date 21.12.2020, Town North (Dindigal), Dindigal District | Referred on 06.01.2021 (Sections: 143, 341, 269) [pending] 
+3. 185/2019, Date 18.09.2019, Tiruppattur Town Police Station(Tiruppattur) (Sections: 143, 188) [pending] 
+4. 388/2022, Date 16.06.2022, Guindy Police Station Adayar Distt. | Section 40(1) TN City Police Act (Sections: 143, 151, 341, 353) [pending] 
+5. 219/23, Guindy Police Station | Section 41(6) CP Act (Sections: 143, 151, 285) [pending] 
+6. 140/23, Chintadripet Police Station | Section 41(6) CP Act (Sections: 143, 149) [pending] 
+7. 593/21, Nungambakkam Police Station | Section 41 CP Act (Sections: 143, 269) [pending] 
+8. 1056/2020, Anna Salai Police Station (Sections: 143, 188, 269, 285) [pending] 
+9. 10/2024, Anna Salai Police Station | Section 41(6) TNCP Act (Sections: 143, 141) [pending] 
+10. 1730/2020 North Brach PS | Section 41(IV) TNCP Act (Sections: 143, 188, 269) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 38.63 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 38.63 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 4% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 5
-- **Expended:** Rs 2
-- **Utilization Rate:** 16.0%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +79,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@R.Sudha@AdvtSudha](https://x.com/R.Sudha@AdvtSudha) | No | Yes |
+| Facebook | [@Sudha R (Sudha Ramakrishnan)](https://facebook.com/Sudha R (Sudha Ramakrishnan)) | No | Yes |
+| Instagram | [@Sudha Ramakrishnan](https://instagram.com/Sudha Ramakrishnan) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +99,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Rajiv Gandhi Assassination Convict Perarivalan Enrolled as Lawyer: Mayiladuthurai MP R. Sudha Writes to President Droupadi Murmu for Immediate Cancellation - The Mooknayak English (The Mooknayak English) [neutral]
-- MP Sudha seeks ‘Chola East Coast Railway’ from Chennai to Kanniyakumari - The News Minute (The News Minute) [neutral]
-- Posters in Mayiladuthurai condemn MP over candidate support - The Times of India (The Times of India) [neutral]
+- Mayiladuthurai MP reviews implementation of Central schemes - The Hindu (The Hindu) [neutral]
 - Mayiladuthurai MP submits proposal for East Coast Railway from Chennai to Kanniyakumari - The Hindu (The Hindu) [neutral]
+- R Sudha becomes second woman MP from Mayiladuthurai with Congress victory - The New Indian Express (The New Indian Express) [neutral]
 - 'Traumatised...', Says Congress MP Sudha After Her 4 Sovereign Gold Chain Snatched In Delhi - ETV Bharat (ETV Bharat) [neutral]
+- Congress MP's chain snatched in Delhi: R Sudha targeted near Chanakyapuri home during morning walk; cloth - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Mayiladuthurai MP reviews implementation of Central schemes - The Hindu** (The Hindu)
+- ! **Mayiladuthurai MP submits proposal for East Coast Railway from Chennai to Kanniyakumari - The Hindu** (The Hindu)
+- ! **R Sudha becomes second woman MP from Mayiladuthurai with Congress victory - The New Indian Express** (The New Indian Express)
+- ! **'Traumatised...', Says Congress MP Sudha After Her 4 Sovereign Gold Chain Snatched In Delhi - ETV Bharat** (ETV Bharat)
+- ! **Congress MP's chain snatched in Delhi: R Sudha targeted near Chanakyapuri home during morning walk; cloth - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sudha R has a below-average transparency score of 35.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Sudha R has a below-average transparency score of 43.5/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance.
 
 ---
 
-Has 10 criminal case(s) (0 serious), 10 pending, 0 conviction(s). Declared assets: Rs 3,862,830. MPLADS utilization: 16.0%. Parliament attendance: 90.0%. Questions asked: 27. Debates participated: 4.
+Has 10 criminal case(s) (0 serious), 10 pending, 0 conviction(s). Parliament attendance: 90.0%. Questions asked: 27. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +174,7 @@ Has 10 criminal case(s) (0 serious), 10 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +253,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Sudha R's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 16.0%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +270,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,16 +4,16 @@
     "constituency": "Bankura",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 7977,
+    "myneta_candidate_id": null,
     "slug": "arup-chakraborty",
     "house": "lok_sabha",
     "sansad_member_id": 5778,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 68,
+    "age": null,
     "photo_url": "/mp-photos/5778.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Bankura",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 7977,
+      "myneta_candidate_id": null,
       "slug": "arup-chakraborty",
       "house": "lok_sabha",
       "sansad_member_id": 5778,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 68,
+      "age": null,
       "photo_url": "/mp-photos/5778.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:29.186925Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 171911710.0,
-      "liabilities": 65685037.0,
-      "net_worth": 106226673.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7977",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.592176Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 68.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.66,
-      "expended": 5.36,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:40.185978Z",
-          "notes": "Official eSAKSHI REST API — Works: 70 recommended, 69 sanctioned, 1 completed"
+          "fetched_at": "2026-09-02T14:51:42.532458Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:47:42.830157Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:47:42.828385Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 70,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 36.462585034013614
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 55.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:41.622836Z",
+          "fetched_at": "2026-09-02T14:47:42.827689Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "'Mamata Banerjee's Life Is In Danger Inside Her Home' - Rediff",
+        "source": "Rediff",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFFlLTVHUUJPU0xTaVhmQ1k0NG9RWkFCYzhzSTYzZ0VQS1JRYmExQThGa2dKSUMwaW5XOGtoWWhjblZEYnBxY0Y1YUhUMHh0WXdObmNIOURLTDhuaEhqMmhLY3BTWmd1S0VvTm9rX0VucVhUM05qRXhyb20yU2pmVWttUXJMVHFkQWVXNlJPakpXa0lURHRQdlNNWnlDRVI5WmtZeXdRYjJYTklwMVh3cENMdHJKUkFTTVHSAbwBQVVfeXFMTmlrdWVWcVhEbV94Ym9ZeGVwU1JZaEIzSDgyVERpdTZiTTdTVTJEa2ljYjZZT3QyV2xpa0NtMXk4Q3g0WnozcmI4bWpHRUhsX2l6TXZQNkZydGo3YWtMODVQS28xdlFtT0lBUWlaRURuVGkycGQ3RHAtbTdONnlOQ0g4Sm9kaWZkcTg5NVo0eEtfYkhxb25MS3I5TGtEZ1dibFRNVjlpeUFnVzV1SkFYSjZCcTRkbzR2aE9HVXI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Several TMC rebels jumping ship carry baggage: Is 'washing machine' back at work? - The Federal",
+        "source": "The Federal",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlNyUUlQOEdfaW5tc2lhZ050aG15UDg0eDAwUGRweHAwU2VVNnYtVTkwMUFuZ0RieWl6YVdYcUVqWW1QYUFnNk1ZcG5qVjg1SUtxclhxRzg4ekszLW1uM2Y2R2QtZEhOdGxSc1lQek50Q2kyVUVQalZDLU05bVBwT3psS2NER05NWjlyT1M4dWxuODRvcmxjSENLc1dydkFvZTJrWUNmUjVUbEQ2VDByZUp2NS0tbUs5aWc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Trinamool Rebel Camp Moves to Join NCPI, Bypasses Anti-Defection Law - The Avenue Mail",
+        "source": "The Avenue Mail",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2pQajNSRWNaX1hFTS1YcDN5MjZYby1TamtwcDI5aEdYM2xyYXBDLURBZUtLYjFhRkpBUk9BMmVBUGFHbjVLbEtLMkx0M18wNURNWGxIZ0E2aUVTWEc0RkY3ZklGb2pmVEtueGdacE5aYlhjNHgzWkVCU3I0NTBPRFV3QWFpUHBYanhEdF8ySTIycVNn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "If patients die and public anger falls on you, we won't protect you: TMC MP Arup Chakraborty to doctors - Telegraph India",
+        "source": "Telegraph India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVExlQl9FbFNsQll3dUQtb0tWYVlPZkdtcGxaVG9UcWVCMTJ0UDQ0VXh1SWU2Z1ZCQ0JyQXBEZkF0d2VtY3VLSWVlWW5sVFdwVkozTm5vVWd4LVBIOEpGX2tRWUhwOHg3emVPckwxVlNWbFZQc3VNT3JQMThuYW1XUF9haFdNYzI2a3Boa29sT0pWWC1hSkpfNzZaSlFuRFRCM0s0UTVUWWNPVmh0c2kzajBRQmgyV2U0NTY5aEhhWUVWeUxvRXdDRk42Y21Ld0kwWkVKNFY1UU5kT1Q1TERZMjlmSGhhVDgyZHhVdkZGRllfeV9EWnfSAfsBQVVfeXFMTWlQSEs3SU53cnlIOWdXZ0pSSGMwNGsxRFdiS1hrYm94R24zSWZoVVNwdldWRDNncjFKLTRieFVoS2VhLUlPTGFmc1RPZFJNZHpiaE9NNWhVOFpnMGhTQldnaWt6UXhEMVpNV0piSzNHZENLSWNJYWR4dEJTWHVuQlhCZU1mQ3VDWjN2d1JrN0taOFFPZWxmbXYzX0Z1ZEswRXc5RUxMVWNrVU5NRXdJTXBFM0EwQk5VaEtnLThVS044NDJUNGFuRWJBNEhLR0VMRENwSWh4OWlZc0M5ZzVTYVctNnRYakliV1R6OHNOU2FUZFVHY3VVZzBlRzA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parties in Taldangra look for Odia community votes - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTBtYkN2WWxKeXQ1R0Yzckp4ajkwVi1EV3ZzRTJSdkVUaG5vUFhxY3NWSjMtX3JUazNaZ0tNR3g4azhoQ3NHRlNJTlhHbi0xZWk0WVVsRXRJdGdkNEZsalEwTmREaHoxRV9nX1ZIb2E5a0FBNWk5ajNOZUE1N2pzNlQ1VzZvbHJKamRLUzktS2J4d04zNjFoLWstR0pnLW4yNUlzT9IBqgFBVV95cUxOVmdKRW94YlZWYnpQMzZLX3JMaFd6Z0RqaFVtSnlkUkhuOTR5T0dFQjhTUjQ3dlNCYU1hc3lkS0M2WXRvYnB0S0ppRzdrVEJJNWtXS1p2TkR3S2E1Sll0RkZMcDQ1WGdYZVRXUHRBYi11X3VaY19TODdSR18tWDJ1N0pKTVl4TzZ4R0VVenp3blh3cTQ4cWlmUm94WFZrYWR2OXg2S0s2cU9tQQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:44.440745Z",
+    "collected_at": "2026-09-02T14:51:42.533143Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.541142Z",
+          "fetched_at": "2026-09-02T18:38:12.146868Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.541151Z",
+          "fetched_at": "2026-09-02T18:38:12.146880Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.541156Z",
+          "fetched_at": "2026-09-02T18:38:12.146886Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.541160Z",
+          "fetched_at": "2026-09-02T18:38:12.146891Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.541166Z",
+          "fetched_at": "2026-09-02T18:38:12.146898Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.541170Z",
+          "fetched_at": "2026-09-02T18:38:12.146903Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.541174Z",
+          "fetched_at": "2026-09-02T18:38:12.146908Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,19 +335,27 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Trinamool plaint after CAPF jawan ‘seen’ with lotus cutouts - The Times of India",
-          "source": "The Times of India",
+          "headline": "'Mamata Banerjee's Life Is In Danger Inside Her Home' - Rediff",
+          "source": "Rediff",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeFVGcExENFBlc3FFcTh6V2M0aU16LTZqcUdCYjJQN0FEY0VjWHBnc0lmZXFPRXYwOEk3VzA5TnV5REpJTVVpcXBicUpjUUlud2hobWwtTlk4V05kcm1BUzZDSm9hUklfbGhOdUQyZEFzUXRGaTlQMnJ1Z3F0R2pvdUlSa3VhaTYzVk5uTm45TTJTXzJvUXY4Yi05R1J0YmdYRXZkRkFRQkZ1MVBfbmZyTWJvcDJocU9MOHBldUQyOUdXSy10R1ZpZFdLb1rSAdIBQVVfeXFMTVNZRGVyR2htZFdZLXBtbGNWUVpNVzVJd2tJSllPMVV4eUZRRnhjUGV3UFh5MXkwVjlvd0pYaUwzV3g4THlSbk5ZbkZEV0lheDZ6dTY2VzBWYTdZdnRHQnluZTFXVl9ELWNmb1MxbFdMZjBpaUpYakVMZ1FTVEE0VzUtM3VYMG5VcW1FRUlTQTl4TEJFVm1SZFR2OE9YdUVRLTJYVVlHelcyMTB3ZmZMMlNUZXZYc09YbHhiUXltWVJ6ZGVadHdHTDJ0cEV1dEUtbXhn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFFlLTVHUUJPU0xTaVhmQ1k0NG9RWkFCYzhzSTYzZ0VQS1JRYmExQThGa2dKSUMwaW5XOGtoWWhjblZEYnBxY0Y1YUhUMHh0WXdObmNIOURLTDhuaEhqMmhLY3BTWmd1S0VvTm9rX0VucVhUM05qRXhyb20yU2pmVWttUXJMVHFkQWVXNlJPakpXa0lURHRQdlNNWnlDRVI5WmtZeXdRYjJYTklwMVh3cENMdHJKUkFTTVHSAbwBQVVfeXFMTmlrdWVWcVhEbV94Ym9ZeGVwU1JZaEIzSDgyVERpdTZiTTdTVTJEa2ljYjZZT3QyV2xpa0NtMXk4Q3g0WnozcmI4bWpHRUhsX2l6TXZQNkZydGo3YWtMODVQS28xdlFtT0lBUWlaRURuVGkycGQ3RHAtbTdONnlOQ0g4Sm9kaWZkcTg5NVo0eEtfYkhxb25MS3I5TGtEZ1dibFRNVjlpeUFnVzV1SkFYSjZCcTRkbzR2aE9HVXI?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Families allege ‘SIR stress’ behind two heart attack deaths in Bengal - The Times of India",
-          "source": "The Times of India",
+          "headline": "Several TMC rebels jumping ship carry baggage: Is 'washing machine' back at work? - The Federal",
+          "source": "The Federal",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGxvRnM0eEI2MXIySzBXcjd0SHNkdDR0LVgxdVFra3llenFRZ1RKSHpreUdoRGoyYUk1UXphWlhTVXBNaU9ZajBiNTRHR29pUzd3TDQ3Y0NXMGlid3hVcjdCa1RpTTRhaGtaVThYak5SSWVvZko5N2dBa2VNTFltUjd0SGhPcmo0NFAzRW5KV3MwU2Q3cmlxRldRRmxqcEYwQTd0VTZHM3lsbDZMb0pTaC1jeU9jSVJyZnY1NnZqVG5SSmZoZHZfZ2swMmpNYWtqSGNhbl9mUnZ6Z9IB3wFBVV95cUxNMEgtM0diNl9GdDJISGpseTZxOHVOdmx5bEROckE4RXFVc1kyQzhqdHF2a1VWMEF4UUF0c2ZsWS1YWV9PWGZ5Zks0dUlFazMxeTVUcmEtdTV2dk42dlNVdFRQaVBJQXVlanZkMGdBWG9Jd3dvdWZocTgyVHd3NDFxbU1DUHNFbHV2eHl5S1F3SEhWR1BQSlpoZk1UWGh2czVEQWdtZVBoS2k3M0tCQy1CX0ZDWUhEeWlUaElfdkM0TTlfVjhxa2p0MUxkWUNTVUdfek9ZY2Z4MXBKV1A0NkhF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlNyUUlQOEdfaW5tc2lhZ050aG15UDg0eDAwUGRweHAwU2VVNnYtVTkwMUFuZ0RieWl6YVdYcUVqWW1QYUFnNk1ZcG5qVjg1SUtxclhxRzg4ekszLW1uM2Y2R2QtZEhOdGxSc1lQek50Q2kyVUVQalZDLU05bVBwT3psS2NER05NWjlyT1M4dWxuODRvcmxjSENLc1dydkFvZTJrWUNmUjVUbEQ2VDByZUp2NS0tbUs5aWc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Trinamool Rebel Camp Moves to Join NCPI, Bypasses Anti-Defection Law - The Avenue Mail",
+          "source": "The Avenue Mail",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2pQajNSRWNaX1hFTS1YcDN5MjZYby1TamtwcDI5aEdYM2xyYXBDLURBZUtLYjFhRkpBUk9BMmVBUGFHbjVLbEtLMkx0M18wNURNWGxIZ0E2aUVTWEc0RkY3ZklGb2pmVEtueGdacE5aYlhjNHgzWkVCU3I0NTBPRFV3QWFpUHBYanhEdF8ySTIycVNn?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -303,14 +364,6 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVExlQl9FbFNsQll3dUQtb0tWYVlPZkdtcGxaVG9UcWVCMTJ0UDQ0VXh1SWU2Z1ZCQ0JyQXBEZkF0d2VtY3VLSWVlWW5sVFdwVkozTm5vVWd4LVBIOEpGX2tRWUhwOHg3emVPckwxVlNWbFZQc3VNT3JQMThuYW1XUF9haFdNYzI2a3Boa29sT0pWWC1hSkpfNzZaSlFuRFRCM0s0UTVUWWNPVmh0c2kzajBRQmgyV2U0NTY5aEhhWUVWeUxvRXdDRk42Y21Ld0kwWkVKNFY1UU5kT1Q1TERZMjlmSGhhVDgyZHhVdkZGRllfeV9EWnfSAfsBQVVfeXFMTWlQSEs3SU53cnlIOWdXZ0pSSGMwNGsxRFdiS1hrYm94R24zSWZoVVNwdldWRDNncjFKLTRieFVoS2VhLUlPTGFmc1RPZFJNZHpiaE9NNWhVOFpnMGhTQldnaWt6UXhEMVpNV0piSzNHZENLSWNJYWR4dEJTWHVuQlhCZU1mQ3VDWjN2d1JrN0taOFFPZWxmbXYzX0Z1ZEswRXc5RUxMVWNrVU5NRXdJTXBFM0EwQk5VaEtnLThVS044NDJUNGFuRWJBNEhLR0VMRENwSWh4OWlZc0M5ZzVTYVctNnRYakliV1R6OHNOU2FUZFVHY3VVZzBlRzA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "LS polls: ‘Son of the soil’ is TMC’s ‘bet in Bankura’ - MillenniumPost",
-          "source": "MillenniumPost",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOck5wVjhYYkRKU3dJNFo1aml1OG1oc2xQekgxNnB4azlqWGVCbTdlUGl2TDVOcUlwcXQ0ZHFrVkNPVWcyM3pJWHd6eEdKdU9vVTNHblNuS0E2OU9KYUJBa0dERmpDc2YxbHpTY1VyQkh1SVlTRkRxTGkxcjgtUmRSWk9NSG9qdVRWR19FNWxGTzNuU0NlU2fSAZsBQVVfeXFMTjJaRl9RTE9XMlR5YnJWUVZpSkhBcVptYUw0WXhRVTJsR0d3TnVrSktYM0FfdVhKUjE0UDVSX0c0NzdabHhFYk5Vc1d6bHVNZVQtQzZSWXNiMWMxUEZXSzhzdHYteGhjbXhyUUZNakt5TGlIeVlNc01TOC1yVThJV0xRR19DZ3RHaHo3TjJTQ05SOTA1UHBrREVCMDg?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 55.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 171,911,710. MPLADS utilization: 36.5%. Parliament attendance: 55.0%.",
-  "validated_at": "2026-09-02T01:36:54.541904Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 55.0%. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.147737Z"
 }

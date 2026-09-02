@@ -71,13 +71,23 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
 - ₹10.20 Crore Sanctioned For Tadikonda Gurukulam, GGH Development - Deccan Chronicle (Deccan Chronicle) [positive]
-- Mangalagiri will emerge as a model constituency in Andhra Pradesh: Minister Nara Lokesh - The New Indian Express (The New Indian Express) [neutral]
 - Chandra Sekhar Pemmasani: The Richest Lok Sabha MP Named In Modi 3.0 - NDTV (NDTV) [neutral]
 - Guntur Lok Sabha election results 2024: TDP's Dr Chandra sekhar Pemmasani defeats YSRCP's Kilari Venkata - The Times of India (The Times of India) [neutral]
-- Chandra Sekhar Pemmasani: Doctor has felt the pulse of Guntur - livemint.com (livemint.com) [neutral]
+- Chandra Sekhar Pemmasani: Doctor has felt the pulse of Guntur - Livemint (Livemint) [neutral]
+- How a First Time MP Ranked at the Top Among All AP MPs - Gulte (Gulte) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **₹10.20 Crore Sanctioned For Tadikonda Gurukulam, GGH Development - Deccan Chronicle** (Deccan Chronicle)
+- ! **Chandra Sekhar Pemmasani: The Richest Lok Sabha MP Named In Modi 3.0 - NDTV** (NDTV)
+- ! **Guntur Lok Sabha election results 2024: TDP's Dr Chandra sekhar Pemmasani defeats YSRCP's Kilari Venkata - The Times of India** (The Times of India)
+- ! **Chandra Sekhar Pemmasani: Doctor has felt the pulse of Guntur - Livemint** (Livemint)
+- ! **How a First Time MP Ranked at the Top Among All AP MPs - Gulte** (Gulte)
 
 ---
 
@@ -140,7 +150,7 @@ No criminal cases declared. Low confidence data: Criminal record, Assets, MPLADS
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

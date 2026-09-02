@@ -4,16 +4,16 @@
     "constituency": "Mumbai South",
     "state": "maharashtra",
     "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-    "myneta_candidate_id": 7097,
+    "myneta_candidate_id": null,
     "slug": "arvind-ganpat-sawant",
     "house": "lok_sabha",
     "sansad_member_id": 4713,
     "profile_url": null,
     "canonical_name": "Arvind Ganpat Sawant",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 72,
+    "age": null,
     "photo_url": "/mp-photos/4713.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,96 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "176/2023, Kudal Police Station, Dist. Sindhudurg, State: Maharashtra. | Section 37(1)(B),37(3),135 Of Maharashtra Police Act.",
+        "ipc_sections": [
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "1-Civil Judge J.D. And J.M.F.C., Kudal",
+        "fir_no": "176/2023, Kudal Police Station, Dist. Sindhudurg, State: Maharashtra.",
+        "case_no": "S.C.C. No. 622/2023",
+        "other_acts": "Section 37(1)(B),37(3),135 Of Maharashtra Police Act.",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:10.757229Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 50485191.0,
-    "liabilities": 0.0,
-    "net_worth": 50485191.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7097",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.486263Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 39.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 2.89,
-    "expended": 2.89,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:29:55.599551Z",
-        "notes": "Official eSAKSHI REST API — Works: 51 recommended, 18 sanctioned, 13 completed"
+        "fetched_at": "2026-09-02T15:24:52.663210Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:21:09.052342Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:21:09.049018Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 51,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 19.65986394557823
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +126,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:35:47.145868Z",
+        "fetched_at": "2026-09-02T15:21:09.047871Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +134,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Mumbai South election results 2024 live updates: Arvind Ganpat Sawant of Shiv Sena (UBT) wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxObjREclNiWWdZLXhhRlVzdXRwR2ZNaVRpOG5JaEhSZTlQeG9Ka0s0VlNGTGN0TXYwNTFNNl90d2tESmdCbE9BdnEyRVEyWWFZTGFGS1gwVTliZDBSa1FvX2lyaDU5UHp0bk8zaEI4bm9FWWhwRlRMWnk1LXFxVzdvMG9tT0pSNXgtNGNRaGlqMC1WeXloX0JXcmtIZTlKSGVpOWVSMUhpV0lWZk1qY2tFNGxJNnFfdWdLUzVmbE5FSWE5OVQ5bFZINkxxYnZ3RS13OEs5eU00WVFYTXM4dHhqb3phQWl3d2s5Z0t0T0FGa1VmU2VTV2wwd2xKSWpTR3kxMk51bTd0WWVuZjVQclpjODBPZlZFRElmUEhsRzNrbmdsSVQtOXVBNHFvNFk1cnR0VmhSR2dKUVRySUtBUFlMdEFB0gHHAkFVX3lxTE5YWXBuTWdfd3pYTk1keHhQazhyRC15Ungzd1g2RFVjTElNS0F2NHpNWVhvZHFSZUNoYWtNV2I4cHcyaUlmLS1WakNSM0hXRGo3endRWlcxTTJCVXJIa211RWM0LUFveFlvcjd6RkNRZENpSnpOb2lwWDJ3bHhwV3N6Zml4bWh4cWlqR3pJSWtMR1FHWVJDd3JlS01yWEhNd25DMnB2YWRMNWhwN19Ub1hDZlFBV1pqUmRZc295M2dLa0VYcmQ0bFJuV2dlV19tbGdrd2hBMDFQVVBEdWk2OGs5TVVQbS00OTN1c05YazFFVDVmb2NBajRJRVpMSjdCc0FlcXQ1a0tiNXNPVTZzMEVRUEc5SnNnSldZSWVWSnY4Sm1tOTU2c09XRVYyWjBWZ0VKTTFhSXhJOGxCOWp6WEQ2RlhxT0FJRQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Uddhav Thackeray's Party Fields Arvind Sawant From Mumbai South: 5 Points - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejN4MUVDempvQmdLMldNby1CMFptemZpWTlwbzAwamk1cUEwbS1WNEYwdnlIZVdwWlNiQ1lyMkttUjJVcVJ1YU9HZWs0VTRIb243VlJiQ3UtWkhBXzRvaU5UYTcyX1o4TkgtVmRyNERwdkVmRENUWUI4eUlMRUVUdjlPa2VQWVA1QndocEtBWl9WcEt1S0lnZlM5UmFJa0dmWk1vQVZSakFPT19MMUF1b1lOdkF0dllZMC1YQ2FiWlJwVlV6NUHSAc4BQVVfeXFMUDUzX05CUXRfTEZzaWVENGZtTjZBRnNLOUxiTWF0UDJGamhqRjhOTmJNc3pmc0s2LWZuYUp5WDNpTlAxdG9NaHRwYnd2dm9pMmtzSENkeGZkdWRPcTVWSGxLQVZscjRvMTdFOUl4czRETmcxQ1VOSlF6d2wyaG9FcEh2UHFKZkJfM3RhWE9pUE1LZE5Ecy1lT2JualIxN0ljRFU4ZURuV3JDcDhJQlBNeC1zeDd3ckZsNDNvRU1RcjZRbGg3c2EtLUVCQU1Nd0E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mumbai, meet your new MPs - Citizen Matters",
+      "source": "Citizen Matters",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSWFhSVBTTEd6MGJLeU9leFRucGhQbDRRVUFSWnA5c1ZKT0g5T3duSktMdlFpbFVLQ2F5SjNOQTBWckRXRnl4TV9GSTd2U05SRlVlV3hWcWJsbTc1cEV6X2t6VEduTE5BRXdEQ2NSUlFieXc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Arvind Sawant, Cabinet Minister 2019: Shiv Sena leader goes from managing poll booth to Minister of Heavy Industries and Public Enterprise - Firstpost",
+      "source": "Firstpost",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZnFPanBxSXFkR1F4bUFxd2VBN2cyOTYzQWVEcXZVYkRyY1V0ekhLZGpST0xSYVlpekdvTzZqN3JqcHBfR1p5ZWJlX2dTdC10T1RveDZsZVBPWjdTSnpOU1BnWndkMEdzTHZvSjhDVHA4MlUxUHpsSWp5Q2xRY2hnQXY1dzk5Z1ZaNXhLeUhfRmgtYWx0WVZ4WHFrSWQzQ0lFbWFMcU9SSXlyZ0JyeTFuLXRfSU1uTEctN1UxelVjRlZiM1E5OENTaUowZm9IeUdVUjBJTkt6RkRkbmtWbzVYTklvVWlJNlFyY3pqSlVwQmdkZTBuOFo3MXowU1NCVWV3Z1ZXSXJ0Q2o5NXFtSVhlOGRB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mumbai South Election Result 2024: Thackeray's Shiv Sena candidate Arvind Sawant wins - CNBC TV18",
+      "source": "CNBC TV18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbFp3a08wallJYTRBd1BmUlZNTkZBYmVEa2NMeS1hYlFhbDN0Y3R6Zlc4QmdSVUxSZEZScUVLbDhSbHB5dThGQVFaalY2bFBZbm9nTmoyNXRhMHVyX2lvTWRIeDU1M1ZwRml4RGItMGVrYXlZcXBvVTdOOURYeE05NmUyYnc2Q2JKN29nZU1LNFBSbk9VQ1dDTS1CT2JBYVRtUThRZXhNQTJyWlYtQ3ZTVE9yZnc2cHJXZlptSkVibjA0TVd0Z3ZnTjUzbk5jMUxGVWZnZERVZzdVOWFkUk84TXFMN1ZORXd0aTZmZjJNeHlpdHM3UmpPbFpfcnVKVXN4bF9Z0gGIAkFVX3lxTE1ZOTZ1Mkx5bV9zZEF1UUJCZDZya1YyX3AxMEc1cmRBUWtuWDMzM05iU29aaTdTclN4ckxrYWVTcUhhQ1hXeHpwVGNBZHNwMXhkMDZKbldVNndLczN6NVN5NzktV1hBckRQalF3a2o3U3c0cHY2c1R1TjhaLTc2a2dZdnlkU3JpODlycGtfTG1PWDltUEF5bFEzd3h4SGlpMWhPdTh6Q19iUUZGVlBqeVlDNUJuZlhxRlNvTnFfWDVEY3BDekNBN3BWZkpUcEtnaHY4ZmluYjdwbU4wUC03MmIxSTN4YjRCel9uSEVIbVV6VWVnS09jWFloaTBlVDA5bTJ3WUs3NmNEVw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:36:47.051264Z",
+  "collected_at": "2026-09-02T15:24:52.664220Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +203,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.256885Z",
+        "fetched_at": "2026-09-02T18:38:07.783472Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +219,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.256894Z",
+        "fetched_at": "2026-09-02T18:38:07.783483Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +235,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.256899Z",
+        "fetched_at": "2026-09-02T18:38:07.783489Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +251,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.256903Z",
+        "fetched_at": "2026-09-02T18:38:07.783494Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +267,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.256909Z",
+        "fetched_at": "2026-09-02T18:38:07.783500Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +283,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.256913Z",
+        "fetched_at": "2026-09-02T18:38:07.783505Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +299,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.256917Z",
+        "fetched_at": "2026-09-02T18:38:07.783509Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -272,6 +345,14 @@
         "sentiment": "neutral"
       },
       {
+        "headline": "Uddhav Thackeray's Party Fields Arvind Sawant From Mumbai South: 5 Points - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejN4MUVDempvQmdLMldNby1CMFptemZpWTlwbzAwamk1cUEwbS1WNEYwdnlIZVdwWlNiQ1lyMkttUjJVcVJ1YU9HZWs0VTRIb243VlJiQ3UtWkhBXzRvaU5UYTcyX1o4TkgtVmRyNERwdkVmRENUWUI4eUlMRUVUdjlPa2VQWVA1QndocEtBWl9WcEt1S0lnZlM5UmFJa0dmWk1vQVZSakFPT19MMUF1b1lOdkF0dllZMC1YQ2FiWlJwVlV6NUHSAc4BQVVfeXFMUDUzX05CUXRfTEZzaWVENGZtTjZBRnNLOUxiTWF0UDJGamhqRjhOTmJNc3pmc0s2LWZuYUp5WDNpTlAxdG9NaHRwYnd2dm9pMmtzSENkeGZkdWRPcTVWSGxLQVZscjRvMTdFOUl4czRETmcxQ1VOSlF6d2wyaG9FcEh2UHFKZkJfM3RhWE9pUE1LZE5Ecy1lT2JualIxN0ljRFU4ZURuV3JDcDhJQlBNeC1zeDd3ckZsNDNvRU1RcjZRbGg3c2EtLUVCQU1Nd0E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Mumbai, meet your new MPs - Citizen Matters",
         "source": "Citizen Matters",
         "severity": "low",
@@ -280,11 +361,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Mumbai South Election Result 2024: Constituency profile, past winners, margin, party-wise candidates list - India TV News",
-        "source": "India TV News",
+        "headline": "Arvind Sawant, Cabinet Minister 2019: Shiv Sena leader goes from managing poll booth to Minister of Heavy Industries and Public Enterprise - Firstpost",
+        "source": "Firstpost",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOLTBrNGhkM0RBZWNkQWdNcWROQ0NsLXM1dkhIUlZvOE0xSERUSDV6TmlfN0Q2ZXJMU2NUcTNkUTBHRUVoajRvclMwNFFYZVJBUjd0WjFQcGllaHFpcENvR1JtUkVIYlMta19GVVlnak9KNWd3cW92ZDRGVmQtUC1FRTRsSVljS25wa21DaXZEc2hRMU9XNFhxNE1teTR4TE1CRmc2alZKeW41ZXFhQ0l1RllXS0xfYjNFaGlKeE1KRG5WOWFhN2RoQnNjWGl4Sm9zbFpENHlkLVVadDl6cm41QmkxNERFNVV3Z3kyQmt0OGc3LUtMM0RGY3ltdFRYbXlsMzVRUNIBigJBVV95cUxQUkpzYm9qdGNCR05MbUttbDE2WEt0YVBTdU56N2tmWUtUWDFEUE1oN3JKN1VjaUEyZ0dhVmNsdXBxT0NJcHk1VzNZeGdzV25DUFo2RjVBVjNDVGhRWDBLTDhtNF9QRU5uS0ZJYVhmcE54NkdSZ2tIWFM1SVpyLUxTYTRGY2RsTzg1SEc5VXZtS3ZZVmlWbWp6Mzc0MmtZOURtSllmMTl6b0dDVkdHRlVfdEdfclRnUG5wTnpERHNnR29UZ2JFRUt2ZUlnWjFoSzJ1WWI1OVVSaUFpMDdhUVU0RG9Gb3hZRjNfZ2xCRmdZcEgwMlZYYml4c1dTaEhEOWR2LTEzaXY5OG5rUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZnFPanBxSXFkR1F4bUFxd2VBN2cyOTYzQWVEcXZVYkRyY1V0ekhLZGpST0xSYVlpekdvTzZqN3JqcHBfR1p5ZWJlX2dTdC10T1RveDZsZVBPWjdTSnpOU1BnWndkMEdzTHZvSjhDVHA4MlUxUHpsSWp5Q2xRY2hnQXY1dzk5Z1ZaNXhLeUhfRmgtYWx0WVZ4WHFrSWQzQ0lFbWFMcU9SSXlyZ0JyeTFuLXRfSU1uTEctN1UxelVjRlZiM1E5OENTaUowZm9IeUdVUjBJTkt6RkRkbmtWbzVYTklvVWlJNlFyY3pqSlVwQmdkZTBuOFo3MXowU1NCVWV3Z1ZXSXJ0Q2o5NXFtSVhlOGRB?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -293,14 +374,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbFp3a08wallJYTRBd1BmUlZNTkZBYmVEa2NMeS1hYlFhbDN0Y3R6Zlc4QmdSVUxSZEZScUVLbDhSbHB5dThGQVFaalY2bFBZbm9nTmoyNXRhMHVyX2lvTWRIeDU1M1ZwRml4RGItMGVrYXlZcXBvVTdOOURYeE05NmUyYnc2Q2JKN29nZU1LNFBSbk9VQ1dDTS1CT2JBYVRtUThRZXhNQTJyWlYtQ3ZTVE9yZnc2cHJXZlptSkVibjA0TVd0Z3ZnTjUzbk5jMUxGVWZnZERVZzdVOWFkUk84TXFMN1ZORXd0aTZmZjJNeHlpdHM3UmpPbFpfcnVKVXN4bF9Z0gGIAkFVX3lxTE1ZOTZ1Mkx5bV9zZEF1UUJCZDZya1YyX3AxMEc1cmRBUWtuWDMzM05iU29aaTdTclN4ckxrYWVTcUhhQ1hXeHpwVGNBZHNwMXhkMDZKbldVNndLczN6NVN5NzktV1hBckRQalF3a2o3U3c0cHY2c1R1TjhaLTc2a2dZdnlkU3JpODlycGtfTG1PWDltUEF5bFEzd3h4SGlpMWhPdTh6Q19iUUZGVlBqeVlDNUJuZlhxRlNvTnFfWDVEY3BDekNBN3BWZkpUcEtnaHY4ZmluYjdwbU4wUC03MmIxSTN4YjRCel9uSEVIbVV6VWVnS09jWFloaTBlVDA5bTJ3WUs3NmNEVw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Mumbai South Maharashtra Shiv Sena (Uddhav Balasaheb Thackeray) - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaHJOcm13TTVhOHVnUmxfQm1pWXQ0VzBLcnYwNTdGTUM0N3pXMlhDWWVnbTRJeUUwcVRwSTRKS242VExvUWNaaG1hNm9PVkdUNEFUakt4akhaRDFZTHZla3gtSk1ReWF2RzNBVzhYaFZZeWZZYjFSYXk5UW1BUkJCdm05SmZXOF93OThONEpKai1WNkUwelBzc3pjdHctNmJmSlJaTHh0QThWdDhFdkhwcTVDalVUOXc5MFNjTE54amI2b1NzV0lmNDF3?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +407,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 81,
+    "starred_questions": 24,
+    "unstarred_questions": 57,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +423,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

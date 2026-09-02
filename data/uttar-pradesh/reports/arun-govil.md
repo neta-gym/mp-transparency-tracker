@@ -3,19 +3,17 @@
 **Constituency:** Meerut, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 72
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (24%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 63.1 / 100
+## Composite Transparency Score: 62.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 31.8 | 25% |
-| Asset Growth | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 14.44 Crore
-- **Liabilities:** Rs 14.64 Lakh
-- **Net Worth:** Rs 14.29 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 65% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 8
-- **Expended:** Rs 6
-- **Utilization Rate:** 39.7%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -74,31 +71,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
 - ‘Mere Ram Aaye Hain’: Women break down on seeing Arun Govil; MP visits Meerut Central Market on day 15 of p... - Bhaskar English (Bhaskar English) [neutral]
-- Namo Bharat train, Meerut metro to be highlighted in 2027 UP Assembly polls: BJP - Deccan Herald (Deccan Herald) [neutral]
-- ‘Install CCTVs in all mosques, madrasas for national security’: BJP’s Meerut MP Arun Govil tells Centre - The Indian Express (The Indian Express) [neutral]
+- BJP’s Arun Govil wins from Meerut Lok Sabha seat, defeats BSP and SP candidates - The Indian Express (The Indian Express) [neutral]
+- UP Election 2024 Results: 'Ramayan' Actor Arun Govil Wins From Meerut - NDTV (NDTV) [neutral]
+- ‘Heartfelt gratitude’: Arun Govil reacts after BJP announces candidature for Lok Sabha polls | India News - Hindustan Times (Hindustan Times) [neutral]
 - BJP’s Arun Govil calls for CCTV cameras in mosques and madrasas citing “national security concerns” - Muslim Mirror (Muslim Mirror) [neutral]
-- PM Modi, CM Yogi Inaugurate High-Speed Delhi–Meerut Rapid Rail, 23-km Meerut Metro - Oneindia (Oneindia) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **‘Mere Ram Aaye Hain’: Women break down on seeing Arun Govil; MP visits Meerut Central Market on day 15 of p... - Bhaskar English** (Bhaskar English)
+- ! **BJP’s Arun Govil wins from Meerut Lok Sabha seat, defeats BSP and SP candidates - The Indian Express** (The Indian Express)
+- ! **UP Election 2024 Results: 'Ramayan' Actor Arun Govil Wins From Meerut - NDTV** (NDTV)
+- ! **‘Heartfelt gratitude’: Arun Govil reacts after BJP announces candidature for Lok Sabha polls | India News - Hindustan Times** (Hindustan Times)
+- ! **BJP’s Arun Govil calls for CCTV cameras in mosques and madrasas citing “national security concerns” - Muslim Mirror** (Muslim Mirror)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Arun Govil shows moderate transparency with a score of 63.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Arun Govil shows moderate transparency with a score of 62.5/100. No criminal cases declared. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 144,400,261. MPLADS utilization: 39.7%. Parliament attendance: 100.0%. Questions asked: 28. Debates participated: 6.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 28. Debates participated: 6. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 144,400,261. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +227,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Arun Govil's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.7%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +244,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

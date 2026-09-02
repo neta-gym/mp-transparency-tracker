@@ -4,80 +4,137 @@
     "constituency": "Ramtek",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 675,
+    "myneta_candidate_id": null,
     "slug": "shyamkumar-daulat-barve",
     "house": "lok_sabha",
     "sansad_member_id": 5736,
     "profile_url": null,
     "canonical_name": "Shyamkumar Daulat Barve",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 46,
+    "age": null,
     "photo_url": "/mp-photos/5736.jpg"
   },
   "criminal_record": {
     "total_cases": 2,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Crime No.388/2022, P.S.-Sadar | ON Bail",
+        "ipc_sections": [
+          "420",
+          "465",
+          "466",
+          "467",
+          "468",
+          "471",
+          "120B"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Additional Session Court-7, Nagpur",
+        "fir_no": "Crime No.388/2022, P.S.-Sadar",
+        "case_no": "Faujdari Case No.138/2024",
+        "other_acts": "ON Bail",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "Yes",
+        "appeal_status": "Anurag Singh Chauhan, among other accused in this case, has filed  in the Hon. High Court, Nagpur Bench. Faujdari Case(Appeal) No. 29/2023 was registered. The Honorable High Court has issued an injunction on 01/2023 on filing of charge sheet against the accused in the said crime till further decision.",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "3583/2023, Fojdari Case NO.5/2022, P.S.-Gittikhadan | Section-145 Crpc,  Order Date-29/12/2023",
+        "ipc_sections": [],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Sub-Divisional Magistrate, Nagpur",
+        "fir_no": "3583/2023, Fojdari Case NO.5/2022, P.S.-Gittikhadan",
+        "case_no": "",
+        "other_acts": "Section-145 Crpc,  Order Date-29/12/2023",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "Yes",
+        "appeal_status": "In this case the original defendant no. 2 Syed Ayaz Ali Sub Divisional Magistrate, Nagpur by order dated 29/12/2023 against Faujdari Case(Appeal) no. 357/2024 was registered.",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:25.531734Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 42894953.0,
-    "liabilities": 16152299.0,
-    "net_worth": 26742654.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=675",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.357672Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 34.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 0.2,
-    "expended": 0.15,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:31:27.094164Z",
-        "notes": "Official eSAKSHI REST API — Works: 55 recommended, 3 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:42:59.667233Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:39:18.041374Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:39:18.038513Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 55,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 1.0204081632653061
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +149,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:03.212743Z",
+        "fetched_at": "2026-09-02T14:39:18.037432Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +157,53 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Ramtek’s women & farmers booted out Mahayuti: Barve - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVkZuVW1tcW5xV3dqLUM3TVR4a2E3WGlOMjd0eTA3VUZaZHE4UUZaMzRzd3J4ZGs0dTV6N0d3bUxqbFhYak5uSmJuazlnU0FkdGRkeDdyRHFHSGNqeEJHclJST2tsRy1JUkJldlRTTGtCMkNzek5WX0dNYVl6ZFVEQzN2a1dVVS1QLXJVVkxNaWhrRURIZGtpS19GRV90VWZuTkVXNHE3ZXFzeEV2YVpCU3FYRWhwQmJFZGxZdVR5LVo3aEVldVU1OU51YTZySHlpOUN1SE9xVjBaUWxIaVVGbEFWTHhlb1BVTFpnTEZza1N5T3FfalVZdm5iRk9QZGfSAYQCQVVfeXFMUE1vREdidTR4XzE3aTNobzVTeW5TWFo5MmwyZFJqREpBY1dCcUdFV3lHczdoMjVkdkQ1cTdDN3lWZ1lzMjFNeE5ISzRTOHVZbFBaOHd5M3FWLVhlSmF0d3pTX3ZGdkpmYVZySnAxNnRVaDVoME40U0RiWXlpYUVLaVFWcEl2WnliYnNUOWIwWEJBWjdxS0hXcjBxbHFIWFU4YjNRQXI2RGxaVDk0M2VjWU51R20tZkk2U19udlVmVGU0bzhfVktRQ05RRFN3S0VDaEk3dzh0bncyc2lvR1EyUUkzamx6eFlrRUhFTVNHSWlVa1haMENWeWlYTkxOY1FvZDR6Tzk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ramtek (SC) seat: Congress candidate loses validity of caste certificate, husband likely to be official candidate - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQS1OS0xMTXQwN1BGQjlSNThsRDVEVUF6dzdqY2duRVpFWEpKcTNyNzlYbDVvYXY3enVfQ0l1ejJXVVpiSkU3UEFnWXRoVXN6Vmh6ekVPWnJoYkZSNjB0QWhqSGJfZjlxRHB0cktKeXRfYW9RN21IbERaUVc2NWhrLXVnUkN2ZWUwYVlUVHNiWVgyQmh4LTc0LWlOTkRPR09CUzZPMEJUa3VnVVNRUXlLNGxERURGa1pmZE5QclE0TllpZUlx0gHLAUFVX3lxTFBxUlRqWUNZZl95WGwzQk5DVEJQR1kwT1JwN2thTlhIdlpWNnNhRHQ4OUJVdEcyN1pjSDF6RjFJQlRJZ2t2by1QQk16Q1BQcXBUWUxtLUV6TV83REtDNzAySFlxVUFxMkRwbHlocU9peE4wU2U4UlFQb3RZNGUxYkplLVhDRFFfVVVuclR1cnIybHluQVdhU2ZOS25tLUhUV2FfUVFiR2NlRmxnV3lDNXFMdm4yTlo3TU91QmdwaVpLX1Ryb1RPTE9CRUVj?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18",
+      "source": "CNBC TV18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVkU3NWhSQW1fSkVGTE5hczBJcGdNT3RNR2xBbUFleTJ4bjRHc3hrOWNSU001ejFNN09vbzdZQkJlSV81T0R2VHFQTmtYMjg4SDBrbDNlS3JDaG1SRU5wcVoyd2JzVTRFWjBaSS0yTmlPWmdjV0s0UExuVTJwNERMM0hjTkdnRVhHY2F5QVZKM3RONTlrbXlKcGMtcEFITUY1blRlV1VfNUVDZkhOWFJzTzVHcmE5R2pnMmQtZzkwZUtQYWRSSnFvNWtHSXdrUy1qdU5UR05wbVR2ZHlhcVUyZEdTbmNlMnJyTldqZHk3bnRVLXY0ZzJHYm1ob250dkVocGfSAYcCQVVfeXFMTmtxUHZGTDA2bDZ5SndtRjZzN2pET2Fwd09hR2tYeGhsSW1BOUc4RE9WZ24tR18xNUZ3Tnl2WHhnVkpJc05idEx3VnNSRXJ1X01jVWw1VGU4YzJmS0ljSWE4a1pOZFNWa3Q4WkVndnI4Y2JpQWh6SzY4RUx0YndJcFhGS0VqNWpLNlROcEczTVRiT1hZOHlyc0wyNGdxZ1RROGxHZjZWNm9uLWpoNmxybW1KNEZjdDFuS1lnZjZQUmdqYUEzYXdJZmNxMmdManRDV2NfUUhZRlYtWHlZQkU4TlMzVWlZUVhFQnB3SWRLQzh0MzVjVk9TUW14RTRnZlRXMnQtTy1idUU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ramtek Election Result 2024 - Parliamentary Constituency Map and Winning MP - Maps of India",
+      "source": "Maps of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQck0wTEtIanUwVVFUaHk2UVY1YjZsR1FBR1pnbVRWTXNuVnpBanZuenRTYll2UEd4dnVwM3hqalB6WGY2YTVDSUFISGZ6MWp5ZFRfTWVkTFhkbnZrSFRIa190alEySU03Vk1uTGhfTnpUZ1kzWHBzUGlZMVAxVXBLSVFORWs?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:06.337554Z",
+  "collected_at": "2026-09-02T14:42:59.668397Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +218,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.815354Z",
+        "fetched_at": "2026-09-02T18:38:08.350684Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +234,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.815366Z",
+        "fetched_at": "2026-09-02T18:38:08.350695Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +250,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.815372Z",
+        "fetched_at": "2026-09-02T18:38:08.350701Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +266,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.815377Z",
+        "fetched_at": "2026-09-02T18:38:08.350706Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +282,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.815383Z",
+        "fetched_at": "2026-09-02T18:38:08.350713Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +298,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.815388Z",
+        "fetched_at": "2026-09-02T18:38:08.350718Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +314,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.815392Z",
+        "fetched_at": "2026-09-02T18:38:08.350723Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -258,10 +346,10 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 6,
+    "total_articles": 4,
     "positive": 0,
     "negative": 0,
-    "neutral": 6,
+    "neutral": 4,
     "top_headlines": [
       {
         "headline": "Ramtek’s women & farmers booted out Mahayuti: Barve - The Times of India",
@@ -269,14 +357,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVkZuVW1tcW5xV3dqLUM3TVR4a2E3WGlOMjd0eTA3VUZaZHE4UUZaMzRzd3J4ZGs0dTV6N0d3bUxqbFhYak5uSmJuazlnU0FkdGRkeDdyRHFHSGNqeEJHclJST2tsRy1JUkJldlRTTGtCMkNzek5WX0dNYVl6ZFVEQzN2a1dVVS1QLXJVVkxNaWhrRURIZGtpS19GRV90VWZuTkVXNHE3ZXFzeEV2YVpCU3FYRWhwQmJFZGxZdVR5LVo3aEVldVU1OU51YTZySHlpOUN1SE9xVjBaUWxIaVVGbEFWTHhlb1BVTFpnTEZza1N5T3FfalVZdm5iRk9QZGfSAYQCQVVfeXFMUE1vREdidTR4XzE3aTNobzVTeW5TWFo5MmwyZFJqREpBY1dCcUdFV3lHczdoMjVkdkQ1cTdDN3lWZ1lzMjFNeE5ISzRTOHVZbFBaOHd5M3FWLVhlSmF0d3pTX3ZGdkpmYVZySnAxNnRVaDVoME40U0RiWXlpYUVLaVFWcEl2WnliYnNUOWIwWEJBWjdxS0hXcjBxbHFIWFU4YjNRQXI2RGxaVDk0M2VjWU51R20tZkk2U19udlVmVGU0bzhfVktRQ05RRFN3S0VDaEk3dzh0bncyc2lvR1EyUUkzamx6eFlrRUhFTVNHSWlVa1haMENWeWlYTkxOY1FvZDR6Tzk?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Ramtek Election Result 2024 LIVE Updates Highlights: Shyamkumar Daulat Barve of INC Wins - News18",
-        "source": "News18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeThOVUFPb1JXUWVaRl9aVnRHb1UzNTB0VTNoQnZfa19ZTEI3TF82VWhvQUpLXzhZLV9EM0R4OEhfVnlfcWx1TVF0LUJxWHNXY2cxT0xKcHdRWlZTWi1YWi1MS3RFZWpta3FOd2hEeThXd3JLX1lWQ1hKMEE2Z0lCaDRtY1JPcHRrLXhxTmhSOEtaZy1ZcHo3UjU3eUwxU292SXNJQ1MweXNRSmdLVmI0ODlYazVfdzdwX0VBS043a05iVXZmNHhScXNsWnE4MExGVjhPc1hORTkwYThJclM5NNIB5gFBVV95cUxORnR6djR0aHZYSUNwSEZOYXY4VEFCcHFtemNwWjlIVlk3WTZ0VVN6TVVobHVFMTlORlRwUTFreUVSLUlEazlKZHhUXzZJVlFZdzJvM2ZiNzJUWVM4dWRYYmJ0VzNLdlVvWGZmMTdQM1RNYl9LS3BTVk5BY2FDWGs4SjNacXNmYWowTnNlMkg1aE1ZY29ObzhIUThWZVRQZGRQMmpOTDRTaDVRN2gxalNmbkI4WURwNXdnRUNUUmp6UDFJNV83X1NORkNYY0RoekpBZ2dhSVdOSGRnTXFQN1JzamxOMmJkdw?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -304,7 +384,7 @@
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (6 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (4 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +414,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 43,
+    "starred_questions": 12,
+    "unstarred_questions": 31,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 82.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +430,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

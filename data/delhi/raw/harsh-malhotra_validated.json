@@ -42,13 +42,13 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
           "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-05-21T15:55:06.287095Z",
+          "fetched_at": "2026-09-02T15:33:43.862780Z",
           "notes": "MyNeta candidate affidavit data"
         }
       ]
@@ -57,9 +57,9 @@
       "movable_assets": 13324015.0,
       "immovable_assets": 27500000.0,
       "total_assets": 40824015.0,
-      "liabilities": 0.0,
-      "net_worth": 40824015.0,
-      "previous_total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": 1594166410000000.0,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
@@ -69,41 +69,55 @@
           "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-05-21T15:55:06.297416Z",
+          "fetched_at": "2026-09-02T14:26:46.442157Z",
           "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 32.8,
-      "growth_ratio": null
+      "wealth_percentile": 16.7,
+      "growth_ratio": -0.9999999743916227
     },
     "mplads": {
-      "entitled": 14.71,
-      "released": 14.71,
-      "sanctioned": 7.03,
-      "expended": 2.13,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:26.348410Z",
-          "notes": "Official eSAKSHI REST API — Works: 109 recommended, 104 sanctioned, 5 completed"
+          "fetched_at": "2026-09-02T14:30:56.318375Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:26:44.668672Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:26:44.666123Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 109,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 14.479945615227734
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -118,7 +132,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T15:55:04.666874Z",
+          "fetched_at": "2026-09-02T14:26:44.665097Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,21 +140,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Two new slip road bridges opened in east Delhi’s Kondli - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0VlcnNyZnZIMHZFX2NoZzFDWWhOMlZyWGlkc1hUU1RJYXNWeEU4Zk4wVDJ0MlZyU0FZMnVUUDk0ZWZ4aFlaSHNsVVF6TVBkMEdWLXROQ3pRUXBXcXBFLVRPMHhzbl9HZWpCd0U1X2pKNkNBOE84ZklzeG1zUUJ5alRtaWxyMk16SDdpUlZxdmRfekc0cm5rbmQ0eGcyTUZEbGc5WnJ4WU80VHpDQ0ZxSGR30gG_AUFVX3lxTE5DYWw1YzlmMkQ5akVwbHJTcFRNekUwR2FPdXhUbjJ6c0VrRk1fWndia0NxQ3dhUnFVVllmbHpDODdQWnBxdDBXeHRHS3ZaanN1VTB0NFNPT3dQRERER2tfeEZqRi1KejJRSnBZSmNrRUpqR2tqYkNfQlNlWlA1d2Z4OTc5RUtVdS1rVlZZUmtxcm50cENxcl9HVW4zMlQxV0RzSnNfVHRsalkyTDkwWjZvT3VfMWN2LTNkZFpNcVp3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha MP, Union Minister, Punjabi face: Meet Harsh Malhotra, Delhi BJP chief - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObU9nV2lUakxVVTlmd0FSS19tdm90bHZYLXJ0aXhLejFNSUpuWnotTEVwYm9FN1p4QVB5S0liTFV3TjhtX3YycGJya2Z2YXRrTkZteDk5d0VvdFBuZ2o2bUtaYUJkbFBpLUc3dW1CZWFYbzAwd184aEg1eEpDNG5jeVdrSFBzdjUxRWVvV21rNHY5QjJQSC1CWWdUZkFCYmZWOHk0Q2tHcnZwb2xXZUh1NTNxd0ZjVFdHQXRSOS03ekd6cURJ0gHLAUFVX3lxTFA0dW01akYwT1BZM19abmxyd1RKU3Z4cGFfaWExb3JmOUZYU3dIdFV2VTBVcTRLbkxZLTNjY09QTzFOc05lT3Y5M2dsZEZaamRLMVhxVF81T1B0ZFoxREJxMlNZOWN2Z3JBbWE4YWxOT1U1ZWNsa2NCN2xCR2tnajlubmo5ZGdMTF9pWXZFQUpiVlZPejY1a3V0TFpFRnpaelBTZ1FSV0xVTmZaTGp2bEctYzRpOEpPelFKU1NEUFhQaWxZV1lpaUo2ZVFn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who is Harsh Malhotra, BJPs new Delhi chief - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzNOeXZWMndEdXZEQ01GZHB5RFJGdWJqYUNzaXpxNC14WENPdENFSDBPczgwalZHSEdkWGtJTDhnR3ItNk1NN2NnUzkyUTJ3eTdmRGNpR1BCZS1HcmVQcXoyRXhuUTh0dFZpZmx2QzYwaG1qcENPTlBLQ2xLRVF5UUIzTENTVC1EZzdB0gGPAUFVX3lxTFB1NlZ2cmtQNjdhMVc0dk9fN2gtUDJzcVQ5NXR5ODZ6d0dpWlRMc3RoMFo1NC16RTN0ejYyX09vWFFheUVDN2lpcG5IY3MxRGZ2SWcxUFE3V2M0ZHdVUEdkR3pnX3ZGeVZtLUx3aktkYXVVbnZZT0V4aDBJdkRaSExkb1E1TTVycjRjQUtXSF84?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Harsh Malhotra appointed Delhi BJP chief, replaces Virendra Sachdeva | Latest News Delhi - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU09vN1paTUN2dTV4Q0IzX2VsMi10dW5wVWt3UTBnbDQ2RmNOMTlQMXpYTmlTcW5OcktmSzV1VFhZTmNVTlBXZjVKSm9DVzFDS2hJczdUM204TzNzTmQ1TWR6MHl3dFpmZEZhZTh3cE9rbTg1dkFNbm1ka2ZqNzhLNnJYTXNFUGduQkpydk9XcGNvREVmeDg0N1E4X2N6UHdUX3J2WFpfWWpVQkJvVkJZZk9NMVloc1BDMExNbi1Ib25FUDJtR1ZQYjZSdlJvNXNYUzg40gHYAUFVX3lxTE90NWFMNktpQ1NWbWtPaGhtU0IyR0p5UXhtYURRbm83SkEwalpQVWtPOW51Wm00SkNkMEM1RXNyS3p6Y3l4NlZCbVBUVzNCdlhFMHU0dFRfYXFLcUZLN0FtVUNZNTV0eWtHMnZYVTI5Y3F5NG9PUUx3ZVJOdVNwZExvOG1fOXdWZE5tUDhlUnZHdDNnQzB5b2FNbFZQMEx0akxyTnZzM3hWZDVzanBrRVRXNG9sdUJoRHYwaFU2VGVWbVoyNlpMMlBSaXFBNWtpU0ZCYzFEblBGMA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Malviya Nagar fire: Harsh Malhotra calls it the result of 27 years of corruption by successive govts - The Statesman",
+        "source": "The Statesman",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVlNaZWRFcjdZZUp0T1docFpZQzJ1OUJPX3pVX2pVTVBPbjhvVE8yZXNiMUhLd3JwMnBzc0ZZM2Via2RGSjVQd2JuSHppU21RWEhjcEptVF96Z3U2Y0ZYNjBPcGVGaEhRWEwyZU9MTmZBb1lvbGZsVEhYVEQyVExXdDJ0TU1uamlyM1NjS0RKVmNrUGhjNlJKcjZ1NDJJMmhOa2psUnVCb3djckczSWpiMXV5R3ZpamkwYVVBektvZW83VFhlM1dFc2UwemcwU010T19nd011YXBvQUlvUWpOM2x0Vk3SAeoBQVVfeXFMTk5tY180RFdPQ0hMcVFQTThjMUs4akFOenBoU1dnOEhNNUxGRnpkc2tPZkprNkR0V0pZcFBsRzZpZ2FDVzBqRnJWMTlUM2tZQTNRMTVyMXVMbUpGUlUxcDBxdG1BcUx0dlBLRmlIVVBscEJhM1hLaVU4LU56aWNURjNPZmkycXYyMjZmc01vUDJvd3NHbVNWUGZfYlNmZjBEUUJNV1Q3M1pzNmtEZmcyTWFNNmVybDA3Q01xU2tsbnhKclpjZjh2UElQYlVXVXpnOGFFYmdldU92TmcyZThwYUViVUFFSDRqWVRR?oc=5",
+        "sentiment": "negative"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
-      "mplads"
+      "news",
+      "cag"
     ],
-    "collected_at": "2026-05-21T15:55:32.286301Z",
+    "collected_at": "2026-09-02T14:30:56.319429Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -155,7 +212,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.776318Z",
+          "fetched_at": "2026-09-02T18:38:05.365259Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -171,7 +228,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.776328Z",
+          "fetched_at": "2026-09-02T18:38:05.365270Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -187,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.776334Z",
+          "fetched_at": "2026-09-02T18:38:05.365275Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -203,7 +260,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.776339Z",
+          "fetched_at": "2026-09-02T18:38:05.365281Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -219,7 +276,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.776344Z",
+          "fetched_at": "2026-09-02T18:38:05.365287Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -235,7 +292,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.776349Z",
+          "fetched_at": "2026-09-02T18:38:05.365292Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -251,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.776353Z",
+          "fetched_at": "2026-09-02T18:38:05.365298Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -267,7 +324,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.776358Z",
+          "fetched_at": "2026-09-02T18:38:05.365304Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -308,9 +365,17 @@
           "followers": null,
           "verified": true,
           "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "harshmalhotrabjp",
+          "url": "https://instagram.com/harshmalhotrabjp",
+          "followers": null,
+          "verified": false,
+          "active": true
         }
       ],
-      "total_platforms": 2,
+      "total_platforms": 3,
       "total_followers": 0,
       "confidence": 0.7,
       "sources": [
@@ -318,19 +383,60 @@
           "url": "",
           "source_name": "social_media_lookup",
           "grade": "D",
-          "fetched_at": "2026-05-21T15:55:04.670871Z",
+          "fetched_at": "2026-09-02T14:27:17.883236Z",
           "notes": "Social media handle lookup"
         }
       ]
     },
     "news_sentiment": {
-      "total_articles": 0,
+      "total_articles": 10,
       "positive": 0,
-      "negative": 0,
-      "neutral": 0,
-      "top_headlines": [],
-      "sentiment_summary": "",
-      "confidence": 0.0
+      "negative": 1,
+      "neutral": 9,
+      "top_headlines": [
+        {
+          "headline": "Two new slip road bridges opened in east Delhi’s Kondli - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0VlcnNyZnZIMHZFX2NoZzFDWWhOMlZyWGlkc1hUU1RJYXNWeEU4Zk4wVDJ0MlZyU0FZMnVUUDk0ZWZ4aFlaSHNsVVF6TVBkMEdWLXROQ3pRUXBXcXBFLVRPMHhzbl9HZWpCd0U1X2pKNkNBOE84ZklzeG1zUUJ5alRtaWxyMk16SDdpUlZxdmRfekc0cm5rbmQ0eGcyTUZEbGc5WnJ4WU80VHpDQ0ZxSGR30gG_AUFVX3lxTE5DYWw1YzlmMkQ5akVwbHJTcFRNekUwR2FPdXhUbjJ6c0VrRk1fWndia0NxQ3dhUnFVVllmbHpDODdQWnBxdDBXeHRHS3ZaanN1VTB0NFNPT3dQRERER2tfeEZqRi1KejJRSnBZSmNrRUpqR2tqYkNfQlNlWlA1d2Z4OTc5RUtVdS1rVlZZUmtxcm50cENxcl9HVW4zMlQxV0RzSnNfVHRsalkyTDkwWjZvT3VfMWN2LTNkZFpNcVp3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Lok Sabha MP, Union Minister, Punjabi face: Meet Harsh Malhotra, Delhi BJP chief - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObU9nV2lUakxVVTlmd0FSS19tdm90bHZYLXJ0aXhLejFNSUpuWnotTEVwYm9FN1p4QVB5S0liTFV3TjhtX3YycGJya2Z2YXRrTkZteDk5d0VvdFBuZ2o2bUtaYUJkbFBpLUc3dW1CZWFYbzAwd184aEg1eEpDNG5jeVdrSFBzdjUxRWVvV21rNHY5QjJQSC1CWWdUZkFCYmZWOHk0Q2tHcnZwb2xXZUh1NTNxd0ZjVFdHQXRSOS03ekd6cURJ0gHLAUFVX3lxTFA0dW01akYwT1BZM19abmxyd1RKU3Z4cGFfaWExb3JmOUZYU3dIdFV2VTBVcTRLbkxZLTNjY09QTzFOc05lT3Y5M2dsZEZaamRLMVhxVF81T1B0ZFoxREJxMlNZOWN2Z3JBbWE4YWxOT1U1ZWNsa2NCN2xCR2tnajlubmo5ZGdMTF9pWXZFQUpiVlZPejY1a3V0TFpFRnpaelBTZ1FSV0xVTmZaTGp2bEctYzRpOEpPelFKU1NEUFhQaWxZV1lpaUo2ZVFn?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Who is Harsh Malhotra, BJPs new Delhi chief - The Tribune",
+          "source": "The Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzNOeXZWMndEdXZEQ01GZHB5RFJGdWJqYUNzaXpxNC14WENPdENFSDBPczgwalZHSEdkWGtJTDhnR3ItNk1NN2NnUzkyUTJ3eTdmRGNpR1BCZS1HcmVQcXoyRXhuUTh0dFZpZmx2QzYwaG1qcENPTlBLQ2xLRVF5UUIzTENTVC1EZzdB0gGPAUFVX3lxTFB1NlZ2cmtQNjdhMVc0dk9fN2gtUDJzcVQ5NXR5ODZ6d0dpWlRMc3RoMFo1NC16RTN0ejYyX09vWFFheUVDN2lpcG5IY3MxRGZ2SWcxUFE3V2M0ZHdVUEdkR3pnX3ZGeVZtLUx3aktkYXVVbnZZT0V4aDBJdkRaSExkb1E1TTVycjRjQUtXSF84?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Harsh Malhotra appointed Delhi BJP chief, replaces Virendra Sachdeva | Latest News Delhi - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU09vN1paTUN2dTV4Q0IzX2VsMi10dW5wVWt3UTBnbDQ2RmNOMTlQMXpYTmlTcW5OcktmSzV1VFhZTmNVTlBXZjVKSm9DVzFDS2hJczdUM204TzNzTmQ1TWR6MHl3dFpmZEZhZTh3cE9rbTg1dkFNbm1ka2ZqNzhLNnJYTXNFUGduQkpydk9XcGNvREVmeDg0N1E4X2N6UHdUX3J2WFpfWWpVQkJvVkJZZk9NMVloc1BDMExNbi1Ib25FUDJtR1ZQYjZSdlJvNXNYUzg40gHYAUFVX3lxTE90NWFMNktpQ1NWbWtPaGhtU0IyR0p5UXhtYURRbm83SkEwalpQVWtPOW51Wm00SkNkMEM1RXNyS3p6Y3l4NlZCbVBUVzNCdlhFMHU0dFRfYXFLcUZLN0FtVUNZNTV0eWtHMnZYVTI5Y3F5NG9PUUx3ZVJOdVNwZExvOG1fOXdWZE5tUDhlUnZHdDNnQzB5b2FNbFZQMEx0akxyTnZzM3hWZDVzanBrRVRXNG9sdUJoRHYwaFU2VGVWbVoyNlpMMlBSaXFBNWtpU0ZCYzFEblBGMA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Malviya Nagar fire: Harsh Malhotra calls it the result of 27 years of corruption by successive govts - The Statesman",
+          "source": "The Statesman",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVlNaZWRFcjdZZUp0T1docFpZQzJ1OUJPX3pVX2pVTVBPbjhvVE8yZXNiMUhLd3JwMnBzc0ZZM2Via2RGSjVQd2JuSHppU21RWEhjcEptVF96Z3U2Y0ZYNjBPcGVGaEhRWEwyZU9MTmZBb1lvbGZsVEhYVEQyVExXdDJ0TU1uamlyM1NjS0RKVmNrUGhjNlJKcjZ1NDJJMmhOa2psUnVCb3djckczSWpiMXV5R3ZpamkwYVVBektvZW83VFhlM1dFc2UwemcwU010T19nd011YXBvQUlvUWpOM2x0Vk3SAeoBQVVfeXFMTk5tY180RFdPQ0hMcVFQTThjMUs4akFOenBoU1dnOEhNNUxGRnpkc2tPZkprNkR0V0pZcFBsRzZpZ2FDVzBqRnJWMTlUM2tZQTNRMTVyMXVMbUpGUlUxcDBxdG1BcUx0dlBLRmlIVVBscEJhM1hLaVU4LU56aWNURjNPZmkycXYyMjZmc01vUDJvd3NHbVNWUGZfYlNmZjBEUUJNV1Q3M1pzNmtEZmcyTWFNNmVybDA3Q01xU2tsbnhKclpjZjh2UElQYlVXVXpnOGFFYmdldU92TmcyZThwYUViVUFFSDRqWVRR?oc=5",
+          "sentiment": "negative"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
     },
     "legislative": {
       "bills_introduced": 0,
@@ -375,7 +481,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -406,8 +512,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.36,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -433,6 +545,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 40,824,015. MPLADS utilization: 14.5%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:47.777249Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 40,824,015. Low confidence data: MPLADS, Parliament activity. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.366246Z"
 }

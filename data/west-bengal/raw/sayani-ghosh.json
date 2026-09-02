@@ -4,80 +4,118 @@
     "constituency": "Jadavpur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 9062,
+    "myneta_candidate_id": null,
     "slug": "sayani-ghosh",
     "house": "lok_sabha",
     "sansad_member_id": 5785,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 31,
+    "age": null,
     "photo_url": "/mp-photos/5785.jpg"
   },
   "criminal_record": {
     "total_cases": 1,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "East Agartala P.S. Case No. 2021 Eag 156, Dated 20.11.2021, Agartala East, Tripura",
+        "ipc_sections": [
+          "153",
+          "153A",
+          "506",
+          "307",
+          "120B"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Additional Chief Judicial Magistrate, Agartala, West Tripura",
+        "fir_no": "East Agartala P.S. Case No. 2021 Eag 156, Dated 20.11.2021, Agartala East, Tripura",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:39.113439Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 9189462.0,
-    "liabilities": 5985716.0,
-    "net_worth": 3203746.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9062",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:56.242686Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 7.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.48,
-    "expended": 4.31,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:53:07.586090Z",
-        "notes": "Official eSAKSHI REST API — Works: 215 recommended, 196 sanctioned, 65 completed"
+        "fetched_at": "2026-09-02T15:10:48.523042Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:07:07.762582Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:07:07.760976Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 215,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 29.31972789115646
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +130,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:30:02.369752Z",
+        "fetched_at": "2026-09-02T15:07:07.760223Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +138,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "TMC workers lock Saayoni Ghosh's Garfa office - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdW10TDc2NmRHWTdfdi1ENml0VktoVTBVVlg0Sm5BNTVpTWpFMVBBeXFwODEtQjRuMEVFYTJjUjZSbXBENmFGSUJGN2F1cUVZeWJqRUtNZlhzU05IbVNqd1VOLU9vdnBVMEN2WkhOMFptUmowSmlSY3lBWnE2WWx4bUNVSmRyYUtUQ2g5N0NSaDlLTElqc3dkMDQ4cWVRcFpKUm1SaWxhdUxqRm90V2FzaW91ZXlPV05hY19v0gHAAUFVX3lxTFA3emN5MkVVekJzaHpid2lSTnJVQV90QlA0YWlhci03Y2hrb3FnNE91WUQ5OUcyRDg2SjlTbUNWdEJodF9JVEtPMWRjcUFZcEhrSU9IYUZHODQ2TXlsSXNFaS1MQ0tNaDFYaW95WDhvMkdKT3g5SzV0MGEybUpXb2lVVUVJN19FUm8yV0x2RlJBQkVvX3p1TmxZVEMzTHVpaERWaUNhYWRoNVpXTkFkS29QN0dGS0VCbGZubUJRcEVLcg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Will speak when time is right': TMC MP Saayoni Ghosh amid speculation over joining rebel bloc - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMTItczU0SFI4UWpyQ3oyampiTi1VUVh5eXpRcFBVeUdub2MyOUhhY0tkalBpdHRWblN2c0tjMm5TTjBXekxnaElFT085RnRjc0NzQXRiTXgxdEZaVTJQQ3hDdlVaa0FJTEYtT0dDZ01GczNJcG40ZmpnaWVwYjBJYWMxb1dYQmQyNXlwbEZwUy1uUmZ1RGxPaEkyYlp3ZVJpbVh5bEJUZVR0aG5rN08xd245cE9JQmxjYzJKVWgyWEc5SGswcWNlX0toZm1SeHRyaFZ5cHZXWkpyclFHUGVHQUlhZkFSZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Et tu, Saayoni Ghosh? Mamata-Abhishek protégé deals Trinamool its worst blow - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdmVvNDdWOVl1WjJDYzBCSW42c3R0YkJiV0l0T1pZMHFwSTdwM3hRREpPNzk4MVdlREhkdkkwRUlUSXg1dENySHlDMkFuYURDNDdSYjc5XzlQUElZcVdsU1Q1UVRQaWxjMUhsaERidUdvMWZiMmJwSFJTay12ai1DaloxWDZ4X2wtaG16bnVJZFMwSkhyYV8xamJTaVBpeUo4MWFzc3hlUlZEQWt4NjFNZEM2SXEzbWNQNHM0RXZmYTFsVFhhRUVaNmtPV0lNWTVhWi1XX2xGWmFTLVHSAeIBQVVfeXFMUDBHRkNjeU44dk03Tm85OHlGakptRi02RGRhTTJyVndhSU1hZWdRdkc4VkpvRnRzOGRuVTJhYTFPMjBwRmRGSkZIY2sxd0ZiRlQzaWV3ZW51d3FWUkNxcURxVndYZUdOUVF1WDlUcGRxd1VzaTVQMVJYa1RWLW1FVC1GV1MtcmI0RFFXV25lajVHcU1YWWNZOVgxWXdNWm9TMl9abnYzRW9qOXU3SHR5bVdoX2RYODNxT0N1M0N6cFBhNEt1WXAweXFGZ2lmaXhVMV9fclNVNjdwdklhYTVUUEQtdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Blow after blow to Trinamool Congress, Kaaba-fame Saayoni Ghosh likely to join rebel group as Mamata Banerjee - India.com",
+      "source": "India.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMkFnY0ZxWnJ6azdKWWY3dzRKS2g5NXAtR29aakdfbm9fSTVJSEVWM3BrOV9DR1YwcDNXV1VPWEVuZEVqdnlBUDNGb2kxcHlLVUNLbHJBTXhOeDBhLTV3V0tQV3NNSnpSQWlKZDdJbThoOV96eGpYY0ZjcDZXRXlRVkFYU21WTGxlQ3JCc3Fqc3E3RzFOcGV3NXdZcDJjVzNCRDNQN1ByTnNFMUp5OHNnbjhkRTVCUHlZYW9LQ2lUX0l5a0V6YlRDeUZ3b3JFbElEb3BIdGhZRmNIZWxHdnNKS09IYWR1Q216cDNrcU9mVWtGYWRkbi1IN29IbHFJZC1scHpvdG1CenNCd3fSAZACQVVfeXFMT1VnR2dhRlRtV1JtckN5ZVVpOG52ZFJmbXR2bXJhQ0dIanVnT1RJVms1ZXBRMk9FQ2lxTGVjVll0TE54R3ZfUk5XaVBnanl4SWwzZV90VzVjeTJ1UG5iMVFsUjd4eDBxblZNZDQ4TlVpR1ZDZlhZY19mYUJIYlFvbkdla0I0WE9QQWtvVXFvcU9wbTZRUS02cjRCTmpWeVE2LTdFTzY1ODBJUU94MlY1ZWF4ckdZQXlpdV9qSlFpTlQ1MDdENy1wVTBnNzBiUzVrSF9YQmtSWXlPazN6Zjl4Q0hhaGdXZHRaN3FnN0FCRGs0SEpoSXlxaV9hZUtHYzd0eFNPUkZaN01hTVpoa3VsVUk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Will speak when time is right’: Saayoni Ghosh reaches Delhi amid TMC turmoil - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2Fwc3VyUXZZWG83bUxWLWRvRU9ENjF2a3ktX3hKWVQwbHdCOXdkcENoS3JocU9tQmc0NlZmQXFfMnVuTFU3VzdKdHdRdzd2WFk4bTkxLVFYMnJvT1ZNMHdBVmdVc3hYMExlUEJtQ1lFQlltb2lWd2xfOG9kVGNfcjdGdEtRS0NHdUxjTHZTRE82dWcwSGdLVGhVYUM3QkFwUkg5cDRROVFKdXlSX3pqd2pub0lhblhVMzFvbVhZS1lfUmRBVmdQWEMyUEFUUkNXTjhsQmR3eXRid9IB3wFBVV95cUxPUFk1X3p4Z2N2ajlQZl9SNHdrTTRkLVBic0NuSk9fYW9UOFpDeU1tMGZXSmxhZ2J1WWVWck1TeGl4VC1nc0pOWkU2UVhJcVUzZXc1SzFtbFl3bDFGTWJXdU4yRmNBbFZWSkJCWmpTbkREM3hkMWdrRHpxaDVYbEFpa1JPc0hfTWhNSkZRdlpzZWJjZG9YVkNNQ3dWcEFNS2xPQ0l3NC1kNndjbWU4RFdkQ0xtSFFBdVFPMnNVUGNfUzlsa28zY1BtdFpESDlJV2JYM0NWTWJEN3VMZHJ1UzBj?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:31:08.315439Z",
+  "collected_at": "2026-09-02T15:10:48.524115Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.966027Z",
+        "fetched_at": "2026-09-02T18:38:12.600067Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +223,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.966036Z",
+        "fetched_at": "2026-09-02T18:38:12.600078Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +239,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.966041Z",
+        "fetched_at": "2026-09-02T18:38:12.600084Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +255,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.966047Z",
+        "fetched_at": "2026-09-02T18:38:12.600089Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.966052Z",
+        "fetched_at": "2026-09-02T18:38:12.600097Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.966057Z",
+        "fetched_at": "2026-09-02T18:38:12.600102Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +303,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.966061Z",
+        "fetched_at": "2026-09-02T18:38:12.600106Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +328,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/sayani06?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "url": "https://x.com/https://x.com/sayani06?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/SaayoniGhoshOfficial/",
+        "url": "https://facebook.com/https://www.facebook.com/SaayoniGhoshOfficial/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:07:10.431744Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,43 +366,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "'My assets have been...': TMC's Sayani Ghosh clarifies on joint property with Abhishek Banerjee - MSN",
-        "source": "MSN",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdjQ3N2ZRVS00VGNXWmxqYnZMVXpsYjVPUnFsME5NSU4wUVI2a0dDMkFXS1ZjcnRfWTdQUjdSMFJzYXJPcTROMGRkUGxMbVE1ZURpU004aEhHalctcDN6YVpWQkhzQnEzcTlwTGk4dUpYUjFDc3ZFNHVKM0Fnd2ZGWEl2YldIbzRlM1NUZjU5VHJtMGc1U1JiUjhfWGNCazV6Zlo1cklBbWk5Tmd6X3pFOFBvS1R2YnVKTU5IVy1ETHVobm10YWtXUVZGU3ctUjlUUm5HbjExVnB0VjhtR2VIakJQS2hwX3Z1OVpsTw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Jadavpur election result 2026: BJP's Sarbori Mukherjee wins against TMC's Debabrata Majumdar - The Times of India",
+        "headline": "TMC workers lock Saayoni Ghosh's Garfa office - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWnRrTWl4NkhiLTZOemRiWC02UzNoaGpRbjJ1NVlTQ3JvLTNCc1A1UlhNWklWOC16dnNyaklLWkRlejhXWHI2N1lGbXVMZ1dFWF9zVGlpTHNoV3U2V2Z2MlhseXJ1UTN4SXROcTQ5UWZkbTFMakloUXRCSzRVMXVGS2ZuUmF0OHNldlI5ZWJDUy1pb3dMbTVfWU54NHdsM2FJWTJMaE1Pa2dIVm5JUDFvM3EyRzBJYk4yN20wd0lodk9tRW44dUJzSVBBQlh4TXhZZFA1SnBkNThqaDN1U0dMRNIB5gFBVV95cUxQU2JfaWM3NURsdUQyYVliRUNNeWc2a0Z2V2lTNXB2ellBeXpiaVhJNl95amtUZDJtN1ZiZzVHcGJwWDBwQmpSNHhUemdKOHl6UGZsd2todmp3WjZPWWlwbFBsVVlkSFl3VkhzeFh2aTFQVTdYLTdOYUs2cmFFZGx6VHF5UE5RRF9tckp5TVZicm1MTFU4alF2VjJYWXg5UXdGUXZncUxfa2N0MnRfeHRSZzZRRDhuaGpxT1E1Q1RQUy1uSXYtcE1HSjdza3NpYjFkVEpnajVzQldvUDg2QlNDWkNpUU8yUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdW10TDc2NmRHWTdfdi1ENml0VktoVTBVVlg0Sm5BNTVpTWpFMVBBeXFwODEtQjRuMEVFYTJjUjZSbXBENmFGSUJGN2F1cUVZeWJqRUtNZlhzU05IbVNqd1VOLU9vdnBVMEN2WkhOMFptUmowSmlSY3lBWnE2WWx4bUNVSmRyYUtUQ2g5N0NSaDlLTElqc3dkMDQ4cWVRcFpKUm1SaWxhdUxqRm90V2FzaW91ZXlPV05hY19v0gHAAUFVX3lxTFA3emN5MkVVekJzaHpid2lSTnJVQV90QlA0YWlhci03Y2hrb3FnNE91WUQ5OUcyRDg2SjlTbUNWdEJodF9JVEtPMWRjcUFZcEhrSU9IYUZHODQ2TXlsSXNFaS1MQ0tNaDFYaW95WDhvMkdKT3g5SzV0MGEybUpXb2lVVUVJN19FUm8yV0x2RlJBQkVvX3p1TmxZVEMzTHVpaERWaUNhYWRoNVpXTkFkS29QN0dGS0VCbGZubUJRcEVLcg?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Who is Saayoni Ghosh? TMC MP who went viral for singing 'kaba madina' breaks silence on BJP's win in West Bengal - DNA India",
-        "source": "DNA India",
+        "headline": "'Will speak when time is right': TMC MP Saayoni Ghosh amid speculation over joining rebel bloc - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQ0IxWlBYaUY5WGpmd21MRXdNWjB2b3Y0OGJ4SHJsMDl5aHVoWlNESFpCTzhhLVJOZmVocXhkZlYyckNPbW9iQWhjU09oT1RDa0QtT0NWRWN2WjI3WU1uR1d0XzNwdWtZR183ZTVwWjgwemY0SnNsZGNfQWUwYmZwOHZvSlRpb3JiWGZ5TWhxbFJtWW40RzUtTDY3dHM3dlVKNWpIeE9lME1feVhkNk1SYUxiY2RMdl9LZ0VPeTZMcTBtVnNtRWF1WkNXV004cWx0R0lVNkZOLW9CR1VTWDBiTDVQNUt5THNlWHMyUHVhNThyUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMTItczU0SFI4UWpyQ3oyampiTi1VUVh5eXpRcFBVeUdub2MyOUhhY0tkalBpdHRWblN2c0tjMm5TTjBXekxnaElFT085RnRjc0NzQXRiTXgxdEZaVTJQQ3hDdlVaa0FJTEYtT0dDZ01GczNJcG40ZmpnaWVwYjBJYWMxb1dYQmQyNXlwbEZwUy1uUmZ1RGxPaEkyYlp3ZVJpbVh5bEJUZVR0aG5rN08xd245cE9JQmxjYzJKVWgyWEc5SGswcWNlX0toZm1SeHRyaFZ5cHZXWkpyclFHUGVHQUlhZkFSZw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Saayoni Ghosh: A Spirited Political Force - Outlook India",
-        "source": "Outlook India",
+        "headline": "Et tu, Saayoni Ghosh? Mamata-Abhishek protégé deals Trinamool its worst blow - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXV6cVRwMzFtMzBvVW1PTmFJNzIwZVYzd3lLbm1CUGtkQXBpN1N4UDJoaDNsWE9vZFVNY3ZmTnVseTJFVHpvbEJFSmVDMHNIZXFXNElsZmVrWmFGamVmc1Nvb0NUYXhrWEJlYldxc01VVy1saHBjOXNxUlJfYVFCaFdOaVjSAZIBQVVfeXFMUGRuc3YycHNWeEdLc1lld0ZxaDJNdVpFZXJTLVJaQnpLcHlLZDhwSkcweHBKVUNMV3pQOW1nVkdxM2ZHb0Y4bDROY09TWDU5bmxibzZKVnBhX1VxLUZUbzMzNTdKUEstVHAxVUhiWUhwSDZmWkoxTFlNUnF5ZmU1WlhTMzN5cFdHVW5fZERleXNmdXc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdmVvNDdWOVl1WjJDYzBCSW42c3R0YkJiV0l0T1pZMHFwSTdwM3hRREpPNzk4MVdlREhkdkkwRUlUSXg1dENySHlDMkFuYURDNDdSYjc5XzlQUElZcVdsU1Q1UVRQaWxjMUhsaERidUdvMWZiMmJwSFJTay12ai1DaloxWDZ4X2wtaG16bnVJZFMwSkhyYV8xamJTaVBpeUo4MWFzc3hlUlZEQWt4NjFNZEM2SXEzbWNQNHM0RXZmYTFsVFhhRUVaNmtPV0lNWTVhWi1XX2xGWmFTLVHSAeIBQVVfeXFMUDBHRkNjeU44dk03Tm85OHlGakptRi02RGRhTTJyVndhSU1hZWdRdkc4VkpvRnRzOGRuVTJhYTFPMjBwRmRGSkZIY2sxd0ZiRlQzaWV3ZW51d3FWUkNxcURxVndYZUdOUVF1WDlUcGRxd1VzaTVQMVJYa1RWLW1FVC1GV1MtcmI0RFFXV25lajVHcU1YWWNZOVgxWXdNWm9TMl9abnYzRW9qOXU3SHR5bVdoX2RYODNxT0N1M0N6cFBhNEt1WXAweXFGZ2lmaXhVMV9fclNVNjdwdklhYTVUUEQtdw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Saayoni Ghosh: Biography, Life, Education, Net Worth and Career of West Bengal MP - Jagran Josh",
-        "source": "Jagran Josh",
+        "headline": "Blow after blow to Trinamool Congress, Kaaba-fame Saayoni Ghosh likely to join rebel group as Mamata Banerjee - India.com",
+        "source": "India.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeW5SQk5XLU9RQlZMQVE4RjVTV1N5aUFVZ25VWkRLWUJ5MFlyWExIem5CaDZ1eHpRMnNBcVpBcVdCWThwbU1fMWNwSG5vX0ZrMDVlQnV5TUtDWkdZMUZmVzNYX0hqUGNMd0NCUFBybVdUYmI0WlVSc05xUWRnY0RhYmx5S25hWUcwa1BLSnRhd3ZnUVZjX2xoTmdndkVkM3NMLTNFUUlwamFVSDRQYW5wTjZkRDNTVHZyTUdjeU1DS0JHcDNUcGFIeHZFck5EZjdDZXZVRWVB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMkFnY0ZxWnJ6azdKWWY3dzRKS2g5NXAtR29aakdfbm9fSTVJSEVWM3BrOV9DR1YwcDNXV1VPWEVuZEVqdnlBUDNGb2kxcHlLVUNLbHJBTXhOeDBhLTV3V0tQV3NNSnpSQWlKZDdJbThoOV96eGpYY0ZjcDZXRXlRVkFYU21WTGxlQ3JCc3Fqc3E3RzFOcGV3NXdZcDJjVzNCRDNQN1ByTnNFMUp5OHNnbjhkRTVCUHlZYW9LQ2lUX0l5a0V6YlRDeUZ3b3JFbElEb3BIdGhZRmNIZWxHdnNKS09IYWR1Q216cDNrcU9mVWtGYWRkbi1IN29IbHFJZC1scHpvdG1CenNCd3fSAZACQVVfeXFMT1VnR2dhRlRtV1JtckN5ZVVpOG52ZFJmbXR2bXJhQ0dIanVnT1RJVms1ZXBRMk9FQ2lxTGVjVll0TE54R3ZfUk5XaVBnanl4SWwzZV90VzVjeTJ1UG5iMVFsUjd4eDBxblZNZDQ4TlVpR1ZDZlhZY19mYUJIYlFvbkdla0I0WE9QQWtvVXFvcU9wbTZRUS02cjRCTmpWeVE2LTdFTzY1ODBJUU94MlY1ZWF4ckdZQXlpdV9qSlFpTlQ1MDdENy1wVTBnNzBiUzVrSF9YQmtSWXlPazN6Zjl4Q0hhaGdXZHRaN3FnN0FCRGs0SEpoSXlxaV9hZUtHYzd0eFNPUkZaN01hTVpoa3VsVUk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Will speak when time is right’: Saayoni Ghosh reaches Delhi amid TMC turmoil - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2Fwc3VyUXZZWG83bUxWLWRvRU9ENjF2a3ktX3hKWVQwbHdCOXdkcENoS3JocU9tQmc0NlZmQXFfMnVuTFU3VzdKdHdRdzd2WFk4bTkxLVFYMnJvT1ZNMHdBVmdVc3hYMExlUEJtQ1lFQlltb2lWd2xfOG9kVGNfcjdGdEtRS0NHdUxjTHZTRE82dWcwSGdLVGhVYUM3QkFwUkg5cDRROVFKdXlSX3pqd2pub0lhblhVMzFvbVhZS1lfUmRBVmdQWEMyUEFUUkNXTjhsQmR3eXRid9IB3wFBVV95cUxPUFk1X3p4Z2N2ajlQZl9SNHdrTTRkLVBic0NuSk9fYW9UOFpDeU1tMGZXSmxhZ2J1WWVWck1TeGl4VC1nc0pOWkU2UVhJcVUzZXc1SzFtbFl3bDFGTWJXdU4yRmNBbFZWSkJCWmpTbkREM3hkMWdrRHpxaDVYbEFpa1JPc0hfTWhNSkZRdlpzZWJjZG9YVkNNQ3dWcEFNS2xPQ0l3NC1kNndjbWU4RFdkQ0xtSFFBdVFPMnNVUGNfUzlsa28zY1BtdFpESDlJV2JYM0NWTWJEN3VMZHJ1UzBj?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +436,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 23,
+    "starred_questions": 6,
+    "unstarred_questions": 17,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 43.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +452,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

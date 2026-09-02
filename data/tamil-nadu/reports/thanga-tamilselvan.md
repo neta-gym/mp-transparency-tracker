@@ -3,19 +3,17 @@
 **Constituency:** Theni, Tamil Nadu
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 34.8 / 100
+## Composite Transparency Score: 39.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 15.2 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
@@ -34,28 +32,47 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Crime No 887/2020, Rayapanpatti, Police Station (Sections: 143, 269, 283, 341) [pending] 
+2. Crime No 810/2020, Rayapanpatti Police Station (Sections: 143, 269, 283, 341) [pending] 
+3. Crime No 809/2020, Rayapanpatti Police Station (Sections: 143, 269, 283, 341) [pending] 
+4. Crime no 61/2022, Bodinayakanur Town Police Station | Section- 3 of ED Act, 1897, Sec. 4A (1a) of TNOPPD Act, 51 of DM Act, 2005 (Sections: 143, 269) [pending] 
+5. Crime No 49/2022, Bodinayakanur Town Police Station | Section- 3 of ED Act, 1897, Sec. 4A (1a) of TNOPPD Act, Sec. 51 of DM Act, 2005 (Sections: 143, 269) [pending] 
+6. Crime no 48/2022, Bodinayakanur Town Police Station | Section- 3 of ED Act, 1897, Sec. 4A (1a) of TNOPPD Act, Sec. 51 of DM Act, 2005 (Sections: 143, 269) [pending] 
+7. Crime No 323/2019, Bodinayakanur Town Police Station (Sections: 143, 286, 341) [pending] 
+8. Crime no 87/2021, Bodinayakanur Taluk Police Station (Sections: 143, 269, 341) [pending] 
+9. Crime No 77/2021, Bodinayakanur Taluk Police Station (Sections: 143, 269, 283, 341) [pending] 
+10. Crime no 9/2021, Bodinayakanur Taluk Police Station (Sections: 143, 269) [pending] 
+11. Crime No 8/2021, Bodinayakanur Taluk Police Station (Sections: 143, 269) [pending] 
+12. Crime No 2238/2020, Bodinayakanur Taluk Police Station (Sections: 143, 269) [pending] 
+13. Crime No 104/2011, Bodinayakanur Taluk Police Station | Section- 4AA (1a) of TNOPPD Act (Sections: N/A) [pending] 
+14. Crime No 57/2022, Theni Police Station (Sections: 143, 269, 341) [pending] 
+15. Crime No 720/2018, Andipatti Police Station (Sections: 143, 341) [pending] 
+16. Crime No 205/2016, Andipatti Police Station | Section- 179, 201(1) MV Act (Sections: 143, 188, 286) [pending] 
+17. Crime No 67/2021, Palanichettipatti Police Station (Sections: 447) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.99 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 4.99 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 39% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 3
-- **Expended:** Rs 3
-- **Utilization Rate:** 19.0%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -74,31 +91,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Banner row at ‘Nalam Kaakkum Stalin’: DMK MP Thanga Tamil Selvan, MLA A Maharajan hurl verbal abuses at e - The Times of India (The Times of India) [neutral]
-- Video: DMK MP, MLA spar on stage over handing out benefit scheme certificates - India Today (India Today) [positive]
-- Thanga Tamil Selvan of DMK files nomination in Theni - The Hindu (The Hindu) [neutral]
+- MP released water for irrigation from PTR canal; to benefit over 10000 acres of cultivable land in Theni district - The Hindu (The Hindu) [neutral]
 - Opinion | T.T.V vs Tamilselvan: Once Friends, Now Rivals In Tamil Nadu's Theni - NDTV (NDTV) [neutral]
-- Theni Election Result 2024 LIVE Updates Highlights:Thanga Tamilselvan of DMK Wins - News18 (News18) [neutral]
+- OPS' son eyes Andipatti seat even as sitting MLA seeks renomination - DT Next (DT Next) [neutral]
+- Banner row at ‘Nalam Kaakkum Stalin’: DMK MP Thanga Tamil Selvan, MLA A Maharajan hurl verbal abuses at e - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- It's star war in TN's Theni heartland for Lok Sabha polls - newindianexpress.com (newindianexpress.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP released water for irrigation from PTR canal; to benefit over 10000 acres of cultivable land in Theni district - The Hindu** (The Hindu)
+- ! **Opinion | T.T.V vs Tamilselvan: Once Friends, Now Rivals In Tamil Nadu's Theni - NDTV** (NDTV)
+- ! **OPS' son eyes Andipatti seat even as sitting MLA seeks renomination - DT Next** (DT Next)
+- ! **Banner row at ‘Nalam Kaakkum Stalin’: DMK MP Thanga Tamil Selvan, MLA A Maharajan hurl verbal abuses at e - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **It's star war in TN's Theni heartland for Lok Sabha polls - newindianexpress.com** (newindianexpress.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Thanga Tamilselvan has a below-average transparency score of 34.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Thanga Tamilselvan has a below-average transparency score of 39.0/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 17 criminal case(s) (0 serious), 17 pending, 0 conviction(s). Declared assets: Rs 49,850,594. MPLADS utilization: 19.0%. Parliament attendance: 90.0%. Questions asked: 6. Debates participated: 3.
+Has 17 criminal case(s) (0 serious), 17 pending, 0 conviction(s). Parliament attendance: 90.0%. Questions asked: 6. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +168,7 @@ Has 17 criminal case(s) (0 serious), 17 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +247,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Thanga Tamilselvan's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 19.0%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +264,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

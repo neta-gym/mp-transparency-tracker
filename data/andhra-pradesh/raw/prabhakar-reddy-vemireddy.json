@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5765.jpg"
   },
   "criminal_record": {
-    "total_cases": 6,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 6,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 7163322265.0,
-    "liabilities": 2002620798.0,
-    "net_worth": 5160701467.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 99.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.79,
-    "expended": 6.53,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:17:38.668337Z",
-        "notes": "Official eSAKSHI REST API — Works: 155 recommended, 155 sanctioned, 96 completed"
+        "fetched_at": "2026-09-02T14:51:11.737693Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:47:06.093625Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:47:06.090615Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 155,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 44.421768707483
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 70.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:19.211359Z",
+        "fetched_at": "2026-09-02T14:47:06.089528Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Nellore MP Prabhakar Reddy Seeks Rs 14-Crore NH-67 Road Upgrade - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcC1EWUptbDBvNW8xVnhQY08xMHVCRjdsRGYxXzNqSE12YVhQdU1sU0tPNDU0TVloQVl6QUstWWctTnE3SVNfOFNtT01tTUVsVnNXNUdfUmUwMF9TTTI0czZiTTF0NnFETWg4VTduckNIdE5NSm9xWGkwTlVwci1iOXNSRmprcG9WdjF3SkFZanowME5meDhhNlNBT0ZjWlUzejdfX3lRZUNhM2dkQWFnSUFWMC1xdHVJc0RpVjBvS2xOZElvOXMyZmFSNTVHUVnSAdQBQVVfeXFMTi1oVEhkbHQwMDRqSVg2SjQ4TEV6bllXck93U2V4SHBTaG9URVpwbGVRUjQ2dkF1QUtZLVdoSWY1c0VPampzcERTNUtZc0xGRmZON3FRSFpjMlJhYWZfMlJXSDBxR21JV2piVTU0RmE1WFVONGk0X2ZkcEoyTWpZODBNZmVwMXo0cU1vQjZaZ3p2U1ZTOFhlS0JDNlBsN3M2Q2wxZ2xyTGdQM2xOdmNDeVVVUU1pSEh2bEVCTHEya1RKTUxCRXVJc1VIQU5QVXdZR1MxSEc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘VPR Netra’ reaches 60,000 rural beneficiaries in SPSR Nellore district - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUmM1bnRRM2kzR0tybVM2dUR3YWQ0ZF9IRHJQNFJiMjlKS1RpNEVWZkVoZVo0UGJvdE41RGx6bnVnTVN4dWhEX2xNT3ZqbWR3WkxCRElsNkpkQzZ0Y0pYT19jUUdzenR6blh4STFtQ2phN0hTeFUyOWI0dlF1dFltbG4xMS11YUQ2Y2pLb1Y0UnREcXkxVmZrZTl0SGdjODBhUXUwa2pGOUlfZm4xRHFCQUs5eUtlVGtwVWJwVk5jRVRVN2ZhN29ibExDLW5paG1YWVQ4RkVWSktrZ9IB4AFBVV95cUxOX3JXbV9IMTZQaHpraHZ5ZktDMzhfUmJJQmUxeDNmR3JiMVpoMXJrZzJ4UENSendoUzdQYjR4RnZtcXI2anVMbmhJbmxQQ3FMSlJKUE1MWWdmSnpMXzJkWWVYVFlLUXJWUVdMZzVnLTBGTWt2S3lhcmV6V3J0SklMY0wzVW5PVVZfZXg2VUJHcDlVSFRuX1dnOVJDY1pkT3FTVDFBak4tZUl2X2NQZXFUY1R6NVRiaVlPcUdWUUJIQUVDTFJSak54ekp3RERzbEt6UDQzSUZrR3puWmdxQnZHMQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nellore to host TDP’s ‘Mahanadu’ for first time - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkZIaTlScG9JWG9BOVhZY1J2OVJFczBOZVdOT0xEejNyWXBNN085NzAzcHV4cDk5WkhNZzFvVk16NHFOcmxlcUxfZkI2cHRLS3VhTlFPSWh6NHl6V0FlcFZBaVBIUTkzZDg4eFVhUGNtcDV4SFBsTEo1OWZUUjJzYmdGN2xtUHcwd2pKbUJOZ3hoSFFRY1RkRGJHOUFNSk5ZTE9xUFVxSXNCSXdBdFhkaNIBvgFBVV95cUxPZVJJbTFNeVRoSi0xaXgydi1Rc3dDUUpVYWx6TVU0UDlmVVYzTTNudkZuRHQ4ZWhiQTZ0TkduNHpZS1FHb251QVhuLUhqSDdRRkhkZHdua3ZiUVFLOTlxMnVrRFk1WjZEV251c3YtRElMaU9Qd2duQzdoMV9mSDJTT1kyRXpsdC1uU01mSjZVNXR6RzVsYjJodm5OaXZkOU9Lck9OOGV4Y1NsMzNjZ3dLYUlLSWFBRElpRkpOaHlR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nellore dist to host over 7 lakh TDP workers at Mahanadu - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdHpUeWFRcUNaY0VTOUM2OWxueFZBWklINnRSQ1hHYm1ielBudl9RdG1sSnczd05rU0JkcVc0VTAzUWg3U3Jha2ZFLVowaXpEZWV6ckZ4MHl4VzY5SzhNeWQ3Wmg3alBBbHh3anVqdjBCbG5WdVczR1oyZXNvQXZ2Nkk2SHdvXzFna0JFY3BHNFdLOG9MV2FPOVp5YUJzckZqcUl3T0RPS3dpMWdwYXBPMzhacUhWeVpPVVE1N2hySndDYmVhbUZjdDRHN1dsRUXSAdQBQVVfeXFMT1Z3UW4tZ216dE1USC1nX2JSTV9mZjUweVFlMGMzckVnX0tSbjF4b2NmejlfaGlLV0xKSmtaUDJELTBlWFBnbnlfdGtBMU1Jc1M3U2Nhb3NYZHJCOVlNY09rWC1zRnZmd05BVWJOQmszR0NkeVF0bUpfazl5V0ZiSUt4UW1CZTUxM3dMNlpkeWxqdGRRS3A0MFlvcWs5a2hOaHpRS3pXNlpIUEZKSWZSMEI4NTUta09fM19BTE96QV8zZEgwQzNwbVM4UG1SeTlPTzBmb3I?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Vemireddy Promises Time-Bound Resolution of Udayagiri Issues - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHlPMkJQMHpCQ0NZWC1raGFObHhndFRSM3lTOWRfNDluWDNwYm4yMm1qdHRoV2RlTDN6VlZQdTlyZjFhYXlGWVVlSnc5Y2tud2dtdUlQcEtIUXhSUUtFcm9UbHhnWDhkZDhsa1V4T1NlY05YV25FVFY4MDdGR3N2SUxsWl80N1JDcW50QlF5TFd6WVhRTVZkWTh3RXBFY0kzZjRpaVI4cm5taTgtWk1lZGVLZ2dXSHRranhQS2k0TFpwUVlkRlhOMFhrUdIB0AFBVV95cUxNWG44aDhselJWRF9iZC12SUQ1cEsyYjJZb2VIakpzWFBqelB1aUdtVUJXYVlNYmlFZ1hET3VJNEEtNVg1cUR4VjlYTUFOMDNhY2U3Z0ZUOU4zbTN0Vi0waFRfVFU5VzV5TFNCQ2gtQmtGU21GS1pzWUcxUVFWaUk5c2pibVpEbHhuSFdCWS1MaGFTV211VDY0VG9xZXJNcVM2QXZTeV9MbGhBbjlnV3dPZWtYV0t5Sml2LURLUUQzOFNlekFGS0U0bDVsc09ZMkNM?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:22.314306Z",
+  "collected_at": "2026-09-02T14:51:11.738834Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.555788Z",
+        "fetched_at": "2026-09-02T18:38:04.030215Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.555799Z",
+        "fetched_at": "2026-09-02T18:38:04.030226Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.555804Z",
+        "fetched_at": "2026-09-02T18:38:04.030232Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.555809Z",
+        "fetched_at": "2026-09-02T18:38:04.030237Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.555815Z",
+        "fetched_at": "2026-09-02T18:38:04.030244Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.555820Z",
+        "fetched_at": "2026-09-02T18:38:04.030249Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.555824Z",
+        "fetched_at": "2026-09-02T18:38:04.030254Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -248,48 +304,48 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 3,
+    "positive": 1,
     "negative": 0,
-    "neutral": 7,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Sagar Mitras thank Nellore MP for six-month extension of PMMSY scheme - The Hindu",
+        "headline": "Nellore MP Prabhakar Reddy Seeks Rs 14-Crore NH-67 Road Upgrade - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcC1EWUptbDBvNW8xVnhQY08xMHVCRjdsRGYxXzNqSE12YVhQdU1sU0tPNDU0TVloQVl6QUstWWctTnE3SVNfOFNtT01tTUVsVnNXNUdfUmUwMF9TTTI0czZiTTF0NnFETWg4VTduckNIdE5NSm9xWGkwTlVwci1iOXNSRmprcG9WdjF3SkFZanowME5meDhhNlNBT0ZjWlUzejdfX3lRZUNhM2dkQWFnSUFWMC1xdHVJc0RpVjBvS2xOZElvOXMyZmFSNTVHUVnSAdQBQVVfeXFMTi1oVEhkbHQwMDRqSVg2SjQ4TEV6bllXck93U2V4SHBTaG9URVpwbGVRUjQ2dkF1QUtZLVdoSWY1c0VPampzcERTNUtZc0xGRmZON3FRSFpjMlJhYWZfMlJXSDBxR21JV2piVTU0RmE1WFVONGk0X2ZkcEoyTWpZODBNZmVwMXo0cU1vQjZaZ3p2U1ZTOFhlS0JDNlBsN3M2Q2wxZ2xyTGdQM2xOdmNDeVVVUU1pSEh2bEVCTHEya1RKTUxCRXVJc1VIQU5QVXdZR1MxSEc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘VPR Netra’ reaches 60,000 rural beneficiaries in SPSR Nellore district - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeEd0QTBFaVhxZHdRdU96ZnhaNHFHbHJGcUtmNGZrRmhyVndPTWh3YnZIMHA1Ymkxb0pTSkstY1NaWER4dC1keU1Rb2tMeVh2NTNpV3AxMVNpYUxwaVZCMW1rR2h6aExHbHQxUnFoelowWjQyNFpfSVpycGN4WGN6U1RDQWp1OEhfNjZWTUlsRWcwM0NZa09rVmkzb0ZieGpTdUw3ZThyTEotX0prOVVxNno2WTl6Y05NeVJzb1RNUjBwb2lRUF9CYkdQV3V3VnV3RG01d0hqdVZ2NHfSAeIBQVVfeXFMTko5U2VvMmxsSGJMdHF4UWlJa0FkaHlEeDJ0TGxRc3dDY0QxbnZzcFRrV3d6V1h1Q0VhUjJfZHBYbFdMQ3U0M3ZUY3hleVFuQS1rdVY3X0ViaUh3b2JaYUNWbGNjQXhfWEVWbnUzcUdxbkN3Mm9MSUp6RGNiMy04b1N6dWxpNlB6NDFzN2lOS2ZwVEVOc2RIZUp2Y0htWVpuUEhoOS0xWGtTUFhRVG55eXdEeHJtSngxS05GLUR0eU5ScTdtLVFRMHNtakxIbXRSQmRvc1YxNWxqbXJMX0tJRmtaQQ?oc=5",
-        "sentiment": "positive"
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUmM1bnRRM2kzR0tybVM2dUR3YWQ0ZF9IRHJQNFJiMjlKS1RpNEVWZkVoZVo0UGJvdE41RGx6bnVnTVN4dWhEX2xNT3ZqbWR3WkxCRElsNkpkQzZ0Y0pYT19jUUdzenR6blh4STFtQ2phN0hTeFUyOWI0dlF1dFltbG4xMS11YUQ2Y2pLb1Y0UnREcXkxVmZrZTl0SGdjODBhUXUwa2pGOUlfZm4xRHFCQUs5eUtlVGtwVWJwVk5jRVRVN2ZhN29ibExDLW5paG1YWVQ4RkVWSktrZ9IB4AFBVV95cUxOX3JXbV9IMTZQaHpraHZ5ZktDMzhfUmJJQmUxeDNmR3JiMVpoMXJrZzJ4UENSendoUzdQYjR4RnZtcXI2anVMbmhJbmxQQ3FMSlJKUE1MWWdmSnpMXzJkWWVYVFlLUXJWUVdMZzVnLTBGTWt2S3lhcmV6V3J0SklMY0wzVW5PVVZfZXg2VUJHcDlVSFRuX1dnOVJDY1pkT3FTVDFBak4tZUl2X2NQZXFUY1R6NVRiaVlPcUdWUUJIQUVDTFJSak54ekp3RERzbEt6UDQzSUZrR3puWmdxQnZHMQ?oc=5",
+        "sentiment": "neutral"
       },
       {
-        "headline": "Nellore dist to host over 7 lakh TDP workers at Mahanadu - The Times of India",
-        "source": "The Times of India",
+        "headline": "Nellore to host TDP’s ‘Mahanadu’ for first time - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkZIaTlScG9JWG9BOVhZY1J2OVJFczBOZVdOT0xEejNyWXBNN085NzAzcHV4cDk5WkhNZzFvVk16NHFOcmxlcUxfZkI2cHRLS3VhTlFPSWh6NHl6V0FlcFZBaVBIUTkzZDg4eFVhUGNtcDV4SFBsTEo1OWZUUjJzYmdGN2xtUHcwd2pKbUJOZ3hoSFFRY1RkRGJHOUFNSk5ZTE9xUFVxSXNCSXdBdFhkaNIBvgFBVV95cUxPZVJJbTFNeVRoSi0xaXgydi1Rc3dDUUpVYWx6TVU0UDlmVVYzTTNudkZuRHQ4ZWhiQTZ0TkduNHpZS1FHb251QVhuLUhqSDdRRkhkZHdua3ZiUVFLOTlxMnVrRFk1WjZEV251c3YtRElMaU9Qd2duQzdoMV9mSDJTT1kyRXpsdC1uU01mSjZVNXR6RzVsYjJodm5OaXZkOU9Lck9OOGV4Y1NsMzNjZ3dLYUlLSWFBRElpRkpOaHlR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nellore dist to host over 7 lakh TDP workers at Mahanadu - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdHpUeWFRcUNaY0VTOUM2OWxueFZBWklINnRSQ1hHYm1ielBudl9RdG1sSnczd05rU0JkcVc0VTAzUWg3U3Jha2ZFLVowaXpEZWV6ckZ4MHl4VzY5SzhNeWQ3Wmg3alBBbHh3anVqdjBCbG5WdVczR1oyZXNvQXZ2Nkk2SHdvXzFna0JFY3BHNFdLOG9MV2FPOVp5YUJzckZqcUl3T0RPS3dpMWdwYXBPMzhacUhWeVpPVVE1N2hySndDYmVhbUZjdDRHN1dsRUXSAdQBQVVfeXFMT1Z3UW4tZ216dE1USC1nX2JSTV9mZjUweVFlMGMzckVnX0tSbjF4b2NmejlfaGlLV0xKSmtaUDJELTBlWFBnbnlfdGtBMU1Jc1M3U2Nhb3NYZHJCOVlNY09rWC1zRnZmd05BVWJOQmszR0NkeVF0bUpfazl5V0ZiSUt4UW1CZTUxM3dMNlpkeWxqdGRRS3A0MFlvcWs5a2hOaHpRS3pXNlpIUEZKSWZSMEI4NTUta09fM19BTE96QV8zZEgwQzNwbVM4UG1SeTlPTzBmb3I?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Fisherfolk seek job quota, subsidy in meeting with Nellore MP Vemireddy Prabhakar Reddy - Deccan Chronicle",
+        "headline": "Vemireddy Promises Time-Bound Resolution of Udayagiri Issues - Deccan Chronicle",
         "source": "Deccan Chronicle",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbG9FWUFJTW9HR3hiV09iNXY0aVFZa0RidzJkd0NZX1QyWmFTOG5od2o0NVZTZ2ZlSWxMZkNLc2JHc2lwNVozYm1ESEZxZjh4UWpSM054eVZOQkQ5RzU0MGZYT1ZrYVhhTWhqOWE3RTBXY3NUQ3ZSeEc1YXdSUHJNQmFSWU1nWWd2ZDdtWWFFSjR2aDBwQ0x3cmxfM0hwYVo3c08ySW41dFc3U1QtMi0ycjhmUVdNUDJVU1RkNl9yTTc4cTBvYnU3T29fUWxsT2VoVGZydHdWWG1KRzlhVWp3UVE5WTdFTjBwbmlNLVBB0gHzAUFVX3lxTFA4ZXVYOHhyeGtNZ1BkNEM1Z1JXa3ZsWW55VlQ0TWVxMXd6Q01ONFU4aDQwbUo5aU5zSmhlSjlPbHBXVi0xajBlWHpKLXNVUjZNNUt3MDQzV01CRnh6Vl9XOVNEOXpqZHhMSk53MkhjRW5JYUoxV3Z5U3ctdnp4WFBZZUh0Znp4R3YwUzgzUjBOdVZjOWRvczVydXdBaTZHMldWWHgxVWwta2dWMG55VGJ1T3dLLV83OWJDTzJValZaWG5jS1pGM1R0R0JhdEMxSnNDWTdLd2YyZWxwWkNDZkY3ekZUNXI5cW0yRE5BNHp1NlJ3dw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "VPR Vidya school students shine with 100% pass rate - The Hans India",
-        "source": "The Hans India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYmhtU3kzNU1FUzlCNmlmZHlOZ0RuYUR1dUl1cVQ3bk9rWXEyRWlXMDAxczZzYUhObm1BQnZadFhqd2lUaXhkdTRNRTI0MG1pMVpzOUFSZEhRdi1aYThUTHlCQVZtcmw5d3EzZU9lNUtxOG5OUXJsaXB3NXExV19kMXdyTHU1NTkwYkNJWXlVcVVESkZwYzFQX2hsQkF1eE5wbUQwbNIBqgFBVV95cUxNX2FiWXl3bG45S0xBbGVjaGJTZ094Wm5wNjQ4aktkMWpoUV9PYklaZnZVVkVHeWc3cGtJSklLeVZxbFpsS0JlbnJwLVUxdkl3VHg0dmFWVEY2U2taX3JKRzY4S0pYZXhXd0RZSnhkVXBVdkFGQzZWS0FZV1l1VE1rTEVVcXFxUUs4UmZaNlhkaFNQS25lRHJQSVNfWmptMDVud0JQOXdoaTc2Zw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Infrastructure boost: Centre clears Rs 3,600 crore 4-lane Nellore-Badvel highway project - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbUx6NTNFa2ZxVHdnSnNQakRfUlpmTFQ5LVhOS0RmRXJ1dGZvMlVSYl9aUy1UTFQ0aWFhU2RwMXNYVVp2YzdVZ0Z3Y3BIWmxQcWtKN2hiUGR3dGMxSVI1QU9xbFQ2RDVjaS1uaF9MZTZiMFpYZ2tXNnJTUFExVHlLVnVTaEtMWER1V0hCLXc4WURGQ2VkaUxMNEd2ZzZHTTlaWjZKTEtQeEhOLUo4ckZxY2gxalBoU1RER05VekNIUGZtajBtWVBSMmNpMUpXcnBwY2lnTWV4WGcxRDd4TlZFdEs2VEJHaG1E0gH2AUFVX3lxTE8wRGJuNXh3SHc2M3RiMzJFem0yOUFuUEdqZ2NYSzNpdUJfaW0wdk4yRFVlMDFPc29uR0N6YlNaZDdJclpIQklaTy1LelhUcUhwc1hKOU1ReERKQ3BHbkxGNjNSdlNZa0V6dG44cWF6cm91WE9QM2tyMm1kb2xVUWVmOE96d1FXVVBwZWF1a2hfU2h4cFBKZ3RlcjE3QS1pVnMxTmdmLTU5a3UtaHlOYXhEcEs2aW5jZnpmTmhGNjFRT0Foa1ctX1VQSllTVXhDODZtbGU5eVRtMzV3QkM4cmdjTlRzaHdDVG9hTEg0QkVLSWtWWXI2dw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHlPMkJQMHpCQ0NZWC1raGFObHhndFRSM3lTOWRfNDluWDNwYm4yMm1qdHRoV2RlTDN6VlZQdTlyZjFhYXlGWVVlSnc5Y2tud2dtdUlQcEtIUXhSUUtFcm9UbHhnWDhkZDhsa1V4T1NlY05YV25FVFY4MDdGR3N2SUxsWl80N1JDcW50QlF5TFd6WVhRTVZkWTh3RXBFY0kzZjRpaVI4cm5taTgtWk1lZGVLZ2dXSHRranhQS2k0TFpwUVlkRlhOMFhrUdIB0AFBVV95cUxNWG44aDhselJWRF9iZC12SUQ1cEsyYjJZb2VIakpzWFBqelB1aUdtVUJXYVlNYmlFZ1hET3VJNEEtNVg1cUR4VjlYTUFOMDNhY2U3Z0ZUOU4zbTN0Vi0waFRfVFU5VzV5TFNCQ2gtQmtGU21GS1pzWUcxUVFWaUk5c2pibVpEbHhuSFdCWS1MaGFTV211VDY0VG9xZXJNcVM2QXZTeV9MbGhBbjlnV3dPZWtYV0t5Sml2LURLUUQzOFNlekFGS0U0bDVsc09ZMkNM?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -323,15 +379,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 46,
+    "starred_questions": 13,
+    "unstarred_questions": 33,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 88.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 70.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

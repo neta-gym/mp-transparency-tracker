@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 4050109.0,
-    "liabilities": 0.0,
-    "net_worth": 4050109.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 4.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 16.57,
-    "released": 16.57,
-    "sanctioned": 6.44,
-    "expended": 3.35,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:42:40.863900Z",
-        "notes": "Official eSAKSHI REST API — Works: 141 recommended, 126 sanctioned, 32 completed"
+        "fetched_at": "2026-09-02T14:47:09.649587Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:43:06.917514Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:43:06.915460Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 141,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 20.217260108630057
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 65.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:19.198663Z",
+        "fetched_at": "2026-09-02T14:43:06.914701Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Jully, 2 MPs flag ‘limited’ Aravalli panel outreach, seek wider village visits - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFBKVmVOYUZNVlNFVjd4eEl0T3RlS3ZtVFk5MUJhQUVReWcyTzBRNENBSFBWOTdTZWVuUEtiekdZak1rSDlJWVBkWl9tZXRBcmVjTFdQaTlpeVBQV3VTaDRyM2xCcW1MbWs1enhnNmEwR1M4TGZDMkpvQXAxUE44czZXTXdvTlZrWmJLSjFTQUZDX09lYXZGSThrcWR5UFhxYUFGSUxCejBCMm9DbVJ0WEx3V042Zkg1OGlPWEdKbjZjRHhPMWp4ZDc5NGIyZzJCRjlpMm1XdHJZNU53OEF3NUNn0gHnAUFVX3lxTE13X2FRWUJMcFh3aEJKUUFmOUpLUGN1VG5PX1RPNTZpZWJ0UHRyanB5dEw2MTRvdTM5Yy1QSm14WU4za2pMNUljOFJOYWZaeFM3MjBqRE1nUEVaeFpHYWt1N3I1WjRjNmlISVRQSE51enh5cGVsUmtWeDlQbm1yY284Ym5reEQ1YWp0V1ljdzdwWFI3Q0MyXzQzc291MlltOU13UWJpV0RSeXlaR2J6c0hmWkNlcUNXeU90SC1xNkc5elA1OElGN0hlNVBSb3NObUIwTm9LRUZaWjVXWGdIWHpOVUR3ZzE4VQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Students, CJP hold torch march in Sikar over NEET paper leak - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYndwTXdfNTZLUmdhUUstMEd2X2VUS0xzUU1KUGJlTnBqbmphR3hvMFN6U1Nya0xiWi1fSG5VejdHY2ZVeVlkNi1QRTYwMnZIcmtiRGE0OXliZjNlS2tKbDJOY0lNeklYSVZaNUY4U3ZvZkJHUU9DVFN0V2lJal8tQnpEUVh1RHZ6SzA2by1raUxIRVBKQ19FamxtNFhzdzI0TEE4TXNTZGdjRXI5clJKdTJwejh5S1F4MHVpc0E3Nll2RWt5UDhzbUNxcGNzZ9IB0wFBVV95cUxOaWtWUnpwMzNZbi1xczNWa0VoWTViT005QWJaQzZsR3NvV3dwQVZPMFpHSW5IdEpXdHVFLWFEWmx2Unl5ZG5MUmJzVTRfdnRRLUJxZjhLemFDZlBqbnFybTBpZ21lUHFRQnJReEJ5RU1wR1dJT0pRQWU1ZENXdXVSUkRNcmlnQ0x6dVBvWE9uc2FDVE1lSFVzS0MtVFpYOE16bDBUN0NfamZsZjd5WnNFNTRTNVdaSjhEdVRfNkZQWHRMVkxkLWZwR2VjOW5oRFVxcHpJ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Every farmer in Sikar answers MP Amra Ram’s call’. He is more than just spectacle politics - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQME1acS1YZ25ULU41SWJEZ2ppd29ZN2FZZERseGVmNWlBN091Z21mNHFQNFkyMThlS0R2VlRmRlhFRmZLdloyX19Wc2pkYVhEc2FvRW1FUjBvaVBKV1ZRbjIwdTFUOXdpU1paTDUxb0xqcDJ2a1VyNl83RXpsaVZ0d0FBLUVUdnFzSk5ySmpaSm5Cb1hzZjJTUDR4VWtYc3BoaXZuUGRpWGk1T3Z6NGdSUks2b0RoeVdaMXJsNEY2MFh3THA3bHNjWmFhUdIB0AFBVV95cUxOWlc3VzdwWkpRLVBWNXh4Vk1Hdm1GSlUtMFhvVnZleWNJUVpjamRaemxuRW5uVXNpSzZ5ZllidFFBMGpvUEc4dnBJZ2NHdGotY3ktRGRrREF1Z1JpUGJpaGJzbnZUa2lwb2tLS3UydnMxVVJkeWlwS0pvb01LQjJLdW0xNVcwR0FUaUNzTFFEY3p4TXZaRGUyVEIyX1hYUlVHWjc5SV9zMXJCVkNNUHRfVHNaZzlwSjdmVjFnVHduaTN1MjNDZjNoLTZhS2pXVk9q?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "From Playground To Parliament: Meet Amra Ram Who Joined Student Leftist Politics At The Height Of Emergency - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN3VsaEV0RktnSDdRUndUcER1QTFjVWd6bFktN2JUUkRlOGlvaWNFWG5idWxvenNHRHJrR3JDVFBnbUZHU2JIMFRjMVc0MGRQUTJoT3RCQ3hESTdnTzdrS2gyc0p2WTZycS00TGM3U0FNNGhTbEhWNl8tMDcwMXhTUVZyNVJ6eGlmSTZHTXBDVXlXMTJSVm9xT3p4VU84X3d0OF95a0xXNGNtX1Rpbmh4RzRXbmVLMy1XdHNnOVliNkZhRldHYUdGbTFjQUVnQmVH0gHWAUFVX3lxTE1Sb3hiUjBEUjN1azlkLWxDeTZvTmFvT0o2V1lNRkZoRUpIVkZNUjNRR2FlR2pCNmZKQkd5UzNjeG1vVjhfVnVfVzBvdmg1QnE1T2hjc2VOTkh5THZFXzFsb1BSM1pCODVMazFKVHpDZnZ6emVpMXRnZktlTTBxVDZmV2pHb0w3R04wRktEdG1aYVVmdm1yclZiZUh2bUVNT0NHR3NmMXhLNkl5YUhwVmFmS3ZpWDhDNGs5N1JZVTVGbWR2YjdJNGUzQ1hsTXRHc1R1S2gxT2c?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Only Politics of People's Rights Can Destroy Dictators: Amra Ram - NewsClick",
+      "source": "NewsClick",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWlQ4UEtjSmc0bVJ1LVhjOGpCcS1QV3JiRWJTbXlkd0M4ZFJWLUZydC13UVdCLThnb2huSkhHRW51VjZrLWptemM4MTQyM0FmMnZwbGIwclRkN1hnVEszb1FyYTZNM2VicWhISmJzcEwzU0VpQkt5YnpSZzJCb0gzRVkzdHdERzJ1ODZXa9IBkgFBVV95cUxNT0wzZk9oWTd3NS1RLXYwM3lRZnBZcTZCTDdIcGkxRlRTR1V5ZjNKQXhwVXlyamREUWxLTU4yNFlYSWtDRUxwRG5IMDB1dGRDc1pqWFQ1dnE5TEc1eDhzOGo0aTFnWUVYakgxYmRiZEM5X0lSOU5EUHRjWUVhYjRZNi1XV0ZIajNwMXkzLXV1QlZUdw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:20.710787Z",
+  "collected_at": "2026-09-02T14:47:09.650624Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.784868Z",
+        "fetched_at": "2026-09-02T18:38:09.270402Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.784886Z",
+        "fetched_at": "2026-09-02T18:38:09.270414Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.784916Z",
+        "fetched_at": "2026-09-02T18:38:09.270420Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.784928Z",
+        "fetched_at": "2026-09-02T18:38:09.270425Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.784962Z",
+        "fetched_at": "2026-09-02T18:38:09.270432Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.784973Z",
+        "fetched_at": "2026-09-02T18:38:09.270436Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.784983Z",
+        "fetched_at": "2026-09-02T18:38:09.270441Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,11 +296,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/comredamraram?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "url": "https://x.com/https://x.com/comredamraram?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/amraramofficial/",
+        "url": "https://facebook.com/https://www.facebook.com/amraramofficial/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "Amraramofficial",
+        "url": "https://instagram.com/Amraramofficial",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:43:33.155392Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -253,19 +342,19 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "BJP lost, so funds stopped: Amra Ram accuses CM Sharma of targeting Shekhawati - MSN",
-        "source": "MSN",
+        "headline": "Jully, 2 MPs flag ‘limited’ Aravalli panel outreach, seek wider village visits - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxON0NTamJ3M2cwdnAyR2w0Nmk0ejZNRFlfQmc3LU1NR3BHaGk1NG1Gd0x0RDVLcmdULVFTVDdtNHU2emlsb1dKSmNJVEtITkZDcXBfTnZxenRpR2N3MXplcmg0eld2WlNuUGUwalVxTHFmR2dPUVV6Z05nUi1lTXlHSEhBZDNRTWpGNlpfYUNWVnVXNHFZNFRrdjRDeF9CUm5vZEIzSTljLU1rVDQ3bGdCLUtHeEY2WEV5VS0tZnVXUFVsOWJRa3hqaGlROV95YWM2bTVJaUVoRnlQRzBRZEtEcVRQVWl6NTJ4cGR4d3hBSVJ3dmFhVV9nMldnUy03dVpBV244SkFoQmdDaDVkWFpsZ09fTWo4UV9EVC0tbHFLNUZpNUJ5OWQzWFJWWnBRSnl1WXZ6N0lNU0M0ZEFSNUJHVDd5ZElnSkZvWmtqVkJUdFBZTUFXZEEyamxB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFBKVmVOYUZNVlNFVjd4eEl0T3RlS3ZtVFk5MUJhQUVReWcyTzBRNENBSFBWOTdTZWVuUEtiekdZak1rSDlJWVBkWl9tZXRBcmVjTFdQaTlpeVBQV3VTaDRyM2xCcW1MbWs1enhnNmEwR1M4TGZDMkpvQXAxUE44czZXTXdvTlZrWmJLSjFTQUZDX09lYXZGSThrcWR5UFhxYUFGSUxCejBCMm9DbVJ0WEx3V042Zkg1OGlPWEdKbjZjRHhPMWp4ZDc5NGIyZzJCRjlpMm1XdHJZNU53OEF3NUNn0gHnAUFVX3lxTE13X2FRWUJMcFh3aEJKUUFmOUpLUGN1VG5PX1RPNTZpZWJ0UHRyanB5dEw2MTRvdTM5Yy1QSm14WU4za2pMNUljOFJOYWZaeFM3MjBqRE1nUEVaeFpHYWt1N3I1WjRjNmlISVRQSE51enh5cGVsUmtWeDlQbm1yY284Ym5reEQ1YWp0V1ljdzdwWFI3Q0MyXzQzc291MlltOU13UWJpV0RSeXlaR2J6c0hmWkNlcUNXeU90SC1xNkc5elA1OElGN0hlNVBSb3NObUIwTm9LRUZaWjVXWGdIWHpOVUR3ZzE4VQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Rajasthan records plantation of 14 crore trees: Forest Minister tells MP Amraram, 'Over one billion trees p... - Bhaskar English",
-        "source": "Bhaskar English",
+        "headline": "Students, CJP hold torch march in Sikar over NEET paper leak - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQUVdqUGdLTUkxUGlJdEZLTl91aDNvQ0E2aFg5SlpTdDZnSlRIZml0RmdiS21KUWtsUkFjdlNZSHNVLW9lMEFOX3lfa0M4bXBuUjM3NWVrNHFkY3B2dXZwMEdhQkxMVGZUeW9SOG42aTNjNkQ5aFkzN2NTZkJ0aURMWjlDQXA0TkliQ01zbTNuNFpZZk1HaXduSHRoc2kxQW9QM2Q5MmhnMnFkSTBLREZwdS1zNlRObWJWdHpLMWdySUZ4VU8yelRwUlBSX1MtY3gzOTczVGJtTzRldEdxV3V6RVc0cks3Wkt5cWNtM0NPdmdLdU5rbkxhbVp6Zl9IdDlFSDFLQll5bm9YdlVLazdfUGk2aVlvZXVDV0NXMElXdHR1YXVXSUJtM3AzZTF1NXB1cGlZb29RYlR2M1BPWlZUaVhRVdIByAJBVV95cUxPc09lTWYyZjhDSkhzNzQ3OFJVR1FjRUNpWl9YbEUxLTk0S1M4ejY4Qkg2Z1l6VlE4eW1DbUlNMWNhLXhwNXQwdm01a09ZQThLWnp1WjhPRmszTHpmcDA0ZEFmZ2RhNk5LU0FTMVA4ai1JRmE4ZTVlb0NiZjRVYlZPaEFzZTdDZWpWYVdMa0xjNGl4Q3djYW0zVGgtUVVaNXVWZHk4TmpJRVY4VjVEOU1pbWJrOHMtbElqWHpKZXJaMjh5THh0YzZfOEkyQm5CcENEYlppQnBhV0ZweEgxWlRILWM3NGpqNGNaVkhNVGZnaUpabE96LUJwWGFMbXF3OGQ0Y1pUQ1EzeWdyNlFfY2dMYUtfV0NhMF9iVXFEVHZRSWtjSmFMempHS2ptSXBRcXE0MXdzRTJES203bUh3MF95TC1CNVBjMjly?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYndwTXdfNTZLUmdhUUstMEd2X2VUS0xzUU1KUGJlTnBqbmphR3hvMFN6U1Nya0xiWi1fSG5VejdHY2ZVeVlkNi1QRTYwMnZIcmtiRGE0OXliZjNlS2tKbDJOY0lNeklYSVZaNUY4U3ZvZkJHUU9DVFN0V2lJal8tQnpEUVh1RHZ6SzA2by1raUxIRVBKQ19FamxtNFhzdzI0TEE4TXNTZGdjRXI5clJKdTJwejh5S1F4MHVpc0E3Nll2RWt5UDhzbUNxcGNzZ9IB0wFBVV95cUxOaWtWUnpwMzNZbi1xczNWa0VoWTViT005QWJaQzZsR3NvV3dwQVZPMFpHSW5IdEpXdHVFLWFEWmx2Unl5ZG5MUmJzVTRfdnRRLUJxZjhLemFDZlBqbnFybTBpZ21lUHFRQnJReEJ5RU1wR1dJT0pRQWU1ZENXdXVSUkRNcmlnQ0x6dVBvWE9uc2FDVE1lSFVzS0MtVFpYOE16bDBUN0NfamZsZjd5WnNFNTRTNVdaSjhEdVRfNkZQWHRMVkxkLWZwR2VjOW5oRFVxcHpJ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -277,19 +366,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Rajasthan: Protest in Sikar against Master Plan; Thousands Take to the Streets - Peoples Democracy",
-        "source": "Peoples Democracy",
-        "severity": "medium",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSG9pRk93YkphSzU2ckczQ2VUWGRJSGFzZTdJelduSG9HYmJYaHRKOXlfa1Nwa2h3MXMyZTc1dWhyS3NDc0lDTXJjY1ZtcGV2aEcwVFB0SXp5T1hnNERZSTBHcG1zWGhTR1R6WjJYMkt3cTZFLTBENmZKelhUSVBxU3NqNlJaWGt2RlhfeWRGMVVkc1JzRVQ4WUd6RzhON0RfMmpmb1ZSWGR2c0k?oc=5",
-        "sentiment": "negative"
-      },
-      {
         "headline": "From Playground To Parliament: Meet Amra Ram Who Joined Student Leftist Politics At The Height Of Emergency - ETV Bharat",
         "source": "ETV Bharat",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN3VsaEV0RktnSDdRUndUcER1QTFjVWd6bFktN2JUUkRlOGlvaWNFWG5idWxvenNHRHJrR3JDVFBnbUZHU2JIMFRjMVc0MGRQUTJoT3RCQ3hESTdnTzdrS2gyc0p2WTZycS00TGM3U0FNNGhTbEhWNl8tMDcwMXhTUVZyNVJ6eGlmSTZHTXBDVXlXMTJSVm9xT3p4VU84X3d0OF95a0xXNGNtX1Rpbmh4RzRXbmVLMy1XdHNnOVliNkZhRldHYUdGbTFjQUVnQmVH0gHWAUFVX3lxTE1Sb3hiUjBEUjN1azlkLWxDeTZvTmFvT0o2V1lNRkZoRUpIVkZNUjNRR2FlR2pCNmZKQkd5UzNjeG1vVjhfVnVfVzBvdmg1QnE1T2hjc2VOTkh5THZFXzFsb1BSM1pCODVMazFKVHpDZnZ6emVpMXRnZktlTTBxVDZmV2pHb0w3R04wRktEdG1aYVVmdm1yclZiZUh2bUVNT0NHR3NmMXhLNkl5YUhwVmFmS3ZpWDhDNGs5N1JZVTVGbWR2YjdJNGUzQ1hsTXRHc1R1S2gxT2c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Only Politics of People's Rights Can Destroy Dictators: Amra Ram - NewsClick",
+        "source": "NewsClick",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWlQ4UEtjSmc0bVJ1LVhjOGpCcS1QV3JiRWJTbXlkd0M4ZFJWLUZydC13UVdCLThnb2huSkhHRW51VjZrLWptemM4MTQyM0FmMnZwbGIwclRkN1hnVEszb1FyYTZNM2VicWhISmJzcEwzU0VpQkt5YnpSZzJCb0gzRVkzdHdERzJ1ODZXa9IBkgFBVV95cUxNT0wzZk9oWTd3NS1RLXYwM3lRZnBZcTZCTDdIcGkxRlRTR1V5ZjNKQXhwVXlyamREUWxLTU4yNFlYSWtDRUxwRG5IMDB1dGRDc1pqWFQ1dnE5TEc1eDhzOGo0aTFnWUVYakgxYmRiZEM5X0lSOU5EUHRjWUVhYjRZNi1XV0ZIajNwMXkzLXV1QlZUdw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -323,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 39,
+    "starred_questions": 11,
+    "unstarred_questions": 28,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 75.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 65.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

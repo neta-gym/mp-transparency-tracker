@@ -4,16 +4,16 @@
     "constituency": "Andaman and Nicobar Islands",
     "state": "andaman and nicobar islands",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 17,
+    "myneta_candidate_id": null,
     "slug": "bishnu-pada-ray",
     "house": "lok_sabha",
     "sansad_member_id": 371,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 73,
+    "age": null,
     "photo_url": "/mp-photos/371.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Andaman and Nicobar Islands",
       "state": "andaman and nicobar islands",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 17,
+      "myneta_candidate_id": null,
       "slug": "bishnu-pada-ray",
       "house": "lok_sabha",
       "sansad_member_id": 371,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 73,
+      "age": null,
       "photo_url": "/mp-photos/371.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:45.467827Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 27439170.0,
-      "liabilities": 302788.0,
-      "net_worth": 27136382.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=17",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:43.760246Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 24.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 3.52,
-      "expended": 0.94,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:10:49.536237Z",
-          "notes": "Official eSAKSHI REST API — Works: 24 recommended, 12 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:25:33.062900Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:53.476324Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:56.848614Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 24,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 6.394557823129252
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:19.976066Z",
+          "fetched_at": "2026-09-02T14:21:54.502763Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "MP Bishnu Pada Ray Seeks Strict Compliance with Land Acquisition Law Before R&R Committee Meeting for Great Nicobar International Airport Project – ANDAMAN SHEEKHA - ANDAMAN SHEEKHA",
+        "source": "ANDAMAN SHEEKHA",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5adVp4Q2ctZkVDTjZYa1F5cmRfSExQSFNYTXRQbjIzYlVFeDhscmJQR0JubGJfX3FYYi1VT0pJcy01TU9NVjFKRndn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Bishnu Pada Ray Calls on New Chief Secretary Gyanesh Bharti, IAS - andamanchronicle.net",
+        "source": "andamanchronicle.net",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2ZuRkFDSTBjaGptVG1yR29NbjlyX0tzeGpfUWE4b1dzZGdZNzhGTERlWmtFYkx1ckpRVldNQzcwam1FV245aHZKVGRGRFpDZC1kZlBfaFc4UUlXUmtZX2ZjbEkzOG1menhLSjFIVjh5SWtCSG0tb2JfNDdEeVU5S1ZaQ3JDRldCc2tMNTg2TG1CLWVaQkZMcFhIWEI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Seeks One-Year Fixed Tenure for Government Employees Posted in Nicobar District - ANDAMAN SHEEKHA",
+        "source": "ANDAMAN SHEEKHA",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTbC05YUo1cGg2SmFhV3NPeFA1QmQ4RWJsaG5YOGRFLTdxb2ZRYm0wTE51aGstUWRRYTlKeFJ4ZFZiRGRQNDd4TldR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Bishnu Pada Ray Urges Compliance With Mandatory Land Acquisition Procedures Before Great Nicobar Airport - nicobartimes.com",
+        "source": "nicobartimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcnp4dk1zbEVYa25vQjZ3TExWVmZKbGxHNjlfakJ0VTh5NFVfRVhfY2tkSlVReFRJNllLc1lNdlpZX1pjM0syOHN6Z2RFdkxfRWdveHBwbmxkNzRqNXNwWHFSNUppbDhycm5EM3hXQ0o0bHZBdW51TTBoYUg2SVo0akYyVWhMeE1lN0x1S0toSzN3QlFwU2JqRFIxM0hEemtRLWRrOURGTDVkckNEYXgwVHN5eWdGNnZ1YnhMUlV1QUVWUU5LYlJfWHl6Qm1JLVVVSTczd1JXUHNkQzRNek1QaDZYb3BUS0oyYVRv0gHrAUFVX3lxTE5yenh2TXNsRVhrbm9CNndMTFZWZkpsbEc2OV9qQnRVOHk0VV9FWF9ja2RKVVF4VEk2WUtzWU12WllfWmMzSzI4c3pnZEV2TF9FZ294cHBubGQ3NGo1c3BYcVI1SmlsOHJybkQzeFdDSjRsdkF1bnVNMGhhSDZJWjRqRjJVaEx4TWU3THVLS2hLM3dCUXBTYmpEUjEzSER6a1EtZGs5REZMNWRyQ0RheDBUc3l5Z0Y2dnVieExSVXVBRVZRTktiUl9YeXpCbUktVVVJNzN3UldQc2RDNE16TVBoNlhvcFRLSjJhVG8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Member of Parliament Reviews Progress of NH-4 Works; NHIDCL Assures Completion within Agreed Timelines - andamanchronicle.net",
+        "source": "andamanchronicle.net",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbkI4SXZzTmZxRW5ZSWxjZGdRRjl2UFdRVWtfYkxwbEt2OFVwREN3aFVtTFhaTzF6TGlPMG5wUmNjTWg3Y1hHMU4tS3pTaDFVaVAxTmRtQW1LOVJQNnp2QnAwcjhBVHpnNzl3eVR6dmVQcmFZMExvMEVLR0lGakRsa3FmeXVSQURtMXM2VXJqOW9wRVRmRUIyOTluZFlHNWZqNUZFSzM5TEpwQldLZ1FFanYwY01yRmF4TWNnM3psUlR5a18zNXFUZ0FWYw?oc=5",
+        "sentiment": "positive"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:58.768810Z",
+    "collected_at": "2026-09-02T14:25:34.044848Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.059621Z",
+          "fetched_at": "2026-09-02T18:38:03.737757Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.059633Z",
+          "fetched_at": "2026-09-02T18:38:03.737780Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.059638Z",
+          "fetched_at": "2026-09-02T18:38:03.737789Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.059645Z",
+          "fetched_at": "2026-09-02T18:38:03.737797Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.059651Z",
+          "fetched_at": "2026-09-02T18:38:03.737808Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.059657Z",
+          "fetched_at": "2026-09-02T18:38:03.737818Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.059661Z",
+          "fetched_at": "2026-09-02T18:38:03.737826Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,44 +335,44 @@
       "neutral": 9,
       "top_headlines": [
         {
-          "headline": "MP Bishnu Pada Ray Writes to BJP State President Anil Tiwari to Push for Central University in A&N - Nicobar Times",
-          "source": "Nicobar Times",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQVZzMVNwNmstU2YxeEQzZkhlVHRtX2pWazBPWE1GMGh4dXRMNU5UV3d6YlQ2MWJrekh2ZmwxUWNpM09rbnNZeHpBSjJhUTBtSGlhUFhERE15TS1KV2NxM2VhVElWcFhTWWZpZVFrbUt6a212V3Npa0ZjSV9RSUM0S3ZVX0hlTVQ4OUhFNGUxZHhtTlhQWU1TaHR4dU11QjFQTzd1UEJVdW9rbDBlVk1qYjV6LVhvMWJDSThxRGJfTXVVUzJTM2RraHhCdnZwX01MTVM1ZERLbkNOQdIB2gFBVV95cUxQQVZzMVNwNmstU2YxeEQzZkhlVHRtX2pWazBPWE1GMGh4dXRMNU5UV3d6YlQ2MWJrekh2ZmwxUWNpM09rbnNZeHpBSjJhUTBtSGlhUFhERE15TS1KV2NxM2VhVElWcFhTWWZpZVFrbUt6a212V3Npa0ZjSV9RSUM0S3ZVX0hlTVQ4OUhFNGUxZHhtTlhQWU1TaHR4dU11QjFQTzd1UEJVdW9rbDBlVk1qYjV6LVhvMWJDSThxRGJfTXVVUzJTM2RraHhCdnZwX01MTVM1ZERLbkNOQQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "MP seeks urgent intervention of Prime Minister and Home Minister on students’ agitation for central university in A&N Islands - ANDAMAN SHEEKHA",
+          "headline": "MP Bishnu Pada Ray Seeks Strict Compliance with Land Acquisition Law Before R&R Committee Meeting for Great Nicobar International Airport Project – ANDAMAN SHEEKHA - ANDAMAN SHEEKHA",
           "source": "ANDAMAN SHEEKHA",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4SFZRcFRiQWVld2QtMEZROHlfUTNsUDFGTllsUVNKTEpPWjdzMjctUGlVbElpLXVOUmkwSWxWd2ljM094OUd5SlZB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5adVp4Q2ctZkVDTjZYa1F5cmRfSExQSFNYTXRQbjIzYlVFeDhscmJQR0JubGJfX3FYYi1VT0pJcy01TU9NVjFKRndn?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "MP seeks Prime Minister’s intervention and High-Level probe into delay, irregularities and substandard PMAY (Urban) Housing Project at Prothrapur - Andaman Chronicle",
-          "source": "Andaman Chronicle",
+          "headline": "MP Bishnu Pada Ray Calls on New Chief Secretary Gyanesh Bharti, IAS - andamanchronicle.net",
+          "source": "andamanchronicle.net",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMGZSU3l1WWNWRmpWVDlyVnpDLVJCdlZMU3VsQW5SNHBESDd5d2oyVldfaF9Id3pxbThkQURtT2JWc21VNEphNnlIbHFhRWxTLWh5OUtUME9kUnJmT1BXclZfc0tGWTBvTU05VEhxa0NkYjNjd3lXc01CS2IwX0RrckZyZUVmQVM1OEk2bnBZeHV4SXlUVDV1cW9PSFRmQmJhQVhnMmFrWk83N0phb2xIUURVTTFvdWFXYkNJdm1mZzBlTmc3SnhqdmFhb25FMlJpTFNXdXh4M0R1UmI1Q2pnWlRkRFpub05VWXZzODRwakZKbWNFSTBKYnJwb0ZRbEl1?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2ZuRkFDSTBjaGptVG1yR29NbjlyX0tzeGpfUWE4b1dzZGdZNzhGTERlWmtFYkx1ckpRVldNQzcwam1FV245aHZKVGRGRFpDZC1kZlBfaFc4UUlXUmtZX2ZjbEkzOG1menhLSjFIVjh5SWtCSG0tb2JfNDdEeVU5S1ZaQ3JDRldCc2tMNTg2TG1CLWVaQkZMcFhIWEI?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "MP Bishnu Pada Ray raises demand in Lok Sabha for fair Compensation and Rehabilitation package for affected families under GNI Project - ANDAMAN SHEEKHA",
+          "headline": "MP Seeks One-Year Fixed Tenure for Government Employees Posted in Nicobar District - ANDAMAN SHEEKHA",
           "source": "ANDAMAN SHEEKHA",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xazkzcWU2SnhWVkhsRmZ2Uk9Qc19jQ2R3V3pERE81cDFFVExVOG41ZE9td1pncURPVW1iU1BHamFWcXRpektHSWFB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTbC05YUo1cGg2SmFhV3NPeFA1QmQ4RWJsaG5YOGRFLTdxb2ZRYm0wTE51aGstUWRRYTlKeFJ4ZFZiRGRQNDd4TldR?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "MP Urges Lt. Governor to Recommend Establishment of Central University in A&N Islands - Andaman Chronicle",
-          "source": "Andaman Chronicle",
+          "headline": "MP Bishnu Pada Ray Urges Compliance With Mandatory Land Acquisition Procedures Before Great Nicobar Airport - nicobartimes.com",
+          "source": "nicobartimes.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMm1ZUWNTV1laMXBOWlA3dmpkSXc4Rmxqc0k5YTZIMURVZ2MtbF8xYTI2QnJ4N2hCcjQyeE5HNDZiNVdXTVBPRDlndkpVZVo0bVVGeER1TURCT0lXODNXUkR0Z1VGTDZLdy1vZ2JTbGJ2b2k5b21Fc0pSZkNyYWZHRnNQdnNsRjRvT3dpekw2Sk1RQndNcFpnWlNZWU1ndHVxTGNoSm1FTlFkSVBjdVlnZVFuRQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcnp4dk1zbEVYa25vQjZ3TExWVmZKbGxHNjlfakJ0VTh5NFVfRVhfY2tkSlVReFRJNllLc1lNdlpZX1pjM0syOHN6Z2RFdkxfRWdveHBwbmxkNzRqNXNwWHFSNUppbDhycm5EM3hXQ0o0bHZBdW51TTBoYUg2SVo0akYyVWhMeE1lN0x1S0toSzN3QlFwU2JqRFIxM0hEemtRLWRrOURGTDVkckNEYXgwVHN5eWdGNnZ1YnhMUlV1QUVWUU5LYlJfWHl6Qm1JLVVVSTczd1JXUHNkQzRNek1QaDZYb3BUS0oyYVRv0gHrAUFVX3lxTE5yenh2TXNsRVhrbm9CNndMTFZWZkpsbEc2OV9qQnRVOHk0VV9FWF9ja2RKVVF4VEk2WUtzWU12WllfWmMzSzI4c3pnZEV2TF9FZ294cHBubGQ3NGo1c3BYcVI1SmlsOHJybkQzeFdDSjRsdkF1bnVNMGhhSDZJWjRqRjJVaEx4TWU3THVLS2hLM3dCUXBTYmpEUjEzSER6a1EtZGs5REZMNWRyQ0RheDBUc3l5Z0Y2dnVieExSVXVBRVZRTktiUl9YeXpCbUktVVVJNzN3UldQc2RDNE16TVBoNlhvcFRLSjJhVG8?oc=5",
           "sentiment": "neutral"
+        },
+        {
+          "headline": "Member of Parliament Reviews Progress of NH-4 Works; NHIDCL Assures Completion within Agreed Timelines - andamanchronicle.net",
+          "source": "andamanchronicle.net",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbkI4SXZzTmZxRW5ZSWxjZGdRRjl2UFdRVWtfYkxwbEt2OFVwREN3aFVtTFhaTzF6TGlPMG5wUmNjTWg3Y1hHMU4tS3pTaDFVaVAxTmRtQW1LOVJQNnp2QnAwcjhBVHpnNzl3eVR6dmVQcmFZMExvMEVLR0lGakRsa3FmeXVSQURtMXM2VXJqOW9wRVRmRUIyOTluZFlHNWZqNUZFSzM5TEpwQldLZ1FFanYwY01yRmF4TWNnM3psUlR5a18zNXFUZ0FWYw?oc=5",
+          "sentiment": "positive"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 11,
+      "starred_questions": 3,
+      "unstarred_questions": 8,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 21.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Andaman And Nicobar Islands: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 27,439,170. MPLADS utilization: 6.4%. Parliament attendance: 90.0%. Questions asked: 11. Debates participated: 4. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:46.060739Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 11. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:03.739279Z"
 }

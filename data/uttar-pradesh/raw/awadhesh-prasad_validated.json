@@ -4,16 +4,16 @@
     "constituency": "Faizabad",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 7190,
+    "myneta_candidate_id": null,
     "slug": "awadhesh-prasad",
     "house": "lok_sabha",
     "sansad_member_id": 5780,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 79,
+    "age": null,
     "photo_url": "/mp-photos/5780.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Faizabad",
       "state": "uttar pradesh",
       "party": "Samajwadi Party",
-      "myneta_candidate_id": 7190,
+      "myneta_candidate_id": null,
       "slug": "awadhesh-prasad",
       "house": "lok_sabha",
       "sansad_member_id": 5780,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 79,
+      "age": null,
       "photo_url": "/mp-photos/5780.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,96 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "C.C. No. 40/12 Thana Inayat Nagar Dist. Ayodhya",
+          "ipc_sections": [
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Additional Chief Judicial Magistrate 3rd Faizabad",
+          "fir_no": "C.C. No. 40/12 Thana Inayat Nagar Dist. Ayodhya",
+          "case_no": "Vaad No. 534/12",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:53.804290Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 52967071.0,
-      "liabilities": 1000000.0,
-      "net_worth": 51967071.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7190",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:53.801362Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 41.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.63,
-      "expended": 6.6,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:50:37.735264Z",
-          "notes": "Official eSAKSHI REST API — Works: 163 recommended, 150 sanctioned, 87 completed"
+          "fetched_at": "2026-09-02T16:58:41.186521Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T16:55:00.548675Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T16:55:00.545015Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 163,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 44.89795918367347
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +144,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T13:58:48.098776Z",
+          "fetched_at": "2026-09-02T16:55:00.543952Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +152,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Ayodhya MP Awadhesh Prasad on Ram Temple donation theft: ‘Govts can influence SITs, HC should oversee’ - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS2phY2pQQ0NjSDE0djNJWXhYWmNtMF8xclFJaHZRODNpZVJfT3ZJalRjSS1QdENwYWRBOWw3djBZeV9IdVZnSHQ0ajF4TnhBTVdfa1hoOENNSUd3TlN3TzA5cFB5RnBZMm9fM2ZGT3JFdTZSUXVyR01RUkdobzhHRTItLWMzQk9BU1kwdmk4RDBJRUU5LW5wT0dfYjV2R2R1dXFCYzQ5clRUZ2h5X3pybldyTGRWSkdoNTlCWlhnQURXWm5VcXh2R0UwNNIB0AFBVV95cUxPTHB1UTZ0YXRnTl9XNUM3QjlJaG9sRUh3Vm0yMFhVYjdRaFhjb1JCdHp5WG9CcFo5WHB3QkZ0dWNudWtiQjZVejRwT3RRQVVXREVnbGFwUzdXQXNycGJPNVVMcTc2ZGVDNk5vcGUwUktZY0taNnhCUTdiYjhPdDBqOWdMTjRSeTlkaWM0ZjV5bTVFX0t2X0R5TTNiWktUeWphV1hXU0lZZGFQcjF1NGNhWnMyUEJ3blpOeXl4am15SGl2b0RUZm4wQ3FGek9fZVZM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "FIR against Rahul Gandhi, two MPs over Parliament protest - Telangana Today",
+        "source": "Telangana Today",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3BianZYWl85akJqXzRjZUNGbmZZMkVkXzNQT1ZQQ2NWM185TUN4ZDRETEljZnBnd2JmNUs0S1dlT0pSdjdtc1BydUVHQ1lHZ1pxT3pPdHlJaFBSSnlqa0Q4bnhPamg1RklONFpVeFRod1NBUWNoZWVkQi1NcFdZZ3FKSTVJamhiOFBn?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "FIR against Rahul Gandhi, Pappu Yadav, Awadhesh Prasad in Varanasi over donation theft skit at Parliament | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbW1oOGp1aUV4ZFNCbG9EZ2JZMzZCWmdPNUR1eTdJMElYaHpxcjFKY2UyRGtTSHRPdHEwUEtyTWJUZGdQOVpZQkdSNjBuUFhfclRDSTB2b0hwdzJVaXNGMEVZTklPaHVDQkIwMkNYLVRhUlUydDF6MzZJR21QU1JIMjJTVnQxcXdGVmszRV9kNF9kVXJENThnZE5Idl9JVEhzMTRUR3o5T2hJYk42eFN5ekdxYkRCeFdHaU9OcHp4MDFLWmhWd2NQemFTM1JKQVE3czg2Y21EYjFMZVdOdGd5NVhQNWpXb1RpWmZ0T3ZNZU9maTktUG5fS05B0gH_AUFVX3lxTE10SEZid3NQanB3VzdMbzM5eEJ2VFB3U2d0cE9rZXVlNEtqRnQzTDdyR0Zyalg3TldxUjY5UUJLVmRGekU3Z3p3ZXV6UVVObHg4aDBrNFFkclp5MU5LXzZHZl82SzhzdEtfMk1LS3RVQkV6cmZyUzJPb3FFZEFiWnFOd1hDZV9RNFRWZ0ZHOEgyT1pVSlB0OXdlRVR1OUhRSmJvRUI3WGJ5RVNQclM0NF9uUDhDbDltY1hPaGgxd3lnaVVyZjdqc1Z4YU5BNU1kWlBNYzBqTU1ZRjBraFdFQ2xBc09Ta2pYcnlpTExHZlR5ZDkyQTQ0MjZvMUp5bWpnZw?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Rahul Gandhi, Pappu Yadav, Awadhesh Prasad booked over Ram temple donation theft skit in Parliament - Livemint",
+        "source": "Livemint",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLUl3bURDT3BoazZ5MlRJYWFuaHdGb1U0dEJIVmdtTGQ2ZjdiOUxGRFE4NnB1cWF5VzM4bUtMSjRRTW5fTXZxZEw4MTNqZkpXWkhSc1FmYlF1eDJhcXMzZ2ZLcFhqdU9ob3JBTjREUGp0VFZzMWh5NWxDSlJPc3VqcTFQOGtDeEVRZDdDa3A5ZWZsQ3pqckxoNzlRN3JqcEExeWcwWm82d09UUV85elJQU080VEtOWlo0NDlwdEZ4MlpiWDZtMWRiTHNJUUxzb3JsODFSdUw4V2lyN0kyMVFIclRkRTNjbE1J0gHuAUFVX3lxTE00NFFtenZLSnJsSEZqWm9SQTN3UGR5YUl3TF9odUxURTM3SjNRNWF2a25RWnZHc25RTHBWZUktSmwtWUNzR3l2amlsNkFzYnFLWXBRczRUbVo2ZDhGa2d3Ujd2cGYzQy1seThLS1lLVV96Q29yMkZIUmlDM0lyUGVOczE2MWptdXdXNnRiX1dpSi1VQVYtM2c5eEJMRzlYZUpZUUJoNzk5bHdGYm5MVFFGT1JwQm10S1JMWXUwT3lkX3lYZEY3d04wOVJNMU1PS2dZYVJSbVFuZ3FPS25RMHBILXRRRzVacmJGdkp1aGc?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "‘Insult to Sanatan Dharma’: Rahul, Faizabad MP, Pappu Yadav booked in Varanasi over Parliament skit - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS1NvRGZKcGU5dEd4NFNqZ1pnSWVGWGlMS0QwaE9kMW5jQlZSbHpSOTlPaFpzZDZsS1F0cGR1RVM1SjZGekJ0MlVqTEtxSHN3Ty1od3F1a1pJQkxzWWtPOTQ5VzUzV0FpQ0RwU3JqSkU4elBIblZ2U0NjV0JpTHcySEhiVmhFWDRFSzJSdEhUbXdSQXBEN19TbUdEVkFWVE1KZDhhTEdfak9zR2NNdXlTY3RqM01VX1FDNkVZSWpRLXUza1ZrM0JzbmZseErSAdMBQVVfeXFMT3FoNnd1ZjFTRDlVOXFNbGZ0RC00c2ZqVTc4T0VBdjdfdEJMUEtoc0FKMWFPbTh1UHlBY2tRQzlRVExmNGUtQ0JJZ0M1OU4zNGhMRzZfRGNJQ2g0eWRUYUVreTRUamlzemN5Nzh3NktqN3lRbVhJMDk4YVNPRHVteGtIS19PZXZxQUpSaWFfTGM1ZnhKMkFIa0VrcEduNGs5RlhsLTd0U3VKZEtHd1BYS2tUZ1A4V1dqNUZaMlJwLWQxOUJfYmJJZmNOWFlOT19wVHJPTQ?oc=5",
+        "sentiment": "negative"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T13:59:07.132974Z",
+    "collected_at": "2026-09-02T16:58:41.187533Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +221,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.272249Z",
+          "fetched_at": "2026-09-02T18:38:10.838341Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +237,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.272258Z",
+          "fetched_at": "2026-09-02T18:38:10.838352Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +253,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.272263Z",
+          "fetched_at": "2026-09-02T18:38:10.838357Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +269,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.272267Z",
+          "fetched_at": "2026-09-02T18:38:10.838362Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +285,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.272272Z",
+          "fetched_at": "2026-09-02T18:38:10.838368Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +301,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.272325Z",
+          "fetched_at": "2026-09-02T18:38:10.838373Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +317,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.272332Z",
+          "fetched_at": "2026-09-02T18:38:10.838377Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +333,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.272338Z",
+          "fetched_at": "2026-09-02T18:38:10.838382Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -294,47 +367,47 @@
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 1,
-      "neutral": 9,
+      "negative": 5,
+      "neutral": 5,
       "top_headlines": [
         {
-          "headline": "SP MP Awadhesh Prasad alleges caste bias after being excluded from Ayodhya flag-hoisting ceremony - Muslim Mirror",
-          "source": "Muslim Mirror",
+          "headline": "Ayodhya MP Awadhesh Prasad on Ram Temple donation theft: ‘Govts can influence SITs, HC should oversee’ - ThePrint",
+          "source": "ThePrint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd0tHM3NvX21zRVMzUUJTSnlvWGJkYlBoQTN5ZHFzY0hmY0dEMUg1czZHZVk5OXVMdDJndEJHaURXaVEtWXk4WTdmRnc5UVZuMmpTVldZbXpMZ0pPSXEwcVRHV096UGYxdmNVTC04SjFOcnJuaUNqaERFRUJJdmE0dG53aFFLd3cteWdUMElOSE9Dc3A2MHgtdUxlOXhVVTlENFpqaWFoLWpBRUZNR1p1UDZZMWJoMTlIRGhhTlpIYTA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS2phY2pQQ0NjSDE0djNJWXhYWmNtMF8xclFJaHZRODNpZVJfT3ZJalRjSS1QdENwYWRBOWw3djBZeV9IdVZnSHQ0ajF4TnhBTVdfa1hoOENNSUd3TlN3TzA5cFB5RnBZMm9fM2ZGT3JFdTZSUXVyR01RUkdobzhHRTItLWMzQk9BU1kwdmk4RDBJRUU5LW5wT0dfYjV2R2R1dXFCYzQ5clRUZ2h5X3pybldyTGRWSkdoNTlCWlhnQURXWm5VcXh2R0UwNNIB0AFBVV95cUxPTHB1UTZ0YXRnTl9XNUM3QjlJaG9sRUh3Vm0yMFhVYjdRaFhjb1JCdHp5WG9CcFo5WHB3QkZ0dWNudWtiQjZVejRwT3RRQVVXREVnbGFwUzdXQXNycGJPNVVMcTc2ZGVDNk5vcGUwUktZY0taNnhCUTdiYjhPdDBqOWdMTjRSeTlkaWM0ZjV5bTVFX0t2X0R5TTNiWktUeWphV1hXU0lZZGFQcjF1NGNhWnMyUEJ3blpOeXl4am15SGl2b0RUZm4wQ3FGek9fZVZM?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Not invited to ‘dhwaj arohan’ because I am a Dalit, says Faizabad (Ayodhya) MP Awadhesh Prasad - The Statesman",
-          "source": "The Statesman",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUVpFZG5PUlV5eFJGdUdVU3dPekk5VDhBSFNKOEl6U3c0Z0tkSVpTb3QyOS1vREdLWi1GZWRGVnFYazBMdmVHa1dYLUs1aTNWTWM0M1k3WE1BZzBCZE4ydlpXaG5qV1dCbEJkYkZEVms0a2ZVOUdraTlyU3huYUpETmpWTTR1OTZnVUh5VlM4alRQTENpcFVVaW01OXVwaWlGTFRoaVZ3YkRyUldEeXgwaHFndmo0cVgzaFpLTVg2TGJUd0JfM2NTT3dLQ0gtSTN0T0xUN0paMNIB3AFBVV95cUxPT3RBR1hnWEZzamtOMGFjaXdvSzVuUElWeWl1U3VhcVBkSjlXaUFBc0dTWjRxTk5nbjlwN2NwRDU2al93dHNDQzRBaDd4Q1l1ZFNPa2lYMnBiWnowdGc3UFBoM29Md1FaRmVXa2hiSnRqWjZfdHZ5eTh5dW1Cd0xLSkUtc2hIcXhjRWFvZjA4OUk1YU9sVXJiT080MDFkRnQydjhoSkU4UEZzR01TeUJZR0dEY3NVSWVobFVzcWVMQUJhMUMwMXhaN0p3ZUhWc3YxQTZQMVczdWRZaTBO?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "‘Inko Dekh Leejiye’: Akhilesh Makes Ayodhya MP Stand, Taunts BJP During Vande Mataram Discussion - ABP News",
-          "source": "ABP News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZDNYVkJjYnFiMENMck5CQ2VuTnZycFpuWmdCZVRZQl9fck1PYXVHSUhaYk41X2h6RFZ1bjg4b0ctNEhNbmRCUy10ZHlFRjlMQnlEc3lVdmxCUDlIbllNSHk5aGZBSV9sWkdEZjJpbC1JN1lqZUlFck9DWE1qalFEeDB1Ri1Tb2tCdjRLMzc3SDRsSmdaU09KZGFMMV94Y0JZYmZTX2ZYRFJZYnluZnRtWE1Pa255ZS1WYXlKRkdvUHA0Zk9BaUtxbHlJNG9Mb2hCTThZSlVlTUF6eGPSAeABQVVfeXFMTWM2ZXZYUm90RTVFbkpxZi1XLUwyMkhTWHBQdGZtVjlZY2I4cGR2emFRYnVqWVlJM1YtRE85THAxNXhfeFEwUXJQaDF5MTd1OXVGUXdTM0NoSTVEQWVFV1FoUWpTQWNudE0yTm4ydjJ0YWFZZjdnSXN0MGUtRkkxdWpqNnBKVmVtdXpjRm4ybGZycWtoRTI1NXpMekNPbWRvXzBCVmlwVW1KOGRzckNyblZVZ2h4bVoycXk5TUNZZU0wbGh2bXNhbjlUZzZja25xV3FfcDh2SEF5WkQ2bE9ZaDY?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Ram Mandir flag-hoisting: SP MP alleges he was not invited; BJP terms charge 'political' - Deccan Herald",
-          "source": "Deccan Herald",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONHRzOThQZ3l0MlVMaVI2X0VHR2MtX0VSSXlna3FoV2NTcHFDMVJNSGNSWDVhOXdRTkI4enlQVnVjei1lbDZzMDNOcV9pTjMwTTBIenlZeXJMYVlSMTcwOHpnMGkzSnRjRTFHNnlfTEN3UWoyM3otaE56cllxT24xWUlWdGlMc29waXBOaVh3M2x4NlRrN0M3eFVDQzRNLTdaRjFFRTI1blNEVnM2ekktSGpQbHctV25PWDBUcV9fQnpGZ1JuUkw2Q0xWY1dGcE0yN1h6MmhtSC0?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Faizabad MP Awadhesh Prasad’s son booked for assaulting man - The Hindu",
-          "source": "The Hindu",
+          "headline": "FIR against Rahul Gandhi, two MPs over Parliament protest - Telangana Today",
+          "source": "Telangana Today",
           "severity": "medium",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMEdRazFVREZmaGR2dHM3NVdwRkUzTUNNNDlTZ3RQNmpTc3JhVDg2Tk9XbG8wcndVNkdsVTIzU09sc0NUVURFSEpvYlZpekduVXUybUhxZWZmVE5na2FDbk9uYnpNZkliUERzblhKb0pXa2tfV2VMd1RIbk8yV2dfcWlyVHdveVZRREY2cmp6ek0yZXRNdThuMXlVTmZjYmtEVkszNmVnbWRaUGg1TFBXd2V1Ym5BTDAxUTRVVEQ3MFRLNzFkUDhGN2hUONIB0gFBVV95cUxObGZhcEJ6N1lNbDI1eHdadUkwRVlYSi1NUkxkWGgySmFSRUZScmxFbU9KWWZwSGVkaTdJcUFKZndKTjRzMUtxX2VzVTRrYS1ta1BoMldhSG44TTlQcnpILVlvOVlOc2RLTVpBejF3UWZQRlpPNTR1cXB3a2xPeEFCdlBqaFVzUUVac01yMVlTSWdrb09KcGZJSHR5dkdmZk5tTTJQWUFQcVZCZHMxOWY0clhNd2Z5YVBuWU02SG1RdGFvQ0NaWVRmLVVMa0RuYkNNelE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3BianZYWl85akJqXzRjZUNGbmZZMkVkXzNQT1ZQQ2NWM185TUN4ZDRETEljZnBnd2JmNUs0S1dlT0pSdjdtc1BydUVHQ1lHZ1pxT3pPdHlJaFBSSnlqa0Q4bnhPamg1RklONFpVeFRod1NBUWNoZWVkQi1NcFdZZ3FKSTVJamhiOFBn?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "FIR against Rahul Gandhi, Pappu Yadav, Awadhesh Prasad in Varanasi over donation theft skit at Parliament | India News - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbW1oOGp1aUV4ZFNCbG9EZ2JZMzZCWmdPNUR1eTdJMElYaHpxcjFKY2UyRGtTSHRPdHEwUEtyTWJUZGdQOVpZQkdSNjBuUFhfclRDSTB2b0hwdzJVaXNGMEVZTklPaHVDQkIwMkNYLVRhUlUydDF6MzZJR21QU1JIMjJTVnQxcXdGVmszRV9kNF9kVXJENThnZE5Idl9JVEhzMTRUR3o5T2hJYk42eFN5ekdxYkRCeFdHaU9OcHp4MDFLWmhWd2NQemFTM1JKQVE3czg2Y21EYjFMZVdOdGd5NVhQNWpXb1RpWmZ0T3ZNZU9maTktUG5fS05B0gH_AUFVX3lxTE10SEZid3NQanB3VzdMbzM5eEJ2VFB3U2d0cE9rZXVlNEtqRnQzTDdyR0Zyalg3TldxUjY5UUJLVmRGekU3Z3p3ZXV6UVVObHg4aDBrNFFkclp5MU5LXzZHZl82SzhzdEtfMk1LS3RVQkV6cmZyUzJPb3FFZEFiWnFOd1hDZV9RNFRWZ0ZHOEgyT1pVSlB0OXdlRVR1OUhRSmJvRUI3WGJ5RVNQclM0NF9uUDhDbDltY1hPaGgxd3lnaVVyZjdqc1Z4YU5BNU1kWlBNYzBqTU1ZRjBraFdFQ2xBc09Ta2pYcnlpTExHZlR5ZDkyQTQ0MjZvMUp5bWpnZw?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "Rahul Gandhi, Pappu Yadav, Awadhesh Prasad booked over Ram temple donation theft skit in Parliament - Livemint",
+          "source": "Livemint",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLUl3bURDT3BoazZ5MlRJYWFuaHdGb1U0dEJIVmdtTGQ2ZjdiOUxGRFE4NnB1cWF5VzM4bUtMSjRRTW5fTXZxZEw4MTNqZkpXWkhSc1FmYlF1eDJhcXMzZ2ZLcFhqdU9ob3JBTjREUGp0VFZzMWh5NWxDSlJPc3VqcTFQOGtDeEVRZDdDa3A5ZWZsQ3pqckxoNzlRN3JqcEExeWcwWm82d09UUV85elJQU080VEtOWlo0NDlwdEZ4MlpiWDZtMWRiTHNJUUxzb3JsODFSdUw4V2lyN0kyMVFIclRkRTNjbE1J0gHuAUFVX3lxTE00NFFtenZLSnJsSEZqWm9SQTN3UGR5YUl3TF9odUxURTM3SjNRNWF2a25RWnZHc25RTHBWZUktSmwtWUNzR3l2amlsNkFzYnFLWXBRczRUbVo2ZDhGa2d3Ujd2cGYzQy1seThLS1lLVV96Q29yMkZIUmlDM0lyUGVOczE2MWptdXdXNnRiX1dpSi1VQVYtM2c5eEJMRzlYZUpZUUJoNzk5bHdGYm5MVFFGT1JwQm10S1JMWXUwT3lkX3lYZEY3d04wOVJNMU1PS2dZYVJSbVFuZ3FPS25RMHBILXRRRzVacmJGdkp1aGc?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "‘Insult to Sanatan Dharma’: Rahul, Faizabad MP, Pappu Yadav booked in Varanasi over Parliament skit - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS1NvRGZKcGU5dEd4NFNqZ1pnSWVGWGlMS0QwaE9kMW5jQlZSbHpSOTlPaFpzZDZsS1F0cGR1RVM1SjZGekJ0MlVqTEtxSHN3Ty1od3F1a1pJQkxzWWtPOTQ5VzUzV0FpQ0RwU3JqSkU4elBIblZ2U0NjV0JpTHcySEhiVmhFWDRFSzJSdEhUbXdSQXBEN19TbUdEVkFWVE1KZDhhTEdfak9zR2NNdXlTY3RqM01VX1FDNkVZSWpRLXUza1ZrM0JzbmZseErSAdMBQVVfeXFMT3FoNnd1ZjFTRDlVOXFNbGZ0RC00c2ZqVTc4T0VBdjdfdEJMUEtoc0FKMWFPbTh1UHlBY2tRQzlRVExmNGUtQ0JJZ0M1OU4zNGhMRzZfRGNJQ2g0eWRUYUVreTRUamlzemN5Nzh3NktqN3lRbVhJMDk4YVNPRHVteGtIS19PZXZxQUpSaWFfTGM1ZnhKMkFIa0VrcEduNGs5RlhsLTd0U3VKZEtHd1BYS2tUZ1A4V1dqNUZaMlJwLWQxOUJfYmJJZmNOWFlOT19wVHJPTQ?oc=5",
           "sentiment": "negative"
         }
       ],
@@ -384,17 +457,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +488,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +515,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 52,967,071. MPLADS utilization: 44.9%. Parliament attendance: 100.0%. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:53.273061Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 100.0%. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.839223Z"
 }

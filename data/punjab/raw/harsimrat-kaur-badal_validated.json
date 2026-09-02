@@ -4,16 +4,16 @@
     "constituency": "Bathinda",
     "state": "punjab",
     "party": "Shiromani Akali Dal",
-    "myneta_candidate_id": 8951,
+    "myneta_candidate_id": null,
     "slug": "harsimrat-kaur-badal",
     "house": "lok_sabha",
     "sansad_member_id": 4433,
     "profile_url": null,
     "canonical_name": "Harsimrat Kaur Badal",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 57,
+    "age": null,
     "photo_url": "/mp-photos/4433.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Bathinda",
       "state": "punjab",
       "party": "Shiromani Akali Dal",
-      "myneta_candidate_id": 8951,
+      "myneta_candidate_id": null,
       "slug": "harsimrat-kaur-badal",
       "house": "lok_sabha",
       "sansad_member_id": 4433,
       "profile_url": null,
       "canonical_name": "Harsimrat Kaur Badal",
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 57,
+      "age": null,
       "photo_url": "/mp-photos/4433.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:00.927061Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 1985183903.0,
-      "liabilities": 544775134.0,
-      "net_worth": 1440408769.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8951",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:51.330835Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 95.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.98,
-      "released": 15.98,
-      "sanctioned": 10.98,
-      "expended": 7.3,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T18:21:39.228376Z",
-          "notes": "Official eSAKSHI REST API — Works: 315 recommended, 310 sanctioned, 114 completed"
+          "fetched_at": "2026-09-02T14:32:21.241317Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:31.228318Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:33.384587Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 315,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 45.68210262828536
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 35.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:43.790427Z",
+          "fetched_at": "2026-09-02T14:27:32.344046Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "SAD MP Harsimrat Kaur Badal accuses Punjab CM Bhagwant Mann, wife of shielding rape accused, alleges mone - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQaUxzOEhmTUlOTlFQN3M2akxUYkw3ZWs3R01rRXFUd1RMWFpKUXpnYkMwLUZLdjNVVDFwVkpraGl1ZlE3WGVOMy1OZmRHYmNXTWE4NnpKR3BhRHg2UmhxMTY1dmhzVlpKN0xsNTRKc2hKTjZueGMtOFZaSUpCQWU1cUVnbV9xeERHTW95WlRKb0JRMEFqVU80VXF3SFZscmg2RTJqLXJzV2NNdGEzQjlDVTNqUndDVWZ3VEpGNFdYSUd5X0NmRG9UVVRsd2w4LVhGZWZWXzMzRTZvMk1mTmk4S0hoNmYzNnhIS3VnUHQ4V0gwUjFpSk92Z2R6SFZzVVdFUy00M2l0Tk5nczVqelRZblprRUdEZjDSAZwCQVVfeXFMT3dVa0tTaGlQWVhnQ2g2eEJVQ3puVW8wY0RXSXloM3FTUVp2ZGI0YzZoNHZqWnNuWEM4Q0hjeTRpNTRaaW1NWVhmYjJVejdaeU5XWWVOOHdBamFqbFNHYmozWVhlYVAycm9aWkwycV9VS2FZVnEycTgxTVRaOG1mNjR5Z05QcTdpbFh3bXI1RjlXLWVHejR4OUhSQ2VFamQ2YkgyeUdmUG9TaWY4YzIzc3dFMWdHVXQtdUhXRWZUTzUxSlJWeXE1WWJZbkZXSnQwNnVCMlFwbVVjV1R6cmdRMnk3aFF5Wk5DdjRSY0FuOVlJNzNlanNuV1BiY0h0amV5cUxReFQ2NDRlQnluZmRZbWtZTldyT1ktSVNaUWQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chandigarh Diary | Harsimrat steps back as Sukhbir returns - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1ROQTBiZll4MkV3Y3d3cTNycDZhRUJsNkN3a0FFek9zbjJqVVpCSk1EcmZWT1Jhbk1WVU80WGJCNVVkcUxOeWtJaHVTdGNPUlc4MEZDaHc3cjB4emN0UzJ5bkJHbVFzVVFsVk9wZmlSRUxfNXVMSzBCZ216Wl9IV0pyNzhCLUZPQkNZNzlJb1V5VkpDbTlmYkdycE5feVFwNHZPMl9VOXhBZ3c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Harsimrat Badal's Cryptic Remark Fuels Akali Dal-BJP Reconciliation Buzz - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmlydGxKSmw3ZXpQOHpVeWNxUUFDWWRWVDJSQk9qU2Z4TTJsMnh6Vi1IZGN0THBEbW5fTjhVV3RfczF5U1FVeDBCTlRuVG5JSE9YNElTQTUwaWxxdEFZdHNzZlZMYkFpcXVYQ0NKYkM5T1pNWjBmZ0kzdnhsQVN3UEVUZ1hETnVqYVpDTjZURlZaeGJ2Q1p5dkUtOU1PSXRGM29QeDAwbWI2OWpvcTY3TtIBuAFBVV95cUxONEQ1S3JkTmJBT09STGttTGFhTFBJY1QxaVVReW1YME1ZV2t2YXVxUTZVY1QtdHo2RmVUVEt2U2s3c3EwN1FmWVR0VE1nRi03OFYwTXE4Tl92bTdlcXJRVFBJUWZ4SDlXeHVyVnRqQlVuWEh5MWdvajFUYXh2Mmw0S29abVR6d3pTb0p3WTd1Ymt0M2xpNUlPYTRjbUlVZVlBbWJCMUdudV9RWmh4NjJBdFJobTBmSHBn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Social math to chemistry, why BJP, Akali Dal face hurdles on road to Punjab alliance - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUVg4MEdyOS05QVhjeDU3STJrLWs4ZGNyMmlRODQyazlhVWVsUDRHV1didU1nRV9jX0xZaXhkNjB3Rkh1X211MW85eU1nTS1Pc1F6UXE3ZGl5SnpZQUdJbXNJeU41bnAzTlc1b25ab2c0NVZiUEJNcFR2YWN3YThLMmpJakR1T0tsemFkdkJjYmtpMjhIaE94dkRhN1NKVTNSRk96Qm8zWkltWGowOXA2dHZnRmdYZkxIdWJZbFdxZk4zUVFuV0ZMT0JTUDFrN3FONHE0TmNJQ0JGd9IB4AFBVV95cUxOTzFVbUVwZ1E0eGw2eWZxcjJiTnlSb3BqRjlQTGRkd1dyVUl6WHY3Y3dBbzFhQ3lHeERmMWZvX3NCX3R2V0Z2V09KMGdQRXFHd1VOTWd1T0RoU1RfNUZkei1FTWdycWhZcEZrUy02TWhjTkZtTm5NVVE1YjRDTm1IZzRQeThJUmRaLTk1LUVrQUtLdUpyM09vYlJLZmVXaHAydnlJRW55Qkd2T3lEWndLcFQzVzhoQjItUFA0NUkzbkFwZmZSc08tdUI1aUxqcjl2dXEwOVdvczctTXBIQm56Ng?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Harsimrat Kaur Badal criticises AAP over Bathinda drug deaths amid video controversy - thenewsmill.com",
+        "source": "thenewsmill.com",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR0dBYk5XeE8wQmZGOHE2eERJeXdIbUVScUNjZ3ZIaXVCSHdQUUtSc0MtZ055emdmZGJ0amU2bTFmOVUyc0FES1JCSFdma1BDVVB1WUNuUjZFTWVuM3E1Yk5VWHFtQXVuSGx0MTdpTThUZzIwdHA5QkVYTDFHMURBWk5KNndseUxaY2V1M2VWVjZUUV9PR3VqajNYWmVENEdRWC1PN21YZDE4bHFlSWxlZVRiaGs1MmZ4?oc=5",
+        "sentiment": "negative"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:07.622470Z",
+    "collected_at": "2026-09-02T14:32:54.246005Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.614398Z",
+          "fetched_at": "2026-09-02T18:38:09.120087Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.614407Z",
+          "fetched_at": "2026-09-02T18:38:09.120098Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.614413Z",
+          "fetched_at": "2026-09-02T18:38:09.120105Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.614418Z",
+          "fetched_at": "2026-09-02T18:38:09.120110Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.614423Z",
+          "fetched_at": "2026-09-02T18:38:09.120116Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.614428Z",
+          "fetched_at": "2026-09-02T18:38:09.120151Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.614432Z",
+          "fetched_at": "2026-09-02T18:38:09.120158Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -278,48 +331,48 @@
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 2,
-      "neutral": 8,
+      "negative": 1,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Harsimrat Kaur Badal raises Chandigarh issue in Parliament, alleges discrimination against Punjab - The Statesman",
-          "source": "The Statesman",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV0I2LXJYeUNOTW44VWFOTmE3bTdxOGpSOUYzejBoQXJnVkpRMmdSYkxuSXpzdE1ldmNhUDNXbWtxMDBJMUdHTzhTb2djQl9rSEROM3lpWGtFaERHbVBsa3RXdGlqTWJHeXJ3dDBteXNXNnR1T040MTBQRmdfMC1lMHBaMF9tNDBYRk5VNlNiTHNZSTdYQXNma1NqS2VtcDBxaTJNZDZsY1BOR0tmb2NieUJuRmF4eS1LSGZSMTRkbWg4LUV5T0VBTHFXYkhkdDJhN3hPSFZwNi1BQWFTRkZBSdIB5gFBVV95cUxQRS1DcnRXSTRpWmFpVmI3alJmT2tVQ3lLVUtvWHdoUkd2OGpQODNoOUM1ekpvdFF4QzdQbzRsZzZMQ0p0ZTEyeGJQOGFXVVFmRzIwejJnYWhzNVFJVGIwV21yeFRBRms5UERncFZpQTlFT19BUktPNFJ5Z3BRemtYd3R0RXAxdFFMWDBCeW1xQUx6b0FhZXJzLThrZEhMOVVramxNNWdFVXV2MEdvZHZrYWQ2NFBldXViV0ZBZno3aGMzTmJLMmpuWkN1TV9Jb1ZLNlpYWWdESkFBWWZwdWV0ckNqY2Y0dw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "MP Harsimrat Kaur Badal seeks judicial probe into Rs 12,500 crore State Disaster Response Fund for Punjab - Babushahi.com",
-          "source": "Babushahi.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tTFFScXJpZUVkbmc0S0RpbUFQSEx4MlV3dUM4bXJkUGRsUTk5eVdKTVBvNlRIcmZPZWRZUWZGR2ozYUp0UGdoM1ZWWjc5eFNDM05RdVFNaVA2QWpMWHc?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "AKali Dal MP Harsimrat Kaur Badal files complaint with National Commission for Women against Punjab CM over alleged derogatory remarks - ANI News",
-          "source": "ANI News",
-          "severity": "medium",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNMm1iYXpBV3lBbGpqdnYxSzlXVzBRdTdjOVBWVWhXdVpsdUljNUFWQ1lETG14ZzRVZFNQalJxX1pGVmtJVnlEbWNDZ2MxTTM0LVU3UTI1VjBudHlzZjhITm5ZbktRdldUQzU0d2U3Y2FlWlBkdlZWMlBTYXB4d0o4MHFlbjl6QVZtYUdhYjhBYlJrZGNaZ2tFQkpFT1ZMX0pZMTZUbWM2aVE4QndJS1dYa2hzZThYWUtZTVhNNEhwaE9zYXhpR1RUOXRKVzN0bHdnbHp4cFVpb3VTY2dRMVhCT184cGcyaW5FUE5oamdqbVRTSFNYY0ZjMnQ2S1dZOE9kRzkzazY0UFFGZzNDczM0TFR4Zk9ic1JGWTFaalNIOA?oc=5",
-          "sentiment": "negative"
-        },
-        {
-          "headline": "Harsimrat Kaur Badal alleges open drug trade in Bathinda, demands Punjab CM Mann’s resignation - The Tribune",
-          "source": "The Tribune",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS01EY3lKbjFBSWZRbXRuYlZqSFpaZlZGRUQzZzF4cEhGbmhBVS10OW5ab1ZGVzJBRFNjeXJfczUtbm5yczBRNmxGb01wclJHQkg4aVZ5NnZvTC1qWVVaQWJhTHo5VXNSR2paaXBKUnk2VGgzbEJEbHJYek9mNjIzYjllUGRpb05QTXZBbFlTSGNXdFJ2aHpWLU1JVEZYbWpveTFlZDZOYURGeWJmZ3Qwc3g1SVdQNmF4RnVEbFhjY3ZxZy1yX2tSVXhiTE51eFJRb3c?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "SAD MP Harsimrat Badal calls for judicial probe into ‘missing’ flood aid in Punjab - The Times of India",
+          "headline": "SAD MP Harsimrat Kaur Badal accuses Punjab CM Bhagwant Mann, wife of shielding rape accused, alleges mone - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ3hxQ3ZJWEJqd0hJOFlCZFBnNHdhVWNxdEpxVUVsUnhOYW91ZVVLZjJ4ZXRTQ2ZBTFB2aVRJcDVrcDRraHpvUmtVWmhXRGhEMFFGVTdCXzRWRjM5S0laZGk1dk1ZOUN4c2VOcjlvd0VIUU4zZTNya2h4QVhzSV9NbGQtN0dsZVRCRjZJcUEyMDBHRkFNeHZxaUxqdzJubllzT2lQVm5WQzZWZkJRQ05aTmRmdVRmVUV1VHNDUEF1b2VaUFl5MTdrTTVmNnBVbTl6WUFTQ0VXWlNLdWtKQ3AxYmJEVEtKUERlUExvTG9sTdIB9AFBVV95cUxOalhBMUNtSkxTZ2dZWUZKWTB2WW5kcHo0YTV5WDZ6RkZYdm1BZFVpWmdYbTkxanJMSE9YS1hVQWkwOV9FN3Q3RTBMU2VvckhWeDJoM0ExWXNYVG9CU0NEWWp6b0x0T0V2cGJ3b3RlUzNsNmhuUXBnWDk5UmxoMTEyb19ORHhlQkhySFJyMkVVSG1yS0dYZ1FzS3ExcXdXeXRBS1Y1Yi1oak51Z3FueGctX1dTQkRjSXAxaGYxbDJNY2UtVkVIcXF5ZXlsMHZzcGhUU1RhRFpGX2xaSnV5OGl1alFjd0pqanBvOUFaQjB6NzNhTnZz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQaUxzOEhmTUlOTlFQN3M2akxUYkw3ZWs3R01rRXFUd1RMWFpKUXpnYkMwLUZLdjNVVDFwVkpraGl1ZlE3WGVOMy1OZmRHYmNXTWE4NnpKR3BhRHg2UmhxMTY1dmhzVlpKN0xsNTRKc2hKTjZueGMtOFZaSUpCQWU1cUVnbV9xeERHTW95WlRKb0JRMEFqVU80VXF3SFZscmg2RTJqLXJzV2NNdGEzQjlDVTNqUndDVWZ3VEpGNFdYSUd5X0NmRG9UVVRsd2w4LVhGZWZWXzMzRTZvMk1mTmk4S0hoNmYzNnhIS3VnUHQ4V0gwUjFpSk92Z2R6SFZzVVdFUy00M2l0Tk5nczVqelRZblprRUdEZjDSAZwCQVVfeXFMT3dVa0tTaGlQWVhnQ2g2eEJVQ3puVW8wY0RXSXloM3FTUVp2ZGI0YzZoNHZqWnNuWEM4Q0hjeTRpNTRaaW1NWVhmYjJVejdaeU5XWWVOOHdBamFqbFNHYmozWVhlYVAycm9aWkwycV9VS2FZVnEycTgxTVRaOG1mNjR5Z05QcTdpbFh3bXI1RjlXLWVHejR4OUhSQ2VFamQ2YkgyeUdmUG9TaWY4YzIzc3dFMWdHVXQtdUhXRWZUTzUxSlJWeXE1WWJZbkZXSnQwNnVCMlFwbVVjV1R6cmdRMnk3aFF5Wk5DdjRSY0FuOVlJNzNlanNuV1BiY0h0amV5cUxReFQ2NDRlQnluZmRZbWtZTldyT1ktSVNaUWQ?oc=5",
           "sentiment": "neutral"
+        },
+        {
+          "headline": "Chandigarh Diary | Harsimrat steps back as Sukhbir returns - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1ROQTBiZll4MkV3Y3d3cTNycDZhRUJsNkN3a0FFek9zbjJqVVpCSk1EcmZWT1Jhbk1WVU80WGJCNVVkcUxOeWtJaHVTdGNPUlc4MEZDaHc3cjB4emN0UzJ5bkJHbVFzVVFsVk9wZmlSRUxfNXVMSzBCZ216Wl9IV0pyNzhCLUZPQkNZNzlJb1V5VkpDbTlmYkdycE5feVFwNHZPMl9VOXhBZ3c?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Harsimrat Badal's Cryptic Remark Fuels Akali Dal-BJP Reconciliation Buzz - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmlydGxKSmw3ZXpQOHpVeWNxUUFDWWRWVDJSQk9qU2Z4TTJsMnh6Vi1IZGN0THBEbW5fTjhVV3RfczF5U1FVeDBCTlRuVG5JSE9YNElTQTUwaWxxdEFZdHNzZlZMYkFpcXVYQ0NKYkM5T1pNWjBmZ0kzdnhsQVN3UEVUZ1hETnVqYVpDTjZURlZaeGJ2Q1p5dkUtOU1PSXRGM29QeDAwbWI2OWpvcTY3TtIBuAFBVV95cUxONEQ1S3JkTmJBT09STGttTGFhTFBJY1QxaVVReW1YME1ZV2t2YXVxUTZVY1QtdHo2RmVUVEt2U2s3c3EwN1FmWVR0VE1nRi03OFYwTXE4Tl92bTdlcXJRVFBJUWZ4SDlXeHVyVnRqQlVuWEh5MWdvajFUYXh2Mmw0S29abVR6d3pTb0p3WTd1Ymt0M2xpNUlPYTRjbUlVZVlBbWJCMUdudV9RWmh4NjJBdFJobTBmSHBn?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Social math to chemistry, why BJP, Akali Dal face hurdles on road to Punjab alliance - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUVg4MEdyOS05QVhjeDU3STJrLWs4ZGNyMmlRODQyazlhVWVsUDRHV1didU1nRV9jX0xZaXhkNjB3Rkh1X211MW85eU1nTS1Pc1F6UXE3ZGl5SnpZQUdJbXNJeU41bnAzTlc1b25ab2c0NVZiUEJNcFR2YWN3YThLMmpJakR1T0tsemFkdkJjYmtpMjhIaE94dkRhN1NKVTNSRk96Qm8zWkltWGowOXA2dHZnRmdYZkxIdWJZbFdxZk4zUVFuV0ZMT0JTUDFrN3FONHE0TmNJQ0JGd9IB4AFBVV95cUxOTzFVbUVwZ1E0eGw2eWZxcjJiTnlSb3BqRjlQTGRkd1dyVUl6WHY3Y3dBbzFhQ3lHeERmMWZvX3NCX3R2V0Z2V09KMGdQRXFHd1VOTWd1T0RoU1RfNUZkei1FTWdycWhZcEZrUy02TWhjTkZtTm5NVVE1YjRDTm1IZzRQeThJUmRaLTk1LUVrQUtLdUpyM09vYlJLZmVXaHAydnlJRW55Qkd2T3lEWndLcFQzVzhoQjItUFA0NUkzbkFwZmZSc08tdUI1aUxqcjl2dXEwOVdvczctTXBIQm56Ng?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Harsimrat Kaur Badal criticises AAP over Bathinda drug deaths amid video controversy - thenewsmill.com",
+          "source": "thenewsmill.com",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR0dBYk5XeE8wQmZGOHE2eERJeXdIbUVScUNjZ3ZIaXVCSHdQUUtSc0MtZ055emdmZGJ0amU2bTFmOVUyc0FES1JCSFdma1BDVVB1WUNuUjZFTWVuM3E1Yk5VWHFtQXVuSGx0MTdpTThUZzIwdHA5QkVYTDFHMURBWk5KNndseUxaY2V1M2VWVjZUUV9PR3VqajNYWmVENEdRWC1PN21YZDE4bHFlSWxlZVRiaGs1MmZ4?oc=5",
+          "sentiment": "negative"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 24,
+      "starred_questions": 7,
+      "unstarred_questions": 17,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 46.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 35.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Low attendance",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Punjab: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 1,985,183,903. MPLADS utilization: 45.7%. Parliament attendance: 35.0%. Questions asked: 24. Debates participated: 8.",
-  "validated_at": "2026-09-02T01:36:51.615159Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 35.0%. Questions asked: 24. Debates participated: 8. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.120843Z"
 }

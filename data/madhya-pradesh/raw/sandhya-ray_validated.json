@@ -4,16 +4,16 @@
     "constituency": "Bhind",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 4175,
+    "myneta_candidate_id": null,
     "slug": "sandhya-ray",
     "house": "lok_sabha",
     "sansad_member_id": 5058,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/5058.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Bhind",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 4175,
+      "myneta_candidate_id": null,
       "slug": "sandhya-ray",
       "house": "lok_sabha",
       "sansad_member_id": 5058,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 50,
+      "age": null,
       "photo_url": "/mp-photos/5058.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:02.281269Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 96772861.0,
-      "liabilities": 11400000.0,
-      "net_worth": 85372861.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4175",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.189654Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 57.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 3.83,
-      "expended": 2.52,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:27:38.565264Z",
-          "notes": "Official eSAKSHI REST API — Works: 127 recommended, 97 sanctioned, 48 completed"
+          "fetched_at": "2026-09-02T14:27:09.431748Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:52.772775Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:56.833268Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 127,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 17.142857142857142
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:28.433369Z",
+          "fetched_at": "2026-09-02T14:21:55.124434Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Sandhya Rai likely to enter Modi cabinet: Move seen to appeal UP Jatav vote bank; Tarun Chugh also set for ... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ3Q0UnpJelVCUDN0TmkzcEppbk01dTJqUzJoMFNQNTU4TVJod2ZsSkxmOXpqcURQcm01bVlNYUhOU2M5UG1CQ1B1Q0s2UmxUcHNiU3ZraXZ6YzA2OVBtc2w2bmRaSDRkRmRIYVAxVGpQZ0xWWEdad3RGektTSkNzcnpLUXktQTBpYzllZ0lkaWFyY1lNcjhjQmF4UGxydGVnTkNhdTY2a2ZBY3FySTRseElMRzNoT1l2a0RBSUllY0M5alBNeUQ1QUNMbEJCejl5ZjgwaHhJQ0FpVWZsWkFLeHFDVdIB6AFBVV95cUxPcjM5ZWFITzJJNGhyQnhuN3JFMU5JM3hrZEpGRHhCQjY0d0c0RVBJNUg2RnJKLTYyVjdmems5TXlEb0NwdTRhdlRIdEQxY1RpaHo3c01paTBfSmtnVFlWRkhxN2pjUFkyRklreUlaVkJYX1pkUk4yS2FQQloyYTRPSXBwVWgwYVRXd3VWOTZhRWRiQUtWZHZQbm5XN3J5dHY0M0V2ZHZ4Yl95MUhnbzdFS0tqbTdLREtFRWJoc2lQUXBvaE5wLUduc0tOZkwybktQTmtLWXZIVEhvZlRLdWJyNU5XcjBUN2pS?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "50 villages in Bhind face displacement crisis: Sand mafia alters Sindh River’s course, widening its banks - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDhMLTQ3RnJPTUNJYTlHWnBGLV9NZlNXUFZOdWVhdnctTENxYkJaRXYybU1nWEMtVjVZU0Y2QW1wNnV1VXBadEpRbnEwOVBjWEFrUElkTmttUEhtLUlETG1QNXhLMlY2S1NIdzl6MDNYcmVMZmFfZkR0aTBwNlNxVmFOQlZlTlh5V1FEcENfSFZ5RGxkdjBQQ01mQ2EwMDJtMWhBWkRlUXE3ay1wdDVaTmIyaGgyZ9IBuwFBVV95cUxPM2d5ejQ2NGZ4OXdnempQS1ZMaDZRZG4zNkhMWDRGRU1kR292UTZwVlR1QnE0NkJ2Mld4OGdtTHYxSnA4aXZieEt3UUNNOTVEVV9BVDQ0TEhNWnBVYjZfWkZvdnZXQzVZOEFaTDB1ZHZXVHFCWF9kUjJwYVpNYTQwdmEwMmZsQmFfLVN3U1JCVkpTWUl1MW5pVjdwRDBwSDJma0NNamY0UVFTZ0I5dWE3TXBwUXlGbk5pNlJF?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bhind (SC) Madhya Pradesh Bharatiya Janata Party - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUEo0ckZiUmgxWlRPZi1CeDRsZDlETUo4OFlaWHB3X2JMSkZhbXBCU1BVT0IzdHh3Yzd2Y2JoR3VUOHV5QkRReU11ZkVweHRqZTRUb1lodUNxMUhhWVQ0Rlh3ejdtRjhxNlY3elhyV202dHBDNkptbU1nc2ZWTVNBMkZGaFpRallucmJ1VlpISGlsVWdmdnExS0NmWjFqTi1hSnYtWXRkTmQwVHhRekROZExtQkU2VzNK?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "6 BJP women candidates elected as Lok Sabha members from MP for the first time in history - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSWptMWV5a0JYb283bl9yc2Z0bFZQZjF0UEl3TnNRbVJXUjIzZnlSTWRmWi1TZ0EzTVpKZWo1U3N2WUJmbHV6OWFPekh3dlpwZXV1cGdHOGo4bHpHdEVaMlZXZ3RWMnU0WHU3TkVqaTJsM04xX1k1c3JIRWh1MFFZWkx3VFlfWnRPRDNXQ2dBMmhsQUdLbzhqaGJ4TUpmUzkyel9GQlZkZTloMVlnSTAwZ0VjcVJ6MmNZLUthQ0tzc2labjhDdVc3a0hzSzJkRWxac3hzNzVzONIB3AFBVV95cUxNMW5vUExwRm5ZRzhQR19NZl9DNjhnaEU2SWJCbXFhWHBVaGlNazNNb2cwS2laTkFQOXBHcGdWNG5tWTdOMHRCb1QwS3V0aUgtQUdBSXQxUUt4TDdiRUUwSnk1S1VlZHZEbGNpcElCU2swTlFPWnJ3cjRCenRIUWdEaW9kcTVQTjNSS2ViRGstWS01bjNRWkJqZkpvdF9FMExsRDl6Z0ZHWW5xc0QyVEJjQ1JfclM3blZybDJvd2had0I3SGQxaFdOaU9PYVBrRnB5blo1THlSMlRDSWR0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - R - sarkaritel.com",
+        "source": "sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXRYVVN2OE9QTHQ0NWdSbklRVjhYbFFkclRfYklCWDl4VlA1MWZWLWpld3pPczdOd3p2QmIwckxYZWh3a3VXNHB6emJFTkN6Q1h5V0dUamlabGQ2TEVlMW9HRWstdmd0ZVhXbEdhTDFKcFBsTWlJbFhZS1VpSzBqYmh2bmZrVXc?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:20:55.534240Z",
+    "collected_at": "2026-09-02T14:27:17.423540Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.029925Z",
+          "fetched_at": "2026-09-02T18:38:07.526117Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.029943Z",
+          "fetched_at": "2026-09-02T18:38:07.526164Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.029951Z",
+          "fetched_at": "2026-09-02T18:38:07.526170Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.029958Z",
+          "fetched_at": "2026-09-02T18:38:07.526176Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.029966Z",
+          "fetched_at": "2026-09-02T18:38:07.526181Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.029974Z",
+          "fetched_at": "2026-09-02T18:38:07.526187Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.029979Z",
+          "fetched_at": "2026-09-02T18:38:07.526191Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.029983Z",
+          "fetched_at": "2026-09-02T18:38:07.526196Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,11 +338,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/@Rayshandhya",
+          "url": "https://x.com/http://www.twitter.com/@Rayshandhya",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/sandhyasumanray",
+          "url": "https://facebook.com/http://www.facebook.com/sandhyasumanray",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:22:28.116224Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -297,6 +375,14 @@
       "negative": 0,
       "neutral": 10,
       "top_headlines": [
+        {
+          "headline": "Sandhya Rai likely to enter Modi cabinet: Move seen to appeal UP Jatav vote bank; Tarun Chugh also set for ... - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ3Q0UnpJelVCUDN0TmkzcEppbk01dTJqUzJoMFNQNTU4TVJod2ZsSkxmOXpqcURQcm01bVlNYUhOU2M5UG1CQ1B1Q0s2UmxUcHNiU3ZraXZ6YzA2OVBtc2w2bmRaSDRkRmRIYVAxVGpQZ0xWWEdad3RGektTSkNzcnpLUXktQTBpYzllZ0lkaWFyY1lNcjhjQmF4UGxydGVnTkNhdTY2a2ZBY3FySTRseElMRzNoT1l2a0RBSUllY0M5alBNeUQ1QUNMbEJCejl5ZjgwaHhJQ0FpVWZsWkFLeHFDVdIB6AFBVV95cUxPcjM5ZWFITzJJNGhyQnhuN3JFMU5JM3hrZEpGRHhCQjY0d0c0RVBJNUg2RnJKLTYyVjdmems5TXlEb0NwdTRhdlRIdEQxY1RpaHo3c01paTBfSmtnVFlWRkhxN2pjUFkyRklreUlaVkJYX1pkUk4yS2FQQloyYTRPSXBwVWgwYVRXd3VWOTZhRWRiQUtWZHZQbm5XN3J5dHY0M0V2ZHZ4Yl95MUhnbzdFS0tqbTdLREtFRWJoc2lQUXBvaE5wLUduc0tOZkwybktQTmtLWXZIVEhvZlRLdWJyNU5XcjBUN2pS?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "50 villages in Bhind face displacement crisis: Sand mafia alters Sindh River’s course, widening its banks - Bhaskar English",
           "source": "Bhaskar English",
@@ -306,35 +392,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Bhind Election Result 2024 - Parliamentary Constituency Map and Winning MP - Maps of India",
-          "source": "Maps of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2JpQndWUHFvc2Y1NU9MVEhxOU1SSE5qV0FZVmRDdU50TWpRNlQxNlM0SnVmdTk1Y0ludDhOaDBLZVl6VmIwdU12NzVsWDFJaC13UnlIX2VxUjlRblZBSE5GYjRiYm1ZVnhONmFpMW44TVE4UEgwNmdOOTRBbzR6WWpEMklidw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "How Sandhya Ray Became The First Female MP From Bhind in Madhya Pradesh - Feminism in India",
-          "source": "Feminism in India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXlscm9JY1BYWk1PZS1DYndvbUhpVXZTdUhwU2Nla1ZHNnBJQms2T3hVMkNXaXowQm1LZEczY3RDc2llUFJrdExPcnBJeFNNUUhjTklHT0VhaGxkbGM1T1hBYUJjOWJDanZGSkRaMW1LUEwzNU9sbE5Obzl6N3VtM1NLT3dmbW9ZNmlFVElJbERQdw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Bhind (SC) Madhya Pradesh Bharatiya Janata Party - The Times of India",
-          "source": "The Times of India",
+          "headline": "Bhind (SC) Madhya Pradesh Bharatiya Janata Party - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUEo0ckZiUmgxWlRPZi1CeDRsZDlETUo4OFlaWHB3X2JMSkZhbXBCU1BVT0IzdHh3Yzd2Y2JoR3VUOHV5QkRReU11ZkVweHRqZTRUb1lodUNxMUhhWVQ0Rlh3ejdtRjhxNlY3elhyV202dHBDNkptbU1nc2ZWTVNBMkZGaFpRallucmJ1VlpISGlsVWdmdnExS0NmWjFqTi1hSnYtWXRkTmQwVHhRekROZExtQkU2VzNK?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Bhind Lok Sabha Election 2024: BJP fields Sandhya Ray against Congress' Phool Singh Baraiya - India TV News",
-          "source": "India TV News",
+          "headline": "6 BJP women candidates elected as Lok Sabha members from MP for the first time in history - The Statesman",
+          "source": "The Statesman",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ25sMFBZeGRxRWJDWmZnOGFmSEMzOXU1X1RST1AwdGwtalFaYjFKTFUyMk9rYW84UjVJSTZSY1ZWNkFtMDhUSEpNZWFIUnVRTHNRR2R1bUZNMGtVTTNwbS13emFlRk9jRG1oWHRta2pwc25vbHJtQm9GVktKcUMtaURKT1ZiMkhBSzdCci1kOHRTaVBnMjB6ck12blQxTTFMQnRrdlpoQ0VWZjRvaGE2V0ZLNGRxOVFnX0VTRlJxYldwcjNiXzBWTm1ubWtDaXlzWEUtalh1NjB3bldlNHhxZHQ5R0JxSF9S0gHuAUFVX3lxTE05U0ZyTlVQTTlVRERfcllzOGlTSXNBN09Gd1kxbUwxRkVONzBVQkVSQ3JENUxvOFVsMS11TUQzcmJhS2VUbUpHMkZlQXBjZmg2S3F5cmhsX2dQX2F6Nzd0RTB2WnRmQndFbllIRXVPQlhzc1Vkd0UxdVIwTzhZTlQ5U2JwNGxwQWIyWTVsWDFLZ0s2RVdkbWVZY1h5cFRWZ2Q4ZGlQM29INUx2c19ETEwtd3dWa00wTVZKSmFVV29PbFRtbnQ0YjRCanhuMHVEclVDM084b3Z6QW9jX1Zpa0tramRUZWRlbU9VNTVJR2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSWptMWV5a0JYb283bl9yc2Z0bFZQZjF0UEl3TnNRbVJXUjIzZnlSTWRmWi1TZ0EzTVpKZWo1U3N2WUJmbHV6OWFPekh3dlpwZXV1cGdHOGo4bHpHdEVaMlZXZ3RWMnU0WHU3TkVqaTJsM04xX1k1c3JIRWh1MFFZWkx3VFlfWnRPRDNXQ2dBMmhsQUdLbzhqaGJ4TUpmUzkyel9GQlZkZTloMVlnSTAwZ0VjcVJ6MmNZLUthQ0tzc2labjhDdVc3a0hzSzJkRWxac3hzNzVzONIB3AFBVV95cUxNMW5vUExwRm5ZRzhQR19NZl9DNjhnaEU2SWJCbXFhWHBVaGlNazNNb2cwS2laTkFQOXBHcGdWNG5tWTdOMHRCb1QwS3V0aUgtQUdBSXQxUUt4TDdiRUUwSnk1S1VlZHZEbGNpcElCU2swTlFPWnJ3cjRCenRIUWdEaW9kcTVQTjNSS2ViRGstWS01bjNRWkJqZkpvdF9FMExsRDl6Z0ZHWW5xc0QyVEJjQ1JfclM3blZybDJvd2had0I3SGQxaFdOaU9PYVBrRnB5blo1THlSMlRDSWR0?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament - R - sarkaritel.com",
+          "source": "sarkaritel.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXRYVVN2OE9QTHQ0NWdSbklRVjhYbFFkclRfYklCWDl4VlA1MWZWLWpld3pPczdOd3p2QmIwckxYZWh3a3VXNHB6emJFTkN6Q1h5V0dUamlabGQ2TEVlMW9HRWstdmd0ZVhXbEdhTDFKcFBsTWlJbFhZS1VpSzBqYmh2bmZrVXc?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +446,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 22,
+      "starred_questions": 6,
+      "unstarred_questions": 16,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 42.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +462,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +493,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +520,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 96,772,861. MPLADS utilization: 17.1%. Parliament attendance: 85.0%. Questions asked: 22. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:50.030986Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 22. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.526975Z"
 }

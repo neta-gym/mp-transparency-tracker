@@ -35,59 +35,73 @@
       "photo_url": "/mp-photos/5666.jpg"
     },
     "criminal_record": {
-      "total_cases": 1,
+      "total_cases": 0,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 1,
+      "pending_cases": 0,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 367731210.0,
-      "liabilities": 12241255.0,
-      "net_worth": 355489955.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 80.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.16,
-      "expended": 4.62,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:27:27.186712Z",
-          "notes": "Official eSAKSHI REST API — Works: 472 recommended, 332 sanctioned, 73 completed"
+          "fetched_at": "2026-09-02T14:31:26.438549Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:17.802972Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:17.800053Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 472,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 31.428571428571434
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:19.754361Z",
+          "fetched_at": "2026-09-02T14:27:17.798909Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "MP: Congress fields Nakul Nath against BJP’s Bunty Vivek Sahu for prestigious Chhindwara Lok Sabha seat - News On AIR",
+        "source": "News On AIR",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUJOSWEydDNDZ1dPRVduUDlzSjF1WVN4T2dIdkdpSWhUMzRwTlJYYjBkcHZIVFZqREEwVURySllLRklYSWw1ZWtwNDY2ZEpSNnVYSWc0d0F1c3A0T201QTFFU2pOSzF1SW43ZTQwckhJUXpVWHY4bUwtZmlMQzZuUjVmYWJWWWNtLXNTbW1qVGVfbXFZVGFIX1AtMXZFbkJQOXI4QUhjRHUzZi1GTFBRVzJaNjJ5WEVMeFZ5SVd2Qk90VldwaFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chhindwara Madhya Pradesh Bharatiya Janata Party - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOF94NGJJWEUtU0F3TkFiUjViZEtFNzh4aktIYkR3b1QyVXlqQng0Tk00VTA3Yy1ubk9Sbm41N3RhelVZTktkRWNyWHplS1F5b1lMVDBnOGRLeU9EZ3VCY1pyQjFwR1NaaS1zV2FabWRIVVFDaEp0VFB3UE1kR3lTeW5iRDc2VUtjT1JLY052MXgtMmxxeWc4Rmx6MGowcUN6eEpkQ29LdkR2d2pnd2kyREtEOWYzSEE3RC1QVEdkbVYzMFR1WUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "After losing to Kamal Nath in Assembly poll, BJP’s Vivek Sahu to challenge his son Nakul Nath in Lok Sabha election - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOcnNQNjhSSGpQdE5mSm9MYkIybFo3aU45WGliSlJTVTU4STJTQTNzUGVMTXRhLTViNzhyUkVzd3dvV1pna096WHVlNlEzbVFkWkN1V3Q1LW81bmhQQlFrX0hsQ0kzZ2ZHT0Zfb3FOVlhpeDk1SVBTNklQWTNUZi1meUtxUmhFRmRIMXh1czN3SXNvVEQ4YlJTcWVJT3BQZXgybGgzY3lsbHI1VzlTc1RURFRsWGpkT1E5bTEzell6MElZU2dkYUlmeVU0NG5aZS1iYTJBTG03WlF1dzc5cWFlSzNZdV9TTXhKRmxjQ0RzaVdZM1h3aTF0d1VjZ2FHSm1XS0tLY1VOdWtSZUNybEl0S29BONIBmgJBVV95cUxPcWtSZktzbFNfUUQ0LTdEVWhIcWRzZTdyWUtXaVJzUmpscmo2alhMLXVBc1UtX2hGS21vTXRKR1AtN3piUzJmUkcwQjhISlZPQndrbFVwS21Rb1AxZElLNWJnMFA4M2oydkxPbVhCTTlsbTlyMmtjZTRxMmUxdnVwWHRzakd6TGlZX190T2ZtUzQ3bTZoYmszRnpsbVZmRV8zclVZcE1TTVJNTFlpX0RDQ1FPVTZ0S0g4MU5TQ3hOZ0F2Ri1fcTRmbExNdWFCRG5ZcF9LYXNGUF9pb0tkMkp6RF9UU3BFRVZSNTdOZkducEk5dkJQdERQZW5uN0pqT3N5X1VGZ184ZUJiaGpMWmJTbkZrbjdheTBCQXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chhindwara slips from Nakul Nath’s hands, as BJP’s Vivek Bunty Sahu secures huge win - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnV5Uy0weklYTmtSRnBkaks3cDVuRERhclAxV3pncndsNGJWSFNrLWhvUV9mV0hvRVhyejFWdDdpZjhfb1BIZTNfai1VYXFDVzVyS0lfYUtLNWJXOHhmY095eVFTR0UzMmVDNlpQUWpWNmI1cTJIM0RiUkd4akE1bW5CbVRLWWZ1QkNOdVZFU2ppa0V5WF84N21QSTJWS2hlY0VjdFVKUDlDai1mYUhyTWw2N0tPUWfSAb4BQVVfeXFMTnFpUzA5VGxqN0hJLXpVblRKRjJEWWYzWWNUaXRPYXMxRU9HM3JOeDMwSjVPTjdDUWMtbWZoQ3Z6UjlFcElhalJ6MENURUpLOUkyb1ZaeVhvdi02d1BwWnhhbndLZWtSb19CbFdITE0tUy1GeER5WTVNekJwcmJvVUQteVc0LWdDSEVPZUQtcDF3NFJaeUI5cU1LRUxpS0hFeHhfWUlQUVpmamFEOEhreXpIZ245Y1d5b2lHaHZqdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Vivek Bunty Sahu - news18.com",
+        "source": "news18.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGJLZkZpQl8xRENGUmZjbnhjSmhESG9PU243QVUzWDZOV3VwWE5zODhZdk1CUUhHdzdWSnBxX1RWLWJZQWxBd3g3dXFqVzNPRWI0VVV6V0NaZlpYUzV2cDNXQzhaYlhEb2VhOWQxWUhOeGZ1X0F5aTJkcHU3azEzZ2JVdjRwSVNNWVBNUW1lYy1lMkhScWIyNGZZV04zT2dHcmFJLTFSVVNrOHFf?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:19.665562Z",
+    "collected_at": "2026-09-02T14:31:26.439761Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.825292Z",
+          "fetched_at": "2026-09-02T18:38:07.305394Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.825301Z",
+          "fetched_at": "2026-09-02T18:38:07.305405Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.825307Z",
+          "fetched_at": "2026-09-02T18:38:07.305411Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.825311Z",
+          "fetched_at": "2026-09-02T18:38:07.305416Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.825316Z",
+          "fetched_at": "2026-09-02T18:38:07.305422Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.825320Z",
+          "fetched_at": "2026-09-02T18:38:07.305427Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.825325Z",
+          "fetched_at": "2026-09-02T18:38:07.305432Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -249,7 +305,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.825329Z",
+          "fetched_at": "2026-09-02T18:38:07.305437Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -274,11 +330,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/kumarviveksahu",
+          "url": "https://x.com/https://x.com/kumarviveksahu",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/Viveksahubjpmp/",
+          "url": "https://facebook.com/https://www.facebook.com/Viveksahubjpmp/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:27:23.275097Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -287,35 +368,27 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Chhindwara Lok Sabha seat: Nakul Nath to face BJP's Vivek Bunty Sahu on Congress turf; voting on April 19 - Dailyhunt",
-          "source": "Dailyhunt",
+          "headline": "MP: Congress fields Nakul Nath against BJP’s Bunty Vivek Sahu for prestigious Chhindwara Lok Sabha seat - News On AIR",
+          "source": "News On AIR",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPakI3dnBCeUpLYXhjYUhjSlJLT1JGN04wZ01EU3QzRFpnNFU3bmRXcnVvS0tlTVcwc0lTNllLSThHcXhtWC1EdUJxOWg2TldWNG54QjJGaXAtVERhVjdJdGFlZ014cGRRVG4way1QZHh3QVM4cUdaLWdVaU9GS191NE02WnRxTkNEa2ZGdTB4eU1uTlpQRUFvXzRfMzdDQURZY2tOWFBPVjZOVzNNaE02dDJnYy0yN1NZTlFYcHpuaTVQTEdNUEY0N0lvRGt5cDh1VEVXQUxhVk9NSHQzLVpPY0ZBeTN3eTVSUWJRR3RvbzBXWklWUXlqdXc3Mld5NFlpZFAwbU5TQWx0VWQwVmcxTGxJMDQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUJOSWEydDNDZ1dPRVduUDlzSjF1WVN4T2dIdkdpSWhUMzRwTlJYYjBkcHZIVFZqREEwVURySllLRklYSWw1ZWtwNDY2ZEpSNnVYSWc0d0F1c3A0T201QTFFU2pOSzF1SW43ZTQwckhJUXpVWHY4bUwtZmlMQzZuUjVmYWJWWWNtLXNTbW1qVGVfbXFZVGFIX1AtMXZFbkJQOXI4QUhjRHUzZi1GTFBRVzJaNjJ5WEVMeFZ5SVd2Qk90VldwaFE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Vivek Bunty Sahu - News18",
-          "source": "News18",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGJLZkZpQl8xRENGUmZjbnhjSmhESG9PU243QVUzWDZOV3VwWE5zODhZdk1CUUhHdzdWSnBxX1RWLWJZQWxBd3g3dXFqVzNPRWI0VVV6V0NaZlpYUzV2cDNXQzhaYlhEb2VhOWQxWUhOeGZ1X0F5aTJkcHU3azEzZ2JVdjRwSVNNWVBNUW1lYy1lMkhScWIyNGZZV04zT2dHcmFJLTFSVVNrOHFf?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Chhindwara Madhya Pradesh Bharatiya Janata Party - The Times of India",
-          "source": "The Times of India",
+          "headline": "Chhindwara Madhya Pradesh Bharatiya Janata Party - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOF94NGJJWEUtU0F3TkFiUjViZEtFNzh4aktIYkR3b1QyVXlqQng0Tk00VTA3Yy1ubk9Sbm41N3RhelVZTktkRWNyWHplS1F5b1lMVDBnOGRLeU9EZ3VCY1pyQjFwR1NaaS1zV2FabWRIVVFDaEp0VFB3UE1kR3lTeW5iRDc2VUtjT1JLY052MXgtMmxxeWc4Rmx6MGowcUN6eEpkQ29LdkR2d2pnd2kyREtEOWYzSEE3RC1QVEdkbVYzMFR1WUE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "MP: Congress fields Nakul Nath against BJP’s Bunty Vivek Sahu for prestigious Chhindwara Lok Sabha seat - Newsonair",
-          "source": "Newsonair",
+          "headline": "After losing to Kamal Nath in Assembly poll, BJP’s Vivek Sahu to challenge his son Nakul Nath in Lok Sabha election - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFI2SElyTURuakdqMGlsNDVZVW1DWi1jcGJCV1cxZGw0ZjdfWER5aU1qNzhmc1dtVVgyaUhZTGpnTXJjUXA3Y2pGX0FRUVl4bjVsYjU1WXZINVY0RVJfd0pjYTBiNWh4dVRxdW1yWXRDdF9FX0t1NTh6OWotUFUwMVdpSkMyaTk3M3NrREJBcHRtc2c5YmNGY3h0RFA0MG01dG1kc2lRY3hZNHZZajhBZzlLb1dhTHlKZE1NclAyLWxicTIwZS16eVg4SQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOcnNQNjhSSGpQdE5mSm9MYkIybFo3aU45WGliSlJTVTU4STJTQTNzUGVMTXRhLTViNzhyUkVzd3dvV1pna096WHVlNlEzbVFkWkN1V3Q1LW81bmhQQlFrX0hsQ0kzZ2ZHT0Zfb3FOVlhpeDk1SVBTNklQWTNUZi1meUtxUmhFRmRIMXh1czN3SXNvVEQ4YlJTcWVJT3BQZXgybGgzY3lsbHI1VzlTc1RURFRsWGpkT1E5bTEzell6MElZU2dkYUlmeVU0NG5aZS1iYTJBTG03WlF1dzc5cWFlSzNZdV9TTXhKRmxjQ0RzaVdZM1h3aTF0d1VjZ2FHSm1XS0tLY1VOdWtSZUNybEl0S29BONIBmgJBVV95cUxPcWtSZktzbFNfUUQ0LTdEVWhIcWRzZTdyWUtXaVJzUmpscmo2alhMLXVBc1UtX2hGS21vTXRKR1AtN3piUzJmUkcwQjhISlZPQndrbFVwS21Rb1AxZElLNWJnMFA4M2oydkxPbVhCTTlsbTlyMmtjZTRxMmUxdnVwWHRzakd6TGlZX190T2ZtUzQ3bTZoYmszRnpsbVZmRV8zclVZcE1TTVJNTFlpX0RDQ1FPVTZ0S0g4MU5TQ3hOZ0F2Ri1fcTRmbExNdWFCRG5ZcF9LYXNGUF9pb0tkMkp6RF9UU3BFRVZSNTdOZkducEk5dkJQdERQZW5uN0pqT3N5X1VGZ184ZUJiaGpMWmJTbkZrbjdheTBCQXc?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -324,6 +397,14 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnV5Uy0weklYTmtSRnBkaks3cDVuRERhclAxV3pncndsNGJWSFNrLWhvUV9mV0hvRVhyejFWdDdpZjhfb1BIZTNfai1VYXFDVzVyS0lfYUtLNWJXOHhmY095eVFTR0UzMmVDNlpQUWpWNmI1cTJIM0RiUkd4akE1bW5CbVRLWWZ1QkNOdVZFU2ppa0V5WF84N21QSTJWS2hlY0VjdFVKUDlDai1mYUhyTWw2N0tPUWfSAb4BQVVfeXFMTnFpUzA5VGxqN0hJLXpVblRKRjJEWWYzWWNUaXRPYXMxRU9HM3JOeDMwSjVPTjdDUWMtbWZoQ3Z6UjlFcElhalJ6MENURUpLOUkyb1ZaeVhvdi02d1BwWnhhbndLZWtSb19CbFdITE0tUy1GeER5WTVNekJwcmJvVUQteVc0LWdDSEVPZUQtcDF3NFJaeUI5cU1LRUxpS0hFeHhfWUlQUVpmamFEOEhreXpIZ245Y1d5b2lHaHZqdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Vivek Bunty Sahu - news18.com",
+          "source": "news18.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGJLZkZpQl8xRENGUmZjbnhjSmhESG9PU243QVUzWDZOV3VwWE5zODhZdk1CUUhHdzdWSnBxX1RWLWJZQWxBd3g3dXFqVzNPRWI0VVV6V0NaZlpYUzV2cDNXQzhaYlhEb2VhOWQxWUhOeGZ1X0F5aTJkcHU3azEzZ2JVdjRwSVNNWVBNUW1lYy1lMkhScWIyNGZZV04zT2dHcmFJLTFSVVNrOHFf?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -357,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 5,
+      "starred_questions": 1,
+      "unstarred_questions": 4,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 9.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -373,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 80.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -404,8 +485,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.21,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -419,12 +518,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 367,731,210. MPLADS utilization: 31.4%. Parliament attendance: 80.0%. Questions asked: 5. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:49.826068Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 80.0%. Questions asked: 5. Debates participated: 1. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.306236Z"
 }

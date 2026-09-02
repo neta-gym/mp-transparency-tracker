@@ -4,16 +4,16 @@
     "constituency": "Murshidabad",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 3377,
+    "myneta_candidate_id": null,
     "slug": "abu-taher-khan",
     "house": "lok_sabha",
     "sansad_member_id": 5052,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 62,
+    "age": null,
     "photo_url": "/mp-photos/5052.jpg"
   },
   "findings": {
@@ -22,80 +22,165 @@
       "constituency": "Murshidabad",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 3377,
+      "myneta_candidate_id": null,
       "slug": "abu-taher-khan",
       "house": "lok_sabha",
       "sansad_member_id": 5052,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 62,
+      "age": null,
       "photo_url": "/mp-photos/5052.jpg"
     },
     "criminal_record": {
       "total_cases": 3,
-      "serious_cases": 0,
+      "serious_cases": 1,
       "convictions": 0,
       "pending_cases": 3,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "101/18, P.S. Nowda, Msd. | Section 25, 27 Arms Act",
+          "ipc_sections": [
+            "341",
+            "326",
+            "307",
+            "114",
+            "34"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Barasat Spl. Court",
+          "fir_no": "101/18, P.S. Nowda, Msd.",
+          "case_no": "G.R.No. 1157/18",
+          "other_acts": "Section 25, 27 Arms Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "G.R. 133/09, Nowda, Msd.",
+          "ipc_sections": [
+            "147",
+            "148",
+            "149",
+            "448",
+            "323",
+            "427",
+            "506",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "2nd CJM at Berhampore, Msd",
+          "fir_no": "G.R. 133/09, Nowda, Msd.",
+          "case_no": "G.R. 1862/09",
+          "other_acts": "",
+          "charges_framed": "Yes",
+          "date_charges_framed": "20 Jan 2017",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "13/2000, PS Nowda Msd | Status- Evidence Stage",
+          "ipc_sections": [
+            "323",
+            "435",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "3rd Court",
+          "fir_no": "13/2000, PS Nowda Msd",
+          "case_no": "GR 229/2001,(Disposed )",
+          "other_acts": "Status- Evidence Stage",
+          "charges_framed": "Yes",
+          "date_charges_framed": "21 Nov 2012",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:27.698651Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 38476131.0,
-      "liabilities": 0.0,
-      "net_worth": 38476131.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3377",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.521315Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 31.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 5.79,
-      "expended": 3.25,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:38.143156Z",
-          "notes": "Official eSAKSHI REST API — Works: 327 recommended, 209 sanctioned, 143 completed"
+          "fetched_at": "2026-09-02T15:25:59.517956Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:22:19.880419Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:22:19.878796Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 327,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 22.10884353741497
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +195,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:35:44.721510Z",
+          "fetched_at": "2026-09-02T15:22:19.878168Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +203,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Murshidabad MPs Abu Taher Khan, Khalilur Rahaman take SIR grouse to CM amid concerns about loss of support base - telegraphindia.com",
+        "source": "telegraphindia.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPeE43MWZxd196czF1OUh5NkE2RmZteS13b29NaWRJc2Q4NEV3SU9KNHZoZENUeThIQ2NZQzZLcDQzVzA4RVdPaTJkM0o3LWp5Vy0zd0E5TGttY1VPZXNFcHIyOUFGUDRIZk9sOHU1YXpPSlp2c1YyUzRxT3YwUXA1R3QzRy1qbC1fWWdwT3BUdF9RbnBqOV91cTdzeHc4a2dkY3ZtX042SVhlX0R0QjV5QWNKTnpBa0RVZzlNYjlBVnUzcXhrWjc1OVpJcFZzWGREeC1wUFJMWjdHM0xMb2t3aHZGVWNRaVFCUlRKRVNnRXpjOE9QdjBMOEJpb3h5eWVwaWxGVVZta3pqTE10NERtUNIBlgJBVV95cUxOVFhLanlkM3daOGVMNFV0cHVxRXZJSFVJT1BqNmRxdmZiUjdqcHBVY1lJSUIxSXdnb2xURi13U3Z3bVM2LUJ2M0NtZ3IyZXI4LVROcTRQOGNVbklBLWVZOGNZMVZPNEVxN3RzbzVpSnE2NXp3cGtDVUs1VDJwYnlfN2RTQWVYQzJtdGZVcFRONU5qaTJaaTd4b29hd2d6bFhNVDREZ19WTUE3VkRjbmFhZ3RrMjdhWWw3WnJkVGx0dW81Y3dEZlozaG1OenJ5eWRDcTZQeEFaMUJWT1JvZHhzeWtkUng1TGt5d1RsaUxuSVJsb216bHk5Y1FsZHZqMGZEcXJzSWpqSzJWUkJVdGNXWlNUM0k5UQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "2 Murshidabad MPs Meet Suvendu Over Loudspeaker Removal, Allege ‘Muslims Targeted’ - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFpVYTk4ZldzdllId0p3cFYxUllzaHItRU8yMVExTVJ5b2dVdUdBcUlMODdTQ3hoLUgwc1VCRWg3YS10emZRSzNDaVVIUkxNNjR2cjVxck1yN191b1FiQ1dWczc5bTdpbGdfMmFSdHh1UkZYazVSWkRHUjUwSGpTZGh2TFN6SEsxcGhsX2ZlNHY0eTlmaHEzVjRIWDFWUkp2cnc5NVZqQ2x4RjVzS1Y5ZmZRbFRKQ21CZGZ0b3QzWGdTOEtTOENsN052a1h6WllQOWxIdndn0gHbAUFVX3lxTFBHejJVSE9VNGRSNkxlTlJrN0NDdjZ4c2ZrUU1NSW1kem9NWVVnY20tUHhWaVllQTZaUGpWM1U0Q3AxdXBLR0RoN1pCam1LTVhvWlRYNk5hRmFscEhHODVKTGRFX2hObHIzQmFZUzhHTEw5eGpDOTFybW85b3ZfbUNtWTg4bVM1LVdnbHYwRHRpX3BBUDZiVTI5emZ6SjhEaXpmQnJoTkJoZ3diYXVfWDd3b3FTN1NhaEZBc083V0hLTkViYmtHaDF6RnhuNExMQ1VSekt5VU1yVWlIaw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Two NCPI MPs meet Bengal CM Suvendu Adhikari amid speculation over political equations - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeElNSFRZbllaME9CVjZ2ajlyd0ZBTkhNWFZrWkczSkdnWVc3M1VfeVpiaVdkdjFtSHF5WFFKc0d5UktKaFBXRjQ0Z1k2YlhfNHlVaGF4U2syUFRqSU5YdkNyRjF3aHM0UkhQMVFQZ0cxRUZRUlEyUmUtQ1J0X0R0UXZzZmM1MWM4c0FTbU5UZVMtXzBXUUhiVDJSODEwSlhucThrcnR6dEhqS0tOTElJZ3BEcXBuT2hoYUZGeXpBcjZnQUdrZ2wtbFFJUmlzNHBockozX21kdEpyMklEekszQlFYUm7SAfIBQVVfeXFMTTJFSWFaQlF0a3AtSjdQcUZ1QWVXaU1zUnh2Q2NiMV9VZXdsdm9QN2VicXB6cUV1WVBiNldPVmtmTVhpT2xVWmJqZklTbXVfNkRpV2FNYjVOTHMxenVra3E2eVpNeDlrLXYzdmR4alR0UWl0Z0FpbnlvNmk3RVItMndhRGJ2RWd4Q2l1dlYtbDB4c2hrczdUQzc3eENsTzZ4RS1VYUphRWpORnRVTlRJeXZvNHpGeDJ5allTOTJNckt4eVFldGgxMnkxOW9tNW51b3BIRDY1blJIVjEzVjVNb2Y2bHhqYzFPNi1meDVGdHpXcWc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TMC-turned-NCPI MP cites Muslim interests, says will not remain in NDA nor join BJP | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVFacVEtNjlOeXBjb1JJNzhOWVJ3QkRUMExWOVUwS0NNaWJiMTJXZGtIYTVRRmc2WU5iQjlKem5jYndaWXNRVThsbDRlak5Bb0ZxMnl6Vm1ZSlhoUWI3NWN3ZDB6dHFiS2ZSbkNKdTdCYkJOU1EtYzBMQkVMZWxpMjJ0UWtCMjZrS1N3YWZkamFfTGRaZG04ak00R3o1YlNLN2pGVU45V2RHa0NoTFJVdG1IT0g3OTJ4VEVCS0RlMUJCdVgxdzAwRmhuazlCaGJ1SHZpWGt2T1BvX1HSAeABQVVfeXFMUDZtY2JyMThVaVhKb1o0RGZOZzVwLURaY0Zra2lyRndzRU5tbnk2Nl9vOFBfSTl0UU1ablhKaHNMWUhvVmZqeFVJSm9QMUVzNjhyYUU1b1JSbFZ5YTh1VzBUclB1R1VXdmJVeDBQaURFSWJlaWJHOGppWUtqeGpmTjdZRmplN1ZBNzdPRzVCVHJGM3RJbm8tY2tZWlhUWFh0ZWZLVFMyM0lHM3dhNWx3bFIwazhiWm9tNVFmeHJuU3ZvVDN2S3M2YW9YSjRGak5mVG8yR2RKVG5PWlUxWTc4a2k?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "2 NCPI MPs ‘want to rejoin TMC’, another ‘in talks’ - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2I4NWxVZWItTVNoUDNvUnR2T2Y2UGRsMDdVSjQwamtmdFZJbHZ4NEdyeDFNaURoY0w4ZDViREN1OWV1aXNnREpqNzFxNTVkdXFaY2cxTmVGNVRPZnl2TllHVV9oLThHN1hZbnN5TWFwdzNydkhOZ3Fta0hGSVAwMnA4QTlfbXJqbWx4NUJKaTlTNnppNmZlcGYwcWhxTDZYaW9GQlZnYkcxVHhIUmJHM2RfN1NwbFpISVRDQkh30gHDAUFVX3lxTE40VXJQcEFsaHVvYk9Md3VlRjlFTTNhTVRZZkNURktESzViek5OcEFsRmtIbjJOVmtybUlnbE1faTJOSmdiV3VhZHdVSTZabDg2WFBtSkdXV09Sdl9hemJNQXhVaU9CMjY5TmZqaHBXdjdTcVY5aW9JNndJY3RyMFBnakt3NFlTNW5Oc2RPSUZXbThDSW0zenQ5dDhGU3lFaTFGVEZyWElZZk9aSC1EUGEtb3JTNVNGVXRzLUxwQks5MnJ3cw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:36:12.768383Z",
+    "collected_at": "2026-09-02T15:25:59.518567Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +272,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.510958Z",
+          "fetched_at": "2026-09-02T18:38:12.115047Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +288,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.510967Z",
+          "fetched_at": "2026-09-02T18:38:12.115058Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +304,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.510972Z",
+          "fetched_at": "2026-09-02T18:38:12.115064Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +320,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.510976Z",
+          "fetched_at": "2026-09-02T18:38:12.115069Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +336,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.510982Z",
+          "fetched_at": "2026-09-02T18:38:12.115076Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +352,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.510986Z",
+          "fetched_at": "2026-09-02T18:38:12.115080Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +368,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.510991Z",
+          "fetched_at": "2026-09-02T18:38:12.115086Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,43 +406,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "\"Hope he does good work for Bengal\": TMC MP Abu Taher congratulates Suvendu Adhikari on becoming West Bengal CM - ANI News",
-          "source": "ANI News",
+          "headline": "Murshidabad MPs Abu Taher Khan, Khalilur Rahaman take SIR grouse to CM amid concerns about loss of support base - telegraphindia.com",
+          "source": "telegraphindia.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWWswVmNEbEtlRy1manlGWXktS3RMdVI0NUwwODk5bnpZM0pzQUxEQWVlbDg4d1JTenQxZm5QQXQxTV9uNDduaGFjMUtJbXY5anV2ZjYtQS02Sm96MWxXRDFEbnNrT2RsdmdjRFFUd3Q0bXpxdjdZN2EzYm43Smc2Vl9FVmJiMmlFS0ZqZVE3ZVlJX3RLbW5SMk5MdjhNSHRLRUJhdXBkTWE3SS1BeC1hNWNJNnRIOV93ZXNDRjlQSmJTbGZzYmtNU1FZZ1FCWC1GTzRIVl9hZ3F1OVV2aVBZYzRVaGhtN0lzaC1sbU5yVC1OYVl4bWl1X2o2b21OSFlXWVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPeE43MWZxd196czF1OUh5NkE2RmZteS13b29NaWRJc2Q4NEV3SU9KNHZoZENUeThIQ2NZQzZLcDQzVzA4RVdPaTJkM0o3LWp5Vy0zd0E5TGttY1VPZXNFcHIyOUFGUDRIZk9sOHU1YXpPSlp2c1YyUzRxT3YwUXA1R3QzRy1qbC1fWWdwT3BUdF9RbnBqOV91cTdzeHc4a2dkY3ZtX042SVhlX0R0QjV5QWNKTnpBa0RVZzlNYjlBVnUzcXhrWjc1OVpJcFZzWGREeC1wUFJMWjdHM0xMb2t3aHZGVWNRaVFCUlRKRVNnRXpjOE9QdjBMOEJpb3h5eWVwaWxGVVZta3pqTE10NERtUNIBlgJBVV95cUxOVFhLanlkM3daOGVMNFV0cHVxRXZJSFVJT1BqNmRxdmZiUjdqcHBVY1lJSUIxSXdnb2xURi13U3Z3bVM2LUJ2M0NtZ3IyZXI4LVROcTRQOGNVbklBLWVZOGNZMVZPNEVxN3RzbzVpSnE2NXp3cGtDVUs1VDJwYnlfN2RTQWVYQzJtdGZVcFRONU5qaTJaaTd4b29hd2d6bFhNVDREZ19WTUE3VkRjbmFhZ3RrMjdhWWw3WnJkVGx0dW81Y3dEZlozaG1OenJ5eWRDcTZQeEFaMUJWT1JvZHhzeWtkUng1TGt5d1RsaUxuSVJsb216bHk5Y1FsZHZqMGZEcXJzSWpqSzJWUkJVdGNXWlNUM0k5UQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Poll violence in West Bengal: Crude bombs hurled in Murshidabad, several injured - The Times of India",
+          "headline": "2 Murshidabad MPs Meet Suvendu Over Loudspeaker Removal, Allege ‘Muslims Targeted’ - Deccan Chronicle",
+          "source": "Deccan Chronicle",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFpVYTk4ZldzdllId0p3cFYxUllzaHItRU8yMVExTVJ5b2dVdUdBcUlMODdTQ3hoLUgwc1VCRWg3YS10emZRSzNDaVVIUkxNNjR2cjVxck1yN191b1FiQ1dWczc5bTdpbGdfMmFSdHh1UkZYazVSWkRHUjUwSGpTZGh2TFN6SEsxcGhsX2ZlNHY0eTlmaHEzVjRIWDFWUkp2cnc5NVZqQ2x4RjVzS1Y5ZmZRbFRKQ21CZGZ0b3QzWGdTOEtTOENsN052a1h6WllQOWxIdndn0gHbAUFVX3lxTFBHejJVSE9VNGRSNkxlTlJrN0NDdjZ4c2ZrUU1NSW1kem9NWVVnY20tUHhWaVllQTZaUGpWM1U0Q3AxdXBLR0RoN1pCam1LTVhvWlRYNk5hRmFscEhHODVKTGRFX2hObHIzQmFZUzhHTEw5eGpDOTFybW85b3ZfbUNtWTg4bVM1LVdnbHYwRHRpX3BBUDZiVTI5emZ6SjhEaXpmQnJoTkJoZ3diYXVfWDd3b3FTN1NhaEZBc083V0hLTkViYmtHaDF6RnhuNExMQ1VSekt5VU1yVWlIaw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Two NCPI MPs meet Bengal CM Suvendu Adhikari amid speculation over political equations - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeElNSFRZbllaME9CVjZ2ajlyd0ZBTkhNWFZrWkczSkdnWVc3M1VfeVpiaVdkdjFtSHF5WFFKc0d5UktKaFBXRjQ0Z1k2YlhfNHlVaGF4U2syUFRqSU5YdkNyRjF3aHM0UkhQMVFQZ0cxRUZRUlEyUmUtQ1J0X0R0UXZzZmM1MWM4c0FTbU5UZVMtXzBXUUhiVDJSODEwSlhucThrcnR6dEhqS0tOTElJZ3BEcXBuT2hoYUZGeXpBcjZnQUdrZ2wtbFFJUmlzNHBockozX21kdEpyMklEekszQlFYUm7SAfIBQVVfeXFMTTJFSWFaQlF0a3AtSjdQcUZ1QWVXaU1zUnh2Q2NiMV9VZXdsdm9QN2VicXB6cUV1WVBiNldPVmtmTVhpT2xVWmJqZklTbXVfNkRpV2FNYjVOTHMxenVra3E2eVpNeDlrLXYzdmR4alR0UWl0Z0FpbnlvNmk3RVItMndhRGJ2RWd4Q2l1dlYtbDB4c2hrczdUQzc3eENsTzZ4RS1VYUphRWpORnRVTlRJeXZvNHpGeDJ5allTOTJNckt4eVFldGgxMnkxOW9tNW51b3BIRDY1blJIVjEzVjVNb2Y2bHhqYzFPNi1meDVGdHpXcWc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "TMC-turned-NCPI MP cites Muslim interests, says will not remain in NDA nor join BJP | India News - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVFacVEtNjlOeXBjb1JJNzhOWVJ3QkRUMExWOVUwS0NNaWJiMTJXZGtIYTVRRmc2WU5iQjlKem5jYndaWXNRVThsbDRlak5Bb0ZxMnl6Vm1ZSlhoUWI3NWN3ZDB6dHFiS2ZSbkNKdTdCYkJOU1EtYzBMQkVMZWxpMjJ0UWtCMjZrS1N3YWZkamFfTGRaZG04ak00R3o1YlNLN2pGVU45V2RHa0NoTFJVdG1IT0g3OTJ4VEVCS0RlMUJCdVgxdzAwRmhuazlCaGJ1SHZpWGt2T1BvX1HSAeABQVVfeXFMUDZtY2JyMThVaVhKb1o0RGZOZzVwLURaY0Zra2lyRndzRU5tbnk2Nl9vOFBfSTl0UU1ablhKaHNMWUhvVmZqeFVJSm9QMUVzNjhyYUU1b1JSbFZ5YTh1VzBUclB1R1VXdmJVeDBQaURFSWJlaWJHOGppWUtqeGpmTjdZRmplN1ZBNzdPRzVCVHJGM3RJbm8tY2tZWlhUWFh0ZWZLVFMyM0lHM3dhNWx3bFIwazhiWm9tNVFmeHJuU3ZvVDN2S3M2YW9YSjRGak5mVG8yR2RKVG5PWlUxWTc4a2k?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "2 NCPI MPs ‘want to rejoin TMC’, another ‘in talks’ - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQczVUclNuMlNIeEdFQkx2RlBZX1VZTHFBTVlRSUM3TElrVkdPRVhiaGVQVl80ejBfVGpZWWQzNUMxSXdxMmZqR1RhYzdOQWRDdjFBWXpkSFU0QXh4LS14VE82TmV3SjRGS0tfRjBUQXJZdFB2Y3IwN3ozZUZjUE5qUmxzLUM0X0w5YlhSa3BCZGNmLTZFUm1lVTZaeXMwYkJPSWlWLXlkN0lGdy1iek0yYnpIMXVZRDJjYVotb1NPTnh2X0hDUUl1MDh0c01iUUxkUlQ3bDRFR0hWWkxGNjVTc294LUFSUlN60gHuAUFVX3lxTE9IUFh0MW1xenQ3QlN5aGpLZXpLZm90dVNkbGQyNkpOTVNfaTdOd0F1MHFJdUsxTUNtY2QtdW01OG5MN0FkNlhISUpjM1UtbUtPWDVKS0NuTV9EbGh4bU04Qmg4ZkcxOGoyWFN4Y2FJcjFWanZUVC1YaldRT04xMTBoaVZNWXJ3UnFwWTdDb2FNX3g3VnZtNS1lWGZHcGt1TEdQQTE1RmRCQlM0cDI2WE5UbHROU2I2dHp6TUxlTGNWeHpOZUxFMGJja3B0QTZiMXIwRVRwbVI5SEEzQmpUT2lNWElMWWtVT292WTcweFE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Lok Sabha 2024: Know your MP — Abu Taher Khan, Murshidabad - Citizen Matters",
-          "source": "Citizen Matters",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjhUYlgwNTY2dGxGbHdHeWxIQUhwUTc3UmRiZFlydWV2VmtwSHlad0E1QkVjRS1GaVpmdFlxSndnV2JCVk1CTHFscll1dzBVb1lsUkZCMGQ0VXNaa3BqeUpjWFRreTNhYi13SGk0TmNzUVpSaTVLUkNYSVNaS2luWEgxbDR4cnFn?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "TMC leaders claim aggressive Ravneet Singh Bittu pushed Abu Taher in Lok Sabha - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekEyLWV6NXFyTV9ncXdJNFRrTi1vaWJRR0w4eTFiQXJaMUM1V29zdFB4Z1J1cnZSQUZVdGVBR25vc2hROWJmYV9aRFY5VUpRbE0xQ3pzalQ5UnFJaGU3d0kyckFjUlVRVlE2RGZ2dlRlaHZDNVZvd1pkemwyc2pIMDAtZDlIRDYxc1NOaEdrOGVadThxT2tITDZUUGltSW1rem1WWUhRWHUyZmhmS2NfUDV2UmtwY0M3OHJUOFNnTHRXcGQ2SGhCckUtMUJsNGpKWVlr0gHaAUFVX3lxTE5WZmJlTF90UTJnNEtYNmJOYUVld2U2MU5NRGRUZVoyUWhnN2gtZ2VPTThvd200X3pxTEUzLU53YmVsV3lqYXBfR3BReEFBT3FaenFLaW5KU1dHT1pkbkFoZUlDa0dpYXBKVzZWeDBBcEk3bHJTVGRZOUVNTi1zeUZ3a21tWFN1aWJNbjhpM2NPT1VTY1VLb0ZCQUJ1Z3NFVXNxTmFnMi0tZGZmRFRWY0hPVTNYeHM4WDFNczZGVmkyM1lGdHlzNk15X2F1TGhfU0g2NkxuT1JmaUNR?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Lok Sabha MP Abu Taher Khan’s speech on The Waqf (Amendment) Bill, 2025, as Reported by Joint Committee and The Mussalman Wakf (Repeal) Bill, 2024 - AITC",
-          "source": "AITC",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOHZVSTFHc0pWeTZSa1lacU93RzBsZE5jMXJTR1dIQ3dqQlBkaERsNmppZ0RKR21YWFVPWUFkRC1SSjdqekZVMDNibkVWOEZrM0tYYjV5NEJVam9FXzF5Qk9XZko4aGx0cDZVendRbF9lU1p1RTBaLWZ6d0FKTVFvMGFKYzEtcXltODBLMjk2ZnNBR0tqUks2UDB0WkJsUDhLbVNlU2U5aVRzRXV1MjUxNENSejRnVzJFTG9paWwwMS1TSjdkZzllN0U3aWdRekI0TVE0bkpReVJISUduM1VWS01nYnZ6OWpCTk95YVJuZ2hvT1lfdkNn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2I4NWxVZWItTVNoUDNvUnR2T2Y2UGRsMDdVSjQwamtmdFZJbHZ4NEdyeDFNaURoY0w4ZDViREN1OWV1aXNnREpqNzFxNTVkdXFaY2cxTmVGNVRPZnl2TllHVV9oLThHN1hZbnN5TWFwdzNydkhOZ3Fta0hGSVAwMnA4QTlfbXJqbWx4NUJKaTlTNnppNmZlcGYwcWhxTDZYaW9GQlZnYkcxVHhIUmJHM2RfN1NwbFpISVRDQkh30gHDAUFVX3lxTE40VXJQcEFsaHVvYk9Md3VlRjlFTTNhTVRZZkNURktESzViek5OcEFsRmtIbjJOVmtybUlnbE1faTJOSmdiV3VhZHdVSTZabDg2WFBtSkdXV09Sdl9hemJNQXhVaU9CMjY5TmZqaHBXdjdTcVY5aW9JNndJY3RyMFBnakt3NFlTNW5Oc2RPSUZXbThDSW0zenQ5dDhGU3lFaTFGVEZyWElZZk9aSC1EUGEtb3JTNVNGVXRzLUxwQks5MnJ3cw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +476,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 12,
+      "starred_questions": 3,
+      "unstarred_questions": 9,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 22.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +492,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +523,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +550,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 38,476,131. MPLADS utilization: 22.1%. Parliament attendance: 100.0%. Questions asked: 12. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:54.511705Z"
+  "cross_reference_notes": "Has 3 criminal case(s) (1 serious), 3 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 12. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.115795Z"
 }

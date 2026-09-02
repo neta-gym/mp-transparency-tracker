@@ -3,24 +3,22 @@
 **Constituency:** Thrissur, Kerala
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 65
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 41.6 / 100
+## Composite Transparency Score: 47.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 6.7 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -28,34 +26,43 @@
 ## Criminal Record
 
 - **Total Cases:** 4
-- **Serious Cases:** 0
+- **Serious Cases:** 1
 - **Convictions:** 0
 - **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 2131/23, Town East Police Station Thrissur (Sections: 141, 147, 283, 149) [pending] 
+2. 1277/23, Nadakavu Police Station Kozhikode (Sections: 354, 119A) [pending] 
+3. CBCU-II EKM CR327/CR/STATS/TVPM/2017
+CBCID-TVPM | Section 40 MV ACT (Sections: 420) [pending] **SERIOUS**
+4. CBCU-II EKM 
+CR327/CR/STATS/TVPM/2017
+CBCID/2017 | Section 40, r/w 177 MV Act (Sections: N/A) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 18.58 Crore
-- **Liabilities:** Rs 1.29 Crore
-- **Net Worth:** Rs 17.29 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 1
-- **Utilization Rate:** 8.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +76,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/thesureshgopi?lang=en](https://x.com/https://x.com/thesureshgopi?lang=en) | No | Yes |
+| Facebook | [@https://www.facebook.com/ActorSureshGopi/](https://facebook.com/https://www.facebook.com/ActorSureshGopi/) | No | Yes |
+| Instagram | [@https://www.instagram.com/sureshgopi/reels/?hl=en](https://instagram.com/https://www.instagram.com/sureshgopi/reels/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,31 +96,43 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- AIIMS in Thrissur possible only if Keralam govt provides land: Suresh Gopi - ThePrint (ThePrint) [neutral]
+- BJP protests not informing Thrissur MP Suresh Gopi about national highway review meeting in Kerala - The Hindu (The Hindu) [neutral]
+- AIIMS in Thrissur possible only if Keralam govt provides land: Suresh Gopi - Press Trust of India (Press Trust of India) [neutral]
 - Criticism rises against Suresh Gopi as BJP vote share declines in Thrissur - The New Indian Express (The New Indian Express) [neutral]
-- Kerala election 2026: CPI(M) slams Suresh Gopi’s MP tenure in Thrissur as ‘total failure’ - The Hindu (The Hindu) [neutral]
-- BJP’s Kerala story missing its lead actor: Suresh Gopi nowhere to be seen in Thrissur poll campaign - ThePrint (ThePrint) [neutral]
-- Suresh Gopi under fire as BJP reviews vote share decline in Thrissur assembly segments - Dailyhunt (Dailyhunt) [neutral]
-- Jolt for Kerala’s first BJP Lok Sabha MP Suresh Gopi as HC strikes down key objection - The News Minute (The News Minute) [neutral]
+- BJP MP Suresh Gopi moves his vote for the second time, Opposition slams him - The News Minute (The News Minute) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **AIIMS in Thrissur possible only if Keralam govt provides land: Suresh Gopi - ThePrint** (ThePrint)
+- ! **BJP protests not informing Thrissur MP Suresh Gopi about national highway review meeting in Kerala - The Hindu** (The Hindu)
+- ! **AIIMS in Thrissur possible only if Keralam govt provides land: Suresh Gopi - Press Trust of India** (Press Trust of India)
+- ! **Criticism rises against Suresh Gopi as BJP vote share declines in Thrissur - The New Indian Express** (The New Indian Express)
+- ! **BJP MP Suresh Gopi moves his vote for the second time, Opposition slams him - The News Minute** (The News Minute)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Kerala: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Suresh Gopi has a below-average transparency score of 41.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Suresh Gopi has a below-average transparency score of 47.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 185,815,323. MPLADS utilization: 8.4%. Low confidence data: Parliament activity. 2 warning(s) noted.
+Has 4 criminal case(s) (1 serious), 4 pending, 0 conviction(s). Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -140,7 +172,7 @@ Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -219,8 +251,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Suresh Gopi's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 8.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -238,12 +268,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

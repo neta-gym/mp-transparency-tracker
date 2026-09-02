@@ -4,16 +4,16 @@
     "constituency": "Bijnor",
     "state": "uttar pradesh",
     "party": "Rashtriya Lok Dal",
-    "myneta_candidate_id": 869,
+    "myneta_candidate_id": null,
     "slug": "chandan-chauhan",
     "house": "lok_sabha",
     "sansad_member_id": 5547,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 35,
+    "age": null,
     "photo_url": "/mp-photos/5547.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,137 @@
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "PS Bhopa, Dist. Muzaffarnagar, CC No. 23/2022 | Section 51 Disaster Management Act, Section 3(1) Epidemic Amendment Ordinance 2022",
+        "ipc_sections": [
+          "188",
+          "269",
+          "270",
+          "171H"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "CJ(Ju.D.) Court No. 1 Muzaffarnagar",
+        "fir_no": "PS Bhopa, Dist. Muzaffarnagar, CC No. 23/2022",
+        "case_no": "Vaad No. 28143/2022",
+        "other_acts": "Section 51 Disaster Management Act, Section 3(1) Epidemic Amendment Ordinance 2022",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "PS Khatauli, Dist. Muzaffarnagar, CC No. 37/2017",
+        "ipc_sections": [
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "ACJM Court No. 1 Muzaffarnagar",
+        "fir_no": "PS Khatauli, Dist. Muzaffarnagar, CC No. 37/2017",
+        "case_no": "10848/2017",
+        "other_acts": "",
+        "charges_framed": "Yes",
+        "date_charges_framed": "16 May 2023",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "PS Khatauli, Dist. Muzaffarnagar, CC No. 37/2017",
+        "ipc_sections": [
+          "171E"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "ACJM Court No. 1 Muzaffarnagar",
+        "fir_no": "PS Khatauli, Dist. Muzaffarnagar, CC No. 37/2017",
+        "case_no": "14046/2017",
+        "other_acts": "",
+        "charges_framed": "Yes",
+        "date_charges_framed": "16 May 2023",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:54.658703Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 78426582.0,
-    "liabilities": 2572810.0,
-    "net_worth": 75853772.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=869",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:53.871435Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 51.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.8,
-    "expended": 6.52,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:39.950438Z",
-        "notes": "Official eSAKSHI REST API — Works: 117 recommended, 106 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T16:47:42.186128Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:44:01.558102Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:44:01.555018Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 117,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 44.35374149659864
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +167,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:56:43.639926Z",
+        "fetched_at": "2026-09-02T16:44:01.553940Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +175,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP sounds bugle for 2027 UP assembly polls as CM Yogi Adityanath showers flower petals on Kanwar Yatris, sen - India.com",
+      "source": "India.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPcDFVa3ZuMVprN1pieFlpbmFGSF9KeGVQcnpOQUJ4VlVyelQxWUdBcTVER3MxTVVkcGhIYlpSSlA1WjRYRExWanVWWXByTnZPMk16cW9ETEJ5VkRpXzE3WEluamVWdi1NZDM0dHBxSk9ZVzB2b09Pd3BNaVhjT1psM2tmNWhwVWN2OHExOE50a3ZBUHlfU3RJWDNpTVlCdVVCdWNEMS1GNHktZVJkeTJfaWdYX2lyZDFOelgtTXRoR2ZGUmZFdllWTkNjc2VWaGlrN0lEMVloeExWTWZGb2hrb2VyUWxpYV8yWm16TXljWnB4R0NNV3IxVklMTXVER1NxQkN5OUVKdUVCSVpqQzI0VFlsUXZoQzVvdlpLaVZobUFKU0hyMjJXaFU3YlV3djgxY0dPYWhVUlVLdmh20gHCAkFVX3lxTE9HQTY3ZDBLa2hfVjRvRlJLUjE4WThBNUkzaEtYSlpCSmlqOVByZG9lX052QkQ3UnBKY25iV2trLXM1Zk93cFZUdGluT1lFVVpzXzduS0NmbEpQVUtoXzUzd0lHWEN4TDczUUNXR0RYOGpsc1hOYl9HMlZxektzZ1pXRWZYUDYtTDlxM2hSc3NSZ0pTSFZnX2Y5bFViYkxsMUcxTmo2VjJ2Z182eHI3R3QyTThLcWVuNnpNcGUwdGZKUkJkZmVQWHd4Yno4aFl1ZnVxalM1X0ZwQUhiZDBmV21IOERJUThka1lJZ1YxTjEyUG1vM3NLWXdSbjJKMHozMWYwSkVfSWZlclk0eVhYdUo1RnpVb0dHR3drVXU1Qnh3TjZzekRTei1iMkRzaWxUVzFlbjN0NjdUbWlFZ056ZEpwcGc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP leader made obscene videos of woman doctor: Victim alleges, 'I was drugged and assaulted in hospital'; ... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVprRkRqSkZDY19uRE83b1FEVDRaSGdEc3RLOHNSYy1mR1JjWkFHb3hzVHZXXzJUQzNXUFJZRXVkRmFQVWhhVFFTT3VRSllTSnAwRTJyWGt2TC1nYS1OVnNsT2J2N1ZvTTltNXpWRGoyaVRJNDZsYUNMVzVPZ0kybzlJMTRHN3pjWk5iLXE5OGJnNWFwV3U3RTRFeFR5bS1VbjRfX2VLeTRsMWhEempwMTdqelBvcnFqbGfSAb8BQVVfeXFMTlNRS3pTR0MwS04yUDZxTklCb0h5ekxqbzJWWTZQaFJlRU9iXzZUY0NRSF9wc3hmVXF2dGczOEdHWVNENkxaVHJMTXFsUlp3Y3Y4a0hNMmd1QlBqOGtUdzZtQkJMZ3dkREs5RXJlVm51ZFNiLVd0a2NsWWZ6dWItWktJMWtudkpDdnpxQnBFMk1ON2JhNFhwWEljSHlqeWJUdDlaVEphVzZjampQWk9Za1VwUmtwUE1pVTdkeVl1X3c?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bijnor election results 2024 live updates: RLD's Chandan Chauhan wins with over 4 lakh votes - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWmhjRkpFX0ZhbnVjYVNVS3luZHJjREF3UHMyYkJjbGIwREFqZUdON3YycTBDbHd6WFdYWkE4aFJ5eC1aZ21aQi03YmVfRHJ2QW5ndFBiZUZOR3QyeDI2cnpaSDkzbVVNWXRfbmx5QmY0ZUU5dlBaSml2Q0Q4YjB0Zno2M2xfTVhNeFpwa2N1OWpqbEM0bklaSGlVZjYtc05LOUpyOHlPdzl1NnYtUVdWOVhkVkdFeUU4MnpRLW5CQTVXSDExRVI0dWR0RnZkVl9KU3JUdGZ6ZUEzQVVkUWRoQlMwa1BjeE9EV2hGVEJJbDNNVC1wTndzbm1EX0c4X3NBQlZKYzBWc253RENpanluUXlkczFrRkw0cTNZcW5B0gGjAkFVX3lxTFBrcWdDYlNqMkk5UmpMMW95eTR2QVpxNnhtOEpvZW9iZGkwUFlFdlc5MHFXZjV3UGlwU29Nbm1GTUNRSVpPWUJtSGdsS0ZZSW44elJfVTNoUGJ0Zjc4ejdEU2E5bVhXWloxb0hjX201Z0t6YXNHWnR2M3NNS2N6eFVtanRjOUFJUEl3MDBoU1hvMzk2LVE1WTZxU3lvUHEtbjZKWXlZNE5kblI5VTU4UWxsaDNtYmZGbmRxLWVmOFVkVmwxYmxlb0FTTTRodG03MHZrZDRqNlNBQ0pFUzJSenJHVWVjVlFtNG5VbUt2U0JYU2NkUk1uV3hvSkJ4SC1aYXNZb2N4ektEcENmRWlVaWY3QXRkVUtZQ2NYVmZGdTNJREJMYw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Uttar Pradesh: RLD Announces Lok Sabha Candidates From Bijnor And Baghpat, Here's Brief Political Background Of These Seats - Swarajya",
+      "source": "Swarajya",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMF90LWVBY25IVTFNOHAxM2RJWjJSWWx1aFhhYnFERm5rU1ZyWjVZSUwtNXpJQ05qMWwzR0lmUDZfMGdfYmhiMjNXZTZ0M0hHenhIUGY2M09MYk9UdnE0NktMcDlRc0dBVzdKRGJ2RmNsSGVUdzZKbUpScnNJSFk3MkFlVGFVMWlfTXU1cjlGS24yZFlJSWNGUDRqVk5fRWdZZk92RjVfcFZaT2ZuREhLT3NMWHJES2ljQXhKMms4d2F0cDAyQW50U25BRWtYUUJZZEVyc0hCN2lzY3pzSEgtVm9jMlYteEZScXRN0gH7AUFVX3lxTE5pOEhCM0wyb3o4bGh1V2RQcEotYThYNGthZTRTaUkxRU9jRkk4RzNPUzlGV2ZXLVFwZGFIMzdwMi1FbW5xODdNcUQ5VGg3VFNnT1RVR2h0YnIzZlRXUTJJMVNXYkk2X2ZEb01sZkdJVjN5MjM3OXYtMEsyc0YwR2lJSm1jR3VqRVdlYXVJc2NodHBZa3ZmeTZiWWRIdDVRT0ZDVG1IM2dmWEVpR2lydERLakVWcFhCZVl1a0g0amRBMmtsQTNxTnpUakctam0wYTlyaktMdTBfdDVrNWJJclY2TV90MzJhOGpVOXZNWmtlZlk2bXV4SUpXaG13?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bijnor lok sabha election results 2024: Bijnor Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHE0aUVTUWRPT2tVRFVTUmliRXhkaW1tYW1TRHZ3dnlraUYxWjFrWm14dlFJZWh4ajh0MEZSUmdMQkxaTTlLYUhNbmlVS3poUElGcUZJNjVlY2IyMnNyRktJYU5oQmVQNVZFWEU2cFRIZkVOaFJERWZ5ZThlMmtvYVN6VlNyZGwtNVN0ejZ2eGpiZi1oM0JV?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:57:04.733384Z",
+  "collected_at": "2026-09-02T16:47:42.187443Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +244,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.377325Z",
+        "fetched_at": "2026-09-02T18:38:10.931619Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +260,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.377334Z",
+        "fetched_at": "2026-09-02T18:38:10.931632Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +276,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.377340Z",
+        "fetched_at": "2026-09-02T18:38:10.931637Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +292,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.377345Z",
+        "fetched_at": "2026-09-02T18:38:10.931642Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +308,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.377350Z",
+        "fetched_at": "2026-09-02T18:38:10.931648Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +324,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.377356Z",
+        "fetched_at": "2026-09-02T18:38:10.931653Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +340,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.377360Z",
+        "fetched_at": "2026-09-02T18:38:10.931658Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +356,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.377364Z",
+        "fetched_at": "2026-09-02T18:38:10.931662Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,35 +394,19 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Protesters demanding underpass on Meerut–Pauri h’way in Bijnor removed forcibly - The Times of India",
-        "source": "The Times of India",
+        "headline": "BJP sounds bugle for 2027 UP assembly polls as CM Yogi Adityanath showers flower petals on Kanwar Yatris, sen - India.com",
+        "source": "India.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSmk1cWJqYzh0Y3FnZGtKeWJxYS1NbkQ0bm5GT1A2TUlGOG12RHhua0p1MHJzbWNPdmZTZGlMYnVMZEM2T0NWRFNEbE1FSnFSdmxtdS04Y3NsUUZvMDNZY0dVemhPSGp3MkhvenB5X01JTUlfR2xVVklSSEd1SUg0ZW9sQXRvX2JZZHU3bjl4WFdWSXpNNFZNcy1JRHVMOFJaYXdDRWdZREYyQWRWaWxSbXpPMTRXNzluUkg4Y2luU3JocU5jTTk5ZUlCRjV0MzZCMXdOcVdBQVR1NTRpXzlWUllHZnFqQdIB6wFBVV95cUxOQU1BalJBUGxVNWpvaS01S0RoRkNvVnUtTlRNTEgxQWEwQ0dJd3pqdncxOGRGc0VyZ0gtY3ktZ1RfZEpPVGJyVGNXTGN3bHE2bDZnYkM0bk9WbzVDLXQ3U1hpdWIzd2dJbVhpMDQyZVdhN0N2bVE4MW9TRkpTbWhVZUxtNFpxX2M1SGpsLUNzWS1OY0RMaUNSbzJ1N1R3MDMtX1F2UGhlRnJEWWxkZWJ3SFgxWkpNaHFjMjJmZnhrRDdIQ2xnQ2JyNlRnT2JtazR6dDlXX2VHYnNvdU10OWJSWnVEWmZSR0x3X2hr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPcDFVa3ZuMVprN1pieFlpbmFGSF9KeGVQcnpOQUJ4VlVyelQxWUdBcTVER3MxTVVkcGhIYlpSSlA1WjRYRExWanVWWXByTnZPMk16cW9ETEJ5VkRpXzE3WEluamVWdi1NZDM0dHBxSk9ZVzB2b09Pd3BNaVhjT1psM2tmNWhwVWN2OHExOE50a3ZBUHlfU3RJWDNpTVlCdVVCdWNEMS1GNHktZVJkeTJfaWdYX2lyZDFOelgtTXRoR2ZGUmZFdllWTkNjc2VWaGlrN0lEMVloeExWTWZGb2hrb2VyUWxpYV8yWm16TXljWnB4R0NNV3IxVklMTXVER1NxQkN5OUVKdUVCSVpqQzI0VFlsUXZoQzVvdlpLaVZobUFKU0hyMjJXaFU3YlV3djgxY0dPYWhVUlVLdmh20gHCAkFVX3lxTE9HQTY3ZDBLa2hfVjRvRlJLUjE4WThBNUkzaEtYSlpCSmlqOVByZG9lX052QkQ3UnBKY25iV2trLXM1Zk93cFZUdGluT1lFVVpzXzduS0NmbEpQVUtoXzUzd0lHWEN4TDczUUNXR0RYOGpsc1hOYl9HMlZxektzZ1pXRWZYUDYtTDlxM2hSc3NSZ0pTSFZnX2Y5bFViYkxsMUcxTmo2VjJ2Z182eHI3R3QyTThLcWVuNnpNcGUwdGZKUkJkZmVQWHd4Yno4aFl1ZnVxalM1X0ZwQUhiZDBmV21IOERJUThka1lJZ1YxTjEyUG1vM3NLWXdSbjJKMHozMWYwSkVfSWZlclk0eVhYdUo1RnpVb0dHR3drVXU1Qnh3TjZzekRTei1iMkRzaWxUVzFlbjN0NjdUbWlFZ056ZEpwcGc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Bijnor Election Result : बिजनौर से RLD के चंदन चौहान जीते, 37508 के अंतर सपा के दीपक की हार - AajTak",
-        "source": "AajTak",
+        "headline": "BJP leader made obscene videos of woman doctor: Victim alleges, 'I was drugged and assaulted in hospital'; ... - Bhaskar English",
+        "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRDUwMWxHQTExSG4ySTM0YmhuSF9tc1pmc2U1djlpQ0lFSVhUUGhnckRjTldhMS1kSUs5OHFqcUNSdV94akJRMVF1dUNJVjRiaGtZYjZ6TTlSLTY0NE85SFF1ekNKOGhHc0pydDczOTRRMkRMT0N4WDg2YVJyTlhtZEFLcWdNaXlmUmFEWWlKeUwyaTZhdGRFWktIZ3czU1ZiM0p1VUlJTF9uRW9jakhQb2dTdVg1bmFTWmJ5MEpyWDRvbTZ4UVZ0OURheGlERmvSAdQBQVVfeXFMUEIxU3NjSDNBWWdESkswZC1zWmZwWkFpdHUtV3hVcnBkNzBmRUR0RGRmRWFoU1pTY3ZaVll4U3RUWGZUeVRqTVJteUtxUEh6RkJuSVpVeHRRaE0zTDY5R0IxRU1tYkR4bHNFVE9POFVTaHMzYWpMSFc4aEZGall3UFFJX3pzazBvWlh3bWJNX0dkanhQSHV4V01IcWFhNXRjQ0ZxbThzaUdKYnJ3cHl4QU0xRGVfTnAxSmpCdTFYZkVvaS02X2Voa3lVTkc0STFsdGtnNEU?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Uttar Pradesh: RLD Announces Lok Sabha Candidates From Bijnor And Baghpat, Here's Brief Political Background Of These Seats - Swarajyamag",
-        "source": "Swarajyamag",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMF90LWVBY25IVTFNOHAxM2RJWjJSWWx1aFhhYnFERm5rU1ZyWjVZSUwtNXpJQ05qMWwzR0lmUDZfMGdfYmhiMjNXZTZ0M0hHenhIUGY2M09MYk9UdnE0NktMcDlRc0dBVzdKRGJ2RmNsSGVUdzZKbUpScnNJSFk3MkFlVGFVMWlfTXU1cjlGS24yZFlJSWNGUDRqVk5fRWdZZk92RjVfcFZaT2ZuREhLT3NMWHJES2ljQXhKMms4d2F0cDAyQW50U25BRWtYUUJZZEVyc0hCN2lzY3pzSEgtVm9jMlYteEZScXRN0gH7AUFVX3lxTE5pOEhCM0wyb3o4bGh1V2RQcEotYThYNGthZTRTaUkxRU9jRkk4RzNPUzlGV2ZXLVFwZGFIMzdwMi1FbW5xODdNcUQ5VGg3VFNnT1RVR2h0YnIzZlRXUTJJMVNXYkk2X2ZEb01sZkdJVjN5MjM3OXYtMEsyc0YwR2lJSm1jR3VqRVdlYXVJc2NodHBZa3ZmeTZiWWRIdDVRT0ZDVG1IM2dmWEVpR2lydERLakVWcFhCZVl1a0g0amRBMmtsQTNxTnpUakctam0wYTlyaktMdTBfdDVrNWJJclY2TV90MzJhOGpVOXZNWmtlZlk2bXV4SUpXaG13?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Bijnor Election Result 2024 LIVE Updates Highlights: Chandan Chauhan of RLD Wins - News18",
-        "source": "News18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeU9FdFJxNkxUSDhnMFNHc3R4eWJwV0RQanVrRy1PaWZENmFwcXQ5VlZYNU9KVnkyV3k5Z1lzbWFXekdfeWRGTFRMVHFSaGk2a0JxcVhBZUJEcnNNcVlSU3NYUEJjRF9aMEdSbndoU01nZTRYczNwWVBZZWxYbENHci1teTJ4c2JYRXdGRkE5VW5qbUNpM091a1E2amljU1hZNHBXdHk3T3FPTFIwN19HQ2M1ZTd1elRMdWfSAb8BQVVfeXFMTWxPWVhtanJXbW8ySWtRTnVlZS15QXRpQWd1TjNKaUhlX01kVHlwcXFKcGpzT1QtT1A1Qm5US2R3Y0xpaTE4cERWZHBnM29JX0xEVElYSkduNmZTUVk5dHYzWklGNjFpVFRabm1JWVJXelBwb2V2MmRpejlmT0F5eUlVZDNCdGdZTlpoYVRScEwzeWtibUYyMDJnbzllenBoSHp6ckRSNEZsRXV2aXNWbEhwbVdGclRHaXNIeU80QzQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVprRkRqSkZDY19uRE83b1FEVDRaSGdEc3RLOHNSYy1mR1JjWkFHb3hzVHZXXzJUQzNXUFJZRXVkRmFQVWhhVFFTT3VRSllTSnAwRTJyWGt2TC1nYS1OVnNsT2J2N1ZvTTltNXpWRGoyaVRJNDZsYUNMVzVPZ0kybzlJMTRHN3pjWk5iLXE5OGJnNWFwV3U3RTRFeFR5bS1VbjRfX2VLeTRsMWhEempwMTdqelBvcnFqbGfSAb8BQVVfeXFMTlNRS3pTR0MwS04yUDZxTklCb0h5ekxqbzJWWTZQaFJlRU9iXzZUY0NRSF9wc3hmVXF2dGczOEdHWVNENkxaVHJMTXFsUlp3Y3Y4a0hNMmd1QlBqOGtUdzZtQkJMZ3dkREs5RXJlVm51ZFNiLVd0a2NsWWZ6dWItWktJMWtudkpDdnpxQnBFMk1ON2JhNFhwWEljSHlqeWJUdDlaVEphVzZjampQWk9Za1VwUmtwUE1pVTdkeVl1X3c?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -317,6 +415,22 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWmhjRkpFX0ZhbnVjYVNVS3luZHJjREF3UHMyYkJjbGIwREFqZUdON3YycTBDbHd6WFdYWkE4aFJ5eC1aZ21aQi03YmVfRHJ2QW5ndFBiZUZOR3QyeDI2cnpaSDkzbVVNWXRfbmx5QmY0ZUU5dlBaSml2Q0Q4YjB0Zno2M2xfTVhNeFpwa2N1OWpqbEM0bklaSGlVZjYtc05LOUpyOHlPdzl1NnYtUVdWOVhkVkdFeUU4MnpRLW5CQTVXSDExRVI0dWR0RnZkVl9KU3JUdGZ6ZUEzQVVkUWRoQlMwa1BjeE9EV2hGVEJJbDNNVC1wTndzbm1EX0c4X3NBQlZKYzBWc253RENpanluUXlkczFrRkw0cTNZcW5B0gGjAkFVX3lxTFBrcWdDYlNqMkk5UmpMMW95eTR2QVpxNnhtOEpvZW9iZGkwUFlFdlc5MHFXZjV3UGlwU29Nbm1GTUNRSVpPWUJtSGdsS0ZZSW44elJfVTNoUGJ0Zjc4ejdEU2E5bVhXWloxb0hjX201Z0t6YXNHWnR2M3NNS2N6eFVtanRjOUFJUEl3MDBoU1hvMzk2LVE1WTZxU3lvUHEtbjZKWXlZNE5kblI5VTU4UWxsaDNtYmZGbmRxLWVmOFVkVmwxYmxlb0FTTTRodG03MHZrZDRqNlNBQ0pFUzJSenJHVWVjVlFtNG5VbUt2U0JYU2NkUk1uV3hvSkJ4SC1aYXNZb2N4ektEcENmRWlVaWY3QXRkVUtZQ2NYVmZGdTNJREJMYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttar Pradesh: RLD Announces Lok Sabha Candidates From Bijnor And Baghpat, Here's Brief Political Background Of These Seats - Swarajya",
+        "source": "Swarajya",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMF90LWVBY25IVTFNOHAxM2RJWjJSWWx1aFhhYnFERm5rU1ZyWjVZSUwtNXpJQ05qMWwzR0lmUDZfMGdfYmhiMjNXZTZ0M0hHenhIUGY2M09MYk9UdnE0NktMcDlRc0dBVzdKRGJ2RmNsSGVUdzZKbUpScnNJSFk3MkFlVGFVMWlfTXU1cjlGS24yZFlJSWNGUDRqVk5fRWdZZk92RjVfcFZaT2ZuREhLT3NMWHJES2ljQXhKMms4d2F0cDAyQW50U25BRWtYUUJZZEVyc0hCN2lzY3pzSEgtVm9jMlYteEZScXRN0gH7AUFVX3lxTE5pOEhCM0wyb3o4bGh1V2RQcEotYThYNGthZTRTaUkxRU9jRkk4RzNPUzlGV2ZXLVFwZGFIMzdwMi1FbW5xODdNcUQ5VGg3VFNnT1RVR2h0YnIzZlRXUTJJMVNXYkk2X2ZEb01sZkdJVjN5MjM3OXYtMEsyc0YwR2lJSm1jR3VqRVdlYXVJc2NodHBZa3ZmeTZiWWRIdDVRT0ZDVG1IM2dmWEVpR2lydERLakVWcFhCZVl1a0g0amRBMmtsQTNxTnpUakctam0wYTlyaktMdTBfdDVrNWJJclY2TV90MzJhOGpVOXZNWmtlZlk2bXV4SUpXaG13?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bijnor lok sabha election results 2024: Bijnor Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHE0aUVTUWRPT2tVRFVTUmliRXhkaW1tYW1TRHZ3dnlraUYxWjFrWm14dlFJZWh4ajh0MEZSUmdMQkxaTTlLYUhNbmlVS3poUElGcUZJNjVlY2IyMnNyRktJYU5oQmVQNVZFWEU2cFRIZkVOaFJERWZ5ZThlMmtvYVN6VlNyZGwtNVN0ejZ2eGpiZi1oM0JV?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -366,17 +480,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

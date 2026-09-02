@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 85341885.0,
-      "liabilities": 0.0,
-      "net_worth": 85341885.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 53.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.72,
-      "expended": 4.38,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:42:29.438698Z",
-          "notes": "Official eSAKSHI REST API — Works: 328 recommended, 271 sanctioned, 22 completed"
+          "fetched_at": "2026-09-02T14:36:38.238022Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:32:55.619783Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:32:55.616851Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 328,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 29.795918367346943
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 75.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:41.306237Z",
+          "fetched_at": "2026-09-02T14:32:55.615738Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Congress MP slams AAP govt over state-funded pilgrimages, calls it ‘unconstitutional’ - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZnZHdlE5QS1TalRnOXp2MjVFdHRUWmVCWEMyLUNxN0tKY00zZnBXbF80R0tZYURoQ3pnU1dUQUt0LU00VFlkMFR2cjA0bkxzWDA1Rjl2S0E1N3N3NG55c0hCUWIzQ3FBRml6WTBSZHpSZTMyb3Q4am5Yak1EcUpfYUhuZFpGVU10YzhqSDJLV1ZaclRrNHp3eTVQVjdZd2lPaFdOZHpTbUJGcXc5ekN6QTNwQkxZdkhIdXZmZVZOTUJiZmNBWGlnYVZDQ2ZMTUtMeEhreEo5di00dU1pbWtGWmhya3hvRmo2MHlLVEhGZ2RVd9IB9wFBVV95cUxNck9iek9DWkt5aGd6Y2M2QzRGM1luX1NMMTBFZzY2dGdsM2JCSW9pZTVzMTBLNzM1Y2RSNGJWM015Ny1najgyZzcwamNmV3VSQWpNSWtnTUpzNEI1cU5rTDRmZTYyM1NwMzR4emxZMm5XQndjcWh1dkxYc3dGOUZpaS1XNy1xLTVjbk1pSkRqN3dybnA1TGhIS3owdktkQkFFMjE0Z1BMTktkWXFjYVVSVmxOUGdJdUxMY3FwcWZrcEVTQVlOWGN6bkxzcFZUclR3OE90Z09oUExXVm8yYU5tTmpZekFpMjRMRU1mbk9MaXAzLVBWbGh3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Diljit-starrer ‘Satluj’ pullout unfortunate: Patiala MP Dharamvira Gandhi - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVG91RE1GTm8xYW1URFRvbVpFcGQ0YWY1THV2OWRVQkhCU09aaS1mV2JFbzlEUXNWcnA5a0cxRENZeldKZ3ZOdHpjVndGSDVJZzgtcXhsNjZ3bzVXdHYzd0lzMnZjQXRCSk1NX01TcDhVSlo5MVczSTVYNWdZS24xRmtwUHduOG1qUzBEbUNtS0ZaQ1FfZlB3RGR3QWZwMzJKMkpOVVAzbV9lcGpzWWJiZXNHa9IBtwFBVV95cUxOUUhxNlBtMmZUdERub0JxbkZsck42SXY3MWl4Wl91OXVVY0R4emIzRGVKa3oyWjhzMWJBQTlPR0pwQjY2LU03cUpoTU11SnliV2VQRk9vYWJrQzBPYzk0Nl84Y2tyU292TF9uSU55TkRVQmVzbUh2dFBoWG9mTzB6SHpKcEE3OUxnYm1IM1Vya1doSFpSQkxGT3VIVzJOQzV6c1Rva3FXNHRIZGpzYVBYVjhrRGtXaHM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Centre rushing ‘Nari Shakti Adhiniyam’ to bypass delimitation of constituencies: Dr Dharamvira Gandhi, Patiala MP - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORmVoTWU2MHRkVXBIbWJnR0JNSzlXY0dYcGR4SFo2Nnd1WU9RcGRfQnhic0o0Zk9xSURKVWZJQ01pSEkwVkVxV3BoVGQwcmxmVmhCNUdJWndWaUhmMVkxVFlUSENrTjNGalRzTWQ4TzE2N0FpQks2Y1dIZHNMY25xWmVoTTdQMmFkMkJEeDNEdGRNeTM3WV9PRkNKNlc0X3RNejJYekFBcEFDdm5yUEE3eXRrQ0xKcXY5TjU1ZlZlNFJpMWdZY2tQMHRGUzRQOWhPdGZEMHo2QjctY2FoOXJrVWZNNDJYRzDSAesBQVVfeXFMTy1YMnVwaGU0VEJZU0g2WFJvSGxmR0FkNEt4M0tjYWZXZ05EZUxVVzFuazhadTNDY09lSTZoVHM0RkVOUENBNEI4WWY1Ymx6UlBFNTBIRW11VS1pTENCbVdjdkFCNlRqMWwzQmtueXVNczktRk40RjktWW1fdm5jVmlVeTFvdW02ZmtxVVFOQlU3b0k1ZzdKelI1X2I0SmhJbVBrTTFTT0pVbEVsT0dhVE1DSG1RN1RQTHRDWFZKRXgyem9ramEzV05ORktJM1FSMTF4SndNRUZIM3BoV3VSZVdCZ28yODRUVEtfSQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ex Punjab AAP MP Dharamvir Gandhi Joins Congress Ahead Of Lok Sabha Polls - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2lEcThYakYzelJOanB2a2xLSHlob1RDMk0teThmMU04cl9nUFU4aTdKbU1veW5yemdYSzh6WHhNRHI2dE56NEdNQWFNX1ZwUEF0a0lsRVMxdzRiNDBlUzhmUVBPSlNzUkVubThYY2I0SGJ6MmF4cms5TzZ2UkhBMUlueFpTRnMzcXlab0RXVlkyNjVXY1Rwc2xtT2ROdzQtVVp4cGtRR3h5U0NMblJ6cHdZQVlQbjdlM0lVbGVsZUNqSEtBQlVz0gHPAUFVX3lxTFBLVHIxcGlKUWtfa3lwVUY4MjRYcXBJTGdoSXZOaFlNUTNTcEM5RWJJa0FkR09scWc2TnltRVpMcXZoTzVlMUNJZTZJbkhwRFJvZHBONFhQSlQ1OVFqaUpxb0pxa0YxSVRZdmY4NTlPekFIZTIxdm8tRFVMZVg1d0hPaU5zRTloWkVhb3U3eU9pbEdXbDRfUEhJUkFIVWlnVTlSdTFUNUprdHhiWFBEMVllUGhwcERFS2lzR1ozeGplazQ3UGV2UERCWGlBSVVvRQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ex-MP Dharamvira Gandhi joins Congress, may be fielded in Patiala for Lok Sabha polls - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjVrWDA3UXFqYnpJdnRFeWRuR0RrNXpxelR2N3ZhMEVPNVNWX1FmNXV4S0M5NUdHTHE4aVItczhsVWZmZUhsTmNld0VxcTRLMlFtQzU0U25udWRRNXM0d05saER4ZklNN2MzTWNQa1FEb1FySHM5WFhtd2hTMUFIYTJFNVZYOG5oMGJtZ3o0WmtkcU5ITVpkajJsNVdGSVExZVRmdVJEVlfSAa8BQVVfeXFMT3lqLTc2b1d5X2M0R09GNG11VXJmSDR4V0RmRm92OFVnTGZyaGstRTNXM0pNV2VrN2ZnZHFMV2tQN0tkTjlwaldDMUJLckhNajlmSUh5cm9jSmg1ODljVGV5ZTFqSVo3eF9oRFdXUXUxRlhuZVF1dFpTSkFHOWZMMHhiZTk2dTBMNTEyVFZ1WE1SZl9TcVFUUEFlalFudTVuR0xfWjR6d3QzZ2dnLVdOWQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:41.943078Z",
+    "collected_at": "2026-09-02T14:36:38.239260Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.571850Z",
+          "fetched_at": "2026-09-02T18:38:09.079257Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.571859Z",
+          "fetched_at": "2026-09-02T18:38:09.079269Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.571864Z",
+          "fetched_at": "2026-09-02T18:38:09.079274Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.571869Z",
+          "fetched_at": "2026-09-02T18:38:09.079279Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.571875Z",
+          "fetched_at": "2026-09-02T18:38:09.079286Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.571879Z",
+          "fetched_at": "2026-09-02T18:38:09.079292Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.571883Z",
+          "fetched_at": "2026-09-02T18:38:09.079298Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -271,43 +327,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Patiala law varsity approves dropping 'Rajiv Gandhi' as prefix; Congress calls it election stunt - Dailyhunt",
-          "source": "Dailyhunt",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQ18tejQwNkJFSW82eVdXZVlVcW5TckVqY2pWUm55MThRalhZTGoyZm43VVR0Um5SYkM3VFhKOTZHdzlScXdmRUVCbkhiejc2MklDNlpUbmF2UHB2czZmMlNTLUdLaDE4c2I0UHhVUzJtbTVTSk52bjNtbkZrSjFHVTVHTHFtbEpYN19RRU93b2FFNE9sMU0yOVUwOHJubE54MEZTS0dRZEdZcXd5d3p5ZUlFTDlYajZPTFo2bUNJeXpEWmpxVFZPTEFLcTVDSzNiaWlrVjhLYXZlbGlYNDFNY0puVUpKSnJfcWNKU1RZVVVMNUZhTnJWcGlVNDVhQk1CYVBUMy1QOTRFdDE3eVE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Patiala national law varsity moots dropping prefix Rajiv Gandhi from title - The Tribune",
-          "source": "The Tribune",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakVjS1RWWUptcnRTbl9SMkJUSENKaFFtMVVKYVhMamhja0g5X051OHROUGJuZEt1dDc3ZDNSWWpYSW5BeE9lcVNZdzRDT2h2Y3NSSHE4bFM1eFljOFpvaFYwTXJQb3k2c0ZzaHFIRlItekdEUTNYVG0tOXJvRThxQ3A2TWdUNy02ckNTeUI3Q3pBMUxVM0R4VHRHMElwZjFMTWhibVprZV96cGtiNnY3TF9rYw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Centre rushing 'Nari Shakti Adhiniyam' to bypass delimitation of constituencies: Dr Dharamvira Gandhi, Patiala MP - Dailyhunt",
-          "source": "Dailyhunt",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOU25WOG9zcVpPM1lHSHlEVFpHdFBKSzlUYnZfX3NYenNtOURTY3FMbDhUbkY4NDlLRGN0Wm8xQnotNW1wSi13Nkc5Q19ZaEVoTFZseG56a3BqYmZWRk9qTGpEbVJSQzBMS1EtcjdiTXVwMHduTHlxYUE0TFpHX3JwNWhSdUxRZmUwbDVZRm1tUmQxWC1HZlZiVEZScHl1b250Q2FKdk8telVtdHg2djBpaHZMY1Yxd3k2QzB4dk9pMGlJVGdjdmEtUF9BOHlhR2R0SVllMXJQdFVUOHYtdzdjZ3Y2S1VQTGFJTlQ0TEpoLW9nNUdGdHVwZTlrdkUzQUxWdENScUxyc1l5Z0Z5clFCbkN3V2k1SlhaYmhlZFBtczd1N1U?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Rajpura-Mohali rail link likely in 18 months: Patiala MP Dharamvira Gandhi - The Tribune",
-          "source": "The Tribune",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZk5GeG1QU1k4UkpiZTI3NVRwUVJuc29mQXR6eVZoZHYtWDU3R1Z2OWt6QWlyU1R0Y2dYcjRXdXgtVnYzM1dra2lvM3NrX09VNk9nMjZ4U2ZieERhNkt0YjJubkF5SGJGS3dGOVh3RXlybHJBSXYzQW0zV3dsNzV1Sm1hOTRXeGZEZHRJSHpCUlRjcFVDWTJ0VEpYZU1CY1gzQWdN?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Congress MP Dharamvira Gandhi questions own party’s leaders over halka incharges in Punjab - The Times of India",
+          "headline": "Congress MP slams AAP govt over state-funded pilgrimages, calls it ‘unconstitutional’ - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLVkteFNIYTVLRE9mYkxiYklLdE9teHpwS3lxaVZoOVdKN3ZNN2ljeGtiYWEwVHVBV1VPUHVPZ3JfNGY1amU0T1pUbUVzN1gwUFpteWY2Zk4tcjVTaEt1Y2pxRnFzVTBhNzk3Zm1lZF9oRXpJZzZkcFZraTQ0LWo0SmFOWVZQcDJFcGN0SXE1bzRkZ3RZcFphUTFOTWZKU1lRZUF2MkJCei1fM21FMzloWEk3YmhOR09lZ2hXOWt1MlpjSGM4c1lvQVU1WkpyWFRTN291WVFlM2N2UFJoRVNGWU5vTEhwN1c1QWlGdzhJZkRvaENlZmVhcW43VdIBgAJBVV95cUxQaXBpd3pTMHotTTNNZFk0ZmxkYTBZMXQ3cU8xLVk4cTV0amtnc3NTcjdzWU1qckR4cmh6UGtnZmY0RUlxdHlIOXlOanJra3hBWUxmZVZqenJVWkdBMlp0TFF1M2Q5VWs4UU1kOGpOemJxNW5DTUg3S1ZjNlA5UzlHbTcySDBvZmpkRFBZMDFNQVROSU85ZjNQYW5XNUlJMUYybE9DLU05aVZvdkozZjVXbUFEZkFDTWlQSjdfeW9VUWdTWlFUTTlLN2lwYi0wODZCYUZWbkV4OTNHS09NRWNNd0dxQlljZ1VueGZYdzZSa3U0WmpUV25faWNCLXlMN29Q?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZnZHdlE5QS1TalRnOXp2MjVFdHRUWmVCWEMyLUNxN0tKY00zZnBXbF80R0tZYURoQ3pnU1dUQUt0LU00VFlkMFR2cjA0bkxzWDA1Rjl2S0E1N3N3NG55c0hCUWIzQ3FBRml6WTBSZHpSZTMyb3Q4am5Yak1EcUpfYUhuZFpGVU10YzhqSDJLV1ZaclRrNHp3eTVQVjdZd2lPaFdOZHpTbUJGcXc5ekN6QTNwQkxZdkhIdXZmZVZOTUJiZmNBWGlnYVZDQ2ZMTUtMeEhreEo5di00dU1pbWtGWmhya3hvRmo2MHlLVEhGZ2RVd9IB9wFBVV95cUxNck9iek9DWkt5aGd6Y2M2QzRGM1luX1NMMTBFZzY2dGdsM2JCSW9pZTVzMTBLNzM1Y2RSNGJWM015Ny1najgyZzcwamNmV3VSQWpNSWtnTUpzNEI1cU5rTDRmZTYyM1NwMzR4emxZMm5XQndjcWh1dkxYc3dGOUZpaS1XNy1xLTVjbk1pSkRqN3dybnA1TGhIS3owdktkQkFFMjE0Z1BMTktkWXFjYVVSVmxOUGdJdUxMY3FwcWZrcEVTQVlOWGN6bkxzcFZUclR3OE90Z09oUExXVm8yYU5tTmpZekFpMjRMRU1mbk9MaXAzLVBWbGh3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Diljit-starrer ‘Satluj’ pullout unfortunate: Patiala MP Dharamvira Gandhi - The Tribune",
+          "source": "The Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVG91RE1GTm8xYW1URFRvbVpFcGQ0YWY1THV2OWRVQkhCU09aaS1mV2JFbzlEUXNWcnA5a0cxRENZeldKZ3ZOdHpjVndGSDVJZzgtcXhsNjZ3bzVXdHYzd0lzMnZjQXRCSk1NX01TcDhVSlo5MVczSTVYNWdZS24xRmtwUHduOG1qUzBEbUNtS0ZaQ1FfZlB3RGR3QWZwMzJKMkpOVVAzbV9lcGpzWWJiZXNHa9IBtwFBVV95cUxOUUhxNlBtMmZUdERub0JxbkZsck42SXY3MWl4Wl91OXVVY0R4emIzRGVKa3oyWjhzMWJBQTlPR0pwQjY2LU03cUpoTU11SnliV2VQRk9vYWJrQzBPYzk0Nl84Y2tyU292TF9uSU55TkRVQmVzbUh2dFBoWG9mTzB6SHpKcEE3OUxnYm1IM1Vya1doSFpSQkxGT3VIVzJOQzV6c1Rva3FXNHRIZGpzYVBYVjhrRGtXaHM?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Centre rushing ‘Nari Shakti Adhiniyam’ to bypass delimitation of constituencies: Dr Dharamvira Gandhi, Patiala MP - The Tribune",
+          "source": "The Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORmVoTWU2MHRkVXBIbWJnR0JNSzlXY0dYcGR4SFo2Nnd1WU9RcGRfQnhic0o0Zk9xSURKVWZJQ01pSEkwVkVxV3BoVGQwcmxmVmhCNUdJWndWaUhmMVkxVFlUSENrTjNGalRzTWQ4TzE2N0FpQks2Y1dIZHNMY25xWmVoTTdQMmFkMkJEeDNEdGRNeTM3WV9PRkNKNlc0X3RNejJYekFBcEFDdm5yUEE3eXRrQ0xKcXY5TjU1ZlZlNFJpMWdZY2tQMHRGUzRQOWhPdGZEMHo2QjctY2FoOXJrVWZNNDJYRzDSAesBQVVfeXFMTy1YMnVwaGU0VEJZU0g2WFJvSGxmR0FkNEt4M0tjYWZXZ05EZUxVVzFuazhadTNDY09lSTZoVHM0RkVOUENBNEI4WWY1Ymx6UlBFNTBIRW11VS1pTENCbVdjdkFCNlRqMWwzQmtueXVNczktRk40RjktWW1fdm5jVmlVeTFvdW02ZmtxVVFOQlU3b0k1ZzdKelI1X2I0SmhJbVBrTTFTT0pVbEVsT0dhVE1DSG1RN1RQTHRDWFZKRXgyem9ramEzV05ORktJM1FSMTF4SndNRUZIM3BoV3VSZVdCZ28yODRUVEtfSQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Ex Punjab AAP MP Dharamvir Gandhi Joins Congress Ahead Of Lok Sabha Polls - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2lEcThYakYzelJOanB2a2xLSHlob1RDMk0teThmMU04cl9nUFU4aTdKbU1veW5yemdYSzh6WHhNRHI2dE56NEdNQWFNX1ZwUEF0a0lsRVMxdzRiNDBlUzhmUVBPSlNzUkVubThYY2I0SGJ6MmF4cms5TzZ2UkhBMUlueFpTRnMzcXlab0RXVlkyNjVXY1Rwc2xtT2ROdzQtVVp4cGtRR3h5U0NMblJ6cHdZQVlQbjdlM0lVbGVsZUNqSEtBQlVz0gHPAUFVX3lxTFBLVHIxcGlKUWtfa3lwVUY4MjRYcXBJTGdoSXZOaFlNUTNTcEM5RWJJa0FkR09scWc2TnltRVpMcXZoTzVlMUNJZTZJbkhwRFJvZHBONFhQSlQ1OVFqaUpxb0pxa0YxSVRZdmY4NTlPekFIZTIxdm8tRFVMZVg1d0hPaU5zRTloWkVhb3U3eU9pbEdXbDRfUEhJUkFIVWlnVTlSdTFUNUprdHhiWFBEMVllUGhwcERFS2lzR1ozeGplazQ3UGV2UERCWGlBSVVvRQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Ex-MP Dharamvira Gandhi joins Congress, may be fielded in Patiala for Lok Sabha polls - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjVrWDA3UXFqYnpJdnRFeWRuR0RrNXpxelR2N3ZhMEVPNVNWX1FmNXV4S0M5NUdHTHE4aVItczhsVWZmZUhsTmNld0VxcTRLMlFtQzU0U25udWRRNXM0d05saER4ZklNN2MzTWNQa1FEb1FySHM5WFhtd2hTMUFIYTJFNVZYOG5oMGJtZ3o0WmtkcU5ITVpkajJsNVdGSVExZVRmdVJEVlfSAa8BQVVfeXFMT3lqLTc2b1d5X2M0R09GNG11VXJmSDR4V0RmRm92OFVnTGZyaGstRTNXM0pNV2VrN2ZnZHFMV2tQN0tkTjlwaldDMUJLckhNajlmSUh5cm9jSmg1ODljVGV5ZTFqSVo3eF9oRFdXUXUxRlhuZVF1dFpTSkFHOWZMMHhiZTk2dTBMNTEyVFZ1WE1SZl9TcVFUUEFlalFudTVuR0xfWjR6d3QzZ2dnLVdOWQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -341,15 +397,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 18,
+      "starred_questions": 5,
+      "unstarred_questions": 13,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 34.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +413,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 75.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +444,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +477,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Punjab: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 85,341,885. MPLADS utilization: 29.8%. Parliament attendance: 75.0%. Questions asked: 18. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:51.572999Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 75.0%. Questions asked: 18. Debates participated: 4. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.079978Z"
 }

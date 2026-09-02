@@ -4,16 +4,16 @@
     "constituency": "Janjgir-Champa",
     "state": "chhattisgarh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3677,
+    "myneta_candidate_id": null,
     "slug": "kamlesh-jangde",
     "house": "lok_sabha",
     "sansad_member_id": 5709,
     "profile_url": null,
     "canonical_name": "Kamlesh Jangde",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 46,
+    "age": null,
     "photo_url": "/mp-photos/5709.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Janjgir-Champa",
       "state": "chhattisgarh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3677,
+      "myneta_candidate_id": null,
       "slug": "kamlesh-jangde",
       "house": "lok_sabha",
       "sansad_member_id": 5709,
       "profile_url": null,
       "canonical_name": "Kamlesh Jangde",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 46,
+      "age": null,
       "photo_url": "/mp-photos/5709.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3677",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.730882Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:33:37.756247Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 15462143.0,
-      "liabilities": 1380075.0,
-      "net_worth": 14082068.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3677",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.730896Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 13.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.04,
-      "released": 15.04,
-      "sanctioned": 9.83,
-      "expended": 8.53,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:19.326739Z",
-          "notes": "Official eSAKSHI REST API — Works: 344 recommended, 278 sanctioned, 159 completed"
+          "fetched_at": "2026-09-02T14:35:50.987161Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:32:06.333886Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:32:06.331208Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 344,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 56.715425531914896
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:13.143577Z",
+          "fetched_at": "2026-09-02T14:32:06.330144Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Vedanta blast toll rises to 24, 11 still hospitalised - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONE9TUXNLM25ubVVTTE4xQjJLUVdtYmg0RF9aSFowbVNyQjc1WjhlMkdWYUtlSUZXdFh6WFZSZjZfUU9ubEp6encwbVhUby1WOGZqX0NkUV9MMS1hSFNCQVhpNGhJWVBWV1pZN2ZybmozNWxqMW9ZWjE0RFNQV2IySnVJYklrZVF4M2ZLaUs3bzN1THRoaWZSSXJmUTFSQ044RXRGUzdxV19acDQ4ZWFGaC0zX1NnT3ZfNU5hMkJaTjJMc0tu0gHKAUFVX3lxTE94UnZHaUxfWEpNRjlTQllNSFBnc3lsQWg3VUpyTEk2RDdyWmdSY2V0dl81UWZnb2lwb3U1UGhZbHN0aXRJY0xQVnF0amFjMHNCZWlGb3NfaUYxTkRJRjMyNzJlRDZXWUJZdzg2S2dZMnlLY0t1a3p2VGFIR0g1eXRaZDBPVzRjN3R3UE9IVkR3TzdTY1pRLUJqQW4xZU5HVl9iM1NXQldjdXc4Si04RjFhZGhSS2p0eWF4S0J3Zlo0N2NZa0FhQVBZZHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Toll reaches 24 in Vedanta boiler blast, even as compensation process begins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQak1sYVZZTEpRNTNWZHhZekN1T0Y1WGpoNXJUZnZSLWxueDhsQWU3U25uWC1RLXFXTlRQR3pra1RMZHBCX1pjcGFhSlY1RmRLY3dfQW1rOXp0Z0xMUkthcEN5SHQyMFBXRTFuQUZGdGM2ZFFxUnZyNmZWQXl0U3E1Z1ZoSlhiTzlaY0x0WEQ3Y2VWdjVRWEhlSmlTVE9QWHBaaGU1TTY0YXZuVzJjWXV3dXdRbDc4T0xoTnlZR1l0TWhNSmI5MmtyT0U2Y1lEM2M3SGF2Q1EtWVdCMEt1cDR3OTNBa9IB6AFBVV95cUxPbURPYnJfb211SWZpX2FGa1hMQ2I1VlVHSlJTcWJjWjBwNGxDQTh5LXJ6c25SWU1vVUZXTGFjeURQaVh4cDdQTXJkNGV0ekZiYjhHN1NuMDBXQ2JPTUZ4OExNWEctX0JjQlhBSHpIYk9rWEd1bXBlakd0aVdKcS1CQURWelBiVGNGdTUxY2ZUUkJhaXNBSzJmSjJWMG54WC1MTTZmR3Y3YWE0RzJHSjNZdkJJem5hZEdPRjRyZlFxVFRNQ0lqN2JVY2J3UHZFN2JRcVFiMjlMdVJKQkhkeHl5WkxaT09XZkN2?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chhattisgarh's Culture mesmerizes audience at India International Trade Fair on State Day - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUWJhSXZMd0IwT09zbG9MNFFkV0lDRjhoYjlhZnFSUHVMaGxueF9TSFFwS0J6bjZkQVlobFdJU01CRVROa1NMSmpVcHhET1NyemotcGpXdzduYzBLTFAxMTBPelVkWjBmS3oxQlNVUzZrNElFYjNKZFcxSDB1WDNHdFpXWS1MdnBaMm9KUGhUblpLc19HUjJhT2tySFM0bmkzTUNqZTBzTnN0bXY2LTlrZ0ZMeWdrV0NROHYzOW83SHRqRDJ1dEw4eEluWVB0ODFtRkFOU2xSYVh6VGprYXU2aWFvVGo2UHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP's First List For LS Polls Sees Major Shake-Up: 33 Sitting MPs Replaced, Here's A List Of Who Replaced Whom - Swarajya",
+        "source": "Swarajya",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmNiSlVlWGhxdmpqRnE5NVRxQVg5bWVTRm14UUlZRG01Qzd3ZWtRaU9aMzBuU3pSZTV5UG9WdjNfQzYzaWo4a2FfUUxsekEzLW5PMy1RazF4X0RENUo1UE54eVY3bEZYeVJiQlUxU09uX1ZXMlJ0T0JydHpZQzVKNEc0T2gxaGZreUt3UkZpQnNSd2poMlVVb3hRTE1sRHRpYWVfZGZWMXpKSG9xWUpZVXZvZ291dU9aNkEzb0h0ZzFlTWlEX01qUnFTbUdVYUxld3Z5MFI2eGTSAegBQVVfeXFMUDU5Q0pHbmFLWDJNdGozRmdMV3lQZE01UnBoVk1Ga3g5ekFwdHdJVk9uZ0lWTlFBaXBSZm5ieE5Ycms3STBRVEpGaUFFS3BHYXF6ZUZCdjdXU0R6UG93aEJSSGE2Zzl1anZ1NF9YQWw0NnpBdGcxbEpQWk81NDQyWlFWUXVTZGVkUVZIQXRMdlZqMG9qRmUxb3dzUFJrTHdOTFZ0MzQwOEV1Y0NkWGZsNHVLUks1dWRtSDduTWVPX2paMlRkN2dXWk9WWFItbTg5NGl6UzBObFVDM1lKSjFubW1VM084S25sLQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP Springs Surprise, Drops 33 Sitting MPs in First List of Candidates for LS Polls - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeklYUjJqak41RVYydDdPRkVQTF9YZzVDNUtJX3ZGMm51dDYtalVLNTlQRktmMGJxclgtQ3ZfejRvMU9RSWw5dlhYVEFLbnJyQUZGMWd2RXhhNGkwX0pTckp0c1FBbEZ1NXhjRWJzN29TeFJTQzlWcnNjbWZLZkFUaUh6YmpHQVRZM3drMjdJY0pmWmloemdacm5DQzJWVEJCZVRpOFZGSU1UV3dyYTdFV1ZFYjh4SXViU2NmS1ZpblhicjRXOTM2b0ZjeGVic0nSAdQBQVVfeXFMUG5EcXRXZi1RckQ3a2ZxQS1KR2Q3Umxzcy13QTNfekM3cEhBRjN0akk3VTg2Ykw4SmdfQTdXOU4takYwYl9UMC1hVkRVS2VPZGRTREQzNE5WT0Riby1qYW00d2tJTWdwSnBaWVV0aWlZakZZX2NYT1R5dWpQRWoxNFFhWTY0VWxITmc1THNtOERSek14X084b2dLSjliUUdIWk84dTJ2ajFCTmN3TUU5STZGTFNpVjV3MXNDdFJ2eUppZDMwMERic2lLM051VG9IcHM5T1Q?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:16.493249Z",
+    "collected_at": "2026-09-02T14:35:50.988005Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.624462Z",
+          "fetched_at": "2026-09-02T18:38:05.225510Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.624472Z",
+          "fetched_at": "2026-09-02T18:38:05.225521Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.624499Z",
+          "fetched_at": "2026-09-02T18:38:05.225527Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.624506Z",
+          "fetched_at": "2026-09-02T18:38:05.225532Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.624511Z",
+          "fetched_at": "2026-09-02T18:38:05.225538Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.624516Z",
+          "fetched_at": "2026-09-02T18:38:05.225543Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.624519Z",
+          "fetched_at": "2026-09-02T18:38:05.225548Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,17 +322,50 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/kamleshjangde15?s=21",
+          "url": "https://x.com/https://x.com/kamleshjangde15?s=21",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/share/1D8VhrwR1w/?mibextid=wwXIfr",
+          "url": "https://facebook.com/https://www.facebook.com/share/1D8VhrwR1w/?mibextid=wwXIfr",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/kamleshjangde.bjp?igsh=cjRjZWJuMGFpYmw1",
+          "url": "https://instagram.com/https://www.instagram.com/kamleshjangde.bjp?igsh=cjRjZWJuMGFpYmw1",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:32:14.533308Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 8,
+      "total_articles": 9,
       "positive": 0,
       "negative": 0,
-      "neutral": 8,
+      "neutral": 9,
       "top_headlines": [
         {
           "headline": "Vedanta blast toll rises to 24, 11 still hospitalised - The Times of India",
@@ -298,39 +376,39 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Janjgir-Champa Election Result 2024 LIVE Updates Highlights: Kamlesh Jangde of BJP Wins - News18",
-          "source": "News18",
+          "headline": "Toll reaches 24 in Vedanta boiler blast, even as compensation process begins - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMHdVOUdydDVCVXpkTDI5MjkydUlvYlg1NUZTNzZ6ZWNYZXhyREFTanFHY1F5eDBWTGNrc09OMTZhNU92MVBHX1EwcndHY1RSSzY5NElSZHBUN2lEUGlZRmpXd3RaaUdORjZKMDYwOEtLNGYwQkZjNHJ5TjFVNjRyLUNMMFZ1Umx2SWVSUkZNa2JVemlYYVJRMWpZUjNYY1IxRm94V0R4MjV1V3NkYWZ3Y0dRYWhCTUloT2R6Yy1MS2N0UjUzcG9tZEs4N213YXpWX2FjNVNyUWxKUWQ5Ui05aDloOTRvNDRNZUJN0gHwAUFVX3lxTE0tMjB3bXpxQ01MWG9TQUxoaXh0UFFFd2t2bXUyWjFJd1NUQXpLOUQ5MWRfZmo0dUhNanZGYmRNaEY3QkNEc2J4OGpfejV1SUtiMGN4VTlwUTVVM0VTSmRSZExDRXp3cWNhWGx0Yk9Fck9Xd1YwRWFwd0NhMUNjdzRYMjhMTVJQWEpjYV9QMU10RHJ2WndZT0p3SGFkR2t2ODRZakdTWXk3c0xjT1dqcFlfRElGZXVkU29MT3RTczFMT2pEQlROdUpKNHZfd0hSNFFOQS1CX2FGNjdpNE5MZW9pdEV5blJuTTBzNGI5MkhHVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQak1sYVZZTEpRNTNWZHhZekN1T0Y1WGpoNXJUZnZSLWxueDhsQWU3U25uWC1RLXFXTlRQR3pra1RMZHBCX1pjcGFhSlY1RmRLY3dfQW1rOXp0Z0xMUkthcEN5SHQyMFBXRTFuQUZGdGM2ZFFxUnZyNmZWQXl0U3E1Z1ZoSlhiTzlaY0x0WEQ3Y2VWdjVRWEhlSmlTVE9QWHBaaGU1TTY0YXZuVzJjWXV3dXdRbDc4T0xoTnlZR1l0TWhNSmI5MmtyT0U2Y1lEM2M3SGF2Q1EtWVdCMEt1cDR3OTNBa9IB6AFBVV95cUxPbURPYnJfb211SWZpX2FGa1hMQ2I1VlVHSlJTcWJjWjBwNGxDQTh5LXJ6c25SWU1vVUZXTGFjeURQaVh4cDdQTXJkNGV0ekZiYjhHN1NuMDBXQ2JPTUZ4OExNWEctX0JjQlhBSHpIYk9rWEd1bXBlakd0aVdKcS1CQURWelBiVGNGdTUxY2ZUUkJhaXNBSzJmSjJWMG54WC1MTTZmR3Y3YWE0RzJHSjNZdkJJem5hZEdPRjRyZlFxVFRNQ0lqN2JVY2J3UHZFN2JRcVFiMjlMdVJKQkhkeHl5WkxaT09XZkN2?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Janjgir-Champa lok sabha election results 2024: Janjgir-Champa Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR3JGMlRuakNGakMzNUE1c2VWdC1jWlpYakxISVNRazM1dUp0X1hjUlRzUkFXV1BFN014MVVXenRXbUFVNzZrQThjOVZfMWpITEZ0T1l0WWpHdG1NemNYbHZMS3ZySm5rTmppN1FFWXdod0NRcHhnaUZ3TUNNOHh1aFo5dUY2dUxoZE5RZmplOWFsdjUyaEc5YXBtNmgxcEgw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "LS Polls 2024: BJP drops 33 sitting MPs in first list; four dropped in Delhi for disconnect, inaccessibility - The New Indian Express",
-          "source": "The New Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUmR4ajNmMzZkX3IwT2VoT01VVm9CRmlPNEQ3NFV3VmQwR2NDaTFKQ2NLdXE2MlVtMkw3SEdnR2pyUnVZUHZpTkpPWS1CRjg1U1Z3ellaQVhnS2pNb2lZcGtfX0hPaEprRVNsMGVfYlhBajNmTXAzY0RsSS1xWkI1MHIxSlBlZXVUTUhUNXlNbHdLcldpSGowN2tTbE9qNHh2QUNyRmVUeE9GdE9NSkpNTWZGQmE4cjVVVEpvY0QxblV0dUh1QXJNakk3RlpvTDc5ZDZxdjJGNXVpZEtXVEtSd0pmeVpIckw5MFZGT2JlRUJ6Y25SNlZiRtIBhgJBVV95cUxPdndEMUwwY042VV9sUklWY1I0b2pfZVI5VjhFdUk2aFg1aEs0QjljYXhpbFNXeUUwdkEzTzMtTzBKN2h6SmhUTU96cmhVSFMwcXAwazhMSnF2NFNGRG5QdzFDbDBVbll1MDhJSVJoTEJPMDRXeGpQdXk2VEhJdDV6d2RrTFQ2ZmZVSFZmblo5TFJwRElTZzZGdV9hTHY3VE9qejlKQmNxRkFzaDNLT3hncFhEWUM4WUoycE4tUWJ4b01PUGlFdnRCdHlWMmM3RHhpTU5aM05oenNzY2psZmVidmtxWFBsa0FmM1gxRHUyYVY3NTRSb3FlZDZQRW01UDVmcDVDOXhR?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Chhattisgarh's Culture mesmerizes audience at India International Trade Fair on State Day - ANI News",
-          "source": "ANI News",
+          "headline": "Chhattisgarh's Culture mesmerizes audience at India International Trade Fair on State Day - aninews.in",
+          "source": "aninews.in",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUWJhSXZMd0IwT09zbG9MNFFkV0lDRjhoYjlhZnFSUHVMaGxueF9TSFFwS0J6bjZkQVlobFdJU01CRVROa1NMSmpVcHhET1NyemotcGpXdzduYzBLTFAxMTBPelVkWjBmS3oxQlNVUzZrNElFYjNKZFcxSDB1WDNHdFpXWS1MdnBaMm9KUGhUblpLc19HUjJhT2tySFM0bmkzTUNqZTBzTnN0bXY2LTlrZ0ZMeWdrV0NROHYzOW83SHRqRDJ1dEw4eEluWVB0ODFtRkFOU2xSYVh6VGprYXU2aWFvVGo2UHc?oc=5",
           "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP's First List For LS Polls Sees Major Shake-Up: 33 Sitting MPs Replaced, Here's A List Of Who Replaced Whom - Swarajya",
+          "source": "Swarajya",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmNiSlVlWGhxdmpqRnE5NVRxQVg5bWVTRm14UUlZRG01Qzd3ZWtRaU9aMzBuU3pSZTV5UG9WdjNfQzYzaWo4a2FfUUxsekEzLW5PMy1RazF4X0RENUo1UE54eVY3bEZYeVJiQlUxU09uX1ZXMlJ0T0JydHpZQzVKNEc0T2gxaGZreUt3UkZpQnNSd2poMlVVb3hRTE1sRHRpYWVfZGZWMXpKSG9xWUpZVXZvZ291dU9aNkEzb0h0ZzFlTWlEX01qUnFTbUdVYUxld3Z5MFI2eGTSAegBQVVfeXFMUDU5Q0pHbmFLWDJNdGozRmdMV3lQZE01UnBoVk1Ga3g5ekFwdHdJVk9uZ0lWTlFBaXBSZm5ieE5Ycms3STBRVEpGaUFFS3BHYXF6ZUZCdjdXU0R6UG93aEJSSGE2Zzl1anZ1NF9YQWw0NnpBdGcxbEpQWk81NDQyWlFWUXVTZGVkUVZIQXRMdlZqMG9qRmUxb3dzUFJrTHdOTFZ0MzQwOEV1Y0NkWGZsNHVLUks1dWRtSDduTWVPX2paMlRkN2dXWk9WWFItbTg5NGl6UzBObFVDM1lKSjFubW1VM084S25sLQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP Springs Surprise, Drops 33 Sitting MPs in First List of Candidates for LS Polls - ETV Bharat",
+          "source": "ETV Bharat",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeklYUjJqak41RVYydDdPRkVQTF9YZzVDNUtJX3ZGMm51dDYtalVLNTlQRktmMGJxclgtQ3ZfejRvMU9RSWw5dlhYVEFLbnJyQUZGMWd2RXhhNGkwX0pTckp0c1FBbEZ1NXhjRWJzN29TeFJTQzlWcnNjbWZLZkFUaUh6YmpHQVRZM3drMjdJY0pmWmloemdacm5DQzJWVEJCZVRpOFZGSU1UV3dyYTdFV1ZFYjh4SXViU2NmS1ZpblhicjRXOTM2b0ZjeGVic0nSAdQBQVVfeXFMUG5EcXRXZi1RckQ3a2ZxQS1KR2Q3Umxzcy13QTNfekM3cEhBRjN0akk3VTg2Ykw4SmdfQTdXOU4takYwYl9UMC1hVkRVS2VPZGRTREQzNE5WT0Riby1qYW00d2tJTWdwSnBaWVV0aWlZakZZX2NYT1R5dWpQRWoxNFFhWTY0VWxITmc1THNtOERSek14X084b2dLSjliUUdIWk84dTJ2ajFCTmN3TUU5STZGTFNpVjV3MXNDdFJ2eUppZDMwMERic2lLM051VG9IcHM5T1Q?oc=5",
+          "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (8 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -360,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 20,
+      "starred_questions": 6,
+      "unstarred_questions": 14,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 39.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Chhattisgarh: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 15,462,143. MPLADS utilization: 56.7%. Parliament attendance: 90.0%. Questions asked: 20. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:47.625194Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 20. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.226260Z"
 }

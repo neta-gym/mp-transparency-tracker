@@ -42,60 +42,82 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:46.062778Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
+      "movable_assets": 23694891.17,
+      "immovable_assets": 26228456.0,
       "total_assets": 49923347.0,
-      "liabilities": 0.0,
-      "net_worth": 49923347.0,
-      "previous_total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
+      "previous_total_assets": 2139353920000000.0,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1156",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:53.404174Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T14:27:01.447696Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 39.3,
-      "growth_ratio": null
+      "wealth_percentile": 0.0,
+      "growth_ratio": -0.999999976664288
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.45,
-      "expended": 4.56,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:49:22.976343Z",
-          "notes": "Official eSAKSHI REST API — Works: 25 recommended, 15 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:31:12.473603Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:26:58.904174Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:01.771601Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 25,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 31.020408163265305
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -110,7 +132,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:12.278440Z",
+          "fetched_at": "2026-09-02T14:27:01.217897Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +140,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "CPI(M) has no logical basis to return to power in Tripura: Biplab - TRIPURAINFO",
+        "source": "TRIPURAINFO",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzJDcjF2UGhuOHZSM3E0cU92OHBfVzVDYmU2MksyUUZUS2JtY2xKSWZUSnpCaTVjTkFxOTdKZTlscGtiMC00cEVROGZ2LVgwYXJRcFVSRUdyMUtLd2lYbXl1eWlrZ2VORnMyVlRHeHZaYXdZbDI2Tm5EaENoZ1p0Q0lqTzdCYVFicmRzX291NEhNUDlhcW1EQWJXUVBKVGtvbXNYYjVNbEtkWnZqTmR4UWxObHFVZTE4akhRTlJB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP And Newly Appointed BJP National General Secretary Biplab Kumar Deb Receives Grand Welcome In Tripura. - TRIPURA STAR NEWS",
+        "source": "TRIPURA STAR NEWS",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEpqWUdDSjNRX1ZZSDV4blllRlFFQW1OdGZ0ODJ5SDlhR1d0NHdHSmxMa2QxcnJfZVNudnNRajVkYWVkRndLaktaaWtFcTJCX0Jsb1FhSFdUckFnZmdTblE1V1dhb2FWaDhZcnlVVGtpeFZ4SlY5dUFVUW1PZ0FOTl80bVhRNGtYSy1DeGlSZ0tVSGhGNG9qYi1NdkxCRmlJeXFkOElicHRJbjNUWnNzQTAzLUdHOWtCQTNRMDBJV2pTTV9vTzBkS3V4TEY2bE45WFZr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Visit five households everyday to keep BJP in power forever, Biplab tells workers - Tripuratimes",
+        "source": "Tripuratimes",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORW5KMzhqTUJGR1ZqNTktNEhCRkNuZi0wM25SZWtNOWo5UzJPcG5ySUg3QW12WXlNUlFfSHVSUno0ZjBGQWJlMlpsMTZTSzZXbEVkakFsM0VFRWlhT1VsUXNQYVVkb3NrN3FJOElnM2tCZkpvTTRlZmZFMmJ4TFRjRU9LOWtKbXlzdkZUTTQ5cVh1ZVotcGtBckxYUEFwZm9DaHpIa080RUJBY1dmeHowa19sNUVEbk5DNXZnWGhadzBBZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Biplab Deb named BJP national general secy, Sambit Patra remains NE coordinator - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNenFFSl9yWVM1Qjl4bWdpZ0hpZ0pqbUpQeTdya2hRLUVGX0drb1gxXzhkaGxYaHFJVWhMVEFPMEo5MW9YSm4tOXNkUUZxb25PbnVETGowU1hPNm1xZVBKRks1NFRhNEZSbWtXcFZSNFRXTXlKQmlUbXAwdDc3SVdnUXNidnYxRGdyOTJMNG9fN2w0b19DZzQ1ajdCYzgzTDVlT3hib1U1YUYzVHpiZUl1M1VMcmVnQkZOb0VuUG5SWVZWRExHSTVCeXFkOTJ2czdha1ZrVXIyc00zTkdoT08taUpHWXgyN05QdVHSAe8BQVVfeXFMTmZLdHVINFlYRV9HaXhYRm9TX0Y3emptWGllMVhCYjJONkJtVWNvQWlLejk0R1J1QzY5OWVuNnByZkZYQll6cWRDdmRZdUY3M3ZCdDcwSmlRNWdFSEp4ZHZuUEQtRERsOW1hWGdKYmdQVTZPUW1LdWI1dFdQLUUxZnJVVjY0TVhUSjBvaWw2TkV2b2RpRGt5bVJhdlMtM1lJVXg5RDdxaGs2NTE3TTdMN1d3S2hsRHB0M2x1R3lDc1I3ZmRpdkl4aEhSNlBFZFJMVkNWMFRMSUNfUVUxYmZqV0c5TURSdEZhangzWWpPRGc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"Did the BJP Form the Government in Tripura Because of Biplab Kumar Deb?\" - TRIPURAINFO",
+        "source": "TRIPURAINFO",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOenNSNzhvaHNlZHlmTzBZVWhEeEI2WmdxTEJmaV9OV3lDYmFnS3NDUVVvLVJNRnNFclF3XzgtRkpZOVM4VC1nQXZ3bHBRaU9aVlVwS01vUi1TVFEyd3VnNDhJRkVibi1MSkVuMTJDdGhxQ3JSbG1hNjRjbG1YcjVRSlVDY1FDT0hmRVRkVFV6S1BrVFdIaENLdnBfWE9nVlY2Zy1wR0lROVh0STlWUXV3VVg0THFnejVKajdIQ0J3TnJsRU8zZW9JZDM4WUVQMWI5VXl2UWZsZE0?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:02.891147Z",
+    "collected_at": "2026-09-02T14:31:17.467731Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +212,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.073893Z",
+          "fetched_at": "2026-09-02T18:38:10.625913Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +228,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.073902Z",
+          "fetched_at": "2026-09-02T18:38:10.625924Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.073906Z",
+          "fetched_at": "2026-09-02T18:38:10.625930Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +260,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.073911Z",
+          "fetched_at": "2026-09-02T18:38:10.625936Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +276,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.073916Z",
+          "fetched_at": "2026-09-02T18:38:10.625942Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +292,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.073920Z",
+          "fetched_at": "2026-09-02T18:38:10.625947Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.073924Z",
+          "fetched_at": "2026-09-02T18:38:10.625952Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,56 +333,97 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "share",
+          "url": "https://twitter.com/share",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "sharer",
+          "url": "https://www.facebook.com/sharer",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "adrspeaks",
+          "url": "https://www.instagram.com/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "youtube",
+          "handle": "adrspeaks",
+          "url": "https://www.youtube.com/user/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 4,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:27:35.319420Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "BJP Tripura MP Biplab Kumar Deb on voter list revision claims - The News Mill",
-          "source": "The News Mill",
+          "headline": "CPI(M) has no logical basis to return to power in Tripura: Biplab - TRIPURAINFO",
+          "source": "TRIPURAINFO",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUJyMl81dWROQTdhN1lSaHcxOXRPN1JTNmU3X05tbW1oTlpxTTQwazlRTkdVcHVCa29ud3p3WHFOU0lWM2xTNzVUUXVZRG1XSVcyTDVJdUhaMmdUY0V1NVpCWFFndjJXQzV3SVVJamNBZ0IxSUxZQmJYV3MzZER4RmI1cllfeHNsQ3FWYmpoazdJRUlBM2VwTVM1TjVJcWpGR2JRYXUxTnc2V05h?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzJDcjF2UGhuOHZSM3E0cU92OHBfVzVDYmU2MksyUUZUS2JtY2xKSWZUSnpCaTVjTkFxOTdKZTlscGtiMC00cEVROGZ2LVgwYXJRcFVSRUdyMUtLd2lYbXl1eWlrZ2VORnMyVlRHeHZaYXdZbDI2Tm5EaENoZ1p0Q0lqTzdCYVFicmRzX291NEhNUDlhcW1EQWJXUVBKVGtvbXNYYjVNbEtkWnZqTmR4UWxObHFVZTE4akhRTlJB?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "MP And Former Tripura CM Biplab Kumar Deb Arrives In Tripura, After BJP’s West Bengal Poll Victory. - TRIPURA STAR NEWS",
+          "headline": "MP And Newly Appointed BJP National General Secretary Biplab Kumar Deb Receives Grand Welcome In Tripura. - TRIPURA STAR NEWS",
           "source": "TRIPURA STAR NEWS",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX1RPdXpBZmtRNVp4WWpQQnRDSmVOSHo3NWtROHFtdHNnc01rdXV1MWhjNUE0ZUV1TlFyQll5SlY4SEVJSERvYUVVRlp1b3JzcV9TWU5wdjhEYmp5eVFMbzQ0Y2JrOHpoSVoxdlM2WUFUNzJXS0x4Mmc1dllucHpZdVhRTGFTbGlpU0U3VUUtczJRMTJFU0g4cV9qZVczTV9mTTMwekwtdkgzLXJGOHFXVml3eEVBemFYQlMzQW5BdTh4QQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTEpqWUdDSjNRX1ZZSDV4blllRlFFQW1OdGZ0ODJ5SDlhR1d0NHdHSmxMa2QxcnJfZVNudnNRajVkYWVkRndLaktaaWtFcTJCX0Jsb1FhSFdUckFnZmdTblE1V1dhb2FWaDhZcnlVVGtpeFZ4SlY5dUFVUW1PZ0FOTl80bVhRNGtYSy1DeGlSZ0tVSGhGNG9qYi1NdkxCRmlJeXFkOElicHRJbjNUWnNzQTAzLUdHOWtCQTNRMDBJV2pTTV9vTzBkS3V4TEY2bE45WFZr?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Tripura MP Biplab Kumar Deb Reaffirms BJP’s Resolve in Bengal, Says “Defeat Is Not Written in My Stars” - Northeast Today",
-          "source": "Northeast Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWmdtVDlNdWt1bjl0SDhoM05kWjNVLW41Y0FiMXN1UGFILXlyelNBYk85RW0tQkRSVlNuRWdrTGNmZXRNODlnNjY4Y0NXZFlsbGZmZDhXMFQxM1NZMmVLWFBSZVQxU3QtWG9obzdHNjJmc3poTTNxQUtZaGpOQmRYbFdVaVFaT0JNQU5DYjJFUDJFeGlBS3J2SWNsMk9fVEwtWElEeGctWTJlSTNYM0ptS05HbktvS2pOWDdoVnlILW1YSmJNT3phd2g0cU1JcnRHVFE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "\"It would be incorrect to claim BJP benefited from SIR\": BJP Tripura MP Biplab Deb - ANI News",
-          "source": "ANI News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXNJUTA0RFctQzM1Z2FzeWRCV0VjZzBTY0dvWkt4LUF2VDBSYk0xSkV1V3ZHQlozMkhUT1dqSmJlV2k1RHhhdFZJNWkxa01tN0pEdFh3dFIzRHIyc3I1cUR3UVkxVzc4WUF2NkxjV3o1QUg0UjV2MFhaRVd6OE5VbkFvR3JienE4eG1yX2xIajcxOVJScTFaRlR6a3k1TFZhdUlQMGF0NjNrVGdPUG9ibmV3eS1OOElfSmFoQjZZOFZPLUdsNFM0cllQbUkyVVd3emZ1Z2lVR0d6Y0U?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "\"Defeat not written in my stars\": Biplab Kumar Deb congratulates Bengal on BJP's historic victory - Tripuratimes",
+          "headline": "Visit five households everyday to keep BJP in power forever, Biplab tells workers - Tripuratimes",
           "source": "Tripuratimes",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQVJ3VXJMa0VWLTlVR2IxVkxrN2UzeW1JSVpJTUp6M3hPSFpfVzFtNldwV2h3MFJpdGdjQ3k1dml4YU5yRGI4Z043bS1PRXpxV1NyN0IyRlQtWHFXWmd3MC1QUDVtQldfdnhTYlVnN2NPUUZRVGQ0bF9RMWZ4dzBuYjRNLWNUdWRHQ0tKS0MyV0FybmFmR0NKQkZWUWJhRkhzQXFUc1lsdS1mUVBzNEJBTXFPXzZtVGJlRy1QSGR2N2FPR2VZTDNXUFBmVmMtWXhBNFZ3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORW5KMzhqTUJGR1ZqNTktNEhCRkNuZi0wM25SZWtNOWo5UzJPcG5ySUg3QW12WXlNUlFfSHVSUno0ZjBGQWJlMlpsMTZTSzZXbEVkakFsM0VFRWlhT1VsUXNQYVVkb3NrN3FJOElnM2tCZkpvTTRlZmZFMmJ4TFRjRU9LOWtKbXlzdkZUTTQ5cVh1ZVotcGtBckxYUEFwZm9DaHpIa080RUJBY1dmeHowa19sNUVEbk5DNXZnWGhadzBBZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Biplab Deb named BJP national general secy, Sambit Patra remains NE coordinator - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNenFFSl9yWVM1Qjl4bWdpZ0hpZ0pqbUpQeTdya2hRLUVGX0drb1gxXzhkaGxYaHFJVWhMVEFPMEo5MW9YSm4tOXNkUUZxb25PbnVETGowU1hPNm1xZVBKRks1NFRhNEZSbWtXcFZSNFRXTXlKQmlUbXAwdDc3SVdnUXNidnYxRGdyOTJMNG9fN2w0b19DZzQ1ajdCYzgzTDVlT3hib1U1YUYzVHpiZUl1M1VMcmVnQkZOb0VuUG5SWVZWRExHSTVCeXFkOTJ2czdha1ZrVXIyc00zTkdoT08taUpHWXgyN05QdVHSAe8BQVVfeXFMTmZLdHVINFlYRV9HaXhYRm9TX0Y3emptWGllMVhCYjJONkJtVWNvQWlLejk0R1J1QzY5OWVuNnByZkZYQll6cWRDdmRZdUY3M3ZCdDcwSmlRNWdFSEp4ZHZuUEQtRERsOW1hWGdKYmdQVTZPUW1LdWI1dFdQLUUxZnJVVjY0TVhUSjBvaWw2TkV2b2RpRGt5bVJhdlMtM1lJVXg5RDdxaGs2NTE3TTdMN1d3S2hsRHB0M2x1R3lDc1I3ZmRpdkl4aEhSNlBFZFJMVkNWMFRMSUNfUVUxYmZqV0c5TURSdEZhangzWWpPRGc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "\"Did the BJP Form the Government in Tripura Because of Biplab Kumar Deb?\" - TRIPURAINFO",
+          "source": "TRIPURAINFO",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOenNSNzhvaHNlZHlmTzBZVWhEeEI2WmdxTEJmaV9OV3lDYmFnS3NDUVVvLVJNRnNFclF3XzgtRkpZOVM4VC1nQXZ3bHBRaU9aVlVwS01vUi1TVFEyd3VnNDhJRkVibi1MSkVuMTJDdGhxQ3JSbG1hNjRjbG1YcjVRSlVDY1FDT0hmRVRkVFV6S1BrVFdIaENLdnBfWE9nVlY2Zy1wR0lROVh0STlWUXV3VVg0THFnejVKajdIQ0J3TnJsRU8zZW9JZDM4WUVQMWI5VXl2UWZsZE0?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +457,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 40,
+      "starred_questions": 12,
+      "unstarred_questions": 28,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 78.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +473,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 80.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +504,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.43,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -420,6 +531,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 49,923,347. MPLADS utilization: 31.0%. Parliament attendance: 80.0%. Questions asked: 40. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:53.074656Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 49,923,347. Parliament attendance: 80.0%. Questions asked: 40. Debates participated: 3. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.626765Z"
 }

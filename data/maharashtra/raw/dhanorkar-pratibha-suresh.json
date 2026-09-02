@@ -4,7 +4,7 @@
     "constituency": "Chandrapur",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 300,
+    "myneta_candidate_id": 1873,
     "slug": "dhanorkar-pratibha-suresh",
     "house": "lok_sabha",
     "sansad_member_id": 5748,
@@ -24,60 +24,82 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:14.571612Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 803722094.0,
-    "liabilities": 552386611.0,
-    "net_worth": 251335483.0,
-    "previous_total_assets": null,
+    "movable_assets": 1067189791.0,
+    "immovable_assets": 4863335604.0,
+    "total_assets": 5930525395.0,
+    "liabilities": 2073376205.0,
+    "net_worth": 3857149190.0,
+    "previous_total_assets": 3.388920717338e+19,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=300",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.718908Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T15:25:53.324175Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 90.4,
-    "growth_ratio": null
+    "wealth_percentile": 96.9,
+    "growth_ratio": -0.9999999998250025
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 0.86,
-    "expended": 0.78,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:30:04.457717Z",
-        "notes": "Official eSAKSHI REST API — Works: 70 recommended, 7 sanctioned, 1 completed"
+        "fetched_at": "2026-09-02T15:29:39.672583Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:25:50.054629Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:25:50.051817Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 70,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 5.306122448979592
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:37:21.676777Z",
+        "fetched_at": "2026-09-02T15:25:50.050720Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Chandrapur election results 2024 live updates: Dhanorkar Pratibha Suresh Alias Balubhau of Congress wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQb0tpb01sVU12OEVIWHItNURkMEFOVGJFcncxTVlXTkN6TkpNSzhQbTBLd05acGxoUHVNMUV4VVJCQm1mZ0d0TElGWjQ1MG8yYmI4UlducjF2TnNQbzdYMFpEU1RnVUhhaFZPVmJWeFhlQllGZFRrRXJ5RWFYeDlSNF9HaG5yQkliVDlOLVZrOEZiTUV6OUp6NEhlT3dTa2ZTcWZ5TmpjQllVYkQzMUFHdDdtSW1yNWtIMFgzekltYkVjTUN5bmV3YTFaRWJlOUJ1RndyQ2FrMnRHcHZnSXAxUzB5b2lfM2NTanFxMUhfYm5ZUlBxWTBGMnhBeDU4cWVxUmx5alJzeHoyRG1DSEx6X0VGSGlMZ9IBmwJBVV95cUxNTEd6THJWSWRDUWE3R05UQ0hBdVdwejJDeC13RUZUbHZnazl3Ul83bVdUdkNIeks0SjdXUUUtaWJwNTNVbFRJRHQ5bXNjVFBaODNDUkpJRm03Q3Nqd1k5V2FMbTVPTGM1eklfLWxBNjE1bS1GejZuOURzM2lfdzlHc2tXS2Y3NlgycjRoRFg3YlR3MVRzb1dWZFdKZDVkMk5qOTBtV3J6MVZXWEM4ckZaMzBwOEhfUFA5SmN5dENpYUp2V3RmaXY4b0VYSWIta3FZVEZ4UGQ3aUhtZG9mM2E2Wk5FQmN6eWgzRmxTN2h2VExXbl9QRlFtTDhsU1hhTjlvYUVFbUcxS2J1U1RscXlOYmJqbVMtTjhQM3Vn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Suresh Dhanorkar, Congress’s lone LS MP from Maharashtra, dies at 48 - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUNCaG1KNkNsaW1WN3c0N1c5U3NHS184VVRKYktLOWFDeVh0c1lndzZudWRHQU45X2xmemZCVlhuU1Fudy1xT1dob0lONGFmUFBpOHNWRHROSVpRSmVoWldFNWJxdVJ1aFFSYzNOWHhLM19BQUlQcDNjSl93TWdFZTF3Y2RHTHd4VTBjRDF1bjQ4eFhQTHlidVVQRnNWMGlDVGs5Q3R4amhBbnfSAbIBQVVfeXFMTU5RQXlSSFJEekZZbjctbURUXzFaMUd2R0lvanFJZTRQaWhCbFg1WnpCbzlGTHJ0a2Jab29HTVJmZ0k5MmkwakxaaUxFM2haZGpaYVktVHF6LXN5TzZkUTJwaWN2cEJpYUE4OU01VWhDZlF5ZHRIM096MS1PaUh2bHJ3cmlEeGRtT01HZzcyNmZKcVZKa0ZJb2V0MHZ6TUMtalc0VzhTd3FIcmNMZXVBSFJwZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘A pro-incumbency tsunami is coming’: Sudhir Mungantiwar - Frontline Magazine",
+      "source": "Frontline Magazine",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXA5b2lUSVM3WDM3emZHVVJVZVM4dllFTWVDSGVWbENBeGw4b3BBQndRRjU1cHBHc2wtRXBVSkVKSF94RnpXSHYxM1lhWndSd1F4bTdrSEJqbl9JbTNOWFpDQkM3YkdEN0JlVkV6V3JnUW1iVVdsVFNMRUxlTnR3M3F6OHFtT2lGdXVjX0JRT2NWVWViUEREaXctZmkzQlB6bjhzU3V1dGY4cDVHTHBIVTEwcVpMX01YajgwZUNPb9IBxgFBVV95cUxNckpfWDhIU1JvYVhpNjlPVmRXRWY2VmQzVnZ0Yl9mM0ZuYVB0SlVueHhjaE5abVNWZC1QaE5LaGR4eDdhWjUxTzRNX0F3ajd1Z0xNWFFENHRLbmJQUTVfa0xWYnc2N0UyVHo1WkVwZFlJcXN1Ny1qSkYxcTZZa2tBOEx0QldIcmpfWm43SUE5QUNpQ2xnVHBieUlyXzdOeFYwX0JTVGR1VEV1dzFoc3plOU9fbjNnZmNnUjM4dXpfaHhrU3hCbFE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress's lone MP from Maharashtra Balu Dhanorkar dies at 47 - theweek.in",
+      "source": "theweek.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVpYYy1iRWYxRENTZkpiQXh4RXdRNU1WOUJHSDY2MVNqMS00UExMWUR0UnZUXzdDbHphbWdYaFYxQlUtQjlOc3h2SklkRTVsRGUwWWZTTnpIa05HRU1mT3FiYW9ySEhybnNGOVhlcTVpVmxka2Rpc3hqY0JQV013WFpaQmNXNnRxR2I5M1g0cjhDYWxNZk1EOXBxc0ZfaW41amxpaWpvVTNSX096UG1V0gG0AUFVX3lxTE9EbFFBRjhJSzZhSWdfMldSbDdzOGlQMU5aRVFXcVVRdEpfa2tYTzN6dURobXgta3B0YzFVNHNSWEhmbkJrejNOX1BUSWJZVG11Zzd5UVRuVm5yeTZFX09WSlJIeVRhSjlvQTBHWlZHSUlqTUkwVTJNbVFqWDV4dEF4cldUNlZoSVdzSng3MXg1UkI5NFBqZV9pSXZjbWJwek9DRzhJdFA0cUdrcm45d19tYy0tTA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Wadettiwar fails to prevail on Congress brass, Dhanorkar gets Chandrapur ticket - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkZLTk5HVm5qbEtqNnFyT3g1VmlYaG8tNkNQQ2tPdmVBaVM2T2xEVkhIVnVxYUh2WU1MdG9Cd0p2S19HYmFtX1I2MWJRLThWX1hua1Y0UjdCVW5tZHNPZDRaM2ZTYkN3dGV0NjBtQ3hrdlJsMEFuVHhIcjdrNUxySnRfSkFiazBxb3M5THpmYnAxNUNObmFKeFNYUF8wZHBVOXRoNG9QWHVfMG8wVlRIQ21yeEtLYlBaN2pwWXdvWU1QSmJ2Nkt1bmdMbjN4V09KOG9sanRLUFNPbEpBN0c4d1hVM3ZXVzjSAewBQVVfeXFMTmRIcnJMMDg2d0t6eXpLdkFWVHVVU3FHOHFOUWV4eWZLbGtsMjY1MWM1U0g4S0JaZUJpRWtsNUdRSkR4aTA0akJKZlp3SDJnMUFtNENuaHRRWDFjY0pkdEthbEpYVHRobmRyX3IzYjZOSkdkc2RXbXF4WWJzRC1CSGZjTWhXcVkwZ2ZoZ1hWenJ2RlVKcGpzTHhkcVZTMS1pRkJWdmY1WG9FSHBDZTZYc2FYX3V2c2V1N2VpajREckJLem84dUNuSkJZRTJweFF0bkU5OFFyeV9qQkwxSXU2MXdUSzJWTUZKRU1PZ0Y?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:37:53.517503Z",
+  "collected_at": "2026-09-02T15:29:39.674152Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.391536Z",
+        "fetched_at": "2026-09-02T18:38:07.942864Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.391544Z",
+        "fetched_at": "2026-09-02T18:38:07.942883Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.391550Z",
+        "fetched_at": "2026-09-02T18:38:07.942891Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.391555Z",
+        "fetched_at": "2026-09-02T18:38:07.942901Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.391560Z",
+        "fetched_at": "2026-09-02T18:38:07.942911Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.391565Z",
+        "fetched_at": "2026-09-02T18:38:07.942919Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.391569Z",
+        "fetched_at": "2026-09-02T18:38:07.942927Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,50 +315,59 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "share",
+        "url": "https://twitter.com/share",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "sharer",
+        "url": "https://www.facebook.com/sharer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "adrspeaks",
+        "url": "https://www.instagram.com/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "youtube",
+        "handle": "adrspeaks",
+        "url": "https://www.youtube.com/user/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 4,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:26:35.499863Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 8,
     "top_headlines": [
-      {
-        "headline": "Dhanorkar-Andhare open spatdeepens Chandrapur MVA rift - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFlwZkEyaFVBdUltMG9CWDRMZWxwTDNudFZnSUJsQmVYeXA3dUdZcm01V2JVMzhXX3VUMDgxVjhqaUFMU2Q0dllRUVZUbkJkb3ZJYUFSWTl3NGs0N25pbWZ4dWVqVVFWeWJhbzhseXhBYk1EM2VzMVZTelhKeFBQNVlvZloyNkVkTWVJQ1lHWTdQQlBkMTNjWkQwSmtpVVVsYm5XcXBmX2Q3bU5WaW9PUjdmU2dGXzRVSUczMndtdk4yY0I5dUNz0gHMAUFVX3lxTE1LQUZhaUdFVzljZEVqOEZSNkp5cUY0Umdac21rTXhzc2NtUlBPR3JNVU50NlViNTBKc2VIbmRlUXM4WFU4bEZzWGpmU25RREM4Y2F3UExvVlEyd3NDaEFtX1JWZTNpVHd4bHg0R0FTSm1HS2RPQlNtcVNVaXpYS05CUFBYdXFaWXlaR1Vha1RTMDJUa05sVHFHSGp3ZmJOZVBYdXZtWmxHRDIyZWk4WWFnOVpwVVhrOWJVSi1MUTJzLVk1SXJuSWd6Qmd5VQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Suresh ‘Balu’ Dhanorkar, Congress’ sole Lok Sabha MP from Maharashtra, passes away - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1dPQVVkcVZkVkJneGVzaHZLX0w1Z1QtS1BrTVBvNTNZMkhXczlSV3RqLUlqOXdDVHpoWDlrNkpyT25zUFE4YXZzUDhxNjgtazdWMUhCTy1oU0ZFM29TSnlIWXFkQTJmMzdWR3RHY2dfS0RKRDVJNDFWMmVRb3pEVzF4TURSS25obzloZEd2ZndLYUpmSHlKbTI0M0lLMGJEbm11MEhOZ2Y5T1RTM2g4OVF30gG4AUFVX3lxTE5yb09OWnBuazI4ZnpudkY0eEJTZTFadVEzOXN1eERxNHR2UGdIc2xuSUsyUkIyZmd4SjhUbjJRRlJtR2gxSjVKOUVOWTJLN2hRRnl4MHB6bFpLeXZ2OTloblNkeC1BdW5ob2NGRmFzZXVLcU1PMGt4b2xicGFpVkhpRm5GdUtjNWZwR25qTHVFM19MNzJEaC1uZWhsTjFMRGlqT3BfYjd1SDJZbTBEMnJ0Wk53N0VJd00?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Maha Congress rift: Wadettiwar and Dhanorkar at loggerheads over leadership selection - IANS LIVE",
-        "source": "IANS LIVE",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSG1pWmF0T05aS05MaHVIdGlrd1o1SE9QYXdJTWVqNFpwVUYyak9lcGFCOXVKYW5VVklYOHRuSEZ2akduUm9CdU9HeGNWdVduQjg1SGsyeURoNlQ0M2htODdMNkZYOGNYNktQdkFac1MzSmZLaGZMcWoxeTVnLWlCYTh5YUhhQ2xGeEk0dUpCY1hRZVJsZVNNVTdGdTFyM2ZSVk5tbVlBZ0lDWHNCVDFTS1FwTHB0Ymc1NjNSNzF4WTlyY1pKZTVtMS1DUVZ6dnVTZ0ttYQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Political Profile of Dhanorkar Pratibha Suresh Alias Balubhau, Inc Party, Chandrapur, and Net Worth - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSWFkWVdaZGNBNThfaWxlVW5vQU51ZXN5ZWl2NktZdnB0S2RfVzFXR2RWdlBCZnJ6VGdhWm5lSUgwb1lYdjltU3FBNmhYSXl3OXJrMldlY1ZnUlpsLS1EOHFLeGhEbHBRR2s5ZlA0cjFHc3ZPXzkySy01NjY4d1ZHOE16V0p2YV9BZThOV3FhVVlWZFlSYktIenVjY3hMRmJLVXppMnhiNnlSM2xuRG1BVEtjVmtLUjg4WjgxNFJhdHg0R3pPY3VHZ2o1R19CVVhCM3lUQk1WR3VNYi1BNU04YjdpdkZFOFRGQ1hFaEMyLThMbGxENGxsblN2Y0M3SjJLQW5qYg?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Chandrapur election results 2024 live updates: Dhanorkar Pratibha Suresh Alias Balubhau of Congress wins - The Times of India",
         "source": "The Times of India",
@@ -302,9 +375,41 @@
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQb0tpb01sVU12OEVIWHItNURkMEFOVGJFcncxTVlXTkN6TkpNSzhQbTBLd05acGxoUHVNMUV4VVJCQm1mZ0d0TElGWjQ1MG8yYmI4UlducjF2TnNQbzdYMFpEU1RnVUhhaFZPVmJWeFhlQllGZFRrRXJ5RWFYeDlSNF9HaG5yQkliVDlOLVZrOEZiTUV6OUp6NEhlT3dTa2ZTcWZ5TmpjQllVYkQzMUFHdDdtSW1yNWtIMFgzekltYkVjTUN5bmV3YTFaRWJlOUJ1RndyQ2FrMnRHcHZnSXAxUzB5b2lfM2NTanFxMUhfYm5ZUlBxWTBGMnhBeDU4cWVxUmx5alJzeHoyRG1DSEx6X0VGSGlMZ9IBmwJBVV95cUxNTEd6THJWSWRDUWE3R05UQ0hBdVdwejJDeC13RUZUbHZnazl3Ul83bVdUdkNIeks0SjdXUUUtaWJwNTNVbFRJRHQ5bXNjVFBaODNDUkpJRm03Q3Nqd1k5V2FMbTVPTGM1eklfLWxBNjE1bS1GejZuOURzM2lfdzlHc2tXS2Y3NlgycjRoRFg3YlR3MVRzb1dWZFdKZDVkMk5qOTBtV3J6MVZXWEM4ckZaMzBwOEhfUFA5SmN5dENpYUp2V3RmaXY4b0VYSWIta3FZVEZ4UGQ3aUhtZG9mM2E2Wk5FQmN6eWgzRmxTN2h2VExXbl9QRlFtTDhsU1hhTjlvYUVFbUcxS2J1U1RscXlOYmJqbVMtTjhQM3Vn?oc=5",
         "sentiment": "neutral"
+      },
+      {
+        "headline": "Suresh Dhanorkar, Congress’s lone LS MP from Maharashtra, dies at 48 - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUNCaG1KNkNsaW1WN3c0N1c5U3NHS184VVRKYktLOWFDeVh0c1lndzZudWRHQU45X2xmemZCVlhuU1Fudy1xT1dob0lONGFmUFBpOHNWRHROSVpRSmVoWldFNWJxdVJ1aFFSYzNOWHhLM19BQUlQcDNjSl93TWdFZTF3Y2RHTHd4VTBjRDF1bjQ4eFhQTHlidVVQRnNWMGlDVGs5Q3R4amhBbnfSAbIBQVVfeXFMTU5RQXlSSFJEekZZbjctbURUXzFaMUd2R0lvanFJZTRQaWhCbFg1WnpCbzlGTHJ0a2Jab29HTVJmZ0k5MmkwakxaaUxFM2haZGpaYVktVHF6LXN5TzZkUTJwaWN2cEJpYUE4OU01VWhDZlF5ZHRIM096MS1PaUh2bHJ3cmlEeGRtT01HZzcyNmZKcVZKa0ZJb2V0MHZ6TUMtalc0VzhTd3FIcmNMZXVBSFJwZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘A pro-incumbency tsunami is coming’: Sudhir Mungantiwar - Frontline Magazine",
+        "source": "Frontline Magazine",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXA5b2lUSVM3WDM3emZHVVJVZVM4dllFTWVDSGVWbENBeGw4b3BBQndRRjU1cHBHc2wtRXBVSkVKSF94RnpXSHYxM1lhWndSd1F4bTdrSEJqbl9JbTNOWFpDQkM3YkdEN0JlVkV6V3JnUW1iVVdsVFNMRUxlTnR3M3F6OHFtT2lGdXVjX0JRT2NWVWViUEREaXctZmkzQlB6bjhzU3V1dGY4cDVHTHBIVTEwcVpMX01YajgwZUNPb9IBxgFBVV95cUxNckpfWDhIU1JvYVhpNjlPVmRXRWY2VmQzVnZ0Yl9mM0ZuYVB0SlVueHhjaE5abVNWZC1QaE5LaGR4eDdhWjUxTzRNX0F3ajd1Z0xNWFFENHRLbmJQUTVfa0xWYnc2N0UyVHo1WkVwZFlJcXN1Ny1qSkYxcTZZa2tBOEx0QldIcmpfWm43SUE5QUNpQ2xnVHBieUlyXzdOeFYwX0JTVGR1VEV1dzFoc3plOU9fbjNnZmNnUjM4dXpfaHhrU3hCbFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress's lone MP from Maharashtra Balu Dhanorkar dies at 47 - theweek.in",
+        "source": "theweek.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVpYYy1iRWYxRENTZkpiQXh4RXdRNU1WOUJHSDY2MVNqMS00UExMWUR0UnZUXzdDbHphbWdYaFYxQlUtQjlOc3h2SklkRTVsRGUwWWZTTnpIa05HRU1mT3FiYW9ySEhybnNGOVhlcTVpVmxka2Rpc3hqY0JQV013WFpaQmNXNnRxR2I5M1g0cjhDYWxNZk1EOXBxc0ZfaW41amxpaWpvVTNSX096UG1V0gG0AUFVX3lxTE9EbFFBRjhJSzZhSWdfMldSbDdzOGlQMU5aRVFXcVVRdEpfa2tYTzN6dURobXgta3B0YzFVNHNSWEhmbkJrejNOX1BUSWJZVG11Zzd5UVRuVm5yeTZFX09WSlJIeVRhSjlvQTBHWlZHSUlqTUkwVTJNbVFqWDV4dEF4cldUNlZoSVdzSng3MXg1UkI5NFBqZV9pSXZjbWJwek9DRzhJdFA0cUdrcm45d19tYy0tTA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Wadettiwar fails to prevail on Congress brass, Dhanorkar gets Chandrapur ticket - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkZLTk5HVm5qbEtqNnFyT3g1VmlYaG8tNkNQQ2tPdmVBaVM2T2xEVkhIVnVxYUh2WU1MdG9Cd0p2S19HYmFtX1I2MWJRLThWX1hua1Y0UjdCVW5tZHNPZDRaM2ZTYkN3dGV0NjBtQ3hrdlJsMEFuVHhIcjdrNUxySnRfSkFiazBxb3M5THpmYnAxNUNObmFKeFNYUF8wZHBVOXRoNG9QWHVfMG8wVlRIQ21yeEtLYlBaN2pwWXdvWU1QSmJ2Nkt1bmdMbjN4V09KOG9sanRLUFNPbEpBN0c4d1hVM3ZXVzjSAewBQVVfeXFMTmRIcnJMMDg2d0t6eXpLdkFWVHVVU3FHOHFOUWV4eWZLbGtsMjY1MWM1U0g4S0JaZUJpRWtsNUdRSkR4aTA0akJKZlp3SDJnMUFtNENuaHRRWDFjY0pkdEthbEpYVHRobmRyX3IzYjZOSkdkc2RXbXF4WWJzRC1CSGZjTWhXcVkwZ2ZoZ1hWenJ2RlVKcGpzTHhkcVZTMS1pRkJWdmY1WG9FSHBDZTZYc2FYX3V2c2V1N2VpajREckJLem84dUNuSkJZRTJweFF0bkU5OFFyeV9qQkwxSXU2MXdUSzJWTUZKRU1PZ0Y?oc=5",
+        "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +439,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 19,
+    "starred_questions": 5,
+    "unstarred_questions": 14,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 36.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +455,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

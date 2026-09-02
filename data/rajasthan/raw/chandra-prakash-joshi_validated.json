@@ -4,16 +4,16 @@
     "constituency": "Chittorgarh",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2025,
+    "myneta_candidate_id": null,
     "slug": "chandra-prakash-joshi",
     "house": "lok_sabha",
     "sansad_member_id": 4671,
     "profile_url": null,
     "canonical_name": "Chandra Prakash Joshi",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 48,
+    "age": null,
     "photo_url": "/mp-photos/4671.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Chittorgarh",
       "state": "rajasthan",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 2025,
+      "myneta_candidate_id": null,
       "slug": "chandra-prakash-joshi",
       "house": "lok_sabha",
       "sansad_member_id": 4671,
       "profile_url": null,
       "canonical_name": "Chandra Prakash Joshi",
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 48,
+      "age": null,
       "photo_url": "/mp-photos/4671.jpg"
     },
     "criminal_record": {
@@ -42,65 +42,79 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:08.611845Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 40973304.0,
-      "liabilities": 8627349.0,
-      "net_worth": 32345955.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2025",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:51.611090Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 32.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 0.65,
-      "expended": 0.4,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:44:49.963669Z",
-          "notes": "Official eSAKSHI REST API — Works: 18 recommended, 15 sanctioned, 8 completed"
+          "fetched_at": "2026-09-02T14:38:49.641228Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:35:08.916552Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:35:08.914600Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 18,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 2.72108843537415
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
-      "attendance_percentage": 85.0,
-      "questions_asked": 37,
-      "debates_participated": 5,
+      "attendance_percentage": 100.0,
+      "questions_asked": 39,
+      "debates_participated": 9,
       "private_bills_introduced": 0,
       "is_minister": false,
       "source": "prs",
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:24:16.243494Z",
+          "fetched_at": "2026-09-02T14:35:08.913797Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "BJP shuffle: In Rajasthan surprise, Brahmin leader brought in as state chief - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGhXSlNQT2ZFcWlJX2doYmZMSVVmYl8wSWVtYlNUOW1IZ1VucXlBT3QtXzRXRzJPNlE1MEpRbGstbWZWUGF3OGREQkYyQUlTR19JbkN1X1NIdkRBMXZyRUQ3TjVfM3kwc0JieUhBZzlVREl2MWhWOU1TMXhTbjgtZ1dGMFpaWXZfZXRxeExfYVNXbVBLeHN6V1p2TXFfYUlvdFJ3Um45NWZ4SDg0MGp2QjdKVmtEaG_SAb4BQVVfeXFMTXA0TFhqVE5xZnhldGFsLUFYVVd4YnpxaTBXaWdZX2FRcHlMQzlSdkVyRTZoZERiVUJpSHFlZXFwSmNacVFrQVYtTnlpdUhFaVdyZ3JsWmFlV0thLWRkaVo2aHZBV25maXJaMXQ3ZGktR0JsREk4ZnJfTFhSWGhSaFVMTWRTdmlZbWV0Q2tDOVZ1dTlLbUI0ZzRFY0FJUGlpNkZmTVh4bUpMWF9pOXpmbzFPbXYtdENuNGwxUVZ2dw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chittorgarh election results 2024 live updates: BJP's Chandra Prakash Joshi wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPNnh6eG1YYmgxY2NEbHN4ZzBwUjJUck9qbUFjSllBNG5YQmpEczJHRldIc1JZQXRsMGV3VW9wYktINm9LVVpqQ2R3VHRJVUFRTTNLYnZTZkJwSVF1SzZETnJJbUZmYUxvakRmUDBEcGdmb0xPc01icUo0SkJWdXIyY0ZQV0VRN2N5MG9ucXVjUzFsZ3pSaXBWQ2hmX0RiaU9Ncy1mQnJwVlJ0SHVwUE5pRWtIRmdnMFJVUVM4SVJELVQ1d0tKWmhaem9EQkgzamVyYnk2MERCU1MzLWQ2cTJTSXdsbW52S1lnYlBmeUNIVGtuV1psV2hJZDV5bnRHVk44X3JmcVJ4cGsyM01saUN4Y1ZoYVpuVHp5eFBfYm85MWhnNkVFZFdrUFphbkxiTVhNQkxuSHBBNndpM0VabjAzaEFXRzZ6YWVTVVRtSVNvVzVhZ9IB1wJBVV95cUxOMVJtSmtBMTdOSExHckNZaXNjUl8zb0U3TXlxQmJ2TFFXajJFMUtiQklxeUw1NklJREhiUDBhNmdmbS13VURBc1ItM3dhRHRIc0o0ajQxWU9PRngySW5scnZ0TmlDaW4zQV8tN1ZSOUppYVZpTDNOZ1JCdFBqNWVZTE9reHlGczNNRnBOZVZIRVBMdnozSXBjSzR1bnB4T1JaVDdJVUI4cXBsZ0gxeUxyb1dYemlPQlY2Rk9mOFRtQlUzWWJpazR3U3NnYkdxZjJBNXlxUnduZUNHazd5Z3Z4dDhnVFhsdjVTWi1GbkZvLXkyT180T2hmeEt3S3dkNkNGbnRGNWZDYnNwRF9jOTl3RzJITEpTR0NJT3hRLWpuRGZCcDJlSVlNajhMM3k0d281X2ZNUGlITFBCdU1hU0pNSDZsTE9Zcy0zWmlyRGsyM096RXl1bFdV?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "ELECTION 2024 | BJP batting anti-incumbency in Rajasthan - Frontline Magazine",
+        "source": "Frontline Magazine",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOV9xRlphZ2ozQXJJb1BZSzhpZXFwaHBSaDFZYVZ2YTFGMENhRjZMM1JvRXVLcGpmUmlNX0ZVZ3AyNVRSWkNiTnVsbVdvOXh2Tkxma3A5bUdtcWlCUTJQYXVrNi1qc2JoblM5YTQ0Z0F1V3hiSWZlN3pVZm45b0RhbkJNQjZLVUhEV1BkY1p2NnZuYVhPTXJfdlQ3SkhGTTlPdk5GNE4yZzhZb0ViX2pxb19TRHFiQnlWRE96OGVIZ9IBxgFBVV95cUxOR09pX3RZbmJPbVNpMFV2aTJtNXVmbjVJT1VybUhZTnExVmRhblhFSTFSRlBjYUpVMGNTdzRtNmhSUXBYV3FTWUw1MDhlbkpZYXZ4RTIzdkV3YUhycmpUTHZRR1ZKRUNmQ3hoQ1NvYy1oUEVIWmFIZllEX1JWclJOcUhFRmFkSjNUSFg4QzYzUXBEMDNyY19rQ1Y3MlpqODJBVFRFY3RKcC1FZDMyMW96V3RibFJhMlFoYmlNLTJGY3Z2RjJfTnc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chittorgarh lok sabha election results 2024: Chittorgarh Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2kyamplRGJ3UmV3NUpLc0dma1pCU2tNdTE1aTBfakxsSDNGUldwX3FiRTl3YThGNU9BMF9xUE1hVVpLc1dmbTZHN0QwRVdUWnpka2VpN3NQX1pBWXZDM2JlQTlhQ3ozLTZNVDRMR0FSX3hXNUY2NnpuUDlqeVVsajBESEl5dWlod2VKWmhNdXFYb2JTV1I2ZA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Massive Stone Pelting Reported In Rajasthan’s Chittorgarh Over Killing Of Former BJP Councillor Jagdish Soni' - India.com",
+        "source": "India.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUNIeGtiYUlVTUozSGctbmVEWThUeGlCT3puNjBEWWkyQ3h6c2ZWdmdpMl81WHhIUnZoaGc2WXRGc1FXM2h6dmJlVmdZYVZtNXZmQmVhWFE3bnFhdVJRdmF0Q0plOFlySVVBRHBEZkVzS1dQQmxHblp4emFGcGJROE1FNFZQSDBTNnlPbkNIamRjdTE5SGNRblloSnlvSjhsejdaNl9rYUNzNF9NT01fV09pajhMSmdKVFhSNFJmOUFvWHR3QUc3XzNDWU1ORzNqWjFFdktBU2ZXamxVTzFlMU1QWWRKNlJpc3A3M29QVlpOZ9IB9wFBVV95cUxNTnZ3TjdOZzMtUi1HUk9iUHhWV3pFNUhDRTZQSFlqeW5IekdPUGdKMkV1dFdwZTJPVW1QZ0hoeTNMaTdWY2pkbVBLOTFaV0F6VHZrVS1lMGVGQXVQeGJQd2NJX2N5UWF6Y3JBQ0taQlVUNDNBY1JEd1J3NWNaV1hLRTN3Y1lPM0Y4bEFHNGVidHBfZXBmdDNZTmh2S1I4WmhWdC1yeDUydlBfSTE5LTFjYTBSVWl4OFdETlJ5NDVhRVlmMDl3RVB1bnhMMXdGeUlhTjhfSVdEUjV1VGNXc2NON0FGa0JudjI4Rmw3WExGdzktWTU4aEZF?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:25:18.924250Z",
+    "collected_at": "2026-09-02T14:38:49.642279Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.902587Z",
+          "fetched_at": "2026-09-02T18:38:09.337696Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.902609Z",
+          "fetched_at": "2026-09-02T18:38:09.337708Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.902619Z",
+          "fetched_at": "2026-09-02T18:38:09.337714Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.902629Z",
+          "fetched_at": "2026-09-02T18:38:09.337719Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.902640Z",
+          "fetched_at": "2026-09-02T18:38:09.337727Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.902648Z",
+          "fetched_at": "2026-09-02T18:38:09.337732Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.902666Z",
+          "fetched_at": "2026-09-02T18:38:09.337736Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,18 +322,59 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/cpjoshiBJP",
+          "url": "https://x.com/http://www.twitter.com/cpjoshiBJP",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/mpcpjoshibjp",
+          "url": "https://facebook.com/http://www.facebook.com/mpcpjoshibjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "http://www.instagram.com/cpjoshibjp",
+          "url": "https://instagram.com/http://www.instagram.com/cpjoshibjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:35:12.670949Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 9,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
+        {
+          "headline": "BJP shuffle: In Rajasthan surprise, Brahmin leader brought in as state chief - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGhXSlNQT2ZFcWlJX2doYmZMSVVmYl8wSWVtYlNUOW1IZ1VucXlBT3QtXzRXRzJPNlE1MEpRbGstbWZWUGF3OGREQkYyQUlTR19JbkN1X1NIdkRBMXZyRUQ3TjVfM3kwc0JieUhBZzlVREl2MWhWOU1TMXhTbjgtZ1dGMFpaWXZfZXRxeExfYVNXbVBLeHN6V1p2TXFfYUlvdFJ3Um45NWZ4SDg0MGp2QjdKVmtEaG_SAb4BQVVfeXFMTXA0TFhqVE5xZnhldGFsLUFYVVd4YnpxaTBXaWdZX2FRcHlMQzlSdkVyRTZoZERiVUJpSHFlZXFwSmNacVFrQVYtTnlpdUhFaVdyZ3JsWmFlV0thLWRkaVo2aHZBV25maXJaMXQ3ZGktR0JsREk4ZnJfTFhSWGhSaFVMTWRTdmlZbWV0Q2tDOVZ1dTlLbUI0ZzRFY0FJUGlpNkZmTVh4bUpMWF9pOXpmbzFPbXYtdENuNGwxUVZ2dw?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Chittorgarh election results 2024 live updates: BJP's Chandra Prakash Joshi wins - The Times of India",
           "source": "The Times of India",
@@ -290,39 +384,31 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Lok Sabha Polls 2024 | Face-off: Chandra Prakash Joshi vs Udai Lal Anjana - Deccan Herald",
-          "source": "Deccan Herald",
+          "headline": "ELECTION 2024 | BJP batting anti-incumbency in Rajasthan - Frontline Magazine",
+          "source": "Frontline Magazine",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3JrV3RQUXFqbGZPWFdnT2Z0Q2todG8yZzNhSGo1LUtQbkYzS2J3bWpjUkJoUHlsMkVWYnNwYTVpNERIMWNQRWRtNHdXVU1IZ3ZoV3hBU0o4cU9VZG5FZnRnakNuS2ZtWTJzNUtpZHdEUGhBWEpiWFhZQ3dkREdzWGVZbENRTHVGVVBBeGFVaUxvR2gyVF9VVXk4YTZSS1oyVnEwNDhQSHh3eG9nNWNEaUpxUldhZzNza1A1M2hYb04?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOV9xRlphZ2ozQXJJb1BZSzhpZXFwaHBSaDFZYVZ2YTFGMENhRjZMM1JvRXVLcGpmUmlNX0ZVZ3AyNVRSWkNiTnVsbVdvOXh2Tkxma3A5bUdtcWlCUTJQYXVrNi1qc2JoblM5YTQ0Z0F1V3hiSWZlN3pVZm45b0RhbkJNQjZLVUhEV1BkY1p2NnZuYVhPTXJfdlQ3SkhGTTlPdk5GNE4yZzhZb0ViX2pxb19TRHFiQnlWRE96OGVIZ9IBxgFBVV95cUxOR09pX3RZbmJPbVNpMFV2aTJtNXVmbjVJT1VybUhZTnExVmRhblhFSTFSRlBjYUpVMGNTdzRtNmhSUXBYV3FTWUw1MDhlbkpZYXZ4RTIzdkV3YUhycmpUTHZRR1ZKRUNmQ3hoQ1NvYy1oUEVIWmFIZllEX1JWclJOcUhFRmFkSjNUSFg4QzYzUXBEMDNyY19rQ1Y3MlpqODJBVFRFY3RKcC1FZDMyMW96V3RibFJhMlFoYmlNLTJGY3Z2RjJfTnc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Chittorgarh’s BJP MP to Head Joint Committee on MSCS (Amend), 2022 - Indian Cooperative",
-          "source": "Indian Cooperative",
+          "headline": "Chittorgarh lok sabha election results 2024: Chittorgarh Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc2RmR2pQTVJHSmZvV29pWU5jcW5FZ0tlWVFhbUdtT2xuclZSeEd2ZVJMSmRicjBCQ3NRakYzZ05QN1AxZWtVZFhBcnJLdXp3LXJPZTIydWxSbWdvc0stTnU3X3hqU2I0T2lXNXkyeEdjYndOR09mNWtlSmp2b2llTjhwckZWNGF0alYyaGl6LV9HOFh3OVNEejNJMWRQVUJtWXFhVUFGRWU1X3ZuaHfSAbMBQVVfeXFMTXA4dTRYVS1UMU5jVG15ZlBHa2JjWlR5aXJHenNabXdUdGxlc09ZeW1mTC1wR0tySl9CeTY5d1h6eklfRnBJLU9KNE11dmhpeTNsbFRmb0dmN1hFZ2w2Qm01YXZuZzZlaVMydnE0cTl1cDA3Ym1vV1E3NE9IRzhYRVkwWkpUWlR4SUoySUpodDRJRHhzVlN3a29Fbkx2MWdYZWVSVDBzemFoeUg5Z2dnNVFkREU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2kyamplRGJ3UmV3NUpLc0dma1pCU2tNdTE1aTBfakxsSDNGUldwX3FiRTl3YThGNU9BMF9xUE1hVVpLc1dmbTZHN0QwRVdUWnpka2VpN3NQX1pBWXZDM2JlQTlhQ3ozLTZNVDRMR0FSX3hXNUY2NnpuUDlqeVVsajBESEl5dWlod2VKWmhNdXFYb2JTV1I2ZA?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Chandra Prakash Joshi , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-          "source": "The Hindu",
+          "headline": "Massive Stone Pelting Reported In Rajasthan’s Chittorgarh Over Killing Of Former BJP Councillor Jagdish Soni' - India.com",
+          "source": "India.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjVUc0ZELW8wZTZFWms1cTI5MTEwb3JpclN4RldlZ0RkYTlNN1lwaDhEMkJfUWdfN2JzbVlFb3A1TW51OGJjaGE3eHktVUQzb3loYzZVZTl1ZEtwdmJTZDJBaERMalZNdTNTeEJLdEhEcVZVckhNNEtTbHFmWWUyVDNmdmhyOU42T3BIdHU2WQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "BJP shuffle: In Rajasthan surprise, Brahmin leader brought in as state chief - The Indian Express",
-          "source": "The Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGhXSlNQT2ZFcWlJX2doYmZMSVVmYl8wSWVtYlNUOW1IZ1VucXlBT3QtXzRXRzJPNlE1MEpRbGstbWZWUGF3OGREQkYyQUlTR19JbkN1X1NIdkRBMXZyRUQ3TjVfM3kwc0JieUhBZzlVREl2MWhWOU1TMXhTbjgtZ1dGMFpaWXZfZXRxeExfYVNXbVBLeHN6V1p2TXFfYUlvdFJ3Um45NWZ4SDg0MGp2QjdKVmtEaG_SAb4BQVVfeXFMTXA0TFhqVE5xZnhldGFsLUFYVVd4YnpxaTBXaWdZX2FRcHlMQzlSdkVyRTZoZERiVUJpSHFlZXFwSmNacVFrQVYtTnlpdUhFaVdyZ3JsWmFlV0thLWRkaVo2aHZBV25maXJaMXQ3ZGktR0JsREk4ZnJfTFhSWGhSaFVMTWRTdmlZbWV0Q2tDOVZ1dTlLbUI0ZzRFY0FJUGlpNkZmTVh4bUpMWF9pOXpmbzFPbXYtdENuNGwxUVZ2dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUNIeGtiYUlVTUozSGctbmVEWThUeGlCT3puNjBEWWkyQ3h6c2ZWdmdpMl81WHhIUnZoaGc2WXRGc1FXM2h6dmJlVmdZYVZtNXZmQmVhWFE3bnFhdVJRdmF0Q0plOFlySVVBRHBEZkVzS1dQQmxHblp4emFGcGJROE1FNFZQSDBTNnlPbkNIamRjdTE5SGNRblloSnlvSjhsejdaNl9rYUNzNF9NT01fV09pajhMSmdKVFhSNFJmOUFvWHR3QUc3XzNDWU1ORzNqWjFFdktBU2ZXamxVTzFlMU1QWWRKNlJpc3A3M29QVlpOZ9IB9wFBVV95cUxNTnZ3TjdOZzMtUi1HUk9iUHhWV3pFNUhDRTZQSFlqeW5IekdPUGdKMkV1dFdwZTJPVW1QZ0hoeTNMaTdWY2pkbVBLOTFaV0F6VHZrVS1lMGVGQXVQeGJQd2NJX2N5UWF6Y3JBQ0taQlVUNDNBY1JEd1J3NWNaV1hLRTN3Y1lPM0Y4bEFHNGVidHBfZXBmdDNZTmh2S1I4WmhWdC1yeDUydlBfSTE5LTFjYTBSVWl4OFdETlJ5NDVhRVlmMDl3RVB1bnhMMXdGeUlhTjhfSVdEUjV1VGNXc2NON0FGa0JudjI4Rmw3WExGdzktWTU4aEZF?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -352,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 39,
+      "starred_questions": 11,
+      "unstarred_questions": 28,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 75.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +485,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Rajasthan: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 40,973,304. MPLADS utilization: 2.7%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 5. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:51.904177Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 39. Debates participated: 9. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.338557Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Nagina",
     "state": "uttar pradesh",
     "party": "Azad Samaj Party (Kanshi Ram)",
-    "myneta_candidate_id": 5384,
+    "myneta_candidate_id": null,
     "slug": "chandra-shekhar",
     "house": "lok_sabha",
     "sansad_member_id": 5647,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 43,
+    "age": null,
     "photo_url": "/mp-photos/5647.jpg"
   },
   "findings": {
@@ -22,88 +22,114 @@
       "constituency": "Nagina",
       "state": "uttar pradesh",
       "party": "Azad Samaj Party (Kanshi Ram)",
-      "myneta_candidate_id": 5384,
+      "myneta_candidate_id": null,
       "slug": "chandra-shekhar",
       "house": "lok_sabha",
       "sansad_member_id": 5647,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 43,
+      "age": null,
       "photo_url": "/mp-photos/5647.jpg"
     },
     "criminal_record": {
       "total_cases": 1,
-      "serious_cases": 0,
+      "serious_cases": 1,
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "310/18 P.S-Kotwali Dist-Sitapur",
+          "ipc_sections": [
+            "420"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Civil Judge (C.D. 1 Fast Track Court) Sitapur",
+          "fir_no": "310/18 P.S-Kotwali Dist-Sitapur",
+          "case_no": "",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5384",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:53.896257Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:36:55.164197Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 14403311.0,
-      "liabilities": 600000.0,
-      "net_worth": 13803311.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5384",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:53.896274Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 12.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.13,
-      "expended": 7.97,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:50:40.675819Z",
-          "notes": "Official eSAKSHI REST API — Works: 512 recommended, 504 sanctioned, 276 completed"
+          "fetched_at": "2026-09-02T17:44:16.199336Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:40:10.557049Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:40:10.553986Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 512,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 54.21768707482993
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -118,7 +144,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:08:00.975596Z",
+          "fetched_at": "2026-09-02T17:40:10.552919Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +152,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Nagina MP Chandra Shekhar Azad continues protest in Parliament in support of students - The Hindu",
+        "source": "The Hindu",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQzU0VkxrV0kzMTJ5d3lzVWlXNVI3MGJTS2syWDJBQXBlc0ZhRjRVLXN6RGRSZ2lZdmtRUU1CUWgwa1dZajhTS2tvRUtUNGc4TzRiWE9HSXVaQnc2VkJXRHRuNUxSbWEyODVBa2YwUl96MTNrb2NRNWRtQ0J3Q3c1VnBBaTVocWhIb0tHWlJQalNJSzJMREZEV25qQWVPZ0JyUng4RE8wWnM3UTRkMkVIaHJxa2g1djM2NFZRUUdzQzA5amUyd3hMaGxrQVlzdE5aT1JobmhRSDJ4anZRMkdlbmZn0gHoAUFVX3lxTE5OQ3ZFN1l4TmYyRGNibFl3V0hxa0ZyazE1MUZvUVpDelFqbXpFQnRLd2hnbEFkVnFYVC1Db2lyVGpWRko3d1VIS3JuRmRSM3VtalBDNnJBRm5Hbkp6UE92YkJlVGdLcUVzRGc3NXljcmp1bUtQZ3ZvN2FMUlRrZkQ3cTZjOVFHejBaMnVqQlBxeUFGb1J5M0FuUGYxQ3FNb09MRVFxcWppRUZkbldnSWNERXd6YjFqZ2lKU1FicWYxWWFjWEpZTGdYbWVURXFtdW1qMEs0V2RPMWd1Y2ZoakNLZGZDbDB0NEo?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Influencer Ajeet Bharti hits back after SC/ST Act FIR over Chandrashekhar Azad remarks - India Today",
+        "source": "India Today",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOckhYOFdqXzl0NVhJZ0pwZ2E5QmlWSnNYMWk1MkRSekdkSWdtV1hTbW4zbWg3aFh4bUF0cjlaNVR3QVFNQVl6N3o1RFllUTRic1kwdUtwVFdWS1Z6VzRsblVfcF9NX29wUFoyRDBXaGFLZFR3X05EUEZJcHRHeDhVX1Y5dE5DQjhfck9NYm5vcDU3TXV5WjBtSEN1Sk9SaVRXUks2OWs1UzZVdElSZWROR0N6cU1zZDdOM2pKNVZpYnk5M3F0My0ySlUxRVVad0VrQktsNWtCTzg2ck0yRUxoUzhR0gHnAUFVX3lxTE8zVVY5RklPdWZYZDc4aFpodWJJZXBuUlpoZGR3Nko3R3pkNlUyYWI0UXI1M01ONG9ZZXBEZEg0VXpwQWU2UWJQZW9WY3ZvRFZYaDRqanVIbGJJVVhwQUdtOUdVUDFGMVdFVjcyOTBZOTdEaThrVTZjNGp5U0FQLXlLcHJHYmlxNkZEYmlNOHZFUkhNUXp0eHpKYUZ3eEZsT0VsODZKVk1UblNIQXg0eW5GZmZEZWdBc252cnU3X0FuWm0xNzhRakJSUFBkckl1WklnYW9QWkpyLXNjd1JTbTBBVDRpSC1vUQ?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "MP Azad Meets Family Of Uttarakhand Youth Killed In Alleged Assault; Demands Impartial Probe By CBI - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOU02Yy1iQjBpdXZJT2Jmd2NOLTRuaVBaVUxwUVZuTDhXUHhvSTZUemRJZFBiaVhsSjJEWDk4Y2wzTlgxOFZqQ043c2VSYlNvQkZqYkJjQUowaTlzMWdUMmlmcVRFZEdOR2Vob29hWUJQT2l1bEN1cFpOa1dfZXViZDZCQUFqcTdNVHhMNHpEd21FME1BV2hfTUROU2NUZU9Ib0J3MEtsbGFOUFJRQy1IMTlHR1J1dFFGc0dxYUYzTmpUQ0p6d2ZUdElOUzUxYU9GY1VuMHR1bFg5d03SAeABQVVfeXFMTW5TelZYTWpZRFBMZ2R1aVRBV1JZOWw4eElmdDFJdnhFeEQ2UFVMVDl1RTU3amZMQklwODc2blBDemlMMlBUVFJJbTgwWGV5VG9lWlZZYXlVbkVWQmo1SW13WnYyNHQ5bUxFSUFqUG5sblYtelo0WG5EOXN0VVpDUVN6bnV5VzBkZTl5QkwyRHpVMG9oYUJJZ2Q5TE9TMm1Hd1lVUjgzd01EeFYyeW9fLVpMZUlueHJIS25ONmp4cDd6aXZBNmcwNWJoMlhHenhuZF9ZOV9GYnhhV3lydGRsNlo?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chandrashekhar ends protest, ex-girlfriend says ‘bluff exposed’: Accuses him of leaving students during pol... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWXUwZVl2RDBNbFh1bWhXN2pUbU0wdUgyVmliakx5eGRvX2Npb0Q3empwdGU4VjlTYVBkRl9feWpMVEJVVkpjaE5takt5TjNpcWFMdkZaZ29scXppT3E5RUY2ZDJIT3pfVjk4bXZJM2NBMkFHb3FaTVlxT3kzRjV0eUNNcEJOVEVXSnE0Ri04ZXlMTlVUUUNIVzZEZG16Zkd2a3FObUJNdTZoQTcyWXhNZ3cxS0llQlQtVmk1b2plcGNSODIyM2dWLUtFdjVKRkVFbVHSAdcBQVVfeXFMUGlMQnBYNU5jY1g3Vi1UanJ0T1lSWVhtYzhqTV9BSzRGOTRKZ2YtZEN5RC1yM0JEOFVUNk9LZjhxclpYVDl3TlNRNmtDSXpGWlQ4Vy10ZUdNRUdScEhsVnUzT1hXaWhDLUlmbDdfanNQWGZ1VXoxVmFtUDEtOThYOGdmQnh0Mk5xMnAwY1hKNXlJcGl1VlBGc3BLWVVrNERXQnVDOV9qNGdFWm9IWG1XZ3cyR3hSOC1lR2FlZkNVZmtXenNBZ1dpcG5OajRrUFBxY0t5Tmp4MG8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Azad: ‘Centre could have agreed to 60-70% of protesters’ demands, averted this impasse’ - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenAxUm45WTdkVWV0bms1aTdqRWFhVHl3RUctSVk4ZllfZXJHNHQ2TzZPdS1wRDl2emdoVENRLWl3QU1tRTRIUkhPaVJqQ2lOMy1mZ2xwYWl6UTdnWUE2NzFjdFpUSi1LVVZHd1RXN0IwQTlhNGFwZzh5M3VxNlNFZHZaV0t0aEFyckpUMk9ETzJxVno0ZEJPVGpZdW9vX1NZUzZpdVFVY3YwRTQtY2VEWmNYa3BLNGQxUE1ONWdMbThQNk5m0gHLAUFVX3lxTE1FVkg2WVVVYnJZNF9RR2NMTjZ2YXoyT1YxX01qUF9VeWRiVUFmdnRmQ1hEN3RSMThuTlJvR3dXRHA0dVI2ZU1tUkpqVkJYenlzTDhaaTdRNktieGYtdlBONVB0UTZnUHZiNnFMZXJmUV82VEZxRXFOZ2k4VlZRUkw2aEpEYmh1dHhjei1ha3ZuOEVOcml2c01jeUJRMHVZWjNfbWJZRzRVV2xCbV84dF9CYUdZRkh4RTluU0hhLUQ4SUotdmg0WjdHTXdv?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:08:23.293453Z",
+    "collected_at": "2026-09-02T17:44:16.200325Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +221,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.387418Z",
+          "fetched_at": "2026-09-02T18:38:10.941638Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +237,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.387429Z",
+          "fetched_at": "2026-09-02T18:38:10.941649Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +253,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.387437Z",
+          "fetched_at": "2026-09-02T18:38:10.941655Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +269,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.387444Z",
+          "fetched_at": "2026-09-02T18:38:10.941660Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +285,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.387449Z",
+          "fetched_at": "2026-09-02T18:38:10.941665Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -236,7 +301,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.387456Z",
+          "fetched_at": "2026-09-02T18:38:10.941671Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +317,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.387460Z",
+          "fetched_at": "2026-09-02T18:38:10.941675Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -268,7 +333,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.387467Z",
+          "fetched_at": "2026-09-02T18:38:10.941680Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -293,57 +358,74 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/bhimarmychief",
+          "url": "https://x.com/https://x.com/bhimarmychief",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T17:40:13.352859Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 1,
-      "neutral": 9,
+      "negative": 4,
+      "neutral": 6,
       "top_headlines": [
         {
-          "headline": "The Chandra Shekhar Aazad effect: Crowds at Nagina MP’s rallies, UP parties keep a close watch - The Indian Express",
-          "source": "The Indian Express",
-          "severity": "low",
+          "headline": "Nagina MP Chandra Shekhar Azad continues protest in Parliament in support of students - The Hindu",
+          "source": "The Hindu",
+          "severity": "medium",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZzJHckk4ZkFfZTQ3SWh0U1J4aGZ3MkloN1NtQzREUV85Tk1KWHI2VXZydmdHRlJ3RnlPeGxpdEI2bS12MFJ6OHUzM05pMEgtMzZSN1N3TVBpRXdlQ2lSM1lUWEpKYUxQTU5zVnNhVTVxSjllZXF5SFp0UkhJb0Q4UkhjcWNUQ1YtbkQtaEZERHFvYVhHdS0tMlBTVDhQNjRDWWR3OUpvSXJ3cTBEa3BneVV5NzF1RHhfMFp1Vi12M0JLVkNjdFlhS1ppTDlteF900gHXAUFVX3lxTE5jS3Z3Z3pYZzNDMFliY19aVmg0YzRUMGhINGtHSTZDRm1TSjFMbzJuYUJJWS0yblZsNGRQcWVza2JRZ0YzSG1LUmxDMzZxLW5WdmxnekY3QmlhaWtnNE9JcVloVzdESVQyZGpXUmtGeTI1S2FNNnNpRkRDRzJMVjlZUFJzcmI5WlBZRFJibHJ6R0ZreDZFX211ejVfdUxVekd3amtacGhteG1XWmp2WGlMWWNJaFVTdkd6cDdmZEdiZDc1OF91UXFFd0QwRHpHc0VPdy1YWkZj?oc=5",
-          "sentiment": "neutral"
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQzU0VkxrV0kzMTJ5d3lzVWlXNVI3MGJTS2syWDJBQXBlc0ZhRjRVLXN6RGRSZ2lZdmtRUU1CUWgwa1dZajhTS2tvRUtUNGc4TzRiWE9HSXVaQnc2VkJXRHRuNUxSbWEyODVBa2YwUl96MTNrb2NRNWRtQ0J3Q3c1VnBBaTVocWhIb0tHWlJQalNJSzJMREZEV25qQWVPZ0JyUng4RE8wWnM3UTRkMkVIaHJxa2g1djM2NFZRUUdzQzA5amUyd3hMaGxrQVlzdE5aT1JobmhRSDJ4anZRMkdlbmZn0gHoAUFVX3lxTE5OQ3ZFN1l4TmYyRGNibFl3V0hxa0ZyazE1MUZvUVpDelFqbXpFQnRLd2hnbEFkVnFYVC1Db2lyVGpWRko3d1VIS3JuRmRSM3VtalBDNnJBRm5Hbkp6UE92YkJlVGdLcUVzRGc3NXljcmp1bUtQZ3ZvN2FMUlRrZkQ3cTZjOVFHejBaMnVqQlBxeUFGb1J5M0FuUGYxQ3FNb09MRVFxcWppRUZkbldnSWNERXd6YjFqZ2lKU1FicWYxWWFjWEpZTGdYbWVURXFtdW1qMEs0V2RPMWd1Y2ZoakNLZGZDbDB0NEo?oc=5",
+          "sentiment": "negative"
         },
         {
-          "headline": "Allahabad HC Refuses To Quash FIRs Against Nagina MP Chandrashekhar In 2017 Saharanpur Riots Case - ETV Bharat",
+          "headline": "Influencer Ajeet Bharti hits back after SC/ST Act FIR over Chandrashekhar Azad remarks - India Today",
+          "source": "India Today",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOckhYOFdqXzl0NVhJZ0pwZ2E5QmlWSnNYMWk1MkRSekdkSWdtV1hTbW4zbWg3aFh4bUF0cjlaNVR3QVFNQVl6N3o1RFllUTRic1kwdUtwVFdWS1Z6VzRsblVfcF9NX29wUFoyRDBXaGFLZFR3X05EUEZJcHRHeDhVX1Y5dE5DQjhfck9NYm5vcDU3TXV5WjBtSEN1Sk9SaVRXUks2OWs1UzZVdElSZWROR0N6cU1zZDdOM2pKNVZpYnk5M3F0My0ySlUxRVVad0VrQktsNWtCTzg2ck0yRUxoUzhR0gHnAUFVX3lxTE8zVVY5RklPdWZYZDc4aFpodWJJZXBuUlpoZGR3Nko3R3pkNlUyYWI0UXI1M01ONG9ZZXBEZEg0VXpwQWU2UWJQZW9WY3ZvRFZYaDRqanVIbGJJVVhwQUdtOUdVUDFGMVdFVjcyOTBZOTdEaThrVTZjNGp5U0FQLXlLcHJHYmlxNkZEYmlNOHZFUkhNUXp0eHpKYUZ3eEZsT0VsODZKVk1UblNIQXg0eW5GZmZEZWdBc252cnU3X0FuWm0xNzhRakJSUFBkckl1WklnYW9QWkpyLXNjd1JTbTBBVDRpSC1vUQ?oc=5",
+          "sentiment": "negative"
+        },
+        {
+          "headline": "MP Azad Meets Family Of Uttarakhand Youth Killed In Alleged Assault; Demands Impartial Probe By CBI - ETV Bharat",
           "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZlRGUkZxdGIyWXpPUFV0dGlET25mcUJiRnV1YVdWWjNPVUd4VHZ5MElyejh3M3NSUUNwbTdjLWI2WVhaNmR3QXR2YTZQUHR4VnZZWWhNb1JIcWNaeldvSTdXWFgyMDV4djJKQjFic05MZ1NKNE5fa2YyWE9SQkpjVEtJYlN1bzM5emQzTi0wMDlyYVN4eWRRMWFVOXp1c2cxSWE5X25BSlByUnJyZ1ZZUi1iWVE1LU9od2MtMl9BTk1NSFBaMUVGUmZrYVZpX0tOYUM1QTlqalFTVXhqVjNaSdIB5gFBVV95cUxNdThWTWEtV1pqY1UxTkk1ZG9OTjVWcVFYZi15WDQtZXNSNGh5blJjaEJ2cVBLcXEyak84RHRkWVQ1SFBnamNOaUZpQmJEQUNMdmNrZXNYcUNUVi12TktoOEt2QkVZWmY1VFUyb2h4X1JrNVFqUjMtN2t2UFg4MlowRWV1Yms2aUI4dkZLTWVoZXZXRmF3MWllXzBFLWlUZjhvU2ZSQ1Rmc0xDVUR3OGZKMVJUQkRXOVlEVVBfblk4UmhVZXlXX25LTjE3TWNMUFRWQWhscEVjbjFDUGVvTHRobGJBbVlpdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOU02Yy1iQjBpdXZJT2Jmd2NOLTRuaVBaVUxwUVZuTDhXUHhvSTZUemRJZFBiaVhsSjJEWDk4Y2wzTlgxOFZqQ043c2VSYlNvQkZqYkJjQUowaTlzMWdUMmlmcVRFZEdOR2Vob29hWUJQT2l1bEN1cFpOa1dfZXViZDZCQUFqcTdNVHhMNHpEd21FME1BV2hfTUROU2NUZU9Ib0J3MEtsbGFOUFJRQy1IMTlHR1J1dFFGc0dxYUYzTmpUQ0p6d2ZUdElOUzUxYU9GY1VuMHR1bFg5d03SAeABQVVfeXFMTW5TelZYTWpZRFBMZ2R1aVRBV1JZOWw4eElmdDFJdnhFeEQ2UFVMVDl1RTU3amZMQklwODc2blBDemlMMlBUVFJJbTgwWGV5VG9lWlZZYXlVbkVWQmo1SW13WnYyNHQ5bUxFSUFqUG5sblYtelo0WG5EOXN0VVpDUVN6bnV5VzBkZTl5QkwyRHpVMG9oYUJJZ2Q5TE9TMm1Hd1lVUjgzd01EeFYyeW9fLVpMZUlueHJIS25ONmp4cDd6aXZBNmcwNWJoMlhHenhuZF9ZOV9GYnhhV3lydGRsNlo?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Chandrashekhar Azad Demands Renaming Of Delhi-Dehradun Expressway, Writes To Nitin Gadkari - ABP News",
-          "source": "ABP News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcVp5VFZCZTlBcXJKTWlCQUxWWDlhSkkzNDd5cHdBWFRvSGwzZHFHZmhUQWNTaXg3STVpdUN0OW95REpyLTRtZ1RCQU5fLU1zVGllNGFzVGVfUkYwX1FsMUZlY2JzSElKRTBlaTBJOUFxTWFvemN5NlFJZW4yRGx3RW9UZGZkLTB0bVgyZXYtUVdSTEtoYXZWbTNrM2J1NEMtem91cDRtX3JzRUxzelVhNzFlQlRTVkVQalZIMF91NUJ2SEUxZzBZS0hGUjhTLS04eVI2WVpyMEfSAd4BQVVfeXFMT0hET25GT3VwQVAzUmh5YjdWaGR2ZGd5cDNISmtIdDhSMmY0MHk4d3FhZTNsOFZuRktGNU96eGw1SVpyY21DTUdkMWZmWGl6NERjV2c0dUxqN21rNmFMVEZ3VzN1UHpYN2ZTdWdHMHBlS2VQVW5WRGVncWxMS1VEREZWWEdxUlVRT29PVkpybFpWSlJMb2VXdEhrOTBZTkQ3VGNKQWszSURRaGFDZzJZdUo2WjRHRUE2M1lBdW5TN2ZpNFBvSjZFaDV5dkxoZlNScjJORnJrNXBTNTZZWElR?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "‘Shoot me if you must,’ says Chandrashekhar to police: Nagina MP barred from meeting Meerut murder victim’s... - Bhaskar English",
+          "headline": "Chandrashekhar ends protest, ex-girlfriend says ‘bluff exposed’: Accuses him of leaving students during pol... - Bhaskar English",
           "source": "Bhaskar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU1M2VVRNSHl2cmIwODc0WU0zQ0FJWFdjRGszX1ZTZnMxT19wN2pPdU9DMHZYSW1yS3ExNzlwUXdtRTA1OFhVN3lyNHRFdTdjaERRRWJ2OF82M3RaN0NuZElWVElQcWZQdnpLOXk5Z18wS0xUd203czh6Nl9rbFJ4ZEEyd0xQT3BOWkhXV0lsMzNBYldfYVNGdFJyc21nYW5aZEpvbEN4a2VzdmlmbnZ1RksxQndmQndFeGR4S2FOZzhzbDJpbE1PX3VLZFpqRGFjOXpjUzVFS0NUZDE4RjhTV2h2S2fSAeoBQVVfeXFMT0xjTGxSZXlhN1hXSE1hdEJUR3cwcFZpZWFDbndua3p5UTd3QjY1UVRseERsYzN4dW9WLTlnWFltTmhUVF9oQThzblZLbXQ1Z05kSGJKQTlKX2FVLVExby03SjRmNUREN0VYTy1wVndFVXd5YjY2d0tDSnlUMnpDWnUzdGxaVXV2UUc5eVF6cXVsZjY5OFFDakNFX2luY3ZBN28xazJRWGozYjlwTy0yRU9CNVJQVGI5dDJsZlhNRTFfM1g1XzJLSVV5N3I5X3M5WXZYZVRUYjNkb29pc1lSb1FYX2FNcUlkRnh3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWXUwZVl2RDBNbFh1bWhXN2pUbU0wdUgyVmliakx5eGRvX2Npb0Q3empwdGU4VjlTYVBkRl9feWpMVEJVVkpjaE5takt5TjNpcWFMdkZaZ29scXppT3E5RUY2ZDJIT3pfVjk4bXZJM2NBMkFHb3FaTVlxT3kzRjV0eUNNcEJOVEVXSnE0Ri04ZXlMTlVUUUNIVzZEZG16Zkd2a3FObUJNdTZoQTcyWXhNZ3cxS0llQlQtVmk1b2plcGNSODIyM2dWLUtFdjVKRkVFbVHSAdcBQVVfeXFMUGlMQnBYNU5jY1g3Vi1UanJ0T1lSWVhtYzhqTV9BSzRGOTRKZ2YtZEN5RC1yM0JEOFVUNk9LZjhxclpYVDl3TlNRNmtDSXpGWlQ4Vy10ZUdNRUdScEhsVnUzT1hXaWhDLUlmbDdfanNQWGZ1VXoxVmFtUDEtOThYOGdmQnh0Mk5xMnAwY1hKNXlJcGl1VlBGc3BLWVVrNERXQnVDOV9qNGdFWm9IWG1XZ3cyR3hSOC1lR2FlZkNVZmtXenNBZ1dpcG5OajRrUFBxY0t5Tmp4MG8?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "नगीना से सांसद चंद्रशेखर आजाद को WhatsApp पर जान से मारने की धमकी, FIR दर्ज - AajTak",
-          "source": "AajTak",
-          "severity": "medium",
+          "headline": "Azad: ‘Centre could have agreed to 60-70% of protesters’ demands, averted this impasse’ - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd25SZU1iaXpwTTgwdE9IZU1NbWg5R2kyYnpQM1Fwd0pzNWYyM0tPX2c2Q2xfR2dnZ0dXQ2VNZm1xeVhMeU1FSkIzUGZnMlFsVkRRcUQzT3ZJcWQ4SExtd3BhTVQ1X1NBVVJYZDFwSE9hZWZFekNGREdMdnZiWlhKNkVFQ0JrSGJPaEdvMEhZcnVwQnIyaU9xWDBKejZvU1ZkV09RQ2tsMFhHdXY2ZFdtZzAzamhIMThBbUhXODRrMmJSSWZTejdKRGlkR0loSkJneVBJUHVTSE84R3V2Y1B1bG1R0gHnAUFVX3lxTFBUNDZRUkZpdlRxaWFkTGltWmNWOVZpWjNOUk9vbHB4aS1iNUNfQ1BCdU1uaGFNN05HM1A1VDBpSlZ5V002c01kNnhzMk9ZYTg4cFZzZzhrT19yUWZRWUtwV0x6dk1vV083Z2QtWFJ1M1MzZW9yd1JMVjJ6RWQxT0JvRlRfanVfYXJORVRxUThlbDRaTlZTU0R4NWJFRFFSWTFsc0hqVmdjR2ROVDk1X3Z2ekhpTDJDUkFfY0QwRUtWWXhRSTFlYURZSUk3cVFwRDUxc0laU2MweFA0RGkzUENJNGVLUmNJYw?oc=5",
-          "sentiment": "negative"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenAxUm45WTdkVWV0bms1aTdqRWFhVHl3RUctSVk4ZllfZXJHNHQ2TzZPdS1wRDl2emdoVENRLWl3QU1tRTRIUkhPaVJqQ2lOMy1mZ2xwYWl6UTdnWUE2NzFjdFpUSi1LVVZHd1RXN0IwQTlhNGFwZzh5M3VxNlNFZHZaV0t0aEFyckpUMk9ETzJxVno0ZEJPVGpZdW9vX1NZUzZpdVFVY3YwRTQtY2VEWmNYa3BLNGQxUE1ONWdMbThQNk5m0gHLAUFVX3lxTE1FVkg2WVVVYnJZNF9RR2NMTjZ2YXoyT1YxX01qUF9VeWRiVUFmdnRmQ1hEN3RSMThuTlJvR3dXRHA0dVI2ZU1tUkpqVkJYenlzTDhaaTdRNktieGYtdlBONVB0UTZnUHZiNnFMZXJmUV82VEZxRXFOZ2k4VlZRUkw2aEpEYmh1dHhjei1ha3ZuOEVOcml2c01jeUJRMHVZWjNfbWJZRzRVV2xCbV84dF9CYUdZRkh4RTluU0hhLUQ4SUotdmg0WjdHTXdv?oc=5",
+          "sentiment": "neutral"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -376,15 +458,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 29,
+      "starred_questions": 8,
+      "unstarred_questions": 21,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 55.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -392,17 +474,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -423,8 +505,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -438,12 +532,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 14,403,311. MPLADS utilization: 54.2%. Parliament attendance: 95.0%. Questions asked: 29. Debates participated: 22.",
-  "validated_at": "2026-09-02T01:36:53.388214Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 29. Debates participated: 22. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.942390Z"
 }

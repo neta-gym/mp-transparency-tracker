@@ -4,16 +4,16 @@
     "constituency": "Farrukhabad",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5214,
+    "myneta_candidate_id": null,
     "slug": "mukesh-rajput",
     "house": "lok_sabha",
     "sansad_member_id": 4666,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/4666.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:03.652437Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 93680840.0,
-    "liabilities": 0.0,
-    "net_worth": 93680840.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5214",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.521883Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 56.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.69,
-    "expended": 9.25,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:58.980044Z",
-        "notes": "Official eSAKSHI REST API — Works: 295 recommended, 249 sanctioned, 200 completed"
+        "fetched_at": "2026-09-02T16:59:19.189604Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:55:32.552763Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:55:32.549681Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 295,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 62.925170068027214
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:59:05.398011Z",
+        "fetched_at": "2026-09-02T16:55:32.548621Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "UP BJP MP's Sister Alleges Assault By In-Laws, Says Was Filmed While Bathing - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaV9Wdy1vaHFTQnNObE95aWtKZFJ6S3ZyYUgwVlRUUDJ6TV9TOHlIbDlYVWczVnBVUUFfVi1lWGJ2U3kwaEhqOXRJTG1oaDJ4UEN3cDlBamNEZlRLTGROSjNCbmFMbEFWa2owZnlZTUtQeHZxam0xMlNja3RkeTFsRTY3cU1CT2UyVGFTWTNWdjhDeENXdTB3M3gtV3hSVEQ1U29wY2VnaENyYndOMkdvWG1NeVVTb0c4Wkg2cEF5RHN2ZFc0QmtvUGRTSW5pM0Rn0gHYAUFVX3lxTE02SS1HTHYwS1JtS0t0bVlPNEZYa1QxelBfYloxQS1RNUM2UVdFZGFSMU9EcGotV0c5ZkdtVVZ1eFh2OFhzM2lhOW1iUExMMUkxSVVCRFpGbXY3amVrdW5Ma18wOHh1UXFZLURwbXMtZ2VuQXBXMVlQTkVnQVJOZXBrQ3BaV0lOcDh0WXlLdDhQb2xObE4weDYyeW9WcE9XYzh1UFRYUjZhRHhkRWZZVDUwTXBRUkNuVDNNd3lPMTNJcFIwajloSHJLZEhQTjRRaHowT0dYWTB6VA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Who is Mukesh Rajput? BJP MP injured amid protests outside Parliament - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMVBsY19lQV9hTlFMaEl1RU56aWk2YjAweFZNNjdGbFpuelR2ZVFmS1hRX2Y4UkFrWENDbDRjaDFHYncyakhYUFNhS2g4NW5aVTUtSEUxbDVWYmhiUzNJUW1OZmU4Y1Zxemx2ZFNyQm91QUlXenFkSlRGTTBZdnAtU2hZVVlPd2ppT0llVVloQkxESmFuaDBBX0JMYzBmLXB5cllZOGtOekFEa0U1QkNGMmdleVNQV3VTYVBJVjl2NGduZEpMbmdRTmpCZHpyeGx3aWfSAdcBQVVfeXFMTkhoWmtLN29ZaVd5b3psaHo3dHE5bEFucGFQNUxxVTFHU3NGdTBkV1d0SE1pY2MtQ0lFd2NVMV82LXFtdU0wdE5oZmE4RlpOa0pjMk9scWxEZDJvSm11cndtSUFZWFo3Y3hsUmNRMWRBS095U19WZ0xNQWhNeEhVeFdsLWROSEpabDRzMHcwTG9zRmFfeEx0ZkVwanJqNHRlRV9vLVFGY190UW8zU2RHaUVvOURXa1ZYTXdmR3p0Ul8yMWhkaTVmTG5rUXZKMEVMMk14azA0ZGs?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Who are P.C. Sarangi, Mukesh Rajput and Phangon Konyak, the lawmakers in focus after Parliament scuffle with Opposition MPs - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSzlaZlFuTGRxeDRpN2FGVl92NUZVd1VHdGpBWTFKeUtiRWFNMGQ4UHZrWlFkX2xNYkdxS3BMdzEzYTN1V0NFeHJVUXU2WWlTWWNja1NJRjlpdjNzZFRxS0NhQVYtclNySU5TYkNzTG9kMVEtNXlmRnV4OVJUWnBYYzlpam1WSldGazM1TUtIWjkyUno2WmZhOWdEelBHNTdoeGQ3VHZfR3dqODJjM1FYbEFkdVR2SkNQc0J0NDZFX3dRcEdpVGNDTlFDcFVoNzNZZi1lbVN5VVpGR3BrQ0ZpM2FhZTJQTXA3bklqVtIB8wFBVV95cUxNVGVDRzNRaVV1ZHAxUXVlUWZWX3AwVjZ3MXV1dGdRSHlndXFDUzctejhSaDVURDhKYnlVb2pCWXFLa1JZTWJpZjQ3WUplSWg0QklHR05CYnh0THN2Sk0tN042eVFUUkpXQzEzMmlwWkRlUnoxU1haYTFJMWRqemJySDlNMkRjNGp1aDNkV21SYVRoMHZpVEhGR05yaWJJNURmcFJzOEMtVzJBS0ZpQlB1Sk1VZHB6OXh0a3RlMFAxMzhBMlVjRm1pbEs4bEN3Nkd0Ni1DdERrZUhhSC04ekpWRlNDRENVazZUbzVuYlRoTHJQdGc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament scuffle: Who are MPs Pratap Sarangi, Mukesh Rajput, Phangnon Konyak? - The Federal",
+      "source": "The Federal",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQUQyaTFsYjNVLXZ3N2VfTkkzeGpvSC1UMWRQUjFLMm1zaDVpcUpxMkhZci0yUGVKTTZrRzlSanlBdnRqclRhM2VoTUhzakxPUl9KeFZXMGRYZHRXTjUxRnpFRWNMS3lEMG93SVQ0c1Z4TGNESnVoeHl4R3l2aDMwcXJTT25jelVwTmZFbUttZE94b1JtTFFFTUF1NDdNUGtRaW1lS3VNWDJpdVdPSjRIQjU1bXdDTi1nel9RZmp4M2g5Ul82VGtqTDAzR0xKZ3hBMVZoVm5kcHVMbjI4UkVzRnNZaFc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Will shoot you': UP BJP MP's sister alleges in-laws tried filming her bathing; attacked with knife - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQUlpY0NGYmZzYmtlTDhvMEdhczgtX1l3VG5FR18yY2w1NDVTLU1hc0NYUVYtSWRLZUpmM19XbDNNaEhueFJjY2ZfV1NXYVlsUkItVTI1WWlKSHpXQXlaeVRFM2hNWnB6a2g5ZVZpYW9aZVd6WTE0N2tUU0M3c1hMSTJ4Q3Z2TnEyZkZnbVU3SU1BZWJBcTlRYUNEZnV5V2NEQldiRERkYWJhb0hlb3NhX2xrM3FOUkprVDNrRDZ0YlpmY0JheVNTMEZQU3lCMHJPaGllN2dWUFdObEJHUTN3T2o5UDNRamp0eTdwcmM2alA1em52SGFFMnNiQk1vUdIBgwJBVV95cUxQZC1WQ0hlN1VMTE1uZTU1WVRJSVN5Zm5lcDdkemp1S01uRlJ3bXBMYnpEcmJyTURMMHp3ZTgzNzNJQTFHUjY1Zmthb0FkSFJ4dnQwNWtBdmY1c3k2T1ExT2IxZFBNXzdudHk3VXF2R25VSEVaLVBhcm1HLVNJQ25hTU84SHFYeEVrdEZua1FpLVFOWUF0LUtud3JnNmhFVDdwc01UZTdIQjNLQUhjVlZodE1ReDdXVGtaclJmQWpmYzhKQ1kxM1NpaWZvN1FELXlhb1FMc3R0YzBFTjltVlo1TGNQUWdLTmFfY1F0MjNzcXR5QTFvUkFWbXZ1XzV4NzkzbEVz?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:59:23.730487Z",
+  "collected_at": "2026-09-02T16:59:19.190654Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.816846Z",
+        "fetched_at": "2026-09-02T18:38:11.383496Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.816856Z",
+        "fetched_at": "2026-09-02T18:38:11.383507Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.816861Z",
+        "fetched_at": "2026-09-02T18:38:11.383512Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.816866Z",
+        "fetched_at": "2026-09-02T18:38:11.383517Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.816871Z",
+        "fetched_at": "2026-09-02T18:38:11.383522Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.816876Z",
+        "fetched_at": "2026-09-02T18:38:11.383527Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.816881Z",
+        "fetched_at": "2026-09-02T18:38:11.383532Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.816886Z",
+        "fetched_at": "2026-09-02T18:38:11.383537Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,17 +320,42 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@mukeshrajput_mp",
+        "url": "https://x.com/http://www.twitter.com/@mukeshrajput_mp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/mukeshrajput",
+        "url": "https://facebook.com/http://www.facebook.com/mukeshrajput",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T16:55:35.653241Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 2,
-    "neutral": 8,
+    "negative": 0,
+    "neutral": 10,
     "top_headlines": [
       {
         "headline": "UP BJP MP's Sister Alleges Assault By In-Laws, Says Was Filmed While Bathing - NDTV",
@@ -288,35 +366,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP MP's sister filmed while taking bath, thrashed by in-laws after protesting - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEZMT3pxYW84SXZPT3EycU56WWxTeFdrakg0djBvSzc4YWxuQ1hGQjRhRnJPaVZ5QXJCbEt6eVhPd290LWhNTWhSRUdCT2RVblZlZXNVTEpNN19XUkM4Ujl0TW9lZ0JiMTZZenRhLWZKcUotMENlUVdfTDk1bkk5REI1Uld4dHFVb3hwQlNQTzRjdHUwallBV2xsd2d1dU5CQzJCQmpUTWNINHA0Z3hXNU00cm80V3pHMW12ODFNMGc1VlM4eXpRQ093Yjg4aW5IbGQzTzBUaTRiLWlybjVEdtIB5gFBVV95cUxNTmllWE1ELTBlQ0hLU0pfYlI0Wm9QMExQX1NpNjNtYWxSMVc0cC1lRmtmT0Ztd3dFdGFIUmlSSmh1dkZjbDRJdktKYnNlSTN6a25MUUFBbEJ5TjRzNEZkelNGUHVONURCQWVLLWFUNk9tZVVVZkk2SkFuUmc2dlQzVTl3a1lPeHJ0V01rUmZ1WWxGeVpQMmM5RTF5cWZKWUFBcXlJVExQRWtRQ2NGMGR4RENud3lGMVZQajdYaEF2QzZRYkpvYjZCNllKQ2U2WG02ZmFoNXAyTHVPa2pSSEp5djVwalR3Zw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "‘Will shoot you’: BJP MP Mukesh Rajput’s sister alleges assault by in-laws, FIR lodged - The Indian Express",
-        "source": "The Indian Express",
-        "severity": "medium",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkU2anhuWXdBUmlDclEycWt5c0plQjA5LWRyZUlKa0toQnh3UGtUMGc2elZQRHpReDN4STE4Wk9JVS1HLUJYa2J6VjZVNlNaajlaZi1lR2dUcG15SWoyRGlLc0FuMWRKdXFtX3UyM3hTSmpqZndKMDlCbTJoZVVONkhzbUJ3WnVxQmxERzB1aldUQ0U2eWJES2w4eFBJTzlPanVDaUxCVDRGTjBaOWY3bzJWcnrSAbsBQVVfeXFMTi1iX0FOTi1BYjkxTWVvTnF2WVRYZWI5MzRpMU9QOEQxLXExcFQ2dXg3WEZNNXFNbXF4N3YyMHpaRndXRmFnQ0xONGtzNThJeTcxUTJFRGdSeks1bTZkbkJleWVqNEthMHNZREFKV0lOQVpwRlJ4eDl4Z0hiRHVaUXNRMW9PMFdTNWVXT0ozUU11eFBpX0VOYllCMjFUQW9YTGsteHh2TnlvVl8zcWp3aW5DV0ltRXFNM25QMA?oc=5",
-        "sentiment": "negative"
-      },
-      {
-        "headline": "BJP MP's sister 'filmed' while bathing; father-in-law threatens to 'shoot' her - The Federal",
-        "source": "The Federal",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb0VsTVpwb21scHRtbnpEYTUzbGdqVjFSVDNCSVJXZG9VLTdqZGlJX1M3alFPdFJ3WnI3US1HWV9HZFVVYUU2aXJIbGdSemMtaHhpVTJ2MzkwaDMxdTdISmxZR0EyeVVpZ2ZZS1hYYWRBanUtb1dmbDR5ZWhJRzdBZGZyVWIzVTJxdFVTeWlXOW95bGtOMmk5TE15WHlURjFyaHl3OUlLbTNrRmxHS0FDcnRYTmVoaGZGRmRZOHBpRU85NmlhODd5VEoxekhZbkZ4S0E?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Who is Mukesh Rajput? BJP MP injured amid protests outside Parliament - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMVBsY19lQV9hTlFMaEl1RU56aWk2YjAweFZNNjdGbFpuelR2ZVFmS1hRX2Y4UkFrWENDbDRjaDFHYncyakhYUFNhS2g4NW5aVTUtSEUxbDVWYmhiUzNJUW1OZmU4Y1Zxemx2ZFNyQm91QUlXenFkSlRGTTBZdnAtU2hZVVlPd2ppT0llVVloQkxESmFuaDBBX0JMYzBmLXB5cllZOGtOekFEa0U1QkNGMmdleVNQV3VTYVBJVjl2NGduZEpMbmdRTmpCZHpyeGx3aWfSAdcBQVVfeXFMTkhoWmtLN29ZaVd5b3psaHo3dHE5bEFucGFQNUxxVTFHU3NGdTBkV1d0SE1pY2MtQ0lFd2NVMV82LXFtdU0wdE5oZmE4RlpOa0pjMk9scWxEZDJvSm11cndtSUFZWFo3Y3hsUmNRMWRBS095U19WZ0xNQWhNeEhVeFdsLWROSEpabDRzMHcwTG9zRmFfeEx0ZkVwanJqNHRlRV9vLVFGY190UW8zU2RHaUVvOURXa1ZYTXdmR3p0Ul8yMWhkaTVmTG5rUXZKMEVMMk14azA0ZGs?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who are P.C. Sarangi, Mukesh Rajput and Phangon Konyak, the lawmakers in focus after Parliament scuffle with Opposition MPs - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSzlaZlFuTGRxeDRpN2FGVl92NUZVd1VHdGpBWTFKeUtiRWFNMGQ4UHZrWlFkX2xNYkdxS3BMdzEzYTN1V0NFeHJVUXU2WWlTWWNja1NJRjlpdjNzZFRxS0NhQVYtclNySU5TYkNzTG9kMVEtNXlmRnV4OVJUWnBYYzlpam1WSldGazM1TUtIWjkyUno2WmZhOWdEelBHNTdoeGQ3VHZfR3dqODJjM1FYbEFkdVR2SkNQc0J0NDZFX3dRcEdpVGNDTlFDcFVoNzNZZi1lbVN5VVpGR3BrQ0ZpM2FhZTJQTXA3bklqVtIB8wFBVV95cUxNVGVDRzNRaVV1ZHAxUXVlUWZWX3AwVjZ3MXV1dGdRSHlndXFDUzctejhSaDVURDhKYnlVb2pCWXFLa1JZTWJpZjQ3WUplSWg0QklHR05CYnh0THN2Sk0tN042eVFUUkpXQzEzMmlwWkRlUnoxU1haYTFJMWRqemJySDlNMkRjNGp1aDNkV21SYVRoMHZpVEhGR05yaWJJNURmcFJzOEMtVzJBS0ZpQlB1Sk1VZHB6OXh0a3RlMFAxMzhBMlVjRm1pbEs4bEN3Nkd0Ni1DdERrZUhhSC04ekpWRlNDRENVazZUbzVuYlRoTHJQdGc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament scuffle: Who are MPs Pratap Sarangi, Mukesh Rajput, Phangnon Konyak? - The Federal",
+        "source": "The Federal",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQUQyaTFsYjNVLXZ3N2VfTkkzeGpvSC1UMWRQUjFLMm1zaDVpcUpxMkhZci0yUGVKTTZrRzlSanlBdnRqclRhM2VoTUhzakxPUl9KeFZXMGRYZHRXTjUxRnpFRWNMS3lEMG93SVQ0c1Z4TGNESnVoeHl4R3l2aDMwcXJTT25jelVwTmZFbUttZE94b1JtTFFFTUF1NDdNUGtRaW1lS3VNWDJpdVdPSjRIQjU1bXdDTi1nel9RZmp4M2g5Ul82VGtqTDAzR0xKZ3hBMVZoVm5kcHVMbjI4UkVzRnNZaFc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'Will shoot you': UP BJP MP's sister alleges in-laws tried filming her bathing; attacked with knife - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQUlpY0NGYmZzYmtlTDhvMEdhczgtX1l3VG5FR18yY2w1NDVTLU1hc0NYUVYtSWRLZUpmM19XbDNNaEhueFJjY2ZfV1NXYVlsUkItVTI1WWlKSHpXQXlaeVRFM2hNWnB6a2g5ZVZpYW9aZVd6WTE0N2tUU0M3c1hMSTJ4Q3Z2TnEyZkZnbVU3SU1BZWJBcTlRYUNEZnV5V2NEQldiRERkYWJhb0hlb3NhX2xrM3FOUkprVDNrRDZ0YlpmY0JheVNTMEZQU3lCMHJPaGllN2dWUFdObEJHUTN3T2o5UDNRamp0eTdwcmM2alA1em52SGFFMnNiQk1vUdIBgwJBVV95cUxQZC1WQ0hlN1VMTE1uZTU1WVRJSVN5Zm5lcDdkemp1S01uRlJ3bXBMYnpEcmJyTURMMHp3ZTgzNzNJQTFHUjY1Zmthb0FkSFJ4dnQwNWtBdmY1c3k2T1ExT2IxZFBNXzdudHk3VXF2R25VSEVaLVBhcm1HLVNJQ25hTU84SHFYeEVrdEZua1FpLVFOWUF0LUtud3JnNmhFVDdwc01UZTdIQjNLQUhjVlZodE1ReDdXVGtaclJmQWpmYzhKQ1kxM1NpaWZvN1FELXlhb1FMc3R0YzBFTjltVlo1TGNQUWdLTmFfY1F0MjNzcXR5QTFvUkFWbXZ1XzV4NzkzbEVz?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +428,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 25,
+    "starred_questions": 7,
+    "unstarred_questions": 18,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 48.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +444,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

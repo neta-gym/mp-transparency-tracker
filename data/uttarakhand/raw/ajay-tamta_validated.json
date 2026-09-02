@@ -42,60 +42,82 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:20.029067Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
+      "movable_assets": 4841662.55,
+      "immovable_assets": 7540000.0,
       "total_assets": 12381663.0,
       "liabilities": 1909642.0,
       "net_worth": 10472021.0,
-      "previous_total_assets": null,
+      "previous_total_assets": 99104489900000.0,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=20",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.386434Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T14:37:37.703177Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 10.1,
-      "growth_ratio": null
+      "wealth_percentile": 0.0,
+      "growth_ratio": -0.9999998750645606
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 0.93,
-      "expended": 0.23,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:33.527774Z",
-          "notes": "Official eSAKSHI REST API — Works: 134 recommended, 49 sanctioned, 2 completed"
+          "fetched_at": "2026-09-02T14:41:15.828722Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:37:35.107137Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:37:35.105104Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 134,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 1.5646258503401362
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +132,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:32.569972Z",
+          "fetched_at": "2026-09-02T14:37:35.104183Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +140,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Third-time MP from Uttarakhand’s Almora Ajay Tamta takes oath as MoS in Modi 3.0 - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmdFOGJCVzBlOC01VXlHZHVMS21sN3hLMVpxZjdZWmhaV3gtLXFOeDdxTlZNM3BZV1lGYkdraXJCMmdZM1dCSVBXX2habzFJU0MtVE0xX19DdnlfNE5DNnpOUk12bjZpQ0d3RThuaTJ5b3RmSVdZa01BRVZXQ3FrcVFndnBUWGY2VF9LcEhiQjk4Q2FJeTZnZm1xbmdwZmhydDA0TXlRSUFpTTYwU1IzNmhlRXnSAboBQVVfeXFMT2ZUeU1MRUxEc09yZWs5VE91LU5kMDJheGlOU3lvUWtzbm5RYmlzczEzZDZKUWE2UjNNRFRCbFg5R3lJTkk5N2VrdEV4SkJnMmk0c0tmM3VINjdjc053RFpmLTl0R0xTT1g2Njl1SmJNaE96YzBXWDZ1UXQ0SEJ3WmlmV3htZ3lUMHFPeElKUzhjcW1fSzBtNHVpdnFQZDV6ZVZXbHgtMWREVUxzSnZGNjAxUnN5MDNpaGdn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttarakhand's Almora MP Ajay Tamta takes oath as Minister of State - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHNqVXhkbmlrQUUtckd0bzF6aFRZSFFwdnQxNkJhZVNLbWNGS1hBemlzZDdIUXpQTnZHV2NKZkJjbGo2SzQzMEVBaUFmMXVXZUkzMXR4QjVNb1daUHRuQWJwV25aQmZ5ZHJ0SXFlelBwNmY4S3lXZF9LOUhaWjNiYjM4Z213Q21kMHA3Q0hpbWRVVGpMb3ZaRHV4MFpZTFl1dG5JeFdwN1Uxcm5KbkdRaTR3Q2hWSlFHb01sYlNTVdIBxAFBVV95cUxNc1JUWDdaVkdsdl85VU91RFEtM3FlUlNudkNpalBkSF9Hd0lFbVJXYnN2VWx3UjBPZzRRam0wdnlDSHExTXNuSWpIZjdNSzJxM0lHeUY2Qlc4cE9TUEZ6RDBPM0lwZzdaaXlVc2o3bW04NUtvUWU4enFyQVRsZmtlLWxubTctandPWGM0aFQ3QUtaMzdmMG02YzBGWVUxWDFpTkY2Zkh5eExHOXlhM0N0VjJjLURpbTRMaVVEcGFKbTYzZllj?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Almora MP Ajay Tamta gets berth in Modi 3.0 cabinet - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHNOSE42bkRvX0dQMDBzRjVCRzZqWmllMHJxaWp0TEZOblFmcXpvZWF3dlpsU3NGTjdRS2JHaU5zYjJtV2cyRFZDNGZEX1FqOFhxQWpueUowdzhpUi1nRlNEdnYyQlF5dExsTzhfZjFIT0YzUEJJMnpBOTRnZWhKYV9lYjVMeHVZcmkyb0dvNDg0Mk9kWUUzNnRhTmpUUVpRbEhLQTB2aHVTMWljTEE0bzg3ckFOWERuT0F6TGV1V21OVHA20gHKAUFVX3lxTE5MajNzZ0xPNXFTdEJNbFVoNDlPVjVVc3ZGc1RBUWxtSFE4Tk9ZSVNNaGdMRWl1cW9NUTRpemk0RldxMGt3eE5kd0YyLXFJU1V1ZzFuclM2dUNJVmZyc1c3UFlXckhIUFB1OWNxMGVaRjB1LWg4cEtQMS1kMXlQNG01WEdWZ1hCdmRpTENXZHF6UzNBWUJYQ3Eyc2RPN1hxcVNxUzVGanZVZ1NITzlrYmQ5d0UtVGlnZzhtMWljeWt3ZElCeGczak9WQVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mala Rajya Laxmi Shah, Ajay Bhatt and Ajay Tamta repeated as candidates - Garhwal Post",
+        "source": "Garhwal Post",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXJQTEJkT2d4a21SNE5Pc2RkR2tQSU8tZjEtb25WcDRXSUttWEk3cUp4RkRHSUVnY0VGU2tWWE10QkV5Z19xQkhaUGVrRW1DRG5WdUgxMnNQd1RRVDBYbVRyaHNHSk1SYmJ0XzlQWjJRclY3eUVOdmJQRW1uSjRVZEZwTUc1WGNhVjVCT0NUbEZpczVQUUY1RGV3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ajay Tamta , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nT0hya1JUVjVpVTRaX2YyUGNSdTBIQkl0QlZKTUdoU1drOGRzaU1EOXhIYkRxb0hsU2huOHgxX2FPVnUyb2pEYWlyZmFvOGhGbFJtRnotb1dPM0Y0SzFpck9KUmlYTFRPcmktU1NKTWZYRGdERkhhMFhaaGJDQQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:24.427824Z",
+    "collected_at": "2026-09-02T14:41:15.829490Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +212,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.408044Z",
+          "fetched_at": "2026-09-02T18:38:11.993736Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +228,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.408053Z",
+          "fetched_at": "2026-09-02T18:38:11.993747Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.408057Z",
+          "fetched_at": "2026-09-02T18:38:11.993753Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +260,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.408062Z",
+          "fetched_at": "2026-09-02T18:38:11.993758Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +276,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.408068Z",
+          "fetched_at": "2026-09-02T18:38:11.993765Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +292,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.408072Z",
+          "fetched_at": "2026-09-02T18:38:11.993770Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.408077Z",
+          "fetched_at": "2026-09-02T18:38:11.993774Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +333,52 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "share",
+          "url": "https://twitter.com/share",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "sharer",
+          "url": "https://www.facebook.com/sharer",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "adrspeaks",
+          "url": "https://www.instagram.com/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "youtube",
+          "handle": "adrspeaks",
+          "url": "https://www.youtube.com/user/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 4,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:37:42.729707Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -281,6 +386,14 @@
       "negative": 0,
       "neutral": 10,
       "top_headlines": [
+        {
+          "headline": "Third-time MP from Uttarakhand’s Almora Ajay Tamta takes oath as MoS in Modi 3.0 - ThePrint",
+          "source": "ThePrint",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmdFOGJCVzBlOC01VXlHZHVMS21sN3hLMVpxZjdZWmhaV3gtLXFOeDdxTlZNM3BZV1lGYkdraXJCMmdZM1dCSVBXX2habzFJU0MtVE0xX19DdnlfNE5DNnpOUk12bjZpQ0d3RThuaTJ5b3RmSVdZa01BRVZXQ3FrcVFndnBUWGY2VF9LcEhiQjk4Q2FJeTZnZm1xbmdwZmhydDA0TXlRSUFpTTYwU1IzNmhlRXnSAboBQVVfeXFMT2ZUeU1MRUxEc09yZWs5VE91LU5kMDJheGlOU3lvUWtzbm5RYmlzczEzZDZKUWE2UjNNRFRCbFg5R3lJTkk5N2VrdEV4SkJnMmk0c0tmM3VINjdjc053RFpmLTl0R0xTT1g2Njl1SmJNaE96YzBXWDZ1UXQ0SEJ3WmlmV3htZ3lUMHFPeElKUzhjcW1fSzBtNHVpdnFQZDV6ZVZXbHgtMWREVUxzSnZGNjAxUnN5MDNpaGdn?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Uttarakhand's Almora MP Ajay Tamta takes oath as Minister of State - India Today",
           "source": "India Today",
@@ -298,14 +411,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Three-term MP from Uttarakhand Ajay Tamta says \"fortunate to get opportunity\" in Modi 3.0 government - ANI News",
-          "source": "ANI News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOb0t0X2VRUEJ4cEM2bGJYT0VCQV9oQm1xTXFkY2xJZEZTLWZUX3NSZlNQQXlyNGp0Ym1iY3dKRzdYTml1WFRad1V5XzdzWXVaWVA0U1B2cndXd2sySW5WZ1lUMUtSYWJnZVZnZ2xSV3A4emY0S0lVbnYtSVN0VFZJVE5uMm1mTGtnUGNGRG50T0xsdXFzLVlUazhBSGNicWxRc3AxcHRMM2x2WUZhak14MC0zeGY2d2ZEeTNYbjc2aDM5NDk2bVpfZ0pRSUhSU1pPSWZfSjVnMnpRZ2JLOS1QQXJFdzBXMlNwVnJ1NFNsOUFOSEU?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Mala Rajya Laxmi Shah, Ajay Bhatt and Ajay Tamta repeated as candidates - Garhwal Post",
           "source": "Garhwal Post",
           "severity": "low",
@@ -314,11 +419,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Uttarakhand MPs sanction zero new projects, hundreds stalled from previous term - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "Ajay Tamta , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmxZenZjLVdpZVc3RHNMZ2w5NmxvNnkwMi1QWlJlTTZQTk51c1hoM25hSFdJdXJxaE5JNEpZMXBUNzVKcDR0REE3Q0RRaGhPRzM5YU1ONUtVeDhoR011djRQdlRNdDFOUUNGU1ZzbURXanQxeWFxbTNfbWpYTGt5SWxicTdCdnVuY0pRQkhoaWExakhDU3l5ZHFiZ3lMbm95UWotLUc5X2JxV1pidHBId0FxUEZJZEZ6ZjYtWlUxYTNjbkZsZDk5N2t30gHXAUFVX3lxTFBUR3RxNDB6Ul9NcVJhUllqYWlQWTFURUZzWjliNE11MHZkclpHOEd0RUVvbUQ0dWc3SHRudktCLUFZdnh6Y21vRkJ6M0d1ZGExV3B6SDRiTHlDS0pJbVVwZDBSOUxTUkdPbVpGLTVac2d5WUdLNGFYV2lCMkxwclJ5MXVtaFhmc0tDOXpwUG50aDBfU0J3aHdIYk0tODRjdmhDTm5jYy1iTzdxSnl6Z1BLV0YyZEdwRVFrOUlPam93S25udHdNdnVZV0x2RXI2aDlvZXg3V09Z?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nT0hya1JUVjVpVTRaX2YyUGNSdTBIQkl0QlZKTUdoU1drOGRzaU1EOXhIYkRxb0hsU2huOHgxX2FPVnUyb2pEYWlyZmFvOGhGbFJtRnotb1dPM0Y0SzFpck9KUmlYTFRPcmktU1NKTWZYRGdERkhhMFhaaGJDQQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,7 +473,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -399,11 +504,11 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.36,
   "flags": [
     {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -432,6 +537,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 12,381,663. MPLADS utilization: 1.6%. Low confidence data: Parliament activity. 2 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:54.408841Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 12,381,663. Low confidence data: MPLADS, Parliament activity. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.994528Z"
 }

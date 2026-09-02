@@ -4,16 +4,16 @@
     "constituency": "Palghar",
     "state": "maharashtra",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7349,
+    "myneta_candidate_id": null,
     "slug": "hemant-vishnu-savara",
     "house": "lok_sabha",
     "sansad_member_id": 5669,
     "profile_url": null,
     "canonical_name": "Hemant Vishnu Savara",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 47,
+    "age": null,
     "photo_url": "/mp-photos/5669.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Palghar",
       "state": "maharashtra",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 7349,
+      "myneta_candidate_id": null,
       "slug": "hemant-vishnu-savara",
       "house": "lok_sabha",
       "sansad_member_id": 5669,
       "profile_url": null,
       "canonical_name": "Hemant Vishnu Savara",
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 47,
+      "age": null,
       "photo_url": "/mp-photos/5669.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:15.563325Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 81622050.0,
-      "liabilities": 10776056.0,
-      "net_worth": 70845994.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7349",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.766155Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 52.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 0.52,
-      "expended": 0.2,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:30:06.231789Z",
-          "notes": "Official eSAKSHI REST API — Works: 80 recommended, 7 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T15:21:49.668773Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:18:06.044574Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:18:06.041733Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 80,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 1.360544217687075
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:34:41.615601Z",
+          "fetched_at": "2026-09-02T15:18:06.040681Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Maharashtra: Bhavnagar Express halt at Palghar gets fresh push after years of demand - Mid-Day",
+        "source": "Mid-Day",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWngzbVptQ2t0UEY2UERNc3M4cDBQQmpUVEVRM1h5UkhJcDIxX0owT0YxZWdXYjJhLTFINjFpOWxSdFA4TTNtSEJlVDlQWmRjazctZU9Vbk51Q1lmYXd3ZGd1VHRHSGdYMFFveTExdlVtdkh3OFdna0RBWFNwRml4NUs3N2xaQ2ZIQWhZcV90WXl3a0ZlV0JiWE1hY1YzRHZNdzNFRmxjNjZPeTk4cFM3SDRPQVlqZWtDUG1RNnZ1d3cxTGtUZ0ZQZUt3NGNPOUcxNmt3eFRleGp6bnVyUzI3WnJwSXnSAeoBQVVfeXFMTWMzRkxzcTBoYVdQOHhfaVdScEk2ZlZVbG0wNVprYU81bmJNRTNISnJSYjhnM1Frb09qeXIwYXRoUkREMGhSeXFzOEVtV0U0ZERhNnJoTjlsbFg4WU5LVkJJVlllZWRsR3lleDF4WjhuVG50LXhiRzNMYzV4MzhGWVRWNzFnNG1UYmdORnNLbnFQdWtTcmJxWF9HbjBXc0llZ0wxN3dhUTdHWDRPTUpiX3RneWdaSFFfeWF4VG5wcGJIbzNNQThjbDBwRlA3Q3pEZkpFbERJampvVW9nUGpITXlPNHY4X2NCem1n?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dr. Hemant Vishnu Savara , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWI4THVWbWRuMkI4Nm40N0pUZ1E0eVFBVVd1ak5mTmpsTzJMU0lqTFNJMEI0dV9nNWR2RUprbGViQVlaeHFtdmx5LUlOS3o0dTJIVWZJeUMxdXlJczlGcjdSTTRnU19PTlRMX2ItNmJyUjZzT3RlLWpFVG84QW1nTTdHeF9OTzhVM2JfamZ2cFVwUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Palghar (ST) election results 2024 live updates: Bharatiya Janata Party's Dr Hemant Vishnu Savara emerges - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOUE1nZnpvWWc5TVZ3VnlXbDNJMEw2bFlKSUVTMFhCWnJJZXNxMURGbUdlZk9HNFc3OHhTdWFYM1pDTk01QWhYXzA1Q3liQVVmWkt1cXFIcVhkRVkxUk5IV3lOMEFZQkEtZHVXTWtHSzdTeDJydEszRW93bjZfQVB2bmJoSnNNQUNqQkRYa0R4MWZVeHFqUU9mRTFPNDYtejZadXU0bVQtUFNFbDc3b25uOWlMQk5HX1JtMEVBdDJSNWlIdGZ3MGNOckptd1hESjFzdXRkQnRmbmdNM0o1M2ZuSEFuYXFka2U0cHN0bFh0N0t5X0ZMeGNjdGl2OTFDZ1hMZ1hZbXRmNTBUajlBZ1FfVGFJSVB3emQ3N1lLSVFhV0E0dDVDNW94Nm8yTEJLQjdEeXV2RFpHOExPd9IBvwJBVV95cUxNdDJvVklfUWg3QjNyN0tsdlhtdW8xOUNGcU1Sa1JQXzVtOVJrSW50Qk1yQ3NneHhXM3dqcE82M1dGclJpRGhxdXE2YWMtbkptZ1lGZ0F3ZFlnZlMzS3BteU0ydzNpa292SEFQQVVJczV5WTM4bkR2WnlieW5hTF85VXZyWmk0cUx1X2kwS1RwTm1kSkRSNklvTktSZDJKWmpkV0E2aElKUVYxRUdjY2NBSGtaNmVjYUtjZUdWTGx2NXhiOGkzR1RKRmJMX0lsQ2xFcHZZV1VqTDhHSnBSXzNQX01yMm9vZlRtcW1SSEN1VUJPc3Rua3BUNTdrcWFHMnFacEllaDRKN01HRkZqb1FNTUUxSUdKTEhZR0ZnWWFYVXcwczYzR2U0MmVtZzZTSk9nWVZZWWtZdHExMVE2Vldr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hemant Savara, former minister's son, is BJP's final pick in Maharashtra - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeTVGTE9zOElVWkVHTm10SWdualpSdWY3aGtodVV3V2pDdE5yMTlJcWFENURSVUJSZ2N0YlpQSlQ1ZFQ1MDdVa2NvX1IyN0FRTDJrd2xZY0QwYXBWNG1OY21KVWR5WVFkUmNzRlNkODVMakk1VTFQS0h0T2FheGc2cmtvUWxEdkFoNzQ1RTZjTDdmcWoxZUdRZkZGdlFKRGllTzBWcTd0WnF3dDlITXZGa2s4bjMtQUlybml6TTZJTUpEVmtNQmptUG5ZTUo2VTN6UUVDR1Z2d3loQVNyOUJhOEoyRdIB6AFBVV95cUxQRDQ2ZVdIRTBGQkhrc0lMQ2RKU0lJRHBTU1FTSXVtTDN3M0FqRWtZa1pVdC1leHI3N2dQWFE5NE82RGxVS1BqbXZYTnM4eEk1UXRIbEFGZkZkdUN2OUx6c1BRTnZwRm1rTWhua2pQRmxBWjBfbDRQWG9uaGszUzdKOXQyMk1Sc3MtcWg2VnpJT0ZlcHFfbjBETUtrdGUwOGFoenJONm9UWkY2RFB6UjVHZlQ5eUpjWmJ5TTlHT1pQQ2drUEZLU0ZLd003SlZFaEhKd1ZSRVEwczFrVzZwTWZtcGFNejNKcFJi?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Palghar Election Result 2024 LIVE Updates Highlights: BJP Candidate Hemant Vishnu Savara Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLVFjQzJ0dG5KcG9Eb0NYVDRPWURfNEN1d3ktdDM3d1hyTndrSnZoRFZDeXhzaEtDSFNwRVFHdmh5ZDRPc2xKX3ppc25VeHNNN3l0WmF5Tk55Z1JmMTR2dmxHRHltcHR1Z0RrUFNBSk1SbUU4eXdLc0lqUlNPZ3RfMUpWSERCRmlINm11UGdfWGNIcmZDZng3TTJuWWtQUDJnZVduQW04ZUxObjhiYmhYLWVYYXRXbUY2azVlMXUta1lZOWlZNlJYVDAzWlYzczdJUl95cC1hbUNtdXFsUFI3d3d30gHnAUFVX3lxTFA0YWNSYmtEbFREcFdaeTBjc3A1UzN6WUtwRjN5ZnllZ3lWSVBpTzFINFZ6bkdhdlhEUTRVb3Jyd1FISTlKRXVBdEE4V09iZHZ2eUlyRFpKZ3JHTVl4VUxmRUpKaWxDS3IwX0pSU09pWWNvcUxGVGRlR19HTmQ4TkN5U1pfcktqMzg2QlVOaEdyUURUNWt0bDMwOWF1Z09OLWFibW9HRTNOdlJmVFhlVFhCbVFFQTJLY2lvUnhQQzh5LWtOUU13cWdEMUlRM0E3YlBSZXh5dTVFTURNTVBaMl9SMlNjcTVEOA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:35:33.536278Z",
+    "collected_at": "2026-09-02T15:21:49.670112Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.410267Z",
+          "fetched_at": "2026-09-02T18:38:07.977284Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.410275Z",
+          "fetched_at": "2026-09-02T18:38:07.977303Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.410280Z",
+          "fetched_at": "2026-09-02T18:38:07.977312Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.410284Z",
+          "fetched_at": "2026-09-02T18:38:07.977321Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.410289Z",
+          "fetched_at": "2026-09-02T18:38:07.977331Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.410294Z",
+          "fetched_at": "2026-09-02T18:38:07.977338Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.410298Z",
+          "fetched_at": "2026-09-02T18:38:07.977347Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,24 +322,65 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "@drsavara",
+          "url": "https://x.com/@drsavara",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "Dr Hemant Savara",
+          "url": "https://facebook.com/Dr Hemant Savara",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "Dr.hemantsavara_official",
+          "url": "https://instagram.com/Dr.hemantsavara_official",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:18:12.645545Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "BJP MP Dr Hemant Savara Escapes Major Accident on Ghodbunder Road - UNITED NEWS OF INDIA",
-          "source": "UNITED NEWS OF INDIA",
+          "headline": "Maharashtra: Bhavnagar Express halt at Palghar gets fresh push after years of demand - Mid-Day",
+          "source": "Mid-Day",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ESVdiWHVodzExZmQ4WUJ4X2RibVN6eWVPQnltRmMyTkprZE90eEdhREdlRi04UDkyVG9fc2Y1dHFIV2F2S294bzE1Y2cycTh3bnZLMnEzWllBT0p6eER6VWRPV0ZNS3ZRQVJMcUFBTENxX3BmLW1FeWRn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWngzbVptQ2t0UEY2UERNc3M4cDBQQmpUVEVRM1h5UkhJcDIxX0owT0YxZWdXYjJhLTFINjFpOWxSdFA4TTNtSEJlVDlQWmRjazctZU9Vbk51Q1lmYXd3ZGd1VHRHSGdYMFFveTExdlVtdkh3OFdna0RBWFNwRml4NUs3N2xaQ2ZIQWhZcV90WXl3a0ZlV0JiWE1hY1YzRHZNdzNFRmxjNjZPeTk4cFM3SDRPQVlqZWtDUG1RNnZ1d3cxTGtUZ0ZQZUt3NGNPOUcxNmt3eFRleGp6bnVyUzI3WnJwSXnSAeoBQVVfeXFMTWMzRkxzcTBoYVdQOHhfaVdScEk2ZlZVbG0wNVprYU81bmJNRTNISnJSYjhnM1Frb09qeXIwYXRoUkREMGhSeXFzOEVtV0U0ZERhNnJoTjlsbFg4WU5LVkJJVlllZWRsR3lleDF4WjhuVG50LXhiRzNMYzV4MzhGWVRWNzFnNG1UYmdORnNLbnFQdWtTcmJxWF9HbjBXc0llZ0wxN3dhUTdHWDRPTUpiX3RneWdaSFFfeWF4VG5wcGJIbzNNQThjbDBwRlA3Q3pEZkpFbERJampvVW9nUGpITXlPNHY4X2NCem1n?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Dr. Hemant Vishnu Savara , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWI4THVWbWRuMkI4Nm40N0pUZ1E0eVFBVVd1ak5mTmpsTzJMU0lqTFNJMEI0dV9nNWR2RUprbGViQVlaeHFtdmx5LUlOS3o0dTJIVWZJeUMxdXlJczlGcjdSTTRnU19PTlRMX2ItNmJyUjZzT3RlLWpFVG84QW1nTTdHeF9OTzhVM2JfamZ2cFVwUQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -303,14 +397,6 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeTVGTE9zOElVWkVHTm10SWdualpSdWY3aGtodVV3V2pDdE5yMTlJcWFENURSVUJSZ2N0YlpQSlQ1ZFQ1MDdVa2NvX1IyN0FRTDJrd2xZY0QwYXBWNG1OY21KVWR5WVFkUmNzRlNkODVMakk1VTFQS0h0T2FheGc2cmtvUWxEdkFoNzQ1RTZjTDdmcWoxZUdRZkZGdlFKRGllTzBWcTd0WnF3dDlITXZGa2s4bjMtQUlybml6TTZJTUpEVmtNQmptUG5ZTUo2VTN6UUVDR1Z2d3loQVNyOUJhOEoyRdIB6AFBVV95cUxQRDQ2ZVdIRTBGQkhrc0lMQ2RKU0lJRHBTU1FTSXVtTDN3M0FqRWtZa1pVdC1leHI3N2dQWFE5NE82RGxVS1BqbXZYTnM4eEk1UXRIbEFGZkZkdUN2OUx6c1BRTnZwRm1rTWhua2pQRmxBWjBfbDRQWG9uaGszUzdKOXQyMk1Sc3MtcWg2VnpJT0ZlcHFfbjBETUtrdGUwOGFoenJONm9UWkY2RFB6UjVHZlQ5eUpjWmJ5TTlHT1pQQ2drUEZLU0ZLd003SlZFaEhKd1ZSRVEwczFrVzZwTWZtcGFNejNKcFJi?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Dr. Hemant Vishnu Savara , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWI4THVWbWRuMkI4Nm40N0pUZ1E0eVFBVVd1ak5mTmpsTzJMU0lqTFNJMEI0dV9nNWR2RUprbGViQVlaeHFtdmx5LUlOS3o0dTJIVWZJeUMxdXlJczlGcjdSTTRnU19PTlRMX2ItNmJyUjZzT3RlLWpFVG84QW1nTTdHeF9OTzhVM2JfamZ2cFVwUQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -352,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 69,
+      "starred_questions": 20,
+      "unstarred_questions": 49,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +485,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 81,622,050. MPLADS utilization: 1.4%. Parliament attendance: 85.0%. Questions asked: 69. Debates participated: 10. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.411060Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 69. Debates participated: 10. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.978816Z"
 }

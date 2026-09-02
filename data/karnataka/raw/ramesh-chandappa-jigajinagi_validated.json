@@ -4,16 +4,16 @@
     "constituency": "Bijapur",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3797,
+    "myneta_candidate_id": null,
     "slug": "ramesh-chandappa-jigajinagi",
     "house": "lok_sabha",
     "sansad_member_id": 170,
     "profile_url": null,
     "canonical_name": "Ramesh Chandappa Jigajinagi",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 71,
+    "age": null,
     "photo_url": "/mp-photos/170.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Bijapur",
       "state": "karnataka",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3797,
+      "myneta_candidate_id": null,
       "slug": "ramesh-chandappa-jigajinagi",
       "house": "lok_sabha",
       "sansad_member_id": 170,
       "profile_url": null,
       "canonical_name": "Ramesh Chandappa Jigajinagi",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 71,
+      "age": null,
       "photo_url": "/mp-photos/170.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:34.397060Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 516315994.0,
-      "liabilities": 68116765.0,
-      "net_worth": 448199229.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3797",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.954384Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 84.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 26.95,
-      "released": 26.95,
-      "sanctioned": 2.03,
-      "expended": 1.11,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:25.352015Z",
-          "notes": "Official eSAKSHI REST API — Works: 279 recommended, 55 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:39:39.503546Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:35:54.870864Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:35:54.868248Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 279,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 4.1187384044526905
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:41.225091Z",
+          "fetched_at": "2026-09-02T14:35:54.867171Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "‘Why should a Dalit person be concerned with RSS?’: Karnataka BJP MP on Priyank Kharge - The South First",
+        "source": "The South First",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNVN6bGJGLWNqRDhYRW5rUF9EcTFxNW02T0tHdkRZQnNMTEo5SFVEMDNqYnM5VkFnUXNqMWdTVDVUd3luXzhOR09WMDc4dnQtT3dfdXU5MFNtSDJodmdNZ0R3R0UyVXR3S3FoQlN0NjgzMGVVLXBKbExqUldTcjlMMUFfWVBNd0ZVSXp3TUNyc0ZFSTM0ZnU3SG85WTRQSG1kcUNIX29jOVRSTUdJYkpHVmhoWTgzM0hRVEVj?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Assets of BJP MP Ramesh Jigajinagi grew 100 times in 20 years - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa010UFlWRXJUNlRsN1hFU0xGTlNnYmdoUXAwV08ybzJEZUI2MlRfSjJhcnVIOXBCcm9oQ052NjRCTExIT1dWZ0VEZTEyZGM0NldJN2hnb1BEVHpTYjF6Y0NwaUhBcXJSOUZHSTJIVDdWOEZObWNIM3FDa0lRS2VLbDRydk1jYW9UU2lCbzVDaVpnSF92ZUJGNDkzY3dIWWVRSDN1WGZNbkM4QmVRQ2dYVkR6YnZVazl5R1NwRzJwdG5KYjkzU0pOMFBLSWQ2MmgxdWJiOTRNY0E5VzFiRkJqekdn0gHoAUFVX3lxTE42UVVFWWVhbjZtRzloWlB2LVFmaTNNN1RGUTVJWDFkSXp6bWRYWmZBVzBtSFlHLVJISW5aNlhKMlV5c3BOaGIya2FQMWhJNEl2Zlg1b0NMQlpOQlJDaDBBWjd2aHMzNk5FdG83Qy03czBvUUxXWnQtVnBqN1JFejJHUEEyTV96TEpZNHB4NVEzS3FGaElLWk5oTWY4S2tKZndaenhRRHF0blhRYjc5aFVJbko5NXh5TTZyU1hmSnF4N21JNDNUc0g4M1g3YkNGZ3U0dTNvN210VVM3N1RBR1ZqeFMzTjNhRF8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Vijayapura MP Ramesh Jigajinagi hints he may not contest Lok Sabha polls in Karnataka - inkl",
+        "source": "inkl",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXoxWGtsWlJHdkxNcFl4c0xLVUdna205ZWhjSEQxTTRvRnFyVjQ0VTQ4c3hOM2t1YmJrMGxzQk44dl9UN0ZGMG5UUUMyMFJZYUQ3aFBtU3R6QnphSTVWYjdydUg3WTRrZ0p6dVpRWVh3VmJncFpuQ0cxU1hSY3J0Ml9sVUpOM0FmWkhsZEt2TFNtNXhZSjQ3TTdEVWx3SDBLaEJ1VlN1d3d1Q0NFOGRSSw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM’s ministers are in ‘Q’, but not for money - Bangalore Mirror",
+        "source": "Bangalore Mirror",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkkyNHlsM0NnV0UyallVNGtoUUxzcjJ4WnV6ckdDdGg2YkctaHF3Q0JuTkQ4M0dSeW1vZlF4V0dMUk5veFdmQnEwLTNjcWQ1YkZlVkw1Wk5tXzFxSXVSaVlrN29ncEp0V0hzOUV1el93NGhWWkd0TDJMS0h4WDFiSlhWSzNBUkhaLXduVVBfQmMzc0UyVWFRLWlUZU5acnFoZnhRZ2pWU0pibVU2a1ktNlFrRVdJd9IBuwFBVV95cUxOa3c2Zk1HejZQSzRqNXlXVFVNVW8yZm5DcGVKOXZ6bXo4ZWdIRmxQbXRUei1EOFNuN0pZQnFDWEVSUU83TmFsVldMckpQdVdLQXhhclZzRE5rMmZvMmNoS0tncVJxdTFnRmd5cnFOQlNVTWpfRGtZLXcxUHk0RTBSNGFGNUpGam4yNFh4NF9SSnlvZFFKbFltWnVlbEpjeS1mRGkxWkdfOUJreE9sVzYwN2RhcFFPMG1XNU4w?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ramesh Jigajinagi elevation shows BJP's Karnataka poll focus - Livemint",
+        "source": "Livemint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSnJHaElqMGlsMWxEQ1RWSXFSQmZubm5QSlZhdUpaTDFsZTJ4cEtyNjRBQVRBOEVHa3VudmFqQjhxTmx6TVRwNm12dG9PTmJDWEt6UjRtNjhVYnFLb3R6Q0FZQnpwQW9jZkFsNzY1QnVOTUZxZU1DLXFfbmpYdlJZdnlqa3VWenFiLTl1bDdhSC1EYldhdlh6cnk3MW5RZnp4eGl0emM3Q29jRldPWlVmUkJRV19fTGhobUtHSNIBygFBVV95cUxOVUZsc1p6a1I5TE5JTTB6SmVQNnFEZ0RfLWVLTzBZWWNfOVBjajdEckZyRFhTM1BpWGN3Rkp3VmdPdHk0eVZicU5CcGhudjRhbjN2VkpkMk1XYWltd0xleU96dmFLaEc1T1d6cS02Tkp5V2tlT3k2U0lDOTRxRFZZUExubnIzUFpiRXNJT1laODk5ZC1kb2traGl1dHZPUGNMblN2aG45bzFqM2U4R1hJcWlFMVhrZVZmaDExSVdHdXUwVDR1NXQwNWN3?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:44.959043Z",
+    "collected_at": "2026-09-02T14:39:39.504479Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.244030Z",
+          "fetched_at": "2026-09-02T18:38:06.731731Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.244041Z",
+          "fetched_at": "2026-09-02T18:38:06.731742Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.244047Z",
+          "fetched_at": "2026-09-02T18:38:06.731748Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.244052Z",
+          "fetched_at": "2026-09-02T18:38:06.731753Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.244057Z",
+          "fetched_at": "2026-09-02T18:38:06.731759Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.244062Z",
+          "fetched_at": "2026-09-02T18:38:06.731764Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.244066Z",
+          "fetched_at": "2026-09-02T18:38:06.731768Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,11 +335,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Vijayapura MP Ramesh Jigajinagi hints he may not contest Lok Sabha polls - The Hindu",
-          "source": "The Hindu",
+          "headline": "‘Why should a Dalit person be concerned with RSS?’: Karnataka BJP MP on Priyank Kharge - The South First",
+          "source": "The South First",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYlJDX3dkNHFfMWFyZGE0MFVqYXNPaUh2azRtV0lIRmV6cVNQYmZQLVNQSnBMSlhxd0UzdnFHVlV6c0hVeVJ1RFJYLTJvbEpfSlAxN04tMVJZb2ZaT3RrQlJBVHdYeEV1bmYzbE1pSjJFRC1fTDM0ZnF5RTNHenYzeGxyVFZNLWFEVU1RZjRvLUs0TUlWTFFncTJGV2ZuS0J2c2RUVmt0SUJ5VVdlNlV5Q01fb1RpLUIzZHNZUlc0Vy14VkZWV3F6RTNUM0tkMHdFZEpNeXpfS2hTMDg0alFLc0hVVlHSAesBQVVfeXFMTXVuLW5qX2VEOHNqdkduSWs4elVmUEI4X2lodERXYkdmbU1tcUtVVEo4RXJWcWxCaE5Qd2ZfMDFESWtINDdxaXpMSy1ZNF9McjBxWVV5SFJnbTFNcl8tUjhBanBCcmR3UGxxUXk3bFpfV0taZHMxNmhfVVoxOUtLbkpsVl9ScTZFeXJDR2w4OTIyS2tlNFlMQm5LdkdOUjkyWUIxVmtTRVVCcVRJUlZBUFN6LVlxS3ZmY0xlT3R4Rjgta1FHUE9ZM1BBLUtocjdUMTI1ZVRNdlJkYm91NlFnQXFvekdxanEzSXg2UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNVN6bGJGLWNqRDhYRW5rUF9EcTFxNW02T0tHdkRZQnNMTEo5SFVEMDNqYnM5VkFnUXNqMWdTVDVUd3luXzhOR09WMDc4dnQtT3dfdXU5MFNtSDJodmdNZ0R3R0UyVXR3S3FoQlN0NjgzMGVVLXBKbExqUldTcjlMMUFfWVBNd0ZVSXp3TUNyc0ZFSTM0ZnU3SG85WTRQSG1kcUNIX29jOVRSTUdJYkpHVmhoWTgzM0hRVEVj?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -298,27 +351,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Portfolio of Modi government ministers: Ramesh Chandappa Jigajinagi has given drinking water and sanitation department - financialexpress.com",
-          "source": "financialexpress.com",
+          "headline": "Vijayapura MP Ramesh Jigajinagi hints he may not contest Lok Sabha polls in Karnataka - inkl",
+          "source": "inkl",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHBwclNuQ3lSQmtrLTNJRjktcXE2bTUyNHhPVUM3a1NfOHBIaWZmd0dKM0IwVnFsQm01RC1HYnVDWUhvYmJLM2FRR0VHQ0M4ZVdKQ2VVbWt5ZHNWM2RQNGowSWhydTJTelEyOWUtb3BLUVpFM2RfTVNzNVZtNXhPQTNaeGxlMl9xRC1rM3lUODlTU2gtTi05Q3o2TEltb09HbTEtSVJDajc5NTViQjlxeExpRkhWQdIBvAFBVV95cUxOWm0tNmJGU2VpYTBXZVMxVmE3bU9zbTFDa3E2Wmd2V0F3WEtPd0xTWlJPTE52cTE4UXRFdEp6TkVHVDJXNUdod3dCWDV1aWN2aUxZMmc3aHV6Wl9jMnhTajRSbVB4MWZMRk5fRWNoWjVfQkltTGtOdG0zRFc0Ym1CbDNrc2VIdHhJLWxyUWZqTGdybkdqUnJGTHNkNU1RRVNZV3k3OE9UanBHeVR4MEtfS0tJd3BINmVoN2d3Tg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXoxWGtsWlJHdkxNcFl4c0xLVUdna205ZWhjSEQxTTRvRnFyVjQ0VTQ4c3hOM2t1YmJrMGxzQk44dl9UN0ZGMG5UUUMyMFJZYUQ3aFBtU3R6QnphSTVWYjdydUg3WTRrZ0p6dVpRWVh3VmJncFpuQ0cxU1hSY3J0Ml9sVUpOM0FmWkhsZEt2TFNtNXhZSjQ3TTdEVWx3SDBLaEJ1VlN1d3d1Q0NFOGRSSw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "From Modest Beginnings to Millions: The Astonishing Wealth Surge of BJP's Dalit MP — Ramesh Jigajinagi - The Mooknayak English",
-          "source": "The Mooknayak English",
+          "headline": "PM’s ministers are in ‘Q’, but not for money - Bangalore Mirror",
+          "source": "Bangalore Mirror",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnYxUWozYjYwZXVqWHJMZGQ2UlFKcHU3cEVDSXFSU05rUTBwSHZOejRISmxobWRoalR1ZjVibE9tT3JVYk52a0ZPdzczbGVoaUlUTHAyczh0eml6U3BvTTdCa2ZCSlRfcUtoUkZEZjdGRkJpUVFmLV9CMUIyanRaTVZKeGYwVXcyWXRvc3Y3SDk3WmNsYlR0akdhS2ZrcHFKcnhFZmtXX2lCT1NuenNaLWJWTUdZYzdIYTdkUl9oRUdxdFpZdlZhY0VVQVNRdVdJLWd30gHgAUFVX3lxTE13cnZNc1RENW5mNVBVTUdIdm5OZ21saXVBMWdMcmlBTVhoOExob2dmVDNNSHJhOFhodlJpUVFYQW1jemR5UDN1YWJYTE9hRDlrTG9pejhHTWtuclRPeERxMmNrSUJETVB3RE4tc0tPaVA1dzNneUtrQ2hIWVQwcVNHTDUzanNMQ3Fha2VWOW96U1BFVVcwRU51R3hxWUdKTmNjaEJTcFktVXAxU041b3B4dDZZMGl5SkcwRmM2ckxtVFBtU09CNG9xR3RtWlFsT0loa1J0TEQxTXVnaWJHeVd3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkkyNHlsM0NnV0UyallVNGtoUUxzcjJ4WnV6ckdDdGg2YkctaHF3Q0JuTkQ4M0dSeW1vZlF4V0dMUk5veFdmQnEwLTNjcWQ1YkZlVkw1Wk5tXzFxSXVSaVlrN29ncEp0V0hzOUV1el93NGhWWkd0TDJMS0h4WDFiSlhWSzNBUkhaLXduVVBfQmMzc0UyVWFRLWlUZU5acnFoZnhRZ2pWU0pibVU2a1ktNlFrRVdJd9IBuwFBVV95cUxOa3c2Zk1HejZQSzRqNXlXVFVNVW8yZm5DcGVKOXZ6bXo4ZWdIRmxQbXRUei1EOFNuN0pZQnFDWEVSUU83TmFsVldMckpQdVdLQXhhclZzRE5rMmZvMmNoS0tncVJxdTFnRmd5cnFOQlNVTWpfRGtZLXcxUHk0RTBSNGFGNUpGam4yNFh4NF9SSnlvZFFKbFltWnVlbEpjeS1mRGkxWkdfOUJreE9sVzYwN2RhcFFPMG1XNU4w?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Bijapur Election Result 2024 LIVE Updates Highlights: Ramesh Jigajinagi of BJP Wins - News18",
-          "source": "News18",
+          "headline": "Ramesh Jigajinagi elevation shows BJP's Karnataka poll focus - Livemint",
+          "source": "Livemint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZUtwcmQwemR4dmdBUXZpWDZtalIzUmFYOWYxNkdncHpzZ0RhV3ByVEpnVjFna3BVdFgxcnZaYUNWcE83Xzg3T1FmNzNRdkZCdndRSFh4YXluY0hqMXl1cW9EMVlsUDUwalk5Ql9QZ09jZGFDSjNPM3E2a3VVbVViMVZxQlMtYkNFdmtjek40dm4yWUU2NVhMcWdRR3l5dGp6YTZyQlJjOFFZd0NiZ0toN2dub3A1akN6NjJaMXBnOGtYYkJaQnc3dTh5cXJKSmtNT3NES05XVXNHa2ZKbEJaS29B0gHnAUFVX3lxTFBnMVN1QWhIbjNVSl94bWw1VXl3WXdFWjBKSmlwa2F5OFFKbFp1YjRESlBsd1o1d0NxWVlVUUh1V0x0c0lzb3BTU0FNUThVWnFUeVVGajJhLXR4bU5RbXVUYWpIWEp2RXg2MHgydExUYzVDaG1icUJXRmZLLUF2bHJ4R3FnZ0NEaEx4Tnl3STVlY2FFXzJQTThqdTJHVTY0OGJmaGRNc1p4YzlSdkVqTjJfY2pYVHd0YkJ5R19XV1NuY0FIbDZTX2tYVF9WZHhBOC1PWm8xc1VMTlhYWEFwVkdCeE5wQ1lQOA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSnJHaElqMGlsMWxEQ1RWSXFSQmZubm5QSlZhdUpaTDFsZTJ4cEtyNjRBQVRBOEVHa3VudmFqQjhxTmx6TVRwNm12dG9PTmJDWEt6UjRtNjhVYnFLb3R6Q0FZQnpwQW9jZkFsNzY1QnVOTUZxZU1DLXFfbmpYdlJZdnlqa3VWenFiLTl1bDdhSC1EYldhdlh6cnk3MW5RZnp4eGl0emM3Q29jRldPWlVmUkJRV19fTGhobUtHSNIBygFBVV95cUxOVUZsc1p6a1I5TE5JTTB6SmVQNnFEZ0RfLWVLTzBZWWNfOVBjajdEckZyRFhTM1BpWGN3Rkp3VmdPdHk0eVZicU5CcGhudjRhbjN2VkpkMk1XYWltd0xleU96dmFLaEc1T1d6cS02Tkp5V2tlT3k2U0lDOTRxRFZZUExubnIzUFpiRXNJT1laODk5ZC1kb2traGl1dHZPUGNMblN2aG45bzFqM2U4R1hJcWlFMVhrZVZmaDExSVdHdXUwVDR1NXQwNWN3?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 4,
+      "starred_questions": 1,
+      "unstarred_questions": 3,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 7.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 516,315,994. MPLADS utilization: 4.1%. Parliament attendance: 90.0%. Questions asked: 4. Debates participated: 1. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:49.244878Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 4. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.732477Z"
 }

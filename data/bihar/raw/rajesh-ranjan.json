@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/554.jpg"
   },
   "criminal_record": {
-    "total_cases": 41,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 41,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 120884682.0,
-    "liabilities": 17236808.0,
-    "net_worth": 103647874.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 62.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.15,
-    "expended": 4.78,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T18:21:19.536241Z",
-        "notes": "Official eSAKSHI REST API — Works: 101 recommended, 99 sanctioned, 46 completed"
+        "fetched_at": "2026-09-02T15:00:28.754135Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:56:42.030657Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:56:42.028519Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 101,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 32.51700680272109
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 70.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:31.565121Z",
+        "fetched_at": "2026-09-02T14:56:42.027706Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Complaint filed against Purnia MP Pappu Yadav in Delhi over Parliament protest - ANI News",
+      "source": "ANI News",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ0hybU9tcDZGeTVQR2tWWHpVOUYwZmtjLUo0NW1sVUJVVFdyTWZIZURLc1Z3d0JxMjI1WE9LaEJ4S2NTMkNURnlySG9UcHpicUdJNFprX0hERm5ucTFMUF9Ja0NmcU8teHpYQ01Wdnd1Z1JrYnlRWDZPZHJqMkdXRXh5YnFPY2RlUUFSS3VQZVhtUlEzTkJlOEF0T1c5ckdBQnloQTYwNjloY2N4LWQ0NjhLNjg0Nzl6ekVBY3dSNi1ETnh6SHJlSHVlRVVCVWVTRVIyZHpWSW55UQ?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Complaint Filed Against Pappu Yadav Over 'Temple Donation Theft' Act In Parliament - ndtv.com",
+      "source": "ndtv.com",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOclFVUWpjUm5wcldHY0FFd0s2ZXlVbm8zT3lNNjVVQXgtdkZlM3UxVm9rUnR2blVBdm1VR0Uwb2hrSEJZcENhWjNkNFUtWWdPQ3ZNRmM0TlNzZWltbzhZTHNqN0hVOVdZSVc0VU1mam5SS3pvLTQyazhJem9OaXVrZ0hLeHZlczhBOGhfUlRxNnMwdldCbklBc3Qtd0JsS2pWVy1RVWtvRTlwVDNPUjk3SFk0dFUyVnI3V3lybl9SU0NGWG45dE4tLWh2M01neU9TNDVKNUlaX0FXTUxWYmRkb3c1aTZqMzTSAe8BQVVfeXFMTTc0SEJUMWJjS0w4eHVJQlV3cHVGQ2U0RUFEU0tJdk1Yd294dVFYOE0xcjBrUV9LQTQzOUYwQnJYa2JSMkdyR3oyMU1kM09iaFgzOGx5eWcwb2NTY0Z4azlQUUNpY2tTMWdXYW16eEoyc3FGWGgxalVidVUwNG1veFBTQkN1ck1ZWmVvSGFBSGtsNzVDS0V4QkxxUWNCMVppSEM2U0pVQzdwM1VNZl95ZTFwcDF0LVdMSzB1QnUzcl9YYzVROFVhcXVOS2xyajItbGQwb3BtSW9GWmV1cU04WHJQUmk1UlhLYWUwWEZtb3c?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "HC restores Y+ security cover for Purnia MP Pappu - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEdaUVpBb3luVEpsU1BGWl95LVZWV2s1YVVxc2FyX1JkdThhaGZDczRKbjJkUFZSZVNqblVuMDZmaU0xcmlGZFR2SnJSSkQ5Z0xNU2szWnlMZDZnNXVBbVg2bUpwUHNPVlo4OUN2LWppOUJacWpvZUgyMTVnd3FabTdESW1zVmNRbHpKWEkxSTh1dms4YTQ3MXRYSmxWUU1jYl85NmlINkhEcmNHRVBFRXpzcTFmYWJtSEZoSnJn0gHDAUFVX3lxTE1JQXViODY4ZXluRHlJRXNMQl9SQmk0N3lrY1pycTBEVm1RcEVjWlEzMkU5Tjh1a2hjOW5iVTVpckxRbjRMcEtsdW1HVDJ5ZHo2cmF0eXF3ZWFaVVI1Q3JCWFRDVlJRYjJBRTBIY2hoNmlwNXYyYlVVRmZjTVk3Sk5vcEwxN2FUVlRLd0VoZ21zam14WG9GREwtVDk1c21Hd1F0ME84Zk5ZRnc1MEY0Y3M2cldvUzZEOFVITWMwZ25ISmJjMA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chaos At Pappu Yadav's Delhi Residence, MP Alleges Receiving Threats After Ram Temple Donation Theft Skit - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSG14dGZOUENzLV9GMF9Ub0Fsc1BKSnQyem5iNVM0bGpRMlUzZ2MycmVoN2VjN1pNN290M244ZjI3dnJTQ2FZeXZLS0dueVJySnZQOVQwMHBhLWxselk2bTVpLThVS194OGI0dWdJX3E5LWVOMlhMeHdHbnhBX2sxOEpaMVBTci00NnIya0dXSG5od3FrZ09LdWRpZnlDN2hzNmpDR0hmWWwtckZxb3RkMXhzOEQzdk93YUpKZkRXLWc5d9IBxwFBVV95cUxONkpHQmVqMGdpdjNNMC1LRjI1dG1iWC00Zl8zamFXeHRIUmo0LUxieG9LaldEdTR2VlZleXU5Z2g3VXRPN0xzWHlZenQ2MlJUeWo2M1d3blZUcVEyX1N0Uk5zSXNZNW5PZEdEVm5uVjAtanpLUndPdUN6TzBRLU4tbTNnQzlISEt1S2lvR3hhRmpkWmdlZGdRbVBNbmtqeHNBVndjUC0ta1Exd0VITlN1V3AtVXBjVDI0MGpIZzhBanNUeE9PLUFj?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Complaint filed against Purnia MP Pappu Yadav for Parliament protest over Ram Mandir case - The News Mill",
+      "source": "The News Mill",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzd6aHpJdVBjcHUzRkVNWVNlQjl3TzhVN0hjTGJGN2VkYkdzSXdZdWNRejAtUmVDcnViSVpFRzUxVTZMQ0c1aHZuTlE3aTJ5MXZyMTdwbWg3bGhLWFNwaDVpb0puMDFKX0NJUGhiNDA0clF2N2hKbTJ0SGZCMEFYaE81b0hQUld5ZlctR3E2NFlWMWluZnc0dEJZVUx6ZGtRWHdSWEFieW8yal8ycU9UNTVnaXgxUm9YaC04T2Nnaw?oc=5",
+      "sentiment": "negative"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:30.929402Z",
+  "collected_at": "2026-09-02T15:00:28.755183Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.330443Z",
+        "fetched_at": "2026-09-02T18:38:04.790955Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.330453Z",
+        "fetched_at": "2026-09-02T18:38:04.790967Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.330458Z",
+        "fetched_at": "2026-09-02T18:38:04.790973Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.330463Z",
+        "fetched_at": "2026-09-02T18:38:04.790979Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.330468Z",
+        "fetched_at": "2026-09-02T18:38:04.790984Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.330473Z",
+        "fetched_at": "2026-09-02T18:38:04.790990Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.330506Z",
+        "fetched_at": "2026-09-02T18:38:04.790995Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.330513Z",
+        "fetched_at": "2026-09-02T18:38:04.791000Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -265,9 +321,25 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 2,
-    "neutral": 8,
+    "negative": 4,
+    "neutral": 6,
     "top_headlines": [
+      {
+        "headline": "Complaint filed against Purnia MP Pappu Yadav in Delhi over Parliament protest - ANI News",
+        "source": "ANI News",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ0hybU9tcDZGeTVQR2tWWHpVOUYwZmtjLUo0NW1sVUJVVFdyTWZIZURLc1Z3d0JxMjI1WE9LaEJ4S2NTMkNURnlySG9UcHpicUdJNFprX0hERm5ucTFMUF9Ja0NmcU8teHpYQ01Wdnd1Z1JrYnlRWDZPZHJqMkdXRXh5YnFPY2RlUUFSS3VQZVhtUlEzTkJlOEF0T1c5ckdBQnloQTYwNjloY2N4LWQ0NjhLNjg0Nzl6ekVBY3dSNi1ETnh6SHJlSHVlRVVCVWVTRVIyZHpWSW55UQ?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Complaint Filed Against Pappu Yadav Over 'Temple Donation Theft' Act In Parliament - ndtv.com",
+        "source": "ndtv.com",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOclFVUWpjUm5wcldHY0FFd0s2ZXlVbm8zT3lNNjVVQXgtdkZlM3UxVm9rUnR2blVBdm1VR0Uwb2hrSEJZcENhWjNkNFUtWWdPQ3ZNRmM0TlNzZWltbzhZTHNqN0hVOVdZSVc0VU1mam5SS3pvLTQyazhJem9OaXVrZ0hLeHZlczhBOGhfUlRxNnMwdldCbklBc3Qtd0JsS2pWVy1RVWtvRTlwVDNPUjk3SFk0dFUyVnI3V3lybl9SU0NGWG45dE4tLWh2M01neU9TNDVKNUlaX0FXTUxWYmRkb3c1aTZqMzTSAe8BQVVfeXFMTTc0SEJUMWJjS0w4eHVJQlV3cHVGQ2U0RUFEU0tJdk1Yd294dVFYOE0xcjBrUV9LQTQzOUYwQnJYa2JSMkdyR3oyMU1kM09iaFgzOGx5eWcwb2NTY0Z4azlQUUNpY2tTMWdXYW16eEoyc3FGWGgxalVidVUwNG1veFBTQkN1ck1ZWmVvSGFBSGtsNzVDS0V4QkxxUWNCMVppSEM2U0pVQzdwM1VNZl95ZTFwcDF0LVdMSzB1QnUzcl9YYzVROFVhcXVOS2xyajItbGQwb3BtSW9GWmV1cU04WHJQUmk1UlhLYWUwWEZtb3c?oc=5",
+        "sentiment": "negative"
+      },
       {
         "headline": "HC restores Y+ security cover for Purnia MP Pappu - The Times of India",
         "source": "The Times of India",
@@ -277,36 +349,20 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "HC restores Y+ security cover for Purnia MP Pappu - MSN",
-        "source": "MSN",
+        "headline": "Chaos At Pappu Yadav's Delhi Residence, MP Alleges Receiving Threats After Ram Temple Donation Theft Skit - ETV Bharat",
+        "source": "ETV Bharat",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQek1fa001RHFueV91WUhCODlpMXFmRUxWM1NKYW14dFBCM2VQUzN3N2FqVDE5d05MNlJXVlQ3TUxUTVk0SGN3ZjNlRWx4LWNCald4V3h4Wkx4M0ZUdThybWlpbDdhaV9NUGxwcmxycDMyaE80cGJRSGxyQkNCeWxLazVYN0E3akVadWJhZFZBQmozellVNjBWRkY1NW9QZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSG14dGZOUENzLV9GMF9Ub0Fsc1BKSnQyem5iNVM0bGpRMlUzZ2MycmVoN2VjN1pNN290M244ZjI3dnJTQ2FZeXZLS0dueVJySnZQOVQwMHBhLWxselk2bTVpLThVS194OGI0dWdJX3E5LWVOMlhMeHdHbnhBX2sxOEpaMVBTci00NnIya0dXSG5od3FrZ09LdWRpZnlDN2hzNmpDR0hmWWwtckZxb3RkMXhzOEQzdk93YUpKZkRXLWc5d9IBxwFBVV95cUxONkpHQmVqMGdpdjNNMC1LRjI1dG1iWC00Zl8zamFXeHRIUmo0LUxieG9LaldEdTR2VlZleXU5Z2g3VXRPN0xzWHlZenQ2MlJUeWo2M1d3blZUcVEyX1N0Uk5zSXNZNW5PZEdEVm5uVjAtanpLUndPdUN6TzBRLU4tbTNnQzlISEt1S2lvR3hhRmpkWmdlZGdRbVBNbmtqeHNBVndjUC0ta1Exd0VITlN1V3AtVXBjVDI0MGpIZzhBanNUeE9PLUFj?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "SC Directs Purnia MP Pappu Yadav to Approach Patna High Court for ‘Z’ Category Security Hearing - Law Trend",
-        "source": "Law Trend",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGZGMm93V3RVLU15Y0k1UzlkY2M2eWZQNXFVbDRhbmRpUFVXWk1RaGVTMFZuTE90emFsYnN3R2tVSkw4a2ZJSU9YaVBVQkRTQlE2VzFFMmFTbW1PTTNrZWdhZTFaY0xiM2d6Nl80b0ZGWUExeWcwOW53QWFmT0Zodnh4b1hWb2Q3U09vcmEwUUF1SFFCTm1VR28xbjhsQ19FZTBPWFdVMXlING9zREZaWEdpNno?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Purnea MP arrested in 31-year-old case, sent to two-day judicial custody - The Hindu",
-        "source": "The Hindu",
+        "headline": "Complaint filed against Purnia MP Pappu Yadav for Parliament protest over Ram Mandir case - The News Mill",
+        "source": "The News Mill",
         "severity": "medium",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWDNPQW1mNzBNLVdfeHFueVU1bUVCemtrcExBNEhtRlVUTWdmZUt5T1NlMlo3SzlZNlMxNWNQdk1yMV9jZ3RLYkk1X2JpRzR1ZWxidlhpZ0NXQ0VTOVNETnk4dkoxNVdpTWxHbFZMdkd0VWxFZ3V2ZFpXenJNczNQc25HRzFEU3JNWm96UXVKTGNVSURKMXdvc01sSjIyUDdTdjgxc2RpX0RJOEtsRk5DbW5meGlLOUlEME5wWXp5STdzZ29YUWtuR3BXUXprR3BSZ2fSAdgBQVVfeXFMTklhakx6NGNXX3Y3WnZwWDNyRVF5dEZCRFBIamtOQmZ3UFVUdFNBTDYwMGdRNnNoNkNydWYtNF9PQkZXWmFOUXpEVkdpWEk0TFlra1NkQkllSTZjOGRHRURJbDFKUUxWR0ZxTllwa081ZVZVVTR5OE4yMFk5eVVQTEZjOUQ4NXd0ZnBnc3RaZTNVTlZPUzJGY1RJSngtdUpheEQtdlljNlczWkdFSndBblJ0UlFHS2ZXeDZOazYwXzNMal9lZ0FmdGotQnF4ZFJFVm1CN3ZkbHcy?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzd6aHpJdVBjcHUzRkVNWVNlQjl3TzhVN0hjTGJGN2VkYkdzSXdZdWNRejAtUmVDcnViSVpFRzUxVTZMQ0c1aHZuTlE3aTJ5MXZyMTdwbWg3bGhLWFNwaDVpb0puMDFKX0NJUGhiNDA0clF2N2hKbTJ0SGZCMEFYaE81b0hQUld5ZlctR3E2NFlWMWluZnc0dEJZVUx6ZGtRWHdSWEFieW8yal8ycU9UNTVnaXgxUm9YaC04T2Nnaw?oc=5",
         "sentiment": "negative"
-      },
-      {
-        "headline": "MP Pappu Yadav hospitalised after arrest in 1995 Patna case; Rahul calls it political vendetta - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQzZHNi1FdWw5dU1GQ2ZranNJZnBOOW1mNmtXeEJ2NWVueVFQMmJURUFRT2dvU2o0RlRuZk1qdWJwa05xVHNIU2dxWGZMTG1XVU02dC1Vc0VobG9yUmY4ZkJUMEVjcnh2RkhjS2dfdi11aFM4N3c2MTg5U3B4T1ZLQjh2RVdVak8wb3U0S1ZJWGh5bnlOdFY2eWQxX2lzVVEzWUFaRHUyN2NNUlB1SDZBY3U0eFItQ0hwQ2l6NkVkV0xoZ2pNb0hpem9aYjE1aGpDdFNVWkRTbDFOYVRa0gHqAUFVX3lxTE5ZUWtBQU8tSlNqM29zakc1UzZPV2FNUnlOamZxRUpRVEVBTTFib2xWeVNzaUxWT2FlYmhwVnJSR0FYbkpVcHh2ejg4QkQ4Y1VqdnZtMWwzT2xqMHJYVHdWU1FyNmJQdThZQVY5dnNkSzhuSThXMVBCZUhxZXJ1RjJyQTZvcDN4cFlHSFZadTBxVWNSQTRZc0dtdkxxNFhEenhuVkwyVU1nMGJiQ3VIUFZLOWExdUlLVlBIdThmbDFXWmF3WC1hZFJkNkx6dEJfYVFZQWppWEljM1Jyd2xSM1V2azFpRzNSNVF5QQ?oc=5",
-        "sentiment": "neutral"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -339,15 +395,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 41,
+    "starred_questions": 12,
+    "unstarred_questions": 29,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 79.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -355,17 +411,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 70.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

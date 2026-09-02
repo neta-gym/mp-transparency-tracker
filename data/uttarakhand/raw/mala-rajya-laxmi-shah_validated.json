@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 2068739424.0,
-      "liabilities": 179000000.0,
-      "net_worth": 1889739424.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 95.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.41,
-      "expended": 4.23,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:35.021365Z",
-          "notes": "Official eSAKSHI REST API — Works: 225 recommended, 165 sanctioned, 28 completed"
+          "fetched_at": "2026-09-02T14:41:12.844211Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:37:33.182571Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:37:33.180533Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 225,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 28.775510204081638
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:30.052635Z",
+          "fetched_at": "2026-09-02T14:37:33.179708Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Govt targets planting of 2 crore saplings during Harela: Subodh Uniyal - Garhwal Post",
+        "source": "Garhwal Post",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkVqeFVSazk2LVZuTm5weHk4cGYwM2lPcHZta1prbEl5U1pFSHVPZWR5TmVTN3BINFpJTV8tbnRUNEVLT2dPZmhqRDdSYWotWExPR1RSTHFvR1hlWTBXWDFaeUZaZktaaUtZaWxTV3FpaWtEVTNpMDBrdDV0R18yTWNBLTlDcTJ3Rkp5b2RtVHNOSGhpcEpGSA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttarakhand MPs divert Rs 1.28 crore of constituency funds to other states, RTI reveals - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGFqTFQyM19tZ2lSX0huekF1WjQ0SlZ4OF9nQlVnMnNramhrQUlxLUhfZVA1OG8zeW1IUUtIVzhQWFdyaXp6N3c1RE9DemJSYy1WYnpYWnNRTlg0Y2FpY2JqNmcwRUFTN2NrZ0szbmhCUXFTMlhaVGthVHFkUWxvQnlyckVJdE96TVpDU29EQW9BekRNbHFweG02WTNzX3B4cGV0bWNoRlRON1hvcjVIUVZId1hPcG9YdXA1SDRuZzNmRmRkYUN1WXpqYV9jejd1d3fSAd8BQVVfeXFMTkpEVWVObG1lbmJsWFFjbFlSRTlfU3I5SktMeEh4WFhaUS1KaTJPSVUyelJwbmk5MElfZzNfX3hFdTVRU3ZJWEhjT0dOWDJ5SjZlTmpQd0xzcmFhdkFLU3k2RllfQlpRenZsb3ZIWEYwTVU3eTZMVmR5UFpISmxoSGpSSnlINjVGR2JqMExxUEVBRzZQcUc5Zi1uc0ExcGJ2SjZUUmE1M1NLMHBsSTZ0d19INWpfMnJNd1dsczRwRGp0YUJNZ19mOFYwQWY4dTZaQlgzMzVNamhsbS15UF9vbw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Mala Rajya Laxmi Shah raises demand for widening Kaulagarh–Bajawala Road in Lok Sabha - Garhwal Post",
+        "source": "Garhwal Post",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWQyMjlQNGE2RExNV0pOLUprbGJJZlF0b3VSRzlyTDlnMndnMlp0RzlZbFZMaDVEVEhqZHltd1NBYXFkRURJOFJIX0l0eXUteURsU1ZFbzg1Z1JnajhzdVpiYk9PVzRmakctQTJvLW45bEtYWGM1WDN3WTdOQTI3MDBKLXRoczUyY1VhdnltenFZSHhpMmJOM0kxSWF3UEF2dHBoa2dkQk51X3oxOEZVbFpB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha Elections 2019: BJP fields sitting MP Mala Rajya Laxmi Shah from Tehri Garhwal seat | Hindustan Times - hindustantimes.com",
+        "source": "hindustantimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbjZKUTNpWHhIQlhCamhaMXNkNWhJVDVaVU13T3lQbFNQZGM0NjVhOEwxcTFHWHpKSnptLUc0VG1zX3huVHlWUmlYWlFBMERZd21MUHhzRDlaT3hPWW9wUjBRc3hwZC1hOHVQSDQxNHQ2U3JzWXEwNDFhS0p6N190RDlrbFpKVktSbkE0aS1LZlNQVWJIR2x2VTVWWWpsMXBleTNBU1JUZWdpSUJhVmN5R1BkTUE3ay1qdjR3c2NFRTBrQ1V0dVE5TFVtUG5oSmFKTnhaTjIxd3JxQnYycXIydHdDOFlNN2V0YjF1LW0zQTFydko1d3BSd29zUGRjanNrd1ViMnRhODHSAY4CQVVfeXFMTS1hOFRfaXVIRXNGd2JQd19WaHNobE1GWF9FdXZDVmx5eDVJNFhxVDVHY1NYOTlkZ1ZjT01SVnNlbTFKaGRJYnNCWEJmU2YxczNzWVdPN2Z0amIzSUx2ZWFrZDl2bXM2Y1BhS2VjalpVYkpJa21aN3ljdkM1ZHVnam04TTd4MnNDR3hEbkhTakt2c3AwQmRtT3BCWllWMV8xU0lEYVkyQWszZmt1MXVNMlBiUThEZXZJSWJHQUZQTDdBRUFCYVFZRVdYT3QzNWJhdEhhbjlsZDk2eklWY01HX2hTYWcxVGNZRUM3N3JVMkRfb203Q1hvdkl5dzdGYWthZW1wandGQmVuY1JOS01R?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM Modi meets Uttarakhand MPs, urges them to stay connected with people in rain-affected areas - ddnews.gov.in",
+        "source": "ddnews.gov.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnhWRTRuQk4wdHJkRnJvaExKakN0bTNTd2hRTHplVFJvZmo5TlcxbjE2YWdHTkl5aWZTXzZjREktSXFxX1oxSURkbmhvb3NZVFhsVDFIYnpBRDdnMS0zS0ZlZXhETGhKSlh1a0hQbTVjb29xdVBIdEIwRll2YVN1Q2NzWTJhdk4ybG9LZ0VKZDJiNEl3X0d2bTVUU2cyaTU4c0NoMjBIUExuVG9YdUNpbDVqNUtrbXRxNnlB?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:21.251261Z",
+    "collected_at": "2026-09-02T14:41:12.844967Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.454737Z",
+          "fetched_at": "2026-09-02T18:38:12.044224Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.454746Z",
+          "fetched_at": "2026-09-02T18:38:12.044236Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.454751Z",
+          "fetched_at": "2026-09-02T18:38:12.044242Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.454756Z",
+          "fetched_at": "2026-09-02T18:38:12.044248Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.454761Z",
+          "fetched_at": "2026-09-02T18:38:12.044255Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.454765Z",
+          "fetched_at": "2026-09-02T18:38:12.044260Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.454770Z",
+          "fetched_at": "2026-09-02T18:38:12.044265Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -271,6 +327,22 @@
       "neutral": 9,
       "top_headlines": [
         {
+          "headline": "Govt targets planting of 2 crore saplings during Harela: Subodh Uniyal - Garhwal Post",
+          "source": "Garhwal Post",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkVqeFVSazk2LVZuTm5weHk4cGYwM2lPcHZta1prbEl5U1pFSHVPZWR5TmVTN3BINFpJTV8tbnRUNEVLT2dPZmhqRDdSYWotWExPR1RSTHFvR1hlWTBXWDFaeUZaZktaaUtZaWxTV3FpaWtEVTNpMDBrdDV0R18yTWNBLTlDcTJ3Rkp5b2RtVHNOSGhpcEpGSA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Uttarakhand MPs divert Rs 1.28 crore of constituency funds to other states, RTI reveals - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGFqTFQyM19tZ2lSX0huekF1WjQ0SlZ4OF9nQlVnMnNramhrQUlxLUhfZVA1OG8zeW1IUUtIVzhQWFdyaXp6N3c1RE9DemJSYy1WYnpYWnNRTlg0Y2FpY2JqNmcwRUFTN2NrZ0szbmhCUXFTMlhaVGthVHFkUWxvQnlyckVJdE96TVpDU29EQW9BekRNbHFweG02WTNzX3B4cGV0bWNoRlRON1hvcjVIUVZId1hPcG9YdXA1SDRuZzNmRmRkYUN1WXpqYV9jejd1d3fSAd8BQVVfeXFMTkpEVWVObG1lbmJsWFFjbFlSRTlfU3I5SktMeEh4WFhaUS1KaTJPSVUyelJwbmk5MElfZzNfX3hFdTVRU3ZJWEhjT0dOWDJ5SjZlTmpQd0xzcmFhdkFLU3k2RllfQlpRenZsb3ZIWEYwTVU3eTZMVmR5UFpISmxoSGpSSnlINjVGR2JqMExxUEVBRzZQcUc5Zi1uc0ExcGJ2SjZUUmE1M1NLMHBsSTZ0d19INWpfMnJNd1dsczRwRGp0YUJNZ19mOFYwQWY4dTZaQlgzMzVNamhsbS15UF9vbw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "MP Mala Rajya Laxmi Shah raises demand for widening Kaulagarh–Bajawala Road in Lok Sabha - Garhwal Post",
           "source": "Garhwal Post",
           "severity": "low",
@@ -279,36 +351,20 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Uttarakhand MPs divert Rs 1.28 crore of constituency funds to other states, RTI reveals - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "Lok Sabha Elections 2019: BJP fields sitting MP Mala Rajya Laxmi Shah from Tehri Garhwal seat | Hindustan Times - hindustantimes.com",
+          "source": "hindustantimes.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSkw5ZXJycWtwbGJLNnVaelZDdmFoX1VyYTcwdF9pMzRKeGd4cEpILWgyTDZMNVZYazNSa2xvMDRqS1BwRUhGV25DSGVYSHROWTZaUVFHcURPM2N5aVJabFpzNU1Xd21lS1N4QnJiYmlyWE9seG1NYTN3eVMtUXNFWkNweHJ2SGxoOHVhTi0tb19KelFLQjVCRDZLMzluS2xtT0ZQUFJybW54ZHdyRkFROEp3RVI2VkFXNU1DQ0RYbW4xbk00YUFhSGozaVdIaDRoVVFR0gHgAUFVX3lxTE9wYS1DMTZscG9yWi1SS3FqeW43UF9JLUlhUUNzOXdnWUVoTUJ0ZTFCY2Q1NE5oWEtjRWctS0lieXYzNW9LMTVyWmdWMnBpWXMzWEIySkgxejNUalhfTkE1engxLWswZUc2bkc2MlU5NmJUcmFRQnVnRmVCeVgzWlU3cy10bEZHcFItQkdaNFR0SlJDVWY2Z29TRGdsNGY5cmZZOW55VUJJck1icDhCbWk3UUF1ZWlCOG5rbmtmT3o1R3YtelNXUkxOQTNOVERQemFuLTQ0NkxoV1BQTThjcmxH?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbjZKUTNpWHhIQlhCamhaMXNkNWhJVDVaVU13T3lQbFNQZGM0NjVhOEwxcTFHWHpKSnptLUc0VG1zX3huVHlWUmlYWlFBMERZd21MUHhzRDlaT3hPWW9wUjBRc3hwZC1hOHVQSDQxNHQ2U3JzWXEwNDFhS0p6N190RDlrbFpKVktSbkE0aS1LZlNQVWJIR2x2VTVWWWpsMXBleTNBU1JUZWdpSUJhVmN5R1BkTUE3ay1qdjR3c2NFRTBrQ1V0dVE5TFVtUG5oSmFKTnhaTjIxd3JxQnYycXIydHdDOFlNN2V0YjF1LW0zQTFydko1d3BSd29zUGRjanNrd1ViMnRhODHSAY4CQVVfeXFMTS1hOFRfaXVIRXNGd2JQd19WaHNobE1GWF9FdXZDVmx5eDVJNFhxVDVHY1NYOTlkZ1ZjT01SVnNlbTFKaGRJYnNCWEJmU2YxczNzWVdPN2Z0amIzSUx2ZWFrZDl2bXM2Y1BhS2VjalpVYkpJa21aN3ljdkM1ZHVnam04TTd4MnNDR3hEbkhTakt2c3AwQmRtT3BCWllWMV8xU0lEYVkyQWszZmt1MXVNMlBiUThEZXZJSWJHQUZQTDdBRUFCYVFZRVdYT3QzNWJhdEhhbjlsZDk2eklWY01HX2hTYWcxVGNZRUM3N3JVMkRfb203Q1hvdkl5dzdGYWthZW1wandGQmVuY1JOS01R?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Who is Manujendra Shah? Tehri Garhwal royal in spotlight over Rs 1000 crore Delhi house, his wife is…, business is… - news24online.com",
-          "source": "news24online.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPaUNOZEFYZnRGeE9nRTdHTEVOTXFzU2tkRmp1WVNRdWNFd1l2c3NsUnhQeVU5N054TXhnRUlWc3FJa3B1cy1jRmdsT0FUSVh4YmlOem5qYWxaVEN1eUNGc1Rpel9sUVU0RTBKU0cxUXhWa05SSlhtZ2JsWjh0M0F4N3g2ZVVVZENMZHYxcXRjVEpoLUUtZzVaX3U0aWNRZzg0LUFDMG1FVzZkYWxnOFBld3NSbW5FNGlRMFJQY2NYeGEtQTFfV1ZpbzZwaHFwRXpCYkM3eUl6ekZzVVlpNXN0S0psVW9GZllvSmpLb3dzZ2pmUldZam9GUVBMUzVYaEoyUHFPNnRLX0xIa25vd3ZPMm1JX3FTRWkzS0FYTEpncmNyN1pkSlV3dEg1VzY2azc3X1A3MkZ30gG6AkFVX3lxTE1Ld2xlU3o2bk9UQzhncXJxUm5meWlhNVFrVVB5T21qV1d5ZTRGcVROZ0g4RHAzVXBuOEdSeWFEWnY1TlNwMmVIT0ItclVUMG84b2RkS1h5UnlsSFRoTVZYanVVRTdQLXNBdXVEenEyX3loWklTN1Y5SmtBblNSOTdEVzAtTl84Uk1md0ZQTXU4eVpCTnpnOUZld21RZ3g5WUdyejJiSlMxbHpESnlzcHF3dkh0OEw5aFhjSUNtOUZfREY2dHI0NjBiT1ZYcG1fOVh6UXdEQnhnNlRNTXpiZVBfckJ6Y0pMMXNBZkJNNFY1alVaMC14eVhjcndHaUFEWDc3TXJfMUx4Ri1JT19MaTdNRFp5TnRFN3lXX2dycnhOSnNnenBDN1JrbmtMbjh4V2ZPRVowWjFyX3F3?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "PM Modi meets Uttarakhand MPs, urges them to stay connected with people in rain-affected areas - DD News",
-          "source": "DD News",
+          "headline": "PM Modi meets Uttarakhand MPs, urges them to stay connected with people in rain-affected areas - ddnews.gov.in",
+          "source": "ddnews.gov.in",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnhWRTRuQk4wdHJkRnJvaExKakN0bTNTd2hRTHplVFJvZmo5TlcxbjE2YWdHTkl5aWZTXzZjREktSXFxX1oxSURkbmhvb3NZVFhsVDFIYnpBRDdnMS0zS0ZlZXhETGhKSlh1a0hQbTVjb29xdVBIdEIwRll2YVN1Q2NzWTJhdk4ybG9LZ0VKZDJiNEl3X0d2bTVUU2cyaTU4c0NoMjBIUExuVG9YdUNpbDVqNUtrbXRxNnlB?oc=5",
           "sentiment": "neutral"
-        },
-        {
-          "headline": "‘Modi, Rani, Dharm Aur Vikas’: Tehri Garhwal Wants To Retain Development Momentum Despite Royal Reticence - Swarajyamag",
-          "source": "Swarajyamag",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVE81d1hUZTB3RWpnSkQ5SUhDNHRucldPbnh2YnpRWmNOZ2VmTUVickQwWDdDNzFiUnNGcklONENobHMzeFhYNXBHLVV3Z3ZlTmdsazZRSHE3SVlVeXZhall3OVpPczJ6U0xRaktUdXRrYTliYko4SnY4WWFMeFNNWm13V3FkUjFSenltLUhUMlQzV1FvZW9pSHpfZmEzN05rcU1OUEw3aXBWVDJWT2Z5QW9fTHZoYVpzV2NmRTE1Z2VCRDZ2MGFDZGFlaFDSAdwBQVVfeXFMTUEwXzdUSEJnNmFMakp3eXY3bDVXOVg1OUJORkdVVGoxN3FOTnJMUEtqOXNLU0FmSmpDR3U5LXpfZnNLUk9CdGZrQjBvemtjTzlBWWljZVBYcDgwRFlTZTZGaWtjb3BZM2JWa1RVb2g0WkFaRXByOFJ5WUtISXp4dWVka3RfQXpQSkJVQjZlN0lnckxIeW5MNUlMeEVEYkEyNzZwb2x6QkkwZEh3N3dEekZhbExLYXJTejIwVkVNT01sbnRfWEdheGhOZU1RRURzU09WbllpVEh1VzA5Mg?oc=5",
-          "sentiment": "positive"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -341,15 +397,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 1,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 1,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 1.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +413,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +444,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +477,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttarakhand: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 2,068,739,424. MPLADS utilization: 28.8%. Parliament attendance: 90.0%. Questions asked: 1. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:54.455445Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 1. Debates participated: 1. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.044947Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Rajmahal",
     "state": "jharkhand",
     "party": "Jharkhand Mukti Morcha",
-    "myneta_candidate_id": 9340,
+    "myneta_candidate_id": null,
     "slug": "vijay-kumar-hansdak",
     "house": "lok_sabha",
     "sansad_member_id": 4866,
     "profile_url": null,
     "canonical_name": "Vijay Kumar Hansdak",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 41,
+    "age": null,
     "photo_url": "/mp-photos/4866.jpg"
   },
   "criminal_record": {
@@ -24,73 +24,79 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9340",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.490543Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:34:24.137855Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 62011168.0,
-    "liabilities": 16981136.0,
-    "net_worth": 45030032.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9340",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.490556Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 44.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.72,
-    "released": 14.72,
-    "sanctioned": 5.28,
-    "expended": 2.02,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:24:06.258684Z",
-        "notes": "Official eSAKSHI REST API — Works: 458 recommended, 293 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:31:00.514624Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:15.875524Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:15.872711Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 458,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 13.722826086956522
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
-    "attendance_percentage": 95.0,
-    "questions_asked": 52,
-    "debates_participated": 9,
+    "attendance_percentage": 70.0,
+    "questions_asked": 9,
+    "debates_participated": 3,
     "private_bills_introduced": 0,
     "is_minister": false,
     "source": "prs",
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:43.049157Z",
+        "fetched_at": "2026-09-02T14:27:15.871674Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Vijay Kumar Hansdak , JMM candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamVaRG13RVQ0aFkwSXZhUmZnbEdRRHdURjlCR1Mtemt0Qzl5ZHRGN2pnTnNYVzc2WGdRbVZMRzdObU1nV2JULTUwV28yRWlNakgya2E4WXpsMVBQdk9qV243SktfWkk5TjJfUHlUWjRhT3QxVkxqRGFsaklIbjhST3hSb0loajNVeUFydQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hemant’s arrest, Kalpana’s rallies & Modi magic — how poll campaign is playing out in tribal Rajmahal - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR08yemlmblhET0taWHl6MVliakJvNTU3S0c3czkyY0tIWmw4UldyZUF4bllYV3psQ3ZIdXpDNzBoRlpiaWtBdFZiQU83aGtBOVpDRms2MVRxcEJiRFhtdjM4M3plVmdhbWdSRHZudnpKTGtfTmRRQUxvRlkweE1feXpDbmJCazR0Q2xHWlJ1bjJvTXRuRW16SGxOM0dJY2JONlB6RW14ZVh5R3gxc0piak5zRUJhRzBfNjZwR18xaExoNWJrdk5RWmQzYjXSAdIBQVVfeXFMUFlqWENfblVOdWVVS2EyVllkemg3c1d3cldVUU1mWlVNOTdxaW9rbGs4OFBxTW4xQ3hjX0xrbnZveXBBX2pPeDRYbmNwUG0tRXhpNVdMTDFMaFdXSmZOTENPczRvTnJuZEE3eG51NGQ1SjFTVGhYU01UZ2VCZ3Q3Y1ViXzctVlBwNXBxSWFPaEVwekJjOUxrdS04a2lJY2EyQkp2endueUdjU0VObGtQLWJaODZoWUxxbzdld1BGUG9LbjBJTXpwNzUtMWNKRnZOMmx3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Vijay Kumar Hansdak - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0o3dHZHd0ZOZWlrMWM5cHVLMkpWbDV0X3ZnTzJsR1pvRDVGRUg0aW5kTTdZVkJQYlpoTkt2LWFIZU9tWGJxYnNYSnljNFJQNjFNTmVmSjRzMzZoZzVkMmRRN3VKbkV6NzFGaHNRNWZXWWJWV2Q3M2xrWUQzU0FxY1E1SjFKZWRZZWVtVmMwUUNhS0stVEduX3g1WFFrMi1icHhmMFpfaUtfSE5kNFJocXJyQ1Jad18tWi1iOURtdDU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajmahal lok sabha election results 2024: Rajmahal Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNzk5eTlQM3lscjZIUWlYWjRmdkpyOTdxeFd1WDVOR0Q0cVVSSTBsWXNqamFPdGpzb1FFSkdqa3N4cDdfcER5SzFYUnU3YTJ3ZG5sUk14T0EzSTkxZG4wVllydDRSS2tZUXJoX19ra1c1bF94LU9LeDFvTlliNGlMYkZzUU1MTTM5ME9lc2ZGQWgycVhD?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajmahal Election Result 2024 LIVE Updates Highlights: Vijay Kumar Hansdak of JMM Wins - news18.com",
+      "source": "news18.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaVl1OXRoOERpSWJEY3VxbFdINmU2WEt2YTBtOEM5SUFGb1FEX2RiZEcyb3BhQzhweE5uSVo5bmpONkNieGtiNHJ3MXo0dTZaTnVqZ3JUNnFYRDMwd01GQl9sTUYxazZGdkFJSFNyU3dzcUpBT1U3ZWhhQnh5Ym0zcjc1dTNkR05qekdBbVJXd0twMjRDVjVOUl9sQklTYUR2eUFSY0ZqSmZtUjFMVHE2bEtpWGdvVjRMX2l5X2lKUFR6YTNIT2tkVkpScm5aWUJCRnl0dUZCZVRpMlBzTjhhUjU2NNIB6AFBVV95cUxQM3k5MzJVTkw2UHMxVl8ycUU3NzVyeUF4b1drNnR5dGliX3lxWlUtRnR0anktWDdHc2dDbEpIQW1TR0VJZzgzQUJuZTZPVlNoV25KeGlzNV85SGpzTDA0anBHLWU3UWkycU1ybUVwem5JSGJsd0REMVNOV1ppQXZPbU1vYVoyejZQSDYtTDVtTXZjaVlrVldJb0kwVkJBRkxEYS1tbll2VWhMQ3NkelhHbXVteW0yUGNMV0VqcWhHbWtqeEFWQ2Z3S0l2UFVRRXFQX05oLVFhR2MteXJSSm44Uk1XTFkyOHp6?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:45.968820Z",
+  "collected_at": "2026-09-02T14:31:00.515614Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.883431Z",
+        "fetched_at": "2026-09-02T18:38:06.426742Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.883440Z",
+        "fetched_at": "2026-09-02T18:38:06.426754Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.883445Z",
+        "fetched_at": "2026-09-02T18:38:06.426760Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.883450Z",
+        "fetched_at": "2026-09-02T18:38:06.426765Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.883456Z",
+        "fetched_at": "2026-09-02T18:38:06.426771Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.883461Z",
+        "fetched_at": "2026-09-02T18:38:06.426776Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.883465Z",
+        "fetched_at": "2026-09-02T18:38:06.426781Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,34 +304,35 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/HansdakVijay/",
+        "url": "https://facebook.com/https://www.facebook.com/HansdakVijay/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:27:23.533536Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
-      {
-        "headline": "Vijay Kumar Hansdak - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0o3dHZHd0ZOZWlrMWM5cHVLMkpWbDV0X3ZnTzJsR1pvRDVGRUg0aW5kTTdZVkJQYlpoTkt2LWFIZU9tWGJxYnNYSnljNFJQNjFNTmVmSjRzMzZoZzVkMmRRN3VKbkV6NzFGaHNRNWZXWWJWV2Q3M2xrWUQzU0FxY1E1SjFKZWRZZWVtVmMwUUNhS0stVEduX3g1WFFrMi1icHhmMFpfaUtfSE5kNFJocXJyQ1Jad18tWi1iOURtdDU?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Rajmahal lok sabha election results 2024: Rajmahal Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNzk5eTlQM3lscjZIUWlYWjRmdkpyOTdxeFd1WDVOR0Q0cVVSSTBsWXNqamFPdGpzb1FFSkdqa3N4cDdfcER5SzFYUnU3YTJ3ZG5sUk14T0EzSTkxZG4wVllydDRSS2tZUXJoX19ra1c1bF94LU9LeDFvTlliNGlMYkZzUU1MTTM5ME9lc2ZGQWgycVhD?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Vijay Kumar Hansdak , JMM candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
         "source": "The Hindu",
@@ -304,15 +350,31 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Vijay Kumar Hansdak: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia",
-        "source": "Oneindia",
+        "headline": "Vijay Kumar Hansdak - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNSWZZYVVyci1jOEFwTDVqZmo1WmVjSDUybzFfU1BkRWpLSFBBMjkxUGZ6X0dZTXFWdkVRNXppVXI3ajBKbVlxQ2ZkYzV3dWROTmtTTU5melVKRE1jR2Z6cVczTnh0d29FWnZFb1ZFMExWclJrOGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0o3dHZHd0ZOZWlrMWM5cHVLMkpWbDV0X3ZnTzJsR1pvRDVGRUg0aW5kTTdZVkJQYlpoTkt2LWFIZU9tWGJxYnNYSnljNFJQNjFNTmVmSjRzMzZoZzVkMmRRN3VKbkV6NzFGaHNRNWZXWWJWV2Q3M2xrWUQzU0FxY1E1SjFKZWRZZWVtVmMwUUNhS0stVEduX3g1WFFrMi1icHhmMFpfaUtfSE5kNFJocXJyQ1Jad18tWi1iOURtdDU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajmahal lok sabha election results 2024: Rajmahal Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNzk5eTlQM3lscjZIUWlYWjRmdkpyOTdxeFd1WDVOR0Q0cVVSSTBsWXNqamFPdGpzb1FFSkdqa3N4cDdfcER5SzFYUnU3YTJ3ZG5sUk14T0EzSTkxZG4wVllydDRSS2tZUXJoX19ra1c1bF94LU9LeDFvTlliNGlMYkZzUU1MTTM5ME9lc2ZGQWgycVhD?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajmahal Election Result 2024 LIVE Updates Highlights: Vijay Kumar Hansdak of JMM Wins - news18.com",
+        "source": "news18.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaVl1OXRoOERpSWJEY3VxbFdINmU2WEt2YTBtOEM5SUFGb1FEX2RiZEcyb3BhQzhweE5uSVo5bmpONkNieGtiNHJ3MXo0dTZaTnVqZ3JUNnFYRDMwd01GQl9sTUYxazZGdkFJSFNyU3dzcUpBT1U3ZWhhQnh5Ym0zcjc1dTNkR05qekdBbVJXd0twMjRDVjVOUl9sQklTYUR2eUFSY0ZqSmZtUjFMVHE2bEtpWGdvVjRMX2l5X2lKUFR6YTNIT2tkVkpScm5aWUJCRnl0dUZCZVRpMlBzTjhhUjU2NNIB6AFBVV95cUxQM3k5MzJVTkw2UHMxVl8ycUU3NzVyeUF4b1drNnR5dGliX3lxWlUtRnR0anktWDdHc2dDbEpIQW1TR0VJZzgzQUJuZTZPVlNoV25KeGlzNV85SGpzTDA0anBHLWU3UWkycU1ybUVwem5JSGJsd0REMVNOV1ppQXZPbU1vYVoyejZQSDYtTDVtTXZjaVlrVldJb0kwVkJBRkxEYS1tbll2VWhMQ3NkelhHbXVteW0yUGNMV0VqcWhHbWtqeEFWQ2Z3S0l2UFVRRXFQX05oLVFhR2MteXJSSm44Uk1XTFkyOHp6?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -342,15 +404,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 9,
+    "starred_questions": 2,
+    "unstarred_questions": 7,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 16.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +420,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 70.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

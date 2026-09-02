@@ -4,16 +4,16 @@
     "constituency": "Howrah",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 3687,
+    "myneta_candidate_id": null,
     "slug": "prasun-banerjee",
     "house": "lok_sabha",
     "sansad_member_id": 4583,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/4583.jpg"
   },
   "criminal_record": {
@@ -24,68 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3687",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:56.086661Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:37:36.626341Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 22225100.0,
-    "liabilities": 2472897.0,
-    "net_worth": 19752203.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3687",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:56.086673Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 19.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.71,
-    "expended": 5.56,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:52:57.444661Z",
-        "notes": "Official eSAKSHI REST API — Works: 217 recommended, 213 sanctioned, 30 completed"
+        "fetched_at": "2026-09-02T15:07:36.539645Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:03:32.823876Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:03:32.822124Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 217,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 37.82312925170068
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:40.733206Z",
+        "fetched_at": "2026-09-02T15:03:32.821427Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Mamata Banerjee’s brother ‘unhappy’ over TMC’s Howrah Lok Sabha seat nomination - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTXl4LTdiVE5CQXJOSXN3ZHhVcDU2SXlZV3RDbmZ0dGFnbng4VjB0a3NrUFpGaGpwTWg4RmhBblJvWmtfMHBNQ003YnpNZ3l6RURUeklTQ0xLMEg0N2w4VnNpdllxbmt5cFhBRlRXc3FNUXpBbjRIeFp4Wi1FSGtiVmhRamJRTks1Skoya3NLZmUzTjdEdjRQWXIxc0Nwd09Bay0tQkJfdmRMb3ZMcVlPRWd4SjAyUW1SUVdGc2otOXNURE1kOUlKS0NrLUl5cnpTb1lKRFA4a9IB3gFBVV95cUxNQk5LS1NjTXk3RmVkMHdMOFNXVG4yNnloTjVscEZ5LWJaMlRxVEJzTHMyOXVQWVBoT05TaVBuWjFtcmRRcjQzdEp3OWpJYTBocGo2NlpYOUVyejRmclA1azltR3JWMThCNm5jZS1tR2lIRmoxdHNFVWo0d25EUllFdWE1YlFIeDVyU2F3YVp2VmxOaE93emRvTGF5cnd4NUlzOFpVZ2psLVZwQ091QWphRlpYLXJjNWFZZmJiLUdlaWt2cnBzVHlnMGJqTTZLRUJ4N094OWhLTUNNMnRzd0E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Howrah Lok Sabha Election Results 2024: Mamata's brother Prasun Banerjee wins by 169442 votes - CNBC TV18",
+      "source": "CNBC TV18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUEh0V2pUWVZOVEtVWEQ1M3dYSk00RTBtaW9PVURHc1ZfQjZfZ3lYb01LNWd0QlpLLVAweGhQMlpNS3VkaVpRMms5aHQwbXdtczdxMzYyUDYyVTZMbG5RUnI5Ykw5YTJBZHdEMVlCTUJCTUl1WWRtM3RLdHFWbzgtWkJLZmJUdU1IaWU5T2RHU3ZUNWREWldBMW5WckkwQldqQktQWmRNZU9hUlVPMXVEWUV3TFFQTVFRX1ROSlRVS0M5aWhoNnNzYWdVdkptYktTTFNJYmJJc1FNa05iWnpjckxuejcxN0wxbzh4SFo1NldDX09rMUHSAfsBQVVfeXFMTk9lSC1rSnFUVnVPSmJONkN5cjJfTkMtc3RlMzFfNkVKeHdTQzM5RWltUUdpdnlFcDVtT0hxUGJjNXVzZlM5TkltUHJsSXZ2akloRkNpTHFCdU14WllSSHQzSVlfU2JVY0pPUG9vWWpCNTlYT0JsWnI0TlFBVEpSUVVzNnVDeTFyYWtIOGJkNk83UVBFVXlTbzBBLXI3dW1Sb3dVVnlZdUpGRU01SlViMGswSzdxbGhqRTlHUFIyblRHamdxRkNMRjV3UHdvSDlmTS1pUjM5S3A3bU5qNnlTQ1RwcFgyNS0ydWFScFFkMGttVnNJZ3BTenFkNm8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Howrah election results 2024 live updates: BJP's Rathin Chakravarty vs TMC's Prasun Banerjee - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOUC1SQzl5OE9mOFZGcTU4WUx5bmU2MzdBY29PeXZQdlY3WmVBM2JHOFNWRmhiMkVDMEFzdHpVTk1iWXBUc0M3QWdNamNxWnVJcFpaRm41dkVVVjdrVWRSejlWRmNYdXhMWl9fZEpRYlViRFpoc25RcTgtUGs2WlBQaVp5XzZEWi1tVTk4aVRac1JfYnVrdUtaS0pudmhuYWEzREs5ZU5RUDBjX1A5RExUU052dzVWMVBSZVl3T2JoLWtCQUxod0hrdlVJVHNKVkh3ZVg0S29jaVBtOHpUeG45LThWUU5xNkxRRUxLTUVBTXkwbGVVY2JhRU40X0ZUWXBJeEJydXh0TnFrTlFiZFFycmdfVXVFbzZTYzBoT3dqOUQ5c25RN1N4cGs2MWx5Vm9EclR6eEdQNzdWOGcwYjBhSk1WTml0bFQtbWgtSTRTWW3SAdYCQVVfeXFMTTdWNFJZV1laSENQdFlpWUJwdUp4SzNheGJMakZpYThrRVlFdXJzNVF6aUFidDExZTNCMTNnU29XSEtfZU5DT05faHA3d0tnR2JGWkJLVWdZb19zdWNfbW12QkJiejZldGxVbC1Yd2FaUC1JbWtTVS1YUlZTNEhWNTV6bG1XOXNOdVcwdUpKMEo5ZzdGZklDaVpfN1hYd3pGWDh1NHlnZHBDTXBvUUdwUjczeWdEVmZNWEItNHF2T2JNd1QyMDRUbWdDc0ZZUkdQUG5fTDlhQU41MjlOUGFlMmhlSnYyTnloUUlqcTlXdDFrelRKcXIxbG9hVl9Bakx3OXJLVDZjbUdaU2ZMOVE1d1phYjRHVHB6Nk5ycHF3R2xRTXk2azRZSWNfRG14US1sd0F6N24zdmVYbkpkTTA2WGVsVFh6MzBlQVVyOVNEcU1SbXE4Wnh3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mamata says 'no ties' with brother after he expresses displeasure over TMC's Howrah candidate - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOckNNUmZWSG1fNk9aWTFXcUZPdWJ2SEtlMW5mX01zVnRUZmRwekl2NDhUQmNOWVhwMmo3dW9DcjdUYWJNRGg3bHpoTmJKUEhfcFBaQWlHdGhLQUt6LTFaUFhKdHRNdVg1Y3dEV0ZERkc3aXpPZzJRSzBrUGowWGdNQlNLV3hRVEVPeFJTclV0UXFzMV9yOU05YWV2RThic3N1bDVJN05IVEJFQlFPYWVHUGQ0YU1TS1JOUnZlU1JWcGVEX1lLeFo3WE1yMEg1V2RUTzRkMTZZeHPSAeYBQVVfeXFMTmtyWERINEoydnl6XzNObk4wMHVHTHlQalk0eFh0dXBSQWhZb1JNRVpyOGNaVEFTUUU4bUg2TG5PUXlEVHJDby11eDAwU0RRLTV6MzVhUUZVRnE4QzRTeGNISVdjSHJCekZTMi1SY0tqUzVUX0JJOUZwaG1JOE9McFVnaDcydzFkRGROT0xFRndiTlVncGprY2lPYXJrc1ZjbjMtamRkMjAzX3FBSlVqT1p6cGJzeXNlNmU1cks0VGVFWVhqOUlOcTN1QXVNNDFFampqb3hhRTBjUURhclM2NGZsSEhsZmc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Disgruntled TMC MP Prasun Banerjee meets youth wing chief, says he is not leaving party - Firstpost",
+      "source": "Firstpost",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUFCTVNFV2U5VVBfcXdRbHBDbFFhbEY4MnBVSHhfNkpSLURsY2hlV2dNNmlOZ1Q3QUxRRERHVVdUcnhoRUQyM0FsRWFJNG9QaWZLSUtyeWtkSEJuX0hqcm52RkI1X2ItZXVXZkp6blFPT3RtU1F1cEJHVDY0ZWdsMnMtWGRKblhmX21xUDdWUEI4dm5aLThfREFoOVNtdDlqU0l0RzR6TUhpX185dnNrSnNMWHl6aFQ5LUtqdzVyWm9kS2pmRk80empuM1M5dm8?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:43.414600Z",
+  "collected_at": "2026-09-02T15:07:36.540709Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.853309Z",
+        "fetched_at": "2026-09-02T18:38:12.489584Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.853318Z",
+        "fetched_at": "2026-09-02T18:38:12.489595Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.853328Z",
+        "fetched_at": "2026-09-02T18:38:12.489600Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.853332Z",
+        "fetched_at": "2026-09-02T18:38:12.489606Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.853337Z",
+        "fetched_at": "2026-09-02T18:38:12.489612Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.853341Z",
+        "fetched_at": "2026-09-02T18:38:12.489616Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.853346Z",
+        "fetched_at": "2026-09-02T18:38:12.489621Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -272,11 +317,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Howrah election results 2024 live updates: BJP's Rathin Chakravarty vs TMC's Prasun Banerjee - The Times of India",
-        "source": "The Times of India",
+        "headline": "Mamata Banerjee’s brother ‘unhappy’ over TMC’s Howrah Lok Sabha seat nomination - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOUC1SQzl5OE9mOFZGcTU4WUx5bmU2MzdBY29PeXZQdlY3WmVBM2JHOFNWRmhiMkVDMEFzdHpVTk1iWXBUc0M3QWdNamNxWnVJcFpaRm41dkVVVjdrVWRSejlWRmNYdXhMWl9fZEpRYlViRFpoc25RcTgtUGs2WlBQaVp5XzZEWi1tVTk4aVRac1JfYnVrdUtaS0pudmhuYWEzREs5ZU5RUDBjX1A5RExUU052dzVWMVBSZVl3T2JoLWtCQUxod0hrdlVJVHNKVkh3ZVg0S29jaVBtOHpUeG45LThWUU5xNkxRRUxLTUVBTXkwbGVVY2JhRU40X0ZUWXBJeEJydXh0TnFrTlFiZFFycmdfVXVFbzZTYzBoT3dqOUQ5c25RN1N4cGs2MWx5Vm9EclR6eEdQNzdWOGcwYjBhSk1WTml0bFQtbWgtSTRTWW3SAdYCQVVfeXFMTTdWNFJZV1laSENQdFlpWUJwdUp4SzNheGJMakZpYThrRVlFdXJzNVF6aUFidDExZTNCMTNnU29XSEtfZU5DT05faHA3d0tnR2JGWkJLVWdZb19zdWNfbW12QkJiejZldGxVbC1Yd2FaUC1JbWtTVS1YUlZTNEhWNTV6bG1XOXNOdVcwdUpKMEo5ZzdGZklDaVpfN1hYd3pGWDh1NHlnZHBDTXBvUUdwUjczeWdEVmZNWEItNHF2T2JNd1QyMDRUbWdDc0ZZUkdQUG5fTDlhQU41MjlOUGFlMmhlSnYyTnloUUlqcTlXdDFrelRKcXIxbG9hVl9Bakx3OXJLVDZjbUdaU2ZMOVE1d1phYjRHVHB6Nk5ycHF3R2xRTXk2azRZSWNfRG14US1sd0F6N24zdmVYbkpkTTA2WGVsVFh6MzBlQVVyOVNEcU1SbXE4Wnh3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTXl4LTdiVE5CQXJOSXN3ZHhVcDU2SXlZV3RDbmZ0dGFnbng4VjB0a3NrUFpGaGpwTWg4RmhBblJvWmtfMHBNQ003YnpNZ3l6RURUeklTQ0xLMEg0N2w4VnNpdllxbmt5cFhBRlRXc3FNUXpBbjRIeFp4Wi1FSGtiVmhRamJRTks1Skoya3NLZmUzTjdEdjRQWXIxc0Nwd09Bay0tQkJfdmRMb3ZMcVlPRWd4SjAyUW1SUVdGc2otOXNURE1kOUlKS0NrLUl5cnpTb1lKRFA4a9IB3gFBVV95cUxNQk5LS1NjTXk3RmVkMHdMOFNXVG4yNnloTjVscEZ5LWJaMlRxVEJzTHMyOXVQWVBoT05TaVBuWjFtcmRRcjQzdEp3OWpJYTBocGo2NlpYOUVyejRmclA1azltR3JWMThCNm5jZS1tR2lIRmoxdHNFVWo0d25EUllFdWE1YlFIeDVyU2F3YVp2VmxOaE93emRvTGF5cnd4NUlzOFpVZ2psLVZwQ091QWphRlpYLXJjNWFZZmJiLUdlaWt2cnBzVHlnMGJqTTZLRUJ4N094OWhLTUNNMnRzd0E?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -288,27 +333,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Prasun Banerjee: From Football Captain to Howrah’s Consistent Parliamentary Voice - vocal.media",
-        "source": "vocal.media",
+        "headline": "Howrah election results 2024 live updates: BJP's Rathin Chakravarty vs TMC's Prasun Banerjee - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3dZb1JBNF9nVHpXWVBmblI2Vkx1SzJMVE9QTkk4Wjl1Nm1ZUFpyY0xEQ29sX1BXNUVXTXoyWXZJWFpRTXZiS0VlanA5Wk5zTTM4cUpOaGE2Y0FnV0UxYmFqZ0NXRlVocUdnUENwSG9vdHNPajhRRFhzWGRpVTFpRTlVVFBjZDcwT0wybTVkUWpyVExDeEl1TENoX1VmRU9UdnIzeFloQVFtSlNk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOUC1SQzl5OE9mOFZGcTU4WUx5bmU2MzdBY29PeXZQdlY3WmVBM2JHOFNWRmhiMkVDMEFzdHpVTk1iWXBUc0M3QWdNamNxWnVJcFpaRm41dkVVVjdrVWRSejlWRmNYdXhMWl9fZEpRYlViRFpoc25RcTgtUGs2WlBQaVp5XzZEWi1tVTk4aVRac1JfYnVrdUtaS0pudmhuYWEzREs5ZU5RUDBjX1A5RExUU052dzVWMVBSZVl3T2JoLWtCQUxod0hrdlVJVHNKVkh3ZVg0S29jaVBtOHpUeG45LThWUU5xNkxRRUxLTUVBTXkwbGVVY2JhRU40X0ZUWXBJeEJydXh0TnFrTlFiZFFycmdfVXVFbzZTYzBoT3dqOUQ5c25RN1N4cGs2MWx5Vm9EclR6eEdQNzdWOGcwYjBhSk1WTml0bFQtbWgtSTRTWW3SAdYCQVVfeXFMTTdWNFJZV1laSENQdFlpWUJwdUp4SzNheGJMakZpYThrRVlFdXJzNVF6aUFidDExZTNCMTNnU29XSEtfZU5DT05faHA3d0tnR2JGWkJLVWdZb19zdWNfbW12QkJiejZldGxVbC1Yd2FaUC1JbWtTVS1YUlZTNEhWNTV6bG1XOXNOdVcwdUpKMEo5ZzdGZklDaVpfN1hYd3pGWDh1NHlnZHBDTXBvUUdwUjczeWdEVmZNWEItNHF2T2JNd1QyMDRUbWdDc0ZZUkdQUG5fTDlhQU41MjlOUGFlMmhlSnYyTnloUUlqcTlXdDFrelRKcXIxbG9hVl9Bakx3OXJLVDZjbUdaU2ZMOVE1d1phYjRHVHB6Nk5ycHF3R2xRTXk2azRZSWNfRG14US1sd0F6N24zdmVYbkpkTTA2WGVsVFh6MzBlQVVyOVNEcU1SbXE4Wnh3?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "'If needed, I will contest as independent': Mamata Banerjee's 'upset' brother over ticket distribution - India TV News",
-        "source": "India TV News",
+        "headline": "Mamata says 'no ties' with brother after he expresses displeasure over TMC's Howrah candidate - newindianexpress.com",
+        "source": "newindianexpress.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOZ1ppYjdidHNJbG83MmlFT2FkTWlCZm41R3NCcGlibGQ4cmlkRFltWHFVYWhEMkFvWXl4SzRWZW9TYks5ZDI2SWxtZnRzV25wTmNQWmVTQUExZG45NnR6MmtKZWI5NWoxTG5tVmIwU3pzcVlPWC10Z3VJTEhSRjRLeFh4RFQ2MmczaGhrZXU4TmJMUXVSZ0doTkpKeDg4M29FUFBXb1FlUzNwMVJPNVdoUnl6ZjZ6WjlIR2dLcUdNZFVPQy05RXJ5RFgxNjd3VjNFb1ZDejUybVpPak5vT09DWkRrNmxNX3AzMW1ETkVVbnBwR2s4NkQ3X2pQVHpXcG9yNmQ1QzctYURqMGlaczZfdHV4OG9RcDR1amRJaDVOc0Z1akxjbmZHR3p6SdIBsAJBVV95cUxPVlFOc0xHNTkyUEV3MnlCRWFwMzY4UXhkS0x2ZUpuWkpDazB6N01vakNSSHZMYnl0YWh5TWhrZll2SE1lWFJqZnNKUVBwUWZrbUNjME9iaHNrT1hUMFJZQjl2NXUwUTJubTZWSmJIWXdJV3JTM0F1aGh5ZkotZ0ZjQVRaOXpyb05zbUNvSTM0ejYtY3ZqdDVVYnZvSmdFZUg3c2VGaVJOSGZUSU1TUjZ0WWxBcnB1YnExSDVteFNJc1F0MHRQRnUydldud25DRy1lQjZaTHRPazNubE9hYnl2eHRrY0FTTWdwV3ROZEZ4ZXIxaTQ2Mmc2dmxoem1lRWI1TFZ6MHV5SU1uMThFTGlYS0liTFVGdHNtenJrVkZBcGRaR2xfLXBsSjJERThlWjBJ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOckNNUmZWSG1fNk9aWTFXcUZPdWJ2SEtlMW5mX01zVnRUZmRwekl2NDhUQmNOWVhwMmo3dW9DcjdUYWJNRGg3bHpoTmJKUEhfcFBaQWlHdGhLQUt6LTFaUFhKdHRNdVg1Y3dEV0ZERkc3aXpPZzJRSzBrUGowWGdNQlNLV3hRVEVPeFJTclV0UXFzMV9yOU05YWV2RThic3N1bDVJN05IVEJFQlFPYWVHUGQ0YU1TS1JOUnZlU1JWcGVEX1lLeFo3WE1yMEg1V2RUTzRkMTZZeHPSAeYBQVVfeXFMTmtyWERINEoydnl6XzNObk4wMHVHTHlQalk0eFh0dXBSQWhZb1JNRVpyOGNaVEFTUUU4bUg2TG5PUXlEVHJDby11eDAwU0RRLTV6MzVhUUZVRnE4QzRTeGNISVdjSHJCekZTMi1SY0tqUzVUX0JJOUZwaG1JOE9McFVnaDcydzFkRGROT0xFRndiTlVncGprY2lPYXJrc1ZjbjMtamRkMjAzX3FBSlVqT1p6cGJzeXNlNmU1cks0VGVFWVhqOUlOcTN1QXVNNDFFampqb3hhRTBjUURhclM2NGZsSEhsZmc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Lok Sabha elections 2019: Footballer-MP Prasun Banerjee forced to defend his turf - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "Disgruntled TMC MP Prasun Banerjee meets youth wing chief, says he is not leaving party - Firstpost",
+        "source": "Firstpost",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYlU1R005c25DQ3BUSUxuTkFCcFlXcnJPOFFMNHNaRVhwQV9odTFkLXNtbGp2WXRGZWpXbWczWFBjakpHR0Y4Y0xKaXRBbXlxQlpyMGwwOVhKNnYtV2dRMDlTVC1uSUpidWZwdW85c1B0bWR4Nzc4VjhQMVFFTXJUcmNHR3JsRENRZTNBdmhpeXRXU0IxSTl6WkZYd1dRZ1NvcTNQNnpR0gGzAUFVX3lxTE1kcFlOVDMxYVhpb194UW1jeVhDcTNaczhITGxfY0VHYmlhaVRJc2o5RW5XeTgxYnRxWjdjT05feWJ2VndvZUhxMmJDV0NaLW10X1JseE94cUJrUFBIMVkzcmU5cGV0am9nbl8tVWk5ekIxZ1U4M2xlbklIME9tdmJuM205MUNUX2NyZ255VlFHa0MzaW9GeUg5TlFKbjBYc0NWSnNTdEZvN0ROVWljQWR3cEZV?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUFCTVNFV2U5VVBfcXdRbHBDbFFhbEY4MnBVSHhfNkpSLURsY2hlV2dNNmlOZ1Q3QUxRRERHVVdUcnhoRUQyM0FsRWFJNG9QaWZLSUtyeWtkSEJuX0hqcm52RkI1X2ItZXVXZkp6blFPT3RtU1F1cEJHVDY0ZWdsMnMtWGRKblhmX21xUDdWUEI4dm5aLThfREFoOVNtdDlqU0l0RzR6TUhpX185dnNrSnNMWHl6aFQ5LUtqdzVyWm9kS2pmRk80empuM1M5dm8?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -358,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

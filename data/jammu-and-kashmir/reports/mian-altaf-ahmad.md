@@ -3,24 +3,22 @@
 **Constituency:** Anantnag-Rajouri, Jammu And Kashmir
 **Party:** Jammu and Kashmir National Conference
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 66
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.3 / 100
+## Composite Transparency Score: 57.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 10.3 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 20.93 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 20.93 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 73% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 8
-- **Expended:** Rs 2
-- **Utilization Rate:** 12.9%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,36 +66,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/mianaltafsahib](https://x.com/https://x.com/mianaltafsahib) | No | Yes |
+| Facebook | [@https://www.facebook.com/wangatlar/](https://facebook.com/https://www.facebook.com/wangatlar/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
-- MP Mian Altaf urges Railway Minister to consider Vande Bharat stop at Anantnag Station - KashmirPEN (KashmirPEN) [neutral]
-- MP urges BRO to expedite work on Jammu-Rajouri NH - Daily Excelsior (Daily Excelsior) [neutral]
-- MP Mian Altaf seeks parole for Er Rashid to visit ailing father - Greater Kashmir (Greater Kashmir) [neutral]
-- MP Mian Altaf Welcomes Jammu–Rajouri Rail Project - Kashmir Life (Kashmir Life) [neutral]
-- MP Mian Altaf calls on CM Omar - The INS News (The INS News) [neutral]
+- MP Mian Altaf grieves Poonch road accident - Rising Kashmir (Rising Kashmir) [neutral]
+- MP Mian Altaf Ahmad Visits Flood-Affected Areas in Poonch District - KNS News (KNS News) [neutral]
+- MP Mian Altaf Expresses Grief Over Poonch-Rajouri Tragedy, Seeks Swift Relief and Rescue - Kashmir Life (Kashmir Life) [positive]
+- MP Main Altaf Chairs DISHA Meeting At Shopian, Reviews Developmental Works And Govt Schemes - Daily Excelsior (Daily Excelsior) [neutral]
+- MP Mian Altaf express sorrow, anguish over loss of lives, property in Rajouri, Poonch due to incessant rains - Greater Kashmir (Greater Kashmir) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Mian Altaf grieves Poonch road accident - Rising Kashmir** (Rising Kashmir)
+- ! **MP Mian Altaf Ahmad Visits Flood-Affected Areas in Poonch District - KNS News** (KNS News)
+- ! **MP Mian Altaf Expresses Grief Over Poonch-Rajouri Tragedy, Seeks Swift Relief and Rescue - Kashmir Life** (Kashmir Life)
+- ! **MP Main Altaf Chairs DISHA Meeting At Shopian, Reviews Developmental Works And Govt Schemes - Daily Excelsior** (Daily Excelsior)
+- ! **MP Mian Altaf express sorrow, anguish over loss of lives, property in Rajouri, Poonch due to incessant rains - Greater Kashmir** (Greater Kashmir)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Jammu And Kashmir: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mian Altaf Ahmad has a below-average transparency score of 49.3/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Mian Altaf Ahmad shows moderate transparency with a score of 57.0/100. No criminal cases declared.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 209,330,000. MPLADS utilization: 12.9%. Parliament attendance: 60.0%. Questions asked: 4. Debates participated: 6.
+No criminal cases declared. Parliament attendance: 60.0%. Questions asked: 4. Debates participated: 6. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 209,330,000. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +239,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Mian Altaf Ahmad's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 12.9%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

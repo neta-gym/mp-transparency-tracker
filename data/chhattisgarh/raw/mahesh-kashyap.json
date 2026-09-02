@@ -4,16 +4,16 @@
     "constituency": "Bastar",
     "state": "chhattisgarh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 268,
+    "myneta_candidate_id": null,
     "slug": "mahesh-kashyap",
     "house": "lok_sabha",
     "sansad_member_id": 5626,
     "profile_url": null,
     "canonical_name": "Mahesh Kashyap",
     "name_aliases": [],
-    "education": "8th Pass",
+    "education": null,
     "profession": null,
-    "age": 48,
+    "age": null,
     "photo_url": "/mp-photos/5626.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:38.186141Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 3967309.0,
-    "liabilities": 34980.0,
-    "net_worth": 3932329.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=268",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:45.753784Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 3.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.48,
-    "expended": 5.4,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:19.966962Z",
-        "notes": "Official eSAKSHI REST API — Works: 172 recommended, 168 sanctioned, 31 completed"
+        "fetched_at": "2026-09-02T14:36:16.993217Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:32:13.325331Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:32:13.322453Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 172,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 36.734693877551024
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:13.490693Z",
+        "fetched_at": "2026-09-02T14:32:13.321420Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Nutritional Diet Essential to Prevent Diseases” – MP Mahesh Kashyap - PIB",
+      "source": "PIB",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aT3lCZGFWa003dDRYcmcxeEE1ZkI2ZkljNUtTOVVXOEg5cHpfc0xxV19uYTBtOVRvN0g2LXFsMFJQR1dDd1h1b0hERDkzaXc2WFlOa3VoQWhMZllDWU1VZGRBMEJXLWI3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'वो इलाका जहां देवता भी दंडित किए जाते हैं', नवनिर्वाचित सांसद महेश कश्यप ने बताई वजह - AajTak",
+      "source": "AajTak",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXJBb0dGck16R216TXNmYW44QzlmMWJaTm9sekNnSTFfQ3ViS1BsQ3Y5MGVON0NwZmVXeDB3eWNLYWFaVjQtTTNMYkZyLW5xREpOdlNwT21SbTdHWEpWdkRXRWFmcVFmeU5wVkpULXFneGVrQ1NadFQwcjdZWFpSRTNKd0l3YTZzbEJuZ3RwSEJQQjRhSFdaRXpJeXJ0MUZDYVlISWF5amkyUUxBdkw0X0p6QzE5Z2R2NVdKdFl4V2VncXN6b3pFZl9ZZHlHeXUyTk96bDVYb9IB3AFBVV95cUxQeGR2RUdzOWJoSjBWeFBUUFZ1TGRSWS1RWjdiWnZrbG85ek1ScXF4ajM3VUNXby1LYndFVVR4ZFhxNDJ1d0lqZ3Y5aHpBVEw4R0NtTEt2c0o4NVFVclJjZl96d0U4aS1aLUF6RG51SHg1eV9CclFUazl1NlRkQzc2STNCMzduZURITzN0djd0ZUZ5azFSdy1sNnh0MmpCU1ZGanJaMi1SZ3V1UHBBOVVhVzVHU2JUNTBlVUQzVDY4Y29rejBrOVBHZmZaRnpMVmFHVC1KR2c2SUQzMXM3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bastar Lok Sabha Constituency: BJP's Mahesh Kashyap to take on Congress' Kawasi Lakhma - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjZ4V2JvRkFBdzVjNTV1NENUb0FzVjQzRk4zSkJXMVBwNHI0amJrb0g2bGU2alZaZloxTVRZVDVTa045Y2h2MU9GSENuR0FQWDZZb3lQWmFFM212bzVMRGN0a0RoWHhKVXdZZ1Z0THhueGk1V2gwS0RuU2Ywb1I5Wm9paEg1LVdYa1p6b0o2S0xQdTJUaGNtNlA3c2EzU2JScG9mYldFU1dwMVRKTFJQVzd0bFNJRzh0ZXlObWdPZWMxWWQ0UU8yOXpsWDZRSVNEaC13OVVCWGh2OGc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha polls: Development a poll issue in Bastar where Naxal shadow looms large - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVRKbFo2RGxOTlhpQk5hY29NZ0RtcGJQcnJLWDkwMEl2QUxoeDgzdUFIZGMxT19hbmhqS1VGQXlyOWowQlVNaXExUkttVkVKWjFiaVZveWxXYkVFMUU2d2RmSU44VTZyd29RS1FmOU5IdnB5TDVGdjJxaVRCNEozMUdYdWVoakxJQWxvNXl1OFlfSzZLUWpsa1llcnk2SlpRczJWYXk5Y0g3N29vcDN2VlBLVzlYR3FoeVhDb0RiNDRCWTA5RXhXSUtvWVNaTmR10gHXAUFVX3lxTE5Jak9hUFh6eXY3VjR0NXlQbEFlVnlYLXc0Q25USG5oWUVmYkVldU5KZl9mU1hIT2hNNG13MFprSTZHV01DZXVudXpBNVNHMTFhNGRZZVhrOEpHamdtbFpxZzlDSmg4dDR6dzlZOUFGMEJ1c0pCaGpaZmFhUE9BLUh3UlJXLWZlNy1DQWtTYWg0SG94UHpUa2NMVWI3VFdORFRiWUpYc0JSbWVKb29aajVEaU9hUkExRjlmUFA2MGpzMWJXN083UTBZTjVQTGxOQ0VFWlJkZmVF?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Union Home Minister invited to Bastar’s 600-year-old Dussehra festival - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRW8yRkVQVUtpbXFKN2pub2FDUzFoU3llLXpsVnpHckdGY3ZCdVkwNzg4TGZRSGxEVTd0N3FvTVJGSGhMT3ZPMzVmenN1WWRCZ3FVZnNhbTBLOWR3Zk1tY1pXeFViTlREclRYeXlJbkdrREY5aGRRSWZqYmdKbHUtN3lSRzRDVE1BZkl6YWx2ZU8yXzMyRHdvT0ZoOFpZSGdfWmpIQ0hwcERMajI5UW1ac2FNam5iNjhiZXNxYdIBwgFBVV95cUxQSUEzdXBhYURJSWk4dW50ZlhmMFhGTGRpLVlvT1lYSUxVYk1kaUY3bGNOUkxYaXpFSW9uYWlUay1QNEQ2UDRJbjExZWtZQklJdFpyd2R5YTFLYTBxRVJiNWhCWTdkTERGS21tUlZBTkJjMXQ1ekJrenI2M2l1Qm1pSFA2T1VVbVBKZ3VlLTZ5VzAtQng2UkVFb0wwWC1mMWIwYURFWlA0cXBFbjh1NWpialoxNTRhMHJRVXFsT2d2X2F4Zw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:19.504525Z",
+  "collected_at": "2026-09-02T14:36:16.994041Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.642831Z",
+        "fetched_at": "2026-09-02T18:38:05.242647Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.642845Z",
+        "fetched_at": "2026-09-02T18:38:05.242659Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.642854Z",
+        "fetched_at": "2026-09-02T18:38:05.242664Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.642861Z",
+        "fetched_at": "2026-09-02T18:38:05.242670Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.642871Z",
+        "fetched_at": "2026-09-02T18:38:05.242677Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.642878Z",
+        "fetched_at": "2026-09-02T18:38:05.242682Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.642885Z",
+        "fetched_at": "2026-09-02T18:38:05.242687Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,18 +312,10 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 2,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 8,
     "top_headlines": [
-      {
-        "headline": "Chhattisgarh Deputy CM Sharma reviews preparations for Union Home Minister’s visit - News Riveting",
-        "source": "News Riveting",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE50RjhveEx0NGZSX3RMT0JyRWl3UHpRdVk2aHI2dVQ1Tk1hXzVCaTJTaS01ZWttSDA2dGNPZjcxVGtSLW9uQXlzTmE4eTFWeW82Wk1NR1dSZGNWN0c1TGZrUk1vbGpZUGx1aGI0d1BRbGE4ZWxrNHFBc0dvN2VYMXpsS21Va0lRcnF1OEFuS0tnZlNpeFozQ0RpZ04wU1ZvNEQzVGRWbUFuM1U?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Nutritional Diet Essential to Prevent Diseases” – MP Mahesh Kashyap - PIB",
         "source": "PIB",
@@ -280,27 +325,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Union Home Minister invited to Bastar’s 600-year-old Dussehra festival - The Statesman",
-        "source": "The Statesman",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRW8yRkVQVUtpbXFKN2pub2FDUzFoU3llLXpsVnpHckdGY3ZCdVkwNzg4TGZRSGxEVTd0N3FvTVJGSGhMT3ZPMzVmenN1WWRCZ3FVZnNhbTBLOWR3Zk1tY1pXeFViTlREclRYeXlJbkdrREY5aGRRSWZqYmdKbHUtN3lSRzRDVE1BZkl6YWx2ZU8yXzMyRHdvT0ZoOFpZSGdfWmpIQ0hwcERMajI5UW1ac2FNam5iNjhiZXNxYdIBwgFBVV95cUxQSUEzdXBhYURJSWk4dW50ZlhmMFhGTGRpLVlvT1lYSUxVYk1kaUY3bGNOUkxYaXpFSW9uYWlUay1QNEQ2UDRJbjExZWtZQklJdFpyd2R5YTFLYTBxRVJiNWhCWTdkTERGS21tUlZBTkJjMXQ1ekJrenI2M2l1Qm1pSFA2T1VVbVBKZ3VlLTZ5VzAtQng2UkVFb0wwWC1mMWIwYURFWlA0cXBFbjh1NWpialoxNTRhMHJRVXFsT2d2X2F4Zw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "No effigy, no fireworks: 75-day world's longest festival Bastar Dussehra shuns Ravana, celebrates divine - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPbHJRcDA0Q1MwVEF1TkUxZzVtU2RlYXkyaGhBMGtxZGlYc2J3MmpEYkZrNU5LR0VhRUxBeXdpTGQ4QzMtOXl2WkFPTjdEX3A4WHZNVlM0T2I1cElKS2ZBNll2NkxFQUN5SkJTbkZuUVFNYzJMbnRoLW5BQlFOaVNIZjd3UVRsd3YtNTA2ZW9mMV9aWVVoWlZRYURnaXJLN0p1T0FYb0xDMUdWZ21pVE1yUmItSm1jS0RfZWVkcHhCcmlxeXUwWlpZbERZT1AxUlpRRlFnNVFXY3JoYXI5SjI1T09MOXVmZGZ5LUhiOVk0UEhQZTNsdURLMTRTZGRmY1pMeVBZM2psczVDZ1RvdjdQXzBISVRoWmV4dklCMFpHVFBqcWZkMVB5cGlhUzNXOUx1QnN0VVZ0T2RWUdIBvwJBVV95cUxNWV9pVXBuMUlNVVJiSTVUUHdoRFo1d3c4Tm5zRm5VUEJCbVptOUstVzdMZXNSSTgwcEdDR3dTQmRPc1BicnpkeWRCYnNsMmhtbk00VHRoRmhQdElDOFRHOGhDamZaU3o5bEh0bkNReUJYTkpfUlc4Y09nMDR4VGlTYmZ1WThvYjNRVWF6VUZuVkdlbEx0QVVCMkdlcE9QSHZQdzFCaGRIQnVDWEoza01hd1EtRnR3blNjekxGbUpFZXZ3aDVkMHVtY0dNY0NReVpHTFl1OHpWZnhDX3hPUk5aVG1UY0tvb3ZwNVBScWl6NzlOUTFBQ1pTZ0szTXl2TXdrZnBxdzBhdXVwUWdIUUNZY2xaS3Q1WWVPakVLTVNSQWc3NDluUmJnZkljR2c2MnhuYl9LMThRVk9TN280OHZj?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "'वो इलाका जहां देवता भी दंडित किए जाते हैं', नवनिर्वाचित सांसद महेश कश्यप ने बताई वजह - AajTak",
         "source": "AajTak",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXJBb0dGck16R216TXNmYW44QzlmMWJaTm9sekNnSTFfQ3ViS1BsQ3Y5MGVON0NwZmVXeDB3eWNLYWFaVjQtTTNMYkZyLW5xREpOdlNwT21SbTdHWEpWdkRXRWFmcVFmeU5wVkpULXFneGVrQ1NadFQwcjdZWFpSRTNKd0l3YTZzbEJuZ3RwSEJQQjRhSFdaRXpJeXJ0MUZDYVlISWF5amkyUUxBdkw0X0p6QzE5Z2R2NVdKdFl4V2VncXN6b3pFZl9ZZHlHeXUyTk96bDVYb9IB3AFBVV95cUxQeGR2RUdzOWJoSjBWeFBUUFZ1TGRSWS1RWjdiWnZrbG85ek1ScXF4ajM3VUNXby1LYndFVVR4ZFhxNDJ1d0lqZ3Y5aHpBVEw4R0NtTEt2c0o4NVFVclJjZl96d0U4aS1aLUF6RG51SHg1eV9CclFUazl1NlRkQzc2STNCMzduZURITzN0djd0ZUZ5azFSdy1sNnh0MmpCU1ZGanJaMi1SZ3V1UHBBOVVhVzVHU2JUNTBlVUQzVDY4Y29rejBrOVBHZmZaRnpMVmFHVC1KR2c2SUQzMXM3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bastar Lok Sabha Constituency: BJP's Mahesh Kashyap to take on Congress' Kawasi Lakhma - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjZ4V2JvRkFBdzVjNTV1NENUb0FzVjQzRk4zSkJXMVBwNHI0amJrb0g2bGU2alZaZloxTVRZVDVTa045Y2h2MU9GSENuR0FQWDZZb3lQWmFFM212bzVMRGN0a0RoWHhKVXdZZ1Z0THhueGk1V2gwS0RuU2Ywb1I5Wm9paEg1LVdYa1p6b0o2S0xQdTJUaGNtNlA3c2EzU2JScG9mYldFU1dwMVRKTFJQVzd0bFNJRzh0ZXlObWdPZWMxWWQ0UU8yOXpsWDZRSVNEaC13OVVCWGh2OGc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha polls: Development a poll issue in Bastar where Naxal shadow looms large - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVRKbFo2RGxOTlhpQk5hY29NZ0RtcGJQcnJLWDkwMEl2QUxoeDgzdUFIZGMxT19hbmhqS1VGQXlyOWowQlVNaXExUkttVkVKWjFiaVZveWxXYkVFMUU2d2RmSU44VTZyd29RS1FmOU5IdnB5TDVGdjJxaVRCNEozMUdYdWVoakxJQWxvNXl1OFlfSzZLUWpsa1llcnk2SlpRczJWYXk5Y0g3N29vcDN2VlBLVzlYR3FoeVhDb0RiNDRCWTA5RXhXSUtvWVNaTmR10gHXAUFVX3lxTE5Jak9hUFh6eXY3VjR0NXlQbEFlVnlYLXc0Q25USG5oWUVmYkVldU5KZl9mU1hIT2hNNG13MFprSTZHV01DZXVudXpBNVNHMTFhNGRZZVhrOEpHamdtbFpxZzlDSmg4dDR6dzlZOUFGMEJ1c0pCaGpaZmFhUE9BLUh3UlJXLWZlNy1DQWtTYWg0SG94UHpUa2NMVWI3VFdORFRiWUpYc0JSbWVKb29aajVEaU9hUkExRjlmUFA2MGpzMWJXN083UTBZTjVQTGxOQ0VFWlJkZmVF?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Union Home Minister invited to Bastar’s 600-year-old Dussehra festival - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRW8yRkVQVUtpbXFKN2pub2FDUzFoU3llLXpsVnpHckdGY3ZCdVkwNzg4TGZRSGxEVTd0N3FvTVJGSGhMT3ZPMzVmenN1WWRCZ3FVZnNhbTBLOWR3Zk1tY1pXeFViTlREclRYeXlJbkdrREY5aGRRSWZqYmdKbHUtN3lSRzRDVE1BZkl6YWx2ZU8yXzMyRHdvT0ZoOFpZSGdfWmpIQ0hwcERMajI5UW1ac2FNam5iNjhiZXNxYdIBwgFBVV95cUxQSUEzdXBhYURJSWk4dW50ZlhmMFhGTGRpLVlvT1lYSUxVYk1kaUY3bGNOUkxYaXpFSW9uYWlUay1QNEQ2UDRJbjExZWtZQklJdFpyd2R5YTFLYTBxRVJiNWhCWTdkTERGS21tUlZBTkJjMXQ1ekJrenI2M2l1Qm1pSFA2T1VVbVBKZ3VlLTZ5VzAtQng2UkVFb0wwWC1mMWIwYURFWlA0cXBFbjh1NWpialoxNTRhMHJRVXFsT2d2X2F4Zw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 14,
+    "starred_questions": 4,
+    "unstarred_questions": 10,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 27.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

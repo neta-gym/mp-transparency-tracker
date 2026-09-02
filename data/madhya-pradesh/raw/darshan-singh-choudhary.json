@@ -4,16 +4,16 @@
     "constituency": "Hoshangabad",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1833,
+    "myneta_candidate_id": null,
     "slug": "darshan-singh-choudhary",
     "house": "lok_sabha",
     "sansad_member_id": 5613,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 48,
+    "age": null,
     "photo_url": "/mp-photos/5613.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:57.474561Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 9349061.0,
-    "liabilities": 0.0,
-    "net_worth": 9349061.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1833",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.869044Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 7.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.04,
-    "expended": 2.37,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:27.897731Z",
-        "notes": "Official eSAKSHI REST API — Works: 354 recommended, 262 sanctioned, 48 completed"
+        "fetched_at": "2026-09-02T14:38:52.428756Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:35:07.792885Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:35:07.790076Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 354,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 16.122448979591837
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:04.168579Z",
+        "fetched_at": "2026-09-02T14:35:07.788975Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Hoshangabad election results 2024 live updates: BJP's Darshan Singh Choudhary wins - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNZWg2aGpVcXhvb0gwTlktV1ktSTh6TU12MnZKTHZKUHBwQmxPeDdocU14UGI2S1Q0TUVjWVRVYXFiYy04RF9TYWhGTTcwUjB5MXdsOTZGbXdEdGRJdjR0NlNlbkhuX2lkMFNleGF0VWZrWEN5eFRPVkdWTFRVTzVVTmNtQmVfaVBlQi0tWGZCRUoyMHZ3LU4zYzI3ZXB6dFRHelAzeFpKOEcweW9lUzNhdmRBQ2dBRVNIcU5zQ3RPU2pCMjBwQkUzdDZydjNMdTJsbWVRa0JOZEZhMWJpSlo3dUNYRzN0aHlCeUtHRUVKODRhSnJ6eVNPc1o0VkxvTTZCTEd6QnFsSkpmQWRpZlFaMXhzTkpfZzVNb3hGY0xjR3pnSjFqYnhUUjJXTWFBQVJNN2NiaGlUN1FOcTR1ZEE2NnJZaWd3TEs1eTRLdEVJOUtJQVcyRi1rcldOaW5mQ0NBZFJzU9IB6gJBVV95cUxNQmxmTVlyMXhUc1VXME5vYnkyRFJ0S0ttUXlQbS1CMVVzSWhfZkRKT09SQ0NsNUhRSlAwQ1BPb2t6SlpLMEk3NTZLZVQ5Yk44Ty1lcmZlSC00VTRXbEhvbk9KMFZzUUFqb2stU3o0VER2cDJHN0ZNRnJyNHliYXNtS1FHOW5qeDI5R01mb2ZYMmN5QXdtTmVsU0N6ci1YWi1mZkVqd045X1djT3VWTWQzYktqWHRicDNJX0gtY1lkQVdURUxFVTNmUXRUZ0w5X2VuN2tPQXRtNjgxb1JnSWY3WGJKYmZua2xhUmhtZXA4MGVoZlE5cDBUTE50cUdjRmlzM2ZGejlSWGdBc3Zyc2locnp5cjFMa3p3RXFUQ0FiU21lT2hIUTI3a2wxTTU4bWdtTTBSbkhiR3Z6d1ktbWVjbGxsT01XQU9YeEtjT3RiWTZjWmtjN1VzWVhZdHpWNjFpeDZrcWI1c082Zw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hoshangabad Election Result 2024 Live Updates:BJP's Darshan Singh Choudhary Has Won This Lok Sabha Seat - The Quint",
+      "source": "The Quint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcUZMV3dfaEhfdjVVTEF3Zkl3UXdVbjZ0Sy1heFktYTNwa2FBaEV6SHlWQnJOLUpBbUNQZ1hCUk1VTHpmbDRzak1MZ2RZZHFGX0NYbzdqM0ZqUTUwS0g0cldqV2pSMUVoNjY3a2JYUWJ2dndxckZRT1NLMlpXbTR2dlExNkN5dGx1OXpQSEhha3I0TlVlblhndldid2FmRGREQm1TSTZ3dzBFLUs5TnpyR09TTU0yNU1xc1V4cGxHN2FYclM1UDhsbng1QlY5dTZM0gHeAUFVX3lxTE1sWE5xUEw4ZFlmV2IyS2gwUGFxbDJRVjNpNzlRcnZDX0tYQ1lxREhEaXY4S2F5N2dTeld2MU9Hc2N6OTdLMXp5OER4TWVsQlF0RmlJVWRXb21mS1pnWXhNckpHZlNobW41NmhBYi1kYXNRZmxyVWlaVG1HYlRBRU5ING45cEpMWUJQdlhwYm9jWW5zWURLdnNZVGljSzRBbUNqZU10aDhLVUxLeXNTdDFSanEzZFU0NGxYYWF3bFpWUFNIX21JbXlHVmkzanFEckdFVlhpdndVVldieS16dw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Illegal sand mining threatens Narmada, warns Hoshangabad MP: 'Dams, hydropower altering river's natural for... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWtLLU9yUXlVc0J5R3pFdkFYNkx4aWduQm1BaU5pUXpoSzBrcm1uNlV5eFl3MjhVa0k0ZHQwd0VXYnpPRW5nQ1NtLWpsa1VoTUdHeENaclhBRXZQX3VOMExkY3hMRWg0WXU0U3pGejg3Z3k0ZU00VjVjMUxMRGNoaUxrYTJwc3pXT045Sngyem1CMlEyLTBOR2lpSDJqVVhpVnctOXpVZ01EeHZodGlPOUhRQk92MXhr0gG-AUFVX3lxTE5iVE54WVNFanlIQm9NaHdIM2ZZb0FDWDl6NGQwSWRmQlNlYnc1M2hjRTJUMmM1YlRSY01QQnV3Rm1lZ2QwUWljaU1ONk9uSXA2NTFwTy0xMmdWYjNTMjNHRUtQWVdFampiLUoydVpMM2ZEZnd0NkpWZVdXbmdxT3EzMFhkbFloSHp5ZHREaHc1ZnJlLXVTLWxsend1R09fWUlzdkVhUWZabk53ODJ2UWgzeGlIVk16WGZhX0t3bVE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Will take work done by government to lowest strata of society: BJP's Gyaneshwar Patil - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWJRWmhadS1tS3RVU2QxcktIV3NFbmlOMkNKcnBSdFdQSjBVOWJuT0dWNDRudXRiQlV1VG9TOVZRZXRXN3ByOHBGUjFMMURoVEdMQ1E5ck5YcUJ6OTNiNGFPZllTSFdUOUktNHhsZjVNMFpVWkpSZmpxdkswbGIzOWRXVmNTdXdsUXZQaGVzS3pYYUV5LWtXRENLa05IQkFuMkVaSE9YLXdhNml6SUNKQnYtWUZlVVJuZkZlRHctLTlZanpKYm9iNDZaeXZiU09aeWhjc2dnbnQySW8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hoshangabad lok sabha election results 2024: Hoshangabad Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUZJdGJLNThZcWdVd3lReVBiZ1dpdDlmY3dZdUJ2VVJOVmNSQ1pxSHp6TmJTaFpCVDRPSElsU29hRC1GdGxDOWdnY3RrZzRBZjZSbEotTU54SFlwdk02REs3SlAwdGhaaFotTERUSU83RDlJQVoxMDlEbmdGZ0FqcTJGU0xmeXpnZk00aVdHZk5CMXAxZHJobWFsZmEzZm8?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:07.557948Z",
+  "collected_at": "2026-09-02T14:38:52.429918Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.835002Z",
+        "fetched_at": "2026-09-02T18:38:07.322257Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.835010Z",
+        "fetched_at": "2026-09-02T18:38:07.322269Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.835015Z",
+        "fetched_at": "2026-09-02T18:38:07.322274Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.835020Z",
+        "fetched_at": "2026-09-02T18:38:07.322279Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.835025Z",
+        "fetched_at": "2026-09-02T18:38:07.322285Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.835029Z",
+        "fetched_at": "2026-09-02T18:38:07.322298Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.835034Z",
+        "fetched_at": "2026-09-02T18:38:07.322303Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.835038Z",
+        "fetched_at": "2026-09-02T18:38:07.322308Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,8 +333,8 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Hoshangabad election results 2024 live updates: BJP's Darshan Singh Choudhary wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "Hoshangabad election results 2024 live updates: BJP's Darshan Singh Choudhary wins - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNZWg2aGpVcXhvb0gwTlktV1ktSTh6TU12MnZKTHZKUHBwQmxPeDdocU14UGI2S1Q0TUVjWVRVYXFiYy04RF9TYWhGTTcwUjB5MXdsOTZGbXdEdGRJdjR0NlNlbkhuX2lkMFNleGF0VWZrWEN5eFRPVkdWTFRVTzVVTmNtQmVfaVBlQi0tWGZCRUoyMHZ3LU4zYzI3ZXB6dFRHelAzeFpKOEcweW9lUzNhdmRBQ2dBRVNIcU5zQ3RPU2pCMjBwQkUzdDZydjNMdTJsbWVRa0JOZEZhMWJpSlo3dUNYRzN0aHlCeUtHRUVKODRhSnJ6eVNPc1o0VkxvTTZCTEd6QnFsSkpmQWRpZlFaMXhzTkpfZzVNb3hGY0xjR3pnSjFqYnhUUjJXTWFBQVJNN2NiaGlUN1FOcTR1ZEE2NnJZaWd3TEs1eTRLdEVJOUtJQVcyRi1rcldOaW5mQ0NBZFJzU9IB6gJBVV95cUxNQmxmTVlyMXhUc1VXME5vYnkyRFJ0S0ttUXlQbS1CMVVzSWhfZkRKT09SQ0NsNUhRSlAwQ1BPb2t6SlpLMEk3NTZLZVQ5Yk44Ty1lcmZlSC00VTRXbEhvbk9KMFZzUUFqb2stU3o0VER2cDJHN0ZNRnJyNHliYXNtS1FHOW5qeDI5R01mb2ZYMmN5QXdtTmVsU0N6ci1YWi1mZkVqd045X1djT3VWTWQzYktqWHRicDNJX0gtY1lkQVdURUxFVTNmUXRUZ0w5X2VuN2tPQXRtNjgxb1JnSWY3WGJKYmZua2xhUmhtZXA4MGVoZlE5cDBUTE50cUdjRmlzM2ZGejlSWGdBc3Zyc2locnp5cjFMa3p3RXFUQ0FiU21lT2hIUTI3a2wxTTU4bWdtTTBSbkhiR3Z6d1ktbWVjbGxsT01XQU9YeEtjT3RiWTZjWmtjN1VzWVhZdHpWNjFpeDZrcWI1c082Zw?oc=5",
@@ -296,14 +349,6 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "'पत्रकारों की सुरक्षा, कल्याण के लिए नीति बनाए सरकार', लोकसभा में BJP सांसद की डिमांड - AajTak",
-        "source": "AajTak",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPak9wSG9CYkZCWGNUOURXMkpjajBnRElNUE84NkEwYnk3clJYS1JqQjg4SEctc21TS29wYXZSOFRkUXpOYktvM2Y1OG1jZEhtTmFCUnhDWFZnOHpfRThDU2hTRHFONmN3VzRSenllQlh4NkNyUGpOLTl1M0FQQ0JKMzJtb1Y2Uld4QU5jd2xRTEJ6LWhsQmJkNEUzMWZmd2VMUjFRREFZeDNPblpEUEd3aFpXTHFBbm82VndnN2pZZG9jUk9zcmVLaFpFOGlvcmllRlVnRXYyTHFabExYNFk2YXdFX2Z5TnR6SG5Edmw4QWJ4UnfSAfgBQVVfeXFMTmUxelg1U085S21jdk5FZlZVN2hpalo4M0ZQNHZBS1ozdnp2cVVRMGFSX2lrN0dhVnZubjFpS3R3dHRnRVJha1A2OElMaG1meHRFT1BXNHFZNWpKem9wRGFyTUpMN09HMWZRLURPZkFCM3VrWjFvNWhLQ0p6YkxqeDQ5d0hpYlRmYjFRakVZVWNUSEJ3dWc2d1VlY3dKTnptdHlhLThNVlRYYzE5WEE5aFRiV3FYLWIwTVdtRnA1cllmai1aZlNjQ2dOZGVEa19UZndaSXJHWEhza3Z0c3RRX0stTDhQYnozel9lN3huY0t6MTlkU1lQNmo?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Illegal sand mining threatens Narmada, warns Hoshangabad MP: 'Dams, hydropower altering river's natural for... - Bhaskar English",
         "source": "Bhaskar English",
         "severity": "low",
@@ -312,11 +357,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Hoshangabad Election Result 2024 LIVE Updates Highlights: Darshan Singh Choudhary of BJP Wins - News18",
-        "source": "News18",
+        "headline": "Will take work done by government to lowest strata of society: BJP's Gyaneshwar Patil - ANI News",
+        "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMFZJMklpb3JvcmtjTjM4aTlCRDd2c005bXNfOUwwMGZlc2xyZUJVRVprSzJ0aUF2V2l3bVJocEUwVXFPa3ZnTmZSajRKWFNHNW1LUWU4RllPR1hMa2llUnFSYmZDc0RZd3lJMnhjcmtfY0x3cExwVEp2VjJfRDY3UnZseTY1NXk3YzJLR3AyQzByRmVpcEZ2ckRJNWN4dHN0Z0J5OG5HcHFSZ3JtUURzcW5hUlBhaWhzOVN2OEgwcHpMUVloaXZaX1BYMzM4UWNsWnF2Zzg3ZFpIcjBscndvalA1V1NmSUXSAewBQVVfeXFMTzNMSFNQcWQ0YUNNQXowT2hGUU52UGE3cUZsX3F2amU4YW1fZEYybDVWcVhOTld6cDh6LVFYam5fN2x3WkxrSldVeVR6b09ZR1dyRXoyUlhRdDZkdmJZV1g5U0N0Y1BHaTJrYXdWQnpKQ1BUdHRGV2RkT19oamFIWHhjU0MyM0x2MExWVkdFMGhwZU5YNEhVSXJFV3lZakpKWld6QXl3Yk5rTUNJVUdDQnh1ckZEMTFlS0Fvd0hYMDh1Nl9YOGlFalJIZUF4TXhEeWQ3Sk02a2dXYkluaTlnZmJkeHZHSHRPN3RHUnY?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWJRWmhadS1tS3RVU2QxcktIV3NFbmlOMkNKcnBSdFdQSjBVOWJuT0dWNDRudXRiQlV1VG9TOVZRZXRXN3ByOHBGUjFMMURoVEdMQ1E5ck5YcUJ6OTNiNGFPZllTSFdUOUktNHhsZjVNMFpVWkpSZmpxdkswbGIzOWRXVmNTdXdsUXZQaGVzS3pYYUV5LWtXRENLa05IQkFuMkVaSE9YLXdhNml6SUNKQnYtWUZlVVJuZkZlRHctLTlZanpKYm9iNDZaeXZiU09aeWhjc2dnbnQySW8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hoshangabad lok sabha election results 2024: Hoshangabad Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUZJdGJLNThZcWdVd3lReVBiZ1dpdDlmY3dZdUJ2VVJOVmNSQ1pxSHp6TmJTaFpCVDRPSElsU29hRC1GdGxDOWdnY3RrZzRBZjZSbEotTU54SFlwdk02REs3SlAwdGhaaFotTERUSU83RDlJQVoxMDlEbmdGZ0FqcTJGU0xmeXpnZk00aVdHZk5CMXAxZHJobWFsZmEzZm8?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 27,
+    "starred_questions": 8,
+    "unstarred_questions": 19,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 52.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

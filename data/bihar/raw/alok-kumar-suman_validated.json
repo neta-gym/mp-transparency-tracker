@@ -4,16 +4,16 @@
     "constituency": "Gopalganj",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": 8110,
+    "myneta_candidate_id": null,
     "slug": "alok-kumar-suman",
     "house": "lok_sabha",
     "sansad_member_id": 5211,
     "profile_url": null,
     "canonical_name": "Alok Kumar Suman",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 67,
+    "age": null,
     "photo_url": "/mp-photos/5211.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Gopalganj",
       "state": "bihar",
       "party": "Janata Dal (United)",
-      "myneta_candidate_id": 8110,
+      "myneta_candidate_id": null,
       "slug": "alok-kumar-suman",
       "house": "lok_sabha",
       "sansad_member_id": 5211,
       "profile_url": null,
       "canonical_name": "Alok Kumar Suman",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 67,
+      "age": null,
       "photo_url": "/mp-photos/5211.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:16.513220Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 26713230.0,
-      "liabilities": 875215.0,
-      "net_worth": 25838015.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8110",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.724632Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 23.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 6.07,
-      "expended": 4.37,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:19:31.230429Z",
-          "notes": "Official eSAKSHI REST API — Works: 85 recommended, 67 sanctioned, 18 completed"
+          "fetched_at": "2026-09-02T15:15:38.764753Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:11:58.043540Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:11:58.041448Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 85,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 29.727891156462587
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:34:19.019521Z",
+          "fetched_at": "2026-09-02T15:11:58.040523Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Sabeya airport is part of UDAN scheme: Gopalganj MP Alok Kumar Suman - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVhIZUphQ3M2ZE81VUhEV0lYZV9OLVd3bzN1d2kyU1IzNXI4U2ZTWHc1WnRoOEpveDRyTDRMNlY0Uk9qYVJTWW9OUEVvUUdwbUdUb2hEYnh3V1pVSlBUNlo4WEsyUkRvczYzQkt1VVRJRy1COHhfR1RBWlVFeGI4WmFyODJmTVVCSVdMdzdqRFl5Zm9JY05fSkFKZ1NkUEp1WTZlbnBfMGk5NmtkcnMyaTRB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gopalganj (SC) lok sabha election results 2024: Gopalganj (SC) Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSFRLZ25hVXFUVndfeU1SMkdIc0l5OV9lc3p6dEVSSTI1aGYxdVNzWEd6RkdET01fOWNxNGU3RU5hTXNFRmZHMDJacFB4Rkx5T1g4U0t2M2dEeWxtc3hmVHpzeEh5d3cwZHpRdkZYTGpYS1FmWFhSSzh2WUZIdzZLWkR3VGh4NDU4ZHVIWnRNLTNianc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rs 30 lakh looted from doc's home - Telegraph India",
+        "source": "Telegraph India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXo3ZlhXOTltV3RzdnRDRUhEYWJrRGVWZUVqdDhpZE5pRV9acmZoTF83UHpOSWQ3VmFfQ0ZpLUtra0JkclBuNG44NkF4SmlxaFJ2QVNCNG85UUhna2lxa0I3YXJ1WGJCdTRWYkY1ZENuRllIT3FOcm54YUNpTnZzMlQ3NW5reHdQZVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nepal General Election - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnRINlpCZ2E1VS12RDFGNXFZMXJwSDNucUJqWk9hZXNuYnkxQjEzX3ljZXN2TlA2SS1zeUNUendEcml6dlRkajYxTjVneVlEeENDVi1DTGo1cjl5cFZTTktFM3dFVGJCcm5rM1dwWmtldUpkZjhGSlBfZ3VOREFlSnNVRkc1S0FiTERsT0ttZ2k?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "JD(U) names 24-member national executive; Nishant Kumar absent, Statewide yatra likely from May 3 - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORjNVUHZtSFdzX3Q3RmE5UjJEb25aR1U3YVpvdHVXWTBBaThtU2IycUNTS1ZIYW41YkNSdlVmeVBJdlBwNVhPWTlIY1NJYzF2MWNxUkRKUm9EaWltZ05xQThXS2pvQWdRYUhjV09FeUFkbGNvV3N4MDFvaXlVNC0zVEczeDBSRHBIM1M5QU1EN09HNGEyZTNKUG5IWUJlXy1UU3VEQ1VNbU4xeVdoSC1yMjZWSlVLcHJLWXhwcS1WVzZraWt3clQwaEVaamNOMHhnZ1A4eTlaS1dRZGk5RzhqN2w3QnJQSFlSdEdKelRMV2x6Z2FzUjRraQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:35:19.305597Z",
+    "collected_at": "2026-09-02T15:15:38.765503Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.996749Z",
+          "fetched_at": "2026-09-02T18:38:04.455510Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.996760Z",
+          "fetched_at": "2026-09-02T18:38:04.455521Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.996765Z",
+          "fetched_at": "2026-09-02T18:38:04.455527Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.996770Z",
+          "fetched_at": "2026-09-02T18:38:04.455533Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.996775Z",
+          "fetched_at": "2026-09-02T18:38:04.455539Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.996780Z",
+          "fetched_at": "2026-09-02T18:38:04.455544Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.996784Z",
+          "fetched_at": "2026-09-02T18:38:04.455548Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.996788Z",
+          "fetched_at": "2026-09-02T18:38:04.455553Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -293,18 +346,10 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 10,
       "top_headlines": [
-        {
-          "headline": "Once A War Airbase, Now Open For Public? Bihar's Sabeya Airport Revival Gains Momentum - News18",
-          "source": "News18",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZENFWjVVdGZwdEJsN0hkR19XZHZjNU02bkk0Tk5RY1ZCc29NcVBxWmJKU0twUVUyaGlVQ3c1Tnc3dVgyMm5peTB1R0ZWZ2pNYTgtSmJTbkt5cWhVZk0xTjVxdWR6aXNvUTVab252eC1vR3M2aDhyQWc0Q3g2djRYdXlSZm53RDZNVXVwbjgxR1hIN3JoUEVCOV9xWGljMTBRZXJSeFMtUktramRVenNra0V5MEVkOVJWN05Mei04eTJHQUJDMldsd1pQVdIB0AFBVV95cUxNY3NvRVQ4b1B0WjBXVW1HMEotT0NIVFI0UFRGOUdHVlg2RU1IWmxWZzU4WXNfN0NDa29oUzhJX0ZQWkN0bG96VDUwcGhjejRxRE82VkJoaUt1WmNYV1Y2WjVGWGJDRzFTMHdaLWFQRkh2Z1A0VC1yU2NENnIzU0RHMEIxcVJHNmZFdzNHTG40dVpfVTZnZWYyVzlkRlhHcTQtS216TmZkbUxLSEwxQnVsYlBhOGMxZjdDaUl1NUc5Wnlha2toenBVRXNKVU1TU2Js?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Sabeya airport is part of UDAN scheme: Gopalganj MP Alok Kumar Suman - The Times of India",
           "source": "The Times of India",
@@ -322,19 +367,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Home to three CMs, voters in Gopalganj constituency yearn for progress amidst continuing neglect | Hindustan Times - Hindustan Times",
-          "source": "Hindustan Times",
+          "headline": "Rs 30 lakh looted from doc's home - Telegraph India",
+          "source": "Telegraph India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY3JVTWw2S281N0pKR3BReTZwRC1VR0E0VWJJeHpXSGl0bWlCS0hOMk02cUJra29GRkhFZ2ZYXy1NazlHek5QZ0JwQnJZek1Ha280b2lHN1h4TWpOSXFCbUVJcFQtYm1zLWt5ZFY0YUg5ck5lX3ZqWXdYY2pUWkZ0RExnWkhmTzAxWUhOajgxLU9JcmhGTm05eGNCSDhfUDQxazVZZEZONGMwYTRlREl1NU5EODFkMVNBdFVuY2pyelJzMFRSSjgzWTNSd2VpLUhJX0hwUjd3ejJyMWQweDcwN2FMVUU1QUh3ZnFGR9IB8gFBVV95cUxQR240bDNKNU8wWEUzYi1xckN3cm1DeTl0NTcxeVB3TndWSENORGk1V0dDU1Jhd0pPSE40NzlkRFpBSmI0R0tLakNhVDRlMkQxb0ZUemE2SzE1OGprNUFZNktmY0g3dm94dXMyNlZNcFdwdHplNDFjMGtFdjR0d01Ib0dpOTdsUzM4Q0hGLW1xTm9aOW9VS05jVmsyd0hhdm1vQ2U4S25ibVgyNzgtU0lmV1k0Ym52aVNzUUd4dTZzUUlianhidnVwX3ZJNS1PVjl4SXpRRDhhXzJ5ZHdlZ3oyaV9zX0pWRjFOdTg3LXdYOVBZZw?oc=5",
-          "sentiment": "positive"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXo3ZlhXOTltV3RzdnRDRUhEYWJrRGVWZUVqdDhpZE5pRV9acmZoTF83UHpOSWQ3VmFfQ0ZpLUtra0JkclBuNG44NkF4SmlxaFJ2QVNCNG85UUhna2lxa0I3YXJ1WGJCdTRWYkY1ZENuRllIT3FOcm54YUNpTnZzMlQ3NW5reHdQZVE?oc=5",
+          "sentiment": "neutral"
         },
         {
-          "headline": "Gopalganj Election Result 2024 LIVE Updates Highlights: Dr Alok Kumar Suman of JDU Wins - News18",
+          "headline": "Nepal General Election - News18",
           "source": "News18",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb2FIbjNYLTlfdFVSOE44OGlwMV9JQ2NIcjBkSTItUjNqRTRnUUJhNWMwRzhQNWY1ZGpnbEREc1c5Rm01ODJwM0FjbE9pOFQzOWNUN3VDSENiQzZyR1hQdHpIeU1PSXgtV2l3bXpmYlA1VEtUYlBYM0hSM0p0SnRuc05lY21HdklLcF9JbUVzQ19jRVlSZG9seXpXSERCMm0wMm1wUjFYSGFfcHQwamFkdS00WEVzQTdrZHBPc0F2a3RRdTBRLXItMGtKaVczTHhPTldfUzRDRmJoaXRoSjdSMDljMnnSAeoBQVVfeXFMUFZOMXRDYnFDa2JzWF9Td0RvUjJ1dDlrQWRnMkJxV2NiSjA5SjNBam5NaXVLRV9OQ0xKbUZLX1NDblUyMHJveXRNS0ppc0FEM0xSUEdPT2ZGZmJkc2V6bUVQUWVhNGdyY2FMN3hLV3dMS2laR3B4ZHJXblYweWdlNGZqRFVXRlU1SDQ2aEszOWM5dFlQU1lUVV80bzNKSmNhZFRfby1Sb0VPOVhSMDNNZTNZM2UtaUxUNzZqTVFrMHhBTTRoUERGWExmZE1sZW9IMzhBZXJyVWZNcFNTQXNnUFQ0eGxmWk1hYnVR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnRINlpCZ2E1VS12RDFGNXFZMXJwSDNucUJqWk9hZXNuYnkxQjEzX3ljZXN2TlA2SS1zeUNUendEcml6dlRkajYxTjVneVlEeENDVi1DTGo1cjl5cFZTTktFM3dFVGJCcm5rM1dwWmtldUpkZjhGSlBfZ3VOREFlSnNVRkc1S0FiTERsT0ttZ2k?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "JD(U) names 24-member national executive; Nishant Kumar absent, Statewide yatra likely from May 3 - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORjNVUHZtSFdzX3Q3RmE5UjJEb25aR1U3YVpvdHVXWTBBaThtU2IycUNTS1ZIYW41YkNSdlVmeVBJdlBwNVhPWTlIY1NJYzF2MWNxUkRKUm9EaWltZ05xQThXS2pvQWdRYUhjV09FeUFkbGNvV3N4MDFvaXlVNC0zVEczeDBSRHBIM1M5QU1EN09HNGEyZTNKUG5IWUJlXy1UU3VEQ1VNbU4xeVdoSC1yMjZWSlVLcHJLWXhwcS1WVzZraWt3clQwaEVaamNOMHhnZ1A4eTlaS1dRZGk5RzhqN2w3QnJQSFlSdEdKelRMV2x6Z2FzUjRraQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +421,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 51,
+      "starred_questions": 15,
+      "unstarred_questions": 36,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 99.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +437,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +495,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 26,713,230. MPLADS utilization: 29.7%. Parliament attendance: 100.0%. Questions asked: 51. Debates participated: 18.",
-  "validated_at": "2026-09-02T01:36:46.997518Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 51. Debates participated: 18. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.456267Z"
 }

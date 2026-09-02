@@ -56,21 +56,21 @@
         "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-08-20T15:36:42.583775Z",
+        "fetched_at": "2026-09-02T14:39:41.734439Z",
         "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
       },
       {
         "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
         "source_name": "data.gov.in",
         "grade": "B",
-        "fetched_at": "2026-08-20T15:35:03.042641Z",
+        "fetched_at": "2026-09-02T14:35:31.098949Z",
         "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
       },
       {
         "url": "https://dataful.in/datasets/18540/",
         "source_name": "mplads_csv",
         "grade": "E",
-        "fetched_at": "2026-08-20T15:35:03.039826Z",
+        "fetched_at": "2026-09-02T14:35:31.096009Z",
         "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
@@ -98,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-08-20T15:35:03.038987Z",
+        "fetched_at": "2026-09-02T14:35:31.094876Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -106,7 +106,48 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "₹10.20 Crore Sanctioned For Tadikonda Gurukulam, GGH Development - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ1hxOFRvNEtaWlM4RFo5Zy02LUtIbEVkNTZMSC1LQk1wb1F2ZlU1UkR0dEZYNlhUeG0zOVZZQUJoLTNOQzN4YTJqWWNkY2tvaUV2TDFTWWJjbHBvbG9wZnpZeFhLd1lVa2RsZ1lqc2ZRT0dMU1l0X3hTTGJzSlh4RUlpLTlHbmt6eHVqWjBSRWgzV3JwZEZTS0JWeWZfTllHT2dmUkJPM1prNTYxZUJnano4djhKampiLXJzZ0Z4dkVma1hpdHZFblo4NHrSAdIBQVVfeXFMTjNrVGFxOWhNRmJJMFRJTzBITUxiblNKTGs3SGFkSmR0TkRCWU5aYXloM0ZTdkducG9oQXQwa0ZBWFc5RHlYb1BDa09kNl9sVGxNcVdvRXk4LWdURGxQTE9yejR6dmFGVjNyOThUdDdjOERMZl80QXRNRkhjWTFGVHFZd2d2T01vcHgzbm84enJPaWdobWxRWDdHaDBkWkVxMjBySm1YLWJWUmFrYnVPTFFIeG5WY1ZOWkRJQ3dsdHc5c3BwLVJkVGVpLWxsODJRSG5R?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Chandra Sekhar Pemmasani: The Richest Lok Sabha MP Named In Modi 3.0 - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3l4dlR3Xy0xbXNjUTRRcmdndFkycHpFam80Wm9WdllwcFRjQ2tVem5tSXdtTzZabE1xaG9jSXhZMVk3M0pKWXBJSGNZNzE4TXllenptZ1N0XzNPeHVaMEM5R0w4T1NxTTRaYU9vaVBGcHl1b3lWTVFBTnlvZWZ6cWF4aERmUktpRnFoLUp2QXRDZlR6QWJjWmdEYTBCeUd6Z2c0UnM5dE1ZZDEwWFVtZUloMHNuWWhUY2MybjFYQnltWDJI0gHMAUFVX3lxTE55UU1nQUw0UG9MME5YZVFXdE9wWWh6dUFaMVpWa0pZU0hXWm5BTnVvWkF5cUE5SUs3VmtTdHYwejlHVGt3THlJV25nN2pqNTR1cmxNOHA2SVdBaFlWNElXSU4zbUZxUkJfaklESk9xd1l1UlFHUjZZUk1xeF9xcDNGWmJSSGFCdy1EcktJMm9ieGNROHlMc2N6bjdYNFVxS21BakxmZExMc1NIRnI0RnI5eDVPenl3NjhqQVQyZE1fSmJ2NnFmYnFQOEFmUA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Guntur Lok Sabha election results 2024: TDP's Dr Chandra sekhar Pemmasani defeats YSRCP's Kilari Venkata - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQdXh5MTBKT1pRNmFrY25oRU5Yek1jV1dwOEhzYmIyZjdwLVoxOW1OMjRHSENKREVUdWdBQWgtRjlhVmZqTG41VC1xYy1LQ1puVnJhSEpmcTdpcDRHQ21PZjZZaFhaV0tuODFEZGdOSS13YVA0NURaUzJTMGdDU25yaEVQa1RwaGpVZkVSamp0d1lHUk05UUFsWjB1UEcya1lsVmxkcG1PeGV0VXpndkxSSkY4R3BCeGl0ZFJTcjNrZXVJa0k3NnhZQmIwOVo4ajd1UkwxRXhfaFBMdEJ5dFBSSV9rYjZsbEE4am82ZGVuTFBUcy1XRHUzc3ZjOWVVU1VtaEFhcklPMm56b1pUX3BjX1hQZ3hqU0NLbHFaRmpwdzMzNTRpZXZrcHlzVVhzNWY2U2RpSmdqVGxkV0lzRG9ENUxPVnFjcHpPTFFnX9IB0gJBVV95cUxQQnQ4bkJIZ1UxLXRQajFVMlVXamdhMEtubFZ2MjBOdTZzeVpEaXo2NTRGYl9XTHp4N0pleEoybHVOMmFwaU05azBxOEw3RkZqSnZIMEQ4RGNtd2NHMmw2cnJpV2JrLTNidDRfeWpnTFdwaXdueEVTa2hfY0ozb3BaakVXaVd4YWlQSFJaOXhhVVM5czh5TUt6UlZGcHgzenpUa1JMamtPdDFucEFDaW1ocmhxalNuYVpwcTlwbGFwenNLQU9aSzlrRGVncmJlWVNhZldac3RIZGlQZHhwVEp6aHlqdmVRdUI5NGl1dnZDR3Awbl82NXAzdkJ5em9FOWxTT0JzWExBZENISGlTc2J1WEVSV2Nsb1hiam5peUpXOTBUaEVkS2dUbVJMVUJrMlljLXhrdGxyNWdyOElpZzItZVhZSnl6NjNVekJnME8xYzBnUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chandra Sekhar Pemmasani: Doctor has felt the pulse of Guntur - Livemint",
+      "source": "Livemint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUxBVzRlc2JjbW8xT2FDTVpaeU1vdFJsUjRPbGsyWmRBWmZuaV9YVFhTeDNDekt5MnJnNWlpNzlaeXJGdlpNd0hkM0dLUVE4WXE5dlRLMDBBU0lWX2hJd2NqM0VGYUMyV1V1MFVfNHNJUndIQmlMWlpBUHJtdUlVN2JDYWYtbm9UV245Q1J0b2dFa2J6NnJNdUtNX194OHY0SUZFcHpFb2dmdjg2bU1ZMDZ0bi1Zb2pGUEpz0gHAAUFVX3lxTFBpaGRNd3c5OTROTVNHcXpBMkkxblFRZEs5NHNhV0dCNDAwOEIzUGZaZzZPX215TmlCT2FfWlFDUDJuMDBWMmVzOWs4VFdXTUdYOTVHa2dqSjloRzhINHEwQkFhTC1nZ1lhLWNMTGJ4VS1zTHhpQzhXWU9qUUdEM1dBazlLenp4U0tMa0JtMi1YczZTZm5sQUtUMTdtODRyd2VEelBZSGlJS2UxYXlnTnVidVctMlBOOGVxYWZxVWZkZA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "How a First Time MP Ranked at the Top Among All AP MPs - Gulte",
+      "source": "Gulte",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlNlYkFXUFVyekxFalpXWVhveUI1Mm91UkZZXzRneDEwSnV0RmhyV0ZWblFZajJvLXdFLVg5TW1iN0tWdGtEcm9kN2FQZzN1MExkbjM5WmdQbWNYeFA2bmpuMlF4V1hLSkZKcXpVay1id19VOGRqM05ud0xwOUxMOE0tQUNSRGFlQ2JDa29tNnFUc0hBTUlmS0pqUk03RlnSAaQBQVVfeXFMTXR3emV2RnA4TG1HR3Z4aVVNQ1A0OGhOdEFEYnlDNnNVemRyTS00NWlOY1V6d2N0NnZLbWlOV1BIMEhBd21QaC1leFotVVZ3ZU1rNHlJY19ZN0N6RGNoWFkwRjdxbDZ1MjJpYzFlazZmQU42Nl9GT0JHOGlzdFMwVVJya3BGa1pRZjNCQXFEZkt0Mi1GTFBocXVHNkJESU0xVFdQVWg?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
@@ -114,7 +155,7 @@
     "news",
     "cag"
   ],
-  "collected_at": "2026-08-20T15:36:52.991797Z",
+  "collected_at": "2026-09-02T14:39:41.735491Z",
   "evidence_summary": {
     "parliament": "C",
     "committees": "E",
@@ -134,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.330131Z",
+        "fetched_at": "2026-09-02T18:38:03.832559Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -150,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.330142Z",
+        "fetched_at": "2026-09-02T18:38:03.832570Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -166,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.330147Z",
+        "fetched_at": "2026-09-02T18:38:03.832575Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -182,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.330152Z",
+        "fetched_at": "2026-09-02T18:38:03.832581Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -198,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.330157Z",
+        "fetched_at": "2026-09-02T18:38:03.832587Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -214,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.330162Z",
+        "fetched_at": "2026-09-02T18:38:03.832592Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -230,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.330166Z",
+        "fetched_at": "2026-09-02T18:38:03.832597Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -263,9 +304,9 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 2,
+    "positive": 1,
     "negative": 0,
-    "neutral": 8,
+    "neutral": 9,
     "top_headlines": [
       {
         "headline": "₹10.20 Crore Sanctioned For Tadikonda Gurukulam, GGH Development - Deccan Chronicle",
@@ -274,14 +315,6 @@
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ1hxOFRvNEtaWlM4RFo5Zy02LUtIbEVkNTZMSC1LQk1wb1F2ZlU1UkR0dEZYNlhUeG0zOVZZQUJoLTNOQzN4YTJqWWNkY2tvaUV2TDFTWWJjbHBvbG9wZnpZeFhLd1lVa2RsZ1lqc2ZRT0dMU1l0X3hTTGJzSlh4RUlpLTlHbmt6eHVqWjBSRWgzV3JwZEZTS0JWeWZfTllHT2dmUkJPM1prNTYxZUJnano4djhKampiLXJzZ0Z4dkVma1hpdHZFblo4NHrSAdIBQVVfeXFMTjNrVGFxOWhNRmJJMFRJTzBITUxiblNKTGs3SGFkSmR0TkRCWU5aYXloM0ZTdkducG9oQXQwa0ZBWFc5RHlYb1BDa09kNl9sVGxNcVdvRXk4LWdURGxQTE9yejR6dmFGVjNyOThUdDdjOERMZl80QXRNRkhjWTFGVHFZd2d2T01vcHgzbm84enJPaWdobWxRWDdHaDBkWkVxMjBySm1YLWJWUmFrYnVPTFFIeG5WY1ZOWkRJQ3dsdHc5c3BwLVJkVGVpLWxsODJRSG5R?oc=5",
         "sentiment": "positive"
-      },
-      {
-        "headline": "Mangalagiri will emerge as a model constituency in Andhra Pradesh: Minister Nara Lokesh - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV0hydFF2UVQxM2tONVJ4S2h2V1BfUXdkakRhQTJST2pqbzZrS1p0NHVtUUo1QkZrYV9YZXh1OHo0VTc1SnhPUkc0bmxFM19TenNuSGxlSmJXZ0U3MDdwZHBUUzdxZlk1akQ3Zzg1ZmFHQWxtczJjLWNta3FXYzFMNm1JcEtTdnhHUnExWFhTN2FJRzFYWHRWSnliaVR0dHJWd2NQZ1BoVXVrLVZzVjgzbERtU0NRZEZJeUR2Mk9pX1dHYU5pYWtHUEJXV3FsZ1h6N1ZsSkZxSzJmODduSEZYeEdOZUJDaWR20gH2AUFVX3lxTE5ySnQ3eDc2eHFac253TFFvUDcxNmI0b09uYnlQWWcxUlVxSUg0MHFTOWdjNTJnZlFEaHgwcl93bjJDMWsydDJ2eGw5UmJZU0pwR0w4WEFyZHBVQlhKa2lka0c1UGM2SVJtdXU0SDlXV0VqVVhma3d5eWVFYUpvTUxhc1ZtbTUxTFlNQk1BTHBPUFctUHBOdG5xWGs2RGRzSURzNlFOekNNR3VCNjRoQVBfdVdNTVQ4OWNnWWp2TUwwODE1UDhwNGlmSDZsTXVnNzlPbFJjei1Ja0ZwMkR3WmRNTW9SSEtNa2dSZ2l3bFVkc3ByR3dCdw?oc=5",
-        "sentiment": "neutral"
       },
       {
         "headline": "Chandra Sekhar Pemmasani: The Richest Lok Sabha MP Named In Modi 3.0 - NDTV",
@@ -300,11 +333,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Chandra Sekhar Pemmasani: Doctor has felt the pulse of Guntur - livemint.com",
-        "source": "livemint.com",
+        "headline": "Chandra Sekhar Pemmasani: Doctor has felt the pulse of Guntur - Livemint",
+        "source": "Livemint",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUxBVzRlc2JjbW8xT2FDTVpaeU1vdFJsUjRPbGsyWmRBWmZuaV9YVFhTeDNDekt5MnJnNWlpNzlaeXJGdlpNd0hkM0dLUVE4WXE5dlRLMDBBU0lWX2hJd2NqM0VGYUMyV1V1MFVfNHNJUndIQmlMWlpBUHJtdUlVN2JDYWYtbm9UV245Q1J0b2dFa2J6NnJNdUtNX194OHY0SUZFcHpFb2dmdjg2bU1ZMDZ0bi1Zb2pGUEpz0gHAAUFVX3lxTFBpaGRNd3c5OTROTVNHcXpBMkkxblFRZEs5NHNhV0dCNDAwOEIzUGZaZzZPX215TmlCT2FfWlFDUDJuMDBWMmVzOWs4VFdXTUdYOTVHa2dqSjloRzhINHEwQkFhTC1nZ1lhLWNMTGJ4VS1zTHhpQzhXWU9qUUdEM1dBazlLenp4U0tMa0JtMi1YczZTZm5sQUtUMTdtODRyd2VEelBZSGlJS2UxYXlnTnVidVctMlBOOGVxYWZxVWZkZA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "How a First Time MP Ranked at the Top Among All AP MPs - Gulte",
+        "source": "Gulte",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlNlYkFXUFVyekxFalpXWVhveUI1Mm91UkZZXzRneDEwSnV0RmhyV0ZWblFZajJvLXdFLVg5TW1iN0tWdGtEcm9kN2FQZzN1MExkbjM5WmdQbWNYeFA2bmpuMlF4V1hLSkZKcXpVay1id19VOGRqM05ud0xwOUxMOE0tQUNSRGFlQ2JDa29tNnFUc0hBTUlmS0pqUk03RlnSAaQBQVVfeXFMTXR3emV2RnA4TG1HR3Z4aVVNQ1A0OGhOdEFEYnlDNnNVemRyTS00NWlOY1V6d2N0NnZLbWlOV1BIMEhBd21QaC1leFotVVZ3ZU1rNHlJY19ZN0N6RGNoWFkwRjdxbDZ1MjJpYzFlazZmQU42Nl9GT0JHOGlzdFMwVVJya3BGa1pRZjNCQXFEZkt0Mi1GTFBocXVHNkJESU0xVFdQVWg?oc=5",
         "sentiment": "neutral"
       }
     ],

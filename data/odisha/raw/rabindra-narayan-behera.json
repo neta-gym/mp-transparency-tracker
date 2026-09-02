@@ -4,16 +4,16 @@
     "constituency": "Jajpur",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 9604,
+    "myneta_candidate_id": null,
     "slug": "rabindra-narayan-behera",
     "house": "lok_sabha",
     "sansad_member_id": 5595,
     "profile_url": null,
     "canonical_name": "Rabindra Narayan Behera",
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/5595.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:52.420513Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 45567092.0,
-    "liabilities": 0.0,
-    "net_worth": 45567092.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9604",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.988909Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 36.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.71,
-    "released": 14.71,
-    "sanctioned": 2.09,
-    "expended": 0.52,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:33.369218Z",
-        "notes": "Official eSAKSHI REST API — Works: 140 recommended, 50 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:27:22.963792Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:53.943827Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:22:29.040498Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 140,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 3.5350101971447994
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:34.585462Z",
+        "fetched_at": "2026-09-02T14:22:28.327963Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Jajpur MP Demands Crime Branch Probe into Pihu’s Disappearance - Pragativadi",
+      "source": "Pragativadi",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkxKUFB6MFdrWGtka2xFRUdrbzJKMUVVYlpQS3hYSG03UVJOVHdIZUNLcjFEVERWQXdkUnZhZFJKRmhvSW45cUphb2M3bUlrX3J5RTZfYm5ZaU00ZGthUmwxaGk0LW1pT0hraExic2VHdWswQk5aWlJEcnFUb3ExaWlVWXdrcjFBdVQtYnMzNA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rabindra Narayan Behera - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0MzUktNWFgzVkt6VERkSm5yenZJWEN1ZUhSWkZfTkp6eFpTdktNTVdDZVB0b3RjS1BKQ0l6MmR6LVN6MUhJSS1TU2R0OXRuYnVvVUJBd3YzYWwyYjlBSnMzM0Q5NmRXZHEtTGJkaFJxMllIekYzOFhvd1dUUENPZ0dTN0VYVHQ1Vm5aRnJqYmVvYkZjaU5OQkFsMW9DWUZOVGx5ZkM0X3pHT1pXVi11ZWx4M3A2aElhZURLVXFoQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "97 Fall Ill After Consuming 'Dahibara' In Odisha's Jajpur - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmItc1hQa2dIYmNzR3BfWVBNZWxKSU5FOXZLNF9JQlJ4d0JndUkxbHFNWjRfT24wUHQwbzJ3UXpPZnZqVjZUaHo4QURmTmpBaFF5QmJwakM0Y0liUDh1b01XYUdSYmNrX044Q1llcjZPaXhqRlZsbTZkWlAtRjdLWFdKUjB4QVpBN1RBQlljaC0wQ2dCTDlpS3d4dUNOMURrZ0FyR3JxWdIBrAFBVV95cUxOb0dkTHAzakRPbmRPSzlqMDR1cFUwMUxuZXJPYXU4MU9peWVqUnBRa3ZlZWVxelY4dG1mR2VLSndkV1llcDI4WVdlSEVfSFlwSERla2Z6VzN6SDhVTzM2VzhPekVZVkV4QU16RmM1dGJfbXdKeTBMYjd0WmpKUTBydEYzeFFEVlNVdnRqSVZPZDVHRU9Gc2liNm9iTTZxTHBwN1d4amRIN3pPcWY0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MGM Supports Tridhara Festival - tathya.in",
+      "source": "tathya.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jcmdrT3RXa28tcGU1RjU0X0hMcmEtX05XWXpkb3BJNGgyQ1JUMHotb0tLa2FNN0ZSdGl6OW1SVDd0eFZwTHNCbkNQLU9QellNWjFkQjBfeS1lZEtuLWc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "12 Years After Nirbhaya Incident: Calls Grow Louder For Justice And Women’s Safety Reforms - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs4TkhwczF6Y25OZXRKemNQSGdQRWtQWEZGcHhSYk9OcTQ4YjhlNDhlTnNnT3NJeHNNOGxVS2c0XzN3LTJieHMta2RHU25BbVJPbTBlMzVLNEFxcHp4U1k1OTlReTllM21rZ0tXUzJaVS0yVUFCT0R5YmpfbGkwbTJ1dWVqNnJQTzZ5R9IBkgFBVV95cUxPU2FWVkJYT3RpTjFzTnNnejdDa1E0QU9lMC04b0lZVWxIZTBEai1fbVVOYkJVSG5lZGVNVTd6RzdGVEtLLVFuTmxZMHNudUJLS29QdUo0T0NZb01sQmxjdmdwZWxEV19TdXRVaFdmazUyWlNQbFlNbXJEVWotY1BQN0VEZTIwaTJWU3loMElMOVFOUQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:03.207849Z",
+  "collected_at": "2026-09-02T14:27:22.965178Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.359463Z",
+        "fetched_at": "2026-09-02T18:38:08.867372Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.359471Z",
+        "fetched_at": "2026-09-02T18:38:08.867390Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.359501Z",
+        "fetched_at": "2026-09-02T18:38:08.867398Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.359508Z",
+        "fetched_at": "2026-09-02T18:38:08.867407Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.359515Z",
+        "fetched_at": "2026-09-02T18:38:08.867418Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.359520Z",
+        "fetched_at": "2026-09-02T18:38:08.867426Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.359524Z",
+        "fetched_at": "2026-09-02T18:38:08.867435Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/i/flow/login?redirect_after_login=%2Fdrrnbehera2016",
+        "url": "https://x.com/https://x.com/i/flow/login?redirect_after_login=%2Fdrrnbehera2016",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/share/1Akndyk8a5/?mibextid=wwXIfr",
+        "url": "https://facebook.com/https://www.facebook.com/share/1Akndyk8a5/?mibextid=wwXIfr",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:22:29.547861Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,11 +342,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Jajpur MP Rabindra Narayan Behera receives Dadasaheb Phalke Golden Award - prameyanews.com",
-        "source": "prameyanews.com",
+        "headline": "Jajpur MP Demands Crime Branch Probe into Pihu’s Disappearance - Pragativadi",
+        "source": "Pragativadi",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlJjRVlkTmI4YV9lbmotOXk5RWY4Y2c4d254V3E2b0doaF9tN0NGU2ZBdWR4aWgxSm4zRGhGdzZXTUI4b3J0Y0VvSkpRYUFSXzUzem5FdERJNHpzcWtMNldQaXNzcW1VRS1JQmFNS1p2N24tdHI3ajliWS11SzdZODFFRkZnRkpRRnJlbkJyTTlMZEJOcVYyTmpoUUhkN3VRbHc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkxKUFB6MFdrWGtka2xFRUdrbzJKMUVVYlpQS3hYSG03UVJOVHdIZUNLcjFEVERWQXdkUnZhZFJKRmhvSW45cUphb2M3bUlrX3J5RTZfYm5ZaU00ZGthUmwxaGk0LW1pT0hraExic2VHdWswQk5aWlJEcnFUb3ExaWlVWXdrcjFBdVQtYnMzNA?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -280,27 +358,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Khurda Road Railway Division Hold Meeting with Odisha MPs to Boost Infrastructure and Services - pragativadi.com",
-        "source": "pragativadi.com",
+        "headline": "97 Fall Ill After Consuming 'Dahibara' In Odisha's Jajpur - ETV Bharat",
+        "source": "ETV Bharat",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajVLU2JhY2p5RHJpS1UzRElEX1hJRWJ1QTdFTUFxYVB4ZXo1UGd0LXBURUV3V0N0ZFZOOUNqdlhqaERUU0VkQjJ2bDNDMFdzNGJ1cU8tUWhqMmZMSUtLSmdjc0ZFMlR3cXg1MUdFN3dlTkdGNEZQZmRxV3M5WjltVVVkVjIzX3psbi1FUmo1OEVpbFBHVzAzeUhfY3FyaUl5dTVCN2o0NXQzNmJ3WFdGRy00UVpvR3pNZ0hJ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmItc1hQa2dIYmNzR3BfWVBNZWxKSU5FOXZLNF9JQlJ4d0JndUkxbHFNWjRfT24wUHQwbzJ3UXpPZnZqVjZUaHo4QURmTmpBaFF5QmJwakM0Y0liUDh1b01XYUdSYmNrX044Q1llcjZPaXhqRlZsbTZkWlAtRjdLWFdKUjB4QVpBN1RBQlljaC0wQ2dCTDlpS3d4dUNOMURrZ0FyR3JxWdIBrAFBVV95cUxOb0dkTHAzakRPbmRPSzlqMDR1cFUwMUxuZXJPYXU4MU9peWVqUnBRa3ZlZWVxelY4dG1mR2VLSndkV1llcDI4WVdlSEVfSFlwSERla2Z6VzN6SDhVTzM2VzhPekVZVkV4QU16RmM1dGJfbXdKeTBMYjd0WmpKUTBydEYzeFFEVlNVdnRqSVZPZDVHRU9Gc2liNm9iTTZxTHBwN1d4amRIN3pPcWY0?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "'Thankful for giving me chance to fight from Jajpur': Rabindra Narayan Behera - The Economic Times",
-        "source": "The Economic Times",
+        "headline": "MGM Supports Tridhara Festival - tathya.in",
+        "source": "tathya.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdHVoNTNHbThTMll2SjJ5Vkt4cVNqNHZCUWxDYkRuU0lkTXVob0EzOG10SUw1bVZMc0Q5V3gyV1U2Xzc4TmRBUi1ROEFWczYzODJNcDZMV2RTWER5MzVHbXoyMnlHRUJzM1dNVWcxWlZjRjhieThqUGR0dUlGU3FqMEdkY2RXanBDdWQyOFJCQnNDREwxYndkcmpOOFpRaDdKaGpRb1lhMjM2Z1RoVUZqU0hFcVE2ZmczNVJ6LVJ5TkRUMlJoTXlVZTRTSkZJZHg3anRwTjRocVdGTy1aS2xQckRvVjFyMVRpZVdmMzJEenNYTmtCVEUzZDQwcDhVd9IBgwJBVV95cUxPa0RCSzhEWjNVZXhiNkdvSzZnbEo5M3d1THItd2cxRkRreWNJQkoyZm52QU16Y1ZGV2pTRm5OWWtjbmF0Skt3b3hwVjNuamxYVXRoWVNvSEtfQWRqWWdXOWZjdWRZVTI5aENDaWNTVHNPeGZjUlV5aXZNb2NYRTU1c19RLXFCTkZzV3N3OVVpLVdBbVVwdHk2b29UQ2U5MVp2bnVMYUp6c0RLRGtqNGZFT3VsOUh1Vm9vZGJXWUd3dEpEZkI5dE5FOVAwdEx0X0R5cEltNmJUYjZIcUdCMElpelNrMmxCRndUYkZfejZjTDdzRlZmdDhsRWZRazdNTnlLZFpZ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jcmdrT3RXa28tcGU1RjU0X0hMcmEtX05XWXpkb3BJNGgyQ1JUMHotb0tLa2FNN0ZSdGl6OW1SVDd0eFZwTHNCbkNQLU9QellNWjFkQjBfeS1lZEtuLWc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "World Odisha Society felicitates MPs Ananta Nayak and Balabhadra Majhi - ODISHA RAY",
-        "source": "ODISHA RAY",
+        "headline": "12 Years After Nirbhaya Incident: Calls Grow Louder For Justice And Women’s Safety Reforms - ETV Bharat",
+        "source": "ETV Bharat",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PbTdsd1o1Q1I3V1plNEctOVhXUTZBSTNZaldXYk1NS1E2dXVLZEVndncySHJyVWJ6UGFYM3I0MzRfWThPTzdxWGZ4UXNJcldlSThNVWxuaTVxVXZSU2xHZEh0emFUZWc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs4TkhwczF6Y25OZXRKemNQSGdQRWtQWEZGcHhSYk9OcTQ4YjhlNDhlTnNnT3NJeHNNOGxVS2c0XzN3LTJieHMta2RHU25BbVJPbTBlMzVLNEFxcHp4U1k1OTlReTllM21rZ0tXUzJaVS0yVUFCT0R5YmpfbGkwbTJ1dWVqNnJQTzZ5R9IBkgFBVV95cUxPU2FWVkJYT3RpTjFzTnNnejdDa1E0QU9lMC04b0lZVWxIZTBEai1fbVVOYkJVSG5lZGVNVTd6RzdGVEtLLVFuTmxZMHNudUJLS29QdUo0T0NZb01sQmxjdmdwZWxEV19TdXRVaFdmazUyWlNQbFlNbXJEVWotY1BQN0VEZTIwaTJWU3loMElMOVFOUQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
+    "total_questions": 3,
     "starred_questions": 0,
-    "unstarred_questions": 0,
+    "unstarred_questions": 3,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 4.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

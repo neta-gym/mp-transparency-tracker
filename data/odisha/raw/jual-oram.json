@@ -4,16 +4,16 @@
     "constituency": "Sundargarh",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7296,
+    "myneta_candidate_id": null,
     "slug": "jual-oram",
     "house": "lok_sabha",
     "sansad_member_id": 279,
     "profile_url": null,
     "canonical_name": "Jual Oram",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/279.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,139 @@
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "PS Case No. 09/2022,  P.S. Jhiripani",
+        "ipc_sections": [
+          "294",
+          "509"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "JMFC Rourkela",
+        "fir_no": "PS Case No. 09/2022,  P.S. Jhiripani",
+        "case_no": "GR No. 62/2022",
+        "other_acts": "",
+        "charges_framed": "Yes",
+        "date_charges_framed": "25 Jan 2022",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "GRP Case No. 26/2007,  P.S-Bondamunda | Section 174 Indian Railway Act., Charges Framed Year 2007",
+        "ipc_sections": [
+          "143",
+          "341",
+          "283",
+          "149"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "SDJM Bonai (Now Case Has Been Transferred to Court of JMFC Bhubaneshwar)",
+        "fir_no": "GRP Case No. 26/2007,  P.S-Bondamunda",
+        "case_no": "GR No. 480/2007",
+        "other_acts": "Section 174 Indian Railway Act., Charges Framed Year 2007",
+        "charges_framed": "Yes",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "PS Case No. 13/1999, P.S. Plant Site",
+        "ipc_sections": [
+          "143",
+          "341"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "JMFC Rourkela (Now This Has Been Pending Before Court of JMFC Rourkela)",
+        "fir_no": "PS Case No. 13/1999, P.S. Plant Site",
+        "case_no": "GR No. 62/1999",
+        "other_acts": "",
+        "charges_framed": "Yes",
+        "date_charges_framed": "26 Apr 2010",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:50.648683Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 86325870.0,
-    "liabilities": 10361616.0,
-    "net_worth": 75964254.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7296",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.848432Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 53.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 17.31,
-    "released": 17.31,
-    "sanctioned": 9.98,
-    "expended": 5.43,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:28.851945Z",
-        "notes": "Official eSAKSHI REST API — Works: 194 recommended, 176 sanctioned, 8 completed"
+        "fetched_at": "2026-09-02T14:35:06.972786Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:31:01.338673Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:31:01.335797Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 194,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 31.369150779896017
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -92,7 +169,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:46.698054Z",
+        "fetched_at": "2026-09-02T14:31:01.334686Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +177,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Political climate heats up in Sundargarh over Jual - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDdKTUh2YVczWDA3Q2NGakFValA4VW1oQUczVWc5V3o3VGtkdnRrQWRkb1l2MG1iX1RPdlMtODFjR3BBcEJUd1pRTk5VY3EyMEZPT183bGFIeURqV3lHQjBobU0zeUJGRHdhV2pkNVdoWEx4QzdIbUtqSDRNVUNuNGZwX0t6eHduMVRVY3VscGQwTkRrQ2FlRGh6TVBsQkFxRzF6ektCaE1CTGVicnfSAbsBQVVfeXFMTjJYUUNTeEwzbmZscU9hMjVwZUp5ZTlKZjBNZ2dkVkN5ZkFCQXlLQjcxNDNmV0hfNWd0WW9lWkdTcWdiNEtZMlZ4a1AxWXFsbE5CZmF1LUZSajNET3V6WW9QQ25GR29CeEF6Z1J6WHZBQ041MENncE15TWZtVWFlYkszdkNWX3g2ajlfM0NmM1ItYk45YTZLMTBhQ2JjeDJ4d2pMSlZEeXByUWgybkxnN3FhejBtc2xTZEpLbw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union minister Jual Oram alleges ‘paid smear campaign’ within BJP against him - Daily Pioneer",
+      "source": "Daily Pioneer",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9US19CdXI1STBGWThfSzF6Q1M5TUVQUk90NFZDM052ekJSTkRDWmZqeGMtSVhLY0EtaTJpdGF0UE9HVjFDdDVfUkFfUnBrYWxVdjU0ZE9Uc05qWW9HYm8zYkxwVjVXenE5eTV5X0luNjU3bHAzQTFyR3YybHpNRlU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union minister Jual Oram targets detractors for defaming him, says will chop off their hands - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZlAycTBMSkY1UGZYMmVoeGpoa3kxSVdUYXpHUHBPTU93N3huZE5wQkhrUTVnV3h1emR3LVlFdHM5c0JpRGdpN3M3Q1RUYjBuWDdDUXRiY2ZyVXFjVlBmMUVpWjZqdm9kblF1WUpTTm42Q2dlSnZQWHpIVXV5WkVSVW10Q1NpWG1ZNVg2ejVmbTJuNmFIMzhFZXFYNTBqWWYxcTliUC14Y1c5UmdFbW5uSG10M2QtUlVPMWI0MXJleEdfRmZqNlRBU0ZFNzYwaHV6ODFGYWZRUnV0VWJMSlBERTYzbmXSAfIBQVVfeXFMTlVSd2JSZlZrbDItUFdPUUlTY01hOTZDS0pyZWYzWVBHbnNxaDNwYVBJSzBSWXhybjBMTlVMWnFJQ2l4X29EWG5pU3VMTm1EVTBDNnNFMkVZTEVwMHl1UndGLU1SU0Vkb0RRRTQ1bGtHdWJwNEJPOUZldDd1b0k5LTJ2NDZfNFBLWk8wcUZNYVVMa2d5OVdKVUZXdnFnUVJZRVdGRmRvZ3dWdVRzdFoybUJVdW1nUGswMjY1RGhucTRkTHp5aWJMSkFmMWNnaThsWWlGdnFCd0dCMlNVMUptWm5YNkhvNy1BVF9vVDdrRXBiQlE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union Min Oram meets CM Majhi, reviews key development projects ahead of President visit to Rourkela - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczNxTWQwUnBsWUVVR2RncHg0OVcyUVRsWG1QN1VSZllacEFEbkxPczJ2cFNTeHNkUk1HaWMyRXI4clBBVWdiSDQ4STc0QUppU200RUFNMDFpbVNoaXhZcEpUcWp0TzR1MzEyRGhPOUFvRHE5OHM1ZS02TE1NN19DRHN1Zkx4N1FVeTNoRHZ5eW1iZTcybEhpQTNkZmZEaUJiYXJmeHJGNm5Xd29WTmFsWDd1dHFFZFI2d2JpRmR4VGpSanJkQUlPR3lYTjljTnpVc2FyYllJRVEzVVo1MTQxeXZ5dk80Wl9kdWZ5MjhmUdIB_AFBVV95cUxQUEExdjZMbHFUT1E0cnc4UU1uZXR5VkNxZElfaDlLVGxUdUs0UDlFVlZieUYtcFVfR3pRMEJvMlJQN0k2YW8zWXI0WFVvbUZfWk53SHRTTXJ3NkZGRXl4eXE2NllGb2tVRzc5dmRpZUMwNV9LQjlZVEc2MWlOV1FKeUxjNnNreGl2bTYxc3FpME93eWJfd2RveWo2NWF5TVNrSHhHcmdWMHdOQkk2eHlpZUsxNlA2ZHFYOWdremN3OEc2aGxJSlBDY1Y2clJ5bU5KdEJfRkg0VjNqX2czZjNDUEUtUGQzOW1fbG5YOEd0NmE2b1c0cDI5UlV1UGU?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Tribal leaders Jual Oram's journey: From humble roots to championing tribal causes - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQm1nR055UzI2VEk2bllDUUdRem0xcUJiUjVOY3pwTFFoV1E4RXBYUmh3SHZTVTZuckt2d1FVMXo3ckg1cDdmenMzMERId1ZqZkdOR2lJalZkSzNPNldJQ3VQVkZZQl9vQnhxOXRldGpHeGFRQzVxMjB1cUxndEJRZ2dLWWhLT0wwcTZlMjQ3bUluMWQ4cnBTcjJHQXVKbVA5TmZhLV9pTTUtSEpRQmxuLVplZW84MHFRYTJFenUyeUVmWExZdzlV0gHMAUFVX3lxTFBIQ1VFOGpPeG9tUDJRNl8tdXFPRDRKVU1WaFZJd3I1TmJMa2ZjdzFEaXE2NzVvZ3h5Y0c2LXJ2MlRGWUo5V3hDRUhfLXFTbnRfdkdRSVppTUNXQ0lfWU9XNzlNaFVRTk42dEVtUEhOeGhPSkhLWDZNT2RXU0dnbGRURTc1c0RFU0Zhb0s5WDFsRHNCUlJRVmh3Q0RCUzR1MGdhSnRPajdaR1pJek5RZWo3ZkV5b1VmV2tGODRabkpnUzFoVlZ4X3E5eUNkdg?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:51.016374Z",
+  "collected_at": "2026-09-02T14:35:06.973795Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +246,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.274137Z",
+        "fetched_at": "2026-09-02T18:38:08.785388Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +262,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.274147Z",
+        "fetched_at": "2026-09-02T18:38:08.785400Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +278,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.274152Z",
+        "fetched_at": "2026-09-02T18:38:08.785406Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +294,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.274157Z",
+        "fetched_at": "2026-09-02T18:38:08.785411Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +310,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.274162Z",
+        "fetched_at": "2026-09-02T18:38:08.785418Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +326,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.274167Z",
+        "fetched_at": "2026-09-02T18:38:08.785423Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +342,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.274170Z",
+        "fetched_at": "2026-09-02T18:38:08.785428Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,49 +367,74 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://twitter@jualoram",
+        "url": "https://x.com/http://twitter@jualoram",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://facebook@Jualoram",
+        "url": "https://facebook.com/http://facebook@Jualoram",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:31:29.973529Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "President Droupadi Murmu to visit Rourkela on April 21: Union Minister Jual Oram - Kalinga TV",
-        "source": "Kalinga TV",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcW9teVVxdG5wcUJuNlRrZUtlSzVwd1hjNXQzUUxjX0lBSURwNFlocm5DZ0pXR0lUOUVQb0JKZXBaZ3VucFllV3IzWkF2cDJHOTNrbTItMlJ2SWt2YkdldVZCOW03bWoxWFRuT1BFaW9CSDVOZzdsS1NsLWxxai14Nks1MzRVY19KSlU5TU9KY2lyM0pGazYwa19ucHQzZDZQWXkzc2t5bFhrVHFsbEE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Odisha: Droupadi Murmu Likely to Visit Rourkela on April 21 - Deccan Chronicle",
-        "source": "Deccan Chronicle",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3U5dnpKQTA5Z2lTQkJwa25WOEpNN1lVTDE1ckRlSUhWRGhPeTFzOEFxM3ZJNnEwUTVEOEN3OHVnWUU3aUdoWko1RXV2dkt5SEM2dy1uWmh5UTlXbkI3VFk2TksyOW1HdEpxWlYyYWh4bXRLaE1Uclh5Q0FpcmNuSzk0eHlSenBjY3JldjgxZUNYdEpvOS1Sc2hydVIyMGRwc2FJbnZ0NmhZd9IBrwFBVV95cUxNMmxuM0NSTUtyVWJ0S1BabEt2TmpuVDVTRkR1U0d1NHA2bnMzUnJTNmZWd2x5MFJLUWZaVXd2c2VVLXEyM01wdUxwSzBRY1RJbUhsalM1QlFSUXMzV1BNZHYwbDRlT0pyWkNwVkhMblNHTnZtR0MtRXkxQldQZjZLSGhtLTRJSjY0SEVQYnlmRjhUV0E4eFpLWmJISlZOOUFZMHNSdFd6Tmxtb1pBMk9J?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Union Minister Oram writes to Mandaviya, wants ESIC MCH in Rourkela - The New Indian Express",
+        "headline": "Political climate heats up in Sundargarh over Jual - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHBOYTBpMGc2bHZQajFNS0VZTTY5dXFkWmxJdDFWNW5jd3lLSEFtX09BQzhwNy1Da1FKVERVWTR4UDVMQzNPVkRra1hicXpzc2QtcnoydkxBSXRBVDRfNU9DYzc2Sm55TmZUWmtzUUlvV0MzR2V0Mmd5X0dnaTh4RmxxSWtkbFhvNTNOVlRkUTRpV2kwZS1KM090ellwNVlTZjBubVhnejhOelJPZkVCcXlYYVZWMHVHUVk0bXVsMVlwZUHSAdABQVVfeXFMTnMxMWtQN3VObFRLLTdtTDRlOHBYaWROYVFNbmc1Sl9GZUtLdllSeG0yT2laV3NVUmJ6SC12UTdsYXRaM2lOUFY1aU9uUmdSOXhGZFByZWc2NnZKQk5Zd0puT0ZWZ3JzMkFBV2w0NzhPZUMxamU1OXAweU9jRVowUXVVM1ozdGF4TzhpZk1DbWdBd0pRVktBeUhReTJnb09mel9UOXBLeFYySG9IN2dJYlZ4emFZX212a3NLSjBteXBnWWJJNkhaaVp4MG5wZVhLTA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDdKTUh2YVczWDA3Q2NGakFValA4VW1oQUczVWc5V3o3VGtkdnRrQWRkb1l2MG1iX1RPdlMtODFjR3BBcEJUd1pRTk5VY3EyMEZPT183bGFIeURqV3lHQjBobU0zeUJGRHdhV2pkNVdoWEx4QzdIbUtqSDRNVUNuNGZwX0t6eHduMVRVY3VscGQwTkRrQ2FlRGh6TVBsQkFxRzF6ektCaE1CTGVicnfSAbsBQVVfeXFMTjJYUUNTeEwzbmZscU9hMjVwZUp5ZTlKZjBNZ2dkVkN5ZkFCQXlLQjcxNDNmV0hfNWd0WW9lWkdTcWdiNEtZMlZ4a1AxWXFsbE5CZmF1LUZSajNET3V6WW9QQ25GR29CeEF6Z1J6WHZBQ041MENncE15TWZtVWFlYkszdkNWX3g2ajlfM0NmM1ItYk45YTZLMTBhQ2JjeDJ4d2pMSlZEeXByUWgybkxnN3FhejBtc2xTZEpLbw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Union Minister Jual Oram Unveils Atal Bihari Vajpayee Statue in Rourkela - pragativadi.com",
-        "source": "pragativadi.com",
+        "headline": "Union minister Jual Oram alleges ‘paid smear campaign’ within BJP against him - Daily Pioneer",
+        "source": "Daily Pioneer",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVTh0LWxaa09DZHNjZl9tS3p0YWJCVWd6REU0N0Q1QV82REVBUER0N2ZNUUt0dlRmbWxqUEJ4SW1lSDN1UGJVN0VWb2dPSlRpVENXOGZ4Z1RvRmpvQnhzZGEwVEZVYXpqalIyYllXbzFrNEptOE9ZV1ZvVzFxWVREOW1sUUtJel9pdWZ4Tll6LXBpSUYyc1MxV1NIYi1Gdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9US19CdXI1STBGWThfSzF6Q1M5TUVQUk90NFZDM052ekJSTkRDWmZqeGMtSVhLY0EtaTJpdGF0UE9HVjFDdDVfUkFfUnBrYWxVdjU0ZE9Uc05qWW9HYm8zYkxwVjVXenE5eTV5X0luNjU3bHAzQTFyR3YybHpNRlU?oc=5",
         "sentiment": "neutral"
+      },
+      {
+        "headline": "Union minister Jual Oram targets detractors for defaming him, says will chop off their hands - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZlAycTBMSkY1UGZYMmVoeGpoa3kxSVdUYXpHUHBPTU93N3huZE5wQkhrUTVnV3h1emR3LVlFdHM5c0JpRGdpN3M3Q1RUYjBuWDdDUXRiY2ZyVXFjVlBmMUVpWjZqdm9kblF1WUpTTm42Q2dlSnZQWHpIVXV5WkVSVW10Q1NpWG1ZNVg2ejVmbTJuNmFIMzhFZXFYNTBqWWYxcTliUC14Y1c5UmdFbW5uSG10M2QtUlVPMWI0MXJleEdfRmZqNlRBU0ZFNzYwaHV6ODFGYWZRUnV0VWJMSlBERTYzbmXSAfIBQVVfeXFMTlVSd2JSZlZrbDItUFdPUUlTY01hOTZDS0pyZWYzWVBHbnNxaDNwYVBJSzBSWXhybjBMTlVMWnFJQ2l4X29EWG5pU3VMTm1EVTBDNnNFMkVZTEVwMHl1UndGLU1SU0Vkb0RRRTQ1bGtHdWJwNEJPOUZldDd1b0k5LTJ2NDZfNFBLWk8wcUZNYVVMa2d5OVdKVUZXdnFnUVJZRVdGRmRvZ3dWdVRzdFoybUJVdW1nUGswMjY1RGhucTRkTHp5aWJMSkFmMWNnaThsWWlGdnFCd0dCMlNVMUptWm5YNkhvNy1BVF9vVDdrRXBiQlE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Union Min Oram meets CM Majhi, reviews key development projects ahead of President visit to Rourkela - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczNxTWQwUnBsWUVVR2RncHg0OVcyUVRsWG1QN1VSZllacEFEbkxPczJ2cFNTeHNkUk1HaWMyRXI4clBBVWdiSDQ4STc0QUppU200RUFNMDFpbVNoaXhZcEpUcWp0TzR1MzEyRGhPOUFvRHE5OHM1ZS02TE1NN19DRHN1Zkx4N1FVeTNoRHZ5eW1iZTcybEhpQTNkZmZEaUJiYXJmeHJGNm5Xd29WTmFsWDd1dHFFZFI2d2JpRmR4VGpSanJkQUlPR3lYTjljTnpVc2FyYllJRVEzVVo1MTQxeXZ5dk80Wl9kdWZ5MjhmUdIB_AFBVV95cUxQUEExdjZMbHFUT1E0cnc4UU1uZXR5VkNxZElfaDlLVGxUdUs0UDlFVlZieUYtcFVfR3pRMEJvMlJQN0k2YW8zWXI0WFVvbUZfWk53SHRTTXJ3NkZGRXl4eXE2NllGb2tVRzc5dmRpZUMwNV9LQjlZVEc2MWlOV1FKeUxjNnNreGl2bTYxc3FpME93eWJfd2RveWo2NWF5TVNrSHhHcmdWMHdOQkk2eHlpZUsxNlA2ZHFYOWdremN3OEc2aGxJSlBDY1Y2clJ5bU5KdEJfRkg0VjNqX2czZjNDUEUtUGQzOW1fbG5YOEd0NmE2b1c0cDI5UlV1UGU?oc=5",
+        "sentiment": "positive"
       },
       {
         "headline": "Tribal leaders Jual Oram's journey: From humble roots to championing tribal causes - The Times of India",
@@ -350,7 +491,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

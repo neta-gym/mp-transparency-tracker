@@ -4,16 +4,16 @@
     "constituency": "Arunachal West",
     "state": "arunachal pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 251,
+    "myneta_candidate_id": null,
     "slug": "kiren-rijiju",
     "house": "lok_sabha",
     "sansad_member_id": 3972,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 53,
+    "age": null,
     "photo_url": "/mp-photos/3972.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:03.062366Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 49403234.0,
-    "liabilities": 0.0,
-    "net_worth": 49403234.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=251",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.346993Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 38.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.76,
-    "expended": 8.71,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:17:57.557979Z",
-        "notes": "Official eSAKSHI REST API — Works: 131 recommended, 126 sanctioned, 44 completed"
+        "fetched_at": "2026-09-02T14:41:32.074489Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:37:52.927234Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:37:55.230876Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 131,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 59.251700680272116
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:08.112463Z",
+        "fetched_at": "2026-09-02T14:37:54.022792Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Kiren Rijiju dismisses claims of Chinese encroachment in Arunachal Pradesh, says 'no intrusions' - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZU9nYVFUY0c5Q285U2ZKX1RSaks0RHNFeUI3emZ0S085MkJVR1I5SVJuYVN2U2Z1WE85NkM3TjJCMklDOHB5NmVYWXhha3JLLUM4MkNDOVZEbTRvWkpvQVBCY1E2RzQ4bkZJUkUzMENGSmZsWXdrUzd2WVg3eDItVEFWM0oyQjh3czJzb19RV2N2ZVpKbWowZzI1N3dOQTh3UzMwSVVOdFlLRWtVOC01ZDFDQk1WY1R1TGtIa1RGNVVmNEJ2aHJkQkpCYl9WWVA5OGhkdlR5T0c5Y01JSTFrWtIB5gFBVV95cUxQaEFnNDdXdUFNYlVyYUdRZjByODBPQ2JJcnFUczI1d055M3RDeDhaWnlNZGRSNDZJc0l6bTdHb1VCRzhKVUhnMzd0OHozWmZZTldIQnJmVDZsTldKdGY4SUp0MEd6V1NVNkY4VUM3MW9XNE0yeDhqUEpBb1RNSnZPU0ZlZ0l3Ql91WGFaVEh2TFdEdENRU1RxcTRuOGlmcHVwTElOek1iUlI1R2dtQlhyc1h3U1ExaTVMb1RFOVE5RDQyckJsNFJPS2dHRTlwbGNsbUR3dVRKeTlGdGxiSXBzdUVKMmNSQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "PM Modi Meets Arunachal, Nagaland MPs to Assess Flood Situation, Promises Assistance - Northeast Today",
+      "source": "Northeast Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWkt2VGc3QTFMNjdBUXFJYkttZk9RYWd5b1hBRjdKSzhPVm1fUjFxRVFUZktXWTJocDFrck1MWjczR2prejNaczExVmYyak9lYjU5cWZRdFl1UUZyNXliS05EQnE1OUdkcXpKalFhWkFPanNFcDVVNzdJZzBUeXZvVjFNbnN1dDB2Ml8zYjdPMmF3ZENaSDRhWjFRTy0xVkdOZFFmMzQ0eWU5aUFHbThFSF85M0JvRXhrNEE5bXo2LUlBSWF3ZTdNRTUwdXl6WVZBWkJF?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Arunachal West Lok Sabha Constituency: BJP’s Kiren Rijiju and Congress’Nabam Tuki in poll fray - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYl9zQldUUjk0b2prbXRHdjg2Nk05ZEhWN3EzRkNqSkVhakw5M2tVaFZJUXNfSlp3UGtWYmhUZW0tM3UxS1BfNGJWRW9ha3BqMWxMdWtJT1pFa3BVTmN3dVdTZjVBUXpVMU9KSC13UTBGYXNlT2pSUm15OThsamdXWkhXZjE0MUZFQ2U0STloMDNIdTlZMTBvcFZtOE8zUHNBNkYzQzdFcnhsWV9abTZWa1NQMUVBUFhUMXJ0dU5wT2VUYzlzSXRPeXotSWM2cGlWYnfSAdgBQVVfeXFMTnVnODFQMDdnNVZYLXpoZmRucGJzWGxRZ2pfMEp2Um4tT1gtSk5rUlhEanhOd2x2RnBEMVZpa1BUOTRQb1BSVEV0aEVHM2FCdHVZLXF0blFWZFdPa1ZRTUJ4bm02RTVBUW4wTzNfOUJIdjM2NlFGX1pjVk1Yek1VdnZfaklIRE5EQl9GQjB5Zy1vcVhfQ2d2d0V4Z3AzRmhjVUdWVU9paUZwTWpqNEJsZU94akNwMFhHMEc2QVNXM3pyb2lUQldub2s1X1Z1ZE1KcVBCTGxDQlNT?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha Elections 2024: In Arunachal West Constituency, Union Minister Kiren Rijiju Eyes 4th Term - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMFBfT3pMMWtyQWt6ZnJxTVJLZzVRM3FXMjRpNW5PQUROdDBrSGxHaE5vRzA5amVSa1NDckdCWXFPUUNrdUhwQVIzWGxjcFhLcE8tdVN5OWc1c1h6UVlmQ19POEhmVk5maVVMRXJ3S0dldDJXN05ISmFKc3A0dzI5cFZNQk5TMFBkWHZDTFVWNmxMc2Utcnl4SlI1Ym9lZFhlQVJfb3FhSjV3SWZGRUFvVFVMdEh6WDY3SjhnY0tJeGdKWVVhaDRFaU1CaWNkYW5UeVpJ0gHbAUFVX3lxTE5zOFl1WGo5QzNHUTRhU1pDTlR4aEY0X3FlMW1hZlJ0RkJlaUoyU21icFVPRXlMeVdhV1l6dDRGLUVVYVFhc3FpZncyWFhCYnp5Xy1JcTdqYUNlVmFSMWN4bjNXcGJ5VUFiT0daZjdSdDZnellGOGlLTzJtRFhxOUFJdWtVVEZHaENIUTUzUmVRS1FoaklkcEhnNkM3aUFsMEE1WUFLenlVMGdjRFM3MEdaeWtsellMQ1RXX1J2NWJaQjVBYmFuOHNfZmlXcTRiSlgyVWw3QzRPcC1Mcw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Shri Kiren Rijiju takes charge of the Ministry of Minority Affairs - PIB",
+      "source": "PIB",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByaWhCQ3dCWUJjcEdIZmoxUThZUzU3MGxrN3hLQkw5bTh6ZFBjQ3pkeWtndzNuQmVtd2VEUENYSHhRUm1Ba2xMZ3hYYm9pblhLQ3I2dUV4SF8xM3B1Y1djbDY2clVORDE3VExaeTU0Z28?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:57.925057Z",
+  "collected_at": "2026-09-02T14:41:34.073574Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.687722Z",
+        "fetched_at": "2026-09-02T18:38:04.150070Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.687733Z",
+        "fetched_at": "2026-09-02T18:38:04.150082Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.687740Z",
+        "fetched_at": "2026-09-02T18:38:04.150087Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.687748Z",
+        "fetched_at": "2026-09-02T18:38:04.150093Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.687757Z",
+        "fetched_at": "2026-09-02T18:38:04.150099Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.687765Z",
+        "fetched_at": "2026-09-02T18:38:04.150103Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.687773Z",
+        "fetched_at": "2026-09-02T18:38:04.150108Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,19 +317,27 @@
     "neutral": 10,
     "top_headlines": [
       {
+        "headline": "Kiren Rijiju dismisses claims of Chinese encroachment in Arunachal Pradesh, says 'no intrusions' - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZU9nYVFUY0c5Q285U2ZKX1RSaks0RHNFeUI3emZ0S085MkJVR1I5SVJuYVN2U2Z1WE85NkM3TjJCMklDOHB5NmVYWXhha3JLLUM4MkNDOVZEbTRvWkpvQVBCY1E2RzQ4bkZJUkUzMENGSmZsWXdrUzd2WVg3eDItVEFWM0oyQjh3czJzb19RV2N2ZVpKbWowZzI1N3dOQTh3UzMwSVVOdFlLRWtVOC01ZDFDQk1WY1R1TGtIa1RGNVVmNEJ2aHJkQkpCYl9WWVA5OGhkdlR5T0c5Y01JSTFrWtIB5gFBVV95cUxQaEFnNDdXdUFNYlVyYUdRZjByODBPQ2JJcnFUczI1d055M3RDeDhaWnlNZGRSNDZJc0l6bTdHb1VCRzhKVUhnMzd0OHozWmZZTldIQnJmVDZsTldKdGY4SUp0MEd6V1NVNkY4VUM3MW9XNE0yeDhqUEpBb1RNSnZPU0ZlZ0l3Ql91WGFaVEh2TFdEdENRU1RxcTRuOGlmcHVwTElOek1iUlI1R2dtQlhyc1h3U1ExaTVMb1RFOVE5RDQyckJsNFJPS2dHRTlwbGNsbUR3dVRKeTlGdGxiSXBzdUVKMmNSQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM Modi Meets Arunachal, Nagaland MPs to Assess Flood Situation, Promises Assistance - Northeast Today",
+        "source": "Northeast Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWkt2VGc3QTFMNjdBUXFJYkttZk9RYWd5b1hBRjdKSzhPVm1fUjFxRVFUZktXWTJocDFrck1MWjczR2prejNaczExVmYyak9lYjU5cWZRdFl1UUZyNXliS05EQnE1OUdkcXpKalFhWkFPanNFcDVVNzdJZzBUeXZvVjFNbnN1dDB2Ml8zYjdPMmF3ZENaSDRhWjFRTy0xVkdOZFFmMzQ0eWU5aUFHbThFSF85M0JvRXhrNEE5bXo2LUlBSWF3ZTdNRTUwdXl6WVZBWkJF?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Arunachal West Lok Sabha Constituency: BJP’s Kiren Rijiju and Congress’Nabam Tuki in poll fray - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYl9zQldUUjk0b2prbXRHdjg2Nk05ZEhWN3EzRkNqSkVhakw5M2tVaFZJUXNfSlp3UGtWYmhUZW0tM3UxS1BfNGJWRW9ha3BqMWxMdWtJT1pFa3BVTmN3dVdTZjVBUXpVMU9KSC13UTBGYXNlT2pSUm15OThsamdXWkhXZjE0MUZFQ2U0STloMDNIdTlZMTBvcFZtOE8zUHNBNkYzQzdFcnhsWV9abTZWa1NQMUVBUFhUMXJ0dU5wT2VUYzlzSXRPeXotSWM2cGlWYnfSAdgBQVVfeXFMTnVnODFQMDdnNVZYLXpoZmRucGJzWGxRZ2pfMEp2Um4tT1gtSk5rUlhEanhOd2x2RnBEMVZpa1BUOTRQb1BSVEV0aEVHM2FCdHVZLXF0blFWZFdPa1ZRTUJ4bm02RTVBUW4wTzNfOUJIdjM2NlFGX1pjVk1Yek1VdnZfaklIRE5EQl9GQjB5Zy1vcVhfQ2d2d0V4Z3AzRmhjVUdWVU9paUZwTWpqNEJsZU94akNwMFhHMEc2QVNXM3pyb2lUQldub2s1X1Z1ZE1KcVBCTGxDQlNT?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kiren Rijiju confident of winning fourth term from Arunachal West Lok Sabha seat - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZlNObi1hZDZURlN1UjBlaEtqLVlaSThnY3pvNUVQbXpFV0lfOHVqZkt6RjJFeXN3NGEtNGNDNXItd3ZXeTRfbVNHd0gyNEVQSWZlSUZuQk1xNk1vSVN3bXhWQ19kbWNWX01XSnJJcmozbGZKMGpHTVlFNUdnVkljRXd6VWhVcm9FMjdYMmlaZmROcWhBTjhiUVBoVm9ZWGJaYnROMTcybEQ2OHBvREhoZThfeHFBa1NkcldvUUh2dXVaNi1jRUNwX0Q1VFBlYTlEUTI1cGZzbkV0MUNiOHfSAeQBQVVfeXFMUGNBc2I1ZFZHS0tWVTZpTEpvTUI5dWpYeHZqM1h2dUk4T29YNEhVbEdKVTYwdXFNSk5OWnNsRE1mVlRtak1CX2szd0VrLXdGWllhYWJuaG5NeDBVYjFZRW0zZDluVEotUHNRMl9GSlVkOVhQTUJSY0huRHpzU1gzazFFZ1E1azA2VXZVS3FNend4ZGpOVjlEU3Vwb3lMbWVMUGctc0llTlhVWVRWQmU5N1JYd3EwTzlCb05XZUNLSlA5clJlbmRESGFELXhEdjZyaFZPb010UG9tRzBOMEljdmxzM2hH?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -288,19 +349,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Arunachal West lok sabha election results 2024: Arunachal West Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Shri Kiren Rijiju takes charge of the Ministry of Minority Affairs - PIB",
+        "source": "PIB",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFJ6OHliRXZmV043aFZZUHgySHFpdkNaSFRGQnViZk95Zkh5OW9qS2pmbWdVeEtobGhRXzNMNUZ6TjdlTlRVYVJvelAxZk9tcDEtR0FuN29XeEFhTG1lR0JDb1lkZEJPWF85MG5pUFhNbUREajV0bWt0SW1FbXpWOWJKV3duTlptcDMwSkRURnRLbHZybVMwdmlGU29kM2ZBeF9Ja0R3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP's Kiren Rijiju wins Arunachal Pradesh West constituency by 96,315 votes | India News - Hindustan Times",
-        "source": "Hindustan Times",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWmJEaG1tbk1sa3lvSl8tWk9NMVNQcTRVOGY5ZXFNQnVlZ3Vha0Q5ejg2SUZIWTlkbGpIa3B3Si1CLUliZFVxX3Y4RVBjelhmYlR5QUJuVXZmY2s1WFhRbzloWGt6ZGgzNXUtU2pYUFdGSld0Yjd1LXg3QV94X2NscVFFYkoyMlp3U1cwZmJnenZXYnZIQ0FDU1d4U1NOWGh6OWtUaDUyWUdGYTVKWDVtU0RVV1VDVHdPa204Q2lrUlpzZGRGMWRfd0pyd3dlTWIyZDlKd1JsR19LYUhlUURuZmNKZEl1a3VvQ01yZ3J5aXc3bVBSc18zQ29LSGRwTExDRlR1blcwT08xRmPSAZACQVVfeXFMTmZNVEJCVzRrNHhZeHBseEoyZVd0blJiajFCM01RQTVKbEdnMmNkbmpKVEFUY1M3RWEtM0JjOXFyVzd2M3R3ZnhGTTc0ZDhRMTlWRGU3ZnJkcXpscnhNTTZuZkMxakN3T3BOWFlDNlFvVmp0ZERTLVhWTmk0aUM1VXc3Sm05eHRxU0tfVV9QVmo4ZUQ3amNOcEs1RWlMUVJJUXpqRHd4TENObllRM3M1a1czX04yd2tITkhVM0tZYUY0NW9JRlZNUnNFblRNZ1QtVG9oc014NmxPTnpOdlZxT1VkeW4zQ3h0TmZaeDhBcVRVTXl1R1ZZOFZXLVZDUGtuVFlQRnVBXzJwZERad1FrQmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByaWhCQ3dCWUJjcEdIZmoxUThZUzU3MGxrN3hLQkw5bTh6ZFBjQ3pkeWtndzNuQmVtd2VEUENYSHhRUm1Ba2xMZ3hYYm9pblhLQ3I2dUV4SF8xM3B1Y1djbDY2clVORDE3VExaeTU0Z28?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,7 +403,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

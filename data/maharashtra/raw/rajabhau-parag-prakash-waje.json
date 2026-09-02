@@ -4,16 +4,16 @@
     "constituency": "Nashik",
     "state": "maharashtra",
     "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-    "myneta_candidate_id": 7124,
+    "myneta_candidate_id": null,
     "slug": "rajabhau-parag-prakash-waje",
     "house": "lok_sabha",
     "sansad_member_id": 5790,
     "profile_url": null,
     "canonical_name": "Rajabhau Parag Prakash Waje",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/5790.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:20.983283Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 158637378.0,
-    "liabilities": 1918865.0,
-    "net_worth": 156718513.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7124",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.122981Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 67.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.29,
-    "released": 15.29,
-    "sanctioned": 7.2,
-    "expended": 2.13,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:30:17.270183Z",
-        "notes": "Official eSAKSHI REST API — Works: 95 recommended, 77 sanctioned, 12 completed"
+        "fetched_at": "2026-09-02T15:36:25.666454Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:32:43.040027Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:32:43.037050Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 95,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 13.93067364290386
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:38:32.375015Z",
+        "fetched_at": "2026-09-02T15:32:43.035904Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Nashik election results 2024 live updates: SS(UBT)'s Rajabhau Prakash Waje wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObDM1WDg3S3dSM0Rzdm1aeXJBQjJlemVzalpLczROOU4wNDJaVXRieFgyc1R5YjJwcnFQYjBmeGxPbFh2V0V6dWxFUVRHejFwa2Zlck5sRFNMTnFNbHpZZW1GYk1JdmlNaERZUnMzLU5SV1lteF9mdWk0ZXFqeGh5NERnUDFGTmZhbm1sOGRlZkhTZXRVLWdjeXdGZUxhRFNkamcyUi02djA4N3VfOUFUU29HWVJ4TmNkazFTOEVuMHd1WVBhUTAtcWlTeHotbm9FZFk1QVhUU1JaY3Jyc1hpS2FfdzFwTXVWTHZacnJZRXUzYlJr0gH6AUFVX3lxTFBOWjVVZ0NIeGVVQ1pqNHJVZ2lmbWxMSzBpVlZIRWw0RUlVX2o3cTRVR1VGT3NSNkNaSTBEX21lNDJKWjRFLTBYd0kxX3FFWEF1WEpvOWNzT054cmdibDg3ZGpjVXUtLWdtTEZGRU82aVNKMXM3ODBsSjNlLWpjNkZRa0hiY2tjRzlSTTdsbGVHZFZ6MzJ2Vl9SZTNtOVlVY29ZZ09DYlRNVFNVRkloTWpUMXEwc1VaakxLeEVUMUs0aGlBbzEwT3RZWmE4bG5iQlN6MXM0UXk2V19OQ0diVHNURUFkcjZabWRHLVlBNlJQTlZzS1dReDhRZFE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Shiv Sena (UBT) MP Rajabhau Waje says 'did not rebel' amid buzz over MPs' loyalties - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcV8zT0NTWGV3NEg4azhHdC1ucE9jamJkNU92MWtiZ096S3l4TjhIWUxfdmpmXzYxRnVpRXNWLWkzMngxWXVCb3FCdG02cFYxT2p5ZXE0ZkY5b1FTOGxKR3pkekFrTUNKbVluWk82YWxOYWlyM0lIOTg5Y1J1T0pEbDRPT201T0dZWEdTZGFzNEpMMVRmaFIxRDJsb21tUWlCVVAtT21JZWRLeVBlYm1uYTFPbW1hWW1BTnpVUk5RX3RzeHdpTW1sUWtLR0ZFSUpVYWt0ejZFVFBMZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nashik Election Result 2024: Shiv Sena (UBT)'s Rajabhau Waje defeats sitting MP Godse by 1.62 lakh votes - CNBC TV18",
+      "source": "CNBC TV18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYWhqM05MY3RWUzNJS1NKdnJXWVFDN1RrZEdxSEktdjZGUXBUQnNiUGxOUzd2NC1fVWVOaHpRYzlkb2ZNbE95a3M5ZlU4VVBQNWFKQndBRXNFOUF1SHJaRGp1UDJQbjZhZ1hSTGhmVmhYeUJNTm1rN3JXQ3N3SmpLQlJlTk9TbFNPNVozVVBrZUZLMkpOWm1VVktKR3Nha2hFa3dtTHBIY2FNWFNOV1ZpTGdnUjBQTDJycFpoc3REVlRJbmxxcDd3bVF6eDY2Y3UxM2pwSUt4b1RacnFQOGFJTnNHVGx6d1XSAewBQVVfeXFMT0JNSzM4WlcxcjdpaWV1dndmb0psWjM1aVZSZjA3YTVNNWNmVVZhNzc2a1FjU1FfdHVaRFhyaExzQXhWMWJVNWwzdVRQSEZOME8zS1NzMDhpQ1FTVldwU0M1bmNzaXNkU2ZCUW4yU2ZKdUlUd3E1aHZQeGo3V1VscmoyeFlqNXplT3pqSzlnNW9UdHE3V29YWW5YS2RMeFNIRjNubEd0M1IzSFJsbmp0bnFIc0xoXzV3R3N0MXJBckE3MkNsRHlhTndSclgxNzZsRHhjYjRzWWo2XzQ1MkQ4QjBQd1lQeV9iS2NRZFc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament - W - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWhqZGMwQzRIeWhxUjg0Y0JDRXdTMUpUVTVNUDByZFdKZUxjSGhYTE8tVFhyQ1pWZ3NOcGktVm5Yazl0NV9UcXFQM0Z4SXFoU1dZMEg0c2g2bE43aXJiYlc1YzRfREtpNFgtM09xc2Z1ZXF4RkR6azhGMGhHbmxEZDRTTDktcEk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajabhau (Parag) Prakash Waje - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcEZJdmpEU3BTSF9QOGxaUXk3dGE1c1V0V01kaE9kVUliSGhBLTdDdzk0S2xlVzktNmJsWml3b1ZkVklYaXlQbmQtVEtDcDJhQmpmb3pReUVZdU55cVFXdEJNSmF0NFVseWJrUUlFYm9WZnhMX0RmTEVmNEFOeWloTjlZNEloT1YzdzRNb2gwbW9iV0hHSXdn?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:38:53.060676Z",
+  "collected_at": "2026-09-02T15:36:25.667467Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.640779Z",
+        "fetched_at": "2026-09-02T18:38:08.205917Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.640789Z",
+        "fetched_at": "2026-09-02T18:38:08.205928Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.640795Z",
+        "fetched_at": "2026-09-02T18:38:08.205934Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.640800Z",
+        "fetched_at": "2026-09-02T18:38:08.205940Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.640806Z",
+        "fetched_at": "2026-09-02T18:38:08.205946Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.640811Z",
+        "fetched_at": "2026-09-02T18:38:08.205951Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.640816Z",
+        "fetched_at": "2026-09-02T18:38:08.205956Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,17 +304,50 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "@RajabhauW",
+        "url": "https://x.com/@RajabhauW",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "Rajabhau-Parag Prakash Waje",
+        "url": "https://facebook.com/Rajabhau-Parag Prakash Waje",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "rajabhau_waje",
+        "url": "https://instagram.com/rajabhau_waje",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:32:45.348081Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
         "headline": "Nashik election results 2024 live updates: SS(UBT)'s Rajabhau Prakash Waje wins - The Times of India",
@@ -269,6 +355,14 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObDM1WDg3S3dSM0Rzdm1aeXJBQjJlemVzalpLczROOU4wNDJaVXRieFgyc1R5YjJwcnFQYjBmeGxPbFh2V0V6dWxFUVRHejFwa2Zlck5sRFNMTnFNbHpZZW1GYk1JdmlNaERZUnMzLU5SV1lteF9mdWk0ZXFqeGh5NERnUDFGTmZhbm1sOGRlZkhTZXRVLWdjeXdGZUxhRFNkamcyUi02djA4N3VfOUFUU29HWVJ4TmNkazFTOEVuMHd1WVBhUTAtcWlTeHotbm9FZFk1QVhUU1JaY3Jyc1hpS2FfdzFwTXVWTHZacnJZRXUzYlJr0gH6AUFVX3lxTFBOWjVVZ0NIeGVVQ1pqNHJVZ2lmbWxMSzBpVlZIRWw0RUlVX2o3cTRVR1VGT3NSNkNaSTBEX21lNDJKWjRFLTBYd0kxX3FFWEF1WEpvOWNzT054cmdibDg3ZGpjVXUtLWdtTEZGRU82aVNKMXM3ODBsSjNlLWpjNkZRa0hiY2tjRzlSTTdsbGVHZFZ6MzJ2Vl9SZTNtOVlVY29ZZ09DYlRNVFNVRkloTWpUMXEwc1VaakxLeEVUMUs0aGlBbzEwT3RZWmE4bG5iQlN6MXM0UXk2V19OQ0diVHNURUFkcjZabWRHLVlBNlJQTlZzS1dReDhRZFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shiv Sena (UBT) MP Rajabhau Waje says 'did not rebel' amid buzz over MPs' loyalties - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcV8zT0NTWGV3NEg4azhHdC1ucE9jamJkNU92MWtiZ096S3l4TjhIWUxfdmpmXzYxRnVpRXNWLWkzMngxWXVCb3FCdG02cFYxT2p5ZXE0ZkY5b1FTOGxKR3pkekFrTUNKbVluWk82YWxOYWlyM0lIOTg5Y1J1T0pEbDRPT201T0dZWEdTZGFzNEpMMVRmaFIxRDJsb21tUWlCVVAtT21JZWRLeVBlYm1uYTFPbW1hWW1BTnpVUk5RX3RzeHdpTW1sUWtLR0ZFSUpVYWt0ejZFVFBMZw?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -280,31 +374,23 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Nepal General Election - News18",
-        "source": "News18",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - W - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHdCZVNkMkVzaXlpcUUzWGRYM2dtTXF3LS1CN0xWR1lpRWFXYmd1cXc3ZDMwcHVPVmJ5VVpxdXRFNW1NdlNWYWdLYzV5Z0RBX0xoVlhZanN1NjdxTURBZllOeVZHWk1XdWlaUklTa1BxM2J0NnpqOGxLMkxNVnpVVHZRMm9sTllhbnZuaURGSlFtNnpI?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWhqZGMwQzRIeWhxUjg0Y0JDRXdTMUpUVTVNUDByZFdKZUxjSGhYTE8tVFhyQ1pWZ3NOcGktVm5Yazl0NV9UcXFQM0Z4SXFoU1dZMEg0c2g2bE43aXJiYlc1YzRfREtpNFgtM09xc2Z1ZXF4RkR6azhGMGhHbmxEZDRTTDktcEk?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Sinnar Assembly Election Results 2024: Sinnar Election Candidates List, Election Date, Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Rajabhau (Parag) Prakash Waje - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU1jd3Z6YmFYc1hFRFdOMGZ1V1lGeEhlSzZSaXV1aXQwLWllMVplMUJLN3JhN1QtNXdDSlF6U0RPdmtUSjE3QjgtdmJpdXVTMnUxU253SXpVZ3ZzU1BQM0NDdUJSWUN4Q1lrOFFGeG5SWlJycHRTYXhhaDk0Q2lyU2RwZWNNSjVzT1hkb1FTd2t5YlU?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Nashik Election Result 2024 LIVE Updates Highlights: Rajabhau (Parag) Prakash Waje of SSUBT Wins - News18",
-        "source": "News18",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXMyVzVDSGJhTFdFS1BiYUdLX2U4VE51R1hOTUhTUld1OFdqMXpwSldmOTRyM3RKSGMweFFfZGdRanRibjBjRy1Ra2Nfa0drdDFXSFZvc200NFIxdFJsem93NnRvSi1LT3FqX2Y0N0JDYUV6RVRMckdqQllJaDRHdXNfRWVKNlk5cmhFczBzaENyemRTLXNSZE1IbTlMUmRzUWI1ZHBVRUlOWFcyMm5HN1FuQ1lYak1NRTR5N3BnME9BeG5wNHk3QVpwWDlwU08zdmozS2pVV0VlZEptX2xEZNIB5gFBVV95cUxPenZJTXFWUngyLW1iQThZYWR1NGNtLXNRQjlfeUNQbl9qb1VMZUNXQkVRMmFGempuc281RTk1eVpQM19BVjlUQUxUaGhlTE5sZVpFa2twSC0ycHZaVXNLWjctY0F4aWNjeFdXUWRwRW5EcENleU5nVUwydjlQUXdtUElPR2lPX3FmeThpQlBVakNyeUc3VHNGTC1oYWRJOVhjMzBkbkpGVTlCZW1ISklVMlJfTXo0b1BRTUt2dWdYNy14RmM2UF9uV3Z2QXVmNEZ6U2ZYeHB3RE5aTmR0dVJ2eVIyeUQ2Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcEZJdmpEU3BTSF9QOGxaUXk3dGE1c1V0V01kaE9kVUliSGhBLTdDdzk0S2xlVzktNmJsWml3b1ZkVklYaXlQbmQtVEtDcDJhQmpmb3pReUVZdU55cVFXdEJNSmF0NFVseWJrUUlFYm9WZnhMX0RmTEVmNEFOeWloTjlZNEloT1YzdzRNb2gwbW9iV0hHSXdn?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 7,
+    "starred_questions": 2,
+    "unstarred_questions": 5,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 13.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

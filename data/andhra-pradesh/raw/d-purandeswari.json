@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/4022.jpg"
   },
   "criminal_record": {
-    "total_cases": 1,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 1,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 625041146.0,
-    "liabilities": 69860440.0,
-    "net_worth": 555180706.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 87.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.65,
-    "expended": 0.74,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:13:03.648645Z",
-        "notes": "Official eSAKSHI REST API — Works: 29 recommended, 27 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:54:50.733656Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:50:44.101668Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:50:44.098484Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 29,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 5.034013605442177
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:40.471867Z",
+        "fetched_at": "2026-09-02T14:50:44.097450Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP Smt. Daggubati Purandeswari Visits ICAR–DFR Regional Station, Applauds Floriculture Research Efforts - Indian Council Of Agricultural Research",
+      "source": "Indian Council Of Agricultural Research",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHI4ckFXOGd0d2tCYzNwcHZtcFdjbnp6c3ZyNmFZRHFmVlZEbFJBNENfZWhtdWR4WnZDaE5NeFU5eFVEMENCQkJNY21STzZLVmlwQnhEa1FhTjJhVHF6U1RmdDA1YjJCWGw5NjNrNHVRM3VWOEF4XzNmUFFMSUZLYUhaVy15VGQ0Zjh6QTJqMnk1QVlmQVNoc2FHazc4Mk44VTZZcThpN1o5ZTlUd29teldQVXBaWEVvM3V4eA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP D. Purandeswari calls for alternative road access for East Godavari farmers from upcoming railway boundary wall - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUFJoNWE2VTU3Uk5ZRUZlVHNBYjB4SjdxR2FqZnVtRHAxTW9IejZZM25XS1B2b1kxbzFYR2E0UmpEMklJMHpxaE40eWZMRWNzdnhFT3ZDV201QkwySm5Qc2k1bDJMRndvSTZzb1N2cFdWM2NEb2JzUVJacEI2d3d6eWRGRHlIRER4RGp5OVM4cGwyNzdTUUdvVFMzVkFIc2VCWlJvSnl2cEJmSEJ3eXd0eU93cUVXaTZxQkZHdjRUMnRvQ0NuMl9uRXVJOFhVX0xseFRnVENVeHRUWWItZUJOaUh3UGxBbzNXbFU1SXYwamlCQ0Mydjc0a0xaUHJObExIMlBweTRwWEJQbmJhdElpdUJDOWtKUdIBnAJBVV95cUxOdG5NZVZfVlJvemYxOUM0VXZxTTAxdU12NjFtbG45WnlLYmt3cllodm5iNkdVblFYakFFQzVXX213T3FUMU1GbC1IczJmclBZbW1CcFZlclpyaWxMNmREZ3lWSTBPUDdHd1pDTk01WFc0YWRoc2ZVLUUwU1BuZWVUTDlobGJZQ21qcmQtSUZDS2dxRjJvSkc0Q2ZIN1Y1bWI0MXdYTFdsUVQ1QjYzd092VXl0ZUIyaVV6VXJFb3JwZ0J1dXNxSWRpX1Q0WGNpb1NrOU1PZ0dfekwzZGFMNWdBZFdCcUNzdlBETVNkMFdvR0dJc2hWb0ExcUZjemthNjJFY2RJREhDc3J0V1BNd3dJRVFDSDZkcTRRdm5XSA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajamahendravaram MP Urges Curb on Hormone Injections to Buffaloes - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaGlMdHM1cU4weVZmNU5pRmVVbndKUjQtd3BLeUdUeEdRcU40bzl2OGE3OVR2bkc2ZE02QkxTZVJYay1GYnhKM2RERmxNTmNEbDZQeFlUTDBPUGFabEFDZV9EZnFsTlNXWU40NXAyUnFwZ1RnRUxJNzB2bGZrNkFHSFZhMHdNTVhxeHdxa2NEbUlNY2NqU1FCZGVRcDZmc2tCV041b3d0UHdQemhHM3RBWFJRVzFaQWg5Y1AtbGNhdTdDZmdtbGNremppNGhKYWtiWUIw0gHYAUFVX3lxTE5rcUtTWkJITW1RaFJmRnZVemNyVllfeTdVWXlNUkFhN0J4aXFvQ0EwUGljVmJ1cldqcWd3cXBpbjJ1Rmp1VmdJQ3pBMzZWX3FsRy1leTZybHBZc3c0c1Q2R19DbkRNcTg3enRjNU5PODZCSlNmMHBaUk4tWVpqOEpqdF82QlM1eW5YOTFXMlRGaURLV1IwSHdCLWt6SXFjR29XZ2UwRUNvdFF0SGVFN0ZFSTN6eWJXbFVVS3hHeHBUOVEwLWFwNWE3VENtdEkzakh2ZXp4QURzTQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Andhra Pradesh BJP chief Daggubati Purandeswari among probable Lok Sabha Speaker picks - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUTN0Nlp6YlpIbUFwZzBiRGg0dDBHaEJjanJ1WDB0Z1JjdTdRa3FIc3ROMklzcEJ0WktPVFh3dlRZVkV5a2t2ZzFzbWFPZVR3cS1kTkRKSHVYblI3ZlN6Y1dvMEp4bHBxVzJQVFE2bFJvbkYxR1VqT0laTUs2VVpOZFYwcTZpckQtaTZxWlpPTExoV2NDc0IyNXpnLVpWdUUyeXIwSFNTNFFWcHJlbDJsR196bEJBMGZZUU1OMzk0M3M2OVBUWWduN9IBzgFBVV95cUxOVTU3Y2lpc05mWFpnaWw5cUMxdWFWeTMydWIxaTV2cFlhVnR6REZPU0J5T1g0Q2xUbk5tSmMxTkZwWEV2TEg0TXZpUW1BNWVmU0hvRG1yY3JMS1lndmZHMk54emNibU1vUWdnZk96U0VMYTdBZ0F6MGJ0QW1kRnpYbXowa1FaWmxLT2Q2TDZFbXA5eDN5eGRWSkVmcGhBUlVGVjVveXVfUE5oYUNwN2xlUE16QmduYUNBOHRVbUxBT1lBM1FNeklFa0hoYWtrdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Intense battle likely between Daggubati Purandeswari, Guduri Srinivas for Rajamahendravaram LS seat - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZnRDdGk0dmozSXFiVmNLVWhsUEFCTzVOZWZlRHBnN0FkcXRNbDhMZXFTS0F3SWh6RWJQUHBJeTlOd2JjUW5oSkJTVGpaVVpfaGdjOG5JZ2R0U2xVLWh4anpMbkxpczhGQzJhV3RjM0VoU2c5aU83YmdsOXpYRHBlNnJqdEhLWEROYmZZR29uY19rNktRT0llaS1oV01JSk9xOUVXQUxuTjJMTGV1ZV8xdFpPVDRmZkNWQlpXNmFkNHFaalpVUTR5WFBIYnFOdFBjaVNXY21hRk1qUHVIWk5EYTR2aG5EVVFiMTJIMncwSEdaVW5mVGZGWtIBhgJBVV95cUxQSloxS2gwdW5QLTB0Y3JxeHJyb0VqUkNZOThlS1lNQ1hUU1RvVkZsN2taWWF4TXl2SkN4SjJNYzdGMWx3b29VZ1UwQjR4eThITHVtVnNnYXMzSXFUaVluSXFOY3NMSlpEcjM3R0xzYkQyY2JjSzdza0lZYkJTZVhmUndsVXJPMC1wZTVFbUFUQW9hYlNKdFYySU5uODJybGtfbFh1UXpwOUVwZHBmMEdIVWlyZDRaWUJJMXptYks3Z3k1V1JKOE1neXBmSWN5eDlSR2dCV3pQd016OE5TVFoxOGhJOTIxTmljUGpZWDNJdjV3XzVVbmZsZXMyTXNOSHpQY3pEVUdB?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:45.573992Z",
+  "collected_at": "2026-09-02T14:54:50.734771Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.342080Z",
+        "fetched_at": "2026-09-02T18:38:03.842702Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.342094Z",
+        "fetched_at": "2026-09-02T18:38:03.842713Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.342102Z",
+        "fetched_at": "2026-09-02T18:38:03.842718Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.342110Z",
+        "fetched_at": "2026-09-02T18:38:03.842723Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.342119Z",
+        "fetched_at": "2026-09-02T18:38:03.842730Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.342125Z",
+        "fetched_at": "2026-09-02T18:38:03.842734Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.342134Z",
+        "fetched_at": "2026-09-02T18:38:03.842739Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -253,6 +309,14 @@
     "neutral": 10,
     "top_headlines": [
       {
+        "headline": "MP Smt. Daggubati Purandeswari Visits ICAR–DFR Regional Station, Applauds Floriculture Research Efforts - Indian Council Of Agricultural Research",
+        "source": "Indian Council Of Agricultural Research",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHI4ckFXOGd0d2tCYzNwcHZtcFdjbnp6c3ZyNmFZRHFmVlZEbFJBNENfZWhtdWR4WnZDaE5NeFU5eFVEMENCQkJNY21STzZLVmlwQnhEa1FhTjJhVHF6U1RmdDA1YjJCWGw5NjNrNHVRM3VWOEF4XzNmUFFMSUZLYUhaVy15VGQ0Zjh6QTJqMnk1QVlmQVNoc2FHazc4Mk44VTZZcThpN1o5ZTlUd29teldQVXBaWEVvM3V4eA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "MP D. Purandeswari calls for alternative road access for East Godavari farmers from upcoming railway boundary wall - The Hindu",
         "source": "The Hindu",
         "severity": "low",
@@ -269,27 +333,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Purandeswari frontrunner for Lok Sabha Speaker post - The Times of India",
-        "source": "The Times of India",
+        "headline": "Andhra Pradesh BJP chief Daggubati Purandeswari among probable Lok Sabha Speaker picks - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGJmRUREWUtpUmxWV0d0MUZKX1VKaGNPdWpfZVdVUWVBVkZrWG5lWE52bjVTb1FxYXZEVDhOeUVhV1BORlctMHRQWnFyTUJMNXVodHgzc3F1bWZ4SDExNnF6My13MHVyVmFlYWVYYlNBU0huTXA5N2lPTEgybmVqd2lpc0gyeTRrSm9IQ19FV1JJQVdfNjVRMV9vZUVldEJvc0FzelFkczRIa1k2djlJS3IzUUNVMnNROFJGQXRzZ1FOU3RYNjVlalloWlXSAdIBQVVfeXFMTjFDZktsYnNyaENsQ1d3RVNvb2pwaG8wOHdxbzg5a0N0VXlvNkh5dWZHMzZ0S3BrNFQwcGZCTHMxQVhtM3lLM3Q2RVVkSEhidU5PTFV1TzBxd0lJVFlvSEZoUld6V0N2SnF6X0hrZXhiR3VMamctdmtkdHA2Z3F2dGwtaExhSURZWUE5LXNidXJqTnl3cDhLc045QXZHYnRqQkVHY3E2alZtWHRkT1ZuSnRISEYzelZTcTVmcm5aT0VWYk1zU1pYVUxidjRKUjdNRW9n?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUTN0Nlp6YlpIbUFwZzBiRGg0dDBHaEJjanJ1WDB0Z1JjdTdRa3FIc3ROMklzcEJ0WktPVFh3dlRZVkV5a2t2ZzFzbWFPZVR3cS1kTkRKSHVYblI3ZlN6Y1dvMEp4bHBxVzJQVFE2bFJvbkYxR1VqT0laTUs2VVpOZFYwcTZpckQtaTZxWlpPTExoV2NDc0IyNXpnLVpWdUUyeXIwSFNTNFFWcHJlbDJsR196bEJBMGZZUU1OMzk0M3M2OVBUWWduN9IBzgFBVV95cUxOVTU3Y2lpc05mWFpnaWw5cUMxdWFWeTMydWIxaTV2cFlhVnR6REZPU0J5T1g0Q2xUbk5tSmMxTkZwWEV2TEg0TXZpUW1BNWVmU0hvRG1yY3JMS1lndmZHMk54emNibU1vUWdnZk96U0VMYTdBZ0F6MGJ0QW1kRnpYbXowa1FaWmxLT2Q2TDZFbXA5eDN5eGRWSkVmcGhBUlVGVjVveXVfUE5oYUNwN2xlUE16QmduYUNBOHRVbUxBT1lBM1FNeklFa0hoYWtrdw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Intense battle likely between Daggubati Purandeswari, Guduri Srinivas for Rajamahendravaram LS seat - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "Intense battle likely between Daggubati Purandeswari, Guduri Srinivas for Rajamahendravaram LS seat - newindianexpress.com",
+        "source": "newindianexpress.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZnRDdGk0dmozSXFiVmNLVWhsUEFCTzVOZWZlRHBnN0FkcXRNbDhMZXFTS0F3SWh6RWJQUHBJeTlOd2JjUW5oSkJTVGpaVVpfaGdjOG5JZ2R0U2xVLWh4anpMbkxpczhGQzJhV3RjM0VoU2c5aU83YmdsOXpYRHBlNnJqdEhLWEROYmZZR29uY19rNktRT0llaS1oV01JSk9xOUVXQUxuTjJMTGV1ZV8xdFpPVDRmZkNWQlpXNmFkNHFaalpVUTR5WFBIYnFOdFBjaVNXY21hRk1qUHVIWk5EYTR2aG5EVVFiMTJIMncwSEdaVW5mVGZGWtIBhgJBVV95cUxQSloxS2gwdW5QLTB0Y3JxeHJyb0VqUkNZOThlS1lNQ1hUU1RvVkZsN2taWWF4TXl2SkN4SjJNYzdGMWx3b29VZ1UwQjR4eThITHVtVnNnYXMzSXFUaVluSXFOY3NMSlpEcjM3R0xzYkQyY2JjSzdza0lZYkJTZVhmUndsVXJPMC1wZTVFbUFUQW9hYlNKdFYySU5uODJybGtfbFh1UXpwOUVwZHBmMEdIVWlyZDRaWUJJMXptYks3Z3k1V1JKOE1neXBmSWN5eDlSR2dCV3pQd016OE5TVFoxOGhJOTIxTmljUGpZWDNJdjV3XzVVbmZsZXMyTXNOSHpQY3pEVUdB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Govt giving priority to infra development: Purandeswari - The Hans India",
-        "source": "The Hans India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZDAtaTVNb0dWTEwzMlZtcnZKdy1KOVRuOGpkdXBDR29ZaFdocHBCQTN5VExNXzN3dkNDS1lSemJPak9xYzZ2anpGVTJuTGV2RjR2TW1Tdm0wNDVWUDZ5RGFrbThIaXNKN25HSHZBWXVTQ1JZSmtWckZjM3A3OUUyY0VlVEpjbUFJLUtucVhwY0lFV1NWb29mUkNETDRXSkt0bDA3aTdoLXLSAa4BQVVfeXFMTl9iUU13ZlpYam55MmJnSDlOTjFHaXdaWnBwT3IxVE5Bb0tYNDVuQktfa3ZiX0lOSDBXYU1Vc2FxQUVMN2dXZE85RDFsNk5jc21tdnJTWUYyOURKMUU0TzltbndCV29vX3VzUGF3LVZ1REt0ejR5WnlNQXRqb0VOUG0yU2Z5cjBBaXBGLS04OGprMFc2azQ5TGhUZVN4REppYU1Qd2Y0REVxUE1oQ2d3?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -323,15 +379,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 41,
+    "starred_questions": 12,
+    "unstarred_questions": 29,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 79.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

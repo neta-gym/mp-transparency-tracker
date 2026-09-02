@@ -3,22 +3,20 @@
 **Constituency:** Karakat, Bihar
 **Party:** Communist Party of India (Marxist-Leninist) Liberation
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** Literate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (24%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.6 / 100
+## Composite Transparency Score: 61.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 31.8 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
-| Parliament Attendance | 60.0 | 10% |
-| Questions & Debates | 70.0 | 10% |
+| Parliament Attendance | 95.0 | 10% |
+| Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
 | Public Accessibility | 15.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
@@ -38,31 +36,30 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 26.18 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 26.18 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 2% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 6
-- **Utilization Rate:** 39.8%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
 ## Parliament Activity
 
-- **Attendance:** 60.0%
-- **Questions Asked:** 31
+- **Attendance:** 95.0%
+- **Questions Asked:** 22
 - **Debates Participated:** 5
 - **Private Bills:** 0
 - **Is Minister:** No
@@ -77,28 +74,41 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - LUCC Scam: Victims meet CPI(ML) MP Raja Ram Singh - cpiml.org (cpiml.org) [neutral]
-- Drop introduction of HECI Bill 2025: Bihar MP urges Kiren Rijiju - Careers360 (Careers360) [neutral]
-- Karakat Election Result: कौन हैं राजा राम सिंह... जिन्होंने चुनावी मैदान में पवन सिंह और उपेंद्र कुशवाहा को किया पस्त - AajTak (AajTak) [neutral]
-- Raja Ram Singh , CPI(ML)(L) candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
+- Workers cannot be treated as expendable: Lok Sabha MP on Oracle layoffs - ETHRWorld.com (ETHRWorld.com) [neutral]
+- Number of people living with HIV on antiretroviral therapy rise by 31% - The Tribune (The Tribune) [neutral]
+- Education Loan: PM-USP scholarships up 31.6% nationally, but J-K and Ladakh see 10.9% drop in 5 years - Careers360 (Careers360) [neutral]
 - CPI(ML) MP flags delay in getting allotted house - Deccan Herald (Deccan Herald) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **LUCC Scam: Victims meet CPI(ML) MP Raja Ram Singh - cpiml.org** (cpiml.org)
+- ! **Workers cannot be treated as expendable: Lok Sabha MP on Oracle layoffs - ETHRWorld.com** (ETHRWorld.com)
+- ! **Number of people living with HIV on antiretroviral therapy rise by 31% - The Tribune** (The Tribune)
+- ! **Education Loan: PM-USP scholarships up 31.6% nationally, but J-K and Ladakh see 10.9% drop in 5 years - Careers360** (Careers360)
+- ! **CPI(ML) MP flags delay in getting allotted house - Deccan Herald** (Deccan Herald)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Raja Ram Singh shows moderate transparency with a score of 56.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Raja Ram Singh shows moderate transparency with a score of 61.8/100. No criminal cases declared. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 2,617,500. MPLADS utilization: 39.8%. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 5.
+No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 22. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +148,7 @@ No criminal cases declared. Declared assets: Rs 2,617,500. MPLADS utilization: 3
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +227,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Raja Ram Singh's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.8%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +244,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

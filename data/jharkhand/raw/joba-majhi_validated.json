@@ -4,16 +4,16 @@
     "constituency": "Singhbhum",
     "state": "jharkhand",
     "party": "Jharkhand Mukti Morcha",
-    "myneta_candidate_id": 5157,
+    "myneta_candidate_id": null,
     "slug": "joba-majhi",
     "house": "lok_sabha",
     "sansad_member_id": 5827,
     "profile_url": null,
     "canonical_name": "Joba Majhi",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 60,
+    "age": null,
     "photo_url": "/mp-photos/5827.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Singhbhum",
       "state": "jharkhand",
       "party": "Jharkhand Mukti Morcha",
-      "myneta_candidate_id": 5157,
+      "myneta_candidate_id": null,
       "slug": "joba-majhi",
       "house": "lok_sabha",
       "sansad_member_id": 5827,
       "profile_url": null,
       "canonical_name": "Joba Majhi",
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 60,
+      "age": null,
       "photo_url": "/mp-photos/5827.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:20.667239Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 22860659.0,
-      "liabilities": 620000.0,
-      "net_worth": 22240659.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5157",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.287498Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 19.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 6.0,
-      "expended": 4.64,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:59.206914Z",
-          "notes": "Official eSAKSHI REST API — Works: 118 recommended, 88 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:35:12.512581Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:31:27.886827Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:31:27.884101Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 118,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 31.564625850340132
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 55.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:23:17.397872Z",
+          "fetched_at": "2026-09-02T14:31:27.883007Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Jharkhand: JMM’s Joba Majhi to take on BJP’s Geeta Koda for Singhbhum Lok Sabha seat - The Avenue Mail",
+        "source": "The Avenue Mail",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3pNbnNtZE9EbFJYU011TWx0TWZxTW9LdDRWcy1NQ2NHZlhXc2FGdWNGRExEZ1N4ODRIRDl5UW9sU1ZGSmlTazNlMi1UakxLYkkwYWhzS1lHT25RZUQzZ1FkSTFmWDRudDA2SWZ6dGwzb3pfLVhabktfOWxDUHRBLWlDZlROYXQyNnZzVldQWFNZcktTYXN4S0xXTlNTLTFCb1VBcXBLZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Singhbhum (ST) election results 2024 live updates: JMM's Joba Majhi wins against BJP's Geeta Kora with a - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaVFFeFAydVBwbkhVQ0dNSEhrcGh4V081aGZxbVF1eHhGYWJ2Nk5PSlpSSzJJNzROSl9EZGR1WnRqSThacmNYd01yVVlRWG9rZ2cyMU9OX0Rhc0NWMXB3R1hFLVQxa0hCZ2tyVm9SemZZdmRXOV9ySjdWSkl0OUE3NF9pbGlfT19XaEpZWktlOGlYTUw0OUNTSjVaSzJyU19KVWMzb1VFVm1sRjg2UjNEUGNhaS00Q3hUb0FoVjhJb3ZjS1FMZUpFS1lVOVNTUWZMX3hzNFpyajBSV2swcGc0WmRxM3cwVnVrVURDV0lCeUdLengxSV8xN01tMWdkd0NRWGFtaWR5dmJ4UnRzVzFLS0VTQXZ0Y0RwYzFTZUhGb2vSAaYCQVVfeXFMTk9yOF9aTnBIQWY4d0VkbHRLdG5aa3pUMHd3NS0xb21HTXpRWVZ6VjN5d0pWTUprX0R1NjhTQjBZOXJ4aGQ2ZHNMRklkNEFNeVJ1UjcyZ1BOVmd5bnFnc01MRm1ISXY3czNiYjZUel9LaXNOZ0t2b045TGxXSEl6ZFZZalR4UHhNMGtlNzdMMUlscHl5Q2J2c2pWUUlUUF9rMFNvYlJ1NlRfcm55OVRQdEVTZE9lSHZ4VEE3Mks1ekhfNENjcnBkaGZ0ME04dUxVajZPUUp4cGsxLVhObVVZbVhWT0NQMGUtTHA4ekFKcnhjU0tOYVFCaG9pYXJSU3BtbFBLWllkRzE3NDlsTEx1WXF5c05DLUhfN2RHNHJrMk9UeXdRWFVn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Joba Majhi - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWG9CRkR5MTdtdjFWOVc5WlZ5U0ZhTG9sUkY5NWI0d0NKWTNweVVWNngzOXkwVnV6QjBJVnZFcmoyTGpxOTlwdHdSclQ4eENPaGpVd2VOMkRrRmdTT1FESnNvaUdPQmVXM1I5Q3Y2NTlVNmFJemxkaUdYQVE3NDl5WQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "JMM to field four-term MLA and former cabinet minister Joba Majhi from Singhbhum - Telegraph India",
+        "source": "Telegraph India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMTVJakZMTUVDMjZmUHpSRF9YNHh3ZXFhZW5QUzh4VGF2Rk93SFJXTXo4ejJhWm1jd3ZPR0xXNU5Ebmprdmt2bEFyTkNIeW0wVDRhd1JHX05BTUFrdEw4OU1JblhyLXRpT1owMjJvc1lRVm96V09JaGwzM2lvTlhVZ1JNV2hJRF94ZTdJUmUxQnNGYUZ4T05JSzdMWEJqSFJmejEzeU9WN3dvQzN3UXpaSUZKcE5ZakdnaEpweHlLc0ExVWwtOGdpd0dRSGZ4VnZ3QXl5ZnlnNHZUNVhUUFpLa0hDd0pkVjNQUnRGUlVMdnNrM0Frbk10WlgzcXVXNTMxMGx5YTBvbE1yOGZNbUNZaHNB0gGXAkFVX3lxTE91NkR0dmozR0VSakppMmhMQnRTNnJEVzR3RjVqOEFyTFZJX3dKRkhtVkZkWng0WjVEOTBqb3VxUmk3X2lJOEhiXzB0TDJRWUhhV1FpU3ctXzY2X1NEVVQ0dUhrWWlpZHdUVkc2QzZIMHRtSlFRZkVrNWRIVklKUE9RbG94T0NsUWFlRC16Q3A2SC1sWlR1UWVzTkF3UkJKLWNnZmZXN0x0cGdwVTBVeTcxOHMtRXJKNlJoYlRJN3ctMF91cDBmdk1kQjRWXzlRbjZmMlJCaDhUQmg0ZlpDUUpKekRzX19pYk81UmFDbXhjdEJYRms4WTduRkZ0ZFo3QkhPV1lSbTJOUXhRbFc2RlEtRnVGQnFYQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Singhbhum lok sabha election results 2024: Singhbhum Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTlpuNjJ0bmtPa0pldjhjcE1BX3NXRGE4SV8zZ2N3M01FaVNFUlJ4bjVzM0t1d2xEbHhGNkVvWDh5MUwwQ2tlRFhVbUtWd1hySGxTWUljZEwwUGQyZmNtSkM2N0paSnllQkRFUHpjLU0zQkZ6OVl4RzBIWXdMdTcxODhkeVh5MWt2dFJnWXNPd1BQOGxyQXc?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:24:17.095896Z",
+    "collected_at": "2026-09-02T14:35:12.513585Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.689304Z",
+          "fetched_at": "2026-09-02T18:38:06.289751Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.689319Z",
+          "fetched_at": "2026-09-02T18:38:06.289761Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.689326Z",
+          "fetched_at": "2026-09-02T18:38:06.289767Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.689332Z",
+          "fetched_at": "2026-09-02T18:38:06.289771Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.689341Z",
+          "fetched_at": "2026-09-02T18:38:06.289777Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.689348Z",
+          "fetched_at": "2026-09-02T18:38:06.289782Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.689354Z",
+          "fetched_at": "2026-09-02T18:38:06.289786Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -276,19 +329,11 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 9,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
-        {
-          "headline": "Ghatshila Bypoll: JMM Women vs BJP Stars in Key Election - Deccan Herald",
-          "source": "Deccan Herald",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM09aYTRHN3ppWHhmT3VuTlRVWmdtVllINjFOcmhGZi0xb0J2RWdHcFdOVWM2NXczajJNZUZsOVZRaHl1NTdleWJqbGZuazdITDhvdi1sU29wdXo2OFI0a1ZqXzNTRlI1WEZuLVEwUDRlTHFlTU1JekNkN0l2QVJNczk5TzEzSzV5bFdiS2hWdzdEOE43QjhReC1UWXBERW1vd0ZPUThKMXUxc1I4alZQcG84Q3B4ZzItZ2NRVm9wQUZMOFEyWlpZd2RaZ0hoQW8?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Jharkhand: JMM’s Joba Majhi to take on BJP’s Geeta Koda for Singhbhum Lok Sabha seat - The Avenue Mail",
           "source": "The Avenue Mail",
@@ -314,15 +359,23 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Singhbhum Lok Sabha Election 2024: Turncoat Geeta Koda to take on JMM's Joba Majhi - India TV News",
-          "source": "India TV News",
+          "headline": "JMM to field four-term MLA and former cabinet minister Joba Majhi from Singhbhum - Telegraph India",
+          "source": "Telegraph India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeTdHTFB4a29YdGk0VUw4dGt6MGZiNm5UbURHbXVFcFVmNVlWdS1TenEtQ3ducmd5QzkteDl1Q3MwWU1ta09PVmYwR1lMRFNnSTMzNk5xc1ZWZlF0dkw0Wjc0TWdfOUR4STYtelFiVDBFY2w4dEZaYTE2YTQ2R2ZYbDVjcXRTRkk1cTd1TzZEdEZpMHMwNTZnaW04YnN0VHk1ZGZUTGFxQzFVbXBvcHhOYzZHU3RhLTUtVUJoNndYeUtPRFRmRkZIV3JJamVMSFZiZzg3Vko2VS1CQUZnOWpMSzZXREZ2bWxQWUI4akI3SDBLWkZJcWwyV0lTVEphUmh3OVg40gGIAkFVX3lxTFBvckFFc3ZJdVZINWU1cnJjS3dhbmtOajZGOWpGdW9KVTgycmtMaHJkTDRoOFpzYjJKb3JEOVE5anUtcUN0UVliRXJkWEVKdW5yOWRZRDAtVk1KNnhFMHN2LWRCZ3otTW5yRTU4RmJ5M1V0Z0tUSVF4b241V1hLU3JhTVJzenNmeEliZEFfNFRBZ1JzbEZxOTU4dDc2d3ZyUFVZMHUwNTVwb2g5SEdMOFRjOUw0dmluVWcydFVwMXcwc01fVGJzc0hza3RVc0doQktXN2R2YTA2N3R5X0R6Uy15a0R5OVJFX1lNMzFQZ3ZIelM3YzZuUnNDdXZOZV80YmhFUzM2eXdWOA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMTVJakZMTUVDMjZmUHpSRF9YNHh3ZXFhZW5QUzh4VGF2Rk93SFJXTXo4ejJhWm1jd3ZPR0xXNU5Ebmprdmt2bEFyTkNIeW0wVDRhd1JHX05BTUFrdEw4OU1JblhyLXRpT1owMjJvc1lRVm96V09JaGwzM2lvTlhVZ1JNV2hJRF94ZTdJUmUxQnNGYUZ4T05JSzdMWEJqSFJmejEzeU9WN3dvQzN3UXpaSUZKcE5ZakdnaEpweHlLc0ExVWwtOGdpd0dRSGZ4VnZ3QXl5ZnlnNHZUNVhUUFpLa0hDd0pkVjNQUnRGUlVMdnNrM0Frbk10WlgzcXVXNTMxMGx5YTBvbE1yOGZNbUNZaHNB0gGXAkFVX3lxTE91NkR0dmozR0VSakppMmhMQnRTNnJEVzR3RjVqOEFyTFZJX3dKRkhtVkZkWng0WjVEOTBqb3VxUmk3X2lJOEhiXzB0TDJRWUhhV1FpU3ctXzY2X1NEVVQ0dUhrWWlpZHdUVkc2QzZIMHRtSlFRZkVrNWRIVklKUE9RbG94T0NsUWFlRC16Q3A2SC1sWlR1UWVzTkF3UkJKLWNnZmZXN0x0cGdwVTBVeTcxOHMtRXJKNlJoYlRJN3ctMF91cDBmdk1kQjRWXzlRbjZmMlJCaDhUQmg0ZlpDUUpKekRzX19pYk81UmFDbXhjdEJYRms4WTduRkZ0ZFo3QkhPV1lSbTJOUXhRbFc2RlEtRnVGQnFYQQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Singhbhum lok sabha election results 2024: Singhbhum Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTlpuNjJ0bmtPa0pldjhjcE1BX3NXRGE4SV8zZ2N3M01FaVNFUlJ4bjVzM0t1d2xEbHhGNkVvWDh5MUwwQ2tlRFhVbUtWd1hySGxTWUljZEwwUGQyZmNtSkM2N0paSnllQkRFUHpjLU0zQkZ6OVl4RzBIWXdMdTcxODhkeVh5MWt2dFJnWXNPd1BQOGxyQXc?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 11,
+      "starred_questions": 3,
+      "unstarred_questions": 8,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 21.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 55.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Jharkhand: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 22,860,659. MPLADS utilization: 31.6%. Parliament attendance: 55.0%. Questions asked: 11. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:48.691607Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 55.0%. Questions asked: 11. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.290523Z"
 }

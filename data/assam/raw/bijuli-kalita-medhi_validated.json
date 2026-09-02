@@ -4,16 +4,16 @@
     "constituency": "Guwahati",
     "state": "assam",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 4548,
+    "myneta_candidate_id": null,
     "slug": "bijuli-kalita-medhi",
     "house": "lok_sabha",
     "sansad_member_id": 5603,
     "profile_url": null,
     "canonical_name": "Bijuli Kalita Medhi",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 45,
+    "age": null,
     "photo_url": "/mp-photos/5603.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Guwahati",
       "state": "assam",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 4548,
+      "myneta_candidate_id": null,
       "slug": "bijuli-kalita-medhi",
       "house": "lok_sabha",
       "sansad_member_id": 5603,
       "profile_url": null,
       "canonical_name": "Bijuli Kalita Medhi",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 45,
+      "age": null,
       "photo_url": "/mp-photos/5603.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:07.513078Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 16189751.0,
-      "liabilities": 0.0,
-      "net_worth": 16189751.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4548",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.415798Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 14.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.89,
-      "expended": 6.44,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:19:21.698270Z",
-          "notes": "Official eSAKSHI REST API — Works: 118 recommended, 84 sanctioned, 5 completed"
+          "fetched_at": "2026-09-02T14:52:37.802243Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:48:51.111098Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:48:51.108760Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 118,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 43.80952380952382
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:57.887446Z",
+          "fetched_at": "2026-09-02T14:48:51.107936Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Gauhati election results 2024 live updates: BJP's Bijuli Kalita Medhi wins - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxORkg4aXBEaUJGUktNbU1SYXhzRHZUS01jQkhtOHZzdDFTb3Z6SF9pTVl6d0ZVZVNoYms2Nkllc1Jqakljc0NuS1dWeEVpTEZjalgzMEF0b3ZRd3VkLTNWRzcwTWNJRGdMN3pqeHo1TzQwajdzdTU0cW0xeThLeHNfXzhqbXM1dGJRNV8xNThqcXhxbHBrNG9uYi1KWmU0aUtrNDc1TkY1c0c5T09MRG4wbzVQLWlDN2hkTWdqa1puRWRobmpsbV9uRDE4VWVhZVdGVlRVdjdEbXdYejItcDR1Njl6X3JfajdIU1Ixem93QXBuN2RYNG1ESUNKZVpyWFBSSnpVMDVwd1laZEJGU0llNlp1SzlBSjQ1ZXpSaWY1LTJ3X2pRenRkSnppY01FNzhIQWFuTWJFVXVuOVXSAcACQVVfeXFMT2NRQUZjUDk0WmVpcExwR0VwdmJsdGQ5b2xwbE5WOXVQSHJRNzdoenMxNUkwMGU0b19qTko3eEg2S2t4U0J5cGxPcjBFZ29QQUtzNllEY0k3ZE9kTWY1VXNLUFJtWDBEcDFadGJpdFd1cE8yV0VMam9yMVR5aW1oYmUzWmduNVRpUWwwMkZZWGdkWjVUZFpYemhWTjgxY29Pci1FZFdsNTAwTm9iaTAwV3J0Ti1yYjhuN3U4MzljeVM3aXpKRFRFTkozLXRjLUpWVGs0MEdEUUJTSjlPYXhpX1MtcndlSVRrTFROWTU1X2I5dGJibUZ2aHVXLWxOaVNvYW15Z0dQanFkcFBvTDdvOWltY19qQWdScE5yVUNXa0JXUjhLZngyNTd6UjVpdU82VUxlZkhOWGQ0TkFNNHJXOFY?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Assam: BJP MP Bijuli Kalita Medhi compares Guwahati flood to Delhi, promises changes - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWS14MUVaQ2tlcno1a2hIY25teDNXeFFia09JQ19JSzBwbS1zZzZuOFhOMzFpNGFUaHJtQ1ZvbDVBVjFNdk94NkkzSnJZOU1wOHZIaGRDcWtWelVscTFyMklvRmtEdWk5X3lsRWNnUVVWUVVKYnlxVzd6c1RPdk1FRDRUYXpKdWxDSjVjalpxbEJ3ellhVmxacThFelF6SFM0SnZ0R3JraUNaazBGc3FaZ0ZSemhiZzF6Tms1QWc3bTdoXzZ4S0dhbVRSQVpkT0hsRWV4TU1UUnXSAd4BQVVfeXFMUHB0TE54Ty1zcDl2WXYxNjNLbVNSZjRJNmtxcEJ4aEFwbTlHbEQwODV3Sy1oUS1oaFlUb0pLZlV1NUlpUE1xZ2NxdWFaQlpUVVNESGp4d2U4clh0elNaWm9TU1BDcVFhVVlHVmtfZGVaWmRnMG5iYmozMGQ1OTB4VDZYRVpQRGY2c0hnNVk3cjc5UDZHUkxLZUNpc1JIbTItMGxnNFlHZnpJZFd3V1dXY2V5dTAtWmxhRk1NMzVLMU8wNlMyaUljS0JKRUtCWEYzaDg4c2xNNTI3ay1rbktn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Union Minister Shri Sarbananda Sonowal flags off ‘Run for Unity’ on the eve of Rashtriya Ekta Diwas - pib.gov.in",
+        "source": "pib.gov.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNnpPc0FkS0VMUnhxTENjOXB1cU1tS0toS1JfLWZSMHpVZk1MSWJSazZOaDFJYlRCMTZpd09KS181Ty1zLXFGekhJMTIxTG13X0Q3M0pHU1R6YjdaMTk4c21Ob2ZoMzNO?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Guwahati MP Faces Public Dissent During Flood Inspection in Rukminigaon - guwahati Plus News",
+        "source": "guwahati Plus News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdEctekVnbm5YcURPcnp2R3BrNmI1RDU5bnQxTk4wdVhudHZudUZIOFNuTmNVeEtTM3dqTlFKM0ZJMVNWMnBzSW5sTUxOdV9WYmdLbU5TdDZzMTZqeVdOT1NXSl9GMV9sd0lpdE5VRmxzV3ZVaUZFd2xORVhIMENPd1ZZWWlwVlJ4UXJza2JUTkJKdUxfQ0czZXh5QUJZSFY4MWc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Assam: BJP candidate Bijuli Kalita Medhi casts her vote in Guwahati - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLWYzbjFyb1JQY0tuV2xfdlAyVWI1VTZlMFpURlZCaUJha3JheHRDSG93d0pkZVVoV1BHSUdTRS01ajRHbk1ScWwwaVR0MXhLclVycmVMR09Feno1c3d6ejRMd1FqU2c1eUpSek1YVWYteHlSbEN1dUktY0NHMkFla3BDWks0OUNBS1dRR0ozX0M4bUxpS2I5aU5Yay1obTR1OVF1ZWRvVDlxMHNMVHF1QV9MTlNvS043T1dHd2l0QXVqTzllVzU3cS1EaWp4UTJTWURucXpQMDlGSmw2d3BQQVV30gHnAUFVX3lxTE5tRWgtZFRPQm8wbWx2a1F0aHRzMGd3V2dPLWtTeGNpZzNUdkxzNWJNYTF1UDIyQzlLUVpoSkhlSFJmSkY5cVBxOGI5S2dmdE9MU1I5WlMzc2xwY1FxRXJCaE1tQ29Pdm81ZGpHRUVxM3R2SGpObE9YZTY1N1hITGhJdEpFamJGUmpiZGN3elZnSmVJQ3ZjNnczZ2tLWFdEVUE0bldEODM0UTIwbHlFanJYT2dERzhUSjhrcUNQUXFjZzFBVnVVSVg1aWhyNU9iSlZ6Wk1kaUhROWYxSzFzemRPWC1BZG9vQQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:59.319530Z",
+    "collected_at": "2026-09-02T14:52:37.803050Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.739253Z",
+          "fetched_at": "2026-09-02T18:38:04.196203Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.739268Z",
+          "fetched_at": "2026-09-02T18:38:04.196214Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.739276Z",
+          "fetched_at": "2026-09-02T18:38:04.196220Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.739283Z",
+          "fetched_at": "2026-09-02T18:38:04.196225Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.739293Z",
+          "fetched_at": "2026-09-02T18:38:04.196232Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.739301Z",
+          "fetched_at": "2026-09-02T18:38:04.196236Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.739307Z",
+          "fetched_at": "2026-09-02T18:38:04.196241Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,32 +335,8 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Assam BJP gears up for stir over Congress’ alleged ‘anti-women’ stance - The Shillong Times",
-          "source": "The Shillong Times",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaThBeVdIR3lBZmk0WGpQSmZQVzF5WEZ3cGliZ05rdFhjZEQ2NnYwMnVwWldGd3BaUHlQY2FZcWwtYVR3ZEN3TEN2QzRjZ2ptRlZkSU5ReW93V3RKN1BkYWRyNldWSks0ZzRUVUpiZ1dFWmpoYzNKRm5MbzZDNFE1V0FLMVR4bEN1QXVJUXcxN0tzbTVIdUF1OEVSODVfY2JJMU1fNkdmNlhTYmZD?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Guwahati: MP Bijuli Kalita Medhi Faces Ire of Flood-Hit Residents in City - The Sentinel - of this Land, for its People",
-          "source": "The Sentinel - of this Land, for its People",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkxsUDBiMFRhMWtobzIyWU1aRVBsLVJEMnlVaElXQmJIdXdsWk9uMWN5eTgyclljWW1jbUNFVUZvN1otZmRyUU5zd09XTUtSRFlRTTFLV3ZCNUxKSlE0VTB1TkMxSFVsZjU5WmRlOVdhXzBJeV8xSHZZMkVYRkd5RW5semNPTmQ4UmJWLUNJTWFYWTZoclRub2dTNmljcDI1NmVlTWIzMUoweERXMVJHX1N6cWdNak5HOFFhb044SXPSAc4BQVVfeXFMUHBiTkdQMTkwX1FjQnJqRTV5Vjd6bzhGOGRXdzVDV0MyZU1uR2dUU2VodWFOQ3dlU2EwWjFSWEp5TmZyWjQwYUk1S0pxTThneXNZNmhLS2ptOUF4a1hhd0VucVFaYlBkcHlVd0ZkeE91Z3hDb2x1UjY1RHFROVU1aTZRTk13WThUQ3ZFaXM3MGdqRFhnZWVaVDFsdG4tWkFwWC04VERtYm9FOGpDS19mX3lBOEwtaXdmU1NTa1c0M3hUWGxQcWhSaUkwMFFiR3c?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Union Minister Shri Sarbananda Sonowal flags off ‘Run for Unity’ on the eve of Rashtriya Ekta Diwas - PIB",
-          "source": "PIB",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNnpPc0FkS0VMUnhxTENjOXB1cU1tS0toS1JfLWZSMHpVZk1MSWJSazZOaDFJYlRCMTZpd09KS181Ty1zLXFGekhJMTIxTG13X0Q3M0pHU1R6YjdaMTk4c21Ob2ZoMzNO?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Gauhati election results 2024 live updates: BJP's Bijuli Kalita Medhi wins - The Times of India",
-          "source": "The Times of India",
+          "headline": "Gauhati election results 2024 live updates: BJP's Bijuli Kalita Medhi wins - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxORkg4aXBEaUJGUktNbU1SYXhzRHZUS01jQkhtOHZzdDFTb3Z6SF9pTVl6d0ZVZVNoYms2Nkllc1Jqakljc0NuS1dWeEVpTEZjalgzMEF0b3ZRd3VkLTNWRzcwTWNJRGdMN3pqeHo1TzQwajdzdTU0cW0xeThLeHNfXzhqbXM1dGJRNV8xNThqcXhxbHBrNG9uYi1KWmU0aUtrNDc1TkY1c0c5T09MRG4wbzVQLWlDN2hkTWdqa1puRWRobmpsbV9uRDE4VWVhZVdGVlRVdjdEbXdYejItcDR1Njl6X3JfajdIU1Ixem93QXBuN2RYNG1ESUNKZVpyWFBSSnpVMDVwd1laZEJGU0llNlp1SzlBSjQ1ZXpSaWY1LTJ3X2pRenRkSnppY01FNzhIQWFuTWJFVXVuOVXSAcACQVVfeXFMT2NRQUZjUDk0WmVpcExwR0VwdmJsdGQ5b2xwbE5WOXVQSHJRNzdoenMxNUkwMGU0b19qTko3eEg2S2t4U0J5cGxPcjBFZ29QQUtzNllEY0k3ZE9kTWY1VXNLUFJtWDBEcDFadGJpdFd1cE8yV0VMam9yMVR5aW1oYmUzWmduNVRpUWwwMkZZWGdkWjVUZFpYemhWTjgxY29Pci1FZFdsNTAwTm9iaTAwV3J0Ti1yYjhuN3U4MzljeVM3aXpKRFRFTkozLXRjLUpWVGs0MEdEUUJTSjlPYXhpX1MtcndlSVRrTFROWTU1X2I5dGJibUZ2aHVXLWxOaVNvYW15Z0dQanFkcFBvTDdvOWltY19qQWdScE5yVUNXa0JXUjhLZngyNTd6UjVpdU82VUxlZkhOWGQ0TkFNNHJXOFY?oc=5",
@@ -319,6 +348,30 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWS14MUVaQ2tlcno1a2hIY25teDNXeFFia09JQ19JSzBwbS1zZzZuOFhOMzFpNGFUaHJtQ1ZvbDVBVjFNdk94NkkzSnJZOU1wOHZIaGRDcWtWelVscTFyMklvRmtEdWk5X3lsRWNnUVVWUVVKYnlxVzd6c1RPdk1FRDRUYXpKdWxDSjVjalpxbEJ3ellhVmxacThFelF6SFM0SnZ0R3JraUNaazBGc3FaZ0ZSemhiZzF6Tms1QWc3bTdoXzZ4S0dhbVRSQVpkT0hsRWV4TU1UUnXSAd4BQVVfeXFMUHB0TE54Ty1zcDl2WXYxNjNLbVNSZjRJNmtxcEJ4aEFwbTlHbEQwODV3Sy1oUS1oaFlUb0pLZlV1NUlpUE1xZ2NxdWFaQlpUVVNESGp4d2U4clh0elNaWm9TU1BDcVFhVVlHVmtfZGVaWmRnMG5iYmozMGQ1OTB4VDZYRVpQRGY2c0hnNVk3cjc5UDZHUkxLZUNpc1JIbTItMGxnNFlHZnpJZFd3V1dXY2V5dTAtWmxhRk1NMzVLMU8wNlMyaUljS0JKRUtCWEYzaDg4c2xNNTI3ay1rbktn?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Union Minister Shri Sarbananda Sonowal flags off ‘Run for Unity’ on the eve of Rashtriya Ekta Diwas - pib.gov.in",
+          "source": "pib.gov.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNnpPc0FkS0VMUnhxTENjOXB1cU1tS0toS1JfLWZSMHpVZk1MSWJSazZOaDFJYlRCMTZpd09KS181Ty1zLXFGekhJMTIxTG13X0Q3M0pHU1R6YjdaMTk4c21Ob2ZoMzNO?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Guwahati MP Faces Public Dissent During Flood Inspection in Rukminigaon - guwahati Plus News",
+          "source": "guwahati Plus News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdEctekVnbm5YcURPcnp2R3BrNmI1RDU5bnQxTk4wdVhudHZudUZIOFNuTmNVeEtTM3dqTlFKM0ZJMVNWMnBzSW5sTUxOdV9WYmdLbU5TdDZzMTZqeVdOT1NXSl9GMV9sd0lpdE5VRmxzV3ZVaUZFd2xORVhIMENPd1ZZWWlwVlJ4UXJza2JUTkJKdUxfQ0czZXh5QUJZSFY4MWc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Assam: BJP candidate Bijuli Kalita Medhi casts her vote in Guwahati - India Today NE",
+          "source": "India Today NE",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLWYzbjFyb1JQY0tuV2xfdlAyVWI1VTZlMFpURlZCaUJha3JheHRDSG93d0pkZVVoV1BHSUdTRS01ajRHbk1ScWwwaVR0MXhLclVycmVMR09Feno1c3d6ejRMd1FqU2c1eUpSek1YVWYteHlSbEN1dUktY0NHMkFla3BDWks0OUNBS1dRR0ozX0M4bUxpS2I5aU5Yay1obTR1OVF1ZWRvVDlxMHNMVHF1QV9MTlNvS043T1dHd2l0QXVqTzllVzU3cS1EaWp4UTJTWURucXpQMDlGSmw2d3BQQVV30gHnAUFVX3lxTE5tRWgtZFRPQm8wbWx2a1F0aHRzMGd3V2dPLWtTeGNpZzNUdkxzNWJNYTF1UDIyQzlLUVpoSkhlSFJmSkY5cVBxOGI5S2dmdE9MU1I5WlMzc2xwY1FxRXJCaE1tQ29Pdm81ZGpHRUVxM3R2SGpObE9YZTY1N1hITGhJdEpFamJGUmpiZGN3elZnSmVJQ3ZjNnczZ2tLWFdEVUE0bldEODM0UTIwbHlFanJYT2dERzhUSjhrcUNQUXFjZzFBVnVVSVg1aWhyNU9iSlZ6Wk1kaUhROWYxSzFzemRPWC1BZG9vQQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 15,
+      "starred_questions": 4,
+      "unstarred_questions": 11,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 28.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Assam: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 16,189,751. MPLADS utilization: 43.8%. Parliament attendance: 100.0%. Questions asked: 15. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:46.740571Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 15. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.196971Z"
 }

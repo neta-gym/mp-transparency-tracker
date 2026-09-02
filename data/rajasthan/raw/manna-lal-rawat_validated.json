@@ -4,16 +4,16 @@
     "constituency": "Udaipur",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1854,
+    "myneta_candidate_id": null,
     "slug": "manna-lal-rawat",
     "house": "lok_sabha",
     "sansad_member_id": 5622,
     "profile_url": null,
     "canonical_name": "Manna Lal Rawat",
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 52,
+    "age": null,
     "photo_url": "/mp-photos/5622.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Udaipur",
       "state": "rajasthan",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 1854,
+      "myneta_candidate_id": null,
       "slug": "manna-lal-rawat",
       "house": "lok_sabha",
       "sansad_member_id": 5622,
       "profile_url": null,
       "canonical_name": "Manna Lal Rawat",
       "name_aliases": [],
-      "education": "Doctorate",
+      "education": null,
       "profession": null,
-      "age": 52,
+      "age": null,
       "photo_url": "/mp-photos/5622.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:11.510413Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 27125206.0,
-      "liabilities": 242000.0,
-      "net_worth": 26883206.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1854",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:51.843930Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 23.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 5.03,
-      "expended": 3.29,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:44:59.048400Z",
-          "notes": "Official eSAKSHI REST API — Works: 175 recommended, 116 sanctioned, 19 completed"
+          "fetched_at": "2026-09-02T14:50:12.645707Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:46:08.943372Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:46:08.941443Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 175,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 22.380952380952383
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:28:38.088505Z",
+          "fetched_at": "2026-09-02T14:46:08.940647Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "BJP MP Manna Lal Rawat Gets Election Notice Despite Leaving Government Service Over 2 Years Ago - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXZRMW1nMnlPajM2N19kMGpPVVp6QkZrOEZMdWc3ODlsREo5WTBjQkVkdkpMZmhkLTVFLVRTSGlISDJqQjdEVURmR082ZkZYRHUyQ2lPQ0dGd3VwYXVpVjFfRURvOUtwNjlrOUFEXzVnTU1TaV83U2JzTnBfa25WUkc3dlFuYXRoVDFVT2FWcUF5MWhJaG9DcHRzZ09QdUpKelhST1hWN0tFQUN2YWQ5ZHNZWXo2eVVJb1pld2pIQzJkN2tLcHZoU2syaGRVMklfWHhHTl9n0gHbAUFVX3lxTFBlTG8xSEozVTRpSFFfbW5Qd0EtRllMTVlfcThFX3RQWHVPVU83MUNLc2IyTVlQOVlEcWFxY1I1eXgyMDdzd1Y4UFdqVU5VRWZ3VVd3SDZiYWl4aWJKZ19BOTlNLVdlMzdWTlUxcWczVDJ5X1g5NFFycmNONV9BVDNsRVMyLUlrNkdiMTBRY1VFUU0xTjQxaWhTbzdsUUg4OXZaWjAwbDZoVGQyUDdFRzR6VmFjS1MzLWY1elhrbXR1R3NQVmNJM3o0TDhUWWZld1AxN2ZvYllvQzFqcw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who Is Manna Lal Rawat? The First-Time MP Now Leading BJP's Tribal Wing - Outlook India",
+        "source": "Outlook India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3B2WTAwbThzZDlGUzhaOUNfOUdzVFNSZmRuSXlzSG9ETnNtWVBiVW55NG5PVi1mLUVfSFVQemtTZmxhT3phY3AwYWlMdVJaZEo1S2NjNWppZ21nOWYtbklPMUhLRVYzR005SVZWcjBucnRsa3hVUk5qTmhqWWR5aU5SUGNJSmVZcVhUX082cmJkMk5iYVVuUVRZaEdzNkdoOFpKQ2ZZeGlFd2_SAbgBQVVfeXFMT0Nlb29Fc2dJQlJrYktpUVVjUnk2OS1CU1J2R2tFM0xpa29NTHNoRHVsbXRudzBFN21FNXZaUHJmSGdFc09tZjQxNUl0MEUtNHhtb09Fc3FvRHZBUG5kblBSTGZpY2dMdVNHZzl2b3JVS0JjWjZ3ZWlGajVTOVk3X0hCZjVMdEFuWThSdVZNOEhjdFI3d2RYTVBJMGlqdmhET2k1NzQ3NkF5SVZGZjYwc0tYVHhKdTRuXw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "A video showing a clash between two MPs in Rajasthan is falsely shared as a fight between an MP and a District Magistrate - FACTLY",
+        "source": "FACTLY",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQb1dJbGdOMUR5ZGwtT2RybkNubmJ3SUNmVU5jak93X0N6OFo3MnJKSDNSN253S3pac3JzQm1jeHJVMDFoSGcxWG5ub0QzZnR2dGVSVW5wVmQ1V25MdXJXWjVhRVVJWHJZRjlGZW53WlViTThEc1ZhcVJEVjlQZjZUdlZvWmoydDdGbVlhSlFWdXBrYm9RTGlXZTk5WjNOcjgzTlFJZVVCOUhDYjFhbUFjVkEyUnVtSjdieEdZWUYwS0dTRkEwc1M1eFZFNzNNVnRxdmJMSVQ1bldFV2d6SUV4LTkwVWN3X3dzQ3hvWWV1WVpFNjdoeE1MT1dlNVppcUZYUkF4YUplVWc3Y1dRSzQ4QkFScmdmOXZkZ3VQUmJseE5ZckRwcEoxQy14Ums1aVhz?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP alleges slap attempt and death threat: BAP MP counters claims Mannalal Rawat is provoking tensions a... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRmxER0JTX0FWM3ZYZlFBTDJ4U3BLa2p3ZGFXb0dSYkZxaVNqS2tPVXlXOW1ncTN5Rk5NOVg4Y3Z1R3NnUVgtWlZYYVdmY0ZneU90dVFWa0pNWXpWTGJhajlYbjVBbDkydFAxTjk1a1BhaUtwWGttc2F0Y19MTVRNaFZ5YVNHazhfelk5N1c0Nzczc3Ayb0dTRGNvQV91ZXNIUmptbmhqdThuYjBQdEZXZ3hCYVZNRUFzOGlWaXFVMWhyZXBJS1BFSnU4d1JGbTZacGxKTDluS3VsaXRhY2FhaFJhbGQxQ29BcWRYLU1mUjlQTmR6WXhfUXYxVXVYUXla0gGGAkFVX3lxTFBrZnl2SThXZ21GdnhhM1pMNTNlOGNEYUxqLVlGZ0RsRjIybkN1SzlEWjBKR2lGbElQSl9jOEdydGpIOFBfaGpqMjlsODZwanNvNE9zNlAtVzFzaGRERjQ3Um50b0MxMW0xT0M2VUZHUHdMbDFUWHIzc2trdDFyRG9qSEFBcGhxa2o5d1Q3R21OQmlPWngyU3pMZ3dWVXQxaHZ3djVKNDZiSC1qbFBJQWJpcTI3RFJ6RUFjTy10aGxxdTNhWkNwWThrQzdRNUdoaUxLUl85TEtxdmR2clNkQzN5alhiS1VGMzlkWDhIRWlQeGxXMzYxU0hreXZGX2YwM3hCdHd3Y3c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Heated exchange between BJP MP and BAP MLA in Dungarpur - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3dleUE1RVF4OU9MR09jTUtBajYwOFVEZ1N0MnJJUXlpc2I4bGRub0FKS3RkVWhhQUMzR3VHU25fYW9sNENJb05WV0VfWWdINzZiSHlKS01oX1duNDZIWU15SnNMSUc0UWRxZzNxWW96a2huNHI0T1E2R2swc0wteXpMUG53TGdxYWRiWWVPMTdoQ0pSUVZ6T3lFR29aeFpNbi01dllON1pHS0l2b1pCTnJ1TGE2cU92cFMtYmtNMk5qREdqeE1DadIBzgFBVV95cUxNa1VOdWE1VzJ5VUNaUDl6SnpLUXRIcVBxZ3ZyQlgtdV9aaG1YS1dJRzMxVGRiaTE3S2F2Xzl2LXRKekl4NTZ4WEFCNFB1azUzWUl5a2M5Q1FjdThYNS1iUlE5eklBc0hIbGtvcTdBXy1CU2EtYTRkaThvRFkwaHluaDRtb3RhNGFOVmc5cXcwQldqTFFRWTQ3TEZxaXctSThqaVViTktrYkp6enB6b0cwYWMyaVV0X3duV3N6dmFZdmZZaGpZX0Z5YlZGdEowdw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:29:41.414477Z",
+    "collected_at": "2026-09-02T14:50:12.646474Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.067908Z",
+          "fetched_at": "2026-09-02T18:38:09.484908Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.067916Z",
+          "fetched_at": "2026-09-02T18:38:09.484918Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.067921Z",
+          "fetched_at": "2026-09-02T18:38:09.484923Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.067925Z",
+          "fetched_at": "2026-09-02T18:38:09.484929Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.067930Z",
+          "fetched_at": "2026-09-02T18:38:09.484935Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.067934Z",
+          "fetched_at": "2026-09-02T18:38:09.484940Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.067940Z",
+          "fetched_at": "2026-09-02T18:38:09.484944Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -278,9 +331,25 @@
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 1,
-      "neutral": 9,
+      "negative": 0,
+      "neutral": 10,
       "top_headlines": [
+        {
+          "headline": "BJP MP Manna Lal Rawat Gets Election Notice Despite Leaving Government Service Over 2 Years Ago - ETV Bharat",
+          "source": "ETV Bharat",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXZRMW1nMnlPajM2N19kMGpPVVp6QkZrOEZMdWc3ODlsREo5WTBjQkVkdkpMZmhkLTVFLVRTSGlISDJqQjdEVURmR082ZkZYRHUyQ2lPQ0dGd3VwYXVpVjFfRURvOUtwNjlrOUFEXzVnTU1TaV83U2JzTnBfa25WUkc3dlFuYXRoVDFVT2FWcUF5MWhJaG9DcHRzZ09QdUpKelhST1hWN0tFQUN2YWQ5ZHNZWXo2eVVJb1pld2pIQzJkN2tLcHZoU2syaGRVMklfWHhHTl9n0gHbAUFVX3lxTFBlTG8xSEozVTRpSFFfbW5Qd0EtRllMTVlfcThFX3RQWHVPVU83MUNLc2IyTVlQOVlEcWFxY1I1eXgyMDdzd1Y4UFdqVU5VRWZ3VVd3SDZiYWl4aWJKZ19BOTlNLVdlMzdWTlUxcWczVDJ5X1g5NFFycmNONV9BVDNsRVMyLUlrNkdiMTBRY1VFUU0xTjQxaWhTbzdsUUg4OXZaWjAwbDZoVGQyUDdFRzR6VmFjS1MzLWY1elhrbXR1R3NQVmNJM3o0TDhUWWZld1AxN2ZvYllvQzFqcw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Who Is Manna Lal Rawat? The First-Time MP Now Leading BJP's Tribal Wing - Outlook India",
+          "source": "Outlook India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3B2WTAwbThzZDlGUzhaOUNfOUdzVFNSZmRuSXlzSG9ETnNtWVBiVW55NG5PVi1mLUVfSFVQemtTZmxhT3phY3AwYWlMdVJaZEo1S2NjNWppZ21nOWYtbklPMUhLRVYzR005SVZWcjBucnRsa3hVUk5qTmhqWWR5aU5SUGNJSmVZcVhUX082cmJkMk5iYVVuUVRZaEdzNkdoOFpKQ2ZZeGlFd2_SAbgBQVVfeXFMT0Nlb29Fc2dJQlJrYktpUVVjUnk2OS1CU1J2R2tFM0xpa29NTHNoRHVsbXRudzBFN21FNXZaUHJmSGdFc09tZjQxNUl0MEUtNHhtb09Fc3FvRHZBUG5kblBSTGZpY2dMdVNHZzl2b3JVS0JjWjZ3ZWlGajVTOVk3X0hCZjVMdEFuWThSdVZNOEhjdFI3d2RYTVBJMGlqdmhET2k1NzQ3NkF5SVZGZjYwc0tYVHhKdTRuXw?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "A video showing a clash between two MPs in Rajasthan is falsely shared as a fight between an MP and a District Magistrate - FACTLY",
           "source": "FACTLY",
@@ -298,27 +367,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Rajasthan Removes Four Class 9-12 Books After MP Rawat Objection - UdaipurTimes.com",
-          "source": "UdaipurTimes.com",
+          "headline": "Heated exchange between BJP MP and BAP MLA in Dungarpur - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZGVKNFJ1NlVERnhMTHpnVjZ0OUx3UWp5Z0V0WXVGc25UanN2QnZkTnJtMjFnSjBXZTBUaDZDYll4MUFQTThCVFhfbEJxam9yNk5wSHhFMmJEWThpUXVBNDNrY1ZoWnpFZUs2aDJLdXo0Zk5iOV9aOXVTQjBZMmNNVXFKakQ1U3NTLVFmTGVGalp3RlU?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Udaipur passport centre to get PSP V 2.0 upgrade: MP Manna Lal Rawat raises issue in Parliament; Minister K... - Bhaskar English",
-          "source": "Bhaskar English",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOQkx6LTZzb0RBaW9tSWVSeFNHY0lrSEkwZS1ZSFdhNHZsTHZteHNhNloxVkU3dE80VVZwdGxURDRGUjdTeU9VSFpWRzdsZWQwd29nZDZET3QwX1VjSHp0RXZVYW1ld0pqYUFtVTlfMUhLem1WUmhDMUFvUWFJVHE0dDNGQlNXeUd0ajJiVVBkUVJFazNyLWl1VjhLOHhOOUJCaFVXbmZGWkw3ZnhkR2lHTU9xVzBVMmVxWGg2Zl8yMERBSFl6ZDR4OFlkbVd4SU44SVl4bFV0eGNHR2R4ZE5IamJtOGU3X1JLdzBqZmE5d0NvYWRlTS1ORFVSbzdVSTk4SnhJbjFoYmtpMDYxdS1UQlpjaWNmeEhLemJUWHlGNVVRMmNwVTFxWXdVV293bE03enNHTHRpZnZXVmw2SkRrTGpabko4U1lNajMw0gHQAkFVX3lxTFBtWUo1RFUxZ1FKZ3ZvQWpLeGNXcmtXR2dxOWhwSkpCNmR2d3ZLQ0dZeFFJYVRVVU41b2NtRVlzd0UzOXdqNHBxOW1ENmlMeUFBV0ZjeDEzNHJfck8zd2VRNk53NTJ6RXgzOG15dFhZMF9udEpFdlE0U3lQSXVITFlVQlBYZ20tUUpULUpTSWdzY2Nnc3VRNXhHZDNQWDFzc3c0T01YYjN1LV9wd1VYcFNhME41TExFVXBfT1BTd1NPTnpOY1ZXUVJBS3RCZ1E1WURmYlBDc3pzRThVUXIwSHNteGs3S21Nb1hjQWxWa3Y3blEzRkp1aWkwM1IyY3BkaW5KR3Q3Qmt3OHdzbTRUZkRoXzJpZGVsMDl3ME0yVzFsNjIybkVLZVlPWDV6WS1JN1ZXVHJBX2wyS3lIWE5oUXVqczBoQWFSbWpzcTFjTEdWTg?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Call for Extension of Udaipur–Ratlam Train to Bhopal - UdaipurTimes.com",
-          "source": "UdaipurTimes.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUm5wdGNwN2xOc0tCRmYxYUVOalZQQUZsQU1CQ0JCT0w3UlJ3c05HeFc2Tl94TTRkTUJFMnpOVUNYcENfdzVxLUotMFlGeDI5dUdqalBUOUJvQXdqSkxJTGdWTm4wZEttZnFzUEFLX3FBSTZvdHpRdVg2MURNYWNHMGwwTHRoMFV2c25VcERJckFUQ2F4Vi0yU3FmRkZLclQ5akZYWg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3dleUE1RVF4OU9MR09jTUtBajYwOFVEZ1N0MnJJUXlpc2I4bGRub0FKS3RkVWhhQUMzR3VHU25fYW9sNENJb05WV0VfWWdINzZiSHlKS01oX1duNDZIWU15SnNMSUc0UWRxZzNxWW96a2huNHI0T1E2R2swc0wteXpMUG53TGdxYWRiWWVPMTdoQ0pSUVZ6T3lFR29aeFpNbi01dllON1pHS0l2b1pCTnJ1TGE2cU92cFMtYmtNMk5qREdqeE1DadIBzgFBVV95cUxNa1VOdWE1VzJ5VUNaUDl6SnpLUXRIcVBxZ3ZyQlgtdV9aaG1YS1dJRzMxVGRiaTE3S2F2Xzl2LXRKekl4NTZ4WEFCNFB1azUzWUl5a2M5Q1FjdThYNS1iUlE5eklBc0hIbGtvcTdBXy1CU2EtYTRkaThvRFkwaHluaDRtb3RhNGFOVmc5cXcwQldqTFFRWTQ3TEZxaXctSThqaVViTktrYkp6enB6b0cwYWMyaVV0X3duV3N6dmFZdmZZaGpZX0Z5YlZGdEowdw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 34,
+      "starred_questions": 10,
+      "unstarred_questions": 24,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 66.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Rajasthan: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 27,125,206. MPLADS utilization: 22.4%. Parliament attendance: 100.0%. Questions asked: 34. Debates participated: 7.",
-  "validated_at": "2026-09-02T01:36:52.068694Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 34. Debates participated: 7. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.485667Z"
 }

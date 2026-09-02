@@ -4,16 +4,16 @@
     "constituency": "Robertsganj",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 9098,
+    "myneta_candidate_id": null,
     "slug": "chhotelal",
     "house": "lok_sabha",
     "sansad_member_id": 4859,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "5th Pass",
-    "profession": "Agriculture, Singer, TV Actor",
-    "age": 51,
+    "education": null,
+    "profession": null,
+    "age": null,
     "photo_url": "/mp-photos/4859.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Robertsganj",
       "state": "uttar pradesh",
       "party": "Samajwadi Party",
-      "myneta_candidate_id": 9098,
+      "myneta_candidate_id": null,
       "slug": "chhotelal",
       "house": "lok_sabha",
       "sansad_member_id": 4859,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "5th Pass",
-      "profession": "Agriculture, Singer, TV Actor",
-      "age": 51,
+      "education": null,
+      "profession": null,
+      "age": null,
       "photo_url": "/mp-photos/4859.jpg"
     },
     "criminal_record": {
@@ -45,65 +45,71 @@
       "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9098",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-05-23T18:17:19.845250Z",
+          "fetched_at": "2026-09-02T15:36:55.637337Z",
           "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 12297783.0,
-      "immovable_assets": 7700000.0,
-      "total_assets": 19997783.0,
-      "liabilities": 6954692.0,
-      "net_worth": 13043091.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9098",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-05-23T18:17:19.853561Z",
-          "notes": "MyNeta candidate affidavit data"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 17.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.5,
-      "expended": 8.05,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T18:23:37.618903Z",
-          "notes": "Official eSAKSHI REST API — Works: 400 recommended, 399 sanctioned, 85 completed"
+          "fetched_at": "2026-09-02T17:51:39.192209Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:47:57.546177Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:47:57.543295Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 400,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 54.761904761904766
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:09:30.175167Z",
+          "fetched_at": "2026-09-02T17:47:57.542268Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Allahabad High Court Issues Notice On Apna Dal (S) Leader's Plea Challenging Election Of SP's Robertsganj ... - Live Law",
+        "source": "Live Law",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbFZ2YlNVS1Y2T3liR2NRbll3OUZXZF9VS3JUcmRnWElka3hXMGNObFE1Rmd2alp6cno2S0NuQzhGVkdRQkRpaWx3OXdnTV9jV0ZlM0Y5RmdFbHg4cmdMOTVZTUYtTGQ1bjJPcVVNczE5V0dxZ3NJc3d6VUNLUXJ6T2Y3S1hRcWhBTmpuLTRNV2w2OTIzSHkzYWR4VGRUd0JOckhPaGpxSllwS0JWTG43TTk0Y1NfR09DVlFkY2htNUpfYzF0bmZZVWRSZ24tWWs0cmRSSk15ZWdqNnB6LURwdnhzRjQwWHNONEMzeTZacjJpTFdab0xQc21ERXA4aGg0dFplUtIBigJBVV95cUxNb2lrSi1DNmc4cUZZeU5IN2JTT0lrREFwZkpJTXYxUTFrYnJLZ0NVV3ROaWtKcmpmOWJGYnRTM1NuOFZmU3FIOE83Q2ZxQ2tmWHRBblNxRTJOeURucDgwYUFTRWN3YjcyczB2YUtaTjZRcmJ0VEhELVZZNHdNN1pjdDJuOUdCaFlqbFZJV2lOcTd1N0N3b252Z2thNGlIRWtxRGhnX2xlMUlnZ2lDX1BMZHNMclZVQk1ZQTFnN0RNTmVONnAwckdkVGhJbFB1MHgzQXB3LTdYZFF6ekVGS182UGh5NVdkVWxVY3BVVS1xTFIzTW1JODByYTVBTDVDeG9ZM2NvWWNOX3FUQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Robertsganj election results 2024 live updates: SP's Chhotelal wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRE12U0ZYb1ZFR1VLRXVWaVNvV25WUTAzd2k5TzhOWklUNHJrX2xDejZkWXotNnpWVUU1SEFPcDZTMzNpdndyQ1lOQ1NUcU9Qd3JTOTdUZkh4TktWTzRUb2UxbUp1azV3aWFNa004aGg3ZFFING1nLW5WR1ZxQWZQLVBYMllnWlpYWmpxU2ZDWHFOSDlTTFBfNlNaRExnLTFJMktMVDhHdkxMZU94bmRIRFJOcFNMUkd0Rl9IUEs5aExvQXhzWTlzdnhuOXhxLWpWVmNhMEZSWmtoOEJJdnV5TWJYdV9uWGFlVXfSAe8BQVVfeXFMUHpwU2J0RWtvM2NTWHRITS1TbDh0dU0zcEg0Q2FuX1NaWlV0bVpYZ1dHd1l5ZmN5RURfR1FlT0tvRDU4bGVQa2NhWktEYVJWT3RNMVRPaXBtS3Z1aEExejBfMUUtVmkyRU9HdGx2RUxYYkVtcm9Ja1VhczFuWkRXNU0wUzV0XzdnYUxOZzJoTTlGcXZGX0IxX3J5Zm5HR1JpN2J1NGVpUGlhdlhpRkZrNHp6bkhPY1dyak5uVHB5U2xFVV9wYTRQeFozSUpJZkVIU3BZZG1VaVpXNUdzMWgxeHk0aFA5bzM1Wkp6OEVKX00?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uttar Pradesh: Scolded by Yogi Adityanath, Dalit MP complains to PM Modi - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzJZZ21PUFZDaFBCaEZmT1lZdFpJLTZkcWpERlEwYno4Wk02NzVNRWxDbXJoUkIwTlR1V1ZOM1YzY1RSUEdyQU1YbHI0c25LVi1JOHVSMEZiTkVlYVJPdTF0T2Z4Z3pOTjhGSEgyWVVsXzVGSHR1LU5UTFB5NzBhM0diZkRkVUp0VG54TXBqQmFUaFFSY3fSAZwBQVVfeXFMTkJoLVNfTVlvekhzTWNRLTkzMkV4emJLejNaRFNkeDRqZ0xRU3lXYURNZzcxRTZFVERrVG5rb0w5V0JFdmROZ0ZKTzc4ejRhMTVrWFpTN1hseGNHcUNKckRmY0ZsWnU4YU9LeFc2SFl5Sy1YMldlNEhaN0FZdGZ6U1l1d0xXdGpoMVpmYnFSMTVBS1BpemNmR1pudjJ6?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who will hit poll treasure trove in tribal terrain of Sonbhadra? - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0xmNTdKM3Jnc0JLQTctdTVxMVR5YkhiSi1MN0Q3VDJTMWMyUmJ5czR0SGhKcUdTY3ZwajZSYlJabW42YlJGYnY5cWdKQjFMRkN1Z2M5dEFDUmh2WEpFNElXX3JFNFdVdEQ3SHB4X2pNb1k5VUF4WGFYWmRlNVllQndhYTRTZE9jLXE4VS1JSTJDcjl0WlpFRFJXUnFJUkNKNy1MMWpzOXo0dGRhRHJrTDZvcjIzcjZQVU1ueHRCUGEyREhoQ2RySUp2d3JDc2FUblN3NNIB2gFBVV95cUxPZXlSZUlqaXh1eTVkbWR6RjZlYzhDM1BVLXVaVHp0VjRIZkFXc2pKR1VObEJpdmN2NnAwMGtpWDNtRWpiS3dPQkNwRE5YMEU5SWJySzQwZllCMk1SNDlXb011TXAzeE16dnNSWnZaVWo5T2tPME92aVhxc3BFWkJlV0dMNHlzdXJ1NDRVV2NTS1NFSkhBQUpGSngtUUtsOVNoanNiTFlHdkhqN2FQeXhJRjhqVGFSRExWTjN4RjdZb2ZvRm5lQnItT0FGVlh0dlZiMXhCNldPdVRhZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Why Dalit BJP MPs in UP Are Protesting Against Party Leadership - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTkpvZ05kcDFGN1dVOE5EVkg5TWhEbDBmOW5SUFlPaTNnTlV0d1VMakhXckQwQXFjWEJHZlhteXpOWUd2cTFJMkJNTGdTdlF5QjE0S0ZmOHpJbmZOb0pIMWJMY3U5bVJBMzFZeVFxS0k5MnVXZG9pZ1NlWlZfUFh6OVpDSnAyd1HSAYwBQVVfeXFMTW5tRzQ2QXg3OVRJUzltRTF5WDYwaWd2QXBJZnczd0dvTFFtRGxKb3AwOUZYYWNhYkcyZDUyRmwxNTJVRkxUcEZ6aDV4S2E0d21Qc3lHYi0zanYwQmFudGMteUlsSk9WXzJ4VGswM05vaVpoRmx0Q2o3eFZXQmFNMzJ2emJmS0lFdmVTZ2Q?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T15:56:57.532894Z",
+    "collected_at": "2026-09-02T17:51:39.193164Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.406795Z",
+          "fetched_at": "2026-09-02T18:38:10.961306Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.406804Z",
+          "fetched_at": "2026-09-02T18:38:10.961316Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.406809Z",
+          "fetched_at": "2026-09-02T18:38:10.961322Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.406813Z",
+          "fetched_at": "2026-09-02T18:38:10.961328Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.406818Z",
+          "fetched_at": "2026-09-02T18:38:10.961333Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.406822Z",
+          "fetched_at": "2026-09-02T18:38:10.961338Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.406827Z",
+          "fetched_at": "2026-09-02T18:38:10.961343Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -268,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.406831Z",
+          "fetched_at": "2026-09-02T18:38:10.961348Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -293,11 +338,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/chhotelal2014?t=yp9Vnmop-AY0k79iqIfrww&s=08",
+          "url": "https://x.com/https://x.com/chhotelal2014?t=yp9Vnmop-AY0k79iqIfrww&s=08",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/MPchhotelal?mibextid=ZbWKwL",
+          "url": "https://facebook.com/https://www.facebook.com/MPchhotelal?mibextid=ZbWKwL",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/chhotelal.singh.kharwar?utm_source=qr&igsh=emtnY3B1eng5Y2Ey",
+          "url": "https://instagram.com/https://www.instagram.com/chhotelal.singh.kharwar?utm_source=qr&igsh=emtnY3B1eng5Y2Ey",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T17:48:00.320162Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -305,30 +383,6 @@
       "negative": 0,
       "neutral": 10,
       "top_headlines": [
-        {
-          "headline": "UP quarry collapse result of govt, police colluding with mining mafia: Opposition - The Indian Express",
-          "source": "The Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWt3cjhfczAwckNhQUdSQjFTckdpRFYzc2VTRWdFclVZMjR1ZkJoT3h4QlpBVGc0WlpLUmtEQ3pKYnJaQjhta1M3SnlKckJ6ZTVuTFYzb0VFUG1aR0pwbTJ4cVVHZHVOREJlR3ZGdnNKeGl2LVBEcDVTU2VxY2VtYmVUNW1YaXBDb1BOSkh0NW12dlN6Tm8tRnlOUWtyeDlOYmhiMjFfWWRYZ9IBsAFBVV95cUxPdG9pMmEtTy1RZlVBWGhpQnplYzNmakp0cEtDVllqSGlxblBSUTBBM3JZWVQ4SlNNRWJnZk9KY1UyOGNpZUFITTBxdGtITlp6SEJPRzVIVlJVYUlkZ0paTTc1dHJrb0hlcXNUeUQzZXZRLXBIekRONXFtOS1aRElVNVB5akQ5LXREek0zbWYzVnpiTE0tTmhvaS1kY2x4WWFxcktCT1MxQmRySnBnMy1WNA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Stone quarry collapse in UP's Sonbhadra—Death toll rises to 6; MP Kharwar claims illegal mining run by mafia - Mint",
-          "source": "Mint",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQamR1TTUwNjFydnltV202SUFOWV9lOUNRbkZ3eS1oZjZOclZjaXBWbVZlMmRUZDhwS0VTa0hQTEt4MWd0aWJUTnZTT2o5VzJWYnQ5c196a2lfOEpGXzRWT2d1V2hjdWo4Y2kyNUZMZVhjY3VPMjVCUThBS2NmWW5PQ1BiWVlvWFZfb0ZJT1Z1ejBTSDFXZ0ZIbGNGZ0plUEM1amtfbmdLbC1PU1Q1MG9jOFZVNTJDT1FYZ0R6WUZTZlAtR1U5T0VwY2FLSkh0aU8tRGJrNnNJLXdxbjg1b1VXZmVMUkxwMWQ0UjUxS1dxZEg4OUF20gH6AUFVX3lxTE5BV1l5dEVZbmNmRFdyWFJOSE90eTVtbVEzREJTRm9SakUxV083ckVBVTNHM2h0SmJmTTNHdU1xaUR2SFBjZUtOeEFJSjNvUEM2VkljRFRPUG9UbFdyTWdxUGIyX3VGMXNzb1RQREUtcjUwUllrOWswdE1ZYUxIY3ZZbGJJcVUzb1NrUnpXdzVidk5Uckd6eEtqRU15aklpR1V4NVp4YVBiV0p1RkNxVEdRZTVkN0tIckZUa2MtLVBUbDNyUDV1aGt4STF1a2tiZ2FYa185N3lxMy1kbnQyWUFLWm1FTTlWbXR1c3RlTVU1Q290MTRmdWg0UEE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "UP’s quiet Robertsganj ‘wishes for change’, but youth & tribal voters to have final say - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQTFkNktXa0tCbWRoTE9hT0hPeHd2am16V2szZFdwRGplODNqdG10R0FqdWdFS1hsZzNnaGhmSmZIbVdBSzF0YlpDc2trLW16dHBEdzlOeWdYY0tybkVsYTFsYXE0THk0R2t1cXRuY1lKRUhDc002dVNmeGtHeXk5Y2g1MV83a3dNRGxVajk2WU4wM1NKbHlxZ3lNa3puRnZlWF9UZHhleFN4c3Bmamh1VGRVRlNEUmg3VGdrS1AyeGJ5RUJQUFY3cGx5U2RQOUFTWjFJcllDcXpxQm5JbThvVFNjWdIB6AFBVV95cUxNQ2RseEJUYl9nNk1nMUJiM2tPVjJSeFBubmh2ZG5PTVhPMFljZ2M4alBTZDF4QTI1bThJZ2lWZ2VEYkhRSFJLQmFUcVNaOFNUdGFWOFh0OExDRjJQRDJVWDJsN0hsS3Bxb3h0eFdTVEhJdnFLMUtzTzJoM3o1OFhoSjZUN1lvOGE3SmRFODVfVXNTR0ZudHJZVlJFdzVXMk1hRHZnRW1sdG1XU2EtSi1hSW1qMXNsbVRqWUJYenNhLWFLU1dXQmV1WHlwQjhjWlhJcVYzdl9GQmJwdFplYXMtQTRaYjhRLUxr?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Allahabad High Court Issues Notice On Apna Dal (S) Leader's Plea Challenging Election Of SP's Robertsganj ... - Live Law",
           "source": "Live Law",
@@ -338,11 +392,35 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Robertsganj lok sabha election results 2024: Robertsganj Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "Robertsganj election results 2024 live updates: SP's Chhotelal wins - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDNjbHNWdHNvM3BoSWx0WTJiaTBPcW95SUJIaDlfWUd0Q0FVQ1VlNnhhLVl3ZFZRNy04U0N5cjdlekpDNnBVd0dfOF81ajlUMDk2ZXNuNmNPS1dwLUxsOTB6LTZRb01WSjUzT2FCMUlER2hzSUhsSFBGUDBxbzFoeTh6eG04OWp3NkNub2ZDUC11MmdsdkRmLWJzOFk0UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRE12U0ZYb1ZFR1VLRXVWaVNvV25WUTAzd2k5TzhOWklUNHJrX2xDejZkWXotNnpWVUU1SEFPcDZTMzNpdndyQ1lOQ1NUcU9Qd3JTOTdUZkh4TktWTzRUb2UxbUp1azV3aWFNa004aGg3ZFFING1nLW5WR1ZxQWZQLVBYMllnWlpYWmpxU2ZDWHFOSDlTTFBfNlNaRExnLTFJMktMVDhHdkxMZU94bmRIRFJOcFNMUkd0Rl9IUEs5aExvQXhzWTlzdnhuOXhxLWpWVmNhMEZSWmtoOEJJdnV5TWJYdV9uWGFlVXfSAe8BQVVfeXFMUHpwU2J0RWtvM2NTWHRITS1TbDh0dU0zcEg0Q2FuX1NaWlV0bVpYZ1dHd1l5ZmN5RURfR1FlT0tvRDU4bGVQa2NhWktEYVJWT3RNMVRPaXBtS3Z1aEExejBfMUUtVmkyRU9HdGx2RUxYYkVtcm9Ja1VhczFuWkRXNU0wUzV0XzdnYUxOZzJoTTlGcXZGX0IxX3J5Zm5HR1JpN2J1NGVpUGlhdlhpRkZrNHp6bkhPY1dyak5uVHB5U2xFVV9wYTRQeFozSUpJZkVIU3BZZG1VaVpXNUdzMWgxeHk0aFA5bzM1Wkp6OEVKX00?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Uttar Pradesh: Scolded by Yogi Adityanath, Dalit MP complains to PM Modi - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzJZZ21PUFZDaFBCaEZmT1lZdFpJLTZkcWpERlEwYno4Wk02NzVNRWxDbXJoUkIwTlR1V1ZOM1YzY1RSUEdyQU1YbHI0c25LVi1JOHVSMEZiTkVlYVJPdTF0T2Z4Z3pOTjhGSEgyWVVsXzVGSHR1LU5UTFB5NzBhM0diZkRkVUp0VG54TXBqQmFUaFFSY3fSAZwBQVVfeXFMTkJoLVNfTVlvekhzTWNRLTkzMkV4emJLejNaRFNkeDRqZ0xRU3lXYURNZzcxRTZFVERrVG5rb0w5V0JFdmROZ0ZKTzc4ejRhMTVrWFpTN1hseGNHcUNKckRmY0ZsWnU4YU9LeFc2SFl5Sy1YMldlNEhaN0FZdGZ6U1l1d0xXdGpoMVpmYnFSMTVBS1BpemNmR1pudjJ6?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Who will hit poll treasure trove in tribal terrain of Sonbhadra? - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0xmNTdKM3Jnc0JLQTctdTVxMVR5YkhiSi1MN0Q3VDJTMWMyUmJ5czR0SGhKcUdTY3ZwajZSYlJabW42YlJGYnY5cWdKQjFMRkN1Z2M5dEFDUmh2WEpFNElXX3JFNFdVdEQ3SHB4X2pNb1k5VUF4WGFYWmRlNVllQndhYTRTZE9jLXE4VS1JSTJDcjl0WlpFRFJXUnFJUkNKNy1MMWpzOXo0dGRhRHJrTDZvcjIzcjZQVU1ueHRCUGEyREhoQ2RySUp2d3JDc2FUblN3NNIB2gFBVV95cUxPZXlSZUlqaXh1eTVkbWR6RjZlYzhDM1BVLXVaVHp0VjRIZkFXc2pKR1VObEJpdmN2NnAwMGtpWDNtRWpiS3dPQkNwRE5YMEU5SWJySzQwZllCMk1SNDlXb011TXAzeE16dnNSWnZaVWo5T2tPME92aVhxc3BFWkJlV0dMNHlzdXJ1NDRVV2NTS1NFSkhBQUpGSngtUUtsOVNoanNiTFlHdkhqN2FQeXhJRjhqVGFSRExWTjN4RjdZb2ZvRm5lQnItT0FGVlh0dlZiMXhCNldPdVRhZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Why Dalit BJP MPs in UP Are Protesting Against Party Leadership - TheWire.in",
+          "source": "TheWire.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTkpvZ05kcDFGN1dVOE5EVkg5TWhEbDBmOW5SUFlPaTNnTlV0d1VMakhXckQwQXFjWEJHZlhteXpOWUd2cTFJMkJNTGdTdlF5QjE0S0ZmOHpJbmZOb0pIMWJMY3U5bVJBMzFZeVFxS0k5MnVXZG9pZ1NlWlZfUFh6OVpDSnAyd1HSAYwBQVVfeXFMTW5tRzQ2QXg3OVRJUzltRTF5WDYwaWd2QXBJZnczd0dvTFFtRGxKb3AwOUZYYWNhYkcyZDUyRmwxNTJVRkxUcEZ6aDV4S2E0d21Qc3lHYi0zanYwQmFudGMteUlsSk9WXzJ4VGswM05vaVpoRmx0Q2o3eFZXQmFNMzJ2emJmS0lFdmVTZ2Q?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -376,15 +454,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 6,
+      "starred_questions": 1,
+      "unstarred_questions": 5,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 10.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -392,17 +470,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -423,8 +501,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -438,12 +528,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 19,997,783. MPLADS utilization: 54.8%. Parliament attendance: 100.0%. Questions asked: 6. Debates participated: 7.",
-  "validated_at": "2026-09-02T01:36:53.407532Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 6. Debates participated: 7. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.962018Z"
 }

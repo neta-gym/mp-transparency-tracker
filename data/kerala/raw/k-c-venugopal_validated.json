@@ -4,16 +4,16 @@
     "constituency": "Alappuzha",
     "state": "kerala",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 3079,
+    "myneta_candidate_id": null,
     "slug": "k-c-venugopal",
     "house": "lok_sabha",
     "sansad_member_id": 4567,
     "profile_url": null,
     "canonical_name": "K C Venugopal",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/4567.jpg"
   },
   "findings": {
@@ -22,88 +22,122 @@
       "constituency": "Alappuzha",
       "state": "kerala",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 3079,
+      "myneta_candidate_id": null,
       "slug": "k-c-venugopal",
       "house": "lok_sabha",
       "sansad_member_id": 4567,
       "profile_url": null,
       "canonical_name": "K C Venugopal",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 61,
+      "age": null,
       "photo_url": "/mp-photos/4567.jpg"
     },
     "criminal_record": {
       "total_cases": 1,
-      "serious_cases": 0,
+      "serious_cases": 1,
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "55/24, Basistha PS, Dist Kamrup(M), Assam. | Section 3 OF PDPP ACT",
+          "ipc_sections": [
+            "120B",
+            "143",
+            "147",
+            "188",
+            "283",
+            "353",
+            "332",
+            "333",
+            "427"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Chief Judicial Magistrate Guwahati Metro",
+          "fir_no": "55/24, Basistha PS, Dist Kamrup(M), Assam.",
+          "case_no": "",
+          "other_acts": "Section 3 OF PDPP ACT",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3079",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.324175Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:34:46.205642Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
       "movable_assets": null,
       "immovable_assets": null,
-      "total_assets": 36342460.0,
-      "liabilities": 272817.0,
-      "net_worth": 36069643.0,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3079",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.324189Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 30.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 5.81,
-      "expended": 3.33,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:37:05.460458Z",
-          "notes": "Official eSAKSHI REST API — Works: 88 recommended, 64 sanctioned, 18 completed"
+          "fetched_at": "2026-09-02T14:50:15.918585Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:46:36.251457Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:46:36.248952Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 88,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 22.653061224489797
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -118,7 +152,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:28:23.766002Z",
+          "fetched_at": "2026-09-02T14:46:36.247950Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +160,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "KC Venugopal seeks Lok Sabha discussion on alleged financial irregularities in Ram Mandir trust - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONDRpcHBuODZQWjdSNFRLcV9qNHdWMkNDNGxnRDQzdjNaWG1pNl9ZbEdjSjhYWDBwajNhcDMxdzA0eFA4RTF4U09pN1Y0MDhzUVJqd3NQSXBsYUtwTUI2MUtZeHNmQ2huYndMNE0wNkxUVmZTZHF1YjZYVXIzZk5iTkEtMTJ0Q2V5dnliMnczNzNuVWtwNnEybTIxc0d1RGJrbGpsNDEwQXNuMVRlVUxiZXhZVUQwbndSaDliQTVNVWJMMEtMTTJWWGhJNElGQ1RTS3RSQkw5YTBrQnZHd3Z5V0NLR0FOQ2pXQVl6ZDFYN28?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'Beaten worse than rabid dogs’: K C Venugopal demands PM’s apology over police crackdown on students - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcmRIUUY4dDNRZVRuRXlMNUl4TFVLU1liQzV0OTVEeElKdmdMdExWMHNyM0VTdkVzX2dmeV9JdkVwdUE0emFFZmY5bFg3blZWRlkwbUxEVmtraG9LdzJTOVlYV1k1NnFpclBNMWZtRlhsd2YzdVJLNWhZVFlnc2twWDhwLTlwUVBKRlVkNktfRWk0Q2g1a2ZPTHNkM0hxSUZRUmFTV195WXhuVUhhbzlxWUwyT1pETWIxZ3pTTXZlMVAwUXFjd24tdDcza3VQeTdLU3g2NkdtN2hWOG8wWTVLbtIB7gFBVV95cUxPM0hnWWJ2YWhuaWNERUotWnlRXzZQTE9abUI5cjcwNHNkSGlqVmVBN0Q4OXl5MWcwZmd2U0RqeXlyRzBjLU5RMVJ0YTg4aHdEUDFueG1NZWlHV2p6aW5SVHVjaWZtQ0tJUmdNczh1SHFRM3hmNnlsdWlWc2t6QlJnUE51ZGs3bUdTdXo4WUZHYzlYQTh2SDlmTG5yandMQUljcXg3VldLSFpzczItRm9aOFJMUFlabEdrVDA2MldWYkFFS2R1X2tjaDJwZ2RiRFcwQnJQNlBHR1pONEp4ZVU1WFdLbnJ6Vzg4R2w0dlNR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kerala High Court Rejects Election Petition Filed By CPI(M)'s AM Ariff Against Congress MP KC Venugopal's ... - Live Law",
+        "source": "Live Law",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjVjaDQ5LU5OQjFiV01ld0lBZWVCcnJUbXB1NTRDajZjU1YtWG56ZzFYUGVLR3VLMlE3LU1NTjJsR2xxYk9aVDJVUmo4bXRDN0VIckUzbDFSMk1nREVrdWhxeU42WXdmUVkzYTJlbUtiZ0U3RGRJZ3JOUE1rZHNUR1dDT0NDU1B6SkNqNVBhOHFsVkVCeG9nZm55RGF2MFBPSkNCSC1kM1BzR2JtOXBQeTc4eC13VmPSAbwBQVVfeXFMTkcyVFZQUTNrU2hmbXBwZDlra2M2a3gyLW5uZ2VEUFRqaVlUT2swMG9FMTZoZHk4R2oxeHpPRm1rYzBNNGkwdlJEWGNvZ2J2WW5QLTFjWkNHbUwxakxOUS1TdThjeEhXN2pFWUZkRlQ0aUNVbUxLbjYzbk1vcV9YdE5OMU5YeUZBUTJMR1I4RFA3SHcxVzliUTl2amhveFEyUnZuMU55M1kwekxHV081dDk5WXF5dUw4cU9lREE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "KC Venugopal assesses flood relief efforts in Kuttanad and Alappuzha - The News Mill",
+        "source": "The News Mill",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVlrWDl0bE1wLUQ1cEMwdTUtbXh5ODJYcmJDVEtfMUxCbXBGTTRGMkpDMTd4akQzSDd6elEtWjk3SEpBZFQ1OWpzY0hQUDNpcDQ3Vm1VVS1PMlFDbkJwOHcxZzlxWTl1a2tjSGRlLTBlcXZoa3FfQUx3Q3ZoWTIzNFBJUWkteUVnRVJPcTQ0OHQwWFJpZGhVZDJXdEVtT29YY2Z3?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "UNITED NEWS OF INDIA - uniindia.com",
+        "source": "uniindia.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wX1hwb2Jhek82VnBVZXdWLXMyYlJwRnMxV09Va0dNQk1YS281SHBtc1VuMjhCLXdyT2hQM0QtR1NrYzJHRTZ0QlhPU0JGd0E5Wm9nS19Ubw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T15:57:10.335280Z",
+    "collected_at": "2026-09-02T14:50:15.919582Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +229,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.521204Z",
+          "fetched_at": "2026-09-02T18:38:06.998920Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +245,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.521214Z",
+          "fetched_at": "2026-09-02T18:38:06.998931Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +261,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.521218Z",
+          "fetched_at": "2026-09-02T18:38:06.998937Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +277,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.521224Z",
+          "fetched_at": "2026-09-02T18:38:06.998941Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +293,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.521230Z",
+          "fetched_at": "2026-09-02T18:38:06.998948Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +309,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.521234Z",
+          "fetched_at": "2026-09-02T18:38:06.998952Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +325,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.521239Z",
+          "fetched_at": "2026-09-02T18:38:06.998956Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,56 +350,81 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/kcvenugopalmp?lang=en",
+          "url": "https://x.com/https://x.com/kcvenugopalmp?lang=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/kcvenugopalmp/",
+          "url": "https://facebook.com/https://www.facebook.com/kcvenugopalmp/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:46:38.905859Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "UDF government will have 'one of most capable teams', says Congress leader KC Venugopal - The New Indian Express",
+          "headline": "KC Venugopal seeks Lok Sabha discussion on alleged financial irregularities in Ram Mandir trust - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONDRpcHBuODZQWjdSNFRLcV9qNHdWMkNDNGxnRDQzdjNaWG1pNl9ZbEdjSjhYWDBwajNhcDMxdzA0eFA4RTF4U09pN1Y0MDhzUVJqd3NQSXBsYUtwTUI2MUtZeHNmQ2huYndMNE0wNkxUVmZTZHF1YjZYVXIzZk5iTkEtMTJ0Q2V5dnliMnczNzNuVWtwNnEybTIxc0d1RGJrbGpsNDEwQXNuMVRlVUxiZXhZVUQwbndSaDliQTVNVWJMMEtMTTJWWGhJNElGQ1RTS3RSQkw5YTBrQnZHd3Z5V0NLR0FOQ2pXQVl6ZDFYN28?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "'Beaten worse than rabid dogs’: K C Venugopal demands PM’s apology over police crackdown on students - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHRoNGVSaFlCYVBZQ2VYUGFFNUozdlVwVnQ4UkNPSmNWRlJYQm80NzJJQ25WZzdkSWRfUTVBZC1KSVJvMFlkZFVmcVYyUWlvRWRVTEhyVkJjQ05oMzRUVGx3d3YxZnpTcDVKM29scU1qb2t0UjBsS3owY01ZVEZDWGFITmNFbWdEclM4Y3F4U2ZSOWR5Q2JJZ01lQ0Noa1ozTzh1eHoxRDZaaU5sbTZJYVJhQ0NtZU9KN3pyQ3owazdSQVIxYWR5dHNjOU9tVTExWDVaZGhNNXVkVk3SAegBQVVfeXFMT0c4bzc2dFJKY0E5TUVmQnlWd2xmTWZnTWpRUE14N2h6TDhjeGtCTmxjd3Q5bVZBcEpNakp6U09RdzZfYk9vb0JRbE05UmRac0lFQmxOMk5ORGUxSlEtVGJ4UnRpYkYyaHo2OTRkRTg5MTNYZ3BKVlNVTzk1cXQwQ2lLYW9KdWVsZW5ZMExfX185YUE2S0ZPbnJwbl93ZXZOVVl0Nmlodkhrcks3NGxPOTM0SzVBb09xUy1KTVU1YzQ3TEhYUkV5ZndZT0xEX19Zb0V2aWQzVkFLRTJGbHo3UVdVeHlYVFNlWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcmRIUUY4dDNRZVRuRXlMNUl4TFVLU1liQzV0OTVEeElKdmdMdExWMHNyM0VTdkVzX2dmeV9JdkVwdUE0emFFZmY5bFg3blZWRlkwbUxEVmtraG9LdzJTOVlYV1k1NnFpclBNMWZtRlhsd2YzdVJLNWhZVFlnc2twWDhwLTlwUVBKRlVkNktfRWk0Q2g1a2ZPTHNkM0hxSUZRUmFTV195WXhuVUhhbzlxWUwyT1pETWIxZ3pTTXZlMVAwUXFjd24tdDcza3VQeTdLU3g2NkdtN2hWOG8wWTVLbtIB7gFBVV95cUxPM0hnWWJ2YWhuaWNERUotWnlRXzZQTE9abUI5cjcwNHNkSGlqVmVBN0Q4OXl5MWcwZmd2U0RqeXlyRzBjLU5RMVJ0YTg4aHdEUDFueG1NZWlHV2p6aW5SVHVjaWZtQ0tJUmdNczh1SHFRM3hmNnlsdWlWc2t6QlJnUE51ZGs3bUdTdXo4WUZHYzlYQTh2SDlmTG5yandMQUljcXg3VldLSFpzczItRm9aOFJMUFlabEdrVDA2MldWYkFFS2R1X2tjaDJwZ2RiRFcwQnJQNlBHR1pONEp4ZVU1WFdLbnJ6Vzg4R2w0dlNR?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Left bastion Alappuzha crumbles in Kerala, Congress-led UDF wins 6 of 7 seats - ThePrint",
-          "source": "ThePrint",
+          "headline": "Kerala High Court Rejects Election Petition Filed By CPI(M)'s AM Ariff Against Congress MP KC Venugopal's ... - Live Law",
+          "source": "Live Law",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmZmYUNNNnZlZW91RUZPemZRUG5Td0ZNMDBneVlxb2N1cDFSSWpCRW03ZXNwZ2J6QlFlM0ktdnl2b2xTSmJwLUxpdENKNkw4Y2p3c1owZHd1aFpfd3p2NHU1WHZ3V1dkLTlGcDJPQXh6M2E3MlJjYnhTUU5NTnlGeFNyUTFUTXl0M3F4TlpUZGRDNU1sNHRwWGNPZEJJOHZKRFBzRmc4YlkxTk10LUd4d1lWUTBQQ3VJWnhha3FmONIBxAFBVV95cUxPX1JoTzBrZzUtb1c3dF9BcjVjZGVucV9RZHlTUXR2M1BDZXN0WWYtQml1WDVDeF9ZN3hhcEduRXN4NXQ1cm1jbUxzRl9nQWFackRFR01zTjJNT3Vua2k1dUhjYXdER2RzNEJMdkJGR0tveFZhaGVhXy00eFFGQzRucVFFcGVFS0s3eURfcUxhelo0WHliVmhjRkE0X1dUMi1yWF9BQnZvS3JQVGhLaEJsNkU1VVNkcDBFY2VOOTJqOXVDVWd5?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjVjaDQ5LU5OQjFiV01ld0lBZWVCcnJUbXB1NTRDajZjU1YtWG56ZzFYUGVLR3VLMlE3LU1NTjJsR2xxYk9aVDJVUmo4bXRDN0VIckUzbDFSMk1nREVrdWhxeU42WXdmUVkzYTJlbUtiZ0U3RGRJZ3JOUE1rZHNUR1dDT0NDU1B6SkNqNVBhOHFsVkVCeG9nZm55RGF2MFBPSkNCSC1kM1BzR2JtOXBQeTc4eC13VmPSAbwBQVVfeXFMTkcyVFZQUTNrU2hmbXBwZDlra2M2a3gyLW5uZ2VEUFRqaVlUT2swMG9FMTZoZHk4R2oxeHpPRm1rYzBNNGkwdlJEWGNvZ2J2WW5QLTFjWkNHbUwxakxOUS1TdThjeEhXN2pFWUZkRlQ0aUNVbUxLbjYzbk1vcV9YdE5OMU5YeUZBUTJMR1I4RFA3SHcxVzliUTl2amhveFEyUnZuMU55M1kwekxHV081dDk5WXF5dUw4cU9lREE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "\"Capable UDF team will be sworn in\": Congress MP KC Venugopal - India's News.Net",
-          "source": "India's News.Net",
+          "headline": "KC Venugopal assesses flood relief efforts in Kuttanad and Alappuzha - The News Mill",
+          "source": "The News Mill",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeEZUTzg3bEh1ZFFHaEctUGRBUTF1OWRXdndPLU9OUDVqODV4YlpGTVdJWXdJRDlPMjJDQ0FvbmVjQ1Bxanh3ZTVpM1I3U1FHeUlFWmdGTkFUYktBbGNRYUhFUTJRWTZJUENKbXEyVEpzRjY0Vzkxa0JQeEdmVW9aTGk2eTgzM01OWlo1R1VGMWJ2NkNsSTg5cC14Ni1pV2hoaVE?oc=5",
-          "sentiment": "neutral"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVlrWDl0bE1wLUQ1cEMwdTUtbXh5ODJYcmJDVEtfMUxCbXBGTTRGMkpDMTd4akQzSDd6elEtWjk3SEpBZFQ1OWpzY0hQUDNpcDQ3Vm1VVS1PMlFDbkJwOHcxZzlxWTl1a2tjSGRlLTBlcXZoa3FfQUx3Q3ZoWTIzNFBJUWkteUVnRVJPcTQ0OHQwWFJpZGhVZDJXdEVtT29YY2Z3?oc=5",
+          "sentiment": "positive"
         },
         {
-          "headline": "All about KC Venugopal, the election strategist set to become Kerala CM - Business Today",
-          "source": "Business Today",
+          "headline": "UNITED NEWS OF INDIA - uniindia.com",
+          "source": "uniindia.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSzV3OXY0SVk0cGlHZUNOZG4tWTRTT09heEpwc0padmVTenc0MVNhR3BOQlROZDhabDVoZTdjWnlVbmUtVWF1bEI4bnEzS2NGbVd5aWM2V09ZX2JxQXRlNW1nME1hbEk2bjZKeWV3UV9WOVc4VzRQbmN6ZXRCek1oRFZvak1faTh1X0V6Ry1kRlRlZWtaMEpIQlVjRVFhQU91b0JQRHFkdkEzYVVET3JUUkxIcWlVQWNEUUJ1b2F1LXVyTl9IX2xFMtIBzgFBVV95cUxOb3RnREJzbGJMVkhVbVIzZ0JlWktab2dxU2lqSDFtTFRXWjRWRVZVdE02YjhYYW5SUkJPeTh0cXY0dmtBSlJ1Q3FSQUNjd3B2ZzktNlI5V2FMZHA3QmVFRFdyaFBSemZwVF9uT3lOdzB1T0Zmd0IzU05rOFlRU3I4MHBPNW1TTzBnRXRpeDMtcWpXdzNoZkZYR085SEdnR3NqcmhLQkFOd2NCMXlVMjhSck1sLU9mWnZFVFFCbzMtY3RLeFpOVGt4S0huWVp4Zw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "KC Venugopal: Congress high command to decide MPs in Kerala Assembly poll - Deccan Herald",
-          "source": "Deccan Herald",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZDFlS2hvc3lOaFYxdDJ1TVBvelAxOENlUWxCbmNzZ0Z1Mno3TDU0Ql9PR01STDBubld2TXRWVTMxWklYaDJscDNqbW1aNENTRlV5REZyUWh4dVBaeVhIdEdFZjZNV3o5VndBNGNYRm5sYmNoU2FTT0s1Q1R5bkRGdGdjSml5Q1FXMl9hVDZla05BYXhvakVaRk95Wm9DdEk4RVZlMHhPQ3dDS29UVTFmeU10OVUyZ2VPUHF3LWZnT3EwSTFRTzFBZXZpTDVRdGpnMng2Y2FUWUlQUnNpbl9teWlB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wX1hwb2Jhek82VnBVZXdWLXMyYlJwRnMxV09Va0dNQk1YS281SHBtc1VuMjhCLXdyT2hQM0QtR1NrYzJHRTZ0QlhPU0JGd0E5Wm9nS19Ubw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -360,15 +458,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 46,
+      "starred_questions": 13,
+      "unstarred_questions": 33,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 88.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +474,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +505,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +532,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Kerala: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 36,342,460. MPLADS utilization: 22.7%. Parliament attendance: 95.0%. Questions asked: 46. Debates participated: 16.",
-  "validated_at": "2026-09-02T01:36:49.521946Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 46. Debates participated: 16. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.999715Z"
 }

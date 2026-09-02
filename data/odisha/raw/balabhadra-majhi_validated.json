@@ -4,16 +4,16 @@
     "constituency": "Nabarangpur",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 6335,
+    "myneta_candidate_id": null,
     "slug": "balabhadra-majhi",
     "house": "lok_sabha",
     "sansad_member_id": 4796,
     "profile_url": null,
     "canonical_name": "Balabhadra Majhi",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/4796.jpg"
   },
   "findings": {
@@ -22,80 +22,147 @@
       "constituency": "Nabarangpur",
       "state": "odisha",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 6335,
+      "myneta_candidate_id": null,
       "slug": "balabhadra-majhi",
       "house": "lok_sabha",
       "sansad_member_id": 4796,
       "profile_url": null,
       "canonical_name": "Balabhadra Majhi",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 63,
+      "age": null,
       "photo_url": "/mp-photos/4796.jpg"
     },
     "criminal_record": {
       "total_cases": 2,
-      "serious_cases": 0,
+      "serious_cases": 2,
       "convictions": 0,
       "pending_cases": 2,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "34, dt. 05/03/2021 at Jharigaon Police Station, Jharigaon",
+          "ipc_sections": [
+            "342",
+            "353",
+            "294",
+            "506",
+            "149",
+            "143",
+            "186",
+            "120B",
+            "427"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "JMFC Jharigaon",
+          "fir_no": "34, dt. 05/03/2021 at Jharigaon Police Station, Jharigaon",
+          "case_no": "150/2021",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "59 dt. 02.02.2021 at Nabarangpur Police Station, Nabarangpur",
+          "ipc_sections": [
+            "143",
+            "294",
+            "341",
+            "353",
+            "506",
+            "120B",
+            "149"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "SDJM, Nabarangpur",
+          "fir_no": "59 dt. 02.02.2021 at Nabarangpur Police Station, Nabarangpur",
+          "case_no": "151/2021",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:49.068136Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 78863561.0,
-      "liabilities": 1124732.0,
-      "net_worth": 77738829.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6335",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.756951Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 51.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.74,
-      "released": 14.74,
-      "sanctioned": 7.26,
-      "expended": 0.66,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:37:25.943592Z",
-          "notes": "Official eSAKSHI REST API — Works: 220 recommended, 179 sanctioned, 2 completed"
+          "fetched_at": "2026-09-02T14:31:00.960486Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:17.330965Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:17.328062Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 220,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 4.477611940298508
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 70.0,
@@ -110,7 +177,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:24.380075Z",
+          "fetched_at": "2026-09-02T14:27:17.327005Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +185,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "BJP delegation visits Sijimali, holds talks with tribal protesters - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFNXVGFnSnVCWXlqOW02b3BiMnFGYjdPWFFUTUpFUzNzdFdOZnBKWnc4bXUtWXB6WDJreXZ4TmhvTDV1SmdobG1yQmpkUGJYZTFDYmdYM0d0RUZUd0duNldYc3gwa3plTWRlTHdlNjJPYllfZ25ubmphV0lYN0NqYjFyRUNYS2R5Mkg4cFdKc0Z2aTZNRV9rSXN5R1c4UWFHYWZ1aXBNNFEwZzRBQ1dQNUxXSjNBVExGTFdkeldqU2E1Z9IBzwFBVV95cUxQcFNDQm0wb3pEaGlXdmN0Z0FMOUdBZXU0YlJnQ3B2UWRLUlRLRi1kYlg2NU9MSnJkZXRqZ2VDS1V5Sm5jNmdKZUR0cWtoQ3FvZFRlaXctOW1vWVVJbmZYblczTXlkRFFKRkVXRHpuRXhWRWRYWEdSQ3ZDX2tSMGRoRHJxWFlzNHVmWFRlTW1mOEFoVWstN2ZzT2ZwN1hsUHNYQktscVRXS2x5ZWJwNGs2N2Nsd0N4UjFaTnlaWTJUOUl0WnpVaG9pRVlNeWF6bDA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP delegation meets tribals opposing bauxite mining in Sijimali, promises 'justice' - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOajdVd0g3MlFpcWJfR0ZNNUpOeG1FWThRR0xNVDBFSi1UY0pMWGVMbk9yX2g2QldDYUVEZFdkR21aTFJuaVc5UTJFNzlwekc3dFdCU3hCS0ZGSVFBdmNTbGtfY19Dc0lUQXF2cWlvRE1UZ2JKS2tyd0JmWWZ5Zk9qWW5iMHpnbFVsb0FaR25BZzZoRVNHOER5YmcxeUI3M21MaTZCN0YyT294aFFlYk1KVVY3NjhTeU9JUjJiQzBtbnJiSnBULWUtc20zbkk1T1BDUi1HVXlXY9IB5AFBVV95cUxQSndOX0NSZVo5SzNTN0VDY3p6dzBSVXZzeHhLNDFvaWtnWFhKcWJiTURSUl9sYVAydWJQV0tONmFJdFVxcXFEQmZPR1h5T1dGbWl1bVEzWWhRc0d6eTU0N1BMOGdjYWxiRG9JdzZQbU9KUEZBUmI3bVBZQ1JVVUVzRnFPTjU1TFFPTGFQTlVlaDVRM3pxV0tTcVJJVW1xOTlNcUFlOGJfMUJ2dmpISjdYSFVyYmxlMmxiTE9nTG10TDlNY1VGTFZ3TlNMXzAzUVBBcHhtUmJwRm9XOUJBcFgtWlliQms?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha elections 2019: BJD’s Nabarangpur MP Balabhadra Majhi quits party ahead of polls - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYVgzZG1vSXhvdnVLSkNPSElKand4ekZab2Q1eFlYdEJsUzRjV1pIQlZaNHR0cXZuM0xORmRlMWplZW1rOHU3UTlHemw5OU90TUtLdXNQV0dOMjBaMG9HQVVtZHN3X0d6Y19tN1RMWkRsUmNHeGpFeHp2VFphLVJhRXJVdVB3ZnpIWW5wWFRWRUZNN1d2azMtXzRucUNCS2ZHbW1JZmdpUmQ2RzJ0UXAxMWhaZUV0S1lxa2hNX1owUHBKWGNFQjctT3ZIU2tpaTl5LUhURVlvLVJjYUM4bndNVEV2T0NDVUd5dDlQV0dTWUtxSXV0bDUyQ2pR0gH_AUFVX3lxTE5VYU5WbVM2aXVNd3U4SE9IaTRZSEZsSHM3eUFnSWdwSGdzNkk2R25qNUJUenQtM09DQUxvNUFlYlFPbllvZ3c3NkoxWE1VQXMxWlRMM2VicE9PSDhQa0ZncERPbE5IMUMycFgxZWFJQUdjclhEN2Z2WkM1TnpMbUR2YVhWSV9CVGttQXdPSS0tOS1JVlotRXZ4UGtUNG93ZER5UFBzQ1pOZGZ1bk1Cd1lLZEd1RUpBZjUxVUJBRlc3Z0xDQXdmSkNjWDI2enlyZ1Jod2pOWm1SV1FneC0xYjRyM3BQaEF1T1ZVWjNJVF9BOHpWUFFxRXA3WVU0b1MxOA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Odisha: BJD MP Balabhadra Majhi resigns from party - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZm02OC1YTTBPOGlVS0tKUUdrNkxSS3laOVVpME9WUWs3amNxa3pUeEFvZmhyUzR0WVRhMGk2SGhfekJSeEJCVlF6UEVHNzAycm9mTU5LUnVqOWJpN3NfQU5XVWk3ZzlqaWpIbVdqdk82X0JwN3J3WFM0OFhicmdvOVZ1ZjlUVW1YYUx0SlV6NWh3TzTSAZoBQVVfeXFMTTVjMkdmaXIxTGhUOHNzZ0tNdFJqd0ZVeVpvS09NamQxTllEcElNZjVUYURXS2lveGcxX1Vtc3JkTkJKWFdFQUhCdkpPSWNNZ1N3b01FUVQ2X0NtSjhrY0dDWVV1UUpNT0k5NHRfdmVkWUxJVl9CUFVVT09wRExvMVdtN3RZcVJGR1VJUGZ5MDNFVFNaZDhFcWw4QQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nabarangapur (ST) lok sabha election results 2024: Nabarangapur (ST) Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWtOa3hoOWx5bWJGVFJOeHZiQXV3aG9RTFQ4VWs4Q05IcXQ1N3lLbWNNY3FCYmJKdmV2NTYwNUc5RzlMVHN6TUwwZVdiV0lFM1doS1JtRnBkdTJaUlVZQlB3eWFNc0Q2TWNmT0ZxMFRJTUlzN0RIazdlSEY2aWNWNTRnYkFjTTNRS3ZPdHJPU2JtNkswNy1SazdR?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:27.265330Z",
+    "collected_at": "2026-09-02T14:31:00.961496Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +254,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.211984Z",
+          "fetched_at": "2026-09-02T18:38:08.724892Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +270,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.211992Z",
+          "fetched_at": "2026-09-02T18:38:08.724904Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +286,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.211997Z",
+          "fetched_at": "2026-09-02T18:38:08.724910Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +302,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.212002Z",
+          "fetched_at": "2026-09-02T18:38:08.724915Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +318,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.212008Z",
+          "fetched_at": "2026-09-02T18:38:08.724922Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +334,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.212013Z",
+          "fetched_at": "2026-09-02T18:38:08.724927Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +350,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.212017Z",
+          "fetched_at": "2026-09-02T18:38:08.724931Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,17 +375,34 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "Balabhadra Majhi14",
+          "url": "https://x.com/Balabhadra Majhi14",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:27:23.980586Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 2,
+      "positive": 1,
       "negative": 0,
-      "neutral": 8,
+      "neutral": 9,
       "top_headlines": [
         {
           "headline": "BJP delegation visits Sijimali, holds talks with tribal protesters - The New Indian Express",
@@ -290,28 +413,12 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Odisha BJP assures justice to tribals - The Hans India",
-          "source": "The Hans India",
+          "headline": "BJP delegation meets tribals opposing bauxite mining in Sijimali, promises 'justice' - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUl3a0RobnJ0UTZUV2hEeDl2bXc0ZUFKaFJsZDVSSzl2XzR0N0d0ckJoRkpmWG5rYzI2MVpJSjNrSi1lblN4NHhIcDlha252Y0VUaTkzd0NpeWNHelFheF9qdFNQYXA4M1Q2TFhxS3gtT0NnYjdnQUJnUWxURHczSFp4dzZ1TTRENXBoeU5ELW1lUdIBlwFBVV95cUxOcWRvQzJNLW9HX3QzNThSTjJaZEpVSEdFeFNrM25YWFRjTFNIbVFRZXdwVXpseWVDRWd6eDZ1Ql9JZTJBc2lKZ0tGQTlNbnpkUnFXdWh6eWdYQ3ptc2dHS3k1eUtkOEFMUmdXckhjWi1SaE9LZTVqX1dZRUNiSHRKV3JYZmtxSlFaTklkYWdHOTBJdk84S1VR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOajdVd0g3MlFpcWJfR0ZNNUpOeG1FWThRR0xNVDBFSi1UY0pMWGVMbk9yX2g2QldDYUVEZFdkR21aTFJuaVc5UTJFNzlwekc3dFdCU3hCS0ZGSVFBdmNTbGtfY19Dc0lUQXF2cWlvRE1UZ2JKS2tyd0JmWWZ5Zk9qWW5iMHpnbFVsb0FaR25BZzZoRVNHOER5YmcxeUI3M21MaTZCN0YyT294aFFlYk1KVVY3NjhTeU9JUjJiQzBtbnJiSnBULWUtc20zbkk1T1BDUi1HVXlXY9IB5AFBVV95cUxQSndOX0NSZVo5SzNTN0VDY3p6dzBSVXZzeHhLNDFvaWtnWFhKcWJiTURSUl9sYVAydWJQV0tONmFJdFVxcXFEQmZPR1h5T1dGbWl1bVEzWWhRc0d6eTU0N1BMOGdjYWxiRG9JdzZQbU9KUEZBUmI3bVBZQ1JVVUVzRnFPTjU1TFFPTGFQTlVlaDVRM3pxV0tTcVJJVW1xOTlNcUFlOGJfMUJ2dmpISjdYSFVyYmxlMmxiTE9nTG10TDlNY1VGTFZ3TlNMXzAzUVBBcHhtUmJwRm9XOUJBcFgtWlliQms?oc=5",
           "sentiment": "neutral"
-        },
-        {
-          "headline": "MP Balabhadra Majhi flags delay in setting up MSME technology centre - EdexLive",
-          "source": "EdexLive",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3BHRHhWTDRvNHBlM0tKUTFNeTllV05QVVY0T3MzYnZ6UEEwMFFCcW9uNFhNOGZRUV9Ld0w2WkdOZjZNRXdzQjRmRENGQlBSVTQzODZ5eDYwUmNRNUFrY245ek1jWEUwMlBQMlVaYmRDWlNWNHVSMWpGTUdXYTBSZ1QyNkFYZmlUalBkSUpYTFdTclQ0YTQxX3FFWnVZbm_SAawBQVVfeXFMTkVYXzhsNWp5a1lzcFdPbUw0S0J0MEc1RkY0Q002M0pDVlBUTmVoQkVxY0RYNExmb09UTExKeWdlX3QxUWV1MVJjM01SS0p4S2tEV3NDRXFlSlNxeXVxVWZqZnpWd0UzaEFTTjd4ZUNORnFHUjk4QjJEYjlTZ3VtSVdwSzZTVEVfY3QwNWxCX29JV1hSRlk1TVVmYUVaSFR0dkdBNy1MdjZiVVd0Yw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Malkangiri MV-26 Violence: Arrests Climb to 18 as Normalcy Returns With Relief Efforts - pragativadi.com",
-          "source": "pragativadi.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGxqUTZaQ21pYi1Rcmc5ZzFoV2hNMF9SS2dTWDhHMDlFOUlJNFhoQXlZRzIyRGRTMHRjN1NXd2p1UFhaUXAzNTQ3ZWM4ZGg3OU50TG9IVFplNTB5U3BwMGtqV3djMG1xNU9SZUVaLUplZ3hfWkVjZUVIcG94a3M3YmFpOGRXa2FwbE9PY1FMaVdJelRUNTE3SXpEaGFIYWhTc190ZndmYkZDME4zNTU4?oc=5",
-          "sentiment": "positive"
         },
         {
           "headline": "Lok Sabha elections 2019: BJD’s Nabarangpur MP Balabhadra Majhi quits party ahead of polls - The Times of India",
@@ -319,6 +426,22 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYVgzZG1vSXhvdnVLSkNPSElKand4ekZab2Q1eFlYdEJsUzRjV1pIQlZaNHR0cXZuM0xORmRlMWplZW1rOHU3UTlHemw5OU90TUtLdXNQV0dOMjBaMG9HQVVtZHN3X0d6Y19tN1RMWkRsUmNHeGpFeHp2VFphLVJhRXJVdVB3ZnpIWW5wWFRWRUZNN1d2azMtXzRucUNCS2ZHbW1JZmdpUmQ2RzJ0UXAxMWhaZUV0S1lxa2hNX1owUHBKWGNFQjctT3ZIU2tpaTl5LUhURVlvLVJjYUM4bndNVEV2T0NDVUd5dDlQV0dTWUtxSXV0bDUyQ2pR0gH_AUFVX3lxTE5VYU5WbVM2aXVNd3U4SE9IaTRZSEZsSHM3eUFnSWdwSGdzNkk2R25qNUJUenQtM09DQUxvNUFlYlFPbllvZ3c3NkoxWE1VQXMxWlRMM2VicE9PSDhQa0ZncERPbE5IMUMycFgxZWFJQUdjclhEN2Z2WkM1TnpMbUR2YVhWSV9CVGttQXdPSS0tOS1JVlotRXZ4UGtUNG93ZER5UFBzQ1pOZGZ1bk1Cd1lLZEd1RUpBZjUxVUJBRlc3Z0xDQXdmSkNjWDI2enlyZ1Jod2pOWm1SV1FneC0xYjRyM3BQaEF1T1ZVWjNJVF9BOHpWUFFxRXA3WVU0b1MxOA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Odisha: BJD MP Balabhadra Majhi resigns from party - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZm02OC1YTTBPOGlVS0tKUUdrNkxSS3laOVVpME9WUWs3amNxa3pUeEFvZmhyUzR0WVRhMGk2SGhfekJSeEJCVlF6UEVHNzAycm9mTU5LUnVqOWJpN3NfQU5XVWk3ZzlqaWpIbVdqdk82X0JwN3J3WFM0OFhicmdvOVZ1ZjlUVW1YYUx0SlV6NWh3TzTSAZoBQVVfeXFMTTVjMkdmaXIxTGhUOHNzZ0tNdFJqd0ZVeVpvS09NamQxTllEcElNZjVUYURXS2lveGcxX1Vtc3JkTkJKWFdFQUhCdkpPSWNNZ1N3b01FUVQ2X0NtSjhrY0dDWVV1UUpNT0k5NHRfdmVkWUxJVl9CUFVVT09wRExvMVdtN3RZcVJGR1VJUGZ5MDNFVFNaZDhFcWw4QQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Nabarangapur (ST) lok sabha election results 2024: Nabarangapur (ST) Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWtOa3hoOWx5bWJGVFJOeHZiQXV3aG9RTFQ4VWs4Q05IcXQ1N3lLbWNNY3FCYmJKdmV2NTYwNUc5RzlMVHN6TUwwZVdiV0lFM1doS1JtRnBkdTJaUlVZQlB3eWFNc0Q2TWNmT0ZxMFRJTUlzN0RIazdlSEY2aWNWNTRnYkFjTTNRS3ZPdHJPU2JtNkswNy1SazdR?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +475,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 21,
+      "starred_questions": 6,
+      "unstarred_questions": 15,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 40.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +491,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 70.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +522,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +549,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Odisha: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 78,863,561. MPLADS utilization: 4.5%. Parliament attendance: 70.0%. Questions asked: 21. Debates participated: 5. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:51.212803Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (2 serious), 2 pending, 0 conviction(s). Parliament attendance: 70.0%. Questions asked: 21. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.725685Z"
 }

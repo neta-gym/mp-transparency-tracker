@@ -4,80 +4,137 @@
     "constituency": "Kolkata Uttar",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 9027,
+    "myneta_candidate_id": null,
     "slug": "sudip-bandyopadhyay",
     "house": "lok_sabha",
     "sansad_member_id": 38,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 75,
+    "age": null,
     "photo_url": "/mp-photos/38.jpg"
   },
   "criminal_record": {
     "total_cases": 2,
-    "serious_cases": 0,
+    "serious_cases": 2,
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "RC 39(S)/2014-Kol, Dt.05/06/2014, CBI/SCB/Kolkata | Section-4&6 Prize Chits and Money Circulation Scheme Banning Act, 1978",
+        "ipc_sections": [
+          "420",
+          "409",
+          "120B"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "RC 39(S)/2014-Kol, Dt.05/06/2014, CBI/SCB/Kolkata",
+        "case_no": "",
+        "other_acts": "Section-4&6 Prize Chits and Money Circulation Scheme Banning Act, 1978",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "Prevention of Corruption Act, 1988",
+        "ipc_sections": [
+          "147",
+          "149",
+          "427"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Special Judge/CBI Bhubaneswar",
+        "fir_no": "",
+        "case_no": "T.R. Case No.04/2017",
+        "other_acts": "Prevention of Corruption Act, 1988",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:40.690127Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 84812907.0,
-    "liabilities": 0.0,
-    "net_worth": 84812907.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9027",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:56.371614Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 53.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.21,
-    "expended": 4.32,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:53:10.821606Z",
-        "notes": "Official eSAKSHI REST API — Works: 38 recommended, 34 sanctioned, 6 completed"
+        "fetched_at": "2026-09-02T15:18:39.518450Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:14:59.767432Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:14:59.765658Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 38,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 29.38775510204082
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +149,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:33:07.598434Z",
+        "fetched_at": "2026-09-02T15:14:59.764834Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +157,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "TMC civil war: Sudip Bandyopadhyay joins rebel MP Satabdi Roy to meet BJP leaders - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNS1aOTlza0s3UEpzYlY5MkcwVnBONFVDdzdlOS1JVDdROTY0QjhIX2RobkxzZkNFblZGYTY5dWhPTGphTXVvZWF6dUY5dUY4QnMtTW5KQXJKMlZsVUdjYVdGcHBOcF82Y0dEeTVvOGlFM25EWDNGaEtfSEhmakcyYmpnWG54bTRSaWIxcTloa0VsTFNlWUZpYXNMU25TcGZYRUN0YnhuRHNYZ3FQek5qVUNnNENNemhMZWlXTS1ZVVhmSjhqNWZMNi1nY9IB2AFBVV95cUxOS1FlbGFVN3l3T3dLaG1palhvWTdPRUR3c3g5Qm11M1FuZ2xYWWY0ZXBWNThVNFFuVW5wWE04bXNBM0FxSUhnZDE3dW5QVVNKSGJxaVdOTEdSWGZqbnBvbEJVN2VvdUpyNHJGeWM0ckdzV08zNUhsalBwN3RoNjRfYTN5WTluWUJnb2pYUkdZaGMxam1qSU1kaXZtRFFHbnpLMFhwSGpieEdRSFFEaG1GZVdadTlLVHlHMXRyUGp4b1hzWWNFbFQ0U1hIcmZTV3RReVBoVUNaaDQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "TMC parliamentary face Sudip Bandyopadhyay joins rebels after meeting Amit Shah - indiatoday.in",
+      "source": "indiatoday.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMlVKSUYwVlVQVE1GOEtaNENQRk84SWJkbG5nSVYyOXgwOFd2c3FQVnRWb0huZ0ZYdUJxQUp3WHp4dThuT3BDQmUyYUoxYVc5amRYMFI4Zi1WdGtwN2lSdFlDWFpSZU5wcDZVWW1KUXc2X2RLSVdTaDR2NFBubDF4bk5ybjRNeTVYZEVPb1NIZmhoWk9YYXVWVW9MeEpJeU5XcVJ4NUd1Y1l1VUZITExubVlzNjFpR3ZzVW9lMHRQMWlnbXRqUjlxU0VFazdLM2pUX2lN0gHYAUFVX3lxTE9WNkdzSFBXTHZqdXBFd3Q3elZJTjBtbk0zN2NHWl9sNDNmLXV2ZHhBUUpVQ2JLVm9tQ2RfNUVPbGlFRV9DQWxDTWwtYVI5MjFVNENPQ0UzLV91SU9NU044aW95VXFjMzJpeXBwOWlVRkxOWkNzZmhyRDMxdWJNa2std1huU19HeEs0ZE1QWktaSEdFVmtHSF9BNDRWVlcxWEdLSG53UE50dDNjOGVuNUNpb1pUYU9jMGxicFdhT2x0b3phemgwY2lZWFNBZnpQd2FVZ0doXzVzQw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘20th MP found?’ Sudip Bandyopadhyay’s BJP Delhi Darshan fuels fresh TMC defection buzz - Livemint",
+      "source": "Livemint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY2lVc240WHM5bUs2WjlaeWJ5ejl5aXd1eHVieHpNY0lmNFFjNnB1VkV6NmNnaXo5TVBWbnpzOFNNcjBSU2VUQlRKblBKQThHazdES3oyRzd2SldWWXNJVHBmSmw0dEpBMHJHT2t5VEFkcXdPSE1sS1k0R0ktLVdmTi1nUE5Wc1JDcUEyVXR4MXhITDJXbGR3NVNVRWFOSWM1ZEdPLWRIWTVUUFIzR1RXRngxQm1Dc3dCU3c4X0FYbjhOVnpTbXVadUJrVVUzM0NnNWlJSlF2dmdUa1dx0gHiAUFVX3lxTE9FMUdhNW9UNzZnNWxQSzBUaGItQXdLd2w5WTl6VzhXYUpXZE5KUTcyNmJUQ0lueThXOWJHWHkzLUZHV1lSbEJLVS1hT0hPQ0J5TS1Ga296WV9rWkxmTVVzamZMQXA0THNCTTJ2RlhHeUhOQVA1RWJJVV9ocmQzdjJzODF6VE9MVE1GTkwxNlpyQUgxSm1XU0lyYTBkR0FQWndrRVVaVmsyUmFjVUtLa1ZodDl3Zzk5d0ZBOEhScDl1aFpENTdYRnBaUkhERjVUQ1JlaW1DNzNROWhmV1dGSHRpUWc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sudip Bandyopadhyay Delhi Visit Fuels Speculation of TMC Split Amid Internal Rebellion - Daily Pioneer",
+      "source": "Daily Pioneer",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVREaU44VHdfM2Z4dVdyTWV6MGhRWXN3blR3dVhkU0ZRd251QTgyYks2Tl9zS2lERFVYNGhWcTNDNFBXRmVoWXMwZ2t1V29COEI5UllTOEZFTVJwa1JhVVhrZi1uUkwyMkw4VVNWREdzQi1kclBOakwyWVJKOF9OTEg3aWU4UElFTmxrQnlNdjJDbDlU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Senior TMC leader Sudip Bandyopadhyay backs breakaway faction, signs key letter - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVDUyNzg2dkg2VkloVmxkTzVSSHFpQlNhWU05b21LMkM0WnBaWE1iS1A5NEV1OTNvSVFySHA5Nk1aaTZpZ2NoeTVsY1dJdlZCMDQ5ajR3WHpEM3NnRk1UYnRGazJCU0JIV25PaVdpVHMwaDZjR1JzcDBUbG5yOVRqSEtkVGFEdmJ0bUkwdUdpQUJIcm12WjE2RkctYkJzSFk4RHdROVA3NlN0SE9pVUVMT3RqTGt6LVZobDNjZS11NHlKaW5IN2hrZmY5ZFfSAdIBQVVfeXFMTUt6RUV6TE0tblFsUDFTY05nRngtOVZPNm9UR1FPTWlzbWFWeDVGODU5T3RYaHl4S0tvQlhEZ2pNWmhTUHVxMnU0a0l0UjJEUjVQSlpZZVRPazZ2NGozTnBzWTZvRnF5QXlSallRWTltY1NxSTdHdHhPenBqRVFvc2UzLXFPTGtWMVIxUFdNNFBZTHJNSVdIZi0zaW9wTlpNZGRDV2xlNDBRSlRPTDU1T3JpX2ZnbG45TlFCX3FYZlpSZjRoNXFxMUg1UUNTVHhvb0dn?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:33:58.083698Z",
+  "collected_at": "2026-09-02T15:18:39.519110Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.017569Z",
+        "fetched_at": "2026-09-02T18:38:12.660659Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +242,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.017577Z",
+        "fetched_at": "2026-09-02T18:38:12.660670Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +258,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.017581Z",
+        "fetched_at": "2026-09-02T18:38:12.660676Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +274,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.017586Z",
+        "fetched_at": "2026-09-02T18:38:12.660682Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.017592Z",
+        "fetched_at": "2026-09-02T18:38:12.660689Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +306,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.017597Z",
+        "fetched_at": "2026-09-02T18:38:12.660694Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +322,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:55.017602Z",
+        "fetched_at": "2026-09-02T18:38:12.660700Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,43 +360,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "TMC Leadership Shift: Abhishek Banerjee Named Lok Sabha Leader as Kalyan Banerjee Quits as Chief Whip - Deccan Herald",
-        "source": "Deccan Herald",
+        "headline": "TMC civil war: Sudip Bandyopadhyay joins rebel MP Satabdi Roy to meet BJP leaders - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWURnVjBuUEhMTmo2Q2RRZTZIZ0ZHdUlyMlpHMk50R3Azc0FlV29PbFd3WFNjZmh0bEtUUEt0dVBBbUxxY1pQREtYX1hCZU85TUx4cHFTbll0RzJ6T1lOdnlkNGltZWs1NW5PTTQxakdsN21QeFFhRE55el9uR0FTOEs2cUJNQlM1QnRnTEtrSzRyNHZuWTBONjkwbjYxYjRlek5uZmtvTUgtRDBVVEE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNS1aOTlza0s3UEpzYlY5MkcwVnBONFVDdzdlOS1JVDdROTY0QjhIX2RobkxzZkNFblZGYTY5dWhPTGphTXVvZWF6dUY5dUY4QnMtTW5KQXJKMlZsVUdjYVdGcHBOcF82Y0dEeTVvOGlFM25EWDNGaEtfSEhmakcyYmpnWG54bTRSaWIxcTloa0VsTFNlWUZpYXNMU25TcGZYRUN0YnhuRHNYZ3FQek5qVUNnNENNemhMZWlXTS1ZVVhmSjhqNWZMNi1nY9IB2AFBVV95cUxOS1FlbGFVN3l3T3dLaG1palhvWTdPRUR3c3g5Qm11M1FuZ2xYWWY0ZXBWNThVNFFuVW5wWE04bXNBM0FxSUhnZDE3dW5QVVNKSGJxaVdOTEdSWGZqbnBvbEJVN2VvdUpyNHJGeWM0ckdzV08zNUhsalBwN3RoNjRfYTN5WTluWUJnb2pYUkdZaGMxam1qSU1kaXZtRFFHbnpLMFhwSGpieEdRSFFEaG1GZVdadTlLVHlHMXRyUGp4b1hzWWNFbFQ0U1hIcmZTV3RReVBoVUNaaDQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Kolkata Uttar election results 2024 live updates: TMC's Sudip Bandyopadhyay wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "TMC parliamentary face Sudip Bandyopadhyay joins rebels after meeting Amit Shah - indiatoday.in",
+        "source": "indiatoday.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVm9RYklwN01kMFJUMnZVLWp0cG5xR19XLVhNd24ycnU4TXRfdUZ3QmRqUl9qRGNJUkhDVnloeGJPWnhuclVwbUFfbHFyNGhYZ3Q4OVZGQ0RfaEcxbGtCM2lBNFFWZ1BIRC1rYzNoZjlOc2swVXgwS1NsVHJqQTQ2eUVsa2JPclpzZmZZWHFLWjkxcjJVdnhKcEhVOE9UaXpwMmFrVU5YLUdONEQ0ZTlUVTBPOV9SQlNaQUhSQXp5ZVJTbUYweTlyMG8xYV81dVhrb2xvMVZPcGxoLWptb1U0dkQ1QkFodXlnNjc4RFQ2WUZsTHJOWTlxMm40eHpEWHpNbUdlS081WmJ3a24yMGtLZUtXYjRiSFpZaHFSYWEtS24yR0tHdmxaN3FlYldqck10VU1RUl9fLUtqeUxRRUgwZ0lFSklCbElCdVlKR2ZnbnNmNGdjRTFESkx3Z9IB4AJBVV95cUxQczh4RTNaTEZJeDFHdE9sTFRCbkpLdHV5ZzMzdGVpTzRTNjVuWnRzYm1vN2p2NElwTnZ2VTVObmNJMG1rcWU0eDZJczUwYm1xbmZsMnFIYmFnSXYyZG1WMkctLVhWZWlTWUNZSEpoREJWdkF6M3VKeUhkV0VvdmstUUFEa0l5T0dPSHZoSDNQQjFZd1I1ZmxsSGo1UkNuWkQ4azRub3FhQ0lFWURsUV95YnhmalBhMDB3cGdZd1VIa2c2VkN5WWNiOXJPcUZmYVlaM0o1dzBfUWthaEZYampOVGtzWnFKeGZ6MkIyc0xxSk9oNFpaOXpEVHk4LXh1Z0N5LU9LcjFRT1YzTl91RUFmdE1XV0dSOHZld19hZVRQZWUtRmNQRXVGSzdLdlVWVG44bmtiY3c1Z3JwX1lpcGowaXF3NlBUNlJGdFVwczlFS2NvTjNsOTh3TzFmdWVBejhT?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMlVKSUYwVlVQVE1GOEtaNENQRk84SWJkbG5nSVYyOXgwOFd2c3FQVnRWb0huZ0ZYdUJxQUp3WHp4dThuT3BDQmUyYUoxYVc5amRYMFI4Zi1WdGtwN2lSdFlDWFpSZU5wcDZVWW1KUXc2X2RLSVdTaDR2NFBubDF4bk5ybjRNeTVYZEVPb1NIZmhoWk9YYXVWVW9MeEpJeU5XcVJ4NUd1Y1l1VUZITExubVlzNjFpR3ZzVW9lMHRQMWlnbXRqUjlxU0VFazdLM2pUX2lN0gHYAUFVX3lxTE9WNkdzSFBXTHZqdXBFd3Q3elZJTjBtbk0zN2NHWl9sNDNmLXV2ZHhBUUpVQ2JLVm9tQ2RfNUVPbGlFRV9DQWxDTWwtYVI5MjFVNENPQ0UzLV91SU9NU044aW95VXFjMzJpeXBwOWlVRkxOWkNzZmhyRDMxdWJNa2std1huU19HeEs0ZE1QWktaSEdFVmtHSF9BNDRWVlcxWEdLSG53UE50dDNjOGVuNUNpb1pUYU9jMGxicFdhT2x0b3phemgwY2lZWFNBZnpQd2FVZ0doXzVzQw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Kolkata Uttar Election Result 2024: TMC's Bandyopadhyay Sudip wins for a fourth straight term - CNBC TV18",
-        "source": "CNBC TV18",
+        "headline": "‘20th MP found?’ Sudip Bandyopadhyay’s BJP Delhi Darshan fuels fresh TMC defection buzz - Livemint",
+        "source": "Livemint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNmFXU2hvVU5LUG5JcmZ6NVJnQmhXekpxbTVTWDRPXzM0bXk4SXY5WFhvTGtZbWZ5UmxmdGM3SDIyUDhPMlN2czdFSWwxSXlyNDc5NkNESjdjRjFRWFZpZ2VwWE9IZzk2bmdZeTFPemZ6eG5sUnBfXzdoS1JpcHRmamIyaFd3b1RMYzFxOUlYREV5bkx6M0VkV09WRVdiSHhnV3dyOWNxM0hnQXpNZXlfOEJjYUJyNFpCS3dIYTYxRGRCOFRBazdDQ2k4aF9QMU5OMGVCNFNwNS16VFdZTlRqV2ZJLUxPdFND0gHuAUFVX3lxTE1aR09XdWJ2Wl9FclpSS0Q5bWZVM2FRSjFWVFZmRGZuMloxMkpDaURPYktBVWRaY01KSnVZVUd1UFhPRjMweFNkRnluNnFhREJRWmJnQzZXU0hac1pPbVRlRnM3M0VtS1NrbWF0eU0xVnZrYVhKbzdRaG9qcXQ2cThsS2Rhc1ZCMTYwRXRyZDJ0N28yZG9rVjdGTnFWcnl3SWlQb19aNHVsakdSQkhzWTJ5QkYxWm1nV3NzOFRZQ2dEd0ZHbE4zN3NBd1Rsd2JiaWx2R28wbjF2eFpKUFVxdlkyZXA4aHprcGV2N1U4ZkE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY2lVc240WHM5bUs2WjlaeWJ5ejl5aXd1eHVieHpNY0lmNFFjNnB1VkV6NmNnaXo5TVBWbnpzOFNNcjBSU2VUQlRKblBKQThHazdES3oyRzd2SldWWXNJVHBmSmw0dEpBMHJHT2t5VEFkcXdPSE1sS1k0R0ktLVdmTi1nUE5Wc1JDcUEyVXR4MXhITDJXbGR3NVNVRWFOSWM1ZEdPLWRIWTVUUFIzR1RXRngxQm1Dc3dCU3c4X0FYbjhOVnpTbXVadUJrVVUzM0NnNWlJSlF2dmdUa1dx0gHiAUFVX3lxTE9FMUdhNW9UNzZnNWxQSzBUaGItQXdLd2w5WTl6VzhXYUpXZE5KUTcyNmJUQ0lueThXOWJHWHkzLUZHV1lSbEJLVS1hT0hPQ0J5TS1Ga296WV9rWkxmTVVzamZMQXA0THNCTTJ2RlhHeUhOQVA1RWJJVV9ocmQzdjJzODF6VE9MVE1GTkwxNlpyQUgxSm1XU0lyYTBkR0FQWndrRVVaVmsyUmFjVUtLa1ZodDl3Zzk5d0ZBOEhScDl1aFpENTdYRnBaUkhERjVUQ1JlaW1DNzNROWhmV1dGSHRpUWc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "In Conversation With… Sudip Bandyopadhyay - AITC",
-        "source": "AITC",
+        "headline": "Sudip Bandyopadhyay Delhi Visit Fuels Speculation of TMC Split Amid Internal Rebellion - Daily Pioneer",
+        "source": "Daily Pioneer",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zYS11S2dxMjdQUHNySzM0SDNCT1BCWHBQZjh2QUVvYXh1QUlPQ1BPRjZpTngxNnl6VEhCckxsMlI0andPTWhFQ0NLMHJOUk92ekFOOGNoOFBrWm40MDk1cE5qajRlU0hlblE0RFlmUWl5MUFr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVREaU44VHdfM2Z4dVdyTWV6MGhRWXN3blR3dVhkU0ZRd251QTgyYks2Tl9zS2lERFVYNGhWcTNDNFBXRmVoWXMwZ2t1V29COEI5UllTOEZFTVJwa1JhVVhrZi1uUkwyMkw4VVNWREdzQi1kclBOakwyWVJKOF9OTEg3aWU4UElFTmxrQnlNdjJDbDlU?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Veterans eye Kolkata North: TMC's Sudip Bandyopadhyay faces challenge from old warhorses - Telegraph India",
-        "source": "Telegraph India",
+        "headline": "Senior TMC leader Sudip Bandyopadhyay backs breakaway faction, signs key letter - Moneycontrol.com",
+        "source": "Moneycontrol.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNc0lzaUxJQjdQeHZKc2hPaDF0cjc0TU4wdmlBRUx6WW14YW5GdHU4eGx5ZUVockhpdldpdS1VemlHVHUwckF3bVN0bmdKQlhmRkNUWVl4QzVZMHBmVFBmX0Z4WGJ5QzZhNHN6MG91NnZtemNGdGdqR3dxellqbjNjOEhaaEl1cWt6SUFQbUtSajVjMEZTNW1sbkRNMVRrT01kYWRPUFhqVXYxMnpmTkJtLXdqUC1DQ1UybUlBdGRJMDJNbUZFdzRZRlhtcDdrRzBnamo2WDBfcHZOQnhIUEs1ajVTeEdzOVNpTlNxeGoxU0VoQkNQWmfSAfsBQVVfeXFMTzN4aFB4dTRNQjZhLV83c0JKM1N2WHE4aUMyVUl3cXZESm1QV3NHUmVPQ1NuTEwzRDNnVHhiT0NxX09GMTJVVXk4Z2tudzFjQUNvbWliZU9jTnlyazJlZ0l0WnNUUmxuT2h2YXFBSlQ2amdMTzFnRkROZ2pzOFNNVzdhYWxoUnhGMzF4UmxDMjZYQUJUQjZkNDhLd1VOQ1djcWd1WjZXUl9CLTFBNVhPcjNWem5OcDh2SzhCckZrV1dvLXZqWGlLS3B3QkRTUG9VT1NwNFd6Umxza3gzY2hGbW1Wa3ZBSzJkUzEwTnRQeVZDQVV2cE5JMDdYalU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVDUyNzg2dkg2VkloVmxkTzVSSHFpQlNhWU05b21LMkM0WnBaWE1iS1A5NEV1OTNvSVFySHA5Nk1aaTZpZ2NoeTVsY1dJdlZCMDQ5ajR3WHpEM3NnRk1UYnRGazJCU0JIV25PaVdpVHMwaDZjR1JzcDBUbG5yOVRqSEtkVGFEdmJ0bUkwdUdpQUJIcm12WjE2RkctYkJzSFk4RHdROVA3NlN0SE9pVUVMT3RqTGt6LVZobDNjZS11NHlKaW5IN2hrZmY5ZFfSAdIBQVVfeXFMTUt6RUV6TE0tblFsUDFTY05nRngtOVZPNm9UR1FPTWlzbWFWeDVGODU5T3RYaHl4S0tvQlhEZ2pNWmhTUHVxMnU0a0l0UjJEUjVQSlpZZVRPazZ2NGozTnBzWTZvRnF5QXlSallRWTltY1NxSTdHdHhPenBqRVFvc2UzLXFPTGtWMVIxUFdNNFBZTHJNSVdIZi0zaW9wTlpNZGRDV2xlNDBRSlRPTDU1T3JpX2ZnbG45TlFCX3FYZlpSZjRoNXFxMUg1UUNTVHhvb0dn?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,17 +446,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

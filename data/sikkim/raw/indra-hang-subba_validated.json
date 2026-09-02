@@ -42,60 +42,82 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:17.641447Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
+      "movable_assets": 4709284.81,
+      "immovable_assets": 10136487.0,
       "total_assets": 14845772.0,
       "liabilities": 5000000.0,
       "net_worth": 9845772.0,
-      "previous_total_assets": null,
+      "previous_total_assets": 478817400000.0,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=484",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:52.052939Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T14:35:31.276857Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 12.6,
-      "growth_ratio": null
+      "wealth_percentile": null,
+      "growth_ratio": -0.9999689949195664
     },
     "mplads": {
-      "entitled": 15.2,
-      "released": 15.2,
-      "sanctioned": 10.08,
-      "expended": 9.46,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:46:08.718722Z",
-          "notes": "Official eSAKSHI REST API — Works: 68 recommended, 61 sanctioned, 10 completed"
+          "fetched_at": "2026-09-02T14:39:09.507901Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:35:29.923580Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:35:32.068507Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 68,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 62.236842105263165
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +132,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:13.092374Z",
+          "fetched_at": "2026-09-02T14:35:30.950746Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +140,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Sikkim MP Indra Hang Subba Meets BRO Chief Engineer To Discuss North Sikkim Connectivity - Northeast Today",
+        "source": "Northeast Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE9GLTlnQV9tLVl6aDk5WGw3cHd3SEhDX1JBbWh0MXZ1SW5ScHM3UFk5RE44by1ZZGVGNHA5OEVRT0MyelExc01oZ1YyQUthRVJKbnpHNlVmcXhsZXRZOElrZHZuUXNJY1RPQm1fOFhEaUgzdkxhSjhIeGgtMzVwN3ZKZ0drOElwOFZWakxfWFRCN2NsTE8tWTd2N3JPa0kzZTZSc1UyaFAweTBpWnJGU24yd0dsdHYwcTNnZ2NJc1U4a1k?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Indra Hang raises need for expeditious completion of ongoing railway projects in Sikkim - Sikkimexpress",
+        "source": "Sikkimexpress",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONGtaZHFQanhFSXA4bDRnZkp1NjFBakJ4ZjYtM2c4bmRmVEVNb2p1cVFkLW1aS29YdDQ0ak1DdmE2ZmpSbTM1UEs2S0hUUTBObzd0WXFjRU5yNU43NHhWLUVBYi1kMTJGY2pSVnY2Q251d3VRUzFCTnNDUXViblV0VDJsVW13SURyb3J0ZGNfdF9WNGZjdF9CWW5QSHI2S1JPUkVxc25JZFVVMjVWTnVkd2lJN2RoUzV0WWtSSFF0UDVBRHVYUTk1N3FmbXJidw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sikkim MP pushes for faster rail connectivity, urges early completion of sevoke-Rangpo line - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTHJoWFdMNVdRd3p1aTVlenZDc3pkNGp4R29VcU5sazJCei1lZFBGcVpQQjFLM18wY05wSHFxVGNSOGw3YXAwQzBCZ1l6aS1Oa2ctbWZsTXBqTGVhc1JqLVdGb1dDeUM5OE1kM2dFQ3FXWDM4elhKcXJNTkRKNlhmZDRLOURManNxb1dSdzZRcHZaVXRYcmdzOGtMYnZzd3NrelVlNndxdURwejVnNjVyTndoSGY3TWlKNWVtd3JPdUxnbVZpam5fZU1KYUkzTXk5N0c2TjZOLUpqbnRVTEY0a1V5b1PSAeoBQVVfeXFMTVlRd1ppXzBySzdWejRsZmxqeWxoT2syb2ZwaTZtYi1PMVJUUGRvXzVJWElfM013Uk14OUJqa21iQ3hrc3JJTVJkWHBzUTkyVXd3QjZtMXZKdnlZN2pseUNhNTRhS0RZMHpTRjJ5dFRCeUlhUUZyb3R6MUR1OUQwckF5c1k5SWE4MzdYbUg2anpBYk96R0Z2S1BmNFNTdnl1dGtsaU0xSG0tSzNlUHh6WWR5QlpBeU9LSTY5cXgxQ3hodXhBdFFwLVIwY241dWRHZldaQWtxcFFkRndkZndrYXJiVG5SRG9iVVBB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sikkim MP Subba meets PM Modi; submits Memorandum demanding ST status for 12 communities, assembly seat reservation - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQTBJWVlUWVJ3RUdmcENjbjU3c0Q1UEs0Z2dYSnlMd2dOb2Fja1NGUGJUOFRZdVp3TlZ5TGM0SWRCQ0dUSWY1Y0Y3Yi03SWJxYzM4UEFWT0hkUnBkRUhhSVdLeVMtSEthTk4tcHljbE1pY0dOdkVLazR6ZzhtTU03ZEZMclhIa3BFcDViYVU2WFg3cVVTa2F4WVJuUVZlX0V0eTVTcW9YQjUzLTA1NUtJQ3BpNTBJR2ZOM09JSHFaam9LOFhoRE01cEtLWnZLeUFWY0h3ZkRjcnpBOXNrSG96YVd0VkMtM0E3YjNwbmdnR2JXeUJSQWNlVTlja2lKQWV1ZS1GYkxmRDM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sikkim MP meets Prime Minister Narendra Modi on pending projects - Telegraph India",
+        "source": "Telegraph India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQkVSZFNWbm1RQWVpb2ZLLVI5LVRHWXVsbU00U1hPVHRlUmswTGp6X2Y1Rko2WGcxQkV1cjUwV2kyX0lXU0N3LTlFZWZQcUtXQlZSZE9qWG01ZnNYdFhhb0xfRlFiOFVSdHNjY2c2ZDBHUXMxNDI4RDBMREdSX2FoOVAyaFRGNTBRY3AwWXN1czJjUU9TdGtHa3VzMTNiZUl5SDFFcndUd0RYVDRpQ2NUeVl6WWhGZzlmU1J30gHAAUFVX3lxTE1GczFjMzlUU2M4T214RzFfcEJjNEx3VE52cHdKTm9aVmtTXy1wWWl5OUJrWWVYM3h1M1JVR2Jvb0FKSXBTdUlmV1pnZFFpNXBCdExZX3BIclljOU90T3VSeUdzV19QRVdzZjF1TlBmWHJwT0RsUDk1LTAyY1h3cE5fbllRVGEtQ1lQNWhBTUIzeG02ZkYzLURhVTdCVklrUHBqY2FpTGUyTnFaSFBud3N4SjRZYlBuOHhqNC1ZNXVORw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:51.695968Z",
+    "collected_at": "2026-09-02T14:39:10.488278Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +212,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.234948Z",
+          "fetched_at": "2026-09-02T18:38:09.661927Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +228,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.234957Z",
+          "fetched_at": "2026-09-02T18:38:09.661938Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.234961Z",
+          "fetched_at": "2026-09-02T18:38:09.661944Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +260,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.234965Z",
+          "fetched_at": "2026-09-02T18:38:09.661949Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +276,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.234970Z",
+          "fetched_at": "2026-09-02T18:38:09.661955Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +292,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.234975Z",
+          "fetched_at": "2026-09-02T18:38:09.661960Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.234979Z",
+          "fetched_at": "2026-09-02T18:38:09.661965Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +333,52 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "share",
+          "url": "https://twitter.com/share",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "sharer",
+          "url": "https://www.facebook.com/sharer",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "adrspeaks",
+          "url": "https://www.instagram.com/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "youtube",
+          "handle": "adrspeaks",
+          "url": "https://www.youtube.com/user/adrspeaks",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 4,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:35:34.239525Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,43 +387,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Indra Hang Subba meets Vice President, raises key Sikkim issues - Sikkim Express",
-          "source": "Sikkim Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFhHaW1sWGp6bk5DeG56dUxwV2JsV05QSEs4bnlrM1VOcFB0TTlUTUtGdlNIa3ZScGprR0VvT3lFa25vWjZLZ0lCbXk1TVhqTm9OeVZBb2J6dnp1eFJLOGFLVngtaGc0blk4VzVud0N2NHYxWkFZWTF5bVN4RkI1dFk4NmFXNVRYTkJpS042ZGhrU1JGSHNmME9EYnlrWU9KWnhr?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Insider: Sikkim Salutes Modi - Open Magazine",
-          "source": "Open Magazine",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tS2hmUDlrUDdvRG5lZ1JkU3g1X2htYW5rX19iM1E0cmNFOHJfeE9RaTZQSTF6T0ZCRXRXdHRPZllObExReVJxRGdRNFdjSkhXRnZWWjZSTXEydXZ1aEhJM2hQa1pGdG8xRlQxTGdjRXR6QQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Sikkim MP Indra Hang Subba Calls on Raksha Mantri, Flags Border Connectivity and Infrastructure Concerns - The Sikkim Chronicle",
-          "source": "The Sikkim Chronicle",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN1FxRVNReG9yMWI4Zmt2NXBLN1gyTVJ0TVpaUkJIY1FzTEtZT0lZV0JRYlRXTWZxcFgxMWpYemxua0w2bklRdTNGakxZVElnaTVkQ0RCZnN3S0Q3VW1fM0NSSFR0aThlYVJQS09Cc1pyY2djeDhrQi1JWlBmM2pDXzRVc1A2cFNpbDI5ek5la2NxbTYtamVpSENzY3U1VEFodUxvM3EtQzdxVE5JekNPajVDOVRSbGZwRzZ0eUZabkpyVGFEaTh4cjdBZXdHbUFLUmVVQkdR?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Sikkim MP Indra Hang Subba Meets Amit Shah to Discuss Long-Pending Tribal Reservation Issues - Northeast Today",
+          "headline": "Sikkim MP Indra Hang Subba Meets BRO Chief Engineer To Discuss North Sikkim Connectivity - Northeast Today",
           "source": "Northeast Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMGExMVF1Z2tOel9CcEFjU2pIZkNJV0ExM05iSHAtbWJVS0p3RG5IaThpTWU4dmlkNlo2UUtrZkk0SVRiUUtteWhXRFpGd092bDhMbWxYWGFvdTNqekNqNGhoR3dCTjUzX3hPZWltTEZlMU9YbXl4RlF6anIyMU52bWpSaWtXY1ZuNXhWcUU4bVhmWTdZNDhLRThjZUl4Ti1FczhmMTNndFk2bmZXamhTYm51WjlLeUJ0UnV3d0pHanhNVlBzd0FnVg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE9GLTlnQV9tLVl6aDk5WGw3cHd3SEhDX1JBbWh0MXZ1SW5ScHM3UFk5RE44by1ZZGVGNHA5OEVRT0MyelExc01oZ1YyQUthRVJKbnpHNlVmcXhsZXRZOElrZHZuUXNJY1RPQm1fOFhEaUgzdkxhSjhIeGgtMzVwN3ZKZ0drOElwOFZWakxfWFRCN2NsTE8tWTd2N3JPa0kzZTZSc1UyaFAweTBpWnJGU24yd0dsdHYwcTNnZ2NJc1U4a1k?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Lok Sabha MP submits memorandum to Meghwal, seeks separate bar council for Sikkim - The Hindu",
-          "source": "The Hindu",
+          "headline": "MP Indra Hang raises need for expeditious completion of ongoing railway projects in Sikkim - Sikkimexpress",
+          "source": "Sikkimexpress",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVGZhSkxaZlFEN3lZcnpab2dhQTVBSXA0eFdWbnp4T2UxNXJwVW01eTZrNUFQU0JBWEJEMFJTbWdzWjJBQkl5OXFINnNMUkdEd0R2anRxRnBQdzlMeVJ4SEl3bDc3c3AtUFM0Y0E5Y2hXTVB6T0hiaElaMm5WZWVBMnA2c1RnSTh1SERGV3RkLUk0Wkt0VFRnd3d4b1F4Y3MzUWZ0VnFMTDRTdWlFRlp2d0g4YTFCVklBRmFxR1E3YzZwRjkxZW1yNXM4Q1ZFZ01VMkxNbk1URTI5Z0FtRzlN0gHmAUFVX3lxTE5ZWm92Y2NKWHJGN1FDQkVGQ2xhNHdTMDk2cVg1TWdWbG54UHNRZTZGWUpteldPNHdTRF9NQUpmR2RaeTB0cGhWaGdOVTlxZFA2T3ZXUFJVTnh2UTAyZ1IyV1dBamdMS1Vadl9ydmtZQ0YzRDV1dWVxUllPNnUtcG1OdEp6RFV2TWs4eGVibUNRYkpBWWx1Zi04eG5vNWlVcy0yWmJ6bzd6T2xYWG14eFo0dzVVZnVqSG5PNWZ1dXFkbjhnblNXZTEteThiWlkwbmFwcU5NR29EcEFaN3Y5YnVWUXU0ejNn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONGtaZHFQanhFSXA4bDRnZkp1NjFBakJ4ZjYtM2c4bmRmVEVNb2p1cVFkLW1aS29YdDQ0ak1DdmE2ZmpSbTM1UEs2S0hUUTBObzd0WXFjRU5yNU43NHhWLUVBYi1kMTJGY2pSVnY2Q251d3VRUzFCTnNDUXViblV0VDJsVW13SURyb3J0ZGNfdF9WNGZjdF9CWW5QSHI2S1JPUkVxc25JZFVVMjVWTnVkd2lJN2RoUzV0WWtSSFF0UDVBRHVYUTk1N3FmbXJidw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Sikkim MP pushes for faster rail connectivity, urges early completion of sevoke-Rangpo line - India Today NE",
+          "source": "India Today NE",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTHJoWFdMNVdRd3p1aTVlenZDc3pkNGp4R29VcU5sazJCei1lZFBGcVpQQjFLM18wY05wSHFxVGNSOGw3YXAwQzBCZ1l6aS1Oa2ctbWZsTXBqTGVhc1JqLVdGb1dDeUM5OE1kM2dFQ3FXWDM4elhKcXJNTkRKNlhmZDRLOURManNxb1dSdzZRcHZaVXRYcmdzOGtMYnZzd3NrelVlNndxdURwejVnNjVyTndoSGY3TWlKNWVtd3JPdUxnbVZpam5fZU1KYUkzTXk5N0c2TjZOLUpqbnRVTEY0a1V5b1PSAeoBQVVfeXFMTVlRd1ppXzBySzdWejRsZmxqeWxoT2syb2ZwaTZtYi1PMVJUUGRvXzVJWElfM013Uk14OUJqa21iQ3hrc3JJTVJkWHBzUTkyVXd3QjZtMXZKdnlZN2pseUNhNTRhS0RZMHpTRjJ5dFRCeUlhUUZyb3R6MUR1OUQwckF5c1k5SWE4MzdYbUg2anpBYk96R0Z2S1BmNFNTdnl1dGtsaU0xSG0tSzNlUHh6WWR5QlpBeU9LSTY5cXgxQ3hodXhBdFFwLVIwY241dWRHZldaQWtxcFFkRndkZndrYXJiVG5SRG9iVVBB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Sikkim MP Subba meets PM Modi; submits Memorandum demanding ST status for 12 communities, assembly seat reservation - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQTBJWVlUWVJ3RUdmcENjbjU3c0Q1UEs0Z2dYSnlMd2dOb2Fja1NGUGJUOFRZdVp3TlZ5TGM0SWRCQ0dUSWY1Y0Y3Yi03SWJxYzM4UEFWT0hkUnBkRUhhSVdLeVMtSEthTk4tcHljbE1pY0dOdkVLazR6ZzhtTU03ZEZMclhIa3BFcDViYVU2WFg3cVVTa2F4WVJuUVZlX0V0eTVTcW9YQjUzLTA1NUtJQ3BpNTBJR2ZOM09JSHFaam9LOFhoRE01cEtLWnZLeUFWY0h3ZkRjcnpBOXNrSG96YVd0VkMtM0E3YjNwbmdnR2JXeUJSQWNlVTlja2lKQWV1ZS1GYkxmRDM?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Sikkim MP meets Prime Minister Narendra Modi on pending projects - Telegraph India",
+          "source": "Telegraph India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQkVSZFNWbm1RQWVpb2ZLLVI5LVRHWXVsbU00U1hPVHRlUmswTGp6X2Y1Rko2WGcxQkV1cjUwV2kyX0lXU0N3LTlFZWZQcUtXQlZSZE9qWG01ZnNYdFhhb0xfRlFiOFVSdHNjY2c2ZDBHUXMxNDI4RDBMREdSX2FoOVAyaFRGNTBRY3AwWXN1czJjUU9TdGtHa3VzMTNiZUl5SDFFcndUd0RYVDRpQ2NUeVl6WWhGZzlmU1J30gHAAUFVX3lxTE1GczFjMzlUU2M4T214RzFfcEJjNEx3VE52cHdKTm9aVmtTXy1wWWl5OUJrWWVYM3h1M1JVR2Jvb0FKSXBTdUlmV1pnZFFpNXBCdExZX3BIclljOU90T3VSeUdzV19QRVdzZjF1TlBmWHJwT0RsUDk1LTAyY1h3cE5fbllRVGEtQ1lQNWhBTUIzeG02ZkYzLURhVTdCVklrUHBqY2FpTGUyTnFaSFBud3N4SjRZYlBuOHhqNC1ZNXVORw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +457,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 15,
+      "starred_questions": 4,
+      "unstarred_questions": 11,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 28.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +473,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +504,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.43,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -420,6 +531,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 14,845,772. MPLADS utilization: 62.2%. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:52.235684Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 14,845,772. Parliament attendance: 85.0%. Questions asked: 15. Debates participated: 3. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.662774Z"
 }

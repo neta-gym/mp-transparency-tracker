@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 73684617.0,
-      "liabilities": 0.0,
-      "net_worth": 73684617.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 49.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.48,
-      "released": 15.48,
-      "sanctioned": 9.42,
-      "expended": 4.65,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:10.937161Z",
-          "notes": "Official eSAKSHI REST API — Works: 102 recommended, 92 sanctioned, 28 completed"
+          "fetched_at": "2026-09-02T17:29:43.199119Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:25:34.548237Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:25:34.545452Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 102,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 30.038759689922482
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:05:16.466204Z",
+          "fetched_at": "2026-09-02T17:25:34.544393Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Defence Minister Rajnath Singh unveils statue of Queen Avantibai Lodhi in Lucknow - Daily Excelsior",
+        "source": "Daily Excelsior",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWhRN3dGc2JHMjl1N1ZRdmxzdzFsdGxpVTFJUGk0c3QxUXRTTHVvRWhrVGdXQjhwZlRXeUhyeVFyRnFnVTljVXFsWWxId1A1VXhLcENfZWliZFhiOTl4NlRkVDg0aXhsRW0wdElnbm9ZYVpua1NYS2pxMzlZVDMwWTF2MFRFTlJzbFhkd1hadzYtcWpRXzEwQndJLUh2NXRfbWo2Sks0elduWWtVZkhXZ3ZScXJlOU3SAbcBQVVfeXFMTTloUTd3RnNiRzI5dTdWUXZsc3cxbHRsaVUxSVBpNHN0MVF0U0x1b0Voa1RnV0I4cGZUV3lIcnlRckZxZ1U5Y1VxbFlsSHdQNVV4S3BDX2VpYmRYYjk5eDZUZFQ4NGl4bEVtMHRJZ25vWWFabmtTWEtqcTM5WVQzMFkxdjBURU5Sc2xYZHdYWnc2LXFqUV8xMEJ3SS1IdjV0X21qNkpLNHpXbllrVWZIV2d2UnFyZTlN?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "LUCKNOW: DEFENCE MINISTER & MP RAJNATH SINGH INAUGURATES SHRI RAM SENIOR CITIZEN HOMES IN GOMTI NAGAR | VISUALS - Press Trust of India",
+        "source": "Press Trust of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMXZVRldGbVVhWi1nQk9qUUpfbHZ2dXBwbUNvNUpYWFR0cnlCR3pZVVpuRVVXdm1ldkxfb29uaWNYQ2F2SDNXMVFCenlKaGp3RUY3T0NKa0VHWnNfVDV1Rnc0NGVXNlNlTThDVWw1MGgzOWNKZVhUVGtTTnZPZWotdmxLSzlua3p6Z1FFTkpSdGZ2bDg0Wl9acWZRYUVfc0NDZVVEM0FuVHNUQ2lsdlpJUUFzcU02R3BjRzNYVjRTVnlrejZQdXFEcXBXNU9MaDE3RENJOGlZZWtoajhBRmpvY2Q4YjIzYW5wVVQ3NFZVOEVvUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajnath Singh to culiminate his Lucknow visit with development of Lucknow Cantonment as 'Model Cantonment' - Hindusthan Samachar English",
+        "source": "Hindusthan Samachar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeFZ6QkpIMWlkZE92RGRKSklMa29HT2hJQjdkWjVVOTVKd3V0ejI4M0s3cWpsbFQ1TElwWmp5d3daUzdTY1ZaS1l3d194ZXlnc2dxMWVENU5LdVVKczFYUGs5eTd0aTFFTUtKZzlUZ2JZcFc2YWt5OTlnamp2WWZiMzAxQ3VUeVZmS3R5MkRWckMydw?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Rajnath Singh to stay in Lucknow from August 28-30: To inaugurate Fragrance Park, unveil Rani Avantibai Lod... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQlcwQ0ZiRnZBa0x0U2s1aXM4VTdsNUdONTBscV9kUVY0Q0Fhdlg0bjFQQ2JLdGYzWmNZRmwtLUtWc3lmbk9sOThOYzhZSlVTUXloLXh2Tmtma2pXR09Nd1paLXlJLTEzX0twMEZlOUZZWjZZQ3BPbVNRNHFGMENUZW8taGtZZXR1Z1BHZnJRRTNybTE5bExXQTB3a0NQLU5BSFN1VnBSQXJyb3hhc0xoNWl6NDZYR25qNzNEU3lPLXpvTzhkUXdiRUpwU256YWNGeFhSbm51SdIB3AFBVV95cUxOZWt3bzJQZjJsWDlzeHVRN2NOcGVJX1FoY3dMRTJuVHlESDREbTc5RzJJTlMyZUxLTHZHOXB2ZTFxVVpfQkRQaEUxakUyOUY0QzJqQXA2TUd6RWxZZXFYSFE5WGM1LWlvM0pnNVdVczNlTkFWWWZSbG9Tckd1YzVfdWZyZHpDbW1aTTk4YmdFSVY0R3ZjbzRfUlhTeVFwUzJDTW5yZkR5aHhsaWZhQ0M1dXE0SkxpakdLN3dYemEwNWhCYl9kX2FoS2NEVk5ocnVpMUR5NkI4cTRJM25z?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajnath Singh cautions against forces seeking to weaken country by exploiting social divisions, narrow interests - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNR3NUVUdlYkpkOWxVSnZhbHVMeVRqNC1nOVhUbDljYjUydVhoYm0xUFVaejYwdWdMZW1UYkxXdWI3dHpkOXZNLW51NW5CUXFMVHNlYTVIMjhUQnRqclNRRlVrZE00aUF1RjhHbDJyZEdJZ21Bdk5jcTV3cXZlOVhia2poUXB3WkJnSUwyQTQ1TGZVcnMtaTVxSUNLRDhqMjh3bDk1ekVVcHE3aDVtQ0tiWWdJVzNkMzNlc2Y3M01RLXAteUJoTUVwQjlPWFhfNExiR2praFlpSFZkd2lUVXozemdsajZEVC1vRlExbkM5WmhQdVhLckI3R3JnMVFHS3o10gGGAkFVX3lxTFBsbE1yakZFYmlpeFh4Yl83ZHFfTEhwWHVuU1oycGpUZjFZWGJfeE5lazVWbUpTQXpnMTlwbXoyX1Y0Q0hzLWc1anN1V0NSWDZRWVlxZl9seGt0MU1hblRadHpJLWU5TUVzOEE5bzR2UjNmX1hPVVBJT3ZGbHQ5VTdvdlpJN0ljVVV2U1pyMHFqYkZWSmtjVmdoNUNQeXdtcENBd0JYbGhaeTNnMWE0Wm8tenBhM2lTWFQydHpyTVJvNmpoQUR6a1djUUs1bTVLOEFyTF9ILS1zRnBsLVFNbXNKUGZVc3Y0ejVlZktEU1FMMzJUNWlTcjFtLWc1R29wVXlGOUk5elE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:05:37.153880Z",
+    "collected_at": "2026-09-02T17:29:43.200302Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.988074Z",
+          "fetched_at": "2026-09-02T18:38:11.581283Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.988082Z",
+          "fetched_at": "2026-09-02T18:38:11.581299Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.988086Z",
+          "fetched_at": "2026-09-02T18:38:11.581305Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.988091Z",
+          "fetched_at": "2026-09-02T18:38:11.581311Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.988095Z",
+          "fetched_at": "2026-09-02T18:38:11.581316Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.988100Z",
+          "fetched_at": "2026-09-02T18:38:11.581321Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.988105Z",
+          "fetched_at": "2026-09-02T18:38:11.581325Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -249,7 +305,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.988108Z",
+          "fetched_at": "2026-09-02T18:38:11.581330Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -274,56 +330,81 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/@RAJNATHSINGH",
+          "url": "https://x.com/http://www.twitter.com/@RAJNATHSINGH",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/RAJNATHSINGHBJP",
+          "url": "https://facebook.com/http://www.facebook.com/RAJNATHSINGHBJP",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T17:26:04.979880Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 2,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 8,
       "top_headlines": [
         {
-          "headline": "Rajnath thanks Modi for Metro expansion - MSN",
-          "source": "MSN",
+          "headline": "Defence Minister Rajnath Singh unveils statue of Queen Avantibai Lodhi in Lucknow - Daily Excelsior",
+          "source": "Daily Excelsior",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQbzhBZ3NrQWVEbWwxVUlGTDNoQU1fczM0bzgwVl9IRUxNME16MENWYmFEc2VNY1Rnelg3M1R1dmpqNFVkWnZsSGxneEJpSnQzRGRTWDJMZUlSOElFdkNYUkxob2gyM3FWakV3dnhLaXM4R2lrLXlHV2tmc1VFWEFQQXBYcUt6OENOUHVqTXpveUN5NXJXYzdKeGVQNU0wMTlRMndMc2NaUUcxcjkwVGwwS2hib2ozRVpGcko2bGpmUHBXYVlsUDhzZFlibHpaQkR3Yk1oRnFxQktsY3lxckFhT2l5bXdsX1dJYTJ1Z2NKemFDeGJhT0k3Q2QxWEtPY2VTblhoODJQRVVsMU9oT2dZYWpoSGFYbzRDSkVYUUNUZVE0VjlxWWR3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWhRN3dGc2JHMjl1N1ZRdmxzdzFsdGxpVTFJUGk0c3QxUXRTTHVvRWhrVGdXQjhwZlRXeUhyeVFyRnFnVTljVXFsWWxId1A1VXhLcENfZWliZFhiOTl4NlRkVDg0aXhsRW0wdElnbm9ZYVpua1NYS2pxMzlZVDMwWTF2MFRFTlJzbFhkd1hadzYtcWpRXzEwQndJLUh2NXRfbWo2Sks0elduWWtVZkhXZ3ZScXJlOU3SAbcBQVVfeXFMTTloUTd3RnNiRzI5dTdWUXZsc3cxbHRsaVUxSVBpNHN0MVF0U0x1b0Voa1RnV0I4cGZUV3lIcnlRckZxZ1U5Y1VxbFlsSHdQNVV4S3BDX2VpYmRYYjk5eDZUZFQ4NGl4bEVtMHRJZ25vWWFabmtTWEtqcTM5WVQzMFkxdjBURU5Sc2xYZHdYWnc2LXFqUV8xMEJ3SS1IdjV0X21qNkpLNHpXbllrVWZIV2d2UnFyZTlN?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "​Lucknow has transformed, India’s stature rising globally: Rajnath - The Times of India",
-          "source": "The Times of India",
+          "headline": "LUCKNOW: DEFENCE MINISTER & MP RAJNATH SINGH INAUGURATES SHRI RAM SENIOR CITIZEN HOMES IN GOMTI NAGAR | VISUALS - Press Trust of India",
+          "source": "Press Trust of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHRFYkpNVnFpWEo3ajBHbkxQaXZJM0htV3lLbVFzanloN0diNjJHVnY2bTJ0TEkwa0lOLTgyODliRFBncjkyaU03T3RhNmlUbldJUER5b0RQcU1NcFFzN3FsZDVKZ0dRVlFiME1BZEdiU3Jrb3Z6OW9Sa3ZHRFdYRm5wcHhDUVhWUl91MWFzbTNxSm5pOGNIZ3R3aHR6TXV5X2NTRXlzUU1ibXdLeTdHQmJPdGx2bUdyZV9xYl9qdi1UQ0YxR3dHTnlkX0FUT0FBakg40gHYAUFVX3lxTE9LbWFNRXRSTTlOcEFRdlYtdDZPZWFpVURHT09uT2xtdEtHMHQ1YnRKZFpzODZDaExNbnEzaHBjdjFVb2lfWFJyWnhHTVZyc2VveHd0NmJDbVBXSlRibFAxanNuSDhkaENXT1dGOGFiWUx2MlRIeXdlNVVzZ0NfOWVQbkw5RFRqSm50Wndxa19lVjhFMUJ6Vkprcm5HeXVoY2lTd01DdmN0dkstSlctajFWMmRnWmVJX2VHWVRTWGFEWjE4eS1xWVluUnJhVGdCNFBqampSZnlkZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMXZVRldGbVVhWi1nQk9qUUpfbHZ2dXBwbUNvNUpYWFR0cnlCR3pZVVpuRVVXdm1ldkxfb29uaWNYQ2F2SDNXMVFCenlKaGp3RUY3T0NKa0VHWnNfVDV1Rnc0NGVXNlNlTThDVWw1MGgzOWNKZVhUVGtTTnZPZWotdmxLSzlua3p6Z1FFTkpSdGZ2bDg0Wl9acWZRYUVfc0NDZVVEM0FuVHNUQ2lsdlpJUUFzcU02R3BjRzNYVjRTVnlrejZQdXFEcXBXNU9MaDE3RENJOGlZZWtoajhBRmpvY2Q4YjIzYW5wVVQ3NFZVOEVvUQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Rajnath Singh: meets family of Operation Sindoor martyr Sunil Kumar Lucknow - Deccan Herald",
-          "source": "Deccan Herald",
+          "headline": "Rajnath Singh to culiminate his Lucknow visit with development of Lucknow Cantonment as 'Model Cantonment' - Hindusthan Samachar English",
+          "source": "Hindusthan Samachar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmZaRkl0RGF2TTlvMS1MZFhaYjdkYXdWQXZkazIzTmJtNWZkUFp0NU9xOUM5ZU9OeTBtZkFKNlBOa1V2UHBwUjVidFRHbFZRcnd6UWJIYUpPU0xieHVoMGd3aTZHVVVOMUlWYVBOSFhfTm45ZF9BOGU4NXZMOU9vTjhfNjJvbWxFVjhoRVpPTDdvcnVuYlpKajJlYlAwcWVDQURDX2JieDdGQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeFZ6QkpIMWlkZE92RGRKSklMa29HT2hJQjdkWjVVOTVKd3V0ejI4M0s3cWpsbFQ1TElwWmp5d3daUzdTY1ZaS1l3d194ZXlnc2dxMWVENU5LdVVKczFYUGs5eTd0aTFFTUtKZzlUZ2JZcFc2YWt5OTlnamp2WWZiMzAxQ3VUeVZmS3R5MkRWckMydw?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "Rajnath Singh to stay in Lucknow from August 28-30: To inaugurate Fragrance Park, unveil Rani Avantibai Lod... - Bhaskar English",
+          "source": "Bhaskar English",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQlcwQ0ZiRnZBa0x0U2s1aXM4VTdsNUdONTBscV9kUVY0Q0Fhdlg0bjFQQ2JLdGYzWmNZRmwtLUtWc3lmbk9sOThOYzhZSlVTUXloLXh2Tmtma2pXR09Nd1paLXlJLTEzX0twMEZlOUZZWjZZQ3BPbVNRNHFGMENUZW8taGtZZXR1Z1BHZnJRRTNybTE5bExXQTB3a0NQLU5BSFN1VnBSQXJyb3hhc0xoNWl6NDZYR25qNzNEU3lPLXpvTzhkUXdiRUpwU256YWNGeFhSbm51SdIB3AFBVV95cUxOZWt3bzJQZjJsWDlzeHVRN2NOcGVJX1FoY3dMRTJuVHlESDREbTc5RzJJTlMyZUxLTHZHOXB2ZTFxVVpfQkRQaEUxakUyOUY0QzJqQXA2TUd6RWxZZXFYSFE5WGM1LWlvM0pnNVdVczNlTkFWWWZSbG9Tckd1YzVfdWZyZHpDbW1aTTk4YmdFSVY0R3ZjbzRfUlhTeVFwUzJDTW5yZkR5aHhsaWZhQ0M1dXE0SkxpakdLN3dYemEwNWhCYl9kX2FoS2NEVk5ocnVpMUR5NkI4cTRJM25z?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Lucknow is playing a bigger role in boosting India’s security: Rajnath - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Rajnath Singh cautions against forces seeking to weaken country by exploiting social divisions, narrow interests - The Statesman",
+          "source": "The Statesman",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQXZiTmdnb3F6N0ozZHB4X09ISTROd2hEdTduano4OWhmR2VPZ25Tdml5a28xU0xoM3pxZ0JfUFotdnNiVExqUmRfZXdwcElBblpBWS1JSjBvYkctTlRZbTkzdTRXbDNkWWhKeFJ0OXpwY3VkRk92TU1sbjBWVjJwblkwSUR2amV4aW1zS24zUUdiUdIBmAFBVV95cUxQSmZOczNnd21QeDVXUnlicDVsZlpRbTFoMnpZY1RLekpUWlhMOUFILVExSjNKNDFNX1pfd3hKVmRvbDJ5dTRQemloMm04ME11cUJDQUUybFRFTFZBcXdvcDU3bGFzWVZsQk52M2ZGclZUNTNhM3lraG5ySWlpaHgzWkRTUUg5ZHFTdHdla3ozWUE3V2hrek1mdQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Our full effort is to make Lucknow world-class city: Rajnath Singh - Business Standard",
-          "source": "Business Standard",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0xIMGRHcVB6a09Fc2dEcTktdWxEcDF1WElsMXRGaDVMQ1E3WkZhemZUUVBMMzczclJaQ083Z21HMjlScEkxMmtyTTN3NWtpZ2pZYkVuc2VxOXZiTU1YSWJQTkVWSVB3UE04NHl3b09CNkdlb3RORFMxczRMTWhUNFpxVXpibFBQSDBySmUzZHVQb2k5eGpqRWl1QmNFLWtzOUxud2Mxd1VGN3hVekhUcnQ4ZGUzVzRza2V6bHlDS3NIXzdsZXJ5WnVB0gHPAUFVX3lxTE5VWVRzdkNKMzVjdktxcWI0OFI0MWVGTlR3bkl4SjdJTGFwdDI4ZUpVMmZ2dS1LTWUzdnVRRFZtbWpXbDR5WEV3eU1rUHZGakNKcXVKTEhaQms3WE9iUmhROTJBUWlCNVIyOXdlTHA4U2lqaXd2NUpkeHAycVgweGlNdmloZ1dmOENBVlB2bFlKcHlBUjZIWHVfdVRGNDdaZDFjLWdoNU1DdXIxSFc3ZWZrV3BCMDhRbmhRLV95M18zTFFRcnh5dmhqZHFLR0ZGNA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNR3NUVUdlYkpkOWxVSnZhbHVMeVRqNC1nOVhUbDljYjUydVhoYm0xUFVaejYwdWdMZW1UYkxXdWI3dHpkOXZNLW51NW5CUXFMVHNlYTVIMjhUQnRqclNRRlVrZE00aUF1RjhHbDJyZEdJZ21Bdk5jcTV3cXZlOVhia2poUXB3WkJnSUwyQTQ1TGZVcnMtaTVxSUNLRDhqMjh3bDk1ekVVcHE3aDVtQ0tiWWdJVzNkMzNlc2Y3M01RLXAteUJoTUVwQjlPWFhfNExiR2praFlpSFZkd2lUVXozemdsajZEVC1vRlExbkM5WmhQdVhLckI3R3JnMVFHS3o10gGGAkFVX3lxTFBsbE1yakZFYmlpeFh4Yl83ZHFfTEhwWHVuU1oycGpUZjFZWGJfeE5lazVWbUpTQXpnMTlwbXoyX1Y0Q0hzLWc1anN1V0NSWDZRWVlxZl9seGt0MU1hblRadHpJLWU5TUVzOEE5bzR2UjNmX1hPVVBJT3ZGbHQ5VTdvdlpJN0ljVVV2U1pyMHFqYkZWSmtjVmdoNUNQeXdtcENBd0JYbGhaeTNnMWE0Wm8tenBhM2lTWFQydHpyTVJvNmpoQUR6a1djUUs1bTVLOEFyTF9ILS1zRnBsLVFNbXNKUGZVc3Y0ejVlZktEU1FMMzJUNWlTcjFtLWc1R29wVXlGOUk5elE?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -373,7 +454,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -404,8 +485,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -425,12 +524,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 73,684,617. MPLADS utilization: 30.0%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:53.988869Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Criminal record, Assets, MPLADS, Parliament activity. 4 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.581992Z"
 }

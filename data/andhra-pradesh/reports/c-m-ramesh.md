@@ -89,7 +89,7 @@
 - Anakapalli MP-elect C.M. Ramesh promises to work for the development of Visakhapatnam - The Hindu (The Hindu) [positive]
 - Anakapalle MP candidate CM Ramesh says exit polls predicts victory of NDA in Andhra Pradesh and Country - The Times of India (The Times of India) [neutral]
 - BJP MP Ramesh refutes KTR’s charges; alleges BRS sought BJP help to shield Kavitha - The New Indian Express (The New Indian Express) [neutral]
-- GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - deccanchronicle.com (deccanchronicle.com) [positive]
+- GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - Deccan Chronicle (Deccan Chronicle) [positive]
 
 ---
 
@@ -99,7 +99,7 @@
 - ! **Anakapalli MP-elect C.M. Ramesh promises to work for the development of Visakhapatnam - The Hindu** (The Hindu)
 - ! **Anakapalle MP candidate CM Ramesh says exit polls predicts victory of NDA in Andhra Pradesh and Country - The Times of India** (The Times of India)
 - ! **BJP MP Ramesh refutes KTR’s charges; alleges BRS sought BJP help to shield Kavitha - The New Indian Express** (The New Indian Express)
-- ! **GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - deccanchronicle.com** (deccanchronicle.com)
+- ! **GVMC Allocates ₹ 1.32 Crore For Development Works In Anakapalle - Deccan Chronicle** (Deccan Chronicle)
 
 ---
 

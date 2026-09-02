@@ -4,16 +4,16 @@
     "constituency": "Supaul",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": 3589,
+    "myneta_candidate_id": null,
     "slug": "dileshwar-kamait",
     "house": "lok_sabha",
     "sansad_member_id": 5222,
     "profile_url": null,
     "canonical_name": "Dileshwar Kamait",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 78,
+    "age": null,
     "photo_url": "/mp-photos/5222.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Supaul",
       "state": "bihar",
       "party": "Janata Dal (United)",
-      "myneta_candidate_id": 3589,
+      "myneta_candidate_id": null,
       "slug": "dileshwar-kamait",
       "house": "lok_sabha",
       "sansad_member_id": 5222,
       "profile_url": null,
       "canonical_name": "Dileshwar Kamait",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 78,
+      "age": null,
       "photo_url": "/mp-photos/5222.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,97 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "157/14 P.S-Supaul Subdivision-Supaul Dist-Supaul",
+          "ipc_sections": [
+            "188",
+            "171F"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Sh. Shudhir Kumar (Judicial Magistrate Supaul)",
+          "fir_no": "157/14 P.S-Supaul Subdivision-Supaul Dist-Supaul",
+          "case_no": "GR No. 557/14",
+          "other_acts": "",
+          "charges_framed": "Yes",
+          "date_charges_framed": "20 Feb 2016",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:18.082167Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 36191958.0,
-      "liabilities": 0.0,
-      "net_worth": 36191958.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3589",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.840738Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 29.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.05,
-      "released": 15.05,
-      "sanctioned": 9.59,
-      "expended": 6.35,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:20:36.299241Z",
-          "notes": "Official eSAKSHI REST API — Works: 92 recommended, 82 sanctioned, 46 completed"
+          "fetched_at": "2026-09-02T14:48:12.756532Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:44:31.081050Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:44:31.079042Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 92,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 42.192691029900324
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -110,7 +145,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:23:59.503757Z",
+          "fetched_at": "2026-09-02T14:44:31.078275Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +153,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Lok Sabha polls: Indo-Nepal border in Bihar's Supaul sealed for 72 hours ahead of thrid phase - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY1ljSmxWd0xzdEZSbUtKQ01ObXN6cmpGOVM3RXlwYU5HQzFWU2VkblQ4SHh2MGVsbUJwZjNzelh1eHAyUHNPYWozQ2FJSF9DMzZ2dng4VXQyanQ0VHIyODhhbDFOT01vWE40c0hMYXh0eERIbE9VcGRMdXBQZTYxR1VIR1lCX1JJcXRZS3RTbTgteVBzRDluc2hYX0NQa05hYjFtOGdWamhpWTJ1UDl4eExRVVNaU1hKZVJjSE9aSHg5U2c2MDJJOExkOWt4elhacUFEckswSzZ3ZDVPNG93MzBrVmZFb2xUSGZr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha election 2024: Will RJD make a mark in Bihar's Supaul after 25-years ‘break’? - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ1V0NUlkWEhoNGpaZ1NYcldFeDd0d1gzMHRSSVZfbldCai1wUUlrbkw0dTFURDdtdVJfY0J0ZmQyaWVsOTFHYk1VWVBRTlhxOFk4NEotN0ZYQVZMek9KY01QSHJiODhuMjctWVVLakI0THg2OHYtN2lQQ0gyNDR3eHdaZnJwOWdPMlBYZFFJczhpQXVXMnVKaTRxclVNZ3ZuRDlRZXVxX0Zzdnh6V2g5S0lfVHRWZXNSYWJxb1Jn0gHDAUFVX3lxTFA3SzBnZnhkZDg0S1FGWWxnSFc5VFVaVXZQZ0gyUkRfb3hfVHVZNENhS0E5eWxnTjl6Mm9OdG1HNXBwMTZ5eVViOTFjb3hNUjRGdmQwbThLN292MU45d3pweUgweTNMaWNBMXFGMEdkMC1rVThpbVBZTENOaGdYWThZbEc0Z2FOWXVlVzJKb2ZlNE5OSzNrQmpfMGRFMndUVVd6RnBuRkpBZ3VJdGRZN1dLb2lFbFB6QllEblFsNFVrNGxBYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Supaul Election Result 2024 LIVE Updates Highlights: Dileshwar Kamait of JDU Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdFAyZ2hVak5xVjFIeUJheDU4bWVPc18tTVhidW80RE1QTWNVaFVpcllUY0FUeWd6a0hpeG1aLUh1a1pvSDFTNHpuSGFXTEpkZk1CSTQ5RTdhem0zY1djU1dMYzlaOGlyLUtPWGpTMXh2R1pqX1FSUUlkb24wOHBMMTdycm1uXzNZUkNEYjlKVGJ0b1BXa0ZnRFVkb0I2UjhnV0NDT2FfTktjOG81R2U3bkYtWHpkWXRTb3FocEtVY3JqYU0zcnFjQ3ZGSld5T2NXbnRwcGJCMGtBUHBMcms3X9IB5gFBVV95cUxNSFNmOWVqUzVqbElKUnVZX2VTUHFnaWRGZHFxVFhMWDc0cXEzU3VLdkVsaGxHTEFJT0FlM3FvZmthZ0ZSb3BiNG40RjVOcFh2eFpGZ3Z6Nm9qT1EyNjU2T25OU01NTkp5NkxjNXc3TWtWNjRSTnpHSmxibDdiZVp3MUExQ3FXM0pWVW9TOGdZMWdCNTFSUnVYZTlISnVndWRqR2VoeWZlcGplTnJCVHM1UDBNb2Y2MmxtbG9zZmN0MzRlUWhueEpfSlJaaUJOU09UdHFWdWVfQU5JaVMtSDlIdDVsTHp5dw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha elections 2024: Indo-Nepal border in Bihar's Supaul sealed for 72 hours ahead of third phase - Mid-Day",
+        "source": "Mid-Day",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN2J3anBUNU9weGdZUVBBUndUeGJxMTFmelY2SUVxSWkwaHNPYU9PcjZrMkNmZkRNWmJkOW1iZTlMYm92S0lrRXlGZm5zc1I5OFFOZThJRG9rMmRSTkV0amNWdUFwQmJTRUlZY2k1VWlETHI1WDA3dUxzU29pamtzcWRyQzQyUTBOSkRraEVFV0hqeDVhMlNFYjRTRTN2SnJEeDZ4WXRGbWF3UlpNY0NBSkNRZGRzRWNkckpjbTM0VGE2NlFRSWFLNVJoN3lMaF9qMVdXaXdIdWJ1V3k4Qnp2LVkwTTQzVkp2al9EalVR0gHzAUFVX3lxTE5tdWxZZWJad3Jmbk83a0FROGZRVE90U2tQVXBUTkhJRDFtcFFDVmczZVp3R2VIc0kya1c3SHZ6cG85NFAyMmtBcWk4cmFnS05EenM5SFd5bjNRYmZGMnFOdThsTVZnSXlvSGRmbHNtSmFvSHVyNW9ianpxWnB1QW04d1lmbzNpQ21tcUJadGVxZVNYUzhkVFZuYzdrbXJ6WjdsVTNRVjU2d0FtSlBMQmw4SVUwd19ZZDlwWTBpSWtZOFJxYUZlYnNJZmUyejh5Mk5iOEZDaHZhaVIyRmJwa2lwR3pyaHJJUEVmZjJxb01FYlVTYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Supaul lok sabha election results 2024: Supaul Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkU3MnZNRXRxYkoyLXY1c0RoSFpPZ1JzYW1abnNnRzVoS0k4OXRjYi05MEx4dlVBWWxPUW42eWZ3eG1rdGt4RVp6VFZpdzVEdElhSC11STlnd2c3U3hxVTIxM0NUNi1Na1Y2UzFDbkUwcEJxTF9DeF9PLW9HQUlicHFUR1hTcWhBMWxr?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:25:02.440350Z",
+    "collected_at": "2026-09-02T14:48:12.757352Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +222,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.085027Z",
+          "fetched_at": "2026-09-02T18:38:04.532556Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +238,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.085038Z",
+          "fetched_at": "2026-09-02T18:38:04.532567Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +254,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.085044Z",
+          "fetched_at": "2026-09-02T18:38:04.532573Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +270,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.085048Z",
+          "fetched_at": "2026-09-02T18:38:04.532578Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +286,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.085053Z",
+          "fetched_at": "2026-09-02T18:38:04.532583Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +302,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.085058Z",
+          "fetched_at": "2026-09-02T18:38:04.532587Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +318,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.085062Z",
+          "fetched_at": "2026-09-02T18:38:04.532592Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +334,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.085066Z",
+          "fetched_at": "2026-09-02T18:38:04.532597Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,24 +359,41 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/DKamaitMP",
+          "url": "https://facebook.com/https://www.facebook.com/DKamaitMP",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:44:33.915497Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 8,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 8,
       "top_headlines": [
         {
-          "headline": "JDU elects Supaul MP ​​Dileshwar Kamait as leader of its parliamentary party in Lok Sabha - India TV News",
-          "source": "India TV News",
+          "headline": "Lok Sabha polls: Indo-Nepal border in Bihar's Supaul sealed for 72 hours ahead of thrid phase - ANI News",
+          "source": "ANI News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVnlXNE16NFQ3anhzZk9vejFrZzlSQmVubGtIaXN6VktLaG1JbFJ5Yk4yYTM0TWxHbHliRC1IeGU5OXNvT2dMLUhveHZXUEFMVmU2NE5TZllFcGJBTWg2cVdCa21tNjZyWnB1al9XSnhBZFVVbEpYSnA2a2tfbDYwZ2c1czZkbUhLMXVDbXRHaU1oR1dQVElQQk9yVlhKTktEV0RRaVhCYXlIUzFzU3NMUDVhWGtobWVwbXhTS19mMjJCZjAwZVNGTXhjWXo3YVMyN3J3ZFZRemg4QnJD0gHiAUFVX3lxTE1ialo1a2I2ZFltUm1kVGJpWW5PeG5ja1RLTTJGQ0hRamtoTHk4eXJSeGgxYUgzYzcyZHhUU2F1dTViZV9uRjVEZmxWenhyR1hUckNIUEQ1U1loV1RBWWZnQjB1QmV6MzEzUFgxZG0zcXNVOUltanlhdVNLOVVXajhqWmh6S3cwNTVwWGR1Mk1qSUVRZVc1TmNOdExLZm5fY2tCX0laTXhzR3g5U2prMUFUVldNM05Sb0RfcnBQZXI4NXNtSk5PV3pKb0llUFE5dGxNMFZlS1RvcTVfSnFTVkxtUGc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY1ljSmxWd0xzdEZSbUtKQ01ObXN6cmpGOVM3RXlwYU5HQzFWU2VkblQ4SHh2MGVsbUJwZjNzelh1eHAyUHNPYWozQ2FJSF9DMzZ2dng4VXQyanQ0VHIyODhhbDFOT01vWE40c0hMYXh0eERIbE9VcGRMdXBQZTYxR1VIR1lCX1JJcXRZS3RTbTgteVBzRDluc2hYX0NQa05hYjFtOGdWamhpWTJ1UDl4eExRVVNaU1hKZVJjSE9aSHg5U2c2MDJJOExkOWt4elhacUFEckswSzZ3ZDVPNG93MzBrVmZFb2xUSGZr?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,31 +405,31 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Supaul lok sabha election results 2024: Supaul Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkU3MnZNRXRxYkoyLXY1c0RoSFpPZ1JzYW1abnNnRzVoS0k4OXRjYi05MEx4dlVBWWxPUW42eWZ3eG1rdGt4RVp6VFZpdzVEdElhSC11STlnd2c3U3hxVTIxM0NUNi1Na1Y2UzFDbkUwcEJxTF9DeF9PLW9HQUlicHFUR1hTcWhBMWxr?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Lok Sabha polls: Indo-Nepal border in Bihar's Supaul sealed for 72 hours ahead of thrid phase - ANI News",
-          "source": "ANI News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY1ljSmxWd0xzdEZSbUtKQ01ObXN6cmpGOVM3RXlwYU5HQzFWU2VkblQ4SHh2MGVsbUJwZjNzelh1eHAyUHNPYWozQ2FJSF9DMzZ2dng4VXQyanQ0VHIyODhhbDFOT01vWE40c0hMYXh0eERIbE9VcGRMdXBQZTYxR1VIR1lCX1JJcXRZS3RTbTgteVBzRDluc2hYX0NQa05hYjFtOGdWamhpWTJ1UDl4eExRVVNaU1hKZVJjSE9aSHg5U2c2MDJJOExkOWt4elhacUFEckswSzZ3ZDVPNG93MzBrVmZFb2xUSGZr?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Supaul Election Result 2024 LIVE Updates Highlights: Dileshwar Kamait of JDU Wins - News18",
           "source": "News18",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdFAyZ2hVak5xVjFIeUJheDU4bWVPc18tTVhidW80RE1QTWNVaFVpcllUY0FUeWd6a0hpeG1aLUh1a1pvSDFTNHpuSGFXTEpkZk1CSTQ5RTdhem0zY1djU1dMYzlaOGlyLUtPWGpTMXh2R1pqX1FSUUlkb24wOHBMMTdycm1uXzNZUkNEYjlKVGJ0b1BXa0ZnRFVkb0I2UjhnV0NDT2FfTktjOG81R2U3bkYtWHpkWXRTb3FocEtVY3JqYU0zcnFjQ3ZGSld5T2NXbnRwcGJCMGtBUHBMcms3X9IB5gFBVV95cUxNSFNmOWVqUzVqbElKUnVZX2VTUHFnaWRGZHFxVFhMWDc0cXEzU3VLdkVsaGxHTEFJT0FlM3FvZmthZ0ZSb3BiNG40RjVOcFh2eFpGZ3Z6Nm9qT1EyNjU2T25OU01NTkp5NkxjNXc3TWtWNjRSTnpHSmxibDdiZVp3MUExQ3FXM0pWVW9TOGdZMWdCNTFSUnVYZTlISnVndWRqR2VoeWZlcGplTnJCVHM1UDBNb2Y2MmxtbG9zZmN0MzRlUWhueEpfSlJaaUJOU09UdHFWdWVfQU5JaVMtSDlIdDVsTHp5dw?oc=5",
           "sentiment": "neutral"
+        },
+        {
+          "headline": "Lok Sabha elections 2024: Indo-Nepal border in Bihar's Supaul sealed for 72 hours ahead of third phase - Mid-Day",
+          "source": "Mid-Day",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN2J3anBUNU9weGdZUVBBUndUeGJxMTFmelY2SUVxSWkwaHNPYU9PcjZrMkNmZkRNWmJkOW1iZTlMYm92S0lrRXlGZm5zc1I5OFFOZThJRG9rMmRSTkV0amNWdUFwQmJTRUlZY2k1VWlETHI1WDA3dUxzU29pamtzcWRyQzQyUTBOSkRraEVFV0hqeDVhMlNFYjRTRTN2SnJEeDZ4WXRGbWF3UlpNY0NBSkNRZGRzRWNkckpjbTM0VGE2NlFRSWFLNVJoN3lMaF9qMVdXaXdIdWJ1V3k4Qnp2LVkwTTQzVkp2al9EalVR0gHzAUFVX3lxTE5tdWxZZWJad3Jmbk83a0FROGZRVE90U2tQVXBUTkhJRDFtcFFDVmczZVp3R2VIc0kya1c3SHZ6cG85NFAyMmtBcWk4cmFnS05EenM5SFd5bjNRYmZGMnFOdThsTVZnSXlvSGRmbHNtSmFvSHVyNW9ianpxWnB1QW04d1lmbzNpQ21tcUJadGVxZVNYUzhkVFZuYzdrbXJ6WjdsVTNRVjU2d0FtSlBMQmw4SVUwd19ZZDlwWTBpSWtZOFJxYUZlYnNJZmUyejh5Mk5iOEZDaHZhaVIyRmJwa2lwR3pyaHJJUEVmZjJxb01FYlVTYw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Supaul lok sabha election results 2024: Supaul Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkU3MnZNRXRxYkoyLXY1c0RoSFpPZ1JzYW1abnNnRzVoS0k4OXRjYi05MEx4dlVBWWxPUW42eWZ3eG1rdGt4RVp6VFZpdzVEdElhSC11STlnd2c3U3hxVTIxM0NUNi1Na1Y2UzFDbkUwcEJxTF9DeF9PLW9HQUlicHFUR1hTcWhBMWxr?oc=5",
+          "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (8 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -368,15 +459,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 41,
+      "starred_questions": 12,
+      "unstarred_questions": 29,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 79.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +475,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +506,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +533,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 36,191,958. MPLADS utilization: 42.2%. Parliament attendance: 95.0%. Questions asked: 41. Debates participated: 13.",
-  "validated_at": "2026-09-02T01:36:47.085851Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 41. Debates participated: 13. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.533321Z"
 }

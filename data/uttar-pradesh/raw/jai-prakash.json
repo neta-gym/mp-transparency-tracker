@@ -4,16 +4,16 @@
     "constituency": "Hardoi",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5076,
+    "myneta_candidate_id": null,
     "slug": "jai-prakash",
     "house": "lok_sabha",
     "sansad_member_id": 159,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 66,
+    "age": null,
     "photo_url": "/mp-photos/159.jpg"
   },
   "criminal_record": {
@@ -24,68 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5076",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.206751Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:36:58.818217Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 303974608.0,
-    "liabilities": 52512656.0,
-    "net_worth": 251461952.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5076",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.206764Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 78.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.61,
-    "expended": 8.24,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:49.454517Z",
-        "notes": "Official eSAKSHI REST API — Works: 24 recommended, 23 sanctioned, 1 completed"
+        "fetched_at": "2026-09-02T17:13:53.198766Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:09:43.550836Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:09:43.547794Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 24,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 56.054421768707485
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 75.0,
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:01:53.976920Z",
+        "fetched_at": "2026-09-02T17:09:43.546747Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Hardoi MP Anshul Verma quits BJP to join Samajwadi Party, submits resignation to watchman - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMHBzMEs2aFhmQ2FEOFhXZHQ0RVF5aUZmQ1ZRZFFlWE5sbmlHczV0eWdIMHVhWERiWVpXWlM2WE1LTGtqamQ5dzZzY0w2aWMzSU5XeW1lWUM5VGpKdTZoVDVFTmI4R25LaHFLTlpoN29GWko3Z25ReXdSVDBNUHgxTTVkd1AxdXQ2R1IzRV9DSGhndkxUSXdudzVmeWVzdUlWbFRqQ0tjX3Bjei0waXZLal9LbzZ2T25mWDlFamtHZkwxa2FXVk1HdzNya0l3bVVYY3ZDNEViQ1B0UXVKVm5rakJRcFBnNlHSAfQBQVVfeXFMT1RIeE01d2JWcnNGbnlQT0xoZ3hSbzcyYUVSUWIydDNxbFYxVmcxQzdoUllaZUZ6bkRKU0FqdDMxRnJLNENBX3hOYVNPdENoc0R3R3FHcmZrci12NnZISUhnS01IX2wxdllnSzRZb2F0OW93QXdtMG9keUY4cjhOendBaUFxQ29Ga2FOOUN5TDNIQThWRmJZYTZ1T2dzd0MwdlZ4Y2h0VEFvcFBhZE5YdXo5RHNIbTBFUWMySlBZYnk0LXAyRmRwTThKM0dSQ3ZUeHczSTZJdjkxYVhaaTVPZnctbEExOTRYdll2YXZrOTFFbFdIeA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hardoi lok sabha election results 2024: Hardoi Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU29pdXFCeEtLbHZFc2syNWJpRlB6bGFNV1dNbHQ4QlRILV9BTkptU2sxR2xyZG1tSEZoaUhHUnVhejZqS0NTRHJnM2VYaGx0VXU0RHJOaFlENlpqTENpbVR5YTBYbVp1WGtBdk1NaXhWOW9RakdvZ01LNkVhcEgxODhMSmk0emdGb0h5Y01EaWRFOXpqOW9N?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "How UP caste dynamics explain BJP’s ministerial picks from the state - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTm1kcmdoaVdUdF8zLTVkRV9xYW5na1JCd1FaandTRnp4T1ZJTmdFV1BubGNOaURqZFB6QlVNN3YyMUE0SlBpSzRTMnJpRGlfUGxLeFFzbXRqSk00RnFCdWU0ZWtZMWFqbFB4ZXhFc1V1QXp3WkVvNWVmRG95MmZNUXhKelk2WEViaUg1Yms1LWVNUXdOa2ttSlVxVzhmVk83eVRGMlQzMDY3R0ZSTjBEMmhtQ18xRjZPcEJzWFk2TG1NLWVY0gHLAUFVX3lxTE1KOEphSzlTMGFYamhkXzhLR1BWOUc2Nmp6dl9SNWdiVE1UTFhteDBOMWZoWDhRWmU2SVdBRlRmUGMzWVhGYm5SQzAyQm5QZ1JnY0hPZnBoLTFKWkxiaFhoWWlWMFlmeDdqcFRyTkVITVV0ZW45UWhSSV81bXBNS2dvb0t1eU9SVFJLcFNLVFNoaUhTRXpXLWVRSy1XUXpNam9rQnVBOUxPaE82alk1R1BQeWJaZ00yUUtUT21hOE5HQ0JJZmlPYlJVdWRJ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hardoi Election Result 2024 LIVE Updates Highlights: Jai Prakash of BJP Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGdqMThVRlF6bjE1a0dob3F1ZUplVG9STlpRODE1d0dFX1JuUDNnX19qVDFySXYyM3pZM2EteUpIWUJKNmdUWkszU3JPREV0ZDk3VGl2elFldVRRRHRQejJEUi1UR2dMMEhmazc4RTYybnNPVTlCbkE2NzRQM096Ykg3Y3o2U0lZMXpUd2VTTmM3bXJZYzV3akFqT2pQRmhyd1RZSjdrZm1zWWpiZm1JTjF4bGx4cFI3MXY2UHJzbDlSWkpQMjZKZHhiLU1vQ1BVb3p3ZkpHTWhteGVuTjB6cNIB5gFBVV95cUxOUHlJNTNoRlVxZzU1OFNOSGFBQWR0UWlUWTVISWZ2dVFqcXU3VlJSSlpCZ190M0cteW5WaTRUNDBjNXdRWWhPUjE1UmJaTnZhWkR0emM1OVcydVZrWDBvX0V1VDU1WDhmc0pVSl9VendLQUJSZjZUbVBvTjBTck5aVy13N3BJM1hDX0NheDFvcHU0UndjdlB1TFJJd0JJMUtsS3ZRT3MzbVJ5S3NldGtzcXQxTC1mLUF3VHhldllUNFpMOUU1MGh5eERxOGVGVElvVDRET3RJc21VaWlVVGF2RzRNUDVIdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T15:56:57.238820Z",
+  "collected_at": "2026-09-02T17:13:53.199911Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.584541Z",
+        "fetched_at": "2026-09-02T18:38:11.154150Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.584551Z",
+        "fetched_at": "2026-09-02T18:38:11.154168Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.584556Z",
+        "fetched_at": "2026-09-02T18:38:11.154174Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.584561Z",
+        "fetched_at": "2026-09-02T18:38:11.154179Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.584566Z",
+        "fetched_at": "2026-09-02T18:38:11.154184Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.584572Z",
+        "fetched_at": "2026-09-02T18:38:11.154189Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.584577Z",
+        "fetched_at": "2026-09-02T18:38:11.154194Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.584581Z",
+        "fetched_at": "2026-09-02T18:38:11.154198Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -288,27 +333,27 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "BJP MLA Faces Backlash After ‘Worship Modi-Yogi, Not Stones’ Comment TMC Calls It ‘Dangerous’ - ABP News",
-        "source": "ABP News",
+        "headline": "Hardoi MP Anshul Verma quits BJP to join Samajwadi Party, submits resignation to watchman - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSjVQZXFLcDlnYnVmX1gxbFkxQjFPelowX3lTOHltRkI2b1dhVmNjbVZpMnVGbzc2UWtBemppUmJJd09YNGlmekZsNTUwVXBOcGU1dl9Fb3ZneUtzUzBQc3lRbkpyUXhqOVFjQ04zWnFid05BSmM5SUFad1lYWmtGRWNiVHJTVWFFeEc0aExYeGI2amZaaEI3TjYyZXJHNTkzQ0Y2N3BkOF9TellKUEt5dFk3ZHl2UWYtQVBiNDNrdUsxbDZOMGpVVWlIMXVDbHREeERkQkZWZ0JOb0xhVDZMeDdLRmtoQ2JibVRmMUtzX3JzS1FvTFE4SWFKWdIBgAJBVV95cUxNZmt2TDZUb2ZPLUlWc1I2WDcxaGxqaTBTSjhWQnhRdmFQLU1BdlZCNURRenRWTGVzcExMV1E0TWE5YXcyX0w0Ump1VGUtSUJzX3RvWEgwSUY2clJmeFp0Y25TZFNYT0doUTFiMVBPLXE5MDV6LU5tMHNxNE92dktERUVaR0NkQjlXZzFISWZxUmpzNVpOSnQ2M0owdjRPQXlfZVp2M3JiQ1BYZzRUeG1tQlJEZmRiZ2Yxd2lXeUEwakRSa3FmeEtKaHl6aEp5LW5JV1Yzb3p1N0FCcnZFd0NaVUpRTDhhZDB6UUF1NnhuemppalhISFZuSTUyaTRKN1ZX?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMHBzMEs2aFhmQ2FEOFhXZHQ0RVF5aUZmQ1ZRZFFlWE5sbmlHczV0eWdIMHVhWERiWVpXWlM2WE1LTGtqamQ5dzZzY0w2aWMzSU5XeW1lWUM5VGpKdTZoVDVFTmI4R25LaHFLTlpoN29GWko3Z25ReXdSVDBNUHgxTTVkd1AxdXQ2R1IzRV9DSGhndkxUSXdudzVmeWVzdUlWbFRqQ0tjX3Bjei0waXZLal9LbzZ2T25mWDlFamtHZkwxa2FXVk1HdzNya0l3bVVYY3ZDNEViQ1B0UXVKVm5rakJRcFBnNlHSAfQBQVVfeXFMT1RIeE01d2JWcnNGbnlQT0xoZ3hSbzcyYUVSUWIydDNxbFYxVmcxQzdoUllaZUZ6bkRKU0FqdDMxRnJLNENBX3hOYVNPdENoc0R3R3FHcmZrci12NnZISUhnS01IX2wxdllnSzRZb2F0OW93QXdtMG9keUY4cjhOendBaUFxQ29Ga2FOOUN5TDNIQThWRmJZYTZ1T2dzd0MwdlZ4Y2h0VEFvcFBhZE5YdXo5RHNIbTBFUWMySlBZYnk0LXAyRmRwTThKM0dSQ3ZUeHczSTZJdjkxYVhaaTVPZnctbEExOTRYdll2YXZrOTFFbFdIeA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Political Profile of Jai Prakash, Bjp Party, Hardoi, and Net Worth - India TV News",
-        "source": "India TV News",
+        "headline": "Hardoi lok sabha election results 2024: Hardoi Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM1RSOWdoQjJ2R1Jkd3F0bG5qRDZSd3hlRVZ4SjNtWW5lejdha3dFWHFUQnRsR3RxaHBYZTJnUnlWeHByeHpnQTRoaDNEZ1lPQi1NN29QOHpDSWItc09tSHM0V2gyamc5UDEtZTEySlB5ZVhKRWZmWDZkVHJNVVRyWmk3ci1vdlphV1IyNXV1cUpHVWM4U1NBdC00eTQyenhhNHJKNTF1Vm82YXVIUzJTNWljV1RiYWl5Qmc3c3UtTWlVMVh6blhsOURMS0htVXFOa0RySHk5aHRCM1U?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU29pdXFCeEtLbHZFc2syNWJpRlB6bGFNV1dNbHQ4QlRILV9BTkptU2sxR2xyZG1tSEZoaUhHUnVhejZqS0NTRHJnM2VYaGx0VXU0RHJOaFlENlpqTENpbVR5YTBYbVp1WGtBdk1NaXhWOW9RakdvZ01LNkVhcEgxODhMSmk0emdGb0h5Y01EaWRFOXpqOW9N?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "In Hisar win, JP beats 3 Chautalas - The Times of India",
-        "source": "The Times of India",
+        "headline": "How UP caste dynamics explain BJP’s ministerial picks from the state - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1V2cDlFLTFFd3BORUJ0TXdEaU96b2oxSDRPWElFRnpFMVROam5DYkJQMUdIVklKRWRoMHZyVkxTWHY0V1VxNm0xLU4xRUVYNTA2ZGRIVkJ2WlZHLUNOUmMzRFdIRDlBVW9rNkVaZ0hYMTlsQjdaWlFXeTBFaEZJbzh3aWllcmJ0NE83OUZnMlQ2aW01OXE0QTRZbjlDdjRvY0F2NlRvNzVHY0F0dDA2a080WkMyTE4wdnAtRnZhbnJuNVFyREE4RzZkRmc4ZnA3SURPZElyUE1Ya2Zacy1aQ0RGd1duM01kVno2SDdza3HSAfYBQVVfeXFMUEdTNGk4V1V2aVNDMDl5X3BqMUFfMlBpSmEzcmhCOXJCYloxV0lGYndkbTVTWnlWejFuZ3c2QTIwX2xfd0U3eHdOUEVvb2tUUjF1NVl4YXVEVnh3RUJjQnoweHdHNUNxYlZHWVFaOUtXSFBjMmpLbTVPeDhkdzZXdW5KTmZ0NWd4Vnh0M01VWnRiMEI3Z0x2NTM3a1YxSFZrTGJhZkJsTEhjRTdsbTFMc3pJd25ZaklqcXJoMlNHWEVhRnROTkkwSnB3WTVLdnFiVFVRNW9Pa3NKTWNHNGxUb1d1b1JGM3B1dmktZE9vcTJXdnZOdXVn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTm1kcmdoaVdUdF8zLTVkRV9xYW5na1JCd1FaandTRnp4T1ZJTmdFV1BubGNOaURqZFB6QlVNN3YyMUE0SlBpSzRTMnJpRGlfUGxLeFFzbXRqSk00RnFCdWU0ZWtZMWFqbFB4ZXhFc1V1QXp3WkVvNWVmRG95MmZNUXhKelk2WEViaUg1Yms1LWVNUXdOa2ttSlVxVzhmVk83eVRGMlQzMDY3R0ZSTjBEMmhtQ18xRjZPcEJzWFk2TG1NLWVY0gHLAUFVX3lxTE1KOEphSzlTMGFYamhkXzhLR1BWOUc2Nmp6dl9SNWdiVE1UTFhteDBOMWZoWDhRWmU2SVdBRlRmUGMzWVhGYm5SQzAyQm5QZ1JnY0hPZnBoLTFKWkxiaFhoWWlWMFlmeDdqcFRyTkVITVV0ZW45UWhSSV81bXBNS2dvb0t1eU9SVFJLcFNLVFNoaUhTRXpXLWVRSy1XUXpNam9rQnVBOUxPaE82alk1R1BQeWJaZ00yUUtUT21hOE5HQ0JJZmlPYlJVdWRJ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -320,11 +365,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Hardoi lok sabha election results 2024: Hardoi Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU29pdXFCeEtLbHZFc2syNWJpRlB6bGFNV1dNbHQ4QlRILV9BTkptU2sxR2xyZG1tSEZoaUhHUnVhejZqS0NTRHJnM2VYaGx0VXU0RHJOaFlENlpqTENpbVR5YTBYbVp1WGtBdk1NaXhWOW9RakdvZ01LNkVhcEgxODhMSmk0emdGb0h5Y01EaWRFOXpqOW9N?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -358,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 19,
+    "starred_questions": 5,
+    "unstarred_questions": 14,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 36.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -374,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 75.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

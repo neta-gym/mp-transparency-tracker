@@ -4,16 +4,16 @@
     "constituency": "Karimganj",
     "state": "assam",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2206,
+    "myneta_candidate_id": null,
     "slug": "kripanath-mallah",
     "house": "lok_sabha",
     "sansad_member_id": 5106,
     "profile_url": null,
     "canonical_name": "Kripanath Mallah",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/5106.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Karimganj",
       "state": "assam",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 2206,
+      "myneta_candidate_id": null,
       "slug": "kripanath-mallah",
       "house": "lok_sabha",
       "sansad_member_id": 5106,
       "profile_url": null,
       "canonical_name": "Kripanath Mallah",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 50,
+      "age": null,
       "photo_url": "/mp-photos/5106.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:09.079683Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 18862404.0,
-      "liabilities": 6314782.0,
-      "net_worth": 12547622.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2206",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.524424Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 16.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 6.01,
-      "expended": 5.4,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:19:24.988616Z",
-          "notes": "Official eSAKSHI REST API — Works: 58 recommended, 34 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:52:25.814544Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:48:26.095644Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:48:26.093603Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 58,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 36.734693877551024
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:55.338957Z",
+          "fetched_at": "2026-09-02T14:48:26.092794Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "SC restores election petition challenging BJP MP Kripanath Mallah’s election to Gauhati HC - The Shillong Times",
+        "source": "The Shillong Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSjdpTVNUdnUtekQwcVp4OWF3ZktLcEFoQU1zUGVMc09qQnh0UlF6bkFfNUdHNTNMNVBLOE5oYXR2R3ZHMEdPRnJnZzRuTHdIbE9iMWVoS0VqVFJUY2J1bFRxSVczVjViVnF6aVVLZXdXV0RwNTFXaG5lc05wN3o0bi1oemVIOU5uRzFEUFFDWHNmVEVkcEdnY2hXSkNnQnZHVVJJQUUyUWZhSVJyRnJpRnFWVlNDSEYxbUs2RHRrUHcxbUpUQUdJejlB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Assam: BJP MP Kripanath Mallah clarifies on Ramkrishna Nagar MLA’s origin amid 'bhumiputra' debate - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMndSc2Y0QTJFODVFTE1Ba1dXZWkxUWdEVnFXaXhWMjNwOFp0VHhzeTl1OEFGOHB6Y3RkOHUwX1dDbVNwcmZYNjJTVG1TSVB4NVh1cE0zZTF5LVVpc3FvZWFBMGV0TURJZXBsbVU1MVg2NlRZOVpZNmpfTXYzcVBMcDI2Sl9veHVuMGljN250ZE0wMl9jbkpwSjBUVkpGQ1JXdVRaaWNEdmxGazMyR01JLXNpd0RhZy1pQi1oZFJVNTBGdzF1a0Jwb1NBQUYxVjNYSkU1a2tWd2xhVjdNZXlKWWhjRWphYkN50gHuAUFVX3lxTE1ENC1RVUZyZ1VDa0U5b1hId3R1c29MREd0OHJxMmNaTEZseTNRWmNCOXVOalNhVjN6ek0wTVRzRVE0QUpZNS0weXJCQjhzZjVvbFhzV05ycEhabnk0cnAzeHJYeFBKLWRHd1BOTDZCb2xOMmxMdXY0cnFuemRTaEUwMVdyRmtBT0hsbi1qYzNERkpJV3M0TU5wbXVoR2dONlZVT2pkajJNb1p5UVM0bU81RkFSY0Nrb19kMnFFUU5LQ0R0cHpqN0x1ekQ5OUlvYVN6cGlJaGZOSHJGYW9mczA0a1Fmc3pkQWpQbUJoemc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Karimganj election results 2024 live updates: BJP's Kripanath Mallah wins - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPTU9xSVZjeVBwWkVLaTdiSFFkdEhNN1BMd0lWTFUxUmhTTHhWRmpGRUpwVmt5aUNyaWdYRzRSck40WUVXY1Rkd1ZxVVdCcVhZRk1EaGlyWlRLQS1LMGdRcVBMZWN6RjhHUW1hRDZUZVJFRzZSRHA2Vjh1SGVHUjMxZ2lXMll6Yk5ja05Gazd6Nm9JeVJfa0xaNGlqVXJtRFZYQUt4bVVEM0taVWMtUlpqN09ZZnM0NXNzZWhTSXptWDM0cDhmM3AtdnVKZi1EVENrSENRYmR0Nk1BdnNtREhfMF8zellldy1QUURLNVJKWE5wZHZidmNieEpBRHVyU0dPQXpfVlhlTUxGYlpfZzUycmNnU0dJWE9CaHItX3pVd3Jsb0R0UEdpcWloRERWYjVjUDBBMV9EckNVbUdlbDlZa0gtd2rSAcoCQVVfeXFMTVVZSzg0VkZzY0JOOFY1bUpKQ1BVZERoVEpTMFZCdUg3cXByb3REQ3lmazdkNTBXNFNubGdQekxjUFFrLUFTNDdMbjd5aGRlbU9HcHp5S0NBMDJ6UVJuZi1tTUhvZm9BdnFmY2JoNzh1N2JjNDdWQTJZcFVkT3BHQ3MwM1hQczh1YXpKa09FSDNUWUZ2MHh1Q2RGMDhCemZianN0Q0xVSmg5cUJtZ1hfa3pwaTZ6LThkSHNiMTZidDE4akd4YmRiOVNRV3Itd3VERXQ4Z3ZGLWJzZl9FVEtPNHN0c2pnUldDWGdDNHUwZGJTaEhRYkltRzVFWWRoUTdtR0RkaGxybkVyLTZvNXpYMXBza3VCNEw2bjlYT3FnZndQTzJOaEo4X3J3WDVFTU00QVVzdkhNaG82emRKdmM5dnVFdUMxcmZBTER3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Cong, AIUDF Fighting For Second Place In Karimganj, Says BJP’s Kripanath Mallah - guwahati Plus News",
+        "source": "guwahati Plus News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUW5wVVdjcXZfak50aVJvZEhWajdrRzktd3VmeWtRTUVKM2xQY1RGbVczM1dGbGltemtTZ0U3T3hIb3ItWVlZczJJUTVTekZuU3lKZUdyQlROTDhpNkJMLUJfVlRvRjhqMTZoNjdwUllJWHRoM1pWZUs2bHdOV29TRFNqeGQydGhvYm5yUDl2VTlwZ1d5VWpCaDlDZWRFazQwZnowSTkzenlKazQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gauhati High Court Dismisses Congress Candidate Hafiz Choudhury’s Election Petition Against BJP MP... - verdictum.in",
+        "source": "verdictum.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUUs4d21haFJzZHhLdFlBYU1WdE5uc3hURndzYWxlaUgtS3lLR2FmdF9Rb28wRlZ0RFhhR0JRNHRXRF9RNDdjTFJfbDVCUnhiYjd3eDQ0Y3E3dWlqdXh2Y1l2YXlrVXZ3UnlXVUZ4N1V5MDYxRnRKX0xmX1dSN2dwckEyWkJYbnRveThtY0tPVHRVcVhjbzktVlZIWWVjNnRuTFZVX2RxakJDalBrMEN6dDJwdjdPeDRwNmk3cmpaZHMwS0VQR3dMRmdOY0lqLWN4c05MSFllUGhPWnfSAeABQVVfeXFMTktGUC1RU2FwVlhZLTZQYVBMZDRHU1drcHV2MDRtUHlWUFhoUjJHWGMtM3RxN2pITjg4bzc3TzVPQmVXMVRUa3lyUXk5cDF6WENaZkZFSld1OUpvX0d6VGRmNFRsdEgyYzJ1SjVDbWxMcTc4dGRkc2ExeXJsN2ZQY2xMc0pFeXZPa2IwMkNBd1paUnNRNDNNOU1wRFB2SFItZzBOWVdvc0lnUGpOUjRod21qUDhXeGNGMUN0em5Qd01IMW1mZGV3UFgxaU16enJwaVotU1c5dHlkN0I3T2pSZVk?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:53.952320Z",
+    "collected_at": "2026-09-02T14:52:25.815430Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.840423Z",
+          "fetched_at": "2026-09-02T18:38:04.293578Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.840437Z",
+          "fetched_at": "2026-09-02T18:38:04.293590Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.840445Z",
+          "fetched_at": "2026-09-02T18:38:04.293596Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.840453Z",
+          "fetched_at": "2026-09-02T18:38:04.293602Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.840462Z",
+          "fetched_at": "2026-09-02T18:38:04.293609Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.840470Z",
+          "fetched_at": "2026-09-02T18:38:04.293614Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.840506Z",
+          "fetched_at": "2026-09-02T18:38:04.293619Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +322,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/mallahkripanath?lang=en",
+          "url": "https://x.com/https://x.com/mallahkripanath?lang=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/mallahkripanath/",
+          "url": "https://facebook.com/https://www.facebook.com/mallahkripanath/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:48:29.135375Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -281,6 +359,14 @@
       "negative": 0,
       "neutral": 10,
       "top_headlines": [
+        {
+          "headline": "SC restores election petition challenging BJP MP Kripanath Mallah’s election to Gauhati HC - The Shillong Times",
+          "source": "The Shillong Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSjdpTVNUdnUtekQwcVp4OWF3ZktLcEFoQU1zUGVMc09qQnh0UlF6bkFfNUdHNTNMNVBLOE5oYXR2R3ZHMEdPRnJnZzRuTHdIbE9iMWVoS0VqVFJUY2J1bFRxSVczVjViVnF6aVVLZXdXV0RwNTFXaG5lc05wN3o0bi1oemVIOU5uRzFEUFFDWHNmVEVkcEdnY2hXSkNnQnZHVVJJQUUyUWZhSVJyRnJpRnFWVlNDSEYxbUs2RHRrUHcxbUpUQUdJejlB?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Assam: BJP MP Kripanath Mallah clarifies on Ramkrishna Nagar MLA’s origin amid 'bhumiputra' debate - India Today NE",
           "source": "India Today NE",
@@ -290,35 +376,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Karimganj election results 2024 live updates: BJP's Kripanath Mallah wins - The Times of India",
-          "source": "The Times of India",
+          "headline": "Karimganj election results 2024 live updates: BJP's Kripanath Mallah wins - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPTU9xSVZjeVBwWkVLaTdiSFFkdEhNN1BMd0lWTFUxUmhTTHhWRmpGRUpwVmt5aUNyaWdYRzRSck40WUVXY1Rkd1ZxVVdCcVhZRk1EaGlyWlRLQS1LMGdRcVBMZWN6RjhHUW1hRDZUZVJFRzZSRHA2Vjh1SGVHUjMxZ2lXMll6Yk5ja05Gazd6Nm9JeVJfa0xaNGlqVXJtRFZYQUt4bVVEM0taVWMtUlpqN09ZZnM0NXNzZWhTSXptWDM0cDhmM3AtdnVKZi1EVENrSENRYmR0Nk1BdnNtREhfMF8zellldy1QUURLNVJKWE5wZHZidmNieEpBRHVyU0dPQXpfVlhlTUxGYlpfZzUycmNnU0dJWE9CaHItX3pVd3Jsb0R0UEdpcWloRERWYjVjUDBBMV9EckNVbUdlbDlZa0gtd2rSAcoCQVVfeXFMTVVZSzg0VkZzY0JOOFY1bUpKQ1BVZERoVEpTMFZCdUg3cXByb3REQ3lmazdkNTBXNFNubGdQekxjUFFrLUFTNDdMbjd5aGRlbU9HcHp5S0NBMDJ6UVJuZi1tTUhvZm9BdnFmY2JoNzh1N2JjNDdWQTJZcFVkT3BHQ3MwM1hQczh1YXpKa09FSDNUWUZ2MHh1Q2RGMDhCemZianN0Q0xVSmg5cUJtZ1hfa3pwaTZ6LThkSHNiMTZidDE4akd4YmRiOVNRV3Itd3VERXQ4Z3ZGLWJzZl9FVEtPNHN0c2pnUldDWGdDNHUwZGJTaEhRYkltRzVFWWRoUTdtR0RkaGxybkVyLTZvNXpYMXBza3VCNEw2bjlYT3FnZndQTzJOaEo4X3J3WDVFTU00QVVzdkhNaG82emRKdmM5dnVFdUMxcmZBTER3?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Political Profile of Kripanath Mallah, Bjp Party, Karimganj, and Net Worth - India TV News",
-          "source": "India TV News",
+          "headline": "Cong, AIUDF Fighting For Second Place In Karimganj, Says BJP’s Kripanath Mallah - guwahati Plus News",
+          "source": "guwahati Plus News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd0F1am8wZzhrcXNSdmlCWmYteDVrQk9jdi1RWkxTa2dBbXZuc1laMlVrQXdENlBpaXU3NTNQWHUtQmdNT1RaTDQ2eTFodEprMWRaZTVVOG9kb1didnZTbjRndlFOYS1veUswYktPLUNKRnFEbDhsWEd5cm1vZGVwRHgwRGp1NTRZZi05RnlGLU5kLTFWTTlWSUxNNkhZaHNuclJHRGc3U0ExNDUxQ2dQcmk5Q3pSd2RNbkctQm1ONTNaNlFpcGtxRkNjU3lHU1Q1SmxmaVlnalhycTA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUW5wVVdjcXZfak50aVJvZEhWajdrRzktd3VmeWtRTUVKM2xQY1RGbVczM1dGbGltemtTZ0U3T3hIb3ItWVlZczJJUTVTekZuU3lKZUdyQlROTDhpNkJMLUJfVlRvRjhqMTZoNjdwUllJWHRoM1pWZUs2bHdOV29TRFNqeGQydGhvYm5yUDl2VTlwZ1d5VWpCaDlDZWRFazQwZnowSTkzenlKazQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Gauhati HC Dismisses Petition By Congress Candidate Challenging BJP MP’s Election From Karimganj - Guwahati Plus News",
-          "source": "Guwahati Plus News",
+          "headline": "Gauhati High Court Dismisses Congress Candidate Hafiz Choudhury’s Election Petition Against BJP MP... - verdictum.in",
+          "source": "verdictum.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQnBwdk9NX0pXM2xUcjJpVFdOT1BOdlRoLUFOY1dBUEdoeTkySFJsbWtrMzlFdEFoTXBQUmV2WmlXdkRQT1VYVV9tN3lTYy1HY3VfUU1oZkdzaDczVHBDdzZfVGR3eUF0SU5SMmg4MUlmRS1wTW1WaGxUWjVtMVVzamU5Uk1jaWF4VVdwYjBBMmdvYXlESHJhU1Y0QTJfR1AtQS1LVlpzVndxZ29ldjIwa3JRNDNsc09qUUlqVUlrRGNJY3NjSUZvTA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Parimal Suklabaidya in Silchar, Kripanath Mallah in Karimganj; BJP announces first list as Modi seeks third term as PM - Barak Bulletin",
-          "source": "Barak Bulletin",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdmMxOUtFazJ4VlEwMl91NVRqcG90Mkt2MVR1ZGtzYTJaWkVDTW0tR193el9idzZDSVhNWk1FcUtsS0tBOU8zYmdaNVF6V0thYkNUSUxyMXpZTmd1YnFfaXBUWWhtVW1wSGxfN21Xbi1mZUVJc2pqQ2tBNVREakdRZ3dMb21RODM4NXdPdmQxcHVWS280UUtZaE14UjNwMTh5QkNBdmJBOGZlR1FEOEdMWFlzNXRUV0VPUWc5d3ZwbFpPSXBKQjBiZHBPY21PRkR1OGNxSzhYNjh1dTg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUUs4d21haFJzZHhLdFlBYU1WdE5uc3hURndzYWxlaUgtS3lLR2FmdF9Rb28wRlZ0RFhhR0JRNHRXRF9RNDdjTFJfbDVCUnhiYjd3eDQ0Y3E3dWlqdXh2Y1l2YXlrVXZ3UnlXVUZ4N1V5MDYxRnRKX0xmX1dSN2dwckEyWkJYbnRveThtY0tPVHRVcVhjbzktVlZIWWVjNnRuTFZVX2RxakJDalBrMEN6dDJwdjdPeDRwNmk3cmpaZHMwS0VQR3dMRmdOY0lqLWN4c05MSFllUGhPWnfSAeABQVVfeXFMTktGUC1RU2FwVlhZLTZQYVBMZDRHU1drcHV2MDRtUHlWUFhoUjJHWGMtM3RxN2pITjg4bzc3TzVPQmVXMVRUa3lyUXk5cDF6WENaZkZFSld1OUpvX0d6VGRmNFRsdEgyYzJ1SjVDbWxMcTc4dGRkc2ExeXJsN2ZQY2xMc0pFeXZPa2IwMkNBd1paUnNRNDNNOU1wRFB2SFItZzBOWVdvc0lnUGpOUjRod21qUDhXeGNGMUN0em5Qd01IMW1mZGV3UFgxaU16enJwaVotU1c5dHlkN0I3T2pSZVk?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +430,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 27,
+      "starred_questions": 8,
+      "unstarred_questions": 19,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 52.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +446,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +477,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +504,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Assam: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 18,862,404. MPLADS utilization: 36.7%. Parliament attendance: 100.0%. Questions asked: 27. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:46.841500Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 27. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.294331Z"
 }

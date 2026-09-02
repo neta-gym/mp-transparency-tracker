@@ -4,16 +4,16 @@
     "constituency": "Tamluk",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 7912,
+    "myneta_candidate_id": null,
     "slug": "abhijit-gangopadhyay",
     "house": "lok_sabha",
     "sansad_member_id": 5591,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/5591.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:27.102759Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 46255624.0,
-    "liabilities": 5077654.0,
-    "net_worth": 41177970.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7912",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.476563Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 36.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.5,
-    "expended": 2.5,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:36.776072Z",
-        "notes": "Official eSAKSHI REST API — Works: 247 recommended, 150 sanctioned, 12 completed"
+        "fetched_at": "2026-09-02T15:33:18.536751Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:29:38.951660Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:29:38.950134Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 247,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 17.006802721088434
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:37:40.021440Z",
+        "fetched_at": "2026-09-02T15:29:38.949532Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP MP Abhijit Gangopadhyay seeks probe into CBI officer involved in RG Kar investigation - telegraphindia.com",
+      "source": "telegraphindia.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOazZqMUZta08xV0tVQ2dIU0xFem1qeXVSZnpvYjIxOXRaUlNWRjFhRVhUOVVkTjRQTzMyZzVZX3doOWtaU2k4WFdReVNta1RpM1duWUZPQm1iWXc5UWJxcHd2MWJFRWs3NU5DQXpaQm1oZmNWQzM2VGp4NUpXNUU0QVRSVHZyMmlZd0NGd0RxNktTQUVhNU02RWo3OTYwc1plWThYR3NuVFNpcE1MblRHaHVma1F6S0ozQ2NrakU5WHF1dkQ5M2F2a3J4ZW5xX0NtdGRPSS1pejVQeWhiM1JUMlRYWmJhZ2QzT1UtemJoaGNLeVVwODU00gH8AUFVX3lxTE4waVNlZ3NIcEk0OUNvUC1yQlBKZlhKZzd3UGU2OGtYMXc1Mm1DMzIxWTVMS0wwQWFnTUNSNEFfT0xBWUVWQXV0MVNEMndwQnFVZVV2elAyVHVuZVdNUjJsUkYtaVVCYjdMQW4wR2VJd0ppNVZ3dnJ0b3F6Z3FDS1laMW9XRVBvTnlPM1EtSzIzRml4Y2hndTlwQUFudWk0S0xlbTVpUElCakJ1SXR3ZnNJcE8tdk10bHRDWHhrNGlpWGNHSURVSDRYYmd3alhrVTNxcmJ0dFVSeC1iSjBsbXVKczlUYUh2eUtIR2QyZE4zT21kSmJoaGItdFFERw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MP 'Predicts' President's Rule In Bengal, Trinamool Leaders React - ndtv.com",
+      "source": "ndtv.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWU5vVkpEeHpSdGJBTXRqSjNFMi1WWk15WklEbW0xWHM0S1U2UVh4QV82Q3JGS1pmcERlWlh1YS13M0NPQk1pR2lHeExnaDM2UEQ3U2lZWWV2Q1pQdV9nSm9xSGlyTDR0VGpKMnhsNnJRWTRpVXpBU1RpQTQyeF9XSnZORjlFTkNVVlRONF9YejF6bWJic2RBRThIRlJXWmxpeW9UaXZUd1lDd9IBsgFBVV95cUxPVjBkNThncGhvdWRVUGdlMDFfUTNGaEpKd051VmZ0NEI1TVFMdjVaSG5EQjd6T1RONnFrZHFlTG5FSmxINmdLdXBRMjc0WDYtR3paMURJeVFwXzVwWDR1UlhJOS1KcUZJd2l3SVpHVzRYbEFLb2RUSXN6MDZZdjd2WlYtbjBNOGNUWXBIRU9MSldoNGhIRkpQQk03Uk80UklXdjhpakJGYXRMbUFUal9kWHFB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MP’s ‘Secret Understanding’ Claim Stirs Fresh Questions on Centre’s Strategy in Bengal - Frontline Magazine",
+      "source": "Frontline Magazine",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGg3REFUdGNwQnVUWkY2aUE4T0QwZnhSSXZYWVp0MUpGd1AyQ1hpcU1zUUIxZmFxdjBhRDRRTmY2aXFNSDRyUFB2UVd4RUxiVnVOa1dEanlPTDZCSzdtS3VMcEJrcmNJak9pVFNvU3I0RmtUMXBFUlROa3hSNmNOX19yaU4yLU1Zbl9lVHBiak1oYWk4MDNnTFpGQ1ZGbk1ET0pMaVJfRXJoVFFiTTU5UHI1UXB2bDBtcWRaUDFQTnVRYXd2WGVZbDVyY9IB0gFBVV95cUxPSHVTdkNCdFIyZjZ0VWVfbUthNHpzOGw3ZjczclRVTHl6NXVzLTlFUC1PQTNEdW1Fa1ZueUFWdW9PMzBFaWJxZ2RMTUV3NllnZFJ6VVdlQjVSM0VkUXFrM0xsNHJkSU1rWEFjXzBOZ3o0dGs5TzFRUU1TZlFmUm0zS0lna0xEM0lQRlg1UjIwVXZ0TlVBRVZZVEtsS1FFNUlOdmw4Zy1KWkVWZGtRUS1BeDFLTWxfcEx2WkhINXhsNVdxRGxrd2dhSzZteW1WeURiVGc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP’s central unit asks state unit to explain MP’s outburst - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWRvWUppcDJsYWFEaE84Z0JLTEtOOThvLU5DYjRiZTdiNnZNN2E3Tmk0NWR0NWpzazJ0a2xEaldkQlZRRm4zZzIxYnhQRy1vUEtsZEZUTDd4WGhnZ20tV2JxVkpqNDRIdHRqeU9Wc1hyN3dfdXdvNVcxT0NpN2FfVU9ZNXJlRHFaSjJQZVVnb21XU0pjSFcteThuTi0yYUhqeTFaZWl2NFc4U0Ux0gGyAUFVX3lxTE9oUks1RWRIalQ5aFh5eDVWNWNzZ1V1NWkzQWxERXRJUmFZb3l1SFhxMFBiY2tsUmJ3ZnNwc0lJb1NNbWdsMjdra0pydUVfYnNvVEdfZG9GNXlNMFdiTGtWVEo0X0Q5dWVjWGJLTU44dGxXSWVxcDJwWGktSkZKTlhDTjlLdnR3NG5ieHh0U2Roa2d0dTU1aFJPT3dpWHVOeE1sUDl6SzBjX0UwanZWelI0X0E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tamluk election results 2024 live updates: BJP's Abhijit Gangopadhyay wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUEFIWTdFMi1TMGc3dUVLNEJGbFJZZi1NYWhtbk1wa0FLZ1QzQlhvdE9xTFRjSFFYZlZTcjdPYzJTeUxvMXgxWU9Uc1lvOXRPcU5jRXcxTlZaWC1hX1pWeUZQTm8xVTl1ZjBnWTdINEttaW56b1d5Mkg3U1FhWkZpeTZFMkJqT2RTSWxMa3gyS1Y1NHlUTmM2aHFleFpLOHBpMU8yS25UTF9VWEhBQTY2TXdIdEtyTE16cHZuREJoVEhjanh3YlNUeEJsTGY4V1VuWDlqblBaX2FsQ2tEbmFtcC04aHp3WUJtZU5jT2xURGpXeEpWN2ZjWFZQN19pd3ppb3Z5TkFPNHkyRFdTYmthcnNZVEItLURDNUI0R0NPSzIxTmNDektQZHEtN3NXLUtqYnhwUjk3bll4UVdQeGxpUHg0bllSYVVfelVLb2U2cHpFLWfSAdgCQVVfeXFMT3hlZDN2aDdpZ3pCS0xXblVQeHI3NUZJb25EejJNWUhQWVVacG5QUll3RS1NWjgzRlVtUGNEZEFYM3RkM1NGbkR6dDJWeTlZeGlaZDkxT00tWW1QZzVIOUxVdDIySi1iMTRuR1Fkd0xweEdZVWF0OXlmX0pKMlN3cWgwdzFJSm9lZUNjRElDdE5nSzlvbXRobzhIb2xobWYycXpZRW1CQW1PUHhfeDAxVEI4QTk1MXNXbEVyMkNpTHJwb05heUc2cllKRnViZWFFR0I1bzNyb0ItVmxYOE9zV1kxZFpwOUhtejNoY054eGx6dExYb0RBcEU2cGM3Qjg1ZHNBdGUxa0RPMXlsdDlYMC1sLS1NLUpsOHVUbFlpdnBhN3lmbXh0Zi1qeXhGRnpLbFoyQ2NuTjEwM2VJS1BVb21vT2lzUnl6V1pKSzViLXNud2NsazdwLVA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:38:18.780419Z",
+  "collected_at": "2026-09-02T15:33:18.537365Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.491549Z",
+        "fetched_at": "2026-09-02T18:38:12.094831Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.491558Z",
+        "fetched_at": "2026-09-02T18:38:12.094842Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.491563Z",
+        "fetched_at": "2026-09-02T18:38:12.094849Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.491568Z",
+        "fetched_at": "2026-09-02T18:38:12.094855Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.491574Z",
+        "fetched_at": "2026-09-02T18:38:12.094861Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.491578Z",
+        "fetched_at": "2026-09-02T18:38:12.094867Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.491582Z",
+        "fetched_at": "2026-09-02T18:38:12.094872Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,27 +317,19 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Bengal: BJP MP questions CBI officer’s role in RG Kar case - thehawk.in",
-        "source": "thehawk.in",
+        "headline": "BJP MP Abhijit Gangopadhyay seeks probe into CBI officer involved in RG Kar investigation - telegraphindia.com",
+        "source": "telegraphindia.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVJPVDdqaEktb2JieWpDWlp0U2ZJTEdBYTVrNDRCcVFvdjlBZkIxREU2NnFkWlNEQTRIR2Q1cTA4VmUwU2RmNWFGUTdwZ2lqYTRQVDZlS2E5ekhVTUZaalNGUjc4TFlOMXBaSG16NDRYbTFsdlFSRVJSUGhaNTJMY0ZtWWxqSDNJRndXVm43VWZEU1lL?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOazZqMUZta08xV0tVQ2dIU0xFem1qeXVSZnpvYjIxOXRaUlNWRjFhRVhUOVVkTjRQTzMyZzVZX3doOWtaU2k4WFdReVNta1RpM1duWUZPQm1iWXc5UWJxcHd2MWJFRWs3NU5DQXpaQm1oZmNWQzM2VGp4NUpXNUU0QVRSVHZyMmlZd0NGd0RxNktTQUVhNU02RWo3OTYwc1plWThYR3NuVFNpcE1MblRHaHVma1F6S0ozQ2NrakU5WHF1dkQ5M2F2a3J4ZW5xX0NtdGRPSS1pejVQeWhiM1JUMlRYWmJhZ2QzT1UtemJoaGNLeVVwODU00gH8AUFVX3lxTE4waVNlZ3NIcEk0OUNvUC1yQlBKZlhKZzd3UGU2OGtYMXc1Mm1DMzIxWTVMS0wwQWFnTUNSNEFfT0xBWUVWQXV0MVNEMndwQnFVZVV2elAyVHVuZVdNUjJsUkYtaVVCYjdMQW4wR2VJd0ppNVZ3dnJ0b3F6Z3FDS1laMW9XRVBvTnlPM1EtSzIzRml4Y2hndTlwQUFudWk0S0xlbTVpUElCakJ1SXR3ZnNJcE8tdk10bHRDWHhrNGlpWGNHSURVSDRYYmd3alhrVTNxcmJ0dFVSeC1iSjBsbXVKczlUYUh2eUtIR2QyZE4zT21kSmJoaGItdFFERw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP MP 'Predicts' President's Rule In Bengal, Trinamool Leaders React - NDTV",
-        "source": "NDTV",
+        "headline": "BJP MP 'Predicts' President's Rule In Bengal, Trinamool Leaders React - ndtv.com",
+        "source": "ndtv.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWU5vVkpEeHpSdGJBTXRqSjNFMi1WWk15WklEbW0xWHM0S1U2UVh4QV82Q3JGS1pmcERlWlh1YS13M0NPQk1pR2lHeExnaDM2UEQ3U2lZWWV2Q1pQdV9nSm9xSGlyTDR0VGpKMnhsNnJRWTRpVXpBU1RpQTQyeF9XSnZORjlFTkNVVlRONF9YejF6bWJic2RBRThIRlJXWmxpeW9UaXZUd1lDd9IBsgFBVV95cUxPVjBkNThncGhvdWRVUGdlMDFfUTNGaEpKd051VmZ0NEI1TVFMdjVaSG5EQjd6T1RONnFrZHFlTG5FSmxINmdLdXBRMjc0WDYtR3paMURJeVFwXzVwWDR1UlhJOS1KcUZJd2l3SVpHVzRYbEFLb2RUSXN6MDZZdjd2WlYtbjBNOGNUWXBIRU9MSldoNGhIRkpQQk03Uk80UklXdjhpakJGYXRMbUFUal9kWHFB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "‘Wanted to discard a corrupt system’: Abhijit Gangopadhyay - MillenniumPost",
-        "source": "MillenniumPost",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTFhtZ242UkZWa29UWGc2eElsVVhsR0NJRWdFTGxCWFZ1MEZqMkdkYXdwbWFNS01GT2pIVkpNdV9laFgtWFlTd0FoYWtxTHJVYlJOTzBJZkVRc2w4SHBnUE93cjB5b1NFUFRETDh5ajE2a2RqOE1LTWQwSWMta0REY1ZHMWNoaldLUDBiRXFRcjJZVC1MX3BRdzRGekN2bUlw0gGmAUFVX3lxTE9hemVsek9vUjJLbjdEYWx2bDNodXdLbUtZdmxKMUlPMWdHNWxGZWhSMWhqR01ZZGxnOENFOW55bDl1WXpfWkxZc24tMWNQMjUwTEpvSmRfZGxpSjJfMlBLQU5lam5CNHlueWJ3WVNxVXB2SlVmeFk2Y1pHWVFaNnlDcTJDdTZaNWhSeTlhcmROS0dIWldYN2ZEcXhJaFNzYjZjRXhHZFE?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -301,6 +346,14 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWRvWUppcDJsYWFEaE84Z0JLTEtOOThvLU5DYjRiZTdiNnZNN2E3Tmk0NWR0NWpzazJ0a2xEaldkQlZRRm4zZzIxYnhQRy1vUEtsZEZUTDd4WGhnZ20tV2JxVkpqNDRIdHRqeU9Wc1hyN3dfdXdvNVcxT0NpN2FfVU9ZNXJlRHFaSjJQZVVnb21XU0pjSFcteThuTi0yYUhqeTFaZWl2NFc4U0Ux0gGyAUFVX3lxTE9oUks1RWRIalQ5aFh5eDVWNWNzZ1V1NWkzQWxERXRJUmFZb3l1SFhxMFBiY2tsUmJ3ZnNwc0lJb1NNbWdsMjdra0pydUVfYnNvVEdfZG9GNXlNMFdiTGtWVEo0X0Q5dWVjWGJLTU44dGxXSWVxcDJwWGktSkZKTlhDTjlLdnR3NG5ieHh0U2Roa2d0dTU1aFJPT3dpWHVOeE1sUDl6SzBjX0UwanZWelI0X0E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tamluk election results 2024 live updates: BJP's Abhijit Gangopadhyay wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUEFIWTdFMi1TMGc3dUVLNEJGbFJZZi1NYWhtbk1wa0FLZ1QzQlhvdE9xTFRjSFFYZlZTcjdPYzJTeUxvMXgxWU9Uc1lvOXRPcU5jRXcxTlZaWC1hX1pWeUZQTm8xVTl1ZjBnWTdINEttaW56b1d5Mkg3U1FhWkZpeTZFMkJqT2RTSWxMa3gyS1Y1NHlUTmM2aHFleFpLOHBpMU8yS25UTF9VWEhBQTY2TXdIdEtyTE16cHZuREJoVEhjanh3YlNUeEJsTGY4V1VuWDlqblBaX2FsQ2tEbmFtcC04aHp3WUJtZU5jT2xURGpXeEpWN2ZjWFZQN19pd3ppb3Z5TkFPNHkyRFdTYmthcnNZVEItLURDNUI0R0NPSzIxTmNDektQZHEtN3NXLUtqYnhwUjk3bll4UVdQeGxpUHg0bllSYVVfelVLb2U2cHpFLWfSAdgCQVVfeXFMT3hlZDN2aDdpZ3pCS0xXblVQeHI3NUZJb25EejJNWUhQWVVacG5QUll3RS1NWjgzRlVtUGNEZEFYM3RkM1NGbkR6dDJWeTlZeGlaZDkxT00tWW1QZzVIOUxVdDIySi1iMTRuR1Fkd0xweEdZVWF0OXlmX0pKMlN3cWgwdzFJSm9lZUNjRElDdE5nSzlvbXRobzhIb2xobWYycXpZRW1CQW1PUHhfeDAxVEI4QTk1MXNXbEVyMkNpTHJwb05heUc2cllKRnViZWFFR0I1bzNyb0ItVmxYOE9zV1kxZFpwOUhtejNoY054eGx6dExYb0RBcEU2cGM3Qjg1ZHNBdGUxa0RPMXlsdDlYMC1sLS1NLUpsOHVUbFlpdnBhN3lmbXh0Zi1qeXhGRnpLbFoyQ2NuTjEwM2VJS1BVb21vT2lzUnl6V1pKSzViLXNud2NsazdwLVA?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

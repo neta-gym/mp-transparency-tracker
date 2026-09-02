@@ -4,16 +4,16 @@
     "constituency": "Jamui",
     "state": "bihar",
     "party": "Lok Jan Shakti Party (Ram Vilas)",
-    "myneta_candidate_id": 1681,
+    "myneta_candidate_id": null,
     "slug": "arun-bharti",
     "house": "lok_sabha",
     "sansad_member_id": 5740,
     "profile_url": null,
     "canonical_name": "Arun Bharti",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 45,
+    "age": null,
     "photo_url": "/mp-photos/5740.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:16.463429Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 64870319.0,
-    "liabilities": 31204393.0,
-    "net_worth": 33665926.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1681",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.746534Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 45.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 19.49,
-    "released": 19.49,
-    "sanctioned": 12.31,
-    "expended": 11.7,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:20:33.563190Z",
-        "notes": "Official eSAKSHI REST API — Works: 275 recommended, 267 sanctioned, 196 completed"
+        "fetched_at": "2026-09-02T14:37:05.765438Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:31:48.669192Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:31:52.475066Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 275,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 60.03078501795793
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 60.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:16.925574Z",
+        "fetched_at": "2026-09-02T14:31:51.383785Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "'Missing MP' posters targeting Jamui Lok Sabha member Arun Bharti surface in Bihar - thehawk.in",
+      "source": "thehawk.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0RXRG9NTGp5eno5ZHhwS0ktZklGUkxlYmlobkN1WWwySS1QSUwxamlRTXZqM05ic2pxdEtqeEI0TkRiVTZUendFTS1LdWRzZURKR3FHY2c4NjBrWGl2bkxQeFM2UDJwUmZyQ05UelZSYjZkNUFPTldPQUNyQWxCa216dDBWaEtBUjVCU0MwNlRGWnkyUHR5UWVWMzg0alN5MU1VV0MtZmFNNFlGMFJvclBFMm8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Seats will be taken to win, not to lose': MP Arun Bharti emphasises alliance focus over seat count, says, ... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEdZalh0RmE3WDh5ODJ4VHRUMDBVZTZtd3dhMXY1Sjdkbl9pcHFKbHc2dkFzSGNwRzZfQmwyQ3ZmWVIxVmVqRVVBQmUtVTNHRXdqbmxZcURJNlV1WWN1OVp6WGVPdHNmQXZqSk9HcGlCaWtmX0N5YjVUcW5WV21NMFZQWDZGZmZHVHB0ajV5RjJIVnFCdTJPOHZONnVfbjhFdUtKbFZ5Zzdkai11SlNLY0FMTk9NYjRp0gG-AUFVX3lxTE5pd2NqNHhvUElTYjNuajVCZ2J1a0o4OUF5bnJWVzlLZVpRS2RBQmhXNl8tdHJZMUZvU09ON1FRTTJOVFBCQ3Ixb2JvVVIzRC1jWlMza3VHTUc2UFBNdGRURGw4d2NCMW5rcDJybVd0aWxoWDc1SFZTbHZHcGNaLXNnY2NHSVhWOGI4aC1sbjZzaXhDRlNIczlaek9vMlg1Ukg0RG0wMXhNMTBmMHo4ejZpc2xqcmVqZmJvbWhXNFE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nitish keen to know about Chirag’s assembly polls plan: Jamui MP - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQklKWlpNWENlVWJFQUlxTkViSl9aTEZiQUQySG81UUJscXlmSTBRcW5EZ3ZPRVBMbGhxVHgxZ3ZaOF92ajRjRU1waHFHSW1mamstN0ZZV1k2S21LYTI2dHBRY3F3cDFaSk5KZ1FMaTFqRjdMZWJrVWxpSE13NkotMFpydW5oSEN2UnFwNUJDeTFsZ0xlNnd0VE5WQTdsczdndmJIMkNQNmJoWm14VURaOTRFV0RjWktRbFRYUmhTWUdCdjhObmJHZ1lScVFnVUdi0gHWAUFVX3lxTFBmYmdRQUtuOVNhcUYzUjVnU2hPRWdjUUFBc0E0aXQ1NlRiclhrTzVvYjEyQnlWckVrdEhicWpfTy04SHdldHB2aVIxdE9qWXgzaVhyZmFrdVJBRkktUTdNNGdFZHpVR2FCdWliRHl2WWtFLXlJUzM3V0szdXo4Wnp6X0I0b1ItUkktWWJCd0hYR1lJcVR0dGZ4czVMTGJlZE90aDFRam5laWhzRU96YjRDUXBkRlppUFRING5zeHZGUlh3UjJvaVFJZDE3MWRTdXhkTnlPalE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jamui Lok Sabha Constituency: LJP’s Arun Bharti vs RJD’s Archana Ravidas - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjBUYlk0Q2xYNElaT2hsdlY2UmlqTW5VbjV0WkxSNTBsYmVFeUdlMVVIUEdHeXFRWmhiOHdtRDZ1TnBqT2xtWm9neENrQndFdTIyZG84bFRESGxqM0gwX2NpeXlPelhRSEZwaVV5dGJ5SlNsZVhvRDRlZ0Qyc2NkcnRoWlRXT21razVReFFLYUxrLUhGYXYwYVk5LWVobzRtRnd5dFl0NUZIaXBQVFZBblAzd3TSAbsBQVVfeXFMUFBDRmU4V0kyejRnY2M1YTlOajZ2SURNUkdIUjR5bk1sYzJrSVVKcnVVY1V6ZjR4TDZUTWtrTFFIWkJTbkVpMHpyN2tUcVJOS0xuSzN4bjdhU2dCY284ZG5IdEtxbmxPRUU4cHZqaUhwVElIR3NwV3ktLVJQNzZPeVVma290YTV5OGsxRGdJSFA4YmhHbnZVZmg4dUtHT3FCRWFGOHRTVm14MC1Ea2VGWHlnQWRTVmV1MC1Bdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "LS Polls: Chirag Paswan Keeps Father's Bastion Hajipur, Gives Jamui Seat To Brother-in-law Arun Bharti - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdlhrdEJXY0hNWGpDRUFubFk1WjJwUl82N0xidUFyUzJwel92ang5OEJmbVRlM0JwTGJzT0YwRmNvTXFfRGNkcy1ka1dqb1RDekFJclJ0UjUyQUpzeW9PRUp3VEJHdFh5R1AwaHZhQWZEVUg0cWFIMDNLdHpMUWJPTHRvRjg5MFZWdVRac2hEWThjaElHSXJqeU5lbjlGZlNjTmFNakZwNnBBaU43NHd3dEhzYzA5THdVZ3p2cDFiNlhaVXRaVmJTcVR1b2xMdEdDMS02NVFlV0dQYWJqVkHSAeMBQVVfeXFMTVAzUjNXUzJDWU10MzUwbnNJUkpET3k1VnF3OXFfYmdhcXh2QUJrbjBURnBERkwtUEg0UlhJRUcyMk9CSDk0NHpCTHVqRkpLdWVDWXdKUjFub0kyOWNwdlMtUDFVVXUtbUtpazRwT2VFamozaEJCRl91YzlGWldOY3QtMGJsMmVCWFVzRGlucUtBM0hpWkx3Y3JlemtXWk9NS2twOGgtamhqZU9JOFNfUVFkMnRVcWotSXotRVQ2a09GZW1XY09Ec3BLMjZURWdKZTUtVXlzZUVzSHh4U1I2VWxhNTA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:20:44.479633Z",
+  "collected_at": "2026-09-02T14:37:12.753599Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.006719Z",
+        "fetched_at": "2026-09-02T18:38:04.464719Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.006729Z",
+        "fetched_at": "2026-09-02T18:38:04.464729Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.006734Z",
+        "fetched_at": "2026-09-02T18:38:04.464735Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.006739Z",
+        "fetched_at": "2026-09-02T18:38:04.464740Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.006744Z",
+        "fetched_at": "2026-09-02T18:38:04.464745Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.006749Z",
+        "fetched_at": "2026-09-02T18:38:04.464751Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.006754Z",
+        "fetched_at": "2026-09-02T18:38:04.464755Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.006758Z",
+        "fetched_at": "2026-09-02T18:38:04.464760Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,14 +333,6 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "जमुई में 15 मई से रुकेगी पटना-हावड़ा वंदे भारत: सांसद अरुण भारती दिखाएंगे हरी झंडी, यात्रियों को मिलेगी बड़ी राहत - Jamui News - Dainik Bhaskar",
-        "source": "Dainik Bhaskar",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2JhRmdVdnh0d19nTVlPcE1jNWJtYnR0cGRvYlY5Ymw4LXlOYW42TWxBM1ZWNWt1REtFb2xncjhNQnFnTWt1RURaYkFTNFBaMDZjWERGeEVZSVFERTg5LXVia1pNUU1faEt4b0NpOWg3ZjJaSGJ6TEdWenpQLUVXX0MxZ3pKUGFRQU1ZdG9ZVEJSMEtVX20zaHdveFphV3N4RVdGZDRUSGpFWVZxZGZLU19UcUtDS1dZLVNQdGx0ZkdvcEpUR1o2eU51Tm1ESzItMkF4Um1INA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "'Missing MP' posters targeting Jamui Lok Sabha member Arun Bharti surface in Bihar - thehawk.in",
         "source": "thehawk.in",
         "severity": "low",
@@ -304,19 +349,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Seat-sharing wrangle in NDA as LJP(RV) hints at going solo - The Times of India",
+        "headline": "Nitish keen to know about Chirag’s assembly polls plan: Jamui MP - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORk5nM0RUNTZ1M05XczJETVFqTzkwcVNpb2tlbXJkVEhTODM4LXdZRko3YjFsQUF0TDgxRHgxVGdBVkxxX1Q1djhLbTFUb1M3Yk03RTlUUEpiYTcwa29IN3VHQURRa3BrdXlLNG1pcnduUi02YmRRYWtfN19RNmd4Z19XZzFJR0VYbG9KSUZxMFloenNJNWh0R3lISVh2V1MtZWhTN0tmTGZxN2Y2cXVlNVBRMUR5QXJzVlo5czluVW1oVzFTZkNTYdIBzgFBVV95cUxNLURMTUFsR0VnUFdHLTJTREx0cnppVUUwNUpQNG50N19oU2xpMjM3cWltX09vTzJrOS1Eb0c3bkxjRmJVZUhCMG1ndjYxRXFMWWYwYmFjNVE1RXlvWEZyMUFiWEtVWlVQdFZOb0NMUDlFWnZPckhDVEsxeU1FS01pTUxZTHEtRjZLZmNNTjFoMzQtSmlkWllGUl9SOTlCd28tQ3ZwVXlGaFpRYUtydnpfbjFjVkRBUnVndTNBbllwYmNnalpQbmJQbWRwOS1ndw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQklKWlpNWENlVWJFQUlxTkViSl9aTEZiQUQySG81UUJscXlmSTBRcW5EZ3ZPRVBMbGhxVHgxZ3ZaOF92ajRjRU1waHFHSW1mamstN0ZZV1k2S21LYTI2dHBRY3F3cDFaSk5KZ1FMaTFqRjdMZWJrVWxpSE13NkotMFpydW5oSEN2UnFwNUJDeTFsZ0xlNnd0VE5WQTdsczdndmJIMkNQNmJoWm14VURaOTRFV0RjWktRbFRYUmhTWUdCdjhObmJHZ1lScVFnVUdi0gHWAUFVX3lxTFBmYmdRQUtuOVNhcUYzUjVnU2hPRWdjUUFBc0E0aXQ1NlRiclhrTzVvYjEyQnlWckVrdEhicWpfTy04SHdldHB2aVIxdE9qWXgzaVhyZmFrdVJBRkktUTdNNGdFZHpVR2FCdWliRHl2WWtFLXlJUzM3V0szdXo4Wnp6X0I0b1ItUkktWWJCd0hYR1lJcVR0dGZ4czVMTGJlZE90aDFRam5laWhzRU96YjRDUXBkRlppUFRING5zeHZGUlh3UjJvaVFJZDE3MWRTdXhkTnlPalE?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Chirag Paswan Gives Up Jamui Lok Sabha Seat For Brother-In-Law In Upcoming Polls - ABP News",
-        "source": "ABP News",
+        "headline": "Jamui Lok Sabha Constituency: LJP’s Arun Bharti vs RJD’s Archana Ravidas - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRElER0Z5WUJ0Z1hJd3EzQXFmaEpoQmtGN3F5U3dQOURhRXE2cDBkRGtIc2lqaTBsWVRwb0l1REJQNFYwa2NsVjlJT2x1VTF1cURCVkpfVEFrQ2h3eEdNUmZQMkZ4amI2U21xX1VDZHlEU0hwdlBsRURwdjRIUkduUWRfQjB5ZXl5TUFYd0pJLWpySHJ2T3Q2c09FdEo2VTlZVm9yRndFWjVCUThyZG5vcW1FVFFqODgtQTFYSHRncEk3Y2ExandROGJUQTItMXNGcXluX2dCb9IB3AFBVV95cUxNbkZsenQ4NHlRTWJDZV9za2x5aHlFdlVzdWZDeXpCYWVBZmREaXFmNXNhN0NVaU9oUVlESGtGMHZxdGVTWkVFTWlSc2x6Ylp1RlVCZ0hPN3ltQ09HcWphRVBIOENHMWFuZy1PV2hYM3YzRlVVWnFNemNfdmxhRFdsdXVJT0YxOG1Mcm5ycTBLbk0xcUhGc3NDN0VuMzBNcU9pTTlhTlNSOU1TR3BsS1BCREwyQmR6Zl9vd1g3cEx0Q0JMVWp0dVBDS3pCcGkzV2kxaDU1cXp4NWRRYkRi?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjBUYlk0Q2xYNElaT2hsdlY2UmlqTW5VbjV0WkxSNTBsYmVFeUdlMVVIUEdHeXFRWmhiOHdtRDZ1TnBqT2xtWm9neENrQndFdTIyZG84bFRESGxqM0gwX2NpeXlPelhRSEZwaVV5dGJ5SlNsZVhvRDRlZ0Qyc2NkcnRoWlRXT21razVReFFLYUxrLUhGYXYwYVk5LWVobzRtRnd5dFl0NUZIaXBQVFZBblAzd3TSAbsBQVVfeXFMUFBDRmU4V0kyejRnY2M1YTlOajZ2SURNUkdIUjR5bk1sYzJrSVVKcnVVY1V6ZjR4TDZUTWtrTFFIWkJTbkVpMHpyN2tUcVJOS0xuSzN4bjdhU2dCY284ZG5IdEtxbmxPRUU4cHZqaUhwVElIR3NwV3ktLVJQNzZPeVVma290YTV5OGsxRGdJSFA4YmhHbnZVZmg4dUtHT3FCRWFGOHRTVm14MC1Ea2VGWHlnQWRTVmV1MC1Bdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "LS Polls: Chirag Paswan Keeps Father's Bastion Hajipur, Gives Jamui Seat To Brother-in-law Arun Bharti - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdlhrdEJXY0hNWGpDRUFubFk1WjJwUl82N0xidUFyUzJwel92ang5OEJmbVRlM0JwTGJzT0YwRmNvTXFfRGNkcy1ka1dqb1RDekFJclJ0UjUyQUpzeW9PRUp3VEJHdFh5R1AwaHZhQWZEVUg0cWFIMDNLdHpMUWJPTHRvRjg5MFZWdVRac2hEWThjaElHSXJqeU5lbjlGZlNjTmFNakZwNnBBaU43NHd3dEhzYzA5THdVZ3p2cDFiNlhaVXRaVmJTcVR1b2xMdEdDMS02NVFlV0dQYWJqVkHSAeMBQVVfeXFMTVAzUjNXUzJDWU10MzUwbnNJUkpET3k1VnF3OXFfYmdhcXh2QUJrbjBURnBERkwtUEg0UlhJRUcyMk9CSDk0NHpCTHVqRkpLdWVDWXdKUjFub0kyOWNwdlMtUDFVVXUtbUtpazRwT2VFamozaEJCRl91YzlGWldOY3QtMGJsMmVCWFVzRGlucUtBM0hpWkx3Y3JlemtXWk9NS2twOGgtamhqZU9JOFNfUVFkMnRVcWotSXotRVQ2a09GZW1XY09Ec3BLMjZURWdKZTUtVXlzZUVzSHh4U1I2VWxhNTA?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 45,
+    "starred_questions": 13,
+    "unstarred_questions": 32,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 87.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 60.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

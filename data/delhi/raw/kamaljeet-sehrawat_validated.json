@@ -42,13 +42,13 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.75,
+      "confidence": 0.7,
       "sources": [
         {
           "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-05-21T15:55:13.334314Z",
+          "fetched_at": "2026-09-02T15:33:43.814903Z",
           "notes": "MyNeta candidate affidavit data"
         }
       ]
@@ -69,41 +69,55 @@
           "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-05-21T15:55:13.344085Z",
+          "fetched_at": "2026-09-02T14:27:19.496206Z",
           "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 65.7,
+      "wealth_percentile": 50.0,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.59,
-      "expended": 0.92,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:26.992171Z",
-          "notes": "Official eSAKSHI REST API — Works: 51 recommended, 46 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:30:58.314658Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:17.669475Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:17.666798Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 51,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 6.258503401360545
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -118,7 +132,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T15:55:09.483138Z",
+          "fetched_at": "2026-09-02T14:27:17.665776Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +140,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "3 Delhi BJP MPs attend Sajjan Kumar condolence meeting, pulled up by Nitin Nabin - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0JuTmZEaHRmcjFqXzRZN3BvSDNPcmJwcjBMMm5CMldhVmRpODR1eDRnTlExa2FPZEtWVlcwUU83cEY3bEF4MVIzNWxXbnJoM2tMdk85bmNfTlc4YjNjRUREa19xbENaZVBZam0tbWhwcUk3T0VKMndnV0ZHN3pTdVlJdkZCQzlEdjJTUlhXSTJhRlZHcEgwRVVRSnFIYVJHTXlBMTNWYkxJaXpBZ0o3RzFwLWdyU2FXNlhhcdIBwwFBVV95cUxQT0Y1dl9zNTNpVWcwdnI1Mk10RTN3UjFuUC1xdWhLQVd3anIwUjdtdjBwMHZ6TEtLMmNQNWVCQ2lqa0lnVmlPU3lDZHdRRlBIOHpUcEp5V2FKNHROc204ZTY2UnVWRHl4SjZBcjV0M0VfYzFnUWpFNFVSUi0tSzRmdV9ob1BfU3RGN0hrRV90UWFVeml2WUxXdkRKY2Q2RWs2QWFJRVpEaEMyaW5JOURqWjdRTTY0SlJ4WWN6bTQ1QUpGekk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTlEUU50bG1fNms3Qi1VYVI5LVY4X2lVcEo1ei1PUWFOQTZOTEtCYlRpbEFzRlZhQXg0eXgyVTdxS0tUSVB2WkphazlSYWFucWZJTWNjQVl1TFptRU11MnItclowNzZkWVdTTm91dXU2bWh1SzlLRl9jeUJfcDhRaTBTVjlZZUlsalN3VEF2NVdiaDhTbWNmMk05R25OenpQT0FMU2ZnSHQ1ZUJQNFFWYTdYT01JMknSAcQBQVVfeXFMT0pZRTZONlFzeEpkVk5EdWFVQmROcE04czluMzBJZ28tUnhXTi1mZHlyVjZ5N25NUWMwZERRdWRBZTNlempQNGtmelpzRUtra014MnJWTEY2dXRRaXc0VEFvdGw2dWJpM2RXcDBmZVhtR2Q4a29TS0pKY2JWajQwOGNmSXUyUENNdFgtNnFuMGh2ZnNodHh1VU5JdFBHSFR5MHMyT3JYN1VTSkZ5cUdZN1JEc3dvMHJJZXJ2Rzc4YjNuQmhIVA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP Reprimands 3 MPs for Attending 1984 Anti-Sikh Riot Convict Sajjan Kumar’s Prayer Meeting - Revoi.in",
+        "source": "Revoi.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjY2cmhHWWl1OHlEcm54ZmlMVldKeTJaazVYUHczdE1NeHp2N1BkTXFlOG91TERXU3lLTy1yekRuZThOZkpuLS11UWdYLTJYQXJmQVNIOWZXQzlPSHVVN1Mtd0VqdjdjS1lnRTItRHdRZmZLbGIwMnU3WU4zWFo2U0xFQm5GaGRHUlMxQU9VU253aTh2bDFNd2UyREZ6UmVmeWxtZi10SzdYNERjYmpRMFMxMTlNcXJh?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP’s Kamaljeet Sehrawat is showing up everywhere—weddings to temples. Modi her senapati - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelpSbVViOGc1UWdndGlaMTZjaFFjbkFURm01THpkYXdEeUVjMGVMSUNPcGtHOHNDNTdHUGE4TzJNNENrWVFMN2E3V0k4SE5YYWdwd3JCZ1BPMFZkeFZ6Q25BS2c0Uk1McG1WV1V3NkdfQnFaMDdUbG96WHJFbTk0cl9KdVBTUEFScEI4VnRvRUpLMzB4SkZITjZRdnlRb3pWcnZJbWJfZWU0T0MyVkE4a1k3clBUSjFfS2lKNHdfVXdTMURJdUJ0TtIBzgFBVV95cUxPeHE3SHZaVGhlaDNta2JkRnljR0RCeDJRdVRRRW52ejlmcVVPeXNnc0tIN1NEQ3pzMzZoY0kxUElVcVFVYXlrLUZIN3pzSC1IbkE1YWdqUWVZSmZmWXBMb0tZV3ptZWlmb0paNENzVkdRVHBvLURQTC13ODg0R1JiQVhhcEZNc1djZjdZT05IcWNIRDFTUU5EUmdPZTBDR0dSdExEaG50dlJXTE1Sb3RRT2VNbmZlSnV3T2RPUVVXVzlPUF9XWTJZa2lYdl93QQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Know Your Candidate: BJP’s Kamaljeet Sherawat Secures Tickets From West Delhi - Feminism in India",
+        "source": "Feminism in India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGpuWFh1dFNhQTB0MTFXcHNEbWJmRVN3SWJtUWxLLXA5MGFCREMtX08wazk2T05TV0tKaVhDRnRrMExTRHdWNmprYnRrcUFMRVBfLWx2WmxETjBWUFZVMGdESGJReTAzbUxJQzJnSXNMWWFkNDQ3LVNJNFJlTEpOdnZYSGJoMUswSDc5bUJhMmc4bjNDR0F6WlgxT2tNN2pwMjN2aHhkUmhNVlB5ZE9ObThyY05LQQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T15:55:37.244792Z",
+    "collected_at": "2026-09-02T14:30:58.316408Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +212,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.786138Z",
+          "fetched_at": "2026-09-02T18:38:05.374812Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +228,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.786147Z",
+          "fetched_at": "2026-09-02T18:38:05.374823Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +244,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.786152Z",
+          "fetched_at": "2026-09-02T18:38:05.374829Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +260,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.786157Z",
+          "fetched_at": "2026-09-02T18:38:05.374834Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +276,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.786162Z",
+          "fetched_at": "2026-09-02T18:38:05.374841Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +292,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.786166Z",
+          "fetched_at": "2026-09-02T18:38:05.374845Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +308,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.786171Z",
+          "fetched_at": "2026-09-02T18:38:05.374850Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -268,7 +324,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.786176Z",
+          "fetched_at": "2026-09-02T18:38:05.374855Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -311,7 +367,7 @@
           "url": "",
           "source_name": "social_media_lookup",
           "grade": "D",
-          "fetched_at": "2026-05-21T15:55:09.487136Z",
+          "fetched_at": "2026-09-02T14:27:23.355105Z",
           "notes": "Social media handle lookup"
         }
       ]
@@ -323,35 +379,27 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Delhi CM meets party workers, highlights govt’s achievements​ - The Hans India",
-          "source": "The Hans India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzdNWGl0djEtV1BrbTNMYWJ0UjFBWU45Z3lBZktpQXBFTko0YVR3ZkhIWFU2SFZ0LVlSU1hHVGVHTWVSRThsSFlabVRWN0t3d0o0aTRRcEc0OFd0S29sZjMyS0tUaHlNUjllWHQweUVKMC14U3ZPYXRva2xmR04yeGdLcjhaMm5CZHJyYm5XUWlPcnBuWFlrVnhia0lIUENqMDhUc19BSUg4YjZLaGfSAbMBQVVfeXFMTXI1dEx6NGEzZkhWcnEya3ByUGI3SnlWUng0NEUwZndXemd3QWw2X21vQ0E4aXhCSVdTekxnQV9UNHIzSjB5bkJRdE5HZkxoUWhrU0s3dHJxdUNYb0lBaTRhaC13eWpsYW5UZi1aeGRUU0Q0ZkxvNTZJUlllbkpnbVpod1BwWmVWWGtfUjBkUWJObTZDNE1kbEFQTnZTOWlOSUVIb3k3ZkgtWHZzUnYyeWFxUUk?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "CM Rekha Gupta launches Rs 400 crore projects in Matiala area in West Delhi - The Hans India",
-          "source": "The Hans India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX0o3VVNDWUtoMmtnWmdDNzdjSWt0Y2hDY3h0a0N3RmprRThmeTFObkZUcC13Mlo1dmlWVk4zMDR6ZkFrdFVTdHl5WUhyUV9fMmtNNjZFMU81bnlyWlJ1ZFhIQXpnZ2dzaHFXOHF2dzRPUUJldmJxN21iTzR4bVRyQXNXd2x5SUFMUWotZmJvcEtZckdGQXFjbHZXS0xXc3lWU3c0TWYzdUZQUUVRNHVfd0dWaDYzcUVHYXpFMmpjOWhXNXNr0gHKAUFVX3lxTE5MUDNoV2NWRFByaVZsN2RiNU9teWZnVFdBYUtyY2JRalA4V3RmdUVOWWlPNW55cFY0ekJDVlJVWFBzbkMzMmFwdWdqNGtpTGxfRi1IbWVXaUZoZmdkbi1ZT1JEOVpMbE9hTzUzbzRyaFBkeVdtTkRIQ1NwMzdoSWxncmhuWk43X3RaVHdEU1R5MHdXTzBBWk5ZTDlzOW9MVXJITGxpRzNiZC1pRXVYTUhveVk3WWtLNDJHNlFSOEl6OXIzN2g0WFNkVmc?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "BJP’s Kamaljeet Sehrawat wins in West Delhi - The Indian Express",
+          "headline": "3 Delhi BJP MPs attend Sajjan Kumar condolence meeting, pulled up by Nitin Nabin - The Indian Express",
           "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVBSdGRSQlZ3SDQ1Rmh6WFdxZHo1UzdacUZZOFItMUcyekNSZm55N0NibU9neS01VTZENnJ6bDJNaEROTTEwTkI5ZFhDakhtXzRnLXQweWNGWDlfT3kyOTVQRmFlVTFhc1lxdDVmdG5MUENfUEpTU3VTMlQ1dzduQ3lRNThRYXBMM3o2NlNtaUNZRC13V3JaYjEtYjZrOEnSAaYBQVVfeXFMTXZFaE4wQTY2eGg1YTAzQV95VzF3VldBUk5ocUZHS3hjRkZEWVprVHlqd3ctX1l3OUJ2NXVjTktLUEVrRXNnNFdqYkJVYnI2NzJYTTBCOGxub2xELUlXYXU3SFdVSGdBa25ZTkpZUFk1VVlGaDNfS3RXVktiOE5SSS14NTVKNVlUSktJM0ZtcTB6UHprQmxqTk8wWnJjMDNoY3oxS01Mdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0JuTmZEaHRmcjFqXzRZN3BvSDNPcmJwcjBMMm5CMldhVmRpODR1eDRnTlExa2FPZEtWVlcwUU83cEY3bEF4MVIzNWxXbnJoM2tMdk85bmNfTlc4YjNjRUREa19xbENaZVBZam0tbWhwcUk3T0VKMndnV0ZHN3pTdVlJdkZCQzlEdjJTUlhXSTJhRlZHcEgwRVVRSnFIYVJHTXlBMTNWYkxJaXpBZ0o3RzFwLWdyU2FXNlhhcdIBwwFBVV95cUxQT0Y1dl9zNTNpVWcwdnI1Mk10RTN3UjFuUC1xdWhLQVd3anIwUjdtdjBwMHZ6TEtLMmNQNWVCQ2lqa0lnVmlPU3lDZHdRRlBIOHpUcEp5V2FKNHROc204ZTY2UnVWRHl4SjZBcjV0M0VfYzFnUWpFNFVSUi0tSzRmdV9ob1BfU3RGN0hrRV90UWFVeml2WUxXdkRKY2Q2RWs2QWFJRVpEaEMyaW5JOURqWjdRTTY0SlJ4WWN6bTQ1QUpGekk?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Know Your Candidate: BJP’s Kamaljeet Sherawat Secures Tickets From West Delhi - Feminism in India",
-          "source": "Feminism in India",
+          "headline": "Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGpuWFh1dFNhQTB0MTFXcHNEbWJmRVN3SWJtUWxLLXA5MGFCREMtX08wazk2T05TV0tKaVhDRnRrMExTRHdWNmprYnRrcUFMRVBfLWx2WmxETjBWUFZVMGdESGJReTAzbUxJQzJnSXNMWWFkNDQ3LVNJNFJlTEpOdnZYSGJoMUswSDc5bUJhMmc4bjNDR0F6WlgxT2tNN2pwMjN2aHhkUmhNVlB5ZE9ObThyY05LQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTlEUU50bG1fNms3Qi1VYVI5LVY4X2lVcEo1ei1PUWFOQTZOTEtCYlRpbEFzRlZhQXg0eXgyVTdxS0tUSVB2WkphazlSYWFucWZJTWNjQVl1TFptRU11MnItclowNzZkWVdTTm91dXU2bWh1SzlLRl9jeUJfcDhRaTBTVjlZZUlsalN3VEF2NVdiaDhTbWNmMk05R25OenpQT0FMU2ZnSHQ1ZUJQNFFWYTdYT01JMknSAcQBQVVfeXFMT0pZRTZONlFzeEpkVk5EdWFVQmROcE04czluMzBJZ28tUnhXTi1mZHlyVjZ5N25NUWMwZERRdWRBZTNlempQNGtmelpzRUtra014MnJWTEY2dXRRaXc0VEFvdGw2dWJpM2RXcDBmZVhtR2Q4a29TS0pKY2JWajQwOGNmSXUyUENNdFgtNnFuMGh2ZnNodHh1VU5JdFBHSFR5MHMyT3JYN1VTSkZ5cUdZN1JEc3dvMHJJZXJ2Rzc4YjNuQmhIVA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP Reprimands 3 MPs for Attending 1984 Anti-Sikh Riot Convict Sajjan Kumar’s Prayer Meeting - Revoi.in",
+          "source": "Revoi.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjY2cmhHWWl1OHlEcm54ZmlMVldKeTJaazVYUHczdE1NeHp2N1BkTXFlOG91TERXU3lLTy1yekRuZThOZkpuLS11UWdYLTJYQXJmQVNIOWZXQzlPSHVVN1Mtd0VqdjdjS1lnRTItRHdRZmZLbGIwMnU3WU4zWFo2U0xFQm5GaGRHUlMxQU9VU253aTh2bDFNd2UyREZ6UmVmeWxtZi10SzdYNERjYmpRMFMxMTlNcXJh?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -360,6 +408,14 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelpSbVViOGc1UWdndGlaMTZjaFFjbkFURm01THpkYXdEeUVjMGVMSUNPcGtHOHNDNTdHUGE4TzJNNENrWVFMN2E3V0k4SE5YYWdwd3JCZ1BPMFZkeFZ6Q25BS2c0Uk1McG1WV1V3NkdfQnFaMDdUbG96WHJFbTk0cl9KdVBTUEFScEI4VnRvRUpLMzB4SkZITjZRdnlRb3pWcnZJbWJfZWU0T0MyVkE4a1k3clBUSjFfS2lKNHdfVXdTMURJdUJ0TtIBzgFBVV95cUxPeHE3SHZaVGhlaDNta2JkRnljR0RCeDJRdVRRRW52ejlmcVVPeXNnc0tIN1NEQ3pzMzZoY0kxUElVcVFVYXlrLUZIN3pzSC1IbkE1YWdqUWVZSmZmWXBMb0tZV3ptZWlmb0paNENzVkdRVHBvLURQTC13ODg0R1JiQVhhcEZNc1djZjdZT05IcWNIRDFTUU5EUmdPZTBDR0dSdExEaG50dlJXTE1Sb3RRT2VNbmZlSnV3T2RPUVVXVzlPUF9XWTJZa2lYdl93QQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Know Your Candidate: BJP’s Kamaljeet Sherawat Secures Tickets From West Delhi - Feminism in India",
+          "source": "Feminism in India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGpuWFh1dFNhQTB0MTFXcHNEbWJmRVN3SWJtUWxLLXA5MGFCREMtX08wazk2T05TV0tKaVhDRnRrMExTRHdWNmprYnRrcUFMRVBfLWx2WmxETjBWUFZVMGdESGJReTAzbUxJQzJnSXNMWWFkNDQ3LVNJNFJlTEpOdnZYSGJoMUswSDc5bUJhMmc4bjNDR0F6WlgxT2tNN2pwMjN2aHhkUmhNVlB5ZE9ObThyY05LQQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -393,15 +449,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 65,
+      "starred_questions": 19,
+      "unstarred_questions": 46,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -409,17 +465,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -440,11 +496,11 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.56,
+  "overall_confidence": 0.43,
   "flags": [
     {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -467,6 +523,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 147,436,650. MPLADS utilization: 6.3%. Parliament attendance: 95.0%. Questions asked: 65. Debates participated: 6. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:47.786899Z"
+  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 147,436,650. Parliament attendance: 95.0%. Questions asked: 65. Debates participated: 6. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.375571Z"
 }

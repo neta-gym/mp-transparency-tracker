@@ -7,21 +7,21 @@
 **Education:** 10th Pass
 **Profession:** Business & Agriculture
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 54.3 / 100
+## Composite Transparency Score: 67.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 16.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 60.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,24 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 7.93 Crore
+- **Immovable Assets:** Rs 9.80 Crore
 - **Total Assets:** Rs 17.72 Crore
 - **Liabilities:** Rs 4.47 Crore
 - **Net Worth:** Rs 13.26 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 69% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 15116303415.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 100% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 8
-- **Expended:** Rs 3
-- **Utilization Rate:** 20.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -70,6 +70,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/RajaBrar_INC/status/1650847019332689921](https://x.com/https://x.com/RajaBrar_INC/status/1650847019332689921) | No | Yes |
+| Facebook | [@https://www.facebook.com/AmarinderSinghRaja/](https://facebook.com/https://www.facebook.com/AmarinderSinghRaja/) | No | Yes |
+| Instagram | [@https://www.instagram.com/rajabrar_inc/](https://instagram.com/https://www.instagram.com/rajabrar_inc/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,16 +90,27 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Row over Lawrence Bishnoi docuseries: Congress MP seeks ban, cites Moosewala's killing - India Today (India Today) [neutral]
-- Bishnoi gang threatens Punjab leaders over ‘Lawrence of Punjab’ series row - The New Indian Express (The New Indian Express) [neutral]
-- ‘Insult to Punjab, Punjabis and Punjabiyat’: MP Raja Warring writes to PM Modi demanding ban on ‘Lawrence of Punjab’ - The Indian Express (The Indian Express) [neutral]
-- Official’s suicide: Row erupts as Warring skips signing Congress MPs’ letter for CBI probe | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
-- Congress MP Sends Legal Notice To Zee5 Over 'Lawrence Of Punjab' Documentary - Dailyhunt (Dailyhunt) [neutral]
+- SC panel seeks Warring’s arrest over Buta Singh remarks within 5 days - The Times of India (The Times of India) [neutral]
+- Won't resign as Punjab Congress chief, says Warring amid escalating factional feud - The New Indian Express (The New Indian Express) [neutral]
+- In latest Punjab Congress flashpoint, MP’s open dare to state chief - The Indian Express (The Indian Express) [neutral]
+- Anti-Baghel chants, clashes mar Congress’ poll meet in Ludhiana | Hindustan Times - hindustantimes.com (hindustantimes.com) [neutral]
+- Desperate for power: Bhagwant Mann mocks Punjab Congress chief's bullock cart ride - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **SC panel seeks Warring’s arrest over Buta Singh remarks within 5 days - The Times of India** (The Times of India)
+- ! **Won't resign as Punjab Congress chief, says Warring amid escalating factional feud - The New Indian Express** (The New Indian Express)
+- ! **In latest Punjab Congress flashpoint, MP’s open dare to state chief - The Indian Express** (The Indian Express)
+- ! **Anti-Baghel chants, clashes mar Congress’ poll meet in Ludhiana | Hindustan Times - hindustantimes.com** (hindustantimes.com)
+- ! **Desperate for power: Bhagwant Mann mocks Punjab Congress chief's bullock cart ride - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Punjab: 7 relevant findings
@@ -95,11 +119,11 @@
 
 ## Qualitative Assessment
 
-Amrinder Singh Raja Warring shows moderate transparency with a score of 54.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Amrinder Singh Raja Warring shows moderate transparency with a score of 67.0/100. No criminal cases declared. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 177,243,256. MPLADS utilization: 20.4%. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 5.
+No criminal cases declared. Declared assets: Rs 177,243,256. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 5. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -139,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 177,243,256. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +242,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Amrinder Singh Raja Warring's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 20.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -238,11 +260,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

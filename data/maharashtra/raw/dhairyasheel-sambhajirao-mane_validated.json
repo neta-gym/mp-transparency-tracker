@@ -4,16 +4,16 @@
     "constituency": "Hatkanangle",
     "state": "maharashtra",
     "party": "Shiv Sena",
-    "myneta_candidate_id": 3537,
+    "myneta_candidate_id": null,
     "slug": "dhairyasheel-sambhajirao-mane",
     "house": "lok_sabha",
     "sansad_member_id": 5187,
     "profile_url": null,
     "canonical_name": "Dhairyasheel Sambhajirao Mane",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 43,
+    "age": null,
     "photo_url": "/mp-photos/5187.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Hatkanangle",
       "state": "maharashtra",
       "party": "Shiv Sena",
-      "myneta_candidate_id": 3537,
+      "myneta_candidate_id": null,
       "slug": "dhairyasheel-sambhajirao-mane",
       "house": "lok_sabha",
       "sansad_member_id": 5187,
       "profile_url": null,
       "canonical_name": "Dhairyasheel Sambhajirao Mane",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 43,
+      "age": null,
       "photo_url": "/mp-photos/5187.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:14.074492Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 45131759.0,
-      "liabilities": 10000000.0,
-      "net_worth": 35131759.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3537",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.696296Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 36.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 1.3,
-      "expended": 0.65,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:30:03.732781Z",
-          "notes": "Official eSAKSHI REST API — Works: 13 recommended, 9 sanctioned, 2 completed"
+          "fetched_at": "2026-09-02T15:06:39.663894Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:02:57.060462Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:02:57.057514Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 13,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 4.421768707482993
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 65.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:29:58.092942Z",
+          "fetched_at": "2026-09-02T15:02:57.056406Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Hatkanangle election results 2024 live updates: Dhairyasheel Sambhajirao Mane of Shiv Sena wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMUNKbGktcGR0cThUYm9wZFd5QXpJaWRWakszd2xydHlQOEVpOEx3d01YSUotbjVDd0l0d1R4Wk5JcjFIeUgtMW44cG1xczVQN0pCbGxpNmlOY3Y1dVRtYmYzQ0lfS1ZmZmgxMmpoQXZtbVlzNmxSZEtMQXJpUE9aa2hUajFhMm1vVFBWaTF4eThfeU1BSlRxMmkxX2pHSmtxa0NMZDEyaFo3UVF5bHZpVFhNOEMwcVJyelZiZEZ3eHJ3M0V6N1laaXJmRm1nNngwVUM4elhMUlFZRUd4Ym1lX2pQT1dnaWl6NUlvN2NWRG9vWGRqTkNYZDZPNHAxcG5HVkd2NWI3cXk2MnVpaEpPSDIxWThjdTjSAZwCQVVfeXFMTzZZYUR1bUFoeFRKQVZydUdCRjIyV29lMUFoanJ0c2dBemxHSnZDODRleVFZdDhTc25qdjFjUmF5MTNLSlctd1l4eUZlcVNVTHl3ZVhXQVBzNkJOMHMtSnpXZHpDMGF4b2JvdXZ3RXdkTy1zUE9ndHRIZUxKQXpyRDdCaWxZWF9Td0MwYnZjdFNPRG1xUkJ0RHV5Sl85YXZsQk5FbG94bFVmR252cDl3ajlmNlF4YzJmcXplQ29LNU5yOHB1VV9LdXBTZ0xNazJURzR3WUx0aDdTNDlvRVNzYjFsLTg5Y29WcWI1VUhfX1p2cm05d01MdDhNNjhzUm9PMFlJdjB6MmhlVVhlVTJzYW40TVdzcGpyd1Rsd0o?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dhairyasheel Sambhajirao Mane - thehindu.com",
+        "source": "thehindu.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbC14MG5XVnVJYWxCdk45bEk0a0Z0Vk5ETFhEXzRYNzdTVHdTME1aSmdXSlpvbHNXTDhSaTZHcTlzeDNDYTdPYWRmdzFrOWZ2QmQ4TXhhQ3RqYmFvMFl3TTlsQ2ZSejJQWUVSLVVOanNCWWxZcVpURVdRT0UxQWZhZDJQXzZMTnVaWnR4dEx4RzUzc1BkNUprLXlR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18",
+        "source": "CNBC TV18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVkU3NWhSQW1fSkVGTE5hczBJcGdNT3RNR2xBbUFleTJ4bjRHc3hrOWNSU001ejFNN09vbzdZQkJlSV81T0R2VHFQTmtYMjg4SDBrbDNlS3JDaG1SRU5wcVoyd2JzVTRFWjBaSS0yTmlPWmdjV0s0UExuVTJwNERMM0hjTkdnRVhHY2F5QVZKM3RONTlrbXlKcGMtcEFITUY1blRlV1VfNUVDZkhOWFJzTzVHcmE5R2pnMmQtZzkwZUtQYWRSSnFvNWtHSXdrUy1qdU5UR05wbVR2ZHlhcVUyZEdTbmNlMnJyTldqZHk3bnRVLXY0ZzJHYm1ob250dkVocGfSAYcCQVVfeXFMTmtxUHZGTDA2bDZ5SndtRjZzN2pET2Fwd09hR2tYeGhsSW1BOUc4RE9WZ24tR18xNUZ3Tnl2WHhnVkpJc05idEx3VnNSRXJ1X01jVWw1VGU4YzJmS0ljSWE4a1pOZFNWa3Q4WkVndnI4Y2JpQWh6SzY4RUx0YndJcFhGS0VqNWpLNlROcEczTVRiT1hZOHlyc0wyNGdxZ1RROGxHZjZWNm9uLWpoNmxybW1KNEZjdDFuS1lnZjZQUmdqYUEzYXdJZmNxMmdManRDV2NfUUhZRlYtWHlZQkU4TlMzVWlZUVhFQnB3SWRLQzh0MzVjVk9TUW14RTRnZlRXMnQtTy1idUU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Maharashtra Election results 2024: Full list of winners in Lok Sabha election - Livemint",
+        "source": "Livemint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOHNJaXJUVmFlbG9BY2FnTFIzY1pURWNnYnRxODVpZVRLRDBVUVg0Rzk3UTNOZWR1UlRfMFNrc2EyN2E5aVNCUkdaUk4xM0pMc0VfZUFoZENzVk4xNmV3T3RMTm1jSjBaM2RGbmgzeE1GQTc1dGlvV19SOVlQY1ZYYVExbXFIU2RFNU52c2NCVURnYTI3N1pwUXotZEdINmFfOGkwWUxRakZxUm16cWZjdXhuTFdIQXhneWZaOXNvUmNoSFZ3UHZjRUFLNmlTbFFxU2pQd282bEk3bmMtSnNBY0lKQmdjcmNObGxVa21iTU5DOHl1NzE0Z0VOZkFvNVdG0gGGAkFVX3lxTE10WTN6WWJnajlVOXRzeFhSX3Bici1yZ2hsVVk1S1VkUXpwX3ZuUmpfLU5qdXZneHBQVV96azBMWGVOUTR3T0g3OHZmQklvMktZZGt5a3B2dEp1dXY0ZWVjX2ViZEFyQ195U0pFN2R5elRuVmdEQmo4RVhnaHlSQWRCTFZmbVlGdzROenMtd1ZhQ0lHQzJLdEl5UDJibmh0ckZYM0I4Z25XMERHd3NCckI5TGRvb0loQkgtamtGZ25INmNxRF9VOXVDaXdMWkxabmFhXzR6M0hLMzBNeDlyN3lKcFMzQUZZYkRYb1hVLWQxdkplb284LTdKVmF0dHlrV1JhaGZxaWc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Maharashtra Lok Sabha Elections Phase 3: Key constituencies and candidates - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYXMzb1NORTNoUkdCZzdBS01jYXBQbkhDbjlDM2ZiaVlwejBHYzZTNzdnUFMwcGswRTF3cXhFaS1IMk9OOUtMb0lKTzh5ZnZMTzIxSGRhcTFQclFsejRKcVRtMExCTmFrN0xLbzZDTjM4OGktbjE2dG5jcTdvNWd3QzNJMFFjLTRURUptY3B1QXVQSkMxbjBWeWNWc1VRc2IxMm5Fajl5Y21KWFhIY2YtTU52SzNPdWJPMjZSejhuY0xEWXFGNUU5WFJ4SEFOUVBEVmR4b2pybXR2dUg2NzBWNTg5OFVlbEdsUUtiWVhPeHhUVnfSAfgBQVVfeXFMTXp6ZzZBWm5ybjFoc2RBS2VrWnlDbVBhVHlWd1gwbjFMQ2s0T3hYdTBMcjZVNEttdi1aRWFvaHIzWmdPTDd1MlhRWEg2b2hESmNEdnZwdjdOTloyZDhWRk5xbjB6V0lEZE1QTXVWeTFkV3pTWEQ3Tlphb0EzNnpJbTBkSHgydThMQTc5QjVkNHQtbWlCZkNxSWVWUFVjZUJEWTFuNjlVaV9zRHBDRTMyN0s5RDJQcjhjcGNSSlBuLTk0TGE5REFjbUxjX3d0dlBEREFEQVkzb280MzZjTnlVcUgxWndQUzNfbTJ1Wmt4OGQ5QldXY3Bpbk0?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:30:49.115870Z",
+    "collected_at": "2026-09-02T15:06:39.665112Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.367322Z",
+          "fetched_at": "2026-09-02T18:38:07.899098Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.367331Z",
+          "fetched_at": "2026-09-02T18:38:07.899115Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.367337Z",
+          "fetched_at": "2026-09-02T18:38:07.899161Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.367341Z",
+          "fetched_at": "2026-09-02T18:38:07.899172Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.367347Z",
+          "fetched_at": "2026-09-02T18:38:07.899184Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.367351Z",
+          "fetched_at": "2026-09-02T18:38:07.899193Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.367356Z",
+          "fetched_at": "2026-09-02T18:38:07.899200Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,17 +322,50 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://twitter.com/mpdhairyasheel",
+          "url": "https://x.com/https://twitter.com/mpdhairyasheel",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://m.facebook.com/dhairyasheelmane",
+          "url": "https://facebook.com/https://m.facebook.com/dhairyasheelmane",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://instagram.com/dhairyasheelmane",
+          "url": "https://instagram.com/https://instagram.com/dhairyasheelmane",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:03:00.702881Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 9,
+      "total_articles": 10,
       "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 10,
       "top_headlines": [
         {
           "headline": "Hatkanangle election results 2024 live updates: Dhairyasheel Sambhajirao Mane of Shiv Sena wins - The Times of India",
@@ -290,39 +376,39 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Maharashtra: Dhairyasheel Mane appointed deputy leader of Shiv Sena parliamentary party in Lok Sabha - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUkhyM1FKSnVrNXRGUVZiWVE1ejU5TEFmTHZ6T2REM2F5blhBVldpdmdiNFZlT2VCdXJienpWN3ZvMjBZSFl1VllPMFAxV3A1ZWlSMWQwSFRyeUt3c0VsdFN5Z2JRSjhkeWg1SG9oOUs3ZkgyNmJhcjFvSFktWUx4aDBNTjlLOEoyYU52ZWVWcUtBbG92ZkxsVmI1VVM2dnE3OFZNRDg4QkgwanlUalhSUUJFay1RTHFaUEZwbjBLWDJSSl8tamhBRDRPV0c5U3ZiUE9Vc1BkSUxGV0w5bnVfTHBNMVBQdmdkeFRYMk1zS05tenNpcFpoZnZha3JaZzh6eE9QbS1SQVRhcm1LRDVCb2JORkItNnlh0gGeAkFVX3lxTE1HZUdHX1dQZUJrbTZqWEVIVVBITjRPR1VNUFk5RkZ2aDczYXBGb3NMVzh5TGx5ZWIzT1pWSl9UbzFpU25iNS1IV085MU9UY0l4dDNhdUJ6N1JQQkNlZVVvdEstV0RiUnYycGVIdzVtVmQ1N3I1MXBGZThid09jZVdFR25kQlJPci1kazZ4a2J1dWUtVWg3eTdGYWNoUm80YWgyMlgyaFNtOEYtTU9wMGxfRS1pcms5SzBPTm9qbEpnNGlpZ0ZIMm16OUlNUTIzVUczR29TeFRMajJHaTZ5NTc1Yks3RGlXNkZIYTJfdXFDdmpnNUVHM3BxUWlnbzB0Si1FNy1JLW5mUUY2bmktX0lYcVVkcnhKUFdHVGZvUWc?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Dhairyasheel Sambhajirao Mane - The Hindu",
-          "source": "The Hindu",
+          "headline": "Dhairyasheel Sambhajirao Mane - thehindu.com",
+          "source": "thehindu.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbC14MG5XVnVJYWxCdk45bEk0a0Z0Vk5ETFhEXzRYNzdTVHdTME1aSmdXSlpvbHNXTDhSaTZHcTlzeDNDYTdPYWRmdzFrOWZ2QmQ4TXhhQ3RqYmFvMFl3TTlsQ2ZSejJQWUVSLVVOanNCWWxZcVpURVdRT0UxQWZhZDJQXzZMTnVaWnR4dEx4RzUzc1BkNUprLXlR?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Hatkanangle Election Result 2024 LIVE Updates: Shiv Sena's Dhairyasheel Sambhajirao Mane Wins - News18",
-          "source": "News18",
+          "headline": "Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18",
+          "source": "CNBC TV18",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRU81eDZvTVk0cjFvZUF4ZkE2cUtZd19ocVdfNHNoSFZfNTUzYzBKMnBXVTFoaFFFR013cl9YV3lhcjZGSVBEQWJCQW1hd0s3V093dHhUbkZWeTdsUVktdEVaOGJQNkNVbHFFcEdwWlB5U3A4TWZOalZiR1d0VVNlSS1sYlFxak5rTlRoaUdUM0VCUFdJQjdRSjJFVHJlY1dZenY2UEJoaVQweDdITmMzbEd4UUNHMjh2MTNSUWo1TkY5NGlpWlVSbDNpcUVIc0FsOXBTT3NxeHNsNnpTREdWSXppOThYZG_SAewBQVVfeXFMTnFLRDVWM1hRZkFPNlZVTmRfQlFDNTFDLThfa25HWGc1ZXYtMkNfRWNhUFM2alFQbl9MSk5YRjhROUFISGM0dzBsb1FCODBXUmJRZUVxSFJla1ZrRjlsVVhtYlFLRFZaOEZDS1lZVGl4eE9VWGRzSHczcWZQcEV4cWJ4SnBDakg4eEdpNmtRT1N1SVBGdml6MnlBOUxNVHlPMDNMVy15em0tLTU1TEFmMVhpNXVoc0x3WmdpY2tiNENXeGpsek94OFNwUzhmQVkwTzZ1azg3YXVyczZ6S0J0bW1TLV9tdkxCTXZmeDQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVkU3NWhSQW1fSkVGTE5hczBJcGdNT3RNR2xBbUFleTJ4bjRHc3hrOWNSU001ejFNN09vbzdZQkJlSV81T0R2VHFQTmtYMjg4SDBrbDNlS3JDaG1SRU5wcVoyd2JzVTRFWjBaSS0yTmlPWmdjV0s0UExuVTJwNERMM0hjTkdnRVhHY2F5QVZKM3RONTlrbXlKcGMtcEFITUY1blRlV1VfNUVDZkhOWFJzTzVHcmE5R2pnMmQtZzkwZUtQYWRSSnFvNWtHSXdrUy1qdU5UR05wbVR2ZHlhcVUyZEdTbmNlMnJyTldqZHk3bnRVLXY0ZzJHYm1ob250dkVocGfSAYcCQVVfeXFMTmtxUHZGTDA2bDZ5SndtRjZzN2pET2Fwd09hR2tYeGhsSW1BOUc4RE9WZ24tR18xNUZ3Tnl2WHhnVkpJc05idEx3VnNSRXJ1X01jVWw1VGU4YzJmS0ljSWE4a1pOZFNWa3Q4WkVndnI4Y2JpQWh6SzY4RUx0YndJcFhGS0VqNWpLNlROcEczTVRiT1hZOHlyc0wyNGdxZ1RROGxHZjZWNm9uLWpoNmxybW1KNEZjdDFuS1lnZjZQUmdqYUEzYXdJZmNxMmdManRDV2NfUUhZRlYtWHlZQkU4TlMzVWlZUVhFQnB3SWRLQzh0MzVjVk9TUW14RTRnZlRXMnQtTy1idUU?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Maharashtra Lok Sabha Election Winners List 2024 - financialexpress.com",
-          "source": "financialexpress.com",
+          "headline": "Maharashtra Election results 2024: Full list of winners in Lok Sabha election - Livemint",
+          "source": "Livemint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZHhRTlJyV3VIMlE1aEkyeGhzSU5sb1VneUNwM0ZkNEk5UjRTazEwZUJsMjhydkpBbG1uMjBsQWR6eUVtZ2JOT0FzR2NKbi16WlV4QmV3SXFUMUFpeEVVeXlzSXI4eGVBTEduYXFyRk8zWUNnRldhOVh6akRnRi1WTExSS2FSejdxNGV5TU5QSzN2WGQySkRxaXNvQ1BZNGNWdUxZY3ZpUDNBT2J2emhtTDBKT3ZhelBHcG5YSzdlN0V2N2g4VFNSQ0tCS182cVN2U3NFUmQwTzNYZDFjdTd2VXRuZTV2Z9IB7AFBVV95cUxPaV95aWNESXVXWEFrUVZUNTF1OFlaUEtXS2Q5OWN6bDVDTWxDaFMyWDFSR1BkdTA5cjQzekdzUmh1Ny04VHFRRE1JUjdwVUVZT3RvSlg0MUo1UzM2TnFHQXl5MVIzSkZRVmlXcmdHSVNIME5MbVY2NV9OYnZBM015eWNBdTJrU01WT0VOWHQ4S1NLRXcwdlFCVWRuTTNVN25KdHhFVmYydEFmRW15cHVKcXVFeUlMNEdHdWQ3VUFkN1pRem1hUmhZSFo4Y1BEUGxtbkpfYm95OER6dUd3UXBGWFczbGl5c2NXVTROWA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOHNJaXJUVmFlbG9BY2FnTFIzY1pURWNnYnRxODVpZVRLRDBVUVg0Rzk3UTNOZWR1UlRfMFNrc2EyN2E5aVNCUkdaUk4xM0pMc0VfZUFoZENzVk4xNmV3T3RMTm1jSjBaM2RGbmgzeE1GQTc1dGlvV19SOVlQY1ZYYVExbXFIU2RFNU52c2NCVURnYTI3N1pwUXotZEdINmFfOGkwWUxRakZxUm16cWZjdXhuTFdIQXhneWZaOXNvUmNoSFZ3UHZjRUFLNmlTbFFxU2pQd282bEk3bmMtSnNBY0lKQmdjcmNObGxVa21iTU5DOHl1NzE0Z0VOZkFvNVdG0gGGAkFVX3lxTE10WTN6WWJnajlVOXRzeFhSX3Bici1yZ2hsVVk1S1VkUXpwX3ZuUmpfLU5qdXZneHBQVV96azBMWGVOUTR3T0g3OHZmQklvMktZZGt5a3B2dEp1dXY0ZWVjX2ViZEFyQ195U0pFN2R5elRuVmdEQmo4RVhnaHlSQWRCTFZmbVlGdzROenMtd1ZhQ0lHQzJLdEl5UDJibmh0ckZYM0I4Z25XMERHd3NCckI5TGRvb0loQkgtamtGZ25INmNxRF9VOXVDaXdMWkxabmFhXzR6M0hLMzBNeDlyN3lKcFMzQUZZYkRYb1hVLWQxdkplb284LTdKVmF0dHlrV1JhaGZxaWc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Maharashtra Lok Sabha Elections Phase 3: Key constituencies and candidates - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYXMzb1NORTNoUkdCZzdBS01jYXBQbkhDbjlDM2ZiaVlwejBHYzZTNzdnUFMwcGswRTF3cXhFaS1IMk9OOUtMb0lKTzh5ZnZMTzIxSGRhcTFQclFsejRKcVRtMExCTmFrN0xLbzZDTjM4OGktbjE2dG5jcTdvNWd3QzNJMFFjLTRURUptY3B1QXVQSkMxbjBWeWNWc1VRc2IxMm5Fajl5Y21KWFhIY2YtTU52SzNPdWJPMjZSejhuY0xEWXFGNUU5WFJ4SEFOUVBEVmR4b2pybXR2dUg2NzBWNTg5OFVlbEdsUUtiWVhPeHhUVnfSAfgBQVVfeXFMTXp6ZzZBWm5ybjFoc2RBS2VrWnlDbVBhVHlWd1gwbjFMQ2s0T3hYdTBMcjZVNEttdi1aRWFvaHIzWmdPTDd1MlhRWEg2b2hESmNEdnZwdjdOTloyZDhWRk5xbjB6V0lEZE1QTXVWeTFkV3pTWEQ3Tlphb0EzNnpJbTBkSHgydThMQTc5QjVkNHQtbWlCZkNxSWVWUFVjZUJEWTFuNjlVaV9zRHBDRTMyN0s5RDJQcjhjcGNSSlBuLTk0TGE5REFjbUxjX3d0dlBEREFEQVkzb280MzZjTnlVcUgxWndQUzNfbTJ1Wmt4OGQ5QldXY3Bpbk0?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -352,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 71,
+      "starred_questions": 21,
+      "unstarred_questions": 50,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 65.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +485,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 45,131,759. MPLADS utilization: 4.4%. Parliament attendance: 65.0%. Questions asked: 71. Debates participated: 3. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.368070Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 65.0%. Questions asked: 71. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.900425Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Jaipur Rural",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 436,
+    "myneta_candidate_id": null,
     "slug": "rao-rajendra-singh",
     "house": "lok_sabha",
     "sansad_member_id": 5632,
     "profile_url": null,
     "canonical_name": "Rao Rajendra Singh",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 65,
+    "age": null,
     "photo_url": "/mp-photos/5632.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Jaipur Rural",
       "state": "rajasthan",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 436,
+      "myneta_candidate_id": null,
       "slug": "rao-rajendra-singh",
       "house": "lok_sabha",
       "sansad_member_id": 5632,
       "profile_url": null,
       "canonical_name": "Rao Rajendra Singh",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 65,
+      "age": null,
       "photo_url": "/mp-photos/5632.jpg"
     },
     "criminal_record": {
@@ -42,75 +42,89 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:13.705294Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 293352992.0,
-      "liabilities": 20889099.0,
-      "net_worth": 272463893.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=436",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:51.983565Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 77.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 2.09,
-      "expended": 1.11,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:46:06.207889Z",
-          "notes": "Official eSAKSHI REST API — Works: 74 recommended, 23 sanctioned, 8 completed"
+          "fetched_at": "2026-09-02T14:54:36.643440Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:50:54.933089Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:50:54.930896Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 74,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 7.551020408163267
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
-      "attendance_percentage": null,
-      "questions_asked": 0,
-      "debates_participated": 0,
+      "attendance_percentage": 100.0,
+      "questions_asked": 16,
+      "debates_participated": 4,
       "private_bills_introduced": 0,
-      "is_minister": true,
+      "is_minister": false,
       "source": "prs",
-      "confidence": 0.3,
+      "confidence": 0.8,
       "sources": [
         {
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:30:09.523106Z",
+          "fetched_at": "2026-09-02T14:50:54.930105Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "'Astronauts' find Jaipur's 'moon craters' to be potholes - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejlnSGZwSkMtOXlJN0daMVdqTmdFZG9QNTVyLUZVUGkwNjNLbXp2TEpfa3VYQVQ1cUEta21Wa0NNNWxwWVQwV0F4VktCdEwtWWRNdkxJYkUzdDFKT1JBRUJNWnpPTjdiYl9zaUUxejBRMno4VVUtRVE4UVFwWTNtaWU5NjJUMnRZcVFlTFVIR3M1UVJhQnJsWDZiZGFHcDY3eG5yUkdBVXNhNWJmM0NzUmFNUFZJYW9vVTdhb3h2UGJySHfSAcgBQVVfeXFMT2JjWHNOUkRScmNycEJ5aDJCMEJrVF8wQm81bUdIUXJXd0xBdGhzcGN1TENrYmxqcVRCdXBLV1FBUzlwaEtTWkNZWVVPMjVYdUVOTlF3UWFVRGp5aW5lZ196MEFxQmU4NGQzb2JrclM1ejhOXzYweEYyM2JaOW15WTBOT3F1dzR4dzI5RFhaR1oxOHpVQ25zcnZUVmpSVGNsbUpyck9WU2hSVV96ZkRiOUJzbUxHTkdtTGpCWE1DMmhFaFE5djY3aUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM's advisory council recommends 13 new LS seats for Rajasthan: Six constituencies mooted to be divided int... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZkNvOUdfRXE0bWwzYTIwb1UwODAzYllJTVBQVklYMnR0WGwwLW5HUmpqYmZXUjMyMDRLX1Z6eXQyMXNQbkFRMHNmaFdqSVVJSURhZ2NjS1llX2dWd0VQWDZaekY5MHlNZlVlQ2t2UWx5cHZNZ1lRVWJ0ZVREbHpPaHpLX1pyV2dXYVo2c1l2RlA4eG05RVpmM3JLUEk0aElEN1lBbzRDVHZZM1JJOU9mMlFfc3hLeW1nemt5Ykg3Y2U5RkhXWkRTc0xR0gHPAUFVX3lxTFBybWpWQ2hEWUktX1hOVDNiLWwtOWNOaXpycE9VZkQtRTB1akNBOUxMMWFHQklBLWVUcS1STUZNY3VwazJyLUtsMVR5NDcya1VtaHhzRkozWXU2RDhEMEZTVjlHa3haX2ZXY1VPZWl3U1UxOFBNeXdMcjQ2ajFkWFhqTTFjZGQwb3hSLVBqWjMxajFuRE16RVdaa3NaMDFaTnAxT0Y5aTVjandwZEZ1WmNaZ0xGXy0xNVdRc1NyUloyWWJybmVFQjRKVm45aGc1RQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘The Thar Dry Port’ opens as Rajasthan’s new gateway to global trade - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2Nmb0FoSUFHaUVucFpabHE3YnBxbGZVZW5uMExVdlhUMEZKRTh1SzJKcWZrZEluVTFVdDl0ajNERWRxMFRwckdpQWhlNE8ySVNvd3R4Sko4NGFXTWNEOERVNXAtU1pKekV3aS1XeDJTS2oxRzNTeXFMTUVaSHBya3FUb2xLRERONFNodmpTcVVDbGppZGU0cDBQSWh6TVRUbkd0eVdQZXFfZDFVZVd5OVdlNy1iZzDSAbwBQVVfeXFMUGc4TmxmWTNfRUtLUGRPV1V3b2U4aDhWQ2lYWmliQmhJSUFrTHkxSGFfQ2h4YzMtU1BZOVNsOEZ3OGlHbHZpS21UUGs0RjNFblFLdW9iZDhxaC01YnVuM05XZ1RUN2NJRm1VMEo3YjJDNXhUUWU4ek5nWm9HcWk2MFdqV3dhZjdsUjQxUEhYZFJ4Rlh4MFZuQzJwSFVXdXJWVkhPazlaVGNZcTZWbkg2WmlmVVZXakxVeXV5VTU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Karni Sena protests against UGC Bill in Jaipur: Demonstration outside Jaipur Rural MP Rao Rajendra Singh re... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNlFwVUJNaWJzQmJ3TERRUXpCb2J3MHpWSW53ckxaWlYzcHhDZ2VINFI4aW1sUl9qNmxsZTZHRG12WGNKUXoxWmRBMWV6bF9mZEprT3hPWDg3T25wYjliX09lT2g2clowbTl2bExwVXppYmNjdXBueTQ2YjJUOGpNNFNXaENDcU5KbHdXSWc1aVJ4XzNzMEhiWUZZU2doVkl2UnhMN2puTlAxdUNOYjZKVHdnWnptUmNaeXhhaU05MGtaRzVoN1dmbNIBzgFBVV95cUxOS3VPV1RBU2pDb2o4cTJMZkE1Ums0U3JjdFRjT09sZkhYZVZOODA2ZzhRbEJ6cUdBRGV0ZW8ycDFqMjdvelBkeTMtdExLTW5HVmkwbk1mX2xXd1NMdnkxNGUyM2lZOE8wZHVDZXpyUnFxeXB1MzdlX3VvWmtlQUFpTHdVSGp1M2Y0ZWs2dGV1VE4wdHI0V1hxN290TjdlLXlubFlqQ256NkxzWDEtMVdqelNtM21RcHZ6ZkxKQnR1MTNyb3pTRGJ2VFJIeTdXdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Karni Sena protests UGC norms outside MP’s home - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa01OOWVndW5kUl9oblVYVU81LW96LVh4WnMzcEwtVmRHVVNCSlQ1SERXRTBKYzBub3VVcTRrOU91M2NMRzZwakxFZWFnaGFXOERzTmpyYTZOZW9ITGtuS0xNemZyX0ZqZVVCaFhwNVlvbnctR1JybHRCNzlhaVFUZEN0WXRFbmpVU0pfWERmaUdsTk5PbENVbXVJeEpFamg1SnRKbW1WY0s2RXR4OEdsNmREejBsZDhfdC1DVdIBwgFBVV95cUxPTDROR05FbG5mX1FISUtidTVwMXp0aEVYeUlGME1qaGNpY0NlV0F0N3RqRWs0c2Y1MTl2NTJmWWduVW5ld1VzUS12U3FTTkhhNFFubVRNVVlyZHhTXzBoUXBrbWVrVnM0QTBoX05zNDZ4Sy1QZHRpR0RiMU1xM0tuTTdueHppNkJkcnpRcHlLdXZETnN6UW1hcU94LXFKVTQ4UE9feFJhaUhBY3ZHd1hVelh6U09sZEZpRGxCaDFVX1hDZw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:31:15.209923Z",
+    "collected_at": "2026-09-02T14:54:36.644192Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.171679Z",
+          "fetched_at": "2026-09-02T18:38:09.595495Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.171690Z",
+          "fetched_at": "2026-09-02T18:38:09.595507Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.171695Z",
+          "fetched_at": "2026-09-02T18:38:09.595512Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.171699Z",
+          "fetched_at": "2026-09-02T18:38:09.595518Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.171705Z",
+          "fetched_at": "2026-09-02T18:38:09.595524Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.171710Z",
+          "fetched_at": "2026-09-02T18:38:09.595528Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.171714Z",
+          "fetched_at": "2026-09-02T18:38:09.595533Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,48 +330,48 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "DDCC meeting reviews development works, stresses water, health, roads - Magzter",
-          "source": "Magzter",
+          "headline": "'Astronauts' find Jaipur's 'moon craters' to be potholes - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2p0bkNDb3ptVHctbHQzUk55RWNkSEd4WTJEVE5XZnFfYzFEbzFJQXFlRWoyT0pUNkVWXzBaZ0VIRF9qLXkyVU43b0x1dVAyRU5ROWFXTmxPNUozSmktT3ZhSWVQaTg4bXVQUWxZTFQ0alo4SFNOX0dGbWJIY1lHbU9TUzdxTkJnNlZrakV1OEpJelNPUXFmZlBDTW1MMFlZcEpsT3JEejZyMVRzWU9rbmpDSlc0OHhWSDlYc1NrUUVxb1JTTHNWQU9n?oc=5",
-          "sentiment": "positive"
-        },
-        {
-          "headline": "Raj HC orders notice to be affixed on MP’s residence - The Statesman",
-          "source": "The Statesman",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnNBMUNnQUpaRVhOeWtnc1lBYXdkUUtDdUhWRDZocFJOdXk1LTF5d2gtZnAxbHdxb0tEVFhXVnRuTTRfNW5jQ1BZOGJYT1o1cnY4WWhIb2lBUWV0M21kR0Z0bFp2bk1nTGtCRmdXeWxaNjNIS2FxQ0JwTVd1cEdlWTM0ZC1wTm9kcXhaMXI3VnEwZVo2UmRmWjBkcWtpbG41THE4MtIBqgFBVV95cUxPeW13dnlTOURNZVZlQVFQQVdndDl0OWVPTXRPTGczMzhLZlFGOWVsaS05WjlKVmJISlRoRnV4MldxQjdJT0JJUDVNSHdMd3Z2N01PcEVSdExDNnZkRjd4Z2Y0STh0bTNWV2EtOEV5NVdJWE1Va0JQc2RBZXZ6dkNKQTh5RmdpVGM5SHZnX0NsYWV4QXhGTkF2bzJXNWtzcWNQbEpFYUJLTlE2QQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejlnSGZwSkMtOXlJN0daMVdqTmdFZG9QNTVyLUZVUGkwNjNLbXp2TEpfa3VYQVQ1cUEta21Wa0NNNWxwWVQwV0F4VktCdEwtWWRNdkxJYkUzdDFKT1JBRUJNWnpPTjdiYl9zaUUxejBRMno4VVUtRVE4UVFwWTNtaWU5NjJUMnRZcVFlTFVIR3M1UVJhQnJsWDZiZGFHcDY3eG5yUkdBVXNhNWJmM0NzUmFNUFZJYW9vVTdhb3h2UGJySHfSAcgBQVVfeXFMT2JjWHNOUkRScmNycEJ5aDJCMEJrVF8wQm81bUdIUXJXd0xBdGhzcGN1TENrYmxqcVRCdXBLV1FBUzlwaEtTWkNZWVVPMjVYdUVOTlF3UWFVRGp5aW5lZ196MEFxQmU4NGQzb2JrclM1ejhOXzYweEYyM2JaOW15WTBOT3F1dzR4dzI5RFhaR1oxOHpVQ25zcnZUVmpSVGNsbUpyck9WU2hSVV96ZkRiOUJzbUxHTkdtTGpCWE1DMmhFaFE5djY3aUQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP MP faints during last rites of Agniveer: Carried out of crowd on shoulders; cloudburst victim soldier's... - Bhaskar English",
+          "headline": "PM's advisory council recommends 13 new LS seats for Rajasthan: Six constituencies mooted to be divided int... - Bhaskar English",
           "source": "Bhaskar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGZXS1Frci1MZS1mYWxqckZXRTVZckktS3huZlJUSVpzbk5aa0NQV0FQTEVHUk9PWnZUQzhKcHJKNnhleG9NZktTYVJoVnVMU3RRRWxaR1l1OEFyY3lIVllEUF9fUklrNlVjS1ZSOGtENU1uS0RhSmkzLUZVc09SUjdhYkhoUXJKV19uRlV2RW1ITEFvWktZaTFTZlhzSkk5Q3JlREpnNndLWTZRMEpueE5SRU81WGZKcVZxMFM4UXVteEJJX0JqbXFydEpHeHcwZ29qLTlsajhEeUnSAeABQVVfeXFMTS02N2dMUzNobHhwdnFiaU5TSnFBejU4LTNRckZNdGU2WUlPRjMtdUdyTHJxNnVoMjZaS1pYOTRoTXRKX283M1N6WmpBVmVIYnBTMjNxdWF4cmZJREtKZ0RtQzQ3MjJ0ZkpqVld1d0VKN2J2LTBuc3dLbFRlQ1duQU9FeVZhTnAzNGV5cmxCMS1VeGhvTmdMM0U0TU40QVZHcFZfSXpiNUhldjBfUVlvcXFqTVVwZ0g1SHl2TTk1QnlOeGJrM1ota1BHSk9KSG9INWRtNWFrTWdFd0JYLWYyY00?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZkNvOUdfRXE0bWwzYTIwb1UwODAzYllJTVBQVklYMnR0WGwwLW5HUmpqYmZXUjMyMDRLX1Z6eXQyMXNQbkFRMHNmaFdqSVVJSURhZ2NjS1llX2dWd0VQWDZaekY5MHlNZlVlQ2t2UWx5cHZNZ1lRVWJ0ZVREbHpPaHpLX1pyV2dXYVo2c1l2RlA4eG05RVpmM3JLUEk0aElEN1lBbzRDVHZZM1JJOU9mMlFfc3hLeW1nemt5Ykg3Y2U5RkhXWkRTc0xR0gHPAUFVX3lxTFBybWpWQ2hEWUktX1hOVDNiLWwtOWNOaXpycE9VZkQtRTB1akNBOUxMMWFHQklBLWVUcS1STUZNY3VwazJyLUtsMVR5NDcya1VtaHhzRkozWXU2RDhEMEZTVjlHa3haX2ZXY1VPZWl3U1UxOFBNeXdMcjQ2ajFkWFhqTTFjZGQwb3hSLVBqWjMxajFuRE16RVdaa3NaMDFaTnAxT0Y5aTVjandwZEZ1WmNaZ0xGXy0xNVdRc1NyUloyWWJybmVFQjRKVm45aGc1RQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Locals seek sanctuary status for Sambhar Lake to protect migratory birds - The Times of India",
-          "source": "The Times of India",
+          "headline": "‘The Thar Dry Port’ opens as Rajasthan’s new gateway to global trade - The Statesman",
+          "source": "The Statesman",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONmIwLWdMcWlfOHg2X0JuTGZUNlktWlF1a1Jyal9WOWItUkZsNzU2OWJOWGt1czVuZEtlUUg0ZHlzZFRnTWRBYklIdXpDXy1hWkRmakxfSW03QVdiM05Idm1IM25DVXhqWlhQUjlaOHdTaDMtajNSTmVlcWNBZjZYNkhhZmFzYV9URmt4dXd0QzllejZ1Nm9Jelp1Ukp2dDRXR1VRcVRUeEJ5eVdHVUhLbXpKaHNSNFhhU3gza2ZZbTVZM3BuZUVya1VSUVM4UnRER2czcEJGVmI1emJBbzAw0gHkAUFVX3lxTFBsN20ydXY5OV9sYmN0NC1fUTVhc0RDSE9OWVZJbndxM01EamVRQVdCT0I0VEVQYVBKRFdsZmZDZjFuRTdpOHltTjFtdVJIQ2oyQVhabVQxNkQwbzJTRFItNTNZNDlQRFUwQmIwUVhYUnAxWUIxS3ZQTzNfUXE0alNxTkhCd3VJR1p3NmdjNWxpbTlXOE9Zc0VEb2M5MFlIV2NEZElZcC05V1NNVzJCZ2dvVi0tV0Z3dlh4LV9sUTNGMjFaZHU4QTJWQjk1U3lUQUtHMXVzS21sUV9xY1hiZ1ctTFRpag?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2Nmb0FoSUFHaUVucFpabHE3YnBxbGZVZW5uMExVdlhUMEZKRTh1SzJKcWZrZEluVTFVdDl0ajNERWRxMFRwckdpQWhlNE8ySVNvd3R4Sko4NGFXTWNEOERVNXAtU1pKekV3aS1XeDJTS2oxRzNTeXFMTUVaSHBya3FUb2xLRERONFNodmpTcVVDbGppZGU0cDBQSWh6TVRUbkd0eVdQZXFfZDFVZVd5OVdlNy1iZzDSAbwBQVVfeXFMUGc4TmxmWTNfRUtLUGRPV1V3b2U4aDhWQ2lYWmliQmhJSUFrTHkxSGFfQ2h4YzMtU1BZOVNsOEZ3OGlHbHZpS21UUGs0RjNFblFLdW9iZDhxaC01YnVuM05XZ1RUN2NJRm1VMEo3YjJDNXhUUWU4ek5nWm9HcWk2MFdqV3dhZjdsUjQxUEhYZFJ4Rlh4MFZuQzJwSFVXdXJWVkhPazlaVGNZcTZWbkg2WmlmVVZXakxVeXV5VTU?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Political Profile of Rao Rajendra Singh, Bjp Party, Jaipur Rural, and Net Worth - India TV News",
-          "source": "India TV News",
+          "headline": "Karni Sena protests against UGC Bill in Jaipur: Demonstration outside Jaipur Rural MP Rao Rajendra Singh re... - Bhaskar English",
+          "source": "Bhaskar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWG5BdHFLSmhDTWtsX2FFdDg3VWgxUG1nMEN1eno1aU9IVUlTblc2UFVWcEZRMVRmQWJaelBMem1nU3pVd1Q2MzdDY3hBMVlMcW1BQkE1ZWNiSUZXaFFKSlNITTROLUJfbG5GWVFpcFZtbzc2R1VXOV9JTG1wWk4tQVhPZjFBUjNXNXRVcmpKSGNOMFRYSjl3Nk9fU3hZTUFucmNXTHB2cjBKS3dZQkRPUEM1Tzg2VW01cmlITE95SnVvYWtjeEFiQXFKTWtBVXZ4RmVBMlBwd0Y5ZlpzeEZKdl9nTHMzXzA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNlFwVUJNaWJzQmJ3TERRUXpCb2J3MHpWSW53ckxaWlYzcHhDZ2VINFI4aW1sUl9qNmxsZTZHRG12WGNKUXoxWmRBMWV6bF9mZEprT3hPWDg3T25wYjliX09lT2g2clowbTl2bExwVXppYmNjdXBueTQ2YjJUOGpNNFNXaENDcU5KbHdXSWc1aVJ4XzNzMEhiWUZZU2doVkl2UnhMN2puTlAxdUNOYjZKVHdnWnptUmNaeXhhaU05MGtaRzVoN1dmbNIBzgFBVV95cUxOS3VPV1RBU2pDb2o4cTJMZkE1Ums0U3JjdFRjT09sZkhYZVZOODA2ZzhRbEJ6cUdBRGV0ZW8ycDFqMjdvelBkeTMtdExLTW5HVmkwbk1mX2xXd1NMdnkxNGUyM2lZOE8wZHVDZXpyUnFxeXB1MzdlX3VvWmtlQUFpTHdVSGp1M2Y0ZWs2dGV1VE4wdHI0V1hxN290TjdlLXlubFlqQ256NkxzWDEtMVdqelNtM21RcHZ6ZkxKQnR1MTNyb3pTRGJ2VFJIeTdXdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Karni Sena protests UGC norms outside MP’s home - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa01OOWVndW5kUl9oblVYVU81LW96LVh4WnMzcEwtVmRHVVNCSlQ1SERXRTBKYzBub3VVcTRrOU91M2NMRzZwakxFZWFnaGFXOERzTmpyYTZOZW9ITGtuS0xNemZyX0ZqZVVCaFhwNVlvbnctR1JybHRCNzlhaVFUZEN0WXRFbmpVU0pfWERmaUdsTk5PbENVbXVJeEpFamg1SnRKbW1WY0s2RXR4OEdsNmREejBsZDhfdC1DVdIBwgFBVV95cUxPTDROR05FbG5mX1FISUtidTVwMXp0aEVYeUlGME1qaGNpY0NlV0F0N3RqRWs0c2Y1MTl2NTJmWWduVW5ld1VzUS12U3FTTkhhNFFubVRNVVlyZHhTXzBoUXBrbWVrVnM0QTBoX05zNDZ4Sy1QZHRpR0RiMU1xM0tuTTdueHppNkJkcnpRcHlLdXZETnN6UW1hcU94LXFKVTQ4UE9feFJhaUhBY3ZHd1hVelh6U09sZEZpRGxCaDFVX1hDZw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 16,
+      "starred_questions": 4,
+      "unstarred_questions": 12,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 30.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,17 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.24,
   "flags": [
     {
-      "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "field": "assets",
+      "issue": "Low confidence in asset data",
       "severity": "warning",
       "suggestion": ""
     },
     {
-      "field": "parliament_activity",
-      "issue": "Low confidence in parliament activity data",
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -426,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Rajasthan: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 293,352,992. MPLADS utilization: 7.6%. Low confidence data: Parliament activity. 2 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:52.172474Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 16. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.596267Z"
 }

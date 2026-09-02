@@ -4,31 +4,31 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (21%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 50.6 / 100
+## Composite Transparency Score: 55.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 11.6 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 50.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 5
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 5
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.50 Crore
-- **Liabilities:** Rs 78.93 Lakh
-- **Net Worth:** Rs 2.71 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 29% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 5
-- **Expended:** Rs 2
-- **Utilization Rate:** 14.6%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -75,6 +74,17 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/BennyBehananMP/](https://facebook.com/https://www.facebook.com/BennyBehananMP/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -82,29 +92,45 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Congress workers stop Benny Behanan over CM choice; MP calls it ‘friendly conversation' - Onmanorama (Onmanorama) [neutral]
-- War of words erupts between left legislators, Chalakudy MP - The Hindu (The Hindu) [neutral]
-- Congress's Benny Behanan stands his ground in Chalakudy - The New Indian Express (The New Indian Express) [neutral]
+- Toofan gathers ‘special’ force; Kerala
+to step up interstate anti-drug drive - The New Indian Express (The New Indian Express) [neutral]
 - Chalakudy election results 2024 live updates: Cong's Benny Behanan defeats CPM's C Raveendranath - The Times of India (The Times of India) [neutral]
+- Sabari rail project: landowners meet Minister, Chalakudy MP - The Hindu (The Hindu) [neutral]
+- Lok Sabha Elections 2019; Kerala edition: Congress' Benny Behanan says BJP makes promises only for sensationalism - Firstpost (Firstpost) [neutral]
 - Chalakudy lok sabha election results 2024: Chalakudy Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Toofan gathers ‘special’ force; Kerala
+to step up interstate anti-drug drive - The New Indian Express** (The New Indian Express)
+- ! **Chalakudy election results 2024 live updates: Cong's Benny Behanan defeats CPM's C Raveendranath - The Times of India** (The Times of India)
+- ! **Sabari rail project: landowners meet Minister, Chalakudy MP - The Hindu** (The Hindu)
+- ! **Lok Sabha Elections 2019; Kerala edition: Congress' Benny Behanan says BJP makes promises only for sensationalism - Firstpost** (Firstpost)
+- ! **Chalakudy lok sabha election results 2024: Chalakudy Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Kerala: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Benny Behanan shows moderate transparency with a score of 50.6/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Benny Behanan shows moderate transparency with a score of 55.2/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 35,020,209. MPLADS utilization: 14.6%. Parliament attendance: 95.0%. Questions asked: 60. Debates participated: 8.
+No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 60. Debates participated: 8. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -144,7 +170,7 @@ Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -223,8 +249,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Benny Behanan's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 14.6%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -242,10 +266,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,16 +4,16 @@
     "constituency": "Coimbatore",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 1352,
+    "myneta_candidate_id": null,
     "slug": "ganapathy-rajkumar-p",
     "house": "lok_sabha",
     "sansad_member_id": 5807,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 58,
+    "age": null,
     "photo_url": "/mp-photos/5807.jpg"
   },
   "findings": {
@@ -22,80 +22,115 @@
       "constituency": "Coimbatore",
       "state": "tamil nadu",
       "party": "Dravida Munnetra Kazhagam",
-      "myneta_candidate_id": 1352,
+      "myneta_candidate_id": null,
       "slug": "ganapathy-rajkumar-p",
       "house": "lok_sabha",
       "sansad_member_id": 5807,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Doctorate",
+      "education": null,
       "profession": null,
-      "age": 58,
+      "age": null,
       "photo_url": "/mp-photos/5807.jpg"
     },
     "criminal_record": {
       "total_cases": 1,
       "serious_cases": 0,
-      "convictions": 0,
-      "pending_cases": 1,
+      "convictions": 1,
+      "pending_cases": 0,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "",
+          "ipc_sections": [
+            "143",
+            "341"
+          ],
+          "is_serious": false,
+          "is_convicted": true,
+          "status": "convicted",
+          "court": "Honble Judicial Magistrate No. II of Coimbatore",
+          "fir_no": "",
+          "case_no": "CC No. 3/2010 in Crime No. 382/2008",
+          "other_acts": "",
+          "charges_framed": "",
+          "date_charges_framed": "",
+          "appeal_filed": "Yes",
+          "appeal_status": "An Appeal was files before the Honble Additional District Judge Cum FTC-3, Coinbatore in CA No. 35/2011. Appeal dismissed and the Fine amount of Rs. 200/- has been confirmed on 30/06/2011.",
+          "punishment": "Imposed Fine of Rs. 200/-",
+          "date_convicted": "20 Jan 2011"
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:23.752894Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 890397608.0,
-      "liabilities": 33284669.0,
-      "net_worth": 857112939.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1352",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:52.263476Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 91.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.74,
-      "released": 14.74,
-      "sanctioned": 4.42,
-      "expended": 2.19,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:46:15.803529Z",
-          "notes": "Official eSAKSHI REST API — Works: 67 recommended, 35 sanctioned, 3 completed"
+          "fetched_at": "2026-09-02T14:35:02.891520Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:30:58.180405Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:30:58.178298Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 67,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 14.857530529172319
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -110,7 +145,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:32.801849Z",
+          "fetched_at": "2026-09-02T14:30:58.177503Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +153,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "MP Ganapathi P. Rajkumar launches free Wi-Fi service in Ganapathy area of Coimbatore city - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWmUxQ1l3aGtMX0VTNnlFbjN5ZEw1ekY1OXFCTV80NHZQR1V5UlpSNkJKQ0U1bFZzejdCOU04S0R3WnN5VEtUdXpEdXJEVEllZjVlaEk1aENNNGl6RmxhaUZxSU9EWGVRUGE2a050bUhQVEc4c1JYNzhWX3pELW10UWdJX2lWZnM1Z2g0U3ZMbnV3eGVaeE9taFdNM1NLY2w3VjFMQ2pxN2ZsT1h4ZWNscWFMUjJEbUlRcF8xWC11RGRkcjZOWi1vOTVZQ2pMY0YzRzg1eTR1djNMbUpmbFFOQkVUYWdHSE1lRTVLdNIB8wFBVV95cUxPay11QW5HQUltSXUzcHpfSmw3QkZRcHZUVW03c0tMc1BhN0ZYdDhzYnJWVlJNM2FLWGlOY184V1Btb2hzTG1TRWFyUTk5WUNmWHhuV05DSzhrMjFPUWsyTDVEOGY5Vm5tQ242NEZINVg4R2dFaDlVa2xEMm83S3NxbGVTUEk4M01lakJxZXpBTnl0bGhaQ1ZONlVOd2prX3NyV3pOeXZEZXJWM25HaERfQjVLM3JHejBxanRuVlhDWmpjUTVQMThnQVdMeG1LVFFmNGR0c1dka1lTS1NKcm1fejE5bDdiQlRrWDg0dVZiSnlIdHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Coimbatore Lok Sabha Seat Result 2024: DMK's Ganapathy Rajkumar P Defeats BJP's Annamalai by Over 1 Lakh Votes - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQa2hoMmVVTmlpWm5TTTVBbG9ZV3BmWlpJVy1jNHZVaVh4Mkh4SENZY291XzVHbnUxRlc3R0xMUjdlb2l3Y0ZKNkltbmJSXzJZalc0MldwQm5mUm1tdWdCRkJIVFNUcEtJUTE2RHJpamtUR25OcnNXT1ZnZ3VmZlVzb05vTm5zV2JUc1BabHpXTHJ1NmVNVVBCZUNhb3NGdWFyNkFyLVAxY0FKbjROWEVrVUdQQ0JEa3U1UWc3OUdUTHllazFnaXFJRnlsWUtCdHVTTldqSktEWlJfR2JvNDY1NC1MeHJGLWtUM3FtSkdDZkJXN0JZZ2J0alprc0YxTi1QdEZTSTgyYkpYeFpHS0I3LWZ0alF0eG1acV91eTUtX3JPS0lLaXfSAasCQVVfeXFMTjY3bXYyOXZFblZRVWlGUUFfamUzemF0bUdYdGRYN2xlNjZnenBxTEtENVdJcFFSenB1bXhHelRxYXFTTlVITlh1LUtRRjRGWjhjNmM1Y2t3VUUzWjcwaVdEaTRTWkxEV00wazRvaHV0Z3lLM1dJMkZ3eHVhTDQ5R2xnQ2YxLXZBa09fOFlRcU9ERHI3RHZpZFBHRGxqaWhqM2EyYXZuNkxLdUdHZGVaTThqanJsUXlXaEdraTg0ZEo2T2pIam9pOXFrTkk2Vll3REZIOW5uMTFaUFlIT3FncWJlWmJkZU9NNWlhVmFiRW8xRFZQZTdlNnp2U1JVZkVmSDgzMkdEdS16b0YwZ3VGenBkbUxTYXZ2Mm1YLWJHS0wwcUxfajktOVFLQUU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Retail outlet for women SHGs opened in Coimbatore - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHVNaWNEOFJ3eXBwOUJKdERNN3FKOFhQanQ4QnplUGNSMFp2eFA3MDJ6U0FEV0MwUXdSMkVaS19wb0UwZkNDWUxOX3FnVTVobVBIeGJwMXJ4aUdWMno1REZMdVMzLWp4amNlOGpMUjNMOW1LV09KNUpoRW9aT3NBNFZ0T2Nia2lNM0FTbDdjb0xYSElIRE1KUGtVaURNQlU1Z2lkZnZhcTVpOUtmZnVTMTlB0gG_AUFVX3lxTE0zLWlPd1RwU1JDZ05zWkh6TFhSblhHNUFnRmdUQTFBZGliTnE2Q2F2d2NsUnZKcEsyZEhEYXRmeFNVV2I2aE5yQ0J6SkZpNFZ3c3l0WFFRY0xjSDNWaS1uU3cyWWg4QUtvNGhvS215M0thVGN0ZnpEaWtxRVZRVlU4OV9DR3VSVWJLNHVQTHAzVlh3dldtZVNHLS1XY3J2amRuVHV2RTFvZVlFc0lSRk12WHpRX1VKX3B3YWsxQ3NZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Coimbatore election results 2024 live updates: DMK's Ganapathy Rajkumar P wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZGRLS0c1WXhWQWQ4WWQ1WGtRVS1sXzhKV2Q0MlhQY1RYcXAzR0FYTHoxNm9NM1g4dzh5cWpKa2s4aHdJajRqMk1Pdlg4VllpSnRqczBZanM4UnQ2bGxvdk5tUmVIQmM2SHRKSXpyclU5VkVKQUxPV1JiaU5uSzVKM1FoRy12c2RJcW1ib0VlSHNfejZqMnRyTWFKX0h5NVh3ZVNKaHAwTVJlRkpSOV9ldGZHTHVBV0VVVk9OZllEeXBRUzc3ZjFXYi1uazNUVXBvWWZsb0tEOTU1TFRsTVJkQV8zQ0xidG9oUjZNb0FJRXVSVjZuWjVxMncwNlFlSE5fMkdmTlhoam1tQdIBjwJBVV95cUxPaWxSSkt3djZ6UXpHQmFKZGVxZlBDQlRGbDA1MUNKWlZYQ2NHZUNMbFlhcDZwSUw0M29GQUlnMXlaa2ZpVlBsUVdiSzB1eEdxOWpIZUE0blFIVlNNU0pIUVpla3hJckFPeWp1ZWlYb1RZRjZncFRKQ3JOZHdKTVRBa0paMnBSTXpBYUR0Uzl2ZVVVN3JIYW1vNDh5R2JXbXR6MFdXTmxZaVcyZVNfTVFUVWlsSnhFTEhqS29ISEhqSXNuT2xnS2lZX0NkR2VMUkNraTFlWEhTV3VaclZaNHY0VXhBTElUT3dpR20yV2VSeHhLZ2FPMHptMElhT2F1c1M3NldNRUcxSEhHVVNrVkg0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Coimbatore MP calls for naming city airport after former CM Karunanidhi - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZlZzeUlPUDhhdEFQSExfTDNROEdDb1dkTkdUcmhZRHRwQXZxaEU2NDJ6RjVqaUVLOS1xczhEZTNBVENqb1dmSzFVSDhkZ09QbFNCWGJUbEtGRnh3eEU1RGRIYnpXMHB1dEVxREZWbkw1Q2pMUDFjWGFFRVNoMzU4cUUxS1VoMXFsYlM3elFwQnJrb1h2dFQ5WjJJTXlUZjhMenBCdm84YmFLczR0UG9rX0NVNFBoVWpZT1Z5MUhjdDBUb1RQN2pBazhkNTFnb1ZLSzdWMjlB0gHcAUFVX3lxTE9IVmFmY0pfVnQ4NDIyLWZoQ0dENzA1TEFaSnRiRnRwWXVNbXJOeXRBS1VubDZVa3dOcVM0ZkdSTkJTTmVaaHhldFZuQ0dBajlyU2JrWkZXVFRaMGF1VFlFNWFaNEd1Ni1hVEdNUnpEVUx1eWlkTlFZNVJzcGpXTVlRaVA0YUZrUGtRN200V21RQjdZOWUzTkNtRnFUSVdGVkRyaHAtWFYyamliajRVRG5TQWRuZDlic3UtamVpYkQ4eG1JemZjbDhsS096MlNrNHNnSl82U2ZqaTMycmM?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:35.770848Z",
+    "collected_at": "2026-09-02T14:35:02.892414Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +222,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.352849Z",
+          "fetched_at": "2026-09-02T18:38:09.821357Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +238,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.352859Z",
+          "fetched_at": "2026-09-02T18:38:09.821374Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +254,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.352864Z",
+          "fetched_at": "2026-09-02T18:38:09.821382Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +270,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.352868Z",
+          "fetched_at": "2026-09-02T18:38:09.821392Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +286,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.352873Z",
+          "fetched_at": "2026-09-02T18:38:09.821404Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +302,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.352878Z",
+          "fetched_at": "2026-09-02T18:38:09.821411Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +318,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.352883Z",
+          "fetched_at": "2026-09-02T18:38:09.821421Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -290,22 +364,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Retail outlet for women SHGs opened in Coimbatore - The New Indian Express",
-          "source": "The New Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHVNaWNEOFJ3eXBwOUJKdERNN3FKOFhQanQ4QnplUGNSMFp2eFA3MDJ6U0FEV0MwUXdSMkVaS19wb0UwZkNDWUxOX3FnVTVobVBIeGJwMXJ4aUdWMno1REZMdVMzLWp4amNlOGpMUjNMOW1LV09KNUpoRW9aT3NBNFZ0T2Nia2lNM0FTbDdjb0xYSElIRE1KUGtVaURNQlU1Z2lkZnZhcTVpOUtmZnVTMTlB0gG_AUFVX3lxTE0zLWlPd1RwU1JDZ05zWkh6TFhSblhHNUFnRmdUQTFBZGliTnE2Q2F2d2NsUnZKcEsyZEhEYXRmeFNVV2I2aE5yQ0J6SkZpNFZ3c3l0WFFRY0xjSDNWaS1uU3cyWWg4QUtvNGhvS215M0thVGN0ZnpEaWtxRVZRVlU4OV9DR3VSVWJLNHVQTHAzVlh3dldtZVNHLS1XY3J2amRuVHV2RTFvZVlFc0lSRk12WHpRX1VKX3B3YWsxQ3NZ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Coimbatore MP calls for naming city airport after former CM Karunanidhi - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZlZzeUlPUDhhdEFQSExfTDNROEdDb1dkTkdUcmhZRHRwQXZxaEU2NDJ6RjVqaUVLOS1xczhEZTNBVENqb1dmSzFVSDhkZ09QbFNCWGJUbEtGRnh3eEU1RGRIYnpXMHB1dEVxREZWbkw1Q2pMUDFjWGFFRVNoMzU4cUUxS1VoMXFsYlM3elFwQnJrb1h2dFQ5WjJJTXlUZjhMenBCdm84YmFLczR0UG9rX0NVNFBoVWpZT1Z5MUhjdDBUb1RQN2pBazhkNTFnb1ZLSzdWMjlB0gHcAUFVX3lxTE9IVmFmY0pfVnQ4NDIyLWZoQ0dENzA1TEFaSnRiRnRwWXVNbXJOeXRBS1VubDZVa3dOcVM0ZkdSTkJTTmVaaHhldFZuQ0dBajlyU2JrWkZXVFRaMGF1VFlFNWFaNEd1Ni1hVEdNUnpEVUx1eWlkTlFZNVJzcGpXTVlRaVA0YUZrUGtRN200V21RQjdZOWUzTkNtRnFUSVdGVkRyaHAtWFYyamliajRVRG5TQWRuZDlic3UtamVpYkQ4eG1JemZjbDhsS096MlNrNHNnSl82U2ZqaTMycmM?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Coimbatore Lok Sabha Seat Result 2024: DMK's Ganapathy Rajkumar P Defeats BJP's Annamalai by Over 1 Lakh Votes - ETV Bharat",
           "source": "ETV Bharat",
           "severity": "low",
@@ -314,11 +372,27 @@
           "sentiment": "neutral"
         },
         {
+          "headline": "Retail outlet for women SHGs opened in Coimbatore - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHVNaWNEOFJ3eXBwOUJKdERNN3FKOFhQanQ4QnplUGNSMFp2eFA3MDJ6U0FEV0MwUXdSMkVaS19wb0UwZkNDWUxOX3FnVTVobVBIeGJwMXJ4aUdWMno1REZMdVMzLWp4amNlOGpMUjNMOW1LV09KNUpoRW9aT3NBNFZ0T2Nia2lNM0FTbDdjb0xYSElIRE1KUGtVaURNQlU1Z2lkZnZhcTVpOUtmZnVTMTlB0gG_AUFVX3lxTE0zLWlPd1RwU1JDZ05zWkh6TFhSblhHNUFnRmdUQTFBZGliTnE2Q2F2d2NsUnZKcEsyZEhEYXRmeFNVV2I2aE5yQ0J6SkZpNFZ3c3l0WFFRY0xjSDNWaS1uU3cyWWg4QUtvNGhvS215M0thVGN0ZnpEaWtxRVZRVlU4OV9DR3VSVWJLNHVQTHAzVlh3dldtZVNHLS1XY3J2amRuVHV2RTFvZVlFc0lSRk12WHpRX1VKX3B3YWsxQ3NZ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Coimbatore election results 2024 live updates: DMK's Ganapathy Rajkumar P wins - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZGRLS0c1WXhWQWQ4WWQ1WGtRVS1sXzhKV2Q0MlhQY1RYcXAzR0FYTHoxNm9NM1g4dzh5cWpKa2s4aHdJajRqMk1Pdlg4VllpSnRqczBZanM4UnQ2bGxvdk5tUmVIQmM2SHRKSXpyclU5VkVKQUxPV1JiaU5uSzVKM1FoRy12c2RJcW1ib0VlSHNfejZqMnRyTWFKX0h5NVh3ZVNKaHAwTVJlRkpSOV9ldGZHTHVBV0VVVk9OZllEeXBRUzc3ZjFXYi1uazNUVXBvWWZsb0tEOTU1TFRsTVJkQV8zQ0xidG9oUjZNb0FJRXVSVjZuWjVxMncwNlFlSE5fMkdmTlhoam1tQdIBjwJBVV95cUxPaWxSSkt3djZ6UXpHQmFKZGVxZlBDQlRGbDA1MUNKWlZYQ2NHZUNMbFlhcDZwSUw0M29GQUlnMXlaa2ZpVlBsUVdiSzB1eEdxOWpIZUE0blFIVlNNU0pIUVpla3hJckFPeWp1ZWlYb1RZRjZncFRKQ3JOZHdKTVRBa0paMnBSTXpBYUR0Uzl2ZVVVN3JIYW1vNDh5R2JXbXR6MFdXTmxZaVcyZVNfTVFUVWlsSnhFTEhqS29ISEhqSXNuT2xnS2lZX0NkR2VMUkNraTFlWEhTV3VaclZaNHY0VXhBTElUT3dpR20yV2VSeHhLZ2FPMHptMElhT2F1c1M3NldNRUcxSEhHVVNrVkg0?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Coimbatore MP calls for naming city airport after former CM Karunanidhi - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZlZzeUlPUDhhdEFQSExfTDNROEdDb1dkTkdUcmhZRHRwQXZxaEU2NDJ6RjVqaUVLOS1xczhEZTNBVENqb1dmSzFVSDhkZ09QbFNCWGJUbEtGRnh3eEU1RGRIYnpXMHB1dEVxREZWbkw1Q2pMUDFjWGFFRVNoMzU4cUUxS1VoMXFsYlM3elFwQnJrb1h2dFQ5WjJJTXlUZjhMenBCdm84YmFLczR0UG9rX0NVNFBoVWpZT1Z5MUhjdDBUb1RQN2pBazhkNTFnb1ZLSzdWMjlB0gHcAUFVX3lxTE9IVmFmY0pfVnQ4NDIyLWZoQ0dENzA1TEFaSnRiRnRwWXVNbXJOeXRBS1VubDZVa3dOcVM0ZkdSTkJTTmVaaHhldFZuQ0dBajlyU2JrWkZXVFRaMGF1VFlFNWFaNEd1Ni1hVEdNUnpEVUx1eWlkTlFZNVJzcGpXTVlRaVA0YUZrUGtRN200V21RQjdZOWUzTkNtRnFUSVdGVkRyaHAtWFYyamliajRVRG5TQWRuZDlic3UtamVpYkQ4eG1JemZjbDhsS096MlNrNHNnSl82U2ZqaTMycmM?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +426,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 7,
+      "starred_questions": 2,
+      "unstarred_questions": 5,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 13.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +442,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +473,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +500,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 890,397,608. MPLADS utilization: 14.9%. Parliament attendance: 90.0%. Questions asked: 7. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:52.353930Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 0 pending, 1 conviction(s). Parliament attendance: 90.0%. Questions asked: 7. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.822650Z"
 }

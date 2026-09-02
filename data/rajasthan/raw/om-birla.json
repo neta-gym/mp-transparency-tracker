@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 106206645.0,
-    "liabilities": 0.0,
-    "net_worth": 106206645.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 59.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 3.8,
-    "expended": 2.51,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:45:00.538565Z",
-        "notes": "Official eSAKSHI REST API — Works: 52 recommended, 44 sanctioned, 9 completed"
+        "fetched_at": "2026-09-02T14:30:56.646167Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:14.917707Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:14.915768Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 52,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 17.074829931972786
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:21.310994Z",
+        "fetched_at": "2026-09-02T14:27:14.914959Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Om Birla's office tried to derail Rahul Gandhi's Kota event, says Ashok Gehlot - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS3JVaE5tSXRDOUlzZzR2WjhKbWh2UUtYWDZ4cXJNRFpQYUcyblJ2M2ZYT0hael9XX0ZPRkN3S2hXZWRKaEthZzB6M2Z4V1hia0lGd3hoRkd5Zm5aWHJRQ29rU1RTSm1DanB3Z2tqc0hYc1c4NkJQM2xDb0VYRkowM2p2NExXZ0xVM3BFWTR5aEZCcTNvVW1LaXZ6eXlfc3lSQUM4RUFlZ2hvQm9UWEs0WE8xNWZ4WER3VWRYZnhkSnNBeHM2UTU5bkZhRHZtRENSR3F2VHZVeTV0Y0M0M3FCamxrU05hWE3SAewBQVVfeXFMTVJ5VkZhaXhqMXNIdS1tUnE2d0lWZldaaUh0a1V3eTQtQ1VwUGRlelNKUHVmc1JoYnRidHBvY3VxX29Oa0dWZzhwWDY4c3pCa21BeTBLdTYtZjJPMHluMmc2Q2dXU0VoRm5JMmstVk1DaVpIcmFPNDRNQjRwb0tTM3pLSk9EU0RkMzNkNmk1ZGYwQnVjN0hWZ1N2bW93VTVwQmhxeUVHU2lXRDBpdHZKTEpIMzc4OTUwRWNMVWQ0M280eHpDSGd4WlhCazNMbFlYazEyeUNDbEIySWd6S1ljWFZSN1ZjNkdadG1EcnQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Om Birla hands over Rs 5 lakh cheques to families of women who died during treatment in hospital - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWdFQlhzTVN2V0pvS1RKZEI5Yi1mUGtKdVFJQ3RyckNjdW9sTnRBSlRxemlXTUhaTWNDMFV3MWZOT0JVZnZ5aXpOcDFkMDJMamdrRGFGMnlUUkhUVV9LVVBCMTVDdkJpdU45SUIyeVdiZGp4SjhYdDdBdnZUUFo4UGxQTm1HTGE0T3M1eEFVS0NlUEZEeVZ2ODVIMXUtdnBBMEdiOXJ5d3BJam1GRHhVX2hqQ2drT3FELVVybkFkNmI5cXl5c0RYeklrVDBSeENlYk1mMXp2eWxNcDNSY1dYVWRaN0tfTGZQQXdYNmdOUzdBUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajasthan: Om Birla inaugurates Rs 14.5 crore worth projects in Sultanpur - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEFtSi1wRWZfajVQbklhZ2tBNEFYcTZXQmx1c204TjNHc2xEQlloQUZvdVhvb3pIUHIwMU5tYW9VeExJZ0hBaHZUOWdJVW42eDRBZkFYd2w0bEFTdS1LV0x1TUdLc1lTNVZvWHZMRTRleTR4Ry14dEJ2dXA1ZTVpQkF1RWlVeUpVNnZKd2EtMnZ3X0REUEVzWk5TU1FEZF8ybmh3WUpFU0JaVmvSAbABQVVfeXFMT1JBVUR2RTBRZ3F0SmJ0U2pSekg0VVh1RG00cjJ4aGZIMnhfWmV5aF8zenVRWEk4UEJ4RVFYdVNsV0pKNGNYZ3lsWDh4YV9ZUjNFOU5MNmFLcDFjcXpfX1gxRktMTjkzdFZHczAyQ040OFpNQ05Wa0lEQUlPSlZJbHNIMXhaQVJkUGc4dEtDclhpaVgzVkRzVkpIc1hmY0hSVDJmYU9tTkJkcDJrdEdHQXU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "One dead, five critically ill after alleged post-C-section medication error in Kota hospital - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYlZKZUkwRUlIclY3WlNZMzVGSUxHT1lwcE5XZHlQOFFPMHN2ZGw2TXVkV2R1UWszUS12LVRkOWFUa2xjbjJybGlfODVGRS01VS1jMjMyNmRHd0prRUNqc0pIQkpBN1RpakMwM003a0txY0xILUxmUE50bHBNMERNRUU3MXpYdDZlektJU09adHZBSFBGSHZPdWt6eFAyMnVXOHVRR0lkb1VsTmRwQmZ6NFBoTHNVb0pUNnhkSFUtczNPQnE1Z2VFR3F0S3BPV3VzbU1hSVpSWWxhRUpEMjlGYThUMjh1emNT0gH2AUFVX3lxTE5zNzBBcUdFT1JfSWtSUkhKdWVpWkdnWXZKZmZsS01tSGRYY0pCbVBjd25KWVY2UnhIaUFwRUMwYjFBR3VPR2hoakI5N3NFQXpzWDJVM1kzM3dzNmdhZFdqTHpiNlRqeDBhS0w4TUVRUEdwX3FsWERMN3pCckFIUFhrT0JmbUt3a0NtY0Y3dDlVY25mWVJ3SDN1Z01PX0ZxOE5xR2Q4ZFFDa0gtdzY3bmlIdmRPMGxjY2J0SHdnZlNHM0JvODQ3bjVRc1VibzlOa3FUVWRRQTZfMjRUdS1YTFoyNVp6a290c3owdmljelhKTWhsRkcwdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ashok Gehlot accuses BJP of blocking students from Rahul Gandhi Kota event on NEET leak issue - Careers360",
+      "source": "Careers360",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1o3Q3ZMTHlVeTB6WWRkTklTVmZtUlBkQzJBMzl3YzB0SHZST0FoUjJsSW5zRFFWVDY2RnpXQWZxeE1rY0tDUWkxSmNrSWJYN0J4bGVJWlhoRTluSE85R3hIRjdRUVJkc3czZTlxdldsay1pYXc5OVVSbGlfc2xTRmh5MENpbjcxMlVDa2s5ZVVXbTNGZ3JUeDVKWm5yWXBhNDAzMlhhX3Z0S2RpUnJsaUN1d3Z5aWZ6YkNqUG930gHDAUFVX3lxTE14RkN6dE9CdlF0VEwzSzRmS1RXV0hOM29VNWdtMUtoSjZxa0dMamtnOG9GcGlENlplYnRBdS15VDhVNmVVQTJHV0tScWV3VE1zajNXWV9wbXhrOW5JTGRzUG5fWEVSRHIzVHJVcDcyMU5fZFdqak1tMjRVVmptTDlsc0VlYzllMXpvVUlkNl9fTnFuZWpFby0wV3dSVXFCczduWG5WNTNDeFBxa2doSkpTU3ZQclJKTFdsVndJNnRNak1rYw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:20.154238Z",
+  "collected_at": "2026-09-02T14:30:56.646970Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.108122Z",
+        "fetched_at": "2026-09-02T18:38:09.528630Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.108130Z",
+        "fetched_at": "2026-09-02T18:38:09.528641Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.108135Z",
+        "fetched_at": "2026-09-02T18:38:09.528647Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.108139Z",
+        "fetched_at": "2026-09-02T18:38:09.528653Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.108144Z",
+        "fetched_at": "2026-09-02T18:38:09.528660Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.108148Z",
+        "fetched_at": "2026-09-02T18:38:09.528664Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.108152Z",
+        "fetched_at": "2026-09-02T18:38:09.528669Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,18 +296,67 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/ombirlabjpkota",
+        "url": "https://x.com/http://www.twitter.com/ombirlabjpkota",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/ombirlabjpkota",
+        "url": "https://facebook.com/http://www.facebook.com/ombirlabjpkota",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:27:18.693160Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 1,
-    "negative": 1,
-    "neutral": 8,
+    "positive": 0,
+    "negative": 0,
+    "neutral": 10,
     "top_headlines": [
+      {
+        "headline": "Om Birla's office tried to derail Rahul Gandhi's Kota event, says Ashok Gehlot - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS3JVaE5tSXRDOUlzZzR2WjhKbWh2UUtYWDZ4cXJNRFpQYUcyblJ2M2ZYT0hael9XX0ZPRkN3S2hXZWRKaEthZzB6M2Z4V1hia0lGd3hoRkd5Zm5aWHJRQ29rU1RTSm1DanB3Z2tqc0hYc1c4NkJQM2xDb0VYRkowM2p2NExXZ0xVM3BFWTR5aEZCcTNvVW1LaXZ6eXlfc3lSQUM4RUFlZ2hvQm9UWEs0WE8xNWZ4WER3VWRYZnhkSnNBeHM2UTU5bkZhRHZtRENSR3F2VHZVeTV0Y0M0M3FCamxrU05hWE3SAewBQVVfeXFMTVJ5VkZhaXhqMXNIdS1tUnE2d0lWZldaaUh0a1V3eTQtQ1VwUGRlelNKUHVmc1JoYnRidHBvY3VxX29Oa0dWZzhwWDY4c3pCa21BeTBLdTYtZjJPMHluMmc2Q2dXU0VoRm5JMmstVk1DaVpIcmFPNDRNQjRwb0tTM3pLSk9EU0RkMzNkNmk1ZGYwQnVjN0hWZ1N2bW93VTVwQmhxeUVHU2lXRDBpdHZKTEpIMzc4OTUwRWNMVWQ0M280eHpDSGd4WlhCazNMbFlYazEyeUNDbEIySWd6S1ljWFZSN1ZjNkdadG1EcnQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Om Birla hands over Rs 5 lakh cheques to families of women who died during treatment in hospital - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWdFQlhzTVN2V0pvS1RKZEI5Yi1mUGtKdVFJQ3RyckNjdW9sTnRBSlRxemlXTUhaTWNDMFV3MWZOT0JVZnZ5aXpOcDFkMDJMamdrRGFGMnlUUkhUVV9LVVBCMTVDdkJpdU45SUIyeVdiZGp4SjhYdDdBdnZUUFo4UGxQTm1HTGE0T3M1eEFVS0NlUEZEeVZ2ODVIMXUtdnBBMEdiOXJ5d3BJam1GRHhVX2hqQ2drT3FELVVybkFkNmI5cXl5c0RYeklrVDBSeENlYk1mMXp2eWxNcDNSY1dYVWRaN0tfTGZQQXdYNmdOUzdBUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajasthan: Om Birla inaugurates Rs 14.5 crore worth projects in Sultanpur - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEFtSi1wRWZfajVQbklhZ2tBNEFYcTZXQmx1c204TjNHc2xEQlloQUZvdVhvb3pIUHIwMU5tYW9VeExJZ0hBaHZUOWdJVW42eDRBZkFYd2w0bEFTdS1LV0x1TUdLc1lTNVZvWHZMRTRleTR4Ry14dEJ2dXA1ZTVpQkF1RWlVeUpVNnZKd2EtMnZ3X0REUEVzWk5TU1FEZF8ybmh3WUpFU0JaVmvSAbABQVVfeXFMT1JBVUR2RTBRZ3F0SmJ0U2pSekg0VVh1RG00cjJ4aGZIMnhfWmV5aF8zenVRWEk4UEJ4RVFYdVNsV0pKNGNYZ3lsWDh4YV9ZUjNFOU5MNmFLcDFjcXpfX1gxRktMTjkzdFZHczAyQ040OFpNQ05Wa0lEQUlPSlZJbHNIMXhaQVJkUGc4dEtDclhpaVgzVkRzVkpIc1hmY0hSVDJmYU9tTkJkcDJrdEdHQXU?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "One dead, five critically ill after alleged post-C-section medication error in Kota hospital - The New Indian Express",
         "source": "The New Indian Express",
@@ -261,35 +366,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Om Birla fully dedicated to Constitution, holds deep respect for parliamentary systems: PM Modi - ANI News",
-        "source": "ANI News",
+        "headline": "Ashok Gehlot accuses BJP of blocking students from Rahul Gandhi Kota event on NEET leak issue - Careers360",
+        "source": "Careers360",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPS09PeEdHLU9Ha0NPTEtTU2RjSDdrNnhZYW4zNFRWaGRSYlNzUnZTVm83NVp2VnBtVkNNcXNVemp4RFI0WjBsYS1EX1dhZlYzbEd0cDVCWDZNa0U5ZzM5enZSQVZHaU1OcjFFcVBLN0xkUG9oVW5mSEhBcjNSYlZPcUJ3R3VpTFFuWjNHV2tvM1VrSElYMkNsR3lMU0ZpcDhYaXVLYTJDRU96Sm16S2l3M3Ytc0IzRXlIc2JJSThNWnVDbUQwc0Nqa3JsNklkUFpteFc0d1p5d2oxUllhUzVmbHhHT2twdW83?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Man detained in Kota for threatening to shoot Rahul Gandhi, other Congress MPs - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRlYzZHpzaDRUNXZNMDljVGFzQkRTWXAwa0RxS2hnZUlaRjFENTF0ZE9sUGVrd3BSZy1nYzlQU1NlN25nUjl3dFFWYkM2WE1pOTNmT3pBdGIwcHdUeHdqQ1l3T2xodTktN2lOdWNTX2NDbjA0Um5MZDdYMjczWUxFckF6NFowcnVxSkVPeVRub2c4WGw4LUxMSnBFNEFTZHpTT1BsYVNTclp3YnNob1BBX3ZWZFNOaWswRjVHSWFuNXFRVFJNN2RoVDRnUHJsTW43cGw1M19fLXc2ZndyX1VB0gHmAUFVX3lxTE40eWFQODVMajZzY1ZTQzJXM3NTamRPOXZTRmx3eWpvZmE3anhVcjZmVEw5YXZaa0M3NzYxUV9oYUVfNndhTDB6anlJQmNVZ0NYemNjQ1lCZm1DWXFPRHoycFVxTlh5YkZYNV9zaFFieng5MlBSNEY3dDdUWlgyN2VVbEhuUmR4WlNJdkJaUlp1bi1FN3JnRUNROGhkU1l2ejlkdHZmVWNqUUFGcDlkdEtNRzBiMVRYUWRFNG12TTRKOW02YWxmUVRnMjVjWTBrZHpLdnBrdjkwbVVBX2gwNXJhamx5V3p3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kota man arrested for threatening to shoot Rahul, 25 Cong MPs in video posted online - The Times of India",
-        "source": "The Times of India",
-        "severity": "medium",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcDJwamJKMWEtZ3EzNUFfZFM3Z0o4U0c0aFRfYldjNzlOR3JBVENaWktCZFliV2FKZlBSQnBveW5rOUdsZ2ltNGxMdVdaNzNPc2ZMQkttVDJCbHdyY1Q4ZnQxYTVxbml1eEJ1NWVYVnhnTGlMTF9jTWFrNmdTVFhuTjFGb0NfWjI5eUppY0RNYXREMlpOVUxsRkFZdjhpMVRQb0swcEIzZDZEb1o1QUdjeHEzNmc0VTlxdGJ0UmlJcXJMS2VsUEs2RThRQXFmTGtJS2UwMVFQT25kN2Etc1dXR0pmMkJkUdIB6wFBVV95cUxNWkNlRV9qMHNDa1FOZk1FWkFCYUlJTnI1WVloRjlfV0FqRG1lb0Z0cUtWZmdWN2ZnR1VMY0Z6MHRhbVJ0ZVhBOV9BYUxLQ1RDZS1mQllVVWtCNmtoaXhmSU5VRmIxNURwRGt5aUJjRTlqQW1IdGR2SDBheFVZZEg0ei1KTzdoQ2tJaHpNQ1I2ZG9rWEVaTDlIdmxqWVYtNUEwOEZaWUhrTWxNV0RLWlFYNklBODVteHkwZ3I1ek0yWk1xQkxSam56eE1UcDBVT0FrNWxPanNiWHAyUEtydGpvZXVDQXhBQ1Fyblln?oc=5",
-        "sentiment": "negative"
-      },
-      {
-        "headline": "No-confidence motion: Speaker Om Birla to skip LS proceedings on ‘moral grounds’ till disposal of notice - The Statesman",
-        "source": "The Statesman",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUFJuemg0ZDZaSUx2SnBWN255bzRoTUpoNjVjb240SllWQzNnT0NIQkJmZ0RCUkV0cGtxaGQ0eVAwVS1wbVBHTEMycFo4TGtGZ1dDeG5jU2x1dGdLRjkxbHFwLUFxSlhrUEk5M2pneVB2T3ROdkpCMU04bW1hV29wRHNmS0lQWVFnYWJzc29ESWVSWGRPZHMwM2t4SEhwQjA2b3ZTcEt2RFMyWlZYc2lKZTNxX3dHRGpWMkZlZGN4aUtVbzNGeDBPOFN4Y1RqUm5WamVEWFVCVVZBZkFrbGpxMHllY2dGVFZFMHlmUTAzN1MyNHNOcG5nZGRVbHdQTkFZTUFTbmtWLUV5ZHQ2UDY3b0ZlX3Zab2wzNC000gGgAkFVX3lxTE45VjJJOXFVWHNRQWtJQjk1WDg5MWZhSVJXYVAxS3AtMmZkNXhCaE9zakphd1dJUTlfYmdlMU4wNEtoaGFLMVY4cE1Vb3V3QVFLUnE2Zl92SXc5Ny1INmtaeTg5OTVFS0pYcXh0QmFGeGN5bEJHNEtzRy1ZUkszUVIzbllhRVhXbWJDUUFGQ19KVlNoQ2xKR2VjZmRIVjZLemsxeUpGUFlKR1BZM3ZZaXB3NHNsZFhGWTBielBURnQ2RWRSSHhvWmtSSkE4dW14ZnUxX1lZb1h2WWRhcEMtSEhYeVFiRmpRZHh0UFJKelptRnN0OHZyRnFlSUU1NFNiMGVWcUczRkctUmxYOGVQTjhkUWg4akhDdk9Sd19Kb0RaVw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1o3Q3ZMTHlVeTB6WWRkTklTVmZtUlBkQzJBMzl3YzB0SHZST0FoUjJsSW5zRFFWVDY2RnpXQWZxeE1rY0tDUWkxSmNrSWJYN0J4bGVJWlhoRTluSE85R3hIRjdRUVJkc3czZTlxdldsay1pYXc5OVVSbGlfc2xTRmh5MENpbjcxMlVDa2s5ZVVXbTNGZ3JUeDVKWm5yWXBhNDAzMlhhX3Z0S2RpUnJsaUN1d3Z5aWZ6YkNqUG930gHDAUFVX3lxTE14RkN6dE9CdlF0VEwzSzRmS1RXV0hOM29VNWdtMUtoSjZxa0dMamtnOG9GcGlENlplYnRBdS15VDhVNmVVQTJHV0tScWV3VE1zajNXWV9wbXhrOW5JTGRzUG5fWEVSRHIzVHJVcDcyMU5fZFdqak1tMjRVVmptTDlsc0VlYzllMXpvVUlkNl9fTnFuZWpFby0wV3dSVXFCczduWG5WNTNDeFBxa2doSkpTU3ZQclJKTFdsVndJNnRNak1rYw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -339,7 +420,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

@@ -4,16 +4,16 @@
     "constituency": "Shimoga",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 4005,
+    "myneta_candidate_id": null,
     "slug": "b-y-raghavendra",
     "house": "lok_sabha",
     "sansad_member_id": 4570,
     "profile_url": null,
     "canonical_name": "B Y Raghavendra",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/4570.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Shimoga",
       "state": "karnataka",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 4005,
+      "myneta_candidate_id": null,
       "slug": "b-y-raghavendra",
       "house": "lok_sabha",
       "sansad_member_id": 4570,
       "profile_url": null,
       "canonical_name": "B Y Raghavendra",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 50,
+      "age": null,
       "photo_url": "/mp-photos/4570.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,96 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "Cr.No.0124/2024, Dated 23-03-2024, Chitradurga Rural Police Station, Chitradurga | Section 125 of Representation of the People Act and Section 7 of Religious Institutions (Prevention of Misuse) Act 1988",
+          "ipc_sections": [
+            "171F"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "1st Addl. Civil Judge(Jr.Dn) & JMFC Court, Chitradurga Dist. Chitradurga",
+          "fir_no": "Cr.No.0124/2024, Dated 23-03-2024, Chitradurga Rural Police Station, Chitradurga",
+          "case_no": "",
+          "other_acts": "Section 125 of Representation of the People Act and Section 7 of Religious Institutions (Prevention of Misuse) Act 1988",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "Yes",
+          "appeal_status": "Honorable High Court order dated 16-04-2024 has stayed the investigations and all further proceedings in W.P.10412/2024",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:29.082721Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 737145310.0,
-      "liabilities": 136106691.0,
-      "net_worth": 601038619.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4005",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.536963Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 89.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.61,
-      "expended": 6.13,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:07.720008Z",
-          "notes": "Official eSAKSHI REST API — Works: 248 recommended, 191 sanctioned, 40 completed"
+          "fetched_at": "2026-09-02T14:58:31.503057Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:54:49.859588Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:54:49.856702Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 248,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 41.70068027210884
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -110,7 +144,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:30:09.994323Z",
+          "fetched_at": "2026-09-02T14:54:49.855684Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +152,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Efforts on to handover Shivamogga Airport to AAI, says MP B.Y. Raghavendra - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQnAxSFFRRnBWT2N1QWpvd0FiZlNpdVZNcTdxeWl5ZlVZUlNKRGxabm5zM0ZCOVEzb19BMEFoSWFEbWhOWU55ZW9qaklnT3ZFTW52TTVJUVhaS1A3SjhnMHdsWkhFRWdROV9rcVhPcHJ2S1JEdjlFWmlabnVraDBPalpfSk1uMXIweTA2cGFJU1lTZjN1ampxN29TeHhGblhham55amF0WGxfNEVKdXg1ZGlyVkpWdlhBazlwb0hoZEFmSC1Mdjk5T3lEbXdvb0V1QW0tVldCONIB3gFBVV95cUxOYXhxZlhLc01XeEpsbTN0VG8weEt1Y3lGZDBDMlRLUVRGTTBNLVJyVmt4X2phczE1Z29qMENLaWlya1JjY1dvVU1FeDR5NXVTc0hSNXBEenhaalhuMEM5QXRyUGlHblBaS3VSSlNULXJDc0dUM2xlLXJFZ3hYUzZwM2Y2OFdlc0E1cDBQbnZMYUlEc0xpRzBmaFNaRmpHNHFFRFNNZk5tbTU5bTRMREE4UDFnTHJYVHhfdklmUVhOd0xKU2xtTkZXRWZzYTBIZzZqZWJydS04N2ZDMEs0Z0E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shivamogga MP meets Governor over High Court Circuit Bench in Shivamogga - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNkNHMFNwZWl3Vi1vNlNQS01CaUJxSGtzMnJybHNVVXp3ZTlaWTllODR3bV9tbG1BbWdBWEJmOEIxX1dWa3dsLVNKYTFyV204TFFQVTBSYTRZQkFkY3F6WXViZVlzeDZ2ZW5YMmRzM0ROZWpPRUJSV2w5RHBRTkdSaXVhWU4wakF0MmhORzlBVVJNdVlDblBUUTFuX2p0b1ZhWUVycVo2OHFqaHBQWndUSUtFYjdCc2NWNWJIWkwtVVBubEM0V3BnNlRXSDVlMWFWUnZqdWJYMXfSAd8BQVVfeXFMTjdKUU0xQlUzSWpLV3RVdnRLUXQ0ZE9ScDhmZ0haVFdac1FWbDJZTlAtUmpVX0dPRVZPMlFOMHJtSTVUb1F6LVMta29jLVExdTlBSllZMk9RanlZblU1Zl9Dbnh6d3p4VW9IeVhpSHUtaHByN0tXUFBEX19palE5NkJ5Yi1tbnd6SVhxTjBXYzVmRG9MTmVvZzlqVmxDc1MzTTl6cnkzeW5YeUc2bXdWd045aW1FNU5Wc2Nmd3l6eEhnbEVob1NtWDNRbUE4TUgyb0VLdk9PNmE0YjBzWGYxaw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "No proposal for nuclear power plant in Shivamogga's Besuru: MP B Y Raghavendra - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTlSSFdoSVFlajk4dnJGc2pRV2V1RWVURDlucWpid1E5d3dLbXlYX3YydzFEVHNzV25qSVBFelpZbjVHa3JIV29NRG1vbE13VGxpbnYwOUlDenBOcVZGaER0YjY2czc4cWxVOUx3TU91TnM1ZlhGQWhKeUc2bFBIbnh6OWw1Z3BDdWZ5NHNTZ1I4eHEtbktiZ3BBVEFCQldpaDZEMElhYUI3LXMxaGotSnJmQ2R2S08xRWlrZnFtaWZFd28yTG82VQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Areca trucks stopped by FDA in Maharashtra; traders meet MP in Shivamogga, seek help - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNUNsYmxIS3lNMmZjZFVHcXY0YzN2d2IzREJOalpHa29xREZZOGxiYmNNenFhQ0FsNjhITEpiZk5FcERNSHJvVXVQYjJRbkxFblIwZTVJVnZreFppQlZWa3U4Tmozc0tQcVdVc0FWMHpHc0dtcy1nb2lCaUFMZE9taDhaQmlRbFNmSVhpWllCNldpMUtzRmFXYVFpYU1yaGVEbGRoZnFzUF8tN2dOVmh6eWlrcTZSQ3dkS2hXbVVaeksyNWtCS04yNHVJbXZJQVU2WnZFcUtvU2ptVFo0TjFrM3RmQVRVZk13cnhTdEp2UW9faUNDSDRUX1ZENUwzd2dob0ZvY2xOMNIBjgJBVV95cUxQN2tBNHRmcXRSaUlyT3hlNHBReDB3YmtkZXRGdlR5QkRPOGczMnhQamZlbldnR1MwV01fMHlyb2k4VllnTVZ0RzlpSjVXcFo5LUJnZmljYVpiaV92OVNzcXZscjlsWktNSk1LbVhPYzRCVHBhQzlhTlVNOTR6U1JLZHBmcng4cUt4TEtYYlZaRHg1OGUzdk9vWHdrN3M2Y1lSWE9hRjNIYjVyRWx4bnpmNml0S1Y2b2JnTkpMQzBpXzJPTThxaG9yZFhlRHpIVmNEQ0NIcFA0U2xZUDFOcG9zMnVLdTRkTUhNRUxvUVlsVGR2TjF6NVVNNnRhLVVONGJhTUlKTy1XZHcyc2tRR1E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shivamogga MP writes to M.B. Patil to ensure Shivamogga-Bengaluru flight services are unaffected - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY21JRHMxZmhfQXBuNG1VTll0Q09DS2c0LWdjbVI1MC1uUEh0OXFHa3BmQjlhVjZ3dE1XaktNSmtUSDRoWm1QYVlqZXZIeVZueG9EQnZqcWlxRnczNlVNSzNzMmYxUndDWUk1eF9JbEJzaFg5NnJlZWFONkpwUnNVSndNVnNiYlJrNmd5Z1gycUZMN1FWQnlWSWpuQTJjUU5HOXhfTmYxLTBvOUtmWFo2Y29UY1pSc3dYT1B2dWU2cVJwXzdXX2xXNWFMcGp0WEgzMkRPRmNrNFhmNUxCUDdBUDJOcFhfMjhjLVZqMi1LeDRFVzRkdmfSAfwBQVVfeXFMTjIya2NZc0RsTlR0bTJYb1llTC1rUk5lbkh4MVRyNFNJUHhKamZjYlBIM1M1ckpEemJ6Sk1aS0JGSlVrMkttN19Yd0pFNHUwV09PczIxWmY2MDZjV3B2clhjWEZBNkxOQlhTdFhITlYyM0pxVkIteHVXbnR1Mmt2MDRZMjNtZ2dPZkVYSk9pSXl2bVY1aG5INkR3dno3SjZnNkotckFxbWhiTlhhNlJ5SVpYcHV2REJxZV9qOVFLc2ljUDdEdnY5NlZoLTlKMlVKcWhuUzVaaFFnU21iSHd4dVY1dE5xTDZUZUt4em5McDlhRFlTTVpaeXBQT1dp?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:31:13.538475Z",
+    "collected_at": "2026-09-02T14:58:31.504319Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +221,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.913579Z",
+          "fetched_at": "2026-09-02T18:38:06.453193Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +237,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.913589Z",
+          "fetched_at": "2026-09-02T18:38:06.453205Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +253,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.913594Z",
+          "fetched_at": "2026-09-02T18:38:06.453210Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +269,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.913599Z",
+          "fetched_at": "2026-09-02T18:38:06.453216Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +285,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.913604Z",
+          "fetched_at": "2026-09-02T18:38:06.453222Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +301,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.913609Z",
+          "fetched_at": "2026-09-02T18:38:06.453226Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +317,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.913613Z",
+          "fetched_at": "2026-09-02T18:38:06.453231Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +342,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://www.x.com/byrbjp",
+          "url": "https://x.com/https://www.x.com/byrbjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/byrbjp",
+          "url": "https://facebook.com/https://www.facebook.com/byrbjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instragram.com/byrbjp",
+          "url": "https://instagram.com/https://www.instragram.com/byrbjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:54:52.593373Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -290,6 +396,14 @@
           "sentiment": "neutral"
         },
         {
+          "headline": "Shivamogga MP meets Governor over High Court Circuit Bench in Shivamogga - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNkNHMFNwZWl3Vi1vNlNQS01CaUJxSGtzMnJybHNVVXp3ZTlaWTllODR3bV9tbG1BbWdBWEJmOEIxX1dWa3dsLVNKYTFyV204TFFQVTBSYTRZQkFkY3F6WXViZVlzeDZ2ZW5YMmRzM0ROZWpPRUJSV2w5RHBRTkdSaXVhWU4wakF0MmhORzlBVVJNdVlDblBUUTFuX2p0b1ZhWUVycVo2OHFqaHBQWndUSUtFYjdCc2NWNWJIWkwtVVBubEM0V3BnNlRXSDVlMWFWUnZqdWJYMXfSAd8BQVVfeXFMTjdKUU0xQlUzSWpLV3RVdnRLUXQ0ZE9ScDhmZ0haVFdac1FWbDJZTlAtUmpVX0dPRVZPMlFOMHJtSTVUb1F6LVMta29jLVExdTlBSllZMk9RanlZblU1Zl9Dbnh6d3p4VW9IeVhpSHUtaHByN0tXUFBEX19palE5NkJ5Yi1tbnd6SVhxTjBXYzVmRG9MTmVvZzlqVmxDc1MzTTl6cnkzeW5YeUc2bXdWd045aW1FNU5Wc2Nmd3l6eEhnbEVob1NtWDNRbUE4TUgyb0VLdk9PNmE0YjBzWGYxaw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "No proposal for nuclear power plant in Shivamogga's Besuru: MP B Y Raghavendra - Deccan Herald",
           "source": "Deccan Herald",
           "severity": "low",
@@ -298,27 +412,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Shivamogga MP urges people not to panic over nuclear power plant, says no such proposal - The Hindu",
+          "headline": "Areca trucks stopped by FDA in Maharashtra; traders meet MP in Shivamogga, seek help - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkdGazRZdGkzdEZacm5jTVpzVHBZaWtZRHlWc2lIZUxEU0ppNzVaQU9TLXN2U0lOR1ljSWN0UnN1ZlB3WGg4M2dPaHdVa2RCV0xya1BWNi1SUnZkeVJYeko4MFViYTN4NnNTQ2xBSllCVF9aaEhsb2o0V3pweGNxLTdDLUtzbG9aTnh1OUVvX3hnaml5NFFlWUFhdWRuWmotdWVRTFZadEt1SlZud2RUNWtWMHFVYWpSTktWMm9qbXJ3X2Z6bUVSZUhRLXcyRmNxSGtxX0pnVEdvQ0IwemU0QzNFTm5mNUlfUkY00gHyAUFVX3lxTE9lRlJLTlhMamYyRzhaaHZqbUViSHhvdjlVOTIzM0o3d21tT1dqeXRxUk1mTGV2LXR3R25aWkJ6RjY4YlJncDF5Q09zb2FMVFpXT2l3N3ZkU1NRSzRPSjc0bTZxUzZVRWJSVFdQWEp0WWtVQzdJRmtKU0h3dWtqYUlJRE1XMmtEUkg2bmI1YVJuN280U1J3cEFqX2lLQmlLamc1cnNkVTdtMVdXLUVpU1BxY1NFQS1wb00yeF9UTFRDYU9zaUhuUFJER3VRenhzTU13R1Y2ZUJwSDNSaG9EUmFnSS1EV210M3NCM2QzdW93T01n?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNUNsYmxIS3lNMmZjZFVHcXY0YzN2d2IzREJOalpHa29xREZZOGxiYmNNenFhQ0FsNjhITEpiZk5FcERNSHJvVXVQYjJRbkxFblIwZTVJVnZreFppQlZWa3U4Tmozc0tQcVdVc0FWMHpHc0dtcy1nb2lCaUFMZE9taDhaQmlRbFNmSVhpWllCNldpMUtzRmFXYVFpYU1yaGVEbGRoZnFzUF8tN2dOVmh6eWlrcTZSQ3dkS2hXbVVaeksyNWtCS04yNHVJbXZJQVU2WnZFcUtvU2ptVFo0TjFrM3RmQVRVZk13cnhTdEp2UW9faUNDSDRUX1ZENUwzd2dob0ZvY2xOMNIBjgJBVV95cUxQN2tBNHRmcXRSaUlyT3hlNHBReDB3YmtkZXRGdlR5QkRPOGczMnhQamZlbldnR1MwV01fMHlyb2k4VllnTVZ0RzlpSjVXcFo5LUJnZmljYVpiaV92OVNzcXZscjlsWktNSk1LbVhPYzRCVHBhQzlhTlVNOTR6U1JLZHBmcng4cUt4TEtYYlZaRHg1OGUzdk9vWHdrN3M2Y1lSWE9hRjNIYjVyRWx4bnpmNml0S1Y2b2JnTkpMQzBpXzJPTThxaG9yZFhlRHpIVmNEQ0NIcFA0U2xZUDFOcG9zMnVLdTRkTUhNRUxvUVlsVGR2TjF6NVVNNnRhLVVONGJhTUlKTy1XZHcyc2tRR1E?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Centre sanctions funds for primary surveys of new railway lines: BY Raghavendra - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNy1JSEFLQmZyTHhLLTlCZXNzMWVFQ19GQk1nUGR0bDhkdUtkWi0wMVlkcVhlb3ZwYzFEVlhTUmJPcTVQOFBRck9sRkxPTUQyNm1YWVF5TWFIWVdwWWtTVEJhNkhtMldsb2Fpc2ZCSnNkaGRDT3l4OTlPQnhjeWVnTmVrUld2czZfZnhHS2wtanZQNzBuc3Exb1A5OWJLVkJPZXNJNTREZzhJRGp0WDQ4Ny01c2I4NmVVQmlBUlFRVDRCTDZfeUxfZFZGVEUyUERDUUVmZGF6UkxJenpJN1NhSExQVTVZUzTSAewBQVVfeXFMT203NTZmNEZhdFlIc053b0FxcmJoR2tvcjVTbTl2a0h2V0puc2x2c0I1SWhkcGZOTlF1Wk9PTmtXSHMyYjVVREF0R3oyMHRqemZmT2otalF5UVhha1k3R2FsbFBreG9MVXRjdWR6cUdkVlRJaEtwSHp5UmpYazZJd1NTbUw4cGZBOENZcEQwbklfV3FVbWpYMENrdTZYZTNpQjRvTDFMQ01GSnl0TEREV0hxZ0hsZENLQ014LU1tSXh5b0xXRjFoSFJPZGNqQjdjQTBIdTJmNnZFQ00tZTdTazNMOTVhNkwzbmxOb3Y?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Shivamogga MP holds meeting with officers on road, railway works - The Hindu",
+          "headline": "Shivamogga MP writes to M.B. Patil to ensure Shivamogga-Bengaluru flight services are unaffected - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0pVd3V1MGhfOUZ2UmlkcE5HUDBSa0ZGTkRzbkFtREdTVkVwbnVNY2Q3VVctbDlQcnlEY2hGMFo3enpMbU1NUUdMMHFvR3YzaUZNQlNMeUw4bFBROFJwZVJEaklwS2tYTTJ0aHlDS0M0VkYzMjBmLVkybkZZVE9vVGhyQTN6ektfenEzeC1KaFQ1THZFV3VMNG1Pd3BaX0lEWkN4WVg1MkdsQWlIVUtMQjlpM1pOanJBTDgtRndUdDhrWmNEVndUVnNaUmPSAdMBQVVfeXFMTXBtanV0NnZoNHdCemxSZTFZMmxHemFyWHFRS2dpYUphOE5XTlItbTlmNUNEUHA5elRSLTI3ei1iTnQzdmcwUjhDbFBsQl9JRDBXZDQ4SXdBRl9uR3VOeV84YXYzVkRNcTNSYzY0MWYyVDJYVldwX2Y2QlFPejFNYkQtZGwza3pIbFhGNTdrUHo3b0pVN0pJMVF5RGVjSnhaTnBvN3RUVFNsT0NiN0NGTFNzRVduVGVVd3BUeGNoU25USFFleU5VcF9NUkVrbk1Wcm0yWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY21JRHMxZmhfQXBuNG1VTll0Q09DS2c0LWdjbVI1MC1uUEh0OXFHa3BmQjlhVjZ3dE1XaktNSmtUSDRoWm1QYVlqZXZIeVZueG9EQnZqcWlxRnczNlVNSzNzMmYxUndDWUk1eF9JbEJzaFg5NnJlZWFONkpwUnNVSndNVnNiYlJrNmd5Z1gycUZMN1FWQnlWSWpuQTJjUU5HOXhfTmYxLTBvOUtmWFo2Y29UY1pSc3dYT1B2dWU2cVJwXzdXX2xXNWFMcGp0WEgzMkRPRmNrNFhmNUxCUDdBUDJOcFhfMjhjLVZqMi1LeDRFVzRkdmfSAfwBQVVfeXFMTjIya2NZc0RsTlR0bTJYb1llTC1rUk5lbkh4MVRyNFNJUHhKamZjYlBIM1M1ckpEemJ6Sk1aS0JGSlVrMkttN19Yd0pFNHUwV09PczIxWmY2MDZjV3B2clhjWEZBNkxOQlhTdFhITlYyM0pxVkIteHVXbnR1Mmt2MDRZMjNtZ2dPZkVYSk9pSXl2bVY1aG5INkR3dno3SjZnNkotckFxbWhiTlhhNlJ5SVpYcHV2REJxZV9qOVFLc2ljUDdEdnY5NlZoLTlKMlVKcWhuUzVaaFFnU21iSHd4dVY1dE5xTDZUZUt4em5McDlhRFlTTVpaeXBQT1dp?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +458,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 21,
+      "starred_questions": 6,
+      "unstarred_questions": 15,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 40.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +474,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 80.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +505,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +532,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 737,145,310. MPLADS utilization: 41.7%. Parliament attendance: 80.0%. Questions asked: 21. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:48.914293Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 80.0%. Questions asked: 21. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.453905Z"
 }

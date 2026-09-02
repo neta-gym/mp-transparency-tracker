@@ -4,16 +4,16 @@
     "constituency": "Maldaha Dakshin",
     "state": "west bengal",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 3465,
+    "myneta_candidate_id": null,
     "slug": "isha-khan-choudhury",
     "house": "lok_sabha",
     "sansad_member_id": 5834,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 53,
+    "age": null,
     "photo_url": "/mp-photos/5834.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Maldaha Dakshin",
       "state": "west bengal",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 3465,
+      "myneta_candidate_id": null,
       "slug": "isha-khan-choudhury",
       "house": "lok_sabha",
       "sansad_member_id": 5834,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 53,
+      "age": null,
       "photo_url": "/mp-photos/5834.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3465",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.703561Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:37:30.688725Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 14810368.0,
-      "liabilities": 0.0,
-      "net_worth": 14810368.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3465",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.703573Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 12.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 3.04,
-      "expended": 0.53,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:43.806173Z",
-          "notes": "Official eSAKSHI REST API — Works: 133 recommended, 58 sanctioned, 1 completed"
+          "fetched_at": "2026-09-02T15:22:18.523577Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:18:38.796120Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:18:38.794294Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 133,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 3.605442176870749
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:34:14.669211Z",
+          "fetched_at": "2026-09-02T15:18:38.793649Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Congress MP seeks release of 12 West Bengal migrant workers detained in Thane over “Bangladeshi” allegations - maktoobmedia.com",
+        "source": "maktoobmedia.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWW5tNkdMRk9VTWtDYjNVUm9pT29NOW91QmIwdE04QWpwcVlkSkJxZTdRS0tna1NRTk5pZXpGZHNsc0R1dy1VQi12cHhuLVU1UXh2b21YZXJSTUozd1lnRi12c1QwY2dGelYwZHp5aWtaRXRLMFhTOVNQWS1EckN1RWVJWGhZeE5ZakdaMzVTZThmVUdzc2VzQkluQ0RvQUlGZURyT25oMWVJeW9NSmc2c0F0Q3l0YlFmZ25PSDkyRnBKQ2ZBNE14ci1KR2RxUWlxZ0xUS1VaeW0wYlZ4Q3FDNWNLeUVNQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ex-Union minister Abu Hasem Khan Choudhury dies at 89 - DT Next",
+        "source": "DT Next",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVFI3WVkzZUU5Nmt4dmo2VkFGclVsYWgzTkZrQVE2RnJWTHo5alNZU2lTMmhpeUd6NW1oMGxjLU4xTmRyVzVqVHRraE44bjNNMGhDN1pLWnllZXhySXp0WGRCWVYwa2JLc2ZPbkU3WmZRVHBrZjJHSzBHZGJDTmt2ZFExVUVPVUpvbm1lVTJ4X1ptcmvSAaABQVVfeXFMT0NFZ0ZYNzRLSFhKaWRlVzN0UHgwYTloR2ZIWUVYUThsd2NCS2p3bVI5SXhGZzR1M1V4T01ZM1pYcENuSjVVcDcxMDJ1NVFnT28xelVYZkNROF8ycDNwdGdWTm9DZkk4dkpYZ0xvV1l3QV9fSk03WHNIME1ObE9VelRLeF9DcWd4bFd2akNidjJ2aUpadE91SDlYZmlFWWhwRQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "4-time MP, ex-Union minister Abu Hasem Khan Choudhury dies at 89 - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2NSZ3c4X2Z6RFJtb01yeEUybXVLYzNsRWZzNkU1dzVHUnA2YzU2YU96aDE0VmQ4YXUya3ZFejNqUnBuWUFnbXpYTmFHVlBER0Z4ZUQ3cmo3TENfNE1BV2RuRk9IMlllclNPb0hJaTUyRFBBSUFBbEZpclVoUjduenN3c21pOUM0T2s4OHR0MmJPWHo5WFJVR1FaQXJROGM1N1czZl9Yc2VMb0FrVXNOTkRCZjBzckczS2VGONIBwgFBVV95cUxORGdyRDZQTDlnd2NURnctWW9TaExwNXRva1dVcTZreGZ6SV94WmtFS09MVGxYcy1KQTVDM0dTQTZBcEdvOGhwRXo0Xy1Ta2IzaVdVMzh1TUo4S1hiVDB4emVFdzZYTmc4OGc3ZzJCTjVGYlE1Mm5MT0pIOEk2ekZJQmlDRUloUWJnbE12VWwwb3Y4TFNab19mdWcwY1o4RWJScHlBWkVFOWlHY0ZyTTdGTjhZUG93VXNVcnhMc3NGT3NCUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Isha Khan Choudhury , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnRPQTVmMUdMRTgtX1lxZHZnVy1HR1FIWGhwVU5QQ1lPZ0FZdHZtUC12MzJqTzJMWGJMT002QVNGMHZ0cERHWUpOTVloV0NGSEJNVWFFOVZzZ1pQczEyWjhvbjFIaWpPVjc2LUNZNWd0b3BwWkFyeWsyd1pMNVFmRFFfT0hPdXlBYzJadA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress MP Isha Khan Choudhury flags plight of youth 'deported' to Bangladesh - telegraphindia.com",
+        "source": "telegraphindia.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWdtbmw4WmcxMkpvY013azB4dWtuWUdjTEkwYWpSSlM1ajU4NTdKcGtmTHlTblo2aU93SGFDOEh1TV85RjRrc0tVb2ZKMDlTYl9XVW5HY2JvWUZaYTRSTmpNQ1lYeU5FRml4N0w0NlZqVkJ0UXh5LTNMSEg3QllSS01YV2w3RzVTd3phZzFGYnJvc0EyXzl2b1RYM1ZZOVFEQ2dEZ0EySXBwWnFlMFJmdHhRQ3ZxcnAwMXVraERIMW5PdWJjWmwzTFRYenAxUjFfSFHSAdcBQVVfeXFMTThkbXZQdXc2dWZVZTJsNWJoUnJmY2ZGamh6N3FWSGVHTkowOXlQUHpHWDdiNk1MelJRODlWNFNnYzA5REo1WGNOaVhEUXR4SEFtN056cXh2V2VGNl9Xd1R3ZFZfOF81YXJMekVmek5uLVdGQXdyNU1ORHFMaE5tWktORkwyaWprUUVCUm9DSDlaNmJ1Q291TS16YmdCT0tyczBub0hUQktxRnBsMGZMSEd5NTltTFAyTlh5ZnNQTWFHb00xRzZPRmNEcE0wU19lbzVrYkR2dGM?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:35:17.679893Z",
+    "collected_at": "2026-09-02T15:22:18.524227Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.638424Z",
+          "fetched_at": "2026-09-02T18:38:12.262521Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.638432Z",
+          "fetched_at": "2026-09-02T18:38:12.262540Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.638437Z",
+          "fetched_at": "2026-09-02T18:38:12.262549Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.638441Z",
+          "fetched_at": "2026-09-02T18:38:12.262557Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.638446Z",
+          "fetched_at": "2026-09-02T18:38:12.262565Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.638451Z",
+          "fetched_at": "2026-09-02T18:38:12.262572Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.638455Z",
+          "fetched_at": "2026-09-02T18:38:12.262579Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,11 +322,28 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/IshaKhanChoudhury/",
+          "url": "https://facebook.com/https://www.facebook.com/IshaKhanChoudhury/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:18:41.220524Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -290,11 +352,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Congress MP Manickam Tagore mourns veteran leader A.H. Khan Choudhury - The News Mill",
-          "source": "The News Mill",
+          "headline": "Congress MP seeks release of 12 West Bengal migrant workers detained in Thane over “Bangladeshi” allegations - maktoobmedia.com",
+          "source": "maktoobmedia.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnFDUWFTV1ZlQVFsbkk3ZnhJQlAyQ3F4NWZTanFWdE1xcFFaVFJhblFBTVQ5ZGN4NmQ5b1U2MGswNDdKWGNGNDFMaXBwYjNGdy1qbWJ3bnllOXBqR3ZTYm0zdkk2MzJrTXBDV0RLMXF0aTZQMjJXLU10WUdrdzV3ZmRQZ3NGVmpjbmJDcnJPN3ZHMlpBYUljbFFnaXc0Z0VVZ21Z?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWW5tNkdMRk9VTWtDYjNVUm9pT29NOW91QmIwdE04QWpwcVlkSkJxZTdRS0tna1NRTk5pZXpGZHNsc0R1dy1VQi12cHhuLVU1UXh2b21YZXJSTUozd1lnRi12c1QwY2dGelYwZHp5aWtaRXRLMFhTOVNQWS1EckN1RWVJWGhZeE5ZakdaMzVTZThmVUdzc2VzQkluQ0RvQUlGZURyT25oMWVJeW9NSmc2c0F0Q3l0YlFmZ25PSDkyRnBKQ2ZBNE14ci1KR2RxUWlxZ0xUS1VaeW0wYlZ4Q3FDNWNLeUVNQQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,27 +368,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Malda: Congress MP Isha Khan Choudhury Protests over SIR Notices #Gallery - Social News XYZ",
-          "source": "Social News XYZ",
+          "headline": "4-time MP, ex-Union minister Abu Hasem Khan Choudhury dies at 89 - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGZzblNuUi1ueWFsQWl5Q3VHMExkanBNbVExYnBtd0VxUVlhb0JVRUxPSHBfYVpyZV8ySHBtbmNwWW5zZjcyX3FmdmxQU0RLTTNZTjBaX3NWUlhBZk95ZW5NdHlDZmM5N2RXQmphRHFOcE9uZTV5bW1ON05jdjZhSm1WZWU1Y0FsaDFNRnMtdzJIMGtaRTJtU0M2RFZuVFMtXzNwYzczZ3lMWTBTVzg00gGvAUFVX3lxTE80ZnNuU25SLW55YWxBaXlDdUcwTGRqcE1tUTFicG13RXFRWWFvQlVFTE9IcF9hWnJlXzJIcG1uY3BZbnNmNzJfcWZ2bFBTREtNM1lOMFpfc1ZSWEFmT3llbk10eUNmYzk3ZFdCamFEcU5wT25lNXltbU43TmN2NmFKbVZlZTVjQWxoMU1Gcy13Mkgwa1pFMm1TQzZEVm5UUy1fM3BjNzNneUxZMFNXODQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2NSZ3c4X2Z6RFJtb01yeEUybXVLYzNsRWZzNkU1dzVHUnA2YzU2YU96aDE0VmQ4YXUya3ZFejNqUnBuWUFnbXpYTmFHVlBER0Z4ZUQ3cmo3TENfNE1BV2RuRk9IMlllclNPb0hJaTUyRFBBSUFBbEZpclVoUjduenN3c21pOUM0T2s4OHR0MmJPWHo5WFJVR1FaQXJROGM1N1czZl9Yc2VMb0FrVXNOTkRCZjBzckczS2VGONIBwgFBVV95cUxORGdyRDZQTDlnd2NURnctWW9TaExwNXRva1dVcTZreGZ6SV94WmtFS09MVGxYcy1KQTVDM0dTQTZBcEdvOGhwRXo0Xy1Ta2IzaVdVMzh1TUo4S1hiVDB4emVFdzZYTmc4OGc3ZzJCTjVGYlE1Mm5MT0pIOEk2ekZJQmlDRUloUWJnbE12VWwwb3Y4TFNab19mdWcwY1o4RWJScHlBWkVFOWlHY0ZyTTdGTjhZUG93VXNVcnhMc3NGT3NCUQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Mausam Noor rejoins Congress months before West Bengal Assembly elections - Deccan Herald",
-          "source": "Deccan Herald",
+          "headline": "Isha Khan Choudhury , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3ZieXNTNmpUaDNXUHFCN3pKcWJpaTB4QnVubjh4aVQzV0pmTzFxSlY1RjlaNzlPamlQOTZoZU1UMm5CdGJPRTZabS1MOTkzOC1kREVweDlub1ltVV90Q3FPbzRsRGUyMlUwc0Q4Y3dESUQzY3VpcERlRDFiLUhRVS1FcW9BR25Ub0NVQjF1eElreElBLU0tVUZxUjNRVmYwSk9qV2lrQVpSWFl0TXBibWVESTJIWjM0U0NORXpkNEtJV2tqSDlv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnRPQTVmMUdMRTgtX1lxZHZnVy1HR1FIWGhwVU5QQ1lPZ0FZdHZtUC12MzJqTzJMWGJMT002QVNGMHZ0cERHWUpOTVloV0NGSEJNVWFFOVZzZ1pQczEyWjhvbjFIaWpPVjc2LUNZNWd0b3BwWkFyeWsyd1pMNVFmRFFfT0hPdXlBYzJadA?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Mausam Noor returned to Cong following uncertainty over another RS nomination: Trinamool - The Statesman",
-          "source": "The Statesman",
+          "headline": "Congress MP Isha Khan Choudhury flags plight of youth 'deported' to Bangladesh - telegraphindia.com",
+          "source": "telegraphindia.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWkFxSlIxOFhWdnpmVFo5Tnh3UktvUVJpeXRkaWNpQjdBOFZaQ01mcjV3OGF2TEJNUE1ONHk5VF9IQTQ0TXppdDFPM195b282MksybWN6WHVvRjNLSEJhSHBZOXRyRG9fMkdBb3g0MmtVQUpCbE5yS1ZIZGNrZmw2dlhyVkNSU0t6RDcwTG5KNWlhY1VwYTdHa3ZHUHNZVVhGczZLMkhTTzJ0QmpqQW1qMU9xdzFvT1dCTkRObTJvLWs0R1pEWUluNjZ0WXlEeFhDcV85ZGtn0gHbAUFVX3lxTE1Ed3hoX1ZPVFJES3U0dzY5amhzdXE3RzJBeUdZdkQ4RklNSnktZkFFcWlqWjZSbDMwejRmYXdYY0g3RGZBN040VEtIWjhSbXBacnRoaXFpWVBPWHRKZ2RLMVZGR2JtSDBIRDZpR0RWVzhlRGc3YXRTTVU2eDNFZzIxd01XbEhyb01qSldFTlU3eHlIUWotbEdNcmxxS1VfOEhRZHhUYmF3VndLYW4zTjI1M1hLOVcxcDBXWmZwLVJ0cTVGdkhQd3AwRkxyN09ZZlo1bHZfdEg5UVF4aw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWdtbmw4WmcxMkpvY013azB4dWtuWUdjTEkwYWpSSlM1ajU4NTdKcGtmTHlTblo2aU93SGFDOEh1TV85RjRrc0tVb2ZKMDlTYl9XVW5HY2JvWUZaYTRSTmpNQ1lYeU5FRml4N0w0NlZqVkJ0UXh5LTNMSEg3QllSS01YV2w3RzVTd3phZzFGYnJvc0EyXzl2b1RYM1ZZOVFEQ2dEZ0EySXBwWnFlMFJmdHhRQ3ZxcnAwMXVraERIMW5PdWJjWmwzTFRYenAxUjFfSFHSAdcBQVVfeXFMTThkbXZQdXc2dWZVZTJsNWJoUnJmY2ZGamh6N3FWSGVHTkowOXlQUHpHWDdiNk1MelJRODlWNFNnYzA5REo1WGNOaVhEUXR4SEFtN056cXh2V2VGNl9Xd1R3ZFZfOF81YXJMekVmek5uLVdGQXdyNU1ORHFMaE5tWktORkwyaWprUUVCUm9DSDlaNmJ1Q291TS16YmdCT0tyczBub0hUQktxRnBsMGZMSEd5NTltTFAyTlh5ZnNQTWFHb00xRzZPRmNEcE0wU19lbzVrYkR2dGM?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -360,15 +422,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
+      "total_questions": 3,
       "starred_questions": 0,
-      "unstarred_questions": 0,
+      "unstarred_questions": 3,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 4.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +438,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,11 +469,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -428,12 +496,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 14,810,368. MPLADS utilization: 3.6%. Parliament attendance: 90.0%. Questions asked: 3. Debates participated: 3. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:54.639193Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 3. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.263582Z"
 }

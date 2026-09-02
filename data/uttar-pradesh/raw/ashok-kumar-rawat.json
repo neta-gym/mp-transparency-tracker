@@ -4,16 +4,16 @@
     "constituency": "Misrikh",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5077,
+    "myneta_candidate_id": null,
     "slug": "ashok-kumar-rawat",
     "house": "lok_sabha",
     "sansad_member_id": 4096,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 57,
+    "age": null,
     "photo_url": "/mp-photos/4096.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:53.594377Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 129670318.0,
-    "liabilities": 24861056.0,
-    "net_worth": 104809262.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5077",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:53.737387Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 63.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.61,
-    "expended": 8.58,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:36.247842Z",
-        "notes": "Official eSAKSHI REST API — Works: 4 recommended, 3 sanctioned, 2 completed"
+        "fetched_at": "2026-09-02T17:37:34.199444Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:33:31.545548Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:33:31.542721Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 4,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 58.36734693877551
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:07:00.356958Z",
+        "fetched_at": "2026-09-02T17:33:31.541637Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Mayawati suspends 2 Dalits for ‘anti-party activities’, leader claims BSP chief demanded Rs 20 lakh - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmdfVGgxWjk2azZtN182RkN1YUFnQWhZbWJKblkwYmVfMUx2UnZ5eDQ1QXFiYy1VemQwZHE4VTB4M0lqWWo0aVhYU0t1Z2hjQUQzelVEc2YxbkxocExLVjg3dkg3X2pwdjI3LVBFMWhHODlHZDN4R0poSms3RVp4Unh2UHZSZVYtZzZ4cXZLZFJtYUZlZ0R5T204cW1FY1AyRkprVDZDOV9Pd1ZXRGtCUF9zWHBKVWpkbFFwclJodXloX1RXRFNJeUpTMnltMDlDVWlHVVI0czk3cU5YaVHSAeQBQVVfeXFMTVp1UGhEaUFrYS12U2dIdHpCRGU2cnpUdnJ3OEpzWmpOZldiU2hvZWRoM2x6OXQwT21Kbkp4Q19GMG1pRWlreE5qRHVHMUQzT1R6VHRHMWF2NnhqZ3A2b291M0FnbXFBUDVRUllNcnpUT0JVbnN5S094WE9yMW5DYjhoREhXUmJ4VTgtS0owR3hwVXRHdGM2alpVZGhlN1ltYW5MelJuNlk5LU1BUktkVXV0WmFadk5KZHByajdrVmZwZ0xhUVY3bzJDMnVoUXdDaEpXTFlncWhXSlFobldxV2ZFSHly?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Will mythological Misrikh see saffron surge once again? - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmJFOTBPNEFaZkdSdWpuQmc0U2tJaTZaMm11RWItaUxCMEUyRDVaNVdkTC03OHlwQWIxRGdYSFBUUUJldkExY0lYVEVYak82ZHlBdG9CWWkwM2R6X2lYbk5OOU9TTlYwWnpCVVJhano0OVI5Z1BTM0dabFpMZUJEQ3F3dVdLVGhRTFNPaVpWclVqU3ZQX3ZqRVNIeGNYRDcxSUs5Z3NiSm9iUkhlY0xPX0dzbzlLV1M2QUtZbllNd9IBxAFBVV95cUxNMy1kQkhxMnZqTDdjek10cnB5ek9xODNITmZtclFHSG1VT2pvcGxuTnp5ampwZHpUYkFINkZlbm90MDJFUUNpc3RBSks3Vzl4M0k4R3hWY0FIM1BGUEY0MHk1NXdCSWx3a2ZzQzlUMkIySHBCWURraHFRX1Jpd2FEaU85U3ZoOVdYN25QWlkzNmQ1QndKZ2o0YXlEbHUxVDAzVi1QRG5pUl9ydVBNT1dna2xDTFBYVjFpRVhIRUNqWkVrMmxH?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Misrikh lok sabha election results 2024: Misrikh Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTNiaHRJRXV5SDlZN2xoUlpER1hzeFgxOGhBS3Q1M2FpWXptQzRmUXN0a0VHZDdES1VIVl9JUWd0Sml1QzMyTnF2NTBaRWRiaHR5MXdMV0xtcE9xUEpqWTYzMU9yTFFBS1Rwd2xlZmVBZnVmcWFXVllENU5RbGE5TDdraF85V1dUOVJZMXRQV29mcG1aWGZhVQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXRYVVN2OE9QTHQ0NWdSbklRVjhYbFFkclRfYklCWDl4VlA1MWZWLWpld3pPczdOd3p2QmIwckxYZWh3a3VXNHB6emJFTkN6Q1h5V0dUamlabGQ2TEVlMW9HRWstdmd0ZVhXbEdhTDFKcFBsTWlJbFhZS1VpSzBqYmh2bmZrVXc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "How Many BJP MPs Are There in the Lok Sabha? Check the List - Jagran Josh",
+      "source": "Jagran Josh",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUlEUVFJeW43UTdremlYMTFVMEpQZmlCLUo4ZjAydzFoWjJzcUk0TEtfNS1aX1dlcWxpOUxMR09MM2FRM1F6Ql9fYVRsT1hlTXFLc3pqVUJ4eDJTM2ZmVXdZZm1NY3M4QVpZQlBUbTllaUhVb3lHeGJ4MmZuakotZVg2SXNZdUJOMVdEUDFEcTQ1b0NSR2x5elcxeTRSVGZ5N1RXZkFRN1N0R1l1TkxfY08yYTdZbTNla091ekVlT2VUbWdXWTZDXzdIMWdNUXZhbVpR0gHaAUFVX3lxTE8zanB0TkJKcW5QQnNwVXJZNDNMRy1uM3JPaWxIdjF6V1lqX2JBRk03M19OcFFaaUZ0ZHljWjN6VERpV01IVEx2MzAtQWdja2VJQktkcXk1dVh6MkxjRDZkQWg5SkdVR2tzTlE0NE8zd0JiV0RZZ1NCekZ0QVJHOGF1eXhtV2dhWndjMEY2TUhlR3hZRnRhdG9Oenk2UjRnbklaZ01IX3FmdjE4M1F3ZlRieDJGVG9oSDEtR0JLbEUtWEVBOXRzVkRsNzVDYm9lYUJXVmZMbmwya0lB?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:07:21.019634Z",
+  "collected_at": "2026-09-02T17:37:34.200830Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.253285Z",
+        "fetched_at": "2026-09-02T18:38:10.818042Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.253295Z",
+        "fetched_at": "2026-09-02T18:38:10.818055Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.253300Z",
+        "fetched_at": "2026-09-02T18:38:10.818061Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.253306Z",
+        "fetched_at": "2026-09-02T18:38:10.818066Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.253311Z",
+        "fetched_at": "2026-09-02T18:38:10.818071Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.253316Z",
+        "fetched_at": "2026-09-02T18:38:10.818076Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.253320Z",
+        "fetched_at": "2026-09-02T18:38:10.818081Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.253324Z",
+        "fetched_at": "2026-09-02T18:38:10.818086Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,14 +333,6 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Shri Ashok Kumar Rawat on matters under Rule 377 in Lok Sabha - bjp.org",
-        "source": "bjp.org",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXMteHVpRWVQUE5mOTZzMEdOd2JvT2p1OU9ITGY5X1BxcGdkbVdoR3haaVZFakZ1SWxFUWpraUFmLWlCY2hTbmlndFZzLWZIaUViUFVYMVN3Zk0tM3BZZWVicWxRWlFvU290WlpYSXZsSGRDTXZiQkdBZWJ4RjlYV0pNOGduRi1yUW5NVWZObkRhLUE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Mayawati suspends 2 Dalits for ‘anti-party activities’, leader claims BSP chief demanded Rs 20 lakh - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
@@ -296,11 +341,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Misrikh Election Result 2024 LIVE Updates Highlights: Ashok Kumar Rawat of BJP Wins - News18",
-        "source": "News18",
+        "headline": "Will mythological Misrikh see saffron surge once again? - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaGVlbVdjWUlfUGk2UzYxdmFiU1c4akxOWFppYUd1OW1mSEg5VHhNNGJOQXVMRkVmTmw4OWpHcmlUUnpjMGFsRkQzS3BTTnZpRXFLOVFoMXczdEdxU1dNbGg1ODZrMVkyMWpwTy1TXy15dHRnaEQ0dENHVlBHU2N5d3Y0VVNQVlo0eHBlRUNLUzFBNFRSZTJadmxsRkVtX2ZyYVE4cXN6bFFuMW5kNVVUQXJvV08tdl94N2M5MGxyOEttLWVxZmxROFhiMTlObHBiS2dLd2pvTjRxSWYyVEtyRnRR0gHnAUFVX3lxTE1mYlVyMTNPSGZNQnhGc2VieTlIbHJhS2FYSFRKaVZiY05KcnJmT3hVQWtCTF9MSXdLZDhnN2dMdG1XWjA3S1J0QkozR3hsSlg1VXo5ckNtc1dxa0JWNURwN091eDVKR2VMTjFWUGVONVVuaXRrT3E3M245NTI3aVk0U2JyeFB1X1dTcEZ3N3lRMTRlcUtVRGVJelZuXzlGX2ltbFZfV0tmb0s0RHhlR1RoV1hZY01jaVVXck1IWlJia0lBT0ltdjk1c3A2N1lPbmFTbWdpNWs0U3RxaThDWUR1U08xdmFRaw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmJFOTBPNEFaZkdSdWpuQmc0U2tJaTZaMm11RWItaUxCMEUyRDVaNVdkTC03OHlwQWIxRGdYSFBUUUJldkExY0lYVEVYak82ZHlBdG9CWWkwM2R6X2lYbk5OOU9TTlYwWnpCVVJhano0OVI5Z1BTM0dabFpMZUJEQ3F3dVdLVGhRTFNPaVpWclVqU3ZQX3ZqRVNIeGNYRDcxSUs5Z3NiSm9iUkhlY0xPX0dzbzlLV1M2QUtZbllNd9IBxAFBVV95cUxNMy1kQkhxMnZqTDdjek10cnB5ek9xODNITmZtclFHSG1VT2pvcGxuTnp5ampwZHpUYkFINkZlbm90MDJFUUNpc3RBSks3Vzl4M0k4R3hWY0FIM1BGUEY0MHk1NXdCSWx3a2ZzQzlUMkIySHBCWURraHFRX1Jpd2FEaU85U3ZoOVdYN25QWlkzNmQ1QndKZ2o0YXlEbHUxVDAzVi1QRG5pUl9ydVBNT1dna2xDTFBYVjFpRVhIRUNqWkVrMmxH?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -312,11 +357,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "सांसद अशोक रावत को पितृ शोक - Hindustan Hindi News",
-        "source": "Hindustan Hindi News",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - R - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0xiOFlCVVZIU2laNGVoNDFyQXZKRzhjR2ZjOVJyZ3NCRHlJSVdya1hUeU5tYWREZUpNV1U5MDh2aEZWWHp3VTNJbnZWNjYwMW1VandqWDV2dng3YUNUZGROUGJBWmgwWjJEMTNfMU1uMDRqYXhNamZVZmNyXzJLYzdKRVdST1VwT18xV2FacHNBcXlLUERBUENUZ3VvUm5uNmFfQVV6aVBCcnhSUWlv0gG0AUFVX3lxTFBmc19MQXg5TEd0enFVTVk4cjBWOEMySXhHaC1kSGhETW9GZms2MVRCTzd1UkhacXdWYVpSYUNoUlhZZ19FZWFRR0dQbkhMZGMxc3Z2WXRacWRrTTFnUmVNbzRhbS1ZdXZJMHo5Q2U0LUE3bE9uLU1WdU1UZlZnUk9QZ3VUdTF6RmJnNmhKbzR5ZlpDOFhheG5WR1I2a29kLVFST19ycC00eUZpTTBfbk1XZFQ3bw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXRYVVN2OE9QTHQ0NWdSbklRVjhYbFFkclRfYklCWDl4VlA1MWZWLWpld3pPczdOd3p2QmIwckxYZWh3a3VXNHB6emJFTkN6Q1h5V0dUamlabGQ2TEVlMW9HRWstdmd0ZVhXbEdhTDFKcFBsTWlJbFhZS1VpSzBqYmh2bmZrVXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "How Many BJP MPs Are There in the Lok Sabha? Check the List - Jagran Josh",
+        "source": "Jagran Josh",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUlEUVFJeW43UTdremlYMTFVMEpQZmlCLUo4ZjAydzFoWjJzcUk0TEtfNS1aX1dlcWxpOUxMR09MM2FRM1F6Ql9fYVRsT1hlTXFLc3pqVUJ4eDJTM2ZmVXdZZm1NY3M4QVpZQlBUbTllaUhVb3lHeGJ4MmZuakotZVg2SXNZdUJOMVdEUDFEcTQ1b0NSR2x5elcxeTRSVGZ5N1RXZkFRN1N0R1l1TkxfY08yYTdZbTNla091ekVlT2VUbWdXWTZDXzdIMWdNUXZhbVpR0gHaAUFVX3lxTE8zanB0TkJKcW5QQnNwVXJZNDNMRy1uM3JPaWxIdjF6V1lqX2JBRk03M19OcFFaaUZ0ZHljWjN6VERpV01IVEx2MzAtQWdja2VJQktkcXk1dVh6MkxjRDZkQWg5SkdVR2tzTlE0NE8zd0JiV0RZZ1NCekZ0QVJHOGF1eXhtV2dhWndjMEY2TUhlR3hZRnRhdG9Oenk2UjRnbklaZ01IX3FmdjE4M1F3ZlRieDJGVG9oSDEtR0JLbEUtWEVBOXRzVkRsNzVDYm9lYUJXVmZMbmwya0lB?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 18,
+    "starred_questions": 5,
+    "unstarred_questions": 13,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 34.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

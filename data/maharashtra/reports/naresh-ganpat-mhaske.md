@@ -3,24 +3,22 @@
 **Constituency:** Thane, Maharashtra
 **Party:** Shiv Sena
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 54
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 59.0 / 100
+## Composite Transparency Score: 62.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 35.0 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 90.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,25 +32,29 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 136/2009, Kopri Police Station (Sections: 353, 143, 147, 148, 149, 452, 427) [pending] 
+2. II 57/13 | Section 37(3), 135 Bombay Police Act (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 26.26 Crore
-- **Liabilities:** Rs 4.61 Crore
-- **Net Worth:** Rs 21.65 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 76% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
+- **Entitled:** N/A
+- **Released:** N/A
 - **Sanctioned:** N/A
 - **Expended:** N/A
 - **Utilization Rate:** N/A
@@ -69,36 +71,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@@nareshmhaske](https://x.com/@nareshmhaske) | No | Yes |
+| Facebook | [@https://www.facebook.com/minareshmhaske/](https://facebook.com/https://www.facebook.com/minareshmhaske/) | No | Yes |
+| Instagram | [@https://www.instagram.com/nareshmhaskeofficial/?hl=en](https://instagram.com/https://www.instagram.com/nareshmhaskeofficial/?hl=en) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Bombay High Court rejects Rajan Vichare’s plea against Naresh Mhaske’s Lok Sabha victory - The Hindu (The Hindu) [neutral]
+- Bombay High Court rejects Rajan Vichare’s plea against Naresh Mhaske’s Lok Sabha victory - thehindu.com (thehindu.com) [neutral]
 - Bombay High Court dismisses MP Rajan Vichare’s plea challenging Naresh Mhaske’s 2024 Lok Sabha victory - SCC Online (SCC Online) [neutral]
-- Bombay High Court rejects election petition against Shiv Sena Shinde faction MP Naresh Mhaske - Bar and Bench (Bar and Bench) [neutral]
-- Thane election results 2024 live updates: Shiv Sena's Naresh Ganpat Mhaske wins - The Times of India (The Times of India) [neutral]
 - Mumbai, meet your new MPs from neighbouring Thane and Kalyan - Citizen Matters (Citizen Matters) [neutral]
+- Bombay High Court Dismisses Plea Challenging Shiv Sena (Shinde) MP Naresh Mhaske’s Election from Thane - lawchakra.in (lawchakra.in) [neutral]
+- 2 UBT elected candidates in contact with Shinde camp, claims Thane MP Mhaske | Mumbai news - Hindustan Times (Hindustan Times) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Bombay High Court rejects Rajan Vichare’s plea against Naresh Mhaske’s Lok Sabha victory - thehindu.com** (thehindu.com)
+- ! **Bombay High Court dismisses MP Rajan Vichare’s plea challenging Naresh Mhaske’s 2024 Lok Sabha victory - SCC Online** (SCC Online)
+- ! **Mumbai, meet your new MPs from neighbouring Thane and Kalyan - Citizen Matters** (Citizen Matters)
+- ! **Bombay High Court Dismisses Plea Challenging Shiv Sena (Shinde) MP Naresh Mhaske’s Election from Thane - lawchakra.in** (lawchakra.in)
+- ! **2 UBT elected candidates in contact with Shinde camp, claims Thane MP Mhaske | Mumbai news - Hindustan Times** (Hindustan Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Naresh Ganpat Mhaske shows moderate transparency with a score of 59.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Naresh Ganpat Mhaske shows moderate transparency with a score of 62.0/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 262,602,215. Parliament attendance: 80.0%. Questions asked: 75. Debates participated: 19.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Parliament attendance: 80.0%. Questions asked: 75. Debates participated: 19. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +166,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +245,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Naresh Ganpat Mhaske's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +262,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

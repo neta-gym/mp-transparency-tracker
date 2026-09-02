@@ -4,16 +4,16 @@
     "constituency": "Balaghat",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 45,
+    "myneta_candidate_id": null,
     "slug": "bharti-pardhi",
     "house": "lok_sabha",
     "sansad_member_id": 5696,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 56,
+    "age": null,
     "photo_url": "/mp-photos/5696.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:57.153509Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 59018167.0,
-    "liabilities": 0.0,
-    "net_worth": 59018167.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=45",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.823802Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 43.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.44,
-    "released": 15.44,
-    "sanctioned": 9.75,
-    "expended": 6.41,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:26.412479Z",
-        "notes": "Official eSAKSHI REST API — Works: 160 recommended, 157 sanctioned, 74 completed"
+        "fetched_at": "2026-09-02T14:27:22.426473Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:53.125778Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:22:30.138630Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 160,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 41.51554404145078
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:30.366391Z",
+        "fetched_at": "2026-09-02T14:22:27.980891Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP HC rejects vote mismatch petition against BJP MP Bharti Pardhi | SCC Times - SCC Online",
+      "source": "SCC Online",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTndzNXRMSmUzYzFQb2cxRGpUc1UtWlZYaGZyOW83QzNhS3FLanB1VVFIQ3ZmbGhub2NyWTFPVVBKRzdLVUVRR0NuczNMemk3V0dmQWZXd21qY0pqdU5LMm95MkxzamlPMmcyLWNFSlpxV0lZTGFncUhIZEFjMFEza2RLSXMwZC1ROVR0aDhkVG52dUpnYWFDUDgyeVRPUE56Ti1lUksxSENHZURyNnR6MkM4OA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Railway bridge in Balaghat inaugurated twice: BJP MP Bharti Pardhi opens it first, Congress MLA Vivek Patel... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUhmWmRGMmM3LTBWb3IwcDg1QlVyd3dIUER2NmE4MmRHdWM4azZTdlBwblpfU0VhdUdWSzVYaXAyMXktNTl1Q0NJcWpPV0xPSzJpd3cta3lGemw1blAzZWxpdzd2MFVVbUd5Rzk0SkRVSHVtWWdORVdSeVhQTmRSQjcxYy15Z0hnb3RCdzZWR1V2RjZ5cXd1U2tMUFRkM0N1WkZoVkYtczhLSUhReS1DTlFNdzlhUXRIZ3F2alNn0gHDAUFVX3lxTFBKajZFemRPbnB5NTg4XzZNQWpGUmV6TENlSk0wQXlUM0tLZzVBalp0emt0ZXluaFViUlhGaUtFb0JvNlE0ejFua05VcUFicnNSRkotbzlFS241RnZXcTJZNW5JQ0JZbXF3TVAtNk1uN2puQXdiYTlZYUVldmZHVW9WN0lpbDJTVDFZV2tSMHowMnNnZW10TF9HRGZxZHBOc1ZvUy0zMEZ3bTI0aU9IWkk0b2FlSjhfdnJUeTFucnEtaUtlWQ?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "From shadow to spotlight, a leap to big league | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVVSd2xmNlNBMU9qNzJQckJYUTE2c2NYMzNNLXh3cGhPbG1ZUjJ4RmxrUUJJbWdSTkVCcDlEal9yb0hWSVFzenZhMVViU2dpNDV0RmhDUGRuNlV6MXRjTGxnaWdfUTdTVTI4cTQyaE9wOEQzMVEwdkgwcEFzYlN5eEFOc3VpWThCM1lPV2hHOXExY2FHaFAxNk1QX0wxMlZ4RHJwV3AxakUwWHF50gGyAUFVX3lxTE5ocmtOdlEtUlZtMTUtYXd3cnlkLS1mYUMta09wNWNXMlJnMGhHMW4tNnMyWFpqTWkwVW5hMUZyUWhZU1BWUzlJWTRuaGV5NG9mdGg0LS1QREVwMEp6WXU3T1M0aTlxYjFIRE9neXcyd3NzRmU0YmQxVUxSbHIyakRhVFdrbnNrbEZoT3pfREoyZXNYZ3VKRzh1N1R2VVhnNmpxRE0xTy1xb1pfN3l1RXNqaWc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Madhya Pradesh: Battle for Mahakoshal, Vindhya - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUldWeWlUX2Y1YmJYNXV3RmYyRTZLaE0ybGZQVUFQM0t3TU9rM2d3RGREbm5rX3FLazZkeExnbHJuNzQtY1NlT2N4STBscHh3b2RFaW9OVFlJc3hPSUJpeWRDejhUZDVmTU9jVnZ1OGM2c1cxLU1zQUtVcFYwN1llN2M2V1pqNlFmYTlXRmRuLU43eV9uSGRETm1MWdIBqAFBVV95cUxOTVJWSXJqWWdJSmoxaW9uM2FMT1lYTm1EcmQ2V3N0d19WS0NsdmNCUXlROER2eEl6ZEVqRVZyNU5RRVZzSVZQb013Q0xGSkRmanhBWFpfMURzWlJIMEEyM215eWRpaW9LcGdWaXJhcnVIV2Z0bnRvN2l0RkprZ1ZwUW9DTm8wWmVlTkhYUTVVMU9XWGc5QTU5Y3NNTW1aMHNwdVBwRWZERG4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Balaghat lok sabha election results 2024: Balaghat Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDB1X2pXZzZxRTRKNml3ZHdhenZrX2hKQTN1OGdWMlJZTm1VWktFU1NLb0VxVjYwVkdwZWhKZFV6X0xPUEVjWW1vYXVwOTNFMmxmTjdsVjE2c2xRblRZT1FDWDdQUm5nTUJYZk1FVFhDUGY4dGV2ekR1aWJIMjFxYjZYb2VUc1JtbmNlQm5TdDUxNlFzS0lZMkxNZw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:20:58.929407Z",
+  "collected_at": "2026-09-02T14:27:22.427878Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.815383Z",
+        "fetched_at": "2026-09-02T18:38:07.295074Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.815393Z",
+        "fetched_at": "2026-09-02T18:38:07.295092Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.815398Z",
+        "fetched_at": "2026-09-02T18:38:07.295101Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.815404Z",
+        "fetched_at": "2026-09-02T18:38:07.295109Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.815409Z",
+        "fetched_at": "2026-09-02T18:38:07.295118Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.815414Z",
+        "fetched_at": "2026-09-02T18:38:07.295159Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.815419Z",
+        "fetched_at": "2026-09-02T18:38:07.295166Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.815423Z",
+        "fetched_at": "2026-09-02T18:38:07.295172Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -274,10 +327,10 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 9,
     "positive": 1,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 8,
     "top_headlines": [
       {
         "headline": "MP HC rejects vote mismatch petition against BJP MP Bharti Pardhi | SCC Times - SCC Online",
@@ -296,14 +349,6 @@
         "sentiment": "positive"
       },
       {
-        "headline": "Balaghat election results 2024 live updates: BJP's Bharti Pardhi wins - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNdFJNWV9wQzhDWk1xRnl6WnNlajlHUXhkdmdCNURlV2ZvY1pMdFdHbnF0MnFabG9vM3kwWUhtUUlpREpNNE1LOFdzMm1nUWhUZnMzcGxjeGNka21oVzg0MzJydnR1QkpMaFJNc1pwTDZ5eTJkbEMxN2dqZTBUUFVjYm4yYVFiY0NJWTJlSDVMb2VLQzJoU2ZHeEFKTHNiSjFnYWFJQktEeW1IbGZmZWJiMG9vUHI2ZnZkLXpfR1dSWV9uSUJCTUJaamRyV1R2MTYweXNqcHpoTkRLbHRUd1F5al9hNUhacXJxTnBtUFl0V2xETkhPY28ya1hsTUZXNGdfVzNEOGRjUlZDLWMxc2ZmY01fdGtFQmUyN0dkS3REQ3lJNm9VdWRxVUdyLURKOVl3dkt3TFhkdHhYeTlUb1NOY2N1bUEzTk9EcXZVLU5zRW1zcG9OWTMzQW5ZQnJEWXPSAeQCQVVfeXFMTUdLOUlBdkd1NnREZzY0aFJXd2FMYk1JZTBsdW95TmtTWVFfVTc3STYyOHo3T2h1MVdtZHBpUEpiYkF3Y0lrWVY1aS1Pc0J5Yl9NNmNXYTUyTjRNcVJOOFMxb2tYNnR0MXBWSkFvMEJIVS1wMWlmUThyUE9fekNQYy1ZSzBWLTNEblgzc2pVVFNURmJjRTlZZzBsZWJFYXVYQ2JLa2N6clRCdExhaGNBQWozQXBYOHhnenE3enVnUkRvazhHekg5VWlDNjdWelo3ZEpYVzgtSGhKVDVTWllPRC1iU0NwbS1jSGZPZ3VHU2stUGNuZ0lPbnh5RVZLT3JZRG1sOFdPTGlJZF9peDVFM2tEaXN3MXRkR3c0cFJ6Q01JeEF0bVVNNFBRdFRlMVpBV0xQQnplQkI3NFlKOE1RQzBWek5HazBwZWRRMXIyQlg4TTVmdldtb2ZDUFY0eG1ZT3ZOU2E?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "From shadow to spotlight, a leap to big league | India News - Hindustan Times",
         "source": "Hindustan Times",
         "severity": "low",
@@ -312,15 +357,23 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "MP: BJP's Bharti Pardhi vs Congress' Samrat Saraswat in Balaghat for LS Polls; constituency to vote tomorrow - The News Mill",
-        "source": "The News Mill",
+        "headline": "Madhya Pradesh: Battle for Mahakoshal, Vindhya - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY212OHE4bXV1R2pVeWhVUUNLUTNoZXhrNjJJaktld1ZhV210XzIzblVOS0NOV1pQWkdaWTRkVEFVemkwMGJHcGo2VWVzMWk2YUs0MWRScllJWk12WWdRb08zRWdGeXV5Zmxxb1VRVXc5VTlVanRmcUt1YUEyUWp4ZTg0VWhpeXFvdHhTWFBoeXJVU09YWFlKOXlmWXpvS05FbnlNeDBTR0pCeE9wb2pnaGFtSDNDNjF4dDZ6MXZYMHRwT01MdmIyZm05bWpDaUN6Qkcw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUldWeWlUX2Y1YmJYNXV3RmYyRTZLaE0ybGZQVUFQM0t3TU9rM2d3RGREbm5rX3FLazZkeExnbHJuNzQtY1NlT2N4STBscHh3b2RFaW9OVFlJc3hPSUJpeWRDejhUZDVmTU9jVnZ1OGM2c1cxLU1zQUtVcFYwN1llN2M2V1pqNlFmYTlXRmRuLU43eV9uSGRETm1MWdIBqAFBVV95cUxOTVJWSXJqWWdJSmoxaW9uM2FMT1lYTm1EcmQ2V3N0d19WS0NsdmNCUXlROER2eEl6ZEVqRVZyNU5RRVZzSVZQb013Q0xGSkRmanhBWFpfMURzWlJIMEEyM215eWRpaW9LcGdWaXJhcnVIV2Z0bnRvN2l0RkprZ1ZwUW9DTm8wWmVlTkhYUTVVMU9XWGc5QTU5Y3NNTW1aMHNwdVBwRWZERG4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Balaghat lok sabha election results 2024: Balaghat Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDB1X2pXZzZxRTRKNml3ZHdhenZrX2hKQTN1OGdWMlJZTm1VWktFU1NLb0VxVjYwVkdwZWhKZFV6X0xPUEVjWW1vYXVwOTNFMmxmTjdsVjE2c2xRblRZT1FDWDdQUm5nTUJYZk1FVFhDUGY4dGV2ekR1aWJIMjFxYjZYb2VUc1JtbmNlQm5TdDUxNlFzS0lZMkxNZw?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 44,
+    "starred_questions": 13,
+    "unstarred_questions": 31,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 85.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

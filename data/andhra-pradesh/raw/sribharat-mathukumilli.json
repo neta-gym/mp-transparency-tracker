@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5623.jpg"
   },
   "criminal_record": {
-    "total_cases": 2,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 2,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 2989586580.0,
-    "liabilities": 18964522.0,
-    "net_worth": 2970622058.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 97.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.86,
-    "expended": 0.2,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:17:43.641724Z",
-        "notes": "Official eSAKSHI REST API — Works: 36 recommended, 33 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:59:05.723800Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:54:58.100855Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:54:58.097842Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 36,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 1.360544217687075
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:30:17.514899Z",
+        "fetched_at": "2026-09-02T14:54:58.096626Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Vizag MP Advises 800 Displaced Airport Staff To Accept Available Jobs - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdTlrZUFmY3Z0dXlLZHd5SDFYNWJkT3lkb3doWEdNU3ZfZWJyTk82Zm1NVl9TZDRxN1hfOUU4cE85UlA3NEZYbEI3N0REZnNESHN5YVAtdE9KNFZJbHRjdXZ2WFRycXF3ajlRTDAzTXk4SEVJY0FtM2tOVk5ZVVpFbmxnUmxIRVJray1EUVBXS0dtSXFDQ2RvMll6c0lJZmFoQmRyVC0xVzJmaHhWOHVqUTRMcU1tZ0xSbjZWcTQwWmtpNUZUMkItWGpRMXo2ZUtMZUR1YWEwWdIB3AFBVV95cUxPZGgwSk9GdDdQVHJneHFuN01GS21aUzJ6V1BVTVdlMlktUWU2OTY1VzNVVWlSTnhNUXVzV2k4ODZXa21yMlZxNmE3VTZHOExMaWNoVTdBaS1XMHRBR3ZoLUdrS20xZkFPTUFhWWxNaDVNaXluNFJrbExzSS00NW5RWXplVUpOQjdmUDNtbWhPMFkweVBRWWt2X2xxRUhvWGFMZVRneWViUDdNOEhGZlVialV1UGxDVk1uVElNQ3N5TnpmYWc0aWNnSmZJX1lpSC1EdHZTQzlBdHprVTRO?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Higher education needs institutions that set standards, not wait for policy: GITAM President Sribharat Mathu.. - ET Education",
+      "source": "ET Education",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQaVN6WHJGRGpONEIxOTFGV0UzZ2xpa2VqdV90TGJMMExRZlVKSEpSVXJlSEpnd1FHZ2pLQzlBSDBqQ1B2VFJIYkszeDJ3SFBhdUhZamhnSnlZOFppekZVUFJVeGw1Z2xzd25PQXZQelpPQzMxdDRMQ2NoaGRIczFpeUZwSmdFc3p6OVg2VW5UZXM5OS0tMTRBaTdDX2puWGZQZFpUaUFIRVZuU2RVek9EbDNRYkVHZGdlekx4VVFENUc4Q0owV2xTVWVBZTR3UlM0bWRadW1FQnk3MlpFTkI4aW5LVkR0SEE1UmFWVXA3Mno5cWFGbWFzNmh3NWJEUUR1aGlhSTB2dEVDd18waVN6VUpJdk1zM1J3UHUzR9IBogJBVV95cUxQaFh5bXpZajkzSzlLV3pBQ18xTkpGSjA5ckVzblI4Z1Z0WmtJREs5VE9ITUVPWHo4eHkzY3Buc2xRbmpqVUl4Y2drakt5bkdNYTZzZ0VqNmdxcEFBbTFiVThQc2FhNjdrUG0yRVBmWUNEWDZ0ZHBlQXhzYlkxYlpweUtVenUwTVFmMlhJeXBXaVp5VmxBY3VQaDhqQU9YemFNN2pYekd4X0pjNUJ6SHJLU3U2YnFVNTJvVG45cmpSb0dNZ0RNbF9RVkZMRERiMkFZS1BENHJsUGVZTmlsNF9HN1lQSFFHWnl3M0dEU281VVMyOTZGUk04aWZiVU4yVnRITDRqVlBhVWdQbi1ZdDNEWkZnanRuZkVxaVBZVGswVVV4dw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Visakhapatnam MP performs yoga at East Point Golf Club ahead of International Yoga Day - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXNpY2VEMU1GN3ZwLTIwaDE2RmdOaFNLVlVSeno4MldWWUtJX01lZGNFYnhVdEhMbnFJTlV4aHhQa1lHYVFqdjM5TDNqSVFlckN6NjdlcEViZFhlaFBQbUpwRDJsY1BOTzduZFFObzRyR1RkZGowcFF0RVNSeFF2YUtXWV83ZGg1MVZlT0lxZ25DZ2ViY0hNLUtCNmlKUkFzelcyTFMzTVczb3FMZFRXMTluMWRrdWUxRkEzREd0X3VWQWFhRHoxLXQ4X2xEcGlIdFJVckdVVGZqdjFPY2pvVVh5YVY?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Students told to keep themselves abreast of emerging technologies - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb0FDRG5yRjIzMWpXRFV6X3RDTnJiTFVhZnZUa0xRNWloRjhBU3FQWUdFbjRnbVJwOGpGaFRiLWRybG1nZGp1MEZ0b1ZHa2JnZDB0SHQzc1dtS0xSQkpPZ2RQNlFncmlXTkxrUzFFODRpYXM5ZWZ2RDZYVURId3J0VnBJV0dyNDhsOHAxLW0xZV81NG9wMVZvbnpEQlBvMlpvTmh1ZW5BQmpoTEFvQzJMZEFBTjZlTmE5R1g3NXlIeHRvSnpQZDZrTEtveHg1c3JVM0HSAdgBQVVfeXFMUG9lenJ0WmJDQTJERE9EYi1qYzYtN2dyeDdFUmdZendDOURzTGs0WGU5bjhZX2lqTlZIckJmQUNjdTlpdGpYTmRvbF9GR1lIVVZKZ2pxTGk2M3ZSSFZHT0VjdndBVWMtV3dmVkdBbUtkbllpMElYRzNIclZJME8zU09KdVNCOUszU3puWFY0ampyeGwtVlJLWTBnUVhVSG50UkVENVVES296cUIxLWJGbXoyaWYtX2xTajFmUjA4Q05oZEdNM0E0WnoyS1djUnQ0TXlKQzhlLXN5?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Interview: NDA candidate for Visakhapatnam, Mathukumilli Sribharat, on YS Jagan and Nara Lokesh - The South First",
+      "source": "The South First",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORDJuaWstVWlpM21Qekh3clVQYVdFZ1BtNFVTem81QmdDRFUzUVNVY212ZEJWN2R0R2hsdzhBQm5BQm15Smx3UXEyVkdoekJJR2NNOFZKM3FadmdpeHd1TFZTb01YbnQyVEZ4bWFvZlZ6U3pkdURjMjJFRi1LWGozYlpsYm14aVBNWmU1SUNuYnk5bjIycWlkUU9taDhicmtaa1h6dkdDeHF1Ty0tMVFCQnlSeV94cEoxYVNrN1hTUExWNFZHS3R2UktKcDdsUQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:31:23.303879Z",
+  "collected_at": "2026-09-02T14:59:05.724784Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.615112Z",
+        "fetched_at": "2026-09-02T18:38:04.084618Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.615122Z",
+        "fetched_at": "2026-09-02T18:38:04.084629Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.615127Z",
+        "fetched_at": "2026-09-02T18:38:04.084635Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.615132Z",
+        "fetched_at": "2026-09-02T18:38:04.084640Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.615138Z",
+        "fetched_at": "2026-09-02T18:38:04.084646Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.615143Z",
+        "fetched_at": "2026-09-02T18:38:04.084651Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.615147Z",
+        "fetched_at": "2026-09-02T18:38:04.084655Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -248,40 +304,40 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 1,
+    "positive": 0,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 10,
     "top_headlines": [
+      {
+        "headline": "Vizag MP Advises 800 Displaced Airport Staff To Accept Available Jobs - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdTlrZUFmY3Z0dXlLZHd5SDFYNWJkT3lkb3doWEdNU3ZfZWJyTk82Zm1NVl9TZDRxN1hfOUU4cE85UlA3NEZYbEI3N0REZnNESHN5YVAtdE9KNFZJbHRjdXZ2WFRycXF3ajlRTDAzTXk4SEVJY0FtM2tOVk5ZVVpFbmxnUmxIRVJray1EUVBXS0dtSXFDQ2RvMll6c0lJZmFoQmRyVC0xVzJmaHhWOHVqUTRMcU1tZ0xSbjZWcTQwWmtpNUZUMkItWGpRMXo2ZUtMZUR1YWEwWdIB3AFBVV95cUxPZGgwSk9GdDdQVHJneHFuN01GS21aUzJ6V1BVTVdlMlktUWU2OTY1VzNVVWlSTnhNUXVzV2k4ODZXa21yMlZxNmE3VTZHOExMaWNoVTdBaS1XMHRBR3ZoLUdrS20xZkFPTUFhWWxNaDVNaXluNFJrbExzSS00NW5RWXplVUpOQjdmUDNtbWhPMFkweVBRWWt2X2xxRUhvWGFMZVRneWViUDdNOEhGZlVialV1UGxDVk1uVElNQ3N5TnpmYWc0aWNnSmZJX1lpSC1EdHZTQzlBdHprVTRO?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Higher education needs institutions that set standards, not wait for policy: GITAM President Sribharat Mathu.. - ET Education",
+        "source": "ET Education",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQaVN6WHJGRGpONEIxOTFGV0UzZ2xpa2VqdV90TGJMMExRZlVKSEpSVXJlSEpnd1FHZ2pLQzlBSDBqQ1B2VFJIYkszeDJ3SFBhdUhZamhnSnlZOFppekZVUFJVeGw1Z2xzd25PQXZQelpPQzMxdDRMQ2NoaGRIczFpeUZwSmdFc3p6OVg2VW5UZXM5OS0tMTRBaTdDX2puWGZQZFpUaUFIRVZuU2RVek9EbDNRYkVHZGdlekx4VVFENUc4Q0owV2xTVWVBZTR3UlM0bWRadW1FQnk3MlpFTkI4aW5LVkR0SEE1UmFWVXA3Mno5cWFGbWFzNmh3NWJEUUR1aGlhSTB2dEVDd18waVN6VUpJdk1zM1J3UHUzR9IBogJBVV95cUxQaFh5bXpZajkzSzlLV3pBQ18xTkpGSjA5ckVzblI4Z1Z0WmtJREs5VE9ITUVPWHo4eHkzY3Buc2xRbmpqVUl4Y2drakt5bkdNYTZzZ0VqNmdxcEFBbTFiVThQc2FhNjdrUG0yRVBmWUNEWDZ0ZHBlQXhzYlkxYlpweUtVenUwTVFmMlhJeXBXaVp5VmxBY3VQaDhqQU9YemFNN2pYekd4X0pjNUJ6SHJLU3U2YnFVNTJvVG45cmpSb0dNZ0RNbF9RVkZMRERiMkFZS1BENHJsUGVZTmlsNF9HN1lQSFFHWnl3M0dEU281VVMyOTZGUk04aWZiVU4yVnRITDRqVlBhVWdQbi1ZdDNEWkZnanRuZkVxaVBZVGswVVV4dw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Visakhapatnam MP performs yoga at East Point Golf Club ahead of International Yoga Day - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXNpY2VEMU1GN3ZwLTIwaDE2RmdOaFNLVlVSeno4MldWWUtJX01lZGNFYnhVdEhMbnFJTlV4aHhQa1lHYVFqdjM5TDNqSVFlckN6NjdlcEViZFhlaFBQbUpwRDJsY1BOTzduZFFObzRyR1RkZGowcFF0RVNSeFF2YUtXWV83ZGg1MVZlT0lxZ25DZ2ViY0hNLUtCNmlKUkFzelcyTFMzTVczb3FMZFRXMTluMWRrdWUxRkEzREd0X3VWQWFhRHoxLXQ4X2xEcGlIdFJVckdVVGZqdjFPY2pvVVh5YVY?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "Students told to keep themselves abreast of emerging technologies - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb0FDRG5yRjIzMWpXRFV6X3RDTnJiTFVhZnZUa0xRNWloRjhBU3FQWUdFbjRnbVJwOGpGaFRiLWRybG1nZGp1MEZ0b1ZHa2JnZDB0SHQzc1dtS0xSQkpPZ2RQNlFncmlXTkxrUzFFODRpYXM5ZWZ2RDZYVURId3J0VnBJV0dyNDhsOHAxLW0xZV81NG9wMVZvbnpEQlBvMlpvTmh1ZW5BQmpoTEFvQzJMZEFBTjZlTmE5R1g3NXlIeHRvSnpQZDZrTEtveHg1c3JVM0HSAdgBQVVfeXFMUG9lenJ0WmJDQTJERE9EYi1qYzYtN2dyeDdFUmdZendDOURzTGs0WGU5bjhZX2lqTlZIckJmQUNjdTlpdGpYTmRvbF9GR1lIVVZKZ2pxTGk2M3ZSSFZHT0VjdndBVWMtV3dmVkdBbUtkbllpMElYRzNIclZJME8zU09KdVNCOUszU3puWFY0ampyeGwtVlJLWTBnUVhVSG50UkVENVVES296cUIxLWJGbXoyaWYtX2xTajFmUjA4Q05oZEdNM0E0WnoyS1djUnQ0TXlKQzhlLXN5?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "State committed to develop Kailasagiri as a global tourist destination, says Visakhapatnam MP - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVFRHdmVIR1ZNVk5QbThrSmFxcWVaRjhOYzBEYmhocHFsdFc3NHF6Ry0yQTZPVC1TdEVZbXBWcWlKRTdIYXNwSlNZTk9pLUQtMEk2NklMU2cxUGhfeDhxVWlnUFZZQ3FtVzNoamJNS00wWUdzSTFFaUNya21DTXY5NUFlRXFfalN5MllKeVB3eVg4TmJYa19rR2tqSHgzRHNZbTAzS2QyYkJJYWlhNTllQnJaTFNaM1FmclQ2V1pDVTJRVWo5VnQydDI1NGVlOG1YTnQ2MW9jWkpMb3FPRXdsUjA0aDk5TlBheDdDRHptVkJ6RWhtakHSAfwBQVVfeXFMTnlHaGRoaDZRLUJsRzhDdGx3NnVzVG4yTXRaZXRWTVFoS0tDWGRtZ01qem5pdlhxNXRiU25ZXzVKcXhVclJ2NHNBOG8zby1DTlVlQzJHeEZ1T0stVVI3TEhBWnRSTHNTeC1mM2twRFlaTkhFWDVsVWJVa2lhdHAtZjcxUzdMVVRSVGYtSHJ1VkhJYTk5YjlGQnpOUmpQWFdKNDFmX3VVNGNvVUlYYS1aaThuY3VqbDdwR0dDT3prYkhjaVVvWWNoWm4xMERXdWRRUy1kZ2MwcjJzeUUwOWdBM1BrejBITHJJMFBiYWp1cTYxbGdMXzBla3NveGp1?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Vizag MP Sribharat seeks early Gazette notification for SCoR zone - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcUU5eW5lN1VoR0ljUDlMVkUyTGF3Q2libUp4MFFEWmFxZlRpajlCU2dOM3pIOVo5VUJoWmhETlJQbjVGWGRUVW1vMWJMb1YxWXB6T1gyeE9aMHdqUkFqRlRWdUx4bzdCTXlwSjBpTDNlYXNZdWpJU1lodk9SRS03NVBBVzVQcDR5YlZEVUowOWRlOXhUc0JqVHJZWEx4aHBZVXB5R1czOUZkTXA1Z0RsQndqcjVUcW9sdUxQLXhTT1A4cXhoaWVXR0hXVHMyWTFRa3fSAdgBQVVfeXFMTjYxS1NvaG9fTWE2cmJHY3I2UlNvOVNXQVNIREpoTEg4Q1VzTUxHMkVidTQ3a1Zmc0tKcThhZHpGbHkyTGlLUUhadmJ1TndDa0twNmx4b1BiTTA2YmRSVkdyaHNkUzRiallwZFNpT2lRM1ZjZTl0cUZmd2lELXc5R1B3SmRocDE5cVdNVVdpdTNybXZyU2ZRRkZLcFZ3VGp1VjAwNHhZb2RtWFI2Tk9SSl9pOG9ibVJEZGFYWkhXZ0xyekVITGFJZmtZYU9GMVRNcV9zSExRMDdy?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Vizag MP Sribharat seeks morning flight to Tirupati - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMm1SdXhpaWlheENITkRvMDFlWTNHdk1HdFVteHliYmU0aDBTaExvbnFSc3p5dkxuc3NENTkyUHllV0ZnNUN0ZFdjRG1WZlp3VUlBUGEzTFQ4c0hfV1dWdmc5T3JDN3dGUHVhZFBsNjVtZ1dLTUpOTVJYWXNORzRRNGVsWUU4ek54Yi1Eend0TEFIeDk2Rnl6NUMxT1lENFlnVkstamJFV0dSY1hVTU0xMVZlUGZvY3VUQ3Vld1BFend5WEt1VElfSNIBzgFBVV95cUxQcVk0Rk9leVJjRzZOUllIZG9ONi13V0JsTzVyQkhER3JpMmhLc3dlbmI1djQ4cnNnUkRtR2JKLUdQMFdMZzNBeUZ1TmtpYzRFSVV0bmdRQlJLZGo1TjVvUkVNTUdTblhwbkZFUXJTTFZOSm9tOU9sVG1jT0dnZ3g2WWlQZkw1QW5TZlVKUjRHcHI1NThZcktvWE5yWjRNZ3N2enFwb0hQNlNGeDlJZHJNX1h1bU9Xc1ZNWmZybld1WWkzZDRTX1ItWG5QbFQzUQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -323,15 +379,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 49,
+    "starred_questions": 14,
+    "unstarred_questions": 35,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 94.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

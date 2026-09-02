@@ -4,16 +4,16 @@
     "constituency": "Hassan",
     "state": "karnataka",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 1890,
+    "myneta_candidate_id": null,
     "slug": "shreyas-m-patel",
     "house": "lok_sabha",
     "sansad_member_id": 5751,
     "profile_url": null,
     "canonical_name": "Shreyas M Patel",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 32,
+    "age": null,
     "photo_url": "/mp-photos/5751.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Hassan",
       "state": "karnataka",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 1890,
+      "myneta_candidate_id": null,
       "slug": "shreyas-m-patel",
       "house": "lok_sabha",
       "sansad_member_id": 5751,
       "profile_url": null,
       "canonical_name": "Shreyas M Patel",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 32,
+      "age": null,
       "photo_url": "/mp-photos/5751.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,94 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "F.C. No. 2/2014-15, Assistant Forest Conservator Officer, Subramnya Sub- Division Dakshina Kannada | Section 24(D), (E), 104(A) of Karnataka Forest Act",
+          "ipc_sections": [],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "",
+          "fir_no": "F.C. No. 2/2014-15, Assistant Forest Conservator Officer, Subramnya Sub- Division Dakshina Kannada",
+          "case_no": "",
+          "other_acts": "Section 24(D), (E), 104(A) of Karnataka Forest Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:35.908421Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 426710045.0,
-      "liabilities": 8880873.0,
-      "net_worth": 417829172.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1890",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.023483Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 82.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.37,
-      "expended": 4.32,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:27.885076Z",
-          "notes": "Official eSAKSHI REST API — Works: 192 recommended, 146 sanctioned, 5 completed"
+          "fetched_at": "2026-09-02T14:54:49.502278Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:51:08.868816Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:51:08.866234Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 192,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 29.38775510204082
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 70.0,
@@ -110,7 +142,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:28:40.650590Z",
+          "fetched_at": "2026-09-02T14:51:08.865132Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +150,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Hassan MP confident of Congress retaining Karnataka in 2028 under leadership of D.K. Shivakumar - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOemUwZHZWNmpPelNPdjlENUZDSGlkNHUzdmJxR29VMURpWmdHMjJueEcycTlUT1k4cGluSWR6aGx0QXlzaG1oUGNIMDJYSXVoM28tOUQtaUZra3VTSEZHdjdMM1c0dEh4ZFY5dXhnclE0NDdIRGJhdUZBc0RUbnE5bkVMczJKOWtUOWRxMkhyMmJlcFpnNERBUlBaMk9VQy1VaDVrN1BMQ2JhRXVLdEtvNk1Dcks0LW5LQVFHZGtnVVNMTkFYYkh6OUU3cXJ6REoyZVZFc2Z3UzBsUE1YYjRrY1pUY2pDZzhJaEJKbkNEQW9RaUwycVB6M0toMTFXYjZ4VFNOLWI0WFlqZzhxSkl0STY1c1JNNHPSAZ4CQVVfeXFMUE03Y0MxeFdVOUI2WmhiZDZhSDFuRWdXOWFZSE9ScVRPTjVXbFJjT1V0RUZRai1xaGJ0dGtLSF90YWk5QzhkTnFtX1hpdUNGVlRvV2VxZjVWRnVaUzl2S0hVNkNtaHMtZTFaSUl0ZXNvM29wTnE5TUw4VlNWWHhZMUVkbkVEVWNyNFlHSldGZmZva19KUXNmckRyUDQ2d2o5VzVZb1o5UEs2T0V4TW1ubXFiTUROMV9OcHpnMU5rdHA2em9aVk90S0lFTExWdFRENXJBc0NhZmN4bnMwNFZVZHk0cEhqTDhDUmJJOWEzNEEtZWszZWZHMlExc3V5Z3Ficno3WVFja3NocUNPb2JjLXFEQkxaSFBaRTRNTkZyZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "HDK has failed to resolve human-animal conflict in Hassan: MP Shreyas Patel - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ0JIVVNPaEdCZ0tqb3FHdFZBazRwZFFZSWZ5allYcU5QVUtpM3E5TzRXRXNVWURtZUVCdkpNeEpQU2JoS2pCMWp4VUxiNHVISVRqeVZNZWdDNGljcWNFLU9jTjNtVDR4WktpQ1pKYzZrVEI5c3RReVU0UHV1amFiR3BHdzVjZHEzbG9wY2VUTEN5Z3dsYmNlZmhIX3VzeGRtWDdER3BiTlJtUG1yRU9vUEl0QnRJdVlmaDd4UGtzT1pCWkJuOFloYjY5dVhJUXU5bjFUZEpsTHFyUlpX0gHjAUFVX3lxTE95Um9HNU1kTkJCcVk0dk9ibTBVY2U3U3hJT1lqMVA5X2NrS093VDlIeHhqYzktUTF1S2hSeHlFMGswMzRnam9xU3paZjkzRVVsRG03NWltUEdKelNvVUZleWJUclRUc2h6U1BrbTV4bC1za0hIT3dJMDF4bHZhMzJvUFh4UlM5aWZJWWF1MGZqTUxNZFgtcnN2NTMycXQ1VmswamlEV29wWHZrVkZFMGxEVDdtNjl3MG9PVWRrR3FEWGN6NVdKQ0tyUXNRNGdaWkpLVWtEUC0wNmFMd2w2VTJvSmRr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress’s Shreyas Patel scripts history, ending JD(S) dominance in the Hassan Lok Sabha seat after 25 years - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSTJaLVp0Z0Uyc3h6U29aSzc2SEstc1B2azdpQU9uRFFmMGtJb2R2WTY0XzNsSHM1U21HLWJXdDhWa1NYcU15ZUJHazZVbFNRLXFxcTBFNFM3Y1RjV2s3YjRicUh5bWpXZ0ZUYzBWSTlXenp0UlQwalBHNGxockxjR1JYTHJMSDFTVU1GdF9mUEliZHRMcWE3S2FNYmY0end0LWR2RnBJUDBFWWVEM2hoNWtiYlpHZ9IBvAFBVV95cUxNZVBSYWVOWEN3cmFpWU9pOE1sOEl1M245RWpGOC1PekdnRGp3c2s4VTlNLXdoTlI1VE03d3VaLW42WVV2ZktDREI1LU5naEVDWV9HbGFRcnR5R1h3WXpkS21sa25MOHVqWVZjR21IYnFrRk1nOEphU2FlSVJmVWNrcEJOc09Zckhsb3R4dzN2Tll5N0xFUkN0VmpfVDdpbkxrSHI2WlNIWWh2Wk50bnFEdnZDR2xEdGFHenJoYQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hassan election results 2024 live updates: Congress' Shreyas M Patel wins against Prajwal Revanna - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOSFMyMXVDZHJDejNlY2Mxc3FQelo0TGZ0WkFydUMxU21YU2NINU03cmtMcC1wRkRySXVzS2ZjeTNRZ2VVNGpiZU1UUk1xNFN1THRNUmJFZUtwS24zcmdSWW9mR1RPQ1dMOXY3WWFCRVotYzJWLURIZE5ZZ0JQdjQxNjlrWnpJOGVDUDgzSDJjVWsxZTlMaDlZQm5UcW5wamlMbG5iSDlZOTg2cE1VMDhUdkRTZEF3YTEwdUdDM2hWTEdHSTZRZ2FJZjJ1alRrNXdaRGVPUk94UW5BMENTVlRURkpSMzBuQnZVLUNVQks5Z0NDZU1mWHlqYWlXYi1sOXRtWjFVUlN5SDJBTFQyRmFZelhHLU9qS04zZDNvN3JSRdIBpAJBVV95cUxOU3FFUGp1WXd0NDlMQnVjSFBndFJTbzFIcGN0X29FWk9yVFB4d19FZjRUMEE0bkZXUVNvSld3Mzl2V2Qtbm4yOVVHVXR1UjNkZmNkSDlGdXBDUEhKaTRKQ2tuZkp6YWphVzJfcVdGSm5heXBzQktmazFqUjlaNHUtUjI2ZnRtVE13RThrbG5nUXphZU9FN29wRUhkZDViRmxQd1U0U2lkR0VUV2laOXVVNFRGU2xNMkpEOHZrVFZyY0EtUVFSUVhGVEUzSFo0WVpTUi1IV0RmT0FIWmR6aWZ4WW5tSk5YeWMzN0VsWWF1QWlBUWN6OGgtX2dOU0MyNEJqQ0R1dWNwSXFKVEV6S3BCVjFGV29MYXJ0cmpnLWRvd1FKcEth?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Karnataka polls: Congress may pitch Shreyas Patel against Prajwal Shreyas in Hassan - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ2hjS005TTlRQ05sUkpkd2djQkYtOFRfMlBFWXFFcFV0UjJTVi1GdGVoVkpYY0ZuRTBCZGlrNDYwOGxNTU5maGhmZGd1VUV0dXNhRzRHUzJXSWpkZ0d4d3hKSDlLN0RSb3NySEhSTmNTbE5CMU1lVGVkTkp5QnRlVjJNMWJuYmtkTEkzeXhYYW9jbmFFUWxWWnctSkpodFRnaFUxWkpyTDM4eF9vOVhxcVJmYTZKeGRZdzNBRWZjYXcwYzJIM0wtQkxHTGNPMzhBNm1kRFBLUG9SSWhq0gHqAUFVX3lxTE51Q2ZabXUyZW9ybVgtR1N6bFh5ZE5ya1dLdGFuZkZBaDR0VnFyeUpFenBMdDlZQm03OURwVGlER0hlbjlZR2gtdUVaVV90dGJtN3ZhVkQtTVlqUVE5ZE5ldVNIYmxIVFNUVnk5Z2FpWWlBajhBYWhNcXB6WTJ5cnI5VjVCLWNnZE9uU0hrRFk4TjJnMHVSdDRkWHg4Q2ozcExhR2tMYXU5amFUNHV0MHJDUFRRbVcxdi1VTUxZMGQ5V0U0NHFvZjJCZjFuZmt0SG12N3hzTGstZ1J1NG1FblZyR09iWFhzM2FaZw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:29:47.469611Z",
+    "collected_at": "2026-09-02T14:54:49.503211Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +219,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.277939Z",
+          "fetched_at": "2026-09-02T18:38:06.768710Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +235,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.277949Z",
+          "fetched_at": "2026-09-02T18:38:06.768722Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +251,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.277954Z",
+          "fetched_at": "2026-09-02T18:38:06.768728Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +267,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.277959Z",
+          "fetched_at": "2026-09-02T18:38:06.768733Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +283,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.277965Z",
+          "fetched_at": "2026-09-02T18:38:06.768740Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +299,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.277969Z",
+          "fetched_at": "2026-09-02T18:38:06.768744Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +315,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.277974Z",
+          "fetched_at": "2026-09-02T18:38:06.768749Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,18 +340,43 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "Shreyas M Patel",
+          "url": "https://facebook.com/Shreyas M Patel",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:51:11.422479Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 1,
-      "neutral": 9,
+      "negative": 0,
+      "neutral": 10,
       "top_headlines": [
+        {
+          "headline": "Hassan MP confident of Congress retaining Karnataka in 2028 under leadership of D.K. Shivakumar - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOemUwZHZWNmpPelNPdjlENUZDSGlkNHUzdmJxR29VMURpWmdHMjJueEcycTlUT1k4cGluSWR6aGx0QXlzaG1oUGNIMDJYSXVoM28tOUQtaUZra3VTSEZHdjdMM1c0dEh4ZFY5dXhnclE0NDdIRGJhdUZBc0RUbnE5bkVMczJKOWtUOWRxMkhyMmJlcFpnNERBUlBaMk9VQy1VaDVrN1BMQ2JhRXVLdEtvNk1Dcks0LW5LQVFHZGtnVVNMTkFYYkh6OUU3cXJ6REoyZVZFc2Z3UzBsUE1YYjRrY1pUY2pDZzhJaEJKbkNEQW9RaUwycVB6M0toMTFXYjZ4VFNOLWI0WFlqZzhxSkl0STY1c1JNNHPSAZ4CQVVfeXFMUE03Y0MxeFdVOUI2WmhiZDZhSDFuRWdXOWFZSE9ScVRPTjVXbFJjT1V0RUZRai1xaGJ0dGtLSF90YWk5QzhkTnFtX1hpdUNGVlRvV2VxZjVWRnVaUzl2S0hVNkNtaHMtZTFaSUl0ZXNvM29wTnE5TUw4VlNWWHhZMUVkbkVEVWNyNFlHSldGZmZva19KUXNmckRyUDQ2d2o5VzVZb1o5UEs2T0V4TW1ubXFiTUROMV9OcHpnMU5rdHA2em9aVk90S0lFTExWdFRENXJBc0NhZmN4bnMwNFZVZHk0cEhqTDhDUmJJOWEzNEEtZWszZWZHMlExc3V5Z3Ficno3WVFja3NocUNPb2JjLXFEQkxaSFBaRTRNTkZyZw?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "HDK has failed to resolve human-animal conflict in Hassan: MP Shreyas Patel - The Hindu",
           "source": "The Hindu",
@@ -290,19 +386,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "MP criticises Union Budget, claims it ignores key issues of Karnataka, Hassan - The Hindu",
-          "source": "The Hindu",
+          "headline": "Congress’s Shreyas Patel scripts history, ending JD(S) dominance in the Hassan Lok Sabha seat after 25 years - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMGlQb3BRWGVNaEFWc196R1BCRzdDZlJYaEkwQ0ZGRGNMSlN2OU9MUUpCaTBBQ0dWZWhjeUE4ZDE3MDV1NkxxZTVDeFQ2anFVMFBSc3g0Tnk4cElwSXB5S19mZXFta3B5Mm9VdnR2aGdPTUpSaHJmTS1OcHBmeVVVanlhUUFjZzRFN01xdnlOS2pwY0pNci0tSnlpNnJPQW9idHdndGdMbUxBLXd3cnprQ3JmaVpmRUlZTGM2MEd3RkNkS1JyWnBKc0NZZFQ2LWZ6YlNNOXJZYWRHMXMz0gHjAUFVX3lxTE5raVczd3dYSlBIajBVQ2hhQmYzZjZXTktJdVg1Y3dwVDYyZXBkamI3d2tFZTcybkRrSmN1RnNoUUY0Y1lhamwwNmVUdXB0U0hCQy1RQS0xNjRxbjNuMDlYQjRGYW5KcWJHRXJOcHBQWUJSYkJQZHRRajVhSXBlZ3dtdW5uNWg2YnpzVHRnaTRLNXh6QTJKWlplMGFZTUVPRGZwRkJaczM5Vmxlcks5cEpWMFFLU21FbzVDZGdld2Q2RTRfc0w2UU8wVjdKdUN2cEVuSW5CZTVBc0NxaDM3Z1lnYnlB?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Political Profile of Shreyas. M. Patel, Inc Party, Hassan, and Net Worth - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRHptOUFCRG5sVVQyZ1lWcEF1cjFXYU9JU29FTFB2Z05jeXdVQVhHQndLT21zZTZrZ3hfMGVaUzgteHZEOUdNMm1LelVuTTZiSG9pOUxGY2F2NXZTelVhVzlBV2RraDBGdnZDaHB1NXE2RDVZeWtTQ2w1VURUMHZURjJtUlZFSkg0djBOMk9yODFXSWM2dkdEdk1kRm1hNm5wbnRJZExtMmZ2OXhZMDNqUERNRWtVRm1hX1BWeXZGSlBGSmkycXEwa2RKQ3FmaEVsRS1fMHFydFAxdFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSTJaLVp0Z0Uyc3h6U29aSzc2SEstc1B2azdpQU9uRFFmMGtJb2R2WTY0XzNsSHM1U21HLWJXdDhWa1NYcU15ZUJHazZVbFNRLXFxcTBFNFM3Y1RjV2s3YjRicUh5bWpXZ0ZUYzBWSTlXenp0UlQwalBHNGxockxjR1JYTHJMSDFTVU1GdF9mUEliZHRMcWE3S2FNYmY0end0LWR2RnBJUDBFWWVEM2hoNWtiYlpHZ9IBvAFBVV95cUxNZVBSYWVOWEN3cmFpWU9pOE1sOEl1M245RWpGOC1PekdnRGp3c2s4VTlNLXdoTlI1VE03d3VaLW42WVV2ZktDREI1LU5naEVDWV9HbGFRcnR5R1h3WXpkS21sa25MOHVqWVZjR21IYnFrRk1nOEphU2FlSVJmVWNrcEJOc09Zckhsb3R4dzN2Tll5N0xFUkN0VmpfVDdpbkxrSHI2WlNIWWh2Wk50bnFEdnZDR2xEdGFHenJoYQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,11 +402,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Congress’s Shreyas Patel scripts history, ending JD(S) dominance in the Hassan Lok Sabha seat after 25 years - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Karnataka polls: Congress may pitch Shreyas Patel against Prajwal Shreyas in Hassan - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSTJaLVp0Z0Uyc3h6U29aSzc2SEstc1B2azdpQU9uRFFmMGtJb2R2WTY0XzNsSHM1U21HLWJXdDhWa1NYcU15ZUJHazZVbFNRLXFxcTBFNFM3Y1RjV2s3YjRicUh5bWpXZ0ZUYzBWSTlXenp0UlQwalBHNGxockxjR1JYTHJMSDFTVU1GdF9mUEliZHRMcWE3S2FNYmY0end0LWR2RnBJUDBFWWVEM2hoNWtiYlpHZ9IBvAFBVV95cUxNZVBSYWVOWEN3cmFpWU9pOE1sOEl1M245RWpGOC1PekdnRGp3c2s4VTlNLXdoTlI1VE03d3VaLW42WVV2ZktDREI1LU5naEVDWV9HbGFRcnR5R1h3WXpkS21sa25MOHVqWVZjR21IYnFrRk1nOEphU2FlSVJmVWNrcEJOc09Zckhsb3R4dzN2Tll5N0xFUkN0VmpfVDdpbkxrSHI2WlNIWWh2Wk50bnFEdnZDR2xEdGFHenJoYQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ2hjS005TTlRQ05sUkpkd2djQkYtOFRfMlBFWXFFcFV0UjJTVi1GdGVoVkpYY0ZuRTBCZGlrNDYwOGxNTU5maGhmZGd1VUV0dXNhRzRHUzJXSWpkZ0d4d3hKSDlLN0RSb3NySEhSTmNTbE5CMU1lVGVkTkp5QnRlVjJNMWJuYmtkTEkzeXhYYW9jbmFFUWxWWnctSkpodFRnaFUxWkpyTDM4eF9vOVhxcVJmYTZKeGRZdzNBRWZjYXcwYzJIM0wtQkxHTGNPMzhBNm1kRFBLUG9SSWhq0gHqAUFVX3lxTE51Q2ZabXUyZW9ybVgtR1N6bFh5ZE5ya1dLdGFuZkZBaDR0VnFyeUpFenBMdDlZQm03OURwVGlER0hlbjlZR2gtdUVaVV90dGJtN3ZhVkQtTVlqUVE5ZE5ldVNIYmxIVFNUVnk5Z2FpWWlBajhBYWhNcXB6WTJ5cnI5VjVCLWNnZE9uU0hrRFk4TjJnMHVSdDRkWHg4Q2ozcExhR2tMYXU5amFUNHV0MHJDUFRRbVcxdi1VTUxZMGQ5V0U0NHFvZjJCZjFuZmt0SG12N3hzTGstZ1J1NG1FblZyR09iWFhzM2FaZw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +440,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 11,
+      "starred_questions": 3,
+      "unstarred_questions": 8,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 21.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +456,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 70.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +487,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +514,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 426,710,045. MPLADS utilization: 29.4%. Parliament attendance: 70.0%. Questions asked: 11. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:49.278750Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 70.0%. Questions asked: 11. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.769594Z"
 }

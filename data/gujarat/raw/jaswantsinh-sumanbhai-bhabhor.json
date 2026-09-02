@@ -4,16 +4,16 @@
     "constituency": "Dahod",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3748,
+    "myneta_candidate_id": null,
     "slug": "jaswantsinh-sumanbhai-bhabhor",
     "house": "lok_sabha",
     "sansad_member_id": 4857,
     "profile_url": null,
     "canonical_name": "Jaswantsinh Sumanbhai Bhabhor",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 57,
+    "age": null,
     "photo_url": "/mp-photos/4857.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:57.272617Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 48404861.0,
-    "liabilities": 6287842.0,
-    "net_worth": 42117019.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3748",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:46.462958Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 37.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.17,
-    "expended": 1.61,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:06.357298Z",
-        "notes": "Official eSAKSHI REST API — Works: 297 recommended, 249 sanctioned, 25 completed"
+        "fetched_at": "2026-09-02T14:27:20.571600Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:56.875023Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:21:59.935483Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 297,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 10.952380952380954
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:29.641591Z",
+        "fetched_at": "2026-09-02T14:21:59.423662Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Dahod election results 2024 live updates: BJP's Jaswantsinh Sumanbhai Bhabhor wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWUdER1NFZm1zSlVXLURwd3VSMXZCWkZXdEhzQVlpLW45QlJvZmhjcWUwOXh1MTNRaWZvVjgza3NjZUVNQTVCc0kxbTRpakJVdmNkZWRUWG5Hcmh0XzNTU24zV0FnN1ZvaDltNWlFMURsZmlKcy1NME80MWxqY1dod3Y2dU9hM2xtWkt4UXZsWkFFQkNKNUhaT3hTcXR4VmpsbzZ1V1JqVVZSdnZUaXk5TVp6ek42UHhrV1RENEFNT0dQUDA3c01vdTRvS3JJcGg4YlN4NzBKUWRITDE4LUYzOFFMQ1g0UnYzbklmaXJycUFrRzlrSU81OENBU1Z6TVYzZ2thdWVRaWpDNmZseTF3Zjhkelhsb2xNZGtIU1J2dG9QNnoxY3FKQk1HLXM4cDlURHVDS0kyaHgzUUhLZWRURW5QYXlXaXJOanI5RGFHeVhwd9IB1wJBVV95cUxPV0ZwMl9EYnBNTm42elM3N3pySExNLVJNZDRDaTl3SUNVUkg4ZC1vVTc4QVVQbF9yUHpuOXpEckg5cVh4TlhKZndEYm44US1LOXJpN2lIYnNqSWUyaThMUEduWE9aWDExOFFTdGlFTGM1UFJXanFBcDJuZ2ZPZG9sVm9Vd0EzVFh0Z01iTzgzTjE1M0xwbWlDSklfX1NQMW91UVh6dmp4QmtWVnJuaExremtYakRLV3huTVVEZzJ1aktfWkxhc0JhTmd1YXB1Si14VjItS3BDOG5NQmRFRHhXX2RlUHRoalpCamxvS294SzIxZFpRLXotVDJpY25JVDBHaVRUVWo2VlNIWGxWeER4MlJfR1A4Snpnb1YxVlc5bkxEdmc2U3lyUU5JZXNRN2g3SWxOeEFGNDlscmNOMzZ0QUM1SkprY2cya01ZN2FmWHVHd2hibFA4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jaswantsinh Sumanbhai Bhabhor - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVy02dTRDajNtdXBpb1h6c0I4dW1obU1RbTVjS2VhSDEwVXZfME5tTmc1NkdUZWFVUEFEdGQ2eXdwdVI4STBqd3V1T1c4djRCS0FDYkt6XzdoYmtSb292UEh5dWJwdHQ3cXVsczU5aVp2UFJsYXcxUVl5NHdac0tEbTFXdGJQam9oOHdGanNiRnBiUmhJRzhOT2Jn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dahod Election Result 2024 LIVE Updates Highlights: Jaswantsinh Sumanbhai Bhabhor of BJP Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX0R3bmRPbkg5enozYTVRS2tMY21oSlNaT2RsWVV6UHpqdU1zR3R4aEY5RmZ1ZTR0MFdZVUdtaDJCZ2hUYTZLZkJJQ0RONGpPOVo3bXRkZ003WUZxaXpTQ2hWLWpQVXlQQVd3RS1WaXcySC1ZSzd4T0s0QVpLMDctRVhWVC1tTU1CYjFLeFluUG43WEZpVldNRGZYcWhObjFVV2tsVDhNV3RUOGQyeXJqS2diR1o3VEpxQ2Zrak5qRnBZR0YxMGt5R1lRRFVWc2dYdFl3UHhNSmI1R2NQM1VR0gHkAUFVX3lxTE9hWVQ5VDFZNkhhTWtUQVlmV3dEcG1IU0VQNHVsbERTOXF5N2lmOWhhSm9zSmpRdllHeTV5YmhSWDFmWHpZVVg3ZW9laTFDVWRhM2lJdkNScWlXSHRyWFRQTGxSVVlGUW1JSHctX1l2R0ZzMExFbnpvNHlyUEszQk1qTzZMVjdYOHNYb0NWODkwV21vdjhQd29RelFHSzg0T1gwb2t2bnZDV1QxdzZWd2hULWlHaWZ4V1ZmZXpBYU9yLVJZLVhaZk94cm9WZVUweGNIdWRoc09OWWZjOXR0dkEteldnZQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha election 2019: Gujarat’s Dahod seat is an old Congress bastion that BJP controls | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVnN6Q1kyc0NiekhqQ2NBZ19adW5DeGtIdWV6QV9ROHFXLUxQc1B3ZkZsWGNqYVJBTUFlb3VvMVBVa2FXOFFra21RdzJ2STVBUkpJMTYzZ0J3aEMxQlpTMmdjMkw1MUJaSkRUUmxyOXFxcFZpaGE0R2JhZmpoNWxnVlhETnE0bG52VF9XMjJPZlhHeURPbXcyYVJuZ2VGQ2pKUzkzX01LaE43UV9CTFY1QkRoTmdlNlM5OGI1X0c1eXlyZmpqeEpnd2dWQWtVVnl4R19MMlJpbTVPS2h1V2N1aUtyS0lQUmF1VUc4UzVzSnJZRG5HNmNpSXNjb1NQdzQ4QWxzWdIBigJBVV95cUxOZTZIdjNINmVvQlBoSGNFekljeGpNWGNFb01td2syWmdHUlpnVlpDanJVVVl4SUhmSjR5eVV1blAwVFNMVG45Zk1LS3drSFd0MEc5WW5jOXQwNkVuaUQ5WkVkUWJSMDhyS3poSlR2dnFHazNzQlB3bVRkMU1HQVhZVzBBbGtkYTNWQ25xa0JxRVAwdHJkb2hTVXlqa2RYVlZvOTNCa2poVk5uN2Y3ZjhJcnM3eXJPOUFYeEtUV2JwTmtGR3pKMzR1Y1prUUNINHU3ZTNPdEJubEM0WEF3cWVJRjJDckdmOGJHNnE4NHp3aE91Y0I5TkdvZmlfRTZXZThrNGdJYVh6Z3VwUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sudarshan Bhagat appointed Minister of State Tribal Affairs - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHRpTnZVRklsYjJoUGsxUEhvSDlQS0lqckdHRFFCdG9WRW9rdjVhVV9aZFhlYWkxcG16dWFKUEZKVzUxUlRwOWNzMnFfcE42NFRmekRfZGdVdk1HUlg4RXhCZnFtdVVYaTdaTWRsUUk5bEJfZWJKUHhaSlFjOHEzbVo0WjI1Qmtqd2VNVVBmOUgwYXY5anJUYWU2MFBWdl9BeDdxSUctM0xxNmhy0gGzAUFVX3lxTE9HUHl5OG1wTzIwU2t6SmVUMXBNNUZPZmhIbmlRWmF5VWlKNjhuZXZjRnExUlZQTVdtdjd4QWxUZ1E3aFJ6cE9EZ2hJQ1VJMmVnYVEwRUh0Y1hXSllsQjNBekFkVmQzRkpEX3ExTnlocm95elBxMnY0SVdlYmtlYlBQbjJ5QVZ0eThENWRSUnRqRTZSaWpqeW9TY3BudUVBSU5DTDBDaGsxM2tQclpwcTg4YnRB?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:20:58.166305Z",
+  "collected_at": "2026-09-02T14:27:22.566087Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.068942Z",
+        "fetched_at": "2026-09-02T18:38:05.656796Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.068950Z",
+        "fetched_at": "2026-09-02T18:38:05.656808Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.068955Z",
+        "fetched_at": "2026-09-02T18:38:05.656814Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.068960Z",
+        "fetched_at": "2026-09-02T18:38:05.656819Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.068965Z",
+        "fetched_at": "2026-09-02T18:38:05.656825Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.068969Z",
+        "fetched_at": "2026-09-02T18:38:05.656829Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.068974Z",
+        "fetched_at": "2026-09-02T18:38:05.656834Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,18 +304,51 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/p/Jasvantsinh-Bhabhor-100012747998080/",
+        "url": "https://facebook.com/https://www.facebook.com/p/Jasvantsinh-Bhabhor-100012747998080/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/jasvantsinhbhabhor/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/jasvantsinhbhabhor/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:22:31.798840Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
-    "total_articles": 9,
+    "total_articles": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 7,
     "top_headlines": [
+      {
+        "headline": "Dahod election results 2024 live updates: BJP's Jaswantsinh Sumanbhai Bhabhor wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWUdER1NFZm1zSlVXLURwd3VSMXZCWkZXdEhzQVlpLW45QlJvZmhjcWUwOXh1MTNRaWZvVjgza3NjZUVNQTVCc0kxbTRpakJVdmNkZWRUWG5Hcmh0XzNTU24zV0FnN1ZvaDltNWlFMURsZmlKcy1NME80MWxqY1dod3Y2dU9hM2xtWkt4UXZsWkFFQkNKNUhaT3hTcXR4VmpsbzZ1V1JqVVZSdnZUaXk5TVp6ek42UHhrV1RENEFNT0dQUDA3c01vdTRvS3JJcGg4YlN4NzBKUWRITDE4LUYzOFFMQ1g0UnYzbklmaXJycUFrRzlrSU81OENBU1Z6TVYzZ2thdWVRaWpDNmZseTF3Zjhkelhsb2xNZGtIU1J2dG9QNnoxY3FKQk1HLXM4cDlURHVDS0kyaHgzUUhLZWRURW5QYXlXaXJOanI5RGFHeVhwd9IB1wJBVV95cUxPV0ZwMl9EYnBNTm42elM3N3pySExNLVJNZDRDaTl3SUNVUkg4ZC1vVTc4QVVQbF9yUHpuOXpEckg5cVh4TlhKZndEYm44US1LOXJpN2lIYnNqSWUyaThMUEduWE9aWDExOFFTdGlFTGM1UFJXanFBcDJuZ2ZPZG9sVm9Vd0EzVFh0Z01iTzgzTjE1M0xwbWlDSklfX1NQMW91UVh6dmp4QmtWVnJuaExremtYakRLV3huTVVEZzJ1aktfWkxhc0JhTmd1YXB1Si14VjItS3BDOG5NQmRFRHhXX2RlUHRoalpCamxvS294SzIxZFpRLXotVDJpY25JVDBHaVRUVWo2VlNIWGxWeER4MlJfR1A4Snpnb1YxVlc5bkxEdmc2U3lyUU5JZXNRN2g3SWxOeEFGNDlscmNOMzZ0QUM1SkprY2cya01ZN2FmWHVHd2hibFA4?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "Jaswantsinh Sumanbhai Bhabhor - The Hindu",
         "source": "The Hindu",
@@ -280,14 +366,6 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Prabhaben Kishorsinh Taviyad - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGlqTmtiVDlLNW82d0FtOUNJRi1aQ0kwMFhkSUp2LVd0MzZfajc2SGdUZVNjT19UQmd0MnYzak1DWlQyT08tUVFrbnc2UjlKWTIyYWpncndKZlpwVlQ0RFRxU0pDWlNuRVRBNm9sbGcyWWRveFBTU3dCSW5BQ1BEc3h6alhKU193SlNIT0xHZkNuR0Jkd1E2NWUyNjBFRUx0SEVodkl3X29QbWtuMnV5ckhfWEFJV0hma3o5cGJ1NVpUa2FlQXc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Lok Sabha election 2019: Gujarat’s Dahod seat is an old Congress bastion that BJP controls | Hindustan Times - Hindustan Times",
         "source": "Hindustan Times",
         "severity": "low",
@@ -296,15 +374,15 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Cabinet rejig: Sudarshan Bhagat shifted to Tribal Affairs Ministry as MoS - Business Standard",
-        "source": "Business Standard",
+        "headline": "Sudarshan Bhagat appointed Minister of State Tribal Affairs - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeEhPanpnSm9aSUQ5TGdDSjRwdU40RkpjYTdxLVFqNzFKVTNydUozVGV5clotU3hockw0XzNHWHZpd2VSMVZjWWJqZlRTSU85VEwzNG1wZ0tZemdwRWJHa1gtXzJ6STdob19qR21nOUdWSmFPTzBnc2VTVWViaGc1WHhudHoxQlZ4N084YVBoa3laczc1ZnJNYld6bmVQUUlHcUJWNjI5d25GSUZaRHpfOWFEbm5PV3UtUWI4T0xoWjVIUFBPT19qV3JsbTZRNVRFTm1DX244Tk5yX3BqY1I3UmZjVzTSAeoBQVVfeXFMTzNBaEc4c0wxM0ppcUNqTlIwU1otb2w4YjVMNzBLVjZPM1BVTWl4WnM3ZXNLWjJMeGJqX1hheEVPRWVGLXV3THhPcFEwWmExTE1teG1jb1Jvd24zWVhCWkVEOEloRHBiYXhtOE1RWFRfcDE4dEtLQkdJNEZRRnZVUjF6XzJCd05FU2ZtZ1psWjJRQ1EzWE1OR05DeGlwRWtCemRyNFh6MFRORndTNUxzSGtTeEV1Wm12dFpseE13XzdFVGtpTVpTMlFXdmpDVEpoaVNLaGl6S1lyQVJBMzBJczRac1VjVDh3Y1hB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHRpTnZVRklsYjJoUGsxUEhvSDlQS0lqckdHRFFCdG9WRW9rdjVhVV9aZFhlYWkxcG16dWFKUEZKVzUxUlRwOWNzMnFfcE42NFRmekRfZGdVdk1HUlg4RXhCZnFtdVVYaTdaTWRsUUk5bEJfZWJKUHhaSlFjOHEzbVo0WjI1Qmtqd2VNVVBmOUgwYXY5anJUYWU2MFBWdl9BeDdxSUctM0xxNmhy0gGzAUFVX3lxTE9HUHl5OG1wTzIwU2t6SmVUMXBNNUZPZmhIbmlRWmF5VWlKNjhuZXZjRnExUlZQTVdtdjd4QWxUZ1E3aFJ6cE9EZ2hJQ1VJMmVnYVEwRUh0Y1hXSllsQjNBekFkVmQzRkpEX3ExTnlocm95elBxMnY0SVdlYmtlYlBQbjJ5QVZ0eThENWRSUnRqRTZSaWpqeW9TY3BudUVBSU5DTDBDaGsxM2tQclpwcTg4YnRB?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (7 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 35,
+    "starred_questions": 10,
+    "unstarred_questions": 25,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 67.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

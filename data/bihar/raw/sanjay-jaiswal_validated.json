@@ -35,58 +35,72 @@
       "photo_url": "/mp-photos/4455.jpg"
     },
     "criminal_record": {
-      "total_cases": 5,
+      "total_cases": 0,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 5,
+      "pending_cases": 0,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 290535126.0,
-      "liabilities": 13525.0,
-      "net_worth": 290521601.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 77.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
+      "entitled": null,
+      "released": null,
       "sanctioned": null,
       "expended": null,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:03.117182Z",
-          "notes": "Official eSAKSHI REST API — Works: 0 recommended, 0 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:45:02.765755Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:40:56.035162Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:40:56.033252Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
       "works_count": 0,
-      "esakshi_coverage_start": "2023-04-01",
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:34.216946Z",
+          "fetched_at": "2026-09-02T14:40:56.032427Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Bihar: Youth held in connection with extortion call to BJP MP Sanjay Jaiswal - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcksxalhsVFdBTkM4b25Dd3VPMThXQWpEZDRyWHlwMEhWSjlZN1dtNWNnZ3FPNWpROVN3NnlEbnVIOFVzRk5oRHRPaXdpSDIwR2FOQklETWlWZUMyM0pEckJORmRoYlA5Vmd5WWo2TFlsOVZ5aFl3cDRrYlVHSldaN1l5UDdRNEszcXNyRHEzblZOTnJGWUkzelpyS0tzTEphTmVCMFdCUlpZcm5DWlZRd1FtWXcxM21sY1pLcGNqblM1c3FHUEZobk9nV2VtYkZ6?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Ab Bengal ki baari’: Bihar BJP MP thanks Opposition for making SIR an election issue, ‘helps us actually’ | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYWNKSGJVeFhpeTBKOHplM1RqSld5VjMydVBDaFVlbTF4UWtBTG41MEpVc1FySkN5d3JPQXNaZ3hUbGdXMHgtNTZhRmF1aGNWbXhXLVBxWVFHRlpuSWtZSUhjWFZrYmtlNUljQWxLTmJKZ2o1dTVwTWFqQTAxZmJ6d3h1T0RXcmRXZExaT1NPU1pFMy1yWGtORTRzRmRVc2RYRk9IREV4ODFDQjBwdVU4eFVaVUpWM3lFYXZSLVNueFhhWWdwWHFRVXk2dEVXV0I0S3NyNTFKN2d1U1hqODhNUk1NRFhuZ9IB6wFBVV95cUxNY1NDU1lvOW9seHgzbTFDLUZuNC0zdGdwR1owbU5vQXE4eFgzdTRUdW9BUHd0OFFPTWZKNk52bkRoQV82d0pIVUJvVkJLYzM2SWJZdjBaUmJNQUlZYm96M1BVdllId2FIeEFoOWlRMnFpRFVfZE5yVWFLdVYxUUtPcllPMVVyOUhfZGtzWHY0QnUxdlFucWJkaEZWQzcyYzNqbEIyTDRyNXh1a2FvNVFOT3F6dzkyV2M5V29aeUxacmRxQUpVQ0ctdnlqYkszNDNmUzdyN1VXRl9sOWxEQUdtbnExb1lNczFYZEVN?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP Jaiswal files Rs 125cr defamation suit against PK - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmlFUENSdmlmVy0wVHctZm5aQTNHZzRvaGFnNXpmZHF3aFhKZzU5bnZmdktXOUI5cDh0aU1iNlZGMGduOFBYaGtQa01MTGRiWFM3UVBjdk1zMHg3TWpkamdxR213RUI2UnAwVjRBZDNYYjdkUEJnWmRKTVBzYjhMaXdibVpVeGhub1VodzFwVTdvV3FlS1V0T3hGeTN6RUhpUTNrdmxkaVhMNGdqc3daTVNyUWtSa3k0eHkwMDBmVlhJRmRDcHVGVtIBzgFBVV95cUxNTXhtQVZsX1NxZWZqdF9xUXY4YnU3cERXM1RRQzVnR1c2djBDSzdGaldMYktVZ3ZPVFhLckZkczZhLTN5RmlqT1hvRWhvTk00bXJiampvY0VhSTZRMFBncW8xc2U4MjNwcUFfOVk5RG0xSGNrRkFSLVdTWnBfUG9XRG1kRl9tb21hQVRIUTZsZmJZMGhXTkpPLU9telNJZjA5eHVXN1dwcmxtbkZ4dHU5TkJ6NHdHcjg2c1lweEZ6WUR1bXZOQ2F2RjV5ZkhDZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "West Champaran Lok Sabha Polls: Congress Banks On Muslim, Yadav Votes In BJP’s Stronghold In Bihar - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWGp0MlY0WTRFWldhOHJyVGpQd3dKdXRBZ0ZNcWRRV0c3N3NUMTk3REdNN1o0QTlpMmVWWWJXVUY2OEZJYU5YenF5cWdOOXB0Y1pUVzEyazBoVEdBSnNvS3M1SWw4RVBacFBNSkN1Zk1OUkNSWkh3ZG9XMU9mWE40OWZHcVk5bFQ5MUp4ZkFfam03eDZOaVlxWE5XT0M0NW1xVENtU090dHRROWtDUEF2Q0xZZzBxb1doREtmOVJsczlQbFdfWVA0VU1BUHVMZlZOWExtbm56RFnSAd4BQVVfeXFMTlk3NXpUbHJVWTNEUFFJcFpVVDQyR2FGYmZ5NTRjV1B5SVF6bjVpN1VRVmp6UUdoT2xoMUwyMklhTTU5bzduSWdSOGNpS1RzbExIYko1ZW5uYXh0c1J1WURSdUVpMG8xMF8zYVlranA4SFVvV3NYNUtSNGhtWkhwbFR6X0dFeG9FaThWbk1lQ0NpbTM4OEVPVlV6M3F5WHZ2VmtSSHJCUHlMUEVMOGVyaW5oQ1pGUFZDRDBaRXE4TzYzc2hwVlp0RDFPMXQ0d3QtN0lyaEJlYVl1eGZrVEt3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Paschim Champaran: Three-time BJP MP Dr Sanjay Jaiswal to take on Congress' Madan Mohan Tiwari - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVllTUC1mZVA0cnlMUUVHcWc4RTVBdV9RMEZVdUpFUjB2U0w3ZUl0YWhVeWRmQnE1bGFzdlg0bl8yZFB0eklCMzY2WV9Odk51Z3lCOWtLaTJJTjJwVmNRM18zc2t3eEw1NTVhcTVYVkxGQ0k4ZXVxWlplbkVPWFpjd0Y5bTAySmFIeWZJd0pPUXpTZUxSZWdWbkFEb2dGcmd4dUYtSElmNVB1eVlhcC1SV1ZNQmVtVW5yczBva2hKcGtKVkV0cFFjU203LVpfNmloanAyTEJPWTdNQ1lwd3d4WTJ3VUlWdUkwOFRuNA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:39.325582Z",
+    "collected_at": "2026-09-02T14:45:02.766583Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.393462Z",
+          "fetched_at": "2026-09-02T18:38:04.858212Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.393470Z",
+          "fetched_at": "2026-09-02T18:38:04.858223Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.393497Z",
+          "fetched_at": "2026-09-02T18:38:04.858229Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.393505Z",
+          "fetched_at": "2026-09-02T18:38:04.858235Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.393510Z",
+          "fetched_at": "2026-09-02T18:38:04.858240Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.393515Z",
+          "fetched_at": "2026-09-02T18:38:04.858246Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.393519Z",
+          "fetched_at": "2026-09-02T18:38:04.858251Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -249,7 +305,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.393523Z",
+          "fetched_at": "2026-09-02T18:38:04.858256Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -274,11 +330,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/Sanjayjaiswalmp",
+          "url": "https://x.com/http://www.twitter.com/Sanjayjaiswalmp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/Jaiswalsanjaybjp/",
+          "url": "https://facebook.com/http://www.facebook.com/Jaiswalsanjaybjp/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:41:26.054177Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -287,11 +368,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "\"Mamata Banerjee is biggest coal smuggler...\": BJP's Sanjay Jaiswal slams West Bengal CM - ANI News",
+          "headline": "Bihar: Youth held in connection with extortion call to BJP MP Sanjay Jaiswal - ANI News",
           "source": "ANI News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRl9abDRBalk0SW5TRzdaenpVT2RuRHVIM1N0NGlWaE5GN3pFYnZuUWJXazBlb0xweTFMNndxLVpUSlhCQ3RZVWZaVGNkNllGZ2l0dnpLb252dk1oVkFzLXhkOVItcFVsdFY4OXpXWGFoVkNPa1k1NmFKd09XUVlwUDc3Q1VLcmM1UGhfNkQ4azdzaVF3b1Q3NXlrVjZrSUxxODRiMXJfZjBlbWNqS0w4SmRSRkxvLW42QzR1SEw2ZGZSMHlpOFp4WXktUlZyNmFZOEQ3amtPYno?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcksxalhsVFdBTkM4b25Dd3VPMThXQWpEZDRyWHlwMEhWSjlZN1dtNWNnZ3FPNWpROVN3NnlEbnVIOFVzRk5oRHRPaXdpSDIwR2FOQklETWlWZUMyM0pEckJORmRoYlA5Vmd5WWo2TFlsOVZ5aFl3cDRrYlVHSldaN1l5UDdRNEszcXNyRHEzblZOTnJGWUkzelpyS0tzTEphTmVCMFdCUlpZcm5DWlZRd1FtWXcxM21sY1pLcGNqblM1c3FHUEZobk9nV2VtYkZ6?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -303,27 +384,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Memorial will immortalise sacrifice of Ram Temple Kar Sevaks: BJP MP Sanjay Jaiswal - The Hans India",
-          "source": "The Hans India",
+          "headline": "BJP MP Jaiswal files Rs 125cr defamation suit against PK - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVNkYzZDWmE3ZERSTkpQQklhWk9ENlBfazU2dHdDbndVeGV1SzJqMDRDRjgxR3pzc2VwejJfSjdVNDNVZGxmcWViY2pxdG9FdHhqamNKQTc1NmZGUVJ0X1FqNlFYVkQwVC05bVFSN2tId3NucjBmLXdSU2h4SkQxM21DTmFsd0RVN3g1TVVZbkJpcVNwYm1tUTZuZlJCMlNMcnVRQURZSmFqZklSMU9QNTZJN1E5blBfTmxsdDVtT3hHTW9nbzVYa1c4SDNWd9IB0wFBVV95cUxQanBXVWdnOTc5TkZ5Zi1kWDEzNWFzTzI2UWZ6UmFONWxCNkYzM1E4Tm5TeFhwWUZvdW5wLWl0ajRJNUlFQjE3MTVMeVQwMjk1RTVTSUx6VmZEU0Rodm1DUDVMZzE0R2ZlX2JlOS1lLUlTa3RiUlpySW81RnNzNERXZUJqbm1pSFZBRjZ6X1M4cmZ2c0c1SUU1N29abTZLbTh6ZnRkZHpLNzNiNE1LM1lCQ0t1clFxZG1EZ3BkT0czZkU5QzJHYk56MnJqaTFsWHhRNFVN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmlFUENSdmlmVy0wVHctZm5aQTNHZzRvaGFnNXpmZHF3aFhKZzU5bnZmdktXOUI5cDh0aU1iNlZGMGduOFBYaGtQa01MTGRiWFM3UVBjdk1zMHg3TWpkamdxR213RUI2UnAwVjRBZDNYYjdkUEJnWmRKTVBzYjhMaXdibVpVeGhub1VodzFwVTdvV3FlS1V0T3hGeTN6RUhpUTNrdmxkaVhMNGdqc3daTVNyUWtSa3k0eHkwMDBmVlhJRmRDcHVGVtIBzgFBVV95cUxNTXhtQVZsX1NxZWZqdF9xUXY4YnU3cERXM1RRQzVnR1c2djBDSzdGaldMYktVZ3ZPVFhLckZkczZhLTN5RmlqT1hvRWhvTk00bXJiampvY0VhSTZRMFBncW8xc2U4MjNwcUFfOVk5RG0xSGNrRkFSLVdTWnBfUG9XRG1kRl9tb21hQVRIUTZsZmJZMGhXTkpPLU9telNJZjA5eHVXN1dwcmxtbkZ4dHU5TkJ6NHdHcjg2c1lweEZ6WUR1bXZOQ2F2RjV5ZkhDZw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP MP Sanjay Jaiswal gets Rs 10-crore extortion call, threatening to kill son - India TV News",
-          "source": "India TV News",
+          "headline": "West Champaran Lok Sabha Polls: Congress Banks On Muslim, Yadav Votes In BJP’s Stronghold In Bihar - News18",
+          "source": "News18",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY0FvZmZFM1d3cEh3aTZyU21nSnVwcV9IREZfZHplUlJ0MW5UeUZzYWVyMkZwVVZXTk10SjZLQVQ2VUN3dXBaZVRJNmJDLUdTUWtCOGhSNEdjMDJYSTBpVmJQMXVIbjhIWlRJY185TkRhWEdYWHJ4OEVydTRoZDljY3ZqbnNqajNGVXR1am9ici1RaHBlZ0RqMjFmb2w0Um1TbEw4NFFJQk1QTlJhalJyeTRKbDFtMWJ5T0J6d1NQQVI0dmhlcno1SWNVWWNwQnBBNFdKVkJucnZhZUp3RjM0dkpFdUzSAeoBQVVfeXFMUHZUQ1JCZlBZUFc5VjZ3OEstd25iTUZWOFR1cDhLZlZDVHZNalZIVGQ4QVFuenBMVjJHdmNGVlJQTnpUUS1fYWtHUW8wRXZ2YWs3Q1NYWFJ6eUxoaDNTNUswRzIyUHhJbXh6cFZYUG5pcjFnOHk0THpDcGp1MEVkYnhXU1RONTdlQ2NxLU1PN242WG9SU3VNcU9fby1JMmh1cFY3ZEswSVE3UGNHVDBVTVcyRmhja2xMcW83WHhvQURYWEl4SjByVVBSbHdRdkJzYnFjWVB2aFFfQWJORF9GTHZLQjFtWThJZTBB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWGp0MlY0WTRFWldhOHJyVGpQd3dKdXRBZ0ZNcWRRV0c3N3NUMTk3REdNN1o0QTlpMmVWWWJXVUY2OEZJYU5YenF5cWdOOXB0Y1pUVzEyazBoVEdBSnNvS3M1SWw4RVBacFBNSkN1Zk1OUkNSWkh3ZG9XMU9mWE40OWZHcVk5bFQ5MUp4ZkFfam03eDZOaVlxWE5XT0M0NW1xVENtU090dHRROWtDUEF2Q0xZZzBxb1doREtmOVJsczlQbFdfWVA0VU1BUHVMZlZOWExtbm56RFnSAd4BQVVfeXFMTlk3NXpUbHJVWTNEUFFJcFpVVDQyR2FGYmZ5NTRjV1B5SVF6bjVpN1VRVmp6UUdoT2xoMUwyMklhTTU5bzduSWdSOGNpS1RzbExIYko1ZW5uYXh0c1J1WURSdUVpMG8xMF8zYVlranA4SFVvV3NYNUtSNGhtWkhwbFR6X0dFeG9FaThWbk1lQ0NpbTM4OEVPVlV6M3F5WHZ2VmtSSHJCUHlMUEVMOGVyaW5oQ1pGUFZDRDBaRXE4TzYzc2hwVlp0RDFPMXQ0d3QtN0lyaEJlYVl1eGZrVEt3?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP MP Sanjay Jaiswal Receives Rs 10-Crore Ransom Threat, Son Targeted - Patna Press",
-          "source": "Patna Press",
+          "headline": "Paschim Champaran: Three-time BJP MP Dr Sanjay Jaiswal to take on Congress' Madan Mohan Tiwari - ANI News",
+          "source": "ANI News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoT3AxWEg5b3hHVGZwdFVla1FsX3JvMnNqeHRnTENHbXRHd19EdldDT2VaNTJOLUtWaXljaVJoYzRWNVpZcHg4VF9VdGF6dV9hajhWOVM3TzNhZjUxY1FLOEdrb2U2T3p0VTV1cmNLNTFXYm90a1hROVdZcEI?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVllTUC1mZVA0cnlMUUVHcWc4RTVBdV9RMEZVdUpFUjB2U0w3ZUl0YWhVeWRmQnE1bGFzdlg0bl8yZFB0eklCMzY2WV9Odk51Z3lCOWtLaTJJTjJwVmNRM18zc2t3eEw1NTVhcTVYVkxGQ0k4ZXVxWlplbkVPWFpjd0Y5bTAySmFIeWZJd0pPUXpTZUxSZWdWbkFEb2dGcmd4dUYtSElmNVB1eVlhcC1SV1ZNQmVtVW5yczBva2hKcGtKVkV0cFFjU203LVpfNmloanAyTEJPWTdNQ1lwd3d4WTJ3VUlWdUkwOFRuNA?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -357,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 26,
+      "starred_questions": 7,
+      "unstarred_questions": 19,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 49.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -373,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 70.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -404,8 +485,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.21,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -419,12 +518,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 290,535,126. Parliament attendance: 70.0%. Questions asked: 26. Debates participated: 7.",
-  "validated_at": "2026-09-02T01:36:47.394175Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 70.0%. Questions asked: 26. Debates participated: 7. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.859001Z"
 }

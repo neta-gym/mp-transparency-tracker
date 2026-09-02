@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/4561.jpg"
   },
   "criminal_record": {
-    "total_cases": 1,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 1,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 20252293.0,
-    "liabilities": 0.0,
-    "net_worth": 20252293.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 17.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 16.39,
-    "released": 16.39,
-    "sanctioned": 4.81,
-    "expended": 1.12,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:34:59.882572Z",
-        "notes": "Official eSAKSHI REST API — Works: 122 recommended, 86 sanctioned, 6 completed"
+        "fetched_at": "2026-09-02T14:26:37.902193Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:47.984205Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:21:50.265806Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 122,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 6.833435021354485
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:41.866858Z",
+        "fetched_at": "2026-09-02T14:21:49.106922Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Malappuram election results 2024 live updates: IUML's ET Mohammed Basheer wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOSzBhNDdkbFhoM3ZjQldvckVGYk9HRkttdWpWZnhaRmpRWWVjZ1NxbTduUllZR0tFb3pTQ0xJMWM4Yll1UHliam9zYXNBaFVnbmxTOUR5NFBZTVJYVzFsU1VfTUJxZGw4N2huZXJVdmFtRVlCRVd0WnZPLTU1QkhFOWlUR1BFVUpwSFQtNDE2VUswNEg3bXpTb0F2ZUt2SXlIOUt6a0VRTmxYQmZ4ZGEyMmlLelZzeEJmTk4wczBkUXVDMlFnbzU5X0hXd0VNcE1wMF9RYlhHd0pqV2Q1cU9kZU1qM3VIcm9sOVpac21OdFp1a0tTMGZMemVSS1ZsZjhUX2ZtZWVsUDA0RmNwYUtpNlNIX29MUmk3R0ZCdG91WDc5d2tPMk9FWnVMX2dtYU5tN3hybjZRdVnSAb4CQVVfeXFMTWk5dGpPU28zd1NDVWtmc3ctOUJZbnNBcUF6SEtsRVRTTl9hSTBIX2psaExPMEdqc3ZVY1FEbV9ERG12SjQtXzFjcS0tX1lyb29yMVN2RVk4ajhoQU52cm5zbmd1ZThuMUZlLXJaWFFacGVFa2x0enJ0dG5HUjlIdjJya0I4YkdzU01KZFJQVU1MNHNlQUZ1NVlIMVJ0c2VSajd6ZWJ6QVZrNGFqRGZhTXlWcHdUR25zUG5walJiRGk4b2N0YWNPb2UtdjNwNUJNT04xamNMWURyVE4yZkxqeXRCSnJWY044dXdKaEJVYU5QdTFHV1VfdnlaMGVfV29tbkY5a2EtaFlkYmdBTnF4TE1DSGR4VlNOQ2JjTEdzd3M5bV8tR1R2QTBjazQ5WnQxQXNmWHl5SlJWeHNyZm5R?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "IUML’s constituency swapping springs no surprise - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDNxRnBUMWJ6N2hkR1RuVndpNEtIOEYwblI1eU5GSFI3UTROc0NaemMzU24wb1VkVkU3Mkh1T0tUdlVUazJucHN6Um5GZWZROEdWUjBOam9iLWc3ZXRwSlNOUWVBVmJpVXZKSE9qQi10bHhrb3ZXclhaXzJaNXVYSk1peEdOdEJ4SGFhaVNsNmxhSHlQQjY5aTZ5VU04X19ZMFk2aU5kVUlBQi1oSVFGbVhR0gG4AUFVX3lxTE56UkpJZGJ3UkphUHFXQnZfWGoxdzQ4V3FpZmZMeUtSZ3VGUDZSMU9FSFFGZjR2cEk3LWZkM2tTT3dmWTRkWDdlYkNSNHE5MFhIN1ZuUTB4TldPVFBfZlpYUjZzY3BUVWpfRlNNaWFQWnpBN3h1RWcwZVkzY1N2VVU0ZzlqRTRnaUVIMTJOVmRxcE1kdnN3OW1qZVJzU01lWEttWExFblBmbjM3LVVhNU82QVlzckpRUVY?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mohammed Basheer - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zVDJCZ1NzZVptTkRvZHpON3VMWHpxM19odzd0Z1NmWjFnUkJ3d0xzOVhTRnJnM2pteVNDYmFSMFpvanVkODhzTU5GN0cwd3JTUGlEakFTUWNIS3FIMmc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ponnani not a cakewalk for ET Mohammed Basheer, Muslim League’s sitting MP - The News Minute",
+      "source": "The News Minute",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVUzOTc3MThDX21SRzdJNEIyVFNIQlctUS0wOHFXT0FNVXJudGM3VllYckgxUFVnME9xenNNeUZYemNmaVU2YzJzclNVQmszTVVsbHdhNlpPMFRzZ0t6UGljRE9hSUM2dG9acVl1TzFNdU9zeE9yc1oxYllTdE11TG1pcEN5RFFHSzdRNWRweU5tWmwxcWdQcGZiNUJIY2Y2T19vdExPV2t2UVhLRHFB0gG8AUFVX3lxTE5MZzVNTVJkUVhKN1M0N09JYXdIWTNqaHpTTFZxcUdzNnBFUG5fdkN0N2hWUklZdld0NVBoYVE1ZFd0eF9abUtUZUZHVGJiMjFSdi04UjJqUzR2WTd3T19YaUxDRHY4Q2YyTld2ZGFnTGZZUDR4LVZJeEttaVFnbVd5ZEdQdjVNMVZkMzBUbU1xcHFXYTVIa2RIYmFValB5ZEd4cG9UMHRiZEVfdXNVdlF2UFA5cXAtRXNrTFFp?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "IUML’s Lok Sabha picks call on Samastha leaders - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1JWnBjNTlnWUtPWldTNWFoZ296Y1lmSXlfZXR6RUxBakxHemtMV1FscEpHTDI3d0ZfT210eWhieGxIU0Y4aHNncjBfRHRjVWo0MnBOMkpLNnNNYU10TVBuOUVycFNBSjB1bXltLXJtVUxfQmFyMHUzZnp5LTNvLW1BQWcxangxRzlNQVIzM1IwWlRPZFpKRUtVU3U0RE1FNXpReUNRLWbSAbYBQVVfeXFMTzZBb0hQS2d3OXVuY2M1VmN3YjN3NTRLVklpUWg5VTRjXzdPWGdQVVZnTGJMNVM2TGs1X1NoaGZ1X0pFenFkNVo3d1JjLVlid3R2dWdtYS03WkRmOERwYVkxYnhwWUJIdGlySEV0X1hJenJQTmczdWNXYkxmNHBhbGtUbWhsdzMzdjlhUXFzVWxlQXZ2SGJXRWppOXBVamp6S19BZE5IY0JpRkkwQjJVeUZlYXBIVXc?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:04.845581Z",
+  "collected_at": "2026-09-02T14:27:04.905818Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.438431Z",
+        "fetched_at": "2026-09-02T18:38:06.920663Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.438440Z",
+        "fetched_at": "2026-09-02T18:38:06.920675Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.438445Z",
+        "fetched_at": "2026-09-02T18:38:06.920680Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.438456Z",
+        "fetched_at": "2026-09-02T18:38:06.920685Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.438462Z",
+        "fetched_at": "2026-09-02T18:38:06.920691Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.438467Z",
+        "fetched_at": "2026-09-02T18:38:06.920696Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.438471Z",
+        "fetched_at": "2026-09-02T18:38:06.920701Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -261,35 +317,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Does CPI(M) offer a friendly fight to IUML in Malappuram, Ponnani? - The Hindu",
+        "headline": "IUML’s constituency swapping springs no surprise - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVEk1OTd1OXFqX0FyWXJTamMwLWp2blp4WDRrQVdUdFhLTlpmenVQVVF1VmRRWVV4d1NlRmtrYTFZQ3hIVFVsaFUzS3FOb0lvMlNwbVdQRjlZYXpXUkY3WnNSSXpaX3RGZ0V2dUZ4al9VS3djS2k2OU82Sk1KN25CSUhrcUpnOEF2eEdCRHVQcE1vWlk1blFqcnFmWlJoOUc5UTNmMTJSbG9jdmVoVFZubEplekhSY2M5Z3kzaDBxcS1yN3JhcWdXVGw4UDhyTzdsVXRyY25n0gHcAUFVX3lxTFBfb2lKRWJRdFRzQnVlLXRpR3pQRHNfMFdXSUQ3MG9lZ1dmUjVJVC10TXVWY1VfVTB5VENQbF82Mlp6VkdvRlE4cnE4ZFp4aWtVaXVaX2FfYVZ2ZkhPTFFwZlRjYVlVZHo5aDFubHZsemRLZmFUVVFxaDJ0Qk5iajVCNVVYdnlNdXRJQmFTR0RmOC1POXM0YlhIVFBGVnBJSXlvSU1RX1hYWVp1Y2wtV3hfbGUxY1QtOW1xeGJpNGF4eW1vRDBIM29rM3Y1c1haZFlpRi1CU2ZoczM0VVY?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDNxRnBUMWJ6N2hkR1RuVndpNEtIOEYwblI1eU5GSFI3UTROc0NaemMzU24wb1VkVkU3Mkh1T0tUdlVUazJucHN6Um5GZWZROEdWUjBOam9iLWc3ZXRwSlNOUWVBVmJpVXZKSE9qQi10bHhrb3ZXclhaXzJaNXVYSk1peEdOdEJ4SGFhaVNsNmxhSHlQQjY5aTZ5VU04X19ZMFk2aU5kVUlBQi1oSVFGbVhR0gG4AUFVX3lxTE56UkpJZGJ3UkphUHFXQnZfWGoxdzQ4V3FpZmZMeUtSZ3VGUDZSMU9FSFFGZjR2cEk3LWZkM2tTT3dmWTRkWDdlYkNSNHE5MFhIN1ZuUTB4TldPVFBfZlpYUjZzY3BUVWpfRlNNaWFQWnpBN3h1RWcwZVkzY1N2VVU0ZzlqRTRnaUVIMTJOVmRxcE1kdnN3OW1qZVJzU01lWEttWExFblBmbjM3LVVhNU82QVlzckpRUVY?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "IUML announces LS poll candidates; ET to contest in Malappuram, Samadani from Ponnani - Onmanorama",
-        "source": "Onmanorama",
+        "headline": "Mohammed Basheer - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWhUTXQ3NklOdXNrNUZ6SERrUWV5RWRxZEtWT0RSU3UxVmRYUzhaZkppa0cwLUhJR25CdjZfMmVYMm9xS0tLYnVoOU5Wal9oNkN4X2xiN29CQldGekNBRllLbDg3OWswcEd5WndFc0RLY1gwazRRa3doUEFtUGJlWVIwQlQ1NTJTc29JXzE0bE5pejFxWl9tVVNIMXhQWWMxaGdyWmRzOGlrUEhVY2FxT2RMSQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zVDJCZ1NzZVptTkRvZHpON3VMWHpxM19odzd0Z1NmWjFnUkJ3d0xzOVhTRnJnM2pteVNDYmFSMFpvanVkODhzTU5GN0cwd3JTUGlEakFTUWNIS3FIMmc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "ET, Samadani to swap Ponnani, Malappuram seats - Mathrubhumi English",
-        "source": "Mathrubhumi English",
+        "headline": "Ponnani not a cakewalk for ET Mohammed Basheer, Muslim League’s sitting MP - The News Minute",
+        "source": "The News Minute",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWG8tWUZ4LVllMGhtMTVoUjl5VnNRU3I0RE5yWmF6c2JwanY0RWxMU05hMXpYb2NDSXUyNE5xc0dnTzc4c09NTWNDanpoVFUwcThIOXJqenpvdlR5WmZOVUVLZEgtUUhjQThfaVBUbFFXczNzYjQ3N3loQXh0U2ppWHlFR0MweTRXSUx5b19DSkxwZm9UeTJENjlFUWlKbG5mc1BZbVQ1aDJESmpoeUJ6NHFmZGI5YUNaUGY0NNIBwgFBVV95cUxPTjBZa2ZFd1V1SmZnSUV2QnpmUmNNeFZmdXB2MkF6V1pMSEw5Tm1Ja3Rfd1hnOWFmM2ZMZEN4TjhoMVBvbVhuSVJ6a2hkYWdtWjQ2SmI1eFZsRGh4VTViWldDS2ttLTBqcWNtMjhfMWp4RE10SXZkM1c4ZTlQeklkdnRMVmhvUHBlWDh0VEN3bWZra1pXMkxud3V5M1c0Skozek12bDJVQ2pvWVhOaGlpcS1uelRoX1BzRWZKVUg2S2lZdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVUzOTc3MThDX21SRzdJNEIyVFNIQlctUS0wOHFXT0FNVXJudGM3VllYckgxUFVnME9xenNNeUZYemNmaVU2YzJzclNVQmszTVVsbHdhNlpPMFRzZ0t6UGljRE9hSUM2dG9acVl1TzFNdU9zeE9yc1oxYllTdE11TG1pcEN5RFFHSzdRNWRweU5tWmwxcWdQcGZiNUJIY2Y2T19vdExPV2t2UVhLRHFB0gG8AUFVX3lxTE5MZzVNTVJkUVhKN1M0N09JYXdIWTNqaHpTTFZxcUdzNnBFUG5fdkN0N2hWUklZdld0NVBoYVE1ZFd0eF9abUtUZUZHVGJiMjFSdi04UjJqUzR2WTd3T19YaUxDRHY4Q2YyTld2ZGFnTGZZUDR4LVZJeEttaVFnbVd5ZEdQdjVNMVZkMzBUbU1xcHFXYTVIa2RIYmFValB5ZEd4cG9UMHRiZEVfdXNVdlF2UFA5cXAtRXNrTFFp?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Prophet Mohammed insult: Cops stop ET Mohammed Basheer from meeting protesters in Kanpur - The New Indian Express",
+        "headline": "IUML’s Lok Sabha picks call on Samastha leaders - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYjhBclFrVVJUdmR4M2NmMzB1ZldCUjVSMTd0YkNKc3BsT0hWN2hlRVl2UG5KdTVTSllKYmJIZFRlUzhxMXgyR1dMSGxRNU56Q1JlWURmZEtoa3IyTERTRlBGNW1rYnFsMm15THM1cG5taGZpU1B6WURPS3ItQUdXa2JVZHAtQkhVcWg1TFI3NGFKQXp0Z0FQX0pGOEJiWkpaSGExZXhsaHJMTDN0WDJZNVRuZzJkRXMwUkRVelFyY0Vjak9IUHhEUVhwcF93aVZoc3VJc3g1MW1IYkw4Q0JrX2VGUDI3YmV4MG4wYllRY9IB_AFBVV95cUxOakpEZkVIa1BPalp2LW9ibWlLczEzMkZoZmU4REJuNjBHM3BkdFJZU1BWelg1MkRiU2h4RUVSaHE2Q2ZvQkpuYi12Wm91akNmTWJuRENyVWVKd00tY2E1ZlhwM2tvN1Z3bDJWSU10RmlCRGpucEprS05hY2VWeUNaTnZha3pnTjZtaXM5TF9Cb3hjWXpxQXpjckl2UzdjeEktVGxuelBZTFFfUVQ3ZkVxaXROYVJaR01KWi0yZHJ5T2JtOU4yaXhCY0txMENXUXhMR2J0QkxIZnVWeDNzSE9kc0VpOVQza3Z4WmVBckxES29pUVkwY21TRVVkckY?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1JWnBjNTlnWUtPWldTNWFoZ296Y1lmSXlfZXR6RUxBakxHemtMV1FscEpHTDI3d0ZfT210eWhieGxIU0Y4aHNncjBfRHRjVWo0MnBOMkpLNnNNYU10TVBuOUVycFNBSjB1bXltLXJtVUxfQmFyMHUzZnp5LTNvLW1BQWcxangxRzlNQVIzM1IwWlRPZFpKRUtVU3U0RE1FNXpReUNRLWbSAbYBQVVfeXFMTzZBb0hQS2d3OXVuY2M1VmN3YjN3NTRLVklpUWg5VTRjXzdPWGdQVVZnTGJMNVM2TGs1X1NoaGZ1X0pFenFkNVo3d1JjLVlid3R2dWdtYS03WkRmOERwYVkxYnhwWUJIdGlySEV0X1hJenJQTmczdWNXYkxmNHBhbGtUbWhsdzMzdjlhUXFzVWxlQXZ2SGJXRWppOXBVamp6S19BZE5IY0JpRkkwQjJVeUZlYXBIVXc?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -323,15 +379,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 36,
+    "starred_questions": 10,
+    "unstarred_questions": 26,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 69.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

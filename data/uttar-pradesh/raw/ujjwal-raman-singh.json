@@ -4,16 +4,16 @@
     "constituency": "Allahabad",
     "state": "uttar pradesh",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 8371,
+    "myneta_candidate_id": null,
     "slug": "ujjwal-raman-singh",
     "house": "lok_sabha",
     "sansad_member_id": 5749,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 51,
+    "age": null,
     "photo_url": "/mp-photos/5749.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:13.937677Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 268988675.0,
-    "liabilities": 11996527.0,
-    "net_worth": 256992148.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8371",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.227149Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 76.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.35,
-    "expended": 5.1,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:23.738644Z",
-        "notes": "Official eSAKSHI REST API — Works: 31 recommended, 30 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T16:28:01.190596Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:24:15.555628Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:24:15.552829Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 31,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 34.69387755102041
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:52:44.406370Z",
+        "fetched_at": "2026-09-02T16:24:15.551767Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP Ujjawal takes potshot at Triple Engine Govt Smart City Prayagraj over water logging issues - Hindusthan Samachar English",
+      "source": "Hindusthan Samachar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGMwWk5ZSnowakkzWVRwdFcyT1hyR1JiTkFtUVRZbHZES0NfOGs5d2hjQkJsdGtMRW5aeGhLZlpPX1RFcmhtLW42NjlOajM0WVkyWEhKSzhWZERia00xSHRVRVJrN0Exa2hHdl82SHhsOEN1MW1hZl9CeW5zazZMdlpEMkxaMUpPVFBUelNKVHFkUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Attempts being made to shield the big fish in Ram Temple donation theft case, says Congress MP - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZVJHLWNKUnJFZGIzTEVPX2ZzVmtjQ19CUUtCYmxYNm01YWRwN0oyXzc0NE1MQkV0aEtEYWNObVZ4S1N4bnhjVkRieGx0emxpdGl1a2hSRXF3aFZBeG9xWHF6VUp6T19pSDFqbjlIam16d19mVVpQbjhNOTBmR3FCdHFQVEZtNElDNmsyV09mbDV4aENzSXhLUWtzSjBSZWpmWVY3eEFxbTg4S2FzdV9Hd042Q3JQbllTcmxDSWdaQU9wYU9XdmhQb3lDd05oTXVFbGhwWXZZS1gwUmhZeWNTYWg4V3duNnfSAe4BQVVfeXFMUFNvck13NUtvaUZ0a2NDbWxfcnJNZmhEN2dZRFZjZEFtUFBIUXRGck9ueW4wV3NCc0gxUnhiN2tnZDEwYThBZnBJeExnZUdWR1VQMUh2VGRMQVhqeWJJVm10cldKeWw5ZXRBRVFxbFFsTEhFbWhrd1lYbkNWYWdWcTJjSTlYTmtvb1FidDEyRS1EeTRGbWdqX2xQUlpKdXQ3N1NxZ0tNRnQxdmZIQThUc2JPcWR6WWJKNmJNam1yano2UmtuMWJYWE1VdU1qajF3RmItRjlZVVFZODU0cUVVckpMOEVMRHJPVTRmVlpVUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Cong claims leaders put under house arrest ahead of Ayodhya visit - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMlljV2pFMUZzU0w5QXo4Z3lQVjJLcTh2bFZjLTJNZjU5M3RWNDBZcnJaOERLU3BwaGF0UzZ5YTVfeWVTbXNMdXQwQ2hPSjlidWJ1MVdVUDJaQXpHeklMQnRHZHNHdGllTU5nal94NG1vWEV6R3FRbmVoOEZvZW9WSkJqMGlxb3FTWjFQZHMtQXRtbUVySnBKZF8yY2dnbkFLeWVGSDlNcVFiUl9aNm51TmIzRjJaOWdRUmpxTVZsbDFBMDJWcy02UmxqSEV5RUNuZVY2MjJWR0RhZ9IB3wFBVV95cUxQRFYtZzBQT3g1bGRlby1BREFacUJDNlRPVzlESkZOZXdLbDFqTm1aWlk5LXBuUW1hX2R4VUhCS1ZNMXNzcmpNQnB5OVpGSzdCVFM3Qzd0a2J6amVnMnM3dFVpX2tacndiZXN5Z01FcW93T1JxeUROWk5JM29USC1YTW5vU3lZR1pVcWNvNFZ0LXB4cHJ1cENvNjJKeVFfV0g2WjB4NXZvZ0huc0xNS1lkMDJCbWh2STlNRzFTdWNKVVpHbno5eERZa3FYNk4yc01lMzdIS3RDbVJpV3ViNUVz?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Ujjwal seeks more flights operation from Prayagraj Airport to major domestic destinations - Hindusthan Samachar English",
+      "source": "Hindusthan Samachar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUVMbU5Pbl9UV0l0RUFhVXpLdzFVbXhPb29tLVJsRFN6OEZsX2RILVVwYkdLS2VqeW80aHF3SEFBNERPZVNhWEkxNDF4NFBWNlVYc3FIMTZ3ckVfUmJXZm1MNEFzdmRHUGJTTHc4bWF2bGRwSDJYOTFoQ3Q5SEQxbGFBSWlfQ0dLNEQzWkZn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Ujjwal met Rly Minister Ashwini, demands Katholi underpass, train stoppages at Naini, Shankargarh - Hindusthan Samachar English",
+      "source": "Hindusthan Samachar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeHZMdUhXcDVuVjBMcWVZdmM1RTdUWWxNSVF4SU9JWXEyRjd3U2IzMmoxYUpKQTNIaEZtNm1JN2VjX0tLbW1IeUI4M2xtVVVvYW9oUFMzc2xOYnN6N3pFRnp5NHdpTnVNMXVuRmw3ZzZCc1lwdWpmWEtoN0tIeXdIYzJMR0lqS2Y2MlR4STJWLU8?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:53:08.009553Z",
+  "collected_at": "2026-09-02T16:28:01.191655Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.340968Z",
+        "fetched_at": "2026-09-02T18:38:11.920186Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.340977Z",
+        "fetched_at": "2026-09-02T18:38:11.920198Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.340982Z",
+        "fetched_at": "2026-09-02T18:38:11.920203Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.340987Z",
+        "fetched_at": "2026-09-02T18:38:11.920208Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.340993Z",
+        "fetched_at": "2026-09-02T18:38:11.920213Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.340998Z",
+        "fetched_at": "2026-09-02T18:38:11.920219Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.341003Z",
+        "fetched_at": "2026-09-02T18:38:11.920223Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.341008Z",
+        "fetched_at": "2026-09-02T18:38:11.920228Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,11 +320,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/UjjwalRamanMLA",
+        "url": "https://x.com/https://x.com/UjjwalRamanMLA",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/UjjwalRamanSinghPrayagraj/",
+        "url": "https://facebook.com/https://www.facebook.com/UjjwalRamanSinghPrayagraj/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/ujjwalramanofficial/",
+        "url": "https://instagram.com/https://www.instagram.com/ujjwalramanofficial/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T16:24:23.726817Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -280,43 +366,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Locals have first rights to water, land, and jobs: MP Ujjwal - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "MP Ujjawal takes potshot at Triple Engine Govt Smart City Prayagraj over water logging issues - Hindusthan Samachar English",
+        "source": "Hindusthan Samachar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeWFRNkNGMFp5XzlFWEM2anhsUExiTV95b0JYVnBqRlZtUUtBSXJLYTlxR21Xb3dnMzg1OHBROTFwUGxISjQ0dWJmTjd0dU1aLTNfcjlxRGZUaE5fbnhBN3lhTGotb3dZNFlMQWgzTVVma3UyTWhBakNKVjhvb3EtN0huWlE3ODFKNjh4SEhuRm1tMHF2Mk9LWHZUOEFJMmtLbExZak1UajFWdHpqQVBnTm81M1FNYmhydGNSZnluOVJyQm5FWXJoSFI2WFh4OGN4Ny1yMWJQcjA1NUNUX3RYQVFLUzAxWXZxaTlwR0ZGQmRhTWM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGMwWk5ZSnowakkzWVRwdFcyT1hyR1JiTkFtUVRZbHZES0NfOGs5d2hjQkJsdGtMRW5aeGhLZlpPX1RFcmhtLW42NjlOajM0WVkyWEhKSzhWZERia00xSHRVRVJrN0Exa2hHdl82SHhsOEN1MW1hZl9CeW5zazZMdlpEMkxaMUpPVFBUelNKVHFkUQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Nothing for UP, Prayagraj: Oppn unimpressed - The Times of India",
+        "headline": "Attempts being made to shield the big fish in Ram Temple donation theft case, says Congress MP - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZVJHLWNKUnJFZGIzTEVPX2ZzVmtjQ19CUUtCYmxYNm01YWRwN0oyXzc0NE1MQkV0aEtEYWNObVZ4S1N4bnhjVkRieGx0emxpdGl1a2hSRXF3aFZBeG9xWHF6VUp6T19pSDFqbjlIam16d19mVVpQbjhNOTBmR3FCdHFQVEZtNElDNmsyV09mbDV4aENzSXhLUWtzSjBSZWpmWVY3eEFxbTg4S2FzdV9Hd042Q3JQbllTcmxDSWdaQU9wYU9XdmhQb3lDd05oTXVFbGhwWXZZS1gwUmhZeWNTYWg4V3duNnfSAe4BQVVfeXFMUFNvck13NUtvaUZ0a2NDbWxfcnJNZmhEN2dZRFZjZEFtUFBIUXRGck9ueW4wV3NCc0gxUnhiN2tnZDEwYThBZnBJeExnZUdWR1VQMUh2VGRMQVhqeWJJVm10cldKeWw5ZXRBRVFxbFFsTEhFbWhrd1lYbkNWYWdWcTJjSTlYTmtvb1FidDEyRS1EeTRGbWdqX2xQUlpKdXQ3N1NxZ0tNRnQxdmZIQThUc2JPcWR6WWJKNmJNam1yano2UmtuMWJYWE1VdU1qajF3RmItRjlZVVFZODU0cUVVckpMOEVMRHJPVTRmVlpVUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Cong claims leaders put under house arrest ahead of Ayodhya visit - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWpYWGU3OVNVTmN6NGd6MjBxOVhMM3FoQndyOEozNWdneWJCdE5POERuMy1XbWpOck1nLXVmSUtOeldscmRzWlJsYXROcWRUcjdDOFRKWmE1YlNvcjg3RnNkd1VGaHRiRkZGSjE1NEtWb0JYc3hRZ1ZzX1R0alUzWERwNk1TU05XMGpOYlNDX2NLZDZIa2FodkY0MWZ2Y2ttalRKeXJTZEZvYUY3Sk1sTTRuai1zT2h0QlHSAb8BQVVfeXFMTlBhcUZSR0h1djJyaG5JbDRaUjlza0kzdGZBcTkzTlpsQjQzaDdUX0pTRWVXUWhhbHF1TFQ2REJBTFhNTFVuSS1oQ1dJRXZzLU0ycTBwam5KS0NLSUFVN3h4aGJkUEFaVDB3RnlmUkRmS3J4dEcyTUE4ZG9WZUZGNlg1akJjLUpGTXVqeUtPSzBraXlCR3Qya3N3VVltQm5ndkQ2N1hnVG9odVpKS0RqVzJYSFNJa2dZZUs3bW1lRXc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMlljV2pFMUZzU0w5QXo4Z3lQVjJLcTh2bFZjLTJNZjU5M3RWNDBZcnJaOERLU3BwaGF0UzZ5YTVfeWVTbXNMdXQwQ2hPSjlidWJ1MVdVUDJaQXpHeklMQnRHZHNHdGllTU5nal94NG1vWEV6R3FRbmVoOEZvZW9WSkJqMGlxb3FTWjFQZHMtQXRtbUVySnBKZF8yY2dnbkFLeWVGSDlNcVFiUl9aNm51TmIzRjJaOWdRUmpxTVZsbDFBMDJWcy02UmxqSEV5RUNuZVY2MjJWR0RhZ9IB3wFBVV95cUxQRFYtZzBQT3g1bGRlby1BREFacUJDNlRPVzlESkZOZXdLbDFqTm1aWlk5LXBuUW1hX2R4VUhCS1ZNMXNzcmpNQnB5OVpGSzdCVFM3Qzd0a2J6amVnMnM3dFVpX2tacndiZXN5Z01FcW93T1JxeUROWk5JM29USC1YTW5vU3lZR1pVcWNvNFZ0LXB4cHJ1cENvNjJKeVFfV0g2WjB4NXZvZ0huc0xNS1lkMDJCbWh2STlNRzFTdWNKVVpHbno5eERZa3FYNk4yc01lMzdIS3RDbVJpV3ViNUVz?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Lok Sabha Elections 2024 | I.N.D.I.A.'s Ujjwal Singh says under BJP, Allahabad lost importance, local woes not addressed - Deccan Herald",
-        "source": "Deccan Herald",
+        "headline": "MP Ujjwal seeks more flights operation from Prayagraj Airport to major domestic destinations - Hindusthan Samachar English",
+        "source": "Hindusthan Samachar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZzk3TnVuNjhHZ3NZTGRhNC11SzVHRXlZQXlNd2RCY1hWdXRBUkNEcngzSkNvVnRYMnBocS1CLXR4Tzh0S05sSDNDWEhhNXk1Nkl3WDljblRTRXJDUERQUGNCczFLMG0weXRrb1JLVDVPMWtPMkdCTkZ5Uk1STDhncEdhTmk2TlY1N2VsV1dqb3Y5RzB4MUJBNHNIRThjcmFPZkllZDZWTDhmOV9PbzJUamlkX01EQUpwUGdKWC14Yk90UTJMMk14RC1iZElPVUZwTnUtSnBUallzYUwyWnpEQjFDVWNiSi11NEx3eVBObERENk5jMUE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUVMbU5Pbl9UV0l0RUFhVXpLdzFVbXhPb29tLVJsRFN6OEZsX2RILVVwYkdLS2VqeW80aHF3SEFBNERPZVNhWEkxNDF4NFBWNlVYc3FIMTZ3ckVfUmJXZm1MNEFzdmRHUGJTTHc4bWF2bGRwSDJYOTFoQ3Q5SEQxbGFBSWlfQ0dLNEQzWkZn?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Lok Sabha Elections 2024: Congress' Ujjwal Raman Singh defeats BJP's Neeraj Tripathi - CNBC TV18",
-        "source": "CNBC TV18",
+        "headline": "MP Ujjwal met Rly Minister Ashwini, demands Katholi underpass, train stoppages at Naini, Shankargarh - Hindusthan Samachar English",
+        "source": "Hindusthan Samachar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUlNYVDFsQ0IwTEd4RHl2VTN2NS10TFhyV0h3ZnFuTWwxT3J0UUQ4MEFRdDlDc3N4anBMbHhlOW5La2h6dE9xeVAyM2RUbEl3anYxemk3aWFqSTVNdkFsXzc0ZDBXNjJncFlqeTBGS1JpNzBtZlMyUFhoZ2hVN01vZFFESi1DcXVMRFZuLUZWUGFROVF3a0RnenNpeU9FaHVTLXpPbkNGMVJDUzUxRUJxMTFXTEZNcENoaUl4bzdCc2ZHS3dndDloQ0J5NlJ0ZENxU0JqeFFkTzNEazViaHVmMkUwbnh3ZzJ0M3lwWFV2ZXV0NkExbFBBRElxTzlhMXUybHhwQ2lleXlKQnV1cGJ6elVn0gGXAkFVX3lxTE54VjZBY2ljVW51WnVQMzFTdmNjbG9Eek9EWW5acmxVb0NkckdjUHhGWlp0VW1SOERkY24wMldJS1hybjdpVjl1a1FVNGZtQ2VJM2RhUDhkTzZCOUZjUlRlWXAya1h6VzJkazNobHNKN0NtbXprUXR3Vk40aWVyN3M0aUlJOEF4eFVvaVhIUS02Mktpb3VzTkM0MGN5UGFIT21EMVd2eGR2a2lpN25HbjQ2Tmg3VXJvR1M3ZmYtM0FPZnhQdGl1Q0tvV1h3eW5obnBnWEZSUDI2SXcxZHpGZVZ0eUFuNEFpNlBYckRqU0xnSTZ5ckZKQm1LOXBYcGthRUxyTXpKdDcwaW5lSzBraHdTT1VmMlhSWQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "SP leader Ujjwal Raman Singh joins Congress, to contest Allahabad seat | Hindustan Times - Hindustan Times",
-        "source": "Hindustan Times",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSGIxTnVza1Bob2lfQXFSV2lwVGUteXpFREE0VmRDbl9RdG1QTEhSY1FDVkNUX0J3anhaR1ROM1I5a0t3TkFXaElaRXQtWndZekRiTjllRWhleVhiSnUtX3dSWl9ma05jQU5EcENNNEZ0bnVGc0txQU13Y2RFeFU3NVloTVUwamV1LTdPTDZZSzNfdmVheWc5dTh2S3VIOE1WRjJRR2ZDX2FwZjI4Q1hXVUJ5LXkzc1RVdEdwYklMMk1CYlBzaUZEZWY4MUc0QkdIMkY5d3hhdXPSAd4BQVVfeXFMTXlQQlppLUR0Z01CZHJ5dFh2VGdxMzk1OUx6b0NyaVJ4TllBYzZ4aHdPUTAwVkVRZWVuUHNXRDlOR3FWWGxzVl81aXJ0WEFiZjZqQ1FpRi1qdkZWMFFMSHhWbTZ5UG5wZHdlYUp5RlRJUVdGc0pDTDk4RTNGY3EtR2N4X1RnbmRZXzZQMzRFOGY5aVRxZ0VtMWhiZUtJM3ozQXhPWExZNm51UVljM0lyYW9UczlNNTBsUGpnTDRubFg3ZTVGTE1VeHBmb19yV013RzkyaTRLanUzQ0hTLURn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeHZMdUhXcDVuVjBMcWVZdmM1RTdUWWxNSVF4SU9JWXEyRjd3U2IzMmoxYUpKQTNIaEZtNm1JN2VjX0tLbW1IeUI4M2xtVVVvYW9oUFMzc2xOYnN6N3pFRnp5NHdpTnVNMXVuRmw3ZzZCc1lwdWpmWEtoN0tIeXdIYzJMR0lqS2Y2MlR4STJWLU8?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +436,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 23,
+    "starred_questions": 6,
+    "unstarred_questions": 17,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 43.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +452,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

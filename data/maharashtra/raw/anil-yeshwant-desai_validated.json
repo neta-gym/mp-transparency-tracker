@@ -4,16 +4,16 @@
     "constituency": "Mumbai South Central",
     "state": "maharashtra",
     "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-    "myneta_candidate_id": 7098,
+    "myneta_candidate_id": null,
     "slug": "anil-yeshwant-desai",
     "house": "lok_sabha",
     "sansad_member_id": 5648,
     "profile_url": null,
     "canonical_name": "Anil Yeshwant Desai",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 66,
+    "age": null,
     "photo_url": "/mp-photos/5648.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Mumbai South Central",
       "state": "maharashtra",
       "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-      "myneta_candidate_id": 7098,
+      "myneta_candidate_id": null,
       "slug": "anil-yeshwant-desai",
       "house": "lok_sabha",
       "sansad_member_id": 5648,
       "profile_url": null,
       "canonical_name": "Anil Yeshwant Desai",
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 66,
+      "age": null,
       "photo_url": "/mp-photos/5648.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7098",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.441846Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:35:09.234048Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 229443731.0,
-      "liabilities": 23036212.0,
-      "net_worth": 206407519.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7098",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.441857Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 73.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 0.78,
-      "expended": 0.59,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:29:53.728963Z",
-          "notes": "Official eSAKSHI REST API — Works: 34 recommended, 4 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:47:20.663356Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:43:33.047791Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:43:33.044785Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 34,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 4.013605442176871
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:40.796652Z",
+          "fetched_at": "2026-09-02T14:43:33.043729Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Mumbai South Central election results 2024 live updates: Shiv Sena (UBT)'s Anil Yeshwant Desai wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbGJsczAwTFdLTTFZZXFIdFE4b3ZGemNxdjFvSkxPWmcwM3p6TUJCd0xudkZHZ0JROHpmZVRweE50Y3pkeWZLeFMyM05WV05FdmEyS1BjYTY3cnBkT2U5MEdDTDY0Z1Z2aVlYU3JzaDJnZXh2YVMwUFh6VUx1Wkd6Y3ZScC0yVWhpR1FXN3hKdDE2dTNpM2E4bjZwZ1NmNVhkdE9yNkVEYnhqWmNXTlJpUVRNb2lfRjJ1dTg0a3JBNmpVdHBRb0xzbERWTmNMb0NueFF4WWVGUzNiNVhlNzFOXy12YnNWMktKRDc3TEp0bF9BbkpmV0I3T3NUYkpWMHZTR3Q1SXVOcHA0SHRITnp6YXRfMnhCWkRlNTh6RmQ0ZFlVNHRlT25MbkRaTEZMNTFSNU82WFBCeFR2N3FxazBlSkcyWFdmdHhEbVViOWxiS2N0SXfSAdgCQVVfeXFMTnB5cERHRHAyWVh5dG8ta2dsZTREUFlpbE5paEVmR1B1RFdWQVQ0RGNTY0lMM1dtZ2hteG1iUWwwRWl5X1JlOU5rQldaeVpocUNMdFV5UUtMUkNKc3RyV21wUHlQZGZSZFc3c2NGUERJaTdBNWd0czhBTTZ0ZjhkYkpsM2VLa1Z5MTdKeEJRS3lSWmNnTC1GR0hNdW9PVi1zWU90cW1vOUp3VWxocTRPVUp5QkpLVXc4T294MkJqdGJLbXpEOEpydjV3ajdqbGNHOXBFejU1WHdTVjNDZ0NZMGxBSmNGaVpuQ0VrbUZGTGZaN2ktZUJEVFRzU2JOYjZyWkRPdHJmUDUtTmlhOWNVaUFVTm5fUUZtS0ZuZDVSUUZvc2FoUndCcVc3T3kyel85NFA1dmJjbFlqRkRCSkUteEp2TDl5R0xHS0x2VGwtSzRvODZlZWJGRlk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mumbai South Central Election Result 2024 Live: Shiv Sena UBT's Anil Desai defeats two-time MP Shewale - CNBC TV18",
+        "source": "CNBC TV18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd0ZUUlVMeXIyMHNtOTZ2dzJHR0RZc041bjNWaEMxSF9OdndJYWs0bXFfZW1IbTBSdXJiRU1ERG5FeXNBWldUSTB0YTVNQ013WWI2a2lBTTBubVpyLXhzeWRxR3BLREFpT2ZlNi1SdlFnd1hLOERLNVZ4T3ppZ3pGek9nS3IyeFUwOU5pZm9mUDM0VUVSem1OdnpuT0hXeHVxU01oeU0tMkgxS25hLS1qRkJXck0yOXBSWGZhUThucW1UUW9MVTM1TW5jbElZWFFqQTZ5OWt6Q1F0aUk1TExBQzg0WjVDUG43dUdtZXRpUFZXNWFrdUZKRU1kVVDSAYICQVVfeXFMTkFKQm5qUDRxN21XaEt0Uk9kdXpfdENITGl6V25Vd2YzMG5nMkdQNUlCZ3FtbmNUdVVvZGladC0yb3MwS0NhVGJvNkozaWVNcmFsR1p2SWdnTFBXel9aU2dSNEVkODJaam0wYXZTZl9jSnk3UEQ2NWd3VDRxU0dJUXNLSE9Ra2hFWkZYclZucWNvczcxY0VRN1pZaHpzbmtJZm9VSHp5Qk9tWFdISmtkbGkyVXNnZy1sZkM1eE1wMnZ1dFcyUVppUDRJemxNV3lGT3JLY3NUR0lSal9VazVSbFJuaWpnSkpYdXJFQjZEQndIT1cydFNlZmVXREJKNUdSem5R?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mumbai, meet your new MPs - Citizen Matters",
+        "source": "Citizen Matters",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSWFhSVBTTEd6MGJLeU9leFRucGhQbDRRVUFSWnA5c1ZKT0g5T3duSktMdlFpbFVLQ2F5SjNOQTBWckRXRnl4TV9GSTd2U05SRlVlV3hWcWJsbTc1cEV6X2t6VEduTE5BRXdEQ2NSUlFieXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who is Anil Desai, unseen force of Uddhav Sena, now in poll fray from tricky Mumbai South Central - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmZPcEVGaDZ0bEVIcWo0YUY2TzY1bDFGcG42M2hLSEluaTRKUW4wM3k4ZjBOdUY4bl9SbUhQWFEyUENTeXA4czBtamN1bVJ3MURNRC04Vmd3ZnVtbjVaeDNoWDM1VzJtbTM4RklWdmZvdU5EZjl5Z3BDdE92M3lBNXNlMzFoR2d5ZDZtVWFkZWFSekFrRmwzaFdwd004aGxKb3pPSm1JM3NvUWlvTWs0aHRmck1HV2lzWDRfakM2V2xiZUo4NmhRNUJBa3NmZ9IB0wFBVV95cUxPeUVZYnJMQmgyU1lRUmxsU3lURjJiaEZlNEFjMWxiNUwyNEpGUzRJMXdlM1hmRkU4ODQ5ZTItWFJNUm9jRFhZVU1ibXotMW15ODZLWEtYSGhrcjgyQVlxSGhIenhHU3VzREt3Vkl3UVU4eDdNc0dpbmxZaHMyQzBLeG1lNjdTQjFyQjRPY2tKcUJGSHdRMUc0WlEzdThlMTg4MTZFS2xuelpiTVFXMlFvNU9uY1VwR1NoNEUzbnM1WFBtSE41N19xT0x4OTRHbEFoODQ0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Anil Yeshwant Desai - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmVIbnJoOG5kLXhKQjhmOVFUa1dKNG1EejVmQldOUDFwbWRkX0RWQ2s5Q1F2VDdBT3BpTWhTV1hOeTR3WV9lZW9HTDhvREUzMG9ReEhod2FWd2JlQTA4SWdqQWVIZnNQVDNSUE5kbVJrdnM3bDI3TW5rWjdhdXlpMXl2QkxMUXpiVWRSMA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:40.148730Z",
+    "collected_at": "2026-09-02T14:47:20.664662Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.237150Z",
+          "fetched_at": "2026-09-02T18:38:07.763589Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.237160Z",
+          "fetched_at": "2026-09-02T18:38:07.763601Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.237165Z",
+          "fetched_at": "2026-09-02T18:38:07.763606Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.237170Z",
+          "fetched_at": "2026-09-02T18:38:07.763611Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.237175Z",
+          "fetched_at": "2026-09-02T18:38:07.763618Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.237180Z",
+          "fetched_at": "2026-09-02T18:38:07.763622Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.237185Z",
+          "fetched_at": "2026-09-02T18:38:07.763626Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,11 +322,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/ianildesai",
+          "url": "https://x.com/https://x.com/ianildesai",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/ianildesai/",
+          "url": "https://facebook.com/https://www.facebook.com/ianildesai/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "iam_anildesai",
+          "url": "https://instagram.com/iam_anildesai",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:43:35.418712Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -298,14 +376,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Mumbai, meet your new MPs - Citizen Matters",
-          "source": "Citizen Matters",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSWFhSVBTTEd6MGJLeU9leFRucGhQbDRRVUFSWnA5c1ZKT0g5T3duSktMdlFpbFVLQ2F5SjNOQTBWckRXRnl4TV9GSTd2U05SRlVlV3hWcWJsbTc1cEV6X2t6VEduTE5BRXdEQ2NSUlFieXc?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Mumbai South Central Election Result 2024 Live: Shiv Sena UBT's Anil Desai defeats two-time MP Shewale - CNBC TV18",
           "source": "CNBC TV18",
           "severity": "low",
@@ -314,19 +384,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Mumbai South - Central Lok Sabha Election Results 2024 - India Today",
-          "source": "India Today",
+          "headline": "Mumbai, meet your new MPs - Citizen Matters",
+          "source": "Citizen Matters",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkxzNlI0cWh6MHlQblNVX1dxVi02dEktbjFqS0oyRWJiLURBQzRZekZfU1NGYmRXR2xBUFhjVmo4ZVJLTU5MM29idTNOX1hxZnItQl81dTI1bW9uQURvTHJEWDc1cGRya0JMZlo5VmNPS2FkbWJpMzNHb0tPVkxyRnB5YVNueXRMMXl0ak9OMkFqT204OWdaZTF3QzBXcmRUYlM4RmZORQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSWFhSVBTTEd6MGJLeU9leFRucGhQbDRRVUFSWnA5c1ZKT0g5T3duSktMdlFpbFVLQ2F5SjNOQTBWckRXRnl4TV9GSTd2U05SRlVlV3hWcWJsbTc1cEV6X2t6VEduTE5BRXdEQ2NSUlFieXc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Mumbai South-Central Election Result 2024 LIVE Updates Highlights: Anil Yeshwant Desai of SSUBT Wins - News18",
-          "source": "News18",
+          "headline": "Who is Anil Desai, unseen force of Uddhav Sena, now in poll fray from tricky Mumbai South Central - ThePrint",
+          "source": "ThePrint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTmlOWG9RT3M0Y3Mzbzl4RFNEM2NwUTlYWi1jMGk4b3NZdkRjbWV3dEFuRmlzeWx1V1VidzF6S2FTZkEtRkRNYUNtZ2czV0hOZWI5bERHUmpTcnp1MWRablN6aFJ3RTZrT3FhVHJzTzItQXJ6TDhtekZySURtMGMwWmU1NFh0WWN6clVpZU9CVDdocUZUU05tMU00Q1MwYnRjb2RNWTNVVnJYUnp3RXhLOTVhNmdPaW1uN0dWQ0NKMXZHdlRoaC1yXzJHTUNJVFVtcUR3ZVd2UHNNWXN5MXJkQmVNVEtmb0NVYnQ4MXpRVWpBM2PSAfgBQVVfeXFMTWVzQURuVlFQSm5WazhidEZyQWxVQmhQSkJ6ekh4MTI0TVNpX0dpWGxxU1htRXNocUNXSDRDS1haMm8xaHA4SFY1MFZsdGMxSEltQi1wMW5pUjRNYUdaN2FGNGRKWDQ5MWZtajZfZnhxVVFabXFLd2dTQXJhYUJIbTBvdXFwd2pWWWZKQThPMWZhYnV2V1RISVFrZUcteFgwd1ladnJFZjZSaDVDUV9xdE9qZVpDMkdrNTBjbzFld1dHd2NVNHZld3U5bDNzWjRZcFhNTnJxZ05wRXlJRE9PMkNXTnNjclV1ZGFHUXBYRVR2ZTRNek5aUjM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmZPcEVGaDZ0bEVIcWo0YUY2TzY1bDFGcG42M2hLSEluaTRKUW4wM3k4ZjBOdUY4bl9SbUhQWFEyUENTeXA4czBtamN1bVJ3MURNRC04Vmd3ZnVtbjVaeDNoWDM1VzJtbTM4RklWdmZvdU5EZjl5Z3BDdE92M3lBNXNlMzFoR2d5ZDZtVWFkZWFSekFrRmwzaFdwd004aGxKb3pPSm1JM3NvUWlvTWs0aHRmck1HV2lzWDRfakM2V2xiZUo4NmhRNUJBa3NmZ9IB0wFBVV95cUxPeUVZYnJMQmgyU1lRUmxsU3lURjJiaEZlNEFjMWxiNUwyNEpGUzRJMXdlM1hmRkU4ODQ5ZTItWFJNUm9jRFhZVU1ibXotMW15ODZLWEtYSGhrcjgyQVlxSGhIenhHU3VzREt3Vkl3UVU4eDdNc0dpbmxZaHMyQzBLeG1lNjdTQjFyQjRPY2tKcUJGSHdRMUc0WlEzdThlMTg4MTZFS2xuelpiTVFXMlFvNU9uY1VwR1NoNEUzbnM1WFBtSE41N19xT0x4OTRHbEFoODQ0?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Anil Yeshwant Desai - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmVIbnJoOG5kLXhKQjhmOVFUa1dKNG1EejVmQldOUDFwbWRkX0RWQ2s5Q1F2VDdBT3BpTWhTV1hOeTR3WV9lZW9HTDhvREUzMG9ReEhod2FWd2JlQTA4SWdqQWVIZnNQVDNSUE5kbVJrdnM3bDI3TW5rWjdhdXlpMXl2QkxMUXpiVWRSMA?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -360,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 30,
+      "starred_questions": 9,
+      "unstarred_questions": 21,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 58.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,11 +485,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -428,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 229,443,731. MPLADS utilization: 4.0%. Parliament attendance: 90.0%. Questions asked: 30. Debates participated: 9. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.237936Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 30. Debates participated: 9. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.764343Z"
 }

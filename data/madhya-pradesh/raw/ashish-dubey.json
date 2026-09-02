@@ -4,16 +4,16 @@
     "constituency": "Jabalpur",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 240,
+    "myneta_candidate_id": null,
     "slug": "ashish-dubey",
     "house": "lok_sabha",
     "sansad_member_id": 5699,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5699.jpg"
   },
   "criminal_record": {
@@ -24,68 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=240",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.778712Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:34:55.709668Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 351856860.0,
-    "liabilities": 13529284.0,
-    "net_worth": 338327576.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=240",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.778724Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 79.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 3.7,
-    "expended": 1.84,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:24.945137Z",
-        "notes": "Official eSAKSHI REST API — Works: 195 recommended, 155 sanctioned, 15 completed"
+        "fetched_at": "2026-09-02T14:42:31.421659Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:38:46.799654Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:38:46.796376Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 195,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 12.51700680272109
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:23.581431Z",
+        "fetched_at": "2026-09-02T14:38:46.795218Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Ashish Dubey , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXNWX2FyQThiWUFFQmhjd0NEQjVxdlUwcEk2OTBfUE9XVTdyZVJlWHVwOE9ITkQwUzlxdTQxT2x2bk5ETkdiSGNhZ3dfVlZMdmVWM1hWZmw2a29oWWdFbjlJMTl3UzVwTU9GUDRwTXRCMkd6VXNBZHdiNEd0allWTFNB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jabalpur election results 2024 live updates: BJP's Ashish Dubey wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOWTBYRDBra09iRnlmU042a2tTczJQOTAzWlFPUFM4SFZGbEwzMFFJVXJSUm85N1pNNjhxYVdndExEY0NUcjJ0dkRfcEctRWI2UFdKRjBwQVRTWXpBT05XQUl1ZmFJTUpHVFBzbG5kQndfem9QY2FPVE9yZlRCNURST1lHekJEQzRoTXFpa2xOV2ozdFdfQTBhbEUwZVVlUVZWZ083R1B6S3hTNGIzZEVONnNOOXlSZlI4XzB3aktCbC1Dc3ZWNHRKNmdUSF94SlNoMjA0ODBBQ1B6YTVXZWRCbHR0UEw0ZmhJVjdMQW1HbktQaVJCOWVXRXJXVlRGNzE5bG4tV1BjZlY0Z2ViZzRnek9wOW1IMDFsVDFsdEJlVDE1alNkTm9hRERkYUxXcHNhdWQtczA2eVVkYkhTNElnZzByenF0V0nSAcwCQVVfeXFMTWt4aS16QUdIME54WnFqU2RrN21remlpTWZWQnlJYnRhYTJFZzFRWXZrUlBITW4wRE5TR1Z6YW50WDAyaVN1ZHFlcDlaWW9Uby12a200c0xoMmZGeWtla01fak44VkJvbTVkRUNCUFF1bGpkVDRjaEppb3ZYTkwyV252WHEwcnVEb1F6N0JHM2xia0h4c3ZUcVRUNlYtbVAzMHhISlFmVGd2OUdBS3AxQUZLS2YyenI4T1l5WjQ5M2JYN3oyTm1DSkNzY1YtR1QtWGNKRkd1YjlxVmJKYXlPTkYya0JyM3FUYVRwcGd5enFiMmNRVENzQXhmMkp1dk9fNV9tYlpoZ1RhREQ4MlUteldGU3pfQkg5bjE4M3VLbXBWVlY3Ql9qUlpmRkl0b053c0UxMmVLcVl4NG41aHRkQ2RsOWJETEJyR01SOVE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union Minister JP Nadda arrives in Jabalpur: On 3-day visit, will attend local programmes; to depart for De... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNKbXVWenBWYUxHRWdIYzJxMUVxdmkxMk5KWmRqMWZINk5zNjRUMFJib3NVT0JlcTdqWW9UOVNCOVhLUnlyWWpOc3BYWmpuUWdCRzJIRGVJa1FCUEhKZ2xaN2h1enlMejlQZHktT0FUdEM5ZXRYRnYwMVdjLUJtVHY2UGdza3hlZFJ4NUE0SUg0REFJNXFhTndKQXLSAaIBQVVfeXFMTXJwSENyaGJMX3lSdXJodV90Y2puZmFxN3RBY2hsSGJJaGEwM1ZCOFU4T0VQc0ZQTzVhRFczM09IUnpWQ3VUSE9UMk1ObnQ1blFzVmRPYkI1SzJrSnlRMm00azA5enZXX2RJbjZNSm5RaXA5eXB6a1BhX3NPYU1DdmF5eTEwclRmbEM2eG9FM2QxS0hHUF85OXB2cTdoS1FhY3BB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ashish Dubey asks party workers to work to fulfill PM’s dream of 400 seats - thehitavada.com",
+      "source": "thehitavada.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbGtZYTRlOEpNNUkyUVdBd0RFeExYWl9DbVdpTEVzN0xFd1NleXdLWUtTYUpVSXZfeF9tUHNIakJSVUJxbnRMdmxCN3plMy0zYXVWRUtsazJNbU9PZTBVaGQ5WC04ZmlGR2pienZuNTVSM1BlV3YzcUdvbzUtNjV0Nlk1OGEyckVIWDBrUkRraW9ZR2c4N1pfWnpwSDJmMC1TSmREc1dhcHJ3ckZVczdLU3ZteUhaNWVxZXpvRGlnMNIBxAFBVV95cUxNcnFRenFUNmM3ZElwQnBBQnJDVkhLTWhhaEdZZ0t5TGw4blZ2U2s2MTlfQnJBYXRoWHZTU2lHeFNqeXBPOTdYRjhlZFJjR2Z2UUVoSHRiT01BdUVpV09NaUF1WWdSclpibWlfZ09jbTNUcFdIbC1Nc0VtUXM0R0wzYTBWV0Ffc2UwSk96THg5cnFqNk1pUlFKVG9DTEROT2dxQl8tdkRJTDJ1QjJNbU1CVXJuSHV0Ym5IT0xlY1RLTWRqdkxF?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazhTeWpLcEM3b0pYdnU5MlZZSk05UnlQNGxVMzhQN0UwNmxjYnFDWHJwVU9MWEtZaWdBdnJfaU9Qdlp1ejZvSUhlaXJ0a1oybFo2T29hTl85YWdSdUpyMFdTZjc5VndCSHhEV1pWRW4zdkN4V0plak1YX0lyREZ4SkpGTXpYd1U?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:23.024040Z",
+  "collected_at": "2026-09-02T14:42:31.422727Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.758735Z",
+        "fetched_at": "2026-09-02T18:38:07.235552Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.758745Z",
+        "fetched_at": "2026-09-02T18:38:07.235564Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.758751Z",
+        "fetched_at": "2026-09-02T18:38:07.235570Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.758755Z",
+        "fetched_at": "2026-09-02T18:38:07.235575Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.758760Z",
+        "fetched_at": "2026-09-02T18:38:07.235582Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.758765Z",
+        "fetched_at": "2026-09-02T18:38:07.235588Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.758770Z",
+        "fetched_at": "2026-09-02T18:38:07.235593Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.758775Z",
+        "fetched_at": "2026-09-02T18:38:07.235598Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -288,22 +333,6 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Union Minister JP Nadda arrives in Jabalpur: On 3-day visit, will attend local programmes; to depart for De... - Bhaskar English",
-        "source": "Bhaskar English",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNKbXVWenBWYUxHRWdIYzJxMUVxdmkxMk5KWmRqMWZINk5zNjRUMFJib3NVT0JlcTdqWW9UOVNCOVhLUnlyWWpOc3BYWmpuUWdCRzJIRGVJa1FCUEhKZ2xaN2h1enlMejlQZHktT0FUdEM5ZXRYRnYwMVdjLUJtVHY2UGdza3hlZFJ4NUE0SUg0REFJNXFhTndKQXLSAaIBQVVfeXFMTXJwSENyaGJMX3lSdXJodV90Y2puZmFxN3RBY2hsSGJJaGEwM1ZCOFU4T0VQc0ZQTzVhRFczM09IUnpWQ3VUSE9UMk1ObnQ1blFzVmRPYkI1SzJrSnlRMm00azA5enZXX2RJbjZNSm5RaXA5eXB6a1BhX3NPYU1DdmF5eTEwclRmbEM2eG9FM2QxS0hHUF85OXB2cTdoS1FhY3BB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Devpt, enhancement of airport facilities discussed in AAI’s first ADC meeting - thehitavada.com",
-        "source": "thehitavada.com",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEc2dmsxM2lnN2dyT3h0YmViMkhKOUVyRlZIRF8zUkJUODdTaFVnUmpQczA2c1BGX0ZGUnh4bGFtdEZkRnlIUXBvZkIydW4xV2UzenZ4d1JrTWw2R253d0w5WEktVzEwdTk4ZTQ1NDJ1TkdzZ181M3hjVFQ3OW05bGg1aVhSTEZqck9jOTdtbUJrYTRTekJESjBnWk1uVVMzeWZtR0R5VU5BcUpOX3FfbXgxd2R4UzNSMmxxXzNtaTNTTkVj0gHKAUFVX3lxTE9QS1M3eld5Q3cyajBMUDBzNkh2Nl83MXBFN21wMTY2aGJsOTMxUnFyeWJqTF94dmw5ZXliN2RCcE5kM1FYMEIzVlRMLU9ST01CdkVpdjYzTllUOG9HajJRbVUyMUlXWlFOa2ZYdFVSSUR4Zmp6LWtEUEVySkozTjcydFhwT0pGTVhDejNrc3JpclFDT05ZSzRxakpuV1pNSTZiMHV2S0szeEhPVW1LVlZmSnZSRFkyQ3dIRGptb2dMWmtBbWNQM2Z1MHc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Ashish Dubey , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
         "source": "The Hindu",
         "severity": "low",
@@ -320,11 +349,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Jabalpur Election Result 2024 LIVE Updates Highlights: Ashish Dubey of BJP Wins - News18",
-        "source": "News18",
+        "headline": "Union Minister JP Nadda arrives in Jabalpur: On 3-day visit, will attend local programmes; to depart for De... - Bhaskar English",
+        "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdERGODc3TjRBYjZiTW1GOWVMcTIwR3Z2QnJqNVpydzM1bEtKRWlsVGZHNWd4RXNfWWdTVHliYjlVSFZWd0gxUVRMOWNObEhSVG5yU1FfSjk3b3VyZ1lXb1FFZ2lKc1l0eWpLUndjVHY1T0FZUUlYT3hUajlfVGw0RWlnTjVyZV9ubkNza3hWcHRQRnhQWkxiSTQ2ZzNCVkQzd1RVTGgyQVlySkVzenNURUIxeGFrTTRQZk9JTXotTlZ1bVFUczJiVnJyQ2p2V2xwYy1lMWdUMFF4UFEtclpNNF9FVdIB6AFBVV95cUxPZHdQaUZtZWd4ZUJqdUx4dTVaYjg5T2J0WEgwNEw2NXhyckVaZHY0Q0FJdVdmaGNVTDNFU3p3M18xaE5sRmQ2bkRhVFA4VWU1d0N2N1dwQkN0alk4SUdZQWhvaXlYSm1SODRCc2tULUZLT2Y5SkZ5TW81Q0VybjBNcEhHZ0FyN0M3QmhoWjJBSFRVbkxac1NmaFBTNGRLYVRZc0JJdjJTbk1kRTM0R2pQZVk0cVJGUEJodUlpNGljQ3VnMW1TbUNMNkwwaHZkTVgyd3hvd0JVQVAzTmxVN2dBeGRsNl95RkZ0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGNKbXVWenBWYUxHRWdIYzJxMUVxdmkxMk5KWmRqMWZINk5zNjRUMFJib3NVT0JlcTdqWW9UOVNCOVhLUnlyWWpOc3BYWmpuUWdCRzJIRGVJa1FCUEhKZ2xaN2h1enlMejlQZHktT0FUdEM5ZXRYRnYwMVdjLUJtVHY2UGdza3hlZFJ4NUE0SUg0REFJNXFhTndKQXLSAaIBQVVfeXFMTXJwSENyaGJMX3lSdXJodV90Y2puZmFxN3RBY2hsSGJJaGEwM1ZCOFU4T0VQc0ZQTzVhRFczM09IUnpWQ3VUSE9UMk1ObnQ1blFzVmRPYkI1SzJrSnlRMm00azA5enZXX2RJbjZNSm5RaXA5eXB6a1BhX3NPYU1DdmF5eTEwclRmbEM2eG9FM2QxS0hHUF85OXB2cTdoS1FhY3BB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ashish Dubey asks party workers to work to fulfill PM’s dream of 400 seats - thehitavada.com",
+        "source": "thehitavada.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbGtZYTRlOEpNNUkyUVdBd0RFeExYWl9DbVdpTEVzN0xFd1NleXdLWUtTYUpVSXZfeF9tUHNIakJSVUJxbnRMdmxCN3plMy0zYXVWRUtsazJNbU9PZTBVaGQ5WC04ZmlGR2pienZuNTVSM1BlV3YzcUdvbzUtNjV0Nlk1OGEyckVIWDBrUkRraW9ZR2c4N1pfWnpwSDJmMC1TSmREc1dhcHJ3ckZVczdLU3ZteUhaNWVxZXpvRGlnMNIBxAFBVV95cUxNcnFRenFUNmM3ZElwQnBBQnJDVkhLTWhhaEdZZ0t5TGw4blZ2U2s2MTlfQnJBYXRoWHZTU2lHeFNqeXBPOTdYRjhlZFJjR2Z2UUVoSHRiT01BdUVpV09NaUF1WWdSclpibWlfZ09jbTNUcFdIbC1Nc0VtUXM0R0wzYTBWV0Ffc2UwSk96THg5cnFqNk1pUlFKVG9DTEROT2dxQl8tdkRJTDJ1QjJNbU1CVXJuSHV0Ym5IT0xlY1RLTWRqdkxF?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazhTeWpLcEM3b0pYdnU5MlZZSk05UnlQNGxVMzhQN0UwNmxjYnFDWHJwVU9MWEtZaWdBdnJfaU9Qdlp1ejZvSUhlaXJ0a1oybFo2T29hTl85YWdSdUpyMFdTZjc5VndCSHhEV1pWRW4zdkN4V0plak1YX0lyREZ4SkpGTXpYd1U?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -358,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 5,
+    "starred_questions": 1,
+    "unstarred_questions": 4,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 9.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -374,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

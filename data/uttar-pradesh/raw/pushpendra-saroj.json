@@ -4,16 +4,16 @@
     "constituency": "Kaushambi",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 7611,
+    "myneta_candidate_id": null,
     "slug": "pushpendra-saroj",
     "house": "lok_sabha",
     "sansad_member_id": 5804,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 25,
+    "age": null,
     "photo_url": "/mp-photos/5804.jpg"
   },
   "criminal_record": {
@@ -24,68 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7611",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.713037Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:37:06.339911Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 15231655.0,
-    "liabilities": 5000000.0,
-    "net_worth": 10231655.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7611",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.713051Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 12.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.29,
-    "expended": 4.02,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:06.301929Z",
-        "notes": "Official eSAKSHI REST API — Works: 753 recommended, 719 sanctioned, 392 completed"
+        "fetched_at": "2026-09-02T17:24:55.186480Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:21:15.546291Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:21:15.543347Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 753,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.346938775510203
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:04:17.544841Z",
+        "fetched_at": "2026-09-02T17:21:15.542230Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "SP’s Pushpendra Saroj is now the youngest MP in country - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbXlMZXEtRkJkUmtiWHB3V00zZnJyRjBIOU1tQzd4Y3VmQnJiRlp1WWMtX3FiNUdmdVBIVkNxWTB0QXc0OE9kRXptT0c3MVdGSjZqcG8tMEV3SnFjYngxdmxtXzZLMnA0OU5pdE9ianBsR0lJRjFnSkxuOUJBemJtVmI3eU9xUDZiOVNVWGJZVGxSWkpudTVmRDRqRjExTVRGYU5rSGhSMGhHNjJybmprZkV0d211VkFoNFdNNk9IZ3ZOaElWU0pLbzN6b9IB0AFBVV95cUxPYks2S2VIWklqNk80T0VGc043SWNIUlE3cnEwQm9zZk5BUGFVUEhaTnUwRXFfNm9TN2FWRUY4b043dmpIcG45T2ZSeDRMQUx2VS1SQW5tUEdpdXZmUl9RVndBeGNyQldqR0ZaOGhTc2MyLVU3U0dYb0RqOU5QM2ZlcFQ0RHg2ZmpFWlktd2JiOVRlZV9vU2VnNWxJOGF2dzVqR0VLeVp5TGt5cGZmakxmcU52Sm41Z0RWZ0FmVjRaVUxuSFIwZGluQ1JISS1Xd09r?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "SP’s Pushpendra wins Kaushambi seat, becomes country’s youngest MP | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSk1IMVhocHJrcVBIUjZRUjFxbFk0RlpiMUR0ek5IWGtUWDFsOGpEODQzRVJ1LURWazdFQllUSlZjMlpIVzhnS2xucjNaaVRIUUxRR3lBLW9ZaUJBU0V1bUhPb0RSb0RSUUpQQ3E5OXd5bUxUczlGRGJLZXo1QzVrTmtjcmthSkFVdm95RG5jc0Fad2FJcU1GU0pmNUVRYnpxamU4SmJOY0NmZUY1cGhlTll2ajl4NmVjOG5UNW9XN3REY2hwU3RHbkZR0gHPAUFVX3lxTE50eGFlamo1WnQwU3dlTnFvRE5RTlBWUGUxb0oxaWY5ZDR6Z0FDTmlGTHNVbHQ3dmUxdm5LQ19SZ2dJVm54S2lnSzJBa0R4ZzFMb3gtN3NERTFqR2hSaFNrd0xQWlpma0g3XzN1YkdnakpkLVI4Y1BSRTUwQkFndlRsU3B3blBhLURLVGRaeHB3NHlVMHRhVENpSEltTU5KakJMaXZMVjlLZ1NEbVBLRldkeXVkelRGVmlrdm41Z1lneVN3VXRqbWVhX1NMSTdYcw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Former School of Business & Management Alumni becomes India's Youngest MP - Queen Mary University of London",
+      "source": "Queen Mary University of London",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWQxbHZIb01xbXVtWnRhSThtSjZWSjF3TDc2ZXRKTWVvTWpoa1cxWGN1ekc0Z2lJeldXLUlhazNQVHdxVmFqeXF3Z0FPQ0I4RnZTOFJxVi1QZy00U015RDEzZVFYNTBKVXFhZTYxRlo5MU9yOEktbDZyTnpvMGpUbHJDT2VVZzB2YTY0d2FpVWNTaC1WRndTSENUaHFESmh6QjU5WS04T0o2WTRabEd4VVM3TQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Meet Pushpendra Saroj, India’s youngest MP: ‘I use my father’s work, not name’ - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnlmYlR3SnctUDFValpPY0pfZzYxQk1neXNnLUV0T0NjTGZtZURZaF91QnBJQTBzQjVqTENVSlJ5aGxmNEhKLWw2b0xHUDNibWIyNVZ2Y3RXTnpxVmRpclpwRU1yS2tieGJvVXRQMzhqajhVd0F0aHM1Z2tOc2ZxcHpDNDEwQ3Q4eVJ2SUxqclNkMFpsWnZlNVFR0gGgAUFVX3lxTFBETUs5dU9saVphb3F4Y0FmYlBXQlI1WHNPbmN1ZXVIQnVJRmhHYllSdC1yMzR0Nk53TTBFdGFOTkMxVGxIM3FHRU5teVo2bDB1Qm80QVpjcDJyWWdQODdqM2dZck5JeEF1Z1J2WUdsX1RVaTdsc0ljN2YzM3VwV0VVZmRfcnh6bFdXaTJoVWswSXJvLTh5Y0ZGSEhubF82dVo?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Keshav Maurya failed to ensure development in home district despite being UP deputy CM: SP MP - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLUlPZUFXbFVnS2FzQV9sZmlqd3FNOW5Cc2ctSUVmazlQTmtVS3ZyM2tvUGFIcUhyZGdUYk1YSjRhUmVZdk16N2hNN1NtbDgxR3hrU3ViWU52RGQtaDhOTHZuVFlnOGlzY1k1Q2RNa2kyaV9PaHFESWJaMmZETl9SeFMzU0tubTNISWpnWG9RZTl1ekFaaFROU2JQODBOeXVCNjI5Wk94NjJzR1YtU0ljYUd6MFVhZDFwTDNmU2k3OTVCMVFUQnfSAcsBQVVfeXFMTzhTYlVhV3NhejNsV3lYOV96WnQxaGg0MVA1ZUVESVhqSmRVTHJNY0tVU0lTeE5XLXd6cXdHQ0JseWRFVXpveFZQb3VIYmNZQV9GMGFFWml0V1N6eGszbmlTckJRREhtN0lET1FzMWtpWVBPQVZlLWJQWW9DSEpfQXowRjZXaDQzYUEzbUd0WWtZdnNxUTlMUlRVZTd6SXN4NEx3elRrd3VjYmV2MlJsWlpmdnhCVkJXVnhGdExOZENnUm9aUlN6RUEtVms?oc=5",
+      "sentiment": "positive"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T15:56:57.325019Z",
+  "collected_at": "2026-09-02T17:24:55.187599Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.923053Z",
+        "fetched_at": "2026-09-02T18:38:11.498032Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.923061Z",
+        "fetched_at": "2026-09-02T18:38:11.498043Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.923066Z",
+        "fetched_at": "2026-09-02T18:38:11.498048Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.923070Z",
+        "fetched_at": "2026-09-02T18:38:11.498053Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.923075Z",
+        "fetched_at": "2026-09-02T18:38:11.498059Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.923079Z",
+        "fetched_at": "2026-09-02T18:38:11.498064Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.923083Z",
+        "fetched_at": "2026-09-02T18:38:11.498069Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.923088Z",
+        "fetched_at": "2026-09-02T18:38:11.498074Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -275,17 +320,50 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "twitter.com/pushpendra_sapa",
+        "url": "https://x.com/twitter.com/pushpendra_sapa",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/PushpendraSarojSP/?_rdr",
+        "url": "https://facebook.com/https://www.facebook.com/PushpendraSarojSP/?_rdr",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/pushpendrasarojsp/",
+        "url": "https://instagram.com/https://www.instagram.com/pushpendrasarojsp/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T17:21:18.335450Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
         "headline": "SP’s Pushpendra Saroj is now the youngest MP in country - The Times of India",
@@ -293,14 +371,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbXlMZXEtRkJkUmtiWHB3V00zZnJyRjBIOU1tQzd4Y3VmQnJiRlp1WWMtX3FiNUdmdVBIVkNxWTB0QXc0OE9kRXptT0c3MVdGSjZqcG8tMEV3SnFjYngxdmxtXzZLMnA0OU5pdE9ianBsR0lJRjFnSkxuOUJBemJtVmI3eU9xUDZiOVNVWGJZVGxSWkpudTVmRDRqRjExTVRGYU5rSGhSMGhHNjJybmprZkV0d211VkFoNFdNNk9IZ3ZOaElWU0pLbzN6b9IB0AFBVV95cUxPYks2S2VIWklqNk80T0VGc043SWNIUlE3cnEwQm9zZk5BUGFVUEhaTnUwRXFfNm9TN2FWRUY4b043dmpIcG45T2ZSeDRMQUx2VS1SQW5tUEdpdXZmUl9RVndBeGNyQldqR0ZaOGhTc2MyLVU3U0dYb0RqOU5QM2ZlcFQ0RHg2ZmpFWlktd2JiOVRlZV9vU2VnNWxJOGF2dzVqR0VLeVp5TGt5cGZmakxmcU52Sm41Z0RWZ0FmVjRaVUxuSFIwZGluQ1JISS1Xd09r?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Sweet Revenge: 25-Year-Old Beats Candidate Who Defeated His Father - NDTV",
-        "source": "NDTV",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNendWaW13akJyVi0wTUJaRWZJZHNoa2xPdDlpc29RdThxUzR6NFVCZWlPVGRmdnVNUEVvTVA2RmZJaW9ZWW9NeTMweUpRc3ZtakpSRlFZQUw0YXg4VjRybWV5QVVKMVRFX25mMEhlRHgzejloOVNyV1R1Tkxwc2RGeGJOd3RMSWlsQTA3dkJ6TEZFWG84eDR1TDJPVUNlT1BjSER5TVFRLWFwM1pYdFVGbGZXeERkcWRHS3lOX3NVbkRnUDZZNG9hZE1WWHdNVHFraTd1cDVoYndHWF9Gd2ZXUHNiVExzRVNwZ0wxTnQzbGlzVzTSAfsBQVVfeXFMTVBEYUtNVndDNVVlRWo4QkdaWlhBRzBwSnAtMW1qNlJTNGtGVWFpeHZ3QjFaRk1QOXJoTlN0dU5CWjh4YVFjRTNYQmQ2b1FnbDUwREZvZVhhT1dBZV9FV3kzbUtlY2RSQTA3UnlkR0pzb3lkNVlIQWFzbmZPTUxRMVFxV3VUcklocGYxU29zVDVPTlFKZXZHU0V5QXp6QzQzTjBQMW05SDNBU3F3bGVVXzZ6bzJ3SExEXzRGLWttZ2h4Z21oR1pBdTlSWFdMUWVUQnhkZ0tUa0hMcmlkUHJLbVoxcHRBUUR3UUdSbHZRRVFsX1BVV1Fzc3JFalU?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -312,6 +382,14 @@
         "sentiment": "neutral"
       },
       {
+        "headline": "Former School of Business & Management Alumni becomes India's Youngest MP - Queen Mary University of London",
+        "source": "Queen Mary University of London",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWQxbHZIb01xbXVtWnRhSThtSjZWSjF3TDc2ZXRKTWVvTWpoa1cxWGN1ekc0Z2lJeldXLUlhazNQVHdxVmFqeXF3Z0FPQ0I4RnZTOFJxVi1QZy00U015RDEzZVFYNTBKVXFhZTYxRlo5MU9yOEktbDZyTnpvMGpUbHJDT2VVZzB2YTY0d2FpVWNTaC1WRndTSENUaHFESmh6QjU5WS04T0o2WTRabEd4VVM3TQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Meet Pushpendra Saroj, India’s youngest MP: ‘I use my father’s work, not name’ - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
@@ -320,12 +398,12 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "25-Year-Old Pushpendra Saroj Makes History As Youngest MP In Lok Sabha - Outlook India",
-        "source": "Outlook India",
+        "headline": "Keshav Maurya failed to ensure development in home district despite being UP deputy CM: SP MP - ThePrint",
+        "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEVSNmd5NnFkTlc3eXpmb2dqam9TNjFUWmFQdXRiQXRreXBmSjRQZzI2dXhEMVJlNG5FUFpRSE9ZeGJzWVY1MnVuVjYwcEhnMjUza0NxeG9YX3RRTkFSVEFIMHd6VkpLZ2w1cUVHTGZYd0UxdW43Q3pLdmYzOGRyOEUyQkxZR2x1cEczY180ZGtlS0RGVEVUX3hWSWFycEdDSEg5T0t2RWo5Q2Uw0gG6AUFVX3lxTFBpOTdYRS10MnJZVTFrOTV2SjVCdy1saHRTRnA1XzBNSlRpMnJJZHlMZHQ1M2REVHp2NlMwa3ZPSFB4VXROaHZnalcyQXR6UHJwMEtjQmdma2hFeENCcmo4OHMwQWVHVWJENUZWWXpITkFSR3NVWXJ6R1otV3kyR1FzczZJREFRZnBDT3lGaHNJOE5OOGo4ZmJMeXo5MFg5dnJVY25laHMxU1hGQlF2dk1DTjhxcmRqNzNEUQ?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLUlPZUFXbFVnS2FzQV9sZmlqd3FNOW5Cc2ctSUVmazlQTmtVS3ZyM2tvUGFIcUhyZGdUYk1YSjRhUmVZdk16N2hNN1NtbDgxR3hrU3ViWU52RGQtaDhOTHZuVFlnOGlzY1k1Q2RNa2kyaV9PaHFESWJaMmZETl9SeFMzU0tubTNISWpnWG9RZTl1ekFaaFROU2JQODBOeXVCNjI5Wk94NjJzR1YtU0ljYUd6MFVhZDFwTDNmU2k3OTVCMVFUQnfSAcsBQVVfeXFMTzhTYlVhV3NhejNsV3lYOV96WnQxaGg0MVA1ZUVESVhqSmRVTHJNY0tVU0lTeE5XLXd6cXdHQ0JseWRFVXpveFZQb3VIYmNZQV9GMGFFWml0V1N6eGszbmlTckJRREhtN0lET1FzMWtpWVBPQVZlLWJQWW9DSEpfQXowRjZXaDQzYUEzbUd0WWtZdnNxUTlMUlRVZTd6SXN4NEx3elRrd3VjYmV2MlJsWlpmdnhCVkJXVnhGdExOZENnUm9aUlN6RUEtVms?oc=5",
+        "sentiment": "positive"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -358,15 +436,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
+    "total_questions": 1,
     "starred_questions": 0,
-    "unstarred_questions": 0,
+    "unstarred_questions": 1,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 1.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -374,17 +452,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

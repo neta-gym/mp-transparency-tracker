@@ -4,16 +4,16 @@
     "constituency": "Jalpaiguri",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 970,
+    "myneta_candidate_id": null,
     "slug": "jayanta-kumar-roy",
     "house": "lok_sabha",
     "sansad_member_id": 5045,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 56,
+    "age": null,
     "photo_url": "/mp-photos/5045.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Jalpaiguri",
       "state": "west bengal",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 970,
+      "myneta_candidate_id": null,
       "slug": "jayanta-kumar-roy",
       "house": "lok_sabha",
       "sansad_member_id": 5045,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 56,
+      "age": null,
       "photo_url": "/mp-photos/5045.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:31.897139Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 19356558.0,
-      "liabilities": 56196.0,
-      "net_worth": 19300362.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=970",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.771019Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 16.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 1.01,
-      "expended": 0.59,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:45.896739Z",
-          "notes": "Official eSAKSHI REST API — Works: 26 recommended, 5 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T15:11:18.536410Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:07:10.788662Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:07:10.786957Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 26,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 4.013605442176871
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 75.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:30:04.253082Z",
+          "fetched_at": "2026-09-02T15:07:10.786202Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Jalpaiguri MP seeks Centre’s intervention to operationalise super-speciality facilities at North Bengal Medical College - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUHBVdV9qRm5TUWw2RHhUeEhsaG1WTjd1LXlYYTFjYUcxVGxsQjRqcUliTE1lYXprRnhBNmFFdzl2elVXS0lLUm1VWU1EVmlmLXVrVzU5OWtVck0zc2wwX0pLeXJ4Z1gwcE16U1NGRnRidWl6Q1BSWWwtZ3M4LXA2bGFId0hwQUYtajRmWXVlNXhZaWQzZ3hTR29ISDFCMG5XTVNRelZYX2E3UEpWaEZYVVZJbFRSTXlkSWFhSkYxTnVxYlZrc21jd2VmRXZFQmhKeC1fSnFva3d0NThDZDJiOEx1c2pkRndHTW92akNyUi1QS0xOVUhoV04xNm9LRXNFcEpzRDloUG5OZ9IBjwJBVV95cUxQek5XSEZONWVtOVlnc1hTRWJQMU5TZ1ZfTXJvS0xkZjZWU05ZZnRDZy03V2NEOTJ3Umo3VlRiQUNvcnFqWWFyMi14T3NQV1RlX3ZUOUhRcTYzRGZVS3FQdmFyVkhsa0x2WHdWZUx0Y0VmbzF6TEVFVHlCTmVPQXdWSGlrTC1xemR1MjFkOWRTQzJFNGYwaGtsZ3drbVlhaklGSHQ0UWZBUEZKbFpZN3kwRi10TUlwZ0xEeG5hbXlJRDJPODF0WmFGVmJNWkFnOERYd1p0aDBHUkVmblhaY1V2aHp1OWR6TjNDSDFEMnZBZ0hWcGJjOE1LVnlwZ3JHWVVPZ1ZfTFZ6dnVyOG5obTVz?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Brought Leaf Factories To Announce Lifting Tea Leaf Procurement Ban Soon: Jalpaiguri MP - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmpQVFdjMEd3VFFwY3dZWFRtNllmZDhjMEl3eGpMdk51SjRrQndfUWNGdlBXMHFyXzlFclFoRHlzSFhyb3I5ZXhJb3V3dVpBOE5JMHNqOVQ5UlZrbURFdGlGSnc2cmVCaThFRXlQbFg5cXdsWFRkUC0yWUlsNlBKSW04Z3dQUC1QVEUxaGlheTJPYXZkVkVKOXJPbVZaOExOMnZfc3JwQXRiSS1aalM2TVV0T1XSAboBQVVfeXFMTXJDa2VwbmpSTXZmX0g1LWM1X0ozYmRmczNMRDYxSHNyYU0wQWpSUTFiZ3l1dGtqRVZxOW5pWlV5THdBTVJQMWpObksyM2hzdkFBUlpPRkNuZ2JyVlBmRjI4RDVTbDV4U1I3UFoteGR6X1hQTWNGcnQ2a21rWWZqdFNXUEVaMWp2YnRadWJ0ckZoWnItVWM5a0lzQ0RiUE1acnFPajlzMlB1dkVmNTR3VGhiLXk1QW5fb3ZB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jalpaiguri MP Jayanta Kumar Roy reviews progress of NJP railway station redevelopment project - siliguritimes.com",
+        "source": "siliguritimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1FFMzBKYWpoYnVLNHF4Vjd3ZkpSZm5ZblpWb1N2R1dabXN5a0RLbl9heE1YVlRENUdGSmVRZGVHNTlJU3E2cFRrS2REWEVvZ0JqSXhBVjBweGRxOEtpOWpUTVZKdDNTY0Z6dnhnQ1BmcGdJWjFsUGtZakJ1MTB4a0w1ZFpDRUE2ell1VTJILWtRczl6WmVpajY1NzVMb29fdnZaR3FobnBYbDFpYTZEVGFsbUU4WHgxY29mcw?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "New Jalpaiguri set to emerge as major railway hub, says MP - MillenniumPost",
+        "source": "MillenniumPost",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXJjSjdId0w4Yk02OHMwd3h3cUw2b0JodUxzelJkdURKM0hCSEotQ2ZWUjVOc1c3Qm1uZE05UnVGSUtyek9PSWppZmpoZVBOWm9zbkFKbllRbDN1M2JNQVVGcTNWLVdSLUIyVWxNd0ZTWEhYVXBXWkpBU0pFVC1WanhpRE0xNXZlMnVyNWRFSzZwOWRMOGl1RW8yNXRPd2tLV1ZV0gGoAUFVX3lxTE1uUHlKckczVVNMb3Y3UmNKLWpzQ1ZINTNDR0RDQW5YTFd4Z2NnNFg3UlNTNmxfVTlaV2ljd2J6R2I0SHNscjNBQmRwOUNQQzlkWlFLcXJjdEs2eFhHMXkteVBkSF9QeDhVZldGWG1Sd1Eyc0lGQ1FUbzZTM0c3SUFidVpkUmVsVDBnSkJhY3l6bktPQ0E0MDZpNF9VZ1ZlWnctOHIwcEdMSg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "ETV Bharat Impact | Bengal Bought Leaf Factories Resume Accepting Green Tea Leaves Without MRL Reports - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkM5cWZ2Tk1sVU9YZWZ0UWhxVlRBNmRUUGFfWDBDWEt6MG1qUjQwU3piN0d4QnM1bVZhQVNYQVZzSHhWbjlraU8yRjJvdW5JVGphTVU1dUdPYjlqS21UT2pBQmd1REpXMVpyeDY1UmRRX041RFFVd1NsNWpveEgzcjhFSWQ4d010YlVaVE9UQ2ZXUDhvOWI2ejB3OE5BS3U2Zk9NOE85MHpvZktQMkdEV0oxRmJOeWlVV2JYWWpYLUlxa183VXM4VVZ2MlMyNjRuZEVYVFctUGowa0FtVFlvUFNaNUXSAeoBQVVfeXFMTmVKb0VuSHNjUy04ZmpGQjBpbW5QUE9uVWZjWWc0Q3B5ZkhoZnAxTVNPWjd5Z21XdG9ET3AzTGE1eF9Pa1hZd1FQYmd1RWZMbERHcUo5VDZ6VTBGV1F6WWdyWEo0OXJIWC1OYVNobE50VFl2T3FETDV5M0tYS1FlSU9Vdy1QX0h6MnAxWFhSZnl4N3REakFrWjhlUDVNOFVCTkgxLW1idjhpWElzS2FzOXhtMmoxR3lDMWxNNTU3ZWhWVzlMenhTVjRHaEp4N2x4Z1pZcVdaU3duOUp1ZEpLOXFpaXNkYWZWdVZR?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:31:09.013359Z",
+    "collected_at": "2026-09-02T15:11:18.537000Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.665877Z",
+          "fetched_at": "2026-09-02T18:38:12.296651Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.665885Z",
+          "fetched_at": "2026-09-02T18:38:12.296662Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.665890Z",
+          "fetched_at": "2026-09-02T18:38:12.296668Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.665894Z",
+          "fetched_at": "2026-09-02T18:38:12.296673Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.665899Z",
+          "fetched_at": "2026-09-02T18:38:12.296679Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.665903Z",
+          "fetched_at": "2026-09-02T18:38:12.296684Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.665907Z",
+          "fetched_at": "2026-09-02T18:38:12.296689Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,56 +322,81 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/Jayanta Roy JPU",
+          "url": "https://x.com/http://www.twitter.com/Jayanta Roy JPU",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/jkumroy",
+          "url": "https://facebook.com/http://www.facebook.com/jkumroy",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:07:38.222351Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "North Bengal holds key as state votes in high-stakes phase one - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "Jalpaiguri MP seeks Centre’s intervention to operationalise super-speciality facilities at North Bengal Medical College - The Statesman",
+          "source": "The Statesman",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTFzbGQtcFNac3NRaTI1azNHS3NBc2NZdlI2Z3g0ajZqZFVWdTV2MW1YRHpPclNkMnJRSlZpeDhNTTZaNjVFSmRITlU4djY2Z3hwamlfQXZsNzdaVUNHbks3Mlh5LWk2czJOZDl2Y21INmhuNHpuMUN1UWgwWUl0U1VSM24yQURNQWhnMGdhTnhJcUZXQ3dwajI1ZnB4ZXJiUUo5c3hpUXdBb0VFQ3FqVmt1MUNycDVqRnhLVG42YXpfYzFWRUd3SWlOaHcyd21OTVdhXy1B0gHjAUFVX3lxTE5kdnVfTjFMV09kWk9jQkVHdG1MckRiNDJHYVc5bmFnNU9LWWhlaVlpZjJRX19HWHRKTkFxSVNseTF6QUlfcG4yN0pZeGpUNXpob1hMVFFNeTVZM25PNjhuR0twb1Y5MHkyZV8yelJ2VXZIRVhfVzhCVVYxV29Ib1JDMnFmVjhPV19QQmYweHpMNnAxeE9VbnVqb1JpYS15YWMzN211dEJFMTdqLTZWYWJyWVlsZXdFVU9rbGlTSXhHdUZpUlVaem5lUDlWN1VhbXRCM2FqSFhTaFVkTTJKWUxuSU5z?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUHBVdV9qRm5TUWw2RHhUeEhsaG1WTjd1LXlYYTFjYUcxVGxsQjRqcUliTE1lYXprRnhBNmFFdzl2elVXS0lLUm1VWU1EVmlmLXVrVzU5OWtVck0zc2wwX0pLeXJ4Z1gwcE16U1NGRnRidWl6Q1BSWWwtZ3M4LXA2bGFId0hwQUYtajRmWXVlNXhZaWQzZ3hTR29ISDFCMG5XTVNRelZYX2E3UEpWaEZYVVZJbFRSTXlkSWFhSkYxTnVxYlZrc21jd2VmRXZFQmhKeC1fSnFva3d0NThDZDJiOEx1c2pkRndHTW92akNyUi1QS0xOVUhoV04xNm9LRXNFcEpzRDloUG5OZ9IBjwJBVV95cUxQek5XSEZONWVtOVlnc1hTRWJQMU5TZ1ZfTXJvS0xkZjZWU05ZZnRDZy03V2NEOTJ3Umo3VlRiQUNvcnFqWWFyMi14T3NQV1RlX3ZUOUhRcTYzRGZVS3FQdmFyVkhsa0x2WHdWZUx0Y0VmbzF6TEVFVHlCTmVPQXdWSGlrTC1xemR1MjFkOWRTQzJFNGYwaGtsZ3drbVlhaklGSHQ0UWZBUEZKbFpZN3kwRi10TUlwZ0xEeG5hbXlJRDJPODF0WmFGVmJNWkFnOERYd1p0aDBHUkVmblhaY1V2aHp1OWR6TjNDSDFEMnZBZ0hWcGJjOE1LVnlwZ3JHWVVPZ1ZfTFZ6dnVyOG5obTVz?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Mitali Express May Be Back On Track: Efforts Begin To Restart India-Bangladesh Train via Haldibari-Chilahati Route - ETV Bharat",
+          "headline": "Brought Leaf Factories To Announce Lifting Tea Leaf Procurement Ban Soon: Jalpaiguri MP - ETV Bharat",
           "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR0RWS0w4VTdWZXpOa0g4VWZDTUJLNzh0dy1POGc2ZE82NEk1Z3RET2lKVy1xVzF2emNIWVZpLTh1eG5Qc0xFRThxS2Q4ZVd0Qzd2S1dWZ3RRc05RSFIzSllpcVdqQ0ZzUHpIWGhIdGpDblZwMWZNcy10N1BNS0pLekE3TU5CNmxTSDRZeWFEdHNzUmw2eW5mbWNSSUpmbnFkbU4zcE9yNGlZZW4yWFA5Y2VlRW82LUkteEpuSnR5VmtfNFJueXdmanF6d0JuOVBKSmpFd0YwT1ZDTm5mQ08tcjRUZnh3ZklvRVHSAe8BQVVfeXFMUDBSUE5sZWNCYU9CMWxyVlgxOTRVT0N1S1J6SnRNMFI3REhPXzFXLWx2bVlvOWFnMTNPSmlvZmRMVjJMOVRMQVZhUHAyWG95Nk1oQWlZcFpVV3VkaHdEaW81M3NVbS11czFiU1JwYS1lSjA0VGhmTFN1RXMwOElpM1MzdVdEdlh6NHRSZG5CSEtSa1d6WnlJWU1PWm84MkRBTVlYcDJLVVRZWTE2bTF6ZWoyTFQ4eWhyNTZ2bHlQbWk0T2oydVo0eGJxYVRScDVKVmUzdmJjZ09JZjYzUU1jZEltWnpoX1R4ZGFJbGt2Mzg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmpQVFdjMEd3VFFwY3dZWFRtNllmZDhjMEl3eGpMdk51SjRrQndfUWNGdlBXMHFyXzlFclFoRHlzSFhyb3I5ZXhJb3V3dVpBOE5JMHNqOVQ5UlZrbURFdGlGSnc2cmVCaThFRXlQbFg5cXdsWFRkUC0yWUlsNlBKSW04Z3dQUC1QVEUxaGlheTJPYXZkVkVKOXJPbVZaOExOMnZfc3JwQXRiSS1aalM2TVV0T1XSAboBQVVfeXFMTXJDa2VwbmpSTXZmX0g1LWM1X0ozYmRmczNMRDYxSHNyYU0wQWpSUTFiZ3l1dGtqRVZxOW5pWlV5THdBTVJQMWpObksyM2hzdkFBUlpPRkNuZ2JyVlBmRjI4RDVTbDV4U1I3UFoteGR6X1hQTWNGcnQ2a21rWWZqdFNXUEVaMWp2YnRadWJ0ckZoWnItVWM5a0lzQ0RiUE1acnFPajlzMlB1dkVmNTR3VGhiLXk1QW5fb3ZB?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Dr Jayanta Kumar Roy , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-          "source": "The Hindu",
+          "headline": "Jalpaiguri MP Jayanta Kumar Roy reviews progress of NJP railway station redevelopment project - siliguritimes.com",
+          "source": "siliguritimes.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT0VCWWZhR09hLVhSdWJsNmZKbDZPalNUbnlRa1ppMVBjNjcyY3FKaHZaYXZQZXZ5elQ5SEFndEZNalpWM1lNdFg1ZC1hOWpaMFNtWmEzbTIxanZtMml2ckx1R3lma3dqdi1Wb0FGQm1zdGlLS3hYSmpYQ1o4VkRSSEZ3cVBZbl9JRHhXdA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1FFMzBKYWpoYnVLNHF4Vjd3ZkpSZm5ZblpWb1N2R1dabXN5a0RLbl9heE1YVlRENUdGSmVRZGVHNTlJU3E2cFRrS2REWEVvZ0JqSXhBVjBweGRxOEtpOWpUTVZKdDNTY0Z6dnhnQ1BmcGdJWjFsUGtZakJ1MTB4a0w1ZFpDRUE2ell1VTJILWtRczl6WmVpajY1NzVMb29fdnZaR3FobnBYbDFpYTZEVGFsbUU4WHgxY29mcw?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "New Jalpaiguri set to emerge as major railway hub, says MP - MillenniumPost",
+          "source": "MillenniumPost",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXJjSjdId0w4Yk02OHMwd3h3cUw2b0JodUxzelJkdURKM0hCSEotQ2ZWUjVOc1c3Qm1uZE05UnVGSUtyek9PSWppZmpoZVBOWm9zbkFKbllRbDN1M2JNQVVGcTNWLVdSLUIyVWxNd0ZTWEhYVXBXWkpBU0pFVC1WanhpRE0xNXZlMnVyNWRFSzZwOWRMOGl1RW8yNXRPd2tLV1ZV0gGoAUFVX3lxTE1uUHlKckczVVNMb3Y3UmNKLWpzQ1ZINTNDR0RDQW5YTFd4Z2NnNFg3UlNTNmxfVTlaV2ljd2J6R2I0SHNscjNBQmRwOUNQQzlkWlFLcXJjdEs2eFhHMXkteVBkSF9QeDhVZldGWG1Sd1Eyc0lGQ1FUbzZTM0c3SUFidVpkUmVsVDBnSkJhY3l6bktPQ0E0MDZpNF9VZ1ZlWnctOHIwcEdMSg?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Jalpaiguri (SC) West Bengal Bharatiya Janata Party - The Times of India",
-          "source": "The Times of India",
+          "headline": "ETV Bharat Impact | Bengal Bought Leaf Factories Resume Accepting Green Tea Leaves Without MRL Reports - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPellqU0FJLUVVSVhWdUZyTEJlRkRrcEtLSk01V0IzeGxiLUtIdUJiYzJSTW96Z08xQ0h1WlF6LXZBQlRsdHp1TVAtWU1oc0lrdUdycXJrVFl3a3YxdGlmb0tMQ2E2d05mRnAtdmkyeDhObnR2b2l2X0g5WkpxUms1d3lpUm5aQmNVOXFWOHBkaC1pa3ppTTBUVXNwWUE3cUwyRXRTTTVaaEZ3TWs5aUdEZmlBQjFia2VsNGpUMlNNTEZtbnM?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Jalpaiguri lok sabha election results 2024: Jalpaiguri Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFBiMF9KU0VsdllydS1YU0lfTHZIZ1BsUVo1VTZYQjhoUHBoUjhvREhlM19Va2xqOUtQSjBHXzVFSndPS0owQ3FqRENhWTdJOS1BTGtRY3ZaX2ZTSjlCVHBaYzR1VFlkTFlLaWcxcXVfQWYtMVBSblJwWjZYbnlpdVhQR3F5aWxQd0RJM0s1YXM0NldMbWFBR3dR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkM5cWZ2Tk1sVU9YZWZ0UWhxVlRBNmRUUGFfWDBDWEt6MG1qUjQwU3piN0d4QnM1bVZhQVNYQVZzSHhWbjlraU8yRjJvdW5JVGphTVU1dUdPYjlqS21UT2pBQmd1REpXMVpyeDY1UmRRX041RFFVd1NsNWpveEgzcjhFSWQ4d010YlVaVE9UQ2ZXUDhvOWI2ejB3OE5BS3U2Zk9NOE85MHpvZktQMkdEV0oxRmJOeWlVV2JYWWpYLUlxa183VXM4VVZ2MlMyNjRuZEVYVFctUGowa0FtVFlvUFNaNUXSAeoBQVVfeXFMTmVKb0VuSHNjUy04ZmpGQjBpbW5QUE9uVWZjWWc0Q3B5ZkhoZnAxTVNPWjd5Z21XdG9ET3AzTGE1eF9Pa1hZd1FQYmd1RWZMbERHcUo5VDZ6VTBGV1F6WWdyWEo0OXJIWC1OYVNobE50VFl2T3FETDV5M0tYS1FlSU9Vdy1QX0h6MnAxWFhSZnl4N3REakFrWjhlUDVNOFVCTkgxLW1idjhpWElzS2FzOXhtMmoxR3lDMWxNNTU3ZWhWVzlMenhTVjRHaEp4N2x4Z1pZcVdaU3duOUp1ZEpLOXFpaXNkYWZWdVZR?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +430,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 53,
+      "starred_questions": 15,
+      "unstarred_questions": 38,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +446,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 75.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +477,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +504,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 19,356,558. MPLADS utilization: 4.0%. Parliament attendance: 75.0%. Questions asked: 53. Debates participated: 5. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:54.666601Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 75.0%. Questions asked: 53. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.297395Z"
 }

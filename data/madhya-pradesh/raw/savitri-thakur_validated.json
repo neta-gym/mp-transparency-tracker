@@ -4,16 +4,16 @@
     "constituency": "Dhar",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5162,
+    "myneta_candidate_id": null,
     "slug": "savitri-thakur",
     "house": "lok_sabha",
     "sansad_member_id": 4596,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 45,
+    "age": null,
     "photo_url": "/mp-photos/4596.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Dhar",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 5162,
+      "myneta_candidate_id": null,
       "slug": "savitri-thakur",
       "house": "lok_sabha",
       "sansad_member_id": 4596,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 45,
+      "age": null,
       "photo_url": "/mp-photos/4596.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:03.106471Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 53107546.0,
-      "liabilities": 6963601.0,
-      "net_worth": 46143945.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5162",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.212902Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 41.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.66,
-      "expended": 6.97,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:27:39.245992Z",
-          "notes": "Official eSAKSHI REST API — Works: 237 recommended, 224 sanctioned, 178 completed"
+          "fetched_at": "2026-09-02T14:35:07.424770Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:31:26.815594Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:31:26.812509Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 237,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 47.414965986394556
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:44.106155Z",
+          "fetched_at": "2026-09-02T14:31:26.811341Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Bhojshala temple to remain open for Hindu worship permanently, says Union Minister Savitri Thakur after MP High Court verdict - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPc2hXUkFMcl9yY0xTUkJpLXdCWDZ3alFGVVFhN3lPb0NnZEZVSHBLdkJVWkJJcnVENjVtTmg4cUxBYzFQaUE2ZjRpWS0xak9Fc3dHYlJXT3gwaEU1TzBJeWU2RjlKcWlja0x0SlBSaGpFa1NhX0Z2SDRvMGNGaVBMU0JldktCbGxnQTlLMUhIa1Q0M2E1TnJid2swMnVvN2ZvbHFSVVhIUlJ1WF9obzlHYU1LbWp2SEFMYnF1NThsNGFJNFh2dG5RZGd4a0Z2Z0R2WkI5bDItcW9qclRoazhnM3VoUm5ncWhoWHA0Z1ZBbDhUWGo4Y05pblFLZUdCNzBReTR1OFpKVld3YTdsNjdOQVRocHMxN1U?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Savitri Thakur, tribal leader & Dhar MP sworn in as minister of state in Modi govt | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM3VfYnB5R0hTNkM4RlY0V09qcTdXVFRNREhETk41WVpObFp2UjNNdjlJLWNzQjhmVURtalBmY0s2Y1haQlpuRzhzRE1sWnRUcWxHWnRNZHRBRW9yME5JLWowVGlsMDdneVFsRVVldmx1emkzWWRJUzl4aXp0dzRRX0JURjVrakZjZmFqNU1GR0pqb09ia2I1TmlaeTFvQnJXUWttcHpMSGxlM0hxQlFUZU9jSDN2RkJ1dFNueFVJYlB1ejFmMVBENngzMlloTmhWa1FjeGZwZzVnd9IB3wFBVV95cUxPNzB4bGh1SDVCTHZmcmxCOC1rZWNWRjRjaFEtaWsxcFVMSWV2WGZRX3RjZVhvZTYtUUVsZ3ZublEtNV8xQXZ0S0haU18wQ3ItR0xZc2J4M3pkTnBwbUtWSmtkRDlvNGhxSzdPa1R5WTNFdmtHdHQ2U3ZId0NydExzaGIzNndYal9maTNDSTdWLXJ2ei1ILXVkZnlCWU9ZcmRGUk84NmJmQ0tUTnMydFdqNVpiMEZ3ZkNfbEYtNl9YckdFd08xakJnUEZGaks0ZXdYX0pXVnRJZjFkaGZHSUYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Madhya Pradesh HC admits petition challenging Union MOS Savitri Thakur's election - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWW02Z2RlUG5WQ2NmdW5leVgtZ1I0Q3AyWUZEaWhob1FBY1A1U05ESy1ZYU5YeXpZdE1JZGFRWU04dUx1ZEVfYkdTV0pkWnVCdFl0RWxybXVoc0haUUlZdHJ5UjZMcVhPR0I4MGpnRm1ISDRhRGRTeWRMZEh6c0VnS19ZMUVqY18tRDZ5Uy1OdU1HYTJOZUwwMDdRSTNTQ1Z4SjRFVmI4M2dTbTBibmJGNHhhSXkyeFFnbzF5akFlRkxiT3pMOEJSQ2w4XzhzZHpuX3VDQw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dhar election results 2024 live updates: BJP's Savitri Thakur wins - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQSnh0MWE1aDJfaGpHN0ltSkFXYzdPYlowdS1mdEVLeHJReFRoc2RZQWRlcUNCU1Z5RmRYdG5MT1pHRkJzcDRlaGc2cTZjTDNiWjAtSjJxQkZJMDZLSDFRcjZydzQwOThBTGFTZnFqNUhtZ0l5T3FucnFnSXlTVTNrcjcya3pnVzdjQVpvZDQ0RmMwLUQ4T1NvMEwxeFNDdHFVSjdVejg5RVZIcEpsMDhXdm9LMUo0M2FoVUhmazRxbVpFNGtyU1lkVTloWVRzc25SQmZzQXFINHJaZXZSZE1JaUk4R3JzZ1YyOHZ5VFNXUGw4MURwTnFYa1ItQTdiVzY3bWNVMnE5MUw2YnNDN29laE5hNWI4LWo1NnBnQWR3bkhPNXRRUjlWRGRPWFVLWVFCM2g1bnVKaXhxWEU1SDdna2J6VG5ObFBhTG9pZkFQZVNjRVZOMEHSAdsCQVVfeXFMT1ZNN1FHNUd6V3IyeWpiYUNTSUFYel9BN3p4Umk5MFgwMk9Oa21zaEpjZ3ZiZ3Y3blZ6UXRsRVhDZHl3SGZNLWYxQXQwRDRIcU9XeFFrb1hlOWdMTFA1MXRmSHhTV0RFTWRqcHdlai14RWNmZU55ZzJNQVcyZEdrd0IweVNiVXhVT3R6YjZxdm5yZ2xQY0pTRGlINHVsOHItOHppMl9PbUNMSVZZZXZmU3htX2x1MGlBak5mRVVYUUNlZHpkZGdIai10aXhvQmY0d0poRWNNV01tRUdSbVBIR3hWR2ZhcW5qMlNNYzVYcHhnaTVxZmZseFctbWVSbFlRZ1BjdDZwbUM1ZlI5QV9yd2thT3RHNkctU0lOX2pPaDFWX2oySW1ucmVjUmoweGtkYUVVTUVicWgtbUFDM0l1SUg4dXNvQnY5YkRoMlEwVDVHVk03Y1oyYmJxR28?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Union Minister misspells 'Beti Bachao, Beti Padhao', video is viral - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQ0wwbHhIdkNsdW9FOEhVSWxUdTBPWU5uUjVxTmx1Q0w4dnlXX3h0TjZzeHdoeWt1ZW04cTFLSFdaemc3SG9Ock9JQWRuM1NWRmRGM3B5X1FaOWJzNkhCYzZwUXY3V0ZZRm9jQVNuajJmdkpxaE1fODltU3VDcmRWRjlCcW9wRGJNRktLajNBcE5WdkdEVjVWNEdENE9QN1NvTlVLVmhrQmFiX3ZDU3o4WEhPZnR2eWlUcUxrMlduZW9ya1Y1V2VVRzhJVHNKUWdEcG9nY2ZVcjZIeW9SSXkzTlJBMjI3clJSa052QmtpQnZtdWJFMEpFSnlyTHlyemtK0gGGAkFVX3lxTFBOMU5KbGtvTnFQSVI3dlJyRmF2Y3Jfcjg1Y3Y4MFNGOVlzSGRlM3JEODFneDhuY2JMcVZzc2FuOHZuLXlDblhNT21XSVpwV2J1ZmpuT0RXSnZtQ3h3NE16dXhMVFJQM2NQWGRRVWZkTnJ1RnlZMDdPdHZGa0NmRVdnd1I4TlRKbDlQNWFVcV96UmM4aUlQNXBtdUVtRDdOeWVRdVhGZGZPSFhDcDEzWVNReWxKM2VaZmsycmxFZ1JjMV9jX0Fuei13ZGp0bzI0T1piV01zdWNNVm5ac3JySVM3UlppeGEwM0JEaVJsOVJZazdqY3VjT2EwNHpEWWlxUXdUNjhPNGc?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:40.768212Z",
+    "collected_at": "2026-09-02T14:35:07.425961Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.039580Z",
+          "fetched_at": "2026-09-02T18:38:07.535367Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.039592Z",
+          "fetched_at": "2026-09-02T18:38:07.535378Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.039599Z",
+          "fetched_at": "2026-09-02T18:38:07.535383Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.039604Z",
+          "fetched_at": "2026-09-02T18:38:07.535389Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.039609Z",
+          "fetched_at": "2026-09-02T18:38:07.535394Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.039614Z",
+          "fetched_at": "2026-09-02T18:38:07.535399Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.039619Z",
+          "fetched_at": "2026-09-02T18:38:07.535403Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.039623Z",
+          "fetched_at": "2026-09-02T18:38:07.535408Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -306,22 +359,6 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Religious Rituals Continue At Bhojshala In MP’s Dhar After High Court Order - ABP News",
-          "source": "ABP News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTVMwY1hjSWVKQ1dweVl2WV9UNGxnbFVDOThpN2F1dFlpZ3U4TG44X3ZidGg4enFjR0NFd1pDV0F5Zmp6NmFMTGZ6UzIwdEh2TWo2dVBacXdWV1VCRDQyVk5URTJ0a0x5YnE0ZUVyWVdMeS1WU2M0VmxrcjJXaUUzN3ZGMTBjeG1PcE9Udlc4ek5RQzVodHRqZE9McUZhWXhKS0FYUmFPSjJXeWVoNk5VXzVITdIBuAFBVV95cUxPeU5uSXBiVDhzNzFzNktDbEl4MHFEcXZRQjdKOElWSGw2ZC1qVDJNVHlBT2ozMDRxTzJud3ZLTmRYUGx6Wl92VHR2SVVNOVptRXctcVZtTi0ybHdITnc2WVRwZEozNGFRdVZ1Q1JTWkVMR0RtWlFSbmhCUzhZVzU1cWJuZGxNRHI0Y2U1cjFfVS1pSlpha1RTNHVLSHkzWnBKUFQyQlUtVXAtU2FIZmJlZE1FWFNNc1h1?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Dhar road accident: 15 dead after pickup vehicle overturns; Union Minister Savitri Thakur visits hospital - Dailyhunt",
-          "source": "Dailyhunt",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZVFxc2t3RDY0MFhzc0xNOWhPU2pLa0s2VnA3RmxjU3h2OFZBYVpQVjVhM01YWEhvYTFqMkItdmZka3pCWml4dDBNMTEyRTB5SFNTUVMtanFVS3M1aFpaV1czeUExVFV5UURGNXJ2dWc0Q01mdEVPQm5BWHl5YnFzUXYyZEZXYVNSdFlBQTMwY1BHVnF5Y19IWFZnandpZHVBZHpTVU5TT3NqREJnRTVxVGtFYWhsbnZPX1QxVlRQN2dwTkJNNG9hRmtQRFdGTGpRVmdFclpHaXJDemxJODVaaV9qam1PUk9pM0h0cFJPSjlvU3hyMXNTaGthWXo1Mk1qd181Zk0wUHpSbzdkOWIyclZ5ZmV3QUFJdkE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Savitri Thakur, tribal leader & Dhar MP sworn in as minister of state in Modi govt | India News - Hindustan Times",
           "source": "Hindustan Times",
           "severity": "low",
@@ -335,6 +372,22 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWW02Z2RlUG5WQ2NmdW5leVgtZ1I0Q3AyWUZEaWhob1FBY1A1U05ESy1ZYU5YeXpZdE1JZGFRWU04dUx1ZEVfYkdTV0pkWnVCdFl0RWxybXVoc0haUUlZdHJ5UjZMcVhPR0I4MGpnRm1ISDRhRGRTeWRMZEh6c0VnS19ZMUVqY18tRDZ5Uy1OdU1HYTJOZUwwMDdRSTNTQ1Z4SjRFVmI4M2dTbTBibmJGNHhhSXkyeFFnbzF5akFlRkxiT3pMOEJSQ2w4XzhzZHpuX3VDQw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Dhar election results 2024 live updates: BJP's Savitri Thakur wins - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQSnh0MWE1aDJfaGpHN0ltSkFXYzdPYlowdS1mdEVLeHJReFRoc2RZQWRlcUNCU1Z5RmRYdG5MT1pHRkJzcDRlaGc2cTZjTDNiWjAtSjJxQkZJMDZLSDFRcjZydzQwOThBTGFTZnFqNUhtZ0l5T3FucnFnSXlTVTNrcjcya3pnVzdjQVpvZDQ0RmMwLUQ4T1NvMEwxeFNDdHFVSjdVejg5RVZIcEpsMDhXdm9LMUo0M2FoVUhmazRxbVpFNGtyU1lkVTloWVRzc25SQmZzQXFINHJaZXZSZE1JaUk4R3JzZ1YyOHZ5VFNXUGw4MURwTnFYa1ItQTdiVzY3bWNVMnE5MUw2YnNDN29laE5hNWI4LWo1NnBnQWR3bkhPNXRRUjlWRGRPWFVLWVFCM2g1bnVKaXhxWEU1SDdna2J6VG5ObFBhTG9pZkFQZVNjRVZOMEHSAdsCQVVfeXFMT1ZNN1FHNUd6V3IyeWpiYUNTSUFYel9BN3p4Umk5MFgwMk9Oa21zaEpjZ3ZiZ3Y3blZ6UXRsRVhDZHl3SGZNLWYxQXQwRDRIcU9XeFFrb1hlOWdMTFA1MXRmSHhTV0RFTWRqcHdlai14RWNmZU55ZzJNQVcyZEdrd0IweVNiVXhVT3R6YjZxdm5yZ2xQY0pTRGlINHVsOHItOHppMl9PbUNMSVZZZXZmU3htX2x1MGlBak5mRVVYUUNlZHpkZGdIai10aXhvQmY0d0poRWNNV01tRUdSbVBIR3hWR2ZhcW5qMlNNYzVYcHhnaTVxZmZseFctbWVSbFlRZ1BjdDZwbUM1ZlI5QV9yd2thT3RHNkctU0lOX2pPaDFWX2oySW1ucmVjUmoweGtkYUVVTUVicWgtbUFDM0l1SUg4dXNvQnY5YkRoMlEwVDVHVk03Y1oyYmJxR28?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Union Minister misspells 'Beti Bachao, Beti Padhao', video is viral - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQ0wwbHhIdkNsdW9FOEhVSWxUdTBPWU5uUjVxTmx1Q0w4dnlXX3h0TjZzeHdoeWt1ZW04cTFLSFdaemc3SG9Ock9JQWRuM1NWRmRGM3B5X1FaOWJzNkhCYzZwUXY3V0ZZRm9jQVNuajJmdkpxaE1fODltU3VDcmRWRjlCcW9wRGJNRktLajNBcE5WdkdEVjVWNEdENE9QN1NvTlVLVmhrQmFiX3ZDU3o4WEhPZnR2eWlUcUxrMlduZW9ya1Y1V2VVRzhJVHNKUWdEcG9nY2ZVcjZIeW9SSXkzTlJBMjI3clJSa052QmtpQnZtdWJFMEpFSnlyTHlyemtK0gGGAkFVX3lxTFBOMU5KbGtvTnFQSVI3dlJyRmF2Y3Jfcjg1Y3Y4MFNGOVlzSGRlM3JEODFneDhuY2JMcVZzc2FuOHZuLXlDblhNT21XSVpwV2J1ZmpuT0RXSnZtQ3h3NE16dXhMVFJQM2NQWGRRVWZkTnJ1RnlZMDdPdHZGa0NmRVdnd1I4TlRKbDlQNWFVcV96UmM4aUlQNXBtdUVtRDdOeWVRdVhGZGZPSFhDcDEzWVNReWxKM2VaZmsycmxFZ1JjMV9jX0Fuei13ZGp0bzI0T1piV01zdWNNVm5ac3JySVM3UlppeGEwM0JEaVJsOVJZazdqY3VjT2EwNHpEWWlxUXdUNjhPNGc?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -384,7 +437,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.17,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -436,12 +501,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 53,107,546. MPLADS utilization: 47.4%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.040338Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.536079Z"
 }

@@ -4,80 +4,139 @@
     "constituency": "Machilipatnam",
     "state": "andhra pradesh",
     "party": "Janasena Party",
-    "myneta_candidate_id": 6657,
+    "myneta_candidate_id": null,
     "slug": "balashowry-vallabhaneni",
     "house": "lok_sabha",
     "sansad_member_id": 4021,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/4021.jpg"
   },
   "criminal_record": {
     "total_cases": 2,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Cr. No. 464/2024 dt. 14/04/2024 Penamaluru UPS, Kanuru, Vijay awada",
+        "ipc_sections": [
+          "188",
+          "427",
+          "506",
+          "153",
+          "34"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "Cr. No. 464/2024 dt. 14/04/2024 Penamaluru UPS, Kanuru, Vijay awada",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "Crime No. 02/2019 dt. 20.11.2019 Special Investigation team, Karnataka Lokayukat Bangalore",
+        "ipc_sections": [
+          "411",
+          "420",
+          "120B(2)"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Honble 42nd Addl. Chief Metropolitan Magistrate, Bangalore",
+        "fir_no": "Crime No. 02/2019 dt. 20.11.2019 Special Investigation team, Karnataka Lokayukat Bangalore",
+        "case_no": "CC No. 32618/2021",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "No Application for Appeal/revision has been filed. However, a petition u/s 482 of the code of criminal procedure, 1973 seeking quashing o the charge sheet has been filed before Honble High Court of Karnataka in CRLP No. 8944 of 2023",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:32:55.769572Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 1337214564.0,
-    "liabilities": 868102917.0,
-    "net_worth": 469111647.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6657",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:43.830994Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 94.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 3.14,
-    "expended": 0.78,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:11:43.321910Z",
-        "notes": "Official eSAKSHI REST API — Works: 49 recommended, 41 sanctioned, 7 completed"
+        "fetched_at": "2026-09-02T14:47:00.721191Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:43:16.090166Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:43:16.087064Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 49,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 5.306122448979592
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 40.0,
@@ -92,7 +151,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:46.861026Z",
+        "fetched_at": "2026-09-02T14:43:16.085755Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +159,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Ensure effective implementation of Central schemes, MP urges officials - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdzRTbVhFWlFGcW5FaTdjQ3A3dmc2U19PRGxOZGpfRVhkVndfdHFtRHdhTWY1TUkyeFlQYWVqdW9tenpmMy1kRnlPdG1xdEN3UGtOcXEzT0RUbENKNmtZcFA1SmE5MVZEeWp6akFiVDFqT1ZRUmlUWUZ3cGp6cjdMSGlBc1RsdFI3RHZFa3JKRFhfOGdCM2JlcUhZSGpGd1FVbWgzaHIzU0xkRVQ0ZFRfeXZEVkhPbmVsMmVnVFltcEtoRUF2NnQxdlhuN2ZJeFAtaWfSAd8BQVVfeXFMTWlfUkdJLV9PZ1FraVQ4T0FZM1k4UzhVVk5EbzBnWEw3bTlDUnFVR2w3SG9TT09rN09lMHlEaGVLMEgtYUN1SzNzd3dTdzdvQndFell3Nk5FRTdZal9neDdDZGNuWHFZUzdwb2RVczk5MXA2RGVQVGF5S1I0S1JESlMxbFlaUUxQb25fa3dkMlZHZTJITHBPZHd5Ul9nQml6dW9PV2VYZVJDeWcwUW9PYlJVZXVCYUlGMTdZTVhyMWV4Y1lCR0NTSklnR3d5UWFQWlFxdWtaY3gzZElXM00tTQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Machilipatnam-Repalle railway line project given approval: MP Balashowry - The Siasat Daily",
+      "source": "The Siasat Daily",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjh3RlI1WC1BNTVFa21vTFplb0tiUFdZY3hwODRGQklRemg4Y3NtMmJFdU83YmplOHFZTmNLY0tuMzRPUVU2ZnBQUEhWWWxPcWYtTVJQQW9Ua2ZNWHU5dVNTOTBfdDVpN0JWazFfc1FwVVp5TlBxSC1wbkR5U0IzX0d4Z05XMW44d2ZVQzBla3k1bUNkQ19oZUc1TW93UjRtQ2FJRFpR0gGrAUFVX3lxTFBraFUxV2VYVUExNGoyUXM1a01GSDFzakNsZlNCcWFZenVOckNqbHJPRS1RdnZoSEhhRXljRnhjN3FmT3lrSTlDeGUzbEI5WTMyZEdwVG1CMzU4dWQ3WURfLW95OHlRbTVLejAtNFBPYm84cHEzYlNSNUhpTGNMTHItOWwzaUtKVnhaeW4xdFVndlV4YVdCMnB1NXZtbFgtcHMwUHNlWnlmOEtsMA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Machilipatnam-Repalle railway project enters new phase with completion of DPR - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUUw5eFpfazdiVkdzWHBsME81M3dKcWlfM1d2OEh6YkxLR2o3TURLNjVRS1pNVm9pNzNGT2w5SnZwREp0Z2EwVkZCY0VxVWNkSzVXSVZnUThHLWJnc3Ytak9vTF85aFJwSXFuTmVHSFM2N05WS19jWGVWaDVHVXdsUTdvQXpQTkV1ZHZWMndmOU5LN2FpSlFzclBvQVI4MUFVb0pjdVUzQW9peFJQbWtMNVIyUHBPVTlCUlZNYXhFNUxYRHlpQU04a0Y2SDBmTzlyc3lxLXdXWdIB5AFBVV95cUxNck5TcXphTGNOSHVMVUU5aV9kN3VQQkt0RnBjdG1tTWt5V2ptNUpJWjlXamswd0RrUV9LVGhjT1ZUVmVRWFV4WVhaQXN3Wjk2bjFVdTYzSU1wNHJDWldiTGlfOWRpTWgyRkhLMlVhNHVaVVFTYmZEakNDZTRERmhBNjV2U214YTZ0dHA4cTd2YjZ0dXl1NDRBSnNfUTQxVGtGMUxJcFNObGlCWDVWWE1rLVQzSUNIQTdjWVQ5WGg5c01VVzJoMmo2bTFXX0M1TWdGb2FaRU5Za0w5eDZJUUVSVzZnek4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "2-time MP locked in tough fight with 1st timer in Machilipatnam - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNG5xWnFPYUFzVDhRSGdsR1pobGJNbFVUQk9Nb2dFX0dPNDZGTmMxMnVJc0dvQm15SlNjNkQ3TzlwUUdKclNLSXJYeWdGd0V3WmNsTlQ0Y3BUQWZ6QlZBUVFRc2xkOFBNN3hvSGJ0cjdxT1d1WTBKUmRpQ0Y5SURrdG5ueGNHS1lWQmwxV3VaeWVSd0p4WDcwWVpjdTgxYXdOZElTb1lQdzJEZVNTWHg3bHozWHgwbFdvdXhqU1VGU1JTaTZUVmhsVFNmcXBranllSFNnT19OdHbSAd4BQVVfeXFMTzFpOUVRQmo2Qm96Q2lyRXhIVUhYZDFnVE1uZHhHTFVKeFU5V3AxY1NiejIySlRQcHY1WG5FajN1c0lxUXZRLUd5UC1yOGxMcXBYSi1RR1BvbHNVeTFDU3FFdmtoUjJ6UkZ2MEVtUGRKNDBQNmppQVJZakFLRl9XR1RwTlNEYktGZkU3QkRZVzZkbkRYNVNjZ25wWF9CMXdqS0Jua3djTS1kNzRuMGV2dWtBWFlzcHo4Y2RTb1FXWE1NQ1UyeTJwR1FSMjdQcnFlVno4Y29uZXpFZkg3SndR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Andhra: Machilipatnam MP quits YSRCP, second MP to resign in less than a week - The News Minute",
+      "source": "The News Minute",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDlFRUUyS1UzS014d0xDNUptMGNmMWZBR3VpWHhRTUVTWlVGSU9nblZhMF9PS3JTX1VVNktzMmpwNGkwY0F0OFVQTnBCSlhzT0lWai1tMVNvbXZweHIwdGd1cllVMDJEWGx2TzlSUl9UbGdpc3lETHVVMXdJcUlCSEJRYm1CUHJTc3ZIVGpYTlRGc3J5SmlmV1B4aUJ4RmVhRzBxck54eVQybklkOThsY1VjNFl4V1F5aEE2Y9IBygFBVV95cUxOc2xYcklHNjBkbWtYdThZZWNnajZjdTNjZGRDWTNfVDBoNkdwUm5BR0hJLTlXemZISGIzakF2LXQzUkdtNkhvOGZ1dHdFLTNsM0RMQ2pfMml4eV90U19yUG1hOGtjWmh4OWdjaThqa1d2RlhxblQxT3E2dVN1Tmt5dTFNOElTWVMxNFpQNmZHcXFOZ1IzaXUzRkpEZG1RWk1pWXl2eTI5dS1BNXN4bngwcEdsOVliR3FDOHlvTGdzZXlldk9USWQySDd3?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:52.174529Z",
+  "collected_at": "2026-09-02T14:47:00.722305Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +228,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.265558Z",
+        "fetched_at": "2026-09-02T18:38:03.782294Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +244,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.265569Z",
+        "fetched_at": "2026-09-02T18:38:03.782306Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +260,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.265573Z",
+        "fetched_at": "2026-09-02T18:38:03.782312Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +276,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.265578Z",
+        "fetched_at": "2026-09-02T18:38:03.782318Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +292,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.265584Z",
+        "fetched_at": "2026-09-02T18:38:03.782325Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +308,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.265589Z",
+        "fetched_at": "2026-09-02T18:38:03.782330Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +324,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.265593Z",
+        "fetched_at": "2026-09-02T18:38:03.782334Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,6 +362,22 @@
     "neutral": 10,
     "top_headlines": [
       {
+        "headline": "Ensure effective implementation of Central schemes, MP urges officials - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdzRTbVhFWlFGcW5FaTdjQ3A3dmc2U19PRGxOZGpfRVhkVndfdHFtRHdhTWY1TUkyeFlQYWVqdW9tenpmMy1kRnlPdG1xdEN3UGtOcXEzT0RUbENKNmtZcFA1SmE5MVZEeWp6akFiVDFqT1ZRUmlUWUZ3cGp6cjdMSGlBc1RsdFI3RHZFa3JKRFhfOGdCM2JlcUhZSGpGd1FVbWgzaHIzU0xkRVQ0ZFRfeXZEVkhPbmVsMmVnVFltcEtoRUF2NnQxdlhuN2ZJeFAtaWfSAd8BQVVfeXFMTWlfUkdJLV9PZ1FraVQ4T0FZM1k4UzhVVk5EbzBnWEw3bTlDUnFVR2w3SG9TT09rN09lMHlEaGVLMEgtYUN1SzNzd3dTdzdvQndFell3Nk5FRTdZal9neDdDZGNuWHFZUzdwb2RVczk5MXA2RGVQVGF5S1I0S1JESlMxbFlaUUxQb25fa3dkMlZHZTJITHBPZHd5Ul9nQml6dW9PV2VYZVJDeWcwUW9PYlJVZXVCYUlGMTdZTVhyMWV4Y1lCR0NTSklnR3d5UWFQWlFxdWtaY3gzZElXM00tTQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Machilipatnam-Repalle railway line project given approval: MP Balashowry - The Siasat Daily",
+        "source": "The Siasat Daily",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjh3RlI1WC1BNTVFa21vTFplb0tiUFdZY3hwODRGQklRemg4Y3NtMmJFdU83YmplOHFZTmNLY0tuMzRPUVU2ZnBQUEhWWWxPcWYtTVJQQW9Ua2ZNWHU5dVNTOTBfdDVpN0JWazFfc1FwVVp5TlBxSC1wbkR5U0IzX0d4Z05XMW44d2ZVQzBla3k1bUNkQ19oZUc1TW93UjRtQ2FJRFpR0gGrAUFVX3lxTFBraFUxV2VYVUExNGoyUXM1a01GSDFzakNsZlNCcWFZenVOckNqbHJPRS1RdnZoSEhhRXljRnhjN3FmT3lrSTlDeGUzbEI5WTMyZEdwVG1CMzU4dWQ3WURfLW95OHlRbTVLejAtNFBPYm84cHEzYlNSNUhpTGNMTHItOWwzaUtKVnhaeW4xdFVndlV4YVdCMnB1NXZtbFgtcHMwUHNlWnlmOEtsMA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Machilipatnam-Repalle railway project enters new phase with completion of DPR - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
@@ -280,27 +394,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Andhra govt giving undue benefits to some companies, passing cost to people: MP Balashowry Vallabhaneni - The South First",
-        "source": "The South First",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOXZ4eDAxbGZHZmh6MGJxaHcxbVFQUlBVaDZXTV9yYU54WG54VzdrOFNLbF9ad09TeXJoRFlSZlFqZ0lKeWE1SGhadE01a2ljS0N2Y0lCbGYxQ2hBeFF5QkpUQU1sbEhyQVE0VUZPbjhrVHJBa1dSanptOWhfdVY5MGd4UkRJM0w0clJTTnoyd1NOWDZrWHQxLXg3OG5wQldxWlRwZUs1YXltT1Q3OEVwRkVhMmhUdDkxT2FKcVBEc2l2dVR2YzQzRk1uWHYxRDF5N29nYnpXM3FaQQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Andhra: Machilipatnam MP quits YSRCP, second MP to resign in less than a week - The News Minute",
         "source": "The News Minute",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDlFRUUyS1UzS014d0xDNUptMGNmMWZBR3VpWHhRTUVTWlVGSU9nblZhMF9PS3JTX1VVNktzMmpwNGkwY0F0OFVQTnBCSlhzT0lWai1tMVNvbXZweHIwdGd1cllVMDJEWGx2TzlSUl9UbGdpc3lETHVVMXdJcUlCSEJRYm1CUHJTc3ZIVGpYTlRGc3J5SmlmV1B4aUJ4RmVhRzBxck54eVQybklkOThsY1VjNFl4V1F5aEE2Y9IBygFBVV95cUxOc2xYcklHNjBkbWtYdThZZWNnajZjdTNjZGRDWTNfVDBoNkdwUm5BR0hJLTlXemZISGIzakF2LXQzUkdtNkhvOGZ1dHdFLTNsM0RMQ2pfMml4eV90U19yUG1hOGtjWmh4OWdjaThqa1d2RlhxblQxT3E2dVN1Tmt5dTFNOElTWVMxNFpQNmZHcXFOZ1IzaXUzRkpEZG1RWk1pWXl2eTI5dS1BNXN4bngwcEdsOVliR3FDOHlvTGdzZXlldk9USWQySDd3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Political Profile of Balashowry Vallabhaneni, Janasena Party Party, Machilipatnam, and Net Worth - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQc3Fhc2k2NHZiaEZyamJNdXdQOEhSdVNiZHh0dWQ0RlNzbi0wZEhoaXVuY2Q5cG9pd0tEaURmRzM4bS02aWU2NHNGT3k3Tk50Y1hpVmVMU3hhQ3hFaFVqeXRNLXdaT0hVb2hNbXV1UHNIRjNXVnRpc1VuT0JvZTNxTmVVQWthZ0NZV3U5aGhmbmdQbXNmQ3h6U2VRS3FVdEVFcEljQ0xoa1Vmd0VFY0pJLUlTT2c0eWQtVFZwUm9mX2hKa3ZpcVBGeEt1R3V5Unl0STZwSmpqUjI0andsUENRWk4zd1puOUFPQ29ZMjYtZldFSjVKRFE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +432,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 43,
+    "starred_questions": 12,
+    "unstarred_questions": 31,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 82.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +448,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 40.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Low attendance",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,16 +4,16 @@
     "constituency": "Ujiarpur",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5152,
+    "myneta_candidate_id": null,
     "slug": "nityanand-rai",
     "house": "lok_sabha",
     "sansad_member_id": 4625,
     "profile_url": null,
     "canonical_name": "Nityanand Rai",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 58,
+    "age": null,
     "photo_url": "/mp-photos/4625.jpg"
   },
   "criminal_record": {
@@ -22,70 +22,138 @@
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "129/18, GR No. 653/18, Narpatganj P.S., District Araria | Section 125 RP Act",
+        "ipc_sections": [
+          "153A"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Additional Chief Judicial Magistrate - 1",
+        "fir_no": "129/18, GR No. 653/18, Narpatganj P.S., District Araria",
+        "case_no": "",
+        "other_acts": "Section 125 RP Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "Case No.733/17, District Samastipur",
+        "ipc_sections": [
+          "504",
+          "505"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Additional Chief Judicial Magistrate - II",
+        "fir_no": "Case No.733/17, District Samastipur",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "79/03, Hajipur Nagar P.S., District Vaishali",
+        "ipc_sections": [
+          "144",
+          "384",
+          "379",
+          "353"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Chief Judicial Magistrate",
+        "fir_no": "79/03, Hajipur Nagar P.S., District Vaishali",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5152",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:45.130397Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:33:22.784540Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 179527017.0,
-    "liabilities": 1400000.0,
-    "net_worth": 178127017.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5152",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:45.130420Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 69.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 3.04,
-    "expended": 0.9,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T18:21:18.709303Z",
-        "notes": "Official eSAKSHI REST API — Works: 90 recommended, 61 sanctioned, 28 completed"
+        "fetched_at": "2026-09-02T15:00:20.764281Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:56:41.030771Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:56:41.028859Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 90,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 6.122448979591837
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -100,7 +168,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:30.110288Z",
+        "fetched_at": "2026-09-02T14:56:41.028069Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +176,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MoS Home Nityanand Rai leads Tiranga Yatra in Ujiarpur ahead of Independence Day - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWU1vR0V3YVBsLWdtUkdtb2hrUjNhbVp3NllIVkwzbmNzekFEQTdUaFBqRVRWN3QtM3RaWndCbDkxTF9ndWpoZzZEdkt5d0hadmFjTklQaG9uZ2w3bmNIY0h6TFVubHlxaUdSVk1fRjZDMXpiaVpFWjdDVzRRbVpQQ2dsZW83ejlxN0c5TGdfYkowMVE2ck9aWHVoNHdhS3FLM19fWVpBT0hRVGp6aXhCcVRpSHZQSXZxOWhfeldlVDBMVWdOVGxmUHVRQVRTZjFFekh5VkRYT252V0gx?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MoS Home Nityanand Rai leads Tiranga Yatra in Ujiarpur ahead of Independence Day - The News Mill",
+      "source": "The News Mill",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXBIMm8wWE1QNzBlVDFVbzMybWNnM0pQTTFvcE1oQzJSSHBKNlhsRExXcmI2TmdLRmthaVBmSkxjVk1sNzYzQ3hjeERKUnJXUjc3Z043SVFHbzY4Z1doQWNhU3VIeUx1aDdBREo1dkJpU2dycnJXY1FPREFHUXZXUEM3d2xxTm1oUUVrSTZ5OG5sQVRVY0dDNkUyZG5FekEyMURyejRGc25JSGtXd2tNbUZ0TQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ujiarpur election results 2024 live updates: BJP's Nityanand Rai wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOczNTcmtNa3hoaFFIM0V2RUxQSWJweWl3YWpQWkhyWENZMV9GLTBlZHBtc2RlZTJKeWtMRnZvZ2ZmblB4U1VLM3VtN05uZUR0ZVhCSXJJcXc2VmJSRjVMSEVja1hBSnBYcHFMdHJqcElrZUpxSDQtaHJjSmpFdHd5dXNJdjdIU0FuNXdSa0hJN0JkQzBtTWxRMW1iRVZTNW96azZsNFg1Ulp1WE5EUktyRkRGNW03X2lLbHoxOWQ4c3BuVVV2RG5CTHpWYVdZcUJpVXdXLUZ2ckwwRFVFcGxoMVlkODNoZUZWLV9NTFVWYlNWdWw2bTVWWHlra25WWks2eDMyeGZZUGdXMGNhcnl4bUxUc3ktRVlKVEROLdIBogJBVV95cUxNLWtEdUhydlY5ZUlGVVdjZkN5ZWtNNFJuNjdGNUJuLVZTN2lOdDBwc1JNd180TUtkaDVPbC10bTZMTUVfM3lzblZ3eHdJNE1yaGhiSTk0cjA2eUZuZmtZNXYyQzVQRmJuUWtveDhvZ2poR1M3cFVvdEF3SGZIZWpGSy1FU05ZeEgzM2FjelBzMHNoTm1RSU01YzFaUjdNN2FzQTU3al92Mk1aNFBhaHZFSC12aVRzamtNYlVLQTB5QnJYWmxZSTdjcmN1bjdlUDNlMDI5Wno4eDJQb01VS1ZIb2ZyTGFIU3NpX1R0T0RXOVRLcWJKd0U2RURGeGZIYUpHVWQ5eTNVeVg3eUFnYWxadk5ma3JLSDViZ1hTS05ickxHdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "NDA united under Nitish in Bihar, no question of replacing him as CM, says MoS Nityanand Rai - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0RmM3JRcW01QkNMSmFXcFB2Q3lyTEpEODJpTW55X2hRbnZ6SkhqTjVZcEozaG1ZV3lxaDc3ZnBIWUlkODZ4eDhieUJmTjdNQllyaExYZnRXMm5tdUQ0UkVJQkx0S1gyZ2xDMXE2OGN5V29GTDRRd2N3ak5QNVVoZnJud2duMGM2RFl6ZVFDUHlrWmVMR0JRV2licVZqVHpYeDM5U3ByLU1UNFZyd0phbFplcE1DS0laR3pvQ3dEaGlxMmlRSnp30gHMAUFVX3lxTE9fcE55VkdFenNJWmVReTl0NFJGckZkbklnRWl3RmNQM3RoT0RGY3dibURGM2pzRWRCUHRyMGM0RGJiTmhma3RwUGUzRmg5NnlITTRYVkxBV0xwVWVyYTJRdVNPYXFJUkZSMVVva0NPS2oycWNZUC1zVGlvTzZCc0R5Q2tvZlU3YlhjUThDdTZFeXBxVkxidzR1SkJMTC1VdHl6U2U2WklEbXdqY01pOTc4RjVDWTFHdU1PODFYUTBwOWpZeU5HTlRJVVV3Sw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ujiarpur Election Result 2024 LIVE Updates Highlights: Lok Sabha Winner, Loser, Leading, Trailing, MP, Margin - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOG1BWFZPRFpKbTlJT0g3elluMXljWWRrM01yUzhwN1Z6VDlVSFppaFBYWkMyTm9wN1NsbFE2V3M5VlVSM2pwclFzU2NkbXhaQ2JaZ0xZN3puU1RfZ2E0d1daMFoxLTVFMmQ0RWZKN3QtbFBlZ05ab0lJeWw1aGgwTnNvUm0zZDl0YmNZLXJzMHUwbVZsUTFVdXNFcHVyZUVuNHEtdTNBWi1KM0hOZDJycVRZOHcxSk81MUVwcXFJZ3NITk5oNTh2OEgxa3RSQnV0M28xaUJjTS1zb3U1YU5QLS1oNA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:29.708692Z",
+  "collected_at": "2026-09-02T15:00:20.765001Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +245,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.277133Z",
+        "fetched_at": "2026-09-02T18:38:04.737950Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +261,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.277143Z",
+        "fetched_at": "2026-09-02T18:38:04.737962Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +277,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.277148Z",
+        "fetched_at": "2026-09-02T18:38:04.737968Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +293,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.277154Z",
+        "fetched_at": "2026-09-02T18:38:04.737973Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +309,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.277159Z",
+        "fetched_at": "2026-09-02T18:38:04.737979Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -218,7 +325,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.277164Z",
+        "fetched_at": "2026-09-02T18:38:04.737984Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +341,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.277169Z",
+        "fetched_at": "2026-09-02T18:38:04.737989Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +357,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.277173Z",
+        "fetched_at": "2026-09-02T18:38:04.737994Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -288,19 +395,19 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "MoS Home Nityanand Rai welcomes Rouse Avenue Court judgement against Lalu family in land for job case - India's News.Net",
-        "source": "India's News.Net",
+        "headline": "MoS Home Nityanand Rai leads Tiranga Yatra in Ujiarpur ahead of Independence Day - ANI News",
+        "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYXl5U2dnQnY2YjdoN1hoQ2lHMkNNa1I1SkxJck56N1pPa3NxWDRtTzFTOUZMYTVwemJKbmU3R09OU0RGcVJpdHJveVBFYkxNOHlPVGZydE5rQmFueGlTSVM2M3ptS2Y4SThvYUJvZ21WcjhOdFFOdzhPSGRQNU1KMkVHRG9YekZtdEZhdEw0Z0ZKMXM0RGRzd1BmdWVVVjAwSm9OeWJHTWktOWJyQ01KR21iVFp1ZTdhWG05WGpudjZQMXJ2VTgwV0JTaWRfVHlkVzhSaUg2RjJuZzA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWU1vR0V3YVBsLWdtUkdtb2hrUjNhbVp3NllIVkwzbmNzekFEQTdUaFBqRVRWN3QtM3RaWndCbDkxTF9ndWpoZzZEdkt5d0hadmFjTklQaG9uZ2w3bmNIY0h6TFVubHlxaUdSVk1fRjZDMXpiaVpFWjdDVzRRbVpQQ2dsZW83ejlxN0c5TGdfYkowMVE2ck9aWHVoNHdhS3FLM19fWVpBT0hRVGp6aXhCcVRpSHZQSXZxOWhfeldlVDBMVWdOVGxmUHVRQVRTZjFFekh5VkRYT252V0gx?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Ujiarpur Election Result: बीजेपी के नित्यानंद राय ने आलोक मेहता को पछाड़ा, 60 हजार वोटों से दर्ज की जीत - AajTak",
-        "source": "AajTak",
+        "headline": "MoS Home Nityanand Rai leads Tiranga Yatra in Ujiarpur ahead of Independence Day - The News Mill",
+        "source": "The News Mill",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSUxUcWtmcUl0Z3JINmhtTm92aEVOaGVQSW9LdmVRWE5vYmZfeXNQb0FBaWdKUnBvRkREdXdBNlI0NFpoU3FYUzdxdUNEVXNXc2owVHRDYkFGX1pRakF3ZUwxRzFWRkFiOTdMQlBVc0JnLUxJX0ZOSXdoZXVpcUtFNFo3eFFoT2NhcDQ3ODBCZjRQdlU1TEY0MVV3bDF3X1Nob3hqNlNMR0VRNmpHU1VBMkM5NkdYVC1RSVlCTzAwZVI5N2lDV1lZai1kd1Z0cXVMcnZveHh3RThHRklwV01MREh5Tm4xaXVMVVVDaFQwUmg0NFNJa1FlUWN30gH_AUFVX3lxTE5sVDFzeFEwVXpfRmdxcHhRNXZOT1JRQkxNMXE0bmVaS2o3RzBQX2YzZGlBTVl6LWluRkpyOVFxblF4Q0dLMG5GSnVkWVhabktpRko2UEU1c0UtTndndVcxbG1wZGZZZDdUV1dxNmFHZ3VqNzk0dzEwazVwRmRncFF6emoxVjlUVTBVTm9Ob0FFOFZPNjBraHNFWWpSVEt6aEtCNVZ2THpQSEZQaV8tNE9WeGc1aGVfeF9ReWd2YURIakE2WHZUc1pCbTVjMzM2ZExyeGVFQUIxVlB2czlGLTdORTBzVnNjNWFrMFo0MnJrN0tpNVRpVnpDVm5McTNQNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXBIMm8wWE1QNzBlVDFVbzMybWNnM0pQTTFvcE1oQzJSSHBKNlhsRExXcmI2TmdLRmthaVBmSkxjVk1sNzYzQ3hjeERKUnJXUjc3Z043SVFHbzY4Z1doQWNhU3VIeUx1aDdBREo1dkJpU2dycnJXY1FPREFHUXZXUEM3d2xxTm1oUUVrSTZ5OG5sQVRVY0dDNkUyZG5FekEyMURyejRGc25JSGtXd2tNbUZ0TQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -320,11 +427,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Ujiarpur lok sabha election results 2024: Ujiarpur Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Ujiarpur Election Result 2024 LIVE Updates Highlights: Lok Sabha Winner, Loser, Leading, Trailing, MP, Margin - News18",
+        "source": "News18",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMV9ETUVQWHVyOWQ3LTAyV0ktWXBERnd5VmZjVDNiRnZJbm5MTTZNTXRIbzdweENBQnQyOTZtSFNwTmkxWU81NHVtazFzaUxVYWZlcWpscG1oMlR0NzJnMlBUSlNPdzQ1WEFNOWlLb3plaG45N2t4U1NwT1VhMm5mQnQ0bnlkZER6dTNaZUxB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOG1BWFZPRFpKbTlJT0g3elluMXljWWRrM01yUzhwN1Z6VDlVSFppaFBYWkMyTm9wN1NsbFE2V3M5VlVSM2pwclFzU2NkbXhaQ2JaZ0xZN3puU1RfZ2E0d1daMFoxLTVFMmQ0RWZKN3QtbFBlZ05ab0lJeWw1aGgwTnNvUm0zZDl0YmNZLXJzMHUwbVZsUTFVdXNFcHVyZUVuNHEtdTNBWi1KM0hOZDJycVRZOHcxSk81MUVwcXFJZ3NITk5oNTh2OEgxa3RSQnV0M28xaUJjTS1zb3U1YU5QLS1oNA?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -374,7 +481,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

@@ -4,16 +4,16 @@
     "constituency": "Chandauli",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 9363,
+    "myneta_candidate_id": null,
     "slug": "virendra-singh",
     "house": "lok_sabha",
     "sansad_member_id": 5651,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/5651.jpg"
   },
   "criminal_record": {
@@ -24,68 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9363",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.317337Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:37:14.761875Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 715000.0,
-    "liabilities": 0.0,
-    "net_worth": 715000.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9363",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.317350Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 0.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.36,
-    "expended": 7.2,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:26.567889Z",
-        "notes": "Official eSAKSHI REST API — Works: 27 recommended, 25 sanctioned, 9 completed"
+        "fetched_at": "2026-09-02T16:51:20.190702Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:47:40.556478Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:47:40.553667Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 27,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 48.9795918367347
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:57:20.776529Z",
+        "fetched_at": "2026-09-02T16:47:40.552617Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Traditional boatmen washed out by waterways infrastructure and tourism - Mongabay India",
+      "source": "Mongabay India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNm1EaW83bEcxa2x1RFkxZmhCV2pjRmJKNjdKWjFWT2tlZkdxanZuNjhjb1UxRG9FUC1JeHBFUmV6UlRTZktrVF9NTzViamVFVF96UTZENWE4NThVVkx1MktKeGx1R1FPX1NaRGNXWDNhTGhJelBoTEZMbVhqRk90MjJEek1ZaTh3TlN4bWpqQmZuQnp3cXJwS2JELV9zbHVCVlJHbnppR3RyZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "SP leaders heading to Manikarnika Ghat stopped by police; MP Virendra Singh sits on dharna - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdmpKSU1LbzBVV3BaY0l6TDZ2YXkzWGVhcWRGck9CQVlfYlZ3a0NYMmMyX2VxZFlxTEVXOVZZTG9zbGloeFdNRFlrS2w3VGlzNVMtVi1ianpIdk5pZ2NPNjhrcUt6SEllUXkydzdRcW1pbEtDRUhpZ2w2OGRmcVVmdC1NQXZYVzl3Y3RrR3dEbUptSWV0OFVrOWxISUgybUJqcGhLbUJaNFFOcjVDTEFQQ2xiYmdDQkVWN1JIdXI3dUs1NTBqM2ZCamR1WEU3bUJCZDNncVF1MNIB3AFBVV95cUxNcS1kYjR6VzhNV19GRFh1cGhiS3JDcWEzMlBHSVkzN0hJdGRlQ1N1YjlrTFZJWFpSTDlrb2VIVVhaTXU2UnJtMlNDYzNidE9EN2ZpNHB4TlhXLWVfSUZwUTBJZUd0enhwU2NnRndxSC1ENlRCeUdReVdzTUM0VlN3czJxQTI5ejIwUnJCQ0c3c3BpU2xMck5ZbklEa0NPNTdBdTFhdmZEMW1uZWgxemVRbmhDS2FzdGdpWWJmYzUyRGZBRVRNUTdoMS1jNDluZkdVSEk0MkNaV01VYzQ4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Total foreign policy failure’: SP’s Chandauli MP on Op Sindoor, monsoon session - Newslaundry",
+      "source": "Newslaundry",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXBUMHdrdDZLQ0hQN05sLTVPbkRub2wxREg3c0ROaEoyeTZVRDdRVWFoSjBuMXAwX2lpVmpLUS11SFNZMkVsLVhxY1JaV3oxLTk0X1RNWWFweVA5SlpVVEQ1RnNwdTNVbkdpMEpvZVFTYW9aWTNPWHFmdC12U1RhTVZQNllFQzhJZGZmTUxINXBtVzJZczd0cEgyQlc0TE5ZbjdaTW1QeTJobG5BTTZrWEltVHPSAcoBQVVfeXFMUE0yMjFURlE4UjItcXNIdzd2Z3huamhOX09fd1pCWG9JU0dNYUY1QTdPOE51Q1JBaU1laEZWa2pvdmo0aHNRRWVMQTdyZ00xY2hZY0swVndlNXVLa3FWM0JHS3JoWTJKZlo3OXpSTVROOXFwbFNQZ3FEbmRmdEc3dFBmY3l5UUhmd2JLbi1oQUYtbXkzVXlBVGJLcFF3Vjl2cWxpZjNMS01mM1ptU2ZBV3NVanlrRy1fNVZmd1J5RllKSmFuQnVtNGtIQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Akhilesh Yadav asks SP MPs to monitor voter roll revision: Calls for FIRs, court action over wrongful delet... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRXdKYTRJUXZMd0haVW5UajJXSlZBSmh5UHVfRlI4YjdYTE84X1RUeFlEbDlxYWp0Qml2V3BHa1Z0bVZFZ1p0Tm1fZ3k0MDYzREJtN044TTFSLUlCOHVURmtRdU5MeFRSaExIMTRHOXd6Qzhoa2p4RGxHTlZ4b09DLTRoNE5YdmFNZ1N2UzNMT3FUd2xVaWpBeTVRWXowT24temo4Nlh6bXRUQ1ktMDZ3ZlR3cVJ6MzZWQnZVSm0tb3g1MnBabVk3YVU1VS1mb3lDclhaeUZQY1NRdTlY0gHiAUFVX3lxTFBJMFpDak1ZQWJXczFpTlhudU91M0hCQWxtZGZCZ3Y3UFMtS2h1V3F3SWFBWC1jZGxYUUh3aUtpc0l1ZVRmSG1JNElySm9YcEROZGQwQ2xzZ1NHYi0yZmhkMjdlVzRNai01OWhuMVZQWHRpTzNlS3hEdzBrZmhVZkpLRTdiM0psbklfNGprMnlaNkU3djdrekJvVExEMmtGS1dFNlhvcmdQQUp3VjNQaWxqQXcwUWNwUngweURRQ1JsNU1zYTNLZW1IUjVsRV91SmJxNlU3aGh6OUdSVkRUMGh4V3c?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chandauli election results 2024 live updates: SP's Birendra Singh wins with 4.7 lakh votes - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOQmRoSUZkMXRjaEs5bVNZWjRSRzU4eFI2QjFhaXpvZHNZNEVIS0JHUmJwa3dQaldQdlJQRU1CQ0MtQVREUllZTFVZb1NjZXBLVFZaZGg2M1FMSHQxMFNMRGZRdDdvMHlsdHltR2drQWFqSS14alhBQUl3NnF2TnpUbUF3LVJBNi1IWFV2dU5sLWNEUDhkSENHNEFIRFBCMVZLM2JSUWM1SHJzZG9LU2hUaE1XdlQxdjBoS3dMb2dvR011T0U4NjVBLVJiSnA4ZWZhWjJZdVZvMlhadHE1QnkybDJTWlhJRWFic09aZVU4VkgtVDNsU2FSSG50MUdrbldKQWt0NjR5TVZnVldYWE5OUDNFNmRXbXkybkFiTk50TGZnQXNHUUhSaUIySXRvaDVFVkRNUEFIMGQ2QXVTamEtcURSM2VBQTRRWVk3NXhYUHRoN3Zwa1FsWlVQVzPSAeICQVVfeXFMTWNEY2V2ZDlnQTh5eXRWR19xWXl4U3lwWGtrRVR6YWpTSkQ2d0wtQ0dzb0p1QkdpdXpLVjRYUlQxWl94LXZJVl91NFA2MXNPOFE4aDU2cWY3ZlAzeUpXT2M2NWxiaG1EVXhRVktna3pyTWlWNDFyNXFic0JsM1FjWXlTbkRmZUVyTGJGN2JCNTc1b0paMElHV3hMTW8xM0xUek5ZUDFSOHAwbzNLZnRVdXFCRC0zXzdxcFFxRGtRcms4SkU4ZEZaYmxFX3FDZklHSlBZN3pDcmpUWWxMRkNESnRiS010Sl9MOVJsN3VDS1o1dVJlOVRXM1hxVEJGa3l5QnlZbEpFeWlvUjAxV3QtODlsTEh6WjBhSmJFSXpoc1pHX0c1a0U5R0tqZlV2aUxvUHpHZnZNSlQwY3Z5TEd5N0tvNjUzSDlyaFpxUFZJUWdXQU11UmQtRFRmbnVXS05XSUtn?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:57:41.445149Z",
+  "collected_at": "2026-09-02T16:51:20.191713Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.379136Z",
+        "fetched_at": "2026-09-02T18:38:11.961931Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.379145Z",
+        "fetched_at": "2026-09-02T18:38:11.961947Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.379149Z",
+        "fetched_at": "2026-09-02T18:38:11.961955Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.379154Z",
+        "fetched_at": "2026-09-02T18:38:11.961964Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.379158Z",
+        "fetched_at": "2026-09-02T18:38:11.961972Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.379163Z",
+        "fetched_at": "2026-09-02T18:38:11.961981Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.379167Z",
+        "fetched_at": "2026-09-02T18:38:11.961989Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.379171Z",
+        "fetched_at": "2026-09-02T18:38:11.961996Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -275,40 +320,65 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/i/flow/login?redirect_after_login=%2Fapkavirendra",
+        "url": "https://x.com/https://x.com/i/flow/login?redirect_after_login=%2Fapkavirendra",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/apkavirendra/",
+        "url": "https://facebook.com/https://www.facebook.com/apkavirendra/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/apkavirendra1/",
+        "url": "https://instagram.com/https://www.instagram.com/apkavirendra1/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T16:47:43.085317Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 1,
+    "positive": 0,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 10,
     "top_headlines": [
       {
-        "headline": "SP leaders heading to Manikarnika Ghat stopped by police; MP Virendra Singh sits on dharna - The Statesman",
-        "source": "The Statesman",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdmpKSU1LbzBVV3BaY0l6TDZ2YXkzWGVhcWRGck9CQVlfYlZ3a0NYMmMyX2VxZFlxTEVXOVZZTG9zbGloeFdNRFlrS2w3VGlzNVMtVi1ianpIdk5pZ2NPNjhrcUt6SEllUXkydzdRcW1pbEtDRUhpZ2w2OGRmcVVmdC1NQXZYVzl3Y3RrR3dEbUptSWV0OFVrOWxISUgybUJqcGhLbUJaNFFOcjVDTEFQQ2xiYmdDQkVWN1JIdXI3dUs1NTBqM2ZCamR1WEU3bUJCZDNncVF1MNIB3AFBVV95cUxNcS1kYjR6VzhNV19GRFh1cGhiS3JDcWEzMlBHSVkzN0hJdGRlQ1N1YjlrTFZJWFpSTDlrb2VIVVhaTXU2UnJtMlNDYzNidE9EN2ZpNHB4TlhXLWVfSUZwUTBJZUd0enhwU2NnRndxSC1ENlRCeUdReVdzTUM0VlN3czJxQTI5ejIwUnJCQ0c3c3BpU2xMck5ZbklEa0NPNTdBdTFhdmZEMW1uZWgxemVRbmhDS2FzdGdpWWJmYzUyRGZBRVRNUTdoMS1jNDluZkdVSEk0MkNaV01VYzQ4?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Traditional boatmen washed out by waterways infrastructure and tourism - Mongabay-India",
-        "source": "Mongabay-India",
+        "headline": "Traditional boatmen washed out by waterways infrastructure and tourism - Mongabay India",
+        "source": "Mongabay India",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNm1EaW83bEcxa2x1RFkxZmhCV2pjRmJKNjdKWjFWT2tlZkdxanZuNjhjb1UxRG9FUC1JeHBFUmV6UlRTZktrVF9NTzViamVFVF96UTZENWE4NThVVkx1MktKeGx1R1FPX1NaRGNXWDNhTGhJelBoTEZMbVhqRk90MjJEek1ZaTh3TlN4bWpqQmZuQnp3cXJwS2JELV9zbHVCVlJHbnppR3RyZw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "SP members stopped from visiting Manikarnika Ghat - The Times of India",
-        "source": "The Times of India",
+        "headline": "SP leaders heading to Manikarnika Ghat stopped by police; MP Virendra Singh sits on dharna - The Statesman",
+        "source": "The Statesman",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0FUZS0tOFhodHRGekwtYnFSWTFPQmZiYzMxLXRRTWNaV1JfZlJXTHhsTVZtXzRkQXZHMkgzb3VHamMwQ0RMVFVScTRtbVVTd2hkcUxSSS1CUkc5THpLcnpsYjVHUjExY3RORDNaN1lkb0w0ZmRJNFVaZUZQNjY2UWF4V0tad1JDSUt6ako1cHBscFpKRmNCdGNhQ2s1LTVmMHEzVlI2MXNoc28taGN0V0ZqZ2l5UXA3bHBockl3WW4yWXPSAcgBQVVfeXFMTVRaRnM3RUJwaGFvWVZxTHc2MU1lWW1JbzdiSU1kVmRGVFgxX2poMXJaNmVhNjlxLTZFQnJfU19LSXlwdmxOSXVjUUwtMkNacWptWGZGZkZEUmJaQ0dqcU9FQ1YzM01HM3NkN1M5aGdNNmlkSTg5TGtDcWl6Q21PbDlGb21HbjRkU1R3YjA5Y2cwbld6SC1Jb0NOODU1c2R3ckVDeDFQb082WmtDR0laVTUtV3c2LS1ha2tNeUZNdlJtRFNGY0toM1Q?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdmpKSU1LbzBVV3BaY0l6TDZ2YXkzWGVhcWRGck9CQVlfYlZ3a0NYMmMyX2VxZFlxTEVXOVZZTG9zbGloeFdNRFlrS2w3VGlzNVMtVi1ianpIdk5pZ2NPNjhrcUt6SEllUXkydzdRcW1pbEtDRUhpZ2w2OGRmcVVmdC1NQXZYVzl3Y3RrR3dEbUptSWV0OFVrOWxISUgybUJqcGhLbUJaNFFOcjVDTEFQQ2xiYmdDQkVWN1JIdXI3dUs1NTBqM2ZCamR1WEU3bUJCZDNncVF1MNIB3AFBVV95cUxNcS1kYjR6VzhNV19GRFh1cGhiS3JDcWEzMlBHSVkzN0hJdGRlQ1N1YjlrTFZJWFpSTDlrb2VIVVhaTXU2UnJtMlNDYzNidE9EN2ZpNHB4TlhXLWVfSUZwUTBJZUd0enhwU2NnRndxSC1ENlRCeUdReVdzTUM0VlN3czJxQTI5ejIwUnJCQ0c3c3BpU2xMck5ZbklEa0NPNTdBdTFhdmZEMW1uZWgxemVRbmhDS2FzdGdpWWJmYzUyRGZBRVRNUTdoMS1jNDluZkdVSEk0MkNaV01VYzQ4?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -320,11 +390,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Political Profile of Birendra Singh, Sp Party, Chandauli, and Net Worth - India TV News",
-        "source": "India TV News",
+        "headline": "Akhilesh Yadav asks SP MPs to monitor voter roll revision: Calls for FIRs, court action over wrongful delet... - Bhaskar English",
+        "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY0xFNlRDSGFwV3M1V1NxOTB1QzZkZFlMNHJocm13eEFnRFhGX2p1WHdqbXFjX0hQOUNPQVFfYXltNXdRTV9MU3BVQzAtdUpCOHhsN0otZTl1dklmWV9hbTZkSnlTeHl2ZldSY2xMaGVwT0NiRmpBODdIVm1aNTVBN0NIS0dudllxMUs2Q2RxNGNBVmRDUjdUMmVqNlEyYlc1dlBQeUNxVHpRYlV4VTdaU3JOOVo4eEtTS2Z0WTRrSVZWczNqLWNuZ2EwUllleFNrcFYzNVZjZFRGSVV1cjRaTzdhQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRXdKYTRJUXZMd0haVW5UajJXSlZBSmh5UHVfRlI4YjdYTE84X1RUeFlEbDlxYWp0Qml2V3BHa1Z0bVZFZ1p0Tm1fZ3k0MDYzREJtN044TTFSLUlCOHVURmtRdU5MeFRSaExIMTRHOXd6Qzhoa2p4RGxHTlZ4b09DLTRoNE5YdmFNZ1N2UzNMT3FUd2xVaWpBeTVRWXowT24temo4Nlh6bXRUQ1ktMDZ3ZlR3cVJ6MzZWQnZVSm0tb3g1MnBabVk3YVU1VS1mb3lDclhaeUZQY1NRdTlY0gHiAUFVX3lxTFBJMFpDak1ZQWJXczFpTlhudU91M0hCQWxtZGZCZ3Y3UFMtS2h1V3F3SWFBWC1jZGxYUUh3aUtpc0l1ZVRmSG1JNElySm9YcEROZGQwQ2xzZ1NHYi0yZmhkMjdlVzRNai01OWhuMVZQWHRpTzNlS3hEdzBrZmhVZkpLRTdiM0psbklfNGprMnlaNkU3djdrekJvVExEMmtGS1dFNlhvcmdQQUp3VjNQaWxqQXcwUWNwUngweURRQ1JsNU1zYTNLZW1IUjVsRV91SmJxNlU3aGh6OUdSVkRUMGh4V3c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chandauli election results 2024 live updates: SP's Birendra Singh wins with 4.7 lakh votes - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOQmRoSUZkMXRjaEs5bVNZWjRSRzU4eFI2QjFhaXpvZHNZNEVIS0JHUmJwa3dQaldQdlJQRU1CQ0MtQVREUllZTFVZb1NjZXBLVFZaZGg2M1FMSHQxMFNMRGZRdDdvMHlsdHltR2drQWFqSS14alhBQUl3NnF2TnpUbUF3LVJBNi1IWFV2dU5sLWNEUDhkSENHNEFIRFBCMVZLM2JSUWM1SHJzZG9LU2hUaE1XdlQxdjBoS3dMb2dvR011T0U4NjVBLVJiSnA4ZWZhWjJZdVZvMlhadHE1QnkybDJTWlhJRWFic09aZVU4VkgtVDNsU2FSSG50MUdrbldKQWt0NjR5TVZnVldYWE5OUDNFNmRXbXkybkFiTk50TGZnQXNHUUhSaUIySXRvaDVFVkRNUEFIMGQ2QXVTamEtcURSM2VBQTRRWVk3NXhYUHRoN3Zwa1FsWlVQVzPSAeICQVVfeXFMTWNEY2V2ZDlnQTh5eXRWR19xWXl4U3lwWGtrRVR6YWpTSkQ2d0wtQ0dzb0p1QkdpdXpLVjRYUlQxWl94LXZJVl91NFA2MXNPOFE4aDU2cWY3ZlAzeUpXT2M2NWxiaG1EVXhRVktna3pyTWlWNDFyNXFic0JsM1FjWXlTbkRmZUVyTGJGN2JCNTc1b0paMElHV3hMTW8xM0xUek5ZUDFSOHAwbzNLZnRVdXFCRC0zXzdxcFFxRGtRcms4SkU4ZEZaYmxFX3FDZklHSlBZN3pDcmpUWWxMRkNESnRiS010Sl9MOVJsN3VDS1o1dVJlOVRXM1hxVEJGa3l5QnlZbEpFeWlvUjAxV3QtODlsTEh6WjBhSmJFSXpoc1pHX0c1a0U5R0tqZlV2aUxvUHpHZnZNSlQwY3Z5TEd5N0tvNjUzSDlyaFpxUFZJUWdXQU11UmQtRFRmbnVXS05XSUtn?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -358,15 +436,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 16,
+    "starred_questions": 4,
+    "unstarred_questions": 12,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 30.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -374,17 +452,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

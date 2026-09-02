@@ -4,16 +4,16 @@
     "constituency": "Mirzapur",
     "state": "uttar pradesh",
     "party": "Apna Dal (Soneylal)",
-    "myneta_candidate_id": 9380,
+    "myneta_candidate_id": null,
     "slug": "anupriya-patel",
     "house": "lok_sabha",
     "sansad_member_id": 4662,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 43,
+    "age": null,
     "photo_url": "/mp-photos/4662.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Mirzapur",
       "state": "uttar pradesh",
       "party": "Apna Dal (Soneylal)",
-      "myneta_candidate_id": 9380,
+      "myneta_candidate_id": null,
       "slug": "anupriya-patel",
       "house": "lok_sabha",
       "sansad_member_id": 4662,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 43,
+      "age": null,
       "photo_url": "/mp-photos/4662.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,129 @@
       "convictions": 0,
       "pending_cases": 2,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "122/2013, PS. Jansa, Varanasi, U.P. | Section 7 CLA",
+          "ipc_sections": [
+            "147",
+            "148",
+            "149",
+            "332",
+            "353",
+            "204",
+            "427",
+            "336",
+            "337",
+            "323",
+            "504",
+            "506"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "ACJM-VI, Varanasi UP",
+          "fir_no": "122/2013, PS. Jansa, Varanasi, U.P.",
+          "case_no": "1137/2014, Case Crime No. 143/2013",
+          "other_acts": "Section 7 CLA",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "220/2013, PS. George Town, Allahabad, U.P.",
+          "ipc_sections": [
+            "147",
+            "323",
+            "336",
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "ACJM-VII, Prayagraj UP",
+          "fir_no": "220/2013, PS. George Town, Allahabad, U.P.",
+          "case_no": "Case Crime No. 270/2013",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:52.008487Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 42241754.0,
-      "liabilities": 9805603.0,
-      "net_worth": 32436151.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9380",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:53.639128Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 33.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.12,
-      "expended": 2.58,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:50:33.136484Z",
-          "notes": "Official eSAKSHI REST API — Works: 10 recommended, 10 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T17:37:11.193056Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:33:23.558622Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:33:23.555703Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 10,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 17.551020408163268
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +177,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:06:46.753529Z",
+          "fetched_at": "2026-09-02T17:33:23.554628Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +185,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "MP Anupriya Patel sought her transfer; speculation grows after her resignation - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcktEMnpQanE5R1lfeFgzZ3VRNHZLX3V3SXNzNjRCeF8xYjJUajBGOUVkZ0VXSEJqRzM2Y0k2RGJRdDdwai1tUWRVcGZoSVNENFdQMXVZN3BGNjZ0YXBncmZCMG5DdlFvTWp4LXU0Q3E5cEVzalgycm43WDV5aTlBS2tURHdkMm5yZVd5R09fRmFFM0JzVWRxUTdKOWdvaGktakZ6T3hEWWlwNzVXQWtRTXEwS0N4WndKaUZOZkkyYjVSR2U0WGV1UWw0Z1JGcnlLQ0JjMzNob3RfRUdsYW5OVERB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Merchant navy officer from Mirzapur goes missing in US, MP Anupriya Patel seeks help from MEA - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTlgwcFJVeXk4R2hxYW54SGxpenAxOWJvRWszaVh3V016YS03SnFCT0JJOFkwNzZNVDNnbDJfdWp4aUpZV2x5dmV1ZjRCZlA5b2xSa1dFczAxZGZKbDVCWlRLWlM2Z0g1V3EybEk2QzJNX3NrQmV0aG55ZWxQLS11Z3FmdWVzVmJxa0NWd0FzRzBzVWVvU1hzdm1MSlFSNFhMbHRRRVM3X0k1azdtNmRmYTU0UHpoUjFicWdoNnZyWUxJRC11SGwxNS1oQ2pSODVoMmRvdWFuWHJFalHSAegBQVVfeXFMUEkyUGtNdjZOUWFWYmp5TGJGMEFrVF9JS0tZVUZFYmJaeHlvNDJaLTBZR1lLLXg3dlBmM2lBQlR3WHl6ZlB6ZEVreHRvMzFGMFdBVG0wUXVlRzZ0Ni1VaEdBZnBBMnRRbUE3b0ZId19YdVk4LTFveDNZT3drcTdYNEd3WUhLdmpaQWU1R0Z6VlZDNE9YdTdVX3hmMGZ6LWxYSGFBbVdqSGhSUFlHTEEzY3pSMmUyR1dnWHVjSm9wcS02Q1Q1WDZSMFg2dU5LVDRVWmFYSGtKbkQ5OEVOTDdyZ3J1SUZ2bnU0NQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Merchant navy officer from UP goes missing in US - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSEhxZUxPdnZONVhPU1R2Sk8waXRqLUMtbUdITElCYnQ4c2RfTFdnWEJYTG9iTkQwTWZTM29FNWh1WUpFNFc3NGt2MVJvX05sbG1zYXFZaEVPWEt4cFQ1SkZWSldLZmh3YWxZMF84eHNJLUNSMDZfM0RSSGVJQVFhSktFeXA4RHEtWWFsYUFXeEU5X014U0x0NHhOVW0xb1dnX2FKTUFMTGxpWFNiaGhvbFpkV1BONFNwb0h4X1lpM3RibjNuZk9KT0dkYWdQdmhiWVFYeWg4cXdwTDIyNXlyZUpR0gHnAUFVX3lxTE5vckhsdW1LZGN4c000SndIcUFUXzBMaEdDUUV6TlNvYV9iaktocndTdTRjOG9Rc2dKREtwQXlIcFlRdVVHSTVvbTZkNEtNbmtlLUxVS2Vuc0JMb2pnZDE3cjZ2NDBrdXVoOFE1ZW95Z1F2dmh0MUtzS3dPZ3pVXzhSbVBxT2UyY2FwNTQ2dkxGNFlSWGNmSEpMSGtoSXB4ZTZMRUZBUHlzYW9kNG1uTGg4U1JrZGwzUUVtZExsdGhGZ2R2TGJPUGdTamtmVXVEVDVUcDZxWkxkU0l3OGlwUEU2VGhhQnEycw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Union minister Anupriya Patel stuck in caste maze on Mirzapur LS seat - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjBXc0VUZzFCeDM5U1VnWTJSajVBdXRWMl9ndTRya0VMbEgzSE1OS29NZTJ3bkN6YmlkTy04ZU9reU9PSUFsLXlaWXpYZjNROHF1ZUtuV0V0RWd6dW8weGlvVndCUFc0LXBSX1pUNWlnNU5TSGFHS0J4OWpqMks2aGstSWR4LWFOY0d5Q09OLUxMdW1CMTlGTTg5T19SMWdHS0l6b2FMNy1lNFFCNk85M1V0Vk9FWVp5ajB2ZNIBwgFBVV95cUxPejVLdS05aWlpRXU5SllOTnJTV29tYnMwTXJHZzBFUFhfQ1V3S3VOSlkySlFRSVkxRkV2VTlKTHVzOE1fblJlYTM4aVJ1Q3lkb0lrTmdnY3FMeWtPMWlVMC0ycVc0RG5LZWRLeGh0eFM0MmFCOEZsY185a3FqS1BTRUJhcFIyY2EtajlXcWMzRGpPdEdYc1prbVluS2tXcVNTaUhpeHh0aDc5TXRQaFU4aHplRUhpVjFDSzNFdWwzZGhDUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mirzapur Lok Sabha Elections: Apna Dal (S) Candidate Anupriya Patel in the Hunt for Hat-trick; SP Fields BJ - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdWFHcThuNUp2eVNBVHFwUlVRYUVJQVlHZkk3WkZfdGVubTRQTXhsa3Rxb0lXbFBkU200UVBDZFZ2c3YxVUpZM0pkVWQyeUd5eUJCeGpVTE9CU0F0MXJpOWR5WXNCN0V1NUp5cm9vZ1cxYXRvQVNMUEs1bms3a3NScm5wUkZ1TWZqM09LLTEzaUQ3WUhzNEZjaVZ5ZHdReFhRUUVHaHo0eGJOdFg5MmI2NDZFRklZS1dUUFBaZ0JWRGJTcVJrNTAyeGNFVUJyTW5SNVdOcWxVVWVtdWJkWk1WWWhFMzhuQzkyR0ZuT3pfUV_SAfYBQVVfeXFMT1BmNnlsZGl4b3VTUGsyWUFueFZjbHBUeEkxNGhkSHZjVXNpQkRJdEtDVW5lQkJPWENvTjFYWVZaTEJmUmJCQXY4TUEzQmVhcWplTzZ5ZWZQN1JYUVlJa1EyNVJLMTRPc1kzbGxsZklyY2FpQTAxUG9OTjRmaExmQmRWMEJwMm9VdGpLMTZ0V3VzT1hsMnpseEJ2MWlodzBmYWJ6S01TNHpJaEl4ZmxoSlN3YjFfMXNURE95SGx5X0ZwSk8yNVUzNGxNSXV0V0pWUjFRZ3NNb05rNTlVRk1qVHR4X0tnMjRaZmNKNjFvMzdRZFBYaENn?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:07:05.532715Z",
+    "collected_at": "2026-09-02T17:37:11.194040Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +254,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.200997Z",
+          "fetched_at": "2026-09-02T18:38:10.761878Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +270,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.201006Z",
+          "fetched_at": "2026-09-02T18:38:10.761888Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +286,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.201011Z",
+          "fetched_at": "2026-09-02T18:38:10.761895Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +302,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.201015Z",
+          "fetched_at": "2026-09-02T18:38:10.761901Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +318,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.201020Z",
+          "fetched_at": "2026-09-02T18:38:10.761906Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +334,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.201025Z",
+          "fetched_at": "2026-09-02T18:38:10.761912Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +350,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.201029Z",
+          "fetched_at": "2026-09-02T18:38:10.761916Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +366,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.201035Z",
+          "fetched_at": "2026-09-02T18:38:10.761921Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,11 +391,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/AnupriyaSPatel",
+          "url": "https://x.com/https://x.com/AnupriyaSPatel",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/AnupriyaSPatel/",
+          "url": "https://facebook.com/https://www.facebook.com/AnupriyaSPatel/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/anupriya01/",
+          "url": "https://instagram.com/https://www.instagram.com/anupriya01/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T17:33:33.017173Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -298,11 +437,19 @@
       "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Merchant navy officer from Mirzapur goes missing in US, MP Anupriya Patel seeks help from MEA - MSN",
-          "source": "MSN",
+          "headline": "MP Anupriya Patel sought her transfer; speculation grows after her resignation - Bhaskar English",
+          "source": "Bhaskar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSWs0RnN6WlFMQzI0OTUyeE5WamxKM1JLWXQ3cmdUUl9wNDVHcEk3MWVuUFlDd3hTQ1IxblB0Y1dVdjdXamxzZll1Q1JlS3FSQURCRnRyQXh4Z05nZVctRkZMV0FxZHlRcENsSkYwV3RLNFlCeW1YZy1WSkt3ek5PdXR4QTFKX2dQaER1TWQzRGFBdl8tcGVXOVFFNVltaG1fb09MM0RFa0lFTzZobkw0TGRNSWp4Z3F3VllzSjRYOS1BaElvbk9DOGVLQVA3bnVlYmFTTTY1N2I?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcktEMnpQanE5R1lfeFgzZ3VRNHZLX3V3SXNzNjRCeF8xYjJUajBGOUVkZ0VXSEJqRzM2Y0k2RGJRdDdwai1tUWRVcGZoSVNENFdQMXVZN3BGNjZ0YXBncmZCMG5DdlFvTWp4LXU0Q3E5cEVzalgycm43WDV5aTlBS2tURHdkMm5yZVd5R09fRmFFM0JzVWRxUTdKOWdvaGktakZ6T3hEWWlwNzVXQWtRTXEwS0N4WndKaUZOZkkyYjVSR2U0WGV1UWw0Z1JGcnlLQ0JjMzNob3RfRUdsYW5OVERB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Merchant navy officer from Mirzapur goes missing in US, MP Anupriya Patel seeks help from MEA - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTlgwcFJVeXk4R2hxYW54SGxpenAxOWJvRWszaVh3V016YS03SnFCT0JJOFkwNzZNVDNnbDJfdWp4aUpZV2x5dmV1ZjRCZlA5b2xSa1dFczAxZGZKbDVCWlRLWlM2Z0g1V3EybEk2QzJNX3NrQmV0aG55ZWxQLS11Z3FmdWVzVmJxa0NWd0FzRzBzVWVvU1hzdm1MSlFSNFhMbHRRRVM3X0k1azdtNmRmYTU0UHpoUjFicWdoNnZyWUxJRC11SGwxNS1oQ2pSODVoMmRvdWFuWHJFalHSAegBQVVfeXFMUEkyUGtNdjZOUWFWYmp5TGJGMEFrVF9JS0tZVUZFYmJaeHlvNDJaLTBZR1lLLXg3dlBmM2lBQlR3WHl6ZlB6ZEVreHRvMzFGMFdBVG0wUXVlRzZ0Ni1VaEdBZnBBMnRRbUE3b0ZId19YdVk4LTFveDNZT3drcTdYNEd3WUhLdmpaQWU1R0Z6VlZDNE9YdTdVX3hmMGZ6LWxYSGFBbVdqSGhSUFlHTEEzY3pSMmUyR1dnWHVjSm9wcS02Q1Q1WDZSMFg2dU5LVDRVWmFYSGtKbkQ5OEVOTDdyZ3J1SUZ2bnU0NQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,27 +461,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Smt. Anupriya Patel takes charge as Union Minister of State in the Ministry of Health & Family Welfare - PIB",
-          "source": "PIB",
+          "headline": "Union minister Anupriya Patel stuck in caste maze on Mirzapur LS seat - The Statesman",
+          "source": "The Statesman",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zWTcwUUh4Tnp5dkQzMUJ2dE1VekNTOXUxcjl2b0NOcDRKRDRsNVF5UjNUbkJ0R3JQQ25YaHZVRHlGZ2RFLVJuaWEycFJDQXJpV2Z2dmhkSjVrQnNNb2l4QThQaHBuemQ3aUxJV0ducjQ?oc=5",
-          "sentiment": "positive"
-        },
-        {
-          "headline": "How a rebel BJP MP and BSP could queer the pitch for Apna Dal’s Anupriya Patel in Mirzapur - ThePrint",
-          "source": "ThePrint",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSTlfanpONnhlLTBoYkYya3ptS1VXWUJQTzhTcXgydHJnMzExYVVCUUFNMUhsZ0Z2Tk41Rk9QQjJBQTItTjlYZVZkeG9fODc0emc4REdkaWwzbWtJdHF0YmU3MzZxRVByUjJLMFhMU2VacjFPc1FReVRfNndLX1BmTmotOF9jN0pPZW91YWVvbG5jSTNOanJBUUxPb1JNTmo3dkwwSE1LakFlTzBTeVFDVVFRdXNQY0EtNVZWZ0k5UmpjYUxkaHfSAcsBQVVfeXFMTjZMOS1ncVRpcnVPYTZnbEtMcXVKZzd5X3NadU1QbldXTVJPM2h4VHh5R0phY0hyRnZxcUJFQ3IyZTVXc2p6ODJDTVlUY1ZVYVhKRzRRSjNzdVpLOXBoMDBqUFZXV2hQcTY4TkVTQWlzWHhoU2ZiMUtxUmpyTDJhc2JLMGFmTDF0ZzMtZlNLd3FhQVM4NEoxQ293Qkl5eFIwYXBtbVNqRG4wRXRYZFAwNDFNbXZnNUhOb010aU5fanJ2SXItYXMyVGxHSjg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjBXc0VUZzFCeDM5U1VnWTJSajVBdXRWMl9ndTRya0VMbEgzSE1OS29NZTJ3bkN6YmlkTy04ZU9reU9PSUFsLXlaWXpYZjNROHF1ZUtuV0V0RWd6dW8weGlvVndCUFc0LXBSX1pUNWlnNU5TSGFHS0J4OWpqMks2aGstSWR4LWFOY0d5Q09OLUxMdW1CMTlGTTg5T19SMWdHS0l6b2FMNy1lNFFCNk85M1V0Vk9FWVp5ajB2ZNIBwgFBVV95cUxPejVLdS05aWlpRXU5SllOTnJTV29tYnMwTXJHZzBFUFhfQ1V3S3VOSlkySlFRSVkxRkV2VTlKTHVzOE1fblJlYTM4aVJ1Q3lkb0lrTmdnY3FMeWtPMWlVMC0ycVc0RG5LZWRLeGh0eFM0MmFCOEZsY185a3FqS1BTRUJhcFIyY2EtajlXcWMzRGpPdEdYc1prbVluS2tXcVNTaUhpeHh0aDc5TXRQaFU4aHplRUhpVjFDSzNFdWwzZGhDUQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Lok Sabha Elections: Is the kaleen rolling out for Apna Dal's Anupriya didi in Mirzapur season 3? - The Economic Times",
-          "source": "The Economic Times",
+          "headline": "Mirzapur Lok Sabha Elections: Apna Dal (S) Candidate Anupriya Patel in the Hunt for Hat-trick; SP Fields BJ - News18",
+          "source": "News18",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOak9nUDZFOG9abngxM2NIODBiVlpZYTJOOVl4cW1ZMkRwWDAxdVFZajViLWZKa2RZLXBCSTNqSEV5RDRNRThFcGF3UGFQOXVHNEgzd1hxRE55YklNb195dWlpbHl4NnZ3SHRBZEhaWGd4eU9UWmdyMDFaYTlCOERWdlNBVWxZTGh3dHBPRkdXSVdtTl9Oczd5Si14MGxqVnNvZ05Tc1dHUnMwRzdLQTBIWEg1US0tbjJNc2h0dGwwUWNZUlRsWjRRenAwaHVhaEVoSUEtSzNKZFg4ZVlLaWNxcVllSVc4V203ZldRVjh2a1pweHMyazR4NDA3SHhlRzVzaGM4RmlMNzFWLWJxb3BlSVl0UHc3d9IBmwJBVV95cUxQeFF0eGNjNWJLYnl6dTcyeHhlUEQtUjFoUE1JYTUyX2k2NnNsZkp5TXlxLXRHcVgzUk85UEFSaUZKemRhRnJhbjJpVDg3dTNvVllIcVpGamlycnhWbUdkeXJhTUhCODJkSC1uTkFnV3E0YmtFbmZGMHZDcUZ0aENyU1lIZGs5T2pEUG5hZkRva2hnRHE2RjVneDB4blN2aEhuVnppZEp0elN2Y1VsdElQMy1HeXNiQ1VTWVNnLXRaUkdxYnRpTHcwOU5pN0pxQVhpVUQ0NGtGZEdva2JmWjRhQjdRU2thbkJxMkxjUkpCYWVWY25tNGZmMmg3WU9Td293dlV3VVMzcUdqaW85a19pdzMxdUJqUklvTWVJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdWFHcThuNUp2eVNBVHFwUlVRYUVJQVlHZkk3WkZfdGVubTRQTXhsa3Rxb0lXbFBkU200UVBDZFZ2c3YxVUpZM0pkVWQyeUd5eUJCeGpVTE9CU0F0MXJpOWR5WXNCN0V1NUp5cm9vZ1cxYXRvQVNMUEs1bms3a3NScm5wUkZ1TWZqM09LLTEzaUQ3WUhzNEZjaVZ5ZHdReFhRUUVHaHo0eGJOdFg5MmI2NDZFRklZS1dUUFBaZ0JWRGJTcVJrNTAyeGNFVUJyTW5SNVdOcWxVVWVtdWJkWk1WWWhFMzhuQzkyR0ZuT3pfUV_SAfYBQVVfeXFMT1BmNnlsZGl4b3VTUGsyWUFueFZjbHBUeEkxNGhkSHZjVXNpQkRJdEtDVW5lQkJPWENvTjFYWVZaTEJmUmJCQXY4TUEzQmVhcWplTzZ5ZWZQN1JYUVlJa1EyNVJLMTRPc1kzbGxsZklyY2FpQTAxUG9OTjRmaExmQmRWMEJwMm9VdGpLMTZ0V3VzT1hsMnpseEJ2MWlodzBmYWJ6S01TNHpJaEl4ZmxoSlN3YjFfMXNURE95SGx5X0ZwSk8yNVUzNGxNSXV0V0pWUjFRZ3NNb05rNTlVRk1qVHR4X0tnMjRaZmNKNjFvMzdRZFBYaENn?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -384,7 +523,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -415,8 +554,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -436,12 +587,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 42,241,754. MPLADS utilization: 17.6%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:53.201775Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.762707Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Jagatsinghpur",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 9616,
+    "myneta_candidate_id": null,
     "slug": "bibhu-prasad-tarai",
     "house": "lok_sabha",
     "sansad_member_id": 4423,
     "profile_url": null,
     "canonical_name": "Bibhu Prasad Tarai",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/4423.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,149 @@
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "PS Case No. 261/21, Tirtol PS | Section 51 Disaster Management Act 2005, Epidemic Diseases (Amendment) Ordinance 2020",
+        "ipc_sections": [
+          "143",
+          "145",
+          "149",
+          "188",
+          "269",
+          "270",
+          "283"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "J.M.F.C, Tirtol",
+        "fir_no": "PS Case No. 261/21, Tirtol PS",
+        "case_no": "GR 253/21",
+        "other_acts": "Section 51 Disaster Management Act 2005, Epidemic Diseases (Amendment) Ordinance 2020",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "PS Case No. 314/21, Kujanga PS | Section 51 Disaster Management Act",
+        "ipc_sections": [
+          "143",
+          "149",
+          "169",
+          "171",
+          "283",
+          "294",
+          "506"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "J.M.F.C, Kujanga",
+        "fir_no": "PS Case No. 314/21, Kujanga PS",
+        "case_no": "GR 916/21",
+        "other_acts": "Section 51 Disaster Management Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "PS Case No. 325/21, Jagatsinghpur PS | Section 51(b), 56 Disaster Management Act",
+        "ipc_sections": [
+          "188",
+          "269",
+          "270",
+          "34"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "S.D.J.M., Jagatsinghpur",
+        "fir_no": "PS Case No. 325/21, Jagatsinghpur PS",
+        "case_no": "GR 754/21",
+        "other_acts": "Section 51(b), 56 Disaster Management Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:49.235950Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 17974886.0,
-    "liabilities": 950000.0,
-    "net_worth": 17024886.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9616",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.802462Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 15.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.09,
-    "expended": 0.59,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:27.380224Z",
-        "notes": "Official eSAKSHI REST API — Works: 239 recommended, 161 sanctioned, 1 completed"
+        "fetched_at": "2026-09-02T14:50:24.965578Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:46:37.343727Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:46:37.340708Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 239,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 4.013605442176871
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +179,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:44.557467Z",
+        "fetched_at": "2026-09-02T14:46:37.339615Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +187,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Protest erupts after demolition of Damodar Rout statue at Siali beach - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0hhOVhQSHBiWF9ZQXJkSFpkVnpNaFNIcTRKdGxBRkRnX0dlVzJGUExEOUFsMG5LeWp4cm5pd1JvRnM3OUozdUdTN1dPR0NCSmVTZFFEU1dwWHFoRUxwcjFkZlVBNk1BLW80MThWQjVrdDQtcE9vUjdUVEJ0U09oWFZ6UXoyZUdEQVRqWDN2RGgyUUR2Q2M4dkJZTVBvZ29uWE5EeWRpdUwxQnVVek1keFl2bkZhY0ZIcVdTcmxMR3AyaGdtSWFv0gHUAUFVX3lxTE1EZ0gyYWx3SHdTZ28zZDVJc00xa0NKbUtKZkhBaHgzZS1qaGxlTzEzS25lUWZtaUtQTkw4RmFrMHVVb2YwZzBUb1pUeWxNNDBoRnc0emFpZGVscmViakk4MlhCUWYwd2h5SDg3LW5QRFhZeGg4TTJXM2pUTFJRMk5ZS2NyNzJkWklDU2ZiMjd4OGJGOFhaSFpiekF0eUFUV1FBU2p1MVJLdklvMi1ES2p6N1BkOEhrOVh2VzFSbk8wa3JsOFVGbk5WUUEwcHltaU5EaDdw?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Odisha forest dept demolishes statue of former Minister Damodar Rout before inauguration - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUFYTVJwRlhnZ1dqT3dMeGp0ejl0aWY0NzFCV1huOUZ5dHBEM0FXOHU4ZFNfZnl5eDRVYy1vSWZtOVV5cEdQUHhtcVlLR2gydDM3OWxmN3hWSTNaLW56UnBkWm94TXM0U3hYZUphaXBqZldlN2ZMVFZ0SkFZWFFQeXV0Zk90U0RzZi1jWW5xWFY0ZDJwVjM2VlFoa0tPQXdzQ3dLcVJMcHBOSzhfSjFNNVVzMV9uLWs1Z2lXUnlHbW1DXzUtRVBMWDZOT3VTNmxTanJjLWtwQjl5WDFjMVlJM9IB7gFBVV95cUxNX0FZY2tseEd5cTg4dlZkWWVDVHJrS0lTdU9lZEE4T0pvUmNNOFdNeEdUc0J3OGxmbW1EWHo5eXVIWlc3Z2tVVWpGbDdaR25pVVlGTWtIOExvdVpSbHpOWXBudzJlVzlkc2FXNUQxeWEzQnZ2cHl4WkVCalZoOWFFNlZHS293Vnl4NzJpTk80a1lnVkxIcW5fOGp3d0N4Um9yY1hja1g1dmN1R2dhNFVMTFhzRU5qVlhZZTFmTEZBVmFiQzlyM3QyNmJLSERBVG96V1M3S0ZuRFpnZEp2VXBEY3VMcmdaVDNMMFoxcHZR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bibhu Prasad Tarai’s Car Hit by Speeding Vehicle in Jagatsinghpur, MP Unhurt - Pragativadi",
+      "source": "Pragativadi",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaTQ3OF80ZzJ0V1dmaHQwVUI5N0xad1lfT0MwdTkweERfLVN1c09vU3pTSnJEVV9jYy1XZDNBLTZlV3JBU2ZYMDBlN3gxWWpQRDBwRDF3MmNrcmdnZG5fMmlRTVpOaklqdXN3SkhKNGNGWWdDdllhdkJTS2pPQ0FQRGsyd2xfM0JXZ0xzVkxaaDVKcE1yUy1jT0U0NXFvUHNi?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bibhu Prasad Tarai , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLTlVeTJjR1phWXNjeE9CQm5XdFBVaDM1YkNFWGcyOTZlVUJHVlJxRnFyeS14R3RxLVktWk9vSG5FRGVCeG9vcjBqcVBtX2N1VXdEcXQ1bk41UVJzWmRCZm1rWnJVMFVqLUlPZEpJU2RCYnZ0Q0RkVVpmVDlLdEdQdHB5Z3R3aEhaaEtF?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Tarai’s daughter among 683 who cleared OCS exam - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUWQ1WDdTdms4TjlzcmJjWkNjemFLUmhEc25laEw3dmtSNUxjeTA5Z0xLWHBUNmE4ODBFeEVPTlVFLTc1SWMyd2Jlc25MTHNCRFpGNkk0VXNPeEgwblBiZWtueWhMeWNqSkJqOW9XdUx5SmE2TFZ4R1BGWGl6aHkwVXFsb2ZFWjRiMExfVy1TZjNjUko4MlYxamN1RE16SThKQ29lWU9NbFluX3RYVjMtWk14d18wNlhqRHJxQzNGUFZORkp1TXBiZ0VCMVJYLWVlcl94R2JFY094NVZiMjZWSE5oYmk0bGZRQmtNaG9GMWVzdW960gH6AUFVX3lxTFBNdGswRkRwbmNwa2dNd1pzX2JBZXc2Qy1UczJNTlVLbVJwU1BDcjJkSDVZS1JGbk1lLV9RUmFEMzBRRUx5U1NjbHA0bHI3Z2F0bTZRMmgwYy1IRkdkZkNoRHAxTHhYMHBQY25nYXZXMWFBa2RPMlhMT01uMnkxX3lNZE96aHlFd0k4NDJtWnlQYU1vVTNPYmFxXy1nZzQ2R09UdmNIcFg4YW9IYnJleWFMb0lyYU1fakZXZHg4ekZQTDNKcHpqa1ZlUE94ZzRla2c5eFh1NHlGTmktR1o3a1ZDUVNtMW0wcWpyeUNxNFBuU0F6YjJsVWRVdGc?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:48.319038Z",
+  "collected_at": "2026-09-02T14:50:24.966690Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +256,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.231389Z",
+        "fetched_at": "2026-09-02T18:38:08.744855Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +272,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.231398Z",
+        "fetched_at": "2026-09-02T18:38:08.744867Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +288,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.231403Z",
+        "fetched_at": "2026-09-02T18:38:08.744873Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +304,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.231408Z",
+        "fetched_at": "2026-09-02T18:38:08.744879Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +320,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.231414Z",
+        "fetched_at": "2026-09-02T18:38:08.744885Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +336,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.231419Z",
+        "fetched_at": "2026-09-02T18:38:08.744889Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +352,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.231423Z",
+        "fetched_at": "2026-09-02T18:38:08.744894Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,43 +390,43 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Protest erupts after demolition of Damodar Rout statue at Siali beach - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "Protest erupts after demolition of Damodar Rout statue at Siali beach - newindianexpress.com",
+        "source": "newindianexpress.com",
         "severity": "medium",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0hhOVhQSHBiWF9ZQXJkSFpkVnpNaFNIcTRKdGxBRkRnX0dlVzJGUExEOUFsMG5LeWp4cm5pd1JvRnM3OUozdUdTN1dPR0NCSmVTZFFEU1dwWHFoRUxwcjFkZlVBNk1BLW80MThWQjVrdDQtcE9vUjdUVEJ0U09oWFZ6UXoyZUdEQVRqWDN2RGgyUUR2Q2M4dkJZTVBvZ29uWE5EeWRpdUwxQnVVek1keFl2bkZhY0ZIcVdTcmxMR3AyaGdtSWFv0gHUAUFVX3lxTE1EZ0gyYWx3SHdTZ28zZDVJc00xa0NKbUtKZkhBaHgzZS1qaGxlTzEzS25lUWZtaUtQTkw4RmFrMHVVb2YwZzBUb1pUeWxNNDBoRnc0emFpZGVscmViakk4MlhCUWYwd2h5SDg3LW5QRFhZeGg4TTJXM2pUTFJRMk5ZS2NyNzJkWklDU2ZiMjd4OGJGOFhaSFpiekF0eUFUV1FBU2p1MVJLdklvMi1ES2p6N1BkOEhrOVh2VzFSbk8wa3JsOFVGbk5WUUEwcHltaU5EaDdw?oc=5",
         "sentiment": "negative"
       },
       {
-        "headline": "IFFCO MD Patel meets Jagatsinghpur MP - Indian Cooperative",
-        "source": "Indian Cooperative",
+        "headline": "Odisha forest dept demolishes statue of former Minister Damodar Rout before inauguration - newindianexpress.com",
+        "source": "newindianexpress.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX0hVZlBKd1N1YmU0WWIwSk5xNkVpZ0pHeDQ1cmFhRnE3VlEyNE1NaEZ0R25uVnRXYXRHYkpJd3cwUTI1OGtlQjlsWkQtYXA1VDJuVFJQUklCelZkeHJBVmh5azYzX3V5YkxVYTF4Ty1aejc3X3NJRE5VNmtudm8yVnJTX0pOQUFGQmxVR18yUTAxWFFyVnlr0gGcAUFVX3lxTFBTbmczU2lQV2FNeXBKdmpFQnlmWnFGd25lbzFLQlZCLTItbGNYbDdwaVFzMl96LVdjQjMzeWhyT2ZIaWI1NThaeFJqQzIxQU9taTNoRXdZRDhQMWpra0VTX1hpV3hlQVJQVGJEcy1hNXpmMmlnNXF2UHJDS2t6eTNtMWNiUC1RZWRVeHlwNnFLVmVXODdaenhOSXlPWA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUFYTVJwRlhnZ1dqT3dMeGp0ejl0aWY0NzFCV1huOUZ5dHBEM0FXOHU4ZFNfZnl5eDRVYy1vSWZtOVV5cEdQUHhtcVlLR2gydDM3OWxmN3hWSTNaLW56UnBkWm94TXM0U3hYZUphaXBqZldlN2ZMVFZ0SkFZWFFQeXV0Zk90U0RzZi1jWW5xWFY0ZDJwVjM2VlFoa0tPQXdzQ3dLcVJMcHBOSzhfSjFNNVVzMV9uLWs1Z2lXUnlHbW1DXzUtRVBMWDZOT3VTNmxTanJjLWtwQjl5WDFjMVlJM9IB7gFBVV95cUxNX0FZY2tseEd5cTg4dlZkWWVDVHJrS0lTdU9lZEE4T0pvUmNNOFdNeEdUc0J3OGxmbW1EWHo5eXVIWlc3Z2tVVWpGbDdaR25pVVlGTWtIOExvdVpSbHpOWXBudzJlVzlkc2FXNUQxeWEzQnZ2cHl4WkVCalZoOWFFNlZHS293Vnl4NzJpTk80a1lnVkxIcW5fOGp3d0N4Um9yY1hja1g1dmN1R2dhNFVMTFhzRU5qVlhZZTFmTEZBVmFiQzlyM3QyNmJLSERBVG96V1M3S0ZuRFpnZEp2VXBEY3VMcmdaVDNMMFoxcHZR?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Bibhu Prasad Tarai’s Car Hit by Speeding Vehicle in Jagatsinghpur, MP Unhurt - pragativadi.com",
-        "source": "pragativadi.com",
+        "headline": "Bibhu Prasad Tarai’s Car Hit by Speeding Vehicle in Jagatsinghpur, MP Unhurt - Pragativadi",
+        "source": "Pragativadi",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaTQ3OF80ZzJ0V1dmaHQwVUI5N0xad1lfT0MwdTkweERfLVN1c09vU3pTSnJEVV9jYy1XZDNBLTZlV3JBU2ZYMDBlN3gxWWpQRDBwRDF3MmNrcmdnZG5fMmlRTVpOaklqdXN3SkhKNGNGWWdDdllhdkJTS2pPQ0FQRGsyd2xfM0JXZ0xzVkxaaDVKcE1yUy1jT0U0NXFvUHNi?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Odisha Man Abducted In Sudan Freed After 45 Days: Jagatsinghpur MP Bibhu Tarai - OdishaBytes",
-        "source": "OdishaBytes",
+        "headline": "Bibhu Prasad Tarai , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU3RlVjdQZXhnRjd3MGpKSFFNTGdOMllXaTNzYmE3MndjaUtPSUt3cE1SOG1kZVJTRXdLSnJDeDBMaXBWbm1ib2lNaklqR2xHLVh2ZUJYTHhPcThxS3RKV0ctMlN1UzdkUklBWFV1dW04eWNtRlczVEpDaVBzQThLZ3VlQkJzcUZLZzYzZkNaa2FaRjE1NmNXSzhiU013cFlXaVV3ZdIBqgFBVV95cUxQX25kS3FGSmlZR2Q3bzBhM2EweHpoNnVmMnRxdjc4Tk1kZXRiNmhzMXkxZmlsS3Q3cW9LdFJTSnlFVTBjZVp4Yk42bUlYRGNKZXlrN3F1cTFjcXVacE9LZTROd2JLbU91enNfQ3dPLVRGQ2xzWmJDcXdXTHhMSmlBNXJPY3V5bGY1N0NNSHNhcU93MXFGOGdRazNjQnd3VnU5ZURzOXFtblJidw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLTlVeTJjR1phWXNjeE9CQm5XdFBVaDM1YkNFWGcyOTZlVUJHVlJxRnFyeS14R3RxLVktWk9vSG5FRGVCeG9vcjBqcVBtX2N1VXdEcXQ1bk41UVJzWmRCZm1rWnJVMFVqLUlPZEpJU2RCYnZ0Q0RkVVpmVDlLdEdQdHB5Z3R3aEhaaEtF?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Odisha forest dept demolishes statue of former Minister Damodar Rout before inauguration - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "MP Tarai’s daughter among 683 who cleared OCS exam - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUFYTVJwRlhnZ1dqT3dMeGp0ejl0aWY0NzFCV1huOUZ5dHBEM0FXOHU4ZFNfZnl5eDRVYy1vSWZtOVV5cEdQUHhtcVlLR2gydDM3OWxmN3hWSTNaLW56UnBkWm94TXM0U3hYZUphaXBqZldlN2ZMVFZ0SkFZWFFQeXV0Zk90U0RzZi1jWW5xWFY0ZDJwVjM2VlFoa0tPQXdzQ3dLcVJMcHBOSzhfSjFNNVVzMV9uLWs1Z2lXUnlHbW1DXzUtRVBMWDZOT3VTNmxTanJjLWtwQjl5WDFjMVlJM9IB7gFBVV95cUxNX0FZY2tseEd5cTg4dlZkWWVDVHJrS0lTdU9lZEE4T0pvUmNNOFdNeEdUc0J3OGxmbW1EWHo5eXVIWlc3Z2tVVWpGbDdaR25pVVlGTWtIOExvdVpSbHpOWXBudzJlVzlkc2FXNUQxeWEzQnZ2cHl4WkVCalZoOWFFNlZHS293Vnl4NzJpTk80a1lnVkxIcW5fOGp3d0N4Um9yY1hja1g1dmN1R2dhNFVMTFhzRU5qVlhZZTFmTEZBVmFiQzlyM3QyNmJLSERBVG96V1M3S0ZuRFpnZEp2VXBEY3VMcmdaVDNMMFoxcHZR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUWQ1WDdTdms4TjlzcmJjWkNjemFLUmhEc25laEw3dmtSNUxjeTA5Z0xLWHBUNmE4ODBFeEVPTlVFLTc1SWMyd2Jlc25MTHNCRFpGNkk0VXNPeEgwblBiZWtueWhMeWNqSkJqOW9XdUx5SmE2TFZ4R1BGWGl6aHkwVXFsb2ZFWjRiMExfVy1TZjNjUko4MlYxamN1RE16SThKQ29lWU9NbFluX3RYVjMtWk14d18wNlhqRHJxQzNGUFZORkp1TXBiZ0VCMVJYLWVlcl94R2JFY094NVZiMjZWSE5oYmk0bGZRQmtNaG9GMWVzdW960gH6AUFVX3lxTFBNdGswRkRwbmNwa2dNd1pzX2JBZXc2Qy1UczJNTlVLbVJwU1BDcjJkSDVZS1JGbk1lLV9RUmFEMzBRRUx5U1NjbHA0bHI3Z2F0bTZRMmgwYy1IRkdkZkNoRHAxTHhYMHBQY25nYXZXMWFBa2RPMlhMT01uMnkxX3lNZE96aHlFd0k4NDJtWnlQYU1vVTNPYmFxXy1nZzQ2R09UdmNIcFg4YW9IYnJleWFMb0lyYU1fakZXZHg4ekZQTDNKcHpqa1ZlUE94ZzRla2c5eFh1NHlGTmktR1o3a1ZDUVNtMW0wcWpyeUNxNFBuU0F6YjJsVWRVdGc?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +460,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 22,
+    "starred_questions": 6,
+    "unstarred_questions": 16,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 42.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +476,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

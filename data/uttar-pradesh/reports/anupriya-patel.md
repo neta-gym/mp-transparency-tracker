@@ -3,24 +3,22 @@
 **Constituency:** Mirzapur, Uttar Pradesh
 **Party:** Apna Dal (Soneylal)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 43
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 46.3 / 100
+## Composite Transparency Score: 53.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 14.0 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,28 +32,32 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 122/2013, PS. Jansa, Varanasi, U.P. | Section 7 CLA (Sections: 147, 148, 149, 332, 353, 204, 427, 336, 337, 323, 504, 506) [pending] 
+2. 220/2013, PS. George Town, Allahabad, U.P. (Sections: 147, 323, 336, 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 4.22 Crore
-- **Liabilities:** Rs 98.06 Lakh
-- **Net Worth:** Rs 3.24 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 34% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 3
-- **Utilization Rate:** 17.6%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +71,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/AnupriyaSPatel](https://x.com/https://x.com/AnupriyaSPatel) | No | Yes |
+| Facebook | [@https://www.facebook.com/AnupriyaSPatel/](https://facebook.com/https://www.facebook.com/AnupriyaSPatel/) | No | Yes |
+| Instagram | [@https://www.instagram.com/anupriya01/](https://instagram.com/https://www.instagram.com/anupriya01/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,30 +91,43 @@
 - **Total Articles:** 10
 - **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Merchant navy officer from Mirzapur goes missing in US, MP Anupriya Patel seeks help from MEA - MSN (MSN) [neutral]
+- MP Anupriya Patel sought her transfer; speculation grows after her resignation - Bhaskar English (Bhaskar English) [neutral]
+- Merchant navy officer from Mirzapur goes missing in US, MP Anupriya Patel seeks help from MEA - The New Indian Express (The New Indian Express) [neutral]
 - Merchant navy officer from UP goes missing in US - The Times of India (The Times of India) [neutral]
-- Smt. Anupriya Patel takes charge as Union Minister of State in the Ministry of Health & Family Welfare - PIB (PIB) [positive]
-- How a rebel BJP MP and BSP could queer the pitch for Apna Dal’s Anupriya Patel in Mirzapur - ThePrint (ThePrint) [neutral]
-- Lok Sabha Elections: Is the kaleen rolling out for Apna Dal's Anupriya didi in Mirzapur season 3? - The Economic Times (The Economic Times) [neutral]
+- Union minister Anupriya Patel stuck in caste maze on Mirzapur LS seat - The Statesman (The Statesman) [neutral]
+- Mirzapur Lok Sabha Elections: Apna Dal (S) Candidate Anupriya Patel in the Hunt for Hat-trick; SP Fields BJ - News18 (News18) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP Anupriya Patel sought her transfer; speculation grows after her resignation - Bhaskar English** (Bhaskar English)
+- ! **Merchant navy officer from Mirzapur goes missing in US, MP Anupriya Patel seeks help from MEA - The New Indian Express** (The New Indian Express)
+- ! **Merchant navy officer from UP goes missing in US - The Times of India** (The Times of India)
+- ! **Union minister Anupriya Patel stuck in caste maze on Mirzapur LS seat - The Statesman** (The Statesman)
+- ! **Mirzapur Lok Sabha Elections: Apna Dal (S) Candidate Anupriya Patel in the Hunt for Hat-trick; SP Fields BJ - News18** (News18)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Anupriya Patel has a below-average transparency score of 46.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Anupriya Patel shows moderate transparency with a score of 53.5/100. Minor criminal cases on record. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 42,241,754. MPLADS utilization: 17.6%. Low confidence data: Parliament activity. 1 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -139,7 +167,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +246,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Anupriya Patel's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 17.6%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -237,12 +263,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -35,59 +35,73 @@
       "photo_url": "/mp-photos/4549.jpg"
     },
     "criminal_record": {
-      "total_cases": 7,
+      "total_cases": 0,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 7,
+      "pending_cases": 0,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 24455903.0,
-      "liabilities": 83969.0,
-      "net_worth": 24371934.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 21.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.08,
-      "expended": 5.03,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:48:53.326519Z",
-          "notes": "Official eSAKSHI REST API — Works: 81 recommended, 61 sanctioned, 20 completed"
+          "fetched_at": "2026-09-02T14:31:31.873650Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:24.219894Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:24.217454Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 81,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 34.21768707482993
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 65.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:13.885412Z",
+          "fetched_at": "2026-09-02T14:27:24.216462Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,53 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Thol Thirumavalavan: Champion of Dalit liberation and kingmaker of Tamil Nadu politics - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzlSTEQxZk1xbDQ2QzFydTdpNTEzWGI1eFJIVkFsSzkxOVE5eHEtQmp4el9mLW54aVZkVzcyaTZnY0tkRkhYMU9rMWZOanh6VjdkUXhUT2dRXzN1T2Y5ZU5JQjJtaUNyWjlQMzl1NmRZZ3ZuMkRQY3JOU0IwekFNME96UklvQmwzTjZmSDZnQVhJNjBaUjhQd0M3cjhWMDViUnk5SHo3Rjdzb1dMa3d3b2lhNDhUVlR2aVU3WmtDR3cwNl9lb0JZNDZtV1ZYRl9zRnJLZF9LSGE3UDk3MnRBMlFn0gHvAUFVX3lxTE5iQ1pRZmdlMkoxUmNJRzdqTzMtbWhNYWtCRHp0UlZmLXR2Y3YtN21UTGdScWF4ZVhFX3RDc0R6bW9xbWdZTEFNTnpERFRMNGloMWY2NkY1a1dEeXIxTU5SajRUcGYwM3VfMnVPeWZ2MUs4ZV9sRk1iM0szTVU5aGhMcWZEVEdEeGJidFRWUWRhWXhkdlVERWx0YWo0Z2M3TktKeGtQRDN0MmEyMTIyZF9PdlJKZmNJRHhhRTJ6bHVEWUR6Y2dQRG9KaUJDbTBsREdzcVNzMzVkTDJlWGg0dmNFYlh2VXBfd0N0QkxFQXVV?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tamil Nadu: VCK to boycott Governor High Tea on Republic Day demanding change of Governor - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHF3aU02dzNHR3llckN3U0d6R2Z2dGZlT1lpMHVWNTkyZmlGalZaa29NVjJwWG8wNEVHZ3VhSWdlbVZORE5tVmVuMGR0N1k3d2hrSzFLbW9BWHhiMy0yMTNmaVhtamhlckRTQVB0OEg1aS1xYXVXWkFBYlNPSUUzZVBmU25rMm0tUl9Fd3ZBY1VKNkt5Mk1mZ2ZXSmZDLXNVQWs4QVNmeEdrcDFyT252Tm5Za0JnZEx1Q1FnRjNGYm1GM3NF0gHKAUFVX3lxTE5NU3pKd1dXQ0ZpLWtjcElpUEhzTU00cnR2aHVHQjZmaXgySWZOQjQ1VmU1dHFrZTZDR29ncWhVM3l3TTJramRuSDBwTjdqVXhzODdYQkZuRm50RFZrR2YzVHZ5TXlNWmZZMzJKb2RqUElJQS1PbzF2emFjRmdKU243QklfcjJyQ1BUa2t6Z050MnBIVERHT0dnR0tVSC1ubkVJcVVDVE14akdwb01vd19oLWFDNng0MjRBM1Fsc2JUMFRtcWNVVmxvMVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rahul Gandhi retained in Parliamentary Defence Committee, Kamal Haasan makes debut - Nagaland Tribune",
+        "source": "Nagaland Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdG1yVHllQmk3RlZ2bVE0djk4T0NHZDNyVUVaTktfZldrWF9DUnhFUkl6c0NtdHhpM2xNT2dsZnpnVXd5WHJPSUFuaFk3YWRSR1d6cTQ2MnVBanNhV09DRUhwVVpTR0VGNTdWalRNUllSUDAxWXVqWmNhUmV0aFhLcGdlOEhaSU9oX3VEQzlSZlBhR2IwS1RsdWU5WDNoWXJTcFJxQ2Q3QzhEcnpEcUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "தொல். திருமாவளவன் - Webdunia",
+        "source": "Webdunia",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1Q1dUc0enUzTlcyT1p6b3VlbHUteUhQRFNrcXBuTC11anBLX3NNY2gydUZQY3lnVFU5a2FaVXFyWnpEUjY0c3BSU0VuM25LSEk1NnlhQ2N2bnNDSEhpd0lWSnFieHhuUUVhSGMyY05TNzFaUHhzX1BNMkZnS1BaTGFZbWFVb19hTnpRM3Nn?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:15.621682Z",
+    "collected_at": "2026-09-02T14:31:31.875276Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +185,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.793664Z",
+          "fetched_at": "2026-09-02T18:38:10.314945Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.793673Z",
+          "fetched_at": "2026-09-02T18:38:10.314956Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.793678Z",
+          "fetched_at": "2026-09-02T18:38:10.314961Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +233,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.793682Z",
+          "fetched_at": "2026-09-02T18:38:10.314967Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +249,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.793687Z",
+          "fetched_at": "2026-09-02T18:38:10.314973Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.793691Z",
+          "fetched_at": "2026-09-02T18:38:10.314978Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.793695Z",
+          "fetched_at": "2026-09-02T18:38:10.314982Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -265,19 +313,11 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 6,
+      "total_articles": 4,
       "positive": 0,
       "negative": 0,
-      "neutral": 6,
+      "neutral": 4,
       "top_headlines": [
-        {
-          "headline": "Chidambaram Lok Sabha Election 2024: VCK's Thirumavalavan vs AIADMK's Chandrahaasan vs BJP's Karthiyayini - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbTNLdVVpUXpjUlFHWF94S3o3V3NPU2pSLUlwZ0VsMUtiRzE3Znl3aE5TeEtCNHZkeTFlTEJGYUtLM2RYZWJBOXN5LU82OXlVRENGWHU3QlloaVZzSEh5ZVZrNjV3cldNT1JXTzZ1Y19EMHo2SVc5V1pXRTM1S0d0X1JaZGFIaXQ0TWs2T09Dc1hGSVoza3RROUd4dmp0YnFFTDlwM3diWkJ4UktkRVpJeUlvY3c3X0RjWk5URWFKWmh6YWJQRDkteHhpT3Y2Nzc4clEyUDlMRE8zVTlNSXI2TkF6M0RwQW5saTdGUmVldnNNTl9DWGdWdjlNa2VNUW5XRWI1LW9yTldQUdIBjwJBVV95cUxPVTNIV082RlNSMmh0V04wQkVLNDAwVzZ5UTBDdmhfMGMzS2pJUW1NU3Y3RDItTjFwVF8tRFk2SThDaDJqQW1JdGp3X3ZTbC0tRHZBMTFXOHBZZThrVHZwXzM2QUdzWjN2UHdZeFdJSXpnTmNYTTdKell2R1h5bGlwVlJiUmRUamp6RXR3YWZTT05BekJfdjBQRHZvRW9rRkxSa2JHRGJ3OTJWQk1MczJybXBlbHhjY3hWNGFLcjNRUnJSRjdlV2ZQSThheEl6OWJrUVEyTmh3M2d0ejZ2cngyTmNvZUxDMklxRUtVYWVYdk1zNndsUjRwR3JUM0NIMlRHdnppNlJwNGZKd0lVeDVv?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Thol Thirumavalavan: Champion of Dalit liberation and kingmaker of Tamil Nadu politics - The New Indian Express",
           "source": "The New Indian Express",
@@ -303,15 +343,15 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Anarchy of RSS can be countered with Ambedkarism, says MP - The Hans India",
-          "source": "The Hans India",
+          "headline": "தொல். திருமாவளவன் - Webdunia",
+          "source": "Webdunia",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOHBvSUw0amtMeWU0MV9WWG5ndGtkdUdsQ290b1NBV3pDdzJaWDRfWjlwVTh5M1kzcXUzUU1TY3lKSi13MHlBQWktYnVvN2k2dFJ3blpVWk9GWjl3dnR1YUxvVTBMVFZrM0E0R1VPWkcwWV9rUWIwbTFlZmpFVHpJWE1vSm52NzdrM21kTm16OVpsU3FUWnBaaXFyWDR6elVGdk5iUG5zamdwcmfSAbABQVVfeXFMT2ZOZlJCS3dkTGQxWFVyWXVKS0hhRkpqcW9CX2FPY3ZMUU1DUTd6b1lfdEVIQ0RRMHNEWXBuWFo1eEtWRzQtaWRyYXNqZC1saGM0UmpSUzgxNDJ2NkRIdDctMmFVRDJLZVVGQV9Qc0h2NjEzRUN4Mlp5VzN1d3RzWDRaVk9Fdm9PM3pfTzRpR281YmRJdEVGcTNhVDNlM0hsMm9BaTZTVWdsekhpeEQ4dHg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1Q1dUc0enUzTlcyT1p6b3VlbHUteUhQRFNrcXBuTC11anBLX3NNY2gydUZQY3lnVFU5a2FaVXFyWnpEUjY0c3BSU0VuM25LSEk1NnlhQ2N2bnNDSEhpd0lWSnFieHhuUUVhSGMyY05TNzFaUHhzX1BNMkZnS1BaTGFZbWFVb19hTnpRM3Nn?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (6 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (4 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -341,15 +381,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 39,
+      "starred_questions": 11,
+      "unstarred_questions": 28,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 75.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +397,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 65.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +428,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +461,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 24,455,903. MPLADS utilization: 34.2%. Parliament attendance: 65.0%. Questions asked: 39. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:52.794381Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 65.0%. Questions asked: 39. Debates participated: 4. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.315702Z"
 }

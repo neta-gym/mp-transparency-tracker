@@ -35,58 +35,72 @@
       "photo_url": "/mp-photos/5714.jpg"
     },
     "criminal_record": {
-      "total_cases": 14,
+      "total_cases": 0,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 14,
+      "pending_cases": 0,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 4752198.0,
-      "liabilities": 406981.0,
-      "net_worth": 4345217.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 4.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 24.51,
-      "released": 24.51,
+      "entitled": null,
+      "released": null,
       "sanctioned": null,
       "expended": null,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:24.732264Z",
-          "notes": "Official eSAKSHI REST API — Works: 65 recommended, 0 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:25:35.589042Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:55.653439Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:58.297714Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 65,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:20.298999Z",
+          "fetched_at": "2026-09-02T14:21:56.703066Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Supreme Court Tells Daman & Diu MP to Move Bombay HC on Rs 33-Crore Secretariat Scam Plea - LawBeat",
+        "source": "LawBeat",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWlU1TUdnM0JNdFFIQ2thOUd6N0IyQmhxdVlKVk5DdlBnN20wQ2MzdVlEZm9DcnR0cEpPOG1sdFNDeS13RjNFcnNRb042LXNoVEpwZGNrbE1fc1hIM1hRWE8yQjBqdG9hVG83aFMyLU1LUVB0RXVQbU1LakxVMjJ3Q3VIdk8tVDAwLUpkdmh1alVvOVp3ZUlodHBfOUNURUJ5SnA3UmQ4WWx1RXU5SXJ4ak1BSjRJQlU1NGZIUEY2V2dKSGQ10gHKAUFVX3lxTE4ybVJCN0Joc3RFSzdqUlVTaG1TZHdQVkR2OU1wOVVBYU5mUVJINHNMV1NJRUxvRllqQS0zV1F6cnZTZFhhVlpQMy03SXJHU3F1TExZdDBQQW1Ma0k2U1pBX0tPTkZuWGhXNFFnNzZVcXdhdVNzSkNkODRUZjFaSXBXRW5QMWtQMVVCVW5LT1R4cmlwYzJhVWJmU3Z4My1DLXZNam15RnNrTThvS2xqY2wycTA5OVlhN00tZGVrZ0RXU2tNQWpNM0JqUmc?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "A one-day outreach programme on various fisheries schemes and initiatives of the Government of India was organised in the Diu - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2S0ZRd2sydGRwWkVURElDSVIwWmx0OUptNUduR2NlMDczbWwzN2t4blBPeGpXTlNqX2NmQi1QY1JhTDZ1TjJsX2xJZW9iY2J0Q1Q2OGs2dVhHMHQtWUk1YnRpd1QtbkVlZko3ZjdoOFVlY2ZpRlNxbTc0dUI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"Withhold MPs' salaries if Parliament fails to function\", demands Diu MP Umeshbhai Patel - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPLWZ3anVjSkZlVVV6VDZUVjZMeTdtaXBMdkFQeUtEUjQ1dWVlQ3c4VUxRa05KN3ctWlR0R0lXTm5UaENBTjVnYnJHNFNmdWhSUFlTQUY4aVpEbFdtZW5ackR3UnZPaUNleVI3T25lWGFTeDNsTFZqSWd6d2ZOckJmZE12NWZMT1JSN2NoaFJraVM5eHZoRjZManRqejBkYnA5RUgyNkdGWkU1X3F3VFdHLXdrRzU4TWQtb3hYck10TmZnY2YzNS1BQkR2SU96VFVpMldlcW9fN3BJWUljamhPWmxiQVZLUzQ2Z1M4d1N3TktkZnk1MDRRSHN3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "3-time BJP MP humbled by Independent in Daman & Diu - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOck5tX2UyZV8zY3RXLUc0QVdvNWFmQ0ZWSWp2WG9QU1hyby11T2U2LUZMdlZDOEFMTDVkU2c4SFBQdzJaaFllMlk4Y1ZwWFZiUlktN0s2dEpWNG1LS2xocjNWTXVwaVljOHI0SHk2ZmRjNzFWVUszQkF4QnV4cDRMMW15YzFrcl9SZGtDVmlkU1RTcE9HbTBqa2h5U3JTVU1JUG45U3NkcjRUU1UzZkHSAbQBQVVfeXFMUDZoOGtZVl9wOG5hUzVUNmpLd2UtalRLdHg4eEFWa3Etei00LVdlQS1hcGtkVG8wNlBLT01HekZ6UTZVLTlhMTJzMy1fNnRMY3Zzc19NU1BFdXVXa002Mjh4cnVQT0xuVlRkSlFWdnBaWGFSeWxQWmltYUdPcXhKTUpYM0RETVJWVEpSRkRPMXlrRHcxWWRMNF9ScERYNDNNMTVERzRscWdrd25BNV95cWh4bUJU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:10.663743Z",
+    "collected_at": "2026-09-02T14:25:36.588799Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.755758Z",
+          "fetched_at": "2026-09-02T18:38:05.346291Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.755768Z",
+          "fetched_at": "2026-09-02T18:38:05.346302Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.755773Z",
+          "fetched_at": "2026-09-02T18:38:05.346307Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.755778Z",
+          "fetched_at": "2026-09-02T18:38:05.346313Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.755783Z",
+          "fetched_at": "2026-09-02T18:38:05.346319Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.755787Z",
+          "fetched_at": "2026-09-02T18:38:05.346325Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.755791Z",
+          "fetched_at": "2026-09-02T18:38:05.346330Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -258,25 +314,58 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "@umeshbhaipatel78",
+          "url": "https://x.com/@umeshbhaipatel78",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/youthaction.force.7/",
+          "url": "https://facebook.com/https://www.facebook.com/youthaction.force.7/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/umesh_0078/?hl=en",
+          "url": "https://instagram.com/https://www.instagram.com/umesh_0078/?hl=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:21:58.209863Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 1,
+      "positive": 0,
       "negative": 2,
-      "neutral": 7,
+      "neutral": 8,
       "top_headlines": [
         {
-          "headline": "Daman MP moves SC for SIT probe in fund misuse - MSN",
-          "source": "MSN",
-          "severity": "low",
+          "headline": "Supreme Court Tells Daman & Diu MP to Move Bombay HC on Rs 33-Crore Secretariat Scam Plea - LawBeat",
+          "source": "LawBeat",
+          "severity": "medium",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOSGZROXJLekJmNW5hLW4wcjBMREdqMGZYM0hiaE5kZXpLZVVvRVNOOExGWlVtS2tfMlJqcHpteUpFaHY5Um5oOHdMU0lmUjFjOTBjcENlMXNGNDIwTGxaNmpQMDV6Y1Jtamx2TDV0N0F5b1h3Y3dXdU1jZ0l2enJOWWZTWlk3eFVHVFNSTXNlMHNGdjdQcUZwSW5tc3MtVkZNTGgtRUtaS1lvT1MxZ2lFZFlySHN5bHNRaEVYblozRWZ4X3FxTF84RTE1aW1XREQyWmUyS3duM25SMi16ek85LXB1YWExa2xyb0w5RjZodXZsazNmNXppalJkYkRwR0dnTzZ2QjRfWHc3T0pUYlVZUnkxVmtCTXZrNjRqX0Izb1JXSUtBSzlmTXdoOHVzSFFyT2VEejg2NWFWZnhxSFpHQ2ZXUWJfVXBlZ252dUVVSXJIU2lnV0w0?oc=5",
-          "sentiment": "neutral"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWlU1TUdnM0JNdFFIQ2thOUd6N0IyQmhxdVlKVk5DdlBnN20wQ2MzdVlEZm9DcnR0cEpPOG1sdFNDeS13RjNFcnNRb042LXNoVEpwZGNrbE1fc1hIM1hRWE8yQjBqdG9hVG83aFMyLU1LUVB0RXVQbU1LakxVMjJ3Q3VIdk8tVDAwLUpkdmh1alVvOVp3ZUlodHBfOUNURUJ5SnA3UmQ4WWx1RXU5SXJ4ak1BSjRJQlU1NGZIUEY2V2dKSGQ10gHKAUFVX3lxTE4ybVJCN0Joc3RFSzdqUlVTaG1TZHdQVkR2OU1wOVVBYU5mUVJINHNMV1NJRUxvRllqQS0zV1F6cnZTZFhhVlpQMy03SXJHU3F1TExZdDBQQW1Ma0k2U1pBX0tPTkZuWGhXNFFnNzZVcXdhdVNzSkNkODRUZjFaSXBXRW5QMWtQMVVCVW5LT1R4cmlwYzJhVWJmU3Z4My1DLXZNam15RnNrTThvS2xqY2wycTA5OVlhN00tZGVrZ0RXU2tNQWpNM0JqUmc?oc=5",
+          "sentiment": "negative"
         },
         {
           "headline": "A one-day outreach programme on various fisheries schemes and initiatives of the Government of India was organised in the Diu - PIB",
@@ -287,28 +376,28 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Supreme Court Tells Daman & Diu MP to Move Bombay HC on Rs 33-Crore Secretariat Scam Plea - LawBeat",
-          "source": "LawBeat",
-          "severity": "medium",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWlU1TUdnM0JNdFFIQ2thOUd6N0IyQmhxdVlKVk5DdlBnN20wQ2MzdVlEZm9DcnR0cEpPOG1sdFNDeS13RjNFcnNRb042LXNoVEpwZGNrbE1fc1hIM1hRWE8yQjBqdG9hVG83aFMyLU1LUVB0RXVQbU1LakxVMjJ3Q3VIdk8tVDAwLUpkdmh1alVvOVp3ZUlodHBfOUNURUJ5SnA3UmQ4WWx1RXU5SXJ4ak1BSjRJQlU1NGZIUEY2V2dKSGQ10gHKAUFVX3lxTE4ybVJCN0Joc3RFSzdqUlVTaG1TZHdQVkR2OU1wOVVBYU5mUVJINHNMV1NJRUxvRllqQS0zV1F6cnZTZFhhVlpQMy03SXJHU3F1TExZdDBQQW1Ma0k2U1pBX0tPTkZuWGhXNFFnNzZVcXdhdVNzSkNkODRUZjFaSXBXRW5QMWtQMVVCVW5LT1R4cmlwYzJhVWJmU3Z4My1DLXZNam15RnNrTThvS2xqY2wycTA5OVlhN00tZGVrZ0RXU2tNQWpNM0JqUmc?oc=5",
-          "sentiment": "negative"
-        },
-        {
-          "headline": "Supreme Court Asks Daman & Diu MP to Approach Bombay HC for SIT Probe into Rs 33 Crore Secretariat Project Irregularities - Law Trend",
-          "source": "Law Trend",
+          "headline": "\"Withhold MPs' salaries if Parliament fails to function\", demands Diu MP Umeshbhai Patel - ANI News",
+          "source": "ANI News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXdTRzFBamNvOVdRR0VkTDF4Q19DdmVkSmZ6OVZhbVRHY3pPbTZPbzZOSldhXzRXZGRMOTdrSHNLQk54SnlObC1ZNGh5MHdMdFZZTm1oVnZrSmdlX2tYbWtydl9xbkh1bWJCdnMtUjlRQW5iaHAxRzIzdkZwa01mNm93SWhpTERsLWdBNU51Y3gwN1BvRXR6eXQzbWptQVpwODV3YjZ6dGwzandObVlqMVFlQjVkTTBzS0FnVFdkcUZZZDBzeVZlcUdFTklVYWV4MTBpdHNUNA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPLWZ3anVjSkZlVVV6VDZUVjZMeTdtaXBMdkFQeUtEUjQ1dWVlQ3c4VUxRa05KN3ctWlR0R0lXTm5UaENBTjVnYnJHNFNmdWhSUFlTQUY4aVpEbFdtZW5ackR3UnZPaUNleVI3T25lWGFTeDNsTFZqSWd6d2ZOckJmZE12NWZMT1JSN2NoaFJraVM5eHZoRjZManRqejBkYnA5RUgyNkdGWkU1X3F3VFdHLXdrRzU4TWQtb3hYck10TmZnY2YzNS1BQkR2SU96VFVpMldlcW9fN3BJWUljamhPWmxiQVZLUzQ2Z1M4d1N3TktkZnk1MDRRSHN3?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Tribal MPs Join Hands under Jual Oram’s Leadership to Accelerate Tribal Development Nationwide - PIB",
-          "source": "PIB",
+          "headline": "3-time BJP MP humbled by Independent in Daman & Diu - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HX3NrWTM1MFpxUS1QNGZjVmxmazYzUGRNRzdHY2d4eWdOZXY5RnJ2ZHc3ajdMV05xbGNOV0FWTWtwS1BjODAwdFRhRXQxeTdESEVxQW5nT2sxTUdkUVctZlVzaUVkT2RHdlkyVnhPc2Y5bHdqTkFJUFhR?oc=5",
-          "sentiment": "positive"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOck5tX2UyZV8zY3RXLUc0QVdvNWFmQ0ZWSWp2WG9QU1hyby11T2U2LUZMdlZDOEFMTDVkU2c4SFBQdzJaaFllMlk4Y1ZwWFZiUlktN0s2dEpWNG1LS2xocjNWTXVwaVljOHI0SHk2ZmRjNzFWVUszQkF4QnV4cDRMMW15YzFrcl9SZGtDVmlkU1RTcE9HbTBqa2h5U3JTVU1JUG45U3NkcjRUU1UzZkHSAbQBQVVfeXFMUDZoOGtZVl9wOG5hUzVUNmpLd2UtalRLdHg4eEFWa3Etei00LVdlQS1hcGtkVG8wNlBLT01HekZ6UTZVLTlhMTJzMy1fNnRMY3Zzc19NU1BFdXVXa002Mjh4cnVQT0xuVlRkSlFWdnBaWGFSeWxQWmltYUdPcXhKTUpYM0RETVJWVEpSRkRPMXlrRHcxWWRMNF9ScERYNDNNMTVERzRscWdrd25BNV95cWh4bUJU?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+          "source": "Sarkaritel.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
+          "sentiment": "neutral"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -341,15 +430,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 30,
+      "starred_questions": 9,
+      "unstarred_questions": 21,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 58.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +446,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +477,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.21,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +510,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Dadra And Nagar Haveli And Daman And Diu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 14 criminal case(s) (0 serious), 14 pending, 0 conviction(s). Declared assets: Rs 4,752,198. Parliament attendance: 85.0%. Questions asked: 30. Debates participated: 15.",
-  "validated_at": "2026-09-02T01:36:47.756738Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 30. Debates participated: 15. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.347145Z"
 }

@@ -7,21 +7,21 @@
 **Education:** Post Graduate
 **Profession:** Politics, Social Worker, State Education Minister Indian Govt
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (37%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 47.5 / 100
+## Composite Transparency Score: 55.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 16.3 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 85.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -30,33 +30,37 @@
 
 - **Total Cases:** 2
 - **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 2
+- **Convictions:** 1
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. 454/2021, P.S-Dhanbad, Dist.Dhanbad (Sections: 269, 270, 34) [pending] 
+2. Section 130(E)The Representation Of The People Act-1951 (Sections: N/A) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 3.20 Crore
+- **Immovable Assets:** Rs 9.63 Crore
 - **Total Assets:** Rs 12.83 Crore
 - **Liabilities:** Rs 78.86 Lakh
 - **Net Worth:** Rs 12.04 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 63% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 976369399.00 Crore
+- **Asset Growth:** -100.0%
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 17
-- **Released:** Rs 17
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 3
-- **Utilization Rate:** 20.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -70,23 +74,48 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
 - Annapurna Devi: Koderma’s Steady Presence - Outlook India (Outlook India) [neutral]
-- Annapurna Devi Oath Video: कोडरमा सांसद अन्नपूर्णा देवी फिर मंत्री बनीं | Modi Oath Ceremony 3.0 - Hindustan Hindi News (Hindustan Hindi News) [neutral]
-- Kodarma Lok Sabha Constituency Result 2024: BJP's Annapurna Devi Yadav Wins By 3.7 Lakh Votes - ETV Bharat (ETV Bharat) [neutral]
-- Kodarma Lok Sabha Elections 2024: Annapurna Devi to take on I.N.D.I.A bloc candidate at BJP's stronghold - India TV News (India TV News) [neutral]
-- Kodarma election results 2024 live updates: BJP's Annpurna Devi wins against CPI-(ML) (L)'s Vinod Kumar S - The Times of India (The Times of India) [neutral]
+- Who is Annapurna Devi, one of two woman Cabinet ministers in the new Modi govt? - The Indian Express (The Indian Express) [neutral]
+- Left Campaign on Bread-and-Butter Concerns Lights up Electoral Contest in Jharkhand’s Kodarma - TheWire.in (TheWire.in) [neutral]
+- State Govt. Doesn’t Give Anganwadi Workers Their Due: Jharkhand MP Annapurna Devi - Feminism in India (Feminism in India) [neutral]
+- Kodarma lok sabha election results 2024: Kodarma Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Annapurna Devi: Koderma’s Steady Presence - Outlook India** (Outlook India)
+- ! **Who is Annapurna Devi, one of two woman Cabinet ministers in the new Modi govt? - The Indian Express** (The Indian Express)
+- ! **Left Campaign on Bread-and-Butter Concerns Lights up Electoral Contest in Jharkhand’s Kodarma - TheWire.in** (TheWire.in)
+- ! **State Govt. Doesn’t Give Anganwadi Workers Their Due: Jharkhand MP Annapurna Devi - Feminism in India** (Feminism in India)
+- ! **Kodarma lok sabha election results 2024: Kodarma Winning Candidates List and Vote Share - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -96,11 +125,11 @@
 
 ## Qualitative Assessment
 
-Annpurna Devi has a below-average transparency score of 47.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Annpurna Devi shows moderate transparency with a score of 55.5/100. Significant criminal cases are a concern.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 128,282,857. MPLADS utilization: 20.3%. Low confidence data: Parliament activity. 1 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 1 pending, 1 conviction(s). Declared assets: Rs 128,282,857. Low confidence data: MPLADS, Parliament activity. 2 warning(s) noted.
 
 ---
 
@@ -140,7 +169,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -219,8 +248,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Annpurna Devi's MPLADS account: Released: Rs 17, Expended: Rs 3, Utilization: 20.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -239,11 +266,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,16 +4,16 @@
     "constituency": "Bardhaman Purba",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 6202,
+    "myneta_candidate_id": null,
     "slug": "sharmila-sarkar",
     "house": "lok_sabha",
     "sansad_member_id": 5768,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "5th Pass",
+    "education": null,
     "profession": null,
-    "age": 38,
+    "age": null,
     "photo_url": "/mp-photos/5768.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Bardhaman Purba",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 6202,
+      "myneta_candidate_id": null,
       "slug": "sharmila-sarkar",
       "house": "lok_sabha",
       "sansad_member_id": 5768,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "5th Pass",
+      "education": null,
       "profession": null,
-      "age": 38,
+      "age": null,
       "photo_url": "/mp-photos/5768.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:40.226558Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 1720080.0,
-      "liabilities": 0.0,
-      "net_worth": 1720080.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6202",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:56.287069Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 1.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.65,
-      "expended": 1.75,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:53:08.879067Z",
-          "notes": "Official eSAKSHI REST API — Works: 114 recommended, 54 sanctioned, 5 completed"
+          "fetched_at": "2026-09-02T14:52:01.521470Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:48:16.840153Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:48:16.838447Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 114,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 11.904761904761905
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 50.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:48.141066Z",
+          "fetched_at": "2026-09-02T14:48:16.837740Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Making of the Trinamool rupture: How rebel MPs chose moment to strike - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYVA0QktQV0l5N2M1OC1vdnlGNUt6Y1NHWWJkWU1GeFNyQkg3OVRDZzl4andjdXBKNnBiYllsWWlGbkVlcXZQWUxGRl93cTBrWTE1REQ1SkQtMEMtSzUxYV9yakl2NmY3eHd4eTNWN3l3TmdWX1JSbk05QkcwR0VTUHdwNnhVTWwxWGxkcXJhdFdYczdlMVU2dEsxR1RIZ2hodzRWU2xMNEnSAa8BQVVfeXFMTkhQSW9GN19UVjlrMm14MjBZekZGejJSRnRjMGU2SHR2ejctVmJoaURpY0Q1TDBoN3dicm00Qm5PYVVscVBfQTNoVGxGanA3NjcyQlZUYXIyeVlUSG1kMThaa0VCaVVWVVFLa2pMaUdhSVhINUQySC1WUVF5TUdyVGRaWmFhdkctRmtRVDRDLUJZcVZQeXd3cjhwcGRJb0piZkR0ZjRaTUZRT2xTUGkxZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TMC’s LS revolt: Signature sheets go viral, feature names of 19 MPs - Telangana Today",
+        "source": "Telangana Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRTN0a3E1UUFLYjZSd050UkNNWlhwdTMtMUJhQldubWJqVENicm5IOXFpWWJmcmpRakZnSUQydXA4SFk0dER3T2piMWJHMVNueGF1LTdWd0EwN3RJLWZXZlAxLXhIYXh0eFpoMXIzRF9mX1BQUkt4R1M5LWNfVjNtS2s4OGZhaWdWWXllYVo1SkhPaUs1UkE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Big trouble for Mamata? Kakoli Ghosh Dastidar says 20 TMC MPs seek NDA support, write to Speaker - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVJxR1dqYWZITkhRRTlDRmxxYTJyS0c2dk1GZTliN1hHUG80cTUwTWlqT2ctSUFhbFFpb1NvY2RyTGcxRlBPZEloS2xNZ0t0TENyYklIY3RoaFdiMVRsS3I1T0RrY2w2eUpEbU04T0FNa1V1alpmT0JBZmg0Wm9CTlB6ZnowUDFGRGlZcVA2VWg1U1RPRFFlSkMwaUIwU0V5Ti1zTFNmTTRuRWdaSlhPUzNXanFIN3lyaHBUTy0yOUpKdm1VejhjWlY4VHdWQ2tMczJ2YkRva0RiWTJ0bHBlMkh30gHnAUFVX3lxTE03Y0Y1enR2NnVZLW5hckp1Nkk3SzR6dHFCTE51Z09oeW01WF9IZGR5N25YRXpLVzFPbWVnbVZ1N0NDNkhEWkJjQkV0bW1vWjFXeVIwdmEwRXYxbFpuSHFraVNfSDd4N2k0cnBXUmpUME9TeXdyY09rcExtQ0ctQUloMllVMjdSVlFfd29yU2Z0QzltX2xYWGFfZzVESTFxc0l5VEI1S3p5QUdlVFFYdUZHTE1uQ3ZJSkszN1dKODd5V3poZWVpTTRCWkNJcW5USVlXYkh3N0dFOG1LNHpWNWU3eV9CaGJ5MA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "20 Trinamool MPs write to Lok Sabha speaker extending support to BJP-led NDA - Scroll.in",
+        "source": "Scroll.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjJTQnZWSnpCMHVDRjFweXB4STVSWGFhS2IzVWw5Z1N4WF9lUkptb2NBU2otX2oxWDdXVlhJYXNLNHV3RkZMbjdCNThKc2VzSmJNbjBsRzEyekMtakZYdGYtbDZWTjNUU09VdnNueTJwOGNidFVBU1k5enktZ1pkVUo3VHhzSk85UG8yZTVpTl81T1czOHRjUy11NEdfbU5VN19uZURzdzB3RzVLV0HSAbMBQVVfeXFMT1RiZ0ozTWdzTXpuNW1VMmI0OFFBOTQtNE9zMEJoVUJ4M1JFY1otRzQyT1NoRHhpZ3F4bE5ySWxUZEJRVU1EU0NPN29JcWpKbWN3TnpqQzR6MERwbF9jaV96VE84am5TVG54T3VrdGtXRlF4SVBLT0p0bk5pNGVVRy1JX0RhOU9lMElscUdic3Q1UVdXaTJOaEk2VXVtREZCbzdNa3pfRHRhMmtQc2kzLXoxSTQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dr Sharmila Sarkar’s Zero Hour mention on instituting a stoppage at Bardhaman Station for Vande Bharat trains commencing from Howrah - AITC in Parliament",
+        "source": "AITC in Parliament",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONUNqQ255ckNLSVlYUVcyNjE3R2NBUnVlRjhMdmFOSDh3N2N5YW5Hc0JGNElOS2hGZVY3QmhiSFhuazNCRm5jdTY3MDFrNlItZ0xzbFJicXB5LXRNeWRSeDRWdklCczJDTEo4bTdYMnNCVi14WndRSE5DM21DTnphajM4Nm1lbkJpYnpVODRlRW1fT05pVzhzclpGVEhBa0NvRW5NeGhiTUdHUW1pbUxDa2Z6WTBfMXJic3FSOUs3aXpkbkVVWTNkajFlWjAtN280UHRIRnE3Q3kxOG8xUmhpM0dkSHNCVWVmVmxfemR3?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:53.151531Z",
+    "collected_at": "2026-09-02T14:52:01.522780Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.987246Z",
+          "fetched_at": "2026-09-02T18:38:12.627383Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.987255Z",
+          "fetched_at": "2026-09-02T18:38:12.627394Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.987260Z",
+          "fetched_at": "2026-09-02T18:38:12.627400Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.987265Z",
+          "fetched_at": "2026-09-02T18:38:12.627406Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.987271Z",
+          "fetched_at": "2026-09-02T18:38:12.627412Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.987276Z",
+          "fetched_at": "2026-09-02T18:38:12.627417Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.987281Z",
+          "fetched_at": "2026-09-02T18:38:12.627423Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +322,28 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/sharmila.sarkar.161/",
+          "url": "https://facebook.com/https://www.facebook.com/sharmila.sarkar.161/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:48:42.963153Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,43 +352,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Dr Sharmila Sarkar’s Zero Hour mention on instituting a stoppage at Bardhaman Station for Vande Bharat trains commencing from Howrah - AITC",
-          "source": "AITC",
+          "headline": "Making of the Trinamool rupture: How rebel MPs chose moment to strike - The Indian Express",
+          "source": "The Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYVA0QktQV0l5N2M1OC1vdnlGNUt6Y1NHWWJkWU1GeFNyQkg3OVRDZzl4andjdXBKNnBiYllsWWlGbkVlcXZQWUxGRl93cTBrWTE1REQ1SkQtMEMtSzUxYV9yakl2NmY3eHd4eTNWN3l3TmdWX1JSbk05QkcwR0VTUHdwNnhVTWwxWGxkcXJhdFdYczdlMVU2dEsxR1RIZ2hodzRWU2xMNEnSAa8BQVVfeXFMTkhQSW9GN19UVjlrMm14MjBZekZGejJSRnRjMGU2SHR2ejctVmJoaURpY0Q1TDBoN3dicm00Qm5PYVVscVBfQTNoVGxGanA3NjcyQlZUYXIyeVlUSG1kMThaa0VCaVVWVVFLa2pMaUdhSVhINUQySC1WUVF5TUdyVGRaWmFhdkctRmtRVDRDLUJZcVZQeXd3cjhwcGRJb0piZkR0ZjRaTUZRT2xTUGkxZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "TMC’s LS revolt: Signature sheets go viral, feature names of 19 MPs - Telangana Today",
+          "source": "Telangana Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRTN0a3E1UUFLYjZSd050UkNNWlhwdTMtMUJhQldubWJqVENicm5IOXFpWWJmcmpRakZnSUQydXA4SFk0dER3T2piMWJHMVNueGF1LTdWd0EwN3RJLWZXZlAxLXhIYXh0eFpoMXIzRF9mX1BQUkt4R1M5LWNfVjNtS2s4OGZhaWdWWXllYVo1SkhPaUs1UkE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Big trouble for Mamata? Kakoli Ghosh Dastidar says 20 TMC MPs seek NDA support, write to Speaker - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVJxR1dqYWZITkhRRTlDRmxxYTJyS0c2dk1GZTliN1hHUG80cTUwTWlqT2ctSUFhbFFpb1NvY2RyTGcxRlBPZEloS2xNZ0t0TENyYklIY3RoaFdiMVRsS3I1T0RrY2w2eUpEbU04T0FNa1V1alpmT0JBZmg0Wm9CTlB6ZnowUDFGRGlZcVA2VWg1U1RPRFFlSkMwaUIwU0V5Ti1zTFNmTTRuRWdaSlhPUzNXanFIN3lyaHBUTy0yOUpKdm1VejhjWlY4VHdWQ2tMczJ2YkRva0RiWTJ0bHBlMkh30gHnAUFVX3lxTE03Y0Y1enR2NnVZLW5hckp1Nkk3SzR6dHFCTE51Z09oeW01WF9IZGR5N25YRXpLVzFPbWVnbVZ1N0NDNkhEWkJjQkV0bW1vWjFXeVIwdmEwRXYxbFpuSHFraVNfSDd4N2k0cnBXUmpUME9TeXdyY09rcExtQ0ctQUloMllVMjdSVlFfd29yU2Z0QzltX2xYWGFfZzVESTFxc0l5VEI1S3p5QUdlVFFYdUZHTE1uQ3ZJSkszN1dKODd5V3poZWVpTTRCWkNJcW5USVlXYkh3N0dFOG1LNHpWNWU3eV9CaGJ5MA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "20 Trinamool MPs write to Lok Sabha speaker extending support to BJP-led NDA - Scroll.in",
+          "source": "Scroll.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjJTQnZWSnpCMHVDRjFweXB4STVSWGFhS2IzVWw5Z1N4WF9lUkptb2NBU2otX2oxWDdXVlhJYXNLNHV3RkZMbjdCNThKc2VzSmJNbjBsRzEyekMtakZYdGYtbDZWTjNUU09VdnNueTJwOGNidFVBU1k5enktZ1pkVUo3VHhzSk85UG8yZTVpTl81T1czOHRjUy11NEdfbU5VN19uZURzdzB3RzVLV0HSAbMBQVVfeXFMT1RiZ0ozTWdzTXpuNW1VMmI0OFFBOTQtNE9zMEJoVUJ4M1JFY1otRzQyT1NoRHhpZ3F4bE5ySWxUZEJRVU1EU0NPN29JcWpKbWN3TnpqQzR6MERwbF9jaV96VE84am5TVG54T3VrdGtXRlF4SVBLT0p0bk5pNGVVRy1JX0RhOU9lMElscUdic3Q1UVdXaTJOaEk2VXVtREZCbzdNa3pfRHRhMmtQc2kzLXoxSTQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Dr Sharmila Sarkar’s Zero Hour mention on instituting a stoppage at Bardhaman Station for Vande Bharat trains commencing from Howrah - AITC in Parliament",
+          "source": "AITC in Parliament",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONUNqQ255ckNLSVlYUVcyNjE3R2NBUnVlRjhMdmFOSDh3N2N5YW5Hc0JGNElOS2hGZVY3QmhiSFhuazNCRm5jdTY3MDFrNlItZ0xzbFJicXB5LXRNeWRSeDRWdklCczJDTEo4bTdYMnNCVi14WndRSE5DM21DTnphajM4Nm1lbkJpYnpVODRlRW1fT05pVzhzclpGVEhBa0NvRW5NeGhiTUdHUW1pbUxDa2Z6WTBfMXJic3FSOUs3aXpkbkVVWTNkajFlWjAtN280UHRIRnE3Q3kxOG8xUmhpM0dkSHNCVWVmVmxfemR3?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Making Sense of the TMC's Lok Sabha Candidate List - Dailyhunt",
-          "source": "Dailyhunt",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdUR0UldZYUZiWV9OVV9EYk9VbWd2ZmlNelJrSVh4MEE1YUFwM3BCbjNTdTZESjEzWDBZN0JZVDVGbjNDZHVHLU9ycWZzaE41QVFaaGpHMkJEUldvdW9uQjFuZGNSVG9CVnF4MWgwQVBSazhaQXNxcEVLcC1SVDc2MmRwTE92ZFM0OExvOVlQaGRCUXN5OTI1NWFSX2RsREpmVFVfbXRhUkgzdjZ6UVVLVDd4ekxNV3NWSzNHa05ia09hSDRyWHNNanlUd1MtNHQzczVvT2V4NA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "TMC MP Sharmila Sarkar urges PM Modi, MEA to intervene amid attacks against minorities in Bangladesh - ANI News",
-          "source": "ANI News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd0hCOWtUWDNFT29sc2c5Ny1LUTBldXY3YVpabXZ4ZGRCNEw2VnNJVF9DdE5yWWhKdVk2WDlUZUNIWE9aODFjM1lpeFdPSlR6dXRKV0hrQ2RzbWJrSExYZnlreFpTTVMxTW9TdE9rcFYtZUJzYVJvNVJERVFMMHIxanBCRVh2OWZWbGx2LWNfMjJPcW92YkhtMFo5SC1zQ1pHTnZXc1BQS3dMSFdncldCelVBblJEX2RFM1BNYmZUNUt4TUhGaEVURmNLc0trVmRVOW41ZXZYc2RoNWVfOVB6RXhTRHlJNGNVdFlxU21Pb3I?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Cricketer Yusuf Pathan, actress Rachana Banerjee to make political debut in LS polls from Bengal - Dailyhunt",
-          "source": "Dailyhunt",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMWFQSm1ReTZyajZoS2g5VEFNQ053Uy1OUFNRc0ljdm1EU1JlY1F5UThqUUk4dk5EWGRsTjhORTUxcWs0NHI0U0pMdXBSM0ZPNjZfRWNrMmszM3ktUGczNGFuUWt0ellXaHZVZGpjazBFYVZKQTBOQzNGZjAyNXAzWU1xUFVEM1JST181d0RZM1ktZlU5Z3hjOUFIemlHZUs0MTlhbDVMekNRM3NSWklhb0tPVElILWhJUVVSX1ZRYlV6Z19CSmJzRGF0aWoxZW5KV0Z6YU9qZlVmUUVad0ZMaEcxTk9Cd2paZ256Qm9YdzlyMEdVa0tMWEtFb29sVk93Mi1DNU9DanE0X043TnFrOXVINA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Political Profile of Dr. Sharmila Sarkar, Aitc Party, Bardhaman Purba, and Net Worth - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORFJzNW1WTU5TTF9UZ2tpSkxVRHc4S2xXblVfVFNqa0d0Tk1yc1dzM2RFV29haXlnNExlZEl3d2V2dDliRXdNelh4d1Z6bzFJU2VoRE1IVkNpdkJIZkstSkZqVmdZRzhyZ1pQZkxveG1zclVQaDJzY0ZHT1o2MzZmU3h0cGJ3RWpZODlPZGFDemlWM0JxMEdkeGNPTTg2cm9QemRNeEVGOENpSWFiNjVLVUtTZk95V2dnVWZjb1ZIREVqWHNicWlKSXBxU2RmUHFJd1dJbHhxRzVtNzlaYkVDXzlCYV9WUnBhbW5uQ0Z3?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,17 +438,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 50.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +469,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +496,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 1,720,080. MPLADS utilization: 11.9%. Parliament attendance: 50.0%. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:54.987999Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 50.0%. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.628274Z"
 }

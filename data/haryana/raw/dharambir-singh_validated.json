@@ -4,16 +4,16 @@
     "constituency": "Bhiwani-Mahendragarh",
     "state": "haryana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8558,
+    "myneta_candidate_id": null,
     "slug": "dharambir-singh",
     "house": "lok_sabha",
     "sansad_member_id": 4647,
     "profile_url": null,
     "canonical_name": "Dharambir Singh",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 69,
+    "age": null,
     "photo_url": "/mp-photos/4647.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Bhiwani-Mahendragarh",
       "state": "haryana",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 8558,
+      "myneta_candidate_id": null,
       "slug": "dharambir-singh",
       "house": "lok_sabha",
       "sansad_member_id": 4647,
       "profile_url": null,
       "canonical_name": "Dharambir Singh",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 69,
+      "age": null,
       "photo_url": "/mp-photos/4647.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:05.018325Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 115664424.0,
-      "liabilities": 0.0,
-      "net_worth": 115664424.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8558",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.768754Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 61.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 6.88,
-      "expended": 5.34,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:15.077696Z",
-          "notes": "Official eSAKSHI REST API — Works: 190 recommended, 156 sanctioned, 97 completed"
+          "fetched_at": "2026-09-02T14:35:03.861486Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:31:22.228880Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:31:22.225899Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 190,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 36.3265306122449
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:23:52.914978Z",
+          "fetched_at": "2026-09-02T14:31:22.224838Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "SKM protests proposed trade pacts, lays siege to BJP MP’s camp office in Bhiwani - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOUJWV0wwZmdQMkhzQUc2M19jSWNBbTVHdmtKbkg1amhTOWVDSzhrckNNZjJ2VGxHVTg1WEc2cXM4UHBuZUhkTm92d0dWNlVNUDFNZ2JtWF9RZjBMY0xaYnNsM1p4b0dhOXcwazJteDJjQ1BuU19HSzg4eHRiVGxoT1FzeW9mRWVRX25sMjZSTVBGVHgyWWhYV2RMVG02a1NfdlNLaV9rX3U3MVdXbUhIWjVqV1hEeVdBcXZUWVVkQkhDNXR2MHp4T3pvajQ2RUdjVzBXU3d5UFNKZ1RLWF91SmRVUmxoMXprSjRVc9IB8gFBVV95cUxOUVFGOTBicWlFdEdvdWNxUGhDMkljb2VueDd2aEE1ZEZBb2lTUmNNUXl6QklhQUo4NFo4TmlFVWFTOC15Vm95VjFnZUtzZWRyTERfdVk2dU12UmJhN1BZSDh5dmNLeHQ2Qlk4TjBOUUZqeFhLWVlFRUdTUnVtTUJmR0ZHeERnYUlFMzRDYVV0NVA5WEV2M0JlOE9BZmgwZThobDBLRm5XSDA2S0xEd29IRXhjVHAwdWRURmpXa1VGWVl1bnUteXdOdml5c3FMOE1GLS10TEZTUDhvZXdCdjlJUVFDR1BwbjNqWFpWQ3pEa0lPQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Haryana BJP MP Dharambir Singh says won’t contest again, cites age factor — ‘will be 74 by 2029’ - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHlHdHZhenZ1RVItYzVnYXNIOUZON3N0aTY4cTdpTndfcWx0bnBzWTBaS0pjSGJsQ0gzbDN0YmhGQ3IxSGkxYV8zaVJ2YzZBOFk1cUxxbDVkaFFLNDhlQzM1RExsNC1PWUtic2o0d09tUXZ6Yy1mQlIwVWZGbEdZNmxpaHluQ3NJNGpSQ0xHYzd0N0xUUzRaMUpkRGZGZkZrQTA4VEN1Q19KOW9TRkVFNE8wT0I4ajRpU056TTVsLTdsZ3VmNXZr0gHMAUFVX3lxTE5fU29YejU3aEVFRlVjVlJXZlR1SEhZek5IQnJwNEltQXNpTjVnMGJsWXFpaW5YVmJZTXNQam1VclJkZDNLWVEzLXEwcDZoUDBncF8zZGZHbTdCZGZJdm50LV91cGVkZWxnNEhRc0dhVzNsNU9nU25nWXlTc1JpNmFNay14aFJONXZwRmtaYmdLU29ObHp4MV9KZmNZVGs4Zzk2bGxoam0yRnNZTUF3dGNxR3RqNjloTmgxdTlJS2RaMnZyd1IzV1RrSER3VQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bhiwani-Mahendragarh Lok Sabha Election Result 2019 LIVE Updates: Dharambir Singh of BJP wins - Firstpost",
+        "source": "Firstpost",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRUMxT2ltRW9PR2Y5dllEcUFwQjY3MzlTSktxb1pnNGhNSTNtNVFGajUzMUxtckxEWjJSNVJick1kaTU4UWxMRmFpQ2hCOHNiU3FkaGl1cjNzZ3NEMDRXVzlvNEJXU3A0aE1qNFgwZ2doRGdyS2NFTzVRS2d6Y0FVSlp6SXhtREQ4MjV5SHRlRHNzZnF6ZEhHdnZndUdpMTh0YnlBdDdIVzcyRURvXzV6TlRMNlR5WTUzUm9xZGNTeTV5bnhlbG9WdEM5TFlhRG05Z0tjY3p1aw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP reposes confidence in two-time MP Dharambir Singh from Bhiwani-Mahendragarh Lok Sabha seat - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2tVcHVBeGpvb011WmYwUFVlTkxpZmRuWThlSmFTUGpmeDBvVWdZa1drSGEtLUhiOTYzUTZHakxrSmV3SFFJSWxUaFJsZ0g1VW5MdXZld3NfVjlQODNWTl9DSGo5anZtTHpEV0drdEhZeE5HZFE0NklBTjNHWkt1cEp5cUhhd0N1ZmFmNG9kc0tyLXY0VDVhZmN0dGt0d9IBogFBVV95cUxNbWRCMzdUS0paeGJxZ3BvVlZKVFRITU9YUmhmUU1jdjBON2hBaUw0YXpqZWd1bFpLMTlsMi15V2tZaElHNUJKLTI4SEkwaVVaUFNBSEtjc0ZERG02UzlRbE5FYmlfdGVQME5mWWxjdFZyelVkYzc2c2hEOEo0Ujd0SGViV0d1cGdVU3BjRDF4T0MzZGdRNEs2YUQ3eWFVSVBSRHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "In Haryana’s Bhiwani-Mahendragarh, will Modi factor swing race towards BJP? - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzJtSkdfb3RJbklmTVRrRWR6c25FSlFNM0J6b3pFSldodEIzcXhES2t4ZzRzUG9hWmxvMDVIZVdNaVFyNTQ0cWotN1hibGdpbmVVZEExSklKRTVMMDM0ZE1CYU1HRUUzUmMyRWR4eEpzODlUZTBiLTRQbGNiRmxhV1g1bWZBZFJkeXZIa3B0ajgteUJYV21YXzZJMXI1LVEzN0xXVEhRZ2JVSEtTVHFTWVBmSmV1SmPSAb4BQVVfeXFMTjVRNGV5cWIzbG9nWHRaWk1tR2kzMVJ2dW5ZZzRoWUJzVldlMGQ5Q2I2NXVtTDNLb1c5NUgwaEZGQkNITWpRNUlrdnJ0WGE4RWk3a0dvLUFlTkVobHdSOEc3TjVUMjRudnpSdzdrSWJzRFdrN2FUNWVoR3BId1ZQT2R6RDdGVFJJNW92YnllbVZ2MUVSazlxMFhvMjhLSmwtMy1qYWlVamJROC04dkhKWkJaVGxiUGEzejhhSktQQQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:24:56.104779Z",
+    "collected_at": "2026-09-02T14:35:03.862485Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.293070Z",
+          "fetched_at": "2026-09-02T18:38:05.922845Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.293079Z",
+          "fetched_at": "2026-09-02T18:38:05.922857Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.293084Z",
+          "fetched_at": "2026-09-02T18:38:05.922863Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.293089Z",
+          "fetched_at": "2026-09-02T18:38:05.922868Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.293094Z",
+          "fetched_at": "2026-09-02T18:38:05.922874Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.293098Z",
+          "fetched_at": "2026-09-02T18:38:05.922879Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.293103Z",
+          "fetched_at": "2026-09-02T18:38:05.922884Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +322,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "@ch_dharambir",
+          "url": "https://x.com/@ch_dharambir",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "@office.dharambir",
+          "url": "https://facebook.com/@office.dharambir",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "@office.dharambir",
+          "url": "https://instagram.com/@office.dharambir",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:31:25.164523Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -281,6 +367,14 @@
       "negative": 0,
       "neutral": 10,
       "top_headlines": [
+        {
+          "headline": "SKM protests proposed trade pacts, lays siege to BJP MP’s camp office in Bhiwani - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOUJWV0wwZmdQMkhzQUc2M19jSWNBbTVHdmtKbkg1amhTOWVDSzhrckNNZjJ2VGxHVTg1WEc2cXM4UHBuZUhkTm92d0dWNlVNUDFNZ2JtWF9RZjBMY0xaYnNsM1p4b0dhOXcwazJteDJjQ1BuU19HSzg4eHRiVGxoT1FzeW9mRWVRX25sMjZSTVBGVHgyWWhYV2RMVG02a1NfdlNLaV9rX3U3MVdXbUhIWjVqV1hEeVdBcXZUWVVkQkhDNXR2MHp4T3pvajQ2RUdjVzBXU3d5UFNKZ1RLWF91SmRVUmxoMXprSjRVc9IB8gFBVV95cUxOUVFGOTBicWlFdEdvdWNxUGhDMkljb2VueDd2aEE1ZEZBb2lTUmNNUXl6QklhQUo4NFo4TmlFVWFTOC15Vm95VjFnZUtzZWRyTERfdVk2dU12UmJhN1BZSDh5dmNLeHQ2Qlk4TjBOUUZqeFhLWVlFRUdTUnVtTUJmR0ZHeERnYUlFMzRDYVV0NVA5WEV2M0JlOE9BZmgwZThobDBLRm5XSDA2S0xEd29IRXhjVHAwdWRURmpXa1VGWVl1bnUteXdOdml5c3FMOE1GLS10TEZTUDhvZXdCdjlJUVFDR1BwbjNqWFpWQ3pEa0lPQQ?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Haryana BJP MP Dharambir Singh says won’t contest again, cites age factor — ‘will be 74 by 2029’ - ThePrint",
           "source": "ThePrint",
@@ -290,11 +384,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Bhiwani Mahendragarh Lok Sabha Election Results 2024 - India Today",
-          "source": "India Today",
+          "headline": "Bhiwani-Mahendragarh Lok Sabha Election Result 2019 LIVE Updates: Dharambir Singh of BJP wins - Firstpost",
+          "source": "Firstpost",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlZkeE1vZDRPZHZkQW1Jdm1hd1NLd3lkMmRUSmtTZUxCRklKSk8tUjFXSWhSQXYtU1BESURHTElCbElWbFZpTThnd0Vibzk5TUl2em1ud1F2OTh5U1ZWQTZjVF9ETDZEWU53Wko5QmVqaHZDbks1YXZhYkZRQkVRanlsdmhtZ2U0OXFiYXppZi1XS3gxOFNWTWtPaXBGSW44?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRUMxT2ltRW9PR2Y5dllEcUFwQjY3MzlTSktxb1pnNGhNSTNtNVFGajUzMUxtckxEWjJSNVJick1kaTU4UWxMRmFpQ2hCOHNiU3FkaGl1cjNzZ3NEMDRXVzlvNEJXU3A0aE1qNFgwZ2doRGdyS2NFTzVRS2d6Y0FVSlp6SXhtREQ4MjV5SHRlRHNzZnF6ZEhHdnZndUdpMTh0YnlBdDdIVzcyRURvXzV6TlRMNlR5WTUzUm9xZGNTeTV5bnhlbG9WdEM5TFlhRG05Z0tjY3p1aw?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -302,23 +396,15 @@
           "source": "The Tribune",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2tVcHVBeGpvb011WmYwUFVlTkxpZmRuWThlSmFTUGpmeDBvVWdZa1drSGEtLUhiOTYzUTZHakxrSmV3SFFJSWxUaFJsZ0g1VW5MdXZld3NfVjlQODNWTl9DSGo5anZtTHpEV0drdEhZeE5HZFE0NklBTjNHWkt1cEp5cUhhd0N1ZmFmNG9kc0tyLXY0VDVhZmN0dGt0dw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2tVcHVBeGpvb011WmYwUFVlTkxpZmRuWThlSmFTUGpmeDBvVWdZa1drSGEtLUhiOTYzUTZHakxrSmV3SFFJSWxUaFJsZ0g1VW5MdXZld3NfVjlQODNWTl9DSGo5anZtTHpEV0drdEhZeE5HZFE0NklBTjNHWkt1cEp5cUhhd0N1ZmFmNG9kc0tyLXY0VDVhZmN0dGt0d9IBogFBVV95cUxNbWRCMzdUS0paeGJxZ3BvVlZKVFRITU9YUmhmUU1jdjBON2hBaUw0YXpqZWd1bFpLMTlsMi15V2tZaElHNUJKLTI4SEkwaVVaUFNBSEtjc0ZERG02UzlRbE5FYmlfdGVQME5mWWxjdFZyelVkYzc2c2hEOEo0Ujd0SGViV0d1cGdVU3BjRDF4T0MzZGdRNEs2YUQ3eWFVSVBSRHc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Bhiwani-Mahendragarh election results 2024 live updates: BJP's Dharmbir Singh wins against Congress' Rao - The Times of India",
-          "source": "The Times of India",
+          "headline": "In Haryana’s Bhiwani-Mahendragarh, will Modi factor swing race towards BJP? - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPamRvVEZyWHZzWFAwLV9CT3phdFZ2Mjh4M2JuUFpNTC0yV1ZPN2dMSXdGb3dHUDhZME1qQzlfYkIwdkMzSzktVDY5a2doOUw1WXFJRGsxWXRScGtNT2g3Y1Q1Y0QtaGI5bUN6c0dNUmtmeDdlZnNqbm5qRUhQZFJrRVpINzJ4dGRvbW02eUJrZWhuQ0dxbWdzb3pVWE9rV0diMUJTZk9hVUM2cHNpY0ZuTXVvdnBFb1hYYXd0ZlN6amx0eVZJeUVnSmJ3M0YyTy1FWnpSVmtvOWVfT0RBOHQzT2dSMFhTRUlLLVNNMlExelJvcUFPdjFNN0cyc0NDeGo4cmVic1BKNWV6d2ktRUgweW9ta3V5RUJWNGc5VVUya3YwYWZVdmVpaFRUazQtQjlJcDRJRWVULWc4ZEdrUVHSAcMCQVVfeXFMTURBcTUxOWJnbjlKMWc3UV9scjRKZHhmLWNHRjdxMUFnNmx6VGhtS1NlN0xIREpPeHlscnhWdU0wTUhrQUlRQ2lwekdxMVZsbzgxWThSZzdkSGpzTUdKUjlHZG5iZkRRLVROeXpjNUZjaHNmR0ZmYjQweG9PaFYycEFpLWR1VHRqOTNvQUNpZ2UzYmVNUU5RQXZBLWltbHV5a0VMdkk1UWRnNGQzUlJqR3FHTV9uX2VVc2tjdGFJV0ZMR1pIa1RDWmEzVDBIbkNwSmtTdkMwYmExSUw0MDNOUzFrNXRzQXZ6dkdmdnJQNV9zcjBHT3pCTUMxX3RyNTQ4eVBlbWUyS3FKcUhtcjhlS3pXYXppdW5NNnBNdFVkWlFTNlZQTFhXRVFCeWZFVXd3b2VxcUNIYUlIUk5seGk3TFdReVU?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Bhiwaniâ'Mahendragarh Lok Sabha Election Result 2019: BJP's Dharambir Singh dominates the constituency - DNA India",
-          "source": "DNA India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObWhIekxoWWhXZEVCZ0N0em1ZbEJYUzM1c2Voa3R6bnZEMGtMc3FvY0FiX19KUEo5ZDhIdV9hQjdlZDE3MVhTQmI0eU5qODEyeG5kT1NVNjByRHV2S2tfOXoybWtqZzJpandOYWFuZURqOURVdkNWYXNHSm9lUmoyVTl0Q3BZTThNQ1ZmV1AxN1VDX09WMmhNcFFiNGtXU2pwU2tFWkV6N1c5Ujd4Vm5WcE1CX1RRZmJUcXJiZGhRNTIxVFd4SWpKcVY5U3UwZWU2NEQycDhaUEZoMDJzamtN0gHkAUFVX3lxTE50bkN5TnNRTzM5eHV5c3ROVzdkYU9HX3ZYaTFWajRWREtPbGVFblJYbUxIQnlqcFRqemp5U2JFazYzeXQwQ29oN2dQektYWlQ2RFpKaTc2Y29XRmNvOThLVmZ6TTEwc3FaeVVET0V5ZGlSZTh6SUZMRTJ4cVZmNEVnejBDR2otellrZUhpMldFMGZPQkdDN0xKUnIyc0p6R1RJVWZnalRIc2lldlR3SnFoTDNLSVF1endJUXRjYURwSTNKSGZ4dklwaVNZdTVRMmFyaDhhTDM5TG82SlNNZDZzV1dqeg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzJtSkdfb3RJbklmTVRrRWR6c25FSlFNM0J6b3pFSldodEIzcXhES2t4ZzRzUG9hWmxvMDVIZVdNaVFyNTQ0cWotN1hibGdpbmVVZEExSklKRTVMMDM0ZE1CYU1HRUUzUmMyRWR4eEpzODlUZTBiLTRQbGNiRmxhV1g1bWZBZFJkeXZIa3B0ajgteUJYV21YXzZJMXI1LVEzN0xXVEhRZ2JVSEtTVHFTWVBmSmV1SmPSAb4BQVVfeXFMTjVRNGV5cWIzbG9nWHRaWk1tR2kzMVJ2dW5ZZzRoWUJzVldlMGQ5Q2I2NXVtTDNLb1c5NUgwaEZGQkNITWpRNUlrdnJ0WGE4RWk3a0dvLUFlTkVobHdSOEc3TjVUMjRudnpSdzdrSWJzRFdrN2FUNWVoR3BId1ZQT2R6RDdGVFJJNW92YnllbVZ2MUVSazlxMFhvMjhLSmwtMy1qYWlVamJROC04dkhKWkJaVGxiUGEzejhhSktQQQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 55,
+      "starred_questions": 16,
+      "unstarred_questions": 39,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Haryana: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 115,664,424. MPLADS utilization: 36.3%. Parliament attendance: 95.0%. Questions asked: 55. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:48.293793Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 55. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.923596Z"
 }

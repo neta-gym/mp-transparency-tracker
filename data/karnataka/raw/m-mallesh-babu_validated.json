@@ -4,16 +4,16 @@
     "constituency": "Kolar",
     "state": "karnataka",
     "party": "Janata Dal (Secular)",
-    "myneta_candidate_id": 1894,
+    "myneta_candidate_id": null,
     "slug": "m-mallesh-babu",
     "house": "lok_sabha",
     "sansad_member_id": 5655,
     "profile_url": null,
     "canonical_name": "M Mallesh Babu",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 49,
+    "age": null,
     "photo_url": "/mp-photos/5655.jpg"
   },
   "findings": {
@@ -22,80 +22,115 @@
       "constituency": "Kolar",
       "state": "karnataka",
       "party": "Janata Dal (Secular)",
-      "myneta_candidate_id": 1894,
+      "myneta_candidate_id": null,
       "slug": "m-mallesh-babu",
       "house": "lok_sabha",
       "sansad_member_id": 5655,
       "profile_url": null,
       "canonical_name": "M Mallesh Babu",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 49,
+      "age": null,
       "photo_url": "/mp-photos/5655.jpg"
     },
     "criminal_record": {
       "total_cases": 1,
-      "serious_cases": 0,
+      "serious_cases": 1,
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "Crime NO. 0221/2018 Bangarapete Police Station | Sec. 3,6,7, of Religious Institutions (Prevention of Misuse) Act1988",
+          "ipc_sections": [
+            "171H",
+            "149"
+          ],
+          "is_serious": true,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Principal Civil Judge (Junior Division) & JMFC Court Bangarapete, Kolar District",
+          "fir_no": "Crime NO. 0221/2018 Bangarapete Police Station",
+          "case_no": "C.C.No.255/19 dated 04-05-2018",
+          "other_acts": "Sec. 3,6,7, of Religious Institutions (Prevention of Misuse) Act1988",
+          "charges_framed": "Yes",
+          "date_charges_framed": "07 Mar 2019",
+          "appeal_filed": "Yes",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:32.714624Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 238631536.0,
-      "liabilities": 34492248.0,
-      "net_worth": 204139288.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1894",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.841458Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 74.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.71,
-      "released": 14.71,
-      "sanctioned": 4.23,
-      "expended": 3.52,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:24:22.005748Z",
-          "notes": "Official eSAKSHI REST API — Works: 83 recommended, 68 sanctioned, 2 completed"
+          "fetched_at": "2026-09-02T14:31:51.501234Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:26:22.217591Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:26:57.872276Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 83,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 23.9292997960571
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +145,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:25.561834Z",
+          "fetched_at": "2026-09-02T14:26:57.320788Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +153,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Demand for MSP Bandh in Kolar against mango price crash - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVkyTk5BVmU1ajg4a2hneDdHc01fNjJGUk8tMzVmaXlEY1NPekdCOWV3SS1kOUNTeU03WG1YUmRGREdGY0ZJUy0wNUQ2T0Z4ZlVscGUtdUJkRFNGa3g5a2cxeTJFYUhEcE9fVXdBUVM4OHI2bC1neUlubHZQeFMzaTNxRGppejFPakRhZ1cwcVR6OU5uTVJnZktPa3JUeS1MdG5FWmJpUWk1WVdyRVE5TC1oWUViQWRF0gHGAUFVX3lxTE4yRnh5ZUxvRFk0Y0p3b3QycXZ6NzZJb3g0dFFXZnpFeFFnZGs0Q2tYRnJ4Y0xGemNLWWw0V3pqdWxpRUEwbEMyNmRpUUtRbC1ieG1saUZnS1ljZTlpWHF0VHJYd1NMMVpMT1hJUzI3V0NnMWJfcS04ZS1RSnNiTlBQZ1pwNTIzQ1lEbEdrNXRYeHgyZVNBeDV3djk2UmVXUGJ3NXQ2SHJYaXkwbEJqY3VWdE9YLXIyX1MtN3p5ZHBiMVZCRS1QQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mango growers stage protests across Kolar district, demand MSP - The Siasat Daily",
+        "source": "The Siasat Daily",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXk1V2gtc0trZ19iZGhWVUVKZElVN3REMG9VaDZUd2RvLVFPUU1hNi1veUhNX2NFNUNxMVlGNjVMNUhBY3VxMG51dlgyNnFIbk10ZXhIN0tOQTd4a3ZzMm1LU1lUalpHRFVhRTBuakVYM0xWUGVEVnRQdFBfSTVFUjNPZHRmWFdoSi1pVFVQMlBtU0h5Ri0xRdIBngFBVV95cUxPOE1nS1NmOUY3YUN1akZHVEhXX0YwdGVKNlVjcElnT0ItaTV4TlRoTF9FTjQ0UG5RbHMtU3hpU056N3o2aE5qR3RvekJxUDltakRHRWdIazUzOERNazhvYmxTTHp4bjR6TG1XbkxnWFhTanJlSFE1OGI3V1IwV05nMFNaVTZLQUphUVpyMHd2Y0xHQjRoMWZrNW1vSzFHUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "JD(S) leader M Mallesh Babu demands direct train service between Bengaluru and Kolar - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFZ0WGFVV3VSU2hTVDVZS2EybEt5V0hYbzZ2RlplVVJoUnpIMzZORDQ3RFZ5empYV1c3cjhYcGpvNmFnSHM2ZElXYVVfVktpZTN0emhtWEhUMXF6M091R0JfaUh1V3pnbnNodmJubFZmWXVEeGE0Nlh6Q2ZaVGV0QzI1RGQ1R0c4NDRWRHF5ZVoyOC1tNEd3Q3NkLTVSLTlBSWdHempzMGZqUVJ5TWRKSFhYb0t0dEJraVQxTkU3R1I2YjBTSUdmQTBUeHNUTElJ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "My focus is on Kolar tourism and manufacturing units: Mallesh Babu - NEWSTRAIL",
+        "source": "NEWSTRAIL",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uLVk0aHI2Nk8wZTZraTJLX0YyQjU2NktGalp3Vjk0ejZ2T25nXzd5UzhnWGE1TVhPNmpHWGhrOURVM1JObmxydmtOdUwxLVF0T2RiUjFwSk4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kolar Lok Sabha constituency: Unkept promises rankle in this land of gold mine - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFRscDY0T1JkOU53MUZtajVwbWlTRmhWWDJJalNHMmZHbDNuZ01aRXFBdHo2ZlBxNmJISnYyaWNXbXdNalp5QmJRZmtyTjVQU3ZzR2ZzdzVIZTVaSXN1bXVLTWFtalJpSnp4STViMjNZRWYya29GUzVNR2Q4NVRBc25vVjB4WktTSHp1dUN4c3hHUFltbFhfc183SE5zWFpaM3hJUmJ5YUhIcm95NWlLQTN5WdIBugFBVV95cUxNUzJsTjZtcmdkSXdoeDhkcjZ3a29BcmY5WGhwTHloZzIwbjh0b1hvZmZsU29YMXBqbWJBVnZoQm1sOGoxTHBlWE05U2ZaTGFCb28teER3UnVxZzBxOEZ3eFZyRjV0WXpEZWx0dUttZ3RlZjZ3Y2tKQVZCcUkyeXozdnZDQjk1aTF0SC1lS2UxR3A3RE5lVUcwSV9HYXFTTUtiVVVGcmw0MlZOZWtfTS1sb2ZHaDlSTXBqX1E?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:20:54.504882Z",
+    "collected_at": "2026-09-02T14:32:15.509178Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +222,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.121041Z",
+          "fetched_at": "2026-09-02T18:38:06.620635Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +238,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.121053Z",
+          "fetched_at": "2026-09-02T18:38:06.620646Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +254,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.121060Z",
+          "fetched_at": "2026-09-02T18:38:06.620651Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +270,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.121067Z",
+          "fetched_at": "2026-09-02T18:38:06.620656Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +286,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.121077Z",
+          "fetched_at": "2026-09-02T18:38:06.620662Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +302,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.121084Z",
+          "fetched_at": "2026-09-02T18:38:06.620667Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +318,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.121092Z",
+          "fetched_at": "2026-09-02T18:38:06.620671Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,15 +356,23 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "HDK, Kolar MP meet AP CM Naidu, discuss Krishna waters - The New Indian Express",
+          "headline": "Demand for MSP Bandh in Kolar against mango price crash - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYmNMT29nWTIzZmNFekxuamhzOEd6RGl5QjRFM2dQOGR5TXlNcTdKVWFCcVpqZjAtQk9ZR1E5T2taN3k1NVBHVS0teTdSVFFXdkIxRUdkdUFtcllGZG9jTl96YkZTaDFPdDZsX2hiN19YZkpIaDBVQWRodDY1T3lZNW5odjVZdm9Ec2JkYW9iYXlXWVd2VWxEejFaNDNsLW5OV3JRaUplNkFJeEhSU0RBRVJIcU_SAcIBQVVfeXFMTjBaa1RwOURxdFdaR3VDX0dBSVJFX2oxMkNYcEJ5elRobWVFRll1dmVyVmVycVNxazlJNi1YNGYyeGJpWE4tYzRfWVFfaFFucUtEUHRyYjRhWXBpVUF4OXV6Z2dncmI3S0FOcWFFNHNmVFNOdEVfeFpFSVVxTDdjdDlGM0dVTHBidU9jY1JKX2hvdDVST1hmR3ZRbFludnZObG5XZ1JWWXJQd2V5WHNGRGFsTk9tY3VuamNIQXFsZVNpM1E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVkyTk5BVmU1ajg4a2hneDdHc01fNjJGUk8tMzVmaXlEY1NPekdCOWV3SS1kOUNTeU03WG1YUmRGREdGY0ZJUy0wNUQ2T0Z4ZlVscGUtdUJkRFNGa3g5a2cxeTJFYUhEcE9fVXdBUVM4OHI2bC1neUlubHZQeFMzaTNxRGppejFPakRhZ1cwcVR6OU5uTVJnZktPa3JUeS1MdG5FWmJpUWk1WVdyRVE5TC1oWUViQWRF0gHGAUFVX3lxTE4yRnh5ZUxvRFk0Y0p3b3QycXZ6NzZJb3g0dFFXZnpFeFFnZGs0Q2tYRnJ4Y0xGemNLWWw0V3pqdWxpRUEwbEMyNmRpUUtRbC1ieG1saUZnS1ljZTlpWHF0VHJYd1NMMVpMT1hJUzI3V0NnMWJfcS04ZS1RSnNiTlBQZ1pwNTIzQ1lEbEdrNXRYeHgyZVNBeDV3djk2UmVXUGJ3NXQ2SHJYaXkwbEJqY3VWdE9YLXIyX1MtN3p5ZHBiMVZCRS1QQQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Bengaluru Kolar Rail Update: JD(S) MP Seeks Direct Train - Deccan Herald",
+          "headline": "Mango growers stage protests across Kolar district, demand MSP - The Siasat Daily",
+          "source": "The Siasat Daily",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXk1V2gtc0trZ19iZGhWVUVKZElVN3REMG9VaDZUd2RvLVFPUU1hNi1veUhNX2NFNUNxMVlGNjVMNUhBY3VxMG51dlgyNnFIbk10ZXhIN0tOQTd4a3ZzMm1LU1lUalpHRFVhRTBuakVYM0xWUGVEVnRQdFBfSTVFUjNPZHRmWFdoSi1pVFVQMlBtU0h5Ri0xRdIBngFBVV95cUxPOE1nS1NmOUY3YUN1akZHVEhXX0YwdGVKNlVjcElnT0ItaTV4TlRoTF9FTjQ0UG5RbHMtU3hpU056N3o2aE5qR3RvekJxUDltakRHRWdIazUzOERNazhvYmxTTHp4bjR6TG1XbkxnWFhTanJlSFE1OGI3V1IwV05nMFNaVTZLQUphUVpyMHd2Y0xHQjRoMWZrNW1vSzFHUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "JD(S) leader M Mallesh Babu demands direct train service between Bengaluru and Kolar - Deccan Herald",
           "source": "Deccan Herald",
           "severity": "low",
           "verified": false,
@@ -298,27 +380,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Almatti dam height row: Andhra CM objects to Karnataka’s plan, complains to Centre - The Federal",
-          "source": "The Federal",
+          "headline": "My focus is on Kolar tourism and manufacturing units: Mallesh Babu - NEWSTRAIL",
+          "source": "NEWSTRAIL",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWM5M0hnLTI4MENNejZUY3FsYURqOTBVbHRjSDB1RnNOMFdtZ1F6MVFxSndkUjlwSVVzb1pfcW9RM1J0R29Od2x6UmdCM1FLRWxYVEpCLXktcjM0TXBnMzh3OHR1R2ltVUprQWFpRHBGdV9FZUdXOUNudU9iTEc3SG4ya2VPbVdQWXdCeFFUVWctQXpUQjNxWGc4U1RCdzRjcVdLQ0I0UmFjTG5sMjM4WDlzZDY2ZmJKeFVXcjRqUG5PQmg4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uLVk0aHI2Nk8wZTZraTJLX0YyQjU2NktGalp3Vjk0ejZ2T25nXzd5UzhnWGE1TVhPNmpHWGhrOURVM1JObmxydmtOdUwxLVF0T2RiUjFwSk4?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Rajnath Singh to inaugurate H125 helicopter unit in Kolar's Vemgal on Feb 17 - Deccan Herald",
-          "source": "Deccan Herald",
+          "headline": "Kolar Lok Sabha constituency: Unkept promises rankle in this land of gold mine - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0NvNkdJVU9pNUJoTVIxRUNfTVdEeldwUG5PNGxMSFJ5YkxNM2ZZMDhLZk4xTF9pYzFKbVYtZFBIbWU2dkpocTRjNDRsaF9SOERWeUg0YjU4ZUVacEF3SzdyTmpIRUktOEFReGlVU2w3RldQQ21KekdwYmpXSnBIblBybFlKUnl4RU5yVmJwYXRHakE5blFqXzhqWm9IRGpaa2tPbGRoelJoOEpidTBqcEZ1NGZxODZScTdXN1JfaXpHZENHbEtV?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Parliament of India : LoK Sabha Member of Parliament – B - Sarkaritel.com",
-          "source": "Sarkaritel.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkExcmJuRmpsOUwzbF9zOTdRdHF3OGdoODNtX1FSYjBXMGFVVjdUSURLWnpNRXZFODNjSzMtUGRrQUpmVURCWmxGOGk5M2xRMlZ1SzB0eTdTTXNQSm1PRVZLQ01DV0t6N0Q4akpjV2V5akNvcEpGMzcxNVdyUTVpVW1XOGlzQUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFRscDY0T1JkOU53MUZtajVwbWlTRmhWWDJJalNHMmZHbDNuZ01aRXFBdHo2ZlBxNmJISnYyaWNXbXdNalp5QmJRZmtyTjVQU3ZzR2ZzdzVIZTVaSXN1bXVLTWFtalJpSnp4STViMjNZRWYya29GUzVNR2Q4NVRBc25vVjB4WktTSHp1dUN4c3hHUFltbFhfc183SE5zWFpaM3hJUmJ5YUhIcm95NWlLQTN5WdIBugFBVV95cUxNUzJsTjZtcmdkSXdoeDhkcjZ3a29BcmY5WGhwTHloZzIwbjh0b1hvZmZsU29YMXBqbWJBVnZoQm1sOGoxTHBlWE05U2ZaTGFCb28teER3UnVxZzBxOEZ3eFZyRjV0WXpEZWx0dUttZ3RlZjZ3Y2tKQVZCcUkyeXozdnZDQjk1aTF0SC1lS2UxR3A3RE5lVUcwSV9HYXFTTUtiVVVGcmw0MlZOZWtfTS1sb2ZHaDlSTXBqX1E?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +426,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 6,
+      "starred_questions": 1,
+      "unstarred_questions": 5,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 10.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +442,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +473,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +500,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 238,631,536. MPLADS utilization: 23.9%. Parliament attendance: 100.0%. Questions asked: 6. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:49.122082Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (1 serious), 1 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 6. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.621375Z"
 }

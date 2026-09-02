@@ -4,16 +4,16 @@
     "constituency": "Ramanathapuram",
     "state": "tamil nadu",
     "party": "Indian Union Muslim League",
-    "myneta_candidate_id": 234,
+    "myneta_candidate_id": null,
     "slug": "navaskani-k",
     "house": "lok_sabha",
     "sansad_member_id": 4962,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 44,
+    "age": null,
     "photo_url": "/mp-photos/4962.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,97 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "49/2019, Kamuthi Police Station",
+        "ipc_sections": [
+          "143",
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Judicial Magistrate Court No.1, Ramanathapuram",
+        "fir_no": "49/2019, Kamuthi Police Station",
+        "case_no": "STC NO.2869/2022",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:28.582433Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 761430420.0,
-    "liabilities": 63104822.0,
-    "net_worth": 698325598.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=234",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.559775Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 89.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.16,
-    "expended": 3.66,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:36.456946Z",
-        "notes": "Official eSAKSHI REST API — Works: 101 recommended, 70 sanctioned, 19 completed"
+        "fetched_at": "2026-09-02T14:54:55.884987Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:50:55.219776Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:50:55.217286Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 101,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 24.89795918367347
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +127,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:30:06.410011Z",
+        "fetched_at": "2026-09-02T14:50:55.216284Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +135,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Income suppression: Probing allegation against Ramnad MP Navas Kani, says I-T dept - DT Next",
+      "source": "DT Next",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0lreU5kSXh1SV9Pdm5xcDl2LWc1OGR2cUFrUGtGX3NBdHo5emQxcHdMOXN0X3hKamVVNjZyQjJKUHBqRGdCV2JEcnlabmZhNHdxR3JTN01HMVhYZE5aY1Jic3ItbndlbV9BNzlRLXZQOTJNZDRrLVQ0OFNyV0o4U1FwSGhKYzDSAZQBQVVfeXFMUEFQQlJwdlZCbm01YnI5STBsdWE0RkZwWVV1aXVNNi1EX2o2NzJFaENWREhsbTEwTHJ2V0ozSkVidWlvREx5MjQ3WV82djluRmR3ZDdHSlFsTDVZd2lHV0pVZGFhRHVjN1FkSWZXVUpYRzVsOTNXQjBqQkxJWUs2QUZYOHgyVzhodVdnVldHbHhJbnpyUw?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "CBI files report on asset case on MP Navas Kani - DT Next",
+      "source": "DT Next",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM2lvT3QxNUpyV1M0RENHdjJDbEtYVWhiazRkTWU3TjlkOTZ4aUMzQi1yOEVLc3N4RVJ5d0d4OXVvZUFjSVdqUnFwODI0WjBlLWcyM2V0MFFyUTZNX3ZpcnZkNmlKWFhCemRDenBPMFNnQlh4ZFotbXhsZWQ0NjJEZUFKQ01USERfTFHSAZcBQVVfeXFMUFVmbWpOWVZkWTlPVlRaRFdBYTF3b096bnJrckE3S3BUR2ZmaWt5YnFGVGxXeW9MQWZJU2tvUnZkc3dhSmY4N29YdXFHREhBQzNXbXEwc2lQSWVZLVRTZW82NjhsYzMwVkp1dW1tZTNSSlFxLWtQQlAtcGh4QmtMY1NDVEZpX0d5bWVSOWRSbHhaYkI3Ukl0UQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Will take legal action against Ramnad MP, I-T dept tells Madras HC - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmJoZC1PRlphZGhDQy14WERBTnFFWXJZY0J5WXFsbktHWFl2UE5SRTBrbXVPT19NYUNsR3psSnE3ZXQtMV9hNDVkT2tuYnZwWlZnZ1NCQzYtZWY3dWVXTGVMNm1OSWVoMjFsTDlIWlZOb1k3eUJlMXVvVG5sZ01YNjZ3R0lQTDh1S191b3ZfeW1OVzl0MlpybnA2UWVXbFZhMHNGYy1yWFJJcHRCVVNVTWx0MVNqYVU3WTdZZVJHNUNQR3VLaVYzZThycnBGb0RpRndyYTFiY9IB3AFBVV95cUxPRU9kVkNvTVBYaHdYaHpxc0VtU3NkRlk4UzVGV2dKcTItT1QycnJKQWRsUW1JT3lsRVl2TkpGZkk5SjZkRDB2NFNsZTU5VEdVTFNwZkM0WmFjQ0Y2OUtOUUhqaEJjc0xuejlFS2xfd0lwOERablphdnBlUjBxX1lqTWFJT0U0dnVHVVJuRzVVOWV1ekJxdHZoeHFoVWd5dHB1blhFNVBCMzhxX3pDSGZUMXZSc3dkV01NdTFkazF1VTVXVk9pcjd6cXpVNEhBQUktQXhDaVBidjVXSU5z?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Madras High Court refuses to reject petition filed by O. Paneerselvam challenging Navas Kani’s election - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObG0wX0dhQjFlaTdYa1M0Ulo1ek5CUm5SV2FyVFNxUHBTS1BXQWtDSHdULWhWdFN6OElrVzd4bUZuVk9VU05NM2RSODFQa3ppNzFlMGZqZkQzc2RIcVhNbXZoYktOQVozMnhkekQ1ak90SHE5YkVGZ2lwMXotakVNLU1WY0pCdVB6clV5R3V0WmI0SmdfOFJzSmZqUUw0UnNwektmaTRrRHA2U21oMm5uYVJZV1ZMVnlwLXVXb2djSmE0YjV1c2pjcmI2NFV5M3diWjBLT0kyenNaR1FJZWRpN2JBS0VWUzJnYVp5LWR1eXd6OWt0TlJXcDZvWURQNDDSAYYCQVVfeXFMTTdYZGg2clpRMmw5VDE0X0Q2SHZwSkhVS0RvLUd5RUtOYVlNcHBIZWhoT01IdTBBcXdRRi0yZC1aT1JreE90SWcweFB1dEFZWVpQcFNpWEtDcjRyMldxQ2lGODRWRENDcmVWdDFLamRHdm9NYXhDYllrR2xFSGZKdHgycVBXX041R1kySEZKT1dGQmtNeGwtb2ozdjZGd3YtVU1MZnZScGZnNlMzMFhieGtZMFhvQnYwZDZJSFlxaUZyOURjVWNhRDJSZHpCVk5DV1JtZ0hxY1hDUG1ZaHFzVzlxUmhtVXVHMGNHbklNcERCaERtalVKQUc5dUk2TEgwTkxzbXNZdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Prove I had non-veg on sacred hill or quit, Muslim League MP dares Annamalai - indiatoday.in",
+      "source": "indiatoday.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMFNMdW9FdU9SeGRWMzNHelFfQ091NjUxWXFhUDlLRGFSY1dTbTB2U1U2WExHZ1paYm9oQzViYmVnTmNhcU5WdG10RVZHQzBQWHVSaHRWOUJHamRyanR1RXJzQ0xTQUQ0UzNTaVlKTnFhbm1aN0x3TGNxWlkwbGpFWDdkZ1Fwa2tiemZ3UnJ1Z01UZS15aVZlRjZlZmtIV1V6bVlsd0NsOGN1TEJ0eHFuUmcxT3BVRjRKWEZtQnhBaUhHZkFYbmFqekVPT2RLU05WLUpleDZiOWVHaVFIV2pBRzN6Tk16aVpPdWZENk1jOUlqb3Z1eTkxWTRNWWJISXNOb3BaVmxYNWvSAY4CQVVfeXFMTXlOb09JSmlrS3hhREZDZlFDM2d1dWVFRWVBQ29iQ0F2RWxaVmxQNVgtejU4VFF3WHBXcWgzTHYyOUxsR244X1NxUlNDRG5EbEZ1cXg5NS1lVlhWR3ZzZ0swYVl6WjdxZlo1RTBXTzdZaTRFZS1oQVFXMXRORFBDNWlQd251Umh0enBzZDhka0cxNHhPQkNIU0hnREZ1SzdWZmRaVDdmRjM3S0N1eXprajhRek1FTHJQMTRQTWlDcGJPZ1F2ZHdfY1llNE9LNlp5SkxWRWpYYkllRzJRbG5SUUhIN2F6UWhMaWVUTVUyRXVjdEY0dXRfQjEyMlkxTmt0LXIzekRHYWRWR1NvWnZn?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:31:06.522286Z",
+  "collected_at": "2026-09-02T14:54:55.886194Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +204,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.531957Z",
+        "fetched_at": "2026-09-02T18:38:10.035713Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +220,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.531966Z",
+        "fetched_at": "2026-09-02T18:38:10.035725Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +236,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.531971Z",
+        "fetched_at": "2026-09-02T18:38:10.035731Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +252,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.531976Z",
+        "fetched_at": "2026-09-02T18:38:10.035736Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +268,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.531982Z",
+        "fetched_at": "2026-09-02T18:38:10.035742Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +284,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.531986Z",
+        "fetched_at": "2026-09-02T18:38:10.035747Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +300,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.531991Z",
+        "fetched_at": "2026-09-02T18:38:10.035752Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +325,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@KNavasKani",
+        "url": "https://x.com/http://www.twitter.com/@KNavasKani",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/@navas Kani.K.",
+        "url": "https://facebook.com/http://www.facebook.com/@navas Kani.K.",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:51:16.916847Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,12 +363,12 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Investigation against MP Navas Kani has begun, Income Tax Dept. tells Madras High Court - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
+        "headline": "Income suppression: Probing allegation against Ramnad MP Navas Kani, says I-T dept - DT Next",
+        "source": "DT Next",
+        "severity": "medium",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRG1UT2JYM0VZODJwc1pwWWhIemFkc3J2NG9GemlyRGUwOVZESU1zNXFVM2J0WDlhRm1DZWM3eHlSWXRoQXpuSkVyU0VsZkZiWGdTcHdVS2dUcGlDd2RGM3FvUXBvRVFzdmRBWDg5cXBWMHJEVkxhWHljV2tLTGx3Rnc0cVRoaDhDRGpjSFlQSUxIMGJRNVhSVW96QXZyOTd3cEg3QS1rSHdBRWdZd1k0cEtCMktnYTB0Y2hFYlRyeDJWM01mOV9vZk1MVy0zdko2UjF3RnN6T3BZOFZHOG96T201YWxTd3N6V1ow0gHyAUFVX3lxTE9tMzliU2FZT244VjNHbS1QdzJYLVlSdF9RQWJXWENUM0lLeFQxMUx5WVZVdUtuaHZmRjd0LWtRd09uYUJRclNUUmdvaFY2d2k5dHkxa1hhODlpWndQd3VFd2ZLSFNXREtXTGxncEpuXzB4VkxCdmtTWVh5cm9SR0NNQzVyN2hSdGRoUXlHZHlkNFJhSkgzd2ZqdmdYV0pHMnM3OUg3YTVRaGpPbFBfRkJtT3VWUXJmVFhrc3M5RlRELVdFYWFGNDVSRzlhcnZRdHo3Nm5nUS1ka3FabHF0S1ZPYWpkdWxwcHNLUWtQZWx2Q0RB?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0lreU5kSXh1SV9Pdm5xcDl2LWc1OGR2cUFrUGtGX3NBdHo5emQxcHdMOXN0X3hKamVVNjZyQjJKUHBqRGdCV2JEcnlabmZhNHdxR3JTN01HMVhYZE5aY1Jic3ItbndlbV9BNzlRLXZQOTJNZDRrLVQ0OFNyV0o4U1FwSGhKYzDSAZQBQVVfeXFMUEFQQlJwdlZCbm01YnI5STBsdWE0RkZwWVV1aXVNNi1EX2o2NzJFaENWREhsbTEwTHJ2V0ozSkVidWlvREx5MjQ3WV82djluRmR3ZDdHSlFsTDVZd2lHV0pVZGFhRHVjN1FkSWZXVUpYRzVsOTNXQjBqQkxJWUs2QUZYOHgyVzhodVdnVldHbHhJbnpyUw?oc=5",
+        "sentiment": "negative"
       },
       {
         "headline": "CBI files report on asset case on MP Navas Kani - DT Next",
@@ -280,28 +379,28 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Will take legal action against Ramnad MP, I-T dept tells Madras HC - The Times of India",
-        "source": "The Times of India",
+        "headline": "Will take legal action against Ramnad MP, I-T dept tells Madras HC - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmJoZC1PRlphZGhDQy14WERBTnFFWXJZY0J5WXFsbktHWFl2UE5SRTBrbXVPT19NYUNsR3psSnE3ZXQtMV9hNDVkT2tuYnZwWlZnZ1NCQzYtZWY3dWVXTGVMNm1OSWVoMjFsTDlIWlZOb1k3eUJlMXVvVG5sZ01YNjZ3R0lQTDh1S191b3ZfeW1OVzl0MlpybnA2UWVXbFZhMHNGYy1yWFJJcHRCVVNVTWx0MVNqYVU3WTdZZVJHNUNQR3VLaVYzZThycnBGb0RpRndyYTFiY9IB3AFBVV95cUxPRU9kVkNvTVBYaHdYaHpxc0VtU3NkRlk4UzVGV2dKcTItT1QycnJKQWRsUW1JT3lsRVl2TkpGZkk5SjZkRDB2NFNsZTU5VEdVTFNwZkM0WmFjQ0Y2OUtOUUhqaEJjc0xuejlFS2xfd0lwOERablphdnBlUjBxX1lqTWFJT0U0dnVHVVJuRzVVOWV1ekJxdHZoeHFoVWd5dHB1blhFNVBCMzhxX3pDSGZUMXZSc3dkV01NdTFkazF1VTVXVk9pcjd6cXpVNEhBQUktQXhDaVBidjVXSU5z?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Tamil Nadu: Plea in Madras High Court insists I-T dept probe into Navas Kani’s assets - The Hindu",
+        "headline": "Madras High Court refuses to reject petition filed by O. Paneerselvam challenging Navas Kani’s election - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOblV0dDdZMHBnT0FkSHZSTlhORmJoNHJzY3dRZFhWOWczUDVrMlNheW1nMjNha0I4cnQ5MS1DVHlhNVpMNnF1VHM3X2ZKQWlhRktoLTNHZEFiUWZHQ0owUldFbm1pbG9TcjN1ZktXTFoxRHg2VDB0by1DOXZ2bVlKTlQxZFpYOWlaRkQwOW51NkNQYmNtLThRVHkySl9pSmoxOHJvRXhLTXRCdjVtcW80cnU3VFlJc2drV2VjRkIyUUttU1NNNko5SURZWTFpenptT3d5OFR2RFFOdXNQbWM1dUxTSE9NN3F2b3YwV3NtSEnSAfcBQVVfeXFMTTVJU3JIYUQwT0h0Ymx2cFQ5Q1VCUk1qSmdmaWFKMlJBaExHVkNCTERZcVB1a0RmNEhYZHd6bGVwNG5yOU93R1FxcG9sVUltN3pjNTIzVlpjblY1ZFZXcy0wUy1WNXN6WUZ4UVVYc254YW83bVFSTkp2ZUZmMFAxU056NjkxWG9PS1pXYlplc1BVeW9ZYTNKb3hmOWpCOEFIcGR2TEIzN3k2NG1xT1FRNU5FRU1nMDBQdEluT0hWcE5ualFUNzdZanFLQ0NMcGZNejJJLVoxa1lBZmM4alhmT2JfbUE3eEwyWE1VMnpCTUtmZFZHQ0U0aw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObG0wX0dhQjFlaTdYa1M0Ulo1ek5CUm5SV2FyVFNxUHBTS1BXQWtDSHdULWhWdFN6OElrVzd4bUZuVk9VU05NM2RSODFQa3ppNzFlMGZqZkQzc2RIcVhNbXZoYktOQVozMnhkekQ1ak90SHE5YkVGZ2lwMXotakVNLU1WY0pCdVB6clV5R3V0WmI0SmdfOFJzSmZqUUw0UnNwektmaTRrRHA2U21oMm5uYVJZV1ZMVnlwLXVXb2djSmE0YjV1c2pjcmI2NFV5M3diWjBLT0kyenNaR1FJZWRpN2JBS0VWUzJnYVp5LWR1eXd6OWt0TlJXcDZvWURQNDDSAYYCQVVfeXFMTTdYZGg2clpRMmw5VDE0X0Q2SHZwSkhVS0RvLUd5RUtOYVlNcHBIZWhoT01IdTBBcXdRRi0yZC1aT1JreE90SWcweFB1dEFZWVpQcFNpWEtDcjRyMldxQ2lGODRWRENDcmVWdDFLamRHdm9NYXhDYllrR2xFSGZKdHgycVBXX041R1kySEZKT1dGQmtNeGwtb2ozdjZGd3YtVU1MZnZScGZnNlMzMFhieGtZMFhvQnYwZDZJSFlxaUZyOURjVWNhRDJSZHpCVk5DV1JtZ0hxY1hDUG1ZaHFzVzlxUmhtVXVHMGNHbklNcERCaERtalVKQUc5dUk2TEgwTkxzbXNZdw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Income suppression: Probing allegation against Ramnad MP Navas Kani, says I-T dept - DT Next",
-        "source": "DT Next",
-        "severity": "medium",
+        "headline": "Prove I had non-veg on sacred hill or quit, Muslim League MP dares Annamalai - indiatoday.in",
+        "source": "indiatoday.in",
+        "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0lreU5kSXh1SV9Pdm5xcDl2LWc1OGR2cUFrUGtGX3NBdHo5emQxcHdMOXN0X3hKamVVNjZyQjJKUHBqRGdCV2JEcnlabmZhNHdxR3JTN01HMVhYZE5aY1Jic3ItbndlbV9BNzlRLXZQOTJNZDRrLVQ0OFNyV0o4U1FwSGhKYzDSAZQBQVVfeXFMUEFQQlJwdlZCbm01YnI5STBsdWE0RkZwWVV1aXVNNi1EX2o2NzJFaENWREhsbTEwTHJ2V0ozSkVidWlvREx5MjQ3WV82djluRmR3ZDdHSlFsTDVZd2lHV0pVZGFhRHVjN1FkSWZXVUpYRzVsOTNXQjBqQkxJWUs2QUZYOHgyVzhodVdnVldHbHhJbnpyUw?oc=5",
-        "sentiment": "negative"
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMFNMdW9FdU9SeGRWMzNHelFfQ091NjUxWXFhUDlLRGFSY1dTbTB2U1U2WExHZ1paYm9oQzViYmVnTmNhcU5WdG10RVZHQzBQWHVSaHRWOUJHamRyanR1RXJzQ0xTQUQ0UzNTaVlKTnFhbm1aN0x3TGNxWlkwbGpFWDdkZ1Fwa2tiemZ3UnJ1Z01UZS15aVZlRjZlZmtIV1V6bVlsd0NsOGN1TEJ0eHFuUmcxT3BVRjRKWEZtQnhBaUhHZkFYbmFqekVPT2RLU05WLUpleDZiOWVHaVFIV2pBRzN6Tk16aVpPdWZENk1jOUlqb3Z1eTkxWTRNWWJISXNOb3BaVmxYNWvSAY4CQVVfeXFMTXlOb09JSmlrS3hhREZDZlFDM2d1dWVFRWVBQ29iQ0F2RWxaVmxQNVgtejU4VFF3WHBXcWgzTHYyOUxsR244X1NxUlNDRG5EbEZ1cXg5NS1lVlhWR3ZzZ0swYVl6WjdxZlo1RTBXTzdZaTRFZS1oQVFXMXRORFBDNWlQd251Umh0enBzZDhka0cxNHhPQkNIU0hnREZ1SzdWZmRaVDdmRjM3S0N1eXprajhRek1FTHJQMTRQTWlDcGJPZ1F2ZHdfY1llNE9LNlp5SkxWRWpYYkllRzJRbG5SUUhIN2F6UWhMaWVUTVUyRXVjdEY0dXRfQjEyMlkxTmt0LXIzekRHYWRWR1NvWnZn?oc=5",
+        "sentiment": "neutral"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -334,15 +433,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 68,
+    "starred_questions": 20,
+    "unstarred_questions": 48,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +449,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

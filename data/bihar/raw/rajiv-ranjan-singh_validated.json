@@ -4,16 +4,16 @@
     "constituency": "Munger",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": 5060,
+    "myneta_candidate_id": null,
     "slug": "rajiv-ranjan-singh",
     "house": "lok_sabha",
     "sansad_member_id": 4134,
     "profile_url": null,
     "canonical_name": "Rajiv Ranjan Singh",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 70,
+    "age": null,
     "photo_url": "/mp-photos/4134.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Munger",
       "state": "bihar",
       "party": "Janata Dal (United)",
-      "myneta_candidate_id": 5060,
+      "myneta_candidate_id": null,
       "slug": "rajiv-ranjan-singh",
       "house": "lok_sabha",
       "sansad_member_id": 4134,
       "profile_url": null,
       "canonical_name": "Rajiv Ranjan Singh",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 70,
+      "age": null,
       "photo_url": "/mp-photos/4134.jpg"
     },
     "criminal_record": {
@@ -42,59 +42,73 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:25.386145Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 138228639.0,
-      "liabilities": 2915378.0,
-      "net_worth": 135313261.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5060",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.322106Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 64.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
+      "entitled": null,
+      "released": null,
       "sanctioned": null,
       "expended": null,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:20:59.741948Z",
-          "notes": "Official eSAKSHI REST API — Works: 1 recommended, 0 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T15:10:45.753857Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:07:06.033035Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:07:06.030853Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 1,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:32:45.828412Z",
+          "fetched_at": "2026-09-02T15:07:06.030043Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Munger election results 2024 live updates: JD(U)'s Rajiv Ranjan Singh wins with over 80 thousand vote mar - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbVlIaFVHUDltTEFCS3lORnVMbDNpY2VwT0tUWV9PZW9BUm82c2d0UHQtd2tSWWxvNnlGaUdwbUJlTEJHX21CcDZHZGk3OEJEWHhra0ZfckpTbmdEbDBUb3FFbmR4aHJUQjZobk9tWC1zR2NmeGN4ck1kNUpraEZRY1BNanNhb3NhRHdQT3Q2OHRKenBFZmVBb2ZhdEdrcW1JMkVZN1YxZGVDYlVJdWhCZzFOb2FqZl9odWQ5YWxJT2FoVmdzc1JZNnZadWdzdzh4V0hJZWZ6b3JHZWRlUFpIRHdDbU5JbGFWT1hoSkp5ZXR5QVNuSFQwV0pVaXh0N05SR2s2a0ZPNkdHVzF3aEtRYWxUU1ZKR1Fs0gGeAkFVX3lxTE4yRF9JYk96c0wxUzdqbHlpZkp1Y3VzekwxenVzMUdRMUxpRHJZWXIxMG5vdF9rcm9FN1JqNE9SQkRUNi1uOElndXZLekxfaTY0SlRSb3Q3cWo5Zm5ackVHZW95M044ODBFb01fMW95R3VxdDk4bGN1MkRiaTBuT3lpLWhCZU9lMkZSc0JDMnZfNzI2LWtHVUNuaUlnR19YVjRBRWczclNpYlBiRjc0d0EwN1BkR1Y3QWdvUVJZam8wZzVzT2x3TUFaZFpvOEVUQTk5VjBsMFAxc1hmVVU2MHFMRVB1U1RrOEd2WGRnSE94bUxtUUhSRzBmendtY3V0V2NlNHRUaC1aaU92RVpRcWNkT1hTeWQ1Q1BBU2ZQNEE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Munger constituency: JD (U) sitting MP Lalan Singh to face gangster Ashok Mahto's wife in Lok Sabha polls - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRnJMcHVwTFoyQk42QTNxVktPNFNJWDFzVjE3YXNfZWF3Ql9wUlRxTEgtaEdJeUVJNWR4ZVdncjhmYzllVkhwVWp0akZtNDl2bm5EWlBEZzRlVlpDYkwzZ2tBMEpKY3FVZVNQaXlMRzJiZExDR2FKX243bjNLeEhFNWpUYVhuT2xFd1ZPeDlrckdRRHg4UFZPMGRvdmFfQ0JxbVpHZmRXUVJ3ZjZKQ0xVX3p5NllJWUZQTlZ0TDQ0eERoNTBWLXVZM1NaOXMyVmtFSkEtTWxQOVUzdnVlSmVZV3RnYVdXU1lCWWhJR29NWlFDSm8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Three Months Before Becoming Union Minister, Lalan Singh Gifted Nitish Kumar’s Son Lavish Patna Apartment - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzBsWGtpMld4V013NU4wYVdHU0laU1p3azhXLWFObVFaSlBIWHZxVnBwS2NYUzVkdUtJalptN1RVLXNuSU9fbFo1bmQ4NnVreG1MMUtMUDQ1b0poeGhNOWlmOFZkQk1VNFhDUUF6RVFocDZtbkhTU1lqbDR0aUN3ZkFEdEVrOTFpS2NfdzgzaF96LVFxTDFjREEydEdFenEyX0HSAacBQVVfeXFMUFlDVGdWR0JBM09FdDd0OXVGRks1VW9VUkg5N1pCYTJLUzhJVmZKRTlwSkQwMkFQc2tPZ3pyUnhoY0lNMnFsQnROR3BubnZrZVpNQ2FTM0xpNVV3NC1lYmNDV2d2VzlFQ3lBdFNuYzJlVUY1QjBqYXB0dUw4WmxTeFhPdGVOUmpSVmJfTkpKU3FvempCZW9sRGdRQ2taNlA5dnZ3OE56Tms?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajeev Ranjan Singh: First-timer known for his political acumen - Livemint",
+        "source": "Livemint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSFpERDZVT0wxRFFsRGVkeDVQeDhLZFVESC1Md05jYlBYdG5VTmhVVHFLQjU2M0JUMTFVTjd3RzJ3SmZtZzM2dzF3a29Ha1k1QjhTNHZoM2prTEV6dGVhWE1fdkhQS1FiWl8ydmhmcTZTZDFoWlYybXRRSkhmVk0wbjB3QWZFZ1MxajVtbFAwY2FzaldCd3pjWFNXTnR6VWFPTDVGWUZRNnZ1aU9EMTl5UXEyZlViSW5pT1hDbFNR0gHDAUFVX3lxTE5rUzdQR1NIZGVkNmNEMGZtVk10T2VEeGhBdEw1bDViZUx3dFRyY1pSTlBUekx3VUF1TlFCTW1xR3NfaUdLdXVjOUx4cktDVTVielVCRko0TWZpRnIzV0hrMVRKejVqSWQybUdXRmFoU0Z6UGhBSF95dlI4TnIwNTNfZmJadGhSZkRkd2Jmam9PRmpNRnY1SnNoNlhsQUQtRXZuWjFES1BBTW1WWnFucldvejFHWGlrMTZWT3Q1aXYzeC11MA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Unsettled by Nitish Kumar flip-flops, JD(S)’s Lalan Singh banks on Modi in Bihar’s Munger - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXhCMERoMW40eUQ3T2hveWMxVUZnT3NRSmdHaVdUazZHY0hLYWdyb3hnOW9jTmM3VlBycVpEMXFXT0NwVDFoNmtnbnEyazFDeV96a2I1ZDdqZS0tWlZQR2JBaG9wX0FHNTlfMHFkRFpvdkNtQ1JpUGlPUXVqeUE5MUVCazQtc3lKWU11eVZaRTRLN0lXU2JhVGZKdEdtLVZIa29jWFE5ODd6N29sVVFzbm5rZDk3X0stUmszYWl5QXdmOG1wRnlVODFXMGdEVmI4QnJYcGJTYktRejBJWHfSAeQBQVVfeXFMTlFodW1MMHpSbmN2ZEQ5QWNTZ2VDLTlxckhrbW8yVlpIalRmWFp2YkZuVEZUUnBUTVBWYlA3c0dLdGpYT0FYQW8tbjVXdGlldllXU1ViZDE4Yk5fMXlzQmhhOEpXQTgyd1AxMkxjM1NsNjdDOC1qY2hzek1mV3NiaVA0R2l6QmNVQzRNeXhGWXlwa1hVeUdxMmZMY0VQMkg1a0tENFVtM0pkN0ZORVFNeWhHMDZSNHY0S25RX191T0E2WGUwdk41Sm5iTUp0TVJwNk83am80V0JETDBVd3U5Y1l0MFNB?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:33:47.796300Z",
+    "collected_at": "2026-09-02T15:10:45.754691Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.357369Z",
+          "fetched_at": "2026-09-02T18:38:04.818801Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.357378Z",
+          "fetched_at": "2026-09-02T18:38:04.818812Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.357384Z",
+          "fetched_at": "2026-09-02T18:38:04.818818Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.357388Z",
+          "fetched_at": "2026-09-02T18:38:04.818823Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.357393Z",
+          "fetched_at": "2026-09-02T18:38:04.818828Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.357397Z",
+          "fetched_at": "2026-09-02T18:38:04.818834Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.357401Z",
+          "fetched_at": "2026-09-02T18:38:04.818839Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.357405Z",
+          "fetched_at": "2026-09-02T18:38:04.818844Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -298,14 +351,6 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Three Months Before Becoming Union Minister, Lalan Singh Gifted Nitish Kumar’s Son Lavish Patna Apartment - TheWire.in",
-          "source": "TheWire.in",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzBsWGtpMld4V013NU4wYVdHU0laU1p3azhXLWFObVFaSlBIWHZxVnBwS2NYUzVkdUtJalptN1RVLXNuSU9fbFo1bmQ4NnVreG1MMUtMUDQ1b0poeGhNOWlmOFZkQk1VNFhDUUF6RVFocDZtbkhTU1lqbDR0aUN3ZkFEdEVrOTFpS2NfdzgzaF96LVFxTDFjREEydEdFenEyX0HSAacBQVVfeXFMUFlDVGdWR0JBM09FdDd0OXVGRks1VW9VUkg5N1pCYTJLUzhJVmZKRTlwSkQwMkFQc2tPZ3pyUnhoY0lNMnFsQnROR3BubnZrZVpNQ2FTM0xpNVV3NC1lYmNDV2d2VzlFQ3lBdFNuYzJlVUY1QjBqYXB0dUw4WmxTeFhPdGVOUmpSVmJfTkpKU3FvempCZW9sRGdRQ2taNlA5dnZ3OE56Tms?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Munger election results 2024 live updates: JD(U)'s Rajiv Ranjan Singh wins with over 80 thousand vote mar - The Times of India",
           "source": "The Times of India",
           "severity": "low",
@@ -314,27 +359,35 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Rajeev Ranjan Singh: First-timer known for his political acumen - Mint",
-          "source": "Mint",
+          "headline": "Munger constituency: JD (U) sitting MP Lalan Singh to face gangster Ashok Mahto's wife in Lok Sabha polls - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRnJMcHVwTFoyQk42QTNxVktPNFNJWDFzVjE3YXNfZWF3Ql9wUlRxTEgtaEdJeUVJNWR4ZVdncjhmYzllVkhwVWp0akZtNDl2bm5EWlBEZzRlVlpDYkwzZ2tBMEpKY3FVZVNQaXlMRzJiZExDR2FKX243bjNLeEhFNWpUYVhuT2xFd1ZPeDlrckdRRHg4UFZPMGRvdmFfQ0JxbVpHZmRXUVJ3ZjZKQ0xVX3p5NllJWUZQTlZ0TDQ0eERoNTBWLXVZM1NaOXMyVmtFSkEtTWxQOVUzdnVlSmVZV3RnYVdXU1lCWWhJR29NWlFDSm8?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Three Months Before Becoming Union Minister, Lalan Singh Gifted Nitish Kumar’s Son Lavish Patna Apartment - TheWire.in",
+          "source": "TheWire.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzBsWGtpMld4V013NU4wYVdHU0laU1p3azhXLWFObVFaSlBIWHZxVnBwS2NYUzVkdUtJalptN1RVLXNuSU9fbFo1bmQ4NnVreG1MMUtMUDQ1b0poeGhNOWlmOFZkQk1VNFhDUUF6RVFocDZtbkhTU1lqbDR0aUN3ZkFEdEVrOTFpS2NfdzgzaF96LVFxTDFjREEydEdFenEyX0HSAacBQVVfeXFMUFlDVGdWR0JBM09FdDd0OXVGRks1VW9VUkg5N1pCYTJLUzhJVmZKRTlwSkQwMkFQc2tPZ3pyUnhoY0lNMnFsQnROR3BubnZrZVpNQ2FTM0xpNVV3NC1lYmNDV2d2VzlFQ3lBdFNuYzJlVUY1QjBqYXB0dUw4WmxTeFhPdGVOUmpSVmJfTkpKU3FvempCZW9sRGdRQ2taNlA5dnZ3OE56Tms?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Rajeev Ranjan Singh: First-timer known for his political acumen - Livemint",
+          "source": "Livemint",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSFpERDZVT0wxRFFsRGVkeDVQeDhLZFVESC1Md05jYlBYdG5VTmhVVHFLQjU2M0JUMTFVTjd3RzJ3SmZtZzM2dzF3a29Ha1k1QjhTNHZoM2prTEV6dGVhWE1fdkhQS1FiWl8ydmhmcTZTZDFoWlYybXRRSkhmVk0wbjB3QWZFZ1MxajVtbFAwY2FzaldCd3pjWFNXTnR6VWFPTDVGWUZRNnZ1aU9EMTl5UXEyZlViSW5pT1hDbFNR0gHDAUFVX3lxTE5rUzdQR1NIZGVkNmNEMGZtVk10T2VEeGhBdEw1bDViZUx3dFRyY1pSTlBUekx3VUF1TlFCTW1xR3NfaUdLdXVjOUx4cktDVTVielVCRko0TWZpRnIzV0hrMVRKejVqSWQybUdXRmFoU0Z6UGhBSF95dlI4TnIwNTNfZmJadGhSZkRkd2Jmam9PRmpNRnY1SnNoNlhsQUQtRXZuWjFES1BBTW1WWnFucldvejFHWGlrMTZWT3Q1aXYzeC11MA?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Munger Lok Sabha Elections 2024: JDU's Rajiv Ranjan Singh to contest against RJD's Anita Devi Mahto - India TV News",
-          "source": "India TV News",
+          "headline": "Unsettled by Nitish Kumar flip-flops, JD(S)’s Lalan Singh banks on Modi in Bihar’s Munger - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOenRHd1kwZlEzd1VvQkRkcVNDVGdESGY3RzN5dDY0NkJNbVBSd2F1SW5GUGk3a2pUTzUwSjQ1eEppb0hNWnJZOEtyaDBaMTVuWDlGZjJ5Yl9vVTRnbzNDeUhPZGs3alQzVDR1R2plMGUtdFhYRlotSGdqdVVYdm5JZnNnOTZrZDRKZXZQcFdHR0lYYUQ2YUIxcW1qbktqX0I0MXh3UkV3UWRscF9BTXNCZURQZnJnNE15ZFlYWHB5SGRyQzZWOUlCRVF0TmNaWlZ1ZXpOR05OMlkxcnJLV1hwQmttVmt6bmJobFZhTnhacVhXd9IB9wFBVV95cUxNR1JMcTRLZ3Q4RXFZOWw0R3NnR0hJY2tfQVYwWVlHQnVWem5vVjl1MG8zYlo1Wl9iQ2V0TGZnT1RyMmxqRmZDSkNJYWNaSWZrQlM3TGtjNkFKVEVSZVduaEhmYlJNRG9yaUR3YUdSd01jRk9PTWw4N2VxMnlfOXo5b2c4YkFHMEpOcEM2Q3UybEZIdW5sdmpQWkNHcXNlWHpjZ3Q4cmdXTEY2U01Ja3JZLW80a2pRVVlQc2pWM2ppcnp6M09jdG1JbVVCSUZGbFk4bmpPNU9ZaFhYTTBRcklqdjQ0eFZsVEREUmV3VjJ0Ny1LZnZkb1pR?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Why Nitish Kumar picked an upper caste leader as the new JD(U) national president - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWk1zaUowNjVRSmxfUW5OLXIwZzFCYlNBcXZBTHdvZVlsQ0hvNkdGVmpEclBCQldZMVFrUFllMjU1czhGcWF5aFZubVk0czh0M2RhVDdqU0NwQVlmMG8xZ2g0NjhtOUJybVZYc1RxWGJONHdGc2pYTFZ0RkRzVFJLWHdqcFV4aTBXWmhkeVNBbVlXX3JzdnktdEZpaEYycGhUem1ORDVfMzE3Q01FdEtELXhfdENJVVliMUhLWjE3T3lUYW05WTJTN3J2TUNMTnZIQ2RvTlhWZ2xUZ21INzR2QXVfSm4td9IB6wFBVV95cUxOSHIycF9zM3hzQnkzSGUwRF93UTN6Njl0ZFp6QjlPQTZqRFZfSU1hWWVpS1Z6elVtYmNIYmdVRnU4RzFhQ24xaElaaDNMdnJLS3dielpYTE1XYVFEN1JTVDhVclYwUzRmMElZYnF2aTRLNFFGTmRWWHhteWJxLVZfTmczcm5SSlY5YUJqNkRpMlRvd0VpOGRaejNHNkhPanhuR1RQWHFBTDFSS3hfTWFRdi1XUE80Rko0ZFVTQWN5dC1JRDAyeGVLUDFicXJ0RlRIYTk4YmZKYUEtdXpmQzhwTDUzUi1jZVpnOFVJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXhCMERoMW40eUQ3T2hveWMxVUZnT3NRSmdHaVdUazZHY0hLYWdyb3hnOW9jTmM3VlBycVpEMXFXT0NwVDFoNmtnbnEyazFDeV96a2I1ZDdqZS0tWlZQR2JBaG9wX0FHNTlfMHFkRFpvdkNtQ1JpUGlPUXVqeUE5MUVCazQtc3lKWU11eVZaRTRLN0lXU2JhVGZKdEdtLVZIa29jWFE5ODd6N29sVVFzbm5rZDk3X0stUmszYWl5QXdmOG1wRnlVODFXMGdEVmI4QnJYcGJTYktRejBJWHfSAeQBQVVfeXFMTlFodW1MMHpSbmN2ZEQ5QWNTZ2VDLTlxckhrbW8yVlpIalRmWFp2YkZuVEZUUnBUTVBWYlA3c0dLdGpYT0FYQW8tbjVXdGlldllXU1ViZDE4Yk5fMXlzQmhhOEpXQTgyd1AxMkxjM1NsNjdDOC1qY2hzek1mV3NiaVA0R2l6QmNVQzRNeXhGWXlwa1hVeUdxMmZMY0VQMkg1a0tENFVtM0pkN0ZORVFNeWhHMDZSNHY0S25RX191T0E2WGUwdk41Sm5iTUp0TVJwNk83am80V0JETDBVd3U5Y1l0MFNB?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -384,7 +437,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.17,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -436,12 +501,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 138,228,639. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:47.358097Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.819611Z"
 }

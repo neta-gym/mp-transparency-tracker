@@ -4,16 +4,16 @@
     "constituency": "Erode",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 127,
+    "myneta_candidate_id": null,
     "slug": "k-e-prakash",
     "house": "lok_sabha",
     "sansad_member_id": 5770,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 47,
+    "age": null,
     "photo_url": "/mp-photos/5770.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:24.638171Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 100426890.0,
-    "liabilities": 3953159.0,
-    "net_worth": 96473731.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=127",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.286547Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 58.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.65,
-    "expended": 7.56,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:16.512611Z",
-        "notes": "Official eSAKSHI REST API — Works: 156 recommended, 149 sanctioned, 125 completed"
+        "fetched_at": "2026-09-02T14:39:13.887230Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:35:12.174856Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:35:12.172641Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 156,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 51.42857142857142
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:03.226785Z",
+        "fetched_at": "2026-09-02T14:35:12.171716Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Incomplete road works causing hardship to motorists, says Erode MP - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGJPV2dtNmlhLW9WelVFb3c5RFM2bkQ2eExGcEdCbzZXV2pHTGRKdFR5OUNIUkpRaVZobXd5Z0lfY3dqRVJoQlNkaXhRVjZKZ1FGU1Rka1c4X3RyN1pxNi1kZkpnM1hMdzBfOW55Tm4tYkJnN1ZqeGw1Ymc3M3VaRTBuOVRmbVBlajY2WjRpb3A4UmJTRTVoY0k1YktteWVITzNGUkswNDFhRGc5bVlhaEF5b0pRU0ZVVVhvUmdXWmoyV1Q0d3I4YVo4OXNRd9IB1AFBVV95cUxQem16LXhudlpCNkpQSXVPOTI4bmIzQi12ZU1YeVp1UnlZSElWZ2plYWt4ejNOTDh4SmhBeEFnTVFwVFpkenJZV1l3dE9KWjR5LXg0c2xpV01SM0tBRm5YSEYxQklDZjAyV3ZVYU9iOVctdjBBLXdyT1ZNZU0wTC1uWldoS2g2Xy1ldUExc25yMG5EeVRlWUJET1F5RFBzODRQTkhTRVVPTTVnVjI0VHpWYUZOTlVmWmRsZlgxMEg2Y3FzdHItVXduQkFldUc1RUc1akFFTQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "DMK deploys an extra hand to bolster campaign in TN's Modakurichi - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSV9qRzB0czVkc3o3dmZPNUEyQlJBWUxQNWRiWXFCLWF6dEVSYnRpazNIMDRkM3BtM001MGxWT0F4ZXlyRV9RTHZRa0ZNbjlmMUJlczYzLTA5SjBESVJPdkc4aTRDUW9FdmVGSUFXRF82QUxQUE9ELXhNSzB0emNRanFjdmJMZU1GWkNWdWF0R004TzA5VFVJd2dieTlaeWlUYk1hTzJVZHpqS3RoX09RenNPeTZ5VjBqeHVrVEVaR1BfNHI2X1HSAdMBQVVfeXFMUEFCS1hnYTQ5U0ZYRktyTTlyS2ZQNWp0SUlKcjlGZm9yZTNDNURWQkVMZUo2eU9zOHhmOFB5ak4wV3prZXNVWC1ES3Z4dEY5MHQwc0pMMlZHSkxha0hyVFBVVXVDSmdhRjJYam1vd1lGT3pFQktkY1hONzJfUEVUTWRwSGl2SEl1MHdMVEdnVmx3X1pSMUpNWnF2TVB3dTYwbk1KSlZYUUpLX0YzcE0zdE52RzYtZzg3Wjl5Y2JvWGhyeWRrUmdNMk5zMTZ6UXc2ckxpRQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Erode election results 2024 live updates: DMK's K E Prakash wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNenJ4NU8zU0FJTk5fTDdVWWpNckJyZUhwUVU1RmdmS3NBeC1VbEZLUTg1ZDEyQWhiWXdZazRjQUU4enV0VlhMUjhVVF9hWHJsS3NVTW51ejlfQ1AwUy1MaHd2UlQyRG9lM2pXUjFueDVZa2hYZFpIUnpoTlhIN0REX3I3cWhKZjR0bFlENGdubFEyM05nSGxWWTVleGFVQzRObDI0cDhCSmtRd3hEVlY3YjZIWDhaRVdnaHhGTF96SkVRd0VLY21IRXFMdlhsNFpLSm9zU09wNUV5RGRhR0Rwem14WHJWeHRsdThfSGs0OWpBU1VhczlrVmVFWmMxYVo1blo0aTlhcGlpd0Rxa21aS19DRF9IQTJNUnJrSHItaXNRR3lOdWllRFBGNkVzaFA2NV9j0gG4AkFVX3lxTE80akx2c1lUVUZMRE16U1F2dXJoLWdKVGhpaXdwMEdnSXBWNTRYVU1renZCSFBnRzQ3SnFrR19LQjdyYVhnYTFKalFLNU1xM3VsNWo0aWdPYzVoNjh1QTJHei1xQ2FNVlRaS0U1ZlFKX1RtUG0wbWVQdWhSc3ZoenVLdm5UdUlzZ1VORldyejlzbUlraEFlWFJ4QlRzTUlVbTZVVlNzVTFzcVRTdVJ1T0lVczFsdkUwUDlNZmxkNkNMZkQteklpQk91em4zMlpFZzZnX2YxcGdqSjdYODNwUzN4ZTlpRGxEbGVpOGJQeS1TX3E0UTBOWE4xWjhveENIbkpKNGNpSGRTemlxcEZGT1puYllEbWdkVnFtVDh3Z2l0aEdWSzdHUkQweUxzWThwbVExLVc5bE1mSA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tamil Nadu: Erode MP Ganeshamurthi passes away - The News Minute",
+      "source": "The News Minute",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVpJdGQ0ajJLVXk1X2lBLXROVDMtSGVXaVpkMmRPaWpIa3NkSWcyaGNqRjFzbjBLZ3Z6RmVUcjEzQkZpNk5pR1pLaWZ6OGRIeXVPWmhTTVk1SFFCbHVoRUJFVFFickNWeS1LdmREREZtOXJyVGgzVXo1eHd2MzVfeEdyV2hHNHVMTFZjck1aONIBnAFBVV95cUxORUlDU2dJZDJGQ1JTZjR3dGVSdDRaU0M2Q080c1NjNDZON0wtTDdfYXlhb1RRQV9YbmtkVWdlWk9Ybzg3RnY4dWUyOFhoajhWNHlKUFRnQ1FqUFZsaW96M0hlek95N0x5d3RnWUJjT3o1VWdWT01pa1I5WnlwSkh3SkNGYUtIVjBDR2ptaTV5ZlJOdTAtbTJnT1l6YkY?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "K E Prakash , DMK candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFlqZ3pzMUZ4VUNublU4YUlzLXA3UGxzRWE5T0VNYkpXN2tFVURfMEVLdXVpbHczcEJkd2xfT0wwQkRLSkZjZUszMGhtQnZDMmJ2YTRsYjBjdFdMSlFJRV94X3kxVS1qMlFZd1k5UzAyWGxRakQ0eHNnYW9laDlSYQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:07.366931Z",
+  "collected_at": "2026-09-02T14:39:13.888164Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.376581Z",
+        "fetched_at": "2026-09-02T18:38:09.851104Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.376589Z",
+        "fetched_at": "2026-09-02T18:38:09.851116Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.376594Z",
+        "fetched_at": "2026-09-02T18:38:09.851156Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.376599Z",
+        "fetched_at": "2026-09-02T18:38:09.851164Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.376604Z",
+        "fetched_at": "2026-09-02T18:38:09.851172Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.376609Z",
+        "fetched_at": "2026-09-02T18:38:09.851176Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.376614Z",
+        "fetched_at": "2026-09-02T18:38:09.851181Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,16 +312,16 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 2,
+    "positive": 0,
     "negative": 0,
-    "neutral": 8,
+    "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Erode MP urges construction of ROB at Kollampalayam to ease traffic congestion - The Hindu",
+        "headline": "Incomplete road works causing hardship to motorists, says Erode MP - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY3VsTktEdm5Td0VJZ0xvU1hmWGhXT3JUZHhUTW1GdUgzTFlKcjJlWW9ReFFUbnJtX0FxTkVyN25mV1Q4MVRTS0xJQWFUNUdwLTdfVkM4TmdLWVdIUHRHNWdtbjhLVHJuYnF4ZXFHcVl5bzhyRzhfR1Z6bk9qd3Y0RkFJQ0kyWFNuYjFodnQzcW1kY19fcGZyQ1VtMnNPMmtOdmN5QVJaSVNGbThRTEc0SV9HMFI4S1dvMVgxeU04b3Q3WGxVaHBvU1RpVTU3N2pKYnBVS3FUNURlMGNHdjJr0gHmAUFVX3lxTE5SN25FdTU4N19ocnJRcFFmeklleTB1NkdzRUQwcnh3dmJaUklBbEpyYlZ5dUxiMzJjQVVmTEtyMm5WUmhUUDE1c0k0eGM5LUVlT1M2N0pVMzg2TXdBZklaZk5UbGlHbWxZcWE5eEI5c2w3OFNXM0ttam5ELTJjVXdmMGNMdWlubTVfbTFieFlzekwwb3BuSVZTOFA2cTJDbUVvSFlQQ3BHRUctRzJaUHhtYkllekZ5UnlSZmRnOG15WWZqVldNXzkzUWZFcC1fdmVrM004YkJQRVF4aEF1Mi1ZcDFKdHlB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGJPV2dtNmlhLW9WelVFb3c5RFM2bkQ2eExGcEdCbzZXV2pHTGRKdFR5OUNIUkpRaVZobXd5Z0lfY3dqRVJoQlNkaXhRVjZKZ1FGU1Rka1c4X3RyN1pxNi1kZkpnM1hMdzBfOW55Tm4tYkJnN1ZqeGw1Ymc3M3VaRTBuOVRmbVBlajY2WjRpb3A4UmJTRTVoY0k1YktteWVITzNGUkswNDFhRGc5bVlhaEF5b0pRU0ZVVVhvUmdXWmoyV1Q0d3I4YVo4OXNRd9IB1AFBVV95cUxQem16LXhudlpCNkpQSXVPOTI4bmIzQi12ZU1YeVp1UnlZSElWZ2plYWt4ejNOTDh4SmhBeEFnTVFwVFpkenJZV1l3dE9KWjR5LXg0c2xpV01SM0tBRm5YSEYxQklDZjAyV3ZVYU9iOVctdjBBLXdyT1ZNZU0wTC1uWldoS2g2Xy1ldUExc25yMG5EeVRlWUJET1F5RFBzODRQTkhTRVVPTTVnVjI0VHpWYUZOTlVmWmRsZlgxMEg2Y3FzdHItVXduQkFldUc1RUc1akFFTQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -280,27 +333,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Rs 224 cr allotted for Pongal Gift scheme in Erode district - afternoonnews.in",
-        "source": "afternoonnews.in",
+        "headline": "Erode election results 2024 live updates: DMK's K E Prakash wins - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjhweTI0UTQ4UlJVUk01b0p4MXNsTDRXakRTSjBXUlBGaU5mM1hQMXA0elF0NE9MN2VBcE5LRWpGYk5uRmtuQmpTaGFqWlFTeHppckNXVUhicVZfb1VpeXVvbmE3MmtySjJra3Z5TzhZR05OTVhFVEdNQVVvTW4tenN3a1pyTG1rRjZFby1BNlRGTHpJMzFtSA?oc=5",
-        "sentiment": "positive"
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNenJ4NU8zU0FJTk5fTDdVWWpNckJyZUhwUVU1RmdmS3NBeC1VbEZLUTg1ZDEyQWhiWXdZazRjQUU4enV0VlhMUjhVVF9hWHJsS3NVTW51ejlfQ1AwUy1MaHd2UlQyRG9lM2pXUjFueDVZa2hYZFpIUnpoTlhIN0REX3I3cWhKZjR0bFlENGdubFEyM05nSGxWWTVleGFVQzRObDI0cDhCSmtRd3hEVlY3YjZIWDhaRVdnaHhGTF96SkVRd0VLY21IRXFMdlhsNFpLSm9zU09wNUV5RGRhR0Rwem14WHJWeHRsdThfSGs0OWpBU1VhczlrVmVFWmMxYVo1blo0aTlhcGlpd0Rxa21aS19DRF9IQTJNUnJrSHItaXNRR3lOdWllRFBGNkVzaFA2NV9j0gG4AkFVX3lxTE80akx2c1lUVUZMRE16U1F2dXJoLWdKVGhpaXdwMEdnSXBWNTRYVU1renZCSFBnRzQ3SnFrR19LQjdyYVhnYTFKalFLNU1xM3VsNWo0aWdPYzVoNjh1QTJHei1xQ2FNVlRaS0U1ZlFKX1RtUG0wbWVQdWhSc3ZoenVLdm5UdUlzZ1VORldyejlzbUlraEFlWFJ4QlRzTUlVbTZVVlNzVTFzcVRTdVJ1T0lVczFsdkUwUDlNZmxkNkNMZkQteklpQk91em4zMlpFZzZnX2YxcGdqSjdYODNwUzN4ZTlpRGxEbGVpOGJQeS1TX3E0UTBOWE4xWjhveENIbkpKNGNpSGRTemlxcEZGT1puYllEbWdkVnFtVDh3Z2l0aEdWSzdHUkQweUxzWThwbVExLVc5bE1mSA?oc=5",
+        "sentiment": "neutral"
       },
       {
-        "headline": "New bus service on Erode – Palani route launched - The Hindu",
+        "headline": "Tamil Nadu: Erode MP Ganeshamurthi passes away - The News Minute",
+        "source": "The News Minute",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVpJdGQ0ajJLVXk1X2lBLXROVDMtSGVXaVpkMmRPaWpIa3NkSWcyaGNqRjFzbjBLZ3Z6RmVUcjEzQkZpNk5pR1pLaWZ6OGRIeXVPWmhTTVk1SFFCbHVoRUJFVFFickNWeS1LdmREREZtOXJyVGgzVXo1eHd2MzVfeEdyV2hHNHVMTFZjck1aONIBnAFBVV95cUxORUlDU2dJZDJGQ1JTZjR3dGVSdDRaU0M2Q080c1NjNDZON0wtTDdfYXlhb1RRQV9YbmtkVWdlWk9Ybzg3RnY4dWUyOFhoajhWNHlKUFRnQ1FqUFZsaW96M0hlek95N0x5d3RnWUJjT3o1VWdWT01pa1I5WnlwSkh3SkNGYUtIVjBDR2ptaTV5ZlJOdTAtbTJnT1l6YkY?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "K E Prakash , DMK candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWtxZDNBakVyLVpncXFleElscXlXMXlSb0pIQkhLZk5MUmd2QlFQSnJTYi05LW5ZTFZnOGt2TlgwV2hHSDVpTFpvQ0VrekF2N1UzQXJRYVh1NmQ0SThfMTEtQ3hDek9sc2IwZldQZU9KU1ZVTnluWGNtelR2RkhWa093dmxLTk91VjRUX0U5WmljUXJRdkk0blA3bGs4VVQwSzdzdUF0ckt1a0prVTNtbFllUE_SAbsBQVVfeXFMTk1pR0IydVV6MXcwalFvcWNZQXN2b2RSY0pwUDQtUjlMamJMdW9MOVlaTzVhSEN1Z0NLY3BsVlFLbTZWN2FLX01HSTFhb1A2cGljdmtESzRSVWw4Q050ZDg2STJaNWZnbGgwcXNsbTA2dFdjczhWX1Q0OXdUS1BnS0Q0Vkx0QWdJdTNUNGtFREk5LXN0UFlhb1F5MG5OM2lSbUxrUHpQdm5ZMkNURk5mYlJWWVEyRk1JODExVQ?oc=5",
-        "sentiment": "positive"
-      },
-      {
-        "headline": "Tamil Nadu CM Stalin unveils statue of Kalingarayan in Erode - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVG9od2lyRmFqYWluc1JJZ2hmdnNMa0lBVTFsblI5WGJka2RJWmVoY3IyVkV4cGZBX0J6UXNoMlREX0U5dHY2Zm5VNXJScnZZR0NrRkk4Ny1Rb1VjMi1Tckk4ZGlrY2JPTWJ5N2pTUF9HRjNfMDM0S3N0NVBsMkx4SUpCM1I3SWhtVTBJdjZUeTFJUEhkak9Pd3F2R0Z5Tms1dFpSd3Y0VndnZVNkQ1c4S0FnaVF0RjZrLVpMVWp0NEXSAc4BQVVfeXFMTjFZYXhzMjNDZHExR3JRNnNsS2NzLU9jQ3lCeDN0eXJnWjUxRFJPQmFWbzgwdGZpVXQzR2pKanJ5MFJFZ21aenRjT21IT25EYVQ4WlExRzgwZHNCaXVRUzZjcmdkcUFGV0pKUlBvU19TUkRTUEhLbFdaR0tqR1k4akFyNHFTYmpkZzhvQWxoVE01WWl1dWZSSkJuWlVEc25sb0QyV1cyQVZwNFRCc0tGN01jNGFYQzM3ZHJ1bXRiT21HTHdzNG92RWtfdFdxMkE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFlqZ3pzMUZ4VUNublU4YUlzLXA3UGxzRWE5T0VNYkpXN2tFVURfMEVLdXVpbHczcEJkd2xfT0wwQkRLSkZjZUszMGhtQnZDMmJ2YTRsYjBjdFdMSlFJRV94X3kxVS1qMlFZd1k5UzAyWGxRakQ0eHNnYW9laDlSYQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 18,
+    "starred_questions": 5,
+    "unstarred_questions": 13,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 34.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

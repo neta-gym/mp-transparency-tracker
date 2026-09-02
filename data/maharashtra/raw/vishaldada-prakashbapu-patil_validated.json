@@ -35,59 +35,73 @@
       "photo_url": "/mp-photos/5756.jpg"
     },
     "criminal_record": {
-      "total_cases": 9,
+      "total_cases": 0,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 9,
+      "pending_cases": 0,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 299065726.0,
-      "liabilities": 82679549.0,
-      "net_worth": 216386177.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 77.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.99,
-      "expended": 1.1,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:31:31.281581Z",
-          "notes": "Official eSAKSHI REST API — Works: 86 recommended, 77 sanctioned, 2 completed"
+          "fetched_at": "2026-09-02T15:17:37.672066Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:13:54.062764Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:13:54.059576Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 86,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 7.482993197278913
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:33:51.844937Z",
+          "fetched_at": "2026-09-02T15:13:54.058408Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Sangli election results 2024 live updates: Independent Vishal Prakashbapu Patil wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNejA0X0RHejlPY25yWXNnNW9ZUW5yc2VidmN0aVBQTUZzakF2NFUyZHAyZ2lOeTdkdktnUklUVnhJRkFIeEt5Mkk0dWtDbGpBblUwbTFjcU5MMlJZdXVPLVNzVjZFQVFIR0tNSkNZQjVjZU1jZWlIdXhrQUpVSUlVMlJ5bDEtZFhsT2VWdEQxVmphVTBmWWVXU1JLUkctT01EZ1lhb3d3T28xOU85WDBOR1NUN0tiOE1VX0tKYTNxMi10SUFpUlo2Y2l6NGw0Sk9JbTBvTGY2bVI4T1JOdFdBLWZOT0NJUVNaX01LU3VXVVJxVlRFbENvUWVKSG94RWhGclJfVmVXLXVpWFQxQVMxRUhSUkRkWUFZTTFzSDJsQ2Y4NTlGLWpGX2ZwNNIBsAJBVV95cUxPSlNGYzE3NGlkeTl5UGxPNFlZYzE0R3phNXRlZlNGZjVtYXZpMFUzRWhsMldjR2s0X0tOTm84Q0tCREw5TUEwVkRZekFicTdoZXNoOUhoYzBNU0RFQTZyalBSZThvQlkzUUdSSTQxWXllVDNiTnNRcXZHajFkQkJfdllsT2hTR3V3X1Q3S1pzSTFVdENUQ1V2ai0zSU5NRzByQUNOeFBCM3YxekFFMVppWVpHWjFBemRrWldTWXZ3N3llTjdON0o3MFl5Z3c5NWhZaVpNVDNEdTJRblpId0xFSlVTSGRpbTgwTTl5a0IxaWVtZmZuRWFSZXJmMXdWSS1fbW94UUZaUWt4NXZRaHlDRnNhTVBKelNiNmE4bkZuUWp2bjdpdzJCYjlPTzE5NS1M?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Independent MP Elect Vishal Patil Extends Unconditional Support to Congress - TheWire.in",
+        "source": "TheWire.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb25wbG5SS1E3V19Wb1lWUURnWDhaQlBEbFNxSFVDNEVxdUhZSTNDNEtYenhTbUJFUFlYV05kS29KSDNEX3o3OFFMX2Z4ZlNERDFqNWtUa0lQYy1pZk5Td0Y1UDdQNTlrR1hMQXZqUGhCcDl1WXpFUF9weWhkeXhhLUxCX0labTBOSGFMR1lpVjZNTC0xNmY3aFhEQk5GU1JtcHAxZjNEeU9IS3VDcURQSEt6NNIBuAFBVV95cUxNSjRpRlhESXAzTnFab0oyQ1FJRndLYXo1ODFVcHhoQ2VlRjVUUkNQZVRraTdsVmNweFlFYjl6N0R5ZUUzRXdpWUZEMWdaUF8xSTBhNW5XSUtIUi1aLWdBbUh0WHdpWVpxUlVWZHdjSnFDUm13SWhEWjNTd1Jxd3VHeWk0SDNONTZRUGZEcTdLSzc4S19nd3BzZVJUTlQ0QUloWGVFLW9TSXB4T3F0Mi1yRGNuZi1pTTZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Independents who are close to Lok Sabha electoral victory - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTXZfcHRCcnF5OHU2WTJGUjI1SXRCeFZOQzdabFpMUC1Sd1dWSXpHcjJsUEQzOUt6My1kUElodG5DN24zMkJDT2NHdS1hWVdrWVFNa0gzWjh6UVVLcTlsd0NCSU1vTmw3MU81a1FsWVdRWHNWQnBjUWczNlhPckZCY0w1UkV2NVo4YXh5OTlEN0JSb1dYYlNkU1FkdTNBWWNvaWVEZjhGRFFRYzduSUtZQ3FNTjFScVJLZHd2WE1UR0h0SFRTT3BlRzNoS0JNZThsVWhwdXA1VktHSGhURXpVeTFNNVpnQjZ2cEE4d2xR0gH0AUFVX3lxTE43ZXVXVUZHXzd6cTBJdEoybHpMck1KUDdJRTVETWlXN0NiTUx4UEtaOXJHb1M1cUg3WXpwMXgyU2xQX3VYQ1M4cE9ZT1pLX3dCTFhibFo3QVlFczVkcDBvOEw5ZWhEbnJfUFJrVXlwdVlteHRqclczTkY2SWg2QXJvVzZYQ3pINEdzNmNsRXZNelNtOHNPeE1CYl8xY21SV2t4ODNteENqTjN3RkV5YTQ2bE43X0xlN1kyeFJpa3RZTFVKU0Q2LVVQYld1MFh3N19ibjlZNWtpcFdvVkdkbXYyVFZQd05tSF9pT3RiVWx3V29LMU8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha elections 2024: Here are the 7 Independents who have won - opindia.com",
+        "source": "opindia.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmU4d2hQYmJKcElwWW41WUJhS1RBUkRQRmZFT2JHM2NPQVpURTFuRC1JOFZFeWNXS2tYZXFaQVR5XzRkdnJlSmNpN1R3LXROZFJBeUJQZWNPQ2JrREc0X25wZFpXNDA3b1JxbHgydF90SGF0Q2VvMzBlUDd6d0NCcEpUZXFKYWc1LXJuLVB0MGZDNkxRSmdMeXJUR0NEUUE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:34:10.911837Z",
+    "collected_at": "2026-09-02T15:17:37.673577Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.886690Z",
+          "fetched_at": "2026-09-02T18:38:08.421365Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.886699Z",
+          "fetched_at": "2026-09-02T18:38:08.421376Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.886704Z",
+          "fetched_at": "2026-09-02T18:38:08.421382Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.886709Z",
+          "fetched_at": "2026-09-02T18:38:08.421388Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.886714Z",
+          "fetched_at": "2026-09-02T18:38:08.421396Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.886719Z",
+          "fetched_at": "2026-09-02T18:38:08.421400Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.886723Z",
+          "fetched_at": "2026-09-02T18:38:08.421405Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -265,10 +321,10 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 9,
+      "total_articles": 7,
       "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 7,
       "top_headlines": [
         {
           "headline": "Sangli election results 2024 live updates: Independent Vishal Prakashbapu Patil wins - The Times of India",
@@ -276,14 +332,6 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNejA0X0RHejlPY25yWXNnNW9ZUW5yc2VidmN0aVBQTUZzakF2NFUyZHAyZ2lOeTdkdktnUklUVnhJRkFIeEt5Mkk0dWtDbGpBblUwbTFjcU5MMlJZdXVPLVNzVjZFQVFIR0tNSkNZQjVjZU1jZWlIdXhrQUpVSUlVMlJ5bDEtZFhsT2VWdEQxVmphVTBmWWVXU1JLUkctT01EZ1lhb3d3T28xOU85WDBOR1NUN0tiOE1VX0tKYTNxMi10SUFpUlo2Y2l6NGw0Sk9JbTBvTGY2bVI4T1JOdFdBLWZOT0NJUVNaX01LU3VXVVJxVlRFbENvUWVKSG94RWhGclJfVmVXLXVpWFQxQVMxRUhSUkRkWUFZTTFzSDJsQ2Y4NTlGLWpGX2ZwNNIBsAJBVV95cUxPSlNGYzE3NGlkeTl5UGxPNFlZYzE0R3phNXRlZlNGZjVtYXZpMFUzRWhsMldjR2s0X0tOTm84Q0tCREw5TUEwVkRZekFicTdoZXNoOUhoYzBNU0RFQTZyalBSZThvQlkzUUdSSTQxWXllVDNiTnNRcXZHajFkQkJfdllsT2hTR3V3X1Q3S1pzSTFVdENUQ1V2ai0zSU5NRzByQUNOeFBCM3YxekFFMVppWVpHWjFBemRrWldTWXZ3N3llTjdON0o3MFl5Z3c5NWhZaVpNVDNEdTJRblpId0xFSlVTSGRpbTgwTTl5a0IxaWVtZmZuRWFSZXJmMXdWSS1fbW94UUZaUWt4NXZRaHlDRnNhTVBKelNiNmE4bkZuUWp2bjdpdzJCYjlPTzE5NS1M?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Political Profile of Vishal (dada) Prakashbapu Patil, Ind Party, Sangli, and Net Worth - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZk5Oam9qeElrZ0V0RGE3UFRzUkpTdzBjT215NEE0dFluYjZlNjhZNFRYQkplc0ZDNldCSHdIMVVwY2kyR1E0ZjVSQXIxby1DWUtiQlhkekdWcU55cm96cXp3S1h3UEZjbjd6ZGJnSzQ2XzZfdW15SW9qLW5mN2lyS0RndjlpVldQNkhwYUtFQ19Ob0xkVW9ZM0g5eWhQWUxSN2Fjb2hvNEVGYVcwN05kTmR6cGFrWnhvS3NwS2lXa05YVVpJVjBYczNTMXlGUFc0VkRvbGhVQ2NQcmtSdmNRbWJzaW40VVVFRTlmdlBRd1Q?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -295,23 +343,31 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Sangli Election Result 2024 LIVE Updates Highlights: Independent Candidate Vishal (Dada) Prakashbapu Patil - News18",
-          "source": "News18",
+          "headline": "Independents who are close to Lok Sabha electoral victory - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ0Z6WGJ0YUJyY2draldyWVVrT0JDVVJPSW5meGxscXdqX0R5YnVHV3U3d0lSMWRSMndlMVZXVFFReHBxZnctRC0yNkhvSVh1S1NYTllFZnBibVdwbm1XZzh5NDFzeTNfMEdKNlVwajNoaGJ4TEFvQU9UZ0RLcFNyWG1BclBSOS1ZOWpCeTdiVlo4RFAzT2E0UlV1U2UtTnF3SHU4cE9LUHRKN0tBNnVwaGY0d3NiY0VNeFBvUGJqbEx0Zkt4Qm5lcnJoQTQwalNQSzdYMGtBMzhSd3lTdTlHYtIB5gFBVV95cUxQOVNpaERNbHRUcWVlY0g4MGJFQVdEWU5qelBJZFRzcHF1VlFrM1hraXp0bmlzdFNFWWdvY2JLXzRCek9qNnVoY0U3OEpUd1NkTTBOTS1TTDVzQW5IMl9JU1FtaW5EaERkTWl3YlA3Y3ZWNU1uLXF4TlBSczlBSFQ3SWNlTXZyYUF1Qkdndk5EWFBlQnFyM1otMEpkb0g5czhQRHhxMDJNNkprY2JDbGd4MUE1MGtZRHJWZjBVcXBaeWJKU2dHTm9fUTB0cF8zd0M2YXplZmlFMERvcXRjQ0lZWVJmdGNNQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTXZfcHRCcnF5OHU2WTJGUjI1SXRCeFZOQzdabFpMUC1Sd1dWSXpHcjJsUEQzOUt6My1kUElodG5DN24zMkJDT2NHdS1hWVdrWVFNa0gzWjh6UVVLcTlsd0NCSU1vTmw3MU81a1FsWVdRWHNWQnBjUWczNlhPckZCY0w1UkV2NVo4YXh5OTlEN0JSb1dYYlNkU1FkdTNBWWNvaWVEZjhGRFFRYzduSUtZQ3FNTjFScVJLZHd2WE1UR0h0SFRTT3BlRzNoS0JNZThsVWhwdXA1VktHSGhURXpVeTFNNVpnQjZ2cEE4d2xR0gH0AUFVX3lxTE43ZXVXVUZHXzd6cTBJdEoybHpMck1KUDdJRTVETWlXN0NiTUx4UEtaOXJHb1M1cUg3WXpwMXgyU2xQX3VYQ1M4cE9ZT1pLX3dCTFhibFo3QVlFczVkcDBvOEw5ZWhEbnJfUFJrVXlwdVlteHRqclczTkY2SWg2QXJvVzZYQ3pINEdzNmNsRXZNelNtOHNPeE1CYl8xY21SV2t4ODNteENqTjN3RkV5YTQ2bE43X0xlN1kyeFJpa3RZTFVKU0Q2LVVQYld1MFh3N19ibjlZNWtpcFdvVkdkbXYyVFZQd05tSF9pT3RiVWx3V29LMU8?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Parliament of India : Lok Sabha Member of Parliament – P - Sarkaritel.com",
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
           "source": "Sarkaritel.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
           "sentiment": "neutral"
+        },
+        {
+          "headline": "Lok Sabha elections 2024: Here are the 7 Independents who have won - opindia.com",
+          "source": "opindia.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmU4d2hQYmJKcElwWW41WUJhS1RBUkRQRmZFT2JHM2NPQVpURTFuRC1JOFZFeWNXS2tYZXFaQVR5XzRkdnJlSmNpN1R3LXROZFJBeUJQZWNPQ2JrREc0X25wZFpXNDA3b1JxbHgydF90SGF0Q2VvMzBlUDd6d0NCcEpUZXFKYWc1LXJuLVB0MGZDNkxRSmdMeXJUR0NEUUE?oc=5",
+          "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (7 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -341,15 +397,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 43,
+      "starred_questions": 12,
+      "unstarred_questions": 31,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 82.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +413,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,11 +444,23 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
     {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -409,12 +477,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 9 criminal case(s) (0 serious), 9 pending, 0 conviction(s). Declared assets: Rs 299,065,726. MPLADS utilization: 7.5%. Parliament attendance: 100.0%. Questions asked: 43. Debates participated: 25. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.887416Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 43. Debates participated: 25. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.422078Z"
 }

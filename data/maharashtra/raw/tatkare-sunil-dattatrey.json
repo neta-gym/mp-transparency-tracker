@@ -4,16 +4,16 @@
     "constituency": "Raigad",
     "state": "maharashtra",
     "party": "Nationalist Congress Party",
-    "myneta_candidate_id": 4319,
+    "myneta_candidate_id": null,
     "slug": "tatkare-sunil-dattatrey",
     "house": "lok_sabha",
     "sansad_member_id": 5199,
     "profile_url": null,
     "canonical_name": "Tatkare Sunil Dattatrey",
     "name_aliases": [],
-    "education": "Others",
+    "education": null,
     "profession": null,
-    "age": 69,
+    "age": null,
     "photo_url": "/mp-photos/5199.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:26.977800Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 145768773.0,
-    "liabilities": 114520.0,
-    "net_worth": 145654253.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4319",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.429537Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 65.5,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.4,
-    "expended": 4.99,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:31:29.200666Z",
-        "notes": "Official eSAKSHI REST API — Works: 55 recommended, 44 sanctioned, 13 completed"
+        "fetched_at": "2026-09-02T14:47:10.681251Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:43:04.038392Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:43:04.035118Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 55,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 33.94557823129252
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 70.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:35.591778Z",
+        "fetched_at": "2026-09-02T14:43:04.033998Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "House panel urges Petroleum ministry to maintain 90-day crude oil stock - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb21sTUxBczV5VjdCck9JRnpRZ0FfNXNrTVdrQ3J6ZWE2QWd4cE44TFh0bjlUdDd2dlFZeVF2OVpzWkMxME16UUdQMngyaF84NF9Qc2IxNDhEUENEaGl6c3YxQThYSENKZkhYNXhtN2s5V1l3YVJpYXBnSnpWWmkyZTRXOFZKdEJvcUExbTdZUlNwTUpIWnJoM3BCN2RoY0dpOG1ZLV9Hc2ZUR1NrOGRuejJfM2dwdzVkTzhpZU1R0gHEAUFVX3lxTFA4QnhqR09Oc3hsUG5YeGV4T3FzWVh1NXZMaWc3emtEMDMwYlBucHlQUWhjWEZhWXBxVWJHMlVId0FlQVhIOWRZanFRZC1NUnBLOXJ2ckJ3Smx4eWhUVGx5bXdjd3I2SGttVUtWWERSZmU1VU9wd3JJdUpEWGVZdG80MXplSFNIN2FHU2R6SUVKUWQ2cldFRHBRSVhFNHhSTm1fTk93S01yaGhKVUhXYXItaEc5RTJtaFlJcC1GSzJJOTRrbkY?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Raigad election results 2024 live updates: NCP's Tatkare Sunil Dattatrey wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQjdXQmI2djREZEdxc1FOUEFSaHlPOHllU1lHQVAtSjBoY0VZQjkzaDFoUko4UmdwNlBXakplUWJEaGFJSzNaRGtjYXVBeWtkMk9pWm5WN21vVzRlbjBISG53UXBGMENvNFBXN3BGdkYtSkQtbEYwbzVqSkd2Rld5cWE4ZWNWTlRVNEJCSGE5MUxEMExTUS1MMlJ5aG1LZGNOTHdnakNZSEItXzQ2blFzWVAyRmNGTmhDQ1pfd09mLXZZemJwSnNxWXNBVGdSclFqM2h5WkJnZ1Y1TER4Q1VISm5CVlpZbUdCbHBmeFJDS1FVd0x0NU5VZUU4dUc0YzlQbXlUN0FTOVVfZk9vTkpyakpaVm5SaURhZFQ1azFkcmJMcDRkdnpkMtIBrgJBVV95cUxNNFJadGx0YThNcjMxTjlmNVM1ZVByNnF4UWVQN2ZzajIyZzhGU3pqZm5WajU0bWYzMTRRb3R1ejZ5anRnVXgtQ2VvSk5MNkVnUC04Qy1lcjR4Y1dRVTZhZWt2a0JhYXlId0lfaG84QURaOTV3WklPS2t5UGF4TkEzYkVUTkJOTzk4RVY0bkYwMEliOHNJWnZ2UnNzdmVqbG9CUUg2Y29xV1R4dUdrbHg5MHBpR3FOdHZEVkdMUi1DUHI3dGJUS3lDZVJkNm8zS3QtTzJBV1FKR3NhSEh2cW1JQ0NadjdzX2VpNVJXRXlNa0dsblRBeWZRWUFCVnZEOWFkN2xNUFJSNEthbGQ4enFMbXlHRE50aDlaNjNoVXRkdjRzV2lhVGYzdVM2MHJqdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Will remain in NDA, says NCP's Tatkare amid merger buzz - Rediff",
+      "source": "Rediff",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWxLLXN0SFhjS2VjZkJFUHNBNEdmcGc5T3ktMU9rcENBeDMtVk1zY21YX0g5YzJNYnZkUlB5bkQ3WlJPbWpaTHVYOWxGZmtWdThrdFlHUlRyeXdrLUxkM3hnd3Q1c0tEdTZnT3ZWczM3MzJHZUtScTZwZWVsY0E5SGVDaTNheXgxZWFaakxqdDAxUE1RLVNEOFVQREtMZmUyaEh30gGmAUFVX3lxTE1yY2hSbXc4c0w0czZYcGdKMEtfTW9ackk2UWN0V0gwcHlETlRJc1BXNWZTUnJ0V1JhbVBubVc4X3F4UHkzRHRDeld5RU5SUm5fckVLVmRfUlVfZ05xUWhUNzlsOTBKZE1xNlRrbTVkTUVCZGFqV1R5bkZTOVBFWTJEOUhLSWcwVFRlNDNTTTZISm1ncTEzUFk1MUdaVmN2cW9OUWVjSVE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Raigad Election Result 2024 LIVE Updates Highlights: Tatkare Sunil Dattatrey of NCP Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM3A2X0lpcUZaa0s2WTNKVWFYVUhKQ0tEc3JkYnpDNVAyTnNWUUNkMmo4cC13X2NzTFpicWpmaVR6cEE3RDA2MUFiR1RQYzJWaURtb2VmdzhBTmN2RzJaVXVfTGk2b0laaWc1eUpweERBbTcwYTZGOW9zTUlHMkZ3ZXhleUlfY2kwSlotN1lidkVjVGdlSzNnbFVFaEQ3cm9oTHVnU2dCNGxJSGtxY0RsSjRLUVg1S1NEem02NTFidnV2TkJJUmxBU3g3LXZEOWxTNkZ0aTRjcnpkS1U4ZGJ0ctIB5gFBVV95cUxPVnZFajBuREhJN1VvZ0JrUVFCcmVCYWcwQU9JNDl5TUhnNmhFY1dHMEhUUHFKNnZNcnZJb3E2UWRFLXF2NXlzV2VvenU4NU82bEkzS0NlcHVtTG1DYklCX3ZwcU1WN1g4UkFMSC1Bb19MSk9KbFUtb0lYMkpGNkJnejlqeFo2NE1zR1A5cDJoSy1HZkkwWWxIUzBNTFhvcGh1UW8weGFfM0ZjZl9MWjNjZl9GN29jOU1kS2JWeEhFQ2VzN2J4d0RSNFQwNlYzN2NZano4aXZsTlpIQXRIRTM2SnVTTDZ3UQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kuldeep Rai Sharma among most active MPs of Parliament - ANDAMAN SHEEKHA",
+      "source": "ANDAMAN SHEEKHA",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiOXhtem8zeFdvOWRYa0JKWnZPVUpBRW91bF9IUDBFeUJZZHpUUnBFZ1F0YTRpbVBpRkhablFscGRSRF94UnJZUA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:39.884270Z",
+  "collected_at": "2026-09-02T14:47:10.682579Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.846510Z",
+        "fetched_at": "2026-09-02T18:38:08.378618Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.846523Z",
+        "fetched_at": "2026-09-02T18:38:08.378628Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.846531Z",
+        "fetched_at": "2026-09-02T18:38:08.378640Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.846538Z",
+        "fetched_at": "2026-09-02T18:38:08.378646Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.846546Z",
+        "fetched_at": "2026-09-02T18:38:08.378652Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.846552Z",
+        "fetched_at": "2026-09-02T18:38:08.378657Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.846561Z",
+        "fetched_at": "2026-09-02T18:38:08.378661Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -258,10 +311,10 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 9,
+    "total_articles": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 8,
     "top_headlines": [
       {
         "headline": "House panel urges Petroleum ministry to maintain 90-day crude oil stock - The Indian Express",
@@ -272,11 +325,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "NCP to exit NDA? Senior leader breaks silence amid reunion chatter with Sharad Pawar faction - India TV News",
-        "source": "India TV News",
+        "headline": "Raigad election results 2024 live updates: NCP's Tatkare Sunil Dattatrey wins - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2lZUnpqUkdpMFBfUW00UTdweERsTjlvOVhveDZHQ0VHMG5PMDUxenpEWjVEb1ZPd3hJdWNNakc4OGFEZTVPNnVKNmQ0dERGYmhmeC01NGdJZVRJTkZHb2wwZDhmLW9lMlhIdGZqXzZzSjdxRC1UbXRaOWFKcGtuRTYtYmpEMlJSZS1RN01wRDdOU2JiQkpVR252dGxsZXA1ckpqSk5XYUhOWmFmc1JRVTgxRG0wNXp2OHRZY01KWjlTaWZGUGFHRnE5S3hHLW94RG40R0l4NGJYcEFXVVdFTkRjaGzSAeoBQVVfeXFMTnFCbnhFZGZhNTZyWTNrTGJxZDNadGxkcTJZT1dqNzA2ZEFrXzVldkdFRm5oWUY1S01POGRRc2Q4dFctTW94UmtfR29nQzY4eUttSGZFWUZOYnV4cEh3VGZFcG93bkNkQjZRZGJwNXBQbXBoSTVCYlZrZmdfbXp5Z0NOaWU4ZnhFdXNTbTBKaDI3QndObUFYdzJKWXU2VWM3Y3V1QWNSR1p3ZEVXVDQtVHVYdjJqUmtuZE5uQWREcG5pNzQwZHpLOUlra1diTl9lZDdtVzItVzFaNlowa0d3clNOTEw1R244MWpn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQjdXQmI2djREZEdxc1FOUEFSaHlPOHllU1lHQVAtSjBoY0VZQjkzaDFoUko4UmdwNlBXakplUWJEaGFJSzNaRGtjYXVBeWtkMk9pWm5WN21vVzRlbjBISG53UXBGMENvNFBXN3BGdkYtSkQtbEYwbzVqSkd2Rld5cWE4ZWNWTlRVNEJCSGE5MUxEMExTUS1MMlJ5aG1LZGNOTHdnakNZSEItXzQ2blFzWVAyRmNGTmhDQ1pfd09mLXZZemJwSnNxWXNBVGdSclFqM2h5WkJnZ1Y1TER4Q1VISm5CVlpZbUdCbHBmeFJDS1FVd0x0NU5VZUU4dUc0YzlQbXlUN0FTOVVfZk9vTkpyakpaVm5SaURhZFQ1azFkcmJMcDRkdnpkMtIBrgJBVV95cUxNNFJadGx0YThNcjMxTjlmNVM1ZVByNnF4UWVQN2ZzajIyZzhGU3pqZm5WajU0bWYzMTRRb3R1ejZ5anRnVXgtQ2VvSk5MNkVnUC04Qy1lcjR4Y1dRVTZhZWt2a0JhYXlId0lfaG84QURaOTV3WklPS2t5UGF4TkEzYkVUTkJOTzk4RVY0bkYwMEliOHNJWnZ2UnNzdmVqbG9CUUg2Y29xV1R4dUdrbHg5MHBpR3FOdHZEVkdMUi1DUHI3dGJUS3lDZVJkNm8zS3QtTzJBV1FKR3NhSEh2cW1JQ0NadjdzX2VpNVJXRXlNa0dsblRBeWZRWUFCVnZEOWFkN2xNUFJSNEthbGQ4enFMbXlHRE50aDlaNjNoVXRkdjRzV2lhVGYzdVM2MHJqdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Will remain in NDA, says NCP's Tatkare amid merger buzz - Rediff",
+        "source": "Rediff",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWxLLXN0SFhjS2VjZkJFUHNBNEdmcGc5T3ktMU9rcENBeDMtVk1zY21YX0g5YzJNYnZkUlB5bkQ3WlJPbWpaTHVYOWxGZmtWdThrdFlHUlRyeXdrLUxkM3hnd3Q1c0tEdTZnT3ZWczM3MzJHZUtScTZwZWVsY0E5SGVDaTNheXgxZWFaakxqdDAxUE1RLVNEOFVQREtMZmUyaEh30gGmAUFVX3lxTE1yY2hSbXc4c0w0czZYcGdKMEtfTW9ackk2UWN0V0gwcHlETlRJc1BXNWZTUnJ0V1JhbVBubVc4X3F4UHkzRHRDeld5RU5SUm5fckVLVmRfUlVfZ05xUWhUNzlsOTBKZE1xNlRrbTVkTUVCZGFqV1R5bkZTOVBFWTJEOUhLSWcwVFRlNDNTTTZISm1ncTEzUFk1MUdaVmN2cW9OUWVjSVE?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -288,14 +349,6 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Govt to boost health, education in Raigad: DCM Ajit Pawar - Newsband",
-        "source": "Newsband",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUw2RV9SeTltWXl2ckR6bm5fTVpKcl9MRnRQeV8xMVJUNVY0Z2QydnM5cVBTOTBfRTlsaW9Xb1N5ZEhDbXo4ZnF6ZHZRQUxPWmFsTjQ3Z1Nlb1I3NTBXcTB5VjN1b3F6Nmt4ME9xU2JXekxvYkZ5Yms3dkNMZVVoUE1Rc1V5REVJQnZJSUlYYUY2SFpzT1YzRENB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Kuldeep Rai Sharma among most active MPs of Parliament - ANDAMAN SHEEKHA",
         "source": "ANDAMAN SHEEKHA",
         "severity": "low",
@@ -304,7 +357,7 @@
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 25,
+    "starred_questions": 7,
+    "unstarred_questions": 18,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 48.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 70.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

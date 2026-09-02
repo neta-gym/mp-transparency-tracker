@@ -4,16 +4,16 @@
     "constituency": "Jaipur",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 417,
+    "myneta_candidate_id": null,
     "slug": "manju-sharma",
     "house": "lok_sabha",
     "sansad_member_id": 5619,
     "profile_url": null,
     "canonical_name": "Manju Sharma",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 64,
+    "age": null,
     "photo_url": "/mp-photos/5619.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:11.181780Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 23661843.0,
-    "liabilities": 4169859.0,
-    "net_worth": 19491984.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=417",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.819875Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 20.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.1,
-    "expended": 1.93,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:44:58.212380Z",
-        "notes": "Official eSAKSHI REST API — Works: 55 recommended, 32 sanctioned, 4 completed"
+        "fetched_at": "2026-09-02T14:50:54.641322Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:47:09.929616Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:47:09.927708Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 55,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 13.129251700680273
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:45.675999Z",
+        "fetched_at": "2026-09-02T14:47:09.926905Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Mortal remains of Air Force Agniveer reach Jaipur: 5-km Tiranga Yatra to be held; martyred in Assam aircraf... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0hHSjZGb0hwUV84LUVyd0JvcHJlQlRtLWRiX0c5enJnNDA1bUcyWklDd0VnajctV09vcEQ1VzZ0T2NkU0NPelpPNXZGWWVzaFZJcndyeFFqd1FNTnRtX3BlLUY3X1NhNDhnaTAtXzJxankyb2JrQ3hPeTJ5ODBSY2Y2cEtXd2hkWTY0YjV3NlhBaVE1eWJZOUtxbEo4SHlnVmQwUHJtcUhZZ9IBrwFBVV95cUxObW5EX19jdG9oNWhzVzluSEF3aFVTTXJYRXJacEQ0aW43SV91eksxa196ZzBUOUt5WUJEOFZ0Y1ZMNDJWYnRMTEJZX2djSEc2NFlpMmluZzZmSnBVZENSRXR6Rkx2ZXpqZ2c3VGZFRDBMREhqNFFRTEZxbDlRQmJNRUpuU3d1VnlYb1ZWRU9UaWk3SnJGSWw2ckRpSzBuRUx3eGEyb2JvYWtxNUNUQ05B?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jaipur: JP Nadda, CM Bhajan Lal Sharma inaugurate 'Vishal Tiranga Rally' under Har Ghar Tiranga campaign - indiagazette.com",
+      "source": "indiagazette.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRko2ekFIb1lCeGxBUVpPRGlidXh0enpDNDVQcnlYZGVpR05Ya3dsaDY3ZTdyNWNUcTRNcE44NjRvTjRzTFQyWEZWZmE2a1NjVDFTTjgxb2lpOUhGakRRVkhCT0JDcHJ6TFhZdUtEQUdBenpLWUdpTDdzcC1za0M3c2dKYUpSN1gtR20wU1BrU1FhdXM3RUZvc1pMSWduWGU4UVllLVl2dmYwdUo1V191ZUtET1pvTkRpUzdWb0d2QmVORHNWUEVJVFJJSDVOVGwwb3V1bmRiRzVnTjRx?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union Minister Shri Ashwini Vaishnaw Inaugurates 20 kW Akashvani FM Transmitter at Ramgarh, Jaisalmer - pib.gov.in",
+      "source": "pib.gov.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2RFdmMWFIR2JRSWl3VTFIY1YxZWlzZ0dndXllY0FGLVA3UXR4RlpmdVIzamxTMXYzYWVWQWtMUmt0bE1oaHpPVmllQ3BReWdpYlY5TXBoMW5Zai1JUjR6QUhMSnpJai1S?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "PM's advisory council recommends 13 new LS seats for Rajasthan: Six constituencies mooted to be divided int... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZkNvOUdfRXE0bWwzYTIwb1UwODAzYllJTVBQVklYMnR0WGwwLW5HUmpqYmZXUjMyMDRLX1Z6eXQyMXNQbkFRMHNmaFdqSVVJSURhZ2NjS1llX2dWd0VQWDZaekY5MHlNZlVlQ2t2UWx5cHZNZ1lRVWJ0ZVREbHpPaHpLX1pyV2dXYVo2c1l2RlA4eG05RVpmM3JLUEk0aElEN1lBbzRDVHZZM1JJOU9mMlFfc3hLeW1nemt5Ykg3Y2U5RkhXWkRTc0xR0gHPAUFVX3lxTFBybWpWQ2hEWUktX1hOVDNiLWwtOWNOaXpycE9VZkQtRTB1akNBOUxMMWFHQklBLWVUcS1STUZNY3VwazJyLUtsMVR5NDcya1VtaHhzRkozWXU2RDhEMEZTVjlHa3haX2ZXY1VPZWl3U1UxOFBNeXdMcjQ2ajFkWFhqTTFjZGQwb3hSLVBqWjMxajFuRE16RVdaa3NaMDFaTnAxT0Y5aTVjandwZEZ1WmNaZ0xGXy0xNVdRc1NyUloyWWJybmVFQjRKVm45aGc1RQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajasthan BJP celebrates party's win with jhalmuri: CM Bhajanlal Sharma says victory reflects trust in Modi... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHJacl9qN1NOTzNVM29HbG5XRlNUaExvaWQwQVpHUzZGaUFIajZIcnlrNnVNWmJQWk5udlNGbGR1aFc4czZzZUVTU3UtTEROYzh4QUwwUlZfLTY2Y09LaTVpajNLMHVUUDItV29yNXphSFhZYm5kc1FCZVdRY3VHOGxrNHNiXzZyMGNhNU5vWEpIRzNGdU92amZyc3o0UGV4Nnd4TGE1c2hfNFFYRG5za19rc2xmbEJ4MU9idmU0WnJfZWZpbnow0gHMAUFVX3lxTE5wano5ZEk1TnZ2bkNqMUhBeWlya0ZPblZzaU5hSllDclp0TkJ5Ynpnd0JxOGJtd1p6VV9lZEN4NmZnYXJtN01SYnZETlQwT29OQ21DR1lxd0J6VVFVUzBubWc5ZnZBV2Z2ZnFsNDd4cHU3V1Z6WlZGUV80Tk1iSVg0TDJmMU5ubk5aczhuWGpNemxqNlkxODlrUTBMMGdROGUyeWVRc0hHNDg4TXY4V0xCZWcxZURDNFVXR0tsU2xuVW5lV2JWaFIzVm85Ng?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:48.071070Z",
+  "collected_at": "2026-09-02T14:50:54.642106Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.058729Z",
+        "fetched_at": "2026-09-02T18:38:09.475146Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.058738Z",
+        "fetched_at": "2026-09-02T18:38:09.475168Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.058743Z",
+        "fetched_at": "2026-09-02T18:38:09.475174Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.058747Z",
+        "fetched_at": "2026-09-02T18:38:09.475179Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.058753Z",
+        "fetched_at": "2026-09-02T18:38:09.475185Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.058758Z",
+        "fetched_at": "2026-09-02T18:38:09.475190Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.058762Z",
+        "fetched_at": "2026-09-02T18:38:09.475194Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,43 +317,43 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Sardar Patel initiated women’s reservation: MP Manju Sharma ​ - thehawk.in",
-        "source": "thehawk.in",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0otb01jUXdhMmdmMmU5UndjTXlxLU53RGlLRHZ6RU5RM2l2UjVHZHJMelZOWUZzdTA1TExMcUdWNHNobndPLWtCNkRQMWd6eFVSOUZFaTdxVExMaHh2UkVMVndpOFF3bngwQnNZN1A3LWhURjlFY29uYVJRcmFGUUdaOWM2VjVLWmVyb25LeEc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Rajasthan BJP MP raises issue of dependence on foreign technologies, calls for priority to indigenous digital platforms - The Hans India",
-        "source": "The Hans India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLVRYeEFPdmFyaVRIMURSTHBGYldienNnSkJ4TGQ3Y0NsWEV6V18tN0NVdE1Pal9UMjFKams1b2pzRzJnT29UWHMtcklvd2JheHo3V21tamdlX2RfZGFKZGdFNklManlKZTJqRW5IZlFXZlZmRV91OWdteEVYZi0tbGxRemZOTWFzbk9fTGxNcTVmRS1DdzEtNXF0eHB2djNfcWpoNjhqelVmakZ6cGtYUU40QVplcWFqWUlxUVg0SHE5bVQzczVxOHNGcUtWZUtJaHBHMVhzQXhPYjdrS3lnaUJkSks3SzJkQnJ6MXpyLUp0bnVCZWdiZ1lrb1lzUQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Expedite Jaipur Ring Rail Project: MP Manju Sharma urges Railway Minister - Social News XYZ",
-        "source": "Social News XYZ",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnZwNGNYUlV2X0tlMFZHdTlfUERTZjNwNjd0YkdFWTFfeXlROTlnYU42QjlPRkl1WVpHS05ZNnlCVkYwbDFkZ3JrRnAwVXp6Q3kwZXlmRFNiQVFsLTVFZEhwVWlCMURUb2JiV2E4N0hGd1VMZTE1eEQ3MmRYYVRLVTJZeGZWc0d6MHB5M1VwNkItOGktenlucUxycGNndERPcXpHWkV1LXBVM1J2bFRJZ9IBsAFBVV95cUxNTnZwNGNYUlV2X0tlMFZHdTlfUERTZjNwNjd0YkdFWTFfeXlROTlnYU42QjlPRkl1WVpHS05ZNnlCVkYwbDFkZ3JrRnAwVXp6Q3kwZXlmRFNiQVFsLTVFZEhwVWlCMURUb2JiV2E4N0hGd1VMZTE1eEQ3MmRYYVRLVTJZeGZWc0d6MHB5M1VwNkItOGktenlucUxycGNndERPcXpHWkV1LXBVM1J2bFRJZw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Rajasthan Roadways Gets 207 New Buses on Rajasthan Day; CM Bhajan Lal Sharma Flags Off Fleet - Patrika News",
-        "source": "Patrika News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMTd2d2gtd21aSlcxR0RvV3JvbFhyc2Y3VUY5dkh2U25nRmlaUlZSRkt2dC1EQzlTWEtHbXJTbkxaMzNUb0owcmZFdV83TmJfMWQzbDdwdFZfYy1WbWJqczh6Q0Jrb3NGWGZPRG43SjRfcjE2cWJja2tNYlNrdXBPX1ZReExOQUFzX05YZjR3dm1WOTdPTnZzaFY1cFo5UVI3emUwUXVsRTJXN2k3VnYzTzlCLUFZc3VsZVd1eklUTWVfb0h3WlJoS3piekIyY01ZT0UwZ9IB2gFBVV95cUxPN1ExdUhlMFMxLTZqQjJQaF96aHFsUEJCODQ0SEppRnpXd2lCVWtpYllUWE5MYnJPSXZtNUVuOVB0aXRNQzZBQmdmcXFfUkRaRmJRbjdieDBFWFJXVHYzT0g3RjBRc0xPYlZ2X2FuRHlvaVVLRXpzNGRiMlE3ZDRySTJQN3RXS01ZZlBXVVZVc2Y0UG1rV054ZjdSY29ib05KVFdOdmJGRENCYi1peXAwVzM2VXdNelVLU2lkT3lpSnk2WXYtd3NLaUR6Xy11UjdtUm5xQk9tMFJHUQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Frequent clashes between politicians & bureaucrats in Rajasthan: MPs, ministers angered by delays; do IAS &... - Bhaskar English",
+        "headline": "Mortal remains of Air Force Agniveer reach Jaipur: 5-km Tiranga Yatra to be held; martyred in Assam aircraf... - Bhaskar English",
         "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOTUxMi16SHBwYUZueTVHOFFtdDRRRzk2aGhabDBEYVZmcU1xM2w2T25VWUszYUFUTFdlWWktdGlLNEFaOWsxMUJlZVhkMElEcjRaeFoxQUI3RFpZM01lTERlRnMyUEtXZVhHakNaVTVLTDQyUTFhbGxnbmJvZ1Y1R05XbzVBMWF5RExOdTBmS2x6WVowX2Fib2ZySUhlWS0teGRXRzdYRFRLR25wSlItWllQV0NIOVpFeFktZTVTM2ZWNjh1TmQ5N1FDNzRFRVhMUHdybUhBclY1SFlYWExUWk1YYm5OME90SGpqNWF4RlROZXRBNHZSUnJQVVZtV3lrd3hjMVJQUDlJYm81QkHSAZMCQVVfeXFMT0FxU1FCWVFIdHZJdFhReExoWW9IUVdSMjEycnZ4OHdaYWhvTVI0T3B2aVhudkRrSld6VTVjZTlWcHo0MGg0Sm5pQnNGUWd6b3daN1JKQnZVNDF0YmR1WDNaRUVzT3hLQ2tvSVp4YjY2bUJTb0ZXaS1mbW0wQzNCbG90SXd6TWJTM0xoLTlra3JmeGZGVXZsNEFpVVNhSUlOYjBSNlFxbklkUVZrbXJLOEItZDgwZmlXS1N1OU91aFYycXJJZmhOc3RhRTBRSDViLWVBUlFBWmgyekZtM2hRczY1ZDdIdFNUWTRWOWJReGJfX1ZnT3l3M1Fsc2pfQVh5bHlra01sc3dwWnAyNmhvZDRBaGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0hHSjZGb0hwUV84LUVyd0JvcHJlQlRtLWRiX0c5enJnNDA1bUcyWklDd0VnajctV09vcEQ1VzZ0T2NkU0NPelpPNXZGWWVzaFZJcndyeFFqd1FNTnRtX3BlLUY3X1NhNDhnaTAtXzJxankyb2JrQ3hPeTJ5ODBSY2Y2cEtXd2hkWTY0YjV3NlhBaVE1eWJZOUtxbEo4SHlnVmQwUHJtcUhZZ9IBrwFBVV95cUxObW5EX19jdG9oNWhzVzluSEF3aFVTTXJYRXJacEQ0aW43SV91eksxa196ZzBUOUt5WUJEOFZ0Y1ZMNDJWYnRMTEJZX2djSEc2NFlpMmluZzZmSnBVZENSRXR6Rkx2ZXpqZ2c3VGZFRDBMREhqNFFRTEZxbDlRQmJNRUpuU3d1VnlYb1ZWRU9UaWk3SnJGSWw2ckRpSzBuRUx3eGEyb2JvYWtxNUNUQ05B?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Jaipur: JP Nadda, CM Bhajan Lal Sharma inaugurate 'Vishal Tiranga Rally' under Har Ghar Tiranga campaign - indiagazette.com",
+        "source": "indiagazette.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRko2ekFIb1lCeGxBUVpPRGlidXh0enpDNDVQcnlYZGVpR05Ya3dsaDY3ZTdyNWNUcTRNcE44NjRvTjRzTFQyWEZWZmE2a1NjVDFTTjgxb2lpOUhGakRRVkhCT0JDcHJ6TFhZdUtEQUdBenpLWUdpTDdzcC1za0M3c2dKYUpSN1gtR20wU1BrU1FhdXM3RUZvc1pMSWduWGU4UVllLVl2dmYwdUo1V191ZUtET1pvTkRpUzdWb0d2QmVORHNWUEVJVFJJSDVOVGwwb3V1bmRiRzVnTjRx?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Union Minister Shri Ashwini Vaishnaw Inaugurates 20 kW Akashvani FM Transmitter at Ramgarh, Jaisalmer - pib.gov.in",
+        "source": "pib.gov.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2RFdmMWFIR2JRSWl3VTFIY1YxZWlzZ0dndXllY0FGLVA3UXR4RlpmdVIzamxTMXYzYWVWQWtMUmt0bE1oaHpPVmllQ3BReWdpYlY5TXBoMW5Zai1JUjR6QUhMSnpJai1S?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "PM's advisory council recommends 13 new LS seats for Rajasthan: Six constituencies mooted to be divided int... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZkNvOUdfRXE0bWwzYTIwb1UwODAzYllJTVBQVklYMnR0WGwwLW5HUmpqYmZXUjMyMDRLX1Z6eXQyMXNQbkFRMHNmaFdqSVVJSURhZ2NjS1llX2dWd0VQWDZaekY5MHlNZlVlQ2t2UWx5cHZNZ1lRVWJ0ZVREbHpPaHpLX1pyV2dXYVo2c1l2RlA4eG05RVpmM3JLUEk0aElEN1lBbzRDVHZZM1JJOU9mMlFfc3hLeW1nemt5Ykg3Y2U5RkhXWkRTc0xR0gHPAUFVX3lxTFBybWpWQ2hEWUktX1hOVDNiLWwtOWNOaXpycE9VZkQtRTB1akNBOUxMMWFHQklBLWVUcS1STUZNY3VwazJyLUtsMVR5NDcya1VtaHhzRkozWXU2RDhEMEZTVjlHa3haX2ZXY1VPZWl3U1UxOFBNeXdMcjQ2ajFkWFhqTTFjZGQwb3hSLVBqWjMxajFuRE16RVdaa3NaMDFaTnAxT0Y5aTVjandwZEZ1WmNaZ0xGXy0xNVdRc1NyUloyWWJybmVFQjRKVm45aGc1RQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rajasthan BJP celebrates party's win with jhalmuri: CM Bhajanlal Sharma says victory reflects trust in Modi... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHJacl9qN1NOTzNVM29HbG5XRlNUaExvaWQwQVpHUzZGaUFIajZIcnlrNnVNWmJQWk5udlNGbGR1aFc4czZzZUVTU3UtTEROYzh4QUwwUlZfLTY2Y09LaTVpajNLMHVUUDItV29yNXphSFhZYm5kc1FCZVdRY3VHOGxrNHNiXzZyMGNhNU5vWEpIRzNGdU92amZyc3o0UGV4Nnd4TGE1c2hfNFFYRG5za19rc2xmbEJ4MU9idmU0WnJfZWZpbnow0gHMAUFVX3lxTE5wano5ZEk1TnZ2bkNqMUhBeWlya0ZPblZzaU5hSllDclp0TkJ5Ynpnd0JxOGJtd1p6VV9lZEN4NmZnYXJtN01SYnZETlQwT29OQ21DR1lxd0J6VVFVUzBubWc5ZnZBV2Z2ZnFsNDd4cHU3V1Z6WlZGUV80Tk1iSVg0TDJmMU5ubk5aczhuWGpNemxqNlkxODlrUTBMMGdROGUyeWVRc0hHNDg4TXY4V0xCZWcxZURDNFVXR0tsU2xuVW5lV2JWaFIzVm85Ng?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 21,
+    "starred_questions": 6,
+    "unstarred_questions": 15,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 40.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

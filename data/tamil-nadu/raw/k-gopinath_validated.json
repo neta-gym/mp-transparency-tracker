@@ -4,16 +4,16 @@
     "constituency": "Krishnagiri",
     "state": "tamil nadu",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 1531,
+    "myneta_candidate_id": null,
     "slug": "k-gopinath",
     "house": "lok_sabha",
     "sansad_member_id": 5718,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/5718.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Krishnagiri",
       "state": "tamil nadu",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 1531,
+      "myneta_candidate_id": null,
       "slug": "k-gopinath",
       "house": "lok_sabha",
       "sansad_member_id": 5718,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 61,
+      "age": null,
       "photo_url": "/mp-photos/5718.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1531",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:52.308788Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:36:25.350737Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 123405500.0,
-      "liabilities": 11498082.0,
-      "net_worth": 111907418.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1531",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:52.308799Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 62.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.37,
-      "expended": 2.75,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:46:17.210211Z",
-          "notes": "Official eSAKSHI REST API — Works: 117 recommended, 50 sanctioned, 5 completed"
+          "fetched_at": "2026-09-02T14:46:40.884932Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:42:52.179836Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:42:52.177720Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 117,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 18.70748299319728
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 60.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:26:59.996982Z",
+          "fetched_at": "2026-09-02T14:42:52.176794Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Gopinath K , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMUpUQUFlRXZuM3Z4bUEyWVVjOVBLWk9fcXNldnJkZlBWWkFYNHJlazVBLVUzVDJTMTZCTHF0UkpKTDJ0aXdtVi0xX1lwaVhDUFAxRGxybmFFNldHMkU4dldJUVQxQlpYN21kbXhMUWxzNDg4QUhrRVpoTVI4ZXJkcg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Krishnagiri election results 2024 live updates: INC's Gopinath K wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbWhoZGVSNVpfZWVoRjNEN0l0NmJDdU5fWEhWWWlyZ2ozcWExZlBKVS1HRmhpN1phZnpiaVhQYlprU0dZUUNkdTBhWDNyakQ4bTFfV2JoUjdrUkhpNHpzcHVjM0dQSDhaZko5Z25yeHZKdV9pbHd0NTU1cDYxMFN4OVFmT01wUHBuRWZ1OTJJa2NLd0ZrdV9LeEpnZVRubURwMTVkRHE5a0xRWTFVVFU4Mm1RNEFBTFc0ay1oQ2JEMm9EZXExZ2dCUWxUYXVzOVNQaXNpZXhHamxOZXNPOV8yOFpWNlVuTjNYWUNBY1RzR1k1YjZRcUR0bWhSUFVlOTBCcUpoTUhJeWNPSTRub0ZoU2VWWWdpdVlRNktZY2lIX0RvS1NCSkpPcGxDaG5EcTJhQU1EYThxWFNvb3IyekxRbkJBdV9qTHfSAcwCQVVfeXFMT3FqT3BTRUFHV0lMOWtHODB6Q3dXb1Iycklpb2pNZ3dvVUFiZFN3Z05xWEhXNEZFYk9xTkVvSXRrOU9HVGFlYnVFR2g4a2kxUmg3Y3BITVB4S3U3eGlhZHBYeC0wamZKSnl4YUVEY1NRQ2NEek5yVld1VlBMNkoyX0pXb1pLR2ljMUhoLVljX1JCZERuLWpMd3hmSnZSZGMwdXJPNENBUUROZTRURFNTWFJPd0hsYVg3S0toMUNOeF9BR2ltZnlHTDdEaEFiQnZoMFhXNlFHbDB1a0F1OXhTcnZ5LTVjU0VBZUI5OTRfVDhDaFBkWEtwYzJNWVYtd29RUmQwTjFWTmhSaWZZNFNXVnMxb053a2pfYWlHZVQ5RVFqSWVaOXFpYkM0WGgzemViOTVxcXAzTGktd3pMOHBmWnVOTEhFVHN2bjVGVW4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Wait is over: Tamil Nadu Congress list with seven names out - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZU1qdlZ5Y3lZb2dDN0puZTZnbUIyUzh4dmRjd2licUM2XzB6aTZNZVlLSVVGclVhVWRCQXRQQWJCeE1MR1Bhcmt4QWM3U0lLeTRldkpJMlBobXdhT0l6Y2JqVGl3WkI1Z04zLUVQXy1YbUdQbkhzVTZLMzFOaXJiSzFrWkVIc0ltaHJGMzgtMEJZZGZ0d3liTXpsMmpFaF9IM0tSMlVSakk1VmhhTllnNEhXdGI3UkptM0gzNFN30gHLAUFVX3lxTE15XzFaVTQtTjd3UTlXTVNqcjZNSTd4UEZSWHlTV1VRNjVFZnRKZXN1R2RtYUxFb0JiaXM2Z21OSGhxSk5seXJrWHdIenVUWE9RVV9aUnc4S0RGLUsxTmdTemdsLWRtN3lVSDFMaE41SkllNFRlSDVKUlVqdkJnbjZuVlRiRnNMT3czLUpISEgyVktvVlJSN1hyQmIydE50eWtZWnlFTEx5eUw0TVRMNGZaV0prenpHajhRaDkyeTkxcXZzTmZGWFB4NXdz?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Telugu Pride Soars Beyond Borders: Community Fighting All Odds To Preserve Language & Culture - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOVlfODFQTUJxQWc2OEUzakpCLVhlN1BwSm5aNlFzaE5vaVFacjRmNElqdVVRSV9Sb2hZVFJHUkEtTVdFbVlGZWVPX1IxQklNWDd4RHFHdXlmRnFMYkJTWlJ4bEdGUThicE1aR3ZPQW9LSDhGaFl2Qk9VSkd3QjlCWGVZZ0swbGlOY0JnMVUwQ1JKLV9oVGZkaDN5Q3hjWEVCdTRvWFl2OFd5dnFhYldDdkdFbmJuU2ktVGgzWHdoektCc3hhVjZCLXdNeVNtZHBpUmRNZnBRVXhpczZVTXkxWDdzRULSAeoBQVVfeXFMT2JkQ1MyNXAxM0RZd3I4OWRqa1M4QXlNamg5V29BWVBubFNZejFNRjdOdDE0RUFzaXFaVHRINlpSNVQ5aGMzb0Z5RnVxQkVyV19hVlVaZ2g1bzhkaU1lbFBGMTFRbHZNMmVqRTdYcU1YcklObWFSR08xVU43V1ljN0hxZGlTMUJ4Vzh6Vl9wTFo4SDhDRGdZc1A4em1RMmVwdUhVUU1oUDdlaGJ6RElTUzRaa2k1b1RwdW0xazZlOVBxVFAxbUpHV0hOWlVQY2lGUVI4SkZ1LVFZdzZ0Z1BWU18wR3RhbzBkSmRB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tamilnadu MP takes Oath in Telugu, here is why ? - Gulte",
+        "source": "Gulte",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSi1kV01wOXFUeTRyUzBRT1ExeURHUmxVZWk5bEoxVlU1ZGFRaUhoQkFIdVEtbmZtMm9kc2ItbGZNRjl6amU2MHo5TXp2Vmw0Z00yT1oweGZNZW1yRGMzX2haVWRraU55cTFxM29Rd1hoVVRWVDQ0RlFObEl1T1VTRThJcFZzOVFFN3h0a29UdTgyd0nSAZgBQVVfeXFMUC04TmxWTkFPd1dkVG5iMHJ1ZDJEZ1ZmMjhrdXR5c3czb2E3T2paTEJEV3dQUTh2cmhvRV9FWTBLR1pkWDFyVWE4Y0pTbG5aQ1owWVZVN3F0SWN5czdpdV9RdnVlbTB6ZlJhSTR4QnpxcXh5MUVCUjlxR2xWdGlvb1NDOEJqRkRNSkloNEdCdkV3UnVQVFg1MHo?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:28:03.277631Z",
+    "collected_at": "2026-09-02T14:46:40.885748Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.385844Z",
+          "fetched_at": "2026-09-02T18:38:09.868193Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.385853Z",
+          "fetched_at": "2026-09-02T18:38:09.868206Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.385858Z",
+          "fetched_at": "2026-09-02T18:38:09.868213Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.385862Z",
+          "fetched_at": "2026-09-02T18:38:09.868218Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.385867Z",
+          "fetched_at": "2026-09-02T18:38:09.868228Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.385872Z",
+          "fetched_at": "2026-09-02T18:38:09.868233Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.385876Z",
+          "fetched_at": "2026-09-02T18:38:09.868238Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,11 +322,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/i/flow/login?redirect_after_login=%2FKGopinath09",
+          "url": "https://x.com/https://x.com/i/flow/login?redirect_after_login=%2FKGopinath09",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/KGopinath09/",
+          "url": "https://facebook.com/https://www.facebook.com/KGopinath09/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/kgopinath09/",
+          "url": "https://instagram.com/https://www.instagram.com/kgopinath09/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:42:54.970312Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -289,14 +367,6 @@
       "negative": 0,
       "neutral": 10,
       "top_headlines": [
-        {
-          "headline": "Cong MP writes to LS speaker for office space in TN constituency - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTDMtTUk0aEpQdW9mWnNjSWp6Z3ZTMzdXSlMyYlJ6X2wtWmhITThsYmdyOVAwQVEycFllWjgwOXhTdXlsSGZLUExWVDZtdDN3MGpiMUVnM09MQVpfMlh5YUtCMVJXVmx1ZjVDOGJ2azMxWFFOS01iYXBsa1lVRWVsRjBkS1BOQ1BPQmFITzZXNUdSZFJWUzJ6eUp4eFdwX1BWRHBLQmxoUDZoWXhmZldDSWRpdS1jQWNOajhyV0hHd2RkNjNqYUdjcjVBR2hCMkxHUmFnNTdn0gHbAUFVX3lxTE1wWXlDUk1tWmhFbDNlSG9zNHdaUy1jOFdKbVM5SDM4Yms0bUJkVWp1VGRqcUN4d3Z0S0pqUmJad2pIRld6cHdIMVpNSzdLdDhKOWp6SFktc25wVGJQcXE3RXpiMUw3ekRwMG5GYVB0eVFSUjdhNWo3dC02ZFJlU25oQzZfR1N5UG9TcVNlU1J0T0g0Q0dHR1NMaG5iZVpuTHlTYms4YnROZnlmbFVYU2JuZ3FJR1JITTNqaTRSVzR1U0ExZy1DRUxQUWczcjQ0MEJYVE12bXVqVFBlVQ?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Gopinath K , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
           "source": "The Hindu",
@@ -306,11 +376,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Tamilnadu MP takes Oath in Telugu, here is why ? - Gulte",
-          "source": "Gulte",
+          "headline": "Krishnagiri election results 2024 live updates: INC's Gopinath K wins - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSi1kV01wOXFUeTRyUzBRT1ExeURHUmxVZWk5bEoxVlU1ZGFRaUhoQkFIdVEtbmZtMm9kc2ItbGZNRjl6amU2MHo5TXp2Vmw0Z00yT1oweGZNZW1yRGMzX2haVWRraU55cTFxM29Rd1hoVVRWVDQ0RlFObEl1T1VTRThJcFZzOVFFN3h0a29UdTgyd0nSAZgBQVVfeXFMUC04TmxWTkFPd1dkVG5iMHJ1ZDJEZ1ZmMjhrdXR5c3czb2E3T2paTEJEV3dQUTh2cmhvRV9FWTBLR1pkWDFyVWE4Y0pTbG5aQ1owWVZVN3F0SWN5czdpdV9RdnVlbTB6ZlJhSTR4QnpxcXh5MUVCUjlxR2xWdGlvb1NDOEJqRkRNSkloNEdCdkV3UnVQVFg1MHo?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbWhoZGVSNVpfZWVoRjNEN0l0NmJDdU5fWEhWWWlyZ2ozcWExZlBKVS1HRmhpN1phZnpiaVhQYlprU0dZUUNkdTBhWDNyakQ4bTFfV2JoUjdrUkhpNHpzcHVjM0dQSDhaZko5Z25yeHZKdV9pbHd0NTU1cDYxMFN4OVFmT01wUHBuRWZ1OTJJa2NLd0ZrdV9LeEpnZVRubURwMTVkRHE5a0xRWTFVVFU4Mm1RNEFBTFc0ay1oQ2JEMm9EZXExZ2dCUWxUYXVzOVNQaXNpZXhHamxOZXNPOV8yOFpWNlVuTjNYWUNBY1RzR1k1YjZRcUR0bWhSUFVlOTBCcUpoTUhJeWNPSTRub0ZoU2VWWWdpdVlRNktZY2lIX0RvS1NCSkpPcGxDaG5EcTJhQU1EYThxWFNvb3IyekxRbkJBdV9qTHfSAcwCQVVfeXFMT3FqT3BTRUFHV0lMOWtHODB6Q3dXb1Iycklpb2pNZ3dvVUFiZFN3Z05xWEhXNEZFYk9xTkVvSXRrOU9HVGFlYnVFR2g4a2kxUmg3Y3BITVB4S3U3eGlhZHBYeC0wamZKSnl4YUVEY1NRQ2NEek5yVld1VlBMNkoyX0pXb1pLR2ljMUhoLVljX1JCZERuLWpMd3hmSnZSZGMwdXJPNENBUUROZTRURFNTWFJPd0hsYVg3S0toMUNOeF9BR2ltZnlHTDdEaEFiQnZoMFhXNlFHbDB1a0F1OXhTcnZ5LTVjU0VBZUI5OTRfVDhDaFBkWEtwYzJNWVYtd29RUmQwTjFWTmhSaWZZNFNXVnMxb053a2pfYWlHZVQ5RVFqSWVaOXFpYkM0WGgzemViOTVxcXAzTGktd3pMOHBmWnVOTEhFVHN2bjVGVW4?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -322,11 +392,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Political Profile of Gopinath K, Inc Party, Krishnagiri, and Net Worth - India TV News",
-          "source": "India TV News",
+          "headline": "Telugu Pride Soars Beyond Borders: Community Fighting All Odds To Preserve Language & Culture - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRzhzQXhsNmRucFo4NEVVZUVCcTc3REM2S0FTaF9xUVpaSlJlRW5WQTJReW9fN0tVajhHaG8xZ0hJaVRpbk9IYzNDSTVBVWNfaWdkSWl3WUZCU2Z2c2dHZ2UzZlZaUHZ5T2FRNERWcTN3TVdTU0RnSW5BRDl2Ym54UXoxMWt6aDYzb0hSR2ZoNWdZSzctSjBFTnFiUEVZU1RoclNmZEIxM1RGdy1oSFZyWTlYWWdkd1REckZBM290QWh0UWZtOEhGS0RFaU9xNS1SRDIyYndjZ0pNdjZu?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOVlfODFQTUJxQWc2OEUzakpCLVhlN1BwSm5aNlFzaE5vaVFacjRmNElqdVVRSV9Sb2hZVFJHUkEtTVdFbVlGZWVPX1IxQklNWDd4RHFHdXlmRnFMYkJTWlJ4bEdGUThicE1aR3ZPQW9LSDhGaFl2Qk9VSkd3QjlCWGVZZ0swbGlOY0JnMVUwQ1JKLV9oVGZkaDN5Q3hjWEVCdTRvWFl2OFd5dnFhYldDdkdFbmJuU2ktVGgzWHdoektCc3hhVjZCLXdNeVNtZHBpUmRNZnBRVXhpczZVTXkxWDdzRULSAeoBQVVfeXFMT2JkQ1MyNXAxM0RZd3I4OWRqa1M4QXlNamg5V29BWVBubFNZejFNRjdOdDE0RUFzaXFaVHRINlpSNVQ5aGMzb0Z5RnVxQkVyV19hVlVaZ2g1bzhkaU1lbFBGMTFRbHZNMmVqRTdYcU1YcklObWFSR08xVU43V1ljN0hxZGlTMUJ4Vzh6Vl9wTFo4SDhDRGdZc1A4em1RMmVwdUhVUU1oUDdlaGJ6RElTUzRaa2k1b1RwdW0xazZlOVBxVFAxbUpHV0hOWlVQY2lGUVI4SkZ1LVFZdzZ0Z1BWU18wR3RhbzBkSmRB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Tamilnadu MP takes Oath in Telugu, here is why ? - Gulte",
+          "source": "Gulte",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSi1kV01wOXFUeTRyUzBRT1ExeURHUmxVZWk5bEoxVlU1ZGFRaUhoQkFIdVEtbmZtMm9kc2ItbGZNRjl6amU2MHo5TXp2Vmw0Z00yT1oweGZNZW1yRGMzX2haVWRraU55cTFxM29Rd1hoVVRWVDQ0RlFObEl1T1VTRThJcFZzOVFFN3h0a29UdTgyd0nSAZgBQVVfeXFMUC04TmxWTkFPd1dkVG5iMHJ1ZDJEZ1ZmMjhrdXR5c3czb2E3T2paTEJEV3dQUTh2cmhvRV9FWTBLR1pkWDFyVWE4Y0pTbG5aQ1owWVZVN3F0SWN5czdpdV9RdnVlbTB6ZlJhSTR4QnpxcXh5MUVCUjlxR2xWdGlvb1NDOEJqRkRNSkloNEdCdkV3UnVQVFg1MHo?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -360,15 +438,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 31,
+      "starred_questions": 9,
+      "unstarred_questions": 22,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 60.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +454,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 60.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Variable",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +485,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +512,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 123,405,500. MPLADS utilization: 18.7%. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:52.386607Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 60.0%. Questions asked: 31. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.868975Z"
 }

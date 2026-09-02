@@ -24,60 +24,82 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:49.872769Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 20567671.0,
+    "immovable_assets": 88115862.0,
     "total_assets": 108683533.0,
     "liabilities": 508675.0,
     "net_worth": 108174858.0,
-    "previous_total_assets": null,
+    "previous_total_assets": 6579562360000000.0,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3668",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:46.094884Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:21:54.154054Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 60.0,
-    "growth_ratio": null
+    "wealth_percentile": 57.3,
+    "growth_ratio": -0.9999999834816471
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 1.67,
-    "expended": 1.54,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:31.697508Z",
-        "notes": "Official eSAKSHI REST API — Works: 96 recommended, 26 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:25:33.166511Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:52.659606Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:21:54.663289Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 96,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 10.476190476190476
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:06.522743Z",
+        "fetched_at": "2026-09-02T14:21:53.736719Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Shripad Naik, North Goa MP who said this was his last election, set to continue as Union minister - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmowSFNmOEZIVzdJOFZFRFpQemNDNWxROENPMlJaX2l2QTl2VXBGMEdzVlZLdDl2cGdZYXc5LTlUT1lqemtSWjFhcEdGYWJjVG5XSU5zYTV5cTVqbEtWeWFVdnU0ay14YjFhcUpzSmYxX1ZQTWFacEV4R3hjNmdjNlVKN1RONDc3RXRmTVdYbFljRWxvcFZmd1ZtZjBINzhHWTgydDFFUVExVkXSAbIBQVVfeXFMTlhFUFFDekR2emlXbVptWmVMZmNUOHZ5UzBzTHhMVE84Yjh5VlByeHJqNG1JQjlETHpuZ1U0NUpwNHZ3QUw3Qk1LWTlnQXJEamVPdldTQUNNRlBhRG1ENUplQTlzVDFBQWwtNENISXY4Qzh1a3ZhV21OdXBXeVFRNXpHZndMa05rY0xlV0VWb2x0YUVTS3VtWGlaNUt5aVY5Y1hNNkRSRG5wVGdzaVJOeFVOUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Feeling let down - Frontline Magazine",
+      "source": "Frontline Magazine",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2hnRkZVUDUxN1VFSkstMmVVekFSZ2NmR1VfVGtIV1ljMk4xRERPcjFPMEttcC1QWkphUFhIeVRHbnlGRHA5dFFZdFU5NllqR1NkWFJhZUMyNHhxMlozenlsN3AtZngzbXh1UGZTRkJTWDgwc2dfOXlyaHY3TFJteTYyY03SAYsBQVVfeXFMTVMtOTJOX1pYa05hdHI4Vl9GajhuRnp1Nm1tZlJaTEhCSEViZUlmTGNNc2R2ODNtMHNCMDZhNXZ6RWFyTEZTSjhWV3lJMmxvdWsyU0lZZURiN0lYVVNyNGVCWDYxak9hZmZTUXlwUFJnUHlfZ2taSWRCQ0tyVXNmWUNmMjhJQWtRSk1vVQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "North Goa lok sabha election results 2024: North Goa Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbTlqQV82MGZhU2VZR0RyUWVXVFhRSm4ySFJ4bUtTR2VSYktFcXR4emJKbWxvM0JYdEdKS1RNbWlXSlozVHloTjFWQ1pWR2w1ZWdMSlNGeXVGZXVrTkU1WFNwMzg2Y3ZkN3dycjVwQktwVmFUek1GQ0NXUXByc3Ffa3ROMDJCbWhJSEwxaw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – N - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTy1LMm9DY2hRTHJDZWgxRDlwODl4WERHRDNPVTh1TnJ6U1FkTG55QUxRcjgtazJubURsNGlMV1RUQ0ZIZzYzbDVCOHFuSlFfQ0NxVUZkR3Y5Q21kd25pMHkyaUI1d2xiN1puUFUzcjRJVjRfWFREUnNvUTRqaDQ2Q2RFXzVLWmc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Press : Ist List of Candidate for Lok Sabha Election 2014 - Bharatiya Janata Party",
+      "source": "Bharatiya Janata Party",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZjlVQWVFODVBVTZ5OHhJQ205aEdRVlB4b080a3hmQW1NdXFyQndLR00yeHZaeTRvOVZydDJDODMzOGRsZWJIaWxHMkNEMS1nUGwzOXJaandua0NvV0I4MFBybloyNlo3YkQ1bTduQVN5bWNDNDNrbV8tNV80dXpJckVzY0ViOFJpTHc?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:56.796859Z",
+  "collected_at": "2026-09-02T14:26:06.171471Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.896133Z",
+        "fetched_at": "2026-09-02T18:38:05.471957Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.896142Z",
+        "fetched_at": "2026-09-02T18:38:05.471968Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.896146Z",
+        "fetched_at": "2026-09-02T18:38:05.471974Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.896151Z",
+        "fetched_at": "2026-09-02T18:38:05.471979Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.896157Z",
+        "fetched_at": "2026-09-02T18:38:05.471987Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.896161Z",
+        "fetched_at": "2026-09-02T18:38:05.471991Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.896166Z",
+        "fetched_at": "2026-09-02T18:38:05.471995Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +315,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@Shripadynaik",
+        "url": "https://x.com/http://www.twitter.com/@Shripadynaik",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/Shripad.Naik",
+        "url": "https://facebook.com/http://www.facebook.com/Shripad.Naik",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:21:55.272110Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 9,
@@ -288,19 +377,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Press : Ist List of Candidate for Lok Sabha Election 2014 - bjp.org",
-        "source": "bjp.org",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – N - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZjlVQWVFODVBVTZ5OHhJQ205aEdRVlB4b080a3hmQW1NdXFyQndLR00yeHZaeTRvOVZydDJDODMzOGRsZWJIaWxHMkNEMS1nUGwzOXJaandua0NvV0I4MFBybloyNlo3YkQ1bTduQVN5bWNDNDNrbV8tNV80dXpJckVzY0ViOFJpTHc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTy1LMm9DY2hRTHJDZWgxRDlwODl4WERHRDNPVTh1TnJ6U1FkTG55QUxRcjgtazJubURsNGlMV1RUQ0ZIZzYzbDVCOHFuSlFfQ0NxVUZkR3Y5Q21kd25pMHkyaUI1d2xiN1puUFUzcjRJVjRfWFREUnNvUTRqaDQ2Q2RFXzVLWmc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Narendra Modi swearing-in ceremony: Goa's Shripad Naik to be inducted in Modi 2.0 Cabinet - CNBC TV18",
-        "source": "CNBC TV18",
+        "headline": "Press : Ist List of Candidate for Lok Sabha Election 2014 - Bharatiya Janata Party",
+        "source": "Bharatiya Janata Party",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX19mWVRqdkExX0hJYWx1X09HczhzTXlkOS1IZWc1a2VlX3Nodk5qb0ZFZVJNTWhjaDlzTUVIdUlueWEyRHNxalRMdHQyem5hcU9Qd01ISzNCcUVOMl9tUEdFdG9vSU5hSktZMTEtSkpzeTRjUDF5YVZ5TF9HRnI2aVNxdzJmakZnMG1KZVlwTGxUVkJxbkYtWW96cFdtMEtIdDUzR2lEd0pVVW1RckVkYTE4ZDlzVURwSVNESDQ3ZG9lMTB2RmdLc0R3X0U1ZWVWM3Jld9IB2gFBVV95cUxPQlRaX0d2Tkd2c1RBMEtxemFNMVRiVWlURmYzb3BETkRrS0c1Vk5STy1MZ0lDUVFjOWQ3M3JGd2pzbndvdjJJVzRZOEpydVA2VTFwS2NRZzRrd1J6SlZwUEp5QmpaaXRNZlh5akRGcEF5WFhyalEtaGZrNXY4eFp4aXVsWHdrcldRcDgyY3oxOUYzTXU5aVBUWThMSGNTSHNxMzFMN3dncU54RGt3M1luZndTUFM5YlZjOWZVLXhHcVJyLUZRWnRQZnFwRk1MX2p5azJEdnVPTlo4Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZjlVQWVFODVBVTZ5OHhJQ205aEdRVlB4b080a3hmQW1NdXFyQndLR00yeHZaeTRvOVZydDJDODMzOGRsZWJIaWxHMkNEMS1nUGwzOXJaandua0NvV0I4MFBybloyNlo3YkQ1bTduQVN5bWNDNDNrbV8tNV80dXpJckVzY0ViOFJpTHc?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,7 +439,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

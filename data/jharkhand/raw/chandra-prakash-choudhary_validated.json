@@ -4,16 +4,16 @@
     "constituency": "Giridih",
     "state": "jharkhand",
     "party": "AJSU Party",
-    "myneta_candidate_id": 8523,
+    "myneta_candidate_id": null,
     "slug": "chandra-prakash-choudhary",
     "house": "lok_sabha",
     "sansad_member_id": 5115,
     "profile_url": null,
     "canonical_name": "Chandra Prakash Choudhary",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/5115.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Giridih",
       "state": "jharkhand",
       "party": "AJSU Party",
-      "myneta_candidate_id": 8523,
+      "myneta_candidate_id": null,
       "slug": "chandra-prakash-choudhary",
       "house": "lok_sabha",
       "sansad_member_id": 5115,
       "profile_url": null,
       "canonical_name": "Chandra Prakash Choudhary",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 55,
+      "age": null,
       "photo_url": "/mp-photos/5115.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,122 @@
       "convictions": 0,
       "pending_cases": 2,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "85/2019, Town P.S. Giridih | Section 127A R.P. Act. 1951",
+          "ipc_sections": [
+            "447",
+            "188",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "CJM Giridih",
+          "fir_no": "85/2019, Town P.S. Giridih",
+          "case_no": "",
+          "other_acts": "Section 127A R.P. Act. 1951",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "201/2021, Lalpur P.S. Ranchi",
+          "ipc_sections": [
+            "147",
+            "149",
+            "341",
+            "323",
+            "332",
+            "353"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Spl. Magistrate MP/MLA Ranchi",
+          "fir_no": "201/2021, Lalpur P.S. Ranchi",
+          "case_no": "MP/MLA/5/2023",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:20.713674Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 49849182.0,
-      "liabilities": 27031670.0,
-      "net_worth": 22817512.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8523",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.241487Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 39.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 8.39,
-      "expended": 4.71,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:57.838138Z",
-          "notes": "Official eSAKSHI REST API — Works: 632 recommended, 594 sanctioned, 29 completed"
+          "fetched_at": "2026-09-02T14:26:43.513526Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:51.282595Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:53.492410Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 632,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 32.04081632653061
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +170,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:41.761091Z",
+          "fetched_at": "2026-09-02T14:21:52.691588Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +178,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "JMM decides to field Mathura Prasad Mahto against Chandra Prakash Choudhary of AJSU in Giridih - jharkhandstatenews.com",
+        "source": "jharkhandstatenews.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUmZuWHN4ZDF0cGRIQ1JXYTNlNlFxRHZkN3EwRTZzM0lhX20tOFhZMGh2QmVPVUluQWZ0TjZPUEktZ2psSGYzTnBmdlIxclRFYXN3RGlpSGZtQUdWc1o3cTRiZk1oSXhqbWZCWng1V2lZRFB6SjBUZVNqWWwtQl9MeTQ2bE1YTnotdG9TSVdId3ROSVdtaUpXWVRGMXFfVW5pTjBjY3ZvQ3F5OGU2ZE80TFN3MktkMHlsRlNXZXoxYTJQaE9TZzA0T2ZlU25yd284RDFDUVVLaUFhLU5HTXJSa2FSRTk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "AJSU leader Chandraprakash Choudhary likely to get cabinet berth - The Avenue Mail",
+        "source": "The Avenue Mail",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUE5kakVLQkFBVnhTaHpidUR0Ujl2QmdCeXZIOHJYMUJ3WHl3NzhfbnIzb3E3UHU5ak5QT3pXT1JQemhkN0lPQ0dQbEpLZmVaNHdfcVJIeHRiZEdzNnlVMXFBbU5jbFBWNFlKREtPMWttNDEwQzlmU0pFZF85OGh0VkV5Uk94M2VFWDhxa25CazM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Giridih constituency of Jharkhand Lok Sabha Election 2024: Date of voting, result, candidates list, main - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORnJUdFJHMU1EeDVieVdza1RqYS14NHFQVmdITGJNMENPeXJrN3RTcmtPa1Q5aTJzeDFqUnUxVDAtQ1dZd0J4ek0za0FNSm1XaWxhTGxBRGRSZ29rQmEwVzFReUJRUzZvN09DMG44R29SNDFUdjNleC1FQWJqTzgxT2JQSzNPd2tQVDNuTTBvVmJIajRfdkFNbXdnRHVYUXIzYUNTamRHOWtUN0J4UE9PdjVOSzJEMFNGOHJKVW5iMmJ6U3FFZXRMZlRMTlRoNWxYQlpZVnlWT2dkSmZqdmlYdnRFeVMxVE9SUnRwZkx3SE03MzB3cU9rX2I5SVMyVnRHeXYyYV9MbDJheERFUnNUYjh6Z9IBmAJBVV95cUxQck53dnpzT0c0ak4zY1ZLd28yOTRrN2xvUmNSd0VMeWlLSHV1dWh5X2szX2NnUTAxM2FKM3RfY2lRSVJpbkI1cUVKdlo2bzhQeTM2NVVveUN1b3JBZ2tKcGd2UktMdGR1eHZJZ1hjZG5fOGhuaWRvT1J0UWI3YXpxZ2JFWV81TzZJVGxYTE83bWdZcnpmaDU5djNmamRsd1hwOGVkMUMtWjY1c2lWR1F0aVVNZ3NUcWlpUTF1bzRsRWdlU2xsNEpFRTR5TDZUd3ZQVjc1NlVuaVdzeFpRT2k0T3R1S0NvdUZyNl9wb3NQQjlpLUt5dlBBay1leUFkOWtRWFBwZkNuRkZURFNRQWdzRDVoT0l4NDJM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP office torched, SDPO injured in violent clash in Dhanbad - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkJDQmhOb2dJRU1iNHA3VHV0NGtFaG9WUVg0MGtDRTRSdWNpZTVoMXI0NTlua2FIMFJiSHRQYnBFTm1LZW9ROUpnUVBSblFYcERKUUF3aVpGOXphZUxFU0pMX2VLVjRtNEstcHo4MXJBZWw4Yy1TdUdkR1JxbXRVZkh1RUZhVnlDWmU5RFNZSDRXQkZJTDc1MnJWTjNLdTVBLXY1MXZOTXF4V0huQ0HSAbsBQVVfeXFMT0ZRR19iUEhwcjh5ZXFxWi1mMFZuTllBclA0cktfYVlVOVpHNzhBUUtzNVllOF9CMmFMNjVEQnhsRVhJNk1VdHFRNVJfUDV4b04zYm1pU3ZHRmJFSHFKRkFkLWQ4Mll3dmJ4Y1Aya2VhZDlCTk1fcXJIMTk4X25jbzVWLU9YZnYxcF9LcVEzcWFTQUpOUFRnQnc0elYxRGYwMkpFc2FCUXVlRndubWRsazJ1alBRcW45ZTRhVQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Giridih Lok Sabha Chunav Result 2019: आजसू के चंद्र प्रकाश चौधरी ने मारी बाजी, JMM के जगरनाथ महतो हारे - AajTak",
+        "source": "AajTak",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTWN2eElfb0FVeTN3eVpVUWRWSmVKaWxxbm5jWk16MUloQVZQSVA3V2d0czNSU0ZJTEN6eU1SOWNzTUxCSkllZU9XWVF5ZUNQS0RScEtWemd5NnVBMi0tS1d3dU9WNXdMVGVoaW9pQ25TWjRsU2Vkbm4yUGFjcHV3dHcxOFZZWU8yeGgwbDZZUHI4amNNOURCRkxZR3FyT3ZxcUQ4bDMxZ3ZNbUNPT2tsZFZaaGtPcWZsTXM1NGE4b0pyTWFsQUhwSEFYWHR1bU9STGpIWV9IM25FOUVFNXFHb1BkaXI4WlBvSGlxdmF5MVBKX01taEgySVo4U1U1VGVfbFVDTUdSa21mUU840gGSAkFVX3lxTFB3MTJ2bmtkX0pSWExfSmRyWnhiTFd5dktpQTNyWm1QTUk1UlRqNVd5V3VQaGQyOWxMQmd3Zk1YVXF5VWk0ZmFQaWhNcXpaYVJtbVFISmgzOGRSclRRSDJuQzNJM3J3N0tiR1BhX3hEYzdjTjFKa0NUS1VVVDRZTDBnNkVXaVI2em0zSmFkOWtramlqa3hKdVE1c3VEVGhYLXhUMHFwUDlLQ3R0Nl9JSms1SDVuWHRxMHladUk2Z3M1c1lXaHJ0YXRrRlpOYWJBV3otQVNmTGdLUmVabEVHS3JfT1FIWUdFekpqa2xXcWNHbzVsdXUzMDd2cEJVMEJYdEVieldWNWg5d1NNMlZ6Z1ppS2c?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:21:19.745896Z",
+    "collected_at": "2026-09-02T14:27:09.521686Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +247,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.667974Z",
+          "fetched_at": "2026-09-02T18:38:06.271613Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +263,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.667982Z",
+          "fetched_at": "2026-09-02T18:38:06.271625Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +279,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.667987Z",
+          "fetched_at": "2026-09-02T18:38:06.271630Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +295,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.667992Z",
+          "fetched_at": "2026-09-02T18:38:06.271636Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +311,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.667998Z",
+          "fetched_at": "2026-09-02T18:38:06.271643Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +327,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.668002Z",
+          "fetched_at": "2026-09-02T18:38:06.271647Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +343,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.668007Z",
+          "fetched_at": "2026-09-02T18:38:06.271652Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +368,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://wwc.twitter.com/CPChoudhary AJSU",
+          "url": "https://x.com/http://wwc.twitter.com/CPChoudhary AJSU",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://wwc.facebook.com/CPChoudhary AJSU",
+          "url": "https://facebook.com/http://wwc.facebook.com/CPChoudhary AJSU",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:21:54.253014Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,43 +406,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "BJP ignored Kurmi community, says lone AJSU MP from Jharkhand - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVFNGSk1CWnpQblBUTFB6TXZEaWR3TGpSbzg0aFRXZFBKVWYwdW03ZFF5TDJsODM4bHpzRXRmWV9SY2dSaGJjR25CcTAyellmbzNzTTFzY194UHdkUTlzUnlNZ1QtTWY4NmVrU1ZWQ1hqZEtuZXFuQm9iV1RwOVZZelRXT2RDUnR3MnhIYzdvMnpzWERmYVJVVnJvQ0NMSmdyMzgtcGtZa1NlY29jOUwtM2pDc3VxVzFjMkhjTkdUUC1rN0J3MUx5ZdIBzwFBVV95cUxQdGVvbVhZWWNtdlJ6cmlNWlVaTnFOWW5sSHdFOUx3TEJwUWR5SmpjTXFXckN1dzk5VTd4ZzBmNGxwRHZkTjF3RVpYWlJTTDdrUk8ycWN4cTN6c1p5alotU2dnWHpCQXdPVF96ZnFFcVVaT2tORVUzaHRUQ3F2aUZoWTJuTG5NMXlRSmgyU3NPb3hob2Yzbm0zLUtCYk16OVRyYi1BcEpvclB5SG5LM05oMEtRZ1daS2J0azJxUE9pUjZGSUNXcm1BdmpiVmtoTUU?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Giridih election results 2024 live updates: AJSU's Chandra Prakash Choudhary wins against JMM’s Mathura P - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRUJMU3Mxa0RERmM0dkN1ZEpRQ19Yemh1RGJqdTNMb1FVNmxhOURGRzFLWk51QWotMkJUeWJZQzRRLTZnNTYtcThrZXZQV0x0X01wR3VlWmFVbERxLWNMSWR1MGg0bU9udHFMdW5YSjdSejZTczBfdFBraDM2ZjRrYmx4OEg2RHQ2Q2gyR2YtUWRPTGZLQWY3ZUZYR3J2T3ZJeVlDc05pZW1ydTYzbWV6bFVjLUR3ak9ldXpFbmhnay1mSGNWU2tqYVByT2Fsa0FWZDE1Y2dSZ1ExOEU0S0Nvc0VBN1RJbWVvREw2aUdmQ3JXTVRfWDUtZzctX25RWDdWSE5xUVdscHZKT0o5MHfSAZMCQVVfeXFMT0lUQWNxX2FPZmhyVGdKclBRUmdtMlRoa3lVMlNodG5QbnlZMWxqNlptYmFldzVaV0hZRGllVldVQkx0V3RKYWItdlVEREdBc3dVeWluNnZRZ0VMekVkUmIzNDFxd3ZSWkFCcE0zdzhWNno5YzhkVWhYNEhkc0J0NUVMVGxlb3J5SWVpbUlkZW5jaGMtM1pzcWYzQ1JQX2Y1d0czdGk1bTZFYkhQMktjbUw0NVhjbW4tNVdWanNYaDVfQXU0R2w3UjUyY0JmenlCLXp1cFhWTnBrUlNDTHJ2N25xMHBTaXBTQWs4MFB2cng5NWtIbFZCYWZkaHEzUThuUmlnYWpxTEZpNVJCX3RaQ3JkVWM?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "JMM decides to filed Mathura Prasad Mahto against Chandra Prakash Choudhary of AJSU in Giridih - jharkhandstatenews.com",
+          "headline": "JMM decides to field Mathura Prasad Mahto against Chandra Prakash Choudhary of AJSU in Giridih - jharkhandstatenews.com",
           "source": "jharkhandstatenews.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWVZwM0Q4aWJxN2dNdjJOanNQYlJ1QjNnLW9HLXBrVUMyNDIyeW50SlJxMnlJTWxGOF9fWXY2UHF2ZHBIYjlnbmo2QThLc1ZxM0Z6MzRMSUtSMDd0bWJ6REpKYnIxVTV2TUxPdUdDSEJidHNfbVRNWlV2TlBCalR2NzdUV0R6MDhaNUNNd3JzWnVxdVBIdVhQVXVSejVhTjloOG5rNExZWTBBYzRLdUtySkRrZ2JoWU1SQ1ZZejNIWWxuUi1LMnIxX2JISF9sZjM5WnBjdUZxV1VXWjZtSEVr?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUmZuWHN4ZDF0cGRIQ1JXYTNlNlFxRHZkN3EwRTZzM0lhX20tOFhZMGh2QmVPVUluQWZ0TjZPUEktZ2psSGYzTnBmdlIxclRFYXN3RGlpSGZtQUdWc1o3cTRiZk1oSXhqbWZCWng1V2lZRFB6SjBUZVNqWWwtQl9MeTQ2bE1YTnotdG9TSVdId3ROSVdtaUpXWVRGMXFfVW5pTjBjY3ZvQ3F5OGU2ZE80TFN3MktkMHlsRlNXZXoxYTJQaE9TZzA0T2ZlU25yd284RDFDUVVLaUFhLU5HTXJSa2FSRTk?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Giridih lok sabha election results 2024: Giridih Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "AJSU leader Chandraprakash Choudhary likely to get cabinet berth - The Avenue Mail",
+          "source": "The Avenue Mail",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEhSX2tTTDYtVDBEcWJiOFNYN0JaczdmdkxMYUdZdHBnMzVuNkxxeDhqYjAxaF9kMmVqa2FRRmtReTlqNk1YX1B1QWVfNEI5RHVvbVBOWm03THlKdHpCRFJNWVRrZF9lTm5zNU9ScU84QTRORktaTjd3Q3VMaWxLQWVGRzB5cGl1QjVmRTBjRHJsbEk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUE5kakVLQkFBVnhTaHpidUR0Ujl2QmdCeXZIOHJYMUJ3WHl3NzhfbnIzb3E3UHU5ak5QT3pXT1JQemhkN0lPQ0dQbEpLZmVaNHdfcVJIeHRiZEdzNnlVMXFBbU5jbFBWNFlKREtPMWttNDEwQzlmU0pFZF85OGh0VkV5Uk94M2VFWDhxa25CazM?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Three days after collapse, search begins for trapped workers in illegal mine in Jharkhand’s Dhanbad - The New Indian Express",
+          "headline": "Giridih constituency of Jharkhand Lok Sabha Election 2024: Date of voting, result, candidates list, main - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORnJUdFJHMU1EeDVieVdza1RqYS14NHFQVmdITGJNMENPeXJrN3RTcmtPa1Q5aTJzeDFqUnUxVDAtQ1dZd0J4ek0za0FNSm1XaWxhTGxBRGRSZ29rQmEwVzFReUJRUzZvN09DMG44R29SNDFUdjNleC1FQWJqTzgxT2JQSzNPd2tQVDNuTTBvVmJIajRfdkFNbXdnRHVYUXIzYUNTamRHOWtUN0J4UE9PdjVOSzJEMFNGOHJKVW5iMmJ6U3FFZXRMZlRMTlRoNWxYQlpZVnlWT2dkSmZqdmlYdnRFeVMxVE9SUnRwZkx3SE03MzB3cU9rX2I5SVMyVnRHeXYyYV9MbDJheERFUnNUYjh6Z9IBmAJBVV95cUxQck53dnpzT0c0ak4zY1ZLd28yOTRrN2xvUmNSd0VMeWlLSHV1dWh5X2szX2NnUTAxM2FKM3RfY2lRSVJpbkI1cUVKdlo2bzhQeTM2NVVveUN1b3JBZ2tKcGd2UktMdGR1eHZJZ1hjZG5fOGhuaWRvT1J0UWI3YXpxZ2JFWV81TzZJVGxYTE83bWdZcnpmaDU5djNmamRsd1hwOGVkMUMtWjY1c2lWR1F0aVVNZ3NUcWlpUTF1bzRsRWdlU2xsNEpFRTR5TDZUd3ZQVjc1NlVuaVdzeFpRT2k0T3R1S0NvdUZyNl9wb3NQQjlpLUt5dlBBay1leUFkOWtRWFBwZkNuRkZURFNRQWdzRDVoT0l4NDJM?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "MP office torched, SDPO injured in violent clash in Dhanbad - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLXJFalZlX214azVkM3lsdmpJS3lfVmlFZTVnZms2OV84YjdMalFRSm9VemFFM1F2RVdwSlpzSUtUeXdZWEtEOVRMWER3M2FSQWpuLXNhOHllQ0tvTGVGSW1BSDlRdzVmNEdqaWJjVE5BNTdLdExXc0psRlhDaVlGVS1adWxBUXlPOUQ1Q29fZ3RQVXpUaHNRb1RzNFRLT1hRTjU4V1NqOW1MQWZKd0lyT2psTlktRmZqZUt1eUJmRmM4anRjanJGaVN1cTFtWHE4Nzk0V3dTVGNCYUdxUWJ6c3l30gHvAUFVX3lxTFBkOFFnWHhaOTJQeWNSR2szM0RrZnpxNy1KWXVoUlp1dDJ5dXUyV0xLUUphVDVSejdNcHpmeG15TExFMzRGekR5RTlwMUhKMFhwbUNMT1R6d1hIdlVkZXo3YTNtWllBYnZaYmdmbTFkZXhlSW91MmdVQnZoLXN3MHNuUktLb3ZIUzZkbmdPTGpkUXk5Uk9KX3ZjOVdxSjZkWFdhbFh4SktRNEhkMUdFNHNYY3lWVmVLbFVrQkpRQ3VKbkd3VEVDbk5xQ2o3ZUg1TnZjdnBIbVJKc0d3TzZfQTV6d2YzU2R2QlNWbVNoNWE4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkJDQmhOb2dJRU1iNHA3VHV0NGtFaG9WUVg0MGtDRTRSdWNpZTVoMXI0NTlua2FIMFJiSHRQYnBFTm1LZW9ROUpnUVBSblFYcERKUUF3aVpGOXphZUxFU0pMX2VLVjRtNEstcHo4MXJBZWw4Yy1TdUdkR1JxbXRVZkh1RUZhVnlDWmU5RFNZSDRXQkZJTDc1MnJWTjNLdTVBLXY1MXZOTXF4V0huQ0HSAbsBQVVfeXFMT0ZRR19iUEhwcjh5ZXFxWi1mMFZuTllBclA0cktfYVlVOVpHNzhBUUtzNVllOF9CMmFMNjVEQnhsRVhJNk1VdHFRNVJfUDV4b04zYm1pU3ZHRmJFSHFKRkFkLWQ4Mll3dmJ4Y1Aya2VhZDlCTk1fcXJIMTk4X25jbzVWLU9YZnYxcF9LcVEzcWFTQUpOUFRnQnc0elYxRGYwMkpFc2FCUXVlRndubWRsazJ1alBRcW45ZTRhVQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Giridih Lok Sabha Chunav Result 2019: आजसू के चंद्र प्रकाश चौधरी ने मारी बाजी, JMM के जगरनाथ महतो हारे - AajTak",
+          "source": "AajTak",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTWN2eElfb0FVeTN3eVpVUWRWSmVKaWxxbm5jWk16MUloQVZQSVA3V2d0czNSU0ZJTEN6eU1SOWNzTUxCSkllZU9XWVF5ZUNQS0RScEtWemd5NnVBMi0tS1d3dU9WNXdMVGVoaW9pQ25TWjRsU2Vkbm4yUGFjcHV3dHcxOFZZWU8yeGgwbDZZUHI4amNNOURCRkxZR3FyT3ZxcUQ4bDMxZ3ZNbUNPT2tsZFZaaGtPcWZsTXM1NGE4b0pyTWFsQUhwSEFYWHR1bU9STGpIWV9IM25FOUVFNXFHb1BkaXI4WlBvSGlxdmF5MVBKX01taEgySVo4U1U1VGVfbFVDTUdSa21mUU840gGSAkFVX3lxTFB3MTJ2bmtkX0pSWExfSmRyWnhiTFd5dktpQTNyWm1QTUk1UlRqNVd5V3VQaGQyOWxMQmd3Zk1YVXF5VWk0ZmFQaWhNcXpaYVJtbVFISmgzOGRSclRRSDJuQzNJM3J3N0tiR1BhX3hEYzdjTjFKa0NUS1VVVDRZTDBnNkVXaVI2em0zSmFkOWtramlqa3hKdVE1c3VEVGhYLXhUMHFwUDlLQ3R0Nl9JSms1SDVuWHRxMHladUk2Z3M1c1lXaHJ0YXRrRlpOYWJBV3otQVNmTGdLUmVabEVHS3JfT1FIWUdFekpqa2xXcWNHbzVsdXUzMDd2cEJVMEJYdEVieldWNWg5d1NNMlZ6Z1ppS2c?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +476,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 37,
+      "starred_questions": 11,
+      "unstarred_questions": 26,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 72.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +492,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +523,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +550,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Jharkhand: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 49,849,182. MPLADS utilization: 32.0%. Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:48.668830Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Parliament attendance: 85.0%. Questions asked: 37. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.272362Z"
 }

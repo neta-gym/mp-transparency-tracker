@@ -4,16 +4,16 @@
     "constituency": "Madurai",
     "state": "tamil nadu",
     "party": "Communist Party of India (Marxist)",
-    "myneta_candidate_id": 1568,
+    "myneta_candidate_id": null,
     "slug": "s-venkatesan",
     "house": "lok_sabha",
     "sansad_member_id": 4965,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/4965.jpg"
   },
   "criminal_record": {
@@ -22,70 +22,135 @@
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "474/2019, D1 Thallakulam (S&O), Madurai, Municipality | Section 179 MV Act",
+        "ipc_sections": [
+          "143",
+          "171H"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Criminal Justice Arbitration Court No. II (JM2), Madurai",
+        "fir_no": "474/2019, D1 Thallakulam (S&O), Madurai, Municipality",
+        "case_no": "Crmp 3596/2021",
+        "other_acts": "Section 179 MV Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "Case filed by Paramesa",
+        "ipc_sections": [
+          "153",
+          "298",
+          "500"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "42, Additional Chief Metropolitan Magistrate, Bengaluru",
+        "fir_no": "",
+        "case_no": "CC 3066/2024",
+        "other_acts": "Case filed by Paramesa",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "Writ Petition (C), Case filed by Jagannath B",
+        "ipc_sections": [],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Honble Supreme Court, New Delhi",
+        "fir_no": "",
+        "case_no": "WP (Civil) 1001/2023",
+        "other_acts": "Writ Petition (C), Case filed by Jagannath B",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1568",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.673772Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:36:29.005327Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 20536639.0,
-    "liabilities": 0.0,
-    "net_worth": 20536639.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1568",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.673784Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 17.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.21,
-    "expended": 2.8,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:41.440824Z",
-        "notes": "Official eSAKSHI REST API — Works: 124 recommended, 100 sanctioned, 16 completed"
+        "fetched_at": "2026-09-02T14:47:02.886947Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:43:02.179547Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:43:02.177487Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 124,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 19.047619047619047
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 55.0,
@@ -100,7 +165,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:02.450837Z",
+        "fetched_at": "2026-09-02T14:43:02.176624Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +173,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Interview | Delimitation, Divisive Politics Were BJP Strategies in Tamil Nadu Polls: Madurai MP Su Venkatesan - TheWire.in",
+      "source": "TheWire.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOajZKYWZCT1VJWGdobVVzRnFCaVdOZFM3YXlBYzFVRVJJcDBfLXpDbURGMy1KbUQ5N016OUhUMFhmenhzQTRJalRDZTljd2FwTS0xRGNfcG9mV3dPMVNCREZ1aWtmbjZGYWFLLUlyOE94c1JqSWtnV1o0RE5KTWpaTTMtV21Wb2NuTzRPZ3BYa3Rsb3lKWXY2cnp6VTQtWVhKTkhGQkktOTd3X3dyVDRCTUdYT04zMzhYemRfczVRbF9PN0pGeDc2TEU4c0h6TU5waDI40gHoAUFVX3lxTE1QZlF4TlVzbUhFc0g5c212cC1ISDNKbDd3Rl9ySDdTTXNveUdQMVRwazhHcGJtWmVIeE1xUWFpTHhUOUVkbU5sZHd3ZmdJMUtMMEEySXJINlFQMmxrTzFUMC1vVnZXYnFnNk1LSjBCYXpZZGcyajZZbkN6Uk5VbldxamlrcGtTNUhmN0VmeHV5Q1pnUVYwRm5hNk9wcERWRk1mU01LMDRsVzdLcGVIWlhscTBkc3NCcDNDazk4TlNSdmxwX2kwMmN3OS1LX21HUno2S3VWYjBhZmZoSEREUFFQcTd1QjBRcGc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Non-inclusion of Madurai airport in ASEAN pact shows bias: MP S Venkatesan - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdVZNbkNLTTR0MlVOVWEzcXpIRTFIWGdsZnFVRHYwMFA1d2xPN1V0UG1kbEdFYVJNTzk2WEVLbEstVUs5U2thb005N2J3ZVpRWXY2VnRJTUVOajMwZy1FSlJqbC1yOVIyRE9JdUg2MVNncW5ic1NXYjdObmRQSUwyZWhtREw1a0xMdUdXMFJUZFIyNnRGb1ZXY2N2VksySmV6YjJtcWFqV081YWNIRUJOZzFxVHctSzNUM0g2RjZqUWEwTWtKTGpRbFpXVUI4eS11VFHSAd8BQVVfeXFMTWdOQ2JUUFB6NWJFYmRheTR5R195eEJrb0VxT0MzdkpXT0pCaHpwLTUyY0pMMjUyYlh3UHRmc0w1bEo0WEpuNHJDdzFWSHljMk1VME9NcGNiWTM0bndWbnppbUVPYXZtOFB3RUFKdzZTVUVKcnN0ejQ2ZWJTZE5aQXlzWFN5d29fZ0pDR2hHbW5lRU5hZ3NOVkljYkVmMnRNSnMzUUoyMUM5OUw4YzUwRVA1OWwzNnplbV9nMDNIeW9PQjgwY0ttZllpZWFpUmhMQ1VESjNBaHJ5cEYzNGs1NA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "PM SHRI data shows Sanskrit dominance over regional languages: Madurai MP - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNejRVLUlodkRQcmZGU1hWcFFxSEE0Y1ZvcGV0NVpNOGs1WGxHNlZuOWVJei1iWlRmbW1Ib0MxTTZGWWJtMXBlenRNUFZQUW5HbFRMTFFtMWozZFdfY3FHNi1IdDJLT3ZaQWVOX0hrOVo2T0dfZDd1M0Nxa1o1WE9OZHBoeEE1aWVtdXdycC1vZE1Ydkd0NUtQTlFtZWIyM29mU1NnckRmQmdvcmsyWEYyalhzS3pRbmRRVHF2Q0ZNU251bGFLV1o1R0dzbk0yVWE0Sng3OENVQ0lBRHJvaFdxaNIB5gFBVV95cUxPcFdzQ3lzWFNkaDRlMnRVMl9OTWloLWdRTmlCYkpDOFcwNFl4WjRvTWZva0VVQ2xfeFJaYzZDZEx6X2dVcFltMjJRNzE0SWM0ajBrd0VCUHljNk14RnYzN3RyVTdXM2h5QnFvajVqQTRvWUJNU0ZKSmxRZVRyS3k5SGVRZDFqYWFyODZjZXVuaWFZTnYtUjlDX2lYMXBYU1drdnE4Vk9sMldjMnI0M1F3bkNKX1NDa3Q1OU1VVV9lQ2lGN2JuYkNRN3lLRkNNUUNfRXRTNnFoODhNVDZqQ3JmVTg2UVdzZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "CPI(M) MP S Venkatesan receives death threat for criticising PM, files complaint - The News Minute",
+      "source": "The News Minute",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXJ0WUpyT0lDeUtPNDdhSEtUSFlHN3ZXUTY2U0Z2MkJsVmtvYjBmZ0F4eEtFZVZwRUI3MThUU21oekxVMjVqM1dWTklxdXpBSmZVSXNpaHBwN2FhNW9QZWE2aUY0UC1waG16YXlEQi1OUHF6MWlsSk03MmRGc3RUcDB6aHM3RzN6U3k3ak43OGFOZ3N4b2djVjBSTjZhQWJaRmVzN3BEOFB6c3JMS0l0QnFWMEdvUXl6X3fSAccBQVVfeXFMTkltb0phR01xeFI0N3NjOVIyUVpXajV2aHZfT3QzNTZxd0pSY0k0ZFBwNC1Gdk5nc19EN2VyUGl0a2c3MG01cFRQdHN5RW50MkdRdUJvX19ZbTJuQU4tVlFRSmRIbzBtd3pIR1gwelhFeTBva2tBaXl1SkRYLWoxWDV6MGhFTTdpUnZ1cjZTWlFic1BiRzB5SEQ2TmN1MVBnQ2FuOW1hUUJDa29hNHg4YVZxcXM4M2NUY0c0NmlBYnh4WUVUejBvZw?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Su. Venkatesan envisions Madurai as a medical hub - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hZbWJUN3hybmZ6ZUQ5cHpwSEtKQzk3WGVrNGNOZmNuOWtpS21McDhfUHhWUVo0VlN1UWlnLVdJWmo0d2VIc1BYdERCcERxQjZxZ0tlcDJwU3BTdEVPa2FvZlhMZ2U0ekhNbTA5NjJ0eHBBYWpiRjJnVDhjS2RlMmFWMnE2T1E1ZE5OYy1namc4b3N3R0pnQkxBZU1HaWpEaG5ZcjVTRUJCbW9IOVlESlVCa9IBugFBVV95cUxNaUVCalVKWXNtakRHc0QyQ0lPSG0wRnh6SkRucEpYbFNFd0JSOGtoU2JranhFSERKeUU1MDZ6Y3ZHSUNqOURUMkJfMUdFQTdKOC1HWnZwaHdVVjFXNnJoQmk1M043YUc5WnVNbkprTHhzekdiQUtTckZ2TTgzeGhwRFZ2QzNmbVJRWTJic1doTHlRNEJHbFM0QU9BN01zcEw4ZGoyYkUzeHpiYXVOSFdUTkNtdWZ0LXU0b3c?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:06.329607Z",
+  "collected_at": "2026-09-02T14:47:02.887984Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +242,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.683630Z",
+        "fetched_at": "2026-09-02T18:38:10.194663Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +258,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.683639Z",
+        "fetched_at": "2026-09-02T18:38:10.194674Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +274,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.683644Z",
+        "fetched_at": "2026-09-02T18:38:10.194680Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +290,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.683648Z",
+        "fetched_at": "2026-09-02T18:38:10.194685Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +306,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.683653Z",
+        "fetched_at": "2026-09-02T18:38:10.194692Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +322,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.683657Z",
+        "fetched_at": "2026-09-02T18:38:10.194696Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +338,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.683661Z",
+        "fetched_at": "2026-09-02T18:38:10.194701Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,11 +363,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/suve4madurai",
+        "url": "https://x.com/http://www.twitter.com/suve4madurai",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/suve4madurai",
+        "url": "https://facebook.com/http://www.facebook.com/suve4madurai",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "http://www.instagram.com/suve4madurai",
+        "url": "https://instagram.com/http://www.instagram.com/suve4madurai",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:43:05.897120Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -276,23 +413,23 @@
         "source": "TheWire.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYVRTMnd0UjFZaWE0ZjktaThFUnphVE11U3hmd3ZBRmlTYnRUbWo5alIyeGthM3Bkd0xuMzUtUUdDX29kUzM4bE11T2hKajFFQnZ3QVRBeDFST2w3ZDhzaUVCS1dYSEV6aDVKZEtyNWVvS1VzbmdlYVRpSVNGU1FNdkJNUkttcEpGRmpEYjMweHozTEZVX3cyelpGN1BsbEc0UnpHcUNMUVdjdld3Y3ZkLVJGWEtqM0lKTnZsOHdiSnlvLVlzZTVwaWNHeDNxS0xqS3hPNGloaXdOalRjQVlHZkhod9IB6AFBVV95cUxNUGZReE5Vc21IRXNIOXNtdnAtSEgzSmw3d0Zfckg3U01zb3lHUDFUcGs4R3BibVplSHhNcVFhaUx4VDlFZG1ObGR3d2ZnSTFLTDBBMklySDZRUDJsa08xVDAtb1Z2V2JxZzZNS0owQmF6WWRnMmo2WW5DelJOVW5XcWppa3BrUzVIZjdFZnh1eUNaZ1FWMEZuYTZPcHBEVkZNZlNNSzA0bFc3S3BlSFpYbHEwZHNzQnAzQ2s5OE5TUnZscF9pMDJjdzktS19tR1J6Nkt1VmIwYWZmaEhERFBRUHE3dUIwUXBn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOajZKYWZCT1VJWGdobVVzRnFCaVdOZFM3YXlBYzFVRVJJcDBfLXpDbURGMy1KbUQ5N016OUhUMFhmenhzQTRJalRDZTljd2FwTS0xRGNfcG9mV3dPMVNCREZ1aWtmbjZGYWFLLUlyOE94c1JqSWtnV1o0RE5KTWpaTTMtV21Wb2NuTzRPZ3BYa3Rsb3lKWXY2cnp6VTQtWVhKTkhGQkktOTd3X3dyVDRCTUdYT04zMzhYemRfczVRbF9PN0pGeDc2TEU4c0h6TU5waDI40gHoAUFVX3lxTE1QZlF4TlVzbUhFc0g5c212cC1ISDNKbDd3Rl9ySDdTTXNveUdQMVRwazhHcGJtWmVIeE1xUWFpTHhUOUVkbU5sZHd3ZmdJMUtMMEEySXJINlFQMmxrTzFUMC1vVnZXYnFnNk1LSjBCYXpZZGcyajZZbkN6Uk5VbldxamlrcGtTNUhmN0VmeHV5Q1pnUVYwRm5hNk9wcERWRk1mU01LMDRsVzdLcGVIWlhscTBkc3NCcDNDazk4TlNSdmxwX2kwMmN3OS1LX21HUno2S3VWYjBhZmZoSEREUFFQcTd1QjBRcGc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Lighting of lamp on hill centuries-old ritual, nothing wrong in it: Madurai MP Nainar - The New Indian Express",
+        "headline": "Non-inclusion of Madurai airport in ASEAN pact shows bias: MP S Venkatesan - The New Indian Express",
         "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQWNzT20tT2F1X0gtMEx1bXNrWmhEaGdLVERXWHlxeVhyYzQzRHQ5enFWNXRBQUI2cHNFelNtWnMyWHZvSjlXZkRDdmhMQ3dJbWFyWjI3OFFiLUoyS0VIVEwyLWJzYjItbGM3Ujc5MFJwMzdmVzU2ZHRIS3U5ZEU3a0Qxdkt1R0g1dFA2UDN0UURIT1paZmplVWtWN3ZiYkVuaXBkenFvaFFhZ0puQlh2VFpILXpfa0h2LWdVWFVUSHlYbW9RWEpBSFhRN3FVWm9KUDJla1oxS3RneWJEdzVj0gHsAUFVX3lxTE85VElFREdtZEZqWU1Na3hfeTAweGxRWGswaThhQS1uYUxkRnF5WDhyLVhrR2E5bjlqczQxRG9DLVdiVFAzYUJmb2FMeE9DODdfa2gxTVM1dTZ6b2FtVnBPWTRWZi1GWWhxOFpXa2ZMQ1FXX1BhZ2lIVEVOWFVaeVFoeUQ3eUdDSlFsTFI4LVhNdnZyRTlsTC1Uc242VHhoQzJDM3pEeU5CUDA3SDZHeENhb214aF9pNURmVXZHM1ZZRUVxcmQ3VGFXaDUyQlRIeEcyTUNRLXRzRVZoWEdKcHc3c0JZcl9TZWVTcWVI?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdVZNbkNLTTR0MlVOVWEzcXpIRTFIWGdsZnFVRHYwMFA1d2xPN1V0UG1kbEdFYVJNTzk2WEVLbEstVUs5U2thb005N2J3ZVpRWXY2VnRJTUVOajMwZy1FSlJqbC1yOVIyRE9JdUg2MVNncW5ic1NXYjdObmRQSUwyZWhtREw1a0xMdUdXMFJUZFIyNnRGb1ZXY2N2VksySmV6YjJtcWFqV081YWNIRUJOZzFxVHctSzNUM0g2RjZqUWEwTWtKTGpRbFpXVUI4eS11VFHSAd8BQVVfeXFMTWdOQ2JUUFB6NWJFYmRheTR5R195eEJrb0VxT0MzdkpXT0pCaHpwLTUyY0pMMjUyYlh3UHRmc0w1bEo0WEpuNHJDdzFWSHljMk1VME9NcGNiWTM0bndWbnppbUVPYXZtOFB3RUFKdzZTVUVKcnN0ejQ2ZWJTZE5aQXlzWFN5d29fZ0pDR2hHbW5lRU5hZ3NOVkljYkVmMnRNSnMzUUoyMUM5OUw4YzUwRVA1OWwzNnplbV9nMDNIeW9PQjgwY0ttZllpZWFpUmhMQ1VESjNBaHJ5cEYzNGs1NA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Eight Opposition MPs Suspended For Remainder of Budget Session For Throwing Papers at Lok Sabha Chair - Republic World",
-        "source": "Republic World",
+        "headline": "PM SHRI data shows Sanskrit dominance over regional languages: Madurai MP - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQS1EX0VwbWlBQW1nX1FMVDBUNlNqQktLXy00NldaUWkzWHBDa1lCUUpuNjFzbHF6UkNXVXdialZ3dUhvQTJDVnMtbWRwSXBtUDhsWC14TjRud0VzRjRJOHZzb0VESjJrYnJZeGY1bUVsbm1vZFgtRFJ2V0xYQ3FNT1Ytb1owTTNXeTZBamVXSDdIdEJnODlBSWhXb011S1c5RUlZbHM0U09CalVXcERIbi1zTS10MGRVWTNsZTFTZWI5YmZWUGJRRGJPVTZDb1V50gHWAUFVX3lxTE9tQ1c4X0Q5WlJhTmFzVFJaYlF2ekg2ZVZaa0ZMRDNLZGNNQ1VqQlozdERsQzN4eTFBMHotMGJvcXhGTWZZT0x2cjBXb2dIYmV4TkFRWlU2OFJ3Uk05akc1YWxLZmpsMm85eS1vM3FRZkZHSmZ1WnpYd1VOYjh0TG5CYm1JUlJISXh3bHZrbTVQOEV0aFJ0UHB5LXhSV2ZobFU0VkU2R2lkNy12NkdSMjFGUU9Sanh6cUNzakc5dzN2SEhJS3ZTZktQZVR5REo5UTFQYV85Vmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNejRVLUlodkRQcmZGU1hWcFFxSEE0Y1ZvcGV0NVpNOGs1WGxHNlZuOWVJei1iWlRmbW1Ib0MxTTZGWWJtMXBlenRNUFZQUW5HbFRMTFFtMWozZFdfY3FHNi1IdDJLT3ZaQWVOX0hrOVo2T0dfZDd1M0Nxa1o1WE9OZHBoeEE1aWVtdXdycC1vZE1Ydkd0NUtQTlFtZWIyM29mU1NnckRmQmdvcmsyWEYyalhzS3pRbmRRVHF2Q0ZNU251bGFLV1o1R0dzbk0yVWE0Sng3OENVQ0lBRHJvaFdxaNIB5gFBVV95cUxPcFdzQ3lzWFNkaDRlMnRVMl9OTWloLWdRTmlCYkpDOFcwNFl4WjRvTWZva0VVQ2xfeFJaYzZDZEx6X2dVcFltMjJRNzE0SWM0ajBrd0VCUHljNk14RnYzN3RyVTdXM2h5QnFvajVqQTRvWUJNU0ZKSmxRZVRyS3k5SGVRZDFqYWFyODZjZXVuaWFZTnYtUjlDX2lYMXBYU1drdnE4Vk9sMldjMnI0M1F3bkNKX1NDa3Q1OU1VVV9lQ2lGN2JuYkNRN3lLRkNNUUNfRXRTNnFoODhNVDZqQ3JmVTg2UVdzZw?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -304,11 +441,11 @@
         "sentiment": "negative"
       },
       {
-        "headline": "CPI(M)‘s Su. Venkatesan wins from Madurai; BJP comes second, AIADMK pushed to third place - The Hindu",
+        "headline": "Su. Venkatesan envisions Madurai as a medical hub - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcDdqdnFDcWFpVGhHR0lSU05ZSWpiOEQ2SE5rdDZLN3RIZjhid2J4bzhfa01WNnViNEYzT29sdnZqU21vZnJJSjhnZEpkTWx2TGJvbHYxY3pPWHBCRS1SNlNKZHA2NVpYdkoyUEZoalB3U05tSUlWUmh3akhXZkJjUmRLamxwSlhxZWxZcHp4Y3FCaXV4b2g2aUVqanR0cVJ6UGdIelpGWTU1dmJkY1NSaTN2ZU1kXzJGVVpKVXRkNXJoZU1WYndodXJsOHZlUDZlcnhEREhWVXQtaDVuZTlIUU5R0gHoAUFVX3lxTE9zN2ZsU2RzR19SVFhvVTZXc21QYTJCZjlpSHJyM3h4amdlMktxNEEzOTdQY3c0SUVQaDc2MGRWRUJobTNCN0d0Y1hQQ1NqY1FaYmFJTGZXQUNQUUg2NFV6a3JuOVFaV3hXOWtkUnpSVkFIcTNwRW5fN2VyNGJmR0c1VFFUaFV3ZEMwa1RTN3d2MjF5UTdWanFiRFMza3JsWkFibFM4R1RVQmpOWmU5LWdULVZxY2czOTFiTXd2Ny1sMXY2YlI5dHQxN0QtRVNRODVReDdnb1MxaTMyYUVnNzlEcGFHRUV0SVg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hZbWJUN3hybmZ6ZUQ5cHpwSEtKQzk3WGVrNGNOZmNuOWtpS21McDhfUHhWUVo0VlN1UWlnLVdJWmo0d2VIc1BYdERCcERxQjZxZ0tlcDJwU3BTdEVPa2FvZlhMZ2U0ekhNbTA5NjJ0eHBBYWpiRjJnVDhjS2RlMmFWMnE2T1E1ZE5OYy1namc4b3N3R0pnQkxBZU1HaWpEaG5ZcjVTRUJCbW9IOVlESlVCa9IBugFBVV95cUxNaUVCalVKWXNtakRHc0QyQ0lPSG0wRnh6SkRucEpYbFNFd0JSOGtoU2JranhFSERKeUU1MDZ6Y3ZHSUNqOURUMkJfMUdFQTdKOC1HWnZwaHdVVjFXNnJoQmk1M043YUc5WnVNbkprTHhzekdiQUtTckZ2TTgzeGhwRFZ2QzNmbVJRWTJic1doTHlRNEJHbFM0QU9BN01zcEw4ZGoyYkUzeHpiYXVOSFdUTkNtdWZ0LXU0b3c?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -342,15 +479,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 44,
+    "starred_questions": 13,
+    "unstarred_questions": 31,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 85.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +495,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 55.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

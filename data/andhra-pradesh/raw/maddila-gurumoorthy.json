@@ -4,16 +4,16 @@
     "constituency": "Tirupati",
     "state": "andhra pradesh",
     "party": "Yuvajana Sramika Rythu Congress Party",
-    "myneta_candidate_id": 5125,
+    "myneta_candidate_id": null,
     "slug": "maddila-gurumoorthy",
     "house": "lok_sabha",
     "sansad_member_id": 5534,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 38,
+    "age": null,
     "photo_url": "/mp-photos/5534.jpg"
   },
   "criminal_record": {
@@ -24,68 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5125",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.141757Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:32:57.520009Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 13249134.0,
-    "liabilities": 1097657.0,
-    "net_worth": 12151477.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5125",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.141771Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 11.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 18.04,
-    "released": 18.04,
-    "sanctioned": 9.51,
-    "expended": 5.21,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:16:28.555846Z",
-        "notes": "Official eSAKSHI REST API — Works: 232 recommended, 232 sanctioned, 70 completed"
+        "fetched_at": "2026-09-02T14:58:33.726219Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:54:51.105047Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:54:51.101953Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 232,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 28.88026607538803
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -100,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:30:11.563301Z",
+        "fetched_at": "2026-09-02T14:54:51.100883Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "*YS Jagan’s intervention helped bring Konaseema fishermen home safely: MP Gurumoorthy* - ysrcongress - ysrcongress.com",
+      "source": "ysrcongress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3JOYnJTdXJIb0RBVmV6RktUSHJ2ZndhQmFLSjhtSHh4a3FDN0JBckthUjFENjdMb1lJRkExOEVBeGwwVHlqWUs2Sy1PZnRpaVliMUZIU0FmdkFDVklCeFJ0azJDc2RoV1JraXUwUEx2TU1OWC1RYTM0dEpyYkNTcDZHZTVTeHQ3X0Vzb1p30gHIAUFVX3lxTE5Da1RzUVdady1xeDN4azdVNUc2MGhSTmdaa095ZVA5alR5RmlZUld2T3FuNkVXY2NKTXZ3azdXZ19aRGgteDNHbm5KMjhNTFZObXgtamVrU0pQMHB6YzZXQ0FORzlZbzZ3Tkk2a2NWV2w4ZFJadGRVb0l4LS1RbjRFZWdEUlpzRVhWYXBYbFJ2cWd0MngyUV9IcnY4Rm1hclI3UjNTQnZsTExkcDhyYjE2WTR2aGQ3OU00UGFtRGZsaFhaLURFT0Rv?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "YSRCP slams State government’s decision to shift NIELIT from Tirupati to Mangalagiri - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa01oZjVqRW44SEktMnAtcnNPSjlweGhpams3Y1UtaFhNQW83Q3c1X3g0QkFxUDV4YWlkUVA2UW1Rc25oUUgzVVBFb1FOT2JkUnRsc0xmbGphUy1KaEFIeFhabURnUWdXY1ptTlplUWhuUGd5bDVnS3MydnNmUFc1dFN6MUlRemRFU2VwWXBDY3JJQXczN0FPZGJ5eW91YjlPNXN5RHFPczZiZkdsTE93RTBtX28tX0cyRGRrb0NMRnVYUGJVNWRwVzdOZkMtZGRLSlNuSWNrdGloa2w3ZENlSUU4bVdjV09xNXdTTDZB0gH0AUFVX3lxTFBTV0FDcVRqUXprWVRuZzZ1d25DTFpNLVZHUnROT2R0UWt2Z2Ricm1IVXplTng1VnVfLW91N1R5cVI5b3hKcjdYckJfbnlyU19QYmJfcmtYUmJkdl9idTJJVUpOUjRFaVNqYXFEYmlyc0ZkdkNEZElJX1M3NFU5NGs5STgtQnh5dXdIeVZPRV96WVI5WE5SU3FPb0dJM28wT1pXdmRtX1luQkl3RjNNM3BDV1BoOXNmbjJ4YmxvVmc0QzU4ZGxBRURpN1RFRnBvNGIzVUpKemxDT1YwX2xIZHByRjQ4bnY2Z2ZTeWRVX3RNRVZQNlU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "*MP Maddila Gurumoorthy seeks Centre’s intervention to intensify search for seven missing fishermen* - ysrcongress - ysrcongress.com",
+      "source": "ysrcongress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWh0YmRhU0NsRWJUUll1bGw2RUU4MlR5UGVQWE5sOGMtSm1kY3ZvQS12eERwS2lQZDlTY2JyWEFGemc3MUJ0ZjA0czBWYjhKdHdZTlVPSlZaaXVpTTAxTGtjOGh1WTl6QW44bFhBU0pwaVZmd1hWUENoY3dQRmtnUdIBuwFBVV95cUxQV1pvTFVwOHVSeGJROU1CRkZJS1NlekhLcGVXaUh6YUQ4YllKY2J4aWhCZ1VOZDk3SHFQZmlnMDA1Y1dxZTB4SVMyQzVxQ3dWeVdnYnRzTEZwM2dRT0txRHB2UjZOelBnWlJMaVkxQjZ6endqbWt4d0lOVllSU3luSWZ4aTlXZU9fVmNWWXAtai0xazh0MjVvUVZ6Vk1RVUpuNlpjRk00WXQyVzZsakZnT1dBa0dibnZTWDg4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tirupati MP Urges Labour Minister to Address Contract Employees’ Concerns - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNC1leEhEMDFyQ1pscE4yckZOcUtRVzV0WXlJN0RpaHpKd1RNYzRQLWMycTNVb2lNaWYzZXVUa1JzVFhocnhYdHBUQzRCV1pjQ21WcEZSTWlPNUFIMXEtVDNDRDEtVlY3Y043UmhZd255ZFJYQm45S2NXLU1PYkJKbTBtaDNxc25vcUNKXzNBdTRYeWZxSHNqQXhkVzhLbFFKTlQ5eHpNemd2NE5XbkZxazdRcWJBYVozblFia21MODBoX3hkTzNhVkxMbTlGTThMdlFGWkN5dU5PLWfSAeABQVVfeXFMT21CMzhGMXU0R3lwcHVPSFNEdkx6N1EyWkRlWS1xN0lURGdzZ0k4dkdDZ0EzZmFCdEdELWw0aXpBZ1JZRWVKcXF2SGkwcjA2MWFZRV9hVE5UaFBabDlleUcxUGxWQkV1UzlFdmxPdS1rcmVuMmJnUGJjSlJtWGRsNUhqZTNob1JvbjRHOUw4THZERjhNQVU2eDRjYnpuY3VBeWU0azh2UGViYnk3eVhjYUVUM05pUU1tQTJ0ZW5FUVdOR00ySkJCanR4bDMyZVFQSmNWeGQtYzRBWFVqZVFwOVA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "YSRCP MP Gurumoorthy urges Justice Balakrishnan Commission to grant SC status to Dalit Christians - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM1FHZG5ncGFRNVkwYjE2WWU3czA1SHg1clBmSnhoTDgtSFFuZG1nZ0dYTHFFNmVwUHRicnNHbURpbVV3YXNYaGl4SVBuSTBpaVZ4X2pCQ2t4TUkwb2pRQ0ZXZnhxNjJUVVI3Y3BWaDFQVDkwQ3dFYlBtR1hEam1GSW9rS0R3QlNZOWRXWFBOWVoxUkxZYlNZU3V4OTFWUVNOTk1KNjZFd2NtYmhtVzhsR09kYVBuSnR0M3dVUEU5ajdwMDJoWmZFeDRZVkhTZGJVVHhUWWsxTGZhX3JRMXlfejlla011OXRlMlRVZmxjMkNGLU0?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:31:15.163012Z",
+  "collected_at": "2026-09-02T14:58:33.727269Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.471557Z",
+        "fetched_at": "2026-09-02T18:38:03.956037Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.471568Z",
+        "fetched_at": "2026-09-02T18:38:03.956047Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.471573Z",
+        "fetched_at": "2026-09-02T18:38:03.956051Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.471577Z",
+        "fetched_at": "2026-09-02T18:38:03.956057Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.471582Z",
+        "fetched_at": "2026-09-02T18:38:03.956063Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.471586Z",
+        "fetched_at": "2026-09-02T18:38:03.956068Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.471590Z",
+        "fetched_at": "2026-09-02T18:38:03.956073Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,56 +304,81 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://twitter.com/gurumysrcp",
+        "url": "https://x.com/https://twitter.com/gurumysrcp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/GuruMYSRCP",
+        "url": "https://facebook.com/https://www.facebook.com/GuruMYSRCP",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:54:53.782191Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 1,
-    "neutral": 9,
+    "negative": 0,
+    "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Tirupati MP Seeks Railway Upgrades in His Lok Sabha Constituency - Deccan Chronicle",
-        "source": "Deccan Chronicle",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVF0VmQzc1d5TTNBRG9qdVdIUzRUdFlYMExuRmtRSEczUHdJcFpydlZ2STBkMFdUMkxhSW1WUGRxVHBWWU5GVUdJN3M1aVBYMnNMb01HRzBrOWJFREFGSFRIMWxZMGZDVGdjaHFKSlpzQzBjLXRmb1hOMWR3aG1zQzY1YUt2eHJBUHZFbzJVUTdraXRHak1seFVJOHVBUUdzSjBaTEVHb2VMc19BRXFpX05EX0F6U0VCSmpvQXdTbHRMZkxwd1Jxa3VScGdnM1830gHWAUFVX3lxTE5Qc0FPZXlzRlFaV1ZnaWNDRlFDcjR2RDFkOWU4OUFUOVFQUDh5R2FuMWh1NUVhTzlxMGRYY3V5ZVQxRFR1eTlMZ05yS2JXb1FkMHpHQmRBeVZUWEVnb2x4czcxZXRIMTNUVjl3cnlidGpJbDNlUG1ienoxQnZUMEUzeU5xTU1oeVYxaFB3cUQ0dm5xbTEySjhQU0h3TEJVLUdEMGFTb3EwbTYzdmdWQlBoc1pOSnJTZVhiUDVBVmhqWVpGV0JPTS1sRTRhQ2lZLS1fN2JGYnc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Tirupati MP seeks NHRC probe into alleged police harassment in Kurnool - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOVlhR09LZUYzdzMtaTRhQ3ZWcDVFcFY5NzhjY25EMElscGUzSExlR01GS2ZSRThUVGZGWGxPc3lpZVVVVFBjUEhSdFRoOWpLRWlnd2FQa2JzMEo3ZDhsRWt2eGlDbjJOdnZ6U19YVXVZa1pLcUF6UmwtOGRYckE1SDdWMDF0QWI1MGJROXpmMDZ1ZnotZDBhRjJDWUplREFPWVkwc2xPdDdlVGtkWVUzYUt5b2lSSVhXck5VQXNSRmxFRzJkbFhHal9FaWNfTGZyOUtCWWM4YV94ckx10gHjAUFVX3lxTFA0cnZ4dlNtTF9kTy1jbzFnUmd2QW5CR3c5MGluZnd2MEgwLURKTVp1VWxpYm9kZ0lOUXUwbjFONzh2YWpZYWRwdXdlWmN2blR3R2V5T3cwdmdzbGJGVEQwVVdMU2d5bDRrbUx4bUtWazlYQUZBTHZYRG55ZkJGdkxLUTRrSTFvQ294dDhvRm0xREtsZUhmYzVoZ19fM0RkTHdzQXNod2g3QUJSSEdKOWI4SFRFaV93ZjNoMlVQS2Q2WDZKSmdfek93eFUwd0xKd002Ymc5cXhpaFZ0dHdmOFN2R1pR?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "MP Maddila Gurumoorthy demands urgent action in Tirupati sexual harassment case - ysrcongress - ysrcongress.com",
+        "headline": "*YS Jagan’s intervention helped bring Konaseema fishermen home safely: MP Gurumoorthy* - ysrcongress - ysrcongress.com",
         "source": "ysrcongress.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRWo3a3c0WEY0RGRmdERPclVPMnhYRkROVExOaTB2RDZKSEZmRjZ6eTIwVlNCMmg4UWRyZzlhM1lsYXJHakhsak95djhtYzNNa29wTS1jZXhueDdpNWZJd19OYzJfT1RvblRMRkM5ZUNXQ0RLRlVEN0RCZEZ1WnhXaUln0gG8AUFVX3lxTE5pSF9ldVhtT1ZrNmtaTXBvMjlPS0MxU2VKamVyZDR2alItSG9iLTNsVEZXdkpGbFZWTzVtRnZIbHdKQmxLYmd0alVieGpnc0MxVERMZWdONURUU2YyYnZIU1FidU5XYkpjdmhud2lRLVBZa3hJaXlRUHNGRllyY05QZ0pJbU43bXIySHpEMlhKX1pKanNpZVphNHNNWGF5TFpYTko0eVktSExGeEQ5WHBzeUNlVUFnTEhVcTVx?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3JOYnJTdXJIb0RBVmV6RktUSHJ2ZndhQmFLSjhtSHh4a3FDN0JBckthUjFENjdMb1lJRkExOEVBeGwwVHlqWUs2Sy1PZnRpaVliMUZIU0FmdkFDVklCeFJ0azJDc2RoV1JraXUwUEx2TU1OWC1RYTM0dEpyYkNTcDZHZTVTeHQ3X0Vzb1p30gHIAUFVX3lxTE5Da1RzUVdady1xeDN4azdVNUc2MGhSTmdaa095ZVA5alR5RmlZUld2T3FuNkVXY2NKTXZ3azdXZ19aRGgteDNHbm5KMjhNTFZObXgtamVrU0pQMHB6YzZXQ0FORzlZbzZ3Tkk2a2NWV2w4ZFJadGRVb0l4LS1RbjRFZWdEUlpzRVhWYXBYbFJ2cWd0MngyUV9IcnY4Rm1hclI3UjNTQnZsTExkcDhyYjE2WTR2aGQ3OU00UGFtRGZsaFhaLURFT0Rv?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP files PIL over 99-paise per acre land allotment - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "YSRCP slams State government’s decision to shift NIELIT from Tirupati to Mangalagiri - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkF4bmFQdU8temRtLXI1eTdVcktIZ3JnWDd6R2kyUVN3M05GOTk3RVdZbWhaN20wbF9CMExBTVZkTUdFR1BrTkVNamM2bkpTS3NFQ1FfMkdWbFlpSWFGc3FlZjJfemEzT0ZwY05zRU1xcFRDWmN5cVBsZFctdWtwYWk4UGdiR29JR2J6Zi1DZndNNkVRZ0ZuTGd0Z1VlQTM4MEFpaGtya1pocWN5WDNxa3BuSkk2ZS1l0gHGAUFVX3lxTE05d21OQUNjLWdEdURCMFF3eVlBRm1oYjExM3hxMGppTHNLbjVGMUM2em9RWlpZRVprNUF3a1ZiWUFQcUtpZW1kWFM1dDJrWDFfY2dsRUtlWkhBVjQ3OUVZbk11dDdQWHVaUXpIY1NNYURTbG5pVVpubFBUcElYSDlHRmFkR1RQZ0JwZ051clJzZ0FLalRqYmxVR1o1RXBOYVl2aFdENTNseDhmakNGUUhqd05rQjd0Q0hablFBWFR0cWIxTUl3Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa01oZjVqRW44SEktMnAtcnNPSjlweGhpams3Y1UtaFhNQW83Q3c1X3g0QkFxUDV4YWlkUVA2UW1Rc25oUUgzVVBFb1FOT2JkUnRsc0xmbGphUy1KaEFIeFhabURnUWdXY1ptTlplUWhuUGd5bDVnS3MydnNmUFc1dFN6MUlRemRFU2VwWXBDY3JJQXczN0FPZGJ5eW91YjlPNXN5RHFPczZiZkdsTE93RTBtX28tX0cyRGRrb0NMRnVYUGJVNWRwVzdOZkMtZGRLSlNuSWNrdGloa2w3ZENlSUU4bVdjV09xNXdTTDZB0gH0AUFVX3lxTFBTV0FDcVRqUXprWVRuZzZ1d25DTFpNLVZHUnROT2R0UWt2Z2Ricm1IVXplTng1VnVfLW91N1R5cVI5b3hKcjdYckJfbnlyU19QYmJfcmtYUmJkdl9idTJJVUpOUjRFaVNqYXFEYmlyc0ZkdkNEZElJX1M3NFU5NGs5STgtQnh5dXdIeVZPRV96WVI5WE5SU3FPb0dJM28wT1pXdmRtX1luQkl3RjNNM3BDV1BoOXNmbjJ4YmxvVmc0QzU4ZGxBRURpN1RFRnBvNGIzVUpKemxDT1YwX2xIZHByRjQ4bnY2Z2ZTeWRVX3RNRVZQNlU?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "YSRCP MP Maddila Gurumoorthy demands urgent action in Tirupati sexual harassment case - ANI News",
-        "source": "ANI News",
+        "headline": "*MP Maddila Gurumoorthy seeks Centre’s intervention to intensify search for seven missing fishermen* - ysrcongress - ysrcongress.com",
+        "source": "ysrcongress.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMjRlTDRGLWsxTXR6WS16MXY5YkpwN09mc3c4Q3BFY2JXVjJQSjg5LTZiNE1VVG5XTFo1Z0ZzOU9fNVl5Q01xcHVJbjFXQXdIOWF3VGxrUEJJQ1JUWE1haTVMNEZKTFFwU0N4bkMtNmlOREt1Z0lkZUtLWVduVUZsYlFnbEUtaFFCMmJ6bWxfcmQ5bTJEN0VlN0xlVmVhWnR5MHc0YWJ5bG1pcmVMQUdHRy1JWk1xa0MtZ0tKc0g5b3hSd2V3d1dGQURhVnlSM25lZmRuc3JYMDMyTWhrMHEyVUVUNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWh0YmRhU0NsRWJUUll1bGw2RUU4MlR5UGVQWE5sOGMtSm1kY3ZvQS12eERwS2lQZDlTY2JyWEFGemc3MUJ0ZjA0czBWYjhKdHdZTlVPSlZaaXVpTTAxTGtjOGh1WTl6QW44bFhBU0pwaVZmd1hWUENoY3dQRmtnUdIBuwFBVV95cUxQV1pvTFVwOHVSeGJROU1CRkZJS1NlekhLcGVXaUh6YUQ4YllKY2J4aWhCZ1VOZDk3SHFQZmlnMDA1Y1dxZTB4SVMyQzVxQ3dWeVdnYnRzTEZwM2dRT0txRHB2UjZOelBnWlJMaVkxQjZ6endqbWt4d0lOVllSU3luSWZ4aTlXZU9fVmNWWXAtai0xazh0MjVvUVZ6Vk1RVUpuNlpjRk00WXQyVzZsakZnT1dBa0dibnZTWDg4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tirupati MP Urges Labour Minister to Address Contract Employees’ Concerns - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNC1leEhEMDFyQ1pscE4yckZOcUtRVzV0WXlJN0RpaHpKd1RNYzRQLWMycTNVb2lNaWYzZXVUa1JzVFhocnhYdHBUQzRCV1pjQ21WcEZSTWlPNUFIMXEtVDNDRDEtVlY3Y043UmhZd255ZFJYQm45S2NXLU1PYkJKbTBtaDNxc25vcUNKXzNBdTRYeWZxSHNqQXhkVzhLbFFKTlQ5eHpNemd2NE5XbkZxazdRcWJBYVozblFia21MODBoX3hkTzNhVkxMbTlGTThMdlFGWkN5dU5PLWfSAeABQVVfeXFMT21CMzhGMXU0R3lwcHVPSFNEdkx6N1EyWkRlWS1xN0lURGdzZ0k4dkdDZ0EzZmFCdEdELWw0aXpBZ1JZRWVKcXF2SGkwcjA2MWFZRV9hVE5UaFBabDlleUcxUGxWQkV1UzlFdmxPdS1rcmVuMmJnUGJjSlJtWGRsNUhqZTNob1JvbjRHOUw4THZERjhNQVU2eDRjYnpuY3VBeWU0azh2UGViYnk3eVhjYUVUM05pUU1tQTJ0ZW5FUVdOR00ySkJCanR4bDMyZVFQSmNWeGQtYzRBWFVqZVFwOVA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "YSRCP MP Gurumoorthy urges Justice Balakrishnan Commission to grant SC status to Dalit Christians - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM1FHZG5ncGFRNVkwYjE2WWU3czA1SHg1clBmSnhoTDgtSFFuZG1nZ0dYTHFFNmVwUHRicnNHbURpbVV3YXNYaGl4SVBuSTBpaVZ4X2pCQ2t4TUkwb2pRQ0ZXZnhxNjJUVVI3Y3BWaDFQVDkwQ3dFYlBtR1hEam1GSW9rS0R3QlNZOWRXWFBOWVoxUkxZYlNZU3V4OTFWUVNOTk1KNjZFd2NtYmhtVzhsR09kYVBuSnR0M3dVUEU5ajdwMDJoWmZFeDRZVkhTZGJVVHhUWWsxTGZhX3JRMXlfejlla011OXRlMlRVZmxjMkNGLU0?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -342,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 42,
+    "starred_questions": 12,
+    "unstarred_questions": 30,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 81.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

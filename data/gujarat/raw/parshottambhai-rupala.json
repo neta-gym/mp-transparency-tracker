@@ -4,16 +4,16 @@
     "constituency": "Rajkot",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3595,
+    "myneta_candidate_id": null,
     "slug": "parshottambhai-rupala",
     "house": "lok_sabha",
     "sansad_member_id": 5598,
     "profile_url": null,
     "canonical_name": "Parshottambhai Rupala",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 69,
+    "age": null,
     "photo_url": "/mp-photos/5598.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,133 @@
     "convictions": 0,
     "pending_cases": 3,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Criminal Case No 12/2024",
+        "ipc_sections": [
+          "500"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Honorable 2nd Additional Civil Judge, Judicial Magistrate First Class Court,",
+        "fir_no": "Criminal Case No 12/2024",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "Criminal Case No 84/2024 | Sec.200 in the code criminal procedure, 1973",
+        "ipc_sections": [],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Honorable 1st Principal Civil Judge & Judicial Magistrate First Class",
+        "fir_no": "Criminal Case No 84/2024",
+        "case_no": "",
+        "other_acts": "Sec.200 in the code criminal procedure, 1973",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "Criminal Case No 04/2024",
+        "ipc_sections": [
+          "499",
+          "500"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Honorable 2nd Additional Civil Judge and Judicial Magistrate First Class",
+        "fir_no": "Criminal Case No 04/2024",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:59.724313Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 174316673.0,
-    "liabilities": 195000.0,
-    "net_worth": 174121673.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3595",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:46.630240Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 68.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.13,
-    "expended": 3.02,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:10.934872Z",
-        "notes": "Official eSAKSHI REST API — Works: 211 recommended, 174 sanctioned, 59 completed"
+        "fetched_at": "2026-09-02T14:50:30.568092Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:46:43.927409Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:46:43.924490Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 211,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 20.54421768707483
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +163,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:28:32.061803Z",
+        "fetched_at": "2026-09-02T14:46:43.923445Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +171,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Parshottam Rupala emerges unscathed from Kshatriya anger, wins Rajkot with record margin - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjJXTlZMYzl0cmk5VEZiREczdUxEZVVHYmh6Vng2RFVLSnBLbTl1Zmx0WnlRM3NvMXhMaFRibjJUYzlSSXNqelN5ZjFMVjB0UXNVUVdLaHhWdWpsaDFzTWM0ZHpVOU1tazBnTDRPTVNTRzNtYmtzZzF4N2FGNk93SjVkdGpNbUFCOVY2NDdBdzV3Q0ZlUC1DZ2dFSktvbGfSAaYBQVVfeXFMT2psUHhJcEdwNG1BYzhEZjZVbW8tMjJ4WGNOV0FMQkNwSFpkZ1BDNS02NlZNdXpBaFRFN2FxamhrdDJUb2Ftc1VqdjNQXzdFODV5eFRqZVA1cTBRT3ViUGlmWXJ4cEdaNUR3bHEydVRTVmtYaTdONkhTQjQtYlN4Y0lReXdGWVQyeTJUNXRhMFhrdFpwb2hGV3JKNTVGR2stc3FsUnhyUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP will win all seats in Gujarat comfortably, says Parshottam Rupala - Business Standard",
+      "source": "Business Standard",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWDdMWlk3U210eE12bG1OXzdRUkRpSHNUOTcxeElOZGRKTTBJVk5HTThady1ha0Z4YzQyUlRJSWhRY043OFVpMlc2dmpkVXBFaDk2d1A3RWdhb3R0Y2tWNGpWMm9QdUJqQzV3UDBfMkxveWlldktGMXhqZTZ0VmRtTDR2bVdMMjl1bGoxV2xxQWdQWnlBVEpPMGZjSVpGMmN5MFRaaDJjakstWlk2ekZydDR2bTRRd0lVcHp3OTVSLWtvQWRIX2tObldINk9QdklnN3V1QXpRRDh2WTEwenlmblFFNEVVbktCaVZv0gHwAUFVX3lxTE81dFB5amxSdC1FSElWazNIam9ObFJsMXB3RG9DbnRlaWozT2tIVUV2dmtaalBvNEhDOXlQUEZEOHh0NC1yeVlmb2JDTjU5UUx2Z1ZlYmQwckp1am5KTksydU5EUlIxVXdNT3ZCT3RGeG5FZmRuTV92SjBOWUZiclV3MzZxeVpxemZRUFpWRmU3XzJybEdlUGRYM1R5N3ZhWHVRV2tkSC1RUDVpRENuUFdDdmRMQjlDc19fTEtTVFJpeFNlWklDNnJFXzRUbGY5Uml0THNwSFd1dFl6Q2RORU5QQ04yWDJ3bkNsR0ZpenFYbw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rajkot Lok Sabha Seat Result 2024: BJP's Parshottam Rupala Wins By Over 4.8 Lakh Votes - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQR0VQaXliWkc1WkFPOXpvc1BGREFaMUFpc2ZScS1tMFExbXNaSlVqb29WUWZsMXNqdDFRbXdxcFhOM05TUV81UThYUE5PcWJjaG9uQnh5cS0xTEhfbElUQmNIZF9UMGx6RXZlbEtRNkFwSVlqSTY5bFZhbWJienJ3dmJsNkI0bjlhMkdHRUUtcU9xS1FpbkpGc3pDcUdIZWpyU2xkalV3bU83dmZrb0xCb3JhYU0zWWdyblNicjRoc3puWTQ5SEdLZHpHa3BSU3Z1aGp4V2ZoUVQ2cGtaTjFMMDRFLWN6ZTM5S2hqSGpBN0E4OTZ3MGMxOVY4MHR1blpMblZGZVVMN2VIY1EzdE1oZFpRVdIBmAJBVV95cUxNeDRIbUZoY3JLemwyaUNMTnJGcS1FLTBndWRQN3h3eG1fWUhZbmxKdTQzYXdYX0lLVmhyRlBhZHd4c3Jqaks5OFVKSFJ2LThNZlZyYzRmR3hSZUZXd3lUS1JGVVBXU1pCMTh2Y1l2Qkp1MU1rY0dXMEFTWXpCYUQzd0tQY2Flbnk0X3ViVWthRHQtVEtyejh1VlNXRzNRUk00SE5DXzlteXI1N0kxOE9oQ3NuV0JXSXU4UGMzeW9UMkw4TWQyaThHQXRDSFZ5bzBGbHExeUpvTUNDZkVmZzctaHllM0hPbkpXckxMdW5LRFJWRWpEbDhTemdlaXRibDZQN19TUDhkMXBpYzlpRFZ4NlRYVEwxay1G?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "After being hit by controversy during poll campaign, BJP's Parshottam Rupala dropped from Union Cabinet - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHYwMlpoWE1IRzYxbmNqcDFTRVV3Y2pyZU5xLWlldUdvZjhobm5KZnRkenlmTnNZNVplM19EeEJaRzlRdGs0SW91ME90TzBjYjhKVVJKaG44MjBMWGl2RkQzd1BHd3dfWm9uUFhyNGV1bjJWLV91OXp0MWVOVDdCckNJdHlSMUdMQVFUeEh1aFNlZmxjdXQ4d0tkdG9qSFlMaFR0czVMbWxCcjZERFZuVzRUTFZjUTRGX0FHUDVEaXFPZEN2NXZJUlF5ZW4tUkZyUEFXVFpyZm5YV1NaeHh2QzRCek9HQ1nSAfQBQVVfeXFMT3o2eGEtSEE2LVc4U21CTXoyUW9pX1Y3cnYwVGFBQkhHY08zMVk3ckZTX2REb0oxbTR6UEFxTGZWaWlvMzFjRFlrWFI2cmFhV2lFaDZ6UU5EdExlRjdBT1RUT2JMbTNBdm1vSmhXQmNaTjNXUjk1RHhRZl9VQk5RWDBIZlk1V3psWEdmUkJaSzBFUnJ2UlM3QW5IanctYlZHZ0NLWDh5TllEWGNCaGdHMkhnQkh3ZzNyOXIzLVBLMVpPRmNRbUkwTHc1a084QXV6c2xyZVhUdE90VnNmaEZBb2RZZFZ6WVNNM1VjMUZIUnBCU0JzRA?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Rajkot election results 2024 live updates: BJP's Parshottambhai Rupala wins, Congress' Dhanani Paresh los - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNTGJnaUFiVzlQblpVNVRyVXBzbzRhbXFNLUdoX1hnNVdHYVJJeTVjdDRPNXU5eXNhSHpMVkttLWthbGVoRjZtb09nVkpjV3JkVzliMWtwT2pXdHdWaEVISnplT2VlRHFtZ091YnlCU2hKY1hUTlg5UUhvMnJFcElGdTdHUkFvU3oxY0o1d0VKbmtwNy16WGFnSkxIUGl5d2xJeVRTUG9KaE5iMEdSOFN4MWQ1Rm9yT3N2QVM2LWR3VjJrUkdRMjZvSTVJRXBUNVZYN1NlRnlCV0FiR25kWTRvZkRySXN2WDNhaVlyQ1hoM01tZGhEU0dvZEhwV1JXcm9YSFBqcmxfRXpBRUJvV3J6N2h4M2xkSWVoZnZsdHhONmlmVVhpa2JDNVFpand4c2_SAbQCQVVfeXFMTnZQRnVGbkxfLVlUSHlLMnY2M2lTTFNHR1MxNHBaU1p5S29veVRCRTYwdUdEY01HcjhDcXdsemF4VGxWOElmckpNM0VqRUFOZ0lVbU9LWlFBb1FvWDlYbWFJWHBqbmpKcmtUTFh6cUNPalR4ajI0R2R6ZWZfUkZVUklNbnViTjAxd1dhZHFTYmxWSUxQX19jeFhuUzM4dXQ2QXhpV0hxZzhUM2llR1NCZjJ3VUdxWVcxTGJrRFhsSThBLUlEQ1YtaGc4ZjRTMUpkTFhyR212YVZOc1c5Y2Z5RFJvNzNwVmMycWdoMVVaWmpxRDJ0cXR2eWtHRzNsYmJNanRzUWdFTV9fQjh4cVJIQ2FwdjUybmloZnBWcDY4WU5iTjFSSGtyUy1oWVV4cHZBTHAtbzA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:29:32.813063Z",
+  "collected_at": "2026-09-02T14:50:30.569097Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +240,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.207750Z",
+        "fetched_at": "2026-09-02T18:38:05.836185Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +256,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.207760Z",
+        "fetched_at": "2026-09-02T18:38:05.836203Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +272,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.207765Z",
+        "fetched_at": "2026-09-02T18:38:05.836211Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +288,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.207769Z",
+        "fetched_at": "2026-09-02T18:38:05.836219Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +304,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.207775Z",
+        "fetched_at": "2026-09-02T18:38:05.836233Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +320,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.207779Z",
+        "fetched_at": "2026-09-02T18:38:05.836241Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +336,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.207783Z",
+        "fetched_at": "2026-09-02T18:38:05.836247Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +361,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/PRupala?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "url": "https://x.com/https://x.com/PRupala?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/ParshottamRupala/",
+        "url": "https://facebook.com/https://www.facebook.com/ParshottamRupala/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:46:53.280242Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -272,6 +407,14 @@
         "sentiment": "neutral"
       },
       {
+        "headline": "BJP will win all seats in Gujarat comfortably, says Parshottam Rupala - Business Standard",
+        "source": "Business Standard",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWDdMWlk3U210eE12bG1OXzdRUkRpSHNUOTcxeElOZGRKTTBJVk5HTThady1ha0Z4YzQyUlRJSWhRY043OFVpMlc2dmpkVXBFaDk2d1A3RWdhb3R0Y2tWNGpWMm9QdUJqQzV3UDBfMkxveWlldktGMXhqZTZ0VmRtTDR2bVdMMjl1bGoxV2xxQWdQWnlBVEpPMGZjSVpGMmN5MFRaaDJjakstWlk2ekZydDR2bTRRd0lVcHp3OTVSLWtvQWRIX2tObldINk9QdklnN3V1QXpRRDh2WTEwenlmblFFNEVVbktCaVZv0gHwAUFVX3lxTE81dFB5amxSdC1FSElWazNIam9ObFJsMXB3RG9DbnRlaWozT2tIVUV2dmtaalBvNEhDOXlQUEZEOHh0NC1yeVlmb2JDTjU5UUx2Z1ZlYmQwckp1am5KTksydU5EUlIxVXdNT3ZCT3RGeG5FZmRuTV92SjBOWUZiclV3MzZxeVpxemZRUFpWRmU3XzJybEdlUGRYM1R5N3ZhWHVRV2tkSC1RUDVpRENuUFdDdmRMQjlDc19fTEtTVFJpeFNlWklDNnJFXzRUbGY5Uml0THNwSFd1dFl6Q2RORU5QQ04yWDJ3bkNsR0ZpenFYbw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Rajkot Lok Sabha Seat Result 2024: BJP's Parshottam Rupala Wins By Over 4.8 Lakh Votes - ETV Bharat",
         "source": "ETV Bharat",
         "severity": "low",
@@ -280,8 +423,8 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "After being hit by controversy during poll campaign, BJP's Parshottam Rupala dropped from Union Cabinet - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "After being hit by controversy during poll campaign, BJP's Parshottam Rupala dropped from Union Cabinet - newindianexpress.com",
+        "source": "newindianexpress.com",
         "severity": "medium",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHYwMlpoWE1IRzYxbmNqcDFTRVV3Y2pyZU5xLWlldUdvZjhobm5KZnRkenlmTnNZNVplM19EeEJaRzlRdGs0SW91ME90TzBjYjhKVVJKaG44MjBMWGl2RkQzd1BHd3dfWm9uUFhyNGV1bjJWLV91OXp0MWVOVDdCckNJdHlSMUdMQVFUeEh1aFNlZmxjdXQ4d0tkdG9qSFlMaFR0czVMbWxCcjZERFZuVzRUTFZjUTRGX0FHUDVEaXFPZEN2NXZJUlF5ZW4tUkZyUEFXVFpyZm5YV1NaeHh2QzRCek9HQ1nSAfQBQVVfeXFMT3o2eGEtSEE2LVc4U21CTXoyUW9pX1Y3cnYwVGFBQkhHY08zMVk3ckZTX2REb0oxbTR6UEFxTGZWaWlvMzFjRFlrWFI2cmFhV2lFaDZ6UU5EdExlRjdBT1RUT2JMbTNBdm1vSmhXQmNaTjNXUjk1RHhRZl9VQk5RWDBIZlk1V3psWEdmUkJaSzBFUnJ2UlM3QW5IanctYlZHZ0NLWDh5TllEWGNCaGdHMkhnQkh3ZzNyOXIzLVBLMVpPRmNRbUkwTHc1a084QXV6c2xyZVhUdE90VnNmaEZBb2RZZFZ6WVNNM1VjMUZIUnBCU0JzRA?oc=5",
@@ -293,14 +436,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNTGJnaUFiVzlQblpVNVRyVXBzbzRhbXFNLUdoX1hnNVdHYVJJeTVjdDRPNXU5eXNhSHpMVkttLWthbGVoRjZtb09nVkpjV3JkVzliMWtwT2pXdHdWaEVISnplT2VlRHFtZ091YnlCU2hKY1hUTlg5UUhvMnJFcElGdTdHUkFvU3oxY0o1d0VKbmtwNy16WGFnSkxIUGl5d2xJeVRTUG9KaE5iMEdSOFN4MWQ1Rm9yT3N2QVM2LWR3VjJrUkdRMjZvSTVJRXBUNVZYN1NlRnlCV0FiR25kWTRvZkRySXN2WDNhaVlyQ1hoM01tZGhEU0dvZEhwV1JXcm9YSFBqcmxfRXpBRUJvV3J6N2h4M2xkSWVoZnZsdHhONmlmVVhpa2JDNVFpand4c2_SAbQCQVVfeXFMTnZQRnVGbkxfLVlUSHlLMnY2M2lTTFNHR1MxNHBaU1p5S29veVRCRTYwdUdEY01HcjhDcXdsemF4VGxWOElmckpNM0VqRUFOZ0lVbU9LWlFBb1FvWDlYbWFJWHBqbmpKcmtUTFh6cUNPalR4ajI0R2R6ZWZfUkZVUklNbnViTjAxd1dhZHFTYmxWSUxQX19jeFhuUzM4dXQ2QXhpV0hxZzhUM2llR1NCZjJ3VUdxWVcxTGJrRFhsSThBLUlEQ1YtaGc4ZjRTMUpkTFhyR212YVZOc1c5Y2Z5RFJvNzNwVmMycWdoMVVaWmpxRDJ0cXR2eWtHRzNsYmJNanRzUWdFTV9fQjh4cVJIQ2FwdjUybmloZnBWcDY4WU5iTjFSSGtyUy1oWVV4cHZBTHAtbzA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Amid brewing Kshatriya discontent, old rivals Rupala, Dhanani to clash in Rajkot - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3lrNnJtT1NfMm5adVI3djFCUU81VW5LdGhCS0cxTVQ2SEZRZ19GN054V09lX2FaN256ZldUNEVYYnhNTEdfZWVPcHpDRGI0dXhNQmV2SkROVlk5bEd3RE1YTnBPVXh5dHdPMGFCRERnc3N0Y2REcjhqUkZTbEZsZXh4QnZHdEFmQ2VQZGYwWjRtQzZTaHRTb010djVpYWh3d0kzb3hhQkNyaEw2bHUxWGo5VUpkamZoRWtLTmdtRDZuSno1MTVoeDBUUTZOZkZ1NDZDc3hISnhVZVHSAeIBQVVfeXFMT0xWbGFSd1l2STlYRlh6YUZzS3VFS09tcmUya3ZNenFWVmd3enp2TVpnQjVZbU91V3VzYzJwWjBXcU5xRmFhbEtmUEVfZ3FtVWVNZmxTLVh1SzVyWkQxazMyeGllVGREbXNYekZsNnE2amNYNDNlZUNEZDh0RnE0YWJFckI0T3VQck1ZV3ZycWdlUEl4cG4tR2tfZWZIZkpPSnJPOUdVSnBJNHdBWU03LXZobnBDWnFZUWdURUgzUkRTaFVLTXRWMElFUXFYYVFGSy1xdzV5SFRiaVlJc2pJWmh5Zw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +469,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 37,
+    "starred_questions": 11,
+    "unstarred_questions": 26,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 72.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +485,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

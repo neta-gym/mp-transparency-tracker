@@ -4,16 +4,16 @@
     "constituency": "Sirsa",
     "state": "haryana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 8546,
+    "myneta_candidate_id": null,
     "slug": "kumari-selja",
     "house": "lok_sabha",
     "sansad_member_id": 3589,
     "profile_url": null,
     "canonical_name": "Kumari Selja",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/3589.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Sirsa",
       "state": "haryana",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 8546,
+      "myneta_candidate_id": null,
       "slug": "kumari-selja",
       "house": "lok_sabha",
       "sansad_member_id": 3589,
       "profile_url": null,
       "canonical_name": "Kumari Selja",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 61,
+      "age": null,
       "photo_url": "/mp-photos/3589.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:06.147158Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 420655803.0,
-      "liabilities": 0.0,
-      "net_worth": 420655803.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8546",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.839631Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 82.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 6.34,
-      "expended": 1.54,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:17.099200Z",
-          "notes": "Official eSAKSHI REST API — Works: 259 recommended, 200 sanctioned, 45 completed"
+          "fetched_at": "2026-09-02T14:31:21.862700Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:17.243698Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:17.240767Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 259,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 10.476190476190476
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:17.191977Z",
+          "fetched_at": "2026-09-02T14:27:17.239689Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Selja flags Sirsa’s civic woes, seeks action - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkRCSG12V1phUjNDSXcwdUYzTF9nWXhuZHh0UmNCQ0JGMGVkN0VSa24yR1dDOGxua195SFJGZ3B6V293T0l4aUw0LUNCQ0pYOXhKY1FPa3g3TGZCdlRZcEZpdWk0M2o4UEZzMVktRFZrS2ZUNmM1Q3NnTDBHdVdXaUpVNU5telBYbEpEc3hn0gGSAUFVX3lxTE9Bb2xzOW0xRFBWVEhjYU1FWHJ1QzVpY1NQRUNyb0d3ck1WMW9mcFkyVzlJZzYxVkYwY0FSWUpzS0h3Nm82VjNkUS15UGI0Nl91b0dOR0FaaHJoLWdPODU4eFAxeGZzRDJsQURWcEphQWk1akVVX0hWaEFZY2tNV01lQ1BYYTNFLWpDUHpKTDN6SzNn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Selja seeks welfare policy for mandi workers - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakNHRlBMVGstREhDMG9WM2RHT1NNcHo3YzJPWkhnMEdJbGJDRzhKeEZubDZvMXNja3UzSWZCbUkteDJPZUhaemRQbk1KT2E4Zk5YbVNiYmcwZmlCRTJXbWp4aUdMemo3SkVRUklmWWI1eGMyUndScWhla2hwLXh5N2dHZklsdTY4WVFWZXdMNXd3SV9JSnVMUkhLVnZNdkZLdnJsdm55VkloVE9mWkdHSlZMeDY3UEZvMlBOM3BTQdIBxAFBVV95cUxPNHhMQW5wNEtXQWZMVy03WnZXT1lMREcyNGxmQ096Mk5ocEhvbDVNRGduaTdEdm11cjQzR0hQWkZ4aDZtY1dnNlpidGR5d2lSZS16RHc2OFBZMUJlektoQzhNRDZYanhVRXMzVVdKZGk4VmxuS0hfTmZMTFM5amVJdVVXaUZWc0V5QTNDUHl6dVBIUEloQmgwT0FPWmJVSlhELWdLVFNqREZTU2VFdnRzaUxyX0REcUg4UUtJTXBwRVlNazRO?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Kumari Selja backs Sonam Wangchuk’s fast over paper leaks, raises Sirsa soil salinity concerns - Telangana Today",
+        "source": "Telangana Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnRfTXh6UkRzeXI4UjYxYmxnUEk5cThvYlpkZzRoZEpUcXR2NU5lMTdIUzZvcDFNMGpGUi0xeGRyejVUQ09qeU5Gb1IwREpyd1FSd1lBcEloWWJpSWRLQXRpTFp0ME0zQXh6RDFya3FQMHVGYk5hU0tqczU0TDVCZ1RJbjBnNU1xbVZhdHBxb3RMbkdpQ1NwM0s4dEEtWGhQQndfWUxYbHZmOG5DT0E5VWd1WTJnM0xfVmdZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress MP Selja seeks an audit of the Rs 200-crore RO project over Sirsa water concerns - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRU1wVjV5YmhWZVlJb0g0a0sxOVpTUDFNcXBOWUw4cC1oczVqbEJxZnFDMjBXcjJER2NPWkhuaDJoeUFWUTFueWlIa3NPeTJLY0pJSy00a3RvTXdwT3paWW5SSzVDbEF0NW1qVGZFMFRodmhFdWVCUXpLaEptLWkxc3dkd1AtSUpacDZwSlRWNHJDRkl2ZHhudmFTcUNnbV9QVVpIZHV0S0tucXk3WkN2MDhvN3N6R2dnbVE0RVpPMC1Dck1sVlBYUmRVaHJjbENvc0pnSjRFZ9IB3AFBVV95cUxPZ1hkSUxWdWpXdmp0SjY1TEJKT1pPR3J2dmptMjllRjEzRXdzaUtmeVRpcF9EdkpTdjRQVU5uSTJNaG45UndXSUVTcUl4eEhBU19QdXFfbFFreUEyeWpMWjVFNUFRX2ZhMzMycnZMZ1VzbUg0ZFdfek0xSHZxNEwtaV9zWVlFVzhTeXFEVDFObU9CM2RPV1JHLVVIYng1LUR3MzlSTkJNeVkxZEhlX0hEQkdjbUlHUzFnTUxyT2dVaGlWZU1mUGJlOVVxLXhVX0JBRTlOTUxTTDdfZ04z?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress general secretary and Sirsa MP Kumari Selja on Saturday expressed serious concern over the latest National Crime Records Bureau (NCRB) report, saying Haryana has recorded the highest rate of crimes against children among all states. - News Arena India",
+        "source": "News Arena India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeW9obGxaaUtPT3BWU2xVcnF4aTRjMmNGWjA3a0hLRHhoUXgwMWlQbTJYS2FneXU1YlMzZXJOdlRGRGNIT2FDNTlySDZzazROeTJvUnN1dF85OF92VlVFVHd6YS1ib2tjQ1ZXV2pLQV9md0dWZ0hjejFNRUQxMDhGSklMVS1vczFFRUJ1YXpRbGdjUjVHYjVGNTVKU3lBX0R3aW1v?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:26.982608Z",
+    "collected_at": "2026-09-02T14:31:21.864040Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.341166Z",
+          "fetched_at": "2026-09-02T18:38:05.967622Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.341175Z",
+          "fetched_at": "2026-09-02T18:38:05.967637Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.341180Z",
+          "fetched_at": "2026-09-02T18:38:05.967646Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.341184Z",
+          "fetched_at": "2026-09-02T18:38:05.967655Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.341190Z",
+          "fetched_at": "2026-09-02T18:38:05.967665Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.341194Z",
+          "fetched_at": "2026-09-02T18:38:05.967672Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.341199Z",
+          "fetched_at": "2026-09-02T18:38:05.967679Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,24 +330,40 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Sirsa MP Kumari Selja Visits Sirsa Today Media Statement Public Meet PWD Rest House City Situation Issues - Dainik Bhaskar",
-          "source": "Dainik Bhaskar",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNLVFvdnVWeU15bjl1TWZ5elBhcWpjV3NaVWpYa2NiX0NMdUVFTjhickxJQnBoa29rUGtxVDlMX1NTdS1OemZhZnR2OUdOQ2VBZzNLZlUwdVpabjJ0ZzByZGlJQ2ZiOHpfZE9nRkhYNDRpZzQzbmpfT3Z4NGVrcEYtYVEwZFdpM2JsRnJ6Vkx4QjZla3dRRjlJaWh1eTZiWGQ1MGtYV0FGdUlNQTU0YkRIV29udHlrb0RsZXd2aUdmNHdzajNCdkRhUlB0cVBlZVpaTUlDR3hKek5aYnlidkVNQVU3dlFFdGFLVWZzZEZpa3JqdnRPMjVoZGhpdmRZazB4bW05Z0FR?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "MP Kumari Selja alleges govt failure over growing cancer crisis in Sirsa - The Tribune",
+          "headline": "Selja flags Sirsa’s civic woes, seeks action - The Tribune",
           "source": "The Tribune",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGluVW1TNTd6RWZscDZZYzMxcDZtem83ZWFaYzhjbnlqUnpZQ2NGa0VmUU1iSVJuOFlSVnRibWZYT25URjlQaTNpcTJUMWhDR01kTHdqem9WVXMtdTYxb1lRYTNidU8yWFp1Zmd2cDJZXzN4UVhzQVJ0X1dNNEZlTUhONVhHY3pINTc3S0lkOGt0d001VkVNeUpjX0tKODVRcnBvRWlXbVQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkRCSG12V1phUjNDSXcwdUYzTF9nWXhuZHh0UmNCQ0JGMGVkN0VSa24yR1dDOGxua195SFJGZ3B6V293T0l4aUw0LUNCQ0pYOXhKY1FPa3g3TGZCdlRZcEZpdWk0M2o4UEZzMVktRFZrS2ZUNmM1Q3NnTDBHdVdXaUpVNU5telBYbEpEc3hn0gGSAUFVX3lxTE9Bb2xzOW0xRFBWVEhjYU1FWHJ1QzVpY1NQRUNyb0d3ck1WMW9mcFkyVzlJZzYxVkYwY0FSWUpzS0h3Nm82VjNkUS15UGI0Nl91b0dOR0FaaHJoLWdPODU4eFAxeGZzRDJsQURWcEphQWk1akVVX0hWaEFZY2tNV01lQ1BYYTNFLWpDUHpKTDN6SzNn?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Selja seeks welfare policy for mandi workers - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakNHRlBMVGstREhDMG9WM2RHT1NNcHo3YzJPWkhnMEdJbGJDRzhKeEZubDZvMXNja3UzSWZCbUkteDJPZUhaemRQbk1KT2E4Zk5YbVNiYmcwZmlCRTJXbWp4aUdMemo3SkVRUklmWWI1eGMyUndScWhla2hwLXh5N2dHZklsdTY4WVFWZXdMNXd3SV9JSnVMUkhLVnZNdkZLdnJsdm55VkloVE9mWkdHSlZMeDY3UEZvMlBOM3BTQdIBxAFBVV95cUxPNHhMQW5wNEtXQWZMVy03WnZXT1lMREcyNGxmQ096Mk5ocEhvbDVNRGduaTdEdm11cjQzR0hQWkZ4aDZtY1dnNlpidGR5d2lSZS16RHc2OFBZMUJlektoQzhNRDZYanhVRXMzVVdKZGk4VmxuS0hfTmZMTFM5amVJdVVXaUZWc0V5QTNDUHl6dVBIUEloQmgwT0FPWmJVSlhELWdLVFNqREZTU2VFdnRzaUxyX0REcUg4UUtJTXBwRVlNazRO?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "Kumari Selja backs Sonam Wangchuk’s fast over paper leaks, raises Sirsa soil salinity concerns - Telangana Today",
+          "source": "Telangana Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnRfTXh6UkRzeXI4UjYxYmxnUEk5cThvYlpkZzRoZEpUcXR2NU5lMTdIUzZvcDFNMGpGUi0xeGRyejVUQ09qeU5Gb1IwREpyd1FSd1lBcEloWWJpSWRLQXRpTFp0ME0zQXh6RDFya3FQMHVGYk5hU0tqczU0TDVCZ1RJbjBnNU1xbVZhdHBxb3RMbkdpQ1NwM0s4dEEtWGhQQndfWUxYbHZmOG5DT0E5VWd1WTJnM0xfVmdZ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Congress MP Selja seeks an audit of the Rs 200-crore RO project over Sirsa water concerns - The Statesman",
+          "source": "The Statesman",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRU1wVjV5YmhWZVlJb0g0a0sxOVpTUDFNcXBOWUw4cC1oczVqbEJxZnFDMjBXcjJER2NPWkhuaDJoeUFWUTFueWlIa3NPeTJLY0pJSy00a3RvTXdwT3paWW5SSzVDbEF0NW1qVGZFMFRodmhFdWVCUXpLaEptLWkxc3dkd1AtSUpacDZwSlRWNHJDRkl2ZHhudmFTcUNnbV9QVVpIZHV0S0tucXk3WkN2MDhvN3N6R2dnbVE0RVpPMC1Dck1sVlBYUmRVaHJjbENvc0pnSjRFZ9IB3AFBVV95cUxPZ1hkSUxWdWpXdmp0SjY1TEJKT1pPR3J2dmptMjllRjEzRXdzaUtmeVRpcF9EdkpTdjRQVU5uSTJNaG45UndXSUVTcUl4eEhBU19QdXFfbFFreUEyeWpMWjVFNUFRX2ZhMzMycnZMZ1VzbUg0ZFdfek0xSHZxNEwtaV9zWVlFVzhTeXFEVDFObU9CM2RPV1JHLVVIYng1LUR3MzlSTkJNeVkxZEhlX0hEQkdjbUlHUzFnTUxyT2dVaGlWZU1mUGJlOVVxLXhVX0JBRTlOTUxTTDdfZ04z?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -303,22 +372,6 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeW9obGxaaUtPT3BWU2xVcnF4aTRjMmNGWjA3a0hLRHhoUXgwMWlQbTJYS2FneXU1YlMzZXJOdlRGRGNIT2FDNTlySDZzazROeTJvUnN1dF85OF92VlVFVHd6YS1ib2tjQ1ZXV2pLQV9md0dWZ0hjejFNRUQxMDhGSklMVS1vczFFRUJ1YXpRbGdjUjVHYjVGNTVKU3lBX0R3aW1v?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Establish IITs in backward dists like Sirsa and Fatehabad: Selja in LS - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdXpHV25yRER1Z2VaZFZaWUdSek1GT2wxQkFCVUpJSnNGbFFVQ0doTVIwdzl6Z2p0enhwLTdiekhNMHVzX0VGRjF0b2twOU9nd0FVeGphbUw1V19yalVZV0pWQmZTWFJaS1g5UHl3X1N6cnphZDdjcHhxVnFuajRkQWdhcmtrNURfR2dXY1FPVEJqZllhLUloQ2p2RTFVWHF5MVhsc3ZHLU82aWNXYUtJckFzSDN4NkppRlBGYjRjVzVYdEFoa1VlcHRQMmhuc0ViV3JFTFB3OHhhQlh4Z0JkZtIB5gFBVV95cUxQVzNkRVRpN1FRaEZMUkx4ZzN2VUJkMmEzcjd1UV9hUWtxRlNTNWZWV09JSFZleDBvZWlvTkNOMUtHNTduTTRKZlJYWUwzeG9ES2NuTmJRLS04Vnd5ZmZuWXBIYm9INmF5Q1VtX3V0MEpjSlFUczg0b2lKQXV4OGlZVWhfX1JDZ0ZfelNsMmp0czU3OTNZTTN5TWk0S094aXBQajJ5NUhMVFhZV0FNbE44eHZOSzZTMkRjSGQ3MWlRUGRYRVB0b29JbVhqTW1zM0FBY1hSYkxnTXNSUk9INW10VGFuMXVYdw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Kumari Selja raises alarm over deteriorating drinking water quality in Haryana, demands immediate govt action - The Statesman",
-          "source": "The Statesman",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRHl6Szk1TzJEaTRmT2ZIVjk1cWIxckxOTmt4aWFpMl91aV82c1YxYkV0SWtoZkNYQjZnalN2V05pUXNUb2NmY1BDNkdqTS1rNzA4SzVod0RqbFcxdmZEZGN2TEZmRUhsTFd2TmZ0c2tkMTktSnRrZ3JHQUdVbHN2b0pJd2hDdDV4Rnp1emRadEwzemstaGVTcDdZZkpUVWdtVnh6U0swNGt1SFpfM3NsZW5sQXRNOE01MzBKQ0xhNFJIVXQ2ZzJBc2FFLXNXYXdGY0htYmMtLUVmUnlXVUpvRDJMUFR5M0hSRUw1SWRNeGbSAfYBQVVfeXFMTTA1X185Z3BWRTZDY3djQTgyTl9NbmVfNXpxczR3ZEYtUHotUmdsLV9mSnYyQTF6RlBmdnFxUlA2clBwQTJndUt2akZNRDRIU2hfb09ZUTcxTlpmenFuTXhyeVdfUGgwWXRzOGdMTkN6dVFPZWZTaE8tc0lsV1Q3UmdkVEt5Umc0a0FCamV4RE5EQmNtZE9wOVpuOUlWZFh4bkE0LUI0eDYta2xoT3B1Y3dTZFN3X3FmWC12bG1DcEVCbmt3OHhZR1p2MDBrbFg3b0JGWUdSZTBwYWJIRDFCakdmdzBMeVBYUzh6bVNRbEs0bHRWVEdn?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 9,
+      "starred_questions": 2,
+      "unstarred_questions": 7,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 16.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Haryana: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 420,655,803. MPLADS utilization: 10.5%. Parliament attendance: 85.0%. Questions asked: 9. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:48.341911Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 9. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.968493Z"
 }

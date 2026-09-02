@@ -7,38 +7,37 @@
 **Education:** Graduate
 **Profession:** Business & Social Service
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (57%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 57.8 / 100
+## Composite Transparency Score: 71.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 10.1 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 80.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 85.0 | 15% |
+| Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 55.0 | 5% |
+| Public Accessibility | 95.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 2
+- **Total Cases:** 1
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 2
+- **Pending Cases:** 1
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
 ### Cases Detail
 
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: Complaint Case u/s 200, Cr.P.C. Under Jurisdiction of PS DB Gupta Road) 
+1. Complaint Case u/s 200, Cr.P.C. Under Jurisdiction of PS DB Gupta Road (Sections: 499) [pending] 
 
 ---
 
@@ -49,19 +48,19 @@
 - **Total Assets:** Rs 52.64 Crore
 - **Liabilities:** Rs 10.00 Lakh
 - **Net Worth:** Rs 52.54 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 85% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 20662268920.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 100% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 2
-- **Utilization Rate:** 12.7%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -77,12 +76,14 @@
 
 ## Public Accessibility
 
-- **Platforms:** 1
+- **Platforms:** 3
 
 
 | Platform | Handle | Verified | Active |
 |----------|--------|----------|--------|
 | Twitter | [@RamvirBidhuri](https://x.com/RamvirBidhuri) | Yes | Yes |
+| Facebook | [@@theramvirsinghbidhuri](https://facebook.com/@theramvirsinghbidhuri) | No | Yes |
+| Instagram | [@@theramvirsinghbidhuri](https://instagram.com/@theramvirsinghbidhuri) | No | Yes |
 
 ---
 
@@ -91,13 +92,13 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 3 | **Neutral:** 7
 
-- English Releases - PIB (PIB) [neutral]
-- New highway to link city to Noida airport: Gadkari | Latest News Delhi - Hindustan Times (Hindustan Times) [neutral]
-- BJP distributes masks as AQI hits 'severe plus' category in Delhi, slams AAP for 'negligence' - Dailyhunt (Dailyhunt) [neutral]
-- People in 31 villages to get ownership rights of land in 'Lal Dora' area: South Delhi MP - ET Realty (ET Realty) [neutral]
-- Delhi’s 31 Villages to Gain Ownership Rights in Lal Dora Areas - Realty Plus Magazine (Realty Plus Magazine) [neutral]
+- 3 Delhi BJP MPs attend Sajjan Kumar condolence meeting, pulled up by Nitin Nabin - The Indian Express (The Indian Express) [neutral]
+- Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit - The New Indian Express (The New Indian Express) [neutral]
+- Govt’s objective is to resolve every citizen’s grievances on time: Ramvir Singh Bidhuri - The Statesman (The Statesman) [neutral]
+- BJP Reprimands 3 MPs for Attending 1984 Anti-Sikh Riot Convict Sajjan Kumar’s Prayer Meeting - Revoi.in (Revoi.in) [neutral]
+- Amar Colony Murder Accused Was Flagged To Cops By BJP MP Weeks Before Arrest - NDTV (NDTV) [negative]
 
 ---
 
@@ -110,8 +111,19 @@
 
 ---
 
+## News & Allegations
+
+- ! **3 Delhi BJP MPs attend Sajjan Kumar condolence meeting, pulled up by Nitin Nabin - The Indian Express** (The Indian Express)
+- ! **Nitin Nabin pulls up 3 BJP MPs over Sajjan Kumar condolence visit - The New Indian Express** (The New Indian Express)
+- ! **Govt’s objective is to resolve every citizen’s grievances on time: Ramvir Singh Bidhuri - The Statesman** (The Statesman)
+- ! **BJP Reprimands 3 MPs for Attending 1984 Anti-Sikh Riot Convict Sajjan Kumar’s Prayer Meeting - Revoi.in** (Revoi.in)
+- !! **Amar Colony Murder Accused Was Flagged To Cops By BJP MP Weeks Before Arrest - NDTV** (NDTV)
+
+---
+
 ## Data Validation Flags
 
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Delhi: 8 relevant findings
@@ -120,11 +132,11 @@
 
 ## Qualitative Assessment
 
-Ramvir Singh Bidhuri shows moderate transparency with a score of 57.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ramvir Singh Bidhuri demonstrates strong transparency with an overall score of 71.5/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 526,419,941. MPLADS utilization: 12.7%. Parliament attendance: 100.0%. Questions asked: 45. Debates participated: 5.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 526,419,941. Parliament attendance: 100.0%. Questions asked: 45. Debates participated: 5. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -164,7 +176,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -243,8 +255,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Ramvir Singh Bidhuri's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 12.7%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -263,11 +273,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

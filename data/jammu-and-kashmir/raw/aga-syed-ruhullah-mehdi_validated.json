@@ -4,16 +4,16 @@
     "constituency": "Srinagar",
     "state": "jammu and kashmir",
     "party": "Jammu and Kashmir National Conference",
-    "myneta_candidate_id": 6318,
+    "myneta_candidate_id": null,
     "slug": "aga-syed-ruhullah-mehdi",
     "house": "lok_sabha",
     "sansad_member_id": 5761,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 46,
+    "age": null,
     "photo_url": "/mp-photos/5761.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Srinagar",
       "state": "jammu and kashmir",
       "party": "Jammu and Kashmir National Conference",
-      "myneta_candidate_id": 6318,
+      "myneta_candidate_id": null,
       "slug": "aga-syed-ruhullah-mehdi",
       "house": "lok_sabha",
       "sansad_member_id": 5761,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 46,
+      "age": null,
       "photo_url": "/mp-photos/5761.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:16.511294Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 35793000.0,
-      "liabilities": 438000.0,
-      "net_worth": 35355000.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6318",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.097661Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 29.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 5.36,
-      "expended": 1.58,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:29.291488Z",
-          "notes": "Official eSAKSHI REST API — Works: 163 recommended, 127 sanctioned, 19 completed"
+          "fetched_at": "2026-09-02T14:30:59.092749Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:19.474391Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:19.471559Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 163,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 10.748299319727893
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:32.518117Z",
+          "fetched_at": "2026-09-02T14:27:19.470475Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Exclusive | Farooq Abdullah Dared, He Accepted: Rebel Aga Ruhullah To Resign As Srinagar MP - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZYV3Jnek1BSkd3bEpVbDFNbGJPODJ5bUlFTHNNS1NCOHZ5dHZKUDRTLWhEaWxScDR0VEVwOHpqUVdjS1Z4MDV5dUJ3QzJfdmVvbFlWSGh0M1dLNUNQckhIRlV3M3hpS3dKNXgzRXNtdm9xNE1ZOU1DTWpKRVQtcFBLYUhSMlVJTjhXRnR3Yl9sMkJ1NzQyUDFuWnRIWDhuaHpsSnh4N2N3WkpkeFg5SFRsa1RKdFdjZkHSAcIBQVVfeXFMTi13SWowdzlYbU5sN281UWNwanRIcVRuVlZrdElfblh3aGo1Q2hkMjZ4YzNNMTJxdy1JYjZzblFlYWFSYmpNX2tTRl9LdW0wUWVVcUZPVHN4Ums2bEp3Y1phVlZrdUtwM1RJU2lYbDNHZG05b3UxaGJ5S1BKbW8xWjY5d1V4TWFjaGNEejNOWFczT1hXenlIVGN3SWpUT2kwM3VkT2tYWXM0cHhIdm52cmtwNW9EUU1seFJCSkJyRncwV3c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Srinagar MP Ruhullah Mehdi's Facebook page blocked after notice from law enforcement agency: Meta to Delhi High Court - Bar and Bench",
+        "source": "Bar and Bench",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekVzS0VyT3lwLXVsNkVHNkhZdGlTSVFVWXd1cUZOSnJvWDhyV1ZNbWMtMzRwMmc3Q2Q0cGVYbW5abWpQTXhVajRpRzBNc2U5dGlfcUVyN1hRR2xUNTRPTHdYbkpjbEltTGpDa3hVdWt1UThmM09zYnZ5UGg2V1dvYVdUNlhKeU1zcU9NX003MGMyWU1oaDRkSFM0TE1SMnFSazllaUV6YmY4Ty1KeHFCSUw3NTJ1NWtNNThLWHdQX3l2eXZGM0hzRV9hVGsyc3FmUU9ZdHVDdnBneXZTUFkwOW9R0gHvAUFVX3lxTE1UNEZKSlF5Q2Z3TnMyYmlwS2V4RTEyRmN2a040OUJqVUdUYXRnNE42ME1FTTYzV05pVWl2bFdPWHd1bWVXNnRmanlmWm15c01YTDFjS2ZkZThzR2JMVzF0TUtaYUNHQXFUUk5WSTNxb18wcE1aTm1LT05ibmxnUTRVRGFBYURIcUg3eTZYdktySU5UTU1ZVU4yN2Jjdmh1Mmh0cVRwejgxdFNYSVdDNF9FWUh0Y3oyVEw5VlJwVnA5djBlRGhub1o0c3FQbVNCdjcyYUFycjU5azNlMXRGam9uLXJyaUpQLWtRX1ExQmlj?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Delhi High Court seeks Meta response on blocking Facebook page of Srinagar MP Aga Syed Ruhullah Mehdi - India Legal",
+        "source": "India Legal",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTHNoYW9CWHk2Q0NFSFhKbzZJR0M5d3RwazZOeURXTFN0SWNoQUhwREpwUmZNVERJMUxBcnY3dUZsR3dXRWtCa2VfaE9FVjNYb21KWXpPV2VzNG9Ec0JVNzVSNnRXbVoxbGVucEZqZFVTeFJHOTlmYU1uaWZMR3Y3ODd0QWFIVVpKcTZIbXc2YnFENGtZVlRwRGtvVTlKZFliRXJsRXBaNUpiZ3VTQ2tjcURuSlRwZFpoeVFMUGMxVTl5bzMwVXFfTTQ1OThjbDFzTThYclBBRUdaSFZZSVcxbmJmRFpNMTZoRS0yelhfU1AxdllVZm1HWGRJM1BZNXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Yousmarg shutdown hits livelihoods, MP Aga Ruhullah urges DC Budgam to reopen tourist spot - KNS News",
+        "source": "KNS News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFVZR1FfcWtBNE53bkxwWlhvOHFidW9EbE5DQlVwbUowTzlpM2MxdHNxa0xKM215TUxTOUR6YjBFZGMzZDRxUWlqdUF6RWU3TjZoZldUWWl5cGhlZWVRQ0trX0F5UDI2WXZJOUluZ3pIeS1mTVZZTGNSUEhxOTFYb3F5OHJhTUxFQ0RmV0JFSzNabDEtUzdIaGVHMFRNSjI4LTY3aXAySWE0UFF6TU1hVFhjV1cwRFJMTjhHUThWRVFXZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Please reconsider your decision ’: MLA Javid Baig appeals to Aga Ruhullah - Kashmir News Observer",
+        "source": "Kashmir News Observer",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOHY4RlVkbGJnemVuaEVHeUxPaHc0cGV4dXVNSEx4TEdjN2oybG84VmtZN1hWckZMM1lKVFBwTUw1NUV2Yng4R3hzNUtmcWNHYVgzSm1OVTN3OW01R2RjOC1PTHpjYW82bVlIQ01oOThTOE9SQUcxcFNIam5XcG52aUViajc3NXRHaTVDMXh4VDFZa0dxQTBqc1poVDdJRkF0YnRpaGQwd1JncUtPa0MyQjBuYTF4eVc4YUVsNGVrMWljU0tQWG9kMGdR?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:21.598085Z",
+    "collected_at": "2026-09-02T14:30:59.093811Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.541233Z",
+          "fetched_at": "2026-09-02T18:38:06.149674Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.541242Z",
+          "fetched_at": "2026-09-02T18:38:06.149685Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.541247Z",
+          "fetched_at": "2026-09-02T18:38:06.149690Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.541252Z",
+          "fetched_at": "2026-09-02T18:38:06.149696Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.541257Z",
+          "fetched_at": "2026-09-02T18:38:06.149702Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.541262Z",
+          "fetched_at": "2026-09-02T18:38:06.149707Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.541266Z",
+          "fetched_at": "2026-09-02T18:38:06.149711Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,56 +322,81 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/RuhullahMehdi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "url": "https://x.com/https://x.com/RuhullahMehdi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/ruhullahmehdii/",
+          "url": "https://facebook.com/https://www.facebook.com/ruhullahmehdii/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:27:22.539221Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 1,
-      "neutral": 9,
+      "negative": 0,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "MP Ruhullah Urges Er Rashid to Remain in Politics, Calls for Patience Amid Difficult Times - Kashmir Life",
-          "source": "Kashmir Life",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdscktYRjJ1UGp0ZWpBeTZrWm8zY003cmJnMzAtbzVDRFJRVkRwTTNJRzdGSTQ4UU5PWGRDODFnbkxzRFI1QXY5R2RWdVpEeFE2U1RxRDI3VmY3UzJ0RGRfLUl3dHExOWFQVWNXX0dTb2M1RXpFYUkwZngxY0xXYzVEdG5rQlZPbmNSam1Sd2h1WkZOaS1oSHdBenVDUW9VMzItZ2xFVThsY254VXhoSlhjOFRCa2s2YmdLdm53?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "MP Aga Ruhullah Questions Omar Abdullah’s Jammu Outreach, Alleges ‘Crushing of Dissent’ - KashmirPEN",
-          "source": "KashmirPEN",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHRMb2VDbUdmT1VDUExzZHItVWk5TDhDdDhkUmZmc3B5Q1B0cWM3djdCZHQzbVBfbWlwWEgtVEFoWnlUR0czcnZJNGsyOGVJY09sR0prTEx0ODRQSmZaTXZLcTFoYzJCY19acTRSNkJYQ0czWE1RTHl1MEZ5MVdmX2trOXhKUUxaX2UwbzJiY2JTXzd4TkprSG02Y3BNaTluZkFDZzAwUzNTWkFWQWdJ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "‘Betrayal Of People’s Mandate’: Ruhullah Accuses Party Of Abandoning Article 370 Restoration, Statehood Promise - ETV Bharat",
-          "source": "ETV Bharat",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVXNMdW43ZjJOVHJJQ3BwTXNfbkxwM3ZySWUzdU9JYVphbWdWS3diMjJIN0o1dDQyNl9fZzBHb216UFd5ZDlKQXJZcGtTV0RvU1pRSFRidkFGaEhTQk11SEdhckFraFgzeV9xb25nbWZBbzcyYzBrUGxBd0RFcW9DY2xLTUZYTVlzQ2NhOHZOTFppYUprTDhTSmcxWU9ld3JFWGVIeEF5ME9QZm1HbFBLN21YekdrZWJseXhMeWxMZ1o5b0FTazIwMkFFVFkzdy1QVmdfV2ptdkprYkHSAeABQVVfeXFMTTMybXVuQmMxc1VCVENMcUZRajFPUmZlcVE0MHFBUnlXR1FaZ3NZaG5Ydmk2V3VuQmhJb2txUnZKQWZOcTNCeGpxdWhJYnF4bTVrVDlvYXg5M2M0T0pKUzFBMXktdWhkaDEycElMaWlaTDMwNzBseDZSS29FNXNsNFZSUFBmeGJIVjNsaHlLQXlwam9Ya0tNbXZ4WF9CTnBodEJ2bFVKWmM5clRvTnZBNGxGcnVRZEstY2hpS2hwV2FQRnhZQjBJV2FYM2NhdmtmT1JCLTRiNElyMWtwekdrUVg?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "MP Aga Syed Ruhullah Mehdi visits Sumerbugh, Shalina in Budgam - The Global Kashmir",
-          "source": "The Global Kashmir",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODAycTVzZnJfTllsWXJYdndPc3dLaWo4ZU5aQ1o3TnVlanJjY3E1elpxaDhTTUdMc3RXUnBEb3RhZUhEN1NKTVVjcmFBMUNaOXlMSl9NZTEtQ3JnOVgwbkFlQjV6dmwxZVRnaHJfMlpZVlN5LXdEZzcyZkNYbVFvZ0pfUlFLNFRVZDYzeDBZLWVOQQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Case Against Kashmir MP Over Social Media Posts On Khamenei Killing Protests - NDTV",
+          "headline": "Exclusive | Farooq Abdullah Dared, He Accepted: Rebel Aga Ruhullah To Resign As Srinagar MP - NDTV",
           "source": "NDTV",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQkNVQ0ptU1ZtWDRNczZGNnp1akE1TF92THhUdi0xam5oeWxUM1V2eWEyLWhhaDhmYWlwUWxqSjdSX1p4TlJlTmV4dzhIdTVUZm9pcm5VSE0xUENYcmNYbllJYkY5eW91Vm1pZVNUc24zWjVlbFZnQm5uQ2h3OWVlOUxUMXNNRENkbHZEODJWTmhZLXhaVjBrQlB2ekc1Zmtrc2JkTlhhTVZSb2dxbGcxWG1EMDYwMFdRX2JtU1VoWHoxRzNtdXBmczV0M0ctTXlUTE9UaG1DbWQ0RDNHM21zNjVaTjR2QS1ublBXVEhqb0x0ZlRVZ3NzY3pZb05jUWwybUxVLXVR0gGOAkFVX3lxTE04emtVSzJpYUlfMWg2T01UalRUSHdXeEZRMXNlajJDT3N4VGxzUFh0NkRGMlJnem92bXRDcThpdkxRbmZjMGE2SFB2c041akZRNUZ5RFN2TGl4WEFnMjI5Z0pReEdRT1YwREZoVEtlRTUwbzZtMGhUNU1zbVRQN2ZNQWtTTm4tM1E4cC1xSGRGemtveHBoTjljbV80ZFo4X1BIOF92UDJfOF94Z1d1a0FyWkZHYm84eVNCMnJnSDFzbS1pUDg0NlZEekdkUE9MLVdPdmhrTlFIcDFXcF9YdnRTV2E3eldrOFRIbU5ueC1zSjFnU3poZnVNTFVIMXc2MGJpWGdKaXo1blA4a2NTQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZYV3Jnek1BSkd3bEpVbDFNbGJPODJ5bUlFTHNNS1NCOHZ5dHZKUDRTLWhEaWxScDR0VEVwOHpqUVdjS1Z4MDV5dUJ3QzJfdmVvbFlWSGh0M1dLNUNQckhIRlV3M3hpS3dKNXgzRXNtdm9xNE1ZOU1DTWpKRVQtcFBLYUhSMlVJTjhXRnR3Yl9sMkJ1NzQyUDFuWnRIWDhuaHpsSnh4N2N3WkpkeFg5SFRsa1RKdFdjZkHSAcIBQVVfeXFMTi13SWowdzlYbU5sN281UWNwanRIcVRuVlZrdElfblh3aGo1Q2hkMjZ4YzNNMTJxdy1JYjZzblFlYWFSYmpNX2tTRl9LdW0wUWVVcUZPVHN4Ums2bEp3Y1phVlZrdUtwM1RJU2lYbDNHZG05b3UxaGJ5S1BKbW8xWjY5d1V4TWFjaGNEejNOWFczT1hXenlIVGN3SWpUT2kwM3VkT2tYWXM0cHhIdm52cmtwNW9EUU1seFJCSkJyRncwV3c?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Srinagar MP Ruhullah Mehdi's Facebook page blocked after notice from law enforcement agency: Meta to Delhi High Court - Bar and Bench",
+          "source": "Bar and Bench",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekVzS0VyT3lwLXVsNkVHNkhZdGlTSVFVWXd1cUZOSnJvWDhyV1ZNbWMtMzRwMmc3Q2Q0cGVYbW5abWpQTXhVajRpRzBNc2U5dGlfcUVyN1hRR2xUNTRPTHdYbkpjbEltTGpDa3hVdWt1UThmM09zYnZ5UGg2V1dvYVdUNlhKeU1zcU9NX003MGMyWU1oaDRkSFM0TE1SMnFSazllaUV6YmY4Ty1KeHFCSUw3NTJ1NWtNNThLWHdQX3l2eXZGM0hzRV9hVGsyc3FmUU9ZdHVDdnBneXZTUFkwOW9R0gHvAUFVX3lxTE1UNEZKSlF5Q2Z3TnMyYmlwS2V4RTEyRmN2a040OUJqVUdUYXRnNE42ME1FTTYzV05pVWl2bFdPWHd1bWVXNnRmanlmWm15c01YTDFjS2ZkZThzR2JMVzF0TUtaYUNHQXFUUk5WSTNxb18wcE1aTm1LT05ibmxnUTRVRGFBYURIcUg3eTZYdktySU5UTU1ZVU4yN2Jjdmh1Mmh0cVRwejgxdFNYSVdDNF9FWUh0Y3oyVEw5VlJwVnA5djBlRGhub1o0c3FQbVNCdjcyYUFycjU5azNlMXRGam9uLXJyaUpQLWtRX1ExQmlj?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Delhi High Court seeks Meta response on blocking Facebook page of Srinagar MP Aga Syed Ruhullah Mehdi - India Legal",
+          "source": "India Legal",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTHNoYW9CWHk2Q0NFSFhKbzZJR0M5d3RwazZOeURXTFN0SWNoQUhwREpwUmZNVERJMUxBcnY3dUZsR3dXRWtCa2VfaE9FVjNYb21KWXpPV2VzNG9Ec0JVNzVSNnRXbVoxbGVucEZqZFVTeFJHOTlmYU1uaWZMR3Y3ODd0QWFIVVpKcTZIbXc2YnFENGtZVlRwRGtvVTlKZFliRXJsRXBaNUpiZ3VTQ2tjcURuSlRwZFpoeVFMUGMxVTl5bzMwVXFfTTQ1OThjbDFzTThYclBBRUdaSFZZSVcxbmJmRFpNMTZoRS0yelhfU1AxdllVZm1HWGRJM1BZNXc?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Yousmarg shutdown hits livelihoods, MP Aga Ruhullah urges DC Budgam to reopen tourist spot - KNS News",
+          "source": "KNS News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFVZR1FfcWtBNE53bkxwWlhvOHFidW9EbE5DQlVwbUowTzlpM2MxdHNxa0xKM215TUxTOUR6YjBFZGMzZDRxUWlqdUF6RWU3TjZoZldUWWl5cGhlZWVRQ0trX0F5UDI2WXZJOUluZ3pIeS1mTVZZTGNSUEhxOTFYb3F5OHJhTUxFQ0RmV0JFSzNabDEtUzdIaGVHMFRNSjI4LTY3aXAySWE0UFF6TU1hVFhjV1cwRFJMTjhHUThWRVFXZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "‘Please reconsider your decision ’: MLA Javid Baig appeals to Aga Ruhullah - Kashmir News Observer",
+          "source": "Kashmir News Observer",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOHY4RlVkbGJnemVuaEVHeUxPaHc0cGV4dXVNSEx4TEdjN2oybG84VmtZN1hWckZMM1lKVFBwTUw1NUV2Yng4R3hzNUtmcWNHYVgzSm1OVTN3OW01R2RjOC1PTHpjYW82bVlIQ01oOThTOE9SQUcxcFNIam5XcG52aUViajc3NXRHaTVDMXh4VDFZa0dxQTBqc1poVDdJRkF0YnRpaGQwd1JncUtPa0MyQjBuYTF4eVc4YUVsNGVrMWljU0tQWG9kMGdR?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +430,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 7,
+      "starred_questions": 2,
+      "unstarred_questions": 5,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 13.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +446,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +477,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +504,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Jammu And Kashmir: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 35,793,000. MPLADS utilization: 10.7%. Parliament attendance: 100.0%. Questions asked: 7. Debates participated: 7.",
-  "validated_at": "2026-09-02T01:36:48.542030Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 7. Debates participated: 7. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.150453Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Agra",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3493,
+    "myneta_candidate_id": null,
     "slug": "s-p-singh-baghel",
     "house": "lok_sabha",
     "sansad_member_id": 31,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/31.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Agra",
       "state": "uttar pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3493,
+      "myneta_candidate_id": null,
       "slug": "s-p-singh-baghel",
       "house": "lok_sabha",
       "sansad_member_id": 31,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Doctorate",
+      "education": null,
       "profession": null,
-      "age": 63,
+      "age": null,
       "photo_url": "/mp-photos/31.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:11.413569Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 104358691.0,
-      "liabilities": 5170325.0,
-      "net_worth": 99188366.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3493",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.052826Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 59.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.41,
-      "expended": 8.78,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:17.996498Z",
-          "notes": "Official eSAKSHI REST API — Works: 74 recommended, 72 sanctioned, 55 completed"
+          "fetched_at": "2026-09-02T16:24:22.185013Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T16:18:57.737738Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T16:19:34.445095Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 74,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 59.72789115646259
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T13:51:54.246838Z",
+          "fetched_at": "2026-09-02T16:19:32.712533Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Lok Sabha Speaker Om Birla unveils statue of Lokmata Ahilyabai Holkar - Hindusthan Samachar English",
+        "source": "Hindusthan Samachar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamxFNnJ0UV80ZDhBaTF4cDJfOVVPU2RCbi1oRDl3aGZKVHBWSkJiOWZLNk0teTh6bTlTVzZETnR3SHN2QUlNVHFVMmdoOHhkTG1WT3dnOUlIVXhwZ1RINy03cTBtSEVOMmEzQmdabDZpV1hRSGd2aVdZVWN1TURHcjNqX3VHTjluYUs3N05R?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shifted from Law Ministry after Kiren Rijiju ouster, S P Singh Baghel is new MoS Health - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1p4RC1PSmFlZFg0SjZQbkk2RGktOXBRMm9aUHNGaUJlQmtHeGZwODV4SFpnN0NDMWVxQUE5cWNsNnlGdzlHdVY5Y2hpQVV1bTlpYnFyNzFOQkdqOW5YT1B3UVE5bVRkV05BWVNjTUNXa25xeng5UEtJcFczSGl3R25YSWpoejNBVXRvZkI3RWR0cWhSa21xX3BZN2ZRQXlESFdIY0l1QmVYUEtLNjFEczZaY3JGN2_SAb4BQVVfeXFMTTlLaENvQkxBdS1wclVfM2JHNjFCeWJ5NlZnU011OE03aC1KeTRxcGpUZUVpNWRWUVR6a2FvRGUyWHdGN0d4Y3ZkS1JrOVVWaTV1QkhMQ3RIQWY0WXNZcTVWYXBlenRITXk4dFZTeG55TUNLVF9manpqWXRLOTNaTC01WlRmTTU5Wm5WNEdwLWUyU0hvT2dPc01aOWhfOEt0WTNmejdoNXNuWWRZV0VxMVpzMDJ4dlZfZkxNdk0wQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha polls: Hope Katheria continues to work for party, says Agra BJP candidate SP Singh Baghel - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYVAxWEN2SjVHdmxHdkV4UEYxXzl0OEJLYUNCd2NDWmZZT3BCQ3VFcThFZHI2d0lXbmVTQXZOVDc4bk1vM0tpSEdHb2RlYk5mMkI3UjJPT2I0aVJSX3NjWkRNdENvcm5XTU5jY2treG00c2RadjBSQ0Y2TE4zOHlERW1nMzc5MEZIeTlWQUFCaFRjUVdiTTdTTmhWUy1aV3Bpb0JRa1ZmMWhuNjFUd09HZmctMWtkeWthV0tpdXdOUUU4cHN0V3lSQjZ1YjRUV2VmUUhCejhHNnI5eEpNUFBVRlZkR1M0QVk0bVJQOXlrU0VLT2U3SGN0Sm1keGJvUDlLNFBFSVg5bHBvNVJaWlNJ0gGUAkFVX3lxTE1kRUVjQm9HVVpsSUJ4Wnp5d1Z0UnZYVXZnVk1PeVZpNUY2S3Roci1WSy1BanA5LUZkUy15ZWdZalFTWFBKb3dTMGtfbUhTd3dqM2F0cm5wU2RnOHRNTk5EZDc3N2RHcVJaYm9wU1VEWi1qQUVleDRyckZlcTl3X3dZc0RlOWRDejFWd1h5d3hfaGtGaUpwUGFreHRKVFByeHczdGVkQnFnekZNRVJSLThJZ0ZNa3NhQklkSktidnhfUWRNTVJtaGR0Tk5nVXBrdXN6bDJvMGFqYllQMmlwYjNGSlJJajlnb3dGeHYzbmFHdlFBNXRjd3Z3WmVGR1IyYUREUnFQX2xncG12b3BzRHEzQ3l1UQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"Improved Law And Order A Key Factor\": BJP MP From Agra SP Singh Baghel After Taking Oath - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmV6cG54ckVyd3NFTkg4VjhGU1Jnd2I5MFd6UExxU1F5ZkNzbGd3RkpMM3JtVnJEX2VlQUgtazZJVjFGYVhEYzEwWUx5ZF9NblVwWHcwU0x5V25wTXFEejNzTTZiUHk0b012RUxScDBnUnE5d05GR1k1YjBLMFppcTFNOVRGTlFBa09ZWGFzcTNhZDBFaWJGSGtnT09Vdy1uVjVwWS1zSWt1LXZxeXdDaTZDUHBmd21WU0NTTw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Complaint against Union Minister Baghel for 'Possessing' Fake Caste Certificate - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDlhaHdBVW41VUd6dmlpOWJDRHhHZGstV1FqdEFqQUVnS1h5UG5QLXhkd3h4S3lsZXV1RXlkS3hmb0p5TUlTSTBSVDBCMlEwYnZQSkY3cmVhZklhX3JGbGpObG9ZaDU3c1VycUtBMjBkY1g5Vi1UZ1RLY2ZOM2gyU01pWHluZHRneEcwMzNWendLT2xxSi1zNEY5bkx1cENWMWlPbTYzUENJRC1ndzNMSEJOV0bSAboBQVVfeXFMTTdBNkZLY2xIUkx5V1pCdXp5YnRkOU5BQjRSYUFMLWQ3ZFVDd3Vtc3o5eUJrck1DaFFmUDBjTjUyWGhOTjNmMU53YXplS1Z5N3JvaElVR3QzMDJ1OG1paDFPRDMwZElDVmRqLWc3Y3BBaXRsTEtHTkszOUwyTThOOXpYRUtFbVR3elVQaTVCRC1OM3FhU3kwMFQyTTdlaEhmb1ZFcF9zMFlLSzNVSzNlQi1sTnF1cGhQaXF3?oc=5",
+        "sentiment": "negative"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T13:52:22.728265Z",
+    "collected_at": "2026-09-02T16:24:27.189416Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.123658Z",
+          "fetched_at": "2026-09-02T18:38:11.723213Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.123667Z",
+          "fetched_at": "2026-09-02T18:38:11.723224Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.123672Z",
+          "fetched_at": "2026-09-02T18:38:11.723230Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.123676Z",
+          "fetched_at": "2026-09-02T18:38:11.723235Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.123681Z",
+          "fetched_at": "2026-09-02T18:38:11.723240Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.123686Z",
+          "fetched_at": "2026-09-02T18:38:11.723245Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.123691Z",
+          "fetched_at": "2026-09-02T18:38:11.723250Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.123695Z",
+          "fetched_at": "2026-09-02T18:38:11.723255Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -298,19 +351,11 @@
       "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Former sub-inspector and Agra MP SP Singh Baghel gets ministerial berth - The Times of India",
-          "source": "The Times of India",
+          "headline": "Lok Sabha Speaker Om Birla unveils statue of Lokmata Ahilyabai Holkar - Hindusthan Samachar English",
+          "source": "Hindusthan Samachar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlBhYzJfQWJCSzR6Y0JwcWR5T1B2d1VfUTFWZ0JKYlZ3Q25CSWFNdHdNdVNGS1Z5TUZpdHh5QnNYY3g0U01ZRFB4bXZ0UzBIYzRkWWIwcjV5Z1RValVnbFdCS1l1UHF5bThFQU56YjNhbGRTODhUeUZjbEt2bXFCRlM1aGpWSWQ5RWs4eUliNmJPXzQzb0JXMlZQcXVSM0NuaFRiVXBtNFU4VU5wQVRaSDVvRndjVWRQNWswdjhXbzBEbDNWcXVKdXk2NnBqNTc5cDBNQmYxODNrQdIB3wFBVV95cUxQTWxhR3QzLVlDRFFNUUFUWktXN3ZxQVlXNTlBNS1iTjJzcmx6a2xTTGVoV094dnlnd0JVbURqX0ctN1JGdXkxODZIbjF1NmxGNWxsMEVOQVZ4WDNKMjY4eHFDVHQ1UnFVWWpiRG5OWkt3SHhLbWRGaU8xZFJ2MUJYV2oyV0t3dUtXekQtbjVKUWM4SUo1WWdDdEF6YzU5QTl6djZZek1qUkoxTF9XcUZmTDM2YS1tXzdSSDd5MU1Ed1NHMF9rdThOZDhDRWFXS19XSEZUdVNPSnBtUWREZE1j?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Agra Lok Sabha elections 2024: BJP's SP Singh Baghel to face triangular contest with SP, BSP - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPTmQtMFVNUGJBV2xHVHpNYjRwRzRsRk5QU3MwMmpQMkJMYldNaXNkUDljazliU19xalRxaEJRTkZlejgyVHBIMG9KNk8wWl9oeDNNdTM5THRlcWJHX29reHJKblNUblF2d3dtQXN1dGt5OW9vYzRjSW9ZZ3JKNWt3N0JYTlRocUJwajl5SXdkTGt3TmI0QVBfRmxiVnk5MHNITHlZa2ZTcF94aU1adi1DTDlGR3FvRnhkZUlCMnBDR3lPMHFVbmp6LWZ5RUJ3cU1qTjJGUk9zWGpJbE1HYVdseUtKRHY1X1BUUk9SRENyWjFCUktRRzRYQ2cySjRzQ0Y1d3BrY0xxOEZKbUJJRmFwME1vZzFKdHk3SUh3UzFiY3NERGJwUnFBX2Q3VDBzV0VLMkHSAbcCQVVfeXFMTjN4ZHFZVG55eGtWSkxJcFJjYjBNQWUyb21lM0xCQ2ZxNHRkODViemRUQW9IMHNVSWtyNmRaaGRJd1VzOTBuRndqejJmc21GTk5KZGRReXhnUHM1UW9JS1RvZk5OUHdMOVJPU3YtbnFRY3FvZm9ONGtEcW5rRFJUeGNjU0tNS3JqREZSN2hJQnc3a29USWFPM1JqRXl4b01lWXJEakhFLVQ3eThDY2wwemtMbjFpSjFNR2hqUGEySDlxZ1pnVGdrcFdwWUlnWVctMlVwWlJmc1REWW5KdlliLTRSd1pjYTNob2dwTjlDYXFuTzdQT21EbWlsRmVDQVp5S1NMOFRMM0tGS2NRNUkzbDJHbEtmVHVGMzdtTjV1ZW9TdmdTMWw1S3ozelBha1huR1M5VTZsS00?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamxFNnJ0UV80ZDhBaTF4cDJfOVVPU2RCbi1oRDl3aGZKVHBWSkJiOWZLNk0teTh6bTlTVzZETnR3SHN2QUlNVHFVMmdoOHhkTG1WT3dnOUlIVXhwZ1RINy03cTBtSEVOMmEzQmdabDZpV1hRSGd2aVdZVWN1TURHcjNqX3VHTjluYUs3N05R?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -319,6 +364,14 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1p4RC1PSmFlZFg0SjZQbkk2RGktOXBRMm9aUHNGaUJlQmtHeGZwODV4SFpnN0NDMWVxQUE5cWNsNnlGdzlHdVY5Y2hpQVV1bTlpYnFyNzFOQkdqOW5YT1B3UVE5bVRkV05BWVNjTUNXa25xeng5UEtJcFczSGl3R25YSWpoejNBVXRvZkI3RWR0cWhSa21xX3BZN2ZRQXlESFdIY0l1QmVYUEtLNjFEczZaY3JGN2_SAb4BQVVfeXFMTTlLaENvQkxBdS1wclVfM2JHNjFCeWJ5NlZnU011OE03aC1KeTRxcGpUZUVpNWRWUVR6a2FvRGUyWHdGN0d4Y3ZkS1JrOVVWaTV1QkhMQ3RIQWY0WXNZcTVWYXBlenRITXk4dFZTeG55TUNLVF9manpqWXRLOTNaTC01WlRmTTU5Wm5WNEdwLWUyU0hvT2dPc01aOWhfOEt0WTNmejdoNXNuWWRZV0VxMVpzMDJ4dlZfZkxNdk0wQQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Lok Sabha polls: Hope Katheria continues to work for party, says Agra BJP candidate SP Singh Baghel - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYVAxWEN2SjVHdmxHdkV4UEYxXzl0OEJLYUNCd2NDWmZZT3BCQ3VFcThFZHI2d0lXbmVTQXZOVDc4bk1vM0tpSEdHb2RlYk5mMkI3UjJPT2I0aVJSX3NjWkRNdENvcm5XTU5jY2treG00c2RadjBSQ0Y2TE4zOHlERW1nMzc5MEZIeTlWQUFCaFRjUVdiTTdTTmhWUy1aV3Bpb0JRa1ZmMWhuNjFUd09HZmctMWtkeWthV0tpdXdOUUU4cHN0V3lSQjZ1YjRUV2VmUUhCejhHNnI5eEpNUFBVRlZkR1M0QVk0bVJQOXlrU0VLT2U3SGN0Sm1keGJvUDlLNFBFSVg5bHBvNVJaWlNJ0gGUAkFVX3lxTE1kRUVjQm9HVVpsSUJ4Wnp5d1Z0UnZYVXZnVk1PeVZpNUY2S3Roci1WSy1BanA5LUZkUy15ZWdZalFTWFBKb3dTMGtfbUhTd3dqM2F0cm5wU2RnOHRNTk5EZDc3N2RHcVJaYm9wU1VEWi1qQUVleDRyckZlcTl3X3dZc0RlOWRDejFWd1h5d3hfaGtGaUpwUGFreHRKVFByeHczdGVkQnFnekZNRVJSLThJZ0ZNa3NhQklkSktidnhfUWRNTVJtaGR0Tk5nVXBrdXN6bDJvMGFqYllQMmlwYjNGSlJJajlnb3dGeHYzbmFHdlFBNXRjd3Z3WmVGR1IyYUREUnFQX2xncG12b3BzRHEzQ3l1UQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -384,7 +437,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -415,8 +468,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.17,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -436,12 +501,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 104,358,691. MPLADS utilization: 59.7%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:54.124465Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.723929Z"
 }

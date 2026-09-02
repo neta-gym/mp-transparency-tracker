@@ -3,17 +3,17 @@
     "name": "Sanjay Uttamrao Deshmukh",
     "constituency": "Yavatmal-Washim",
     "state": "maharashtra",
-    "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-    "myneta_candidate_id": 1978,
+    "party": "Shiv Sena",
+    "myneta_candidate_id": null,
     "slug": "sanjay-uttamrao-deshmukh",
     "house": "lok_sabha",
     "sansad_member_id": 5725,
     "profile_url": null,
     "canonical_name": "Sanjay Uttamrao Deshmukh",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/5725.jpg"
   },
   "findings": {
@@ -21,17 +21,17 @@
       "name": "Sanjay Uttamrao Deshmukh",
       "constituency": "Yavatmal-Washim",
       "state": "maharashtra",
-      "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-      "myneta_candidate_id": 1978,
+      "party": "Shiv Sena",
+      "myneta_candidate_id": null,
       "slug": "sanjay-uttamrao-deshmukh",
       "house": "lok_sabha",
       "sansad_member_id": 5725,
       "profile_url": null,
       "canonical_name": "Sanjay Uttamrao Deshmukh",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 55,
+      "age": null,
       "photo_url": "/mp-photos/5725.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:23.705892Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 284422940.0,
-      "liabilities": 94874636.0,
-      "net_worth": 189548304.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1978",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.239544Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 76.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 18.56,
-      "released": 18.56,
-      "sanctioned": 1.65,
-      "expended": 1.42,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:30:21.191331Z",
-          "notes": "Official eSAKSHI REST API — Works: 113 recommended, 25 sanctioned, 7 completed"
+          "fetched_at": "2026-09-02T14:50:22.668906Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:46:43.043176Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:46:43.040345Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 113,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 7.650862068965518
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:23:58.936330Z",
+          "fetched_at": "2026-09-02T14:46:43.039210Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "\"50 corporators expressed desire to switch to Shiv Sena\": Rebel Sena UBT MP Sanjay Deshmukh - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV2x3UDNhNjNaVGlmTHEyZDY1LV92czFlWWJTWUZCZjdEel9pdVdVb3pxVGt5VjVvWEVsR1JFZTllRV9PakNWc3EyckttRU8wYUh6U18tVXVfMmgzOWw2LVlfdm5KRDc0RENpbmwyaWYxWXg5NlVKcmswNG91ZjhFV3BsQlY1ZDB4SUM1ZHA2amVHaDY5TGNER3NxQXNObjlhQmk2MFJoaEptdUFLRWhUT0lPYTdDRW9rQzFwemc5SmxaWE9jRHpsSXJhV3hpdHRTcGpNUko4VXBsQ0xHcy1fVjRB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shiv Sena and TMC split amid defections in Maharashtra and West Bengal - The News Mill",
+        "source": "The News Mill",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmJPRk1TWDJhYUY5LXFjR20zYm4xbGJYdkVRVnpfNjgxdldVdU11MHl0RnZyNkcwTGN1dDZ0NHpwYkYtUmg5cU1mVURFM244TkJWOUd5Rm41el82TDZlM0ViUXNpQzUxZmlxYWxNMDZrd2VrQnVxbXBpX0ZSZ3ViOUJ0TmFaMWVHUHRMVUpXcXQzRVB3M1VYOGZjTm5GVC02TVdhUHF0M1ZCN0RCMUR1LWJhbm8xN3hDb05JbmJPdmFEWUgzUWo4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Yavatmal-Washim election results 2024 live updates: Shiv Sena (UBT)'s Sanjay Uttamrao Deshmukh wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPOVRQbmlpdXdRNmNYSVRhSHNHdHVCcUlDZWFpRVpCTTlhYllJbFJMSC1qemI0OGNrT2ViUV9fQkNKOHZUaE8xOEN1eFhqNldVV3drZnQ2WDVlSGV1OTZUWHlPRzB1TElwcGx4eVpEam5QLUVzR3J2MDJGVjVrdjJfTEl6VkZZMXB3ekUtSlZuOG44cWpKU25Mb0NHcVY1VlA4S1JsZWZsbnBWOU16QWs0S0gwUVlhX0g2Y000ZERMVnBKX0g4OFZQX3VNSWI2WHhxSndXRTRiUXY3bTVPXzdUV2tWQms4ODBNZjFKYzdoUGZKUjV0ZjZFN1hoaWptRU13VW92QldZVmV6YTR1MngyeVZDT1pkb2g3NGNxQnlqX1hONlhNLWdNR0tXcm40VnpuWUpwVkVFLVIzZGQwTC1JRUNPTWVQOUN4UjkyVmFubFk0dXREaW13V29n0gHfAkFVX3lxTFB3dktQSzQzTHdQclREWHM1UkowX3pDWnAwUThpb2QwNUpXZ3hQN1RGTzY5UTNOaDN6a2V4YWQwTFdON2xnY1J5S21NcHJueG9vbEMtcERCSTI1V1F4ZW1sX1otNTRsT3Q0aWphVW82QVQtMkRsTUdrbm80YXhXeUNfeEU5ZDRHZGR4U1c0QlhvQTA0OHVLejMxY25iRFc0WHQ3eTNyN2k4OTNMTk00ek1RWjZmTTRwOXdTTEI5LTh1UVgyVEtIMHNvUVdfUmMzVVVIVTBMYm90M0V2LUkwM2FCTlJGRlVpZnRWZnFDa1F6NlliMXBLWUE1di1jREttNDR1X3lUelhDU1J3XzY2ODVqS0FvbDh6bmljSUJaMDliYVRoLWxrZjVUdDdBZ1YxaFc0Y1lULVhsWWd0dGQ2NEpKT3hsc0lSUTNBSDdaeFh1RnlCbGtwM3NYd2pDS3hLSQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Yavatmal-Washim Election Result 2024 Live Updates: SSUBT Sanjay Uttamrao Deshmukh Has Won This Lok Sabha Seat - The Quint",
+        "source": "The Quint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMHBpVHk3MlFCN0UwcjVUVlQzaUgteTUzUmtPR2lMMVRaS1UwSDlMMGdqRVUtSUxyTzNVSVFQVHpUaWVtY2xMQldpc2o0MG1waEF4cmtjNldPaGU1amZIVWdfUjk4RHZ2c19ka2VQUm5UaFdTYnlGdVhlNmtfeElKQ2Z5M3lWMDRwT0lNYW03VG02VTNUZklISl9RY0JSX1JlS1U5NmNyNmJ2dGtiOG13SHRSY2g2WVplbndSamwyYUNsdnJfWFhzZVFJZ1AyLWpwSlHSAd8BQVVfeXFMUENSRG5FR1RxNC0wSTUzcjk4ZnQzcXN6TjduZjF4T3p5V3BCWm5uaGtzeTg3NWNjUGY3dS1oanhDRkN4bnJXaHRuMXNrSjA1WXFkaFk0TF94QjcyYjhuSk9JTUc4Q2pfbVhlVnNrOHdienRLNzdHUGJsWEdZYVY1SlJQTUQtQ0dNcUlSa3p5eUs0YUlzU1E0YUFMdkJLSlJ1ZlZOeDA2bkNVdWwweFhBbDVUaWpGUFhvc2d2MnVWUGVBTWoxUG9XTmMzVTdVRFdsRS1id25XN1RvSVR0NktaWQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sanjay Uttamrao Deshmukh - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDZhZmxjZEVKSmxSWHJqRFVPczNHVUE5T3JEcDN1MHA4dy1DUW9DV2xobHdoZ3pvanhJa2RtQVM5SHlSUklWa1VGd1J6R0c5OHVIcUF0Szd1VmZLWERvS0NrYnA0MEtlVGxJajh6alp5Zlg5M21wZjloZlRRLXVhYmxrT3hxOURsV3dRalFPQms4eE0?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:25:00.785074Z",
+    "collected_at": "2026-09-02T14:50:22.670073Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.749856Z",
+          "fetched_at": "2026-09-02T18:38:08.295538Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.749865Z",
+          "fetched_at": "2026-09-02T18:38:08.295550Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.749870Z",
+          "fetched_at": "2026-09-02T18:38:08.295556Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.749874Z",
+          "fetched_at": "2026-09-02T18:38:08.295561Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.749880Z",
+          "fetched_at": "2026-09-02T18:38:08.295568Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.749884Z",
+          "fetched_at": "2026-09-02T18:38:08.295573Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.749889Z",
+          "fetched_at": "2026-09-02T18:38:08.295578Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +322,28 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/SanjayDeshmukhSpeak/",
+          "url": "https://facebook.com/https://www.facebook.com/SanjayDeshmukhSpeak/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:46:45.700249Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,19 +352,27 @@
       "neutral": 10,
       "top_headlines": [
         {
+          "headline": "\"50 corporators expressed desire to switch to Shiv Sena\": Rebel Sena UBT MP Sanjay Deshmukh - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV2x3UDNhNjNaVGlmTHEyZDY1LV92czFlWWJTWUZCZjdEel9pdVdVb3pxVGt5VjVvWEVsR1JFZTllRV9PakNWc3EyckttRU8wYUh6U18tVXVfMmgzOWw2LVlfdm5KRDc0RENpbmwyaWYxWXg5NlVKcmswNG91ZjhFV3BsQlY1ZDB4SUM1ZHA2amVHaDY5TGNER3NxQXNObjlhQmk2MFJoaEptdUFLRWhUT0lPYTdDRW9rQzFwemc5SmxaWE9jRHpsSXJhV3hpdHRTcGpNUko4VXBsQ0xHcy1fVjRB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Shiv Sena and TMC split amid defections in Maharashtra and West Bengal - The News Mill",
+          "source": "The News Mill",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmJPRk1TWDJhYUY5LXFjR20zYm4xbGJYdkVRVnpfNjgxdldVdU11MHl0RnZyNkcwTGN1dDZ0NHpwYkYtUmg5cU1mVURFM244TkJWOUd5Rm41el82TDZlM0ViUXNpQzUxZmlxYWxNMDZrd2VrQnVxbXBpX0ZSZ3ViOUJ0TmFaMWVHUHRMVUpXcXQzRVB3M1VYOGZjTm5GVC02TVdhUHF0M1ZCN0RCMUR1LWJhbm8xN3hDb05JbmJPdmFEWUgzUWo4?oc=5",
+          "sentiment": "neutral"
+        },
+        {
           "headline": "Yavatmal-Washim election results 2024 live updates: Shiv Sena (UBT)'s Sanjay Uttamrao Deshmukh wins - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPOVRQbmlpdXdRNmNYSVRhSHNHdHVCcUlDZWFpRVpCTTlhYllJbFJMSC1qemI0OGNrT2ViUV9fQkNKOHZUaE8xOEN1eFhqNldVV3drZnQ2WDVlSGV1OTZUWHlPRzB1TElwcGx4eVpEam5QLUVzR3J2MDJGVjVrdjJfTEl6VkZZMXB3ekUtSlZuOG44cWpKU25Mb0NHcVY1VlA4S1JsZWZsbnBWOU16QWs0S0gwUVlhX0g2Y000ZERMVnBKX0g4OFZQX3VNSWI2WHhxSndXRTRiUXY3bTVPXzdUV2tWQms4ODBNZjFKYzdoUGZKUjV0ZjZFN1hoaWptRU13VW92QldZVmV6YTR1MngyeVZDT1pkb2g3NGNxQnlqX1hONlhNLWdNR0tXcm40VnpuWUpwVkVFLVIzZGQwTC1JRUNPTWVQOUN4UjkyVmFubFk0dXREaW13V29n0gHfAkFVX3lxTFB3dktQSzQzTHdQclREWHM1UkowX3pDWnAwUThpb2QwNUpXZ3hQN1RGTzY5UTNOaDN6a2V4YWQwTFdON2xnY1J5S21NcHJueG9vbEMtcERCSTI1V1F4ZW1sX1otNTRsT3Q0aWphVW82QVQtMkRsTUdrbm80YXhXeUNfeEU5ZDRHZGR4U1c0QlhvQTA0OHVLejMxY25iRFc0WHQ3eTNyN2k4OTNMTk00ek1RWjZmTTRwOXdTTEI5LTh1UVgyVEtIMHNvUVdfUmMzVVVIVTBMYm90M0V2LUkwM2FCTlJGRlVpZnRWZnFDa1F6NlliMXBLWUE1di1jREttNDR1X3lUelhDU1J3XzY2ODVqS0FvbDh6bmljSUJaMDliYVRoLWxrZjVUdDdBZ1YxaFc0Y1lULVhsWWd0dGQ2NEpKT3hsc0lSUTNBSDdaeFh1RnlCbGtwM3NYd2pDS3hLSQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Yavatmal-Washim lok sabha election results 2024: Yavatmal-Washim Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcnh1X2ZNWEFfcm51N2ZRM1pVWVNHQmt4Wmx3d1pRd1FRWjhsY0hMTmlGZmYtQmx0eU50S09RNzl6TGg5T1ZSbm15R0FBUlpFNUpXeWh4dF9ad3pLVzZSXzM0NENTQUh0VjVyaktGcnYyTzhZbm82ZlA2QWZFd1FwLXBnemR3UE15b0Vqc2FfYlhkY0RlRDN1c0o3S3paNHhC?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,19 +384,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Yavatmal-Washim Election Result 2024 LIVE Updates Highlights: Sanjay Uttamrao Deshmukh of SSUBT Wins - News18",
-          "source": "News18",
+          "headline": "Sanjay Uttamrao Deshmukh - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeW9YcHZrWGYxU0xDdEVZWThud29UZndhYmsyN19lUzRwckZNSTItakN1dTEyYzhaaWVCd3lZZXdKZlN5alpMU29NMjI5M3Vjd2M5LXV3RmRXV1ppYjdVUm01T2xMOUwwTjhMcWFUVE5fVU14YnpncW5XaEZGS01nRl9TNVRYSnZyMHgzLXZEaFFTN1hNaGtNNDNLWENZaXl5cXFsZmJ6aGFTWU5ORUxtbHh1d3U2TzdUTV9HTVlDT0NGb1FjaDVEdXpiaVVHak42V2x6MkJibm5sYzNVcGxMZjNLY3kwMFVxa2tRTtIB8gFBVV95cUxNbEFQVE54bjZ4RjY2WFlmTXhDa2QxR25iVFVxMFFXcUF6NjlTTVhLNmt0OXh5QVpMMU80dThINHU2Z2lINTZZSElVNmQteGt5Y25mTnFCeUQ3emNrbU03T3JpRnFlb3NvQ01aRXF2eW1BUmlfT05VRmNmOGJxQnFhTUNzcTJaY3ZZUWw4WXlPeFZYN2o0UFloY2h2UjU0d0hUM2hQZWRYb2QzTkRBTDZLeDF0Q1REQWhLYmRrbVk0T1djY09DRUo0MGNMaEt5ZkJNVktLdnVELThsb3VOUDliU0VhYjcya1NhTFpDUWtNSW1rZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Sena UBT man got huge lead on Gawali home turf - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOUc3R0Vka20taUQ0Z3d0eXRqUlNHa1R2d0REQ0RtT0c4YUY2UjBsX3hiNi1DQnk0UXBhQ2c1UzI1LUFQS09wR25vTDlvYk5lVnh6cWV0NHVpODNXRkRWaGJpcWVwVkN2WnpOUjBwNTJNRVF0M2dubFhXaE5LX3FTeGtqeVZRWTMzSEc1ZGJwVXhncVpmb0V5U2NVcTc5TElYWlAzOXZoM1VVOWhJTG5QY0NHWEZvd2liVjBncmF1WFEyWWNnVUkyeFJmWmlFalhsSXl6Y1NPNjdpWV9hODJzRUFxaDFwTUVqM3dTREZ4cnFyWkhWN3M4ejlfMNIBgAJBVV95cUxQa3E3Xzh6Z0Y1aC1lVGktWnNqSWYxT2lnMUFZanZmSEI2TEg3UnFoRVJDX0hCd3AxYTdQa0FLN3FlU3c0eXZGem9TX2hWTTlFOGJCQzRzeXlXMTZ6blhScFlhRWdSUEFFTUozN1FybzZQUXJkbDd3ODBITEtlUkc0aDNsZ1hOMG9XUURYM3VTMVY2d2xzVnVwVFlOTzNDX0dudUN5YVV6TWNrdmQyQ3dOeHIwWV8zYUpQQ0E4YTNmNXJZX3pMNTdzdVFiZ3NCcUNDRUJNbXB1QjNtWGFHMnZtOEw1cktLMHlEYzJ2RThiTW5sVTV0ZW5ZUFNkakNJOFB5?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDZhZmxjZEVKSmxSWHJqRFVPczNHVUE5T3JEcDN1MHA4dy1DUW9DV2xobHdoZ3pvanhJa2RtQVM5SHlSUklWa1VGd1J6R0c5OHVIcUF0Szd1VmZLWERvS0NrYnA0MEtlVGxJajh6alp5Zlg5M21wZjloZlRRLXVhYmxrT3hxOURsV3dRalFPQms4eE0?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +422,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 16,
+      "starred_questions": 4,
+      "unstarred_questions": 12,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 30.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +438,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +469,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +496,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 284,422,940. MPLADS utilization: 7.7%. Parliament attendance: 85.0%. Questions asked: 16. Debates participated: 8. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.750609Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 16. Debates participated: 8. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.296291Z"
 }

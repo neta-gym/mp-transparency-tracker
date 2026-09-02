@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 73603801.0,
-    "liabilities": 600000.0,
-    "net_worth": 73003801.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 49.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.91,
-    "expended": 3.86,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:59.785091Z",
-        "notes": "Official eSAKSHI REST API — Works: 190 recommended, 175 sanctioned, 36 completed"
+        "fetched_at": "2026-09-02T17:14:32.186025Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:10:51.580513Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:10:51.577467Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 190,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 26.258503401360546
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:02:35.855045Z",
+        "fetched_at": "2026-09-02T17:10:51.576421Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Jalaun Election Results 2024: SP's Narayan Das Ahirwar won with over 5 lakh votes - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQM2c2TURwU1NLSWxjXzRHTjdtdjlxaVdvTDhqa2E5b0ZrbWRvbWZwRW10WE5Oc19qazlXb1NRTmIyVjFQTHBBV3g4MHJMWEdiZmJLT0JuOHNaQ1VQeS1qZmU0eG9IR2RaSzdGUHdXX3h4eTJqTDNEY1pNVzlWeHdlM0szSkVCdTFHN0dGcmVCcmtCMnNEeG5FX2dNaDZOSjdYUGlXTEhmRGs2NzdhOXFUSDVVd3FyblVZd2dseE56Uk5Iemw5ZHpsWWJhZ2l2MU9yOTc4b0c2R0lNSEhvaHpzUDhmUzhuUjJKeGRvUmRDZk1sQWp6dUl1MS1VRjg0NU05TlVpV0NNRXF3bVZqZmlWUW9qbUU1dEZSRHRQVkdWVmdlREJGeUZOcGstYlQ0WVR5bGJ0SnJPUG1RaTQ5N25USXg3Q2pEYUpFdEE3U1BLbWpqQjl3RzlibTFsNlFpbUlBY0pwNXdwa9IB7AJBVV95cUxPYXB4aVVfSlJRZUZ3bWNRaTVfaVlJems0a2ZxSDQ1dUxpc1dCaTR6b19mWjVjRVZzVVBHRThLbFV6SWNHY1B5ZFNmWkU0bms2aUZwM1o5RlRCTlZua0htNHhCZW9RdFVTckxIUXJfMlJ3TVR6b3BJUk1rSDZKMGZBclVkVGhrX2JJa1ZMRGt5MDY0YnVwa2dsRllqWEVmaldpdkUxZXJQTFo4aTFhZVhTLXBDUlZwcGQ0dTZjaldlbXpncWpGZnRBazMtUF9uZ0NlQUstUGpPcWpZcmgxN2E1VWYxaEtlSmFLUXA0eDB2SVRlYjJGNU56QmZJa2dVbldnczBDYm44OVBnYVF4V0dRcjJEZE1nQkVLYWNXekdJNEhMUzNldE9FMWtwamdBYVBwSnBJZ1kycUdJVGN3Z0pEdm16WHBWYzdhQng2dlc4WDE0Q2RVYVBiR3I5dW9lLWwweFFtODZWYUdQV0pV?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jalaun Election Result 2024 LIVE Updates Highlights: Narayan Das Ahirwar of SP Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2UxU3pyTE15OUd1MDIxempZdTNpN3lsUTVZZGR4TGxTX2l4WWtkYnFoc3dkWHZJZkNHc1JWeTBmUVFoLTRKd3VocW9jb0VjRkhQX0puQnBGZWF0NnNHbHRtVnF6UW85OXF1YTFiZkhidU9OdUlza3NHMmxnTXA5ckx5Y0lJZUhGQWRURFc1THBMMnZYNS1TSEhPVVpfWkRZMmktMVlDamVSYWdlYzNYWV95cDBvVmxXV245R0FyNEg1MmwtRzRLeWF3MExQVTFkVGtyM2JlYTYzeFZZSmFWLdIB5gFBVV95cUxPc1FmMll4MUxEZjg5bkJ5QmFKRkx0TTJGNnhzRi04S25IYkJXSG41eEo5ZVdWUmVpaHhPZ2F6ZG5HcmZtRnpDOWZ3UUFIN01zelRfT2R4bm5yRy1MS2FMbHJOcVVqN3JEWE1XN25EOTFxbWczXzNSczdwcmpLWWpVUnRuWnVuSTRlaVNvMXNLeTFKRWROdmM3d3JBWE5jYUFUVlN1NHpwU3pWcE8tR3lWXzRNRXpYVTkzYWhrY0M3S3BFdUdySGg0aU5haFpuN09TWXphRkpyZkEwRVlRbUdQcFp1ZTluZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament - A - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1NtVC1YSU1xR1pTbldZRzRVWUFuNjRaSFpqeGpEejFxTTZRWEN2OEowX2w4cUlYa1c3djdqSmxQVEtrZEF2QUlYdlppX0dlS1l2Z1VlRTUwa1ZwX0hNQ2tRNF96WGY5eWdwM1hxTXc1VnJwbkw5Yko3eWJHNkZ0LVdlTjREWFk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jalaun lok sabha election results 2024: Jalaun Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnY2SnlFbVRfSUozd1NRMU53azlrMFNWSnFDWFEtWndQQmFJS0doVVZEVndKZ2pSbEg4d0ZmdVB2dnFZWVp0NUVNeVhlQ0tzdUFpOUhtc2ZnODhxbjlJNDdRNHdyclVMdmphQVJVZ21WYnd0cjRVUm4tSUZPaU9yQVJDX1c0SGFwY1dNbjh2OXBUQm42aHRr?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bundelkhand’s ground water levels are ‘safe,’ says water body - Mongabay India",
+      "source": "Mongabay India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTQ3d3dHWVphX2I2bEdxTjVnbkg4Y1MwbGM4RUlNTk56aDlNNUMycnBuTUdQd3hLODRlSmpua09XMnA3TVFxaUF0NFhCRC1JNzY3SVBmQ1FkSGJpQnlNS0p5bUMyZHdDUFprbEZGMjV6ajdIQngwVkx2ejllci1zdTF0VWJ3RXA0VTE0aDBpQW9nNnd1US13ZGJ1TWZsSEZ4UVA3VlNRN2VjQ2M?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:02:54.254118Z",
+  "collected_at": "2026-09-02T17:14:32.187059Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.826564Z",
+        "fetched_at": "2026-09-02T18:38:11.393465Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.826573Z",
+        "fetched_at": "2026-09-02T18:38:11.393475Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.826578Z",
+        "fetched_at": "2026-09-02T18:38:11.393480Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.826583Z",
+        "fetched_at": "2026-09-02T18:38:11.393486Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.826588Z",
+        "fetched_at": "2026-09-02T18:38:11.393491Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.826593Z",
+        "fetched_at": "2026-09-02T18:38:11.393496Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.826596Z",
+        "fetched_at": "2026-09-02T18:38:11.393501Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.826600Z",
+        "fetched_at": "2026-09-02T18:38:11.393505Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -263,33 +319,33 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 6,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 6,
     "top_headlines": [
       {
-        "headline": "Narayan Das Ahirwar - The Times of India",
+        "headline": "Jalaun Election Results 2024: SP's Narayan Das Ahirwar won with over 5 lakh votes - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWhLeHp6ZWFUdHNjMXNBMHN5anY0TEVpQjA3SHNtZHI5Zk53U3RCbVhlcnFFYklMNHNMcDlBZjVfMU1LVE42Sm5YVXJKUG8xdjBNODl5M3FlZjhrRkU2VjU0YWhRdzVvVm4tQ2tjbjkzNXBjeFFnS0RHUmt0REhEOUo0ZXh6R2RIYVRqc01iVEViOUt0S0xCWVVRUzJtUmdqS3FsOU1sVk1KaFdrNjIxVThoTTlMNFNmUmgxTjVCNUZxVm8?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQM2c2TURwU1NLSWxjXzRHTjdtdjlxaVdvTDhqa2E5b0ZrbWRvbWZwRW10WE5Oc19qazlXb1NRTmIyVjFQTHBBV3g4MHJMWEdiZmJLT0JuOHNaQ1VQeS1qZmU0eG9IR2RaSzdGUHdXX3h4eTJqTDNEY1pNVzlWeHdlM0szSkVCdTFHN0dGcmVCcmtCMnNEeG5FX2dNaDZOSjdYUGlXTEhmRGs2NzdhOXFUSDVVd3FyblVZd2dseE56Uk5Iemw5ZHpsWWJhZ2l2MU9yOTc4b0c2R0lNSEhvaHpzUDhmUzhuUjJKeGRvUmRDZk1sQWp6dUl1MS1VRjg0NU05TlVpV0NNRXF3bVZqZmlWUW9qbUU1dEZSRHRQVkdWVmdlREJGeUZOcGstYlQ0WVR5bGJ0SnJPUG1RaTQ5N25USXg3Q2pEYUpFdEE3U1BLbWpqQjl3RzlibTFsNlFpbUlBY0pwNXdwa9IB7AJBVV95cUxPYXB4aVVfSlJRZUZ3bWNRaTVfaVlJems0a2ZxSDQ1dUxpc1dCaTR6b19mWjVjRVZzVVBHRThLbFV6SWNHY1B5ZFNmWkU0bms2aUZwM1o5RlRCTlZua0htNHhCZW9RdFVTckxIUXJfMlJ3TVR6b3BJUk1rSDZKMGZBclVkVGhrX2JJa1ZMRGt5MDY0YnVwa2dsRllqWEVmaldpdkUxZXJQTFo4aTFhZVhTLXBDUlZwcGQ0dTZjaldlbXpncWpGZnRBazMtUF9uZ0NlQUstUGpPcWpZcmgxN2E1VWYxaEtlSmFLUXA0eDB2SVRlYjJGNU56QmZJa2dVbldnczBDYm44OVBnYVF4V0dRcjJEZE1nQkVLYWNXekdJNEhMUzNldE9FMWtwamdBYVBwSnBJZ1kycUdJVGN3Z0pEdm16WHBWYzdhQng2dlc4WDE0Q2RVYVBiR3I5dW9lLWwweFFtODZWYUdQV0pV?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Political Profile of Narayan Das Ahirwar, Sp Party, Jalaun, and Net Worth - India TV News",
-        "source": "India TV News",
+        "headline": "Jalaun Election Result 2024 LIVE Updates Highlights: Narayan Das Ahirwar of SP Wins - News18",
+        "source": "News18",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeHVyNGRkdEVBakFBRnFYblVaZ282c0lRZDJ2bmMzRndOY2xXYXBjUlFuT1dWWGtUNUI0Q2VwMnpvdW56OEFJRERTRnFpU0FMeVZhLUZrUXBxcjNmbk1uMEdTaF85N3JITDlILUJDY2EwV1p0U2dBeDJEODFNdi0zUEFuT1VKbkdGRW1sY2kyX193SGVBM29ZcGM1TnV5b3BjY3Zlbjc5YnM0OTJCNTRiLVF0N0Vob3lfMFRnVk1iNXZUTzE3cENKNU5HVUpPT2U0T21UMWpCU0dCcGx1TVdtRE1feHVzdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2UxU3pyTE15OUd1MDIxempZdTNpN3lsUTVZZGR4TGxTX2l4WWtkYnFoc3dkWHZJZkNHc1JWeTBmUVFoLTRKd3VocW9jb0VjRkhQX0puQnBGZWF0NnNHbHRtVnF6UW85OXF1YTFiZkhidU9OdUlza3NHMmxnTXA5ckx5Y0lJZUhGQWRURFc1THBMMnZYNS1TSEhPVVpfWkRZMmktMVlDamVSYWdlYzNYWV95cDBvVmxXV245R0FyNEg1MmwtRzRLeWF3MExQVTFkVGtyM2JlYTYzeFZZSmFWLdIB5gFBVV95cUxPc1FmMll4MUxEZjg5bkJ5QmFKRkx0TTJGNnhzRi04S25IYkJXSG41eEo5ZVdWUmVpaHhPZ2F6ZG5HcmZtRnpDOWZ3UUFIN01zelRfT2R4bm5yRy1MS2FMbHJOcVVqN3JEWE1XN25EOTFxbWczXzNSczdwcmpLWWpVUnRuWnVuSTRlaVNvMXNLeTFKRWROdmM3d3JBWE5jYUFUVlN1NHpwU3pWcE8tR3lWXzRNRXpYVTkzYWhrY0M3S3BFdUdySGg0aU5haFpuN09TWXphRkpyZkEwRVlRbUdQcFp1ZTluZw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Narayan Das Ahirwar , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-        "source": "The Hindu",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - A - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenhjQmgzSkR5ekNqclBra2VMM3dEOEllNGo0cjNmTW5qT3c4ZXFFX0dhQWYtQXZvcDN1b3gwaXg5Q3NwUHNlcFhiVFFsOUFvNUxiR2xPejM3YTZuRTR1MlVMRUFkWjhUTjNIaTJhTjVtU1k3R0wzczBrQXJXUGVkZkFIX25zSi15UUJGTg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1NtVC1YSU1xR1pTbldZRzRVWUFuNjRaSFpqeGpEejFxTTZRWEN2OEowX2w4cUlYa1c3djdqSmxQVEtrZEF2QUlYdlppX0dlS1l2Z1VlRTUwa1ZwX0hNQ2tRNF96WGY5eWdwM1hxTXc1VnJwbkw5Yko3eWJHNkZ0LVdlTjREWFk?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -301,15 +357,15 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Jalaun Election Result 2024 LIVE Updates Highlights: Narayan Das Ahirwar of SP Wins - News18",
-        "source": "News18",
+        "headline": "Bundelkhand’s ground water levels are ‘safe,’ says water body - Mongabay India",
+        "source": "Mongabay India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2UxU3pyTE15OUd1MDIxempZdTNpN3lsUTVZZGR4TGxTX2l4WWtkYnFoc3dkWHZJZkNHc1JWeTBmUVFoLTRKd3VocW9jb0VjRkhQX0puQnBGZWF0NnNHbHRtVnF6UW85OXF1YTFiZkhidU9OdUlza3NHMmxnTXA5ckx5Y0lJZUhGQWRURFc1THBMMnZYNS1TSEhPVVpfWkRZMmktMVlDamVSYWdlYzNYWV95cDBvVmxXV245R0FyNEg1MmwtRzRLeWF3MExQVTFkVGtyM2JlYTYzeFZZSmFWLdIB5gFBVV95cUxPc1FmMll4MUxEZjg5bkJ5QmFKRkx0TTJGNnhzRi04S25IYkJXSG41eEo5ZVdWUmVpaHhPZ2F6ZG5HcmZtRnpDOWZ3UUFIN01zelRfT2R4bm5yRy1MS2FMbHJOcVVqN3JEWE1XN25EOTFxbWczXzNSczdwcmpLWWpVUnRuWnVuSTRlaVNvMXNLeTFKRWROdmM3d3JBWE5jYUFUVlN1NHpwU3pWcE8tR3lWXzRNRXpYVTkzYWhrY0M3S3BFdUdySGg0aU5haFpuN09TWXphRkpyZkEwRVlRbUdQcFp1ZTluZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTQ3d3dHWVphX2I2bEdxTjVnbkg4Y1MwbGM4RUlNTk56aDlNNUMycnBuTUdQd3hLODRlSmpua09XMnA3TVFxaUF0NFhCRC1JNzY3SVBmQ1FkSGJpQnlNS0p5bUMyZHdDUFprbEZGMjV6ajdIQngwVkx2ejllci1zdTF0VWJ3RXA0VTE0aDBpQW9nNnd1US13ZGJ1TWZsSEZ4UVA3VlNRN2VjQ2M?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (6 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -355,17 +411,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

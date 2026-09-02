@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/4981.jpg"
   },
   "criminal_record": {
-    "total_cases": 1,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 1,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 15352373.0,
-    "liabilities": 1454722.0,
-    "net_worth": 13897651.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 13.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.59,
-    "expended": 3.78,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:40.627841Z",
-        "notes": "Official eSAKSHI REST API — Works: 144 recommended, 114 sanctioned, 53 completed"
+        "fetched_at": "2026-09-02T14:43:04.875210Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:39:18.182351Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:39:18.180466Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 144,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 25.71428571428571
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:36.613405Z",
+        "fetched_at": "2026-09-02T14:39:18.179655Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "'Don't Just Open The Rulebook': Congress MP Jothimani On Jobs For Karur Victims' Kin - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmFuRHdnLVZNRVgySWdLWENPZVRaUlV1NFJSQTd0VnVBUlJuYWctYTN3VVhIbEJfdjIzaWRLaGtSODVkeE5KYU1DOXVQVjNtRTdKbmJWaFlQNWtFRTlUZlBQNHk2WjQ5NDNZZkszc2xucUJYYVNudW9QekhIRDR3MHlDYi12NWxPak5XNmh3SENYeXFkb2s2WUQ3R003U0l4UmF5LU8tOV81dnV1T2JUV0ZPOWcxZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress MP Jothimani alleges ‘irregularities’ in party’s candidate selection for Tamil Nadu polls - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcXdsR0RXQjNLcUhTQVNvU1QtTnctSDlsRjl0RUhGZmpVdEhzOHpGdzlxeHVhSnZ3QlA4dHlOclZTWFBzRG1LR0tKWU1HUWZKNnU4NU83YlgwRno0MHpmcV9LYm5WQi1qOXBUc1EzR1hTY0dZWi03WVFNMHBIdFNWZHAtcnpUaWY5U1V6OW1LSXd6dXk2UFJqWFViNmxHQVctNm1kOWZFTDYtd1VjX1VDaVBDLTFpNFBSUGZBelR6eHNBcHFURTYtakZ30gHPAUFVX3lxTE0zdGg3enJyWDVVS3lSaXVINnAyWnJsVk8yX3NqR3JlOFEzY0R1ejFHcjJBVWp6T29jNzBnaHJjRGprSnBxeUVRTHVEbWM3MzdtY083ZzFvSUdxOTV0NXZFUG04UnNhZm1qaEVMbkxrMmNVMUxydUE5Q2dxZTZqQXVOZmpMZmItclZfckhxelVULTdmclZ1bVdud0YzQ3pESWFCNVR5dndLNWdDY2I1bExCOGxKMm1zNlc5X3MxaHRCNnZURE1xdFJ1Qkk5bGZacw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Karur visit: CM Vijay broke down in tears, says MP Jothimani - The Federal",
+      "source": "The Federal",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGRRbXBrRWhPbUJRcTNJazZFNFFFV2hHSFdEQ09hM2NQTVluZThPTllIcVFDUzh4RjJMQU5CNERvN2xQZ2lWdllkS2J1cThmMG1DdjIzR2JMaDE1d0JlNVJ4SEM5QnEyZ0Y3d3hjdXE4b1U3SUgydFM0V2MxRFBFQnJxSEs4TFhLTmdaUDRiRm1zZDdjd2JTd01UTkJ6akQtYzd5aUx3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Don't take advantage of our silence, Congress MP Jothimani warns DMK - DT Next",
+      "source": "DT Next",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUEyVEN4VTRyQ1JiQk9TdGpiajZhczNaVlNXUkxiUDdhMlY3WkVoN2V0RzRqYy1xZFEtRmlPMkVWRURDMUExWjBSNzJLWk1Rc2xvdzBGemZEUnliVzZkSzhLNFpJMUNKa09weV8xX3VkbHQyVE92Uk5EZDl6UjlGVzhaVXoySkVDbXRhMjBqREF4R3BxdEM1SE9oLWxWZk5YcE05OThR0gGzAUFVX3lxTE1DeDBsSzNLZDA4OEtwWnRHLVJvMzkyVmFlZ1JiVW9fYV9TQVVMaVAxcHc4SUxRa05RR1pEbmVWYTJCUFFjQmhTeWt3T2FYQ0h3a1d0b2g5dTdlakhhQjZzWVhPMTJJZW9IZDA0OTE5bW9YUXJla19remc4WEdZS3hvLTBHU282M1ZxRExzOFBfemhIemFlbmNmYV8ybXRIaEZCakJBZFlTRzdJYmRnOXB5LTE0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Former Karur Congress chief takes exception to Jothimani’s remarks on seat sharing - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnZXZlJSLXJSbElMc2kyUmd4c2JxOEJrVEh0Z1pKekY3bHJEYkVKemhRR21EdHRSRF96X1k0Vkw2TVdjSUhjelBIeFlNX1NlZHRXTGtPTHVZVi03dHcxSFNRRExyenBuVFFMWXh4T0dlYWRGUG9CemZPZHljVzNCVFBuS1ZIRXJyV3NpbmlqN3ZNMk9CMVBOS3g4dkpTR2k1bC1CM3dyYTM1QW52T3U1RloyOHRGdXJOMG12MGZLVTBqNmpnX3VDMWF6cUIzdURzTEpxYXA0dXJOVGZUNFRzY181b1JOdmlL0gHvAUFVX3lxTE1zeXBNblNHbmlpUXRZaFFNQkMzY0pEY1NDTkI5dkF1bzFHSWdIZnpSaG9Fd2lhdldESjd5aGFXemUwMmFod0t0Z3RUcWVYYnpzc0U2NUFXUXkxdHFrczRNY3p1ekk0VDlMeXR6LWpZTTFXQ0xiZUM5TThXX0Z5NmZhZTBXM0N4V3AtY2hXRWFiWnRFelpIaEN2aDdPUmNhTERCZTJRVGZtN0JXUWd2UDkyTHlrdHVuTlBLa19IbEdTbEtja25QaXdMS2ZkMXpncTdqeTFyMGd1NHNqY2ZoeW9yUS1ZTkF6R0dVZm5xUUsw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:40.932619Z",
+  "collected_at": "2026-09-02T14:43:04.876411Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.649167Z",
+        "fetched_at": "2026-09-02T18:38:10.157461Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.649175Z",
+        "fetched_at": "2026-09-02T18:38:10.157473Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.649179Z",
+        "fetched_at": "2026-09-02T18:38:10.157478Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.649184Z",
+        "fetched_at": "2026-09-02T18:38:10.157483Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.649188Z",
+        "fetched_at": "2026-09-02T18:38:10.157490Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.649193Z",
+        "fetched_at": "2026-09-02T18:38:10.157495Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.649197Z",
+        "fetched_at": "2026-09-02T18:38:10.157499Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,11 +296,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/jothims",
+        "url": "https://x.com/http://www.twitter.com/jothims",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/jothiiyc",
+        "url": "https://facebook.com/http://www.facebook.com/jothiiyc",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:39:25.896414Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -253,43 +334,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "BJP Leader Faces Police Case Over Alleged Obscene Remarks Against Congress MP S Jothimani - NDTV",
+        "headline": "'Don't Just Open The Rulebook': Congress MP Jothimani On Jobs For Karur Victims' Kin - NDTV",
         "source": "NDTV",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZE5IQ2dBNE13LXA5dVpnOFdrLU9hdlNjTUdQb3ZBeldMSE9NbVFjcGlxNEQ1cDZKWUpGeVo3RjUzVTMwSHJHcVBwUldwbjdBYUxIODNnelFwZTJpRFZ6WkNFd3g0a2o5MktOdUg0aS1ndS1qdVdaSU5OeEg1R000Y3l1YlJZdmJBbTM0WlNzdUJ5YnJxazVPbTB3eFAyWXVXa2VnMk1nT2FGb2kwN1JRUXlZOFk0eGZSUkFWbUwtdHp2MndPbUVKWWtn0gHSAUFVX3lxTE9nRmpHbzJzdkplRGFYa0phaEtJQnpnelFYaUlYcGh3b3pQcUdnem43MFBBcHBqT0JUYVZ5RVh1Tk10Q2t5REFxNk8yWU9HVnF0TXhMRThvajVhbGx2WFdGU25ZZHNCY093OGpSMnVVN0ZQVUhsY1N6NXp6ZWJmc1FZWmNvb3FoUWVYZDJQbzJ1WTBqMEJremRKOUZscC1jYmtidHhMYkJhWmp2Q3l2TkZxOG9vS1RzMTJZdlluZzJ1VXVuaE1DWjRhTHJnOG5uU2Zudw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmFuRHdnLVZNRVgySWdLWENPZVRaUlV1NFJSQTd0VnVBUlJuYWctYTN3VVhIbEJfdjIzaWRLaGtSODVkeE5KYU1DOXVQVjNtRTdKbmJWaFlQNWtFRTlUZlBQNHk2WjQ5NDNZZkszc2xucUJYYVNudW9QekhIRDR3MHlDYi12NWxPak5XNmh3SENYeXFkb2s2WUQ3R003U0l4UmF5LU8tOV81dnV1T2JUV0ZPOWcxZw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Karur police book BJP district president for making derogatory remarks against Congress MP Jothimani - The Hindu",
-        "source": "The Hindu",
+        "headline": "Congress MP Jothimani alleges ‘irregularities’ in party’s candidate selection for Tamil Nadu polls - ThePrint",
+        "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVkh2M19OMVV0NzJyNU45ZjFTVkxVcFRjUVBWdzZwcjhlalJlWHIwN1JGWDlpTG1qSF9mRVVZb2dUTjNPYzFWMjB4RHpIckJHOFdHRnhuYzNyaFpTUF9TOWVrcjV3SjBESTBqaGllWEw1anhremFRLWtOeC00ZkE3dlhVVGFxeW9BelRMM1FkbG1iSVZONC1rdEdKend0RW9oVHFnNGhkQWxTcjFHQVBfcGlmNFhjVHNEWnI2Wm9DQUhGOHgtZUhLSHFNQ1dua1VuSTJyaUNjQVlDWk02U3BoVzNTM3BzYVR6Umc1WklERlhiWXJJUDEtdHJJSHdLOGvSAYYCQVVfeXFMT1RUUkVhWUdKUlF0MC1Jc0xnYjZKQ01LS3dJQ0JOb0dpR2laNlUtZXduTnBIYXE1RkFqcUhLS2tvTmsycW9vd2pYMWJrdWZ4Sld4RUZTM2hsUG5wdkQtOEtxMFAyNzFnVU1IWFl5d1JLUloyWWFnekRGemRMWVh2VmtYYTR0Y3ZGOU5ubTUyT3RiX1h0NDEyNU5RRHNVYnJfcTktYnlodG5OenpxWENtNkxoLWVXajJKOXJ3ckpvMjhZUTZ4NnV3WEtwbllIaFFNNGlRMGZtMTJQUlYzRmk2LWpxQk9QX2NEazBSMXlLUnN2dGlHYlFPQTM4cmxwbmlleDNPS21IZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcXdsR0RXQjNLcUhTQVNvU1QtTnctSDlsRjl0RUhGZmpVdEhzOHpGdzlxeHVhSnZ3QlA4dHlOclZTWFBzRG1LR0tKWU1HUWZKNnU4NU83YlgwRno0MHpmcV9LYm5WQi1qOXBUc1EzR1hTY0dZWi03WVFNMHBIdFNWZHAtcnpUaWY5U1V6OW1LSXd6dXk2UFJqWFViNmxHQVctNm1kOWZFTDYtd1VjX1VDaVBDLTFpNFBSUGZBelR6eHNBcHFURTYtakZ30gHPAUFVX3lxTE0zdGg3enJyWDVVS3lSaXVINnAyWnJsVk8yX3NqR3JlOFEzY0R1ejFHcjJBVWp6T29jNzBnaHJjRGprSnBxeUVRTHVEbWM3MzdtY083ZzFvSUdxOTV0NXZFUG04UnNhZm1qaEVMbkxrMmNVMUxydUE5Q2dxZTZqQXVOZmpMZmItclZfckhxelVULTdmclZ1bVdud0YzQ3pESWFCNVR5dndLNWdDY2I1bExCOGxKMm1zNlc5X3MxaHRCNnZURE1xdFJ1Qkk5bGZacw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "2026 TN elections | Pre-selected list betrays Rahul’s vision: Karur MP Jothimani - DT Next",
-        "source": "DT Next",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3dZSm5PLXd5ZFRURnFhbGJCTmZBLVhqWWVrR0hJRks1ODk2OURZVk5ocklkejRpV2NKM1JDSDc1RWlrMGxjQm5XSDBrbEVMU1l2N3VnSkVpZVFzS2RpU3A1SFpOeHlPUkZuRFFmUzBBdFB6MldzclVTZ3ZnaVhxZlFBQzBxQ1RyZzlGTkpTNGo0eG1YNXRrY1A3RU8zaXotYl8yeXVIeXVONGluTTl6bGVR0gG_AUFVX3lxTE55Y0pCSW00UmJIMm5ZdmZjQTlrd0tiWExxR3RxQ3kwTjFVTzJQcDFBSnEtc2Z5TmtYODlFNVZEalpuLXl1SHdNV3Y1UHBldHNHajJOTWI0Mi1SbHhtMktUbHJjVHlpRktoUWNabU41NkNiUEJJWnA5NDR4ZUtvWERHZXlIWUVQNk9FM2FBbndMN0d0Umd5UkdBZVRYSkFOQ1JuT0lVUjlMcnNUZG41M0Y2cTJIOXBEUzVGc092dFdj?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Congress MP Jothimani calls out BJP leader for ‘repulsive’ comments - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVk5vMU9PZngyWlRvVXVHejlDT3ZIRXBoWHNGVTJNcU9qcElKdkRKUmp3QzdfcURDX3RtR1pRTjZLdGcwT2xfM1F5X04tWjJ1eUUyem9QTnZvdmpZZHp5aEhLYVZPQnYweGRncGdyWkVMMWQxSG9yQTJReC1KeTVXcFpnZmNhRXV2ZmRJb0k1dnFwbnhldzYzeE9KVEZRUVpESFJNMnVOeVdVQlQ5dlBGcmR5RlR5eWRVNmIxZlZjNnRfQ3dTN1ZV0gHUAUFVX3lxTE92aWQzYUU5YVV6ZHRLVm1JQU1XZlNSaGUzLU9lT19Ud2wwU2syN1JqZ2dYcnNKWmtUNUxxZjRabjlxM2JORFhVWjlLdzVVTFNFeFE3QWlCenRNNU84NWZOM2xGOGRXb19iSkliRVVkMUxmWko5RU5COTYwWXpTZlQtZjFtQjBod2FCN0JpcF9fRFdDTjExdHNvVjhTUFFBZVZvWS10UUZ6U1FWNkxIS2lIZ0R4S0JUNnRDU0lDYmNGOGFVYmI2ekh5bDBBaE5Hc251THJw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Party heading for destruction: MP Jothimani takes on TN Congress leadership - The Federal",
+        "headline": "Karur visit: CM Vijay broke down in tears, says MP Jothimani - The Federal",
         "source": "The Federal",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQi1FNkZQbDQ3djRJemdqX2dCWG1OQWFJVm56SlBrazVEUjE1WGZCbW5yQ1ZhMlFRMnJiQmVNRTQyelRTQ09DMnlJY1NqNFRJNzNDWHdwN1NBUXNvczFBaWhOUDBaREM1UkNFMjNLYmdJNGtxbGxEXzVzclJyRGRKYXNlcXNZVE5rekJqeWtlZlozMWZGbEdkbnVUbkg2YXZBZ0l6YV8yUE1uZmprVU16djdlNkQzdFVWTXZDbU1kOU0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGRRbXBrRWhPbUJRcTNJazZFNFFFV2hHSFdEQ09hM2NQTVluZThPTllIcVFDUzh4RjJMQU5CNERvN2xQZ2lWdllkS2J1cThmMG1DdjIzR2JMaDE1d0JlNVJ4SEM5QnEyZ0Y3d3hjdXE4b1U3SUgydFM0V2MxRFBFQnJxSEs4TFhLTmdaUDRiRm1zZDdjd2JTd01UTkJ6akQtYzd5aUx3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Don't take advantage of our silence, Congress MP Jothimani warns DMK - DT Next",
+        "source": "DT Next",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUEyVEN4VTRyQ1JiQk9TdGpiajZhczNaVlNXUkxiUDdhMlY3WkVoN2V0RzRqYy1xZFEtRmlPMkVWRURDMUExWjBSNzJLWk1Rc2xvdzBGemZEUnliVzZkSzhLNFpJMUNKa09weV8xX3VkbHQyVE92Uk5EZDl6UjlGVzhaVXoySkVDbXRhMjBqREF4R3BxdEM1SE9oLWxWZk5YcE05OThR0gGzAUFVX3lxTE1DeDBsSzNLZDA4OEtwWnRHLVJvMzkyVmFlZ1JiVW9fYV9TQVVMaVAxcHc4SUxRa05RR1pEbmVWYTJCUFFjQmhTeWt3T2FYQ0h3a1d0b2g5dTdlakhhQjZzWVhPMTJJZW9IZDA0OTE5bW9YUXJla19remc4WEdZS3hvLTBHU282M1ZxRExzOFBfemhIemFlbmNmYV8ybXRIaEZCakJBZFlTRzdJYmRnOXB5LTE0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Former Karur Congress chief takes exception to Jothimani’s remarks on seat sharing - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnZXZlJSLXJSbElMc2kyUmd4c2JxOEJrVEh0Z1pKekY3bHJEYkVKemhRR21EdHRSRF96X1k0Vkw2TVdjSUhjelBIeFlNX1NlZHRXTGtPTHVZVi03dHcxSFNRRExyenBuVFFMWXh4T0dlYWRGUG9CemZPZHljVzNCVFBuS1ZIRXJyV3NpbmlqN3ZNMk9CMVBOS3g4dkpTR2k1bC1CM3dyYTM1QW52T3U1RloyOHRGdXJOMG12MGZLVTBqNmpnX3VDMWF6cUIzdURzTEpxYXA0dXJOVGZUNFRzY181b1JOdmlL0gHvAUFVX3lxTE1zeXBNblNHbmlpUXRZaFFNQkMzY0pEY1NDTkI5dkF1bzFHSWdIZnpSaG9Fd2lhdldESjd5aGFXemUwMmFod0t0Z3RUcWVYYnpzc0U2NUFXUXkxdHFrczRNY3p1ekk0VDlMeXR6LWpZTTFXQ0xiZUM5TThXX0Z5NmZhZTBXM0N4V3AtY2hXRWFiWnRFelpIaEN2aDdPUmNhTERCZTJRVGZtN0JXUWd2UDkyTHlrdHVuTlBLa19IbEdTbEtja25QaXdMS2ZkMXpncTdqeTFyMGd1NHNqY2ZoeW9yUS1ZTkF6R0dVZm5xUUsw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -323,15 +404,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 41,
+    "starred_questions": 12,
+    "unstarred_questions": 29,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 79.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +420,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

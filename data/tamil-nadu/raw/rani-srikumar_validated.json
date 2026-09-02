@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 21375000.0,
-      "liabilities": 988040.0,
-      "net_worth": 20386960.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 18.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.31,
-      "released": 15.31,
-      "sanctioned": 9.11,
-      "expended": 9.09,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:46:38.057782Z",
-          "notes": "Official eSAKSHI REST API — Works: 127 recommended, 109 sanctioned, 91 completed"
+          "fetched_at": "2026-09-02T15:02:12.893049Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:58:12.180672Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:58:12.178563Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 127,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 59.37295885042455
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:32:50.217050Z",
+          "fetched_at": "2026-09-02T14:58:12.177730Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "DMK fields anaesthetist for Tenkasi constituency - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUktsRmZpYkc0eTdiZkliUldlVkd5a1k3dGZ3cEJnaV9fclBINUlYMmlVc29MQjZJdWtpMDRrdDBPWVdPZkVOdmUtNUxib3U2bm9TQVE5Y0tGMl9meGJXSFh1UGpHcUMtTlZ3R1NOejM3cUUtUjZfcmJCV25nUUFCUy0yaU9xYlNWWFFVUnNIYnpCeTZEWTZFUjVteU5BbXZuamJMRnpfR2RjZkxweTE2QTdIONIBugFBVV95cUxQUzRYQkd4VUhOeW41RkxQQ01CbkplblYyNjNNVW9YMWphdDBSOS1ZbC1wWGtjOG5zUVV4R1p2OV9maHVIa09yNWVWM0gxUXJoTldHbDJ4bGJQR0ZzQ29lQnZKa2JmWGlWY0xmQzhxbHNVTEhPUzNlZGN1d3M5blpIMlZOeDlmM1hsaENQc1hHTEdiTFNtcDhWNTNKQVBiSzBhbm1SOENONms2VkNOaDlhbXdUU05MUG9WblE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Pothigai Book Fair’ commenced at Tenkasi - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGE4SHFENXdfOHgyeGxZNTlnRkw0QmVtNmY0bUFPeGl3ZUZTRVBLTi1mbVgtRFpqamZxM2REZWZsWUE2ckJmOE5wZU5UWUZGMnEyMUlQX3ViUjhaZkNhNklMOUNYcFBEM0hoM1R2c2c3RmJIdjFNLW5IQnFlRVVLN2huU1VJWEZfVXJTYWJFMlZTUGllTDIxeFBWTWIzZTFSZlFHRXFhd9IBrgFBVV95cUxPMlY2VjRZWV9qZFZWWm5IMUdKcFA2YlJ3R2NQSVhJcjlQNjdyT0c0YXNlbXFpdWpSMEVBcnhjMEpTZ2lEWlFwVFRJbjhsM3JmZ0hISXQwRzRSTlVFSHk3V1hXdzBqWkVjUm9XRWF6d3NEeXRnTHhKRWI0UjJKYzg4Qk9uOHp5UDJTUHhnNUx4bFF2a0d2WGtGSXgzM3RYY0I0ODVPY1pCSGNyZGV3LVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tenkasi DMK secretary draws condemnation for issuing ‘death threat’ to PM Modi - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSFA2VE5HWU11dDNqalJlX1Nqb2RfXzFUc0dMYVZhcUFtc045NXdHNkYxd1NWUG9iNTFHRncxaDN6WnJ1S1YxakdBT1VEV3h3WEM3aTFqaHlRNkVWTzIxV3FJTVZBMUVNa2pmQnVVZDVSVmI1U3dlRGZnczQzeWRJeHdTcFJqajIwdUJCZmdYa244WjlfWUFYVHFmWlluR1BQM0Q5cjVzN3lQMW94TTk5RHJVTjBKeVYxcnR5NG5GM0dEb2Vta19BV2NYc2JXenVoOWJ1T1Zn0gHjAUFVX3lxTE9IQW41SXg0ckVweEVsMGNMTWlOWWR3b2F2Q0RjUmF1ak1aTFBlclU0cUlhRHQtMlRDX2JPZ1MtT1lpZTFteExDYTA4QXNwaWFERjJTTVo0d25XaFVsVUlxTnFjTkUzVGJXT3RKOEFhSy1odjM2YUhHSWdWcUZiVjZTREFrSVNYUnBvUVRYQmFQa09ZR25ibXBPbDJkQ21tTEtsSnJFSHBtLU16YUwyQkVJMDg2MFVIc0RYQ3lxUGlxbXJvckR5S1ItTGxWZlBES3RxOWlNcnQ3bEg4VVNpTmYtYWI4?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tenkasi MP reviews development works at DISHA meeting - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkpIS1FTLUNyQm9tbWF4UU5yYUdPd2ZTOFRtX19OUTVUR2JvT0hmNXVPOE4tU011NEZ0Ym5tUGE1bHh5eEZtRFd1Y1FmcFhlaXJIMGdWSEFFS1J5YmRjaEtFZ0NjSWRwTUZsUENxMVNHZFZ2XzM0N0tJblQzSHl5VF9iMWt4VXpiSnFRVnU5cEV4RmswRTI1YnhXT3I0bE5kdjA3ejVTWjFmZDUyQWRwRmRhZGJQVjhLS1HSAcABQVVfeXFMT19hWmJURmRqSHZPNnY3cnVkR296ZWQ5UnhUM1pQZ194bUp3X3NOWmNmc0cxZGd6VlA3TExNSFdjSHo1aXFaR1hzeEIxUnVPamZRNFJBMWNUOHFvS2pBYU1uZk9FSnJkYTR1VlhpZDVoUHJnN25oblY2RmljOG54TXBfcWpMOVZRVzQ5ZWJMOWVUdkUzUjNGUUozYjA0bFBvNGhGSnBwcmJubDl1N1JzQk1KWEFTODFqaHhWcVIwRm5I?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "CM Stalin's visit to Tenkasi postponed in view of rain - DT Next",
+        "source": "DT Next",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVY1TU4wMmg3X25nZGFLdFdPR0tUUWo1R2prQWFobWtqUmYwbzdySldCSUdpY09TSWoxOHVGN3EwRENNMFBiZ2xteGpDOFQ2ekZiYWNVMU5ScmhZcEFabDh3bFFFdnJkR3VSYWkzZkxJcnRlNXpYVVljWDFaV1dPV0NjaEhzS3NwOGtFUkR0a1g4SnB5MWFtVGxMTFpaZ9IBqwFBVV95cUxPNW5SZkZtMzFSQ2lHVG1sMzJlUU9RYUVkYk80c1lvdnBuQzQxOXpQekw3Mm9Nb0RfeGI0bVdDemZQM3JFTzV6czFHeEdrTFQ3cTdQZFRiajZpWTdZaWtBWUVsSG4tRFVBSXJFR3o0NHBoVS05bXAtSml1VzNITGh3ZmgwSGRLMFFTQ1FjMnhBSjNqVmZrSkQ2emVsOGNBaVB4NlBNazRfWGFKNkk?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:33:53.856156Z",
+    "collected_at": "2026-09-02T15:02:12.893901Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.630431Z",
+          "fetched_at": "2026-09-02T18:38:10.137094Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.630440Z",
+          "fetched_at": "2026-09-02T18:38:10.137106Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.630445Z",
+          "fetched_at": "2026-09-02T18:38:10.137111Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.630449Z",
+          "fetched_at": "2026-09-02T18:38:10.137116Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.630455Z",
+          "fetched_at": "2026-09-02T18:38:10.137153Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.630459Z",
+          "fetched_at": "2026-09-02T18:38:10.137159Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.630463Z",
+          "fetched_at": "2026-09-02T18:38:10.137165Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -266,18 +322,10 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
-        {
-          "headline": "‘Pothigai Book Fair’ commenced at Tenkasi - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGE4SHFENXdfOHgyeGxZNTlnRkw0QmVtNmY0bUFPeGl3ZUZTRVBLTi1mbVgtRFpqamZxM2REZWZsWUE2ckJmOE5wZU5UWUZGMnEyMUlQX3ViUjhaZkNhNklMOUNYcFBEM0hoM1R2c2c3RmJIdjFNLW5IQnFlRVVLN2huU1VJWEZfVXJTYWJFMlZTUGllTDIxeFBWTWIzZTFSZlFHRXFhd9IBrgFBVV95cUxPMlY2VjRZWV9qZFZWWm5IMUdKcFA2YlJ3R2NQSVhJcjlQNjdyT0c0YXNlbXFpdWpSMEVBcnhjMEpTZ2lEWlFwVFRJbjhsM3JmZ0hISXQwRzRSTlVFSHk3V1hXdzBqWkVjUm9XRWF6d3NEeXRnTHhKRWI0UjJKYzg4Qk9uOHp5UDJTUHhnNUx4bFF2a0d2WGtGSXgzM3RYY0I0ODVPY1pCSGNyZGV3LVE?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "DMK fields anaesthetist for Tenkasi constituency - The Hindu",
           "source": "The Hindu",
@@ -287,27 +335,35 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Tenkasi (SC) Tamil Nadu Dravida Munnetra Kazhagam - The Times of India",
-          "source": "The Times of India",
+          "headline": "‘Pothigai Book Fair’ commenced at Tenkasi - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEl3d1R4RzAzRmltSGFRQk5GVWxMdzNIc19PdllLLXdtUWt3NUZoMjlXQldrUVRQaGR5NVlfa2xtQ28zTWlGdWtBa210eV9RUU5uMmFqN2JvNHhaRFMtSDg5d285VVlrUDFqeWlOUnlnVlVkVS1nb2FPX0J4WjB0VUVnZEk3QW9jUm5zaVlBVlZmSkJsWVFjMzRlbnVkdHhOc3RsSHRQQXVSWnRDTEhZXzl6WDJaMDhn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGE4SHFENXdfOHgyeGxZNTlnRkw0QmVtNmY0bUFPeGl3ZUZTRVBLTi1mbVgtRFpqamZxM2REZWZsWUE2ckJmOE5wZU5UWUZGMnEyMUlQX3ViUjhaZkNhNklMOUNYcFBEM0hoM1R2c2c3RmJIdjFNLW5IQnFlRVVLN2huU1VJWEZfVXJTYWJFMlZTUGllTDIxeFBWTWIzZTFSZlFHRXFhd9IBrgFBVV95cUxPMlY2VjRZWV9qZFZWWm5IMUdKcFA2YlJ3R2NQSVhJcjlQNjdyT0c0YXNlbXFpdWpSMEVBcnhjMEpTZ2lEWlFwVFRJbjhsM3JmZ0hISXQwRzRSTlVFSHk3V1hXdzBqWkVjUm9XRWF6d3NEeXRnTHhKRWI0UjJKYzg4Qk9uOHp5UDJTUHhnNUx4bFF2a0d2WGtGSXgzM3RYY0I0ODVPY1pCSGNyZGV3LVE?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Tenkasi DMK secretary draws condemnation for issuing ‘death threat’ to PM Modi - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "Tenkasi DMK secretary draws condemnation for issuing ‘death threat’ to PM Modi - newindianexpress.com",
+          "source": "newindianexpress.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSFA2VE5HWU11dDNqalJlX1Nqb2RfXzFUc0dMYVZhcUFtc045NXdHNkYxd1NWUG9iNTFHRncxaDN6WnJ1S1YxakdBT1VEV3h3WEM3aTFqaHlRNkVWTzIxV3FJTVZBMUVNa2pmQnVVZDVSVmI1U3dlRGZnczQzeWRJeHdTcFJqajIwdUJCZmdYa244WjlfWUFYVHFmWlluR1BQM0Q5cjVzN3lQMW94TTk5RHJVTjBKeVYxcnR5NG5GM0dEb2Vta19BV2NYc2JXenVoOWJ1T1Zn0gHjAUFVX3lxTE9IQW41SXg0ckVweEVsMGNMTWlOWWR3b2F2Q0RjUmF1ak1aTFBlclU0cUlhRHQtMlRDX2JPZ1MtT1lpZTFteExDYTA4QXNwaWFERjJTTVo0d25XaFVsVUlxTnFjTkUzVGJXT3RKOEFhSy1odjM2YUhHSWdWcUZiVjZTREFrSVNYUnBvUVRYQmFQa09ZR25ibXBPbDJkQ21tTEtsSnJFSHBtLU16YUwyQkVJMDg2MFVIc0RYQ3lxUGlxbXJvckR5S1ItTGxWZlBES3RxOWlNcnQ3bEg4VVNpTmYtYWI4?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Political Profile of Dr Rani Sri Kumar, Dmk Party, Tenkasi, and Net Worth - India TV News",
-          "source": "India TV News",
+          "headline": "Tenkasi MP reviews development works at DISHA meeting - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ0ppUkVqQV9HZmp3bnpzVUVhSDdxZ01BUDlZMVFyUWZFNzNVUDNqTHlYOEREcEt2Wjd2c3ZBaEtiS1l3ekY2ejc5d3B2MVJwRktzZndqdXZJUlVjSklCSlNyTFhLc1phZW5nWGRCcmhkUnczWmpNVlNRekpFWkN3VU9tOGVOSjB1ZVpQdkUwbXI1X0ZLUmdMOFlhUTJ2TmVmMDh4YnRfajU0SGFqRHVSLTMxSDdZb0h2LXlqU09BN291QWpMZ0RSZ0k4UEJ5bGI0MFZtV0hxcHdUZ2ZGSFc0dA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkpIS1FTLUNyQm9tbWF4UU5yYUdPd2ZTOFRtX19OUTVUR2JvT0hmNXVPOE4tU011NEZ0Ym5tUGE1bHh5eEZtRFd1Y1FmcFhlaXJIMGdWSEFFS1J5YmRjaEtFZ0NjSWRwTUZsUENxMVNHZFZ2XzM0N0tJblQzSHl5VF9iMWt4VXpiSnFRVnU5cEV4RmswRTI1YnhXT3I0bE5kdjA3ejVTWjFmZDUyQWRwRmRhZGJQVjhLS1HSAcABQVVfeXFMT19hWmJURmRqSHZPNnY3cnVkR296ZWQ5UnhUM1pQZ194bUp3X3NOWmNmc0cxZGd6VlA3TExNSFdjSHo1aXFaR1hzeEIxUnVPamZRNFJBMWNUOHFvS2pBYU1uZk9FSnJkYTR1VlhpZDVoUHJnN25oblY2RmljOG54TXBfcWpMOVZRVzQ5ZWJMOWVUdkUzUjNGUUozYjA0bFBvNGhGSnBwcmJubDl1N1JzQk1KWEFTODFqaHhWcVIwRm5I?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "CM Stalin's visit to Tenkasi postponed in view of rain - DT Next",
+          "source": "DT Next",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVY1TU4wMmg3X25nZGFLdFdPR0tUUWo1R2prQWFobWtqUmYwbzdySldCSUdpY09TSWoxOHVGN3EwRENNMFBiZ2xteGpDOFQ2ekZiYWNVMU5ScmhZcEFabDh3bFFFdnJkR3VSYWkzZkxJcnRlNXpYVVljWDFaV1dPV0NjaEhzS3NwOGtFUkR0a1g4SnB5MWFtVGxMTFpaZ9IBqwFBVV95cUxPNW5SZkZtMzFSQ2lHVG1sMzJlUU9RYUVkYk80c1lvdnBuQzQxOXpQekw3Mm9Nb0RfeGI0bVdDemZQM3JFTzV6czFHeEdrTFQ3cTdQZFRiajZpWTdZaWtBWUVsSG4tRFVBSXJFR3o0NHBoVS05bXAtSml1VzNITGh3ZmgwSGRLMFFTQ1FjMnhBSjNqVmZrSkQ2emVsOGNBaVB4NlBNazRfWGFKNkk?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -341,15 +397,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 17,
+      "starred_questions": 5,
+      "unstarred_questions": 12,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 33.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +413,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +444,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +477,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 21,375,000. MPLADS utilization: 59.4%. Parliament attendance: 100.0%. Questions asked: 17. Debates participated: 7.",
-  "validated_at": "2026-09-02T01:36:52.631167Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 17. Debates participated: 7. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.137862Z"
 }

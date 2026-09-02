@@ -3,17 +3,17 @@
     "name": "Sanjay Dina Patil",
     "constituency": "Mumbai North East",
     "state": "maharashtra",
-    "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-    "myneta_candidate_id": 7840,
+    "party": "Shiv Sena",
+    "myneta_candidate_id": null,
     "slug": "sanjay-dina-patil",
     "house": "lok_sabha",
     "sansad_member_id": 4393,
     "profile_url": null,
     "canonical_name": "Sanjay Dina Patil",
     "name_aliases": [],
-    "education": "8th Pass",
+    "education": null,
     "profession": null,
-    "age": 43,
+    "age": null,
     "photo_url": "/mp-photos/4393.jpg"
   },
   "findings": {
@@ -21,17 +21,17 @@
       "name": "Sanjay Dina Patil",
       "constituency": "Mumbai North East",
       "state": "maharashtra",
-      "party": "Shiv Sena (Uddhav Balasaheb Thackrey)",
-      "myneta_candidate_id": 7840,
+      "party": "Shiv Sena",
+      "myneta_candidate_id": null,
       "slug": "sanjay-dina-patil",
       "house": "lok_sabha",
       "sansad_member_id": 4393,
       "profile_url": null,
       "canonical_name": "Sanjay Dina Patil",
       "name_aliases": [],
-      "education": "8th Pass",
+      "education": null,
       "profession": null,
-      "age": 43,
+      "age": null,
       "photo_url": "/mp-photos/4393.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:22.288860Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 1043603.0,
-      "liabilities": 0.0,
-      "net_worth": 1043603.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7840",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.194190Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 0.9,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.86,
-      "expended": 0.16,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:30:19.675514Z",
-          "notes": "Official eSAKSHI REST API — Works: 40 recommended, 25 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T15:17:23.678119Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:13:24.058023Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:13:24.055021Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 40,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 1.08843537414966
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 80.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:33:34.298194Z",
+          "fetched_at": "2026-09-02T15:13:24.053783Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Raut seeks action against rebel MP Sanjay Patil over 'threats'; Fadnavis says police will act - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObUxPZ0dVak04QjR5NXdGMVlkTEg0T1NaRjdwVVhoaFJvQXpwRnZqcHMzeGRfS0VxRnYxcThPbHBFZlI3NEFPUXRCYmptV01taXMzd1lvRVJ6UU43SUFad2xTTHNiWVZPcUtzeHJPZFlkUU9sN0poYWJDSVowdWhVMnpJMWIyLXVJUGhrY3oxMlEtcGN0bFBWaUdUNEkxdFR3TmRpeTI5cTgzQWJ1Qm52dU1jVUhmbS1GUmVjLXQyMDFiM0JGNVo2aDUyeG5mNHd2UjJKdVFacFRCOHpOSjhRUnFQQlJ3alB1YVFVZFEwSkVYbG_SAfoBQVVfeXFMTWtvMEVxa3FBaTZMWWtfcU1CdjlSUmxRSG1tZ05mWlN6QTBNU3RwdFBxU2l2UUhLZk92S0pOb3RiVkwzXzRxVWc3YXdRNDNiTFFtR3ZuRHVmOWUyLWNMNEdjSmZyQXF0aHE0SFgwRU1RdU5vajhlbEFCdHM0UW4xZURpUTVTLVZVTlc0Vm1qUVVHc2k5dnZPUlJlWmVLUHd5LVk5V3VFUU9reE4tSGw4em8wVWM3LVRiTnBNV0d1SFJpWFhORkMtMVJGQUFVa1pTR2N1bm9zcGlLZ0hSaUlLR2dTZHZ3YllTYW9FUUdEZEU4N0pEUkozLVZnQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Uddhav to begin tour of rebel MPs’ constituencies with Mumbai North East - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFJJSDN4UXB2VXhnV1BXSXRkZkJ3dzZTWFJCN2M0VzBDUEhxbThsT0VUNzR6VTBJRGlFcG95SHVZWjJvS3JpUnJkQWotT1FFMzViUnpMc1NLUkV0bUJNWDNMeFlGYnFkMVpTYmNzN2NnZTFNV0ZQSndoQ2MyelRGSWlGczMxZW41N255SFZQQnE3QU5QWlJRRU1XWEU1dFdTemY4ZlgxTVd3VGJhRTI1ejZuQzdFMXY3ZHl6Rmd5WDg5R3dhY2sxb0Y1WVRybzJBZWRPczVIVWVoU0l3c2fSAeMBQVVfeXFMTWNFS2ZUaVdOcjczY1I2a2RzRXBUM1N1MlMwWjgwTG0zdEpPOFRQaElVRlREVDA2SnFVNkFXMHhUZWVGbWpjN095dktTcy1mNTU5dWZEZzRGbGc5YnFHOUpyd0V4WWdJaW9CVEVaMlhSRHA4U2o1MjMwaUQxVmZ1MzhNXy1PZXVfQUQ5emtOdEpjY1gtQ1gyd09qNXJmaGVUZjFCYklJanl0NW9vVVBQTTNKa002ZVp3TTNQUGJ0RGl2MUJLcjdhbzBZVFRESGpxbjBpZVc5QU1qeDVoMHB1LTgwUE0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Data reveals funds allotted to defected Shiv Sena MPs remained unutilised - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVF3aVdQMXN3Sk54OGJMdE9IQUJHM3pDdFRFYVpJaFl4cGNKM1RHRThkczNmTkpXaTBLYkZmUkwtTjhIZzktN2JiMDU3b1d5Tmk3Q0RnN0NuU2lMQmdYdDdURDVFUzRCNXFmZ1BDdHgxREdBdU50eERjT0JBaWE3cGVPczZ0Z3c2bmZVc18tbWw5S0g5clFMR3I4T3pkSjZYaURsM1hzcmlZRVgtaVg1ZUhFT3Z3Z3FQa2RIVTNza3FBWS0wUGZ3SERwMGMybmZFTUpV0gHgAUFVX3lxTFBCQUpGQUNROGt3c25KcmY0SWlTVTJLWnJxZ2JjUGVxeVhZYmIzeXMwOEtuZFpoOFY5N0UweWlacDdYSERGZnJqX19hR3BUS2piZzhEMXZSUEVKNmlQZXlRSU5PQjdPemlWdWJKSjQwQ3A4VW1OazRlYWlTd0VZQ1RRcGhzb1M4VnczRUZ3RkJPeUg2UG1hbDhGVWY3VVZZTkxQaDZ2YVc2VzVNOWdpTEtidjdJUU1seTFZdkJIZGpfSTZzYVdSVHBBX1RCNzVTcWVsdVphd3JFVTAxdkNEcWVR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sena MP Sanjay Dina Patil threatens journalists, hurls expletives; Shinde tries damage control - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV0FDUjVIRTdvZWJUS21pUUVXNkk1N2N2REtnYm16REJSLWlfcHBCcWZZRlhhLVJaZ3B2b3V6NWdkMEVFNnRDMGx0YU5jR0kySy1IbkpnZnVfTVVkYUltajlDQ1JCaUJOVmVPTkxKNVk5aENINXUtLTN5R1pWcW1FcDRVb3dRRWU0T2VLUVFyZlI0THgtZEJacHNjQVlVMDNZcXYxOFhpbVkxYTZHcldrT3RYU0JZYmp0M3phVFQwVEoxejJDUEHSAcsBQVVfeXFMT3BmNmQ0WGRuYXh1bFVLSkRLRDNGbkFhUl9oOVlhNTlzM1E3WkdtaTBWNVpwUlFrTXpBRzdlWWtTV2xsZGpDR0d1NkJkQ2FGaVlyRTA2ZHRoSE5sOXkxa2FSREtVTVJFUVlxTGctby1wX2NSZ09rZENiMXFneG1aZ0xIQUpTUzFLTzlKNTA4aU1WeVQzRDlXMlRvZFVIbjRDN0xqZnlHSWpBeDhSZEp3T0hEZ29EUlhOU0hTSzg3UlhvcUpkaFlLY1NnYXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'If you come again, I'll kill you': Shiv Sena rebel MP Sanjay Patil loses temper over journalists' question... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSVRyTlNvbzYzMU50aDU1UlpYTDN3X0dlMVBrSC11XzJDdTRTd0RRU3hJeloxZnJxMC1JSEJPT0VpVHRKVm16VXR2cDN5UHdWVUtSVHdLckg4OTV3RlFISk5QaVN1c3dFUVp2V2k5U1FfNWRjeHd1VFV0VWh5eVczbGsySV9CdTI0YTBRSHBjUnkyZEkxSkY5ZEc1QXNyQTZ0cnI0T0VhRDFWaTZOY0hETTRwQW43UVZPaDV2Ymx5aDNZbG_SAcgBQVVfeXFMT2JTZFpxNWZYVmtjXzJoOHZvYUx0dlA5Zzh1bDMwTmQza0o2dXBTZ0lnUTFST0hWMkYzRVVxc1Z5bnk4VEN0X21zVkhXVEhQaXZFNENHbVNQRkpVSEZ4MjA0dFBhRzNNQmJGb19qOENacmtwX0gyNVZEbS1oMXR2UEFwcDRCXzRVT05xeU9TV053dzBLQXVkOHhVeVNYZjFZS1B4cDZlUjNzUFVEdHBuOFQ0cnlzeGlobHV3Z2lVdjBFU2RDSy0zRUM?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:33:56.754410Z",
+    "collected_at": "2026-09-02T15:17:23.679249Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.716350Z",
+          "fetched_at": "2026-09-02T18:38:08.265307Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.716360Z",
+          "fetched_at": "2026-09-02T18:38:08.265318Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.716365Z",
+          "fetched_at": "2026-09-02T18:38:08.265324Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.716370Z",
+          "fetched_at": "2026-09-02T18:38:08.265329Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.716376Z",
+          "fetched_at": "2026-09-02T18:38:08.265336Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.716381Z",
+          "fetched_at": "2026-09-02T18:38:08.265341Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.716386Z",
+          "fetched_at": "2026-09-02T18:38:08.265346Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,43 +335,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "In Sena UBT, leaders seek tickets for kin, party says considering based on work - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Raut seeks action against rebel MP Sanjay Patil over 'threats'; Fadnavis says police will act - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmF2dlpEU1lEU01tU2o2aXFPbnN6SzhDU3BNM0tQVUpjWm5Jb29kUWJEQmhfT2U4U2FidDJ0Wm1FNXAydERLVHY2THdOck5VYUJhX05iclA4ZUFoYko2LTFRdUJSYWZrOS1HS211ZGNWQVV6SnNXTVROTERUaEZIa2xYRlRCcUZhb2xPekpiWXJkU2ltMWUzeWtDbWF5R1I5elpmZ0dfNFhXMmluWUFVStIBtwFBVV95cUxNWS1tNUlrQjhLcERxd0w5b3RMU21nX3Vjeklfckp4MFQzWnNOaVZjX1hGenY0Ri1EN0lCOVJDcGdzbmRWZXFqSzdVMjJnR2preWROc3BKeHFwR0VxR205eTBCVDdvV0dOY29sZl9CU01ZSEFDV3ZsTUw3QTU0TS04LXROVlY0bHJyc0wzRWJYYlY0ZXVvU3c1WmlDOWVkeDMyNldiOU11WVVsaFc3aEtVYXVlZUY1SG8?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObUxPZ0dVak04QjR5NXdGMVlkTEg0T1NaRjdwVVhoaFJvQXpwRnZqcHMzeGRfS0VxRnYxcThPbHBFZlI3NEFPUXRCYmptV01taXMzd1lvRVJ6UU43SUFad2xTTHNiWVZPcUtzeHJPZFlkUU9sN0poYWJDSVowdWhVMnpJMWIyLXVJUGhrY3oxMlEtcGN0bFBWaUdUNEkxdFR3TmRpeTI5cTgzQWJ1Qm52dU1jVUhmbS1GUmVjLXQyMDFiM0JGNVo2aDUyeG5mNHd2UjJKdVFacFRCOHpOSjhRUnFQQlJ3alB1YVFVZFEwSkVYbG_SAfoBQVVfeXFMTWtvMEVxa3FBaTZMWWtfcU1CdjlSUmxRSG1tZ05mWlN6QTBNU3RwdFBxU2l2UUhLZk92S0pOb3RiVkwzXzRxVWc3YXdRNDNiTFFtR3ZuRHVmOWUyLWNMNEdjSmZyQXF0aHE0SFgwRU1RdU5vajhlbEFCdHM0UW4xZURpUTVTLVZVTlc0Vm1qUVVHc2k5dnZPUlJlWmVLUHd5LVk5V3VFUU9reE4tSGw4em8wVWM3LVRiTnBNV0d1SFJpWFhORkMtMVJGQUFVa1pTR2N1bm9zcGlLZ0hSaUlLR2dTZHZ3YllTYW9FUUdEZEU4N0pEUkozLVZnQQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Mumbai North East election results 2024 live updates: SS(UBT)'s Sanjay Dina Patil wins - The Times of India",
+          "headline": "Uddhav to begin tour of rebel MPs’ constituencies with Mumbai North East - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOWUpRek0xRUFHQnA2MzF4RGp2LWxVaFp5RU5HclVDSUo3TXF1cU1IbVFpOHJVeFF4bVdXS2g1YThzVHF0cUd3V2loSmtGUTFyRWNSNWRHdTI4SWVqbGUzbVNsMWFuYi0xdFZoUDJkZUV5ZWpfMTJ5Y1FkVXFpRjhUX3BHUnFQNWF4THU5TEptcFVDZkE3Q0FEaXV4Y196MkVmQnRDbk5SNy1SN2ctUlNVSmV4RE90REh4OFh4bDY3aU5NR1ZjczZRLVo5bDQ3T1R1TXFhYkh6MWZqVWxyLTR1SnF5VnBmTF9YNy1YWkJmekZfbF80SldiNi1QNk1VSk9nQnlLclY4RURIUVkxVkRtRThPb3VhREJhaHNydWVwSUk1TVdlQkpKaklhbF92MXF3VnN3cGhHVGZ2SUdTLXhtb3k3QmQ0S1JXcnljdWdhLVbSAdYCQVVfeXFMTk8zaTRhTXRTZmJTS3ZvcW9SNVdWUjN0dXlSYm0tTEV2N0ZLQ3pyalVWZE5IeVRoUzc2RF9DbVVNSGU1eHloRUdnUU5NMlZEQlNYeXROSG1pV0Y4SFB0QUlpbGQ3eFU5dm1CS2xDUHNCb3B6bVhiNWh3X1FGNkhKS25XdU5XdFFoSkhsYk50X2YwM0RYT3N6dkJ4MUc5UEpZRndoajF5VnlhU08xcnFBcnpjVndGc2lqdnNvNDVDeVJVQ3pXVDI5ZXFobkpkOS13Rmp4WVRDQ0N0d3A3Q205MUJVUWdaRVIwbGRiNXdTR2JIRklsbU4xZkp6M3QyOWxveGVVdThBR29HLTR5bGxjd2xycS1SQ0c1ejNXUXRZMk1pTWRxUU5jTm5sVjl0eUZIeEdPTjlKbEg4SWpoX3NmdVdCSUxNempIb2VGekFWX0NZajlaTk13?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFJJSDN4UXB2VXhnV1BXSXRkZkJ3dzZTWFJCN2M0VzBDUEhxbThsT0VUNzR6VTBJRGlFcG95SHVZWjJvS3JpUnJkQWotT1FFMzViUnpMc1NLUkV0bUJNWDNMeFlGYnFkMVpTYmNzN2NnZTFNV0ZQSndoQ2MyelRGSWlGczMxZW41N255SFZQQnE3QU5QWlJRRU1XWEU1dFdTemY4ZlgxTVd3VGJhRTI1ejZuQzdFMXY3ZHl6Rmd5WDg5R3dhY2sxb0Y1WVRybzJBZWRPczVIVWVoU0l3c2fSAeMBQVVfeXFMTWNFS2ZUaVdOcjczY1I2a2RzRXBUM1N1MlMwWjgwTG0zdEpPOFRQaElVRlREVDA2SnFVNkFXMHhUZWVGbWpjN095dktTcy1mNTU5dWZEZzRGbGc5YnFHOUpyd0V4WWdJaW9CVEVaMlhSRHA4U2o1MjMwaUQxVmZ1MzhNXy1PZXVfQUQ5emtOdEpjY1gtQ1gyd09qNXJmaGVUZjFCYklJanl0NW9vVVBQTTNKa002ZVp3TTNQUGJ0RGl2MUJLcjdhbzBZVFRESGpxbjBpZVc5QU1qeDVoMHB1LTgwUE0?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Mumbai North - East lok sabha election results 2024: Mumbai North - East Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
+          "headline": "Data reveals funds allotted to defected Shiv Sena MPs remained unutilised - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUENCNUNZMWdQMzhGOHpndkJ2ZVYwb0xtRTNDVUJsMVFGR3VDM2xJRTZBbXlwR2kzTFJrWHo4cTAzZVZkSUd6aWZKRUs5djZqbFFoTWdVdlJ4UEk2dmVfc0k0QkVuRDh4VFlYNW5Bek9CZldkTjVzSXptVS1HYVlRSXJraDBLeTZ2UEt0ZG5tTGx4OVB6ZTdDNWl5R08wSkdnMmpF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVF3aVdQMXN3Sk54OGJMdE9IQUJHM3pDdFRFYVpJaFl4cGNKM1RHRThkczNmTkpXaTBLYkZmUkwtTjhIZzktN2JiMDU3b1d5Tmk3Q0RnN0NuU2lMQmdYdDdURDVFUzRCNXFmZ1BDdHgxREdBdU50eERjT0JBaWE3cGVPczZ0Z3c2bmZVc18tbWw5S0g5clFMR3I4T3pkSjZYaURsM1hzcmlZRVgtaVg1ZUhFT3Z3Z3FQa2RIVTNza3FBWS0wUGZ3SERwMGMybmZFTUpV0gHgAUFVX3lxTFBCQUpGQUNROGt3c25KcmY0SWlTVTJLWnJxZ2JjUGVxeVhZYmIzeXMwOEtuZFpoOFY5N0UweWlacDdYSERGZnJqX19hR3BUS2piZzhEMXZSUEVKNmlQZXlRSU5PQjdPemlWdWJKSjQwQ3A4VW1OazRlYWlTd0VZQ1RRcGhzb1M4VnczRUZ3RkJPeUg2UG1hbDhGVWY3VVZZTkxQaDZ2YVc2VzVNOWdpTEtidjdJUU1seTFZdkJIZGpfSTZzYVdSVHBBX1RCNzVTcWVsdVphd3JFVTAxdkNEcWVR?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Mumbai, meet your new MPs - Citizen Matters",
-          "source": "Citizen Matters",
+          "headline": "Sena MP Sanjay Dina Patil threatens journalists, hurls expletives; Shinde tries damage control - ThePrint",
+          "source": "ThePrint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSWFhSVBTTEd6MGJLeU9leFRucGhQbDRRVUFSWnA5c1ZKT0g5T3duSktMdlFpbFVLQ2F5SjNOQTBWckRXRnl4TV9GSTd2U05SRlVlV3hWcWJsbTc1cEV6X2t6VEduTE5BRXdEQ2NSUlFieXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV0FDUjVIRTdvZWJUS21pUUVXNkk1N2N2REtnYm16REJSLWlfcHBCcWZZRlhhLVJaZ3B2b3V6NWdkMEVFNnRDMGx0YU5jR0kySy1IbkpnZnVfTVVkYUltajlDQ1JCaUJOVmVPTkxKNVk5aENINXUtLTN5R1pWcW1FcDRVb3dRRWU0T2VLUVFyZlI0THgtZEJacHNjQVlVMDNZcXYxOFhpbVkxYTZHcldrT3RYU0JZYmp0M3phVFQwVEoxejJDUEHSAcsBQVVfeXFMT3BmNmQ0WGRuYXh1bFVLSkRLRDNGbkFhUl9oOVlhNTlzM1E3WkdtaTBWNVpwUlFrTXpBRzdlWWtTV2xsZGpDR0d1NkJkQ2FGaVlyRTA2ZHRoSE5sOXkxa2FSREtVTVJFUVlxTGctby1wX2NSZ09rZENiMXFneG1aZ0xIQUpTUzFLTzlKNTA4aU1WeVQzRDlXMlRvZFVIbjRDN0xqZnlHSWpBeDhSZEp3T0hEZ29EUlhOU0hTSzg3UlhvcUpkaFlLY1NnYXc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Mumbai North East: Marathi-Muslim wave for Sanjay Dina Patil | Mumbai news - Hindustan Times",
-          "source": "Hindustan Times",
+          "headline": "'If you come again, I'll kill you': Shiv Sena rebel MP Sanjay Patil loses temper over journalists' question... - Bhaskar English",
+          "source": "Bhaskar English",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkt3Z2liRDBFZ2NDUFRwZWNORkR5NTNmc0V3VXFXaFJlM01OMjlET3BncWR1N2pWV19ESUV4elhNdjRJQVNMeDkyN183U0pRZUhWMFpheG5wTGRfZ09veXBxOEgyRml0RVAzWG43d1FUbDB4bUlBMlhZOVZIcnNoNXVQQXdZdmd1bTM0ZWRHWkQxM3pFN3p2NVhYNE45X19LNkZsVEtRblVWTXNaQkxsVVV0eHkxZGJ6UmfSAb8BQVVfeXFMUG5NaFhRTmxoZjFoam95bzlEaXpsczJwYWU3bTNuci1qWHEyb0tTeW1Pak41Tl9yYVNVcVhKTmJObzJfdy1jQ0Z3Ul9zSmNXcTBiaWNfN2dad3lhN0ZiM0xCUVFlX04tOVcyYjU0bGVSSHFOV1ZDaXlvd1FNRkUxcjByZm5tYlY5TTg3a2JudHlUTUxFLWx4cXktT3cxdlVCWWdOenNSZlZCR2FQUElybFRBSGptLVlYYzM0MzY1M1U?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSVRyTlNvbzYzMU50aDU1UlpYTDN3X0dlMVBrSC11XzJDdTRTd0RRU3hJeloxZnJxMC1JSEJPT0VpVHRKVm16VXR2cDN5UHdWVUtSVHdLckg4OTV3RlFISk5QaVN1c3dFUVp2V2k5U1FfNWRjeHd1VFV0VWh5eVczbGsySV9CdTI0YTBRSHBjUnkyZEkxSkY5ZEc1QXNyQTZ0cnI0T0VhRDFWaTZOY0hETTRwQW43UVZPaDV2Ymx5aDNZbG_SAcgBQVVfeXFMT2JTZFpxNWZYVmtjXzJoOHZvYUx0dlA5Zzh1bDMwTmQza0o2dXBTZ0lnUTFST0hWMkYzRVVxc1Z5bnk4VEN0X21zVkhXVEhQaXZFNENHbVNQRkpVSEZ4MjA0dFBhRzNNQmJGb19qOENacmtwX0gyNVZEbS1oMXR2UEFwcDRCXzRVT05xeU9TV053dzBLQXVkOHhVeVNYZjFZS1B4cDZlUjNzUFVEdHBuOFQ0cnlzeGlobHV3Z2lVdjBFU2RDSy0zRUM?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 64,
+      "starred_questions": 19,
+      "unstarred_questions": 45,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 80.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 1,043,603. MPLADS utilization: 1.1%. Parliament attendance: 80.0%. Questions asked: 64. Debates participated: 8. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.717110Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 80.0%. Questions asked: 64. Debates participated: 8. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.266015Z"
 }

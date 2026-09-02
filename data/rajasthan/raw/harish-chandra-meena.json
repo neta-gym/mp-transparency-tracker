@@ -4,16 +4,16 @@
     "constituency": "Tonk-Sawai Madhopur",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 2583,
+    "myneta_candidate_id": null,
     "slug": "harish-chandra-meena",
     "house": "lok_sabha",
     "sansad_member_id": 4640,
     "profile_url": null,
     "canonical_name": "Harish Chandra Meena",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 69,
+    "age": null,
     "photo_url": "/mp-photos/4640.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:09.770071Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 230794780.0,
-    "liabilities": 0.0,
-    "net_worth": 230794780.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2583",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.728456Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 73.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 0.0,
-    "expended": 0.0,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:44:55.266394Z",
-        "notes": "Official eSAKSHI REST API — Works: 0 recommended, 0 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:42:28.640569Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:38:46.924677Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:38:46.922539Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
     "works_count": 0,
-    "esakshi_coverage_start": "2023-04-01",
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 0.0
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:41.785093Z",
+        "fetched_at": "2026-09-02T14:38:46.921767Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - bhaskarenglish.in",
+      "source": "bhaskarenglish.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVWw5dFl1Q01hTjZYalhOd0trTVZMY3IyYTRGTmc4S055MjBZSW1uMGRrM0NZTnJ2X2JBVzMwdFdIN3ZuM0JwalJhQWtZVElueGRkS0ZfWEd6UEw1SHRKMTBVR3BVVDI2eUx0M1RZU0FBeWRqd0xmemRJWmZnTjh0SlFXM3VUSFpUSHBQMWFpNXFRZURCclIxNG4xeXowQ0Z2eVFQNHlCVWlMRVFNaEVCa19SSng5S0lQUkhXNnBVUXVSTjNpM05UWlBTQ2lCRUNS0gHWAUFVX3lxTE82UVBla1Q4NURDQVdKNWlsaHgyVFhCUElMZm9vOThrM3N3Vk1HejlLRUFRRXY0VjZLMm1TSFZYS3BRMnItYXVQdDREVGNCOGRxNzJTMVU1dDNjdHIySGdMM2dXZWJxcjRjMWpxQ1VpQzN5SFcxb1NkczRZNFBYMThkdHgtZmhfTEo2X1J3cVFvcFpHZkNlcDJSSnZTZ2g2amlHcmgyRm1JVWsxRXppWEI5Z2VZT1BNLUJFZm9xQ3QzZW9IcGdvZFJmYU5vMl9BVGU4UEUyUFE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP seeks rly link for Tonk in LS - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDlkQlN3NGdHYlpzaG1mQjJSS2xqNW5EcnhMMFB6MUc1YXdzcGdjQW5NTEIxdFl5LV9yVXcxaGt3cEtxWlhYQnhrbDJNZkRGTk0zekdfVk5IaW1Gang4YzhBNUNhSTVvV3FlUTBySkhuQkNQNE43aDlmTWVUQnBiZVhQX2d4Q05lRWROeGw0MjhfOWFwbk5Ea3hCal96d2dLbzkyd2l0eWtJUdIBrwFBVV95cUxOaDI2akU4LWFEemZ2cGN0eDJTcF85aHkzMjkwSy03ODNBTlZkcjdtRFFRT1ctb0RpS1lTejJMUnJpZlFXMlhnTXpFRkF3RFhPYk1EUHRHMEpkWWU0V0NLZHRjOWI0cmdaX0haYzdpaWpEamRTVzJieWUtVXNuU2NsM21IYzFaa0JsLW5paEk1TWtkNU5xT1h1M3JnSG9nVm5Qejg2UC01eFBCeE1MSjZV?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Those Who Abuse Modi...\": BJP Leader Refuses Blankets To Muslim Women - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZXpQTnJIdDZWcld6SHhOQTMtOERTTENkMlpRUGJMS1FXWlVHSjFnY2FLdE0xSnB2UFZMQV9LT0pzNmhuNVFGX3A4aHlnTXIzdEJoMDVpb050YTZ6RjBIbjFHcGpyLXY2RE1QZ3BKMVNQbTVNdWNFWmg3YVA0bENGelBkZzdLVS0xVXZFaEJMa1dRaFJsTmYycHZuamE1eXlrTDl5TkkwdndHU01MMG5Yc1pPQkFKak9CNWNmYUNWWHlqcnBYMEljc2gxNjZZTEx20gHYAUFVX3lxTFBtVUU2QkNORlJHUGxWQmxNTnJTMC1yZnZrbnZzb2VGRnkteEFBNDVvYVR0cnVYV1c0eWhFQUh3a3psemhvQWZNRnoteUwxX0Q2U1JzUVJMRjhyYmQ2UjFLa1hlaWp3RUNmUm1IUGN2SkhiQnlxZUpoODdUdmVrOGdtbTR0NUtwOE9YNER0OGJtQ1pqaG5YY3RHcFNVYnZlU3ZBQTNVODBUWHdZdWFFRERtTHRjR3lJSzdQUHRMZzFveHFvbmZ0VXJuOTV4MERob0pneFNqLUllSg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "In Rajasthan's Tonk-Sawai Madhopur, Congress' Harish Chandra Meena up against two-time BJP MP Sukhbir Singh Jaunapuria - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTUtHMU9JN25JRnB4eEVGTGNBSzdLbW4ybU5feXhPSWRTOEl3al9nbXY1VVc4SVpQTm9xNnBpS1Q4M2ZJVjc4QnVjUThnUjVGZkFWWlRMZmg3WGt4czh5b1lqU2s1SnlHSHV1YVJ0Nzc2OHBzam5KSnJjSllhcW9XRDJQQTdzY3dNamFBUUljWGZzOWt5VFZMQVhMc0FEdkd3VzczbGEtRWcxRWVTOHRYOFozaERFZmJxZDlnSFpLOG5ydU15NVAzSHF5bzJ4UElfX0ltWGJtOHFUVDlXSWJFbVNPcjJXU2d3ZU56OHpLeXh5ajBkU3RwVEpyc3dCR2lGMkFqaUxB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tonk - Sawai Madhopur Lok Sabha Election Results 2024 - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGMtendrQ19ySkUwWFhGZEplWGF2cVhpWnk1MFlrXzEzS0JPN3BPRVdWRHgtUW1wNGd2NFVGM25PdUdhRXB0UXY5Qm5CbmJjUFZpTkRocW5zd0pGTnFpb21YZTZvMlZhRVRqVjdoRjMzOEE3bHFWZzNXc1JmMEtkM2pwWEI2dUFqWVFlYmRlMV9wd3BJM3ZaRHVsZzR5ZGoxQUhn?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:48.250182Z",
+  "collected_at": "2026-09-02T14:42:28.641382Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.009351Z",
+        "fetched_at": "2026-09-02T18:38:09.421361Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.009360Z",
+        "fetched_at": "2026-09-02T18:38:09.421372Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.009365Z",
+        "fetched_at": "2026-09-02T18:38:09.421378Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.009370Z",
+        "fetched_at": "2026-09-02T18:38:09.421383Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.009376Z",
+        "fetched_at": "2026-09-02T18:38:09.421390Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.009380Z",
+        "fetched_at": "2026-09-02T18:38:09.421394Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.009384Z",
+        "fetched_at": "2026-09-02T18:38:09.421398Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "@Hc_meenaMP",
+        "url": "https://x.com/@Hc_meenaMP",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/harish.meenamp/",
+        "url": "https://facebook.com/https://www.facebook.com/harish.meenamp/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:38:50.405356Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,19 +342,19 @@
     "neutral": 10,
     "top_headlines": [
       {
+        "headline": "Report card of 25 Rajasthan MPs: Receives ₹5 cr annually; most spend only a fraction; one spends nothing - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVWw5dFl1Q01hTjZYalhOd0trTVZMY3IyYTRGTmc4S055MjBZSW1uMGRrM0NZTnJ2X2JBVzMwdFdIN3ZuM0JwalJhQWtZVElueGRkS0ZfWEd6UEw1SHRKMTBVR3BVVDI2eUx0M1RZU0FBeWRqd0xmemRJWmZnTjh0SlFXM3VUSFpUSHBQMWFpNXFRZURCclIxNG4xeXowQ0Z2eVFQNHlCVWlMRVFNaEVCa19SSng5S0lQUkhXNnBVUXVSTjNpM05UWlBTQ2lCRUNS0gHWAUFVX3lxTE82UVBla1Q4NURDQVdKNWlsaHgyVFhCUElMZm9vOThrM3N3Vk1HejlLRUFRRXY0VjZLMm1TSFZYS3BRMnItYXVQdDREVGNCOGRxNzJTMVU1dDNjdHIySGdMM2dXZWJxcjRjMWpxQ1VpQzN5SFcxb1NkczRZNFBYMThkdHgtZmhfTEo2X1J3cVFvcFpHZkNlcDJSSnZTZ2g2amlHcmgyRm1JVWsxRXppWEI5Z2VZT1BNLUJFZm9xQ3QzZW9IcGdvZFJmYU5vMl9BVGU4UEUyUFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "MP seeks rly link for Tonk in LS - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDlkQlN3NGdHYlpzaG1mQjJSS2xqNW5EcnhMMFB6MUc1YXdzcGdjQW5NTEIxdFl5LV9yVXcxaGt3cEtxWlhYQnhrbDJNZkRGTk0zekdfVk5IaW1Gang4YzhBNUNhSTVvV3FlUTBySkhuQkNQNE43aDlmTWVUQnBiZVhQX2d4Q05lRWROeGw0MjhfOWFwbk5Ea3hCal96d2dLbzkyd2l0eWtJUdIBrwFBVV95cUxOaDI2akU4LWFEemZ2cGN0eDJTcF85aHkzMjkwSy03ODNBTlZkcjdtRFFRT1ctb0RpS1lTejJMUnJpZlFXMlhnTXpFRkF3RFhPYk1EUHRHMEpkWWU0V0NLZHRjOWI0cmdaX0haYzdpaWpEamRTVzJieWUtVXNuU2NsM21IYzFaa0JsLW5paEk1TWtkNU5xT1h1M3JnSG9nVm5Qejg2UC01eFBCeE1MSjZV?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "\"Those Who Abuse Modi...\": BJP Leader Refuses Blankets To Muslim Women - Cobrapost",
-        "source": "Cobrapost",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQklWM3lMcWdCTnE3aDBXbFhuZ29sbU9TUnFfU3REQ0dNNTBTV0d3LW90UlozQUJSRGo4ZjVYQm1KZm9sNWJ3YjB1ZjVMMFBza2JVWUFZcmlvRzJMMHRxdWlkZmlWWnpCTlZYWGpVU1ExWnNzUFRQSGxTdmZvdWctdW9pOGNtMFRxclp4RnNOUDQtTmJwakE?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -288,19 +366,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Ex-BJP MP takes back blanket from Muslim woman after asking her religion in Tonk; triggers row - DT Next",
-        "source": "DT Next",
+        "headline": "In Rajasthan's Tonk-Sawai Madhopur, Congress' Harish Chandra Meena up against two-time BJP MP Sukhbir Singh Jaunapuria - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ2dwaGRvX2NaR1ctUl94STFQTE13aEJPZk9yMkZkd0hzQ0dwN1VzVW9WdkZaSmlocEgyQ1VzenpjN1VKSDRRVi1WaDUtVXdtRTRVWjVUbks0VnhYakFXbndCal9IZlJhRXdSc1dCTVh1bFVPcEZOZzVfQzlJY0szMVVsNzg1N3JZelp2ZDFzeGNNaHluZGozX29fRUdfeXJJV004dGlOZEhRSktDWXEySmN0NmgxMUNfdTVYVzlmekNSZldoRW9UNNIB1gFBVV95cUxNUERIQnVJMmJrSDY2T21lSjNXN1dsYjhmNlVWWXRMVjE1NUNrRkdyQjl6R3ZaLXFTU2JqcFUxQUhjTVczLWhGaHNFeEdhVzhKbEZvbEx5cDF0Wk5kU3lJdzlQSUVzZkJEcGJBME4yNEF0OWlKX2I3dENLdGFKdUNNU2NNRHRlQVAzbV9wUElZSGJGQjlqcHRPSE43MGExNHdUVjVxMF95N3R0bUE3SzNpd0o2R25kT1p2ZWxhZnc5azNMb2pMaVRGekFZRUdSc1M5bzRJQjVB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTUtHMU9JN25JRnB4eEVGTGNBSzdLbW4ybU5feXhPSWRTOEl3al9nbXY1VVc4SVpQTm9xNnBpS1Q4M2ZJVjc4QnVjUThnUjVGZkFWWlRMZmg3WGt4czh5b1lqU2s1SnlHSHV1YVJ0Nzc2OHBzam5KSnJjSllhcW9XRDJQQTdzY3dNamFBUUljWGZzOWt5VFZMQVhMc0FEdkd3VzczbGEtRWcxRWVTOHRYOFozaERFZmJxZDlnSFpLOG5ydU15NVAzSHF5bzJ4UElfX0ltWGJtOHFUVDlXSWJFbVNPcjJXU2d3ZU56OHpLeXh5ajBkU3RwVEpyc3dCR2lGMkFqaUxB?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Watch: 'Those who abuse PM Modi...' - Rajasthan BJP leader refuses to give Muslim women blankets - Moneycontrol.com",
-        "source": "Moneycontrol.com",
+        "headline": "Tonk - Sawai Madhopur Lok Sabha Election Results 2024 - India Today",
+        "source": "India Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSjZsRlZKek1LMi1pdXZ2RzI0TV9tQXR2ZVdCTmJvQWx1S2Y1dEo4Qk5vazFKR2h3NEdka0tlSjRYbTU4VTFZMGlILVh5aFFRSDdNSjZ6cDlPcVdwd0xOVWFBZldTMEx3NmdEa0x5eU9pVjFvUk5YSm5RVzVNMmI4c2J3LTF4TUZZd2kwaTZJaFNqZFdLWXVHXzRSVVYwRS1KeWlQR2d2ZFd4bzhsODBFNEFwck5Pejl6MElXRWFaOG1nZ0hBTjNGYlZ2bHpMWU1wNWxUSmhlaWoyZFVH0gHiAUFVX3lxTE9BSXpKbEhOSXJBUU1PVXA1bDNPS0lla19fa0JDeDNDUnEyTzhBbjhtbFpoS29wWkVSZnNsRGRTUUJPRnBWUF84QU9KcXVRQXlFQ01TTVdibzhkeFVYZTdJRl93OGFVaGFlanhaSWR6aWxlTG81TXBVem9DclptV0Z2UENrRmIxbmFRSy1iaTBvTURYaFU2VFJmN0dkd0pwZ2t4c2dWX25Ca2ZFNG5Nem5IMS1EQUhTOUxEOUtid2cxUnJTRGt3Z3pzOU5iaVlURGdqVW90ejFIWUxhWWxIVmhXY1E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGMtendrQ19ySkUwWFhGZEplWGF2cVhpWnk1MFlrXzEzS0JPN3BPRVdWRHgtUW1wNGd2NFVGM25PdUdhRXB0UXY5Qm5CbmJjUFZpTkRocW5zd0pGTnFpb21YZTZvMlZhRVRqVjdoRjMzOEE3bHFWZzNXc1JmMEtkM2pwWEI2dUFqWVFlYmRlMV9wd3BJM3ZaRHVsZzR5ZGoxQUhn?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 32,
+    "starred_questions": 9,
+    "unstarred_questions": 23,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 61.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

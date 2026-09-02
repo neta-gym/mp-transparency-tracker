@@ -7,21 +7,21 @@
 **Education:** Post Graduate
 **Profession:** Coaching And Advocate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 52.8 / 100
+## Composite Transparency Score: 66.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 4.2 | 25% |
-| Asset Growth | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 75.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,24 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 1.58 Crore
+- **Immovable Assets:** Rs 90.00 Lakh
 - **Total Assets:** Rs 2.48 Crore
 - **Liabilities:** Rs 10.00 Lakh
 - **Net Worth:** Rs 2.38 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 22% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 161759501.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 50% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 5
-- **Expended:** Rs 1
-- **Utilization Rate:** 5.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -70,24 +70,46 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@AnitaSubhadars1](https://x.com/AnitaSubhadars1) | No | Yes |
+| Facebook | [@Anita Subhadarshini](https://facebook.com/Anita Subhadarshini) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (9 articles)*
+*Mixed/neutral coverage (10 articles)*
 
-- **Total Articles:** 9
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
+- **Total Articles:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
 - Aska election results 2024 live updates: BJP's Anita Subhadarshini triumphs in Aska, defeats BJD's Ranjit - The Times of India (The Times of India) [neutral]
-- Khurda Road Railway Division Hold Meeting with Odisha MPs to Boost Infrastructure and Services - pragativadi.com (pragativadi.com) [neutral]
-- Aska lok sabha election results 2024: Aska Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Aska Election Result 2024 LIVE Updates Highlights: Anita Subhadarshini of BJP Wins - News18 (News18) [neutral]
-- Hundreds of BJD workers of Ganjam join BJP - Odisha TV (Odisha TV) [neutral]
+- BJD stares at a tough battle with BJP in its stronghold Aska - newindianexpress.com (newindianexpress.com) [neutral]
+- Khurda Road Railway Division Hold Meeting with Odisha MPs to Boost Infrastructure and Services - Pragativadi (Pragativadi) [neutral]
+- Aska LS seat to witness pitched battle between BJD, BJP - orissapost.com (orissapost.com) [neutral]
+- Arrogant BJD in ruins as BJP takes over Ganjam - newindianexpress.com (newindianexpress.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Aska election results 2024 live updates: BJP's Anita Subhadarshini triumphs in Aska, defeats BJD's Ranjit - The Times of India** (The Times of India)
+- ! **BJD stares at a tough battle with BJP in its stronghold Aska - newindianexpress.com** (newindianexpress.com)
+- ! **Khurda Road Railway Division Hold Meeting with Odisha MPs to Boost Infrastructure and Services - Pragativadi** (Pragativadi)
+- ! **Aska LS seat to witness pitched battle between BJD, BJP - orissapost.com** (orissapost.com)
+- ! **Arrogant BJD in ruins as BJP takes over Ganjam - newindianexpress.com** (newindianexpress.com)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
@@ -96,11 +118,11 @@
 
 ## Qualitative Assessment
 
-Anita Subhadarshini shows moderate transparency with a score of 52.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Anita Subhadarshini shows moderate transparency with a score of 66.2/100. No criminal cases declared.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 24,799,399. MPLADS utilization: 5.3%. Parliament attendance: 75.0%. Questions asked: 10. Debates participated: 5. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 24,799,399. Parliament attendance: 75.0%. Questions asked: 10. Debates participated: 5. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -140,7 +162,7 @@ No criminal cases declared. Declared assets: Rs 24,799,399. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -219,8 +241,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Anita Subhadarshini's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 5.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -239,11 +259,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

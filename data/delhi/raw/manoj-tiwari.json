@@ -24,30 +24,46 @@
     "disposed_cases": 0,
     "cases": [
       {
-        "description": "Details and present status of appeal",
-        "ipc_sections": [],
-        "is_serious": false,
-        "is_convicted": false,
-        "status": "unknown",
-        "court": ""
-      },
-      {
-        "description": "",
+        "description": "900/2018, PS. New Usman Nagar North East Delhi",
         "ipc_sections": [
-          "900/2018"
+          "323",
+          "341",
+          "506",
+          "34"
         ],
         "is_serious": false,
         "is_convicted": false,
-        "status": "unknown",
-        "court": ""
+        "status": "pending",
+        "court": "",
+        "fir_no": "900/2018, PS. New Usman Nagar North East Delhi",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
       },
       {
-        "description": "",
-        "ipc_sections": [],
+        "description": "PS. Tilak Marg | Section 200 of CrPC",
+        "ipc_sections": [
+          "499",
+          "34"
+        ],
         "is_serious": false,
         "is_convicted": false,
         "status": "pending",
-        "court": ""
+        "court": "ACMM, Rouse Avenue Court",
+        "fir_no": "PS. Tilak Marg",
+        "case_no": "51/2019",
+        "other_acts": "Section 200 of CrPC",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "Yes",
+        "appeal_status": "Quashing Petition have been filed before Honble High Court of Delhi in case titled as Manoj Tiwari Vs Manish Sisodia and others CRL MC 3313/2013 for quashing summoning order and the entire Criminal proceedins as pending before Ld. ACMM, Rouse Avenue Court, Delhi",
+        "punishment": "",
+        "date_convicted": ""
       }
     ],
     "source": "myneta",
@@ -57,7 +73,7 @@
         "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-05-21T15:55:37.312212Z",
+        "fetched_at": "2026-09-02T15:33:43.758283Z",
         "notes": "MyNeta candidate affidavit data"
       }
     ]
@@ -66,8 +82,8 @@
     "movable_assets": 117962601.0,
     "immovable_assets": 210200000.0,
     "total_assets": 328162601.0,
-    "liabilities": 10171659.0,
-    "net_worth": 317990942.0,
+    "liabilities": 20447772.0,
+    "net_worth": 307714829.0,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
@@ -78,41 +94,55 @@
         "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-05-21T15:55:37.325548Z",
+        "fetched_at": "2026-09-02T14:30:58.476448Z",
         "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 78.9,
+    "wealth_percentile": 75.2,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 22.58,
-    "released": 22.58,
-    "sanctioned": 4.02,
-    "expended": 2.63,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:27.627425Z",
-        "notes": "Official eSAKSHI REST API — Works: 16 recommended, 12 sanctioned, 2 completed"
+        "fetched_at": "2026-09-02T14:34:36.325375Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:30:56.688703Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:30:56.686189Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 16,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 11.647475642161204
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -127,7 +157,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T15:55:32.542116Z",
+        "fetched_at": "2026-09-02T14:30:56.685161Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -135,22 +165,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - DD News",
+      "source": "DD News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1QxN3RKTG81Rm80a0MySkhfVnlidXBHcURBZDZ5WUNqamxWalpYb2NuOF8ta1V3TXd6b0IzZXdzS0pfeko4VzBZZENhRjkzT1lXNkN3d1Y5VmxKRFBDOHpUX3labE84MDFkSGpFVDR4M2JVQ0pGRTVDUFZZZVd2Z1h3QXk4Wkh6c0dPSExXYnNmNy11VGdBY1VTdE4?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - India Tribune - Chicago",
+      "source": "India Tribune - Chicago",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnBHS1RxVWJ6RTlLLTBRY3B4dU9PeUgtdmRMOHJnMG9wV0VxLXpScmVuc0N0d1U2a0xoSlJsNmR1Q0N4SjQ2Vk1PLW14RURXem14SEdmSGE4eVVFZWJfX0hzQTdnczZoZEREaGQzTlQzRWx4ZW1PN3U2YTAzSWlBWXp4UlV5T1VzX205UXlsSmNhdms2YnNUWFlZaHh4Q3VKSjJKUnVTTEtwdFB5REtpQ2M0OWVHZjA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'This is Modi's dream...': BJP MP Manoj Tiwari renders song marking 12 years of PM - Deccan Herald",
+      "source": "Deccan Herald",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb09PMHBNLTlaemw1eG1GZk1ITmRMZmFBeGsxSFI2XzVGUm5FSHJROGh6M0dhNGJTYjdXLXhlZXRXWGhBT0xfcS14UUxBeDR4QTNBNG9sZjRDOWM0WWNsWVBaZFlYbE1aR0hsVEV3M2N4ZXdDYkZ0YlJLdXQzbUVKMFNyZnZWS1FMZFdrQmkxWndPZWZwbTF3dms5a0tqSnozSERTT3hTVTZ4T2Z5VTVybU9PMzhjR2RsakE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MP Manoj Tiwari’s emotional video from 2020 is going viral linking to the Bankipur By-Election. - english.factcrescendo.com",
+      "source": "english.factcrescendo.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMDNMODBWc0dsbnR0NlZyMDFXVWJBald2NzI0dkdudDBIVXZpWldnYWtITnJqWTRTdWpkbTY0OFVaMmhUaDNpZWE2T093NUliTk1lYWZqVWhaQ2M2VjM0N3BFbVFTTTBEbUVxNFdUczcwbndjb2JNcXRPUXQ5VzVVaGowc3RpaS1WTG5ORkUzM2tYSUJUeUhsdHNRUzk2SzVUOGV0ak1OMlM1eWVBWHNSZllNOXg3N09UY042NVhjcVpsZzVvM2JHd20zUW5QVGtsdlE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Manoj Tiwari accuses opposition of political motives in NEET controversy - The News Mill",
+      "source": "The News Mill",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORThTcEhRdUtmTGltaXFMZzMxVFAxMC1FNWdzRUJwYlAwSDdES0lRY2d3UFpqM3pqelZSRHhpY0pSWUYwN2kwMGV0VE5zUVF2Z2FJQ2pWdGhhRjI2UnRzWVM1N1hKQkFkRngza0FKR1k4OU5hME9VTm5yODByWWV4VWpOb1BYYkZjRk5MOEluYWFjeHhWbDZIcHhnV3BBUWZLWWNmdXVLM1huZy1Cell3UmdTNnlQdDZ5?oc=5",
+      "sentiment": "negative"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T15:55:57.232565Z",
+  "collected_at": "2026-09-02T14:34:36.326308Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -165,7 +237,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.796156Z",
+        "fetched_at": "2026-09-02T18:38:05.384093Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -181,7 +253,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.796166Z",
+        "fetched_at": "2026-09-02T18:38:05.384104Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -197,7 +269,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.796171Z",
+        "fetched_at": "2026-09-02T18:38:05.384110Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -213,7 +285,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.796176Z",
+        "fetched_at": "2026-09-02T18:38:05.384115Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -229,7 +301,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.796181Z",
+        "fetched_at": "2026-09-02T18:38:05.384152Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -245,7 +317,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.796186Z",
+        "fetched_at": "2026-09-02T18:38:05.384159Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -261,7 +333,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.796190Z",
+        "fetched_at": "2026-09-02T18:38:05.384171Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -277,7 +349,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.796195Z",
+        "fetched_at": "2026-09-02T18:38:05.384177Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -344,7 +416,7 @@
         "url": "",
         "source_name": "social_media_lookup",
         "grade": "D",
-        "fetched_at": "2026-05-21T15:55:32.546274Z",
+        "fetched_at": "2026-09-02T14:30:59.861233Z",
         "notes": "Social media handle lookup"
       }
     ]
@@ -352,48 +424,48 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 3,
-    "neutral": 7,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "BJP MP Manoj Tiwari welcomes contempt proceedings against Kejriwal - thehawk.in",
-        "source": "thehawk.in",
+        "headline": "BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - DD News",
+        "source": "DD News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd1pJX29NUWNXbHlmSENUa3BDcHhDWW94SUpkMXY2RlhNQjl3enBFdjh3ZUV3dEV6QW5wNVBvd2pLU2tPV0Q0a2h0SWxRLVJCZGxiY3B5UmlJbGVMRkczdmFTeEp3ZnBFdWlnNUUtbnV5cU5jWTVicTQwN0ZzRFhvQ3BjVzJWamMyRXVHbFdad2U1d0wxZTJUdlZ1dkI3QTN4aXc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1QxN3RKTG81Rm80a0MySkhfVnlidXBHcURBZDZ5WUNqamxWalpYb2NuOF8ta1V3TXd6b0IzZXdzS0pfeko4VzBZZENhRjkzT1lXNkN3d1Y5VmxKRFBDOHpUX3labE84MDFkSGpFVDR4M2JVQ0pGRTVDUFZZZVd2Z1h3QXk4Wkh6c0dPSExXYnNmNy11VGdBY1VTdE4?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Delhi CM Rekha Gupta, BJP leaders take metro ride after PM Modi's call for fuel conservation - The Hans India",
-        "source": "The Hans India",
+        "headline": "BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - India Tribune - Chicago",
+        "source": "India Tribune - Chicago",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONHJoQUFQVnlEaUdrMVViNWtwb05wWUgzeVBzX1preVVZYkZSMWxRRlBDdDhFaFZtWHN5RUNIeVAyZVN3cFIyVE8xa0pKZFBLN2ZEdWE3RWREOUg5ZDVMNGtJR2NteWFOa3JiMHc3R3NSYTZyb282VTNCYVE2NnQ0VkctSVR3REpoZEtiMmJEVU41b3c2NUNWcTg0Sjlkd0QwZ1UtVGFsakp4OEhxbGl3THZra3E5Z0VUckRpUF9zbFo5dFB5UTdvajZ5RmRQNlZxSDJwNWt2MWtkaF9Gd0HSAd4BQVVfeXFMTjRyaEFBUFZ5RGlHazFVYjVrcG9OcFlIM3lQc19aa3lVWWJGUjFsUUZQQ3Q4RWhWbVhzeUVDSHlQMmVTd3BSMlRPMWtKSmRQSzdmRHVhN0VkRDlIOWQ1TDRrSUdjbXlhTmtyYjB3N0dzUmE2cm9vNlUzQmFRNjZ0NFZHLUlUd0RKaGRLYjJiRFVONW93NjVDVnE4NEo5ZHdEMGdVLVRhbGpKeDhIcWxpd0x2a2txOWdFVHJEaVBfc2xaOXRQeVE3b2o2eUZkUDZWcUgycDVrdjFrZGhfRndB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnBHS1RxVWJ6RTlLLTBRY3B4dU9PeUgtdmRMOHJnMG9wV0VxLXpScmVuc0N0d1U2a0xoSlJsNmR1Q0N4SjQ2Vk1PLW14RURXem14SEdmSGE4eVVFZWJfX0hzQTdnczZoZEREaGQzTlQzRWx4ZW1PN3U2YTAzSWlBWXp4UlV5T1VzX205UXlsSmNhdms2YnNUWFlZaHh4Q3VKSjJKUnVTTEtwdFB5REtpQ2M0OWVHZjA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Manoj Tiwari files complaint over fake Facebook account; FIR registered - The Times of India",
-        "source": "The Times of India",
+        "headline": "'This is Modi's dream...': BJP MP Manoj Tiwari renders song marking 12 years of PM - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb09PMHBNLTlaemw1eG1GZk1ITmRMZmFBeGsxSFI2XzVGUm5FSHJROGh6M0dhNGJTYjdXLXhlZXRXWGhBT0xfcS14UUxBeDR4QTNBNG9sZjRDOWM0WWNsWVBaZFlYbE1aR0hsVEV3M2N4ZXdDYkZ0YlJLdXQzbUVKMFNyZnZWS1FMZFdrQmkxWndPZWZwbTF3dms5a0tqSnozSERTT3hTVTZ4T2Z5VTVybU9PMzhjR2RsakE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP Manoj Tiwari’s emotional video from 2020 is going viral linking to the Bankipur By-Election. - english.factcrescendo.com",
+        "source": "english.factcrescendo.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMDNMODBWc0dsbnR0NlZyMDFXVWJBald2NzI0dkdudDBIVXZpWldnYWtITnJqWTRTdWpkbTY0OFVaMmhUaDNpZWE2T093NUliTk1lYWZqVWhaQ2M2VjM0N3BFbVFTTTBEbUVxNFdUczcwbndjb2JNcXRPUXQ5VzVVaGowc3RpaS1WTG5ORkUzM2tYSUJUeUhsdHNRUzk2SzVUOGV0ak1OMlM1eWVBWHNSZllNOXg3N09UY042NVhjcVpsZzVvM2JHd20zUW5QVGtsdlE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Manoj Tiwari accuses opposition of political motives in NEET controversy - The News Mill",
+        "source": "The News Mill",
         "severity": "medium",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbHIyWEcwdmE5VGZ5T1N3UXg5bHZ2bHhieG1MRTA2WFZZd3JqRlA5ZlV5em4wU0paR0JyMTcyaTduODdUZkdqdE11T0xVVVlNZWJzVkNaVTR0LUFlNmFXWl9ZcnVhZElXSmdCYVhscWp3bUNPbGZrWmFWZWRZeFlGd253cHVDb0ROSnFUVmdKUVd6ZDNBZVNIbEkwa196MlVOOEN3X2xCSzJTMExsaHdOSEs3Vmw4VUVJQzJLRTlBVkdyMU41alVqcGNVTG5FUjdpVG1Kb0JQb3VsY0R2VHBN0gHkAUFVX3lxTFBtRW5DY3Q3aVQxTWF5emtEck1qS1dXak1OMjViOWozLXVVVF83czllODhaaWJIUXgxNTRFNHZ0QlBHbEh4ZWxJZzU2blBrZ2xNOFJrTXc2clRjalFOSXRqMlBtanBVRGpUQ3gwWHR5OHZZYUVocjJJcnVJOEN4bnVMek0tVWhVMUJEamNrMmlQcHk3azRYRlJXZjZ1aFhGUG5oa0lLTUZHSW9MSG83QkJiOTRHNUtmV3RsSU1mZnNic2pkWWZNcXphYzJDbVRTdExXaUMyRzBPOGZiVHRUOFVjbEs3OQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORThTcEhRdUtmTGltaXFMZzMxVFAxMC1FNWdzRUJwYlAwSDdES0lRY2d3UFpqM3pqelZSRHhpY0pSWUYwN2kwMGV0VE5zUVF2Z2FJQ2pWdGhhRjI2UnRzWVM1N1hKQkFkRngza0FKR1k4OU5hME9VTm5yODByWWV4VWpOb1BYYkZjRk5MOEluYWFjeHhWbDZIcHhnV3BBUWZLWWNmdXVLM1huZy1Cell3UmdTNnlQdDZ5?oc=5",
         "sentiment": "negative"
-      },
-      {
-        "headline": "BJP Leader Manoj Tiwari Files Police Complaint Against Fake Facebook Account - NDTV",
-        "source": "NDTV",
-        "severity": "medium",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcG9ZdzVKZGRWeUN3R0xFdTJJZ3Q5Zm1aWG54Z1Zhcnp3cDZkN3loYXgxaENlZDlsc0ROQkNXYlg1cUM2dUFYRnRmbTlCR0FiSnV6U2xnRGtLRE5zRXpxY0JybEJJYjFsdld5Z2ltTk9Ca0R4TkRZeDdfUEJfRmp0cTNCSm9rNGdSb1FGa214R0JhcHlPVmFYaGNXdUxjei1sZElZNWtpZng1NDB5akRaMjNScTNFLWJL0gHAAUFVX3lxTFBKT3l1N1pfTGpwbnBLOUFiQW5xNFVtLXJ0dlNjV04wdTQ2MzQwanJxZVNxd0NJaVh3TEdoNWE2WnpUUk5yX2l6QVNnZDJFR010VW9yOVdIc0ZIZDFvcEpzLUtXMU9sQTlEOG9FcTJGMy1FQ2l3eDUyaW4xUjdYOTJkR2N3MUVBQ0pVc0Y1NG1xVzk1ajZUNjhZMk5PNFB1aXl0Q01IeXVnUjVhWWRJZ1ViNWttMlNUSk43bEhoWVV1Zw?oc=5",
-        "sentiment": "negative"
-      },
-      {
-        "headline": "Delhi Confidential: Holi Spirit - The Indian Express",
-        "source": "The Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDU0Wjl0amlqVDI1Mlp0ZWxNOURqWWJOU1o4dE1BT01ERlhJaXlETmowR3JxV0ZKY09ibUlwOWd5VHBnOXI4em4tazByS1dMT3NLZzE1SDg4cWpmWElVTWw3LXZBOUJGQUJYbWtfREZNQmdQWTVVVnhNVlVSd1BQU25KOWlWR2ZBWXNmR0VLcDVzUzRiSUhCUXR1TWx6ZGxOVE1SOTJ5Vy0tVVU4OXd0YTFoQ3ljN1B10gG_AUFVX3lxTE4zWFFkNXhFQnloYWZYN08xNEZfbVk5N2lGYVZmZ0Y5aFRCbFpwZmt0bTFlREM1X0JSRFhEM0hwVXdrYjIxM1VQb2RYUG9QZGJQeG5haWg2QWFhaU9Cd1d3TGZmdWs2aGtEZTIyNjIyRTYtVUxqQlBKSVFYMEdaUHdEX3FoMXRyckQzMFNITlNwZFgzT3FmVFEydTBDVGVheThKZGFabUh2VFprX05kcmx5UG1aaU1MNlNIVlMzWWFN?oc=5",
-        "sentiment": "neutral"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -426,15 +498,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 67,
+    "starred_questions": 20,
+    "unstarred_questions": 47,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -442,17 +514,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

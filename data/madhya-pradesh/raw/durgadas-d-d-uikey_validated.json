@@ -4,16 +4,16 @@
     "constituency": "Betul",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1830,
+    "myneta_candidate_id": null,
     "slug": "durgadas-d-d-uikey",
     "house": "lok_sabha",
     "sansad_member_id": 5057,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 60,
+    "age": null,
     "photo_url": "/mp-photos/5057.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Betul",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 1830,
+      "myneta_candidate_id": null,
       "slug": "durgadas-d-d-uikey",
       "house": "lok_sabha",
       "sansad_member_id": 5057,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 60,
+      "age": null,
       "photo_url": "/mp-photos/5057.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:57.518355Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 18487232.0,
-      "liabilities": 1182315.0,
-      "net_worth": 17304917.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1830",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:48.891788Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 16.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.16,
-      "released": 15.16,
-      "sanctioned": 9.12,
-      "expended": 8.28,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:27:28.593196Z",
-          "notes": "Official eSAKSHI REST API — Works: 462 recommended, 333 sanctioned, 281 completed"
+          "fetched_at": "2026-09-02T14:26:43.422941Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:52.768398Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:21:55.104881Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 462,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 54.6174142480211
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:27.002445Z",
+          "fetched_at": "2026-09-02T14:21:53.794434Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Shri Durga Das Uikey takes charge as Union Minister of State in the Ministry of Tribal Affairs - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yNDhyYW9GMThrYXlRaFF5WXdGb0haVUpGM21MQjlYWG54cE9vR3I5N1RGUURlVXhGNXdfVDgwUlZGMGw2dDg0ZzhsaEZia1hQVG9Bb2lrNzB1MUg4MnlBVnFfVzI0REdr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Betul election results 2024 live updates: Incumbent MP Durgadas Uikey of BJP wins - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZmdYejNLeUt1eFVjMmR1MXdKX203clVwVGJmYU13eVN4cm5ZR2d1WDIzcS1Tc3VIcEJjWFZsQl9waTNZdGVGZkZIWWJabVptc0JtWkdBX0QtS1lQNWU5YVd3Nlp3a2NSN3o1MmhGNG5SY0UzcXY1aXpQUlFQQlUwVjJuaW1aUU1jM1dWTUN3NGxBc0lOVkdBWHVscU1KNnoxdDVYMGoza0pXMHFrY3ZadUVQWTlPa2dqR2dwZTBTMEcwdFM1Znp0R0hIRFU2UWpEaHRXcUU4N2x5b2FJdU55bWJjLXYzOUt4WDVCamRhaS1fZkZNbDlVYXA4SnlKeFg5QldpdEZHaHUwcXB4U2lvWUVDLVpQUFRPb1hlZzRlS2RfNXFxdDB1ZC1ZZ1FObXphdUxMSlYyQjRkMWhXeEVKa0h6NNIByAJBVV95cUxOdmVZekJvNWdhZWdTS3RLNkxSZWZmSUZEOG1TeTlyN2FSU0VMUG5OOTllTlh4dXpKV2w3QXJDWXdFd3lRZ3ZPZEtmT3M5d0xtRngxUW1pb2t5MThSRUc5Y0xfQkIzU0VlSW8zbTdlcGlCUkdkSUdJWl9nWEpmQ20tR0p3aHBXUk9wd1dra1lQMjE4ckljT0QxQUx5MUdoN0RmcUNJa3VGbHlyTmFMVTIzQVNDejN3MVBaSmJQUDByM1AyNmRmVmJPME5CUWFhZUpBVjVxYjhjS1hfOFNtS0xOemNRb2xWVUtJbkFvSWhwbXJrZzhaZUQ1RE14OTIyT3l3QlZOenB4T2FHUkV3TTJuV2IzekNRR3lPaEFSVjZsYkNCWmNZZ0lRVUl4VDBFYk14c3daMHhwX0JKMDI1WUhOQlpiVFpkdjVr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Durgadas Uikey Latest News, Updates in Hindi | दुर्गादास उइके के समाचार और अपडेट - Aaj Tak News",
+        "source": "Aaj Tak News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qTWRrRVNYbkpFZHBnaUpVYndGWG5CMVh5cEZrQk1Vdlp2enV3WmEtaEpJWXlla2xOWXVrWEQ2NXVPODNzM2VDM09FTWlvdEtwZjQxUg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Betul lok sabha election results 2024: Betul Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlI5MVdNdGJsSkpWY1h5dVF4TTFWTTFxZVlhbS1xRVNsbVExZEVTZ09VQ3BwUVZ2SE9vSDJ3c2J5aHdUcnVCak5SOWNSVS1oZXU0T0lJUE5oUmx2N3R5eWxVTjFHSnNDOFo3YWw1aWV2VldrcHYtcnVvMHlMeWxzakpyQ244dTdvZzV4WVo3c1BYYmVBSTJZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha Elections 2024 Winners List: BJP bags all Lok Sabha seats in Madhya Pradesh; Check full list - Livemint",
+        "source": "Livemint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ01UMzd1UTdDeUNDTkNjZ3lyTU13U3JhX3g5VGZsSWtJcGJSSXgyV3NYaWhZRnhkZjAtUVhUeWZMem94YTdNbU43X2tFOUIteDl2OXQ4RkN6X3I0NktSLTBrOVRzbXUtMkIyRFU1V3EzY1FLNXh1UElTWEN6YjlaYTZiQWVQS0tRdGN1VzdNcFNiR0VwZXY3c0tZU0R2bzJDOURETHlORXBwRzBJc2lWNlIxS2hPRlVjcThuUGg4cWU5bXpYSVA5T1VPQVNXY2vSAdQBQVVfeXFMTXN3dXNydGp2SE40SWMwSjlVY3ZpeWxjREFRTThwTVd3b2I2eUJUYVJ2blNSd0hvVEIxLWlYdnA3ZUJGdmJHZlhBc2ZWVWNhZ2k5RnBOU253ZDFPU3RyRWtJQzJTeU1mOWdKQ21aUkFfdnJJOWc0Ync4ZzRUVXJTTzR0VTVaR3ZzYm04am1iWDNyU1pMbWVuV015bVREN1dObnAwZlNvMTBuNWlseUR6dDZYVWxBTzVrVHg0ZzU1MktROXdwYzUyaTE0N1lUTldkdUNuUEw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:20:50.390013Z",
+    "collected_at": "2026-09-02T14:27:15.425309Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.844684Z",
+          "fetched_at": "2026-09-02T18:38:07.335410Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.844694Z",
+          "fetched_at": "2026-09-02T18:38:07.335423Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.844699Z",
+          "fetched_at": "2026-09-02T18:38:07.335431Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.844704Z",
+          "fetched_at": "2026-09-02T18:38:07.335439Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.844709Z",
+          "fetched_at": "2026-09-02T18:38:07.335448Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.844714Z",
+          "fetched_at": "2026-09-02T18:38:07.335458Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.844718Z",
+          "fetched_at": "2026-09-02T18:38:07.335466Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.844722Z",
+          "fetched_at": "2026-09-02T18:38:07.335474Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,17 +338,42 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/dduikey",
+          "url": "https://x.com/http://www.twitter.com/dduikey",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/dduikey",
+          "url": "https://facebook.com/http://www.facebook.com/dduikey",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:21:54.877118Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 8,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 8,
       "top_headlines": [
         {
           "headline": "Shri Durga Das Uikey takes charge as Union Minister of State in the Ministry of Tribal Affairs - PIB",
@@ -306,39 +384,39 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Betul election results 2024 live updates: Incumbent MP Durgadas Uikey of BJP wins - The Times of India",
-          "source": "The Times of India",
+          "headline": "Betul election results 2024 live updates: Incumbent MP Durgadas Uikey of BJP wins - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZmdYejNLeUt1eFVjMmR1MXdKX203clVwVGJmYU13eVN4cm5ZR2d1WDIzcS1Tc3VIcEJjWFZsQl9waTNZdGVGZkZIWWJabVptc0JtWkdBX0QtS1lQNWU5YVd3Nlp3a2NSN3o1MmhGNG5SY0UzcXY1aXpQUlFQQlUwVjJuaW1aUU1jM1dWTUN3NGxBc0lOVkdBWHVscU1KNnoxdDVYMGoza0pXMHFrY3ZadUVQWTlPa2dqR2dwZTBTMEcwdFM1Znp0R0hIRFU2UWpEaHRXcUU4N2x5b2FJdU55bWJjLXYzOUt4WDVCamRhaS1fZkZNbDlVYXA4SnlKeFg5QldpdEZHaHUwcXB4U2lvWUVDLVpQUFRPb1hlZzRlS2RfNXFxdDB1ZC1ZZ1FObXphdUxMSlYyQjRkMWhXeEVKa0h6NNIByAJBVV95cUxOdmVZekJvNWdhZWdTS3RLNkxSZWZmSUZEOG1TeTlyN2FSU0VMUG5OOTllTlh4dXpKV2w3QXJDWXdFd3lRZ3ZPZEtmT3M5d0xtRngxUW1pb2t5MThSRUc5Y0xfQkIzU0VlSW8zbTdlcGlCUkdkSUdJWl9nWEpmQ20tR0p3aHBXUk9wd1dra1lQMjE4ckljT0QxQUx5MUdoN0RmcUNJa3VGbHlyTmFMVTIzQVNDejN3MVBaSmJQUDByM1AyNmRmVmJPME5CUWFhZUpBVjVxYjhjS1hfOFNtS0xOemNRb2xWVUtJbkFvSWhwbXJrZzhaZUQ1RE14OTIyT3l3QlZOenB4T2FHUkV3TTJuV2IzekNRR3lPaEFSVjZsYkNCWmNZZ0lRVUl4VDBFYk14c3daMHhwX0JKMDI1WUhOQlpiVFpkdjVr?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Political Profile of Durgadas (d. D.) Uikey, Bjp Party, Betul, and Net Worth - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT2FLZUpjb3VSU3JJM1M2N2ZiTmhCZXlzbEY2cW1xdlc5OFlKUlp6YURLYnRadWpMRk1tWWFlaDVqcmloVEpQMzBYQkV0ZG04eXBJdHhXdUVFYzBYUDdKOE1EeDFhQ0dQcXNDQzhhLXF0VU1VOHVsMGZsaFhSeTFaQ1UycXlYcnpoTEphenlaMVdNd1hNUDVDdm1ocENVTU83XzJzOWlUQWtQbzVmajVBSVcwc2FCOWk2NnRHdFJSdlhYMHdVX25MZWxjQ0Z0QUFlelZUdGtTRENtb1BqR0JqS0JsWGQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Durgadas Uikey Latest News, Updates in Hindi | दुर्गादास उइके के समाचार और अपडेट - AajTak",
-          "source": "AajTak",
+          "headline": "Durgadas Uikey Latest News, Updates in Hindi | दुर्गादास उइके के समाचार और अपडेट - Aaj Tak News",
+          "source": "Aaj Tak News",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qTWRrRVNYbkpFZHBnaUpVYndGWG5CMVh5cEZrQk1Vdlp2enV3WmEtaEpJWXlla2xOWXVrWEQ2NXVPODNzM2VDM09FTWlvdEtwZjQxUg?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Betul Election Result 2024 LIVE Updates Highlights: Durgadas (D D ) Uikey of BJP Wins - News18",
-          "source": "News18",
+          "headline": "Betul lok sabha election results 2024: Betul Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY3VNbDM3ZGRJNi1OejNGWC02WW1iSkRtNzlWS0hGa294Y1pTM21BMzlqcXpnVUxwalg5bXBIQTk5dTI2Z19QUHMyQmVZajZDU2tQUXhSWnNXZGtIN2hZQXVlS0dHUzV5a3BKeWZKNl9CLVhQV3RGOF9WQ1BNZHhKcy1lSXpXZmVnVl95aVRKNXc5Um9iZzRBVzd4c0tPMFkxNWtHMmZEYkl6R2pRZHpxZV9ncGtDTGVXN01iaHdxNE1kZUVZSTh4cGVSNVZ5b2RVVllhaktmSWJxSEtMRUFr0gHkAUFVX3lxTE1uZ2tGNUZxbmF4SU00RHNjR2xrbF9DVGZRcVpjakpnSUU3RFFrTzNxZEY0aEdXVDZ5aGtEWG5qRHh6OEtzVllOOXpLdHZKWHhOWjc2VmtGTjlPeHNaeDRZcWJPU0owQ0hCR2ZJN0QzRTRxVi1xMGRNWXluMkg5S01TcWl5SFRieUJmaEl6d0VOdGpPNFRPZ2hub2pIbG15cFBlbUx0VnlLVDZER2thV2NZSWNHVW43RlU1YmtXakNfQUlMR2xNQ2Z6VXpHRjBCejY5cjJTMGdtSFZfSlBxMjRESEdiYg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlI5MVdNdGJsSkpWY1h5dVF4TTFWTTFxZVlhbS1xRVNsbVExZEVTZ09VQ3BwUVZ2SE9vSDJ3c2J5aHdUcnVCak5SOWNSVS1oZXU0T0lJUE5oUmx2N3R5eWxVTjFHSnNDOFo3YWw1aWV2VldrcHYtcnVvMHlMeWxzakpyQ244dTdvZzV4WVo3c1BYYmVBSTJZ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Lok Sabha Elections 2024 Winners List: BJP bags all Lok Sabha seats in Madhya Pradesh; Check full list - Livemint",
+          "source": "Livemint",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ01UMzd1UTdDeUNDTkNjZ3lyTU13U3JhX3g5VGZsSWtJcGJSSXgyV3NYaWhZRnhkZjAtUVhUeWZMem94YTdNbU43X2tFOUIteDl2OXQ4RkN6X3I0NktSLTBrOVRzbXUtMkIyRFU1V3EzY1FLNXh1UElTWEN6YjlaYTZiQWVQS0tRdGN1VzdNcFNiR0VwZXY3c0tZU0R2bzJDOURETHlORXBwRzBJc2lWNlIxS2hPRlVjcThuUGg4cWU5bXpYSVA5T1VPQVNXY2vSAdQBQVVfeXFMTXN3dXNydGp2SE40SWMwSjlVY3ZpeWxjREFRTThwTVd3b2I2eUJUYVJ2blNSd0hvVEIxLWlYdnA3ZUJGdmJHZlhBc2ZWVWNhZ2k5RnBOU253ZDFPU3RyRWtJQzJTeU1mOWdKQ21aUkFfdnJJOWc0Ync4ZzRUVXJTTzR0VTVaR3ZzYm04am1iWDNyU1pMbWVuV015bVREN1dObnAwZlNvMTBuNWlseUR6dDZYVWxBTzVrVHg0ZzU1MktROXdwYzUyaTE0N1lUTldkdUNuUEw?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (8 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -384,7 +462,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -415,8 +493,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -436,12 +526,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 18,487,232. MPLADS utilization: 54.6%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:49.845429Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.336642Z"
 }

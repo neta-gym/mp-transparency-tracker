@@ -4,16 +4,16 @@
     "constituency": "Medinipur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 7950,
+    "myneta_candidate_id": null,
     "slug": "june-maliah",
     "house": "lok_sabha",
     "sansad_member_id": 5816,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5816.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:32.276857Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 66018642.0,
-    "liabilities": 17920738.0,
-    "net_worth": 48097904.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7950",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.793395Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 46.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.57,
-    "expended": 2.96,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:46.611257Z",
-        "notes": "Official eSAKSHI REST API — Works: 36 recommended, 21 sanctioned, 4 completed"
+        "fetched_at": "2026-09-02T15:25:58.523791Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:22:18.744141Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:22:18.742470Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 36,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 20.13605442176871
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 55.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:35:41.524376Z",
+        "fetched_at": "2026-09-02T15:22:18.741805Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "NCPI MP June Maliah meets Amit Shah, says meeting renewed resolve to transform Midnapore - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSXVBdk1UNnRaU3I3QnI5VXRfbnEzYzE2NlFCQVJIVTZsLWVzWktZVWlKbS1OT0xsS3A5RlU4NVFkQlhKUVlyOTZERHNtNTBPdGNjZS1ObDY5LTA0cW5FN2VyTGI3ckdnZjNSMkxCX19PWWE5WlNQaGpiVWkzclY0Vm5pMVFNcTFUOWR2VmthOFVyRUZqMEJ6M2tSZXh0MUVha0lMcWlGTDdNVWJoYzdoaVlsWVNRQTl4ODFLakxTNXJCdy1QZExYcFdzaVc4QnI4dDU4N0xmQTZLekhGb1V1dVR2eHB1dw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "TMC's 'dissident' MPs Deepak Adhikari, June Maliah attend Bengal CM's administrative meeting - deccanherald.com",
+      "source": "deccanherald.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUpTTmxXTm13bnptcG5WUU9aQUhQbDhKUkJTMTVNS25HdG9YSTBMYXptZ0p4VFRnY29SUkdPaHNmd191WVN1REFxa19NcXptSWdhZE1QdERRSlZ2clVKUkdLWkZ4ZEtxOG9yemFPOTRXMGZrUndrc1NTV3VMT1RKVGlnQzVpaUpLdndkQjg4YmNvQlJROVFUWEx5QTh2VE1DT1B1eWFtYTNOdERDRmpVTXdFY0Y0VXJvUXkxc1Y1dHFrMjdpaHcwSnJmbW5BNnFRSnJIM3VmLVFJdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "TMC cracks widen: MPs Dev, June Maliah attend Suvendu Adhikari’s meeting in Purba Medinipur - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNm1zR012WEhhNUhKYm1KVWc5bVpySUR4dF9MSVEwWDNPQ29rX0pibHVIYmZ0WFBHLVRrT045QzFKTjRZVndBTWZhcXZiZFlGbmlnQ0N5MGx1OVBoQWdaVXo2TUJRZU5RRGl5OUF0VDJMc3JvZ1pwcHZ5eEVVQmZyMFdvN2IySmlmN0pUVUY0N3BPaDg4V3JwZDJqTk1fRDZ0eEtEMlRFbnlyWm5CQzhMeC1xZkk0ZHdIcjBBVlk1TlNYWmtNM0pubk9wMGlibGxpZ01YYktmUdIB3AFBVV95cUxOTTVZVmFubzhXTmpMa1ViV3JoT0JRZ0ZmTmhSZUlEZ2xMVEFsSXhRdGdLTDBXazFlSzhWdE5Kc1hHam9wYzJXLXZoLXBnRUdiUmhkbVNQVFg2Ny1kTGF3c20wZlpzMVJVZ2J1QTFEeU00SEdMNVBWQXRwMVV3RXNiUkN0d08zd0RuQzNqNXVVTVZXdU9GTUwtUi0wOWtEOUluWXNaaVp3NW83dC1nUGZpaXZIVWhZVEJ0UXFrRTc5dzYyYXVfTk4talJmUWR1Yzl0c3AxSThGM0VMWnVw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "TMC rebel MPs Dev, Maliah attend Bengal CM's administrative meeting amid party crisis - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOU9oVV93b1VLbnBXaTFTbUlKYjF1enZSYzJycUJfd3F1eXdhc2NHU1l6aDA1dzg3MHBzcnFPVVEzM1NURUxkTWJBMHc3Q09MZzNqWms3aElCR044T2p2YUZRTjVDdGVCVjljclRzTk5mMVhqd0VRcmlEUGlUc0ZjSXlhT2hGY0xLSGhVT2FDbUwzZFhjU0hlaXdOTDY4WWJjUndnZmdQSUVEd3RVMWN6Ni1rOFQwRk9ieEROVUJtcW4zZjRFaFVQZXYxUC1qQ3dPS0Jpc0FmdGhyaE82aXJUSdIB7gFBVV95cUxPVHZJbExPVmZzV21CUy1hU3ZhZGRJdHZxcURLUjdEcldlUEVkQ2tMdW80aHpGTkJCaVhzaHdDV19FNEdWZlQ4Zl9mODc3T09qRjZqU1k4RXFucEF0a2tLcmRsalJiV0plN2FNc29VeVFjcEpBZDA3SDBSemhpdEttYVVfZWNaMlh1eFBPaFAyQmRZZUdhd2dqU2trZEVkWW51MFpPaWRQWkRvSWVHYi1VSUFGR2JzT2V6UnZFTkMtcDY2YTliT0QtdXhEcUVkNm53dmVIdnRReUc2Y0I3TnMxMktJTk9aNmRHMS1FUUNB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "TMC 'dissident' MPs Dev, June Maliah attend Bengal CM's administrative meeting amid party split - telegraphindia.com",
+      "source": "telegraphindia.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa2pOdVhINHFISjB5NUwyRDUyZWxUcENvNU82anpXY25IQXVWMXp0SlpTeFJad0FySUoya1lNVkRsMXRoTEozTDhUNFd3VWxHdS1LUW5KM3B4ZXhwWDliMld5NlprWDI5QkNFTkFfQkUxSm5DeGZ0dG5ramJSUFhvQWpNTlNMNWEwTFhFdTlRZW43SE1jVnZvSFZ4TDM4SVRIdVNBdzZkdFBlWktwVTM2bUFSSE9yTWxlc3pxUGkwOWNxc1hUQVlYd2gwQmJhaWZrSlJCZkdJRll5OUprcklN0gHkAUFVX3lxTE93d2h2UlN2cEd5Yk9qcGxSaEpkVU5pZzN2VnhqZnpCWlNScTNibi0xZ1Jfa25VMXNvMkkza3N0ZXBTZ3FtSGQxNExHNXRzVEgxZmF2YzBsQTZrZUY3TUhrc2llb1lfNnNCRjdxQWJMSWRjSFEwZzd1N3pjT1MtSGJTSzZrZTctRFkyWDV2a1hjU3ZseXkzbk9oempmNFVzbVhtZ2lPWlhaX2hHTTNYRUZZVDZKMDhiazl6V3dOVll0TkQwdHRscC1ubUVUUVBDczRNcGJLMHhFZFlBQTAybkIzQzc5VQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:36:18.773881Z",
+  "collected_at": "2026-09-02T15:25:58.524386Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.674753Z",
+        "fetched_at": "2026-09-02T18:38:12.306696Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.674761Z",
+        "fetched_at": "2026-09-02T18:38:12.306707Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.674766Z",
+        "fetched_at": "2026-09-02T18:38:12.306712Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.674771Z",
+        "fetched_at": "2026-09-02T18:38:12.306718Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.674776Z",
+        "fetched_at": "2026-09-02T18:38:12.306724Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.674780Z",
+        "fetched_at": "2026-09-02T18:38:12.306729Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.674784Z",
+        "fetched_at": "2026-09-02T18:38:12.306734Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,28 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/JuneMaliahMLA/",
+        "url": "https://facebook.com/https://www.facebook.com/JuneMaliahMLA/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:22:20.945171Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,43 +334,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Bengal polls: Mamata holds road show in Medinipur town - ThePrint",
-        "source": "ThePrint",
+        "headline": "NCPI MP June Maliah meets Amit Shah, says meeting renewed resolve to transform Midnapore - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdnZEX3RrNmt2MW5lZFduOFJXemRublRoYU5OcmIxaGdmU0ZHd21meWNtbVpwcEJLTUlwbnV1SEttQVpRNDFtNWpQUGliek8zWkxYTGRjb2JTbHBMR29xVXM1a3Z1bUNOZE9ZTWozeGw0NEJHRUsydEo0Wk5jYTF4Zm02OVJmcXozR1NhY01lUll3UdIBlwFBVV95cUxOLUc2YW9Fb1RfaTdIWU82S2wybmtUQ3ZTZlVFemJfY0N1aFB5WmpCZWJ2SlBCbW1za2R2UHFlQnowNHBleWRsT1dzVXBWNEdJSk9Da0NRNVlNdGo1QmgxdV9XT2pHY25ZeUlzR2RkeExQbWlsSEdVZ2lMOVBmUnNROU1Dc09UUUlURWxLcGptbkotZVBuSDRZ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSXVBdk1UNnRaU3I3QnI5VXRfbnEzYzE2NlFCQVJIVTZsLWVzWktZVWlKbS1OT0xsS3A5RlU4NVFkQlhKUVlyOTZERHNtNTBPdGNjZS1ObDY5LTA0cW5FN2VyTGI3ckdnZjNSMkxCX19PWWE5WlNQaGpiVWkzclY0Vm5pMVFNcTFUOWR2VmthOFVyRUZqMEJ6M2tSZXh0MUVha0lMcWlGTDdNVWJoYzdoaVlsWVNRQTl4ODFLakxTNXJCdy1QZExYcFdzaVc4QnI4dDU4N0xmQTZLekhGb1V1dVR2eHB1dw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "June Malia wins in Medinipur after a tough fight with Agnimitra Paul; Set to make her way to the Parliame - The Times of India",
-        "source": "The Times of India",
+        "headline": "TMC's 'dissident' MPs Deepak Adhikari, June Maliah attend Bengal CM's administrative meeting - deccanherald.com",
+        "source": "deccanherald.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWlk1M3BQZmVfVzFlOGRVQkp1Ymg3cG5TRkRkN04waWN5cEJRbzBUbHZyTHdxNy04TldoWEItTlBOTTJSNEowU3VHZVZwQkhRRmdrcjA2VGhRLTNILUZQT18yM2Y1RjNrcjVBS3pXTV9pUW9FcGVXcWRIU2N6QzZ4REZ3TFNZcVBUemZGVTBnb2pIVDVNVnB2d1pCMkZsUTd0WDY4eWNQNWlQYXRjZmFwVmhKN1EySnEzNDNMN043LTZkUDBHSFUxQ1NreU1QZnI0X2kzTFlBTEhPSFNtQTdJYm5UTkRVa3FIU1BBbmhsV0VUaTlBODBBYXloVDNRSkN6c3ZBeG91Z1A3MmUxd1IzUmp5VFZVS3ZuSEY3QmU0U3VEcllhand1Q0RR0gGvAkFVX3lxTFBDNXVqaDF0ZlRidm4xWDQyTkZOSlM1dlRvS2oyVkRQR0NETXRqaG1Kd1FMZmNEaXZZN1A4MHBBckVIaVBuVHB1TEVRNkR2bkEyM3p5RDZXQ1N6NTFfQjlkNC1XQmRmQ0l1UVFYcmtobHNhZkYzbUJ5LWo2REFSVXg5Q080bFptSzdaRDYwNi1QdkZSRWhWa1V4ZFFraTRjdm9sNTA2UVkxODI3WDVZZVVEdmFmVVBLUUl2YXZ2bzZnNDAtaDlMSmdUODJPSEtlMnFzRElJdklnam12TlRkSUlDRHdGOURIWWNOMlRzU18zMDRkb254NzY1bGw3VmZZbkZnVkZJd2pENEhFeEw4ZWVFUjk1TE05eEhjSTNQU1JFbktBZi0yZnl1UkZ2UmFVdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUpTTmxXTm13bnptcG5WUU9aQUhQbDhKUkJTMTVNS25HdG9YSTBMYXptZ0p4VFRnY29SUkdPaHNmd191WVN1REFxa19NcXptSWdhZE1QdERRSlZ2clVKUkdLWkZ4ZEtxOG9yemFPOTRXMGZrUndrc1NTV3VMT1RKVGlnQzVpaUpLdndkQjg4YmNvQlJROVFUWEx5QTh2VE1DT1B1eWFtYTNOdERDRmpVTXdFY0Y0VXJvUXkxc1Y1dHFrMjdpaHcwSnJmbW5BNnFRSnJIM3VmLVFJdw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Medinipur Lok Sabha elections: BJP's Agnimitra Paul vs TMC's June Maliah - ANI News",
-        "source": "ANI News",
+        "headline": "TMC cracks widen: MPs Dev, June Maliah attend Suvendu Adhikari’s meeting in Purba Medinipur - The Statesman",
+        "source": "The Statesman",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa01pY2NSYnZveGFWZklFSjNaQjJPcko5OVpIY2duT1B5cXZvcWFkRHRIM2lIaTRUQ1J2ZFhIN2t3THFkaFoxcm9uT2dmTVZqWDQxY01UcWhpSVhGSzdhcUZCeF9EM19lYnplNll5alFSNkhmdE1ZRkQyVG1iWEZFd2VOLTVYQXplbnlFbVE2Q2xTb1AtUkJ4TUVhd0t4Y2NTZDZkVmxReUFldWFsMGp0SHNrc1RTeFdlN24yMUNVZE13dDdqSVNvTA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNm1zR012WEhhNUhKYm1KVWc5bVpySUR4dF9MSVEwWDNPQ29rX0pibHVIYmZ0WFBHLVRrT045QzFKTjRZVndBTWZhcXZiZFlGbmlnQ0N5MGx1OVBoQWdaVXo2TUJRZU5RRGl5OUF0VDJMc3JvZ1pwcHZ5eEVVQmZyMFdvN2IySmlmN0pUVUY0N3BPaDg4V3JwZDJqTk1fRDZ0eEtEMlRFbnlyWm5CQzhMeC1xZkk0ZHdIcjBBVlk1TlNYWmtNM0pubk9wMGlibGxpZ01YYktmUdIB3AFBVV95cUxOTTVZVmFubzhXTmpMa1ViV3JoT0JRZ0ZmTmhSZUlEZ2xMVEFsSXhRdGdLTDBXazFlSzhWdE5Kc1hHam9wYzJXLXZoLXBnRUdiUmhkbVNQVFg2Ny1kTGF3c20wZlpzMVJVZ2J1QTFEeU00SEdMNVBWQXRwMVV3RXNiUkN0d08zd0RuQzNqNXVVTVZXdU9GTUwtUi0wOWtEOUluWXNaaVp3NW83dC1nUGZpaXZIVWhZVEJ0UXFrRTc5dzYyYXVfTk4talJmUWR1Yzl0c3AxSThGM0VMWnVw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Video | Meet Our MPs: Trinamool MP June Maliah On Her Political Journey - NDTV",
-        "source": "NDTV",
+        "headline": "TMC rebel MPs Dev, Maliah attend Bengal CM's administrative meeting amid party crisis - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3VnUG1RclNMVGFFWFFPckhRZUl3NDZpYVdzSDczc05tQU8xVVpGQVZEWU9wNVRkMUo2V3llSE1UR3VKMm1VZTU3ZVBpX3RXU1FEWjgtMFRCTWp2QVZIR1N2Z0dWdXhXRUlVdlhXM3lEVmVtOG12c1BTZmItb1M4YmhOUXZxN0dwZ2JlaVdJTTFvamwydTU1eldoQ0U?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOU9oVV93b1VLbnBXaTFTbUlKYjF1enZSYzJycUJfd3F1eXdhc2NHU1l6aDA1dzg3MHBzcnFPVVEzM1NURUxkTWJBMHc3Q09MZzNqWms3aElCR044T2p2YUZRTjVDdGVCVjljclRzTk5mMVhqd0VRcmlEUGlUc0ZjSXlhT2hGY0xLSGhVT2FDbUwzZFhjU0hlaXdOTDY4WWJjUndnZmdQSUVEd3RVMWN6Ni1rOFQwRk9ieEROVUJtcW4zZjRFaFVQZXYxUC1qQ3dPS0Jpc0FmdGhyaE82aXJUSdIB7gFBVV95cUxPVHZJbExPVmZzV21CUy1hU3ZhZGRJdHZxcURLUjdEcldlUEVkQ2tMdW80aHpGTkJCaVhzaHdDV19FNEdWZlQ4Zl9mODc3T09qRjZqU1k4RXFucEF0a2tLcmRsalJiV0plN2FNc29VeVFjcEpBZDA3SDBSemhpdEttYVVfZWNaMlh1eFBPaFAyQmRZZUdhd2dqU2trZEVkWW51MFpPaWRQWkRvSWVHYi1VSUFGR2JzT2V6UnZFTkMtcDY2YTliT0QtdXhEcUVkNm53dmVIdnRReUc2Y0I3TnMxMktJTk9aNmRHMS1FUUNB?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Medinipur Election Result 2024 LIVE Updates Highlights: June Maliah of TMC Wins - News18",
-        "source": "News18",
+        "headline": "TMC 'dissident' MPs Dev, June Maliah attend Bengal CM's administrative meeting amid party split - telegraphindia.com",
+        "source": "telegraphindia.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObDVSM0Y3OXlpcGJCU1JKTE5iZUdoZjJhcENMX2VNVEhwSWVOTWxBbUJxcEtDd0ZDSU5ldmp6OEhXbWk3TTdneFo0WWlKWG43RGRIMkhtUkQtdnB3X0t0RTJSZ2xUcHl6anNjT0RsTzlQRFlFdndmblZLZHk5c1FOZmNRWWU3Q2NCa2pCYUNMcnhvV0FPa3N0bE9QQXhXblA1MElJdjYyRWN0NjE5aXhUYU0xdkRBOThOMHl1WnM0VGhNMkk0eXV3bzVhTlQyVGpVQ3Qyem41TXdUZUZnZGlsbktyMlnSAeoBQVVfeXFMTlpqc29qRnB0YnJRajBsWnptWWdOLS1wOFFhX01Qb1BTMDVTcUpFd1BUa1lheDZsSWJhWTczX3BHeDlXbHJMX3hIaVdTREZRU1haOWtJRm9Cc0dDckdYTVNESUU0VTRqVkF6RFE4c0NXM3ZYWDdmdFdIMGkwTVl3dUZWcnpFWm1TY3k2WFl3bW1GTVFHbE5ic1dRQzdaUFNGRmQwQjdnNlczTlFEWnRaZTZleU5jb2NKSmlGT2Z2YkFYQlFFRFhxYzlJaVJrLWdlQXVXeGQ4NjU5NVk3em1iU1ZUVmpvZG9hXzhn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa2pOdVhINHFISjB5NUwyRDUyZWxUcENvNU82anpXY25IQXVWMXp0SlpTeFJad0FySUoya1lNVkRsMXRoTEozTDhUNFd3VWxHdS1LUW5KM3B4ZXhwWDliMld5NlprWDI5QkNFTkFfQkUxSm5DeGZ0dG5ramJSUFhvQWpNTlNMNWEwTFhFdTlRZW43SE1jVnZvSFZ4TDM4SVRIdVNBdzZkdFBlWktwVTM2bUFSSE9yTWxlc3pxUGkwOWNxc1hUQVlYd2gwQmJhaWZrSlJCZkdJRll5OUprcklN0gHkAUFVX3lxTE93d2h2UlN2cEd5Yk9qcGxSaEpkVU5pZzN2VnhqZnpCWlNScTNibi0xZ1Jfa25VMXNvMkkza3N0ZXBTZ3FtSGQxNExHNXRzVEgxZmF2YzBsQTZrZUY3TUhrc2llb1lfNnNCRjdxQWJMSWRjSFEwZzd1N3pjT1MtSGJTSzZrZTctRFkyWDV2a1hjU3ZseXkzbk9oempmNFVzbVhtZ2lPWlhaX2hHTTNYRUZZVDZKMDhiazl6V3dOVll0TkQwdHRscC1ubUVUUVBDczRNcGJLMHhFZFlBQTAybkIzQzc5VQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,17 +420,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 55.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

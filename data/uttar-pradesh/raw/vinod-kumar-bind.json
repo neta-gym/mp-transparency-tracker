@@ -4,16 +4,16 @@
     "constituency": "Bhadohi",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8081,
+    "myneta_candidate_id": null,
     "slug": "vinod-kumar-bind",
     "house": "lok_sabha",
     "sansad_member_id": 5607,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/5607.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:14.594759Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 105766111.0,
-    "liabilities": 29313481.0,
-    "net_worth": 76452630.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8081",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.294862Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 59.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.24,
-    "expended": 5.85,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:25.859347Z",
-        "notes": "Official eSAKSHI REST API — Works: 543 recommended, 542 sanctioned, 269 completed"
+        "fetched_at": "2026-09-02T16:47:40.201150Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:43:32.546670Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:43:32.543646Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 543,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 39.795918367346935
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 75.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:56:32.783525Z",
+        "fetched_at": "2026-09-02T16:43:32.542585Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Bhadohi election results 2024 live updates: BJP's Vinod Kumar Bind wins with over 4.59 lakh votes - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOU0tKdThfOUpScUZnM09jSVhyQzB3QnBtOGhSZ2M5WU1rdFpNOGlRZFVDemtVZk9kR2hqLUx3bU5welRkOXRnWkEyRE9rcnNCQjU3TTh6X1pvamktTW5fU0pzYUdKNEJocEtGeVlIRU1vLXkzRGtEaWMtMEF0UnpKX0w1VTIwWHVTUjBZeG16bXUtNWxaNlB3cThrWDNyR1d0NmxsT3RIbzZMNFFPOWhxVmZ5bFBPWFBZeFNwU05IOUstQTh2ZnBDVFFrUDJUQU1TWnoyRTZSbmk3a0x4djByZno1YTl0RzZ2U2RzZGpmdGNIa3h4c2VhZkYxVkdsRnBaWW5nRVpxdjhZMG1qdGg0SEJFTWU4N3lJVHcxN1pYRTRDUWtrUlhtb3ZvVdIBsAJBVV95cUxNSTFsT3NXRGxJYl9lZXhCRVJueWtYb1Z4Vl9ZRlhBQXkxM3dRcmFvLXg5MHhWZDZwWFVXODVpazFMc0xPUkxwMld6UU1FNk5aaXU2RTRqV1J3QktaeFFhd3ljVlBlTnVlNklBVEk4MkNCeGtGUXA1SFpwalZUUElJR0o0NWowMEhCWFMyekZxU2NQaXJtVklfWTFlakxDZmtya2tPOWFzeGxnbWlxbXdJM2N5WDR4RTk2Z0xmR2w4cnBTQ3dubWRYNktfM1JOQmpyZHRBQmJhMHd5eUlQQW9WV3Vfc01HZ0g1c2wxUy11WnV2TndQNnJrLTU2NlluZnpoUURaV29XeXAwMk9aUmRmdHhueW5tQ1BjZmtZY3VKLTVkUlZMdmZsUGJ5VDMydjhU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dr. Vinod Kumar Bind , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcmdMRTg2ODdYZVlmZDhIdlZpakxoMFNzcVlEOFpuV2FKdE1XNjR1dlFlNXg4bEptQ05SZVY4R2tRNEpZNHg5QlhBeWh1cmwteXNNM0FKR0pMLUlNNHpZeWVRdldVc1p4Rk9ldGFSZjlYaHhuVTFPREZkVXZ1ZnB4Q1hManNYVTB0aXEwQw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP Fields NISHAD Party MLA On Lotus Symbol From UP's Bhadohi - Swarajya",
+      "source": "Swarajya",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd25nMWhrX0g3YldLbVBWMkpIZ2RjX2lGU2VVVWNPZ0FGMjd2QW5BVXVLcFBEUzhPUXMzLUlaSmZLQ1RpUUF1TWZOTVhaWXFlNWpWTlNOUTJONVJpbldZd1VUWjBva2duYVNTb2FjM3E4Qm9NbWx0UGZiMlktdDl4c0FZRHZOOGhNeENDTDV4SmRRcjdmODdrNVNlUdIBqwFBVV95cUxOc2JCYWhrTkFnZmtOVGYxNk16VDR3R1JxNS11b3ZfOElENHJod0p6OERldk1Yd1AyanhBRm5zZ3JvQUhwTWx1TzFQWkcycklONVo3R0NiR0hSSVA4V2F0RXczcU9nYmNwWVpCR2NRdG55XzNKd05PSllkX1dkSWpyZG12bm50a3dxU1hYckl1S2FZRXRkLTNrbGRLY3ktNDU4RC0zeElOYjZlM0E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Will TMC be able to gain a footprint in UP’s Bhadohi? - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjNPdURjbW1TUkpDS000STMxeDI3VWlFZkdwTlJZNjlCX0gxMmZoYlR1Z1JweU5pRG1BZjFiaHBXanI3YlB4VGRSdE96OFJQMWVRVUVnbVBMamY4d3U3TjZWVXl5NmYzOHZ3SWhvZTJIeDJtclliRDBZb1ZjUjdiMUZ4eG9pYmdESWdmTVFzODRrU2Z1dmJoN3E3ZlVUTE9XVWVqbdIBsgFBVV95cUxNbXpLQ3VLUmZZWkdnYlJSaGpaMURaWVhiZjQweDhBdDZOSVpQRlROYndWdDNTVWZqVlpLWm1BZk83NFE3MGFrOTE2V2MxN0JWUjNJUWpNaVNoMl90QnR0N3pUNW1SN2FoMW84UndlS2JvMTVxOFA5STllUlV2YzhGMVdWSjJ4ejJQWWpiUW1VLVd2WHN6NjVXM0hHeTI3VlNlaW4xY3htNzliRzBwVE5KN1lR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "AlTC candidate Lalitesh Pati Tripathi moves HC challenging the BJP winner - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzAtMGRfWEd5TzEtY2xuaFhQckJuM2lpTnBvSHB3djlUOWt4bFI2T1BrNjliVzB3UXVJd3R5dmg0S283U3lsUFJkZDRJN0FYb1ZyZElyOUhNdnBVVjFQRzE0c04tS3QzLW05VmdEY0NjVklKYmNwODBON3AyX3AyRlNiOVZqMUxKNDhzMUdGY2F4QUZ3NTZmXzI5WWJ1aUNkMkRzVDBsS2drcUROVC0yQjg1RVpkUkl5cW45dGVVZ2ZYZ9IBxwFBVV95cUxPYkFZMjFfWGVpX2VWNTI0UEMtSnhhRkxfZ2Y5VFkzdjdpZE1yaERrNUdpZzEzajlMbjNFb3V0T3dvdHRXWGZqMFJLd2FoeS1DMVJCLXd0eEszdmhTVkR4bVZFejZhZHY2RVJibVdRaDBCMndKQkQ5VVlGcF9XODltUWY5eWh6d3NrRDJZZEdySWQzdUd5Yko5aU0xdkpiYlUwSGRyaUNiMjZrMkVIbnlyemxNTm1TbWVnZjNPeDc5VGFJQ3BLNlZv?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:56:55.550211Z",
+  "collected_at": "2026-09-02T16:47:40.202151Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.369681Z",
+        "fetched_at": "2026-09-02T18:38:11.950630Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.369690Z",
+        "fetched_at": "2026-09-02T18:38:11.950641Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.369695Z",
+        "fetched_at": "2026-09-02T18:38:11.950647Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.369700Z",
+        "fetched_at": "2026-09-02T18:38:11.950652Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.369704Z",
+        "fetched_at": "2026-09-02T18:38:11.950663Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.369709Z",
+        "fetched_at": "2026-09-02T18:38:11.950668Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.369713Z",
+        "fetched_at": "2026-09-02T18:38:11.950673Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.369717Z",
+        "fetched_at": "2026-09-02T18:38:11.950678Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -296,27 +349,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Bhadohi Election Result: भदोही से BJP के विनोद कुमार बिंद ने दर्ज की जीत, TMC उम्मीदवार को 44072 वोटों से हराया - AajTak",
-        "source": "AajTak",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWU1RbmVmeDAzWHBXbWNsVFBtOG5uZkRsNGhvOUlVV0hLRHJ0clFFR0ZSVHhzMWdPZjdndGFtSl93aDRJREt1OHdaQ2VsdENqOGczcENLZmFwWnQ3UnJ4ZDNUM1RuT3BkMlRrUGg5cDBycndwRVN5Y3ZkYUVIMnBCQUd0NUc5NEZEVVFVeFhUOGZjWEp6cGNIdnNELXhTU1RHb0ozZWVIbkFZZVNzS3l6VHMyd0o2eWxiMFB4djY0Z2VqRWxWWnA3ZnhWX3JvY2Fxd1pDWGxGUWFPMDN1eEdicHI1MDBJTV85cGZ0ZVhjTjRvTjDSAfgBQVVfeXFMT1NVVEpuMThRSmRlRlFMcTVXNktCMk8zUEJvZ1d4LWNJZkRib3J3cEJSNGlraW1MVElncUMxMGZYWERlRDdRUzQ4TWJhcGUzOU9jckEtekJrVUp6Ujk5UkFSWm43dXQyaHdFaGVMX2tyWG1nQWFCMV9XLUR4S2FENTJUcXFDVVRkSExZVUd6Wlc0eEMxd0FwbElwMDhsMG1xbUF0OWpoM3lnWDJwSzRKc1BlVU1fOW9mQ2EydG9vX0Nfd1Q1UHpYQ0QzZjQweVJuT3ZsNTNnQWRiSHN4MnFiV01lenZ0ajU2WDRXZThsa2x4SlRrbHRoTzM?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP Fields NISHAD Party MLA On Lotus Symbol From UP's Bhadohi - Swarajyamag",
-        "source": "Swarajyamag",
+        "headline": "BJP Fields NISHAD Party MLA On Lotus Symbol From UP's Bhadohi - Swarajya",
+        "source": "Swarajya",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd25nMWhrX0g3YldLbVBWMkpIZ2RjX2lGU2VVVWNPZ0FGMjd2QW5BVXVLcFBEUzhPUXMzLUlaSmZLQ1RpUUF1TWZOTVhaWXFlNWpWTlNOUTJONVJpbldZd1VUWjBva2duYVNTb2FjM3E4Qm9NbWx0UGZiMlktdDl4c0FZRHZOOGhNeENDTDV4SmRRcjdmODdrNVNlUdIBqwFBVV95cUxOc2JCYWhrTkFnZmtOVGYxNk16VDR3R1JxNS11b3ZfOElENHJod0p6OERldk1Yd1AyanhBRm5zZ3JvQUhwTWx1TzFQWkcycklONVo3R0NiR0hSSVA4V2F0RXczcU9nYmNwWVpCR2NRdG55XzNKd05PSllkX1dkSWpyZG12bm50a3dxU1hYckl1S2FZRXRkLTNrbGRLY3ktNDU4RC0zeElOYjZlM0E?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP's Vinod Kumar Bind against TMC's Lalitesh Pati Tripathi in Bhadohi known for carpet industry - ANI News",
-        "source": "ANI News",
+        "headline": "Will TMC be able to gain a footprint in UP’s Bhadohi? - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcFhiSklETFRqUlBpc0JPWHNvSl9JbFhmOFRTakF6T0dLdUpQaEJjTmZGN2F6a3ZhRmJSc2M4RWZlc1ZuT1JRUHVZdkdEZXlIaUlrX3FQNkF6NFM4dVhrYU83WEgyM0NGYWM2cTd4R3pmMk8tQXlEQ2RjVC1ZZUlFcVYzYXllQXI4ZFZSWnQzYzBlYWd6N04wdWcyc1JwSERpdmRKRGRseTNMaTMzdFZlYnFzSFp1OG5tYWtrWmU1WXZOaVk3UVN0UGpuWGxSbllsX0dOSmJROTJZV3lMbERtV3docENreWJPVVE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjNPdURjbW1TUkpDS000STMxeDI3VWlFZkdwTlJZNjlCX0gxMmZoYlR1Z1JweU5pRG1BZjFiaHBXanI3YlB4VGRSdE96OFJQMWVRVUVnbVBMamY4d3U3TjZWVXl5NmYzOHZ3SWhvZTJIeDJtclliRDBZb1ZjUjdiMUZ4eG9pYmdESWdmTVFzODRrU2Z1dmJoN3E3ZlVUTE9XVWVqbdIBsgFBVV95cUxNbXpLQ3VLUmZZWkdnYlJSaGpaMURaWVhiZjQweDhBdDZOSVpQRlROYndWdDNTVWZqVlpLWm1BZk83NFE3MGFrOTE2V2MxN0JWUjNJUWpNaVNoMl90QnR0N3pUNW1SN2FoMW84UndlS2JvMTVxOFA5STllUlV2YzhGMVdWSjJ4ejJQWWpiUW1VLVd2WHN6NjVXM0hHeTI3VlNlaW4xY3htNzliRzBwVE5KN1lR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "AlTC candidate Lalitesh Pati Tripathi moves HC challenging the BJP winner - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzAtMGRfWEd5TzEtY2xuaFhQckJuM2lpTnBvSHB3djlUOWt4bFI2T1BrNjliVzB3UXVJd3R5dmg0S283U3lsUFJkZDRJN0FYb1ZyZElyOUhNdnBVVjFQRzE0c04tS3QzLW05VmdEY0NjVklKYmNwODBON3AyX3AyRlNiOVZqMUxKNDhzMUdGY2F4QUZ3NTZmXzI5WWJ1aUNkMkRzVDBsS2drcUROVC0yQjg1RVpkUkl5cW45dGVVZ2ZYZ9IBxwFBVV95cUxPYkFZMjFfWGVpX2VWNTI0UEMtSnhhRkxfZ2Y5VFkzdjdpZE1yaERrNUdpZzEzajlMbjNFb3V0T3dvdHRXWGZqMFJLd2FoeS1DMVJCLXd0eEszdmhTVkR4bVZFejZhZHY2RVJibVdRaDBCMndKQkQ5VVlGcF9XODltUWY5eWh6d3NrRDJZZEdySWQzdUd5Yko5aU0xdkpiYlUwSGRyaUNiMjZrMkVIbnlyemxNTm1TbWVnZjNPeDc5VGFJQ3BLNlZv?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 39,
+    "starred_questions": 11,
+    "unstarred_questions": 28,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 75.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 75.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

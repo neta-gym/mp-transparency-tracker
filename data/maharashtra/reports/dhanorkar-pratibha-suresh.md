@@ -7,21 +7,21 @@
 **Education:** 12th Pass
 **Profession:** Agriculturist, business man, social worker
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 53.1 / 100
+## Composite Transparency Score: 69.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 4.2 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,24 +39,24 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 80.37 Crore
-- **Liabilities:** Rs 55.24 Crore
-- **Net Worth:** Rs 25.13 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 90% of Lok Sabha MPs
+- **Movable Assets:** Rs 106.72 Crore
+- **Immovable Assets:** Rs 486.33 Crore
+- **Total Assets:** Rs 593.05 Crore
+- **Liabilities:** Rs 207.34 Crore
+- **Net Worth:** Rs 385.71 Crore
+- **Previous Total Assets:** Rs 3388920717338.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 100% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 1
-- **Expended:** Rs 1
-- **Utilization Rate:** 5.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -70,24 +70,48 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (8 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 8
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 8
 
-- Dhanorkar-Andhare open spatdeepens Chandrapur MVA rift - The Times of India (The Times of India) [neutral]
-- Suresh ‘Balu’ Dhanorkar, Congress’ sole Lok Sabha MP from Maharashtra, passes away - The Hindu (The Hindu) [neutral]
-- Maha Congress rift: Wadettiwar and Dhanorkar at loggerheads over leadership selection - IANS LIVE (IANS LIVE) [neutral]
-- Political Profile of Dhanorkar Pratibha Suresh Alias Balubhau, Inc Party, Chandrapur, and Net Worth - India TV News (India TV News) [neutral]
 - Chandrapur election results 2024 live updates: Dhanorkar Pratibha Suresh Alias Balubhau of Congress wins - The Times of India (The Times of India) [neutral]
+- Suresh Dhanorkar, Congress’s lone LS MP from Maharashtra, dies at 48 - The Indian Express (The Indian Express) [neutral]
+- ‘A pro-incumbency tsunami is coming’: Sudhir Mungantiwar - Frontline Magazine (Frontline Magazine) [neutral]
+- Congress's lone MP from Maharashtra Balu Dhanorkar dies at 47 - theweek.in (theweek.in) [neutral]
+- Wadettiwar fails to prevail on Congress brass, Dhanorkar gets Chandrapur ticket - The Times of India (The Times of India) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Chandrapur election results 2024 live updates: Dhanorkar Pratibha Suresh Alias Balubhau of Congress wins - The Times of India** (The Times of India)
+- ! **Suresh Dhanorkar, Congress’s lone LS MP from Maharashtra, dies at 48 - The Indian Express** (The Indian Express)
+- ! **‘A pro-incumbency tsunami is coming’: Sudhir Mungantiwar - Frontline Magazine** (Frontline Magazine)
+- ! **Congress's lone MP from Maharashtra Balu Dhanorkar dies at 47 - theweek.in** (theweek.in)
+- ! **Wadettiwar fails to prevail on Congress brass, Dhanorkar gets Chandrapur ticket - The Times of India** (The Times of India)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
@@ -96,11 +120,11 @@
 
 ## Qualitative Assessment
 
-Dhanorkar Pratibha Suresh shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dhanorkar Pratibha Suresh shows moderate transparency with a score of 69.0/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 803,722,094. MPLADS utilization: 5.3%. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 6. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 5,930,525,395. Parliament attendance: 80.0%. Questions asked: 19. Debates participated: 6. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -140,7 +164,7 @@ No criminal cases declared. Declared assets: Rs 803,722,094. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -219,8 +243,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Dhanorkar Pratibha Suresh's MPLADS account: Released: Rs 15, Expended: Rs 1, Utilization: 5.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -239,11 +261,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

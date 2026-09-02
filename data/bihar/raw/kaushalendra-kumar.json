@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 42453773.0,
-    "liabilities": 7346973.0,
-    "net_worth": 35106800.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 34.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.95,
-    "expended": 3.58,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:20:41.327928Z",
-        "notes": "Official eSAKSHI REST API — Works: 130 recommended, 107 sanctioned, 65 completed"
+        "fetched_at": "2026-09-02T14:48:49.755714Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:45:03.053519Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:45:03.051366Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 130,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 24.35374149659864
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:04.492124Z",
+        "fetched_at": "2026-09-02T14:45:03.050510Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "JD-U MP says Muslims have right to build Babri Masjid, defends Humayun Kabir - Muslim Mirror",
+      "source": "Muslim Mirror",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHUydkt6eDhqM0hJNTl2V2hjeWtIWDZTUmF6c1ZSd0wwV3BFdEkwbHRZLXdqTVdYd1hWNVNEUXZBWjE3ZnY0bkI1VU5KYVNUY2J3aTk2TXhRSzBiREI1SGdTcUJJZE0wNy13SlFSMm9EWlZ2OVEzNGN5LWtlMnlpWFBMZTR3ek9haU5zaUNOUkNBMWl0ckZSbktZdV9RdW5lX09udGxB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kaushalendra Kumar - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVNvMmRDOFdLdWQ3Qlp2X1RwRHZXQ25yY2lGUmRTUWVvUk5lZU41b3dId2FFWUd0MV9KSTJ5bDNUTmpFcDhBajNDNnpOOHpfSEJTNUp1QnhFYzhHQUVZMlBKcWxfWXdKcEctUmx0UFN5OXdpMnduLTlhSy01TzV2dWhyZmFsUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nalanda Election Results 2025 Highlights: JD(U)'s ​Shrawon Kumar wins; defeats Congress' Kaushalendra Kum - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLTBQdV92NmVzMWJESWdZQjNDcF93d21Fd3dGNmN1MUhmWXFOWTVxdlhkOVpQeHpjQXUyN25wajV2U0NVdnBMNzVQVVc4dW1RVm5mMXpUU3c3Y0R0bHJueVZ2QllYN0lJWEtTaWstSm8xVWc2T3FVay1MTmxTS3pEZ2RCM0dldDRwR2xoeUl3OXpQcFJzUERnT3ZSWmlIN2d4bFBycXpuc3RzWVRGLTRLUlZZTDJ1eVI0MFU3T0JtNmxhT0hZaFhRNW9fNjRvM0pLZzFvZ1dOYWpQSDZDU3BzQl9Xai3SAeoBQVVfeXFMTkxoOVktZGwxNUZjZWJhN183ZHc4ci0zOGVaMVpKY0V3ZkdlbkRBVXp4aGxFdmpENUpHa1duMzFxSm01ODNqekozSGdLWEFsNHJyUmFBeWU5cHBMcnJvVGRuQzR5VWJyZHVCRmZOcVFfaU9lN2Z4V0Rudi15Ym04dDFzYnROQWFvdlBxT1ZFT05yM25fXzg2VVpyQ2tSeW5kTXV5MTdOanZ5T3lieTJreFZNcnR3bFdSUVdXWmhFUmpHMWE0QTM5WlA5emdFN1N5eEcwakpKMHRJbzdSX1MxOHBOdFdaeWh1Ul9B?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Muslims have right to build Babri Masjid: JD(U) MP Kaushalendra Kumar - Deccan Herald",
+      "source": "Deccan Herald",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFFrNkREcXo4RjNGNklRSTlndXRfSVhxVjBRVzRyTTdNQ0VKNkFSOE4zYV9TY3kyTHhocFR1Q1QwS2lGMklVTVAtbGF4Xzk1TmlaR1RzSkM3TS13ZFZkek1pd1dxWkxZUDM4S2hVUjdtblVjN3ZYWHFoRGVWT1BuWE1lbjQ1cS1iY25OX1BQVWdVYmw2S2VFb3lkQmItSTBUdXgwNjZxWUlpLXBud0hMRFI2QmFVUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nalanda MP wants Bajrang Dal banned in Bihar - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWF5Q3JhZTA1QVp3Q1VZWUtTemNxRjhDNWZPdzlESVBLd09QSkxpWU9iZjZDQ3BUVDRidkt3M0hiVDYyR1BQUWJBSGVCdjJqRmZmS1ZQekpqdVFOd3diRVpUU1NHV1Z4T0kxOHRIbzRmUlNHNm1OYW1zVDlwazgydnNiX3pnT1R4QzRrdWhhQW1wSzRCSkFkdGhQQWFyejFXV3lwUkUybmo0MWhY?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:08.512634Z",
+  "collected_at": "2026-09-02T14:48:49.756462Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.171341Z",
+        "fetched_at": "2026-09-02T18:38:04.614299Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.171356Z",
+        "fetched_at": "2026-09-02T18:38:04.614310Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.171362Z",
+        "fetched_at": "2026-09-02T18:38:04.614316Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.171367Z",
+        "fetched_at": "2026-09-02T18:38:04.614320Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.171372Z",
+        "fetched_at": "2026-09-02T18:38:04.614326Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.171377Z",
+        "fetched_at": "2026-09-02T18:38:04.614331Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.171381Z",
+        "fetched_at": "2026-09-02T18:38:04.614336Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.171386Z",
+        "fetched_at": "2026-09-02T18:38:04.614341Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -269,14 +325,6 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Finish embankment repairs before monsoon, Nalanda MP tells officials - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWXVteWw0VzBlcHhRYXJLYnQ2a1VOd05XRnNuRHdVV2pDQ0hSaFN0QUxLblNSQzBfWFc2RkRKZ0RJclFRNkVNZmFYVXFrOEdibGF6VnU2aWNHbVBxVWlPN0p0U0lnRjdkVWFGUnhGcW81V01aM2hVRVdLNEpLX2kzT1JJTVhqb1pQU0tyTXFNYTY5c2ZLeDZyYm9KSnhPd19ubGFnZWxwMEdMUDd3NUZOYzh1VGsyZ1JUbFJlV1U5eW10YVpkODVDQTZFS0N4UkJwRUZsLW5kQdIB3AFBVV95cUxNX2pKUFphOWRUcnc1a1NsSmx3cklkeWZySGRtejR6RTlDYmRfM2RnNFZuQktOekFRVWViRjg0NktIdUF5ek9NbGpmU2FpamNCbXJCNzIxMklYTDR2UGRtZ21lOXJxWU5jNE01OVgzbHpDT0VwOEJUQkw0YjNjWTBtU2RLdmlVa1NUdTJyMm9oY1l3a2NnYy1nbWNGWnlzaTVadHlrNU9EN3labU1HNXVOU2JIRVVFRC1SV2lKWjEzRC1UeDhtczFPYTdwTUZZRDBYOUZSWEdyT2FSZTBI?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "JD-U MP says Muslims have right to build Babri Masjid, defends Humayun Kabir - Muslim Mirror",
         "source": "Muslim Mirror",
         "severity": "low",
@@ -285,7 +333,23 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "JD(U) MP Backs Right to Build Babri Masjid in Bengal - Deccan Herald",
+        "headline": "Kaushalendra Kumar - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVNvMmRDOFdLdWQ3Qlp2X1RwRHZXQ25yY2lGUmRTUWVvUk5lZU41b3dId2FFWUd0MV9KSTJ5bDNUTmpFcDhBajNDNnpOOHpfSEJTNUp1QnhFYzhHQUVZMlBKcWxfWXdKcEctUmx0UFN5OXdpMnduLTlhSy01TzV2dWhyZmFsUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nalanda Election Results 2025 Highlights: JD(U)'s ​Shrawon Kumar wins; defeats Congress' Kaushalendra Kum - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLTBQdV92NmVzMWJESWdZQjNDcF93d21Fd3dGNmN1MUhmWXFOWTVxdlhkOVpQeHpjQXUyN25wajV2U0NVdnBMNzVQVVc4dW1RVm5mMXpUU3c3Y0R0bHJueVZ2QllYN0lJWEtTaWstSm8xVWc2T3FVay1MTmxTS3pEZ2RCM0dldDRwR2xoeUl3OXpQcFJzUERnT3ZSWmlIN2d4bFBycXpuc3RzWVRGLTRLUlZZTDJ1eVI0MFU3T0JtNmxhT0hZaFhRNW9fNjRvM0pLZzFvZ1dOYWpQSDZDU3BzQl9Xai3SAeoBQVVfeXFMTkxoOVktZGwxNUZjZWJhN183ZHc4ci0zOGVaMVpKY0V3ZkdlbkRBVXp4aGxFdmpENUpHa1duMzFxSm01ODNqekozSGdLWEFsNHJyUmFBeWU5cHBMcnJvVGRuQzR5VWJyZHVCRmZOcVFfaU9lN2Z4V0Rudi15Ym04dDFzYnROQWFvdlBxT1ZFT05yM25fXzg2VVpyQ2tSeW5kTXV5MTdOanZ5T3lieTJreFZNcnR3bFdSUVdXWmhFUmpHMWE0QTM5WlA5emdFN1N5eEcwakpKMHRJbzdSX1MxOHBOdFdaeWh1Ul9B?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Muslims have right to build Babri Masjid: JD(U) MP Kaushalendra Kumar - Deccan Herald",
         "source": "Deccan Herald",
         "severity": "low",
         "verified": false,
@@ -293,19 +357,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Bihar CM Nitish Kumar Pays Tribute to His Mother at Ancestral Village Kalyan Bigha in Nalanda - Patna Press",
-        "source": "Patna Press",
+        "headline": "Nalanda MP wants Bajrang Dal banned in Bihar - ANI News",
+        "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUg2VHVfWXNLRlBQb0UxZ1FHd3hza1JObm5WRlBPUFMyaHJqOGhhRlRwdmJaajNYdjBLZ085Tk51M01FVFMyODRqS25zUi1pdFdrcjVpYUtMa09maVp6NlFyZXNEVTVLal9xOVpubkhBUWtmeS05QmUtaG04MkZhc0ZJLVBBcFk?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kaushalendra Kumar - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVNvMmRDOFdLdWQ3Qlp2X1RwRHZXQ25yY2lGUmRTUWVvUk5lZU41b3dId2FFWUd0MV9KSTJ5bDNUTmpFcDhBajNDNnpOOHpfSEJTNUp1QnhFYzhHQUVZMlBKcWxfWXdKcEctUmx0UFN5OXdpMnduLTlhSy01TzV2dWhyZmFsUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWF5Q3JhZTA1QVp3Q1VZWUtTemNxRjhDNWZPdzlESVBLd09QSkxpWU9iZjZDQ3BUVDRidkt3M0hiVDYyR1BQUWJBSGVCdjJqRmZmS1ZQekpqdVFOd3diRVpUU1NHV1Z4T0kxOHRIbzRmUlNHNm1OYW1zVDlwazgydnNiX3pnT1R4QzRrdWhhQW1wSzRCSkFkdGhQQWFyejFXV3lwUkUybmo0MWhY?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -339,15 +395,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 41,
+    "starred_questions": 12,
+    "unstarred_questions": 29,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 79.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -355,17 +411,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

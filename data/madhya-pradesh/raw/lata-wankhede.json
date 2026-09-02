@@ -4,16 +4,16 @@
     "constituency": "Sagar",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3547,
+    "myneta_candidate_id": null,
     "slug": "lata-wankhede",
     "house": "lok_sabha",
     "sansad_member_id": 5692,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5692.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:00.628008Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 173410882.0,
-    "liabilities": 13800070.0,
-    "net_worth": 159610812.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3547",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.075666Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 68.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.66,
-    "expended": 9.11,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:27:34.706593Z",
-        "notes": "Official eSAKSHI REST API — Works: 144 recommended, 135 sanctioned, 74 completed"
+        "fetched_at": "2026-09-02T14:54:27.440489Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:50:23.807678Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:50:23.804652Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 144,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 61.97278911564625
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:29:45.197994Z",
+        "fetched_at": "2026-09-02T14:50:23.803551Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Sagar election results 2024 live updates: BJP's Lata Wankhede wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVHMxeU1HVF90eEcwdGpQZzFldHRHaHBPNHpQdTNfT19iYXpjcnRxemw5cEp3MmFhaUdZeG1xbFF1bkplc3gtMFVVWHFkaWNRMF81ZHBTSXh3M0ZhZFBfWG1mSTRIYllCSFFKOWtPQkhGbUx3Qng5YVNBc1VoRkNoWDFtT1hpVGg5aFQ5TkIyTGZ2dHoyLVRCVW1uelJ5d2tYQVVqaXdOS2VmTUVXVzhFaXhoTkVRTjBPaDNZR2hfNzZ1emtHang2ZDVKVHc5MmpqV1VVb1p2eHR5enZBZURDWXh5T3JxZHN0UkpXYkxhckFpeTJWcFEyTXNfOGxyT2pHYThzUlhvQWd5OFZZdFBhU1BYVFdscnVPWUZSSGE1REh4NnM5QkVWYkV1ZXBlbmRtaTkwNXMxMkRHcUdabTFzYmY1ck82Wm9hamljdGpQR3d4cExhQUNwaFROU09sSlpPSXfSAecCQVVfeXFMTnEySEo0Sms4allOM29SVGJxdVdMQngzMlVGUHhCRVlpMFZ0S3Jrb3ZHZFBDQVpPVlV4dGdyN3o1WENwb2NfNHZsS2JuWGRmbFVGc01nVGlDdldBamFsMVo4TmIwZU5vYk9XRVo0ckZnMmtkT1dDQTdzdXJ4V2VDcmdyN2pMVWNvVkVId2hHMFc0MC1NSlUzQVVTdnBwel9wOU41UDk5enJxdFlSWnFJWmpLSHo5Z3U3Q3F0TjZ6S0dIYjhZTHF2X1BHcFI4SDZBRENzcU01dy1ETFN2TWJHQURjeG9tV21zYnRreUNwcWU5WWRlUGR2WTN6NUE4MFM4bC01dnk2clNxYzkzYnNqdGVZU3lOaHY0NTlSRnREa2R0Nm5mZXp2S1duTWNsM055Rl9GakIzc2d0cERyZnpLalpPWTJNcXZOWm1RR2VrcUdwVlYzUXJqQjN2dnJBaUNLVVpvZ2VQQ1k?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sagar Election Result 2024 Live Updates:BJP's Dr. Lata Wankhede Has Won This Lok Sabha Seat - The Quint",
+      "source": "The Quint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUE0teWlUTTlzUXhJd3pnN0VTUklhZXNxWTU4b2tpQmUya05rNzhQTk1zUnV2TlA1RVJVdjRMbjFDd01wYU5MMlFaOC1fY2ZLMEZhNTVVc3JoVmpkM3d5UnM3eHVXQ0FwWlp2N3d5SW5VSWYxRkZaa3dPYmE4NUlsUkdMRUVKUnhEQlgwQ1VDSllzUUtpaWF4VmxQclRMN3ZsT3VRUUxxdVV6T3VXemhwRE9RV3BqVC04VWEyYm80aEs4c1hNdEl3MdIB1gFBVV95cUxPMVp3NDRVOEhfN3dWdlJkc3VNUklBbVozTDE2NnJWTk5xQ01FX28wODlzTzQ2cmFYZXJwNW1FQW5iRG16MlBua3FCT2dsTWFrWnNGZEVWVV9yeHlRdFk0bWE2U0JFODhMZG5Gd2dQMW82OEl5LVBuOUpwOFd0SzkzMTh0alZqR3pYRm50UkkyMlotZTBaZEpJazRFWkZ3dm41R01IOEJEeS1hU3AtQkdVNVZ3SzM0UXZhRjVYbUpueDh5dXpHWWJVZEtDQklJWkQtc2NlaEdR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress demands election of Lata Wankhede to be declared as null and void - thehitavada.com",
+      "source": "thehitavada.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVRmVG5EQUt6TlBPZUJSQzI4dmRMNG9pSE5VbDBrSjVPTGstMHJqbUp0czR0LVZ0TTJDVkRWY19FY1dEQWdvbnNLbi0zQmNEdFBqMENKcU5oUUREUGlQd09RWDV4aVhoSTJOdERYRG9kUHVtUzN6NE0yb2tnelVxVFo2azlQMWJoRU5HbkswT0F5T1R5Q1dIYjFUNmxFZFVGYmExYllvUE5PeEJqZS1SaEpTeXBpMHpIRVlaZTVEQdIBxAFBVV95cUxQMGVmcU13LV9wWEwxeloyQ0M1OEU5U2hEdkhRemI2MEdXUlhtWEdGazlWdkJ5b2ZJUm9zck04YVc2TV9heVVCQWhST2ZwUjFBY05HTWVPX2dUZ2s4QlF4Sm5fYXYtZGJKSlhIbWp1MnlTczNHQWhVRXNkOEhZSjA0c3o2a3BJejh2WnlXVHpkRzB2dHZiWFI1T3NMOEd0WDl3dTA0Y29EYzVqaXlVLUd3S1JmZTQ3WHNjdkdNZ0xNVVdnU2JZ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "6 BJP women candidates elected as Lok Sabha members from MP for the first time in history - The Statesman",
+      "source": "The Statesman",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSWptMWV5a0JYb283bl9yc2Z0bFZQZjF0UEl3TnNRbVJXUjIzZnlSTWRmWi1TZ0EzTVpKZWo1U3N2WUJmbHV6OWFPekh3dlpwZXV1cGdHOGo4bHpHdEVaMlZXZ3RWMnU0WHU3TkVqaTJsM04xX1k1c3JIRWh1MFFZWkx3VFlfWnRPRDNXQ2dBMmhsQUdLbzhqaGJ4TUpmUzkyel9GQlZkZTloMVlnSTAwZ0VjcVJ6MmNZLUthQ0tzc2labjhDdVc3a0hzSzJkRWxac3hzNzVzONIB3AFBVV95cUxNMW5vUExwRm5ZRzhQR19NZl9DNjhnaEU2SWJCbXFhWHBVaGlNazNNb2cwS2laTkFQOXBHcGdWNG5tWTdOMHRCb1QwS3V0aUgtQUdBSXQxUUt4TDdiRUUwSnk1S1VlZHZEbGNpcElCU2swTlFPWnJ3cjRCenRIUWdEaW9kcTVQTjNSS2ViRGstWS01bjNRWkJqZkpvdF9FMExsRDl6Z0ZHWW5xc0QyVEJjQ1JfclM3blZybDJvd2had0I3SGQxaFdOaU9PYVBrRnB5blo1THlSMlRDSWR0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sagar lok sabha election results 2024: Sagar Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkhrd0Z1QmpiRmQ3UTNadU9QVU1HUzFod0VfWlc2WVFtOVpWRzZVRnFLcXYzeWxsbVR1SE5jM1RRSjEzbVNhTldsOXhOUU5iRHFBUjZjRExHOWFESUJ6bEhpSFZXODhsdlYtYUs5dlcxQWxkbkJPcU42MmkzSXdoS2RPU0Y1QUhLcjBjY3JVb0xMaWRxdEM4?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:30:41.417510Z",
+  "collected_at": "2026-09-02T14:54:27.441664Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.950184Z",
+        "fetched_at": "2026-09-02T18:38:07.445308Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.950194Z",
+        "fetched_at": "2026-09-02T18:38:07.445319Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.950199Z",
+        "fetched_at": "2026-09-02T18:38:07.445324Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.950204Z",
+        "fetched_at": "2026-09-02T18:38:07.445329Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.950210Z",
+        "fetched_at": "2026-09-02T18:38:07.445335Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.950215Z",
+        "fetched_at": "2026-09-02T18:38:07.445341Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.950219Z",
+        "fetched_at": "2026-09-02T18:38:07.445346Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.950224Z",
+        "fetched_at": "2026-09-02T18:38:07.445350Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,27 +333,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Political Profile of Dr. Lata Wankhede, Bjp Party, Sagar, and Net Worth - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdjhpMkVBT2pVUDY5c3Azb2xJQ21ZSXJqSkNpSnpoQS1vOG5IMXBtenl2SUh2TG9xVTdlbExxTmpqZ0FBQXY0OFkzT0xPSWFJeC0zWExscmNFOU5PV2FCdXE0ejE3Z3ZXLXpEZDIyYlNHR2tiSGc3RGd6LVd3bkVCSkl5MjBsaDRZd3gwaXRpbE1xUmkwQzFKNHFWejZBSUtrOUhWY1ROdWhHRjBsYVNrR0c4SjR3TjhHcDJKczJkX0RfRnNWMTBPWVRLYWVsOFVwTmt0U1VVbXU0cEFEc2NTR0pB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP carves out 3 new org divisions, names fresh in-charges - The Times of India",
+        "headline": "Sagar election results 2024 live updates: BJP's Lata Wankhede wins - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEJORlVPOTFpRTRiVElrU0V3Wm1mMXFYNnhsMGNIUWpjNi1HM3dQZF9sWExiTXJNUkVrdWFVT1FRZTBCUWNFN21RTG5RSlRLTzNkWmI0UG9kOEdiVEZaQlNfWGtSdnZDOHQwTnI0akRFbXRqT0pDOFJRWG1Lb0Y1blRSRks0RDVZRmRUMkJScTk4azFDM3Z0RXFSU3RsbUpjUk9NNkRpWVBBQmloNzUtckMtaFVlM0J5RXFJMXNMUjE5Qk85VWtIOEJ2TdIB0AFBVV95cUxQRnl2dVhzaVNKamlpTTE0c2JzRVZvdF9nbUFia3ZQcEt4YjVjZFBRSDFwZWJyblQ1UzNhLV9OeVVXR3V1QnNfclRFU3p0ZzhhVE1xSHpNQkxlR2lVSHdDc0Y2NEw3UWhpTWJNYXZUWGdlRUpzYVl3REFOVGQ0NnR0QTBjalVteWlCbkVoellheW9lVXZJdngtdDlMMnNSSU1zTW1sZTFXazNVUnZ5YWhXRGYxTkZQSmtDN3JHZ0JacUpVQkViYk5OQWJIWWdMSGV4?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Dr. Lata Wankhede , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWDJCSVplZ1VlUGRmeGZFVXlFaEVSd3g2bi1jTHZtYjhodWMwaklrYVpkZTMzSXFLTlowVFlzbG0wOEVES3o0Y09PX3VrWklnbExqWHVzYWNTV25UNGtpLVNUYXVLazRXazZjdmpLTkpzYURDS2d6Um5lRWFzM09aeDBCQ1JNMUw2?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVHMxeU1HVF90eEcwdGpQZzFldHRHaHBPNHpQdTNfT19iYXpjcnRxemw5cEp3MmFhaUdZeG1xbFF1bkplc3gtMFVVWHFkaWNRMF81ZHBTSXh3M0ZhZFBfWG1mSTRIYllCSFFKOWtPQkhGbUx3Qng5YVNBc1VoRkNoWDFtT1hpVGg5aFQ5TkIyTGZ2dHoyLVRCVW1uelJ5d2tYQVVqaXdOS2VmTUVXVzhFaXhoTkVRTjBPaDNZR2hfNzZ1emtHang2ZDVKVHc5MmpqV1VVb1p2eHR5enZBZURDWXh5T3JxZHN0UkpXYkxhckFpeTJWcFEyTXNfOGxyT2pHYThzUlhvQWd5OFZZdFBhU1BYVFdscnVPWUZSSGE1REh4NnM5QkVWYkV1ZXBlbmRtaTkwNXMxMkRHcUdabTFzYmY1ck82Wm9hamljdGpQR3d4cExhQUNwaFROU09sSlpPSXfSAecCQVVfeXFMTnEySEo0Sms4allOM29SVGJxdVdMQngzMlVGUHhCRVlpMFZ0S3Jrb3ZHZFBDQVpPVlV4dGdyN3o1WENwb2NfNHZsS2JuWGRmbFVGc01nVGlDdldBamFsMVo4TmIwZU5vYk9XRVo0ckZnMmtkT1dDQTdzdXJ4V2VDcmdyN2pMVWNvVkVId2hHMFc0MC1NSlUzQVVTdnBwel9wOU41UDk5enJxdFlSWnFJWmpLSHo5Z3U3Q3F0TjZ6S0dIYjhZTHF2X1BHcFI4SDZBRENzcU01dy1ETFN2TWJHQURjeG9tV21zYnRreUNwcWU5WWRlUGR2WTN6NUE4MFM4bC01dnk2clNxYzkzYnNqdGVZU3lOaHY0NTlSRnREa2R0Nm5mZXp2S1duTWNsM055Rl9GakIzc2d0cERyZnpLalpPWTJNcXZOWm1RR2VrcUdwVlYzUXJqQjN2dnJBaUNLVVpvZ2VQQ1k?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -312,11 +349,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Sagar election results 2024 live updates: BJP's Lata Wankhede wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "Congress demands election of Lata Wankhede to be declared as null and void - thehitavada.com",
+        "source": "thehitavada.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVHMxeU1HVF90eEcwdGpQZzFldHRHaHBPNHpQdTNfT19iYXpjcnRxemw5cEp3MmFhaUdZeG1xbFF1bkplc3gtMFVVWHFkaWNRMF81ZHBTSXh3M0ZhZFBfWG1mSTRIYllCSFFKOWtPQkhGbUx3Qng5YVNBc1VoRkNoWDFtT1hpVGg5aFQ5TkIyTGZ2dHoyLVRCVW1uelJ5d2tYQVVqaXdOS2VmTUVXVzhFaXhoTkVRTjBPaDNZR2hfNzZ1emtHang2ZDVKVHc5MmpqV1VVb1p2eHR5enZBZURDWXh5T3JxZHN0UkpXYkxhckFpeTJWcFEyTXNfOGxyT2pHYThzUlhvQWd5OFZZdFBhU1BYVFdscnVPWUZSSGE1REh4NnM5QkVWYkV1ZXBlbmRtaTkwNXMxMkRHcUdabTFzYmY1ck82Wm9hamljdGpQR3d4cExhQUNwaFROU09sSlpPSXfSAecCQVVfeXFMTnEySEo0Sms4allOM29SVGJxdVdMQngzMlVGUHhCRVlpMFZ0S3Jrb3ZHZFBDQVpPVlV4dGdyN3o1WENwb2NfNHZsS2JuWGRmbFVGc01nVGlDdldBamFsMVo4TmIwZU5vYk9XRVo0ckZnMmtkT1dDQTdzdXJ4V2VDcmdyN2pMVWNvVkVId2hHMFc0MC1NSlUzQVVTdnBwel9wOU41UDk5enJxdFlSWnFJWmpLSHo5Z3U3Q3F0TjZ6S0dIYjhZTHF2X1BHcFI4SDZBRENzcU01dy1ETFN2TWJHQURjeG9tV21zYnRreUNwcWU5WWRlUGR2WTN6NUE4MFM4bC01dnk2clNxYzkzYnNqdGVZU3lOaHY0NTlSRnREa2R0Nm5mZXp2S1duTWNsM055Rl9GakIzc2d0cERyZnpLalpPWTJNcXZOWm1RR2VrcUdwVlYzUXJqQjN2dnJBaUNLVVpvZ2VQQ1k?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVRmVG5EQUt6TlBPZUJSQzI4dmRMNG9pSE5VbDBrSjVPTGstMHJqbUp0czR0LVZ0TTJDVkRWY19FY1dEQWdvbnNLbi0zQmNEdFBqMENKcU5oUUREUGlQd09RWDV4aVhoSTJOdERYRG9kUHVtUzN6NE0yb2tnelVxVFo2azlQMWJoRU5HbkswT0F5T1R5Q1dIYjFUNmxFZFVGYmExYllvUE5PeEJqZS1SaEpTeXBpMHpIRVlaZTVEQdIBxAFBVV95cUxQMGVmcU13LV9wWEwxeloyQ0M1OEU5U2hEdkhRemI2MEdXUlhtWEdGazlWdkJ5b2ZJUm9zck04YVc2TV9heVVCQWhST2ZwUjFBY05HTWVPX2dUZ2s4QlF4Sm5fYXYtZGJKSlhIbWp1MnlTczNHQWhVRXNkOEhZSjA0c3o2a3BJejh2WnlXVHpkRzB2dHZiWFI1T3NMOEd0WDl3dTA0Y29EYzVqaXlVLUd3S1JmZTQ3WHNjdkdNZ0xNVVdnU2JZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "6 BJP women candidates elected as Lok Sabha members from MP for the first time in history - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSWptMWV5a0JYb283bl9yc2Z0bFZQZjF0UEl3TnNRbVJXUjIzZnlSTWRmWi1TZ0EzTVpKZWo1U3N2WUJmbHV6OWFPekh3dlpwZXV1cGdHOGo4bHpHdEVaMlZXZ3RWMnU0WHU3TkVqaTJsM04xX1k1c3JIRWh1MFFZWkx3VFlfWnRPRDNXQ2dBMmhsQUdLbzhqaGJ4TUpmUzkyel9GQlZkZTloMVlnSTAwZ0VjcVJ6MmNZLUthQ0tzc2labjhDdVc3a0hzSzJkRWxac3hzNzVzONIB3AFBVV95cUxNMW5vUExwRm5ZRzhQR19NZl9DNjhnaEU2SWJCbXFhWHBVaGlNazNNb2cwS2laTkFQOXBHcGdWNG5tWTdOMHRCb1QwS3V0aUgtQUdBSXQxUUt4TDdiRUUwSnk1S1VlZHZEbGNpcElCU2swTlFPWnJ3cjRCenRIUWdEaW9kcTVQTjNSS2ViRGstWS01bjNRWkJqZkpvdF9FMExsRDl6Z0ZHWW5xc0QyVEJjQ1JfclM3blZybDJvd2had0I3SGQxaFdOaU9PYVBrRnB5blo1THlSMlRDSWR0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sagar lok sabha election results 2024: Sagar Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkhrd0Z1QmpiRmQ3UTNadU9QVU1HUzFod0VfWlc2WVFtOVpWRzZVRnFLcXYzeWxsbVR1SE5jM1RRSjEzbVNhTldsOXhOUU5iRHFBUjZjRExHOWFESUJ6bEhpSFZXODhsdlYtYUs5dlcxQWxkbkJPcU42MmkzSXdoS2RPU0Y1QUhLcjBjY3JVb0xMaWRxdEM4?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 5,
+    "starred_questions": 1,
+    "unstarred_questions": 4,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 9.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

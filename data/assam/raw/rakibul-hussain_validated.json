@@ -4,16 +4,16 @@
     "constituency": "Dhubri",
     "state": "assam",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 4100,
+    "myneta_candidate_id": null,
     "slug": "rakibul-hussain",
     "house": "lok_sabha",
     "sansad_member_id": 5724,
     "profile_url": null,
     "canonical_name": "Rakibul Hussain",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 59,
+    "age": null,
     "photo_url": "/mp-photos/5724.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Dhubri",
       "state": "assam",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 4100,
+      "myneta_candidate_id": null,
       "slug": "rakibul-hussain",
       "house": "lok_sabha",
       "sansad_member_id": 5724,
       "profile_url": null,
       "canonical_name": "Rakibul Hussain",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 59,
+      "age": null,
       "photo_url": "/mp-photos/5724.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:10.658031Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 252963888.0,
-      "liabilities": 43646481.0,
-      "net_worth": 209317407.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4100",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.613825Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 75.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 5.75,
-      "expended": 4.15,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:19:27.615109Z",
-          "notes": "Official eSAKSHI REST API — Works: 148 recommended, 115 sanctioned, 22 completed"
+          "fetched_at": "2026-09-02T14:48:59.803540Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:44:52.097626Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:44:52.095429Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 148,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 28.231292517006807
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:37.288859Z",
+          "fetched_at": "2026-09-02T14:44:52.094574Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Assam: MP Rakibul Hussain chairs DISHA meeting in Dhubri, calls for effective delivery of welfare schemes - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMWdjT3FnSDVQbTdNdEM3RkJtZGJETm00YkNuaHhZNUNidlJZemJ4eFdXNEdmMEFTcVFQMDgtOXZ2S1MwS1VCbGV3SWg0RDA5ZlVHTi1zUVR2RG5xX0kyaXN3SzRXOF9xLXdzTVF4aEJXd1FFM0NkVXZvcW5WOG1lNzhIeWNvQXB5cWhzOWhwVjFlY3R1QWU5d2cyUFNHS1dCWTNzUTdjclBraGdWaGFHUEh2T0l6NkRxcEd2ejJuWHU2SmhBWS1USWNDN2F5RnJYZnUxUmE3ZlZuRTd3UGM4TllzbE1URk1oeVZ0VndOcFJWZTNB0gH6AUFVX3lxTE9WYjFrdVpqRXYxQWtpR294NUs2cUpFLTYxblpvVHhpVi1OeUZOWWliUnRDdVhrcnZIMzYta3E4SUhyLUtOWWwtWms2eXdSQXFfYmdlb3AwR3ktVFpyd01wZGZLNlpvNTBPQmJBQ1RVa2VhRDIwb3JYWFIyRmpCMXBMQ0lfYzlhWEhfUVJOQ3d6TTdDbC1Ic3YtNm5xSWotNDR6STBqUk5WeklQcXRmLS16M2xzdEo5d3JNYU5fVXNBR2RvX2RxWEs0a18xWDEtOTgxM1dmbXlvQW80bnNnU0liRHpsNjJuWE5KQWhsN242RFJiSWNLakFrMlE?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Who Is Congress' Rakibul Hussain, Reason Behind Bhupen Borah's Resignation - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdFlCcFlrN181QV92alh4aGRnZjZYZVV1SGhiU2xiVGg0WGVIZ2xSTUhJN1ZreWtOa0YtdmVZbGhGYlZCeUh4LXhtNV9rcnZvcFNKQ1hBNE1iQ2dzMlZhQzd0clllWlNXbEdJcjg1SUQxNjJRcmdzdGxUaTJxek1aSy1jdmdadUZQVXlFYkZsRW9WcU5yTXhEOUlXSDJrbEdURDlRX0psS1J3blNPejZEaGZXN2hOenNXekJ4SmtybllzY0NnQ1dDWHN4N1ZhQS1fMXfSAdoBQVVfeXFMTkRfWlpkS0dmY0NCTFVsczV1dnA1N3hvekFJT0loWWRTNlRzRElvUDE2MVVKMXRoT0laQ2RxN0VCaHhQYVJwZmp1TzNuNWNZNkNJRzBSMVdVY3RNZTZLTWk0TVF0czBEMU01SlFDb2N0QkplSVE5TGRqQkRLZTM3ZVpBX1RNbDYxQ2twMlpLVE9BWXNia1FxcC1iVm5nUHNFX3QxWTR6T3lBSVEzNTQ5YVZmR3B6c0h4TE1jcXVZY3Rpb3JYMmhGOHZQYW00VnJHRFJlUlV6M1lzTWc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who Is Rakibul Hussain? Leader behind Bhupen Borah’s resignation - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnRQUHQxejB3Y1dZX0IxWHRJS1dmc19OSXhGMU1nUWdXRWlQWFpZOEdQU0NXM0laUFp5N1hkNnlraVlkLV81LXBCUTlKcVo0VGFFNXpxVnp4T3RmNm9Vdk51cUp6NkFpVXdjdzBOc2g0ckc4c3lablJ1RjNjb0YzMWFWNDZNaENIRnpqTXZobEtZUnQ1TXE1TmZCNDFRMFdoRXc2cHh5cmd1YUVHUWVuTWNGVndkdmhP0gG-AUFVX3lxTE5yVmQyaHYyVE9iUV81dVd3ZEFwSDVKVEtKSURGR19XWHJqQmx3TzRpUnQ3a240enl0V3FTWUEzekF4MWFwVUppSmZVajNuY09mQzlMVkVUWGlsYkZrXzdyYzdaYjJ1akNaeW12N3Z4eGk4NU9VSi0xZWQ1R0UycU96eUFXbngyeVR2Yk1NOHZ0d1Qwd3ppNmRvWTlnbU5LUEd5NnJ5OUlpZDA5aWl0eU10ZWI0dDVUd3NReWxkYVE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Cong's Rakibul Hussain Gets Record Victory Margin of 10.12 Lakh Votes from Assam's Dhubri - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTlJZMzhDcGtPOU9JWHhHSUljd2cwTzVKaFNpQUN5QnpvRGE1YlI4aDZlWWZUejBSQnQ3OGdJV2xJR3dYVVZPeUM3WlhiUHJpT1AwZ19WT0ktT0JOYVhnZi1pbGxLaHNkc0d2T2xPdmNleGR1ZXVOQldzMUNwZHh5WEdTalp1OFJGVm9vZnN5TDZuY3hDMDdVWGhjV1U0UzZHSERPMnAycDBuM3NvZGQzaTJ5Y1U5cHkzMUsxWFBUclNLcDVfc2s1aTB6bkNUUklSc0ctejczelowYl9qMnVfajBMaU1fcTlVODFJVnM5aUxGbC1rWmdPMEJnR3dBSl9qSW9KWNIBigJBVV95cUxPWlZYblJqQ21qd2Z1QlpaaHBNX0dyN2hCd0FwTWZfMmpPV2o1Zk04WWhna0NSMk1uUmlnUVJSdlJWMEUwMHBOck1BQW45blNPYVZjM2c3UFNPZ1VNb1c3SU9YaEpsSmwzRlN6emxoUlVuZGFHaXFuZTRQWmJNLW9iRDZzODFnckRXU054eVNqa0t5VGZVWnNFLUlxSTdLdks4ZzRTdTJkZEdFckxfN3dyY2pLbndWcEFrOUJIVWxmNE40SXBHeEpPVktMR0lsbjRzdWdTSkpYZjdPcExnZ3FPbUd6NExnVF9RMWVCRDRJREhMd1FKVnpnMXFGWWxzOHhPeGhRSEEyTF94QQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Rakibul Hussain condemns 'inhumane' Dhubri eviction drive, alleges violation of HC orders - The Assam Tribune",
+        "source": "The Assam Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdV9KQksyMTZZaHN3Zk5jMF83c3ZBWEYxYTJ1dnBiOXB1SlRGTndsNEltYmhJZEhHbkpXZGxVTmxfQzFqN1E2cDN0QnRPTTc3TTBIcXE4dFlPVkFnemJFMjk2V3hjRC1LQ2hoeGJlemJ0Y24tNFQ0aUpXaXNwWVhzTzg2eTZZZ04xcU9JSnVEYTRNNnJlREFCRThRc0FtVEN0ZExHVnNHYnlkQXRtVE1NUkNwWW1WZVR2eTZ3M2dETW9TTlkzYW5R0gHMAUFVX3lxTE5vd0RZUUhGYk9DS1NTb2VvWnJZRHpNdXBLeWYxRzRrVWgzNlZyVlpDN0FlWUdNU3lVUEJHNzA3Zkh1TEp0RFlyTkVILWE4TUxoV3N3ejdEa2N1U3ppRE00UUVlYUNsdGdxLUFoR3ZlZm00Qjh1RGZvd3VraUJnUE5rc1hRNkl6UlAwNTRSenJjMHl6d09odXhRdHZiYnd1WGEtbFdDanFQVEdidFFsY25MeEh3YW5NbXQ2Ui1FSlpwNms0dUJ6X0VVelV4aQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:40.964061Z",
+    "collected_at": "2026-09-02T14:48:59.804642Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.906939Z",
+          "fetched_at": "2026-09-02T18:38:04.369855Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.906948Z",
+          "fetched_at": "2026-09-02T18:38:04.369865Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.906954Z",
+          "fetched_at": "2026-09-02T18:38:04.369871Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.906958Z",
+          "fetched_at": "2026-09-02T18:38:04.369876Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.906964Z",
+          "fetched_at": "2026-09-02T18:38:04.369883Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.906968Z",
+          "fetched_at": "2026-09-02T18:38:04.369888Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.906972Z",
+          "fetched_at": "2026-09-02T18:38:04.369893Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,41 +322,50 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/rakibul_inc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "url": "https://x.com/https://x.com/rakibul_inc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/Rakibulinc/",
+          "url": "https://facebook.com/https://www.facebook.com/Rakibulinc/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:45:20.596302Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Father in Parliament, son in Assembly: Rakibul Hussain, Tanzil Hussain keep Congress stronghold intact in Samaguri - India Today NE",
+          "headline": "Assam: MP Rakibul Hussain chairs DISHA meeting in Dhubri, calls for effective delivery of welfare schemes - India Today NE",
           "source": "India Today NE",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaVBJX0UzOXFoSWJrbzlEd3Bsb0szZE1saGZ5TWFXam9Ed0ZUMGJEcFV5WndXU2d4akpEVWlZTlFMamRqUkZjbG82VUR5eW9WSXlWeDRVU0JQdFc3RDNrOHh3d0tYRVFvSHU1TWtUQi0tWGZpRDBoSkYyWlU3cndZeVVzLThBamM0SnVJcDVjR0hqYkZva3RHOC1NajFEbGxYTGV3cXRubmp6YWJtWDM4OVg4bDkya0duZ0M4N1J1OGNfcnhIMzBrek14VWJPLXRrSjVicFlLbU1tUFZ0WjBvcmdYS0kzbEdPVzhTLTlDbDE0eXJoM3htbGVmenF5LTTSAYQCQVVfeXFMTTFRdDRabndLZ3RIeFphejZLS2RteTFmeXp3d2Y5ZmxKaDFtYklxZzlCOTA5c2pmMldRNWhCN3BYM1dKM0daWm16cXlmLVYtcUhtZFU0RVhVS2hrcHJCVkdVZ0RveWt0MFd0NGVhVTI2SXVZWF9fRnNJaVVxY3RyR3M4Q0hwUEM2TlVqQkMzQjBRWmNtUW8wNElHbmFQZm4wampBZ2pvY3RwakpkMWllZ3pXWmpYMFhCNzByTWlrWXhPY0pYaW9PTUNlU3VNeVB4bThSdXFDSDhLUGRvMkRFSVR6NVRFbzBJQVdZeFlQQXNCMEp6QkFrc3YyNkNMUDV0UkgtN24?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Cong not against UCC principle but seeks clarity on implementation: Rakibul Hussain - thehawk.in",
-          "source": "thehawk.in",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFh6Mk42NmhjdUk4QXE4TXRVM2xGVHlyQzdkVEhnQjRUV2U4U3BDcGxjR1FIcTJWQjRTM0VMQTlUWTNMOC1Id25oRURSTUk2Z0tBXzhvNzFwSFIxSm1qdUZHOTIxaUY3LUpva2dneTNTVEpoSjcyQkZ2M29vUUJZWDBabVNGM2NuOVg5ZXhiZnVkU1JFVDZwUkhNYk05UXRpOEo1Tm42RUxPS3ZFcERsMThNYWRucDA?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Cong not against UCC principle but seeks clarity on implementation: Rakibul Hussain - lokmattimes.com",
-          "source": "lokmattimes.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1RFSlpPLVAxRllzVnhYVURDQjdaX2w0Q1h4ZEFYUThoVV95WmExSnk0dGRFa1drTFpGdVMxVGtMd29KdWVydnZtaWxQenJBV0VpSnN6YkpvOHlJM2JGV2pESi14YkNGMjhDd3ozaGl6VGVWV2g2SWlrNW9LNnFIN2pZWmlUQmduUl92LVduVFJzd0ZDYXI3N1hpM05OdHZqdU1hcVFoUlNrNVN6RUVqVkFsQzZ1X0pjVEhxedIBwgFBVV95cUxPaDBSREd5ei1NUFlFV0QwbWJzWjZwekxnV2tXaEdLOUdabzVNa2N2OEkzOGQ5ek5WeTBkYmxwQ2tpREcxbXlQZWNZaEpYWjIwSU1YNjdrNHlRb2g1VWYtRDN2WWpXOEl0RHd4WkJwNHBweHFNMjl6RzB0dXJ3cTZnc2sxcXZUX1JRd3pqTXlUM2UtYlFzVE5BS1FmREx5TWloZ3ltcEVIOE1kNXZFbXJJLTNyUzU0YTdnZ2pic0pHZGxoUQ?oc=5",
-          "sentiment": "neutral"
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMWdjT3FnSDVQbTdNdEM3RkJtZGJETm00YkNuaHhZNUNidlJZemJ4eFdXNEdmMEFTcVFQMDgtOXZ2S1MwS1VCbGV3SWg0RDA5ZlVHTi1zUVR2RG5xX0kyaXN3SzRXOF9xLXdzTVF4aEJXd1FFM0NkVXZvcW5WOG1lNzhIeWNvQXB5cWhzOWhwVjFlY3R1QWU5d2cyUFNHS1dCWTNzUTdjclBraGdWaGFHUEh2T0l6NkRxcEd2ejJuWHU2SmhBWS1USWNDN2F5RnJYZnUxUmE3ZlZuRTd3UGM4TllzbE1URk1oeVZ0VndOcFJWZTNB0gH6AUFVX3lxTE9WYjFrdVpqRXYxQWtpR294NUs2cUpFLTYxblpvVHhpVi1OeUZOWWliUnRDdVhrcnZIMzYta3E4SUhyLUtOWWwtWms2eXdSQXFfYmdlb3AwR3ktVFpyd01wZGZLNlpvNTBPQmJBQ1RVa2VhRDIwb3JYWFIyRmpCMXBMQ0lfYzlhWEhfUVJOQ3d6TTdDbC1Ic3YtNm5xSWotNDR6STBqUk5WeklQcXRmLS16M2xzdEo5d3JNYU5fVXNBR2RvX2RxWEs0a18xWDEtOTgxM1dmbXlvQW80bnNnU0liRHpsNjJuWE5KQWhsN242RFJiSWNLakFrMlE?oc=5",
+          "sentiment": "positive"
         },
         {
           "headline": "Who Is Congress' Rakibul Hussain, Reason Behind Bhupen Borah's Resignation - NDTV",
@@ -314,11 +376,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Ticket War Turns Ugly: Congress Workers Chant 'Rakibul Hussain Murdabad' in Dhubri - Pratidin Time",
-          "source": "Pratidin Time",
+          "headline": "Who Is Rakibul Hussain? Leader behind Bhupen Borah’s resignation - Moneycontrol.com",
+          "source": "Moneycontrol.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEl0NWhZTVZCM0dKcFc1TEQ5Z1hXZXhUcUpoUzdhRFNLekZaa1pJU2FpWnM5MWw0TmJycEZOZ1dCQmYyWmpVRm94TDZjcmRiSGtNREItLVFIS19YT2xJS0ZXMEl4U3k4dnhqSkNCMFRrNHp2M1BPWWRRTWltUi14NTdudWVRbklVd2NhLTZkbVpNRm1udGFqU0NZVjlNVEtEMEMya0NDVXRseDBGUktkNURLZnktVWdVbUFKQUhpZGNWRnA0eEJURXlhbGV1UE5xelVFeUl4TGJqU1lqd3RF0gHfAUFVX3lxTE9oSXQ1aFlNVkIzR0pwVzVMRDlnWFdleFRxSmhTN2FEU0t6RlprWklTYWlaczkxbDROYnJwRk5nV0JCZjJaalVGb3hMNmNyZGJIa01EQi0tUUhLX1hPbElLRlcwSXhTeTh2eGpKQ0IwVGs0enYzUE9ZZFFNaW1SLXg1N251ZVFuSVV3Y2EtNmRtWk1GbW50YWpTQ1lWOU1US0QwQzJrQ0NVdGx4MEZSS2Q1REtmeS1VZ1VtQUpBSGlkY1ZGcDR4QlRFeWFsZXVQTnF6VUV5SXhMYmpTWWp3dEU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnRQUHQxejB3Y1dZX0IxWHRJS1dmc19OSXhGMU1nUWdXRWlQWFpZOEdQU0NXM0laUFp5N1hkNnlraVlkLV81LXBCUTlKcVo0VGFFNXpxVnp4T3RmNm9Vdk51cUp6NkFpVXdjdzBOc2g0ckc4c3lablJ1RjNjb0YzMWFWNDZNaENIRnpqTXZobEtZUnQ1TXE1TmZCNDFRMFdoRXc2cHh5cmd1YUVHUWVuTWNGVndkdmhP0gG-AUFVX3lxTE5yVmQyaHYyVE9iUV81dVd3ZEFwSDVKVEtKSURGR19XWHJqQmx3TzRpUnQ3a240enl0V3FTWUEzekF4MWFwVUppSmZVajNuY09mQzlMVkVUWGlsYkZrXzdyYzdaYjJ1akNaeW12N3Z4eGk4NU9VSi0xZWQ1R0UycU96eUFXbngyeVR2Yk1NOHZ0d1Qwd3ppNmRvWTlnbU5LUEd5NnJ5OUlpZDA5aWl0eU10ZWI0dDVUd3NReWxkYVE?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Cong's Rakibul Hussain Gets Record Victory Margin of 10.12 Lakh Votes from Assam's Dhubri - ETV Bharat",
+          "source": "ETV Bharat",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTlJZMzhDcGtPOU9JWHhHSUljd2cwTzVKaFNpQUN5QnpvRGE1YlI4aDZlWWZUejBSQnQ3OGdJV2xJR3dYVVZPeUM3WlhiUHJpT1AwZ19WT0ktT0JOYVhnZi1pbGxLaHNkc0d2T2xPdmNleGR1ZXVOQldzMUNwZHh5WEdTalp1OFJGVm9vZnN5TDZuY3hDMDdVWGhjV1U0UzZHSERPMnAycDBuM3NvZGQzaTJ5Y1U5cHkzMUsxWFBUclNLcDVfc2s1aTB6bkNUUklSc0ctejczelowYl9qMnVfajBMaU1fcTlVODFJVnM5aUxGbC1rWmdPMEJnR3dBSl9qSW9KWNIBigJBVV95cUxPWlZYblJqQ21qd2Z1QlpaaHBNX0dyN2hCd0FwTWZfMmpPV2o1Zk04WWhna0NSMk1uUmlnUVJSdlJWMEUwMHBOck1BQW45blNPYVZjM2c3UFNPZ1VNb1c3SU9YaEpsSmwzRlN6emxoUlVuZGFHaXFuZTRQWmJNLW9iRDZzODFnckRXU054eVNqa0t5VGZVWnNFLUlxSTdLdks4ZzRTdTJkZEdFckxfN3dyY2pLbndWcEFrOUJIVWxmNE40SXBHeEpPVktMR0lsbjRzdWdTSkpYZjdPcExnZ3FPbUd6NExnVF9RMWVCRDRJREhMd1FKVnpnMXFGWWxzOHhPeGhRSEEyTF94QQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "MP Rakibul Hussain condemns 'inhumane' Dhubri eviction drive, alleges violation of HC orders - The Assam Tribune",
+          "source": "The Assam Tribune",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdV9KQksyMTZZaHN3Zk5jMF83c3ZBWEYxYTJ1dnBiOXB1SlRGTndsNEltYmhJZEhHbkpXZGxVTmxfQzFqN1E2cDN0QnRPTTc3TTBIcXE4dFlPVkFnemJFMjk2V3hjRC1LQ2hoeGJlemJ0Y24tNFQ0aUpXaXNwWVhzTzg2eTZZZ04xcU9JSnVEYTRNNnJlREFCRThRc0FtVEN0ZExHVnNHYnlkQXRtVE1NUkNwWW1WZVR2eTZ3M2dETW9TTlkzYW5R0gHMAUFVX3lxTE5vd0RZUUhGYk9DS1NTb2VvWnJZRHpNdXBLeWYxRzRrVWgzNlZyVlpDN0FlWUdNU3lVUEJHNzA3Zkh1TEp0RFlyTkVILWE4TUxoV3N3ejdEa2N1U3ppRE00UUVlYUNsdGdxLUFoR3ZlZm00Qjh1RGZvd3VraUJnUE5rc1hRNkl6UlAwNTRSenJjMHl6d09odXhRdHZiYnd1WGEtbFdDanFQVEdidFFsY25MeEh3YW5NbXQ2Ui1FSlpwNms0dUJ6X0VVelV4aQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +430,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 5,
+      "starred_questions": 1,
+      "unstarred_questions": 4,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 9.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +446,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +477,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +504,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Assam: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 252,963,888. MPLADS utilization: 28.2%. Parliament attendance: 100.0%. Questions asked: 5. Debates participated: 5.",
-  "validated_at": "2026-09-02T01:36:46.907660Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 5. Debates participated: 5. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.370637Z"
 }

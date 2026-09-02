@@ -4,16 +4,16 @@
     "constituency": "Amreli",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 4067,
+    "myneta_candidate_id": null,
     "slug": "bharatbhai-manubhai-sutariya",
     "house": "lok_sabha",
     "sansad_member_id": 5616,
     "profile_url": null,
     "canonical_name": "Bharatbhai Manubhai Sutariya",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5616.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Amreli",
       "state": "gujarat",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 4067,
+      "myneta_candidate_id": null,
       "slug": "bharatbhai-manubhai-sutariya",
       "house": "lok_sabha",
       "sansad_member_id": 5616,
       "profile_url": null,
       "canonical_name": "Bharatbhai Manubhai Sutariya",
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/5616.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:53.371771Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 8378748.0,
-      "liabilities": 0.0,
-      "net_worth": 8378748.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4067",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.143236Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 6.8,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.35,
-      "expended": 5.09,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:57.501383Z",
-          "notes": "Official eSAKSHI REST API — Works: 275 recommended, 262 sanctioned, 126 completed"
+          "fetched_at": "2026-09-02T14:54:25.571877Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:50:30.929205Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:50:30.926197Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 275,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 34.625850340136054
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:29:58.035200Z",
+          "fetched_at": "2026-09-02T14:50:30.925153Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Amreli Lok Sabha Constituency: BJP’s Bharatbhai Manubhai Sutariya to go against Congress’ Jenny Thummar - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGdxek9RT1ktUFhoZjVWSzZKcFFLeEEwazlnaTRMNll6SWZzZTlpVURsVDl4bTVvWTR2WWt0cDhGaFNqMnEyRWs4UThfV3p3Qy1keVhKR0lrLWlyWS0wck5sM3FScUZBUURWaHhIZDI4d0NlTTVtMkZwLU1sLTJTOXh3eFNSVGhKUzd2Z3pNUVFQWWppSjRIUnNIR2NPcTEyYU9OZmVJS3RrdXV4U3VrMGJYNUxleXdDQkRQaXItVUhOeWpUdDVkaE54eTVBenpvQTd5ZkV3bktOemFmQVHSAeQBQVVfeXFMUHdTZklROHVvMGVyYlMyYy1tRkRlTFpaZEEzQ3BTcXo5MTBIb2NaaEZxaWFkR2hIdDI0REV1TE04ZnJNQUNBUzNfd05ETlo4eTBza2FEOGc3RWd2Q0xuTnNSUVQwU3FTZ2p0OTNxb0VTa29STE9kSnE5dU8zbFZ2Q2dOOGJLMHhQdjBTTWFYQ1lxYy1kYktKcVpGdWMydXozZFNuY0NVQnFfQ3pIcDkxamR5aGdvVEh0WHJmc3hxTHhpcWhfZDNFY0NJaEFFWXk4ZVJnRW0xTmpqUGVBaDBsLUItWmhq?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Amreli Election Result 2024 LIVE Updates Highlights: Bharatbhai Manubhai Sutariya of BJP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXRVT1l1aFVieGVXaXRsZWk1WGtnQjZiSndzMFBqYjBNWW9rVTgxU1hCVzI2YjAtb0xlNFBSTjFiQjdsNXFCRHlqMjczLVFUcjhPdWI3UUNCOFdrREpVMzJxQUp1OEpRYzRodF9vU0NxYUZpRVF6QmZKcDJYcXZtdU9mY2ZMTTU2X3NYTFRFd2tvZ1AzNFNjdkpWbTZ5TkFjUmxpWnZwR3pZVHF0MEZDc2psTjZabUthelpyUTItR2dCS1NPVWNidG0tX1ZxRGxPTlpMRW92Zk96RGx6N1IzNdIB5gFBVV95cUxNT0NRTlpCYmJidXJMZmM1NVVfZkswWUloRUtGLWZpNVFFUkxpQkd1MVlYQ3hkdmttX1ZwRzhOelJkbV94T085cElWTEFrTXVQWUl3VkVsNlFYTGt3YUZLYWx4SjVuSnRkb1dVbEs1eGJQT1pqbjRSMjFoTHM0TVNrNGxZTlkzN1ZTQnNqV1dvaHB0MFEzNHBjRW1nNGZ1blZrRW54NnA4N1Zqa2Y0U2tmcTg5VU5tSWhTcGxIN19sZTQxUUZsX2lqOTlZLXNjY0J3dmJwY2o0eFE3cWVxMnFicGhpRnpBZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Greater participation of women in law-making will strengthen their contribution to country: Gujarat CM - indiagazette.com",
+        "source": "indiagazette.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX0Nidmd5LUl4MDJRNEpQWUJ3MUtya0hkZF9SdEJTWTFrUXU2VDlRVTZBMVVOX0cyTXRNU0gzUEJvVWpWZW1ieDVmS3RTRUpZSGFsbWNsaXlqM1NVRlBCWU5yTWdKOE5uTElYc3VYMTMzNGZGaEQxbFVvcGlkNEppb2RxZUZ5SXBhMV9jVzJaVGtSVUpTUklKOGtJTXREbU5zYXNQMzg1N0dkNF9qRExaRDNyZ2YwRjRwTTNsbEZBMU5mMVpUNmprWnJEQkdILU1WTXBmcWNkd2gxamxUY1E?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Nepal General Election - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZUdJbGxVYUJWcW5tb3o5VzM5dURPY0Q0eHcxUzdqVGZhcGk0cGMzaFhGd0swNmtRbVEyWXhNaWNTMTBZMVJkY0xtYnpCZUM3R0NHRWZUc1prNFVEREFOWV93ZmNBTWgxYXJQdmoyZ1BXcmNnV0VGNzBUUkt2Zk9GamZzSGhEYU1yM2ozZ2JZYw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Amreli constituency Gujarat Lok Sabha Elections 2024: Key Candidates, Voting Date, Result - Times Now",
+        "source": "Times Now",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb0RINzdERlFDV1M5NjJIV3hFV2lTUTFXUUR0YmtBZGowT3h1Mlo5dEhvVjEwdlRrWU92blM3bmFjN1RJdEFfMXN4clJWYzdpdjhmenp1Ymp3MkJ2WFM4ZmlsR1lnNWtIeFIwU2Z5NXJPa1BsZW5TTld6Zkx3aWFrc3ZmbzMtaVFUcy1MaGh0VFdhSE43WTloWTZkdW93RDhtZlQ3NUxOT3VVVHhEZDdKc2kxNVRiVThTR2xXOUhUVGpTNjFDazIzWi1fei1Zb0dKVmxkOXltSGZIWk3SAeABQVVfeXFMT21femxsYUQ5SjhwSXpiVVVLMHJKRzRJbFRLSjhBWTFNRmU3QmZZUGV4MG9YSU5LWnJHWWVYc201cENoc2FicmJZSG9QUjBxQ1hNbWZlUXBXY085M0lOOG4ycWpKMFNxNkNrUlFWYk82QW1hcmlOWWVScDJYLWtraHVQcGlYY25zSGRUd0FnQkJtX0FxSWg3QTRLYXA4V0dhY19BTDI1NU1KVmxicnNkbmZNRldsams3MlRqczF1Mmc5emQ3LW5hZ1lsYjUxYVR2V1A0ajdGUWVEY18tYk1XaHY?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:30:59.129459Z",
+    "collected_at": "2026-09-02T14:54:25.572864Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.931753Z",
+          "fetched_at": "2026-09-02T18:38:05.508850Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.931762Z",
+          "fetched_at": "2026-09-02T18:38:05.508862Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.931766Z",
+          "fetched_at": "2026-09-02T18:38:05.508867Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.931770Z",
+          "fetched_at": "2026-09-02T18:38:05.508875Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.931775Z",
+          "fetched_at": "2026-09-02T18:38:05.508881Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.931779Z",
+          "fetched_at": "2026-09-02T18:38:05.508887Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.931783Z",
+          "fetched_at": "2026-09-02T18:38:05.508892Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,15 +322,32 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/bharatsutariya.bharatsutariya.79",
+          "url": "https://facebook.com/https://www.facebook.com/bharatsutariya.bharatsutariya.79",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:50:48.282097Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
-      "total_articles": 6,
-      "positive": 0,
+      "total_articles": 7,
+      "positive": 1,
       "negative": 0,
       "neutral": 6,
       "top_headlines": [
@@ -298,12 +368,12 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Lok Sabha Election Winner List 2024: Here is the full list of all 543 BJP, Congress, SP, TMC and other vic - The Economic Times",
-          "source": "The Economic Times",
+          "headline": "Greater participation of women in law-making will strengthen their contribution to country: Gujarat CM - indiagazette.com",
+          "source": "indiagazette.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPQ0d6YWdPQ2Vyd0Y0MkdVT01BakxXTmhnc3pVRFBNN0JzbDFGdHM5YzNsXzRTNTRja19MUGVrMGNvdHhRLTJnN3Y3S0FIZWtBWU9BSzFGTHNGMlNrVXY3WUFyNEkzMVE4OUNyMzZkWUs2MUh5OURpTU1JMXpGVmNiOWYzeXhvWWs1RDg3WkpfVktxeXgwVVRSdWd4a3VoMmpJT2dTbGhjYmZPUFY4NHNjMXJRT1JSeGh2aGNTM0t0SzhTb3VWVkpGc2NoTWw0SmFxVFphS3p3WmJFc1BsUzVseFFJLTFOU1lWMzYwajFwaVA5YTBpaDl4RmNxdWx4RG9XUUJCS0lvMTh5NUxNaTc5aExMODFkVFBuSG9hbTJYZENjUmN0X1ZFc2R5SlZ1Q0500gG2AkFVX3lxTE1lQW1FbF9wZkR1aHc0WVR5U3pyTFFFVHNaRUdKRy1VLS1PSGZFbWNGTEw1bzVQbjJGbzA3amJ2YVRBX192SHpVcE5FeXRVWnh1YmFGS3J3akZ3c0VSQWdFakJ2TnNXTG16Q0gwOEQ0cDZpa3Y0MUtNcm5oc3I1MFFXWEpZU1ZnWlVYMDZaM0Y2T2loSGhKTnV3UGFLTDJxX0dNZHYxNzZqUjFsTkZpS216YmgxeWNPQU9BQzVXSTZFOC1CY1Q2aE5JTEVVUTBHWHYzZ3ktSnhxQ1JjUzVITGtwMFR0QzVBQnljWF9yd3NJdkpQYjBFa2ZrWWVuY3RGQUM5aFFROWQxWnZUa0FKWFRwU08tLXdOOVpzLU95SU5GenFOUmZWTVhTY2xwbmpvQjhDaXhkSVE?oc=5",
-          "sentiment": "neutral"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX0Nidmd5LUl4MDJRNEpQWUJ3MUtya0hkZF9SdEJTWTFrUXU2VDlRVTZBMVVOX0cyTXRNU0gzUEJvVWpWZW1ieDVmS3RTRUpZSGFsbWNsaXlqM1NVRlBCWU5yTWdKOE5uTElYc3VYMTMzNGZGaEQxbFVvcGlkNEppb2RxZUZ5SXBhMV9jVzJaVGtSVUpTUklKOGtJTXREbU5zYXNQMzg1N0dkNF9qRExaRDNyZ2YwRjRwTTNsbEZBMU5mMVpUNmprWnJEQkdILU1WTXBmcWNkd2gxamxUY1E?oc=5",
+          "sentiment": "positive"
         },
         {
           "headline": "Nepal General Election - News18",
@@ -314,15 +384,15 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "2024 Gujarat Lok Sabha Election Results: Full list of winners on all 26 seats of Gujarat - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Amreli constituency Gujarat Lok Sabha Elections 2024: Key Candidates, Voting Date, Result - Times Now",
+          "source": "Times Now",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWJUcExBamtvWHhIS2NpblJpcjVmcFZWTk16TmFZT3N5ZTJPY0l1aE5sSzlJcndrRlpyUUo5NUExWDhRZUs4OW1wMndvSUpBUDJwc0lhdXhHYUR5R3hERHVjTWlZODF5U0pLbWI4UzM5TFJOS3hac3dBencwY2ctZmE5NnNKNVBCb2o0X1Zld1FqUmJ0ZXR3dHVKaFVOX0hzZEJLSWdPOXljUDBsTEk5YlpfNUhuaC0xdnk2SUUxdkVKSW90ZGF1RHlud03SAdMBQVVfeXFMUDhyWGFtYlgyRVY2ZWxEUnRhVVdTMjAzSEc0Y3o4eWNfQlU3STN1LWNsOTNoT0c2VE5EbHplZzhrMjVlalhFeG5ENmxKcmtYWGE2aWQ1TEZNWDUtVEM0aGE2SDMyejRINEtDWEt4cm8tSkRPZUk4WEkxNkp2TVBGWEFhb3ZkSEhqM1ZjeGhkMGdfZUlrajY2OE5KdGZIZ0Uxc25UeTRESm52TUowTU04ZTZMeEdRMkxxeDllOElyc0pDRUR5TzhVVXJrTDgyUmJON3dVZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb0RINzdERlFDV1M5NjJIV3hFV2lTUTFXUUR0YmtBZGowT3h1Mlo5dEhvVjEwdlRrWU92blM3bmFjN1RJdEFfMXN4clJWYzdpdjhmenp1Ymp3MkJ2WFM4ZmlsR1lnNWtIeFIwU2Z5NXJPa1BsZW5TTld6Zkx3aWFrc3ZmbzMtaVFUcy1MaGh0VFdhSE43WTloWTZkdW93RDhtZlQ3NUxOT3VVVHhEZDdKc2kxNVRiVThTR2xXOUhUVGpTNjFDazIzWi1fei1Zb0dKVmxkOXltSGZIWk3SAeABQVVfeXFMT21femxsYUQ5SjhwSXpiVVVLMHJKRzRJbFRLSjhBWTFNRmU3QmZZUGV4MG9YSU5LWnJHWWVYc201cENoc2FicmJZSG9QUjBxQ1hNbWZlUXBXY085M0lOOG4ycWpKMFNxNkNrUlFWYk82QW1hcmlOWWVScDJYLWtraHVQcGlYY25zSGRUd0FnQkJtX0FxSWg3QTRLYXA4V0dhY19BTDI1NU1KVmxicnNkbmZNRldsams3MlRqczF1Mmc5emQ3LW5hZ1lsYjUxYVR2V1A0ajdGUWVEY18tYk1XaHY?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (6 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (7 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -368,17 +438,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +469,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +496,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Gujarat: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 8,378,748. MPLADS utilization: 34.6%. Parliament attendance: 85.0%.",
-  "validated_at": "2026-09-02T01:36:47.932646Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.509601Z"
 }

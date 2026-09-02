@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 2105041638.0,
-    "liabilities": 176081710.0,
-    "net_worth": 1928959928.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 95.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.66,
-    "expended": 5.86,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:53:09.526823Z",
-        "notes": "Official eSAKSHI REST API — Works: 27 recommended, 27 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:44:02.524501Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:38:39.001147Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:38:43.341294Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 27,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 39.863945578231295
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 50.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:24.520636Z",
+        "fetched_at": "2026-09-02T14:38:41.586473Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Asansol election results 2024 live updates: TMC's Shatrughan Prasad Sinha wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNN25mRldKWGE4WlJMWnVWbVoxWmVtcFJmVXNOUE5iMzRJNnJwaS1JMHFfLUw0NnZTa0VJQUhDNUdyeU9WaGRBNGMxNF9GbTFHQlNDdWNGUXRFcW9kVkl1NXNtYk5TRGlEY0Y2WF9RNjFvMDNySXNrZ3VUeHNrMXo4UUE2cTdsTFNNVUdOSklYYjRVY0FRd3Zsa0FZYmw3Mml0Mk1XcUNSMVFsUndZNXV6cjJrMFZFOTlmRHduMTdtWkQxYnZkdEpoOV9XdExUNUg3T0x4bmZ0VGtaNXlneHVZX2c5Qk5iVEhjMHJkck55YVhldEtldGVZbVAtWUxpTnhYSjl3VHRaOXJvOWdMY0x0dkZzQ2JmOGp6NEdpZnI2aE9WX3N2WnBQSHYzbDhuY0VEM2hRQVFiWlVQT2tDQTcyMFk4ZXh4S3lhMkNCZ2E0UlpUazV0cGl0ekhseWd1RnRm0gHmAkFVX3lxTFBGRWo1SEh4V3RqU1RSV1JDNkk0eUo3dmpuaHdQUllvd28wdmRScXRuZGR5RjBVUzZuOHk4cmh3c0ZQdFdwVDR3Ym0tc0o2U2w5ZFZjR1plakZmQVQ4eHhpc0ctQllsYTJBSmY4VFJnR0dua2dabTVKMXBNRmRYSXJqMHQ4VnMyNTNCem0zVk9SUXd4MEZ1ZUZfV0M0MTJmbUg0empWTkdMbXJwUHJYYmFjTF9weFE5SzdBTjNpNzI4UlFqWEpnTWpIRUs1ejUxSHNiQ0M3REJuNDVUTmJHNzJveFIzWlhOM0lucjU3UmJxN2U1TlNSMkhfdldETC10RTQ2T0JZQkg2bFpPZkRBQWN3U3ZodkxOUW5wYlpxLWxUQnpGVUhkdnRhNGZlWUNCZ1E0YnNKUG5HUWdaa1RORFFNaWt1c01ncnhfR0hWTm5SRDZjMFhvT2hqUENCN21nbERUbi1IMlE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Asansol... aaj apki baari hai\": Sonakshi Sinha urges voters to exercise their franchise - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjZvT2FKdjUycWpwX0V6V3NZOFRpdGxSN0Etd1Q5MHZfRWFxajFlbjNwTXVBR2oyckxiRkhRMk9mLVZVNnE2M21fTXVuaEktc1VESnpHZmRMMlRWSVk3dVZtQ085R3FJUlBEQTJKMEV2cUROTG55UEFKaEFVZkRFalVUZDdiZ05oWnh1cF93RVM5cGJvWmpNLVVGMl96blNxSTIwNXlneXBaTE5IOEpmNUtkRnhTWF9xdzNEVU9FdnJFSUNUal9PUmxVSU1Xb3lrazlvem4tNG13WVZTZlZfcUJ3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Asansol Election Result 2024 LIVE Updates Highlights: Shatrughan Prasad Sinha of TMC Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUlVGeWZUcHZmdGFKdWlDMG15ZFlsTy1iNDZ0RzJNc0N1OVppR1RlM01uaEhuUGdqUWNuZ2hRYlNJODZnYkVBWVhoU2tSc09CT3pra2FIdXhmd21aSTdRTFd2RUk3dWpNdERlemNhYVppdllMcFF0ZFBVR2tReW9FRkJTVVg5RDdkWGpzOHlWdHFkb1AyeWhGRzFEWm96VnY3ZUpKc29iSnJCT2N2UzhOWjMzRkNFX3NrMUtyWXZnRTVzQnc0Zi14cG9PTTZYR2F2eFlJbGI0MWplbjVrTFZOSjJB0gHnAUFVX3lxTE9zeEdrTHg2ZWFFQVVHV3Z0dXZsRmZkeU1xeFpnSk5GUHBRYzFfOVlrQTdCTVpXM2pibE92UU16a0FOaWt5bUh5N0Z0MlNhNzZkYnB4VE50MzJxNGNlbWNkSnFrcW82V1RpQmJlQ1VzbnJKaXllOHhmWFhpaDU3TW5OeXNFVml0akQzTFBoZTJYQUdrU25ORHJ4VEFhdGRLNjZoZ21MYUVEZ3RSM0htbEs5c0VWVUJVYW5Oa0pqbVA5eDk5WXJRMXg2R1Q3VmpfOEdtbktXMk5YOHRJcC1zaXplVW1NU2xzdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Shatrughan Prasad Sinha - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUm9rZmRvWEtqVEx2X2FGajFDVHhVT0xUdHVRUk14UnQ4NVdsWVlTQWdjU0pMam1nTVNKcXFKT0dyT0JaOG9Fd2czMVM1QVpoU1laZmctSkM3MEptN2t3UnJKdTdwenI1ckpTdTNJMDRPQWlRRWhKZ25QMW1pZnNXUk85SXlTY2hIeU83V1ltYXRJdWpXZ2czaklZRWhVNkk5aXlJNFNvbXhzSFNDaEZBMlFFMFZ6U1RYN29jTVpQTWtCUHM1ZGc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "TMC Leader Shatrughan Prasad Sinha takes oath as Member of Parliament in Lok Sabha - The Economic Times",
+      "source": "The Economic Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPalhqS1A3bkZJeUh1eXYzandfN25fUUFiRzUwbXpXUndLNHJtamtqZjJxWEVtd0xhNlpweFdYQk9zRnA5SUdxSnMwRDVaUlFkQ2F4WlBMNHNHZVR6a2d2TjZpVTZIcEhsMXR3ejZfZUNxOHBjc1EyOG5EdFBmYzYyV01ia2RaNGVFUDV3MlV4QjJZSXc2Y0d3U2NQS3U1eHVRLU1MWVNPbVprMG1PWHFGVHZDdmNpU3ROX0NpSmtMOTRzU1BtMFIxNmhSN3RHdUlLT3hqN0RZWkVWQUI2VzljbUlWSGVaazRKZm5UeVVsbUvSAfYBQVVfeXFMTVVVai1lUktvcDBHWk5qbHBQbTBXY3AxaWxIaU5JZ3hqM1U0d1NmczBlalgyczZacF9mcDF4OVRLM0JoVFhxczVLZnpJVXZVUXRSNjlvY21EaG5wb19qeU9PYUlCUDJKU2x3ZzRhMmk2R21aNHliLUZlWENDRUhlanJ6OU12dXpnNTd5LVRVLXo1a1hMUlI0aTlzWTlzN2RmMWhNZ1Fic21WUUxvZ3d3OFlvQ2l1X040MU8tdzR4MWlmaUFvOHIzWjM0TTlVcGhiOTFDeHhudmFwM243UzhrOVJMMU51M2NYMTlRSjQ1QjJfUUVvVjln?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:20:51.559300Z",
+  "collected_at": "2026-09-02T14:44:08.520711Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.997265Z",
+        "fetched_at": "2026-09-02T18:38:12.638961Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.997273Z",
+        "fetched_at": "2026-09-02T18:38:12.638972Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.997278Z",
+        "fetched_at": "2026-09-02T18:38:12.638978Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.997282Z",
+        "fetched_at": "2026-09-02T18:38:12.638984Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.997288Z",
+        "fetched_at": "2026-09-02T18:38:12.638991Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.997293Z",
+        "fetched_at": "2026-09-02T18:38:12.638996Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.997297Z",
+        "fetched_at": "2026-09-02T18:38:12.639001Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -253,35 +309,35 @@
     "neutral": 10,
     "top_headlines": [
       {
+        "headline": "Asansol election results 2024 live updates: TMC's Shatrughan Prasad Sinha wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNN25mRldKWGE4WlJMWnVWbVoxWmVtcFJmVXNOUE5iMzRJNnJwaS1JMHFfLUw0NnZTa0VJQUhDNUdyeU9WaGRBNGMxNF9GbTFHQlNDdWNGUXRFcW9kVkl1NXNtYk5TRGlEY0Y2WF9RNjFvMDNySXNrZ3VUeHNrMXo4UUE2cTdsTFNNVUdOSklYYjRVY0FRd3Zsa0FZYmw3Mml0Mk1XcUNSMVFsUndZNXV6cjJrMFZFOTlmRHduMTdtWkQxYnZkdEpoOV9XdExUNUg3T0x4bmZ0VGtaNXlneHVZX2c5Qk5iVEhjMHJkck55YVhldEtldGVZbVAtWUxpTnhYSjl3VHRaOXJvOWdMY0x0dkZzQ2JmOGp6NEdpZnI2aE9WX3N2WnBQSHYzbDhuY0VEM2hRQVFiWlVQT2tDQTcyMFk4ZXh4S3lhMkNCZ2E0UlpUazV0cGl0ekhseWd1RnRm0gHmAkFVX3lxTFBGRWo1SEh4V3RqU1RSV1JDNkk0eUo3dmpuaHdQUllvd28wdmRScXRuZGR5RjBVUzZuOHk4cmh3c0ZQdFdwVDR3Ym0tc0o2U2w5ZFZjR1plakZmQVQ4eHhpc0ctQllsYTJBSmY4VFJnR0dua2dabTVKMXBNRmRYSXJqMHQ4VnMyNTNCem0zVk9SUXd4MEZ1ZUZfV0M0MTJmbUg0empWTkdMbXJwUHJYYmFjTF9weFE5SzdBTjNpNzI4UlFqWEpnTWpIRUs1ejUxSHNiQ0M3REJuNDVUTmJHNzJveFIzWlhOM0lucjU3UmJxN2U1TlNSMkhfdldETC10RTQ2T0JZQkg2bFpPZkRBQWN3U3ZodkxOUW5wYlpxLWxUQnpGVUhkdnRhNGZlWUNCZ1E0YnNKUG5HUWdaa1RORFFNaWt1c01ncnhfR0hWTm5SRDZjMFhvT2hqUENCN21nbERUbi1IMlE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"Asansol... aaj apki baari hai\": Sonakshi Sinha urges voters to exercise their franchise - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjZvT2FKdjUycWpwX0V6V3NZOFRpdGxSN0Etd1Q5MHZfRWFxajFlbjNwTXVBR2oyckxiRkhRMk9mLVZVNnE2M21fTXVuaEktc1VESnpHZmRMMlRWSVk3dVZtQ085R3FJUlBEQTJKMEV2cUROTG55UEFKaEFVZkRFalVUZDdiZ05oWnh1cF93RVM5cGJvWmpNLVVGMl96blNxSTIwNXlneXBaTE5IOEpmNUtkRnhTWF9xdzNEVU9FdnJFSUNUal9PUmxVSU1Xb3lrazlvem4tNG13WVZTZlZfcUJ3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Asansol Election Result 2024 LIVE Updates Highlights: Shatrughan Prasad Sinha of TMC Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUlVGeWZUcHZmdGFKdWlDMG15ZFlsTy1iNDZ0RzJNc0N1OVppR1RlM01uaEhuUGdqUWNuZ2hRYlNJODZnYkVBWVhoU2tSc09CT3pra2FIdXhmd21aSTdRTFd2RUk3dWpNdERlemNhYVppdllMcFF0ZFBVR2tReW9FRkJTVVg5RDdkWGpzOHlWdHFkb1AyeWhGRzFEWm96VnY3ZUpKc29iSnJCT2N2UzhOWjMzRkNFX3NrMUtyWXZnRTVzQnc0Zi14cG9PTTZYR2F2eFlJbGI0MWplbjVrTFZOSjJB0gHnAUFVX3lxTE9zeEdrTHg2ZWFFQVVHV3Z0dXZsRmZkeU1xeFpnSk5GUHBRYzFfOVlrQTdCTVpXM2pibE92UU16a0FOaWt5bUh5N0Z0MlNhNzZkYnB4VE50MzJxNGNlbWNkSnFrcW82V1RpQmJlQ1VzbnJKaXllOHhmWFhpaDU3TW5OeXNFVml0akQzTFBoZTJYQUdrU25ORHJ4VEFhdGRLNjZoZ21MYUVEZ3RSM0htbEs5c0VWVUJVYW5Oa0pqbVA5eDk5WXJRMXg2R1Q3VmpfOEdtbktXMk5YOHRJcC1zaXplVW1NU2xzdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "Shatrughan Prasad Sinha - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUm9rZmRvWEtqVEx2X2FGajFDVHhVT0xUdHVRUk14UnQ4NVdsWVlTQWdjU0pMam1nTVNKcXFKT0dyT0JaOG9Fd2czMVM1QVpoU1laZmctSkM3MEptN2t3UnJKdTdwenI1ckpTdTNJMDRPQWlRRWhKZ25QMW1pZnNXUk85SXlTY2hIeU83V1ltYXRJdWpXZ2czaklZRWhVNkk5aXlJNFNvbXhzSFNDaEZBMlFFMFZ6U1RYN29jTVpQTWtCUHM1ZGc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Shatrughan Sinha Biography: Age, Net Worth, Family & Career Highlights - Mabumbe",
-        "source": "Mabumbe",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcHQ5Sno0TDMxREhhaENKdDNtYlBnTE5oTG9IR0FBNkdkM193M3RhYzF5NzN6T0liVkZOZTIyaVBxcW5wWWFJLWh0SVhNS2FwSk1xQTRMMXpSejZ0LWNaZTZIS0FzUmJxbVFLUFFHb1AzNks4SXhNdDlkc252MTZOWjE1ZEJEUzhKTFlhbXAydkQyaVZ6RzFFUQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "TMC's Shatrughan Sinha wins in West Bengal's Asansol constituency by 59,564 votes in Lok Sabha Election 2024 | India News - Hindustan Times",
-        "source": "Hindustan Times",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQb0N2T0xsejVGVmxZcHIwbzdHb085dlpLME1UdHg0Z2ZDc0xsVVkyQ1hQZFhRRF9xbVA2aTA1elF6YTZvVENaRDhuQzRDbF9zQ1FaS3liM3lmUXN2QTExdXhzcXJ6OEdxYWduRjBBcDVwbW83UTVRNjU1UlN6TkxMdVZuTVlGM1VrQmxFVThJY0JUQm9mUnFMZWJjVDlmVkVWZFVHYWdiZ2h2X283MkNFeHoyREFsNDZKOU9VazNsY3MzOWhGX1c3WVYxbkY4T0dKVHZRbjlMd2ZzeEFMMW5sWEpaTVRINjNQZEZuOHEtZ080YU5sOUxKNWExTk1QWXFJaWdZckNOOEd4OFXSAZACQVVfeXFMTW5TYUJsVUItWWdzQkZtQkRLaWV6YjNoUmhEVW9Td3NTdDVfSGgtSXl3LVpVS1AzOGI2SGItZ3NhamRtNkh2cEJEZ2p5RFdNWThUWXlMcVpod0psN3F2OGVwaS1LUHQ4YVFFSzB1YVdRSFlkanRReU9aVVNrNWxxVjVLLUNHenZ1V0FzQkJ2blN2ZFM4ZWppQjVfOVJFOWZtWXRUVEhMVEtPam9iajdvQU1kUVIwQm9OM2tVWUlKb2FTOHA4TkNzS0N1d0pyUmFlZVVNU2xxT1RWbmNqdnptbW96T3dqSmFoTkhJUkRhMU9OQjB6eTllSmhvRUVDVEc4VHdUSXdRNF9Jam5WNHJ2TlQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Lok Sabha Elections 2024: 5 Facts About Shatrughan Sinha, Trinamool Candidate From Asansol - NDTV",
-        "source": "NDTV",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTJaUHlLc1hUZmlJU2RlZTlWZUtRalNTRW1yVDF0cVo5MDBQZXRYbVpLQXNNT29RcjdLMWFFU0t1d1RoRmhoMWFWVTcybFlSN1RLeFN5SGtNMWV1VXNqOGN5cFZfNlZDM1hLNm5VZVdabUZFMWdTblkxMjF1V0pKOVNQZVdtSmdBMGJlX2drNmdkeEtVaGZteEw5LVNSaFU2N1EtNV9n0gGuAUFVX3lxTE82Z2FhYUZYd2lpYl9NRTdpVjdKQW9vNTJSLWlkVEEyT2hyd1J0SERJNWtURDQ4QnNmZkFoVTE1UHcyMllCMmdmc21FUHdpcW5tTndXVUQ2TDJvS19xaEliZmZhZXhpT25aTVNJQzJCX01jcUIzcllUemNQM3l1NTh5Y0Y0NjJIWTVmbW81N3N5ek54Z1pmbVdhUzU4YkdIcHJZX3JXMlVkR2Q5eTFzQQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 50.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

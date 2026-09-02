@@ -4,16 +4,16 @@
     "constituency": "Vizianagaram",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": 5132,
+    "myneta_candidate_id": null,
     "slug": "appalanaidu-kalisetti",
     "house": "lok_sabha",
     "sansad_member_id": 5697,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/5697.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:32:55.353732Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 62365187.0,
-    "liabilities": 6670915.0,
-    "net_worth": 55694272.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5132",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:43.795480Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 45.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.88,
-    "expended": 1.59,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:11:10.285699Z",
-        "notes": "Official eSAKSHI REST API — Works: 91 recommended, 90 sanctioned, 26 completed"
+        "fetched_at": "2026-09-02T15:02:13.739823Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:58:34.098380Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:58:34.095114Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 91,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 10.816326530612246
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:31:39.025138Z",
+        "fetched_at": "2026-09-02T14:58:34.093984Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Vizianagaram MP Kalisetti Appalanaidu seeks Centre’s help to bring back stranded seafarers - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU19QcTZ4LVdMTk5PSzBNaG56R2Rfem5jNnlldGF4Z09uVHJySVNHVkhtUHRIN3ZaSnVfSjByeHZyYk83dEwtSzZvRmJZVGZHS09qZlFKclZKa182dFMzTFNfdWhFQ29Dc1VndDdHVzJTaE0xeXFkbWx0NWF3aDBzcE1DOEMyMldDaTRldFd5Zm84SUt6YlRMbC1vR2dQRU5jb0pjNUtvS1VpOTIya19qWG5UVVNXQnRJbWlrM3g4c091QXFldEZCSmZXOVM0LW9SNlJxYVp1ZWN5ZE9VUmdaTURLMmFBZFd6aGxfddIB-gFBVV95cUxQajVNRlgwYjg5dmJNZzQtQ3dtRVF6NDdtSEwxNmVpX1N3Mmw0eU5ncjQ5X25mXzdEam95SGllUnVSZGN3MG4zY3FmNzdWNXpHOW5PUkVVWVp6c0xNRHB5SVlwUUh1TTRNYXV3VzBLZjdta0lVOGJQdzRMMFZueTVheVJ1elJEUkdWLTA5WV9HcG1fdlhNbzZZQmQzZGlRUE1XcGYxcjRwTUppMGN0WVdSWEVVSGF5X081WS1LVEdvcUZ1NmJnYjVOaEo1bVQ5NjVZckUwLWx2SDFRYnBXc1YzZ1EwSkxmaFlqd1I4YnZya0kwb0E1WHhWdWx3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Vizianagaram MP Kalisetti Appalanaidu presents handwoven garments to PM Modi on National Handloom Day - thenewsmill.com",
+      "source": "thenewsmill.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnF1d2NjYm53Ql9QWHVyQlA4eVkzMGVLcUdBMmdRMmNqZ3pvT0FHcVVodmdVZzB6b01jYS1iXzZhakZEc1E0cE1zSGs0ekh0Y3hpek1xZXhVcVQ2MFBXc0NLWEtDMlhjUW1pNm10cmVOX1EyR09FcF9zLVZONnByb3lWR2d4d1BZcXRPUkI5cllSWmtHbGU1dzhvcjRfbk9hbDRjRzg4WU5rcDVrTkdzNWtITDdTNjBDdHJJSnBtQ01TRF9LU0c1QzN6SkJUQjQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Andhra CM Chandrababu Naidu invites PM Modi for Bhogapuram Airport inauguration, praises TDP MP Kalisetti Appalanaidu - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOM00zY1ZjOWdZYWhlWU9Pd3BKUWJiVm9LMWxTM2NlaEt5OENTVkZtUng1Rkw2bzVrd015RTktWDEyLUhUUGp1RUxhbWlwNW1WUHNyNmJNUC1Bci1XajZlMWtldVBaTDNWNTFnWWNDeUh2YU9PYnY2RUVJRm5rX0lPdzJPX3hWWDJIM0d2d05yQkxBY3NvTTlYcGJ5VEdUTXQ2WUxWbFhrc2x2dEhzMFF2ODdKdXVsS0NvNU15amtyVzB6clBFc29uTzdlZ0k3QmlzenNsblZ4LUpRUktQWjFMZVg5LWUxQlVXM0kxS1Q2WDVqbWtFSkdQSHRrZWVnWmN3M056QTctVQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "VB-G RAM G scheme a boon for rural people says MP Kalisetti Appala Naidu - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOEwtUTdpZnhHNjVSZWNESExWZzBsNEc0TXpDQnM2ZTkzSDRxallfckU3VHl1X25EQW8tbHNPNWFPeGxIMThnQjdyUUJCblFQSTY2ekhWQl9ySmVXS1FCUjhRYXBPV1BYcEZGLTlDY2daZXBlQ2g1a3hfSnViSGNOMk1IeXhzRkhCU2JiV055bTJuOFBSZV82SE5fU2ZZakVXeW9BaTk3bllpQmxCTzFFZTZMX1I1ZE9aYWRqV3hwSUNHOGgxQ3p2dnVkb1BiOGRET3U2QUg3WlhZUU52M1JV0gHmAUFVX3lxTFBUdFhEVFotdzJ2OFdqbEFtelNLUGt2QWc5Z2ZxZ1FKLVJRYmd6ckJTclNFSGJWQkRWTExjbXN5TDRLVmREam5MSDJIeDlCQk9jQkk4alBTRUFGb3lKMUQ2a2NwSm1KVFQxMDNJMk1qUG1kdlBaZWZ4VDVjTEp3Zmc2S0xxa3VCUGRqZkFJb184eHZGeDMxa0xvT3d3SDJzMFcxUUlPdXFkUTdpUnRsc21rOW5nazJHd2Q5eDVOcVZoWWZaMGExQ0hSTkcwbXg5NTB5czdCbU11SWtmQjdDejhCeVpXd0RR?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "TDP MP Appalanaidu Kalisetti's Third Child Incentive Wins PM Modi’s Praise - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSl9HLVZVbXZ2bTdPV09SSk03M3YzLUtnYzFPdGhrQU00Z05GRkg3ZGd2SlY3U2tIR3hMMXVqdFB4REZVamVlY25raHhTY0x2RW5QWFJuNWZYTEoyZkQzQ2Q2MVhaTldBYUFUa0xINVM5eGJBR2I4aTY0X3NVU3lPV2FNMGpaTC10VTUwZzRLN2F0MzVmWXFRWDR1aHVoZFpJdzBrTi1uVUVSdU1zeUIwT1FUWHktdlhBbnV3TDA1X1RZeWVaVmZNNlUxb3hwOXJiZ0t2MUVwc0dFZ00?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:32:18.626733Z",
+  "collected_at": "2026-09-02T15:02:13.740815Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.240405Z",
+        "fetched_at": "2026-09-02T18:38:03.754925Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.240415Z",
+        "fetched_at": "2026-09-02T18:38:03.754940Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.240420Z",
+        "fetched_at": "2026-09-02T18:38:03.754946Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.240425Z",
+        "fetched_at": "2026-09-02T18:38:03.754954Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.240430Z",
+        "fetched_at": "2026-09-02T18:38:03.754961Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.240435Z",
+        "fetched_at": "2026-09-02T18:38:03.754965Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.240449Z",
+        "fetched_at": "2026-09-02T18:38:03.754969Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,10 +312,34 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 1,
+    "positive": 2,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 8,
     "top_headlines": [
+      {
+        "headline": "Vizianagaram MP Kalisetti Appalanaidu seeks Centre’s help to bring back stranded seafarers - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU19QcTZ4LVdMTk5PSzBNaG56R2Rfem5jNnlldGF4Z09uVHJySVNHVkhtUHRIN3ZaSnVfSjByeHZyYk83dEwtSzZvRmJZVGZHS09qZlFKclZKa182dFMzTFNfdWhFQ29Dc1VndDdHVzJTaE0xeXFkbWx0NWF3aDBzcE1DOEMyMldDaTRldFd5Zm84SUt6YlRMbC1vR2dQRU5jb0pjNUtvS1VpOTIya19qWG5UVVNXQnRJbWlrM3g4c091QXFldEZCSmZXOVM0LW9SNlJxYVp1ZWN5ZE9VUmdaTURLMmFBZFd6aGxfddIB-gFBVV95cUxQajVNRlgwYjg5dmJNZzQtQ3dtRVF6NDdtSEwxNmVpX1N3Mmw0eU5ncjQ5X25mXzdEam95SGllUnVSZGN3MG4zY3FmNzdWNXpHOW5PUkVVWVp6c0xNRHB5SVlwUUh1TTRNYXV3VzBLZjdta0lVOGJQdzRMMFZueTVheVJ1elJEUkdWLTA5WV9HcG1fdlhNbzZZQmQzZGlRUE1XcGYxcjRwTUppMGN0WVdSWEVVSGF5X081WS1LVEdvcUZ1NmJnYjVOaEo1bVQ5NjVZckUwLWx2SDFRYnBXc1YzZ1EwSkxmaFlqd1I4YnZya0kwb0E1WHhWdWx3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Vizianagaram MP Kalisetti Appalanaidu presents handwoven garments to PM Modi on National Handloom Day - thenewsmill.com",
+        "source": "thenewsmill.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnF1d2NjYm53Ql9QWHVyQlA4eVkzMGVLcUdBMmdRMmNqZ3pvT0FHcVVodmdVZzB6b01jYS1iXzZhakZEc1E0cE1zSGs0ekh0Y3hpek1xZXhVcVQ2MFBXc0NLWEtDMlhjUW1pNm10cmVOX1EyR09FcF9zLVZONnByb3lWR2d4d1BZcXRPUkI5cllSWmtHbGU1dzhvcjRfbk9hbDRjRzg4WU5rcDVrTkdzNWtITDdTNjBDdHJJSnBtQ01TRF9LU0c1QzN6SkJUQjQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Andhra CM Chandrababu Naidu invites PM Modi for Bhogapuram Airport inauguration, praises TDP MP Kalisetti Appalanaidu - aninews.in",
+        "source": "aninews.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOM00zY1ZjOWdZYWhlWU9Pd3BKUWJiVm9LMWxTM2NlaEt5OENTVkZtUng1Rkw2bzVrd015RTktWDEyLUhUUGp1RUxhbWlwNW1WUHNyNmJNUC1Bci1XajZlMWtldVBaTDNWNTFnWWNDeUh2YU9PYnY2RUVJRm5rX0lPdzJPX3hWWDJIM0d2d05yQkxBY3NvTTlYcGJ5VEdUTXQ2WUxWbFhrc2x2dEhzMFF2ODdKdXVsS0NvNU15amtyVzB6clBFc29uTzdlZ0k3QmlzenNsblZ4LUpRUktQWjFMZVg5LWUxQlVXM0kxS1Q2WDVqbWtFSkdQSHRrZWVnWmN3M056QTctVQ?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "VB-G RAM G scheme a boon for rural people says MP Kalisetti Appala Naidu - The Hindu",
         "source": "The Hindu",
@@ -272,35 +349,11 @@
         "sentiment": "positive"
       },
       {
-        "headline": "MP Kalisetti walks down memory lane to Mettavalasa school - The Hans India",
-        "source": "The Hans India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREltcmdkOGlsZjdObVpyTmlGSEc5U0NMX29XRDEwTWkxRVJlZUhDTHluMmV0aC1YT1hpTzV1azFEdFAtdHpwQVdPWTZCZHdiQlcwc0ZhbXZsM1FCZk1ZQjRaUFU2aGlHNFEtWThKa1I0N0dOc3lxSjBBR05LcEVLOTlFc0U4MGNCU3NGaG5fcmliQlhYZHotel9RYV9DZDMxc0NKMUYta1ZYSl9Za2fSAbMBQVVfeXFMTmFySUp0Ymp4ckFfR0MxZlNCNlkzZXRYZ3BiV2xWbkd6MnktVWpqdGlJN3pwZ2NIYUFZNjFYNkpIMi1lNnpMSEFmdTlJaFAxSlR1UzIyUlFhVnRRREQ0MXAyb25vQ05kSjA4by1mb3dZdjMteUl5NmF6TmpQVDBBSkRQdUVVTGExa3k1R0JBOE5LQzBJSGdTS29YcXh2Znp0d24wb0VFREJJd2hLZzNTU2JEV2c?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "TDP MP Appalanaidu Kalisetti's Third Child Incentive Wins PM Modi’s Praise - Deccan Chronicle",
         "source": "Deccan Chronicle",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSl9HLVZVbXZ2bTdPV09SSk03M3YzLUtnYzFPdGhrQU00Z05GRkg3ZGd2SlY3U2tIR3hMMXVqdFB4REZVamVlY25raHhTY0x2RW5QWFJuNWZYTEoyZkQzQ2Q2MVhaTldBYUFUa0xINVM5eGJBR2I4aTY0X3NVU3lPV2FNMGpaTC10VTUwZzRLN2F0MzVmWXFRWDR1aHVoZFpJdzBrTi1uVUVSdU1zeUIwT1FUWHktdlhBbnV3TDA1X1RZeWVaVmZNNlUxb3hwOXJiZ0t2MUVwc0dFZ03SAeABQVVfeXFMTlVMSk45VlMxb050ZFJwUC1lS0tvQTlHbW5INDdDTHp6eTBKVEc4eTdYcjJfWXdfNEhFWFU0LUQxYjlkOEtKNk5ZWDFzcENzQnFWNGxuZF9oVGpwX245MTBUN0duMzdjUjFiZGJyZUtBVjl4Ujc5UV9aYk1nT0N0X2p3WmM0aFBvNm1QN0REX2xMMmJyMkRfQmVTOVNRN0hrMmVMdmFvMVZnVDRHazBKVmlONkIzR1l6dllOZkRaRzRwWWhacGFCLW9iTFBISzM2dVZVbXp5cERJOEtFWDhrRk0?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Andhra: TDP MP Kalisetti Appalanaidu offers incentives for third child; Rs 50,000 for girl, cow for boy - ANI News",
-        "source": "ANI News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQkxHdFZ5ZE1wX01zcUd0SG0wN3hJbV9GTWtaOThWQW5tc0liTVNEZGFiQUJ1QjVEb3FvRjhVTXRRSFZfREgtRmwwb25td2trbmpNejFIRGw0WEFhSm04QlVSQ3JRM3BxNW5odWpJVk9yRUMyTVFvdlhJR1Q3UW43LXljWl9QSTNfMDVLR2x0WkNhbzZYcW5wUGhSMlFTLVdIaG5XMlpPeXJGS2YtM3NINkdlRXdRUXg4N1hKN2NDTVhiTE56VFhEaUhQSUNGU3c5R2RpbFBKRG9MRk83bGIzRHY1MmMyQU4zbnR4TnhleHhvajZ2Y2c?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Andhra MP promises Rs 50,000 for women who have third girl child, cow for boy - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaElHX3N4cTZ2azlQZzJLT0tZZmxzRjd4ZnIxRVpHc0Q4OFRFSVYwR1FjdjF3cEhzWjAtaDV0Qk5zdHFJbHViN1dkalpLMld6RTRQN3JNTUI0dmlaN2Q4SWlFVFNvbXZ3ekJ2TkMtNEVkTlNybjZSeU9RRFU2NFRsYmVscTR0QTBPRHVic2czNG83V2xHVWJ3aDZJWTVuOUZvVjZXWFZvWlFyR0kyZ1FnNFpTLWRYR2l1M29ETnp6RTdXVFpyY2RKLVp6NEJFT2RTWVk40gHYAUFVX3lxTE9FR1JjVGhvaDE4a2NZX1hGRFBjQ21TR28xdEV5UTMzRGpIaFFVNldKc0ZmX3h5LWJfYVZDblFBODQxWlhtelhVWjVMbjh0Ukt3SVk5UExZVEhOcUtzeEZPNDVKYzdjc1Jraml1QWRpOWV0WDJBT0hMVU9WamNPcjJZVjJaeGVJcDhCYnM5bkQzMFBGMVlfTm5aQzVzeHZjN2t4eFRWRHNRT3c4QVVTQ1BKNmV2eEV0NWtvVmsxM2tTU3RuZ3ZwWkExRklIakRqamFRQ3FYTHFIMw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSl9HLVZVbXZ2bTdPV09SSk03M3YzLUtnYzFPdGhrQU00Z05GRkg3ZGd2SlY3U2tIR3hMMXVqdFB4REZVamVlY25raHhTY0x2RW5QWFJuNWZYTEoyZkQzQ2Q2MVhaTldBYUFUa0xINVM5eGJBR2I4aTY0X3NVU3lPV2FNMGpaTC10VTUwZzRLN2F0MzVmWXFRWDR1aHVoZFpJdzBrTi1uVUVSdU1zeUIwT1FUWHktdlhBbnV3TDA1X1RZeWVaVmZNNlUxb3hwOXJiZ0t2MUVwc0dFZ00?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 53,
+    "starred_questions": 15,
+    "unstarred_questions": 38,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

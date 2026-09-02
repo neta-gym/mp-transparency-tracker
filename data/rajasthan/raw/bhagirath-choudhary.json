@@ -4,16 +4,16 @@
     "constituency": "Ajmer",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2038,
+    "myneta_candidate_id": null,
     "slug": "bhagirath-choudhary",
     "house": "lok_sabha",
     "sansad_member_id": 5203,
     "profile_url": null,
     "canonical_name": "Bhagirath Choudhary",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 69,
+    "age": null,
     "photo_url": "/mp-photos/5203.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:07.157698Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 133811555.0,
-    "liabilities": 5432413.0,
-    "net_worth": 128379142.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2038",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.517338Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 63.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.95,
-    "expended": 4.17,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:44:46.469646Z",
-        "notes": "Official eSAKSHI REST API — Works: 147 recommended, 109 sanctioned, 34 completed"
+        "fetched_at": "2026-09-02T14:31:29.641820Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:23.171757Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:23.169615Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 147,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 28.367346938775512
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:31.737964Z",
+        "fetched_at": "2026-09-02T14:27:23.168767Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Row over ₹99 lakh subsidy to union minister Bhagirath Choudhary from agriculture ministry, he says ‘nothing hidden' | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcUJrM0pMNkRYV2JLMmlLRlVVT2NqRDUtVVRfVlRxdGRmOTFlTmEyY0JxblhjRmJBT0RxU29XTjJMZW5aT0lDRFRXSm1vUG9fZHJZbHpCcG9vdHI1Zmd4Y0phQkhEeDVybGJ0M1ZaMHdxR3VfZXVXa3c4ZVJWaUY0cTktbnFFVnhSbHpDdi0xOFZTZjItOUdURVBuV2Q3bkI4ZmJQUTFHV1JaV1IzV1hwRWFNdTkzTmJ0Z0VIRHBacHFBNFRUV295ZXMyM2JEeXJpUnREOXhSYmpjWlJJVUdkWE16Vk9QWTlNVE1nNkZrSDRVWmExUEpIMXVQVl81YmgwOFVBNEE2RFrSAY4CQVVfeXFMUEZBV1pDcmwwbFA4ZlZmWUNJV3lxWnNQQ2ExcWktNkthSVgxQ0UxLS1oX1BfNHpmRmYzWnlBMG5ZZHVjUjVXS0VOaEVJYUFmMnE3aG0yODJBX3lrazlxbjlNVDZXS1FueUNDSGpwMERiUHFVT3c5ektqM3hMQklPV3NRMzk1dFVZdm5kOEdZaXJjY2FDbm1FMG5GSzhVVVB2Tnd5OHpPUWU0Vmg5QjRBNHl0eUlFZVZGTnZjZm5VVVRGejlsalRYdk1sN1pDXy1sS3NFdlUyLVhhTTBRVkY2Um8yMjJkYVNGczJGMDkzVW9BV2dyUjRKdW5RdVMwTzhJeFEtX05SMG9Od0FMMEN3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union Minister Returned Subsidy He Took For His Farm: Centre Tells Parliament - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb25xSF9nX1RkNGVqb1R2b0xnNTh5UmR1S1B4a01nTlJlY0tOLWE1RldVaWV2UzBPRVNqMjAycWo2Tl9BT08xbF92Mk03SkJlMTVDMUFsWHJjekVIM0FUWTItczhuX2lZVWZMZHJVTGVvcHZHQlAxUnJLSnNPb3h2WE93OTZzaGNGX2dxNWNqQng0UTdHU1RWSXBXVlJxSnEtcDJjVWhFdDB2TWhnMDFVM0xIYVFhSXRRN3I4UkFVQkZFRDc0MjN1Z3p3UTg1UFZaT2Zj0gHbAUFVX3lxTE5MSU9CMUhZR0lyZHF5U2J5ZkktbW92bDhYLTdPb0FnbkJ0WE9sZGRaMnNaSDR3OWx0ZGJWOFh3WTFUbGxhaG10TXB1b3JVakxPWG54a3hYZzIxeWlEYmVfc3p1U21MbWZJRmhaUGcwcVFQRGMwX0xsM0JTb0tlTE9Cc0l5VkhzUlhtSm9WTE83Nm9UWmZMc2xleThxdG0zc05HNGdzdDVXU1FrRVduRjYydzRFbGpQUTVzSklvTzE4SXNjUVdYWVFia3l3NHV2STl6UmtjMm5qWWJNZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union minister returned ₹99-lakh subsidy he took for his cucumber farm: Govt to Parliament | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUEJ5cXVBaTRvTmRnU1RQdk12SEZCVWRpWlFYUHpWczFGZ20yQTZYSVo4RFJqQzNWSWxKWVNzUVhLR3ZWVTNjQ0lrMGZUZ2E0cW5WZEpJa0xsanZ3NGFTdlpxYWxJV0FuQ1dmU3c3VlIwcVZ1VTNjRk1iNGhhT092Y0VsTGxURmw2UWppbTlOYVNTQ3hpcnM1T2dWS01pV1RzOTFiLXdhdU5Db2ZNUWlzRng0dVg3ZVdQOHhEQXNaM1dQQXo3QVhsamRCbFl4WUtUZ2txMGdPYmJHSUZjaVlr0gHkAUFVX3lxTE5fbmF5WnMtMU9KV0dUUVpWdGctczdfUHcwQlBoZkIydFg1cmVMaThnV2ZHblNRbXBreldLR1BLVkZ6LUx3aUZoMTVCLTFBRkJobGRWbDVqTTc1U0Z6bVRnWDhNUnJGZTlSa09CU2VjZEMzcDBya0ZURW95X01YbkdtdEtLTTJQSHZ5R1hPX2xkNThQbWxpbkVTU1NQYnIzb3d2czBFYWwxbGFWbzZhVG9qX205dFNoMVpvSUhIX3VXOGZQYXVZSzU3UEhscXA3MjZVVHVLaGlveUNOcGZrM2xkV0FXRA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ajmer MP Bhagirath Choudhary sworn in as minister in Modi govt 3.0 - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHBiU0hBSXdIdl80YUUtVk01QVhLakd2dHhqQlQ1MVZGcVVsa2tqbkhVclBLT0Rrc2V6NmNWTkRZMG1xajhQbEVnc1RvN2VUeU0tb1BOX0NwU2hrYTJOa0xpRXAyckVZanRtY1lKZnBnZ2VhWEVoSmpyczF6bUpBUGs1dXpJVWtZV3N5Q21zOHNoOXFrNmZHemlWaUxBak1aT3Y40gGoAUFVX3lxTE9CNHNLRlByTmVRNFpabmpWd25mN1pkNHh1S21vSFJrczJmZWR3YWQxUFVNQWhTbnBlSnFjRV9Kb0FzZHpRcjIxMVM1Tl9YdGsxNEh2Nl9jZWtCYkh6QWg2OWNtVXp3WFJla1Z4RnhXM2pjLUxOZ0szX3ZadkhrRkJaMnVXWjFQVmZhXzVfRG91cm5BbDY2OTg5Q2llcmplSHNzVkdLcG5ONQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ajmer election results 2024: BJP's Bhagirath Choudhary defeats Ramchandra Choudhary to win Ajmer Lok Sabh - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOeDRucGlWOTVJbU5XYmQwWVFhRHcwOURHN3pvZEZ6UFRyZ2dHMjJJazN4aGNRZE8tNHVKYWphUDVtQ0xTUjlnRkZuNWdCdWs5dFhsVVpNZW4tWWZuREM5NVM2TXgwU05DZ1pZVS12NWJuUDN0Z2Z1bGdiLXZ1WWdTaVFTb0pnY1AzTmJoWWFnR29lakloTEVNZi1zUnBxMGtxUGlhcEV3SkNyTlJhN1BzUDdBYkxxM3BHYTFFOGlFTlMxeE5QODBMUnFZYkhweGNvdGp0X3RPVGRNSFpaNXp2TzFLSmJGQUUzb3F1blhDaDJDWTIxNE1lNmZNektQb3V1aUVoVWFNZW1TVndaNHpKSlBQNDdfQ3k0Q28wQW9aazVxRHo5aGpvX0tQMWIwYlRaS2xpM1otZ9IBvAJBVV95cUxQZ2xKLVFzcmU4SWgyZU1FUEVaTTdyc0JfZjhoZGtHc3R2YnhrenhmcUMydzNUMmVGVWZxM0tDc09FZ3hoU0xvNVF5VzV0cUtxUnVTVjM2aElRNXU2RU9qNy1uQTNrbnRDM3d0bUhvd1NlUXVMSGtfZmgzSTFQRXFUU1NxS0xZaVRiX01MajhkMWV2NzF0WTBaRlROOWZkcGpYMEk2UkRldXVmaVQ1SlBnNXhjR09TVUt5WGdYbllNSW5icWtObTdBZlVTTTFjSjU0cFVwMHJnM1M4Z3NRdEZydHBCYmpnVDU1RXM3OC1BZTVubDZjUUNLbG1KTVd0MUNsUnlrbmw0bWpsdDE3YjZSSW5MVU5rTWgxX2c2M3c1aG9obVNscnRoZERKcjM5VmNPZEFvUDJuNW8yMjFv?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:31.234465Z",
+  "collected_at": "2026-09-02T14:31:29.644115Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.828801Z",
+        "fetched_at": "2026-09-02T18:38:09.291886Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.828819Z",
+        "fetched_at": "2026-09-02T18:38:09.291898Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.828851Z",
+        "fetched_at": "2026-09-02T18:38:09.291904Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.828867Z",
+        "fetched_at": "2026-09-02T18:38:09.291909Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.828880Z",
+        "fetched_at": "2026-09-02T18:38:09.291916Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.828913Z",
+        "fetched_at": "2026-09-02T18:38:09.291921Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.828928Z",
+        "fetched_at": "2026-09-02T18:38:09.291926Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,24 +304,73 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@mpbhagirathbjp",
+        "url": "https://x.com/http://www.twitter.com/@mpbhagirathbjp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/bhagirathchoudharybjp",
+        "url": "https://facebook.com/http://www.facebook.com/bhagirathchoudharybjp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:27:50.688299Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Bhagirath Choudhary, BJP Ajmer MP, sworn in as Union Minister after massive win - India Today",
-        "source": "India Today",
+        "headline": "Row over ₹99 lakh subsidy to union minister Bhagirath Choudhary from agriculture ministry, he says ‘nothing hidden' | India News - Hindustan Times",
+        "source": "Hindustan Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUxJOXBXLWdpS1Y3VWZlY1VXcGl2QUduVlF6Z2ZoYUF4MURSdVJudDlLY3ZBQ2dHc19uajdiejA0ZXo1YnBCWXBzeTZ5VS05d05YWjN5eFo0MllkOVRVellGeTZQeG1zbTk1V1hNNUtXRHN2eWhTZ0V5VUdhaXM2VzF3dDRfcTFTSmo0ek9aME5aVjdIeWNJdkliZTdrd2xiMC1qQWtRX0dXUzFjREFYWG9LckRTTUpfWXVrNF8zV1RyZFBXcWVKbklrdG54d9IB0wFBVV95cUxQT1F2ME94UTgyRUR1STVMQnN0NS1uUFNJVzd6SlRjd3d4UDlMQ3BvUmd1RWpNaU1hZll6RVFsMnhYLUZ1Vld4ZkNZUVJ3ZEwxUGJHN0p5eWFvaEc0SFM2d09aeGtnYmxYTEtyX19pVk5SUTlzWERYY0hQX2JBNkR6VWJISFNHTG1TcEcwU0FsM1BnUGNMNG9HMlF0bHFaQjZKOFN3ZS00YkZYT0ZFUHMwVmZhVS1xejBlb3FWdGc4TVJ6bVRNa0NFWjdzc0gxQnlwZDd3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcUJrM0pMNkRYV2JLMmlLRlVVT2NqRDUtVVRfVlRxdGRmOTFlTmEyY0JxblhjRmJBT0RxU29XTjJMZW5aT0lDRFRXSm1vUG9fZHJZbHpCcG9vdHI1Zmd4Y0phQkhEeDVybGJ0M1ZaMHdxR3VfZXVXa3c4ZVJWaUY0cTktbnFFVnhSbHpDdi0xOFZTZjItOUdURVBuV2Q3bkI4ZmJQUTFHV1JaV1IzV1hwRWFNdTkzTmJ0Z0VIRHBacHFBNFRUV295ZXMyM2JEeXJpUnREOXhSYmpjWlJJVUdkWE16Vk9QWTlNVE1nNkZrSDRVWmExUEpIMXVQVl81YmgwOFVBNEE2RFrSAY4CQVVfeXFMUEZBV1pDcmwwbFA4ZlZmWUNJV3lxWnNQQ2ExcWktNkthSVgxQ0UxLS1oX1BfNHpmRmYzWnlBMG5ZZHVjUjVXS0VOaEVJYUFmMnE3aG0yODJBX3lrazlxbjlNVDZXS1FueUNDSGpwMERiUHFVT3c5ektqM3hMQklPV3NRMzk1dFVZdm5kOEdZaXJjY2FDbm1FMG5GSzhVVVB2Tnd5OHpPUWU0Vmg5QjRBNHl0eUlFZVZGTnZjZm5VVVRGejlsalRYdk1sN1pDXy1sS3NFdlUyLVhhTTBRVkY2Um8yMjJkYVNGczJGMDkzVW9BV2dyUjRKdW5RdVMwTzhJeFEtX05SMG9Od0FMMEN3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Union Minister Returned Subsidy He Took For His Farm: Centre Tells Parliament - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb25xSF9nX1RkNGVqb1R2b0xnNTh5UmR1S1B4a01nTlJlY0tOLWE1RldVaWV2UzBPRVNqMjAycWo2Tl9BT08xbF92Mk03SkJlMTVDMUFsWHJjekVIM0FUWTItczhuX2lZVWZMZHJVTGVvcHZHQlAxUnJLSnNPb3h2WE93OTZzaGNGX2dxNWNqQng0UTdHU1RWSXBXVlJxSnEtcDJjVWhFdDB2TWhnMDFVM0xIYVFhSXRRN3I4UkFVQkZFRDc0MjN1Z3p3UTg1UFZaT2Zj0gHbAUFVX3lxTE5MSU9CMUhZR0lyZHF5U2J5ZkktbW92bDhYLTdPb0FnbkJ0WE9sZGRaMnNaSDR3OWx0ZGJWOFh3WTFUbGxhaG10TXB1b3JVakxPWG54a3hYZzIxeWlEYmVfc3p1U21MbWZJRmhaUGcwcVFQRGMwX0xsM0JTb0tlTE9Cc0l5VkhzUlhtSm9WTE83Nm9UWmZMc2xleThxdG0zc05HNGdzdDVXU1FrRVduRjYydzRFbGpQUTVzSklvTzE4SXNjUVdYWVFia3l3NHV2STl6UmtjMm5qWWJNZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Union minister returned ₹99-lakh subsidy he took for his cucumber farm: Govt to Parliament | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUEJ5cXVBaTRvTmRnU1RQdk12SEZCVWRpWlFYUHpWczFGZ20yQTZYSVo4RFJqQzNWSWxKWVNzUVhLR3ZWVTNjQ0lrMGZUZ2E0cW5WZEpJa0xsanZ3NGFTdlpxYWxJV0FuQ1dmU3c3VlIwcVZ1VTNjRk1iNGhhT092Y0VsTGxURmw2UWppbTlOYVNTQ3hpcnM1T2dWS01pV1RzOTFiLXdhdU5Db2ZNUWlzRng0dVg3ZVdQOHhEQXNaM1dQQXo3QVhsamRCbFl4WUtUZ2txMGdPYmJHSUZjaVlr0gHkAUFVX3lxTE5fbmF5WnMtMU9KV0dUUVpWdGctczdfUHcwQlBoZkIydFg1cmVMaThnV2ZHblNRbXBreldLR1BLVkZ6LUx3aUZoMTVCLTFBRkJobGRWbDVqTTc1U0Z6bVRnWDhNUnJGZTlSa09CU2VjZEMzcDBya0ZURW95X01YbkdtdEtLTTJQSHZ5R1hPX2xkNThQbWxpbkVTU1NQYnIzb3d2czBFYWwxbGFWbzZhVG9qX205dFNoMVpvSUhIX3VXOGZQYXVZSzU3UEhscXA3MjZVVHVLaGlveUNOcGZrM2xkV0FXRA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Ajmer MP Bhagirath Choudhary sworn in as minister in Modi govt 3.0 - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHBiU0hBSXdIdl80YUUtVk01QVhLakd2dHhqQlQ1MVZGcVVsa2tqbkhVclBLT0Rrc2V6NmNWTkRZMG1xajhQbEVnc1RvN2VUeU0tb1BOX0NwU2hrYTJOa0xpRXAyckVZanRtY1lKZnBnZ2VhWEVoSmpyczF6bUpBUGs1dXpJVWtZV3N5Q21zOHNoOXFrNmZHemlWaUxBak1aT3Y40gGoAUFVX3lxTE9CNHNLRlByTmVRNFpabmpWd25mN1pkNHh1S21vSFJrczJmZWR3YWQxUFVNQWhTbnBlSnFjRV9Kb0FzZHpRcjIxMVM1Tl9YdGsxNEh2Nl9jZWtCYkh6QWg2OWNtVXp3WFJla1Z4RnhXM2pjLUxOZ0szX3ZadkhrRkJaMnVXWjFQVmZhXzVfRG91cm5BbDY2OTg5Q2llcmplSHNzVkdLcG5ONQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -277,30 +379,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOeDRucGlWOTVJbU5XYmQwWVFhRHcwOURHN3pvZEZ6UFRyZ2dHMjJJazN4aGNRZE8tNHVKYWphUDVtQ0xTUjlnRkZuNWdCdWs5dFhsVVpNZW4tWWZuREM5NVM2TXgwU05DZ1pZVS12NWJuUDN0Z2Z1bGdiLXZ1WWdTaVFTb0pnY1AzTmJoWWFnR29lakloTEVNZi1zUnBxMGtxUGlhcEV3SkNyTlJhN1BzUDdBYkxxM3BHYTFFOGlFTlMxeE5QODBMUnFZYkhweGNvdGp0X3RPVGRNSFpaNXp2TzFLSmJGQUUzb3F1blhDaDJDWTIxNE1lNmZNektQb3V1aUVoVWFNZW1TVndaNHpKSlBQNDdfQ3k0Q28wQW9aazVxRHo5aGpvX0tQMWIwYlRaS2xpM1otZ9IBvAJBVV95cUxQZ2xKLVFzcmU4SWgyZU1FUEVaTTdyc0JfZjhoZGtHc3R2YnhrenhmcUMydzNUMmVGVWZxM0tDc09FZ3hoU0xvNVF5VzV0cUtxUnVTVjM2aElRNXU2RU9qNy1uQTNrbnRDM3d0bUhvd1NlUXVMSGtfZmgzSTFQRXFUU1NxS0xZaVRiX01MajhkMWV2NzF0WTBaRlROOWZkcGpYMEk2UkRldXVmaVQ1SlBnNXhjR09TVUt5WGdYbllNSW5icWtObTdBZlVTTTFjSjU0cFVwMHJnM1M4Z3NRdEZydHBCYmpnVDU1RXM3OC1BZTVubDZjUUNLbG1KTVd0MUNsUnlrbmw0bWpsdDE3YjZSSW5MVU5rTWgxX2c2M3c1aG9obVNscnRoZERKcjM5VmNPZEFvUDJuNW8yMjFv?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Veteran Congress leader and incumbent BJP MP lock horns in Ajmer - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV0o1cVpLU1BRUE5xZ3F1bGpUZnJqLW9WclFmanZxWk5VeFpUcnRjbmNjMG5mMWM2SXR0aV9ad0lZVDFTTllMbWZYSEx1bnR0c0FPOGp4REUtcHFESXJrY1J1cC0wRG5la3FWMTVxcHU5WWVUVlhUOERYVG9VRk5EUU1JeEJXcmZCeDNYZTl2NG12bmV6YmxVaTJLTFZpSkZBYnpfTjVyODRobHFtTDNaY19haGwtakxWTnFTeW5vRHB1ay13V21CenlZbHRFRjJnQUHSAdgBQVVfeXFMT0JnMDZFMERGNktSY1BjVEljVV9GamxXVXBranRuVEl4dWljR2xOSTZ1dzRBUFkzWjZuQ3lmX0lrQktYcGtLQjNjazRFTEZlRl80ekRSanBHa3VsM2RQcUpDZXl0Ml8zek5vN241X0tOQXZ5WFh0RU1XeGVyMHEtdzRpTWx6UVVQX1h5bUlEUWtCRWthLWxCQ0o4S1Flbk1HaEpBb0JBUDJCY2F3MGpMRlpNOU95Z2g3QlppSG54V3dsUGp5YWlkeEhyVEo0VUdfalRmMVBZeDRB?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "2 BJP Members Of Parliament Mark 100% Attendance In Lok Sabha - NDTV",
-        "source": "NDTV",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEEwbkpoSHUwc1BSNVBienU0LXNHTmxOdkthcXA4N3lSQU9PR254eWM3N2VvVUJfTGZXcnNMMkNaaUN4Nmk4cEpuckpYdi1CZlA3aHhnOVowa3ZuNnFVNGRieFNoXzNwMEJuT1JGQUU3QXVHcEo0b09kd08tSlB3Y0xuYTZHOFRINzBFZWZVYzJpVWtyNGw4X0RJS29pdzNSUlHSAaoBQVVfeXFMTzB3Z0VsaHoxRkx2M3U1ZURmOGUwbk5TVzZzMlVYcEpGY3VYZ0dIeF9nTC1XMUhvbGhwSUQydW9VTWV6cnJSVlNUSDRIczNoaV9pd2J1NjB2NVlSUHRpMEtTZzZ0RTlvNWd2cThHSXFGaURXY2ljOWZlVnpZVzByTk0tcFhremZPTjVwVFp3QnRDOWh0SFVQSGg1OGhXeE85SlJnYUl3RnczM3c?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "PM Modi to address rally in Pushkar today in support of Nagaur, Ajmer LS candidates - The News Minute",
-        "source": "The News Minute",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbTRRZDVNSjF2RWFpZ0VnajVnNzF2UmVHc0lqeXc1WGFUelNWbWhEZ19YUVhINGI2ODBtRFpnQjdLN1owb21OTnRRcGkyZ2k1aVh2ZTJwaE4wd2M4UGNjUVQ4ZXVtNEZnSWhybHpjM0ZvXzdfRHd1LVMwZnF5emxJNTVmY3FWME9ta0trRkljajd0U0R4SXVvUmlTc2N0d1Y0M1dOanpkVVBZcXh3QmNtaXZaYU1aQzlW0gHGAUFVX3lxTFBfUTRzb0w5S29NeElJLV8ycTBOSFMzTVVuV0lWQ1pYRUozR1diZFAzbG1hYzhyQmFFSVFuZkhjNmpwQk8xUHVCZ01WLVdlb1A3YnBRMHZCNmZkMEdiRW9GQllJTFkwbVY2TkxwMEtyVnVOT0VzR3NSOGZEME11WnJ6bjd1dTlTUkJSdXRaRDBMRGt0NGtZZG9BV0F2OEdTc1FDMmt3Q1J3LVo0WmROZzE4YzBOQ0pkWUh5NVQ2SFJMVDhGTzhDZw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,7 +428,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

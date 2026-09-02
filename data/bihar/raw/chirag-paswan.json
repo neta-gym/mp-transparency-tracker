@@ -4,16 +4,16 @@
     "constituency": "Hajipur",
     "state": "bihar",
     "party": "Lok Jan Shakti Party (Ram Vilas)",
-    "myneta_candidate_id": 7281,
+    "myneta_candidate_id": null,
     "slug": "chirag-paswan",
     "house": "lok_sabha",
     "sansad_member_id": 4777,
     "profile_url": null,
     "canonical_name": "Chirag Paswan",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 42,
+    "age": null,
     "photo_url": "/mp-photos/4777.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:17.973651Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 26875873.0,
-    "liabilities": 0.0,
-    "net_worth": 26875873.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7281",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.795988Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 23.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.6,
-    "expended": 3.99,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:20:34.933909Z",
-        "notes": "Official eSAKSHI REST API — Works: 90 recommended, 79 sanctioned, 42 completed"
+        "fetched_at": "2026-09-02T14:56:40.751887Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:52:32.031331Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:52:32.029395Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 90,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.142857142857146
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:04.006351Z",
+        "fetched_at": "2026-09-02T14:52:32.028359Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP wins in Hajipur as party bets on ally Chirag Paswan’s stronghold in Bihar elections 2025 - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWjZjN0hFOXdKU3pDQ3cwWTNITzRONGhkVVgxOTdfODVQQkVEVTV4WGNtZFdFQUpaRzltTlhqbHZkXzFPd3NjLWZMZkQ2S3NzeEVrVGZmYVZIM202T2pMRUdVdVBicDBJdjBzdGpWN3B3SmVHNEtiaWdRTk1fVWpTbFZLQ3p0NThGWGxFRjIwR0hhbWItcTJlcl9IUFkyNE5weGs4VEk4b2NFcWtzbU1Nc2dCV01aSHJlRWV0M2pYM3paVzhQNF9BQnFtU2pyaVg0THdJVHhwV2FXdHNXVi16d0lXbzg4a01tMy12RWlpRQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chirag Paswan files his nomination from Hajipur, his late father’s stronghold - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTVI1TWZHSUpaNUFKZUVUZUx2OXBGWGUwb2ZLeUpiSE55dWJESk5zV0FTQnJieThjRVZ6TTJUblJsSG55aGJINjhxcHhCYXpiNEgyM3VxZm53cTVJT1lkUW9NRUpGaVNHY21yNExjbHBCby1KRzJEWXR6S1h5dlNQdnZMZXJqWGVDdTQzZjVESFVld1lvdHhkWXBycDFqWEotb1plSTcxQjhaV0NUTGF6MWpTbEhpOTVJNEV5OEhRRkpyNjRPSDFSbVM1R19lMmlIWjFnaVRfd9IB3gFBVV95cUxPRUFqTWEwVTRBdXRoR1V2RDA2eUdZeXpHLVdLS3QwVS1UTHpJQWRaX2F4VXR6dnJwbjFMRWlPbkxFRERZb25DNHpxdjA2N0RUUUZkMENpZDlPc0FFVlRBbzF3RkxvTmttTzJndm5DYmdYOFozMEdCOExIUWY5UWNIR3lXT2JsVFZFN1JfVnpsNlBBOG1zcXNBX094b0R5b0loc2hIWVdrbEZMQm5YWmRwdl9lbTVLUUVfUVN2MFV5WGJlNVZaZGlaYVI2Ym5pNXF2cUFxVHFUOEpMQ0Zhc1E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Father’s legacy his strength, Chirag Paswan the favourite in Hajipur race, RJD relies on social calculus - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZzMzdFNqUFV0MGEtcXJHaHJ2bU9MaUhmYTRNYUduSkJ5UFBXblNhc0RITVBIemo4Qm1VNnY4YU5EQkM3N1Fsd1RRc09uX1BqOHJ3bl9hNG5wMWFnRG5DVy1Ga21YbTdSLXllSlI0Y3lpb0I1NWRCRDZxb3UtYUY4UGx6NXNOTEpXZ01oUGV2Q2NoR2NaMERvNDdXYTBraFNzVXhGZjBETkFnQVZQelFfa0hfV3haaUFpcVBHdEdhNFNnTWlBUWU4STNjRGZpanJLUG0wVHpHQkpTM0hxSUVNUlRnVjJEZVEwODd2bUFKeXFGd9IB-AFBVV95cUxQaWdNQ3BDZ1M0MUFGZm5VNzVMeTRzbGJ2VVhhak5rSVJtTDhic0FvV1ZqbEZ2Y2Z4MUx1QTcwQl9MUGF3aVRPNXBncld1YnZ3ZW11dlY1ZFdhY3M1NkZOZDBPXzNOQm00SXVaRk9IdF9wQWhxeWY5R3BpMGM0OWUtMFNWOF91eEhNMlVxVkVrSHplX0M1ZGZqWEdnRm5oaXl2TGZTTFB3Q04tQVhSRUN3UVhRc2xEQnlhTGdveE5qR09aMldsWU1VVF82dk9tSG5fU3Q3dWJkR1d6S3JxdXd1OWl4VDBCNEV2ZHB4eG5oRjdhUmNlR1lTWQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hajipur tussle: Why Chirag and 'chacha' Pashupati crossed swords over this Bihar seat - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdoRVd3WGNNNG5GYVh3XzJzYXZtVlN0cXJCM2lYbHlwUk9vdkQ5R0tUX0U2UHpfeGdOSXNtVmRvdHg2UEFhSXp4SWFaVlNUS3dIZ2JCTUNXUkQ0M1c0aFE3V0hrbEZ6RjM3YTdQUU52N3pVcFhLZ1M1eXpvUXFNeU1UTloxMm9nQzdndzJVZGFlZ1pENDMtS0xXeG43SnplalppM3N1aVdXN21hZ3UzYmxrMNIBuAFBVV95cUxPbGNiWHhMRkI2TEZkblFfMUJvOHozR2VENGpfb211WUJXNkZSME93cXc3UUdmcllwTXdGYWYyV3hoelpRZXFWMUM0b3hod3YzU3lVMllKclBCR1JWbmxlOUVJcFFjUTdjU3czYzJvTEpWMkpiUXB1a0pYcnRsZkprTXVKTHpoTlZodXJVYUp0WEJ0LXcxX3J6MzlhcXN6eGlKXzlTS0pnNXhEV2d5NS1HWmstdHNvVU1R?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Want My Mother To Contest Lok Sabha Polls From Hajipur\": Chirag Paswan - ndtv.com",
+      "source": "ndtv.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObi0xNjI3Z3VNRmZLLUpjeHZoYm9PY3g4aUlIMTM3YUMyOHVzVDZEVnBXUGNfeDIxNklyT1lzRVdkdlVXVUNLdGxIQUVyV2tfdHNaWnhuZ3hlMklXUkVLeUZrcndxRkdqNkZJMVczY1EybVoxUHpFTlV4bHdRaU5DSTRPLU83SnZsNFRSeDRtVFdDZGFnZFExdDVONkY3aDlXWHpESWFfaDJ2WUoz0gG0AUFVX3lxTE1qNzJQUnh2RzlCVnRMWXpzbkMwd0hvbXhIN0Z6WTlTS2RFYzFPM1RFRl9QNGM2OHJXNHFBQmxzeEZianZNeEpfT3kzelQxWHJuRXJXUnFhVUZzaWYwRlhCV0JoalluamRpQnJXbHFKaTB1WEw4RDR6SXBQX2pnN1NMMFRxd2toMTduaTF4VnNZXzZvbWdfanFIWXNXN195UjZSX1JUNnRvN1hhU25GX0N2N0ItYQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:06.447855Z",
+  "collected_at": "2026-09-02T14:56:40.752723Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.047872Z",
+        "fetched_at": "2026-09-02T18:38:04.500045Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.047883Z",
+        "fetched_at": "2026-09-02T18:38:04.500056Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.047888Z",
+        "fetched_at": "2026-09-02T18:38:04.500062Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.047892Z",
+        "fetched_at": "2026-09-02T18:38:04.500068Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.047897Z",
+        "fetched_at": "2026-09-02T18:38:04.500073Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.047904Z",
+        "fetched_at": "2026-09-02T18:38:04.500078Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.047909Z",
+        "fetched_at": "2026-09-02T18:38:04.500083Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.047913Z",
+        "fetched_at": "2026-09-02T18:38:04.500088Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,11 +320,28 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/ichiragpaswan/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/ichiragpaswan/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:53:02.596176Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -280,27 +350,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Chirag Paswan Salary: From college dropout to Bollywood actor to minister..., Here's how much the LJP MP from Hajipur earns, his net worth is... - MSN",
-        "source": "MSN",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQNjBzVnpma1M0RkwwVWN1MWktZWp4QkxtTjlpc2pHaHhSS1BMN0gyN09mVmZrRVZhbnF0bERwR0RVVU40R0wxRTJydUdOVUx0bHk4SHIzaEJwd2ZzekNmZTFzN1ZoSVhpTzFwalJtcldNTHprUV9MQXFEbTRZWVo5bUxqUUNueWpodkhkV21PYUR1SUFBMU5NdHBKd3pjaXVhYXRPVFlsTWNDN2l6Y3FwLS0wSnd1RzhKOUNHZUJRMk9FX2tyVjZaNjh1MUxtbC1Db1BLbG45THBtbkJPNGN3V3RSNEt6MDNKbEhyMUVJajl2VU5SMjktOEtBNHhwam56bHJqYi1DamlzMjZ5T1NvTmY3SGFWdFVkbWdzTXEydmljeFpTeWFhRlh2WnlCeW53aXE1ZGhTdnhEQzhJdE1DSHdldW1nMG0weVFTX09vbjIwMTlxOFNDdkpZVWQxdTBkTjRJbjVDYzh1aWtTZHZFNHo2clBhVEtXdF9WU1Z5ay1veTZkTzQwZTVtOElWX0ljOEFkRWp6SFZTU1c4aGZJeG5uakRJSGFpWUgwTEtIRWR1R2ZsV2ZzYTJ0RVl6dU40bVRvTg?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP wins in Hajipur as party bets on ally Chirag Paswan’s stronghold in Bihar elections 2025 | India News - Hindustan Times",
+        "headline": "BJP wins in Hajipur as party bets on ally Chirag Paswan’s stronghold in Bihar elections 2025 - Hindustan Times",
         "source": "Hindustan Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWjZjN0hFOXdKU3pDQ3cwWTNITzRONGhkVVgxOTdfODVQQkVEVTV4WGNtZFdFQUpaRzltTlhqbHZkXzFPd3NjLWZMZkQ2S3NzeEVrVGZmYVZIM202T2pMRUdVdVBicDBJdjBzdGpWN3B3SmVHNEtiaWdRTk1fVWpTbFZLQ3p0NThGWGxFRjIwR0hhbWItcTJlcl9IUFkyNE5weGs4VEk4b2NFcWtzbU1Nc2dCV01aSHJlRWV0M2pYM3paVzhQNF9BQnFtU2pyaVg0THdJVHhwV2FXdHNXVi16d0lXbzg4a01tMy12RWlpRdIB9AFBVV95cUxNX1BDMFB6OHVackdCMDJFU1V5cDgzY1pqTWJPTzdrajlFMVpTT0pzV0ZGVThjM1VjNE11RExYWTA5a01hc3h6Slcyc0VPZUhuZ2NkVmxWLTU1N0Vtby1MbV85UDRpRy1FbGdUWFVUWlZYdklSZ2V5ZU5CT0dNM1gzZ3hyVnhQY3V0UE9xYklMN0YwdTh0d0pLQjU0bVNuOS1KN1JZeHJoTUt5bzNGQjV1S1lybmEweG9lSEE4TG9LbEhmNHJIMlZ3SktqR0lDSFhuQm55MHltOUhhd0VWN1hXc2dIWEYzN3d4bkdUQkx4ZmRGclk5?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Hajipur tussle: Why Chirag and 'chacha' Pashupati crossed swords over this Bihar seat - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdoRVd3WGNNNG5GYVh3XzJzYXZtVlN0cXJCM2lYbHlwUk9vdkQ5R0tUX0U2UHpfeGdOSXNtVmRvdHg2UEFhSXp4SWFaVlNUS3dIZ2JCTUNXUkQ0M1c0aFE3V0hrbEZ6RjM3YTdQUU52N3pVcFhLZ1M1eXpvUXFNeU1UTloxMm9nQzdndzJVZGFlZ1pENDMtS0xXeG43SnplalppM3N1aVdXN21hZ3UzYmxrMNIBuAFBVV95cUxPbGNiWHhMRkI2TEZkblFfMUJvOHozR2VENGpfb211WUJXNkZSME93cXc3UUdmcllwTXdGYWYyV3hoelpRZXFWMUM0b3hod3YzU3lVMllKclBCR1JWbmxlOUVJcFFjUTdjU3czYzJvTEpWMkpiUXB1a0pYcnRsZkprTXVKTHpoTlZodXJVYUp0WEJ0LXcxX3J6MzlhcXN6eGlKXzlTS0pnNXhEV2d5NS1HWmstdHNvVU1R?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWjZjN0hFOXdKU3pDQ3cwWTNITzRONGhkVVgxOTdfODVQQkVEVTV4WGNtZFdFQUpaRzltTlhqbHZkXzFPd3NjLWZMZkQ2S3NzeEVrVGZmYVZIM202T2pMRUdVdVBicDBJdjBzdGpWN3B3SmVHNEtiaWdRTk1fVWpTbFZLQ3p0NThGWGxFRjIwR0hhbWItcTJlcl9IUFkyNE5weGs4VEk4b2NFcWtzbU1Nc2dCV01aSHJlRWV0M2pYM3paVzhQNF9BQnFtU2pyaVg0THdJVHhwV2FXdHNXVi16d0lXbzg4a01tMy12RWlpRQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -312,11 +366,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Hajipur Decision Made, Says Chirag Paswan Days After NDA Meet - NDTV",
-        "source": "NDTV",
+        "headline": "Father’s legacy his strength, Chirag Paswan the favourite in Hajipur race, RJD relies on social calculus - The Indian Express",
+        "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWkRZZWI2QVNfOWJxeHRMOUVRaU9rWUxYVDhubUlubEJTNWk4Unl3djhhYWVrM1FwMTJYTjN4T3lBNEpuRXhOWEJHTEJ3LWJRdTUyQWdwZFhoX3dUM2ZNVldNSUNHVGtsdU4zTDF1N1hpSmZneEJOdkU4VkRHOFl5TFJpRXZXSkR6eHRRSUhncVgyY1gyS0ptQml2YkfSAaQBQVVfeXFMT0QzTjNkV3NYaDFiWGx2SHlxdE9FVlJ0WVFFSnFxcHZydWpqRmVMeE5ldnl6N2xHZ05YOGwtVHNKTlc4UEh0STZSQ2U2OXRwWWhtVVlnbjk5MWVFdlBZWmNhdFU2TlAwbWIwUWNwNVA3MHJjUEZJcVNZbDc1QlhRTzBNUGZIa1hidG5MMTVkS1hIU19vOFJxNlFiejdrQ1F3U2lxRWY?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZzMzdFNqUFV0MGEtcXJHaHJ2bU9MaUhmYTRNYUduSkJ5UFBXblNhc0RITVBIemo4Qm1VNnY4YU5EQkM3N1Fsd1RRc09uX1BqOHJ3bl9hNG5wMWFnRG5DVy1Ga21YbTdSLXllSlI0Y3lpb0I1NWRCRDZxb3UtYUY4UGx6NXNOTEpXZ01oUGV2Q2NoR2NaMERvNDdXYTBraFNzVXhGZjBETkFnQVZQelFfa0hfV3haaUFpcVBHdEdhNFNnTWlBUWU4STNjRGZpanJLUG0wVHpHQkpTM0hxSUVNUlRnVjJEZVEwODd2bUFKeXFGd9IB-AFBVV95cUxQaWdNQ3BDZ1M0MUFGZm5VNzVMeTRzbGJ2VVhhak5rSVJtTDhic0FvV1ZqbEZ2Y2Z4MUx1QTcwQl9MUGF3aVRPNXBncld1YnZ3ZW11dlY1ZFdhY3M1NkZOZDBPXzNOQm00SXVaRk9IdF9wQWhxeWY5R3BpMGM0OWUtMFNWOF91eEhNMlVxVkVrSHplX0M1ZGZqWEdnRm5oaXl2TGZTTFB3Q04tQVhSRUN3UVhRc2xEQnlhTGdveE5qR09aMldsWU1VVF82dk9tSG5fU3Q3dWJkR1d6S3JxdXd1OWl4VDBCNEV2ZHB4eG5oRjdhUmNlR1lTWQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hajipur tussle: Why Chirag and 'chacha' Pashupati crossed swords over this Bihar seat - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjdoRVd3WGNNNG5GYVh3XzJzYXZtVlN0cXJCM2lYbHlwUk9vdkQ5R0tUX0U2UHpfeGdOSXNtVmRvdHg2UEFhSXp4SWFaVlNUS3dIZ2JCTUNXUkQ0M1c0aFE3V0hrbEZ6RjM3YTdQUU52N3pVcFhLZ1M1eXpvUXFNeU1UTloxMm9nQzdndzJVZGFlZ1pENDMtS0xXeG43SnplalppM3N1aVdXN21hZ3UzYmxrMNIBuAFBVV95cUxPbGNiWHhMRkI2TEZkblFfMUJvOHozR2VENGpfb211WUJXNkZSME93cXc3UUdmcllwTXdGYWYyV3hoelpRZXFWMUM0b3hod3YzU3lVMllKclBCR1JWbmxlOUVJcFFjUTdjU3czYzJvTEpWMkpiUXB1a0pYcnRsZkprTXVKTHpoTlZodXJVYUp0WEJ0LXcxX3J6MzlhcXN6eGlKXzlTS0pnNXhEV2d5NS1HWmstdHNvVU1R?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "\"Want My Mother To Contest Lok Sabha Polls From Hajipur\": Chirag Paswan - ndtv.com",
+        "source": "ndtv.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObi0xNjI3Z3VNRmZLLUpjeHZoYm9PY3g4aUlIMTM3YUMyOHVzVDZEVnBXUGNfeDIxNklyT1lzRVdkdlVXVUNLdGxIQUVyV2tfdHNaWnhuZ3hlMklXUkVLeUZrcndxRkdqNkZJMVczY1EybVoxUHpFTlV4bHdRaU5DSTRPLU83SnZsNFRSeDRtVFdDZGFnZFExdDVONkY3aDlXWHpESWFfaDJ2WUoz0gG0AUFVX3lxTE1qNzJQUnh2RzlCVnRMWXpzbkMwd0hvbXhIN0Z6WTlTS2RFYzFPM1RFRl9QNGM2OHJXNHFBQmxzeEZianZNeEpfT3kzelQxWHJuRXJXUnFhVUZzaWYwRlhCV0JoalluamRpQnJXbHFKaTB1WEw4RDR6SXBQX2pnN1NMMFRxd2toMTduaTF4VnNZXzZvbWdfanFIWXNXN195UjZSX1JUNnRvN1hhU25GX0N2N0ItYQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -366,7 +436,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

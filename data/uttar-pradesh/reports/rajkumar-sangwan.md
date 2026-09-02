@@ -3,19 +3,17 @@
 **Constituency:** Baghpat, Uttar Pradesh
 **Party:** Rashtriya Lok Dal
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 63
-**Education:** Doctorate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.4 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 11.0 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
@@ -34,28 +32,33 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 178/2003, Civil Line Meerut Police Station (Sections: 147, 332, 353) [pending] 
+2. 134/2010, Civil Line Meerut Police Station (Sections: 147, 323, 504) [pending] 
+3. 114/2014, Sardhana Meerut Police Station (Sections: 143, 341, 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 47.99 Lakh
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 47.99 Lakh
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 5% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 4
-- **Expended:** Rs 2
-- **Utilization Rate:** 13.7%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -76,29 +79,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Uttar Pradesh's Baghpat divided over khap panchayat’s ban on smartphones, dress code for minors - The New Indian Express (The New Indian Express) [neutral]
-- UP khap panchayat bans smartphones for children - Telangana Today (Telangana Today) [neutral]
+- UP Government Provides Financial Aid To Murder Victim's Family - Rediff (Rediff) [neutral]
 - Baghpat election results 2024 live updates: RLD's Rajkumar Sangwan wins with over 1.59 lakh vote margin - The Times of India (The Times of India) [neutral]
-- Centre announces doubling of tracks between Delhi-Shamli railway section - The Statesman (The Statesman) [neutral]
-- Baghpat Election Result: बागपत से RLD के राजकुमार संगवान जीते, सपा उम्मीदवार हारे - AajTak (AajTak) [neutral]
+- Dr Rajkumar Sangwan - The Hindu (The Hindu) [neutral]
+- UP khap panchayat bans smartphones for children - Telangana Today (Telangana Today) [neutral]
+- On Charan Singh’s turf Baghpat, RLD and BJP turn ticket to a non-family member into a plus - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **UP Government Provides Financial Aid To Murder Victim's Family - Rediff** (Rediff)
+- ! **Baghpat election results 2024 live updates: RLD's Rajkumar Sangwan wins with over 1.59 lakh vote margin - The Times of India** (The Times of India)
+- ! **Dr Rajkumar Sangwan - The Hindu** (The Hindu)
+- ! **UP khap panchayat bans smartphones for children - Telangana Today** (Telangana Today)
+- ! **On Charan Singh’s turf Baghpat, RLD and BJP turn ticket to a non-family member into a plus - The Indian Express** (The Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rajkumar Sangwan shows moderate transparency with a score of 51.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Rajkumar Sangwan shows moderate transparency with a score of 56.5/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 4,799,426. MPLADS utilization: 13.7%. Parliament attendance: 100.0%. Questions asked: 25. Debates participated: 13.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 25. Debates participated: 13. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +154,7 @@ Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +233,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Rajkumar Sangwan's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 13.7%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +250,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

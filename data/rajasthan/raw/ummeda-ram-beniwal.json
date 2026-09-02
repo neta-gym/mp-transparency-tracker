@@ -4,16 +4,16 @@
     "constituency": "Barmer",
     "state": "rajasthan",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 2547,
+    "myneta_candidate_id": null,
     "slug": "ummeda-ram-beniwal",
     "house": "lok_sabha",
     "sansad_member_id": 5762,
     "profile_url": null,
     "canonical_name": "Ummeda Ram Beniwal",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 46,
+    "age": null,
     "photo_url": "/mp-photos/5762.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:14.016515Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 192765969.0,
-    "liabilities": 66244492.0,
-    "net_worth": 126521477.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2547",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.030102Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 70.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.99,
-    "expended": 5.66,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:07.677459Z",
-        "notes": "Official eSAKSHI REST API — Works: 166 recommended, 161 sanctioned, 71 completed"
+        "fetched_at": "2026-09-02T14:26:43.639156Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:52.737914Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:21:55.531520Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 166,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 38.50340136054422
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:34.596729Z",
+        "fetched_at": "2026-09-02T14:21:54.996164Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Jaisalmer, Barmer peace marches oppose demolition drive near international border - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR0Rpbm9PM1JzcUY1NmxPcWdyNTdETW5CMEpGNUQzcnRKejI0MjMwNGRGSmtwSmdwYmJuREEySmJqbW5XcUo1cjVOSzI4dV96ZmxUU21ld1NheFdWUzJqTXl2U2xsYVlZcWNDekx0emdjZ1lBcDRseEtRTmpnWWstT3ZYdFFEX1ZVRkp0RDhkT1BRUHdGd0lfSGpkaF9TMDNkRkw2QV9WajhvX2E2eWN4YVpjalZPdllGUmlXRGhRQ1dDVjNZRVJCTWF5Rm1nZW1BWTQ1M1RlUWU3UEZ4VU15STFHTUsyUl9Yc1HSAe8BQVVfeXFMT3ZscnBMSDdnVmxaeXZzMkJlZXc4dG4xNWhUTFoxMDllVm5TSFRlUUV5VFdoazBXUi1McUZQVG5hYnZsaHhCRTU4TWxYazN3cldvVFFVcjZnaWZ5cHJHejZGZVlqRGFONTdKbnVidjRudXB4NnhWUUl6TkdENEhieUpaY0RzdlF5U2JsZ3BkMUNfTVFVdlJLaktpQzJKSnZyS2liWi05YUR5alRDVUFVeVk1cWNNcVlRek9KQ21sd3BKYTRKREw4VzNTYjNCX3Zrd2s3eXhZTWlEYUNUTTdaTFZzMkdxZ29fV2taRGhtam8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Unseasonal rain batters Barmer, Jaisalmer; crops suffer heavy damage - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOW9JM2pvQWRfcWZwVDJoT2hVVzh0azNZMHU0bG13VDctamNhbDhMSmxCT211M24wLXIzV3lCWHRIX1FKZjh6SExaS2hOaVU0UXN1aFVjcnNuSGstb3hXeWJJTlBTZjNERGtkRzQwaWhXd0F5SEszSU9BQ19LWEstUUwxU3V2dlZYUG5XV2RyRHQtU1pySm5zakQzNm12c0JvQldfZEozel9iUkpac0pzeEhockhpY3M5cUlCMDVEalhJLTlRcG45MTlpdnI0LVh4Ty16TzVESdIB3AFBVV95cUxOay1iUTZpRWl4Ri1FZURVWmRZa3hqc29YOUJFWXNmcXdScWFUaThFZEVsQnF2TnNtQXEycE1JVFhlUkR4ZGk2MVgzeEJ2aWVCWlRtOV8tejVpeVJXTGRHNUU1dHU2TmpZRXByNDBBd1J1QWNKUnBsOEF3UTJWMXZuRzFVdTNCb1E1Nmw4Ym9VNEdubjc5SlRZQi05eUdra0IwWlZqM1Z4UXF1MmJ3cWdHMU9KVGtwenpIOWZQaFdhd25hMUZial9OSXdTZlNVa0RzM3dpUWVSZTdmaDhr?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Ummeda Ram Beniwal: How an ex-Delhi Police constable became Barmer’s Lok Sabha MP | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeWlfZFdZbFA5dDBGNkRsZ2dyTnZzMXlBNVFicUViRU5GRnJQcVFJa0dSTDM3bXFmMnNpYjdzSjI3NVFFeVo2SFdHNHZUX2VOWmYwUVZpclZEU0FuNDV4OS0wRE5TQ2tfMWgzTjNqRm9qUkVHcDRfVHpwVnpaT211U01ReVBNR1VsbURxQUVTdkRpWEl1RVQ0ZjdSVlZTMkRxdEFRZk1jbHJCWDlyT1NzeHNXNHBTTzEwTXo5UmZWQjhFSFl5SFVncHViX0pKN01PTVVDdjJHSk4tdTB2VGFDRFB0TWxPUdIB6wFBVV95cUxQWnNFekxvRGd1LVRmMnNrWGJyS3EwOFFTZEl5QXRDcVBtSmhmR3BwV2c2MURyd0h0WE05dWZiR1ViYk95emFTMWlWQVdXeFFpRkZUS1l0R0JFeWRjdkpsMDkxbEJSNHQ2M1I1RUxSNy1RaHBJdTk3UV9OYjl4Q29oTVNsLUFIcHBzRnM1NEVoVE9ERE5fR3J4aW5hZkhjcDQwc2hFNUgxN0JZQ0FRcUxKc3dkeWFlNlRxNlVHWlRBcnc3a2FVQXNaN3RscUNuUU94QXJZMGo2cVUzMHVPcGZqVmdGNTVZeHNhODhZ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "From Constable To Congress MP, Ummeda Ram Beniwal's Remarkable Journey To Lok Sabha - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd3ZuNWtkbHhneWVfMGV5Z2QwdEhIZ2R5YXhSWmR1aEphVkg4dGRHY0Z3emVfRVVmTzd5MEp5T3pPMnBHX2hheXY4c25naFJqSVBkS0c3OGw2c2lJaGtMdW1sZ0ctTjFueGVoRDdlemdfdXRuTEowZ01zb091M1lDZzVvQXljUjlMWm1URmthSHh2cVBaT0Rxc0o3SDJWQVcyanpuRlBES2p1WWxuY1Z3NTI2OFhKb25LSFRvWnFMQm91Skh1V2l4bEJCcWpNSHPSAdQBQVVfeXFMTlQyZFlpNzIxUmxBaUcwVGtuS3FVb3ZBS0liVk9UTF9JUmpfZFpFa0lSWl9mY1Nic1RUMkU5SkpvZVlMWXBrU1c1U3BkOEhMUmlRdVM4c194Qml1b3ctZlhmcWJtOXJJRnNrMUphcDlRNmhjSjF4UGZqY0RpTF9pRk5GMHd1RDlseS00SWlJaDlVMl9Jbjg3QTlRcXoxWDA3LUlFMUdhWWlEcVFSLWxOVG8tVEthS19mUG4xN2VxQldtcVYzY20tTzhNQnFmMDdfWTV3N2w?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Barmer-Jaisalmer Lok Sabha Seat Result 2024: Congress's Ummeda Ram Beniwal Wins by Over 1.18 Lakh Votes - ETV Bharat",
+      "source": "ETV Bharat",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNdmV4OWk1enU2MldrdnlxemV1VzVKeGhGZm9wNUgtNjMtdE5ZcXRZSmpyaUN1ajY4NzBVS1Q0bU1zQmxxRGQ4ekotS1ZyV25IT0RXMzBsZHRPR2d2OVZ2RkxmNTQ1clZMZG5MUFo0MlByaDhlTGRDc0ltd2ZTUHJqOUFhRXlGUzFKRjJBM2xxTVBaNnFMVzR6RzRiQlhWa0gybXVlSWlrQ3V4VVFvRjVRSWNUcWo2VXdPMnNvdUZ6SllLeHpOR3gxN0I3MVBwaFc5N3piS2NXOEl2eDcwU3RaUmJYLTRPVnNEdXJRY193RzREZ2hOcmFuWGtRYlNzaG1mM3RHSzY0WllHcnFsVHNJREREcEp6Z1l0OVJwUHVlX0tTZnJOQ1dhbDNkTVNTWk90b3Y2MtIBugJBVV95cUxPTnAwaXU1OUdFRFZ3Nkw3VzQ2ckR4WDhXbV9MVUdTeHRXenJ6Z0wwX1ozNGFCT1RsVGtUNUxyZTFMTDBNSUZZb3RNdEN6THBMZnRTRjYxNDg3RWVwVXJYZkltVTNRZmk3SlVOVHlkRDhtQXBJTmV2UkJDcFVZVFBMSVl2WGZ1aHNmVm55aUh5eXR2NDJrOXk1Q0lsWFpyQmRreWNCYzNHMTVXZG5uZGhsYkxQZGVTdy1jODFUZFV0YlVIX2VMVXFoT0FqRUR0QV83bDlob0tzT0ZYTXZwWUJVVURtQjZBNHl3UzlXT0VOQ3RPWGI5UE5hS01vMDV1Z0o4Y21MM0VkSVlhM3Y2N0NuWmhNSWx2d21VaU55UF9oLTVNdDJsV0VPQ29SX2h0Wkp6YjhLalhSNDV1dw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:02.028823Z",
+  "collected_at": "2026-09-02T14:27:16.643763Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.213409Z",
+        "fetched_at": "2026-09-02T18:38:09.638059Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.213418Z",
+        "fetched_at": "2026-09-02T18:38:09.638069Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.213422Z",
+        "fetched_at": "2026-09-02T18:38:09.638075Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.213426Z",
+        "fetched_at": "2026-09-02T18:38:09.638081Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.213432Z",
+        "fetched_at": "2026-09-02T18:38:09.638086Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.213436Z",
+        "fetched_at": "2026-09-02T18:38:09.638091Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.213440Z",
+        "fetched_at": "2026-09-02T18:38:09.638095Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/UmmedaRamBaytu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "url": "https://x.com/https://x.com/UmmedaRamBaytu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/UmmedaRamBeniwalBaytu/",
+        "url": "https://facebook.com/https://www.facebook.com/UmmedaRamBeniwalBaytu/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/ummedaram_beniwal/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/ummedaram_beniwal/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:22:28.390271Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,19 +350,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Reports vs Reality: Barmer MP flags JJM gaps in desert districts - The Times of India",
+        "headline": "Jaisalmer, Barmer peace marches oppose demolition drive near international border - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYW10VlBOeDlUSVdTOUpfdkZ1MEc5VVZkTTFuZmZwU3BCZDE0Uk02YWxwQmFqQU5rUWNDelB6R3FrbWxnUmVhOU0xOXgtSzFETS04cDFPOUxuc3lvVXpHaVdub3Z5cUs5Mmt5M3R6TXlzVm9zamlzTXNudGtfdlZCTGgta1Q0bzVETTZIQzhuQjNCU0U5MlhiS1lTNUIyQmw0RDc1WV9kWFRxU0p3LXpYT1k2TlJ5dWVDby1FLW4wX2tXb1F1azVkbUZiZmcxMkYyenRv0gHYAUFVX3lxTE5lUUlNb09aLW00VjV1NzljX2pheGNMVW44WnFsVHZUTE9FWU56Q0t6SWJzRUF0SG1mVDdNYUctNGdUQ01rOVpCQ2lWaXN5MVk5S19RUGU1Y0lrbGRRUEJKaFhYWFRrc1VmUFhqa1NrQW5yOHFBRHFkNktRTXJKd2ZlZnBvOFBsMUJkeEdOYy0xdVpENFdRa2VRbGJvTkRGQ1RMbl9IdkhuSkRsS0dqMjVtTDhwcElBVHF0a3NfTUJtU2E0LWZ4QTlrWFR6ZnpxSG1vcVlCTS1hdQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Here Only To Eat Samosas?: Collector Tina Dabi Gets Earful From Barmer MP, MLA Video Viral - ABP News",
-        "source": "ABP News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORXQyZmo1UEp1MG9VTkFBendDZHlKTUx4OXdta3JlRjd6S2lQN2lQcHBlSFJ3b0dTcU45dk96MWh6WUE4RWMtZ0tqbTE3RVVzdVVhQjZEOHpHM0QwXzB3UDF1MXd6LWVNTmZteWVYN3BzUW9aSlNZRDRjR3V6UXlXZmU2cU5GNzQtZDhLeHEwMWV5NDVTczN1VDcxUlRuX3N6T21WNG5LV0U0R2Z4UmhTcUVJYzlRcWo1YnRhNk51c21ucm9hZlk0NmVlUHd5MnJKTGRtcWN5UUYtMEtiSndv0gHkAUFVX3lxTFBDd1BKZ0VzSGIzdEE4S2o4eTh0Y0VCMTczUTl5T01HTGRnUFp0R0FUbHRqN0xNTVUySjhuUlJJZnFsMlZPbnJORlZMZWZ3Tnl0SDdJckJYYkthaUVCNUhoMHZzNzNuNVpWeXltUnNsT3cwRUJpWWdTMDl4YUNUSFJHY2U4c3FpeGlaakN3M1lWNHVRUk9Nby1nTVc0RWQ4MGFrRFZyQllHOC1SbFU3bWJLOGl4bm5yeVZqcjRWWVo5S0RWMkpPeVQybDd0SUtlRHhTMWNJQVRHdi0tMkdQT01EaUZDVQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR0Rpbm9PM1JzcUY1NmxPcWdyNTdETW5CMEpGNUQzcnRKejI0MjMwNGRGSmtwSmdwYmJuREEySmJqbW5XcUo1cjVOSzI4dV96ZmxUU21ld1NheFdWUzJqTXl2U2xsYVlZcWNDekx0emdjZ1lBcDRseEtRTmpnWWstT3ZYdFFEX1ZVRkp0RDhkT1BRUHdGd0lfSGpkaF9TMDNkRkw2QV9WajhvX2E2eWN4YVpjalZPdllGUmlXRGhRQ1dDVjNZRVJCTWF5Rm1nZW1BWTQ1M1RlUWU3UEZ4VU15STFHTUsyUl9Yc1HSAe8BQVVfeXFMT3ZscnBMSDdnVmxaeXZzMkJlZXc4dG4xNWhUTFoxMDllVm5TSFRlUUV5VFdoazBXUi1McUZQVG5hYnZsaHhCRTU4TWxYazN3cldvVFFVcjZnaWZ5cHJHejZGZVlqRGFONTdKbnVidjRudXB4NnhWUUl6TkdENEhieUpaY0RzdlF5U2JsZ3BkMUNfTVFVdlJLaktpQzJKSnZyS2liWi05YUR5alRDVUFVeVk1cWNNcVlRek9KQ21sd3BKYTRKREw4VzNTYjNCX3Zrd2s3eXhZTWlEYUNUTTdaTFZzMkdxZ29fV2taRGhtam8?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -288,19 +366,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Cong brass attends rally in Barmer against dist boundary changes - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR1k2MnRxRFhlb2lNaEpkR3AwV01ZT05ZVE1PeE92UlhleXN3VmhuOFpyWFNWZUNYanJMUllNeHZjZ3o4ZDNnZ21ieXBWdkV6eFlvUkQ1ZklZYUdrSk1jeEYwTWxyLTZ6MW1aaElwbWN6YTRwNFRsWTNNZzlWNlFmdXJ1WHVKZGp6WjRfakpUMFBId0JMZlpMRWpCNnFibVhBUUd6aXlIQjE3MWdWTEg4S3FWWkkyQUI1cWhJckYzZ0tTbkhBS2dtTnJDVnRpX3pENGVIYdIB2gFBVV95cUxQaDY2cldleFVnUlhnU3JUU01YeXJ5ZkpTSWhnM3Q2cjZLVlhkd082RDAtSXhtQWZHVWRmb25MMmRSZk96SHlYZXUxb0hiODFuaF96M1ZxUjN2UHRyclEtQVlqWEwydUVMSUJKOVp0eWk4eUlwLXFJM3VwOUp1Zjg4WV9jampDS0F5ekxmNGRrMkJOd3BYdFBCSFExY05BNXJBR2MxQm1SZ1l0UFAyVmVjbG1Sc1Fka2MzN2R0V2Frb2NnRkJRVVVrMDFxck4zVU5qLXpyMUdXTzZRUQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Ummeda Ram Beniwal: How an ex-Delhi Police constable became Barmer’s Lok Sabha MP | Hindustan Times - Hindustan Times",
         "source": "Hindustan Times",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeWlfZFdZbFA5dDBGNkRsZ2dyTnZzMXlBNVFicUViRU5GRnJQcVFJa0dSTDM3bXFmMnNpYjdzSjI3NVFFeVo2SFdHNHZUX2VOWmYwUVZpclZEU0FuNDV4OS0wRE5TQ2tfMWgzTjNqRm9qUkVHcDRfVHpwVnpaT211U01ReVBNR1VsbURxQUVTdkRpWEl1RVQ0ZjdSVlZTMkRxdEFRZk1jbHJCWDlyT1NzeHNXNHBTTzEwTXo5UmZWQjhFSFl5SFVncHViX0pKN01PTVVDdjJHSk4tdTB2VGFDRFB0TWxPUdIB6wFBVV95cUxQWnNFekxvRGd1LVRmMnNrWGJyS3EwOFFTZEl5QXRDcVBtSmhmR3BwV2c2MURyd0h0WE05dWZiR1ViYk95emFTMWlWQVdXeFFpRkZUS1l0R0JFeWRjdkpsMDkxbEJSNHQ2M1I1RUxSNy1RaHBJdTk3UV9OYjl4Q29oTVNsLUFIcHBzRnM1NEVoVE9ERE5fR3J4aW5hZkhjcDQwc2hFNUgxN0JZQ0FRcUxKc3dkeWFlNlRxNlVHWlRBcnc3a2FVQXNaN3RscUNuUU94QXJZMGo2cVUzMHVPcGZqVmdGNTVZeHNhODhZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "From Constable To Congress MP, Ummeda Ram Beniwal's Remarkable Journey To Lok Sabha - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd3ZuNWtkbHhneWVfMGV5Z2QwdEhIZ2R5YXhSWmR1aEphVkg4dGRHY0Z3emVfRVVmTzd5MEp5T3pPMnBHX2hheXY4c25naFJqSVBkS0c3OGw2c2lJaGtMdW1sZ0ctTjFueGVoRDdlemdfdXRuTEowZ01zb091M1lDZzVvQXljUjlMWm1URmthSHh2cVBaT0Rxc0o3SDJWQVcyanpuRlBES2p1WWxuY1Z3NTI2OFhKb25LSFRvWnFMQm91Skh1V2l4bEJCcWpNSHPSAdQBQVVfeXFMTlQyZFlpNzIxUmxBaUcwVGtuS3FVb3ZBS0liVk9UTF9JUmpfZFpFa0lSWl9mY1Nic1RUMkU5SkpvZVlMWXBrU1c1U3BkOEhMUmlRdVM4c194Qml1b3ctZlhmcWJtOXJJRnNrMUphcDlRNmhjSjF4UGZqY0RpTF9pRk5GMHd1RDlseS00SWlJaDlVMl9Jbjg3QTlRcXoxWDA3LUlFMUdhWWlEcVFSLWxOVG8tVEthS19mUG4xN2VxQldtcVYzY20tTzhNQnFmMDdfWTV3N2w?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Barmer-Jaisalmer Lok Sabha Seat Result 2024: Congress's Ummeda Ram Beniwal Wins by Over 1.18 Lakh Votes - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNdmV4OWk1enU2MldrdnlxemV1VzVKeGhGZm9wNUgtNjMtdE5ZcXRZSmpyaUN1ajY4NzBVS1Q0bU1zQmxxRGQ4ekotS1ZyV25IT0RXMzBsZHRPR2d2OVZ2RkxmNTQ1clZMZG5MUFo0MlByaDhlTGRDc0ltd2ZTUHJqOUFhRXlGUzFKRjJBM2xxTVBaNnFMVzR6RzRiQlhWa0gybXVlSWlrQ3V4VVFvRjVRSWNUcWo2VXdPMnNvdUZ6SllLeHpOR3gxN0I3MVBwaFc5N3piS2NXOEl2eDcwU3RaUmJYLTRPVnNEdXJRY193RzREZ2hOcmFuWGtRYlNzaG1mM3RHSzY0WllHcnFsVHNJREREcEp6Z1l0OVJwUHVlX0tTZnJOQ1dhbDNkTVNTWk90b3Y2MtIBugJBVV95cUxPTnAwaXU1OUdFRFZ3Nkw3VzQ2ckR4WDhXbV9MVUdTeHRXenJ6Z0wwX1ozNGFCT1RsVGtUNUxyZTFMTDBNSUZZb3RNdEN6THBMZnRTRjYxNDg3RWVwVXJYZkltVTNRZmk3SlVOVHlkRDhtQXBJTmV2UkJDcFVZVFBMSVl2WGZ1aHNmVm55aUh5eXR2NDJrOXk1Q0lsWFpyQmRreWNCYzNHMTVXZG5uZGhsYkxQZGVTdy1jODFUZFV0YlVIX2VMVXFoT0FqRUR0QV83bDlob0tzT0ZYTXZwWUJVVURtQjZBNHl3UzlXT0VOQ3RPWGI5UE5hS01vMDV1Z0o4Y21MM0VkSVlhM3Y2N0NuWmhNSWx2d21VaU55UF9oLTVNdDJsV0VPQ29SX2h0Wkp6YjhLalhSNDV1dw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 33,
+    "starred_questions": 9,
+    "unstarred_questions": 24,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 63.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

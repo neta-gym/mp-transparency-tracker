@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/4605.jpg"
   },
   "criminal_record": {
-    "total_cases": 1,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 1,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 36017232.0,
-    "liabilities": 6642427.0,
-    "net_worth": 29374805.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 29.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.77,
-    "expended": 8.44,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:39.226794Z",
-        "notes": "Official eSAKSHI REST API — Works: 161 recommended, 161 sanctioned, 142 completed"
+        "fetched_at": "2026-09-02T16:47:46.190401Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:44:04.546378Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:44:04.543522Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 161,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 57.41496598639456
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:57:00.421122Z",
+        "fetched_at": "2026-09-02T16:44:04.542489Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP’s new team: Two Muslims among eight from poll-bound UP - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHBIek5lSHlHZElLQ0JVN3FNSnlydlZscmxsbml6dk52bGE0d25rMVNpel9UU1hjZHVENElVV1RUd2JmWk5venJtOExrQnNxZHR0OTJ2YVpvUmxwaVhqaHRKeWZhZUd5X2FucUpnUEZHQXVnTGJMZk5IU1VKeEdUWUs5ZkFucTRLOTgyQmp4dGktOTJDTUZiWGlpNVZhWE5fT19Ea19YWHhiWUVvVVBIb3ZicFNUZnowRGlqTTZSONIBzAFBVV95cUxQV3JabkQ3QmZvdHJHUzhHWGZXdXJXNzV6UzUtNEY3cUFoMW9NOUk5MjhSRnY5LWYtT2JRTEViOTZOQXctMjNDcjhxVEgtZjF5aElCYUxBTklEVUpJajFsT0VRUFB4VEFaUHB6UkszMVpkX2pTenhnRGJmUkZCeVRwUFNDWkNrLWVMUHpLVGxkV0dhbE9ndXdmbXJ2Y0lhUG5ZX2RDSWZOTDhhTjlJWmVVdVFMM2ZzLUkzY2trX1pzY3BvaU5memVfYmQyaTU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP Announces Major National Team Reshuffle Under Nitin Nabin; Smriti Irani, Ram Madhav Make Comebacks - Pragativadi",
+      "source": "Pragativadi",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajhEcno4RFlEYjFNTVNUc2lHbThraUlkazVBQUt3RjZjdkZLTTNyc0ZQT2VTeEVCZ0NTakNRblpTQjFJQ1RDV3hRTVcxdXJFQTRQWDM4V3lTQ2d0UUM4LUNLNVR1T2pxRUx3N3pObGdVWmJGc09IT3k1SkVqc3VBSG1BSjJGZTZOc0ZOVkJBWkRmUWNoQkRqdzh3MlQyaEVwMlJ5M2pzdUlyM0dReGg0M19NdEt4OF9wNXJFbkw5YWp1UlU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MLA leaves convoy for bullet and e-rickshaw ride: Gets video shot from Fortuner; officer buys ₹8,000 bicycl... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTJ2c1FEMmlNeFFsa3Rnd0VxZndTdWFaamVERUJPQWJQR1luUnFsWWlrd2thbDhSWDdoVUhWLS1WazJ4WnE5cXRTSUlpRmV4UDF4MVlfWVQzM2QwZTJaRUtybWp1TmI5WFhDbWRiajlULWdNb3BnX1BFdXNyaTNSdkowVVNYLVoxTGxCMkM4OG9UaVhscm42Sjlna2dFVDhDWWV4OXg3M1kxTi1oTFVXdGpCbDFPc214ZlHSAb8BQVVfeXFMUEJtUHlyaGM0WkxsZ0ZURmU3MVZDd2FabENaT3FjaGdxZ1JfVXdLRzFkb0pMSEZrVW5mT2FWS05VVzNvZnZrYVNjYzJkb1lBUDVxVFdPQ2tHR201TDVHVnV6LW81dzJpUDkzQmY3QWNyWHRxMUF6U0lOSm9FLWl2WEFwVVRtZnhndERmSFoxSFRJV0JLdmJ4allLQUZ3QmxoVGhLVmoxVjRhd3RHTlhubHl1cno5N25iU0JoMVNVTWM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bulandshahr (SC) election results 2024 live updates: BJP's Bhola Singh wins by margin of 2.75 lakh votes - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOeGtGME9Dd0FiYzBBeTlwR2VnOXlINnFDM0VrVWtuMWI3dWJwYklKR1FQZHR1dHJDNG1zOWcxUU9vd1poalZ1OGxrTTlRbmZHTFhfd2VKSk9jVHZISTZpdWxfbm5lSmdvNzJhbzZMcV9GMDY1TWhMUkdGM3hKeV8xV2wtMU05bEV2Zm1FOEtTSHA4QVg4WThXbFJZWkdDMFBxRUs2aTJUQWpkUmVzVTk0N3BpdlIwT09vUnZiXzYzYjZOclVSNkhxR1QxUnUwbXBrNEs3c0Zwblo3R2U4ZkJFaDNuQ3VxUG1kR2xPNHkwMzVkaC1DZy0yU1h5b25FXy05bEFNeW1zR2I2YUxkcHctbkQ0M0FtQWN5WUZyUXZidFJycC0waWcxNkVBc19YNTNkODM4bGR4clR1blFCaDNQTUhielNxOVk0d1VVa9IB0gJBVV95cUxOYWhnVzk0ZXNwMDhiVW1oZUdQNHplMWRxdWE2Rk9TdmVIcUlmTXowa0Z1NmI5cWRRMEVhOHNDbFFyV0hkUjh6SjdkaDBRNmY1U3JOUkZVTWNCOVQyTjFBc3ZJTk91S05YeG1BUXRPQXJxd1dMa2xrT2tLZklfR2dUc2ZRVE5Cd25SWWZxdW1iTVVvMC1semozbWFqM1l6cmx4SDdUMXZHLXNaWmJqcm5QMnE5YjVnaG15SVlDV2U0NE5QODVmaE44aUFaQml4cEtaRnQ5dVhqbVN5UnNiNmhkd3Raa0RXcU9nR0NWNW9lNnZ3TWx2RDN6MWJKNzBxeWZkQXdMZlkxQVpqMzNpQ2FqUnljVDdGeU1MLUt5OGZaVURHUXJSTWtSN2FXc3FSeGR6X0NtcW91TWpwQm81UTZ0M19PbkRvRmdqbWRhUDVnVk0wQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "बुलंदशहर : भाजपा प्रत्याशी डॉ. भोला सिंह 275134 वोटों से जीते, लगाई हैट्रिक - Hindustan",
+      "source": "Hindustan",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQajFET1JtWEhaQkRiZ01XWEN6VUtEUHktUzI4QVVrNW1xdnpfOTRMRG9CZlhaZEpMUlJxOExycGRHRk9Bbml5bW44TjF3aWYzbmNFUGlUMGh0a3lzVm1MaU1kNDU3c2dxR0JDQTN2aDYxamJNUWZrQWxlOGdSWFFtb0tFcWw5VXdzUjVkNTRPV05oM1lQQW1QRDNDOUQ1Yy0yQ0RFN2hOdEtTemFXNEJoRUwwTDJvWFVkLWp4N21tWWdHeGdJRTA3VTZzY2VNWm5kZjdVcFI2ck1kSGlKVlJOOEtrbmkyd2lWRldN0gHwAUFVX3lxTE1YdFFWUWFVU29PZFRQOERYb2lRdzBEdXVrQUhYX3N0R0Izbng0X2Ita04wMDBPZ24tTzVISHlrV2kybEpfYjdLTDFxMFNaU3VtajNoSlFLU3dCUDdYWC12aVl4YjRCM0lwSDdSZzlNYmg5V3pHbGx4cWNMc0twaFJrcWcwazlfRG5xdXp6U2E4YUtnb0Z3THFWenJJSWMtaFhFV1A2dFNNeGZDc1NhLVI1d3U4TGh0cG9uYTl6VnQ1VlFnUlFJYXBfS19oSnZqbk9YXzdybDNZZ251MnlkRzBPWUFsWUdsLWVENTJzYXl2bA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:57:19.878951Z",
+  "collected_at": "2026-09-02T16:47:46.192120Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.350360Z",
+        "fetched_at": "2026-09-02T18:38:10.906910Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.350370Z",
+        "fetched_at": "2026-09-02T18:38:10.906924Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.350376Z",
+        "fetched_at": "2026-09-02T18:38:10.906930Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.350380Z",
+        "fetched_at": "2026-09-02T18:38:10.906936Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.350385Z",
+        "fetched_at": "2026-09-02T18:38:10.906942Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.350395Z",
+        "fetched_at": "2026-09-02T18:38:10.906949Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.350400Z",
+        "fetched_at": "2026-09-02T18:38:10.906953Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.350405Z",
+        "fetched_at": "2026-09-02T18:38:10.906958Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -265,9 +321,25 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
+      {
+        "headline": "BJP’s new team: Two Muslims among eight from poll-bound UP - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHBIek5lSHlHZElLQ0JVN3FNSnlydlZscmxsbml6dk52bGE0d25rMVNpel9UU1hjZHVENElVV1RUd2JmWk5venJtOExrQnNxZHR0OTJ2YVpvUmxwaVhqaHRKeWZhZUd5X2FucUpnUEZHQXVnTGJMZk5IU1VKeEdUWUs5ZkFucTRLOTgyQmp4dGktOTJDTUZiWGlpNVZhWE5fT19Ea19YWHhiWUVvVVBIb3ZicFNUZnowRGlqTTZSONIBzAFBVV95cUxQV3JabkQ3QmZvdHJHUzhHWGZXdXJXNzV6UzUtNEY3cUFoMW9NOUk5MjhSRnY5LWYtT2JRTEViOTZOQXctMjNDcjhxVEgtZjF5aElCYUxBTklEVUpJajFsT0VRUFB4VEFaUHB6UkszMVpkX2pTenhnRGJmUkZCeVRwUFNDWkNrLWVMUHpLVGxkV0dhbE9ndXdmbXJ2Y0lhUG5ZX2RDSWZOTDhhTjlJWmVVdVFMM2ZzLUkzY2trX1pzY3BvaU5memVfYmQyaTU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP Announces Major National Team Reshuffle Under Nitin Nabin; Smriti Irani, Ram Madhav Make Comebacks - Pragativadi",
+        "source": "Pragativadi",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajhEcno4RFlEYjFNTVNUc2lHbThraUlkazVBQUt3RjZjdkZLTTNyc0ZQT2VTeEVCZ0NTakNRblpTQjFJQ1RDV3hRTVcxdXJFQTRQWDM4V3lTQ2d0UUM4LUNLNVR1T2pxRUx3N3pObGdVWmJGc09IT3k1SkVqc3VBSG1BSjJGZTZOc0ZOVkJBWkRmUWNoQkRqdzh3MlQyaEVwMlJ5M2pzdUlyM0dReGg0M19NdEt4OF9wNXJFbkw5YWp1UlU?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "MLA leaves convoy for bullet and e-rickshaw ride: Gets video shot from Fortuner; officer buys ₹8,000 bicycl... - Bhaskar English",
         "source": "Bhaskar English",
@@ -285,27 +357,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "बुलंदशहर से भाजपा के डा. भोला सिंह 307504 वोटों से जीते - Hindustan Hindi News",
-        "source": "Hindustan Hindi News",
+        "headline": "बुलंदशहर : भाजपा प्रत्याशी डॉ. भोला सिंह 275134 वोटों से जीते, लगाई हैट्रिक - Hindustan",
+        "source": "Hindustan",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ05WUjZjTjVVM1hpeXBlX0JQUGtFelB5SW1ETVk3YXEtaWctSldEQy01NXRSS2ZSTU1mRGtwLXJyRkE3ODlGY2d1djQxcHY3cUZpcDN5dFZBZlh1YldVTWZ4cWhGZ29TUkFXZnJiWU5PU3R0RzcybzR5cGVWYXlmWHBxOWk1UGlBakc1akU5amxQMDV3aDdQdmNqX2g2TWdWUHIwWkRmUnhQVkFnOFdoUXFOSmQyeHZ2bndIcHg4LXkxaHlubGhyczBxSdIB0AFBVV95cUxPb0JydGp4MWxLSXBMNUp6OV9kcTNEYWJESEgya0pqMVhDZkViUHdQblNWeFNRbm4ybWVISkVZS2FDb1N5VzlLMEFMQnhOekNWRDQzRnlPcmRTYS1nN0ZtR25SR21sa3ozcUUtSkg0SWtPWHBaUHFaTUQzZmpManowd1RRbThOTnRJN0lTdU9LTU9oVmlVYm1pb1BydWVMa0JXaWxkaF9HV3RUSFdHN2E0YWozYk9xNmU4OWtpTmQ3aEdUbEVrSkthQ19YNks5ZjN1?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP MP Bhola Singh demands action against those who block roads while offering Namaz - ANI News",
-        "source": "ANI News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUDNBWXZXWmRDakhYYkhlOE8tT2xsb1hROHlIempGOUhhRTdYWjhySTgzMjdJNHpPRUI3RjlaT1VOcUo0ekFseFFYS0gyaU9jN3BvQnExRll5bndPUVFJQkZLZTBtaVMyWHJZTF9RSGhiX2RiRndQSXIzUE90LVNJNURuU2wyci1DVHBGWEZDUVAzcERpeldTdFdZbkI4MXlRRkFIclQweHZwTWZXRGZBY0ZfVGkxSXFaWGhPeVQtb2dyUlI4ZzlEVGk1VVRmaEt1VVdjRWxSTmdfTlZh?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Dr Bhola Singh , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONzdLSjkydmxtZ3Vramkzakp1UENZWjlJZy1HSzBaLUs0bmN5bjRnWVdsdjNWUXNoY0hFNVY5NTEwQlVKX2wxT25tMjh5MWlGMWNodzFITVJPY1dOa3NtQURXU0VMUFR3Und2QmtUVVlJdWdnN2o5cW1BZVBjVEVVZWgzVklkQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQajFET1JtWEhaQkRiZ01XWEN6VUtEUHktUzI4QVVrNW1xdnpfOTRMRG9CZlhaZEpMUlJxOExycGRHRk9Bbml5bW44TjF3aWYzbmNFUGlUMGh0a3lzVm1MaU1kNDU3c2dxR0JDQTN2aDYxamJNUWZrQWxlOGdSWFFtb0tFcWw5VXdzUjVkNTRPV05oM1lQQW1QRDNDOUQ1Yy0yQ0RFN2hOdEtTemFXNEJoRUwwTDJvWFVkLWp4N21tWWdHeGdJRTA3VTZzY2VNWm5kZjdVcFI2ck1kSGlKVlJOOEtrbmkyd2lWRldN0gHwAUFVX3lxTE1YdFFWUWFVU29PZFRQOERYb2lRdzBEdXVrQUhYX3N0R0Izbng0X2Ita04wMDBPZ24tTzVISHlrV2kybEpfYjdLTDFxMFNaU3VtajNoSlFLU3dCUDdYWC12aVl4YjRCM0lwSDdSZzlNYmg5V3pHbGx4cWNMc0twaFJrcWcwazlfRG5xdXp6U2E4YUtnb0Z3THFWenJJSWMtaFhFV1A2dFNNeGZDc1NhLVI1d3U4TGh0cG9uYTl6VnQ1VlFnUlFJYXBfS19oSnZqbk9YXzdybDNZZ251MnlkRzBPWUFsWUdsLWVENTJzYXl2bA?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -339,15 +395,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 51,
+    "starred_questions": 15,
+    "unstarred_questions": 36,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 99.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -355,17 +411,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

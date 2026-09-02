@@ -4,16 +4,16 @@
     "constituency": "Vidisha",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 4448,
+    "myneta_candidate_id": null,
     "slug": "shivraj-singh-chouhan",
     "house": "lok_sabha",
     "sansad_member_id": 96,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 65,
+    "age": null,
     "photo_url": "/mp-photos/96.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Vidisha",
       "state": "madhya pradesh",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 4448,
+      "myneta_candidate_id": null,
       "slug": "shivraj-singh-chouhan",
       "house": "lok_sabha",
       "sansad_member_id": 96,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 65,
+      "age": null,
       "photo_url": "/mp-photos/96.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,98 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "",
+          "ipc_sections": [
+            "499",
+            "500",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Special Judge (MP MLA) Court Jabalpur",
+          "fir_no": "",
+          "case_no": "SCPPM/01/24",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "Yes",
+          "appeal_status": "Under Section 482 CRPC, Before MPHC Jabalpur (1) MCRC No. 12558/2024 (2) MCRC No. 14026/2024",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:03.805457Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 89852874.0,
-      "liabilities": 6411905.0,
-      "net_worth": 83440969.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4448",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.281794Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 55.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.78,
-      "expended": 3.57,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:29:45.647223Z",
-          "notes": "Official eSAKSHI REST API — Works: 79 recommended, 76 sanctioned, 8 completed"
+          "fetched_at": "2026-09-02T15:01:48.423206Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:58:08.783389Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:58:08.780431Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 79,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 24.285714285714285
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +146,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:32:23.174901Z",
+          "fetched_at": "2026-09-02T14:58:08.779337Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +154,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Union Agriculture Minister Shri Shivraj Singh Chouhan visits Vidisha parliamentary constituency - PIB",
+        "source": "PIB",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04X3lEclYwazNoMEFEUEtLMVpOSlEwRDdLQ2h5YTVYdmktVWJjbHBQNVFFS2Mzam9PdW1ldndvbE12cS1mRkZncEV3Q1FsUm9Vd2RCcTlua2Q3M3JsNnVzaXI3U2ZaM0dX?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Vidisha Medical College to launch day-care cancer unit on September 8 with AIIMS Bhopal support - edexlive.com",
+        "source": "edexlive.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2ZiX09HRFM4ZDVWY2JORmxDcF96Sjl1VlJnQ3VjVV9nZUFCV3EwV01zLW91aDRIcjJuanc4WkprZWdjc3prVHNVTExVTFhzR3R0M3V3TjFsZElRSjdWalJhMkp2QzBfbmNUQTZ6cExHUGNRYXdibUlLcHVhdXVOQjBHdUxhamxsVUZWZllBb1RDS1hya0M3eGZvMWdpSTRGMVhqNWY1MUdLM1c0Yl9FV3FxdTF6TkM1c0owZ2pONk1OYUXSAdABQVVfeXFMTjUwVW9ZZmlMM1F1OFk2ZF9PZUhDOVFOVUExczVmZGVWWHBnOUJMaDh2NVlPcTQ2SGhYNTBia2U0ZXFSdndROFZNcldoMnk3NUgzZW9XYnNGQk9SMEp6Y1BHR2FoMkJJRnNiazBLb3dmRUpSTFV2NW5oWFhmU29CNXhyM25VWWxHWElXaTR5VmNhcEg0eHlxbkNXWlpOM3NOdmNEZzVyT3pCUGNGTDFrWHVCQnZSdml1SkFjVEk4VGJKNG5icXFqbjZnWE5LS2wySw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shivraj Singh Chouhan unveils district-wise agri roadmap for 4 MP districts - Business Standard",
+        "source": "Business Standard",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObnpnaFNVamdzRkZ5U2J6MnZqbE5qWEoteWE4ek9lQXBMWnV3MUlvbV91ME1ScWVrRmp3UWJQWi1uXzladnE3U3hPLUhQVDU5QXdRTzdiLWZLY082eUtoS290clZYZGhkZW1vU2plTlBLbjRkeUp0YmMya0o5TnV5aW9PYm11TzZiM1g3UGthQ1VEQ3hqT25CNllHWkE3dmVZRmxub09BbWN1ejFkMmFwNTJwM2YtemlLWTdMcDVqTGVnbGtLWlEzOWlUajFWUHpQX3ZacnJzXzBhX0dIU0JTbTMySnXSAeoBQVVfeXFMTXBqUGZEeDF5dlpPVzZBcnk3UnpsTkRIb1ZZRWtDMHA1cmU3dGpBbHliLW5sQ1plOXZER2tha3pCWWxoWHJNRlN4XzFtVVJNNUVXeVp1Tmp6bi1oZjBGTGFzbm1maGV0VUdENk1sZlVOVHNWbUtHc3F3TVhEM3J6VndMaUhCbjYxVU5jRWVyY2IyQldxTFFkTzhqRjl3ZTFMNmJ5bndGY0Z5SW56WVJpdVZuRDdBbldVQXM0WV9Ka3hRVVJPWjk5d0t5ZDBheU9FbGtfNEZOT2daNWYzdk1PLVBoVktwaDlTSDNR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Free competitive exam coaching rolled out in MP’s Vidisha by Union Minister Chouhan - indianexpress.com",
+        "source": "indianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOWJHdUlYMjFlM09CMzJ1eHB0YUt5TGlsTDNWSVBIblVidk5QdTNZcDZnRmtCN0ZwVUlILU8ybTU0a2Z6ZlpNQVp6bmllNnQzS2VnaDBXVl9pU2M4d2t5d1UxeDR6UFZycWVadVpMWS1ycWRIVjFhLXlvNmlFTU5Va3QwcFRvdWx0V0k0bnVqZXJPUngxQnAyd1pqWDI4S3ZFR0xOaF83QS1uM29FVC1tck5nYmdvT3ZzeU43VFJ6d3JIU0Q4THFhZ2xrZHM0VjRwUGRsbklsNNIB3gFBVV95cUxPWGdtQ0FGaXZ3N05kOXVKUFo2ZEFaZDZvR3J6bkF4OE1wV3BuMkk5MVVVWEg1cDJhOHY2UkxubUpPTHlRTnJBRWh5R3kxMkR1RXFlTW5wM051MFhlWnctLXZYV1psSE1uNzk2X3ZST0Y5Y3BRaExObTd6MVJVRnZIWXdITGVIYS1JSEVFMk8xSzlpRjFCN3hIODRBQm5XUlJESGdHVVZMSGRHTGd6RHFLMjVkODYyTjFDV0psRnFvc1NqTWUwcXNqRERVZVRmUDI4UHVHNl9SWFJrdi1HQWc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "A birthday gift for Vidisha: ‘Mama’ coaching classes, mobile clinics - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUtCdi1XdEFwc0ZBMjJlYW1sdlhjQ0NYVnFUa3JvdUpNTUQ5SWNxT0plZHh5N3I2RHJZMzAzSGpVdjJIckc0N3pzZ0xEMS1GRHhxVHVDOEdsUmNoYjh1Qk9nZFZZNjZIQUkzWTJkYmRFNGJwWThsYlgteVhvbVhYZEp1dDVxZEw4Ul9TSE1ubEVyb1lFYlZlTVlnaG1JN2xWWEhoaUVUVkctNGFNU3V4R1EwZF9UUdIBwwFBVV95cUxOQ1Jpb1U1STBLZzh6X2U5cTRUUGN1Qld6amZWNFFBdEVCVndZb3d5eGp4XzduSTlPWU5obkRiSnhydmVLZkFYb1dvZjg5a0dCUjMxeXNXZkZnQVlBTHpkYk44MC1uTVkzU1ZMZDgtZ3lWbnJYNlYxOENwWFhzNmtsZFJnRGI1Sm95Tk50UXNsYTRTR2R0dG11LXRRUXRQbjZIbjgzYVhCWGhQTnd5SFlzS3ZtVkxRYWRZTENaa3EtVFBpeFk?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:33:16.607748Z",
+    "collected_at": "2026-09-02T15:01:48.424345Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +223,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.067575Z",
+          "fetched_at": "2026-09-02T18:38:07.564396Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +239,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.067586Z",
+          "fetched_at": "2026-09-02T18:38:07.564408Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +255,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.067592Z",
+          "fetched_at": "2026-09-02T18:38:07.564413Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +271,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.067598Z",
+          "fetched_at": "2026-09-02T18:38:07.564419Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +287,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.067603Z",
+          "fetched_at": "2026-09-02T18:38:07.564424Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +303,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.067608Z",
+          "fetched_at": "2026-09-02T18:38:07.564430Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +319,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.067612Z",
+          "fetched_at": "2026-09-02T18:38:07.564434Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +335,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.067616Z",
+          "fetched_at": "2026-09-02T18:38:07.564439Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -293,49 +368,49 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Shivraj Singh Chouhan launches 'Mama Coaching Classes' in Vidisha for free competitive exam prep - MSN",
-          "source": "MSN",
+          "headline": "Union Agriculture Minister Shri Shivraj Singh Chouhan visits Vidisha parliamentary constituency - PIB",
+          "source": "PIB",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxONDlNaXQzdDZOTTBPYnZCdVNnZmNmYUl5dmhQUTFQVmNUbUFIQTZIemZvcGVUZXZ6VFBSMk5wdjZVRDJpVmh6X0xtVDlHNzEwQUw4SVc0bzRuelN3MTlkOXBVUG1LWVdQektvUEtwMlY5aFdFWGd6M0hzNTREQ21QVW1iRklEZm9WUWVscXZYcHNoQzFtTUNkT0g2NHRndEVlY0JDSWRmXzFsQ18xZmc3dFRra3ZJOWNtM1BZVWFLRldXMGhsQXJHWXRYZFFkRXRwYmFfYk1PQ3BzVHlpUFVfLU9oMFNURW1VT2tWMWxNTDRfbW9jWkI3YVd4UXVNeVgzaFhOMHpiazRHWkZlMkMtVHVXV09JeDlCU1dFVEdqTlBsQXQwT1ZyLVFxRFNTWGNkZTRPMkNBNV9uU214TzZzN2pORDRTQzhJd3hTQVp6dkMtVjNWd1YwODZnRGxWdlJ0YTJtbm45bU9ucDh6eHFOUmZHdzM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04X3lEclYwazNoMEFEUEtLMVpOSlEwRDdLQ2h5YTVYdmktVWJjbHBQNVFFS2Mzam9PdW1ldndvbE12cS1mRkZncEV3Q1FsUm9Vd2RCcTlua2Q3M3JsNnVzaXI3U2ZaM0dX?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Free competitive exam coaching rolled out in MP’s Vidisha by Union Minister Chouhan - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Vidisha Medical College to launch day-care cancer unit on September 8 with AIIMS Bhopal support - edexlive.com",
+          "source": "edexlive.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2ZiX09HRFM4ZDVWY2JORmxDcF96Sjl1VlJnQ3VjVV9nZUFCV3EwV01zLW91aDRIcjJuanc4WkprZWdjc3prVHNVTExVTFhzR3R0M3V3TjFsZElRSjdWalJhMkp2QzBfbmNUQTZ6cExHUGNRYXdibUlLcHVhdXVOQjBHdUxhamxsVUZWZllBb1RDS1hya0M3eGZvMWdpSTRGMVhqNWY1MUdLM1c0Yl9FV3FxdTF6TkM1c0owZ2pONk1OYUXSAdABQVVfeXFMTjUwVW9ZZmlMM1F1OFk2ZF9PZUhDOVFOVUExczVmZGVWWHBnOUJMaDh2NVlPcTQ2SGhYNTBia2U0ZXFSdndROFZNcldoMnk3NUgzZW9XYnNGQk9SMEp6Y1BHR2FoMkJJRnNiazBLb3dmRUpSTFV2NW5oWFhmU29CNXhyM25VWWxHWElXaTR5VmNhcEg0eHlxbkNXWlpOM3NOdmNEZzVyT3pCUGNGTDFrWHVCQnZSdml1SkFjVEk4VGJKNG5icXFqbjZnWE5LS2wySw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Shivraj Singh Chouhan unveils district-wise agri roadmap for 4 MP districts - Business Standard",
+          "source": "Business Standard",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObnpnaFNVamdzRkZ5U2J6MnZqbE5qWEoteWE4ek9lQXBMWnV3MUlvbV91ME1ScWVrRmp3UWJQWi1uXzladnE3U3hPLUhQVDU5QXdRTzdiLWZLY082eUtoS290clZYZGhkZW1vU2plTlBLbjRkeUp0YmMya0o5TnV5aW9PYm11TzZiM1g3UGthQ1VEQ3hqT25CNllHWkE3dmVZRmxub09BbWN1ejFkMmFwNTJwM2YtemlLWTdMcDVqTGVnbGtLWlEzOWlUajFWUHpQX3ZacnJzXzBhX0dIU0JTbTMySnXSAeoBQVVfeXFMTXBqUGZEeDF5dlpPVzZBcnk3UnpsTkRIb1ZZRWtDMHA1cmU3dGpBbHliLW5sQ1plOXZER2tha3pCWWxoWHJNRlN4XzFtVVJNNUVXeVp1Tmp6bi1oZjBGTGFzbm1maGV0VUdENk1sZlVOVHNWbUtHc3F3TVhEM3J6VndMaUhCbjYxVU5jRWVyY2IyQldxTFFkTzhqRjl3ZTFMNmJ5bndGY0Z5SW56WVJpdVZuRDdBbldVQXM0WV9Ka3hRVVJPWjk5d0t5ZDBheU9FbGtfNEZOT2daNWYzdk1PLVBoVktwaDlTSDNR?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Free competitive exam coaching rolled out in MP’s Vidisha by Union Minister Chouhan - indianexpress.com",
+          "source": "indianexpress.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOWJHdUlYMjFlM09CMzJ1eHB0YUt5TGlsTDNWSVBIblVidk5QdTNZcDZnRmtCN0ZwVUlILU8ybTU0a2Z6ZlpNQVp6bmllNnQzS2VnaDBXVl9pU2M4d2t5d1UxeDR6UFZycWVadVpMWS1ycWRIVjFhLXlvNmlFTU5Va3QwcFRvdWx0V0k0bnVqZXJPUngxQnAyd1pqWDI4S3ZFR0xOaF83QS1uM29FVC1tck5nYmdvT3ZzeU43VFJ6d3JIU0Q4THFhZ2xrZHM0VjRwUGRsbklsNNIB3gFBVV95cUxPWGdtQ0FGaXZ3N05kOXVKUFo2ZEFaZDZvR3J6bkF4OE1wV3BuMkk5MVVVWEg1cDJhOHY2UkxubUpPTHlRTnJBRWh5R3kxMkR1RXFlTW5wM051MFhlWnctLXZYV1psSE1uNzk2X3ZST0Y5Y3BRaExObTd6MVJVRnZIWXdITGVIYS1JSEVFMk8xSzlpRjFCN3hIODRBQm5XUlJESGdHVVZMSGRHTGd6RHFLMjVkODYyTjFDV0psRnFvc1NqTWUwcXNqRERVZVRmUDI4UHVHNl9SWFJrdi1HQWc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Shivraj Chouhan Launches Free ‘Mama Coaching Classes’ in Vidisha for Underprivileged Students - The Bridge Chronicle",
-          "source": "The Bridge Chronicle",
+          "headline": "A birthday gift for Vidisha: ‘Mama’ coaching classes, mobile clinics - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdUZIOUt6Q1lZbm02QjZlT084N19iV3BJSVBvWXFCWFJFME1MMms3SVVVUDY2QTFJOE5kcE5SbkpVSVNyYzR6RDAxb3ZMVjlqZzlyeGFPY3AzN1VJcWo4M2NSdWFwWW5mODJUSmZ0MkpYRE41dl93dW1VcmM4UVEzR3Frb1RNdUcxTlRpeHdGMDFPdm1FNDNpR0NiOUVoMy0tMXfSAa8BQVVfeXFMT1E1dkxHb1VsOWpEREpiazNXS0RPa1ZpcFRxbndOb1pMb2M4dDNNQ1JRZXV0a2hKWUxYSVJOYmtRdjJFcVB4RnpTR0VoVzhfVnl0S0xORG8yVFF1SlpzSVVNaTUzOHdscjZoMVp6UUt2dXVZVE9YaGNRNmIzNEdXVU8wVjA3REphcDhzZFhuOVdubWN1VkhmbENkRlBGbTJqU2w1dnV5dGpnR2lGZE5ZQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUtCdi1XdEFwc0ZBMjJlYW1sdlhjQ0NYVnFUa3JvdUpNTUQ5SWNxT0plZHh5N3I2RHJZMzAzSGpVdjJIckc0N3pzZ0xEMS1GRHhxVHVDOEdsUmNoYjh1Qk9nZFZZNjZIQUkzWTJkYmRFNGJwWThsYlgteVhvbVhYZEp1dDVxZEw4Ul9TSE1ubEVyb1lFYlZlTVlnaG1JN2xWWEhoaUVUVkctNGFNU3V4R1EwZF9UUdIBwwFBVV95cUxOQ1Jpb1U1STBLZzh6X2U5cTRUUGN1Qld6amZWNFFBdEVCVndZb3d5eGp4XzduSTlPWU5obkRiSnhydmVLZkFYb1dvZjg5a0dCUjMxeXNXZkZnQVlBTHpkYk44MC1uTVkzU1ZMZDgtZ3lWbnJYNlYxOENwWFhzNmtsZFJnRGI1Sm95Tk50UXNsYTRTR2R0dG11LXRRUXRQbjZIbjgzYVhCWGhQTnd5SFlzS3ZtVkxRYWRZTENaa3EtVFBpeFk?oc=5",
           "sentiment": "neutral"
-        },
-        {
-          "headline": "Chouhan reviews wheat procurement in Vidisha; assures strict action against lapses - Daily Excelsior",
-          "source": "Daily Excelsior",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2lSOW5yY1ptdHBEeTdzeTBkcmJBZFFsVFV6dHJXTmY2R1I5NTZRQVV4Vkp1TnZKUGdHVXVpT3ZMd2ROejg3cVRfYll6aFRlR2s0ZTNweVdJT2YxZ2xwZVprWjUzSGF1Q3M4RjF0OG8zNUtFdkZrSE44MWkxRkhOZ2NuWEtYMDE3Y0VjeVhwTkRicE1VTjc0QVNrTEtoNHJFaHlGS1BhS1l5VFBCZ0hfYWlEcw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Birthday with a Purpose: Shivraj Singh Chouhan Announces 5 Major Public Welfare Initiatives - PIB",
-          "source": "PIB",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0ZDE4N3hqWGcyUTZzR2VyeVRrVE5fVGxsRGdHMktXSkNqbDFUN2JZUGFQMnA4YVVXTjVubEt2UGM0YkVmZS1mTE5mVDgtenhjLWtIQmVxeFQwM21Za292dnlfTldJOWkzRmVjMWJVUFVzWE5xT2NNcEtB?oc=5",
-          "sentiment": "positive"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -384,7 +459,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -415,8 +490,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.19,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -436,12 +523,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Madhya Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 89,852,874. MPLADS utilization: 24.3%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:50.068356Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:07.565182Z"
 }

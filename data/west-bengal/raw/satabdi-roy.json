@@ -4,16 +4,16 @@
     "constituency": "Birbhum",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 5187,
+    "myneta_candidate_id": null,
     "slug": "satabdi-roy",
     "house": "lok_sabha",
     "sansad_member_id": 4506,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/4506.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:38.651330Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 109245500.0,
-    "liabilities": 20171392.0,
-    "net_worth": 89074108.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5187",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:56.198167Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 60.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.73,
-    "expended": 4.68,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:53:06.273156Z",
-        "notes": "Official eSAKSHI REST API — Works: 126 recommended, 91 sanctioned, 31 completed"
+        "fetched_at": "2026-09-02T14:55:56.528121Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:52:01.805194Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:52:01.803530Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 126,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 31.83673469387755
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 50.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:18.437476Z",
+        "fetched_at": "2026-09-02T14:52:01.802743Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Eggs pelted at NCPI MP Satabdi Roy’s vehicle in Birbhum - MillenniumPost",
+      "source": "MillenniumPost",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnc1dFB6ZmpZSXVPdHluU0s3QXF2OTdEZ0hxbVZFNE9udTF4cUZqSmNmZTZacThtM3p1Q3AtcmZWSGd3dnE4akZ1TVlib0tudERJakpiV0dKRXBMUHZ3ZGQ4VjJTenZoWnU4X2NRYWlwMmJUSVpqMWZCcVc5SGhNemJ5WVpnRlNlVkpTeGRDWHNDWU1kRWFHMWRJNnpucXPSAaQBQVVfeXFMT1o2cWxyUWVWd1BhaHJCUVJFTDI5eWx0QjhHNTZ3bmlfZHlERlJWTWlxWU4zbG94Y0xvaHBlSFdLRHZ4b0JRR0NMTDJCWjRsaHkyZWhJVXdPNkZ0eE91dWV3cjJaT2Fqcjd4S1ZnbWxyMm9LelZMbXB1eVNWNnFjZDNhNFVsaERHT0NqZ3FLckIxUEZ1TXlnR2Z0bVEyeVdRSnZ3cDg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Exclusive | Not Important What BJP Did, Why Couldn’t TMC Retain its Flock?: Rebel MP Satabdi Roy - TheWire.in",
+      "source": "TheWire.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkNMX3FYZUI3MWhLbFVoc1hudU04b1NMTmozSFkyZmlHQU1uV3hvclR3b0dtc211X1hnNTRReDc1Rmc4QzdYMWxCdDJCWEsxRVdZR1RPZGJoWTNhaUFlMUxwYWhJSkdCTjMzSjNsRi1CLXJpSExSZzAtMzFmRUlEcjRIMGRGZlBlbGFnQ3V5Yk5kemc2U2ZoaEtEVE44T1o3WEJsUlNsWHJUS2tESWdUQ21aTdIBswFBVV95cUxQSkNMX3FYZUI3MWhLbFVoc1hudU04b1NMTmozSFkyZmlHQU1uV3hvclR3b0dtc211X1hnNTRReDc1Rmc4QzdYMWxCdDJCWEsxRVdZR1RPZGJoWTNhaUFlMUxwYWhJSkdCTjMzSjNsRi1CLXJpSExSZzAtMzFmRUlEcjRIMGRGZlBlbGFnQ3V5Yk5kemc2U2ZoaEtEVE44T1o3WEJsUlNsWHJUS2tESWdUQ21aTQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "How come Mamata was unaware of corruption in Trinamool? Rebel MP as crisis deepens - indiatoday.in",
+      "source": "indiatoday.in",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc2ZJX1RtRFNlR0cteXFFQXBXaEJjNG5GOTAyRTJ6MUhNNDdBcjdVUDJZM0d5RDI1NjhzdjNLWlI2bnd2Z1NjWTRTTmZpRE5CbUMzTDZ1ZEdfeFZNUnBsc2M1TUtuX3lscXo0R2gxcXJzZm04NkJVOGhTSl92eldZVm91YnowMGw4bWZqVGpjcGN4cnQ5cG56YklqcnUyRFZaREdadE5TV3d2cS1vT05RQUVBVndqbTRqOUUyS3E2VDEySFdQblHSAcsBQVVfeXFMTXpFWFpteXBrNjNGMDJhTkF1TWI3d3ZVRWt1SFpwbkQxRVlDdUFNRzJwcTNPY1NLVXRMWHVjQ2hfM3N5UFZMdEhYVzNJZFRUR3RWbmhWOFVzbVJ3YTZic0xEd09Fc1FwZ1gxbjVXaUhYWHlvQXRwTkVueks3bldOeVVFWDQ2Zzl2el9CQmFKQm1taWFxYVJDWFJiTWNWU3lOYmJtZFJRdlJHMVNvTTlyaEQ0ZTlaaWRZbW5zQlFFT1NwNUxkNHk4cTdHSDg?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Chief Minister Suvendu Adhikari visits Trinamool Congress MP Satabdi Roy's residence in Delhi amid turmoil in opposition party - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRkVIMUVkQjNJVVZKRjdXbkdOTFVHdVl6cGkzVjEyNGYwQ21aYl9MTERmWWdBNmt6VHRMcDgzLW1ubGpBaVYxWUlyRDBKWFdWRDhIeGdIYkdIdGxPenlIS3ZMVWdSZ3hTaGFIU0FPS3IxTWoxckFrZkVVb3dOUWVtSWM3WmwwSHpsZ2xDU3ZTSkI3dHVrTWFHNkhHaDBLTVdLY3VINjUwYXFrR0ZzR0o5eTN2czg1aTNXRjNSX1QzVWJRci1ybmtBVUkyMl9abXR1c2JOblk4OVpoTFhCZGlpUmxiSGJsSU9ZTUhUYXBJS0ZnWGV1Rk5uZmxYa3BRSW01dzNGcUxhbFRIQllteHdUenY3UQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "West Bengal: ‘I am facing a lot in TMC,’ says MP Satabdi Roy after cryptic message creates stir - Scroll.in",
+      "source": "Scroll.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQkpEbE90UGpZeUxWVjVMWjFRZ2VpSjY1a0tJRVhCcXdTRktoTzJ6b19FWW1uRU9FRUpmbVdsbVFRVFJhbUhJd0x4T0pPRE1vaWlUNzZDSGNvcTQ4ZU9GdTItTEQtc3RwRGNiZmJDc01wUm56NG1JdTRpN2tkVS1Ob3ZndzY1Nm1BZEdVNm5KVUNfbEc2cFhvM0JIdVlzUk9lV0pYcEZYUldENjhra3gyVUpDZFdBeElLLUZERG1pZURrSDgwZi1KX9IBzgFBVV95cUxQX0dNMWF5ZGstMkhDZklTV2puVkFINHM5azZ5RkVscTZtc1l6VjJhcTFEZnhwVDZOcXZuMmU4MTk1WlpfRUI4TDF0dXN2akJaNjNKZGx5RTIxUVpBbWpLb3ZHSzlnZUNHQm9pcnJ5dXRPX1JwZXBkWk9qeE95WC1jdldNS2pJVWJ1aXlsdWZnSTdGYUJyNjQtYkVkWl9BNEpCX0l2enRJOEhsX1VZS3JUMkhqaHZxUnRrbF81cng0djdnY2t6Mzdycmxtek1fdw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:21.376407Z",
+  "collected_at": "2026-09-02T14:55:56.529259Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.945842Z",
+        "fetched_at": "2026-09-02T18:38:12.579252Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.945852Z",
+        "fetched_at": "2026-09-02T18:38:12.579265Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.945857Z",
+        "fetched_at": "2026-09-02T18:38:12.579270Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.945862Z",
+        "fetched_at": "2026-09-02T18:38:12.579276Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.945868Z",
+        "fetched_at": "2026-09-02T18:38:12.579285Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.945872Z",
+        "fetched_at": "2026-09-02T18:38:12.579296Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.945877Z",
+        "fetched_at": "2026-09-02T18:38:12.579301Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,56 +304,81 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/SatabdiRoy_",
+        "url": "https://x.com/https://x.com/SatabdiRoy_",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/people/MP-Satabdi-Roy/100087419953925/",
+        "url": "https://facebook.com/https://www.facebook.com/people/MP-Satabdi-Roy/100087419953925/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:52:17.479716Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Satabdi Roy News - The Times of India",
-        "source": "The Times of India",
+        "headline": "Eggs pelted at NCPI MP Satabdi Roy’s vehicle in Birbhum - MillenniumPost",
+        "source": "MillenniumPost",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SaC0zaWRCa2FqVmJ0MUNxOGpWQmppN2FGcHY2NS1lS0VJWV9GVlUwdGtmY3gybG1rcnd5MHpsTktHbFI2T2E0cnc3elF2M2hCZk5jZVo1TjduTWo0Y1MxWHRfano2UGlsWVE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnc1dFB6ZmpZSXVPdHluU0s3QXF2OTdEZ0hxbVZFNE9udTF4cUZqSmNmZTZacThtM3p1Q3AtcmZWSGd3dnE4akZ1TVlib0tudERJakpiV0dKRXBMUHZ3ZGQ4VjJTenZoWnU4X2NRYWlwMmJUSVpqMWZCcVc5SGhNemJ5WVpnRlNlVkpTeGRDWHNDWU1kRWFHMWRJNnpucXPSAaQBQVVfeXFMT1o2cWxyUWVWd1BhaHJCUVJFTDI5eWx0QjhHNTZ3bmlfZHlERlJWTWlxWU4zbG94Y0xvaHBlSFdLRHZ4b0JRR0NMTDJCWjRsaHkyZWhJVXdPNkZ0eE91dWV3cjJaT2Fqcjd4S1ZnbWxyMm9LelZMbXB1eVNWNnFjZDNhNFVsaERHT0NqZ3FLckIxUEZ1TXlnR2Z0bVEyeVdRSnZ3cDg?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Satabdi Roy campaigns in support of TMC candidate in Suri #Gallery - Social News XYZ",
-        "source": "Social News XYZ",
+        "headline": "Exclusive | Not Important What BJP Did, Why Couldn’t TMC Retain its Flock?: Rebel MP Satabdi Roy - TheWire.in",
+        "source": "TheWire.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGwyUmF5WXZCM0MtNUZLZkV1REZTN09laDNKS0hEbnJYOWhyeFNULXRQOWs3UFpNMmFRckNBd2xSN0FiR0RWWTZfZGJEOHVFVFJlTDZVX25TNU80Ym9IY2gxbnRmZzRVejZlZ1ZaS0FaYUwyZGh1aThGcm0ySTU3Nlo1MFlaTkliUXE2S2dmM2pGVTVEX1dRQ1Y3Um04S0tLOEoyVHNnd9IBpwFBVV95cUxPWGwyUmF5WXZCM0MtNUZLZkV1REZTN09laDNKS0hEbnJYOWhyeFNULXRQOWs3UFpNMmFRckNBd2xSN0FiR0RWWTZfZGJEOHVFVFJlTDZVX25TNU80Ym9IY2gxbnRmZzRVejZlZ1ZaS0FaYUwyZGh1aThGcm0ySTU3Nlo1MFlaTkliUXE2S2dmM2pGVTVEX1dRQ1Y3Um04S0tLOEoyVHNndw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkNMX3FYZUI3MWhLbFVoc1hudU04b1NMTmozSFkyZmlHQU1uV3hvclR3b0dtc211X1hnNTRReDc1Rmc4QzdYMWxCdDJCWEsxRVdZR1RPZGJoWTNhaUFlMUxwYWhJSkdCTjMzSjNsRi1CLXJpSExSZzAtMzFmRUlEcjRIMGRGZlBlbGFnQ3V5Yk5kemc2U2ZoaEtEVE44T1o3WEJsUlNsWHJUS2tESWdUQ21aTdIBswFBVV95cUxQSkNMX3FYZUI3MWhLbFVoc1hudU04b1NMTmozSFkyZmlHQU1uV3hvclR3b0dtc211X1hnNTRReDc1Rmc4QzdYMWxCdDJCWEsxRVdZR1RPZGJoWTNhaUFlMUxwYWhJSkdCTjMzSjNsRi1CLXJpSExSZzAtMzFmRUlEcjRIMGRGZlBlbGFnQ3V5Yk5kemc2U2ZoaEtEVE44T1o3WEJsUlNsWHJUS2tESWdUQ21aTQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Birbhum: Satabdi Roy Campaigns for Nilabati Saha #Gallery - Social News XYZ",
-        "source": "Social News XYZ",
+        "headline": "How come Mamata was unaware of corruption in Trinamool? Rebel MP as crisis deepens - indiatoday.in",
+        "source": "indiatoday.in",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc2ZJX1RtRFNlR0cteXFFQXBXaEJjNG5GOTAyRTJ6MUhNNDdBcjdVUDJZM0d5RDI1NjhzdjNLWlI2bnd2Z1NjWTRTTmZpRE5CbUMzTDZ1ZEdfeFZNUnBsc2M1TUtuX3lscXo0R2gxcXJzZm04NkJVOGhTSl92eldZVm91YnowMGw4bWZqVGpjcGN4cnQ5cG56YklqcnUyRFZaREdadE5TV3d2cS1vT05RQUVBVndqbTRqOUUyS3E2VDEySFdQblHSAcsBQVVfeXFMTXpFWFpteXBrNjNGMDJhTkF1TWI3d3ZVRWt1SFpwbkQxRVlDdUFNRzJwcTNPY1NLVXRMWHVjQ2hfM3N5UFZMdEhYVzNJZFRUR3RWbmhWOFVzbVJ3YTZic0xEd09Fc1FwZ1gxbjVXaUhYWHlvQXRwTkVueks3bldOeVVFWDQ2Zzl2el9CQmFKQm1taWFxYVJDWFJiTWNWU3lOYmJtZFJRdlJHMVNvTTlyaEQ0ZTlaaWRZbW5zQlFFT1NwNUxkNHk4cTdHSDg?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Chief Minister Suvendu Adhikari visits Trinamool Congress MP Satabdi Roy's residence in Delhi amid turmoil in opposition party - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEtneV9zdHNWbUxSSEdBOC1FazRaYjdPelNlNUNvN054WVo5NU5peXh4ZGltdXFULXhWMGJqMEZUUm9mNm40SlU1cmRhaXhTSFBpZzRqZG1Qb0NpcWRtcm1jbng3MnFLTzNyUjdjblIzeld6TzA5OEMxNEJRNWszQWN1Tjd6LW1vc1RiZXRMSTFpbzMyY01ydzVR0gGaAUFVX3lxTFA0S2d5X3N0c1ZtTFJIR0E4LUVrNFpiN096U2U1Q283TnhZWjk1Tml5eHhkaW11cVQteFYwYmowRlRSb2Y2bjRKVTVyZGFpeFNIUGlnNGpkbVBvQ2lxZG1ybWNueDcycUtPM3JSN2NuUjN6V3pPMDk4QzE0QlE1azNBY3VON3otbW9zVGJldExJMWlvMzJjTXJ3NVE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRkVIMUVkQjNJVVZKRjdXbkdOTFVHdVl6cGkzVjEyNGYwQ21aYl9MTERmWWdBNmt6VHRMcDgzLW1ubGpBaVYxWUlyRDBKWFdWRDhIeGdIYkdIdGxPenlIS3ZMVWdSZ3hTaGFIU0FPS3IxTWoxckFrZkVVb3dOUWVtSWM3WmwwSHpsZ2xDU3ZTSkI3dHVrTWFHNkhHaDBLTVdLY3VINjUwYXFrR0ZzR0o5eTN2czg1aTNXRjNSX1QzVWJRci1ybmtBVUkyMl9abXR1c2JOblk4OVpoTFhCZGlpUmxiSGJsSU9ZTUhUYXBJS0ZnWGV1Rk5uZmxYa3BRSW01dzNGcUxhbFRIQllteHdUenY3UQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "ASI in Birbhum calls senior officer ‘criminal’ over attack on Trinamool MP Shatabdi Roy’s car - tennews.in",
-        "source": "tennews.in",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXNQa2FSOGxSczVNNzdCSVh2bnUtdjRCeU9uSXczTy1VbG85akpxS2J3NTZVcUloOVh1OHBwLVFMclZOTWRDNGdnQ1VOTEpMMERGZDRodnpXNU5EeTk0NnRkV2lxTHNaSFBIRDYtU18taHBPdHNramZnYVBTWldQTU9IU3l4c3lnQ2Z1MllRa080c0Nla1JzNDdHRTJtMVZGZGNObzdYRWdhRS16OUM0?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "TMC MP Satabdi Roy appointed West Bengal unit vice president after brief rebellion - Scroll.in",
+        "headline": "West Bengal: ‘I am facing a lot in TMC,’ says MP Satabdi Roy after cryptic message creates stir - Scroll.in",
         "source": "Scroll.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaTlRcmVFRnFYbG5WN2luNEVBTnpGcEI2UkVXRmhBTHRYb1BOR3Y0Ull5MWtDVmZlbmo1QTUza2NUWW0tc2htZ2ZQSjBDZ0hkeVMzVmFYeFhtdmhtMC04VFlnZ081SlpRQXpvdlFmX1RwQlFuYUpDQ2ZBNXBvR0p3YkF4VXU5VGpCVnFNR0pfX3BicjlCVGhRQlJEWHZGN0VoTUgxbG5pQ21jamxMNkdxUVBOZzDSAboBQVVfeXFMTXlvV2UweUhXbVc3X0kxQmxTVGhBU29DVGdiVk85aFhPenBkVWpoaGJGMFdaSFhQZUs1WG9NYnhRdDdVLVB1NXBBNkdnekRmLTRWQ1QxUnI0VFZCeUh0d2pBYXpoWHlkN09XbEdHbXNZMjJuckxQMWl3QWtHci12QXFUNlNJd3E0M0x4LWkzY3FBazJnUzFRU21XVldYdGVvaFMyMHZKeDlzR2Yzb2dFLXFNZm90UG1JZEJn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQkpEbE90UGpZeUxWVjVMWjFRZ2VpSjY1a0tJRVhCcXdTRktoTzJ6b19FWW1uRU9FRUpmbVdsbVFRVFJhbUhJd0x4T0pPRE1vaWlUNzZDSGNvcTQ4ZU9GdTItTEQtc3RwRGNiZmJDc01wUm56NG1JdTRpN2tkVS1Ob3ZndzY1Nm1BZEdVNm5KVUNfbEc2cFhvM0JIdVlzUk9lV0pYcEZYUldENjhra3gyVUpDZFdBeElLLUZERG1pZURrSDgwZi1KX9IBzgFBVV95cUxQX0dNMWF5ZGstMkhDZklTV2puVkFINHM5azZ5RkVscTZtc1l6VjJhcTFEZnhwVDZOcXZuMmU4MTk1WlpfRUI4TDF0dXN2akJaNjNKZGx5RTIxUVpBbWpLb3ZHSzlnZUNHQm9pcnJ5dXRPX1JwZXBkWk9qeE95WC1jdldNS2pJVWJ1aXlsdWZnSTdGYUJyNjQtYkVkWl9BNEpCX0l2enRJOEhsX1VZS3JUMkhqaHZxUnRrbF81cng0djdnY2t6Mzdycmxtek1fdw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 50.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

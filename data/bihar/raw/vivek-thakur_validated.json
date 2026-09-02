@@ -4,16 +4,16 @@
     "constituency": "Nawada",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1695,
+    "myneta_candidate_id": null,
     "slug": "vivek-thakur",
     "house": "lok_sabha",
     "sansad_member_id": 5712,
     "profile_url": null,
     "canonical_name": "Vivek Thakur",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5712.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Nawada",
       "state": "bihar",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 1695,
+      "myneta_candidate_id": null,
       "slug": "vivek-thakur",
       "house": "lok_sabha",
       "sansad_member_id": 5712,
       "profile_url": null,
       "canonical_name": "Vivek Thakur",
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/5712.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:29.288149Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 50566297.0,
-      "liabilities": 10444564.0,
-      "net_worth": 40121733.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1695",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.593467Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 40.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 0.32,
-      "expended": 0.19,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:09.134448Z",
-          "notes": "Official eSAKSHI REST API — Works: 5 recommended, 3 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T15:19:20.753923Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:15:39.050406Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:15:39.048526Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 5,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 1.2925170068027212
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:35:40.218996Z",
+          "fetched_at": "2026-09-02T15:15:39.047723Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Nawada election results 2024 live updates: BJP's Vivek Thakur wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQU3R2bW1Ic0p0SXBCV0ZDb0xEYkxpcHVNRTNweW9EVzZ0MXhObndXcXJYcm9wUE5wUEFKMEVlLTFyT29BWlJJa1AyN1VhNHgxMWJXSWM3QlhieE9DcWRvRFpNbEhwWnl3NDNCc0kxSF92WDhMVGtoMUlaUE04M0pMLVdBY0h0VGJnM0Y4bGE2SGMwSWJfbExOVG5BcFR1bk1aMzlTdEpJS3AtcEYzdHZ1aGdWRmM2RDJfZmtfTWstMGw4VENNQ2haMTBTb0JXTlZrMmFYN1R1LTNuSkRYRWRCSXJBWnJnRUU5QkF6a0QtMFBuRzRjSFJJWUtuMUtDczhpTEI0d2ZMT0I4NXpfU2laUTFB0gGXAkFVX3lxTE4wMzZJNGZpdXU3dkZiVHJjNFRpNWZnYWhRT0VPUXlya1ZMTjhVamU2elJEbWZWZkU4dThNS2FFVThMV0ZJYm1YVTBkVG80YzNqZWdjTHlMeFloX2NCOUVFSGl0b1JRWV93Rk50YTA3TVZtb18wYnQySXpYSVI5eWJKQjFtdXdKQzA0VmE0Z2VYRFBTc3BfS2ViMkcyWUVpU1FyNF9DVE9iSTE3Q09JOXkyT2FGY2luOTBfY1pud1N2Ty1oeHJlbVJzX1dWTVZFdEMzZlFzRWk3dG8wU192eTJNTkxRQWNoaUxNUEdPMVl6ZS16c2VDdVl6N2xFZGZST0lYVE1HNUgwbDdGeklNeDRJOUJiOVdxTQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Local vs outsider fight on Nawada Lok Sabha seat in Bihar - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOGRsQ055eWgxaEFTX2l3ZGl4M0lhMGo5a3FZMGxKMmFZYllqREtUQjNPU3JGM0dja1lBdzNlWFlzaEVmRHdqMk9RUF9JR0ItaDhIZXR5NGlaalVLWGd0Ti1OSTJ3cHByVWdvRzZrVGU0U1c1NUFKZlVFeEhXYWl5ZzdtOHhHdGFXMlRVNVU5LVFzbWp6M2x0UjBzakFmWEgxRllqVlpwVm43bFlWZzBLbGltR1hhMWsta1NNV3JrSzVmenl1R1VkRUVuYkk4YkR4eWxsMHBlSUVYdnc1S2Zv0gHkAUFVX3lxTE9hSWlZeE1UckVLN1AwMTBONHFvM1UxR04wM1VWcEEwWGF6bVBPVXZyTTVLMUowanFxSmtraE5nVzVzOHN0U3FqV3pCZU9YMEpGU2p4WWwzeE9rX0tjdUpTR3BycmRIQVdHY3NockNhTERvOTBRY1N0RE1SZUtNaG90anlhSFdjY1EyWWdpNENFSkNRQU9adE9tYW9TcHU2aU1uV3kzczFlTllQa3hNVUxEYjZKMzkzcjhNS2wxZmZ5SUpCUmw5eGJhLUpqQ2VFZXdWZzJGZHRzem9VSnNVZkdxZk1JYg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Litmus test for RJD's social outreach - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXNhUXljTzF2TTJZRXhUcWN5Sm1rZGJOX1hDSUJNQ2s5RTdSWmlEcHFickhLcVY3ZFpPME1vWHlMSjdQYnI5ZEtsckx1NmJuSDRtMWhGYmxxeW5fX044b2xkQ0U3SEwySDlyZTZta0laZktJRURoSHJOREtWaDVmVXRaX0tLSUdRTUdiNjZNc3LSAZ4BQVVfeXFMTXhjRUNVYVZFZWNCN0ZsZ2ZzdW5sdnpDdW8tNV9hU2FWXzFMMTNjRE9VZFRGbnNpNDBPTmJmQm13bmZYS2VlNnR0d044VE9xenh5bkM5XzhuZkFmRHNHR0htRTdBbE96MGxnN1Zwb2lJWWVMR2RrY0pZWXBQUFhzbUhWOURzNGoxMVlWVG1qejlPUi1sQmZBdDJwUmhIU2c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Aurangabad, Gaya, Jamui and Nawada prepare to vote on April 19 in the first of the seven-phase election in Bihar - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWnNMYzZYUlNqa1ZWRjVOaUxSejZtc2I0djg2alk2cy1sZkkwdXdxYjYxZnFILW1uemtUd1JNbXdET1BUZ2tGRUNVZndhQk1MMTBJV2EyVVg1U21wTjRTSGJsdUpiUzl3MlJhRVJXSlljUVZla3lCdGFkY1ZUcDdyQUJ5bmxrSEdlSHpfbTd3TXJyMzhlelVaSHhSVlBMV3QxZTlMLXZ2VWpFOUxsaW1YRDAyUzJOUG5VUVhHYTRRZDBaazZaUEV1VExLQzF4TzdOTjFRTTRNRDMycEhVeERScVFMSTA3OFFpTUltbXpaV3VNc0JkQVQtZ0FRazFpQ1BiRXRieENn0gGMAkFVX3lxTE1zZ09LM2V1RmNCRV9jYWpIQnNIRFdEdGs5OWpwX0VoWTFjWXFTQjg4Qllyd0RDcEtGZXhWWlNUM1UtejVPSzVoeVlvS1pIMElUZFBXVjJwaFFZRm1CNnU0YzJSa1F1dUt6YjY0bV84R041SVRYQUlKMXNBSTBIeXdwbHlpU0NUU21sYVFkZVAycGZsR0UxY1ZXNmFfaTdrdUw2dVRnRndPaE1CLXV3SU1LQ0hSdXFPc2ZLQnF4V2pDdWlFa25qN2hSWDgtLU5nYzY1b1pjbGhDbDBEeHhFeUJ0X2JnU09tVlRCNnVkOThiMkNpRTJHaWtYRmNwVzd5U3E3ZXdJSFpUdnVfblA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Narendra Modi: The Force of One - Open Magazine",
+        "source": "Open Magazine",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM1g3Mkx2ZElQY3VZeXJkV01wbURYU3I4cVl2d0lwU1ZmUlFiME8wNFBKeWFsb2ZHaG51T2ZMXy1WZEdBUDhZeS1Zd0lhTEtyLVFHSnNSRm8zaWYwaDBhclRWM0Zzc0VMM0ZybVE2ZlNsdXhCU3c?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:36:33.828349Z",
+    "collected_at": "2026-09-02T15:19:20.754700Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.555753Z",
+          "fetched_at": "2026-09-02T18:38:05.152654Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.555762Z",
+          "fetched_at": "2026-09-02T18:38:05.152666Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.555767Z",
+          "fetched_at": "2026-09-02T18:38:05.152673Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.555771Z",
+          "fetched_at": "2026-09-02T18:38:05.152678Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.555776Z",
+          "fetched_at": "2026-09-02T18:38:05.152683Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.555780Z",
+          "fetched_at": "2026-09-02T18:38:05.152689Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.555784Z",
+          "fetched_at": "2026-09-02T18:38:05.152694Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.555788Z",
+          "fetched_at": "2026-09-02T18:38:05.152699Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -298,43 +351,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "CM Samrat Chaudhary Meets Vivek Thakur As MP Seeks Swami Sahajanand Saraswati Name For Bihta Airport - Patna Press",
-          "source": "Patna Press",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQci04c0pOblp0M2pIRUtIeTBPMXJpTGNOcVV0Mzc1WnJDaVN1VmJCTUdqVFQwU1diTWU4RnkycWY4TFM1YmR4dU1iOTMxbk5HaEpRbXJKbGNXZTh4VHVZV0w0YWNjSTVpbGVuTkROQWZCdjc0RWZaeURCQk8wWllXb0FTSQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Rare earth survey in Nawada to be completed in 6 months: Union minister - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSDRfQ1JabldvcVVFVkR1bE9NbXJOc0hBYnZXa2ZWbmYtdWRkVVJQa2tJOWZzeVFWakxLMXZYdVVfQlZOSzBuQ3RPdWVCRlFUOFZ3NXFob2xzY1N3T0V2T2JBMFEwZ3NOck1kOENzZVQ5UFRwVjVXU1pjS3pTTnFDOUR4MEdYWFQ1YkZzbC10dXJ4WjY2YXJRd1RYZFhvVGRvX0JVeFU2MVFvYXF0R2dqenZLTVVmUXJRcGpCRkNDU0kyRkY2OU5ob1ozWWgxWFBld3puT0tzNjhkQU3SAeABQVVfeXFMTktDcTlHUnQyWTRPWW85cy11Q1lKRHg3M24wWnFrZTh2NmdDTlBuN0VwZ2dJM1I1SUpsUFRZWGMySTVQOEN3UkRrcXAwWUd3V3V0bFozOTZPSWt5TU40aFd6MGt6aVdMNy1UNmk4S00yYkgwaVR6Z0xXNEhVX1lBVWZya0ctemd2NmdwQURST0M0cGVXd3EwbVI1TkZHYVJoRmxQWkZGMi1YMnp4OExkV0dMcm9ITHg5N0lvbTFoVlRBUDRnVTBJVEtrNGNVQktLMVN0a0J6XzdzbHcyZzJ0V1Q?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "BJP begins search for new Bihar president after Jaiswal joins cabinet - The New Indian Express",
-          "source": "The New Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmhGY2l5NmtTVHRmdmVPM0VGeEhjVmhnaldRd3hKTkZxUUdHaTc0djRGWjgwaTFpeGxrb2R1X1JaUWJMeWFvS2N0NzNiN3VxZnlSMWsxM2dsSkpEbWswbHB0VHVpN3RrcDhVZ3RER0FUTmxDeV9kOFZYU0xyeWtmMDZzdS1mamR5ZzYteGJRNDJUOE5taXc1bHZWWkxiWGU4ODZlNW9uX2U2SzVDR1U2X1RRbEgtbzJJSnF3SThB0gHLAUFVX3lxTE5BcUk2elcwZlZrX0tBYWNaTWZESzlvWjA2b0ZUWWpwZWdWRzVfTHdhWGQyTFdTb2I0b1poS0J6MUdEdlJPOGxkMFkwMEwyUEFobE1yU3IyNHNMdFdPQzQzbmM5VFprNFd3MHp4ZlBvR2dQaWJLZ1RaWE1rWXlFbmg1V1cyQ3NmcjMyc0pWZ191TnVOcWVZTFdSRmlZb09jdVd0aEFxZ0FhMURNVU00X0dWcVFzdkEzcjM5bUlwMUpjSUxzWjMzZENjYTFr?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Nawada lok sabha election results 2024: Nawada Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU9JQ1lSc1BZRmE3OWUxVkxRcHZING1WZXNxYVl6R0M3NXZCNXFrVnpIbDF4NU5oOWZ6YXVleUthb0tlMF9DOU1WcTY5U0VYRmdWeG8zSDM4Z29FU05KNXFEMVM1MmJzYk0zNWxqZkxVWm9BM0VUXzFlanFGdzVzLWhmdkpDQmNaVG4w?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Nawada election results 2024 live updates: BJP's Vivek Thakur wins - The Times of India",
           "source": "The Times of India",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQU3R2bW1Ic0p0SXBCV0ZDb0xEYkxpcHVNRTNweW9EVzZ0MXhObndXcXJYcm9wUE5wUEFKMEVlLTFyT29BWlJJa1AyN1VhNHgxMWJXSWM3QlhieE9DcWRvRFpNbEhwWnl3NDNCc0kxSF92WDhMVGtoMUlaUE04M0pMLVdBY0h0VGJnM0Y4bGE2SGMwSWJfbExOVG5BcFR1bk1aMzlTdEpJS3AtcEYzdHZ1aGdWRmM2RDJfZmtfTWstMGw4VENNQ2haMTBTb0JXTlZrMmFYN1R1LTNuSkRYRWRCSXJBWnJnRUU5QkF6a0QtMFBuRzRjSFJJWUtuMUtDczhpTEI0d2ZMT0I4NXpfU2laUTFB0gGXAkFVX3lxTE4wMzZJNGZpdXU3dkZiVHJjNFRpNWZnYWhRT0VPUXlya1ZMTjhVamU2elJEbWZWZkU4dThNS2FFVThMV0ZJYm1YVTBkVG80YzNqZWdjTHlMeFloX2NCOUVFSGl0b1JRWV93Rk50YTA3TVZtb18wYnQySXpYSVI5eWJKQjFtdXdKQzA0VmE0Z2VYRFBTc3BfS2ViMkcyWUVpU1FyNF9DVE9iSTE3Q09JOXkyT2FGY2luOTBfY1pud1N2Ty1oeHJlbVJzX1dWTVZFdEMzZlFzRWk3dG8wU192eTJNTkxRQWNoaUxNUEdPMVl6ZS16c2VDdVl6N2xFZGZST0lYVE1HNUgwbDdGeklNeDRJOUJiOVdxTQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Local vs outsider fight on Nawada Lok Sabha seat in Bihar - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOGRsQ055eWgxaEFTX2l3ZGl4M0lhMGo5a3FZMGxKMmFZYllqREtUQjNPU3JGM0dja1lBdzNlWFlzaEVmRHdqMk9RUF9JR0ItaDhIZXR5NGlaalVLWGd0Ti1OSTJ3cHByVWdvRzZrVGU0U1c1NUFKZlVFeEhXYWl5ZzdtOHhHdGFXMlRVNVU5LVFzbWp6M2x0UjBzakFmWEgxRllqVlpwVm43bFlWZzBLbGltR1hhMWsta1NNV3JrSzVmenl1R1VkRUVuYkk4YkR4eWxsMHBlSUVYdnc1S2Zv0gHkAUFVX3lxTE9hSWlZeE1UckVLN1AwMTBONHFvM1UxR04wM1VWcEEwWGF6bVBPVXZyTTVLMUowanFxSmtraE5nVzVzOHN0U3FqV3pCZU9YMEpGU2p4WWwzeE9rX0tjdUpTR3BycmRIQVdHY3NockNhTERvOTBRY1N0RE1SZUtNaG90anlhSFdjY1EyWWdpNENFSkNRQU9adE9tYW9TcHU2aU1uV3kzczFlTllQa3hNVUxEYjZKMzkzcjhNS2wxZmZ5SUpCUmw5eGJhLUpqQ2VFZXdWZzJGZHRzem9VSnNVZkdxZk1JYg?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Litmus test for RJD's social outreach - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXNhUXljTzF2TTJZRXhUcWN5Sm1rZGJOX1hDSUJNQ2s5RTdSWmlEcHFickhLcVY3ZFpPME1vWHlMSjdQYnI5ZEtsckx1NmJuSDRtMWhGYmxxeW5fX044b2xkQ0U3SEwySDlyZTZta0laZktJRURoSHJOREtWaDVmVXRaX0tLSUdRTUdiNjZNc3LSAZ4BQVVfeXFMTXhjRUNVYVZFZWNCN0ZsZ2ZzdW5sdnpDdW8tNV9hU2FWXzFMMTNjRE9VZFRGbnNpNDBPTmJmQm13bmZYS2VlNnR0d044VE9xenh5bkM5XzhuZkFmRHNHR0htRTdBbE96MGxnN1Zwb2lJWWVMR2RrY0pZWXBQUFhzbUhWOURzNGoxMVlWVG1qejlPUi1sQmZBdDJwUmhIU2c?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Aurangabad, Gaya, Jamui and Nawada prepare to vote on April 19 in the first of the seven-phase election in Bihar - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWnNMYzZYUlNqa1ZWRjVOaUxSejZtc2I0djg2alk2cy1sZkkwdXdxYjYxZnFILW1uemtUd1JNbXdET1BUZ2tGRUNVZndhQk1MMTBJV2EyVVg1U21wTjRTSGJsdUpiUzl3MlJhRVJXSlljUVZla3lCdGFkY1ZUcDdyQUJ5bmxrSEdlSHpfbTd3TXJyMzhlelVaSHhSVlBMV3QxZTlMLXZ2VWpFOUxsaW1YRDAyUzJOUG5VUVhHYTRRZDBaazZaUEV1VExLQzF4TzdOTjFRTTRNRDMycEhVeERScVFMSTA3OFFpTUltbXpaV3VNc0JkQVQtZ0FRazFpQ1BiRXRieENn0gGMAkFVX3lxTE1zZ09LM2V1RmNCRV9jYWpIQnNIRFdEdGs5OWpwX0VoWTFjWXFTQjg4Qllyd0RDcEtGZXhWWlNUM1UtejVPSzVoeVlvS1pIMElUZFBXVjJwaFFZRm1CNnU0YzJSa1F1dUt6YjY0bV84R041SVRYQUlKMXNBSTBIeXdwbHlpU0NUU21sYVFkZVAycGZsR0UxY1ZXNmFfaTdrdUw2dVRnRndPaE1CLXV3SU1LQ0hSdXFPc2ZLQnF4V2pDdWlFa25qN2hSWDgtLU5nYzY1b1pjbGhDbDBEeHhFeUJ0X2JnU09tVlRCNnVkOThiMkNpRTJHaWtYRmNwVzd5U3E3ZXdJSFpUdnVfblA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Narendra Modi: The Force of One - Open Magazine",
+          "source": "Open Magazine",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jM1g3Mkx2ZElQY3VZeXJkV01wbURYU3I4cVl2d0lwU1ZmUlFiME8wNFBKeWFsb2ZHaG51T2ZMXy1WZEdBUDhZeS1Zd0lhTEtyLVFHSnNSRm8zaWYwaDBhclRWM0Zzc0VMM0ZybVE2ZlNsdXhCU3c?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +421,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 11,
+      "starred_questions": 3,
+      "unstarred_questions": 8,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 21.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +437,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,11 +468,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -436,12 +495,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 50,566,297. MPLADS utilization: 1.3%. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 2. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:47.556531Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 11. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.153449Z"
 }

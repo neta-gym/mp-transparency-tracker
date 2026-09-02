@@ -4,16 +4,16 @@
     "constituency": "Patan",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3603,
+    "myneta_candidate_id": null,
     "slug": "bharatsinhji-shankarji-dabhi",
     "house": "lok_sabha",
     "sansad_member_id": 5024,
     "profile_url": null,
     "canonical_name": "Bharatsinhji Shankarji Dabhi",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 69,
+    "age": null,
     "photo_url": "/mp-photos/5024.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Patan",
       "state": "gujarat",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 3603,
+      "myneta_candidate_id": null,
       "slug": "bharatsinhji-shankarji-dabhi",
       "house": "lok_sabha",
       "sansad_member_id": 5024,
       "profile_url": null,
       "canonical_name": "Bharatsinhji Shankarji Dabhi",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 69,
+      "age": null,
       "photo_url": "/mp-photos/5024.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:54.003115Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 68430049.0,
-      "liabilities": 2957861.0,
-      "net_worth": 65472188.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3603",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:46.171013Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 47.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.05,
-      "expended": 5.58,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:58.162154Z",
-          "notes": "Official eSAKSHI REST API — Works: 273 recommended, 196 sanctioned, 115 completed"
+          "fetched_at": "2026-09-02T14:31:34.564686Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:27:25.936411Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:27:25.933588Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 273,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 37.95918367346939
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:21:27.032801Z",
+          "fetched_at": "2026-09-02T14:27:25.932515Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Dabhi Bharatsinhji Shankarji , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUd3dnhXMGc0Q0ZDYlpkcnkxV3YtQ3VRWnVaV0ZDUDBMY2hHbGMxUHp4dHhKTFVYOWxaeG8yOTBMSlVxa3d2WG5BTmFWM2NVNUk4Qk1TMU0xSWNiMVYwSWplVGt1NXNVdEdzR193dzZiNGkyUE5XcE83Y3JaRmFOSXMybzNVNnR6ZDRuc1pWd1RIQ1RndkpCXw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Patan Lok Sabha election 2024: Date of voting, result, candidates, main parties, schedule - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWXRvaWN6VndUUF9TMDgtcEl2cUNOY3lacko4R19RUnFFMnpETFVKMGVxWmlVYXJPTWpQSlhzVXU2WkloOS1yb2ZjQzNScG5fZW1qd1ZQQVNKUTVHZ1BQajZKcW1XZHpXbFNpRzN4UGx3UGt3b2Z1cktERU9Cb2hTUGEyc2NjYzFZNWhfWml6QXE3QlBmZVIzSFg2UHFYOVN3cWxHNWpXQ1VBY0R1dFl5ZW9WenRzcXJxRnFMX0t2TDdnaTVQOFd6eEhMU2c5TEt6aDMwX3lNaFpiMXF1clh5VWU3ZmVWZ3PSAewBQVVfeXFMT2lvOWhIYWlNRlB4Rml0N3p3WDJ6cUl2ajkzNVB3OU1lZVhaSm40blVoUmFWa3ZxaUVlQVM4a3ZwQm53eHlmZkN4VUE1SVR4VFZsQkJXcDVfNDd4ZEtBUGY0b1dQTjhVQ3BxcUg4MnA5dzlpcEpjTS1HQUxJT20xUHZvaWVxTWc2OTh4OVZwNWVLWlVDbHBxbDllMzNZX2sxNDhsdVNaZzBHMTJraHQ3NGpJMmNpcFFKNThvWFF2UGk1UHdLNVNfVzBPWk03MlVuRksyWkcxc2VKdThvLWI2STdCX2pWSDY0UHdKZE0?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Patan Election Result 2024 LIVE Updates Highlights: Dabhi Bharatsinhji Shankarji of BJP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOHRUZjZWOGlpaUVwS3ZwTm9YZ2lrNmI3UTRoZnZLNWxoeGJrY0Foc2xXc3VYRmhLd1ZGZ2FPUzVqbnZJU21laEVicURTY3Fib09lS2NoZGw2NDNVaUFmMlpTM1M5aXdRNkhfTE9jdFY2dTR4ZUYzVlFQX1dvR1R4Z0QtYnR6UjJPdlAtdFJQdmd4VkkzdVROaGN3d0hRemhORzJhdzBkZHFLeExVVzVFZjRUUHJrV0NRYjJ0M2o0dmQyZTRZcVZ6ZGhza1BTNDdTaXRUdmd0RWk5X2hoTFpJ0gHkAUFVX3lxTE1mMTVEVVM4VmFpZkJSSndZSWdQbDk5NEQwOHg4blRxckJPcVJmbUF2NFBCWHQ0aTAwQ3JudjBmVTBITEx6bWZtdmhxLTY5d2JKSDlycjdUZ1ZfSVMtSlgwejFpWHhXbkNqbVdRTm9tVHpOU0ZqNFN2SVZlNTVLOURuUTQzSFNKd0V0LUh1dXRwQ3Etbmd2aDYtM2czc3VtcUhyWE5WWEpEaUJGX1ZNWmx6UUFIQ2NmSG93ZXBtUml2ell4cUEwVExJNFJwVWZKc0pvNmI3ay0xNkJTYzN3T3czak4ybQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazhTeWpLcEM3b0pYdnU5MlZZSk05UnlQNGxVMzhQN0UwNmxjYnFDWHJwVU9MWEtZaWdBdnJfaU9Qdlp1ejZvSUhlaXJ0a1oybFo2T29hTl85YWdSdUpyMFdTZjc5VndCSHhEV1pWRW4zdkN4V0plak1YX0lyREZ4SkpGTXpYd1U?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Patan lok sabha election results 2024: Patan Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzNGOUhJQjRtb0NFa2dMc3kwUUFSVjI2U3FXUm1sYS12R185OGtTUl8wODI0YnBPVW9YX2l6eXR0MXdUNXlMX0F3RkpQcmlaem00bUxTWUNKTlA5Q21WOE44ZXdkZVBkeXQ2cmw4cUxtd0FCVmpCV1I2a3QxOVh6dlQ5aFU5WWdaa1V2cw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:22:28.021824Z",
+    "collected_at": "2026-09-02T14:31:34.565949Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.940796Z",
+          "fetched_at": "2026-09-02T18:38:05.518401Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.940805Z",
+          "fetched_at": "2026-09-02T18:38:05.518411Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.940809Z",
+          "fetched_at": "2026-09-02T18:38:05.518416Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.940813Z",
+          "fetched_at": "2026-09-02T18:38:05.518421Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.940818Z",
+          "fetched_at": "2026-09-02T18:38:05.518427Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.940823Z",
+          "fetched_at": "2026-09-02T18:38:05.518432Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.940826Z",
+          "fetched_at": "2026-09-02T18:38:05.518436Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -276,25 +329,25 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 9,
+      "total_articles": 8,
       "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 8,
       "top_headlines": [
-        {
-          "headline": "Political Profile of Dabhi Bharatsinhji Shankarji, Bjp Party, Patan, and Net Worth - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQmtseWx6NTJlNzY3dk9LaXZVRVRsNFZmc1VkNGUwbjhjTnhmNEtwcl82Uk1remNuakhVcFE2OUpZZ19Nc2xvMV9WVzh6VHY1RUtHLWpBRVZfQnh0QXJDXzRzVmdhV091RUNUSWpFM29ueHd2U05nZUNrN05hMHJDM2FJZnpkdVFNNzI1V2ZtZDVaVmdKQlZENUNma1hYdVJLNHlNaDB3UTlMWTYxY0ljME9PZWJsWVNBSHVpTE5Rc1hBMURkREczd3pTQ1ZWLUVPc1VYQy1OMk1iR2hUUjd2bDRtRWJ6X1NI?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Dabhi Bharatsinhji Shankarji , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUd3dnhXMGc0Q0ZDYlpkcnkxV3YtQ3VRWnVaV0ZDUDBMY2hHbGMxUHp4dHhKTFVYOWxaeG8yOTBMSlVxa3d2WG5BTmFWM2NVNUk4Qk1TMU0xSWNiMVYwSWplVGt1NXNVdEdzR193dzZiNGkyUE5XcE83Y3JaRmFOSXMybzNVNnR6ZDRuc1pWd1RIQ1RndkpCXw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Patan Lok Sabha election 2024: Date of voting, result, candidates, main parties, schedule - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWXRvaWN6VndUUF9TMDgtcEl2cUNOY3lacko4R19RUnFFMnpETFVKMGVxWmlVYXJPTWpQSlhzVXU2WkloOS1yb2ZjQzNScG5fZW1qd1ZQQVNKUTVHZ1BQajZKcW1XZHpXbFNpRzN4UGx3UGt3b2Z1cktERU9Cb2hTUGEyc2NjYzFZNWhfWml6QXE3QlBmZVIzSFg2UHFYOVN3cWxHNWpXQ1VBY0R1dFl5ZW9WenRzcXJxRnFMX0t2TDdnaTVQOFd6eEhMU2c5TEt6aDMwX3lNaFpiMXF1clh5VWU3ZmVWZ3PSAewBQVVfeXFMT2lvOWhIYWlNRlB4Rml0N3p3WDJ6cUl2ajkzNVB3OU1lZVhaSm40blVoUmFWa3ZxaUVlQVM4a3ZwQm53eHlmZkN4VUE1SVR4VFZsQkJXcDVfNDd4ZEtBUGY0b1dQTjhVQ3BxcUg4MnA5dzlpcEpjTS1HQUxJT20xUHZvaWVxTWc2OTh4OVZwNWVLWlVDbHBxbDllMzNZX2sxNDhsdVNaZzBHMTJraHQ3NGpJMmNpcFFKNThvWFF2UGk1UHdLNVNfVzBPWk03MlVuRksyWkcxc2VKdThvLWI2STdCX2pWSDY0UHdKZE0?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,7 +359,7 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Parliament of India : Lok Sabha Member of Parliament – D - Sarkaritel.com",
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com",
           "source": "Sarkaritel.com",
           "severity": "low",
           "verified": false,
@@ -314,15 +367,15 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "2024 Gujarat Lok Sabha Election Results: Full list of winners on all 26 seats of Gujarat - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Patan lok sabha election results 2024: Patan Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWJUcExBamtvWHhIS2NpblJpcjVmcFZWTk16TmFZT3N5ZTJPY0l1aE5sSzlJcndrRlpyUUo5NUExWDhRZUs4OW1wMndvSUpBUDJwc0lhdXhHYUR5R3hERHVjTWlZODF5U0pLbWI4UzM5TFJOS3hac3dBencwY2ctZmE5NnNKNVBCb2o0X1Zld1FqUmJ0ZXR3dHVKaFVOX0hzZEJLSWdPOXljUDBsTEk5YlpfNUhuaC0xdnk2SUUxdkVKSW90ZGF1RHlud03SAdMBQVVfeXFMUDhyWGFtYlgyRVY2ZWxEUnRhVVdTMjAzSEc0Y3o4eWNfQlU3STN1LWNsOTNoT0c2VE5EbHplZzhrMjVlalhFeG5ENmxKcmtYWGE2aWQ1TEZNWDUtVEM0aGE2SDMyejRINEtDWEt4cm8tSkRPZUk4WEkxNkp2TVBGWEFhb3ZkSEhqM1ZjeGhkMGdfZUlrajY2OE5KdGZIZ0Uxc25UeTRESm52TUowTU04ZTZMeEdRMkxxeDllOElyc0pDRUR5TzhVVXJrTDgyUmJON3dVZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzNGOUhJQjRtb0NFa2dMc3kwUUFSVjI2U3FXUm1sYS12R185OGtTUl8wODI0YnBPVW9YX2l6eXR0MXdUNXlMX0F3RkpQcmlaem00bUxTWUNKTlA5Q21WOE44ZXdkZVBkeXQ2cmw4cUxtd0FCVmpCV1I2a3QxOVh6dlQ5aFU5WWdaa1V2cw?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (8 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 8,
+      "starred_questions": 2,
+      "unstarred_questions": 6,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 15.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Gujarat: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 68,430,049. MPLADS utilization: 38.0%. Parliament attendance: 100.0%. Questions asked: 8. Debates participated: 3.",
-  "validated_at": "2026-09-02T01:36:47.941470Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 8. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.519189Z"
 }

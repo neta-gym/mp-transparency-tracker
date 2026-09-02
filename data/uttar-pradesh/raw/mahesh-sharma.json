@@ -4,16 +4,16 @@
     "constituency": "Gautam Buddha Nagar",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2512,
+    "myneta_candidate_id": null,
     "slug": "mahesh-sharma",
     "house": "lok_sabha",
     "sansad_member_id": 4642,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 64,
+    "age": null,
     "photo_url": "/mp-photos/4642.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:03.164069Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 838209103.0,
-    "liabilities": 22689478.0,
-    "net_worth": 815519625.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2512",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.476226Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 90.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.75,
-    "expended": 7.41,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:58.176433Z",
-        "notes": "Official eSAKSHI REST API — Works: 112 recommended, 112 sanctioned, 68 completed"
+        "fetched_at": "2026-09-02T17:03:29.199305Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:59:44.570097Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:59:44.567346Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 112,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 50.40816326530613
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:00:05.976565Z",
+        "fetched_at": "2026-09-02T16:59:44.566256Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "BJP’s Dr Mahesh Sharma wins Gautam Buddha Nagar seat for 3rd time - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlpvQXA3Yi1NdTBnanloZEQ1U1U2bEhCZkU5aFVlSFpZQ0hPcnowX0hZMWhTUnEwOEZudHJ2NW5CaEpmdEJQVGpQdjVwQ3d4M1RDUElZMmxuZGFqaDFLQUtKZDg5Y2pEWnRzdWRZVkZkSHlZckhSNVpYUmtJUHdTTnNHT1AzbGhlUWxfazZfT3dPWTMxWVJrMG10OFfSAaMBQVVfeXFMUDZnRjlTNHdaSTdjYmFxNnk3UW5hNEE0NG9DR1J5ZnlQMXdsWG9lWVJTSmN6OTItTkc4VGc2cHBWS3Itb0p6ODZWaDFXc0l4aDFQbGhBbVFNYzNWU1BCazlVRXk5RXV5LWo1a2hLWWp5c2IzZ0lwZlRiQTh1b3ozMnJEMUZfblJXeDBRNWlzdi1XSXRBVWVMXzNLUkFKa0cxRU5lWQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha Elections 2019: Mahesh Sharma in fray, as Gautam Buddha Nagar witnesses triangular contest | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNE5KdHRib3B6bjJsSjdLcGh5a2p1cUQzOTFDTW5HSFlxREJ2bEdId3psTjJIbU9rczJwMWJDTXFEVmFGeXhDZk1ESEszajNjanpVd0ljM045N29hR1g1MElPWl9wTFl2REhyWVgySXZwUktLb0ZEaUhwMFpmMjllRUdhdkZkV043VlBKb3FNaTY3OTNkWHQzVHpQZ0lJZExCbVpoSXpTYjdpRExvQ3lKRE94XzNMNkwxS1BieTRMRDRDcUVDWmJHS1R4TWhIYjJuZmI0OVI1Sjl6YVJha2d2X1VuMExXYXh5V2NEd2J0T29uRlBHRVpOYTZQalNpWm5nb2RTMk5hS3J1VFhTS3dUV9IBlgJBVV95cUxOUDdFem9zRnJsaHJwa0t5T3kyQk9nV21FREZranFWeF9BV1ZVRVpyQ011Q1lseGhyTkdnRUU2QVplSVlaUzlpSC03Ul9IMlFCQU1rOEJZRWNKMERRNHN6bFdVWFIwcVptNnBpMnhTLV9YUHd5bjQxSHZJeHh3R3dHazIwakVOZEFBOXhNTDQ1cDZXSXJ1QmY4T3VIeG83WjFnRXdWRmdyel9xSGdNaXg4NTBDdERvRm5DQmNDQl84SWljTGtMWTVVb25LaHJ0NVZkOWFRcXhfZm1WREpGWk9zbjBvZUFDZ0UtRDk3SE80NGVrcWhCUUptM3lDSF9hWTRjVG1qekVDMXhEakhwdnRIdVFackVJQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'My good fortune': BJP's Mahesh Sharma on getting Gautam Buddh Nagar ticket - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMFRSYkZOTXRYdkR2c1huSEdBelY0bG5oZXpNMjdwejJLUnVvYllTTmZIbUowekJFMk80Sk1MNVhoNDFKcWFCLWUyQUtxamdIX0ItbkNvcWpRTmp4LVFFOWtKWGpqYmlpWVJGbDY3NlRCVW9ab3VhS0ZkUmhFT2I5dmlNQXRGMWpwTkZpdWRNbEhPYVgxbG5OMjlYdk0zZjNaSW13eGtBVDJMbUhDbWE4cFowSUJveTZwRU9Dc2pPbHZYVDF1NFhfcG5zeUtsNk0yWUh3MWw0ZUZlOGs3N0HSAeMBQVVfeXFMTjNBMjFrSld4QlRieDZmUDlFY2RkMUdoWU1pUWVSUzQzQ3kyRHpJV2FKUXhVbWpWNWlpRWZWeVlTMnpkSG95OFM0ZmZsYmxTNUpyLVdBZ1pzaE1WRWJhZTFYSVo2bjBXbWI5d2tJbzdydzV2b2hWMUZvU2FhbDVqczF0Z3diMURJSk5TS3V2dmNpOVlrQkRnOF9rWXpyOFhJXzBOcm9MNXhGZmZqZ3o4ZTdwWG1wdURjUzVWMlBWYk1yc0tCcVVWQ1BEMC1UVHVZWXY4dmxrclY1WDB1QlpLNlJ4RzQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "No challenge to Modi and BJP in 2024: Dr Mahesh Sharma - Garhwal Post",
+      "source": "Garhwal Post",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkJTMEVZN1lKRFVVRjJqUl9LdDV5N2pwdnpYLVE1Rnl6UkVlZ2xGLU05QnNmLUczcHNFdk5FcW5Seng3Y1N2cWxzeUtScUhvQzF2dy1lWXFlYXRLSDhuUlVjMHZIWjgyRXl5UVUwOVk5WGpoRURyUlZvbmlUQURTMzNlQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Dr. Mahesh Sharma’s mother passes away at 85 - Hindusthan Samachar English",
+      "source": "Hindusthan Samachar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakNlUExLOUFKbUdEOWZ0MVVndnYzZkNvQjhLZlhLSFB4ZkpfOGU2XzdibU8xeGhPYzh2VXkzZTVwbjBhY3pGU3dHbWtGZ0tXQVc3dDVzd0JpOC1WcDVfWmxtUTVCV2M5TkNwRVViU3hQeXlCcTh5Ym1RRW9odmFVbzdfeVBoM19Nb25WV0o3YzA5VHBlMzB0WjVsYm51SjRZaFE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:00:24.444165Z",
+  "collected_at": "2026-09-02T17:03:29.200791Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.781600Z",
+        "fetched_at": "2026-09-02T18:38:11.349312Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.781610Z",
+        "fetched_at": "2026-09-02T18:38:11.349323Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.781615Z",
+        "fetched_at": "2026-09-02T18:38:11.349328Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.781620Z",
+        "fetched_at": "2026-09-02T18:38:11.349333Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.781625Z",
+        "fetched_at": "2026-09-02T18:38:11.349338Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.781631Z",
+        "fetched_at": "2026-09-02T18:38:11.349344Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.781636Z",
+        "fetched_at": "2026-09-02T18:38:11.349349Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.781640Z",
+        "fetched_at": "2026-09-02T18:38:11.349353Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,48 +320,57 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/dr_maheshsharma",
+        "url": "https://x.com/http://www.twitter.com/dr_maheshsharma",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/drmaheshsharmabjpnoida",
+        "url": "https://facebook.com/http://www.facebook.com/drmaheshsharmabjpnoida",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T16:59:52.221937Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Months before Noida man drowned in ditch, residents wrote to MP Mahesh Sharma about broken, dark roads - The Indian Express",
+        "headline": "BJP’s Dr Mahesh Sharma wins Gautam Buddha Nagar seat for 3rd time - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZFdrNWlfSjdoWTBUakV0ZnR6a0Fhci1MdnhnUEFLVTBabEVud3N0NU5BQWV2bTF2THVYUUNZaFRqaldLLTRZTkJsR3JuNVBSdW1uZk44bXY2c2owMkNUYlozNTFQdzVaQmR1OUtqaVVOUjlrc2JNWVRlMkZYNm9pMmhpUFZkTzNZUnVyZGtMSnAyN05KMU5tV2xlX0UyWUdfQW1Uc3RqU0Q0VzRFTS1kY2RNUnlFVzdRdkk4OFQydFk0QlNzSFpnNUlleWJPbFpib0p2LVFIcFlVR202VkYxdE93VVVKSmp1d05ReXRR0gH0AUFVX3lxTE80LWEzeWppMDZhSWtEWVBvc1ptNXRzTlFVbkRVd2hvYm5jaUljVzJYYWpCaS1hZlVkMHBYQnc0RkQxc1FkSXhEV0VUS2JxSGRvR2pyTW5hVE1Dd0djWWdUSjVQdU5VZmVQMURRWEowUW9yMkRqSTktSXdOSUtBcTNOU09tQzUxWTZJU0ptVVVJWTVrSmowSFNIdDZYVHBxMEl3eDNEUVNsMklxUnZjX3Vfa1hzNmxHTE5fX2RLNVB6SVhzX3NwV3B1dF9obHdWN1JZbFQ2TElwR2ltaF9EbnlCNFZzODhhVUc4ZUxValFzeS1uTzQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlpvQXA3Yi1NdTBnanloZEQ1U1U2bEhCZkU5aFVlSFpZQ0hPcnowX0hZMWhTUnEwOEZudHJ2NW5CaEpmdEJQVGpQdjVwQ3d4M1RDUElZMmxuZGFqaDFLQUtKZDg5Y2pEWnRzdWRZVkZkSHlZckhSNVpYUmtJUHdTTnNHT1AzbGhlUWxfazZfT3dPWTMxWVJrMG10OFfSAaMBQVVfeXFMUDZnRjlTNHdaSTdjYmFxNnk3UW5hNEE0NG9DR1J5ZnlQMXdsWG9lWVJTSmN6OTItTkc4VGc2cHBWS3Itb0p6ODZWaDFXc0l4aDFQbGhBbVFNYzNWU1BCazlVRXk5RXV5LWo1a2hLWWp5c2IzZ0lwZlRiQTh1b3ozMnJEMUZfblJXeDBRNWlzdi1XSXRBVWVMXzNLUkFKa0cxRU5lWQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Dr. Mahesh Sharma’s mother passes away at 85 - Hindusthan Samachar English",
-        "source": "Hindusthan Samachar English",
+        "headline": "Lok Sabha Elections 2019: Mahesh Sharma in fray, as Gautam Buddha Nagar witnesses triangular contest | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakNlUExLOUFKbUdEOWZ0MVVndnYzZkNvQjhLZlhLSFB4ZkpfOGU2XzdibU8xeGhPYzh2VXkzZTVwbjBhY3pGU3dHbWtGZ0tXQVc3dDVzd0JpOC1WcDVfWmxtUTVCV2M5TkNwRVViU3hQeXlCcTh5Ym1RRW9odmFVbzdfeVBoM19Nb25WV0o3YzA5VHBlMzB0WjVsYm51SjRZaFE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "It’s a hat-trick for Mahesh Sharma in Gautam Budh Nagar, victory margin of 5.6L biggest in UP - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLWItTUdRZGZhZXBvYm9aWUJWMm1Pckw4V3FNNUtZVENXcTJuMS1ZcE5RcWZueXduOVhRNy1WYTdRTUhXZ3gxRVpKWTROUExiTWRyMjVVTjFyN1dNTHFSUGNZM2hKUTFoOXV2ajdWN3BvekRhbFoxWXdtN3l4anJwb3ItSFAxSE5TYlV2RGN3Vk1ta1pnV095Zl9TRDBkM3JyS3JMQUtNRm44aS1hdjFiUWlic2F6bzJtV1VMbHctLS1kTHJHb2JHVWVFcHRzWGZseG5rZjNSdE91YmZ6SjltQTV6YU0tTkQyeXRZYU5B0gHzAUFVX3lxTE9ybmF3Y2xleHBOMU1vSkpMcTZTdFlRVEgyVlhCcUNEWW82Yll5WDgwSGs4VW04MzVTRnpRc21fMjVTeXlUS19wbFlpTU9UM3RGc0lwbmZudUVZYmdqZW8tWEZkV3hWMGtFbE9RZHJ4Rzh0TDJCd3J3SmllYjg2enltb2ZqdnRvQmpOeUo4OHNOYkFwWnFwTXRkTnktRFBqNkZLNnFVR3Z4OHJGN25wSEFJb0hLWlB3N2FWOGFWX0diSXhmLUs2LXF2QTJOa0dWZlRFUEZuYVpSMlEtX1QtdU5sakZJaU1mQnM0LTNFU3JJdWpraw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Gautam Buddha Nagar seat: SP candidate leaves behind BJP MP Mahesh Sharma in spending duringÂ pollÂ campaign - DNA India",
-        "source": "DNA India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM2ZtUnpZODFQc2M2bXpuZGdRYzdqN2J1ZmNGRTNLWFZIcEdWMFlleHdISERfR0NZdEd3NEFsLXlCYmcxd1FFeVZEZzlMQzVSWFpJZlJtT0hNRmoyMnVGVzd2VHFadUM3cFZuV1NfWEU2NUNfOEY1eXY1WWdWcjM5Z2VOMHdiYy1Ha0o5VTNhMFZRRnkyNi1HdzhjTkV5ZVMyZS1nZkFpMWpPSENCeXkyUzVpM0R0NHJqMmRtd0RYaVpCYi15R1VPeWYtOFpERlEwd0x3Mi1BWFNlalVONDU2eHZGUFFWNU9GUlHSAe8BQVVfeXFMTVFoZ3pRbWx2ZUhqUERDdXFzWTdyVS1GS3NHVUUwRXc2ZGxtUHFRdHhKWG84QVVRQ2MwamlCUWhDZ0ZoQ3BmMFhOX20zNUZSWnBVZTlGZHBQME5NcVp3TWNlckRvV0pJXzRGcW1SUTZ1YXhqMVd5aFEyNElxazQ4MVFFcFZTUGZlOU45VlI2bUg3b1lPNG5KTV9POFRhS2I5OHUwaGVZSWJrUVZ0cDNLc3k3dklxUHNMaS1XcVdKWEo2QW5PcUhYY3B3X2dobjFRZkZ0SHBSaVh3QkUwZmVFVk56a2hoaEFQcXI1VHcxN2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNE5KdHRib3B6bjJsSjdLcGh5a2p1cUQzOTFDTW5HSFlxREJ2bEdId3psTjJIbU9rczJwMWJDTXFEVmFGeXhDZk1ESEszajNjanpVd0ljM045N29hR1g1MElPWl9wTFl2REhyWVgySXZwUktLb0ZEaUhwMFpmMjllRUdhdkZkV043VlBKb3FNaTY3OTNkWHQzVHpQZ0lJZExCbVpoSXpTYjdpRExvQ3lKRE94XzNMNkwxS1BieTRMRDRDcUVDWmJHS1R4TWhIYjJuZmI0OVI1Sjl6YVJha2d2X1VuMExXYXh5V2NEd2J0T29uRlBHRVpOYTZQalNpWm5nb2RTMk5hS3J1VFhTS3dUV9IBlgJBVV95cUxOUDdFem9zRnJsaHJwa0t5T3kyQk9nV21FREZranFWeF9BV1ZVRVpyQ011Q1lseGhyTkdnRUU2QVplSVlaUzlpSC03Ul9IMlFCQU1rOEJZRWNKMERRNHN6bFdVWFIwcVptNnBpMnhTLV9YUHd5bjQxSHZJeHh3R3dHazIwakVOZEFBOXhNTDQ1cDZXSXJ1QmY4T3VIeG83WjFnRXdWRmdyel9xSGdNaXg4NTBDdERvRm5DQmNDQl84SWljTGtMWTVVb25LaHJ0NVZkOWFRcXhfZm1WREpGWk9zbjBvZUFDZ0UtRDk3SE80NGVrcWhCUUptM3lDSF9hWTRjVG1qekVDMXhEakhwdnRIdVFackVJQQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -317,6 +379,22 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMFRSYkZOTXRYdkR2c1huSEdBelY0bG5oZXpNMjdwejJLUnVvYllTTmZIbUowekJFMk80Sk1MNVhoNDFKcWFCLWUyQUtxamdIX0ItbkNvcWpRTmp4LVFFOWtKWGpqYmlpWVJGbDY3NlRCVW9ab3VhS0ZkUmhFT2I5dmlNQXRGMWpwTkZpdWRNbEhPYVgxbG5OMjlYdk0zZjNaSW13eGtBVDJMbUhDbWE4cFowSUJveTZwRU9Dc2pPbHZYVDF1NFhfcG5zeUtsNk0yWUh3MWw0ZUZlOGs3N0HSAeMBQVVfeXFMTjNBMjFrSld4QlRieDZmUDlFY2RkMUdoWU1pUWVSUzQzQ3kyRHpJV2FKUXhVbWpWNWlpRWZWeVlTMnpkSG95OFM0ZmZsYmxTNUpyLVdBZ1pzaE1WRWJhZTFYSVo2bjBXbWI5d2tJbzdydzV2b2hWMUZvU2FhbDVqczF0Z3diMURJSk5TS3V2dmNpOVlrQkRnOF9rWXpyOFhJXzBOcm9MNXhGZmZqZ3o4ZTdwWG1wdURjUzVWMlBWYk1yc0tCcVVWQ1BEMC1UVHVZWXY4dmxrclY1WDB1QlpLNlJ4RzQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "No challenge to Modi and BJP in 2024: Dr Mahesh Sharma - Garhwal Post",
+        "source": "Garhwal Post",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkJTMEVZN1lKRFVVRjJqUl9LdDV5N2pwdnpYLVE1Rnl6UkVlZ2xGLU05QnNmLUczcHNFdk5FcW5Seng3Y1N2cWxzeUtScUhvQzF2dy1lWXFlYXRLSDhuUlVjMHZIWjgyRXl5UVUwOVk5WGpoRURyUlZvbmlUQURTMzNlQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Dr. Mahesh Sharma’s mother passes away at 85 - Hindusthan Samachar English",
+        "source": "Hindusthan Samachar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakNlUExLOUFKbUdEOWZ0MVVndnYzZkNvQjhLZlhLSFB4ZkpfOGU2XzdibU8xeGhPYzh2VXkzZTVwbjBhY3pGU3dHbWtGZ0tXQVc3dDVzd0JpOC1WcDVfWmxtUTVCV2M5TkNwRVViU3hQeXlCcTh5Ym1RRW9odmFVbzdfeVBoM19Nb25WV0o3YzA5VHBlMzB0WjVsYm51SjRZaFE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -366,17 +444,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

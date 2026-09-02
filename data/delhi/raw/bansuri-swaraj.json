@@ -24,13 +24,13 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.7,
     "sources": [
       {
         "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-05-21T15:55:16.299855Z",
+        "fetched_at": "2026-09-02T15:33:43.226037Z",
         "notes": "MyNeta candidate affidavit data"
       }
     ]
@@ -39,8 +39,8 @@
     "movable_assets": 112712042.0,
     "immovable_assets": 80234486.0,
     "total_assets": 192946528.0,
-    "liabilities": 0.0,
-    "net_worth": 192946528.0,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
@@ -51,41 +51,55 @@
         "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-05-21T15:55:16.311115Z",
+        "fetched_at": "2026-09-02T14:27:58.444715Z",
         "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 70.9,
+    "wealth_percentile": 68.7,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.43,
-    "released": 15.43,
-    "sanctioned": 4.73,
-    "expended": 1.92,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:25.715557Z",
-        "notes": "Official eSAKSHI REST API — Works: 110 recommended, 71 sanctioned, 4 completed"
+        "fetched_at": "2026-09-02T14:32:01.322733Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:56.676313Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:56.673833Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 110,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 12.443292287751134
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -100,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T15:55:13.120765Z",
+        "fetched_at": "2026-09-02T14:27:56.672497Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "\"Rahul Gandhi, I am calling you out on your misogyny\": BJP's Bansuri Swaraj hits out at Gandhi over 'smash the patriarchy' remarks - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUXY0SzJFTkQ2MEdjaUM1NEcyY0FiNjNkTHNsSzhMY3NMaWpKSWxIeWhPT3Z2T05pRzVPaF8yb0VzTDdGcVA4Y0Y2X2g0VXF0S0YxUngwb3NwcWNHcU5leHpOM2F5bGZmbTh5Qm54TXp0c1BDeWo2WEFhUmRpXzhOVE84TTFGVklSd3ozekNkcjZOWlZnT1dTN0JzNUJ3VW1DMkJfYlFKVEZqWHJHZGY2UURzbWZ0d2ptMm9DcXNIMGdoTzlSNFFTeEg2cXNVUng4M3FHME8zTnNBa0ZFOWwxSTltaWpucWp0aEdNTUM5NUEzVmFMZGhoR0RXOUtBbkNmRjBDNEMwT3JudnQtak1iNjM2Qlg4UQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "UNITED NEWS OF INDIA - uniindia.com",
+      "source": "uniindia.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EWUZTc1dSQVBVOENTcHVlUEFzSG1nNmZJWWFYbmV0cjBQNk5yQTJ2VW5PNHpfTk9xai1kT29HT0FwdHRZOHJtSHB2ZWQxbExPM2xaZTNCYw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Modiji clocked it’: Bansuri Swaraj leads NDA charge in debate on anti-paper leak Bill in Lok Sabha - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0VXcy1SNU1FUjdPU3hYZGR4LVdQa1NtRnVaeVVZRS1zVmxpdzFJVXphX184SHZrSU42cHFDaUdZUEtXeklyTTNuS2UyelJ3QzQ1ZzFjNE1NNUl3UXRPREZIc21sNnJzLW9YcUhXOVNvTG1tTUh3cGh3cWl4WlQ3bENxb3FrbXBRQjJIX2FvUlBENW10SDl2d2ZKUnZwM1NDbVdkZU9obGhwYTd5X2FaeDk3Zy1rUkc5cDBYQmpJLTR2OUhTZHN5dFNOU1JFbm9GY09zZkt4Y3hjZ9IB3wFBVV95cUxNSWRNQ3cwbWFVdmRzdUhROWZKblZNWlczXzVWQy1ZaG5IczQ1UmVMeEU1bDNBYkxtcThaRmt1d2xOazNlb1JMN3JHT01IRjJaWUx4ekF6NjUyMkhRdVJ1dkp2b1QtSjlQbk0tc20zdVhsZ3k2ZHJvNGpvczFlM3V6eEY5WmU1WTNaZFp3OE9HM0w3REp4R1gycFpfZTRSWV80YVFKa2JCN0E3QnBsWl8yYWRTcWtoci1FaENDV1ZxYXZKRVE4ZlFldWpNaHpuTXZ0a19TdllTTFd0dHEyWGpB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Born only to file cases against Rahul': Pappu Yadav's swipe at Bansuri Swaraj - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdmkxN2hNMzVfSnZHaVlUbkVDcmhubC1NT0YyTG03ZDJHU1Y4NG5nOHpCZ3FMM3NIM1hFYWZpN2xpZzcwRzVjcjBCY1FnX3pneDg4bF9PM3p6Slpvb3VsbFl4dGtzU2FVWDdMTXpaUE1BWG9hZDNOYWF6dmpqU0V0VzY2S2tZTWpnU1dzM3k3Nlo5MzQ2TGlWS196MFhBTDIxWkpHOTlqTjZWZjU2Z0ZmS3pZNFVoQi1zaXpDeFBteFI1WXhWWERJOEVxVG5kY1RWcXdSTlMxemRSNDB3QWxmVw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP attacks Congress Over Rahul Gandhi’s ‘Break Patriarchy’ Remark, Calls Statement Political Posturing - Hindusthan Samachar English",
+      "source": "Hindusthan Samachar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmRyZ1pnQ2hmelgzU3dnbUZveDEtUkRHU2huSVNtT1hLYm94N0ZtbGNhaTVOSGI1a0hNOTh0T2o2VU5lV2IwMzVjdl9pMFNCSURlS0tiSHBVc0UxLUF4Zk9pZlVRa0t3MDBsN2w1NjZQUndrR3J1MFctemtWSkg2OVVPTS1tcGoxdlNFVnc5Z3dUdw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T15:55:44.303760Z",
+  "collected_at": "2026-09-02T14:32:01.323665Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.766713Z",
+        "fetched_at": "2026-09-02T18:38:05.355998Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.766723Z",
+        "fetched_at": "2026-09-02T18:38:05.356009Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.766729Z",
+        "fetched_at": "2026-09-02T18:38:05.356014Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.766733Z",
+        "fetched_at": "2026-09-02T18:38:05.356019Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.766739Z",
+        "fetched_at": "2026-09-02T18:38:05.356026Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.766743Z",
+        "fetched_at": "2026-09-02T18:38:05.356030Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.766747Z",
+        "fetched_at": "2026-09-02T18:38:05.356035Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +306,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.766753Z",
+        "fetched_at": "2026-09-02T18:38:05.356040Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -309,7 +365,7 @@
         "url": "",
         "source_name": "social_media_lookup",
         "grade": "D",
-        "fetched_at": "2026-05-21T15:55:13.124988Z",
+        "fetched_at": "2026-09-02T14:28:17.143484Z",
         "notes": "Social media handle lookup"
       }
     ]
@@ -321,43 +377,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Delhi court orders removal of defamatory videos against BJP MP Bansuri Swaraj - The News Mill",
-        "source": "The News Mill",
+        "headline": "\"Rahul Gandhi, I am calling you out on your misogyny\": BJP's Bansuri Swaraj hits out at Gandhi over 'smash the patriarchy' remarks - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3hJNWFQQkVpRi1yN29DV1EyYVgwcThmbEVIZWJwVEt2Z0U3Q0ZENmcxNk4xSnVqSXBnY1B5T0R4QVc4NGxYVUVCY0lFWlVDVHJWdVZpYS1NWDljRF9fUURva2gtUEd1Y0Item1UdHlxZzZKQTFaMFJqTnlfWXctLW1fLXJfV1o0YUZkYXdLS05fN09sUWtEYW9ISEtRZFBwVEF1M2NSSnlTam5tZERN?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUXY0SzJFTkQ2MEdjaUM1NEcyY0FiNjNkTHNsSzhMY3NMaWpKSWxIeWhPT3Z2T05pRzVPaF8yb0VzTDdGcVA4Y0Y2X2g0VXF0S0YxUngwb3NwcWNHcU5leHpOM2F5bGZmbTh5Qm54TXp0c1BDeWo2WEFhUmRpXzhOVE84TTFGVklSd3ozekNkcjZOWlZnT1dTN0JzNUJ3VW1DMkJfYlFKVEZqWHJHZGY2UURzbWZ0d2ptMm9DcXNIMGdoTzlSNFFTeEg2cXNVUng4M3FHME8zTnNBa0ZFOWwxSTltaWpucWp0aEdNTUM5NUEzVmFMZGhoR0RXOUtBbkNmRjBDNEMwT3JudnQtak1iNjM2Qlg4UQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "‘Reputation can’t be sacrificed’: Delhi court orders AAP to remove ‘defamatory’ video of BJP MP Bansuri Swaraj - The Indian Express",
-        "source": "The Indian Express",
+        "headline": "UNITED NEWS OF INDIA - uniindia.com",
+        "source": "uniindia.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3NjcTlUckxCQkdRNjF5QXE2bE1yS0tHYmRLM2pNTGc0OHlPYXEyeTA5SEJqZGFBVVZhbWJYUTBZcFBqblVibzFKeUI5b2k4MXpoaEVvajViR1hGQVdFT3U3cXJxdEg2UEN6R0k4YThxd1ZLa2RKazBUamMyTFVJS2dsMEY3bFgzYW9RcHRnLU5EUkFTa0tpYVMxUnNSeFhoVGhPWmJUSV8wa2oxN1HSAbQBQVVfeXFMTkx2VXNpUzRISGM3OXZWMDdBWFhvTWhjenJQMUJWelByaDJlRUI2QUpNLXR4SlotZnlzblBMZXdManhNYUNyNl93bzhaSGN5ZzJRWmV1cG9oRU42NXpLbVlpbnF2V054UFltdUhuaXJ5SHkwZHBtSGxRMnJrYnF6U3RNV2VucjlTUzRZUnpXakt3cXNSVzYzMkdJUmYxQ280V21nYjRtUXdMZkVpUzNvalc1b1Rj?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EWUZTc1dSQVBVOENTcHVlUEFzSG1nNmZJWWFYbmV0cjBQNk5yQTJ2VW5PNHpfTk9xai1kT29HT0FwdHRZOHJtSHB2ZWQxbExPM2xaZTNCYw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Delhi court orders AAP, including Saurabh Bhardwaj to remove defamatory post against BJP MP Bansuri Swara - The Times of India",
+        "headline": "‘Modiji clocked it’: Bansuri Swaraj leads NDA charge in debate on anti-paper leak Bill in Lok Sabha - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0VXcy1SNU1FUjdPU3hYZGR4LVdQa1NtRnVaeVVZRS1zVmxpdzFJVXphX184SHZrSU42cHFDaUdZUEtXeklyTTNuS2UyelJ3QzQ1ZzFjNE1NNUl3UXRPREZIc21sNnJzLW9YcUhXOVNvTG1tTUh3cGh3cWl4WlQ3bENxb3FrbXBRQjJIX2FvUlBENW10SDl2d2ZKUnZwM1NDbVdkZU9obGhwYTd5X2FaeDk3Zy1rUkc5cDBYQmpJLTR2OUhTZHN5dFNOU1JFbm9GY09zZkt4Y3hjZ9IB3wFBVV95cUxNSWRNQ3cwbWFVdmRzdUhROWZKblZNWlczXzVWQy1ZaG5IczQ1UmVMeEU1bDNBYkxtcThaRmt1d2xOazNlb1JMN3JHT01IRjJaWUx4ekF6NjUyMkhRdVJ1dkp2b1QtSjlQbk0tc20zdVhsZ3k2ZHJvNGpvczFlM3V6eEY5WmU1WTNaZFp3OE9HM0w3REp4R1gycFpfZTRSWV80YVFKa2JCN0E3QnBsWl8yYWRTcWtoci1FaENDV1ZxYXZKRVE4ZlFldWpNaHpuTXZ0a19TdllTTFd0dHEyWGpB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'Born only to file cases against Rahul': Pappu Yadav's swipe at Bansuri Swaraj - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV05kWHdqUHF3SWRBTjFqS3hINDNEZVN3ZmpVRzQxNTN2VFBBUFRKdnZlVXFaTld5LWYxeDBYUkdtSktkREVjQmxwTWlwa0U3MUMycVdhUGxBdVFobWVYN0tRT3BJYU5Ta1o4akJzVHc3cTV1Y1VYYmpZUnc3OVBwMVFhdU9FQU5VeWdDaExwejFhcThTdUYydU8xUUdHMEVib0plczRRbmtOVFFYYWxYbkdiRkxxWUstWVRsWUVwamVuWDhuN2ZsVjNCclJqRU1odEtIclJZRUNLeVhFUjZvSktpX0Y5Z9IB6wFBVV95cUxQSTNjY3VNN29UcGZZc3YyVUp3Uk50X0hJenNremxDbDh5bXpLQm8xeXFUS2NrLUdoRzM2ZlU4Y3dPbUlicXJ1N044aEp2RUxDdnd3d1F6RDRzMkJzbXFLY0t0eEQwN2ozMW92TGkybDRhc00wT0J4UFNvRV9tNEpfS18zM1lKSXJ6LU9LNnJQMmxUdUQ2c0tDN0RUeGtaYTNIOHVibE05YTlmZkdtd0hpcExpdXowNGxZdFBTQTVneDJBazExR2M4LXZSYWJJZ2xLZjVuTWhVTk1saEl0SVFtZU13VFRfR0JHQzdR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdmkxN2hNMzVfSnZHaVlUbkVDcmhubC1NT0YyTG03ZDJHU1Y4NG5nOHpCZ3FMM3NIM1hFYWZpN2xpZzcwRzVjcjBCY1FnX3pneDg4bF9PM3p6Slpvb3VsbFl4dGtzU2FVWDdMTXpaUE1BWG9hZDNOYWF6dmpqU0V0VzY2S2tZTWpnU1dzM3k3Nlo5MzQ2TGlWS196MFhBTDIxWkpHOTlqTjZWZjU2Z0ZmS3pZNFVoQi1zaXpDeFBteFI1WXhWWERJOEVxVG5kY1RWcXdSTlMxemRSNDB3QWxmVw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "‘Reputation Can’t Be Sacrificed’: Delhi Court Orders Saurabh Bharadwaj To Take Down ‘Defamatory’ Video On ... - LawBeat",
-        "source": "LawBeat",
+        "headline": "BJP attacks Congress Over Rahul Gandhi’s ‘Break Patriarchy’ Remark, Calls Statement Political Posturing - Hindusthan Samachar English",
+        "source": "Hindusthan Samachar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbU9pZWd4SC1sOURaMEJQeDJiS0RIZ2RvYlBVTm1oNWxPYUxDQ00yNjJMa1Vuc0stT1l1dEVfbm5jTmpkWXE0Zk5WY3RrZkFEYnJkb1Q5ZF9WNzdfY2xOdE8yejc2U3FmQTQ4eFVhaE9TUmtFV2lBYXpnV1psWlo1cldRUS1Mb0pEMFZTeld3Yzd5R3dmNGtHY1RkMTlnTGtrMDJBaGZ1czM1S3NWYVBuZVQ2a1hNOHdwSXptd1h0LWZNOTRDNGxtd1V2YW41VjN2ZkZMMzlOV2d6bGthSWhqRzdyZmxTeFBWb2fSAe8BQVVfeXFMUE9QZnJKbmtMRzFPczlHSVpjUXlacS1rSEtFQ0JscnFnME9QNlNJaGVXWHp5SkVHZ1E5VEJWM085aHg2aFFlQ1BUdC1LQ0xyZFhpQms5alQ3RTRfbHg2ZGg3TFc4cHQ4c2pIOHF4Q3BLd1BGSlRIbEM5U0hjV2Rtbi0xYmlNaTlET3o2NldTVmNwRWJ4T2otRWU1eXdZMnBsbi1lMDRZZklwTDZTaGdDY2p3VG02NjRINE9wR0hIQlZ0YUVCWE9oOVpEamdJNDFrOFJYNWpjd2pHYlJTaFRQUXJjUWtUMVlMVDBCbVFUbGM?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "\"BJP-NDA mandate a tsunami of faith in PM Modi's guarantees\", says BJP MP Bansuri Swaraj - ANI News",
-        "source": "ANI News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcTdfaTd3eUh1ZDBvc2ZtNHVHelN2cW9uZURVRGYyTTVheE9ONXRncWF3VEhkVFI1STVyamZ0MmxvcUk5MUpHNkR4U05paGdrNzVGVmlJMGVtUFk5R2QxWnplN1NzSGJLUm1QUXZ1SWdGN3RoQ0FMWWU5dzl6WlJYNWFQSzdPUnpFcW5qWlpsYUpJTjZnNi13ZldtLXRqTGd3NWtqcmZXLXNhTmdXVTM1dUNCNTR0NHlPZ1ZPQmtqd1FELW56X1RkcmI2d2ROZkVGSlR4SVpVRjQtNG1r?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmRyZ1pnQ2hmelgzU3dnbUZveDEtUkRHU2huSVNtT1hLYm94N0ZtbGNhaTVOSGI1a0hNOTh0T2o2VU5lV2IwMzVjdl9pMFNCSURlS0tiSHBVc0UxLUF4Zk9pZlVRa0t3MDBsN2w1NjZQUndrR3J1MFctemtWSkg2OVVPTS1tcGoxdlNFVnc5Z3dUdw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -391,15 +447,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 4,
+    "starred_questions": 1,
+    "unstarred_questions": 3,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 7.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -407,17 +463,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

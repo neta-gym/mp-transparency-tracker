@@ -3,24 +3,22 @@
 **Constituency:** Nandurbar, Maharashtra
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 31
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.2 / 100
+## Composite Transparency Score: 63.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 35.0 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 45.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,22 +36,21 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.02 Crore
-- **Liabilities:** Rs 78.18 Lakh
-- **Net Worth:** Rs 6.24 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 6
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
 - **Expended:** N/A
 - **Utilization Rate:** N/A
 
@@ -69,6 +66,17 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 1
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@https://www.facebook.com/GowaalKPadavi/](https://facebook.com/https://www.facebook.com/GowaalKPadavi/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (9 articles)*
@@ -76,29 +84,42 @@
 - **Total Articles:** 9
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 9
 
-- Nandurbar (ST) Maharashtra Indian National Congress - The Times of India (The Times of India) [neutral]
-- Nandurbar lok sabha election results 2024: Nandurbar Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Nandurbar (ST) election results 2024 live updates: Cong's Adv Gowaal Kagada Padavi wins - The Times of India (The Times of India) [neutral]
+- Adv Gowaal Kagada Padavi , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - thehindu.com (thehindu.com) [neutral]
+- MP for inclusion of Ladakh in 6th Schedule - Daily Excelsior (Daily Excelsior) [neutral]
 - Nandurbar Election Result 2024 LIVE Updates Highlights: Adv Gowaal Kagada Padavi of INC Wins - News18 (News18) [neutral]
-- Opposition leaders push back against Trans Bill 2026 - Queerbeat (Queerbeat) [neutral]
-- IN PHOTOS: Newly elected Lok Sabha MP`s take oath - Mid-day (Mid-day) [neutral]
+- Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com (Sarkaritel.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Nandurbar (ST) election results 2024 live updates: Cong's Adv Gowaal Kagada Padavi wins - The Times of India** (The Times of India)
+- ! **Adv Gowaal Kagada Padavi , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - thehindu.com** (thehindu.com)
+- ! **MP for inclusion of Ladakh in 6th Schedule - Daily Excelsior** (Daily Excelsior)
+- ! **Nandurbar Election Result 2024 LIVE Updates Highlights: Adv Gowaal Kagada Padavi of INC Wins - News18** (News18)
+- ! **Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com** (Sarkaritel.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Maharashtra: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Gowaal Kagada Padavi shows moderate transparency with a score of 62.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Gowaal Kagada Padavi shows moderate transparency with a score of 63.2/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 70,170,431. Parliament attendance: 95.0%. Questions asked: 17. Debates participated: 12.
+No criminal cases declared. Parliament attendance: 95.0%. Questions asked: 17. Debates participated: 12. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ No criminal cases declared. Declared assets: Rs 70,170,431. Parliament attendanc
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +238,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Gowaal Kagada Padavi's MPLADS account: Released: Rs 15. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +255,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

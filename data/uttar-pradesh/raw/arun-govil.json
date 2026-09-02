@@ -4,16 +4,16 @@
     "constituency": "Meerut",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1923,
+    "myneta_candidate_id": null,
     "slug": "arun-govil",
     "house": "lok_sabha",
     "sansad_member_id": 5564,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 72,
+    "age": null,
     "photo_url": "/mp-photos/5564.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:52.227025Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 144400261.0,
-    "liabilities": 1464028.0,
-    "net_worth": 142936233.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1923",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:53.688826Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 65.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 7.89,
-    "expended": 5.84,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:34.776727Z",
-        "notes": "Official eSAKSHI REST API — Works: 132 recommended, 111 sanctioned, 36 completed"
+        "fetched_at": "2026-09-02T17:36:26.192037Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:32:46.565784Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:32:46.562971Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 132,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 39.72789115646258
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:06:30.120797Z",
+        "fetched_at": "2026-09-02T17:32:46.561896Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "‘Mere Ram Aaye Hain’: Women break down on seeing Arun Govil; MP visits Meerut Central Market on day 15 of p... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQalhnTk16b3R6QTZOMlM1X0p4b01qY0NrZFIxRlZjbTdkbjFCN0dlR3BDb3Znc3NfTEVtTG5qYjFrT083bG9YZVFNYk5DTjFpdkJoZlBtZVYxcU1DYThiNlJoZ0k1S2QweDZ2NkhNNFpwanc3Q09WX1ExYjk2VEMwdVBXemp5TVFRT1JoWDl3REkyRFFOQ0FtcnFjLThXQ0JhcXFoUEdhOHpZYW1lOENxaHNjZHdibUNjRkRzLWVTSDltMXAwLVFz0gHMAUFVX3lxTE1GS1ktcEF2cVBZbFpLaURmWWxwVjc0NzhUWFlIamFRYVNZcTAzWm0wWnZsdkxkTjNPM1FPYVhYS2dGQ0thOGRmS2R6VlgzVlF2a2QyeEN2MERoWWVuY2pYbmZ5ODQ3X3htaG5IeUFtNHlBSThtMG1xSjNXcW5vcloxYzBDZW1BRktLUHRMOHM4SVkxSFpFTUlQVnVKbW44c1RFeURVdXJpZzNrVTc2NVVSNjdoMUNsa3pweW5zMGdhWDZEZnpKTTJkb0tJaw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP’s Arun Govil wins from Meerut Lok Sabha seat, defeats BSP and SP candidates - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjJzTkNwdWdRRWpJRjh4anpTSzR6WXFOMGJwYzVhdEp1OFlQTXFSVTJfQjZxQnc5dlBqQWsxcnhXUEl6NUV3UXRMQzlMNHRWS0dFMkVYOVI2RDJ1eDgzSDNnUGgzZGtLaGdVb2p3TzFRZXRQdG5LRU45OTRLbWN1WUpWYjZDSFBoU1ZEc0JfNUhDTzhNazAzYnA0QVp6U2tqU0JLY3N3Q0paNTFm0gGzAUFVX3lxTFBjemlUYUh4RDZLekI2enlULWh0cnkzSVdWRHQ1MnB6Wmw3cmJKNHFxTHlNZFJzN1hDWXd5NldieENfbDhzZVlHYWpLaW13Q2gwRTlqNWx2ZENMMFhnaDlnLUtXd294WExuakEybVF6U3VNaDY1V0hhMTFMcUNHRFREQUVabXc4T1BPQ24xWUgtSUR6R1k4eXhSZHdtX2pGNXJXZWY4NFB5bFYyQ1hDRWhWSzRN?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "UP Election 2024 Results: 'Ramayan' Actor Arun Govil Wins From Meerut - NDTV",
+      "source": "NDTV",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTHA0eTZDWEpkSFJDb0RacGk1ODBhUXpKSVNWaGl6TmQ4SXhjbHRjSHRyUDJLTGM5VGh3LWZnNVVxUWNOU1JWMDdxZVVYTlotaS1BVU1OTVhVMWRNMThsOEZOZDNIY2stS2JINmhmdHFuMGttUGhQaTBfUDdrOFJ1Z290S2pBMUM2bVpGZzk3NHFGV2w3WWtrTUU1RUR1anFFRVN1c0poY0tUVktoZ09xRHVtRVA3RzNuVjFNbXBpazlBcDdjQVlhMUczUlhHcTB3enc40gHbAUFVX3lxTFB6SUs1eEptdU1IM2o1ZEg3b19NNGpKWkt2Y3NyUG9ySV9nVk1PTjBqUnZ3UlU1NzZqOUFTN29QX21JNDZrNTdvS3NQTEc1dktwRUFYVnhndHBraHBxdDAtbVBLbHNnSndYN3hyU2VRTk14WjIzWWpZSXp0WEhqQXpFVDUzX0RVQU9QazN1aE9lX3Vld3lxYjF5RFVzUXB2eVhZbGgwOGlYckgwaFpaNGRBeVBRV0g4VDhfVkZRbWRoVG5oUUZpMDNDQy1Nbm9YcjNRMmJvT2xuZVpQdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "‘Heartfelt gratitude’: Arun Govil reacts after BJP announces candidature for Lok Sabha polls | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbElUY2RGY2Z2TFNPNzA3SzFPRkVpZVlRaVYyS3NzUFNua2JpYTdkSGNOblZZZFZ0dE5LNjVsQmRaQ0hETFZRUkt3R3JNYWlWX2JJOFR3aG5Xd3dKdFFieTF4by0yQy1hczNSNy05TzB6cmdBdF93ZjdnRjRLNHd4dndXMUIyRFpJZkxCTHFvU3FrclNZVFM0YVV4OFRtWDlPRGt0X3YwTVhpZEsza1prYllYNnZRUUdmc3VqNnpmcDFoX1d4bHN3TTVCQ0xjV3hZMG1OcUw3bWF0ZkR0bWgxLXpyMNIB6AFBVV95cUxNSU1kYlh4RWZncUFIYVJPNlJkT2VBSWVZXzlURXJyRGNsa2RTTnZibnJySDAzNXpvbkR6TjNoZnpfNVk1bGMwa1Q3THloVHRsS2FYX215YTZKWXdzMktFZjYwN1dOTjBGMDZZTWZZWXBlYlk1bGh6dld2SW5IQ0hocmxpd2pBVGwydlpUUFJWTlNNVlViMl9qVzZEcG42VG55ekU1R2FtbDZScDZKZjB5UXhqQm1lYS1PWldLWW4tVUJLMndtdkt1Xy1fTFdxeXVqNEI5UTZXQzIzRnVXZm1TWGcwRm5mLWQ1?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP’s Arun Govil calls for CCTV cameras in mosques and madrasas citing “national security concerns” - Muslim Mirror",
+      "source": "Muslim Mirror",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1BQQ2pqQWpKdGotbWhpVVRmNVZyVDVPNkd3SGstdjVUUWZfVWNsZUVTOUlsY2pKR1JobzRNSkhmMU9KUEhlUkdUQVlSU3dfSDJrMWlIZUJMa1VNLU9CN1h6X0NCWUNmWmNaSGZnWlpYWDc2c3JVR3JkQmlsRDdKc1lxWURVXzJrTmRHR3dqMk5aVmhEWnlQWjlHYU45aTA0QUx6TlcxRjJfaVZzSkd6Uy13VkdOdHZGczI5V0h1bw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:06:50.912203Z",
+  "collected_at": "2026-09-02T17:36:26.193135Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.220687Z",
+        "fetched_at": "2026-09-02T18:38:10.784425Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.220697Z",
+        "fetched_at": "2026-09-02T18:38:10.784436Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.220702Z",
+        "fetched_at": "2026-09-02T18:38:10.784442Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.220707Z",
+        "fetched_at": "2026-09-02T18:38:10.784447Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.220712Z",
+        "fetched_at": "2026-09-02T18:38:10.784453Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.220716Z",
+        "fetched_at": "2026-09-02T18:38:10.784459Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.220721Z",
+        "fetched_at": "2026-09-02T18:38:10.784464Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.220726Z",
+        "fetched_at": "2026-09-02T18:38:10.784468Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -276,8 +329,8 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
       {
         "headline": "‘Mere Ram Aaye Hain’: Women break down on seeing Arun Govil; MP visits Meerut Central Market on day 15 of p... - Bhaskar English",
@@ -288,19 +341,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Namo Bharat train, Meerut metro to be highlighted in 2027 UP Assembly polls: BJP - Deccan Herald",
-        "source": "Deccan Herald",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzlaVjRjalR4dUxuUDhhMVhLbDZhSERELU5WYTJZWVRTcGQ3QUR4QWFNdDVWVHptNkEzWUxlXzI3NldTVzExMFVoNlBNOWpHN1BsSGRKNHJCVTdaclRnNDNlcUtCYXBxa1dxaUhvZWZzRVc0V1B0VEpPZkFZNF9BYjZoY2k0OW1GenBJdEY2YTJOdzBFOHJqTlVlRVVua2tLRk9FV1BXR3g5VFZOZ3pnek9yM2VjWDJGWjV6eVFlTi1TLWdtRjdvUmV5eHcybFZ5?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "‘Install CCTVs in all mosques, madrasas for national security’: BJP’s Meerut MP Arun Govil tells Centre - The Indian Express",
+        "headline": "BJP’s Arun Govil wins from Meerut Lok Sabha seat, defeats BSP and SP candidates - The Indian Express",
         "source": "The Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS203RXZrazFNZ0xma0FVSTFRd0dMdXJaSlA0SkpJREZycnM0UVRRMnVLdDBjbGFBWnF5VGNSc2RFeEw4VnZ0bndmdEFIT1g4MGlTeTdYVGtQdEtOM1pEaUtzbU1LV3VRbnlENHNET2RSclBJbThUREM0RmZwOGpuQ2ROcUlOVjg0LVlHSWNYcW43ZmNtQzJuOEp1cGVRRE1wQmdTNEFQRGJqT3VPbEplQXFNckdKLWxzYTFRQm5qdWVmRk4tOV9HYmVXaHJNaW9RR2MzdXRMZVBVcnhncllTM0o3NGM5alZ2b0VPQW5n0gH0AUFVX3lxTE9jamtEZTEwUlROaGRqcEZ5MUdNdXNNcmhQd3RNMzBsc05VTVJmQnVZRlU3S2ZWZFJVa2dmWDgyajRuWmNkRDJ3R3RrLW14aTRsTkJMMnRFcS11R0RVZmhENFZ0Z1QwSjZ2cDZpeHhoaWMtOWZ0Zlk0Ry12dE44WkVMT0EwXzlWUmFiS1pXb0pnSUlibVZmcGVTTTB1WHBIZG1Nc3dmVXFrZGxoZmhCSzRiM0pSR282RGxzT0dMZDhueGFaY3didnR0bGwyODY1WHhXRTFuN1RlNmpjaWxFZ1NOT3hpNzU2dEFpNmFpdFJrRm9kckg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjJzTkNwdWdRRWpJRjh4anpTSzR6WXFOMGJwYzVhdEp1OFlQTXFSVTJfQjZxQnc5dlBqQWsxcnhXUEl6NUV3UXRMQzlMNHRWS0dFMkVYOVI2RDJ1eDgzSDNnUGgzZGtLaGdVb2p3TzFRZXRQdG5LRU45OTRLbWN1WUpWYjZDSFBoU1ZEc0JfNUhDTzhNazAzYnA0QVp6U2tqU0JLY3N3Q0paNTFm0gGzAUFVX3lxTFBjemlUYUh4RDZLekI2enlULWh0cnkzSVdWRHQ1MnB6Wmw3cmJKNHFxTHlNZFJzN1hDWXd5NldieENfbDhzZVlHYWpLaW13Q2gwRTlqNWx2ZENMMFhnaDlnLUtXd294WExuakEybVF6U3VNaDY1V0hhMTFMcUNHRFREQUVabXc4T1BPQ24xWUgtSUR6R1k4eXhSZHdtX2pGNXJXZWY4NFB5bFYyQ1hDRWhWSzRN?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "UP Election 2024 Results: 'Ramayan' Actor Arun Govil Wins From Meerut - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTHA0eTZDWEpkSFJDb0RacGk1ODBhUXpKSVNWaGl6TmQ4SXhjbHRjSHRyUDJLTGM5VGh3LWZnNVVxUWNOU1JWMDdxZVVYTlotaS1BVU1OTVhVMWRNMThsOEZOZDNIY2stS2JINmhmdHFuMGttUGhQaTBfUDdrOFJ1Z290S2pBMUM2bVpGZzk3NHFGV2w3WWtrTUU1RUR1anFFRVN1c0poY0tUVktoZ09xRHVtRVA3RzNuVjFNbXBpazlBcDdjQVlhMUczUlhHcTB3enc40gHbAUFVX3lxTFB6SUs1eEptdU1IM2o1ZEg3b19NNGpKWkt2Y3NyUG9ySV9nVk1PTjBqUnZ3UlU1NzZqOUFTN29QX21JNDZrNTdvS3NQTEc1dktwRUFYVnhndHBraHBxdDAtbVBLbHNnSndYN3hyU2VRTk14WjIzWWpZSXp0WEhqQXpFVDUzX0RVQU9QazN1aE9lX3Vld3lxYjF5RFVzUXB2eVhZbGgwOGlYckgwaFpaNGRBeVBRV0g4VDhfVkZRbWRoVG5oUUZpMDNDQy1Nbm9YcjNRMmJvT2xuZVpQdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Heartfelt gratitude’: Arun Govil reacts after BJP announces candidature for Lok Sabha polls | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbElUY2RGY2Z2TFNPNzA3SzFPRkVpZVlRaVYyS3NzUFNua2JpYTdkSGNOblZZZFZ0dE5LNjVsQmRaQ0hETFZRUkt3R3JNYWlWX2JJOFR3aG5Xd3dKdFFieTF4by0yQy1hczNSNy05TzB6cmdBdF93ZjdnRjRLNHd4dndXMUIyRFpJZkxCTHFvU3FrclNZVFM0YVV4OFRtWDlPRGt0X3YwTVhpZEsza1prYllYNnZRUUdmc3VqNnpmcDFoX1d4bHN3TTVCQ0xjV3hZMG1OcUw3bWF0ZkR0bWgxLXpyMNIB6AFBVV95cUxNSU1kYlh4RWZncUFIYVJPNlJkT2VBSWVZXzlURXJyRGNsa2RTTnZibnJySDAzNXpvbkR6TjNoZnpfNVk1bGMwa1Q3THloVHRsS2FYX215YTZKWXdzMktFZjYwN1dOTjBGMDZZTWZZWXBlYlk1bGh6dld2SW5IQ0hocmxpd2pBVGwydlpUUFJWTlNNVlViMl9qVzZEcG42VG55ekU1R2FtbDZScDZKZjB5UXhqQm1lYS1PWldLWW4tVUJLMndtdkt1Xy1fTFdxeXVqNEI5UTZXQzIzRnVXZm1TWGcwRm5mLWQ1?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -309,14 +370,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1BQQ2pqQWpKdGotbWhpVVRmNVZyVDVPNkd3SGstdjVUUWZfVWNsZUVTOUlsY2pKR1JobzRNSkhmMU9KUEhlUkdUQVlSU3dfSDJrMWlIZUJMa1VNLU9CN1h6X0NCWUNmWmNaSGZnWlpYWDc2c3JVR3JkQmlsRDdKc1lxWURVXzJrTmRHR3dqMk5aVmhEWnlQWjlHYU45aTA0QUx6TlcxRjJfaVZzSkd6Uy13VkdOdHZGczI5V0h1bw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "PM Modi, CM Yogi Inaugurate High-Speed Delhi–Meerut Rapid Rail, 23-km Meerut Metro - Oneindia",
-        "source": "Oneindia",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYml5ZVdiSVdZLWdJdF8tQ3RkeGN4ODJva05xSVZiSVVNM21oQkYxT2hKaHp3T19DNEZETUJJNzBSeXY3TFJNdFpnQXducDVHSVlkVk5vWmJzZUJXSDhCaDlFNU8zcFA2SG9xS3FTMHcwN3oyZXN5NEdUUFVRQ0RYVGNCZnZxWTljZVhTVFNfRGVhWUNqU2RDUUhJSGxweW1XMVRycWk1aHNfX1hGRUpNYXF0akxvdWFzVUFja2JpVU1uQQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 28,
+    "starred_questions": 8,
+    "unstarred_questions": 20,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 54.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

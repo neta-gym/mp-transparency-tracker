@@ -4,16 +4,16 @@
     "constituency": "Mandsour",
     "state": "madhya pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5064,
+    "myneta_candidate_id": null,
     "slug": "sudheer-gupta",
     "house": "lok_sabha",
     "sansad_member_id": 4615,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 64,
+    "age": null,
     "photo_url": "/mp-photos/4615.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,96 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "27/2020, PS Neemuch Cantt",
+        "ipc_sections": [
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "MPMLA Indore",
+        "fir_no": "27/2020, PS Neemuch Cantt",
+        "case_no": "01/24.01.24",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:03.930986Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 192884642.0,
-    "liabilities": 58453495.0,
-    "net_worth": 134431147.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5064",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.304689Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 70.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.9,
-    "released": 14.9,
-    "sanctioned": 2.25,
-    "expended": 1.7,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:29:46.623579Z",
-        "notes": "Official eSAKSHI REST API — Works: 180 recommended, 111 sanctioned, 55 completed"
+        "fetched_at": "2026-09-02T14:46:45.426115Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:43:00.808403Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:43:00.805529Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 180,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 11.40939597315436
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +126,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:03.680257Z",
+        "fetched_at": "2026-09-02T14:43:00.804056Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +134,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Election Results 2019: Mandsaur Lok Sabha constituency in Madhya Pradesh | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT09US0Y2QXpJUzZ0YkxpNmZhRm1TcWFCOFBma1BHeS1OSFZ3alRmV2RRU0pqZmJRRldpNm9Qblc4LV80ZVdYdEFsWUJMVjVnYU9YcGRBWDllNno2MFBmT3A5VXVMLTdEbW9NYXVpck16QkxhVVdwelhHMmhuX0U1QUNSRTY0R2dEOFVpYkR0ZmhOeFlfOVJRZlhGc2pUUW1fU3BzZ2tFMTNMYlI2OXdnbVdyalZSNmpKZWdkSS0wa3RReFpOUUFvdlR2R1lBS0psMUVrWEtmMzRuTlZZTjVPTE02cGNyM21OSU5Ec0MzZ9IB9AFBVV95cUxQSGpEdVNScGRNTDV2My1YdHNPQURheWJCeHV5Q1RmYmVfeENSOGtERmRmR3RRU0U2dXRJTnZaSEc0LWxzQW5lVTBrZW5FbV8wWS1jcEdrV2ktTDNRNjM0eUJXRGdYQjEwYXNzTERQSEZTdTNXRHl1TTYzVGNTVTBPNGZoY2ZwVDhhUUVVYjJ2RFNaWW1SbXZ4clVyVWVpenlQcC1mTFEyWnpHNmZKNVMxdjhuZlN0dy1xV1kyTFpIcjUxR1AxSDc0aWc2TWJLYzczZDQ5ZDRkMHVFRDE1dzJiSTdXX29rRVpNaVcyNEJCdnJwQVBW?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "CM Yadav’s hot air balloon catches fire in Mandsaur: Could not take off due to strong winds; security staff... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbENZMmFwdGRFTGR3bGxDdy0yZEVBZXhEdGNJR0JxcmcwM0diNzNZX1RLdDRLZFE0RmVhWlJheGU5V1Y0NldCV01kRDBacW5rWllSUFktT2lHNFRPS0ZxNGh6X1NhR0pVaFp5OWdNX2JiVXppVEVJdWl0SGwxVm8wQklFeEZOOUJleFJJWDlnMXc4NFhFUmxDUXhWdEZnM25SamNDRm42cmZNOWd1MmFidHVMOFZSZ0Y3NkVsX3VvX1c5OVhuU1ZSMy1Vd3ZRNnV4M3BPTE5mRmE4bDRfdF9JelE4cFJkSVhLbW0zT2lYX1laeERqVzlFazRGRHRvbTdzWjl3UkRpT0hpZlJpaHFZUS1ZODM3OVXSAZwCQVVfeXFMT2xmRmtILUFNMHNVTVRIZGpXTUJ6UFUxc25obXFqTzhSdlNlTWR4UEdzWUdFbnc5MkJwY3IzRDNNc1drMGJKTFlzc0hKUEwwWjVIbWMxWk90SUpXTmhfU3dhLWE4eEZQZFZYYzFPUmVJMEV5U1d1VmpPOVludFVOY3FJVmVCd214SG9nd0pNMjhOa2tkYUh1MHBNem11QVJ3aW1lQi1VM3R2bF9YUTNMZi1yTHJNVXRtWWJRQk5LaTNHeW1OZDNzSGwxSl9OZnFNdW5GMjFRdHJ6Sk5JREtKYS1WUHZXb2FoZC00eUw3ZkZMX25SQ0k5OUd0YnRnN0w5OTlBdXUtOFNtTmEzb0VGTFpkNzNIX3hKdzB3bkw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MLA Asks Mandsaur Rape Victim's Family to Thank Local MP for Hospital Visit - NewsClick",
+      "source": "NewsClick",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUkxYOGhxSTJwd0l4TGtqQk80ZWtVQkx6Mkt3WUZLTWtVR0JBZUhvTU1BLXdPLVBDdWgyZEV3eFc1a1E3MTg0VGNfbUJKWnJfVXFJaHpoeHdGc3d5Z1NqTmt2aWV0MGpmbDZtY1Fjai02QlU4Q0FVcDVPWVV2VmlUdHI1bDJVbHZSRFcxWEFyWkJmMXFqYlhxX3BETEfSAaIBQVVfeXFMT2ZyZllDQTZXZGQxdVhncTRLSGpZN0U4TnV2d2NVMl85Yms0Z3AyeVZKRE5CaGF2ZzBBVDZHa1dRWVNFTllTdnJoaVo1cmZVQVpjTDFGaXdLZl9JN1lyUFVrb1FvYmNPM3dIUXhXTGxORVBETlFTSTl0U3l6OERVSVhNTEZ2T1NwYmlEcmt4Q3lfMk4zMmkzb0xDOWtnNER2S0h3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Left Wives & Kids, Wandering in Search of 3rd Wife': BJP MP Blames Aamir Khan for 'Population Imbalance' - news18.com",
+      "source": "news18.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObzZvNlVrNUVucnF5MFhIV0pnUXhtLUJ4N1ZFNkRjLUpEUnlUYnVnSmpqWHE3N1A4ZU03WV96bjR2VDVoRDhFaHY1SHNYMFNld2ZHU2ZKdGRtY3pDVkZDRVcwMUU4LXdGalJMRlRuZ0FyS1BEWjkxRjV4VGZHQkdLMjRwTzBrcmI4bGdvd2lfclljQlZCQjNQWXV2Q2lTQ204VWktNEo5eGRNZFQxYlFDWXBBZVhiQnc4Qy1rUXZhMGVqTmhYOHF4Q0tHaHZLNE43YnMzNDJTTzVMOVZk0gHiAUFVX3lxTE9saFJGRFR0Nk1aMHFieVdGajFTazZBVlFES3FDRmZ4SlBVQXFhRER1SExZTWctZ2tKMlNWblItOFlyYUtXc19DNTgwYXJlb3Bnck9GWUFhZlBIbnEwUl9JRXBoUWtCbkdtYXhSSG9MSWRfS0hRM3AzTjJSeklWQ2FXT2puNGVmVWM0UmNaOWxJZnJJNHNmdkgtMkkzdnpkVVFWNU1lZzczZGF6RlgyVmVEUlUydUQ5NmVhRXUtd1lYTDROS2hoWExUem9RRExRbGlhYk1KRUZWY0JCcnF5VGdVT0E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Possibilities of industrial and agricultural development in Mandsaur district - Business Standard",
+      "source": "Business Standard",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZzZld1cya1doOFJiSmZpZDdEMmhGcF9Ma18tWFZZeUhFZHFueW9QYkV0WkF5YWRwRHJhUDdTMU1FSFpSeER1TEFFd2c3TEQwUVJKMU9MZXBtemFTZ2JZZVZWV1FZYzc5c0RLNG9MM2xnTHB6cnJ1RDI0Tjh6UXpKbWQzWmFpa1ZhMFIzaHZhYmdVbU5vREZXVlJvcVo4X0h2bE1qMDFOdHpnZmZjNHByeTFGd2R1YXkwb3hsazQxRTVQR1llLVFQaENhNllRYURGZ0UwOFBnOEhyejhCNXRDTUlGWlozZHd3MXZ1SmFR0gHzAUFVX3lxTE1rZGpQXzUxVXREeUJIUnAyNVJhaEplYjJpSmQ2bGE1UUhuRnlUWmc4SzE3VHJkZEdQWk9zN2hVQlJ4Q3liR0FOcjk4Y1dwdHYyM1hqR1BYRFRsS3VpYmZfTXRwdjJTSlRsaGQwSlFHQkF5UUhla2xoSHBmUTVIbDFYZ21QbDl4MEt4aUNYWk9BcXFhaXhOR1FkVDJscHpNd3BMbzV1TDNKRnpSRmFlc1lKb0dveWI0d0JDVHdsYkhodWVuam1fNl94bGd0TkNfMU9WaHRtLUJRcWJ0Ymc2cXpXcFktbFVadndPZ1p4SXJ1OWY4bw?oc=5",
+      "sentiment": "positive"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:27:58.678318Z",
+  "collected_at": "2026-09-02T14:46:45.427469Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +203,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.076690Z",
+        "fetched_at": "2026-09-02T18:38:07.574101Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +219,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.076699Z",
+        "fetched_at": "2026-09-02T18:38:07.574112Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +235,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.076703Z",
+        "fetched_at": "2026-09-02T18:38:07.574118Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +251,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.076708Z",
+        "fetched_at": "2026-09-02T18:38:07.574155Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +267,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.076712Z",
+        "fetched_at": "2026-09-02T18:38:07.574162Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +283,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.076717Z",
+        "fetched_at": "2026-09-02T18:38:07.574168Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +299,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.076721Z",
+        "fetched_at": "2026-09-02T18:38:07.574173Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +315,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.076726Z",
+        "fetched_at": "2026-09-02T18:38:07.574178Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -275,49 +348,49 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
-    "negative": 1,
+    "positive": 1,
+    "negative": 0,
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Smuggler listed in police records spotted on BJP MP's stage: Accused attends govt program; district preside... - Bhaskar English",
+        "headline": "Election Results 2019: Mandsaur Lok Sabha constituency in Madhya Pradesh | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT09US0Y2QXpJUzZ0YkxpNmZhRm1TcWFCOFBma1BHeS1OSFZ3alRmV2RRU0pqZmJRRldpNm9Qblc4LV80ZVdYdEFsWUJMVjVnYU9YcGRBWDllNno2MFBmT3A5VXVMLTdEbW9NYXVpck16QkxhVVdwelhHMmhuX0U1QUNSRTY0R2dEOFVpYkR0ZmhOeFlfOVJRZlhGc2pUUW1fU3BzZ2tFMTNMYlI2OXdnbVdyalZSNmpKZWdkSS0wa3RReFpOUUFvdlR2R1lBS0psMUVrWEtmMzRuTlZZTjVPTE02cGNyM21OSU5Ec0MzZ9IB9AFBVV95cUxQSGpEdVNScGRNTDV2My1YdHNPQURheWJCeHV5Q1RmYmVfeENSOGtERmRmR3RRU0U2dXRJTnZaSEc0LWxzQW5lVTBrZW5FbV8wWS1jcEdrV2ktTDNRNjM0eUJXRGdYQjEwYXNzTERQSEZTdTNXRHl1TTYzVGNTVTBPNGZoY2ZwVDhhUUVVYjJ2RFNaWW1SbXZ4clVyVWVpenlQcC1mTFEyWnpHNmZKNVMxdjhuZlN0dy1xV1kyTFpIcjUxR1AxSDc0aWc2TWJLYzczZDQ5ZDRkMHVFRDE1dzJiSTdXX29rRVpNaVcyNEJCdnJwQVBW?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "CM Yadav’s hot air balloon catches fire in Mandsaur: Could not take off due to strong winds; security staff... - Bhaskar English",
         "source": "Bhaskar English",
-        "severity": "medium",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMjlIb2RZdi1SVkt0XzROeEJwSVlHakF2TTlXa1FjMVhEOWVhbW43MDJtVE9rSzBjc195NXk4dS01UVdmZkNZX0VSd2JUWXJGOW5NOFJmWnJQS2JEN3FveEVnXzlnMXdPS2oxeVlFcWxxNHBEemhvbzhfdFdmazdJTWw3UU9uaVJMQ01vNjNBN1o5Z3RnS21zaU12TnUtdUJ2MFVBSEFPSjVhck9HcTc2RlVvMzY5eDNUMHU3RVZhS3dYSVFCQzd4aDZwSkREdDROOXdBaHVnaGttV1JvaURlRlhRb1Q1bVJRTEJaNFBtTExvWUdEelp0N2dn0gH_AUFVX3lxTFByTzc2ZlRQNmtFU1FTY0pJTTAyaS1mYl9GSlIxelhRamJqbVhxNm8teFBpX191NW1TajNQOUJ2NFlDM0hwak0tVFlZWDVBZ0RLRkN0enVMZG5EY3FhUkFPMmhNNGV1MGo0R0RuQTRHMFlrX3VwTWtaQjZFRG1CSWlPd3UwRUlIYlZPUElJUnc3QmpyNzUxQUdYWUJlMFJvbHpMVjlUWnRNWkEzUE9uTF9qeHgxeHJkMmJOVWp2M25DU2NERmdNRml5NzAwVmhnREV1N3VFckN1b0I5THZQV3BXTndXdlVRanJPVk5uLWNmQ2xBbkt6eUlzZDNuUUFEOA?oc=5",
-        "sentiment": "negative"
-      },
-      {
-        "headline": "Sudheer Gupta: Age, Biography, Education, Wife, Caste, Net Worth & More - Oneindia",
-        "source": "Oneindia",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pM201TXhiUEJhUVFNeDZQV2loQk5HVGF2VDU5TUlxLXVfMWM2cXVqRnlIeHR5VnJ0RldINDFvN0JrZW9aU1hnQzZCakFnY2x0dlNieTZhTFFyTWUxSFd5b0dYYXZKbmZwNVoydA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbENZMmFwdGRFTGR3bGxDdy0yZEVBZXhEdGNJR0JxcmcwM0diNzNZX1RLdDRLZFE0RmVhWlJheGU5V1Y0NldCV01kRDBacW5rWllSUFktT2lHNFRPS0ZxNGh6X1NhR0pVaFp5OWdNX2JiVXppVEVJdWl0SGwxVm8wQklFeEZOOUJleFJJWDlnMXc4NFhFUmxDUXhWdEZnM25SamNDRm42cmZNOWd1MmFidHVMOFZSZ0Y3NkVsX3VvX1c5OVhuU1ZSMy1Vd3ZRNnV4M3BPTE5mRmE4bDRfdF9JelE4cFJkSVhLbW0zT2lYX1laeERqVzlFazRGRHRvbTdzWjl3UkRpT0hpZlJpaHFZUS1ZODM3OVXSAZwCQVVfeXFMT2xmRmtILUFNMHNVTVRIZGpXTUJ6UFUxc25obXFqTzhSdlNlTWR4UEdzWUdFbnc5MkJwY3IzRDNNc1drMGJKTFlzc0hKUEwwWjVIbWMxWk90SUpXTmhfU3dhLWE4eEZQZFZYYzFPUmVJMEV5U1d1VmpPOVludFVOY3FJVmVCd214SG9nd0pNMjhOa2tkYUh1MHBNem11QVJ3aW1lQi1VM3R2bF9YUTNMZi1yTHJNVXRtWWJRQk5LaTNHeW1OZDNzSGwxSl9OZnFNdW5GMjFRdHJ6Sk5JREtKYS1WUHZXb2FoZC00eUw3ZkZMX25SQ0k5OUd0YnRnN0w5OTlBdXUtOFNtTmEzb0VGTFpkNzNIX3hKdzB3bkw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP : जनसंख्या असंतुलित करने में आमिर खान जैसे लोगों का हाथ- BJP सांसद - AajTak",
-        "source": "AajTak",
+        "headline": "BJP MLA Asks Mandsaur Rape Victim's Family to Thank Local MP for Hospital Visit - NewsClick",
+        "source": "NewsClick",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMmYxanJDSjF2QkdwdXotU2dZMG43cUxYUlhGTU9jQTJreF9pYzQtVkRISkg5THZmcE5fU3U4WDVaWmFGNFRCalRuMlYwNW1FMGh1YjhTOE80bUVySHNLVnlYMEZNV0RjQXNBaFRGbFN3bF9ac25rUmdtbFF6MmRpa2t2QnRlSUdxckJMdXNlYTNvMFZUZXh5X0dkcVVyQm11TWhhNWZLX0YyR09hWUxLcmZJblgtd3dOWWtYamhJRkJtUFc1cFdzbzEtaFQ2d3ZOemdTS2FiSTFKY3djcVo2NHFwU1BrOEJYSENFMFdPcjNjRnFCYlM2NXg4X293b285eTZNOFpGbFlFTVhHQ0xj0gGUAkFVX3lxTE9WRDd1ZU1VYlM1ZmxlQkNhWHpCX1FIYThIN25wNmJZeGFjR0h4eDdYNjdwQk53MVFGZVh0UFZFM3FaRTZPNTFJY19jamM2RzRhTjB1MDl2U0lCR1FueGJiTjZETlpIOFpxeEZmaG8zRDU4MVl6M2NMT2JtZHJCbks2ckxCaHRxaW16dkpRdTRnVkNfYTRlb3ZNSFRpTHBTMTY1S3QtZUhsU0dVSGkwMTZOV1F4M0c2NXlSaVZXV1ZZT1lCVzZqX0VORTBvZmlVVTZLcGYyYjUxOC1PcmhWR3NlOC1uMVZqVV93UFdIQ1UyeTItTXVGSHBZZ0xaaE4tNEtWeE1EcnFqRzB1TUV4SlgyXzhuag?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUkxYOGhxSTJwd0l4TGtqQk80ZWtVQkx6Mkt3WUZLTWtVR0JBZUhvTU1BLXdPLVBDdWgyZEV3eFc1a1E3MTg0VGNfbUJKWnJfVXFJaHpoeHdGc3d5Z1NqTmt2aWV0MGpmbDZtY1Fjai02QlU4Q0FVcDVPWVV2VmlUdHI1bDJVbHZSRFcxWEFyWkJmMXFqYlhxX3BETEfSAaIBQVVfeXFMT2ZyZllDQTZXZGQxdVhncTRLSGpZN0U4TnV2d2NVMl85Yms0Z3AyeVZKRE5CaGF2ZzBBVDZHa1dRWVNFTllTdnJoaVo1cmZVQVpjTDFGaXdLZl9JN1lyUFVrb1FvYmNPM3dIUXhXTGxORVBETlFTSTl0U3l6OERVSVhNTEZ2T1NwYmlEcmt4Q3lfMk4zMmkzb0xDOWtnNER2S0h3?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Mandsour lok sabha election results 2024: Mandsour Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "'Left Wives & Kids, Wandering in Search of 3rd Wife': BJP MP Blames Aamir Khan for 'Population Imbalance' - news18.com",
+        "source": "news18.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDUtWmU4SUk0V3JSWkV3YkpOWWI2Y01tSDFxcG5lUWFISWNVYUNKREJqbEFVTXlZM2stMHpSa3JMRHRra1N4elh2US1MMmNBOGpOZ0ZmQktpdExCWWpWUFNZZFpJZzdjRTRYemFRMF9qd1hMcXQ0d3VZZUlXUEs5QXVTNE4zS2p1U1dFbXBlSVhkSUlWUWRxdmJqUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObzZvNlVrNUVucnF5MFhIV0pnUXhtLUJ4N1ZFNkRjLUpEUnlUYnVnSmpqWHE3N1A4ZU03WV96bjR2VDVoRDhFaHY1SHNYMFNld2ZHU2ZKdGRtY3pDVkZDRVcwMUU4LXdGalJMRlRuZ0FyS1BEWjkxRjV4VGZHQkdLMjRwTzBrcmI4bGdvd2lfclljQlZCQjNQWXV2Q2lTQ204VWktNEo5eGRNZFQxYlFDWXBBZVhiQnc4Qy1rUXZhMGVqTmhYOHF4Q0tHaHZLNE43YnMzNDJTTzVMOVZk0gHiAUFVX3lxTE9saFJGRFR0Nk1aMHFieVdGajFTazZBVlFES3FDRmZ4SlBVQXFhRER1SExZTWctZ2tKMlNWblItOFlyYUtXc19DNTgwYXJlb3Bnck9GWUFhZlBIbnEwUl9JRXBoUWtCbkdtYXhSSG9MSWRfS0hRM3AzTjJSeklWQ2FXT2puNGVmVWM0UmNaOWxJZnJJNHNmdkgtMkkzdnpkVVFWNU1lZzczZGF6RlgyVmVEUlUydUQ5NmVhRXUtd1lYTDROS2hoWExUem9RRExRbGlhYk1KRUZWY0JCcnF5VGdVT0E?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP MP Sudhir Gupta Takes A Dig At Aamir Khan - ABP News",
-        "source": "ABP News",
+        "headline": "Possibilities of industrial and agricultural development in Mandsaur district - Business Standard",
+        "source": "Business Standard",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakQtaFZFUi1HNVFmanRFU2xwUmwyY1B4VGxnRHhxZ0FJRVFSMkJ0SmxRaXZiN3ZKVWkxT3RvY3RMWHpwNk9aMzAtZ3RzY28tTl9jZjRid1B4QmJoNFZ3RmVneU9VT3RGdmpsSVFrZ2t4b3BYV295SWtENTRyLWZvcFg2QTVnWngxSXphSnZka3AtM1pOZEt30gGcAUFVX3lxTE5sMjZLd3paX1ZrazRfdjdSU2NobmlrdnlQR2UzQkFpdXVwRTdROUFsemFhVU1seHVvbWFwYXNSTzBfNVcxSDdJakZjSnNTTWctOEdNVk5GZldKNUFvSXItSjlXQXhSOVNRN2RvbTJjMWVKWTlXR3YtMl9hM21NWXhQUlVUR0lTdEozNzBGN21LanVicUtSMXNMTWFaOQ?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZzZld1cya1doOFJiSmZpZDdEMmhGcF9Ma18tWFZZeUhFZHFueW9QYkV0WkF5YWRwRHJhUDdTMU1FSFpSeER1TEFFd2c3TEQwUVJKMU9MZXBtemFTZ2JZZVZWV1FZYzc5c0RLNG9MM2xnTHB6cnJ1RDI0Tjh6UXpKbWQzWmFpa1ZhMFIzaHZhYmdVbU5vREZXVlJvcVo4X0h2bE1qMDFOdHpnZmZjNHByeTFGd2R1YXkwb3hsazQxRTVQR1llLVFQaENhNllRYURGZ0UwOFBnOEhyejhCNXRDTUlGWlozZHd3MXZ1SmFR0gHzAUFVX3lxTE1rZGpQXzUxVXREeUJIUnAyNVJhaEplYjJpSmQ2bGE1UUhuRnlUWmc4SzE3VHJkZEdQWk9zN2hVQlJ4Q3liR0FOcjk4Y1dwdHYyM1hqR1BYRFRsS3VpYmZfTXRwdjJTSlRsaGQwSlFHQkF5UUhla2xoSHBmUTVIbDFYZ21QbDl4MEt4aUNYWk9BcXFhaXhOR1FkVDJscHpNd3BMbzV1TDNKRnpSRmFlc1lKb0dveWI0d0JDVHdsYkhodWVuam1fNl94bGd0TkNfMU9WaHRtLUJRcWJ0Ymc2cXpXcFktbFVadndPZ1p4SXJ1OWY4bw?oc=5",
+        "sentiment": "positive"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -350,15 +423,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 70,
+    "starred_questions": 21,
+    "unstarred_questions": 49,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +439,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

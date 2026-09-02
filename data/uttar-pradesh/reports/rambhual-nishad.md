@@ -3,20 +3,18 @@
 **Constituency:** Sultanpur, Uttar Pradesh
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 64
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 44.1 / 100
+## Composite Transparency Score: 37.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 41.6 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 20.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -28,34 +26,44 @@
 ## Criminal Record
 
 - **Total Cases:** 8
-- **Serious Cases:** 0
+- **Serious Cases:** 2
 - **Convictions:** 0
 - **Pending Cases:** 8
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 342/2021 P.S-Khorabar, Dist. Gorakhpur | Section 7 CLA Act (Sections: 147, 186, 188, 332, 336, 341, 353, 504, 506) [pending] 
+2. 35/2020, P.S-Barhalganj, Dist. Gorakhpur (Sections: 419, 420, 467, 468, 471) [pending] **SERIOUS**
+3. 10/2012, PS Belipur, Dist Gorakhpur (Sections: 147, 324, 427, 323, 504, 506) [pending] 
+4. 1102/2008, P.S-Barhalganj, Dist. Gorakhpur (Sections: 147, 323, 504, 506) [pending] 
+5. 377/2004, P.S-Barhalganj, Dist. Gorakhpur (Sections: 147, 148, 149, 307, 504, 506) [pending] **SERIOUS**
+6. 133/1997, P.S-Barhalganj, Dist. Gorakhpur | Section 3(1) UP Gangster Act (Sections: N/A) [pending] 
+7. 168/1996, P.S-Barhalganj, Dist. Gorakhpur (Sections: 382) [pending] 
+8. 134/1996, P.S-Barhalganj, Dist. Gorakhpur (Sections: 323, 504, 506) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.74 Crore
-- **Liabilities:** Rs 3.63 Lakh
-- **Net Worth:** Rs 3.70 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 31% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 8
-- **Utilization Rate:** 51.1%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -77,28 +85,41 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Ex BJP MP Maneka Gandhi Goes To Court Challenging Rival Candidate's UP Win - NDTV (NDTV) [neutral]
-- Sultanpur Lok Sabha Election 2024: It's BJP's Maneka Gandhi vs SP's Rambhual Nishad - India TV News (India TV News) [neutral]
-- Maneka Gandhi moves HC challenging SP MP’s election from Sultanpur - The Indian Express (The Indian Express) [neutral]
+- Barred By Limitation: Allahabad HC Dismisses Maneka Gandhi's Election Petition Against MP Ram Bhuwal... - Verdictum (Verdictum) [neutral]
 - Allahabad High Court Reserves Order on Maintainability of Maneka Gandhi's Plea Against Sultanpur MP's... - LawBeat (LawBeat) [neutral]
-- Barred By Limitation: Allahabad HC Rejects BJP Leader Maneka Gandhi's Plea Against Sultanpur MP's... - Live Law (Live Law) [neutral]
+- Supreme Court Issues Notice On Maneka Gandhi's Plea Challenging Election Of Samajwadi Party's Ram Bhuwal... - Live Law (Live Law) [neutral]
+- Maneka Gandhi challenges Samajwadi MP's election from Sultanpur in High Court - India Today (India Today) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Ex BJP MP Maneka Gandhi Goes To Court Challenging Rival Candidate's UP Win - NDTV** (NDTV)
+- ! **Barred By Limitation: Allahabad HC Dismisses Maneka Gandhi's Election Petition Against MP Ram Bhuwal... - Verdictum** (Verdictum)
+- ! **Allahabad High Court Reserves Order on Maintainability of Maneka Gandhi's Plea Against Sultanpur MP's... - LawBeat** (LawBeat)
+- ! **Supreme Court Issues Notice On Maneka Gandhi's Plea Challenging Election Of Samajwadi Party's Ram Bhuwal... - Live Law** (Live Law)
+- ! **Maneka Gandhi challenges Samajwadi MP's election from Sultanpur in High Court - India Today** (India Today)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Rambhual Nishad has a below-average transparency score of 44.1/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance.
+Rambhual Nishad has a below-average transparency score of 37.5/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets: Rs 37,405,832. MPLADS utilization: 51.1%. Parliament attendance: 80.0%. Questions asked: 9. Debates participated: 1.
+Has 8 criminal case(s) (2 serious), 8 pending, 0 conviction(s). Parliament attendance: 80.0%. Questions asked: 9. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +159,7 @@ Has 8 criminal case(s) (0 serious), 8 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +238,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Rambhual Nishad's MPLADS account: Released: Rs 15, Expended: Rs 8, Utilization: 51.1%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +255,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

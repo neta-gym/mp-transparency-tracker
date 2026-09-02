@@ -4,16 +4,16 @@
     "constituency": "Etah",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 3703,
+    "myneta_candidate_id": null,
     "slug": "devesh-shakya",
     "house": "lok_sabha",
     "sansad_member_id": 5656,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 42,
+    "age": null,
     "photo_url": "/mp-photos/5656.jpg"
   },
   "criminal_record": {
@@ -22,70 +22,97 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "0034/2022 Police Station Bidhuna, District Auraiya",
+        "ipc_sections": [
+          "504",
+          "507"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "0034/2022 Police Station Bidhuna, District Auraiya",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
-    "confidence": 0.75,
+    "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3703",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.019042Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:36:57.048851Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
     "movable_assets": null,
     "immovable_assets": null,
-    "total_assets": 34061340.0,
-    "liabilities": 442323.0,
-    "net_worth": 33619017.0,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3703",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.019057Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 28.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.58,
-    "expended": 7.55,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:50:43.749455Z",
-        "notes": "Official eSAKSHI REST API — Works: 307 recommended, 302 sanctioned, 136 completed"
+        "fetched_at": "2026-09-02T16:55:32.188773Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:51:24.538790Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:51:24.535955Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 307,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 51.36054421768708
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -100,7 +127,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:58:18.837677Z",
+        "fetched_at": "2026-09-02T16:51:24.534827Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +135,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "SP MP Akshay Yadav defends ‘dynasty politics’: Outlines party's strategy for 2028 MP polls - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalB0Qm5KMkZnd2xNSXkxdnJuTnJRNnBZekRKc1hJZnYtWWJRQk9YZWQ5NXdkWDBUM1FGdEl3M2NId0dWeFB0TGtnRXdoRTJEcXFIOUlLbDRJRDZwWW95dlo2T1FBQWtySUlTS0NuZ0NPa2k2SndYdzRmZ25ZRVdlQ1NKN3g3Mnk3TGFBcEN6STJfWjRkSDQ0ajU5eVNreTlwdzdOWjY5RHFNb2U3MDBYSGtPYlduWkttZ19XNWt3Mmd3V3RGb2JhdHRCZ0RScjjSAdQBQVVfeXFMTWNuZF9JQU1PenJ3Z1VEbnhYQnRUMERwUEFmYWNaSTBqTWEzdXlGc3VzS0hwTEM3eXBkWHlXcGZlNTRWOVEtdU5CMlNqckhjdHRrVE04Q3BqX0hhQkJ0VFJvY3JYdDBxdElZcUl0VFh4N1hJYzF4NHRSalhFWGV1Z0JES1I0YUxGVVZZUlFGTDBlYzlrNjJnNkR6ckstVnpkQnA2cWFVbWRIczdmZF9IY1JGellLWE1fLXdva1hqWEc5ZmRBT2VDMU5HVl9LSHZQMGc1a1k?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP loses three seats in Braj region - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmR1ajhFRFpsVHlVcG41WjZRTXlreGZ5U0xVYWJPT2NTa2hTXzJCb210V1M2X3VkbmJMcW5XcmZFM3pMZjZvekNDMUI3WTVWbS1PV1I2ZG0wZUlKbFYzOXM4dXIxZmpXemUyaXZ0TVBJMTg3MlVRSjFtcmpxeEt3NE42a2ZKNUNEOGxNVm0wUmxLOEE2bGhDMEZvUGZNYkJhdmw2WlRXUG5hLUli0gGyAUFVX3lxTE1PMUhxNXhuRGUwM2xMNGtYTnczdjRLb1k3RE1pd0FRSlo1ZmRDVkJHQmE1V2lmdlQ0QXhDSnVrZVRkTUF5VFlnc2lpUUtESEw4NWR4eHZ5RGpYYzQ4eG5BRUhHYVR6V0ctczJQcC14N3pxRXFzTzB6a2ZrVkwySjluQnQtS0IyaGg2QmR0dG9hZkVlVGJiUUVLY3lCX1hTdmlHWk9ROE1zZFpKNDVWYjZ6Umc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "SP, BJP locked in intense fight in six Yadav strongholds - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjhqTmF2akpuNnktV1dHS21CUHlpd0g3cUlCMnVRaUVFR2NTVFpJcFRzd05UbG44NW9zbXJHVVdZN0tGM3RRWWk4LXBDTm5vaW1nRTl0XzdjTklLdEY0cTNad0RZUnZPcGx0NlBsR0p0ZmQ3MmZRYVVZTkxGLTNQNW9heTRMa0UzdUJrUXBJU1FUb1RjWXdjYWtQNHgzcE5DcWVjNTRRU1lJdTJ0TzhfLXRkYnY4ZXJVMFHSAccBQVVfeXFMUFhtWmxJUmczRmFwcTY0aXhrcGowNkFXZld2SVo3NWRvVTAtUDlJS0d5dV9mRi1XbGNhWHFNaGx0VUg1MW5QMExsUkJxOXJ5dVFZS0VldUVmb3hxcXdiZDRsRkVGdWU0YjQxeWFXOHl5a0haV2NxSHNBelFzQU0wSEtkcTBlVEZWTW5GVWs0UGZTdDZtdWlEZF93SmxMVGhtZFpiaW03a2sta3E1VWZFMG1yM3FTRTlVb3JnSGIxNGJBaFdocExoYw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Seven MPs in 18th Lok Sabha from one district – Etawah - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclFwOHgtWVMzWENJS2ZqTnFQaUF5NUlZTVJXdTEzSGM1NzBCaERXZExFX1dvQW1pb21zenNFbE11UE45NWctNE5HcFJwcjJMeVRKd0VHMHB6UHlsVDZDeVNlTlFURmY2aS01aW5aTG95RXNDQ0ZlaVJDWEZLaDhITzJadHM4WXl1S2tzLTZCQmthaWdEUEctS0x2RHBJRW9FeEZjSGNRNHVXR3VaLWlPQTJ5ci03azZidkVrUmdCUjg2S2gw0gHKAUFVX3lxTE5XaTlKYTE1dTFtYnVoeU9za3JpQTQzSTNWX0FFcWw4X0ZNQ3VfOC0zZHdYOFl3TEZkck9EZHZjbWtFMjJtM2tiOGU1aHFjSkI2d2kxdmF5cE9tZmRiVzBseUpFbElIVnhzQXN4cUZzRldJR18waHY3TThWX0tkWkNGcEpjTVB6a0t4Mk9KSWFsQ2pCTFFFSzg5eWp2LVBOS3hmaTFhaGN2dV9seENDUEFnWFNmc0VLd045SFA3LVFJdUhZWURBbnBvTUE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Why Shakya voters matter in Brajbhoomi - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmgwNU5pX0VDdDJfS1JRVy1wck9KT2wzWlVMN3RvUVVTWHlRMkR0b3o0bi1oa3ZaWkVZMXBtRkpSbk80cmpKM2lnTmNoeDJ5bDhWMG51SGxtSkJyLVFlZElmNU9GcmpBYmlRbzRFM2Z5clJHd3k5MzRnNUZTY0dDUXNkY2l4WTdZUWZFSnJvSGQtZzBaQ3M0ZFlZMURtYzV2el9sTC1aU1YtYlZxS0hXVWFISUJvbTZwV2hWVC1zZ9IBxAFBVV95cUxOcS1RTjdENWptT0ctZEtCMEYzX2ZLZndjcktyczBlY1RuZmZBYmFSRloxRjJkZDk5T2Z2VEJKZjFKSTFRVUlHMnhhYnFGdnBtb1BKVmtQRVQ0NmExTnQ2V2Yxbm53ZllRbC11NFpzU1NTcURBcnRmZkZnVHdlNkFTaUhwT2hoQjdTVDhFbTA0aEQ3cmNtaEM5ZTNoNl9Tc2dmRm13Q19VQ1phVllpM0dSdFhGZWFyVzR2aklSQTRMMnJsSUtl?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T15:56:57.088365Z",
+  "collected_at": "2026-09-02T16:55:32.189823Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +204,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.446962Z",
+        "fetched_at": "2026-09-02T18:38:11.009112Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +220,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.446972Z",
+        "fetched_at": "2026-09-02T18:38:11.009153Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +236,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.446977Z",
+        "fetched_at": "2026-09-02T18:38:11.009161Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +252,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.446982Z",
+        "fetched_at": "2026-09-02T18:38:11.009167Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +268,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.446987Z",
+        "fetched_at": "2026-09-02T18:38:11.009172Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -218,7 +284,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.446992Z",
+        "fetched_at": "2026-09-02T18:38:11.009178Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +300,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.446997Z",
+        "fetched_at": "2026-09-02T18:38:11.009183Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -250,7 +316,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.447001Z",
+        "fetched_at": "2026-09-02T18:38:11.009188Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -282,10 +348,10 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
         "headline": "SP MP Akshay Yadav defends ‘dynasty politics’: Outlines party's strategy for 2028 MP polls - Bhaskar English",
@@ -296,27 +362,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Etah election results 2024 live updates: SP's Devesh Shakya wins against BJP's Rajveer Singh - The Times of India",
+        "headline": "BJP loses three seats in Braj region - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOVmJEQTRrNU1vM1ozSTZ2NklvZEdYU2pMbnF6YUZMMGRTUlNSMmh1RWZlVnZDZnV0SlpjOUtIQUhka0h5LW1ldkpkT080bWFjTEdSOGM3ZENWTFVtamczb0R0eXBoNFhCUXF1UXQ5VjdmbW95aV9lSjljcDNVbHhleTlTVVZOWFV5TDZTYzlmbU5NXzZxcl9takZoNUdQWldJUnpRdG1kVE5yYjVPT3VKbVlaYXZSRlRDbDE1VnhoX3hJNHNTTUVOQ0pUV0Z6bXp0X3B3cXJocmVQNmtNcGp3N1Q5aDNSUVhnMy1PTVhYYzNrWEsyN1JjWGNQMnRfZjR3U3YzQ2tDUGlYbzVkbllUb2Z6Yl9rTS1IdVh1bGRPekV4Q29oYzdReHNfa2R2RWV4RW9SUHdiSnNHQdIBvwJBVV95cUxQaG1sS0cxUjh6NS1GVncxYk1TQ2k1RUJLMGpXdG5JekhXSmhTMXgxR0hwa0JuUDJIQ1VtcEpPZHJfVDROWTladFVma1Q4YWV1TlFNZzNjNlRxTkxrTi1rR3AtckVCT2dfU29Wd0RnSjhKVzktcUs2OWhKYWU5enYyN0F2ZlU2Z0d0OWptdkgxQVFZZjVIa3pVb1RMRTBKN3JQMTg2dzdPZmhfLUhfRUVQdW1DTC1PY2pmLVRid0ZlUmVCb2ZqNWEyOXNEdWRnU2tBSkRYaGJTdHFCUkVXck9VSGpfeGJsNjNRcUNMVUlWZm95MVJkZ0doRG5LZnZIT185NjZBZ2xFTVAwVWRjc0prbjNfbVZfNWhXM3p6MDFhZlZsQzd4YzV6aDZGa3hDYXVVYnhqVFhYaEVncUtabmJ3?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Etah lok sabha election results 2024: Etah Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR1FhLTlCbXgyV2o1R1Y3bzQ3VFNyWVRzWWtCOHRCZVd6VU1XWWIzcklLWmJjWFIwdjdYQzhrcHgyVG9jeWxoQV9rZjBrUjdYNzBSMmdfTGM1SGRjd25HSEo5cGs2NUR3SEVKdnczX1JRUEUxRFl0LXhnX1ZsWlgtbjJYNDkzR1cxZkNJRFFEVmlaUVpW?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Uttar Pradesh district sends 7 MPs to the 18th Lok Sabha; All you need to know - The Economic Times",
-        "source": "The Economic Times",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQ1hDWkZESnlIcnQ3cWpnNzNleFlMYmJTNVh1Q1lEVTVjdXF2UGhVY2lqZ3ZOdzlJRjNXX3A3eFg0LXNiUng3clJZVE9kekUtalc2ZGYzX2g5YU1mWnFNTVNLWXpnZ3VNSE9wMGlrN1RjSWc5YTR4SlBWckhETktpdnJlcFdubWt0dnJET1ZRa0N2ajRfOWRkeWdRdmp5aE9DdnpVMzJ6c0lfc3l1SzR6dVUtNE5NVTlhOUpZbUJBcGczOGlDdWEydjAzQlpJZE1INkgyWTJzQ3ROOUI3SnF1RVRkcWxrQXlvTU1LMXNEeThqOWNnRWFwMDA4MmMxNnBOdHMzT0xWZ9IBjAJBVV95cUxQSjFLMjNTZGNyNDdtXy12NUg0aDhTZlFwa2FGN3NUTVkwMUlYUjd6ZTJRNFF5YnhUSVhBS0pONWxxOC14YVE5d05tRlhhcmcwVUhnMnRudm9ndDRTWGVfSFRCTjI2Q2NvVmIycEI4bFlRdkRva3VwbE5JN0U5OXRuT1FJQnFoVXNFd1JQTEUySjhsaHlUVHZHWEVhdl9ZY2t6d3JpLUdDSWVoZGZpb1IyUWR3S0ZLVzdYXzFKaDhiRjE4NGtDOHhNMVM5a3FtOG1fUTlxQm5VTENpM1lLeFU0N2N6dy15aTI1aVpsdkQ4bkE1WWdWVEhmclFrNjFMeGxfSmhCZDIxdUNGOWVs?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmR1ajhFRFpsVHlVcG41WjZRTXlreGZ5U0xVYWJPT2NTa2hTXzJCb210V1M2X3VkbmJMcW5XcmZFM3pMZjZvekNDMUI3WTVWbS1PV1I2ZG0wZUlKbFYzOXM4dXIxZmpXemUyaXZ0TVBJMTg3MlVRSjFtcmpxeEt3NE42a2ZKNUNEOGxNVm0wUmxLOEE2bGhDMEZvUGZNYkJhdmw2WlRXUG5hLUli0gGyAUFVX3lxTE1PMUhxNXhuRGUwM2xMNGtYTnczdjRLb1k3RE1pd0FRSlo1ZmRDVkJHQmE1V2lmdlQ0QXhDSnVrZVRkTUF5VFlnc2lpUUtESEw4NWR4eHZ5RGpYYzQ4eG5BRUhHYVR6V0ctczJQcC14N3pxRXFzTzB6a2ZrVkwySjluQnQtS0IyaGg2QmR0dG9hZkVlVGJiUUVLY3lCX1hTdmlHWk9ROE1zZFpKNDVWYjZ6Umc?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -326,9 +376,25 @@
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjhqTmF2akpuNnktV1dHS21CUHlpd0g3cUlCMnVRaUVFR2NTVFpJcFRzd05UbG44NW9zbXJHVVdZN0tGM3RRWWk4LXBDTm5vaW1nRTl0XzdjTklLdEY0cTNad0RZUnZPcGx0NlBsR0p0ZmQ3MmZRYVVZTkxGLTNQNW9heTRMa0UzdUJrUXBJU1FUb1RjWXdjYWtQNHgzcE5DcWVjNTRRU1lJdTJ0TzhfLXRkYnY4ZXJVMFHSAccBQVVfeXFMUFhtWmxJUmczRmFwcTY0aXhrcGowNkFXZld2SVo3NWRvVTAtUDlJS0d5dV9mRi1XbGNhWHFNaGx0VUg1MW5QMExsUkJxOXJ5dVFZS0VldUVmb3hxcXdiZDRsRkVGdWU0YjQxeWFXOHl5a0haV2NxSHNBelFzQU0wSEtkcTBlVEZWTW5GVWs0UGZTdDZtdWlEZF93SmxMVGhtZFpiaW03a2sta3E1VWZFMG1yM3FTRTlVb3JnSGIxNGJBaFdocExoYw?oc=5",
         "sentiment": "neutral"
+      },
+      {
+        "headline": "Seven MPs in 18th Lok Sabha from one district – Etawah - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclFwOHgtWVMzWENJS2ZqTnFQaUF5NUlZTVJXdTEzSGM1NzBCaERXZExFX1dvQW1pb21zenNFbE11UE45NWctNE5HcFJwcjJMeVRKd0VHMHB6UHlsVDZDeVNlTlFURmY2aS01aW5aTG95RXNDQ0ZlaVJDWEZLaDhITzJadHM4WXl1S2tzLTZCQmthaWdEUEctS0x2RHBJRW9FeEZjSGNRNHVXR3VaLWlPQTJ5ci03azZidkVrUmdCUjg2S2gw0gHKAUFVX3lxTE5XaTlKYTE1dTFtYnVoeU9za3JpQTQzSTNWX0FFcWw4X0ZNQ3VfOC0zZHdYOFl3TEZkck9EZHZjbWtFMjJtM2tiOGU1aHFjSkI2d2kxdmF5cE9tZmRiVzBseUpFbElIVnhzQXN4cUZzRldJR18waHY3TThWX0tkWkNGcEpjTVB6a0t4Mk9KSWFsQ2pCTFFFSzg5eWp2LVBOS3hmaTFhaGN2dV9seENDUEFnWFNmc0VLd045SFA3LVFJdUhZWURBbnBvTUE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Why Shakya voters matter in Brajbhoomi - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmgwNU5pX0VDdDJfS1JRVy1wck9KT2wzWlVMN3RvUVVTWHlRMkR0b3o0bi1oa3ZaWkVZMXBtRkpSbk80cmpKM2lnTmNoeDJ5bDhWMG51SGxtSkJyLVFlZElmNU9GcmpBYmlRbzRFM2Z5clJHd3k5MzRnNUZTY0dDUXNkY2l4WTdZUWZFSnJvSGQtZzBaQ3M0ZFlZMURtYzV2el9sTC1aU1YtYlZxS0hXVWFISUJvbTZwV2hWVC1zZ9IBxAFBVV95cUxOcS1RTjdENWptT0ctZEtCMEYzX2ZLZndjcktyczBlY1RuZmZBYmFSRloxRjJkZDk5T2Z2VEJKZjFKSTFRVUlHMnhhYnFGdnBtb1BKVmtQRVQ0NmExTnQ2V2Yxbm53ZllRbC11NFpzU1NTcURBcnRmZkZnVHdlNkFTaUhwT2hoQjdTVDhFbTA0aEQ3cmNtaEM5ZTNoNl9Tc2dmRm13Q19VQ1phVllpM0dSdFhGZWFyVzR2aklSQTRMMnJsSUtl?oc=5",
+        "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -358,15 +424,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 4,
+    "starred_questions": 1,
+    "unstarred_questions": 3,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 7.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -374,17 +440,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

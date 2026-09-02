@@ -3,24 +3,22 @@
 **Constituency:** Diamond Harbour, West Bengal
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 36
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 48.9 / 100
+## Composite Transparency Score: 50.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 38.3 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 35.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,28 +32,32 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 77, Dated 10-01-2021, Khowai Police Station (Sections: 186, 34) [pending] 
+2. No description (Sections: 499) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 2.33 Crore
-- **Liabilities:** Rs 36.00 Lakh
-- **Net Worth:** Rs 1.97 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 20% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 7
-- **Utilization Rate:** 47.9%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,6 +71,18 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@abhishekaitc](https://x.com/http://www.twitter.com/@abhishekaitc) | No | Yes |
+| Facebook | [@http://www.facebook.com/@Abhishek Banerjee Official](https://facebook.com/http://www.facebook.com/@Abhishek Banerjee Official) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -76,29 +90,42 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Kolkata Civic Body Probes 17 Properties Linked To Abhishek Banerjee - NDTV (NDTV) [neutral]
-- Property Row Erupts Over BJP’s Claims Against Abhishek Banerjee - Daily Pioneer (Daily Pioneer) [neutral]
-- Abhishek Banerjee's 'raze down my house' message amid scrutiny over property empire - The Times of India (The Times of India) [neutral]
-- Kolkata civic body serves demolition notices to properties linked to Abhishek Banerjee - Indiablooms (Indiablooms) [neutral]
-- Kolkata civic body issues notices to Trinamool MP Abhishek Banerjee seeking property documents - The New Indian Express (The New Indian Express) [neutral]
+- Calcutta HC Orders Immediate Demolition Of Illegal Structures Of Abhishek Banerjee's Sebashray Initiative - ETV Bharat (ETV Bharat) [neutral]
+- TMC MP Abhishek Banerjee served police notice over scuffle at office during billboard removal - newindianexpress.com (newindianexpress.com) [neutral]
+- Abhishek Banerjee gets Kolkata Police notice over Trinamool billboard removal row - indiatoday.in (indiatoday.in) [neutral]
+- Billboard removal row: Abhishek Banerjee receives police notice over office scuffle - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- His office hoarding removed, Abhishek Banerjee slams police, says will move court against ‘trespass’ - The Indian Express (The Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Calcutta HC Orders Immediate Demolition Of Illegal Structures Of Abhishek Banerjee's Sebashray Initiative - ETV Bharat** (ETV Bharat)
+- ! **TMC MP Abhishek Banerjee served police notice over scuffle at office during billboard removal - newindianexpress.com** (newindianexpress.com)
+- ! **Abhishek Banerjee gets Kolkata Police notice over Trinamool billboard removal row - indiatoday.in** (indiatoday.in)
+- ! **Billboard removal row: Abhishek Banerjee receives police notice over office scuffle - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **His office hoarding removed, Abhishek Banerjee slams police, says will move court against ‘trespass’ - The Indian Express** (The Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Abhishek Banerjee has a below-average transparency score of 48.9/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
+Abhishek Banerjee shows moderate transparency with a score of 50.2/100. Minor criminal cases on record. Low parliament attendance is notable.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 23,264,563. MPLADS utilization: 47.9%. Parliament attendance: 35.0%. Questions asked: 19. Debates participated: 1.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Parliament attendance: 35.0%. Questions asked: 19. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +165,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +244,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Abhishek Banerjee's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 47.9%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +261,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

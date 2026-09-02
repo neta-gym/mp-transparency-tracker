@@ -4,16 +4,16 @@
     "constituency": "Tiruchirappalli",
     "state": "tamil nadu",
     "party": "Marumalarchi Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 196,
+    "myneta_candidate_id": null,
     "slug": "durai-vaiko",
     "house": "lok_sabha",
     "sansad_member_id": 5828,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 51,
+    "age": null,
     "photo_url": "/mp-photos/5828.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:23.821247Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 359084317.0,
-    "liabilities": 25569046.0,
-    "net_worth": 333515271.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=196",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.217860Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 79.8,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.7,
-    "expended": 4.87,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:46:14.021519Z",
-        "notes": "Official eSAKSHI REST API — Works: 78 recommended, 56 sanctioned, 39 completed"
+        "fetched_at": "2026-09-02T15:06:23.885361Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:02:24.211243Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:02:24.208840Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 78,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 33.12925170068027
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:34:20.256788Z",
+        "fetched_at": "2026-09-02T15:02:24.207890Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Centre, state provide in-principle approval for Trichy dry port: Durai Vaiko - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS05UazByaTZZVWtIcGNvejQ0ZnF5bTJKYkJKdDRXRGVjLTlLYU1IOXplaEVsLXBPQ0dYbDdXSUxwVk52cnRLeFltd0F3NHRWMFhGdUd5ek5QOTc5Z2lPbGtGZFJmekk2U210bU12aS01QzVfVnZXSXVMQVFndmNwSkpnNUJiNkNOTTZKdmt6TXB3TG9xNlVPNTE0T0NpYTAwdDV2TkN4RW9Ha0ljV19fdWRZeWlSTVFvOVZiQnloSW1HVTdGNHlMSGtiODg2ZTN2M1BDY0tOWk5SNjVOaUJUTjJ30gHnAUFVX3lxTFBudU1mdFU2V3d3dW50RkJpXzVESzVGcGw5cmo0UGJNN0pzMDNGekhFeGpFRHl2ZWVnNERVT2ptbGo1LUpGbU1pcG5tNFMxYVlxT3FSMDBMa3Zta2lnZFJ1enEwUDhzdjgxNzVDZjFqSXg3eU56TU1KQzRKZEF4MUdSNDBWZEgxY0Z5bWwzZ3dqQUJ4OHl6TTFWNmd1RlpEQXdhbjU3NEhQRlpQUGF5YjM4Y0ZKTnZjeGI1dWRRUkVDZi1rakt3T3lsTGp4bkZZRmVEbWVFWE4ycUdCM3ZpYVViM2lLN2lwSQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Learning third language not wrong in globalised world, says MDMK MP Durai Vaiko; welcomes permanent Trichy-Charlapalli train service - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQSnZfVHJQd2gtZkpGVmhvMnFtamNJNUxORlNuVFV6cHVCVmhnX2pGamJWYm1ZRkdhZGZnVXFfVVloMWRqYUlPcldyWjN3RlBZTmJzZTNPeS13dDdsdVBJYnZOV0YtbHU2Vnl6Z21jemtBNWZQQkp6NGxJX3RpWWw0cEZmWXlEOS1rMkNTSk5EaXdVR2p5Tzh1WTlpd2lLalVYMDR6MDA2akl1NTB2OUFSaVhRVl9PUlpOS0hGQ3BKTlRhemFzbldvNmFXckR6RDZ6SmRRV09kakhsZXJRVUZ6TW1BWW1MbWxqZDRKaUttVUtVLXhiMHlvV25oUFBTY2JlSE8xR09MekRhdkhKVGtaNnRiVlNEYy1vYWxaUkNYOA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Durai Vaiko MP urges Centre to release funds for airport runway expansion - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ2JpU2FDWlUwWi03UUVock1ERzl6ck5sZWJYa1pYbDJUU3FiT19ZYnhnMlhVc1Y0SUt1aERFNzI5ZzNiZXIyYktKemVxRG0wdy03VWlScmIya3pBSWtSTkNaYjlTZFVyWFA2Uk1wTUZNQXlmTzlWejc0bWFyMU5MZXktNWo5ODV2cFZWVFN2WEg3VndGTFRGcVB2UDJ4NVJmcUt3MzlGZWNRR2ZZd1FCRHd5eDBmc3pONFhEZ3gzNUZ2bERBTTZfOTFaU2dsVjBnMWVvMUo2SC0wUGRjSnfSAeQBQVVfeXFMTXlFdWR4N2RpWHY3Q1NXSlRncngxa0VpUGwtcENsREJwTXNGbzFoVFRxZUhvbjRzVXVHSXVMZ1E0MVc2RHhLV2VxWEhsYm5zbVp1LVlzMUtRLThKaVE0dUozZGxkNVUtdG1Vd0kxU3N3U3h2bmVHVzFfQldwV2lRTXhiU0ZQOXItVERiRmJhOXFTdWtVdDQwRnF1LWxvRnBKTXZMMmJHekRnUlYzSXFkejVxZ09DZW55bEVLeTlIcjhiVkpaYlJlekZJaG1PZXFkbUNMQzlIWll3VmQ2YVBjV08zX1dx?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Trichy MP Durai Vaiko submits development proposals to Tamil Nadu CM Vijay - thenewsmill.com",
+      "source": "thenewsmill.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOF9wejJrcDNfaF9BSFcydlowdXdDX1Bma1hDLU1pcEtEeG5ZTlJ0ZVl2WEFiS1FKWUp4T25KMzl1a3FodHVSZVhBYVBnS2xUOVJTcEhQRU5KaXNzendSZC1IdmJUX1FWMWd0SDg5TllJRFhrbnpZSHVybFNmQjNrS19YQ2MwcmROb2w1dWRVRGcwRjBXOFdSbHNUdGpJWkVUS3BwMEl1SFhnV28?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Trichy MP Durai Vaiko meets Tamil Nadu CM Vijay, submits development proposals - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV2d5VThoZ1NDUTVfTkp0R3J5X3lsZnltbmMtU01IeGcxOERQN3BoVnZnZ0Fod013THBuM2VkZVEzUlZoSjJLUWJRMUExYWlvUW1SdER6SGMwSWxPWXc2TFVSb1F4Qlp3SkxzTUdDdXdtOVR1b2dXV0NMdzM1cDFzMWNSMFVmQjlYM2F0WU1Bbk16TTFOeWFnWjQ0elVWcm9WVkRzdXkyVTFpUXRZblNJZFFBNDhyWVA5N2llTGEwc0l2dWNYMXd6Nms2azRLOUdmZy13?oc=5",
+      "sentiment": "positive"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:35:24.010266Z",
+  "collected_at": "2026-09-02T15:06:23.886264Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.327426Z",
+        "fetched_at": "2026-09-02T18:38:09.791061Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.327434Z",
+        "fetched_at": "2026-09-02T18:38:09.791078Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.327439Z",
+        "fetched_at": "2026-09-02T18:38:09.791087Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.327444Z",
+        "fetched_at": "2026-09-02T18:38:09.791095Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.327448Z",
+        "fetched_at": "2026-09-02T18:38:09.791105Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.327453Z",
+        "fetched_at": "2026-09-02T18:38:09.791159Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.327457Z",
+        "fetched_at": "2026-09-02T18:38:09.791170Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,57 +304,82 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "duraivaikooffl",
+        "url": "https://x.com/duraivaikooffl",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "duraivaikooffl",
+        "url": "https://facebook.com/duraivaikooffl",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:02:27.917639Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 2,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 8,
     "top_headlines": [
       {
-        "headline": "Durai Vaiko reviews five key bridge works in Trichy city - The Times of India",
-        "source": "The Times of India",
+        "headline": "Centre, state provide in-principle approval for Trichy dry port: Durai Vaiko - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc1RRTXJfNnQ4ZGgwbkg2amFmWUxqaDZsMmRiWlhQaEFHMHhXVzhKbjZwTENLeVI5clNEMDVGWTZ1WVBtNHNGU01HUkVaT0VlZ0ZPejlyYmkzWXlhUXg4c0djMW1KeFphWTBsQW9JcmhCWGJiVFBPdEdqZ1RHT0JoMUhpVnZET2R3SFJPY2FLVDk1S1hYUUpwOVgxdXlqeUFhQlppdWNBZTdUZm1oVlFJZ292cndEWW1GX0xhZHNiWVZGZmpGZmdRa3pB0gHPAUFVX3lxTE9OZU9aQ3I2VUFoSHc1SWF2RFNONDBDZkNzVVFHMS00SkJMTFAzTWFRSk9oZV9GTU8xWXRpeHcwRE44bU0tQ3I1bWZxbm5PS2U2QnJhQUFnNjdXSlJmd01VTE0zYnppc2UzV2k5UDVmc09YZjZ0QnpNYnM0RDBhOUdQZlJGM25nVlhBZGNUMFhQTFhJQnZPX3FIdnlkeXBKX3dmSWkzZWQwY1FjTWFWVnNFOGhmM3ZOaEpaNEVXNGhHUGJob2IyQ2hDT1lzRTU4SQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS05UazByaTZZVWtIcGNvejQ0ZnF5bTJKYkJKdDRXRGVjLTlLYU1IOXplaEVsLXBPQ0dYbDdXSUxwVk52cnRLeFltd0F3NHRWMFhGdUd5ek5QOTc5Z2lPbGtGZFJmekk2U210bU12aS01QzVfVnZXSXVMQVFndmNwSkpnNUJiNkNOTTZKdmt6TXB3TG9xNlVPNTE0T0NpYTAwdDV2TkN4RW9Ha0ljV19fdWRZeWlSTVFvOVZiQnloSW1HVTdGNHlMSGtiODg2ZTN2M1BDY0tOWk5SNjVOaUJUTjJ30gHnAUFVX3lxTFBudU1mdFU2V3d3dW50RkJpXzVESzVGcGw5cmo0UGJNN0pzMDNGekhFeGpFRHl2ZWVnNERVT2ptbGo1LUpGbU1pcG5tNFMxYVlxT3FSMDBMa3Zta2lnZFJ1enEwUDhzdjgxNzVDZjFqSXg3eU56TU1KQzRKZEF4MUdSNDBWZEgxY0Z5bWwzZ3dqQUJ4OHl6TTFWNmd1RlpEQXdhbjU3NEhQRlpQUGF5YjM4Y0ZKTnZjeGI1dWRRUkVDZi1rakt3T3lsTGp4bkZZRmVEbWVFWE4ycUdCM3ZpYVViM2lLN2lwSQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Trichy MP urges fast completion of flyovers and airport expansion - The News Mill",
-        "source": "The News Mill",
+        "headline": "Learning third language not wrong in globalised world, says MDMK MP Durai Vaiko; welcomes permanent Trichy-Charlapalli train service - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXpaQUlTVWRDQzVBZ2NFYkFvSHJEbkRpeE5HaUhzckVRNFpzUnJycGVHb3lVR0pqLTNaUlFHUENiQjVWaGNDMFlJUzluNXFZbHpjTVFMa3J0UDZQS09MRERHd0llakdMaHFsT0lRQjk4WWI5bHdXakZTcTBWX19BMEc2RVRKMkJPWXg2aG1FTDduMmtGZEZ3ejNWbER1N2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQSnZfVHJQd2gtZkpGVmhvMnFtamNJNUxORlNuVFV6cHVCVmhnX2pGamJWYm1ZRkdhZGZnVXFfVVloMWRqYUlPcldyWjN3RlBZTmJzZTNPeS13dDdsdVBJYnZOV0YtbHU2Vnl6Z21jemtBNWZQQkp6NGxJX3RpWWw0cEZmWXlEOS1rMkNTSk5EaXdVR2p5Tzh1WTlpd2lLalVYMDR6MDA2akl1NTB2OUFSaVhRVl9PUlpOS0hGQ3BKTlRhemFzbldvNmFXckR6RDZ6SmRRV09kakhsZXJRVUZ6TW1BWW1MbWxqZDRKaUttVUtVLXhiMHlvV25oUFBTY2JlSE8xR09MekRhdkhKVGtaNnRiVlNEYy1vYWxaUkNYOA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MDMK's Durai Vaiko submits six key proposals to Kanimozhi for DMK 2026 manifesto - ANI News",
-        "source": "ANI News",
+        "headline": "Durai Vaiko MP urges Centre to release funds for airport runway expansion - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ21ZcWZNa3lBUDhDVEpVREVPbjR2SVlhQkNKZTV5UXNhWFFjQ3Q5RkNSOHdONnZJODlHMFdUNTlUVTNiNnlGSFgzdEFhNGpWRGM5Q2VqdjhzQ1c1X0Zwa0pCaDBUSEVuSDFDcDg4d3pMSTR6RmtncHY0cjF0Mk5xV0V2VEFVOEx2T2Nja1hKa3A1MkFXMHg2UGJ6WDk1NnkyTVJ6eWF3NHdzWW5JUkliTzhxTW52Y3I5c3VzYjhRdW1YUGdaSGNWVHBISnU2bnBmUERqaGtXMExlX3c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ2JpU2FDWlUwWi03UUVock1ERzl6ck5sZWJYa1pYbDJUU3FiT19ZYnhnMlhVc1Y0SUt1aERFNzI5ZzNiZXIyYktKemVxRG0wdy03VWlScmIya3pBSWtSTkNaYjlTZFVyWFA2Uk1wTUZNQXlmTzlWejc0bWFyMU5MZXktNWo5ODV2cFZWVFN2WEg3VndGTFRGcVB2UDJ4NVJmcUt3MzlGZWNRR2ZZd1FCRHd5eDBmc3pONFhEZ3gzNUZ2bERBTTZfOTFaU2dsVjBnMWVvMUo2SC0wUGRjSnfSAeQBQVVfeXFMTXlFdWR4N2RpWHY3Q1NXSlRncngxa0VpUGwtcENsREJwTXNGbzFoVFRxZUhvbjRzVXVHSXVMZ1E0MVc2RHhLV2VxWEhsYm5zbVp1LVlzMUtRLThKaVE0dUozZGxkNVUtdG1Vd0kxU3N3U3h2bmVHVzFfQldwV2lRTXhiU0ZQOXItVERiRmJhOXFTdWtVdDQwRnF1LWxvRnBKTXZMMmJHekRnUlYzSXFkejVxZ09DZW55bEVLeTlIcjhiVkpaYlJlekZJaG1PZXFkbUNMQzlIWll3VmQ2YVBjV08zX1dx?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Include Trichy among univ townships: MP to FM - The Times of India",
-        "source": "The Times of India",
+        "headline": "Trichy MP Durai Vaiko submits development proposals to Tamil Nadu CM Vijay - thenewsmill.com",
+        "source": "thenewsmill.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2lVa0JrNVJhaXgybFJUSTMyVmkydzFieUNGa2VtTDI2YVlKSzlFQVhrV1dUUk9sT0xXUDVsYjdiSDJlbkZvRXh5V0xRRGQwZ0RZbkZ5QjdlLXp4Z2NVYjVpVWhmQy13UFlhclBVQVFpSEpyaUlsSmpkbWlrclI5aWVpMjBvWHZlWks4MEVDemlZSHowREgtODFfVGhVZ3BnWGVFbUlMMFNBcDhVUUdNZUhfUDhudnJrdXfSAb8BQVVfeXFMT1ZUNVl5dFhfcVc4cE5ZSDMtYVVHYW9HbF9qUXR6LU9DY1JpVWp3N2psM081MlloTVY1U01OSUpYQnVDWk56S1dsSEMxSnhmNV9WY0VrbHBnOHNNOHE2b1RHR2F0YWlaeU90OUNiWHV2ZlJEaXZwclBDTWRaSjAxX2t3M2NPcXE5aF9Mc053UmNUb0Y0Q1V5dnlrRXNhMzFkbDhRdHBLb0ktWERkazJqQS1IU1BOM182YmM4d0dFRTQ?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOF9wejJrcDNfaF9BSFcydlowdXdDX1Bma1hDLU1pcEtEeG5ZTlJ0ZVl2WEFiS1FKWUp4T25KMzl1a3FodHVSZVhBYVBnS2xUOVJTcEhQRU5KaXNzendSZC1IdmJUX1FWMWd0SDg5TllJRFhrbnpZSHVybFNmQjNrS19YQ2MwcmROb2w1dWRVRGcwRjBXOFdSbHNUdGpJWkVUS3BwMEl1SFhnV28?oc=5",
+        "sentiment": "positive"
       },
       {
-        "headline": "MDMK MP Vaiko to launch 'Samathuva Nadai Payanam' from Tiruchirappalli, TN CM Stalin to flag off yatra - India's News.Net",
-        "source": "India's News.Net",
+        "headline": "Trichy MP Durai Vaiko meets Tamil Nadu CM Vijay, submits development proposals - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcWF3cEI1bS1Dd1N5dVNsRGRWcmZNWnlJQ1pwNXlJWEhJZHMxbE5DUGJRbFl6NzBoYkktM1lGMGNkZUk0X0JRSjZEVnQ4d29lc1M4dlVsWGxRUEU5V2dxSEhOZFNVWnpSaTFaSDdFNnRGVjFfZWVyYThwVkZuMjhVbFlvc0hIT2VsdTBhNUJQUDBUOWlOUi1EN3hFNzNRTWlJcWhPNEFseWctTDB0RWhoSG5jcDh5eDV2dHdUWko4WUhMdERHal9EMENMQS1yN0FhRVpib3Q1QVo?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV2d5VThoZ1NDUTVfTkp0R3J5X3lsZnltbmMtU01IeGcxOERQN3BoVnZnZ0Fod013THBuM2VkZVEzUlZoSjJLUWJRMUExYWlvUW1SdER6SGMwSWxPWXc2TFVSb1F4Qlp3SkxzTUdDdXdtOVR1b2dXV0NMdzM1cDFzMWNSMFVmQjlYM2F0WU1Bbk16TTFOeWFnWjQ0elVWcm9WVkRzdXkyVTFpUXRZblNJZFFBNDhyWVA5N2llTGEwc0l2dWNYMXd6Nms2azRLOUdmZy13?oc=5",
+        "sentiment": "positive"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -334,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 18,
+    "starred_questions": 5,
+    "unstarred_questions": 13,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 34.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

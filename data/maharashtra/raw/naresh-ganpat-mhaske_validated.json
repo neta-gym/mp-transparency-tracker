@@ -4,16 +4,16 @@
     "constituency": "Thane",
     "state": "maharashtra",
     "party": "Shiv Sena",
-    "myneta_candidate_id": 7462,
+    "myneta_candidate_id": null,
     "slug": "naresh-ganpat-mhaske",
     "house": "lok_sabha",
     "sansad_member_id": 5693,
     "profile_url": null,
     "canonical_name": "Naresh Ganpat Mhaske",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5693.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Thane",
       "state": "maharashtra",
       "party": "Shiv Sena",
-      "myneta_candidate_id": 7462,
+      "myneta_candidate_id": null,
       "slug": "naresh-ganpat-mhaske",
       "house": "lok_sabha",
       "sansad_member_id": 5693,
       "profile_url": null,
       "canonical_name": "Naresh Ganpat Mhaske",
       "name_aliases": [],
-      "education": "12th Pass",
+      "education": null,
       "profession": null,
-      "age": 54,
+      "age": null,
       "photo_url": "/mp-photos/5693.jpg"
     },
     "criminal_record": {
@@ -40,61 +40,120 @@
       "convictions": 0,
       "pending_cases": 2,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "136/2009, Kopri Police Station",
+          "ipc_sections": [
+            "353",
+            "143",
+            "147",
+            "148",
+            "149",
+            "452",
+            "427"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "CJM Court Thane",
+          "fir_no": "136/2009, Kopri Police Station",
+          "case_no": "471/2020",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "II 57/13 | Section 37(3), 135 Bombay Police Act",
+          "ipc_sections": [
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "",
+          "fir_no": "II 57/13",
+          "case_no": "301637/2015",
+          "other_acts": "Section 37(3), 135 Bombay Police Act",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:17.758141Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 262602215.0,
-      "liabilities": 46063890.0,
-      "net_worth": 216538325.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7462",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:49.912552Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 75.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
+      "entitled": null,
+      "released": null,
       "sanctioned": null,
       "expended": null,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:30:10.839048Z",
-          "notes": "Official eSAKSHI REST API — Works: 0 recommended, 0 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T15:09:39.665190Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:05:57.075799Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:05:57.072871Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
       "works_count": 0,
-      "esakshi_coverage_start": "2023-04-01",
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
       "utilization_rate": null
     },
     "parliament_activity": {
@@ -110,7 +169,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:30:59.196024Z",
+          "fetched_at": "2026-09-02T15:05:57.071726Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +177,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Bombay High Court rejects Rajan Vichare’s plea against Naresh Mhaske’s Lok Sabha victory - thehindu.com",
+        "source": "thehindu.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMDM2eWdSMC14cFdCc3ltX0NXOGhqLXZnRTRRTk9VUTZMWmxrMi1jNmtRWmpOWlJNd1AxSk1JcjRpcDlRaHlvRzdnY24tSDl2czZZR2FkdjhSZDhBc0xYN1FwYXhCejNYT0dvR01WRUxMOWVhY29uVGo3U3dOY1BNOVBQX0toQ0MzRHdoVkg5cThTYmo4dFhSc05DeG1jM3ZVMVRWZmxaQUluN0pqQlZ0NzZCMmQ0R1NYRW5vdTNwRUJ4aWliM3lXLW41THBJTUtHY1VmZVlNd2dsYzdRdEVKM2pwUXHSAesBQVVfeXFMTVg3MFdYTFpIcFlIN3NBVXY5MFRkVE5xcUttX3RLSi1VanBiUEg2V1hjT0pxMGVTR2xIXzhRUGx1bUNGZ01aenFDbHI0SWtLTjdWZDZCMHlqWHgtLWhnRXRYS1FVTUpzUk1tM0hOTnJaTFdsZU1xcTZZUElXRHV3ZzV1a2hXdVpSY196S3BaWk9FUXZzNUxGMFhZRmZBVGNHXzNXbnQzYlpsMzkyWDY4eXgzcVNjNVpYRm9icVZBN09MNUJzVlE3ZE9IUnlGd3NfUDlNOHRtRUJMcVJ6Wkx5T2xFSEV1UWJoa0xXZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bombay High Court dismisses MP Rajan Vichare’s plea challenging Naresh Mhaske’s 2024 Lok Sabha victory - SCC Online",
+        "source": "SCC Online",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUDNuZnZnMUNIR0JtYm1sbEVDbGdkczBuVzdmTkR5aXhQNkttalR2NVJBd2E4OS1EMk9aeFZyNTdCLXdiRkRNb0tyRWpHQm55UWswNDVrMjNYbDc3VlV6MDljZG1Ka2JMRXhoVjM4VEVmUFdjMXdmY1poLVVESUFpa1IwY1FFdFl0NU5XS0ZrSHpkOVRCWjdNMktEUTFYblhTXy1EWHJXTzIzcGVxTGJDNnlKQ2x1M09pdk5fLTNOdUgwb3NvUURQRURGeWdJUEE5?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mumbai, meet your new MPs from neighbouring Thane and Kalyan - Citizen Matters",
+        "source": "Citizen Matters",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGcVhHelpMdWpXSHV5T0xwUG96REF4c2xpSzhNUk8td2k0dk1QT1doVHltVThmZHVkMHhrNHdRZkM5VVRlUHJBTnRvSTNXMFFFS2NNQjFkeHV4NmpYXzh3U2tHb0FwZldDY21aWHA3R1h5Y1NlbU5B?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bombay High Court Dismisses Plea Challenging Shiv Sena (Shinde) MP Naresh Mhaske’s Election from Thane - lawchakra.in",
+        "source": "lawchakra.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96UEFmQ3I2ZzE4am5vNTZKSWtEOVdsSnJjZFplQlNWY1lLYkY1R3pDcmYwMWlBSTJEdFYtajVsVy1UaU5ENmZ4M2tMeloxR2E3R2pOR0pLQlkxbjRHSW1oWVZ1LUtqTG9kSUctZ0NjWUlBc0hSLW1Ub2RrQUNjZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "2 UBT elected candidates in contact with Shinde camp, claims Thane MP Mhaske | Mumbai news - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWx0eExydmF2OUhyS0NlZk82N1FHM3JkWlRKUTNYMW1kWmxvQ2p4OVVNbG10bTRLVzRyVmZwVmlpQmEyQW1wNy1PVzl0MXFLQl9NWVItWFlHMTNzNWNaSFlndWJmc1JGTXoxQTM0dE9MUE9Td2hsQ0dpSGdZdEpkdy1FZmpuZzhoZ0hfN2kxYU1ySVotZlBMUE5JZ2FWLVdJcC1pZTVhZUY0RUZGWkpiTVB0N0MyRzQtay1KaGxQNENMSWQ3eDNiU1h6STdjaWpXTTdPWEM1SGo4dTR0NUHSAeMBQVVfeXFMTWRLSW96MXVtZWV3bGxPeVJvQkt2SXBCeTBOSV9CVnJjV3FCYTRLSEZfNXBiSkplaTJ0TG9TYWR6Y2hSVVdvSWU0NFJFbElRaEFEYmJOeko1VzdVT0phUnJiNXpJOV9YZVJha1JoYjBDS0tCcERhMldmbm9kLWxES1NjSUk5NWNQNlhEX2JmOTVkWjl6MHdrbDJSc29lcjRtMTd3dUViN3RiaUUta09idEYzTzNWbTRDT0xoSVNMTEdyM2pxanBGV0hkTVQzNW5SVndubkRHSUh4T2JFNnBmMm1oY3c?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:31:54.653761Z",
+    "collected_at": "2026-09-02T15:09:39.666253Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +246,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.529196Z",
+          "fetched_at": "2026-09-02T18:38:08.097833Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +262,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.529206Z",
+          "fetched_at": "2026-09-02T18:38:08.097860Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +278,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.529212Z",
+          "fetched_at": "2026-09-02T18:38:08.097866Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +294,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.529216Z",
+          "fetched_at": "2026-09-02T18:38:08.097871Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +310,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.529223Z",
+          "fetched_at": "2026-09-02T18:38:08.097878Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +326,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.529227Z",
+          "fetched_at": "2026-09-02T18:38:08.097883Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +342,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.529232Z",
+          "fetched_at": "2026-09-02T18:38:08.097887Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,21 +367,54 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "@nareshmhaske",
+          "url": "https://x.com/@nareshmhaske",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/minareshmhaske/",
+          "url": "https://facebook.com/https://www.facebook.com/minareshmhaske/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/nareshmhaskeofficial/?hl=en",
+          "url": "https://instagram.com/https://www.instagram.com/nareshmhaskeofficial/?hl=en",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:06:00.375122Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 0,
-      "neutral": 10,
+      "negative": 1,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Bombay High Court rejects Rajan Vichare’s plea against Naresh Mhaske’s Lok Sabha victory - The Hindu",
-          "source": "The Hindu",
+          "headline": "Bombay High Court rejects Rajan Vichare’s plea against Naresh Mhaske’s Lok Sabha victory - thehindu.com",
+          "source": "thehindu.com",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMDM2eWdSMC14cFdCc3ltX0NXOGhqLXZnRTRRTk9VUTZMWmxrMi1jNmtRWmpOWlJNd1AxSk1JcjRpcDlRaHlvRzdnY24tSDl2czZZR2FkdjhSZDhBc0xYN1FwYXhCejNYT0dvR01WRUxMOWVhY29uVGo3U3dOY1BNOVBQX0toQ0MzRHdoVkg5cThTYmo4dFhSc05DeG1jM3ZVMVRWZmxaQUluN0pqQlZ0NzZCMmQ0R1NYRW5vdTNwRUJ4aWliM3lXLW41THBJTUtHY1VmZVlNd2dsYzdRdEVKM2pwUXHSAesBQVVfeXFMTVg3MFdYTFpIcFlIN3NBVXY5MFRkVE5xcUttX3RLSi1VanBiUEg2V1hjT0pxMGVTR2xIXzhRUGx1bUNGZ01aenFDbHI0SWtLTjdWZDZCMHlqWHgtLWhnRXRYS1FVTUpzUk1tM0hOTnJaTFdsZU1xcTZZUElXRHV3ZzV1a2hXdVpSY196S3BaWk9FUXZzNUxGMFhZRmZBVGNHXzNXbnQzYlpsMzkyWDY4eXgzcVNjNVpYRm9icVZBN09MNUJzVlE3ZE9IUnlGd3NfUDlNOHRtRUJMcVJ6Wkx5T2xFSEV1UWJoa0xXZw?oc=5",
@@ -298,27 +429,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Bombay High Court rejects election petition against Shiv Sena Shinde faction MP Naresh Mhaske - Bar and Bench",
-          "source": "Bar and Bench",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa3Mzck5jWlZpLWpQMmJKLTZUbmlLaHpseUw0LWl3eWRTLUFteUJROUlzVWlWOTB5YzR1QnB0bUdaWFZVbEFHM1RDYzRxU1llTTZzZHB0c2ExRDdoQnJhU004NjZ3NFk5a1NONFEzQ1dNdkcyWE5fM25Zd01ydVNmR0xOTm1xV0w0UTR4aHd3dnhPbzNTdm05MnNYMlRIeld6NlF0eWxTdDNGU09fQ21MVWxxYVYxX09yN0o0WUdJU3IwV3h5?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Thane election results 2024 live updates: Shiv Sena's Naresh Ganpat Mhaske wins - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOc3BNQXVkQkVEYmhlYUU1ZVVlei1Bc1RwYmhxamlPbllyTE00OGNnZy11RmFialYtRjg2VHYweUNHTzBXMFlVS2hsbldlVlE1cDFDVkF3Sl9oNjNHWFZKMFYwcW1paTUxU1Q0UktiUklsM1QtZUVrLVJwOWplRHZMSXUwZXk3eFBwZWNRWmQzSXpEYi1QSjZiN2ZpQ3ROaUpQaGxacVNJRVFNVGRmVGlJWVJjMl9nbDc4SlJCaDJIaTQ4VFl6TmlwWTJEbTYtbms2LXQzVlo4Qkd3YVV3Q1ZjYlc1d1QyNE5vM3NfY2NGVTdBWUxGNFVjYVF0RDlfb3pmMFFwNWtOSm5MVUcyVmdVQVFYOFRaSWlaZFV1MXpGMEhFZU9SejhtUGt5Z0NmS25lUVdzeNIBugJBVV95cUxON09nME0wTl9EY0xUZ2ZyTTRuWDRBY0hVVUNFeXc5cFZmUGFMSVNmN2JIY0RRbC1XREVLSGVPRXBqcGhsSWxNRHBmQkNQaVl2ZjRoelJCZ3R5UUs2WGZQUXJ6c1BaMzFFR3hHYlVFOGIwOE9nYlFIQ2N6bXc0VWoyYWpjYnJLYnpnTUIzdmllM0xQck5TYWxrMHlzUEpaWHg2MC1kSG14ZmVoYkgydXVRNzg0bEpPUktVQXNxc0FxRU02WWx2OUNnVTdXbWd0Mi00ZXk5bWRNVERkaDRwSE5TS1ZsSUE1cGtHZTBYVVhFaTE5VHhxNnFkeDZGZmJmY01NbU5WTk15akJLNmpPUjNER0YwOXZTQllGeWNYYzRKU3hsMnAzLTVNeUtmbG1kQXo2UlJUZ3AxemJnZw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Mumbai, meet your new MPs from neighbouring Thane and Kalyan - Citizen Matters",
           "source": "Citizen Matters",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGcVhHelpMdWpXSHV5T0xwUG96REF4c2xpSzhNUk8td2k0dk1QT1doVHltVThmZHVkMHhrNHdRZkM5VVRlUHJBTnRvSTNXMFFFS2NNQjFkeHV4NmpYXzh3U2tHb0FwZldDY21aWHA3R1h5Y1NlbU5B?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Bombay High Court Dismisses Plea Challenging Shiv Sena (Shinde) MP Naresh Mhaske’s Election from Thane - lawchakra.in",
+          "source": "lawchakra.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96UEFmQ3I2ZzE4am5vNTZKSWtEOVdsSnJjZFplQlNWY1lLYkY1R3pDcmYwMWlBSTJEdFYtajVsVy1UaU5ENmZ4M2tMeloxR2E3R2pOR0pLQlkxbjRHSW1oWVZ1LUtqTG9kSUctZ0NjWUlBc0hSLW1Ub2RrQUNjZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "2 UBT elected candidates in contact with Shinde camp, claims Thane MP Mhaske | Mumbai news - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWx0eExydmF2OUhyS0NlZk82N1FHM3JkWlRKUTNYMW1kWmxvQ2p4OVVNbG10bTRLVzRyVmZwVmlpQmEyQW1wNy1PVzl0MXFLQl9NWVItWFlHMTNzNWNaSFlndWJmc1JGTXoxQTM0dE9MUE9Td2hsQ0dpSGdZdEpkdy1FZmpuZzhoZ0hfN2kxYU1ySVotZlBMUE5JZ2FWLVdJcC1pZTVhZUY0RUZGWkpiTVB0N0MyRzQtay1KaGxQNENMSWQ3eDNiU1h6STdjaWpXTTdPWEM1SGo4dTR0NUHSAeMBQVVfeXFMTWRLSW96MXVtZWV3bGxPeVJvQkt2SXBCeTBOSV9CVnJjV3FCYTRLSEZfNXBiSkplaTJ0TG9TYWR6Y2hSVVdvSWU0NFJFbElRaEFEYmJOeko1VzdVT0phUnJiNXpJOV9YZVJha1JoYjBDS0tCcERhMldmbm9kLWxES1NjSUk5NWNQNlhEX2JmOTVkWjl6MHdrbDJSc29lcjRtMTd3dUViN3RiaUUta09idEYzTzNWbTRDT0xoSVNMTEdyM2pxanBGV0hkTVQzNW5SVndubkRHSUh4T2JFNnBmMm1oY3c?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +483,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 75,
+      "starred_questions": 22,
+      "unstarred_questions": 53,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +499,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 80.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +530,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +557,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 262,602,215. Parliament attendance: 80.0%. Questions asked: 75. Debates participated: 19.",
-  "validated_at": "2026-09-02T01:36:50.529974Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Parliament attendance: 80.0%. Questions asked: 75. Debates participated: 19. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.098679Z"
 }

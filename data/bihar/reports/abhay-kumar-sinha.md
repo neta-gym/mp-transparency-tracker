@@ -7,21 +7,21 @@
 **Education:** 12th Pass
 **Profession:** Pension (EX MLA)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 37.7 / 100
+## Composite Transparency Score: 48.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 32.1 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -35,28 +35,47 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. 312/15, Civil Lines Police Station, Gaya | Section 5/4 PP Act. (Sections: 188) [pending] 
+2. 318/15, Civil Lines Police Station, Gaya | Section 127(A) RP Act (Sections: 188) [pending] 
+3. 380/15, Kotwali Police Station , Gaya | Section 3/4 D P P Act. (Sections: 188) [pending] 
+4. 381/15, Kotwali Police Station , Gaya | Section 127(A), 3(B) R.P ACt (Sections: 188) [pending] 
+5. 217/15, Rampur Police Staion Gaya | Section 127(A), 3(B) R.P ACt (Sections: 188) [pending] 
+6. 220/15, Rampur Police Staion Gaya | Section 127(A) RP Act (Sections: 188) [pending] 
+7. 178/15, Police Station Delha | Section 127(A) RP Act (Sections: 188) [pending] 
+8. 179/15, Police Station Delha | Section 127(A) RP Act (Sections: 188) [pending] 
+9. 92/15, Police Sation Vishnupad Gaya | Section 3/4 D PP Act. (Sections: 188) [pending] 
+10. 363/15, Tekari Police Station, Gaya | Section 3/4 SB Act. (Sections: 171A, 427) [pending] 
+11. 367/15, Tekari Police Station, Gaya (Sections: 188, 171A) [pending] 
+12. 414/15, Tekari Police Station, Gaya | Section 126 R.P ACt (Sections: 188) [pending] 
+13. 134/10, Kotwali Police Station , Gaya (Sections: 341, 427, 114) [pending] 
+14. 391/15, Wajirganj  Police Station , Gaya | Section 3 P.P Act (Sections: 188) [pending] 
+15. 333/20, Belaganj Police Station , Gaya | Section 123 R.P. Act. (Sections: 171F, 153A, 505(I)(B)) [pending] 
+16. 237/24, Nagar Police Staion Auraangabad (Sections: 188) [pending] 
+
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 46.69 Lakh
+- **Immovable Assets:** Rs 10.30 Crore
 - **Total Assets:** Rs 10.77 Crore
 - **Liabilities:** Rs 4.78 Crore
 - **Net Worth:** Rs 5.99 Crore
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 284009992.00 Crore
+- **Asset Growth:** -100.0%
+- **Wealth Percentile:** Wealthier than 100% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 6
-- **Utilization Rate:** 40.1%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -70,6 +89,20 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -77,16 +110,27 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Abhay Kumar Sinha - The Times of India (The Times of India) [neutral]
 - Aurangabad election results 2024 live updates: RJD's Abhay Kumar Sinha secures victory - The Times of India (The Times of India) [neutral]
 - Aurangabad lok sabha election results 2024: Aurangabad Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Know Your Turncoats, Part 2: RJD candidate with 16 cases, a doctor, ex-prof from a Congress family - Newslaundry (Newslaundry) [neutral]
-- Aurangabad Election Result 2024 LIVE Updates Highlights: Abhay Kumar Sinha of RJD Wins - News18 (News18) [neutral]
+- Bihar Assembly Election 2025: No Easy Win for BJP, RJD, or Nitish Kumar - Frontline Magazine (Frontline Magazine) [neutral]
+- Parliament Of India : LoK Sabha Member Of Parliament - S - Sarkaritel.com (Sarkaritel.com) [neutral]
+- Litmus test for RJD's social outreach - The New Indian Express (The New Indian Express) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Aurangabad election results 2024 live updates: RJD's Abhay Kumar Sinha secures victory - The Times of India** (The Times of India)
+- ! **Aurangabad lok sabha election results 2024: Aurangabad Winning Candidates List and Vote Share - India Today** (India Today)
+- ! **Bihar Assembly Election 2025: No Easy Win for BJP, RJD, or Nitish Kumar - Frontline Magazine** (Frontline Magazine)
+- ! **Parliament Of India : LoK Sabha Member Of Parliament - S - Sarkaritel.com** (Sarkaritel.com)
+- ! **Litmus test for RJD's social outreach - The New Indian Express** (The New Indian Express)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Bihar: 8 relevant findings
@@ -95,11 +139,11 @@
 
 ## Qualitative Assessment
 
-Abhay Kumar Sinha has a below-average transparency score of 37.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Abhay Kumar Sinha has a below-average transparency score of 48.0/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance.
 
 ---
 
-Has 16 criminal case(s) (0 serious), 16 pending, 0 conviction(s). Declared assets: Rs 107,718,589. MPLADS utilization: 40.1%. Parliament attendance: 80.0%. Questions asked: 11. Debates participated: 11.
+Has 16 criminal case(s) (0 serious), 16 pending, 0 conviction(s). Declared assets: Rs 107,718,589. Parliament attendance: 80.0%. Questions asked: 11. Debates participated: 11. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -139,7 +183,7 @@ Has 16 criminal case(s) (0 serious), 16 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +262,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Abhay Kumar Sinha's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 40.1%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -238,11 +280,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

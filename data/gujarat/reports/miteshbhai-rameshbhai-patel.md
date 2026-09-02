@@ -4,21 +4,21 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (21%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 60.6 / 100
+## Composite Transparency Score: 56.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 17.9 | 25% |
-| Asset Growth | 55.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 11.04 Crore
-- **Liabilities:** Rs 1.29 Crore
-- **Net Worth:** Rs 9.76 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 61% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 9
-- **Expended:** Rs 3
-- **Utilization Rate:** 22.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -67,36 +66,63 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/@miteshbhaibjp](https://x.com/http://www.twitter.com/@miteshbhaibjp) | No | Yes |
+| Facebook | [@http://www.facebook.com/@miteshbhaibjp](https://facebook.com/http://www.facebook.com/@miteshbhaibjp) | No | Yes |
+| Instagram | [@@miteshpatelbjp](https://instagram.com/@miteshpatelbjp) | No | Yes |
+
+---
+
 ## In The News
 
-*Mixed/neutral coverage (10 articles)*
+*Mixed/neutral coverage (6 articles)*
 
-- **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Total Articles:** 6
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 6
 
-- Anand election results 2024 live updates: BJP's Mitesh Patel wins against Congress' Amit Chavda - The Times of India (The Times of India) [neutral]
 - Public Money as Political Weapon: BJP MP Mitesh Patel’s Warning Raises Alarm in Gujarat - Vibes Of India (Vibes Of India) [neutral]
-- Gujarat Assembly election: Congress fails a re-run of 2017 in Anand as BJP lodges win - India TV News (India TV News) [neutral]
-- Mitesh Patel (Bakabhai) - News18 (News18) [neutral]
-- Gujarat's Anand to see clash of veterans - The Hans India (The Hans India) [neutral]
+- Lured to Thailand for jobs, Gujarat sisters rescued from Laos after 20 days - India Today (India Today) [neutral]
+- Gujarat plane crash: It was to be a reunion in UK. Now, Vasad joint family mourns loss of 3 members - The Times of India (The Times of India) [neutral]
+- BJP candidate list 2024: PM Modi, Amit Shah, others feature in first list of 195 candidates | State-wise full list - Livemint (Livemint) [neutral]
+- Who Is Mitesh Rameshbhai Patel Bakabhai? BJP Candidate From Anand Constituency - Times Now (Times Now) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Public Money as Political Weapon: BJP MP Mitesh Patel’s Warning Raises Alarm in Gujarat - Vibes Of India** (Vibes Of India)
+- ! **Lured to Thailand for jobs, Gujarat sisters rescued from Laos after 20 days - India Today** (India Today)
+- ! **Gujarat plane crash: It was to be a reunion in UK. Now, Vasad joint family mourns loss of 3 members - The Times of India** (The Times of India)
+- ! **BJP candidate list 2024: PM Modi, Amit Shah, others feature in first list of 195 candidates | State-wise full list - Livemint** (Livemint)
+- ! **Who Is Mitesh Rameshbhai Patel Bakabhai? BJP Candidate From Anand Constituency - Times Now** (Times Now)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Gujarat: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Miteshbhai Rameshbhai Patel shows moderate transparency with a score of 60.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Miteshbhai Rameshbhai Patel shows moderate transparency with a score of 56.0/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 110,448,824. MPLADS utilization: 22.3%. Parliament attendance: 100.0%. Questions asked: 35. Debates participated: 9.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 35. Debates participated: 9. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -136,7 +162,7 @@ No criminal cases declared. Declared assets: Rs 110,448,824. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -215,8 +241,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Miteshbhai Rameshbhai Patel's MPLADS account: Released: Rs 15, Expended: Rs 3, Utilization: 22.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -234,10 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

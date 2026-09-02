@@ -4,16 +4,16 @@
     "constituency": "Phulpur",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8358,
+    "myneta_candidate_id": null,
     "slug": "praveen-patel",
     "house": "lok_sabha",
     "sansad_member_id": 5583,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 45,
+    "age": null,
     "photo_url": "/mp-photos/5583.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:05.259601Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 649173761.0,
-    "liabilities": 37827458.0,
-    "net_worth": 611346303.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8358",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.664427Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 87.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 15.16,
-    "released": 15.16,
-    "sanctioned": 9.81,
-    "expended": 7.14,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:04.686645Z",
-        "notes": "Official eSAKSHI REST API — Works: 24 recommended, 24 sanctioned, 13 completed"
+        "fetched_at": "2026-09-02T17:44:54.199403Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:41:13.561641Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:41:13.558853Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 24,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 47.0976253298153
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:08:11.161095Z",
+        "fetched_at": "2026-09-02T17:41:13.557811Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP Ujjwal seeks more flights operation from Prayagraj Airport to major domestic destinations - Hindusthan Samachar English",
+      "source": "Hindusthan Samachar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUVMbU5Pbl9UV0l0RUFhVXpLdzFVbXhPb29tLVJsRFN6OEZsX2RILVVwYkdLS2VqeW80aHF3SEFBNERPZVNhWEkxNDF4NFBWNlVYc3FIMTZ3ckVfUmJXZm1MNEFzdmRHUGJTTHc4bWF2bGRwSDJYOTFoQ3Q5SEQxbGFBSWlfQ0dLNEQzWkZn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Phulpur election results 2024: BJP's Praveen Patel wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNWUJYYWNaSzBMRy1ISS1wZzY4NTNmVmE3UGtwZUV3bVcySFRVNUpfWjg1ZWQ5SDFqYmJqRXE3OXBTLTdRNlQ5S2cxRnpIdVJOb0Q1eTZyNUpqbkRkeGM0dUFJalBZbTRvNnV1clk2RF94dG5Mc0NOeE8wWTJ5Y1Z2OHlyNE1PcTBrMkRhX28xUTRfcm4yV0dwRm1vV05TUTJzZkhjQ2ZoWmlFb3BaLW1STUJXUE9hUlFWM1k1NkxoUkdtTExkbGZZc0hUTnZWUHh2Y21lMDV1OWZzbmJIaS1CSUV3eXNTTXRBaThySXkzZHhOdnB1a0VBRXkxeks0Y0ZLTE1Gams3LTNPN0lsakRoZkE5NHZVZ19uQlBMNFBKa3N5eVMwUGxyd3JFV3dFZXNCZzBfdTNPVnphdE9CMTRYb0hYNXQ3S18tQ1dLWdIB0gJBVV95cUxQNG4tWHFzVHFveXBCRXRPTWJPNmRBVHR1a3h4eFJEeUVqdXF4Zzh0dHM3VlRaWElTcGRhdWZBMkpjcl93M2M3TlExNVRxclBKMlFkRE02WFo3QXJWcXZXLVRKSWlTVHgyQkJQZmh2SHQwTEpHMl9CbEhQaUpfN1dOa1p4RUFJSjZQZDl3eUxJX2F2T0N3U1RXdi1idy1Ic0xUcmJqdGhCN1FTNHYybmJ1aVE0bGIwOTFHTVo3OW9KdzgxaXRCZTl6a2o5MXY1NGNpUWh0YUhoTEU2eGFSYWZha3VSUzQwc2xPTlRrZ3hKcnllall6SzltaWZ6MVN3TFpHUnhaN0ExUHVMZXFBWkJxbEE3OC14cjFuNUthTjlJRG1uOEFWSzE3TlNkbnNhNmwwOWlzdXhERnFOd01DS25qTTNBNkVDbWF0M3p3OG1HT29nUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP Phulpur candidate Praveen Patel owns wealth over ₹50 crore | Hindustan Times - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTTVNRE9mLXJuc21kUllGdVJoV0tBTnJsSExDY210aFZIQjBFRnluZUxYdU9ZVkJ1VnBtODVlZy1hdktEWTZ1WGJhU0dIVzZRMUZCRzVnU2JuV0hFMzRLNW45bnRDWFpDWl9vaTZIeExYQ09EUTBSTkVCRGRSMWNVMGVBOWxMcGpoaVE5eExrdHFXQlRpMXJ0RFZmVUdmVVE5eDI4bW94RFV4T0NheUgxV2tzSEE4V0YzX3J0WTVHS1BrMjdoZFHSAcsBQVVfeXFMT05yNS1DTkprT3NnSHA1dkZfVjZiazFxZG9CbWVFSXF3aW8yNWJJdXVDYkg1TGxkUVF5cUZBN1hNR0E3WnFaN1RFeVA3RXVtTFg2Vm9pU2F3QVdSd0tkN2xaSXZXR2doZnR3a3lsT045dEdvOUUtaHRRZVluOHliU1ZSVnFhZmR2QWxmWC1aSnN5UzQ2d0VnNXNad2JzVzdiOGdpY2xHeGtndE5kTjR4d2ZYUEdORk9xZ2hQeXEyNTBzMEFJdUVyeE5Kc3M?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Caste rules at Nehru citadel: Phulpur rues lack of development but eyes Patel consolidation - Telegraph India",
+      "source": "Telegraph India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNY0VkdlhSTWNpcl9sZjRjRXY0Z1pqSW9rX2ZROEMtQ1dqSzFMdnpuZ0F2X3RXVk1sNHlIR0NlX01SRmZtZUo3bFJwRWRUMWlaSERrZkQ3ajY3bW5uNkZjOGM3TWtUdldicXAzU09FTzVYRlg0SHcwNG9LZ2duMThvUnpwNVpPbFVYMDM3b3NLTzl1cXJnT0JiQXFfR0YzcUR0bVIyOWtfM0tHWkdXU2ZwRXFPRlBwX2xldU9WOWNfRVhTU1ZsVXFCaFVETXJXWGVCSGNmOEtlQjAzd3JQTWFucmNHcjN1Sll6SkFCOUM0dk8xa1JybFRPbHFYNNIBgAJBVV95cUxPd2c3RjZtUkowaFZuMjVkalJKZUJyZzlZRUp6ZlNmQ0w2RXdIc1JQNEhNWGQ1dzRQREFOSmh2aGVWM2dHNTNIWDFVUEh6ZURLMFJTbldKdEc4cVpOUGsyVUpjXzE3UWZqYzctWmNESTh0Z1otYTN6eFVfM0ZFM2lmUXgzUXNPdU53Y01IQk9veVl2LWJuWDdjcDhWc0VJTU1oaW5GZWtOZWpjVlUxbGJTSWZvYnhzQzNTMVMyVFlFR0hVeDcyc2l6enZRUktHc0NuYk1JRXJMd19QTFJwdkhvWGNwalJOM3UxRGVjNllJWFNmaU1WTVZYOExWZk9mT3Mx?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:08:32.932561Z",
+  "collected_at": "2026-09-02T17:44:54.200360Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.905173Z",
+        "fetched_at": "2026-09-02T18:38:11.477741Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.905182Z",
+        "fetched_at": "2026-09-02T18:38:11.477752Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.905187Z",
+        "fetched_at": "2026-09-02T18:38:11.477758Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.905191Z",
+        "fetched_at": "2026-09-02T18:38:11.477763Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.905196Z",
+        "fetched_at": "2026-09-02T18:38:11.477768Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.905201Z",
+        "fetched_at": "2026-09-02T18:38:11.477774Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.905205Z",
+        "fetched_at": "2026-09-02T18:38:11.477779Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.905209Z",
+        "fetched_at": "2026-09-02T18:38:11.477783Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -280,20 +333,20 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Phulpur MP lays foundation stone of Gautam Buddha Meditation Park at JIMARS - Hindusthan Samachar English",
+        "headline": "MP Ujjwal seeks more flights operation from Prayagraj Airport to major domestic destinations - Hindusthan Samachar English",
         "source": "Hindusthan Samachar English",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPel9ZLW4zRlRJNzlNQ3dkZzJKNnpoYmFpTnFMZmxYVnFvTFd4dFBUYkhZQnR3bjJFaFJvSUtNQm1IbTBTY3VmWUo1YXVtV1lvM2l1dmhzcUJYTndQTlA3bThwODQzazQ2MlJ1SG9sTURtalE1UUQ4dGhJdnV2TEhXdkt6V21lRGhuYldRelgxNVZ5dw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUVMbU5Pbl9UV0l0RUFhVXpLdzFVbXhPb29tLVJsRFN6OEZsX2RILVVwYkdLS2VqeW80aHF3SEFBNERPZVNhWEkxNDF4NFBWNlVYc3FIMTZ3ckVfUmJXZm1MNEFzdmRHUGJTTHc4bWF2bGRwSDJYOTFoQ3Q5SEQxbGFBSWlfQ0dLNEQzWkZn?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Jal Jeevan Mission scheme dedicated to Prayagraj village - The Times of India",
+        "headline": "Phulpur election results 2024: BJP's Praveen Patel wins - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbHlzc0JlTVpScXBXRm8tbGYzSWhnS0VZa2NGc3pPZ2dCVHVGYmdwenJfWVBwS21Dd1FlanhjWFBSdVBWWUdSZV9wUGRMVzB2R0VPRkYteDhYSHhSZFZkUHFvVzQ3aFFvdDRoUzVxVTBFRjhGWi1QRGNiMTNBS3JQSXMtZGxyOURuaEdXUjM3SGZmR2dZbzRoRzdMSENSakJYTWtNVHFHVzFnbFpvZEI3WjZuTGpNbTlGSGhaZzk2MVBGamlZRXZHZFlGUzhqd9IB0wFBVV95cUxOTkJXbnI4aDk4NUVLcW1nb2ctbEs4em5kcXhfNWR1ZE9hNlpZRWNYeDRJRXJhT3VidW0tSEthX0UtUE93UkFRZy1NVnNnbkdHSjh5WmprRWpyei1HWm82V0dTcGNRLVJNQUNxWThxcTk2UVBXMzZEeXlqemFVM0FSSVJ5aFpoVXk0bnlmYXQySTA1UjV0U3M1VXJlVVI0RlNxQjQ2Ql9hRlNiQzlMVUMyam91RW1QRkRCRkppODdKaTdnelEtSVBhYTdpTzB4YVo5Z2pj?oc=5",
-        "sentiment": "positive"
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNWUJYYWNaSzBMRy1ISS1wZzY4NTNmVmE3UGtwZUV3bVcySFRVNUpfWjg1ZWQ5SDFqYmJqRXE3OXBTLTdRNlQ5S2cxRnpIdVJOb0Q1eTZyNUpqbkRkeGM0dUFJalBZbTRvNnV1clk2RF94dG5Mc0NOeE8wWTJ5Y1Z2OHlyNE1PcTBrMkRhX28xUTRfcm4yV0dwRm1vV05TUTJzZkhjQ2ZoWmlFb3BaLW1STUJXUE9hUlFWM1k1NkxoUkdtTExkbGZZc0hUTnZWUHh2Y21lMDV1OWZzbmJIaS1CSUV3eXNTTXRBaThySXkzZHhOdnB1a0VBRXkxeks0Y0ZLTE1Gams3LTNPN0lsakRoZkE5NHZVZ19uQlBMNFBKa3N5eVMwUGxyd3JFV3dFZXNCZzBfdTNPVnphdE9CMTRYb0hYNXQ3S18tQ1dLWdIB0gJBVV95cUxQNG4tWHFzVHFveXBCRXRPTWJPNmRBVHR1a3h4eFJEeUVqdXF4Zzh0dHM3VlRaWElTcGRhdWZBMkpjcl93M2M3TlExNVRxclBKMlFkRE02WFo3QXJWcXZXLVRKSWlTVHgyQkJQZmh2SHQwTEpHMl9CbEhQaUpfN1dOa1p4RUFJSjZQZDl3eUxJX2F2T0N3U1RXdi1idy1Ic0xUcmJqdGhCN1FTNHYybmJ1aVE0bGIwOTFHTVo3OW9KdzgxaXRCZTl6a2o5MXY1NGNpUWh0YUhoTEU2eGFSYWZha3VSUzQwc2xPTlRrZ3hKcnllall6SzltaWZ6MVN3TFpHUnhaN0ExUHVMZXFBWkJxbEE3OC14cjFuNUthTjlJRG1uOEFWSzE3TlNkbnNhNmwwOWlzdXhERnFOd01DS25qTTNBNkVDbWF0M3p3OG1HT29nUQ?oc=5",
+        "sentiment": "neutral"
       },
       {
         "headline": "BJP Phulpur candidate Praveen Patel owns wealth over ₹50 crore | Hindustan Times - Hindustan Times",
@@ -304,19 +357,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "BJP MP Praveen Patel honoured with Sansad Ratna Awards - The Times of India",
-        "source": "The Times of India",
+        "headline": "Caste rules at Nehru citadel: Phulpur rues lack of development but eyes Patel consolidation - Telegraph India",
+        "source": "Telegraph India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWUNMa3BDb3U0MnJGb2pHWG1mQktTd0Q3VGRNUjZmN1YtUkpCSm5faGU3QXE1QUIyOGZxZFd4dHN6Zkl1S3l2M3Izc2E5N2pFN2xDRzNONEJoZTc3UXZHTWhYZXZPSE9WUlFza0JtZHhRdkxpc0MwaU1qY2hZc2NfalVXcGE3X09ScmdIc21VX0JMdGgwUkt1OG9OOG9NUGZrUnR1THBvckNkZEhBWlJoWnUtX3N0VTVhbXNJNlJPdzkyaWdIbTUtUjlCVdIB0AFBVV95cUxPNFk0MFlFREpkYW0zRTNsMTV5MTlTWHVwYnMySGR4QlVkb0lUS1MySnFQQmFibm9SamtjYWFlVFZTMmpzaWxPaEc3cXVqdDlVdGpfUU8wdUxTVV9FWko3ZklRTEVMVm9qdlV4cFhUeHdIelZvX21NVlJEWHVwSkEyUEY0VE1wUTJ4YTA3WkI3WVlmTXdTTENmUU1BVlNfbVRacFNHdTIwTG1wZ25sMmEzSE01SDVNZE9xYlNiaU1DS2JLMWk4V2M0ajlRa0g0Z0pl?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNY0VkdlhSTWNpcl9sZjRjRXY0Z1pqSW9rX2ZROEMtQ1dqSzFMdnpuZ0F2X3RXVk1sNHlIR0NlX01SRmZtZUo3bFJwRWRUMWlaSERrZkQ3ajY3bW5uNkZjOGM3TWtUdldicXAzU09FTzVYRlg0SHcwNG9LZ2duMThvUnpwNVpPbFVYMDM3b3NLTzl1cXJnT0JiQXFfR0YzcUR0bVIyOWtfM0tHWkdXU2ZwRXFPRlBwX2xldU9WOWNfRVhTU1ZsVXFCaFVETXJXWGVCSGNmOEtlQjAzd3JQTWFucmNHcjN1Sll6SkFCOUM0dk8xa1JybFRPbHFYNNIBgAJBVV95cUxPd2c3RjZtUkowaFZuMjVkalJKZUJyZzlZRUp6ZlNmQ0w2RXdIc1JQNEhNWGQ1dzRQREFOSmh2aGVWM2dHNTNIWDFVUEh6ZURLMFJTbldKdEc4cVpOUGsyVUpjXzE3UWZqYzctWmNESTh0Z1otYTN6eFVfM0ZFM2lmUXgzUXNPdU53Y01IQk9veVl2LWJuWDdjcDhWc0VJTU1oaW5GZWtOZWpjVlUxbGJTSWZvYnhzQzNTMVMyVFlFR0hVeDcyc2l6enZRUktHc0NuYk1JRXJMd19QTFJwdkhvWGNwalJOM3UxRGVjNllJWFNmaU1WTVZYOExWZk9mT3Mx?oc=5",
+        "sentiment": "positive"
       },
       {
-        "headline": "Nishikant to Kangana—who was class bunker, who asked most questions, a Lok Sabha report card of BJP MPs - ThePrint",
-        "source": "ThePrint",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – P - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ2d4WjRudEtBcm9rdFZ6Uk1fWUJrNVE4Q2pMb3ptNDR1OTZGeWJEYTlCVXhtcEtiTHlPV29uTnU5RElHM3hWOFZKV3NoeDl6ZVIxYV9iYms4bVZ3QWZPb2hpbzl0TVdIQnpad2pVTWJLNWUyTmt5S1VEM3dpWVUxbDFLV1gxVlRjR0hDWEdHNVhFTUJuTXdtZGVHNURzZzlSRzlySDdFNmZNcWo1S1NJcnVJVnZ1T3JHWnhabFl2YUJBU0FwZ0QzejZYLUpraDZITnlKd1NR0gHbAUFVX3lxTFBxLWwydENrWDhZakJDR055V0pjSkF4UndHelAzNnpZUXEtalItTGVfTnZOWHdYcG9nQ0VSUk5PNXlyb0ZkdXNlNlVoNVNjSFJURmRxVjF4eEw4UUFfSnI2dDV6WHdkVnpFR1VVMFpRUThPSlJTRzIyMWJER25IMnU4dTViaW5vaG8xbUlXU1E0MTc3RGFrdy11Y2JReTdIWUxITWxINmU5N2w2c29vekZ5dkwzNG9oeGQ1T19wTkRkWWstUmNKcWJjV3FYWV9OSVh5TEtTQkZleGhIVQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjZwNUtwenU5VW02dHZQbm9NYllpcUlBaGFlbmo0a2tWZHNvNVpiZkN6TnV2b1J6M0pTaUdzRlM4QmVWMlMwYlRvTFUteGRJT250a1JiM1J6U3h2N05nMWpvc2d4MUxnY3Y1eEVoVlM0NVhjbS1nLXFhRGNWWEx6Z08zdTFucmZHNVE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +403,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 77,
+    "starred_questions": 23,
+    "unstarred_questions": 54,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +419,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

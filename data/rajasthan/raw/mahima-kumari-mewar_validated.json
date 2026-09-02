@@ -4,16 +4,16 @@
     "constituency": "Rajsamand",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2577,
+    "myneta_candidate_id": null,
     "slug": "mahima-kumari-mewar",
     "house": "lok_sabha",
     "sansad_member_id": 5683,
     "profile_url": null,
     "canonical_name": "Mahima Kumari Mewar",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 52,
+    "age": null,
     "photo_url": "/mp-photos/5683.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Rajsamand",
       "state": "rajasthan",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 2577,
+      "myneta_candidate_id": null,
       "slug": "mahima-kumari-mewar",
       "house": "lok_sabha",
       "sansad_member_id": 5683,
       "profile_url": null,
       "canonical_name": "Mahima Kumari Mewar",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 52,
+      "age": null,
       "photo_url": "/mp-photos/5683.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:10.583735Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 11376000.0,
-      "liabilities": 0.0,
-      "net_worth": 11376000.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2577",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:51.797148Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 9.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 18.39,
-      "released": 18.39,
-      "sanctioned": 6.16,
-      "expended": 3.36,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:44:57.523063Z",
-          "notes": "Official eSAKSHI REST API — Works: 106 recommended, 70 sanctioned, 9 completed"
+          "fetched_at": "2026-09-02T14:46:08.646653Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:42:28.913683Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:42:28.911529Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 106,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 18.27079934747145
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 75.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:27:12.281028Z",
+          "fetched_at": "2026-09-02T14:42:28.910708Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Why BJP MP Mahima Kumari's no to Kumbhalgarh tiger reserve is unfashionable, not illogical - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMGtwOGhzZndpcVlpcUVoQWxNNWFRRzFNSVlUZ2owQUk3aGNzbXE3Ul9HVUhUMnI4LXdZMkFDYU1teXFpaHZxalZMZlhYSE5YTGQ3dExhSzZOS0hJRER3ZXBFckJVM2p5OW9HVXJObWdHQ1lVajZLX2FGY0dLVW1La2VQNThDSjdFaEFsbW44WDdIT21iX1JXeDVUTFA2RHRwa3BSVGtYVDVwVy0zRGZ0NUxHVWw2aVZFY2ozbEdHRC1zWF9ucF81NGJvc09naWJ6THptWEszTnZ4RE5uZEw4aXB5QURhYk9mMjlGQkhGZEjSAfYBQVVfeXFMT2hPTDJ5a25ZZWNOZUVqYVZRZFJ2anZkZkFrRGVZNFEwME1JekpxTGNzamRQRlUtYS1kQnVvOTZjcGxIV093ZUNsazhvaVpFNmUweGFjb2E3alliQ3JJc1JaeWhqTWhhbkpsLWRFUVMwbEItOTJlc0JOejJ3WGVBN1R0ZVlmNGhtQkNaNFlpd3MwVjJQeWU5Ym1qY0Fpd3RSVFRuZnJpU3JjS1lYZ3gxTXQ0cmlFNXZuUUZZX1Q1TU9NYkdfTEw2UTNSbnQ4bzVTS1JlVUpZcnVzT2lfV2ZxS0g3aEI1QUFDeFB1cUx2TERhVzh1aWtn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP flags 13 complaints against woman SP: Blames her for shooting, 2 deaths; SP says, 'Such allegations ... - bhaskarenglish.in",
+        "source": "bhaskarenglish.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHBwelhPRFJDN1hFV2xMZEJ6bnp5U25lR2tGQnJVQlpPR0g5ekU2TEVHM1JnaGh6cEI0MjlDTHlkVDFja3E5RGY3TEd3dkI0aWtQLTl0M0pYcXgtVi0xd3liM0hiaGRfQld3bms0U1hlZUl6bWdWX3pZb2lJcHhHbG00WXFib3VqOHhXQU0yUDdiX3Uta0ZWaHpIY29tWERJdnBRcmp2R3ZIU2xud1Z3QXYzWdIBuAFBVV95cUxPdGpQZ3dRbVBqRHdpMHpRWVNlUWZnc1VxMHNXMWlEQjRjdUpPWXJyLTc5WWI2Z3AxMUdBYkl6bWQtM3Z5bkdLeEx5YWR5SHp6V2RRUjB2eXMxSmUwVzBtNDNPSTZka0R4NU1SM21rM01JazI3TUYxWG12emdta2d4RjIxaUhEcUlhZngxSkRyeW5HZ2Fya0pPaENhbVRTY3VON3dpNE9aSm5oaUJMemxNcmJSMGZ6bjdh?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "My family known all over the region, don’t have to ask people for votes: Mahima - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNWRDRngwdFRuSmlGQ3Q2eThaYXNRLThsWVRmQ200SWlDQWtrUGVvMmtFYVpLQlhfeVlqS0VrWGl6dVJiR1hNOTJEcTczSG1OQWgyU3V6MXd1bjVmcG9qTDJTMDZRY0VBaGIwVFN6Smo0ZEMzN3dyM3lNeWtER2xfZzV1bVBpWks2aldFb1R1bndHRXRtNTYtNFpXaDFuSXVyQ3pMWVd2TW5MUlpVSU5KNHNMc2ZYRkctMXM3X05wczY0cEdOWm81YWVXMkwwUlNhd1FLb2ptREZsb0l3V05qSWtWVy3SAeoBQVVfeXFMTUFDWWkzaGo1a2VzblYzOXh1ellGVFJZOGRtNG9BMFFYVmZNXzNHbGpRMGZUaU1BckJiUnJOMF92T0F2TGwza09UZGdQUFhCeEVHWFA3dG16RUoyTFpnZWZnZlRNZnlBT2Zrb3R6UWlPb2VCT28xRnBoQU1wODdMNUJJd1VoLW5wbW0zLS1YWV9wQm9ZZEdLOXlkZzVLOFU1dmtoMVhDNmxnNGVEUl93Y0NRb242VTJyQmJRSC1maTQ1TUpwem14SXRXVzlxbTdYMG1YNWlIWkU4UWwxMUk5NmE0UnA4ckpGUWZB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "WION speaks to BJP's pick for Rajsamand battle - Mahima Kumari, daughter-in-law of Mewar's royal family - WION",
+        "source": "WION",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHFHNnI2ek1USWVWaWRWazJnY3pBVmVtcTduN2taMWl3QldLaHR5ckMxdTdHQ2h0bHFlQXRQa1FraS0zZ0pVZS1IOS1ORGtPcDFPZmJJemk0ZUs3SDRtYlAyeXJIZFNDX2ZwWWUtYVVYMjc2ckFhbzJydktzVlZQek9xSlVCZ3NFQ3NuLUl2VUprMExROEJ6VGZQNk5MY0xMaWY0aG9GQnU4U1E4dDdtbDJfNlE4ZTFRRE80Q2RkUdIBxAFBVV95cUxPUC01dldWQzhmTkJ0a205VjJLMW9EY09WaFlrbi1kMWdJNHNza29tYmFrMUo3emRHaHd6aTdhR3Q3dndLYXpXcnAxS3ozVFljbTFzN3A0RllpcHptS1RaUHJHWTFBZUgzdXgtTFk5NUxwejBTY3o4LWM5a3EwRll0c1ZNYmtEdVMyX2N4R0c0NVpuaE1NaERpOXViN1p4THl1YTRHeEVXQk84a0EwSHk0UEZsSm9fcE1WaDAwWUdnMDdNYTRN?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Former Chittorgarh MP Mahendra Singh Mewar Passes Away - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZG1EOGZIMExCNlVXMlZXLTFBejFnODUzQ0M0Sm1PZXZ3c0RsbXRLYkdzYTE4Y0pta212QzYzM3o0ZE5jMWswbHlpY0NZU1p6Z2d3ZDNsakI1djhYYkNEOU9ja3ZYMV80ME9PVUtyMXpJYm9ldG9EanNHY25Xc01oVnRUN2RZbEZscXNDT1Exd09MdVBPWjlVbTl0ZE40UU9RSXc0R1QwNDnSAa4BQVVfeXFMT1F6YmNTUnQ0UlBfbE9aNFpQd3Fvc2s0M1E5dnhuVDBvTzFJQzl3MkZaM2lHcnhfMGhweWMyNm5wdEZrSVUtNEpvcExlQTJBc2NyVHhRRzdhUVNRTzRPc2FNSE5GUUtNYnlwbGtCNzMxTzdpMm45VnpOcU8zUDRPLTViamVsRkpVZXRLbzQ4WUlSRU9qekpHejVWOW9XVG5aS0JpVldDd0RFbzZJVHFR?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:28:15.017079Z",
+    "collected_at": "2026-09-02T14:46:08.647472Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.049022Z",
+          "fetched_at": "2026-09-02T18:38:09.465196Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.049031Z",
+          "fetched_at": "2026-09-02T18:38:09.465207Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.049035Z",
+          "fetched_at": "2026-09-02T18:38:09.465212Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.049039Z",
+          "fetched_at": "2026-09-02T18:38:09.465217Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.049044Z",
+          "fetched_at": "2026-09-02T18:38:09.465223Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.049048Z",
+          "fetched_at": "2026-09-02T18:38:09.465228Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.049052Z",
+          "fetched_at": "2026-09-02T18:38:09.465233Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,27 +335,19 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "BJP MP flags 13 complaints against woman SP: Blames her for shooting, 2 deaths; SP says, 'Such allegations ... - Bhaskar English",
-          "source": "Bhaskar English",
+          "headline": "Why BJP MP Mahima Kumari's no to Kumbhalgarh tiger reserve is unfashionable, not illogical - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMGtwOGhzZndpcVlpcUVoQWxNNWFRRzFNSVlUZ2owQUk3aGNzbXE3Ul9HVUhUMnI4LXdZMkFDYU1teXFpaHZxalZMZlhYSE5YTGQ3dExhSzZOS0hJRER3ZXBFckJVM2p5OW9HVXJObWdHQ1lVajZLX2FGY0dLVW1La2VQNThDSjdFaEFsbW44WDdIT21iX1JXeDVUTFA2RHRwa3BSVGtYVDVwVy0zRGZ0NUxHVWw2aVZFY2ozbEdHRC1zWF9ucF81NGJvc09naWJ6THptWEszTnZ4RE5uZEw4aXB5QURhYk9mMjlGQkhGZEjSAfYBQVVfeXFMT2hPTDJ5a25ZZWNOZUVqYVZRZFJ2anZkZkFrRGVZNFEwME1JekpxTGNzamRQRlUtYS1kQnVvOTZjcGxIV093ZUNsazhvaVpFNmUweGFjb2E3alliQ3JJc1JaeWhqTWhhbkpsLWRFUVMwbEItOTJlc0JOejJ3WGVBN1R0ZVlmNGhtQkNaNFlpd3MwVjJQeWU5Ym1qY0Fpd3RSVFRuZnJpU3JjS1lYZ3gxTXQ0cmlFNXZuUUZZX1Q1TU9NYkdfTEw2UTNSbnQ4bzVTS1JlVUpZcnVzT2lfV2ZxS0g3aEI1QUFDeFB1cUx2TERhVzh1aWtn?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP MP flags 13 complaints against woman SP: Blames her for shooting, 2 deaths; SP says, 'Such allegations ... - bhaskarenglish.in",
+          "source": "bhaskarenglish.in",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHBwelhPRFJDN1hFV2xMZEJ6bnp5U25lR2tGQnJVQlpPR0g5ekU2TEVHM1JnaGh6cEI0MjlDTHlkVDFja3E5RGY3TEd3dkI0aWtQLTl0M0pYcXgtVi0xd3liM0hiaGRfQld3bms0U1hlZUl6bWdWX3pZb2lJcHhHbG00WXFib3VqOHhXQU0yUDdiX3Uta0ZWaHpIY29tWERJdnBRcmp2R3ZIU2xud1Z3QXYzWdIBuAFBVV95cUxPdGpQZ3dRbVBqRHdpMHpRWVNlUWZnc1VxMHNXMWlEQjRjdUpPWXJyLTc5WWI2Z3AxMUdBYkl6bWQtM3Z5bkdLeEx5YWR5SHp6V2RRUjB2eXMxSmUwVzBtNDNPSTZka0R4NU1SM21rM01JazI3TUYxWG12emdta2d4RjIxaUhEcUlhZngxSkRyeW5HZ2Fya0pPaENhbVRTY3VON3dpNE9aSm5oaUJMemxNcmJSMGZ6bjdh?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Call for New Rajsamand to Mumbai Rail Service - UdaipurTimes.com",
-          "source": "UdaipurTimes.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOam5kUjJiOUtxWVJKV1lwWk92TkZ0aVBsYzZHcUtSZFcwUzBJU0kxSlNiRlZGOVdubFI1QVFLLWZCQm5MYWRManJEUzJ5NUhWbW5qNEpXck1UTnE4VnpxUmdvTDJKMU00QWNUMDk3UVNzUmRZNlpGWWJIX2ZRcE04VzBWbG5ndjlLaXBya0RIc0JQUFVaMS1z?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Demand for Direct Udaipur–Mumbai Train Gains Momentum - UdaipurTimes.com",
-          "source": "UdaipurTimes.com",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWtTS25EQWpyeGlkX21mODVPMlktZThfNmNjS0NMZ2g1YUdYcXg4OC1iMzFyQkxNam95TVh6bDlWWEU1MlNMMnN4OTRpYjhCSklfeTBfT0lOdU1pZ2pVWHNwN25RNWFKQjVuQ2NZbTJkRTlLTVhrMjA2bFlqLVlYVHVsLTVWVGI1SjFaVno2ampIVmFPcC1iRkFNM1FrQk0?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -319,6 +364,14 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHFHNnI2ek1USWVWaWRWazJnY3pBVmVtcTduN2taMWl3QldLaHR5ckMxdTdHQ2h0bHFlQXRQa1FraS0zZ0pVZS1IOS1ORGtPcDFPZmJJemk0ZUs3SDRtYlAyeXJIZFNDX2ZwWWUtYVVYMjc2ckFhbzJydktzVlZQek9xSlVCZ3NFQ3NuLUl2VUprMExROEJ6VGZQNk5MY0xMaWY0aG9GQnU4U1E4dDdtbDJfNlE4ZTFRRE80Q2RkUdIBxAFBVV95cUxPUC01dldWQzhmTkJ0a205VjJLMW9EY09WaFlrbi1kMWdJNHNza29tYmFrMUo3emRHaHd6aTdhR3Q3dndLYXpXcnAxS3ozVFljbTFzN3A0RllpcHptS1RaUHJHWTFBZUgzdXgtTFk5NUxwejBTY3o4LWM5a3EwRll0c1ZNYmtEdVMyX2N4R0c0NVpuaE1NaERpOXViN1p4THl1YTRHeEVXQk84a0EwSHk0UEZsSm9fcE1WaDAwWUdnMDdNYTRN?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Former Chittorgarh MP Mahendra Singh Mewar Passes Away - ETV Bharat",
+          "source": "ETV Bharat",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZG1EOGZIMExCNlVXMlZXLTFBejFnODUzQ0M0Sm1PZXZ3c0RsbXRLYkdzYTE4Y0pta212QzYzM3o0ZE5jMWswbHlpY0NZU1p6Z2d3ZDNsakI1djhYYkNEOU9ja3ZYMV80ME9PVUtyMXpJYm9ldG9EanNHY25Xc01oVnRUN2RZbEZscXNDT1Exd09MdVBPWjlVbTl0ZE40UU9RSXc0R1QwNDnSAa4BQVVfeXFMT1F6YmNTUnQ0UlBfbE9aNFpQd3Fvc2s0M1E5dnhuVDBvTzFJQzl3MkZaM2lHcnhfMGhweWMyNm5wdEZrSVUtNEpvcExlQTJBc2NyVHhRRzdhUVNRTzRPc2FNSE5GUUtNYnlwbGtCNzMxTzdpMm45VnpOcU8zUDRPLTViamVsRkpVZXRLbzQ4WUlSRU9qekpHejVWOW9XVG5aS0JpVldDd0RFbzZJVHFR?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 75.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Rajasthan: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 11,376,000. MPLADS utilization: 18.3%. Parliament attendance: 75.0%. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:52.049768Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 75.0%. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.465918Z"
 }

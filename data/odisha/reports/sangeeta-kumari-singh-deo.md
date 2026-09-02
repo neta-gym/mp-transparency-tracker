@@ -3,24 +3,22 @@
 **Constituency:** Bolangir, Odisha
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 62
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (33%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.9 / 100
+## Composite Transparency Score: 60.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 0.7 | 25% |
-| Asset Growth | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 90.0 | 15% |
 | Parliament Attendance | 80.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -34,28 +32,31 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. PS Case No. 29 Town P.S Sambalpur Date 21.02.2021 | Section- 56 Disaster Management  Act, Sec- 3 Epidemic Diseases  Act (Sections: 143, 269, 270, 336, 353) [pending] 
+
 ---
 
 ## Asset Declaration
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 67.31 Crore
-- **Liabilities:** Rs 75.00 Lakh
-- **Net Worth:** Rs 66.56 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 88% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 6
-- **Expended:** Rs 0
-- **Utilization Rate:** 0.8%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,37 +70,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Facebook | [@http://www.facebook.com/sangeetakumarisinghdeo](https://facebook.com/http://www.facebook.com/sangeetakumarisinghdeo) | No | Yes |
+| Instagram | [@http://www.instagram.com/sangeetakumarisinghdeo](https://instagram.com/http://www.instagram.com/sangeetakumarisinghdeo) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Bolangir MP Sangeeta Kumari Singh Deo Wins Best Woman Parliamentarian Awards - pragativadi.com (pragativadi.com) [neutral]
-- Bolangir election results 2024 live updates: INC's Samarendra Mishra leads by 536 votes - The Times of India (The Times of India) [neutral]
+- NH-57 bypass road in Subarnapur gets nod - orissapost.com (orissapost.com) [neutral]
+- Bolangir MP Sangeeta Kumari Singh Deo Wins Best Woman Parliamentarian Awards - Pragativadi (Pragativadi) [neutral]
+- 2nd phase Odisha LS polls : 33% candidates crorepatis, BJP’s Sangeeta Singh Deo richest with Rs 67 crore assets - thestatesman.com (thestatesman.com) [neutral]
 - Bolangir Election Result 2024 LIVE Updates Highlights: Sangeeta Kumari Singh Deo of BJP Wins - News18 (News18) [neutral]
-- Bolangir lok sabha election results 2024: Bolangir Winning Candidates List and Vote Share - India Today (India Today) [neutral]
-- Sangeeta Tops Rich List - Tathya (Tathya) [neutral]
+- Sangeeta Tops Rich List - tathya.in (tathya.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **NH-57 bypass road in Subarnapur gets nod - orissapost.com** (orissapost.com)
+- ! **Bolangir MP Sangeeta Kumari Singh Deo Wins Best Woman Parliamentarian Awards - Pragativadi** (Pragativadi)
+- ! **2nd phase Odisha LS polls : 33% candidates crorepatis, BJP’s Sangeeta Singh Deo richest with Rs 67 crore assets - thestatesman.com** (thestatesman.com)
+- ! **Bolangir Election Result 2024 LIVE Updates Highlights: Sangeeta Kumari Singh Deo of BJP Wins - News18** (News18)
+- ! **Sangeeta Tops Rich List - tathya.in** (tathya.in)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Odisha: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Sangeeta Kumari Singh Deo shows moderate transparency with a score of 51.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sangeeta Kumari Singh Deo shows moderate transparency with a score of 60.0/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 673,060,630. MPLADS utilization: 0.8%. Parliament attendance: 80.0%. Questions asked: 25. Debates participated: 13. 1 warning(s) noted.
+Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 80.0%. Questions asked: 25. Debates participated: 13. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +164,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +243,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Sangeeta Kumari Singh Deo's MPLADS account: Released: Rs 15, Expended: Rs 0, Utilization: 0.8%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -237,12 +260,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

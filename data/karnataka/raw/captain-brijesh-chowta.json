@@ -4,16 +4,16 @@
     "constituency": "Dakshina Kannada",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1889,
+    "myneta_candidate_id": null,
     "slug": "captain-brijesh-chowta",
     "house": "lok_sabha",
     "sansad_member_id": 5627,
     "profile_url": null,
     "canonical_name": "Captain Brijesh Chowta",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 42,
+    "age": null,
     "photo_url": "/mp-photos/5627.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,94 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "112/2017 at Hullahalli Police Station, Nanjangud Dated 01.04.2017 | Section 127A & 133 of The Representation of People Act 1950, 1951, 1989",
+        "ipc_sections": [],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Prl. Civil Judge & JMFC, Nanjangud, Mysuru",
+        "fir_no": "112/2017 at Hullahalli Police Station, Nanjangud Dated 01.04.2017",
+        "case_no": "CC No. 199/2018",
+        "other_acts": "Section 127A & 133 of The Representation of People Act 1950, 1951, 1989",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "Yes",
+        "appeal_status": "Crl. P.No. 2675/2024 (482) Pending Before The Honble High Court of Karnataka, Bengaluru",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:29.559284Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 7056365.0,
-    "liabilities": 962010.0,
-    "net_worth": 6094355.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1889",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.608862Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 6.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.42,
-    "expended": 3.64,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:24:09.744039Z",
-        "notes": "Official eSAKSHI REST API — Works: 205 recommended, 140 sanctioned, 63 completed"
+        "fetched_at": "2026-09-02T14:35:54.513376Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:31:46.853409Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:31:46.850945Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 205,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 24.761904761904763
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +124,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:14.866596Z",
+        "fetched_at": "2026-09-02T14:31:46.849981Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +132,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Capt. Chowta thanks Ashwini Vaishnaw - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZENEYjRBcWFqYXBQNk5fM1I1bk50Y3lYV1BDTFRnbWVSSlpYRGpLamQ2c2FZYU5xUmgxbEVDRDkxRGc4eVZURVQzZnlFMEU3c18za2k4Z1pfQlhlRFBXWklaQTY4ZFhpQ3VKLTlmbTVJc0x1Q25OdE9meUhqVEQ3aHRhUXc1WEJKaGhCZ3U1LVYtRk1iQTFPcWxtUGRGQ3ptaXB4VdIBqwFBVV95cUxPVFZOWG9jLS1vc3BDc0JfUnlPaFgtbUhBNkpvQWViYkI5NzRXWE5Jd0VPQlVCWmJHZERTNnl4ZTNfYng3ZllHSHNpMDh0djJaQzYwbTdBX2RSMVZISVEwS2RhbXBaVWplbnFhaE9WTGlJMjFCakNkRi1NNXgzVmJvLXVQNUJGN0NleEpUYkl2RXhyV2YzbUZSRXY3YTFUb2dLODhRbUsyOGRVcm8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Waterfront project at 68%, key infra works reviewed at DISHA meet - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWE9xYVp0SkE3eFNENWFKWUlWZ2FiY0lha19kcHFYNXhzZGRlZ0tJRm12LVQ2SWw2MlljZlNua2FYcUxIZmxBVy1zZy0xQWFqdXNMMFIxRFpya3Fmc2lXX19hRVQwdDlFVktZR202bzIxN1U1WW85ckVmRlpiUENJQmZhV292eDlsYnFQLXRjZnFUSjN6bzIwQkdaM2ltb1FNdV9VcXFBUThWZWlNYjh0YXo0LWYyR2owTzRsT2szOGcwX1FWdEtxckdnUzB2NWFEZkgtWHVwNNIB3AFBVV95cUxOZ0JsTG90ZmZfRjVBdkdfbzdOOGxCbWQ5NGZaamdsSURQenhMWmtMU25SeThTZlBqZWFtWW44bjZzRU9nUVFFN1gwZmdDall1elhyMkRnNDBRVXFBcXEtSXBpcF9aZU5xZTFrc0NzY0ZzQ1ZTM1JpV0oteWRUZEJ1NUFpZ3NCMV9tUGFKOWtwaXhnQ3U2WWlHMEpfeUR0TFVZdkdVTlFtTUVQOEhkdHlOWEd6aGRUemtXWmZvUjJ1RUYtcGpIZ3ZuSC16YzA0SzlhaklBYWJPUFhIXzJx?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Integrating Mangaluru with SWR: Capt. Chowta urges Karnataka CM to throw his weight behind Railway’s decision - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOamNJak5BeVNQZl9YVjA2V3lOZnFYZTN3cXlCRERTeEhlSjU2ZFRpVk9xb0tzVE5FWUZWRm1rYll3MHFEaWtHbU5nZ290Vi05OS16ZDd5MVBjZTRNeTNJTk1SRXFkYXZjYV9WblU1SkZfLVJNTU1kRjFzWGVDOGU4ZjczemNiRmlsTC1pNDZPX0RDYnQ3bzU5MzQxWTh3V3g4MzBlMzlPeHctZjNicVBVMkxRSnhGU3h1cjNEWnFVWmRoVVRiYXFTNWczemFHdFNXa1R6ZFhrVXB4d01SdVNySDItX05pV3plMmhuMGhMdFhaRHpsaVBFeWl6Ym9RaVZCVXgw0gGKAkFVX3lxTE8wU0szSU5LOFgwWHZHLWlOMGNIZno2RG9zZTBNWFBUaURYT0d6eElxSk11bWVtUWp6dUIxUTRHdElRUXZPOUVqYl9EWTM5ekRxdjVtaDlNQTRjUTBhRWFRTUFWSmQ2cHZyXzdKRzNydG9iR2ZGLTFJNWhPbDdyUFgtNHFpeFBTVTlnQTYyQ0p5SklhcGJFcl9tNjdPVHJNX2daSHNITDFZWDdtcE5OUjRPbXFscm9DTkdvOVlSR1pqQl9iY25CQ1hUMHhUbmlmQ1l3dTdmWldXMGxtcEdzaXAzUjJhUFd2Y183Z1QxWmZvdmxTLXlta2tMeUF0eXlOejRqVHJwRWtBeTFB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Brijesh Chowta seeks overhaul of weather-based crop insurance for plantations - Deccan Herald",
+      "source": "Deccan Herald",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmItUTAtZnNsaXpJd2RNR2tMZGpFbTRmVnltTko2Wi1SNll5bnk4SkppVWxwTHNZcW9vM0Fta1RwRVNxQmRXRGU1dTFpV1JRLXlVaHhLTXp3OVRKcldlblJ1X1didFowNFpHVjBEZ1F4VFBwVm82RENyNjFic2VTZnFQQTQ3OUF5UVR4bjgzeWVIZmJpb09OUzhjUnVnYTVyaVFtUHZVdUxWUFpjbFltbE8ySHNUUnhnZlZ3aA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dakshina Kannada MP Brijesh Chowta urges Centre for urgent aid to combat arecanut leaf spot, yellow leaf diseases - Deccan Herald",
+      "source": "Deccan Herald",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOLWF1Y0RxQkpteFpONEpadW8yQzhHTkMyWE1UZWlxbEduNlo0OFFpdWZNVm1RejdTY1pxUEFrcm1MT2lsdGltY2FBaHZ3WkJIV0JEemNncGlyTmdjMmNGOHgwckVwdnVpeVRodjZzTmlUWTJCVTRUM05HNDRpYjhzX01hYWxBZWFGRTZJZ1VPR19hYTlmTm9PVkRtLWFzbS1TbE5obXVpRHM1MzAtbG5GVlkyN0dsanBNS3NLOG1aZXQ5cjhmRm4xdnJURURkVjlLUWVYN2R0SFc0TVZuOC1ET2hCckhLYnM4NS1DaDBkQ3R4RnlkXy01bg?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:18.096356Z",
+  "collected_at": "2026-09-02T14:35:54.514650Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +201,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.943968Z",
+        "fetched_at": "2026-09-02T18:38:06.479491Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +217,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.943977Z",
+        "fetched_at": "2026-09-02T18:38:06.479502Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +233,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.943982Z",
+        "fetched_at": "2026-09-02T18:38:06.479508Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +249,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.943986Z",
+        "fetched_at": "2026-09-02T18:38:06.479514Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +265,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.943992Z",
+        "fetched_at": "2026-09-02T18:38:06.479520Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +281,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.943997Z",
+        "fetched_at": "2026-09-02T18:38:06.479525Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +297,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.944001Z",
+        "fetched_at": "2026-09-02T18:38:06.479529Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,56 +322,89 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/CaptBrijesh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "url": "https://x.com/https://x.com/CaptBrijesh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/captbrijeshchowta/",
+        "url": "https://facebook.com/https://www.facebook.com/captbrijeshchowta/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/captbrijeshchowta/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/captbrijeshchowta/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:32:17.261140Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Mangaluru: Siddaramaiah govt has pushed Karnataka into debt, alleges Capt Brijesh Chowta - Mangalore Today",
-        "source": "Mangalore Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREV2N282TWJTR045M2dvOUxyU0hMd1VfNFc2TDlBUllsNjBRblIxdlFkc1htZFJVcW5yb243RUxsWkc0dzN0bFktUnBBYUM0VEJ2UVhBSkVBQkZJa1dETllkNlRFV0VNdFBFSkJhNHpIYUhDZWhkTnZXNDFZdlRrZFBUZWtkU3JTdnppcW55Nm56SEI4YXhsOGZXMWpiTG1UYWJtNnNROXN6TFoweDJINENqNDhGRDVVUzY2TXJMc0RfZ1FBdEE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Congress has pushed Karnataka from revenue surplus to deficit, alleges Capt. Brijesh Chowta - The Hindu",
+        "headline": "Capt. Chowta thanks Ashwini Vaishnaw - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMk5ZbkRRZzBRUVNnRncwUXo2cGp0cmpGdHBMX3lqcDU4MkJjS0w0YmkyNDUxbEk2Z3dnSENqUWhqTlVsbE1sQklOZXBVNnJCWnhKTzFEaTVhTVFrbEVILUNvZWw3NVRQcUJRSU9jSnpaYTJwU1FTOEFaS082dUJTSWNyaE5LM2Ezc3FhTFFIT2NZTFh2djMySkFJYmZJSk9YNG8zRW9LTGttclhfb0tXWWxuOU9XcUR3cVRWRGVRQ3JvRzhpXy0yQmwyN0ZnS2FSdU5mSVRwUjVQN3pKOUtUZC1WMTd4cjFYdzVZclNWbmRGdW_SAfMBQVVfeXFMUDJOWW5EUWcwUVFTZ0Z3MFF6NnBqdHJqRnRwTF95anA1ODJCY0tMNGJpMjQ1MWxJNmd3Z0hDalFoak5VbGxNbEJJTmVwVTZyQlp4Sk8xRGk1YU1Ra2xFSC1Db2VsNzVUUHFCUUlPY0p6WmEycFNRUzhBWktPNnVCU0ljcmhOSzNhM3NxYUxRSE9jWUxYdnYzMkpBSWJmSUpPWDRvM0VvS0xrbXJYX29LV1lsbjlPV3FEd3FUVkRlUUNyb0c4aV8tMkJsMjdGZ0thUnVOZklUcFI1UDd6SjlLVGQtVjE3eHIxWHc1WXJTVm5kRnVv?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZENEYjRBcWFqYXBQNk5fM1I1bk50Y3lYV1BDTFRnbWVSSlpYRGpLamQ2c2FZYU5xUmgxbEVDRDkxRGc4eVZURVQzZnlFMEU3c18za2k4Z1pfQlhlRFBXWklaQTY4ZFhpQ3VKLTlmbTVJc0x1Q25OdE9meUhqVEQ3aHRhUXc1WEJKaGhCZ3U1LVYtRk1iQTFPcWxtUGRGQ3ptaXB4VdIBqwFBVV95cUxPVFZOWG9jLS1vc3BDc0JfUnlPaFgtbUhBNkpvQWViYkI5NzRXWE5Jd0VPQlVCWmJHZERTNnl4ZTNfYng3ZllHSHNpMDh0djJaQzYwbTdBX2RSMVZISVEwS2RhbXBaVWplbnFhaE9WTGlJMjFCakNkRi1NNXgzVmJvLXVQNUJGN0NleEpUYkl2RXhyV2YzbUZSRXY3YTFUb2dLODhRbUsyOGRVcm8?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Karnataka pushed into debt trap under Siddaramaiah govt: MP Chowta - The Times of India",
+        "headline": "Waterfront project at 68%, key infra works reviewed at DISHA meet - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYzRUUk5mOEo4Z3dtQ0poOWZ4TmFDRWtoSERGZkZFTWZVc0labFZnVTMwS2l1X1NPbXhkQTRtWEU5V0RvaEhkS2xnc0JfMWdEVDBwUU9ESHZHNTNyeERrTjdJZWNuVU9SM0xYV05TOGVPeEpYTW5zQzhya19UQjBiMGlaQlI4NndkbmpOYVVkbFdHYzFiLWlSbnZnOEJOOGhBMmhWYlhwaWlJTHpGRzdWM0lvQ1FFRGZ1YnhMTGtqVWtSdFdSVVFtRmRkR09EbG52dHZqV3BkY1Jmd9IB3wFBVV95cUxNZk5QNklSVHpfR01kUVVTM2dNQTBrY3o1ejQwVFpjWTNxaWxYaE5jYl9GbndkNUdFWW51ZXgyZDVReHhxRlZzeHMwLTBya1pXbDliamxuaGdrcTBNVV9fbXlIbkItSHo0WDJFc2syWGVpenlkdGZSUmNyd1lyWUEyT1E5X0wtZ2dHMEF0TkNPbXRBbkVQSUxBQVMyUUJ4aWk5WmZJY0l1UGFROEMwRXYzYWFrZkhoSU1Ba3RiekJySlpiMjFlZld4RDVUeGlCOUNyMmZXdV9UbjhKdlZkX2Nj?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWE9xYVp0SkE3eFNENWFKWUlWZ2FiY0lha19kcHFYNXhzZGRlZ0tJRm12LVQ2SWw2MlljZlNua2FYcUxIZmxBVy1zZy0xQWFqdXNMMFIxRFpya3Fmc2lXX19hRVQwdDlFVktZR202bzIxN1U1WW85ckVmRlpiUENJQmZhV292eDlsYnFQLXRjZnFUSjN6bzIwQkdaM2ltb1FNdV9VcXFBUThWZWlNYjh0YXo0LWYyR2owTzRsT2szOGcwX1FWdEtxckdnUzB2NWFEZkgtWHVwNNIB3AFBVV95cUxOZ0JsTG90ZmZfRjVBdkdfbzdOOGxCbWQ5NGZaamdsSURQenhMWmtMU25SeThTZlBqZWFtWW44bjZzRU9nUVFFN1gwZmdDall1elhyMkRnNDBRVXFBcXEtSXBpcF9aZU5xZTFrc0NzY0ZzQ1ZTM1JpV0oteWRUZEJ1NUFpZ3NCMV9tUGFKOWtwaXhnQ3U2WWlHMEpfeUR0TFVZdkdVTlFtTUVQOEhkdHlOWEd6aGRUemtXWmZvUjJ1RUYtcGpIZ3ZuSC16YzA0SzlhaklBYWJPUFhIXzJx?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Capt Brijesh Chowta hears public grievances in Mangaluru - newskarnataka.com",
-        "source": "newskarnataka.com",
+        "headline": "Integrating Mangaluru with SWR: Capt. Chowta urges Karnataka CM to throw his weight behind Railway’s decision - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2tCNGxvUlhfaWdsYndxREMwWTNaYW9OSXVEUmFHYXJJN0MwRE56X3JFQ21GR05OUU9UandOM29YNS1HTjV5R1JJVGlkSVlLY01KVXdDa0p3NklDN2VjVElrTnhwaEs5TnBfQ0ZsV19ITFNmQkwwbkdmTER0UXlGNk4zNVBkVFoyNDdpUmowUm9uUFU4blgzUTR5V0J6anpreTlvTm50OEk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOamNJak5BeVNQZl9YVjA2V3lOZnFYZTN3cXlCRERTeEhlSjU2ZFRpVk9xb0tzVE5FWUZWRm1rYll3MHFEaWtHbU5nZ290Vi05OS16ZDd5MVBjZTRNeTNJTk1SRXFkYXZjYV9WblU1SkZfLVJNTU1kRjFzWGVDOGU4ZjczemNiRmlsTC1pNDZPX0RDYnQ3bzU5MzQxWTh3V3g4MzBlMzlPeHctZjNicVBVMkxRSnhGU3h1cjNEWnFVWmRoVVRiYXFTNWczemFHdFNXa1R6ZFhrVXB4d01SdVNySDItX05pV3plMmhuMGhMdFhaRHpsaVBFeWl6Ym9RaVZCVXgw0gGKAkFVX3lxTE8wU0szSU5LOFgwWHZHLWlOMGNIZno2RG9zZTBNWFBUaURYT0d6eElxSk11bWVtUWp6dUIxUTRHdElRUXZPOUVqYl9EWTM5ekRxdjVtaDlNQTRjUTBhRWFRTUFWSmQ2cHZyXzdKRzNydG9iR2ZGLTFJNWhPbDdyUFgtNHFpeFBTVTlnQTYyQ0p5SklhcGJFcl9tNjdPVHJNX2daSHNITDFZWDdtcE5OUjRPbXFscm9DTkdvOVlSR1pqQl9iY25CQ1hUMHhUbmlmQ1l3dTdmWldXMGxtcEdzaXAzUjJhUFd2Y183Z1QxWmZvdmxTLXlta2tMeUF0eXlOejRqVHJwRWtBeTFB?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Dakshina Kannada MP Captain Brijesh Chowta demands ban on duty-free import of arecanut from neighbouring countries - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "Brijesh Chowta seeks overhaul of weather-based crop insurance for plantations - Deccan Herald",
+        "source": "Deccan Herald",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPakpJeF9xSWpBWHY1NFp4dm9iVmtJVHRGdzFlaE9TUXFjekltM3hUQUlSMnR6RFNLTXF2Tk8xMDJXanVNNmdmWGRzTmxwZmlFWTVQelhQbEl4djJ0TkhDMTVMdHRvSnZrQWlRNE1ncG1ZN2drZ3RHcGhaU050Zjd5Qi1UR2d4TVhOVWtCUWF0YVh0aGwwN1k1eHVuT0F0aXBzd1p5enRlV1VDZ2xaSzdscG15R29pdVlqcmZtRDlaSEVEdk9saFBiWE43aTU2d3c5ZkstMUhrR0JXUmgwSnlBcm1PTFp5NmJGcWFGV29WdVM1emY4ZW9sRUJvcUQ1R2NjOHdtU21Fek16d0RQdlRPanJubXZudXBiRi1LdlpfQzM5MXh4b0gxbA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmItUTAtZnNsaXpJd2RNR2tMZGpFbTRmVnltTko2Wi1SNll5bnk4SkppVWxwTHNZcW9vM0Fta1RwRVNxQmRXRGU1dTFpV1JRLXlVaHhLTXp3OVRKcldlblJ1X1didFowNFpHVjBEZ1F4VFBwVm82RENyNjFic2VTZnFQQTQ3OUF5UVR4bjgzeWVIZmJpb09OUzhjUnVnYTVyaVFtUHZVdUxWUFpjbFltbE8ySHNUUnhnZlZ3aA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dakshina Kannada MP Brijesh Chowta urges Centre for urgent aid to combat arecanut leaf spot, yellow leaf diseases - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOLWF1Y0RxQkpteFpONEpadW8yQzhHTkMyWE1UZWlxbEduNlo0OFFpdWZNVm1RejdTY1pxUEFrcm1MT2lsdGltY2FBaHZ3WkJIV0JEemNncGlyTmdjMmNGOHgwckVwdnVpeVRodjZzTmlUWTJCVTRUM05HNDRpYjhzX01hYWxBZWFGRTZJZ1VPR19hYTlmTm9PVkRtLWFzbS1TbE5obXVpRHM1MzAtbG5GVlkyN0dsanBNS3NLOG1aZXQ5cjhmRm4xdnJURURkVjlLUWVYN2R0SFc0TVZuOC1ET2hCckhLYnM4NS1DaDBkQ3R4RnlkXy01bg?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +438,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 24,
+    "starred_questions": 7,
+    "unstarred_questions": 17,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 46.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +454,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

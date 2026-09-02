@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 110448824.0,
-    "liabilities": 12855662.0,
-    "net_worth": 97593162.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 60.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.55,
-    "expended": 3.28,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:08.334727Z",
-        "notes": "Official eSAKSHI REST API — Works: 443 recommended, 409 sanctioned, 134 completed"
+        "fetched_at": "2026-09-02T14:46:43.568328Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:42:54.944493Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:42:54.941339Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 443,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 22.312925170068027
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:07.367896Z",
+        "fetched_at": "2026-09-02T14:42:54.940307Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Public Money as Political Weapon: BJP MP Mitesh Patel’s Warning Raises Alarm in Gujarat - Vibes Of India",
+      "source": "Vibes Of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlpBRzJrdjN1LXAtTjRTdTdrRXFzbm9NM2NVX1Itc0F1YXNUeVY0RUxhQmlRMnZPeVlpb29MQk5wODFFTjhrVERWa1pGdVAwVmF2ZWFqZjN0MnZTYWZQM0ZLcXRJZVMycnhvM09CMUhIcDVDU0JTUnY0dUZCSHY4VHVKMzJ6b3B2OENMVlk5bTVnc0NscFd0dEx6eU9rbE1odWhZRHkxcG15dUhE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lured to Thailand for jobs, Gujarat sisters rescued from Laos after 20 days - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGxpUEdrSlFJNHFac2xoZFpnUWZKYklzU2ZPbVBTcS15d3U3amRvRTVteDRGdVBpRzh6TUg5ZzBCZTFOeXlWWk5saWpHdS0zVVdKaEpzMm9wVWgyVTFQc3l4QkNZVXdueU1halVmclNuOU9EWGtMd3cyUEVlMGRSNjJIUHctcUpOa3htMmRrLTZxVTdDZHZ4YWlvOGVtSFRLUTVJUk9rSktMMXMyV3BuQlphZm9fMGRmYVc1WWZwb0FCRFZOOVdJ0gHMAUFVX3lxTE56cUZ2dFhfOWNQU0hUX1ZTdGlwY2p2cGZySU1taWo2U2UzYURzeFBFWVJ1U3A4X29fRERBTVFuRjEzZzVfaXVBUW9MRDlnT1g4ckgyV3Q5NTRyRFhLRklodEpERWJRelFpdjlNYnJOemw4cU1QZ0YyR3hwSjlqVnZmNXZ6MTdqNFluZWE4SmticWxhV0dxd0Y5bFZNM2xtNFpvYko0REpxcjhYWE9GaV9JZ3A3ZndZNkp6YWZiNElIMnp4aUpnVV9IQWNrbw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gujarat plane crash: It was to be a reunion in UK. Now, Vasad joint family mourns loss of 3 members - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWVNUaElzdDQtMEJXZDhMbEx0QnB1bG1qSGY1UVB6RG55X2pUcEJpcWlnZ1I4T1dKOWptWVhiQmpBZVpHS3JRWDhGVTlSemhsZERJcWE5SDY0dHBMZ1RpOFpwMWdWeVo3elZuUmkydE1aN0l6R3Jvd0JnX0tJQ3Q3UU9RVjR5M0dFTmM1TU5uWVpYLTM0ZVYwem9WanBfU0drQXJsQ2xaZjZLN01qNlBzalVGcjltemM1VjhUdmxuU3M2dWYxNlRNLUloRFd2cW11WW5YNEJka21BZzUyTnN3cjUzVzN5N01CakdxWFZXZm16UWdhU2ZF0gH8AUFVX3lxTE1JRnZid0lURmhDZGRrSlZLVU1sWllVRmFTcXBIdEFxanVqRFFoWjUybFVwYjZtTFN1UjNLVnV5RU9rdHM3SVg1RVlkZFZuX2ZzVGNzT2ZLVjlpTmNZQUUzcTYtX1F0ZlVtTjdLTHY5amVaZDBFV3N1QXlMaDdCd0JYdE5qS1pEMGdoR0lxRGYycVM0d0FPdmFhdFVsc3VvWFZjc1N2cks3cUZTcjB1T1VtVi02aHJkMzJXSzRfaE5rbHdPNF9jUUZPTHBZOXJFV2I4Q0VyRzk4Q2h0Uml4U1ZUYmNwYXpEb28tRXJ6SGwxd1YyckNMdGJwUHVhYQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP candidate list 2024: PM Modi, Amit Shah, others feature in first list of 195 candidates | State-wise full list - Livemint",
+      "source": "Livemint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd1dOb2dPOG5RQzJFRzh1eWJNUlh1WXlTZU4yY3ktb0gyaWJCN3AwRnFBbnhXQTBqcWRKekEzczZEV0VidUdkOGFtcE1IQndNMUNEdzJkUElsLVVDdFNMLWp1YmtEaUdrRDFMVFEtV004cERXOHlQV0QzRTNqYVR0dGl5RkY1cV9ld0ZwSTFnbm12XzZoUjNsY2dDWFV5eVFLV3ZOaWoyMnB4elJRckF0ZlhmZ2l1R1d2YnBXV3owTWFZZEdueGotSy1ILWdCN05MVGJrZjg5SUhacXNNZ2c4bzBMMU5IcFJ1QWRiTVdjWkFYVF96VkHSAfsBQVVfeXFMTlo2eElsY3NmYXROTGRoNmNLLVlkM1RSSGN5dEtXTmhSX2JzZVgzY3FfWWFzZ2dtdndpdEFZcm1oajZNTTAzNUQzbnZwWHFlWW8yM3FrdGhpYjVxdkYtOFdWWjR3QjFOYXNFWDdKcUxJdmtPSnprS0NWR0pCbnpBZ2w4aGI3QzFGT1IzZ2trY1lVbjlwNnZXOGY1emRSTGtxcVd0QkFqTzVja3dqQ09kOTRVUFUyV2dqMWJtZERialJXLTVwNHhySTNnSmE3WTBNR3Bhdjloc0ExUmFqaVQzQk95NHQzR1RXUFU2TFlfZU85ZVpwYkdYcWdGVkE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Who Is Mitesh Rameshbhai Patel Bakabhai? BJP Candidate From Anand Constituency - Times Now",
+      "source": "Times Now",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRFJFYVM2WVhxRXNYM1phdXBBNXBnS21mVWp5SjNDam80QmpIcUlGUXlCSXVNb3lRZ2ZtdktfN0h0YnljRVEzSkh4end4dE10RmlFQjFienBNSWV2OFpnT3NWRm5fT3Z3TFU3Ym12VUYxeEJ2Q3ZQME5fSHZjNzloVGpDdy1hUXRTZTlfXy1iZk85WEZoTzdGbERMaHp5TUtZLWVEaXhwZll1Q1BNdEhiRkRJN3pmSUJKNmMwZVI4aWNLWV9YRG5maldDUFpoa2vSAdQBQVVfeXFMTkRjTW1ZV2dybFJfdVVmaHpZUmJMT1dPSG5BQXlwZF9CTV9QalYyZ1picEtsYXBweVNURlBnaGJLNVBSdG9mRDZaV0NRLWhSNThlb3RIVnFnNC1PbWRWQjJ1WC1ET1BqVjFVYTZXeGFxUHdjMjZWNzRCNUUyNEs5ZjZnR0xsRTZCeWdhUWlWYVA3T1pPT2Z4aUJ5U0Vfd2hPUTJLb09WNUg4dVNWNTBkZUlZT0ZzSkJXSHotODlHNmJWQjhxelRCd0ctbU95eTFHTC1kcUI?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:28:07.387741Z",
+  "collected_at": "2026-09-02T14:46:43.569273Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.140957Z",
+        "fetched_at": "2026-09-02T18:38:05.746742Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.140965Z",
+        "fetched_at": "2026-09-02T18:38:05.746762Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.140970Z",
+        "fetched_at": "2026-09-02T18:38:05.746770Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.140974Z",
+        "fetched_at": "2026-09-02T18:38:05.746779Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.140979Z",
+        "fetched_at": "2026-09-02T18:38:05.746788Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.140983Z",
+        "fetched_at": "2026-09-02T18:38:05.746797Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.140987Z",
+        "fetched_at": "2026-09-02T18:38:05.746805Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,26 +296,51 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@miteshbhaibjp",
+        "url": "https://x.com/http://www.twitter.com/@miteshbhaibjp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/@miteshbhaibjp",
+        "url": "https://facebook.com/http://www.facebook.com/@miteshbhaibjp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "@miteshpatelbjp",
+        "url": "https://instagram.com/@miteshpatelbjp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:43:07.259455Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 6,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 6,
     "top_headlines": [
-      {
-        "headline": "Anand election results 2024 live updates: BJP's Mitesh Patel wins against Congress' Amit Chavda - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNXzIxUmc5bUlGVHFnM1hjNVM0QVQ0MkwyU3FiUjJva0Z6QjVLUVBDNFNXdGk5Z1REeGNFUTNSdHZOZUVlZFk0ekRQbkVOLWVfaEJNcmlmZHpyRlYxbktLTHFqYU5hWEtQMS1qNm1IbHJPZEdRYWpSVnM3ZUdPbkliX292anRkSjhrblJNcG1FSTdrOEFKcExqYTB4ZlF2V0d1NkZodHNsQ0FNNUI5dTR1WVpLbmhwR1FyM1hKOHZ5SENWM2xUZ2F2eUQyX1h4RzVIT3Q5TXEyUnI1TDBDT1hKQlVBTDhZS1hGVnlxNm5Ma2VBWlB4azNSd2ZMYVI5dDFjNWVUV1BPRXdKbjBuMFBvazQ4Z3JLZFI3ZExpVmJsRldsUdIBpwJBVV95cUxOYzhBOHJuaHl6RklIZHphcmk0MV9jTWo1dlRVbHdoM2pHclN1VWEyaWJJLS12NmtPYzJnaWk2MTZLRGJCTUtYc2NyQlBQN0t3NEpKb016V3FJYmtnZmRiRFBpM1pCX1lFYlJrc0ZtOUIzM1V1aHM2bWZaVnoxeWxheWI3NFRIelQtVTl2N2VNXzMtckRzdnpsU09uTms3WWJFeHgweGtpNURSWkhGbHZQTlhlbUt4NU9WMDMxWE1tcDNNMVQ1Q3BkN0s5NC0wbFVzSFQ3eHg3LTZPWEVZTlZvTTZLY2JJWW4wUllpcHl0SmNwaEFCb3FTcWpkZGg1OEo0aXQxaEtKRWJmQURfdUNaOW1JSHNqZnc2TVNOTnB1WHRwRi1HMXVn?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Public Money as Political Weapon: BJP MP Mitesh Patel’s Warning Raises Alarm in Gujarat - Vibes Of India",
         "source": "Vibes Of India",
@@ -269,31 +350,39 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Gujarat Assembly election: Congress fails a re-run of 2017 in Anand as BJP lodges win - India TV News",
-        "source": "India TV News",
+        "headline": "Lured to Thailand for jobs, Gujarat sisters rescued from Laos after 20 days - India Today",
+        "source": "India Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmpjVnJZcDdUeGlUUEdCNUVPYW9IV1ZjVVNqcmh0Z3JUWFo2czBxMzFMOF9qRnJaMzhYdE9KVXNteW9ILXQxeUh4ZS1iNXhicU1EcTBTaWlacko5eERqZDktZ1BDaVpfbnVueFMtQ3YwTUZrdWZwRkJwcUg4YVdUUDRuVHc4S05yRFQ3M0oyMnc1VDFxUUFmTTBfemZDNnRRTGs5RktMeUZFTF8zd19kTlkwbXU1UGYyRE10ckQ5RG1Fcl9idzZ5WC14RTdDTjZrbWlLZVBUM2RFcVFBTWdPZjBOdzl3OGMydnVTNE9GONIB9AFBVV95cUxNTjg3RUVYU1BOSkxITWt2MTE2bVpNQUlqdE9EeHZoVXozSFNnMThRNXR5NU9JUlB4LTRDN040aFdwejJRT1JPcWxCOVFIZW93ZkFxNjBNZnBHdU5QbVdqanRhTkxGXzV1WUQ2YU1LVEVpSzRyS244TUtPWWg3WW9FeE9QY1JPSU8yLVFBTzhHc3ZpaWQ2cXNPZnIyVXNKRUZqWlpHNERodlhRVmJUV2lZVm53S210bWQtUWtVdGgwS2p5YlZnU2tLTFppWXE1WTJJbDBkWjFWMG53cFlJbWtHWlQtVk4zZ2V2WHIydW1NdGhGZnlM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGxpUEdrSlFJNHFac2xoZFpnUWZKYklzU2ZPbVBTcS15d3U3amRvRTVteDRGdVBpRzh6TUg5ZzBCZTFOeXlWWk5saWpHdS0zVVdKaEpzMm9wVWgyVTFQc3l4QkNZVXdueU1halVmclNuOU9EWGtMd3cyUEVlMGRSNjJIUHctcUpOa3htMmRrLTZxVTdDZHZ4YWlvOGVtSFRLUTVJUk9rSktMMXMyV3BuQlphZm9fMGRmYVc1WWZwb0FCRFZOOVdJ0gHMAUFVX3lxTE56cUZ2dFhfOWNQU0hUX1ZTdGlwY2p2cGZySU1taWo2U2UzYURzeFBFWVJ1U3A4X29fRERBTVFuRjEzZzVfaXVBUW9MRDlnT1g4ckgyV3Q5NTRyRFhLRklodEpERWJRelFpdjlNYnJOemw4cU1QZ0YyR3hwSjlqVnZmNXZ6MTdqNFluZWE4SmticWxhV0dxd0Y5bFZNM2xtNFpvYko0REpxcjhYWE9GaV9JZ3A3ZndZNkp6YWZiNElIMnp4aUpnVV9IQWNrbw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Mitesh Patel (Bakabhai) - News18",
-        "source": "News18",
+        "headline": "Gujarat plane crash: It was to be a reunion in UK. Now, Vasad joint family mourns loss of 3 members - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlNQRVRubnhPZ0xqR0tyY2k3WHBCWkYxNlpTeEd0Y01FUmZKZTJOdklpRDFmRDNjTE1JMzA5NUg3WHhDUlI0UFVFOTJXcXNkVjNmQlVuSG5uamFNWUxiQU1jSXBJOVNmckJLTnJwN0k3Mk1TRzJMQ2tqRTNwZ2w3UHhWUkNwM3I1djUyLWhpc0xBdE5FdnJWMWwxR2g5R0dHTEJRdmdWUlhoWFFYeHc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWVNUaElzdDQtMEJXZDhMbEx0QnB1bG1qSGY1UVB6RG55X2pUcEJpcWlnZ1I4T1dKOWptWVhiQmpBZVpHS3JRWDhGVTlSemhsZERJcWE5SDY0dHBMZ1RpOFpwMWdWeVo3elZuUmkydE1aN0l6R3Jvd0JnX0tJQ3Q3UU9RVjR5M0dFTmM1TU5uWVpYLTM0ZVYwem9WanBfU0drQXJsQ2xaZjZLN01qNlBzalVGcjltemM1VjhUdmxuU3M2dWYxNlRNLUloRFd2cW11WW5YNEJka21BZzUyTnN3cjUzVzN5N01CakdxWFZXZm16UWdhU2ZF0gH8AUFVX3lxTE1JRnZid0lURmhDZGRrSlZLVU1sWllVRmFTcXBIdEFxanVqRFFoWjUybFVwYjZtTFN1UjNLVnV5RU9rdHM3SVg1RVlkZFZuX2ZzVGNzT2ZLVjlpTmNZQUUzcTYtX1F0ZlVtTjdLTHY5amVaZDBFV3N1QXlMaDdCd0JYdE5qS1pEMGdoR0lxRGYycVM0d0FPdmFhdFVsc3VvWFZjc1N2cks3cUZTcjB1T1VtVi02aHJkMzJXSzRfaE5rbHdPNF9jUUZPTHBZOXJFV2I4Q0VyRzk4Q2h0Uml4U1ZUYmNwYXpEb28tRXJ6SGwxd1YyckNMdGJwUHVhYQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Gujarat's Anand to see clash of veterans - The Hans India",
-        "source": "The Hans India",
+        "headline": "BJP candidate list 2024: PM Modi, Amit Shah, others feature in first list of 195 candidates | State-wise full list - Livemint",
+        "source": "Livemint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVmJCdVh2SUJrdDBfSy00N3lONG1MYlIzUm0yME1sbnB5MngxZGZKYm83akNOQWJiNVEwdjJRaS1EZVZjTUJXV2RBU2ZvYnJvM3NGNUFXZkNPRnRrT1BzNjhJTHBfM3phYno0UmpZenZJOXdlbE40ZkZxVWpOdzhRclpjTG5Jd2xCc2EwYkJ1YzRndTTSAZgBQVVfeXFMUFJqYmViOTVMc1paQ2s2MEQxUHllNkpiWm1MbHJRbjQ1bElpMVpHQ24zQnpRMWVKcExyYUdSTEI2RU56bUhzbVRxMGIyZ3lHNVg2MjJLQTd2d19lSzFVUTVnQzZra0NDM2cyM3k4LWlxbkV0WnN3VFRvUVBkMF9mZU1MTFBiV0dTbjdzUWQ4Rjg1U1ZING9lQU0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd1dOb2dPOG5RQzJFRzh1eWJNUlh1WXlTZU4yY3ktb0gyaWJCN3AwRnFBbnhXQTBqcWRKekEzczZEV0VidUdkOGFtcE1IQndNMUNEdzJkUElsLVVDdFNMLWp1YmtEaUdrRDFMVFEtV004cERXOHlQV0QzRTNqYVR0dGl5RkY1cV9ld0ZwSTFnbm12XzZoUjNsY2dDWFV5eVFLV3ZOaWoyMnB4elJRckF0ZlhmZ2l1R1d2YnBXV3owTWFZZEdueGotSy1ILWdCN05MVGJrZjg5SUhacXNNZ2c4bzBMMU5IcFJ1QWRiTVdjWkFYVF96VkHSAfsBQVVfeXFMTlo2eElsY3NmYXROTGRoNmNLLVlkM1RSSGN5dEtXTmhSX2JzZVgzY3FfWWFzZ2dtdndpdEFZcm1oajZNTTAzNUQzbnZwWHFlWW8yM3FrdGhpYjVxdkYtOFdWWjR3QjFOYXNFWDdKcUxJdmtPSnprS0NWR0pCbnpBZ2w4aGI3QzFGT1IzZ2trY1lVbjlwNnZXOGY1emRSTGtxcVd0QkFqTzVja3dqQ09kOTRVUFUyV2dqMWJtZERialJXLTVwNHhySTNnSmE3WTBNR3Bhdjloc0ExUmFqaVQzQk95NHQzR1RXUFU2TFlfZU85ZVpwYkdYcWdGVkE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who Is Mitesh Rameshbhai Patel Bakabhai? BJP Candidate From Anand Constituency - Times Now",
+        "source": "Times Now",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRFJFYVM2WVhxRXNYM1phdXBBNXBnS21mVWp5SjNDam80QmpIcUlGUXlCSXVNb3lRZ2ZtdktfN0h0YnljRVEzSkh4end4dE10RmlFQjFienBNSWV2OFpnT3NWRm5fT3Z3TFU3Ym12VUYxeEJ2Q3ZQME5fSHZjNzloVGpDdy1hUXRTZTlfXy1iZk85WEZoTzdGbERMaHp5TUtZLWVEaXhwZll1Q1BNdEhiRkRJN3pmSUJKNmMwZVI4aWNLWV9YRG5maldDUFpoa2vSAdQBQVVfeXFMTkRjTW1ZV2dybFJfdVVmaHpZUmJMT1dPSG5BQXlwZF9CTV9QalYyZ1picEtsYXBweVNURlBnaGJLNVBSdG9mRDZaV0NRLWhSNThlb3RIVnFnNC1PbWRWQjJ1WC1ET1BqVjFVYTZXeGFxUHdjMjZWNzRCNUUyNEs5ZjZnR0xsRTZCeWdhUWlWYVA3T1pPT2Z4aUJ5U0Vfd2hPUTJLb09WNUg4dVNWNTBkZUlZT0ZzSkJXSHotODlHNmJWQjhxelRCd0ctbU95eTFHTC1kcUI?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (6 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -323,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 35,
+    "starred_questions": 10,
+    "unstarred_questions": 25,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 67.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

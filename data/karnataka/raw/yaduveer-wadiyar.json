@@ -1,19 +1,19 @@
 {
   "mp": {
-    "name": "Yaduveer Wadiyar",
+    "name": "Yaduveer  Wadiyar",
     "constituency": "Mysore",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1900,
+    "myneta_candidate_id": null,
     "slug": "yaduveer-wadiyar",
     "house": "lok_sabha",
     "sansad_member_id": 5682,
     "profile_url": null,
-    "canonical_name": "Yaduveer Wadiyar",
+    "canonical_name": "Yaduveer  Wadiyar",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 32,
+    "age": null,
     "photo_url": "/mp-photos/5682.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:37.482931Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 94688187.0,
-    "liabilities": 0.0,
-    "net_worth": 94688187.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1900",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:48.159028Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 57.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.96,
-    "expended": 4.59,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:24:33.202977Z",
-        "notes": "Official eSAKSHI REST API — Works: 162 recommended, 97 sanctioned, 14 completed"
+        "fetched_at": "2026-09-02T15:06:21.518847Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:02:41.880697Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:02:41.878059Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 162,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 31.22448979591837
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:33:00.985289Z",
+        "fetched_at": "2026-09-02T15:02:41.876973Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP Yaduveer supports opposition to ‘Kambala’ - Star of Mysore",
+      "source": "Star of Mysore",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPbER2TGtSdm90ZkJVVkVaRTBjQU9Qckp1aFQxOUt1dGlkdE5xWldNRHd2LTZxMDh0LVdsRTNjM0Nyc1l2MWhVUzBWbjB6SVRwNHdvY1F4cjIzZDAzUGZES0RQYnk0RDhPQWtwNWNwVkpfb2VHS3pB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Yaduveer Wadiyar urges Centre to include Mysuru in 50 global competitive tourist destinations list - Deccan Herald",
+      "source": "Deccan Herald",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSFNwWXVsWG03MzkxNHJReEJlLTJrR3ZBeEVvTFhTdk5HclN4MXlLbTRlUDhmLVRobWhGNEt6aVItVWxzRGF0aVg1LV8wRDk2WDB2RnVVQmlTeU9HZE4zR0tRNi10UGZBZWVPYkp5QVBiUHFqQlVGTm00ZG1HV2pfVVozVzJQREYtQnlzbFdsVVJxZ2sxLUFiR20zd3VONEZQd1FGY2dzejdwLWNpR0JHdHV2VVJvOWhQdkJsTTYtNV9GQjhGMDZkei1UdDBnZjMwZElPSlkxbzU5YlgxTUkxdHlrNXAxMmFGN25DcXVWSUxEX1E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Yaduveer seeks permanent solution for Kodagu elephant conflict - thehindu.com",
+      "source": "thehindu.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1ZtTUY3eVpVb2ZvanFGQkNsWmdGMXF2SnE0V0hFVERRQnVFaFpTLTV3MG1fNGVoY3BySndodzJSYmk1QUFQRUVIZEttV2V5bXpYTDNBejNsN0hjU1dmZm9Ud2J3ajYwMXNDR3R2MEZRYjI5NjJHbGYtanpJektjdDZHT2YxMVdreVR1UFV2eFFwQ3M3cjU1Q1RTcTJ4cDJBZDA5VWdCcFNJdHo3RndBNjc5bHRxUzNhRXpxenJrQU9YLTVMV2NWUENZMNIB0gFBVV95cUxQNGJqMXdVSWdKN2V4NEg5LWV6N3gtWTVPVVpJQmRZRlV1SmV2WExHRFV6MHlpSzVYV25aSHBhNUhyZ3NZSFVibW84MExJUlJwSXBVVWxxd1g5WDMtZU9VbzBKb3VNM1VTaU14amZKTmZGZWpvN1FKTjRiTVNvM0o2ZnpDZmcweTNiOE1rS0lMMTdzXzU3cjlYQy1vN2IzbTZFejQ3SHpESDBiSFhPaTFPY1NiQklab19QdDNrQkpydV9rb1BkR3dzaUo3NGF2bE1lS2c?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Vijay’s rise shows rejection of Dravidian politics in TN: BJP Mysuru MP Yaduveer - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd2lzemxZS2ExQlUxNlhYVWZFaGV6ZWpzMEhXMzBCNUZ3eUQzcC0tbnQ5MVJ3dlM3S3VnVG1OTFVNSkh5aGhpVW1xY29jdmo0OG1ZMENpMVBUa2xEOWpxdGQwUkE3R2VPRlVCdUVfdXVUQlhRTkhtVzFrRk1Td2g1N2tscnlSQ0FtUTJnMVhENmdzRTU0TDc4dlVNQWpuckFaMkFYZVZIR0d1ZXU2UUpydlRhWkVyRXotZHBwMGVXV1YtUDMxbUdkcHRuSzlSakJnbGttS09uUdIB5AFBVV95cUxPLUdLTS0tZkE1blFyNUp0MDAtREU4cVRPRjVubTBoejN4NG5uSVRlYVVaR1Q0a1dvMm5KdVdEaFpBX0Y3TF9UYm84QkhUV0xEeFdmRUJzZ2cydFMwdGFBZlc1eTFlNVFmRk91Z2VBeW5RYmNmZW5kZ29DaTFvWlRfZTQzbkJ3b2dGUW05Q3lnc3NwSVFPUTNrV0ZwN2x4dUNYcm9XaUJyWXo3d0h1WjlFUHY4MU1US0NoazIzY0lrRDZlUkRWOEMwemlxV3hXZGk2aUNGRWpmYy10OFhpdmctMzBDMG8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Yaduveer opposes kambala event during Mysuru Dasara celebrations - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc01wQ1JCbm1nejEwUjJQLUVyZjR2NXpEMEg2TnMtc1pUNXZtRkJ0TmlPWm0xQzZ4cVlXcGY4SGY5dy1rS0xhVHNIQmdSd0I3TUp5Wjg1R1ZEQmVWdDh2QlN4NW9JLWctRHBtaXR5MVBNWmtfc2JYUTNzX0V2eXc2bWMwSEl5ZEVTU1lpU2ZqRnhnRG5DbXo3cnRsRVBLRTd2eDQ3SVZ6TFFsVTZxSWNwS3FNanJoXzhEcjZpblhwcVltSHdqc29SRHh3dUNmUmM2dkgxTtIB2gFBVV95cUxNZXlDWFNTelAtdmRPejdoOXlib2pNUl9sSDFpN2dveFZWbGdiS1J6eXVrWVVwWkJFQmFkMXZiM1FNVTBrZ2g2UVgtdEd4eE5WcUJZM0J4ZUVKNG5JTTZJOHhlTl9Pcm9sZWxEal93ZjBqY2Vid0FCcGd2R0dyT18tWkVPS2VRTVVTMU4yNUhJank4cFpFUlpEQ1I1X1pKdXhDQ0ExdS1RZmNWZG1oRHN3c3BTM3ROTlFUTDl3Y3d2OWNEcTZGeTFSVHpXSlNYQW43bUpnV0FPZFZNQQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:33:40.325230Z",
+  "collected_at": "2026-09-02T15:06:21.519935Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.352622Z",
+        "fetched_at": "2026-09-02T18:38:06.837794Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.352632Z",
+        "fetched_at": "2026-09-02T18:38:06.837809Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.352637Z",
+        "fetched_at": "2026-09-02T18:38:06.837817Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.352641Z",
+        "fetched_at": "2026-09-02T18:38:06.837825Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.352647Z",
+        "fetched_at": "2026-09-02T18:38:06.837834Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.352652Z",
+        "fetched_at": "2026-09-02T18:38:06.837843Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.352657Z",
+        "fetched_at": "2026-09-02T18:38:06.837874Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -260,24 +313,32 @@
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 2,
-    "neutral": 8,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "MP Yaduveer Wadiyar flags off Mysuru Heritage Car rally - Star of Mysore",
+        "headline": "MP Yaduveer supports opposition to ‘Kambala’ - Star of Mysore",
         "source": "Star of Mysore",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ1R2WjlPa09XQTlUaTI5dVBIS1ViNGdDeVBSY2JKbmhrOGZRWEtxbmVDWGRpZ2tYeW1TTkEzYVYtSHFGUzdlLXBFWWdvdnFRcDVzazcxUzcwbWxBanhUeGNVWmRya3hxSWRTc0dvS3Y5Qzc5SGRQSENTdnROMmFwVVhxZERCTnVE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPbER2TGtSdm90ZkJVVkVaRTBjQU9Qckp1aFQxOUt1dGlkdE5xWldNRHd2LTZxMDh0LVdsRTNjM0Nyc1l2MWhVUzBWbjB6SVRwNHdvY1F4cjIzZDAzUGZES0RQYnk0RDhPQWtwNWNwVkpfb2VHS3pB?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Mysuru Hospital Crisis: MP Yaduveer's Visit, Death Allegation & Actions - Deccan Herald",
+        "headline": "MP Yaduveer Wadiyar urges Centre to include Mysuru in 50 global competitive tourist destinations list - Deccan Herald",
         "source": "Deccan Herald",
-        "severity": "medium",
+        "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQUN5Yk1QVk5FWG1EYXlJMFd1aWFoa0NlaDRUWGhmY1pveVN1MV9mYm5QUV8tSkJzMlhXbllQWGJOUnItS2dGRkVqUXNNQ2Zuc0lsTXlXWEJBOENraE84TU5hTFRPRGl5d3VPLWR5MU9yZDdiRmhoYXhTZUJMWU9JOVY5UGF3UEJrTlZZaURjbFpHeVpCRm1fR1VoS3EtS3h3Sm5qNmVEeWJwRzV2ZnBKSUZTVkZnS0RZM2NqSWRsVXoydmlNLVFNN1NBaXhSRFJD?oc=5",
-        "sentiment": "negative"
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSFNwWXVsWG03MzkxNHJReEJlLTJrR3ZBeEVvTFhTdk5HclN4MXlLbTRlUDhmLVRobWhGNEt6aVItVWxzRGF0aVg1LV8wRDk2WDB2RnVVQmlTeU9HZE4zR0tRNi10UGZBZWVPYkp5QVBiUHFqQlVGTm00ZG1HV2pfVVozVzJQREYtQnlzbFdsVVJxZ2sxLUFiR20zd3VONEZQd1FGY2dzejdwLWNpR0JHdHV2VVJvOWhQdkJsTTYtNV9GQjhGMDZkei1UdDBnZjMwZElPSlkxbzU5YlgxTUkxdHlrNXAxMmFGN25DcXVWSUxEX1E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Yaduveer seeks permanent solution for Kodagu elephant conflict - thehindu.com",
+        "source": "thehindu.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1ZtTUY3eVpVb2ZvanFGQkNsWmdGMXF2SnE0V0hFVERRQnVFaFpTLTV3MG1fNGVoY3BySndodzJSYmk1QUFQRUVIZEttV2V5bXpYTDNBejNsN0hjU1dmZm9Ud2J3ajYwMXNDR3R2MEZRYjI5NjJHbGYtanpJektjdDZHT2YxMVdreVR1UFV2eFFwQ3M3cjU1Q1RTcTJ4cDJBZDA5VWdCcFNJdHo3RndBNjc5bHRxUzNhRXpxenJrQU9YLTVMV2NWUENZMNIB0gFBVV95cUxQNGJqMXdVSWdKN2V4NEg5LWV6N3gtWTVPVVpJQmRZRlV1SmV2WExHRFV6MHlpSzVYV25aSHBhNUhyZ3NZSFVibW84MExJUlJwSXBVVWxxd1g5WDMtZU9VbzBKb3VNM1VTaU14amZKTmZGZWpvN1FKTjRiTVNvM0o2ZnpDZmcweTNiOE1rS0lMMTdzXzU3cjlYQy1vN2IzbTZFejQ3SHpESDBiSFhPaTFPY1NiQklab19QdDNrQkpydV9rb1BkR3dzaUo3NGF2bE1lS2c?oc=5",
+        "sentiment": "neutral"
       },
       {
         "headline": "Vijay’s rise shows rejection of Dravidian politics in TN: BJP Mysuru MP Yaduveer - The New Indian Express",
@@ -288,19 +349,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Mysuru MP in Munich to take part in strategic dialogues - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN1ZrOVZGQUpydlY3aDRHWUE1R083dFpnc19QUU96S0wtT3N4NkQ0Mjk4SWJFRGFJTVFhSEtaZ2EzTHVtZjRRQ0oyM1pCazFoRlRNWDJHaDZqcTd5RjNiMUNGV0JXbkViNmduWnQyeTMwbTdnMEhuRXZuZkJvQ2tOQlVPcUxLbFRfYTNiRHdXcnBsbzdLZWJJd3RST3lCTFVid0RWZmp2Vm1jcUM4V3RMOHZySVNqdUNCUERDejhZWnBVd9IByAFBVV95cUxPS0d4REtkeXFmRjhWalQ2OWtJWERaemduYXhadlk5LXZhSUszaEh1aEpfUjQzOW83MTM3WVRjMVB0QTRxWDJlN2RudDRna1pzZGhqanlkbzkzMmJQR0p5YXlMYm9RWlJyamdzT3hNVXlFQ0VvVTZJUklTREV4eWZ4bnQxdUxmaWxTbUdkZkRWNks1TThPMjBPeU53emJ4bllaejNXcjduTVoyNW1MVHFVNXFXclNfRVJab2xyd0NQeHA5bzJKNEx5NA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Kodagu missed separate LS seat as delimitation stalled by opposition, says Yaduveer - The Times of India",
+        "headline": "Yaduveer opposes kambala event during Mysuru Dasara celebrations - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM0lSQmZ6blFFcy1nMHhSNzBBSzNRSzV0RVh5Y05PV01DRFBUb2dfVVRjcVJXSkZQeS1VZnAyNGhYUjl6UFdlaVoxYXEwSGNaa2tERUFLS2ZsNkUyYVZVd3d5b2pMaTI1Slk0SFpiTkRtQ1RvYnNicGVMSk55NjExb3JmTVdybzUyLWMxMHE0TzBXU05hcnVnWVNobXRGRkNla1J3R2tkMkhiQy12WDdSdnNvTFJsRXFsNzNLUTlNM2N1Z25KM0k5eUp1NW1jMHdZa2RtamtoV2w5elI3akgydWl2cFZQUWpNQlZDcdIB8gFBVV95cUxOUjFCLVkyVFFTR2dvaWVYanBwNnhoSEFEaktXRkxwcm9BSG1oVHBkd3liUndnZjlMYjFJdXRKcUlSZm5nMEMwMmVKX1cxTjAycWVLNHByb0dJYTdSazI3WEtkWVdjZDNyb1hvTXNScFZmU3JXRzRLSHl2VGR0eG8yYzNYdXAwSUNSRFg1OWtENmVMdE1rU2JneEFjaFdnRWFWYlNiUUJnQ1BBb2RtSjg4OGdjTEd0eWtXcUtaV1daNkFCZ2RzZmpIdjNfZnZKb2pGWFEySTBId0pScGl1cFBpVnd4blpGbUFXcERKNTE5RGRrUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc01wQ1JCbm1nejEwUjJQLUVyZjR2NXpEMEg2TnMtc1pUNXZtRkJ0TmlPWm0xQzZ4cVlXcGY4SGY5dy1rS0xhVHNIQmdSd0I3TUp5Wjg1R1ZEQmVWdDh2QlN4NW9JLWctRHBtaXR5MVBNWmtfc2JYUTNzX0V2eXc2bWMwSEl5ZEVTU1lpU2ZqRnhnRG5DbXo3cnRsRVBLRTd2eDQ3SVZ6TFFsVTZxSWNwS3FNanJoXzhEcjZpblhwcVltSHdqc29SRHh3dUNmUmM2dkgxTtIB2gFBVV95cUxNZXlDWFNTelAtdmRPejdoOXlib2pNUl9sSDFpN2dveFZWbGdiS1J6eXVrWVVwWkJFQmFkMXZiM1FNVTBrZ2g2UVgtdEd4eE5WcUJZM0J4ZUVKNG5JTTZJOHhlTl9Pcm9sZWxEal93ZjBqY2Vid0FCcGd2R0dyT18tWkVPS2VRTVVTMU4yNUhJank4cFpFUlpEQ1I1X1pKdXhDQ0ExdS1RZmNWZG1oRHN3c3BTM3ROTlFUTDl3Y3d2OWNEcTZGeTFSVHpXSlNYQW43bUpnV0FPZFZNQQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 20,
+    "starred_questions": 6,
+    "unstarred_questions": 14,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 39.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

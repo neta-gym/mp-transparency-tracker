@@ -4,16 +4,16 @@
     "constituency": "Siwan",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": 8120,
+    "myneta_candidate_id": null,
     "slug": "vijaylakshmi-devi",
     "house": "lok_sabha",
     "sansad_member_id": 5577,
     "profile_url": null,
     "canonical_name": "Vijaylakshmi Devi",
     "name_aliases": [],
-    "education": "Literate",
+    "education": null,
     "profession": null,
-    "age": 61,
+    "age": null,
     "photo_url": "/mp-photos/5577.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Siwan",
       "state": "bihar",
       "party": "Janata Dal (United)",
-      "myneta_candidate_id": 8120,
+      "myneta_candidate_id": null,
       "slug": "vijaylakshmi-devi",
       "house": "lok_sabha",
       "sansad_member_id": 5577,
       "profile_url": null,
       "canonical_name": "Vijaylakshmi Devi",
       "name_aliases": [],
-      "education": "Literate",
+      "education": null,
       "profession": null,
-      "age": 61,
+      "age": null,
       "photo_url": "/mp-photos/5577.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:29.246224Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 44130032.0,
-      "liabilities": 360008.0,
-      "net_worth": 43770024.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8120",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:45.570931Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 35.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.15,
-      "expended": 9.14,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:08.501130Z",
-          "notes": "Official eSAKSHI REST API — Works: 142 recommended, 96 sanctioned, 95 completed"
+          "fetched_at": "2026-09-02T14:44:30.752243Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:40:51.053617Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:40:51.051438Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 142,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 62.17687074829933
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:32.736383Z",
+          "fetched_at": "2026-09-02T14:40:51.050562Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Vijaylakshmi Devi , JD(U) candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbzlBRlg3T2l0NTNpSTZtSjdaWjJSa2ZYSkNVeURfZjd6c2t3UldqZDRvWGxaOVJ4dC1vZTBoaml6UmZhWXpJMlZLeHA0eUtnN3QxYzhnVWJhMThCakVQV005aEJlSVlxLVNJb0tjazJINzFjMFVqdUUwbVliVE1XbjJBdGw4Nlk4d3c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Lok Sabha polls 2024: JD(U) releases list of all 16 LS candidates, drops two sitting MPs - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNlBZMU9ZbDZsc1FPMTVBN2xMMEJ0QmFGWFl1cU9GNXJmUGpxQWR3UFljaklhaFR5NkVuQWhNNFBnQjBSNEY1bkVreGlFVWp2dTJIX2dPUmdaZW9ONklyRjRBUEJwY2R2eWY0eUozMU9mRk9WanUxdV8tQ0FWX29qUk4zTG12cW9wRFhfSWVRbU5CSUhk0gGbAUFVX3lxTE1XTkVZbXRMeHJLdUhqdGk0aWRrXy1WRlFwYmpfdV8xT25CXzM2WGwtelhIU2tJZDRBX1Z1NTZobWVIdnZ2S1ZycjZDalN4eU9yZUhncHlIOTBNdC1ydW16RTRKT092bkJGSW9mM01aNWU2c2pocndCdkhrYklpd3ZZYk42LUtueGtpMXBsUUIzVjc3dXdBS3NzZUUw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hena makes Siwan contest tough for JD(U) & RJD - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTdhVmFFZ2JxQm9TSGNwaDhrS21Xa1ZGMGw1UVpUWE14eVFrdkJtdGQtV2o3RWMtTUh1b2pQYzVoOWtpR3o0X25kemdGSnR2cmY4endfSjlYemtKR2dVbUFEY29lUkV1TFFPZmlqYVhDakcyVXJsR2lTTXdoTUZZdkZKa1h5ZmxRa0FsaGhqR3ZpaWx0OHNmWDVIaXdmdy1nMU1QOHMyOUU3SXI4X2hEcVFtdHlhZ9IBuwFBVV95cUxNM2VjTGpQWGxCVGU5S0diYl9ZOTU5anMtV2JTeERaUXpSQndRTG1hNjlXc0tSR1ZtUHF3TkhIbXJkSlhpeURKUUNLUWpjSE5BMzdwbmZaYjlwUjdTRnRqWFFqOEYtYmVzU3hIRjd4ZXRNNy0xSmtkQWhfcmQ5MlpkaDlZMHItRXlkM1pKWEtqYjVoT0w2MGpyc19lTzRXVjllVjVKcTNvekRMdlRGejV2d3JRSS1BaXpXT05R?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazhTeWpLcEM3b0pYdnU5MlZZSk05UnlQNGxVMzhQN0UwNmxjYnFDWHJwVU9MWEtZaWdBdnJfaU9Qdlp1ejZvSUhlaXJ0a1oybFo2T29hTl85YWdSdUpyMFdTZjc5VndCSHhEV1pWRW4zdkN4V0plak1YX0lyREZ4SkpGTXpYd1U?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shahabuddin’s son enters Bihar poll fray - Is late Bahubali’s clout still relevant in Siwan? - Livemint",
+        "source": "Livemint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMjNOVjF2VW5LenJlZzFwRkFRSXZBUVhhR2RKTjI0MENqZmxrTnhTeFZTTXIxMGJOVTV2YlVVaWVmNGRhTmlaWDhTbTFia21xMWQ5R0VpZy1lT1NsZkZrZ21ibGFnanlBWFpIQjNYMWVsS05XaGEwLUNpZldUZ1hSUHJQTG1Lck9VbHhiR2ZJUHVjOVZtUGZPcVA2UzRidHFBYmRFQkdnR2ltbEtKQ1FpZVhjZWRCWVl3OVB1d29va3NneGFHT3lucFhMY0FmblRXVFMzYkJjYndRcksySFpyODRPV3UyRG9VWGd1aXNMNGRsSjVCZlJhQTlBbFlXaEVhMkNVTjFqTFNhTTktOTZOS0U0a3N1T3BVMGZv0gGgAkFVX3lxTE1GQU1QeXNTcWJEdEdJUlhFalc4V0x1Q0hEQzFmT0ZKNUZFd241NkUzaW9lMGxYa09QTnVuQ0JuRF9rbGpYSXd3cldDamtld21kYTIwenBRQnZuYVBjM1FwdXl6emJMZXBNX2dnT0dIS2VjMEh4MU1tcTVXX1VUUVh1MEVFRmFLTm1pUlpXVy1KNWJvc1Fuc3pRXzc3alJ1ZTZmMlNIb2QxWmVrVmMyT0pPcVREUXBlZ0tCNDBITFJ0UmZFbEhnUXZfZmlEWThlbEh4TU1lSjhSdDNKYUpKU0F4aGstdUU2TENSUXY0bVJfYVhPT0d1c0RHZjgtUF9SZHd5UElKN1BkSE51MDBZZ3ozQkVtb1pGdGxfakdncDA3UA?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:38.915678Z",
+    "collected_at": "2026-09-02T14:44:30.753044Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.545953Z",
+          "fetched_at": "2026-09-02T18:38:05.139517Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.545962Z",
+          "fetched_at": "2026-09-02T18:38:05.139533Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.545968Z",
+          "fetched_at": "2026-09-02T18:38:05.139541Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.545972Z",
+          "fetched_at": "2026-09-02T18:38:05.139549Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.545977Z",
+          "fetched_at": "2026-09-02T18:38:05.139558Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.545982Z",
+          "fetched_at": "2026-09-02T18:38:05.139568Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.545986Z",
+          "fetched_at": "2026-09-02T18:38:05.139577Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -260,7 +313,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.545991Z",
+          "fetched_at": "2026-09-02T18:38:05.139585Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,11 +338,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/i/flow/login?redirect_after_login=%2FVLakshmiKush",
+          "url": "https://x.com/https://x.com/i/flow/login?redirect_after_login=%2FVLakshmiKush",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/VijayaLakshmiKush/",
+          "url": "https://facebook.com/https://www.facebook.com/VijayaLakshmiKush/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/VLakshmiKush/",
+          "url": "https://instagram.com/https://www.instagram.com/VLakshmiKush/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:40:53.858470Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -298,43 +384,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Bihar: JD(U) MP and MLA receive death threat calls, extortion demand of Rs 10 lakh - India TV News",
-          "source": "India TV News",
+          "headline": "Vijaylakshmi Devi , JD(U) candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHY5ZWJ5NlhqTXNZUUx6S212YlhQQVF3NmlXMmNuSkxzSnNoaFR4NVYxc0JLQzBqcDkxQlM4MXhFR0dwb3F5d08yUmNUZTFGZ0I2TVB3WFBsWFVFbC1temVQWDZlUWtZSFJieVpmZFRpQlVoVERJa21RZVpLTHJlZ25OQTBlYjY0cEdGNmY3WTZkSzVTT3p0eGhieU1oU2VvWlJnSUkxemkxSnd1QWJQcGhEMXFkYWt0Y0VScUtQcVpadDliaW9BaGJXcGw3ZlItcktr0gHYAUFVX3lxTFBYRE5XeU80bDVwQ3dUaURrY252cVNHZHgxVDE5RG5vRWUyWFlvYW5PdjRBU2dUa1V1eU1jWDNjcEpvcWRUM3pBT25VYTNYYjItakx3UzhJNFVkQzJ1OUx3X3FNMks0VFlvRDN5NGdRT1VZcjZmVEVoQ0JVb2tHZkw0UjJfLWlibUdXVm9qY3hTWlJ2blNSODU3MTlfN0htT2tEaW51aDFHZHltZFNMNVI1dUh6WmV4S2U1a2VNbW1YTkRXa0pZcDZIRVptQmlsNWxDUmJfb21Nbg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbzlBRlg3T2l0NTNpSTZtSjdaWjJSa2ZYSkNVeURfZjd6c2t3UldqZDRvWGxaOVJ4dC1vZTBoaml6UmZhWXpJMlZLeHA0eUtnN3QxYzhnVWJhMThCakVQV005aEJlSVlxLVNJb0tjazJINzFjMFVqdUUwbVliVE1XbjJBdGw4Nlk4d3c?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Blast In Siwan Village During CM Nitish Kumar’s Visit, One Dead - Ommcom News",
-          "source": "Ommcom News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnE1V0tOSDlRakwwc25IUC1LblByR21SV1MwallBc3Qxa3NOOXVjOHFXcFl3RmVhN3J4eUdaQklVVV9SWGJ5bWxtQXgyaXFFZ2xJUmNULXQwLUx5Vkd1N29wTW5tRFBuUFJkU3FCUkxxbXVnckxKb1RqbWVMM2lwNGJ3RnBKMXltZmdnZGtBUGRuSFBET0RXSU41Yk8?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Kushwaha relents as JD(U) fields Vijaya from Siwan - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLURhMFBZa0tOcXpvbTR0c0U3QWpaeV8tZ2M2WHhydHJzM3c3X3lrY1VqcklJbGpCMG1McmdkeUdudW5iS1BzTGNkZFk4YWdwYTNMU0tTTGdxdm9ZN2RmcXBTXzR1dVZGWF9HbUJzSElsbmMteVJuYjRHZHJnU0duM0JqVkZlNTgwb3k2UzNzbkdha0VIczlJUEVwUGhiZnV5a1llajdQMmFheG1EQ0Ywb2hKWjRaenBXejhkcG130gHDAUFVX3lxTE1xZzBTRTB2Q3dySUhRcWFWZU5qbGRzRUlkN0FmVGhyeGplX3BlaGI0N3lFVnZ1UGM1WmIzVDFXU0ZuaThxVGY0blFDZGFEcVRXVjVxWF82U3FRNnI1QTcxYl9XZWYzb2tGTVBhWDFUZWZ1U0pYVjBOTEpVRnNKVUc5YWJ5SlpaS0Y3SkU2LXB4blUyejk1TmRzN1M5MWpBNG5JY2p2bkwzWmI3NGFKMFg2RWY0VmNhUFJxWHN5azZKLUZvcw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Siwan lok sabha election results 2024: Siwan Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVUxQk1SUExJVU1lZFdKRDF1R1dLRy0zVnBZS3MtRkJmRlc3a3F3RjJnRWdKTUV2RXlHNG40Nkdyc2pETEowZ0VZMURqc25QbnFkcjdnUnhTQ19Xa0ppVElZYWVpSHpabmFESENaUFZCaVpLSmcybDV0S2lDb0k2S1I3NWVaVjdDQVE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Why RJD has fallen back again on the Shahabuddin factor in Bihar’s Siwan - The Indian Express",
+          "headline": "Lok Sabha polls 2024: JD(U) releases list of all 16 LS candidates, drops two sitting MPs - The Indian Express",
           "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ0kwV0k1Y2VqTTBQc012c2Y0em5GaC00Z2dqcTIweVNGWTBETUswSU9KU05fMlNQMEJfWFJZYm04TmczcWtiNUNtR1ZlREppSGhMMmktVUZMc1F5bFlYRkJacUNER2Nnd2RtaFZlZ1FWdTR5eFpySmI3am5IZWZrVXBpVTB5SDV3a05SY3BzYk5MaVlUbVROTm8tTmQ5Qm5pUVJsMTJZREQzS18yamt2WUV5TUVVbU5yUTJHUGtwQjBfTk9aN1lpeGtGa3IwSTNy0gHXAUFVX3lxTE1jUXRHay1ZT084WWoyeFFuQUdKc0tQRG1TSU4tN1ZwN1d1dmhjdlFBNkhTMEtHRkZQYmVaeEotVUpLQ3BScmZhNU9PWU1LV0Z2aFVJeGdhaE9nXzFYelZLYjAxWEwxem85YTJFcUNfeTgzVl9hWjNYNkdtemcwMHhxNDBHa3AwRy1RU1hkbjZHR2docTVZUVFpMVJGbEtoalpQUHVLYU5ubnBSWnVRSWdPNzlwSHBXcHllTGN5TlB6UlEta181VFBMb01YNTd4MHdUWFFaZnl3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNlBZMU9ZbDZsc1FPMTVBN2xMMEJ0QmFGWFl1cU9GNXJmUGpxQWR3UFljaklhaFR5NkVuQWhNNFBnQjBSNEY1bkVreGlFVWp2dTJIX2dPUmdaZW9ONklyRjRBUEJwY2R2eWY0eUozMU9mRk9WanUxdV8tQ0FWX29qUk4zTG12cW9wRFhfSWVRbU5CSUhk0gGbAUFVX3lxTE1XTkVZbXRMeHJLdUhqdGk0aWRrXy1WRlFwYmpfdV8xT25CXzM2WGwtelhIU2tJZDRBX1Z1NTZobWVIdnZ2S1ZycjZDalN4eU9yZUhncHlIOTBNdC1ydW16RTRKT092bkJGSW9mM01aNWU2c2pocndCdkhrYklpd3ZZYk42LUtueGtpMXBsUUIzVjc3dXdBS3NzZUUw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Hena makes Siwan contest tough for JD(U) & RJD - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTdhVmFFZ2JxQm9TSGNwaDhrS21Xa1ZGMGw1UVpUWE14eVFrdkJtdGQtV2o3RWMtTUh1b2pQYzVoOWtpR3o0X25kemdGSnR2cmY4endfSjlYemtKR2dVbUFEY29lUkV1TFFPZmlqYVhDakcyVXJsR2lTTXdoTUZZdkZKa1h5ZmxRa0FsaGhqR3ZpaWx0OHNmWDVIaXdmdy1nMU1QOHMyOUU3SXI4X2hEcVFtdHlhZ9IBuwFBVV95cUxNM2VjTGpQWGxCVGU5S0diYl9ZOTU5anMtV2JTeERaUXpSQndRTG1hNjlXc0tSR1ZtUHF3TkhIbXJkSlhpeURKUUNLUWpjSE5BMzdwbmZaYjlwUjdTRnRqWFFqOEYtYmVzU3hIRjd4ZXRNNy0xSmtkQWhfcmQ5MlpkaDlZMHItRXlkM1pKWEtqYjVoT0w2MGpyc19lTzRXVjllVjVKcTNvekRMdlRGejV2d3JRSS1BaXpXT05R?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Parliament Of India : Lok Sabha Member Of Parliament - D - Sarkaritel.com",
+          "source": "Sarkaritel.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazhTeWpLcEM3b0pYdnU5MlZZSk05UnlQNGxVMzhQN0UwNmxjYnFDWHJwVU9MWEtZaWdBdnJfaU9Qdlp1ejZvSUhlaXJ0a1oybFo2T29hTl85YWdSdUpyMFdTZjc5VndCSHhEV1pWRW4zdkN4V0plak1YX0lyREZ4SkpGTXpYd1U?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Shahabuddin’s son enters Bihar poll fray - Is late Bahubali’s clout still relevant in Siwan? - Livemint",
+          "source": "Livemint",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMjNOVjF2VW5LenJlZzFwRkFRSXZBUVhhR2RKTjI0MENqZmxrTnhTeFZTTXIxMGJOVTV2YlVVaWVmNGRhTmlaWDhTbTFia21xMWQ5R0VpZy1lT1NsZkZrZ21ibGFnanlBWFpIQjNYMWVsS05XaGEwLUNpZldUZ1hSUHJQTG1Lck9VbHhiR2ZJUHVjOVZtUGZPcVA2UzRidHFBYmRFQkdnR2ltbEtKQ1FpZVhjZWRCWVl3OVB1d29va3NneGFHT3lucFhMY0FmblRXVFMzYkJjYndRcksySFpyODRPV3UyRG9VWGd1aXNMNGRsSjVCZlJhQTlBbFlXaEVhMkNVTjFqTFNhTTktOTZOS0U0a3N1T3BVMGZv0gGgAkFVX3lxTE1GQU1QeXNTcWJEdEdJUlhFalc4V0x1Q0hEQzFmT0ZKNUZFd241NkUzaW9lMGxYa09QTnVuQ0JuRF9rbGpYSXd3cldDamtld21kYTIwenBRQnZuYVBjM1FwdXl6emJMZXBNX2dnT0dIS2VjMEh4MU1tcTVXX1VUUVh1MEVFRmFLTm1pUlpXVy1KNWJvc1Fuc3pRXzc3alJ1ZTZmMlNIb2QxWmVrVmMyT0pPcVREUXBlZ0tCNDBITFJ0UmZFbEhnUXZfZmlEWThlbEh4TU1lSjhSdDNKYUpKU0F4aGstdUU2TENSUXY0bVJfYVhPT0d1c0RHZjgtUF9SZHd5UElKN1BkSE51MDBZZ3ozQkVtb1pGdGxfakdncDA3UA?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,15 +454,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 10,
+      "starred_questions": 3,
+      "unstarred_questions": 7,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 19.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -384,17 +470,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -415,8 +501,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.31,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -430,12 +528,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Bihar: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 44,130,032. MPLADS utilization: 62.2%. Parliament attendance: 100.0%. Questions asked: 10.",
-  "validated_at": "2026-09-02T01:36:47.546696Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 10. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.140387Z"
 }

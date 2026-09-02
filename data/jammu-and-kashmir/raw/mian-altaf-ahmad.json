@@ -4,16 +4,16 @@
     "constituency": "Anantnag-Rajouri",
     "state": "jammu and kashmir",
     "party": "Jammu and Kashmir National Conference",
-    "myneta_candidate_id": 4199,
+    "myneta_candidate_id": null,
     "slug": "mian-altaf-ahmad",
     "house": "lok_sabha",
     "sansad_member_id": 5781,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 66,
+    "age": null,
     "photo_url": "/mp-photos/5781.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:16.574210Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 209330000.0,
-    "liabilities": 0.0,
-    "net_worth": 209330000.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4199",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.170526Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 72.6,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.24,
-    "expended": 1.89,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:31.240970Z",
-        "notes": "Official eSAKSHI REST API — Works: 59 recommended, 52 sanctioned, 5 completed"
+        "fetched_at": "2026-09-02T14:27:21.076626Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:57.491439Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:22:33.404792Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 59,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 12.857142857142856
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 60.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:11.150021Z",
+        "fetched_at": "2026-09-02T14:22:32.317743Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP Mian Altaf grieves Poonch road accident - Rising Kashmir",
+      "source": "Rising Kashmir",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa0hYZ3FwSEJSSkV4Wk5MUDNDQTE3dHhjZnhaR0RGWHBRdmlhYjdkbnFadVJ0azhTcXZBbDdpYzEyYnlhMlFoSDRaRG9HaXhscVdybEFsZm5VWmtoNEJxblhCTDJkU3R5aWpzczZMQkk1U0kwdWxqWGhveDVsN01mUG1RSjJrT054b3hXU3hoQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Mian Altaf Ahmad Visits Flood-Affected Areas in Poonch District - KNS News",
+      "source": "KNS News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOV9wY0Y0aVZpOHBEaWM4akZVOFEyVzZnSWdVS2dudWg1SFlhWVZWUFl1T2xRZFdTRjFCMzlHVHRmU2tvOW9XSE53ZVBoeGlRZWJrS3NibGpBWnlUSGowWTFRSTJicWh1N2gwU3ZfajczN0tUVkR5UG42WGpGNlh0TGxNODgzMTdyTU9ib1dUUG92LWJwYUNJaXdVaWE2bU9JbEE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Mian Altaf Expresses Grief Over Poonch-Rajouri Tragedy, Seeks Swift Relief and Rescue - Kashmir Life",
+      "source": "Kashmir Life",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkRlckFoeVVOUk14TmJGdGRwZkZtdEVaUmxHcW4yb3JUenVSWFRwOWFWckM2NU5MT2xwTXpJVU1RLWxKc1BnYmd2ME5nT08yNHg0d3FQSTNGU3RFcWdxeTBLV1FleEs2eWtNMEhzRkc3R3Y4TmpYWDhfaENITEh6bUE1YXRHQmFzaUViZkMwbFctcGxkMFMxc1NyYmtGN2puX20zMkxzcF9PaEFCWk42RnQwMlMyaTRwWVpB?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "MP Main Altaf Chairs DISHA Meeting At Shopian, Reviews Developmental Works And Govt Schemes - Daily Excelsior",
+      "source": "Daily Excelsior",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGkwb0JxeXAwVUN0cDNmOEIzYXFaMXJ1SXpXaERXVFpYRkppRnp6bS0tM0hrVkdpZHVtd2huTXlMRFYwTjAwOG1zMDdaZE5rbDFnY1BpU3lZX3BwVW96X0Rmb3ozRWhsajlEbUNWeklDRmdPNktKdHFDNFcyQ3cxWjVIZnJkOFJEWGVOVjhkYnZKMC15clE5ZkNOQU81eHh1cm9YRlV5TXh0dU9TQUhCWjFnX21XZVZFU240YzBpRdIBwwFBVV95cUxNMmEtZUFhMlFnWVNNOXJ2d29MOERNcE51ZkRCcWZMS2RrLVJZMTJIMHN2TlNKYWpYM2JYYUVfY3c1Nk5IZDZ5Z1RQbGt5S215V1RMcS1KaXNFbXRJeEJQdmU0X0REeXlzQ1JkaHZ5NGZqOXdZZjZ1OWg2NzRjdklQTGx3Tk16NDZVNlkwM19seDBsM0MtZEYwWVNvNnU4dnNYYk0zei1TZjFvRTdYazFpZG5ta21uUS14YVQ1eFdPMXowR0E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Mian Altaf express sorrow, anguish over loss of lives, property in Rajouri, Poonch due to incessant rains - Greater Kashmir",
+      "source": "Greater Kashmir",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU24zZmx0WnQ5dm9KNVpQcmkxVWhBSzBKdHB6U2R2bVZJQ2hMVGdnSGx3bEVQZzZTcHJrOURRMExqazNyNXFja0xfUW5EcEh6dFJodUJuVTc4d3JXVC1GcXEwNUh0ZzB4Nlh2Qm94V29XelJpb0ZWTkw1cEN0U1Y1NVVVelR5LVJuUDlwNXdtLWZxUDlWQi14WHEyd015VDNUWHV4TmhxLVlURVR1VkxvVTBhQTV4YTlZTTRmTnNIcVVmZzJvdXR2Q1FUM3ROajNUbWdpQVBxWDZyRWJZdnI0bnVpcjVVN0Z30gHuAUFVX3lxTE5MWG10cFE2Uk41X1hSSFRuOTdfcnRaaWhET01sWDVSRWlKUFFYazZEX1VDOXB0WDVvY2ZUS1FnS09vR3oyM2gtRXVNUDNKN2dMbXB1aUw2QzdTa21VQVBqU1ZfOFoyWGlPR0ZhalBtb201LTNtTTFkTHdKaloxYlZvakU4bnlPZnNDM1JyQmk0NFJwSkpIT24zWkpHelN6WC11WEIwN0JGVmpRRjhHOTlRZWtiQTdIc01rci12VDJYTW9DeElVc3VIN0toZ3d5R0xkUTA4d0JuM3NPeDFLLV9vOGQzVTI2U1FSeXM1YUE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:14.746015Z",
+  "collected_at": "2026-09-02T14:27:27.085581Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.590195Z",
+        "fetched_at": "2026-09-02T18:38:06.192896Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.590203Z",
+        "fetched_at": "2026-09-02T18:38:06.192907Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.590208Z",
+        "fetched_at": "2026-09-02T18:38:06.192913Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.590213Z",
+        "fetched_at": "2026-09-02T18:38:06.192919Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.590218Z",
+        "fetched_at": "2026-09-02T18:38:06.192925Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.590223Z",
+        "fetched_at": "2026-09-02T18:38:06.192930Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.590227Z",
+        "fetched_at": "2026-09-02T18:38:06.192935Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,56 +304,81 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/mianaltafsahib",
+        "url": "https://x.com/https://x.com/mianaltafsahib",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/wangatlar/",
+        "url": "https://facebook.com/https://www.facebook.com/wangatlar/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:22:33.824324Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 2,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 8,
     "top_headlines": [
       {
-        "headline": "MP Mian Altaf urges Railway Minister to consider Vande Bharat stop at Anantnag Station - KashmirPEN",
-        "source": "KashmirPEN",
+        "headline": "MP Mian Altaf grieves Poonch road accident - Rising Kashmir",
+        "source": "Rising Kashmir",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFNvaFR5eGxJUFlNbVM5a1QzREdPTjFrb2ZFS081bkxUSXpudWJybDg5VnV2NUdxNFR2TUpOWWFxSjlvc1A4WWFrU1VQRkxsTGVaaDR0MXhiM0ZiQ3hOVUktWFk2U0hMUURYaDJoSDc1OXlxdFI1M1RUWjdCVE05REs5TU5ydjl4RnlkNk1ubnZJd3psNkNZUHRjeXFIRVZPTWtqUWRmb0N4U2lGRXdEV20zWQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa0hYZ3FwSEJSSkV4Wk5MUDNDQTE3dHhjZnhaR0RGWHBRdmlhYjdkbnFadVJ0azhTcXZBbDdpYzEyYnlhMlFoSDRaRG9HaXhscVdybEFsZm5VWmtoNEJxblhCTDJkU3R5aWpzczZMQkk1U0kwdWxqWGhveDVsN01mUG1RSjJrT054b3hXU3hoQQ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP urges BRO to expedite work on Jammu-Rajouri NH - Daily Excelsior",
-        "source": "Daily Excelsior",
+        "headline": "MP Mian Altaf Ahmad Visits Flood-Affected Areas in Poonch District - KNS News",
+        "source": "KNS News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkZjWFgxdlQ1MXltUi1hcXBkWnFHejc2cmJpbFpod2ZNek4wNDBKdS1JR0dLWmRZdjdMMzAwbnZ2c1VtY0EzZjVRYjVOekM5eGNPT1lPNXgwYmdTRktGOGgxcXV4dEFCR0RwckJQeEtsRzBmeEZqZkZZUXhheDFrbm4wcU1JNVpi?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOV9wY0Y0aVZpOHBEaWM4akZVOFEyVzZnSWdVS2dudWg1SFlhWVZWUFl1T2xRZFdTRjFCMzlHVHRmU2tvOW9XSE53ZVBoeGlRZWJrS3NibGpBWnlUSGowWTFRSTJicWh1N2gwU3ZfajczN0tUVkR5UG42WGpGNlh0TGxNODgzMTdyTU9ib1dUUG92LWJwYUNJaXdVaWE2bU9JbEE?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Mian Altaf seeks parole for Er Rashid to visit ailing father - Greater Kashmir",
-        "source": "Greater Kashmir",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjNzcmptTUF0UEdxNzVPbHRYZjNZWTdZRktfZFgyc2traFF0T1ZRbC1wdjN0bVY5amQwei1oMnVlbk92T3lTaFA5M2ZDb3UycFpOQWpud2xhSDNXT1VWbTdHbVU2YXl3Q2twU2RMTTFsaC1LdXljbVNhTDVONkxhdXRGOUtMb0duRGRLU01NWTFiUDVNdzRkSE1ZTGRRZ0V6bXVjbVpMLW5HSHliSThHWtIBtgFBVV95cUxNN24tcDg2UHZqbkl4WTVXMHU0WVNiMmo0cjRZdWZ3Y1FQcDRCZVYtZTZBMEJOeWh3M1ZfN0pZYVJVS2NGQm5SZmg2cXhJc1hLWUc5em1EYmN6VG5ScXRiTV9UbkFmZ0l0aU5udDItNmtHSmhhbDNNQXlrTTJlZGtwRThJSDlGQ2VtLUdMaW5hUjNZc3RwbFAxY1dXOF93aUdCdVRsLTF1N25aamJ5M2ozaDFobndmdw?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "MP Mian Altaf Welcomes Jammu–Rajouri Rail Project - Kashmir Life",
+        "headline": "MP Mian Altaf Expresses Grief Over Poonch-Rajouri Tragedy, Seeks Swift Relief and Rescue - Kashmir Life",
         "source": "Kashmir Life",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXh1NHdFYVVCa1hZbXpMOFFPMjF4Zmx4SnFkNHdmLWVvRVFHaGs2ZThzYk9sSG5naHBxZFp1aC1hMTZ6Zk1QSGRvb0wwdnkwQzRMSjlLbHZ4S3piSmFRMDItQk14U1N2blZrR1REeU5IdHFoZW9rVVVnYVpoaVMzSE1hbXAtbjY2?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkRlckFoeVVOUk14TmJGdGRwZkZtdEVaUmxHcW4yb3JUenVSWFRwOWFWckM2NU5MT2xwTXpJVU1RLWxKc1BnYmd2ME5nT08yNHg0d3FQSTNGU3RFcWdxeTBLV1FleEs2eWtNMEhzRkc3R3Y4TmpYWDhfaENITEh6bUE1YXRHQmFzaUViZkMwbFctcGxkMFMxc1NyYmtGN2puX20zMkxzcF9PaEFCWk42RnQwMlMyaTRwWVpB?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "MP Main Altaf Chairs DISHA Meeting At Shopian, Reviews Developmental Works And Govt Schemes - Daily Excelsior",
+        "source": "Daily Excelsior",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGkwb0JxeXAwVUN0cDNmOEIzYXFaMXJ1SXpXaERXVFpYRkppRnp6bS0tM0hrVkdpZHVtd2huTXlMRFYwTjAwOG1zMDdaZE5rbDFnY1BpU3lZX3BwVW96X0Rmb3ozRWhsajlEbUNWeklDRmdPNktKdHFDNFcyQ3cxWjVIZnJkOFJEWGVOVjhkYnZKMC15clE5ZkNOQU81eHh1cm9YRlV5TXh0dU9TQUhCWjFnX21XZVZFU240YzBpRdIBwwFBVV95cUxNMmEtZUFhMlFnWVNNOXJ2d29MOERNcE51ZkRCcWZMS2RrLVJZMTJIMHN2TlNKYWpYM2JYYUVfY3c1Nk5IZDZ5Z1RQbGt5S215V1RMcS1KaXNFbXRJeEJQdmU0X0REeXlzQ1JkaHZ5NGZqOXdZZjZ1OWg2NzRjdklQTGx3Tk16NDZVNlkwM19seDBsM0MtZEYwWVNvNnU4dnNYYk0zei1TZjFvRTdYazFpZG5ta21uUS14YVQ1eFdPMXowR0E?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Mian Altaf calls on CM Omar - The INS News",
-        "source": "The INS News",
+        "headline": "MP Mian Altaf express sorrow, anguish over loss of lives, property in Rajouri, Poonch due to incessant rains - Greater Kashmir",
+        "source": "Greater Kashmir",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uaE9SU3JuVGtGc0tTdmZUUm9IVTl2V3JZZGNhRVBRa0hsZmZNdWRMalVPRlp2Qmcyend4Z2xpM2RybkdFallYRHpkS0xTV0RDdFJRcTNYVUUtNlhfcE8zYmNJbEl5VHp6LUpWOQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU24zZmx0WnQ5dm9KNVpQcmkxVWhBSzBKdHB6U2R2bVZJQ2hMVGdnSGx3bEVQZzZTcHJrOURRMExqazNyNXFja0xfUW5EcEh6dFJodUJuVTc4d3JXVC1GcXEwNUh0ZzB4Nlh2Qm94V29XelJpb0ZWTkw1cEN0U1Y1NVVVelR5LVJuUDlwNXdtLWZxUDlWQi14WHEyd015VDNUWHV4TmhxLVlURVR1VkxvVTBhQTV4YTlZTTRmTnNIcVVmZzJvdXR2Q1FUM3ROajNUbWdpQVBxWDZyRWJZdnI0bnVpcjVVN0Z30gHuAUFVX3lxTE5MWG10cFE2Uk41X1hSSFRuOTdfcnRaaWhET01sWDVSRWlKUFFYazZEX1VDOXB0WDVvY2ZUS1FnS09vR3oyM2gtRXVNUDNKN2dMbXB1aUw2QzdTa21VQVBqU1ZfOFoyWGlPR0ZhalBtb201LTNtTTFkTHdKaloxYlZvakU4bnlPZnNDM1JyQmk0NFJwSkpIT24zWkpHelN6WC11WEIwN0JGVmpRRjhHOTlRZWtiQTdIc01rci12VDJYTW9DeElVc3VIN0toZ3d5R0xkUTA4d0JuM3NPeDFLLV9vOGQzVTI2U1FSeXM1YUE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 4,
+    "starred_questions": 1,
+    "unstarred_questions": 3,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 7.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 60.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

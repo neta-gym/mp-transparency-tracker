@@ -4,80 +4,120 @@
     "constituency": "Amravati",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 1120,
+    "myneta_candidate_id": null,
     "slug": "balwant-baswant-wankhade",
     "house": "lok_sabha",
     "sansad_member_id": 5713,
     "profile_url": null,
     "canonical_name": "Balwant Baswant Wankhade",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 56,
+    "age": null,
     "photo_url": "/mp-photos/5713.jpg"
   },
   "criminal_record": {
     "total_cases": 1,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Crime No. 153/2014 Dt. 05.04.2014, Daryapur Police Station",
+        "ipc_sections": [
+          "467",
+          "468",
+          "471",
+          "406",
+          "420",
+          "109",
+          "120B"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Criminal Court Daryapur",
+        "fir_no": "Crime No. 153/2014 Dt. 05.04.2014, Daryapur Police Station",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:12.044563Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 17358730.0,
-    "liabilities": 3107392.0,
-    "net_worth": 14251338.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1120",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.553913Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 15.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 19.83,
-    "released": 19.83,
-    "sanctioned": 11.95,
-    "expended": 6.36,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:29:58.079634Z",
-        "notes": "Official eSAKSHI REST API — Works: 168 recommended, 130 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T15:37:24.683476Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:24.048415Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:33:24.045052Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 168,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 32.07261724659607
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +132,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:39:05.043836Z",
+        "fetched_at": "2026-09-02T15:33:24.043880Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +140,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Balwant Baswant Wankhade , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0xmeVVUTUp1THkyd0lRMmlpRDZOR3E5WUpQRS1heHhTdEc1WTJiWW9hUmtOT3pkNnRiS2xuck9HUGpudU9fQXBLa1d6ZzhvZzc2ZXkyRVFoTjBfM3hkYjZVWHl0eDVnLWdqZjN3bGtENVNZeGI3a3hLOS15X3ZSV2tyVTdIbjZZMlRjbUVaQXVFWFU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Amravati Election Results 2024: Congress's Wankhede maintains comfortable lead over BJP - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRmJPZU1CWlpwa2lEam5hb1h4T2hLNmtJVkV2aHFIWm15ZTIyQXVQRm9JTjB4bEZLcnpLVEJncW12WGYwSEJyZUtVdkx4T2YwR05DaF93U0VNMGtBWXBLZFo0VnRFeG1XQ0Ywc3ViRkpDUmEyMVJaSlZpRjJ0UENQdXNwTFZpb1Q3bXpMYXVSZHltV3FyUGhndTI5TUJsV1NFdFlmTjlaZGJUVDdMNGstc2lzVkZueTk0b0dlOWJ3NDdtV2N3ZG5ZbmRhUmI1Wml0LXFFbDlNN1EtWmJfRjdHX0h2cWIwUlBa0gHuAUFVX3lxTE9iNE1rNkp4R0FhcURvYVdPT3FXVEhPNzJnU1l1YjRFU0FYSnRSSFY4YzlSU21zdkJUNTVaVzhjWDVOLWloN0Eya1NlQ0pCczZnQXJwaGtPbU53MmpDVjNMNEhsZFJ0UlNTRC1JXzZ6dWY3cmFLTHZIUUY1Wkd6SG41NkZpT0pJdjZDaUNJUExnZFFyVEp3TTVsZVNoa0ZSRW1sMUdQTWMtSER4S0FObGcyMXdidjF5aVlFbnBzN3JtUjVnYTE4dkpoZ2RuZERRLTA0eHY3d1B0MUg3c3BrZ2tscUpUUlZYY1I2amVoelE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament - W - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWhqZGMwQzRIeWhxUjg0Y0JDRXdTMUpUVTVNUDByZFdKZUxjSGhYTE8tVFhyQ1pWZ3NOcGktVm5Yazl0NV9UcXFQM0Z4SXFoU1dZMEg0c2g2bE43aXJiYlc1YzRfREtpNFgtM09xc2Z1ZXF4RkR6azhGMGhHbmxEZDRTTDktcEk?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Amravati Election Result 2024 LIVE Updates Highlights: Balwant Baswant Wankhade of INC Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLTFwNEF6OFRHa1F4dXpQeVdxSDNRMDRmOTBpWDhkdS14RGVGRnQ0eV9wdktMbmVNQmhOdVhhWm96dEZvdWYya19vNkQwU0dwcU5MRy1kLVRfQUR1aURlVHFZM1ljakg3cDk0V3c3a01JRzRhUF9WMmJWMzlad1NNYmE5aEhtZTVBVm9iTWQwdlpRTGtHZFRoTlBLUzg4dE9lSk9YYlQyUmVfcHQ1NDU1cmluSTMtamotX2lTbkR0LTZsZ3FQLWlpYW5qNHdhMzNPOHk0RWkxb2QxV25QWDhRSXFsUdIB6AFBVV95cUxNdWVyVWpFcWlGSFJwcEliaERtSl9XT1ZIRzNSS05oOC1hQlhRc1VNOVdfb3hid0tuTExwM0NNdjlkWDNKVVpWc2ZsNl9tblpsdllzWmFpajlsVWZiVzlSeWZCWEphNy1qNVBsbkdZcW1lNGs3VzZtQXNGSnZNaGdYd1hyWG9qUmY2OE9sbDdqdnRrdTZVaVh2cm0xSkxHZnZMVEN2OUNxcUE0QWJPQkNIYnNUVVc3aVZDUUpGY2dvaVpQVVVQUFZoajhtMEpiU3g1TUdFbVJDWFJFU2RUckROekV4MGdmT0M2?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18",
+      "source": "CNBC TV18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVkU3NWhSQW1fSkVGTE5hczBJcGdNT3RNR2xBbUFleTJ4bjRHc3hrOWNSU001ejFNN09vbzdZQkJlSV81T0R2VHFQTmtYMjg4SDBrbDNlS3JDaG1SRU5wcVoyd2JzVTRFWjBaSS0yTmlPWmdjV0s0UExuVTJwNERMM0hjTkdnRVhHY2F5QVZKM3RONTlrbXlKcGMtcEFITUY1blRlV1VfNUVDZkhOWFJzTzVHcmE5R2pnMmQtZzkwZUtQYWRSSnFvNWtHSXdrUy1qdU5UR05wbVR2ZHlhcVUyZEdTbmNlMnJyTldqZHk3bnRVLXY0ZzJHYm1ob250dkVocGfSAYcCQVVfeXFMTmtxUHZGTDA2bDZ5SndtRjZzN2pET2Fwd09hR2tYeGhsSW1BOUc4RE9WZ24tR18xNUZ3Tnl2WHhnVkpJc05idEx3VnNSRXJ1X01jVWw1VGU4YzJmS0ljSWE4a1pOZFNWa3Q4WkVndnI4Y2JpQWh6SzY4RUx0YndJcFhGS0VqNWpLNlROcEczTVRiT1hZOHlyc0wyNGdxZ1RROGxHZjZWNm9uLWpoNmxybW1KNEZjdDFuS1lnZjZQUmdqYUEzYXdJZmNxMmdManRDV2NfUUhZRlYtWHlZQkU4TlMzVWlZUVhFQnB3SWRLQzh0MzVjVk9TUW14RTRnZlRXMnQtTy1idUU?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:39:25.733267Z",
+  "collected_at": "2026-09-02T15:37:24.684584Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +209,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.296598Z",
+        "fetched_at": "2026-09-02T18:38:07.822759Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +225,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.296607Z",
+        "fetched_at": "2026-09-02T18:38:07.822770Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +241,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.296612Z",
+        "fetched_at": "2026-09-02T18:38:07.822775Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +257,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.296617Z",
+        "fetched_at": "2026-09-02T18:38:07.822781Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +273,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.296623Z",
+        "fetched_at": "2026-09-02T18:38:07.822788Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +289,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.296627Z",
+        "fetched_at": "2026-09-02T18:38:07.822793Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +305,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.296632Z",
+        "fetched_at": "2026-09-02T18:38:07.822798Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -258,11 +337,19 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 9,
+    "total_articles": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 8,
     "top_headlines": [
+      {
+        "headline": "Balwant Baswant Wankhade , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0xmeVVUTUp1THkyd0lRMmlpRDZOR3E5WUpQRS1heHhTdEc1WTJiWW9hUmtOT3pkNnRiS2xuck9HUGpudU9fQXBLa1d6ZzhvZzc2ZXkyRVFoTjBfM3hkYjZVWHl0eDVnLWdqZjN3bGtENVNZeGI3a3hLOS15X3ZSV2tyVTdIbjZZMlRjbUVaQXVFWFU?oc=5",
+        "sentiment": "neutral"
+      },
       {
         "headline": "Amravati Election Results 2024: Congress's Wankhede maintains comfortable lead over BJP - The Times of India",
         "source": "The Times of India",
@@ -272,11 +359,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Amravati Lok Sabha elections: BJP's Navneet Rana to face Congress candidate Balwant Baswant Wankhede - India TV News",
-        "source": "India TV News",
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament - W - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUGVBbmhMaTUxaDJFYnJUNjZ6SkNLQlF5dmt2aDhBN2ZHcTkyQklGVUNsRWJhSV8xN0FveXA4amlxTUZRblg5bUFDYnBDUmlNdHRzMUtETzlaVXpGaUZRblZ3Mlk3WnBzdHlGblJ2NEttNV8yX3NGS0YwMVBDa1Zfa00xNmdXYjFHemc5MThWU0k3bzRzQkgtSXgzVzY0b2VMQ0ZRanNCaGlXeGZGRDk3SXp1ek9pVXFGMlluRGUxTTd4Y2NzRmEzajFiYXpsSUtVZktIRkY1Qm15MUdEWGEtS0pXYjBaV2lQTHZWLTZELXNrb2hrNGN0cjRzaXBYUmFNZ0xXa2FocmhZd1JwLVhhNlFNYV9FQUFzSUxrMlVra9IBpAJBVV95cUxOZ0FVSEVBMkRBRUdBTk0tT2pRVDZtWjRaRmhscUlxcGZoVXhiT0ZjM0hmbmNRNS1YanVaMjdUcWctd1BYeXhVOThheE9IR250a0tUSXNRaS05Rm8xcE9MdjBDbW1kV3Q3Vlpub2x6dGpmblpnVnhUSE51NmlqTjVzVHVEVk5WRlYwUllMZlJSckF6LVZhNV9VeWJtUmp1NnZKWF9QTjZTVUoxOTJhSzdmSUVkclNuRzQ3eGtQbVhveVdYR0NKTEhNUVdfWE1TU20zaFNhODlQcThhNUxWaUNOMlVyeFBWQ1hjaUo1anpNbDgxVGN1WWozX0VzUTd5YjVCWVhoOU5iTjdrOFFubmdlUlJHSVdtekc0ZkJ6Vi00MDU5S3NX?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWhqZGMwQzRIeWhxUjg0Y0JDRXdTMUpUVTVNUDByZFdKZUxjSGhYTE8tVFhyQ1pWZ3NOcGktVm5Yazl0NV9UcXFQM0Z4SXFoU1dZMEg0c2g2bE43aXJiYlc1YzRfREtpNFgtM09xc2Z1ZXF4RkR6azhGMGhHbmxEZDRTTDktcEk?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -288,14 +375,6 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Shah invites Rana couple to Delhi, just a courtesy visit, says Navneet - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcW14OGF4V2RkbUNqTjdwSkhveWFsWEZjRFFhbUpHOWdJZEVrV3Vtd0FYMkZqRjEtLXRPYmw4dXRoN1N4LTdBWnJ5YzBKZzRNZGxkZmkzQVhJUEkwLTRGR2lCZllqMXlTM00yOVhQbHBIU2p0QXFtRDhydlZRTTFMYXJXcnRCdjEwZlUxUU45NFVRQkJrLVZkaEF3bHhrWXZGa3dxaWh2VXNjcXVWbUFKZFp0bHlWYWVDbTlITVFIYUlqNkktbG9IYmJUMFdNOVlwSzN6X0N2TFNCcW_SAeABQVVfeXFMUF96dnY3a2NOeHJ2SW1WZDN2OW51OEk1LWlSV0s4eTJfMGxuU2hRNjR3elZoUjNDbmpYc1ljSjhkX0RhVjZZWE5DUE9QQk5kWk5NVU9yT3RFVTVDZkdVdGNmbENnd2N6SllhTFNnSjdFVlFSZXlrZHUxeTdlUUpKNEFxOVVwaEpSTzBUREdmXzZKbk9ZWTdZNHZjS21nQUtSMmJ2M3ZpcXRmaWZ4M1BUajNhZFFlckhneXJKckt5LTdjdnZsNUo4dDdRSjNadlp1WTV2eXhNYUdEX3pBVW5qVWU?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Maharashtra Lok Sabha 2024 Winner Candidates List: Check who's leading your constituency here - CNBC TV18",
         "source": "CNBC TV18",
         "severity": "low",
@@ -304,7 +383,7 @@
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +413,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 15,
+    "starred_questions": 4,
+    "unstarred_questions": 11,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 28.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +429,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

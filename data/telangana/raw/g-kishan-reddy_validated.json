@@ -4,16 +4,16 @@
     "constituency": "Secunderabad",
     "state": "telangana",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5251,
+    "myneta_candidate_id": null,
     "slug": "g-kishan-reddy",
     "house": "lok_sabha",
     "sansad_member_id": 5084,
     "profile_url": null,
     "canonical_name": "G Kishan Reddy",
     "name_aliases": [],
-    "education": "Others",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/5084.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Secunderabad",
       "state": "telangana",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 5251,
+      "myneta_candidate_id": null,
       "slug": "g-kishan-reddy",
       "house": "lok_sabha",
       "sansad_member_id": 5084,
       "profile_url": null,
       "canonical_name": "G Kishan Reddy",
       "name_aliases": [],
-      "education": "Others",
+      "education": null,
       "profession": null,
-      "age": 63,
+      "age": null,
       "photo_url": "/mp-photos/5084.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:36:38.693414Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 192241721.0,
-      "liabilities": 16300000.0,
-      "net_worth": 175941721.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5251",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:53.167737Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 70.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 3.4,
-      "expended": 0.04,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:49:05.924837Z",
-          "notes": "Official eSAKSHI REST API — Works: 35 recommended, 16 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:42:33.146631Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:38:53.524855Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:38:53.522056Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 35,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 0.272108843537415
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:25:57.703431Z",
+          "fetched_at": "2026-09-02T14:38:53.520976Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Rs 2K cr railway station works in progress in Telangana: Minister Kishan Reddy - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTkxUUFN3VEkwS0h0R3J5a2lQajlFanNldXZtb2lDZjNfTHZkaEZyZFdabUg1YXF4UHJHb2Z3SU5iRExITlZTeHkyMmVhZWNWbk03b09UcTZQQkZYTEwzQUFLZ3FteEJLWGFFdWY1WEIyN1RRZVBFYm9SSERkNTR4VVpNeTJBTHhPNjdLa3pDcHF2NkxaVS1xY0pBZDdjSV9SemtWeURkTUk1MmxCX211MW1RMWNVaTZVQkRxWTZmTFdjNWdxdWlRb1ZoeEEzVlFlNzctSHh30gHjAUFVX3lxTE9wbE9nT0tpS2Q0UDcxMHZxZ3B5RXdSUmQwNDVka0xNTFoxZlJ1XzVRazR1YUw0bmhQcnlYd2dNb05kR2xBRk5nRHRIRXBjbWZ3SVo4RmN2YmswdGVqbnNFN18xWWUyeXZhdTN2bV95ZTQzZURETDRIVElLQnNvMkdqMlFQTWQwZS1wV1hIMmk4dmhYUnFIRWRWZGdJUVlEMFRFbjEwWHlEZkIyMUhvQ25pdnVOay1UbkNjTFZPVVl6dENjOEhTOVFwNGhtQnZwQW9CYW8tVmVBMmM5N1VDTlZPOENJ?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Minister Kishan Reddy Flags Rs 1600-Crore Coal Scam, Writes To Revanth Reddy - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOai1pX3hCTGJ6Uk5fZlZnQjlVd1pJSTZBRDNOaExmUkJCMlo3cVhIWndUSDllQ1dtbVdPdVJiZHdzQXFraUxmX0JpRm9QSmtQLUFob1ZkajdBM3ZCdzBCWGVJR2tCLW84NGQ2aFQtN3pidHhNbkhWdzVhM3ZmWWNCYWc3cFg3RG1zVS1BT3FDVWV1VzV6VThMT2doZDZ2dWozck9IQWxJRWFySWVvN2p4TmNiTmVBTXlCcnYxSUw2LUFtbmxEbnFIUm4wZllDRDNwTlAtN2puQjhCQ1J0YVVfVDVYbE42YlVCVmNlemxrT1JBTzhnZ0UzeUE5ZnVFcVYtRTB4RGg1Qy1VZ9IBkgJBVV95cUxQQzNJVFJSN1NLRGNjUEhRTlUxS1g5RzBDZ1g0UUdzdHFSY3lwTFhwS3B1R1E4UDV2WVlLbEhMclZMSVpwMTVfSzNsZjR4TzdyUG03NFBKdkh6ZjhvVk1nQmN6V0Vlc1N4RjhmNGtkWEVJbzJROWZ2UkJ1bGY0cDEwTndTYm9VSDlmNGQtQS13VkY2M0c2akt3YlpPWUdhRHl5Z19GR2Z4U1JwTExaSTFEVWIwdHJ4QTBBbndCTm5HZkhBQ2pZLUVlaXdFQkFkT2x2N3QxbzRXY0lpZjBDNmI3UDBYa252cTV5cUs1TWhDMFY0am5iWW4ydjFkUUFwZDBCTWVOamtHWmtoRFZwTkpXZzJR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Centre announces eight new trains for Telangana - The Siasat Daily",
+        "source": "The Siasat Daily",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMldZQlRKcm5INThqcmpFQnpVTTJMYVBqMmNnT0xFSDNnTGJoS2FhZGFMMXpNWmk5Wk5BWWxWNmNnbWpRQVZZek5kUDZiSWhHWnZXb3d5amhveHQ5TGhyZGh5Q2FwWUJ2NzBMUmFDci1oMEFmbmhEZ2tjSjVrczBwV250dzBzd9IBiwFBVV95cUxPM2dpSjNYbVNkYXFsWVd5Rzc2bWlwOWZBUXBkVVpEbXh4dWxGUGw4RXM5dVhfZVdOQTVXM1h3cktqU0xrS2VkRXhBdXhWS2cxSEFVUENINjhJT3RZQzlfWUx2WWFLZlRkbHN3eGt0Z1JYSkxDNXhiQW5nbVhycFZPMXUzaEFpSHQwVEhj?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kishan Reddy makes it to Union Cabinet - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUndGa211VzZ5bkR6c0tKcUtBTVhWTTVCX1psSkwwYlB5cWVQTWdXVHIwUlpHbUxUOE5fdGljc2pqTi1iQWlDMjA1Z0s5ZlJSZmxDSlA4NlVlZzZ5Z2lJQ3ZfQmQ4SjJsZHh5QzBJb2RhX1hsYUM2YUltSzN3LWpYVDV4UTRNa05CRmVCN0l6NlBxOXA2cGswa0oxN0psVmhNcjAwODRMUEpMVDTSAbIBQVVfeXFMTW5aSVVxd1ZfRXhwS3ZLQ3AtN2lsWTVKdGZkSWtoQUZ0NjVaZ2tYYjVrX2ptYUR2N1dOa1Q2TExLRFhtam5sNE5JWE1KTG5xZVBXb3dieG9xaEwyZGQwUWRuT09wUDI3dWp2NFR1SXFqV3Nvb1BnOEJsWjFCeV9ocEFYdUtwRTdzZHFva2NrQmt2eDFXdmljckpHbjBPU3FuZ0cxN2dnTmVYX3ZRSXYxaU1ZQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP G Kishan Reddy to be part of Modi 3.0 cabinet - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdy1QVjhxMW92ZF9Ib0NnMUYwVklkbHBzb2VQMjZQa2w2NEU2c3ZOZjM3cHRLNU1hNlNQVmxZR1o1bURNRUVNa0xvLVJPR1U1QUtNZGwzVWpvM2lkOGpDTnVoZC1wZXBNVGsxTEI4dE1JeGhTaXExUl9fVVFPYWRDb2VTQVQ2SWhMYTdXaHR3YmhHa001R2hkVGNrLXRtbXRoTjRSZ3ZEcTRRVW9KYm1kTw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:26:57.637748Z",
+    "collected_at": "2026-09-02T14:42:33.147690Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.938940Z",
+          "fetched_at": "2026-09-02T18:38:10.479233Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.938948Z",
+          "fetched_at": "2026-09-02T18:38:10.479252Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.938953Z",
+          "fetched_at": "2026-09-02T18:38:10.479259Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.938958Z",
+          "fetched_at": "2026-09-02T18:38:10.479264Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.938964Z",
+          "fetched_at": "2026-09-02T18:38:10.479271Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.938968Z",
+          "fetched_at": "2026-09-02T18:38:10.479276Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.938973Z",
+          "fetched_at": "2026-09-02T18:38:10.479281Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,40 +322,57 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/kishanreddybjp",
+          "url": "https://x.com/http://www.twitter.com/kishanreddybjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/gkishanreddy",
+          "url": "https://facebook.com/http://www.facebook.com/gkishanreddy",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:39:17.679084Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Kishan Reddy seeks Telangana CM’s intervention to expedite road widening for Cherlapally, Secunderabad stations - The Hindu",
-          "source": "The Hindu",
+          "headline": "Rs 2K cr railway station works in progress in Telangana: Minister Kishan Reddy - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWFpJTE9fOExGaUp4QnJhSVdwTklsYjlhT3RJNE9JU01Ea3JWeFBXWnczTVNOZTdSbFB6QjRFMHp0R1BDTjlsM3BkVUFzQS1nZkZqRWlYem1CTjBuRkE3T3RDXzZZeTJjQ0RoalBUaTI5c3lGSDA5Zk5vNVZ1VmNaNjRCZEF3LWMyYUNDclNfZExXR2ZTU0w5YWJBRmFUVzRtZlJGVjJJRzJYRzlDMDRQWmFaWWZkZFNJZmtCVkdtQkV5ekd2Q0FQQ3dQLU12Z3o2VW9md2w2NC1TVHEya0NJVlVmVzFlSnpUSUt5WUZRMF8zb2dSVjBPNGpXSHNSVlJLN2VNNUw3b9IBjgJBVV95cUxPN2VCUVUtQWxIRlBCUFlKbDZpdFNZdFNOM0Q4UGdiT2VDTS1JaG5iM1NoQWVxWGRiTV93SDBSMW5IWWpfN2ZRTW1xX0JDMlAtYXlXcHVHR3FuRGxERUxtR1ptYW9fYTdDY2h2eHl5TmxNSTZxbWMxMFdGelVnRVBzYzB0TmJXOVhCV3lzZEVjRFVPZjhNQ0s4R3FFNlNGelgzVkhheFV1bEdKYmZYN0ZIMldhSzVOeVNRVHNGUGFycF9nNUJ2TXhhaWVfaVNiYXNWRU5fRExCbVJPWjUzdVd1dVNKUjNsbUs0RWZrYTNvV0dlY0p1aXVtLVo3V3VrRS11eWxKdUtrQml0SUFWUEE?oc=5",
-          "sentiment": "neutral"
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTkxUUFN3VEkwS0h0R3J5a2lQajlFanNldXZtb2lDZjNfTHZkaEZyZFdabUg1YXF4UHJHb2Z3SU5iRExITlZTeHkyMmVhZWNWbk03b09UcTZQQkZYTEwzQUFLZ3FteEJLWGFFdWY1WEIyN1RRZVBFYm9SSERkNTR4VVpNeTJBTHhPNjdLa3pDcHF2NkxaVS1xY0pBZDdjSV9SemtWeURkTUk1MmxCX211MW1RMWNVaTZVQkRxWTZmTFdjNWdxdWlRb1ZoeEEzVlFlNzctSHh30gHjAUFVX3lxTE9wbE9nT0tpS2Q0UDcxMHZxZ3B5RXdSUmQwNDVka0xNTFoxZlJ1XzVRazR1YUw0bmhQcnlYd2dNb05kR2xBRk5nRHRIRXBjbWZ3SVo4RmN2YmswdGVqbnNFN18xWWUyeXZhdTN2bV95ZTQzZURETDRIVElLQnNvMkdqMlFQTWQwZS1wV1hIMmk4dmhYUnFIRWRWZGdJUVlEMFRFbjEwWHlEZkIyMUhvQ25pdnVOay1UbkNjTFZPVVl6dENjOEhTOVFwNGhtQnZwQW9CYW8tVmVBMmM5N1VDTlZPOENJ?oc=5",
+          "sentiment": "positive"
         },
         {
-          "headline": "Hyderabad's new Railway Terminal: Charlapalli station set to open - Dailyhunt",
-          "source": "Dailyhunt",
+          "headline": "Minister Kishan Reddy Flags Rs 1600-Crore Coal Scam, Writes To Revanth Reddy - NDTV",
+          "source": "NDTV",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX2c2QnR5MXZGbVgxRE12UTd1OHU1M0lBcXJxOGR0ZkRqd2JjQW5tWHR3QUVGOElWUkZ4ejZ4cXV0eWlRcDczbDJRakZ5R2w2ek81ZDd6VmZydDRIeTcyNkpTZGNNSW0yN0V2c296NXRMeHNHa3Q4enNwZEJqWVBkSkZwcWFCY0Vvc0FLLWVmVkZSUkFCWG81VTNTeDUxZTlYZ1BPMmxlUDl4bnlleE5BdTFFRkhXQXVGVzJXVWpnQWZMbUVsSUFaWjJ4X1NXaGdqXzRxMGc5WUY4TWJzd0otc0ZnSDBzSF9MZjNN?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Kishan Reddy urges CM Revanth to expedite Hyderabad Metro Phase II - The Statesman",
-          "source": "The Statesman",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXNpbFhJS2x6N2psRGFTaEV1YU1iNzlSczB3UzFiTU9iOUYtVFgzdGJLY05iWjBZQ1RMeldlNVlRcGF2ajlHczBxZDkwakpGbldSQ0IxNGpXdFQ0eklheE1MazF6ZWFtZlV2aElyTDdKcVV1S3dLdl9YZm9mVVNsU05vcGM3N0NHTm9BMWpVNUdLSG83WDBYX2pfZTFyUVR4NDNVTmQwQllOMm03ZkFFOVJWU29UWjM40gG-AUFVX3lxTE94a1g3djdLYXByX2RxNnp4dkZMZXRJb01YMUhrTWdUazRRenpqYU5YT3hUS3ZiM2dhRUhJd29NTVQ1LTBlYmE4dWE5bnBsbERZSHVNa0dhdm9obDhtaG5Ybk5TVFp2dVhlNGpTcFBMT28tX1NCak1Oa0RoM3V4SUNMTEZCNDlFS2ZTN0YxUm0zM0drQm5WUVhKUTVGLXhRY0lRS1JHTGE1MFJIY3V6dUZlajAzNVYwUHkxM1hya3c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOai1pX3hCTGJ6Uk5fZlZnQjlVd1pJSTZBRDNOaExmUkJCMlo3cVhIWndUSDllQ1dtbVdPdVJiZHdzQXFraUxmX0JpRm9QSmtQLUFob1ZkajdBM3ZCdzBCWGVJR2tCLW84NGQ2aFQtN3pidHhNbkhWdzVhM3ZmWWNCYWc3cFg3RG1zVS1BT3FDVWV1VzV6VThMT2doZDZ2dWozck9IQWxJRWFySWVvN2p4TmNiTmVBTXlCcnYxSUw2LUFtbmxEbnFIUm4wZllDRDNwTlAtN2puQjhCQ1J0YVVfVDVYbE42YlVCVmNlemxrT1JBTzhnZ0UzeUE5ZnVFcVYtRTB4RGg1Qy1VZ9IBkgJBVV95cUxQQzNJVFJSN1NLRGNjUEhRTlUxS1g5RzBDZ1g0UUdzdHFSY3lwTFhwS3B1R1E4UDV2WVlLbEhMclZMSVpwMTVfSzNsZjR4TzdyUG03NFBKdkh6ZjhvVk1nQmN6V0Vlc1N4RjhmNGtkWEVJbzJROWZ2UkJ1bGY0cDEwTndTYm9VSDlmNGQtQS13VkY2M0c2akt3YlpPWUdhRHl5Z19GR2Z4U1JwTExaSTFEVWIwdHJ4QTBBbndCTm5HZkhBQ2pZLUVlaXdFQkFkT2x2N3QxbzRXY0lpZjBDNmI3UDBYa252cTV5cUs1TWhDMFY0am5iWW4ydjFkUUFwZDBCTWVOamtHWmtoRFZwTkpXZzJR?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,11 +384,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Jubilee Hills bypoll defeat a rude wake-up call for BJP in Telangana - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "Kishan Reddy makes it to Union Cabinet - The Hindu",
+          "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2ZHUzJGVnRDdUNjRGtVM2VkZHU5a2tzNUEzUUs2eGdVTHFMdDhQYUFZbUZfT3dzdXF0RlhQVVlDOUlyOVB0dFc1ZVJZMHJlR1hUdUZvOVNqbGRDR3RucmpPNEJWZG1mUnNySFcyMGp3bFJhZUxBcEFKME1sYWNrRVdGZDBtQmhicnYwd1NwblI5RG5wcVZKZXQtX01kQ2Zjdlc2N1VCZjRLTFlkb3phNEt1S2ltZFZoWXRLMHlVdG5mbW9xYm5JM09B0gHXAUFVX3lxTE1kMnRUZ3lCaUtYM0tnY3hzOTJqUG5NcGVCakNfTWt0UTNwdVVtZlBOZTNXVjM0WWViSHlrcWVBV0ZwOFFqaTJGTlNGX1dTdUZIemFVVVVLWmhpRjc4TTltaS1xajBNSkFTLTRHWnp4SkFlZV84VE90TFAzc200SU5JWTdoaDRPZFRXQ0UxbThUa1hoemwtWHgzVmtfc011SE9kdTNpTl9oLWJRNzI0OGtEdDVxY0gzSEhNRW92OHRGQUxHdlJDa0ZTcnZReDkwVjFFRDhmem0w?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUndGa211VzZ5bkR6c0tKcUtBTVhWTTVCX1psSkwwYlB5cWVQTWdXVHIwUlpHbUxUOE5fdGljc2pqTi1iQWlDMjA1Z0s5ZlJSZmxDSlA4NlVlZzZ5Z2lJQ3ZfQmQ4SjJsZHh5QzBJb2RhX1hsYUM2YUltSzN3LWpYVDV4UTRNa05CRmVCN0l6NlBxOXA2cGswa0oxN0psVmhNcjAwODRMUEpMVDTSAbIBQVVfeXFMTW5aSVVxd1ZfRXhwS3ZLQ3AtN2lsWTVKdGZkSWtoQUZ0NjVaZ2tYYjVrX2ptYUR2N1dOa1Q2TExLRFhtam5sNE5JWE1KTG5xZVBXb3dieG9xaEwyZGQwUWRuT09wUDI3dWp2NFR1SXFqV3Nvb1BnOEJsWjFCeV9ocEFYdUtwRTdzZHFva2NrQmt2eDFXdmljckpHbjBPU3FuZ0cxN2dnTmVYX3ZRSXYxaU1ZQQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP MP G Kishan Reddy to be part of Modi 3.0 cabinet - ANI News",
+          "source": "ANI News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdy1QVjhxMW92ZF9Ib0NnMUYwVklkbHBzb2VQMjZQa2w2NEU2c3ZOZjM3cHRLNU1hNlNQVmxZR1o1bURNRUVNa0xvLVJPR1U1QUtNZGwzVWpvM2lkOGpDTnVoZC1wZXBNVGsxTEI4dE1JeGhTaXExUl9fVVFPYWRDb2VTQVQ2SWhMYTdXaHR3YmhHa001R2hkVGNrLXRtbXRoTjRSZ3ZEcTRRVW9KYm1kTw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -368,7 +446,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -399,11 +477,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.24,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -426,12 +510,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Telangana: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 192,241,721. MPLADS utilization: 0.3%. Low confidence data: Parliament activity. 2 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:52.939697Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.480206Z"
 }

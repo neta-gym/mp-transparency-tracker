@@ -40,62 +40,107 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "216 Date 31/10/2011, Town Police Station, Keonjhar",
+          "ipc_sections": [
+            "143",
+            "341",
+            "294",
+            "149"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "SDJM Keonjhar",
+          "fir_no": "216 Date 31/10/2011, Town Police Station, Keonjhar",
+          "case_no": "GR Case No: 1012/2011",
+          "other_acts": "",
+          "charges_framed": "Yes",
+          "date_charges_framed": "18 Feb 2013",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:46.980816Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
+      "movable_assets": 2962265.0,
+      "immovable_assets": 5524000.0,
       "total_assets": 8486265.0,
       "liabilities": 176548.0,
       "net_worth": 8309717.0,
-      "previous_total_assets": null,
+      "previous_total_assets": 55120065500000.0,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8000",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.639458Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+          "fetched_at": "2026-09-02T14:30:57.236226Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 7.0,
-      "growth_ratio": null
+      "wealth_percentile": 0.0,
+      "growth_ratio": -0.999999846040368
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 5.56,
-      "expended": 1.64,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:37:22.496725Z",
-          "notes": "Official eSAKSHI REST API — Works: 264 recommended, 166 sanctioned, 4 completed"
+          "fetched_at": "2026-09-02T14:34:36.959016Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:30:55.331691Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:30:55.328694Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 264,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 11.156462585034014
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 90.0,
@@ -110,7 +155,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:44.662994Z",
+          "fetched_at": "2026-09-02T14:30:55.327562Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +163,64 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Keonjhar (ST) lok sabha election results 2024: Keonjhar (ST) Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHBVOHNHUEFwdVdpVUZvb1p2bk9jQzBRTGxrcDJ2V09ZOUNBM0tvYWhOZU9NVng4UVd5SUcxTkhqNHZsOVZrem9MSVZCOVVRcTVVS2NRTThBUVcybWhkQkZidFBrdHc3Q1ZSU05Od0hCaWdsQkRuaE1ucUc4MzJIendLM1ZGY19QZmZZVFVPV045M2Rr?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Keonjhar Election Result 2024 LIVE Updates Highlights: Ananta Nayak of BJP Wins - News18",
+        "source": "News18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN1VvVmkwRG5ibnBmWWFkV0lFbS1oRFZJZFNOMFZBNXB4VjB5RjV2OEg1T19KSFRBZFFkR3lBMFRlRVFuLU4yVkhHYTB0XzhXcE51VUMwUGxKN3JFWGp2X25GZ3RtWjF0bUNDMTR6MGRRcllHLVY1NU1EcnJQZEMtdG11N05IaDdmbXUwQm0tR2FUaEZGT1E2eW5sWFBseWZ1dWd5RDRRVEZBSGJMbzdvV2JtV1h6TF9EYTZKNGQzMS1iRUZ4TXh4TDJWdzRJX243YktWZ2poV2ZfY1BwckRRWDluc9IB6AFBVV95cUxPUmZxaE1SN3NpMlZJdk1qaTRoeHlBUWNOTmtXYV9JaUJfZHcxYmtGeFZtdjlqOXBVa0I5N2tMZmloanZTNW9kc1lNeUk5enZiZmlndXBjSGdsaHBxbXl2QkljRFhmLTB1MVZ6aWU0eXZRT09pZTBTVGI3a0U0VE5jWEdhNDg3UzhqYUZOYlZXaHVuUVdFS05pNGl5U3pFdG5sTXlPeTByaFpULU9VMXh6VTIxalBXV0l0UUlNVGg1dWdTQVU2eFdGUWR0YVpyYXhxRFl1SWhaN1Z1Zy16Q09Ha2F4QUFvNGpu?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Meet the Youngest Lok Sabha MP, Chandrani Murmu - The Quint",
+        "source": "The Quint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWFKeWptWnFLRFJNVl9hY0RYN2F3YzhnRU0tQmtfY212b0R6MkxsWnlWcWRGUVNuRkVVcU9ibm1abmF5WjZuM3p0YmU3TFRLcEJJMDd2MElNYXRWNWNWcUtpRkJEb2thZHBDRXRVT2tWQXRaSE5OaG5SdFJfOTBuYmdpT0pTeEpVTWR6a2QwaFJqWE1xRU8xN0l6WkZ5QkRlSFRYUTJ4YU84aWpkNmppOUZ6SDZoUdIBwwFBVV95cUxNWnFRSDdxeEsxazBfREZyRXE3QS0zeVByeGFhZV91SkdFVGdpcDhjajNJSlFWWTRlYW9KSm41YTk4ekdLMklWR1hEcWFFYng0ZE1NRkpDSFVyeEtyV0NKOXNxNmR5MWpTbUNNa2JFVXdYbnFTX0QwRU8wTXBLYUE3UDByVmhzclJQN0JqX0RBZlFrbGtmREdrZENiOUJLRkJUbGhRaGdOT1plM2xLQ1dVWWFPM0x0N3Fxa1pUaS0zMGhIaGM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "From searching job to youngest ever MP at 25, amazing tale of BJD's Chandrani Murmu - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNFRwdVNrTTlUUWFfNUkyZXJYZk1ac01TcHd4ZC1TWVFtV0FlRnpJazJGdWxNTTd2bDlQV2QycW0tWGhrckx0NUltLUpTcktaempUb29FR1puSlE2TkowdUpkd2hXYXlyQjVBeFc3N1dFaW5leUlKZ1E2SVN0ZGtYdnUzMlNfX2pETWRPSVZtY243X3Z6TFBMaHJ5UC1TRnppRlpfRWFxWFl5dDA2SWRIbHc0Q3RYbDVSNW9IdUg1Y0VCc1ZieFVKQk11RmcxcW9KYnpyQjE4bzhmYU9KOE9CaFEzOXVja0g10gH2AUFVX3lxTFBjYl8tYkFMQ00wRHFDMC1SWTIwclFJczZYNzZQc1ByempPMTg0NVZ5Rm9LXzdOcGtTS040QXdaSjUxNnd5ZmhjaHA3VlRkODFicGpNS01nVFVxNTBER0pQNXhkVFFTbjlLaWFzNmJfUFczdEtTR05udHVaazdTbkhwOGI1TThLSjAtcHFfZ1NLYUt5RFdtQ2ZBZERaUm1PWkZtRWdCTFdBelZPUnR6UEJxclNNMFJzTWhUX3dlYjFIVUMxQ0JhS0FlTy1zUy10ZnQxbk9PQURlVk1NNGRFOGFZLXNhTTg3M25aZUc2NG55WV9BaXZmZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "CM Majhi Launches “Zero Accident Day” in Keonjhar - Pragativadi",
+        "source": "Pragativadi",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rNE04MFctcXpiY1B4aERfcjJBM2Q1ZktyMnVvWTVGNUJXQlZYQk80aXZiQjVPUVpzZXdjZW84NFZ3ZDB1X1Blc3ZBNURhdmdJM0podThUSWZrRzF3d0h6UVhwOTBxX1V6QVNWUnNaM1E3bGJ2elVHSFh0Tno?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "myneta",
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:50.855250Z",
+    "collected_at": "2026-09-02T14:34:36.960188Z",
     "evidence_summary": {
       "criminal": "B",
       "assets": "B",
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +235,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.153883Z",
+          "fetched_at": "2026-09-02T18:38:08.651000Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +251,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.153893Z",
+          "fetched_at": "2026-09-02T18:38:08.651012Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +267,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.153898Z",
+          "fetched_at": "2026-09-02T18:38:08.651019Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +283,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.153903Z",
+          "fetched_at": "2026-09-02T18:38:08.651024Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +299,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.153909Z",
+          "fetched_at": "2026-09-02T18:38:08.651030Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +315,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.153913Z",
+          "fetched_at": "2026-09-02T18:38:08.651034Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +331,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:51.153917Z",
+          "fetched_at": "2026-09-02T18:38:08.651039Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,34 +356,51 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/i/flow/login?redirect_after_login=%2Fanantanayakkjr",
+          "url": "https://x.com/https://x.com/i/flow/login?redirect_after_login=%2Fanantanayakkjr",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/anantanayakbjp/",
+          "url": "https://facebook.com/https://www.facebook.com/anantanayakbjp/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/anantanayakbjp",
+          "url": "https://instagram.com/https://www.instagram.com/anantanayakbjp",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:30:59.152696Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
-        {
-          "headline": "KISS student murder: Keonjhar MP demands immediate action - Odisha TV",
-          "source": "Odisha TV",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFNfUzBGVmZqZ0J4QnIxTEpKMGh6TTNkYUh4ZTlreWNJMFhUNEU5b0o4NlVmbFJHWFdneE52cjFkZjgyLThYbDNzUHF1QkdJZFpQSFBzWjRpRU1rMmQyMEVVNGZxUGE2ZHMyZG5JOUR0Z0NrZGtLclZkOXhLdzdVcmw3T2NzLW9VVU5wWGIzSHBVaWJUeklN0gGcAUFVX3lxTE9TQTFRdzliejE3VC1IMElHeDZOVEdnUDFqbGg3ZHpLNFV1Znh6SW9KOVJKeXNtdTBBcTlhdzlzNWwwY3R4NzVuSjlWX0Q1aUxPRkh1R24xSFZTWmN5MlJrVVEybm05bVVKVmlfMS1NRFZQX1lYYzFKLVJrUkNVeEsyYVBuV1VRd1VSX2ZxT3AtRHBkR1RyOFkzUXpQUw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Ananta Nayak , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeGN3Y3RwUHZCV0Z1YWlYM1hfUDVYZmtJcVRUdWZtSHJvS1BVSjFYM3RJa3RSNkJER2hIUUhnNGFaWkxZR19VLU51ODdaa2J6VjhVUW1OMXlveUVISnNSc1lsS3ZSRlJSNXI3eWhsbEhXTGh0dGF2NkV3ajZtXzJtdzN2TQ?oc=5",
-          "sentiment": "neutral"
-        },
         {
           "headline": "Keonjhar (ST) lok sabha election results 2024: Keonjhar (ST) Winning Candidates List and Vote Share - India Today",
           "source": "India Today",
@@ -306,19 +410,35 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Odisha: Can change of candidates by BJD check BJP’s growing presence in Keonjhar? - The New Indian Express",
-          "source": "The New Indian Express",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZHpqeUVVaVdwQ1pOVWhpUGg5UVAxTlhQekp4ek1NdWJoeEx5Rm5Xd2VjcmFySGRmTmNoSG9Qc0hvV0hkU1Q1dGU4WGw5alNyZW9JQnhzeHl3RGRSRDdRNExPTVdPc1RWZXQxNDljYXFPLWZNTWtkLU9xeHI0enZOQ2FEbkRGZk0yVVBDX0VqTHJkRDZXYlFiUXF2cmswU1NPc1FWcTcxT1VGS21CMUxGOGp0QXdGem1OdDVIRWhJZWZhNlRDaFQ2ZnBmbXBpVHlNSnRZ0gHgAUFVX3lxTE5ZR0N2TWZJUnZWdWVKNTM3NUd1dWc2aDF2eU5EZ2FJb00wMXI5MGotNkFqN2M5SjFYLVFreXFPeUdRdzdVSmJ4RmVUUGxuRF9UZHdrRmtxMjNQUmFNQmZ0d2tGSEx2cW1Zb2dpWVFHM2RoZ1hzenp3bzVSZmRzRXM5Q3VJZXk4VzQwNkZCekY0cG5IZ1hVMTI5Y2tyYVZZY0lYZ05zZ0l4SDNPZHZCQzBJbENUbmhKZkZCejliUnFCaGJpVVNDcGtUWXo1eER2N3BaOUFiMnVwZmhfSDdzWVVD?oc=5",
-          "sentiment": "neutral"
-        },
-        {
           "headline": "Keonjhar Election Result 2024 LIVE Updates Highlights: Ananta Nayak of BJP Wins - News18",
           "source": "News18",
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN1VvVmkwRG5ibnBmWWFkV0lFbS1oRFZJZFNOMFZBNXB4VjB5RjV2OEg1T19KSFRBZFFkR3lBMFRlRVFuLU4yVkhHYTB0XzhXcE51VUMwUGxKN3JFWGp2X25GZ3RtWjF0bUNDMTR6MGRRcllHLVY1NU1EcnJQZEMtdG11N05IaDdmbXUwQm0tR2FUaEZGT1E2eW5sWFBseWZ1dWd5RDRRVEZBSGJMbzdvV2JtV1h6TF9EYTZKNGQzMS1iRUZ4TXh4TDJWdzRJX243YktWZ2poV2ZfY1BwckRRWDluc9IB6AFBVV95cUxPUmZxaE1SN3NpMlZJdk1qaTRoeHlBUWNOTmtXYV9JaUJfZHcxYmtGeFZtdjlqOXBVa0I5N2tMZmloanZTNW9kc1lNeUk5enZiZmlndXBjSGdsaHBxbXl2QkljRFhmLTB1MVZ6aWU0eXZRT09pZTBTVGI3a0U0VE5jWEdhNDg3UzhqYUZOYlZXaHVuUVdFS05pNGl5U3pFdG5sTXlPeTByaFpULU9VMXh6VTIxalBXV0l0UUlNVGg1dWdTQVU2eFdGUWR0YVpyYXhxRFl1SWhaN1Z1Zy16Q09Ha2F4QUFvNGpu?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Meet the Youngest Lok Sabha MP, Chandrani Murmu - The Quint",
+          "source": "The Quint",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWFKeWptWnFLRFJNVl9hY0RYN2F3YzhnRU0tQmtfY212b0R6MkxsWnlWcWRGUVNuRkVVcU9ibm1abmF5WjZuM3p0YmU3TFRLcEJJMDd2MElNYXRWNWNWcUtpRkJEb2thZHBDRXRVT2tWQXRaSE5OaG5SdFJfOTBuYmdpT0pTeEpVTWR6a2QwaFJqWE1xRU8xN0l6WkZ5QkRlSFRYUTJ4YU84aWpkNmppOUZ6SDZoUdIBwwFBVV95cUxNWnFRSDdxeEsxazBfREZyRXE3QS0zeVByeGFhZV91SkdFVGdpcDhjajNJSlFWWTRlYW9KSm41YTk4ekdLMklWR1hEcWFFYng0ZE1NRkpDSFVyeEtyV0NKOXNxNmR5MWpTbUNNa2JFVXdYbnFTX0QwRU8wTXBLYUE3UDByVmhzclJQN0JqX0RBZlFrbGtmREdrZENiOUJLRkJUbGhRaGdOT1plM2xLQ1dVWWFPM0x0N3Fxa1pUaS0zMGhIaGM?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "From searching job to youngest ever MP at 25, amazing tale of BJD's Chandrani Murmu - The New Indian Express",
+          "source": "The New Indian Express",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNFRwdVNrTTlUUWFfNUkyZXJYZk1ac01TcHd4ZC1TWVFtV0FlRnpJazJGdWxNTTd2bDlQV2QycW0tWGhrckx0NUltLUpTcktaempUb29FR1puSlE2TkowdUpkd2hXYXlyQjVBeFc3N1dFaW5leUlKZ1E2SVN0ZGtYdnUzMlNfX2pETWRPSVZtY243X3Z6TFBMaHJ5UC1TRnppRlpfRWFxWFl5dDA2SWRIbHc0Q3RYbDVSNW9IdUg1Y0VCc1ZieFVKQk11RmcxcW9KYnpyQjE4bzhmYU9KOE9CaFEzOXVja0g10gH2AUFVX3lxTFBjYl8tYkFMQ00wRHFDMC1SWTIwclFJczZYNzZQc1ByempPMTg0NVZ5Rm9LXzdOcGtTS040QXdaSjUxNnd5ZmhjaHA3VlRkODFicGpNS01nVFVxNTBER0pQNXhkVFFTbjlLaWFzNmJfUFczdEtTR05udHVaazdTbkhwOGI1TThLSjAtcHFfZ1NLYUt5RFdtQ2ZBZERaUm1PWkZtRWdCTFdBelZPUnR6UEJxclNNMFJzTWhUX3dlYjFIVUMxQ0JhS0FlTy1zUy10ZnQxbk9PQURlVk1NNGRFOGFZLXNhTTg3M25aZUc2NG55WV9BaXZmZw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "CM Majhi Launches “Zero Accident Day” in Keonjhar - Pragativadi",
+          "source": "Pragativadi",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rNE04MFctcXpiY1B4aERfcjJBM2Q1ZktyMnVvWTVGNUJXQlZYQk80aXZiQjVPUVpzZXdjZW84NFZ3ZDB1X1Blc3ZBNURhdmdJM0podThUSWZrRzF3d0h6UVhwOTBxX1V6QVNWUnNaM1E3bGJ2elVHSFh0Tno?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +472,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 27,
+      "starred_questions": 8,
+      "unstarred_questions": 19,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 52.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +488,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 90.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +519,14 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.44,
   "flags": [
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -420,6 +546,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 8,486,265. MPLADS utilization: 11.2%. Parliament attendance: 90.0%. Questions asked: 27. Debates participated: 6.",
-  "validated_at": "2026-09-02T01:36:51.154673Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 8,486,265. Parliament attendance: 90.0%. Questions asked: 27. Debates participated: 6. Low confidence data: MPLADS. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.652110Z"
 }

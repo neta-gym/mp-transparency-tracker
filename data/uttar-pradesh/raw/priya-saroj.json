@@ -4,16 +4,16 @@
     "constituency": "Machhlishahr",
     "state": "uttar pradesh",
     "party": "Samajwadi Party",
-    "myneta_candidate_id": 8097,
+    "myneta_candidate_id": null,
     "slug": "priya-saroj",
     "house": "lok_sabha",
     "sansad_member_id": 5775,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 25,
+    "age": null,
     "photo_url": "/mp-photos/5775.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,118 @@
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "0111/2024, Police Station Madiyahun, Dist. Jaunpur, UP",
+        "ipc_sections": [
+          "171F",
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "0111/2024, Police Station Madiyahun, Dist. Jaunpur, UP",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "0096/2024, Police Station Phulpur, Dist. Varanasi, UP",
+        "ipc_sections": [
+          "171F",
+          "142",
+          "188"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "",
+        "fir_no": "0096/2024, Police Station Phulpur, Dist. Varanasi, UP",
+        "case_no": "",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:05.840183Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 1125719.0,
-    "liabilities": 0.0,
-    "net_worth": 1125719.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8097",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.689070Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 1.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.48,
-    "expended": 5.38,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:05.521380Z",
-        "notes": "Official eSAKSHI REST API — Works: 1358 recommended, 1353 sanctioned, 725 completed"
+        "fetched_at": "2026-09-02T17:29:44.185890Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:26:03.561149Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:26:03.558176Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 1358,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 36.59863945578231
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +148,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:05:30.535688Z",
+        "fetched_at": "2026-09-02T17:26:03.557160Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +156,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Priya Saroj cheers for Rinku in Lucknow, pays tribute to late father-in-law: Video - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNU93aDRGOElGQ1VkaTlXSmJSaWtCUmh0QUhVX1dVMUhoX1BDd3FTdGtORkI5OTJtYng4bTFmUFZ4S01lSlRFdGw0MlYtTGtlM1k0UlNuUXBXWjZTU2JPWUFsdTFZV1BSMTVLalU3NlFUWndudTlnejNmY3JoZEUxZWVTb3huYk9ZRDhES2JydFYyYk9PcU1VNk9kcDdOSS03YTZTRkU0MXA2aGh1ZTR3MnZac3BCZkU3M2xCR190TWV3dTZjSnZqNHl6N3Z4TnJw0gHWAUFVX3lxTE9zODJpTDBpUWNxUGY1Ukh1WVFzamVBRncxQnQ1Y2oxWC1wVmVKV1l2YUo4VTFtUGFvOF9Md0twV3QtWl9Jbkl1UkxJV19wcjIydUhHT3pSNi16eUp3OVJidU9WNHRKdG00Rkt4YXcyQVNyc21wLVVtWWlXX0t1VGxsVXNyMmRMX1lQWk5IWUxGRFFVdlp3NW81MkNwaEREWTBIZjlaTjRhcjkyVjB5X25MN2F4UU9tQ3RVaUNyaHc2by1zUHdSN2VPY203RUVVQlI1cUZjQkE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Who is Priya Saroj? Samajwadi Party MP engaged with cricketer Rinku Singh - Livemint",
+      "source": "Livemint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWRraUdib281dFA2OTVhMmhPc0c4d1V1Q1o3T0xnVGxPakIwbU5LSVphWkNQSjI2T09KYndVb1Y3QW1OYmxzUUc0SFZuNVd0bnM4djhad21iOEdXY21EeEN1SWpjNU1fV3N2TVBtc24xRlcwOE9qeEx2OUFHaEVHU1I2ZnFaSUp5QURmSFl3VV9rdW1JcDFHWmgyMnRlNzdKNmt4QVlJRFAxX2RXVXhTNE1NbUFsYTZ3WXhaY2tPLXktZXRtbnow0gHMAUFVX3lxTE5NOEpHMno5TEItTlNKa0ZReUI1WHRZYUlRYTRNUk5YUGxUMW41Y0M4X0lycjJsbzVScGs1S3BlbzRHRHJsd1Vrc2RrTHlaSVRPbGZualdDQl9LOWFQWm5RVXZqQUtKRFpXMFItMllkaGI0T2xFQ28wcFdiSzZSZG0yOHNHUlNZY3phN2tROVF1cVhreVh6N0NFNUpKcTBzRXY3X2tid3JjN0Iyb18wOWJHNXFMdm5jT3JYX0FNXzVfeERPbWc0XzdMZ1lOZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rinku Singh Engaged To SP MP Priya Saroj? - Rediff",
+      "source": "Rediff",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWHo1ZF94Y210akpPV21QcEc1cFNrQzF6b2xBc2VUTnpYcF9IalVQV1ZxVmpEZnJvdzZvOXlJZmlmWC11ekhvUFRwSkZ4bWVrbXl4VnV4QWlMei1aSUNUaVJYWEN4LVU1amJPVnNFWTd4VUs3UEt2TDJpa3lWT2U1WWl0OXF3eEFnMWItUktfQUVXVXBxR0HSAZgBQVVfeXFMTjZ0ZTdtNDFKZkZOcHpfaXNFRDdnMklsbnZyVWlmSVUxVzcyLXZET2JPRjdIelI4a1pHdUlBVFM5SGZJUnQtOVJSY2N2Tm8xa0N2TUZScm03cEh5d2lEV3VZbFN1M25xVW5ROVgtaXJIZTRucy1zTnVFVUNQTlNxaHdOWHhoSlNZVl9aQUU4dnhTOWwwTGZ6UGs?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Who is Priya Saroj, Samajwadi Party Engaged to Cricketer Rinku Singh - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3ZDUEZoMkRzd215N2hWd1lqV0o5OTNlRml4MmlrTHlXMGRaMW5tVmJCQXRqcTBSVEF5Tk9JMG9JLUxxV3ZRSnBHSjhqYTl2aHZXNTN4WG9PWTJnb0ZGeWZSR0tfcnROdjdRVnZNZmtxS05sQmo4NDM5anU0U3d0VGk3TnNoSHlfNmFwYlhjWTZMS2o2NWU4M1JsUlpJdjk4YUUtdTl1RmVURWV4S3ZCclR6LXJuSVlBVHfSAb8BQVVfeXFMTXh3UzdNNHZ3UEhrZ3hDbUM2WllLaDBEWVZqUEU0c2dTWXJwM2UtQTRMWmNMa3YwZGNraVNEeF9CV0t0TmVnRGVqaXdjTkpPdEJkdlRYMzM0VGFPWjhzZjZZZHZtdFR2LThUbzI3NFpPMVlER1NRODc0MzJ6b3pGNjBrM296SnBQeFlvSEhzM2NPb3ZmSnlDQWZCbmwzOWNKQVFmT0xFMld0VEhZMkxIdXhPMm9QSm8zdDRRa0E0cTg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Who is Priya Saroj? The 25-year-old MP linked to cricketer Rinku Singh - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUdvU0s1ZVpBLVZ2b2ZBRGRfTUJjTGYtdDg1NEJOUFFJb0RJOEhuWkJHdVQ3Tlg1OTh5clZmQ2tWVDlDRnc4a1F5UUptSDA5NFNpODRibUMxRFJsMkphVk1kODNFSTJ1OVBNZXk0NFUtUXdaUmZSd3dhZHRnektqMXRpMFpyam5WWFdfR0NILXpBb1ppMG91QmRISi1fWE10NnJoOEt2MjJ6R0dFdzVNOU5CeEhwX09fdmNWZ0NuT1VIQk9jNmNtRDhWdDE2a2pCVVVNRzFtTXhDSGVjN3pRdDhCOVBRa3JSY0HSAe8BQVVfeXFMTWZnVTY4cEtMa0dEaWs4QkhqdU44NkxtcDh3SDhZTS1mN2pmUER4M09oR1lZbk1ySFEwX005dmpCU25wQlF5UXhHNmt5Q1k0LUpXLWtqM2JPeUVRQmNtUDdJNzYyQWwxRTVFa3lSSFZsVG5VLXFUcWpYTFdRMUFXWXRJRURTTTBINnRlSHhhdjdLUTZxZmkxS2xQV3NQZEl2Sl9VSHRFNkNQbXkwWTVHajJ2UkFPYW5hdVI2cWZ0OEM1VHA1OUdfakF5Zy1PTV90VUhkWmU2OVRLYjRCRTNUUkgxMEpydk15UmNhclZ5M0k?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:05:51.125131Z",
+  "collected_at": "2026-09-02T17:29:44.186911Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +225,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.914105Z",
+        "fetched_at": "2026-09-02T18:38:11.488008Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +241,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.914114Z",
+        "fetched_at": "2026-09-02T18:38:11.488019Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +257,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.914119Z",
+        "fetched_at": "2026-09-02T18:38:11.488024Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +273,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.914123Z",
+        "fetched_at": "2026-09-02T18:38:11.488030Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +289,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.914129Z",
+        "fetched_at": "2026-09-02T18:38:11.488035Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +305,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.914134Z",
+        "fetched_at": "2026-09-02T18:38:11.488040Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +321,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.914138Z",
+        "fetched_at": "2026-09-02T18:38:11.488045Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +337,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.914142Z",
+        "fetched_at": "2026-09-02T18:38:11.488050Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,56 +362,89 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/priyasarojMP",
+        "url": "https://x.com/https://x.com/priyasarojMP",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/SarojpriyaSp/",
+        "url": "https://facebook.com/https://www.facebook.com/SarojpriyaSp/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/ipriyasarojmp",
+        "url": "https://instagram.com/https://www.instagram.com/ipriyasarojmp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T17:26:06.524698Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 1,
-    "neutral": 9,
+    "negative": 0,
+    "neutral": 10,
     "top_headlines": [
       {
-        "headline": "SP MP Priya Saroj Files Complaint Against BJP Leaders Over AI-Generated Morphed Images - ABP News",
-        "source": "ABP News",
-        "severity": "medium",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2VBdkt4YWdCcEJCb0t6U0pVR0ZEVmtRejl5d082emVoZk10Vjl0VW1icnZDZXl4ZXhnTUJ0cWdkU2pkUWFWbHNCNWlsRHBzLTlDMkNrUkdRQUZXRHRYbVFueDMyWm51TEZIZDhOWDVScEc3SHFMcjlIa1NaYVUxMzlQMFQ3R1dzS3JZcmEza3IxS3VhV0wyQkNfTnZvSXVwVnc5WHFSa3dza1NxYVJoSXRBMlJySFd6NURmeGJSN3l6eml4VkZuSDg5b9IB0AFBVV95cUxOanZiWE5WUkRkMGtnODZxb0d0OEJsN3Y5em9ESEJ3MXJlNVh0d0FkMnZNbzFtU3V3QVdKZHQwdkZBZmVtTFViR24xTEtpQ1V0MW9heWhOVkMxRFBURVQ3d01SbTFCMjJKMlR4QWVOeDFrOWE1ZGc1bHFNR0dCbkRuMUNXaGd2TnB4elo0VGltSURxdVJ0ZVE1Z2ZTYXlOc2hrYjZiWlFZbHUyWUhLN1l2Yk5IdGlVTjZXSkd2VTh3dTBtTWU5dmJXdnZVeFZfbWJE?oc=5",
-        "sentiment": "negative"
-      },
-      {
-        "headline": "Priya Saroj cheers for Rinku in Lucknow, pays tribute to late father-in-law: Video - MSN",
-        "source": "MSN",
+        "headline": "Priya Saroj cheers for Rinku in Lucknow, pays tribute to late father-in-law: Video - India Today",
+        "source": "India Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRE5ydV9aWFoyX0laNzRvM3d0a3NNTHdya21IVmlacUlPNUNXdTBoaldZUzV4U3FFS21hRWhtLXVsbHZxODB1NHhKOWxpdGEwQ1hsWDc3RzNUTC03VTRxVktlY001NGhzNktjaHpwQmhUbVpOTnUyNXI2emlNcVZLejZIU0ZxQnliLUYxMFM4U3hXYzlHdnNTMVRRWHpWQTl3RjF6VjE0Zm8taWkzSVZJVkhpbFhWRzZhQkVfdHdpM1NUVmp3akVWbWFqQjFPQUhYT3JKdWJGbEdONkJwQ3FEeU5qUGV1TnJTQjVJWHVGZmYzV0tITzdteWFhZXZBM1ctdVgzeE9LazFmZjNmckgw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNU93aDRGOElGQ1VkaTlXSmJSaWtCUmh0QUhVX1dVMUhoX1BDd3FTdGtORkI5OTJtYng4bTFmUFZ4S01lSlRFdGw0MlYtTGtlM1k0UlNuUXBXWjZTU2JPWUFsdTFZV1BSMTVLalU3NlFUWndudTlnejNmY3JoZEUxZWVTb3huYk9ZRDhES2JydFYyYk9PcU1VNk9kcDdOSS03YTZTRkU0MXA2aGh1ZTR3MnZac3BCZkU3M2xCR190TWV3dTZjSnZqNHl6N3Z4TnJw0gHWAUFVX3lxTE9zODJpTDBpUWNxUGY1Ukh1WVFzamVBRncxQnQ1Y2oxWC1wVmVKV1l2YUo4VTFtUGFvOF9Md0twV3QtWl9Jbkl1UkxJV19wcjIydUhHT3pSNi16eUp3OVJidU9WNHRKdG00Rkt4YXcyQVNyc21wLVVtWWlXX0t1VGxsVXNyMmRMX1lQWk5IWUxGRFFVdlp3NW81MkNwaEREWTBIZjlaTjRhcjkyVjB5X25MN2F4UU9tQ3RVaUNyaHc2by1zUHdSN2VPY203RUVVQlI1cUZjQkE?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "... तो क्रिकेटर रिंकू सिंह से नहीं IAS से होती MP प्र‍िया सरोज की शादी, ऐसे शुरू हुई कपल की लव स्टोरी, VIDEO - AajTak",
-        "source": "AajTak",
+        "headline": "Who is Priya Saroj? Samajwadi Party MP engaged with cricketer Rinku Singh - Livemint",
+        "source": "Livemint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRjFIQnh0WnktRmE0THktbUZBTkhYQ0REdVhnR0tCTmtfdzMwaHhnbDUyZlhhQzVYcEIyOXJZX3hPdkNKa0tScWxWNGJfV256VFZXUUV2WUJ1SlFhWUd0Y2paS3lJWVhRNDZUSEhEUlhNRzd6b2x1SEVuUUs3SFRSdHdNckZmOW9BUkZ5N2dpWUNGckhJMmN0V0FjUWJNMTNYOWdRV0k1andoSllESlVpUGc2cThBN0RvOE9HcUhZeEJmM1VZS1lXNEtUa1ItT0c3dVY3eU1iRGpFWkNKLXMzanBZc9IB6AFBVV95cUxNZ0g0V1BicnFZQk9nek9RNHdHSEhuU3hIQTFWbHRtdm1OaUNRUVB2bGp6VmZERk5wc0EwNDVjeGtXVVBuVUNkT08ta1BwQ0tfZ3M1QXkxYW56MXBROFFKY3pUR3ZtMjNkc0t1RWszR3VSV0ppZDA1YV9ZeHd0bktORngwaW14QkpSM2h6OWF5ajJzZ3JCMUloaG15NS1ZZVJmTWE0bk12eGVlNGFXT3d5TFF0V2tKdm1IdjhHaG82ajJjSWRQZVhFYlI2aUpVWVhlU2d3bU43ZXpIaklBallHWkxSMGhmeGh1?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWRraUdib281dFA2OTVhMmhPc0c4d1V1Q1o3T0xnVGxPakIwbU5LSVphWkNQSjI2T09KYndVb1Y3QW1OYmxzUUc0SFZuNVd0bnM4djhad21iOEdXY21EeEN1SWpjNU1fV3N2TVBtc24xRlcwOE9qeEx2OUFHaEVHU1I2ZnFaSUp5QURmSFl3VV9rdW1JcDFHWmgyMnRlNzdKNmt4QVlJRFAxX2RXVXhTNE1NbUFsYTZ3WXhaY2tPLXktZXRtbnow0gHMAUFVX3lxTE5NOEpHMno5TEItTlNKa0ZReUI1WHRZYUlRYTRNUk5YUGxUMW41Y0M4X0lycjJsbzVScGs1S3BlbzRHRHJsd1Vrc2RrTHlaSVRPbGZualdDQl9LOWFQWm5RVXZqQUtKRFpXMFItMllkaGI0T2xFQ28wcFdiSzZSZG0yOHNHUlNZY3phN2tROVF1cVhreVh6N0NFNUpKcTBzRXY3X2tid3JjN0Iyb18wOWJHNXFMdm5jT3JYX0FNXzVfeERPbWc0XzdMZ1lOZw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Who Is Priya Saroj? Meet Rinku Singh’s Would-Be Wife, Young Samajwadi MP and Lawyer - Asianet Newsable",
-        "source": "Asianet Newsable",
+        "headline": "Rinku Singh Engaged To SP MP Priya Saroj? - Rediff",
+        "source": "Rediff",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlZ0bjQxN2dROGl0WjFER191UjJjX25NZkJQQy0zTlJCcmdTUWUydExYUVh5bUFJcF9PTjkzbVdDSW5HM2RiYnc1MEFnVVJWTm5vcUZQODJWRVc1UXk0TUJKZGxpTWc3aW1LdFU2Y3lXSmFUTmNuQkc5Ml9lUm9EVUs5VjFrM1FoVmpTZUFHaEdGYktWcDNhRy15dmxLX1RhUXNIZjhpLXFlcDVJMVJZaDJMRWNMNkx4cm9Gbk05eFNLUG0xZVc5bExfLXpVTV9VWkd6Vjd2aTFPQ040ckh6NtIB5gFBVV95cUxOSVlodUVyZi1YUkljOE5oUzNUeVZ6b1hYd0tfWWozVjNmMVZKN25pX3VTTjZiNTNZd2J5eEY1ZDFjN0luOW1VQU9jaVQydElIeVAxX3NBYmtfYVZnMVFSdDNGRVdvOENXczZXM2szczdmMGh4ZVBOVjdFSHFmbDdKRlFJZTlWejhYVEloYVlyaWhZbldvX01CZ19tRjFZdjNsMzFoV2syOVVmWXI1ZnZhWTRPZEw3TGx6RVlsaWI2U1d4d0plWDdLRlRaMmExUXlRQ0hjRXRVUVlIRDltaXlkUU9mWDZsZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWHo1ZF94Y210akpPV21QcEc1cFNrQzF6b2xBc2VUTnpYcF9IalVQV1ZxVmpEZnJvdzZvOXlJZmlmWC11ekhvUFRwSkZ4bWVrbXl4VnV4QWlMei1aSUNUaVJYWEN4LVU1amJPVnNFWTd4VUs3UEt2TDJpa3lWT2U1WWl0OXF3eEFnMWItUktfQUVXVXBxR0HSAZgBQVVfeXFMTjZ0ZTdtNDFKZkZOcHpfaXNFRDdnMklsbnZyVWlmSVUxVzcyLXZET2JPRjdIelI4a1pHdUlBVFM5SGZJUnQtOVJSY2N2Tm8xa0N2TUZScm03cEh5d2lEV3VZbFN1M25xVW5ROVgtaXJIZTRucy1zTnVFVUNQTlNxaHdOWHhoSlNZVl9aQUU4dnhTOWwwTGZ6UGs?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Rinku Singh Visits Kashi Vishwanath Temple with Fiancee Priya Saroj, Fans Gather in Varanasi - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "Who is Priya Saroj, Samajwadi Party Engaged to Cricketer Rinku Singh - Deccan Chronicle",
+        "source": "Deccan Chronicle",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcHdoaGxzQWJyVkNyZV9vcHgxZ3BvT0h5aTAtakduck85bFZDajNsbjB2N2xhZkVuQVNxN3h4TkZuTUpTd1dobTY1U3M3RWJDUnE3djhUMGl6dUZvTE9DTTJmWEItbEpBOFRxbFI4T29KemJ2UEViNGJuM2tydy1lRUxPaXNoSDNlbDc2eTY5WElqUElIZzEtQjl4bVhyWVB4Q0d5VFZSTHZ0NVBpQmZPXzgySzRHcVpZc2hrRDk4Q2czemFvZmNCaS1mbW5mc3MtNWFsWjdCb2dpVVp6cGgzM09SNUlGX2Q1MnFKb1Zxbk5XeFRIa0FZOHV2OVdWQVlDbkhlQ2NFMkNmUnhBQmJ3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3ZDUEZoMkRzd215N2hWd1lqV0o5OTNlRml4MmlrTHlXMGRaMW5tVmJCQXRqcTBSVEF5Tk9JMG9JLUxxV3ZRSnBHSjhqYTl2aHZXNTN4WG9PWTJnb0ZGeWZSR0tfcnROdjdRVnZNZmtxS05sQmo4NDM5anU0U3d0VGk3TnNoSHlfNmFwYlhjWTZMS2o2NWU4M1JsUlpJdjk4YUUtdTl1RmVURWV4S3ZCclR6LXJuSVlBVHfSAb8BQVVfeXFMTXh3UzdNNHZ3UEhrZ3hDbUM2WllLaDBEWVZqUEU0c2dTWXJwM2UtQTRMWmNMa3YwZGNraVNEeF9CV0t0TmVnRGVqaXdjTkpPdEJkdlRYMzM0VGFPWjhzZjZZZHZtdFR2LThUbzI3NFpPMVlER1NRODc0MzJ6b3pGNjBrM296SnBQeFlvSEhzM2NPb3ZmSnlDQWZCbmwzOWNKQVFmT0xFMld0VEhZMkxIdXhPMm9QSm8zdDRRa0E0cTg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who is Priya Saroj? The 25-year-old MP linked to cricketer Rinku Singh - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUdvU0s1ZVpBLVZ2b2ZBRGRfTUJjTGYtdDg1NEJOUFFJb0RJOEhuWkJHdVQ3Tlg1OTh5clZmQ2tWVDlDRnc4a1F5UUptSDA5NFNpODRibUMxRFJsMkphVk1kODNFSTJ1OVBNZXk0NFUtUXdaUmZSd3dhZHRnektqMXRpMFpyam5WWFdfR0NILXpBb1ppMG91QmRISi1fWE10NnJoOEt2MjJ6R0dFdzVNOU5CeEhwX09fdmNWZ0NuT1VIQk9jNmNtRDhWdDE2a2pCVVVNRzFtTXhDSGVjN3pRdDhCOVBRa3JSY0HSAe8BQVVfeXFMTWZnVTY4cEtMa0dEaWs4QkhqdU44NkxtcDh3SDhZTS1mN2pmUER4M09oR1lZbk1ySFEwX005dmpCU25wQlF5UXhHNmt5Q1k0LUpXLWtqM2JPeUVRQmNtUDdJNzYyQWwxRTVFa3lSSFZsVG5VLXFUcWpYTFdRMUFXWXRJRURTTTBINnRlSHhhdjdLUTZxZmkxS2xQV3NQZEl2Sl9VSHRFNkNQbXkwWTVHajJ2UkFPYW5hdVI2cWZ0OEM1VHA1OUdfakF5Zy1PTV90VUhkWmU2OVRLYjRCRTNUUkgxMEpydk15UmNhclZ5M0k?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -366,17 +494,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -4,17 +4,17 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.9 / 100
+## Composite Transparency Score: 50.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 21.0 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 90.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 1
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 1
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 9.08 Crore
-- **Liabilities:** Rs 11.30 Lakh
-- **Net Worth:** Rs 8.97 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 56% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 4
-- **Utilization Rate:** 26.2%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -75,28 +74,42 @@
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - Muzaffarnagar Election Results 2024: Harendra Singh Malik of Samajwadi Party wins - The Times of India (The Times of India) [neutral]
-- Harendra Singh Malik , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu (The Hindu) [neutral]
 - UP: SP’s Harendra Malik defeats Union Minister Sanjeev Balyan in Muzaffarnagar - ThePrint (ThePrint) [neutral]
+- Muzaffarnagar Lok Sabha Constituency: Tough fight between BJP’s Sanjeev Balyan and Harendra Singh Malik of SP - The Indian Express (The Indian Express) [neutral]
+- Battle for Jat supremacy awaits BJP, Samajwadi candidates in UP's Muzaffarnagar - India Today (India Today) [neutral]
 - Muzaffarnagar Lok Sabha Election Result 2024: SP's Harendra Singh Malik vs BJP's Sanjeev Balyan. Who won? - The Economic Times (The Economic Times) [neutral]
-- Muzaffarnagar Lok Sabha election 2024: Who has an upper hand?BJP's Sanjeev Balyan or SP's Harendra Singh Malik - India TV News (India TV News) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Muzaffarnagar Election Results 2024: Harendra Singh Malik of Samajwadi Party wins - The Times of India** (The Times of India)
+- ! **UP: SP’s Harendra Malik defeats Union Minister Sanjeev Balyan in Muzaffarnagar - ThePrint** (ThePrint)
+- ! **Muzaffarnagar Lok Sabha Constituency: Tough fight between BJP’s Sanjeev Balyan and Harendra Singh Malik of SP - The Indian Express** (The Indian Express)
+- ! **Battle for Jat supremacy awaits BJP, Samajwadi candidates in UP's Muzaffarnagar - India Today** (India Today)
+- ! **Muzaffarnagar Lok Sabha Election Result 2024: SP's Harendra Singh Malik vs BJP's Sanjeev Balyan. Who won? - The Economic Times** (The Economic Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Harendra Singh Malik shows moderate transparency with a score of 57.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Harendra Singh Malik shows moderate transparency with a score of 50.5/100. Significant criminal cases are a concern. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 90,780,765. MPLADS utilization: 26.2%. Parliament attendance: 100.0%. Questions asked: 14. Debates participated: 11.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 14. Debates participated: 11. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -136,7 +149,7 @@ Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -215,8 +228,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Harendra Singh Malik's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 26.2%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -234,10 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

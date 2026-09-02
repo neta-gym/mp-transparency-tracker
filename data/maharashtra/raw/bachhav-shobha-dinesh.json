@@ -4,80 +4,144 @@
     "constituency": "Dhule",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 7088,
+    "myneta_candidate_id": null,
     "slug": "bachhav-shobha-dinesh",
     "house": "lok_sabha",
     "sansad_member_id": 5773,
     "profile_url": null,
     "canonical_name": "Bachhav Shobha Dinesh",
     "name_aliases": [],
-    "education": "Others",
+    "education": null,
     "profession": null,
-    "age": 65,
+    "age": null,
     "photo_url": "/mp-photos/5773.jpg"
   },
   "criminal_record": {
     "total_cases": 2,
-    "serious_cases": 0,
+    "serious_cases": 1,
     "convictions": 0,
     "pending_cases": 2,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Section 13(c) and 13(1)(c) of Prevention of Corruption Act.",
+        "ipc_sections": [
+          "405",
+          "406",
+          "408",
+          "409",
+          "418",
+          "419",
+          "420",
+          "425",
+          "34",
+          "120B"
+        ],
+        "is_serious": true,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "District Judge 3 & Additional Session Judge Nashik (Shri B V Wagh)",
+        "fir_no": "",
+        "case_no": "Criminal Revision No. 221/2023",
+        "other_acts": "Section 13(c) and 13(1)(c) of Prevention of Corruption Act.",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      },
+      {
+        "description": "0086/2021 Sakarwada Police Station Gangapur Road Nashik 422005 | Section 3 of Epidemic Diseases Act 1897",
+        "ipc_sections": [
+          "188",
+          "269",
+          "270"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "JMFC Nasik, D.P. Kaduskar Madam",
+        "fir_no": "0086/2021 Sakarwada Police Station Gangapur Road Nashik 422005",
+        "case_no": "SCC 2896/2022",
+        "other_acts": "Section 3 of Epidemic Diseases Act 1897",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:10.896498Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 305035058.0,
-    "liabilities": 21160000.0,
-    "net_worth": 283875058.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7088",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:49.508902Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 78.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.44,
-    "expended": 0.83,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:29:56.513212Z",
-        "notes": "Official eSAKSHI REST API — Works: 87 recommended, 42 sanctioned, 6 completed"
+        "fetched_at": "2026-09-02T14:51:22.671528Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:47:21.034668Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:47:21.031853Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 87,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 5.646258503401361
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +156,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:08.183021Z",
+        "fetched_at": "2026-09-02T14:47:21.030815Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +164,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Muslim community in Malegaon Central helps Congress win in Dhule - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObDJJNEpia29IRGwyWlgxeWhDMTBOR2JXTnFDZXRzSk1RRVlZb21PYWR5bUpoSHAzWU9pcWozWjJvelY2OTdZVDZXSzk1SmdROE1RQURrSFZxcWs5dzFMMV8xUE9Ld1MzVTQ0S2ZTSE5vLUxFS2dWTjN1Tl93bTFISE5saUxRMEdBNGtJbkUtb2RWZTdDYlk4cGFNZ05mVjlIMVV1dEc3MWxwZllVY1BGRGM3RnV0clZ1LXAzSTNNN3ZLWGRxOFc1MEhJV09wcHVOQzM4VNIB2gFBVV95cUxOX05aUWQtczVnbFRuelItdTRSTDRQSUZwOEE4QXBPWnR0VV9RSi1WZ1E0bkZUcnZLLWN2enRxS1I5cFRRTW1JY2xrNnUwUTZpUlprVHl0TEE5TTktcjJobklaLVI2WU5xN3Q0aEM1V256S0M2OEVCMVBUd254eTZSamV3VG1aNTg1Vmg4c0VzMHNNYmpnbFJmenk4b2FBWVZfR1dZLThEZmdUMHlJcjhfUHN4Q0gtMFZNYU9NZ2lxREpKTzNaTFJDRDdmX3kzcGpYcjN1YjhXMWxaZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bombay HC: No indication votes cast in name of dead in Dhule, 2024 Lok Sabha polls - SabrangIndia",
+      "source": "SabrangIndia",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTE5YdEZoWFMzTU1vdl9MSmY3cmN3UzBEZHBsclktUDdLalQ5RlRtVlVqNTBvZnBhUjY3a1JCaXVZZElYcjZUS3FvSW9mNUFINGNWaFJmSm5zMDVTa295dzZfSk5tWkgwamZzT08zLTAwUGNWdG43MXo2Q2VHTjdJTjlQWFBla1ptNHlKaWlTSVVCLUNOR1FzQ09pUmk3RTZBcEpXRGVBLXg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "HC dismisses ex-BJP MP’s poll fraud plea against Congress’ Shobha Bachhav in Dhule | Mumbai news - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMXhQMmJrQ2dhLW5NMlo4d0VNQ3hLLTBxVlRwWTE2WnFINF9XTzF4eVBCY05qSkFvZzY0Vy1QZnRGSmtHM1JVY05WNmg4aU9fejFNZ3hOX3l0X3FLeVBXbGxMZ3AzU3p4ZU1LZjB1cmtDaDBrNDVBUTRpei1ILV8xVDdiTjN5cnRuNjE0TzJvQTRvRWRQSzFRRWptUUlpbkE4NDlxelVrd0k3V1JrXzROVnJfVW96VWIwWTdZTUpaVDFYOXpoQVFLRzBiZWxVeU5oMWVQbHFmbmRqZUJ2RHF6TnhiT29VOTjSAewBQVVfeXFMTkhSMkRiSDBxLTNHOGVqRjdWV1B3Z0k2Uld0dHNuZUNVT0ZiMW9VNVhWUHAyUjgyeElnbkVhbEk4NzdDSzBxUURjbUF2SmdtWlJoV0tCVEFkNXcyS01lQ1MtX3lqbmxVLWxidTRGZjFOb3kzVVhwTjZEOUZrU2xfYVY4Y0k1OGRadVh1V2dSVDZwNGczYU9uMjFxMUdEcktEYzhlbEhHaXJKTmN2NVJMb3FlODdqSGhxcF9CT3ZlZEQ5alZjOVBNYWpLRVk3RURVZ3pxS1lyRl9od1pEV2dNMUhxWnhMbGgzYTNGY1M?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Dhule Election Result 2024 LIVE Updates Highlights: Bachhav Shobha Dinesh of INC Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLVByRk0xbzFjLU54QzRSeFhDeW9rVXhPUGNTa0g1WmtPdzNtbllabTQ3SmMtQ1d3dDRuOWRvWHc1dDlYNFRwejRWbzkwQzN2N1otMmZlZDdMOXFTOTRYMGZKbmxQRlY5RmxPUUo0c2tMTFFnZjhBUWo1aUxubnJfVncyeFZuZ1BWaWMtS0wxQWhHOXg2WnVXR1VleVpReG8tdVlRSy1FV0xpX0NWeS1Sc0pCeTFRaFc0LXZSOWlzZTdnVFpMbGhTeHFGQm5xX3BpSlZjVW10ajVoeFFoVHI40gHkAUFVX3lxTE55b1RUUmVsRVFmUEZJbHU0b3l5U2FKdzdFaFFTNTJtWm9zNVYtVkQ4U2JkZjVwRlVWY0RiTWpSZWlHNDRHb0FIZlI3VVo4SGJtNWt3QlRDRkloT29BNGFiVWU1TWdvS2l5czlxODllbHpSWEFOU2ZSb1VoQ2xaT3EyN09QaUdHb25HTGg5bTd5TWIxb0RqancwaUlLLXJ1djB2dXVDbTZVY1g4RDFlWkRrMnZxRUlCVW5iTnRib1lfQmhrOVprWUcyN2tVYTFfUnM2N2I4UDlYYnNfcDNwanlBaGp5eQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dhule election results 2024 live updates: Congress' Bachhav Shobha Dinesh wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONFlMSmV1c1k0bUNoQnJWN3RoU05KY3RvOEd6SU83MFF0UE1hRXBzNmxrNWtpcGlIZjZ2amtkNlVpRFFLSk1wa2gxY051el85WVFPMEhEdUZWYVAxNGZfLUFpZmIzOWNYTzBQXzRlVEtib1VuMHdDWTBtdy0tYU9RX3diNDFZM3FCTWlKMUNVcUNOUWVFell4SGRtTFVXaThSYTJ5X1RzVXdPU3JlSjdPMnhxZTA0dnlBWEkwQWM0Rkt6Z0lWdGN3M3ZtWXdWZThFSDVwYkdiYVhRV1c5VmszNVpKZXNOdHpZbXBQRnQ0djZzdWswLXRRclJB0gH_AUFVX3lxTE1SeUMzbjg2ZS1CeVRFaXNwTzRmOW9uVEZUbmt2UVJRSkhxQkFEYjhfekpLOTlXNy1MVVFsM1o0TFBGYnNxdU9JTUFBQmRCRmdwMldscE9LcTJSVGxmbDZyNmU0SW9QZHJlOEZ4dzU3TFJDX0xweGV6X005STdrREE2R0JCbzJiN2duTXhmVTFxZENTN2xOSmlabkhWYjduVDFDb1N3Zm1qOXBrNlBjVXFPMVVFcFlqOGFGazJUV1VzZWQyTXd6ZFRXT1RaZHh4b0kwTnQwclBVTFNXdDFQYXRxM2JzZ0VMTDZSSTlKZEg0blE1c2ZidmhmaTE5ak5uYw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:09.413257Z",
+  "collected_at": "2026-09-02T14:51:22.673033Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +233,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.277056Z",
+        "fetched_at": "2026-09-02T18:38:07.803460Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +249,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.277065Z",
+        "fetched_at": "2026-09-02T18:38:07.803471Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +265,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.277070Z",
+        "fetched_at": "2026-09-02T18:38:07.803476Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +281,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.277074Z",
+        "fetched_at": "2026-09-02T18:38:07.803481Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +297,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.277080Z",
+        "fetched_at": "2026-09-02T18:38:07.803487Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +313,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.277084Z",
+        "fetched_at": "2026-09-02T18:38:07.803493Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +329,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.277089Z",
+        "fetched_at": "2026-09-02T18:38:07.803498Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +354,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/i/flow/login?redirect_after_login=%2FBachhavTai",
+        "url": "https://x.com/https://x.com/i/flow/login?redirect_after_login=%2FBachhavTai",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/people/Dr-Shobhatai-Bachhav/61558476471648/",
+        "url": "https://facebook.com/https://www.facebook.com/people/Dr-Shobhatai-Bachhav/61558476471648/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/shobhataibachhav/",
+        "url": "https://instagram.com/https://www.instagram.com/shobhataibachhav/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:47:46.334723Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -272,6 +408,14 @@
         "sentiment": "neutral"
       },
       {
+        "headline": "Bombay HC: No indication votes cast in name of dead in Dhule, 2024 Lok Sabha polls - SabrangIndia",
+        "source": "SabrangIndia",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTE5YdEZoWFMzTU1vdl9MSmY3cmN3UzBEZHBsclktUDdLalQ5RlRtVlVqNTBvZnBhUjY3a1JCaXVZZElYcjZUS3FvSW9mNUFINGNWaFJmSm5zMDVTa295dzZfSk5tWkgwamZzT08zLTAwUGNWdG43MXo2Q2VHTjdJTjlQWFBla1ptNHlKaWlTSVVCLUNOR1FzQ09pUmk3RTZBcEpXRGVBLXg?oc=5",
+        "sentiment": "neutral"
+      },
+      {
         "headline": "HC dismisses ex-BJP MP’s poll fraud plea against Congress’ Shobha Bachhav in Dhule | Mumbai news - Hindustan Times",
         "source": "Hindustan Times",
         "severity": "medium",
@@ -280,27 +424,19 @@
         "sentiment": "negative"
       },
       {
-        "headline": "Lok Sabha Elections: Congress Announces Candidates For Maharashtra For Dhule, Jalna In Maharashtra - ABP News",
-        "source": "ABP News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1JISWh5MUUxTGl5d2ppQUZKeGlrTDRJNTBnVVMwY1g3MEZlYjB6VDkzQmQ1Z2tLemNlWkZ2a2VUVEZ2bW1nWkhFeXZDeTBOcjBVRlprdTBMRzVSdHBFTWY0d3doVDYxRTZUek5GamZRZU1VSWxXVFd0cG1EOGItSE9Jak0zd2E5M3JzZW5EZWJDWHQ3eGp1OXkzbFFpbGx4eVVrR2NlSGxGYjlnQ24yczliYVI1d05ucXfSAb8BQVVfeXFMUE8zVHhrRWhnNTFOUWx5MG5uYUY5RFBPMFRrZ3Z6NkVVQ2hxMlJPYnJ4V2dRMDRSbUlkNVhpSEQ4a3ZqRTRlT1lOXzQyVmVrZUZSVnBScFJlMFV0TU1kT3ZnUVlXMndMM253NU1zLTBPaExaekpPM1BDNFRiUEEwYWxMWEdtTWNlXzBEY2cwSlNvOU1PMDRscmF5SEc3YkZTbHEwNlY4ZVFxMWFYQlE0ekZkU3pMa1ZEV2F4TlprWGs?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Dhule lok sabha election results 2024: Dhule Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanl3NEpVdy0xZEcwYzdNTmRFRktuTnV4aDluS2RaTGs3WFFFQlBpbTlKdUJmR0dSYjZwa1ZIOHhoOEoxWU9YdGZjaTBNSjd0ZUNHRzFZNXlsQ0daRHltRTMtSmpnZXE2emlGWjhNOE9LWENLZEVNSmZYemFhZm95Q0lCZzdCTFFBVTFLU1FZaGdmLU0?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "Dhule Election Result 2024 LIVE Updates Highlights: Bachhav Shobha Dinesh of INC Wins - News18",
         "source": "News18",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLVByRk0xbzFjLU54QzRSeFhDeW9rVXhPUGNTa0g1WmtPdzNtbllabTQ3SmMtQ1d3dDRuOWRvWHc1dDlYNFRwejRWbzkwQzN2N1otMmZlZDdMOXFTOTRYMGZKbmxQRlY5RmxPUUo0c2tMTFFnZjhBUWo1aUxubnJfVncyeFZuZ1BWaWMtS0wxQWhHOXg2WnVXR1VleVpReG8tdVlRSy1FV0xpX0NWeS1Sc0pCeTFRaFc0LXZSOWlzZTdnVFpMbGhTeHFGQm5xX3BpSlZjVW10ajVoeFFoVHI40gHkAUFVX3lxTE55b1RUUmVsRVFmUEZJbHU0b3l5U2FKdzdFaFFTNTJtWm9zNVYtVkQ4U2JkZjVwRlVWY0RiTWpSZWlHNDRHb0FIZlI3VVo4SGJtNWt3QlRDRkloT29BNGFiVWU1TWdvS2l5czlxODllbHpSWEFOU2ZSb1VoQ2xaT3EyN09QaUdHb25HTGg5bTd5TWIxb0RqancwaUlLLXJ1djB2dXVDbTZVY1g4RDFlWkRrMnZxRUlCVW5iTnRib1lfQmhrOVprWUcyN2tVYTFfUnM2N2I4UDlYYnNfcDNwanlBaGp5eQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dhule election results 2024 live updates: Congress' Bachhav Shobha Dinesh wins - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONFlMSmV1c1k0bUNoQnJWN3RoU05KY3RvOEd6SU83MFF0UE1hRXBzNmxrNWtpcGlIZjZ2amtkNlVpRFFLSk1wa2gxY051el85WVFPMEhEdUZWYVAxNGZfLUFpZmIzOWNYTzBQXzRlVEtib1VuMHdDWTBtdy0tYU9RX3diNDFZM3FCTWlKMUNVcUNOUWVFell4SGRtTFVXaThSYTJ5X1RzVXdPU3JlSjdPMnhxZTA0dnlBWEkwQWM0Rkt6Z0lWdGN3M3ZtWXdWZThFSDVwYkdiYVhRV1c5VmszNVpKZXNOdHpZbXBQRnQ0djZzdWswLXRRclJB0gH_AUFVX3lxTE1SeUMzbjg2ZS1CeVRFaXNwTzRmOW9uVEZUbmt2UVJRSkhxQkFEYjhfekpLOTlXNy1MVVFsM1o0TFBGYnNxdU9JTUFBQmRCRmdwMldscE9LcTJSVGxmbDZyNmU0SW9QZHJlOEZ4dzU3TFJDX0xweGV6X005STdrREE2R0JCbzJiN2duTXhmVTFxZENTN2xOSmlabkhWYjduVDFDb1N3Zm1qOXBrNlBjVXFPMVVFcFlqOGFGazJUV1VzZWQyTXd6ZFRXT1RaZHh4b0kwTnQwclBVTFNXdDFQYXRxM2JzZ0VMTDZSSTlKZEg0blE1c2ZidmhmaTE5ak5uYw?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +470,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 30,
+    "starred_questions": 9,
+    "unstarred_questions": 21,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 58.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +486,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

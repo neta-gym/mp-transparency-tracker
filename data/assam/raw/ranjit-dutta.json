@@ -4,16 +4,16 @@
     "constituency": "Sonitpur",
     "state": "assam",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 741,
+    "myneta_candidate_id": null,
     "slug": "ranjit-dutta",
     "house": "lok_sabha",
     "sansad_member_id": 5606,
     "profile_url": null,
     "canonical_name": "Ranjit Dutta",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 67,
+    "age": null,
     "photo_url": "/mp-photos/5606.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:10.707426Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 89792194.0,
-    "liabilities": 24261374.0,
-    "net_worth": 65530820.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=741",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.635089Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 55.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.04,
-    "expended": 5.36,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:19:28.265992Z",
-        "notes": "Official eSAKSHI REST API — Works: 125 recommended, 108 sanctioned, 12 completed"
+        "fetched_at": "2026-09-02T14:48:25.807942Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:44:40.096447Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:44:40.094448Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 125,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 36.462585034013614
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:29.752490Z",
+        "fetched_at": "2026-09-02T14:44:40.093635Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Sonitpur election results 2024 live updates: BJP's Ranjit Dutta wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdXlTbmdlNFRRd09zT2NpNEd5aWg2WlpGUDQyNUgxUUpaQlhvOHMwLUFZMmpFOFFmSVJ5RlFmTGU2V214MkRyNEsySXZvbEU1SXJxOG5TYVlYdTUxdnU0RWRXcWlLYmVIaW85aDFHa3RkUVJxQXg4NVQ1d0l0ZUxORDQteUo5ZncwMXhkRlZKOTdsM2RwOWxidGJOM3NTMVV6TTVyR0NObXhWbURIRVNhSXdXeTg5OUdEcURQZ2p1aWRvbVFTU2JJRkZIdFZwczlWWHJDRmJucHFaNkxLTjNpV2ljQUtUam1fWXRfZEpHREw1cUpOaGhtcGpTZEk5NHdCVkNjUGRQTjVDSnJUdjBqdl9JdEtjYkc1U2RLZWFlRG5Tb03SAagCQVVfeXFMT0c2cG1EdHNqakozcTBDbE1uNjJDaEVJTi1iZnp3LVZBVU1SRjhqcXhyaHRRRjI1NHFYTWx3dWJHdXg1U0xrNk1EZmhnYndsNXJhOFY0LXkycDBhcDc1YTF2NE0wSkp4TWlIRHhEbzRwVG91REoyY2dtSGc5RTZ6dmpfa252aXhYRVVfSnd5bXg5WC1OV1FPOHF3MHNNMGt4d0Jnd1h3a1Q2UzhQYXVJcHNHRXFlMXZKMWt0RktoV2kwbTU3aGxwLVNLLW5mVUh1SEt5WjZpeUJKRjBLTTlQcWpINmVjaldqMFozQ2NRNjQ4S1VlZFhwSjhESkZUV1ctcW9TUnBLZVgtTTVkWTE4OGdtbndlV2xGWGRzeHo3REdLYk9zWDh3dTQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Sonitpur lok sabha election results 2024: Sonitpur Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnhKR0JYSFpYTHpRY3JnQ1kzdjVvYUNveHNpOFZvUXk4MjU0dFRJRW9LSGR5Rlk0cWMxRW14TEhzQ0J0bkxueXI0blo4amVTVVdnOU1reUduYVNpTGZOUWVPSy1IdUpxTDg2UktoWjNDLUdfWmpjcldDUGJldEIzbkwtb1RRLTByUWUxSzFB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Rs 1.75 Cr released for flood preparedness in three constituencies: Keshab Mahanta - The Assam Tribune",
+      "source": "The Assam Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeExtV1ZiR2VkOFpqV3p4TEtHRjBRbnZQSkpMZzFqVFF2SWprdmdNN2RIMVgzTXh3TGZ0Q3ZDcW1YQXNBSDh0ZW9rSnBQNTJsQ1psbzJBZDdndmQzQWpzQmt1aDNienU0YUtiMWZyeUVtQm00RTk1Yk91WFE3V1llOHB3MFNRTTU4d2RoOEtXNUhGQnNteWtwdWdfY0FrOFBVdVJpeTBzUklLUm5XODBLWUJmTUMyS0FUdlMw0gHAAUFVX3lxTE4xWXR6eG4wUFVkRWtJV3FyNFdub3dNT1BjMUdjVUZmdmdfY1FUc1VOME53RE5DOExZUFhvX2VhQkVKVlROTElIMm14bC1HaFFUc3NxMndzU3hKTnRYNWo0OW10ZEFoazVFSXFfZHd4WUFCMDVfTzlHUWMxQTVVSVV6QUVCdVNnM3lwZUJTX19kSHpVLUpSajgzVE92U2djSThCVkRUSDhmTDVSVklRbWJISHFVdlVzV1ZvQ0t5TDZocQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "PM Modi to Hold Election Rally in Behali, Biswanath District in First Week of April - The Sentinel - of this Land, for its People",
+      "source": "The Sentinel - of this Land, for its People",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQXhmOTBaR2loaWxtMnV1NEN3b2w0clI4YXZPV2R5T0JKamQ4M3E0V3F2N1EwWXNtMWpHWnJucG5RX3otNkp4Sy0yaW9Ud1BhV2dsYWJSczJGSGJfMlZocFQyd3BBeUR3U0hxYUE1N05jRXB0d1prV3NpWFIxOWtteTgxRTBaTFZ1SG16UWlveG1PT0llTVZsRnRFZ0V3QV8yaU5Ta0pFY1lEM0VSbFZxMkZKWmxuYmZEUFpFNG5NNEJfR3BUWi1sOE5ZcHlwdS1TVFNwRnVaZVgxbi13RHfSAesBQVVfeXFMTUp6NVNZN3JmZ0VsVXJIbzh1LWlwNEZvUVdUT3BVR2VvYVkycTVVY3lMbXZ6RHlRLWswUjVwTjM5UHIxT01WeHFDVmJaTTRrYV9MZWRzMUFhaU9zZVlWQlJWS09kS1FBRVY1Y3NaOVV6R2pXaHhBdVBDMHVieFpGX05RdDcxOU0wZTFHSXBaejAxR05oQ2R2RWstSWJ5eTNBb0VBY1BpVnRCVnRUN0FJa0p6TTZpUl95TVlJQVI0OUtyYXp5eV9aOFpOOGFwcWI1VGhuVnVrX3plYTh1a3ZaWVFoSDM5OW5iME10NA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Ranjit Dutta chairs first DISHA meeting in Sonitpur, reviews key development schemes - The Sentinel - of this Land, for its People",
+      "source": "The Sentinel - of this Land, for its People",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSVU2OHR1T09Ebkk2bDNwQVhZV1NQQU5wZWNGZFFraTAtbEZBM3dyaVBfUHBtZVBqSWZQWE4xRHhpRE45a2FfVExIN2tRY1k0bmxMOTlDSnZjckVqQVdqM08wSFc4QmI4bEtDRUYxVWVtUTg5ZHpHOVhWaWVTRzlRRG90bnd2NEFVb3IzQlgzeGZna1diaUpnSFdGY0QyRDc4TXhnbi1sb3VZbWRmeTBYQ29lbTVwTXpYbFNQWEl1b2N2NFZuTVVrcXc0NGQtN0FYUXQwSVV1RjFPdm5HaTNsN1BQZ9IB8AFBVV95cUxNWHg2eW91bjFZRzFLVDFjV184aFF3a2FpMEE2UjhQQ0JMdy1FU09CaWx2RThVMFoyYWZJSHpCRnB4SlZTZ0I0U2ItZUJIdG92SDZtbXk0R3lvcnZrTkYxdE5vck4zOXhRZ0NqUUhvMEhocmVFVVZVeXFxa2JNRFFzeXFqX3VKZEUxV09tRXlmOFRLOG1mc19XYkFuazd3ZWJBR21sczBwbjc2VkFqejNsaUNJcHFyZVVOcTNNYzAwQXk3YU0xZU43Wms5Q1lSYWJXMlBEQkpEdGxnRW5HcGNRUk4yczV4SlUyMVY3NHpQU2E?oc=5",
+      "sentiment": "positive"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:33.263583Z",
+  "collected_at": "2026-09-02T14:48:25.808706Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.916715Z",
+        "fetched_at": "2026-09-02T18:38:04.379456Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.916724Z",
+        "fetched_at": "2026-09-02T18:38:04.379466Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.916730Z",
+        "fetched_at": "2026-09-02T18:38:04.379472Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.916735Z",
+        "fetched_at": "2026-09-02T18:38:04.379478Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.916740Z",
+        "fetched_at": "2026-09-02T18:38:04.379485Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.916745Z",
+        "fetched_at": "2026-09-02T18:38:04.379489Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.916749Z",
+        "fetched_at": "2026-09-02T18:38:04.379494Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,16 +312,32 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 0,
+    "positive": 1,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Assam: DISHA meeting held in Sonitpur district - The Sentinel - of this Land, for its People",
-        "source": "The Sentinel - of this Land, for its People",
+        "headline": "Sonitpur election results 2024 live updates: BJP's Ranjit Dutta wins - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0JrcmVUbGZHZHNPU0RZUVRSMmFIWUt5cFYybTgwZWEtcVNiaEh6RkNVN3RvV3Z5R2QwYmhhZ2JGNjlISm5zckhxdS1PUVRfY2dncklFRmFwb3hiRmFDS1NEVmtSRDRvMTdNZVVmZnIyNnhKX211TUUwMkQwSXBydEdKclExSHFOdG1mXzBRQnhTUVVaWXZvMTdBVXZrc2JKMXNUQlNtOUpCUVNF0gG6AUFVX3lxTE5rWV9pM0JBU0lHdVYtbUdXRmhNSjktNWdUbGlOSDdRZFRhVUJWVG9hR3h5aDhqY3RTOE5adTlNV3pqZEYybk5WbEhkX3Y4eUdMaFNzMms4a2p4RVpUaEQza3dWcFc3SVRLcm9QVEdVWWVKS2VVdVM2X0hTYU9mM0NrYmI5eURXcWJzREU2NHMyeXFNaXREUUN2OWY3VzVQTG1Ud3dxZWw3VkN2Y0tPekZNWlhubDhsMWZFdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdXlTbmdlNFRRd09zT2NpNEd5aWg2WlpGUDQyNUgxUUpaQlhvOHMwLUFZMmpFOFFmSVJ5RlFmTGU2V214MkRyNEsySXZvbEU1SXJxOG5TYVlYdTUxdnU0RWRXcWlLYmVIaW85aDFHa3RkUVJxQXg4NVQ1d0l0ZUxORDQteUo5ZncwMXhkRlZKOTdsM2RwOWxidGJOM3NTMVV6TTVyR0NObXhWbURIRVNhSXdXeTg5OUdEcURQZ2p1aWRvbVFTU2JJRkZIdFZwczlWWHJDRmJucHFaNkxLTjNpV2ljQUtUam1fWXRfZEpHREw1cUpOaGhtcGpTZEk5NHdCVkNjUGRQTjVDSnJUdjBqdl9JdEtjYkc1U2RLZWFlRG5Tb03SAagCQVVfeXFMT0c2cG1EdHNqakozcTBDbE1uNjJDaEVJTi1iZnp3LVZBVU1SRjhqcXhyaHRRRjI1NHFYTWx3dWJHdXg1U0xrNk1EZmhnYndsNXJhOFY0LXkycDBhcDc1YTF2NE0wSkp4TWlIRHhEbzRwVG91REoyY2dtSGc5RTZ6dmpfa252aXhYRVVfSnd5bXg5WC1OV1FPOHF3MHNNMGt4d0Jnd1h3a1Q2UzhQYXVJcHNHRXFlMXZKMWt0RktoV2kwbTU3aGxwLVNLLW5mVUh1SEt5WjZpeUJKRjBLTTlQcWpINmVjaldqMFozQ2NRNjQ4S1VlZFhwSjhESkZUV1ctcW9TUnBLZVgtTTVkWTE4OGdtbndlV2xGWGRzeHo3REdLYk9zWDh3dTQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Sonitpur lok sabha election results 2024: Sonitpur Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnhKR0JYSFpYTHpRY3JnQ1kzdjVvYUNveHNpOFZvUXk4MjU0dFRJRW9LSGR5Rlk0cWMxRW14TEhzQ0J0bkxueXI0blo4amVTVVdnOU1reUduYVNpTGZOUWVPSy1IdUpxTDg2UktoWjNDLUdfWmpjcldDUGJldEIzbkwtb1RRLTByUWUxSzFB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Rs 1.75 Cr released for flood preparedness in three constituencies: Keshab Mahanta - The Assam Tribune",
+        "source": "The Assam Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeExtV1ZiR2VkOFpqV3p4TEtHRjBRbnZQSkpMZzFqVFF2SWprdmdNN2RIMVgzTXh3TGZ0Q3ZDcW1YQXNBSDh0ZW9rSnBQNTJsQ1psbzJBZDdndmQzQWpzQmt1aDNienU0YUtiMWZyeUVtQm00RTk1Yk91WFE3V1llOHB3MFNRTTU4d2RoOEtXNUhGQnNteWtwdWdfY0FrOFBVdVJpeTBzUklLUm5XODBLWUJmTUMyS0FUdlMw0gHAAUFVX3lxTE4xWXR6eG4wUFVkRWtJV3FyNFdub3dNT1BjMUdjVUZmdmdfY1FUc1VOME53RE5DOExZUFhvX2VhQkVKVlROTElIMm14bC1HaFFUc3NxMndzU3hKTnRYNWo0OW10ZEFoazVFSXFfZHd4WUFCMDVfTzlHUWMxQTVVSVV6QUVCdVNnM3lwZUJTX19kSHpVLUpSajgzVE92U2djSThCVkRUSDhmTDVSVklRbWJISHFVdlVzV1ZvQ0t5TDZocQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -280,28 +349,12 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Sonitpur election results 2024 live updates: BJP's Ranjit Dutta wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "MP Ranjit Dutta chairs first DISHA meeting in Sonitpur, reviews key development schemes - The Sentinel - of this Land, for its People",
+        "source": "The Sentinel - of this Land, for its People",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdXlTbmdlNFRRd09zT2NpNEd5aWg2WlpGUDQyNUgxUUpaQlhvOHMwLUFZMmpFOFFmSVJ5RlFmTGU2V214MkRyNEsySXZvbEU1SXJxOG5TYVlYdTUxdnU0RWRXcWlLYmVIaW85aDFHa3RkUVJxQXg4NVQ1d0l0ZUxORDQteUo5ZncwMXhkRlZKOTdsM2RwOWxidGJOM3NTMVV6TTVyR0NObXhWbURIRVNhSXdXeTg5OUdEcURQZ2p1aWRvbVFTU2JJRkZIdFZwczlWWHJDRmJucHFaNkxLTjNpV2ljQUtUam1fWXRfZEpHREw1cUpOaGhtcGpTZEk5NHdCVkNjUGRQTjVDSnJUdjBqdl9JdEtjYkc1U2RLZWFlRG5Tb03SAagCQVVfeXFMT0c2cG1EdHNqakozcTBDbE1uNjJDaEVJTi1iZnp3LVZBVU1SRjhqcXhyaHRRRjI1NHFYTWx3dWJHdXg1U0xrNk1EZmhnYndsNXJhOFY0LXkycDBhcDc1YTF2NE0wSkp4TWlIRHhEbzRwVG91REoyY2dtSGc5RTZ6dmpfa252aXhYRVVfSnd5bXg5WC1OV1FPOHF3MHNNMGt4d0Jnd1h3a1Q2UzhQYXVJcHNHRXFlMXZKMWt0RktoV2kwbTU3aGxwLVNLLW5mVUh1SEt5WjZpeUJKRjBLTTlQcWpINmVjaldqMFozQ2NRNjQ4S1VlZFhwSjhESkZUV1ctcW9TUnBLZVgtTTVkWTE4OGdtbndlV2xGWGRzeHo3REdLYk9zWDh3dTQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "BJP Candidate Ranjit Dutta files nomination in Tezpur, backed by key political leaders - India Today NE",
-        "source": "India Today NE",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNEstSXNSUXVfYnU4V0lwSHl1cWotSlhIMlFWcFB3WmUycVhpZWx6dTJRNDNsRzRfQUgzeTJnYU1DMlRVb2RGZTB3X2dybnA5VGhYTHFaTkVKeFl0N2FiTVNVOWNOelJzWXZPZWtQZmVqdWVsTUdZWndzWGw2TVZWUDRfT29YSjNLMWQ4VV9vUlNjQ3VWYUZ4Z0RrV21wam5CQzEyeVZreTdlVGxzdFYycDBtOXJNT3k4RHpiUnU5eDF2ckU1RE1iNlM5d2c4UkppLUVOaVM2MzZ2NjTSAeABQVVfeXFMTkVRR3lHNXlOWnZQaF94aTctRnFWSnFIbm9Oa3RrZVhoOEQtTHVTZFQxUjZEZVVIbE1JX3dQdFAxTEx0NzBCNTJueHh3OXZiV2VBYnAtTUNoUnB2aTdGNlItcE56UF9KR3d6YjZvZ0t0VWNwRVZZc3BlSFpLUDJVOHowRGdGS0JqajEyeFlxX012NXpzb2otNG12aFdOT2NMRmR0MC1SYjFCZzBieEtNVy1jYzdZU0lCWUpERjlHclF0QkRWUkVMemNXR3p6UVB3WWdiMUlDa3FiYXhJcDYzczM?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Lok Sabha Election results 2024: BJP’s Ranjit Dutta wins Sonitpur seat - newslivetv.com",
-        "source": "newslivetv.com",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWVtOHN2RFduNjQtS2t2Z1pVQlVFd2hNR2djcFl1YjV0eHc3Z2lJLU4tSl85QXNKUnAxZy14MEdrdU5TTDR6NzVaamY1bUhqRjlUdVJpMzFvREVqcjBHalFZZFpKcmhfN05xdWxRRkV3Q2NPcTJ0NzJKbFAwdmVkWVRVR3Nrd1pYWjJ3bFVrNl9ybXNzT1R3?oc=5",
-        "sentiment": "neutral"
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSVU2OHR1T09Ebkk2bDNwQVhZV1NQQU5wZWNGZFFraTAtbEZBM3dyaVBfUHBtZVBqSWZQWE4xRHhpRE45a2FfVExIN2tRY1k0bmxMOTlDSnZjckVqQVdqM08wSFc4QmI4bEtDRUYxVWVtUTg5ZHpHOVhWaWVTRzlRRG90bnd2NEFVb3IzQlgzeGZna1diaUpnSFdGY0QyRDc4TXhnbi1sb3VZbWRmeTBYQ29lbTVwTXpYbFNQWEl1b2N2NFZuTVVrcXc0NGQtN0FYUXQwSVV1RjFPdm5HaTNsN1BQZ9IB8AFBVV95cUxNWHg2eW91bjFZRzFLVDFjV184aFF3a2FpMEE2UjhQQ0JMdy1FU09CaWx2RThVMFoyYWZJSHpCRnB4SlZTZ0I0U2ItZUJIdG92SDZtbXk0R3lvcnZrTkYxdE5vck4zOXhRZ0NqUUhvMEhocmVFVVZVeXFxa2JNRFFzeXFqX3VKZEUxV09tRXlmOFRLOG1mc19XYkFuazd3ZWJBR21sczBwbjc2VkFqejNsaUNJcHFyZVVOcTNNYzAwQXk3YU0xZU43Wms5Q1lSYWJXMlBEQkpEdGxnRW5HcGNRUk4yczV4SlUyMVY3NHpQU2E?oc=5",
+        "sentiment": "positive"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 8,
+    "starred_questions": 2,
+    "unstarred_questions": 6,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 15.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

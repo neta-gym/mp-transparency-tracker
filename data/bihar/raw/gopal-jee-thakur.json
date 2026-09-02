@@ -4,16 +4,16 @@
     "constituency": "Darbhanga",
     "state": "bihar",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5055,
+    "myneta_candidate_id": null,
     "slug": "gopal-jee-thakur",
     "house": "lok_sabha",
     "sansad_member_id": 5176,
     "profile_url": null,
     "canonical_name": "Gopal Jee Thakur",
     "name_aliases": [],
-    "education": "Doctorate",
+    "education": null,
     "profession": null,
-    "age": 54,
+    "age": null,
     "photo_url": "/mp-photos/5176.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,99 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "230/2013, Nagar P.S., Darbhanga",
+        "ipc_sections": [
+          "143",
+          "353",
+          "149",
+          "342"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "ACJM First Darbhanga",
+        "fir_no": "230/2013, Nagar P.S., Darbhanga",
+        "case_no": "TR No.1077/24",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:19.701828Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 39078830.0,
-    "liabilities": 6875610.0,
-    "net_worth": 32203220.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5055",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.935711Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 31.7,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 3.37,
-    "expended": 2.87,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:20:39.140070Z",
-        "notes": "Official eSAKSHI REST API — Works: 88 recommended, 68 sanctioned, 52 completed"
+        "fetched_at": "2026-09-02T15:18:05.753187Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:14:26.044696Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:14:26.042871Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 88,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 19.523809523809526
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +129,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:35:33.171439Z",
+        "fetched_at": "2026-09-02T15:14:26.042074Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +137,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Darbhanga MP reviews Paddy Procurement with PACS Chiefs - indiancooperative.com",
+      "source": "indiancooperative.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTJ1U0R1X2V2NlJSaWJVd0dFUm9OMkNpM0p0U2pEcmlQcDNMNGNEMllrNEdBcWFnRFZ1WkRtMHR2b2pDMWpISFAtZ25sdlVvM2hMRTVMaFU5Rk5FcmJIb2IxV1dvT25jN25qenV1dDhrNEVNLXdCZjlvclBDbVhGNmUxVnNSSDA1NXNxR2kxb19RelZvYmtFbGZPN1MtaEdhbmpqSmhETzhnSTZXWFY0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bihar CM welcomes inclusion of Maithili in CBSE curriculum from 2026-27 session - ET Education",
+      "source": "ET Education",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcXZUdHVXTUFSQk9uVUtOY2tTZ3Q2YnIzTGp6OU05MFptUWlWaWxyMHQwMHRKcW9lR2N4MEl3Z09fclhPS3UtYjN4OS1EOWF3ZWtZUmh5VkF6QVJJakhFRGtYOWtzRUZ5QV9mNXp4MTB2WmFaQ1hBTElqT1lSWEFxTm40Z05mNFIwcDJrWFA2NERDaUwxOENjVFdMeU03VTh3UmVFdmZBYWxoZ05WZTZhbnRDdTBvMHZYVEJPb0tGVkJuSUlORTBTWExuVS1TYUVDWDRGbXZXTVF5Z2Y3UzRpZVV2MFFoSlVSRXA2ME9Tb9IB9AFBVV95cUxNMEs0RkRtQmUyWE9wU1RNR0JQbFYyQkJDVUU3ak5pT0NlaHB0Z0RMemxaV21jNVh3bUNBUXdqeS1FWndnaGhOUTNtR1dkcEpxeTlINFVQdkVmQWZENks4TWtYZnNfRmR1M252TEFaemN6WmVodUE2d2JWUnpkVy1rR2s2THJVMi1wQkdqckE5N1ZOU3E5ZW9TNTdXRHQ3SllPdUNWQW1aQlA3eGR2Mk5RaFB4MXVYN2xwb1ZrdjNUbDB0ZGJlUVAxYzZIZTJvaG1ndWFDZDJ3NHhRZEJNWDFCallCdGxQdEozZ29odUl4dkdIbVRJ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Jaipur gets Amrit Bharat Express to Darbhanga; Khatipura Mega Coaching Terminal opens - The Tribune",
+      "source": "The Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREhPT0VpRnpvaDFET1hTdWtpTUs1cWpscllidnB6eWFmbkN2X0xGQnBMZ19ibThhbG1YcGxjcHlaWk03TC1kXzFoTG5tNm9EMVlocjJDSW1aNExlNkVfSk9kLUR4alhQYUVvSnFSVmhIT2JMdjc3U09IZnkyZ3dPRGlLMnFqYmVxMVNTckI2dXZmV1pOeUpLeW1uQnhoUTZzcl9xSzc1MHNDbmQ1X05IWFd4NGllbnYwRjVhendzQjlicUFLdUUtYdIBzAFBVV95cUxNdlp0WjBfeV9FUi15YzdmOVcwVGp3cWpySjB3R2RXVWdIal9EaW1SM29CM3I0cElHSkZURE5jNjVVTUhEbkxMazcyODBIZWxzclpha0kwbEQzaFc3SW9mc3U3a1FOVHowX2d1aC1KMlR1eUpqaUg1LVFQYmtEN3k0NncyXzdRSUdra0JMczZSSEFFTGxVbVluWjQwa1lzUnNJa0ttb0lxZ0hGUzBnNWItTFJRVjE3Ulp4TUVRUzlPQmJkZ0RJclZsVS1xQkw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"Provocative statement\" Darbhanga BJP MP on mayor's statement on Holi - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOENidkZSc2NjejhQWUl6blFmM3RReU11RmFvWVU0QmxoOXZNZzJGci1RRlVlSERaeGNZeEJzMHZwWlo3TWdicU1rcTBNYTZ3M3dleURMNFY1RE0wczkwSXNRQ2pjRk1RVnVXbElUZ3NZcUVIRm11OWQ3UXZjSG0tM3ZRcm9YLV8tR3dmejBxX0ZwellKWFhIdndKZkkxZ1dSWjZtN3NQV3RwakYxN2ZsT1BtNm4ySFdHWjJqMk5Vd1hpQURL?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gopal Jee Thakur Latest News, Updates in Hindi | गोपालजी ठाकुर के समाचार और अपडेट - Aaj Tak News",
+      "source": "Aaj Tak News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5M1ktZ3ZyMEgyeFNGMUhveDQ4dGxQZUNGZndkeF9xS0wydlpBREE2dFE2UjRJdGw4cFNRT0ZoNFJqaW01a09mcWZVbUxpVkNIUy1zbDl6VQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:36:32.876599Z",
+  "collected_at": "2026-09-02T15:18:05.754436Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +206,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.141183Z",
+        "fetched_at": "2026-09-02T18:38:04.584427Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +222,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.141192Z",
+        "fetched_at": "2026-09-02T18:38:04.584438Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +238,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.141197Z",
+        "fetched_at": "2026-09-02T18:38:04.584444Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +254,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.141202Z",
+        "fetched_at": "2026-09-02T18:38:04.584450Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +270,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.141207Z",
+        "fetched_at": "2026-09-02T18:38:04.584455Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +286,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.141212Z",
+        "fetched_at": "2026-09-02T18:38:04.584461Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +302,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.141217Z",
+        "fetched_at": "2026-09-02T18:38:04.584466Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +318,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.141220Z",
+        "fetched_at": "2026-09-02T18:38:04.584471Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,11 +343,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/gopaljeebjp",
+        "url": "https://x.com/http://www.twitter.com/gopaljeebjp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/gopaljeebjp/",
+        "url": "https://facebook.com/http://www.facebook.com/gopaljeebjp/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/gopaljeebjp/?hl=en",
+        "url": "https://instagram.com/https://www.instagram.com/gopaljeebjp/?hl=en",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:14:29.174768Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -280,27 +389,27 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Darbhanga MP reviews Paddy Procurement with PACS Chiefs - Indian Cooperative",
-        "source": "Indian Cooperative",
+        "headline": "Darbhanga MP reviews Paddy Procurement with PACS Chiefs - indiancooperative.com",
+        "source": "indiancooperative.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUFhVTRGYTRqWlVwR0ZCT3BUUFMzUlFsbHJqYjZiRlhvUmFwSHJJYVd1c1FiQUVmYkxLVE5CSUlKVGNCc1hLdFVBY2Z2cGhqeExYUEdqSlczSXpLSExEUUdzSHVTUDJKOXRFMC1Cek13XzNKN2F5d09Td0ljNTkyZmtSQVhmcUd4M2VTeVpfMDhEMzZsWUxXVGVJYWdmTm9FcVh4WWhvUFZZMmx2VmRjWGpnRGtqTDFMTzdtX21aTDXSAbQBQVVfeXFMUFZlS3VNazdFSXozblJqNlBBeVZOOU8wWmdTUndkaUdjMGNvYmViQnNYTVczX1NHZGFFRlVHd0p2dmNNekVfa3g2WTdLTGU2eURtM1ZvNlF2WTlkemg3Q1FTVEZOZlB4OXNRalpuSF80N2pTc01XbHN0aHFyMFE0QkdtdWg0dTUwc096VzJFRzh5VmN0T2poMHNxYk9zSVN5THl6ZXZ6UXZlRGpReF9GRGVuZmNR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTJ1U0R1X2V2NlJSaWJVd0dFUm9OMkNpM0p0U2pEcmlQcDNMNGNEMllrNEdBcWFnRFZ1WkRtMHR2b2pDMWpISFAtZ25sdlVvM2hMRTVMaFU5Rk5FcmJIb2IxV1dvT25jN25qenV1dDhrNEVNLXdCZjlvclBDbVhGNmUxVnNSSDA1NXNxR2kxb19RelZvYmtFbGZPN1MtaEdhbmpqSmhETzhnSTZXWFY0?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Darbhanga MP Demands Patna High Court Bench for North Bihar, Submits Memorandum to Governor - Patna Press",
-        "source": "Patna Press",
+        "headline": "Bihar CM welcomes inclusion of Maithili in CBSE curriculum from 2026-27 session - ET Education",
+        "source": "ET Education",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHhEX21SRDhZUi05VUh0eVVHMzdqUEgwNVhnbDNZeGRDcTFTRUp1RjRCSXItWTIxRlBTY1NieXQzWDRmRWgxWHo4Q21NXzg0V1R5ZWdHUlZUdHpWWVV1b2hwQTJ6Q3VESkV2YnFqc2hjRXZ1M0pfdW1mTTQ1SWF4c2E1NXFjaXVFaHBRQUZaVVJBbWhlek9sMkxYREI3bHhQY1g4bnZCNkFvNjI1ZWl3dXpFOVk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcXZUdHVXTUFSQk9uVUtOY2tTZ3Q2YnIzTGp6OU05MFptUWlWaWxyMHQwMHRKcW9lR2N4MEl3Z09fclhPS3UtYjN4OS1EOWF3ZWtZUmh5VkF6QVJJakhFRGtYOWtzRUZ5QV9mNXp4MTB2WmFaQ1hBTElqT1lSWEFxTm40Z05mNFIwcDJrWFA2NERDaUwxOENjVFdMeU03VTh3UmVFdmZBYWxoZ05WZTZhbnRDdTBvMHZYVEJPb0tGVkJuSUlORTBTWExuVS1TYUVDWDRGbXZXTVF5Z2Y3UzRpZVV2MFFoSlVSRXA2ME9Tb9IB9AFBVV95cUxNMEs0RkRtQmUyWE9wU1RNR0JQbFYyQkJDVUU3ak5pT0NlaHB0Z0RMemxaV21jNVh3bUNBUXdqeS1FWndnaGhOUTNtR1dkcEpxeTlINFVQdkVmQWZENks4TWtYZnNfRmR1M252TEFaemN6WmVodUE2d2JWUnpkVy1rR2s2THJVMi1wQkdqckE5N1ZOU3E5ZW9TNTdXRHQ3SllPdUNWQW1aQlA3eGR2Mk5RaFB4MXVYN2xwb1ZrdjNUbDB0ZGJlUVAxYzZIZTJvaG1ndWFDZDJ3NHhRZEJNWDFCallCdGxQdEozZ29odUl4dkdIbVRJ?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Mithila–Seemanchal Rail Map Set to Change with Darbhanga Station Transformation - Patna Press",
-        "source": "Patna Press",
+        "headline": "Jaipur gets Amrit Bharat Express to Darbhanga; Khatipura Mega Coaching Terminal opens - The Tribune",
+        "source": "The Tribune",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDFMeWE2bVpod0tCemxWUXNNNU1xNTRFT094dXZlQnRiVlJaYWI4cE5QdkM4M2lIQllmZ3VqMi10VUdCS2x1Z0FmZUNYQ2NGY0FaYV93NGJhTEwxQWxJTjhmaHVWdFNWY2VuTGNuUlVpMmVObjhTUHA3dXRvZXRXaWM2U2s0YmUzUl9TWTJRVEE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREhPT0VpRnpvaDFET1hTdWtpTUs1cWpscllidnB6eWFmbkN2X0xGQnBMZ19ibThhbG1YcGxjcHlaWk03TC1kXzFoTG5tNm9EMVlocjJDSW1aNExlNkVfSk9kLUR4alhQYUVvSnFSVmhIT2JMdjc3U09IZnkyZ3dPRGlLMnFqYmVxMVNTckI2dXZmV1pOeUpLeW1uQnhoUTZzcl9xSzc1MHNDbmQ1X05IWFd4NGllbnYwRjVhendzQjlicUFLdUUtYdIBzAFBVV95cUxNdlp0WjBfeV9FUi15YzdmOVcwVGp3cWpySjB3R2RXVWdIal9EaW1SM29CM3I0cElHSkZURE5jNjVVTUhEbkxMazcyODBIZWxzclpha0kwbEQzaFc3SW9mc3U3a1FOVHowX2d1aC1KMlR1eUpqaUg1LVFQYmtEN3k0NncyXzdRSUdra0JMczZSSEFFTGxVbVluWjQwa1lzUnNJa0ttb0lxZ0hGUzBnNWItTFJRVjE3Ulp4TUVRUzlPQmJkZ0RJclZsVS1xQkw?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -312,8 +421,8 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Gopal Jee Thakur Latest News, Updates in Hindi | गोपालजी ठाकुर के समाचार और अपडेट - AajTak",
-        "source": "AajTak",
+        "headline": "Gopal Jee Thakur Latest News, Updates in Hindi | गोपालजी ठाकुर के समाचार और अपडेट - Aaj Tak News",
+        "source": "Aaj Tak News",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5M1ktZ3ZyMEgyeFNGMUhveDQ4dGxQZUNGZndkeF9xS0wydlpBREE2dFE2UjRJdGw4cFNRT0ZoNFJqaW01a09mcWZVbUxpVkNIUy1zbDl6VQ?oc=5",
@@ -350,15 +459,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 37,
+    "starred_questions": 11,
+    "unstarred_questions": 26,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 72.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +475,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

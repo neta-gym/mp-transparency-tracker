@@ -24,68 +24,82 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.7,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8819",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:45.616638Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+        "fetched_at": "2026-09-02T15:37:49.638652Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 88142688.0,
+    "immovable_assets": 208700000.0,
     "total_assets": 296842688.0,
-    "liabilities": 24993400.0,
-    "net_worth": 271849288.0,
-    "previous_total_assets": null,
+    "liabilities": 25778359.0,
+    "net_worth": 271064329.0,
+    "previous_total_assets": 1.5463786015e+17,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8819",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:45.616652Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T15:57:42.763916Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 77.6,
-    "growth_ratio": null
+    "wealth_percentile": 74.0,
+    "growth_ratio": -0.999999998080401
   },
   "mplads": {
-    "entitled": 17.84,
-    "released": 17.84,
-    "sanctioned": 4.65,
-    "expended": 1.81,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:21:10.154028Z",
-        "notes": "Official eSAKSHI REST API — Works: 94 recommended, 62 sanctioned, 27 completed"
+        "fetched_at": "2026-09-02T16:01:20.676235Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:57:41.216880Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:57:43.098801Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 94,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 10.145739910313901
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -100,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:15.348203Z",
+        "fetched_at": "2026-09-02T15:57:42.781774Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -108,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Chandigarh loses over 50 per cent voters in SIR, MP Manish Tewari flags fresh figures - The Tribune",
+      "source": "The Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHlGVGZSanFnRlhjWFNEckdVdFJ5SjlEVFpRSjlaUWIyYnlKeEF1eWNQWTY2WFdoVkNtanhLWnh2NkstaFZ6Wkp0TFNOemVCN0s2WDVCMkVjNl9veEdqdGUyRXNaczNEUkdaMGxuRjc4WFdzZFVoVWctalVTcjJ3S01iV0lsNUVaZGljUld4amlxVklxSTcwdHlWOWptVHBQSENVUGZ4NVhfSTBoRHVWejJtZVhNSWhNZG5lMExrRzA5cG4xakRaUmVR0gHOAUFVX3lxTE45Y05oV1k4NlVRclJZY2RWWVo0MDd3RjRsekViQmozNlpNWkZYTkFNdjVrY01rVUlZNmFqekxSTVhScnBkQmVmT09lbkd3Y1RvQ3hyT3A0TV9GVWZWbTMydk9fY1FiekFHSWNCcUxkTERvRlBzdjlLenQzdTgxQTNYOUwwVzRhZXhyWTRLbnRwQXJmZXRRN3E3dGMyR0VaN2pTOFF3QWpEbWszRTdMbXpPU3lVdUswdENzV3k3RU5iQ2JTVWVsR0kybGNkZzF3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Tewari leads swachhta workshop in Sector 16 school - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaHNJMXRkODJpZks2SVgxQW1FNVdnVk85dzJoVlU0WHIzenZvOGUyQTVwcVlBOVVYcGk2Rm5CQ1ctNnppSXV1OVRzZDZsbXpNdWZWdmRZUjg1VmVlc3FWQVhtdGlWUFNWcG45UE83bTdDREZnUlZWcUV0NzY2ZVg5cXJldjFfRmd6dkZ1RHd2Sl9TN1YxaWFvVVAxbDhpTmRDUUFFNklvdFM5RF82X2x4LVZEbGFUSXg4S1VHT2NIakJQNXM2MWFr0gHMAUFVX3lxTE5pWEdyTi02c2x5M0xaMGZ0dDFqaS1iU05EekJKcmh0aEQ1VU8wZERyLTZhdVphbzBOQUhaZkZMWjFhX20tcE92dmplbnFGWWVUY2tGMUhOUWFEaEc3cVpNMk9KOUxwN3lKcWNHdmpHN3p6LXJDWXRMZU5PTFI3dEtpSm0wWEFoOEdISGEzVzV0cmwwTEhlWG5NWUs0OXh0TjUyVFhBR3JtZ094X3FwbmxuTF9TNWh0ZFprQ2JTSVpacDZDbWFTb2RDb3dYNA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chandigarh MP Manish Tewari questions Chandigarh’s balance as Punjab Acts dominate laws in UT - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTmQxcWwyYXlyaTNUMGQ2dHVsOGRwT1c1dGRVNncwX3NUSkIzazEzT3ZzMzh1aTlXYkJlNDVpNUZOMUpQbHhNWDVmcXkybWtnSUYxUzk5ZUJQLV9nMlRROUJ6X1pfbDNHWGFacm9naGpMcU10Y1dSYXRjdktHWUE2SWVoTkJPODB3X3IwQjJYRzVORFVXMC1mTmpUV3FvWFN4N1BKMGhzbFVjcE5Talh0TzJSTmhXUFgzUWxLUHZDcFVvQUNYSHVhVNIBzwFBVV95cUxQRXBzRzU1Umtad1NkaDRmc0FuUGdNQjVfYlNqRlNycG55aHdXeTE0aHUyeXpZMERLZkJhZWRyQ2lFSG0wNFh3blJjX0M4QTA1MmlWLTNyT3g2OG96S1F2SVpRNnpkZU11WHZscXJjQks0S1Zma1NwaHVNdVpoeWhVSzFzcHFrOHZXSHVsUWVWOFpva3BqTnV4RC1oTHprV3VrMXdDS1FOX2pxMXlkZzdnbk1CM3c3QzVDdThlQVBuY0FuUElseHBsaDAtMnRxWjQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hon'ble MP Shri Manish Tewari Plants Sapling at Sukhana Choe Forest under \"Har Ghar Tiranga Campaign\" , Highlights Sustainable Forestry and Ecological Conservation Initiatives - indianewscalling.com",
+      "source": "indianewscalling.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkxtYnUydkZqMkNTQkk0WGVWazhfQWVpLXRad3FTbW9sN0h1NUZsSHFCLVBOem41WEQteDA1S21PR2VFMnh6allYb1JmeFktYmZZcVVXSFBuajIwcTVoQnZfTm5yc3hnYS03Mk84c0IzUy12eWdxSmpmYUJ4X3ZPVy1wZFR6bGhKQXNQQ0RpUWpoUkM2Sl9ER3JlS2d6WFlxdm5tRFByRjVGLTduX3JoNGdGT2VkMU4zTWRRdnJEMWRaVElaV2kxbFdjVFJlSHVoZ1VMeGlYRXo1b3RZalFUTnY4bjNyVzNNVFE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chandigarh MP Manish Tewari leads ‘Swachhta ki Karyashala’ in Sector 16 - The Tribune",
+      "source": "The Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXlWTWxCLUthMlAxa09OeHB1emNBaThNVlNfRFRmaXRSUUlPNElmcjRzY0kwQ05SaTZaR3Q0QWEzUVFiUmRiU0ltZ0VXdTBPa3kwbm1WRVpHVVB3bFFfUUtVdF8wYzNZYkVYSGFLVHVhb29ET2VRZmNPRzhwMFJxZUJkYkNoVC1CVnBnbTNnUkVka2RUTzlNSmZqQkVzTGQwOVl4MDg0NzlWMGVUd3VlQ3F30gG2AUFVX3lxTE5WVDdCWFBDaFNFVWVScmk3cjZiYXRWTEdFZ295M3M0MlJHaFJiRXZXM3JvaXlkN3lVNF9wbG9uZVRJSlVHbFplbnEwRkVFak5PR0NiYVVobTFUTG1FUGdiaGxRT1lKUFUwbHJNTGtXU1VDa3JMSnhFSV9OdmpqRlBuYkNHUFk0bDVHWnhRdjcxUnpEdk5WVHRDbzZzN1pmUEN1YTFDUWFHMHBNejBBa21SVXBiSEZR?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:54.196068Z",
+  "collected_at": "2026-09-02T16:01:22.661733Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -138,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.565745Z",
+        "fetched_at": "2026-09-02T18:38:05.166214Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -154,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.565755Z",
+        "fetched_at": "2026-09-02T18:38:05.166226Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -170,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.565760Z",
+        "fetched_at": "2026-09-02T18:38:05.166231Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -186,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.565765Z",
+        "fetched_at": "2026-09-02T18:38:05.166237Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -202,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.565770Z",
+        "fetched_at": "2026-09-02T18:38:05.166244Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -218,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.565774Z",
+        "fetched_at": "2026-09-02T18:38:05.166249Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -234,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.565778Z",
+        "fetched_at": "2026-09-02T18:38:05.166254Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,11 +315,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@manishtewari",
+        "url": "https://x.com/http://www.twitter.com/@manishtewari",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/manish tewari",
+        "url": "https://facebook.com/http://www.facebook.com/manish tewari",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:57:44.003403Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -272,43 +353,43 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Chandigarh MP Manish Tewari seeks free power, water for urban poor - The Indian Express",
-        "source": "The Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmpqS3I2ZERfTk5VNVdueW9tLTNfRVFJZ2JBNHlHVGh2akxNdENrbjM3VU1qa1VGcC0yZE0xNWgxYzk5SGQwbmhCWlhyYVdlRzNfcXJiWTQtOC1SU1JvU010UTVNMWRUanZnc0RmazY4c3lfX1JfRDMwd184bUY1amFFNnZEOVR0TVRhNFl4NXBoeWpQZm4yeEhZN2tvc1d5OEdJcDF2Wm1ScGYzRGhTVERIUVdybjl4ZWRlZXZn0gHEAUFVX3lxTFBUNzZHX241Q2RyaEluYURyeU15S3E0dWxrWmFJREFuM0pVVFp0N1F2ZWhoMDJUcVFIMnJHbktiOGNKSXFIOHBxWUdRaWhWTURTdktZUXRTSWgyOWhnVWp1QXFzQzZ4OUpHRjRTMGQ0a0ZjR1lhSHR5M1FpMzhaaTEyTTdmaWxHd3Rvc1NqSm9Nb0tlWmxLVWVOQVF1NmVTWkQwRlVNSlFaN2RadFVrbGw4bmhwMU54YV8waHdkUGNyaGJudWg?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Stop shedding crocodile tears for people of Chandigarh: BJP leader Sanjay Tandon to Congress MP Manish Tewari - The Statesman",
-        "source": "The Statesman",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPanVhS193OWJIb3oyc0l1dU84LUVueWtLcHMwVEMtdnVIcVpkYXNINUNtYW5mdVdpZXhJWlFpeDZVUEdGTHVZa2ZTeEhoNVEtd2VlV2tZZnpUZWRNNlV1Z3VxaWdDc0ZWWlI2cVYza3pvTk1hLXQxellqQzM2eHdkbjBQQ3ZEbmJLLW1uZzJnVGkxMGZOMExnWFRaV3ZyY2paaFBNOGw1S2g1QWcyeUdBQUp6VkM2OTJnY0M3WUFyYWZsRFMzbFRlbV8xSUJUdDI2LTV1Y3h2R1ZSWERoWS1feGhxSTNxVm1adFNFTjljaljSAfYBQVVfeXFMTTVKcWtQMmV1QVVQdC1kNWRvNVdYdTZjWmRWZFhzRkFqTGNKLUFtOE1VM09XQ0szS01tSkVoOVRjb2FxMl9vSjBIUGZaVm0xaC1rdldsd3VxbEhmY3FJSnNvcGsyVnBkY1VYTlM3MzRrNVFESE1ON3pnVWRwS0lpa2haZWVWY0dhWmNBd3hjRXlBZFNLbWpoSDc5a2RvcXlDNTNTaHRYdDE0aTlTeHpHaFhvOVdtR3hLRGZkaDdsZUNzc29fU0I1Wm1iOFIxSEwwVGF5andPU1dYM19BRXIyWkg3SDNfTTYxX1NYMGwwT3JScm9mOU1B?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "‘Train bounces like table tennis ball’: Congress MP Manish Tewari flags 'dangerous' Delhi-Chandigarh rail route | India News - Hindustan Times",
-        "source": "Hindustan Times",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPT2hOQ2JCdDNCMDV0TmxTdklrcWlxVzN4VzloV0x1MU5ENjhmZ05aemtYUHl6UEVMMDNZNzdvQUVKTkpJbDQ4Mkdoc0luQkx0cEdBV2tEZzB0RU1LdUhTWkYtanVXeWhETXhpalB0WnQ3QnpaY0ZvUVNQcTk0NnN5Ty1HLUtPMnBOLUJyX1hDS0hncWI2QmN4UGQyVjlVS1cxOXNpS0Z0WldZX2dqLU40eFoxMlBJalNUa2NJNUhLOGZaVEdZT1cwRUNNbC12eHJXb21KUjdLbUFFTkF1LUJvaEF4bS1BbGhkTGt1RGZSUnltWlFtZXppcGtHQ2JMUdIBgwJBVV95cUxQbWZoME12OTA3akljR0pKZWRqcFZOQ1NtdFlrWjVCS1JKWFRtNDNfUzhqYjVhVFZsc0VKR2x3LUdaOE9yVWJqSThwS3dFYnFCSnVmYU1nbU93Wm14R2t5Qk1UcUhpb0tCbzdkSDJZcUk1c25vNEdmbW4tVk1NR0UyMVZyWFpTOWlmbllKaVl0T0xmazFOMGVtWlFFa1VyQWYwY2FILTN4MUJSdHJVX1BKWGVrOU1mMmJFdmN1eENTUUJMeF9WUVpjZ2VpUExhLXZySmxpdWo2bmstMTd2VmRvQnpCV3hFc2hFRWhhOG92R2NfQzNUNnNtVG5QYnRpRUNZMGM4?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Chandigarh: MP Manish Tewari meets Ward No. 34 residents under public outreach campaign - MSN",
-        "source": "MSN",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcjZGZEhfdDU4OXpKNjF5ZE9JSDBIUWNYZnFVVHgxa0s1czBSTXVpeGJHT0RURGtGTkVjRk1TTzNrdE1MUVlWQ0ExZzlsTlNadHFhQjZqd1NJTURJX3FHV1Zaa1kzZDBaSllBdVh0T1E3S0dnNVVobFVnVGw1bkQ4ckZsc0VyUXdDalpjQ3IwaFZicDdsMUdxMzRMZGV4c2d6V2hDMDQzd0hFNlFvb29xZ2N0UGIzZ25ZcldOUjJhb3ZEOFRMNGlxM1p5Z3NsZV90b0dJb0Y2TGIwYXVDWlcyVTlLb2x2ZXRzVmtqakZmYmVQVVhfNjUxQlhGaURIQ2xPeW1KV1NCS0J0UDR4eWFaZjZUd3RzOHdrVTQtV3JnbFl2ZWJiNVlVa21nRjJrYmNmMWo4RHJUczN0YW5uNFR0cWd1b3p6UVY1M0NVQjZNVm5jLUFScXV2OGdWQnpIMUh5aEJOOWw5YTF2aDZCOW50VzVxUV8?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Chandigarh MP Manish Tewari demands free power and water for urban poor and lower middle-class households - The Tribune",
+        "headline": "Chandigarh loses over 50 per cent voters in SIR, MP Manish Tewari flags fresh figures - The Tribune",
         "source": "The Tribune",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXFHMlA4TFgyb0JFTUU1UFVKQ1h5bmdqVmgwejdWMFR5cGVxdjhfc2ZwMWd0aVlQUE9YMUthVjk2ZG9ndFJORF9tcVhBSXF3aUlwb0hocUlPdWlETFdmOTZJSnh5NUFKZl83cWp3Sm1IVm1HYUotMHlLM0JHM3luVTRYZzJCTE1VS010aU9sU2ZodnpuckZuLWhGaV9hYTBtZHM4bkczTjZIUF8wLXVkbVM0aW1tYU9FRUFxa1E1UU9XUVRTd2ZXNVJGM2cwdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHlGVGZSanFnRlhjWFNEckdVdFJ5SjlEVFpRSjlaUWIyYnlKeEF1eWNQWTY2WFdoVkNtanhLWnh2NkstaFZ6Wkp0TFNOemVCN0s2WDVCMkVjNl9veEdqdGUyRXNaczNEUkdaMGxuRjc4WFdzZFVoVWctalVTcjJ3S01iV0lsNUVaZGljUld4amlxVklxSTcwdHlWOWptVHBQSENVUGZ4NVhfSTBoRHVWejJtZVhNSWhNZG5lMExrRzA5cG4xakRaUmVR0gHOAUFVX3lxTE45Y05oV1k4NlVRclJZY2RWWVo0MDd3RjRsekViQmozNlpNWkZYTkFNdjVrY01rVUlZNmFqekxSTVhScnBkQmVmT09lbkd3Y1RvQ3hyT3A0TV9GVWZWbTMydk9fY1FiekFHSWNCcUxkTERvRlBzdjlLenQzdTgxQTNYOUwwVzRhZXhyWTRLbnRwQXJmZXRRN3E3dGMyR0VaN2pTOFF3QWpEbWszRTdMbXpPU3lVdUswdENzV3k3RU5iQ2JTVWVsR0kybGNkZzF3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Tewari leads swachhta workshop in Sector 16 school - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaHNJMXRkODJpZks2SVgxQW1FNVdnVk85dzJoVlU0WHIzenZvOGUyQTVwcVlBOVVYcGk2Rm5CQ1ctNnppSXV1OVRzZDZsbXpNdWZWdmRZUjg1VmVlc3FWQVhtdGlWUFNWcG45UE83bTdDREZnUlZWcUV0NzY2ZVg5cXJldjFfRmd6dkZ1RHd2Sl9TN1YxaWFvVVAxbDhpTmRDUUFFNklvdFM5RF82X2x4LVZEbGFUSXg4S1VHT2NIakJQNXM2MWFr0gHMAUFVX3lxTE5pWEdyTi02c2x5M0xaMGZ0dDFqaS1iU05EekJKcmh0aEQ1VU8wZERyLTZhdVphbzBOQUhaZkZMWjFhX20tcE92dmplbnFGWWVUY2tGMUhOUWFEaEc3cVpNMk9KOUxwN3lKcWNHdmpHN3p6LXJDWXRMZU5PTFI3dEtpSm0wWEFoOEdISGEzVzV0cmwwTEhlWG5NWUs0OXh0TjUyVFhBR3JtZ094X3FwbmxuTF9TNWh0ZFprQ2JTSVpacDZDbWFTb2RDb3dYNA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chandigarh MP Manish Tewari questions Chandigarh’s balance as Punjab Acts dominate laws in UT - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTmQxcWwyYXlyaTNUMGQ2dHVsOGRwT1c1dGRVNncwX3NUSkIzazEzT3ZzMzh1aTlXYkJlNDVpNUZOMUpQbHhNWDVmcXkybWtnSUYxUzk5ZUJQLV9nMlRROUJ6X1pfbDNHWGFacm9naGpMcU10Y1dSYXRjdktHWUE2SWVoTkJPODB3X3IwQjJYRzVORFVXMC1mTmpUV3FvWFN4N1BKMGhzbFVjcE5Talh0TzJSTmhXUFgzUWxLUHZDcFVvQUNYSHVhVNIBzwFBVV95cUxQRXBzRzU1Umtad1NkaDRmc0FuUGdNQjVfYlNqRlNycG55aHdXeTE0aHUyeXpZMERLZkJhZWRyQ2lFSG0wNFh3blJjX0M4QTA1MmlWLTNyT3g2OG96S1F2SVpRNnpkZU11WHZscXJjQks0S1Zma1NwaHVNdVpoeWhVSzFzcHFrOHZXSHVsUWVWOFpva3BqTnV4RC1oTHprV3VrMXdDS1FOX2pxMXlkZzdnbk1CM3c3QzVDdThlQVBuY0FuUElseHBsaDAtMnRxWjQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hon'ble MP Shri Manish Tewari Plants Sapling at Sukhana Choe Forest under \"Har Ghar Tiranga Campaign\" , Highlights Sustainable Forestry and Ecological Conservation Initiatives - indianewscalling.com",
+        "source": "indianewscalling.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkxtYnUydkZqMkNTQkk0WGVWazhfQWVpLXRad3FTbW9sN0h1NUZsSHFCLVBOem41WEQteDA1S21PR2VFMnh6allYb1JmeFktYmZZcVVXSFBuajIwcTVoQnZfTm5yc3hnYS03Mk84c0IzUy12eWdxSmpmYUJ4X3ZPVy1wZFR6bGhKQXNQQ0RpUWpoUkM2Sl9ER3JlS2d6WFlxdm5tRFByRjVGLTduX3JoNGdGT2VkMU4zTWRRdnJEMWRaVElaV2kxbFdjVFJlSHVoZ1VMeGlYRXo1b3RZalFUTnY4bjNyVzNNVFE?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chandigarh MP Manish Tewari leads ‘Swachhta ki Karyashala’ in Sector 16 - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXlWTWxCLUthMlAxa09OeHB1emNBaThNVlNfRFRmaXRSUUlPNElmcjRzY0kwQ05SaTZaR3Q0QWEzUVFiUmRiU0ltZ0VXdTBPa3kwbm1WRVpHVVB3bFFfUUtVdF8wYzNZYkVYSGFLVHVhb29ET2VRZmNPRzhwMFJxZUJkYkNoVC1CVnBnbTNnUkVka2RUTzlNSmZqQkVzTGQwOVl4MDg0NzlWMGVUd3VlQ3F30gG2AUFVX3lxTE5WVDdCWFBDaFNFVWVScmk3cjZiYXRWTEdFZ295M3M0MlJHaFJiRXZXM3JvaXlkN3lVNF9wbG9uZVRJSlVHbFplbnEwRkVFak5PR0NiYVVobTFUTG1FUGdiaGxRT1lKUFUwbHJNTGtXU1VDa3JMSnhFSV9OdmpqRlBuYkNHUFk0bDVHWnhRdjcxUnpEdk5WVHRDbzZzN1pmUEN1YTFDUWFHMHBNejBBa21SVXBiSEZR?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -342,15 +423,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 37,
+    "starred_questions": 11,
+    "unstarred_questions": 26,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 72.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -358,17 +439,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

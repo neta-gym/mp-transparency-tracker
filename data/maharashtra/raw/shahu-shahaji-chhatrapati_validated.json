@@ -4,16 +4,16 @@
     "constituency": "Kolhapur",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 3847,
+    "myneta_candidate_id": null,
     "slug": "shahu-shahaji-chhatrapati",
     "house": "lok_sabha",
     "sansad_member_id": 5766,
     "profile_url": null,
     "canonical_name": "Shahu Shahaji Chhatrapati",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 76,
+    "age": null,
     "photo_url": "/mp-photos/5766.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Kolhapur",
       "state": "maharashtra",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 3847,
+      "myneta_candidate_id": null,
       "slug": "shahu-shahaji-chhatrapati",
       "house": "lok_sabha",
       "sansad_member_id": 5766,
       "profile_url": null,
       "canonical_name": "Shahu Shahaji Chhatrapati",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 76,
+      "age": null,
       "photo_url": "/mp-photos/5766.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,96 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "184/2024, Dated 03-04-24 Laxmipuri Police Station Kolhapur | Section 135 of MPA",
+          "ipc_sections": [
+            "188"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "",
+          "fir_no": "184/2024, Dated 03-04-24 Laxmipuri Police Station Kolhapur",
+          "case_no": "",
+          "other_acts": "Section 135 of MPA",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:35:23.899264Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 3428668000.0,
-      "liabilities": 0.0,
-      "net_worth": 3428668000.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3847",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:50.262870Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 97.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 2.81,
-      "expended": 2.15,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:31:24.243051Z",
-          "notes": "Official eSAKSHI REST API — Works: 101 recommended, 28 sanctioned, 19 completed"
+          "fetched_at": "2026-09-02T14:46:42.663772Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:43:00.039586Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:43:00.036669Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 101,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 14.625850340136054
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 45.0,
@@ -110,7 +144,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:22:31.238911Z",
+          "fetched_at": "2026-09-02T14:43:00.035575Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +152,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "After 25 years, Kolhapur gets Cong MP in Shahu Chhatrapati - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM1ptWWE4RHJvOHJqV3l6SFljUGpzaXVqakFUSWpYLW81OUtsMUdsQXZGVmF3TkRTM0pqWmZCVno4VlZJNU1TLUJGR2RZSHgtMXlFc00tc2RVNUUyQkNkVEZDSjVhUzNydFNxeF9FdzNXMlFBdHgtRGFuUDBSS0QxTi1KUlRwR1VnYXN3ZXVlMWFyNDhrcTZoVDh1ZW42RWdIUm8wYkpOTjNpVDVuVXUza2wzRTNRNlVKT1QwcXFwdU43OVhCendxZlprVkRMZ9IB0wFBVV95cUxNNHRqY3ZsSG9KWlB0dXdoWnFqUjdZNTVKOVJVTEtPSUQ5ZDhsU3I2SVNaem9WaW9NdTRBOTdvVEU3Vkt0YUw4VXpsVktyREQwV3pVV1JwRV9hRDlfUmwyQTFfY2dNMjF0T1JKVERUQUt5YUlqUjRDUUpUdU5JWHlKWWVZWkhlZXYyXzlzVUF5RzN1Zmd3Z3NEWHB0UWFrb3ZkRG5SeVpKaTBkaGllc0QxeXgtdkxPNW9zRG1Ebi1TamFqY2h3UEQyWE1mNUF0a3NxUFhn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Cong MP Shahu Chhatrapati did not apologize to minorities at Vishalgad; image falsely shared by RW handles - Alt News",
+        "source": "Alt News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVFqcUcxMXV3Z0RfOEFaTDlVZ251SUYxR21lT2lUNmpuMFZIZ0Y2ZmdiNVNxVVQ0V1NTdzZjMWtYUDY4aXp6SzRjVnZDUnVLeHp0NGtGZl92OW5yWm0yeEpBdHZTRzBuOTJONDJzRDNHcFVDM2pNa2tPOE5fWU5qTG80R1d3UGRCOUlhcHNpLWNFZkEtc1RUQV9jdzI3YjZkRmtRMlNDS29EVW9ZNjdpZVJfSEduUktobWRMWWtPejRFV1NvNUd6aQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "No, Image Does Not Show Congress MP Apologising to Muslims in Kolhapur - The Quint",
+        "source": "The Quint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa3JpZU13aWZldlF5ZFBGSEFKUkxtZXA3QS1rZWQ0ZHRuVmNWbHE0TF9QUy1URXozci00ZFZ5Rnktd0RBSjRfTFlMVXFiNGtZZnR1THVVLWpqZUp6cU9rWld3eHVKZE9WUktuUVFDSEZXSU01SV9OTHdRVUxNMElvZmZ4VnBnRURROHpfNndSTGVWVVY3dGNJZFVnd1d6WkV5RXBEdzJTUFR1UXhVbG9lZ0FUQUJReUlCUUHSAccBQVVfeXFMTlgtVGZ0ekYwM2xvQUh1dUhsdUJpYVFKUXRrSExIYlVBN0tMYmQ3Ry1pdWpEZlVzN2FNNld1eXhMOUZVa2x0LWxDTjJYNlNyM3BVN0xhTjNuTTN2QU9td0dnLVFSR2hERS0zZnNFbTNTUEh2bF95bTBKd1I3T0Z6RDlVRndYX2RLVGlOOUNtcXBubUhETUd4ODN2N3BfV0pLN1MyYnBHcm9ZSjh2eVdwdmxwaXRGcVFtTFYxQ1dQb0dnaFRSUmFRRQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Met Sonia after 20yrs, Cong to be constructive opposition: Kolhapur MP - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRUJ0M1lpRjI2eTRaLUtmMXQ5OWZ5cWY3N2lKMVF3V0tVUENWMjA4MXE5dUtyNzNWT1BscVpmZHpqMmxaTUNjRjF4TEZZakhGQnJBQ1VmTjFHaXlTS0xEd0wxQ3l4eTJTUFZhano3Y1lrYXZvamJTUnhSWEVUNVVwRFVQT2pYSEN6NmVWeW5PSnFpcVNJa25YWnlFM0VxRWFHdkJPcFdaS2c1cnFqNFRNOWRGQldRLUswU3p2MnBKX2Q3WFZxY2RDOHZHZ0FGUGdfTE82dmE1WUhTQjNtMHFJVDBoQUhFZ9IB6wFBVV95cUxQcVpHb0RtZy16UFloZE1Sai1CMXJ4Z1l0bkNZY1p4cVF0STlRZENNajJLWFlPRm52UENtNGhPMnVzU3BBUTdmVWE3eHNIT20yMzNvTHZQa3RVVl9GSkxzbHZvTkJtMmVuMng1cmtSd2loRlU2Mk8yb1V1Z2VXb18tUHVMTnM1U0RmYUM2ZlN6TnJuNkZxZktDQWlqVVVya2hPcEVoX2hkQkJ1OE15ek0zSUhGejcxLXN0cmhXV0tTWW8weVJvWUE0YV90NUlMbkMzMGR3VnR5QVFHendCcG4wRFZXWmZCSWMzejVZ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress embroiled in ‘royal’ drama in Maharashtra’s Kolhapur after candidate’s last-minute withdrawal - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSmlnYUxNWmlsMkhDQnNuVDgzWnhIeWp0OS1ZQU5XVVlEMUdVQVUxbkgxMUNqc1JrQzgzdWtIZmtPVFlxcVFfSG85UHJkSEpFWHI4UGJEZExOV0VRZGFsRlpWRHZyejdFMGNpdlh0eHNtbW15dS13aEZWYURzS3JTNHg5d1VyeExJMXJZYlpqMDQwNUQ1WGZMX0lBakM2QWxaYTU4SFJWbHNDZVhSUGliUWtTcnV0clNrZnE3bXlIZnM0SjdxZm43b0pDUnJIRENmX1HSAdcBQVVfeXFMTlFVSDBEcWN3aGxuNkNrUmJnUnJ5Qm9XUzZTd05XMWc1M05Obnd0UFdjVFNockZIeVpEYjdpRk12OVZQcFJWTzJxcDBOTTZva3gyOVJyYXVwSG9pWEh4cVVHMTBDQUJ3OUpPeXNIdG9hVFJPVjV2eWFvQ0JDSFhyWXU2TUoteDRoQUVFN1pjTmhxUGNnaWRvTWdQQ2pFd0xhejFxQjY0MjBIMDQ0TmliSVFFTUJpNWhNVFBVdjFUMGNIbFloYWdhTlRhNXN1QWhSYlBneWJWRzQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:23:34.104828Z",
+    "collected_at": "2026-09-02T14:46:42.665007Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +221,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.760575Z",
+          "fetched_at": "2026-09-02T18:38:08.305026Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +237,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.760585Z",
+          "fetched_at": "2026-09-02T18:38:08.305038Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +253,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.760590Z",
+          "fetched_at": "2026-09-02T18:38:08.305044Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +269,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.760595Z",
+          "fetched_at": "2026-09-02T18:38:08.305049Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +285,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.760601Z",
+          "fetched_at": "2026-09-02T18:38:08.305056Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +301,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.760606Z",
+          "fetched_at": "2026-09-02T18:38:08.305060Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +317,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:50.760610Z",
+          "fetched_at": "2026-09-02T18:38:08.305065Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +342,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "@shahuchhatrapati",
+          "url": "https://x.com/@shahuchhatrapati",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "@chh.shahumaharaj",
+          "url": "https://facebook.com/@chh.shahumaharaj",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "@chh.shahumaharaj",
+          "url": "https://instagram.com/@chh.shahumaharaj",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:43:03.019461Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -290,11 +396,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "People have shown the way, I simply followed them: Chhatrapati Shahu Shahaji - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Cong MP Shahu Chhatrapati did not apologize to minorities at Vishalgad; image falsely shared by RW handles - Alt News",
+          "source": "Alt News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkhEYThibDVoSWk1ZkRHdkx2ZVg0QkJsU1NwdTlaaERnX2pPOHNsUS1UQ2toOEp6b3o1THlwbXVmTExDR0hkaTBRV0FodWZveWZxbTFZVVdQTkVORzJnLUY5a2RnalgyakxIZlpYSC03RWZSVmFnME9rN2lhbWJvX01MQW1qeWtlZWFfN3BUVzhBWDl4X01XZ0dUdlRRY21JTTJ6VWJOaVhUQdIBsAFBVV95cUxONWR2X3VRMDVpbHp2RjZGVFJNSHpUNjI0WnZzM21lcHVPSmE4ank3Rnl2YTM2RDZQQ0RoRE5mdFZJekNCUzJqcWJ2MnUtb2NWQl96Yy1KTFBJVTlROVUycGFSLTg3Nnk2YlFlcUNqamlxY3dHMUdEMy1VUktBRXFpMGlsdHdRUVZQOXNVaVVNbXlSbHRQSG5lZTlPUDYxZTMyajZWeFlZTzZMM0NPWkQwTg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVFqcUcxMXV3Z0RfOEFaTDlVZ251SUYxR21lT2lUNmpuMFZIZ0Y2ZmdiNVNxVVQ0V1NTdzZjMWtYUDY4aXp6SzRjVnZDUnVLeHp0NGtGZl92OW5yWm0yeEpBdHZTRzBuOTJONDJzRDNHcFVDM2pNa2tPOE5fWU5qTG80R1d3UGRCOUlhcHNpLWNFZkEtc1RUQV9jdzI3YjZkRmtRMlNDS29EVW9ZNjdpZVJfSEduUktobWRMWWtPejRFV1NvNUd6aQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,11 +412,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Cong MP Shahu Chhatrapati did not apologize to minorities at Vishalgad; image falsely shared by RW handles - Alt News",
-          "source": "Alt News",
+          "headline": "Met Sonia after 20yrs, Cong to be constructive opposition: Kolhapur MP - The Times of India",
+          "source": "The Times of India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVFqcUcxMXV3Z0RfOEFaTDlVZ251SUYxR21lT2lUNmpuMFZIZ0Y2ZmdiNVNxVVQ0V1NTdzZjMWtYUDY4aXp6SzRjVnZDUnVLeHp0NGtGZl92OW5yWm0yeEpBdHZTRzBuOTJONDJzRDNHcFVDM2pNa2tPOE5fWU5qTG80R1d3UGRCOUlhcHNpLWNFZkEtc1RUQV9jdzI3YjZkRmtRMlNDS29EVW9ZNjdpZVJfSEduUktobWRMWWtPejRFV1NvNUd6aQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRUJ0M1lpRjI2eTRaLUtmMXQ5OWZ5cWY3N2lKMVF3V0tVUENWMjA4MXE5dUtyNzNWT1BscVpmZHpqMmxaTUNjRjF4TEZZakhGQnJBQ1VmTjFHaXlTS0xEd0wxQ3l4eTJTUFZhano3Y1lrYXZvamJTUnhSWEVUNVVwRFVQT2pYSEN6NmVWeW5PSnFpcVNJa25YWnlFM0VxRWFHdkJPcFdaS2c1cnFqNFRNOWRGQldRLUswU3p2MnBKX2Q3WFZxY2RDOHZHZ0FGUGdfTE82dmE1WUhTQjNtMHFJVDBoQUhFZ9IB6wFBVV95cUxQcVpHb0RtZy16UFloZE1Sai1CMXJ4Z1l0bkNZY1p4cVF0STlRZENNajJLWFlPRm52UENtNGhPMnVzU3BBUTdmVWE3eHNIT20yMzNvTHZQa3RVVl9GSkxzbHZvTkJtMmVuMng1cmtSd2loRlU2Mk8yb1V1Z2VXb18tUHVMTnM1U0RmYUM2ZlN6TnJuNkZxZktDQWlqVVVya2hPcEVoX2hkQkJ1OE15ek0zSUhGejcxLXN0cmhXV0tTWW8weVJvWUE0YV90NUlMbkMzMGR3VnR5QVFHendCcG4wRFZXWmZCSWMzejVZ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -368,17 +474,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 45.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Low attendance",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +505,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +532,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Maharashtra: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 3,428,668,000. MPLADS utilization: 14.6%. Parliament attendance: 45.0%. Debates participated: 2.",
-  "validated_at": "2026-09-02T01:36:50.761325Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 45.0%. Debates participated: 2. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:08.305815Z"
 }

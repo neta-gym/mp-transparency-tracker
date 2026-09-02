@@ -4,17 +4,17 @@
 **Party:** All India Trinamool Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (14%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.6 / 100
+## Composite Transparency Score: 38.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 31.9 | 25% |
-| Asset Growth | 60.0 | 15% |
-| Criminal Record | 100.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 210.50 Crore
-- **Liabilities:** Rs 17.61 Crore
-- **Net Worth:** Rs 192.90 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 96% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 10
-- **Expended:** Rs 6
-- **Utilization Rate:** 39.9%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -74,29 +73,43 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
+- Asansol election results 2024 live updates: TMC's Shatrughan Prasad Sinha wins - The Times of India (The Times of India) [neutral]
+- "Asansol... aaj apki baari hai": Sonakshi Sinha urges voters to exercise their franchise - aninews.in (aninews.in) [neutral]
+- Asansol Election Result 2024 LIVE Updates Highlights: Shatrughan Prasad Sinha of TMC Wins - News18 (News18) [neutral]
 - Shatrughan Prasad Sinha - The Times of India (The Times of India) [neutral]
-- Shatrughan Sinha Biography: Age, Net Worth, Family & Career Highlights - Mabumbe (Mabumbe) [neutral]
-- TMC's Shatrughan Sinha wins in West Bengal's Asansol constituency by 59,564 votes in Lok Sabha Election 2024 | India News - Hindustan Times (Hindustan Times) [neutral]
-- Lok Sabha Elections 2024: 5 Facts About Shatrughan Sinha, Trinamool Candidate From Asansol - NDTV (NDTV) [neutral]
 - TMC Leader Shatrughan Prasad Sinha takes oath as Member of Parliament in Lok Sabha - The Economic Times (The Economic Times) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Asansol election results 2024 live updates: TMC's Shatrughan Prasad Sinha wins - The Times of India** (The Times of India)
+- ! **"Asansol... aaj apki baari hai": Sonakshi Sinha urges voters to exercise their franchise - aninews.in** (aninews.in)
+- ! **Asansol Election Result 2024 LIVE Updates Highlights: Shatrughan Prasad Sinha of TMC Wins - News18** (News18)
+- ! **Shatrughan Prasad Sinha - The Times of India** (The Times of India)
+- ! **TMC Leader Shatrughan Prasad Sinha takes oath as Member of Parliament in Lok Sabha - The Economic Times** (The Economic Times)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for West Bengal: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Shatrughan Prasad Sinha has a below-average transparency score of 49.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Shatrughan Prasad Sinha has a below-average transparency score of 38.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 2,105,041,638. MPLADS utilization: 39.9%. Parliament attendance: 50.0%.
+No criminal cases declared. Parliament attendance: 50.0%. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -136,7 +149,7 @@ No criminal cases declared. Declared assets: Rs 2,105,041,638. MPLADS utilizatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -215,8 +228,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Shatrughan Prasad Sinha's MPLADS account: Released: Rs 15, Expended: Rs 6, Utilization: 39.9%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -234,10 +245,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

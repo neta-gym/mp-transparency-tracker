@@ -7,21 +7,21 @@
 **Education:** Graduate Professional
 **Profession:** Politician, Social worker
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 66.4 / 100
+## Composite Transparency Score: 70.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 62.0 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 85.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 40.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -39,24 +39,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
+- **Movable Assets:** Rs 5.01 Lakh
+- **Immovable Assets:** Rs 16.00 Lakh
 - **Total Assets:** Rs 21.01 Lakh
 - **Liabilities:** Rs 5.57 Lakh
 - **Net Worth:** Rs 15.44 Lakh
-- **Previous Total Assets:** N/A
-- **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 2% of Lok Sabha MPs
+- **Previous Total Assets:** Rs 2015000.20 Crore
+- **Asset Growth:** -100.0%
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 10
-- **Expended:** Rs 10
-- **Utilization Rate:** 64.7%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -70,23 +69,48 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 4
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@share](https://twitter.com/share) | No | Yes |
+| Facebook | [@sharer](https://www.facebook.com/sharer) | No | Yes |
+| Instagram | [@adrspeaks](https://www.instagram.com/adrspeaks) | No | Yes |
+| Youtube | [@adrspeaks](https://www.youtube.com/user/adrspeaks) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 1 | **Negative:** 0 | **Neutral:** 9
 
-- Supongmeren flags linkage of women’s quota with delimitation, seeks review - Eastern Mirror (Eastern Mirror) [neutral]
-- Foothills Road compensation claims baseless, clarifies MP Jamir - MorungExpress (MorungExpress) [neutral]
-- MP, S. SUPONGMEREN JAMIR GRACED THE INAUGURAL PROGRAMME OF 70TH GENERAL CONFERENCE OF AKM | DIPR Nagaland-Department of Information & Public Relations, Nagaland - DIPR Nagaland (DIPR Nagaland) [neutral]
-- MP Supongmeren Jamir appeals for accreditation and upgradation of Nagaland Institute of Medical Science and Research (NIMSR) - Nagaland Tribune (Nagaland Tribune) [neutral]
-- Nagaland Congress MP S. Supongmeren Jamir nominated As Member Of India–Chile Parliamentary Friendship Group - Northeast Today (Northeast Today) [neutral]
+- MP S. SUPONGMEREN JAMIR VISITS LANDSLIDE AFFECTED AREA IN ZUNHEBOTO - ipr.nagaland.gov.in (ipr.nagaland.gov.in) [neutral]
+- Nagaland MP Supongmeren seeks restoration of passenger train service to Tuli - Eastern Mirror (Eastern Mirror) [neutral]
+- Supongmeren Jamir urges Centre to immediately implement Naga political agreements - nagalandtribune.in (nagalandtribune.in) [neutral]
+- Dimapur world-class railway station project under time crunch - MorungExpress (MorungExpress) [neutral]
+- Only 7.5% work done, MP flags delay in rail project - Nagaland Post (Nagaland Post) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **MP S. SUPONGMEREN JAMIR VISITS LANDSLIDE AFFECTED AREA IN ZUNHEBOTO - ipr.nagaland.gov.in** (ipr.nagaland.gov.in)
+- ! **Nagaland MP Supongmeren seeks restoration of passenger train service to Tuli - Eastern Mirror** (Eastern Mirror)
+- ! **Supongmeren Jamir urges Centre to immediately implement Naga political agreements - nagalandtribune.in** (nagalandtribune.in)
+- ! **Dimapur world-class railway station project under time crunch - MorungExpress** (MorungExpress)
+- ! **Only 7.5% work done, MP flags delay in rail project - Nagaland Post** (Nagaland Post)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Nagaland: 7 relevant findings
@@ -95,11 +119,11 @@
 
 ## Qualitative Assessment
 
-S Supongmeren Jamir shows moderate transparency with a score of 66.4/100. No criminal cases declared. High parliament attendance.
+S Supongmeren Jamir demonstrates strong transparency with an overall score of 70.0/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 2,100,868. MPLADS utilization: 64.7%. Parliament attendance: 100.0%. Questions asked: 3. Debates participated: 5.
+No criminal cases declared. Declared assets: Rs 2,100,868. Parliament attendance: 100.0%. Questions asked: 3. Debates participated: 5. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -139,7 +163,7 @@ No criminal cases declared. Declared assets: Rs 2,100,868. MPLADS utilization: 6
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +242,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for S Supongmeren Jamir's MPLADS account: Released: Rs 15, Expended: Rs 10, Utilization: 64.7%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -238,11 +260,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -3,24 +3,22 @@
 **Constituency:** Varanasi, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 73
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (24%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 52.3 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 27.5 | 25% |
-| Asset Growth | 50.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.02 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 3.02 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 26% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 16
-- **Released:** Rs 16
-- **Sanctioned:** Rs 10
-- **Expended:** Rs 6
-- **Utilization Rate:** 34.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,37 +66,62 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/narendramodi](https://x.com/http://www.twitter.com/narendramodi) | No | Yes |
+| Facebook | [@http://www.facebook.com/narendramodi](https://facebook.com/http://www.facebook.com/narendramodi) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
 - In Varanasi, Modi says women reservation a national mission, blames Opposition for Bill’s defeat - The Indian Express (The Indian Express) [neutral]
-- Varanasi gears up for PM Modi’s visit; women perform 'shankhnaad' to welcome Prime Minister - lokmattimes.com (lokmattimes.com) [neutral]
-- BJP-ruled UP and MP sign MoU in Varanasi to manage temple crowd - The New Indian Express (The New Indian Express) [neutral]
 - Varanasi: Security tightened outside PM Modi's public outreach office ahead of NSUI's 'Save MGNREGA' march - ANI News (ANI News) [neutral]
-- Kashi emerging as hub of sports, mega events: PM - The Times of India (The Times of India) [neutral]
+- Varanasi’s lanes and ghats celebrate its MP’s 12 years as Prime Minister - The Times of India (The Times of India) [neutral]
+- 'If PM is unsafe in Parliament, he should resign': Imran Masood attacks Modi at Constitution dialogue rally... - bhaskarenglish.in (bhaskarenglish.in) [neutral]
+- PM Narendra Modi Flagged Off 4 New Vande Bharat Trains from Varanasi, UP - AffairsCloud.com (AffairsCloud.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **In Varanasi, Modi says women reservation a national mission, blames Opposition for Bill’s defeat - The Indian Express** (The Indian Express)
+- ! **Varanasi: Security tightened outside PM Modi's public outreach office ahead of NSUI's 'Save MGNREGA' march - ANI News** (ANI News)
+- ! **Varanasi’s lanes and ghats celebrate its MP’s 12 years as Prime Minister - The Times of India** (The Times of India)
+- ! **'If PM is unsafe in Parliament, he should resign': Imran Masood attacks Modi at Constitution dialogue rally... - bhaskarenglish.in** (bhaskarenglish.in)
+- ! **PM Narendra Modi Flagged Off 4 New Vande Bharat Trains from Varanasi, UP - AffairsCloud.com** (AffairsCloud.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Narendra Modi shows moderate transparency with a score of 52.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Narendra Modi shows moderate transparency with a score of 56.5/100. No criminal cases declared. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 30,206,889. MPLADS utilization: 34.4%. Low confidence data: Parliament activity. 1 warning(s) noted.
+No criminal cases declared. Low confidence data: Assets, MPLADS, Parliament activity. 3 warning(s) noted.
 
 ---
 
@@ -139,7 +161,7 @@ No criminal cases declared. Declared assets: Rs 30,206,889. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +240,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Narendra Modi's MPLADS account: Released: Rs 16, Expended: Rs 6, Utilization: 34.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -237,12 +257,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

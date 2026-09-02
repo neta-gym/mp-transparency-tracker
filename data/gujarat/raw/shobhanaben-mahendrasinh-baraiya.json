@@ -4,16 +4,16 @@
     "constituency": "Sabarkantha",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3782,
+    "myneta_candidate_id": null,
     "slug": "shobhanaben-mahendrasinh-baraiya",
     "house": "lok_sabha",
     "sansad_member_id": 5611,
     "profile_url": null,
     "canonical_name": "Shobhanaben Mahendrasinh Baraiya",
     "name_aliases": [],
-    "education": "12th Pass",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/5611.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:00.450671Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 31828842.0,
-    "liabilities": 12744653.0,
-    "net_worth": 19084189.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3782",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:46.722144Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 26.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.52,
-    "expended": 4.35,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:13.557909Z",
-        "notes": "Official eSAKSHI REST API — Works: 269 recommended, 240 sanctioned, 52 completed"
+        "fetched_at": "2026-09-02T14:26:46.564193Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:21:56.870800Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:21:58.986296Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 269,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 29.591836734693878
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:20:28.346237Z",
+        "fetched_at": "2026-09-02T14:21:57.898242Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Sabarkantha election results 2024 live updates: BJP's Shobhanaben Mahendrasinh Baraiya wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOUk5qeFlQaHVwNDBiclAwd2NKYkVLMXEtbEtkSl81M1hrRWNkOVkxek1RZW9UMGZsZnY0M2JvMlA1Q1JwbzlZNkJqQmp2SWlnSjVISkpyVzEzSlNvejE2TU1paVJQTTY3UlRYTzJQaU5kcnVwZUc2WnFCN0l0LXlDb3dfRDNzUDF2bTdLaGR5Y1F6ZVNjZDVoeU11Ny1mRjJSek1ZZzF2RGdobkpxbHFpUjRxdGxYZndzcmFVajdUalJ1NGRpYTFMR1E2Smg3V3NPVzZpLUgwMlJSV3Y4blZnSHlRV3NMUnJVRndmMEdBLXZKbTRxTXk2WWkzbW5kMkVZRXQ0QXJMVU1SUEpaRUZEUWJacVJOZVRxMldPQnU0ZmN1VnlpMTdvX013Q0xBOFdrc1hleV9nRUZWaGRQekpvQ3pDME1sdnkzc3U2RU5aUDVZWTJIZGxpZVhB0gHfAkFVX3lxTE1nLWNTY3FsSHBjWTJ5TVRUblRWczJ3OWMzcm05RFhSU1RPcWFsd2VibnZFMTFrYmtla01ULVlmdnQtWkw5NHZ6VHZQRF9Bc0RXTGVxamswYzJmU1pDSXZRbUpFRE5ueThGQ2xucUh0VmdTbW5sZDFRUS04alJHOExRQzBHbnNYUEFibnZSTmw1a213R2J0SlV4b3ZObkNxVE9kRGh1UWkxdjFseUlzdUFiN2E0ZmdocWVjRXpVTU9oZ0stYkhqdE9Mc0EwRHlRQmZid0wzaTR4RjZPcEthZWlBc0Y0c1phY3VfZjJ6dVRzRFdrSXh5bmNsLW9IOXhncjdiMFZKYXg0QWNXWHZXWXZqUGgyOGQ2bG1xUzZ6WWpRRGlFOFNpek4zbE5MOXFQUkZGbzVpOTR0amJwQjVLUm1SejJIWmlvV3lkNVVySEMxWEFnMlFUeGxPcEVOUkdpcw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : LoK Sabha Member Of Parliament - B - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkExcmJuRmpsOUwzbF9zOTdRdHF3OGdoODNtX1FSYjBXMGFVVjdUSURLWnpNRXZFODNjSzMtUGRrQUpmVURCWmxGOGk5M2xRMlZ1SzB0eTdTTXNQSm1PRVZLQ01DV0t6N0Q4akpjV2V5akNvcEpGMzcxNVdyUTVpVW1XOGlzQUE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gujarat CM Patel extends best wishes to 122 newlywed couples at Sansad Samuh Lagan Utsav - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcnk4ZWxZdnFaVUNIZ0hDVFFILW1pN1RUWUNJakhOenJybzV4NjJhTC1oQkVkdjlfS1AycWNTdmxpNXFGN1lDT1hSWXFpVHBJMGVZcEU0WkxMa1llbzdYNkRFTUpsanVpMTBlbmM5VDg0c0s5N3lmMGF5M0xFSUYxc2w0S0YzRGY3TGtmYTVCLXhnQWp2OGM0Z2lNNFNtNGdxeERIRUdYQzA3bUs3elVpWEJPOWpaQm1NQ3VvMEFuNmxZRmNBY0FtUDNldWlaTk9rN1VYSXFKQ2Z5Z0NqUmhKNEpUSHM3V0U?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP allocates tickets to Congress-affiliated leaders for seven Gujarat LS seats and Four Assembly Seats in Bypoll - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQclV5UGdJc2FfZ05UWkNyR004cU93RGlERVB5eGU1SER1NFlPX3c4Y2VtWnZuVTBQZUo0OGNHMjVaSDhVNm4ydXRyelUwS3RkaFNoN2JNS1ZHSFZDMFRqd3RCY3F1ZTFxcWFkYWNvR21RUnBEQXA3R0tMVWhQZmlmUGNydWJqSFotNFBMbDE2MGhYWklmZ1VIVHVrdUlqeTV4dUQwLWtqcHp2T1ZmOFBmZG5ZTkM2bzc0ZFhtVXFoejFXWEhIVnJDdFNQXzRfRzVTSl9jaGIwRmNPRzdvRXZmNnhSQjIzaUphZmRwd2lVQjJleUs4amYw0gGEAkFVX3lxTE1vNnZHbFloVkZfSFBuRTlzU0ZpNnZtT1p6TFdZdktnQ3dhMUV2S3EwOTZZeDYzbWxsdVBXZFZCNjdYLUl3b0xZV1ZUTnZMaDJSblZKT2xFTzRjdGVkQ3hERFJSRmEzaVBlZC1QSGF5Nng4UXdzM0hEdi1XRnFyUWhXTV8yNW9WNGQzSUhPeGxxam1TbllVMGVIV0NaSVJMU0o3TWVtX3owbHZZX3lhQWIwZW1xcUtSY2g4bVJRTldxbjdGdTlLTlRWZEFWRkVhYWNtX1pyYWRlLVpoX1ZFSEZMN3lwTWtRSjk0SWoyZmRPU2p3ZmNjMm9UREE5TEg1bzR3WHZI?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "District level 'Vibrant Gujarat Regional Conference' program held in Himmatnagar - Big News Network.com",
+      "source": "Big News Network.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmJySjhrUlZobUxFd2Jjb1YwdDJicmJ3WnZza09uOVl5TXRaMEZZbnR2cFZXSUxnYXVGOWNVTVdaRlhEbnVwZ3pIX1dzVlUyNW05ZXRZcU56YjVuYjJOUDlBeEdwM0h5aTNFN3F3a3FwSnU4RzgyMmpIdVNRWk1DY3d5YVhEa2M2QW54aThpWlNYN09tYnNwT0VNX1lJeGtOaGgwSk9SYTIzZHhYRGh4S0RoS25lTUtuaXF3Y1h0emRLZw?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:20:54.079351Z",
+  "collected_at": "2026-09-02T14:27:14.570976Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.274167Z",
+        "fetched_at": "2026-09-02T18:38:05.904200Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.274176Z",
+        "fetched_at": "2026-09-02T18:38:05.904211Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.274181Z",
+        "fetched_at": "2026-09-02T18:38:05.904217Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.274186Z",
+        "fetched_at": "2026-09-02T18:38:05.904222Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.274191Z",
+        "fetched_at": "2026-09-02T18:38:05.904228Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.274195Z",
+        "fetched_at": "2026-09-02T18:38:05.904233Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.274199Z",
+        "fetched_at": "2026-09-02T18:38:05.904237Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,17 +304,34 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/BJP4Gujarat/status/1780243030672376206",
+        "url": "https://x.com/https://x.com/BJP4Gujarat/status/1780243030672376206",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 1,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:21:59.371366Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
-    "total_articles": 9,
-    "positive": 1,
+    "total_articles": 5,
+    "positive": 0,
     "negative": 0,
-    "neutral": 8,
+    "neutral": 5,
     "top_headlines": [
       {
         "headline": "Sabarkantha election results 2024 live updates: BJP's Shobhanaben Mahendrasinh Baraiya wins - The Times of India",
@@ -272,39 +342,39 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "OPINION: Building stronger foundations for India's children through holistic child development frameworks - theweek.in",
-        "source": "theweek.in",
+        "headline": "Parliament Of India : LoK Sabha Member Of Parliament - B - Sarkaritel.com",
+        "source": "Sarkaritel.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQYVoyUWlkd0h2NnR5QTB2N1VrS284QlRuaHRwU0ZPM3daQXJSOVNEYmtIakpjWXMxaVBvOGdLNEs2bU9SWmJIaGRsclMzWXY2MVFjdFEwR2IxUms0NFB5T0swaTBPTm1wNlQ0X0l4RnYxYXRfRWVqMWw1TWZDdE94VDB2X2xoUUF5cm5CSzFiT3dOOE5HTUFSTW96T3NyRU5vT0hkYWZ6Z2FFOHluclV4NDBfUnRleUxPQUxiTGVPQjFhMGU4Z0U0QlVZOUtfVnN0TTlNRDU3YU5YdXFSalVaYnR3MkZZZDUtVkc1RU8xbU11S3o3cUo1UHM0TGFnQ0xKcEc1UE1GdU1iWnM0TDFmR2VrZWRkYm5xX2JNeHZ30gGjAkFVX3lxTE4tYUxNRUhoakR3NjlFUV95WnhyR0lRX0RDWUhUMmFIal9fT2tGanN4YkVxUW81ME1qaVJOcDBDa3d5cGZwY25Qek1xWGxfUzFhWDFERk5YSC1qdE9NWDI1c0xvLVRheXVCb2ZXZlBaTV93djVOTkwwNkd6YWIxeGp2b055OEYzYnNSdjlIT0JqYUxIWmw0YjUtdE1sQkRwRkdMVVJqRlMzTEVxMkExa05ycjhJbUxxemF5R01zRV9oeG96dDZXMmlSeEVmUHgyZmRHQkd6RHZQNXJ2MUllTi1zaThCS0dadEhjVTlkcUFXdXNCR1NxVlR5N3dycGpxNV9BUjQ3ZXMyVzBBbFZRN1poRW1sX2xQZXNhN0J2eW5Qblh4SQ?oc=5",
-        "sentiment": "positive"
-      },
-      {
-        "headline": "In Gujarat, BJP drops nearly 50% of sitting MPs - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JEU3d4eHYxaGxRMkdJV3Zfa1JfZ2dna2ZibUtXQzFUSDlXVEFMTFpNMGtVNXhKMnFjNDRrUlI3Y0xadVBCbDFEVHY0d2lha2JxcUR4Nm1HallwRkF4LWxRS3lfMmZ2S3lrU3NfZnFNanVpRTFhVmoySnlWbDlJZXo3TmF1WHJyYW1zRVM2cWx2YkRnamV2eWM1THRWVEFVNG41T2lON2ItcXdaT05v0gG2AUFVX3lxTE85RDUzZU9pSlFkTE1Ca0V4cnRlUzhGMVFNaFAyMmpFaXlNSUJEU1VjRjZQUEQ0eFZFcDVzcU5XRHh6bnlZaWhpQ0VtWUlIN3BCNnkyS2V6YUw5c3kxaDBhcHNSaHU2QUx0V24yQ1dJQVlvWDAzMlNkeUwwQ0U2b2dpbFNPMVNRTGRuTGs3SHFfN2dWMUhWaElqMGZ0LTRNOEtoME42V3ZwSU8tU0dFTm01YXRmdC13?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkExcmJuRmpsOUwzbF9zOTdRdHF3OGdoODNtX1FSYjBXMGFVVjdUSURLWnpNRXZFODNjSzMtUGRrQUpmVURCWmxGOGk5M2xRMlZ1SzB0eTdTTXNQSm1PRVZLQ01DV0t6N0Q4akpjV2V5akNvcEpGMzcxNVdyUTVpVW1XOGlzQUE?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "CM Shri Bhupendra Patel Graces Sansad Samuh Lagnotsav 2025 in Amodra, Prantij - CMO Gujarat",
-        "source": "CMO Gujarat",
+        "headline": "Gujarat CM Patel extends best wishes to 122 newlywed couples at Sansad Samuh Lagan Utsav - ANI News",
+        "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSmRFc21GalR0ZldqaDdtRVJwWUlBWVRSdXo1YmZJblBvWkZIUGR1RkxqWUJVVDNsaWpRbXpFX0JKOTJXenExX2FBRE9VWTlGTHIyVVgyVG9SdDVmV0laRVZLSEl3ck9pbDhqRTFia0xLVFNUeFhQYzM3eWg2aGkzVzFB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcnk4ZWxZdnFaVUNIZ0hDVFFILW1pN1RUWUNJakhOenJybzV4NjJhTC1oQkVkdjlfS1AycWNTdmxpNXFGN1lDT1hSWXFpVHBJMGVZcEU0WkxMa1llbzdYNkRFTUpsanVpMTBlbmM5VDg0c0s5N3lmMGF5M0xFSUYxc2w0S0YzRGY3TGtmYTVCLXhnQWp2OGM0Z2lNNFNtNGdxeERIRUdYQzA3bUs3elVpWEJPOWpaQm1NQ3VvMEFuNmxZRmNBY0FtUDNldWlaTk9rN1VYSXFKQ2Z5Z0NqUmhKNEpUSHM3V0U?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Sabarkantha Election Result 2024 LIVE Updates Highlights: Shobhanaben Mahendrasinh Baraiya of BJP Wins - News18",
-        "source": "News18",
+        "headline": "BJP allocates tickets to Congress-affiliated leaders for seven Gujarat LS seats and Four Assembly Seats in Bypoll - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdEhidDZKcmVQdHJhUFdqeGFQX0FVMzNicHJpUXVJUlc2T0d2Z052QnN5bFJicWZzLU5HMzI0S050bHVqdjJSN1BCdk9RaDVWSElKS2RYQ0hBMlU4VFRqdDZrb1p0WkdGQ1c3SEctc2ZFblYzWk1zbWpoVmtqdHMzMXRSWndDTExnMVI2bG1GajdWTWNOZXctX2xPb3p4Q3ZqcEVIRjlLSmRBamVqMzN2NU9FSXp1dEVGUXZGdVg4blBmRkFYeXhmREEwMWdjN01ZTjN3ZXFuR3R4b01EczRUSWRKdENXV1XSAewBQVVfeXFMUFRad1duVWpaWFMwb0ZwLVUzT3U3aFY5dXN4ZDZBTERJRUd4Q1FQVm15alRDRnBxS0lIYkRBd2R2WllWSUtrcDRXOEtNczRZaThLRzFzSlFkNm5FZVBTMFNuYWVZN05sLThJT2JYenZaVUdSOFZFcE5PeG9zTmJyaXV0ZUd5SW9xM2xkSUZvc1NTM1lNcjlaVlpvUlhTMXYzLWdBTnBvb2hDMXd5WlNadEc2aXpKZmgzaG9PbU9MNHJxS01DSHkzTlEyTXRXc29CUVo3S1J1UGZPVTZnMURick1wSVRUbzVvR3l5WjA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQclV5UGdJc2FfZ05UWkNyR004cU93RGlERVB5eGU1SER1NFlPX3c4Y2VtWnZuVTBQZUo0OGNHMjVaSDhVNm4ydXRyelUwS3RkaFNoN2JNS1ZHSFZDMFRqd3RCY3F1ZTFxcWFkYWNvR21RUnBEQXA3R0tMVWhQZmlmUGNydWJqSFotNFBMbDE2MGhYWklmZ1VIVHVrdUlqeTV4dUQwLWtqcHp2T1ZmOFBmZG5ZTkM2bzc0ZFhtVXFoejFXWEhIVnJDdFNQXzRfRzVTSl9jaGIwRmNPRzdvRXZmNnhSQjIzaUphZmRwd2lVQjJleUs4amYw0gGEAkFVX3lxTE1vNnZHbFloVkZfSFBuRTlzU0ZpNnZtT1p6TFdZdktnQ3dhMUV2S3EwOTZZeDYzbWxsdVBXZFZCNjdYLUl3b0xZV1ZUTnZMaDJSblZKT2xFTzRjdGVkQ3hERFJSRmEzaVBlZC1QSGF5Nng4UXdzM0hEdi1XRnFyUWhXTV8yNW9WNGQzSUhPeGxxam1TbllVMGVIV0NaSVJMU0o3TWVtX3owbHZZX3lhQWIwZW1xcUtSY2g4bVJRTldxbjdGdTlLTlRWZEFWRkVhYWNtX1pyYWRlLVpoX1ZFSEZMN3lwTWtRSjk0SWoyZmRPU2p3ZmNjMm9UREE5TEg1bzR3WHZI?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "District level 'Vibrant Gujarat Regional Conference' program held in Himmatnagar - Big News Network.com",
+        "source": "Big News Network.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmJySjhrUlZobUxFd2Jjb1YwdDJicmJ3WnZza09uOVl5TXRaMEZZbnR2cFZXSUxnYXVGOWNVTVdaRlhEbnVwZ3pIX1dzVlUyNW05ZXRZcU56YjVuYjJOUDlBeEdwM0h5aTNFN3F3a3FwSnU4RzgyMmpIdVNRWk1DY3d5YVhEa2M2QW54aThpWlNYN09tYnNwT0VNX1lJeGtOaGgwSk9SYTIzZHhYRGh4S0RoS25lTUtuaXF3Y1h0emRLZw?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (5 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +404,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 36,
+    "starred_questions": 10,
+    "unstarred_questions": 26,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 69.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +420,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

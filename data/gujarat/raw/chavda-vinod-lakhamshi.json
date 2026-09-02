@@ -4,16 +4,16 @@
     "constituency": "Kachchh",
     "state": "gujarat",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 3769,
+    "myneta_candidate_id": null,
     "slug": "chavda-vinod-lakhamshi",
     "house": "lok_sabha",
     "sansad_member_id": 4741,
     "profile_url": null,
     "canonical_name": "Chavda Vinod Lakhamshi",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 45,
+    "age": null,
     "photo_url": "/mp-photos/4741.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:53.892456Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 70980147.0,
-    "liabilities": 15605895.0,
-    "net_worth": 55374252.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3769",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:46.259130Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 48.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.83,
-    "expended": 4.08,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:00.303977Z",
-        "notes": "Official eSAKSHI REST API — Works: 238 recommended, 219 sanctioned, 46 completed"
+        "fetched_at": "2026-09-02T14:38:51.569609Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:35:01.946916Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:35:01.943837Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 238,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.755102040816325
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:11.520743Z",
+        "fetched_at": "2026-09-02T14:35:01.942708Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Kachchh election results 2024 live updates: BJP's Chavda Vinod Lakhamshi wins, while Congress' Nitesh Par - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOYjVGWVhDRW16SDhDdlJvZ1dyaUJNX0h6RzNQckY4QmlTZnptMkp0WmJIODMyWnEwMGlIVlM4WFNULXItMGRiandTQ1pHQjV5TlMyalFUVnNpWDd2ODNPbmtFUGlfMGNwOU9iaXlNVTVXc1BaUGRnYmJnVnlwamZYQmpRN09LLUh3c01fWmtadEFMRm1Mc00zbXR1bHlCMDdkTWNZekR0Vldzc2FUVTJ5MmJTcVU1TXlKeWJQcEV1WHNReFhxOTF2ZGFpUVdDNTJHamMxem9LYnRscl9GY1BfZ3dPUkV6c2FvdFQyTDgxWGQxU1hqV2h2Q1NiQnNKMXRsS0pUZFZQZThXYWl0bXNHbS1ZMkNwSFJ6NTJyOWRCTkJEYWNkcGIwS290Ykx3WWw1RlZ0VGFHbVRsZV9BbU5HUTlscHHSAcoCQVVfeXFMTXpMakVLOFZFRXVXVDNIRDh0LWdPWld0TUNHcWVLRF9wNkhxcDVOaFk2YmYwRk15M3RTNnFKWlB6Z1dUUGFIY3ZuLWd4azhYZVZoOFFjamF5QnV0X2c1SHYweGkwalVWQ1AtbWxZWTNpeEJBdU5wN1VxWDRBVWV6NWt1VkxDcHFVWm9fWEpRYzVjdDBzazBrdzU5TnlkRkJSemRLVHdvQXFoaHhyNE5lbm1fZEZmTThLeFlXOGFKZ1ludEtDQk1IZkdIOC1adFFpVkN6ajhEQ19JcW02bm9HdGdvT1ZmaEtCSExxZE04U2JpZVNkMUl3ZWVlLXJEZHFtYzdaeDl5WHBVTTBEVEhJZ0lpZWczV2cwb3YxWHVBWGJjRGpXeGp1Q2hhcGlBa3lCV2tqOWJTM29yU01iaXEyYzA5V2hIUTNXNGpn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gujarat BJP MPs' assets multiply manifold over ten years in power, ADR report reveals - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1BrS3hIVVNsV2lucDl5aDFwUVJGR2l1c0c4YmduekJNeHBnSFIyR0h6dkRFd0RmbFJvdVBMX3FzSFNydjlIR1FRWkRnbm91ajIzWTJ3aXhBOHo0TEpqTHJKVTJEQzhuY0tic1dqY1ZpSzBGTDVvZ05oelowRm16MHZ1QlhaWkRMMDQxcXVEWTdJV25SLVR4d1RGWE1yYXk5Q1dqTkxXWF9ITURGMHdiODJiQ0RjSlVFTVHSAccBQVVfeXFMTkN2NW5jVW40MGhybWUySlc1ODNmOFVjVVY4ZHZfdTZxMjRUUmVYNV9ILTl0SjBrV1Iyc002TEZ4c1ZQRjM1eFdscXgtSktCUHFMWDl3Wkd1cTNBTWRhSEtBYXQ1MzdyODlUZXIwUEdtTzZ2Rl9YMU9tUFJfU2YzLVExX29nY1Zrb1g0MWZ2LVFFNDFXcnU0b1JFYmlsUFhNdXI0eXJTemlNeDUyWVVMeXF2SkViRnhUcGJKS1czcko4OEtJS1JSMA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha election 2019: Gujarat’s Kachchh seat to see tough Congress vs BJP contest | Hindustan Times - hindustantimes.com",
+      "source": "hindustantimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcHY4WjBlOFBRZnVxZGRISlgyNXhfeWNGRU5jN0V0UmJma3ZXNjh2alllRXNveEt3WnBmQ3RkdEI0bFBSWXFIdkhFVzdZTHJRTm50UzNZWGtwZGtteTVCd0pNMzNKS0pZWWx2aFpldkszejk4MlM4bzB1WEJ2UXVYTTB1dS1oTjZxYzg3SjcwRGROLW12MXNYZVJHeTRnSnRybnNYTUEyQXdkcVBnb2h3REhaaWJRZ2dXa3hZVXpWa3hoakw0Sk0xeTh2MU5BMWM4Y0VYRnpQXzlPYTJ2OWtENlRNS2p3OEkyOHdRVncxbGNic2lQQ0JuYWdtUW3SAYICQVVfeXFMTkYwTlY2aEVLenNBN0ZqUEhMbTJJWHZjVHYzOFlBY1JnX0tIMUxIZ1dFcVNRWDZENzBzS1lMcE5mOWZ5UDBhTnFiOVg2QkFGRXNQZEVDZTlrUDl0MzVYMTdvSnc2djlkbXRteDhqVk1KVlBvcmNyLTNpWGNPODlIZ0dVZndmLTllbjdNM0hYT3N3c0NsN1hOUXdST2dKQXhQSUpYaG8tb3BySDYxUUtwWmNvNDVTdzBNcGprMjY4dlVhZkNDZzZyaDg5OXgxSDJxM3lieU9VZldYY3JIRDE3VHNybjJWS2tlSHB2enZtZThISGVJMHBJVzhJUzVCcF9nLWtn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kachchh lok sabha election results 2024: Kachchh Winning Candidates List and Vote Share - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDMybVN3TjhWV09vUWhhcWh1WTQwbmNNQ3UtaVVHVHJuU1dvRHJRT0J3cWFPRGpiNi0xMU9DV1pNVTdySDZmeWFYS0VRcW5nbS1PaGNMQmhYVnQ0WG1HT3Q0QldnX3VUSEpVOGo1ZC12YmJERWdVbFhPcDJvaS1oV05sell0WHk3WGduS05CNA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gujarat Lok Sabha Elections 2024: Voting date, results, candidates, main parties and schedule - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSFJfV3o3SjJiNUJyM2l0blJwYmNkQUNzUFdZTGtrUVdtSEptbGh1bEtNWm9TOFZ0MVFWbWJUUHNCSkpqVm41MnR1Y2xPNTRiaFNDVG9UbFhaSk0xdVR3NkxOSXFYdXJXUW5sNy01R3ltWlZub0FXc1IzZzExWnlSS2ltMEh6bVBjRGt4aXBaMUpTZS1yWXlMalZqVHhacGZVajJLX3F1QU1yRFF5ZW1nQWE5OW1MMlpCWm9fSmxsZlpEb2tmODRrejFtMHhiSE5Ed2xpdWZlMDNEYmFIZ01jUzY0ZFhyYlVaY3FvMVI0WG9GVU1JNUlaOUVfeDkycjJJQXFHQUJ5dGnSAY4CQVVfeXFMUGI5ZjMySmVCeExjc1dNaUM4WmxRR3poVkVRVVVMMlRaODl6eUYzSUdDZ1ladVF3WEhKUG16LUViQXRDMDlHY2ppT0ZZeXlsYXZzOENBSmpvRnNHVXI2b09fa3lCdDhJOVMyVVlOYUNQODVNQklIeERfeEJRalBLVlVoSVQyNUVRalFEM21CZFVCV1pyU1BnXzRJQnVFTWwxSjJqbm5KdklBSWR1MFdiT19odjl5OXNYRVBqTE5ub2xDRFRQemtYOTg5SEw4Zk9tMzVfVWF3Ti1pQnVPOTRCbjNfUTRjMlNxWWlDanJFVU9BQXo0MEFqNVZMS19ZN1dfSU5tVFBBNDV2YlZQN2F3?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:12.714573Z",
+  "collected_at": "2026-09-02T14:38:51.570986Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.966847Z",
+        "fetched_at": "2026-09-02T18:38:05.545115Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.966855Z",
+        "fetched_at": "2026-09-02T18:38:05.545158Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.966859Z",
+        "fetched_at": "2026-09-02T18:38:05.545171Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.966863Z",
+        "fetched_at": "2026-09-02T18:38:05.545176Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.966867Z",
+        "fetched_at": "2026-09-02T18:38:05.545182Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.966871Z",
+        "fetched_at": "2026-09-02T18:38:05.545187Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.966875Z",
+        "fetched_at": "2026-09-02T18:38:05.545191Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -258,10 +311,10 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 9,
     "top_headlines": [
       {
         "headline": "Kachchh election results 2024 live updates: BJP's Chavda Vinod Lakhamshi wins, while Congress' Nitesh Par - The Times of India",
@@ -269,22 +322,6 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOYjVGWVhDRW16SDhDdlJvZ1dyaUJNX0h6RzNQckY4QmlTZnptMkp0WmJIODMyWnEwMGlIVlM4WFNULXItMGRiandTQ1pHQjV5TlMyalFUVnNpWDd2ODNPbmtFUGlfMGNwOU9iaXlNVTVXc1BaUGRnYmJnVnlwamZYQmpRN09LLUh3c01fWmtadEFMRm1Mc00zbXR1bHlCMDdkTWNZekR0Vldzc2FUVTJ5MmJTcVU1TXlKeWJQcEV1WHNReFhxOTF2ZGFpUVdDNTJHamMxem9LYnRscl9GY1BfZ3dPUkV6c2FvdFQyTDgxWGQxU1hqV2h2Q1NiQnNKMXRsS0pUZFZQZThXYWl0bXNHbS1ZMkNwSFJ6NTJyOWRCTkJEYWNkcGIwS290Ykx3WWw1RlZ0VGFHbVRsZV9BbU5HUTlscHHSAcoCQVVfeXFMTXpMakVLOFZFRXVXVDNIRDh0LWdPWld0TUNHcWVLRF9wNkhxcDVOaFk2YmYwRk15M3RTNnFKWlB6Z1dUUGFIY3ZuLWd4azhYZVZoOFFjamF5QnV0X2c1SHYweGkwalVWQ1AtbWxZWTNpeEJBdU5wN1VxWDRBVWV6NWt1VkxDcHFVWm9fWEpRYzVjdDBzazBrdzU5TnlkRkJSemRLVHdvQXFoaHhyNE5lbm1fZEZmTThLeFlXOGFKZ1ludEtDQk1IZkdIOC1adFFpVkN6ajhEQ19JcW02bm9HdGdvT1ZmaEtCSExxZE04U2JpZVNkMUl3ZWVlLXJEZHFtYzdaeDl5WHBVTTBEVEhJZ0lpZWczV2cwb3YxWHVBWGJjRGpXeGp1Q2hhcGlBa3lCV2tqOWJTM29yU01iaXEyYzA5V2hIUTNXNGpn?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Political Profile of Chavda Vinod Lakhamshi, Bjp Party, Kachchh, and Net Worth - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTGxheUtGN0xKZ09FVzR1UTRMRVVxay1zeU5lMld6eTdTdTZ0ZFM3bnpFNk5ZTmdHbGx1N0ZhVzZpNHM4R1d4dkJLcDNCS1VneDJRdEwyYkJuUEc0QVpuNUVkS3g3UF9DWEQzRkhnZG03U0ZYcnZKVkVZXzBNRXllc2gzNE94YjEwT0RDMzVWSFliTmdZRzg3VlJweV9CX2tXTEFEdV9nVmVFV2VObXBWTUZiWE5hSERLQ24za2pRSXZaLXJZdTFzSEZ0VkF1LXhFdlp1aWMyLThyc01WQlVhZWd5MA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Parliament of India : Lok Sabha Member of Parliament – L - Sarkaritel.com",
-        "source": "Sarkaritel.com",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGxsc3ZtYzFudXZBTDA2TVNBT2lLSzF6d0p5d1laX0VfVG9RaEJFSnNNRGszSm1IWlYyVnl5NnAyeFZXUEZhd21MbW14NFZBS3VjcGNiODhLbER0RVpPSmo0YmtmMlNpRTJndF9YdF9TS29jbDdKdVBBUW1RNHEwUlVkaXFvdnM?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -296,15 +333,31 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Gujarat Assembly Election 2022: Will Congress Again Retain Power in Rapar This Time? - India.Com",
-        "source": "India.Com",
+        "headline": "Lok Sabha election 2019: Gujarat’s Kachchh seat to see tough Congress vs BJP contest | Hindustan Times - hindustantimes.com",
+        "source": "hindustantimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNemd1bkxmSnpzeWFmck1xcFZ3Y3ZaT2N2TXhGQTl5NDIwYWNpQ1VfdXhVN3FBdGdSMm4zeWo2cm5EV2ZHd0NvZDVjbmtaSlA3bmY5ejR6MGRiVWdMdUNrZmdXT3A0MThVRWpkRldvVVV4VVk3ZkllMjZsS0hvcWZZdzVPZnF6RzlKS0ZEUm83VHpTOHo1NXlNcFF5RmFxR2ZKV1gwMzZjMkdxd2llSVNNenF6RWQzN3ZrY0hJWjMxV3BITlRJdTBscnZzSzFJNE9MLVdHNGpiSGhQcTIyekpONWs3R1dBYm9MMXVLU3FMRGlLQUt5UDFKSjNqb00wM0ltekxjeHBBenZjOXlTUkcyNk91cE1JaUlYWDh5SW1sOWx3bUZrSmlVSzZR0gGvAkFVX3lxTE9WUHE2UF9QT3QzYV9hRWxWS2FacnhsU3NaaGRMNDh2YjhxS2ZnenV1RHQ1UU9wbWdRUjhpdEFNNDJ4V1Bqc2hwVmYxVmY2eDh4b1EyUUp0NGVmeWYwLV9XeEZXNHFBcDZKSm9KYnc3SWZOZVR1a1o4WHExNzVwSFZJWnFjU3htUzhLYlVRTWtMV2JmT29vSHVORXljRnFsYnJVS2VNalVZbnNKcU1ab3NpR2E2WE5GU0hwbEx3eHRNUXFkcTFVZWRCNXhRVlJYOUFvQ3VoUEFGd2pFamp3dFVReEwxaVh0SkY5UHR4SHVRNnRiclp5dlJBeEdmbjFKTzJLQi1sWU1aRWd6S2liZnJLU3RxRnRHREEycjZ3d1owZWFEY0VONzZLT05lWU9RRQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcHY4WjBlOFBRZnVxZGRISlgyNXhfeWNGRU5jN0V0UmJma3ZXNjh2alllRXNveEt3WnBmQ3RkdEI0bFBSWXFIdkhFVzdZTHJRTm50UzNZWGtwZGtteTVCd0pNMzNKS0pZWWx2aFpldkszejk4MlM4bzB1WEJ2UXVYTTB1dS1oTjZxYzg3SjcwRGROLW12MXNYZVJHeTRnSnRybnNYTUEyQXdkcVBnb2h3REhaaWJRZ2dXa3hZVXpWa3hoakw0Sk0xeTh2MU5BMWM4Y0VYRnpQXzlPYTJ2OWtENlRNS2p3OEkyOHdRVncxbGNic2lQQ0JuYWdtUW3SAYICQVVfeXFMTkYwTlY2aEVLenNBN0ZqUEhMbTJJWHZjVHYzOFlBY1JnX0tIMUxIZ1dFcVNRWDZENzBzS1lMcE5mOWZ5UDBhTnFiOVg2QkFGRXNQZEVDZTlrUDl0MzVYMTdvSnc2djlkbXRteDhqVk1KVlBvcmNyLTNpWGNPODlIZ0dVZndmLTllbjdNM0hYT3N3c0NsN1hOUXdST2dKQXhQSUpYaG8tb3BySDYxUUtwWmNvNDVTdzBNcGprMjY4dlVhZkNDZzZyaDg5OXgxSDJxM3lieU9VZldYY3JIRDE3VHNybjJWS2tlSHB2enZtZThISGVJMHBJVzhJUzVCcF9nLWtn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Kachchh lok sabha election results 2024: Kachchh Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDMybVN3TjhWV09vUWhhcWh1WTQwbmNNQ3UtaVVHVHJuU1dvRHJRT0J3cWFPRGpiNi0xMU9DV1pNVTdySDZmeWFYS0VRcW5nbS1PaGNMQmhYVnQ0WG1HT3Q0QldnX3VUSEpVOGo1ZC12YmJERWdVbFhPcDJvaS1oV05sell0WHk3WGduS05CNA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Gujarat Lok Sabha Elections 2024: Voting date, results, candidates, main parties and schedule - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSFJfV3o3SjJiNUJyM2l0blJwYmNkQUNzUFdZTGtrUVdtSEptbGh1bEtNWm9TOFZ0MVFWbWJUUHNCSkpqVm41MnR1Y2xPNTRiaFNDVG9UbFhaSk0xdVR3NkxOSXFYdXJXUW5sNy01R3ltWlZub0FXc1IzZzExWnlSS2ltMEh6bVBjRGt4aXBaMUpTZS1yWXlMalZqVHhacGZVajJLX3F1QU1yRFF5ZW1nQWE5OW1MMlpCWm9fSmxsZlpEb2tmODRrejFtMHhiSE5Ed2xpdWZlMDNEYmFIZ01jUzY0ZFhyYlVaY3FvMVI0WG9GVU1JNUlaOUVfeDkycjJJQXFHQUJ5dGnSAY4CQVVfeXFMUGI5ZjMySmVCeExjc1dNaUM4WmxRR3poVkVRVVVMMlRaODl6eUYzSUdDZ1ladVF3WEhKUG16LUViQXRDMDlHY2ppT0ZZeXlsYXZzOENBSmpvRnNHVXI2b09fa3lCdDhJOVMyVVlOYUNQODVNQklIeERfeEJRalBLVlVoSVQyNUVRalFEM21CZFVCV1pyU1BnXzRJQnVFTWwxSjJqbm5KdklBSWR1MFdiT19odjl5OXNYRVBqTE5ub2xDRFRQemtYOTg5SEw4Zk9tMzVfVWF3Ti1pQnVPOTRCbjNfUTRjMlNxWWlDanJFVU9BQXo0MEFqNVZMS19ZN1dfSU5tVFBBNDV2YlZQN2F3?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (9 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 42,
+    "starred_questions": 12,
+    "unstarred_questions": 30,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 81.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

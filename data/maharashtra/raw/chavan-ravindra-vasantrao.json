@@ -4,105 +4,117 @@
     "constituency": "Nanded",
     "state": "maharashtra",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 1782,
+    "myneta_candidate_id": null,
     "slug": "chavan-ravindra-vasantrao",
     "house": "lok_sabha",
     "sansad_member_id": 5835,
     "profile_url": null,
     "canonical_name": "Chavan Ravindra Vasantrao",
     "name_aliases": [],
-    "education": "12th Pass",
-    "profession": "Agriculture",
-    "age": 69,
+    "education": null,
+    "profession": null,
+    "age": null,
     "photo_url": "/mp-photos/5835.jpg"
   },
   "criminal_record": {
-    "total_cases": 2,
-    "serious_cases": 0,
+    "total_cases": 1,
+    "serious_cases": 1,
     "convictions": 0,
-    "pending_cases": 2,
+    "pending_cases": 1,
     "disposed_cases": 0,
     "cases": [
       {
-        "description": "Details and present status of appeal",
-        "ipc_sections": [],
-        "is_serious": false,
+        "description": "0043/2019 Naigaon Police Station Date 06-04-2019",
+        "ipc_sections": [
+          "420",
+          "467",
+          "468",
+          "471"
+        ],
+        "is_serious": true,
         "is_convicted": false,
-        "status": "unknown",
-        "court": ""
-      },
-      {
-        "description": "",
-        "ipc_sections": [],
-        "is_serious": false,
-        "is_convicted": false,
-        "status": "unknown",
-        "court": ""
+        "status": "pending",
+        "court": "JMFC Naigaon",
+        "fir_no": "0043/2019 Naigaon Police Station Date 06-04-2019",
+        "case_no": "RCC No 39/2020",
+        "other_acts": "",
+        "charges_framed": "Yes",
+        "date_charges_framed": "17 Aug 2023",
+        "appeal_filed": "Yes",
+        "appeal_status": "1. Criminal Writ Petition No. 530/2018 Was Filed By Raghunath Sonkamble Before Hon. Bombay High Court Bench Aurangabad For Giving Direction To State To Register The Crime Against Deponent Which Is Allowed On 26-03-2019. 2. Special Leave To Appeal (Cri) No. 3328/2019 Was Filed By Deponent Before Hon. Supreme Court Of India Which Is Dismissed On 26-07-2019. 3. Criminal Revision No 24/2022 Was Filed By Deponent Before Addi. Session Court At Biloli Against The Order Of Rejection Of Prayer Of Discharge Which Is Rejected On 20-06-2023",
+        "punishment": "",
+        "date_convicted": ""
       }
     ],
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1782",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-05-23T18:17:14.405645Z",
+        "fetched_at": "2026-09-02T15:35:13.982414Z",
         "notes": "MyNeta candidate affidavit data"
       }
     ]
   },
   "assets": {
-    "movable_assets": 16635180.0,
-    "immovable_assets": 20150000.0,
-    "total_assets": 36785180.0,
-    "liabilities": 1423663.0,
-    "net_worth": 35361517.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1782",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-05-23T18:17:14.414347Z",
-        "notes": "MyNeta candidate affidavit data"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 30.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 1.71,
-    "expended": 1.24,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:30:02.968643Z",
-        "notes": "Official eSAKSHI REST API — Works: 120 recommended, 21 sanctioned, 2 completed"
+        "fetched_at": "2026-09-02T15:32:42.664951Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:28:54.054412Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:28:54.051255Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 120,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 8.435374149659864
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -117,7 +129,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:37:52.817955Z",
+        "fetched_at": "2026-09-02T15:28:54.050105Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -125,22 +137,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Congress fields Ravindra Chavan for Nanded bypoll - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0VobDBwYmxRbnlZMnJEYVhkTnJoZEdGMF91dHdJYmJVdEJfSE0yVk0wMWtvQUpGSXhoMDVlV2tfajhQOF85MnFPWF8wWjFqaWpwYUdVaXRGU3N0eDR2QmVNc0g1T3pCUEplczA3Uk1RYktyT1g2bHpKYVljY2VlS0JaLVE4X2dhQXhyOWhWbHdLajRHSmcwNmU0dzRvdnlwSGkyYdIBqwFBVV95cUxPNE1nanE5Q0tGT29WTU84UDA3RjhLSGx0aGVXRjM4ZDlocE9GUklQaWI3bnE5UlZrYXBQbzlwUEVjZ19HTlkyVHh0bmZNY3J4UTdwemRjb0FDUGJTZXZQSV9jMTh4VmVVWHFWdW1jY1FjOXZHRTQ0QVNzVkZ0cmZEVER3N3V0X25yU2tSTWVhaWRLQ3pJcnRuMkZoLS1scGVEb2I2cGI4ZFdVZG8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress' Priyanka Gandhi, Ravindra Chavan to take oath as MP in Lok Sabha tomorrow - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONklpb1lOd1NaN2R1MEl3SWtFX2lINmRibVdNV20xRThuYjhpdUZyc0hnYlBoMVQ0RHo0eXo4RjV1RWgzSkdKaV9JNnFtZmFOT1lYVmZVZHlfY25FM0JMZnh5SER3aV9FQWlNS0V0bkgwaWdLMm44UXM5NnBLeGxDcUhsUFM5QXRBdlpjRklKU3p6b09GSlR6R01xcVRlNFdGbU9HVkpqU2dibHRwSFdPRzBadDhvSjhoWVNmVDNrZzJWU3dWZFpqN294TWtEV1dOUTVfS01ZSnIyclZ3V2c?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Maharashtra bypoll: Congress nominates Ravindra Chavan from Nanded Lok Sabha seat - Mid-Day",
+      "source": "Mid-Day",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYy1VRUFnVjNNckZzaHpuU2NyZVFBX2FrVGc2QUlIZFBhWU1oanp5WVV1c2JJbzN0QktKZlB3VFRULWhWcEt2dUpRWDRLc3AwNWRYUGFXSV9QcU55Skg4b3JpV2ZpYy1VRmVYQWdKdVM5Z1doYnBDYTVEV0pHc3laV0RTcHVBS2hQQnRFcUxHdkdHVjhZeFhGem1ROERzbHhkcDBrdXZTempxSzlmajRHemtUWHhZd3ZkNWFCcU51V0JjemVzdjhUNm5ZaUNwcHhyWFNSTW85TUItaHcxQjJxX21fcXRhcVloNjUxSWtsaklST1Vu0gH6AUFVX3lxTE81WktsYVBFQmlSQW1ET1ZOWHI0Z1VjMHZscjNVYWlWb3RPQ1E3dkxSRThQSUtVMVM5R1d5eTBVc3p6ZUctT29rSjFSQU5FTmxURzN3UzhnVHNldmoxSl9KekdfNXZhcXUxVXZBczJOZnJqSUFaMGxXeGlEejcyYUhMRENTaERXdF9iOWd5SjlCQTFHRXRnTUpYS2NwY2paWGRYRWoyaF8zem51Z0lhRHYzeGhXU2xpVy04SHFtTkI2YzBrejdnb3JXVGxzY1pPT2ZVa0dISUV5RU9tR29ZTVJvTUkwakVFRW1HeWxfaEhjSGpJTkkzaFBlZXc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress fields Vasantrao Chavan's son for Nanded parliamentary seat bypoll - economictimes.com",
+      "source": "economictimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNkJrUjhHRkZFZ3g5aHNGQ0trNGRhMWFLRHVEWEhVVTZOUVhhb1BVaVpHYXFrV2ZPVF8xazBaOGZ5eGdDM3FwOFdvNHR0NTFoU3RmeTB5Vkhza2ZmMmFKV0kyc2lTR0RZemxvMnZaRC1mYVVmN0VmNGRjcldaZmc2cHo1RmNIRFZadXFxaWxzN3hUWi1xNkN5TnI0Zk1KTnZGV2YxdjVzTHRrd3pOVnBFVUtHQWJ2cEZXN0Z1djlxWUxvbFpwcDhrSDFJYUlZaDZkS1ZDcV9NTS0xeVc3U2cyNm96eEhYYmV0RzU4U1BLekt0MGREbmVYU9IB_gFBVV95cUxOUnAzWkZsQjl1OHQwVkVkbE5xWExWaTVmNTFnamFVREk4TWRKQm9CaDhRakR4XzZ4MVpmUnJUOThtM204V3Uwdkx6dWpRQ3loRXVqM1RpMmhHZHhOdkl2djYyNGVUOEExdmNJRWNLRy1jWlVSbkY5cW9wcjN4Y1hiSDVGV3ZadHhYVW9RMmJUdnBVWG1wQnd2OFBWWDFncHBLWXBibnJTVjIyNEJVcWpBbGIxMUpQZE1lWEVrLWI3dk5pbmNOX2VQZEl3YXY3cmFQWFk4bV9kTVZWaUh3Zi1mVE50Y0w2ZmpTejBkMUs0VEhMVGpobE9oY3RINTB1UQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nanded by-poll election result 2024: Congress's Ravindra Chavan wins against BJP's Santukrao Hambarde - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVjROd21kLVdyNmk5WTZCMVVTNk1fcjlYeHEwQTB5NWFaSDF2TVZTbG94VEVONEJCd295WjhHbHhJa3NsUkdWU3ZiTUxKSW5Bc0lWaTVJcEhLd05KTlpfX3Y1VE1oVVBxQ1daaDJEa0xKV2IwOWFrOGQ4WG9rVXJ2QWRfR2RrY2dPcklOZXJvMzdCZkdseUtma2lDcUR0OXRHUGs4Z0l0WUJIVWxodk15MW1GSmdiOWltZERZN3F5aV8xTVQyaE92d2VnYUdBN2k2aTlPc0M5TU5xQdIB3wFBVV95cUxQSURaRFpVUTEyVGwwOW5hTDhtMHp6R1dUQVNhZXZUbXplZXk3d3lDWHhXVlVBeWIxLXdncVY0cHN3NEVBY3VtS1ZIeUo1Zzh4WFBoWWEtMjlqWW8xMXVSaTZYZmkydmhRZWhVQ253czNUUjhDOWRoM3kxMWVrNk5rYVdYRkY5Q1Bia2hlMS0zVTlxQnRMQ1AtM2IyRW1tdGNrMUhMUmZWLTFwSWhwZVZFUkdZc050U2Q1clVkZ2ZRY3l6RWltWDY4aUF6Sk9FQ05sYUs1RzBaM2g3WGp1MVdR?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads",
-    "myneta"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:38:11.297248Z",
+  "collected_at": "2026-09-02T15:32:42.666151Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A",
-    "assets": "B",
-    "criminal": "B"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -155,7 +206,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.357360Z",
+        "fetched_at": "2026-09-02T18:38:07.885662Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -171,7 +222,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.357369Z",
+        "fetched_at": "2026-09-02T18:38:07.885675Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -187,7 +238,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.357374Z",
+        "fetched_at": "2026-09-02T18:38:07.885681Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -203,7 +254,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.357378Z",
+        "fetched_at": "2026-09-02T18:38:07.885686Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -219,7 +270,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.357385Z",
+        "fetched_at": "2026-09-02T18:38:07.885693Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -235,7 +286,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.357389Z",
+        "fetched_at": "2026-09-02T18:38:07.885697Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -251,7 +302,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.357393Z",
+        "fetched_at": "2026-09-02T18:38:07.885710Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -276,11 +327,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/p/Ravindra-Vasantrao-Chavan-100071165557956/",
+        "url": "https://facebook.com/https://www.facebook.com/p/Ravindra-Vasantrao-Chavan-100071165557956/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/ravindra.chavan099/",
+        "url": "https://instagram.com/https://www.instagram.com/ravindra.chavan099/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:28:56.995265Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -288,14 +364,6 @@
     "negative": 0,
     "neutral": 10,
     "top_headlines": [
-      {
-        "headline": "Congress retains Nanded Lok Sabha seat in bypoll, Ravindra Vasantrao Chavan wins close contest - India TV News",
-        "source": "India TV News",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQazM2NlAxY2l2a2lPZS1neWJGSzJiQjduNGJXZ2NQLTRwaXhzTUZBMFpEWndmRHdNNlJzOXFGZnFyWFJ1Qi1McUhGWFhXamZUZHc1VkJrUXlEam9zSWtPQkVpS0xYZnJEb01pOWlRY01OWnJJWnE3S3dybGVMV3BwU3IzcDFUV0xnbnJJTGtYM0VBVUQtYmFqZm0tNnI4QkR0b3BCSWFJRk0yTGt0MFZvOXgyTHJNbVAyRFo2eERDWjI3QUZTTFVVV3V5cTZ1MGs2c0UtN0MzdUJ2N3poaTdUWW45Mi1iYmUwWGJLVHJRMDBCeVVkbkVEdnhzZVBLMkhocHBpeFdYODJVaWs5NDl0TFhNdkpVcW82ak1fM2ZybG5vX2tvdUd3Wm530gGvAkFVX3lxTE43VHJPVGJ3WTF1djBWOGlQdTQ5TkJiRHR0MzdDMXVPcG5ZSjU1ZEtfWDQzSmhxNFBJdW9qTkhyRzRUM2RZT1RtUmpLM0VFOHV2QUlLWG1fOXZNMTFEazkwbW9RQ0U2N0NSTzNIMlJWeEhXbnRaY0hhSTd5SUE1a2RQaExwMWpZR0RjenMxbndBTi1sUnRqWHZJSUUxNUJoUWlUNzBMNlZON1gtU0lHZnRFR1haTlExcUkzQTUzZzBocmduR0VXUXN1LTl1dlFYUDdFTmRiS3gtc3NDdWY5eFQ5N3VuaHpEQ0hoV1dkc3pvX25iYXRRWlBGMEsyYV9QX0pRak1sUTlRNWxoQktEaXV6OGJiSlp6dlhFY3dKazhVTWxqSUJxemRxZ2F4MEU1QQ?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Congress fields Ravindra Chavan for Nanded bypoll - The Indian Express",
         "source": "The Indian Express",
@@ -305,27 +373,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "New Delhi: Congress leader Chavan Ravindra Vasantrao takes oath as the Lok Sabha MP from Maharashtra’s Nanded #Gallery - Social News XYZ",
-        "source": "Social News XYZ",
+        "headline": "Congress' Priyanka Gandhi, Ravindra Chavan to take oath as MP in Lok Sabha tomorrow - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY3k0TnVpQ3pHOERscnFqWW4wSVNMMDRwM1NmelduVjNlZ1FydVlCcWctZ3ZSb2g0MzlnV1NsT0NoT1oxZFlYSlVnbDgtZEhwOVpOS0tSZ2NrWDZWUFFGZmZSc1NXZzVISmRQbWF1X2FkUVF4YkN2b2FnTWw2cHlkcTVlUUNiRmR0aWljaUl3T3oxSzVsTERkN195YmpQMHF4VHFIUEhJNGNFd21uMTQxeUlOb0pER0tuMmdqTGdsMG5tdjZqYk1qc0lFcUQ4YXpmNWVqYlpsY1dJVDZ4R1hNcDJuc1QtVGVMcFHSAeoBQVVfeXFMTWN5NE51aUN6RzhEbHJxalluMElTTDA0cDNTZnpXblYzZWdRcnVZQnFnLWd2Um9oNDM5Z1dTbE9DaE9aMWRZWEpVZ2w4LWRIcDlaTktLUmdja1g2VlBRRmZmUnNTV2c1SEpkUG1hdV9hZFFReGJDdm9hZ01sNnB5ZHE1ZVFDYkZkdGlpY2lJd096MUs1bExEZDdfeWJqUDBxeFRxSFBISTRjRXdtbjE0MXlJTm9KREdLbjJnakxnbDBubXY2amJNanNJRXFEOGF6ZjVlamJabGNXSVQ2eEdYTXAybnNULVRlTHBR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONklpb1lOd1NaN2R1MEl3SWtFX2lINmRibVdNV20xRThuYjhpdUZyc0hnYlBoMVQ0RHo0eXo4RjV1RWgzSkdKaV9JNnFtZmFOT1lYVmZVZHlfY25FM0JMZnh5SER3aV9FQWlNS0V0bkgwaWdLMm44UXM5NnBLeGxDcUhsUFM5QXRBdlpjRklKU3p6b09GSlR6R01xcVRlNFdGbU9HVkpqU2dibHRwSFdPRzBadDhvSjhoWVNmVDNrZzJWU3dWZFpqN294TWtEV1dOUTVfS01ZSnIyclZ3V2c?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Maharashtra bypoll: Congress nominates Ravindra Chavan from Nanded Lok Sabha seat - Mid-day",
-        "source": "Mid-day",
+        "headline": "Maharashtra bypoll: Congress nominates Ravindra Chavan from Nanded Lok Sabha seat - Mid-Day",
+        "source": "Mid-Day",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYy1VRUFnVjNNckZzaHpuU2NyZVFBX2FrVGc2QUlIZFBhWU1oanp5WVV1c2JJbzN0QktKZlB3VFRULWhWcEt2dUpRWDRLc3AwNWRYUGFXSV9QcU55Skg4b3JpV2ZpYy1VRmVYQWdKdVM5Z1doYnBDYTVEV0pHc3laV0RTcHVBS2hQQnRFcUxHdkdHVjhZeFhGem1ROERzbHhkcDBrdXZTempxSzlmajRHemtUWHhZd3ZkNWFCcU51V0JjemVzdjhUNm5ZaUNwcHhyWFNSTW85TUItaHcxQjJxX21fcXRhcVloNjUxSWtsaklST1Vu0gH6AUFVX3lxTE81WktsYVBFQmlSQW1ET1ZOWHI0Z1VjMHZscjNVYWlWb3RPQ1E3dkxSRThQSUtVMVM5R1d5eTBVc3p6ZUctT29rSjFSQU5FTmxURzN3UzhnVHNldmoxSl9KekdfNXZhcXUxVXZBczJOZnJqSUFaMGxXeGlEejcyYUhMRENTaERXdF9iOWd5SjlCQTFHRXRnTUpYS2NwY2paWGRYRWoyaF8zem51Z0lhRHYzeGhXU2xpVy04SHFtTkI2YzBrejdnb3JXVGxzY1pPT2ZVa0dISUV5RU9tR29ZTVJvTUkwakVFRW1HeWxfaEhjSGpJTkkzaFBlZXc?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Congress' Priyanka Gandhi, Ravindra Chavan to take oath as MP in Lok Sabha tomorrow - ANI News",
-        "source": "ANI News",
+        "headline": "Congress fields Vasantrao Chavan's son for Nanded parliamentary seat bypoll - economictimes.com",
+        "source": "economictimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONklpb1lOd1NaN2R1MEl3SWtFX2lINmRibVdNV20xRThuYjhpdUZyc0hnYlBoMVQ0RHo0eXo4RjV1RWgzSkdKaV9JNnFtZmFOT1lYVmZVZHlfY25FM0JMZnh5SER3aV9FQWlNS0V0bkgwaWdLMm44UXM5NnBLeGxDcUhsUFM5QXRBdlpjRklKU3p6b09GSlR6R01xcVRlNFdGbU9HVkpqU2dibHRwSFdPRzBadDhvSjhoWVNmVDNrZzJWU3dWZFpqN294TWtEV1dOUTVfS01ZSnIyclZ3V2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNkJrUjhHRkZFZ3g5aHNGQ0trNGRhMWFLRHVEWEhVVTZOUVhhb1BVaVpHYXFrV2ZPVF8xazBaOGZ5eGdDM3FwOFdvNHR0NTFoU3RmeTB5Vkhza2ZmMmFKV0kyc2lTR0RZemxvMnZaRC1mYVVmN0VmNGRjcldaZmc2cHo1RmNIRFZadXFxaWxzN3hUWi1xNkN5TnI0Zk1KTnZGV2YxdjVzTHRrd3pOVnBFVUtHQWJ2cEZXN0Z1djlxWUxvbFpwcDhrSDFJYUlZaDZkS1ZDcV9NTS0xeVc3U2cyNm96eEhYYmV0RzU4U1BLekt0MGREbmVYU9IB_gFBVV95cUxOUnAzWkZsQjl1OHQwVkVkbE5xWExWaTVmNTFnamFVREk4TWRKQm9CaDhRakR4XzZ4MVpmUnJUOThtM204V3Uwdkx6dWpRQ3loRXVqM1RpMmhHZHhOdkl2djYyNGVUOEExdmNJRWNLRy1jWlVSbkY5cW9wcjN4Y1hiSDVGV3ZadHhYVW9RMmJUdnBVWG1wQnd2OFBWWDFncHBLWXBibnJTVjIyNEJVcWpBbGIxMUpQZE1lWEVrLWI3dk5pbmNOX2VQZEl3YXY3cmFQWFk4bV9kTVZWaUh3Zi1mVE50Y0w2ZmpTejBkMUs0VEhMVGpobE9oY3RINTB1UQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Nanded by-poll election result 2024: Congress's Ravindra Chavan wins against BJP's Santukrao Hambarde - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVjROd21kLVdyNmk5WTZCMVVTNk1fcjlYeHEwQTB5NWFaSDF2TVZTbG94VEVONEJCd295WjhHbHhJa3NsUkdWU3ZiTUxKSW5Bc0lWaTVJcEhLd05KTlpfX3Y1VE1oVVBxQ1daaDJEa0xKV2IwOWFrOGQ4WG9rVXJ2QWRfR2RrY2dPcklOZXJvMzdCZkdseUtma2lDcUR0OXRHUGs4Z0l0WUJIVWxodk15MW1GSmdiOWltZERZN3F5aV8xTVQyaE92d2VnYUdBN2k2aTlPc0M5TU5xQdIB3wFBVV95cUxQSURaRFpVUTEyVGwwOW5hTDhtMHp6R1dUQVNhZXZUbXplZXk3d3lDWHhXVlVBeWIxLXdncVY0cHN3NEVBY3VtS1ZIeUo1Zzh4WFBoWWEtMjlqWW8xMXVSaTZYZmkydmhRZWhVQ253czNUUjhDOWRoM3kxMWVrNk5rYVdYRkY5Q1Bia2hlMS0zVTlxQnRMQ1AtM2IyRW1tdGNrMUhMUmZWLTFwSWhwZVZFUkdZc050U2Q1clVkZ2ZRY3l6RWltWDY4aUF6Sk9FQ05sYUs1RzBaM2g3WGp1MVdR?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -375,17 +451,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -24,60 +24,82 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:31.267909Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 18226115.0,
+    "immovable_assets": 537100000.0,
     "total_assets": 555326115.0,
     "liabilities": 4400000.0,
     "net_worth": 550926115.0,
-    "previous_total_assets": null,
+    "previous_total_assets": 5.1474147151e+17,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=340",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.522728Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:32:53.150460Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 86.2,
-    "growth_ratio": null
+    "wealth_percentile": 81.3,
+    "growth_ratio": -0.9999999989211552
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.92,
-    "expended": 7.76,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:31:33.652576Z",
-        "notes": "Official eSAKSHI REST API — Works: 33 recommended, 31 sanctioned, 13 completed"
+        "fetched_at": "2026-09-02T14:36:32.277626Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:32:51.773988Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:32:54.276603Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 33,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 52.7891156462585
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 55.0,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:07.362053Z",
+        "fetched_at": "2026-09-02T14:32:52.822521Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Manipur Naga body prescribes social boycott of Congress MP-elect, 2 others - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdW5VajNjckdXa2xPMkVkOTFiRHdoNDNGQ25sOTF6cGdzM01Ydkdrang2ak56OWwwZGxSc1lkbjVxZngxd2xvbVVOaHVEQkE1SkstVEJ4U0pZYlVJWHdPemhrOVZHNWl2endaYnZYd29XN2NYR3dtTkNMMDJZU01kRmZVaGttN1NUOUZmV2N2TGt6VnhZTXpfUmxGaE05Qm1JUjhUbzBkeGJCZ0pkUVZ0dk1Ka2ZQMzBxS2pIM0ZfTVZCZ9IByAFBVV95cUxPS3BVTENMUXFDMFZCb2laR0V0SU8wX0pHd25yWEF6QTlacnk0Q0VDZkZ6Sk1sM29LbkZma1UyWWtYSGdRQkxhYTBaN3l5OF95dUxJQ2FrdVhVcElCcTdlR3pyNmNPcVlSVnN4M3ZHTGFPaUVPeXNnRU9ST0JlYUVxQ3lFajBqbWtXZXN4OFFDVjVndHFtLTBpRkZaeTF5UUpZVzVuU25tTk9LelN2b3YtLUhfOEkzQ3ZEazNEajhnTzQ3SkNJYVlNVw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Congress's Manipur MP on bringing peace in state: 'It becomes my duty' - India Today",
+      "source": "India Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZElPMkJ1dTNSelQ0U3lvbkpGUlU5VzU5eklvSEwzQU1JaEFjYlcyNkI2cU9SSWRFTTRHbkJhZU96dExZdl8zY2xvTE9VOFVKenFCcXJfTnRKd0VSUHBjMWJVdUE3NkpELWNWX05XM0dIdWlJWjJGUlpKUDVNU18xTzNiX19fVFR3eURzeFE0SkpKQVpzQ2k2OW5uRzY5QUZPUUxCaXVNZHBHN0lCd0RacTBUeHc5VFV3Y3ozN3hVOWJObWpSckFjR2p0QVh6WDBzY0tF0gHYAUFVX3lxTE8ycElHSnR1X3p5MVJabUFGRGZsall1ZnlCOEVIdlRZN1YzeXdDSmo3UDh3YlVvOUgxUDliWU9BTWJVekwtYTcyQzBGSWpiek5ZQ3Q2YU91Z3VYRnZsZXcyeXJYYXI2R2dneUl3MWhkR0NpeFZ6N0FKVmVYNTlDTzhrVUxtb1phX0hBbHVLUU12REZYN0R3UmkweFhCWWppVGJ0RHN3V2toaXRqcTM3V25rUFQyLW9ON3Z2R3lRcTFvS3V4MHlpVmpKS252dlM5cHI0cTQxMHlwTA?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Outer Manipur (ST) Lok Sabha election results 2024: INC's Alfred Kanngam S. Arthur beats Kachui Timothy Z - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQSTRnSl9HWk13YjlVR0NYQ1hMWEdqbnlzRjM3TWF5cHozb0pQeW5OYmw1RENHUGUwMzhUZ2VBbzZCSEExeXJySmV1dUZja1IyOXRsaTBTQjRZdXVnd0JyLU1Zc0x5bVAyTE94R2ZET1h5RUdLWHNSZFNuTGRmRjVwazN4TkpMeFdMcjVnWmNhbk5UNHk4enVTNE44dVV6UGdvLTdKZ0hRc0tuZ3JKY3V4R29mcDNENmZ5b1BsZUFtVnRpTDBzc1hWQkp1YVF0Mm13WGxjWjB2b2V5dnBzR2tpVzFHUGI4Nk0wbzBialZGamJQZFVZZFhXUlBER2M0NTVEbGZBNE9LTVpKNjhfbGNZNGdZTXVtNzlvUWRzaG1RYkNJOUZYdjROVGtEX3BHSHh0bk9Ldmd6MVlsajNTMU96dFVkaXJXb2daMWk2N2RvNDbSAdYCQVVfeXFMTl9FZnFnQ1ExZFJCWTU1NWZiSDFWMThhUzVmcGlKdU1YMFd3cEd0R2lkVDdKeUtkSHNQZ1Rremp0N3o4RXphQXFZa1ZLc2l3SHVORWx4ME9sWVhaQ1N6TW5kTnJIWkNlQzQzSFdldFZlVnFWWlZSdHBLd2dvQ1Aza0NXN0xvTGRpVzdsR1hmMEo5cDdBOXlxc2RHZFl5eHRKc2tjYWNGeUNOSEY4NFJmVEdFUmdBMmhEZm9TdWVqOS1RUlRjbXk3d1E1cUl2dFRLM3ZVV2Z5UzZ1UjhXY1ZfaWNQZmV5Q0hfWDNzSGVTUm9mVjhWdUl6MlF6WXRVb3M3c2R3OWktbkxmTGlNcElDSUpldjV2UUY1SDJDSlFHVllwOFJvU0J0R2pCVWxxQm1XNEJtUnlHWVoxMUZjYi13YUVFQU9TVkhnZGUtM0s2OTB6aU41blVn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Manipur's Outer MP Alfred Kanngam S. Arthur Chairs District-Level DISHA Meeting in Kangpokpi - The Hills Journal",
+      "source": "The Hills Journal",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEl2ekNYbmgycC1qR1NJaGhVR0luZmQ4S3N2MnBPQ0tVRGJBeWpVYnlTdDhFWHh2eTJOdWItU05TYWlHRGNaeUV1R3g5bTgwRXVPTTAzcFNvT2I2dnhrNTdVdGhSUDJlWGVwcUJ1MmpNSjg5YVdXeEdJQUc3QkVsaTJxYWZzU1B0aE1tQjhXYlBzdVBnY3E1M0R4cXBMSG1ncFdRcGZhNDNtLV8yMVZXbzVNTWlhLUdEeHdGLW03bzI?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Alfred Arthur criticizes Prime Minister and Union Budget in Parliament - Imphal Times",
+      "source": "Imphal Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQURZZGxBdlNoUzMwT0Z1bk5NZUZWYzVyVmtoakhKNmhELXZZT05mWlN4RHB5NDN5R0JrSzdFaEJKZ1V5LVJKSG4waDE1MWtoQVFiN3lYRmJwSVdpYkpzcldMME02UHo3a1BfU25OWUdfZVh5VVVuZFFSYlZHU201X0ZKVUVVSk9qQTJrUmtqME85bnJ4RWtlazBUREFaR0o3WGZFMXdxQlZ3YTjSAbABQVVfeXFMTko0MXJWU1NVUFFkR003bXp6dloxaUdTSHFUa3lHaTh6eGVieEVBYmgwMm10cU1vUUctRnBEbFo0amVDemhhblNXQnVEZmMxMjFxbUR5bTdqdXdfSlhrUXdxLVdLRlNLUHd0Wm9BRlNEQ25lb1ZEUTNSYVB1Mmx6TGZ6RHpETjBSN3ZWRmZzQlVGQURWQ2ZLb1F4cllOZzdZanREbWZHVUdJU1VLOVFHbDg?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:58.307270Z",
+  "collected_at": "2026-09-02T14:37:03.290736Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.908007Z",
+        "fetched_at": "2026-09-02T18:38:08.440706Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.908016Z",
+        "fetched_at": "2026-09-02T18:38:08.440717Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.908022Z",
+        "fetched_at": "2026-09-02T18:38:08.440722Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.908026Z",
+        "fetched_at": "2026-09-02T18:38:08.440728Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.908032Z",
+        "fetched_at": "2026-09-02T18:38:08.440735Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.908037Z",
+        "fetched_at": "2026-09-02T18:38:08.440739Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.908042Z",
+        "fetched_at": "2026-09-02T18:38:08.440744Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,17 +315,58 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "share",
+        "url": "https://twitter.com/share",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "sharer",
+        "url": "https://www.facebook.com/sharer",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "adrspeaks",
+        "url": "https://www.instagram.com/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "youtube",
+        "handle": "adrspeaks",
+        "url": "https://www.youtube.com/user/adrspeaks",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 4,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:33:27.280978Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 1,
+    "positive": 0,
     "negative": 0,
-    "neutral": 9,
+    "neutral": 10,
     "top_headlines": [
       {
         "headline": "Manipur Naga body prescribes social boycott of Congress MP-elect, 2 others - The Hindu",
@@ -272,35 +377,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Replace CM N Biren Singh to restore peace in state: Manipur MP in Parliament - The Indian Express",
-        "source": "The Indian Express",
+        "headline": "Congress's Manipur MP on bringing peace in state: 'It becomes my duty' - India Today",
+        "source": "India Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2tQYlNuSThvTmlpRzB0SjV1ZHZPbHRFX1kxVHdkSGJIbWFHLWdJSmQ4MW1qcTNuN3U2azF5b0lQWHRJUk8tQUhRdlVrcXlvUjhrRXh4Y05GMjF1RjRMd3cyLTJ2blZsNExXWUlTV1FKenVaOUhxWnFUaTdkUWtmZl9wWlBxN2RELWRZdW1HMmh5X29yOGs1dEJadlRZVXVnQWFTZHpR0gGsAUFVX3lxTE01SEw3R3J0QzR1V3BjcmQ3LXN6Z29xYUlJMGlIdURySFpyNWlHbjdrN2pvYTZDOTVfZzIwRzYxeUV2NGhNb2ROVUw5WnlOVlNXaGlMSDBuOFNFc2c3bmtpM01xZlo0Rk9CNTVYX0ltV0szNGVHaFdEYVlpVEdBWHY4dDZKalZ5ZnNSenBHZTFWdEpjV3pmNXA4NFZLZEVKeGJxcmUzTDhzV0dUbTA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZElPMkJ1dTNSelQ0U3lvbkpGUlU5VzU5eklvSEwzQU1JaEFjYlcyNkI2cU9SSWRFTTRHbkJhZU96dExZdl8zY2xvTE9VOFVKenFCcXJfTnRKd0VSUHBjMWJVdUE3NkpELWNWX05XM0dIdWlJWjJGUlpKUDVNU18xTzNiX19fVFR3eURzeFE0SkpKQVpzQ2k2OW5uRzY5QUZPUUxCaXVNZHBHN0lCd0RacTBUeHc5VFV3Y3ozN3hVOWJObWpSckFjR2p0QVh6WDBzY0tF0gHYAUFVX3lxTE8ycElHSnR1X3p5MVJabUFGRGZsall1ZnlCOEVIdlRZN1YzeXdDSmo3UDh3YlVvOUgxUDliWU9BTWJVekwtYTcyQzBGSWpiek5ZQ3Q2YU91Z3VYRnZsZXcyeXJYYXI2R2dneUl3MWhkR0NpeFZ6N0FKVmVYNTlDTzhrVUxtb1phX0hBbHVLUU12REZYN0R3UmkweFhCWWppVGJ0RHN3V2toaXRqcTM3V25rUFQyLW9ON3Z2R3lRcTFvS3V4MHlpVmpKS252dlM5cHI0cTQxMHlwTA?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Outer Manipur (ST) Lok Sabha election results 2024: INC's Alfred Kanngam S. Arthur beats Kachui Timothy Z - The Times of India",
-        "source": "The Times of India",
+        "headline": "Outer Manipur (ST) Lok Sabha election results 2024: INC's Alfred Kanngam S. Arthur beats Kachui Timothy Z - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQSTRnSl9HWk13YjlVR0NYQ1hMWEdqbnlzRjM3TWF5cHozb0pQeW5OYmw1RENHUGUwMzhUZ2VBbzZCSEExeXJySmV1dUZja1IyOXRsaTBTQjRZdXVnd0JyLU1Zc0x5bVAyTE94R2ZET1h5RUdLWHNSZFNuTGRmRjVwazN4TkpMeFdMcjVnWmNhbk5UNHk4enVTNE44dVV6UGdvLTdKZ0hRc0tuZ3JKY3V4R29mcDNENmZ5b1BsZUFtVnRpTDBzc1hWQkp1YVF0Mm13WGxjWjB2b2V5dnBzR2tpVzFHUGI4Nk0wbzBialZGamJQZFVZZFhXUlBER2M0NTVEbGZBNE9LTVpKNjhfbGNZNGdZTXVtNzlvUWRzaG1RYkNJOUZYdjROVGtEX3BHSHh0bk9Ldmd6MVlsajNTMU96dFVkaXJXb2daMWk2N2RvNDbSAdYCQVVfeXFMTl9FZnFnQ1ExZFJCWTU1NWZiSDFWMThhUzVmcGlKdU1YMFd3cEd0R2lkVDdKeUtkSHNQZ1Rremp0N3o4RXphQXFZa1ZLc2l3SHVORWx4ME9sWVhaQ1N6TW5kTnJIWkNlQzQzSFdldFZlVnFWWlZSdHBLd2dvQ1Aza0NXN0xvTGRpVzdsR1hmMEo5cDdBOXlxc2RHZFl5eHRKc2tjYWNGeUNOSEY4NFJmVEdFUmdBMmhEZm9TdWVqOS1RUlRjbXk3d1E1cUl2dFRLM3ZVV2Z5UzZ1UjhXY1ZfaWNQZmV5Q0hfWDNzSGVTUm9mVjhWdUl6MlF6WXRVb3M3c2R3OWktbkxmTGlNcElDSUpldjV2UUY1SDJDSlFHVllwOFJvU0J0R2pCVWxxQm1XNEJtUnlHWVoxMUZjYi13YUVFQU9TVkhnZGUtM0s2OTB6aU41blVn?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Manipur MP Alfred Kanngam S Arthur Reviews Flagship Schemes In Kakching District - Northeast Today",
-        "source": "Northeast Today",
+        "headline": "Manipur's Outer MP Alfred Kanngam S. Arthur Chairs District-Level DISHA Meeting in Kangpokpi - The Hills Journal",
+        "source": "The Hills Journal",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGVlV2prdVRFMEhrRzB4WXBSRWpOR3hUeFV6R09FMDJ3LUE2QzFfVXEtMGdSYXIyRVh1d3VlQWItN3RZWkZpVWpBTnlQOEdxQ1Izb25UVWFVenBUVmVydm1lZmJ5ZnFXbFVwU2xISWFLRUxHeEF5S1JGdVlMSUw0RTM1MDdPSWJ5RFVSY0NMT0FxRDdjMzRwT0FkNE94Z0ZsM3FOakphYjJKdEhieHJ2MEwtMEt0QU9W?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEl2ekNYbmgycC1qR1NJaGhVR0luZmQ4S3N2MnBPQ0tVRGJBeWpVYnlTdDhFWHh2eTJOdWItU05TYWlHRGNaeUV1R3g5bTgwRXVPTTAzcFNvT2I2dnhrNTdVdGhSUDJlWGVwcUJ1MmpNSjg5YVdXeEdJQUc3QkVsaTJxYWZzU1B0aE1tQjhXYlBzdVBnY3E1M0R4cXBMSG1ncFdRcGZhNDNtLV8yMVZXbzVNTWlhLUdEeHdGLW03bzI?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Congress's Manipur MP on bringing peace in state: 'It becomes my duty' - India Today",
-        "source": "India Today",
+        "headline": "MP Alfred Arthur criticizes Prime Minister and Union Budget in Parliament - Imphal Times",
+        "source": "Imphal Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZElPMkJ1dTNSelQ0U3lvbkpGUlU5VzU5eklvSEwzQU1JaEFjYlcyNkI2cU9SSWRFTTRHbkJhZU96dExZdl8zY2xvTE9VOFVKenFCcXJfTnRKd0VSUHBjMWJVdUE3NkpELWNWX05XM0dIdWlJWjJGUlpKUDVNU18xTzNiX19fVFR3eURzeFE0SkpKQVpzQ2k2OW5uRzY5QUZPUUxCaXVNZHBHN0lCd0RacTBUeHc5VFV3Y3ozN3hVOWJObWpSckFjR2p0QVh6WDBzY0tF0gHYAUFVX3lxTE8ycElHSnR1X3p5MVJabUFGRGZsall1ZnlCOEVIdlRZN1YzeXdDSmo3UDh3YlVvOUgxUDliWU9BTWJVekwtYTcyQzBGSWpiek5ZQ3Q2YU91Z3VYRnZsZXcyeXJYYXI2R2dneUl3MWhkR0NpeFZ6N0FKVmVYNTlDTzhrVUxtb1phX0hBbHVLUU12REZYN0R3UmkweFhCWWppVGJ0RHN3V2toaXRqcTM3V25rUFQyLW9ON3Z2R3lRcTFvS3V4MHlpVmpKS252dlM5cHI0cTQxMHlwTA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQURZZGxBdlNoUzMwT0Z1bk5NZUZWYzVyVmtoakhKNmhELXZZT05mWlN4RHB5NDN5R0JrSzdFaEJKZ1V5LVJKSG4waDE1MWtoQVFiN3lYRmJwSVdpYkpzcldMME02UHo3a1BfU25OWUdfZVh5VVVuZFFSYlZHU201X0ZKVUVVSk9qQTJrUmtqME85bnJ4RWtlazBUREFaR0o3WGZFMXdxQlZ3YTjSAbABQVVfeXFMTko0MXJWU1NVUFFkR003bXp6dloxaUdTSHFUa3lHaTh6eGVieEVBYmgwMm10cU1vUUctRnBEbFo0amVDemhhblNXQnVEZmMxMjFxbUR5bTdqdXdfSlhrUXdxLVdLRlNLUHd0Wm9BRlNEQ25lb1ZEUTNSYVB1Mmx6TGZ6RHpETjBSN3ZWRmZzQlVGQURWQ2ZLb1F4cllOZzdZanREbWZHVUdJU1VLOVFHbDg?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,17 +455,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 55.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
-    "attended_key_debates": true,
+    "attended_key_debates": false,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Variable",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

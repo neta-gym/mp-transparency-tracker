@@ -4,16 +4,16 @@
     "constituency": "Kanpur",
     "state": "uttar pradesh",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 5080,
+    "myneta_candidate_id": null,
     "slug": "ramesh-awasthi",
     "house": "lok_sabha",
     "sansad_member_id": 5608,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 56,
+    "age": null,
     "photo_url": "/mp-photos/5608.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:10.005982Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 52936608.0,
-    "liabilities": 6148728.0,
-    "net_worth": 46787880.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5080",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:54.984987Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 41.0,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.72,
-    "expended": 5.11,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:15.922798Z",
-        "notes": "Official eSAKSHI REST API — Works: 93 recommended, 93 sanctioned, 47 completed"
+        "fetched_at": "2026-09-02T17:22:22.200901Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T17:18:41.563584Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T17:18:41.560784Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 93,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 34.761904761904766
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:04:05.185352Z",
+        "fetched_at": "2026-09-02T17:18:41.559698Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "MP performs bhoomi pujan for Jareeb chowki ROB project in Kanpur worth Rs320 crore - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR3ZuVDJobHZnNHBKYThVUTBJcXhhMHliZWpJSDhOa3dXUHpqby1sempTWGFKejJlcEphSmlCRWlrcVRjdHhPeGZCNmlLaHlfb1hBcHVDVHJHTXVYOGFFN1FCWno5ZWI2NHNmSmVVUTgyMW9CY2FTczkxdFVBb3FoWExvOGlFSkdfOUFkYi1jQno0WW1BZU9DUEpEa0hlZVYzdUloNFV6VDItLTAtYVZfeFhJaU5nWnlnam1BRS1Jb2p6cVlGYTFTa1RiVmFPMmhzWGZ4YUFuU3NxMjg3U05DWG1QY1d6cDNWenRLV9IB8gFBVV95cUxOcUxKbXpSVk1XWF95cERwcVBmRjhvbWpHbXhEUWZsblZZZ21vSDZacWZocjdaUFZxRko0YWRwM1dqUEwwUkNVYkU4ajVWcEtxTnZYdzlmNnFZelNudWZRUWwtdVpxZWdTSzV6azNpTmtiRTlkQlpXU1BYazdja1FLNnZGOVlJOFRpbFR3cmhha2pkNGk5LWlFbVpTa252ZVk3NGJVUWhPeUlMQThhcG91S3JvN3pEb2lUMGJ6SklwOG9GUE1BelVUdEp2Q1NlcWF1ZGJiZWE0bXFrMlZiSzdqLWQ1aElnUFkzaVRnVnZ6UmJxUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "IT raids Congress ex-MLA’s factories in Chhatarpur: Team from Indore-Gwalior in 30-vehicle conducts illegal... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPcElBMmdSNnRQX1MycF9DNS1fUkVmN3diU0N4ZWdlcnZwR1QyQnlwR01hZ1l0WlQxT3hQWE1lLTBEM1B5SDFHSDBKS1BvOHRBZ1RRVkFuUGlWRGRYR0EzX01TYUxWaldzYkF1dkJzaUNEbnMzNHR5c2tLcVgySS1xcUd5OWpTV05wNDFRLXRmT3F2ZFR5VTM0N191SC1hcmVMaTE0TUYzSTFhY1NRcHZJd0pQMmZrVFdYWk1sR3dFSFBOT3h5ejU0UzBMbks0OWdLdDM2RFp2MmhFOEdac2tkblVYWlNnaGZvZi1mSThnNGxIdjBOM2lVZzc0emlwaDBvU2NfenFlMkVhamc2UWdiTVd5R0RoeDNENFZDc0hpSmM1S0NqQmNnSzNBc0hEcVotQlHSAbcCQVVfeXFMTlg4dklUVmVRY3ZRemEzTkFDVmdVZ1NObTB5TW1YMXd0RnRmSjljYldLMnlHTHF6dE1yYklDajVkZlhIR2d5dENKelJaX0F5bTFZaGNfZmdIQjV3VGRUaHpkUlk1V3I1V0ZDNFZFVUxxYTZRQ095Z3pnUGdORlpNdWxudEE5dUVLdll1U3MwTmR3ZVkwRG1la1dUZUxzWlhDVE91MGM0MVM4aXhSM0hrT2tPVHJReENMQl9INXVUM2JOSjFsb0JnUFFsS0oyazZMMFROcnNjbnBiczd4SzRYR2lnZ0dqd3IxeWhMWEtfcmpoRVdDcVVFcHZyVDV3TWU1azVhU0lUNmV4eXVUZU1yc2VNektTZDJBeFNsdFJaZUhaVDVOZTJZT091QXdXYXZiaWZCZkVPX1U?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MP Ramesh Awasthi welcomed in Kanpur after Delhi polls - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUExXODV3LTE2d25zbURWQ3RyS2N2TWRMQ1NjSFRuRjdFSHRWbDdBcjVEQVRXT29VMmZLUUxBUTEya3VUQmdZOGlUenhGWFdVQ1JSV3Q3Y0VNUno1bW1vdGZlMUdfamlkMlRfaWphVThmaUdmTlc1RTFXZGFJSm43YUhPUnNWWjk3dkFfeEZDRE1iSXY1aUl2UE0xU2V1V0VRR00yclVremZfU3Jac1ZENkx3X0VZbzZHSXJLSFM2WkszeWpz0gHKAUFVX3lxTE9ZYlg1X3ExWWlhTFBfN0JBZTZhNmxEcmsxMGdRZ2dEMmlNTzVPZHdaSFdCR3RoSERnRFdIR2R0Zmsxd2o0NVF3TnJmZkRZYmNJNEtRMkVFZWNNZ1hMR3dxYWFSS3FKemhJRTBGRmxTeWdhZnF4LXdLMG9wV0w1OUc0LVAwdWgxRE9BUmZUVkl1SnBxZkpXT1psUUpqOTNMLVFyWW9iUGN1LWpJMUk1ZUJJTWRnMHRkNzhyamVoRVRhUkVMUjF6MkJHZXc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "'Operation Sindoor Cup' match between Army XI, Parliament XI to be played in Kanpur - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVnhkUFFkcE1DSXVTWi1QTlJ6OWIyWGFhOUhHOVEyeDVZMXJNXzZmQzFVNTgxMTRXNnBZNnE0TTdRSFBTQ2tMdEU1Yy03Z0lxVlpJeXlzRlktRlhKSGhxSUE1YUtaSzgtczdIdGE0TmhmMk12MW10NHZOVjA0NlEwb1BKcGdZNHhCZDFIeVYycGxoWE11el9UeFVYLVhVQXFRX1UtcWNqZnRGYi1LcHNRUVMtWHRjaGNtM1FYV1ZlUGJqdDVuZHR3dmhFbXlza3pZY2c?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Prime Minister Modi to meet family of Pahalgam terror attack victim in Kanpur Chakeri airport - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVlhPbl9LbnpRaUhUY3NMMGhYY1BjblFwT0c5VzM5dW1MdTZNRDlNM0hYZE5FM1pOZGtJeDVISEhJczVJdmpqUlplQTdnQmRTMzgwMU9JNkMwazR6ZEdwaVN6ckprRnZpLUdXU1pGdmRXaEdLQjg4eHp5eXI0VW84WV9VMWU5Y0VyX1Nmdl9BbzRMeDc4elFheWlRbU05R3R2andjQWtZY3VQNVdGbkQySkV6MnBjVTBKSm1US3NBTEl0MWR6WTJ2cWthdm13NU81RXNOLVI2cWtra1ha0gHqAUFVX3lxTFBBX25JTm5xY2htLWtJYUk3cmdiUkx4RHp0QkdNU0Vfa1JsUFllR19pUFVBRS1rd2NDMzFVRzBub3lkVEVYRm9MaDhtelFhcEJlNGdZbUdwZW85QzJRZEtUczduNy1scHh5ZXZCTU12SjU0Smc0NWNuZmRpTm5GRVFmWk0wbU1hOWh1bnNfeENqRmpJOHpGRjhoRENlRkVyaFRMaE5NWGlaa09yeHliSzFQaUNuQXFac3ZxdUFwN0QxZlN5dFR4dERtQ0tSc0Q0VjFha1ZuSEVpOENtb2FfZXREekNWU1JhSGc5QQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:04:23.614801Z",
+  "collected_at": "2026-09-02T17:22:22.202266Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.053343Z",
+        "fetched_at": "2026-09-02T18:38:11.653320Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.053350Z",
+        "fetched_at": "2026-09-02T18:38:11.653331Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.053355Z",
+        "fetched_at": "2026-09-02T18:38:11.653337Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.053359Z",
+        "fetched_at": "2026-09-02T18:38:11.653342Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.053363Z",
+        "fetched_at": "2026-09-02T18:38:11.653347Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.053368Z",
+        "fetched_at": "2026-09-02T18:38:11.653352Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.053372Z",
+        "fetched_at": "2026-09-02T18:38:11.653357Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.053375Z",
+        "fetched_at": "2026-09-02T18:38:11.653361Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,11 +320,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/irameshawasthi?t=H89W_zncWQUG-dsUCqFpXw&s=09",
+        "url": "https://x.com/https://x.com/irameshawasthi?t=H89W_zncWQUG-dsUCqFpXw&s=09",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/share/1Cq2oWRw4n/",
+        "url": "https://facebook.com/https://www.facebook.com/share/1Cq2oWRw4n/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/irameshawasthi?igsh=YmF5anh3YjJ0cjRl",
+        "url": "https://instagram.com/https://www.instagram.com/irameshawasthi?igsh=YmF5anh3YjJ0cjRl",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T17:18:45.217031Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -279,14 +365,6 @@
     "negative": 0,
     "neutral": 10,
     "top_headlines": [
-      {
-        "headline": "MP Ramesh Awasthi Receives Grand Welcome in Kanpur After Bengal Victory; Played Key Role in Bardhaman Region Success - Republic World",
-        "source": "Republic World",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY2s4NmtObE96cGFISXFYSEtXVS1aZWtiVmpURWxoemZvVGkxM0lDa3EwR1hmXzhwTzR2dllkSGhJd1VCSWRWX245OVo0aG5ONUY4QlM3OXcwYk9oaUNlMUFNMUZURkhCMFhWR2J3QnE0RmJvSVFrZkVjY2dReTlWczR4WUNVeE9oRm9DU0pDWHVwQU5WUzNFazFWNmE5d0I0SFk5eUpEVHhjaWRIM2pOQlg3UFJrbzQ3VGQ2QTB2WGRxTWhMLUlnSFpYdW9TMnplUTAzUl9aVFUtZ0JOM1hIMTh6R3FUZnlxYmRZTDd30gHzAUFVX3lxTE1VRWFxNHYzVGlsc3hYR01wODVOeXVOX2wwUDd1RmpueUxFN3V2X1h3QlB6VzRscHlzYzFjWVJYRDJuUDZ1RzFkaENPU0VGak43bFlBNmljNUVfLUUzQURRb3RJdTJYZnNPa2dhQXFFdjhNX3p2VGVrUzZVa0R5bHpXZWwwNVVwNDVOOHNpbUIxMTlfTndfeFp6QnhHcWJLZ1YtaUFkZ0ExazRwZ0lNbUwzWWd5UUhpeklQNVN6SklYSk5BUDAyc3NRN0I2dGtNVVNIbDZCcWJRbUR4Y3p1TGtWVVZFcWxkXzNjaG9tSUdqVHNoWQ?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "MP performs bhoomi pujan for Jareeb chowki ROB project in Kanpur worth Rs320 crore - The Times of India",
         "source": "The Times of India",
@@ -296,27 +374,35 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "PM Modi expected to meet kin of Pahalgam attack victim Shubham Dwivedi during Kanpur visit - MSN",
-        "source": "MSN",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPUWk2TXRKeDBLRWhvMzRCMUc0Z1Y5VGpieEJ4TC1welBYV2ZRSlJkOXRKbnJfZ0o2TVlPaVIwOUpQX3F6MmxwSjY5RXRmUnBQQkxiWGVvdGd1N2RZUEFaVXFZbjdLT0ZwZmVQWUJ6RXF0SnplQ1VWVVNpc2hJOW05YkNkYjd2clQzYXhTNnhFVG0tY0JobUZFektMdGJzMlg1TGIzWnhlX3NLTFVyM1hkeF84bnE4YVN2QlhRLXFuUlRhcGM5aDBWRGtQeVB5dDVOX1UzNEQ3TV95WFc3QUVaUjFaR0s2Wjl6LWt6QUVaaE9rbzh5MUxFdWVWdElwRmg2QUN6QTUyOWhuN1FDNE4tNDgxeUJHaXFVRUJzajQwWm9JVHUwTkZnYjk5WFJReDU2QmE2bDRLQzFtak9aR2U1LUtlUXBMOFVQbWVJd3Y0SWR3akNYNjZfWDcyZDY2d0c4VXEzWEx5bEsyMGs?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "MP: Double-engine govt has fast-tracked Kanpur’s growth - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzh5cG5CTTRxYkh6b1ZBeVJ2TUZIOFc5cmd3SFpybVVnTDJ6NXQ4RlpkRmpxOW1ENmd2RUZOQXlUWTN0RHFVOWd0bHNhbnJVSXI3NDFmX1FGa0RucDFlbUlUZTZvM3ZwRnVVWU1sMmlsSFlWMVByZUtPWEtJQmMzU09lbTh3SkpkQlpCXzlablNqSWtRalEtWGdWdEtNTnlaOG9OOHBmMGt6REZONXpnckR4SklBZjJJUEV1ZW15X3NCUEpCMEHSAcsBQVVfeXFMTko0LVhCb25UanZKbEFiZ3NjWC1XckhXd0dvQUN1N192MXNpLVZHb09uRmtWcThydDV6ekxDUTZMbTNzeHFhUk9Xck9RWmdkQ2YxbUhoNmw3SHFRTTFGNGg4UXhrUXBxLTlzeDIxbllXWXZaODRWdG9JQTU2cFRuUDZNVHlPT2w1SU9PNkctM2lSTXRDSXEzWi1yMk44dXBNTUItckZXLVNPOTVJMUJNNERpLWZkN3FSYzJVVEtidHgwbkxkQWRaVlZTWjA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
         "headline": "IT raids Congress ex-MLA’s factories in Chhatarpur: Team from Indore-Gwalior in 30-vehicle conducts illegal... - Bhaskar English",
         "source": "Bhaskar English",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPcElBMmdSNnRQX1MycF9DNS1fUkVmN3diU0N4ZWdlcnZwR1QyQnlwR01hZ1l0WlQxT3hQWE1lLTBEM1B5SDFHSDBKS1BvOHRBZ1RRVkFuUGlWRGRYR0EzX01TYUxWaldzYkF1dkJzaUNEbnMzNHR5c2tLcVgySS1xcUd5OWpTV05wNDFRLXRmT3F2ZFR5VTM0N191SC1hcmVMaTE0TUYzSTFhY1NRcHZJd0pQMmZrVFdYWk1sR3dFSFBOT3h5ejU0UzBMbks0OWdLdDM2RFp2MmhFOEdac2tkblVYWlNnaGZvZi1mSThnNGxIdjBOM2lVZzc0emlwaDBvU2NfenFlMkVhamc2UWdiTVd5R0RoeDNENFZDc0hpSmM1S0NqQmNnSzNBc0hEcVotQlHSAbcCQVVfeXFMTlg4dklUVmVRY3ZRemEzTkFDVmdVZ1NObTB5TW1YMXd0RnRmSjljYldLMnlHTHF6dE1yYklDajVkZlhIR2d5dENKelJaX0F5bTFZaGNfZmdIQjV3VGRUaHpkUlk1V3I1V0ZDNFZFVUxxYTZRQ095Z3pnUGdORlpNdWxudEE5dUVLdll1U3MwTmR3ZVkwRG1la1dUZUxzWlhDVE91MGM0MVM4aXhSM0hrT2tPVHJReENMQl9INXVUM2JOSjFsb0JnUFFsS0oyazZMMFROcnNjbnBiczd4SzRYR2lnZ0dqd3IxeWhMWEtfcmpoRVdDcVVFcHZyVDV3TWU1azVhU0lUNmV4eXVUZU1yc2VNektTZDJBeFNsdFJaZUhaVDVOZTJZT091QXdXYXZiaWZCZkVPX1U?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP MP Ramesh Awasthi welcomed in Kanpur after Delhi polls - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUExXODV3LTE2d25zbURWQ3RyS2N2TWRMQ1NjSFRuRjdFSHRWbDdBcjVEQVRXT29VMmZLUUxBUTEya3VUQmdZOGlUenhGWFdVQ1JSV3Q3Y0VNUno1bW1vdGZlMUdfamlkMlRfaWphVThmaUdmTlc1RTFXZGFJSm43YUhPUnNWWjk3dkFfeEZDRE1iSXY1aUl2UE0xU2V1V0VRR00yclVremZfU3Jac1ZENkx3X0VZbzZHSXJLSFM2WkszeWpz0gHKAUFVX3lxTE9ZYlg1X3ExWWlhTFBfN0JBZTZhNmxEcmsxMGdRZ2dEMmlNTzVPZHdaSFdCR3RoSERnRFdIR2R0Zmsxd2o0NVF3TnJmZkRZYmNJNEtRMkVFZWNNZ1hMR3dxYWFSS3FKemhJRTBGRmxTeWdhZnF4LXdLMG9wV0w1OUc0LVAwdWgxRE9BUmZUVkl1SnBxZkpXT1psUUpqOTNMLVFyWW9iUGN1LWpJMUk1ZUJJTWRnMHRkNzhyamVoRVRhUkVMUjF6MkJHZXc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "'Operation Sindoor Cup' match between Army XI, Parliament XI to be played in Kanpur - ANI News",
+        "source": "ANI News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVnhkUFFkcE1DSXVTWi1QTlJ6OWIyWGFhOUhHOVEyeDVZMXJNXzZmQzFVNTgxMTRXNnBZNnE0TTdRSFBTQ2tMdEU1Yy03Z0lxVlpJeXlzRlktRlhKSGhxSUE1YUtaSzgtczdIdGE0TmhmMk12MW10NHZOVjA0NlEwb1BKcGdZNHhCZDFIeVYycGxoWE11el9UeFVYLVhVQXFRX1UtcWNqZnRGYi1LcHNRUVMtWHRjaGNtM1FYV1ZlUGJqdDVuZHR3dmhFbXlza3pZY2c?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Prime Minister Modi to meet family of Pahalgam terror attack victim in Kanpur Chakeri airport - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVlhPbl9LbnpRaUhUY3NMMGhYY1BjblFwT0c5VzM5dW1MdTZNRDlNM0hYZE5FM1pOZGtJeDVISEhJczVJdmpqUlplQTdnQmRTMzgwMU9JNkMwazR6ZEdwaVN6ckprRnZpLUdXU1pGdmRXaEdLQjg4eHp5eXI0VW84WV9VMWU5Y0VyX1Nmdl9BbzRMeDc4elFheWlRbU05R3R2andjQWtZY3VQNVdGbkQySkV6MnBjVTBKSm1US3NBTEl0MWR6WTJ2cWthdm13NU81RXNOLVI2cWtra1ha0gHqAUFVX3lxTFBBX25JTm5xY2htLWtJYUk3cmdiUkx4RHp0QkdNU0Vfa1JsUFllR19pUFVBRS1rd2NDMzFVRzBub3lkVEVYRm9MaDhtelFhcEJlNGdZbUdwZW85QzJRZEtUczduNy1scHh5ZXZCTU12SjU0Smc0NWNuZmRpTm5GRVFmWk0wbU1hOWh1bnNfeENqRmpJOHpGRjhoRENlRkVyaFRMaE5NWGlaa09yeHliSzFQaUNuQXFac3ZxdUFwN0QxZlN5dFR4dERtQ0tSc0Q0VjFha1ZuSEVpOENtb2FfZXREekNWU1JhSGc5QQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -366,17 +452,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

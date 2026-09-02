@@ -4,16 +4,16 @@
     "constituency": "Kolkata Dakshin",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 9045,
+    "myneta_candidate_id": null,
     "slug": "mala-roy",
     "house": "lok_sabha",
     "sansad_member_id": 5048,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 66,
+    "age": null,
     "photo_url": "/mp-photos/5048.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Kolkata Dakshin",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 9045,
+      "myneta_candidate_id": null,
       "slug": "mala-roy",
       "house": "lok_sabha",
       "sansad_member_id": 5048,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 66,
+      "age": null,
       "photo_url": "/mp-photos/5048.jpg"
     },
     "criminal_record": {
@@ -40,70 +40,97 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "Cossipur Police Station",
+          "ipc_sections": [
+            "188",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "2nd Court of Judicial Magistrate at Sealdah",
+          "fir_no": "Cossipur Police Station",
+          "case_no": "CR Case no.854/2012",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9045",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.997054Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:37:35.055939Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 15397092.0,
-      "liabilities": 795517.0,
-      "net_worth": 14601575.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9045",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.997067Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 13.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.16,
-      "expended": 5.88,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:52:54.851488Z",
-          "notes": "Official eSAKSHI REST API — Works: 78 recommended, 71 sanctioned, 23 completed"
+          "fetched_at": "2026-09-02T15:18:38.527110Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:14:56.811554Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:14:56.809879Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 78,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 40.0
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 20.0,
@@ -118,7 +145,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:33:01.362954Z",
+          "fetched_at": "2026-09-02T15:14:56.809159Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +153,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "TMC MP Mala Roy surrenders in BJP worker assault case on poll result day, gets bail | Kolkata - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDlKbjNtWXFGeGlKUVdlSmFYeUl2MHMxWUlZWnliU1RMcm8wLUU0M2RTNVZlWmhhelRzQ1dOS0FQbHFqNVZ2dnp1cTZGRlJHd01vQ2VzbkhmUHFFQ0VMRndWYjhVZndQNXV5N0FJdDVpM01Xd01wbGRESDJsd1VTUlpiMkh4TE5ZTW5LWlFzbWM3dUhzYXhwWHE0OVdSYVBtcVdJaHBSRlZGWGZoT0QzNWtuQ1V3dEViNkFlMWpKWHVXNFBCVlNwaFd4aW5FVnJvUUVjQkRaWTRPczFtLV9JVTNEa9IB6AFBVV95cUxQeEE3LTcwQk5LYTZfallfZkd4RVQ3X1QyVzQ0Y2FqdndYUXlIblhvQ1pEY2Qtajg3M3pFNmg2Wlc4Tm9FOFhqcXRMSEhncmJZamVXMjFMWnpTMTQya3gtd0dzSFl5NTFpQlFpVlBxckhDN2VWUDlvSzBfWWc2ZTdMTDdjMTEzRjJ2VDVTZlI4OTVjU0NMcTE2QVFLVHBOTzB6VC1WSExGdks5TXNWUTF0aWJJakRHZnEtWEtiZV9ZR0k0NFhNX2JneXNtNnRJNjFhaGE4TWQwX0wybmYzdDZ2SWJaRWtxYXE1?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mamata’s sister-in-law, rebel MP Mala Roy among TMC leaders present at Suvendu’s first KMC visit - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3cxN016R0ZGODhrQ3NnZWJzOFlMQW95eHZrQ2pEOThmYzlSWHpfMEFzLU9oQjZYNklzaDMtQTdMdDl3VDFoRWp2eWEyRFBYUzhuTE1teG5kRnk3d1hMYTRsMGxLVllhd29jVzZyTktjOFlLZEsydDZiaTdBY0F4M3p0Mkt3eHBUcTZjaE9kcHhybGNheFl0M08tcktCS0xkSVJMckJYel9URDZCT3J0d0VIUVBFSG9Lb2pQdWdWVFRWZW1KbXZn0gHMAUFVX3lxTFBSWmpGcXJicXBCVS0wN2ZlRWp1eHowWTgzU3dmaTEzdk1FT2hoWDlIZmhTdktkSmdkMmtZcWYybjZEb18yZmJIaDQ2UFppbF9iV2JyY2syVGRDMWJ2VnEtWFRuYWZRdUhQYlh5VldJa2RxRnJTMDFPSG9ENzFZaFJpVHdrOGFqNTZWLWVtZ0hDVnNWcGRuMDFVY19pbHRKblgyY2duV0lJd3YwbUI4SnZtTDNKOTJtRC0xQTBfVTBIQVhnMVAzdEM5RWFNLQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Trinamool MP Mala Roy, son surrender in firearm threat case, granted bail - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2hkWFlnYlpJX1FTcEFzN2JZeEY0QkNjcV81bVBsakNuQjZtTHBfZkU1ZW9iUWFHWWpoTW9HV01QakFFY252ZGx2cTFsVDNCODJFdU5lM2FkTkt3cWp0cWM1eVNwb2NvbE1QVGNKM2JIemt0aTBPNWIwNnBFTXZBbzF2RGtxR290SnRtMGxNYWpZODJIbkU4VERzOTNpV3FlUWJHdHZnTk1EMGVsZ1VncmRUVVBnR25rME45ME1JQdIBxAFBVV95cUxNOF92VS1tT1NPVUxVOWxoSkN6ZzlDaVY0cy1XVU9xczA3MjBlQXZ0OFZtZmp3Qzh3S0lZUnloVFNEcWY4UmdBZzhUWFVUUkx2RTlPRWJkY3Y0N3ZEQ2RoVFlxRk9DNlFZdzBLT2NBTVRnTi05dEc3VnpLdWktbHh2SUx0OUFhR2xsTkFTejRkRmNBWl9rTUUySHdfMndZU1g2T2R4Zk05X1AzZy1nV0VsUjZBX3RHZnVCNk5vNnJUd3FTcEJ6?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mamata’s sister-in-law, rebel MP Mala Roy among TMC leaders present at Suvendu's first KMC visit - MillenniumPost",
+        "source": "MillenniumPost",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM2RYX0xjMWpSeUJ4TmJRVFI2UWVDNW92eWt5QndHOEhBX1pENi1UWmJFMURDdFNYSTZlRk9zUS1hOG5GdnBjeTQ5LUVJVzNZM0Ezdm14OFVGbWpsdVlRMmNabDJCTmZZTkhScGZEUFkxZzFYX1RqeGVXTFVJT1ZzazJfVm1JTUNHejYxTGxUclZteWVraEp6NjFuY1c5YWFGZzN3aWxROF83bG53blRNMEJaeGoyQ1JRRnFIbEQzdkVaR3pUSzh5NjUtZS10VlM5dFpN0gHYAUFVX3lxTFBtV2U4TU1PZVBiOUVOazdRTmRJM2w4NXZhMDktYVRMTWxfYnpyR0ExckdqUkJ5VGY5RVFZYzNrMWs4REswaXFrLThwc1FXWUpVdHU0YTFhd21icFEzOTdhT095Si1pbC1lNGpzR0ItWHJTZUdMcWNHS2N6VzhVUUdQMTNWNHk4OWZrS0NxdGx6NWZyN09ISXU0VVhsU2ZESm96aDV1NGFOTnFxNXBLdTl6Q1hzRm1fWHJ5T2trY3BQYzh3Y0ItRmdaN3hHVUw1ZWl1bGhwMFkzYQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Trinamool Chief Mamata Banerjee Removes MPs Saayoni Ghosh, Mala Roy From Key Trinamool Posts - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlZrQ1JSYmVYMUY5ZEhkQi1Fb2p4TXJubi1ROEdNbGRJdU5mRE1Dellpdll3NEhIcW9lblgxTlI0UDFSRzdoSzFPRGxpam0yNjE0Qnh2andaTmE3NkJwY2VmMGttNW5RbkFJMlpvOTF5c2hVZnFfSklaenRCbnRYclNFRjhtWWJzYzRPeGQtRGNPeDZJRnhGaXBEXzZtMFVGa2dnOEpmTGNfOHd6UDNMYmRGSmpueEpSUTNoZlJyb9IBxwFBVV95cUxQT3JYYjVXSUlYTEpWZ21ZcW5XM1RvRWt1MWFZNzJqWThkSFZyNlI1eFA2QjlPTGtVbHpEZmc5UVREekpUa2R4REd1c0M5cVVxRU5IdGtWM3Z2a2o1QkpiUFQ5Sk1za1hPRmlrSFZ3UTAyc21vU1EwMUJlQzlvTldNaWhKRzMtTUNmUDd5VEI2ZUh1UnNQNWdrMTZUbmJILWtvdnhaMFZMMEhZV0NlOWdHUWUtaDV6Qk8xQzJBa1ozUmtYeGQtLXdv?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:34:00.100380Z",
+    "collected_at": "2026-09-02T15:18:38.527707Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +222,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.768127Z",
+          "fetched_at": "2026-09-02T18:38:12.397774Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +238,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.768136Z",
+          "fetched_at": "2026-09-02T18:38:12.397785Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +254,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.768141Z",
+          "fetched_at": "2026-09-02T18:38:12.397790Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +270,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.768146Z",
+          "fetched_at": "2026-09-02T18:38:12.397795Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +286,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.768152Z",
+          "fetched_at": "2026-09-02T18:38:12.397801Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +302,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.768157Z",
+          "fetched_at": "2026-09-02T18:38:12.397805Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +318,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.768162Z",
+          "fetched_at": "2026-09-02T18:38:12.397810Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,11 +343,28 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/MALA ROY OFFICIAL",
+          "url": "https://facebook.com/http://www.facebook.com/MALA ROY OFFICIAL",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 1,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T15:14:59.699554Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -290,11 +373,19 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Trinamool MP Mala Roy, son surrender in firearm threat case; get bail - Social News XYZ",
-          "source": "Social News XYZ",
+          "headline": "TMC MP Mala Roy surrenders in BJP worker assault case on poll result day, gets bail | Kolkata - Hindustan Times",
+          "source": "Hindustan Times",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGZtdnhldHlxMnlRYXpXclRCZENUMXBTZ2ItX0h1Qm1IQW5ObnNJcU5Sa09pMzZPUnVhM28zV2gyblBVTDZCY3FyQlBmUDNfeEJBV0ZyaHdKWWpYR2JHQk9rcmNjWnh3VjlmMGtYZ0tEcWpubFU3Sjhwa2pTZzl1dG0yY2tiNEpsbldJdXZsa0dHSVhiX0V3VVI0T2FBWE1ld0h4ZnRndlFMd9IBqgFBVV95cUxNdGZtdnhldHlxMnlRYXpXclRCZENUMXBTZ2ItX0h1Qm1IQW5ObnNJcU5Sa09pMzZPUnVhM28zV2gyblBVTDZCY3FyQlBmUDNfeEJBV0ZyaHdKWWpYR2JHQk9rcmNjWnh3VjlmMGtYZ0tEcWpubFU3Sjhwa2pTZzl1dG0yY2tiNEpsbldJdXZsa0dHSVhiX0V3VVI0T2FBWE1ld0h4ZnRndlFMdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDlKbjNtWXFGeGlKUVdlSmFYeUl2MHMxWUlZWnliU1RMcm8wLUU0M2RTNVZlWmhhelRzQ1dOS0FQbHFqNVZ2dnp1cTZGRlJHd01vQ2VzbkhmUHFFQ0VMRndWYjhVZndQNXV5N0FJdDVpM01Xd01wbGRESDJsd1VTUlpiMkh4TE5ZTW5LWlFzbWM3dUhzYXhwWHE0OVdSYVBtcVdJaHBSRlZGWGZoT0QzNWtuQ1V3dEViNkFlMWpKWHVXNFBCVlNwaFd4aW5FVnJvUUVjQkRaWTRPczFtLV9JVTNEa9IB6AFBVV95cUxQeEE3LTcwQk5LYTZfallfZkd4RVQ3X1QyVzQ0Y2FqdndYUXlIblhvQ1pEY2Qtajg3M3pFNmg2Wlc4Tm9FOFhqcXRMSEhncmJZamVXMjFMWnpTMTQya3gtd0dzSFl5NTFpQlFpVlBxckhDN2VWUDlvSzBfWWc2ZTdMTDdjMTEzRjJ2VDVTZlI4OTVjU0NMcTE2QVFLVHBOTzB6VC1WSExGdks5TXNWUTF0aWJJakRHZnEtWEtiZV9ZR0k0NFhNX2JneXNtNnRJNjFhaGE4TWQwX0wybmYzdDZ2SWJaRWtxYXE1?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Mamata’s sister-in-law, rebel MP Mala Roy among TMC leaders present at Suvendu’s first KMC visit - ThePrint",
+          "source": "ThePrint",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3cxN016R0ZGODhrQ3NnZWJzOFlMQW95eHZrQ2pEOThmYzlSWHpfMEFzLU9oQjZYNklzaDMtQTdMdDl3VDFoRWp2eWEyRFBYUzhuTE1teG5kRnk3d1hMYTRsMGxLVllhd29jVzZyTktjOFlLZEsydDZiaTdBY0F4M3p0Mkt3eHBUcTZjaE9kcHhybGNheFl0M08tcktCS0xkSVJMckJYel9URDZCT3J0d0VIUVBFSG9Lb2pQdWdWVFRWZW1KbXZn0gHMAUFVX3lxTFBSWmpGcXJicXBCVS0wN2ZlRWp1eHowWTgzU3dmaTEzdk1FT2hoWDlIZmhTdktkSmdkMmtZcWYybjZEb18yZmJIaDQ2UFppbF9iV2JyY2syVGRDMWJ2VnEtWFRuYWZRdUhQYlh5VldJa2RxRnJTMDFPSG9ENzFZaFJpVHdrOGFqNTZWLWVtZ0hDVnNWcGRuMDFVY19pbHRKblgyY2duV0lJd3YwbUI4SnZtTDNKOTJtRC0xQTBfVTBIQVhnMVAzdEM5RWFNLQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,27 +397,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Trinamool MP Mala Roy, son surrender in firearm threat case; get bail - thehawk.in",
-          "source": "thehawk.in",
+          "headline": "Mamata’s sister-in-law, rebel MP Mala Roy among TMC leaders present at Suvendu's first KMC visit - MillenniumPost",
+          "source": "MillenniumPost",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmpuRTl0aFc4WjdHakRhOG8xcXB3VEt2NzRqcF82aGJoZG44Ml95N2tiMWhJZjJMSUxBYk9WT3R2WEg0bzR6RFFnRFJKLUtiVGpiejlVV0w1d3ctR3JaMy0tM0tRcFVyWFFDQVU1SjNPdnA1VGhoRW01cXVGU1JaeFpjUk5ST3U1QnY4TlhyNFZKeUp4SmRvQ3cwZ0xEY2hXQWlV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM2RYX0xjMWpSeUJ4TmJRVFI2UWVDNW92eWt5QndHOEhBX1pENi1UWmJFMURDdFNYSTZlRk9zUS1hOG5GdnBjeTQ5LUVJVzNZM0Ezdm14OFVGbWpsdVlRMmNabDJCTmZZTkhScGZEUFkxZzFYX1RqeGVXTFVJT1ZzazJfVm1JTUNHejYxTGxUclZteWVraEp6NjFuY1c5YWFGZzN3aWxROF83bG53blRNMEJaeGoyQ1JRRnFIbEQzdkVaR3pUSzh5NjUtZS10VlM5dFpN0gHYAUFVX3lxTFBtV2U4TU1PZVBiOUVOazdRTmRJM2w4NXZhMDktYVRMTWxfYnpyR0ExckdqUkJ5VGY5RVFZYzNrMWs4REswaXFrLThwc1FXWUpVdHU0YTFhd21icFEzOTdhT095Si1pbC1lNGpzR0ItWHJTZUdMcWNHS2N6VzhVUUdQMTNWNHk4OWZrS0NxdGx6NWZyN09ISXU0VVhsU2ZESm96aDV1NGFOTnFxNXBLdTl6Q1hzRm1fWHJ5T2trY3BQYzh3Y0ItRmdaN3hHVUw1ZWl1bGhwMFkzYQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "TMC MP Mala Roy surrenders in BJP worker assault case on poll result day, gets bail | Kolkata - Hindustan Times",
-          "source": "Hindustan Times",
+          "headline": "Trinamool Chief Mamata Banerjee Removes MPs Saayoni Ghosh, Mala Roy From Key Trinamool Posts - NDTV",
+          "source": "NDTV",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeEE3LTcwQk5LYTZfallfZkd4RVQ3X1QyVzQ0Y2FqdndYUXlIblhvQ1pEY2Qtajg3M3pFNmg2Wlc4Tm9FOFhqcXRMSEhncmJZamVXMjFMWnpTMTQya3gtd0dzSFl5NTFpQlFpVlBxckhDN2VWUDlvSzBfWWc2ZTdMTDdjMTEzRjJ2VDVTZlI4OTVjU0NMcTE2QVFLVHBOTzB6VC1WSExGdks5TXNWUTF0aWJJakRHZnEtWEtiZV9ZR0k0NFhNX2JneXNtNnRJNjFhaGE4TWQwX0wybmYzdDZ2SWJaRWtxYXE10gHoAUFVX3lxTFB4QTctNzBCTkthNl9qWV9mR3hFVDdfVDJXNDRjYWp2d1hReUhuWG9DWkRjZC1qODczekU2aDZaVzhOb0U4WGpxdExISGdyYllqZVcyMUxaelMxNDJreC13R3NIWXk1MWlCUWlWUHFySEM3ZVZQOW9LMF9ZZzZlN0xMN2MxMTNGMnZUNVNmUjg5NWNTQ0xxMTZBUUtUcE5PMHpULVZITEZ2SzlNc1ZRMXRpYklqREdmcS1YS2JlX1lHSTQ0WE1fYmd5c202dEk2MWFoYThNZDBfTDJuZjN0NnZJYlpFa3FhcTU?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Kolkata Dakshin West Bengal All India Trinamool Congress - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONVFtMEVNelJvUkdQSXdfbmp6eDFZTmJPNldkZ0lRdktNUW0ySlJVQmltdUlnMTcxWjRWSmVwaGxQbHJJc0JMOFpLRjFvUHFDdDZLU19VQjdQRk9UeXJIRC1IMjN6MklGYVVzUzdON0pSZW5EbEI2Q2pqb2dEZXg2MVVpOU8tVDJFU09iRmRENFVoVWlJbkNCQXhUcjM4UTlwRFNGc1FaRkpURkRsaDJpQV9wcVctV2xobk1UVS1B?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlZrQ1JSYmVYMUY5ZEhkQi1Fb2p4TXJubi1ROEdNbGRJdU5mRE1Dellpdll3NEhIcW9lblgxTlI0UDFSRzdoSzFPRGxpam0yNjE0Qnh2andaTmE3NkJwY2VmMGttNW5RbkFJMlpvOTF5c2hVZnFfSklaenRCbnRYclNFRjhtWWJzYzRPeGQtRGNPeDZJRnhGaXBEXzZtMFVGa2dnOEpmTGNfOHd6UDNMYmRGSmpueEpSUTNoZlJyb9IBxwFBVV95cUxQT3JYYjVXSUlYTEpWZ21ZcW5XM1RvRWt1MWFZNzJqWThkSFZyNlI1eFA2QjlPTGtVbHpEZmc5UVREekpUa2R4REd1c0M5cVVxRU5IdGtWM3Z2a2o1QkpiUFQ5Sk1za1hPRmlrSFZ3UTAyc21vU1EwMUJlQzlvTldNaWhKRzMtTUNmUDd5VEI2ZUh1UnNQNWdrMTZUbmJILWtvdnhaMFZMMEhZV0NlOWdHUWUtaDV6Qk8xQzJBa1ozUmtYeGQtLXdv?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -360,15 +443,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 42,
+      "starred_questions": 12,
+      "unstarred_questions": 30,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 81.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -376,17 +459,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 20.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Low attendance",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +490,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +517,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 15,397,092. MPLADS utilization: 40.0%. Parliament attendance: 20.0%. Questions asked: 42.",
-  "validated_at": "2026-09-02T01:36:54.768943Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 20.0%. Questions asked: 42. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.398566Z"
 }

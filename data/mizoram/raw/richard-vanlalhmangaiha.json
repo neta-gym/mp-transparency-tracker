@@ -24,15 +24,23 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:39.126327Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
+    "movable_assets": 9919233.0,
+    "immovable_assets": 7000000.0,
     "total_assets": 16919233.0,
-    "liabilities": 0.0,
-    "net_worth": 16919233.0,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
@@ -40,44 +48,58 @@
     "confidence": 0.8,
     "sources": [
       {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=60",
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
         "source_name": "myneta",
         "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.593043Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        "fetched_at": "2026-09-02T14:28:55.259636Z",
+        "notes": "MyNeta candidate affidavit data"
       }
     ],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 14.9,
+    "wealth_percentile": 15.6,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.6,
-    "expended": 8.58,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:19.965644Z",
-        "notes": "Official eSAKSHI REST API — Works: 174 recommended, 169 sanctioned, 24 completed"
+        "fetched_at": "2026-09-02T14:32:32.981818Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:28:53.910054Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:28:56.084799Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 174,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 58.36734693877551
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +114,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:11.460305Z",
+        "fetched_at": "2026-09-02T14:28:54.947927Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +122,64 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "LOK SABHA MP PU RICHARD VANLALHMANGAIHA HOVIN AIZAWL-AH DISTRICT DEVELOPMENT COORDINATION & MONITORING COMMITTEE (DISHA) MEETING NEIH A NI - Government of Mizoram",
+      "source": "Government of Mizoram",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZmVfSHI1UEVxTVBmNDVPT3VXQnY4TDJrVWVfSnFrcVdmVWJGNFhPOUdmZGdrTTZfRG51VGlVMUZfMVJJMW1fWG9CVGM5aVlHdUJxbWgzd0xha2VQZ2JiQlBPZUdHMVVhaTE1a3B2X1hTcnRYOExib1dITGwwb3RMQmxUZTNoYzlHYWdLa3ppX1dXMHdaal9PY0RzbXpaRU1YLUlxM2dEWG5FZDdaemJEMlFFQm1jaHZua3lvY3FSOXhielEtUWY3bVo0MUd2WVJBNHp5aUFBTmdnUk9CcWw4WHpzQmdITHd4ZFUxSF93bUhCOWtxX1RNYjJiWQ?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Mizoram: MP Pu Richard Vanlalhmangaiha Urges Centre to Expedite Vairengte | Akashvani News - News On AIR",
+      "source": "News On AIR",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUJyMmxvdXpLRG5GTkR5Y25LeFJkZUFGc0E2T1Q4THZrZ2hjR242eVZicnlEWUR2MUJFZDlfUmxFWF9pVVhqcFkwSHJWa292d3Rsb3R5Y0N5TTlWQTlHd3lzQl9KUnhOckppTVhIUlhLVnJJWXJFTGNOaDFHb0tFV2F4X19TeFZ4RXIxc0ZCTWFkcldrdTMyLXhhRlY2SV9Yd2Z4TGRmS0Exd2FGY2c4SU5RUXhYb1dMYnRrdXRRUmF4MGQxTUc4Y1N1Q0ZKLWpfLXdsN0dn?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP (LOK SABHA) SHRI RICHARD VANLALHMANGAIHA CHAIRS LAWNGTLAI DISTRICT DEVELOPMENT CO-ORDINATION & MONITORING COMMITTEE (DISHA) MEETING - Government of Mizoram",
+      "source": "Government of Mizoram",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTlA3YTM3VUl2Z2Vha0FzS0dVMnVMVk5xa0pyS3lZWFh0TFY5bTRaYUVtdjFlc1FoaDRxVEV4T3VyS29teFotNV9oS2hkY3d5RmcxMnpkMFFSODVqNDhFTFZ5RmZqaVEzYm90dXhYcVltZFNJNGdtYUJLVXg4TVhoeUlFMEZ5T2RuS0M1V2d1Q0dwUzVOMjVqU0dNb0toRlBqNkZTOFJZZGlSaGNtb3dPaWVzSVRGUWtab1dBcFg1S3JONXc0SmNxSzAxSldNSFN5V1dkZ0FiLWo2ODB0QlNQMEUySXBSZWJrLWJ5a1BaMWRRdXM?oc=5",
+      "sentiment": "positive"
+    },
+    {
+      "headline": "Mizoram MPs, MLAs seek Centre’s nod for key road, bridge projects - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT3ZNdXRyYXRYY3R3a0hxb2RycDZRY0ctWkxNelJpaXdpOWt4NzgzMU5aX002SGFxU2xXWUVJdS1HYmNKQkY3S25nWGUwdGJ0a0xkUExETHNSMTE5T0ZqRkJDVXc5a1JCNEk1OXRBUlhwNlJabFlwUjU2bVdSMTRzUy16RF96UW51ZHNxVGZXREpoXzZ5b3lLbF9BZ1JjVU1BN0hCM1BGYnRQTnQwaTBWTWdXN0pycnRTTVktb2ZPcXY4RVFWN1hrei1TblVfLXVOMXVKT9IB2gFBVV95cUxPcXk5VWV3NlZYamF3N0k0OUU2LUxkWG5JVnNPdlVCSHZQZjhLNmNwVHFieTUzd3NCZkt3azl3VHkzV3I3QU54UXEwdHMzM29XeFJpcXlLMzZ2TDllZnROQ0Q1ekJPbnM0b0hwRXZCempiOXN4Q1RIVUVPYXVHRVltZkt5NzYyc3RpX0dscERUR2RDOVB2Zk1VdG5kd2V1QzkzRjBBTTQyX25BdzFVUk94eXRvRnhSdWlNMi1JZVJrZlF1OE1JM29nVkM4cjBRR0F1RUIyMWhVMVJxdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MUP SUB HEADQUARTERS HNAHTHIAL OFFICE CHU MP PU RICHARD VANLALHMANGAIHA'N A HAWNG - Government of Mizoram",
+      "source": "Government of Mizoram",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVRqbktJM0JIVFhBelo1VElVd3Y1QVA2V2gzOEFXb2lXU0ExTmd1VUJ2bGtXRG1Od3RaZkVsR2dPTFJ6UVRuekpYTTV0TF81YVdXbVlqR2pRUklrRUMzVUh0Y25QeThPNnhuSjNwM1p2VXkxWTR5MDFqMTBiQk5mcDBWOXFmcUhCVXFlSmZfeTlqaUV3N0hXcUl3OENETHNrcC1Ic00yb1JwSzRFVk9QT3dQMA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "myneta",
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:21:50.069389Z",
+  "collected_at": "2026-09-02T14:32:34.966707Z",
   "evidence_summary": {
     "criminal": "B",
     "assets": "B",
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +194,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.960151Z",
+        "fetched_at": "2026-09-02T18:38:08.493798Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +210,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.960161Z",
+        "fetched_at": "2026-09-02T18:38:08.493810Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +226,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.960167Z",
+        "fetched_at": "2026-09-02T18:38:08.493816Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +242,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.960172Z",
+        "fetched_at": "2026-09-02T18:38:08.493822Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +258,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.960179Z",
+        "fetched_at": "2026-09-02T18:38:08.493828Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +274,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.960183Z",
+        "fetched_at": "2026-09-02T18:38:08.493833Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +290,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:50.960188Z",
+        "fetched_at": "2026-09-02T18:38:08.493838Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +315,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "richard vanlalhmangaiha@vanlalhman35886",
+        "url": "https://x.com/richard vanlalhmangaiha@vanlalhman35886",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "richie vanlalhmangaiha",
+        "url": "https://facebook.com/richie vanlalhmangaiha",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "richard_vanlalhmangaiha",
+        "url": "https://instagram.com/richard_vanlalhmangaiha",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:28:56.115830Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,43 +361,43 @@
     "neutral": 8,
     "top_headlines": [
       {
-        "headline": "MP (LOK SABHA) SHRI RICHARD VANLALHMANGAIHA CHAIRS LAWNGTLAI DISTRICT DEVELOPMENT CO-ORDINATION & MONITORING COMMITTEE (DISHA) MEETING - DIPR Mizoram",
-        "source": "DIPR Mizoram",
+        "headline": "LOK SABHA MP PU RICHARD VANLALHMANGAIHA HOVIN AIZAWL-AH DISTRICT DEVELOPMENT COORDINATION & MONITORING COMMITTEE (DISHA) MEETING NEIH A NI - Government of Mizoram",
+        "source": "Government of Mizoram",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZmVfSHI1UEVxTVBmNDVPT3VXQnY4TDJrVWVfSnFrcVdmVWJGNFhPOUdmZGdrTTZfRG51VGlVMUZfMVJJMW1fWG9CVGM5aVlHdUJxbWgzd0xha2VQZ2JiQlBPZUdHMVVhaTE1a3B2X1hTcnRYOExib1dITGwwb3RMQmxUZTNoYzlHYWdLa3ppX1dXMHdaal9PY0RzbXpaRU1YLUlxM2dEWG5FZDdaemJEMlFFQm1jaHZua3lvY3FSOXhielEtUWY3bVo0MUd2WVJBNHp5aUFBTmdnUk9CcWw4WHpzQmdITHd4ZFUxSF93bUhCOWtxX1RNYjJiWQ?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "Mizoram: MP Pu Richard Vanlalhmangaiha Urges Centre to Expedite Vairengte | Akashvani News - News On AIR",
+        "source": "News On AIR",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUJyMmxvdXpLRG5GTkR5Y25LeFJkZUFGc0E2T1Q4THZrZ2hjR242eVZicnlEWUR2MUJFZDlfUmxFWF9pVVhqcFkwSHJWa292d3Rsb3R5Y0N5TTlWQTlHd3lzQl9KUnhOckppTVhIUlhLVnJJWXJFTGNOaDFHb0tFV2F4X19TeFZ4RXIxc0ZCTWFkcldrdTMyLXhhRlY2SV9Yd2Z4TGRmS0Exd2FGY2c4SU5RUXhYb1dMYnRrdXRRUmF4MGQxTUc4Y1N1Q0ZKLWpfLXdsN0dn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP (LOK SABHA) SHRI RICHARD VANLALHMANGAIHA CHAIRS LAWNGTLAI DISTRICT DEVELOPMENT CO-ORDINATION & MONITORING COMMITTEE (DISHA) MEETING - Government of Mizoram",
+        "source": "Government of Mizoram",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTlA3YTM3VUl2Z2Vha0FzS0dVMnVMVk5xa0pyS3lZWFh0TFY5bTRaYUVtdjFlc1FoaDRxVEV4T3VyS29teFotNV9oS2hkY3d5RmcxMnpkMFFSODVqNDhFTFZ5RmZqaVEzYm90dXhYcVltZFNJNGdtYUJLVXg4TVhoeUlFMEZ5T2RuS0M1V2d1Q0dwUzVOMjVqU0dNb0toRlBqNkZTOFJZZGlSaGNtb3dPaWVzSVRGUWtab1dBcFg1S3JONXc0SmNxSzAxSldNSFN5V1dkZ0FiLWo2ODB0QlNQMEUySXBSZWJrLWJ5a1BaMWRRdXM?oc=5",
         "sentiment": "positive"
       },
       {
-        "headline": "LOK SABHA MP PU RICHARD VANLALHMANGAIHA HOVIN LAWNGTLAI DISTRICT DEVELOPMENT CO-ORDINATION & MONITORING COMMITTEE (DISHA) THUKHAWM - DIPR Mizoram",
-        "source": "DIPR Mizoram",
+        "headline": "Mizoram MPs, MLAs seek Centre’s nod for key road, bridge projects - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR2R4bWZFWTkta05kaGRNSWZaREFZZ3NzUFdwNjFMellMY1JXeV9fSmxyVlNva0NGSWowTzd5VHBfYk15cXZRanc0enNOSnFFQmEzVGRJcVJyYlEyWlNPSFBmU1NJQzdYWTV4SkhjdDJBb29jZ1VfTzUxa3RQTjZoX0t0RUoxRDgxb2dvSEVQRFk5VGpuSHk0anRnaWN5QTFMRzhhVjF2VW9tUEF3d01vR25VTmhiSUVUZWQxbVRZeDFEMGkyR1E3enZHdW9EZzlvRHRiSDh6YUNQM1MyMTJ2TmVHaFl4eERfc1Ixa2lpVGk?oc=5",
-        "sentiment": "positive"
-      },
-      {
-        "headline": "Mizoram: MP Pu Richard Vanlalhmangaiha Urges Centre to Expedite Vairengte - Newsonair",
-        "source": "Newsonair",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjIwN2RhdE5RRFlTMmhHR21YSmNpb0lBN09ZeHJIeS1hUmVhMDZheGNmYkJrTmlSRmtNek1DTkhJY2lrSm1XSlBqSE95cUF0V3RTa0g2MlpncnNjY1JLWmhVcE4tNkh4aEQ3TGJKQTRYMUgtRVJkMWt5N1JjQTRPU3BKdHdhSXNLY3RKaWZyQzZYNDBVbC1qZVdjdXRLQ3A4TDlIQUItemFhbjFJNUtraVVvOTM1RWxDbVJQLXhFQ2FNOWl2R29YdWZPYXBDZXF3V2o1UExDUDFuUmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT3ZNdXRyYXRYY3R3a0hxb2RycDZRY0ctWkxNelJpaXdpOWt4NzgzMU5aX002SGFxU2xXWUVJdS1HYmNKQkY3S25nWGUwdGJ0a0xkUExETHNSMTE5T0ZqRkJDVXc5a1JCNEk1OXRBUlhwNlJabFlwUjU2bVdSMTRzUy16RF96UW51ZHNxVGZXREpoXzZ5b3lLbF9BZ1JjVU1BN0hCM1BGYnRQTnQwaTBWTWdXN0pycnRTTVktb2ZPcXY4RVFWN1hrei1TblVfLXVOMXVKT9IB2gFBVV95cUxPcXk5VWV3NlZYamF3N0k0OUU2LUxkWG5JVnNPdlVCSHZQZjhLNmNwVHFieTUzd3NCZkt3azl3VHkzV3I3QU54UXEwdHMzM29XeFJpcXlLMzZ2TDllZnROQ0Q1ekJPbnM0b0hwRXZCempiOXN4Q1RIVUVPYXVHRVltZkt5NzYyc3RpX0dscERUR2RDOVB2Zk1VdG5kd2V1QzkzRjBBTTQyX25BdzFVUk94eXRvRnhSdWlNMi1JZVJrZlF1OE1JM29nVkM4cjBRR0F1RUIyMWhVMVJxdw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Mizoram MP Richard Vanlalhmangaiha urges Centre to set up Territorial Army unit in State - The Hindu",
-        "source": "The Hindu",
+        "headline": "MUP SUB HEADQUARTERS HNAHTHIAL OFFICE CHU MP PU RICHARD VANLALHMANGAIHA'N A HAWNG - Government of Mizoram",
+        "source": "Government of Mizoram",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVDRnUkdqdzYyN29ybVFWMWFqcmZjUXpoTGVjZEhUa1czWTFJTnJ6VWNkZlNaby15STduYmtlLXRJcVVlcERPZGJkUFk4YXlEaUFKWndWd1N1NE11T3AteERabkFFOWxZMGJRVHRXZE5rWnZNM3I5bXJJLUw4X0YzbWhJMkZLZ3pScDRGbzR0TlBTWDBGM21rcGRHRDIzbVpncDh4Tm9mNmtZTkxvYWRWMzVoRkh5b21SZFI5V2EyUWZXOWs0ZkpKSFVrTDNxeEpxOXNSOVdGNy16M1JjQS1qdVRXcEdWRklsV2F30gHyAUFVX3lxTE9BMHlVZGV6NlJhVG9xMXBGaTRHQTJZZzZxdHdqTHI4UXkxdlJQTzc2OGVoYWhvcGZaZ3JvMjl0bHNWZEpZVm53RklReFotUno0dm9JNzkyRGlkUVV5N0N5Z0l5bGVOQ004U1VERW8tam0wTW43eDVONnRUN25iOEIwcVlSeDRXY3ZaT1Brc0dlVXJjTjJGOF9rU2pXZFpMN3hueWppUXQxZ3dTV0k5NnJ5QnVIRm1tUFVzbU1IWF9oR3lSNUdJRDFPeTFkU3ROWEZ2TzM2bWptQklyOThycmk3MmlOMldyR2p5VnRuU3V3dWlR?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "ZPM MP joins NDA floor leaders’ meeting, sparks discussion of policy shift - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTjlsWFFkakV0RkhDWF9pMXBDbUc1QmpVZTZjR2JXYkE3X0hYbDBGOFJQcU9tRGdDVmt3eVI0bElwb3NUbloxdDNtRDk5YnQ5OE94ajJ6Z1BYYlZ6eHdoODFUZTlwc1JDSEFCMl9pUHEyd2dKZF9lWXVTN2phYzVkbEZzTTVFUEVHNEg1OW5QS2ppN09SdDNMRXM1ZlNUTWlqVkRsQzF3Mi1qd1U5RnBsM0xQSXdPMDdjQ3FaeGJ4ck5pZlFzSnQ5dHZYTGwwVTg2WUs1VEcxMG5kRFRiWUJXOXRB0gHnAUFVX3lxTE9XS2k4dGZRdFRtZmg0cHBIMEprczRpRlJHbG5UWXFNMHNIOXViTzBfcTdtampHVU1NSzFvY1hJSTNzbWRKblJkTmF5OUstU05EYjcxSGszVWhaRXZSdW5Hd3F1U3ZlWk03NnRMcXFpbzdxNmkyMDBYVG16QS1jREdzN1hmZVVuQzk3czdFOGxBSFdYSUljNkNoMFR0dVdkLUNoVGdxODd3V0VZNkJ2dXRybExTZ3RkUmY3ZUk2dW1HRmJnd0hpcGQ5SVdUWEowdVhlUjdaZlZMa19OZGRMS2N5ZzlQaTRRbw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVRqbktJM0JIVFhBelo1VElVd3Y1QVA2V2gzOEFXb2lXU0ExTmd1VUJ2bGtXRG1Od3RaZkVsR2dPTFJ6UVRuekpYTTV0TF81YVdXbVlqR2pRUklrRUMzVUh0Y25QeThPNnhuSjNwM1p2VXkxWTR5MDFqMTBiQk5mcDBWOXFmcUhCVXFlSmZfeTlqaUV3N0hXcUl3OENETHNrcC1Ic00yb1JwSzRFVk9QT3dQMA?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,17 +447,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

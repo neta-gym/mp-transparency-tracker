@@ -3,24 +3,22 @@
 **Constituency:** Tiruchirappalli, Tamil Nadu
 **Party:** Marumalarchi Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 51
-**Education:** Post Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 62.1 / 100
+## Composite Transparency Score: 65.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 26.5 | 25% |
-| Asset Growth | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 35.91 Crore
-- **Liabilities:** Rs 2.56 Crore
-- **Net Worth:** Rs 33.35 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 80% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 6
-- **Expended:** Rs 5
-- **Utilization Rate:** 33.1%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,36 +66,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@duraivaikooffl](https://x.com/duraivaikooffl) | No | Yes |
+| Facebook | [@duraivaikooffl](https://facebook.com/duraivaikooffl) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 2 | **Negative:** 0 | **Neutral:** 8
 
-- Durai Vaiko reviews five key bridge works in Trichy city - The Times of India (The Times of India) [neutral]
-- Trichy MP urges fast completion of flyovers and airport expansion - The News Mill (The News Mill) [neutral]
-- MDMK's Durai Vaiko submits six key proposals to Kanimozhi for DMK 2026 manifesto - ANI News (ANI News) [neutral]
-- Include Trichy among univ townships: MP to FM - The Times of India (The Times of India) [neutral]
-- MDMK MP Vaiko to launch 'Samathuva Nadai Payanam' from Tiruchirappalli, TN CM Stalin to flag off yatra - India's News.Net (India's News.Net) [neutral]
+- Centre, state provide in-principle approval for Trichy dry port: Durai Vaiko - timesofindia.indiatimes.com (timesofindia.indiatimes.com) [neutral]
+- Learning third language not wrong in globalised world, says MDMK MP Durai Vaiko; welcomes permanent Trichy-Charlapalli train service - aninews.in (aninews.in) [neutral]
+- Durai Vaiko MP urges Centre to release funds for airport runway expansion - The Hindu (The Hindu) [neutral]
+- Trichy MP Durai Vaiko submits development proposals to Tamil Nadu CM Vijay - thenewsmill.com (thenewsmill.com) [positive]
+- Trichy MP Durai Vaiko meets Tamil Nadu CM Vijay, submits development proposals - aninews.in (aninews.in) [positive]
+
+---
+
+## News & Allegations
+
+- ! **Centre, state provide in-principle approval for Trichy dry port: Durai Vaiko - timesofindia.indiatimes.com** (timesofindia.indiatimes.com)
+- ! **Learning third language not wrong in globalised world, says MDMK MP Durai Vaiko; welcomes permanent Trichy-Charlapalli train service - aninews.in** (aninews.in)
+- ! **Durai Vaiko MP urges Centre to release funds for airport runway expansion - The Hindu** (The Hindu)
+- ! **Trichy MP Durai Vaiko submits development proposals to Tamil Nadu CM Vijay - thenewsmill.com** (thenewsmill.com)
+- ! **Trichy MP Durai Vaiko meets Tamil Nadu CM Vijay, submits development proposals - aninews.in** (aninews.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Tamil Nadu: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Durai Vaiko shows moderate transparency with a score of 62.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Durai Vaiko shows moderate transparency with a score of 65.0/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 359,084,317. MPLADS utilization: 33.1%. Parliament attendance: 100.0%. Questions asked: 18. Debates participated: 10.
+No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 18. Debates participated: 10. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 359,084,317. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +239,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Durai Vaiko's MPLADS account: Released: Rs 15, Expended: Rs 5, Utilization: 33.1%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

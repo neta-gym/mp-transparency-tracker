@@ -4,16 +4,16 @@
     "constituency": "Ongole",
     "state": "andhra pradesh",
     "party": "Telugu Desam Party",
-    "myneta_candidate_id": 5120,
+    "myneta_candidate_id": null,
     "slug": "magunta-sreenivasulu-reddy",
     "house": "lok_sabha",
     "sansad_member_id": 3907,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 70,
+    "age": null,
     "photo_url": "/mp-photos/3907.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Ongole",
       "state": "andhra pradesh",
       "party": "Telugu Desam Party",
-      "myneta_candidate_id": 5120,
+      "myneta_candidate_id": null,
       "slug": "magunta-sreenivasulu-reddy",
       "house": "lok_sabha",
       "sansad_member_id": 3907,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 70,
+      "age": null,
       "photo_url": "/mp-photos/3907.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:32:58.546863Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 579539820.0,
-      "liabilities": 276323277.0,
-      "net_worth": 303216543.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5120",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.163823Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 86.7,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 2.19,
-      "expended": 0.76,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:17:33.579188Z",
-          "notes": "Official eSAKSHI REST API — Works: 19 recommended, 18 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:51:14.719002Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:47:31.112562Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:47:31.109715Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 19,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 5.170068027210885
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:27:23.774893Z",
+          "fetched_at": "2026-09-02T14:47:31.108541Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Tributes paid to TDP founder NTR on his 103rd birth anniversary - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQamIxRHVkNk1KX0dpRkpya0lsek1va2xDcjhhd1NEaUVNVnJ6N1hpaGFsZ2I2Vk9uam9YUFluMlBjQXFWcGNPNmVIMmxzbEl4aUhkOERjeVNxOTkwSWwxcHowTzNYeUVaZEhsS3JILUZFcWZWN3hSejRsMlFOSEZaLU1IVHVfWnY3RDZ4Rll4SThpd3VvOC14dHgzdklwNXZHcE1HVFdHYkZQQ3h1R2Itay1hQUtQTlctUFo1Sm1mY1VMOTNKWWxiSkdR0gHXAUFVX3lxTFBlWmJTOU1iX1lWUV9VUnQ1dC0wVFYtcG1NVThxNXU5azR4OVIwdEFSd2M4bWJLUkZwUkRxU1BzTFJOWlRMNkNhUE4ySTExMjJLVGpaRjRJTzd5aHlUSVJzN1c4N0VXa3BkeHJNSDVGbnVsMVFHa04tdW9oRnN0TGtmeUhxdk1lWExlVUg1a2ZYUDNQeGJ2SVBYUFpURzZIcFpORWJxbGFQWkNzYWd2eWpXZUlELTJiNWQwZGlPcDBtX2ZjU2JleHo5VkNoSHhTVFp4Y1BEZXJN?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Centre sanctions Rs 30.5 crore for PMGSY works in Ongole - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRnRvTXB6aHRybEEtVXZ1NlpIM3dLVjg5cjFQYncxVk1KWTZBZWs1aWJfdTkwQjBNQ181Y3ZWa1ljZWRhcGU1MVl5ekExRC00WU5lNXp6NjBidTJkZDdLbkc2dWpCVEFsSl95VHFYcXJLNTFwMGQwYUlvSHVKbUZla1E3bFhQaVktQW5aT0doVk9mQUNFQ1ZjWll1cDRpdFdicU5ZQVQyWlpGdTlkcm5uRk5LeWNpa3J1a0xSN2VKRdIBzAFBVV95cUxPNHpkYTZzVHhtQndXbzdJSktlbUJ1RlY0TjlHTWxXUG5oU2FOdkN6SmNwUFp6T3BiUW82Q3BVeGozXy1ULWVSQVE2N2xpM3drR204N3BVcGlDczRPNXU5U0Vob21KTWMwRnhVdU9zdUxUVlpObFdTbzBsek1sMm1mVEFlbEVRalpNTXpDaGR3RlZKcTg1TTN0TEpCWW9CSkJEcDRRNHJPNm9vSUdQLTlNc0hoNGI5b3pFT2RLZHRkNFNZd2U4S0VDTjRVVFU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Magunta Sreenivasulu Reddy and his son Raghava meet JSP chief Pawan Kalyan - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTjMwWFNYVml4S1pjNzhxVmxEVnpMcGg3ZVBLYlVyeTFWN0UwbjlXZUtCYnRBTjFzeVlZLW5xSTNQUFdIVURxOXJmNEhjUlJFQ2x5ay1VMW41WWdhYkM1R1Qtd3V2ZGJoT1E3ME9OQzlSSk9XYl9FUHhRcnFUYnRuckJiV2xHZ2kwN0hlRW9faFBraGZyMVRfZldVNENLVTdJU2pBRjZFVkJNbVVrTXZxVTRVaVdXbXljZzB0bnNZRnBhRjFqcHJud0VZNkZFWjB0U2s5a3ZJNGM0ZFRSSFJ6M2h30gHoAUFVX3lxTE44SVpmeWd6MzFTOVhTX0NUUUl6Z0s0ZHBOTWZxZ3FZTmRiaFlPajdVc1VNNUM2b2Zqck1OX25EU1pDVzJSd253Y1BRVDhsOE1faVRqc2lnTUs1VkRkaTg2eG9jb0FhTHUzcW5jQkJaRFg5b0M0cnhEb2pCZ2VlaVNMcXZrV2dNNFA0ZkdXLWtGd21LOTdpbzE2WXMzQ0pnSHZxVWZINXpnQTRJZ09mYUZ5ZW52dkpDdC1YY0xYVlJpbHRFQ242SmVsMGpOamtuY2wtdW0yRVJoaFdzM2pXV01KWG02NHFxMlU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Magunta Seeks Nod For ₹21-Cr Coastal Road - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZURNa3ItU3ViUDNNNlhybVJseldkN0R2YVFHSE5xMkVQd1U3dWFJT3h0WWpSQXlVZ2UtN2x1OUltVXR5WmJROGswTk56MDJ6TDBtSGtfQVppRndLR3BCSXlObzRFbF9qS19jM2lDMjloWlozRFlza21mTG1RTzUtYTZFVm5Ob0tfX012TVJUbEZNQmtROW9JRVc0NFpuVnNXMXFtQUI1YTEzRGVDMW9HSdIBtgFBVV95cUxQRXJQRmdWLUw2UWlwM3NyYnY1WXB6UFlFTU1HNWozMEhOY1AxTVZDaU5OOF84N01pRHVRb0c0aUo1WnpDd1JWdnFwSDRMRVVqQnhjNWJORGdvTHpTSXp3SlhpdkVEY1g2QXdZYzRFRHdiZzlNTVFLVFhtdmlTbDJHZTI4elRrSjlGNlM0cVlJdXY4TmRlRlk3VUdxUzV6alhDQWs2c1VDYXQ5Y243cDllRElxcDdVZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Andhra Pradesh: Ongole MP Sreenivasulu Reddy resigns from YSRCP - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGdQVmg5T2h1RVBKRXNocnRFWS1oTTdZQWNyb29PdDA5Mm9ObEpuWHFURW5GUDdTRXNZNFl0WFU3b2wzaDhuNDVZMkdCN1dWNUIyU294Nmw3cHZWRWxrZXhfY0hLSEVwa20xMDVKaVkxbnNrY25LLVd0NG54ZGJTTlhSQ1pBMnpyak1famUxYVJ4RVRvOEQycklXQmNBOExFZ1NqcS1RQzNUd0lISHN1S1A5NDByRldvWWxxU19FVdIBxgFBVV95cUxPb2U3eFFKZ1ZFVWZsR2o0eW9TNm8wbW5oYVIwN0xZelh2X3Z3SzRIamJMR2w3WEZxdHh6dWN1bVRQdkdRVjJWZkZ1LVMyS3NKSjlrZVBrdHJPLTIyandfbjJGLV9mLTdfUno2UEVhUWxST3dPWWk4V2xoemJjV1N4QUNOYkFOM19JVGcwT1BKOU5UN0YzcWJVVkl3SS11ZXhFd3lKWEIzNWgxdjRrbUFyVGRsTWhmOGlCM0RVUnFxdzZFQUh4UEE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:28:23.271825Z",
+    "collected_at": "2026-09-02T14:51:14.720816Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.482438Z",
+          "fetched_at": "2026-09-02T18:38:03.965666Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.482447Z",
+          "fetched_at": "2026-09-02T18:38:03.965677Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.482452Z",
+          "fetched_at": "2026-09-02T18:38:03.965688Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.482457Z",
+          "fetched_at": "2026-09-02T18:38:03.965694Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.482463Z",
+          "fetched_at": "2026-09-02T18:38:03.965700Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.482467Z",
+          "fetched_at": "2026-09-02T18:38:03.965704Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.482472Z",
+          "fetched_at": "2026-09-02T18:38:03.965711Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -277,32 +330,32 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 1,
-      "negative": 0,
-      "neutral": 9,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 8,
       "top_headlines": [
         {
-          "headline": "MP, MLAs meet collector over dist development - The Hans India",
-          "source": "The Hans India",
+          "headline": "Tributes paid to TDP founder NTR on his 103rd birth anniversary - newindianexpress.com",
+          "source": "newindianexpress.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTZBRmJqRUpMRzlVaUlfclVEOUVpa0dmT0QwT1JCbFBHSWdYSW1jd0NfLTFmUy1tZE9wakk1TlRCaTJLaS1OZDV5a2JITHFOVE4zcHZ0OVptWGRmWXdoVk5WREh1eEZpRXIxaXlCV0hPWVdEbldQdXdBcmphNGZzMmpIWnlRWm52OXpLck9yVml0TVdUNVRmMDNaVUNRZWREMlHSAaIBQVVfeXFMTWE2QUZiakVKTEc5VWlJX3JVRDlFaWtHZk9EME9SQmxQR0lnWEltY3dDXy0xZlMtbWRPcGpJNU5UQmkyS2ktTmQ1eWtiSExxTlROM3B2dDlabVhkZll3aFZOVkRIdXhGaUVyMWl5QldIT1lXRG5XUHV3QXJqYTRmczJqSFp5UVpudjl6S3JPclZpdE1XVDVUZjAzWlVDUWVkRDJR?oc=5",
-          "sentiment": "positive"
-        },
-        {
-          "headline": "Foundation stone laid for TDP ongole office - The Hans India",
-          "source": "The Hans India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGRFOEx2a3Y5ZVZlb2ZCZjA2bHU5REUxTEdKYktKNEtNWWtWMGhFN0dXVTc3V1B2M2hneTlUSlZFd0RQQVFsRVUyZUJ3WWdhbHhTM1U0b1hOZmNmalp3V2pNZ1ptQkQ3dWc3bjZCUk9UMHdFSGFiT2lDS2JGNFR4elRkWDZqVFVCVU9tbHh3LUI4bHBOczBHRHNuSdIBoAFBVV95cUxOVWtYelpWNDRGdnZMTV9RMlpXbkpBNW1iclgwQURVUWgwdUwtTlR6RmZXXzlma2xFU3RaRlhoeTUxVzRZTlBxRHhoS0F2U1g2WG1INm9uVjlnempXeVJhSFNPYnBkUVV4aVRpcDE1TUowa2F4WUU2ZDZuRUd4X25SSGdWQVFfdVhrSjhsejZHUDIxUUx4UlBZNTJ3M3J5NG51?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQamIxRHVkNk1KX0dpRkpya0lsek1va2xDcjhhd1NEaUVNVnJ6N1hpaGFsZ2I2Vk9uam9YUFluMlBjQXFWcGNPNmVIMmxzbEl4aUhkOERjeVNxOTkwSWwxcHowTzNYeUVaZEhsS3JILUZFcWZWN3hSejRsMlFOSEZaLU1IVHVfWnY3RDZ4Rll4SThpd3VvOC14dHgzdklwNXZHcE1HVFdHYkZQQ3h1R2Itay1hQUtQTlctUFo1Sm1mY1VMOTNKWWxiSkdR0gHXAUFVX3lxTFBlWmJTOU1iX1lWUV9VUnQ1dC0wVFYtcG1NVThxNXU5azR4OVIwdEFSd2M4bWJLUkZwUkRxU1BzTFJOWlRMNkNhUE4ySTExMjJLVGpaRjRJTzd5aHlUSVJzN1c4N0VXa3BkeHJNSDVGbnVsMVFHa04tdW9oRnN0TGtmeUhxdk1lWExlVUg1a2ZYUDNQeGJ2SVBYUFpURzZIcFpORWJxbGFQWkNzYWd2eWpXZUlELTJiNWQwZGlPcDBtX2ZjU2JleHo5VkNoSHhTVFp4Y1BEZXJN?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "DPR for Ongole airport to be finalised soon, says MP - The Hindu",
+          "headline": "Centre sanctions Rs 30.5 crore for PMGSY works in Ongole - newindianexpress.com",
+          "source": "newindianexpress.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRnRvTXB6aHRybEEtVXZ1NlpIM3dLVjg5cjFQYncxVk1KWTZBZWs1aWJfdTkwQjBNQ181Y3ZWa1ljZWRhcGU1MVl5ekExRC00WU5lNXp6NjBidTJkZDdLbkc2dWpCVEFsSl95VHFYcXJLNTFwMGQwYUlvSHVKbUZla1E3bFhQaVktQW5aT0doVk9mQUNFQ1ZjWll1cDRpdFdicU5ZQVQyWlpGdTlkcm5uRk5LeWNpa3J1a0xSN2VKRdIBzAFBVV95cUxPNHpkYTZzVHhtQndXbzdJSktlbUJ1RlY0TjlHTWxXUG5oU2FOdkN6SmNwUFp6T3BiUW82Q3BVeGozXy1ULWVSQVE2N2xpM3drR204N3BVcGlDczRPNXU5U0Vob21KTWMwRnhVdU9zdUxUVlpObFdTbzBsek1sMm1mVEFlbEVRalpNTXpDaGR3RlZKcTg1TTN0TEpCWW9CSkJEcDRRNHJPNm9vSUdQLTlNc0hoNGI5b3pFT2RLZHRkNFNZd2U4S0VDTjRVVFU?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Magunta Sreenivasulu Reddy and his son Raghava meet JSP chief Pawan Kalyan - The Hindu",
           "source": "The Hindu",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcWQ2SzBlUkppZTc0dlJ4djhhY0JFQk9YS0VUeTlXajdTZEM4X3Y5VlhHUGpkSE9rQ081RThJS2FXU19EY3B2bmNjTE5ZNTZ2V1NLSEloeG4waHVhR1drcUJXamlMcUNSZ0I0VlF6SjMzeUY4UU1iajBJcWV4aWpiVTJWckFRVEttMFJpY05aNDN4UGl1dFFxSnk3NFVLdWVSQW9xTTV0WG9meXBmZVBGMkVld2NKVDFrS0g4b3JwN1lBTFHSAcoBQVVfeXFMTzNQa09uWjRvN2paMTYtYlVqTFU5RjMzZDdHcUVMOXc5clB2VU9jQVE0MjdrRXJuU3NhNlRTTWh2RnhMLXdjR0RYeFltdUUzYUNqbERQektoSEF3VG42RTFHdVYwWlpldGFQZ0p0RTFGUUJwbFBjdHR0am1NUWtzZndoejJTU0Z3T2dQYjFURzR4aEtSdExVLWhhZXZsMWZaVTdFS0hJN3A3c0g1ck9PdVpsRF9tUlBnaFBlR0VqQ3dWclFWZlpIY1BIZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTjMwWFNYVml4S1pjNzhxVmxEVnpMcGg3ZVBLYlVyeTFWN0UwbjlXZUtCYnRBTjFzeVlZLW5xSTNQUFdIVURxOXJmNEhjUlJFQ2x5ay1VMW41WWdhYkM1R1Qtd3V2ZGJoT1E3ME9OQzlSSk9XYl9FUHhRcnFUYnRuckJiV2xHZ2kwN0hlRW9faFBraGZyMVRfZldVNENLVTdJU2pBRjZFVkJNbVVrTXZxVTRVaVdXbXljZzB0bnNZRnBhRjFqcHJud0VZNkZFWjB0U2s5a3ZJNGM0ZFRSSFJ6M2h30gHoAUFVX3lxTE44SVpmeWd6MzFTOVhTX0NUUUl6Z0s0ZHBOTWZxZ3FZTmRiaFlPajdVc1VNNUM2b2Zqck1OX25EU1pDVzJSd253Y1BRVDhsOE1faVRqc2lnTUs1VkRkaTg2eG9jb0FhTHUzcW5jQkJaRFg5b0M0cnhEb2pCZ2VlaVNMcXZrV2dNNFA0ZkdXLWtGd21LOTdpbzE2WXMzQ0pnSHZxVWZINXpnQTRJZ09mYUZ5ZW52dkpDdC1YY0xYVlJpbHRFQ242SmVsMGpOamtuY2wtdW0yRVJoaFdzM2pXV01KWG02NHFxMlU?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,11 +367,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Ongole MP Magunta Sreenivasulu Reddy quits YSRCP in Andhra; fifth MP to resign - The South First",
-          "source": "The South First",
+          "headline": "Andhra Pradesh: Ongole MP Sreenivasulu Reddy resigns from YSRCP - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLWh3Si1FWUl1QTB3M1dFbmFIWC1UbWJnUkZKTzhXa3NaWWRXRUNjLUxkRnBYYl9XaG9aR21jMVhuYmpZLXc1OFlycHlJTzRIZHFGY3UtYlJhTHRkckhYb09yOWYwcHZuVHJad2NwTk1RM0pFUG9veTl1TVlzZHdsT3lsNDRUTkM3SUtWREs0bmktUzh4SXpjZVZiY3ZJZnhrOC1hMVJPNmhBTmpiLXo1WE04TnZIR0hTcDVJR2NDWERmRmlyNC1TaXBPWjRZa2VFYnNQRmtkVTIyV1NpVElzaQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGdQVmg5T2h1RVBKRXNocnRFWS1oTTdZQWNyb29PdDA5Mm9ObEpuWHFURW5GUDdTRXNZNFl0WFU3b2wzaDhuNDVZMkdCN1dWNUIyU294Nmw3cHZWRWxrZXhfY0hLSEVwa20xMDVKaVkxbnNrY25LLVd0NG54ZGJTTlhSQ1pBMnpyak1famUxYVJ4RVRvOEQycklXQmNBOExFZ1NqcS1RQzNUd0lISHN1S1A5NDByRldvWWxxU19FVdIBxgFBVV95cUxPb2U3eFFKZ1ZFVWZsR2o0eW9TNm8wbW5oYVIwN0xZelh2X3Z3SzRIamJMR2w3WEZxdHh6dWN1bVRQdkdRVjJWZkZ1LVMyS3NKSjlrZVBrdHJPLTIyandfbjJGLV9mLTdfUno2UEVhUWxST3dPWWk4V2xoemJjV1N4QUNOYkFOM19JVGcwT1BKOU5UN0YzcWJVVkl3SS11ZXhFd3lKWEIzNWgxdjRrbUFyVGRsTWhmOGlCM0RVUnFxdzZFQUh4UEE?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 55,
+      "starred_questions": 16,
+      "unstarred_questions": 39,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,11 +452,17 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
     {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
-      "issue": "Extremely low utilization rate — verify data",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -420,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Andhra Pradesh: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 579,539,820. MPLADS utilization: 5.2%. Parliament attendance: 85.0%. Questions asked: 55. Debates participated: 3. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:46.483336Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Questions asked: 55. Debates participated: 3. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:03.966623Z"
 }

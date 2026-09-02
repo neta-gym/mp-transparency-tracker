@@ -35,59 +35,73 @@
       "photo_url": "/mp-photos/157.jpg"
     },
     "criminal_record": {
-      "total_cases": 2,
+      "total_cases": 0,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 2,
+      "pending_cases": 0,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 534587828.0,
-      "liabilities": 6567670968.0,
-      "net_worth": -6033083140.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 85.4,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 18.06,
-      "released": 18.06,
-      "sanctioned": 3.86,
-      "expended": 3.17,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:46:13.338607Z",
-          "notes": "Official eSAKSHI REST API — Works: 148 recommended, 43 sanctioned, 11 completed"
+          "fetched_at": "2026-09-02T14:27:19.872739Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:21:54.917506Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:22:31.029832Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 148,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 17.552602436323365
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 25.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:20:21.563481Z",
+          "fetched_at": "2026-09-02T14:22:29.662808Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Arakkonam election results 2024 live updates: DMK's Jagathratchakan wins against AIADMK's Vijayan - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPalEyUnhMcjJENHFTdk1zUGpSV3NWc3Y0cnRrZEVPZlAyRlo0dWJwQXVHLUJJSnBfX19FaTBPM0YzS09oNTctWjNFMlJoMFNsRlkwOXowdW9ocm5DeXlKdFJvSXZSU1RpU0VkaEhEVGo4RlVhS1FTcTczZS1YVHdOblloQWxPREZTUUxXM3JBOEh3aWk3MjNrQnRMY211SnRRczhmeGc1Y2VfUGpwbmdReFpiNFVzazd5dndZNnR6emxSODFpTGZxcmZBU2tWRW1HbkFjREJadzNWTm5UekkxOTQxTDRrUjFCTFpWSkxNNi1EVUNYRUpkaTRSY1lUNWNCNGJFaHR4UG03b1pRTHpOTUhJeVgyNHc4UEFLTnRsMGw2a3A1dmtxMlB4ZGFPRE1lQTN5cER0YWJUMEsycnl5dy1Ucmp2NzNKWXfSAc8CQVVfeXFMTVc1OTV6Ui1raURkYjJOeTV0MTVOcGs1eWV3OFlLRmJqVzViaFZ3ZEtXRGhiRlBETU1Vdll6UDM1YU5aMlZsbnJKT0JBeU9Mb1o5Q0VLYTR1LXlmRm5OeWRMYXl3dFAwZzl2Z3Rfal9oWTcxVGk3aWtRVzRvQnZEU2FrT3lvVW5lTnZFS2RTMDhFMy1aaDFmZEdwRnZ4cDlFbGUtTE5NeFNDZndEeXVaeVlJUVMwdFlDWWJwZWJJMGdlaXZvbERvWWdLUHN2dEZGakt1cVRtX3hGWERuS1N4eDhFM09rTDJGc0NvYXJVa0JPSnNCMG9aa2ZLNXJ4UUVOUHREU0dIc2NBbWF4TFdHRDVjcVc3WDBudEQtTTkxUDhRVlU1NTBtamNCYmhwOWFMdEdPSzRmSmZVd2VGT3JHcG52OHRwaDdXOXV5YjgzUWM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "ED Fines ₹908 Crore on DMK MP Jagathratchakan for Foreign Exchange Violations - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUJlMWowLU1ta0pOVmlqa0R5blNnSnBHWG1Gb2ZsOWNTekNSeHBYMzMtbjEyOEFiQm8yY2ZfX1ZiMTdURjdSTzBBX1JpMVBlYlByT0Rfb3hmSHk0TVpBYk1PMGxlMk11LUFNTVpWbW1ITUFET0taYTF6WXV5bW5GLTFoZHgyM2poQXVzTVM4dlNDWGdhdlJ2STdwWDJnWFZaODZBaXprbUpFYmfSAbIBQVVfeXFMTWdya1h5bzA2R2dNSDgtZ0VndERwUVJna0M3dGFxU3l2c3hVQXd2UjR0OVVRVWtRNW9YU3BmMEZnOWhSUHVtYVFRZjRNNFlpYkhPc0ozcE1VT2wtQkxyQjZYcWkzSVY5WWU2N0JuNlhpQWNPRFk2VUtIMVYwTjVteUY0NTRMaDd3ZnNCUldlMFYzcFlVUUxSQjFNaFhoSlJIbnRySFFfMnpIYTFIQU83SnlOZw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "ED Imposes Rs 908 Crore Fine On DMK MP S Jagathrakshakan And His Family | Details - Outlook India",
+        "source": "Outlook India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVo2d1IyX0pDX0NZMDRDR1VJUDZrN0dSQVliSGlHQldSUFdWWjNMM0ZHUktyd2RtSXBuRDlfLTV4YzdnYTd5UG05Y0xhcUZjZGJwbWVLN1NOUmZSaW90bU53Q0RNYm9pa1F6TVdSemc5OExjaVAyeTFvNDJ3V2lFU0NTZEJENFlMM0ExUnFoeVNLaGdHcFJfa24xakUwT2gwbDByV0R2N2h4eE1IQXBRbEJXbXJkWkQ10gHGAUFVX3lxTE1CcDVwNElSMmN5VmZkalk0SWJWMUpRa0ViQkltUzVVczVCNHNPSUxkeHNRSXhKbEdGTTdJWXFUcEdHTmhvNVNxdm1CM2ZOTHhxMVJoekdDMC1ZV1BzdTdZMVhyMDZNNlNhMGgzX0EtZzZwWVJWS3E2TUllbWpTSWUxZEk3U2pkcUxWVDgwUUFValk3dmdOOGtLcU5mbHlqZHpHOFJBRURWbjZjVGxyT0NTNW1oUmg1UTJYNXV0RDJxNXdVYXBBUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "ED fines DMK MP Jagathrakshakan and family ₹900 crore in FEMA case - Livemint",
+        "source": "Livemint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTZRS1I4NktIckR0QWF6QjBHZTJXaDh3QXAxMDBuWERJbFhCUmFMbXVOVm5XbG1FNTZjLTBHQTF1ZnVBVW5QeEZYd2Jkd0Z4clBTYTV1WlZRak5MMExKSE9IZEhUUWtiUHBLVjhSWDBtUXhkOHhxMkYzay1CRDBWZFZ3STdzVTM3blJKYXYtdUxQZHdlbkhhVVBQdVcxOW1pdDB6a1czUjA2bVA1aTRIdkFyUXktd1F6ZTVnNGtWS1NwUdIBxwFBVV95cUxOeE1fUFNhSXBjLXJkTG1uMGQ2TlNHSUNrZktFR3hXcWhLcGVZWTNhTVVKZURwSjhocllBdExwVVROXzFMcTlvQUpTT0luTm55T2J0cnpFbEtLN0dKWFl4WDNqTXdFaDBaVGp4djNnNXZ0MnVVN0M5NXQ1ZWFSM3ZRYmpPdHlDWTZBZXJKV2VKcl80aEpnVk92elFTdjUwSVRoX1dNR2d1a29FemZXQWxYOTdTQVZ4YUsyVzdwQUJRR19WRUlxQTFB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who is DMK MP S Jagathratchakan who is fined ₹908 crore by ED? | In 2011, he reported assets worth ₹70 crore | Inshorts - Inshorts",
+        "source": "Inshorts",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWU9iWExZZHB3Z2FJQXJmZW1GVFFPUWlPSmxmTm40VEFkWjNhbjFZS3E5bW5aQklGc093eG1RZzV4MHR4VlhfdUJZZmRPeFFoQU9TdU1oYl9lQUNaWm1xUEg2ZWI5bjFLQW91Z3lWWDl4cDdWaDljYzFxNlVtTm1EeU5fMVNtZV9ITXRmNXVyU2RqNjRQY2FGRW4wdmgxVlFlSWhlSlg2ZTLSAa4BQVVfeXFMT1lzbW5YLTRBNzVNU010bnQ5R3hvcFhmVmRha2dRN3ZfWDU1amlSRWRwcEdpR09EYkhiT045U09sU1U1NXNPQnVic0VCNENXVEJTaEUtcl9YRVlOQTlSaEJpTWtmT2pIYVdmOFNRRU5IbWRIbUtYRC0ycUhNWmdIU2hFRDlpUlRydnRYWm1iZUtNd3lnaGhLVTRONG9IaG1DbWxsY3AzVHZhcXp4MGFR?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:20:50.150139Z",
+    "collected_at": "2026-09-02T14:27:23.880548Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.318161Z",
+          "fetched_at": "2026-09-02T18:38:09.775395Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.318170Z",
+          "fetched_at": "2026-09-02T18:38:09.775412Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.318175Z",
+          "fetched_at": "2026-09-02T18:38:09.775422Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.318179Z",
+          "fetched_at": "2026-09-02T18:38:09.775432Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.318184Z",
+          "fetched_at": "2026-09-02T18:38:09.775442Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.318188Z",
+          "fetched_at": "2026-09-02T18:38:09.775450Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.318192Z",
+          "fetched_at": "2026-09-02T18:38:09.775458Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -265,10 +321,10 @@
       "sources": []
     },
     "news_sentiment": {
-      "total_articles": 10,
+      "total_articles": 6,
       "positive": 0,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 6,
       "top_headlines": [
         {
           "headline": "Arakkonam election results 2024 live updates: DMK's Jagathratchakan wins against AIADMK's Vijayan - The Times of India",
@@ -276,14 +332,6 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPalEyUnhMcjJENHFTdk1zUGpSV3NWc3Y0cnRrZEVPZlAyRlo0dWJwQXVHLUJJSnBfX19FaTBPM0YzS09oNTctWjNFMlJoMFNsRlkwOXowdW9ocm5DeXlKdFJvSXZSU1RpU0VkaEhEVGo4RlVhS1FTcTczZS1YVHdOblloQWxPREZTUUxXM3JBOEh3aWk3MjNrQnRMY211SnRRczhmeGc1Y2VfUGpwbmdReFpiNFVzazd5dndZNnR6emxSODFpTGZxcmZBU2tWRW1HbkFjREJadzNWTm5UekkxOTQxTDRrUjFCTFpWSkxNNi1EVUNYRUpkaTRSY1lUNWNCNGJFaHR4UG03b1pRTHpOTUhJeVgyNHc4UEFLTnRsMGw2a3A1dmtxMlB4ZGFPRE1lQTN5cER0YWJUMEsycnl5dy1Ucmp2NzNKWXfSAc8CQVVfeXFMTVc1OTV6Ui1raURkYjJOeTV0MTVOcGs1eWV3OFlLRmJqVzViaFZ3ZEtXRGhiRlBETU1Vdll6UDM1YU5aMlZsbnJKT0JBeU9Mb1o5Q0VLYTR1LXlmRm5OeWRMYXl3dFAwZzl2Z3Rfal9oWTcxVGk3aWtRVzRvQnZEU2FrT3lvVW5lTnZFS2RTMDhFMy1aaDFmZEdwRnZ4cDlFbGUtTE5NeFNDZndEeXVaeVlJUVMwdFlDWWJwZWJJMGdlaXZvbERvWWdLUHN2dEZGakt1cVRtX3hGWERuS1N4eDhFM09rTDJGc0NvYXJVa0JPSnNCMG9aa2ZLNXJ4UUVOUHREU0dIc2NBbWF4TFdHRDVjcVc3WDBudEQtTTkxUDhRVlU1NTBtamNCYmhwOWFMdEdPSzRmSmZVd2VGT3JHcG52OHRwaDdXOXV5YjgzUWM?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Jagathratchakan and the art of juggling politics, business and scams - Mint",
-          "source": "Mint",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVGpudk1YeDhhX20zbkdtSnRxYURVLUNhVnNBM0tWUWJvUTVXQVpTQ0JZNzczZE1ta1B2NGRvNFA3UkZRN1p5dGFZSVJORE00U19Hdkt0ekJZQVZrM1RVZmpTMktuemEwLXdpbEhFa29PaTROQjBoeDdKSEg0aWs5aUhLRzdaR3Zpa0ZJaXRqajFyc1B6U0U1V2laLVNwM1dvcjdvYVJHZ052V1pybHFtVmF0MHptdXowbnE2MDFzaW9ab3I0bFJ0WFlncjFsOC1aWk9CVlIwb1RtM29KSXlTeWczd1JTalY4SDlvWUZlWmxHejNSLTJxamF6dllhUjVT0gGGAkFVX3lxTE5zaTNhakJmMEFRQzl3bmxpTXR1dTlMSWUtd3Z2dUVmMlFMT3NRWWRMYlI4MW5QY1lqN1M0M3M0WlZ0ZDRESXkzRzNpRm9HaS1hVHgwSTI3YjVfVmxTaEgwX2dPLVJReHVvRHhDRVV0ZjlDSEFZbDN2OWNIOVdIWGc4SFRPMVVEcGVBNlBLU25VTXNTeUZqdm05MEQzYWFrUHZyT3ZyNU1IQnFWSk9nUmxLc1lYd1FkMFhMQVlqeURqVFR2dVgzeWV4dGUtRVdDdjRGRzRkcFRFeTJaSktNQVV5U29HN256bmJ0MmJScS13ejBzNW1wWjc3OEZISFhJY2hGQkxza3c?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -295,23 +343,31 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Who Is S Jagathratchakan? DMK MP Slapped With Rs 908 Cr Penalty By ED In FEMA Case - Zee News",
-          "source": "Zee News",
+          "headline": "ED Imposes Rs 908 Crore Fine On DMK MP S Jagathrakshakan And His Family | Details - Outlook India",
+          "source": "Outlook India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JsWkl4eXdTVTNKN21LRUduOFVPR1ZPc3NhRkxackt5cGRGR1RNYjdrcGwyZnQzbEFtT21ENWE5bDFPUUtpYTNpMFZxMUF6dEdfVVZwZ2RRa1RYNm9tUFlyYUNUREtHaGh5WWlELWU4LWZWTVk1YVJWbC1zaGtaemp1ZmpiazVBYXd0WjFReEhSV2ZnZ3RUTjZSQTg3VjJORUhmejBpQmZUSmlDUHhoTHAtWnk3d0cyVmZTS25VcG10eUZG0gHKAUFVX3lxTE1idGk1N0M2WWVHNjZxVDdBSnhBX2pMaXlzTm1wZGFBT0FhT2l2My12YmRFOEhqamxpdE9ldWZET2h6MWdrUWpYMndzanlQM1dacU5QWG44NXBDbEJ4WE1iYWlXSWV6NlhDbVVEdVppcnMzdHJCTVFqenFFSGxTLV9WaFBjZXhBcm95cnJkVGZ5ODg5ZkdOMTNYdVRSRHYwUENMaXFoY3JGemhvNHJTYkc4cmlZeTRudmtacVBZbkpTQllZem1Oc2VmVEE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVo2d1IyX0pDX0NZMDRDR1VJUDZrN0dSQVliSGlHQldSUFdWWjNMM0ZHUktyd2RtSXBuRDlfLTV4YzdnYTd5UG05Y0xhcUZjZGJwbWVLN1NOUmZSaW90bU53Q0RNYm9pa1F6TVdSemc5OExjaVAyeTFvNDJ3V2lFU0NTZEJENFlMM0ExUnFoeVNLaGdHcFJfa24xakUwT2gwbDByV0R2N2h4eE1IQXBRbEJXbXJkWkQ10gHGAUFVX3lxTE1CcDVwNElSMmN5VmZkalk0SWJWMUpRa0ViQkltUzVVczVCNHNPSUxkeHNRSXhKbEdGTTdJWXFUcEdHTmhvNVNxdm1CM2ZOTHhxMVJoekdDMC1ZV1BzdTdZMVhyMDZNNlNhMGgzX0EtZzZwWVJWS3E2TUllbWpTSWUxZEk3U2pkcUxWVDgwUUFValk3dmdOOGtLcU5mbHlqZHpHOFJBRURWbjZjVGxyT0NTNW1oUmg1UTJYNXV0RDJxNXdVYXBBUQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Arakkonam Election Result 2024 LIVE Updates Highlights: S Jagathratchakan of DMK Wins - News18",
-          "source": "News18",
+          "headline": "ED fines DMK MP Jagathrakshakan and family ₹900 crore in FEMA case - Livemint",
+          "source": "Livemint",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTWp0bGJiTlloZHotN2dDeHB1UUpCQWxvWDlmcmtZbU5pdVp1bjdMWG1HODBqVmlYdWtzdnhERUNieHhOd3h4azlhMDhzUzBEcU9DYzZiQ25HZmVXV215MG9MSmhlMVpmQzZMZGxxSy12UTRSWm5pT3BQQWNlOUZlanlfZzVmSERNdUd1NWFJbmZGZ1FRRmpoU1pFdDV5cmoxWEZhMWRYaWh5c3E1NVBhcWMyanBfbjlHSm1uZmJmWVlSU1RoQkV1QWZLZEVRQzRRV2ZMYXlQMWVlUWxiUDU3OTdVMUbSAeoBQVVfeXFMUDlBRnRtampfaDkweTJybHFEcHVGTkYya25teDZZMGhtbEt4LTE1OGYtWC1hZ1A5dUNORlZnVDh6TjVpQy1kdE16M1dBeWJaZnltdzIyR1EweHRUZnpLRV9ySTMzVTFhV3VHN2ZPYTBwZmxHaGg0WVIyNTBWbWl1VmZ5cGNyTjV2aDRiNHdSOVhHMTlyVU0tZUxVenpYdW1lSVhkRzVmQmQ0YWlRR3VZdjNJSm40TXItbDN1V05XYnItNWkxTENCbGt3cUhaUHFTS3EzeU95Y3RJb1hXU0hVaXBUaXhDcDlaVGx3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTZRS1I4NktIckR0QWF6QjBHZTJXaDh3QXAxMDBuWERJbFhCUmFMbXVOVm5XbG1FNTZjLTBHQTF1ZnVBVW5QeEZYd2Jkd0Z4clBTYTV1WlZRak5MMExKSE9IZEhUUWtiUHBLVjhSWDBtUXhkOHhxMkYzay1CRDBWZFZ3STdzVTM3blJKYXYtdUxQZHdlbkhhVVBQdVcxOW1pdDB6a1czUjA2bVA1aTRIdkFyUXktd1F6ZTVnNGtWS1NwUdIBxwFBVV95cUxOeE1fUFNhSXBjLXJkTG1uMGQ2TlNHSUNrZktFR3hXcWhLcGVZWTNhTVVKZURwSjhocllBdExwVVROXzFMcTlvQUpTT0luTm55T2J0cnpFbEtLN0dKWFl4WDNqTXdFaDBaVGp4djNnNXZ0MnVVN0M5NXQ1ZWFSM3ZRYmpPdHlDWTZBZXJKV2VKcl80aEpnVk92elFTdjUwSVRoX1dNR2d1a29FemZXQWxYOTdTQVZ4YUsyVzdwQUJRR19WRUlxQTFB?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Who is DMK MP S Jagathratchakan who is fined ₹908 crore by ED? | In 2011, he reported assets worth ₹70 crore | Inshorts - Inshorts",
+          "source": "Inshorts",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWU9iWExZZHB3Z2FJQXJmZW1GVFFPUWlPSmxmTm40VEFkWjNhbjFZS3E5bW5aQklGc093eG1RZzV4MHR4VlhfdUJZZmRPeFFoQU9TdU1oYl9lQUNaWm1xUEg2ZWI5bjFLQW91Z3lWWDl4cDdWaDljYzFxNlVtTm1EeU5fMVNtZV9ITXRmNXVyU2RqNjRQY2FGRW4wdmgxVlFlSWhlSlg2ZTLSAa4BQVVfeXFMT1lzbW5YLTRBNzVNU010bnQ5R3hvcFhmVmRha2dRN3ZfWDU1amlSRWRwcEdpR09EYkhiT045U09sU1U1NXNPQnVic0VCNENXVEJTaEUtcl9YRVlOQTlSaEJpTWtmT2pIYVdmOFNRRU5IbWRIbUtYRC0ycUhNWmdIU2hFRDlpUlRydnRYWm1iZUtNd3lnaGhLVTRONG9IaG1DbWxsY3AzVHZhcXp4MGFR?oc=5",
           "sentiment": "neutral"
         }
       ],
-      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "sentiment_summary": "Mixed/neutral coverage (6 articles)",
       "confidence": 0.5
     },
     "legislative": {
@@ -341,15 +397,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 46,
+      "starred_questions": 13,
+      "unstarred_questions": 33,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 88.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +413,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 25.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Low attendance",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,11 +444,23 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.14,
   "flags": [
     {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
       "field": "assets",
-      "issue": "Liabilities exceed 5x total assets — unusual, verify",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
       "severity": "warning",
       "suggestion": ""
     },
@@ -409,12 +477,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Tamil Nadu: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 534,587,828. MPLADS utilization: 17.6%. Parliament attendance: 25.0%. Questions asked: 46. Debates participated: 2. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:52.318906Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 25.0%. Questions asked: 46. Debates participated: 2. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:09.776605Z"
 }

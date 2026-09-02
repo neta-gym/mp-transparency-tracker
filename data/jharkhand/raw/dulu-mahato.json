@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5664.jpg"
   },
   "criminal_record": {
-    "total_cases": 22,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 22,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 70120183.0,
-    "liabilities": 172283517.0,
-    "net_worth": -102163334.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 48.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 6.13,
-    "expended": 4.06,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:22:58.560163Z",
-        "notes": "Official eSAKSHI REST API — Works: 240 recommended, 167 sanctioned, 55 completed"
+        "fetched_at": "2026-09-02T14:35:05.520787Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:31:00.870691Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:31:00.868230Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 240,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.619047619047617
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 90.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:23:09.156511Z",
+        "fetched_at": "2026-09-02T14:31:00.867243Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Dhanbad MP, Nirsa MLA trade charges over coal mining, devpt - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMEZnTXZoZ2haR0dqT0ZCVktoRTNwMzBpazRSYm50OTlLQlVWdUFDSDFrSWRPSmp1czY0TVl2M244MmNmYk5lOGZBUERaWDNfWXVRM0NPeE1xQ0pzX0R6eGZwYW9uVVRfc2RJV0FmWnI1US0wM3lEaEdrajJLbnBaN05mT0RPczNNVXpiVVlyUjNrQUkxR0hEU2FfZExEY19GdnQwRnh1amE4dnNOdlhZSlF1MjJuVDFiVEFUV2pmQUpSM0dqV01Zd0tMZ9IB0AFBVV95cUxQYldnQ3JIT0RvZVRJcFhVZWJUUEl1Q2NWcjlSdjk0cWRBdUUxSzIteFpkTE1xS29QQ09YR19tSHVTWGlidzN4N0otdlRUUnE5QV80VlpwOURfU1psa2taVlVVcnFzN1ZGcGVtcmFtUE1rLWg2TG43T1FuX0JnUXMxVEMxVXBYc2otWTc5VTRvODVnalRROVpOdWo3bjNQNE9rd21nQnY2SlRVeWg2azZ6TTROQ2VxTVAyQ3RqZ0hmQ3d3SWFsb2YwX09peGhZWi1t?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dhanbad MP Dulu Mahato sends Rs 2 crore defamation notice to Nirsa MLA Arup Chatterjee - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRl9oN1VVdmVKNnRDRklMN2w4cnRlc3NnVkN5OFEyREc2akpUaUMxdFNPUC1GTzhTak15ckJfM0M1TU54M0JFMDB5SEU3NDYtbnlHejVlRGNwekhtRzU3MGdkUEJaeC10SlRXbFVfS1dZWExoYzFuVWVxU0tJZ3JQaVIyUndLcWpoT2FiTDNVWVlqZmRqS0xGYjFHQWtUOUxIaklVZFhmQXdOanZST0ZGd1NCbzA2dmhmcGJoQnFQYnBNQ09OZzU0N2pHOFZaaHdhTUROemFwTmRoQ0dQdTl4cUIyRGxxcUxyS28teXp2ai1wZ9IB9wFBVV95cUxOcVlyeGhnMUthTlBURGx6YVBxcjRXUnhCbkd3eFpBWDVNeVA2ZHI0cVFQdFhtLTNlZzVZeTlNeXhCQjVFZnk5Qk1NSVlWZjBwMGs4Wlc5cUZUVFlucHE4Rl9yT19qR0IxS2djbnhZNGNmOW9iVm5NYzdneElVdGJ5MTZWRi1FWFQ0a1FVaXNHTy1tVVdGNjZiTHVRek9aZVM2UUg4MWFVcXlzcngtQWxxZ29xYzY2MW1KR3F0Wk1fOWxkLVlTTXQ0OFhtakJtcEhGdU1tdGFobF91WnBiSnlzZ3h0cjBkTTc0QV9qYWhvNmpvUjVndUx3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Dulu Mahato intervenes: Dhanbad MP Dulu Mahato faces backlash for stopping anti-encroachment drive; Pr - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNZWJuM3hWR0JITGtyQThCSElQcDZPcmxyNUUzc0pxT19PV2U3UmUxOEZ4dmdNUFpBMEdna1d3TnpuYzZ1XzFIalFfQmZkVVdvalBvV2JiTHRtTWMzTnR4ZHdWM2RBUWR2SmEtVTVTc29XYWxSTy1yeVZKeS14UWt0TkxkaUNxVEJTX1kyUlM4ZmlVMUpuaElhQmRFMmFpaTkyVkZSMjVBU0s0RkF2Uy1sdDJweExET1MxbWpxNUNiaEt1ZXdQS0hwM01lSy1nZEJjSEVMVno3OC01dW5INWhST0k0anRnOW8tN2phUHVpNWxEanBXZ3NBOEdIbkE1amtKUEFGazFwMV9XdmZ3WE1YTi1OUUE4bnZXbS1hZ0xTM1pvVl85eEY4ZnliMFJLaXA2c09odXVKVVdvV2JvUFVQVURGSGUyQdIBywJBVV95cUxOTFlnTzBILWUyR2prbU00TElxa0dYc3U4TXFvaFFXOEg5NlczaXlvTkMtcE84NlpmOFBoMm40TFBfVVFxdjdtQ0daUmVjZGVfNTVoVnE5R0JQRmdRaUxlQ1k0ZWdudWdRa180dDR0SUE5SzhSSnptelJNSGctT0hPTTVtR2xaY2x1b0gtVmlLTGVkZFhIcWZxWC1wbVpDTzVXTmJYekpVbHFFbHVjV1hIQkdraC1tNEpsckYyd1p2ME44WXRpYjlwQTNxdG5zNmI0Q3RULWVoMUhZWjAxYTlid0pNR1hJZklpNkI3T0V1TmVOVHFTZHVaZkZyemdWZ1FaYi1TQ0pfdGpOdmlzR3dCcElCWUNxN1F3NzhCNEFWZDFfMWI2ODQtRWFjb3VBbmNDVFYwRzdrRVdUdWJJaEF2cS1UVkw4ckJ6NlpV?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Why opposition to BJP’s pick of Dhullu Mahto as Dhanbad candidate is boiling over in Jharkhand - ThePrint",
+      "source": "ThePrint",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUF1d3B4XzRxa19kMVFGemw0SWJNRlM3VGR2clVQYWdQanJPbFRNUWdWRU1LQUUtSVEtaHB1N2owUWY4SXZzREFtVFZyaFI4WG5BbW9FeHBYSFVCUExLdEY1Q1FrX1B0aHlZYWpTMzlnOEw1NG1xTndmVzVuQ0ltX0RnZURscERNcThDZzlYbldtQnEtcVFTbjJiMUtCZEFadjZ6MWxyRnNXbElnZTNCZXU2cUxFQmNtMFhfaXpJUXpCZlczRFRRRnBIZ9IB0AFBVV95cUxOV3VENVRaR2NYcjZBY3VLV1NzMFVRMmlvWEthVUJKTWFGLWVXUHd0cDlqOHd0QWVfODl1WFN2VkpRSEJNXzFSNk13MDRyRlB5TTZncl84djhXeHZjTDd1MkdMaFJzaUh3Zkc3R0dQUWFWVHhvN2FNUjdwcERNRWIxYnNZX1NkMWdLTUFRbnN6T0Zkem5MTDc5bjV0MERtSWlaOGUxeFJ5QlItQV84WmJoUVkxNmI1SXJTb056eC1ycU1wa3g1VWVCYkhxd0JCaXdo?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Lok Sabha polls 2024: BJP shields it’s Dhanbad nominee Dhullu Mahato - jharkhandstatenews.com",
+      "source": "jharkhandstatenews.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYU4wSmlPcmtnNGhaMWk2bVlwbkVIb0dfY0RMc0ZmaEM4MzhmcFF4UFZXdXBiSXpxNDJ6STc3anVfaldPNEJza2xzdVdkaHpjZ3cyck1QRXFESUFDaXdvQ0J0TnlVSHBxb0JWaTFfQ3I3NVR5NGhKTDVCOGpFdkNYRUNMcE9jRnBROHV4MUxPQ1hoSWpIWFVsY2Q0VGxFQmxDdUt0aTc5UzNZbjVZQTZpX1FKOGVMai1vb1lz?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:24:12.443383Z",
+  "collected_at": "2026-09-02T14:35:05.521823Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.677592Z",
+        "fetched_at": "2026-09-02T18:38:06.281099Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.677600Z",
+        "fetched_at": "2026-09-02T18:38:06.281109Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.677605Z",
+        "fetched_at": "2026-09-02T18:38:06.281115Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.677609Z",
+        "fetched_at": "2026-09-02T18:38:06.281151Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.677615Z",
+        "fetched_at": "2026-09-02T18:38:06.281161Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.677619Z",
+        "fetched_at": "2026-09-02T18:38:06.281166Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.677624Z",
+        "fetched_at": "2026-09-02T18:38:06.281171Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -240,11 +296,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/dhullu_mahto",
+        "url": "https://x.com/https://x.com/dhullu_mahto",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/dhullumahto/",
+        "url": "https://facebook.com/https://www.facebook.com/dhullumahto/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/dhullu_mahto/",
+        "url": "https://instagram.com/https://www.instagram.com/dhullu_mahto/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:31:28.798492Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -253,11 +342,19 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Jharkhand MLA Accuses MP Dulu Mahto of Rs 40,000 Crore Benami Property, Supreme Court Orders Probe - The Times of India",
+        "headline": "Dhanbad MP, Nirsa MLA trade charges over coal mining, devpt - The Times of India",
         "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbTBPVFJ5Z2IyZklMbFhEeElsdGMzbkRLYzctdWZaaU5ubFRCbnNaMmMxRmJkbWNGNW8zVUMwdE5majI2bjloZkFXbDZxRW5oVmduZjg5bUlYbDF0bkFmbW5vSldUVUNiczJCYkllNkFHMjFub1pRdUE1MTQ4TURFUFNqaTBDTGRqOUZuNUhjNTZsSmhyYmt3X2JxbVJqNkI5VkJmM3ZHVU54SUFnMXRtM3ltMkNrMW55TTg2THdSX3VsUTB1c0gtNmRoMkpUZEtRRDdtdHBQbEZwRGpTVG14TFZpZGZyQ01kcmtHQ2Q4YWtFQ2pWUkEyMmxxOE1DN0nSAYQCQVVfeXFMTjBMa2V2d2JYSGdkN2VieDJFTmx1Ym5ramxZbmFHNWVsMTBnWFlZY2dJdXR3X1A4ZEtSX3BzOVRpQWdUMmNnaDNHQW11UDJmeDVid3RWVVhFZ19lUEpuczl2TFUxNUVxY1NEdW5KWi1DRXRra19uekNMRElrbHFldlkzZ3dkQlpSaV9zY0JpLUZwNk9iYk9aQ1BoZVJZR3licGpuVkZoS1E1U0tnTTZDM3VMQ1BfeEdwSXhLaW1IMnpwY2xSamVuZXU0OTZjaExKZDRjeDgzVGhHNmtKZzdEd2dxeXRuTE9CVDRoaTRnX0dKckM1MUZjRWVBQ1M4ZVFGM3lnN24?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMEZnTXZoZ2haR0dqT0ZCVktoRTNwMzBpazRSYm50OTlLQlVWdUFDSDFrSWRPSmp1czY0TVl2M244MmNmYk5lOGZBUERaWDNfWXVRM0NPeE1xQ0pzX0R6eGZwYW9uVVRfc2RJV0FmWnI1US0wM3lEaEdrajJLbnBaN05mT0RPczNNVXpiVVlyUjNrQUkxR0hEU2FfZExEY19GdnQwRnh1amE4dnNOdlhZSlF1MjJuVDFiVEFUV2pmQUpSM0dqV01Zd0tMZ9IB0AFBVV95cUxQYldnQ3JIT0RvZVRJcFhVZWJUUEl1Q2NWcjlSdjk0cWRBdUUxSzIteFpkTE1xS29QQ09YR19tSHVTWGlidzN4N0otdlRUUnE5QV80VlpwOURfU1psa2taVlVVcnFzN1ZGcGVtcmFtUE1rLWg2TG43T1FuX0JnUXMxVEMxVXBYc2otWTc5VTRvODVnalRROVpOdWo3bjNQNE9rd21nQnY2SlRVeWg2azZ6TTROQ2VxTVAyQ3RqZ0hmQ3d3SWFsb2YwX09peGhZWi1t?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dhanbad MP Dulu Mahato sends Rs 2 crore defamation notice to Nirsa MLA Arup Chatterjee - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRl9oN1VVdmVKNnRDRklMN2w4cnRlc3NnVkN5OFEyREc2akpUaUMxdFNPUC1GTzhTak15ckJfM0M1TU54M0JFMDB5SEU3NDYtbnlHejVlRGNwekhtRzU3MGdkUEJaeC10SlRXbFVfS1dZWExoYzFuVWVxU0tJZ3JQaVIyUndLcWpoT2FiTDNVWVlqZmRqS0xGYjFHQWtUOUxIaklVZFhmQXdOanZST0ZGd1NCbzA2dmhmcGJoQnFQYnBNQ09OZzU0N2pHOFZaaHdhTUROemFwTmRoQ0dQdTl4cUIyRGxxcUxyS28teXp2ai1wZ9IB9wFBVV95cUxOcVlyeGhnMUthTlBURGx6YVBxcjRXUnhCbkd3eFpBWDVNeVA2ZHI0cVFQdFhtLTNlZzVZeTlNeXhCQjVFZnk5Qk1NSVlWZjBwMGs4Wlc5cUZUVFlucHE4Rl9yT19qR0IxS2djbnhZNGNmOW9iVm5NYzdneElVdGJ5MTZWRi1FWFQ0a1FVaXNHTy1tVVdGNjZiTHVRek9aZVM2UUg4MWFVcXlzcngtQWxxZ29xYzY2MW1KR3F0Wk1fOWxkLVlTTXQ0OFhtakJtcEhGdU1tdGFobF91WnBiSnlzZ3h0cjBkTTc0QV9qYWhvNmpvUjVndUx3?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -269,27 +366,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Dhanbad Civic Elections: BJP Ramps Up Campaign for Mayoral Candidate Sanjiv Kumar - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZTVkYkduU0NXcUZDb0Rfem51SzZJSFJ5TW41OVFqZmRWRWI2YjRaTUQ4YTlFbHpsY3hyOGtCQ2ZIeFdZLWl2azQ4Tjh1bHdVMVdGNEp0WjkxSW9YTVV1aWJ6UDZhNXMzOERZRDVkZXRkTGpFRjdDUnRsTFdkY1dfeWlZQzJfQXIxTlV3VW5lTTQ5ME8ySmtnT0FfWnJxVnpVSWtNTXlCX1d5VjRKV3V4NjFmOHpJeVg4S2UtcElPOXpCTzZ4QWdua3c4M0lMUjYyT0JkU1NOMzc1QjEtdVhNR2ZTb1cxU1RLd2fSAe8BQVVfeXFMTS1INURPNW5nUGR4U09Ec0E4UjJPU0tKMllkSm9EQ213eXRNb21uTUY1U2p3cVFEMW4wWGl1ajExSXlISzdoUnFZNXdyZzhwLWVxNEY4c2RGT1VsOEFWTllJU1dPakxFcVlqLWdRalpacEJPMTQ2OUxHVnVseXRIWEpSRUZnOHZ3RjM2V211RkFDWVlWRG9KcnZ0M3lvZXp6ZFd6SVg4Ml81eUdqWWNoMklnMG9heDlYMF9OZ2hKeHFWTU56a2s1cUhtNjZLcXNaUDZ1N2oxNmxvbWFvOUw4cjkxTWxkcU1PbDlsa1A2Y3c?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Strongman Suryadeo Singh’s legacy to BJP’s Dhullu Mahto, Dhanbad politics remains in grip of crime - ThePrint",
+        "headline": "Why opposition to BJP’s pick of Dhullu Mahto as Dhanbad candidate is boiling over in Jharkhand - ThePrint",
         "source": "ThePrint",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQU1qbUtRdFlsV2NNNE1tVGY1bnVZTGZSa0ppRExyVkFfNHoweC1qZWt6UFJwUEVjeGdNODhONHBEQThCeFlvUnZRUVNiX1M3UTZ1WXUxNVdmSVo2TUpzcWNNZGNWS3F1LU80cmcwQlFSS2RhekhSWl9RdHVYVEN2N0lEUWF6TEhkTVFHak5jUjVCU3Q3YmxSa3cwb2wzbmdHZUdPMVRuUExoaWhvTzJnQUhMZ044Wk05YmR6eXBsTGo2QXRHMGZScFlCNlNZUdIB0wFBVV95cUxOMm9DNndZTTJHZDN3dzR6VWc1NzZObHlTaTdtTHY1Q3lkMHp0d1dCLWxuTzdnVkZUVmR0TC1jdmJfNlhjX0tsRTluSFhlN1JQTWlmazM0TTYyQkE4cGp0Wlhya2NGanExOHFsQXhIZGtTa2pwMVZhbFFuZ2F1YmZZMVBGWXRaMUF1VU5BWno1U0dIX1dUcmx0MHJSaE5TdEkyX1M0cHM5NDlaUVZlamZ0WkJldjVFZVdTZVpJSTZQNUZFd0cyV24zSXJvX3JpaUM4UXRZ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUF1d3B4XzRxa19kMVFGemw0SWJNRlM3VGR2clVQYWdQanJPbFRNUWdWRU1LQUUtSVEtaHB1N2owUWY4SXZzREFtVFZyaFI4WG5BbW9FeHBYSFVCUExLdEY1Q1FrX1B0aHlZYWpTMzlnOEw1NG1xTndmVzVuQ0ltX0RnZURscERNcThDZzlYbldtQnEtcVFTbjJiMUtCZEFadjZ6MWxyRnNXbElnZTNCZXU2cUxFQmNtMFhfaXpJUXpCZlczRFRRRnBIZ9IB0AFBVV95cUxOV3VENVRaR2NYcjZBY3VLV1NzMFVRMmlvWEthVUJKTWFGLWVXUHd0cDlqOHd0QWVfODl1WFN2VkpRSEJNXzFSNk13MDRyRlB5TTZncl84djhXeHZjTDd1MkdMaFJzaUh3Zkc3R0dQUWFWVHhvN2FNUjdwcERNRWIxYnNZX1NkMWdLTUFRbnN6T0Zkem5MTDc5bjV0MERtSWlaOGUxeFJ5QlItQV84WmJoUVkxNmI1SXJTb056eC1ycU1wa3g1VWVCYkhxd0JCaXdo?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Dhanbad lok sabha election results 2024: Dhanbad Winning Candidates List and Vote Share - India Today",
-        "source": "India Today",
+        "headline": "Lok Sabha polls 2024: BJP shields it’s Dhanbad nominee Dhullu Mahato - jharkhandstatenews.com",
+        "source": "jharkhandstatenews.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekJnaVZ2WmZTSzBHRlUzTzlxWW0zRG5SWWsxZGs0UWprQk9teVNSS0F0ZXJmaGFmMklpRXpaQ2ljNmU4amlHMDRKdktPeEF3R2JpYk0xd1pKbzZtWjBZU2RESEV4Y1AxcWhMb1U3RWRjZWg0eUc4blRKdEY0bldlN0JzZXBNZFhuNkNWUkxSSEhMSmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYU4wSmlPcmtnNGhaMWk2bVlwbkVIb0dfY0RMc0ZmaEM4MzhmcFF4UFZXdXBiSXpxNDJ6STc3anVfaldPNEJza2xzdVdkaHpjZ3cyck1QRXFESUFDaXdvQ0J0TnlVSHBxb0JWaTFfQ3I3NVR5NGhKTDVCOGpFdkNYRUNMcE9jRnBROHV4MUxPQ1hoSWpIWFVsY2Q0VGxFQmxDdUt0aTc5UzNZbjVZQTZpX1FKOGVMai1vb1lz?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -323,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 34,
+    "starred_questions": 10,
+    "unstarred_questions": 24,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 66.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 90.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

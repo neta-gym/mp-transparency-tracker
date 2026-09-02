@@ -4,16 +4,16 @@
     "constituency": "Diamond Harbour",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 9008,
+    "myneta_candidate_id": null,
     "slug": "abhishek-banerjee",
     "house": "lok_sabha",
     "sansad_member_id": 4843,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 36,
+    "age": null,
     "photo_url": "/mp-photos/4843.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Diamond Harbour",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 9008,
+      "myneta_candidate_id": null,
       "slug": "abhishek-banerjee",
       "house": "lok_sabha",
       "sansad_member_id": 4843,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Post Graduate",
+      "education": null,
       "profession": null,
-      "age": 36,
+      "age": null,
       "photo_url": "/mp-photos/4843.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,116 @@
       "convictions": 0,
       "pending_cases": 2,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "77, Dated 10-01-2021, Khowai Police Station",
+          "ipc_sections": [
+            "186",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "Judicial Magistrate First Class, Khowai, Tripura",
+          "fir_no": "77, Dated 10-01-2021, Khowai Police Station",
+          "case_no": "PRC (SP) 16/2022",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        },
+        {
+          "description": "",
+          "ipc_sections": [
+            "499"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "District and Sessions Court, Bhopal",
+          "fir_no": "",
+          "case_no": "SC PPM/2/2024",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "No",
+          "appeal_status": "",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:27.653694Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 23264563.0,
-      "liabilities": 3600000.0,
-      "net_worth": 19664563.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9008",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.499025Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 20.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.22,
-      "expended": 7.04,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:37.474836Z",
-          "notes": "Official eSAKSHI REST API — Works: 320 recommended, 314 sanctioned, 182 completed"
+          "fetched_at": "2026-09-02T15:03:29.524121Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:59:44.903353Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:59:44.901732Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 320,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 47.89115646258504
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 35.0,
@@ -110,7 +164,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:27:09.224120Z",
+          "fetched_at": "2026-09-02T14:59:44.900970Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +172,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Calcutta HC Orders Immediate Demolition Of Illegal Structures Of Abhishek Banerjee's Sebashray Initiative - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWjhMalI0OElsZ2FrWm9LMVNQaVB5WldESVo5SVVPcE9OeWFLV3JhLXhXOVhNZnBiU1lnTUlYelhLNFM5Sk85LXpSSDhBMVo0NzhYMGpHamlGWFFrWkIzcDZnamZ5ZnFkREloZnQtWTlDZ1JaVUdtMzQxdWlNZ25Nckh3Vnlydmc3YzNDT05tOXRUWkY1ZWxwTU5xblhLc2tTUHVqRGhvVTkzd3NlbFBWcW5MQ1J0SjJ3aUprckcyd0x5dk1JOHJkcHRjZy1IQ1VQWnZpeWhGTTB3ZjFxelZ1dUpvRWs4UEhDQkHSAe8BQVVfeXFMTkUxRUNuY09ERGRDbmZNTTZqN2FIc1cxMU1sajNFTi1Wd01kTS1rWlBXcGRxRTY1UG4xZEJtZlNIZnIzSWJUY0pSTlV2c3MycDF1VS1WOG13aTY5aVFlRVJKVURBbVNScEZyRjY1dGhGWXdfRDBnM0h6bDh2VzZoeWR1S1k0UFZiS3FUY2JqM2xlNV9yTm9tWjM2eFVhLXZyTzJzZ1paNzI4Yk9GaklWamV6QV81OEVvQjJoaEUtN3Y5dm1MRjE1SzAtTG1MSzN5WUE2VVN2bERnZzR3U3QwNmNoeVBMUVhjNGl1M21HZGc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TMC MP Abhishek Banerjee served police notice over scuffle at office during billboard removal - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN2dqbnZ2ZGYzdnIzRkozaVM3UkRfVGlUS1E0UzBwdVFIZkdnT2M1ZlB6eEk2OF9wSHF4bUE0dmNET1lJMjZqbzFzTXJ4d0Z0cEh2TVNnOTV0R1NpZW9QSkJ3OGcwbnhvMTBYa0d3VVdWZHgxVjJ4OU1uWVZCa3N2RjVTMndNdFVpeERPWkN4dUVNOEE1bzFsb2FpcVc0SjVPLWNBMVR5X3lhNm80WDhhRHl3ODBrSEtTWGlVUlVXdWl6bUZwWHR5MkxXUGIydEZPWlhzZEVobVI4aTYwSVZhMXhQUENjZjVhR05FbjFn0gH7AUFVX3lxTE5WXzlVQTI5bTIxaTIwaHNwYWtMRlNSdmhEdEY5WkxjRVFaU2xFaEcxV3MxV2FhWVBqVFdJOEI3TVJJajNSWmQ5WjVxZUJ1UXpWc0hya0lheVh1Q0QxSkkzcXpLaktfQTNmTjlRbFdVVVoxZVplUHdCMTVUNllGNHVXY0RybTFnelZxeTQ2REpWZ183MFBvT0RyNWR0dWtnVWxqcEdtZzU2NW9kM3c3SFZ0VERBajBVTmhscVJlTy1ycVhRZ2JDczBnRXpCOTV3Vlhkd1lENjFra2JtTkE1cW5UbzFKbEpKbTg2YWxGc1hsbV93eDlYM0hRc05v?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Abhishek Banerjee gets Kolkata Police notice over Trinamool billboard removal row - indiatoday.in",
+        "source": "indiatoday.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORlJzdmE4S3dnNzAtQTNQdkRJcF9QXzdEamNabHhRRURxNUN2b3ppQ3FuTDlpVFZIX2U5ZUNzYi1ZSC1mU3Z0ZXJqRk85YWNpWHZvSzhTOFRoa3hBb0NQUmU3TjRFLXFUV3d4VGIwdFlKVGRJZ2hDU1RkZE5jZy1ITEpWd2x3Q2FCSmRmX2RpZDFhQTVaTjN1T2x6SlAwdEVWZ2VlX3R1MEZ1ZDJvLUV0WVZ3eEh0Qk9NaTctbFZB0gHDAUFVX3lxTFBTYURUbFcyOURTeWNkZ3BmNVVEVHdKc1JET1pDNTZzMi1tN2JPRVlUaXV4NHFBbVRseWx3M1B3U2RiSF9RYW1ZYzdDZ0p5TzNzTUxmODdRaTZsWF9INEFBdkVKcGFGNEctY1J6eEJzSUx5elpFT1M5Q3hSSDNEcVlKbnRuRVZmV09rN0o2OUptbHk0T2F4TlR6enVra0x3NFptT0VSZ0liR0lZNEVKS2p5eWJNcktFYTgycEZQTHBiNk1OUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Billboard removal row: Abhishek Banerjee receives police notice over office scuffle - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdFVLTXFKWGVNY0x1RmI3ellqZWk5Q2VwdDJpV3hub3dqeXFkSHpxTzRkczBPdVpyNm5iYms2MGlfVWhFc0E2ZkdVZ0dBS2YxeGJzRmFzTVNTV1JpQkhlNmNIQ0JtMnZpTmVpVUhWdFo1UkN5djltZTBTaC1sTTdTTnI3WVFzVk5Yc2lfT29Cak4xMWlfTUE3ME9RMDJmU3hrdGRSUjVRQlJwbjNJZTBxTHNreFRYeGRWTm1DV0gtNmo4R2Y1cFhIeVd0RWkxTF83SElybUVIMmxsU3MtZmRCNmlxdVPSAeoBQVVfeXFMTUlhVWRDWUxSbjR6T2hwWlBGWWtZMHFtVVl1TE5wbVcyU0R4cUtjOU1WZmVPMjlfMVd0R2N4ejdxNFJCcGFJNVZkbWMxMEpZT3dtb0k1TjJOUzZZYzQySFdnNVJPRFdBY0d5c3JhWGROTkp0ZHdDd0RyVkpsZnY2UWNIWVhKenVnNjJDVzdGQ2ZJb0pGOHpKVXR2bWppeFhLc25FMmlRZU1RY2Q4eXRXYnJEOUZOZzJGZjRId05YVFJ5WHpiRTVFRDV2OEpkcHpJQjMzUGNmRWJXelhXVVItSkJzRkdjLXNKMjFB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "His office hoarding removed, Abhishek Banerjee slams police, says will move court against ‘trespass’ - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzlIUlpWd1hVbFVsdW9jeEFCNUcxVmFGaVUwTzdPSHVkdE9EQkxEalVhWnlBV2YzYWtzMm5LcjBaZFhxYjhpb1JsSUpqLWtCMEdTUVh0dFF3aHFPclVReGJmVC1mSUMxLXRhWVlHZm1SRDkzbTk2SVJuNDZtWTZTOGNtSGVKZXFIZFhFUTYyaVNMVVd3b1FMNHdJWW9MalB1YjA0Q2Fxa2ZCaUhqcmVHSdIBtwFBVV95cUxNWGlBWHZpaDRJX20xVTlmTHZ5czR4b1ZyTG0yNWQyOFVWYXRyU0M1MGRVLVYtandmcElGUkRVek9jR1lxRzhVOS1NNHZYcWNSTV9wNGcwSFl6LTFReF9lSHpXZEt3OFFWLUJBWWdtS0R2UmxCN3F1TEZjMGZvY1FSZ0Y5a2NPWERLZDE0dUZ2TDctdXhYaVhfYmY1eUN5S2Zfblh5aDhQZ2Y3dlJPUEVNY3FxemJyZTg?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:28:11.254652Z",
+    "collected_at": "2026-09-02T15:03:29.524748Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +241,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.501459Z",
+          "fetched_at": "2026-09-02T18:38:12.105006Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +257,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.501468Z",
+          "fetched_at": "2026-09-02T18:38:12.105018Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +273,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.501473Z",
+          "fetched_at": "2026-09-02T18:38:12.105023Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +289,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.501504Z",
+          "fetched_at": "2026-09-02T18:38:12.105028Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +305,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.501512Z",
+          "fetched_at": "2026-09-02T18:38:12.105035Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +321,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.501517Z",
+          "fetched_at": "2026-09-02T18:38:12.105040Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +337,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.501522Z",
+          "fetched_at": "2026-09-02T18:38:12.105044Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -269,11 +362,36 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "http://www.twitter.com/@abhishekaitc",
+          "url": "https://x.com/http://www.twitter.com/@abhishekaitc",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "http://www.facebook.com/@Abhishek Banerjee Official",
+          "url": "https://facebook.com/http://www.facebook.com/@Abhishek Banerjee Official",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 2,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:59:49.203802Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -282,43 +400,43 @@
       "neutral": 9,
       "top_headlines": [
         {
-          "headline": "Kolkata Civic Body Probes 17 Properties Linked To Abhishek Banerjee - NDTV",
-          "source": "NDTV",
+          "headline": "Calcutta HC Orders Immediate Demolition Of Illegal Structures Of Abhishek Banerjee's Sebashray Initiative - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRTJ3TmJNaDZoQmhlZmJOVWQ0UUt4bTlwTUdnUDRWUnNBY0J3c01BSlJma0puVS1jMFJEYW5nUDU1elh3c3kwaDNib2t4djR1Njc5MEk3SzhNeFhyMW5wUkotbkswY2FBbXpub0Y5N0FucWFSLVhfb3VzdW5aMlhHeFFKQ05BWXdsRjVwbkpfb0ZiQllIaDhCekcxY21Qa3Q5M3BUUmVCSGpQMktQ0gG0AUFVX3lxTE5iSU9YWHo1OUkxM21VQlZ5WXp1UlRnZHo3YTRoN2ZMMlB6VTB3ejBaOFZzdFlWLURKUmZnZGc1VUVjOHBSeG1Va2lWLWctYzFYWUhXTDh0Z0xZbXdub3JXMmsyZWdVZjFJLXpYMW1MbDkyS3lQNGxCaEUwLXRCVXY1V3hscWRQTjBMY19vM18ySGNFWmdhNHJsbVN1TGluVHVENG5vQklUMkNrNmMzU0JZLW1mbQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWjhMalI0OElsZ2FrWm9LMVNQaVB5WldESVo5SVVPcE9OeWFLV3JhLXhXOVhNZnBiU1lnTUlYelhLNFM5Sk85LXpSSDhBMVo0NzhYMGpHamlGWFFrWkIzcDZnamZ5ZnFkREloZnQtWTlDZ1JaVUdtMzQxdWlNZ25Nckh3Vnlydmc3YzNDT05tOXRUWkY1ZWxwTU5xblhLc2tTUHVqRGhvVTkzd3NlbFBWcW5MQ1J0SjJ3aUprckcyd0x5dk1JOHJkcHRjZy1IQ1VQWnZpeWhGTTB3ZjFxelZ1dUpvRWs4UEhDQkHSAe8BQVVfeXFMTkUxRUNuY09ERGRDbmZNTTZqN2FIc1cxMU1sajNFTi1Wd01kTS1rWlBXcGRxRTY1UG4xZEJtZlNIZnIzSWJUY0pSTlV2c3MycDF1VS1WOG13aTY5aVFlRVJKVURBbVNScEZyRjY1dGhGWXdfRDBnM0h6bDh2VzZoeWR1S1k0UFZiS3FUY2JqM2xlNV9yTm9tWjM2eFVhLXZyTzJzZ1paNzI4Yk9GaklWamV6QV81OEVvQjJoaEUtN3Y5dm1MRjE1SzAtTG1MSzN5WUE2VVN2bERnZzR3U3QwNmNoeVBMUVhjNGl1M21HZGc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Property Row Erupts Over BJP’s Claims Against Abhishek Banerjee - Daily Pioneer",
-          "source": "Daily Pioneer",
+          "headline": "TMC MP Abhishek Banerjee served police notice over scuffle at office during billboard removal - newindianexpress.com",
+          "source": "newindianexpress.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT3VJRnhFWjFjeHJTNGpScDNwLWJVMHNoemFjZjROa09LSUtfSm9hVDdHLWlBVVBmdlEzRU1pOE1rdFBSV3U0UUlJWXZ6WTZLaEoyVFl0dWktdC1NZV9YbG5WQ0x0bll1X2FLYk9IMS1hdVZOd2E0OGlPNTJnSTJKZHdMSzNOaFp4aTYtUnVvM3RIaHZjV2Z2bG54ZnBxeXFLNi1xTzc0NGtTRGVYdE1LcW9SMzZ0WEZjWFl0c1hDSHpvLWpKelJzYW1kYjM3ZzRwcXR5cEItOC0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN2dqbnZ2ZGYzdnIzRkozaVM3UkRfVGlUS1E0UzBwdVFIZkdnT2M1ZlB6eEk2OF9wSHF4bUE0dmNET1lJMjZqbzFzTXJ4d0Z0cEh2TVNnOTV0R1NpZW9QSkJ3OGcwbnhvMTBYa0d3VVdWZHgxVjJ4OU1uWVZCa3N2RjVTMndNdFVpeERPWkN4dUVNOEE1bzFsb2FpcVc0SjVPLWNBMVR5X3lhNm80WDhhRHl3ODBrSEtTWGlVUlVXdWl6bUZwWHR5MkxXUGIydEZPWlhzZEVobVI4aTYwSVZhMXhQUENjZjVhR05FbjFn0gH7AUFVX3lxTE5WXzlVQTI5bTIxaTIwaHNwYWtMRlNSdmhEdEY5WkxjRVFaU2xFaEcxV3MxV2FhWVBqVFdJOEI3TVJJajNSWmQ5WjVxZUJ1UXpWc0hya0lheVh1Q0QxSkkzcXpLaktfQTNmTjlRbFdVVVoxZVplUHdCMTVUNllGNHVXY0RybTFnelZxeTQ2REpWZ183MFBvT0RyNWR0dWtnVWxqcEdtZzU2NW9kM3c3SFZ0VERBajBVTmhscVJlTy1ycVhRZ2JDczBnRXpCOTV3Vlhkd1lENjFra2JtTkE1cW5UbzFKbEpKbTg2YWxGc1hsbV93eDlYM0hRc05v?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Abhishek Banerjee's 'raze down my house' message amid scrutiny over property empire - The Times of India",
-          "source": "The Times of India",
+          "headline": "Abhishek Banerjee gets Kolkata Police notice over Trinamool billboard removal row - indiatoday.in",
+          "source": "indiatoday.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWHRObHpTOXMxN3NuLXNnUUVxN205T0RKb0hZRVZ2SFYycWYzYVh2dUgtX21fTHJUYk9nNFA3aVFJSXUyNDJoTzF0SHlkdjM3TmQxZVI0bC1KY3laSjNMbm5rLUJWcV9ab0t4VWVNVkdrZ0JDeHNrRkQ1NzFSZnhXMUFiMmtfOGVTVlVIRHNCN2ZXSkoxSzZjRndHbXZ6NXBFWTFVTGotUDM4SFYxajZlSmxFV1VzTm56eGs0QlBtdlRJdkxkYm43Qjc5Q24xTUZTT2gyTWFmblN1N1pHQlZxM0pB0gHnAUFVX3lxTFBoMFpJUWZod1FwdmxOeWw5SHhaRFNOcFFGMlBkRC1ZVnFoSlpPNFJQemF0amtCRWRGeTVxR1JTNi05TzRqZGFZVlRxWW40WXJmU2U5RWRrQTBjMGNFT0c0RmQzVXRjeVN2eHNyQ0xGcFBCV0pxeThWRWlhVXRxSG5tN3UtcEt0Q0VsMzJQRG04b1FxZk4zVHZzaFpqZF93TXllaHdqRk1KY2hjLU5VQ0ljU0g4dUdRZkZ1RDVfeXh1ZTA3N1FtZXRQYk1UUjZ5WWdFb0FaSlJ6U0hEd09yay1vODNzcUl1OA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORlJzdmE4S3dnNzAtQTNQdkRJcF9QXzdEamNabHhRRURxNUN2b3ppQ3FuTDlpVFZIX2U5ZUNzYi1ZSC1mU3Z0ZXJqRk85YWNpWHZvSzhTOFRoa3hBb0NQUmU3TjRFLXFUV3d4VGIwdFlKVGRJZ2hDU1RkZE5jZy1ITEpWd2x3Q2FCSmRmX2RpZDFhQTVaTjN1T2x6SlAwdEVWZ2VlX3R1MEZ1ZDJvLUV0WVZ3eEh0Qk9NaTctbFZB0gHDAUFVX3lxTFBTYURUbFcyOURTeWNkZ3BmNVVEVHdKc1JET1pDNTZzMi1tN2JPRVlUaXV4NHFBbVRseWx3M1B3U2RiSF9RYW1ZYzdDZ0p5TzNzTUxmODdRaTZsWF9INEFBdkVKcGFGNEctY1J6eEJzSUx5elpFT1M5Q3hSSDNEcVlKbnRuRVZmV09rN0o2OUptbHk0T2F4TlR6enVra0x3NFptT0VSZ0liR0lZNEVKS2p5eWJNcktFYTgycEZQTHBiNk1OUQ?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Kolkata civic body serves demolition notices to properties linked to Abhishek Banerjee - Indiablooms",
-          "source": "Indiablooms",
+          "headline": "Billboard removal row: Abhishek Banerjee receives police notice over office scuffle - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYjJPVFJYYVdNOU9UWGJCU0I5b09nVXNaUGlfWkNFVzFkWUduRnEtcm9Zc3I1Z1JQRk1tXzRicEVLanhVZjFCX2pjZVIybkRnYVFnYjhITU9HNm1tRlFTZVJJSk14aGdTR3lrZnpRMmpGR3FJTmdOR1A2V2dLaXZBQUtqTVVwRzc1VVRtSXBoWFZFU2J0TXJUdUtITi1RYWFhbXhPNDRxTTdOeUl0Vmt3SndGWDJaUGc3ejhwNEdEeGVRNkM3N1E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdFVLTXFKWGVNY0x1RmI3ellqZWk5Q2VwdDJpV3hub3dqeXFkSHpxTzRkczBPdVpyNm5iYms2MGlfVWhFc0E2ZkdVZ0dBS2YxeGJzRmFzTVNTV1JpQkhlNmNIQ0JtMnZpTmVpVUhWdFo1UkN5djltZTBTaC1sTTdTTnI3WVFzVk5Yc2lfT29Cak4xMWlfTUE3ME9RMDJmU3hrdGRSUjVRQlJwbjNJZTBxTHNreFRYeGRWTm1DV0gtNmo4R2Y1cFhIeVd0RWkxTF83SElybUVIMmxsU3MtZmRCNmlxdVPSAeoBQVVfeXFMTUlhVWRDWUxSbjR6T2hwWlBGWWtZMHFtVVl1TE5wbVcyU0R4cUtjOU1WZmVPMjlfMVd0R2N4ejdxNFJCcGFJNVZkbWMxMEpZT3dtb0k1TjJOUzZZYzQySFdnNVJPRFdBY0d5c3JhWGROTkp0ZHdDd0RyVkpsZnY2UWNIWVhKenVnNjJDVzdGQ2ZJb0pGOHpKVXR2bWppeFhLc25FMmlRZU1RY2Q4eXRXYnJEOUZOZzJGZjRId05YVFJ5WHpiRTVFRDV2OEpkcHpJQjMzUGNmRWJXelhXVVItSkJzRkdjLXNKMjFB?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Kolkata civic body issues notices to Trinamool MP Abhishek Banerjee seeking property documents - The New Indian Express",
-          "source": "The New Indian Express",
+          "headline": "His office hoarding removed, Abhishek Banerjee slams police, says will move court against ‘trespass’ - The Indian Express",
+          "source": "The Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV2pDMmtoUUw3VkE1anM1cGJPSGhscjd4Vm5zNFNCOVJPRnpqR2tZbl90V0I3WFMxSFh2MUc0Y2ZtcWN4cFpDcFJDWjVqUjhQT0hpckpmX09wMURhQXctSmNsVVlGbks5bmxFdFZPal85Q3hFM3pWalNydXg2X3dTSzliZzRONWlmNHVIWWtmaG1yTWdmbE5GQ0lTeUJEX01SSE9VX1c3RUZ4c1g0Mm1EMmoxb3Q4NGs4Q3lVQzBxV1ZTWmVZMWN3WkszUXR2VU4xOVNYWm1zT18zWDFKUVBKOWhjMzVyRXh2QlZEM19yY9IB_AFBVV95cUxQUk1ETE9IVEJTZ2RGZTNXbjJWcDUtRW5VTndNNlJ6Qk5lb2NEdDM3MlpIWmpWTk81Y2I5NE1ZTlFHYXI1cnR5cFpIaV9yOGpyRW5GWnJrMktyYU1rY00ya1VEajlIQi1ZVWZmbnpwNHNJMDR0WnZhNzluR2NkbkJONWo4WlIzUUVaMXphMnZ6MFZNU3lqOEdVS0Mwc3V1ZjFZc3FNQUR4R3Y5Rk8zRlh5MWFRY3VKbTZDWGlhcm1OZk1HdkI1UGFtSDZlUTYtTEFyZk53cU0zQ0UxVWJuMnM3OXhLbmdOUHl6VU9Qc0ZxakRhcEZMbVRya0ZIRTY?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzlIUlpWd1hVbFVsdW9jeEFCNUcxVmFGaVUwTzdPSHVkdE9EQkxEalVhWnlBV2YzYWtzMm5LcjBaZFhxYjhpb1JsSUpqLWtCMEdTUVh0dFF3aHFPclVReGJmVC1mSUMxLXRhWVlHZm1SRDkzbTk2SVJuNDZtWTZTOGNtSGVKZXFIZFhFUTYyaVNMVVd3b1FMNHdJWW9MalB1YjA0Q2Fxa2ZCaUhqcmVHSdIBtwFBVV95cUxNWGlBWHZpaDRJX20xVTlmTHZ5czR4b1ZyTG0yNWQyOFVWYXRyU0M1MGRVLVYtandmcElGUkRVek9jR1lxRzhVOS1NNHZYcWNSTV9wNGcwSFl6LTFReF9lSHpXZEt3OFFWLUJBWWdtS0R2UmxCN3F1TEZjMGZvY1FSZ0Y5a2NPWERLZDE0dUZ2TDctdXhYaVhfYmY1eUN5S2Zfblh5aDhQZ2Y3dlJPUEVNY3FxemJyZTg?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +470,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 19,
+      "starred_questions": 5,
+      "unstarred_questions": 14,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 36.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +486,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 35.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Low attendance",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +517,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.33,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +544,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 23,264,563. MPLADS utilization: 47.9%. Parliament attendance: 35.0%. Questions asked: 19. Debates participated: 1.",
-  "validated_at": "2026-09-02T01:36:54.502216Z"
+  "cross_reference_notes": "Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Parliament attendance: 35.0%. Questions asked: 19. Debates participated: 1. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.105762Z"
 }

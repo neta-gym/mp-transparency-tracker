@@ -3,24 +3,22 @@
 **Constituency:** Gautam Buddha Nagar, Uttar Pradesh
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 64
-**Education:** Graduate Professional
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 57.4 / 100
+## Composite Transparency Score: 57.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 40.6 | 25% |
-| Asset Growth | 60.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 65.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
@@ -38,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 83.82 Crore
-- **Liabilities:** Rs 2.27 Crore
-- **Net Worth:** Rs 81.55 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 91% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 10
-- **Expended:** Rs 7
-- **Utilization Rate:** 50.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -69,36 +66,61 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 2
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@http://www.twitter.com/dr_maheshsharma](https://x.com/http://www.twitter.com/dr_maheshsharma) | No | Yes |
+| Facebook | [@http://www.facebook.com/drmaheshsharmabjpnoida](https://facebook.com/http://www.facebook.com/drmaheshsharmabjpnoida) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- Months before Noida man drowned in ditch, residents wrote to MP Mahesh Sharma about broken, dark roads - The Indian Express (The Indian Express) [neutral]
-- MP Dr. Mahesh Sharma’s mother passes away at 85 - Hindusthan Samachar English (Hindusthan Samachar English) [neutral]
-- It’s a hat-trick for Mahesh Sharma in Gautam Budh Nagar, victory margin of 5.6L biggest in UP - The Times of India (The Times of India) [neutral]
-- Gautam Buddha Nagar seat: SP candidate leaves behind BJP MP Mahesh Sharma in spending duringÂ pollÂ campaign - DNA India (DNA India) [neutral]
+- BJP’s Dr Mahesh Sharma wins Gautam Buddha Nagar seat for 3rd time - The Indian Express (The Indian Express) [neutral]
+- Lok Sabha Elections 2019: Mahesh Sharma in fray, as Gautam Buddha Nagar witnesses triangular contest | Hindustan Times - Hindustan Times (Hindustan Times) [neutral]
 - 'My good fortune': BJP's Mahesh Sharma on getting Gautam Buddh Nagar ticket - India Today (India Today) [neutral]
+- No challenge to Modi and BJP in 2024: Dr Mahesh Sharma - Garhwal Post (Garhwal Post) [neutral]
+- MP Dr. Mahesh Sharma’s mother passes away at 85 - Hindusthan Samachar English (Hindusthan Samachar English) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **BJP’s Dr Mahesh Sharma wins Gautam Buddha Nagar seat for 3rd time - The Indian Express** (The Indian Express)
+- ! **Lok Sabha Elections 2019: Mahesh Sharma in fray, as Gautam Buddha Nagar witnesses triangular contest | Hindustan Times - Hindustan Times** (Hindustan Times)
+- ! **'My good fortune': BJP's Mahesh Sharma on getting Gautam Buddh Nagar ticket - India Today** (India Today)
+- ! **No challenge to Modi and BJP in 2024: Dr Mahesh Sharma - Garhwal Post** (Garhwal Post)
+- ! **MP Dr. Mahesh Sharma’s mother passes away at 85 - Hindusthan Samachar English** (Hindusthan Samachar English)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Uttar Pradesh: 8 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Mahesh Sharma shows moderate transparency with a score of 57.4/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Mahesh Sharma shows moderate transparency with a score of 57.5/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 838,209,103. MPLADS utilization: 50.4%. Parliament attendance: 90.0%.
+No criminal cases declared. Parliament attendance: 90.0%. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -138,7 +160,7 @@ No criminal cases declared. Declared assets: Rs 838,209,103. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -217,8 +239,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Mahesh Sharma's MPLADS account: Released: Rs 15, Expended: Rs 7, Utilization: 50.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -236,12 +256,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,16 +4,16 @@
     "constituency": "Dharmapuri",
     "state": "tamil nadu",
     "party": "Dravida Munnetra Kazhagam",
-    "myneta_candidate_id": 121,
+    "myneta_candidate_id": null,
     "slug": "mani-a",
     "house": "lok_sabha",
     "sansad_member_id": 5814,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 55,
+    "age": null,
     "photo_url": "/mp-photos/5814.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,97 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "P1 Police Station Dharmapuri District",
+        "ipc_sections": [
+          "143",
+          "341"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Judicial Magistrate Court 1 Dharmapuri",
+        "fir_no": "P1 Police Station Dharmapuri District",
+        "case_no": "Crime No. 157/2019",
+        "other_acts": "",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:26.929349Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 86564403.0,
-    "liabilities": 21287262.0,
-    "net_worth": 65277141.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=121",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:52.451781Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 53.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 16.45,
-    "released": 16.45,
-    "sanctioned": 11.4,
-    "expended": 4.88,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T18:23:34.349411Z",
-        "notes": "Official eSAKSHI REST API — Works: 198 recommended, 196 sanctioned, 43 completed"
+        "fetched_at": "2026-09-02T14:35:16.878118Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:31:32.182292Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:31:32.180031Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 198,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 29.66565349544073
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 85.0,
@@ -92,7 +127,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:22:39.683380Z",
+        "fetched_at": "2026-09-02T14:31:32.179130Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +135,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Will Dharmapuri vote for change ? - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbmR0bmt1WHRBTFBOa3ZUUWJ5bjNDOFhLcGhmZ1FfUFpUNmZPcks0ZEROd2YwbkJPSGQ5RlF1SG1acS1GcHhYc3JtbjhCX1Z6Vm1xdXZmdzB5bWZESTQ2ejF3QVhMblZwdVV4LTgyWnF5dHVMZlZrUWpuWkRmRHdOSGFlMDVIT0N1WW9jSVczQjBOT3l5b0hZWFZR0gGnAUFVX3lxTE1xdWtsWi1LSjFjUmF0R3hXM1FzX2ppTmtKMjV0WF9IMEVpMzlCOUQ4aWRBX0VRUHg0VHd4RmJXX1JlUXF3aDRKakhlX2pkTDFxdWNEcVVKSGF2LWZBb1hVYzZBWnZHYlVEVkFIcHdTUVdtWXY0YzZ0T2dROEtRQUR1MmQ0TUdPRE5YSlZjQWRNWGlnclNqb1RNWEFkLVF1TkFkdGI1a2J3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "GK Mani is Stalin’s right hand: Anbumani - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3lyQkVmRUhSN3h2U0pfYnZCQ1EyRGpjcXRyTlgwSm85dzB6SUtaMEhDQVdvYzY4dHdRckhQVC14SE96c0FCcVVRcHk5eG82MXBfUDBrajR6cVJPTFpFbkkyN3VxSTFxb3VlOEdPbHFILWNfNzhCVUJHNWVDWWNCSnYzODJfMDYyTUNOLUFvSHI5U3F0SjdnaHJ6YzY5M2wxcW5wYVZBMkx2b3JSSHZxaUkwNEFLM2PSAbwBQVVfeXFMTlFmN21YMWxlVzlfMHpYc1AyeHd5Y2dGZ3RqODE2azhSbG1KZm5tNkg2TktTa19RYWVRRU02ZTZNWVpOaXJwQ0UyNHJ1TUs2Z28zM2Vwc3dkUzRlSnNWTEdEMTlGNW1BRmtGdlZ3WE1ZQzZQOWFzX0pqc1paQjNCZEJnSzlEeTAxdWs4VU5HbnNORlpUVVAtN1dpX0sxWTBCT2tGT0pDWm14cDJNeEVHbmFmZHF6dHJlY0ZibUc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dharmapuri Election Result 2026 Tamil Nadu: PMK's Sowmiya Anbumani wins Dharmapuri by over 20,000 votes - CNBC TV18",
+      "source": "CNBC TV18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSnBwVlpvREtfNkxMTURDODFfNG5LUm42Nmw0X29mM2pBSDl5V3dqeUpYWV91ay11UUdRVWE1UllpTHRGakFtQV9FTDZVODAtNW1DQTlqMmt2bXY0c1BFNFRxRnZRM0VpZE5ITk51RXVnZXQ1VW5HbExUYkktR2lISnRPU2d3c2dDVGI0eTJFQ3FnbkwxM05YMWszN3ZtaHdMVl9vMWVSME5XVHpsRU5NZjNBV2FhYllNNm9wVWgwY3Z1MXFJV3M2Wnp4WDZEYng5a1dMMVBfRHY4X04zV3EzMXphQjhWZmd5Q0NBSUh3X1RKUG8?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "TV debate sparks AIADMK-DMK clash in Dharmapuri - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc1BncExQWHgyenVMbGtiVzEtOG01WDFSdzFIVU1nNmc2dFd6ek5EVE9Fbll3c3N5NXV1ZWUxRjlSVVI1XzRWX19uaTQ3U1Z3cTJ2Snluc2xYeGFuMDBBQkZUamdKeUJuemgyR2U2V2JJYm5XVHd3ci1xZktaelRDYWs2QmIwMjNSdVBkNWNuSVZxSDZ1WVRGdHloV3ZKekZudGxhQzFmemhiTkNLTG800gG8AUFVX3lxTE9nY3c5djJYRnl0WmFFajl2cU4tWkdRb09Xek9DMEV1Mlh6a3g1LTVsYmo2RFNLTU1kbTc5bTRYR2xZLTlyTFpYVEhlcnRFMi1JSVpXSUZVNjJvWElHTlhXcG96Vm5rbjNOeFJaaW5SU2ZEcm1EYjNrZlk3a2NPaG4wMGdoNXFXRlVTNmlHZm1qVENPV2dMZXVWS2Nqa3N2LWJQVE1BNFZuQ0llSXNMaFUtSVpxaVp0SDZVbE9Z?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "DMK leader alleges caste slur, files plaint against fellow worker - DT Next",
+      "source": "DT Next",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQekpTLXlXTHlYUWc2bjE1TV81WkJQUUR0MktGS2xfLVkwdjZrbVAteERXQ1U4dnlJR3QwdW1yTVotcVl0aVhjLVVRWDNXeUJuRlREdW1pcktqNmZlaEE4VzVPRlpvWkg2WVhyV3B0blFqMVZiRWt0bmZ1S2prdEI1cHpyaDRjbDFHWmtpbURQS1p3NXNNMGpFQ0RsMHhYdDQzLUkw0gGwAUFVX3lxTE41R054Q3UzRFpNbjhMTFpKWDVYaVdCaURLbkNTNFBfR1p1c1d5cW1WSTFlSHFqeDdJNno2UlU1a2hQVi11eGh2NjZiVG8tZ2hYaGM5LUdxalAtUUFTUWI4TmptVWpSTlR5bHNUdC1WY0hlaWsxUERzcHZOblVFREJHaW9WRnhiUF9CcDM1SjBSRDBkdmZDV2FHQW9TMEtiRWxZSGxrc3loOFViemZYMVNJ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:23:45.238188Z",
+  "collected_at": "2026-09-02T14:35:16.879451Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +204,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.493572Z",
+        "fetched_at": "2026-09-02T18:38:09.994351Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +220,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.493581Z",
+        "fetched_at": "2026-09-02T18:38:09.994362Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +236,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.493586Z",
+        "fetched_at": "2026-09-02T18:38:09.994369Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +252,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.493591Z",
+        "fetched_at": "2026-09-02T18:38:09.994374Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +268,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.493597Z",
+        "fetched_at": "2026-09-02T18:38:09.994381Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +284,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.493601Z",
+        "fetched_at": "2026-09-02T18:38:09.994386Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +300,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.493605Z",
+        "fetched_at": "2026-09-02T18:38:09.994392Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,12 +338,28 @@
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "G.K. Mani accused of conspiring to ensure Sowmiya Anbumani’s defeat in Lok Sabha elections in Dharmapuri - The Hindu",
-        "source": "The Hindu",
-        "severity": "medium",
+        "headline": "Will Dharmapuri vote for change ? - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYVVDdGsxZUR4cDlLT2JYMW9pZXd4VlJ1TEtyejhkZUo3QzJqNkxTZnVvaFlqZVdzLVZxTHBhOTdZeUFpWTVwdXBDUDV0N1lSaVU3SnBUbnkxbVhhbDd1UlBwZ0RSSVRqQkFEcDlKVGhwUjRYbjlMN194VUhRam9WSEtIMnBYQkQ3S1hwNG5uZTUzMVNKdUFsbWlFMHYtZHFVSXBMZzV3ZExKellENl9nT0R3Slp6VmR2V21PR1pMM3VXTkFKVnNpc1ZLelV5Q3MxQTVLZjNMa19rRDloRlFQSDU0ZUliS2lsUk1hei01aUFxWjdQdWd1WFg0WlBxUdIBhAJBVV95cUxQbndqVV9TbE1ET3NWR0NsaEg0V2JvaUlJMFpKT3Frc1B6ZXdfaDQ0TzlkcS11WlVpeVlDRXBFYnZnVDRVcEJGR19DWFVnQm5nX1AzYWVsQUo3NVF4bF8yQTR2cENPTHU3NVo5X1RoQ3haNEJLWnJhcU03d0tTMXNxZEF3R1d3bWMya1ItVmEzUG1hVHIxbE56cGZPUERGQzBHUWJ5dE01aUtiMFpPLWxTSWk3MTZBZ0Mzd3NjZVcxQ21ZaG9Ib3VyY28xZXdCUXR0bDNraHo1MWNzdkVkUF9UanBtY2Q2dTVIS1RfNFAwV05PVjdER2hCdWhOLTdOZzY2WDR3OQ?oc=5",
-        "sentiment": "negative"
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbmR0bmt1WHRBTFBOa3ZUUWJ5bjNDOFhLcGhmZ1FfUFpUNmZPcks0ZEROd2YwbkJPSGQ5RlF1SG1acS1GcHhYc3JtbjhCX1Z6Vm1xdXZmdzB5bWZESTQ2ejF3QVhMblZwdVV4LTgyWnF5dHVMZlZrUWpuWkRmRHdOSGFlMDVIT0N1WW9jSVczQjBOT3l5b0hZWFZR0gGnAUFVX3lxTE1xdWtsWi1LSjFjUmF0R3hXM1FzX2ppTmtKMjV0WF9IMEVpMzlCOUQ4aWRBX0VRUHg0VHd4RmJXX1JlUXF3aDRKakhlX2pkTDFxdWNEcVVKSGF2LWZBb1hVYzZBWnZHYlVEVkFIcHdTUVdtWXY0YzZ0T2dROEtRQUR1MmQ0TUdPRE5YSlZjQWRNWGlnclNqb1RNWEFkLVF1TkFkdGI1a2J3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "GK Mani is Stalin’s right hand: Anbumani - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3lyQkVmRUhSN3h2U0pfYnZCQ1EyRGpjcXRyTlgwSm85dzB6SUtaMEhDQVdvYzY4dHdRckhQVC14SE96c0FCcVVRcHk5eG82MXBfUDBrajR6cVJPTFpFbkkyN3VxSTFxb3VlOEdPbHFILWNfNzhCVUJHNWVDWWNCSnYzODJfMDYyTUNOLUFvSHI5U3F0SjdnaHJ6YzY5M2wxcW5wYVZBMkx2b3JSSHZxaUkwNEFLM2PSAbwBQVVfeXFMTlFmN21YMWxlVzlfMHpYc1AyeHd5Y2dGZ3RqODE2azhSbG1KZm5tNkg2TktTa19RYWVRRU02ZTZNWVpOaXJwQ0UyNHJ1TUs2Z28zM2Vwc3dkUzRlSnNWTEdEMTlGNW1BRmtGdlZ3WE1ZQzZQOWFzX0pqc1paQjNCZEJnSzlEeTAxdWs4VU5HbnNORlpUVVAtN1dpX0sxWTBCT2tGT0pDWm14cDJNeEVHbmFmZHF6dHJlY0ZibUc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dharmapuri Election Result 2026 Tamil Nadu: PMK's Sowmiya Anbumani wins Dharmapuri by over 20,000 votes - CNBC TV18",
+        "source": "CNBC TV18",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSnBwVlpvREtfNkxMTURDODFfNG5LUm42Nmw0X29mM2pBSDl5V3dqeUpYWV91ay11UUdRVWE1UllpTHRGakFtQV9FTDZVODAtNW1DQTlqMmt2bXY0c1BFNFRxRnZRM0VpZE5ITk51RXVnZXQ1VW5HbExUYkktR2lISnRPU2d3c2dDVGI0eTJFQ3FnbkwxM05YMWszN3ZtaHdMVl9vMWVSME5XVHpsRU5NZjNBV2FhYllNNm9wVWgwY3Z1MXFJV3M2Wnp4WDZEYng5a1dMMVBfRHY4X04zV3EzMXphQjhWZmd5Q0NBSUh3X1RKUG8?oc=5",
+        "sentiment": "neutral"
       },
       {
         "headline": "TV debate sparks AIADMK-DMK clash in Dharmapuri - The New Indian Express",
@@ -280,27 +370,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Farmers urge railways to reroute proposed Morappur-Dharmapuri line to protect agricultural land - The Times of India",
-        "source": "The Times of India",
+        "headline": "DMK leader alleges caste slur, files plaint against fellow worker - DT Next",
+        "source": "DT Next",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeXNRd3EwNmE2OS1kajhwZkpYYUNLVWZ1eEdlVTdEX3FENFZ6MTY4YWVIem9hYXBFclZsd2tEWjBKODlzQV82bEZNenlndjRDOWxGNDdMcnNhUWlYZjVXdEZ6MUJoNEdaVGluWjhnNzRwZF9EQW9XMjZkWmc2UGhjLUhPR0NjSmF0eUE3bi1hNGhUaF9UM1VzbEZSNzhTUldLYTVsMFNhbFlIdWFYWXNIdmo0U0NwZlkxanFRLThiRnh1ZG1IZHBVQlZSWGlxT2xGbThKamNqMk13YkNPQjljbVJIdXlGdGtwYUxrTGpkY18zMUpHMVVZOHd2S2tPaXYyLUM2ctIBigJBVV95cUxOQm1uU29vSzM5T0hDSTVIN0NUc0hqOGw5amIyVWJqVW92bmFLeWt6WTNUbzhiYXdGVnhFS18zY29iUVR6Umw4bEd4dEx3azkyZjZYckE0SG1xdnd6azNxN3dIVE1OM2JBU2VocVU0ZHFGblZBUnhZVzVvc0JTQ2dpemJBQUJDa1pZRWhRanE4WjJLb0VINFZEVndmdGJBLXBHQTFIUE8zVF9BdDRqbWtsbVR4YkRUMWR2LTZ0TVhYaDExbmE5WTJVcGJ4SG9tZzRFNXlrZ2xkaEh1R0QtQzFhVjhSVnh4TmJDTmFHNl9ycHBsZ1dWc0pUcVhuZThhMnNkREVwM2Q0cThuQQ?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "CM Stalin dares PM Modi to repeat ‘hate speeches against TN’ in state - The New Indian Express",
-        "source": "The New Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1JIUW9uVmc0YlN3YjFobk5TWnpyVmFTeW1GNy1XdE9Nek5hTXQtTFRaeERpV1BIaU5penNTTXoydXdSZlBYZk41UWk4RDAxUTUxN3hKMmpxcXZLSFdMVGVDSW1IS2x6Rm1NSlVDYnFwZ0tfNnlTTVV4NU5HYnR4MkpOQkhkSXVkNmtNdVl6RHpwM1p5cmQ2Z3E1eHowYzFxeTBIS1h3cHAxR05MdDFETGJlSWJVc0U4aVV0bVoweHZsa292b2xDRGNn0gHXAUFVX3lxTE0xck5rakpPdUtBVjdZTXpla185UDRuM1J4ekV4VVJzLTJtYVhSY3p0RTBMdzlVakNoZjF5cG95LWhTX1NMRE9ONHZIcExKbG9iUE9HZ1oyN0JINW9jU1pScGdwZlQ0bEp3cl9lZWpDSVdqYmdYYnJzWWs3OXpldEJ3RjRIZlVDZ09lOGhGTGc0TFNac0J4Q3RBemlfTXhwaWxsazhUY1AxeHZsSjV6VTEwOFVmUy1hUk5hMW1iaUtreXg5dnZYS1ZLYUM3WEk5bWJZSkJMRnlR?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "CM Stalin dares PM Modi to repeat ‘divisive’ remarks made against ‘Tamil Nadu’ during Bihar campaign - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTzVINWxGZHNLbnhFekJNUzl1QWNrMWdWYjBqTG9zTzZaOUNVb3d4bWpMV0N5NUhDa2VCTjRjei05TFpkc01jRmhYUlJfVUhheUZKc2JacVZvLW9tY2hZVkpEZ0QzQU5QNzRpVUloeXBuUzRTYU41QnRObXl2N2tMOWRsUk9sUkdTekliNzFkclZNNjlCbnUtelJGMUl4VmJCRnN5U3p2elYtNHVTSGJ4cGoyYl9JcW5OTndlOThuVzNlLUd2cFZIUGJveFJIS2tfMTZrZldLeXYzc09sWEYta2tDbU9qMnFkZFpzX9IB8wFBVV95cUxNQVVFYm41SkszYjQ1aTM5X3FzS01JSm9tckpOZVZ6YTkxWFJrdDR4MWlGVkpCUkJJemFwVEVmR2tkdFNkVkNQRlZwMzVYT2xtT2VXM3NWbHhDZjdGeXRMSXRtM3pGTEZuUVR0WlptamhJX2c4Q2F1WXJuV01MRnFyM1k1X0F5M1JhMUhtSDJWRTI4MndWWXIyT2M0WHVtU3liYUpZSWcyekY5b1ROaGJ4amh3UnJwb2JMUVZoNlhUZ2tHZ1NoaXFUV3lZSlVJZDhqdWJZOHBIVjRiVFVZdGlJUXg0SVJ1cW1iYXFzcGFaQXN2Wmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQekpTLXlXTHlYUWc2bjE1TV81WkJQUUR0MktGS2xfLVkwdjZrbVAteERXQ1U4dnlJR3QwdW1yTVotcVl0aVhjLVVRWDNXeUJuRlREdW1pcktqNmZlaEE4VzVPRlpvWkg2WVhyV3B0blFqMVZiRWt0bmZ1S2prdEI1cHpyaDRjbDFHWmtpbURQS1p3NXNNMGpFQ0RsMHhYdDQzLUkw0gGwAUFVX3lxTE41R054Q3UzRFpNbjhMTFpKWDVYaVdCaURLbkNTNFBfR1p1c1d5cW1WSTFlSHFqeDdJNno2UlU1a2hQVi11eGh2NjZiVG8tZ2hYaGM5LUdxalAtUUFTUWI4TmptVWpSTlR5bHNUdC1WY0hlaWsxUERzcHZOblVFREJHaW9WRnhiUF9CcDM1SjBSRDBkdmZDV2FHQW9TMEtiRWxZSGxrc3loOFViemZYMVNJ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +408,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 20,
+    "starred_questions": 6,
+    "unstarred_questions": 14,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 39.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +424,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 85.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

@@ -24,52 +24,66 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 292066245.0,
-    "liabilities": 278995721.0,
-    "net_worth": 13070524.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 77.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 3.56,
-    "expended": 0.33,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:16:18.187524Z",
-        "notes": "Official eSAKSHI REST API — Works: 10 recommended, 9 sanctioned, 1 completed"
+        "fetched_at": "2026-09-02T14:59:01.737234Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:54:55.091108Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:54:55.087928Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 10,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 2.2448979591836737
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:30:16.796147Z",
+        "fetched_at": "2026-09-02T14:54:55.086831Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Vijayawada MP Kesineni Sivanath slams Nani over Rs 120 crore loan default - newindianexpress.com",
+      "source": "newindianexpress.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQekt3UFZCMUd2TWI4V1UtdThQa1ZGY3ZWS00wTy0yLV9xc0w3ZWVxWGxSejhWamZpa01qVzVkc2Y0eVpXYjZnOWpEZFZNVC1uMmRFa1JoTVlCWXFHcHlfaG1QOS00S1hHcXpSMF9xdlp0T3hyYzkxaUp5NGVUWk9WQUJOOGlmTkkydUtyUk16a3o0Umh2UHRnRE52Y0NSTGt2NUlDYlA2SXJxQ2plcU1RNWNhNHFjME51VDVMQ1ZDWkg2ZUUwc0thdGxwdnFOWkJaNW9KRWlYUdIB5AFBVV95cUxORXg1S3hKelU4cTJtVTBjUXhiZUlONHRIb19YcHloaGNYdEp3TFVqVmVVUGczZGRyQWdqYlMySUZXanV1MVVVM3hBVFcyUUJGbXk3WEEyekpaTDNCczB0d2VkZXlPMS01Nm93dHZqZTJKOE5jdEg2a1FsaUJURmtNTDNMRVU2NjlMT3d0QlI3WVBSamppMUNpSWsxa3ZoclR6M0szQnVrdkxwbDVtNXd1dFNWM3hTRjFybUhHelBFd0ZOV0FvczRDQUxkcjlXSEQyQk5ON20xbG9Ic1pNeDVkME5GNC0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kesineni brothers' rift reaches boiling point as Chinni files police complaint against ex-MP Nani - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS0FMVW9tb3RCUWVZbDVoN09hVUNVOGs5SUJES0VrbmhtcDQ4d1FzNHhCMkdLMU44aVRSME92OUltMEdpTW5yZGhWNllsclBlN1RqbzNBejZHLXVOZWJERzhZZjZ6Q1FGZ2NpTTltVklJYUpuanhpVE1uMFNWSE1mUDl0TWl5MjVVQ3lJQW54RjN0S1RvRWh1cno5OEFpZ3ZGRDJMbFhSTjFjaWFYMmtwYllLQVJSUlNIM3RHa1hvcVBNS21kanBfOVpjUElUTWlOZ0lvNGNSamtRR2cxSFBmUVVjMFh6UjFTeVZ0ai1pWGMtcFU1M1BYOC1ldjZVRE9BMEJQc9IBigJBVV95cUxNMm91b2NaNzNQVnZfaDFJenVSSUhPME1hQnMzdTZwWUhieHBNUnU3WENmV1RkWjRaNWkwLTRXSWphNHJGWHFvbVk2cDY2WjdTaTFOX2FTVksxak5jQjhGUVp2cUZiVmE3WlQ3VFd3U21mRnpDaHI5RUJ4SU5xb1c0cms5by04bUpuUURyVmdpbmpNT2xVcFQtVHZCSzhwX3Q3R3BuVUwwOFEtUE5YbWxiM0dGYXNyQ2FlcVpNaUgyc1E3b2IxOURwdUFGNXY3SUh0eVZpbEgzMFRVNGdIWUxyRmJwWEpaQXdhREdwNW84VUlhTVFqcXdJM1dpQ3p0MGdZd1JPWWZ5bTNMQQ?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "Vijayawada: Ex-MP Kesineni Nani Booked - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "medium",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN1AwNEFxM2dmeXJoSk55ZFNOWWwxTHR4WGFYLW0xbWItZk4yellHWEVTTERpa0RVbkR3eXpEQ0dJOG9va0RjR1BtZTZGcHVpV0xIUDh2Q0pnTzRaV3EtTWlPUjY4TkNwR1pzcEF2RUxreFJiSmJGZGVWc1JnRWVOMzVsRGhNSmVTNzBvTW9YSnNyMG1qZkJuZXZCcWpOdGtBOHhGVHFJM2F1eUM00gGyAUFVX3lxTE50Vm80anczMmVXYWJETWx3dmxpakotTzZpRlN5Rmg3M1dOTkFqcUJHY29XVW5lQk94Zk96WVo0dm5kOWJucnV6dk1RQnRZMC1KZG92VXB2eVFocFkwU0NoTjlER0Q5ZzlTN1ZCZDRjcm9OdzY5aFVQVy1wSkRCRXdnSDBvRHlKNGFBd2hIRGZsR0NzajBocGFuUks1U0RkOFBGT0ZKd0FQSUJMZDRnMHZuS3c?oc=5",
+      "sentiment": "negative"
+    },
+    {
+      "headline": "\"Amaravati to become permanent capital, Vijayawada set to expand\": MP Kesineni Sivanath - aninews.in",
+      "source": "aninews.in",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVnI1WmtFb3RoYlBwRjNKTnZOZzBNWXpiQUtyU1JNSFJwVmxjOGF6U2RZZXhjQ240VjdOVTJBekZ3TThUR094UnF1dHIxck8zaTRLMjh2TUdGcjNSMGlLYXctUXc2dnV5NGg2c2lhQnBBSTBGYTMzLTRReFM0dWFtR1ZyS2NsYXptSE5rN1FodjdiVExIY041U3ZHajRQMUJyU0o2RmQyYW04b3Y0TWFUWURvNl9DT3podGNsdzR0djA0YVNFQlJYdlEzUXExb0FBUjlrTlI4b3VXeHZzUEhVZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Kesineni Nani accuses his brother Vijayawada MP Chinni of targeting 112 acres meant for Hyderabad IT Park - NewsMeter",
+      "source": "NewsMeter",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQmNwWWlPWjFGR3lPQ0MxZzVPLTQtTVJSTzl3eEVudnc5X29xMXJXbjFoRVJUUmY0TzN4Zl9oTlJlQVZTX3h5R0Jqd2taYTNGa0Z6QzdLZDBHdzFyVnBUX2c5U3RPZEJzWjgyY0s0LThYYWRCeUJocXl2bHc2TG9VUE5PNkxKWnZsdFY3ZGlEVmZGb0tFNll4T3VUSzlfeHdsd2JWNXBVclg2QkdXX0RSTXAya2dLWV93Q3BGSHdlSndGZ0lXT1AtckZ0aF9GcF9vaU9TVHItbDZQWUFWWkJXYUw4SnB3c1hWSUdEY3h3?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:31:18.847214Z",
+  "collected_at": "2026-09-02T14:59:01.738225Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.415410Z",
+        "fetched_at": "2026-09-02T18:38:03.907812Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.415419Z",
+        "fetched_at": "2026-09-02T18:38:03.907823Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.415424Z",
+        "fetched_at": "2026-09-02T18:38:03.907829Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.415429Z",
+        "fetched_at": "2026-09-02T18:38:03.907834Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.415434Z",
+        "fetched_at": "2026-09-02T18:38:03.907841Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.415438Z",
+        "fetched_at": "2026-09-02T18:38:03.907845Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:46.415442Z",
+        "fetched_at": "2026-09-02T18:38:03.907851Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -248,49 +304,49 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 2,
-    "negative": 0,
-    "neutral": 8,
+    "positive": 1,
+    "negative": 2,
+    "neutral": 7,
     "top_headlines": [
       {
-        "headline": "Vijayawada Utsav will go as planned: MP Kesineni Sivanath - MSN",
-        "source": "MSN",
+        "headline": "Vijayawada MP Kesineni Sivanath slams Nani over Rs 120 crore loan default - newindianexpress.com",
+        "source": "newindianexpress.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQZkFfVlhtTUZmYXZXaG8zUEthb2VSZ2VoeDNfZThkaWVnaXg3alplWVJOTDlkVVNKZ2l0RUFnN3FLejBtX29mU0tQWVBZYzR4Zm1ZaHRxVU9McHNVWk1lTFJkME5yTW5KZWt6dlJsaHdYMFhzcjduamZUNGFlY2FQOS1fNkpfeDNfYXdPYUl4VW54NlZackpWSFZNYmlmbzNvWjlQemh3X1NvRm9BRzFOZUxUNndDM3l4ekItejZ4QlM0VkY4Q0U3SEh1T0kzcDN2WlNRamNNVmtCZlNJc1l2SG5WUnh3LVZCVUdkOHJ0YTZYOUpBR2Jyc3o2TEdMNWJYaFk3d0F5cldhOW1vSWI2a2RtYlZwV0dsZnFfcE41Y1E4WEVsV0ZOT3FaZWI4T1g4WW9zMWpNaGVlRVF1TDVV?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQekt3UFZCMUd2TWI4V1UtdThQa1ZGY3ZWS00wTy0yLV9xc0w3ZWVxWGxSejhWamZpa01qVzVkc2Y0eVpXYjZnOWpEZFZNVC1uMmRFa1JoTVlCWXFHcHlfaG1QOS00S1hHcXpSMF9xdlp0T3hyYzkxaUp5NGVUWk9WQUJOOGlmTkkydUtyUk16a3o0Umh2UHRnRE52Y0NSTGt2NUlDYlA2SXJxQ2plcU1RNWNhNHFjME51VDVMQ1ZDWkg2ZUUwc0thdGxwdnFOWkJaNW9KRWlYUdIB5AFBVV95cUxORXg1S3hKelU4cTJtVTBjUXhiZUlONHRIb19YcHloaGNYdEp3TFVqVmVVUGczZGRyQWdqYlMySUZXanV1MVVVM3hBVFcyUUJGbXk3WEEyekpaTDNCczB0d2VkZXlPMS01Nm93dHZqZTJKOE5jdEg2a1FsaUJURmtNTDNMRVU2NjlMT3d0QlI3WVBSamppMUNpSWsxa3ZoclR6M0szQnVrdkxwbDVtNXd1dFNWM3hTRjFybUhHelBFd0ZOV0FvczRDQUxkcjlXSEQyQk5ON20xbG9Ic1pNeDVkME5GNC0?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "CM Promises Solutions to Vijayawada Issues, Says Kesineni Chinni - Deccan Chronicle",
+        "headline": "Kesineni brothers' rift reaches boiling point as Chinni files police complaint against ex-MP Nani - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS0FMVW9tb3RCUWVZbDVoN09hVUNVOGs5SUJES0VrbmhtcDQ4d1FzNHhCMkdLMU44aVRSME92OUltMEdpTW5yZGhWNllsclBlN1RqbzNBejZHLXVOZWJERzhZZjZ6Q1FGZ2NpTTltVklJYUpuanhpVE1uMFNWSE1mUDl0TWl5MjVVQ3lJQW54RjN0S1RvRWh1cno5OEFpZ3ZGRDJMbFhSTjFjaWFYMmtwYllLQVJSUlNIM3RHa1hvcVBNS21kanBfOVpjUElUTWlOZ0lvNGNSamtRR2cxSFBmUVVjMFh6UjFTeVZ0ai1pWGMtcFU1M1BYOC1ldjZVRE9BMEJQc9IBigJBVV95cUxNMm91b2NaNzNQVnZfaDFJenVSSUhPME1hQnMzdTZwWUhieHBNUnU3WENmV1RkWjRaNWkwLTRXSWphNHJGWHFvbVk2cDY2WjdTaTFOX2FTVksxak5jQjhGUVp2cUZiVmE3WlQ3VFd3U21mRnpDaHI5RUJ4SU5xb1c0cms5by04bUpuUURyVmdpbmpNT2xVcFQtVHZCSzhwX3Q3R3BuVUwwOFEtUE5YbWxiM0dGYXNyQ2FlcVpNaUgyc1E3b2IxOURwdUFGNXY3SUh0eVZpbEgzMFRVNGdIWUxyRmJwWEpaQXdhREdwNW84VUlhTVFqcXdJM1dpQ3p0MGdZd1JPWWZ5bTNMQQ?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "Vijayawada: Ex-MP Kesineni Nani Booked - Deccan Chronicle",
         "source": "Deccan Chronicle",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN1AwNEFxM2dmeXJoSk55ZFNOWWwxTHR4WGFYLW0xbWItZk4yellHWEVTTERpa0RVbkR3eXpEQ0dJOG9va0RjR1BtZTZGcHVpV0xIUDh2Q0pnTzRaV3EtTWlPUjY4TkNwR1pzcEF2RUxreFJiSmJGZGVWc1JnRWVOMzVsRGhNSmVTNzBvTW9YSnNyMG1qZkJuZXZCcWpOdGtBOHhGVHFJM2F1eUM00gGyAUFVX3lxTE50Vm80anczMmVXYWJETWx3dmxpakotTzZpRlN5Rmg3M1dOTkFqcUJHY29XVW5lQk94Zk96WVo0dm5kOWJucnV6dk1RQnRZMC1KZG92VXB2eVFocFkwU0NoTjlER0Q5ZzlTN1ZCZDRjcm9OdzY5aFVQVy1wSkRCRXdnSDBvRHlKNGFBd2hIRGZsR0NzajBocGFuUks1U0RkOFBGT0ZKd0FQSUJMZDRnMHZuS3c?oc=5",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "\"Amaravati to become permanent capital, Vijayawada set to expand\": MP Kesineni Sivanath - aninews.in",
+        "source": "aninews.in",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT2U1UHV4WThmLUtaYUd0ZnpkWFRGVmh0amlSbFktc2xoNEJubWQ5c2M4OE5oc0dveTdOc01EbGNlOGhtemhxTV9qZ0JOVmNISjF5dll0Sm0teG9VZGpZcG1MajVDS2ZTZmRhdGc4bXljNXBzRWxiMHk5eGhPbkdlRHppeVVLTGlNMVhKTjg2dTlYcFlSMlJNbGM5YWthdGVNV1Y1QXVYY2V4Y0NZQnVlazZjQjdUV3o4ZFkzbUVUcGZRZFU5aGNaUHpuYk1wak3SAdQBQVVfeXFMT3FJOWtXem5kM203OGFWcUZlMGh6c3NkMTM3ZjdaR1RzcGtYbFNWcmFCTjRfV2kwMi1wcjM2WW9ZX24zczVmVjVabGZYRFNWRzF0OXFJd1FqUF9IcmhSdjhaNkJscWk2a0Q0TUN2bUVTdGl6TENSbDZMUVBNeVZrc2NZUlNxa2ljTWthazJFRmE0UFdwb3h0YXl3QXpKbVlPdjZlOHJ6Zm1EajlVNVVQNVRDSmNoQzdmNzFEc1hXSERHZnpxMkNxVW1JV0t4MWVSc0ZSaVI?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVnI1WmtFb3RoYlBwRjNKTnZOZzBNWXpiQUtyU1JNSFJwVmxjOGF6U2RZZXhjQ240VjdOVTJBekZ3TThUR094UnF1dHIxck8zaTRLMjh2TUdGcjNSMGlLYXctUXc2dnV5NGg2c2lhQnBBSTBGYTMzLTRReFM0dWFtR1ZyS2NsYXptSE5rN1FodjdiVExIY041U3ZHajRQMUJyU0o2RmQyYW04b3Y0TWFUWURvNl9DT3podGNsdzR0djA0YVNFQlJYdlEzUXExb0FBUjlrTlI4b3VXeHZzUEhVZw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "IEDP to support economic uplift\nof SC families in Andhra - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "Kesineni Nani accuses his brother Vijayawada MP Chinni of targeting 112 acres meant for Hyderabad IT Park - NewsMeter",
+        "source": "NewsMeter",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYU9JVk5MUE4tYi04cnhLWWZvUHdXd0ZrdjVqNTRZQVdhNWZid21VRGZzaUxQaW1TdWhfZWhfY1Y2aGkwY2ZQZlE1YXo1YnNwRS1JR19seXQxT2JibDRESjRHcEhtbTl4aTc5MXh0WU5qTWVHS0R4RFpjNmtWODU0TFJxSDI5UFVZb2lVdGlXTmtZRVdYZ01YZ0FGTEtYMnlTa0JFQW5aY1lreHJnMGNnc0dUbHBPQXRZeFpn0gHIAUFVX3lxTE13bEJLS2poaE44V2cxYWlrWEtjUEFDdEhUQ1c5UU1xWEtyazRFa09FLUhRbk4ybDZGUzgyVkYwbjFyVjFrdHR3Vjc4X1V5dzhVWXlGWFkxdGxBRFRWSmIwVlgyYmp6dUJzZmxjSVNpV1N2RFZ6Nk9xMXlJU0wwNXo5SHFlUC1XWmtyakFnM1NTSFRJeGotTkVzdjh3ZzNicHRJdkRSc1RORFhHMXVfa084b1lMcFdyRURFV3BVWlpqVVdyRy11bTZR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQmNwWWlPWjFGR3lPQ0MxZzVPLTQtTVJSTzl3eEVudnc5X29xMXJXbjFoRVJUUmY0TzN4Zl9oTlJlQVZTX3h5R0Jqd2taYTNGa0Z6QzdLZDBHdzFyVnBUX2c5U3RPZEJzWjgyY0s0LThYYWRCeUJocXl2bHc2TG9VUE5PNkxKWnZsdFY3ZGlEVmZGb0tFNll4T3VUSzlfeHdsd2JWNXBVclg2QkdXX0RSTXAya2dLWV93Q3BGSHdlSndGZ0lXT1AtckZ0aF9GcF9vaU9TVHItbDZQWUFWWkJXYUw4SnB3c1hWSUdEY3h3?oc=5",
         "sentiment": "neutral"
-      },
-      {
-        "headline": "Long-awaited road expansion begins - The Hans India",
-        "source": "The Hans India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYUNCUjFRcEpCNEt6bVpJZXNuSjNFWjU3SmxVUzA5NUFUVWhMMGFnS2VKRkdBSW9VLWx2THRaQWduU3dpZklHNlJZdkgwc2dHWmgtWF9hNWRkQ2ZNcXQ2d3pBS081c1lLLVFCUmtJY1BtN2RfNW1BbHpuTjZGSmtOMmJNNHY4bjl2cTdENmlsSdIBlAFBVV95cUxQcG1DYWs0cTFFWlZrcjczd1ZFd01iRVExNnVYZkNXd2JJYi1KU0l4MC1KclRfSGI0VFhiSUlfVmRYaUFvZFY4NThFeXh1Qnh4UjA2MW9tVjBZekVVbG9ieDVDaUVEZDlvbzdJekppM2VkNE1hVVNMXzVNQ05MTjFma3EyTFhPMldhUDZpRWVCTTVZWXoz?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "MP Kesineni Sivanath assures support for development of Nemali Venu Gopala Swamy Temple - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVlZLUlNWcTM3V2VZdU93a0RENTVPSkNSRFFSd0FnUVJ6aHJ0WGNVOGlwWlA4N2RhYUVkRWUtV0RvaTlySHpDUDl0ejdvOGZhaTg2eDk2T0tBdEdSV3ZVY3p4WWVVRDVKUW52T1F4aG41eEJuVlctNDY5Y29zOXZlTVc3ZENNRHotRjRRZGRnNEZ0Nm5UbmdRVXdFWndBbWstM18zMkstVVFyZEk2ckx1dlpuWWxfWmszaW1ZSWkxcFdjSHZ5RDFyQ1dTdzF3aXBQdTNzakpkSmJEWWNOTDN2MzZUNFVqOHVmZWx2MWsxRFdQeW_SAfoBQVVfeXFMTlZ0TldLMDBnOVJvM3JTRTBONzNvU3RhM3FkYk5URTlPQmd4bXJMdUVXd2w1UE5LZ0txVEF0bXp0amwzMkFfY3lXNW1oSmI0Y0UwTTM4aWtOWGZpbXhFcEp1SWtpM016RmFyeUliMTFTV19zbDYzcnhxMnQ0RVFfQk9NeU03cW05SjRVblIxREE5elNXYVRUX3U2X05GclZ1eC1LOUtwd1MtRFBETjlUZEJZOG1vazVSYUJXN0VhdjdNTUw2VmtxYzhvMjEwaHRwTFJXZXNpR0VhbUhKVkppYXJXMy1hYXBGZzRhNWNUQlE2Y1pwTHlIUXkydw?oc=5",
-        "sentiment": "positive"
       }
     ],
     "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -323,15 +379,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 54,
+    "starred_questions": 16,
+    "unstarred_questions": 38,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -339,17 +395,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

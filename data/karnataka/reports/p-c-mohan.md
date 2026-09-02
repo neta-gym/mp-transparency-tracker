@@ -3,19 +3,17 @@
 **Constituency:** Bangalore Central, Karnataka
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 60
-**Education:** 12th Pass
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 55.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 2.7 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
@@ -34,28 +32,32 @@
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
+### Cases Detail
+
+1. Crime No. 50/2024 at Halasuru Gate Police Station, ground floor, 01, Cambridge Rd, Halasuru, Cambridge Layout, Jogupalya, Bengaluru, Karnataka 560008 which has been stayed by the Honorable  High Court of Karnataka. (Sections: 143, 149, 188, 283, 290, 268) [pending] 
+2. No FIR Has been  filed. Private Complaint in PCR No.46.2019 was filed on 12.09.2019 by one Mr. Ananda T.R. Court of City Civil and Sessions Judge, CCH- 82, Bangalore (Special Court). The proceedings have been stayed by the Honorable  Supreme Court (Sections: 171G, 177, 181, 191, 193, 199, 200) [pending] 
+
 ---
 
 ## Asset Declaration
 
 - **Movable Assets:** N/A
 - **Immovable Assets:** N/A
-- **Total Assets:** Rs 81.31 Crore
-- **Liabilities:** Rs 15.86 Crore
-- **Net Worth:** Rs 65.44 Crore
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 91% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 16
-- **Released:** Rs 16
-- **Sanctioned:** Rs 1
-- **Expended:** Rs 1
-- **Utilization Rate:** 3.3%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -74,32 +76,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 2 | **Neutral:** 8
+- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Bengaluru Central MP PC Mohan hits back at Rahul Gandhi, says ‘voters are not Congress property’ | Bengaluru - Hindustan Times (Hindustan Times) [neutral]
-- ‘ECI Must Remain Neutral Without Any Political Allegiances’: Mansoor Ali Khan - Frontline Magazine (Frontline Magazine) [neutral]
-- ‘Insult to Hindus’: BJP MP PC Mohan reacts to Rahul Gandhi’s voter fraud allegations - The News Minute (The News Minute) [negative]
+- Centre did not get any proposal from Karnataka on 2nd airport, says MP PC Mohan - The New Indian Express (The New Indian Express) [neutral]
+- Shri V. Somanna, Hon’ble Union Minister of State for Railways and Jal Shakti lays foundation stone for Pedestrian Subway - PIB (PIB) [neutral]
+- MP says tunnel project could burden taxpayers and duplicate infrastructure - The Hindu (The Hindu) [neutral]
+- Bengaluru MPs slam Karnataka government over delay in approving 4,500 PM e-Drive buses - Moneycontrol.com (Moneycontrol.com) [neutral]
 - BJP urges Bengaluru Police Commissioner to cancel event supporting Umar Khalid - DT Next (DT Next) [neutral]
-- Rahul Insulted Hindus with Voter Fraud Claims: PC Mohan Hits Back in Bengaluru Row - Deccan Herald (Deccan Herald) [negative]
+
+---
+
+## News & Allegations
+
+- ! **Centre did not get any proposal from Karnataka on 2nd airport, says MP PC Mohan - The New Indian Express** (The New Indian Express)
+- ! **Shri V. Somanna, Hon’ble Union Minister of State for Railways and Jal Shakti lays foundation stone for Pedestrian Subway - PIB** (PIB)
+- ! **MP says tunnel project could burden taxpayers and duplicate infrastructure - The Hindu** (The Hindu)
+- ! **Bengaluru MPs slam Karnataka government over delay in approving 4,500 PM e-Drive buses - Moneycontrol.com** (Moneycontrol.com)
+- ! **BJP urges Bengaluru Police Commissioner to cancel event supporting Umar Khalid - DT Next** (DT Next)
 
 ---
 
 ## Data Validation Flags
 
-- [!] **mplads**: Extremely low utilization rate — verify data
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Karnataka: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-P C Mohan has a below-average transparency score of 49.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+P C Mohan shows moderate transparency with a score of 55.5/100. Minor criminal cases on record. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 813,065,207. MPLADS utilization: 3.3%. Parliament attendance: 100.0%. Questions asked: 24. 1 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Parliament attendance: 100.0%. Questions asked: 24. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -139,7 +153,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -218,8 +232,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for P C Mohan's MPLADS account: Released: Rs 16, Expended: Rs 1, Utilization: 3.3%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -237,12 +249,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

@@ -4,16 +4,16 @@
     "constituency": "Chitradurga",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1886,
+    "myneta_candidate_id": null,
     "slug": "govind-makthappa-karjol",
     "house": "lok_sabha",
     "sansad_member_id": 5559,
     "profile_url": null,
     "canonical_name": "Govind Makthappa Karjol",
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 73,
+    "age": null,
     "photo_url": "/mp-photos/5559.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:34:31.129381Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 43243598.0,
-    "liabilities": 0.0,
-    "net_worth": 43243598.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1886",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:47.707731Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 35.2,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 5.92,
-    "expended": 3.42,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:24:13.135129Z",
-        "notes": "Official eSAKSHI REST API — Works: 184 recommended, 115 sanctioned, 1 completed"
+        "fetched_at": "2026-09-02T14:43:48.502696Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:39:42.851957Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:39:42.849226Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 184,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 23.26530612244898
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 70.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:24:09.495997Z",
+        "fetched_at": "2026-09-02T14:39:42.848166Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Chitradurga (SC) election results 2024 live updates: BJP's Govind Makthappa Karjol wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOUlFFWDQ3d2RGSmd6dHBsSkYtN2VLV0RVWXItNHpuNjlaajJlRUwxNDZqV3RfS1ZmUl9vMEt3STg3bjNXNmZHWGtPOUdmTldwb1JmMFBzWEVRclZwWDQ3NWNzMGZ4am5jZUktSkU4NEI3d0Ryd19RbUZSNnRadnBBdTZNYzg5SHJGaTFwUm1XQV9DS29kTVJsOXgxUnJ0Nk1OOVdJZElDc0hHWUlyX1hJT1FLM3o0UVJrT0ptOG0zR0tCQzB0OEFuNU5wc0JEVDgxQ1pvbHBicGExQ28yMFEyUWpGRkNtaGhEYkZqVi1BMGVHSU9HbUE3UzlYWF94RUg4a0VPeEM3RFJnWmJhWGd6U1Q2Qkd6MGRNU3IxcmZ3VTJiTDY5ZFIwMDgxQ2FIZGNHSUZVTnlrOWZqbmx0eEHSAcMCQVVfeXFMTWJjbWhENnpIT0JEUGVsUDNzZVM1ZDM3WDlVSjQxU0hSOTdjRUp1MkFrVlNhQU5hbFVfWUlQajlfbDFaLTZGcFlRTnIxRnU3ZlVlR2VKd3JaalNqc2JQdVA3NUlEbmEyVEg3VjNzY2FCTkQzWmFNZVozZGJmd3hwZlJLanJuN0pYZ1RVUXZuVEJVLXhWUWhWN1dRY1dncko2Mkwxc1NuSlFHbFYyS24wcW1DUVJ1MlhlLXNxbV9oWEdESmh0ZGtNVGtWYXBsTnJ2bW9qY2dlM3FySGNSNWdKdlR4c256YmZNVjZlZEliOVNTVWdNV0t4TmxXMEE4SXV1UWw0U18zSUkyQk54a3BveFppVUF2MlVfQXFuLVpYUmFqQ3VPRGw0Nm1XZ0tFdUhVcUs2TjRneFlXVXRkRUFMLW1QWWM?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Govind Makthappa Karjol , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR2dmLUh6T3FuWld6MVBNQXFCYVplVGtfaEdRZ2prX1QwV2E4VG4tYW13SER2VG0zaFpTNWpvV096bWVQTEtIMlB3R2VRMUM5eUR2UjBoT0xlbE5qMjdqa1lZVmdqbElVQWx1S0pvQjBqMzUtZFJiR1hFUTMtdmdDamJ2VXlTZHZ1WnNYVFRQSEFZZw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Union Minister of State for Railways and Jal Shakti, Shri V. Somanna held meeting at Tumakuru, Chitradurga and Davangere with local MP, MLA, Railway & District Officials to review Railway Projects - PIB",
+      "source": "PIB",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLYnlYR0FhNkVoNmxvOXJ3Q01mWXluRl9MV091em5vR2FxcFdvOTRENHo3dmhDT0ZWbHc3X1ZMczRhcEpGZk9CR29MNzI3UWN5YXpJZUhfLWcxc3d3NGttOFlXNE4wdWJD?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Chitradurga Election Result 2024 LIVE Updates Highlights: Govind Makthappa Karjol of BJP Wins - News18",
+      "source": "News18",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnBNc1VOWHVqUVdlVWREcGlrWWQ2UWtVU2NNd2tpYWliVkVRUHFYbTlYOF9WX1NNQ0dzU19EVHBfV1VjTzdIbjlCVlA4MHMyb1RtSzNiWF8tLVJTY3hvWjdwV2dwSHRWLVlJVDdUY1Q5MDYtcXRWcUJkRDA2V3BETEFJd1lKSF93QnlmWHN1Uy1FWjJLT3ZkZlJRLS1VR3hiWlRTQ0xsVVg1TmdhcjBkcEZ4ZUVWRG1nc0FfVWhYeVlHOTJFdmtwcy12T09MT3dUNkJDeVQ5ZXJlUkNBd3V5b1RTeXJBc3fSAewBQVVfeXFMT1Y2LVRXTldUSGVTMUxpWHBzYWk4N0FQeFpueEhIdWRLTGxsTWlDemRpbE00V1NZUkkta0dhNHNoQ3ZHQkZENlBBMUxPdkVBcEVNVWtsUmF4djZNZXNfMVBSNVFvZHRTUlhfY1JLUTRaQWRSM291TllDanN3Y3pUMGNqWUFYcS1KWFFJY3VwME5jTXFtUkdSMlFGdlFuNjVGd3Y5TkdEYzhxa1FET3lwLU1JNkkyZlV2WkFWX3phbHhsTkRHbmlLRF9Vem9UUmJXT2dDOFk0SmQzam9ISExxOUpLUFRWSHpOTEdNQks?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:25:15.317588Z",
+  "collected_at": "2026-09-02T14:43:48.504516Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.999918Z",
+        "fetched_at": "2026-09-02T18:38:06.531106Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.999926Z",
+        "fetched_at": "2026-09-02T18:38:06.531145Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.999931Z",
+        "fetched_at": "2026-09-02T18:38:06.531157Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.999936Z",
+        "fetched_at": "2026-09-02T18:38:06.531163Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.999941Z",
+        "fetched_at": "2026-09-02T18:38:06.531171Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.999946Z",
+        "fetched_at": "2026-09-02T18:38:06.531176Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:48.999950Z",
+        "fetched_at": "2026-09-02T18:38:06.531181Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -258,19 +311,11 @@
     "sources": []
   },
   "news_sentiment": {
-    "total_articles": 10,
+    "total_articles": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 10,
+    "neutral": 8,
     "top_headlines": [
-      {
-        "headline": "Govind Makthappa Karjol , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR2dmLUh6T3FuWld6MVBNQXFCYVplVGtfaEdRZ2prX1QwV2E4VG4tYW13SER2VG0zaFpTNWpvV096bWVQTEtIMlB3R2VRMUM5eUR2UjBoT0xlbE5qMjdqa1lZVmdqbElVQWx1S0pvQjBqMzUtZFJiR1hFUTMtdmdDamJ2VXlTZHZ1WnNYVFRQSEFZZw?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Chitradurga (SC) election results 2024 live updates: BJP's Govind Makthappa Karjol wins - The Times of India",
         "source": "The Times of India",
@@ -280,15 +325,15 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Karjol seeks unconditional apology from Robert Vadra for blaming Hindutva, BJP for Pahalgam attack - The New Indian Express",
-        "source": "The New Indian Express",
+        "headline": "Govind Makthappa Karjol , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYUNmMjJMczc5dzRwQ3BQb3FRbG1mQm1nTEhxbEtvZUZmLUE3bkc1MzgybVgtUEN3dWxOeUV4M3RLUUw2UzhaMjVlNjc1TVhzM1kyclU3QUkzVnNCb0hJbVhHcTNTZ3F5SDFpalN6MUNNaU45Q2RTSlJxaHNPcFE0SkNJbnAyTnl3RjdWam9xNHlXNExmcnZjQTh3NEhJdDlxZWhQZWpaVTROa2ZmMmoxbng4YlVJVXNVYTIyTWE5TUtmLThWYzM2VTAzaHlEZktXU29udGU4MWM0TmZNeDZsSG1pbWZrMndyS3llaWdPdVE0QkFC0gGCAkFVX3lxTE9vZGM5djZNYy1TOUk5RXVISHR4aFZGZFhmTE5tTllvdFg4UE04bXRlcDdfcHQtRHp6cWZQS2lodkE0MW50dmgwcXFGeW1WV2hzUTh1X1gzSkxzYkpXekR1TVI0TWJwWE40dXpCMWNMOVRMTjRvR1FNb3FPZFVUbVB2Q1FXeVl2dWR2OXdhWmtkSVFfUDBpU1hEb3l3SHcwYWtQeHhhMlloNnMxZjVuVTNrb0phYnJvU0taM0ZVQklzWFNZSUZycnJjNVRjcm4tQTB2d2VKc3RsRkdEX2xpY1JJa2JVUlVSRXVQT0hhYjdpRElPa2ZyR25jWDlrTzZJRkNyUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR2dmLUh6T3FuWld6MVBNQXFCYVplVGtfaEdRZ2prX1QwV2E4VG4tYW13SER2VG0zaFpTNWpvV096bWVQTEtIMlB3R2VRMUM5eUR2UjBoT0xlbE5qMjdqa1lZVmdqbElVQWx1S0pvQjBqMzUtZFJiR1hFUTMtdmdDamJ2VXlTZHZ1WnNYVFRQSEFZZw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Press Release Page | Press Information Bureau - PIB",
+        "headline": "Union Minister of State for Railways and Jal Shakti, Shri V. Somanna held meeting at Tumakuru, Chitradurga and Davangere with local MP, MLA, Railway & District Officials to review Railway Projects - PIB",
         "source": "PIB",
         "severity": "low",
         "verified": false,
@@ -296,15 +341,23 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Govind Makthappa Karjol - The Times of India",
-        "source": "The Times of India",
+        "headline": "Chitradurga Election Result 2024 LIVE Updates Highlights: Govind Makthappa Karjol of BJP Wins - News18",
+        "source": "News18",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjQxcmhPZXc1ZllIdDZuWU04N3ktb1dBeEZPUmJfdzFpa0hyMmVPZVpEeFZVcGxQaklkakV5NUxUN0kxWWdwdnBCOUhzck85b3lDZG9PNWJwT0pDbmF1bElVbVZVN0lWMnpMY2VyYS1iNlY2YVd2OFlBcW9nbEF0cWdtZnVOWld6aFlzcGxmQTQ5TzR0dUZRZnJpalBqYngzcElQdTNQYUlKekZnUU84dlFvbmxhcEl0VU5PQ2FXUEg4aXhHU2s3RUh3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnBNc1VOWHVqUVdlVWREcGlrWWQ2UWtVU2NNd2tpYWliVkVRUHFYbTlYOF9WX1NNQ0dzU19EVHBfV1VjTzdIbjlCVlA4MHMyb1RtSzNiWF8tLVJTY3hvWjdwV2dwSHRWLVlJVDdUY1Q5MDYtcXRWcUJkRDA2V3BETEFJd1lKSF93QnlmWHN1Uy1FWjJLT3ZkZlJRLS1VR3hiWlRTQ0xsVVg1TmdhcjBkcEZ4ZUVWRG1nc0FfVWhYeVlHOTJFdmtwcy12T09MT3dUNkJDeVQ5ZXJlUkNBd3V5b1RTeXJBc3fSAewBQVVfeXFMT1Y2LVRXTldUSGVTMUxpWHBzYWk4N0FQeFpueEhIdWRLTGxsTWlDemRpbE00V1NZUkkta0dhNHNoQ3ZHQkZENlBBMUxPdkVBcEVNVWtsUmF4djZNZXNfMVBSNVFvZHRTUlhfY1JLUTRaQWRSM291TllDanN3Y3pUMGNqWUFYcS1KWFFJY3VwME5jTXFtUkdSMlFGdlFuNjVGd3Y5TkdEYzhxa1FET3lwLU1JNkkyZlV2WkFWX3phbHhsTkRHbmlLRF9Vem9UUmJXT2dDOFk0SmQzam9ISExxOUpLUFRWSHpOTEdNQks?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : Lok Sabha Member Of Parliament – K - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1IyempwdVRKQzRaLXdVMDZSSG5pQzFKQ29zWGZHM2FpU1k2TVpmdDduakVHZkYxSW5jYjVvN0hHcHd3YnUwSktTZlZiZHJzckRZbVB1dkdOODNScEVuMU9MYTkwX3BYOW9Dam41N25WdzZuaDI5SE5MMi1yR3BiUnVJZVRiRUE?oc=5",
         "sentiment": "neutral"
       }
     ],
-    "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+    "sentiment_summary": "Mixed/neutral coverage (8 articles)",
     "confidence": 0.5
   },
   "legislative": {
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 21,
+    "starred_questions": 6,
+    "unstarred_questions": 15,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 40.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 70.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

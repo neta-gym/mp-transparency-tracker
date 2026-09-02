@@ -7,15 +7,15 @@
 **Education:** Post Graduate
 **Profession:** Singer, Actor and Member of Parliament
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (57%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (44%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 59.4 / 100
+## Composite Transparency Score: 65.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 9.3 | 25% |
+| MPLADS Fund Utilization | 40.0 | 25% |
 | Asset Growth | 60.0 | 15% |
 | Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
@@ -37,9 +37,8 @@
 
 ### Cases Detail
 
-1. Details and present status of appeal (Sections: N/A) 
-2. No description (Sections: 900/2018) 
-3. No description (Sections: N/A) [pending] 
+1. 900/2018, PS. New Usman Nagar North East Delhi (Sections: 323, 341, 506, 34) [pending] 
+2. PS. Tilak Marg | Section 200 of CrPC (Sections: 499, 34) [pending] 
 
 ---
 
@@ -48,21 +47,21 @@
 - **Movable Assets:** Rs 11.80 Crore
 - **Immovable Assets:** Rs 21.02 Crore
 - **Total Assets:** Rs 32.82 Crore
-- **Liabilities:** Rs 1.02 Crore
-- **Net Worth:** Rs 31.80 Crore
+- **Liabilities:** Rs 2.04 Crore
+- **Net Worth:** Rs 30.77 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 79% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 83% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 23
-- **Released:** Rs 23
-- **Sanctioned:** Rs 4
-- **Expended:** Rs 3
-- **Utilization Rate:** 11.6%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -95,13 +94,13 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 3 | **Neutral:** 7
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
-- BJP MP Manoj Tiwari welcomes contempt proceedings against Kejriwal - thehawk.in (thehawk.in) [neutral]
-- Delhi CM Rekha Gupta, BJP leaders take metro ride after PM Modi's call for fuel conservation - The Hans India (The Hans India) [neutral]
-- MP Manoj Tiwari files complaint over fake Facebook account; FIR registered - The Times of India (The Times of India) [negative]
-- BJP Leader Manoj Tiwari Files Police Complaint Against Fake Facebook Account - NDTV (NDTV) [negative]
-- Delhi Confidential: Holi Spirit - The Indian Express (The Indian Express) [neutral]
+- BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - DD News (DD News) [neutral]
+- BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - India Tribune - Chicago (India Tribune - Chicago) [neutral]
+- 'This is Modi's dream...': BJP MP Manoj Tiwari renders song marking 12 years of PM - Deccan Herald (Deccan Herald) [neutral]
+- BJP MP Manoj Tiwari’s emotional video from 2020 is going viral linking to the Bankipur By-Election. - english.factcrescendo.com (english.factcrescendo.com) [neutral]
+- Manoj Tiwari accuses opposition of political motives in NEET controversy - The News Mill (The News Mill) [negative]
 
 ---
 
@@ -114,8 +113,19 @@
 
 ---
 
+## News & Allegations
+
+- ! **BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - DD News** (DD News)
+- ! **BJP Tiranga Yatras held in North East, Karol Bagh, Outer Delhi districts - India Tribune - Chicago** (India Tribune - Chicago)
+- ! **'This is Modi's dream...': BJP MP Manoj Tiwari renders song marking 12 years of PM - Deccan Herald** (Deccan Herald)
+- ! **BJP MP Manoj Tiwari’s emotional video from 2020 is going viral linking to the Bankipur By-Election. - english.factcrescendo.com** (english.factcrescendo.com)
+- !! **Manoj Tiwari accuses opposition of political motives in NEET controversy - The News Mill** (The News Mill)
+
+---
+
 ## Data Validation Flags
 
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Delhi: 8 relevant findings
@@ -124,11 +134,11 @@
 
 ## Qualitative Assessment
 
-Manoj Tiwari shows moderate transparency with a score of 59.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Manoj Tiwari shows moderate transparency with a score of 65.5/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 
-Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 328,162,601. MPLADS utilization: 11.6%. Parliament attendance: 90.0%. Questions asked: 67. Debates participated: 6.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 328,162,601. Parliament attendance: 90.0%. Questions asked: 67. Debates participated: 6. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -168,7 +178,7 @@ Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -247,8 +257,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Manoj Tiwari's MPLADS account: Released: Rs 23, Expended: Rs 3, Utilization: 11.6%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -267,11 +275,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

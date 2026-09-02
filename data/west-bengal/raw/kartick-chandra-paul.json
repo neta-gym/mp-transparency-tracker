@@ -4,16 +4,16 @@
     "constituency": "Raiganj",
     "state": "west bengal",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1801,
+    "myneta_candidate_id": null,
     "slug": "kartick-chandra-paul",
     "house": "lok_sabha",
     "sansad_member_id": 5691,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 49,
+    "age": null,
     "photo_url": "/mp-photos/5691.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:37:34.172147Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 50832860.0,
-    "liabilities": 26816742.0,
-    "net_worth": 24016118.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1801",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:55.906491Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 40.1,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 20.27,
-    "released": 20.27,
-    "sanctioned": 9.48,
-    "expended": 2.62,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:51:50.293749Z",
-        "notes": "Official eSAKSHI REST API — Works: 403 recommended, 203 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T15:29:38.518288Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:25:58.775723Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:25:58.773992Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 403,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 12.92550567340898
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:36:34.449134Z",
+        "fetched_at": "2026-09-02T15:25:58.773382Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Raiganj: New Aadhaar Seva Kendra to ease people’s woes - MillenniumPost",
+      "source": "MillenniumPost",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVR1VlBNR1Q3cTZlNVNoYkU5QzFFN1pwZmNULWhrWHlBTWdsWUlpaEYtWFQ2Z3NBcXJVVTR0cWx1MEw1YW9qNXE5NjNDb3JLQWkzamFuZzc4WXlpbUg1ZnhTby1TQkR6Ri1ISGNOZjJUd2IxYmJXOXFPX2swYU1pLXA0TW1oaDVGMmNxLXFHa2NMV2NaV1dBWlRtN1DSAaIBQVVfeXFMUHRoUENjaWtISDA2dUx1QTBSZUFRR2NMWWlIZEQ3UEJxYXRtZmxhUXEwSGtOSmFGRUFiZEloZlM0YkNmM0VkMzJsQ3ZuVG02T2F1ZG1fSDFxczUyUnQ5MzU3MTZ4RFdscFBzRHNWWlFjaW5mdEw3QUJ4VkQ2blNVUUtPR3ZtWmxvd0dsX1daYXhUYmtnWFEzcjY2cTA3NklyeHp3?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BJP MP posted as interim civic chief in Raiganj amid Kaliaganj municipality crisis - telegraphindia.com",
+      "source": "telegraphindia.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTEg5dHJXMTRENnlEbGNCU24wa1RoaW5sTU1tZTZUMmNSSWFKSWJhdlRLU1NjSFI4aE83S3hycHVWbXBVQ3ZLQzV6cWVLLU1XendnNzdKLWVuaHFISHlsR3JSeTVmcDlxYndrM29qWm43MkhMTFdLaXEyVFlCamVpWE1pY0wyQ3g1bkI0TXlGT3NpTV9qU19HeVRSbmpiQldvaXhvOGhibGlldDhIWjNfUlVPVDVNUEYydnVkXy1ROEl6djNhZ2FJbTdsRXdWYjB0eG8wcWVBY2p5QdIB3wFBVV95cUxNLWNhdjNBNHpoVlJHbzVCR2VNN0FJeWlYVlBoOEJXTUEwM1NWd0JuLTBxSkkxanEyVzhibkdBUzU0RnAzZ3pPTTg4Vm5jX25tZDJjSnRyQWp0ZngzZlN4bVVxVTI4Ui16NkVCWXIxV1Q0OWJnZThkSktKdE10dHRjMjRoakE3blBBLTlRd1E3ZGpieldwTXNJYkdMZmk4SlhKUTlDbnUtMGV5Umk4b0xPcWYyV3UxWGZWSGJLS1puRHBGcndkRG80VUp2eENMUzRzNzlxVXp6V0FETjNVMU8w?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Raiganj election results 2024 live updates: BJP's Kartick Chandra Paul wins - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOMWRlMmJEREtnSFlfRWZ5b0xXUlU3dmgxMDJqdjlmYUl6TXNFNEJQVFBmTXFpcmhsOTF5MHh1c29PWElkTjFQdHd0MzNOYXZndF9xVGVYV19WZEJEcmV2MGtQS0FyVUN5ZXlmOHF3d2ZmcFBDNFBkamNFeklYZUdHczRidHpPcXAxX3VTVTIxbFU0aW9IUWtVTlFFdkVtMHBTOEhSU3BDOWFIVkNmSGRMVUpXUkZZWWtGa3pqbXZ4R0JDTU9zV0FZNEQ2QmhjNjdGa2kzaUNPN1JpVHh5ZnBzOG9iWm1leGZTbGhtZEJZMFh4OEZNNVFmQjlRWlRJZUtUcVdYSjBCX3RTZl9rb0t0eWc1ZzFKXzdtQlZ3aEFzQXE2TWVRdWhBSkFPVVdlczNVTmlqUHE5RHBjeFhndnYtM2tndTZ4c1hoQmMtZEFB0gHTAkFVX3lxTE1hVXh0akRFNjBJN0pCVGQxcjAtN0g2Vm5SZDh2WWZhc2JrUDBxLVRMQlpyZDZHaEJmV0hWVnl4ZW5GRkFhc2lVME53ZHBWdjdidmlkenJGRU8zOGtmN0pRTm9aaENWRFBZQ2ppUkp6WFBrYjlHZXYwMlVqZHFVQjQ0ZjIzbUgwUXoyREVncjVCWkVMQnlFcU9GTDhYazJNOWloVlFROWhiQ25WWW1Ha25UQmM4WFdseG0tZTZjTkxxZ09FQzVfU2M2Vmc1cWdVSzlmM2RXUk1YVXNodGtXXzQwTG5OYnNXTElDNkFOdlNIaFdtUU9tU21nYXpVMXFncXE0OFZJV1JqU25MU0EtaW50RG1ROWRMYllHWERMQnY3OW1uUVBpVmZ2SXdpeGhsTGNlZHBCYTQ4V3dZQ19hZ2UwVng5OWNRa0h3WGplSmt0TzAzQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "MP Kartick Chandra Paul's plea to chief minister Mamata Banerjee for AIIMS clone - telegraphindia.com",
+      "source": "telegraphindia.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb1haQ1hZalRQc3JURV9BZzNoaGNoSWd6UWNGRk5SeUtMZFpUWGQwM3oyS3lJckl5dFJSYVB6OGpVTzlDemJBYzZqMTNfWG1LaE8zU25LR1JSZTVhUFBRMlhYTXFQRThwTVVMSUZtNjlrWHo2bkVlVHVKUzEtb0xOd3ZROHBMMlQ4MHFnUWZCZkZESVZFcV96cUEzZzBmYTBTRXJuaXFRVmRCU2ZSQS1wbEZtM2ZqclQ0UVFLTGdfXzBldEJHZU84a052ZXRfSzjSAdQBQVVfeXFMTkRDcHF2T1hHWHVoSDhGNzJ0a0hHZmtrVC1INUZNYzJxdE5IWkpXUHI0TXMtQWNtc0IyWmk0STRoaVBhLTRJTU5QUl9LVmprb25pLTQwOXI4b0toTUlDMjFyRktnN084REhNRWRkdnJQZVV3eWprd3Jtam5XRjB0TXVFRzFfbmdTamd1em8ySlNVQV9KSWVwdUYxeXp0N1pmVkF4YVhJb0l4ZGxrc0pmYjZCZGw3X0xjbDBYN2xiZFZNVW52LWp3V3c5WDRGTE1GVzl3NVc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Raiganj Election Result 2024 LIVE Updates Highlights: Kartick Chandra Paul of BJP Wins - news18.com",
+      "source": "news18.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPenpZdmRlckVCb1ZWZDR3eUI3STJlUkNRTnhNdGdRVkFtVFNqd1hTcW9IREtaMHhKMjZrT013N1NyN3RTNnc4dWJialN3VEpaVi13LXNqM0lrMWVLSnA4R2tpUzhNRll6MF9aZEhPc2dWYmQtZ1lfaVpoeFdxWXZvZFozaUsxNXpqUlRyUFprai1FYWJtN29jTlRhN2hnM3JXQU5YQ250a2tBdEVRUnlSMmhHNXFyeEJhVjhEZnl4NEhHSjAtNGdvVWtGMXVGRTQ5UkY3bE1UU1VraG8xMEgycllR0gHnAUFVX3lxTE5Wd1h6TEV0aWtwYzg3MkVtUlczNHlCZ1FyN3F2Qk1XVkRFcXBfcmU4dlRzTzF6ZW9NbGV0ZkJQcXlzUy1BX2twMGhFcGU4WTRJX05SUm5LMVotbDdMejk2d3BhR0lxcXpCY2JKc3ZNeFZDQ0hPLWM0bTJyZWl0RHVvVzhQTUJJb1JLanExMXZfamVnVFo5c0V3YzdlWGo4MDAyLTk5TkVwaHpxSGFRWVlXcU9WWWtBNFp5SW10Wk1hcEdGYVFVZ3pWUDRtZlJNRGlMSTdzU1M2N2VaNTZHOEFUMkdYSmNoVQ?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:37:18.483399Z",
+  "collected_at": "2026-09-02T15:29:38.519023Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.728689Z",
+        "fetched_at": "2026-09-02T18:38:12.357646Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.728702Z",
+        "fetched_at": "2026-09-02T18:38:12.357658Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.728710Z",
+        "fetched_at": "2026-09-02T18:38:12.357663Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.728718Z",
+        "fetched_at": "2026-09-02T18:38:12.357669Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.728727Z",
+        "fetched_at": "2026-09-02T18:38:12.357675Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.728734Z",
+        "fetched_at": "2026-09-02T18:38:12.357679Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:54.728741Z",
+        "fetched_at": "2026-09-02T18:38:12.357684Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,48 +312,48 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 1,
-    "negative": 0,
+    "positive": 0,
+    "negative": 1,
     "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Cry for connectivity: Residents of Raiganj and surroundings seek bridge to reach Barsoi in Bihar - Dailyhunt",
-        "source": "Dailyhunt",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbjVGenhOT0FFdmFTRGFMUFJRSjNpVmwzS1oyRlJ5aVJudktBeW5GLVVOcDNQR2J4NEZpcmo1dTZOWjBNOTF5YXQtS3prcF9BNzRRX3d4NWZlQTlULVFCMDhXM3lvU19GUU5iWElIT1czMFBQcTBBYXNVTEVyRmtHNlBxZjdIM201bTRVcU1DeElicER1aXNwUjlXaWdHYk5jTDN4dlBGQzR1akJwT1lwNEdzT19na1NGTXFCVVh5c0NWdG1qQUlwdDd6U1NGQ210dUtGb3UwRGkxQ1puZ2R5UEstNDBPaDZ0RzhDeUQwaTc2elV1SS00WjV1R0VJbDY2dUFHdVNvV1JWREtNdkkzZGVZMA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "How four graves in Uttar Dinajpur fuel TMC vs BJP war, deepen poll faultlines - The Indian Express",
-        "source": "The Indian Express",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTmhuU3ZTUEdoYXdPaWd1R2FjV2lTMzVoS0h2T0liVHNVaTN3QTBYbnVXQlZ0VDZZbmIyMW9CN2t5VUJzQ0E5US00dDZYWi1ZNjVsc3BCWjBVTFI2YVRQRmlDdnJFRm10WlBCak9pWE1HaVBrRXMxbFQxQVZmSDIwN0g2S1VCZ1pXcGE5ZVhsZVk4MHV0WUZSSzdTYl85S1kxQzdTeV9GZmFzRDJuVlY3U19QTnU1SkU2eEhjZ182WFpYTWRmbEhMMGNuVVlVNjdYUWfSAdgBQVVfeXFMTW56V0Rpd09PUXpTbV9aVkQyV2tZUzdYTXVxUGx1bUJfcWhVSWQybkVVSUxzeHpra2dXUlRDZWxtUGUwYUNyNXJ1VlVVbkxVM2w0WUUtdXlXMUtpYThwb01OZVhSWDl0R1M4c3JLSFNPYzhHWW9OSlFmbTdZZFdYSm5BMWlIdFViMW5VbkFhVTh6RGI3MWpZdjQybHJwcXl4bFgyMDlrUmNFWUNmNE9TOGpjRWxVTTB4QlV1OTJjMFMwdWhhbUpMNzlfOVFFZ05Cb1d0X1pQNnhh?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Corridor linking Bengal, Bihar, and J’khand to pass via Raiganj - MillenniumPost",
+        "headline": "Raiganj: New Aadhaar Seva Kendra to ease people’s woes - MillenniumPost",
         "source": "MillenniumPost",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUloUlppZ29WRzJMX3owbkM2aDlmdmEzaGxzZ09FVFFfaS1hVXdmYS0zN1hLOHRPUE56alBtU2dGVnJMUnRObTRmUlR0UlJoX25BRVZBc3RYRERqeWFTQzNLZVZUdnh2QWlpRkhHOF9zSWZ1djFrLWlBeWQxc0dNYndTMFliSGpNX2FjajhESHVqUEZMR0NWcHh1Q3lTR1lUQU1qcVRFQdIBrAFBVV95cUxNVmZOOWVVNUNTaVVZa3d6NUZzdHB0Y0dRNkE4R1RvOXhDVFBnYTZXcThRNUNOZWlCSXFRTkNCa3Bqd09CN191QmlKanJUUVZzQ0hEWkFBaGcxc3NuMHRyTHNsaENVTG5jUVoyVzMtdk5vLVMxUnB3SzRJb0JxMEM5WmFvOWMwSzI1Ri1zWF9SdS1ndkIzbDZNR0NCLUdHLVhRQktyeGVIY0RpQ2ht?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVR1VlBNR1Q3cTZlNVNoYkU5QzFFN1pwZmNULWhrWHlBTWdsWUlpaEYtWFQ2Z3NBcXJVVTR0cWx1MEw1YW9qNXE5NjNDb3JLQWkzamFuZzc4WXlpbUg1ZnhTby1TQkR6Ri1ISGNOZjJUd2IxYmJXOXFPX2swYU1pLXA0TW1oaDVGMmNxLXFHa2NMV2NaV1dBWlRtN1DSAaIBQVVfeXFMUHRoUENjaWtISDA2dUx1QTBSZUFRR2NMWWlIZEQ3UEJxYXRtZmxhUXEwSGtOSmFGRUFiZEloZlM0YkNmM0VkMzJsQ3ZuVG02T2F1ZG1fSDFxczUyUnQ5MzU3MTZ4RFdscFBzRHNWWlFjaW5mdEw3QUJ4VkQ2blNVUUtPR3ZtWmxvd0dsX1daYXhUYmtnWFEzcjY2cTA3NklyeHp3?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Bengal MPS Show Uneven MPLADS Delivery - The Sunday Guardian",
-        "source": "The Sunday Guardian",
+        "headline": "BJP MP posted as interim civic chief in Raiganj amid Kaliaganj municipality crisis - telegraphindia.com",
+        "source": "telegraphindia.com",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTUw1MDd5VUd6NEo4VURiN19WRHozQ2hCME5JdkRyMFVEUG5iVWhNcHhLNUZRVjk3eTdfUlg5andVQ0NaTnl3Y0c0YldYQVlUNk1MRFMxcWc4SmtIRG9EaUdOdExuRVYtbUxaeVNDekJwTm9WVkxkVjhRSXg2QTZVM0tZNlNlWXBQbVE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTEg5dHJXMTRENnlEbGNCU24wa1RoaW5sTU1tZTZUMmNSSWFKSWJhdlRLU1NjSFI4aE83S3hycHVWbXBVQ3ZLQzV6cWVLLU1XendnNzdKLWVuaHFISHlsR3JSeTVmcDlxYndrM29qWm43MkhMTFdLaXEyVFlCamVpWE1pY0wyQ3g1bkI0TXlGT3NpTV9qU19HeVRSbmpiQldvaXhvOGhibGlldDhIWjNfUlVPVDVNUEYydnVkXy1ROEl6djNhZ2FJbTdsRXdWYjB0eG8wcWVBY2p5QdIB3wFBVV95cUxNLWNhdjNBNHpoVlJHbzVCR2VNN0FJeWlYVlBoOEJXTUEwM1NWd0JuLTBxSkkxanEyVzhibkdBUzU0RnAzZ3pPTTg4Vm5jX25tZDJjSnRyQWp0ZngzZlN4bVVxVTI4Ui16NkVCWXIxV1Q0OWJnZThkSktKdE10dHRjMjRoakE3blBBLTlRd1E3ZGpieldwTXNJYkdMZmk4SlhKUTlDbnUtMGV5Umk4b0xPcWYyV3UxWGZWSGJLS1puRHBGcndkRG80VUp2eENMUzRzNzlxVXp6V0FETjNVMU8w?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Political Profile of Kartick Chandra Paul, Bjp Party, Raiganj, and Net Worth - India TV News",
-        "source": "India TV News",
+        "headline": "Raiganj election results 2024 live updates: BJP's Kartick Chandra Paul wins - The Times of India",
+        "source": "The Times of India",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWUlUTHZORGZPV1VCUGNSc2JIREswYW0xTnd6WVNsTkpad19obFNXN2h5cWdnam5QSUQ1d0JiZEZJRTY2VmNnYXIzX1lURlc2RXREY2poMjR6akR5VnpKTmZhWlBLYVotVHVMYVlhTVZTY2dWVkFibzNnTkI4aHY1N1BHOGIxQlhTQnhla19oa21tQTA4Qmw1NVRPQmpHeFNrWW5mQWdLblVDWUpEMW5kU05RZy1oTENTNk9mWUVmWk1FZG03NTZHRXFBYW1CVFhhSzVLdVBkYUV0S0JwbHE2emhUdXN3dw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOMWRlMmJEREtnSFlfRWZ5b0xXUlU3dmgxMDJqdjlmYUl6TXNFNEJQVFBmTXFpcmhsOTF5MHh1c29PWElkTjFQdHd0MzNOYXZndF9xVGVYV19WZEJEcmV2MGtQS0FyVUN5ZXlmOHF3d2ZmcFBDNFBkamNFeklYZUdHczRidHpPcXAxX3VTVTIxbFU0aW9IUWtVTlFFdkVtMHBTOEhSU3BDOWFIVkNmSGRMVUpXUkZZWWtGa3pqbXZ4R0JDTU9zV0FZNEQ2QmhjNjdGa2kzaUNPN1JpVHh5ZnBzOG9iWm1leGZTbGhtZEJZMFh4OEZNNVFmQjlRWlRJZUtUcVdYSjBCX3RTZl9rb0t0eWc1ZzFKXzdtQlZ3aEFzQXE2TWVRdWhBSkFPVVdlczNVTmlqUHE5RHBjeFhndnYtM2tndTZ4c1hoQmMtZEFB0gHTAkFVX3lxTE1hVXh0akRFNjBJN0pCVGQxcjAtN0g2Vm5SZDh2WWZhc2JrUDBxLVRMQlpyZDZHaEJmV0hWVnl4ZW5GRkFhc2lVME53ZHBWdjdidmlkenJGRU8zOGtmN0pRTm9aaENWRFBZQ2ppUkp6WFBrYjlHZXYwMlVqZHFVQjQ0ZjIzbUgwUXoyREVncjVCWkVMQnlFcU9GTDhYazJNOWloVlFROWhiQ25WWW1Ha25UQmM4WFdseG0tZTZjTkxxZ09FQzVfU2M2Vmc1cWdVSzlmM2RXUk1YVXNodGtXXzQwTG5OYnNXTElDNkFOdlNIaFdtUU9tU21nYXpVMXFncXE0OFZJV1JqU25MU0EtaW50RG1ROWRMYllHWERMQnY3OW1uUVBpVmZ2SXdpeGhsTGNlZHBCYTQ4V3dZQ19hZ2UwVng5OWNRa0h3WGplSmt0TzAzQQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Kartick Chandra Paul's plea to chief minister Mamata Banerjee for AIIMS clone - telegraphindia.com",
+        "source": "telegraphindia.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb1haQ1hZalRQc3JURV9BZzNoaGNoSWd6UWNGRk5SeUtMZFpUWGQwM3oyS3lJckl5dFJSYVB6OGpVTzlDemJBYzZqMTNfWG1LaE8zU25LR1JSZTVhUFBRMlhYTXFQRThwTVVMSUZtNjlrWHo2bkVlVHVKUzEtb0xOd3ZROHBMMlQ4MHFnUWZCZkZESVZFcV96cUEzZzBmYTBTRXJuaXFRVmRCU2ZSQS1wbEZtM2ZqclQ0UVFLTGdfXzBldEJHZU84a052ZXRfSzjSAdQBQVVfeXFMTkRDcHF2T1hHWHVoSDhGNzJ0a0hHZmtrVC1INUZNYzJxdE5IWkpXUHI0TXMtQWNtc0IyWmk0STRoaVBhLTRJTU5QUl9LVmprb25pLTQwOXI4b0toTUlDMjFyRktnN084REhNRWRkdnJQZVV3eWprd3Jtam5XRjB0TXVFRzFfbmdTamd1em8ySlNVQV9KSWVwdUYxeXp0N1pmVkF4YVhJb0l4ZGxrc0pmYjZCZGw3X0xjbDBYN2xiZFZNVW52LWp3V3c5WDRGTE1GVzl3NVc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Raiganj Election Result 2024 LIVE Updates Highlights: Kartick Chandra Paul of BJP Wins - news18.com",
+        "source": "news18.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPenpZdmRlckVCb1ZWZDR3eUI3STJlUkNRTnhNdGdRVkFtVFNqd1hTcW9IREtaMHhKMjZrT013N1NyN3RTNnc4dWJialN3VEpaVi13LXNqM0lrMWVLSnA4R2tpUzhNRll6MF9aZEhPc2dWYmQtZ1lfaVpoeFdxWXZvZFozaUsxNXpqUlRyUFprai1FYWJtN29jTlRhN2hnM3JXQU5YQ250a2tBdEVRUnlSMmhHNXFyeEJhVjhEZnl4NEhHSjAtNGdvVWtGMXVGRTQ5UkY3bE1UU1VraG8xMEgycllR0gHnAUFVX3lxTE5Wd1h6TEV0aWtwYzg3MkVtUlczNHlCZ1FyN3F2Qk1XVkRFcXBfcmU4dlRzTzF6ZW9NbGV0ZkJQcXlzUy1BX2twMGhFcGU4WTRJX05SUm5LMVotbDdMejk2d3BhR0lxcXpCY2JKc3ZNeFZDQ0hPLWM0bTJyZWl0RHVvVzhQTUJJb1JLanExMXZfamVnVFo5c0V3YzdlWGo4MDAyLTk5TkVwaHpxSGFRWVlXcU9WWWtBNFp5SW10Wk1hcEdGYVFVZ3pWUDRtZlJNRGlMSTdzU1M2N2VaNTZHOEFUMkdYSmNoVQ?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +387,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
+    "total_questions": 1,
     "starred_questions": 0,
-    "unstarred_questions": 0,
+    "unstarred_questions": 1,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 1.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +403,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

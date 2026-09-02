@@ -4,16 +4,16 @@
     "constituency": "Banka",
     "state": "bihar",
     "party": "Janata Dal (United)",
-    "myneta_candidate_id": 2229,
+    "myneta_candidate_id": null,
     "slug": "giridhari-yadav",
     "house": "lok_sabha",
     "sansad_member_id": 3830,
     "profile_url": null,
     "canonical_name": "Giridhari Yadav",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/3830.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:33:19.560367Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 17281101.0,
-    "liabilities": 5695769.0,
-    "net_worth": 11585332.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2229",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:44.891160Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 15.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.77,
-    "expended": 9.35,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:20:37.767312Z",
-        "notes": "Official eSAKSHI REST API — Works: 90 recommended, 88 sanctioned, 80 completed"
+        "fetched_at": "2026-09-02T15:23:03.755200Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:19:23.040176Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T15:19:23.038207Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 90,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 63.60544217687075
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 80.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:37:08.356450Z",
+        "fetched_at": "2026-09-02T15:19:23.037393Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "JD(U) moves to disqualify MP Giridhari Yadav over anti-party remarks - economictimes.com",
+      "source": "economictimes.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN0pyeTBpcXpuTWFHUVB5ZjZORFZjX3NUZVBOcjAtTWZtUEtoRUdybGRLb1N2OEp1aHZYVWhlWW1jT2ZCV1pZMDBEbTctOGhZQkhtdXZ1X2tNMkZFODJuS25sTUlVQ1FpTG5iNVhlTUJ6a0ttNTNGWkZpWElEMWNVX2kyTjFsT2Y5a0VSYjVJZTBTY0JXLVZ0Tk1xcTBkUXdEVDVPNWhXMG14R0tFTEN0SFd5eVl6VUJMWkxmZG8wYXlUZndyT1pZNldraGZLZ2ZIWHVuNXFQYWN2V0EteEHSAeMBQVVfeXFMTk9rcFJBSkpHOThtNG16N09COGN4cEtmQ0luWDFpWjZFaWJYcjk1emtERDJXTHlMMWIxLVRmZExzN19ESVVsMmF5emtVZEE0aDNtSzYzWFVHeDM4UEJPVWE0Slhra3d1eWZIekJ0eGh5MjZQd21FaWU0eWp4SjRvWXBrUGhvU1JkZmE2SXJXWEdLYzM0SmFDUFp1UU5kcTZGa2dDdEZkWjA3YlVDaXpGYXlaY0x0c1NyalRHV25wX180cDlLajlmRWVydmt2b0NVandqRGJneDZqZnRtUUdrN29QdFE?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "\"I have no such record for any anti-party activity\": JD(U) MP Girdhari Yadav over disqualification notice - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTEVjYXh2WElJVUF3Ujk3cy0ybjBlcExCNjRvTTdJRzJwQ0JsZXZEUjlBc21DaEhtZ0N4cHlILTNVbGttWjFnSXh3OHg4RDI5QWgwZm52TUJJMmtkSVBxUkhWcmx6VnVsZlQ0REtXbEdSVDgtM21TUmc0eDJtSTk3Zm1NU2pNV1Y1ODFFbTdmXzh3MGRiaGEwOWUzWi1nblY5UXN4TklMelo5Y25zbG9KQjhyaU1wbmFYcUZ3enpEcGlwZmp3RGkzVUJGN29GeGNBYUFkTkpGOGE1WHJMVjhOT20yQnc0RjEzU1d3Rm1oanpaQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Why JD(U) just moved to oust its veteran MP from Lok Sabha - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnFPX0tqRnB6X0dnZUk0WUt4eFNGcGFkMkhEeDlYMTdfckowUU9ZMHFrTTFWMFFQRklnRTJ5OG55b2JRRDJlUllNQVB0UnBtXzZQTVZVejhaMFJ2RGFJNmw0Z0lROWJRZTJBbGlUWUNtNE1BZnZjU1Y1c05zNXZSUFY5di1nVHg4YjFVSTJ3NWhxbkVKalVuLS1hYXBfaDRHbTQ5RnVMb3F2S3pzN1FWedIBtwFBVV95cUxOSlpHYWw5QWxNV1hMQjZrczhIQWYtcmF1Mk03QlJYcHJ3ZFM0ak1sWDV1elNFZVN3a2hHc2haRnpKZkVoQU1mNWtkeWFMVjBydzZGUU5taVdqUkFUaE5jeS1pU0NIR2t2R3FsN0o3bU1lRlZJa3F6Zk9kbFhvTTFDU0J2Rm9ab2lrUm1ZSHNLalRTSzl6SnhLeWZBcjl3V2wyelJhcnVSMVlqTTVZclh0UURWcHA1ZGs?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "JD(U) initiates disqualification proceedings against Banka MP - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaEttVnBIY1NZeFNWamY1NUdBbHAxeXpwQjduY0g0R0lGOXEyUUMyc0NwUEliWkhtQ1RncEstTHNya0tKOXdXeWJRdnExQkJHcTdCdzQ0N0hWQVlveG5raGJ6SURYc1RmYl9sQTVKYjRuSk1Ya05TcnNfVkhJT3gtNTQyOWtPMTFVcGZoWnJMa2cwVlNkNG8wbmRreXlXMzhuU0RpaEhrd3JzcjFwUDRQdXptaTVNR016SnlnaXpTMmlCR0xJaVlrelBLdEnSAdIBQVVfeXFMTmhndW9mMjRMX256d3pFTlg2Skg2OEI2ZjluTk1jZTdXNy05MG1OSGpoVFBIbnRuSmU3bUZSVmVDS2YxTGc1Mjk3Vl9MSkNSb2FwRjFIM3Z0ajJXcV9ocEdyWUNKUlYyWTdqQnViTUlWQlFod1VPRVVMM2ZxVUc1QzFXaER1WE5wUTE1RXJBREtXMm5nRWJUSlJjZzlSMlFucndWZ3RLZTNxZGNrT0tDeDNyODk4X2hkbjRPd0t3X3ZVWXdTOFZITEN2cnB5U1RMcmFR?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "JDU issues show-cause notice to MP Giridhari Yadav for criticising SIR - The Federal",
+      "source": "The Federal",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVRJVnBqWm8yNC1FUEYzYjhTQjF5YWZ6bHA2Qmw3ZnhUa0w2eXYxbExjX2RFYXp4T1dKTVcwbmRJQnY3SEZRVHNZeTlTTDRsZ01KWjl3OWFxMTg5NUVOMXcwcDJCWGl5aEtNaGNwLXJ4M1lnLWFDZTRoSmQyZENjUzlnTVZFYklCTm5XU0F1WHBkcUthWUJnUDJkR1VHOXduWmpLSmlTcnh3eU4yS1FFMkVRRVo?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:37:47.303120Z",
+  "collected_at": "2026-09-02T15:23:03.755971Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.121775Z",
+        "fetched_at": "2026-09-02T18:38:04.565242Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.121785Z",
+        "fetched_at": "2026-09-02T18:38:04.565254Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.121790Z",
+        "fetched_at": "2026-09-02T18:38:04.565260Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.121795Z",
+        "fetched_at": "2026-09-02T18:38:04.565266Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.121800Z",
+        "fetched_at": "2026-09-02T18:38:04.565272Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.121805Z",
+        "fetched_at": "2026-09-02T18:38:04.565279Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.121809Z",
+        "fetched_at": "2026-09-02T18:38:04.565285Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -242,7 +295,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:47.121813Z",
+        "fetched_at": "2026-09-02T18:38:04.565290Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -267,11 +320,36 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "http://www.twitter.com/@GIRIDHARI YADAV",
+        "url": "https://x.com/http://www.twitter.com/@GIRIDHARI YADAV",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "http://www.facebook.com/@GIRIDHARIYADAV OFFICIAL",
+        "url": "https://facebook.com/http://www.facebook.com/@GIRIDHARIYADAV OFFICIAL",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T15:19:56.243772Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -280,27 +358,11 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "JD(U) moves to disqualify MP Giridhari Yadav over anti-party remarks - The Economic Times",
-        "source": "The Economic Times",
+        "headline": "JD(U) moves to disqualify MP Giridhari Yadav over anti-party remarks - economictimes.com",
+        "source": "economictimes.com",
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN0pyeTBpcXpuTWFHUVB5ZjZORFZjX3NUZVBOcjAtTWZtUEtoRUdybGRLb1N2OEp1aHZYVWhlWW1jT2ZCV1pZMDBEbTctOGhZQkhtdXZ1X2tNMkZFODJuS25sTUlVQ1FpTG5iNVhlTUJ6a0ttNTNGWkZpWElEMWNVX2kyTjFsT2Y5a0VSYjVJZTBTY0JXLVZ0Tk1xcTBkUXdEVDVPNWhXMG14R0tFTEN0SFd5eVl6VUJMWkxmZG8wYXlUZndyT1pZNldraGZLZ2ZIWHVuNXFQYWN2V0EteEHSAeMBQVVfeXFMTk9rcFJBSkpHOThtNG16N09COGN4cEtmQ0luWDFpWjZFaWJYcjk1emtERDJXTHlMMWIxLVRmZExzN19ESVVsMmF5emtVZEE0aDNtSzYzWFVHeDM4UEJPVWE0Slhra3d1eWZIekJ0eGh5MjZQd21FaWU0eWp4SjRvWXBrUGhvU1JkZmE2SXJXWEdLYzM0SmFDUFp1UU5kcTZGa2dDdEZkWjA3YlVDaXpGYXlaY0x0c1NyalRHV25wX180cDlLajlmRWVydmt2b0NVandqRGJneDZqZnRtUUdrN29QdFE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "JD(U) initiates disqualification proceedings against Banka MP - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaEttVnBIY1NZeFNWamY1NUdBbHAxeXpwQjduY0g0R0lGOXEyUUMyc0NwUEliWkhtQ1RncEstTHNya0tKOXdXeWJRdnExQkJHcTdCdzQ0N0hWQVlveG5raGJ6SURYc1RmYl9sQTVKYjRuSk1Ya05TcnNfVkhJT3gtNTQyOWtPMTFVcGZoWnJMa2cwVlNkNG8wbmRreXlXMzhuU0RpaEhrd3JzcjFwUDRQdXptaTVNR016SnlnaXpTMmlCR0xJaVlrelBLdEnSAdIBQVVfeXFMTmhndW9mMjRMX256d3pFTlg2Skg2OEI2ZjluTk1jZTdXNy05MG1OSGpoVFBIbnRuSmU3bUZSVmVDS2YxTGc1Mjk3Vl9MSkNSb2FwRjFIM3Z0ajJXcV9ocEdyWUNKUlYyWTdqQnViTUlWQlFod1VPRVVMM2ZxVUc1QzFXaER1WE5wUTE1RXJBREtXMm5nRWJUSlJjZzlSMlFucndWZ3RLZTNxZGNrT0tDeDNyODk4X2hkbjRPd0t3X3ZVWXdTOFZITEN2cnB5U1RMcmFR?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "JD (U) submits notice to LS speaker seeking disqualification of its Banka MP Giridhari Yadav - ThePrint",
-        "source": "ThePrint",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTmRHVVg3ZFFOTUdNM2JnZGdOaURNVHMyN3BDTVJMQU9Ma3lHMTIzS2N3QWlzSGNNc1FBZHpYUE51WU5LZlNDY1NId3FCSW9wTktSMFlaU0UyRDNTM3BhdFI1dk10ZnVSSnRwMGFXSkxnemQ2OTduZUtJUnRtVS1lazFSZ1Z6em5ZaS1MSk80WTcwdERVYUtOb1lrd2RJenhLaVFTam9SWFZKd3FLVWtTRlM1YU94MWcwN3ZtWUp0cU1HdknSAcgBQVVfeXFMT0NVdVNhN2UtRlNUMVFYOW1EM2IxdkN6Wk05T0toN2NNT2h3ajJhSkxBb19TVDZmYUFsYVpBRi1TXzlhdDNyUmw2dVptZzRRWkJBVll0YXVOTUYwQTRvRVlrNjlNTVZWVTdwSkxYZmhvWmF6Z0tRdWNROHpfamhmcGQ3Y0ZBOF92TmFVRU1DZkVUUU5VZHVVTmZaT1QxT3hiQ1U4UktRTWdkZUZLLUJ2eGYxWThhVTFlZGlKdU0wcmJKbGY1Q0ZGUHc?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -317,6 +379,22 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnFPX0tqRnB6X0dnZUk0WUt4eFNGcGFkMkhEeDlYMTdfckowUU9ZMHFrTTFWMFFQRklnRTJ5OG55b2JRRDJlUllNQVB0UnBtXzZQTVZVejhaMFJ2RGFJNmw0Z0lROWJRZTJBbGlUWUNtNE1BZnZjU1Y1c05zNXZSUFY5di1nVHg4YjFVSTJ3NWhxbkVKalVuLS1hYXBfaDRHbTQ5RnVMb3F2S3pzN1FWedIBtwFBVV95cUxOSlpHYWw5QWxNV1hMQjZrczhIQWYtcmF1Mk03QlJYcHJ3ZFM0ak1sWDV1elNFZVN3a2hHc2haRnpKZkVoQU1mNWtkeWFMVjBydzZGUU5taVdqUkFUaE5jeS1pU0NIR2t2R3FsN0o3bU1lRlZJa3F6Zk9kbFhvTTFDU0J2Rm9ab2lrUm1ZSHNLalRTSzl6SnhLeWZBcjl3V2wyelJhcnVSMVlqTTVZclh0UURWcHA1ZGs?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "JD(U) initiates disqualification proceedings against Banka MP - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaEttVnBIY1NZeFNWamY1NUdBbHAxeXpwQjduY0g0R0lGOXEyUUMyc0NwUEliWkhtQ1RncEstTHNya0tKOXdXeWJRdnExQkJHcTdCdzQ0N0hWQVlveG5raGJ6SURYc1RmYl9sQTVKYjRuSk1Ya05TcnNfVkhJT3gtNTQyOWtPMTFVcGZoWnJMa2cwVlNkNG8wbmRreXlXMzhuU0RpaEhrd3JzcjFwUDRQdXptaTVNR016SnlnaXpTMmlCR0xJaVlrelBLdEnSAdIBQVVfeXFMTmhndW9mMjRMX256d3pFTlg2Skg2OEI2ZjluTk1jZTdXNy05MG1OSGpoVFBIbnRuSmU3bUZSVmVDS2YxTGc1Mjk3Vl9MSkNSb2FwRjFIM3Z0ajJXcV9ocEdyWUNKUlYyWTdqQnViTUlWQlFod1VPRVVMM2ZxVUc1QzFXaER1WE5wUTE1RXJBREtXMm5nRWJUSlJjZzlSMlFucndWZ3RLZTNxZGNrT0tDeDNyODk4X2hkbjRPd0t3X3ZVWXdTOFZITEN2cnB5U1RMcmFR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "JDU issues show-cause notice to MP Giridhari Yadav for criticising SIR - The Federal",
+        "source": "The Federal",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVRJVnBqWm8yNC1FUEYzYjhTQjF5YWZ6bHA2Qmw3ZnhUa0w2eXYxbExjX2RFYXp4T1dKTVcwbmRJQnY3SEZRVHNZeTlTTDRsZ01KWjl3OWFxMTg5NUVOMXcwcDJCWGl5aEtNaGNwLXJ4M1lnLWFDZTRoSmQyZENjUzlnTVZFYklCTm5XU0F1WHBkcUthWUJnUDJkR1VHOXduWmpLSmlTcnh3eU4yS1FFMkVRRVo?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -350,15 +428,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 30,
+    "starred_questions": 9,
+    "unstarred_questions": 21,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 58.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -366,17 +444,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 80.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

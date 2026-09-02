@@ -4,16 +4,16 @@
     "constituency": "Pali",
     "state": "rajasthan",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2574,
+    "myneta_candidate_id": null,
     "slug": "p-p-chaudhary",
     "house": "lok_sabha",
     "sansad_member_id": 4597,
     "profile_url": null,
     "canonical_name": "P P Chaudhary",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 70,
+    "age": null,
     "photo_url": "/mp-photos/4597.jpg"
   },
   "criminal_record": {
@@ -24,60 +24,74 @@
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:12.123775Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 407176661.0,
-    "liabilities": 19486942.0,
-    "net_worth": 387689719.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2574",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:51.915292Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 81.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 2.47,
-    "expended": 1.21,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:45:01.245462Z",
-        "notes": "Official eSAKSHI REST API — Works: 34 recommended, 32 sanctioned, 5 completed"
+        "fetched_at": "2026-09-02T14:31:25.650016Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:16.921962Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:16.919924Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 34,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 8.231292517006802
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 100.0,
@@ -92,7 +106,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:25.288436Z",
+        "fetched_at": "2026-09-02T14:27:16.919146Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +114,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "ONOE panels mulls safeguards against midway dissolving of houses: JPC chair - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGtqc1o2NTRLQ0w1dzNwSXR3Uk5TZ2ZoOGFPOUo1X01qY3FROGtsRk81SnlNTjBWSDlHbXhSbWtzUTBqZFBfVDB3RGlkNm5LVzBlZlNDblFCUEt6alRnQzR4UVQ3NGNuUkVXQW1Kdjc2aXpJdUhkUGFsOFRZeXJXQ0I0LV9jS0M5U29TZk1NdC1DeTFYZkxOUXVSSGo0RUM3dG1lOXBXVmxVWnRuTlRQQzk2NVNCX19LTDV2ZTdCWnBpcjjSAdABQVVfeXFMT1FIQWdyV3U4SDdpY3NwaDBoVDV0VFFXSXhmQWVQOEViNFRwUDdpdUhJYndSMndQS2VlcDUtT3dKTmNCVFdQVG1NWk5BdGkxUDRlamlEX1duQ1praHg0LTZHajhqdEdYcEk5dk9CZHhxcnQ3TnlnSy13X3FwTTJacEsyNmZhazJHVEtkdWVHaWhhRmxRVUtMNWlSNjVKbXpYQUFsbklNRlVjQXVuUjBBN1l2ZURRWTRReEFneS1UYjNRSV8zbmUwNGJKd252RHdobg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "No PM Modi’s address in Lok Sabha today, House adjourned till tomorrow - Nagaland Tribune",
+      "source": "Nagaland Tribune",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDhSeE9GbnhjaHA5ZzhsVGdhYUpsTS1rVUNHY240WXpVQm9qcjhSSEhScTFYaF9acF9RdndzTGZOcmlqMXF0cHhPWWZlVmdrQ2lUV1VvdHBtUms1aFhOUTFodTdhdzA5ZnVjZ1ZhRlIwZjNiclJGQU54NlRvcWlqTzIxZ3JpV2JtVUVqMXM3OGRLOG12YkJBUm9TeEs?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Simultaneous polls could be operational by 2029 general elections: JPC chief - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjdVV3l2SDNiMjN6VGRtandoTGdPNjBJdWxkWjNWclM1cWVYbGFhb2FPNGxlS25acFpWWUprMDlxWjQtdkplRk0wM21BQm10UFV6NWlaLUxlaTE4YUVZUGtNN3h6WHN3bDNDZWpYSE5mcHVyMWdiZlZPX090Wm1mN3RnakdFN1p5RmVzTEdCQlJqWHFfT3BXYmFla1VzeVVOSDdkSVREM01hWFpvUFZOcEVjdUw5TmNPdkR2YnZhVElRaWhk0gHSAUFVX3lxTE5fQnhoc01fc3lNLXBybDJiRmc2Z0hBTVBDQTgzb1RyV1JLYmtFeFd6VUt2SkFScTFWSFUzTjhZSFBHdmRaOG11VWczdEVONnJVUnVHZFZiTTBadjkzb2h2VFhuVjVTY0FMcVNYYmkzejhwX29DUzNZT0hGUktOQnBGU3VLcXdSWngtbU1acDVRRjR6WGtuc0plNGJ5VkhzRHdEeXFGWXRGSGJ0YWlEb1JqS2tPM3N3dm9RWUN0ZEI3cWRFWlduTGdVYzE5ZkFSTFZSQQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Newsmaker | Who is P P Chaudhary, the BJP MP who will chair House panel on one nation, one election - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSVc2amM3OGs5U3lhSXpIbG5taWRHYm5nbTI3bERTWGtCaXdUMXlVMlJQZXdfbzRhWEI2UWRhZUVHeVFkZzVDenkyME5Gb3M5RFRpM2l5MEtlby1Fc1R5Nm9vUlhUS2xIWDZFN3hQbVdwRUlvNDAtZVhqRVV0WkxVODFXUmxfSlNRbk81Ny0tMzQyTTVJUkxaR0tLXzNZRTVBV3NHRm1hc3Uwd2JFSjNIQy1PUUd6TUhVSTI1cUxMNzE4XzdNMTY1U3pPYUxrd9IB1AFBVV95cUxPV0ttSVVUNGdKbmdRN21yUlZCVDlZSmJraUJ2RjZ6Z0E0elE5VWpGbkNkOHVNOXNJWmpJY1NlVUxDX3JwWm40MUQyRnhyb0xPakxsRHdZR1hWb2haLTVhdEF0YUpHTENaLV9vODk3cXktX1dJdEl5T1M0UUF6Rl9kMzZjU2RkZWQ5QzYwUS13YVo5T3c2eWF6NG55Q2RrTnE3M0lTVUpMMm5yNl9VMm1RLU92Z1dCcG9PbHhLcFIxOV9kOVBhRXdCYi1wNGs0cmpaRW42SQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "LS polls: Rajasthan BJP's Lumbaram Choudhary files nomination from Jalore against Ashok Gehlot's son - ANI News",
+      "source": "ANI News",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWDRWbXBXV1EzWFluSnkwZHkxUlB4dE5IWk5WSnBrNm0xaTRqRlRWcjVqZ0VWdlRlTHZXbGpVSkNfQy0xZ0JDSWQtSE55emFURnNPV21XUUVjWUVQTlRQV1BMQngtbWdINnRTNVYxbzcwZWNJU3lYNkFvaFpTbUk5MzVpMVRKV2FHSUlKaThTWEs3X2twVl9BRl9fRlRhV09NQW1OZjFzZzJRQjBPZ0RHbkRIVWpObTZENWQ4bTBlN1dUcnREMmxORXRTMEtBS19BcEhvQXZVX3RuUnQ0V01WT2twOW9lUndsOEs4a0pzcm93RTA?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:29.275811Z",
+  "collected_at": "2026-09-02T14:31:25.650796Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +183,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.116956Z",
+        "fetched_at": "2026-09-02T18:38:09.538170Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +199,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.116964Z",
+        "fetched_at": "2026-09-02T18:38:09.538181Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +215,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.116969Z",
+        "fetched_at": "2026-09-02T18:38:09.538187Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +231,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.116973Z",
+        "fetched_at": "2026-09-02T18:38:09.538192Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +247,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.116978Z",
+        "fetched_at": "2026-09-02T18:38:09.538199Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +263,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.116983Z",
+        "fetched_at": "2026-09-02T18:38:09.538203Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +279,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:52.116987Z",
+        "fetched_at": "2026-09-02T18:38:09.538208Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -251,11 +304,44 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://twitter.com/ppchaudharybjp",
+        "url": "https://x.com/https://twitter.com/ppchaudharybjp",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/ppchaudharypali",
+        "url": "https://facebook.com/https://www.facebook.com/ppchaudharypali",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "instagram",
+        "handle": "https://www.instagram.com/ppchaudharybjp/",
+        "url": "https://instagram.com/https://www.instagram.com/ppchaudharybjp/",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 3,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T14:27:23.671013Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
@@ -264,27 +350,27 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Madan Rathore, PP Chaudhary to get Sansad Ratna award on 26 July - First India",
-        "source": "First India",
+        "headline": "ONOE panels mulls safeguards against midway dissolving of houses: JPC chair - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZE44TnUyakZkOWs1aFRNdXFqbDZERWJPY2luZDY1NU9LWXkybFRLRHhTa0FwX2FINmZDS2dpZHZrN2g3NWUxdzBUQ183OFFkTFlQeEJBblFHQVcxaS1saWhFMmFjTUx5QW0yc0pfczdfTTJ3bk1LS05CUkFlMnFwSE43Tm1zXzFYT1R2bGpiTFNzaDBINXpuSXkwU2Y0Vk1CMmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGtqc1o2NTRLQ0w1dzNwSXR3Uk5TZ2ZoOGFPOUo1X01qY3FROGtsRk81SnlNTjBWSDlHbXhSbWtzUTBqZFBfVDB3RGlkNm5LVzBlZlNDblFCUEt6alRnQzR4UVQ3NGNuUkVXQW1Kdjc2aXpJdUhkUGFsOFRZeXJXQ0I0LV9jS0M5U29TZk1NdC1DeTFYZkxOUXVSSGo0RUM3dG1lOXBXVmxVWnRuTlRQQzk2NVNCX19LTDV2ZTdCWnBpcjjSAdABQVVfeXFMT1FIQWdyV3U4SDdpY3NwaDBoVDV0VFFXSXhmQWVQOEViNFRwUDdpdUhJYndSMndQS2VlcDUtT3dKTmNCVFdQVG1NWk5BdGkxUDRlamlEX1duQ1praHg0LTZHajhqdEdYcEk5dk9CZHhxcnQ3TnlnSy13X3FwTTJacEsyNmZhazJHVEtkdWVHaWhhRmxRVUtMNWlSNjVKbXpYQUFsbklNRlVjQXVuUjBBN1l2ZURRWTRReEFneS1UYjNRSV8zbmUwNGJKd252RHdobg?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Pali election results 2024 live updates: BJP's PP Chaudhary wins - The Times of India",
-        "source": "The Times of India",
+        "headline": "No PM Modi’s address in Lok Sabha today, House adjourned till tomorrow - Nagaland Tribune",
+        "source": "Nagaland Tribune",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOV184X0NGc3NYTFpRSHVGdmVMQ1oxZFdnNEY5MUNQdXZuYXkxSV9rd1ZhYkx2OU9fV0dKNER5SXdYaTI5M2lXZ0ZXRFhHZ2Q3dHVZOWVic3AzWnpfWGRjZlI5MDRVR0Q4QVBSV05DVk92QzV2bm8yRDM3YXFublAxZ0JnQ2NFXzdpQXhzTjZDUDhnRFJOcmN4SFdnUFNJcDhRYVpzNlVSbWF4VHNva2NfUDQwcjZ3X3F6Uk4tTEhGQTRZaEdpVEd5TVJQQWh5RWp6OGZhLWxzWmhnekp1NEZaX1BYenJvNnFiWVdNaHJTQWptUU10cUZPcnhyOFl2UzFwQ19hREJzNDkydF9WRklUemZSU0J3SkF6bWpYeE9EVV9nWC01OFNfcEJRRFEwYWh2cnfSAbcCQVVfeXFMTW14em9tVkloME11Qzhld3FFLW0yNHcxaXNUTXdNbWRSTlRPc2E5bS10N3VlM2tIaVlNU0QzbDFPRERYTmo3ZUZvNm9uNE10VGI0N29meXdkclJjTml1a25tQXFabExCb2xBeGpnSUNWRmtBN012Rk9NaWFqQldrc2pxMDRlR2dSNElHaEEyM3VwVmRCRU1fa1ZXX3BpZzFvY2RrRE5seXJpNUdwVVhCMXo1NzFBZEZXTlhSYWQwX3c0SzNVQ1oxVU16dWRmaGJTS0ltWFF5aU1sZWlqUkFyUTY1a1NsdXF3S2xGY2w4cmpsNzNIQlpHcEt0UzRaWEpSMnluR0JtRGd5Nmg2b1JnSGhwa254bmJpY1V2S1JVeHRFbWhCQk5SUFN3ZVlwcmdpdV9KY0tlcm8?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDhSeE9GbnhjaHA5ZzhsVGdhYUpsTS1rVUNHY240WXpVQm9qcjhSSEhScTFYaF9acF9RdndzTGZOcmlqMXF0cHhPWWZlVmdrQ2lUV1VvdHBtUms1aFhOUTFodTdhdzA5ZnVjZ1ZhRlIwZjNiclJGQU54NlRvcWlqTzIxZ3JpV2JtVUVqMXM3OGRLOG12YkJBUm9TeEs?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Why One Nation, One Election might have to wait till 2034 - India Today",
-        "source": "India Today",
+        "headline": "Simultaneous polls could be operational by 2029 general elections: JPC chief - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMUdKMnBJVWlnMDF0Q2paN1lzZm1LNEVNU2ZCbWFpVzBNUnE0MGRpTFJDY1NVZWpyaXRjYVJpdk90MkNiNXBCNHNhSmRhYUVBVFBXX29SYWxvWkJ1UFRpTHBEQWl6NnltMjNBYzM0QW4zWFBkUmp6MTFnYmIybUNuM2hTdElrLWNRbFhwTTN2NFhKTmlsOXZ3WTA4TzlELUlDaXBoV0x6RXpvNmZ3ZFJLcW1vOHBOb2hNRHhqOWk1bDJOVGJhVTI2WV9VSDJtd1JVajdaZHpZMDMybEdTNFZj0gHkAUFVX3lxTE1iMU1Wb3JMeGdiRFV4Zkh2aEVHRUZFNjF2NV95UW9kUnlfZElqSFBfaW92S3oxaHBwVlpSYVpsN0tEeDdYV3lwMUVlbDRqdzRTakVCaW4wRkZXTGRYV0tBMDIxR3JDbGhxQ1lBU0ZoZkFzTW01QmJjMnR3bU96TlMtOXZ4TThaQkIwTE5tZGl0M3o4VWZMdjZQV2RhNXY5R2dGWXB5T0J1Q1BObllzYlVaSlVGNEJUYktkMEhvM2c3UTFDaEljUW1wbVB0MWNfYWVUS1VmR1ZGYVV0dlpRdFFtMWNidA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjdVV3l2SDNiMjN6VGRtandoTGdPNjBJdWxkWjNWclM1cWVYbGFhb2FPNGxlS25acFpWWUprMDlxWjQtdkplRk0wM21BQm10UFV6NWlaLUxlaTE4YUVZUGtNN3h6WHN3bDNDZWpYSE5mcHVyMWdiZlZPX090Wm1mN3RnakdFN1p5RmVzTEdCQlJqWHFfT3BXYmFla1VzeVVOSDdkSVREM01hWFpvUFZOcEVjdUw5TmNPdkR2YnZhVElRaWhk0gHSAUFVX3lxTE5fQnhoc01fc3lNLXBybDJiRmc2Z0hBTVBDQTgzb1RyV1JLYmtFeFd6VUt2SkFScTFWSFUzTjhZSFBHdmRaOG11VWczdEVONnJVUnVHZFZiTTBadjkzb2h2VFhuVjVTY0FMcVNYYmkzejhwX29DUzNZT0hGUktOQnBGU3VLcXdSWngtbU1acDVRRjR6WGtuc0plNGJ5VkhzRHdEeXFGWXRGSGJ0YWlEb1JqS2tPM3N3dm9RWUN0ZEI3cWRFWlduTGdVYzE5ZkFSTFZSQQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -296,11 +382,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Pali Lok Sabha Election Results 2019 Rajasthan: BJP's PP Choudhary secures Pali - DNA India",
-        "source": "DNA India",
+        "headline": "LS polls: Rajasthan BJP's Lumbaram Choudhary files nomination from Jalore against Ashok Gehlot's son - ANI News",
+        "source": "ANI News",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJ0aTZiQkZxMG81TEJYUlRPX3NObHpHS1h3a0ZBS2FST1V1aFdEZUZLejVDcnBoY3VycG1nQzVuZllGR1h6eVN4WVBjaTcxTXd6ZGlSeG92dkozeVJhajE5dkFhWWhhLXZoTFBkbnpLSmpPUU13WmNURFpMTVFTeUtPOEJqSjZSNG9WV2NmRnBHTi1MMVJUNGFDRWNuWTd1M2JNU1JQdU92UmVjTXlrZkk3Q2ZYM3JWTWJXVlI1QUJWZ9IBxwFBVV95cUxNV3dGbkg1LWlaWVd0OXVwSmpPV2U3cTlvZVJHNVpRUXVMV3phdVg4R0lFbno3UWVXYml0bzJWZlc4NEw2c2hKZ2tUR3pZSlNFUjlyajlhSDdfU0hBMjBBVDdHVm5pcXJoTWczZUVJZGZaLUJCSG1NZFJMSndJMUd1b1lXQU1laHJWSm1qR3VwNmdBME1sT2xUTTlkSEZuX0hqa2NVNzZrRThROTdwamxoQ2g4cUJfdGx3ODV6S2V4ZmI1VTdxUEg4?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWDRWbXBXV1EzWFluSnkwZHkxUlB4dE5IWk5WSnBrNm0xaTRqRlRWcjVqZ0VWdlRlTHZXbGpVSkNfQy0xZ0JDSWQtSE55emFURnNPV21XUUVjWUVQTlRQV1BMQngtbWdINnRTNVYxbzcwZWNJU3lYNkFvaFpTbUk5MzVpMVRKV2FHSUlKaThTWEs3X2twVl9BRl9fRlRhV09NQW1OZjFzZzJRQjBPZ0RHbkRIVWpObTZENWQ4bTBlN1dUcnREMmxORXRTMEtBS19BcEhvQXZVX3RuUnQ0V01WT2twOW9lUndsOEs4a0pzcm93RTA?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 64,
+    "starred_questions": 19,
+    "unstarred_questions": 45,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 100.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

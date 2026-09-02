@@ -4,16 +4,16 @@
     "constituency": "Khammam",
     "state": "telangana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 5716,
+    "myneta_candidate_id": null,
     "slug": "ramasahayam-raghuram-reddy",
     "house": "lok_sabha",
     "sansad_member_id": 5716,
     "profile_url": null,
     "canonical_name": "Ramasahayam Raghuram Reddy",
     "name_aliases": [],
-    "education": "Others",
+    "education": null,
     "profession": null,
-    "age": 63,
+    "age": null,
     "photo_url": "/mp-photos/5716.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,98 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "389/2023, PS Moinabad | Section 123(1) of RP Act",
+        "ipc_sections": [
+          "188",
+          "171B",
+          "171E"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "II  Additional  JFCM- Cum-13th Additional Metropolitan Magistrate Court at Rajendra Nagar, Hyderabad",
+        "fir_no": "389/2023, PS Moinabad",
+        "case_no": "",
+        "other_acts": "Section 123(1) of RP Act",
+        "charges_framed": "No",
+        "date_charges_framed": "",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:36:41.718470Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 582770537.0,
-    "liabilities": 95482677.0,
-    "net_worth": 487287860.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5716",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:53.330430Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 86.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 2.2,
-    "expended": 1.17,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:49:20.324667Z",
-        "notes": "Official eSAKSHI REST API — Works: 252 recommended, 54 sanctioned, 3 completed"
+        "fetched_at": "2026-09-02T14:45:36.158483Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:41:56.519223Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:41:56.516142Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 252,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 7.959183673469387
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 75.0,
@@ -92,7 +128,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:27:12.070954Z",
+        "fetched_at": "2026-09-02T14:41:56.515068Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +136,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Khammam MP denies complaining against CPI MLA Kunamneni Sambasiva Rao - Telangana Today",
+      "source": "Telangana Today",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWk56WHg3X2NFT3l0UjhRQS1YT1lfVWRtc1U5UjMzc0VFTndiZ2JqeTZDM1pNREFtdjJ6amFXcU9WV1ZBbHk3Uzlzb1BWd3RsS1lCckVsMjlnRF9BWDNnZm1rNzkwR2F3U1YtOGQxN1Ftc1dwNUd0Y3FoWFNWcHFaSFpJV2pSeXY3akN1aU5Iaks4TkVON2ZoSjFybEY?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Khammam MP Bats for Congress Rule at Centre - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNU83N0pEeXdxZkYwUHJZeUVpQmFTenVobDl0NHhyYllFczQ2UTkwQlVxREF1NlBuZmlqWlJMa05DWUt1U0RKb0p0OFdzRUh0MHNEWjc0OFRVNU9venhyRnZFcU4zTmdUMWZIRHRpVmRCcFBCOXVuRGtkMEFTenRUazN1eUR1bGxwbnlCeXEwcDl0b1BNblVNaTJWdlBnbXlwcV9tdHRIZ0RuOUs1dkHSAbMBQVVfeXFMTjN0ZHZkcndsQ0JTM0w3VFd5QmRvb25hOTBoeWwwd1J4YS00cjh5UDlPTm9hTUpYcGVvS2dZNkI3ZENzRUVDUGlyaFhJUXg3LWhlak1WdC1lU3RPR0djVU5Rd1h2QmZpQjBYTmpJejRYeDQ0WU1sV2NkejRaYVZIRnhpVXpVaEZuYkVlS2c1R0o3Skt3V1lSUzF4Qk5Ja1hQeHNXLUdsNXhKRmlYRmJlTTRHbTg?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Khammam MP Raghuram Reddy nominated as member of India-Switzerland Parliamentary Friendship Group - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONm1mNnQtSVB5UWFZOEgyNmtoSEF0NEZudVpKbl9VbGhRbHpoSWo1VHktR0FidmxyZnI3cmFUaGVtbmlWeU13QnFvNGhNd3dEamU1dDMzcDI0WHowY0hSaVNDdkFSNUZWajYwZks2cU9ENWpJaTNPeVdlYjA4ZEtYNlFoeHdyODBxbXZHenR0V2wta1dGTHE4TDBKS2RVeEM4d2ZvaDR1SU1UUFFOZVIxaDBCcHgyUVVoNTB3WGRmdS1tWGxER05wZlJ5eUJQY0xrWDFTczBBMjBOSTMtWXNucUZiRmpNN3RGRi1JZGlXd2otV0VRSHVvb1BR0gGAAkFVX3lxTE5HSE5rNGRzNTlEMVhIcDE3YWczZ0dGUzdYOEFRT0wtck5qYjQ0YVpwbk1BbEE4TlROWUR4VjBFck1jZnZyOUtFWnlsZEJpYV8wbnhfU19kalZ1bjZ2blJTdFNBX1RHcU50UHN3TzYwVHJMX05qMWgxbUR0dzJIX29ERUVfQ3dNQi1oSFhRMjI5cFNNakJ6UVloU3lqTXZ2cmwtZHVoQmhQMklRRzVZaDYxYWQzczFPbkZCcG5SQ1NKLWl5MjVkNVprSXg4bWQwLU5yNllKcWMwQzRKTkRVWDZXYVVsbGVoTWZaV3J5blJHOVhqWHZFRzJBVWlGTjJWUlc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Khammam MP Seeks Better BSNL Services To Improve Rural Connectivity - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSUdpWkdaclIzN2NnOS1ENl9Td2Q0RHBiZFFqSDBfLWR1ODRFR0tDNDI4RVdWdnNhZHN6SHVOd1Mtd2lyYTZtZG5OY25FUDdhcWNfTkNEdk5BMEZtWXBiVVg5YlNxS1NZMndRVGxvTi1RWjJ1X3RtajloWDBHckFxSTFYalJDYmZWbTdwTzl1SzR5RHFlRi1xNVprMDJpeXdvQW43ZEJNaHhLVW1IYnlVblc3N0lWbHpaY1ZUUFhXMU5QOFJDRFZPV2Y0QkxxQdIB0wFBVV95cUxPbmJwb2ExcFFnQ2NHcXZLR0g4U3AwYm00Wk9Sa2c3eW1lOUp3cVltak15WGVob3V3cGZKYk9oU0JBYW5ON3d4NHdldVltQU5BNlRVWHA5QV9sazVIbGZyc3FRWWdQanRJNWpBeE9nV2Z3MnhhWmRNU05Ua20zVjFERzZRQlBVUFhwQ0xBeVBHR1dOdTFHQTBDZGY4eHpwaWZXUUs2dWF0MTdYR3hLcGtSclRJaVpfYWFSR2czOEtjOWlJSkVCZHRTRU95cGUxSS1zNUEw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Khammam MP Seeks Buddhist Circuit Tag For Nelakondapalli - Deccan Chronicle",
+      "source": "Deccan Chronicle",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDlzc2I1R2g2bzdRak1rU0ltZXpkWTBHejBvVmFfRG1ydHZVeDlKQ295YUxhNFFGSEdMSkI2X1dlTm9yMlg3STY1b2Nxd2IzQnR5TzBETExoNmdkeFR0enNkOEh6Tko1RGhjVVdTckNaY0JkTm43QmNWSHpqN21uSkhaZmlCMl9UU24wWldiSVBfVnpMQnZtZWM1WkpmX2F3RG9kVG4zdTBucXFGZzVNYUswUmc3dGdaLThoaGxYUdIBxAFBVV95cUxNZVNaOGxaTWV0SDRmYk5tLUJOTlVxSTRCMjFfX2JsMEZicWVjUGtHOHhBWHNkT3RCYmNLTnNDeXk4dWpRZXBPa2hPVTRuQnlnV0g2SU81UkFHRlBINWgtRmptZlZCOHdRdy1Cdl81cC1FWEZRd1daNGdfSkx1ZE9COFQ4ckN6UFdmbjMzSGJKVFZtM1ViN0p5X1pDdGVTajJEUF9jSmRSRjB2OWw1aUhFbmdBNWRFRGhudk9pUVdySXZxdGpY?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:27:56.631222Z",
+  "collected_at": "2026-09-02T14:45:36.159695Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +205,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.003940Z",
+        "fetched_at": "2026-09-02T18:38:10.555754Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +221,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.003948Z",
+        "fetched_at": "2026-09-02T18:38:10.555765Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +237,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.003953Z",
+        "fetched_at": "2026-09-02T18:38:10.555771Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +253,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.003957Z",
+        "fetched_at": "2026-09-02T18:38:10.555777Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +269,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.003962Z",
+        "fetched_at": "2026-09-02T18:38:10.555784Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +285,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.003967Z",
+        "fetched_at": "2026-09-02T18:38:10.555789Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +301,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.003971Z",
+        "fetched_at": "2026-09-02T18:38:10.555794Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -259,25 +334,25 @@
   },
   "news_sentiment": {
     "total_articles": 10,
-    "positive": 2,
+    "positive": 1,
     "negative": 0,
-    "neutral": 8,
+    "neutral": 9,
     "top_headlines": [
       {
-        "headline": "Khammam MP Sanctions ₹34.4 Lakh MPLADS Funds for Hand Pumps - Deccan Chronicle",
-        "source": "Deccan Chronicle",
+        "headline": "Khammam MP denies complaining against CPI MLA Kunamneni Sambasiva Rao - Telangana Today",
+        "source": "Telangana Today",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHdnWnd2MDNQM3I2Z1ZkVEFuM0FlaWZFdloxQmlERE5EczVfaElGaFFKRlJZblJxR2lJSXp6MVVLNFRJdUxVVDBuc1lRUjZCTG9iRC16aFdpdlluYndzano1cDVEbmt4dVpqV0hYQ28tNmxncGxRMzdnTW9yeXhTOUQydWhrQ0dLS2xrYmN6Y1M3T2w5ZUYyWTZmVFQteEF3bm01VnFad0d3UWxjLXJ1SW9PNWNpOVppMWlsY0JXbzPSAcYBQVVfeXFMUEVIYjdJNjI3OTI4RkdPZnFMSndGVkFwU1NsUHFqRHkta09hSjNuUXRnSU5zajAyLWNCcjJyN1hwM2xUWUxKc25uUmRJbnUzRHZEakwydVd5bU9ydVNsc3lDdU13WmkwLUdyX2tmdUdfbV9BZ2w3VjZ5UnphVG9XX1BhZVJ4LVlpYnhZMFNTdmR6alJkMGdwSzN4T1RuNVg1NVo0cVAwZ3FKWUR6eERPWlpQYnBTeEp1amdCTnBqVDA2aW5zSTlR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWk56WHg3X2NFT3l0UjhRQS1YT1lfVWRtc1U5UjMzc0VFTndiZ2JqeTZDM1pNREFtdjJ6amFXcU9WV1ZBbHk3Uzlzb1BWd3RsS1lCckVsMjlnRF9BWDNnZm1rNzkwR2F3U1YtOGQxN1Ftc1dwNUd0Y3FoWFNWcHFaSFpJV2pSeXY3akN1aU5Iaks4TkVON2ZoSjFybEY?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Raghuram oversees summer relief initiative for litigants at court - The Hans India",
-        "source": "The Hans India",
+        "headline": "Khammam MP Bats for Congress Rule at Centre - Deccan Chronicle",
+        "source": "Deccan Chronicle",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNktON0dKYUE0b1hBWHl0V1BsUDRSektnMHYyQk95Z0FLZWRya05rNnRTRjFhNFJxcGd0d19FOGw1ejFCTXExZnF6MFhRZS1pYUxKSmJrR2V1bG10VGJVdWR4VzZLalNvanN0Zmh1TUVZaDlJRUllSHRiMUJidy1RbEZRYklFVFg3Y29ZQU5EZEFmdC1YUDdyd1owZEN1TjJyeFdTSm1xd0dsbDJ4RXZUMk9uU3RqQdIBuwFBVV95cUxPU3gzSFpMQVdSYzQtWVcxcTZFXzYxRnZiQ3NGNWlwMHoyTXU5WTVqaTNzdlN3S1g2XzRuMlZWTDNvWGhLMjZMSWJuYTI2SmdmS29iRmQxMFdGYXBVaU9ZeGZ4cXdKdFBZdnU3ZnhySERBN2dCN3RCYUxTVW1HZE1rVFc1UmVXU3VvbWM3MFRIR0dOX21ONzBYR0VUSDdFYTNPUy03bzgxVVRSOWUwcmVqbHBMM1ZOcGZwZS1z?oc=5",
-        "sentiment": "positive"
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNU83N0pEeXdxZkYwUHJZeUVpQmFTenVobDl0NHhyYllFczQ2UTkwQlVxREF1NlBuZmlqWlJMa05DWUt1U0RKb0p0OFdzRUh0MHNEWjc0OFRVNU9venhyRnZFcU4zTmdUMWZIRHRpVmRCcFBCOXVuRGtkMEFTenRUazN1eUR1bGxwbnlCeXEwcDl0b1BNblVNaTJWdlBnbXlwcV9tdHRIZ0RuOUs1dkHSAbMBQVVfeXFMTjN0ZHZkcndsQ0JTM0w3VFd5QmRvb25hOTBoeWwwd1J4YS00cjh5UDlPTm9hTUpYcGVvS2dZNkI3ZENzRUVDUGlyaFhJUXg3LWhlak1WdC1lU3RPR0djVU5Rd1h2QmZpQjBYTmpJejRYeDQ0WU1sV2NkejRaYVZIRnhpVXpVaEZuYkVlS2c1R0o3Skt3V1lSUzF4Qk5Ja1hQeHNXLUdsNXhKRmlYRmJlTTRHbTg?oc=5",
+        "sentiment": "neutral"
       },
       {
         "headline": "Khammam MP Raghuram Reddy nominated as member of India-Switzerland Parliamentary Friendship Group - The Hindu",
@@ -288,19 +363,19 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Khammam MP Seeks Buddhist Circuit Tag For Nelakondapalli - Dailyhunt",
-        "source": "Dailyhunt",
+        "headline": "Khammam MP Seeks Better BSNL Services To Improve Rural Connectivity - Deccan Chronicle",
+        "source": "Deccan Chronicle",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVJ1Uk5LNGwyMzBCRlRoOElocHFIaEQ0djJNdjJMaGlYUDF4bVdzR0lGSkt1cGRmaUJwYml6a0hjWVNpWG5uU00tZG5QbDRuRmtlRElnVTliampGWm5RTUV1cFVfeTVpc2NaWUNfTUw0VDd2NWRCNVh3RGZGSGpzeEhCVktIWFFYTFFMN3VmWF80ZFQ2Wk1wekFLN2JnMTB5eElLMHJTVGNnQ0lFS0FTUi1PaFpGcGh1enFoMEdPUEo1WHBfQUJ5eUM2VG5Td3RDRkNRaWNUR3BrMzFDWnVqZDFzOA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSUdpWkdaclIzN2NnOS1ENl9Td2Q0RHBiZFFqSDBfLWR1ODRFR0tDNDI4RVdWdnNhZHN6SHVOd1Mtd2lyYTZtZG5OY25FUDdhcWNfTkNEdk5BMEZtWXBiVVg5YlNxS1NZMndRVGxvTi1RWjJ1X3RtajloWDBHckFxSTFYalJDYmZWbTdwTzl1SzR5RHFlRi1xNVprMDJpeXdvQW43ZEJNaHhLVW1IYnlVblc3N0lWbHpaY1ZUUFhXMU5QOFJDRFZPV2Y0QkxxQdIB0wFBVV95cUxPbmJwb2ExcFFnQ2NHcXZLR0g4U3AwYm00Wk9Sa2c3eW1lOUp3cVltak15WGVob3V3cGZKYk9oU0JBYW5ON3d4NHdldVltQU5BNlRVWHA5QV9sazVIbGZyc3FRWWdQanRJNWpBeE9nV2Z3MnhhWmRNU05Ua20zVjFERzZRQlBVUFhwQ0xBeVBHR1dOdTFHQTBDZGY4eHpwaWZXUUs2dWF0MTdYR3hLcGtSclRJaVpfYWFSR2czOEtjOWlJSkVCZHRTRU95cGUxSS1zNUEw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Bhatti urges DCC members to publicise devpt schemes - The Hans India",
-        "source": "The Hans India",
+        "headline": "Khammam MP Seeks Buddhist Circuit Tag For Nelakondapalli - Deccan Chronicle",
+        "source": "Deccan Chronicle",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc2haUC1YaG1CeWF1d1lvUWpwNmpOR3ZoaVhhN01NZWN6QkJQYzdDSU80al9hQWI5bHhDcy1mVGl6eWF6RkhWUHBqNFFhQk1wbjBrQVN1S0g2WUZ0c21hTnVJVzNEb0lLVW56VTJHaEY5d1lnNi1yZk8tdWc2RWFJUjVOZmxRNEw4ZmxVZF9lVnJYXzFsbWJodDhwanllS20zVnpKckdBbXA4b19T0gGyAUFVX3lxTE1iZ3A5bXBQM19Vck8zc2t5TzBWU1M2Q291cUczOW9kcktsWWxoeTZ1blFqU2VlWnhpRkpiOS10WXpxRXE4SmNUbmlScVlNR1FFWEtTX2hmUkhIQVRsY2lTZmNrYTBJbEp3OHRkS01Ta08zYlZETnlLczI4VFN3VjFReVZkOU5rUWlnY2JDNldtTDB4Y2dKcXVEb08zN0JVeXB6bHo0Z1RjcGQwZ3pWeW1jSGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDlzc2I1R2g2bzdRak1rU0ltZXpkWTBHejBvVmFfRG1ydHZVeDlKQ295YUxhNFFGSEdMSkI2X1dlTm9yMlg3STY1b2Nxd2IzQnR5TzBETExoNmdkeFR0enNkOEh6Tko1RGhjVVdTckNaY0JkTm43QmNWSHpqN21uSkhaZmlCMl9UU24wWldiSVBfVnpMQnZtZWM1WkpmX2F3RG9kVG4zdTBucXFGZzVNYUswUmc3dGdaLThoaGxYUdIBxAFBVV95cUxNZVNaOGxaTWV0SDRmYk5tLUJOTlVxSTRCMjFfX2JsMEZicWVjUGtHOHhBWHNkT3RCYmNLTnNDeXk4dWpRZXBPa2hPVTRuQnlnV0g2SU81UkFHRlBINWgtRmptZlZCOHdRdy1Cdl81cC1FWEZRd1daNGdfSkx1ZE9COFQ4ckN6UFdmbjMzSGJKVFZtM1ViN0p5X1pDdGVTajJEUF9jSmRSRjB2OWw1aUhFbmdBNWRFRGhudk9pUVdySXZxdGpY?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +409,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 33,
+    "starred_questions": 9,
+    "unstarred_questions": 24,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 63.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +425,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 75.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Moderate",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

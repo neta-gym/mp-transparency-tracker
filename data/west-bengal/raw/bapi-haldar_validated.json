@@ -4,16 +4,16 @@
     "constituency": "Mathurapur",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 9082,
+    "myneta_candidate_id": null,
     "slug": "bapi-haldar",
     "house": "lok_sabha",
     "sansad_member_id": 5774,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "10th Pass",
+    "education": null,
     "profession": null,
-    "age": 37,
+    "age": null,
     "photo_url": "/mp-photos/5774.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Mathurapur",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 9082,
+      "myneta_candidate_id": null,
       "slug": "bapi-haldar",
       "house": "lok_sabha",
       "sansad_member_id": 5774,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "10th Pass",
+      "education": null,
       "profession": null,
-      "age": 37,
+      "age": null,
       "photo_url": "/mp-photos/5774.jpg"
     },
     "criminal_record": {
@@ -42,68 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9082",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.681450Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 criminal-case summary"
+          "fetched_at": "2026-09-02T15:37:30.324431Z",
+          "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 23000.0,
-      "liabilities": 0.0,
-      "net_worth": 23000.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9082",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.681463Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 0.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 6.43,
-      "expended": 3.8,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:43.102829Z",
-          "notes": "Official eSAKSHI REST API — Works: 164 recommended, 141 sanctioned, 25 completed"
+          "fetched_at": "2026-09-02T15:23:26.522367Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:19:16.786596Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:19:16.784962Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 164,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 25.850340136054424
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 85.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:34:23.319329Z",
+          "fetched_at": "2026-09-02T15:19:16.784184Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Locals vandalise Trinamool MP office over alleged stockpiling of relief material - indiatoday.in",
+        "source": "indiatoday.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmxvb19WYV9jVUtxcGJVbThZclk4VmZEN1U2Ty1hVjk4OUVKR1R3TWRwVzQ0YmNWTWpIdnI0ZTF5dm1XNDd4czJkRFA3a0V4TWRuYU9FMVVoOU5nUm4xanBlcFpwTThtNjc3SUdkc1BrT3BydUpXOEwwNGFtVWhxb3RrejFmOTFTa1Z2d1pVVlhGWWQzWm5FU0pCMDhrclY2MmFuOW1paXFDVThCMHREcC11Nk5TZmdQMkNEeEtMWUhFeXZ1YzhDN3NR0gHPAUFVX3lxTE9RUFUtUGlQeTVDbUxFdU0zQUoxYVRLOW5uYXdwUm9BNkVGanRPblJORm55QUtaM1pFUm9Calo0dGhyX3VUM2l6aVlxa1N1clJ6NTZWazJTbGRtamN0eGZBdnhyenFLaUFpbmt2RkZ3Nm1ONzRzNDRpcWFpWTVWOGhONUVud240aWJuSE1CSlZBYjJHcGhSaHctbi1UR2Q4YkJObGZXUXRzOFl4dzhSLUdrWlVlNHNSQ2ZxMkZVb1VPRE9Ndjd3YUk5YXZJc2Njdw?oc=5",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "'Relief materials illegally stored': Villagers vandalise TMC MP's party office - The Times of India",
+        "source": "The Times of India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVVFDYy1jYmViWDQtTXhQdjdwYWs1WGRHQXRLZEhLOVlrX3htLWdUUDZ0eC1JUjdueldyOU1SaGVmZ25ob3B1clFWcGZkNXdrMnJaSmR4T3BpY0pDbmk1aHZOaG10Y2RaTHJZSkhCQ1VnR2plTHZaQnNybWtzdllVY09EZEpGTEFVdGtPN1lyNVlmU04ySktkU2I2VmtPYjgwcWNodnlJaWlWUGRtUldwc20yS1hRNWF6NDNvWWpnSnpaTnNiVTQ2bkd5NmotdTE1cFNjUENEeEJ5Z9IB3wFBVV95cUxNUGtJRy16V0Fpa0RwZ3l1aEt1UkR6NnBWTDFKaU5YMEVPTkktZWhkcTlVQlRVdEozWE1hbXJfbV9LbUdQZlZiMEctaXF3Q3JYUzg1SmdRMm8yaThNbWtxd213cGJReThZbVRWZEE0Ul9KMjh1MzV2ZFNGb1otWjNlU3JYRENPcU03cklFM1ZjcEI0T090VDFMWXE3MU95dWFiYmRrMENJWUhKaFB6Y2FhZzlZYTh1TTJtQlNEODBZNWV5VVlyYm9Bb1c0OU1fTHRrczhSZENMUmpkYUg4T0d3?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Villagers Vandalise Trinamool MP's Party Office In Bengal's South 24 Parganas - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeTFxd0lqSkxqcWJGVDhHUWdtamFselJQaUthQWlOQUp2UWFBVExhVHo0QUhrSW1VcW9PdmdnMDJxd2FWU1ZCbm1keVI5b1BFdlFSbUNVWlFrU2JUc1U3NWZDQnFORkFueXRTem9oU1BCZ2lBdmNzVUlNRFE0dkU1LUwxZlM1ekpjNmg1TURRczN1NmhkQ2c4dEMyZW9GejV2RGQ3WXZuLVN3ZzBPb2Q5STU3LWtaZDTSAb8BQVVfeXFMTVdGU1F6NzdmczEtLTBVZDY1VFJ3dnROQXUyY3pOSGJFRWJNQUVUZUxKYzcwZThjY0FmQ2dqeVp1WnZFbU9vb1JnOGZRLVhkU05icjdJdmNtQjVXZk15NW9GcUk4NlZaREJMVjRvYnJOeW1ZTGppbnRCVkdCSjd1aWdGX1VMMUw5TTVGeDdBam15NzFmdFZ1bE9sV3N0VWdzbnpUT2xOcUNJUWE2c01CUlBBaUdCZ0FuNFZtR0ZmNms?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bapi Haldar , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3pHTXhDU0dybWFqM2lDekFYRDEtVG5mWlcyQXRacEtTLVBJaUo5Ymw5SVZPYkJ4TUlCdGNPTUozcWktT3o2TjkyTDhVZGpnU1EyNG5EaXZ5NXhzbkJOS0l3c3cyYmVQd1ZKNmJUa05hSmF1d0lmb3BvalZqS1dvSV9R?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : LoK Sabha Member Of Parliament - H - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXF6OWdRVUp4ZnJRQUwzRkpqRVRDNXZBTmhtdFdhTTZucWVQWHZ0ODlyR2pESHB0R25hMEIzRG4tMXAtU0pIRXc3clJKejFoUExrQmRkQ0p5bDRwc0hIWnNZeldKMW9wVlAzcll6cnczdEFKNHVmX19YN1Z2UjI3S1F2dHd0Mms?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:35:26.480504Z",
+    "collected_at": "2026-09-02T15:23:26.522966Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.590926Z",
+          "fetched_at": "2026-09-02T18:38:12.213110Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.590934Z",
+          "fetched_at": "2026-09-02T18:38:12.213167Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.590940Z",
+          "fetched_at": "2026-09-02T18:38:12.213176Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.590945Z",
+          "fetched_at": "2026-09-02T18:38:12.213192Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.590957Z",
+          "fetched_at": "2026-09-02T18:38:12.213202Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.590962Z",
+          "fetched_at": "2026-09-02T18:38:12.213210Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.590967Z",
+          "fetched_at": "2026-09-02T18:38:12.213218Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -285,10 +330,34 @@
     },
     "news_sentiment": {
       "total_articles": 10,
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 10,
+      "neutral": 9,
       "top_headlines": [
+        {
+          "headline": "Locals vandalise Trinamool MP office over alleged stockpiling of relief material - indiatoday.in",
+          "source": "indiatoday.in",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmxvb19WYV9jVUtxcGJVbThZclk4VmZEN1U2Ty1hVjk4OUVKR1R3TWRwVzQ0YmNWTWpIdnI0ZTF5dm1XNDd4czJkRFA3a0V4TWRuYU9FMVVoOU5nUm4xanBlcFpwTThtNjc3SUdkc1BrT3BydUpXOEwwNGFtVWhxb3RrejFmOTFTa1Z2d1pVVlhGWWQzWm5FU0pCMDhrclY2MmFuOW1paXFDVThCMHREcC11Nk5TZmdQMkNEeEtMWUhFeXZ1YzhDN3NR0gHPAUFVX3lxTE9RUFUtUGlQeTVDbUxFdU0zQUoxYVRLOW5uYXdwUm9BNkVGanRPblJORm55QUtaM1pFUm9Calo0dGhyX3VUM2l6aVlxa1N1clJ6NTZWazJTbGRtamN0eGZBdnhyenFLaUFpbmt2RkZ3Nm1ONzRzNDRpcWFpWTVWOGhONUVud240aWJuSE1CSlZBYjJHcGhSaHctbi1UR2Q4YkJObGZXUXRzOFl4dzhSLUdrWlVlNHNSQ2ZxMkZVb1VPRE9Ndjd3YUk5YXZJc2Njdw?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "'Relief materials illegally stored': Villagers vandalise TMC MP's party office - The Times of India",
+          "source": "The Times of India",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVVFDYy1jYmViWDQtTXhQdjdwYWs1WGRHQXRLZEhLOVlrX3htLWdUUDZ0eC1JUjdueldyOU1SaGVmZ25ob3B1clFWcGZkNXdrMnJaSmR4T3BpY0pDbmk1aHZOaG10Y2RaTHJZSkhCQ1VnR2plTHZaQnNybWtzdllVY09EZEpGTEFVdGtPN1lyNVlmU04ySktkU2I2VmtPYjgwcWNodnlJaWlWUGRtUldwc20yS1hRNWF6NDNvWWpnSnpaTnNiVTQ2bkd5NmotdTE1cFNjUENEeEJ5Z9IB3wFBVV95cUxNUGtJRy16V0Fpa0RwZ3l1aEt1UkR6NnBWTDFKaU5YMEVPTkktZWhkcTlVQlRVdEozWE1hbXJfbV9LbUdQZlZiMEctaXF3Q3JYUzg1SmdRMm8yaThNbWtxd213cGJReThZbVRWZEE0Ul9KMjh1MzV2ZFNGb1otWjNlU3JYRENPcU03cklFM1ZjcEI0T090VDFMWXE3MU95dWFiYmRrMENJWUhKaFB6Y2FhZzlZYTh1TTJtQlNEODBZNWV5VVlyYm9Bb1c0OU1fTHRrczhSZENMUmpkYUg4T0d3?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Villagers Vandalise Trinamool MP's Party Office In Bengal's South 24 Parganas - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeTFxd0lqSkxqcWJGVDhHUWdtamFselJQaUthQWlOQUp2UWFBVExhVHo0QUhrSW1VcW9PdmdnMDJxd2FWU1ZCbm1keVI5b1BFdlFSbUNVWlFrU2JUc1U3NWZDQnFORkFueXRTem9oU1BCZ2lBdmNzVUlNRFE0dkU1LUwxZlM1ekpjNmg1TURRczN1NmhkQ2c4dEMyZW9GejV2RGQ3WXZuLVN3ZzBPb2Q5STU3LWtaZDTSAb8BQVVfeXFMTVdGU1F6NzdmczEtLTBVZDY1VFJ3dnROQXUyY3pOSGJFRWJNQUVUZUxKYzcwZThjY0FmQ2dqeVp1WnZFbU9vb1JnOGZRLVhkU05icjdJdmNtQjVXZk15NW9GcUk4NlZaREJMVjRvYnJOeW1ZTGppbnRCVkdCSjd1aWdGX1VMMUw5TTVGeDdBam15NzFmdFZ1bE9sV3N0VWdzbnpUT2xOcUNJUWE2c01CUlBBaUdCZ0FuNFZtR0ZmNms?oc=5",
+          "sentiment": "neutral"
+        },
         {
           "headline": "Bapi Haldar , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
           "source": "The Hindu",
@@ -298,35 +367,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Mathurapur (SC) West Bengal All India Trinamool Congress - The Times of India",
-          "source": "The Times of India",
+          "headline": "Parliament Of India : LoK Sabha Member Of Parliament - H - Sarkaritel.com",
+          "source": "Sarkaritel.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjRZb2RlN3ZFdzl2NDdscGt1MzVPRVl6T0RhbEdZRW1kdXBvbzVJbUN4M2tGT0llQ2g0OTZITFMtTnlEZ0FfWkdOM3BkLVhRTHlhRDhhcGExODAwNWVCZWh0dmY3YXhudVBzb19OQTFDenU4OHZmMmJwYTd0dUhBYWVPVTd3T3hRYzQxLUlLdmMwTTI2MzlreERvU1k2Z2lRSExNOURrOTdHTVY1SjNQdGJXS1RwUjAwNThV?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Mathurapur lok sabha election results 2024: Mathurapur Winning Candidates List and Vote Share - India Today",
-          "source": "India Today",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcklkNTZFcFNsQjlaTmdBWHE4ekdoVFgxUWVfTUVCaTBtbUpBS012Y1dfTmxWTGtHYmtOcV9BTG1NYXF1RWo5ajNNSm5UZXRUVklQTUJrTDF5U1lJREZwRXBla0F0ZEh4QXZkNzVOd0ZGQzJEQVhxZ0Y2TkxzV05xY3M4V0o3MDlGVEp1TDJybVpzZmtvaGdzR1pB?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Political Profile of Bapi Halder, Ind Party, Mathurapur, and Net Worth - India TV News",
-          "source": "India TV News",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbmJaMjBrMGZfVzAzOE0wUVlKc1NsWWg3akZMeUhmaWhfQ2R4aUxTZDFoazEwcVh1QzhVY1VpcGFsYjVRdkZKSU1QTTBVRGVFYk5VekhHMXdCR0w0c1BWYmN4bVdUSnp3N3VsVDRqZ3IxbEREOHlUMUN4Q0RKRmlRSm1CMHlFYXIzenpnQnFqT0hid3kycmllaHBxWEpVSU1vbzYxSGlfRV9JZEJyVWg2aGN3OTE5bFZfNFEzLTl1a2pFcEk3YlJ3YXlTLVFoNFlqZnR5Y2lZREx2X3I0RFE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "BJP President Sukanta Majumdar slams TMC MP Bapi Halder over violent gouge out eyes and break hands remark - myind.net",
-          "source": "myind.net",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdXBkNlk4LVVwX1ZFRm9IMF9iS3BEWE81TFpKaURjZkFLbHFtRWRpZkZYeEU5ZnFGanpMQXRjNC1pRnYwMW90RkxPbTR3LVh1c3NpVDNwRm9HclYyMmhxUUhTelh4SVB3dkFmQncyNmZxaVRDSzJmV3JvZFZMSURlSzE1ZVBTUG9sa3gtOVh0VFQ0SW5QR0JlMnREcEhWMmNydldjU2lGQVBBZjdzN2pxNTVmd25keXNidEhCTFR1SDlXTnhzQnVuQ0thb29GREVnYzFIZnBXc18?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXF6OWdRVUp4ZnJRQUwzRkpqRVRDNXZBTmhtdFdhTTZucWVQWHZ0ODlyR2pESHB0R25hMEIzRG4tMXAtU0pIRXc3clJKejFoUExrQmRkQ0p5bDRwc0hIWnNZeldKMW9wVlAzcll6cnczdEFKNHVmX19YN1Z2UjI3S1F2dHd0Mms?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -376,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 85.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Moderate",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 23,000. MPLADS utilization: 25.9%. Parliament attendance: 85.0%. Debates participated: 4.",
-  "validated_at": "2026-09-02T01:36:54.591683Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 85.0%. Debates participated: 4. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.214204Z"
 }

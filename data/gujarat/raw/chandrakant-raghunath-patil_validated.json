@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 394930044.0,
-      "liabilities": 27582988.0,
-      "net_worth": 367347056.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 81.5,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 15.85,
-      "released": 15.85,
-      "sanctioned": 10.88,
-      "expended": 5.36,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:21:58.910089Z",
-          "notes": "Official eSAKSHI REST API — Works: 369 recommended, 368 sanctioned, 237 completed"
+          "fetched_at": "2026-09-02T14:46:51.569107Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:43:05.929083Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:43:05.925917Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 369,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 33.81703470031546
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:27:07.846841Z",
+          "fetched_at": "2026-09-02T14:43:05.924858Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "5 Points About CR Patil, 3-Time MP From Gujarat's Navsari Constituency - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTg1YXVRMllWTXNCNUhtdTZ0YW5sMVI1M1E0aDlmZXBSNkg0dm42d1RoN2U2b0tYaEJ1aTR4dm00Ukh1MWxWd2NEalh4Yk9IODdyRW1XNFp5OUxrRTg1VjYxcEFrV1JtRS1oVG0wbGQ3YXA0THBGdVMtUjI2MEptSkZrdEhUQTFnVVFzdVQwLWhxaWNCZkduUTNCRHZHMHAyaEVTb1U4NzXSAbABQVVfeXFMTlRVMEdJeXE3TVlrVXFSNXFkTUdHaGRhVzNrRHZZNkdlZGJCdW1TWGJ5dGpFYzR0dkNKUy1uNlRMV29pOEN2YlVnbFE5WDREZ3NWbm54bGJJOGc3LUhjRjhvQVU1ZVB5RFZGdUlvbDc2TnpRcWl1WEYyU1g5WXl5cWNPNEFZbU52M29ZSEVKZGNSb05EcThaTUtkdlgxMjhZcy1sOEZTSFRSQVF5U0NNZUo?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "From Constable to Cabinet: C.R. Patil sworn-in as Minister in Modi 3.0 - The Siasat Daily",
+        "source": "The Siasat Daily",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjRZR1VzdFNsaHl3VUotNjNPVjZianREMTRvU29udF94X3Bxb1BPYWtSLUI2bVk3T0E5Z1o3OUJITDFxb1N6LUkxbUNxV05mY0ZlV0FSVFl5VE9NajNYQS15cU02bmFtSVluZ0hYWHNWTUYyRUxpeENSVE5GVGF6eW9KZmpmVmZLMFpQcWliNmN4RjdPdlQ2VXBRYjQ2TTJMX3fSAacBQVVfeXFMUHZla0lXSUttVmY2bE5kX1UtRExGZThRSXEzTHNkTlp2VEdkQkxwNVJHOHZvLWNLWldYaEpQS3ViR1Rid29hZk9KMlZpZ2xfbU80M3RKbEZURE92djF2eEZaOHg4NEJLZWpfMlJqSUszR3k3OF9iWEVqRjBURE1RQ2ZsNmJfNmE1WWM1Z05qOHlRanRBdWpCZXVPRFNJNG5TWnExdWVLUUk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chikhli Village - How MP CR Patil Adopted and Transformed It - The Better India",
+        "source": "The Better India",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTI0b0RYVHgzOElrUl9EM1BoYjQweEkyLWgxamdudzhwTkhkZHVqSF8yMHpheG82YWI1VUFLRzZXVHUzbUJDMWNIN0hkdC11dzVEZlp5d1hMdWNvTTJkWFQzWk9reW8yQlZyTFB5UXRyUEZVYXlNWEZEM1RKOHp4TUJFamduSkZHWEdIZHRPRE1xdEJJZTdDQi01Y9IBnwFBVV95cUxPaVVOc1RQLWp5V0RkOVhtOTM5RHQyVjZrX3NKQVhCdTk1TTdzaS1YMUZKVUVlLVF3cE9DVk43NU5nNGlpdGZyM0VkYk1tQnpjUUxyN21TblRfd0tBSXNGajFxUjNvaTlzc3VjTVFuM3lPZi1wVFVjaWRialdaOE9Bd29PTHFBbXJrQ01vVnNwd1JtQWFKOGdpczA0dU5tQm8?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "State BJP chief CR Patil files Lok Sabha candidature from N… - english.gujaratsamachar.com",
+        "source": "english.gujaratsamachar.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQnRtalVwdzFvamkyWmF1QzJaMUlLX2dCVkh5dUZpSlY1MlZzelFTaTh0Y1drbTBFZnUzVEREcW5xdkVNWGpGQVM5SV9tMWx5S19tNnhhU000ckI1OGJLYmxfd0k3bXNzVGdUemw0RktOVmF5MTJwLXkyZERGR0xmckxpbmxyWGxOcldZam1oa3lhc3FWUFI0Q1lSRlFuUDdmZGpES1p1Y0xrSzUyTmw4bVBKMEU3c292VktXM2hDSVdGX054?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "C.R. Patil appointed Gujarat BJP president - theweek.in",
+        "source": "theweek.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXdhUWdMQVNyYlk2c2FwZ3FOenpURDk4NkJjN2hYSXhZYXlaYmpZVk8xbnNZaGtKdmsySDQxSU82T2VBUGZDdkZTM2pFRk50cU5NMHpSS1cxNmZ0dG4ySk5UcW5ub2l5MGVBSjcwcWJ6UWRERUNOSzJ0YTJqSXVsSGhfYmpFbFRCOXNpVkZ5RDZTUFpx0gGaAUFVX3lxTE1LZ0plRmdWRG5YVUcteTVUOE5FSzF3TTR6NkdkaEMzU005elRUbDBxdW5odXItcGwzUS1leDBKODBhcXBqRzAyWXhYeEt4dFRzZElfUVVVMU1xZHRxUWZuZjVYa3o4M2FVMV9rN19mNmJRdk1qMmxXdVpvZXp2SUdMRGdydktNM2NQSlZUNzNQT1JhUTY0NllNdVE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:28:08.964559Z",
+    "collected_at": "2026-09-02T14:46:51.570578Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.949396Z",
+          "fetched_at": "2026-09-02T18:38:05.527239Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.949404Z",
+          "fetched_at": "2026-09-02T18:38:05.527249Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.949408Z",
+          "fetched_at": "2026-09-02T18:38:05.527254Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.949413Z",
+          "fetched_at": "2026-09-02T18:38:05.527260Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.949417Z",
+          "fetched_at": "2026-09-02T18:38:05.527266Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.949421Z",
+          "fetched_at": "2026-09-02T18:38:05.527270Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:47.949425Z",
+          "fetched_at": "2026-09-02T18:38:05.527274Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -271,11 +327,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Chandrakant Raghunath Patil, Lok Sabha member from Navsari new Gujarat BJP Chief - The Economic Times",
-          "source": "The Economic Times",
+          "headline": "5 Points About CR Patil, 3-Time MP From Gujarat's Navsari Constituency - NDTV",
+          "source": "NDTV",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVdtNmhDbzVZdTlwODFBY0I1MGtfdTFGLWEwNUw3WVRjZFYtaWNaOFJxeFlTS1B0SktJc1FKLXFUTE5nZTBZSDZfY0NJNTVNRk5HdllDaXcwS2Vhbm94cGN4b0NfSEJvei1IaFZZZ2owcWw0ZE9PTlVGN3dkQ1VzZ3BDZy1TWjdVQTRJUmhOOTZnckNqNUZDMXhPemw4bmstNmtVbkJMNWljNTNuaDA5NWQ3RnJqVVBo0gG-AUFVX3lxTE1DN1JiZk8wR3pRWjVmVFFrNHJEY3prVmVNcnpTdndmbm8tV1kyNUR3WWlxRUVLaG1aa2FXZHhsZXc4Q1pXZTBJYnVzU1U3VmVtNlQwc3czZ1hMTGYzOTg2b2FrcGZrQ2YyMERSSWM0M1dXakx5d1hUdHRUQVBLNUI3OXdKRm52NFNyR1YtX2JLWE83UWx3RXVHZG5fNzRCcVVMSFF0WTBzTkEwX2dmamMwdWhLRThPbkNXenR3c2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTg1YXVRMllWTXNCNUhtdTZ0YW5sMVI1M1E0aDlmZXBSNkg0dm42d1RoN2U2b0tYaEJ1aTR4dm00Ukh1MWxWd2NEalh4Yk9IODdyRW1XNFp5OUxrRTg1VjYxcEFrV1JtRS1oVG0wbGQ3YXA0THBGdVMtUjI2MEptSkZrdEhUQTFnVVFzdVQwLWhxaWNCZkduUTNCRHZHMHAyaEVTb1U4NzXSAbABQVVfeXFMTlRVMEdJeXE3TVlrVXFSNXFkTUdHaGRhVzNrRHZZNkdlZGJCdW1TWGJ5dGpFYzR0dkNKUy1uNlRMV29pOEN2YlVnbFE5WDREZ3NWbm54bGJJOGc3LUhjRjhvQVU1ZVB5RFZGdUlvbDc2TnpRcWl1WEYyU1g5WXl5cWNPNEFZbU52M29ZSEVKZGNSb05EcThaTUtkdlgxMjhZcy1sOEZTSFRSQVF5U0NNZUo?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -287,11 +343,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "5 Points About CR Patil, 3-Time MP From Gujarat's Navsari Constituency - NDTV",
-          "source": "NDTV",
+          "headline": "Chikhli Village - How MP CR Patil Adopted and Transformed It - The Better India",
+          "source": "The Better India",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTg1YXVRMllWTXNCNUhtdTZ0YW5sMVI1M1E0aDlmZXBSNkg0dm42d1RoN2U2b0tYaEJ1aTR4dm00Ukh1MWxWd2NEalh4Yk9IODdyRW1XNFp5OUxrRTg1VjYxcEFrV1JtRS1oVG0wbGQ3YXA0THBGdVMtUjI2MEptSkZrdEhUQTFnVVFzdVQwLWhxaWNCZkduUTNCRHZHMHAyaEVTb1U4NzXSAbABQVVfeXFMTlRVMEdJeXE3TVlrVXFSNXFkTUdHaGRhVzNrRHZZNkdlZGJCdW1TWGJ5dGpFYzR0dkNKUy1uNlRMV29pOEN2YlVnbFE5WDREZ3NWbm54bGJJOGc3LUhjRjhvQVU1ZVB5RFZGdUlvbDc2TnpRcWl1WEYyU1g5WXl5cWNPNEFZbU52M29ZSEVKZGNSb05EcThaTUtkdlgxMjhZcy1sOEZTSFRSQVF5U0NNZUo?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTI0b0RYVHgzOElrUl9EM1BoYjQweEkyLWgxamdudzhwTkhkZHVqSF8yMHpheG82YWI1VUFLRzZXVHUzbUJDMWNIN0hkdC11dzVEZlp5d1hMdWNvTTJkWFQzWk9reW8yQlZyTFB5UXRyUEZVYXlNWEZEM1RKOHp4TUJFamduSkZHWEdIZHRPRE1xdEJJZTdDQi01Y9IBnwFBVV95cUxPaVVOc1RQLWp5V0RkOVhtOTM5RHQyVjZrX3NKQVhCdTk1TTdzaS1YMUZKVUVlLVF3cE9DVk43NU5nNGlpdGZyM0VkYk1tQnpjUUxyN21TblRfd0tBSXNGajFxUjNvaTlzc3VjTVFuM3lPZi1wVFVjaWRialdaOE9Bd29PTHFBbXJrQ01vVnNwd1JtQWFKOGdpczA0dU5tQm8?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "State BJP chief CR Patil files Lok Sabha candidature from N… - english.gujaratsamachar.com",
+          "source": "english.gujaratsamachar.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQnRtalVwdzFvamkyWmF1QzJaMUlLX2dCVkh5dUZpSlY1MlZzelFTaTh0Y1drbTBFZnUzVEREcW5xdkVNWGpGQVM5SV9tMWx5S19tNnhhU000ckI1OGJLYmxfd0k3bXNzVGdUemw0RktOVmF5MTJwLXkyZERGR0xmckxpbmxyWGxOcldZam1oa3lhc3FWUFI0Q1lSRlFuUDdmZGpES1p1Y0xrSzUyTmw4bVBKMEU3c292VktXM2hDSVdGX054?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -300,14 +364,6 @@
           "severity": "low",
           "verified": false,
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXdhUWdMQVNyYlk2c2FwZ3FOenpURDk4NkJjN2hYSXhZYXlaYmpZVk8xbnNZaGtKdmsySDQxSU82T2VBUGZDdkZTM2pFRk50cU5NMHpSS1cxNmZ0dG4ySk5UcW5ub2l5MGVBSjcwcWJ6UWRERUNOSzJ0YTJqSXVsSGhfYmpFbFRCOXNpVkZ5RDZTUFpx0gGaAUFVX3lxTE1LZ0plRmdWRG5YVUcteTVUOE5FSzF3TTR6NkdkaEMzU005elRUbDBxdW5odXItcGwzUS1leDBKODBhcXBqRzAyWXhYeEt4dFRzZElfUVVVMU1xZHRxUWZuZjVYa3o4M2FVMV9rN19mNmJRdk1qMmxXdVpvZXp2SUdMRGdydktNM2NQSlZUNzNQT1JhUTY0NllNdVE?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "State BJP chief CR Patil files Lok Sabha candidature from Navsari - GujaratSamachar English",
-          "source": "GujaratSamachar English",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3BldzhBZlg4b2VGNy1jdUpLWlV3Vmw5N3FzWFFZTFF0UDZYS01HWU16dDVjTDI3OU45enBZbnlNamFnX3EtSmlsTXd5emhlRnBCN1FyMENTTHpXWUoxdU5OSmtHVXZvbThGUXAwT0VwOWc1STJGbkhGRDk2ZEwxOXNrRmh4cDNXWVlaNFBXVWY0YnRuRTRXSElHX3ZVX012a3A0T0Z6MmFOMUFjcnF0VEM3NE9IbDFZdFRoOXdXNlVKSTdZczhOSi02Zw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -357,7 +413,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -388,8 +444,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.07,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -409,12 +483,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Gujarat: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 394,930,044. MPLADS utilization: 33.8%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:47.950096Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Criminal record, Assets, MPLADS, Parliament activity. 4 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.527963Z"
 }

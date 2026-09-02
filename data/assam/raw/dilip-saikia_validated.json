@@ -4,16 +4,16 @@
     "constituency": "Darrang Udalguri",
     "state": "assam",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 2753,
+    "myneta_candidate_id": null,
     "slug": "dilip-saikia",
     "house": "lok_sabha",
     "sansad_member_id": 5107,
     "profile_url": null,
     "canonical_name": "Dilip Saikia",
     "name_aliases": [],
-    "education": "Graduate",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/5107.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Darrang Udalguri",
       "state": "assam",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 2753,
+      "myneta_candidate_id": null,
       "slug": "dilip-saikia",
       "house": "lok_sabha",
       "sansad_member_id": 5107,
       "profile_url": null,
       "canonical_name": "Dilip Saikia",
       "name_aliases": [],
-      "education": "Graduate",
+      "education": null,
       "profession": null,
-      "age": 50,
+      "age": null,
       "photo_url": "/mp-photos/5107.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:33:07.416223Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 26442931.0,
-      "liabilities": 3730107.0,
-      "net_worth": 22712824.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2753",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:44.437428Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 23.0,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 4.13,
-      "expended": 1.86,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:19:22.346420Z",
-          "notes": "Official eSAKSHI REST API — Works: 230 recommended, 129 sanctioned, 0 completed"
+          "fetched_at": "2026-09-02T14:52:44.808293Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:49:00.087699Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:49:00.085689Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 230,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 12.653061224489798
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:23:06.181265Z",
+          "fetched_at": "2026-09-02T14:49:00.084914Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "BJP vote share surged from 2% in 1985 polls to over 48% in 2026: Dilip Saikia - The Assam Tribune",
+        "source": "The Assam Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjF3Uk5SUzdSWTdvTVZKT3VxYm1fWnZnUmhOZEVGZnhqaXBUaXEyMjJ0SGsyd0FXeE9ObXpDUHFvRmR1eUMxVzhPaDZmYmw5eGsyRUVZTnFTUWRtWHVreXVzczZMMHFERThMWTY2MGdGSWVpdWpHRWVLQTJpenJnYjdNdTBab0ZRSERRWjV2YV9iMlJEc3BMNUFtWFFpWjV40gGmAUFVX3lxTE9kYkhxWENFUTNDcXZVM2ttYm9yOGF1eEpnUTdqY24zVmRvTEZTdXJqVGlpajBPU3RVWkxVek1ucVZjTENTUnVLUjRHM1ZUeUpqM3ROeHBqMHktZ0tLUnpIQklKX2FzQWZ6X3lyYTlOcnVLVWFyQU04dklXN1dsekRnMzc0M1JmbmRBNF9RamNyWFM3QXRvVmdxT3pUbkR4WjNQeUc3ZHc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Retired Civil Services Officers Raise CGHS Concerns With MP Dilip Saikia in Guwahati - guwahati Plus News",
+        "source": "guwahati Plus News",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQODRsOXRPVlpoaUQ3R0twTG1JQnpoVHdyUlZNal90X0o2UkxBNlNDbjRvUWVJSV81TXdWajcyQzh2eVdXTEcwM1BxbmtKanVidUZSS0dhN2I4a2d0c3M0VjZFTTdENTdGUUdTd0JMRkNMNWJyVGdDU1hwSXBwYVNXaG9iWDhCdGJkdUxSdEpoTmp3U3hKdU9LVFlFbXBLMVdJajVCSndnRjllX0xod3R3VW9sR2hZdGNxMmNIN0wyTQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "‘Chiprang’, ‘Gaddar’ not BJP culture; indiscipline will invite action: Assam BJP chief - India Today NE",
+        "source": "India Today NE",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdjlHQU90OTFwZkdZZUhYUUhYSWRRbkpJVU5zR3BsN0xWNHFDdUxubFc4MUpWQ1hRQTl0ck8xakxvRnE1WkRjRUVJQ2U1Vzg0bTZ4R1NWZ3Z0aXZGTW1lZE13cHFtckNDYzBidmQ3QXVkMU9WWUZsLWV6dlFoblhYWEx5SmRYVC1rVzFaNzh4V2ZSR0o5ZFk1MFVZVDdDcS1ad1BiM2dWSEpmOWxYLUdLV2k1WVJNRlhxSWxNQWJyLVU2cHRQcjV4ZmFQNlhuTnlzRC1ZZ9IB2gFBVV95cUxQRTM5eEN1WlliLTJEdXRmOVVLMjZuUV9Ib0h6cEpzTnhjXzBZa2ZiNzk2dVE2RXl3YURBR0xRbTJwU0FuY0gzUTNEZl8tbGlJSWpfU1dLSDRVOER1V3llTVlqS0FTOFRmLVlsS2gtNjRzOHN5VUhXWHdEQnBTOUx5QmYyNmd5VGEyNWJQQlhmZjJFamQ1bmVNSEZOeWdwWUZHYnJyTFRLRlh1Z0hRS0VTYnNZNjhXbVF0d1J0U01FMWtCeElVUEJvaUVBZ3lHdFI1WFg4WmVxT19Zdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP To Launch ‘Mahila Aakrosh’ Campaign Against Congress On April 23: Dilip Saikia - Northeast Today",
+        "source": "Northeast Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeThtLVAxNUtWeDBxYkVfM3UtX2p1bUpDRWNBZTV3ZEppQ3o1OEdWT3lnZlJSSGpfVlRuVnV2bjhDSlVQeEY4WnYwQzRZakZOM3BXcjdQQnd2MldMUktRRkZWbVVDV2g1SzhjWVZFZ1cyU1hDOU1oYklYb2JyOGo0UkhnRkdWbmN2TGQzeHRMVWM4V2xKTWJMcURjMlRFN2l6STFveVl0Z3kzeXY3azFDelRqSk90YnhOcE42ZS04NA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress Leaders Switching Sides To Do 'Good Service': Assam BJP - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ3VJYXd4X1ZaTjMzTWNGRk00dk5QTzV4S3NwX1FwbHN1MkJOZGdNUXBocU9xdVQ3NnlIVUpOelBxRjBCZGpnNHdKNTF6ZVVCM3Y1cV9WNDE2ZGwyUU5IRVY2YU1XbUNMWnZCQS1KaXk1REpZUzAwNmhpU3dEWjl1S0x5SmdJcmRxVWx6bUgxLXNxOTlpNmVRZUl1VF9aWllJREVZamYxRUszSkdVNFFiZlF0NUduMTFreHVOTDd3QkVrYXVxM1ZCS1dZLTh0RlVzN0ZwbElVbEVKUTh3LTFoajhUYkk5TlFHeFhxUmJjblluZ9IB-gFBVV95cUxQMWQxWHgtbmtoVENxX0VONjctLUlRaGFyNGZsdXRSZTNDOFV5MzVmZG9PYkdzNlhkLTloeU1TM2cwSTZFckVEQjlaQjdBQ000d2VxYUxnakkxejd6YVpuWGp2aFMySWpaaEYyVlczQ3hxamRmYjF2cE1Dc1lYSk5KVHlSX0Q2WGYtMEFDX01PRWtnb2c1SUJFY1d0OVdXejhfeElRMTduU1JaUHprUVllWWlybjBOOG9DZ0gzSkZ5UGp0bWE0YTdMX1p4S3Z2OVpvR2VWWnMwQ2Fzd0p4c1VyNXNNZFVoUWU0TEd3YnQ2V0J4bkNEY1hEdkNB?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:24:05.015836Z",
+    "collected_at": "2026-09-02T14:52:44.809678Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.765127Z",
+          "fetched_at": "2026-09-02T18:38:04.227710Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.765136Z",
+          "fetched_at": "2026-09-02T18:38:04.227723Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.765142Z",
+          "fetched_at": "2026-09-02T18:38:04.227729Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.765147Z",
+          "fetched_at": "2026-09-02T18:38:04.227734Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.765154Z",
+          "fetched_at": "2026-09-02T18:38:04.227740Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.765159Z",
+          "fetched_at": "2026-09-02T18:38:04.227745Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:46.765163Z",
+          "fetched_at": "2026-09-02T18:38:04.227750Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,19 +335,19 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Dilip Saikia assures support on Central Government Health Scheme(CGHS) issues - The Sentinel - of this Land, for its People",
-          "source": "The Sentinel - of this Land, for its People",
+          "headline": "BJP vote share surged from 2% in 1985 polls to over 48% in 2026: Dilip Saikia - The Assam Tribune",
+          "source": "The Assam Tribune",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGNwb3JnTjlHR2pxSkRQWmt2MGZfSERNeXhKM0xMbHY3R0dfTHFzU3pWSWtXcmZCTmNkSEhIendZQjc2a0s1d2xmbFFzalFQWjVHdndNMFB3ZjlpWTdLTzlLeFlBajNLcWdPWFNYeEFtbncwTFJsNFJlaE1SOEVieFpxcmdKbVp1OC1EUE9ELXJqRDc5N2xxM21pU1hFNWdpNmtwUGVzN0lzb1ZIUlJiY25ia2Z3eER1QzFzM1dGNk8tRmRs0gHSAUFVX3lxTE4yX016dlFEcDNrMmg0dlZGVE1IbXg2WFJtNVJQSUFyU3o1aHhKOTRUQ1FEcUNvVEtLOVhVNWs3eUd3YnJmNHJCT1M0NUNtQ0lnRkZZeHEtdzFseUdsZVE5VU1Yb0psZkcwNGZGWHZNeUtna1ZmVEU3b3pJcUZuejQ0SWJqUlBxNDZEYXI0LVBKVkszb002TEVsMksydFA4Z3AycFd4bnV1UHJTRmRxZkF4cWtIb1ZtRUtKQ0hUWmZiTkNKNnZ2bzlIMDFQeGlmQmNsQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjF3Uk5SUzdSWTdvTVZKT3VxYm1fWnZnUmhOZEVGZnhqaXBUaXEyMjJ0SGsyd0FXeE9ObXpDUHFvRmR1eUMxVzhPaDZmYmw5eGsyRUVZTnFTUWRtWHVreXVzczZMMHFERThMWTY2MGdGSWVpdWpHRWVLQTJpenJnYjdNdTBab0ZRSERRWjV2YV9iMlJEc3BMNUFtWFFpWjV40gGmAUFVX3lxTE9kYkhxWENFUTNDcXZVM2ttYm9yOGF1eEpnUTdqY24zVmRvTEZTdXJqVGlpajBPU3RVWkxVek1ucVZjTENTUnVLUjRHM1ZUeUpqM3ROeHBqMHktZ0tLUnpIQklKX2FzQWZ6X3lyYTlOcnVLVWFyQU04dklXN1dsekRnMzc0M1JmbmRBNF9RamNyWFM3QXRvVmdxT3pUbkR4WjNQeUc3ZHc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Retired Civil Services Officers Raise CGHS Concerns With MP Dilip Saikia in Guwahati - Guwahati Plus News",
-          "source": "Guwahati Plus News",
+          "headline": "Retired Civil Services Officers Raise CGHS Concerns With MP Dilip Saikia in Guwahati - guwahati Plus News",
+          "source": "guwahati Plus News",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzlQMFlCbngxakd2ZkxLb2x2d1lMd0I4QjVjLXBkalRVM0UyMzJTNHV1aEZjQS04bnY3V2dZTGZTaHVlcUh5VUtab0dfdFZqcFAtRnowUFhfcnFrUmpYY1RWem1KNFplNlQ5VWhNMWdLOTY0Z0hfMjc1TXFyNnY0VERPRExMLTd0ZDBxNFdreWl4RDJKbmUyVUdHTEttR3JnNlprQ0tUNWtWZ3pEc1JfZDZ5S0pGZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQODRsOXRPVlpoaUQ3R0twTG1JQnpoVHdyUlZNal90X0o2UkxBNlNDbjRvUWVJSV81TXdWajcyQzh2eVdXTEcwM1BxbmtKanVidUZSS0dhN2I4a2d0c3M0VjZFTTdENTdGUUdTd0JMRkNMNWJyVGdDU1hwSXBwYVNXaG9iWDhCdGJkdUxSdEpoTmp3U3hKdU9LVFlFbXBLMVdJajVCSndnRjllX0xod3R3VW9sR2hZdGNxMmNIN0wyTQ?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -306,19 +359,19 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Assam BJP's 'Mahila Aakrosh' campaign to target Congress's policies - Asianet Newsable",
-          "source": "Asianet Newsable",
+          "headline": "BJP To Launch ‘Mahila Aakrosh’ Campaign Against Congress On April 23: Dilip Saikia - Northeast Today",
+          "source": "Northeast Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOEh1RUthcDZ6NHVrTWdONEUzYm5JVm9ZclpOdXBmYkx2QnRrWHpKU2JiRENnVGExS05ieDYzOVgxMVI5cURoOVZORUF5VEtiajZGbjJoN2hSSVg3MmFJeUlTZ1V0eWJ0Rm9QVFdyMjF3ejQzVGRKMksyM3lsV1JmOTZONVBmMWYzNHlibTNhZTNpVFIyQndqSUk4NmJLMjhka0x4QndnSkQ3RWNWdkJ4cDk1OVdCNGF2UEViNS14VdIBxAFBVV95cUxOa3hndHdNRXNVMGNfTVRNWFRrYURub2lLV2NsXzZobnlGWENVampobTJmb3VxdE1VSmItRTJNbzVKLVRYR19FbGNfSVJjTkRoVl9mUmktNWZaZWlsNHd5ZkxGUXBLUjAxM3NaenZ6VGRIUFptazI4SkFLNm9UeWd6WnRzSEY4UVRpMll3TXlIZlVMTGU4VGtHbE4zM3NSSXBrR0ZpVWEwOElnbUd2TlVkbUtpOXpMNkRmeVo1TTBtdFViUTZJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeThtLVAxNUtWeDBxYkVfM3UtX2p1bUpDRWNBZTV3ZEppQ3o1OEdWT3lnZlJSSGpfVlRuVnV2bjhDSlVQeEY4WnYwQzRZakZOM3BXcjdQQnd2MldMUktRRkZWbVVDV2g1SzhjWVZFZ1cyU1hDOU1oYklYb2JyOGo0UkhnRkdWbmN2TGQzeHRMVWM4V2xKTWJMcURjMlRFN2l6STFveVl0Z3kzeXY3azFDelRqSk90YnhOcE42ZS04NA?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "BJP targets Congress over women’s quota row, announces ‘Mahila Aakrosh’ campaign in Assam - News9live",
-          "source": "News9live",
+          "headline": "Congress Leaders Switching Sides To Do 'Good Service': Assam BJP - NDTV",
+          "source": "NDTV",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON1NCSzM4am1kb0t3SWo4ci12VWhZSFFISGd5bFNJVTJ6Wkc2ekN2WUh5VlA1c2Mzdmc1NW1QNHBmZmF4SGlvektkWk5yN2Z4LTBIVmhDZk9DcGVGVGRnYWptcElNYUQwdEhWNHh3d3JQZXd0QlEzeEJNSHFocG50VXYtcDdRR296bG1JWFFRSmFtQnpRcEF3dHE2b3pORXd3a3NMWVVFNDA1NDFyMThEN1FyQ08tV3Q5cXUyTTJvRVF1QXZla2tpOUdQTG1lQ2JPVHBiTtIB2gFBVV95cUxNZHJQRWpRS0NHSktPOWxmYnowaDhsMEp6S2I2eF9lbUxUclNhb1AxV0lURko1UFNkbEx6ZWhRNHJoU1VpZ3BncXVuaXpNLXFHU0FSVzhpQlN3U2dqZ3NfeU8za1BFV0VMaDRHZGFMUW1SUHpQRU5peEdZZnZfVHRXQVZkV1hZcU5UNDZOQm84N09QaVB0MndYRXpEVGhSZE12a1h2QktBeGtLYlJ6NWFVaVdmdjMzcEp6N2d5NUdzXzFvRENwdDJlR2VzRzgzejRYdkE3aGtGV3BTZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ3VJYXd4X1ZaTjMzTWNGRk00dk5QTzV4S3NwX1FwbHN1MkJOZGdNUXBocU9xdVQ3NnlIVUpOelBxRjBCZGpnNHdKNTF6ZVVCM3Y1cV9WNDE2ZGwyUU5IRVY2YU1XbUNMWnZCQS1KaXk1REpZUzAwNmhpU3dEWjl1S0x5SmdJcmRxVWx6bUgxLXNxOTlpNmVRZUl1VF9aWllJREVZamYxRUszSkdVNFFiZlF0NUduMTFreHVOTDd3QkVrYXVxM1ZCS1dZLTh0RlVzN0ZwbElVbEVKUTh3LTFoajhUYkk5TlFHeFhxUmJjblluZ9IB-gFBVV95cUxQMWQxWHgtbmtoVENxX0VONjctLUlRaGFyNGZsdXRSZTNDOFV5MzVmZG9PYkdzNlhkLTloeU1TM2cwSTZFckVEQjlaQjdBQ000d2VxYUxnakkxejd6YVpuWGp2aFMySWpaaEYyVlczQ3hxamRmYjF2cE1Dc1lYSk5KVHlSX0Q2WGYtMEFDX01PRWtnb2c1SUJFY1d0OVdXejhfeElRMTduU1JaUHprUVllWWlybjBOOG9DZ0gzSkZ5UGp0bWE0YTdMX1p4S3Z2OVpvR2VWWnMwQ2Fzd0p4c1VyNXNNZFVoUWU0TEd3YnQ2V0J4bkNEY1hEdkNB?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 63,
+      "starred_questions": 18,
+      "unstarred_questions": 45,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 100.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Assam: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 26,442,931. MPLADS utilization: 12.7%. Parliament attendance: 100.0%. Questions asked: 63. Debates participated: 19.",
-  "validated_at": "2026-09-02T01:36:46.765900Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 63. Debates participated: 19. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:04.228496Z"
 }

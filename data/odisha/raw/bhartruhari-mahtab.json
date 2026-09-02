@@ -4,16 +4,16 @@
     "constituency": "Cuttack",
     "state": "odisha",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 8022,
+    "myneta_candidate_id": null,
     "slug": "bhartruhari-mahtab",
     "house": "lok_sabha",
     "sansad_member_id": 225,
     "profile_url": null,
     "canonical_name": "Bhartruhari Mahtab",
     "name_aliases": [],
-    "education": "Post Graduate",
+    "education": null,
     "profession": null,
-    "age": 66,
+    "age": null,
     "photo_url": "/mp-photos/225.jpg"
   },
   "criminal_record": {
@@ -22,62 +22,101 @@
     "convictions": 0,
     "pending_cases": 1,
     "disposed_cases": 0,
-    "cases": [],
+    "cases": [
+      {
+        "description": "Dargha Bazar P.S. Case no.04 of 2011",
+        "ipc_sections": [
+          "341",
+          "323",
+          "294",
+          "332",
+          "353",
+          "506"
+        ],
+        "is_serious": false,
+        "is_convicted": false,
+        "status": "pending",
+        "court": "Honble Court of JMFC (UTP) Cuttack",
+        "fir_no": "Dargha Bazar P.S. Case no.04 of 2011",
+        "case_no": "GR Case No.83/2011",
+        "other_acts": "",
+        "charges_framed": "Yes",
+        "date_charges_framed": "21 Mar 2024",
+        "appeal_filed": "No",
+        "appeal_status": "",
+        "punishment": "",
+        "date_convicted": ""
+      }
+    ],
     "source": "myneta",
     "confidence": 0.8,
-    "sources": []
+    "sources": [
+      {
+        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T15:35:49.281787Z",
+        "notes": "MyNeta candidate affidavit data"
+      }
+    ]
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 199052798.0,
-    "liabilities": 0.0,
-    "net_worth": 199052798.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
-    "sources": [
-      {
-        "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8022",
-        "source_name": "myneta",
-        "grade": "B",
-        "fetched_at": "2026-08-22T20:01:50.779429Z",
-        "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-      }
-    ],
+    "confidence": 0.0,
+    "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 71.4,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 8.09,
-    "expended": 2.39,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:37:26.628960Z",
-        "notes": "Official eSAKSHI REST API — Works: 302 recommended, 262 sanctioned, 58 completed"
+        "fetched_at": "2026-09-02T14:30:54.960484Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:27:11.342072Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:27:11.339234Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 302,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 16.258503401360546
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -92,7 +131,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:21:15.869438Z",
+        "fetched_at": "2026-09-02T14:27:11.338116Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -100,22 +139,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Abolish one-city, one-nursing-college norm, urges Bhartruhari Mahtab - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXN6RE0wcERDaTg0OU1MVnFLRXA5T2pReXhwcFp1cHY4ZWRVdGtLT0FtaUw4V3I5TkFuOERORGFBc1g0Rk55aGtJd3NTYVRESTRhbkRpNjFySWZlLURrU0piRjJ3NFR6eG1YeHB2bW1Zd3NJNm9OdDN0NFNxOUVfdXVQTW1yblhVMFVvaS15WFh6eXQwT2JnMGU1ZEtKY0hUVEhkeUpEbHdBRzNuY1lpODRjQ2ZSRHZLLUtXcTRrTm40aWvSAdABQVVfeXFMTXlGbGlfalZWaFZqX3Z6NEM2OHFZMHhiUkxNamRnMUFEdEFQUEV2V1NqSGh6OGJQeEYxX3YtVllMdWZEVWRoWnl5YnVDd1M0b2N4QnBCcjdQX2dwbGp5Q3FpTi1ocXhmQmRWWERTSkVrblJiU2c5ZXpNamltbUFiSFRlbWJjdm9uUnl0TDAxMXYzbDl6ZGZwazZLYmZ1SVkwSGFKd0tmVDFsYzRkQ0tmMUhwX29Kc1R3X0hrQzlLWEdYWU1lSHV6ekxyUjVJMWstbQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Coordination Failure Between Railways & PWD! Is Cuttack Facing A Disaster? - Kanak News Odisha",
+      "source": "Kanak News Odisha",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0lET3ZMS05KVFBYeUhqaF9pSWRtX3RTNzBkXzY1UXYzN0F5QlRWWGxSa3VpT0o1c1AxeUctNDRBSUd0TGxjRnBka2JVUmFSakNvcWJVanM2TERRcFBNR0U4dEcxdU5sMnUySmpXYzRHaXlsNlNiQi1IT0JYYy12Y0VvSkxYdUt0THB5WkE5VjRVXzhzTy1yMUwyOWM5Ql8tSHRzNTh3U2E2Z3lZYnFJdTdic3R1aWvSAbwBQVVfeXFMT2szX0pmSUNITkRleEE0ZVdpZ0tUTVEtZ0JZem9LbWFrV0Y4NUtKMnJ1MTgyYTZBMGNrUy1hTlktaGs0ZHBtbk50LTFWZk1rbnlQLVdoQTFrd1duRFZaTm41cWhfaEFNRDVoNnN0S3cwRTI2d0pJY0ZXX0Z4MU9LTm9JRXJOUFFlc2hFRVhPWDduX0k2ZFAwRDl2NGJnVWlLbzlCd2VNQ2MzV0trMDl1dVAxalFEbENzRjVUOWY?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Naveen’s remarks over NEET row politically motivated: Mahtab - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3kwSC1JemhVZDNDVk5uTklJNXFKR3RWckdhTmhZUzBsMTNFcUFpbUlmdkdtU1hVY21qUmRxUUdkZldMNGFGYkNhZm02a2ZLRFlVZWl2SDEtbVRta1pFSGFFd21Va2wwT2ZhQllhT1ktQVZtN3pKS1AzNVRyZ3FodU9VV3p2UEZMMzV2SGJQQktjamV1QkNvOHR4Z29ua2ZMSS03VHg5RURwQjk3eFZHc1gtMG5tQUdt0gHGAUFVX3lxTFBaZDllWDBIWDNoQWFSMzJTM0ljVGpUNi1ZYmFLQUh2eGZzSXllSzVPR0RTN2gtUVVjSjdkOW1hUUxWX2ViaV9NQW1CMWpyR2c0d2VzQVBZN01NUGNHYnhwenBoY1otRnZZcWNCemlHdzU4SVZUbWFYZzM2bTlzT0tEMlpVNWJZTGF6V0VzVl8tdHowU0NGT1Fya3RXWE5FN29wZ0xyYnVlay1fYlNrR2lvb2dFZDZseXFlMnZFUFBSd29DUG9qdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Who is pro-tem Speaker Bhartruhari Mahtab: 7-time Cuttack MP a new BJP entrant - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3ZhUFVhTzV1YlFWU3I3bVNYbUY5ZGxfRmREaldzaktobmZ0QW12VUVLOVo1LV9tenlqalNPaFYzRGhQUHZQUm90cnRLLUQ0X0R1ZzA0dTdIOWhlTFU0WFJkdGdJQUhHcExTdU4yZHlJQkt1ek9uUFo4b3hXMENFaGszOE1TaE1ySUluSUd4eTZpOGFjdl8yNnVwcHVJQUVDdy1OZWpuUHY0bm1oanRPUTg2N3VSaGRNbUHSAcABQVVfeXFMT1YzY3F5YXFQTTlCckxOZGx5RmtFTFJObFpmd01jZnIxN3N0cU9qMlZzOUhVTHRUWDk3X3hSdVpTSjRJVkFLLTI0WkJKT2JzZWFZd2x4MEp0Y2NoVnFtMjNJRkJhOWRWSjF3TVhCeF9jVTFveDRpUEh3ZFpSbm9qOWg5dzhBVW5oempTVGFOMm5WQUo2R1pzSk1kbWtUQVRDaUdrVUlvX3B1Q0c3LW5BRVhTdFZJWmpEdzhrT3ZrSGIy?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Six-time BJD MP Bhartruhari Mahtab joins BJP, likely to be fielded from Cuttack | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ0pCa21lenVCQ2JGTTN6RThkYUdrZFdoYnF4b2wydHIzeVdycmpCOWR6ZTF4SWcwWTVzYldtUFJzRTQ2Q2xpTDFianphZDVJd1BxWS04ckxPaUhnV01qdEkzRVV1YjJsQWRYcUhqTXdvbFhTVmdsc2t3SFZ1ekNIZ3dQYTh6U0pSNzhNWDBDZ0Z2NG0tbUVOX2NVb2J1cGlGQmdyR0lDMWdpclRZOUEtTmJQd1dqMjdaR1BwTlBtV0pLM1BwTGdMbDJIRnlwNkIxMDdUU2U1WdIB3AFBVV95cUxOalRfWmpBWG1GZ0ZES0hDd0dXVmNQN1hkUGJrZVhNN2hIMnJ5RXVkejltUEdSMVRRU2VuQVdqTTN0RUhvcXJxOVNBUEVtR05kN1BaSDl4Y1dlemMxNDZGTmtHc0ViR0ZxX0dFTVI5elNRaW5jTUktRVFYcW9rbzRQRF9MOHlGZ2cyc0lhcXEwdWF2WFQ3U3g2Z2FfNkZ5WVJBendfS2xoX2RibmtZVGZ3UEJlZ0lKYV80emdDaEhBWVpRR2FUcmpvV2E5X1JzX3V2dFpodE1WV1RSa0Vt?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "myneta",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:22:19.005734Z",
+  "collected_at": "2026-09-02T14:30:54.961578Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "assets": "B",
-    "criminal": "B",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -130,7 +208,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.221815Z",
+        "fetched_at": "2026-09-02T18:38:08.734957Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -146,7 +224,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.221824Z",
+        "fetched_at": "2026-09-02T18:38:08.734969Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -162,7 +240,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.221829Z",
+        "fetched_at": "2026-09-02T18:38:08.734975Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -178,7 +256,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.221834Z",
+        "fetched_at": "2026-09-02T18:38:08.734980Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -194,7 +272,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.221840Z",
+        "fetched_at": "2026-09-02T18:38:08.734987Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -210,7 +288,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.221844Z",
+        "fetched_at": "2026-09-02T18:38:08.734992Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -226,7 +304,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:51.221849Z",
+        "fetched_at": "2026-09-02T18:38:08.734996Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -264,11 +342,27 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Cuttack clash: Anti-socials were provoked by certain people, says MP Bhartruhari Mahtab - Odisha TV",
-        "source": "Odisha TV",
+        "headline": "Abolish one-city, one-nursing-college norm, urges Bhartruhari Mahtab - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1RiNS1YV1JTMDNxY2h3YmRxSnZZZWhsTV96TVlTOGJxX2diT0NiMWJKZVpGeWpfTnFsMm8xUWVta1ZocUx2ZWxWV2drMGE4SnNJVzhWNzFuY1ZSOUZqMDVYWk1CeGxYODJTN0hWREppR0plbVJDa1ZwY3ZnMzE0YVdfYTVOaUFUeFlzSmw1N1BRNW50Ml9xT1ZZeGNZMTIxUEVBZ0tsZnQzSFktOXU5YjZla2JBWDBCQ1Z6NVln0gHDAUFVX3lxTE5uQ3hBaC1fR2YyTjN5eXpRQ2ZPM2xaazJYaWIyMVZQbEo4WHJPaTcwZDh1LWFJYlZ3R3VsT051TDBjT0lhdWRnU08xZEtfZkdsa1hhUDRydkpyRGh6Q0VQN2JSWi16eWluSk5VSXlCeHhETVhDM01kcTdmajJPaUtQdVNhZHU0c1lQRDRPWDcwMlhrSHNtRFZNSVdteEEzR1h3Wm4xZEdOS0Q4RUZ6N21NTGdvbkV4SnN6OFUyQzRndEFQSQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXN6RE0wcERDaTg0OU1MVnFLRXA5T2pReXhwcFp1cHY4ZWRVdGtLT0FtaUw4V3I5TkFuOERORGFBc1g0Rk55aGtJd3NTYVRESTRhbkRpNjFySWZlLURrU0piRjJ3NFR6eG1YeHB2bW1Zd3NJNm9OdDN0NFNxOUVfdXVQTW1yblhVMFVvaS15WFh6eXQwT2JnMGU1ZEtKY0hUVEhkeUpEbHdBRzNuY1lpODRjQ2ZSRHZLLUtXcTRrTm40aWvSAdABQVVfeXFMTXlGbGlfalZWaFZqX3Z6NEM2OHFZMHhiUkxNamRnMUFEdEFQUEV2V1NqSGh6OGJQeEYxX3YtVllMdWZEVWRoWnl5YnVDd1M0b2N4QnBCcjdQX2dwbGp5Q3FpTi1ocXhmQmRWWERTSkVrblJiU2c5ZXpNamltbUFiSFRlbWJjdm9uUnl0TDAxMXYzbDl6ZGZwazZLYmZ1SVkwSGFKd0tmVDFsYzRkQ0tmMUhwX29Kc1R3X0hrQzlLWEdYWU1lSHV6ekxyUjVJMWstbQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Coordination Failure Between Railways & PWD! Is Cuttack Facing A Disaster? - Kanak News Odisha",
+        "source": "Kanak News Odisha",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0lET3ZMS05KVFBYeUhqaF9pSWRtX3RTNzBkXzY1UXYzN0F5QlRWWGxSa3VpT0o1c1AxeUctNDRBSUd0TGxjRnBka2JVUmFSakNvcWJVanM2TERRcFBNR0U4dEcxdU5sMnUySmpXYzRHaXlsNlNiQi1IT0JYYy12Y0VvSkxYdUt0THB5WkE5VjRVXzhzTy1yMUwyOWM5Ql8tSHRzNTh3U2E2Z3lZYnFJdTdic3R1aWvSAbwBQVVfeXFMT2szX0pmSUNITkRleEE0ZVdpZ0tUTVEtZ0JZem9LbWFrV0Y4NUtKMnJ1MTgyYTZBMGNrUy1hTlktaGs0ZHBtbk50LTFWZk1rbnlQLVdoQTFrd1duRFZaTm41cWhfaEFNRDVoNnN0S3cwRTI2d0pJY0ZXX0Z4MU9LTm9JRXJOUFFlc2hFRVhPWDduX0k2ZFAwRDl2NGJnVWlLbzlCd2VNQ2MzV0trMDl1dVAxalFEbENzRjVUOWY?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Naveen’s remarks over NEET row politically motivated: Mahtab - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3kwSC1JemhVZDNDVk5uTklJNXFKR3RWckdhTmhZUzBsMTNFcUFpbUlmdkdtU1hVY21qUmRxUUdkZldMNGFGYkNhZm02a2ZLRFlVZWl2SDEtbVRta1pFSGFFd21Va2wwT2ZhQllhT1ktQVZtN3pKS1AzNVRyZ3FodU9VV3p2UEZMMzV2SGJQQktjamV1QkNvOHR4Z29ua2ZMSS03VHg5RURwQjk3eFZHc1gtMG5tQUdt0gHGAUFVX3lxTFBaZDllWDBIWDNoQWFSMzJTM0ljVGpUNi1ZYmFLQUh2eGZzSXllSzVPR0RTN2gtUVVjSjdkOW1hUUxWX2ViaV9NQW1CMWpyR2c0d2VzQVBZN01NUGNHYnhwenBoY1otRnZZcWNCemlHdzU4SVZUbWFYZzM2bTlzT0tEMlpVNWJZTGF6V0VzVl8tdHowU0NGT1Fya3RXWE5FN29wZ0xyYnVlay1fYlNrR2lvb2dFZDZseXFlMnZFUFBSd29DUG9qdw?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -280,27 +374,11 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "Bhartruhari Mahtab, BJD's six-time MP from Cuttack in Odisha, resigns from party - India TV News",
-        "source": "India TV News",
+        "headline": "Six-time BJD MP Bhartruhari Mahtab joins BJP, likely to be fielded from Cuttack | India News - Hindustan Times",
+        "source": "Hindustan Times",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcEVvNVdVZWdqeUFWZGJFek5JVGxFZ2JFck92YVNIclZTN0EwbGtRckx6aTNkWHNSeFFHTks1cDVpWl9XNXF2TWRwZnF6NTJWNUpwZ3g4TmxaUlJlSEVQOUtlQTBRbThxY2REWHFrRnJ1Zm1PRmFhYllVQ0tJM01fSng0RUdKNGhPLTRqNFh5T2VPaFBJcGw4RE52QUlOc1NjSkNDaW5uYVpiZkp6X0ljU3pkTWx6WHZzR0ZNVmFxcW53bUJCQzk1QWFGYk4xVVVOSjF5dDJhY0pzV1lyYnZYbHQwTXpQZXptQjJVSGFVdVdBd9IB9wFBVV95cUxOMC1fV21RNFJWVFViUDRkRExjc1dCb1Z2RDlUM0ZpSlVzSEszWXBFb2VZVTZGbjhxSmdWUnRTLUUzQ3hCeWRfMVN1c0RWZHdDY2N5U0ZlX04yR2N2ZzhoVTJMcUg4VUxCaHk0dE9IQnoyaWwwX3FwbDZnZXZjSGxLeHM2bEM4NndvbXEtT3hlSjlXdkwwTktUSUtzWjViQ0hZUnFTbDloQTVhYnJ4TlRCYWd0ZGx4a2FqdEZZTFloSjZSb2xSWHpFNC1QVkRrNWU3bUFjM3FpQThfTkNmMGlUV1B4S2NOVGFxY210bUwxeUlxUWl4aWJj?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Can BJD Turncoat and Six-Time MP Bhartruhari Mahtab Swing Cuttack Lok Sabha Seat for BJP? - TheWire.in",
-        "source": "TheWire.in",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYURVaXNvbF9lREU2Ukk4bnE4LWdHS2RZdWoxQVFGTWgyUmZwMGppSTZPSVdmdm84UGdid3lGTmEwTGVqU0lfekpfSmtISEFCTGJDM0R6cEFKeC00OHFMX0FqOHhKNGxoNC1zUFZmM05uaWQ0WHhjUXRGbnU2V2VCMGlDV001TE5xNWU3c3gtTWdMV09LZnplcFF2YS1vZ3J0YUZ6UDJ6Tk00Q2JocWdCVU9pUVdOaXd4dktMWHNGZXNOeEhw0gHKAUFVX3lxTFBnMXZGWWRQaXBJRDhmcnY4LVdZZkdpNVNrb1pBQ0VpWm93dVFWc00yaEduTkZ3ZXFNTGFLLWxNSHl0WXFjY19UNEg2TXdmcGdXQW5ydUdPbFl2cDNSazFLRkozOUZfZFZoT21CN2trX1RuR0syM2lucWF3cTFhSGhIZFM4eEJoX19sRlVRUG1XS1ZSaWREY1NLSjRfWFBmOFZBQU5JQThtWUlWTnpLZDBpUHlrdFdWYTk0eWhxclREQ3BkNjNzSGg0ZkE?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Who Is Bhartruhari Mahtab, The Pro-Tem Speaker For 18th Lok Sabha - NDTV",
-        "source": "NDTV",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXNzXzVtUGZKdFdkZlhudVpiQllpUVo2OWNzcE4tMUNFQXpfYlIxWTdmZHBCVlhlaWYzZHd1cUk2U0NYR3BrX2lJVHRzRGFmcks3TU0wV2VZQjFlMjAzMHhFRDdvZ0F6aWt4dmtBOXNFc1lWZEJxb2ZlekxWbmdUVDJVLUhpQTRnQnpYUnNhWGtDWGdXT1RicjlVX0pBZTBYUGdma0FtZ9IBrwFBVV95cUxNczRoMDNENWwxZzB1WTBiNXhCQVM5S25HeXYtRWh6bUZNUVZHaWZzck12NmY5NEtBYVpZQzF2N3hyS3V4bkUtOG0xd3pyR0JyU2JuZm15RjhfY3h1bzNKWXl6Mm5MM0V6WTBOTy1meGVXVGpFT0dXZnNicENEYmN3N1B6MllxY2dQY3Z5bGNCd3BQbWZHczNscHBTZEtHZ3lTaC13N0Nnb3NkUkVscE00?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ0pCa21lenVCQ2JGTTN6RThkYUdrZFdoYnF4b2wydHIzeVdycmpCOWR6ZTF4SWcwWTVzYldtUFJzRTQ2Q2xpTDFianphZDVJd1BxWS04ckxPaUhnV01qdEkzRVV1YjJsQWRYcUhqTXdvbFhTVmdsc2t3SFZ1ekNIZ3dQYTh6U0pSNzhNWDBDZ0Z2NG0tbUVOX2NVb2J1cGlGQmdyR0lDMWdpclRZOUEtTmJQd1dqMjdaR1BwTlBtV0pLM1BwTGdMbDJIRnlwNkIxMDdUU2U1WdIB3AFBVV95cUxOalRfWmpBWG1GZ0ZES0hDd0dXVmNQN1hkUGJrZVhNN2hIMnJ5RXVkejltUEdSMVRRU2VuQVdqTTN0RUhvcXJxOVNBUEVtR05kN1BaSDl4Y1dlemMxNDZGTmtHc0ViR0ZxX0dFTVI5elNRaW5jTUktRVFYcW9rbzRQRF9MOHlGZ2cyc0lhcXEwdWF2WFQ3U3g2Z2FfNkZ5WVJBendfS2xoX2RibmtZVGZ3UEJlZ0lKYV80emdDaEhBWVpRR2FUcmpvV2E5X1JzX3V2dFpodE1WV1RSa0Vt?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -334,15 +412,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 72,
+    "starred_questions": 21,
+    "unstarred_questions": 51,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 100.0,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -350,17 +428,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

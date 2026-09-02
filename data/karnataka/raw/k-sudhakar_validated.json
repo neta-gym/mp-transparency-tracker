@@ -4,16 +4,16 @@
     "constituency": "Chikkballapur",
     "state": "karnataka",
     "party": "Bharatiya Janata Party",
-    "myneta_candidate_id": 1881,
+    "myneta_candidate_id": null,
     "slug": "k-sudhakar",
     "house": "lok_sabha",
     "sansad_member_id": 5602,
     "profile_url": null,
     "canonical_name": "K Sudhakar",
     "name_aliases": [],
-    "education": "Graduate Professional",
+    "education": null,
     "profession": null,
-    "age": 50,
+    "age": null,
     "photo_url": "/mp-photos/5602.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Chikkballapur",
       "state": "karnataka",
       "party": "Bharatiya Janata Party",
-      "myneta_candidate_id": 1881,
+      "myneta_candidate_id": null,
       "slug": "k-sudhakar",
       "house": "lok_sabha",
       "sansad_member_id": 5602,
       "profile_url": null,
       "canonical_name": "K Sudhakar",
       "name_aliases": [],
-      "education": "Graduate Professional",
+      "education": null,
       "profession": null,
-      "age": 50,
+      "age": null,
       "photo_url": "/mp-photos/5602.jpg"
     },
     "criminal_record": {
@@ -40,62 +40,99 @@
       "convictions": 0,
       "pending_cases": 1,
       "disposed_cases": 0,
-      "cases": [],
+      "cases": [
+        {
+          "description": "",
+          "ipc_sections": [
+            "499",
+            "500",
+            "501",
+            "34"
+          ],
+          "is_serious": false,
+          "is_convicted": false,
+          "status": "pending",
+          "court": "42 ACMM Court Bangalore and Special Court",
+          "fir_no": "",
+          "case_no": "PCR No.220/2020, CC 35460/2022",
+          "other_acts": "",
+          "charges_framed": "No",
+          "date_charges_framed": "",
+          "appeal_filed": "Yes",
+          "appeal_status": "Criminal Petition No.1055/2023",
+          "punishment": "",
+          "date_convicted": ""
+        }
+      ],
       "source": "myneta",
       "confidence": 0.8,
-      "sources": []
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:34:32.625797Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 334163156.0,
-      "liabilities": 203448949.0,
-      "net_worth": 130714207.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1881",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:47.800106Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 79.2,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 5.16,
-      "expended": 2.43,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T18:23:29.921779Z",
-          "notes": "Official eSAKSHI REST API — Works: 160 recommended, 83 sanctioned, 10 completed"
+          "fetched_at": "2026-09-02T15:02:41.510057Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:58:31.873157Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:58:31.870553Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 160,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 16.53061224489796
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 95.0,
@@ -110,7 +147,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:31:39.286994Z",
+          "fetched_at": "2026-09-02T14:58:31.869555Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +155,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Will work for whoever BJP fields in Chikkaballapur in Assembly poll: MP K Sudhakar - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaTJpdEF5NndZWjNlXy1LT0xJdzhzRnFsUzd5WkpZUUNXdzZINHVhLWJPbU5uRWhFQjItTHVKbG9UMXJpVnVUSkdJcnhtRG4xb3hNSE42clQxVm9CUTFJQkhPM0l3RFlXQ0w4NHhTN1c4Z2swWDR3NVhiRkRBSng3RkFFS0JpVjN3R0Fld1JZNFFBa3RYMFJJdVdIMjRQbnZ6V19TdDNUSFVVMEgzSVZUeTJkNjV1Zi1KY2p1aUg5TnNBSDRiOVVYRU5fMjlWSnM?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Now, it’s MLA vs MP of saffron party over Kempegowda Jayanti event - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGZlOGc4bWJPNm5Ia3JQWUhkVWVyMHh2M011aFRPVDNoNUlpRTZndUlSWU9xcktpdDRrbjU1Y1h6MFhyZU5odkhKOER5SXZJT1VBaDNTMURNRWxtVnRBd2lkY2JWdFN5MzlxSUNSX19NbjlraDZxV1JIaHYzaDZ6Z0tSLVI1QWZFa2FNbFBQQWRSRDJxX3hycG1NRTIyNWk2UzVpVV95YXlpT3VKaGpBcTZUd0E3SXQt?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chikkaballapur MP seeks triple-stage treated water under KC, HN Valley projects for drought-hit Bayaluseeme - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORGFtay1ZNkMyWEpRYW9PRzQ5ZC10SmpTaVFSUWhVQ05aZ1Y5Qlp3RVMydWZMdDZkZ3c1ZzFBdGR5TDVrVmM4Z1ROZ2FvZUFhUmptakpJQ2RtSEJKSWViMXA1WmQ3cEJUMml4LXBWVGN1NlpXdVBWY29DaFJzWXdvSTNaTXZobFYwQnc2T043QzF6WTNxV3Fya01wY1FYZnRBaEN3R1B3ZFhuOVRqXzlhcTJkVFQ3VmI2Yzl3YUZwQ1ZPOThMeC1oWWxiOU1lTDFjSGctUDl0NlY0Y0lRbDVvN3JuYjE3akFvT0pneWgzMmRwQXFhY0k3aGRFR2vSAYoCQVVfeXFMTWhVbEJsRExIaThkN3pRZURud0N5cGMxTGZnSjJUcFlYY3c3Tzd5U1F1bEt4M19rWERFMlpzRThvM3ZaZ3dMZ2liazhWMWNXT0ZPNmpJNmwzbTY0ZTFCQjl2U3Q2aWktQjFxRlhscjZmcExQUnpLVjRjbWxpeG5jOWJNYzVNTXloSUgzYWt5MUk5VVk0M2hjSTNkUkFTbzlYanVoOFRrZHRPVmd6amJvdHI5SXA2MnBMT2lUcTZmRzNWX0dKVm1hQkc4TFE5SEhRVHVHT2tvNTdTZnNLNUg1M1NqNEtNR1NzaG5hRUMzLU1jS3BlMmdwb0VDeW1JMXFQUURJUWFlRC03amc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Karnataka BJP MP Sudhakar demands supply of third stage treated water to Chikkaballapur - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObmw0dFBVc1FBX1dRT0ljYmdvMEl5WE02VjNpLW4tWGxJeU9FVkpwbWlQMXFxZWpOcHVNMVRHVnVzS09ReXEtd0VYOHRaRDJ0ZzVZX0RrUzA4UWlMWnk0U2d3RGpZTVYzQlRFNDNLQVpRQXR4M002VWU4N3FlUm1lRmVpQ1ltN3Vvc1Zlck1DcTJkVWFVZVRrMWxvN2Rvc1FxZ3JxNTBuaU9DSjJXbi1jWTlLSzBKVHlOYXRJMUdnOE9idXpNSmFwQ0k0YVJPeHJ1THJBSVluaw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Chickballapur MP Sudhakar booked for abetment to suicide - thehindu.com",
+        "source": "thehindu.com",
+        "severity": "medium",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbENCS05QblZ4YXlVamR2WGN5eURZX0pib3FmamZqZnFJYjdhckdPREozRHRnQmNkSXVMSVJsMlZ4ckhYVjB1eldIRm1DYmd4Rm9UZXF0UVJzTmU4NDZUTGoxNE9XV1hFT0JBLVVhWFV6YUJ0RmQwODBydkNEVDlJWFFzdFZoRlIxbjhvR3BWdFNQR3NsdG1EcWFyQTViVGlWN2hXZWRaTW1pR2pDY0tyUW43V1pfdVRJVUFfV09qekxOeEXSAcoBQVVfeXFMUEkxRTFMNzRoOTh2QVpUY1dESVdaRkV5ZHItRVNRa3YzNncwUmc0RlNnaEx6MktqX0lJMUQtZlBCQkhyckVxTjZKbkI2eDNQQ2dwWnNLWDg4RndwVVFxOF9sSU9BcnJCcFZCZlg3MURZRzlvX0o3VXhiMjNhaW9pWWRhNC1VdXAxZ0JjYUVjZlp1b3I0bHBPaDFITFFQWWcwVk9yc2hvT3VTZ2xjdjJwQ1FMU09nVmhySXhxVXJYNHRKdEp3UjlLdzF2dw?oc=5",
+        "sentiment": "negative"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:32:37.486213Z",
+    "collected_at": "2026-09-02T15:02:41.511094Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +224,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.084168Z",
+          "fetched_at": "2026-09-02T18:38:06.593757Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +240,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.084183Z",
+          "fetched_at": "2026-09-02T18:38:06.593769Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +256,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.084192Z",
+          "fetched_at": "2026-09-02T18:38:06.593774Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +272,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.084200Z",
+          "fetched_at": "2026-09-02T18:38:06.593780Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +288,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.084208Z",
+          "fetched_at": "2026-09-02T18:38:06.593787Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +304,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.084215Z",
+          "fetched_at": "2026-09-02T18:38:06.593792Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +320,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:49.084222Z",
+          "fetched_at": "2026-09-02T18:38:06.593796Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -282,27 +358,19 @@
       "neutral": 8,
       "top_headlines": [
         {
-          "headline": "Empowering Women With Self-Reliance Is the Biggest Guarantee: Chikkaballapur MP Dr K Sudhakar - Asianet Newsable",
-          "source": "Asianet Newsable",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX2hFRUxQYmM2ZzU3cThfdkJCbmZpbEVKd0xzWVZXd1l6LXN4MW5wS054Q2gxUlB6VklFYUtCeGJRbVhIUGdWaHB4UEZMQ1pXSDdMQWk1ODJqamVCMjVJMllEYzBLMHROdWdBWS1ISlBRVzJSamt6Y0Z4c3hHeFo5NFZZMUdpTjNmRGZ3eTlHQ1N5M1V5X3EyUVVmSkktZzBfVTZXMkVUVUU1UmRSeGc4ZXZZUUk3RVh0eVp6ODd1eV80RE45VmJkalpLcDhZRnRkSEFvMEg0ai1Gbk95cUctek9iWGhiN3lBUzh0b3NHYWVoUdIB9wFBVV95cUxPcVl6WFAxSGhZZ1dsb1hOaVJsQ3hjSExiVWktblJCNnRzcUVwX29tN0E4RXJSVHdhZE5BU1ZJeXF0WE5ITnh1bWc2aXNDUjBiUjNlZVo0QUV2dzFUc3F1Zkc0UlVPYk50NGp5dG11Tm5nOGY0ZTRGczBFMUQ0X1ppejItRjlGdFFjSFZCVlo2MEcteXlfRkpGWUVhZ1FrZWI0OURoODJJbFF1SkdQMXJNaW1nTHgyVlRKMndON1h6QUFRZVF3S1o4cjJqYzZzTXY1ZEtwMVB5OTM3X3JWYm90VjVrS01jemRrQ0FaSzU4YkU5RHFqMUpv?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Empowering women with self-reliance is the biggest guarantee: Chikkaballapur MP Dr K Sudhakar - MSN",
-          "source": "MSN",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdlpqalYwWmNKWlZhYW12VU9weW53SDBHcm1LeUt6dzB4UU5zNm5icUdnS3ZyTkxSdGFmb3R2bUk4WThGSElBSUI2QWExanRFNGF4LUFaaXBxVVgtZHdTdFVOb0N4XzZ2Zm9QVmJkOXRKTUhPWHlSVFQ1VEx2Y3I4anducUc1TlNxRjVnXy0xODVIaExSSzZmMm9BdnFJZEZUdVpLSGR0ampOSGFyZ25QXy1WQ2dEblhFY3dJa2dqem5iV1hXaFJhQlVqUVprMjhPWURzSmpjc2g?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Chikkaballapur water: Sudhakar seeks third-stage treatment supply boost - Deccan Herald",
+          "headline": "Will work for whoever BJP fields in Chikkaballapur in Assembly poll: MP K Sudhakar - Deccan Herald",
           "source": "Deccan Herald",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObmw0dFBVc1FBX1dRT0ljYmdvMEl5WE02VjNpLW4tWGxJeU9FVkpwbWlQMXFxZWpOcHVNMVRHVnVzS09ReXEtd0VYOHRaRDJ0ZzVZX0RrUzA4UWlMWnk0U2d3RGpZTVYzQlRFNDNLQVpRQXR4M002VWU4N3FlUm1lRmVpQ1ltN3Vvc1Zlck1DcTJkVWFVZVRrMWxvN2Rvc1FxZ3JxNTBuaU9DSjJXbi1jWTlLSzBKVHlOYXRJMUdnOE9idXpNSmFwQ0k0YVJPeHJ1THJBSVluaw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaTJpdEF5NndZWjNlXy1LT0xJdzhzRnFsUzd5WkpZUUNXdzZINHVhLWJPbU5uRWhFQjItTHVKbG9UMXJpVnVUSkdJcnhtRG4xb3hNSE42clQxVm9CUTFJQkhPM0l3RFlXQ0w4NHhTN1c4Z2swWDR3NVhiRkRBSng3RkFFS0JpVjN3R0Fld1JZNFFBa3RYMFJJdVdIMjRQbnZ6V19TdDNUSFVVMEgzSVZUeTJkNjV1Zi1KY2p1aUg5TnNBSDRiOVVYRU5fMjlWSnM?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Now, it’s MLA vs MP of saffron party over Kempegowda Jayanti event - Deccan Herald",
+          "source": "Deccan Herald",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGZlOGc4bWJPNm5Ia3JQWUhkVWVyMHh2M011aFRPVDNoNUlpRTZndUlSWU9xcktpdDRrbjU1Y1h6MFhyZU5odkhKOER5SXZJT1VBaDNTMURNRWxtVnRBd2lkY2JWdFN5MzlxSUNSX19NbjlraDZxV1JIaHYzaDZ6Z0tSLVI1QWZFa2FNbFBQQWRSRDJxX3hycG1NRTIyNWk2UzVpVV95YXlpT3VKaGpBcTZUd0E3SXQt?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -314,12 +382,20 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "Karnataka BJP MP Sudhakar warns of padayatra over water quality in Chikkaballapur, Kolar regions - Deccan Herald",
+          "headline": "Karnataka BJP MP Sudhakar demands supply of third stage treated water to Chikkaballapur - Deccan Herald",
           "source": "Deccan Herald",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR1Q1c3FYOEtHR0dWSWNfODFaOGRFT19ndUhPUVdOS3RvXzJ2X3JZTXhLZWV0VUxvOWg0S1ZHcjZIWl95c2tyNEppaV83OWR0YndrV0lvRDkwdW9kRW4zNjhnNTJ5YS0zcllqR1R5ZnFRQ1dORkE0XzFFWlY0dWlDTFlsVlhBWnRudWJpdXdLWHFEYjNUYnVNSmxydExSRHRtUVpSWUdpWVB0LS0wTHM5THl6ekVBR05jUXhrc3Q0ekl1cEJ1TVVmaHZMQkZzNVdKaElNZmJvbjZXUGpYVFJSaTdn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObmw0dFBVc1FBX1dRT0ljYmdvMEl5WE02VjNpLW4tWGxJeU9FVkpwbWlQMXFxZWpOcHVNMVRHVnVzS09ReXEtd0VYOHRaRDJ0ZzVZX0RrUzA4UWlMWnk0U2d3RGpZTVYzQlRFNDNLQVpRQXR4M002VWU4N3FlUm1lRmVpQ1ltN3Vvc1Zlck1DcTJkVWFVZVRrMWxvN2Rvc1FxZ3JxNTBuaU9DSjJXbi1jWTlLSzBKVHlOYXRJMUdnOE9idXpNSmFwQ0k0YVJPeHJ1THJBSVluaw?oc=5",
           "sentiment": "neutral"
+        },
+        {
+          "headline": "Chickballapur MP Sudhakar booked for abetment to suicide - thehindu.com",
+          "source": "thehindu.com",
+          "severity": "medium",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbENCS05QblZ4YXlVamR2WGN5eURZX0pib3FmamZqZnFJYjdhckdPREozRHRnQmNkSXVMSVJsMlZ4ckhYVjB1eldIRm1DYmd4Rm9UZXF0UVJzTmU4NDZUTGoxNE9XV1hFT0JBLVVhWFV6YUJ0RmQwODBydkNEVDlJWFFzdFZoRlIxbjhvR3BWdFNQR3NsdG1EcWFyQTViVGlWN2hXZWRaTW1pR2pDY0tyUW43V1pfdVRJVUFfV09qekxOeEXSAcoBQVVfeXFMUEkxRTFMNzRoOTh2QVpUY1dESVdaRkV5ZHItRVNRa3YzNncwUmc0RlNnaEx6MktqX0lJMUQtZlBCQkhyckVxTjZKbkI2eDNQQ2dwWnNLWDg4RndwVVFxOF9sSU9BcnJCcFZCZlg3MURZRzlvX0o3VXhiMjNhaW9pWWRhNC1VdXAxZ0JjYUVjZlp1b3I0bHBPaDFITFFQWWcwVk9yc2hvT3VTZ2xjdjJwQ1FMU09nVmhySXhxVXJYNHRKdEp3UjlLdzF2dw?oc=5",
+          "sentiment": "negative"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -352,15 +428,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 49,
+      "starred_questions": 14,
+      "unstarred_questions": 35,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 94.5,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,17 +444,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 95.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -399,8 +475,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.26,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +502,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Karnataka: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Declared assets: Rs 334,163,156. MPLADS utilization: 16.5%. Parliament attendance: 95.0%. Questions asked: 49. Debates participated: 11.",
-  "validated_at": "2026-09-02T01:36:49.085071Z"
+  "cross_reference_notes": "Has 1 criminal case(s) (0 serious), 1 pending, 0 conviction(s). Parliament attendance: 95.0%. Questions asked: 49. Debates participated: 11. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:06.594536Z"
 }

@@ -4,16 +4,16 @@
     "constituency": "Hisar",
     "state": "haryana",
     "party": "Indian National Congress",
-    "myneta_candidate_id": 8547,
+    "myneta_candidate_id": null,
     "slug": "jai-parkash",
     "house": "lok_sabha",
     "sansad_member_id": 3289,
     "profile_url": null,
     "canonical_name": "Jai Parkash",
     "name_aliases": [],
-    "education": "12th Pass",
-    "profession": "Agriculture",
-    "age": 69,
+    "education": null,
+    "profession": null,
+    "age": null,
     "photo_url": "/mp-photos/3289.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Hisar",
       "state": "haryana",
       "party": "Indian National Congress",
-      "myneta_candidate_id": 8547,
+      "myneta_candidate_id": null,
       "slug": "jai-parkash",
       "house": "lok_sabha",
       "sansad_member_id": 3289,
       "profile_url": null,
       "canonical_name": "Jai Parkash",
       "name_aliases": [],
-      "education": "12th Pass",
-      "profession": "Agriculture",
-      "age": 69,
+      "education": null,
+      "profession": null,
+      "age": null,
       "photo_url": "/mp-photos/3289.jpg"
     },
     "criminal_record": {
@@ -45,65 +45,71 @@
       "confidence": 0.7,
       "sources": [
         {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8547",
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
           "source_name": "myneta",
           "grade": "B",
-          "fetched_at": "2026-05-23T18:17:12.167233Z",
+          "fetched_at": "2026-09-02T15:34:04.891599Z",
           "notes": "MyNeta candidate affidavit data"
         }
       ]
     },
     "assets": {
-      "movable_assets": 20553566.52,
-      "immovable_assets": 47500000.0,
-      "total_assets": 68053567.0,
-      "liabilities": 13194392.0,
-      "net_worth": 54859175.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8547",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-05-23T18:17:12.176714Z",
-          "notes": "MyNeta candidate affidavit data"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 47.1,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.06,
-      "expended": 4.97,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:22:15.724213Z",
-          "notes": "Official eSAKSHI REST API — Works: 373 recommended, 249 sanctioned, 59 completed"
+          "fetched_at": "2026-09-02T14:35:00.866877Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:31:16.242065Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:31:16.239285Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 373,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 33.80952380952381
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -118,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:23:47.995903Z",
+          "fetched_at": "2026-09-02T14:31:16.238223Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -126,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Rohtak: Congress Hisar MP hits out at Brijendra’s Sadbhav Yatra | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUlpWFA0TW1RcVJpMFkzNmJzUDdvd2l2Ync3Nnh5MS1pSWNIRFRvUHFzWWRuUTY1Yy0tcnljR2NSSXVWUHRzdHk2LUpPaEU2eVhBeXRXUFJRbkIzV0NYSHFYbjdqYmRGWkc3QVc1SXozbVl6dk1CMDkwUHFUenNHSjhhQVZ1MzZfbXVCS2xvbGxfMGpOMFF0YkF3c0RFTTgtY1lsbjVnVHFVLTY2OWJXU0xFclBXX29ONWszOGthVURvdVR0d3p4dDdudHNDbkJsWmxB0gHYAUFVX3lxTE13eEpuV3NpWVpLRVp1T0lDR1NELXlXQ0xpQTBVRVh2TVBYTFRhbFE3T29TWm5QUDBYTVFqaHpaWGlNUWJtU2RoZGRENF9oX2t1WFBLNWl3NjZtdDgxSnZrWGdWRWxjZ19fZ2RseEE3bHMxMXRjQWlrNk9aZnZVZnB0LXJiVVM0c3ZNcnNxR1JUeXNGU09zS0VULTNSUlA0TmQyejBac1F4cTZkRnlubFlmcllseWlLX3ozbU11SXU1YUJtV2tCQlNVZHhrTS1vaFdYdi1rSFhMSw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress MP slams INLD, JJP amid cross-voting row - The Tribune",
+        "source": "The Tribune",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHUyei10ZzBCVnF1djZ5aEFQalB2TjgwRlhwSUxLd1h1VWxFeVZKR1Nrd1pzY1dOSVM4MlJmRmZSQ2prTGlqMzEwWWMzbWxzN3YwdzFPRm1HeFNkVmdtNE52eDJHN2lDN3hCUm1FMG5wR29CZ2pBQkd0NVpCd2pWb0F1bERvUWpUSXZtQnRMaHk0XzRXVkHSAZoBQVVfeXFMTmtfeVk1UE9pTkdJaGw4RDBGQzdWbFNGaU9vVEgwZHJLNW80dms0dllMcGVRYVZuWnY1bXhaeXlaY0szLW5faG1iTHBwUXJ2aDdKQkxQTjQwRXRXcV9qMmRDc2FkaFlMWjE5dVdvNVJjMHZkZEQtQTR4SlhZLU4wUkZuQ1hzVWR2VTdJb0YxS05FUVJUX3RBYXNtdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "In Hisar win, JP beats 3 Chautalas - timesofindia.indiatimes.com",
+        "source": "timesofindia.indiatimes.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1V2cDlFLTFFd3BORUJ0TXdEaU96b2oxSDRPWElFRnpFMVROam5DYkJQMUdIVklKRWRoMHZyVkxTWHY0V1VxNm0xLU4xRUVYNTA2ZGRIVkJ2WlZHLUNOUmMzRFdIRDlBVW9rNkVaZ0hYMTlsQjdaWlFXeTBFaEZJbzh3aWllcmJ0NE83OUZnMlQ2aW01OXE0QTRZbjlDdjRvY0F2NlRvNzVHY0F0dDA2a080WkMyTE4wdnAtRnZhbnJuNVFyREE4RzZkRmc4ZnA3SURPZElyUE1Ya2Zacy1aQ0RGd1duM01kVno2SDdza3HSAfYBQVVfeXFMUEdTNGk4V1V2aVNDMDl5X3BqMUFfMlBpSmEzcmhCOXJCYloxV0lGYndkbTVTWnlWejFuZ3c2QTIwX2xfd0U3eHdOUEVvb2tUUjF1NVl4YXVEVnh3RUJjQnoweHdHNUNxYlZHWVFaOUtXSFBjMmpLbTVPeDhkdzZXdW5KTmZ0NWd4Vnh0M01VWnRiMEI3Z0x2NTM3a1YxSFZrTGJhZkJsTEhjRTdsbTFMc3pJd25ZaklqcXJoMlNHWEVhRnROTkkwSnB3WTVLdnFiVFVRNW9Pa3NKTWNHNGxUb1d1b1JGM3B1dmktZE9vcTJXdnZOdXVn?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "BJP’s Ranjit Singh, son of Devi Lal, loses to Jai Parkash of Congress by 60,000 votes in Hisar - ThePrint",
+        "source": "ThePrint",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWo2eTJDa2Q0LV9RMExjbm93NzVFRmZpMU10enJzVDVja1FJVGxWOFdfSGNZNndfZzZvMFZhR25QWVQyVVppTFdjQ1dNaGpsVi1DeUJaajlVM1hfTDJqZEZlcEVRaG9pX1pnOUI2bmVyZDRFLXB4LVhVQUZpWlZwUWFpQm9KTHFIRllhOV85QWxVWGl0RHBaT1Z5VEpQd2IwcmRWM3A1R3Z4NldsMEpNMGJ1bXdZUmZPZjdIX1pGeG0xNW95MzE40gHMAUFVX3lxTE1BUnN6ZTJVb1NGSGdWYmFhVVd6MFF5cnl3YTZLQkdOZXY5bGRSSlN2aGJra3VSVWVleGxuZWZ0dloxcHNpVmM2SE1xeXdtc01IM2lGLUxfaU5EZVdTU01oRS1SQm5XMkdpMmJIMktDYnB3a2dYZjV4ODdSZFE4UWRDazdRMjJOcWsxbEVRbjRGakZrNHNIWEY3QXlTWlBVOGFvb1RlOG8wVjM1cmt6dlJHS0RHZXVPZ1hRaUQyNG4waUh3RlYyQWJxTS1nUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Hisar lok sabha election results 2024: Hisar Winning Candidates List and Vote Share - India Today",
+        "source": "India Today",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXzJFTnltN1lwcHR0Y1pBUWh5dW5rLUFzeHJucGctaVAwbmdqVG9iZXBxaFNrQUpyRGc3V3YxUkpmQ19nVndqbXhwMTdoZzNzLWF6bW1JNjluWUF4aW1VY3FyYk1pVHFpejA2S0lNMzVMdC1IRWRTajA5QkxtTDhqOW9lTlBIYVhFQ1VxbQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads",
-      "myneta"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:24:54.283124Z",
+    "collected_at": "2026-09-02T14:35:00.868054Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A",
-      "assets": "B",
-      "criminal": "B"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -156,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.302402Z",
+          "fetched_at": "2026-09-02T18:38:05.931301Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -172,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.302411Z",
+          "fetched_at": "2026-09-02T18:38:05.931312Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -188,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.302416Z",
+          "fetched_at": "2026-09-02T18:38:05.931319Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -204,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.302420Z",
+          "fetched_at": "2026-09-02T18:38:05.931324Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -220,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.302426Z",
+          "fetched_at": "2026-09-02T18:38:05.931331Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -236,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.302431Z",
+          "fetched_at": "2026-09-02T18:38:05.931335Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -252,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:48.302435Z",
+          "fetched_at": "2026-09-02T18:38:05.931341Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -290,27 +335,27 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Rohtak: Congress Hisar MP hits out at Brijendra’s Sadbhav Yatra - MSN",
-          "source": "MSN",
+          "headline": "Rohtak: Congress Hisar MP hits out at Brijendra’s Sadbhav Yatra | Hindustan Times - Hindustan Times",
+          "source": "Hindustan Times",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNcTVvYVVmTTVpX1NJY0t1V28wZG16QU5TMXVncEUzUjZESmN4SjA1QURra24yYkM4UHFIdWZOc1I1REJvV3h2VkV6ZFpmMWl3bWNvd2p3ZkJiTGFnWmtvVTNtdkpJOHV3emVXd3oxd01oejFFSk1Jc0c0WmpiQlc0T1lmeTlGN0tNeHdkc1luYzZNWG5FcXJ2Nm5PVjdDRkh2UWRNMk1OSmlPYUkxWUZDbHU5Zl92ZmJ1dXM1Z2ZrQVhDQ1R1LUFtTHRrWXhmWXltUDJneWp4c3BySFotT3laY0JMUlI2ZENoUGc3dzRCbi1yM044WlJfZ1VQTjBRc2drNDQ1UG1mbHFZXzVhb1QtRHhZV3N6SlpmRDE4UGprQ3Y4QWVEWjVIdHdNX0Y2V1B6YVdOUkoyWU1hYVpFRHdkN1Aza1pOMnM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUlpWFA0TW1RcVJpMFkzNmJzUDdvd2l2Ync3Nnh5MS1pSWNIRFRvUHFzWWRuUTY1Yy0tcnljR2NSSXVWUHRzdHk2LUpPaEU2eVhBeXRXUFJRbkIzV0NYSHFYbjdqYmRGWkc3QVc1SXozbVl6dk1CMDkwUHFUenNHSjhhQVZ1MzZfbXVCS2xvbGxfMGpOMFF0YkF3c0RFTTgtY1lsbjVnVHFVLTY2OWJXU0xFclBXX29ONWszOGthVURvdVR0d3p4dDdudHNDbkJsWmxB0gHYAUFVX3lxTE13eEpuV3NpWVpLRVp1T0lDR1NELXlXQ0xpQTBVRVh2TVBYTFRhbFE3T29TWm5QUDBYTVFqaHpaWGlNUWJtU2RoZGRENF9oX2t1WFBLNWl3NjZtdDgxSnZrWGdWRWxjZ19fZ2RseEE3bHMxMXRjQWlrNk9aZnZVZnB0LXJiVVM0c3ZNcnNxR1JUeXNGU09zS0VULTNSUlA0TmQyejBac1F4cTZkRnlubFlmcllseWlLX3ozbU11SXU1YUJtV2tCQlNVZHhrTS1vaFdYdi1rSFhMSw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "In Hisar win, JP beats 3 Chautalas - The Times of India",
-          "source": "The Times of India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1V2cDlFLTFFd3BORUJ0TXdEaU96b2oxSDRPWElFRnpFMVROam5DYkJQMUdIVklKRWRoMHZyVkxTWHY0V1VxNm0xLU4xRUVYNTA2ZGRIVkJ2WlZHLUNOUmMzRFdIRDlBVW9rNkVaZ0hYMTlsQjdaWlFXeTBFaEZJbzh3aWllcmJ0NE83OUZnMlQ2aW01OXE0QTRZbjlDdjRvY0F2NlRvNzVHY0F0dDA2a080WkMyTE4wdnAtRnZhbnJuNVFyREE4RzZkRmc4ZnA3SURPZElyUE1Ya2Zacy1aQ0RGd1duM01kVno2SDdza3HSAfYBQVVfeXFMUEdTNGk4V1V2aVNDMDl5X3BqMUFfMlBpSmEzcmhCOXJCYloxV0lGYndkbTVTWnlWejFuZ3c2QTIwX2xfd0U3eHdOUEVvb2tUUjF1NVl4YXVEVnh3RUJjQnoweHdHNUNxYlZHWVFaOUtXSFBjMmpLbTVPeDhkdzZXdW5KTmZ0NWd4Vnh0M01VWnRiMEI3Z0x2NTM3a1YxSFZrTGJhZkJsTEhjRTdsbTFMc3pJd25ZaklqcXJoMlNHWEVhRnROTkkwSnB3WTVLdnFiVFVRNW9Pa3NKTWNHNGxUb1d1b1JGM3B1dmktZE9vcTJXdnZOdXVn?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Congress’s Hisar MP Jai Parkash gets women panel's notice - The Tribune",
+          "headline": "Congress MP slams INLD, JJP amid cross-voting row - The Tribune",
           "source": "The Tribune",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFBCTlAxWjh1a2xIQzVleEI2QnN6Q2VjMlN0T0JrSW9aSlVTZ1RPb2cySnAzaDFYQmFqc05PcHFoMXhIVUYwTmZOb01GblRYUHZjU0RtQzgxZ2hodHMtSlVfb2NzMzVkTUdLWmxZX2Zhc1poejlBOVhxQlcyS19Wc0RIM0xUZFZWOE1NVGhFa1Fid3c0SGoxVXhPZGVvOTg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHUyei10ZzBCVnF1djZ5aEFQalB2TjgwRlhwSUxLd1h1VWxFeVZKR1Nrd1pzY1dOSVM4MlJmRmZSQ2prTGlqMzEwWWMzbWxzN3YwdzFPRm1HeFNkVmdtNE52eDJHN2lDN3hCUm1FMG5wR29CZ2pBQkd0NVpCd2pWb0F1bERvUWpUSXZtQnRMaHk0XzRXVkHSAZoBQVVfeXFMTmtfeVk1UE9pTkdJaGw4RDBGQzdWbFNGaU9vVEgwZHJLNW80dms0dllMcGVRYVZuWnY1bXhaeXlaY0szLW5faG1iTHBwUXJ2aDdKQkxQTjQwRXRXcV9qMmRDc2FkaFlMWjE5dVdvNVJjMHZkZEQtQTR4SlhZLU4wUkZuQ1hzVWR2VTdJb0YxS05FUVJUX3RBYXNtdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "In Hisar win, JP beats 3 Chautalas - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1V2cDlFLTFFd3BORUJ0TXdEaU96b2oxSDRPWElFRnpFMVROam5DYkJQMUdIVklKRWRoMHZyVkxTWHY0V1VxNm0xLU4xRUVYNTA2ZGRIVkJ2WlZHLUNOUmMzRFdIRDlBVW9rNkVaZ0hYMTlsQjdaWlFXeTBFaEZJbzh3aWllcmJ0NE83OUZnMlQ2aW01OXE0QTRZbjlDdjRvY0F2NlRvNzVHY0F0dDA2a080WkMyTE4wdnAtRnZhbnJuNVFyREE4RzZkRmc4ZnA3SURPZElyUE1Ya2Zacy1aQ0RGd1duM01kVno2SDdza3HSAfYBQVVfeXFMUEdTNGk4V1V2aVNDMDl5X3BqMUFfMlBpSmEzcmhCOXJCYloxV0lGYndkbTVTWnlWejFuZ3c2QTIwX2xfd0U3eHdOUEVvb2tUUjF1NVl4YXVEVnh3RUJjQnoweHdHNUNxYlZHWVFaOUtXSFBjMmpLbTVPeDhkdzZXdW5KTmZ0NWd4Vnh0M01VWnRiMEI3Z0x2NTM3a1YxSFZrTGJhZkJsTEhjRTdsbTFMc3pJd25ZaklqcXJoMlNHWEVhRnROTkkwSnB3WTVLdnFiVFVRNW9Pa3NKTWNHNGxUb1d1b1JGM3B1dmktZE9vcTJXdnZOdXVn?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -322,11 +367,11 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "MP report card: Curtailing debate in House undermines spirit of democracy: Jai Parkash | Hindustan Times - Hindustan Times",
-          "source": "Hindustan Times",
+          "headline": "Hisar lok sabha election results 2024: Hisar Winning Candidates List and Vote Share - India Today",
+          "source": "India Today",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3VabWpTVTVmZVZWOFJTeHNLclY2MDcyeWVUYUhldWFlWDNGdndMTDdXVlowSjdUR00wU01iTXZPd2VoOXZnX3RzNUxndE5za3JsdDNGbTZsNVAxTlZaX3RkbjM4TUN4bmZfbFJaSnQwbnExN25PZVJqYVlQS3N5NG9sdC1lM0pYVlpRWWtpbGpaRHF3VC02NFBtWWxrN0Z4RkFJbURZQ3pSUXRaLTFQNzJMb2FETlpGZkZxZGpvZkY0YnRHV2lyVkpBOG4wSlpZQXE2Tk1sV0N4R0E0RXI2VXMyMGxSN1ZSTE5LUXQ4Tm_SAfYBQVVfeXFMTWpGUnFwQUc0T1FOUkJWS2R6Qm95ZENycXRTU1pMb3BzMmJEVGZQazU5VjNCX0hibk5EZjNHLXVSU0U1T3BYRFB1T0MyYzRBQWlST2pnSDZ6eVRwSGVDVkNWa1VjWGVMRU56em5tNkxxRDhNRm9CbnhnZ3BWa3cwYnJKaFlnMnlweUE0X2ZaNlo3TFgtU01IM1kxc2MwQ2IxUUFrY3JuQVptZi1zR0haa1dfQklSZFY4alJJR0ZyYWZDcWtjbVNMZ2VaSnAtcVA4LWMwdXRRQlktR0ZKSm1VQ0NfZW9tOFlkd0ZyX1p1TGlzVV9IWU9n?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXzJFTnltN1lwcHR0Y1pBUWh5dW5rLUFzeHJucGctaVAwbmdqVG9iZXBxaFNrQUpyRGc3V3YxUkpmQ19nVndqbXhwMTdoZzNzLWF6bW1JNjluWUF4aW1VY3FyYk1pVHFpejA2S0lNMzVMdC1IRWRTajA5QkxtTDhqOW9lTlBIYVhFQ1VxbQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -376,17 +421,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -407,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.49,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -422,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Haryana: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 68,053,567. MPLADS utilization: 33.8%. Parliament attendance: 100.0%.",
-  "validated_at": "2026-09-02T01:36:48.303122Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:05.932003Z"
 }

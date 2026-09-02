@@ -35,59 +35,73 @@
       "photo_url": "/mp-photos/5755.jpg"
     },
     "criminal_record": {
-      "total_cases": 3,
+      "total_cases": 0,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 3,
+      "pending_cases": 0,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 287211468.0,
-      "liabilities": 7348373.0,
-      "net_worth": 279863095.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 76.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 7.2,
-      "expended": 5.77,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:48:57.901556Z",
-          "notes": "Official eSAKSHI REST API — Works: 471 recommended, 453 sanctioned, 153 completed"
+          "fetched_at": "2026-09-02T14:41:56.144761Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T14:38:14.512607Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T14:38:14.509722Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 471,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 39.25170068027211
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 100.0,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:25:49.609082Z",
+          "fetched_at": "2026-09-02T14:38:14.508665Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Lite byte | A tale of two responses - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTRsY29hNi1IeG55X0IyRzBnQlVtSVg5Y1JQeTEzRTFVVHh6MVkzRVFPVVduYnQ5d1dVc1U0VDBvRk9hRjh3dnpqWnVTajlMRmJJd0RGaHg2OEJubmlnV0x1VDh2YTVoYlJvbThiVVZWLUVWMGxmZWtQbVFBYnNNTjVYSjRmVGl0TE8waGgyQVh6ZE13Z0pZQW1LY9IBqAFBVV95cUxOc05TYTdNeVdUcmQxaGltMVRSQVFiWlZOeHNSZTNDVF90SmNmZy1MbzlzM2RIWEVKaG96MlhIYkl3eF9Ud1lQdFRhTkEtZzFkV1RfVUJ1em5WRWo2eTBKVlVTQ3FaaEJuYm45MzFmQ3B1Y0JGYWYzdjRYLV9PVURBTGRtbnQ1X0JjX3JnTlNrNFpsUHBrNXdLTnl2enRTV0pRRTZfTXpBX2g?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "It’s anti-Telangana game-plan: TPCC's Chamala - The New Indian Express",
+        "source": "The New Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUYxZnhiWjRiejVFUTR0ZkNuaUdmQnBXOS0xemJzZmZwUWI4a3g3MEtMbFhiLXB4WGkzQVRBWG5WS0NDWUZma3o4eDdENTVwZGxlYmkxVVVKZVdmcG83d29wV3hzLTVPaHVnMmNBZUN2V2JyV3AwOVB4SUFRSkdzZnZoNVJfbENJWE5SOHpRWV9sREpDSXVhNlkzOXFYY21aNUY0TjJqWdIBtAFBVV95cUxPRFF0YUNRRGVfX2xkcU5Iamw0WEVIM3ZPaEkyVWtXbmhZLWlzYW1fLWlfTnhhZHV1SnRVSFN3LXFSbGZCclJMb0hKR2RBbmx1UTlkM0NtbVVlOTJnMncySkFjVHNMVGlfT0ZUZHkzaW13c0k4MzlfNVEyUFZCZFZKUUE1SHRid19Scmt2aGxoUWNPd0pIeVZlOG52LW9yZDBYYnRRbDVrSzdNeUdJMHhMZHJoRzk?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "MP Chamala bats for HYDRAA Commissioner Ranganath - The Hindu",
+        "source": "The Hindu",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkNVaVBrNzk1cy1OakpvdFc4Rkg1c0F2VlFKM0lJV0Q5b2hCaTRXQW1FOUJxeUpOR2E1ZnAwekt6S1JKeWRpVFdVUXFfY0Z1YkE1bEYzNG12cWMzd1RCY0s4NFRMZ1dHQ1QzZ3RKOFZzWjFIaGhiWFFrdDFMUGpsTjJJVjNjT1hyVHl2RnI2RHdSaHBlZlN3Qzc0bmFVeGZ2VVFlMlZORXdTNmJGUl9SdnhkVThpeWvSAb4BQVVfeXFMUDR1aXVvcUxYUkttN3VDY2s5enZ0MGJOYklqOVNfeTI0Y2laWTNXOUNaNkZ4UWwwSnJ3anpOVFM1SVQxNGVwTml3T2ZIUnRLaUhvVE92aDVNQ3NiajlWS19RblUtWTNoM01PYVJieGRrdlg3THpjSVVIVG1BWVlzc2VGcmsxa041TkRDVXVsYU1zcTBTVVQyeF9MSS1QUmx5RTZmR25aaTRwdEo3YXp0R1F3dElib2N6YjNFQ2ltUQ?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Congress MP to file case against Telugu Scribe over Revanth smear - The Siasat Daily",
+        "source": "The Siasat Daily",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzA2Ulgwc1NHT0FLUndIakNtLS1xLTFUYkZwMk5fRWcteTN1WHMzbGhhdVZzeW9QdzY0UENVNXZKVXBxemZLQ2NGU281TjJFN3ZMM3l2VkQxSTNwOGZNM0laX3BuM0RNZXJ4T0d6aFl6cm9YU0Z6c1B2cTRHRWE3VjdvbjBvLVFLUkdIR1RNdUp2eVlNTlJkb1RjZUwzdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Bhongir MP Defends HYDRAA, Appeals to High Court To Consider Larger Public Interest - Deccan Chronicle",
+        "source": "Deccan Chronicle",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSkhTdWdBSEdRS2FKMk1yQ3dBRzdBZWEyMlRaUWQzZWFIU1ltSDczdUhNNjhhSHpLeXdBUTQ1WVUtcGpGYWJFZVBzd0hMQ096ZENjc05TUHdYRUQwNkpweERCaDd6N3RFNHZ4SnI4bkEzUDFQZWdfbmYxMTZIbFJ2bGluMkk2TGthQlpzd0Jma1poTTZ5TXhZSGllZkZxZGlUZWh4aThHNTV2Q3VraDlKTTNGLTVNcVdoSEtZSnk2aTc2Y1p3QjNhdlBDVDM5LXNWVmxHREtrNUNGWHgtbERpRjd30gHnAUFVX3lxTE56X3o5cmRXa3JPNkY5VkUwaXVCODdYVGNXNDU0RWhrT21aZC1yS19sM1MtUlBLbVZyYXhsUTlwN1llQklfZlVRTU0zSTRCZDJBMEUybGRpbXl4N3R1enFkeXpMYnJPMjhQem5ELWRyemhJYWwxZTVWRHN2Y2pTVE1KYWN5UUg4X2FhcGZLTDBSM3M1cHJ6ZUJXMkYtRDYyN2dzaGYyTFBQUWFYczNGUmZxYXVaOG9JdTJEdFFmYkJqQkdMVlZjQjQwTzF1aHpkOW9nQ28tdVNRQWM2ekdqTkdqbFlPcDlabw?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:26:48.025373Z",
+    "collected_at": "2026-09-02T14:41:56.145776Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.894199Z",
+          "fetched_at": "2026-09-02T18:38:10.421061Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.894208Z",
+          "fetched_at": "2026-09-02T18:38:10.421072Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.894213Z",
+          "fetched_at": "2026-09-02T18:38:10.421078Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.894217Z",
+          "fetched_at": "2026-09-02T18:38:10.421083Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.894222Z",
+          "fetched_at": "2026-09-02T18:38:10.421089Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.894227Z",
+          "fetched_at": "2026-09-02T18:38:10.421093Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:52.894231Z",
+          "fetched_at": "2026-09-02T18:38:10.421098Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -258,11 +314,44 @@
       "sources": []
     },
     "social_media": {
-      "profiles": [],
-      "total_platforms": 0,
+      "profiles": [
+        {
+          "platform": "twitter",
+          "handle": "https://x.com/kiran_chamala",
+          "url": "https://x.com/https://x.com/kiran_chamala",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "facebook",
+          "handle": "https://www.facebook.com/chamalakiran/",
+          "url": "https://facebook.com/https://www.facebook.com/chamalakiran/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        },
+        {
+          "platform": "instagram",
+          "handle": "https://www.instagram.com/chamalakirankumarreddy/",
+          "url": "https://instagram.com/https://www.instagram.com/chamalakirankumarreddy/",
+          "followers": null,
+          "verified": false,
+          "active": true
+        }
+      ],
+      "total_platforms": 3,
       "total_followers": 0,
-      "confidence": 0.2,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "",
+          "source_name": "social_media_lookup",
+          "grade": "D",
+          "fetched_at": "2026-09-02T14:38:17.205338Z",
+          "notes": "Social media handle lookup"
+        }
+      ]
     },
     "news_sentiment": {
       "total_articles": 10,
@@ -271,43 +360,43 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "MP Chamala felicitates meritorious SSC students - The Hindu",
-          "source": "The Hindu",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQllMckpFa3NPQlVOem1xT1NZZWdmRExYeUhRV05FRUZkNFpIRFN2anpJaGl2czE0a0hUNC1rNWpOSWFWVTBzdEJnSGRMdjAzWjljdnJjYjhWVHFyRGZ1TnF6WkZocFJ0djdEVmlGMXZjUmlWN2pXTlktTDlmQndjVWxvNHBaMnJGSUhwYWxGeURLWXlfenZITFZPZXhvYkF2M0owamVKZjJWWU0zNUJMVXZyOFRuU03SAb4BQVVfeXFMTnBkUHVNdjV2bDY3QmZvNUdnSkN5NkhaTHVvZFBKZnNqQjA4akNBckdzb1FJR2drdHFqSk8xTEFDOTZSS3VTbzNTaWhidnZULXhXSjdpMlVXSUJKT2dqU3ZUWTRfbFZRNnJDWXZ3MXpGbVU4YzFEZjlCZGxUamQ2OUFhdFVJNVhKQlpFZHlTM01NdlJ3TG43alNDajVEY2FuWEcwOF93aDZPbFBtb2hjMVl5bGdRQ3JBR194RTRfUQ?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Chamala rubbishes Jagadish’s claims on paddy procurement - The Hans India",
-          "source": "The Hans India",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1U3UktFZFBqSVRSNEpZU3AtMjBkdkVVbEp0dzNOMmpZT2k5UEhLeU9GaUhTSnNaSHRFcGJCaDZ6Uzg0WTFkTkdRSU1DY2JkMDRWQnBTc0V5NlVjVHVMakZSSVpSbDBCODgya3hYUWwzRFRLblkydGVtR0VqS0xDamFiZnJlQW1zMy1fNWpQekZCVTlZTkJhaUdaRDZLT3M2aXE4etIBqgFBVV95cUxOMGRMcU14WEljVldBTEpQSG5WM3QxQk5kS3BPcGRfd3g0eFZXNmdINVEzaTZQQS1tdkx0WDJmREFwQ2ZBdjg2aUlkdWhaZjBIQVE3bDg2UVBzOTJFNHdhSW5pM1dEblZoc25SSFJ5amd3NWpGMF9fWnZVTm5aQl9hVWpud2Vib3FOSVpKOTQxdlM2UURJNnpYTi1EUnlYNUZQVnZ1bS1sZkctdw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "`Fair share or political threat’: Bhongir MP Kiran Reddy criticizes PM for `turning Telangana visit into political rhetoric’ - NewsMeter",
-          "source": "NewsMeter",
-          "severity": "low",
-          "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObjZKWjAtb0xXcmZ0NGY4eGFCaG9YOUxYM3pkRVltUVA1T19Vbk5sVGNYcndxNERzYjF2QkVWcW5GNE92S25oS1BtX1N2RkRDa2loQUpmR3ZrYjB1VkRhcW5FWUYwSXRIZGNUMmVLQjBQTFR4Y2FTZ2xpQmVPRzVZQkFEeWV0NExDQ1IyUHQxczQ5QWpHS0ZBSFZsQm9YQjRfSjRKQjFuSmVWSW5vS2xRaWEwWFFnN2h4bG44ZHFXVVRYbTVuVXEwMHhtWDdYOU1uNmlHU1RSSWVoQmhOSEp3M2dfRzR0emZnWUE4Mw?oc=5",
-          "sentiment": "neutral"
-        },
-        {
-          "headline": "Chamala accuses BJP of politicising women’s quota - The New Indian Express",
+          "headline": "Lite byte | A tale of two responses - The New Indian Express",
           "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTkxVi1DQ2p2eFYxZ0IzZTU4TlhLR25oQnRqNG80T0dsdENYTnppdW8zUF9QdWRrRFN1dUJoVXpFN1I5N19RTWx5cThNX05lRlUwUWphcjF5OUFpZTVOU0NRRF9ZMEIxb2pndkg0S1NmTDQ0VzZJRm0zWlFZRTA1UjZpTVBGbXhEcWE0TUVxSjZTQjJ5OGVESmstdGNEdXZKSy1ucEZ6NXFTc0FXMG9Z0gG8AUFVX3lxTE1HWE9jck40aDY4Y0tPNUU4TjRsUXBfUTlNNWkxRlo2RXg2X1pUMGpnWWV5dV9pYjUyVWZaNUZSSVFrVVdhYWN6YXMxcS1TR1ZaeGNldHFUYkR2RVFMZDl4Y3hFS0ZZeFdJUjhWZXZxSXptRnhyV2NTbkFQVXZaQXpzc2tOTTM3UDFTVXVPWmtpZHBwa0VYVGRPU191RjRqTzVHUFRFTWVZVU1vNlFzTVhHMmdpVEZYWlZYQldr?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTRsY29hNi1IeG55X0IyRzBnQlVtSVg5Y1JQeTEzRTFVVHh6MVkzRVFPVVduYnQ5d1dVc1U0VDBvRk9hRjh3dnpqWnVTajlMRmJJd0RGaHg2OEJubmlnV0x1VDh2YTVoYlJvbThiVVZWLUVWMGxmZWtQbVFBYnNNTjVYSjRmVGl0TE8waGgyQVh6ZE13Z0pZQW1LY9IBqAFBVV95cUxOc05TYTdNeVdUcmQxaGltMVRSQVFiWlZOeHNSZTNDVF90SmNmZy1MbzlzM2RIWEVKaG96MlhIYkl3eF9Ud1lQdFRhTkEtZzFkV1RfVUJ1em5WRWo2eTBKVlVTQ3FaaEJuYm45MzFmQ3B1Y0JGYWYzdjRYLV9PVURBTGRtbnQ1X0JjX3JnTlNrNFpsUHBrNXdLTnl2enRTV0pRRTZfTXpBX2g?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Chamala Kiran Reddy lays foundation stone for temple - Dailyhunt",
-          "source": "Dailyhunt",
+          "headline": "It’s anti-Telangana game-plan: TPCC's Chamala - The New Indian Express",
+          "source": "The New Indian Express",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQmdUaHVqclQzVTdFdjBobE1MVkd6eU5zaXFMclV6Nm1EV1pFV3F6UnNicEg4VkpkbzgyZUFqV0xlRWtEWmc3ZmNrX0wzZm5xZXNGNnlSbHB1Nmxwc2tMMEFpb1pQQkZXcV9IS1l2U1FWclZOTWRFaDNVcWxrdUF0MUUwempOYWdIT3k4dmIwaHFqcTRSeVFtNmFyWVpRNHJZbUF0Mm5rQkhzU3ctdEppYldLOEVUZ3pfTWs1VHlmQk1RcFlQWmlTUkc2YmlFYXZ6ckdJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUYxZnhiWjRiejVFUTR0ZkNuaUdmQnBXOS0xemJzZmZwUWI4a3g3MEtMbFhiLXB4WGkzQVRBWG5WS0NDWUZma3o4eDdENTVwZGxlYmkxVVVKZVdmcG83d29wV3hzLTVPaHVnMmNBZUN2V2JyV3AwOVB4SUFRSkdzZnZoNVJfbENJWE5SOHpRWV9sREpDSXVhNlkzOXFYY21aNUY0TjJqWdIBtAFBVV95cUxPRFF0YUNRRGVfX2xkcU5Iamw0WEVIM3ZPaEkyVWtXbmhZLWlzYW1fLWlfTnhhZHV1SnRVSFN3LXFSbGZCclJMb0hKR2RBbmx1UTlkM0NtbVVlOTJnMncySkFjVHNMVGlfT0ZUZHkzaW13c0k4MzlfNVEyUFZCZFZKUUE1SHRid19Scmt2aGxoUWNPd0pIeVZlOG52LW9yZDBYYnRRbDVrSzdNeUdJMHhMZHJoRzk?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "MP Chamala bats for HYDRAA Commissioner Ranganath - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkNVaVBrNzk1cy1OakpvdFc4Rkg1c0F2VlFKM0lJV0Q5b2hCaTRXQW1FOUJxeUpOR2E1ZnAwekt6S1JKeWRpVFdVUXFfY0Z1YkE1bEYzNG12cWMzd1RCY0s4NFRMZ1dHQ1QzZ3RKOFZzWjFIaGhiWFFrdDFMUGpsTjJJVjNjT1hyVHl2RnI2RHdSaHBlZlN3Qzc0bmFVeGZ2VVFlMlZORXdTNmJGUl9SdnhkVThpeWvSAb4BQVVfeXFMUDR1aXVvcUxYUkttN3VDY2s5enZ0MGJOYklqOVNfeTI0Y2laWTNXOUNaNkZ4UWwwSnJ3anpOVFM1SVQxNGVwTml3T2ZIUnRLaUhvVE92aDVNQ3NiajlWS19RblUtWTNoM01PYVJieGRrdlg3THpjSVVIVG1BWVlzc2VGcmsxa041TkRDVXVsYU1zcTBTVVQyeF9MSS1QUmx5RTZmR25aaTRwdEo3YXp0R1F3dElib2N6YjNFQ2ltUQ?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Congress MP to file case against Telugu Scribe over Revanth smear - The Siasat Daily",
+          "source": "The Siasat Daily",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzA2Ulgwc1NHT0FLUndIakNtLS1xLTFUYkZwMk5fRWcteTN1WHMzbGhhdVZzeW9QdzY0UENVNXZKVXBxemZLQ2NGU281TjJFN3ZMM3l2VkQxSTNwOGZNM0laX3BuM0RNZXJ4T0d6aFl6cm9YU0Z6c1B2cTRHRWE3VjdvbjBvLVFLUkdIR1RNdUp2eVlNTlJkb1RjZUwzdw?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Bhongir MP Defends HYDRAA, Appeals to High Court To Consider Larger Public Interest - Deccan Chronicle",
+          "source": "Deccan Chronicle",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSkhTdWdBSEdRS2FKMk1yQ3dBRzdBZWEyMlRaUWQzZWFIU1ltSDczdUhNNjhhSHpLeXdBUTQ1WVUtcGpGYWJFZVBzd0hMQ096ZENjc05TUHdYRUQwNkpweERCaDd6N3RFNHZ4SnI4bkEzUDFQZWdfbmYxMTZIbFJ2bGluMkk2TGthQlpzd0Jma1poTTZ5TXhZSGllZkZxZGlUZWh4aThHNTV2Q3VraDlKTTNGLTVNcVdoSEtZSnk2aTc2Y1p3QjNhdlBDVDM5LXNWVmxHREtrNUNGWHgtbERpRjd30gHnAUFVX3lxTE56X3o5cmRXa3JPNkY5VkUwaXVCODdYVGNXNDU0RWhrT21aZC1yS19sM1MtUlBLbVZyYXhsUTlwN1llQklfZlVRTU0zSTRCZDJBMEUybGRpbXl4N3R1enFkeXpMYnJPMjhQem5ELWRyemhJYWwxZTVWRHN2Y2pTVE1KYWN5UUg4X2FhcGZLTDBSM3M1cHJ6ZUJXMkYtRDYyN2dzaGYyTFBQUWFYczNGUmZxYXVaOG9JdTJEdFFmYkJqQkdMVlZjQjQwTzF1aHpkOW9nQ28tdVNRQWM2ekdqTkdqbFlPcDlabw?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -341,15 +430,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 36,
+      "starred_questions": 10,
+      "unstarred_questions": 26,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 69.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -357,17 +446,17 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 100.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
       "attended_key_debates": true,
       "zero_hour_presence": null,
-      "pattern_label": "",
-      "confidence": 0.0
+      "pattern_label": "Consistent",
+      "confidence": 0.7
     },
     "mgnrega": {
       "employment_days_generated": null,
@@ -388,8 +477,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.21,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -403,12 +510,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Telangana: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 287,211,468. MPLADS utilization: 39.3%. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6.",
-  "validated_at": "2026-09-02T01:36:52.894931Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:10.421821Z"
 }

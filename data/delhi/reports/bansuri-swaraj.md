@@ -7,15 +7,15 @@
 **Education:** Post Graduate
 **Profession:** Advocate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (56%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Third-party (C)
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 64.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 10.0 | 25% |
+| MPLADS Fund Utilization | 40.0 | 25% |
 | Asset Growth | 50.0 | 15% |
 | Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
@@ -42,21 +42,21 @@
 - **Movable Assets:** Rs 11.27 Crore
 - **Immovable Assets:** Rs 8.02 Crore
 - **Total Assets:** Rs 19.29 Crore
-- **Liabilities:** Rs 0
-- **Net Worth:** Rs 19.29 Crore
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 71% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 67% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 5
-- **Expended:** Rs 2
-- **Utilization Rate:** 12.4%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -90,11 +90,11 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Delhi court orders removal of defamatory videos against BJP MP Bansuri Swaraj - The News Mill (The News Mill) [neutral]
-- ‘Reputation can’t be sacrificed’: Delhi court orders AAP to remove ‘defamatory’ video of BJP MP Bansuri Swaraj - The Indian Express (The Indian Express) [neutral]
-- Delhi court orders AAP, including Saurabh Bhardwaj to remove defamatory post against BJP MP Bansuri Swara - The Times of India (The Times of India) [neutral]
-- ‘Reputation Can’t Be Sacrificed’: Delhi Court Orders Saurabh Bharadwaj To Take Down ‘Defamatory’ Video On ... - LawBeat (LawBeat) [neutral]
-- "BJP-NDA mandate a tsunami of faith in PM Modi's guarantees", says BJP MP Bansuri Swaraj - ANI News (ANI News) [neutral]
+- "Rahul Gandhi, I am calling you out on your misogyny": BJP's Bansuri Swaraj hits out at Gandhi over 'smash the patriarchy' remarks - aninews.in (aninews.in) [neutral]
+- UNITED NEWS OF INDIA - uniindia.com (uniindia.com) [neutral]
+- ‘Modiji clocked it’: Bansuri Swaraj leads NDA charge in debate on anti-paper leak Bill in Lok Sabha - ThePrint (ThePrint) [neutral]
+- 'Born only to file cases against Rahul': Pappu Yadav's swipe at Bansuri Swaraj - The Times of India (The Times of India) [neutral]
+- BJP attacks Congress Over Rahul Gandhi’s ‘Break Patriarchy’ Remark, Calls Statement Political Posturing - Hindusthan Samachar English (Hindusthan Samachar English) [neutral]
 
 ---
 
@@ -107,8 +107,19 @@
 
 ---
 
+## News & Allegations
+
+- ! **"Rahul Gandhi, I am calling you out on your misogyny": BJP's Bansuri Swaraj hits out at Gandhi over 'smash the patriarchy' remarks - aninews.in** (aninews.in)
+- ! **UNITED NEWS OF INDIA - uniindia.com** (uniindia.com)
+- ! **‘Modiji clocked it’: Bansuri Swaraj leads NDA charge in debate on anti-paper leak Bill in Lok Sabha - ThePrint** (ThePrint)
+- ! **'Born only to file cases against Rahul': Pappu Yadav's swipe at Bansuri Swaraj - The Times of India** (The Times of India)
+- ! **BJP attacks Congress Over Rahul Gandhi’s ‘Break Patriarchy’ Remark, Calls Statement Political Posturing - Hindusthan Samachar English** (Hindusthan Samachar English)
+
+---
+
 ## Data Validation Flags
 
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **mplads**: CAG audit context for Delhi: 8 relevant findings
@@ -117,11 +128,11 @@
 
 ## Qualitative Assessment
 
-Bansuri Swaraj shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bansuri Swaraj shows moderate transparency with a score of 64.5/100. No criminal cases declared. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 192,946,528. MPLADS utilization: 12.4%. Parliament attendance: 100.0%. Questions asked: 4. Debates participated: 3.
+No criminal cases declared. Declared assets: Rs 192,946,528. Parliament attendance: 100.0%. Questions asked: 4. Debates participated: 3. Low confidence data: MPLADS. 1 warning(s) noted.
 
 ---
 
@@ -161,7 +172,7 @@ No criminal cases declared. Declared assets: Rs 192,946,528. MPLADS utilization:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -240,8 +251,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Bansuri Swaraj's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 12.4%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -260,11 +269,12 @@ Time limit: PIO must respond within 30 days of receipt.
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
 | Assets | myneta | Official (B) |
+| Committees | sansad | LLM/Estimated (E) |
 | Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: myneta, prs, social_media, news, mplads*
+*Sources consulted: myneta, prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

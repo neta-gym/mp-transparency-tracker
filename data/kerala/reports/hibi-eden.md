@@ -3,19 +3,17 @@
 **Constituency:** Ernakulam, Kerala
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Age:** 40
-**Education:** Graduate
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
+**Data Confidence:** Low (26%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 42.7 / 100
+## Composite Transparency Score: 46.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 12.5 | 25% |
-| Asset Growth | 55.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
 | Criminal Record | 0.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
@@ -29,33 +27,45 @@
 
 - **Total Cases:** 10
 - **Serious Cases:** 0
-- **Convictions:** 0
-- **Pending Cases:** 10
+- **Convictions:** 2
+- **Pending Cases:** 8
 - **Disposed Cases:** 0
 - **Data Source:** myneta
+
+### Cases Detail
+
+1. Crime No 4/2024, Dated 02-01-2024 of Palarivattom Police Station | Section 117(E) of Kerala Police ActCognizance not taken by the concerned Court, No Final Report has been filed (Sections: 143, 147, 283) [pending] 
+2. Crime No 492/2021, Dated 21-06-2021 of Harbour Police Station | Sections 4(2)(E), 5 of Kerala Epidemic Diseases Ordinance 2020 (Sections: 269) [pending] 
+3. Crime No 425/2021, Dated 07-06-2021 of Harbour Police Station | Sections 4(2)(E), 5 of Kerala Epidemic Diseases Ordinance 2020 (Sections: 269) [pending] 
+4. Crime No 759/2020, Dated  13-10-2020 of Fort  Kochi Police Station | Section 4(2) ( E), 4(2) (J) of Kerala Epidemic Diseases Ordinance 2020 and Section 118(E) of KP Act, Cognizance not taken by the concerned Court, No Final Report has been filed (Sections: 143, 144, 147, 149) [pending] 
+5. Crime No 484/2020, Dated 22-06-2020 of Kannamaly South Police Station | Section 5 Kerala Epidemic Diseases Ordinance 2020 (Sections: 142, 149) [pending] 
+6. Crime No 346/2019, Dated 20-04-2019 of Cheranel Loor Police Station | Sections 4(1), 6 of Kerala Public Ways (Restrictions Assemblies and Procession) Act, 2011 (Sections: 145, 147, 283, 149) [pending] 
+7. Crime No 295/2017, Dated 09-02-2017 of ET North Police Station Ernakulum (Sections: 143, 147, 283) [pending] 
+8. Crime No 2811/2016, Dated 05-12-2016 of Central Police Station Ernakulam (Sections: 143, 147, 283, 149) [pending] 
+9. No description (Sections: 143, 147, 283, 149) [convicted] 
+10. No description (Sections: 143, 147, 283, 149) [convicted] 
 
 ---
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 3.40 Crore
-- **Liabilities:** Rs 44.54 Lakh
-- **Net Worth:** Rs 2.95 Crore
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 28% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 7
-- **Expended:** Rs 2
-- **Utilization Rate:** 15.6%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -82,31 +92,44 @@
 *Mixed/neutral coverage (10 articles)*
 
 - **Total Articles:** 10
-- **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
+- **Positive:** 0 | **Negative:** 1 | **Neutral:** 9
 
+- Kochi will get its third Ro-Ro soon, says mayor - The New Indian Express (The New Indian Express) [neutral]
 - VD Satheesan becomes first-ever leader from Ernakulam to be selected as Kerala CM - The New Indian Express (The New Indian Express) [neutral]
-- Hibi Eden MP slams PC George, Shone, accuses duo of executing BJP’s ‘communal quotation’ - Onmanorama (Onmanorama) [neutral]
-- P.C. George, Shone took contract from BJP to create Christian-Muslim rift: Hibi Eden - The Hindu (The Hindu) [neutral]
-- Cheer, celebrations erupt at Ernakulam DCC office as UDF crosses 100-seat mark - The New Indian Express (The New Indian Express) [neutral]
-- Joyalukkas Group Donates ₹50 Lakh Worth Medical Equipment to Ernakulam General Hospital - Passionate In Marketing (Passionate In Marketing) [neutral]
+- Union ministry puts Kerala's Edappally-Aroor elevated highway project on hold - The New Indian Express (The New Indian Express) [neutral]
+- Kerala govt. objects to Hibi Eden MP’s demand to move capital to Ernakulam - The Hindu (The Hindu) [neutral]
+- 'Rahul Gandhi leading us from Wayanad': Ernakulam MP Hibi Eden after being renominated for Lok Sabha polls - aninews.in (aninews.in) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Kochi will get its third Ro-Ro soon, says mayor - The New Indian Express** (The New Indian Express)
+- ! **VD Satheesan becomes first-ever leader from Ernakulam to be selected as Kerala CM - The New Indian Express** (The New Indian Express)
+- ! **Union ministry puts Kerala's Edappally-Aroor elevated highway project on hold - The New Indian Express** (The New Indian Express)
+- ! **Kerala govt. objects to Hibi Eden MP’s demand to move capital to Ernakulam - The Hindu** (The Hindu)
+- ! **'Rahul Gandhi leading us from Wayanad': Ernakulam MP Hibi Eden after being renominated for Lok Sabha polls - aninews.in** (aninews.in)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Kerala: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Hibi Eden has a below-average transparency score of 42.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Hibi Eden has a below-average transparency score of 46.8/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 10 criminal case(s) (0 serious), 10 pending, 0 conviction(s). Declared assets: Rs 34,000,696. MPLADS utilization: 15.6%. Parliament attendance: 95.0%. Questions asked: 48. Debates participated: 15.
+Has 10 criminal case(s) (0 serious), 8 pending, 2 conviction(s). Parliament attendance: 95.0%. Questions asked: 48. Debates participated: 15. Low confidence data: Assets, MPLADS. 2 warning(s) noted.
 
 ---
 
@@ -146,7 +169,7 @@ Has 10 criminal case(s) (0 serious), 10 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -225,8 +248,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Hibi Eden's MPLADS account: Released: Rs 15, Expended: Rs 2, Utilization: 15.6%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -244,12 +265,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Assets | myneta | Official (B) |
-| Criminal | myneta | Official (B) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, myneta, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*

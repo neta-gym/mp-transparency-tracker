@@ -4,16 +4,16 @@
     "constituency": "Ghatal",
     "state": "west bengal",
     "party": "All India Trinamool Congress",
-    "myneta_candidate_id": 7933,
+    "myneta_candidate_id": null,
     "slug": "adhikari-deepak-dev",
     "house": "lok_sabha",
     "sansad_member_id": 4847,
     "profile_url": null,
     "canonical_name": null,
     "name_aliases": [],
-    "education": "Others",
+    "education": null,
     "profession": null,
-    "age": 41,
+    "age": null,
     "photo_url": "/mp-photos/4847.jpg"
   },
   "findings": {
@@ -22,16 +22,16 @@
       "constituency": "Ghatal",
       "state": "west bengal",
       "party": "All India Trinamool Congress",
-      "myneta_candidate_id": 7933,
+      "myneta_candidate_id": null,
       "slug": "adhikari-deepak-dev",
       "house": "lok_sabha",
       "sansad_member_id": 4847,
       "profile_url": null,
       "canonical_name": null,
       "name_aliases": [],
-      "education": "Others",
+      "education": null,
       "profession": null,
-      "age": 41,
+      "age": null,
       "photo_url": "/mp-photos/4847.jpg"
     },
     "criminal_record": {
@@ -42,60 +42,74 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": []
+      "confidence": 0.7,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=?",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:37:27.612053Z",
+          "notes": "MyNeta candidate affidavit data"
+        }
+      ]
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 371347069.0,
-      "liabilities": 28603907.0,
-      "net_worth": 342743162.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
-      "sources": [
-        {
-          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7933",
-          "source_name": "myneta",
-          "grade": "B",
-          "fetched_at": "2026-08-22T20:01:55.543494Z",
-          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
-        }
-      ],
+      "confidence": 0.0,
+      "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 80.6,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 20.07,
-      "released": 20.07,
-      "sanctioned": 8.95,
-      "expended": 8.78,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:38.832479Z",
-          "notes": "Official eSAKSHI REST API — Works: 186 recommended, 178 sanctioned, 145 completed"
+          "fetched_at": "2026-09-02T15:07:07.521699Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T15:03:23.082209Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T15:03:23.080695Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 186,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 43.746885899352264
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": 0.0,
@@ -110,7 +124,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:28:33.328155Z",
+          "fetched_at": "2026-09-02T15:03:23.080053Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -118,22 +132,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "Dev Seeks Assurance On Ghatal Master Plan From West Bengal CM - Rediff",
+        "source": "Rediff",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndpVFZSN1ZBTXdTTElndDdxZ2FHRTRydU9aNlBhWmNkU2RQNG9GcGZ4RThUTWJkSmxmMjhRUFNoU1h5aklLTVNTTVBXcXB3WDdTZG9pWEo1R2lDOW5ZMVJ2TG1LcmE3bkJxMjMtNko0UlVNeTlVcGtZRW10bVp1Z2xWcGJaMFI0Wk5VOTZ4Q29EZERWb2FOcjl6SW85WEN3MjB4YdIBpwFBVV95cUxNVElmUmwyR3Rhc1dUbXhrR3E2cTRDTHd6OHp0N3dReTFQRjFfeDJmYWp5MGVoT2o3Yno1QjFKQlF1UHlOU2lLRW9FSjUyN3FQb0ZVa1YwLXRxQno1OV9GRE1oY3RWQVFTMnZwSFBndUxfbHF6NHd3NGRpMVlLR1NFUXZ5bi10RzNra2RJMnAwTjd0UmUwSGZ0Y1lEcUdweFRIY2dOTFdTMA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TMC's 'dissident' MPs Deepak Adhikari, June Maliah attend Bengal CM's administrative meeting - Deccan Herald",
+        "source": "Deccan Herald",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUpTTmxXTm13bnptcG5WUU9aQUhQbDhKUkJTMTVNS25HdG9YSTBMYXptZ0p4VFRnY29SUkdPaHNmd191WVN1REFxa19NcXptSWdhZE1QdERRSlZ2clVKUkdLWkZ4ZEtxOG9yemFPOTRXMGZrUndrc1NTV3VMT1RKVGlnQzVpaUpLdndkQjg4YmNvQlJROVFUWEx5QTh2VE1DT1B1eWFtYTNOdERDRmpVTXdFY0Y0VXJvUXkxc1Y1dHFrMjdpaHcwSnJmbW5BNnFRSnJIM3VmLVFJdw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TMC rebel MPs Dev, Maliah attend Bengal CM's administrative meeting amid party crisis - newindianexpress.com",
+        "source": "newindianexpress.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOU9oVV93b1VLbnBXaTFTbUlKYjF1enZSYzJycUJfd3F1eXdhc2NHU1l6aDA1dzg3MHBzcnFPVVEzM1NURUxkTWJBMHc3Q09MZzNqWms3aElCR044T2p2YUZRTjVDdGVCVjljclRzTk5mMVhqd0VRcmlEUGlUc0ZjSXlhT2hGY0xLSGhVT2FDbUwzZFhjU0hlaXdOTDY4WWJjUndnZmdQSUVEd3RVMWN6Ni1rOFQwRk9ieEROVUJtcW4zZjRFaFVQZXYxUC1qQ3dPS0Jpc0FmdGhyaE82aXJUSdIB7gFBVV95cUxPVHZJbExPVmZzV21CUy1hU3ZhZGRJdHZxcURLUjdEcldlUEVkQ2tMdW80aHpGTkJCaVhzaHdDV19FNEdWZlQ4Zl9mODc3T09qRjZqU1k4RXFucEF0a2tLcmRsalJiV0plN2FNc29VeVFjcEpBZDA3SDBSemhpdEttYVVfZWNaMlh1eFBPaFAyQmRZZUdhd2dqU2trZEVkWW51MFpPaWRQWkRvSWVHYi1VSUFGR2JzT2V6UnZFTkMtcDY2YTliT0QtdXhEcUVkNm53dmVIdnRReUc2Y0I3TnMxMktJTk9aNmRHMS1FUUNB?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Trinamool MP Dev reaffirms loyalty to Mamata Banerjee - MillenniumPost",
+        "source": "MillenniumPost",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSlBZSkR2d3ZINFVjQ21NZDNoWnE4WGhadUZRbDgxLTYzaFExamNabFRWQWx5azVWV1podWNkTHowUGNqLXhwWWVSdm9LTU4tbFpOUEFhamVHdGhRUTdRSFlfWmQ5UkVObEg0X2Znb29RcGNMdjVyZ1J2d3pVNXhCZUF0LVphYlplWlcyNkxVdUpxc0ZLYlFBNGhvX2xDZ9IBowFBVV95cUxONERtUHg1ZjRvZDZjRUtyNjhsR1ZMMExQUVJyYU9NVUpjMGxMWXpxcktrR0lnM1ZZVmM5NkdHMlprQ0NKaGxwNU50RnpGOWlPSFNoa2swTXBEOUk1eHI0Y01kTThQNkJxNy0xMFRtZXM3Zll6Y0M2OEQ5TFJReHBDRkFsLVllcjlHbUZRR2lXRXpPdGNFWTh0UUczVUFobGJjcWtR?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Dev breaks silence on meeting Bengal CM Suvendu Adhikari: ‘I have always vouched for politics of keeping people united’ | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQT21JOXAyNy1oLU5XdzlfeC03a0dEQzRNa3JRNGd5YmFVRmpjdEZuN05FUnVsLXhSSnNkNlgzSGFlVUc2Y3hYTTRXbjRwcEdmNmFRNllmMkxxWTFtNjVXeTg4VHNCNzFXUVJMMG1WYm1SZ2ZYOWNXLVNCYTBCVzJaV2NsNlQtMElYVC1TbUhWSkh3UHVPSmU5R2ZaVTBYc01WUjk0eTRyRlo2TlBLR2t3bGVDREdSMGo0cHZtNS04dXo3aEVMcVVYYUNTQWQ0QVlpMEVKMzBiSHJ6Ri1ONllpNC1nZTYxRDJqV0ZValJRd29NN2VsNkMya2d6V3MxeGR5ZFZ1RlE3djVDNThQYm1DN3R0X0FOU3Rm0gGeAkFVX3lxTFA3cXZidkZSWDNXa1hoRG5obk1yaERuMmZhcTE3NHdtNmlRY0hqNDk0TEpqUTdXLWhtZ2NsejUxdjZ4UDNtRm5GWm9hUEhJSnJOVnN3SEdJdnNkZlppNEpPZS1sZEtKOFdsclc2dERSZklLZHpLWjdUVWJqSEFfSlQ0NlZfWHZkQ3Y4Sm1YamRSVTA5VmdZXzhVV3kxZU80TnBiTllGa3hqZlpjbEhURnlGWlB2X1BMT0hLV0toY3MtZTlIR1hIclZpRzZsWUY2VVpVMmZmb0dNUWt2Z1EzNDVtazlGOUt1TTBsdklreDRDXzlCVEZWVXFpTHl4MUtGeGk3SDNoQ0lXT0pqZy1qanlCbEdzNVdRclVpakZUSkE?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "myneta",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:29:37.061565Z",
+    "collected_at": "2026-09-02T15:07:07.522497Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "assets": "B",
-      "criminal": "B",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -148,7 +201,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.522634Z",
+          "fetched_at": "2026-09-02T18:38:12.125575Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -164,7 +217,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.522643Z",
+          "fetched_at": "2026-09-02T18:38:12.125586Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -180,7 +233,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.522649Z",
+          "fetched_at": "2026-09-02T18:38:12.125591Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -196,7 +249,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.522654Z",
+          "fetched_at": "2026-09-02T18:38:12.125597Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -212,7 +265,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.522659Z",
+          "fetched_at": "2026-09-02T18:38:12.125603Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -228,7 +281,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.522664Z",
+          "fetched_at": "2026-09-02T18:38:12.125608Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -244,7 +297,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:54.522668Z",
+          "fetched_at": "2026-09-02T18:38:12.125613Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -278,48 +331,48 @@
     "news_sentiment": {
       "total_articles": 10,
       "positive": 0,
-      "negative": 1,
-      "neutral": 9,
+      "negative": 0,
+      "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Debra assembly election results 2026: BJP’s Subhashis Om defeats TMC’s Rajib Banerjee - The Times of India",
-          "source": "The Times of India",
+          "headline": "Dev Seeks Assurance On Ghatal Master Plan From West Bengal CM - Rediff",
+          "source": "Rediff",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEtQWFNPVkxhYmYzcHoybDJBbFhHQ3NTQzNTZ3daTG05LUtzQ0FOWk9Nd1N4bXBaWlJLSmxiUFpaeDZnOGJKQkdmVS1hOWFGSXI5WDd2YzQ3bF9jcGowSWVsZFRTY0UwUFY1UmNnZTVtUnFhWjhKS1dHNzdLU1hFb0xLY1NwVklaNEt2UFU0d0UzQUh1N2RIMWotN0lGY2l6c09RcS1iUdIBrAFBVV95cUxQcHpJWnZ3VmlZVWVXX3BKaWJ1dW85eU9VQk5teFliT1MtdDFYa2s4TEhuWElHOTZrUUtiN1JmMHBYN2JtYjJlMnBhR0dLQUF6S296RDA2aHFhUnpKd20tOXZoSUprLUpQVEdja2g5MV9VcHoySk91d0FFdVkzYVpVSUNUcy1WZjdaa1lqclVRZmNFUWJYbGhRbWJoUkJTSi02SGp3WS05U2pRME9R?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndpVFZSN1ZBTXdTTElndDdxZ2FHRTRydU9aNlBhWmNkU2RQNG9GcGZ4RThUTWJkSmxmMjhRUFNoU1h5aklLTVNTTVBXcXB3WDdTZG9pWEo1R2lDOW5ZMVJ2TG1LcmE3bkJxMjMtNko0UlVNeTlVcGtZRW10bVp1Z2xWcGJaMFI0Wk5VOTZ4Q29EZERWb2FOcjl6SW85WEN3MjB4YdIBpwFBVV95cUxNVElmUmwyR3Rhc1dUbXhrR3E2cTRDTHd6OHp0N3dReTFQRjFfeDJmYWp5MGVoT2o3Yno1QjFKQlF1UHlOU2lLRW9FSjUyN3FQb0ZVa1YwLXRxQno1OV9GRE1oY3RWQVFTMnZwSFBndUxfbHF6NHd3NGRpMVlLR1NFUXZ5bi10RzNra2RJMnAwTjd0UmUwSGZ0Y1lEcUdweFRIY2dOTFdTMA?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Bengal: TMC workers come to blows in front of local MP Deepak Adhikari over organising 'Shishu Mela' - Dailyhunt",
-          "source": "Dailyhunt",
+          "headline": "TMC's 'dissident' MPs Deepak Adhikari, June Maliah attend Bengal CM's administrative meeting - Deccan Herald",
+          "source": "Deccan Herald",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQYm0tLVhMNF9MbGtFZm56b0poY3Bnd2FUT3ZoS25haE1PdzRta1JoM1dvcFVxWHI0ZEp3YzEwaXI5M2ZHZ2VpVmxnR2t3OUNkTmJsYUxaUDNjN0FMVVlTS0RlYkdCOElyWHhRbkltcjJMVzF0M2RBZVBLSzU3b3kxa19sRTYyVVhPX2lUNDRMU3ozcTJCdTZyZWtzWUxqaTNGbTlWTkEtdE9Gb1djQ1FwZWVnWTN1a3VieWozTjRMMGR3T3E1eC1CN3JvMTVycnMyUnVwek80aVRiUVFTRE5aWktvRTZFM09RUlBGZU96WDRsT0NXejlvTGNnS3YwZnlaUVVaYWtETGg2TXpVNG9qNm9GYw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUpTTmxXTm13bnptcG5WUU9aQUhQbDhKUkJTMTVNS25HdG9YSTBMYXptZ0p4VFRnY29SUkdPaHNmd191WVN1REFxa19NcXptSWdhZE1QdERRSlZ2clVKUkdLWkZ4ZEtxOG9yemFPOTRXMGZrUndrc1NTV3VMT1RKVGlnQzVpaUpLdndkQjg4YmNvQlJROVFUWEx5QTh2VE1DT1B1eWFtYTNOdERDRmpVTXdFY0Y0VXJvUXkxc1Y1dHFrMjdpaHcwSnJmbW5BNnFRSnJIM3VmLVFJdw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Bengali actor Dev resigns from three government committees - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "TMC rebel MPs Dev, Maliah attend Bengal CM's administrative meeting amid party crisis - newindianexpress.com",
+          "source": "newindianexpress.com",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFg5SXVUUmNxT1EyN2ZPM3hvYlBOTDdOZFVKazVOdlpWdTVNaFBDY3FwSDRsYW4xdWlEeTlVZm9USXZwRGtUZE8zWHJYNDRQanJoMFJfLXJMZHdpbkJxeTNRN3JfV2VxeWZpTzNBXzBZS3dHcW5XeDdmOGptU2RvWloxTVdEZkM2TTVna2RlOUtNLXRpMkFKNm9oLXY2TmMzdllmWDBCUERaOXN4VEd0ZEhOV2FNSW_SAb4BQVVfeXFMUDV5Q2dILXgwWlN0YnJGdW50bVgtSHNtN0FZMllnVmMwOHlnWmsxbjdDZGV6VXFadUlrY0ZXM0l6TUdhTTlGdi0tMEhoWk02dS1NeGgwc2k0UE9TMzRsMHVpUkhEYUdiYTJaMF8wMHlHQmJybklldE5sY2l4dWl6UThGT0U0LWFJVUtpeDhQbDYwWTlOYjVkU3VQRHRDLUc0am5uX1RhUVV2R2V5aGtGQkx1Mk13bHhQMzNRYW9LQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOU9oVV93b1VLbnBXaTFTbUlKYjF1enZSYzJycUJfd3F1eXdhc2NHU1l6aDA1dzg3MHBzcnFPVVEzM1NURUxkTWJBMHc3Q09MZzNqWms3aElCR044T2p2YUZRTjVDdGVCVjljclRzTk5mMVhqd0VRcmlEUGlUc0ZjSXlhT2hGY0xLSGhVT2FDbUwzZFhjU0hlaXdOTDY4WWJjUndnZmdQSUVEd3RVMWN6Ni1rOFQwRk9ieEROVUJtcW4zZjRFaFVQZXYxUC1qQ3dPS0Jpc0FmdGhyaE82aXJUSdIB7gFBVV95cUxPVHZJbExPVmZzV21CUy1hU3ZhZGRJdHZxcURLUjdEcldlUEVkQ2tMdW80aHpGTkJCaVhzaHdDV19FNEdWZlQ4Zl9mODc3T09qRjZqU1k4RXFucEF0a2tLcmRsalJiV0plN2FNc29VeVFjcEpBZDA3SDBSemhpdEttYVVfZWNaMlh1eFBPaFAyQmRZZUdhd2dqU2trZEVkWW51MFpPaWRQWkRvSWVHYi1VSUFGR2JzT2V6UnZFTkMtcDY2YTliT0QtdXhEcUVkNm53dmVIdnRReUc2Y0I3TnMxMktJTk9aNmRHMS1FUUNB?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Dev's return gift to Ghatal: Mission green - Telegraph India",
-          "source": "Telegraph India",
+          "headline": "Trinamool MP Dev reaffirms loyalty to Mamata Banerjee - MillenniumPost",
+          "source": "MillenniumPost",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSi1RMER5Q21ubmw0Rm5ENHMwWTk1OFBFQ3FCRlV0SzRWSlFEbEk0V21MSVJvd3BkNnZoSGtETWJzbmppZktYTU9IbHJUNWphc2VVcDZyaXBsTXZYR2pfV2tTRXZJZDA3bzlJUUtmNkNESUlZdXFMUWE5VXdzbVktaHIxQ0FsZkJNVkFjeVl4SFkwUlZzM3lTdThLRWlyT1RWQlVNNjFXbnZEMVFvY1dXbjBFMlJSX04zMHhzV3dxT01GR3lVcVdiWEpseFMtYUNXV0VJcUQwNUE1SnPSAeABQVVfeXFMTUZTa0tvUkRnV1E2R2hVX2VqY2RHekJHMUJBemE0QTdRVkxvUWtoLUpfd0xFbFhrMFp4THRfUHRoWFd3U1RlQWVJTXVHdnVvaHIzMmJtQks5dWpPUGYtNTZJS09zYURtZmdaeDh6VndkMVRMSXJJa2hybkRKMW5FeENaZkVRLU82aEdGUHJfRXBXYWZpcUtrVndLQW12MEp1a2hxeTZpVy0yNVRJUGtjQ2FnQ25HQnd1dUlfMzZQeXdudV9tU0xqTkZRUE1XMnB2eFNPeUJMV2wxQWtwcVJTcVM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSlBZSkR2d3ZINFVjQ21NZDNoWnE4WGhadUZRbDgxLTYzaFExamNabFRWQWx5azVWV1podWNkTHowUGNqLXhwWWVSdm9LTU4tbFpOUEFhamVHdGhRUTdRSFlfWmQ5UkVObEg0X2Znb29RcGNMdjVyZ1J2d3pVNXhCZUF0LVphYlplWlcyNkxVdUpxc0ZLYlFBNGhvX2xDZ9IBowFBVV95cUxONERtUHg1ZjRvZDZjRUtyNjhsR1ZMMExQUVJyYU9NVUpjMGxMWXpxcktrR0lnM1ZZVmM5NkdHMlprQ0NKaGxwNU50RnpGOWlPSFNoa2swTXBEOUk1eHI0Y01kTThQNkJxNy0xMFRtZXM3Zll6Y0M2OEQ5TFJReHBDRkFsLVllcjlHbUZRR2lXRXpPdGNFWTh0UUczVUFobGJjcWtR?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Court dismisses recruitment scam case against Trinamool MP Deepak Adhikari - India Today",
-          "source": "India Today",
-          "severity": "medium",
+          "headline": "Dev breaks silence on meeting Bengal CM Suvendu Adhikari: ‘I have always vouched for politics of keeping people united’ | Hindustan Times - Hindustan Times",
+          "source": "Hindustan Times",
+          "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUEUtVER6MXVHcUlFTXFIMndLUFlSOWVFYks5Zy1YQXpxbWp1NGhvaE9iQTc0Z2RzQ3FoTkRfbHpVeE83ZElPR1B5OWJGRFVqc0pER0Y0Qi1wdi1zbXVRQUdzeGxfZlpzVm9YQ2ozelFVd3luQ2lRWGVRN0RITVRNZm9HSGdZZWhCbDdLWnYzdkY4c3h4UFVxN19tVjN5NlAxbzNZVUY1YXd4eE9xQnJnWUhvT1dwWV8xYUtNdndmV3o4QndEMWlJVVpaRkRtZncyVUYtdTRtVUnSAd4BQVVfeXFMTks4c2tHVzR3MDV4OFBaZko4UXBTNzVyNEJQZzJXZHJhbTVLV085VFZDV0U1UnVyalNhWXJGQXZCVTFMb0t6ejR6cDY5WW1mZDNkeDc1LVF5cHlRQ3NmQ256alBWZDUxc09JamVlejdpenA5OG8waHI4N0htWWpXNVhyS295T1hpQWRoZTFiaVhkel9feU9YYWEtWnJMMXUyNFhQNUZLRlRUanJMc2ROVGpCOW5oNDdCWm1kVDRsbHJtRGNKaWNsM3paZC10MWlZZ2Q5V3ZGQkF1dVN0enhn?oc=5",
-          "sentiment": "negative"
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQT21JOXAyNy1oLU5XdzlfeC03a0dEQzRNa3JRNGd5YmFVRmpjdEZuN05FUnVsLXhSSnNkNlgzSGFlVUc2Y3hYTTRXbjRwcEdmNmFRNllmMkxxWTFtNjVXeTg4VHNCNzFXUVJMMG1WYm1SZ2ZYOWNXLVNCYTBCVzJaV2NsNlQtMElYVC1TbUhWSkh3UHVPSmU5R2ZaVTBYc01WUjk0eTRyRlo2TlBLR2t3bGVDREdSMGo0cHZtNS04dXo3aEVMcVVYYUNTQWQ0QVlpMEVKMzBiSHJ6Ri1ONllpNC1nZTYxRDJqV0ZValJRd29NN2VsNkMya2d6V3MxeGR5ZFZ1RlE3djVDNThQYm1DN3R0X0FOU3Rm0gGeAkFVX3lxTFA3cXZidkZSWDNXa1hoRG5obk1yaERuMmZhcTE3NHdtNmlRY0hqNDk0TEpqUTdXLWhtZ2NsejUxdjZ4UDNtRm5GWm9hUEhJSnJOVnN3SEdJdnNkZlppNEpPZS1sZEtKOFdsclc2dERSZklLZHpLWjdUVWJqSEFfSlQ0NlZfWHZkQ3Y4Sm1YamRSVTA5VmdZXzhVV3kxZU80TnBiTllGa3hqZlpjbEhURnlGWlB2X1BMT0hLV0toY3MtZTlIR1hIclZpRzZsWUY2VVpVMmZmb0dNUWt2Z1EzNDVtazlGOUt1TTBsdklreDRDXzlCVEZWVXFpTHl4MUtGeGk3SDNoQ0lXT0pqZy1qanlCbEdzNVdRclVpakZUSkE?oc=5",
+          "sentiment": "neutral"
         }
       ],
       "sentiment_summary": "Mixed/neutral coverage (10 articles)",
@@ -352,15 +405,15 @@
       "confidence": 0.0
     },
     "question_quality": {
-      "total_questions": 0,
-      "starred_questions": 0,
-      "unstarred_questions": 0,
+      "total_questions": 31,
+      "starred_questions": 9,
+      "unstarred_questions": 22,
       "short_notice_questions": 0,
       "unique_topics": 0,
       "constituency_relevant": 0,
       "follow_up_rate": 0.0,
-      "quality_score": 0.0,
-      "confidence": 0.0
+      "quality_score": 60.0,
+      "confidence": 0.6
     },
     "conflict_of_interest": {
       "mp_businesses": [],
@@ -368,16 +421,16 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
-      "overall_pct": null,
+      "overall_pct": 0.0,
       "session_breakdown": {},
       "consecutive_absences": 0,
-      "attended_key_debates": true,
+      "attended_key_debates": false,
       "zero_hour_presence": null,
-      "pattern_label": "",
+      "pattern_label": "Low attendance",
       "confidence": 0.0
     },
     "mgnrega": {
@@ -399,8 +452,20 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.5,
+  "overall_confidence": 0.24,
   "flags": [
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -414,12 +479,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for West Bengal: 7 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 371,347,069. MPLADS utilization: 43.7%. Parliament attendance: 0.0%. Questions asked: 31.",
-  "validated_at": "2026-09-02T01:36:54.523387Z"
+  "cross_reference_notes": "No criminal cases declared. Parliament attendance: 0.0%. Questions asked: 31. Low confidence data: Assets, MPLADS. 2 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:12.126353Z"
 }

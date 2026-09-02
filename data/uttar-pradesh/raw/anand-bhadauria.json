@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/5815.jpg"
   },
   "criminal_record": {
-    "total_cases": 4,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 4,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 99723807.0,
-    "liabilities": 960867.0,
-    "net_worth": 98762940.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 57.9,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 9.44,
-    "expended": 6.31,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:49:28.787613Z",
-        "notes": "Official eSAKSHI REST API — Works: 177 recommended, 170 sanctioned, 130 completed"
+        "fetched_at": "2026-09-02T16:51:54.187792Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T16:47:46.547983Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T16:47:46.545233Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 177,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 42.925170068027214
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": 95.0,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T13:57:45.032592Z",
+        "fetched_at": "2026-09-02T16:47:46.544109Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Anand Bhadauriya, once trampled by officer's shoe becomes MP now | Tap to know more | Inshorts - Inshorts",
+      "source": "Inshorts",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2ZheHhycmdVNm9Valo1YURXazF2UzhZTExVcHlnU2FQU0IyMXFXYWVWeVZhcVJCeUNCYThUQko3SHNXclQ4UXhOWklpVnlMdEVpcDRJNnFiYW05U0Jhdi1TemJHeHA3c2FkVVhsVXpLVk5xeGRRSjhRNzBOUy12M19XQUR3Qzk4Vjl1TWIzaTZzTDE5dnVubXpHZ016Z2ZxRnRFQUZtTFPSAa4BQVVfeXFMTS1LR0lKaDFfNG0tUEw0UWZ1ZVNOQUxiLTFlZzJydzBvaXFRM0Z3aGdIUFktY04yWnNRWGFDVVJidWQ1Ym9xWXJaeFlyM2pHTTdUUHk0Ynh2OWZ2dEpod2RnYl80ZlVTUEk3MjFLams5ZzY3aTJnRU1GUU9zdl9OQ0JKLWtib0NpQ194ODZtTzQzU3pRQjFUZWQ5eHJpQjAwVmFKQVdlZmF1QkNFeFZB?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anand Bhadauriya , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details. - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWlmSTdPUlNPbTNNTjNEVTJoTmJaaEE1YlJPc2tzZE1IZF81RVp4WEdjZVZGekdsa2dVQVRJTHMwS2YxMzlLYVRvUzRlOUlhR3NZeFJfYk95RVlpalNuLXVUd0RaTjJXOXJQVnpOV0hpZW92Ym5mbjEzd3VpRmRtOWFwUlRCX1k0?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "8th Pay Commission: Govt explains if 58% DA be merged with basic pay - Business Standard",
+      "source": "Business Standard",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNTEzNTE5b2ZGQkV1V0trQjJFb3B2REtoSDEtNWhQMFNPVC1Fd0pTU2IzQWJfVmpINXQwcW9LQ3N4ekxjanJJUExSNUQxbGN2YzNyRzBzbWx6WHc1elZBMnBmd3h1RDVjZGFPZ3REWEdGNFFjS3E5V2J5UGVjNjNINmZiUHdvektTN0habFhZak84VEd2U3NsUWEzRkJvYkZ4eWpkNWotVHU2a2JMR0Z1ZHNoRXI0ZXVPTHlXYzQtZThoRE81TEVSa21pLUlDaFNqRlUzWFVWNTJWUnZLUnfSAeMBQVVfeXFMT0M0T0N4QjJ0T1V1YURHellrMU01VDNmcy11d0NIalVnVy0zTGoxOF9uQ0ZNQnJVVk5LNHNQaEZMSTF0OWp1QW1LaGVFOHVyVGk0SWJEcHV1cU10MVhyMEpKbnd4UXRaV0ZvWm12dHpXOTcwNmUwSzRDazQtTmU4MUhSX1F6UEJlbmFNNXFmcHNBb3RvbEtaSzVYMi1LRG5GNjBfbEtNODRrQVZnZmpyeXdfVWhGM3hxRVRfeXg1dERTVTc3cjhUS0dLQm41TEs1RTZPdjFJdDRIVHZJUjJPSjB2THc?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "21-year-old SP office demolished in Sitapur: Bulldozer action begins at 4 AM; lease was granted during Mula... - Bhaskar English",
+      "source": "Bhaskar English",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLVBVVlViZHFPN0tfSzNPbGhkeXdyNW5RV1Z3bWZ6cGRRb0hrX3k1VTFLT1lXMk5SckRxRlVrTm1ScERLSHd3S1JEa3V0bWdJV1ZydHVuY2lhYmpBc2NGVC1FbVk2T1Zmb2M3MFV4Tm5nYldoaG5lYzc1T2pIX3E2eHJiMi1JLXVvVFF3VWNKdFdsLWZuZDRKWXdzTVNYZkcxLTVmUzBxNmpxUXBsTmwyVFppalUzTlJK0gG-AUFVX3lxTE4taTRfOVhxVU5LQWF0Rko4ZjlyTFI5UlJ0QVN1a2xfeUFlcDdOSGFKVm5TaS1kSVRjdjV4WU12VU1qbm8zU19yNDlvQ2xuNUN3RXN3bGlvSFFHV1l2VDA5bE5IeGJ5N2hBcUFBVm5kMVF0OXBiVlB4R3JZQUZMMExObjNXWk9iaUtsQXVJbld5eFV2d25HN2tCYVZmOVhqZzZvWHM1WmRYdGZvUVJoZGRfSmQza0dEQ25Yc3dZb1E?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Parliament Of India : LoK Sabha Member Of Parliament - B - Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkExcmJuRmpsOUwzbF9zOTdRdHF3OGdoODNtX1FSYjBXMGFVVjdUSURLWnpNRXZFODNjSzMtUGRrQUpmVURCWmxGOGk5M2xRMlZ1SzB0eTdTTXNQSm1PRVZLQ01DV0t6N0Q4akpjV2V5akNvcEpGMzcxNVdyUTVpVW1XOGlzQUE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T13:58:04.626299Z",
+  "collected_at": "2026-09-02T16:51:54.189180Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.170613Z",
+        "fetched_at": "2026-09-02T18:38:10.727540Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.170623Z",
+        "fetched_at": "2026-09-02T18:38:10.727552Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.170628Z",
+        "fetched_at": "2026-09-02T18:38:10.727557Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.170632Z",
+        "fetched_at": "2026-09-02T18:38:10.727563Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.170638Z",
+        "fetched_at": "2026-09-02T18:38:10.727568Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.170643Z",
+        "fetched_at": "2026-09-02T18:38:10.727573Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.170647Z",
+        "fetched_at": "2026-09-02T18:38:10.727578Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -231,7 +287,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:53.170652Z",
+        "fetched_at": "2026-09-02T18:38:10.727583Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -256,34 +312,43 @@
     "sources": []
   },
   "social_media": {
-    "profiles": [],
-    "total_platforms": 0,
+    "profiles": [
+      {
+        "platform": "twitter",
+        "handle": "https://x.com/BhadauriyaAnand?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "url": "https://x.com/https://x.com/BhadauriyaAnand?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "followers": null,
+        "verified": false,
+        "active": true
+      },
+      {
+        "platform": "facebook",
+        "handle": "https://www.facebook.com/anandbhadauriyamlc/?locale=hi_IN",
+        "url": "https://facebook.com/https://www.facebook.com/anandbhadauriyamlc/?locale=hi_IN",
+        "followers": null,
+        "verified": false,
+        "active": true
+      }
+    ],
+    "total_platforms": 2,
     "total_followers": 0,
-    "confidence": 0.2,
-    "sources": []
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "",
+        "source_name": "social_media_lookup",
+        "grade": "D",
+        "fetched_at": "2026-09-02T16:48:15.712838Z",
+        "notes": "Social media handle lookup"
+      }
+    ]
   },
   "news_sentiment": {
     "total_articles": 10,
     "positive": 0,
-    "negative": 0,
-    "neutral": 10,
+    "negative": 1,
+    "neutral": 9,
     "top_headlines": [
-      {
-        "headline": "8th Pay Commission: Govt explains if 58% DA be merged with basic pay - Business Standard",
-        "source": "Business Standard",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNTEzNTE5b2ZGQkV1V0trQjJFb3B2REtoSDEtNWhQMFNPVC1Fd0pTU2IzQWJfVmpINXQwcW9LQ3N4ekxjanJJUExSNUQxbGN2YzNyRzBzbWx6WHc1elZBMnBmd3h1RDVjZGFPZ3REWEdGNFFjS3E5V2J5UGVjNjNINmZiUHdvektTN0habFhZak84VEd2U3NsUWEzRkJvYkZ4eWpkNWotVHU2a2JMR0Z1ZHNoRXI0ZXVPTHlXYzQtZThoRE81TEVSa21pLUlDaFNqRlUzWFVWNTJWUnZLUnfSAeMBQVVfeXFMT0M0T0N4QjJ0T1V1YURHellrMU01VDNmcy11d0NIalVnVy0zTGoxOF9uQ0ZNQnJVVk5LNHNQaEZMSTF0OWp1QW1LaGVFOHVyVGk0SWJEcHV1cU10MVhyMEpKbnd4UXRaV0ZvWm12dHpXOTcwNmUwSzRDazQtTmU4MUhSX1F6UEJlbmFNNXFmcHNBb3RvbEtaSzVYMi1LRG5GNjBfbEtNODRrQVZnZmpyeXdfVWhGM3hxRVRfeXg1dERTVTc3cjhUS0dLQm41TEs1RTZPdjFJdDRIVHZJUjJPSjB2THc?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "Dhaurahra election results 2024 live updates: SP's Anand Bhadauriya wins against BJP's Rekha Verma - The Times of India",
-        "source": "The Times of India",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQbThDSXVqeUl1NW5CcUMwYl9LWUZ2ZTV5eWdNV3gxc3V0cll6QnVoZmE0WlB3eVJRc3k1VU83cnZ0VjBJZ0NuNDlMdjcyUUEtZzZEMTUtUnZMenl4cVpKM2NkUUJvdXd1bnFKS1gwMDMtNWJOZUZfRDhRZHR0QU5iYzlVZ1VTRVd4b2ZMRW5wRzU5elE2ajBnVUZIbGFrbHBjVUUtODBiNWlIRFpYRU5XRkRPaUV2eGRHbTNuTnl3VENPLWxBT2Izd090d0J2empYT1JNY0FkM3pJNFpnMmJXbE44d2U0TDMzUW1COG5pcVZHMjctakJ0YUxObmFaX3dvb3dDNVBtOFE0VUp0TS1BNVlHN19JVXczWGdJM2k2ZS0wc1NGUWxRbU4yZDA5dy1pQzlmVkk3N0FhUUdVQ2RMUWpoYWkxSzl4NUM3c3dxMznSAdYCQVVfeXFMTlVmUkpnd1JMQk1oLVlqUzVzclNxeDVhT1Faa3g4RWpweWRyd0dzQkE0RjJyck9TTDloeFRjdUIxZmk3U05hVXRPSER0bVpLUjc5dEZsU29FVTc3QmlHNjk1bU9BUUV5SzJwdGl2NHpoNDZsU1J2cXFOT1hoNThnbnZYdmRmeV9pUWxwN1N3TXNSaXZxeXNCSmJydEl5TS1CSmxoNzhLOGs2UDVvend2aFVFWXhJN3premZEYTNhTEdnM3dZdjJ1M0NFTHlkZ2pNZmZQYjRyM1JjWWppRjNETUlxaTJfZWpfTE9FbHhhbzQzRXpmZGpsZVhoQ3dVTHJ3dUl0VWNPalVld2F1MDZPbHJ2a0FaSkd6ajU2RWRYRDByWGVGRnlublotVklvZW9hbkd6YzFEdF9fR0pOZ2l1TWt2ZGl2aWFySWh4QXU0U0d5NlFmQldB?oc=5",
-        "sentiment": "neutral"
-      },
       {
         "headline": "Anand Bhadauriya, once trampled by officer's shoe becomes MP now | Tap to know more | Inshorts - Inshorts",
         "source": "Inshorts",
@@ -301,11 +366,27 @@
         "sentiment": "neutral"
       },
       {
-        "headline": "MP Imran Pratapgarhi’s Electoral Meetings Will Commence From The Day After Eid - HW News English",
-        "source": "HW News English",
+        "headline": "8th Pay Commission: Govt explains if 58% DA be merged with basic pay - Business Standard",
+        "source": "Business Standard",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDJmdC1VN1NzQmlmV3V5TC1IZkJZRFp3YTZpeWNTbWlvZGVGVlhVS25mQ2t5MFVzRFhsS25lWmFKYkttdzVfZkxlQ0J2NEJqM2Z0ZE90V3FuNlF1ZGlkVmpwZTUwVHdPWVRncUlWaG9wR1BTNlFVMnhYMGcyYk9GeWw2d0xKREpDa3BvcVFJN1BfaWVFTXJIMmhNSFNnR1J3WkJqcWx2RzZTb0JvQ2ZZ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNTEzNTE5b2ZGQkV1V0trQjJFb3B2REtoSDEtNWhQMFNPVC1Fd0pTU2IzQWJfVmpINXQwcW9LQ3N4ekxjanJJUExSNUQxbGN2YzNyRzBzbWx6WHc1elZBMnBmd3h1RDVjZGFPZ3REWEdGNFFjS3E5V2J5UGVjNjNINmZiUHdvektTN0habFhZak84VEd2U3NsUWEzRkJvYkZ4eWpkNWotVHU2a2JMR0Z1ZHNoRXI0ZXVPTHlXYzQtZThoRE81TEVSa21pLUlDaFNqRlUzWFVWNTJWUnZLUnfSAeMBQVVfeXFMT0M0T0N4QjJ0T1V1YURHellrMU01VDNmcy11d0NIalVnVy0zTGoxOF9uQ0ZNQnJVVk5LNHNQaEZMSTF0OWp1QW1LaGVFOHVyVGk0SWJEcHV1cU10MVhyMEpKbnd4UXRaV0ZvWm12dHpXOTcwNmUwSzRDazQtTmU4MUhSX1F6UEJlbmFNNXFmcHNBb3RvbEtaSzVYMi1LRG5GNjBfbEtNODRrQVZnZmpyeXdfVWhGM3hxRVRfeXg1dERTVTc3cjhUS0dLQm41TEs1RTZPdjFJdDRIVHZJUjJPSjB2THc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "21-year-old SP office demolished in Sitapur: Bulldozer action begins at 4 AM; lease was granted during Mula... - Bhaskar English",
+        "source": "Bhaskar English",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLVBVVlViZHFPN0tfSzNPbGhkeXdyNW5RV1Z3bWZ6cGRRb0hrX3k1VTFLT1lXMk5SckRxRlVrTm1ScERLSHd3S1JEa3V0bWdJV1ZydHVuY2lhYmpBc2NGVC1FbVk2T1Zmb2M3MFV4Tm5nYldoaG5lYzc1T2pIX3E2eHJiMi1JLXVvVFF3VWNKdFdsLWZuZDRKWXdzTVNYZkcxLTVmUzBxNmpxUXBsTmwyVFppalUzTlJK0gG-AUFVX3lxTE4taTRfOVhxVU5LQWF0Rko4ZjlyTFI5UlJ0QVN1a2xfeUFlcDdOSGFKVm5TaS1kSVRjdjV4WU12VU1qbm8zU19yNDlvQ2xuNUN3RXN3bGlvSFFHV1l2VDA5bE5IeGJ5N2hBcUFBVm5kMVF0OXBiVlB4R3JZQUZMMExObjNXWk9iaUtsQXVJbld5eFV2d25HN2tCYVZmOVhqZzZvWHM1WmRYdGZvUVJoZGRfSmQza0dEQ25Yc3dZb1E?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Parliament Of India : LoK Sabha Member Of Parliament - B - Sarkaritel.com",
+        "source": "Sarkaritel.com",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkExcmJuRmpsOUwzbF9zOTdRdHF3OGdoODNtX1FSYjBXMGFVVjdUSURLWnpNRXZFODNjSzMtUGRrQUpmVURCWmxGOGk5M2xRMlZ1SzB0eTdTTXNQSm1PRVZLQ01DV0t6N0Q4akpjV2V5akNvcEpGMzcxNVdyUTVpVW1XOGlzQUE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -339,15 +420,15 @@
     "confidence": 0.0
   },
   "question_quality": {
-    "total_questions": 0,
-    "starred_questions": 0,
-    "unstarred_questions": 0,
+    "total_questions": 43,
+    "starred_questions": 12,
+    "unstarred_questions": 31,
     "short_notice_questions": 0,
     "unique_topics": 0,
     "constituency_relevant": 0,
     "follow_up_rate": 0.0,
-    "quality_score": 0.0,
-    "confidence": 0.0
+    "quality_score": 82.5,
+    "confidence": 0.6
   },
   "conflict_of_interest": {
     "mp_businesses": [],
@@ -355,17 +436,17 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {
-    "overall_pct": null,
+    "overall_pct": 95.0,
     "session_breakdown": {},
     "consecutive_absences": 0,
     "attended_key_debates": true,
     "zero_hour_presence": null,
-    "pattern_label": "",
-    "confidence": 0.0
+    "pattern_label": "Consistent",
+    "confidence": 0.7
   },
   "mgnrega": {
     "employment_days_generated": null,

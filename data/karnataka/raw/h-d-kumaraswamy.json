@@ -17,59 +17,73 @@
     "photo_url": "/mp-photos/3711.jpg"
   },
   "criminal_record": {
-    "total_cases": 3,
+    "total_cases": 0,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 3,
+    "pending_cases": 0,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": []
   },
   "assets": {
-    "movable_assets": 0.0,
-    "immovable_assets": 0.0,
-    "total_assets": 2172328789.0,
-    "liabilities": 821883134.0,
-    "net_worth": 1350445655.0,
+    "movable_assets": null,
+    "immovable_assets": null,
+    "total_assets": null,
+    "liabilities": null,
+    "net_worth": null,
     "previous_total_assets": null,
     "asset_year": null,
     "previous_asset_year": null,
     "source": "myneta",
-    "confidence": 0.8,
+    "confidence": 0.0,
     "sources": [],
     "annual_income": null,
     "election_expenditure": null,
-    "wealth_percentile": 96.3,
+    "wealth_percentile": null,
     "growth_ratio": null
   },
   "mplads": {
-    "entitled": 14.7,
-    "released": 14.7,
-    "sanctioned": 4.6,
-    "expended": 4.01,
-    "source": "esakshi",
-    "confidence": 0.9,
+    "entitled": null,
+    "released": null,
+    "sanctioned": null,
+    "expended": null,
+    "source": "mplads",
+    "confidence": 0.0,
     "sources": [
       {
-        "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+        "url": "https://mplads.mospi.gov.in",
         "source_name": "esakshi",
         "grade": "A",
-        "fetched_at": "2026-05-23T17:24:13.819776Z",
-        "notes": "Official eSAKSHI REST API — Works: 147 recommended, 69 sanctioned, 0 completed"
+        "fetched_at": "2026-09-02T14:47:29.515205Z",
+        "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+      },
+      {
+        "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+        "source_name": "data.gov.in",
+        "grade": "B",
+        "fetched_at": "2026-09-02T14:43:20.853067Z",
+        "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+      },
+      {
+        "url": "https://dataful.in/datasets/18540/",
+        "source_name": "mplads_csv",
+        "grade": "E",
+        "fetched_at": "2026-09-02T14:43:20.850404Z",
+        "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
       }
     ],
     "works": [],
-    "works_count": 147,
-    "esakshi_coverage_start": "2023-04-01",
+    "works_count": 0,
+    "esakshi_coverage_start": null,
     "period_data": [],
     "cumulative_entitled": null,
     "cumulative_released": null,
     "cumulative_expended": null,
     "includes_covid_suspension": false,
-    "data_period_note": "",
-    "utilization_rate": 27.27891156462585
+    "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+    "utilization_rate": null
   },
   "parliament_activity": {
     "attendance_percentage": null,
@@ -84,7 +98,7 @@
         "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
         "source_name": "prs_github_csv",
         "grade": "C",
-        "fetched_at": "2026-05-21T14:25:39.834849Z",
+        "fetched_at": "2026-09-02T14:43:20.849333Z",
         "notes": "PRS India GitHub CSV - 18th Lok Sabha"
       }
     ],
@@ -92,19 +106,61 @@
     "notable_questions": [],
     "voting_record": []
   },
-  "news_allegations": [],
+  "news_allegations": [
+    {
+      "headline": "Union Minister donates his MP salary to Mysugar School teachers - The Hindu",
+      "source": "The Hindu",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUGFPZUlYOVRWV25FOHU4MUZRa0ZaaThRcjZnQkgyRzN2aG1UQnVNOHFIN3pIeXZsWXU5U2FTc2FWeXIyX1RCM3hiMktfYWpEQmxfb1A0ai1zMVRoNUtuVzJJS3RrZlVqVUk0b0hDNXFPbTVkZ3dUQ1g2SC1ObWNRYS1kZ1k2Y1FsZ1Azel9GLXp2c2prTm1LS29SZk9ESG5EQUNoNGM4YTRSNE0xdEJFT2dsazFyM3h2WnNuYm14aTBIaGJzb0R2RFpQR3BkVVVwNEVkdjdlZzE0U1nSAeIBQVVfeXFMTkw5eE5Ba2NwaWtpNWlGb2gxTlAwZnp0VS1fd3hlX0xhWFN5ZURpdC01M3B5YnlyQjNFUU5vUXJmeDBNY2hLel9JT292NVk2Mnh2a0hCODdTX1VvcFBjTXFtXzNQZUd3VEVLczFKT3J1LVJGSjI3Z1hLWC1BN0NjTEczUVBNRGJRaVNoVkxiQnZJN1JQNHp4ZVdwNlFSdngxdnA4UHVqQTJ3amJiYmtpZlhpcl9OQ0kzNnBuNFI2bGhIQVg4d2dDT3htM3Rra0dPSllwZlB3TE9hc3NaVmM3S0Rzdw?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nikhil may fight from Mandya as JDS-BJP alliance candidate: HD Kumaraswamy - The New Indian Express",
+      "source": "The New Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3E2VTBKb3R6REhsR3ktWjB0UWp1dTRGZ002aVljWFZISjNnTkE2VUZRRFF6Mm9IRVZiNnZQSEx5OVd5TEY4aU0zUHlZbGZYMXRLWUhVZTN4ZUt3VXBZZmdndUZqcGhUZmhkeUQyV1lrX2o5MkRZQnNqS3loTkpiNVoydEY5ZWtwUDJoTUZ3Q2l1R1BOYXJZUUhBS0VsYkFmMHNxRk1SLUFxdHpkT3NFUEJZVWJxWmZyTTFVcURFM3NUV2tGbmlyUjJwSjdyMFFy0gHeAUFVX3lxTE5zWGZnNUhyRUNJNGdncHZaNFktTzBWNUNEU09QUEQ1OU5sQm1scUxCZVdpLURObEQyS1otMmJDN0ZBczV5RGVScWRtX0NqQWZmTmNxVTdOYWZvT1FmNUs2NG1GQWRBU01XbHlfU0VOWnVsRE9zS3FLSW9jdS1nTmcybmtnSzNBa0JKaW1ZdFdjRmFzMDRVWWRJQ0o2QXdLb1I0UEtfc2NBaDNLdTUzSDZZVVhleTZfei1pX0lvMHBHMHBzc3hBb2RoTGJwNHdwc0JpZ2ZrTjE4VUZsWExNUQ?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mandya election results 2024 live updates: JDS's HD Kumaraswamy wins election - The Times of India",
+      "source": "The Times of India",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPT1NqaTJXQU04dDZLLU5la2ZXNnpvLXRUdEZ4UDlsRE9pM3VyWWoycldKcEo2T3RKWV81bTkxNDBMeHp2dTVBVDROWmVDd2N4UmFleDlqN3ZRaE8tSGZtTTRBdnAzZlhkMkVrcHp3Tzd5eVF6dTRFblp3cVdJSGpwaGFsMDZ2WlRfdmFDUWxkTXNUZEhPdmhkS1hiUWJUeEZlOTFueFJuczFGN3FKTm1RWHB3YUN2enJ2aU9iSm4zbnR2dmExUkZPenFNUDZFYzZfaFlfaUtVUkNTbnhIVWpCSTZJbEV1eG1ja2kyZzhxSmJMQ1NOdG9hcWhRcE9ieUdWTGIyR25fMDNOWW9BY1I3bnhBdzc2bTR1bTcyQ2hFYVgwdmJCUldZcENvQ1ZmMmfSAbQCQVVfeXFMTW1Ub2xjYWFBLU5hd3pWbFhNVGhPVGxoajdtVTRSRTR4THk0eHlkY0RJMUY5UW95dy05a3YtSHd5cEdrVGdNbnZwN2pRRjBJTzhaV2tncy0zSkVaYUJsa3BnUjJPand5dmozSnNuOVZJVG1wVXBiMGxXQWtOSVFxdjhtbnZqcnVJcDFxN2NjRTF3M2l4b19qQkJpbnptM19PVS1UblVKU2hwTlBQYjloNm9DWVZmRmFKRHBIZVJyOU1rWGh2a1YzNnNBdmdwNzhSaXFmandJa2k2WGlLZExhQ293anFFWXNjZDlMR2x4MjZycjJXYWtZcnl6UXhhQ3RxX0ZnNzI2RHNUVDVPS1cxZFlnRUxuaWp4Tk0xdWlTQ00wOUtsNG1DbUxvc190OV9KOHVXYWU?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Mandya Lok Sabha seat: JD(S) candidate HD Kumaraswamy won with 8,51,881 votes | India News - Hindustan Times",
+      "source": "Hindustan Times",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTIwY1VYNXEtMjhKQlphV2lVUW42RzRKQWJwSWNLYXktZmhBTjl2R0FzYjFRWFFXRDd4SlF6SEwtdnloWEV4Si1Bbnh5M3hvTmFSLTgza2hXTlpWLU1UcUc1TDVnTUc5WWxzWVl6NGY4cWE1RS1KUVBPV0xkWmZvMUd3c2JlQURzSzFKQmFfalN5Y1p6S2ttOWk0YlpXdFJIQzJIcWtTNWc0c21BLTRjVmREd9IBuAFBVV95cUxObFQyUkU2dnBpcWFidV91dkxGWHk3Zk9tTUNFSk9ZZVdpSi0xd3k3QzNDNkY3UFc2UEF1LW8tSTJ1TURXYUdYbmwwaENvYXhSTW9SMTkxdW9IaktIWFdDOFEzVy0wM2FBVmhmbUZKQ2tkWU9OWXRVX1hxOWMycDh6d1poT1Y3dDZHSHpuTEJKVHJ5c2JoczJRWDFHZjNuTjhnRnlDQ2M1cE9OcDIyTjRhN0VLTHcxWkJu?oc=5",
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Independent MP Sumalatha hints at backing H D Kumaraswamy in Mandya ahead of LS polls - The Indian Express",
+      "source": "The Indian Express",
+      "severity": "low",
+      "verified": false,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTl9NeVNfZlVfX09ZaFd5Z0w3UzZ4YnV4cHNnLTJXeUJIeDRTbWkxSWdjSnlfUFYzZEF0SFhEWWppaGhyWDdZd01MVTdCSXgwdEU5STVhZU9CZUV4NE95LWtOWHl1bHBKbEZPZ1RDaHNyREJQYjdzX3JZSG1iNEJ5Qy1Gc2wzSUktTkhTcFNKS2hrbnBTb29wZmxzdXMzc1hPZkFlOWNQUTZmZVZSaVRRYV9GTdIBugFBVV95cUxOcGxQX3VjWjg0dnIySUhRSy1vN1FtRGktc1Q2OGJIQ2Y4dEJULUkwX0FaejFZNzZjblJXNWtzMmV2U2VMc3JDWDk4U0lHRnZFRzI4Z3M1SFYxX2Z6OGpBVGlZTE4yODcxMU5yRkt4Z1ZweVJENFVoZkV6VXllNEtzOVIwTUh3ZXlhVjJady1RYmM0UGhLQmZ2X0FLNUJITzQ3RmZZRWk5Szl1WGRINWFYMldQU2dQdHl2TFE?oc=5",
+      "sentiment": "neutral"
+    }
+  ],
   "raw_notes": "",
   "sources_consulted": [
     "prs",
     "social_media",
     "news",
-    "mplads"
+    "cag"
   ],
-  "collected_at": "2026-05-21T14:26:45.886681Z",
+  "collected_at": "2026-09-02T14:47:29.516162Z",
   "evidence_summary": {
     "parliament": "C",
-    "accessibility": "D",
-    "mplads": "A"
+    "committees": "E",
+    "legislative": "E",
+    "accessibility": "D"
   },
   "cag_findings": [
     {
@@ -119,7 +175,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.009989Z",
+        "fetched_at": "2026-09-02T18:38:06.539697Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -135,7 +191,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.009998Z",
+        "fetched_at": "2026-09-02T18:38:06.539708Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -151,7 +207,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.010003Z",
+        "fetched_at": "2026-09-02T18:38:06.539713Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -167,7 +223,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.010008Z",
+        "fetched_at": "2026-09-02T18:38:06.539719Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -183,7 +239,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.010013Z",
+        "fetched_at": "2026-09-02T18:38:06.539726Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -199,7 +255,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.010017Z",
+        "fetched_at": "2026-09-02T18:38:06.539730Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -215,7 +271,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T01:36:49.010023Z",
+        "fetched_at": "2026-09-02T18:38:06.539735Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }
@@ -253,35 +309,19 @@
     "neutral": 10,
     "top_headlines": [
       {
-        "headline": "Union Minister H.D. Kumaraswamy hails Adichunchanagiri seer’s legacy of service - The Hindu",
+        "headline": "Union Minister donates his MP salary to Mysugar School teachers - The Hindu",
         "source": "The Hindu",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1dTMGkyTFUxZHlpeTd3VXVXUmFqdGFtTDUxSy1IX09taEhrWURhWUhlb0hNcW1YNDFTVm80OTlqRFF6WUVJMk1XX0pNeHVRcDNleF9aNmNJWHBuUGpiNndCWUlSUlJkekp4ZmZWZ2xvMjI0UzlwbHlIS1ppR0FMUjZRY3VxTHZLYzVkVDVVTmlrZXB5ajNTN09WbTIxa0cwcDJrTjhvVVJua0wzNHNJNUpreS1tMHRRdTFnbEhrZl9xNDY5Zi04ODU4c2RSWUZiOThkVnBrLU4xMmNzeUHSAeQBQVVfeXFMT1YwYUFfMkY4dVAtOFNDeEx4VW5pUDhoLVppQ1gwdzdYYVd3R0xXZDlmMnZyQlVvZTB1NzFEZjVRZkpmQUlfaXNwSnNfV2FxNk5IbkluZmx6QWUxQTlnZmpReXJ3RHNKaTdEU2w5WDlmbWFlUHY2NS0xR1E0NGNDV09uWEhiNHdWUFJ4VG4wSWU5ZWVrUU9KMTZucmZOUzMzUWh5VUM3Ty1UU19HYjFOUjdkVmVKUE5ObDIxMDlUalRtY2ZMSmFTRUE0dDB2UlRQcThRRy1QTjJZN21DdVozTFlFS1hK?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUGFPZUlYOVRWV25FOHU4MUZRa0ZaaThRcjZnQkgyRzN2aG1UQnVNOHFIN3pIeXZsWXU5U2FTc2FWeXIyX1RCM3hiMktfYWpEQmxfb1A0ai1zMVRoNUtuVzJJS3RrZlVqVUk0b0hDNXFPbTVkZ3dUQ1g2SC1ObWNRYS1kZ1k2Y1FsZ1Azel9GLXp2c2prTm1LS29SZk9ESG5EQUNoNGM4YTRSNE0xdEJFT2dsazFyM3h2WnNuYm14aTBIaGJzb0R2RFpQR3BkVVVwNEVkdjdlZzE0U1nSAeIBQVVfeXFMTkw5eE5Ba2NwaWtpNWlGb2gxTlAwZnp0VS1fd3hlX0xhWFN5ZURpdC01M3B5YnlyQjNFUU5vUXJmeDBNY2hLel9JT292NVk2Mnh2a0hCODdTX1VvcFBjTXFtXzNQZUd3VEVLczFKT3J1LVJGSjI3Z1hLWC1BN0NjTEczUVBNRGJRaVNoVkxiQnZJN1JQNHp4ZVdwNlFSdngxdnA4UHVqQTJ3amJiYmtpZlhpcl9OQ0kzNnBuNFI2bGhIQVg4d2dDT3htM3Rra0dPSllwZlB3TE9hc3NaVmM3S0Rzdw?oc=5",
         "sentiment": "neutral"
       },
       {
-        "headline": "Kumaraswamy rules out LPG, fuel shortage in Mandya, highlights risks of panic-buying - The Hindu",
-        "source": "The Hindu",
+        "headline": "Nikhil may fight from Mandya as JDS-BJP alliance candidate: HD Kumaraswamy - The New Indian Express",
+        "source": "The New Indian Express",
         "severity": "low",
         "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVElwWlN2cHRENU1wY2hPdnRXYnFJZ0JramJhNktRMFlnaTFsVjBXR3h3bDBwM1pTazZKUkJ5U21wbU14eEFWNHdwZjdJSXViSzdkb1RIU082dFpGcTUtdFdYUzJReDBvbmRoRVI4YkM0OFlfbzBNT0c3WWt6RkMtWTNoUTRFR0lGSW5ZaEU3Wk54RElzVmdPWXFSR3BKekVJUVhSdVQxczdIcnFJU3pGaGduYTZvVDR6VnVFU0VaR1k0aGV3M0FIYkE2czdqR3BSN1dtVHp4cGpVcHE3c3ZGNk9yWTQ5d9IB7AFBVV95cUxPeW5Eak1FeGxOVXR5NWFCV3luVnZhZU1XVVVQOUlYT3N5VncwSTdfd1F3U0h2RGdPcHVXd0YyOGpXblFxV0tLYm03SThHM0lWMzJfWWZlVEt2NzRGYk13Tnh3MUMwcTFLLW1HLVE5ajBKWF9ma2tiMWh2ZlJNdjhWYTZBcFdSS3NxNVpXNGx4ZTlCTWViVHBsWWt5ZkpGRlp2Y0E4YS1QV2JLMkxkNU53VVU1T3Nmcmg3b1Z0cVpWVEdETXZVRml4SFBFZWMwak9HY0tYRENaQVpyTzFnT3NvU0RkSllteHFZVk5VNA?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "AIIMS-like super speciality hospital in Mandya: PM Modi approves - Star of Mysore",
-        "source": "Star of Mysore",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR1RuLWZ4blhxRHVlTmp4QWpnZDFOY2pNeUxlSVpRdUJIVkRVa2VNUE1ZM0JGQ0Y3UGxTbmxsdTI1OVlJaTdDb205VmRKbHBabzJ2Z0ZGNW44ZkVjRk95MUNzcVJDaFJVeUlITVJSbXU1RVRPMTZ6SGxQeEkxYnN4RWhqWEZYZEVJdndSS2Z2d2N3dGM?oc=5",
-        "sentiment": "neutral"
-      },
-      {
-        "headline": "‘Khelo India’ boost for Mandya as Centre okays multi-purpose sports facility - The Hindu",
-        "source": "The Hindu",
-        "severity": "low",
-        "verified": false,
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbVI0WDVGdE9RZlhQTEdibjNRWmE3UEZTemhMcDdrZGFoQnFrbDNCYTZXejhxQ0hBTk1Dd0YybFJzZGZEcVdoNUZPM09GajhKUkRzMTY5YXZEWTNrdXZ1ZkNjUVRsdkl6TVNNYjJaSGlaalVUcWZpQlZCSmVhblBtNXVjWS1RaFkxVVozMlFMaUs5Z095MDBSUHFOUG8zX1hPTWxhZFNKRHQ5amVDekRnOGMxZkF2XzduUkhhVVMzU3c5dkpCMWZueWlIV21pRHVsbTJpcDBHT0cwVmvSAeIBQVVfeXFMT1ZTWTAtSDJlVnRaSmJqcHZkWm9yemNOVkVrRGFwU2FPUVlJejVCYmlwZWVGNVdfbktZaWgwYlpoei13cE92aUJPalNfc0xuR0tyZ053VC1zckxHTEszZHBFWkt2cGRYQkkwbGRrNFhucnktRzV0Z2tRdTJPdjBKdlVzbE44VXZIbkpCdFJ4bk9QZlVLUjFKU1Rwc3NIRHZEX3hKazl3N3ZKS2EtUzJBV3dKTzZVT2Nfa0dOS1UwOXE3Y3BmTEw4a09hdlRRNHZmNzJOOU83cnhaQk9JV2RheEdaUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3E2VTBKb3R6REhsR3ktWjB0UWp1dTRGZ002aVljWFZISjNnTkE2VUZRRFF6Mm9IRVZiNnZQSEx5OVd5TEY4aU0zUHlZbGZYMXRLWUhVZTN4ZUt3VXBZZmdndUZqcGhUZmhkeUQyV1lrX2o5MkRZQnNqS3loTkpiNVoydEY5ZWtwUDJoTUZ3Q2l1R1BOYXJZUUhBS0VsYkFmMHNxRk1SLUFxdHpkT3NFUEJZVWJxWmZyTTFVcURFM3NUV2tGbmlyUjJwSjdyMFFy0gHeAUFVX3lxTE5zWGZnNUhyRUNJNGdncHZaNFktTzBWNUNEU09QUEQ1OU5sQm1scUxCZVdpLURObEQyS1otMmJDN0ZBczV5RGVScWRtX0NqQWZmTmNxVTdOYWZvT1FmNUs2NG1GQWRBU01XbHlfU0VOWnVsRE9zS3FLSW9jdS1nTmcybmtnSzNBa0JKaW1ZdFdjRmFzMDRVWWRJQ0o2QXdLb1I0UEtfc2NBaDNLdTUzSDZZVVhleTZfei1pX0lvMHBHMHBzc3hBb2RoTGJwNHdwc0JpZ2ZrTjE4VUZsWExNUQ?oc=5",
         "sentiment": "neutral"
       },
       {
@@ -290,6 +330,22 @@
         "severity": "low",
         "verified": false,
         "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPT1NqaTJXQU04dDZLLU5la2ZXNnpvLXRUdEZ4UDlsRE9pM3VyWWoycldKcEo2T3RKWV81bTkxNDBMeHp2dTVBVDROWmVDd2N4UmFleDlqN3ZRaE8tSGZtTTRBdnAzZlhkMkVrcHp3Tzd5eVF6dTRFblp3cVdJSGpwaGFsMDZ2WlRfdmFDUWxkTXNUZEhPdmhkS1hiUWJUeEZlOTFueFJuczFGN3FKTm1RWHB3YUN2enJ2aU9iSm4zbnR2dmExUkZPenFNUDZFYzZfaFlfaUtVUkNTbnhIVWpCSTZJbEV1eG1ja2kyZzhxSmJMQ1NOdG9hcWhRcE9ieUdWTGIyR25fMDNOWW9BY1I3bnhBdzc2bTR1bTcyQ2hFYVgwdmJCUldZcENvQ1ZmMmfSAbQCQVVfeXFMTW1Ub2xjYWFBLU5hd3pWbFhNVGhPVGxoajdtVTRSRTR4THk0eHlkY0RJMUY5UW95dy05a3YtSHd5cEdrVGdNbnZwN2pRRjBJTzhaV2tncy0zSkVaYUJsa3BnUjJPand5dmozSnNuOVZJVG1wVXBiMGxXQWtOSVFxdjhtbnZqcnVJcDFxN2NjRTF3M2l4b19qQkJpbnptM19PVS1UblVKU2hwTlBQYjloNm9DWVZmRmFKRHBIZVJyOU1rWGh2a1YzNnNBdmdwNzhSaXFmandJa2k2WGlLZExhQ293anFFWXNjZDlMR2x4MjZycjJXYWtZcnl6UXhhQ3RxX0ZnNzI2RHNUVDVPS1cxZFlnRUxuaWp4Tk0xdWlTQ00wOUtsNG1DbUxvc190OV9KOHVXYWU?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Mandya Lok Sabha seat: JD(S) candidate HD Kumaraswamy won with 8,51,881 votes | India News - Hindustan Times",
+        "source": "Hindustan Times",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTIwY1VYNXEtMjhKQlphV2lVUW42RzRKQWJwSWNLYXktZmhBTjl2R0FzYjFRWFFXRDd4SlF6SEwtdnloWEV4Si1Bbnh5M3hvTmFSLTgza2hXTlpWLU1UcUc1TDVnTUc5WWxzWVl6NGY4cWE1RS1KUVBPV0xkWmZvMUd3c2JlQURzSzFKQmFfalN5Y1p6S2ttOWk0YlpXdFJIQzJIcWtTNWc0c21BLTRjVmREd9IBuAFBVV95cUxObFQyUkU2dnBpcWFidV91dkxGWHk3Zk9tTUNFSk9ZZVdpSi0xd3k3QzNDNkY3UFc2UEF1LW8tSTJ1TURXYUdYbmwwaENvYXhSTW9SMTkxdW9IaktIWFdDOFEzVy0wM2FBVmhmbUZKQ2tkWU9OWXRVX1hxOWMycDh6d1poT1Y3dDZHSHpuTEJKVHJ5c2JoczJRWDFHZjNuTjhnRnlDQ2M1cE9OcDIyTjRhN0VLTHcxWkJu?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Independent MP Sumalatha hints at backing H D Kumaraswamy in Mandya ahead of LS polls - The Indian Express",
+        "source": "The Indian Express",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTl9NeVNfZlVfX09ZaFd5Z0w3UzZ4YnV4cHNnLTJXeUJIeDRTbWkxSWdjSnlfUFYzZEF0SFhEWWppaGhyWDdZd01MVTdCSXgwdEU5STVhZU9CZUV4NE95LWtOWHl1bHBKbEZPZ1RDaHNyREJQYjdzX3JZSG1iNEJ5Qy1Gc2wzSUktTkhTcFNKS2hrbnBTb29wZmxzdXMzc1hPZkFlOWNQUTZmZVZSaVRRYV9GTdIBugFBVV95cUxOcGxQX3VjWjg0dnIySUhRSy1vN1FtRGktc1Q2OGJIQ2Y4dEJULUkwX0FaejFZNzZjblJXNWtzMmV2U2VMc3JDWDk4U0lHRnZFRzI4Z3M1SFYxX2Z6OGpBVGlZTE4yODcxMU5yRkt4Z1ZweVJENFVoZkV6VXllNEtzOVIwTUh3ZXlhVjJady1RYmM0UGhLQmZ2X0FLNUJITzQ3RmZZRWk5Szl1WGRINWFYMldQU2dQdHl2TFE?oc=5",
         "sentiment": "neutral"
       }
     ],
@@ -339,7 +395,7 @@
     "question_sectors": [],
     "overlaps": [],
     "severity": "none",
-    "analysis_notes": "",
+    "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
     "confidence": 0.0
   },
   "attendance_pattern": {

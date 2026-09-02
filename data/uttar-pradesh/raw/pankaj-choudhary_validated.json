@@ -42,52 +42,66 @@
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": []
     },
     "assets": {
-      "movable_assets": 0.0,
-      "immovable_assets": 0.0,
-      "total_assets": 419010509.0,
-      "liabilities": 38247129.0,
-      "net_worth": 380763380.0,
+      "movable_assets": null,
+      "immovable_assets": null,
+      "total_assets": null,
+      "liabilities": null,
+      "net_worth": null,
       "previous_total_assets": null,
       "asset_year": null,
       "previous_asset_year": null,
       "source": "myneta",
-      "confidence": 0.8,
+      "confidence": 0.0,
       "sources": [],
       "annual_income": null,
       "election_expenditure": null,
-      "wealth_percentile": 82.3,
+      "wealth_percentile": null,
       "growth_ratio": null
     },
     "mplads": {
-      "entitled": 14.7,
-      "released": 14.7,
-      "sanctioned": 9.76,
-      "expended": 9.31,
-      "source": "esakshi",
-      "confidence": 0.9,
+      "entitled": null,
+      "released": null,
+      "sanctioned": null,
+      "expended": null,
+      "source": "mplads",
+      "confidence": 0.0,
       "sources": [
         {
-          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "url": "https://mplads.mospi.gov.in",
           "source_name": "esakshi",
           "grade": "A",
-          "fetched_at": "2026-05-23T17:51:03.110605Z",
-          "notes": "Official eSAKSHI REST API — Works: 49 recommended, 49 sanctioned, 19 completed"
+          "fetched_at": "2026-09-02T17:32:46.199004Z",
+          "notes": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification."
+        },
+        {
+          "url": "https://api.data.gov.in/resource/9e0e3220-3de0-4f10-924b-eca88a58b272",
+          "source_name": "data.gov.in",
+          "grade": "B",
+          "fetched_at": "2026-09-02T17:28:36.555441Z",
+          "notes": "MPLADS dataset resource ID no longer valid on data.gov.in (returns 'Meta not found')"
+        },
+        {
+          "url": "https://dataful.in/datasets/18540/",
+          "source_name": "mplads_csv",
+          "grade": "E",
+          "fetched_at": "2026-09-02T17:28:36.552154Z",
+          "notes": "MPLADS data unavailable — legacy CSV dataset covers 12th-16th Lok Sabha only; 18th Lok Sabha constituency-level figures are not estimated"
         }
       ],
       "works": [],
-      "works_count": 49,
-      "esakshi_coverage_start": "2023-04-01",
+      "works_count": 0,
+      "esakshi_coverage_start": null,
       "period_data": [],
       "cumulative_entitled": null,
       "cumulative_released": null,
       "cumulative_expended": null,
       "includes_covid_suspension": false,
-      "data_period_note": "",
-      "utilization_rate": 63.33333333333334
+      "data_period_note": "eSAKSHI constituency-level MPLADS data not available from the automated open-data fetchers; no fund amounts are estimated. Use RTI/official district records for constituency-level verification.",
+      "utilization_rate": null
     },
     "parliament_activity": {
       "attendance_percentage": null,
@@ -102,7 +116,7 @@
           "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
           "source_name": "prs_github_csv",
           "grade": "C",
-          "fetched_at": "2026-05-21T14:05:46.599534Z",
+          "fetched_at": "2026-09-02T17:28:36.551077Z",
           "notes": "PRS India GitHub CSV - 18th Lok Sabha"
         }
       ],
@@ -110,19 +124,61 @@
       "notable_questions": [],
       "voting_record": []
     },
-    "news_allegations": [],
+    "news_allegations": [
+      {
+        "headline": "MP Pankaj Chaudhary Elected BJP Uttar Pradesh President - News On AIR",
+        "source": "News On AIR",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzhhQjFxVGIzWFdNTGFvT1dUaXF1NW5vQ0tHSDVHLWlJSkUxRkQzeFAwM1YtQko3WWRsYXY2NnBObEpwbWtNbFBsNlpHNTNzQngwRzY4TV9zck56UDlra1BuOXV1OEQycGxVRklvajcwY1JLS042ZGhmem5kQlY1VHlRbGV6S3Vs?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Pankaj Chaudhary, 7-Time MP And OBC Leader, Likely To Be New UP BJP Chief: Sources - NDTV",
+        "source": "NDTV",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTW9GNTZiNUdwaVpNNGNVVlczc0RMM3dOTTNHUkFUbXBrYUh6OGNwSFJxNW9CMG10ZjFQQzd5WElVbEZSMXRmZDhwdXNIS213MzJUOE9Da1hfU2xnMkZiRHBXSkp4bzF2R2UyXzhSeTlwczFCbVM3ZjB6aHNrVlF3MUdRWjh5dUlBdTEtZXhRMVFnQXBvaXNkVHRwWlVoNW1SOEtWazU3SmJKMDdRMUow0gG3AUFVX3lxTE1uckVqYjNMZk95aDQwanZTbHNqT1pPTEhOTEZfcTZHeDRnVWZMbW1xVGJ3SmFIQUdKbE00VXVXT2dyVENoM0hjZFVHczNSbjV6Um1EaDFTRnJSaERkZTNhR1FhZTdIWkdYaEtkVlNyWGxBdEp1azVVU3RDOVNIMWVvSFNpc3dTOEJrbXlYS1BLeTNiY3NQWG5raEFrdnpFNzc0NWVPenFJdExzM3Y4OGdieWlEUXR4OA?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Shri Pankaj Chaudhary takes charge as Minister of State in the Ministry of Finance - pib.gov.in",
+        "source": "pib.gov.in",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oTVNBRFppR29mR2xSZVBnYU5CaTFBOTJlRWhkaXJnUUJOVWgyN0hkNzF6b2NaVFgzODRKbi1oUHNmZ1hET1NOa2gwRzBTUGkyTkJ0czRYWVF4allrUjB3cG1ib0o4NDRNZGc?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Who Is Pankaj Chaudhary, The Likely New Chief Of Uttar Pradesh BJP? - ETV Bharat",
+        "source": "ETV Bharat",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTgtVzVxd3NIWmtlbzVDWVFTaExMMnJreHM1czZXNjVLVXAtWjdNSk1FZ0pjdzMzbFVqbFVqd28tbVpicURqbVIzZE1zYTJDLUVkRXhTV1FDekJ6WGJkY2ZjdlVrV19QYXBDemxEbURoS0g1Z2txU09KVFpwd0hDR2VPRFFsZGtpUWNGSlZiVmtnZU53ZzlxN2Q5QXo4dXY2Q25CRW02UUo0NUJHdHlORklvTjZwdUXSAbwBQVVfeXFMTTY2TjQySVZwNW5rek4yT3ZjMFRiODF6N19FMzd0OUZOMVVoX09HTVF5UHpscU5lY1FnbTRiOFBTLUZ6OUNEREJNd2F3MVhMOEJwVlVOZE5MVE11TWg1SWROTEZ5VlFNX3oyRzhZWUlkeXB4OWxuY2Y5cXpuQXJZekZSZzVLa0tXb3lRdHJnNXZkRG1mcDY1UFpGaWRnTkFnZExVVC0tN3k5LV9fS2EzdEFCbmhzLUdXZnBqRUw?oc=5",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "Pankaj Chaudhary set to be next UP BJP president, sole nominee - The Statesman",
+        "source": "The Statesman",
+        "severity": "low",
+        "verified": false,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU183WXVqN29pMk4tT1Y5Rm13T3ZSaENseVEwMW5TRmtWWWRyZDVFNmlEV00xMU02dlM4T00xbk5VbUZIRGtOOTdnbWNnRGxRNUd6RWdSYTZmeTcyOVdKYmxucXVFVG1BMUtZWE5acDc5UXo3ZGtocmZONWlFRGY2M3JxWk1lU3F2MW56Vkg1TklXdDZrRThuN0RvZGJzT0lwTnlEdWxaTVRXSWM2MzA1RGx30gG3AUFVX3lxTFBEVVJlWHlrOU9tdk9WNXBES1Fubk9iY29LeTBLdVZEWnZUd29EYVdlN0xDRGc2ZzBoVFNOVE0wOC1UX3RCNjFRZ1NhSzBjbFBWVXhZWVZVN09xWTRoYVR3cldSSzVwV1BLeU9BV1RxbVJvMGpDVndoM2FBTG1iamEzcVZqWVhZSVpCbW1hSmxoM2pmYW55Ni14MWJoMHpvejBvZTJCMm9PUzV2MkFmNnEzU28tc1FKRQ?oc=5",
+        "sentiment": "neutral"
+      }
+    ],
     "raw_notes": "",
     "sources_consulted": [
       "prs",
       "social_media",
       "news",
-      "mplads"
+      "cag"
     ],
-    "collected_at": "2026-05-21T14:06:05.830871Z",
+    "collected_at": "2026-09-02T17:32:46.200093Z",
     "evidence_summary": {
       "parliament": "C",
-      "accessibility": "D",
-      "mplads": "A"
+      "committees": "E",
+      "legislative": "E",
+      "accessibility": "D"
     },
     "cag_findings": [
       {
@@ -137,7 +193,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.895894Z",
+          "fetched_at": "2026-09-02T18:38:11.467226Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -153,7 +209,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.895903Z",
+          "fetched_at": "2026-09-02T18:38:11.467238Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -169,7 +225,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.895908Z",
+          "fetched_at": "2026-09-02T18:38:11.467243Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -185,7 +241,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.895913Z",
+          "fetched_at": "2026-09-02T18:38:11.467249Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -201,7 +257,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.895917Z",
+          "fetched_at": "2026-09-02T18:38:11.467254Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -217,7 +273,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.895922Z",
+          "fetched_at": "2026-09-02T18:38:11.467259Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -233,7 +289,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.895927Z",
+          "fetched_at": "2026-09-02T18:38:11.467264Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -249,7 +305,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T01:36:53.895931Z",
+          "fetched_at": "2026-09-02T18:38:11.467269Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -287,11 +343,11 @@
       "neutral": 10,
       "top_headlines": [
         {
-          "headline": "Pankaj Chaudhary named new U.P. BJP president - The Hindu",
-          "source": "The Hindu",
+          "headline": "MP Pankaj Chaudhary Elected BJP Uttar Pradesh President - News On AIR",
+          "source": "News On AIR",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN2plQ1lzTVlyc0ExV0NqX2xVSnFDZExfTmNpVTBjNGhtemZscHJtaGNMZ1hGZVBnM0pVRmRmemFLZmNYdExlZHF5WmVfQ2Z2RU55ZGhlc0theFBhd19TSm1rendDM3hPRHo5X3NlVkxWNGZVQlc4V2g3U0U4Y290OXJWcExzSXZmT05PbnFZX2EtWk5qbUYwd2NOZi16VVF6elR2XzBCN2FVMm5yXzRaV0JQcm45RDBPa191U19kdFlvemZXdmdmR3IwdkJ1SnluZ0VhX0d2UVRkZ9IB4AFBVV95cUxOOTJsclRYbGVnQ3g1VlF0TmlaTnI5Y3FCYjZFMWJTcFZySmNURGVnWXBTNGROU1lvRGo0anZsQ1FfQldDbzRIQW8wa0o3bGRvemJlTEYxMTFNeHJmUFhXYTBna3hMYlZUbjRVLWE1WWNhT01NNmlzc2xmOW16XzFFNlc3blhldDdwc2ZkNmtxakR5MFVZb0FfTHoxT1dBcUdGS1duTHE0UG9tM0xKdUFfMmRDQjg5VUF6UHdXTUN3YTZEdGxqSldsVXRsY1NFRDgzS1VSQW82U2hZbHRwX3dRZg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzhhQjFxVGIzWFdNTGFvT1dUaXF1NW5vQ0tHSDVHLWlJSkUxRkQzeFAwM1YtQko3WWRsYXY2NnBObEpwbWtNbFBsNlpHNTNzQngwRzY4TV9zck56UDlra1BuOXV1OEQycGxVRklvajcwY1JLS042ZGhmem5kQlY1VHlRbGV6S3Vs?oc=5",
           "sentiment": "neutral"
         },
         {
@@ -303,27 +359,27 @@
           "sentiment": "neutral"
         },
         {
-          "headline": "पंकज चौधरी बने यूपी BJP के नए अध्यक्ष... स्वस्ति वाचन, शंखनाद और डमरू वादन से गूंजा पार्टी दफ्तर - AajTak",
-          "source": "AajTak",
+          "headline": "Shri Pankaj Chaudhary takes charge as Minister of State in the Ministry of Finance - pib.gov.in",
+          "source": "pib.gov.in",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRXlEVkVuejFwWlkzNk5XZFBCUVhBR1hlSC1RRnVsUkJMcUkwZGJ3bDhxLU5Cc0dLdWptWnBIWm5nRkJhM1RESlpyTjdpN3kycWk1LUFWVFNfc2Z4b2JjRzhoeGpKYXRCY2w1NXJWZ2MxeGJaRkk1SkpqdXhQRGZLUEZtQ0ZSRlp5RkJjenM4SXFHaER5WndLbXUxVU1MX09XdHIyV3M1b1VIODJzOFkxLUM4d3VEUi01dnRPYjlRNDg2Q2NtX2pNY3h2Sk9KYmM4ZDFyRG1OdFNwbFZ6bTVid3YxeE5FWFpwLTc5UFByRnQ1MXQweFBrUmN4Z1rSAYICQVVfeXFMTWZqVUZxUGJKdnlvLXhiUUV1cEdEMU55WlI4eHFXZ2h0c3JSSEN5a1c1WUZVQ00yTnlUcjlzMjQ2c29uLVNtM1k1T21tdVBNUExRRnJBQnhYVXpSeUlnWmhTT0tvTTkyZEJQSVNrcVdfTnNPbHBobTBvTlZVNzlqQko5OWozV0dCeDdZa3hZc0RmSHpYVmZGaVUxYXdTNGZkZURtWmpoejFxOVV6T2xRZ3lJRFRqaEk3MWN3bC1KWWU4a0ljT1VuZ2I2LXg1dHg1NXVKRUM1T095clJ2WGlDV0ZJemlFTzdoNmM0WHdfMnhyTVVCR2NYblNZMFBEaDFacFFn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oTVNBRFppR29mR2xSZVBnYU5CaTFBOTJlRWhkaXJnUUJOVWgyN0hkNzF6b2NaVFgzODRKbi1oUHNmZ1hET1NOa2gwRzBTUGkyTkJ0czRYWVF4allrUjB3cG1ib0o4NDRNZGc?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "UP BJP gets a new president: Meet Pankaj Chaudhary, veteran Kurmi leader the party is betting on - The Indian Express",
-          "source": "The Indian Express",
+          "headline": "Who Is Pankaj Chaudhary, The Likely New Chief Of Uttar Pradesh BJP? - ETV Bharat",
+          "source": "ETV Bharat",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3Z6VmNrb0dEcXFvNU9sRnJmRnBnWmZlU2JFTmw4UGhwUjMxUTN3RzBPQVd5Y2xLdS1xcWFxZWFqME1aOGNzdGdhREZxaDRKUWlka0dBTEtGREdOWkRDelkxVkxqTXlTY1lUdm5ZWC1fdElmZHYzc2JOd3BhbkZwcUJCTW01aHdqSmx0QVpoS28zZG4tMndjUWxMSG14M24wN2loS3d0NzVRZktvclFfeUJzZ9IBugFBVV95cUxPWHlELUtKaVpmZElLWGFFQU5tcHVMZlA1TjNzLUUzM2JRblV4SUwwT0tFc1BOSk1zZ1FINTNmQnJpUUpBNm1ZeTRwRGdBQVNKeHFCZ3pub3J4aDkyQ3hndndhWmdfYXBXRXJWWTlvcnhkVlplV2s4TkpnVy1zaHRDbzV0X0RvblR2LThnUHpDcUhRWlZfQXdnU182QXpZYk16dzF5cEdGcUlSaHVva2pQd0FEcWs4T083cWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTgtVzVxd3NIWmtlbzVDWVFTaExMMnJreHM1czZXNjVLVXAtWjdNSk1FZ0pjdzMzbFVqbFVqd28tbVpicURqbVIzZE1zYTJDLUVkRXhTV1FDekJ6WGJkY2ZjdlVrV19QYXBDemxEbURoS0g1Z2txU09KVFpwd0hDR2VPRFFsZGtpUWNGSlZiVmtnZU53ZzlxN2Q5QXo4dXY2Q25CRW02UUo0NUJHdHlORklvTjZwdUXSAbwBQVVfeXFMTTY2TjQySVZwNW5rek4yT3ZjMFRiODF6N19FMzd0OUZOMVVoX09HTVF5UHpscU5lY1FnbTRiOFBTLUZ6OUNEREJNd2F3MVhMOEJwVlVOZE5MVE11TWg1SWROTEZ5VlFNX3oyRzhZWUlkeXB4OWxuY2Y5cXpuQXJZekZSZzVLa0tXb3lRdHJnNXZkRG1mcDY1UFpGaWRnTkFnZExVVC0tN3k5LV9fS2EzdEFCbmhzLUdXZnBqRUw?oc=5",
           "sentiment": "neutral"
         },
         {
-          "headline": "Uttar Pradesh: BJP unanimously elects Pankaj Chaudhary state president; who is he? - The Times of India",
-          "source": "The Times of India",
+          "headline": "Pankaj Chaudhary set to be next UP BJP president, sole nominee - The Statesman",
+          "source": "The Statesman",
           "severity": "low",
           "verified": false,
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZnNIQ3oweU0zTS1xNDI4d1RyN05hTm9OSUNPQmJJbF8zT3U5cTB6QVNCYUJMSFpSd0ZzU0VfV2VKMzFUdUs4YUROc0N5QWNmNEJIWjVxQ0tvaEdERFNkeERxRURzQWVTX1ktbWpCMG5ZTFJiSGN5ekNiTXJGZll4UVdndTVQYWF4RlF0UlhmOWsyN1hYVWlIQlpwN3hpT3d3UjNCWkE0UFpTQzhXbG4zbjZQOUlkd3lkSUdzZlc0M2lDZzFBRGk2YWhZUWtkWmpVQW1oT1RBM1pNZi1DS0hwZdIB5gFBVV95cUxNbHprVXlrLWpCRjhwQnpiZ1J5RWMtR1RfZzAyTkhONDA2NGxXTEl6WG5HQlVhZDIzYWlIbjVKUEVJRWtnQklHM3hRTEZlSVk5UmtTMUhSMjg0cDA0Z2tVaGNhODRjYkMzVXVkMnBfaVZvTGJ3aFIydUdWLUg0T3NsR2ZRbHlENktQQkNQWXRVWVlBOTE1UDlvUGgtUFYydnQ1ZU15Mnhtand2VVU3eDJjdVZMeEoxRzhJVTVwOTBTOVhKNlo3Rzl4aVRLZ0ZzSnFEeThfX2w5Qk9laGlsd3AtZXpLNHh3UQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU183WXVqN29pMk4tT1Y5Rm13T3ZSaENseVEwMW5TRmtWWWRyZDVFNmlEV00xMU02dlM4T00xbk5VbUZIRGtOOTdnbWNnRGxRNUd6RWdSYTZmeTcyOVdKYmxucXVFVG1BMUtZWE5acDc5UXo3ZGtocmZONWlFRGY2M3JxWk1lU3F2MW56Vkg1TklXdDZrRThuN0RvZGJzT0lwTnlEdWxaTVRXSWM2MzA1RGx30gG3AUFVX3lxTFBEVVJlWHlrOU9tdk9WNXBES1Fubk9iY29LeTBLdVZEWnZUd29EYVdlN0xDRGc2ZzBoVFNOVE0wOC1UX3RCNjFRZ1NhSzBjbFBWVXhZWVZVN09xWTRoYVR3cldSSzVwV1BLeU9BV1RxbVJvMGpDVndoM2FBTG1iamEzcVZqWVhZSVpCbW1hSmxoM2pmYW55Ni14MWJoMHpvejBvZTJCMm9PUzV2MkFmNnEzU28tc1FKRQ?oc=5",
           "sentiment": "neutral"
         }
       ],
@@ -373,7 +429,7 @@
       "question_sectors": [],
       "overlaps": [],
       "severity": "none",
-      "analysis_notes": "",
+      "analysis_notes": "Simplified analysis - full cross-referencing requires detailed business data",
       "confidence": 0.0
     },
     "attendance_pattern": {
@@ -404,8 +460,26 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.43,
+  "overall_confidence": 0.07,
   "flags": [
+    {
+      "field": "criminal_record",
+      "issue": "Low confidence in criminal data — source may be unavailable",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "assets",
+      "issue": "Low confidence in asset data",
+      "severity": "warning",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "Low confidence in MPLADS data",
+      "severity": "warning",
+      "suggestion": ""
+    },
     {
       "field": "parliament_activity",
       "issue": "Low confidence in parliament activity data",
@@ -425,12 +499,18 @@
       "suggestion": ""
     },
     {
+      "field": "evidence_quality",
+      "issue": "Majority of data sources (3/4) are Grade D or E",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
       "field": "mplads",
       "issue": "CAG audit context for Uttar Pradesh: 8 relevant findings",
       "severity": "info",
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 419,010,509. MPLADS utilization: 63.3%. Low confidence data: Parliament activity. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T01:36:53.896689Z"
+  "cross_reference_notes": "No criminal cases declared. Low confidence data: Criminal record, Assets, MPLADS, Parliament activity. 4 warning(s) noted.",
+  "validated_at": "2026-09-02T18:38:11.467971Z"
 }

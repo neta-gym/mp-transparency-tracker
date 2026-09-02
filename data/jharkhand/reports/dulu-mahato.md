@@ -4,31 +4,31 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
+**Data Confidence:** Low (21%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 37.7 / 100
+## Composite Transparency Score: 54.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
-| MPLADS Fund Utilization | 22.1 | 25% |
-| Asset Growth | 40.0 | 15% |
-| Criminal Record | 0.0 | 15% |
+| MPLADS Fund Utilization | 40.0 | 25% |
+| Asset Growth | 45.0 | 15% |
+| Criminal Record | 45.0 | 15% |
 | Parliament Attendance | 90.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
-| Public Accessibility | 15.0 | 5% |
+| Public Accessibility | 85.0 | 5% |
 | Legislative Effectiveness | 40.0 | 10% |
 
 ---
 
 ## Criminal Record
 
-- **Total Cases:** 22
+- **Total Cases:** 0
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 22
+- **Pending Cases:** 0
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -36,24 +36,23 @@
 
 ## Asset Declaration
 
-- **Movable Assets:** Rs 0
-- **Immovable Assets:** Rs 0
-- **Total Assets:** Rs 7.01 Crore
-- **Liabilities:** Rs 17.23 Crore
-- **Net Worth:** Rs -102,163,334
+- **Movable Assets:** N/A
+- **Immovable Assets:** N/A
+- **Total Assets:** N/A
+- **Liabilities:** N/A
+- **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 48% of Lok Sabha MPs
 
 ---
 
 ## MPLADS Fund Utilization
 
-- **Entitled:** Rs 15
-- **Released:** Rs 15
-- **Sanctioned:** Rs 6
-- **Expended:** Rs 4
-- **Utilization Rate:** 27.6%
+- **Entitled:** N/A
+- **Released:** N/A
+- **Sanctioned:** N/A
+- **Expended:** N/A
+- **Utilization Rate:** N/A
 
 ---
 
@@ -67,6 +66,19 @@
 
 ---
 
+## Public Accessibility
+
+- **Platforms:** 3
+
+
+| Platform | Handle | Verified | Active |
+|----------|--------|----------|--------|
+| Twitter | [@https://x.com/dhullu_mahto](https://x.com/https://x.com/dhullu_mahto) | No | Yes |
+| Facebook | [@https://www.facebook.com/dhullumahto/](https://facebook.com/https://www.facebook.com/dhullumahto/) | No | Yes |
+| Instagram | [@https://www.instagram.com/dhullu_mahto/](https://instagram.com/https://www.instagram.com/dhullu_mahto/) | No | Yes |
+
+---
+
 ## In The News
 
 *Mixed/neutral coverage (10 articles)*
@@ -74,29 +86,43 @@
 - **Total Articles:** 10
 - **Positive:** 0 | **Negative:** 0 | **Neutral:** 10
 
-- Jharkhand MLA Accuses MP Dulu Mahto of Rs 40,000 Crore Benami Property, Supreme Court Orders Probe - The Times of India (The Times of India) [neutral]
+- Dhanbad MP, Nirsa MLA trade charges over coal mining, devpt - The Times of India (The Times of India) [neutral]
+- Dhanbad MP Dulu Mahato sends Rs 2 crore defamation notice to Nirsa MLA Arup Chatterjee - The Times of India (The Times of India) [neutral]
 - MP Dulu Mahato intervenes: Dhanbad MP Dulu Mahato faces backlash for stopping anti-encroachment drive; Pr - The Times of India (The Times of India) [neutral]
-- Dhanbad Civic Elections: BJP Ramps Up Campaign for Mayoral Candidate Sanjiv Kumar - The Times of India (The Times of India) [neutral]
-- Strongman Suryadeo Singh’s legacy to BJP’s Dhullu Mahto, Dhanbad politics remains in grip of crime - ThePrint (ThePrint) [neutral]
-- Dhanbad lok sabha election results 2024: Dhanbad Winning Candidates List and Vote Share - India Today (India Today) [neutral]
+- Why opposition to BJP’s pick of Dhullu Mahto as Dhanbad candidate is boiling over in Jharkhand - ThePrint (ThePrint) [neutral]
+- Lok Sabha polls 2024: BJP shields it’s Dhanbad nominee Dhullu Mahato - jharkhandstatenews.com (jharkhandstatenews.com) [neutral]
+
+---
+
+## News & Allegations
+
+- ! **Dhanbad MP, Nirsa MLA trade charges over coal mining, devpt - The Times of India** (The Times of India)
+- ! **Dhanbad MP Dulu Mahato sends Rs 2 crore defamation notice to Nirsa MLA Arup Chatterjee - The Times of India** (The Times of India)
+- ! **MP Dulu Mahato intervenes: Dhanbad MP Dulu Mahato faces backlash for stopping anti-encroachment drive; Pr - The Times of India** (The Times of India)
+- ! **Why opposition to BJP’s pick of Dhullu Mahto as Dhanbad candidate is boiling over in Jharkhand - ThePrint** (ThePrint)
+- ! **Lok Sabha polls 2024: BJP shields it’s Dhanbad nominee Dhullu Mahato - jharkhandstatenews.com** (jharkhandstatenews.com)
 
 ---
 
 ## Data Validation Flags
 
+- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
+- [!] **assets**: Low confidence in asset data
+- [!] **mplads**: Low confidence in MPLADS data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
+- [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
 - [i] **mplads**: CAG audit context for Jharkhand: 7 relevant findings
 
 ---
 
 ## Qualitative Assessment
 
-Dulu Mahato has a below-average transparency score of 37.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dulu Mahato shows moderate transparency with a score of 54.5/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 
-Has 22 criminal case(s) (0 serious), 22 pending, 0 conviction(s). Declared assets: Rs 70,120,183. MPLADS utilization: 27.6%. Parliament attendance: 90.0%. Questions asked: 34. Debates participated: 10.
+No criminal cases declared. Parliament attendance: 90.0%. Questions asked: 34. Debates participated: 10. Low confidence data: Criminal record, Assets, MPLADS. 3 warning(s) noted.
 
 ---
 
@@ -136,7 +162,7 @@ Has 22 criminal case(s) (0 serious), 22 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 01/09/2026
+Date: 02/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
@@ -215,8 +241,6 @@ Yours faithfully,
 Enclosure: IPO/DD/Postal Order of Rs 10/- (Application Fee)
 
 
-[Note: As per publicly available data, the following figures have been reported for Dulu Mahato's MPLADS account: Released: Rs 15, Expended: Rs 4, Utilization: 27.6%. This RTI seeks to verify and supplement this data.]
-
 ---
 Generated by MP Transparency Tracker (https://github.com/example/mp-transparency-tracker)
 This is a template. Please review and customize before submission.
@@ -234,10 +258,11 @@ Time limit: PIO must respond within 30 days of receipt.
 | Component | Source | Evidence Grade |
 |-----------|--------|---------------|
 | Accessibility | social_media | Secondary (D) |
-| Mplads | esakshi | Authoritative (A) |
+| Committees | sansad | LLM/Estimated (E) |
+| Legislative | sansad | LLM/Estimated (E) |
 | Parliament | prs | Third-party (C) |
 
 ---
 
-*Sources consulted: prs, social_media, news, mplads*
+*Sources consulted: prs, social_media, news, cag*
 *Methodology version: 3.0 (8 scoring dimensions)*
