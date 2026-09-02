@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.1 / 100
+## Composite Transparency Score: 62.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -118,7 +118,7 @@
 
 ## Qualitative Assessment
 
-Manoj Kumar shows moderate transparency with a score of 59.1/100. Minor criminal cases on record. High parliament attendance.
+Manoj Kumar shows moderate transparency with a score of 62.4/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 

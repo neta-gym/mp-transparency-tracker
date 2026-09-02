@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 42.1 / 100
+## Composite Transparency Score: 42.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -109,7 +109,7 @@
 
 ## Qualitative Assessment
 
-Balashowry Vallabhaneni has a below-average transparency score of 42.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Balashowry Vallabhaneni has a below-average transparency score of 42.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

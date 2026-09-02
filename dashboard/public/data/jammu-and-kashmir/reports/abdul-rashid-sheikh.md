@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 39.2 / 100
+## Composite Transparency Score: 39.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -121,7 +121,7 @@
 
 ## Qualitative Assessment
 
-Abdul Rashid Sheikh has a below-average transparency score of 39.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Abdul Rashid Sheikh has a below-average transparency score of 39.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

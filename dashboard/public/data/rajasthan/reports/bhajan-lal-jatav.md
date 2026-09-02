@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 51.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-Bhajan Lal Jatav has a below-average transparency score of 49.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bhajan Lal Jatav shows moderate transparency with a score of 51.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

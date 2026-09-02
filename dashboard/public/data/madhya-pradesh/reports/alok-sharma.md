@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.3 / 100
+## Composite Transparency Score: 50.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -110,7 +110,7 @@
 
 ## Qualitative Assessment
 
-Alok Sharma has a below-average transparency score of 49.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Alok Sharma shows moderate transparency with a score of 50.9/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

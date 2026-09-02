@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 38.7 / 100
+## Composite Transparency Score: 38.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -155,7 +155,7 @@
 
 ## Qualitative Assessment
 
-Mohite Patil Dhairyasheel Rajsinh has a below-average transparency score of 38.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Mohite Patil Dhairyasheel Rajsinh has a below-average transparency score of 38.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

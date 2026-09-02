@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 43.2 / 100
+## Composite Transparency Score: 43.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -111,7 +111,7 @@
 
 ## Qualitative Assessment
 
-Kinjarapu Rammohan Naidu has a below-average transparency score of 43.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Kinjarapu Rammohan Naidu has a below-average transparency score of 43.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

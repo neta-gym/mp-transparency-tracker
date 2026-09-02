@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.2 / 100
+## Composite Transparency Score: 55.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Vijay Kumar Hansdak shows moderate transparency with a score of 53.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Vijay Kumar Hansdak shows moderate transparency with a score of 55.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

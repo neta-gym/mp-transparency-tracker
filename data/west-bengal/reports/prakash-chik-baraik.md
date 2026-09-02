@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 51.4 / 100
+## Composite Transparency Score: 53.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -79,7 +79,7 @@
 
 ## Qualitative Assessment
 
-Prakash Chik Baraik shows moderate transparency with a score of 51.4/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Prakash Chik Baraik shows moderate transparency with a score of 53.4/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

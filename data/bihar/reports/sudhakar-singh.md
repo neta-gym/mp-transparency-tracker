@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.6 / 100
+## Composite Transparency Score: 61.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Sudhakar Singh shows moderate transparency with a score of 58.6/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
+Sudhakar Singh shows moderate transparency with a score of 61.9/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
 
 ---
 

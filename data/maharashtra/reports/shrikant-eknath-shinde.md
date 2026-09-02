@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 61.0 / 100
+## Composite Transparency Score: 61.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -124,7 +124,7 @@
 
 ## Qualitative Assessment
 
-Shrikant Eknath Shinde shows moderate transparency with a score of 61.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Shrikant Eknath Shinde shows moderate transparency with a score of 61.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.2 / 100
+## Composite Transparency Score: 50.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -105,7 +105,7 @@
 
 ## Qualitative Assessment
 
-G Lakshminarayana has a below-average transparency score of 49.2/100, indicating significant room for improvement. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+G Lakshminarayana shows moderate transparency with a score of 50.9/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

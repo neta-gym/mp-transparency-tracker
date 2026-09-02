@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 44.2 / 100
+## Composite Transparency Score: 41.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -123,7 +123,7 @@
 
 ## Qualitative Assessment
 
-Nishikant Dubey has a below-average transparency score of 44.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Nishikant Dubey has a below-average transparency score of 41.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

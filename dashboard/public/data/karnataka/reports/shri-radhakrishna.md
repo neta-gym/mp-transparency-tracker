@@ -10,7 +10,7 @@
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 54.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -98,7 +98,7 @@
 
 ## Qualitative Assessment
 
-Shri  Radhakrishna shows moderate transparency with a score of 52.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Shri  Radhakrishna shows moderate transparency with a score of 54.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 

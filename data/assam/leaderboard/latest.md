@@ -1,29 +1,29 @@
 # MP Transparency Leaderboard — Assam
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 20 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 20 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | RS | Pabitra Margherita | Rajya Sabha (Assam) | Bharatiya Janata Party | 66.2 | 50% | Clean record, Low fund utilization, High attendance |
-| 2 | RS | Birendra Prasad Baishya | Rajya Sabha (Assam) | Asom Gana Parishad | 64.3 | 50% | Clean record, Low fund utilization, High attendance |
-| 3 | LS | Kripanath Mallah | Karimganj | Bharatiya Janata Party | 63.6 | 60% | Clean record, Low fund utilization, High attendance |
-| 4 | RS | Rwngwra Narzary | Rajya Sabha (Assam) | UNITED PEOPLES PARTY (LIBERAL) | 63.0 | 50% | Clean record, Low fund utilization, High attendance |
-| 5 | RS | Kanad Purkayastha | Rajya Sabha (Assam) | Bharatiya Janata Party | 62.4 | 50% | Clean record, Low fund utilization, High attendance |
-| 6 | LS | Amarsing Tisso | Diphu | Bharatiya Janata Party | 62.1 | 65% | Clean record, Low fund utilization, High attendance |
-| 7 | LS | Rakibul Hussain | Dhubri | Indian National Congress | 62.0 | 60% | Clean record, Low fund utilization, High attendance |
-| 8 | RS | Jogen Mohan | Rajya Sabha (Assam) | Bharatiya Janata Party | 61.5 | 50% | Clean record, Low fund utilization, High attendance |
-| 9 | RS | Pramod Boro | Rajya Sabha (Assam) | UNITED PEOPLES PARTY (LIBERAL) | 61.5 | 50% | Clean record, Low fund utilization, High attendance |
-| 10 | LS | Bijuli Kalita Medhi | Guwahati | Bharatiya Janata Party | 61.3 | 51% | Clean record, Low fund utilization, High attendance |
-| 11 | LS | Dilip Saikia | Darrang Udalguri | Bharatiya Janata Party | 61.0 | 51% | Clean record, Low fund utilization, High attendance |
-| 12 | LS | Gaurav Gogoi | Jorhat | Indian National Congress | 58.7 | 52% | Low fund utilization, High attendance |
-| 13 | LS | Joyanta Basumatary | Kokrajhar | United Peoples Party, Liberal | 58.5 | 61% | Low fund utilization, High attendance |
-| 14 | LS | Pradan Baruah | Lakhimpur | Bharatiya Janata Party | 58.0 | 51% | Clean record, Low fund utilization, High attendance |
-| 15 | LS | Ranjit Dutta | Sonitpur | Bharatiya Janata Party | 56.3 | 51% | Clean record, Low fund utilization, High attendance |
-| 16 | LS | Kamakhya Prasad Tasa | Kaziranga | Bharatiya Janata Party | 55.5 | 51% | Clean record, Low fund utilization, High attendance |
-| 17 | LS | Parimal Suklabaidya | Silchar | Bharatiya Janata Party | 55.2 | 60% | Clean record, Low fund utilization, High attendance |
-| 18 | LS | Sarbananda Sonowal | Dibrugarh | Bharatiya Janata Party | 52.4 | 47% | Clean record, Low fund utilization |
-| 19 | LS | Phani Bhusan Choudhury | Barpeta | Asom Gana Parishad | 51.3 | 52% | Low fund utilization, High attendance |
-| 20 | RS | Terash Gowalla | Rajya Sabha (Assam) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
+| 1 | RS | Pabitra Margherita | Rajya Sabha (Assam) | Bharatiya Janata Party | 70.9 | 50% | Clean record, Low fund utilization, High attendance |
+| 2 | RS | Birendra Prasad Baishya | Rajya Sabha (Assam) | Asom Gana Parishad | 68.6 | 50% | Clean record, Low fund utilization, High attendance |
+| 3 | LS | Kripanath Mallah | Karimganj | Bharatiya Janata Party | 67.8 | 60% | Clean record, Low fund utilization, High attendance |
+| 4 | RS | Rwngwra Narzary | Rajya Sabha (Assam) | UNITED PEOPLES PARTY (LIBERAL) | 67.1 | 50% | Clean record, Low fund utilization, High attendance |
+| 5 | RS | Kanad Purkayastha | Rajya Sabha (Assam) | Bharatiya Janata Party | 66.4 | 50% | Clean record, Low fund utilization, High attendance |
+| 6 | LS | Amarsing Tisso | Diphu | Bharatiya Janata Party | 66.0 | 65% | Clean record, Low fund utilization, High attendance |
+| 7 | LS | Rakibul Hussain | Dhubri | Indian National Congress | 65.9 | 60% | Clean record, Low fund utilization, High attendance |
+| 8 | RS | Jogen Mohan | Rajya Sabha (Assam) | Bharatiya Janata Party | 65.3 | 50% | Clean record, Low fund utilization, High attendance |
+| 9 | RS | Pramod Boro | Rajya Sabha (Assam) | UNITED PEOPLES PARTY (LIBERAL) | 65.3 | 50% | Clean record, Low fund utilization, High attendance |
+| 10 | LS | Bijuli Kalita Medhi | Guwahati | Bharatiya Janata Party | 65.0 | 51% | Clean record, Low fund utilization, High attendance |
+| 11 | LS | Dilip Saikia | Darrang Udalguri | Bharatiya Janata Party | 64.7 | 51% | Clean record, Low fund utilization, High attendance |
+| 12 | LS | Gaurav Gogoi | Jorhat | Indian National Congress | 62.0 | 52% | Low fund utilization, High attendance |
+| 13 | LS | Joyanta Basumatary | Kokrajhar | United Peoples Party, Liberal | 61.8 | 61% | Low fund utilization, High attendance |
+| 14 | LS | Pradan Baruah | Lakhimpur | Bharatiya Janata Party | 61.2 | 51% | Clean record, Low fund utilization, High attendance |
+| 15 | LS | Ranjit Dutta | Sonitpur | Bharatiya Janata Party | 59.2 | 51% | Clean record, Low fund utilization, High attendance |
+| 16 | LS | Kamakhya Prasad Tasa | Kaziranga | Bharatiya Janata Party | 58.3 | 51% | Clean record, Low fund utilization, High attendance |
+| 17 | LS | Parimal Suklabaidya | Silchar | Bharatiya Janata Party | 57.9 | 60% | Clean record, Low fund utilization, High attendance |
+| 18 | LS | Sarbananda Sonowal | Dibrugarh | Bharatiya Janata Party | 54.6 | 47% | Clean record, Low fund utilization |
+| 19 | LS | Phani Bhusan Choudhury | Barpeta | Asom Gana Parishad | 53.3 | 52% | Low fund utilization, High attendance |
+| 20 | RS | Terash Gowalla | Rajya Sabha (Assam) | Bharatiya Janata Party | 49.4 | 37% | Clean record, Low fund utilization |
 
 ### Score Breakdown
 

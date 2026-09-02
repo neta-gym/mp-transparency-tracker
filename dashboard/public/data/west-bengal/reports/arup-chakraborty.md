@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 48.3 / 100
+## Composite Transparency Score: 49.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Arup Chakraborty has a below-average transparency score of 48.3/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Arup Chakraborty has a below-average transparency score of 49.8/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

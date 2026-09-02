@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 45.9 / 100
+## Composite Transparency Score: 46.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-Swami Sachidanand Hari Sakshi has a below-average transparency score of 45.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Swami Sachidanand Hari Sakshi has a below-average transparency score of 46.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 66.2 / 100
+## Composite Transparency Score: 70.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Satish Kumar Gautam shows moderate transparency with a score of 66.2/100. No criminal cases declared. High parliament attendance.
+Satish Kumar Gautam demonstrates strong transparency with an overall score of 70.8/100. No criminal cases declared. High parliament attendance.
 
 ---
 

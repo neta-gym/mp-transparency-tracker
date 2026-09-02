@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 56.9 / 100
+## Composite Transparency Score: 59.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -79,7 +79,7 @@
 
 ## Qualitative Assessment
 
-Sharadchandra Pawar shows moderate transparency with a score of 56.9/100. No criminal cases declared.
+Sharadchandra Pawar shows moderate transparency with a score of 59.9/100. No criminal cases declared.
 
 ---
 

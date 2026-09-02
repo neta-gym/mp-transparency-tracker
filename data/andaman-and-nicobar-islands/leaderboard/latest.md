@@ -1,10 +1,10 @@
 # MP Transparency Leaderboard — Andaman-And-Nicobar-Islands
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 1 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 1 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Bishnu Pada Ray | Andaman and Nicobar Islands | Bharatiya Janata Party | 54.3 | 51% | Clean record, Low fund utilization, High attendance |
+| 1 | LS | Bishnu Pada Ray | Andaman and Nicobar Islands | Bharatiya Janata Party | 56.8 | 51% | Clean record, Low fund utilization, High attendance |
 
 ### Score Breakdown
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 65.4 / 100
+## Composite Transparency Score: 69.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Vijay Baghel shows moderate transparency with a score of 65.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Vijay Baghel shows moderate transparency with a score of 69.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

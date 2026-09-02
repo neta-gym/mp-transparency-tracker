@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 56.9 / 100
+## Composite Transparency Score: 59.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Mala Rajya Laxmi Shah shows moderate transparency with a score of 56.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mala Rajya Laxmi Shah shows moderate transparency with a score of 59.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

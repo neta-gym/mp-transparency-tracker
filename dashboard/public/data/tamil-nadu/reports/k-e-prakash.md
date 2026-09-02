@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 63.7 / 100
+## Composite Transparency Score: 67.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-K E Prakash shows moderate transparency with a score of 63.7/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+K E Prakash shows moderate transparency with a score of 67.9/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 

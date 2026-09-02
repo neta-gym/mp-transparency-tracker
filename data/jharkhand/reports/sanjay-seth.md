@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 56.8 / 100
+## Composite Transparency Score: 59.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Sanjay Seth shows moderate transparency with a score of 56.8/100. Minor criminal cases on record.
+Sanjay Seth shows moderate transparency with a score of 59.7/100. Minor criminal cases on record.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.4 / 100
+## Composite Transparency Score: 53.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Abhishek Banerjee shows moderate transparency with a score of 51.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
+Abhishek Banerjee shows moderate transparency with a score of 53.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 

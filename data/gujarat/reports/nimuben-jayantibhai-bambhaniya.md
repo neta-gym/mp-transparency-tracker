@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.4 / 100
+## Composite Transparency Score: 55.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -111,7 +111,7 @@
 
 ## Qualitative Assessment
 
-Nimuben Jayantibhai Bambhaniya shows moderate transparency with a score of 53.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Nimuben Jayantibhai Bambhaniya shows moderate transparency with a score of 55.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

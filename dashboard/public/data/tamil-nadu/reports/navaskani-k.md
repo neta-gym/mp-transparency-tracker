@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 66.7 / 100
+## Composite Transparency Score: 67.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -127,7 +127,7 @@
 
 ## Qualitative Assessment
 
-Navaskani K shows moderate transparency with a score of 66.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Navaskani K shows moderate transparency with a score of 67.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

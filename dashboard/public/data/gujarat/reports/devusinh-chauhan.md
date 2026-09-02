@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.0 / 100
+## Composite Transparency Score: 65.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Devusinh Chauhan shows moderate transparency with a score of 62.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Devusinh Chauhan shows moderate transparency with a score of 65.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

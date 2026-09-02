@@ -1,33 +1,33 @@
 # MP Transparency Leaderboard — Telangana
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 24 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 24 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Chamala Kiran Kumar Reddy | Bhongir | Indian National Congress | 61.5 | 61% | Low fund utilization, High attendance |
-| 2 | LS | Vamsi Krishna Gaddam | Peddapalle | Indian National Congress | 58.6 | 60% | Clean record, Low fund utilization, High attendance |
-| 3 | RS | Abhishek Manu Singhvi | Rajya Sabha (Telangana) | Indian National Congress | 56.4 | 50% | Clean record, Low fund utilization |
-| 4 | LS | Kadiyam Kavya | Warangal | Indian National Congress | 55.7 | 60% | Clean record, Low fund utilization |
-| 5 | LS | Godam Nagesh | Adilabad | Bharatiya Janata Party | 55.0 | 52% | Low fund utilization, High attendance |
-| 6 | RS | Renuka Chowdhury | Rajya Sabha (Telangana) | Indian National Congress | 52.0 | 50% | Significant criminal cases, Low fund utilization, High attendance |
-| 7 | RS | Damodar Rao Divakonda | Rajya Sabha (Telangana) | Bharat Rashtra Samithi | 51.5 | 50% | Low fund utilization |
-| 8 | LS | Ramasahayam Raghuram Reddy | Khammam | Indian National Congress | 51.5 | 52% | Low fund utilization |
-| 9 | LS | G Kishan Reddy | Secunderabad | Bharatiya Janata Party | 50.8 | 47% | Clean record, Low fund utilization |
-| 10 | LS | Suresh Kumar Shetkar | Zahirabad | Indian National Congress | 50.8 | 52% | Low fund utilization |
-| 11 | RS | B. Parthasaradhi Reddy | Rajya Sabha (Telangana) | Bharat Rashtra Samithi | 50.4 | 50% | Low fund utilization |
-| 12 | RS | Vem Narendar Reddy | Rajya Sabha (Telangana) | Indian National Congress | 49.0 | 24% | Clean record |
-| 13 | LS | Konda Vishweshwar Reddy | Chevella | Bharatiya Janata Party | 47.8 | 52% | Significant criminal cases, Low fund utilization, High attendance |
-| 14 | LS | D K Aruna | Mahbubnagar | Bharatiya Janata Party | 47.5 | 52% | Significant criminal cases, Low fund utilization, High attendance |
-| 15 | LS | Asaduddin Owaisi | Hyderabad | All India Majlis-E-Ittehadul Muslimeen | 46.3 | 52% | Low fund utilization, High attendance |
-| 16 | RS | Anil Kumar Yadav Mandadi | Rajya Sabha (Telangana) | Indian National Congress | 45.8 | 50% | Significant criminal cases, Low fund utilization, High attendance |
-| 17 | LS | Arvind Dharmapuri | Nizamabad | Bharatiya Janata Party | 45.3 | 61% | Significant criminal cases, High attendance |
-| 18 | RS | Ravi Chandra Vaddiraju | Rajya Sabha (Telangana) | Bharat Rashtra Samithi | 43.1 | 50% | Significant criminal cases, Low fund utilization |
-| 19 | LS | Mallu Ravi | Nagarkurnool | Indian National Congress | 41.1 | 52% | Significant criminal cases, Low fund utilization, High attendance |
-| 20 | LS | Balram Naik Porika | Mahabubabad | Indian National Congress | 41.0 | 52% | Significant criminal cases, Low fund utilization |
-| 21 | LS | Madhavaneni Raghunandan Rao | Medak | Bharatiya Janata Party | 40.4 | 61% | Significant criminal cases, Low fund utilization, High attendance |
-| 22 | LS | Kunduru Raghuveer | Nalgonda | Indian National Congress | 39.9 | 52% | Low fund utilization |
-| 23 | LS | Eatala Rajender | Malkajgiri | Bharatiya Janata Party | 35.0 | 52% | Significant criminal cases, Low fund utilization, High attendance |
-| 24 | LS | Bandi Sanjay Kumar | Karimnagar | Bharatiya Janata Party | 32.7 | 39% | Significant criminal cases, Low fund utilization |
+| 1 | LS | Chamala Kiran Kumar Reddy | Bhongir | Indian National Congress | 65.3 | 61% | Low fund utilization, High attendance |
+| 2 | LS | Vamsi Krishna Gaddam | Peddapalle | Indian National Congress | 61.9 | 60% | Clean record, Low fund utilization, High attendance |
+| 3 | RS | Abhishek Manu Singhvi | Rajya Sabha (Telangana) | Indian National Congress | 59.3 | 50% | Clean record, Low fund utilization |
+| 4 | LS | Kadiyam Kavya | Warangal | Indian National Congress | 58.5 | 60% | Clean record, Low fund utilization |
+| 5 | LS | Godam Nagesh | Adilabad | Bharatiya Janata Party | 57.6 | 52% | Low fund utilization, High attendance |
+| 6 | RS | Renuka Chowdhury | Rajya Sabha (Telangana) | Indian National Congress | 54.1 | 50% | Significant criminal cases, Low fund utilization, High attendance |
+| 7 | RS | Damodar Rao Divakonda | Rajya Sabha (Telangana) | Bharat Rashtra Samithi | 53.6 | 50% | Low fund utilization |
+| 8 | LS | Ramasahayam Raghuram Reddy | Khammam | Indian National Congress | 53.6 | 52% | Low fund utilization |
+| 9 | LS | G Kishan Reddy | Secunderabad | Bharatiya Janata Party | 52.7 | 47% | Clean record, Low fund utilization |
+| 10 | LS | Suresh Kumar Shetkar | Zahirabad | Indian National Congress | 52.7 | 52% | Low fund utilization |
+| 11 | RS | B. Parthasaradhi Reddy | Rajya Sabha (Telangana) | Bharat Rashtra Samithi | 52.2 | 50% | Low fund utilization |
+| 12 | RS | Vem Narendar Reddy | Rajya Sabha (Telangana) | Indian National Congress | 50.6 | 24% | Clean record |
+| 13 | LS | Konda Vishweshwar Reddy | Chevella | Bharatiya Janata Party | 49.1 | 52% | Significant criminal cases, Low fund utilization, High attendance |
+| 14 | LS | D K Aruna | Mahbubnagar | Bharatiya Janata Party | 48.8 | 52% | Significant criminal cases, Low fund utilization, High attendance |
+| 15 | LS | Asaduddin Owaisi | Hyderabad | All India Majlis-E-Ittehadul Muslimeen | 47.5 | 52% | Low fund utilization, High attendance |
+| 16 | RS | Anil Kumar Yadav Mandadi | Rajya Sabha (Telangana) | Indian National Congress | 46.8 | 50% | Significant criminal cases, Low fund utilization, High attendance |
+| 17 | LS | Arvind Dharmapuri | Nizamabad | Bharatiya Janata Party | 46.2 | 61% | Significant criminal cases, High attendance |
+| 18 | RS | Ravi Chandra Vaddiraju | Rajya Sabha (Telangana) | Bharat Rashtra Samithi | 43.6 | 50% | Significant criminal cases, Low fund utilization |
+| 19 | LS | Mallu Ravi | Nagarkurnool | Indian National Congress | 41.3 | 52% | Significant criminal cases, Low fund utilization, High attendance |
+| 20 | LS | Balram Naik Porika | Mahabubabad | Indian National Congress | 41.1 | 52% | Significant criminal cases, Low fund utilization |
+| 21 | LS | Madhavaneni Raghunandan Rao | Medak | Bharatiya Janata Party | 40.5 | 61% | Significant criminal cases, Low fund utilization, High attendance |
+| 22 | LS | Kunduru Raghuveer | Nalgonda | Indian National Congress | 39.8 | 52% | Low fund utilization |
+| 23 | LS | Eatala Rajender | Malkajgiri | Bharatiya Janata Party | 34.1 | 52% | Significant criminal cases, Low fund utilization, High attendance |
+| 24 | LS | Bandi Sanjay Kumar | Karimnagar | Bharatiya Janata Party | 31.4 | 39% | Significant criminal cases, Low fund utilization |
 
 ### Score Breakdown
 

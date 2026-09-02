@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 57.4 / 100
+## Composite Transparency Score: 60.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Anurag Singh Thakur shows moderate transparency with a score of 57.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Anurag Singh Thakur shows moderate transparency with a score of 60.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

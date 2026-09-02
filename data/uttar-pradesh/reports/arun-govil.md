@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 63.1 / 100
+## Composite Transparency Score: 67.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Arun Govil shows moderate transparency with a score of 63.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Arun Govil shows moderate transparency with a score of 67.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

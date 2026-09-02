@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.6 / 100
+## Composite Transparency Score: 63.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Vinod Kumar Bind shows moderate transparency with a score of 59.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Vinod Kumar Bind shows moderate transparency with a score of 63.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

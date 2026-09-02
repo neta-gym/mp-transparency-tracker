@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.6 / 100
+## Composite Transparency Score: 55.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-D. Purandeswari shows moderate transparency with a score of 53.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+D. Purandeswari shows moderate transparency with a score of 55.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

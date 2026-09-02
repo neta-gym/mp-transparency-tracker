@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.3 / 100
+## Composite Transparency Score: 56.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Bishnu Pada Ray shows moderate transparency with a score of 54.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bishnu Pada Ray shows moderate transparency with a score of 56.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 66.8 / 100
+## Composite Transparency Score: 71.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Delkar Kalaben Mohanbhai shows moderate transparency with a score of 66.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Delkar Kalaben Mohanbhai demonstrates strong transparency with an overall score of 71.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

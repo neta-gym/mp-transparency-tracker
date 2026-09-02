@@ -1,17 +1,17 @@
 # MP Transparency Leaderboard — Uttarakhand
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 8 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 8 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | RS | Mahendra Bhatt | Rajya Sabha (Uttarakhand) | Bharatiya Janata Party | 66.1 | 50% | Clean record, Low fund utilization, High attendance |
-| 2 | RS | Naresh Bansal | Rajya Sabha (Uttarakhand) | Bharatiya Janata Party | 64.9 | 50% | Clean record, Low fund utilization, High attendance |
-| 3 | RS | Kalpana Saini | Rajya Sabha (Uttarakhand) | Bharatiya Janata Party | 64.8 | 50% | Clean record, Low fund utilization, High attendance |
-| 4 | LS | Ajay Bhatt | Nainital-Udhamsingh Nagar | Bharatiya Janata Party | 64.5 | 65% | Clean record, Low fund utilization, High attendance |
-| 5 | LS | Mala Rajya Laxmi Shah | Tehri Garhwal | Bharatiya Janata Party | 56.9 | 52% | Clean record, Low fund utilization, High attendance |
-| 6 | LS | Ajay Tamta | Almora | Bharatiya Janata Party | 55.8 | 56% | Clean record, Low fund utilization |
-| 7 | LS | Anil Baluni | Garhwal | Bharatiya Janata Party | 55.1 | 65% | Clean record, Low fund utilization, High attendance |
-| 8 | LS | Trivendra Singh Rawat | Hardwar | Bharatiya Janata Party | 53.6 | 51% | Clean record, Low fund utilization, High attendance |
+| 1 | RS | Mahendra Bhatt | Rajya Sabha (Uttarakhand) | Bharatiya Janata Party | 70.7 | 50% | Clean record, Low fund utilization, High attendance |
+| 2 | RS | Naresh Bansal | Rajya Sabha (Uttarakhand) | Bharatiya Janata Party | 69.3 | 50% | Clean record, Low fund utilization, High attendance |
+| 3 | RS | Kalpana Saini | Rajya Sabha (Uttarakhand) | Bharatiya Janata Party | 69.1 | 50% | Clean record, Low fund utilization, High attendance |
+| 4 | LS | Ajay Bhatt | Nainital-Udhamsingh Nagar | Bharatiya Janata Party | 68.8 | 65% | Clean record, Low fund utilization, High attendance |
+| 5 | LS | Mala Rajya Laxmi Shah | Tehri Garhwal | Bharatiya Janata Party | 59.8 | 52% | Clean record, Low fund utilization, High attendance |
+| 6 | LS | Ajay Tamta | Almora | Bharatiya Janata Party | 58.5 | 56% | Clean record, Low fund utilization |
+| 7 | LS | Anil Baluni | Garhwal | Bharatiya Janata Party | 57.8 | 65% | Clean record, Low fund utilization, High attendance |
+| 8 | LS | Trivendra Singh Rawat | Hardwar | Bharatiya Janata Party | 56.0 | 51% | Clean record, Low fund utilization, High attendance |
 
 ### Score Breakdown
 

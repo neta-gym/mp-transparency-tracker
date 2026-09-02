@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 41.2 / 100
+## Composite Transparency Score: 41.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Dulu Mahato has a below-average transparency score of 41.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dulu Mahato has a below-average transparency score of 41.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

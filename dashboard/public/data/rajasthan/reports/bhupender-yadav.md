@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 54.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Bhupender Yadav shows moderate transparency with a score of 52.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Bhupender Yadav shows moderate transparency with a score of 54.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

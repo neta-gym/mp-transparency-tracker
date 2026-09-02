@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 61.3 / 100
+## Composite Transparency Score: 65.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Bijuli Kalita Medhi shows moderate transparency with a score of 61.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bijuli Kalita Medhi shows moderate transparency with a score of 65.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

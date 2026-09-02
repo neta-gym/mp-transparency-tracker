@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 62.1 / 100
+## Composite Transparency Score: 66.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -119,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Alfred Kanngam S Arthur shows moderate transparency with a score of 62.1/100. No criminal cases declared. Limited participation in parliamentary proceedings.
+Alfred Kanngam S Arthur shows moderate transparency with a score of 66.0/100. No criminal cases declared. Limited participation in parliamentary proceedings.
 
 ---
 

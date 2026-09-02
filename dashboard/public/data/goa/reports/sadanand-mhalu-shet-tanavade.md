@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 65.8 / 100
+## Composite Transparency Score: 70.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -87,7 +87,7 @@
 
 ## Qualitative Assessment
 
-Sadanand mhalu shet Tanavade shows moderate transparency with a score of 65.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sadanand mhalu shet Tanavade demonstrates strong transparency with an overall score of 70.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

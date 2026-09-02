@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.7 / 100
+## Composite Transparency Score: 63.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Hemang Joshi shows moderate transparency with a score of 59.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Hemang Joshi shows moderate transparency with a score of 63.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

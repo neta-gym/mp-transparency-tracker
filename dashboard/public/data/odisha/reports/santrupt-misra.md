@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 60.9 / 100
+## Composite Transparency Score: 64.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -84,7 +84,7 @@
 
 ## Qualitative Assessment
 
-Santrupt Misra shows moderate transparency with a score of 60.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Santrupt Misra shows moderate transparency with a score of 64.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

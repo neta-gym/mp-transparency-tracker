@@ -1,11 +1,11 @@
 # MP Transparency Leaderboard — Dadra-And-Nagar-Haveli-And-Daman-And-Diu
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 2 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 2 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Delkar Kalaben Mohanbhai | Dadra and Nagar Haveli | Bharatiya Janata Party | 66.8 | 60% | Clean record, Low fund utilization, High attendance |
-| 2 | LS | Patel Umeshbhai Babubhai | Daman and Diu | Independent | 47.0 | 61% | Significant criminal cases, Low fund utilization, High attendance |
+| 1 | LS | Delkar Kalaben Mohanbhai | Dadra and Nagar Haveli | Bharatiya Janata Party | 71.5 | 60% | Clean record, Low fund utilization, High attendance |
+| 2 | LS | Patel Umeshbhai Babubhai | Daman and Diu | Independent | 48.2 | 61% | Significant criminal cases, Low fund utilization, High attendance |
 
 ### Score Breakdown
 

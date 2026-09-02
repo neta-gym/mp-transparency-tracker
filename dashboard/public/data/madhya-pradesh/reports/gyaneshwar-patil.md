@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 61.6 / 100
+## Composite Transparency Score: 65.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Gyaneshwar Patil shows moderate transparency with a score of 61.6/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Gyaneshwar Patil shows moderate transparency with a score of 65.4/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 

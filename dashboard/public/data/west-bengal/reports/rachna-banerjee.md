@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 47.2 / 100
+## Composite Transparency Score: 48.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Rachna Banerjee has a below-average transparency score of 47.2/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
+Rachna Banerjee has a below-average transparency score of 48.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.0 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -117,7 +117,7 @@
 
 ## Qualitative Assessment
 
-C M Ramesh shows moderate transparency with a score of 54.0/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+C M Ramesh shows moderate transparency with a score of 56.5/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

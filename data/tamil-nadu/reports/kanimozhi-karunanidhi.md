@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 56.4 / 100
+## Composite Transparency Score: 59.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@ Investigation Department Police Station CBICG Complex New Delhi | Sec. 7 or 11,1
 
 ## Qualitative Assessment
 
-Kanimozhi Karunanidhi shows moderate transparency with a score of 56.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kanimozhi Karunanidhi shows moderate transparency with a score of 59.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

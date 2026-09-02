@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 53.9 / 100
+## Composite Transparency Score: 56.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -80,7 +80,7 @@
 
 ## Qualitative Assessment
 
-Harivansh shows moderate transparency with a score of 53.9/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Harivansh shows moderate transparency with a score of 56.3/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 34.8 / 100
+## Composite Transparency Score: 33.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -123,7 +123,7 @@
 
 ## Qualitative Assessment
 
-Thanga Tamilselvan has a below-average transparency score of 34.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Thanga Tamilselvan has a below-average transparency score of 33.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

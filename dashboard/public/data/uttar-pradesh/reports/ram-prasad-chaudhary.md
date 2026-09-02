@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.4 / 100
+## Composite Transparency Score: 61.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -123,7 +123,7 @@
 
 ## Qualitative Assessment
 
-Ram Prasad Chaudhary shows moderate transparency with a score of 58.4/100. Significant criminal cases are a concern. High parliament attendance.
+Ram Prasad Chaudhary shows moderate transparency with a score of 61.7/100. Significant criminal cases are a concern. High parliament attendance.
 
 ---
 

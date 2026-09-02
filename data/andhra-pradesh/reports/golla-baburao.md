@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 65.3 / 100
+## Composite Transparency Score: 69.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Golla Baburao shows moderate transparency with a score of 65.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Golla Baburao shows moderate transparency with a score of 69.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

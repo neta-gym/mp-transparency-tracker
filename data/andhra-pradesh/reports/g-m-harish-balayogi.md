@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 55.2 / 100
+## Composite Transparency Score: 57.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -118,7 +118,7 @@
 
 ## Qualitative Assessment
 
-G M Harish Balayogi shows moderate transparency with a score of 55.2/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+G M Harish Balayogi shows moderate transparency with a score of 57.9/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

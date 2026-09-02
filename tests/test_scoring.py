@@ -290,22 +290,22 @@ class TestCompositeFormula:
     """Test that the full composite formula works correctly with 8 dimensions."""
 
     def test_perfect_scores(self):
-        # Weights: mplads=0.20, asset=0.15, criminal=0.20, attendance=0.15,
-        # participation=0.10, committee=0.05, accessibility=0.05, legislative=0.10
-        composite = 100 * 0.20 + 85 * 0.15 + 100 * 0.20 + 100 * 0.15 + 100 * 0.10 + 100 * 0.05 + 100 * 0.05 + 100 * 0.10
-        assert composite == pytest.approx(97.75, abs=0.1)
+        # Weights v3.2: mplads=0.2353, asset=0.1765, criminal=0.2353, attendance=0.1765,
+        # participation=0.1176, committee=0.0, accessibility=0.0588, legislative=0.0
+        composite = 100 * 0.2353 + 85 * 0.1765 + 100 * 0.2353 + 100 * 0.1765 + 100 * 0.1176 + 100 * 0.0 + 100 * 0.0588 + 100 * 0.0
+        assert composite == pytest.approx(97.35, abs=0.1)
 
     def test_worst_scores(self):
-        composite = 0 * 0.20 + 10 * 0.15 + 0 * 0.20 + 0 * 0.15 + 0 * 0.10 + 0 * 0.05 + 15 * 0.05 + 0 * 0.10
-        assert composite == pytest.approx(2.25, abs=0.1)
+        composite = 0 * 0.2353 + 10 * 0.1765 + 0 * 0.2353 + 0 * 0.1765 + 0 * 0.1176 + 0 * 0.0 + 15 * 0.0588 + 0 * 0.0
+        assert composite == pytest.approx(2.65, abs=0.1)
 
     def test_neutral_scores(self):
         # New defaults: mplads=40, asset=45, criminal=100, attendance=45,
         # participation=0, committee=40, accessibility=15, legislative=40
-        composite = 40 * 0.20 + 45 * 0.15 + 100 * 0.20 + 45 * 0.15 + 0 * 0.10 + 40 * 0.05 + 15 * 0.05 + 40 * 0.10
-        # Expected: 8 + 6.75 + 20 + 6.75 + 0 + 2 + 0.75 + 4 = 48.25
-        assert composite == pytest.approx(48.25, abs=0.1)
+        composite = 40 * 0.2353 + 45 * 0.1765 + 100 * 0.2353 + 45 * 0.1765 + 0 * 0.1176 + 40 * 0.0 + 15 * 0.0588 + 40 * 0.0
+        # Expected: 9.412 + 7.9425 + 23.53 + 7.9425 + 0 + 0 + 0.882 + 0 = 49.71
+        assert composite == pytest.approx(49.71, abs=0.1)
 
     def test_weights_sum_to_one(self):
-        total = 0.20 + 0.15 + 0.20 + 0.15 + 0.10 + 0.05 + 0.05 + 0.10
+        total = 0.2353 + 0.1765 + 0.2353 + 0.1765 + 0.1176 + 0.0 + 0.0588 + 0.0
         assert total == pytest.approx(1.0, abs=0.001)

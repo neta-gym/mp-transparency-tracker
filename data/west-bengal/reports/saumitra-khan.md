@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 40.9 / 100
+## Composite Transparency Score: 41.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -134,7 +134,7 @@
 
 ## Qualitative Assessment
 
-Saumitra Khan has a below-average transparency score of 40.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Saumitra Khan has a below-average transparency score of 41.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

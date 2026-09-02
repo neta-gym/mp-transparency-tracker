@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 45.1 / 100
+## Composite Transparency Score: 46.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-S.R. Sivalingam has a below-average transparency score of 45.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+S.R. Sivalingam has a below-average transparency score of 46.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

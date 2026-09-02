@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.2 / 100
+## Composite Transparency Score: 53.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Jitendra Singh shows moderate transparency with a score of 51.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Jitendra Singh shows moderate transparency with a score of 53.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

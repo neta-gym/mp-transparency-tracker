@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 44.1 / 100
+## Composite Transparency Score: 44.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Vijayakumar Alias Vijay Vasanth has a below-average transparency score of 44.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Vijayakumar Alias Vijay Vasanth has a below-average transparency score of 44.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

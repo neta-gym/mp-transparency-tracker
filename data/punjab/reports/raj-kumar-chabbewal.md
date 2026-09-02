@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.6 / 100
+## Composite Transparency Score: 47.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Raj Kumar Chabbewal has a below-average transparency score of 46.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
+Raj Kumar Chabbewal has a below-average transparency score of 47.8/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 

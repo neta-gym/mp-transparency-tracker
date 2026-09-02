@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 57.7 / 100
+## Composite Transparency Score: 60.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -109,7 +109,7 @@
 
 ## Qualitative Assessment
 
-Veena Devi shows moderate transparency with a score of 57.7/100. Minor criminal cases on record. High parliament attendance.
+Veena Devi shows moderate transparency with a score of 60.8/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 

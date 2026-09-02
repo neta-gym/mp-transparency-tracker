@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.8 / 100
+## Composite Transparency Score: 53.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Sanjay Jaiswal shows moderate transparency with a score of 51.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Sanjay Jaiswal shows moderate transparency with a score of 53.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

@@ -1,12 +1,12 @@
 # MP Transparency Leaderboard — Arunachal-Pradesh
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 3 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 3 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Tapir Gao | Arunachal East | Bharatiya Janata Party | 70.6 | 60% | Clean record, High attendance |
-| 2 | LS | Kiren Rijiju | Arunachal West | Bharatiya Janata Party | 57.5 | 38% | Clean record |
-| 3 | RS | Tai Tagak | Rajya Sabha (Arunachal Pradesh) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
+| 1 | LS | Tapir Gao | Arunachal East | Bharatiya Janata Party | 76.1 | 60% | Clean record, High attendance |
+| 2 | LS | Kiren Rijiju | Arunachal West | Bharatiya Janata Party | 60.6 | 38% | Clean record |
+| 3 | RS | Tai Tagak | Rajya Sabha (Arunachal Pradesh) | Bharatiya Janata Party | 49.4 | 37% | Clean record, Low fund utilization |
 
 ### Score Breakdown
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 67.6 / 100
+## Composite Transparency Score: 72.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Rani Srikumar shows moderate transparency with a score of 67.6/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+Rani Srikumar demonstrates strong transparency with an overall score of 72.4/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 54.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Harsh Vardhan Shringla shows moderate transparency with a score of 52.5/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Harsh Vardhan Shringla shows moderate transparency with a score of 54.6/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

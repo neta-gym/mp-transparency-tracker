@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.6 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Dharmendra Yadav shows moderate transparency with a score of 52.6/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dharmendra Yadav shows moderate transparency with a score of 54.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

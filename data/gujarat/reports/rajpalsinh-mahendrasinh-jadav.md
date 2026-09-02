@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 56.4 / 100
+## Composite Transparency Score: 59.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Rajpalsinh Mahendrasinh Jadav shows moderate transparency with a score of 56.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Rajpalsinh Mahendrasinh Jadav shows moderate transparency with a score of 59.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

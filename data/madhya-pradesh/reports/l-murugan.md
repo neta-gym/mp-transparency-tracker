@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 33.8 / 100
+## Composite Transparency Score: 32.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-L. Murugan has a below-average transparency score of 33.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+L. Murugan has a below-average transparency score of 32.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 39.1 / 100
+## Composite Transparency Score: 38.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -113,7 +113,7 @@
 
 ## Qualitative Assessment
 
-Rajmohan Unnithan has a below-average transparency score of 39.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Rajmohan Unnithan has a below-average transparency score of 38.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

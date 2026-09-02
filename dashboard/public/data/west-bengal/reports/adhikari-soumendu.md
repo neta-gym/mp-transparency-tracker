@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 34.7 / 100
+## Composite Transparency Score: 33.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -112,7 +112,7 @@
 
 ## Qualitative Assessment
 
-Adhikari Soumendu has a below-average transparency score of 34.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Adhikari Soumendu has a below-average transparency score of 33.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

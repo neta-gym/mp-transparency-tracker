@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.1 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Rajnath Singh shows moderate transparency with a score of 54.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Rajnath Singh shows moderate transparency with a score of 56.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

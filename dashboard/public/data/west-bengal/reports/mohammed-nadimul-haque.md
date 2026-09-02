@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 63.1 / 100
+## Composite Transparency Score: 67.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Mohammed Nadimul Haque shows moderate transparency with a score of 63.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Mohammed Nadimul Haque shows moderate transparency with a score of 67.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

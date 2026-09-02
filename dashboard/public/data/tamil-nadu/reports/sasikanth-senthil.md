@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 61.6 / 100
+## Composite Transparency Score: 65.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Sasikanth Senthil shows moderate transparency with a score of 61.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Sasikanth Senthil shows moderate transparency with a score of 65.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

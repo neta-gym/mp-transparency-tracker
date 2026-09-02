@@ -1,11 +1,11 @@
 # MP Transparency Leaderboard — Sikkim
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 2 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 2 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Indra Hang Subba | Sikkim | Sikkim Krantikari Morcha | 72.4 | 65% | Clean record, High attendance |
-| 2 | RS | Dorjee Tshering Lepcha | Rajya Sabha (Sikkim) | Bharatiya Janata Party | 66.2 | 50% | Clean record, Low fund utilization, High attendance |
+| 1 | LS | Indra Hang Subba | Sikkim | Sikkim Krantikari Morcha | 78.1 | 65% | Clean record, High attendance |
+| 2 | RS | Dorjee Tshering Lepcha | Rajya Sabha (Sikkim) | Bharatiya Janata Party | 70.9 | 50% | Clean record, Low fund utilization, High attendance |
 
 ### Score Breakdown
 

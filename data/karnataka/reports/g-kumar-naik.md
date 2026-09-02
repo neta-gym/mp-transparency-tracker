@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.9 / 100
+## Composite Transparency Score: 57.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-G Kumar Naik shows moderate transparency with a score of 54.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+G Kumar Naik shows moderate transparency with a score of 57.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

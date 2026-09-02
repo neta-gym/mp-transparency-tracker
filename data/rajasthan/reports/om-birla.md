@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.2 / 100
+## Composite Transparency Score: 47.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Om Birla has a below-average transparency score of 46.2/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Om Birla has a below-average transparency score of 47.3/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

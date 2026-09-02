@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 66.2 / 100
+## Composite Transparency Score: 70.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Pabitra Margherita shows moderate transparency with a score of 66.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Pabitra Margherita demonstrates strong transparency with an overall score of 70.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

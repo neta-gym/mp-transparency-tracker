@@ -1,10 +1,10 @@
 # MP Transparency Leaderboard — Chandigarh
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 1 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 1 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Manish Tewari | Chandigarh | Indian National Congress | 67.9 | 65% | Clean record, Low fund utilization, High attendance, Legislative initiative |
+| 1 | LS | Manish Tewari | Chandigarh | Indian National Congress | 69.3 | 65% | Clean record, Low fund utilization, High attendance, Legislative initiative |
 
 ### Score Breakdown
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.2 / 100
+## Composite Transparency Score: 56.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Vivek Thakur shows moderate transparency with a score of 54.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Vivek Thakur shows moderate transparency with a score of 56.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

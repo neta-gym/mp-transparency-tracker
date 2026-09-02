@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 41.3 / 100
+## Composite Transparency Score: 41.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Dr. S Jagathratchakan has a below-average transparency score of 41.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Dr. S Jagathratchakan has a below-average transparency score of 41.5/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 

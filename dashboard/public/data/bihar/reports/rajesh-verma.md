@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 40.7 / 100
+## Composite Transparency Score: 40.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -118,7 +118,7 @@
 
 ## Qualitative Assessment
 
-Rajesh Verma has a below-average transparency score of 40.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Rajesh Verma has a below-average transparency score of 40.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 50.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -131,7 +131,7 @@
 
 ## Qualitative Assessment
 
-D M Kathir Anand shows moderate transparency with a score of 51.5/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+D M Kathir Anand shows moderate transparency with a score of 50.0/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

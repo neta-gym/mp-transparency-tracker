@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.0 / 100
+## Composite Transparency Score: 55.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Mahendra Singh Solanky shows moderate transparency with a score of 53.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mahendra Singh Solanky shows moderate transparency with a score of 55.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

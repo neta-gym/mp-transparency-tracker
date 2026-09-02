@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 67.8 / 100
+## Composite Transparency Score: 72.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Kamlesh Jangde shows moderate transparency with a score of 67.8/100. No criminal cases declared. High parliament attendance.
+Kamlesh Jangde demonstrates strong transparency with an overall score of 72.7/100. No criminal cases declared. High parliament attendance.
 
 ---
 

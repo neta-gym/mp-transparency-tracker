@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 57.7 / 100
+## Composite Transparency Score: 60.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Amra Ram shows moderate transparency with a score of 57.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Amra Ram shows moderate transparency with a score of 60.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

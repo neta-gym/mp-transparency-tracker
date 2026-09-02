@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.1 / 100
+## Composite Transparency Score: 54.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Kesineni Sivanath shows moderate transparency with a score of 52.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kesineni Sivanath shows moderate transparency with a score of 54.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 55.8 / 100
+## Composite Transparency Score: 58.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -121,7 +121,7 @@
 
 ## Qualitative Assessment
 
-Ajay Tamta shows moderate transparency with a score of 55.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Ajay Tamta shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

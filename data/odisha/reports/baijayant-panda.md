@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 38.2 / 100
+## Composite Transparency Score: 37.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Baijayant Panda has a below-average transparency score of 38.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Baijayant Panda has a below-average transparency score of 37.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 47.8 / 100
+## Composite Transparency Score: 49.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -125,7 +125,7 @@ Dated 16-05-2020 | Section- 3(1)(U),SC/ST Prevention of Atrocities Amendment Act
 
 ## Qualitative Assessment
 
-Dayanidhi Maran has a below-average transparency score of 47.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Dayanidhi Maran has a below-average transparency score of 49.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

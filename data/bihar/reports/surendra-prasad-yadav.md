@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 27.3 / 100
+## Composite Transparency Score: 25.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -113,7 +113,7 @@
 
 ## Qualitative Assessment
 
-Surendra Prasad Yadav has a below-average transparency score of 27.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
+Surendra Prasad Yadav has a below-average transparency score of 25.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 

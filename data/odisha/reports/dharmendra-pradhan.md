@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 42.5 / 100
+## Composite Transparency Score: 42.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -126,7 +126,7 @@
 
 ## Qualitative Assessment
 
-Dharmendra Pradhan has a below-average transparency score of 42.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Dharmendra Pradhan has a below-average transparency score of 42.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

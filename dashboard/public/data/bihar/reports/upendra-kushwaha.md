@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 31.2 / 100
+## Composite Transparency Score: 29.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Upendra Kushwaha has a below-average transparency score of 31.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
+Upendra Kushwaha has a below-average transparency score of 29.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

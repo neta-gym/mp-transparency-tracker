@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 55.2 / 100
+## Composite Transparency Score: 57.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Gaddigoudar Parvatagouda Chandanagouda shows moderate transparency with a score of 55.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Gaddigoudar Parvatagouda Chandanagouda shows moderate transparency with a score of 57.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

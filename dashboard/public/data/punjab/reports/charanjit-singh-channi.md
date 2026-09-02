@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 50.6 / 100
+## Composite Transparency Score: 52.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Charanjit Singh Channi shows moderate transparency with a score of 50.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Charanjit Singh Channi shows moderate transparency with a score of 52.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 

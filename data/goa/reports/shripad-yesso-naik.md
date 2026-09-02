@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 56.2 / 100
+## Composite Transparency Score: 59.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -118,7 +118,7 @@
 
 ## Qualitative Assessment
 
-Shripad Yesso Naik shows moderate transparency with a score of 56.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Shripad Yesso Naik shows moderate transparency with a score of 59.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

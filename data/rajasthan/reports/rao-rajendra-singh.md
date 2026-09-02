@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 57.0 / 100
+## Composite Transparency Score: 60.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Rao Rajendra Singh shows moderate transparency with a score of 57.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Rao Rajendra Singh shows moderate transparency with a score of 60.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

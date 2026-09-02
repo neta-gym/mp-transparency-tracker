@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 55.5 / 100
+## Composite Transparency Score: 58.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-Christopher Manickam shows moderate transparency with a score of 55.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Christopher Manickam shows moderate transparency with a score of 58.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

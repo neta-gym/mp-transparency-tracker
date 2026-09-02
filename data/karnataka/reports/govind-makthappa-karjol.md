@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 55.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Govind Makthappa Karjol shows moderate transparency with a score of 53.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Govind Makthappa Karjol shows moderate transparency with a score of 55.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

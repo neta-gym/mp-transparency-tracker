@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 58.9 / 100
+## Composite Transparency Score: 62.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-Shivesh Kumar shows moderate transparency with a score of 58.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Shivesh Kumar shows moderate transparency with a score of 62.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

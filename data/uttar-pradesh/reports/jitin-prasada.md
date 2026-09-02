@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.7 / 100
+## Composite Transparency Score: 51.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Jitin Prasada has a below-average transparency score of 49.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Jitin Prasada shows moderate transparency with a score of 51.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

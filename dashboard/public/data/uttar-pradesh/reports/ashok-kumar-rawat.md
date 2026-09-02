@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 66.5 / 100
+## Composite Transparency Score: 71.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Ashok Kumar Rawat shows moderate transparency with a score of 66.5/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+Ashok Kumar Rawat demonstrates strong transparency with an overall score of 71.2/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 

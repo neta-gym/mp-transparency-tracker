@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 67.4 / 100
+## Composite Transparency Score: 72.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Janardan Mishra shows moderate transparency with a score of 67.4/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+Janardan Mishra demonstrates strong transparency with an overall score of 72.2/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 

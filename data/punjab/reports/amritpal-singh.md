@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 24.9 / 100
+## Composite Transparency Score: 22.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -134,7 +134,7 @@
 
 ## Qualitative Assessment
 
-Amritpal Singh has a below-average transparency score of 24.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
+Amritpal Singh has a below-average transparency score of 22.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 

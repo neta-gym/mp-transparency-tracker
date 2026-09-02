@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.3 / 100
+## Composite Transparency Score: 47.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Kakoli Ghosh Dastidar has a below-average transparency score of 46.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Kakoli Ghosh Dastidar has a below-average transparency score of 47.4/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

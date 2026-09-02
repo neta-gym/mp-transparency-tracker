@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.9 / 100
+## Composite Transparency Score: 55.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Jagadish Shettar shows moderate transparency with a score of 52.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Jagadish Shettar shows moderate transparency with a score of 55.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

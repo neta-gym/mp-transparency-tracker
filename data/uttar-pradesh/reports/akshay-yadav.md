@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.6 / 100
+## Composite Transparency Score: 66.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Akshay Yadav shows moderate transparency with a score of 62.6/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Akshay Yadav shows moderate transparency with a score of 66.6/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

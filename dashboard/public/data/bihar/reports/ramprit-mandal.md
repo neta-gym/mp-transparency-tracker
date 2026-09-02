@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 68.2 / 100
+## Composite Transparency Score: 73.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Ramprit Mandal shows moderate transparency with a score of 68.2/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+Ramprit Mandal demonstrates strong transparency with an overall score of 73.1/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 

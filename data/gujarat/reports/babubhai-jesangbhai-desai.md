@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 61.6 / 100
+## Composite Transparency Score: 65.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-Babubhai Jesangbhai Desai shows moderate transparency with a score of 61.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Babubhai Jesangbhai Desai shows moderate transparency with a score of 65.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 69.5 / 100
+## Composite Transparency Score: 74.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Sukhdeo Bhagat shows moderate transparency with a score of 69.5/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Sukhdeo Bhagat demonstrates strong transparency with an overall score of 74.7/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 

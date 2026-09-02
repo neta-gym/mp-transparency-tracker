@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.7 / 100
+## Composite Transparency Score: 55.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Dimple Yadav shows moderate transparency with a score of 52.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Dimple Yadav shows moderate transparency with a score of 55.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

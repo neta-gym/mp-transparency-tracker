@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 62.3 / 100
+## Composite Transparency Score: 66.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -118,7 +118,7 @@
 
 ## Qualitative Assessment
 
-Amrinder Singh Raja Warring shows moderate transparency with a score of 62.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Amrinder Singh Raja Warring shows moderate transparency with a score of 66.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

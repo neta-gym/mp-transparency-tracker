@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 65.0 / 100
+## Composite Transparency Score: 69.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -84,7 +84,7 @@
 
 ## Qualitative Assessment
 
-Neeraj Dangi shows moderate transparency with a score of 65.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Neeraj Dangi shows moderate transparency with a score of 69.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

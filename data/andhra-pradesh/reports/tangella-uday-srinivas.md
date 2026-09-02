@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 48.9 / 100
+## Composite Transparency Score: 50.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Tangella Uday Srinivas has a below-average transparency score of 48.9/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Tangella Uday Srinivas shows moderate transparency with a score of 50.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 37.5 / 100
+## Composite Transparency Score: 37.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -86,7 +86,7 @@
 
 ## Qualitative Assessment
 
-Pawan Khera has a below-average transparency score of 37.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Pawan Khera has a below-average transparency score of 37.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

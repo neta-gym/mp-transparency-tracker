@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.4 / 100
+## Composite Transparency Score: 67.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Rajkumar Chahar shows moderate transparency with a score of 62.4/100. Minor criminal cases on record. High parliament attendance.
+Rajkumar Chahar shows moderate transparency with a score of 67.6/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 

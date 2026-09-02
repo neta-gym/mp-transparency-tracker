@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 55.6 / 100
+## Composite Transparency Score: 58.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Ravi Shankar Prasad shows moderate transparency with a score of 55.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Ravi Shankar Prasad shows moderate transparency with a score of 58.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

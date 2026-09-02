@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 60.0 / 100
+## Composite Transparency Score: 63.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Captain Brijesh Chowta shows moderate transparency with a score of 60.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Captain Brijesh Chowta shows moderate transparency with a score of 63.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

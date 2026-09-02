@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 67.2 / 100
+## Composite Transparency Score: 72.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Chhotelal shows moderate transparency with a score of 67.2/100. No criminal cases declared. High parliament attendance.
+Chhotelal demonstrates strong transparency with an overall score of 72.0/100. No criminal cases declared. High parliament attendance.
 
 ---
 

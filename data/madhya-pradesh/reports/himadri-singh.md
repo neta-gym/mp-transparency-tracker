@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 63.2 / 100
+## Composite Transparency Score: 67.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Himadri Singh shows moderate transparency with a score of 63.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Himadri Singh shows moderate transparency with a score of 67.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 57.5 / 100
+## Composite Transparency Score: 60.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -87,7 +87,7 @@
 
 ## Qualitative Assessment
 
-Jayant Chaudhary shows moderate transparency with a score of 57.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Jayant Chaudhary shows moderate transparency with a score of 60.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

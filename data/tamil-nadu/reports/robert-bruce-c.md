@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 55.7 / 100
+## Composite Transparency Score: 58.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Robert Bruce C shows moderate transparency with a score of 55.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Robert Bruce C shows moderate transparency with a score of 58.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

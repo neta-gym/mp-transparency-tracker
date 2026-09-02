@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 60.3 / 100
+## Composite Transparency Score: 63.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Arun Bharti shows moderate transparency with a score of 60.3/100. No criminal cases declared. Active in questions and debates.
+Arun Bharti shows moderate transparency with a score of 63.8/100. No criminal cases declared. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 30.1 / 100
+## Composite Transparency Score: 28.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -128,7 +128,7 @@
 
 ## Qualitative Assessment
 
-Kamlesh Paswan has a below-average transparency score of 30.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Kamlesh Paswan has a below-average transparency score of 28.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

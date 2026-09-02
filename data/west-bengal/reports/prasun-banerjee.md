@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.1 / 100
+## Composite Transparency Score: 55.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Prasun Banerjee shows moderate transparency with a score of 53.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Prasun Banerjee shows moderate transparency with a score of 55.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

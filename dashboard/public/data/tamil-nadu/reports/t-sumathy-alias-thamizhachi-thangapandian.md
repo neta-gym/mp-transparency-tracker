@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.3 / 100
+## Composite Transparency Score: 60.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -124,7 +124,7 @@
 
 ## Qualitative Assessment
 
-T Sumathy Alias Thamizhachi Thangapandian shows moderate transparency with a score of 58.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+T Sumathy Alias Thamizhachi Thangapandian shows moderate transparency with a score of 60.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

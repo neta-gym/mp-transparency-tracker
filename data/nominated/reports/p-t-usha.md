@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 53.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -80,7 +80,7 @@
 
 ## Qualitative Assessment
 
-P. T. Usha shows moderate transparency with a score of 51.0/100. Significant criminal cases are a concern. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+P. T. Usha shows moderate transparency with a score of 53.0/100. Significant criminal cases are a concern. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

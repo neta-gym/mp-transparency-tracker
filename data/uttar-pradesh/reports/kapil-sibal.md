@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 56.0 / 100
+## Composite Transparency Score: 58.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -87,7 +87,7 @@
 
 ## Qualitative Assessment
 
-Kapil Sibal shows moderate transparency with a score of 56.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Kapil Sibal shows moderate transparency with a score of 58.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 

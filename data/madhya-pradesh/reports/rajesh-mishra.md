@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 67.7 / 100
+## Composite Transparency Score: 72.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Rajesh Mishra shows moderate transparency with a score of 67.7/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Rajesh Mishra demonstrates strong transparency with an overall score of 72.5/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 

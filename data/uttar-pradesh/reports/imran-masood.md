@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 40.2 / 100
+## Composite Transparency Score: 40.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Imran Masood has a below-average transparency score of 40.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Imran Masood has a below-average transparency score of 40.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

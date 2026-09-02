@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 41.2 / 100
+## Composite Transparency Score: 41.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -125,7 +125,7 @@
 
 ## Qualitative Assessment
 
-K. Francis George has a below-average transparency score of 41.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+K. Francis George has a below-average transparency score of 41.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

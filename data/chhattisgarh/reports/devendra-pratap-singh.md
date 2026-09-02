@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 51.8 / 100
+## Composite Transparency Score: 53.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Devendra Pratap Singh shows moderate transparency with a score of 51.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Devendra Pratap Singh shows moderate transparency with a score of 53.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

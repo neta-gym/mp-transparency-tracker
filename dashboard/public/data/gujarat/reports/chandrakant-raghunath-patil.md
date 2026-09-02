@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.7 / 100
+## Composite Transparency Score: 56.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Chandrakant Raghunath Patil shows moderate transparency with a score of 53.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Chandrakant Raghunath Patil shows moderate transparency with a score of 56.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

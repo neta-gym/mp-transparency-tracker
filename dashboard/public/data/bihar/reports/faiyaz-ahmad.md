@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 52.9 / 100
+## Composite Transparency Score: 55.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Faiyaz Ahmad shows moderate transparency with a score of 52.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Faiyaz Ahmad shows moderate transparency with a score of 55.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 

@@ -424,6 +424,8 @@ class AssessorAgent(BaseAgent):
             + accessibility_s * w.accessibility
             + legislative_s * w.legislative
         )
+        # Clamp float dust (e.g. weights summing to 1.0 +/- 1e-15)
+        composite = min(100.0, max(0.0, composite))
 
         # Compute data_confidence as weighted average factoring evidence grades
         data_confidence = self._compute_evidence_weighted_confidence(validated)

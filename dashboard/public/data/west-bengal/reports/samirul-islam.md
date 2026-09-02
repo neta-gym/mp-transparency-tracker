@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 60.7 / 100
+## Composite Transparency Score: 64.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-Samirul Islam shows moderate transparency with a score of 60.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Samirul Islam shows moderate transparency with a score of 64.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

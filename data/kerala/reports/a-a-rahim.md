@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 43.7 / 100
+## Composite Transparency Score: 44.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-A. A. Rahim has a below-average transparency score of 43.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+A. A. Rahim has a below-average transparency score of 44.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

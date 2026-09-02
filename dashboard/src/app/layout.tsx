@@ -103,9 +103,9 @@ export default function RootLayout({
                 MP Transparency Tracker — Data sourced from eSAKSHI, data.gov.in, MyNeta, PRS India, MPLADS, Sansad, CAG
               </p>
               <p className="font-mono">
-                Methodology v3.1 · MPLADS 20%, Assets 15%, Criminal 20%,
-                Attendance 15%, Participation 10%, Committees 5%, Legislative
-                10%, Accessibility 5%
+                Methodology v3.2 · MPLADS 23.5%, Criminal 23.5%, Assets 17.6%,
+                Attendance 17.6%, Participation 11.8%, Accessibility 5.9% ·
+                Committees & Legislative 0% (placeholder data, excluded)
               </p>
             </div>
           </div>

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 47.8 / 100
+## Composite Transparency Score: 49.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@ Accused No Appeal/Revision Application is filed yet (Sections: 188) [pending]
 
 ## Qualitative Assessment
 
-Konda Vishweshwar Reddy has a below-average transparency score of 47.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Konda Vishweshwar Reddy has a below-average transparency score of 49.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

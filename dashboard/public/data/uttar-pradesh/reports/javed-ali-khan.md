@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 62.0 / 100
+## Composite Transparency Score: 65.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Javed Ali Khan shows moderate transparency with a score of 62.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Javed Ali Khan shows moderate transparency with a score of 65.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

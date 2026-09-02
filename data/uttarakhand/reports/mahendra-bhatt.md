@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 66.1 / 100
+## Composite Transparency Score: 70.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-Mahendra Bhatt shows moderate transparency with a score of 66.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Mahendra Bhatt demonstrates strong transparency with an overall score of 70.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

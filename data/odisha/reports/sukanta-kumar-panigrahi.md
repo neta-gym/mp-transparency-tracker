@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.6 / 100
+## Composite Transparency Score: 53.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Sukanta Kumar Panigrahi shows moderate transparency with a score of 51.6/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sukanta Kumar Panigrahi shows moderate transparency with a score of 53.6/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

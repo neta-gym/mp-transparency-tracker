@@ -1,49 +1,49 @@
 # MP Transparency Leaderboard — Madhya-Pradesh
 
-*Generated: 2026-09-02 19:19 UTC | Methodology v3.1 | 40 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 40 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Rajesh Mishra | Sidhi | Bharatiya Janata Party | 67.7 | 52% | High attendance |
-| 2 | LS | Janardan Mishra | Rewa | Bharatiya Janata Party | 67.4 | 51% | Clean record, High attendance |
-| 3 | LS | Shankar Lalwani | Indore | Bharatiya Janata Party | 67.4 | 61% | Clean record, Low fund utilization, High attendance |
-| 4 | LS | Lata Wankhede | Sagar | Bharatiya Janata Party | 65.1 | 51% | Clean record, High attendance |
-| 5 | RS | Kavita Patidar | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 64.8 | 50% | Clean record, Low fund utilization, High attendance |
-| 6 | RS | Banshilal Gurjar | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 64.2 | 50% | Clean record, Low fund utilization, High attendance |
-| 7 | LS | Rodmal Nagar | Rajgarh | Bharatiya Janata Party | 63.4 | 51% | Clean record, High attendance |
-| 8 | LS | Himadri Singh | Shahdol | Bharatiya Janata Party | 63.2 | 60% | Clean record, Low fund utilization, High attendance |
-| 9 | RS | Ashok Singh | Rajya Sabha (Madhya Pradesh) | Indian National Congress | 62.1 | 50% | Clean record, Low fund utilization |
-| 10 | LS | Gyaneshwar Patil | Khandwa | Bharatiya Janata Party | 61.6 | 52% | High attendance |
-| 11 | LS | Bharti Pardhi | Balaghat | Bharatiya Janata Party | 61.4 | 51% | Clean record, Low fund utilization, High attendance |
-| 12 | LS | Anil Firojiya | Ujjain | Bharatiya Janata Party | 61.1 | 51% | Clean record, Low fund utilization, High attendance |
-| 13 | LS | Durgadas D D Uikey | Betul | Bharatiya Janata Party | 60.1 | 47% | Clean record |
-| 14 | LS | Gajendra  Singh Patel | Khargone | Bharatiya Janata Party | 59.2 | 51% | Clean record, Low fund utilization, High attendance |
-| 15 | RS | Rajneesh Kumar Agrawal | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 59.2 | 50% | Clean record, Low fund utilization, High attendance |
-| 16 | LS | Rahul Singh Lodhi | Damoh | Bharatiya Janata Party | 58.9 | 60% | Clean record, Low fund utilization, High attendance |
-| 17 | RS | Balyogi Umeshnath | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 58.5 | 50% | Clean record, Low fund utilization, High attendance |
-| 18 | LS | Sandhya Ray | Bhind | Bharatiya Janata Party | 58.0 | 60% | Clean record, Low fund utilization, High attendance |
-| 19 | LS | Faggan Singh Kulaste | Mandla | Bharatiya Janata Party | 57.7 | 60% | Clean record, Low fund utilization |
-| 20 | LS | Jyotiraditya M Scindia | Guna | Bharatiya Janata Party | 57.5 | 47% | Clean record, Low fund utilization |
-| 21 | LS | Bunty Vivek Sahu | Chhindwara | Bharatiya Janata Party | 57.3 | 61% | Low fund utilization, High attendance |
-| 22 | LS | Darshan Singh Choudhary | Hoshangabad | Bharatiya Janata Party | 57.1 | 51% | Clean record, Low fund utilization, High attendance |
-| 23 | RS | Mahesh Kewat | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 56.6 | 50% | Clean record, Low fund utilization, High attendance |
-| 24 | LS | Ashish Dubey | Jabalpur | Bharatiya Janata Party | 56.0 | 51% | Clean record, Low fund utilization, High attendance |
-| 25 | LS | Anita Nagarsingh Chouhan | Ratlam | Bharatiya Janata Party | 55.8 | 51% | Clean record, Low fund utilization |
-| 26 | LS | Ganesh Singh | Satna | Bharatiya Janata Party | 55.3 | 61% | Low fund utilization, High attendance |
-| 27 | LS | Savitri Thakur | Dhar | Bharatiya Janata Party | 55.1 | 38% | Clean record, Low fund utilization |
-| 28 | LS | Sudheer Gupta | Mandsour | Bharatiya Janata Party | 54.8 | 52% | Low fund utilization, High attendance |
-| 29 | RS | Maya Naroliya | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 54.0 | 26% | Significant criminal cases, Low fund utilization, High attendance |
-| 30 | LS | Mahendra Singh Solanky | Dewas | Bharatiya Janata Party | 53.0 | 61% | Low fund utilization, High attendance |
-| 31 | LS | Bharat Singh Kushwah | Gwalior | Bharatiya Janata Party | 52.4 | 51% | Clean record, Low fund utilization, High attendance |
-| 32 | LS | Shivmangal Singh Tomar | Morena | Bharatiya Janata Party | 52.3 | 51% | Clean record, Low fund utilization, High attendance |
-| 33 | LS | Virendra Kumar | Tikamgarh | Bharatiya Janata Party | 51.1 | 39% | Clean record, Low fund utilization |
-| 34 | LS | Shivraj Singh Chouhan | Vidisha | Bharatiya Janata Party | 50.1 | 39% | Low fund utilization |
-| 35 | LS | Vishnu Datt Sharma | Khajuraho | Bharatiya Janata Party | 49.8 | 61% | Low fund utilization |
-| 36 | LS | Alok Sharma | Bhopal | Bharatiya Janata Party | 49.3 | 52% | Low fund utilization, High attendance |
-| 37 | RS | Sumitra Balmik | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
-| 38 | RS | Tarun Chugh | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
-| 39 | RS | Vivek K. Tankha | Rajya Sabha (Madhya Pradesh) | Indian National Congress | 48.0 | 37% | Clean record, Low fund utilization |
-| 40 | RS | L. Murugan | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 33.8 | 50% | Significant criminal cases, Low fund utilization |
+| 1 | LS | Rajesh Mishra | Sidhi | Bharatiya Janata Party | 72.5 | 52% | High attendance |
+| 2 | LS | Janardan Mishra | Rewa | Bharatiya Janata Party | 72.2 | 51% | Clean record, High attendance |
+| 3 | LS | Shankar Lalwani | Indore | Bharatiya Janata Party | 72.2 | 61% | Clean record, Low fund utilization, High attendance |
+| 4 | LS | Lata Wankhede | Sagar | Bharatiya Janata Party | 69.5 | 51% | Clean record, High attendance |
+| 5 | RS | Kavita Patidar | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 69.1 | 50% | Clean record, Low fund utilization, High attendance |
+| 6 | RS | Banshilal Gurjar | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 68.5 | 50% | Clean record, Low fund utilization, High attendance |
+| 7 | LS | Rodmal Nagar | Rajgarh | Bharatiya Janata Party | 67.5 | 51% | Clean record, High attendance |
+| 8 | LS | Himadri Singh | Shahdol | Bharatiya Janata Party | 67.3 | 60% | Clean record, Low fund utilization, High attendance |
+| 9 | RS | Ashok Singh | Rajya Sabha (Madhya Pradesh) | Indian National Congress | 66.0 | 50% | Clean record, Low fund utilization |
+| 10 | LS | Gyaneshwar Patil | Khandwa | Bharatiya Janata Party | 65.4 | 52% | High attendance |
+| 11 | LS | Bharti Pardhi | Balaghat | Bharatiya Janata Party | 65.2 | 51% | Clean record, Low fund utilization, High attendance |
+| 12 | LS | Anil Firojiya | Ujjain | Bharatiya Janata Party | 64.8 | 51% | Clean record, Low fund utilization, High attendance |
+| 13 | LS | Durgadas D D Uikey | Betul | Bharatiya Janata Party | 63.7 | 47% | Clean record |
+| 14 | RS | Rajneesh Kumar Agrawal | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 62.7 | 50% | Clean record, Low fund utilization, High attendance |
+| 15 | LS | Gajendra  Singh Patel | Khargone | Bharatiya Janata Party | 62.6 | 51% | Clean record, Low fund utilization, High attendance |
+| 16 | LS | Rahul Singh Lodhi | Damoh | Bharatiya Janata Party | 62.3 | 60% | Clean record, Low fund utilization, High attendance |
+| 17 | RS | Balyogi Umeshnath | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 61.7 | 50% | Clean record, Low fund utilization, High attendance |
+| 18 | LS | Sandhya Ray | Bhind | Bharatiya Janata Party | 61.2 | 60% | Clean record, Low fund utilization, High attendance |
+| 19 | LS | Faggan Singh Kulaste | Mandla | Bharatiya Janata Party | 60.8 | 60% | Clean record, Low fund utilization |
+| 20 | LS | Jyotiraditya M Scindia | Guna | Bharatiya Janata Party | 60.6 | 47% | Clean record, Low fund utilization |
+| 21 | LS | Bunty Vivek Sahu | Chhindwara | Bharatiya Janata Party | 60.3 | 61% | Low fund utilization, High attendance |
+| 22 | LS | Darshan Singh Choudhary | Hoshangabad | Bharatiya Janata Party | 60.1 | 51% | Clean record, Low fund utilization, High attendance |
+| 23 | RS | Mahesh Kewat | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 59.5 | 50% | Clean record, Low fund utilization, High attendance |
+| 24 | LS | Ashish Dubey | Jabalpur | Bharatiya Janata Party | 58.8 | 51% | Clean record, Low fund utilization, High attendance |
+| 25 | LS | Anita Nagarsingh Chouhan | Ratlam | Bharatiya Janata Party | 58.6 | 51% | Clean record, Low fund utilization |
+| 26 | LS | Ganesh Singh | Satna | Bharatiya Janata Party | 58.0 | 61% | Low fund utilization, High attendance |
+| 27 | LS | Savitri Thakur | Dhar | Bharatiya Janata Party | 57.7 | 38% | Clean record, Low fund utilization |
+| 28 | LS | Sudheer Gupta | Mandsour | Bharatiya Janata Party | 57.4 | 52% | Low fund utilization, High attendance |
+| 29 | RS | Maya Naroliya | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 56.5 | 26% | Significant criminal cases, Low fund utilization, High attendance |
+| 30 | LS | Mahendra Singh Solanky | Dewas | Bharatiya Janata Party | 55.3 | 61% | Low fund utilization, High attendance |
+| 31 | LS | Bharat Singh Kushwah | Gwalior | Bharatiya Janata Party | 54.6 | 51% | Clean record, Low fund utilization, High attendance |
+| 32 | LS | Shivmangal Singh Tomar | Morena | Bharatiya Janata Party | 54.5 | 51% | Clean record, Low fund utilization, High attendance |
+| 33 | LS | Virendra Kumar | Tikamgarh | Bharatiya Janata Party | 53.0 | 39% | Clean record, Low fund utilization |
+| 34 | LS | Shivraj Singh Chouhan | Vidisha | Bharatiya Janata Party | 51.9 | 39% | Low fund utilization |
+| 35 | LS | Vishnu Datt Sharma | Khajuraho | Bharatiya Janata Party | 51.5 | 61% | Low fund utilization |
+| 36 | LS | Alok Sharma | Bhopal | Bharatiya Janata Party | 50.9 | 52% | Low fund utilization, High attendance |
+| 37 | RS | Sumitra Balmik | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 49.4 | 37% | Clean record, Low fund utilization |
+| 38 | RS | Tarun Chugh | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 49.4 | 37% | Clean record, Low fund utilization |
+| 39 | RS | Vivek K. Tankha | Rajya Sabha (Madhya Pradesh) | Indian National Congress | 49.4 | 37% | Clean record, Low fund utilization |
+| 40 | RS | L. Murugan | Rajya Sabha (Madhya Pradesh) | Bharatiya Janata Party | 32.6 | 50% | Significant criminal cases, Low fund utilization |
 
 ### Score Breakdown
 
@@ -62,8 +62,8 @@
 | 11 | Bharti Pardhi | LS | 33 | 50 | 100 | 90 | 70 | 40 | 15 | 40 |
 | 12 | Anil Firojiya | LS | 37 | 50 | 100 | 90 | 60 | 40 | 15 | 40 |
 | 13 | Durgadas D D Uikey | LS | 47 | 60 | 100 | 50 | 50 | 40 | 65 | 40 |
-| 14 | Gajendra  Singh Patel | LS | 34 | 60 | 100 | 85 | 40 | 40 | 15 | 40 |
-| 15 | Rajneesh Kumar Agrawal | RS | 35 | 50 | 100 | 100 | 30 | 40 | 15 | 40 |
+| 14 | Rajneesh Kumar Agrawal | RS | 35 | 50 | 100 | 100 | 30 | 40 | 15 | 40 |
+| 15 | Gajendra  Singh Patel | LS | 34 | 60 | 100 | 85 | 40 | 40 | 15 | 40 |
 | 16 | Rahul Singh Lodhi | LS | 28 | 60 | 100 | 80 | 20 | 40 | 85 | 40 |
 | 17 | Balyogi Umeshnath | RS | 35 | 50 | 100 | 88 | 40 | 40 | 15 | 40 |
 | 18 | Sandhya Ray | LS | 14 | 55 | 100 | 85 | 50 | 40 | 65 | 40 |

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 60.7 / 100
+## Composite Transparency Score: 64.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Radheshyam Rathiya shows moderate transparency with a score of 60.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Radheshyam Rathiya shows moderate transparency with a score of 64.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

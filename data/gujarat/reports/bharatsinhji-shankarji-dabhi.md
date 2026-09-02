@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 60.8 / 100
+## Composite Transparency Score: 64.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Bharatsinhji Shankarji Dabhi shows moderate transparency with a score of 60.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bharatsinhji Shankarji Dabhi shows moderate transparency with a score of 64.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

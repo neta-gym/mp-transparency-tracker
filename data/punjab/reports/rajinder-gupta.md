@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 54.2 / 100
+## Composite Transparency Score: 56.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-Rajinder Gupta shows moderate transparency with a score of 54.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Rajinder Gupta shows moderate transparency with a score of 56.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

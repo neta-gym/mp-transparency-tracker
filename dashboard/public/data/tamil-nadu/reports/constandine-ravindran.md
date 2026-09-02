@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 59.2 / 100
+## Composite Transparency Score: 62.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-Constandine Ravindran shows moderate transparency with a score of 59.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Constandine Ravindran shows moderate transparency with a score of 62.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

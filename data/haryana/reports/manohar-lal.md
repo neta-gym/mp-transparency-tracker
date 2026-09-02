@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 47.1 / 100
+## Composite Transparency Score: 48.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -105,7 +105,7 @@
 
 ## Qualitative Assessment
 
-Manohar Lal has a below-average transparency score of 47.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Manohar Lal has a below-average transparency score of 48.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

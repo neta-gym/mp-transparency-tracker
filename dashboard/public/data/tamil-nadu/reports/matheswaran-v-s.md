@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 55.0 / 100
+## Composite Transparency Score: 57.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Matheswaran V S shows moderate transparency with a score of 55.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Matheswaran V S shows moderate transparency with a score of 57.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.7 / 100
+## Composite Transparency Score: 56.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -119,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Mahua Moitra shows moderate transparency with a score of 53.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mahua Moitra shows moderate transparency with a score of 56.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

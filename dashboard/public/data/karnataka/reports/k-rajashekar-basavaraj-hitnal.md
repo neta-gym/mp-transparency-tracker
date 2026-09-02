@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 48.7 / 100
+## Composite Transparency Score: 50.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -109,7 +109,7 @@
 
 ## Qualitative Assessment
 
-K Rajashekar Basavaraj Hitnal has a below-average transparency score of 48.7/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+K Rajashekar Basavaraj Hitnal shows moderate transparency with a score of 50.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

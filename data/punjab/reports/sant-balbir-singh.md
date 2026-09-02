@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 62.2 / 100
+## Composite Transparency Score: 66.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Sant Balbir Singh shows moderate transparency with a score of 62.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Sant Balbir Singh shows moderate transparency with a score of 66.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

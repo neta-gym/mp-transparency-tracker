@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 61.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Ravindra Dattaram Waikar shows moderate transparency with a score of 58.5/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ravindra Dattaram Waikar shows moderate transparency with a score of 61.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

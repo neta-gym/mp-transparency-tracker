@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 61.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -118,7 +118,7 @@
 
 ## Qualitative Assessment
 
-Joyanta Basumatary shows moderate transparency with a score of 58.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Joyanta Basumatary shows moderate transparency with a score of 61.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

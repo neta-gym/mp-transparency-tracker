@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 45.4 / 100
+## Composite Transparency Score: 46.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Anil Sukhdeorao Bonde has a below-average transparency score of 45.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Anil Sukhdeorao Bonde has a below-average transparency score of 46.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.5 / 100
+## Composite Transparency Score: 57.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Tokhan Sahu shows moderate transparency with a score of 54.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Tokhan Sahu shows moderate transparency with a score of 57.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

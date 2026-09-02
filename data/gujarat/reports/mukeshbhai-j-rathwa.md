@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 49.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -79,7 +79,7 @@
 
 ## Qualitative Assessment
 
-Mukeshbhai J. Rathwa has a below-average transparency score of 48.0/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Mukeshbhai J. Rathwa has a below-average transparency score of 49.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

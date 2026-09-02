@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.3 / 100
+## Composite Transparency Score: 61.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Rakesh Rathor shows moderate transparency with a score of 58.3/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
+Rakesh Rathor shows moderate transparency with a score of 61.5/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

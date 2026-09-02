@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 57.0 / 100
+## Composite Transparency Score: 60.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-M. Dhanapal shows moderate transparency with a score of 57.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+M. Dhanapal shows moderate transparency with a score of 60.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

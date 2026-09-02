@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 65.1 / 100
+## Composite Transparency Score: 69.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Lata Wankhede shows moderate transparency with a score of 65.1/100. No criminal cases declared. High parliament attendance.
+Lata Wankhede shows moderate transparency with a score of 69.5/100. No criminal cases declared. High parliament attendance.
 
 ---
 

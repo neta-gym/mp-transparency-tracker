@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 39.0 / 100
+## Composite Transparency Score: 38.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -113,7 +113,7 @@
 
 ## Qualitative Assessment
 
-Manoj Tigga has a below-average transparency score of 39.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Manoj Tigga has a below-average transparency score of 38.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

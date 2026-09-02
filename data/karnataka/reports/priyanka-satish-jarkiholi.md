@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.5 / 100
+## Composite Transparency Score: 51.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Priyanka Satish Jarkiholi has a below-average transparency score of 49.5/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Priyanka Satish Jarkiholi shows moderate transparency with a score of 51.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

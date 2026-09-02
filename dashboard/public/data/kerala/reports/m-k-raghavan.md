@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 40.8 / 100
+## Composite Transparency Score: 40.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -111,7 +111,7 @@
 
 ## Qualitative Assessment
 
-M K Raghavan has a below-average transparency score of 40.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+M K Raghavan has a below-average transparency score of 40.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

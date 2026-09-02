@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 57.3 / 100
+## Composite Transparency Score: 60.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Bunty Vivek Sahu shows moderate transparency with a score of 57.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bunty Vivek Sahu shows moderate transparency with a score of 60.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

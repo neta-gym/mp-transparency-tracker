@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 39.1 / 100
+## Composite Transparency Score: 39.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-Biswajit Sinha (Rahul Sinha) has a below-average transparency score of 39.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Biswajit Sinha (Rahul Sinha) has a below-average transparency score of 39.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 45.1 / 100
+## Composite Transparency Score: 46.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-H D Kumaraswamy has a below-average transparency score of 45.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+H D Kumaraswamy has a below-average transparency score of 46.0/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 

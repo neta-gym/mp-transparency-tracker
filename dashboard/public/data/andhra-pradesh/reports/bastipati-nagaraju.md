@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 61.2 / 100
+## Composite Transparency Score: 64.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Bastipati Nagaraju shows moderate transparency with a score of 61.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Bastipati Nagaraju shows moderate transparency with a score of 64.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

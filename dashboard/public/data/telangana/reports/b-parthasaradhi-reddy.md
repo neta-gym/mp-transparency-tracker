@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 50.4 / 100
+## Composite Transparency Score: 52.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -86,7 +86,7 @@
 
 ## Qualitative Assessment
 
-B. Parthasaradhi Reddy shows moderate transparency with a score of 50.4/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+B. Parthasaradhi Reddy shows moderate transparency with a score of 52.2/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

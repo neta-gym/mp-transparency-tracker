@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 35.0 / 100
+## Composite Transparency Score: 34.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -111,7 +111,7 @@
 
 ## Qualitative Assessment
 
-Anto Antony has a below-average transparency score of 35.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Anto Antony has a below-average transparency score of 34.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 50.8 / 100
+## Composite Transparency Score: 52.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Suresh Kumar Shetkar shows moderate transparency with a score of 50.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Suresh Kumar Shetkar shows moderate transparency with a score of 52.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 44.0 / 100
+## Composite Transparency Score: 44.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Sachithanantham R has a below-average transparency score of 44.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sachithanantham R has a below-average transparency score of 44.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

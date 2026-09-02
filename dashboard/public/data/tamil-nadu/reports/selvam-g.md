@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 66.6 / 100
+## Composite Transparency Score: 71.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Selvam G shows moderate transparency with a score of 66.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Selvam G demonstrates strong transparency with an overall score of 71.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

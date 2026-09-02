@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 41.7 / 100
+## Composite Transparency Score: 42.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -80,7 +80,7 @@
 
 ## Qualitative Assessment
 
-Dharmasthala Veerendra Heggade has a below-average transparency score of 41.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low parliament attendance is notable. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Dharmasthala Veerendra Heggade has a below-average transparency score of 42.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low parliament attendance is notable. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.4 / 100
+## Composite Transparency Score: 54.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Bharat Singh Kushwah shows moderate transparency with a score of 52.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Bharat Singh Kushwah shows moderate transparency with a score of 54.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

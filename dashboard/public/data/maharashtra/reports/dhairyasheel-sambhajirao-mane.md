@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 56.0 / 100
+## Composite Transparency Score: 58.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -117,7 +117,7 @@
 
 ## Qualitative Assessment
 
-Dhairyasheel Sambhajirao Mane shows moderate transparency with a score of 56.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Dhairyasheel Sambhajirao Mane shows moderate transparency with a score of 58.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

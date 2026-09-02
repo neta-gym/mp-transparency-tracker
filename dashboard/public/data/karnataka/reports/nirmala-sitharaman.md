@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 53.8 / 100
+## Composite Transparency Score: 56.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -87,7 +87,7 @@
 
 ## Qualitative Assessment
 
-Nirmala Sitharaman shows moderate transparency with a score of 53.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Nirmala Sitharaman shows moderate transparency with a score of 56.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

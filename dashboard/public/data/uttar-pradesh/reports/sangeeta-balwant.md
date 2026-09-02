@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 49.4 / 100
+## Composite Transparency Score: 51.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Sangeeta Balwant has a below-average transparency score of 49.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
+Sangeeta Balwant shows moderate transparency with a score of 51.0/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 61.5 / 100
+## Composite Transparency Score: 65.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Jose K. Mani shows moderate transparency with a score of 61.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Jose K. Mani shows moderate transparency with a score of 65.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

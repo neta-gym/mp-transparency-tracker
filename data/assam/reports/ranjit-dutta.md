@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 56.3 / 100
+## Composite Transparency Score: 59.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Ranjit Dutta shows moderate transparency with a score of 56.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Ranjit Dutta shows moderate transparency with a score of 59.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

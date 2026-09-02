@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.0 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Jashubhai Bhilubhai Rathva shows moderate transparency with a score of 54.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Jashubhai Bhilubhai Rathva shows moderate transparency with a score of 56.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

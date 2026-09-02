@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 59.5 / 100
+## Composite Transparency Score: 62.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Abdul Wahab shows moderate transparency with a score of 59.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Abdul Wahab shows moderate transparency with a score of 62.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

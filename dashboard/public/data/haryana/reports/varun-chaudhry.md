@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 57.8 / 100
+## Composite Transparency Score: 61.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Varun Chaudhry shows moderate transparency with a score of 57.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Varun Chaudhry shows moderate transparency with a score of 61.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

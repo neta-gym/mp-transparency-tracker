@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 68.8 / 100
+## Composite Transparency Score: 73.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Vishnu Dayal Ram shows moderate transparency with a score of 68.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Vishnu Dayal Ram demonstrates strong transparency with an overall score of 73.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 33.0 / 100
+## Composite Transparency Score: 31.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -121,7 +121,7 @@
 
 ## Qualitative Assessment
 
-B K Parthasarathi has a below-average transparency score of 33.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+B K Parthasarathi has a below-average transparency score of 31.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

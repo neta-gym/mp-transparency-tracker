@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 47.0 / 100
+## Composite Transparency Score: 48.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Patel Umeshbhai Babubhai has a below-average transparency score of 47.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Patel Umeshbhai Babubhai has a below-average transparency score of 48.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

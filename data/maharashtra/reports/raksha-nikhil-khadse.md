@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 48.9 / 100
+## Composite Transparency Score: 50.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -105,7 +105,7 @@
 
 ## Qualitative Assessment
 
-Raksha Nikhil Khadse has a below-average transparency score of 48.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Raksha Nikhil Khadse shows moderate transparency with a score of 50.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

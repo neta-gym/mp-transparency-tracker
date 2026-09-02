@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 47.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Balabhadra Majhi has a below-average transparency score of 46.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Balabhadra Majhi has a below-average transparency score of 47.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

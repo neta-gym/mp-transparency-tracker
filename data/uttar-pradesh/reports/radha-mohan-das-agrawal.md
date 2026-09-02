@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 57.6 / 100
+## Composite Transparency Score: 60.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Radha Mohan Das Agrawal shows moderate transparency with a score of 57.6/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Radha Mohan Das Agrawal shows moderate transparency with a score of 60.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

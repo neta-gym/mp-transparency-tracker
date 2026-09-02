@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 31.0 / 100
+## Composite Transparency Score: 29.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -137,7 +137,7 @@
 
 ## Qualitative Assessment
 
-Rahul Gandhi has a below-average transparency score of 31.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Rahul Gandhi has a below-average transparency score of 29.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 48.0 / 100
+## Composite Transparency Score: 49.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-S Niranjan Reddy has a below-average transparency score of 48.0/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+S Niranjan Reddy has a below-average transparency score of 49.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

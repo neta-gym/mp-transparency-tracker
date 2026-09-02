@@ -1,11 +1,11 @@
 # MP Transparency Leaderboard — Puducherry
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 2 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 2 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | RS | S. Selvaganabathy | Rajya Sabha (Puducherry) | Bharatiya Janata Party | 53.8 | 26% | Significant criminal cases, Low fund utilization, High attendance |
-| 2 | LS | Ve Vaithilingam | Puducherry | Indian National Congress | 52.4 | 51% | Clean record, Low fund utilization |
+| 1 | RS | S. Selvaganabathy | Rajya Sabha (Puducherry) | Bharatiya Janata Party | 56.2 | 26% | Significant criminal cases, Low fund utilization, High attendance |
+| 2 | LS | Ve Vaithilingam | Puducherry | Indian National Congress | 54.6 | 51% | Clean record, Low fund utilization |
 
 ### Score Breakdown
 

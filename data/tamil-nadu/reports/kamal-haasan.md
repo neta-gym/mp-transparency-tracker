@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 52.6 / 100
+## Composite Transparency Score: 54.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -85,7 +85,7 @@
 
 ## Qualitative Assessment
 
-Kamal Haasan shows moderate transparency with a score of 52.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Kamal Haasan shows moderate transparency with a score of 54.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

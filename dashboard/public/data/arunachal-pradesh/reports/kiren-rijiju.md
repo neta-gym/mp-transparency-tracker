@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 57.5 / 100
+## Composite Transparency Score: 60.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Kiren Rijiju shows moderate transparency with a score of 57.5/100. No criminal cases declared.
+Kiren Rijiju shows moderate transparency with a score of 60.6/100. No criminal cases declared.
 
 ---
 

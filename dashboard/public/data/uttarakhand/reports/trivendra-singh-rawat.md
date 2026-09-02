@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.6 / 100
+## Composite Transparency Score: 56.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Trivendra Singh Rawat shows moderate transparency with a score of 53.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Trivendra Singh Rawat shows moderate transparency with a score of 56.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

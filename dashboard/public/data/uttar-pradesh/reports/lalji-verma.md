@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.9 / 100
+## Composite Transparency Score: 62.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-Lalji Verma shows moderate transparency with a score of 58.9/100. Minor criminal cases on record. High parliament attendance.
+Lalji Verma shows moderate transparency with a score of 62.3/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 

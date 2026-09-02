@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 57.5 / 100
+## Composite Transparency Score: 60.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-Anurag Sharma shows moderate transparency with a score of 57.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Anurag Sharma shows moderate transparency with a score of 60.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

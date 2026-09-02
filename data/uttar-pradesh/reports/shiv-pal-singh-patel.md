@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.3 / 100
+## Composite Transparency Score: 55.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Shiv Pal Singh Patel shows moderate transparency with a score of 53.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Shiv Pal Singh Patel shows moderate transparency with a score of 55.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

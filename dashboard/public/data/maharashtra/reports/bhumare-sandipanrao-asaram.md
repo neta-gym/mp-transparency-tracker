@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 39.3 / 100
+## Composite Transparency Score: 39.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -110,7 +110,7 @@
 
 ## Qualitative Assessment
 
-Bhumare Sandipanrao Asaram has a below-average transparency score of 39.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Bhumare Sandipanrao Asaram has a below-average transparency score of 39.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

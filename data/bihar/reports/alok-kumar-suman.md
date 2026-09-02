@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 67.5 / 100
+## Composite Transparency Score: 68.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -111,7 +111,7 @@
 
 ## Qualitative Assessment
 
-Alok Kumar Suman shows moderate transparency with a score of 67.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Alok Kumar Suman shows moderate transparency with a score of 68.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 54.5 / 100
+## Composite Transparency Score: 57.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -80,7 +80,7 @@
 
 ## Qualitative Assessment
 
-Gulam Ali shows moderate transparency with a score of 54.5/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Gulam Ali shows moderate transparency with a score of 57.1/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

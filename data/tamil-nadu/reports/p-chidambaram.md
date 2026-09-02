@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 43.4 / 100
+## Composite Transparency Score: 43.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-P. Chidambaram has a below-average transparency score of 43.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+P. Chidambaram has a below-average transparency score of 43.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

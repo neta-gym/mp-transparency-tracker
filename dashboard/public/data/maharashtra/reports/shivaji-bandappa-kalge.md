@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.3 / 100
+## Composite Transparency Score: 62.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Shivaji Bandappa Kalge shows moderate transparency with a score of 59.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Shivaji Bandappa Kalge shows moderate transparency with a score of 62.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

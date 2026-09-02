@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 59.5 / 100
+## Composite Transparency Score: 62.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -79,7 +79,7 @@
 
 ## Qualitative Assessment
 
-Mansingh Meraman Parmar shows moderate transparency with a score of 59.5/100. No criminal cases declared. High parliament attendance.
+Mansingh Meraman Parmar shows moderate transparency with a score of 62.9/100. No criminal cases declared. High parliament attendance.
 
 ---
 

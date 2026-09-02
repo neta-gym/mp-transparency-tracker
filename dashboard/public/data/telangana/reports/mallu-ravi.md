@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 41.1 / 100
+## Composite Transparency Score: 41.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -112,7 +112,7 @@
 
 ## Qualitative Assessment
 
-Mallu Ravi has a below-average transparency score of 41.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mallu Ravi has a below-average transparency score of 41.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

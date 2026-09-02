@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 55.4 / 100
+## Composite Transparency Score: 58.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Geniben Nagaji Thakor shows moderate transparency with a score of 55.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Geniben Nagaji Thakor shows moderate transparency with a score of 58.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

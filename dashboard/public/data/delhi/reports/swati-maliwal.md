@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 42.0 / 100
+## Composite Transparency Score: 42.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -86,7 +86,7 @@
 
 ## Qualitative Assessment
 
-Swati Maliwal has a below-average transparency score of 42.0/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Swati Maliwal has a below-average transparency score of 42.4/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

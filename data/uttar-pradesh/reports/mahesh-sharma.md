@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.9 / 100
+## Composite Transparency Score: 63.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Mahesh Sharma shows moderate transparency with a score of 59.9/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Mahesh Sharma shows moderate transparency with a score of 63.4/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 38.8 / 100
+## Composite Transparency Score: 38.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-Partha Bhowmick has a below-average transparency score of 38.8/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
+Partha Bhowmick has a below-average transparency score of 38.6/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 

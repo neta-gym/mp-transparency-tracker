@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 37.2 / 100
+## Composite Transparency Score: 36.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -82,7 +82,7 @@
 
 ## Qualitative Assessment
 
-Sudha Murty has a below-average transparency score of 37.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
+Sudha Murty has a below-average transparency score of 36.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

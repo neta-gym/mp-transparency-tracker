@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 54.9 / 100
+## Composite Transparency Score: 57.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Randeep Singh Surjewala shows moderate transparency with a score of 54.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Randeep Singh Surjewala shows moderate transparency with a score of 57.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.8 / 100
+## Composite Transparency Score: 53.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Mian Altaf Ahmad shows moderate transparency with a score of 51.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Mian Altaf Ahmad shows moderate transparency with a score of 53.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

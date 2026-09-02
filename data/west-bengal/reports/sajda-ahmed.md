@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.4 / 100
+## Composite Transparency Score: 53.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Sajda Ahmed shows moderate transparency with a score of 51.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Sajda Ahmed shows moderate transparency with a score of 53.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 29.6 / 100
+## Composite Transparency Score: 27.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -124,7 +124,7 @@
 
 ## Qualitative Assessment
 
-Sukanta Majumdar has a below-average transparency score of 29.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Sukanta Majumdar has a below-average transparency score of 27.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

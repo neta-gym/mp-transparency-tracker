@@ -448,7 +448,7 @@ export function ComparisonView() {
                           <td className="p-3 text-text-muted">
                             {comp.label}
                             <span className="text-xs text-text-muted font-mono ml-1">
-                              ({(comp.weight * 100).toFixed(0)}%)
+                              {comp.weight === 0 ? "(not scored)" : `(${(comp.weight * 100).toFixed(1)}%)`}
                             </span>
                           </td>
                           {vals.map((v, i) => (

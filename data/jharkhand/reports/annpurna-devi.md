@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 50.8 / 100
+## Composite Transparency Score: 52.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -125,7 +125,7 @@
 
 ## Qualitative Assessment
 
-Annpurna Devi shows moderate transparency with a score of 50.8/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Annpurna Devi shows moderate transparency with a score of 52.7/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

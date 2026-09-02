@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 66.8 / 100
+## Composite Transparency Score: 68.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -126,7 +126,7 @@
 
 ## Qualitative Assessment
 
-Chandra Shekhar shows moderate transparency with a score of 66.8/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Chandra Shekhar shows moderate transparency with a score of 68.0/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 

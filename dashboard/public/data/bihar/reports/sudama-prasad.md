@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.5 / 100
+## Composite Transparency Score: 57.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -109,7 +109,7 @@
 
 ## Qualitative Assessment
 
-Sudama Prasad shows moderate transparency with a score of 54.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sudama Prasad shows moderate transparency with a score of 57.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

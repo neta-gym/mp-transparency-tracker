@@ -1,40 +1,40 @@
 # MP Transparency Leaderboard — Odisha
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 31 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 31 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | RS | Manas Ranjan Mangaraj | Rajya Sabha (Odisha) | Biju Janata Dal | 65.0 | 50% | Clean record, Low fund utilization, High attendance |
-| 2 | LS | Saptagiri Sankar Ulaka | Koraput | Indian National Congress | 63.6 | 60% | Clean record, Low fund utilization, High attendance |
-| 3 | LS | Ananta Nayak | Keonjhar | Bharatiya Janata Party | 62.3 | 67% | Low fund utilization, High attendance |
-| 4 | RS | Ashwini Vaishnaw | Rajya Sabha (Odisha) | Bharatiya Janata Party | 61.5 | 50% | Clean record, Low fund utilization, High attendance |
-| 5 | LS | Aparajita Sarangi | Bhubaneswar | Bharatiya Janata Party | 61.1 | 67% | Low fund utilization, High attendance |
-| 6 | RS | Santrupt Misra | Rajya Sabha (Odisha) | Biju Janata Dal | 60.9 | 50% | Clean record, Low fund utilization, High attendance |
-| 7 | LS | Malvika Devi | Kalahandi | Bharatiya Janata Party | 60.0 | 51% | Clean record, Low fund utilization, High attendance |
-| 8 | LS | Anita Subhadarshini | Aska | Bharatiya Janata Party | 59.1 | 65% | Clean record, Low fund utilization |
-| 9 | LS | Bhartruhari Mahtab | Cuttack | Bharatiya Janata Party | 58.1 | 52% | Low fund utilization, High attendance |
-| 10 | LS | Sambit Patra | Puri | Bharatiya Janata Party | 56.6 | 61% | Low fund utilization, High attendance |
-| 11 | LS | Sangeeta Kumari Singh Deo | Bolangir | Bharatiya Janata Party | 54.4 | 61% | Low fund utilization, High attendance |
-| 12 | LS | Avimanyu Sethi | Bhadrak | Bharatiya Janata Party | 53.9 | 51% | Clean record, Low fund utilization, High attendance |
-| 13 | LS | Rabindra Narayan Behera | Jajpur | Bharatiya Janata Party | 53.1 | 60% | Clean record, Low fund utilization, High attendance |
-| 14 | LS | Naba Charan Majhi | Mayurbhanj | Bharatiya Janata Party | 52.9 | 52% | Low fund utilization |
-| 15 | LS | Sukanta Kumar Panigrahi | Kandhamal | Bharatiya Janata Party | 51.6 | 61% | Low fund utilization, High attendance |
-| 16 | LS | Bibhu Prasad Tarai | Jagatsinghpur | Bharatiya Janata Party | 49.1 | 52% | Low fund utilization, High attendance |
-| 17 | LS | Jual Oram | Sundargarh | Bharatiya Janata Party | 49.0 | 49% | Low fund utilization |
-| 18 | RS | Manmohan Samal | Rajya Sabha (Odisha) | Bharatiya Janata Party | 48.9 | 50% | Low fund utilization, High attendance |
-| 19 | RS | Sasmit Patra | Rajya Sabha (Odisha) | Biju Janata Dal | 48.0 | 37% | Clean record, Low fund utilization |
-| 20 | RS | Subhasish Khuntia | Rajya Sabha (Odisha) | Biju Janata Dal | 48.0 | 37% | Clean record, Low fund utilization |
-| 21 | RS | Sujeet Kumar | Rajya Sabha (Odisha) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
-| 22 | RS | Sulata Deo | Rajya Sabha (Odisha) | Biju Janata Dal | 48.0 | 37% | Clean record, Low fund utilization |
-| 23 | LS | Balabhadra Majhi | Nabarangpur | Bharatiya Janata Party | 46.5 | 61% | Low fund utilization |
-| 24 | RS | Debashish Samantaray | Rajya Sabha (Odisha) | Bharatiya Janata Party | 43.8 | 50% | Significant criminal cases, Low fund utilization |
-| 25 | RS | Dilip Kumar Ray | Rajya Sabha (Odisha) | Independent & Others | 43.2 | 50% | Significant criminal cases, Low fund utilization |
-| 26 | LS | Dharmendra Pradhan | Sambalpur | Bharatiya Janata Party | 42.5 | 49% | Low fund utilization |
-| 27 | LS | Rudra Narayan Pany | Dhenkanal | Bharatiya Janata Party | 39.8 | 52% | Significant criminal cases, Low fund utilization, High attendance |
-| 28 | LS | Pradeep Purohit | Bargarh | Bharatiya Janata Party | 39.7 | 52% | Significant criminal cases, Low fund utilization, High attendance |
-| 29 | LS | Baijayant Panda | Kendrapara | Bharatiya Janata Party | 38.2 | 52% | Significant criminal cases, Low fund utilization |
-| 30 | LS | Pradeep Kumar Panigrahy | Berhampur | Bharatiya Janata Party | 32.5 | 52% | Significant criminal cases, Low fund utilization |
-| 31 | LS | Pratap Chandra Sarangi | Balasore | Bharatiya Janata Party | 31.0 | 52% | Significant criminal cases, Low fund utilization |
+| 1 | RS | Manas Ranjan Mangaraj | Rajya Sabha (Odisha) | Biju Janata Dal | 69.5 | 50% | Clean record, Low fund utilization, High attendance |
+| 2 | LS | Saptagiri Sankar Ulaka | Koraput | Indian National Congress | 67.7 | 60% | Clean record, Low fund utilization, High attendance |
+| 3 | LS | Ananta Nayak | Keonjhar | Bharatiya Janata Party | 66.2 | 67% | Low fund utilization, High attendance |
+| 4 | RS | Ashwini Vaishnaw | Rajya Sabha (Odisha) | Bharatiya Janata Party | 65.2 | 50% | Clean record, Low fund utilization, High attendance |
+| 5 | LS | Aparajita Sarangi | Bhubaneswar | Bharatiya Janata Party | 64.8 | 67% | Low fund utilization, High attendance |
+| 6 | RS | Santrupt Misra | Rajya Sabha (Odisha) | Biju Janata Dal | 64.6 | 50% | Clean record, Low fund utilization, High attendance |
+| 7 | LS | Malvika Devi | Kalahandi | Bharatiya Janata Party | 63.5 | 51% | Clean record, Low fund utilization, High attendance |
+| 8 | LS | Anita Subhadarshini | Aska | Bharatiya Janata Party | 62.5 | 65% | Clean record, Low fund utilization |
+| 9 | LS | Bhartruhari Mahtab | Cuttack | Bharatiya Janata Party | 61.3 | 52% | Low fund utilization, High attendance |
+| 10 | LS | Sambit Patra | Puri | Bharatiya Janata Party | 59.5 | 61% | Low fund utilization, High attendance |
+| 11 | LS | Sangeeta Kumari Singh Deo | Bolangir | Bharatiya Janata Party | 56.9 | 61% | Low fund utilization, High attendance |
+| 12 | LS | Avimanyu Sethi | Bhadrak | Bharatiya Janata Party | 56.4 | 51% | Clean record, Low fund utilization, High attendance |
+| 13 | LS | Rabindra Narayan Behera | Jajpur | Bharatiya Janata Party | 55.4 | 60% | Clean record, Low fund utilization, High attendance |
+| 14 | LS | Naba Charan Majhi | Mayurbhanj | Bharatiya Janata Party | 55.1 | 52% | Low fund utilization |
+| 15 | LS | Sukanta Kumar Panigrahi | Kandhamal | Bharatiya Janata Party | 53.6 | 61% | Low fund utilization, High attendance |
+| 16 | LS | Bibhu Prasad Tarai | Jagatsinghpur | Bharatiya Janata Party | 50.8 | 52% | Low fund utilization, High attendance |
+| 17 | LS | Jual Oram | Sundargarh | Bharatiya Janata Party | 50.6 | 49% | Low fund utilization |
+| 18 | RS | Manmohan Samal | Rajya Sabha (Odisha) | Bharatiya Janata Party | 50.5 | 50% | Low fund utilization, High attendance |
+| 19 | RS | Sasmit Patra | Rajya Sabha (Odisha) | Biju Janata Dal | 49.4 | 37% | Clean record, Low fund utilization |
+| 20 | RS | Subhasish Khuntia | Rajya Sabha (Odisha) | Biju Janata Dal | 49.4 | 37% | Clean record, Low fund utilization |
+| 21 | RS | Sujeet Kumar | Rajya Sabha (Odisha) | Bharatiya Janata Party | 49.4 | 37% | Clean record, Low fund utilization |
+| 22 | RS | Sulata Deo | Rajya Sabha (Odisha) | Biju Janata Dal | 49.4 | 37% | Clean record, Low fund utilization |
+| 23 | LS | Balabhadra Majhi | Nabarangpur | Bharatiya Janata Party | 47.6 | 61% | Low fund utilization |
+| 24 | RS | Debashish Samantaray | Rajya Sabha (Odisha) | Bharatiya Janata Party | 44.4 | 50% | Significant criminal cases, Low fund utilization |
+| 25 | RS | Dilip Kumar Ray | Rajya Sabha (Odisha) | Independent & Others | 43.8 | 50% | Significant criminal cases, Low fund utilization |
+| 26 | LS | Dharmendra Pradhan | Sambalpur | Bharatiya Janata Party | 42.9 | 49% | Low fund utilization |
+| 27 | LS | Rudra Narayan Pany | Dhenkanal | Bharatiya Janata Party | 39.7 | 52% | Significant criminal cases, Low fund utilization, High attendance |
+| 28 | LS | Pradeep Purohit | Bargarh | Bharatiya Janata Party | 39.6 | 52% | Significant criminal cases, Low fund utilization, High attendance |
+| 29 | LS | Baijayant Panda | Kendrapara | Bharatiya Janata Party | 37.9 | 52% | Significant criminal cases, Low fund utilization |
+| 30 | LS | Pradeep Kumar Panigrahy | Berhampur | Bharatiya Janata Party | 31.2 | 52% | Significant criminal cases, Low fund utilization |
+| 31 | LS | Pratap Chandra Sarangi | Balasore | Bharatiya Janata Party | 29.4 | 52% | Significant criminal cases, Low fund utilization |
 
 ### Score Breakdown
 

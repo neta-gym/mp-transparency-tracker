@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 63.4 / 100
+## Composite Transparency Score: 67.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Rodmal Nagar shows moderate transparency with a score of 63.4/100. No criminal cases declared. High parliament attendance.
+Rodmal Nagar shows moderate transparency with a score of 67.5/100. No criminal cases declared. High parliament attendance.
 
 ---
 

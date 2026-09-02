@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.7 / 100
+## Composite Transparency Score: 47.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-Sudip Bandyopadhyay has a below-average transparency score of 46.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Sudip Bandyopadhyay has a below-average transparency score of 47.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

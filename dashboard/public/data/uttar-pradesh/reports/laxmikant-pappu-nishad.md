@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.5 / 100
+## Composite Transparency Score: 47.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -110,7 +110,7 @@
 
 ## Qualitative Assessment
 
-Laxmikant Pappu Nishad has a below-average transparency score of 46.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Laxmikant Pappu Nishad has a below-average transparency score of 47.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

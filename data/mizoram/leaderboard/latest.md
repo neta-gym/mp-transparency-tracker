@@ -1,11 +1,11 @@
 # MP Transparency Leaderboard — Mizoram
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 2 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 2 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Richard Vanlalhmangaiha | Mizoram | Zoram Peoples Movement | 65.3 | 65% | Clean record, High attendance |
-| 2 | RS | Khiangte Laltluangkima | Rajya Sabha (Mizoram) | Zoram Peoples Movement | 48.0 | 37% | Clean record, Low fund utilization |
+| 1 | LS | Richard Vanlalhmangaiha | Mizoram | Zoram Peoples Movement | 69.7 | 65% | Clean record, High attendance |
+| 2 | RS | Khiangte Laltluangkima | Rajya Sabha (Mizoram) | Zoram Peoples Movement | 49.4 | 37% | Clean record, Low fund utilization |
 
 ### Score Breakdown
 

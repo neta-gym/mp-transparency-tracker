@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 50.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -80,7 +80,7 @@
 
 ## Qualitative Assessment
 
-Vem Narendar Reddy has a below-average transparency score of 49.0/100, indicating significant room for improvement. No criminal cases declared. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
+Vem Narendar Reddy shows moderate transparency with a score of 50.6/100. No criminal cases declared. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

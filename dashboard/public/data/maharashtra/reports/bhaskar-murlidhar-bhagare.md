@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.8 / 100
+## Composite Transparency Score: 62.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Bhaskar Murlidhar Bhagare shows moderate transparency with a score of 58.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Bhaskar Murlidhar Bhagare shows moderate transparency with a score of 62.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

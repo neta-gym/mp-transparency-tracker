@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 62.9 / 100
+## Composite Transparency Score: 66.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -85,7 +85,7 @@
 
 ## Qualitative Assessment
 
-Sadhna Singh shows moderate transparency with a score of 62.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sadhna Singh shows moderate transparency with a score of 66.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 44.9 / 100
+## Composite Transparency Score: 45.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -80,7 +80,7 @@
 
 ## Qualitative Assessment
 
-C. Sadanandan Master has a below-average transparency score of 44.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
+C. Sadanandan Master has a below-average transparency score of 45.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

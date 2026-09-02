@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.4 / 100
+## Composite Transparency Score: 53.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -109,7 +109,7 @@
 
 ## Qualitative Assessment
 
-Rajkumar Sangwan shows moderate transparency with a score of 51.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Rajkumar Sangwan shows moderate transparency with a score of 53.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

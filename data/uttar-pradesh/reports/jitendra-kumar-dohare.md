@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 60.1 / 100
+## Composite Transparency Score: 63.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Jitendra Kumar Dohare shows moderate transparency with a score of 60.1/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Jitendra Kumar Dohare shows moderate transparency with a score of 63.7/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

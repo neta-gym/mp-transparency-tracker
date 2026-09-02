@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 52.0 / 100
+## Composite Transparency Score: 54.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-Renuka Chowdhury shows moderate transparency with a score of 52.0/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Renuka Chowdhury shows moderate transparency with a score of 54.1/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

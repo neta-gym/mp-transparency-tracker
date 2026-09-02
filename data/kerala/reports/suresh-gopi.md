@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 43.1 / 100
+## Composite Transparency Score: 43.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -128,7 +128,7 @@ CBCID/2017 | Section 40, r/w 177 MV Act (Sections: N/A) [pending]
 
 ## Qualitative Assessment
 
-Suresh Gopi has a below-average transparency score of 43.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Suresh Gopi has a below-average transparency score of 43.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

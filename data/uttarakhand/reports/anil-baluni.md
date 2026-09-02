@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 55.1 / 100
+## Composite Transparency Score: 57.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Anil Baluni shows moderate transparency with a score of 55.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Anil Baluni shows moderate transparency with a score of 57.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

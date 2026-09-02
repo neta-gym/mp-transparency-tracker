@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.9 / 100
+## Composite Transparency Score: 62.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-D Ravi Kumar shows moderate transparency with a score of 58.9/100. No criminal cases declared. Active in questions and debates.
+D Ravi Kumar shows moderate transparency with a score of 62.3/100. No criminal cases declared. Active in questions and debates.
 
 ---
 

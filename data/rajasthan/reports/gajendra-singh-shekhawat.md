@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 47.6 / 100
+## Composite Transparency Score: 48.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -105,7 +105,7 @@
 
 ## Qualitative Assessment
 
-Gajendra Singh Shekhawat has a below-average transparency score of 47.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Gajendra Singh Shekhawat has a below-average transparency score of 48.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

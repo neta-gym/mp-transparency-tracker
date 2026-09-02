@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 45.6 / 100
+## Composite Transparency Score: 46.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Ranjeet Ranjan has a below-average transparency score of 45.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ranjeet Ranjan has a below-average transparency score of 46.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

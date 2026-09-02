@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 31.4 / 100
+## Composite Transparency Score: 29.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -119,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Devendra Singh Alias Bhole Singh has a below-average transparency score of 31.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Devendra Singh Alias Bhole Singh has a below-average transparency score of 29.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.1 / 100
+## Composite Transparency Score: 61.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Ashok Kumar Yadav shows moderate transparency with a score of 58.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Ashok Kumar Yadav shows moderate transparency with a score of 61.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

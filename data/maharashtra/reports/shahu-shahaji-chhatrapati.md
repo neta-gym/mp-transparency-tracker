@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.8 / 100
+## Composite Transparency Score: 48.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Shahu Shahaji Chhatrapati has a below-average transparency score of 46.8/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Shahu Shahaji Chhatrapati has a below-average transparency score of 48.0/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

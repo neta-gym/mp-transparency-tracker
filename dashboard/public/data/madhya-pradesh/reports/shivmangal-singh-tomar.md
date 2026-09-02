@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.3 / 100
+## Composite Transparency Score: 54.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Shivmangal Singh Tomar shows moderate transparency with a score of 52.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Shivmangal Singh Tomar shows moderate transparency with a score of 54.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.6 / 100
+## Composite Transparency Score: 51.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Shatrughan Prasad Sinha has a below-average transparency score of 49.6/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Shatrughan Prasad Sinha shows moderate transparency with a score of 51.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 66.0 / 100
+## Composite Transparency Score: 70.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -85,7 +85,7 @@
 
 ## Qualitative Assessment
 
-Sat Paul Sharma shows moderate transparency with a score of 66.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sat Paul Sharma demonstrates strong transparency with an overall score of 70.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

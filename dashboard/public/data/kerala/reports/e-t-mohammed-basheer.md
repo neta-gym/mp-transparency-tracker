@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 55.3 / 100
+## Composite Transparency Score: 58.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-E T Mohammed Basheer shows moderate transparency with a score of 55.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+E T Mohammed Basheer shows moderate transparency with a score of 58.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

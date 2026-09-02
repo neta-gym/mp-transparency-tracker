@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 46.4 / 100
+## Composite Transparency Score: 47.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -138,7 +138,7 @@
 
 ## Qualitative Assessment
 
-Abhay Kumar Sinha has a below-average transparency score of 46.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Abhay Kumar Sinha has a below-average transparency score of 47.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

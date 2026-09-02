@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.6 / 100
+## Composite Transparency Score: 63.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Pushpendra Saroj shows moderate transparency with a score of 59.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Pushpendra Saroj shows moderate transparency with a score of 63.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

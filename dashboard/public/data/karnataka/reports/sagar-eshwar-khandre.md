@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 47.9 / 100
+## Composite Transparency Score: 49.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Sagar Eshwar Khandre has a below-average transparency score of 47.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Sagar Eshwar Khandre has a below-average transparency score of 49.4/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

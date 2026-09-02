@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 33.6 / 100
+## Composite Transparency Score: 32.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-Anbumani Ramadoss has a below-average transparency score of 33.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Anbumani Ramadoss has a below-average transparency score of 32.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 

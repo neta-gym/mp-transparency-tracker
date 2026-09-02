@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.3 / 100
+## Composite Transparency Score: 53.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Phani Bhusan Choudhury shows moderate transparency with a score of 51.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Phani Bhusan Choudhury shows moderate transparency with a score of 53.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

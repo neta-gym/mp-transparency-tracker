@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 43.0 / 100
+## Composite Transparency Score: 43.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -101,7 +101,7 @@
 
 ## Qualitative Assessment
 
-Thirumaavalavan Tholkappiyan has a below-average transparency score of 43.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Thirumaavalavan Tholkappiyan has a below-average transparency score of 43.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

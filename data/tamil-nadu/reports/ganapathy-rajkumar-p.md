@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.6 / 100
+## Composite Transparency Score: 47.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Ganapathy Rajkumar P has a below-average transparency score of 46.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Ganapathy Rajkumar P has a below-average transparency score of 47.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

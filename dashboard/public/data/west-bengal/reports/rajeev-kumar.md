@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 61.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-Rajeev Kumar shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Rajeev Kumar shows moderate transparency with a score of 61.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

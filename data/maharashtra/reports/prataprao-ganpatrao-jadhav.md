@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 44.4 / 100
+## Composite Transparency Score: 45.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -110,7 +110,7 @@
 
 ## Qualitative Assessment
 
-Prataprao Ganpatrao Jadhav has a below-average transparency score of 44.4/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Prataprao Ganpatrao Jadhav has a below-average transparency score of 45.2/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 55.7 / 100
+## Composite Transparency Score: 58.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Kadiyam Kavya shows moderate transparency with a score of 55.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Kadiyam Kavya shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

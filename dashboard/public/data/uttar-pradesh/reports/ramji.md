@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 58.9 / 100
+## Composite Transparency Score: 62.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Ramji shows moderate transparency with a score of 58.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Ramji shows moderate transparency with a score of 62.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

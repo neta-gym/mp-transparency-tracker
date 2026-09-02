@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 50.1 / 100
+## Composite Transparency Score: 51.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-Shivraj Singh Chouhan shows moderate transparency with a score of 50.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Shivraj Singh Chouhan shows moderate transparency with a score of 51.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 

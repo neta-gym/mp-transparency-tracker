@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.7 / 100
+## Composite Transparency Score: 66.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Anoop Pradhan Valmiki shows moderate transparency with a score of 62.7/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
+Anoop Pradhan Valmiki shows moderate transparency with a score of 66.7/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

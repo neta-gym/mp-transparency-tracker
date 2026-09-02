@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 48.9 / 100
+## Composite Transparency Score: 50.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-Manmohan Samal has a below-average transparency score of 48.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Manmohan Samal shows moderate transparency with a score of 50.5/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

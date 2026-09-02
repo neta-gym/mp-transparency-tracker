@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 64.8 / 100
+## Composite Transparency Score: 69.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Rajeev Rai shows moderate transparency with a score of 64.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Rajeev Rai shows moderate transparency with a score of 69.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

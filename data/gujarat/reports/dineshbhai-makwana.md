@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 56.8 / 100
+## Composite Transparency Score: 59.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Dineshbhai Makwana shows moderate transparency with a score of 56.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dineshbhai Makwana shows moderate transparency with a score of 59.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

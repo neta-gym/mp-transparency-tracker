@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 34.5 / 100
+## Composite Transparency Score: 33.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -126,7 +126,7 @@
 
 ## Qualitative Assessment
 
-Narayan Tatu Rane has a below-average transparency score of 34.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Narayan Tatu Rane has a below-average transparency score of 33.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

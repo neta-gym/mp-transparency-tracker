@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.2 / 100
+## Composite Transparency Score: 50.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Priyanka Gandhi Vadra has a below-average transparency score of 49.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Priyanka Gandhi Vadra shows moderate transparency with a score of 50.9/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

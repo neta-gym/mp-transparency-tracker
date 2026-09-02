@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 58.3 / 100
+## Composite Transparency Score: 61.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Arjun Ram Meghwal shows moderate transparency with a score of 58.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Arjun Ram Meghwal shows moderate transparency with a score of 61.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

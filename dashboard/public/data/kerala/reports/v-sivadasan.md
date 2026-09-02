@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 36.0 / 100
+## Composite Transparency Score: 35.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-V. Sivadasan has a below-average transparency score of 36.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+V. Sivadasan has a below-average transparency score of 35.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

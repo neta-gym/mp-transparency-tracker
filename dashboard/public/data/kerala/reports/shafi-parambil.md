@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 33.0 / 100
+## Composite Transparency Score: 30.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -167,7 +167,7 @@ Cantonment | Sec.117(e) 77B , 39, 121 KP ACT KEDO 2020 4(2)(a), 4(2)(e)  4 (2)(j
 
 ## Qualitative Assessment
 
-Shafi Parambil has a below-average transparency score of 33.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Shafi Parambil has a below-average transparency score of 30.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

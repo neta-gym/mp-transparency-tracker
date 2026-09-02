@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.2 / 100
+## Composite Transparency Score: 61.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Hasmukhbhai Somabhai Patel shows moderate transparency with a score of 58.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Hasmukhbhai Somabhai Patel shows moderate transparency with a score of 61.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

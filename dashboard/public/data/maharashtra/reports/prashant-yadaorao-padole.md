@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.0 / 100
+## Composite Transparency Score: 62.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -117,7 +117,7 @@
 
 ## Qualitative Assessment
 
-Prashant Yadaorao Padole shows moderate transparency with a score of 59.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Prashant Yadaorao Padole shows moderate transparency with a score of 62.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.8 / 100
+## Composite Transparency Score: 51.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Piyush Vedprakash Goyal has a below-average transparency score of 49.8/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Piyush Vedprakash Goyal shows moderate transparency with a score of 51.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

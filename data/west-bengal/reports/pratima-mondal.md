@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 56.5 / 100
+## Composite Transparency Score: 59.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Pratima Mondal shows moderate transparency with a score of 56.5/100. No criminal cases declared. Active in questions and debates.
+Pratima Mondal shows moderate transparency with a score of 59.4/100. No criminal cases declared. Active in questions and debates.
 
 ---
 

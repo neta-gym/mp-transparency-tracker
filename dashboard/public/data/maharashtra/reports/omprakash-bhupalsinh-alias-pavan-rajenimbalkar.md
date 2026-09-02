@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 56.1 / 100
+## Composite Transparency Score: 59.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -121,7 +121,7 @@
 
 ## Qualitative Assessment
 
-Omprakash Bhupalsinh Alias Pavan Rajenimbalkar shows moderate transparency with a score of 56.1/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Omprakash Bhupalsinh Alias Pavan Rajenimbalkar shows moderate transparency with a score of 59.0/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

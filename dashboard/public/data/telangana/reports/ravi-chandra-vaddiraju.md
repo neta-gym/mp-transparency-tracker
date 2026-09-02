@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 43.1 / 100
+## Composite Transparency Score: 43.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-Ravi Chandra Vaddiraju has a below-average transparency score of 43.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Ravi Chandra Vaddiraju has a below-average transparency score of 43.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

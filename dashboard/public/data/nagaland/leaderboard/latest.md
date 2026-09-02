@@ -1,11 +1,11 @@
 # MP Transparency Leaderboard — Nagaland
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 2 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 2 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | S Supongmeren Jamir | Nagaland | Indian National Congress | 74.4 | 65% | Clean record, High attendance |
-| 2 | RS | S. Phangnon Konyak | Rajya Sabha (Nagaland) | Bharatiya Janata Party | 64.8 | 50% | Clean record, Low fund utilization, High attendance |
+| 1 | LS | S Supongmeren Jamir | Nagaland | Indian National Congress | 80.5 | 65% | Clean record, High attendance |
+| 2 | RS | S. Phangnon Konyak | Rajya Sabha (Nagaland) | Bharatiya Janata Party | 69.2 | 50% | Clean record, Low fund utilization, High attendance |
 
 ### Score Breakdown
 

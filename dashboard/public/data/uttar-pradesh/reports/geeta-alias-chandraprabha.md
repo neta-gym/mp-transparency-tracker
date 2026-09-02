@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 65.2 / 100
+## Composite Transparency Score: 69.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -87,7 +87,7 @@
 
 ## Qualitative Assessment
 
-Geeta alias Chandraprabha shows moderate transparency with a score of 65.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Geeta alias Chandraprabha shows moderate transparency with a score of 69.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

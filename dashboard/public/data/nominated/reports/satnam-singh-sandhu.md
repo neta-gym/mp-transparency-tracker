@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 54.3 / 100
+## Composite Transparency Score: 56.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -80,7 +80,7 @@
 
 ## Qualitative Assessment
 
-Satnam Singh Sandhu shows moderate transparency with a score of 54.3/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Satnam Singh Sandhu shows moderate transparency with a score of 56.8/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

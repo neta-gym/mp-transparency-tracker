@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 63.6 / 100
+## Composite Transparency Score: 67.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Manoj Kumar Jha shows moderate transparency with a score of 63.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Manoj Kumar Jha shows moderate transparency with a score of 67.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

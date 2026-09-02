@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.2 / 100
+## Composite Transparency Score: 54.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Ramesh Chandappa Jigajinagi shows moderate transparency with a score of 52.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Ramesh Chandappa Jigajinagi shows moderate transparency with a score of 54.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

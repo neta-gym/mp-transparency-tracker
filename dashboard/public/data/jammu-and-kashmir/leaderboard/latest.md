@@ -1,18 +1,18 @@
 # MP Transparency Leaderboard — Jammu-And-Kashmir
 
-*Generated: 2026-09-02 19:30 UTC | Methodology v3.1 | 9 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 9 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | RS | Sat Paul Sharma | Rajya Sabha (Jammu & Kashmir) | Bharatiya Janata Party | 66.0 | 50% | Clean record, Low fund utilization, High attendance |
-| 2 | RS | Sajjad Ahmad Kichloo | Rajya Sabha (Jammu & Kashmir) | J&K National Conference | 63.5 | 50% | Clean record, Low fund utilization, High attendance |
-| 3 | RS | Chowdry Mohammad Ramzan | Rajya Sabha (Jammu & Kashmir) | J&K National Conference | 62.9 | 50% | Clean record, Low fund utilization, High attendance |
-| 4 | LS | Aga Syed Ruhullah Mehdi | Srinagar | Jammu and Kashmir National Conference | 60.0 | 60% | Clean record, Low fund utilization, High attendance |
-| 5 | RS | Gurwinder Singh Oberoi | Rajya Sabha (Jammu & Kashmir) | J&K National Conference | 59.1 | 50% | Clean record, Low fund utilization, High attendance |
-| 6 | LS | Jugal Kishore | Jammu | Bharatiya Janata Party | 58.4 | 52% | Clean record, Low fund utilization, High attendance |
-| 7 | LS | Mian Altaf Ahmad | Anantnag-Rajouri | Jammu and Kashmir National Conference | 51.8 | 60% | Clean record, Low fund utilization |
-| 8 | LS | Jitendra Singh | Udhampur | Bharatiya Janata Party | 51.2 | 39% | Clean record, Low fund utilization |
-| 9 | LS | Abdul Rashid Sheikh | Baramulla | Independent | 39.2 | 61% | Low fund utilization |
+| 1 | RS | Sat Paul Sharma | Rajya Sabha (Jammu & Kashmir) | Bharatiya Janata Party | 70.5 | 50% | Clean record, Low fund utilization, High attendance |
+| 2 | RS | Sajjad Ahmad Kichloo | Rajya Sabha (Jammu & Kashmir) | J&K National Conference | 67.6 | 50% | Clean record, Low fund utilization, High attendance |
+| 3 | RS | Chowdry Mohammad Ramzan | Rajya Sabha (Jammu & Kashmir) | J&K National Conference | 66.9 | 50% | Clean record, Low fund utilization, High attendance |
+| 4 | LS | Aga Syed Ruhullah Mehdi | Srinagar | Jammu and Kashmir National Conference | 63.5 | 60% | Clean record, Low fund utilization, High attendance |
+| 5 | RS | Gurwinder Singh Oberoi | Rajya Sabha (Jammu & Kashmir) | J&K National Conference | 62.5 | 50% | Clean record, Low fund utilization, High attendance |
+| 6 | LS | Jugal Kishore | Jammu | Bharatiya Janata Party | 61.6 | 52% | Clean record, Low fund utilization, High attendance |
+| 7 | LS | Mian Altaf Ahmad | Anantnag-Rajouri | Jammu and Kashmir National Conference | 53.9 | 60% | Clean record, Low fund utilization |
+| 8 | LS | Jitendra Singh | Udhampur | Bharatiya Janata Party | 53.2 | 39% | Clean record, Low fund utilization |
+| 9 | LS | Abdul Rashid Sheikh | Baramulla | Independent | 39.1 | 61% | Low fund utilization |
 
 ### Score Breakdown
 

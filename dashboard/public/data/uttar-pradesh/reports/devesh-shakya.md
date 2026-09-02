@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 61.2 / 100
+## Composite Transparency Score: 64.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Devesh Shakya shows moderate transparency with a score of 61.2/100. Minor criminal cases on record. High parliament attendance.
+Devesh Shakya shows moderate transparency with a score of 64.9/100. Minor criminal cases on record. High parliament attendance.
 
 ---
 

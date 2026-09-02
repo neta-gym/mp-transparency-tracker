@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.5 / 100
+## Composite Transparency Score: 53.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-Ramasahayam Raghuram Reddy shows moderate transparency with a score of 51.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Ramasahayam Raghuram Reddy shows moderate transparency with a score of 53.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

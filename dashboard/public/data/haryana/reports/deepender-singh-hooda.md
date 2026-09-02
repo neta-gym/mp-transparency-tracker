@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.6 / 100
+## Composite Transparency Score: 63.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Deepender Singh Hooda shows moderate transparency with a score of 59.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Deepender Singh Hooda shows moderate transparency with a score of 63.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

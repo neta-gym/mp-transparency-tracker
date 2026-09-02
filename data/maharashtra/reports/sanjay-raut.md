@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 41.6 / 100
+## Composite Transparency Score: 41.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-Sanjay Raut has a below-average transparency score of 41.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Sanjay Raut has a below-average transparency score of 41.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

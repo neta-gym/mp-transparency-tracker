@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.8 / 100
+## Composite Transparency Score: 57.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Narendra Modi shows moderate transparency with a score of 54.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Narendra Modi shows moderate transparency with a score of 57.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 38.7 / 100
+## Composite Transparency Score: 38.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Rajesh Ranjan has a below-average transparency score of 38.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Rajesh Ranjan has a below-average transparency score of 38.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

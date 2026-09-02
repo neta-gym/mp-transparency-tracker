@@ -1,11 +1,11 @@
 # MP Transparency Leaderboard — Meghalaya
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 2 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 2 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Saleng A Sangma | Tura | Indian National Congress | 70.5 | 65% | Clean record, High attendance |
-| 2 | RS | James Pangsang Kongkal Sangma | Rajya Sabha (Meghalaya) | National Peoples Party | 56.2 | 50% | Clean record, Low fund utilization, High attendance |
+| 1 | LS | Saleng A Sangma | Tura | Indian National Congress | 75.9 | 65% | Clean record, High attendance |
+| 2 | RS | James Pangsang Kongkal Sangma | Rajya Sabha (Meghalaya) | National Peoples Party | 59.1 | 50% | Clean record, Low fund utilization, High attendance |
 
 ### Score Breakdown
 

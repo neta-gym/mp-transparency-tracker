@@ -1,12 +1,12 @@
 # MP Transparency Leaderboard — Manipur
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 3 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 3 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Angomcha Bimol Akoijam | Inner Manipur | Indian National Congress | 65.9 | 65% | Clean record, High attendance |
-| 2 | LS | Alfred Kanngam S Arthur | Outer Manipur | Indian National Congress | 62.1 | 65% | Clean record |
-| 3 | RS | Adhikarimayum Sharda Devi | Rajya Sabha (Manipur) | Bharatiya Janata Party | 56.4 | 50% | Clean record, Low fund utilization |
+| 1 | LS | Angomcha Bimol Akoijam | Inner Manipur | Indian National Congress | 70.5 | 65% | Clean record, High attendance |
+| 2 | LS | Alfred Kanngam S Arthur | Outer Manipur | Indian National Congress | 66.0 | 65% | Clean record |
+| 3 | RS | Adhikarimayum Sharda Devi | Rajya Sabha (Manipur) | Bharatiya Janata Party | 59.2 | 50% | Clean record, Low fund utilization |
 
 ### Score Breakdown
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 64.0 / 100
+## Composite Transparency Score: 68.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Bidyut Baran Mahato shows moderate transparency with a score of 64.0/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Bidyut Baran Mahato shows moderate transparency with a score of 68.2/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 

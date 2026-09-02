@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 66.3 / 100
+## Composite Transparency Score: 70.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Neeraj Maurya shows moderate transparency with a score of 66.3/100. No criminal cases declared. High parliament attendance.
+Neeraj Maurya demonstrates strong transparency with an overall score of 70.9/100. No criminal cases declared. High parliament attendance.
 
 ---
 

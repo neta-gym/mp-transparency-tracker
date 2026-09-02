@@ -63,14 +63,16 @@ Each MP receives component scores from 0 to 100. The composite score is a weight
 
 | Component | Weight | What it is meant to capture |
 |---|---:|---|
-| MPLADS fund utilization | 20% | Whether available constituency development funds appear used effectively and transparently. |
-| Asset declarations/growth | 15% | Public affidavit-linked asset signals and declaration consistency. |
-| Criminal record disclosures | 20% | Declared criminal cases and severity signals from public affidavit-linked data. |
-| Parliament attendance | 15% | Attendance signals where available, with ministerial context handled in code. |
-| Parliamentary participation | 10% | Questions/debates participation signals from parliamentary activity data. |
-| Committee participation | 5% | Committee membership/participation where available. |
-| Legislative activity | 10% | Bill/legislative activity signals where available. |
-| Public accessibility | 5% | Public-facing contact/social/accessibility signals. |
+| MPLADS fund utilization | 23.5% | Whether available constituency development funds appear used effectively and transparently. |
+| Criminal record disclosures | 23.5% | Declared criminal cases and severity signals from public affidavit-linked data. |
+| Asset declarations/growth | 17.6% | Public affidavit-linked asset signals and declaration consistency. |
+| Parliament attendance | 17.6% | Attendance signals where available, with ministerial context handled in code. |
+| Parliamentary participation | 11.8% | Questions/debates participation signals from parliamentary activity data. |
+| Public accessibility | 5.9% | Public-facing contact/social/accessibility signals. |
+| Committee participation | 0% (excluded) | Placeholder estimate for nearly every MP; displayed but not counted until real source data exists. |
+| Legislative activity | 0% (excluded) | Placeholder estimate for nearly every MP; displayed but not counted until real source data exists. |
+
+v3.2 reweight: Committees and Legislative were dropped from the composite (previously 5% and 10%) because both dimensions are placeholder estimates for ~all 786 MPs. The remaining six weights scale proportionally (4/17, 3/17, 4/17, 3/17, 2/17, 1/17). Estimated placeholder scores are marked with an asterisk in the UI and can never win a compare row.
 
 Important interpretation notes:
 

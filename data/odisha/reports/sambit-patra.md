@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 56.6 / 100
+## Composite Transparency Score: 59.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Sambit Patra shows moderate transparency with a score of 56.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Sambit Patra shows moderate transparency with a score of 59.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

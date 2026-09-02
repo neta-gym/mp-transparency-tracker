@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.2 / 100
+## Composite Transparency Score: 62.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-S  P Singh Baghel shows moderate transparency with a score of 59.2/100. No criminal cases declared.
+S  P Singh Baghel shows moderate transparency with a score of 62.6/100. No criminal cases declared.
 
 ---
 

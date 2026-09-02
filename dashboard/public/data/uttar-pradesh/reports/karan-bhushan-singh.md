@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.5 / 100
+## Composite Transparency Score: 66.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Karan Bhushan Singh shows moderate transparency with a score of 62.5/100. No criminal cases declared. High parliament attendance.
+Karan Bhushan Singh shows moderate transparency with a score of 66.5/100. No criminal cases declared. High parliament attendance.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.1 / 100
+## Composite Transparency Score: 50.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Mansukh Mandaviya has a below-average transparency score of 49.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Mansukh Mandaviya shows moderate transparency with a score of 50.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

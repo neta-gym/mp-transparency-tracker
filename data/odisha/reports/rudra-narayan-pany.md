@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 39.8 / 100
+## Composite Transparency Score: 39.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Rudra Narayan Pany has a below-average transparency score of 39.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Rudra Narayan Pany has a below-average transparency score of 39.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 43.8 / 100
+## Composite Transparency Score: 44.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-E Tukaram has a below-average transparency score of 43.8/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+E Tukaram has a below-average transparency score of 44.5/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

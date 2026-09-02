@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 58.2 / 100
+## Composite Transparency Score: 61.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-B.L. Verma shows moderate transparency with a score of 58.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+B.L. Verma shows moderate transparency with a score of 61.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

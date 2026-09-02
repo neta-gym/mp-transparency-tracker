@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 45.0 / 100
+## Composite Transparency Score: 45.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -105,7 +105,7 @@
 
 ## Qualitative Assessment
 
-Radhakrishna has a below-average transparency score of 45.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
+Radhakrishna has a below-average transparency score of 45.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

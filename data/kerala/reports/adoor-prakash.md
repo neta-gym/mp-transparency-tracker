@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 48.4 / 100
+## Composite Transparency Score: 49.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -148,7 +148,7 @@ Varkale Police station (Sections: 143, 147, 149, 283) [pending]
 
 ## Qualitative Assessment
 
-Adoor Prakash has a below-average transparency score of 48.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Adoor Prakash has a below-average transparency score of 49.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

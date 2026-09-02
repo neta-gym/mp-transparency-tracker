@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 70.5 / 100
+## Composite Transparency Score: 75.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -119,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Saleng A Sangma demonstrates strong transparency with an overall score of 70.5/100. No criminal cases declared. High parliament attendance.
+Saleng A Sangma demonstrates strong transparency with an overall score of 75.9/100. No criminal cases declared. High parliament attendance.
 
 ---
 

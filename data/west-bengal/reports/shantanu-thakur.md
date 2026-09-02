@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 28.9 / 100
+## Composite Transparency Score: 26.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -142,7 +142,7 @@
 
 ## Qualitative Assessment
 
-Shantanu Thakur has a below-average transparency score of 28.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Shantanu Thakur has a below-average transparency score of 26.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.0 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Bharatbhai Manubhai Sutariya shows moderate transparency with a score of 54.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Bharatbhai Manubhai Sutariya shows moderate transparency with a score of 56.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

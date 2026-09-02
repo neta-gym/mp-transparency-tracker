@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 61.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Dushyant Singh shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dushyant Singh shows moderate transparency with a score of 61.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

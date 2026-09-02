@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 38.7 / 100
+## Composite Transparency Score: 38.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -111,7 +111,7 @@
 
 ## Qualitative Assessment
 
-Afzal Ansari has a below-average transparency score of 38.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Afzal Ansari has a below-average transparency score of 38.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

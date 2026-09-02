@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.1 / 100
+## Composite Transparency Score: 53.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -124,7 +124,7 @@ to step up interstate anti-drug drive - The New Indian Express** (The New Indian
 
 ## Qualitative Assessment
 
-Benny Behanan shows moderate transparency with a score of 52.1/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Benny Behanan shows moderate transparency with a score of 53.0/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

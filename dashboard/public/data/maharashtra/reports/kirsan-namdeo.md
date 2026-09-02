@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.3 / 100
+## Composite Transparency Score: 62.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Kirsan Namdeo shows moderate transparency with a score of 59.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kirsan Namdeo shows moderate transparency with a score of 62.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

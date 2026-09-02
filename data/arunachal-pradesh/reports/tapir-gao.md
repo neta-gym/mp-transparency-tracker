@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 70.6 / 100
+## Composite Transparency Score: 76.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Tapir Gao demonstrates strong transparency with an overall score of 70.6/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+Tapir Gao demonstrates strong transparency with an overall score of 76.1/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 

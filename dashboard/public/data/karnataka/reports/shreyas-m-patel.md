@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.5 / 100
+## Composite Transparency Score: 57.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -118,7 +118,7 @@
 
 ## Qualitative Assessment
 
-Shreyas M Patel shows moderate transparency with a score of 54.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Shreyas M Patel shows moderate transparency with a score of 57.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 

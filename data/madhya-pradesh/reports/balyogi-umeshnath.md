@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 58.5 / 100
+## Composite Transparency Score: 61.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-Balyogi Umeshnath shows moderate transparency with a score of 58.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Balyogi Umeshnath shows moderate transparency with a score of 61.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

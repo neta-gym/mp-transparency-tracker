@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 41.0 / 100
+## Composite Transparency Score: 41.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -86,7 +86,7 @@
 
 ## Qualitative Assessment
 
-Mamata Thakur has a below-average transparency score of 41.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Mamata Thakur has a below-average transparency score of 41.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

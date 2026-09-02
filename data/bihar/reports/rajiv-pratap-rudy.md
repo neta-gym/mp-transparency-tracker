@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 71.2 / 100
+## Composite Transparency Score: 73.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -124,7 +124,7 @@
 
 ## Qualitative Assessment
 
-Rajiv Pratap Rudy demonstrates strong transparency with an overall score of 71.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Rajiv Pratap Rudy demonstrates strong transparency with an overall score of 73.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

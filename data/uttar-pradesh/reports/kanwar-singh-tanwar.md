@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.4 / 100
+## Composite Transparency Score: 61.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Kanwar Singh Tanwar shows moderate transparency with a score of 58.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kanwar Singh Tanwar shows moderate transparency with a score of 61.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

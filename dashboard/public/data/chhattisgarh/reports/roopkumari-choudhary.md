@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.7 / 100
+## Composite Transparency Score: 66.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Roopkumari Choudhary shows moderate transparency with a score of 62.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Roopkumari Choudhary shows moderate transparency with a score of 66.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

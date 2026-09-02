@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 62.4 / 100
+## Composite Transparency Score: 66.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-Kanad Purkayastha shows moderate transparency with a score of 62.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kanad Purkayastha shows moderate transparency with a score of 66.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

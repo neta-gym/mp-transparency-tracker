@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 52.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -105,7 +105,7 @@
 
 ## Qualitative Assessment
 
-Gumma Thanuja Rani shows moderate transparency with a score of 51.0/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Gumma Thanuja Rani shows moderate transparency with a score of 52.9/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

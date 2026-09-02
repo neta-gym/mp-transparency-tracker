@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 67.9 / 100
+## Composite Transparency Score: 72.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Vijaylakshmi Devi shows moderate transparency with a score of 67.9/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Vijaylakshmi Devi demonstrates strong transparency with an overall score of 72.8/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

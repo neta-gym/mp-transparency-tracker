@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 47.7 / 100
+## Composite Transparency Score: 49.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Pathan Yusuf has a below-average transparency score of 47.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Pathan Yusuf has a below-average transparency score of 49.1/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

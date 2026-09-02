@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 41.0 / 100
+## Composite Transparency Score: 37.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -119,7 +119,7 @@
 
 ## Qualitative Assessment
 
-V K Sreekandan has a below-average transparency score of 41.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+V K Sreekandan has a below-average transparency score of 37.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 41.4 / 100
+## Composite Transparency Score: 41.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -87,7 +87,7 @@
 
 ## Qualitative Assessment
 
-Nitin Laxmanrao Jadhav Patil has a below-average transparency score of 41.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Nitin Laxmanrao Jadhav Patil has a below-average transparency score of 41.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

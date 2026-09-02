@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 47.7 / 100
+## Composite Transparency Score: 49.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Jagannath Sarkar has a below-average transparency score of 47.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Jagannath Sarkar has a below-average transparency score of 49.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

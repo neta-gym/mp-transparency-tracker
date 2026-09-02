@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.8 / 100
+## Composite Transparency Score: 57.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Amol Ramsing Kolhe shows moderate transparency with a score of 54.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Amol Ramsing Kolhe shows moderate transparency with a score of 57.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

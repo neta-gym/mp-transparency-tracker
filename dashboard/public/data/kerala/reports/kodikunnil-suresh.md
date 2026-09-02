@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.9 / 100
+## Composite Transparency Score: 48.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -129,7 +129,7 @@ Kottarakkara | Section 38/52 of KP Act. (Sections: 143, 147, 149, 188, 283) [pen
 
 ## Qualitative Assessment
 
-Kodikunnil Suresh has a below-average transparency score of 46.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kodikunnil Suresh has a below-average transparency score of 48.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

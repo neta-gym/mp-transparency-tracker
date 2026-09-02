@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.1 / 100
+## Composite Transparency Score: 66.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Ramesh Awasthi shows moderate transparency with a score of 62.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Ramesh Awasthi shows moderate transparency with a score of 66.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

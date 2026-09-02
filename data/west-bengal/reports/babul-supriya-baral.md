@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 31.0 / 100
+## Composite Transparency Score: 29.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -79,7 +79,7 @@
 
 ## Qualitative Assessment
 
-Babul Supriya Baral has a below-average transparency score of 31.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Limited participation in parliamentary proceedings.
+Babul Supriya Baral has a below-average transparency score of 29.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Limited participation in parliamentary proceedings.
 
 ---
 

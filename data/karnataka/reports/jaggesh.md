@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 58.6 / 100
+## Composite Transparency Score: 61.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -89,7 +89,7 @@
 
 ## Qualitative Assessment
 
-Jaggesh shows moderate transparency with a score of 58.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Jaggesh shows moderate transparency with a score of 61.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

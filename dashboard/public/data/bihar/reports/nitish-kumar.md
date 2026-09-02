@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 51.1 / 100
+## Composite Transparency Score: 53.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -79,7 +79,7 @@
 
 ## Qualitative Assessment
 
-Nitish Kumar shows moderate transparency with a score of 51.1/100. No criminal cases declared. Limited participation in parliamentary proceedings.
+Nitish Kumar shows moderate transparency with a score of 53.1/100. No criminal cases declared. Limited participation in parliamentary proceedings.
 
 ---
 

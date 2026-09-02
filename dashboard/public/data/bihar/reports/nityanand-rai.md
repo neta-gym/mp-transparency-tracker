@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 43.2 / 100
+## Composite Transparency Score: 43.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -111,7 +111,7 @@
 
 ## Qualitative Assessment
 
-Nityanand Rai has a below-average transparency score of 43.2/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Nityanand Rai has a below-average transparency score of 43.8/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 

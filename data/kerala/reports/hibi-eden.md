@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 42.7 / 100
+## Composite Transparency Score: 39.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -124,7 +124,7 @@
 
 ## Qualitative Assessment
 
-Hibi Eden has a below-average transparency score of 42.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Hibi Eden has a below-average transparency score of 39.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

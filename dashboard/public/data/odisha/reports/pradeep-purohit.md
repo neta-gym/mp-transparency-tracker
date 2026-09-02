@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 39.7 / 100
+## Composite Transparency Score: 39.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Pradeep Purohit has a below-average transparency score of 39.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Pradeep Purohit has a below-average transparency score of 39.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 68.9 / 100
+## Composite Transparency Score: 70.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-C N Annadurai shows moderate transparency with a score of 68.9/100. No criminal cases declared. Active in questions and debates.
+C N Annadurai demonstrates strong transparency with an overall score of 70.5/100. No criminal cases declared. Active in questions and debates.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 53.4 / 100
+## Composite Transparency Score: 55.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-John Brittas shows moderate transparency with a score of 53.4/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+John Brittas shows moderate transparency with a score of 55.7/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

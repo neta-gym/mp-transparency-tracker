@@ -742,7 +742,7 @@ class DebuggerAgent:
                 + acc_s * w.accessibility
                 + leg_s * w.legislative
             )
-            if not (0 <= composite <= 100):
+            if not (0 <= composite <= 100 + 1e-9):  # allow float dust
                 suite.checks.append(
                     CheckResult(
                         "Composite in [0, 100]",

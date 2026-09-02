@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 54.0 / 100
+## Composite Transparency Score: 56.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -91,7 +91,7 @@
 
 ## Qualitative Assessment
 
-Maya Naroliya shows moderate transparency with a score of 54.0/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+Maya Naroliya shows moderate transparency with a score of 56.5/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

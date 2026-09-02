@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.2 / 100
+## Composite Transparency Score: 47.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Giriraj Singh has a below-average transparency score of 46.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Giriraj Singh has a below-average transparency score of 47.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.3 / 100
+## Composite Transparency Score: 53.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -131,7 +131,7 @@
 
 ## Qualitative Assessment
 
-N K Premachandran shows moderate transparency with a score of 54.3/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+N K Premachandran shows moderate transparency with a score of 53.3/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 57.3 / 100
+## Composite Transparency Score: 60.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Balya Mama Suresh Gopinath Mhatre shows moderate transparency with a score of 57.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Balya Mama Suresh Gopinath Mhatre shows moderate transparency with a score of 60.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

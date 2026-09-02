@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 50.2 / 100
+## Composite Transparency Score: 52.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-Nilesh Dnyandev Lanke shows moderate transparency with a score of 50.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Nilesh Dnyandev Lanke shows moderate transparency with a score of 52.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 50.8 / 100
+## Composite Transparency Score: 52.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -117,7 +117,7 @@
 
 ## Qualitative Assessment
 
-G Kishan Reddy shows moderate transparency with a score of 50.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+G Kishan Reddy shows moderate transparency with a score of 52.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

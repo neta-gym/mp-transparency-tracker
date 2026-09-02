@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 41.2 / 100
+## Composite Transparency Score: 41.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -117,7 +117,7 @@ Court Culminated into Spl C.No.124/2014 | Sec 45 (1) of PMLA Act read with secti
 
 ## Qualitative Assessment
 
-Shobha Karandlaje has a below-average transparency score of 41.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Shobha Karandlaje has a below-average transparency score of 41.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

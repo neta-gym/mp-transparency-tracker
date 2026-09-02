@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 62.3 / 100
+## Composite Transparency Score: 66.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Ananta Nayak shows moderate transparency with a score of 62.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ananta Nayak shows moderate transparency with a score of 66.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

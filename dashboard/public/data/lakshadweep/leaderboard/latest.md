@@ -1,10 +1,10 @@
 # MP Transparency Leaderboard — Lakshadweep
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 1 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 1 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Muhammed Hamdullah Sayeed | Lakshadweep | Indian National Congress | 66.8 | 65% | Clean record, Low fund utilization, High attendance |
+| 1 | LS | Muhammed Hamdullah Sayeed | Lakshadweep | Indian National Congress | 71.5 | 65% | Clean record, Low fund utilization, High attendance |
 
 ### Score Breakdown
 

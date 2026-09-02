@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 45.0 / 100
+## Composite Transparency Score: 45.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Dhananjay Bhimrao Mahadik has a below-average transparency score of 45.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dhananjay Bhimrao Mahadik has a below-average transparency score of 45.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

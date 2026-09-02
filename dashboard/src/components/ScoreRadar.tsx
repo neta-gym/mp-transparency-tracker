@@ -22,7 +22,7 @@ export function ScoreRadar({ breakdown, compositeScore }: ScoreRadarProps) {
   const color = getScoreColor(compositeScore);
 
   const data = SCORE_COMPONENTS.map((comp) => ({
-    subject: `${comp.label} (${Math.round(comp.weight * 100)}%)`,
+    subject: comp.weight === 0 ? `${comp.label} (not scored)` : `${comp.label} (${(comp.weight * 100).toFixed(1)}%)`,
     value: breakdown[comp.key],
     fullMark: 100,
   }));

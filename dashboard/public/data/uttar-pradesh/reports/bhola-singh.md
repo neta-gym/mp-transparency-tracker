@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 66.2 / 100
+## Composite Transparency Score: 70.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Bhola Singh shows moderate transparency with a score of 66.2/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
+Bhola Singh demonstrates strong transparency with an overall score of 70.9/100. Minor criminal cases on record. High parliament attendance. Active in questions and debates.
 
 ---
 

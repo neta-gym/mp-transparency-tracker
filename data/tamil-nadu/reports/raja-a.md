@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.0 / 100
+## Composite Transparency Score: 47.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -125,7 +125,7 @@
 
 ## Qualitative Assessment
 
-Raja A has a below-average transparency score of 46.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Raja A has a below-average transparency score of 47.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

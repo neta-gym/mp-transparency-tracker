@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 45.2 / 100
+## Composite Transparency Score: 46.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-V Somanna has a below-average transparency score of 45.2/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+V Somanna has a below-average transparency score of 46.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 

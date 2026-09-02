@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 57.2 / 100
+## Composite Transparency Score: 60.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -121,7 +121,7 @@
 
 ## Qualitative Assessment
 
-Kalyan Vaijinathrao Kale shows moderate transparency with a score of 57.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Kalyan Vaijinathrao Kale shows moderate transparency with a score of 60.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 63.2 / 100
+## Composite Transparency Score: 67.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-Ramrao Sakharam Wadkute shows moderate transparency with a score of 63.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ramrao Sakharam Wadkute shows moderate transparency with a score of 67.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

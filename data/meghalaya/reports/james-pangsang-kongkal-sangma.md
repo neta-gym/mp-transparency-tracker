@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 56.2 / 100
+## Composite Transparency Score: 59.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -78,7 +78,7 @@
 
 ## Qualitative Assessment
 
-James Pangsang Kongkal Sangma shows moderate transparency with a score of 56.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+James Pangsang Kongkal Sangma shows moderate transparency with a score of 59.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

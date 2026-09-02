@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 60.0 / 100
+## Composite Transparency Score: 63.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -88,7 +88,7 @@
 
 ## Qualitative Assessment
 
-Dola Sen shows moderate transparency with a score of 60.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Dola Sen shows moderate transparency with a score of 63.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 32.5 / 100
+## Composite Transparency Score: 31.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Pradeep Kumar Panigrahy has a below-average transparency score of 32.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Pradeep Kumar Panigrahy has a below-average transparency score of 31.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

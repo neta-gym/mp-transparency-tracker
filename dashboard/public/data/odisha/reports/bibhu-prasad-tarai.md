@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.1 / 100
+## Composite Transparency Score: 50.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -110,7 +110,7 @@
 
 ## Qualitative Assessment
 
-Bibhu Prasad Tarai has a below-average transparency score of 49.1/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Bibhu Prasad Tarai shows moderate transparency with a score of 50.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

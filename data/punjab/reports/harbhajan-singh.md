@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 52.8 / 100
+## Composite Transparency Score: 55.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Harbhajan Singh shows moderate transparency with a score of 52.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Harbhajan Singh shows moderate transparency with a score of 55.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 

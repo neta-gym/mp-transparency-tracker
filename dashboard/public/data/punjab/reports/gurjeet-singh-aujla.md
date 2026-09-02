@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.4 / 100
+## Composite Transparency Score: 66.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Gurjeet Singh Aujla shows moderate transparency with a score of 62.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Gurjeet Singh Aujla shows moderate transparency with a score of 66.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

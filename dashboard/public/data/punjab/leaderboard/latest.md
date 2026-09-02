@@ -1,29 +1,29 @@
 # MP Transparency Leaderboard — Punjab
 
-*Generated: 2026-09-02 19:30 UTC | Methodology v3.1 | 20 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 20 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Amar Singh | Fatehgarh Sahib | Indian National Congress | 67.8 | 65% | Clean record, Low fund utilization, High attendance |
-| 2 | RS | Ashok Kumar Mittal | Rajya Sabha (Punjab) | Bharatiya Janata Party | 64.2 | 50% | Clean record, Low fund utilization, High attendance |
-| 3 | LS | Gurjeet Singh Aujla | Amritsar | Indian National Congress | 62.4 | 60% | Clean record, Low fund utilization, High attendance |
-| 4 | RS | Sandeep Kumar Pathak | Rajya Sabha (Punjab) | Bharatiya Janata Party | 62.4 | 50% | Clean record, Low fund utilization |
-| 5 | LS | Amrinder Singh Raja Warring | Ludhiana | Indian National Congress | 62.3 | 65% | Clean record, Low fund utilization |
-| 6 | RS | Sant Balbir Singh | Rajya Sabha (Punjab) | Aam Aadmi Party | 62.2 | 50% | Clean record, Low fund utilization |
-| 7 | LS | Sher Singh Ghubaya | Firozpur | Indian National Congress | 61.6 | 51% | Clean record, High attendance |
-| 8 | LS | Malvinder Singh Kang | Anandpur Sahib | Aam Aadmi Party | 59.7 | 51% | Clean record, Low fund utilization, High attendance |
-| 9 | LS | Sukhjinder Singh Randhawa | Gurdaspur | Indian National Congress | 59.2 | 51% | Clean record, Low fund utilization, High attendance |
-| 10 | RS | Raghav Chadha | Rajya Sabha (Punjab) | Bharatiya Janata Party | 58.0 | 50% | Low fund utilization, High attendance |
-| 11 | LS | Gurmeet Singh Meet Hayer | Sangrur | Aam Aadmi Party | 56.6 | 61% | Low fund utilization, High attendance |
-| 12 | LS | Dharamvira Gandhi | Patiala | Indian National Congress | 55.3 | 52% | Clean record, Low fund utilization |
-| 13 | RS | Rajinder Gupta | Rajya Sabha (Punjab) | Bharatiya Janata Party | 54.2 | 50% | Low fund utilization |
-| 14 | LS | Harsimrat Kaur Badal | Bathinda | Shiromani Akali Dal | 53.6 | 51% | Clean record, Low fund utilization, Low attendance |
-| 15 | RS | Harbhajan Singh | Rajya Sabha (Punjab) | Bharatiya Janata Party | 52.8 | 50% | Clean record, Low fund utilization, Low attendance |
-| 16 | LS | Charanjit Singh Channi | Jalandhar | Indian National Congress | 50.6 | 60% | Clean record, Low fund utilization, Low attendance |
-| 17 | LS | Sarabjeet Singh Khalsa | Faridkot | Independent | 50.3 | 52% | Clean record, Low attendance |
-| 18 | RS | Vikramjit Singh Sahney | Rajya Sabha (Punjab) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
-| 19 | LS | Raj Kumar Chabbewal | Hoshiarpur | Aam Aadmi Party | 46.6 | 60% | Clean record, Low fund utilization, Low attendance |
-| 20 | LS | Amritpal Singh | Khadoor Sahib | Independent | 24.9 | 67% | Significant criminal cases, Low fund utilization, Low attendance |
+| 1 | LS | Amar Singh | Fatehgarh Sahib | Indian National Congress | 72.7 | 65% | Clean record, Low fund utilization, High attendance |
+| 2 | RS | Ashok Kumar Mittal | Rajya Sabha (Punjab) | Bharatiya Janata Party | 68.4 | 50% | Clean record, Low fund utilization, High attendance |
+| 3 | LS | Gurjeet Singh Aujla | Amritsar | Indian National Congress | 66.3 | 60% | Clean record, Low fund utilization, High attendance |
+| 4 | RS | Sandeep Kumar Pathak | Rajya Sabha (Punjab) | Bharatiya Janata Party | 66.3 | 50% | Clean record, Low fund utilization |
+| 5 | LS | Amrinder Singh Raja Warring | Ludhiana | Indian National Congress | 66.2 | 65% | Clean record, Low fund utilization |
+| 6 | RS | Sant Balbir Singh | Rajya Sabha (Punjab) | Aam Aadmi Party | 66.1 | 50% | Clean record, Low fund utilization |
+| 7 | LS | Sher Singh Ghubaya | Firozpur | Indian National Congress | 65.4 | 51% | Clean record, High attendance |
+| 8 | LS | Malvinder Singh Kang | Anandpur Sahib | Aam Aadmi Party | 63.2 | 51% | Clean record, Low fund utilization, High attendance |
+| 9 | LS | Sukhjinder Singh Randhawa | Gurdaspur | Indian National Congress | 62.6 | 51% | Clean record, Low fund utilization, High attendance |
+| 10 | RS | Raghav Chadha | Rajya Sabha (Punjab) | Bharatiya Janata Party | 61.2 | 50% | Low fund utilization, High attendance |
+| 11 | LS | Gurmeet Singh Meet Hayer | Sangrur | Aam Aadmi Party | 59.5 | 61% | Low fund utilization, High attendance |
+| 12 | LS | Dharamvira Gandhi | Patiala | Indian National Congress | 58.0 | 52% | Clean record, Low fund utilization |
+| 13 | RS | Rajinder Gupta | Rajya Sabha (Punjab) | Bharatiya Janata Party | 56.8 | 50% | Low fund utilization |
+| 14 | LS | Harsimrat Kaur Badal | Bathinda | Shiromani Akali Dal | 56.0 | 51% | Clean record, Low fund utilization, Low attendance |
+| 15 | RS | Harbhajan Singh | Rajya Sabha (Punjab) | Bharatiya Janata Party | 55.0 | 50% | Clean record, Low fund utilization, Low attendance |
+| 16 | LS | Charanjit Singh Channi | Jalandhar | Indian National Congress | 52.5 | 60% | Clean record, Low fund utilization, Low attendance |
+| 17 | LS | Sarabjeet Singh Khalsa | Faridkot | Independent | 52.2 | 52% | Clean record, Low attendance |
+| 18 | RS | Vikramjit Singh Sahney | Rajya Sabha (Punjab) | Bharatiya Janata Party | 49.4 | 37% | Clean record, Low fund utilization |
+| 19 | LS | Raj Kumar Chabbewal | Hoshiarpur | Aam Aadmi Party | 47.8 | 60% | Clean record, Low fund utilization, Low attendance |
+| 20 | LS | Amritpal Singh | Khadoor Sahib | Independent | 22.2 | 67% | Significant criminal cases, Low fund utilization, Low attendance |
 
 ### Score Breakdown
 

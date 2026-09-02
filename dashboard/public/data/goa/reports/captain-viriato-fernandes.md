@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 60.2 / 100
+## Composite Transparency Score: 63.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -123,7 +123,7 @@
 
 ## Qualitative Assessment
 
-Captain Viriato Fernandes shows moderate transparency with a score of 60.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Captain Viriato Fernandes shows moderate transparency with a score of 63.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

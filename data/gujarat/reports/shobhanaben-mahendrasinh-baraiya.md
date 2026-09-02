@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 61.5 / 100
+## Composite Transparency Score: 65.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Shobhanaben Mahendrasinh Baraiya shows moderate transparency with a score of 61.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Shobhanaben Mahendrasinh Baraiya shows moderate transparency with a score of 65.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

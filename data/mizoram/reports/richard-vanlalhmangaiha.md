@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 65.3 / 100
+## Composite Transparency Score: 69.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -118,7 +118,7 @@
 
 ## Qualitative Assessment
 
-Richard Vanlalhmangaiha shows moderate transparency with a score of 65.3/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
+Richard Vanlalhmangaiha shows moderate transparency with a score of 69.7/100. No criminal cases declared. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

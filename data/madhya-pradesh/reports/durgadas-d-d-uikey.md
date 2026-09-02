@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 60.1 / 100
+## Composite Transparency Score: 63.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Durgadas D D Uikey shows moderate transparency with a score of 60.1/100. No criminal cases declared.
+Durgadas D D Uikey shows moderate transparency with a score of 63.7/100. No criminal cases declared.
 
 ---
 

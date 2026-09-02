@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.1 / 100
+## Composite Transparency Score: 54.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Satabdi Roy shows moderate transparency with a score of 52.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Satabdi Roy shows moderate transparency with a score of 54.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

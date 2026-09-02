@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.0 / 100
+## Composite Transparency Score: 65.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Pradeep Kumar Singh shows moderate transparency with a score of 62.0/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
+Pradeep Kumar Singh shows moderate transparency with a score of 65.9/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
 
 ---
 

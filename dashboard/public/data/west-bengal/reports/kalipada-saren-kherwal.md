@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 61.1 / 100
+## Composite Transparency Score: 64.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-Kalipada Saren Kherwal shows moderate transparency with a score of 61.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Kalipada Saren Kherwal shows moderate transparency with a score of 64.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

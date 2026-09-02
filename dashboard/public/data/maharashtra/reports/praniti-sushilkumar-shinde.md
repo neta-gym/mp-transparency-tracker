@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 47.9 / 100
+## Composite Transparency Score: 50.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -130,7 +130,7 @@
 
 ## Qualitative Assessment
 
-Praniti Sushilkumar Shinde has a below-average transparency score of 47.9/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Praniti Sushilkumar Shinde shows moderate transparency with a score of 50.5/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

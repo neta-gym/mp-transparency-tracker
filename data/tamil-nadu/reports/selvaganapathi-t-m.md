@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 55.5 / 100
+## Composite Transparency Score: 58.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -121,7 +121,7 @@
 
 ## Qualitative Assessment
 
-Selvaganapathi T.M. shows moderate transparency with a score of 55.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Selvaganapathi T.M. shows moderate transparency with a score of 58.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

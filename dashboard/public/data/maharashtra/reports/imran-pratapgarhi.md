@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 53.5 / 100
+## Composite Transparency Score: 55.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -87,7 +87,7 @@
 
 ## Qualitative Assessment
 
-Imran Pratapgarhi shows moderate transparency with a score of 53.5/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Imran Pratapgarhi shows moderate transparency with a score of 55.9/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

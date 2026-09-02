@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.6 / 100
+## Composite Transparency Score: 61.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Vamsi Krishna Gaddam shows moderate transparency with a score of 58.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Vamsi Krishna Gaddam shows moderate transparency with a score of 61.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

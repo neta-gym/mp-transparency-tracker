@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 44.8 / 100
+## Composite Transparency Score: 45.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -112,7 +112,7 @@
 
 ## Qualitative Assessment
 
-Murasoli S has a below-average transparency score of 44.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Murasoli S has a below-average transparency score of 45.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

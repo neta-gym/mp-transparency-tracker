@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 67.6 / 100
+## Composite Transparency Score: 68.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -125,7 +125,7 @@
 
 ## Qualitative Assessment
 
-P P Chaudhary shows moderate transparency with a score of 67.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+P P Chaudhary shows moderate transparency with a score of 68.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

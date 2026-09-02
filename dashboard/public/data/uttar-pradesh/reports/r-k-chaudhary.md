@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.1 / 100
+## Composite Transparency Score: 53.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-R K Chaudhary shows moderate transparency with a score of 51.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+R K Chaudhary shows moderate transparency with a score of 53.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

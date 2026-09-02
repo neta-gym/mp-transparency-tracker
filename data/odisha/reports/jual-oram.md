@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.0 / 100
+## Composite Transparency Score: 50.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Jual Oram has a below-average transparency score of 49.0/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
+Jual Oram shows moderate transparency with a score of 50.6/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 

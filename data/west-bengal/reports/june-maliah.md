@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 51.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-June Maliah shows moderate transparency with a score of 50.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+June Maliah shows moderate transparency with a score of 51.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

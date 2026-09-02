@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.2 / 100
+## Composite Transparency Score: 62.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -119,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Chhatrapal Singh Gangwar shows moderate transparency with a score of 59.2/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
+Chhatrapal Singh Gangwar shows moderate transparency with a score of 62.6/100. Minor criminal cases on record. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

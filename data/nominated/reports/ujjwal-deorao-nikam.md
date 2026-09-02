@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 36.2 / 100
+## Composite Transparency Score: 35.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -80,7 +80,7 @@
 
 ## Qualitative Assessment
 
-Ujjwal Deorao Nikam has a below-average transparency score of 36.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
+Ujjwal Deorao Nikam has a below-average transparency score of 35.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

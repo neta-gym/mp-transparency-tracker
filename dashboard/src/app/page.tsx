@@ -472,14 +472,14 @@ export default function HomePage() {
 					<div>
 						<h3 className="text-sm font-black uppercase text-ink mb-3">How We Measure</h3>
 						<div className="space-y-3">
-							<DimensionBar label="MPLADS Utilization" score={stats.dimensions.mplads} weight="20%" context="Are they spending your constituency money?" />
-							<DimensionBar label="Asset Transparency" score={stats.dimensions.assets} weight="15%" context="Did their wealth grow suspiciously?" />
-							<DimensionBar label="Criminal Record" score={stats.dimensions.criminal} weight="20%" context="Do they have serious criminal cases?" />
-							<DimensionBar label="Parliament Attendance" score={stats.dimensions.attendance} weight="15%" context="Do they actually show up?" />
-							<DimensionBar label="Participation" score={stats.dimensions.participation} weight="10%" context="Do they speak and ask questions?" />
-							<DimensionBar label="Committee Work" score={stats.dimensions.committee} weight="5%" context="Do they do the hard scrutiny work?" />
-							<DimensionBar label="Legislative Activity" score={stats.dimensions.legislative} weight="10%" context="Do they introduce bills and raise issues?" />
-							<DimensionBar label="Public Accessibility" score={stats.dimensions.accessibility} weight="5%" context="Can you actually reach them?" />
+							<DimensionBar label="MPLADS Utilization" score={stats.dimensions.mplads} weight="23.5%" context="Are they spending your constituency money?" />
+							<DimensionBar label="Asset Transparency" score={stats.dimensions.assets} weight="17.6%" context="Did their wealth grow suspiciously?" />
+							<DimensionBar label="Criminal Record" score={stats.dimensions.criminal} weight="23.5%" context="Do they have serious criminal cases?" />
+							<DimensionBar label="Parliament Attendance" score={stats.dimensions.attendance} weight="17.6%" context="Do they actually show up?" />
+							<DimensionBar label="Participation" score={stats.dimensions.participation} weight="11.8%" context="Do they speak and ask questions?" />
+							<DimensionBar label="Committee Work" score={stats.dimensions.committee} weight="not scored" context="Do they do the hard scrutiny work?" />
+							<DimensionBar label="Legislative Activity" score={stats.dimensions.legislative} weight="not scored" context="Do they introduce bills and raise issues?" />
+							<DimensionBar label="Public Accessibility" score={stats.dimensions.accessibility} weight="5.9%" context="Can you actually reach them?" />
 						</div>
 					</div>
 					<div>
@@ -781,7 +781,9 @@ export default function HomePage() {
 						<h3 className="text-sm font-black uppercase text-ink mb-1">How This Works</h3>
 						<p className="text-xs text-text-secondary leading-relaxed">
 							We collect public data from eSAKSHI, data.gov.in, MyNeta, PRS India, MPLADS portal,
-							and Sansad records. Each MP is scored across 8 dimensions with weighted composite scoring.
+							and Sansad records. Each MP is scored across 8 dimensions; 6 carry composite weight. Committees
+							and Legislative activity currently show placeholder estimates for nearly every MP, so they are
+							displayed but excluded from the composite (0% weight) until real source data exists.
 							Every data point is evidence-graded. This is not opinion — it&apos;s a methodology applied equally
 							to every MP, regardless of party, caste, or religion.
 						</p>

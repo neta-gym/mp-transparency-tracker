@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 30.0 / 100
+## Composite Transparency Score: 28.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -79,7 +79,7 @@
 
 ## Qualitative Assessment
 
-Vijay Chintakayala has a below-average transparency score of 30.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Vijay Chintakayala has a below-average transparency score of 28.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

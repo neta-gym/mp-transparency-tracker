@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 59.9 / 100
+## Composite Transparency Score: 63.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -84,7 +84,7 @@
 
 ## Qualitative Assessment
 
-Sanjay Bhatia shows moderate transparency with a score of 59.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Sanjay Bhatia shows moderate transparency with a score of 63.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

@@ -1,12 +1,12 @@
 # MP Transparency Leaderboard — Goa
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 3 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 3 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | RS | Sadanand mhalu shet Tanavade | Rajya Sabha (Goa) | Bharatiya Janata Party | 65.8 | 50% | Clean record, Low fund utilization, High attendance |
-| 2 | LS | Captain Viriato Fernandes | South Goa | Indian National Congress | 60.2 | 67% | Low fund utilization |
-| 3 | LS | Shripad Yesso Naik | North Goa | Bharatiya Janata Party | 56.2 | 56% | Clean record, Low fund utilization |
+| 1 | RS | Sadanand mhalu shet Tanavade | Rajya Sabha (Goa) | Bharatiya Janata Party | 70.4 | 50% | Clean record, Low fund utilization, High attendance |
+| 2 | LS | Captain Viriato Fernandes | South Goa | Indian National Congress | 63.8 | 67% | Low fund utilization |
+| 3 | LS | Shripad Yesso Naik | North Goa | Bharatiya Janata Party | 59.0 | 56% | Clean record, Low fund utilization |
 
 ### Score Breakdown
 

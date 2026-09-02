@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.8 / 100
+## Composite Transparency Score: 63.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -125,7 +125,7 @@
 
 ## Qualitative Assessment
 
-Ravindra Shukla Alias Ravi Kishan shows moderate transparency with a score of 62.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Ravindra Shukla Alias Ravi Kishan shows moderate transparency with a score of 63.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

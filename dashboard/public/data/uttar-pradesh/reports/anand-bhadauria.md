@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.4 / 100
+## Composite Transparency Score: 61.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Anand Bhadauria shows moderate transparency with a score of 58.4/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Anand Bhadauria shows moderate transparency with a score of 61.6/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

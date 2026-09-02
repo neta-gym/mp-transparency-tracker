@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 43.6 / 100
+## Composite Transparency Score: 44.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -124,7 +124,7 @@
 
 ## Qualitative Assessment
 
-Murlidhar Mohol has a below-average transparency score of 43.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Murlidhar Mohol has a below-average transparency score of 44.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

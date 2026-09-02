@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 32.7 / 100
+## Composite Transparency Score: 31.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -149,7 +149,7 @@
 
 ## Qualitative Assessment
 
-Bandi Sanjay Kumar has a below-average transparency score of 32.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Bandi Sanjay Kumar has a below-average transparency score of 31.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

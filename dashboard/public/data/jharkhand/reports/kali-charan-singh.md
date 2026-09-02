@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 50.0 / 100
+## Composite Transparency Score: 51.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-Kali Charan Singh shows moderate transparency with a score of 50.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Kali Charan Singh shows moderate transparency with a score of 51.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

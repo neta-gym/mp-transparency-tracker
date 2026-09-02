@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 63.1 / 100
+## Composite Transparency Score: 67.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -99,7 +99,7 @@
 
 ## Qualitative Assessment
 
-Ramashankar  Vidharthi Rajbhar shows moderate transparency with a score of 63.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Ramashankar  Vidharthi Rajbhar shows moderate transparency with a score of 67.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

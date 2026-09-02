@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.2 / 100
+## Composite Transparency Score: 53.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -125,7 +125,7 @@
 
 ## Qualitative Assessment
 
-Zia Ur Rehman shows moderate transparency with a score of 51.2/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Zia Ur Rehman shows moderate transparency with a score of 53.1/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

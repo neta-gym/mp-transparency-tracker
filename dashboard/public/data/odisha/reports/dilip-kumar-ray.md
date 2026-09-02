@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 43.2 / 100
+## Composite Transparency Score: 43.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -87,7 +87,7 @@
 
 ## Qualitative Assessment
 
-Dilip Kumar Ray has a below-average transparency score of 43.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Dilip Kumar Ray has a below-average transparency score of 43.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

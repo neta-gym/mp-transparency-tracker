@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 31.2 / 100
+## Composite Transparency Score: 29.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -80,7 +80,7 @@
 
 ## Qualitative Assessment
 
-Ilaiyaraaja has a below-average transparency score of 31.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low parliament attendance is notable. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
+Ilaiyaraaja has a below-average transparency score of 29.7/100, indicating significant room for improvement. Significant criminal cases are a concern. Low parliament attendance is notable. Limited participation in parliamentary proceedings. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

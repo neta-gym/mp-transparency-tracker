@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.8 / 100
+## Composite Transparency Score: 55.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Isha Khan Choudhury shows moderate transparency with a score of 52.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Isha Khan Choudhury shows moderate transparency with a score of 55.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

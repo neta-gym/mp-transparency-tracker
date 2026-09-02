@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 52.2 / 100
+## Composite Transparency Score: 54.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -91,7 +91,7 @@
 
 ## Qualitative Assessment
 
-G.C. Chandrashekhar shows moderate transparency with a score of 52.2/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
+G.C. Chandrashekhar shows moderate transparency with a score of 54.4/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

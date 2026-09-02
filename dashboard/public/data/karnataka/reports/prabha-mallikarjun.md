@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 61.8 / 100
+## Composite Transparency Score: 65.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Prabha Mallikarjun shows moderate transparency with a score of 61.8/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Prabha Mallikarjun shows moderate transparency with a score of 65.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

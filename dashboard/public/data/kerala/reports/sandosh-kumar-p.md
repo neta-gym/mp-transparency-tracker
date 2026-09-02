@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 64.6 / 100
+## Composite Transparency Score: 68.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -90,7 +90,7 @@
 
 ## Qualitative Assessment
 
-Sandosh Kumar P shows moderate transparency with a score of 64.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sandosh Kumar P shows moderate transparency with a score of 68.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

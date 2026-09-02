@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 60.9 / 100
+## Composite Transparency Score: 64.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -114,7 +114,7 @@
 
 ## Qualitative Assessment
 
-M K Vishnu Prasad shows moderate transparency with a score of 60.9/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+M K Vishnu Prasad shows moderate transparency with a score of 64.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

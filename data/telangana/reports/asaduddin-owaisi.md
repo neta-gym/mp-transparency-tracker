@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.3 / 100
+## Composite Transparency Score: 47.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -112,7 +112,7 @@
 
 ## Qualitative Assessment
 
-Asaduddin Owaisi has a below-average transparency score of 46.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Asaduddin Owaisi has a below-average transparency score of 47.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

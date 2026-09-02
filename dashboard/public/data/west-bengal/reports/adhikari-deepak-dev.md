@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 46.7 / 100
+## Composite Transparency Score: 47.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Adhikari Deepak Dev has a below-average transparency score of 46.7/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
+Adhikari Deepak Dev has a below-average transparency score of 47.9/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention. Low parliament attendance is notable.
 
 ---
 

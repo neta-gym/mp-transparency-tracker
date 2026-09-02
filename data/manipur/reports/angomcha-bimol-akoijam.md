@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 65.9 / 100
+## Composite Transparency Score: 70.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -119,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Angomcha Bimol Akoijam shows moderate transparency with a score of 65.9/100. No criminal cases declared. High parliament attendance.
+Angomcha Bimol Akoijam demonstrates strong transparency with an overall score of 70.5/100. No criminal cases declared. High parliament attendance.
 
 ---
 

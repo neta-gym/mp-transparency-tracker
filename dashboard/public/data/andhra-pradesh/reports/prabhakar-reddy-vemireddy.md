@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 44.6 / 100
+## Composite Transparency Score: 45.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Prabhakar Reddy Vemireddy has a below-average transparency score of 44.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Prabhakar Reddy Vemireddy has a below-average transparency score of 45.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

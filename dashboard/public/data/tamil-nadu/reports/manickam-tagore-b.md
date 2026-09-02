@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 67.3 / 100
+## Composite Transparency Score: 72.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -119,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Manickam Tagore B shows moderate transparency with a score of 67.3/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Manickam Tagore B demonstrates strong transparency with an overall score of 72.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 50.3 / 100
+## Composite Transparency Score: 52.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Sarabjeet Singh Khalsa shows moderate transparency with a score of 50.3/100. No criminal cases declared. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
+Sarabjeet Singh Khalsa shows moderate transparency with a score of 52.2/100. No criminal cases declared. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 

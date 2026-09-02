@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.8 / 100
+## Composite Transparency Score: 62.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -121,7 +121,7 @@
 
 ## Qualitative Assessment
 
-Radha Mohan Singh shows moderate transparency with a score of 58.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
+Radha Mohan Singh shows moderate transparency with a score of 62.1/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Limited participation in parliamentary proceedings.
 
 ---
 

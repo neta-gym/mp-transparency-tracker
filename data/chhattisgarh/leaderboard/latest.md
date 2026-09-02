@@ -1,25 +1,25 @@
 # MP Transparency Leaderboard — Chhattisgarh
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 16 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 16 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Kamlesh Jangde | Janjgir-Champa | Bharatiya Janata Party | 67.8 | 60% | Clean record, High attendance |
-| 2 | LS | Vijay Baghel | Durg | Bharatiya Janata Party | 65.4 | 60% | Clean record, Low fund utilization, High attendance |
-| 3 | RS | Rajeev Shukla | Rajya Sabha (Chhattisgarh) | Indian National Congress | 64.9 | 50% | Clean record, Low fund utilization, High attendance |
-| 4 | RS | Phulo Devi Netam | Rajya Sabha (Chhattisgarh) | Indian National Congress | 64.6 | 50% | Clean record, Low fund utilization, High attendance |
-| 5 | LS | Jyotsna Charandas Mahant | Korba | Indian National Congress | 62.9 | 60% | Clean record, Low fund utilization, High attendance |
-| 6 | LS | Roopkumari Choudhary | Mahasamund | Bharatiya Janata Party | 62.7 | 52% | Clean record, Low fund utilization, High attendance |
-| 7 | LS | Brijmohan Agrawal | Raipur | Bharatiya Janata Party | 62.4 | 51% | Clean record, Low fund utilization, High attendance |
-| 8 | RS | Laxmi Verma | Rajya Sabha (Chhattisgarh) | Bharatiya Janata Party | 61.2 | 50% | Clean record, Low fund utilization, High attendance |
-| 9 | LS | Radheshyam Rathiya | Raigarh | Bharatiya Janata Party | 60.7 | 52% | Clean record, Low fund utilization, High attendance |
-| 10 | LS | Chintamani Maharaj | Surguja | Bharatiya Janata Party | 60.1 | 60% | Clean record, Low fund utilization, High attendance |
-| 11 | LS | Mahesh Kashyap | Bastar | Bharatiya Janata Party | 59.1 | 51% | Clean record, Low fund utilization, High attendance |
-| 12 | LS | Santosh Pandey | Rajnandgaon | Bharatiya Janata Party | 58.2 | 61% | Low fund utilization, High attendance |
-| 13 | LS | Bhojraj Nag | Kanker | Bharatiya Janata Party | 55.7 | 51% | Clean record, Low fund utilization, High attendance |
-| 14 | LS | Tokhan Sahu | Bilaspur | Bharatiya Janata Party | 54.5 | 47% | Clean record, Low fund utilization |
-| 15 | RS | Devendra Pratap Singh | Rajya Sabha (Chhattisgarh) | Bharatiya Janata Party | 51.8 | 26% | Significant criminal cases, Low fund utilization, High attendance |
-| 16 | RS | Ranjeet Ranjan | Rajya Sabha (Chhattisgarh) | Indian National Congress | 45.6 | 50% | Significant criminal cases, Low fund utilization, High attendance |
+| 1 | LS | Kamlesh Jangde | Janjgir-Champa | Bharatiya Janata Party | 72.7 | 60% | Clean record, High attendance |
+| 2 | LS | Vijay Baghel | Durg | Bharatiya Janata Party | 69.8 | 60% | Clean record, Low fund utilization, High attendance |
+| 3 | RS | Rajeev Shukla | Rajya Sabha (Chhattisgarh) | Indian National Congress | 69.3 | 50% | Clean record, Low fund utilization, High attendance |
+| 4 | RS | Phulo Devi Netam | Rajya Sabha (Chhattisgarh) | Indian National Congress | 68.9 | 50% | Clean record, Low fund utilization, High attendance |
+| 5 | LS | Jyotsna Charandas Mahant | Korba | Indian National Congress | 67.0 | 60% | Clean record, Low fund utilization, High attendance |
+| 6 | LS | Roopkumari Choudhary | Mahasamund | Bharatiya Janata Party | 66.8 | 52% | Clean record, Low fund utilization, High attendance |
+| 7 | LS | Brijmohan Agrawal | Raipur | Bharatiya Janata Party | 66.4 | 51% | Clean record, Low fund utilization, High attendance |
+| 8 | RS | Laxmi Verma | Rajya Sabha (Chhattisgarh) | Bharatiya Janata Party | 65.0 | 50% | Clean record, Low fund utilization, High attendance |
+| 9 | LS | Radheshyam Rathiya | Raigarh | Bharatiya Janata Party | 64.3 | 52% | Clean record, Low fund utilization, High attendance |
+| 10 | LS | Chintamani Maharaj | Surguja | Bharatiya Janata Party | 63.7 | 60% | Clean record, Low fund utilization, High attendance |
+| 11 | LS | Mahesh Kashyap | Bastar | Bharatiya Janata Party | 62.5 | 51% | Clean record, Low fund utilization, High attendance |
+| 12 | LS | Santosh Pandey | Rajnandgaon | Bharatiya Janata Party | 61.5 | 61% | Low fund utilization, High attendance |
+| 13 | LS | Bhojraj Nag | Kanker | Bharatiya Janata Party | 58.5 | 51% | Clean record, Low fund utilization, High attendance |
+| 14 | LS | Tokhan Sahu | Bilaspur | Bharatiya Janata Party | 57.0 | 47% | Clean record, Low fund utilization |
+| 15 | RS | Devendra Pratap Singh | Rajya Sabha (Chhattisgarh) | Bharatiya Janata Party | 53.8 | 26% | Significant criminal cases, Low fund utilization, High attendance |
+| 16 | RS | Ranjeet Ranjan | Rajya Sabha (Chhattisgarh) | Indian National Congress | 46.6 | 50% | Significant criminal cases, Low fund utilization, High attendance |
 
 ### Score Breakdown
 

@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 72.4 / 100
+## Composite Transparency Score: 78.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -119,7 +119,7 @@
 
 ## Qualitative Assessment
 
-Indra Hang Subba demonstrates strong transparency with an overall score of 72.4/100. No criminal cases declared. High parliament attendance.
+Indra Hang Subba demonstrates strong transparency with an overall score of 78.1/100. No criminal cases declared. High parliament attendance.
 
 ---
 

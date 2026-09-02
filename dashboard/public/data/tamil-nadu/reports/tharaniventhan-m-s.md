@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 65.7 / 100
+## Composite Transparency Score: 70.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Tharaniventhan M S shows moderate transparency with a score of 65.7/100. No criminal cases declared.
+Tharaniventhan M S demonstrates strong transparency with an overall score of 70.2/100. No criminal cases declared.
 
 ---
 

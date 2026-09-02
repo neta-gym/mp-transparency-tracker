@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 54.8 / 100
+## Composite Transparency Score: 57.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -109,7 +109,7 @@
 
 ## Qualitative Assessment
 
-Chandan Chauhan shows moderate transparency with a score of 54.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
+Chandan Chauhan shows moderate transparency with a score of 57.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

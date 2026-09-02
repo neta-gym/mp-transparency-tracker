@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 51.0 / 100
+## Composite Transparency Score: 52.9 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -118,7 +118,7 @@
 
 ## Qualitative Assessment
 
-Srinivasa Varma B J P Varma Bhupathiraju shows moderate transparency with a score of 51.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Srinivasa Varma B J P Varma Bhupathiraju shows moderate transparency with a score of 52.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 71.4 / 100
+## Composite Transparency Score: 77.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -116,7 +116,7 @@
 
 ## Qualitative Assessment
 
-Mohammad Jawed demonstrates strong transparency with an overall score of 71.4/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+Mohammad Jawed demonstrates strong transparency with an overall score of 77.0/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 

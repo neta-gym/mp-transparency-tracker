@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 58.0 / 100
+## Composite Transparency Score: 61.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Narayandas Ahirwar shows moderate transparency with a score of 58.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Narayandas Ahirwar shows moderate transparency with a score of 61.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

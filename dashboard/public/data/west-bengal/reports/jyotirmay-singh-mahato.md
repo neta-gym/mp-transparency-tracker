@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 44.0 / 100
+## Composite Transparency Score: 44.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -122,7 +122,7 @@
 
 ## Qualitative Assessment
 
-Jyotirmay Singh Mahato has a below-average transparency score of 44.0/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Jyotirmay Singh Mahato has a below-average transparency score of 44.7/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

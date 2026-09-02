@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 54.5 / 100
+## Composite Transparency Score: 53.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -216,7 +216,7 @@
 
 ## Qualitative Assessment
 
-Dean Kuriakose shows moderate transparency with a score of 54.5/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Dean Kuriakose shows moderate transparency with a score of 53.6/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

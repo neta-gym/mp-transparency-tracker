@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 60.0 / 100
+## Composite Transparency Score: 63.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Aga Syed Ruhullah Mehdi shows moderate transparency with a score of 60.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Aga Syed Ruhullah Mehdi shows moderate transparency with a score of 63.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

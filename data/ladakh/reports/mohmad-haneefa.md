@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 55.6 / 100
+## Composite Transparency Score: 58.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -120,7 +120,7 @@
 
 ## Qualitative Assessment
 
-Mohmad Haneefa shows moderate transparency with a score of 55.6/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Mohmad Haneefa shows moderate transparency with a score of 58.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

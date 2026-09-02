@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 43.4 / 100
+## Composite Transparency Score: 44.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -134,7 +134,7 @@ Sub-Inspector of Police Station, Tiruppathur, Sivagangai Dt. (Sections: 143, 188
 
 ## Qualitative Assessment
 
-Karti P Chidambaram has a below-average transparency score of 43.4/100, indicating significant room for improvement. Significant criminal cases are a concern.
+Karti P Chidambaram has a below-average transparency score of 44.0/100, indicating significant room for improvement. Significant criminal cases are a concern.
 
 ---
 

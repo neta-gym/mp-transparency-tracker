@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 31.0 / 100
+## Composite Transparency Score: 29.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -111,7 +111,7 @@
 
 ## Qualitative Assessment
 
-Udayanraje Pratapsinha Maharaj Bhonsle has a below-average transparency score of 31.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Udayanraje Pratapsinha Maharaj Bhonsle has a below-average transparency score of 29.4/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

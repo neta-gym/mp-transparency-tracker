@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 57.1 / 100
+## Composite Transparency Score: 60.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -79,7 +79,7 @@
 
 ## Qualitative Assessment
 
-Nathwani Parimal shows moderate transparency with a score of 57.1/100. No criminal cases declared. Low parliament attendance is notable. Active in questions and debates.
+Nathwani Parimal shows moderate transparency with a score of 60.1/100. No criminal cases declared. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 

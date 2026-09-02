@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 43.0 / 100
+## Composite Transparency Score: 43.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -106,7 +106,7 @@
 
 ## Qualitative Assessment
 
-Chandra Sekhar Pemmasani has a below-average transparency score of 43.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
+Chandra Sekhar Pemmasani has a below-average transparency score of 43.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Data confidence is low — scores should be interpreted with caution.
 
 ---
 

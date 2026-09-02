@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 45.5 / 100
+## Composite Transparency Score: 43.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -139,7 +139,7 @@
 
 ## Qualitative Assessment
 
-Shashi Tharoor has a below-average transparency score of 45.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Shashi Tharoor has a below-average transparency score of 43.0/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

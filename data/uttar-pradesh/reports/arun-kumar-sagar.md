@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 74.1 / 100
+## Composite Transparency Score: 80.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Arun Kumar Sagar demonstrates strong transparency with an overall score of 74.1/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
+Arun Kumar Sagar demonstrates strong transparency with an overall score of 80.1/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 

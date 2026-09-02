@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 50.4 / 100
+## Composite Transparency Score: 52.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Mahima Kumari Mewar shows moderate transparency with a score of 50.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
+Mahima Kumari Mewar shows moderate transparency with a score of 52.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. Limited participation in parliamentary proceedings.
 
 ---
 

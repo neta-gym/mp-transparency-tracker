@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 55.1 / 100
+## Composite Transparency Score: 57.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Savitri Thakur shows moderate transparency with a score of 55.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Savitri Thakur shows moderate transparency with a score of 57.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

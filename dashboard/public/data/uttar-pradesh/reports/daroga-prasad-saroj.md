@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 45.6 / 100
+## Composite Transparency Score: 46.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -109,7 +109,7 @@
 
 ## Qualitative Assessment
 
-Daroga Prasad Saroj has a below-average transparency score of 45.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
+Daroga Prasad Saroj has a below-average transparency score of 46.5/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Active in questions and debates.
 
 ---
 

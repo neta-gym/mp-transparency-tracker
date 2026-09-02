@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 42.2 / 100
+## Composite Transparency Score: 42.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -108,7 +108,7 @@
 
 ## Qualitative Assessment
 
-Nalin Soren has a below-average transparency score of 42.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low parliament attendance is notable.
+Nalin Soren has a below-average transparency score of 42.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low parliament attendance is notable.
 
 ---
 

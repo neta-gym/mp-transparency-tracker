@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 59.4 / 100
+## Composite Transparency Score: 62.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -133,7 +133,7 @@
 
 ## Qualitative Assessment
 
-Manoj Tiwari shows moderate transparency with a score of 59.4/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Manoj Tiwari shows moderate transparency with a score of 62.8/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

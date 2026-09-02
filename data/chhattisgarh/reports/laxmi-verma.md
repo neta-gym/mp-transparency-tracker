@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 61.2 / 100
+## Composite Transparency Score: 65.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -84,7 +84,7 @@
 
 ## Qualitative Assessment
 
-Laxmi Verma shows moderate transparency with a score of 61.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Laxmi Verma shows moderate transparency with a score of 65.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

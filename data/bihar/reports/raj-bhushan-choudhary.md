@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.8 / 100
+## Composite Transparency Score: 63.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Raj Bhushan Choudhary shows moderate transparency with a score of 59.8/100. No criminal cases declared.
+Raj Bhushan Choudhary shows moderate transparency with a score of 63.3/100. No criminal cases declared.
 
 ---
 

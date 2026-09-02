@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 62.9 / 100
+## Composite Transparency Score: 67.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -115,7 +115,7 @@
 
 ## Qualitative Assessment
 
-Jyotsna Charandas Mahant shows moderate transparency with a score of 62.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Jyotsna Charandas Mahant shows moderate transparency with a score of 67.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

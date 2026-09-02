@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 60.0 / 100
+## Composite Transparency Score: 63.5 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Malvika Devi shows moderate transparency with a score of 60.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Malvika Devi shows moderate transparency with a score of 63.5/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

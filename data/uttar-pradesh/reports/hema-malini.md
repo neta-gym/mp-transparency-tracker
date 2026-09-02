@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 49.3 / 100
+## Composite Transparency Score: 51.0 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Hema Malini has a below-average transparency score of 49.3/100, indicating significant room for improvement. No criminal cases declared. Low MPLADS fund utilization needs attention.
+Hema Malini shows moderate transparency with a score of 51.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 

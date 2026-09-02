@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 36.8 / 100
+## Composite Transparency Score: 36.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -128,7 +128,7 @@
 
 ## Qualitative Assessment
 
-Naveen Jindal has a below-average transparency score of 36.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Naveen Jindal has a below-average transparency score of 36.2/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
 
 ---
 

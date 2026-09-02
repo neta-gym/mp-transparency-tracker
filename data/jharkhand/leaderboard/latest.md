@@ -1,29 +1,29 @@
 # MP Transparency Leaderboard — Jharkhand
 
-*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 20 MPs*
+*Generated: 2026-09-02 19:53 UTC | Methodology v3.1 | 20 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Sukhdeo Bhagat | Lohardaga | Indian National Congress | 69.5 | 52% | High attendance |
-| 2 | LS | Vishnu Dayal Ram | Palamu | Bharatiya Janata Party | 68.8 | 60% | Clean record, Low fund utilization, High attendance |
-| 3 | RS | Aditya Prasad | Rajya Sabha (Jharkhand) | Bharatiya Janata Party | 64.8 | 50% | Clean record, Low fund utilization, High attendance |
-| 4 | RS | Pradip Kumar Varma | Rajya Sabha (Jharkhand) | Bharatiya Janata Party | 64.5 | 50% | Clean record, Low fund utilization, High attendance |
-| 5 | LS | Bidyut Baran Mahato | Jamshedpur | Bharatiya Janata Party | 64.0 | 52% | High attendance |
-| 6 | LS | Manish Jaiswal | Hazaribagh | Bharatiya Janata Party | 62.5 | 61% | Low fund utilization, High attendance |
-| 7 | RS | Mahua Maji | Rajya Sabha (Jharkhand) | Jharkhand Mukti Morcha | 62.4 | 50% | Clean record, Low fund utilization |
-| 8 | LS | Kali Charan Munda | Khunti | Indian National Congress | 62.1 | 60% | Clean record, High attendance |
-| 9 | LS | Chandra Prakash Choudhary | Giridih | AJSU Party | 57.6 | 61% | Low fund utilization, High attendance |
-| 10 | RS | Nathwani Parimal | Rajya Sabha (Jharkhand) | Independent & Others | 57.1 | 37% | Clean record, Low attendance |
-| 11 | LS | Sanjay Seth | Ranchi | Bharatiya Janata Party | 56.8 | 49% | Mixed transparency record |
-| 12 | RS | Sarfraz Ahmad | Rajya Sabha (Jharkhand) | Jharkhand Mukti Morcha | 56.6 | 50% | Clean record, Low fund utilization |
-| 13 | RS | Baidyanath Ram | Rajya Sabha (Jharkhand) | Jharkhand Mukti Morcha | 55.5 | 50% | Clean record, Low fund utilization, High attendance |
-| 14 | LS | Vijay Kumar Hansdak | Rajmahal | Jharkhand Mukti Morcha | 53.2 | 60% | Clean record, Low fund utilization |
-| 15 | LS | Joba Majhi | Singhbhum | Jharkhand Mukti Morcha | 53.1 | 51% | Clean record, Low fund utilization |
-| 16 | LS | Annpurna Devi | Kodarma | Bharatiya Janata Party | 50.8 | 58% | Low fund utilization |
-| 17 | LS | Kali Charan Singh | Chatra | Bharatiya Janata Party | 50.0 | 52% | Low fund utilization, High attendance |
-| 18 | LS | Nishikant Dubey | Godda | Bharatiya Janata Party | 44.2 | 52% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
-| 19 | LS | Nalin Soren | Dumka | Jharkhand Mukti Morcha | 42.2 | 52% | Low attendance |
-| 20 | LS | Dulu Mahato | Dhanbad | Bharatiya Janata Party | 41.2 | 61% | Significant criminal cases, Low fund utilization, High attendance |
+| 1 | LS | Sukhdeo Bhagat | Lohardaga | Indian National Congress | 74.7 | 52% | High attendance |
+| 2 | LS | Vishnu Dayal Ram | Palamu | Bharatiya Janata Party | 73.9 | 60% | Clean record, Low fund utilization, High attendance |
+| 3 | RS | Aditya Prasad | Rajya Sabha (Jharkhand) | Bharatiya Janata Party | 69.1 | 50% | Clean record, Low fund utilization, High attendance |
+| 4 | RS | Pradip Kumar Varma | Rajya Sabha (Jharkhand) | Bharatiya Janata Party | 68.8 | 50% | Clean record, Low fund utilization, High attendance |
+| 5 | LS | Bidyut Baran Mahato | Jamshedpur | Bharatiya Janata Party | 68.2 | 52% | High attendance |
+| 6 | LS | Manish Jaiswal | Hazaribagh | Bharatiya Janata Party | 66.5 | 61% | Low fund utilization, High attendance |
+| 7 | RS | Mahua Maji | Rajya Sabha (Jharkhand) | Jharkhand Mukti Morcha | 66.3 | 50% | Clean record, Low fund utilization |
+| 8 | LS | Kali Charan Munda | Khunti | Indian National Congress | 66.0 | 60% | Clean record, High attendance |
+| 9 | LS | Chandra Prakash Choudhary | Giridih | AJSU Party | 60.7 | 61% | Low fund utilization, High attendance |
+| 10 | RS | Nathwani Parimal | Rajya Sabha (Jharkhand) | Independent & Others | 60.1 | 37% | Clean record, Low attendance |
+| 11 | LS | Sanjay Seth | Ranchi | Bharatiya Janata Party | 59.7 | 49% | Mixed transparency record |
+| 12 | RS | Sarfraz Ahmad | Rajya Sabha (Jharkhand) | Jharkhand Mukti Morcha | 59.6 | 50% | Clean record, Low fund utilization |
+| 13 | RS | Baidyanath Ram | Rajya Sabha (Jharkhand) | Jharkhand Mukti Morcha | 58.2 | 50% | Clean record, Low fund utilization, High attendance |
+| 14 | LS | Vijay Kumar Hansdak | Rajmahal | Jharkhand Mukti Morcha | 55.5 | 60% | Clean record, Low fund utilization |
+| 15 | LS | Joba Majhi | Singhbhum | Jharkhand Mukti Morcha | 55.4 | 51% | Clean record, Low fund utilization |
+| 16 | LS | Annpurna Devi | Kodarma | Bharatiya Janata Party | 52.7 | 58% | Low fund utilization |
+| 17 | LS | Kali Charan Singh | Chatra | Bharatiya Janata Party | 51.8 | 52% | Low fund utilization, High attendance |
+| 18 | LS | Nalin Soren | Dumka | Jharkhand Mukti Morcha | 42.6 | 52% | Low attendance |
+| 19 | LS | Dulu Mahato | Dhanbad | Bharatiya Janata Party | 41.4 | 61% | Significant criminal cases, Low fund utilization, High attendance |
+| 20 | LS | Nishikant Dubey | Godda | Bharatiya Janata Party | 41.4 | 52% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
 
 ### Score Breakdown
 
@@ -46,6 +46,6 @@
 | 15 | Joba Majhi | LS | 25 | 60 | 100 | 55 | 40 | 40 | 15 | 40 |
 | 16 | Annpurna Devi | LS | 16 | 85 | 60 | 50 | 50 | 40 | 85 | 40 |
 | 17 | Kali Charan Singh | LS | 16 | 50 | 80 | 90 | 30 | 40 | 15 | 40 |
-| 18 | Nishikant Dubey | LS | 1 | 55 | 10 | 100 | 90 | 40 | 15 | 70 |
-| 19 | Nalin Soren | LS | 41 | 60 | 60 | 15 | 40 | 40 | 15 | 40 |
-| 20 | Dulu Mahato | LS | 22 | 40 | 0 | 90 | 70 | 40 | 85 | 40 |
+| 18 | Nalin Soren | LS | 41 | 60 | 60 | 15 | 40 | 40 | 15 | 40 |
+| 19 | Dulu Mahato | LS | 22 | 40 | 0 | 90 | 70 | 40 | 85 | 40 |
+| 20 | Nishikant Dubey | LS | 1 | 55 | 10 | 100 | 90 | 40 | 15 | 70 |

@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 65.7 / 100
+## Composite Transparency Score: 70.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -87,7 +87,7 @@
 
 ## Qualitative Assessment
 
-P. Wilson shows moderate transparency with a score of 65.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+P. Wilson demonstrates strong transparency with an overall score of 70.2/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

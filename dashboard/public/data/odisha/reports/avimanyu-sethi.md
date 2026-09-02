@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 53.9 / 100
+## Composite Transparency Score: 56.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Avimanyu Sethi shows moderate transparency with a score of 53.9/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
+Avimanyu Sethi shows moderate transparency with a score of 56.4/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 

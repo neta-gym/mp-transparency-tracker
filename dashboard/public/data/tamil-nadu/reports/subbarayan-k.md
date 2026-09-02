@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 59.8 / 100
+## Composite Transparency Score: 63.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -107,7 +107,7 @@
 
 ## Qualitative Assessment
 
-Subbarayan K shows moderate transparency with a score of 59.8/100. Minor criminal cases on record. Active in questions and debates.
+Subbarayan K shows moderate transparency with a score of 63.3/100. Minor criminal cases on record. Active in questions and debates.
 
 ---
 

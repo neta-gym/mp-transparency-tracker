@@ -11,7 +11,7 @@
 
 ---
 
-## Composite Transparency Score: 61.0 / 100
+## Composite Transparency Score: 64.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -126,7 +126,7 @@
 
 ## Qualitative Assessment
 
-Kamaljeet Sehrawat shows moderate transparency with a score of 61.0/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Kamaljeet Sehrawat shows moderate transparency with a score of 64.7/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

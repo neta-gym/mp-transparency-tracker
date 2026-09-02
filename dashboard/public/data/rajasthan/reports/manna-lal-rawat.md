@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 61.3 / 100
+## Composite Transparency Score: 65.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -103,7 +103,7 @@
 
 ## Qualitative Assessment
 
-Manna Lal Rawat shows moderate transparency with a score of 61.3/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Manna Lal Rawat shows moderate transparency with a score of 65.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

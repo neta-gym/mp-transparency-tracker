@@ -8,7 +8,7 @@
 
 ---
 
-## Composite Transparency Score: 52.5 / 100
+## Composite Transparency Score: 54.7 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -104,7 +104,7 @@
 
 ## Qualitative Assessment
 
-Sribharat Mathukumilli shows moderate transparency with a score of 52.5/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Sribharat Mathukumilli shows moderate transparency with a score of 54.7/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 

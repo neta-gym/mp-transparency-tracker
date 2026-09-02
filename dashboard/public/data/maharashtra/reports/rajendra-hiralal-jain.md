@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 60.5 / 100
+## Composite Transparency Score: 64.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -79,7 +79,7 @@
 
 ## Qualitative Assessment
 
-Rajendra Hiralal Jain shows moderate transparency with a score of 60.5/100. No criminal cases declared. High parliament attendance.
+Rajendra Hiralal Jain shows moderate transparency with a score of 64.1/100. No criminal cases declared. High parliament attendance.
 
 ---
 

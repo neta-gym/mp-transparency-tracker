@@ -9,7 +9,7 @@
 
 ---
 
-## Composite Transparency Score: 58.0 / 100
+## Composite Transparency Score: 61.2 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
@@ -85,7 +85,7 @@
 
 ## Qualitative Assessment
 
-Raghav Chadha shows moderate transparency with a score of 58.0/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Raghav Chadha shows moderate transparency with a score of 61.2/100. Minor criminal cases on record. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
