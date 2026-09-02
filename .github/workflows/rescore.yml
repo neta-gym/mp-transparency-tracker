@@ -1,0 +1,122 @@
+name: Rescore State Data
+
+# Durable, sharded full rescore: one job per state, each refreshing its MPs'
+# raw data and committing incrementally to the rescore-checkpoint branch.
+# Main is never touched here - final assembly + atomic main push happens
+# separately (rescore_offline.py) once every state reports finished.
+
+on:
+  workflow_dispatch:
+    inputs:
+      state:
+        description: "State slug to rescore, or 'all'"
+        required: true
+        default: "all"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rescore-${{ inputs.state }}
+  cancel-in-progress: false
+
+jobs:
+  matrix:
+    runs-on: ubuntu-latest
+    outputs:
+      states: ${{ steps.build.outputs.states }}
+    steps:
+      - name: Build state matrix
+        id: build
+        run: |
+          if [ "${{ inputs.state }}" = "all" ]; then
+            STATES='["andhra-pradesh","arunachal-pradesh","assam","bihar","chhattisgarh","delhi","goa","gujarat","haryana","himachal-pradesh","jammu-and-kashmir","jharkhand","karnataka","kerala","madhya-pradesh","maharashtra","manipur","meghalaya","mizoram","nagaland","odisha","punjab","rajasthan","sikkim","tamil-nadu","telangana","tripura","uttar-pradesh","uttarakhand","west-bengal","andaman-and-nicobar-islands","chandigarh","dadra-and-nagar-haveli-and-daman-and-diu","ladakh","lakshadweep","puducherry"]'
+          else
+            STATES='["${{ inputs.state }}"]'
+          fi
+          echo "states=$STATES" >> "$GITHUB_OUTPUT"
+
+  rescore:
+    needs: matrix
+    runs-on: ubuntu-latest
+    timeout-minutes: 115
+    strategy:
+      fail-fast: false
+      matrix:
+        state: ${{ fromJSON(needs.matrix.outputs.states) }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: rescore-checkpoint
+          fetch-depth: 5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Source connectivity probe
+        run: |
+          for u in "https://sansad.in" "https://www.myneta.info" "https://prsindia.org" "https://mplads.mospi.gov.in" "https://esakshi.mospi.gov.in"; do
+            code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 15 "$u" || echo FAIL)
+            echo "probe $u -> $code" | tee -a probe.txt
+          done
+
+      - name: Refresh state data (95 min budget)
+        id: scrape
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          set +e
+          timeout --signal=TERM --kill-after=30 5700 env PYTHONPATH=src python scripts/run.py --state "${{ matrix.state }}" --update
+          rc=$?
+          echo "run_rc=$rc" >> "$GITHUB_OUTPUT"
+          echo "run.py exited rc=$rc (0=finished, 124/143=budget kill)"
+          exit 0
+
+      - name: Write status file
+        run: |
+          mkdir -p data/_meta/rescore_status
+          python3 - "$GITHUB_OUTPUT" <<'PY'
+          import json, datetime, re, sys
+          rc = None
+          for line in open(sys.argv[1]):
+              m = re.match(r"run_rc=(\d+)", line)
+              if m: rc = int(m.group(1))
+          status = {
+              "state": "${{ matrix.state }}",
+              "finished": rc == 0,
+              "run_rc": rc,
+              "ts": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+          }
+          json.dump(status, open("data/_meta/rescore_status/${{ matrix.state }}.json", "w"), indent=2)
+          print(status)
+          PY
+          cat probe.txt > data/_meta/rescore_status/${{ matrix.state }}.probe.txt || true
+
+      - name: Commit and push progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ ':!data/tracker.db' ':!data/tracker.db-shm' ':!data/tracker.db-wal'
+          if git diff --cached --quiet; then
+            echo "No data changes for ${{ matrix.state }}"
+            exit 0
+          fi
+          git commit -m "rescore(${{ matrix.state }}): refresh batch (rc=${{ steps.scrape.outputs.run_rc }})"
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:rescore-checkpoint; then
+              echo "pushed on attempt $i"; exit 0
+            fi
+            echo "push attempt $i failed; rebasing"
+            git fetch origin rescore-checkpoint
+            git rebase origin/rescore-checkpoint || git rebase --abort
+            sleep $((i * 10))
+          done
+          echo "push failed after retries"; exit 1
