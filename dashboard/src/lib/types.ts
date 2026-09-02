@@ -39,6 +39,15 @@ export interface CriminalCase {
   is_convicted: boolean;
   status: CaseStatus;
   court: string;
+  fir_no?: string;
+  case_no?: string;
+  other_acts?: string;
+  charges_framed?: string;
+  date_charges_framed?: string;
+  appeal_filed?: string;
+  appeal_status?: string;
+  punishment?: string;
+  date_convicted?: string;
 }
 
 export interface CriminalRecord {
