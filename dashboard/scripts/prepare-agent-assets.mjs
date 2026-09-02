@@ -193,6 +193,87 @@ function writeLlmsTxt(mps) {
   fs.writeFileSync(path.join(PUBLIC_DIR, "llms.txt"), lines.join("\n"));
 }
 
+
+/** Build the rich per-MP comparison index used by the /compare page.
+ * Joins leaderboard entries with validated findings (raw metrics) so the
+ * client can render a head-to-head beyond composite scores. */
+function buildCompareIndex() {
+  const stateDirs = fs
+    .readdirSync(DATA_DIR, { withFileTypes: true })
+    .filter((d) => d.isDirectory() && d.name !== "national" && d.name !== "enrichment")
+    .map((d) => d.name)
+    .sort();
+
+  const mps = [];
+  for (const stateSlug of stateDirs) {
+    const lb = readJSON(path.join(DATA_DIR, stateSlug, "leaderboard", "latest.json"));
+    if (!lb) continue;
+    for (const e of lb.entries) {
+      const mpSlug = entryToSlug(e.mp_name);
+      // Slugs can differ from entryToSlug for suffixed LS/RS collisions; the
+      // score file name is authoritative.
+      let slug = mpSlug;
+      if (!fs.existsSync(path.join(DATA_DIR, stateSlug, "scores", slug + ".json"))) {
+        const scoresDir = path.join(DATA_DIR, stateSlug, "scores");
+        const alt = fs.existsSync(scoresDir)
+          ? fs.readdirSync(scoresDir).find((f) => f.startsWith(mpSlug) && f.endsWith(".json"))
+          : null;
+        if (alt) slug = alt.replace(/\.json$/, "");
+      }
+      const v = readJSON(path.join(DATA_DIR, stateSlug, "raw", slug + "_validated.json"));
+      const f = v?.findings ?? {};
+      const pa = f.parliament_activity ?? {};
+      const cr = f.criminal_record ?? {};
+      const as = f.assets ?? {};
+      const mp = f.mplads ?? {};
+      mps.push({
+        mpName: e.mp_name,
+        constituency: e.constituency,
+        party: e.party,
+        state: displayState(stateSlug),
+        stateSlug,
+        mpSlug: slug,
+        house: e.house ?? "lok_sabha",
+        photoUrl: e.photo_url ?? null,
+        compositeScore: e.composite_score,
+        dimensionScores: {
+          mplads_score: e.mplads_score,
+          asset_score: e.asset_score,
+          criminal_score: e.criminal_score,
+          attendance_score: e.attendance_score,
+          participation_score: e.participation_score,
+          committee_score: e.committee_score,
+          accessibility_score: e.accessibility_score,
+          legislative_score: e.legislative_score,
+        },
+        metrics: {
+          attendancePct: pa.attendance_percentage ?? null,
+          questionsAsked: pa.questions_asked ?? null,
+          debatesParticipated: pa.debates_participated ?? null,
+          privateBills: pa.private_bills_introduced ?? null,
+          criminalCases: cr.total_cases ?? null,
+          seriousCases: cr.serious_cases ?? null,
+          totalAssets: as.total_assets ?? null,
+          mpladsEntitled: mp.entitled ?? null,
+          mpladsReleased: mp.released ?? null,
+          mpladsSanctioned: mp.sanctioned ?? null,
+          mpladsExpended: mp.expended ?? null,
+          mpladsUtilization: mp.utilization_rate ?? null,
+          worksCount: mp.works_count ?? (mp.works ? mp.works.length : null),
+        },
+      });
+    }
+  }
+  return mps;
+}
+
+function writeCompareIndex(mps) {
+  fs.writeFileSync(
+    path.join(PUBLIC_DIR, "data", "compare-index.json"),
+    JSON.stringify({ count: mps.length, mps }, null, 0)
+  );
+}
+
 // ---- run ----
 const mirrored = mirrorData();
 const mps = buildIndex();
@@ -200,6 +281,8 @@ writeSearchIndex(mps);
 writeRobots();
 const urlCount = writeSitemap(mps);
 writeLlmsTxt(mps);
+const cmp = buildCompareIndex();
+writeCompareIndex(cmp);
 console.log(
-  `prepare-agent-assets: mirrored ${mirrored} data files, indexed ${mps.length} MPs, sitemap URLs: ${urlCount}`
+  `prepare-agent-assets: mirrored ${mirrored} data files, indexed ${mps.length} MPs, compare index: ${cmp.length} MPs, sitemap URLs: ${urlCount}`
 );
