@@ -220,7 +220,8 @@ class ManagerAgent:
                 raw = _Path(f"data/{state_slug}/raw/{mp.slug}.json")
                 if raw.exists():
                     try:
-                        ca = _json.load(open(raw)).get("collected_at", "")
+                        with open(raw) as fh:
+                            ca = _json.load(fh).get("collected_at", "")
                         ts = _dt.datetime.fromisoformat(ca)
                         if ts.tzinfo is None:
                             ts = ts.replace(tzinfo=_dt.timezone.utc)
