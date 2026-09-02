@@ -836,7 +836,7 @@ export default function HomePage() {
 					</Link>
 				</div>
 				<p className="mt-4 text-[10px] font-mono text-surface/50">
-					v3.1 · Open data · 8 dimensions · Evidence graded · Non-partisan
+					v3.2 · Open data · 8 dimensions · Evidence graded · Non-partisan
 				</p>
 			</section>
 		</div>

@@ -83,7 +83,7 @@ export default function RootLayout({
                   Compare
                 </Link>
                 <span className="hidden sm:inline font-mono border-2 border-ink bg-accent px-2 py-0.5 text-xs font-bold">
-                  v3.1
+                  v3.2
                 </span>
               </div>
             </div>
