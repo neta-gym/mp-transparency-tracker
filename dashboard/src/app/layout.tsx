@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { SearchBarWrapper } from "@/components/SearchBarWrapper";
+import { publicPath } from "@/lib/paths";
 import "./globals.css";
 
 const siteUrl = "https://neta-gym.github.io/mp-transparency-tracker";
@@ -49,6 +50,12 @@ export default function RootLayout({
                 href="/"
                 className="flex items-center gap-2 text-ink"
               >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={publicPath("/brand/mark.svg")}
+                  alt="Neta Gym logo - a neta pressing a barbell"
+                  className="h-8 w-8 sm:h-9 sm:w-9"
+                />
                 <span className="text-base sm:text-xl font-bold uppercase tracking-tight">
                   MP Transparency Tracker
                 </span>
