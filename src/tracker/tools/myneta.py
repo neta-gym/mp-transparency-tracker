@@ -286,7 +286,14 @@ class MyNetaParser:
         page_text = soup.get_text()
         case_match = re.search(r"(\d+)\s+criminal\s+cases?", page_text, re.IGNORECASE)
         if case_match:
-            total = max(total, int(case_match.group(1)))
+            summary_n = int(case_match.group(1))
+            if cases:
+                # Parsed table rows are authoritative; the summary regex can
+                # grab junk (e.g. a year fragment like "2014 criminal cases").
+                if summary_n != len(cases):
+                    log.info("MyNeta summary count %d != parsed rows %d; trusting rows", summary_n, len(cases))
+            else:
+                total = summary_n
 
         # Check for "no criminal cases"
         explicit_no_cases = bool(re.search(r"no\s+criminal\s+cases?", page_text, re.IGNORECASE))
