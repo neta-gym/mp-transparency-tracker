@@ -148,7 +148,8 @@ class MyNetaParser:
         def rows_after(heading_regex: str) -> list:
             for tag in soup.find_all(["h2", "h3", "h4"]):
                 if re.search(heading_regex, tag.get_text(strip=True), re.IGNORECASE):
-                    table = tag.find_parent("div").find_next("table") if tag.find_parent("div") else None
+                    parent = tag.find_parent("div")
+                    table = parent.find_next("table") if parent else None
                     table = table or tag.find_next("table")
                     if table:
                         return table.find_all("tr")
