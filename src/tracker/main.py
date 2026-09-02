@@ -62,6 +62,7 @@ async def run(
     update: bool = False,
     output_format: str = "md",
     compare: bool = False,
+    skip_fresh_hours: int = 0,
 ) -> None:
     """Run the pipeline for a single state."""
     db = Database(settings.database_path)
@@ -74,6 +75,7 @@ async def run(
             discover_only=discover_only,
             include_rs=include_rs,
             update=update,
+            skip_fresh_hours=skip_fresh_hours,
         )
         if leaderboard:
             # Trend analysis: annotate leaderboard with deltas from previous run
@@ -365,6 +367,12 @@ def cli_entry() -> None:
     parser.add_argument("--discover-only", action="store_true", help="Only discover MPs, skip scoring")
     parser.add_argument("--include-rs", action="store_true", help="Include Rajya Sabha members")
     parser.add_argument("--update", action="store_true", help="Force re-fetch data from sources")
+    parser.add_argument(
+        "--skip-fresh-hours",
+        type=int,
+        default=0,
+        help="With --update, skip MPs whose raw data was collected within the last N hours",
+    )
 
     # New feature flags
     parser.add_argument("--mp", type=str, help="Profile a specific MP by name (e.g., 'Bansuri Swaraj')")
@@ -469,6 +477,7 @@ def cli_entry() -> None:
                 update=args.update,
                 output_format=args.format,
                 compare=args.compare,
+                skip_fresh_hours=args.skip_fresh_hours,
             )
         )
 

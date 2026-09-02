@@ -179,6 +179,7 @@ class ManagerAgent:
         discover_only: bool = False,
         include_rs: bool = False,
         update: bool = False,
+        skip_fresh_hours: int = 0,
     ) -> Leaderboard | None:
         """Run the full pipeline for a state."""
         state_slug = state.replace(" ", "-").lower()
@@ -204,6 +205,38 @@ class ManagerAgent:
 
         if discover_only:
             return None
+
+        # Update mode with skip-fresh: drop MPs whose raw file was collected
+        # recently, so a re-dispatched state resumes instead of restarting
+        # (per-state Actions jobs have a 95-minute scrape budget).
+        if update and skip_fresh_hours > 0:
+            import datetime as _dt
+            import json as _json
+            from pathlib import Path as _Path
+
+            now = _dt.datetime.now(_dt.timezone.utc)
+            kept = []
+            for mp in mps:
+                raw = _Path(f"data/{state_slug}/raw/{mp.slug}.json")
+                if raw.exists():
+                    try:
+                        ca = _json.load(open(raw)).get("collected_at", "")
+                        ts = _dt.datetime.fromisoformat(ca)
+                        if ts.tzinfo is None:
+                            ts = ts.replace(tzinfo=_dt.timezone.utc)
+                        if (now - ts) < _dt.timedelta(hours=skip_fresh_hours):
+                            continue
+                    except Exception:
+                        pass
+                kept.append(mp)
+            log.info(
+                "skip-fresh: %d/%d MPs fresh within %dh; processing %d",
+                len(mps) - len(kept), len(mps), skip_fresh_hours, len(kept),
+            )
+            mps = kept
+            if not mps:
+                log.info("All MPs fresh - nothing to do")
+                return None
 
         # Register MPs in database
         for mp in mps:
