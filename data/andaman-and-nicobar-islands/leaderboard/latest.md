@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Andaman-And-Nicobar-Islands
 
-*Generated: 2026-08-23 16:44 UTC | Methodology v3.1 | 1 MPs*
+*Generated: 2026-09-02 01:21 UTC | Methodology v3.1 | 1 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

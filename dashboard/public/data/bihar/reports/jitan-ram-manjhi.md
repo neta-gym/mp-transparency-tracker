@@ -5,7 +5,7 @@
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Age:** 78
 **Education:** Graduate
-**Report Date:** 2026-08-23
+**Report Date:** 2026-09-02
 **Data Confidence:** Low (43%) | **Evidence Grade:** Official (B)
 
 ---
@@ -139,7 +139,7 @@ Has 6 criminal case(s) (0 serious), 6 pending, 0 conviction(s). Declared assets:
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 23/08/2026
+Date: 01/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

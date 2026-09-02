@@ -3,7 +3,7 @@
 **Constituency:** Sikar, Rajasthan
 **Party:** Communist Party of India (Marxist)
 **House:** Lok Sabha (18th Parliament, 2024-present)
-**Report Date:** 2026-08-23
+**Report Date:** 2026-09-02
 **Data Confidence:** Medium (50%) | **Evidence Grade:** Third-party (C)
 
 ---
@@ -136,7 +136,7 @@ No criminal cases declared. Declared assets: Rs 4,050,109. MPLADS utilization: 2
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 23/08/2026
+Date: 01/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

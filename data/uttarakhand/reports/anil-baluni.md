@@ -6,7 +6,7 @@
 **Age:** 53
 **Education:** Graduate
 **Profession:** Social Worker
-**Report Date:** 2026-08-23
+**Report Date:** 2026-09-02
 **Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
@@ -46,7 +46,7 @@
 - **Net Worth:** Rs 3.78 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 32% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 31% of Lok Sabha MPs
 
 ---
 
@@ -140,7 +140,7 @@ No criminal cases declared. Declared assets: Rs 37,798,791. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 23/08/2026
+Date: 01/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

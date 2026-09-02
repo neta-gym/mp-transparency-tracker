@@ -6,7 +6,7 @@
 **Age:** 60
 **Education:** Graduate Professional
 **Profession:** Printing Press (Director)
-**Report Date:** 2026-08-23
+**Report Date:** 2026-09-02
 **Data Confidence:** Low (49%) | **Evidence Grade:** Official (B)
 
 ---
@@ -46,7 +46,7 @@
 - **Net Worth:** Rs 4.08 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 34% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 33% of Lok Sabha MPs
 
 ---
 
@@ -146,7 +146,7 @@ No criminal cases declared. Declared assets: Rs 40,824,015. MPLADS utilization: 
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 23/08/2026
+Date: 01/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

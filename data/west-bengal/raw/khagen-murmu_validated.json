@@ -1,1313 +1,431 @@
 {
- "mp": {
-  "name": "Khagen Murmu",
-  "constituency": "Maldaha Uttar",
-  "state": "west bengal",
-  "party": "Bharatiya Janata Party",
-  "myneta_candidate_id": 3375,
-  "slug": "khagen-murmu",
-  "house": "lok_sabha",
-  "sansad_member_id": 5050,
-  "profile_url": null,
-  "canonical_name": null,
-  "name_aliases": [],
-  "education": "Graduate",
-  "profession": null,
-  "age": 64,
-  "photo_url": "/mp-photos/5050.jpg"
- },
- "findings": {
   "mp": {
-   "name": "Khagen Murmu",
-   "constituency": "Maldaha Uttar",
-   "state": "west bengal",
-   "party": "Bharatiya Janata Party",
-   "myneta_candidate_id": 3375,
-   "slug": "khagen-murmu",
-   "house": "lok_sabha",
-   "sansad_member_id": 5050,
-   "profile_url": null,
-   "canonical_name": null,
-   "name_aliases": [],
-   "education": "Graduate",
-   "profession": null,
-   "age": 64,
-   "photo_url": "/mp-photos/5050.jpg"
+    "name": "Khagen Murmu",
+    "constituency": "Maldaha Uttar",
+    "state": "west bengal",
+    "party": "Bharatiya Janata Party",
+    "myneta_candidate_id": 3375,
+    "slug": "khagen-murmu",
+    "house": "lok_sabha",
+    "sansad_member_id": 5050,
+    "profile_url": null,
+    "canonical_name": null,
+    "name_aliases": [],
+    "education": "Graduate",
+    "profession": null,
+    "age": 64,
+    "photo_url": "/mp-photos/5050.jpg"
   },
-  "criminal_record": {
-   "total_cases": 7,
-   "serious_cases": 0,
-   "convictions": 0,
-   "pending_cases": 7,
-   "disposed_cases": 0,
-   "cases": [],
-   "source": "myneta",
-   "confidence": 0.8,
-   "sources": []
-  },
-  "assets": {
-   "movable_assets": 0.0,
-   "immovable_assets": 0.0,
-   "total_assets": 13590846.0,
-   "liabilities": 234412.0,
-   "net_worth": 13356434.0,
-   "previous_total_assets": null,
-   "asset_year": null,
-   "previous_asset_year": null,
-   "source": "myneta",
-   "confidence": 0.8,
-   "sources": [
-    {
-     "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3375",
-     "source_name": "myneta",
-     "grade": "B",
-     "fetched_at": "2026-08-22T20:01:55.929301Z",
-     "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+  "findings": {
+    "mp": {
+      "name": "Khagen Murmu",
+      "constituency": "Maldaha Uttar",
+      "state": "west bengal",
+      "party": "Bharatiya Janata Party",
+      "myneta_candidate_id": 3375,
+      "slug": "khagen-murmu",
+      "house": "lok_sabha",
+      "sansad_member_id": 5050,
+      "profile_url": null,
+      "canonical_name": null,
+      "name_aliases": [],
+      "education": "Graduate",
+      "profession": null,
+      "age": 64,
+      "photo_url": "/mp-photos/5050.jpg"
+    },
+    "criminal_record": {
+      "total_cases": 7,
+      "serious_cases": 0,
+      "convictions": 0,
+      "pending_cases": 7,
+      "disposed_cases": 0,
+      "cases": [],
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": []
+    },
+    "assets": {
+      "movable_assets": 0.0,
+      "immovable_assets": 0.0,
+      "total_assets": 13590846.0,
+      "liabilities": 234412.0,
+      "net_worth": 13356434.0,
+      "previous_total_assets": null,
+      "asset_year": null,
+      "previous_asset_year": null,
+      "source": "myneta",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3375",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-08-22T20:01:55.929301Z",
+          "notes": "MyNeta/ADR Lok Sabha 2024 candidate affidavit summary"
+        }
+      ],
+      "annual_income": null,
+      "election_expenditure": null,
+      "wealth_percentile": 12.1,
+      "growth_ratio": null
+    },
+    "mplads": {
+      "entitled": 14.7,
+      "released": 14.7,
+      "sanctioned": 1.0,
+      "expended": 0.6,
+      "source": "esakshi",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
+          "source_name": "esakshi",
+          "grade": "A",
+          "fetched_at": "2026-05-23T17:51:50.996655Z",
+          "notes": "Official eSAKSHI REST API — Works: 30 recommended, 11 sanctioned, 6 completed"
+        }
+      ],
+      "works": [],
+      "works_count": 30,
+      "esakshi_coverage_start": "2023-04-01",
+      "period_data": [],
+      "cumulative_entitled": null,
+      "cumulative_released": null,
+      "cumulative_expended": null,
+      "includes_covid_suspension": false,
+      "data_period_note": "",
+      "utilization_rate": 4.081632653061225
+    },
+    "parliament_activity": {
+      "attendance_percentage": 100.0,
+      "questions_asked": 59,
+      "debates_participated": 12,
+      "private_bills_introduced": 0,
+      "is_minister": false,
+      "source": "prs",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
+          "source_name": "prs_github_csv",
+          "grade": "C",
+          "fetched_at": "2026-05-21T14:34:20.303440Z",
+          "notes": "PRS India GitHub CSV - 18th Lok Sabha"
+        }
+      ],
+      "focus_topics": [],
+      "notable_questions": [],
+      "voting_record": []
+    },
+    "news_allegations": [],
+    "raw_notes": "",
+    "sources_consulted": [
+      "prs",
+      "social_media",
+      "news",
+      "myneta",
+      "mplads"
+    ],
+    "collected_at": "2026-05-21T14:35:21.977873Z",
+    "evidence_summary": {
+      "parliament": "C",
+      "accessibility": "D",
+      "assets": "B",
+      "criminal": "B",
+      "mplads": "A"
+    },
+    "cag_findings": [
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-09-02T01:21:42.077855Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
+        "category": "bogus_ucs",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-09-02T01:21:42.077865Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS",
+        "report_number": "31 of 2010",
+        "year": 2010,
+        "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://cag.gov.in/en/audit-report/details/2341",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-09-02T01:21:42.077869Z",
+          "notes": "CAG Report No. 31 of 2010"
+        }
+      },
+      {
+        "report_title": "Follow-up Audit of MPLADS",
+        "report_number": "9 of 2013",
+        "year": 2013,
+        "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
+        "category": "idle_funds",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-09-02T01:21:42.077874Z",
+          "notes": "CAG Report No. 9 of 2013"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Only 53% of recommended works completed within the audit period",
+        "category": "incomplete_works",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-09-02T01:21:42.077879Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
+        "category": "irregular_works",
+        "state": "national",
+        "severity": "high",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-09-02T01:21:42.077889Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      },
+      {
+        "report_title": "Performance Audit of MPLADS (2012-17)",
+        "report_number": "CAG Performance Report 2017",
+        "year": 2017,
+        "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
+        "category": "poor_records",
+        "state": "national",
+        "severity": "medium",
+        "source": {
+          "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
+          "source_name": "cag",
+          "grade": "A",
+          "fetched_at": "2026-09-02T01:21:42.077894Z",
+          "notes": "CAG Report No. CAG Performance Report 2017"
+        }
+      }
+    ],
+    "compensation": {
+      "salary_per_month": 100000.0,
+      "constituency_allowance_per_month": 70000.0,
+      "office_expense_allowance_per_month": 60000.0,
+      "sumptuary_allowance_per_month": 15000.0,
+      "total_monthly": 245000.0,
+      "total_annual": 2940000.0,
+      "effective_from": "2018-04-01",
+      "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
+      "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
+    },
+    "sagy": [],
+    "committees": {
+      "memberships": [],
+      "total_committees": 0,
+      "leadership_roles": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "social_media": {
+      "profiles": [],
+      "total_platforms": 0,
+      "total_followers": 0,
+      "confidence": 0.2,
+      "sources": []
+    },
+    "news_sentiment": {
+      "total_articles": 10,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 8,
+      "top_headlines": [
+        {
+          "headline": "BJP MP Khagen Murmu’s first wife joins Trinamool Congress - Social News XYZ",
+          "source": "Social News XYZ",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEhiTG5mUlZtaVBJUURDZUlKMTJuR2RaaGQ5VWxKcGxpTWhRX2d6MnVISVppeDRxd2RNVWViRENKVTNfZUxoTzltbWRFN1ZMZ0NLNjJVMnlmYWQ1aHBHZmprVW9JNjNabnlValZZWmN6Ri1DT09qUDN5TklyaVV2VVZCREplX3ViV2hDbkJuWFg3b0ltb1JKakVzNNIBmwFBVV95cUxPbEhiTG5mUlZtaVBJUURDZUlKMTJuR2RaaGQ5VWxKcGxpTWhRX2d6MnVISVppeDRxd2RNVWViRENKVTNfZUxoTzltbWRFN1ZMZ0NLNjJVMnlmYWQ1aHBHZmprVW9JNjNabnlValZZWmN6Ri1DT09qUDN5TklyaVV2VVZCREplX3ViV2hDbkJuWFg3b0ltb1JKakVzNA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "BJP MP attacked during relief work in flood-hit north Bengal, party blames Trinamool - The Hindu",
+          "source": "The Hindu",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbktyazU1Wm9PdHBaRlpJN1cxbnZsb0dtTHFpRFNrVXVkN29TSDBKWFpLS0RVc0drQXpIQ09lZnZVdkl2aFdoRVp2U2Fqd1lQcDNhUHdlM1JGVGJyY3FIZUlnLURTbnNFd0Z6VTBaeVJ3cFJKMXdxU09VZ0d4QnRXSEpjZmFwRmJFWm9Fb1Y4QUFrZndDZnVpVmdBY090eWsxV196SXo0dGxFRk5BUzI5cWlPd1VGQ2laaWlPYXBvbTNaSU03aVEtVnFNeVNZSUpBUmEzYUZ1ZTh3VHJMb0plY2ZnSHZoM0N4VWhYUmZLbXN1MVZsa0NyZmNEWdIBggJBVV95cUxObDFJRWNmaF9JQkhTZno1ejZhckFROGJvUmFGcnl1OFFfdFpuS19hREJlWk9KTEFFVE5yRVZHN3RDRnNQUkpVaEVpN0dCUDVrQmRMTFFIMjZTNEt1bHh5WXprUll0QlcwVWNJbnRPNzRWMHEwVTJvekFiaUlxU3V5dEdPUGJMS19OdFkzUVBHUURfYkFhcWxERjBtdmExVGYza2lwMVFYT3BWajc3SnVOem9mZUJpX3FqZlBjWGhiQVhkUUptaWgxVlRsMVlmZzNsMFVtTTVqZFZsblVJQm95VHFZbHUtcG1VaGJybTB0dFBlMzlVSjZrbWxtUGozbkVjNGc?oc=5",
+          "sentiment": "positive"
+        },
+        {
+          "headline": "BJP MP Khagen Murmu Hit On Head, Left Bleeding After Stones Thrown In Bengal - NDTV",
+          "source": "NDTV",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTDNKQlpTZnJuVXpvbEREdnRzaGt4M00xTmMwUy11eDdScHJBTGFIcmxCWFNTcERyVkdvamVCcHFVSm5TMTN5STJocnJzeUY3V3FYR0Q2ZTRHcTl5Ql9GOGF0RVRXRVVnb01yeDh2azg0OVdiVTlJdGFuOHh4YzRSTl9DdzdmRC0zNFVIWmtaWkk4bVN2NnpZbnBDZ19GUmk1UFFET2F5V29hU0dvd2V6VHJVZFlCVXFYbVRxM08xYkl2bzJi0gHMAUFVX3lxTE5yVEF1ajhyOXFtSXBlSWtiNWdWWTg2amFYYzRkVFM0VnVYUkVuWjZHZFQ5NXBibnU1SW5VVGY2b1VBcUdsemp4bUlQOWViSjBGazRHU0JSajlkTlM2bVVlQTdEdHA0cTVWQmM5OUpIeTFzb0tnSTdPSktLMEtkQWZMeDlvOWlSeExrY0tmOWpPSlZ4dFNpWktPbjdmenhJeUxjbnU4dm9OR2QxNGFfc3pmUGlWZ1JKT203RVR0STVZamcxanZlbjU5M0NDTA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Khagen Murmu, two-time BJP MP, sustains serious injuries after party delegation attacked in Jalpaiguri - India TV News",
+          "source": "India TV News",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDZrcEU5OWlNdThHTGx6MHlMOUgyU2dNTnRvNE9ZZEhqRWw1dTV1Yk1KajBFWGNnbFoxSkFIQWlZZFp5R1hVa2p6VGhIQ3lGVXM3MjNXaWxjVlJqSk42Y1FnMG9DZk8ydXpTaHBUa25VQmxES0o5OUtMV0dDWl80cWdzdGdXMkJmWmsxRUZ6eFNNUXg4d2ltNjBwQkRteW9QNG1TT2N0aUsyVE4yNHUyZFpqRHRfVWJZVm1PM0RXTzV4ajRIV2ZLUWRtaWh3dGMwRDVSbVhZVlhmMDBxSVNKUkdHUHBlOWRHRFFF0gHwAUFVX3lxTE9paS0tdllzZ3ZmejNvMk5qOVVWSklWNzl0djUyUXFFQUgxZXJRdmJnMkpSSDVfVVJUYzRsWjNsdVcwTUF1VGJNOHViVDEwNWlFVG4tSEZtcnZxMW5uSFdhNzNKZnlQVm5ueHFaRGRhUW5KbjhCQ3RnYWxmOWVuOVNWNlFKZk83TS1RODRrUjZBeFNmM0VyMUo3eDJWbFd3eDE1QXJ2SmZqci1PUVJRQ0ZyUGU5Z3NfR1N4cGgwTFNIbXB1aFlUOGNKbjVMVXZJVWF0bW9aQVU0VWJEUE5FaGF5M0xaYjYtYWI1U1hiZUdjMA?oc=5",
+          "sentiment": "neutral"
+        },
+        {
+          "headline": "Mamata Banerjee meets injured BJP MP Khagen Murmu after assault in north Bengal - India Today",
+          "source": "India Today",
+          "severity": "low",
+          "verified": false,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXJrU0lPSlRRRVpaM1pMY01uelZJay1xR0VHamhGQlhxV1lwbm45MS1DRHhQbkVTdzB2YmxZdG9IcXJEeFV0OVRSM2RKc09ESk80UVdWcFl4Q2tGSGlWMnV0Y3UxUXNWOXA0MGpNY1JOSVhOWjZrV2w4V1gxSnRyb3BjbmdIM2dvZ18yUVg1UDF1UU5pc05WOUdISkQ5TnBhc3ZxR0JSbmdBbk1Hc2JPMFdWdTlGX2VqcDc0ckJ4Z3BwcG9tcVdfWlRwc3VDRE9oYlHSAdcBQVVfeXFMTTdNZ2NmWjFta0lveExvWVE0VTZ2YU1LN1FUdjZEY0lTSlZBS2NnRllSVlc5eVN0cTRFdjdYOWNyVlMtckR4cXI5NzZHcTZGR2E1MzFtZEZISTUxMlN5dVVrN2NXVzJ2aEdxaVZsVGNaS2F2MjhXTm1xSlVuWHVNdVZFaUVXZV9lOU94cHBzWUVCTXlrWmJETHViYzRzckt6TGluZjJQSERreWR2UW9TVmdrbW9tMWZQaGpkSldzTGhLM3JldG5pb2FoTnFrZGQyVllodTI5S0E?oc=5",
+          "sentiment": "neutral"
+        }
+      ],
+      "sentiment_summary": "Mixed/neutral coverage (10 articles)",
+      "confidence": 0.5
+    },
+    "legislative": {
+      "bills_introduced": 0,
+      "bills_passed": 0,
+      "private_member_bills": 0,
+      "zero_hour_mentions": 0,
+      "special_mentions": 0,
+      "confidence": 0.0,
+      "sources": []
+    },
+    "constituency_context": {
+      "population": null,
+      "literacy_rate": null,
+      "urban_percentage": null,
+      "district": ""
+    },
+    "voting_analysis": {
+      "total_votes": 0,
+      "votes_with_party": 0,
+      "votes_against_party": 0,
+      "abstentions": 0,
+      "absences": 0,
+      "party_loyalty_pct": null,
+      "cross_party_votes": [],
+      "key_bills_missed": [],
+      "confidence": 0.0
+    },
+    "question_quality": {
+      "total_questions": 0,
+      "starred_questions": 0,
+      "unstarred_questions": 0,
+      "short_notice_questions": 0,
+      "unique_topics": 0,
+      "constituency_relevant": 0,
+      "follow_up_rate": 0.0,
+      "quality_score": 0.0,
+      "confidence": 0.0
+    },
+    "conflict_of_interest": {
+      "mp_businesses": [],
+      "committee_sectors": [],
+      "question_sectors": [],
+      "overlaps": [],
+      "severity": "none",
+      "analysis_notes": "",
+      "confidence": 0.0
+    },
+    "attendance_pattern": {
+      "overall_pct": null,
+      "session_breakdown": {},
+      "consecutive_absences": 0,
+      "attended_key_debates": true,
+      "zero_hour_presence": null,
+      "pattern_label": "",
+      "confidence": 0.0
+    },
+    "mgnrega": {
+      "employment_days_generated": null,
+      "total_expenditure": null,
+      "works_completed": null,
+      "works_in_progress": null,
+      "avg_wage_per_day": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
+    },
+    "pm_kisan": {
+      "total_beneficiaries": null,
+      "amount_disbursed": null,
+      "installment_number": null,
+      "financial_year": "",
+      "confidence": 0.0,
+      "sources": []
     }
-   ],
-   "annual_income": null,
-   "election_expenditure": null,
-   "wealth_percentile": 11.7,
-   "growth_ratio": null
   },
-  "mplads": {
-   "entitled": 14.7,
-   "released": 14.7,
-   "sanctioned": 1.0,
-   "expended": 0.6,
-   "source": "esakshi",
-   "confidence": 0.9,
-   "sources": [
+  "overall_confidence": 0.5,
+  "flags": [
     {
-     "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-     "source_name": "esakshi",
-     "grade": "A",
-     "fetched_at": "2026-05-23T17:51:50.996655Z",
-     "notes": "Official eSAKSHI REST API — Works: 30 recommended, 11 sanctioned, 6 completed"
+      "field": "mplads",
+      "issue": "Extremely low utilization rate — verify data",
+      "severity": "warning",
+      "suggestion": ""
     },
     {
-     "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-     "source_name": "esakshi",
-     "grade": "A",
-     "fetched_at": "2026-09-01T23:04:06.961372Z",
-     "notes": "Work-level backfill: 38 works (recommended/sanctioned/completed lifecycle)"
+      "field": "committees",
+      "issue": "No committee data found — Sansad profile may be unavailable",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "legislative",
+      "issue": "Low confidence in legislative effectiveness data",
+      "severity": "info",
+      "suggestion": ""
+    },
+    {
+      "field": "mplads",
+      "issue": "CAG audit context for West Bengal: 7 relevant findings",
+      "severity": "info",
+      "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
-   ],
-   "works": [
-    {
-     "work_id": "149594",
-     "description": "Regarding releasing the sanctioned amount of Rs 01 crore 10 lakh by uploading the book purchase scheme recommended under MPLADS Guidelines 01 April 2023 on the Sakshi portal online for the financial year 2024-24 for the promotion of national language Hindi and Hindi literature.",
-     "sector": "other",
-     "recommended_amount": 11000000.0,
-     "sanctioned_amount": 11000000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "26-Oct-2024",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2024-2025/47"
-    },
-    {
-     "work_id": "210467",
-     "description": "Repairing of Concrete Shade at Crematorium and Construction of New Shade Rest House at Gazole Krishna Pally Mahasamshan, Dag No 106 , JL No 83, Mouza Gajol, GP Gazole I, Block Gazole, Contact 9832424996",
-     "sector": "community",
-     "recommended_amount": 699999.0,
-     "sanctioned_amount": 699999.0,
-     "expended_amount": null,
-     "status": "sanctioned",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "19-Jun-2025",
-     "sanction_date": "10-Sep-2025",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2025-2026/52"
-    },
-    {
-     "work_id": "210466",
-     "description": "CONSTRUCTION OF CC ROAD FROM DHAOYAIL PRATIBESI SANGHA TOWARDS DANOGRAM BOOTH NO 44 , JL NO 173 ,  MOUZA DHAOYAIL , GP DEOTALA, BLOCK GAZOLE",
-     "sector": "infrastructure",
-     "recommended_amount": 1498952.0,
-     "sanctioned_amount": 1498952.0,
-     "expended_amount": 1498952.0,
-     "status": "completed",
-     "district": "Maldaha Uttar",
-     "completion_date": "18-Mar-2026",
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "19-Jun-2025",
-     "sanction_date": "10-Sep-2025",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2025-2026/52"
-    },
-    {
-     "work_id": "210465",
-     "description": "CONSTRUCTION OF CC ROAD FROM DEOTALA ASTANA PEACH SH ROAD TOWARDS MEHBOOB SHOP OF DOAT VIA DEOTALA MADRASHAH MOUZA DEOTALA, JL 172,GP DEOTALA, BLOCK GAZOLE",
-     "sector": "infrastructure",
-     "recommended_amount": 1200000.0,
-     "sanctioned_amount": 1200000.0,
-     "expended_amount": null,
-     "status": "sanctioned",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "19-Jun-2025",
-     "sanction_date": "10-Sep-2025",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2025-2026/52"
-    },
-    {
-     "work_id": "284415",
-     "description": "Construction of Community Hall near Rashiladaha Behula Mahasamshan, Booth No 167,JL No 107, Mouza Rasiladaha, GP Sahapur, Block Old Malda",
-     "sector": "community",
-     "recommended_amount": 3000000.0,
-     "sanctioned_amount": 3000000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "17-Jun-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/58"
-    },
-    {
-     "work_id": "284413",
-     "description": "Construction of Shaded Hall at Bishan Natya Sangastha Mouja Rangabhita, JL No 84, GP Gazole I, Block Gazole",
-     "sector": "other",
-     "recommended_amount": 1600000.0,
-     "sanctioned_amount": 1600000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "17-Jun-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/58"
-    },
-    {
-     "work_id": "272693",
-     "description": "Construction of Open Mancha and Repairing and Painting at Narayanpur Upper Primary School Premises, School Dise Code 19060805001, Circle Malda, Mouza Arodpur, JL No 100, GP Mangalbari,Block Old Malda",
-     "sector": "education",
-     "recommended_amount": 350000.0,
-     "sanctioned_amount": 350000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "17-Jun-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/57"
-    },
-    {
-     "work_id": "272690",
-     "description": "Construction of CC Road with drain from SH 510 Maldato Nalagola Road towards Victor Kinder Garden at Mouja Kendu, JL No 213, GP Bulbulchandi, Block Habibpur",
-     "sector": "infrastructure",
-     "recommended_amount": 620000.0,
-     "sanctioned_amount": 620000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "17-Jun-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/57"
-    },
-    {
-     "work_id": "269727",
-     "description": "Purchase of 4 Number of Computers with Necessary furniture at Naldubi Primary School, Mangalbari Railgate, JL No 106, Mouza Khaihatta, GP Mangalbari, Block Gazole",
-     "sector": "education",
-     "recommended_amount": 220000.0,
-     "sanctioned_amount": 220000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "17-Jun-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/57"
-    },
-    {
-     "work_id": "269726",
-     "description": "Construction of Community Building at Ramkrishnapally, Akalpur, JL No 17, Mouza Akalpur, GP Bairgacchi II, Block Gazole",
-     "sector": "other",
-     "recommended_amount": 2200000.0,
-     "sanctioned_amount": 2200000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "17-Jun-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/57"
-    },
-    {
-     "work_id": "269725",
-     "description": "Construction of Residential Building of Bharat Sevashram Sangha at Chandpur , Bamangola , JL No 58, Mouza Nagra, GP Chandpur, Block Bamangola, Contact No 8513810214",
-     "sector": "other",
-     "recommended_amount": 2600000.0,
-     "sanctioned_amount": 2600000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "17-Jun-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/57"
-    },
-    {
-     "work_id": "166042",
-     "description": "Purschase a Diesel Generator at Sripur Anchal High School (JL No. 74, Mouza- Kheria, GP- , Block- Ratua II)",
-     "sector": "education",
-     "recommended_amount": 650000.0,
-     "sanctioned_amount": 650000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "16-Jan-2025",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2024-2025/49"
-    },
-    {
-     "work_id": "166036",
-     "description": "Construction of cc road with covered drain from Rokomari to Vivekananda Sishu Mandir(JL No. 68, Mouza- Singia, GP- Chanchal, Block-Chanchal I)",
-     "sector": "infrastructure",
-     "recommended_amount": 1399456.0,
-     "sanctioned_amount": 1399456.0,
-     "expended_amount": 1399456.0,
-     "status": "completed",
-     "district": "Maldaha Uttar",
-     "completion_date": "24-Jul-2026",
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "16-Jan-2025",
-     "sanction_date": "30-Apr-2025",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2024-2025/49"
-    },
-    {
-     "work_id": "166025",
-     "description": "Construction of CC Road from Sahara Pallymangal Club towards Sahara C.S. Primary School (JL- 9  , Mouza- Sahara, GP- Mahisbathani, Block- Old Malda)",
-     "sector": "education",
-     "recommended_amount": 600000.0,
-     "sanctioned_amount": 600000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "16-Jan-2025",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2024-2025/48"
-    },
-    {
-     "work_id": "166024",
-     "description": "Construaction a Cycle Stand at School Premesis of Haripur High School (JL- 136, Mouza-Nesta, GP- Araidanga, Block- Ratua II)",
-     "sector": "education",
-     "recommended_amount": 500000.0,
-     "sanctioned_amount": 500000.0,
-     "expended_amount": null,
-     "status": "sanctioned",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "16-Jan-2025",
-     "sanction_date": "30-Apr-2025",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2024-2025/48"
-    },
-    {
-     "work_id": "166023",
-     "description": "Installation of Hi Must Light Near Soladanga Shiv Mandir (JL-  210, Mouza-Soladanga , Khatian- 86, Dag No. 101, GP- Bulbulchandi, Block- Habibpur)",
-     "sector": "other",
-     "recommended_amount": 520361.0,
-     "sanctioned_amount": 520361.0,
-     "expended_amount": 520361.0,
-     "status": "completed",
-     "district": "Maldaha Uttar",
-     "completion_date": "18-Mar-2026",
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "16-Jan-2025",
-     "sanction_date": "30-Apr-2025",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2024-2025/48"
-    },
-    {
-     "work_id": "166022",
-     "description": "Installation of Hi Must Light between Chandmohan Primary School and Kali Mandir at Surjonagar (JL-  261, Mouza- Mahisal , Khatian- 2854, Dag No. 101, GP-Salaidanga, Block- Gazole)",
-     "sector": "education",
-     "recommended_amount": 520361.0,
-     "sanctioned_amount": 520361.0,
-     "expended_amount": 520361.0,
-     "status": "completed",
-     "district": "Maldaha Uttar",
-     "completion_date": "18-Mar-2026",
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "16-Jan-2025",
-     "sanction_date": "30-Apr-2025",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2024-2025/48"
-    },
-    {
-     "work_id": "166021",
-     "description": "Installation of Solar light at 20 Location of Gazole-II Gram Panchayet (Near JL No.- 94, Mouza- Near Fatepur, GP- Gazole II, Block- Gazole)",
-     "sector": "infrastructure",
-     "recommended_amount": 739817.0,
-     "sanctioned_amount": 739817.0,
-     "expended_amount": 739817.0,
-     "status": "completed",
-     "district": "Maldaha Uttar",
-     "completion_date": "18-Mar-2026",
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "16-Jan-2025",
-     "sanction_date": "30-Apr-2025",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2024-2025/48"
-    },
-    {
-     "work_id": "166020",
-     "description": "Installation of Solar Hi Must Light between Ranjit Chowdhury House and Rajen Chowdhury House at Narayanpur (JL No. 100, Mouza- Aradpur, GP- Mangalbari, Block- Old Malda)",
-     "sector": "infrastructure",
-     "recommended_amount": 524472.0,
-     "sanctioned_amount": 524472.0,
-     "expended_amount": 524472.0,
-     "status": "completed",
-     "district": "Maldaha Uttar",
-     "completion_date": "18-Mar-2026",
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "16-Jan-2025",
-     "sanction_date": "30-Apr-2025",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2024-2025/48"
-    },
-    {
-     "work_id": "166019",
-     "description": "Construction of Reservior with Sub Marshal near  Bharatiya Sanatan Santal Kalyan Ashram (JL No. 92, Mouza- Kotalhati, GP- Gazole II , Block- Gazole)",
-     "sector": "other",
-     "recommended_amount": 799750.0,
-     "sanctioned_amount": 799750.0,
-     "expended_amount": 799750.0,
-     "status": "completed",
-     "district": "Maldaha Uttar",
-     "completion_date": "19-Mar-2026",
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "16-Jan-2025",
-     "sanction_date": "30-Apr-2025",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2024-2025/48"
-    },
-    {
-     "work_id": "258871",
-     "description": "CONSTRUCTION OF CONCRETE ROAD FROM CHARAN HOUSE TOWARDS MIHIR HEMBRAM HOUSE (PLOT NO-1830,JL NO 94, MOUZA- FATEPUR TIKAVITA, GP- GAZOLE-II, BLOCK- GAZOLE)",
-     "sector": "infrastructure",
-     "recommended_amount": 169999.0,
-     "sanctioned_amount": 169999.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "13-Jan-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2025-2026/56"
-    },
-    {
-     "work_id": "258870",
-     "description": "CONSTRUCTION OF CONCRETE ROAD FROM RANIPUR BINAT MAL HOUSE TOWARDS AMULLA MAL HOUSE ( JL NO.- 91, MOUZA-RANIPUR, GP- GAZOLE II, BLOCK- GAZOLE)",
-     "sector": "infrastructure",
-     "recommended_amount": 240001.0,
-     "sanctioned_amount": 240001.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "13-Jan-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2025-2026/56"
-    },
-    {
-     "work_id": "258700",
-     "description": "Construction of Concrete Road at Sahapur Bazarpara from Toton Mandal House towards Arati Chowdhury House (JL No 110, Mouza Sahapur, GP Sahapur, Block Old Malda)",
-     "sector": "infrastructure",
-     "recommended_amount": 699972.0,
-     "sanctioned_amount": 699972.0,
-     "expended_amount": null,
-     "status": "sanctioned",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "13-Jan-2026",
-     "sanction_date": "22-Jun-2026",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2025-2026/56"
-    },
-    {
-     "work_id": "258699",
-     "description": "Construction of Community Hall at Near Sangrami Club and Sporting (JL No.- 99, Mouza- Mokatipur, Ward No. -3,  Municipality- Old Malda)",
-     "sector": "community",
-     "recommended_amount": 1999992.0,
-     "sanctioned_amount": 1999992.0,
-     "expended_amount": null,
-     "status": "sanctioned",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "13-Jan-2026",
-     "sanction_date": "22-Jun-2026",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2025-2026/56"
-    },
-    {
-     "work_id": "258698",
-     "description": "Construction of Concrete Box Culvert at Tungipara , Parbatidanga, Baidyapur, Habibpur (Mouza Chakli, JL No 52, Plot No 1025, GP Baidyapur, Block Habibpur)",
-     "sector": "infrastructure",
-     "recommended_amount": 2000002.0,
-     "sanctioned_amount": 2000002.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "13-Jan-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2025-2026/56"
-    },
-    {
-     "work_id": "251370",
-     "description": "Construction of CC Road  from  Primary School towards Mayna NH, Booth No 1 , JL No 119 , Mouza Moyna, GP Alal, Block Gazole",
-     "sector": "education",
-     "recommended_amount": 500000.0,
-     "sanctioned_amount": 500000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "06-Dec-2025",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2025-2026/55"
-    },
-    {
-     "work_id": "251369",
-     "description": "Construction of Box Culvert at Durgapur Near Santi Roy House, Mouja Bade Mayna, JL No 117, GP Alal, Block Gazole",
-     "sector": "infrastructure",
-     "recommended_amount": 1599984.0,
-     "sanctioned_amount": 1599984.0,
-     "expended_amount": null,
-     "status": "sanctioned",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "06-Dec-2025",
-     "sanction_date": "07-Mar-2026",
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2025-2026/55"
-    },
-    {
-     "work_id": "292461",
-     "description": "Construction of boundary walls (Bharatsevashram Sangha Math Near Bharatsevashram at Bazarpara, JL No 110, Mouza Sahapur, GP Sahapur, Block Old Malda)",
-     "sector": "community",
-     "recommended_amount": 2000000.0,
-     "sanctioned_amount": 2000000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    },
-    {
-     "work_id": "292171",
-     "description": "Installation of 2 Solar light at Sahapur GP of Old Malda Block, 1 Near Charkadirpur Busstand, Booth No 190, JL No 119, Mouza Jotgobindo, 2 Near Kalimandir and Neshpati Chowdhury House, Booth No 191, JL No 119, Mouza Jotgobindo",
-     "sector": "infrastructure",
-     "recommended_amount": 64000.0,
-     "sanctioned_amount": 64000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    },
-    {
-     "work_id": "292170",
-     "description": "Installation of 1 Solarlight at Sahapur GP of Old Malda Block, 1 Near Charkadirpur Busstand, Booth No 189, JL No 111, Mouza Kadirpur",
-     "sector": "infrastructure",
-     "recommended_amount": 32000.0,
-     "sanctioned_amount": 32000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    },
-    {
-     "work_id": "292167",
-     "description": "Installation of 8 solar light at Sahapur GP of Old Malda Block ,JL No 110, Mouza Sahapur 1 Near Durga Mandap and Abhiram Mandal House, Booth No 180, 2 Neqar Sukumar Mandal House , Booth No 181, 3 Near Bazarpara Durga Mandap, Booth No 182, 4 Near Biswajit Das House and Bipul Chowdhury House, Booth No 184, 5 Naren Haren Pramanik Bhutu House, Booth No 185, 6 Near Sanjay Saha House, Booth No 186, 7 Near Bikash Sutradhar House, Booth No 187, 8 Near Sukumar Dey House and Dipak Das House, Booth No 188",
-     "sector": "infrastructure",
-     "recommended_amount": 256000.0,
-     "sanctioned_amount": 256000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    },
-    {
-     "work_id": "292154",
-     "description": "Installation of 1 solar light at Sahapur GP of Old Malda Block 1 Infront of Radha Gobindo Mandir, Booth No 179, JL No 112, Mouza Santipur",
-     "sector": "infrastructure",
-     "recommended_amount": 32000.0,
-     "sanctioned_amount": 32000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    },
-    {
-     "work_id": "292149",
-     "description": "Installation of 2 Solar light at Sahapur GP of Old Malda Block 1 Near Shib Mandir and Baidyanath Das House, Booth No 178, JL No 112, Mouza Nityanandapur, 2  Near Durgesh Das House, Booth No 183, JL No 112, Mouza Nityanandapur",
-     "sector": "infrastructure",
-     "recommended_amount": 64000.0,
-     "sanctioned_amount": 64000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    },
-    {
-     "work_id": "292148",
-     "description": "Installation of 2 solar light at Sahapur GP of Old Malda Block 1 Near Mithun Ghosh House, Booth No 176, JL No 109, Mouza Nageshwarpur 21 Near Uttam Das House, Booth No 177, JL No 109, Mouza Nageshwarpur",
-     "sector": "infrastructure",
-     "recommended_amount": 64000.0,
-     "sanctioned_amount": 64000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    },
-    {
-     "work_id": "292147",
-     "description": "Installation of 1 solar light at Sahapur Gp of Old Malda Block 1 Near Kshitish Baniya House, Booth No 171 ,JL No 114, Mouza Dakshin Bhatra",
-     "sector": "infrastructure",
-     "recommended_amount": 32000.0,
-     "sanctioned_amount": 32000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    },
-    {
-     "work_id": "292146",
-     "description": "Installation of 4 Solar light at Sahapur GP of Old Malda Block ,JL No 108, Mouza Chhatianmore  1 Near Molin Mandal House , Booth No 172, 2 Near Janardan Ghosh House, Booth No 173, 3 Near Sidam Das House , Booth No 174, 4 Near Uttam Karmakar House, Booth No 175",
-     "sector": "infrastructure",
-     "recommended_amount": 128000.0,
-     "sanctioned_amount": 128000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    },
-    {
-     "work_id": "292145",
-     "description": "Installation of 1 Solar light at Sahapur GP of Old Malda Block 1 Near Ranjit Haldar House, Booth No 170, JL No 107, Mouza Rasiladha",
-     "sector": "infrastructure",
-     "recommended_amount": 32000.0,
-     "sanctioned_amount": 32000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    },
-    {
-     "work_id": "292144",
-     "description": "Installation of 2 Solar light at Sahapur GP of Old Malda Block 1 Kali Mandir near Ukil Mandal House Booth No 166 , JL No 87, Mouza Morgram 2 Near Sourav Roy Bhodol House Booth No 167 , JL No 87, Mouza Morgram",
-     "sector": "infrastructure",
-     "recommended_amount": 64000.0,
-     "sanctioned_amount": 64000.0,
-     "expended_amount": null,
-     "status": "recommended",
-     "district": "Maldaha Uttar",
-     "completion_date": null,
-     "source": {
-      "url": "https://mplads.mospi.gov.in/digigov/dashboard.html",
-      "source_name": "esakshi",
-      "grade": "A",
-      "fetched_at": "2026-09-01T23:04:06.959073Z",
-      "notes": "Official eSAKSHI REST API - work-level reports"
-     },
-     "recommendation_date": "02-Aug-2026",
-     "sanction_date": null,
-     "executing_agency": "Malda(DISTRICT MAGISTRATE MALDA_IDA)",
-     "average_rating": null,
-     "letter_no": "LN/MP853/2026-2027/59"
-    }
-   ],
-   "works_count": 38,
-   "esakshi_coverage_start": "2023-04-01",
-   "period_data": [],
-   "cumulative_entitled": null,
-   "cumulative_released": null,
-   "cumulative_expended": null,
-   "includes_covid_suspension": false,
-   "data_period_note": "",
-   "utilization_rate": 4.081632653061225
-  },
-  "parliament_activity": {
-   "attendance_percentage": 100.0,
-   "questions_asked": 59,
-   "debates_participated": 12,
-   "private_bills_introduced": 0,
-   "is_minister": false,
-   "source": "prs",
-   "confidence": 0.8,
-   "sources": [
-    {
-     "url": "https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv",
-     "source_name": "prs_github_csv",
-     "grade": "C",
-     "fetched_at": "2026-05-21T14:34:20.303440Z",
-     "notes": "PRS India GitHub CSV - 18th Lok Sabha"
-    }
-   ],
-   "focus_topics": [],
-   "notable_questions": [],
-   "voting_record": []
-  },
-  "news_allegations": [],
-  "raw_notes": "",
-  "sources_consulted": [
-   "prs",
-   "social_media",
-   "news",
-   "myneta",
-   "mplads"
   ],
-  "collected_at": "2026-05-21T14:35:21.977873Z",
-  "evidence_summary": {
-   "parliament": "C",
-   "accessibility": "D",
-   "assets": "B",
-   "criminal": "B",
-   "mplads": "A"
-  },
-  "cag_findings": [
-   {
-    "report_title": "Performance Audit of MPLADS",
-    "report_number": "31 of 2010",
-    "year": 2010,
-    "finding": "Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states",
-    "category": "idle_funds",
-    "state": "national",
-    "severity": "high",
-    "source": {
-     "url": "https://cag.gov.in/en/audit-report/details/2341",
-     "source_name": "cag",
-     "grade": "A",
-     "fetched_at": "2026-08-23T16:44:24.759742Z",
-     "notes": "CAG Report No. 31 of 2010"
-    }
-   },
-   {
-    "report_title": "Performance Audit of MPLADS",
-    "report_number": "31 of 2010",
-    "year": 2010,
-    "finding": "Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents",
-    "category": "bogus_ucs",
-    "state": "national",
-    "severity": "high",
-    "source": {
-     "url": "https://cag.gov.in/en/audit-report/details/2341",
-     "source_name": "cag",
-     "grade": "A",
-     "fetched_at": "2026-08-23T16:44:24.759754Z",
-     "notes": "CAG Report No. 31 of 2010"
-    }
-   },
-   {
-    "report_title": "Performance Audit of MPLADS",
-    "report_number": "31 of 2010",
-    "year": 2010,
-    "finding": "Incomplete works: 18% of sampled works were abandoned or incomplete",
-    "category": "incomplete_works",
-    "state": "national",
-    "severity": "medium",
-    "source": {
-     "url": "https://cag.gov.in/en/audit-report/details/2341",
-     "source_name": "cag",
-     "grade": "A",
-     "fetched_at": "2026-08-23T16:44:24.759761Z",
-     "notes": "CAG Report No. 31 of 2010"
-    }
-   },
-   {
-    "report_title": "Follow-up Audit of MPLADS",
-    "report_number": "9 of 2013",
-    "year": 2013,
-    "finding": "Persistent idle funds: District authorities retained Rs 2,100 crore in unspent balances",
-    "category": "idle_funds",
-    "state": "national",
-    "severity": "high",
-    "source": {
-     "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
-     "source_name": "cag",
-     "grade": "A",
-     "fetched_at": "2026-08-23T16:44:24.759770Z",
-     "notes": "CAG Report No. 9 of 2013"
-    }
-   },
-   {
-    "report_title": "Performance Audit of MPLADS (2012-17)",
-    "report_number": "CAG Performance Report 2017",
-    "year": 2017,
-    "finding": "Only 53% of recommended works completed within the audit period",
-    "category": "incomplete_works",
-    "state": "national",
-    "severity": "medium",
-    "source": {
-     "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
-     "source_name": "cag",
-     "grade": "A",
-     "fetched_at": "2026-08-23T16:44:24.759777Z",
-     "notes": "CAG Report No. CAG Performance Report 2017"
-    }
-   },
-   {
-    "report_title": "Performance Audit of MPLADS (2012-17)",
-    "report_number": "CAG Performance Report 2017",
-    "year": 2017,
-    "finding": "Rs 293 crore expended on inadmissible works not covered under MPLADS guidelines",
-    "category": "irregular_works",
-    "state": "national",
-    "severity": "high",
-    "source": {
-     "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
-     "source_name": "cag",
-     "grade": "A",
-     "fetched_at": "2026-08-23T16:44:24.759782Z",
-     "notes": "CAG Report No. CAG Performance Report 2017"
-    }
-   },
-   {
-    "report_title": "Performance Audit of MPLADS (2012-17)",
-    "report_number": "CAG Performance Report 2017",
-    "year": 2017,
-    "finding": "Asset registers not maintained by district authorities in 40% of sampled districts",
-    "category": "poor_records",
-    "state": "national",
-    "severity": "medium",
-    "source": {
-     "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
-     "source_name": "cag",
-     "grade": "A",
-     "fetched_at": "2026-08-23T16:44:24.759787Z",
-     "notes": "CAG Report No. CAG Performance Report 2017"
-    }
-   }
-  ],
-  "compensation": {
-   "salary_per_month": 100000.0,
-   "constituency_allowance_per_month": 70000.0,
-   "office_expense_allowance_per_month": 60000.0,
-   "sumptuary_allowance_per_month": 15000.0,
-   "total_monthly": 245000.0,
-   "total_annual": 2940000.0,
-   "effective_from": "2018-04-01",
-   "source_notification": "Members of Parliament (Amendment) Act, 2018; The Salary, Allowances and Pension of Members of Parliament Act, 1954 (as amended). Gazette of India, Extraordinary, Part II, Section 1.",
-   "notes": "In addition to cash compensation, MPs receive non-cash perks including: free AC First Class rail travel, 34 annual air journeys, furnished office space, medical facilities at government hospitals, and housing or HRA (Rs 2,00,000/month if no government accommodation). Post-retirement pension: Rs 29,000/month (base) + Rs 1,500 per additional year served."
-  },
-  "sagy": [],
-  "committees": {
-   "memberships": [],
-   "total_committees": 0,
-   "leadership_roles": 0,
-   "confidence": 0.0,
-   "sources": []
-  },
-  "social_media": {
-   "profiles": [],
-   "total_platforms": 0,
-   "total_followers": 0,
-   "confidence": 0.2,
-   "sources": []
-  },
-  "news_sentiment": {
-   "total_articles": 10,
-   "positive": 1,
-   "negative": 1,
-   "neutral": 8,
-   "top_headlines": [
-    {
-     "headline": "BJP MP Khagen Murmu’s first wife joins Trinamool Congress - Social News XYZ",
-     "source": "Social News XYZ",
-     "severity": "low",
-     "verified": false,
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEhiTG5mUlZtaVBJUURDZUlKMTJuR2RaaGQ5VWxKcGxpTWhRX2d6MnVISVppeDRxd2RNVWViRENKVTNfZUxoTzltbWRFN1ZMZ0NLNjJVMnlmYWQ1aHBHZmprVW9JNjNabnlValZZWmN6Ri1DT09qUDN5TklyaVV2VVZCREplX3ViV2hDbkJuWFg3b0ltb1JKakVzNNIBmwFBVV95cUxPbEhiTG5mUlZtaVBJUURDZUlKMTJuR2RaaGQ5VWxKcGxpTWhRX2d6MnVISVppeDRxd2RNVWViRENKVTNfZUxoTzltbWRFN1ZMZ0NLNjJVMnlmYWQ1aHBHZmprVW9JNjNabnlValZZWmN6Ri1DT09qUDN5TklyaVV2VVZCREplX3ViV2hDbkJuWFg3b0ltb1JKakVzNA?oc=5",
-     "sentiment": "neutral"
-    },
-    {
-     "headline": "BJP MP attacked during relief work in flood-hit north Bengal, party blames Trinamool - The Hindu",
-     "source": "The Hindu",
-     "severity": "low",
-     "verified": false,
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbktyazU1Wm9PdHBaRlpJN1cxbnZsb0dtTHFpRFNrVXVkN29TSDBKWFpLS0RVc0drQXpIQ09lZnZVdkl2aFdoRVp2U2Fqd1lQcDNhUHdlM1JGVGJyY3FIZUlnLURTbnNFd0Z6VTBaeVJ3cFJKMXdxU09VZ0d4QnRXSEpjZmFwRmJFWm9Fb1Y4QUFrZndDZnVpVmdBY090eWsxV196SXo0dGxFRk5BUzI5cWlPd1VGQ2laaWlPYXBvbTNaSU03aVEtVnFNeVNZSUpBUmEzYUZ1ZTh3VHJMb0plY2ZnSHZoM0N4VWhYUmZLbXN1MVZsa0NyZmNEWdIBggJBVV95cUxObDFJRWNmaF9JQkhTZno1ejZhckFROGJvUmFGcnl1OFFfdFpuS19hREJlWk9KTEFFVE5yRVZHN3RDRnNQUkpVaEVpN0dCUDVrQmRMTFFIMjZTNEt1bHh5WXprUll0QlcwVWNJbnRPNzRWMHEwVTJvekFiaUlxU3V5dEdPUGJMS19OdFkzUVBHUURfYkFhcWxERjBtdmExVGYza2lwMVFYT3BWajc3SnVOem9mZUJpX3FqZlBjWGhiQVhkUUptaWgxVlRsMVlmZzNsMFVtTTVqZFZsblVJQm95VHFZbHUtcG1VaGJybTB0dFBlMzlVSjZrbWxtUGozbkVjNGc?oc=5",
-     "sentiment": "positive"
-    },
-    {
-     "headline": "BJP MP Khagen Murmu Hit On Head, Left Bleeding After Stones Thrown In Bengal - NDTV",
-     "source": "NDTV",
-     "severity": "low",
-     "verified": false,
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTDNKQlpTZnJuVXpvbEREdnRzaGt4M00xTmMwUy11eDdScHJBTGFIcmxCWFNTcERyVkdvamVCcHFVSm5TMTN5STJocnJzeUY3V3FYR0Q2ZTRHcTl5Ql9GOGF0RVRXRVVnb01yeDh2azg0OVdiVTlJdGFuOHh4YzRSTl9DdzdmRC0zNFVIWmtaWkk4bVN2NnpZbnBDZ19GUmk1UFFET2F5V29hU0dvd2V6VHJVZFlCVXFYbVRxM08xYkl2bzJi0gHMAUFVX3lxTE5yVEF1ajhyOXFtSXBlSWtiNWdWWTg2amFYYzRkVFM0VnVYUkVuWjZHZFQ5NXBibnU1SW5VVGY2b1VBcUdsemp4bUlQOWViSjBGazRHU0JSajlkTlM2bVVlQTdEdHA0cTVWQmM5OUpIeTFzb0tnSTdPSktLMEtkQWZMeDlvOWlSeExrY0tmOWpPSlZ4dFNpWktPbjdmenhJeUxjbnU4dm9OR2QxNGFfc3pmUGlWZ1JKT203RVR0STVZamcxanZlbjU5M0NDTA?oc=5",
-     "sentiment": "neutral"
-    },
-    {
-     "headline": "Khagen Murmu, two-time BJP MP, sustains serious injuries after party delegation attacked in Jalpaiguri - India TV News",
-     "source": "India TV News",
-     "severity": "low",
-     "verified": false,
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDZrcEU5OWlNdThHTGx6MHlMOUgyU2dNTnRvNE9ZZEhqRWw1dTV1Yk1KajBFWGNnbFoxSkFIQWlZZFp5R1hVa2p6VGhIQ3lGVXM3MjNXaWxjVlJqSk42Y1FnMG9DZk8ydXpTaHBUa25VQmxES0o5OUtMV0dDWl80cWdzdGdXMkJmWmsxRUZ6eFNNUXg4d2ltNjBwQkRteW9QNG1TT2N0aUsyVE4yNHUyZFpqRHRfVWJZVm1PM0RXTzV4ajRIV2ZLUWRtaWh3dGMwRDVSbVhZVlhmMDBxSVNKUkdHUHBlOWRHRFFF0gHwAUFVX3lxTE9paS0tdllzZ3ZmejNvMk5qOVVWSklWNzl0djUyUXFFQUgxZXJRdmJnMkpSSDVfVVJUYzRsWjNsdVcwTUF1VGJNOHViVDEwNWlFVG4tSEZtcnZxMW5uSFdhNzNKZnlQVm5ueHFaRGRhUW5KbjhCQ3RnYWxmOWVuOVNWNlFKZk83TS1RODRrUjZBeFNmM0VyMUo3eDJWbFd3eDE1QXJ2SmZqci1PUVJRQ0ZyUGU5Z3NfR1N4cGgwTFNIbXB1aFlUOGNKbjVMVXZJVWF0bW9aQVU0VWJEUE5FaGF5M0xaYjYtYWI1U1hiZUdjMA?oc=5",
-     "sentiment": "neutral"
-    },
-    {
-     "headline": "Mamata Banerjee meets injured BJP MP Khagen Murmu after assault in north Bengal - India Today",
-     "source": "India Today",
-     "severity": "low",
-     "verified": false,
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXJrU0lPSlRRRVpaM1pMY01uelZJay1xR0VHamhGQlhxV1lwbm45MS1DRHhQbkVTdzB2YmxZdG9IcXJEeFV0OVRSM2RKc09ESk80UVdWcFl4Q2tGSGlWMnV0Y3UxUXNWOXA0MGpNY1JOSVhOWjZrV2w4V1gxSnRyb3BjbmdIM2dvZ18yUVg1UDF1UU5pc05WOUdISkQ5TnBhc3ZxR0JSbmdBbk1Hc2JPMFdWdTlGX2VqcDc0ckJ4Z3BwcG9tcVdfWlRwc3VDRE9oYlHSAdcBQVVfeXFMTTdNZ2NmWjFta0lveExvWVE0VTZ2YU1LN1FUdjZEY0lTSlZBS2NnRllSVlc5eVN0cTRFdjdYOWNyVlMtckR4cXI5NzZHcTZGR2E1MzFtZEZISTUxMlN5dVVrN2NXVzJ2aEdxaVZsVGNaS2F2MjhXTm1xSlVuWHVNdVZFaUVXZV9lOU94cHBzWUVCTXlrWmJETHViYzRzckt6TGluZjJQSERreWR2UW9TVmdrbW9tMWZQaGpkSldzTGhLM3JldG5pb2FoTnFrZGQyVllodTI5S0E?oc=5",
-     "sentiment": "neutral"
-    }
-   ],
-   "sentiment_summary": "Mixed/neutral coverage (10 articles)",
-   "confidence": 0.5
-  },
-  "legislative": {
-   "bills_introduced": 0,
-   "bills_passed": 0,
-   "private_member_bills": 0,
-   "zero_hour_mentions": 0,
-   "special_mentions": 0,
-   "confidence": 0.0,
-   "sources": []
-  },
-  "constituency_context": {
-   "population": null,
-   "literacy_rate": null,
-   "urban_percentage": null,
-   "district": ""
-  },
-  "voting_analysis": {
-   "total_votes": 0,
-   "votes_with_party": 0,
-   "votes_against_party": 0,
-   "abstentions": 0,
-   "absences": 0,
-   "party_loyalty_pct": null,
-   "cross_party_votes": [],
-   "key_bills_missed": [],
-   "confidence": 0.0
-  },
-  "question_quality": {
-   "total_questions": 0,
-   "starred_questions": 0,
-   "unstarred_questions": 0,
-   "short_notice_questions": 0,
-   "unique_topics": 0,
-   "constituency_relevant": 0,
-   "follow_up_rate": 0.0,
-   "quality_score": 0.0,
-   "confidence": 0.0
-  },
-  "conflict_of_interest": {
-   "mp_businesses": [],
-   "committee_sectors": [],
-   "question_sectors": [],
-   "overlaps": [],
-   "severity": "none",
-   "analysis_notes": "",
-   "confidence": 0.0
-  },
-  "attendance_pattern": {
-   "overall_pct": null,
-   "session_breakdown": {},
-   "consecutive_absences": 0,
-   "attended_key_debates": true,
-   "zero_hour_presence": null,
-   "pattern_label": "",
-   "confidence": 0.0
-  },
-  "mgnrega": {
-   "employment_days_generated": null,
-   "total_expenditure": null,
-   "works_completed": null,
-   "works_in_progress": null,
-   "avg_wage_per_day": null,
-   "financial_year": "",
-   "confidence": 0.0,
-   "sources": []
-  },
-  "pm_kisan": {
-   "total_beneficiaries": null,
-   "amount_disbursed": null,
-   "installment_number": null,
-   "financial_year": "",
-   "confidence": 0.0,
-   "sources": []
-  }
- },
- "overall_confidence": 0.5,
- "flags": [
-  {
-   "field": "mplads",
-   "issue": "Extremely low utilization rate — verify data",
-   "severity": "warning",
-   "suggestion": ""
-  },
-  {
-   "field": "committees",
-   "issue": "No committee data found — Sansad profile may be unavailable",
-   "severity": "info",
-   "suggestion": ""
-  },
-  {
-   "field": "legislative",
-   "issue": "Low confidence in legislative effectiveness data",
-   "severity": "info",
-   "suggestion": ""
-  },
-  {
-   "field": "mplads",
-   "issue": "CAG audit context for West Bengal: 7 relevant findings",
-   "severity": "info",
-   "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
-  }
- ],
- "cross_reference_notes": "Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 13,590,846. MPLADS utilization: 4.1%. Parliament attendance: 100.0%. Questions asked: 59. Debates participated: 12. 1 warning(s) noted.",
- "validated_at": "2026-08-23T16:44:24.760709Z"
+  "cross_reference_notes": "Has 7 criminal case(s) (0 serious), 7 pending, 0 conviction(s). Declared assets: Rs 13,590,846. MPLADS utilization: 4.1%. Parliament attendance: 100.0%. Questions asked: 59. Debates participated: 12. 1 warning(s) noted.",
+  "validated_at": "2026-09-02T01:21:42.078608Z"
 }

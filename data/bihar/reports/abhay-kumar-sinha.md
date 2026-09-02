@@ -6,7 +6,7 @@
 **Age:** 53
 **Education:** 12th Pass
 **Profession:** Pension (EX MLA)
-**Report Date:** 2026-08-23
+**Report Date:** 2026-09-02
 **Data Confidence:** Medium (50%) | **Evidence Grade:** Official (B)
 
 ---
@@ -46,7 +46,7 @@
 - **Net Worth:** Rs 5.99 Crore
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 61% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 60% of Lok Sabha MPs
 
 ---
 
@@ -139,7 +139,7 @@ Has 16 criminal case(s) (0 serious), 16 pending, 0 conviction(s). Declared asset
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 23/08/2026
+Date: 01/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,

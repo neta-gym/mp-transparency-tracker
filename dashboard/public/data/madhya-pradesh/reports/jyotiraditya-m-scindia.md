@@ -5,7 +5,7 @@
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Age:** 53
 **Education:** Post Graduate
-**Report Date:** 2026-08-23
+**Report Date:** 2026-09-02
 **Data Confidence:** Low (42%) | **Evidence Grade:** Official (B)
 
 ---
@@ -139,7 +139,7 @@ No criminal cases declared. Declared assets: Rs 4,247,494,078. MPLADS utilizatio
 RIGHT TO INFORMATION APPLICATION
 Under Section 6(1) of the Right to Information Act, 2005
 
-Date: 23/08/2026
+Date: 01/09/2026
 
 To,
 The Public Information Officer (PIO) / District Magistrate,
