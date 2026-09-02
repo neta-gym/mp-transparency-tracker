@@ -75,7 +75,7 @@ Varkale Police station (Sections: 143, 147, 149, 283) [pending]
 - **Net Worth:** Rs 14.41 Crore
 - **Previous Total Assets:** Rs 14409861214.00 Crore
 - **Asset Growth:** -100.0%
-- **Wealth Percentile:** Wealthier than 67% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 70% of Lok Sabha MPs
 
 ---
 

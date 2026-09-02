@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 40.1 / 100
+## Composite Transparency Score: 51.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 21.7 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 45.0 | 15% |
+| Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -94,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -105,11 +104,11 @@
 
 ## Qualitative Assessment
 
-Virendra Kumar has a below-average transparency score of 40.1/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Virendra Kumar shows moderate transparency with a score of 51.1/100. No criminal cases declared. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 28,837,006. MPLADS utilization: 27.1%. Low confidence data: Criminal record, Parliament activity. 2 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 28,837,006. MPLADS utilization: 27.1%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 

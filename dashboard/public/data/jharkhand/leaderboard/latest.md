@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Jharkhand
 
-*Generated: 2026-09-02 18:55 UTC | Methodology v3.1 | 20 MPs*
+*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 20 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -20,10 +20,10 @@
 | 14 | LS | Vijay Kumar Hansdak | Rajmahal | Jharkhand Mukti Morcha | 53.2 | 60% | Clean record, Low fund utilization |
 | 15 | LS | Joba Majhi | Singhbhum | Jharkhand Mukti Morcha | 53.1 | 51% | Clean record, Low fund utilization |
 | 16 | LS | Annpurna Devi | Kodarma | Bharatiya Janata Party | 50.8 | 58% | Low fund utilization |
-| 17 | LS | Dulu Mahato | Dhanbad | Bharatiya Janata Party | 50.2 | 53% | Significant criminal cases, Low fund utilization, High attendance |
-| 18 | LS | Kali Charan Singh | Chatra | Bharatiya Janata Party | 50.0 | 52% | Low fund utilization, High attendance |
-| 19 | LS | Nishikant Dubey | Godda | Bharatiya Janata Party | 44.2 | 52% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
-| 20 | LS | Nalin Soren | Dumka | Jharkhand Mukti Morcha | 42.2 | 52% | Low attendance |
+| 17 | LS | Kali Charan Singh | Chatra | Bharatiya Janata Party | 50.0 | 52% | Low fund utilization, High attendance |
+| 18 | LS | Nishikant Dubey | Godda | Bharatiya Janata Party | 44.2 | 52% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
+| 19 | LS | Nalin Soren | Dumka | Jharkhand Mukti Morcha | 42.2 | 52% | Low attendance |
+| 20 | LS | Dulu Mahato | Dhanbad | Bharatiya Janata Party | 41.2 | 61% | Significant criminal cases, Low fund utilization, High attendance |
 
 ### Score Breakdown
 
@@ -45,7 +45,7 @@
 | 14 | Vijay Kumar Hansdak | LS | 11 | 55 | 100 | 70 | 40 | 40 | 45 | 40 |
 | 15 | Joba Majhi | LS | 25 | 60 | 100 | 55 | 40 | 40 | 15 | 40 |
 | 16 | Annpurna Devi | LS | 16 | 85 | 60 | 50 | 50 | 40 | 85 | 40 |
-| 17 | Dulu Mahato | LS | 22 | 40 | 45 | 90 | 70 | 40 | 85 | 40 |
-| 18 | Kali Charan Singh | LS | 16 | 50 | 80 | 90 | 30 | 40 | 15 | 40 |
-| 19 | Nishikant Dubey | LS | 1 | 55 | 10 | 100 | 90 | 40 | 15 | 70 |
-| 20 | Nalin Soren | LS | 41 | 60 | 60 | 15 | 40 | 40 | 15 | 40 |
+| 17 | Kali Charan Singh | LS | 16 | 50 | 80 | 90 | 30 | 40 | 15 | 40 |
+| 18 | Nishikant Dubey | LS | 1 | 55 | 10 | 100 | 90 | 40 | 15 | 70 |
+| 19 | Nalin Soren | LS | 41 | 60 | 60 | 15 | 40 | 40 | 15 | 40 |
+| 20 | Dulu Mahato | LS | 22 | 40 | 0 | 90 | 70 | 40 | 85 | 40 |

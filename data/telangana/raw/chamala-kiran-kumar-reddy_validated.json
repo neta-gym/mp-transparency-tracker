@@ -35,15 +35,23 @@
       "photo_url": "/mp-photos/5755.jpg"
     },
     "criminal_record": {
-      "total_cases": 0,
+      "total_cases": 3,
       "serious_cases": 0,
       "convictions": 0,
-      "pending_cases": 0,
+      "pending_cases": 3,
       "disposed_cases": 0,
       "cases": [],
       "source": "myneta",
-      "confidence": 0.0,
-      "sources": []
+      "confidence": 0.8,
+      "sources": [
+        {
+          "url": "https://www.myneta.info",
+          "source_name": "myneta",
+          "grade": "B",
+          "fetched_at": "2026-09-02T19:02:10.768435Z",
+          "notes": "restore note: 2026-09-02 Actions rescore received a non-data MyNeta page from runner IPs and this MP is outside the LS2024 case backfill; retained last-known-good criminal record."
+        }
+      ]
     },
     "assets": {
       "movable_assets": 0.0,
@@ -208,7 +216,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:55:41.849974Z",
+          "fetched_at": "2026-09-02T19:02:10.769344Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -224,7 +232,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:55:41.849983Z",
+          "fetched_at": "2026-09-02T19:02:10.769352Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -240,7 +248,7 @@
           "url": "https://cag.gov.in/en/audit-report/details/2341",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:55:41.849988Z",
+          "fetched_at": "2026-09-02T19:02:10.769357Z",
           "notes": "CAG Report No. 31 of 2010"
         }
       },
@@ -256,7 +264,7 @@
           "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:55:41.849993Z",
+          "fetched_at": "2026-09-02T19:02:10.769362Z",
           "notes": "CAG Report No. 9 of 2013"
         }
       },
@@ -272,7 +280,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:55:41.849999Z",
+          "fetched_at": "2026-09-02T19:02:10.769368Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -288,7 +296,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:55:41.850004Z",
+          "fetched_at": "2026-09-02T19:02:10.769372Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       },
@@ -304,7 +312,7 @@
           "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
           "source_name": "cag",
           "grade": "A",
-          "fetched_at": "2026-09-02T18:55:41.850008Z",
+          "fetched_at": "2026-09-02T19:02:10.769376Z",
           "notes": "CAG Report No. CAG Performance Report 2017"
         }
       }
@@ -492,14 +500,8 @@
       "sources": []
     }
   },
-  "overall_confidence": 0.46,
+  "overall_confidence": 0.57,
   "flags": [
-    {
-      "field": "criminal_record",
-      "issue": "Low confidence in criminal data — source may be unavailable",
-      "severity": "warning",
-      "suggestion": ""
-    },
     {
       "field": "committees",
       "issue": "No committee data found — Sansad profile may be unavailable",
@@ -525,6 +527,6 @@
       "suggestion": "[CAG 31 of 2010] Idle funds: Rs 1,558 crore lying unspent in district authorities' accounts across states; [CAG 31 of 2010] Bogus utilization certificates: 34% of sampled UCs lacked proper supporting documents; [CAG 31 of 2010] Incomplete works: 18% of sampled works were abandoned or incomplete"
     }
   ],
-  "cross_reference_notes": "No criminal cases declared. Declared assets: Rs 287,211,468. MPLADS utilization: 39.3%. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6. Low confidence data: Criminal record. 1 warning(s) noted.",
-  "validated_at": "2026-09-02T18:55:41.850791Z"
+  "cross_reference_notes": "Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 287,211,468. MPLADS utilization: 39.3%. Parliament attendance: 100.0%. Questions asked: 36. Debates participated: 6.",
+  "validated_at": "2026-09-02T19:02:10.770063Z"
 }

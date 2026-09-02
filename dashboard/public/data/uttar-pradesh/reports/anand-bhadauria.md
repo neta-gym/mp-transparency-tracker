@@ -4,17 +4,17 @@
 **Party:** Samajwadi Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 55.4 / 100
+## Composite Transparency Score: 58.4 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 34.3 | 25% |
 | Asset Growth | 60.0 | 15% |
-| Criminal Record | 45.0 | 15% |
+| Criminal Record | 60.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 70.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 4
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 4
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -106,7 +106,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -116,11 +115,11 @@
 
 ## Qualitative Assessment
 
-Anand Bhadauria shows moderate transparency with a score of 55.4/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Anand Bhadauria shows moderate transparency with a score of 58.4/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 99,723,807. MPLADS utilization: 42.9%. Parliament attendance: 95.0%. Questions asked: 43. Debates participated: 13. Low confidence data: Criminal record. 1 warning(s) noted.
+Has 4 criminal case(s) (0 serious), 4 pending, 0 conviction(s). Declared assets: Rs 99,723,807. MPLADS utilization: 42.9%. Parliament attendance: 95.0%. Questions asked: 43. Debates participated: 13.
 
 ---
 

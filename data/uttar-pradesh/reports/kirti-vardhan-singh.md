@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (31%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Low (43%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 44.6 / 100
+## Composite Transparency Score: 49.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 36.6 | 25% |
 | Asset Growth | 60.0 | 15% |
-| Criminal Record | 45.0 | 15% |
+| Criminal Record | 70.0 | 15% |
 | Parliament Attendance | 50.0 | 10% |
 | Questions & Debates | 50.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 3
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 3
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -94,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [!] **parliament_activity**: Low confidence in parliament activity data
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -105,11 +104,11 @@
 
 ## Qualitative Assessment
 
-Kirti Vardhan Singh has a below-average transparency score of 44.6/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention.
+Kirti Vardhan Singh has a below-average transparency score of 49.6/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 370,796,430. MPLADS utilization: 45.8%. Low confidence data: Criminal record, Parliament activity. 2 warning(s) noted.
+Has 3 criminal case(s) (0 serious), 3 pending, 0 conviction(s). Declared assets: Rs 370,796,430. MPLADS utilization: 45.8%. Low confidence data: Parliament activity. 1 warning(s) noted.
 
 ---
 

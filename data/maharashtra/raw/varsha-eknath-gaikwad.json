@@ -17,15 +17,23 @@
     "photo_url": "/mp-photos/5754.jpg"
   },
   "criminal_record": {
-    "total_cases": 0,
+    "total_cases": 7,
     "serious_cases": 0,
     "convictions": 0,
-    "pending_cases": 0,
+    "pending_cases": 7,
     "disposed_cases": 0,
     "cases": [],
     "source": "myneta",
-    "confidence": 0.0,
-    "sources": []
+    "confidence": 0.8,
+    "sources": [
+      {
+        "url": "https://www.myneta.info",
+        "source_name": "myneta",
+        "grade": "B",
+        "fetched_at": "2026-09-02T19:02:08.809376Z",
+        "notes": "restore note: 2026-09-02 Actions rescore received a non-data MyNeta page from runner IPs and this MP is outside the LS2024 case backfill; retained last-known-good criminal record."
+      }
+    ]
   },
   "assets": {
     "movable_assets": 0.0,
@@ -190,7 +198,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:55:39.854944Z",
+        "fetched_at": "2026-09-02T19:02:08.810330Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -206,7 +214,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:55:39.854955Z",
+        "fetched_at": "2026-09-02T19:02:08.810340Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -222,7 +230,7 @@
         "url": "https://cag.gov.in/en/audit-report/details/2341",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:55:39.854960Z",
+        "fetched_at": "2026-09-02T19:02:08.810345Z",
         "notes": "CAG Report No. 31 of 2010"
       }
     },
@@ -238,7 +246,7 @@
         "url": "https://cag.gov.in/uploads/media/Follow-up-action-on-Audit-Report-20200902114923.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:55:39.854966Z",
+        "fetched_at": "2026-09-02T19:02:08.810351Z",
         "notes": "CAG Report No. 9 of 2013"
       }
     },
@@ -254,7 +262,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:55:39.854972Z",
+        "fetched_at": "2026-09-02T19:02:08.810357Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -270,7 +278,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:55:39.854977Z",
+        "fetched_at": "2026-09-02T19:02:08.810361Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     },
@@ -286,7 +294,7 @@
         "url": "https://www.mplads.gov.in/MPLADS/UploadedFiles/cag%20performance%20report.pdf",
         "source_name": "cag",
         "grade": "A",
-        "fetched_at": "2026-09-02T18:55:39.854982Z",
+        "fetched_at": "2026-09-02T19:02:08.810366Z",
         "notes": "CAG Report No. CAG Performance Report 2017"
       }
     }

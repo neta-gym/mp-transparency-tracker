@@ -4,17 +4,17 @@
 **Party:** Bharatiya Janata Party
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 43.8 / 100
+## Composite Transparency Score: 44.8 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 16.4 | 25% |
 | Asset Growth | 50.0 | 15% |
-| Criminal Record | 45.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 30.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 5
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 5
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -94,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -104,11 +103,11 @@
 
 ## Qualitative Assessment
 
-Atul Garg has a below-average transparency score of 43.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
+Atul Garg has a below-average transparency score of 44.8/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 207,682,224. MPLADS utilization: 20.5%. Parliament attendance: 95.0%. Questions asked: 2. Debates participated: 1. Low confidence data: Criminal record. 1 warning(s) noted.
+Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 207,682,224. MPLADS utilization: 20.5%. Parliament attendance: 95.0%. Questions asked: 2. Debates participated: 1.
 
 ---
 

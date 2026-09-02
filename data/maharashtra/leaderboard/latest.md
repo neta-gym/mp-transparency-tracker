@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Maharashtra
 
-*Generated: 2026-09-02 18:55 UTC | Methodology v3.1 | 67 MPs*
+*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 67 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -46,24 +46,24 @@
 | 40 | LS | Sanjay Dina Patil | Mumbai North East | Shiv Sena | 54.4 | 51% | Clean record, Low fund utilization, High attendance |
 | 41 | LS | Balwant Baswant Wankhade | Amravati | Indian National Congress | 53.9 | 52% | Low fund utilization, High attendance |
 | 42 | RS | Parth Ajit Pawar | Rajya Sabha (Maharashtra) | Nationalist Congress Party | 53.8 | 50% | Clean record, Low fund utilization |
-| 43 | LS | Varsha Eknath Gaikwad | Mumbai North Central | Indian National Congress | 53.8 | 53% | Significant criminal cases, Low fund utilization, High attendance |
-| 44 | RS | Imran Pratapgarhi | Rajya Sabha (Maharashtra) | Indian National Congress | 53.5 | 50% | Significant criminal cases, Low fund utilization, High attendance |
+| 43 | RS | Imran Pratapgarhi | Rajya Sabha (Maharashtra) | Indian National Congress | 53.5 | 50% | Significant criminal cases, Low fund utilization, High attendance |
+| 44 | LS | Varsha Eknath Gaikwad | Mumbai North Central | Indian National Congress | 50.8 | 61% | Significant criminal cases, Low fund utilization, High attendance |
 | 45 | LS | Nilesh Dnyandev Lanke | Ahmednagar | Nationalist Congress Party - Sharadchandra Pawar | 50.2 | 52% | Low fund utilization, High attendance |
 | 46 | LS | Piyush Vedprakash Goyal | Mumbai North | Bharatiya Janata Party | 49.8 | 38% | Clean record, Low fund utilization |
 | 47 | LS | Chavan Ravindra Vasantrao | Nanded | Indian National Congress | 49.6 | 61% | Low fund utilization, High attendance |
 | 48 | LS | Shyamkumar Daulat Barve | Ramtek | Indian National Congress | 49.4 | 52% | Low fund utilization, High attendance |
 | 49 | RS | Maya Chintaman Ivnate | Rajya Sabha (Maharashtra) | Bharatiya Janata Party | 49.2 | 50% | Low fund utilization, High attendance |
 | 50 | LS | Raksha Nikhil Khadse | Raver | Bharatiya Janata Party | 48.9 | 38% | Clean record, Low fund utilization |
-| 51 | LS | Vishaldada Prakashbapu Patil | Sangli | Independent | 48.2 | 43% | Significant criminal cases, Low fund utilization, High attendance |
-| 52 | LS | Praniti Sushilkumar Shinde | Solapur | Indian National Congress | 47.9 | 61% | Low fund utilization, High attendance |
-| 53 | LS | Shahu Shahaji Chhatrapati | Kolhapur | Indian National Congress | 46.8 | 61% | Low fund utilization |
-| 54 | RS | Ashokrao Shankarrao Chavan | Rajya Sabha (Maharashtra) | Bharatiya Janata Party | 46.0 | 50% | Significant criminal cases, Low fund utilization |
-| 55 | RS | Anil Sukhdeorao Bonde | Rajya Sabha (Maharashtra) | Bharatiya Janata Party | 45.4 | 50% | Significant criminal cases, Low fund utilization, High attendance |
-| 56 | RS | Dhananjay Bhimrao Mahadik | Rajya Sabha (Maharashtra) | Bharatiya Janata Party | 45.0 | 50% | Significant criminal cases, Low fund utilization, High attendance |
-| 57 | LS | Prataprao Ganpatrao Jadhav | Buldhana | Shiv Sena | 44.4 | 39% | Low fund utilization |
-| 58 | LS | Murlidhar Mohol | Pune | Bharatiya Janata Party | 43.6 | 49% | Low fund utilization |
-| 59 | RS | Sanjay Raut | Rajya Sabha (Maharashtra) | Shiv Sena-Uddhav Balasaheb Thackeray | 41.6 | 50% | Significant criminal cases, Low fund utilization |
-| 60 | RS | Nitin Laxmanrao Jadhav Patil | Rajya Sabha (Maharashtra) | Nationalist Congress Party | 41.4 | 50% | Low fund utilization |
+| 51 | LS | Praniti Sushilkumar Shinde | Solapur | Indian National Congress | 47.9 | 61% | Low fund utilization, High attendance |
+| 52 | LS | Shahu Shahaji Chhatrapati | Kolhapur | Indian National Congress | 46.8 | 61% | Low fund utilization |
+| 53 | RS | Ashokrao Shankarrao Chavan | Rajya Sabha (Maharashtra) | Bharatiya Janata Party | 46.0 | 50% | Significant criminal cases, Low fund utilization |
+| 54 | RS | Anil Sukhdeorao Bonde | Rajya Sabha (Maharashtra) | Bharatiya Janata Party | 45.4 | 50% | Significant criminal cases, Low fund utilization, High attendance |
+| 55 | RS | Dhananjay Bhimrao Mahadik | Rajya Sabha (Maharashtra) | Bharatiya Janata Party | 45.0 | 50% | Significant criminal cases, Low fund utilization, High attendance |
+| 56 | LS | Prataprao Ganpatrao Jadhav | Buldhana | Shiv Sena | 44.4 | 39% | Low fund utilization |
+| 57 | LS | Murlidhar Mohol | Pune | Bharatiya Janata Party | 43.6 | 49% | Low fund utilization |
+| 58 | RS | Sanjay Raut | Rajya Sabha (Maharashtra) | Shiv Sena-Uddhav Balasaheb Thackeray | 41.6 | 50% | Significant criminal cases, Low fund utilization |
+| 59 | RS | Nitin Laxmanrao Jadhav Patil | Rajya Sabha (Maharashtra) | Nationalist Congress Party | 41.4 | 50% | Low fund utilization |
+| 60 | LS | Vishaldada Prakashbapu Patil | Sangli | Independent | 41.2 | 52% | Significant criminal cases, Low fund utilization, High attendance |
 | 61 | LS | Sanjay Haribhau Jadhav | Parbhani | Shiv Sena | 40.1 | 52% | Significant criminal cases, Low fund utilization |
 | 62 | LS | Bhumare Sandipanrao Asaram | Aurangabad | Shiv Sena | 39.3 | 52% | Significant criminal cases, Low fund utilization |
 | 63 | LS | Mohite Patil Dhairyasheel Rajsinh | Madha | Nationalist Congress Party - Sharadchandra Pawar | 38.7 | 61% | Significant criminal cases, Low fund utilization, High attendance |
@@ -118,24 +118,24 @@
 | 40 | Sanjay Dina Patil | LS | 1 | 50 | 100 | 80 | 80 | 40 | 15 | 40 |
 | 41 | Balwant Baswant Wankhade | LS | 26 | 55 | 80 | 85 | 50 | 40 | 15 | 40 |
 | 42 | Parth Ajit Pawar | RS | 35 | 50 | 100 | 77 | 10 | 40 | 15 | 40 |
-| 43 | Varsha Eknath Gaikwad | LS | 12 | 55 | 45 | 100 | 90 | 40 | 85 | 40 |
-| 44 | Imran Pratapgarhi | RS | 35 | 50 | 40 | 95 | 100 | 40 | 15 | 40 |
+| 43 | Imran Pratapgarhi | RS | 35 | 50 | 40 | 95 | 100 | 40 | 15 | 40 |
+| 44 | Varsha Eknath Gaikwad | LS | 12 | 55 | 30 | 100 | 90 | 40 | 85 | 40 |
 | 45 | Nilesh Dnyandev Lanke | LS | 8 | 40 | 80 | 85 | 70 | 40 | 15 | 40 |
 | 46 | Piyush Vedprakash Goyal | LS | 12 | 55 | 100 | 50 | 50 | 40 | 15 | 40 |
 | 47 | Chavan Ravindra Vasantrao | LS | 7 | 60 | 80 | 80 | 20 | 40 | 65 | 40 |
 | 48 | Shyamkumar Daulat Barve | LS | 1 | 50 | 70 | 100 | 60 | 40 | 15 | 40 |
 | 49 | Maya Chintaman Ivnate | RS | 35 | 50 | 60 | 100 | 10 | 40 | 15 | 40 |
 | 50 | Raksha Nikhil Khadse | LS | 3 | 60 | 100 | 50 | 50 | 40 | 15 | 40 |
-| 51 | Vishaldada Prakashbapu Patil | LS | 6 | 55 | 45 | 100 | 80 | 40 | 15 | 40 |
-| 52 | Praniti Sushilkumar Shinde | LS | 1 | 50 | 50 | 100 | 70 | 40 | 65 | 30 |
-| 53 | Shahu Shahaji Chhatrapati | LS | 12 | 50 | 90 | 45 | 20 | 40 | 85 | 40 |
-| 54 | Ashokrao Shankarrao Chavan | RS | 35 | 50 | 40 | 58 | 80 | 40 | 15 | 40 |
-| 55 | Anil Sukhdeorao Bonde | RS | 35 | 50 | 0 | 94 | 100 | 40 | 15 | 40 |
-| 56 | Dhananjay Bhimrao Mahadik | RS | 35 | 50 | 0 | 92 | 100 | 40 | 15 | 40 |
-| 57 | Prataprao Ganpatrao Jadhav | LS | 1 | 60 | 80 | 50 | 50 | 40 | 15 | 40 |
-| 58 | Murlidhar Mohol | LS | 6 | 50 | 60 | 50 | 50 | 40 | 85 | 40 |
-| 59 | Sanjay Raut | RS | 35 | 50 | 0 | 69 | 100 | 40 | 15 | 40 |
-| 60 | Nitin Laxmanrao Jadhav Patil | RS | 35 | 50 | 60 | 54 | 0 | 40 | 15 | 40 |
+| 51 | Praniti Sushilkumar Shinde | LS | 1 | 50 | 50 | 100 | 70 | 40 | 65 | 30 |
+| 52 | Shahu Shahaji Chhatrapati | LS | 12 | 50 | 90 | 45 | 20 | 40 | 85 | 40 |
+| 53 | Ashokrao Shankarrao Chavan | RS | 35 | 50 | 40 | 58 | 80 | 40 | 15 | 40 |
+| 54 | Anil Sukhdeorao Bonde | RS | 35 | 50 | 0 | 94 | 100 | 40 | 15 | 40 |
+| 55 | Dhananjay Bhimrao Mahadik | RS | 35 | 50 | 0 | 92 | 100 | 40 | 15 | 40 |
+| 56 | Prataprao Ganpatrao Jadhav | LS | 1 | 60 | 80 | 50 | 50 | 40 | 15 | 40 |
+| 57 | Murlidhar Mohol | LS | 6 | 50 | 60 | 50 | 50 | 40 | 85 | 40 |
+| 58 | Sanjay Raut | RS | 35 | 50 | 0 | 69 | 100 | 40 | 15 | 40 |
+| 59 | Nitin Laxmanrao Jadhav Patil | RS | 35 | 50 | 60 | 54 | 0 | 40 | 15 | 40 |
+| 60 | Vishaldada Prakashbapu Patil | LS | 6 | 55 | 10 | 100 | 80 | 40 | 15 | 40 |
 | 61 | Sanjay Haribhau Jadhav | LS | 21 | 50 | 40 | 45 | 70 | 40 | 15 | 40 |
 | 62 | Bhumare Sandipanrao Asaram | LS | 24 | 55 | 20 | 70 | 50 | 40 | 15 | 40 |
 | 63 | Mohite Patil Dhairyasheel Rajsinh | LS | 4 | 50 | 0 | 95 | 70 | 40 | 65 | 40 |

@@ -4,17 +4,17 @@
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 34.3 / 100
+## Composite Transparency Score: 41.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 14.0 | 25% |
 | Asset Growth | 40.0 | 15% |
-| Criminal Record | 45.0 | 15% |
+| Criminal Record | 80.0 | 15% |
 | Parliament Attendance | 25.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 2
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 2
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -94,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [!] **assets**: Liabilities exceed 5x total assets — unusual, verify
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
@@ -105,11 +104,11 @@
 
 ## Qualitative Assessment
 
-Dr. S Jagathratchakan has a below-average transparency score of 34.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
+Dr. S Jagathratchakan has a below-average transparency score of 41.3/100, indicating significant room for improvement. Minor criminal cases on record. Low MPLADS fund utilization needs attention. Low parliament attendance is notable. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 534,587,828. MPLADS utilization: 17.6%. Parliament attendance: 25.0%. Questions asked: 46. Debates participated: 2. Low confidence data: Criminal record. 2 warning(s) noted.
+Has 2 criminal case(s) (0 serious), 2 pending, 0 conviction(s). Declared assets: Rs 534,587,828. MPLADS utilization: 17.6%. Parliament attendance: 25.0%. Questions asked: 46. Debates participated: 2. 1 warning(s) noted.
 
 ---
 

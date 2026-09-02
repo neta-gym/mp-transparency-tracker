@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Kerala
 
-*Generated: 2026-09-02 18:55 UTC | Methodology v3.1 | 29 MPs*
+*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 29 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -12,14 +12,14 @@
 | 6 | LS | K C Venugopal | Alappuzha | Indian National Congress | 60.1 | 61% | Low fund utilization, High attendance |
 | 7 | RS | Abdul Wahab | Rajya Sabha (Keralam) | Indian Union Muslim League | 59.5 | 50% | Clean record, Low fund utilization |
 | 8 | LS | M P Abdussamad Samadani | Ponnani | Indian Union Muslim League | 57.1 | 61% | Low fund utilization, High attendance |
-| 9 | LS | Dean Kuriakose | Idukki | Indian National Congress | 54.5 | 67% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
-| 10 | LS | N K Premachandran | Kollam | Revolutionary Socialist Party | 54.3 | 61% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
-| 11 | RS | John Brittas | Rajya Sabha (Keralam) | Communist Party of India (Marxist) | 53.4 | 50% | Significant criminal cases, Low fund utilization, High attendance |
-| 12 | LS | Benny Behanan | Chalakudy | Indian National Congress | 51.1 | 53% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
-| 13 | LS | Priyanka Gandhi Vadra | Wayanad | Indian National Congress | 49.2 | 61% | Low fund utilization, High attendance |
-| 14 | LS | Adoor Prakash | Attingal | Indian National Congress | 48.4 | 67% | Significant criminal cases, Low fund utilization, High attendance |
-| 15 | LS | Kodikunnil Suresh | Mavelikkara | Indian National Congress | 46.9 | 61% | Significant criminal cases, Low fund utilization, High attendance |
-| 16 | LS | E T Mohammed Basheer | Malappuram | Indian Union Muslim League | 46.3 | 43% | Significant criminal cases, Low fund utilization, High attendance |
+| 9 | LS | E T Mohammed Basheer | Malappuram | Indian Union Muslim League | 55.3 | 52% | Low fund utilization, High attendance |
+| 10 | LS | Dean Kuriakose | Idukki | Indian National Congress | 54.5 | 67% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
+| 11 | LS | N K Premachandran | Kollam | Revolutionary Socialist Party | 54.3 | 61% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
+| 12 | RS | John Brittas | Rajya Sabha (Keralam) | Communist Party of India (Marxist) | 53.4 | 50% | Significant criminal cases, Low fund utilization, High attendance |
+| 13 | LS | Benny Behanan | Chalakudy | Indian National Congress | 52.1 | 61% | Low fund utilization, High attendance, Legislative initiative |
+| 14 | LS | Priyanka Gandhi Vadra | Wayanad | Indian National Congress | 49.2 | 61% | Low fund utilization, High attendance |
+| 15 | LS | Adoor Prakash | Attingal | Indian National Congress | 48.4 | 67% | Significant criminal cases, Low fund utilization, High attendance |
+| 16 | LS | Kodikunnil Suresh | Mavelikkara | Indian National Congress | 46.9 | 61% | Significant criminal cases, Low fund utilization, High attendance |
 | 17 | RS | Jebi Mather Hisham | Rajya Sabha (Keralam) | Indian National Congress | 45.6 | 50% | Significant criminal cases, Low fund utilization, High attendance |
 | 18 | LS | Shashi Tharoor | Thiruvananthapuram | Indian National Congress | 45.5 | 61% | Significant criminal cases, Low fund utilization, High attendance, Legislative initiative |
 | 19 | RS | A. A. Rahim | Rajya Sabha (Keralam) | Communist Party of India (Marxist) | 43.7 | 50% | Significant criminal cases, Low fund utilization, High attendance |
@@ -46,14 +46,14 @@
 | 6 | K C Venugopal | LS | 18 | 60 | 80 | 95 | 80 | 40 | 65 | 40 |
 | 7 | Abdul Wahab | RS | 35 | 50 | 100 | 55 | 100 | 40 | 15 | 40 |
 | 8 | M P Abdussamad Samadani | LS | 2 | 50 | 90 | 100 | 70 | 40 | 65 | 40 |
-| 9 | Dean Kuriakose | LS | 28 | 85 | 0 | 100 | 90 | 40 | 65 | 70 |
-| 10 | N K Premachandran | LS | 18 | 55 | 40 | 95 | 80 | 40 | 65 | 70 |
-| 11 | John Brittas | RS | 35 | 50 | 40 | 94 | 100 | 40 | 15 | 40 |
-| 12 | Benny Behanan | LS | 12 | 55 | 45 | 95 | 80 | 40 | 45 | 50 |
-| 13 | Priyanka Gandhi Vadra | LS | 20 | 55 | 60 | 85 | 20 | 40 | 85 | 40 |
-| 14 | Adoor Prakash | LS | 12 | 85 | 0 | 100 | 80 | 40 | 85 | 40 |
-| 15 | Kodikunnil Suresh | LS | 14 | 60 | 30 | 85 | 70 | 40 | 65 | 40 |
-| 16 | E T Mohammed Basheer | LS | 6 | 50 | 45 | 100 | 70 | 40 | 15 | 40 |
+| 9 | E T Mohammed Basheer | LS | 6 | 50 | 90 | 100 | 70 | 40 | 15 | 40 |
+| 10 | Dean Kuriakose | LS | 28 | 85 | 0 | 100 | 90 | 40 | 65 | 70 |
+| 11 | N K Premachandran | LS | 18 | 55 | 40 | 95 | 80 | 40 | 65 | 70 |
+| 12 | John Brittas | RS | 35 | 50 | 40 | 94 | 100 | 40 | 15 | 40 |
+| 13 | Benny Behanan | LS | 12 | 55 | 50 | 95 | 80 | 40 | 45 | 50 |
+| 14 | Priyanka Gandhi Vadra | LS | 20 | 55 | 60 | 85 | 20 | 40 | 85 | 40 |
+| 15 | Adoor Prakash | LS | 12 | 85 | 0 | 100 | 80 | 40 | 85 | 40 |
+| 16 | Kodikunnil Suresh | LS | 14 | 60 | 30 | 85 | 70 | 40 | 65 | 40 |
 | 17 | Jebi Mather Hisham | RS | 35 | 50 | 0 | 96 | 100 | 40 | 15 | 40 |
 | 18 | Shashi Tharoor | LS | 18 | 50 | 0 | 95 | 70 | 40 | 85 | 70 |
 | 19 | A. A. Rahim | RS | 35 | 50 | 0 | 83 | 100 | 40 | 15 | 40 |

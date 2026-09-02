@@ -46,7 +46,7 @@
 - **Net Worth:** N/A
 - **Previous Total Assets:** N/A
 - **Asset Growth:** N/A
-- **Wealth Percentile:** Wealthier than 69% of Lok Sabha MPs
+- **Wealth Percentile:** Wealthier than 71% of Lok Sabha MPs
 
 ---
 

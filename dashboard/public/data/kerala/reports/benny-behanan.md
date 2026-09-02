@@ -4,17 +4,17 @@
 **Party:** Indian National Congress
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (46%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (57%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 51.1 / 100
+## Composite Transparency Score: 52.1 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 11.6 | 25% |
 | Asset Growth | 55.0 | 15% |
-| Criminal Record | 45.0 | 15% |
+| Criminal Record | 50.0 | 15% |
 | Parliament Attendance | 95.0 | 10% |
 | Questions & Debates | 80.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -25,10 +25,10 @@
 
 ## Criminal Record
 
-- **Total Cases:** 0
+- **Total Cases:** 5
 - **Serious Cases:** 0
 - **Convictions:** 0
-- **Pending Cases:** 0
+- **Pending Cases:** 5
 - **Disposed Cases:** 0
 - **Data Source:** myneta
 
@@ -115,7 +115,6 @@ to step up interstate anti-drug drive - The New Indian Express** (The New Indian
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -125,11 +124,11 @@ to step up interstate anti-drug drive - The New Indian Express** (The New Indian
 
 ## Qualitative Assessment
 
-Benny Behanan shows moderate transparency with a score of 51.1/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
+Benny Behanan shows moderate transparency with a score of 52.1/100. Significant criminal cases are a concern. Low MPLADS fund utilization needs attention. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 35,020,209. MPLADS utilization: 14.6%. Parliament attendance: 95.0%. Questions asked: 60. Debates participated: 8. Low confidence data: Criminal record. 1 warning(s) noted.
+Has 5 criminal case(s) (0 serious), 5 pending, 0 conviction(s). Declared assets: Rs 35,020,209. MPLADS utilization: 14.6%. Parliament attendance: 95.0%. Questions asked: 60. Debates participated: 8.
 
 ---
 

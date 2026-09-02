@@ -4,17 +4,17 @@
 **Party:** Independent
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 39.3 / 100
+## Composite Transparency Score: 50.3 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 46.7 | 25% |
 | Asset Growth | 60.0 | 15% |
-| Criminal Record | 45.0 | 15% |
+| Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 35.0 | 10% |
 | Questions & Debates | 0.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -94,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -104,11 +103,11 @@
 
 ## Qualitative Assessment
 
-Sarabjeet Singh Khalsa has a below-average transparency score of 39.3/100, indicating significant room for improvement. Significant criminal cases are a concern. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
+Sarabjeet Singh Khalsa shows moderate transparency with a score of 50.3/100. No criminal cases declared. Low parliament attendance is notable. Limited participation in parliamentary proceedings.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 10,808,400. MPLADS utilization: 54.5%. Parliament attendance: 35.0%. Low confidence data: Criminal record. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 10,808,400. MPLADS utilization: 54.5%. Parliament attendance: 35.0%.
 
 ---
 

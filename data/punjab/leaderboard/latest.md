@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Punjab
 
-*Generated: 2026-09-02 18:55 UTC | Methodology v3.1 | 20 MPs*
+*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 20 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
@@ -14,15 +14,15 @@
 | 8 | LS | Malvinder Singh Kang | Anandpur Sahib | Aam Aadmi Party | 59.7 | 51% | Clean record, Low fund utilization, High attendance |
 | 9 | LS | Sukhjinder Singh Randhawa | Gurdaspur | Indian National Congress | 59.2 | 51% | Clean record, Low fund utilization, High attendance |
 | 10 | RS | Raghav Chadha | Rajya Sabha (Punjab) | Bharatiya Janata Party | 58.0 | 50% | Low fund utilization, High attendance |
-| 11 | RS | Rajinder Gupta | Rajya Sabha (Punjab) | Bharatiya Janata Party | 54.2 | 50% | Low fund utilization |
-| 12 | LS | Harsimrat Kaur Badal | Bathinda | Shiromani Akali Dal | 53.6 | 51% | Clean record, Low fund utilization, Low attendance |
-| 13 | RS | Harbhajan Singh | Rajya Sabha (Punjab) | Bharatiya Janata Party | 52.8 | 50% | Clean record, Low fund utilization, Low attendance |
-| 14 | LS | Charanjit Singh Channi | Jalandhar | Indian National Congress | 50.6 | 60% | Clean record, Low fund utilization, Low attendance |
-| 15 | LS | Gurmeet Singh Meet Hayer | Sangrur | Aam Aadmi Party | 49.6 | 53% | Significant criminal cases, Low fund utilization, High attendance |
-| 16 | RS | Vikramjit Singh Sahney | Rajya Sabha (Punjab) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
-| 17 | LS | Raj Kumar Chabbewal | Hoshiarpur | Aam Aadmi Party | 46.6 | 60% | Clean record, Low fund utilization, Low attendance |
-| 18 | LS | Dharamvira Gandhi | Patiala | Indian National Congress | 44.3 | 43% | Significant criminal cases, Low fund utilization |
-| 19 | LS | Sarabjeet Singh Khalsa | Faridkot | Independent | 39.3 | 43% | Significant criminal cases, Low attendance |
+| 11 | LS | Gurmeet Singh Meet Hayer | Sangrur | Aam Aadmi Party | 56.6 | 61% | Low fund utilization, High attendance |
+| 12 | LS | Dharamvira Gandhi | Patiala | Indian National Congress | 55.3 | 52% | Clean record, Low fund utilization |
+| 13 | RS | Rajinder Gupta | Rajya Sabha (Punjab) | Bharatiya Janata Party | 54.2 | 50% | Low fund utilization |
+| 14 | LS | Harsimrat Kaur Badal | Bathinda | Shiromani Akali Dal | 53.6 | 51% | Clean record, Low fund utilization, Low attendance |
+| 15 | RS | Harbhajan Singh | Rajya Sabha (Punjab) | Bharatiya Janata Party | 52.8 | 50% | Clean record, Low fund utilization, Low attendance |
+| 16 | LS | Charanjit Singh Channi | Jalandhar | Indian National Congress | 50.6 | 60% | Clean record, Low fund utilization, Low attendance |
+| 17 | LS | Sarabjeet Singh Khalsa | Faridkot | Independent | 50.3 | 52% | Clean record, Low attendance |
+| 18 | RS | Vikramjit Singh Sahney | Rajya Sabha (Punjab) | Bharatiya Janata Party | 48.0 | 37% | Clean record, Low fund utilization |
+| 19 | LS | Raj Kumar Chabbewal | Hoshiarpur | Aam Aadmi Party | 46.6 | 60% | Clean record, Low fund utilization, Low attendance |
 | 20 | LS | Amritpal Singh | Khadoor Sahib | Independent | 24.8 | 67% | Significant criminal cases, Low fund utilization, Low attendance |
 
 ### Score Breakdown
@@ -39,13 +39,13 @@
 | 8 | Malvinder Singh Kang | LS | 32 | 60 | 100 | 90 | 40 | 40 | 15 | 40 |
 | 9 | Sukhjinder Singh Randhawa | LS | 25 | 55 | 100 | 95 | 50 | 40 | 15 | 40 |
 | 10 | Raghav Chadha | RS | 35 | 50 | 70 | 85 | 100 | 40 | 15 | 40 |
-| 11 | Rajinder Gupta | RS | 35 | 50 | 80 | 60 | 80 | 40 | 15 | 40 |
-| 12 | Harsimrat Kaur Badal | LS | 36 | 55 | 100 | 35 | 60 | 40 | 15 | 40 |
-| 13 | Harbhajan Singh | RS | 35 | 50 | 100 | 30 | 70 | 40 | 15 | 40 |
-| 14 | Charanjit Singh Channi | LS | 13 | 60 | 100 | 25 | 60 | 40 | 65 | 40 |
-| 15 | Gurmeet Singh Meet Hayer | LS | 24 | 50 | 45 | 80 | 60 | 40 | 85 | 40 |
-| 16 | Vikramjit Singh Sahney | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
-| 17 | Raj Kumar Chabbewal | LS | 36 | 50 | 100 | 5 | 10 | 40 | 85 | 40 |
-| 18 | Dharamvira Gandhi | LS | 24 | 50 | 45 | 75 | 50 | 40 | 15 | 40 |
-| 19 | Sarabjeet Singh Khalsa | LS | 47 | 60 | 45 | 35 | 0 | 40 | 15 | 40 |
+| 11 | Gurmeet Singh Meet Hayer | LS | 24 | 50 | 80 | 80 | 60 | 40 | 85 | 40 |
+| 12 | Dharamvira Gandhi | LS | 24 | 50 | 100 | 75 | 50 | 40 | 15 | 40 |
+| 13 | Rajinder Gupta | RS | 35 | 50 | 80 | 60 | 80 | 40 | 15 | 40 |
+| 14 | Harsimrat Kaur Badal | LS | 36 | 55 | 100 | 35 | 60 | 40 | 15 | 40 |
+| 15 | Harbhajan Singh | RS | 35 | 50 | 100 | 30 | 70 | 40 | 15 | 40 |
+| 16 | Charanjit Singh Channi | LS | 13 | 60 | 100 | 25 | 60 | 40 | 65 | 40 |
+| 17 | Sarabjeet Singh Khalsa | LS | 47 | 60 | 100 | 35 | 0 | 40 | 15 | 40 |
+| 18 | Vikramjit Singh Sahney | RS | 35 | 50 | 100 | 45 | 0 | 40 | 15 | 40 |
+| 19 | Raj Kumar Chabbewal | LS | 36 | 50 | 100 | 5 | 10 | 40 | 85 | 40 |
 | 20 | Amritpal Singh | LS | 35 | 50 | 0 | 0 | 0 | 40 | 85 | 40 |

@@ -4,17 +4,17 @@
 **Party:** Dravida Munnetra Kazhagam
 **House:** Lok Sabha (18th Parliament, 2024-present)
 **Report Date:** 2026-09-02
-**Data Confidence:** Low (39%) | **Evidence Grade:** Secondary (D)
+**Data Confidence:** Medium (50%) | **Evidence Grade:** Secondary (D)
 
 ---
 
-## Composite Transparency Score: 56.6 / 100
+## Composite Transparency Score: 67.6 / 100
 
 | Component | Score | Weight |
 |-----------|-------|--------|
 | MPLADS Fund Utilization | 54.1 | 25% |
 | Asset Growth | 60.0 | 15% |
-| Criminal Record | 45.0 | 15% |
+| Criminal Record | 100.0 | 15% |
 | Parliament Attendance | 100.0 | 10% |
 | Questions & Debates | 60.0 | 10% |
 | Committee Engagement | 40.0 | 10% |
@@ -94,7 +94,6 @@
 
 ## Data Validation Flags
 
-- [!] **criminal_record**: Low confidence in criminal data — source may be unavailable
 - [i] **committees**: No committee data found — Sansad profile may be unavailable
 - [i] **legislative**: Low confidence in legislative effectiveness data
 - [i] **evidence_quality**: Majority of data sources (3/4) are Grade D or E
@@ -104,11 +103,11 @@
 
 ## Qualitative Assessment
 
-Rani Srikumar shows moderate transparency with a score of 56.6/100. Significant criminal cases are a concern. High parliament attendance. Active in questions and debates.
+Rani Srikumar shows moderate transparency with a score of 67.6/100. No criminal cases declared. High parliament attendance. Active in questions and debates.
 
 ---
 
-No criminal cases declared. Declared assets: Rs 21,375,000. MPLADS utilization: 59.4%. Parliament attendance: 100.0%. Questions asked: 17. Debates participated: 7. Low confidence data: Criminal record. 1 warning(s) noted.
+No criminal cases declared. Declared assets: Rs 21,375,000. MPLADS utilization: 59.4%. Parliament attendance: 100.0%. Questions asked: 17. Debates participated: 7.
 
 ---
 

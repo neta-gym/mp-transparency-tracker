@@ -1,6 +1,6 @@
 # MP Transparency Leaderboard — Odisha
 
-*Generated: 2026-09-02 18:55 UTC | Methodology v3.1 | 31 MPs*
+*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 31 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|

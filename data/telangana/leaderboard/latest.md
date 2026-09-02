@@ -1,11 +1,11 @@
 # MP Transparency Leaderboard — Telangana
 
-*Generated: 2026-09-02 18:55 UTC | Methodology v3.1 | 24 MPs*
+*Generated: 2026-09-02 19:02 UTC | Methodology v3.1 | 24 MPs*
 
 | Rank | House | MP Name | Constituency | Party | Score | Confidence | Key Finding |
 |------|-------|---------|-------------|-------|-------|------------|-------------|
-| 1 | LS | Vamsi Krishna Gaddam | Peddapalle | Indian National Congress | 58.6 | 60% | Clean record, Low fund utilization, High attendance |
-| 2 | LS | Chamala Kiran Kumar Reddy | Bhongir | Indian National Congress | 56.5 | 53% | Significant criminal cases, Low fund utilization, High attendance |
+| 1 | LS | Chamala Kiran Kumar Reddy | Bhongir | Indian National Congress | 61.5 | 61% | Low fund utilization, High attendance |
+| 2 | LS | Vamsi Krishna Gaddam | Peddapalle | Indian National Congress | 58.6 | 60% | Clean record, Low fund utilization, High attendance |
 | 3 | RS | Abhishek Manu Singhvi | Rajya Sabha (Telangana) | Indian National Congress | 56.4 | 50% | Clean record, Low fund utilization |
 | 4 | LS | Kadiyam Kavya | Warangal | Indian National Congress | 55.7 | 60% | Clean record, Low fund utilization |
 | 5 | LS | Godam Nagesh | Adilabad | Bharatiya Janata Party | 55.0 | 52% | Low fund utilization, High attendance |
@@ -22,8 +22,8 @@
 | 16 | RS | Anil Kumar Yadav Mandadi | Rajya Sabha (Telangana) | Indian National Congress | 45.8 | 50% | Significant criminal cases, Low fund utilization, High attendance |
 | 17 | LS | Arvind Dharmapuri | Nizamabad | Bharatiya Janata Party | 45.3 | 61% | Significant criminal cases, High attendance |
 | 18 | RS | Ravi Chandra Vaddiraju | Rajya Sabha (Telangana) | Bharat Rashtra Samithi | 43.1 | 50% | Significant criminal cases, Low fund utilization |
-| 19 | LS | Balram Naik Porika | Mahabubabad | Indian National Congress | 42.0 | 43% | Significant criminal cases, Low fund utilization |
-| 20 | LS | Mallu Ravi | Nagarkurnool | Indian National Congress | 41.1 | 52% | Significant criminal cases, Low fund utilization, High attendance |
+| 19 | LS | Mallu Ravi | Nagarkurnool | Indian National Congress | 41.1 | 52% | Significant criminal cases, Low fund utilization, High attendance |
+| 20 | LS | Balram Naik Porika | Mahabubabad | Indian National Congress | 41.0 | 52% | Significant criminal cases, Low fund utilization |
 | 21 | LS | Madhavaneni Raghunandan Rao | Medak | Bharatiya Janata Party | 40.4 | 61% | Significant criminal cases, Low fund utilization, High attendance |
 | 22 | LS | Kunduru Raghuveer | Nalgonda | Indian National Congress | 39.9 | 52% | Low fund utilization |
 | 23 | LS | Eatala Rajender | Malkajgiri | Bharatiya Janata Party | 35.0 | 52% | Significant criminal cases, Low fund utilization, High attendance |
@@ -33,8 +33,8 @@
 
 | Rank | MP Name | House | MPLADS | Assets | Criminal | Attend. | Particip. | Committee | Access. | Legisl. |
 |------|---------|-------|--------|--------|----------|---------|-----------|-----------|---------|---------|
-| 1 | Vamsi Krishna Gaddam | LS | 8 | 60 | 100 | 85 | 50 | 40 | 85 | 40 |
-| 2 | Chamala Kiran Kumar Reddy | LS | 31 | 60 | 45 | 100 | 70 | 40 | 85 | 40 |
+| 1 | Chamala Kiran Kumar Reddy | LS | 31 | 60 | 70 | 100 | 70 | 40 | 85 | 40 |
+| 2 | Vamsi Krishna Gaddam | LS | 8 | 60 | 100 | 85 | 50 | 40 | 85 | 40 |
 | 3 | Abhishek Manu Singhvi | RS | 35 | 50 | 100 | 41 | 90 | 40 | 15 | 40 |
 | 4 | Kadiyam Kavya | LS | 12 | 50 | 100 | 70 | 50 | 40 | 85 | 40 |
 | 5 | Godam Nagesh | LS | 18 | 60 | 90 | 85 | 50 | 40 | 15 | 40 |
@@ -51,8 +51,8 @@
 | 16 | Anil Kumar Yadav Mandadi | RS | 35 | 50 | 0 | 97 | 100 | 40 | 15 | 40 |
 | 17 | Arvind Dharmapuri | LS | 45 | 55 | 0 | 85 | 60 | 40 | 65 | 40 |
 | 18 | Ravi Chandra Vaddiraju | RS | 35 | 50 | 0 | 79 | 100 | 40 | 15 | 40 |
-| 19 | Balram Naik Porika | LS | 34 | 40 | 45 | 70 | 30 | 40 | 15 | 40 |
-| 20 | Mallu Ravi | LS | 24 | 60 | 10 | 90 | 50 | 40 | 15 | 40 |
+| 19 | Mallu Ravi | LS | 24 | 60 | 10 | 90 | 50 | 40 | 15 | 40 |
+| 20 | Balram Naik Porika | LS | 34 | 40 | 40 | 70 | 30 | 40 | 15 | 40 |
 | 21 | Madhavaneni Raghunandan Rao | LS | 13 | 50 | 0 | 100 | 60 | 40 | 65 | 40 |
 | 22 | Kunduru Raghuveer | LS | 3 | 50 | 80 | 60 | 0 | 40 | 15 | 40 |
 | 23 | Eatala Rajender | LS | 6 | 50 | 0 | 90 | 60 | 40 | 15 | 40 |
