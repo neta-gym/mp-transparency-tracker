@@ -81,14 +81,13 @@ jobs:
           exit 0
 
       - name: Write status file
+        env:
+          RUN_RC: ${{ steps.scrape.outputs.run_rc }}
         run: |
           mkdir -p data/_meta/rescore_status
-          python3 - "$GITHUB_OUTPUT" <<'PY'
-          import json, datetime, re, sys
-          rc = None
-          for line in open(sys.argv[1]):
-              m = re.match(r"run_rc=(\d+)", line)
-              if m: rc = int(m.group(1))
+          python3 - <<'PY'
+          import json, datetime, os
+          rc = int(os.environ["RUN_RC"]) if os.environ.get("RUN_RC") else None
           status = {
               "state": "${{ matrix.state }}",
               "finished": rc == 0,
