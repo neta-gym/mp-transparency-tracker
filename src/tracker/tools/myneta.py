@@ -138,15 +138,84 @@ class MyNetaParser:
 
         return criminal, assets, profile_extras
 
-    def _parse_criminal(self, soup: BeautifulSoup) -> CriminalRecord:
-        """Extract criminal case information with pending/disposed breakdown."""
+    def _parse_case_tables(self, soup: BeautifulSoup) -> list[CriminalCase]:
+        """Parse MyNeta's affidavit tables: 'Cases where Pending' and
+        'Cases where Convicted'. These carry the full per-case detail
+        (FIR no., case no., court, IPC sections, other acts, charges-framed
+        info, appeal status / punishment)."""
+        cases: list[CriminalCase] = []
+
+        def rows_after(heading_regex: str) -> list:
+            for tag in soup.find_all(["h2", "h3", "h4"]):
+                if re.search(heading_regex, tag.get_text(strip=True), re.IGNORECASE):
+                    table = tag.find_parent("div").find_next("table") if tag.find_parent("div") else None
+                    table = table or tag.find_next("table")
+                    if table:
+                        return table.find_all("tr")
+            return []
+
+        def cells(row):
+            return [c.get_text(strip=True) for c in row.find_all("td")]
+
+        # Pending: Serial | FIR No. | Case No. | Court | IPC Sections |
+        # Other Acts | Charges Framed | Date framed | Appeal Filed | Appeal status
+        for row in rows_after(r"cases where pending"):
+            c = cells(row)
+            if len(c) < 5 or not c[0].strip().isdigit():
+                continue
+            sections = _clean_ipc_sections(c[4])
+            desc_parts = [p for p in [c[1], c[5]] if p]
+            case = CriminalCase(
+                description=" | ".join(desc_parts),
+                ipc_sections=sections,
+                is_serious=_is_serious_case(sections, " ".join(desc_parts)),
+                is_convicted=False,
+                status="pending",
+                court=c[3] if len(c) > 3 else "",
+                fir_no=c[1] if len(c) > 1 else "",
+                case_no=c[2] if len(c) > 2 else "",
+                other_acts=c[5] if len(c) > 5 else "",
+                charges_framed=c[6] if len(c) > 6 else "",
+                date_charges_framed=c[7] if len(c) > 7 else "",
+                appeal_filed=c[8] if len(c) > 8 else "",
+                appeal_status=c[9] if len(c) > 9 else "",
+            )
+            cases.append(case)
+
+        # Convicted: Serial | Case No. | Court | IPC Sections | Other Acts |
+        # Punishment | Date convicted | Appeal Filed | Appeal status
+        for row in rows_after(r"cases where convicted"):
+            c = cells(row)
+            if len(c) < 4 or not c[0].strip().isdigit():
+                continue
+            sections = _clean_ipc_sections(c[3])
+            case = CriminalCase(
+                description=c[4] if len(c) > 4 else "",
+                ipc_sections=sections,
+                is_serious=_is_serious_case(sections, c[4] if len(c) > 4 else ""),
+                is_convicted=True,
+                status="convicted",
+                court=c[2] if len(c) > 2 else "",
+                case_no=c[1] if len(c) > 1 else "",
+                other_acts=c[4] if len(c) > 4 else "",
+                punishment=c[5] if len(c) > 5 else "",
+                date_convicted=c[6] if len(c) > 6 else "",
+                appeal_filed=c[7] if len(c) > 7 else "",
+                appeal_status=c[8] if len(c) > 8 else "",
+            )
+            cases.append(case)
+
+        return cases
+
+    def _parse_criminal_legacy(self, soup: BeautifulSoup):
+        """Older MyNeta layout: a generic 'criminal' heading followed by a
+        freeform table. Returns (cases, serious, convicted, pending,
+        disposed, section_tag)."""
         cases: list[CriminalCase] = []
         serious_count = 0
         conviction_count = 0
         pending_count = 0
         disposed_count = 0
-
-        # Look for criminal cases section
         criminal_section = None
         for tag in soup.find_all(["h2", "h3", "h4", "b", "strong"]):
             if "criminal" in tag.get_text(strip=True).lower():
@@ -162,14 +231,10 @@ class MyNetaParser:
                         desc = cells[-1].get_text(strip=True) if cells else ""
                         sections_text = cells[1].get_text(strip=True) if len(cells) > 1 else ""
                         ipc_sections = _clean_ipc_sections(sections_text)
-
-                        # Combine all cell text for status inference
                         full_row_text = " ".join(c.get_text(strip=True) for c in cells)
                         status = _infer_case_status(full_row_text)
-
                         is_serious = _is_serious_case(ipc_sections, desc)
                         is_convicted = status == "convicted"
-
                         if is_serious:
                             serious_count += 1
                         if is_convicted:
@@ -178,15 +243,43 @@ class MyNetaParser:
                             pending_count += 1
                         if status == "disposed" or status == "acquitted":
                             disposed_count += 1
-
-                        case = CriminalCase(
+                        cases.append(CriminalCase(
                             description=desc,
                             ipc_sections=ipc_sections,
                             is_serious=is_serious,
                             is_convicted=is_convicted,
                             status=status,
-                        )
-                        cases.append(case)
+                        ))
+        return cases, serious_count, conviction_count, pending_count, disposed_count, criminal_section
+
+    def _parse_criminal(self, soup: BeautifulSoup) -> CriminalRecord:
+        """Extract criminal case information with pending/disposed breakdown."""
+        cases: list[CriminalCase] = []
+        serious_count = 0
+        conviction_count = 0
+        pending_count = 0
+        disposed_count = 0
+
+        # Preferred path: the real affidavit tables (current MyNeta layout).
+        cases = self._parse_case_tables(soup)
+        for case in cases:
+            if case.is_serious:
+                serious_count += 1
+            if case.is_convicted:
+                conviction_count += 1
+            if case.status == "pending":
+                pending_count += 1
+            if case.status in ("disposed", "acquitted"):
+                disposed_count += 1
+
+        # Legacy fallback: older layout with a generic "criminal" heading table.
+        criminal_section = None
+        if not cases:
+            cases, s2, c2, p2, d2, criminal_section = self._parse_criminal_legacy(soup)
+            serious_count += s2
+            conviction_count += c2
+            pending_count += p2
+            disposed_count += d2
 
         # Also look for summary text
         total = len(cases)

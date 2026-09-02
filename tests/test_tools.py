@@ -589,3 +589,40 @@ class TestSansadCommitteeParser:
 
         assert result.total_committees == 0
         assert result.confidence <= 0.3
+
+
+class TestMyNetaAffidavitCaseTables:
+    """Current MyNeta layout: 'Cases where Pending' / 'Cases where Convicted'."""
+
+    def _parse(self, name):
+        html_path = os.path.join(FIXTURES_DIR, name)
+        with open(html_path, encoding="utf-8", errors="replace") as f:
+            return MyNetaParser(scraper=None)._parse(f.read())
+
+    def test_pending_cases_have_full_detail(self):
+        criminal, _, _ = self._parse("myneta_ls2024_cases.html")
+        assert criminal.pending_cases == 3
+        assert criminal.total_cases == 3
+        case = criminal.cases[0]
+        assert case.status == "pending"
+        assert "0384/2023" in case.fir_no
+        assert case.ipc_sections == ["420", "469"]
+        assert case.charges_framed == "No"
+        assert case.appeal_filed == "No"
+
+    def test_other_acts_captured(self):
+        criminal, _, _ = self._parse("myneta_ls2024_cases.html")
+        wildlife = criminal.cases[2]
+        assert "Wildlife" in wildlife.other_acts
+
+    def test_serious_classification(self):
+        criminal, _, _ = self._parse("myneta_ls2024_cases.html")
+        # IPC 420 (cheating) is a serious section
+        assert criminal.serious_cases == 1
+        assert criminal.cases[0].is_serious
+
+    def test_explicit_no_cases(self):
+        criminal, _, _ = self._parse("myneta_ls2024_nocases.html")
+        assert criminal.total_cases == 0
+        assert criminal.cases == []
+        assert criminal.confidence >= 0.7

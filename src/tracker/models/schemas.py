@@ -80,6 +80,16 @@ class CriminalCase(BaseModel):
     is_convicted: bool = False
     status: str = "unknown"  # pending / disposed / convicted / acquitted / unknown
     court: str = ""
+    # Affidavit table detail (MyNeta "Cases where Pending/Convicted" tables)
+    fir_no: str = ""
+    case_no: str = ""
+    other_acts: str = ""
+    charges_framed: str = ""
+    date_charges_framed: str = ""
+    appeal_filed: str = ""
+    appeal_status: str = ""
+    punishment: str = ""
+    date_convicted: str = ""
 
 
 class CriminalRecord(BaseModel):
