@@ -65,7 +65,7 @@ For the **687 MPs with verified attendance records** (PRS India), average attend
 
 ## How this was built
 
-The tracker is an open data pipeline: public records are collected by automated agents, normalized into auditable JSON (one file per MP, in this repository under `data/`), scored deterministically by published code (`src/tracker/`), and published as a static dashboard. Every score change is a public git commit. The full methodology, weights, and scoring code are in the repo; the dataset regenerates from sources.
+The tracker is an open data pipeline: public records are collected automatically from the source portals, normalized into auditable JSON (one file per MP, in this repository under `data/`), scored deterministically by published code (`src/tracker/`), and published as a static dashboard. Every score change is a public git commit. The full methodology, weights, and scoring code are in the repo; the dataset regenerates from sources.
 
 ## Contact
 
