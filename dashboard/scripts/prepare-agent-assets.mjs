@@ -229,7 +229,6 @@ function buildCompareIndex() {
       const cm = f.committees ?? {};
       const lg = f.legislative ?? {};
       const sm = f.social_media ?? {};
-      const isRS = (e.house ?? "lok_sabha") === "rajya_sabha";
       mps.push({
         mpName: e.mp_name,
         constituency: e.constituency,
@@ -251,7 +250,9 @@ function buildCompareIndex() {
             !!pa.is_minister &&
             (pa.questions_asked ?? 0) === 0 &&
             (pa.debates_participated ?? 0) === 0,
-          mplads: !isRS && mp.entitled == null && mp.released == null,
+          // MPLADS applies to RS members too (nodal-district based); missing
+          // values are a coverage gap in our pipeline, not a structural N/A.
+          mplads: mp.entitled == null && mp.released == null,
           assets: as.total_assets == null,
           criminal:
             cr.total_cases == null ||
@@ -265,11 +266,7 @@ function buildCompareIndex() {
           accessibility:
             (sm.total_platforms ?? 0) === 0 && (sm.confidence ?? 0) < 0.3,
         },
-        notApplicable: {
-          // MPLADS is a Lok Sabha constituency scheme; Rajya Sabha members
-          // have no MPLADS record, so the dimension is N/A (not "estimated").
-          mplads: isRS,
-        },
+
         dimensionScores: {
           mplads_score: e.mplads_score,
           asset_score: e.asset_score,

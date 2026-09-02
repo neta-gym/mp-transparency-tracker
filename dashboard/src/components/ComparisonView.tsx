@@ -29,7 +29,6 @@ interface CompareMP {
     legislative?: boolean;
     accessibility?: boolean;
   };
-  notApplicable?: { mplads?: boolean };
   dimensionScores: Record<string, number | null>;
   metrics: {
     attendancePct: number | null;
@@ -198,11 +197,6 @@ function dimEstimated(mp: CompareMP, compKey: string): boolean {
   return k ? !!mp.estimated?.[k] : false;
 }
 
-/** Does a dimension not apply to this MP at all (e.g. MPLADS for Rajya Sabha)? */
-function dimNotApplicable(mp: CompareMP, compKey: string): boolean {
-  if (compKey === "mplads_score") return !!mp.notApplicable?.mplads;
-  return false;
-}
 
 /** Winner indexes among real (non-estimated) values only. Placeholder scores
  * can never win a row, and a row needs at least 2 real values to have a winner. */
@@ -446,9 +440,7 @@ export function ComparisonView() {
 
                     {/* Dimension scores */}
                     {SCORE_COMPONENTS.map((comp) => {
-                      const vals = selected.map((mp) =>
-                        dimNotApplicable(mp, comp.key) ? null : (mp.dimensionScores?.[comp.key] ?? null)
-                      );
+                      const vals = selected.map((mp) => mp.dimensionScores?.[comp.key] ?? null);
                       const est = selected.map((mp) => dimEstimated(mp, comp.key));
                       const w = winnersReal(vals, est);
                       return (
@@ -461,11 +453,7 @@ export function ComparisonView() {
                           </td>
                           {vals.map((v, i) => (
                             <td key={i} className={`p-3 text-center font-mono text-sm ${w.has(i) ? "bg-success/20 font-bold" : ""}`}>
-                              {dimNotApplicable(selected[i], comp.key) ? (
-                                <span className="text-text-muted" title="Not applicable for this MP">
-                                  N/A
-                                </span>
-                              ) : v != null ? (
+                              {v != null ? (
                                 est[i] ? (
                                   <span className="text-text-muted" title="Estimated: no underlying data">
                                     {v.toFixed(1)}*
