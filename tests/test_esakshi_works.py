@@ -209,3 +209,26 @@ async def test_fuzzy_state_resolution_union_territory():
     )
     assert await client.resolve_state_id("dadra and nagar haveli and daman and diu") == 9
     assert await client.resolve_state_id("nonexistent-place") is None
+
+
+def test_sanctioned_report_upgrades_status_with_sanction_stage_label():
+    rec = dict(RECOMMENDED[0])
+    rec["WORK_STAGE"] = "Pending for Sanction"
+    san = [
+        {
+            "WORK_RECOMMENDATION_DTL_ID": 268560,
+            "WORK_STAGE": "Sanction",
+            "SANCTION_AMOUNT": 925000.0,
+            "SANCTION_DATE": "14-May-2026",
+        }
+    ]
+    works = merge_work_lifecycle([rec], san, [], SRC)
+    assert works[0].status == "sanctioned"
+    assert works[0].sanction_date == "14-May-2026"
+
+
+def test_sanctioned_report_without_stage_still_marks_sanctioned():
+    rec = dict(RECOMMENDED[0])
+    san = [{"WORK_RECOMMENDATION_DTL_ID": 268560, "WORK_STAGE": None, "FLAG": 1, "SANCTION_AMOUNT": 925000.0}]
+    works = merge_work_lifecycle([rec], san, [], SRC)
+    assert works[0].status == "sanctioned"

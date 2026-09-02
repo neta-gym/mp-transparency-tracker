@@ -101,6 +101,10 @@ async def backfill_state(
                 stats["skipped"].append(f"{name}: mp unresolved on eSAKSHI")
                 continue
             works = await asyncio.wait_for(client.fetch_works(resolved), timeout=240)
+        except asyncio.CancelledError:
+            stats["errors"].append(f"{name}: timed out")
+            log.warning("%s/%s timed out", state, name)
+            continue
         except Exception as e:  # noqa: BLE001 - record and continue
             stats["errors"].append(f"{name}: {e}")
             log.warning("%s/%s failed: %s", state, name, e)

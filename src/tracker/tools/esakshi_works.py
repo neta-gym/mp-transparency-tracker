@@ -61,6 +61,7 @@ def _norm(text: str) -> str:
 _STATUS_MAP = {
     "pending for sanction": "recommended",
     "recommended": "recommended",
+    "sanction": "sanctioned",  # eSAKSHI sanctioned-report stage label
     "sanctioned": "sanctioned",
     "work in progress": "in_progress",
     "in progress": "in_progress",
@@ -122,8 +123,15 @@ def merge_work_lifecycle(
         w.sanctioned_amount = rec.get("SANCTION_AMOUNT")
         w.sanction_date = (rec.get("SANCTION_DATE") or "").strip() or None
         w.executing_agency = w.executing_agency or (rec.get("IDA_NAME") or "").strip() or None
-        if w.status in ("unknown", "recommended"):
-            w.status = map_work_status(rec.get("WORK_STAGE"), rec.get("FLAG")) or "sanctioned"
+        stage_status = map_work_status(rec.get("WORK_STAGE"), None)
+        if stage_status not in ("unknown", "recommended"):
+            w.status = stage_status
+        elif w.status in ("unknown", "recommended") and (
+            rec.get("SANCTION_AMOUNT") is not None or rec.get("SANCTION_DATE")
+        ):
+            # Row appears in the sanctioned report: it is sanctioned at minimum.
+            # (FLAG is per-report and unreliable here.)
+            w.status = "sanctioned"
 
     for rec in completed:
         w = _get(rec)
